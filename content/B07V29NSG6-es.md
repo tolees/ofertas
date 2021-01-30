@@ -16,6 +16,7 @@ comparePrice: 12.2 EUR
 prodname: 'Chinchón Seco - Anís - 1000 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V29NSG6/?tag=tolees-21'
 descuento: '50.00'
 average: '6.1'

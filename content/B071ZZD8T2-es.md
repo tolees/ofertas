@@ -16,6 +16,7 @@ comparePrice: 57.99 EUR
 prodname: 'HyperX Predator - Memoria RAM de 8 GB  DDR4  2400 MHz  CL12  DIMM XMP  HX424C12PB3/8 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071ZZD8T2/?tag=tolees-21'
 descuento: '27.57'
 average: '42.0'

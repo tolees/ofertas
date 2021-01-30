@@ -16,6 +16,7 @@ comparePrice: 149.0 EUR
 prodname: 'TOUS - Pendientes BRIGHT cristal de roca hidrotermal'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TZV4X79/?tag=tolees-21'
 descuento: '53.69'
 average: '69.0'

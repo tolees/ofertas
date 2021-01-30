@@ -16,6 +16,7 @@ comparePrice: 28.5 EUR
 prodname: 'Project Cars 2'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MZIXMQC/?tag=tolees-21'
 descuento: '36.18'
 average: '18.19'

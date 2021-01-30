@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Juego de 36 Lana Fieltro Ovillos Colores Suave Kit Fieltro de Lana con Aguja Lana Cardata Apto para Hacer Manualidades y Detalles Creativos ai Principiantes profesionales  Incluye I  instrucciones '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BX4SMZW/?tag=tolees-21'
 descuento: '43.35'
 average: '16.99'

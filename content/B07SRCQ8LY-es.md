@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'adidas Deerupt Runner  Zapatillas de Gimnasia para Hombre  Negro  Core Black/Core Black/Hi/Res Aqua Core Black/Core Black/Hi/Res Aqua   40 2/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SRCQ8LY/?tag=tolees-21'
 descuento: '40.03'
 average: '59.94'

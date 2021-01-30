@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'New Balance W890V7 m  Zapatillas de Running para Mujer  Blanco  White White   36.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DVG6QSJ/?tag=tolees-21'
 descuento: '62.77'
 average: '44.68'

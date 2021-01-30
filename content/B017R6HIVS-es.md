@@ -16,6 +16,7 @@ comparePrice: 59 EUR
 prodname: 'Superga 2750 COTU Classic  Zapatillas Unisex  Verde  905 Tot Military  40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B017R6HIVS/?tag=tolees-21'
 descuento: '28.81'
 average: '42'

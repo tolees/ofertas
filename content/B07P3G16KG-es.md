@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Superdry Orange Label Classic Jogger Pantalones de Deporte  Gris  Hammer Grey Grindle Pw8   48  Talla del Fabricante: Small  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P3G16KG/?tag=tolees-21'
 descuento: '51.21'
 average: '39.03'

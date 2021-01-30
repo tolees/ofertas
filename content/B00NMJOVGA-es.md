@@ -16,6 +16,7 @@ comparePrice: 4.99 EUR
 prodname: 'Batiste Oriental Pretty & Opulent Dry Shampoo Champú - 200 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NMJOVGA/?tag=tolees-21'
 descuento: '42.08'
 average: '2.89'

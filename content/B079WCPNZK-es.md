@@ -16,6 +16,7 @@ comparePrice: 279.9 EUR
 prodname: 'Lenovo 120S-11IAP - Ordenador portátil de 11.6" HD  Intel Celeron N3350  2 GB RAM  32 GB EMMC  Intel HD 500  Windows 10 Home  blanco - Teclado QWERTY Español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079WCPNZK/?tag=tolees-21'
 descuento: '34.58'
 average: '184.46666666666667'

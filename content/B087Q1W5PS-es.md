@@ -16,6 +16,7 @@ comparePrice: 30.99 EUR
 prodname: 'FSCOVER Funda para iPad Pro 12 9 2020  Purpurina Ultra Delgado Ligero Estuche Inteligente con Cubierta Trasera Transparente  Auto Sueño/Estela para iPad Pro 12 9” 2020  Rosado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087Q1W5PS/?tag=tolees-21'
 descuento: '48.40'
 average: '15.99'

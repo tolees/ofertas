@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Need for Speed Payback - Edición estándar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071WCJWZQ/?tag=tolees-21'
 descuento: '36.01'
 average: '29.9525'

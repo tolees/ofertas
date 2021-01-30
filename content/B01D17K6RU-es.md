@@ -16,6 +16,7 @@ comparePrice: 229.0 EUR
 prodname: 'Samsonite Paradiver Light - Bolsa de viaje con ruedas  L  79 cm - 121.5 L   Negro  Black '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01D17K6RU/?tag=tolees-21'
 descuento: '52.18'
 average: '109.5'

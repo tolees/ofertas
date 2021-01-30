@@ -16,6 +16,7 @@ comparePrice: 25.94 EUR
 prodname: 'Jack & Jones JJIRICK JJICON Shorts AMA STS Pantalones Cortos  Cápsula  M para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085J8GKTY/?tag=tolees-21'
 descuento: '54.20'
 average: '11.88'

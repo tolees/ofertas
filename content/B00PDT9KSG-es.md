@@ -16,6 +16,7 @@ comparePrice: 12.27 EUR
 prodname: 'MAM - Conjunto de 2 chupetes que brillan en la oscuridad con esterilizable estuche de viaje  0 meses  Azul  Azul/Blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00PDT9KSG/?tag=tolees-21'
 descuento: '43.03'
 average: '8.61'

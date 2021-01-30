@@ -16,6 +16,7 @@ comparePrice: 850.0 EUR
 prodname: 'Dolphin Carrera 30 - Robot limpiafondos para piscinas  fondo  paredes y línea de flotación '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XTJSX62/?tag=tolees-21'
 descuento: '47.06'
 average: '450.0'

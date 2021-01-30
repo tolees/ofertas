@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Viedouce Baberos Bebés con Mangas  Impermeables Baberos Manga  Baberos bandolera para bebé con Bolsillo Delantero  Baberos de Alimentación Delantal para Niños Niñas de 6 Meses a 3 Años  2 pack '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S48P5GG/?tag=tolees-21'
 descuento: '53.35'
 average: '14.132857142857143'

@@ -16,6 +16,7 @@ comparePrice: 377.51 EUR
 prodname: 'Crucial CT2K32G4SFD8266 Kit de Memoria RAM de 64 GB  32 GB x 2   DDR4  2666 MT/s  SODIMM  260-Pin  1.2V  CL19 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZLCC6J8/?tag=tolees-21'
 descuento: '37.18'
 average: '237.15'

@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'LOSMILE Bolsa de Viaje la Lona.  Marrón '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DLTTB5R/?tag=tolees-21'
 descuento: '45.02'
 average: '32.59'

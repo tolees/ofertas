@@ -16,6 +16,7 @@ comparePrice: 37.9 EUR
 prodname: 'DIM Generous Invisible Sujetador  Blanco  Nacre   100B para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005XMJCWC/?tag=tolees-21'
 descuento: '60.47'
 average: '18.03'

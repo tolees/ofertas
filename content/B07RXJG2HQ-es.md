@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'New Balance 373v2  Zapatillas para Hombre  Negro  Black/Blue Ab2   39.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RXJG2HQ/?tag=tolees-21'
 descuento: '50.04'
 average: '39.97'

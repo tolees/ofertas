@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'PRIXTON - Soporte para Tablet Coche/Soporte Universal de Tablet con Adaptador para Colocar en el Reposacabezas  para Tablets de 7-11 Pulgadas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06Y2XSS5C/?tag=tolees-21'
 descuento: '40.13'
 average: '8.95'

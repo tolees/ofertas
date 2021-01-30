@@ -16,6 +16,7 @@ comparePrice: 25.95 EUR
 prodname: 'Arena Fundamentals Logo Bañador  Hombre  Naranja  Mango/Royal   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B018SW6CZ8/?tag=tolees-21'
 descuento: '36.84'
 average: '14.56'

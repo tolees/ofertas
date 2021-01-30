@@ -16,6 +16,7 @@ comparePrice: 21.89 EUR
 prodname: 'Philips - bombilla E27  rosca Edison  LED  230 V – blanco cálido  efecto escarchado  sintético  E27  5.5 wattsW 240 voltsV'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01KHILBHU/?tag=tolees-21'
 descuento: '33.21'
 average: '14.768571428571429'

@@ -16,6 +16,7 @@ comparePrice: 39.5 EUR
 prodname: 'Versa 18790697 Perchero pie blanco - Metal y madera 171x28x28cm  6 colgadores'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XS8SR1J/?tag=tolees-21'
 descuento: '37.06'
 average: '26.54'

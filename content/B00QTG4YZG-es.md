@@ -16,6 +16,7 @@ comparePrice: 5.79 EUR
 prodname: 'Algon AB126 Barbacoa desecheable  Gris  24x31x4.5 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00QTG4YZG/?tag=tolees-21'
 descuento: '27.81'
 average: '5.319999999999999'

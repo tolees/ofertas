@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Crocs Swiftwater Deck Clog Men  Hombre Zueco  Marrón  Khaki/Stucco   41-42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01H6NXXNO/?tag=tolees-21'
 descuento: '26.51'
 average: '29.39'

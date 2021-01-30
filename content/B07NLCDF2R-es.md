@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Zapatillas/NIKE:Wmns NIKE Court Vision Low 40 NEGR'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NLCDF2R/?tag=tolees-21'
 descuento: '36.52'
 average: '41.26'

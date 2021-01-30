@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'EasySMX Auriculares Niños  [Regalos Originales] Cascos de Diadema para Niños  Cascos Infantiles con Cable  3.5 mm Jack  Volumen Limitado de 85Db para iPod iPad iPhone 3.5mm  Handy Tablet PC MP3 MP4'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01KYU5LV8/?tag=tolees-21'
 descuento: '26.33'
 average: '16.74'

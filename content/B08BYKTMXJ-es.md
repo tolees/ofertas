@@ -16,6 +16,7 @@ comparePrice: 9.52 EUR
 prodname: 'LNIEGE Aspirador Motor del Cepillo de carbón 2311480/333261 / 33326-1  2PCS '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BYKTMXJ/?tag=tolees-21'
 descuento: '31.30'
 average: '6.54'

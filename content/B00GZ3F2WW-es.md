@@ -16,6 +16,7 @@ comparePrice: 28.95 EUR
 prodname: 'Fonestar STV-649B - Soporte TV orientable brazo articulado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00GZ3F2WW/?tag=tolees-21'
 descuento: '27.46'
 average: '21.0'

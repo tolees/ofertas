@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Desodorante desodorante natural Perfume sólido antitranspirante para la prevención del sudor de manos y pies  perfume sólido elegante simple adecuado para hombres y mujeres'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083Q32HRR/?tag=tolees-21'
 descuento: '41.20'
 average: '16.52333333333333'

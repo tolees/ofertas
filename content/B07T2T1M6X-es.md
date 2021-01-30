@@ -16,6 +16,7 @@ comparePrice: 1149.0 EUR
 prodname: 'MSI PS42 Modern 8RA-280XES - Ordenador portátil de 14" FHD  Intel i7-8565U  16 GB RAM  512GB SSD  Nvidia GeForce MX250-2GB  sin sistema operativo  plata - Teclado QWERTY Español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T2T1M6X/?tag=tolees-21'
 descuento: '26.02'
 average: '889.6580000000001'

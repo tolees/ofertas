@@ -16,6 +16,7 @@ comparePrice: 63.98 EUR
 prodname: 'WD Black - Disco duro de alto rendimiento para ordenadores de sobremesa de 500 GB  7200 rpm  SATA a 6 Gb/s  32 MB de caché  2.5" '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00QFXOL5G/?tag=tolees-21'
 descuento: '32.84'
 average: '42.97'

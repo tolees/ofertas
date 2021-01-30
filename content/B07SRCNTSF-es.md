@@ -16,6 +16,7 @@ comparePrice: 109.95 EUR
 prodname: 'adidas EQT Gazelle  Zapatillas de Gimnasia para Hombre  Gris  Grey Two F17/Silver Met./Core Black Grey Two F17/Silver Met./Core Black   42 2/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SRCNTSF/?tag=tolees-21'
 descuento: '71.54'
 average: '31.29'

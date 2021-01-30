@@ -16,6 +16,7 @@ comparePrice: 159 EUR
 prodname: 'H. Koenig stc68 aspirador Multi Ciclónico sin bolsa Compact + especial pelo de animales-triple a-ligero-fácil de utilizar-potente  azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C42PCCF/?tag=tolees-21'
 descuento: '49.75'
 average: '79.9'

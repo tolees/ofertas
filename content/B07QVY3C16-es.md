@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Espejo de Maquillaje de Doble Cara con luz LED  5X de Aumento Espejo Cosmético con Interruptor Táctil de Brillo Ajustable. Espejo de Viaje Iluminado Portátil  360° de Rotación …'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QVY3C16/?tag=tolees-21'
 descuento: '33.34'
 average: '19.52846153846154'

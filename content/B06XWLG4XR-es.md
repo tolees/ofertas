@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Evilandat - Placa metálica de matrícula de la ruta 66 de EE. UU.  estilo vintage y anticuado  para decorar la pared del hogar  tienda  garaje  bar '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XWLG4XR/?tag=tolees-21'
 descuento: '40.03'
 average: '8.99'

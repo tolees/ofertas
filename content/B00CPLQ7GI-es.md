@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'Objetivo Olympus M.Zuiko Digital 45 mm F1.8  longitud focal fija rápida  apto para todas las cámaras MFT  modelos Olympus OM-D & PEN  serie G de Panasonic   negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00CPLQ7GI/?tag=tolees-21'
 descuento: '33.78'
 average: '204.19833333333332'

@@ -16,6 +16,7 @@ comparePrice: 38.95 EUR
 prodname: 'Funko- Pop Ride Racer-Speed w/Mach 5 Collectible Toy  Multicolor  45098 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TTD3SCS/?tag=tolees-21'
 descuento: '69.22'
 average: '15.790000000000001'

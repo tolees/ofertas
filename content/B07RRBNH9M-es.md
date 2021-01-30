@@ -16,6 +16,7 @@ comparePrice: 299.95 EUR
 prodname: 'Oral-B Genius 10000N - Cepillo Eléctrico Blanco con Tecnología de Braun'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RRBNH9M/?tag=tolees-21'
 descuento: '50.71'
 average: '150.928'

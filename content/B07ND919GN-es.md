@@ -16,6 +16,7 @@ comparePrice: 159.0 EUR
 prodname: 'Lacoste Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable 2011017'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ND919GN/?tag=tolees-21'
 descuento: '29.59'
 average: '115.125'

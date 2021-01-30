@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Levi s 502 Regular Taper Jeans  Azul  Kalsomine 0388   33W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K78BR7V/?tag=tolees-21'
 descuento: '48.36'
 average: '51.64'

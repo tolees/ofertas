@@ -16,6 +16,7 @@ comparePrice: 54.75 EUR
 prodname: 'Converse M9166C - Zapatillas de lona /canvas para mujer  color negro  talla 37'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002W5S2IS/?tag=tolees-21'
 descuento: '41.53'
 average: '39.54'

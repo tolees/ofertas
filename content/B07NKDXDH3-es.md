@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'iAmotus Ratón Inalámbrico Recargable  2.4G Ratón Óptico Silencioso Click Mini con 3 Niveles de dpi y Nano USB Receptor Ergonómico Mouse para Windows/Linux/Vista/PC/Mac  Computadora  Portátil  PC'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NKDXDH3/?tag=tolees-21'
 descuento: '26.68'
 average: '11.066923076923077'

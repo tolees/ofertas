@@ -16,6 +16,7 @@ comparePrice: 10.2 EUR
 prodname: 'BAUSCH + LOMB - Renu® MultiPlus Solución de Mantenimiento - Kit viaje Pack 2 botellas x 60 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F28DY1W/?tag=tolees-21'
 descuento: '41.86'
 average: '5.93'

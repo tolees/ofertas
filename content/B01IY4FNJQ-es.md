@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Reebok Exofit Lo Clean Logo  Zapatillas Para Hombre  Negro  AR3168_39 EU_Black/Silver/Silver   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IY4FNJQ/?tag=tolees-21'
 descuento: '48.11'
 average: '41.49'

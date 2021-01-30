@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Funko- Pop Marvel: Endgame-Thor w/Can Collectible Toy  Multicolor  45142 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TYQ194M/?tag=tolees-21'
 descuento: '37.18'
 average: '10.848999999999998'

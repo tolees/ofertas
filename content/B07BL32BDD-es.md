@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'New Balance Fresh Foam Zante m  Zapatillas Deportivas para Interior para Mujer  Negro  Black/Orca/Sea Salt LB   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BL32BDD/?tag=tolees-21'
 descuento: '57.58'
 average: '42.42'

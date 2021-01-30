@@ -16,6 +16,7 @@ comparePrice: 117.76 EUR
 prodname: 'Reloj de Hombre BENYAR cronógrafo Resistente al Agua con Correa de Cuero de Cuarzo analógico Reloj de Pulsera para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z4CSNXP/?tag=tolees-21'
 descuento: '66.04'
 average: '39.99'

@@ -16,6 +16,7 @@ comparePrice: 52.74 EUR
 prodname: 'Casio Reloj Digital para Mujer de Cuarzo con Correa en Resina LA-20WH-4A1EF'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077YZHF21/?tag=tolees-21'
 descuento: '55.01'
 average: '24.55375'

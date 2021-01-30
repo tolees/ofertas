@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'Columbia Grixsen Boot WP  Botas Chukka para Hombre  Negro  Black  Graphite 010   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KK3FZMX/?tag=tolees-21'
 descuento: '74.47'
 average: '38.29'

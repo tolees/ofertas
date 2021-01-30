@@ -16,6 +16,7 @@ comparePrice: 87.49 EUR
 prodname: 'Reebok Classic Leather - Zapatillas de cuero para hombre  color blanco  int-white / lt. grey   talla 45.5'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00R5CDRN8/?tag=tolees-21'
 descuento: '33.88'
 average: '58.550000000000004'

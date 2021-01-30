@@ -16,6 +16,7 @@ comparePrice: 23.7 EUR
 prodname: 'Shimano Acera CSHG2009134 - Cassette Hg200 11/34 9V.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KPQC656/?tag=tolees-21'
 descuento: '49.37'
 average: '12.475'

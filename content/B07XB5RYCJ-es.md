@@ -16,6 +16,7 @@ comparePrice: 90.44 EUR
 prodname: 'Mini Pluma para cámara-Bolígrafo de cámara espía-Pluma Cámara Oculto 1080p HD-2.5 Horas Toma de Video Duración con 32 GB de Memoria para conferencias de Negocios y Seguridad GSmade'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XB5RYCJ/?tag=tolees-21'
 descuento: '40.30'
 average: '53.99'

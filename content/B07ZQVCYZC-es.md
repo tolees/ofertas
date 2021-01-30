@@ -16,6 +16,7 @@ comparePrice: 28.18 EUR
 prodname: 'TRESemmé Botanique Pack Champú + Protector y Rizador de Cabello'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZQVCYZC/?tag=tolees-21'
 descuento: '62.92'
 average: '10.45'

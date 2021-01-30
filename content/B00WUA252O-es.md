@@ -16,6 +16,7 @@ comparePrice: 200.0 EUR
 prodname: 'Nixon Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable A468-632-00'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00WUA252O/?tag=tolees-21'
 descuento: '31.46'
 average: '123.788'

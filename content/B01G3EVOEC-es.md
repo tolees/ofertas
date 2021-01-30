@@ -16,6 +16,7 @@ comparePrice: 25.58 EUR
 prodname: 'Hombre de Acero 4k Uhd [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01G3EVOEC/?tag=tolees-21'
 descuento: '47.34'
 average: '15.91'

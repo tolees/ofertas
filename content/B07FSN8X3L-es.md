@@ -16,6 +16,7 @@ comparePrice: 7.95 EUR
 prodname: 'Maybelline New York Barra de Labios Mate Superstay Matte Ink City Edition  Tono 117 Ground Breaker'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FSN8X3L/?tag=tolees-21'
 descuento: '25.79'
 average: '7.266666666666667'

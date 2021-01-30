@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Sennheiser Momentum Free - Auriculares inalámbricos  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073WNBHRS/?tag=tolees-21'
 descuento: '30.15'
 average: '109.0'

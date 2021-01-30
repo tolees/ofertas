@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'KUNGYO Decoraciones de Fiesta de Cumpleaños para Adultos y Niños  Oro Rosa Gigante Número 1 y Estrella de Helio Globos  Cintas  Globos de Confeti de Látex- Rose Gold Suministros de Fiesta'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D486JRF/?tag=tolees-21'
 descuento: '36.69'
 average: '9.49'

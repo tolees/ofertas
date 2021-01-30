@@ -16,6 +16,7 @@ comparePrice: 13.23 EUR
 prodname: 'Absorbente Universal 3 unid'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B008DVC2U4/?tag=tolees-21'
 descuento: '39.53'
 average: '8.0'

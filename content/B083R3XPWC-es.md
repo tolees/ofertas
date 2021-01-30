@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Auriculares Bluetooth Deportivos  Auriculares Inalambricos Bluetooth 5.0  35H Playtime  IPX7 Impermeable  Altavoz de 10mm  In-Ear Auriculares con Mic  Control Táctil para Android/iOS/PC/TV/PS4'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083R3XPWC/?tag=tolees-21'
 descuento: '50.01'
 average: '28.79'

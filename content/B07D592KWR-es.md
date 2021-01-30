@@ -16,6 +16,7 @@ comparePrice: 109.99 EUR
 prodname: 'Fjallraven Kånken Photo Insert Wallets and Small Bags  Unisex Adulto  Frost Green  OneSize'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D592KWR/?tag=tolees-21'
 descuento: '48.68'
 average: '56.45'

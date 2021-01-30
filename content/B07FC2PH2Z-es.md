@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'OLTA Auriculares In-Ear con micrófono  Auriculares para Móvil y MP3 Reproducir Música  Bajo Estéreo y Control Remoto  Auriculares con Cable 3.5mm（Negro）'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FC2PH2Z/?tag=tolees-21'
 descuento: '35.02'
 average: '12.656666666666666'

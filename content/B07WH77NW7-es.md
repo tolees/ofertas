@@ -16,6 +16,7 @@ comparePrice: 31.95 EUR
 prodname: 'Artesania Cerda Deportiva Suela Ligera Avengers Capitan America  Zapatillas para Niños  Gris  Gris C13   27 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WH77NW7/?tag=tolees-21'
 descuento: '28.36'
 average: '22.89'

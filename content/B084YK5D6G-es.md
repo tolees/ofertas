@@ -16,6 +16,7 @@ comparePrice: 9.85 EUR
 prodname: 'Baoblaze 1 Par De Plantillas De Inserción De Talón De Zapata Cojín De Plantilla Amortiguadores De Zapato Amortiguador Pies Planos - Beige  XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084YK5D6G/?tag=tolees-21'
 descuento: '44.47'
 average: '5.47'

@@ -16,6 +16,7 @@ comparePrice: 8.9 EUR
 prodname: 'NEW C Funda para iPhone 7  iPhone 8  Anti- Choques y Anti- Arañazos  Silicona TPU  HD Clara'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XBBMCYD/?tag=tolees-21'
 descuento: '44.94'
 average: '4.9'

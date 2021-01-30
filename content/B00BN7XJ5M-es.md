@@ -16,6 +16,7 @@ comparePrice: 13.0 EUR
 prodname: 'L Oréal Paris Barra de Labios Color Riche Accords Naturels 231 Sépia'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BN7XJ5M/?tag=tolees-21'
 descuento: '71.62'
 average: '6.8166666666666655'

@@ -16,6 +16,7 @@ comparePrice: 2.47 EUR
 prodname: 'Yazilind Joyas de plata esterlina corazón diseño anillo ajustable para las mujeres'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00T63YPOO/?tag=tolees-21'
 descuento: '44.13'
 average: '1.38'

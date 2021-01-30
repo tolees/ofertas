@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'Kingston DataTraveler 100 G3 -DT100G3/32GB-2P  2 Piezas  USB 3.0  Flash Drive  32 GB  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081PQDGV5/?tag=tolees-21'
 descuento: '35.70'
 average: '8.75'

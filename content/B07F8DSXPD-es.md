@@ -16,6 +16,7 @@ comparePrice: 9.05 EUR
 prodname: 'Mono/Pelele de manga larga para bebé  3-6 Meses   Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F8DSXPD/?tag=tolees-21'
 descuento: '67.40'
 average: '2.95'

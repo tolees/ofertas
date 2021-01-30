@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'PUMA Smash WNS V2 SD  Zapatillas para Mujer  Gris  Silver Cloud/Mist Green Team Gold/Whisper White   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SBW1D2N/?tag=tolees-21'
 descuento: '67.70'
 average: '17.75'

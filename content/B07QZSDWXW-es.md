@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'Baby Einstein 11311  Andador y Centro de Actividades Multilingue 4-en-1 Around We Grow  6-36 Meses'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QZSDWXW/?tag=tolees-21'
 descuento: '35.00'
 average: '97.49'

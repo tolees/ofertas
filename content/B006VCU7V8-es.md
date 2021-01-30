@@ -16,6 +16,7 @@ comparePrice: 79.8 EUR
 prodname: 'Lancaster Suractif Volume Contorno Day Cream 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B006VCU7V8/?tag=tolees-21'
 descuento: '50.74'
 average: '41.230000000000004'

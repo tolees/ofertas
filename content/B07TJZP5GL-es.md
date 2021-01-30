@@ -16,6 +16,7 @@ comparePrice: 189.99 EUR
 prodname: 'Dash Cam  Lncoon JC200 3G/WiFi Dual Cámara para Coche 1080P HD con GPS  DVR Cámara Loop Grabación/G-Sensor/Corte de energía  Alarma de Vibración/SOS  3G Transmisión de Video en Vivo a Través de APP/PC'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TJZP5GL/?tag=tolees-21'
 descuento: '31.58'
 average: '129.99'

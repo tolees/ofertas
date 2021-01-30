@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'Under Armour  UNDKU Rival Parte Superior del Calentamiento  Mujer  Gris  SM'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L13SF4N/?tag=tolees-21'
 descuento: '52.02'
 average: '23.99'

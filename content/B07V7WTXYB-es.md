@@ -16,6 +16,7 @@ comparePrice: 167.4 EUR
 prodname: 'Love MoschinoJc4253pp0aMujerShoppers y bolsos de hombroMarfil  Ivory 6x17x22 Centimeters  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V7WTXYB/?tag=tolees-21'
 descuento: '57.19'
 average: '74.30666666666667'

@@ -16,6 +16,7 @@ comparePrice: 84.9 EUR
 prodname: 'Primigi Gore-Tex PPT 43930  Botas Clasicas para Niños  Negro 4393011  31 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NGTLSQ6/?tag=tolees-21'
 descuento: '77.06'
 average: '19.48'

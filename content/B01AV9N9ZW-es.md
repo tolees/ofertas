@@ -16,6 +16,7 @@ comparePrice: 46.6 EUR
 prodname: 'Arquivet Gran Canaria - Jaula  colores Surtidos  40 x 26 x 53 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01AV9N9ZW/?tag=tolees-21'
 descuento: '35.84'
 average: '29.9'

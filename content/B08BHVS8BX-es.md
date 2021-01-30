@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Falechay Calcetines Deportivos para Hombre y Mujer 3 Pares Running Tobillo Bajo Calcetines Cortos Unisex Algodón Transpirables Azul M 39-42 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BHVS8BX/?tag=tolees-21'
 descuento: '28.59'
 average: '9.99'

@@ -16,6 +16,7 @@ comparePrice: 51.14 EUR
 prodname: 'Buyger 2 en 1 Maletin Medicos Juguete Doctora Enfermeras Accesorios Juego de Imitación para 3+ Años Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083V2GNY8/?tag=tolees-21'
 descuento: '49.43'
 average: '25.86'

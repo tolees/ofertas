@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Farmer Dynasty [Versión española]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KC1L43J/?tag=tolees-21'
 descuento: '34.83'
 average: '35.035'

@@ -16,6 +16,7 @@ comparePrice: 25.5 EUR
 prodname: 'CLA - Ácido Linoleico Conjugado | 1000mg x 200 perlas | Pérdida de peso  Crecimiento Muscular | Aceite Vegetal de Cártamo 100% Natural  sin gluten  sin transgénicos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078Y9PBX4/?tag=tolees-21'
 descuento: '37.37'
 average: '15.97'

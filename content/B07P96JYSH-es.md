@@ -16,6 +16,7 @@ comparePrice: 16.7 EUR
 prodname: 'Pop! Figura de Vinilo: Películas: The Nun - Demonic Nun'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P96JYSH/?tag=tolees-21'
 descuento: '35.51'
 average: '11.079777777777778'

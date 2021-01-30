@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'KangaROOS Snowdrifter  Zapatillas Unisex bebé  Blau  Dark Navy/Lime 4054   21 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M96BB4R/?tag=tolees-21'
 descuento: '29.02'
 average: '21.26'

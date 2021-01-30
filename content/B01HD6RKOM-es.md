@@ -16,6 +16,7 @@ comparePrice: 159.95 EUR
 prodname: 'Salomon XA Pro 3D GTX  Zapatillas de Trail Running para Hombre  Negro  Black/Black/Magnet   49 1/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HD6RKOM/?tag=tolees-21'
 descuento: '38.11'
 average: '98.99'

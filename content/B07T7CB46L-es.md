@@ -16,6 +16,7 @@ comparePrice: 52.2 EUR
 prodname: 'Skechers Bobs Squad-Glitz Maker  Zapatillas para Mujer  Rosa  Pink Sparkle Engineered Knit Pnk   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T7CB46L/?tag=tolees-21'
 descuento: '65.57'
 average: '17.97'

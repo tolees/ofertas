@@ -16,6 +16,7 @@ comparePrice: 23.9 EUR
 prodname: 'Toshiba TransMemory U301 - Memoria USB de 64 GB  color blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00X9GK6QK/?tag=tolees-21'
 descuento: '37.28'
 average: '13.656666666666666'

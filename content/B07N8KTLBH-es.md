@@ -16,6 +16,7 @@ comparePrice: 31.9 EUR
 prodname: 'BOSS Tylir-Stripe_sz35 Cinturón  Azul  Navy 410   120 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N8KTLBH/?tag=tolees-21'
 descuento: '26.43'
 average: '28.36'

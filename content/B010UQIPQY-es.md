@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'Philips Bombilla LED Vela E14  4 W equivalentes a 25 W  luz blanca cálida'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B010UQIPQY/?tag=tolees-21'
 descuento: '34.92'
 average: '5.2'

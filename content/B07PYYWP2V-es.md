@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Under Armour UA TriBase Thrive  Zapatillas Deportivas para Interior para Hombre  Gris  Halo Gray/Gravity Green/Black   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PYYWP2V/?tag=tolees-21'
 descuento: '60.26'
 average: '35.75'

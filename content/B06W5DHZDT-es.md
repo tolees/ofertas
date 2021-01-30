@@ -16,6 +16,7 @@ comparePrice: 34.9 EUR
 prodname: 'Tommy Hilfiger Bralette Corsé  Blanco  White 100    Talla del Fabricante: SM  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06W5DHZDT/?tag=tolees-21'
 descuento: '39.86'
 average: '20.99'

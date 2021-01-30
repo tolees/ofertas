@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Curver Touch 240269 - Cubo de basura  mecanismo de apertura con toque  40 L  color rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003N9CM8I/?tag=tolees-21'
 descuento: '32.23'
 average: '33.85'

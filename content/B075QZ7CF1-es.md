@@ -16,6 +16,7 @@ comparePrice: 17.73 EUR
 prodname: 'Chanson Mujeres 1 Unidad 300 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075QZ7CF1/?tag=tolees-21'
 descuento: '43.88'
 average: '10.45'

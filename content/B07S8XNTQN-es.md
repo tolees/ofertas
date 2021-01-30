@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'GREAT ART Foto Mural La Tierra desde La Luna Imagen Espacio Poster Planeta 210 x 140 cm - Papel Pintado 5 Piezas incluye Pasta para pegar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S8XNTQN/?tag=tolees-21'
 descuento: '43.88'
 average: '44.9'

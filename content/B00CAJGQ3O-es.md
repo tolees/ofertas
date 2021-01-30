@@ -16,6 +16,7 @@ comparePrice: 10.34 EUR
 prodname: 'Beckham David Beckham Classic Agua de toilette con vaporizador - 40 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00CAJGQ3O/?tag=tolees-21'
 descuento: '32.40'
 average: '6.99'

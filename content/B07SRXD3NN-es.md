@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'Lacoste 739CMA0068082  Zapatillas para Hombre  Blanco  45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SRXD3NN/?tag=tolees-21'
 descuento: '41.63'
 average: '51.95'

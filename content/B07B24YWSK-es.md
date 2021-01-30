@@ -16,6 +16,7 @@ comparePrice: 109.99 EUR
 prodname: 'TACKLIFE Carrete para Manguera  20+2m Manguera de Riego  Retirar Automáticamente  Bloquear en Cualquier Posición  Dispositivo ferroviario  Boquilla y Soporte Ajustables - GHR1A'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B24YWSK/?tag=tolees-21'
 descuento: '28.18'
 average: '76.52275862068966'

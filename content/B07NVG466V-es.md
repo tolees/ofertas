@@ -16,6 +16,7 @@ comparePrice: 7.65 EUR
 prodname: '20 piezas de sombreros de spa transparentes desechables  gorro de baño de ducha elástico único  sombreros impermeables para peluquería  hogar - transparente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NVG466V/?tag=tolees-21'
 descuento: '33.46'
 average: '5.09'

@@ -16,6 +16,7 @@ comparePrice: 38.57 EUR
 prodname: 'Homyl Adaptador Soporte de Extension Vastago Accesorio de Deportes de Cicicleta Reempalzable para Garmin Edge'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00PU8X9V4/?tag=tolees-21'
 descuento: '44.44'
 average: '21.5'

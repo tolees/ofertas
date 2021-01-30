@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Pulverizador Facial  Hieha Nano Vapor Pulverizador Portátil para Cuidado de la Piel  Mini Facial Mist Sprayer USB carga'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081JFJ5MY/?tag=tolees-21'
 descuento: '69.03'
 average: '6.19'

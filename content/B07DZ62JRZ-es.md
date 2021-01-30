@@ -16,6 +16,7 @@ comparePrice: 29.98 EUR
 prodname: 'HP OMEN 400 - Ratón para gaming  negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DZ62JRZ/?tag=tolees-21'
 descuento: '33.32'
 average: '21.656666666666666'

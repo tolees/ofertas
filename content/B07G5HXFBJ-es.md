@@ -16,6 +16,7 @@ comparePrice: 88.0 EUR
 prodname: 'Impresora Multifuncional Canon PIXMA TS6251 Blanca Wifi de inyección de tinta'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G5HXFBJ/?tag=tolees-21'
 descuento: '26.72'
 average: '64.49'

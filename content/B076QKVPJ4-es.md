@@ -16,6 +16,7 @@ comparePrice: 9.9 EUR
 prodname: 'Tiny Love Oscar el murciélago Into the Forest  juguete sonajero con clip para cochecito'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076QKVPJ4/?tag=tolees-21'
 descuento: '29.39'
 average: '6.99'

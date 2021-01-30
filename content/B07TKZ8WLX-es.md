@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Medallero Colgador de Medallas – Porta Medallas con Marco de Foto para Gimnasia Artística y Rítmica'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TKZ8WLX/?tag=tolees-21'
 descuento: '25.01'
 average: '30.296666666666667'

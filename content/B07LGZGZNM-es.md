@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'BRIKSMAX Kit de Iluminación Led para Tren De Pasajeros De Alta Velocidad -Compatible con Ladrillos de Construcción Lego Modelo 60051 -Juego de Legos no Incluido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LGZGZNM/?tag=tolees-21'
 descuento: '40.01'
 average: '29.99'

@@ -16,6 +16,7 @@ comparePrice: 316.64 EUR
 prodname: 'Corsair Dominator Platinum - Módulo de Memoria XMP 2.0 de Alto Rendimiento de 32 GB  2 x 16 GB  DDR4  3200 MHz  C16 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BGZEWO2/?tag=tolees-21'
 descuento: '37.15'
 average: '211.65'

@@ -16,6 +16,7 @@ comparePrice: 249.9 EUR
 prodname: 'Britax Römer Silla de coche 3 5 años - 12 años  15 - 36 kg  KIDFIX S  ISOFIX  Grupo 2/3  Fire Red'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K7R5S2V/?tag=tolees-21'
 descuento: '31.06'
 average: '172.27'

@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'TECHGEAR Funda Compatible con iPad Pro 11" 2018 [Apple Pencil Compatible] Carcasa con Soporte Plegable Triple con protección en la Esquina [Auto-Sueño/Estela] para iPad Pro 11 Pulgadas - Oro Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VK8BCV7/?tag=tolees-21'
 descuento: '33.44'
 average: '9.95'

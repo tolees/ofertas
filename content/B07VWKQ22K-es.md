@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Skechers Skech-Air Element 2.0  Zapatillas para Mujer  Negro Negro Negro Blanco Malla Ribete BKW  38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VWKQ22K/?tag=tolees-21'
 descuento: '36.75'
 average: '50.57'

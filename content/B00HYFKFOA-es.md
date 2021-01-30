@@ -16,6 +16,7 @@ comparePrice: 46.66 EUR
 prodname: 'Syndicate 58/6 - Scotch Whisky  700 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00HYFKFOA/?tag=tolees-21'
 descuento: '36.01'
 average: '29.86'

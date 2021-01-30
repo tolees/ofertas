@@ -16,6 +16,7 @@ comparePrice: 12.71 EUR
 prodname: 'Head Ski V-shape Kneehigh 2p deporte  Amarillo  Neon Yellow 817   Talla única  Talla del fabricante: 031   Pack de 2  para Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PRMRF9T/?tag=tolees-21'
 descuento: '26.51'
 average: '9.34'

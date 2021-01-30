@@ -16,6 +16,7 @@ comparePrice: 17.3 EUR
 prodname: 'Champú reestructurante para cabello rizado con aceite de argán con biotina  vitamina E y extractos de plantas - 250 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PNHJR8R/?tag=tolees-21'
 descuento: '42.37'
 average: '9.97'

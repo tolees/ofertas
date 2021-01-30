@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Rodillo de jade  Incluye tres cabezas reemplazables  Piedra de jade real 100%  Rodillo de cuarzo rosa  Mango de metal dorado  Bolsas para los ojos con tratamiento natural Kit de masaje facial antiedad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RJS98ZP/?tag=tolees-21'
 descuento: '50.01'
 average: '29.99'

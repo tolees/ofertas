@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'DYNASONIC - ITK Altavoz Bluetooth con Karaoke Radio Micrófono | Lector USB SD y Luces LED  Modelo 362 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q1X7QZ8/?tag=tolees-21'
 descuento: '25.85'
 average: '36.782'

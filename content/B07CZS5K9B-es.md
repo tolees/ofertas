@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'Under Armour Sportstyle Terry Pantalones  Hombre  Negro  Black/Onyx White 001   XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CZS5K9B/?tag=tolees-21'
 descuento: '29.00'
 average: '35.5'

@@ -16,6 +16,7 @@ comparePrice: 36.89 EUR
 prodname: 'Plantronics RIG 300 HS Binaural Diadema Negro - Auriculares con micrófono  Consola de Videojuegos + PC/Videojuegos  Binaural  Diadema  Negro  Alámbrico  1 3 m '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G1HFNPH/?tag=tolees-21'
 descuento: '35.86'
 average: '23.66'

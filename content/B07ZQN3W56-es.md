@@ -16,6 +16,7 @@ comparePrice: 42.7 EUR
 prodname: 'adidas Duramo 9  Zapatillas para Correr para Mujer  Tinte Púrpura/Tinta Legend/Blanco FTWR  41 1/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZQN3W56/?tag=tolees-21'
 descuento: '29.86'
 average: '20.479999999999997'

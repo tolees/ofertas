@@ -16,6 +16,7 @@ comparePrice: 229.0 EUR
 prodname: 'Sennheiser Game One Auriculares de diadema abiertas para gaming  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00JQDOALC/?tag=tolees-21'
 descuento: '44.22'
 average: '132.5233333333333'

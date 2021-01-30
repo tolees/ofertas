@@ -16,6 +16,7 @@ comparePrice: 22.95 EUR
 prodname: 'DAONLY Levadura Cerveza fortalece el Cabello y Evita la caida de Pelo en Perros'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MQYWUJI/?tag=tolees-21'
 descuento: '30.50'
 average: '15.95'

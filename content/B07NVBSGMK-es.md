@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Skechers Men s Expected 2.0 Oxfords  Brown  Brown Leather BRN   6.5  40 EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NVBSGMK/?tag=tolees-21'
 descuento: '29.99'
 average: '41.699999999999996'

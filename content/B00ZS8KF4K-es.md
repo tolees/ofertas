@@ -16,6 +16,7 @@ comparePrice: 13.25 EUR
 prodname: 'Happy Home Designer + 1 Carte Amiibo  Animal Crossing '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ZS8KF4K/?tag=tolees-21'
 descuento: '30.49'
 average: '9.21'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Quiksilver Dredge 17"-Short De Natación para Hombre Traje de Baño  Azul  Blithe  bmm6   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0825MXLRY/?tag=tolees-21'
 descuento: '37.63'
 average: '24.94'

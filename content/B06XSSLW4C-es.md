@@ -16,6 +16,7 @@ comparePrice: 21.6 EUR
 prodname: 'Neutrogena Visibly Renew Loción Corporal Elasticidad Intensa - 750 ml.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XSSLW4C/?tag=tolees-21'
 descuento: '34.03'
 average: '15.363333333333333'

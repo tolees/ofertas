@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Montse Interiors Juego de sábanas Estampado Rayas Flash  para Cama de 180x190/200 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077BW8BCY/?tag=tolees-21'
 descuento: '40.03'
 average: '35.95'

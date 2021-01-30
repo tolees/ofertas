@@ -16,6 +16,7 @@ comparePrice: 13.7 EUR
 prodname: 'Stranger Things Minde Flayer - Cuaderno de notas en espiral  tamaño A5   diseño de flores'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RPNTFVT/?tag=tolees-21'
 descuento: '63.87'
 average: '4.95'

@@ -16,6 +16,7 @@ comparePrice: 76.48 EUR
 prodname: 'perfk Enrutador Móvil 4g  Punto de Acceso Móvil WiFi para Viajes 2000mah - LTE CAT4 - Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X7Z87BM/?tag=tolees-21'
 descuento: '38.10'
 average: '47.34'

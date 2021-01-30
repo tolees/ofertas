@@ -16,6 +16,7 @@ comparePrice: 16.95 EUR
 prodname: 'Gardena 18291-20 Kit  Negro  Gris  Naranja  Plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00PNUCE60/?tag=tolees-21'
 descuento: '26.02'
 average: '14.988000000000001'

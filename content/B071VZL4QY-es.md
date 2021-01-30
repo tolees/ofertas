@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Vampirina-78035 la Pensión del Terror  Multicolor  Bandai 78036 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071VZL4QY/?tag=tolees-21'
 descuento: '50.01'
 average: '51.160000000000004'

@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Superdry Label Jogger  Pantalones de deporte Hombre  Azul  Eclipse Navy 98T   Large  Talla fabricante: 34 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FB53LWX/?tag=tolees-21'
 descuento: '40.01'
 average: '47.99'

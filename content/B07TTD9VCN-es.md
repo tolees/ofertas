@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Superga 2750-cotcontrastu  Zapatillas de Gimnasia Unisex Adulto  Blanco  White/Blue Lt Crysta A0a   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TTD9VCN/?tag=tolees-21'
 descuento: '53.54'
 average: '29.073333333333334'

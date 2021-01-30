@@ -16,6 +16,7 @@ comparePrice: 79.0 EUR
 prodname: 'Kipling Gabbie S  Bolsos Bandolera para Mujer  Azul  Methyl Blue Nc   29x22x16.5 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MVH898C/?tag=tolees-21'
 descuento: '29.63'
 average: '43.5225'

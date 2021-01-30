@@ -16,6 +16,7 @@ comparePrice: 79.0 EUR
 prodname: 'Timex Expédition Scout - Reloj análogico de cuarzo con correa de nailon para hombre  Verde  Verde/Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00HF49WWG/?tag=tolees-21'
 descuento: '39.24'
 average: '51.27222222222222'

@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'DORRISO Lindo Niños Bebe Gorra Cómodo Calentar Pequeña Animal Dibujos Animados Gorras Sombrero de Niño Apto para 1-8 años Niños bebé'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JZ77QP1/?tag=tolees-21'
 descuento: '68.58'
 average: '21.99'

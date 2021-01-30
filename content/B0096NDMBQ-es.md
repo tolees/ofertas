@@ -16,6 +16,7 @@ comparePrice: 8.35 EUR
 prodname: 'Lampa - 90139 - Adaptador para Espejo  Accesorio de Moto'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0096NDMBQ/?tag=tolees-21'
 descuento: '28.14'
 average: '6.0'

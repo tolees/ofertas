@@ -16,6 +16,7 @@ comparePrice: 36.99 EUR
 prodname: 'iSwim Pulsera Actividad  Pulsera Inteligente con Pulsómetro Pulsera Deportiva y Monitor de Ritmo Cardíaco Monitor de Actividad  Rojo de sílice '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K8MJPFH/?tag=tolees-21'
 descuento: '45.96'
 average: '22.82333333333333'

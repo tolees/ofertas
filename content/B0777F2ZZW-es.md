@@ -16,6 +16,7 @@ comparePrice: 299.99 EUR
 prodname: 'Sillita plegable bebé negra Omnio - Desde los 6 meses hasta los 4 años - Carrito plegable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0777F2ZZW/?tag=tolees-21'
 descuento: '51.67'
 average: '145.0'

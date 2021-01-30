@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'Munich Massana  Zapatillas de Deporte para Hombre  Verde  Kaki 303   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D8BCY69/?tag=tolees-21'
 descuento: '38.09'
 average: '61.540000000000006'

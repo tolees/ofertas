@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Reebok Pesos de la Muñeca - 1.5 kg'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B014KPM5IU/?tag=tolees-21'
 descuento: '41.98'
 average: '16.863333333333333'

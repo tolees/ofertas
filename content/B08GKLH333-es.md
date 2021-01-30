@@ -16,6 +16,7 @@ comparePrice: 50.27 EUR
 prodname: 'yaoyan Nuevo Inalámbrico 2.4G Modo Dual Azul Rosa Personalidad Tendencia Tecla Redonda Teclado-Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08GKLH333/?tag=tolees-21'
 descuento: '33.50'
 average: '33.43'

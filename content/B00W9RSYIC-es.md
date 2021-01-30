@@ -16,6 +16,7 @@ comparePrice: 15.5 EUR
 prodname: 'Calvin Klein Radiant Cotton-Bikini Lencería  Blanco  White 100   Medium para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00W9RSYIC/?tag=tolees-21'
 descuento: '45.23'
 average: '8.49'

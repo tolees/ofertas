@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'PUMA NRGY Neko Retro  Zapatillas de Running para Hombre  Peacoat White  40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KG7S2KZ/?tag=tolees-21'
 descuento: '57.59'
 average: '26.965'

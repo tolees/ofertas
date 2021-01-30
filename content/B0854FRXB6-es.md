@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'AirSMall Ganchos de Extensiones Herramientas para Extensiones de Pelo  8 Clip de Peluca  1 Alicate  1 Peine de Cola de Rata  2 Gancho de Ganchillo y Muchos Microanillos para Extensiones de Cabello'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0854FRXB6/?tag=tolees-21'
 descuento: '50.02'
 average: '12.99'

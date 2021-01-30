@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'Pijamas Dos Piezas para Niño Impresión de Excavadora Manga Corta Algodón Top y Pantalon Cortos Conjunto Verano Ropa de Dormir/120'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085ZZJL8G/?tag=tolees-21'
 descuento: '55.05'
 average: '8.99'

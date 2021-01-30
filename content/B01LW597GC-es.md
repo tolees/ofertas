@@ -16,6 +16,7 @@ comparePrice: 13.95 EUR
 prodname: 'L Oréal Paris Barra De Labios Color Riche 343 Rouge Sauvage'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LW597GC/?tag=tolees-21'
 descuento: '80.50'
 average: '5.03'

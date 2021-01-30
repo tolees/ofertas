@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Adidas Terrex Tracerocker  Zapatillas de Senderismo para Hombre  Negro  Negbas/Neguti 000   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0719KNBJ7/?tag=tolees-21'
 descuento: '43.15'
 average: '51.14'

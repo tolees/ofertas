@@ -16,6 +16,7 @@ comparePrice: 260.0 EUR
 prodname: 'Seiko Reloj Cronógrafo para Hombre de Cuarzo con Correa en Cuero SSB305P1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07941XJCC/?tag=tolees-21'
 descuento: '42.69'
 average: '150.88769230769233'

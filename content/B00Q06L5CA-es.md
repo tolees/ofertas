@@ -16,6 +16,7 @@ comparePrice: 27.74 EUR
 prodname: 'iB-iP Mujer Leopardo Estampados a Casuales Super Suave Lazo De Poca Altura Pantalones relajados  Tamaño: M  Leopardo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00Q06L5CA/?tag=tolees-21'
 descuento: '50.36'
 average: '13.77'

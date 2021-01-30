@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'L Oréal Paris Sculpt 01  Base De Maquillaje Fluida - 1 Base De Maquillaje Fluida'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01AUTU9TC/?tag=tolees-21'
 descuento: '43.01'
 average: '8.52'

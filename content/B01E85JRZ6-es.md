@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'DEWALT DCB115-QW - Cargador XR para baterias de 10 8V - 14 4V - 18V carril Li-Ion'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01E85JRZ6/?tag=tolees-21'
 descuento: '63.75'
 average: '35.20666666666666'

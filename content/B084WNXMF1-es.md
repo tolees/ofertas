@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Prensa de ajos Trongle - Trituradora de ajos con pelador fácil  gruesa  duradera aleación de zinc de alta resistencia  agarre fácil para el hogar  cocina y fácil de limpiar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084WNXMF1/?tag=tolees-21'
 descuento: '30.79'
 average: '10.99'

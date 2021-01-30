@@ -16,6 +16,7 @@ comparePrice: 81.99 EUR
 prodname: 'ART VVIES Für Hauptdekorationen Schlafzimmer Leinwand 24x24 Zoll Natur Tiere Afrika Palmen Giraffen Familie mit Haken Holz Gerahmte Wandbild Kunst Malerei'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082HBLRS4/?tag=tolees-21'
 descuento: '56.10'
 average: '35.99'

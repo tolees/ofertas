@@ -16,6 +16,7 @@ comparePrice: 39.41 EUR
 prodname: '"Corazo del Amor" Chapado en plata Pulseras Mujer  Rosa Cristal Abalorio Regalos de la joyería de las mujeres 20 centimetre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071NFJHFD/?tag=tolees-21'
 descuento: '54.35'
 average: '17.99'

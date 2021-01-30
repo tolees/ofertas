@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'Pkila Fusion Diseñado para Sony Xperia 5 II Funda Cover  Transparente al Dorso Carcasa Protección Resistente Impactos TPU Funda Case para Sony Xperia 5 II- Clear'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08H1NYQ81/?tag=tolees-21'
 descuento: '36.40'
 average: '6.99'

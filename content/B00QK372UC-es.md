@@ -16,6 +16,7 @@ comparePrice: 21.74 EUR
 prodname: 'AUKEY Bluetooth Receptor portátil inalámbrico Bluetooth 3.0  Dispositivos de Audio para Hogar  HiFi  Coche  Sistema de Altavoces y móvil con Salida Stereo 3.5 mm  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00QK372UC/?tag=tolees-21'
 descuento: '29.58'
 average: '15.31'

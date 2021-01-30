@@ -16,6 +16,7 @@ comparePrice: 63.8 EUR
 prodname: 'Tommy Hilfiger TJM Tommy Classics Stretch Polo  Blau  Black Iris 002   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JYCJJ6G/?tag=tolees-21'
 descuento: '39.67'
 average: '38.49'

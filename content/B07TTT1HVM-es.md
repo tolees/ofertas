@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Women s Secret Feminine Lace Off White Sujetador con Push-up  Multicolor  Varios 3   95  Tamaño del Fabricante: 95B  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TTT1HVM/?tag=tolees-21'
 descuento: '55.50'
 average: '11.12'

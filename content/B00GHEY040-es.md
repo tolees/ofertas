@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'McCulloch 00096-72.078.01 B26 PS Desbrozadora con un ancho de trabajo de 40 cm  cabezal de corte  interruptor de arranque y parada automático  750 W'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00GHEY040/?tag=tolees-21'
 descuento: '50.50'
 average: '158.21249999999998'

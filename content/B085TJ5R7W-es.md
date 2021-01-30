@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'ELEHOT Bascula Baño Digital Escala de Peso Multifunción Balanza Baño Electrónica Sensor Automático Almacena 10 Usuarios Medida Precisa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085TJ5R7W/?tag=tolees-21'
 descuento: '28.09'
 average: '18.69'

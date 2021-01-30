@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Fresh N Rebel Rockbox Slice - Altavoz portátil con Bluetooth  color azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MT7ALMP/?tag=tolees-21'
 descuento: '49.99'
 average: '26.663333333333334'

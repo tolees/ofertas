@@ -16,6 +16,7 @@ comparePrice: 39.0 EUR
 prodname: 'Cartera Pepe Jeans Deadline vertical con cierre de clic Marrón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HPFH99V/?tag=tolees-21'
 descuento: '31.54'
 average: '26.7'

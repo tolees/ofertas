@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'Botas de Nieve Antideslizantes Impermeables Clásicas para Hombres'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HC96F9V/?tag=tolees-21'
 descuento: '56.53'
 average: '19.99'

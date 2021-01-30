@@ -16,6 +16,7 @@ comparePrice: 12.39 EUR
 prodname: 'Corrector de Postura Espalda y Hombros Para Hombre y Mujer  Faja para Dolor de Espalda Cinturón de Cintura Enderezador de Espalda Transpirable para Hombre y Mujer Espalda Recta Soporte Aliviar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TGDFPT5/?tag=tolees-21'
 descuento: '46.00'
 average: '6.69'

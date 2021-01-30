@@ -16,6 +16,7 @@ comparePrice: 9.83 EUR
 prodname: 'Marcilla Café Grano Gran Aroma Mezcla - 1 Kg'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LY1CDG1/?tag=tolees-21'
 descuento: '40.49'
 average: '5.85'

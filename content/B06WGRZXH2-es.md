@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Puma Reloj Analógico para Hombre de Cuarzo con Correa en Plástico PU104261004'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06WGRZXH2/?tag=tolees-21'
 descuento: '60.05'
 average: '46.051428571428566'

@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'Under Armour Tech Mesh 6in 2 Pack Ropa Interior  Hombre  Negro  Black 001   SM'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CZMB1MM/?tag=tolees-21'
 descuento: '38.32'
 average: '30.335'

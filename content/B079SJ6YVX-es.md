@@ -16,6 +16,7 @@ comparePrice: 17.54 EUR
 prodname: 'Stretch 06575 Elastigirl - Figura de acción'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079SJ6YVX/?tag=tolees-21'
 descuento: '28.56'
 average: '12.53'

@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Puma Basket Heart Patent Wn s  Zapatillas para Mujer  Beige  Peach Beige   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077MDY52F/?tag=tolees-21'
 descuento: '53.36'
 average: '41.95'

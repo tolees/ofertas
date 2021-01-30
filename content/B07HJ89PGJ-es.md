@@ -16,6 +16,7 @@ comparePrice: 16.7 EUR
 prodname: 'Funko 26030 Pop Vinyl: Animation: Tokyo Ghoul: Uta  Multi'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HJ89PGJ/?tag=tolees-21'
 descuento: '52.22'
 average: '9.01285714285714'

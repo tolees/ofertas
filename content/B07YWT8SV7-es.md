@@ -16,6 +16,7 @@ comparePrice: 47.98 EUR
 prodname: 'CXZC Cojín de silla de salón de patio de 120 cm  cojines de interior/exterior Chaise Lounge Cojín de silla mecedora para jardín  colchón para silla de gravedad cero'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YWT8SV7/?tag=tolees-21'
 descuento: '50.00'
 average: '23.99'

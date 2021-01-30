@@ -16,6 +16,7 @@ comparePrice: 74.95 EUR
 prodname: 'adidas Chaussures Advantage'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SCF1PLR/?tag=tolees-21'
 descuento: '40.00'
 average: '44.97'

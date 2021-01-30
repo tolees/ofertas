@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Salomon Speedcross CSWP K  Zapatillas de Trail Running Unisex Niños  Negro/Naranja  Black/Tangelo/Cherry Tomato   26 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FC61SYY/?tag=tolees-21'
 descuento: '69.13'
 average: '24.68'

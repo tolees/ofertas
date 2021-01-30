@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'ORICO USB Adaptador Bluetooth 4.0 Adaptador Bluetooth USB Plug & Play Compatible Windows XP/Vista/ 7/8/10 Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B017EW5TG6/?tag=tolees-21'
 descuento: '30.03'
 average: '6.99'

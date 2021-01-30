@@ -16,6 +16,7 @@ comparePrice: 8.7 EUR
 prodname: 'Aussie Tratamiento Intensivo 3 Minute Miracle Hydration - 250 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GYMH3QH/?tag=tolees-21'
 descuento: '55.29'
 average: '3.89'

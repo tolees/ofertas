@@ -16,6 +16,7 @@ comparePrice: 515.99 EUR
 prodname: 'Canon EF-M 18-150 - Objetivo para Canon EOS M5  EF-M 18-150 mm f/3 5-6 3 IS STM  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LWVAN26/?tag=tolees-21'
 descuento: '38.06'
 average: '319.6'

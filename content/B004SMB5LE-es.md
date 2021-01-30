@@ -16,6 +16,7 @@ comparePrice: 26.61 EUR
 prodname: 'Tetera de acero inoxidable Belmont  acero inoxidable  Stainless Steel Handle  500 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004SMB5LE/?tag=tolees-21'
 descuento: '36.79'
 average: '17.218333333333334'

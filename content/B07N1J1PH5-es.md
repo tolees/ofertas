@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Clarks Sillian2.0dusk  Botas Slouch para Mujer  Rojo  Maroon Maroon   41.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N1J1PH5/?tag=tolees-21'
 descuento: '53.87'
 average: '34.59'

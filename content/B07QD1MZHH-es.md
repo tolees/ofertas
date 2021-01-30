@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Cudy WU1200 - Adaptador WiFi USB  CA 1200 Mbit/s  para PC  Doble Banda 5 GHz/2 4 GHz  Antena Externa  Compatible con Windows Vista/7/8/8.1/10  Mac OS  Linux'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QD1MZHH/?tag=tolees-21'
 descuento: '78.46'
 average: '12.9'

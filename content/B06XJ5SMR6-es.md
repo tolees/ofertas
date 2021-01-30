@@ -16,6 +16,7 @@ comparePrice: 229.95 EUR
 prodname: 'Dewalt DCH133NT-XJ Martillo electroneumático sin escobillas XR 18V SDS-Plus 2  18 V  Plateado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XJ5SMR6/?tag=tolees-21'
 descuento: '39.99'
 average: '151.622'

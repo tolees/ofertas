@@ -16,6 +16,7 @@ comparePrice: 79.45 EUR
 prodname: 'Nike MD Runner 2  Zapatillas de Running Mujer  Gris  Barely Grey/White 010   37.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004VA3Z0M/?tag=tolees-21'
 descuento: '52.86'
 average: '37.45'

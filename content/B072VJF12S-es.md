@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'Buff Margo Calentador Tricot Y Polar  Unisex Adulto  Blue  Talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072VJF12S/?tag=tolees-21'
 descuento: '39.94'
 average: '20.99'

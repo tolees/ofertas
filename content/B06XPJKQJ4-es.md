@@ -16,6 +16,7 @@ comparePrice: 22.0 EUR
 prodname: 'IEFIEL Vestidos de Princesa Fiesta Bautizo Tutú con Braga Interior Disfraces para Bebés Niñas  12 Meses a 8 Años  Rojo 3 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XPJKQJ4/?tag=tolees-21'
 descuento: '50.05'
 average: '10.99'

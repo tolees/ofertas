@@ -16,6 +16,7 @@ comparePrice: 72.99 EUR
 prodname: 'Bosch Miniamoladora PWS 750-115  con disco de diamante  750 W y Ø 115 mm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00DREQ0IM/?tag=tolees-21'
 descuento: '31.51'
 average: '49.982000000000006'

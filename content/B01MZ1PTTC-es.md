@@ -16,6 +16,7 @@ comparePrice: 7.73 EUR
 prodname: 'Babaria Men Vital Skin Stop Arrugas Lote Crema Antiarrugas y Body Spray - 500 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MZ1PTTC/?tag=tolees-21'
 descuento: '38.55'
 average: '4.75'

@@ -16,6 +16,7 @@ comparePrice: 8.98 EUR
 prodname: 'Bestway 52190 - Canasta Hinchable Baloncesto Game Center Ø61 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00FO7E07I/?tag=tolees-21'
 descuento: '45.43'
 average: '5.2925'

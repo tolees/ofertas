@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Gran Hotel - Serie Completa [DVD]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00FC3HA12/?tag=tolees-21'
 descuento: '53.86'
 average: '38.178749999999994'

@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'URAQT Parasol de Coche  Parasol Coche Bebe Parasoles para Coche Parasol Infantil Coche Parasol Lateral Coche Laterales Protector Solar Bloquear el Calor y los Rayos del Sol Paquete de 4'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RBXMLP1/?tag=tolees-21'
 descuento: '47.09'
 average: '8.99'

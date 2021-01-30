@@ -16,6 +16,7 @@ comparePrice: 37.01 EUR
 prodname: 'Oral-B Kids Cabezales de Recambio con Los Personajes de Star Wars  Tamaño del Buzón  Pack de 8 Unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RT1MQNR/?tag=tolees-21'
 descuento: '45.99'
 average: '19.99'

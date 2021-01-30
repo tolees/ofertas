@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'JACK & JONES Jjimike Jjoriginal Ge 616 Noos Lid  Jeans Hombre  Azul  Blue Denim   W32/L34  Talla del fabricante: 32 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FF8HX5Q/?tag=tolees-21'
 descuento: '56.65'
 average: '25.99'

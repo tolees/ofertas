@@ -16,6 +16,7 @@ comparePrice: 69.9 EUR
 prodname: 'Tommy Hilfiger Alpaca Mix Bufanda  Beige  Beige Aek   Talla Única para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N6KW9XB/?tag=tolees-21'
 descuento: '50.00'
 average: '34.95'

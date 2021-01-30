@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Hummel Actus Trainer 2.0  Zapatillas Unisex Adulto  Gris  Grey Melange 2006   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TMH8F4F/?tag=tolees-21'
 descuento: '37.14'
 average: '31.4'

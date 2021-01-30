@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'afeitadora hombre corporal cable recortadora barba profesional con cable  maquina profesional cortar pelo  afeitar barba y cuerpo  cortapelos pubis'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077WKJLHF/?tag=tolees-21'
 descuento: '55.58'
 average: '19.24'

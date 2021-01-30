@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'Kipling - Imagine Pack  Bolsos totes Mujer  Multicolor  Tile Print   57x49x18 cm  B x H T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MVJBV7W/?tag=tolees-21'
 descuento: '61.67'
 average: '36.975'

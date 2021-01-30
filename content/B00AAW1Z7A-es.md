@@ -16,6 +16,7 @@ comparePrice: 159.9 EUR
 prodname: 'Toyota ECO15CB - Máquina de Coser  65 W  15 programas  Color Blanco y Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00AAW1Z7A/?tag=tolees-21'
 descuento: '31.83'
 average: '109.0'

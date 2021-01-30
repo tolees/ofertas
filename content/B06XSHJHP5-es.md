@@ -16,6 +16,7 @@ comparePrice: 81.9 EUR
 prodname: 'Pasito a pasito 73759 - Maleta acolchada Inés  color beige'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XSHJHP5/?tag=tolees-21'
 descuento: '39.08'
 average: '49.89'

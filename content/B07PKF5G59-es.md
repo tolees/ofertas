@@ -16,6 +16,7 @@ comparePrice: 13.41 EUR
 prodname: 'Wenko 23615100 Vetro-Dispensador de jabón líquido  Rectangular  0 52 L  Cristal  7 5 x 19 x 7 5 cm   Color marrón  7.5 x 19 x 7.5 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PKF5G59/?tag=tolees-21'
 descuento: '51.53'
 average: '6.5'

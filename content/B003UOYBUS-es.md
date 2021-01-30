@@ -16,6 +16,7 @@ comparePrice: 14.29 EUR
 prodname: 'Mini Ventilador de Escritorio USB'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003UOYBUS/?tag=tolees-21'
 descuento: '25.12'
 average: '7.779999999999999'

@@ -16,6 +16,7 @@ comparePrice: 10.78 EUR
 prodname: 'Sharplace 1 Par Almohadillas Cómodas Pie Protección Amortiguador Durable Absorpción de Choque Deporte Calzado - Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078S7DCNN/?tag=tolees-21'
 descuento: '44.43'
 average: '5.99'

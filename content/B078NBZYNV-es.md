@@ -16,6 +16,7 @@ comparePrice: 30.24 EUR
 prodname: 'Catherine Lansfield - Juego de Funda de edredón de fácil Cuidado  diseño de Mariposas  poliéster y algodón  Color Azulado  Azul Pastel  Set edredón Doble'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078NBZYNV/?tag=tolees-21'
 descuento: '27.98'
 average: '21.78'

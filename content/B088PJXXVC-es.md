@@ -16,6 +16,7 @@ comparePrice: 51.99 EUR
 prodname: 'Doraemon Story Of Seasons'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088PJXXVC/?tag=tolees-21'
 descuento: '52.11'
 average: '42.53'

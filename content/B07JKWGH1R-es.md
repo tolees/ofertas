@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Lee Scarlett High Jeans  Negro  Black Bucklin Ho   27W/35L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JKWGH1R/?tag=tolees-21'
 descuento: '45.98'
 average: '38.96666666666667'

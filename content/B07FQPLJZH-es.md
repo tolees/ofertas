@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Clarks Un Adorn Zip  Mocasines  Negro  Black Combi-   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FQPLJZH/?tag=tolees-21'
 descuento: '31.15'
 average: '75.74'

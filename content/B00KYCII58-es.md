@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Skechers Go Walk 3  Zapatillas Mujer  Gris  CHAR   35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KYCII58/?tag=tolees-21'
 descuento: '38.49'
 average: '39.95'

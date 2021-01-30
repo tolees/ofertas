@@ -16,6 +16,7 @@ comparePrice: 69.9 EUR
 prodname: 'Calvin Klein Bari SLIM FIT FTC-Camisa Hombre  Blanco  WHITE 100   Tamaño del collar: 39 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B015CGMUTK/?tag=tolees-21'
 descuento: '29.97'
 average: '48.95'

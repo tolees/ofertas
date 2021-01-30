@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Audio Pro Addon T5 - Altavoz inalámbrico  Color Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M19FGTZ/?tag=tolees-21'
 descuento: '59.80'
 average: '80.0'

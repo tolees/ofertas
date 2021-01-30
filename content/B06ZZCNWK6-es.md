@@ -16,6 +16,7 @@ comparePrice: 14.67 EUR
 prodname: 'PAAD06015SL Laptop CPU Cooling Fan For GE60 16GA 16GC Series Notebook Cooler 0.55A 3Pin'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06ZZCNWK6/?tag=tolees-21'
 descuento: '31.90'
 average: '9.99'

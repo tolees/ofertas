@@ -16,6 +16,7 @@ comparePrice: 1.58 EUR
 prodname: 'Panamar Nuevo Cable de Cargador de batería de sincronización de Datos USB rápido para Samsung Galaxy Tablet Cable de Datos de sincronización USB portátil Negro - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08D3SSTHP/?tag=tolees-21'
 descuento: '33.54'
 average: '1.05'

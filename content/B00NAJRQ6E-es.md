@@ -16,6 +16,7 @@ comparePrice: 429.0 EUR
 prodname: 'Compex Fit 3.0 Electroestimulador  Unisex  Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NAJRQ6E/?tag=tolees-21'
 descuento: '30.30'
 average: '312.3333333333333'

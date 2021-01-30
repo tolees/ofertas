@@ -16,6 +16,7 @@ comparePrice: 11.9 EUR
 prodname: 'Energizer - Pilas Recargables Accu Recharge Universal'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FKKSDFC/?tag=tolees-21'
 descuento: '66.47'
 average: '3.99'

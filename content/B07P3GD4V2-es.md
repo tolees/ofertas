@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Samsung Galaxy Fit e - Smartwatch  color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P3GD4V2/?tag=tolees-21'
 descuento: '70.02'
 average: '23.985789473684214'

@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Sweety Fox - Manta Bebe para Niño y Niña 80 x 100 cm - 100% Algodon Ecológico - Mantita Bebe Rosa - Accesorio Perfecto para Bebé - Regalo perfecto para Bebe Recién Nacido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08532CYKS/?tag=tolees-21'
 descuento: '33.43'
 average: '19.97'

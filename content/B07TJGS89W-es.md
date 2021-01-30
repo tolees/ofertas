@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'Reloj de pulsera para hombre  de cuarzo  resistente al agua  de piel  con diseño de mariposas  color marrón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TJGS89W/?tag=tolees-21'
 descuento: '86.63'
 average: '39.99'

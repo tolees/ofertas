@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Cecotec Ventilador de Torre ForceSilence 790 Skyline. 30    76cm  de Altura  Oscilante  Motor de Cobre  3 Velocidades  Temporizador 2 Horas  50W'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CT5HH8V/?tag=tolees-21'
 descuento: '29.18'
 average: '22.767777777777777'

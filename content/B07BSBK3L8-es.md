@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'BLESSUME Mujer Cordón infinito católico Capilla Velo latín Masa Mantilla Cabeza Cubierta  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BSBK3L8/?tag=tolees-21'
 descuento: '60.02'
 average: '11.99'

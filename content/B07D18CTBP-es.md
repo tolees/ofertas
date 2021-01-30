@@ -16,6 +16,7 @@ comparePrice: 15.0 EUR
 prodname: 'Joma Costa II Short Caballero Deportivo  Hombre  Negro  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D18CTBP/?tag=tolees-21'
 descuento: '30.00'
 average: '10.5'

@@ -16,6 +16,7 @@ comparePrice: 33.8 EUR
 prodname: 'Ebanku 40 Diseños Foil para Uñas Transfer  Transferencia Pegatinas Calcomanías Uñas Holográfico Nail Art accesorios transferencia papel Nail Stickers Tips Wraps Foil Transfer Sticker'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VLLMLK5/?tag=tolees-21'
 descuento: '70.44'
 average: '9.99'

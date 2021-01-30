@@ -16,6 +16,7 @@ comparePrice: 23.25 EUR
 prodname: '[2019 NEW] Pulseras magnéticas  los mejores regalos para hombres  con 10 poderosos imanes de neodimio para herramientas de sujeción  ideas de regalos para el marido  papá  novio  mujer  Manitas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GJ9KW6D/?tag=tolees-21'
 descuento: '61.33'
 average: '8.99'

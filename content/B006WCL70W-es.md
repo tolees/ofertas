@@ -16,6 +16,7 @@ comparePrice: 58.38 EUR
 prodname: 'Grohe Eurocube  - Parte exterior llave de paso  Color cromo  Ref. 19910000 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B006WCL70W/?tag=tolees-21'
 descuento: '25.06'
 average: '43.75'

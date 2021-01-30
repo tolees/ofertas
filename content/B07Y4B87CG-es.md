@@ -16,6 +16,7 @@ comparePrice: 25.54 EUR
 prodname: 'JEEUE 4PCS TV Antena Macho Coaxial Enchufe a Enchufe F Conector Adaptador en ángulo recto de 90 grados'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y4B87CG/?tag=tolees-21'
 descuento: '72.63'
 average: '6.99'

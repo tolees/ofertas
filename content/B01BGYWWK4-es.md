@@ -16,6 +16,7 @@ comparePrice: 17.7 EUR
 prodname: 'Magno - Gel de ducha Marine Fresh - 550ml  pack de 6  Total: 3300ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BGYWWK4/?tag=tolees-21'
 descuento: '32.54'
 average: '11.9925'

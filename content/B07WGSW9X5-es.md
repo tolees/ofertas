@@ -16,6 +16,7 @@ comparePrice: 42.4 EUR
 prodname: 'Yageshark - Pantalones de deporte para hombre  de algodón  ajustados verde S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WGSW9X5/?tag=tolees-21'
 descuento: '39.36'
 average: '25.71'

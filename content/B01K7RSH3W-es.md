@@ -16,6 +16,7 @@ comparePrice: 4.36 EUR
 prodname: 'Sanex Dermo Extra Control  Desodorante Spray - 200 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01K7RSH3W/?tag=tolees-21'
 descuento: '45.41'
 average: '2.4650000000000003'

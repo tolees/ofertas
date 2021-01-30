@@ -16,6 +16,7 @@ comparePrice: 33.13 EUR
 prodname: 'Opticum 9184 QA Antena de satélite con 80 monobloque de Aluminio Doble LNB - LMTP 04 A/H Gris Claro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B019C99ISO/?tag=tolees-21'
 descuento: '26.83'
 average: '24.24'

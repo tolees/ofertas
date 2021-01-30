@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Superdry OL Elite Crop Hood Capucha  Blanco  White 04c   Medium para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P2BB4BK/?tag=tolees-21'
 descuento: '40.01'
 average: '26.94'

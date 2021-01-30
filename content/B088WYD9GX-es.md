@@ -16,6 +16,7 @@ comparePrice: 4.16 EUR
 prodname: 'Agger MicroUSB Conector Macho de 5 Pines Micro USB Tipo B Macho del Conector enchufable w Cubierta de plástico'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088WYD9GX/?tag=tolees-21'
 descuento: '33.17'
 average: '2.78'

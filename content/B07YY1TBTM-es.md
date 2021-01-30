@@ -16,6 +16,7 @@ comparePrice: 48.99 EUR
 prodname: 'BRIKSMAX Kit de Iluminación Led para Lego Star Wars PORG Compatible con Ladrillos de Construcción Lego Modelo 75230  Juego de Legos no Incluido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YY1TBTM/?tag=tolees-21'
 descuento: '61.24'
 average: '23.11499999999999'

@@ -16,6 +16,7 @@ comparePrice: 99 EUR
 prodname: '2019 Nuevo Auriculares Bluetooth inalámbricos BT5.0 Touch Control Design Super Mini Auriculares con micrófono estéreo Audio Soporte Siri para iOS Android-64'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z8XDV58/?tag=tolees-21'
 descuento: '40.40'
 average: '59'

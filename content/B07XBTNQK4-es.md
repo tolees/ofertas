@@ -16,6 +16,7 @@ comparePrice: 15 EUR
 prodname: 'Mr. Tronic 10m Cable de Red Ethernet Latiguillo | CAT6  AWG24  CCA  UTP  RJ45  10 Metros  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XBTNQK4/?tag=tolees-21'
 descuento: '33.40'
 average: '11.49'

@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Far Cry 5'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071FLZD4B/?tag=tolees-21'
 descuento: '44.91'
 average: '17.777333333333335'

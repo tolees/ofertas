@@ -16,6 +16,7 @@ comparePrice: 44.95 EUR
 prodname: 'Skechers Equalizer 4.0 SERASA  Zapatillas para Hombre  Marrón Marrón Marrón PU Trim Brn  41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XGLCN8H/?tag=tolees-21'
 descuento: '42.42'
 average: '25.88'

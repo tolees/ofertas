@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Superga 2750-cotu Classic  Zapatillas de Estar por casa Unisex Adulto  Rojo  Red 975   42.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00DV50K9W/?tag=tolees-21'
 descuento: '53.95'
 average: '27.17'

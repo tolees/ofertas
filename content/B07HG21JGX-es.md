@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'New Balance 420  Zapatillas para Mujer  Rosa  Pink Pink   41.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HG21JGX/?tag=tolees-21'
 descuento: '65.44'
 average: '27.65'

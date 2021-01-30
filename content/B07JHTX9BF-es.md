@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Liebeskind Berlin - Dive Bag Beltbag  Bolsos bandolera Mujer  Negro  Black   2x16x19 cm  W x H L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JHTX9BF/?tag=tolees-21'
 descuento: '29.98'
 average: '69.95'

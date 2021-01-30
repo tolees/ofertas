@@ -16,6 +16,7 @@ comparePrice: 149.9 EUR
 prodname: 'Devolo Magic 2 LAN - Starter Kit de Powerline Rápido para una Red Doméstica Fiable a Través de Techos y Paredes Mediante los Cables de Corriente  Innovadora Tecnología G.hn  Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GT7RYW9/?tag=tolees-21'
 descuento: '51.99'
 average: '71.97'

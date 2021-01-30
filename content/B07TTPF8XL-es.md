@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'KiplingCity Pack SMujerMochilasMulticolor  Speckled 27x33.5x19 Centimeters  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TTPF8XL/?tag=tolees-21'
 descuento: '69.20'
 average: '27.41'

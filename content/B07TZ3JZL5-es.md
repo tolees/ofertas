@@ -16,6 +16,7 @@ comparePrice: 15.04 EUR
 prodname: 'Iams refrigerios para gatos liofilizados  sin granos  paquete de 4X25 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TZ3JZL5/?tag=tolees-21'
 descuento: '48.34'
 average: '7.77'

@@ -16,6 +16,7 @@ comparePrice: 15.08 EUR
 prodname: 'Funko- Pop Rocks: Iron Maiden-Piece of Mind  Skeleton Eddie  Collectible Toy  Multicolor  45983 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TTD3WR9/?tag=tolees-21'
 descuento: '40.38'
 average: '8.99'

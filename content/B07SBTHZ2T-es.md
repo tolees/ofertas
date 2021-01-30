@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Vans MN Full Patch Snapback Gorra de béisbol  Verde  Sharp Green Sq4   Talla única  Talla del Fabricante: OS  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SBTHZ2T/?tag=tolees-21'
 descuento: '46.77'
 average: '15.97'

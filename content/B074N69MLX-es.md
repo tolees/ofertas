@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'S&R Sierra Corona Perforadora Hormigon en seco Ø 68mm + Adaptador SDS Plus 110 mm + Broca 8 x 110 mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074N69MLX/?tag=tolees-21'
 descuento: '33.34'
 average: '19.99'

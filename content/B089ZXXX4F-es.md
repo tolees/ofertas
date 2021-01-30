@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'FFP2 Mascarilla protectora 5 capas de mascarilla filtrante para la boca con orejeras  diseño ligero y cómodo  antipolvo  antipolen  10 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089ZXXX4F/?tag=tolees-21'
 descuento: '41.78'
 average: '6.98'

@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'NOVOO - Batería Externa 20000mAh  Powerbank con 3 Puertos  1 USB-C & 2 USB-A   Cargador Portátil Carga Rápida para Moviles  iPhone  Tabletas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MV5YFC3/?tag=tolees-21'
 descuento: '27.29'
 average: '15.99'

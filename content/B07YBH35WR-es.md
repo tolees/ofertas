@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Vans Full Patched Po II Capucha  Morado  Heliotrope/White Ymm   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YBH35WR/?tag=tolees-21'
 descuento: '59.25'
 average: '30.690000000000005'

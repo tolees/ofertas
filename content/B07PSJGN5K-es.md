@@ -16,6 +16,7 @@ comparePrice: 29.0 EUR
 prodname: 'Kipling Cindy  Cartera para Mujer  Verde  Seagrass   11.5x8x1 centimeters  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PSJGN5K/?tag=tolees-21'
 descuento: '62.93'
 average: '10.75'

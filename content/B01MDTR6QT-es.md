@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'G-STAR RAW Duko Belt Cinturón  Marrón  Dk Brown/black Metal 8127   90 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MDTR6QT/?tag=tolees-21'
 descuento: '34.31'
 average: '23.606666666666666'

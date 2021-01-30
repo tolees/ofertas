@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'F1 2019 - Anniversary Edición'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QF3NNHX/?tag=tolees-21'
 descuento: '71.21'
 average: '22.17'

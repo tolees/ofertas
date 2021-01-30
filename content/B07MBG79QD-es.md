@@ -16,6 +16,7 @@ comparePrice: 200.0 EUR
 prodname: 'RECCI - Topper Colchón de Espuma 120x200cm  Topper Viscoelástica con Alivio de la Presión  Sobrecolchón Hipoalergénico de Bambú - Extraíble y Lavable en Lavadora  CertiPUR-EU  120 x 200 x 6cm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MBG79QD/?tag=tolees-21'
 descuento: '55.01'
 average: '89.99'

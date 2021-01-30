@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Xnuoyo Cepillo de Limpieza Facial 5 en 1 Masajeador Facial Eléctrico  para Remover los Lípidos Adicionales  Puntos Negros y Maquillaje con 5 Cabezales de Limpieza'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WVXMFLG/?tag=tolees-21'
 descuento: '53.35'
 average: '13.99'

@@ -16,6 +16,7 @@ comparePrice: 63.94 EUR
 prodname: 'Geomag Mechanics Construcciones magnéticas y juegos educativos  146 Piezas  722   Multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Geomag'
 buyurl: 'https://www.amazon.es/dp/B00IZ4CUD8/?tag=tolees-21'
 descuento: '42.60'
 average: '48.805'
@@ -27,8 +28,8 @@ En este momento está [Geomag Mechanics Construcciones magnéticas y juegos educ
 
 🔎:
 
-- Deja libre tu imaginación
-- Construye con Geomag
 - Dales Movimiento
+- Construye con Geomag
+- Deja libre tu imaginación
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00IZ4CUD8/?tag=tolees-21)

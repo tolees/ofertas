@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'Maybelline Super Stay Barra de Labios Matte Ink 40 Believer - 26 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0796BVYQ6/?tag=tolees-21'
 descuento: '69.41'
 average: '2.75'

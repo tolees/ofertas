@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Tommy Hilfiger Th Giftbox 3p Vanity Calcetines  Blanco  White 300   39/42  Pack de 3  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TWC6SCW/?tag=tolees-21'
 descuento: '41.14'
 average: '10.0'

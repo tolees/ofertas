@@ -16,6 +16,7 @@ comparePrice: 25.72 EUR
 prodname: 'Herbalgem Olivo - 30 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P28T4GM/?tag=tolees-21'
 descuento: '44.60'
 average: '14.25'

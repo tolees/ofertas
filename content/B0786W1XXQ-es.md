@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'adidas Gazelle  Zapatillas de deporte Unisex niños  Rojo  Collegiate Burgundy/Footwear White/Footwear White 0   31 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0786W1XXQ/?tag=tolees-21'
 descuento: '27.21'
 average: '40.0'

@@ -16,6 +16,7 @@ comparePrice: 185.74 EUR
 prodname: 'B+W 1071068 - Filtro polarizador Circular MRC de 82 mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B008EKMPB0/?tag=tolees-21'
 descuento: '35.44'
 average: '116.88666666666667'

@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Farming Simulator 19 - Platinum Edition'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WDBSVK5/?tag=tolees-21'
 descuento: '32.51'
 average: '41.865'

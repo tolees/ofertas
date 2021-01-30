@@ -16,6 +16,7 @@ comparePrice: 109.9 EUR
 prodname: 'ASUS PCE-AX58BT - Tarjeta de Red Wi-Fi 6 AX3000 PCIe 160Mhz con Bluetooth 5.0  OFDMA  MU-MIMO  Seguridad WPA3  adaptador perfil bajo  base extensible de antenas '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VWXKHTY/?tag=tolees-21'
 descuento: '31.85'
 average: '74.9'

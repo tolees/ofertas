@@ -16,6 +16,7 @@ comparePrice: 17.95 EUR
 prodname: 'PUMA SPIN Ball Balón de Fútbol  Unisex-Adult  Black-Ultra Yellow-Orange Alert  5'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XKTRK46/?tag=tolees-21'
 descuento: '33.20'
 average: '11.323333333333332'

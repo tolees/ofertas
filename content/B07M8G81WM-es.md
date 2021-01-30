@@ -16,6 +16,7 @@ comparePrice: 8.11 EUR
 prodname: '2015 PVC Pasaporte Titular Cubierta Identidad ID Tarjeta de crédito Bolsas Bolsas Carpeta de documentos Viaje Pasaporte Bolsas Caso Envío gratis'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M8G81WM/?tag=tolees-21'
 descuento: '69.67'
 average: '2.46'

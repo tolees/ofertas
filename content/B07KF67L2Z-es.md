@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'Levi s Housemark Polo  Negro  Mineral Black 0080   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KF67L2Z/?tag=tolees-21'
 descuento: '25.03'
 average: '26.31368421052632'

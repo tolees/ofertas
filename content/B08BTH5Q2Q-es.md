@@ -16,6 +16,7 @@ comparePrice: 10.36 EUR
 prodname: 'Molyflower HD Head Desktop Laptop Computadora Cámara 8MP Micrófono Incorporado Diseño de Ventosa Enseñanza de Video Transmisión en Vivo - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BTH5Q2Q/?tag=tolees-21'
 descuento: '33.49'
 average: '6.89'

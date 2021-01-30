@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Under Armour Men s Official Tour 3.0 Gorra  Hombre  Gris  XL/XXL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QVM161F/?tag=tolees-21'
 descuento: '57.97'
 average: '12.315'

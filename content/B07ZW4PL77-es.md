@@ -16,6 +16,7 @@ comparePrice: 2.43 EUR
 prodname: 'Love Beauty and Planet Acondicionador aceite de coco y de ylang ylang Hope and Repair - 100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZW4PL77/?tag=tolees-21'
 descuento: '58.85'
 average: '1.0'

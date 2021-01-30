@@ -16,6 +16,7 @@ comparePrice: 27.95 EUR
 prodname: 'Cama Perro  Cama de Perros Grandes  Cama para Perros  Cama para Mascotas Desmontable y Extraíble Lavable 70 x 50 x 11 cm M  Gris '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08D6TMPX1/?tag=tolees-21'
 descuento: '40.89'
 average: '16.52'

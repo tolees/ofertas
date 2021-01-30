@@ -16,6 +16,7 @@ comparePrice: 52.03 EUR
 prodname: 'Erborian - Cc cream scentella'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00SYLH424/?tag=tolees-21'
 descuento: '26.12'
 average: '37.8725'

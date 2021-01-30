@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Star Wars - Disfraz de Storm Trooper para niños  talla L infantil 7-8 años  Rubie s 620267-L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00X5EHLZA/?tag=tolees-21'
 descuento: '27.24'
 average: '21.82'

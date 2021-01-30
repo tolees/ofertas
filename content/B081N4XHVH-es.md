@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Decoración para tarta de cumpleaños de acrílico  6 Stück Geburtstag Happy Birthday Kuchen Aufsatz para decoración de fiesta de Geburtstag  plástico  25PACK'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081N4XHVH/?tag=tolees-21'
 descuento: '37.52'
 average: '9.99'

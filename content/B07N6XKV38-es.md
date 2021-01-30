@@ -16,6 +16,7 @@ comparePrice: 39.0 EUR
 prodname: 'Calvin Klein 3.5cm New Essential Belt Cinturón  Marrón  Brown Baw   105  Talla del fabricante: 90  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N6XKV38/?tag=tolees-21'
 descuento: '27.31'
 average: '28.35'

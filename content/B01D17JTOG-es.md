@@ -16,6 +16,7 @@ comparePrice: 109.0 EUR
 prodname: 'Samsonite Paradiver Light - Bolsa de viaje  Amarillo  Yellow   M  61 cm - 84 L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01D17JTOG/?tag=tolees-21'
 descuento: '40.00'
 average: '70.85'

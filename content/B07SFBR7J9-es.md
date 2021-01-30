@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'Helly Hansen Daybreaker 1/2 Zip Fleece Forro Polar  Hombre  Grey Fog  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SFBR7J9/?tag=tolees-21'
 descuento: '28.12'
 average: '35.94'

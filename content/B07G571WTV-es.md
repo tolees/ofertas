@@ -16,6 +16,7 @@ comparePrice: 16.9 EUR
 prodname: 'Max Factor  Base de maquillaje  Tono: 60 Sand  Pieles Claras  - 30 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G571WTV/?tag=tolees-21'
 descuento: '71.01'
 average: '6.4125000000000005'

@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'CÚRCUMA + MATCHA Té Verde En Polvo - MEJORES MEZCLAS DE SUPERFOODS  100g  50 tazas   Polvo de Matcha Japonés 100% Puro y Sin Mezclar  137x ANTIOXIDANTES | Aumenta la energía y el metabolismo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K1XSGBK/?tag=tolees-21'
 descuento: '30.02'
 average: '12.59'

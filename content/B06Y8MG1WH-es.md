@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'HICKIES Cordones Tie-free  2.0 Nuevos  - Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06Y8MG1WH/?tag=tolees-21'
 descuento: '25.08'
 average: '11.2'

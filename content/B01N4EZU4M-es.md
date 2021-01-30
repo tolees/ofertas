@@ -16,6 +16,7 @@ comparePrice: 11.2 EUR
 prodname: 'Bourjois Smokey Stories Sombra de ojos Tono 13 Taupissime - 40 gr.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N4EZU4M/?tag=tolees-21'
 descuento: '75.89'
 average: '2.7'

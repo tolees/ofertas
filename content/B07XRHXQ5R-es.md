@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Vicloon Cepillo de Botellas  8 Pcs Cepillo de Limpieza Botella con Cerdas de Nylon  Cepillo de Tubo de Pajitas para Botellas de Cristal Deportes Botellas de Agua Tetera El Teclado de Ordenador'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XRHXQ5R/?tag=tolees-21'
 descuento: '33.36'
 average: '9.99'

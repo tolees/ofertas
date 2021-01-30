@@ -16,6 +16,7 @@ comparePrice: 54.9 EUR
 prodname: 'Energy Sistem Tower 1 -  Sistema de altavoces en torre con Bluetooth 4.1  30 W Potencia  RCA  3.5 mm Audio-in  negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MXPV2FJ/?tag=tolees-21'
 descuento: '40.07'
 average: '31.436666666666664'

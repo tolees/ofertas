@@ -16,6 +16,7 @@ comparePrice: 40.46 EUR
 prodname: 'PEDEA 66063013 15.6" Bandolera Gris maletines para portátil - Funda  Bandolera  39 6 cm  15.6"   Tirante para Hombro  Gris '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B017A5XM5C/?tag=tolees-21'
 descuento: '31.04'
 average: '27.9'

@@ -16,6 +16,7 @@ comparePrice: 139.0 EUR
 prodname: 'American Tourister - Soundbox Spinner 55/20 Expansible 35 5/41 L - 2 6 KG Golden Yellow'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079M59MSH/?tag=tolees-21'
 descuento: '30.00'
 average: '99.505'

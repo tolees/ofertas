@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'NATURALIA - Colchón Cuna Baby Memory visco  Talla 117x57cm  Color Blanco/Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00HWTEN14/?tag=tolees-21'
 descuento: '44.44'
 average: '50.0'

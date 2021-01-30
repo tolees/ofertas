@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'OVERPASS Day One Edition para XB1 [Versión Española]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VHJLFQ8/?tag=tolees-21'
 descuento: '44.32'
 average: '38.97'

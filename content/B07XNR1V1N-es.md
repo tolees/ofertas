@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'WIWJ Funda para Samsung Galaxy A8 2018 Carcasa Hollow Pintado Suave Silicona Gel Cover Cristal Transparente Flexible [Ultra Fina] TPU Movil Case 360 Anti-rasguños con Tapa Protectores Verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XNR1V1N/?tag=tolees-21'
 descuento: '54.60'
 average: '4.99'

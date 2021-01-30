@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Timbre Inalámbrico para Puerta  300M IP55 Impermeable con LED Flash Timbre Impermeable de 110dB súper ruidoso  timbre de la puerta frontal de radio  5 Niveles de Volumen  38 Melodías'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089M5BFNV/?tag=tolees-21'
 descuento: '43.35'
 average: '16.99'

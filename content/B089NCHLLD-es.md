@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'SDINAZ Mochilas para computadora portátil para con Puerto de Carga USB Impermeable School Computer Notebook Mochilas Escolares ES884 Fekete'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089NCHLLD/?tag=tolees-21'
 descuento: '70.01'
 average: '29.99'

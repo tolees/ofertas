@@ -16,6 +16,7 @@ comparePrice: 27.9 EUR
 prodname: 'Corsair HD140 RGB - Ventilador de PC  140 mm  Iluminación a LED RGB Programable   Paquete Individual'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XRFXZ2C/?tag=tolees-21'
 descuento: '39.10'
 average: '16.99'

@@ -16,6 +16,7 @@ comparePrice: 224.99 EUR
 prodname: 'Klarstein KonfiStar 40 olla para confituras - caldera de cocción Termo para bebidas  40 litros  30-110 °C  Programable 20-120 min  Conserva la temperatura  Sabor genuino  Acero inoxidable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WW1CGFZ/?tag=tolees-21'
 descuento: '33.33'
 average: '148.99'

@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Funda para teléfono móvil Huawei P Smart 2019  ultrafina  suave  de silicona TPU  resistente a los arañazos  antigolpes  con estilo  de colores  para hombres y mujeres Blanco Talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YP52VGY/?tag=tolees-21'
 descuento: '35.02'
 average: '12.99'

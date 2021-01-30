@@ -16,6 +16,7 @@ comparePrice: 17.89 EUR
 prodname: 'Gembird JPD-UDV2-01  Conjunto de 2 Gamepads USB con Vibración para PC'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01JZAID2W/?tag=tolees-21'
 descuento: '32.98'
 average: '11.99'

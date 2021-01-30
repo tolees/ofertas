@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'Columbia WHEATLEIGH  Botas de Nieve de caña Baja para Mujer  Negro  Black  36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JHX3TDB/?tag=tolees-21'
 descuento: '81.65'
 average: '23.796666666666667'

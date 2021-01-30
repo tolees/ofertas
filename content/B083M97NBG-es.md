@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'PAYMA - Zapatillas Botas de Lona para Mujer. Bambas Playeras de Deporte Casual Caminar. Piso Doble. Negras y Blancas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083M97NBG/?tag=tolees-21'
 descuento: '30.01'
 average: '20.99'

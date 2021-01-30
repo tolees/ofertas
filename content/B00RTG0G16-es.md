@@ -16,6 +16,7 @@ comparePrice: 219.0 EUR
 prodname: 'Grohe Essence - Grifo para baño y ducha 1/2"  color cromo  Ref.33624001 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00RTG0G16/?tag=tolees-21'
 descuento: '41.57'
 average: '127.96'

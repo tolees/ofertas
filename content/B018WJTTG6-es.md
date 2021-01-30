@@ -16,6 +16,7 @@ comparePrice: 309.0 EUR
 prodname: 'ASUS RT-AC88U - Router Gaming AC3100 Doble Banda Gigabit  triple VLAN  Ai-Mesh soportado  WTFast acelerador de juegos  compatible con DD-WRT y con Ai Mesh wifi '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B018WJTTG6/?tag=tolees-21'
 descuento: '27.83'
 average: '214.66'

@@ -16,6 +16,7 @@ comparePrice: 78.04 EUR
 prodname: 'Fashionapple Funda Impermeable con Puerto de cúpula para GoPro Hero 4 3 3+ Tapa de Lente para Accesorios de Buceo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BK5XY4V/?tag=tolees-21'
 descuento: '48.76'
 average: '39.49'

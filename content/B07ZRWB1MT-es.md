@@ -16,6 +16,7 @@ comparePrice: 40.99 EUR
 prodname: 'Los Sims 4 - Días de Universidad  La caja contiene un código de descarga - Origin '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZRWB1MT/?tag=tolees-21'
 descuento: '51.45'
 average: '19.9'

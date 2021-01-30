@@ -16,6 +16,7 @@ comparePrice: 10.95 EUR
 prodname: 'L Óreal Paris Les Chocolats Labial Líquido Mate - Tono Nude rosado 852 Box of Chocolate'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CGSF1WB/?tag=tolees-21'
 descuento: '52.97'
 average: '5.575'

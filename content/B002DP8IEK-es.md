@@ -16,6 +16,7 @@ comparePrice: 139.0 EUR
 prodname: 'Shure SRH840 - Auriculares de Diadema abiertos  Negro  10x10x10 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002DP8IEK/?tag=tolees-21'
 descuento: '37.45'
 average: '86.95'

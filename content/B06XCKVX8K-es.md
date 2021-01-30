@@ -16,6 +16,7 @@ comparePrice: 9.63 EUR
 prodname: 'Nirvel Nutre Color Violeta 200ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XCKVX8K/?tag=tolees-21'
 descuento: '48.08'
 average: '5.0'

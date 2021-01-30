@@ -16,6 +16,7 @@ comparePrice: 35.9 EUR
 prodname: 'Optimum Nutrition ON Gold Standard BCAA Polvo  Suplementos Deportivos con Aminoacidos  Vitamina C  Zinc  Magnesio y Electrolitos  Frambuesa y Granada  28 Porciones  266g  Embalaje Puede Variar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01DZYO25G/?tag=tolees-21'
 descuento: '45.63'
 average: '19.814'

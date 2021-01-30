@@ -16,6 +16,7 @@ comparePrice: 45.07 EUR
 prodname: 'AmazonBasics - Hub de 10 puertos USB C 3.1 con adaptador de corriente  65 W  20 V/3 25 A   Plateado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076YJ1XZS/?tag=tolees-21'
 descuento: '44.53'
 average: '35.035'

@@ -16,6 +16,7 @@ comparePrice: 87.3 EUR
 prodname: 'K&N SU-4007 Filtro de Aire Moto'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004YJLIJA/?tag=tolees-21'
 descuento: '37.98'
 average: '52.375'

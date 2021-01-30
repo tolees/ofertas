@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Edge Entertainment - Misión: Planeta rojo  juego de mesa  EDGVA93    color/modelo surtido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LWJB9K8/?tag=tolees-21'
 descuento: '25.95'
 average: '37.150000000000006'

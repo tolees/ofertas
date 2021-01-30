@@ -16,6 +16,7 @@ comparePrice: 19.0 EUR
 prodname: 'Arehucas Ginebra Carmela Mango Guayaba - 700 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N7QWYZ9/?tag=tolees-21'
 descuento: '26.05'
 average: '14.05'

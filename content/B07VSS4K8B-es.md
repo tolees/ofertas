@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'Funko- Pop Games: Apex Legends-Mirage Collectible Toy  Multicolor  43284 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VSS4K8B/?tag=tolees-21'
 descuento: '36.59'
 average: '9.48'

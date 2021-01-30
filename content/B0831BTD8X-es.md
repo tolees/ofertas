@@ -16,6 +16,7 @@ comparePrice: 16.59 EUR
 prodname: 'Alcachofa Ducha con Manguera  Zorara Cabezal de Ducha con 1.5m Manguera y Soporte  Telefono Ducha con Botón de Parada  Alcachofa de Ducha Alta Presion  Ducha de Mano 3 Modos Ahorro de Agua para Spa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0831BTD8X/?tag=tolees-21'
 descuento: '28.33'
 average: '15.182857142857143'

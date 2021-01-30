@@ -16,6 +16,7 @@ comparePrice: 3.85 EUR
 prodname: 'L Oréal Paris - Elvive Acondicionador Nutritivo Aceite Extraordinario para Pelo Seco  300 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H14D7WP/?tag=tolees-21'
 descuento: '29.87'
 average: '2.7'

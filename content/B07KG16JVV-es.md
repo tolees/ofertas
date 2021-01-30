@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'PUMA Hybrid Fuego Lights  Zapatillas de Running para Hombre  White-Yellow Alert  43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KG16JVV/?tag=tolees-21'
 descuento: '61.86'
 average: '30.49'

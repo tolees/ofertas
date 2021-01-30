@@ -16,6 +16,7 @@ comparePrice: 13.7 EUR
 prodname: 'qingqingR Mujeres Niñas Viaje Mármol de Viaje Cosmético Bolsa de Maquillaje Cosmético Organizador de Almacenamiento de artículos de tocador'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087TBV92D/?tag=tolees-21'
 descuento: '50.00'
 average: '6.85'

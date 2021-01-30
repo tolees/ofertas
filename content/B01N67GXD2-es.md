@@ -16,6 +16,7 @@ comparePrice: 114.95 EUR
 prodname: 'Salomon Speedcross Vario 2  Zapatillas de Trail Running para Hombre  Azul  Navy Blazer/Nautical Blue/Lime Punch   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N67GXD2/?tag=tolees-21'
 descuento: '35.98'
 average: '73.59'

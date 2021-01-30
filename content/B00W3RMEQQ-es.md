@@ -16,6 +16,7 @@ comparePrice: 13.95 EUR
 prodname: 'Joma Record Pantalones cortos  Hombre  Azul Marino  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00W3RMEQQ/?tag=tolees-21'
 descuento: '28.39'
 average: '9.99'

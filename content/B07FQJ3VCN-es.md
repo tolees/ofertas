@@ -16,6 +16,7 @@ comparePrice: 36.99 EUR
 prodname: 'Rybozen Hub USB 3.0 7-Puertos SuperSpeed 5 Gbps  Hub Aluminio con 5V/4A 20W Alimentacion y Cable USB  para iOS Macbook PC Laptop Windows'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FQJ3VCN/?tag=tolees-21'
 descuento: '27.03'
 average: '29.042631578947365'

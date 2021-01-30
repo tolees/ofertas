@@ -16,6 +16,7 @@ comparePrice: 30.3 EUR
 prodname: 'Mondial A12 Calentador  Calefactor Portátil  350 W  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JB2GJMR/?tag=tolees-21'
 descuento: '32.51'
 average: '20.45'

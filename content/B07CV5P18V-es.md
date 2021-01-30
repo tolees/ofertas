@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'JACK & JONES Jfwolly Nubuck Noos  Zapatillas para Hombre  Azul  Navy Blazer Navy Blazer   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CV5P18V/?tag=tolees-21'
 descuento: '39.99'
 average: '36.0'

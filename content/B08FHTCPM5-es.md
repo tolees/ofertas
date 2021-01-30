@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'InnooCare 12 unidades lavable y reutilizable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08FHTCPM5/?tag=tolees-21'
 descuento: '63.31'
 average: '6.6'

@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'HUAWEI 55030353 - Cargador inalambrico 10V/4A  conexión Cable Tipo C'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JD35YS6/?tag=tolees-21'
 descuento: '28.42'
 average: '41.3625'

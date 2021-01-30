@@ -16,6 +16,7 @@ comparePrice: 25 EUR
 prodname: 'Pepe Jeans Original Basic L/S PM503803 Top de manga larga  Negro  Black 999   X-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XTPHKLG/?tag=tolees-21'
 descuento: '50.20'
 average: '12.45'

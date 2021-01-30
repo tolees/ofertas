@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'CORNERIA Exprimidor de tubo con ruedas de 2 piezas-Exprimidor de tubo blanco para pasta de dientes  limpiador facial  crema de manos  protector solar y más-Soporte de asiento de tubo Soporte giratorio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08D3QB29H/?tag=tolees-21'
 descuento: '46.70'
 average: '7.99'

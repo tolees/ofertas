@@ -16,6 +16,7 @@ comparePrice: 10.25 EUR
 prodname: 'Go Swing abrelatas de latas  potente abrebotellas de bebidas enlatadas  abrelatas manual  fácil apertura rápida'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08C7NHKGQ/?tag=tolees-21'
 descuento: '41.56'
 average: '5.99'

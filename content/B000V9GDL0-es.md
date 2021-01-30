@@ -16,6 +16,7 @@ comparePrice: 10.15 EUR
 prodname: 'Trixie Champú Neutro  Todas Las Razas  Suave  1 LTR.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000V9GDL0/?tag=tolees-21'
 descuento: '45.91'
 average: '5.49'

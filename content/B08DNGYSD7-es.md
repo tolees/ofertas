@@ -16,6 +16,7 @@ comparePrice: 25.35 EUR
 prodname: 'Leaum Galaxy A5 2017 - Funda de piel con función atril para Samsung Galaxy A5 2017  color verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08DNGYSD7/?tag=tolees-21'
 descuento: '44.97'
 average: '13.95'

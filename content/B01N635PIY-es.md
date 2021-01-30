@@ -16,6 +16,7 @@ comparePrice: 149.0 EUR
 prodname: 'Hugo Boss Orange Reloj Analógico para Hombre de Cuarzo con Correa en Caucho 1550002'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N635PIY/?tag=tolees-21'
 descuento: '30.85'
 average: '113.01'

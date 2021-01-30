@@ -16,6 +16,7 @@ comparePrice: 284.99 EUR
 prodname: 'Rowenta RH8897W0 Air Force Extreme Power Pro - Aspirador sin bolsa ciclónico  32.4 V  autonomía 75 min  batería de litio y cepillo motorizado  sin cable  3 potencias ajustables  Blanco Nieve'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01JGM3LTE/?tag=tolees-21'
 descuento: '29.83'
 average: '186.809'

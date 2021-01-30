@@ -16,6 +16,7 @@ comparePrice: 54.64 EUR
 prodname: 'Grahams 20 yo Tawny Port 75cl'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004EAL5B0/?tag=tolees-21'
 descuento: '33.20'
 average: '36.5'

@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'Assassin s Creed: Syndicate'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XLFVMR6/?tag=tolees-21'
 descuento: '25.13'
 average: '14.54'

@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'Diesel S-Clever Low W  Zapatillas para Mujer  Blanco H1527 H1527  35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077GCFPT9/?tag=tolees-21'
 descuento: '86.10'
 average: '17.225'

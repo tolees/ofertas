@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Pepe Jeans Lena Pl800863 Bañador   Multi Bleu 0aa   W32  Talla del Fabricante: X-Large  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JGHV3SD/?tag=tolees-21'
 descuento: '40.02'
 average: '29.073333333333334'

@@ -16,6 +16,7 @@ comparePrice: 14.79 EUR
 prodname: 'Girona FC Oficial Polo Paseo 2019-20  Hombre  Rojo  XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078NP33PY/?tag=tolees-21'
 descuento: '27.52'
 average: '10.72'

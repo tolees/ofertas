@@ -16,6 +16,7 @@ comparePrice: 43.95 EUR
 prodname: 'Lowepro Torba ADVENTURA SH 140 II Black'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00U3TQVGU/?tag=tolees-21'
 descuento: '34.04'
 average: '28.99'

@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'ONTA® Auriculares para Niños Plegable Cómodos Auriculares Niños con Seguro Material Auriculares Infantiles con Ligera Diadema Estéreo Cerrados Cascos para Niños -Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0716XXTXC/?tag=tolees-21'
 descuento: '45.85'
 average: '12.99'

@@ -16,6 +16,7 @@ comparePrice: 69.9 EUR
 prodname: 'Breville Tostador High Gloss de doble rebanada larga VTT688X  1650 W  Metal  2 Ranuras  Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CGA2FUO/?tag=tolees-21'
 descuento: '32.78'
 average: '46.29333333333334'

@@ -16,6 +16,7 @@ comparePrice: 9.24 EUR
 prodname: 'Juan Lopez  Dulce de caramelo - 150 unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CPAEUE4/?tag=tolees-21'
 descuento: '25.32'
 average: '6.9'

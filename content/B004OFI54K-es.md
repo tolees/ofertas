@@ -16,6 +16,7 @@ comparePrice: 52.5 EUR
 prodname: 'Estee Lauder 31405 - Loción anti-imperfecciones'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004OFI54K/?tag=tolees-21'
 descuento: '39.14'
 average: '32.28333333333333'

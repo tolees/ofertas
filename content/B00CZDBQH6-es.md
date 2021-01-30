@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Spirella 5PCS Set  Negro colección Pingy  Alfombrilla de Ducha  PVC'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00CZDBQH6/?tag=tolees-21'
 descuento: '47.85'
 average: '11.969999999999999'

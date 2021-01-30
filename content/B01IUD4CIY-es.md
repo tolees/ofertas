@@ -16,6 +16,7 @@ comparePrice: 6.9 EUR
 prodname: 'Conservas Dantza Esparrago - 345 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IUD4CIY/?tag=tolees-21'
 descuento: '25.51'
 average: '5.14'

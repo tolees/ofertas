@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Elli Pendientes Círculo de damas Geo Trend básico en plata esterlina 925'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007PA9IAQ/?tag=tolees-21'
 descuento: '37.22'
 average: '18.77'

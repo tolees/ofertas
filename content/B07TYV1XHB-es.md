@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'Asics Japan S  Running Shoe Mens  White/Midnight  48 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TYV1XHB/?tag=tolees-21'
 descuento: '59.54'
 average: '29.906666666666666'

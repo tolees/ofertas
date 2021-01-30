@@ -16,6 +16,7 @@ comparePrice: 16.5 EUR
 prodname: 'L Oréal Paris Unlimited Máscara de Pestañas Waterproof Longitud y Curvatura Resistente al Agua Negra'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K3MR8CG/?tag=tolees-21'
 descuento: '35.88'
 average: '9.765'

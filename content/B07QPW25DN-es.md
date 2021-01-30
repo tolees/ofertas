@@ -16,6 +16,7 @@ comparePrice: 200.0 EUR
 prodname: 'Asics Gel-Quantum Infinity  Zapatillas de Running para Hombre  Amarillo  Sour Yuzu/Black 750   44.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QPW25DN/?tag=tolees-21'
 descuento: '55.00'
 average: '86.58'

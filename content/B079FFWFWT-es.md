@@ -16,6 +16,7 @@ comparePrice: 17.48 EUR
 prodname: 'VENUS ComfortGlide Spa Breeze Maquinilla 2 en 1 + 3 Recambios  con Barras de Gel de Depilación  sin Necesidad de Gel de Depilación'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079FFWFWT/?tag=tolees-21'
 descuento: '42.85'
 average: '9.99'

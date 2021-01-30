@@ -16,6 +16,7 @@ comparePrice: 11.9 EUR
 prodname: 'Brennenstuhl Eco-Line regleta de enchufes con 3 tomas de corriente  cable de 1.5 m  interruptor  negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002MQHSKK/?tag=tolees-21'
 descuento: '32.86'
 average: '8.156666666666666'

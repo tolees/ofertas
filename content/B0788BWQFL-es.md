@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Tommy Hilfiger Legging Mallas  Azul  Navy Blazer 416   Medium para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0788BWQFL/?tag=tolees-21'
 descuento: '35.89'
 average: '31.99'

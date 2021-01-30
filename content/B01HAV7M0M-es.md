@@ -16,6 +16,7 @@ comparePrice: 603.79 EUR
 prodname: 'HUION GT-185 Tableta Gráfica con Pantalla TFT  2048 Niveles'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HAV7M0M/?tag=tolees-21'
 descuento: '48.06'
 average: '323.12'

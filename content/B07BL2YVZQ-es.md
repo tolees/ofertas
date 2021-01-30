@@ -16,6 +16,7 @@ comparePrice: 80 EUR
 prodname: 'New Balance 220  Zapatillas para Mujer  Negro  Black/White Tpb   41.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BL2YVZQ/?tag=tolees-21'
 descuento: '43.81'
 average: '44.95'

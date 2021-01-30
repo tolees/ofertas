@@ -16,6 +16,7 @@ comparePrice: 40.99 EUR
 prodname: 'Tomodachi Life'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00K4Y4SXC/?tag=tolees-21'
 descuento: '27.30'
 average: '30.62'

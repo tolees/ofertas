@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'JACK & JONES Jcomilla Sweat Hood Capucha  Multicolor  China Blue Detail: W. Sky Captain   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W6PYHDV/?tag=tolees-21'
 descuento: '61.97'
 average: '15.21'

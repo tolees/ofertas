@@ -16,6 +16,7 @@ comparePrice: 13.86 EUR
 prodname: 'Nostalgic-Art - Placa metálica Decorativa  15 x 20 cm   diseño Cuba Libre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00EUJ8I74/?tag=tolees-21'
 descuento: '42.64'
 average: '7.95'

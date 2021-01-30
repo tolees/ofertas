@@ -16,6 +16,7 @@ comparePrice: 144.95 EUR
 prodname: 'Dewalt DWE492S-QS Amoladora 230 mm 2.200W 6.500 rpm Arranque suave  2200 W'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B017Y3GKTK/?tag=tolees-21'
 descuento: '25.76'
 average: '107.61'

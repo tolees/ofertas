@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'Temfly Amplificador de WiFi Repetidor WiFi 300Mbps/2.4GHz Repetidor Señal WiFi Universal  WiFi Repetidor Amplificador Extensor Red WiFi con 2 Antenas Externo EU Enchufe'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083TMKGZ3/?tag=tolees-21'
 descuento: '71.03'
 average: '19.99'

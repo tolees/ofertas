@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'Silver HT - Funda para eReader Libro electrónico eBook de 6 Pulgadas Compatible con Kindle  BQ  Sony  Woxter  SPC - Modelo Feathers'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073RMRKK3/?tag=tolees-21'
 descuento: '62.36'
 average: '8.171818181818182'

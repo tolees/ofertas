@@ -16,6 +16,7 @@ comparePrice: 450 EUR
 prodname: 'Seiko Reloj Analógico Automático para Hombre con Correa de Cuero - SSA231K1 Blanco-'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00MCBGHA2/?tag=tolees-21'
 descuento: '46.00'
 average: '243'

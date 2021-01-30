@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Velvet - Serie completa [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MYYNJGE/?tag=tolees-21'
 descuento: '50.01'
 average: '44.99'

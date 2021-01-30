@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'SONARIN Rayas Premium Cubiertas de lactancia 4 en 1 Multifunción con bolsa de almacenamiento y esquinas para toallas Mantas de lactancia transpirable y liviana Rosado '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P7GFY5V/?tag=tolees-21'
 descuento: '60.01'
 average: '19.99'

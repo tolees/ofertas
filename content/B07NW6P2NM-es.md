@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Skechers Women s Street Cleats-LUCKIER Trainers  White White Canvas Duraleather Trim Wht  3  36 EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NW6P2NM/?tag=tolees-21'
 descuento: '75.91'
 average: '15.245000000000001'

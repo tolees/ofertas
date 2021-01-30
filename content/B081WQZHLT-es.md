@@ -16,6 +16,7 @@ comparePrice: 20.95 EUR
 prodname: 'Agenda Esther Gili 2020 Fondo Marino'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081WQZHLT/?tag=tolees-21'
 descuento: '38.19'
 average: '12.95'

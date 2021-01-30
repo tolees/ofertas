@@ -16,6 +16,7 @@ comparePrice: 454.96 EUR
 prodname: 'LACOR - Cocedor a baja temperatura  Roner  Sous Vide  1500W  Ref. 69192  69192 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00U9SPIYG/?tag=tolees-21'
 descuento: '28.46'
 average: '325.5'

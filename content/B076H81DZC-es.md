@@ -16,6 +16,7 @@ comparePrice: 9.83 EUR
 prodname: 'Carat Shop- Colgante Charm Lightning Bolt Harry Potter  Color Plata  HP0105 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076H81DZC/?tag=tolees-21'
 descuento: '48.02'
 average: '5.11'

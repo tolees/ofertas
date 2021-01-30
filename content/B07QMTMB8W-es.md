@@ -16,6 +16,7 @@ comparePrice: 85.0 EUR
 prodname: 'Asics Gel-Sonoma 4  Zapatillas de Running para Mujer  Negro  Black/Sun Coral 003   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QMTMB8W/?tag=tolees-21'
 descuento: '67.07'
 average: '27.99'

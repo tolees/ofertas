@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'Wikango 97-W600 Avisador de Radares Europa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B009IKYNA6/?tag=tolees-21'
 descuento: '35.96'
 average: '57.0'

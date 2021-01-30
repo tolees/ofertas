@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Ready 2 Robot Serie 1 - Cápsula Sorpresa con Robot  Piloto y Slime  Multicolor  Giochi Preziosi RED04000 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DDDJL3P/?tag=tolees-21'
 descuento: '74.99'
 average: '7.37'

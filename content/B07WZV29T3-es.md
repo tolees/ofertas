@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Almohada de Viaje Viscoelástica de Espuma de Memoria  Almohada de Cuello  Almohadas de Acampada  Almohada Ortopédica Cervica  Soporte de Cuello  con Máscara de Ojos y Tapones  Black '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WZV29T3/?tag=tolees-21'
 descuento: '60.02'
 average: '15.99'

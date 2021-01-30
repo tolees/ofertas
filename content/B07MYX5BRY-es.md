@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'JX FITNESS Banco de Pesas multifunción Banco de musculacion Plano y declinado Banco de Gimnasio Ejercicios Abdominales Press de banca'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MYX5BRY/?tag=tolees-21'
 descuento: '45.00'
 average: '109.99'

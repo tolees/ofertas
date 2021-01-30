@@ -16,6 +16,7 @@ comparePrice: 83.44 EUR
 prodname: 'INCREÍBLE Serum Pestañas Crecimiento  8ml  Suero De Crecimiento Pestañas Para Hacer Crecer Las Pestañas MEJOR VENDEDOR Crece Pestañas Para Ser Más Grueso Natural Y Más Largo REALMENTE FUNCIONA'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NLEI9CS/?tag=tolees-21'
 descuento: '46.08'
 average: '42.99'

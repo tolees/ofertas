@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Import - Consola - Retro Blast Legends Space Invaders  12 Juegos '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FFS4HVH/?tag=tolees-21'
 descuento: '25.21'
 average: '13.415714285714285'

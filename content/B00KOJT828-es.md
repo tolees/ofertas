@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Columbia Peakfreak Nomad  Botas de Senderismo para Hombre  Negro  Black  Caramel 010   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KOJT828/?tag=tolees-21'
 descuento: '37.04'
 average: '62.95'

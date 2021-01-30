@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 's.Oliver Reloj Analogico para Mujer de Cuarzo con Correa en PU SO-3522-LQ'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BDTB54B/?tag=tolees-21'
 descuento: '42.14'
 average: '46.26'

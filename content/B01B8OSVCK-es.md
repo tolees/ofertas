@@ -16,6 +16,7 @@ comparePrice: 32.53 EUR
 prodname: 'DELL KB216 - Teclado  USB  Universal  QWERTY  Internacional de EE.UU  Alámbrico  USB '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01B8OSVCK/?tag=tolees-21'
 descuento: '27.36'
 average: '23.63'

@@ -16,6 +16,7 @@ comparePrice: 25.08 EUR
 prodname: '2 Piezas de Altavoces Accesorios para Coche Automóvil Mini de Colores Differentes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BQY8GZB/?tag=tolees-21'
 descuento: '33.33'
 average: '14.89'

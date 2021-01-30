@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'Puma Active Wovens Pantalones Cortos  Mujer  Negro Black  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DPL21YW/?tag=tolees-21'
 descuento: '39.92'
 average: '14.99'

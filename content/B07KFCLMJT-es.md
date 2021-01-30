@@ -16,6 +16,7 @@ comparePrice: 46.15 EUR
 prodname: 'Masajeador Cervical Eléctrico Masajeador de Cuello en Forma de U con Transmisión de Voz Inteligente + APP Control para el Dolor  Fatiga'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KFCLMJT/?tag=tolees-21'
 descuento: '29.17'
 average: '32.489999999999995'

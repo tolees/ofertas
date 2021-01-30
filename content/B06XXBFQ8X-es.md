@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'New Balance WL574EB  Zapatillas Mujer  Gris  Grey   40.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XXBFQ8X/?tag=tolees-21'
 descuento: '32.23'
 average: '63.949999999999996'

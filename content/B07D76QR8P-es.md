@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Brewsly Botella de Agua - 1000ML de Doble Pared con Aislamiento Botella Térmica  Acero Inoxidable 18/8  Proceso de Recubrimiento en Polvo  Resistencia al Rayado  Fácil de Limpiar  Verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D76QR8P/?tag=tolees-21'
 descuento: '67.83'
 average: '16.115'

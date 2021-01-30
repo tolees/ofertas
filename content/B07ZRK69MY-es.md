@@ -16,6 +16,7 @@ comparePrice: 2.95 EUR
 prodname: 'Distribuidor Divisor de TV vía satélite/Antena/Cable de 4 vías de 4 vías 5-2400MHz F Tipo SP-04 Carcasa de fundición de Zinc - Plateado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZRK69MY/?tag=tolees-21'
 descuento: '32.20'
 average: '2.0'

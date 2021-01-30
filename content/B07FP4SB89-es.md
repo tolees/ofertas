@@ -16,6 +16,7 @@ comparePrice: 26.92 EUR
 prodname: 'PUMA Carson 2 Knit NM  Zapatillas de Running para Hombre  Black Black  43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FP4SB89/?tag=tolees-21'
 descuento: '26.37'
 average: '24.486666666666668'

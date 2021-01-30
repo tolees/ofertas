@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'Asics Gel-Lyte  Zapatillas para Mujer  Blanco  White/White 100   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CZFLTFG/?tag=tolees-21'
 descuento: '28.61'
 average: '24.95'

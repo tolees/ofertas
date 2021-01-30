@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'Skip Hop Zoo Unicorn - Termo contenedor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XX6GVFY/?tag=tolees-21'
 descuento: '38.40'
 average: '12.93'

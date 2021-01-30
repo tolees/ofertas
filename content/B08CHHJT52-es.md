@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Joyjoz Tatuajes Temporales de Disfraz Halloween niña  niño  Mujer  Hombre  48 Piezas Maquillaje Pegatinas de Cara Sangre Falsa para Decoraciones de Carnaval Fiesta de Cosplay'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CHHJT52/?tag=tolees-21'
 descuento: '26.10'
 average: '16.99'

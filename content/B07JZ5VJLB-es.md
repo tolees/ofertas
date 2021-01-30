@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'adidas Altasport CF K  Zapatillas de Deporte Unisex Niños  Negro  Core Black/Core Black/Core Black 0   28 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JZ5VJLB/?tag=tolees-21'
 descuento: '65.92'
 average: '11.91'

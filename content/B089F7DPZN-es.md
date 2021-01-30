@@ -16,6 +16,7 @@ comparePrice: 14.58 EUR
 prodname: 'Z Paint by Numbers Animales con pinceles y pigmento acrílico DIY lienzo pintado a mano para adultos principiantes  hogar decoración de dormitorio  rinoceronte animal 16 x 20 pulgadas  sin marco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089F7DPZN/?tag=tolees-21'
 descuento: '36.97'
 average: '9.19'

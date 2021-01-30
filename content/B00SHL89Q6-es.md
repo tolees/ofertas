@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'Selvi 3600 - Bloc manualidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00SHL89Q6/?tag=tolees-21'
 descuento: '61.30'
 average: '3.072'

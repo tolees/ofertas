@@ -16,6 +16,7 @@ comparePrice: 5.2 EUR
 prodname: 'Finca La Estacada Vino 12 Meses - 750 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079Q5NRWV/?tag=tolees-21'
 descuento: '28.85'
 average: '3.7'

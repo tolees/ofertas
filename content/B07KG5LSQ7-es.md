@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'PUMA Tarrenz SB Puretex  Zapatillas Unisex Adulto  Moss Green Black  40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KG5LSQ7/?tag=tolees-21'
 descuento: '71.43'
 average: '25.7'

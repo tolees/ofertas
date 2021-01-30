@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Woxter Power Bank QC 16000 Silver - Batería portátil con conexión QC de 16.000 mAh'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079FWSTNX/?tag=tolees-21'
 descuento: '47.51'
 average: '20.99'

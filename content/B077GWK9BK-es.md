@@ -16,6 +16,7 @@ comparePrice: 10.78 EUR
 prodname: 'Lente de Cámara de Seguridad 1080P 4mm M12 Lente de Seguridad 1/2.5"3MP IR'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077GWK9BK/?tag=tolees-21'
 descuento: '44.43'
 average: '5.99'

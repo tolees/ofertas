@@ -16,6 +16,7 @@ comparePrice: 15.0 EUR
 prodname: 'Cámara digital Vlogging accesorios para cámara G03'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z6GWW9F/?tag=tolees-21'
 descuento: '33.40'
 average: '9.99'

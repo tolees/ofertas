@@ -16,6 +16,7 @@ comparePrice: 11.97 EUR
 prodname: 'American Crew Pomada de Fijacion  Fijacion Ligera / Poco Brillo  85 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B8W2NMY/?tag=tolees-21'
 descuento: '33.25'
 average: '8.698'

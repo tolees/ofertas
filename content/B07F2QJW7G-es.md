@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'Helly Hansen HH Duffel Bag 2 Bolsa de Viaje  Unisex Adulto  Grey  Ebony/Orange/White   S  50 litros '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F2QJW7G/?tag=tolees-21'
 descuento: '43.91'
 average: '45.235'

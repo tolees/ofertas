@@ -16,6 +16,7 @@ comparePrice: 201.0 EUR
 prodname: 'Versace Jeans CoutureBorsaMujerBolso de manoMarrón  Legno  13x20x47 centimeters  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NLHC54C/?tag=tolees-21'
 descuento: '59.04'
 average: '108.02'

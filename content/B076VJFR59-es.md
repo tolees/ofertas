@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'G-STAR RAW ARC Mid Waist Ripped Pantalones Cortos  Azul  Medium Aged 9436-071   32W para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076VJFR59/?tag=tolees-21'
 descuento: '67.42'
 average: '29.31'

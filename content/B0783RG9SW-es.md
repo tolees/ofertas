@@ -16,6 +16,7 @@ comparePrice: 84.95 EUR
 prodname: 'PUMA Basket Classic LFS  Zapatillas Unisex Adultos  White-Black  42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0783RG9SW/?tag=tolees-21'
 descuento: '62.38'
 average: '45.975'

@@ -16,6 +16,7 @@ comparePrice: 135.0 EUR
 prodname: 'Hunter Original Tall Classic  Botas de Agua para Unisex Adulto  Rojo  Military Red   40/41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00K1XBHDU/?tag=tolees-21'
 descuento: '37.94'
 average: '86.33'

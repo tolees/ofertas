@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'Cressi Mettalite Escarpines Neopreno Metallite  Unisex Adulto  Negro  M  2.5 mm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004LSTVC0/?tag=tolees-21'
 descuento: '34.72'
 average: '12.99'

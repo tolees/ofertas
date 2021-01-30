@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Flamingueo Mapa Mundi Corcho Pared - Mapamundi Grande con Chinchetas para Fotos  Mapa Mundi Pared para Marcar Viajes  Mapamundi Corcho para Pared  Mapa Mundo  45 5 x 100 cm  Mapa Mundi Corcho '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082P4KNG3/?tag=tolees-21'
 descuento: '44.82'
 average: '14.956666666666665'

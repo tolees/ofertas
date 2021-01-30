@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Leifheit Teleclip 74 Extendable - Tendedero de Pared de Metal  12x110.8x11 cm  Color Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0028PVUP4/?tag=tolees-21'
 descuento: '32.44'
 average: '33.32333333333334'

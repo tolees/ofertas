@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Trueno Sala'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YYC7BS5/?tag=tolees-21'
 descuento: '40.00'
 average: '33.266666666666666'

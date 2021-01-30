@@ -16,6 +16,7 @@ comparePrice: 80.6 EUR
 prodname: 'Croci C5055478 Guinz; flexi Giant Prof. 10m  L  Neon'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01D1JQ2YY/?tag=tolees-21'
 descuento: '56.59'
 average: '34.99'

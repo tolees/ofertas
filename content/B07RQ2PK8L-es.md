@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Calvin Klein - Ck Cast Pebble Mini 6cc W/Coin  Carteras Hombre  Negro  Black   0.1x0.1x0.1 cm  W x H L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RQ2PK8L/?tag=tolees-21'
 descuento: '32.81'
 average: '31.528'

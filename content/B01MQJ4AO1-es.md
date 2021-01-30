@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'Vaultskin Eton Armour - Funda de cuero para iPhone SE y 5s  Marrón '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MQJ4AO1/?tag=tolees-21'
 descuento: '55.57'
 average: '19.99'

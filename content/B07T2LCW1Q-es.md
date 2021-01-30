@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Don Algodon Beach Edition  Bolsa de Tela y de Playa para Mujer  Verde  Menta   17x49x38 cm  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T2LCW1Q/?tag=tolees-21'
 descuento: '56.22'
 average: '16.055'

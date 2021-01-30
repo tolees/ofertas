@@ -16,6 +16,7 @@ comparePrice: 79.86 EUR
 prodname: 'iWork - Maletín de Llaves y Vasos 1/4" y 1/2" con juego de tubos en CROMO-VANADIO color negro.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L349PVF/?tag=tolees-21'
 descuento: '45.00'
 average: '43.68'

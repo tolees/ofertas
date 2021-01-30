@@ -16,6 +16,7 @@ comparePrice: 34.96 EUR
 prodname: 'iRobot Set - Kit de piezas de repuesto para iRobot Roomba 800'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00QTTEG3S/?tag=tolees-21'
 descuento: '38.22'
 average: '21.6'

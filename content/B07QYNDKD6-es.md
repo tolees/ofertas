@@ -16,6 +16,7 @@ comparePrice: 699.0 EUR
 prodname: 'Medion Akoya S6445 - Portátil ultrafino 15.6" FullHD  Intel Core i3-8145U  8GB RAM  256GB SSD  Intel UHD Graphics  Windows 10 Home Plus  color gris - Teclado QWERTY Español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QYNDKD6/?tag=tolees-21'
 descuento: '28.61'
 average: '468.0946153846154'

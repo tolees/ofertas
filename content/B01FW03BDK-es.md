@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Philips Stormtrooper - Iluminación infantil LED integrado  0.2 W  con sensor de movimiento  color blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FW03BDK/?tag=tolees-21'
 descuento: '31.11'
 average: '24.993333333333332'

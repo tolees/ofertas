@@ -16,6 +16,7 @@ comparePrice: 13.64 EUR
 prodname: 'Gillette Venus Swirl Extra Smooth - Afeitadora para Mujer  2 recargas  con 5 Cuchillas revestidas de DLC'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072K4NB9P/?tag=tolees-21'
 descuento: '34.09'
 average: '8.99'

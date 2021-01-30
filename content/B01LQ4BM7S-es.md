@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Razer Goliathus Speed Cosmic Extended - Suave alfombrilla de ratón para juegos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LQ4BM7S/?tag=tolees-21'
 descuento: '37.51'
 average: '24.99'

@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Clarks Sharon Gracie  Mocasines para Mujer  Plateado  Metallic Metallic   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N1JKD3G/?tag=tolees-21'
 descuento: '49.65'
 average: '33.51'

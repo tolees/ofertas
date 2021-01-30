@@ -16,6 +16,7 @@ comparePrice: 53.59 EUR
 prodname: 'Canon NB-6LH - Batería para cámara de Fotos  3.7 V  1060 mAh  4 W '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00EKB0H1W/?tag=tolees-21'
 descuento: '45.77'
 average: '29.06'

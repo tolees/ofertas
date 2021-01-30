@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Vans Atwood Canvas  Sneaker para Hombre  Azul  Navy/White 4k1   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B009S1YVIO/?tag=tolees-21'
 descuento: '37.83'
 average: '34.30800000000001'

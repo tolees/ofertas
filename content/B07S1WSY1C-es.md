@@ -16,6 +16,7 @@ comparePrice: 20 EUR
 prodname: 'Melissa Pack Hilo Acrílico Ovillos de Lanas de Hilo Lana Prémium Hilados Madejas - Perfecto para DIY y Tejer a Mano  Color Azul  50 g * 10 unidades '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S1WSY1C/?tag=tolees-21'
 descuento: '50.05'
 average: '9.99'

@@ -16,6 +16,7 @@ comparePrice: 119.95 EUR
 prodname: 'G-STAR RAW Tendric 3D Mid Waist Boyfriend Pantalones  Verde  lt Hunter 9497-8165   29W / 30L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076VXMT2G/?tag=tolees-21'
 descuento: '77.42'
 average: '27.795'

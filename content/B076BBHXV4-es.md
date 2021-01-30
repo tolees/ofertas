@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'Verdulero Metal 4 Pisos Bianca 81x37x26cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076BBHXV4/?tag=tolees-21'
 descuento: '28.89'
 average: '14.15'

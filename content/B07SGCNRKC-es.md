@@ -16,6 +16,7 @@ comparePrice: 51.07 EUR
 prodname: 'Asics Lyte Classic  Zapatillas para Correr para Hombre  Black/White  44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SGCNRKC/?tag=tolees-21'
 descuento: '31.74'
 average: '34.86'

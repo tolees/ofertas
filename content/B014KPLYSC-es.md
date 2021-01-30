@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Reebok Tube de Resistencia - Pesado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B014KPLYSC/?tag=tolees-21'
 descuento: '33.62'
 average: '9.95'

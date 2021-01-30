@@ -16,6 +16,7 @@ comparePrice: 18.26 EUR
 prodname: 'Panamami Interfaz NGFF M2 Unidad de Estado sólido a USB3.0 con convertidor de Caja de Disco Duro Tarjeta adaptadora Tarjeta de Disco Duro Plug and Play/Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083VW6M2Y/?tag=tolees-21'
 descuento: '34.99'
 average: '11.87'

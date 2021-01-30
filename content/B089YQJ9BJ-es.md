@@ -16,6 +16,7 @@ comparePrice: 189.0 EUR
 prodname: 'VIBORA Pala de Padel Cascabel 2020'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089YQJ9BJ/?tag=tolees-21'
 descuento: '39.18'
 average: '117.45'

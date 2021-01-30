@@ -16,6 +16,7 @@ comparePrice: 9.85 EUR
 prodname: '52mm 58mm 2.0X Teleobjetivo para Nikon D90 D80 D700 D300 D3200 D3200 D5000 D500 D5200 18-55mm Cámaras DSLR - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V6ZFFSL/?tag=tolees-21'
 descuento: '31.98'
 average: '6.7'

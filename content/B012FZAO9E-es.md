@@ -16,6 +16,7 @@ comparePrice: 64.99 EUR
 prodname: 'WMF Kult X Mix & Go Keep Cool  Mini licuadora  300 vatios  0.6 litros'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B012FZAO9E/?tag=tolees-21'
 descuento: '30.77'
 average: '44.99'

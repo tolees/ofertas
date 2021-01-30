@@ -16,6 +16,7 @@ comparePrice: 30.95 EUR
 prodname: 'chung shi Dux Beach  Alpargata para Mujer  Morado  Violeta/Lavanda   36.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003EQ3OLY/?tag=tolees-21'
 descuento: '75.28'
 average: '7.65'

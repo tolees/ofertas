@@ -16,6 +16,7 @@ comparePrice: 22.95 EUR
 prodname: 'Cúrcuma Orgánica 1490mg con BioPerine®. Suplemento Nº 1 en Cúrcuma. Antioxidante natural. 120 cápsulas vegetales con ingredientes de máxima calidad. Cúrcuma ecológica 100% natural. ISO 9001.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CNZHBL9/?tag=tolees-21'
 descuento: '34.12'
 average: '15.258000000000001'

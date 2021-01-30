@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Bestway 68005 - Tienda de Campaña Nucamp 235x190x100 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NFM77QK/?tag=tolees-21'
 descuento: '25.10'
 average: '44.9'

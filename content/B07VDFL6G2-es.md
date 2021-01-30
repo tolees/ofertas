@@ -16,6 +16,7 @@ comparePrice: 23.29 EUR
 prodname: '19 compartimentos Bolsa de almacenamiento de viaje de 2 ml para aceites esenciales  caja de almacenamiento de bolsa de aceite esencial con espejo Plata '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VDFL6G2/?tag=tolees-21'
 descuento: '69.13'
 average: '7.19'

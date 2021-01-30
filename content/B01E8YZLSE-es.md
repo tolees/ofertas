@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'COMPRESSPORT R2 V2 Perneras  Hombre  Negro  Tz'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01E8YZLSE/?tag=tolees-21'
 descuento: '57.17'
 average: '15.49'

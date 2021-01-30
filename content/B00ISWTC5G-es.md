@@ -16,6 +16,7 @@ comparePrice: 115.99 EUR
 prodname: 'Asics Gel-Hockey Neo 3 Hockey Zapatillas - 43.5'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ISWTC5G/?tag=tolees-21'
 descuento: '70.01'
 average: '34.79'

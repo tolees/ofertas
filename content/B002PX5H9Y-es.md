@@ -16,6 +16,7 @@ comparePrice: 7.57 EUR
 prodname: 'Kent Car Care Q9255 Kit de 3 Pulidores con Mango'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002PX5H9Y/?tag=tolees-21'
 descuento: '32.76'
 average: '5.09'

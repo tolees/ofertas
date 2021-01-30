@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'ACTIVISION Skylanders: Swap Force - Figurina Single Smolderdash'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00FOHMB38/?tag=tolees-21'
 descuento: '37.34'
 average: '6.26'

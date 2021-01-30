@@ -16,6 +16,7 @@ comparePrice: 61.0 EUR
 prodname: 'Clarins  Crema diurna facial - 50 gr.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BLHPLYK/?tag=tolees-21'
 descuento: '39.43'
 average: '36.95'

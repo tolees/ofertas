@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'Philips HP6548/01 - Set con depiladora  perfilador y bolsa para guardar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BSO6Q7W/?tag=tolees-21'
 descuento: '49.99'
 average: '24.14166666666667'

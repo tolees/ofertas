@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'Hello Neighbor: Hide And Seek'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HSRHGHL/?tag=tolees-21'
 descuento: '40.08'
 average: '15.527142857142858'

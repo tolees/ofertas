@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Under Armour UA W Charged Pursuit 2  Zapatillas de Running para Mujer  Blanco  White   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PXTZG4Q/?tag=tolees-21'
 descuento: '40.03'
 average: '31.89'

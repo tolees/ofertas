@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'KangaROOS Kanga X 5000  Zapatillas Unisex Niños  Jet Black/White 5012  30 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MMWV4NF/?tag=tolees-21'
 descuento: '58.65'
 average: '16.52'

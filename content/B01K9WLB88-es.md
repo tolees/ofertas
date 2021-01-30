@@ -16,6 +16,7 @@ comparePrice: 14.09 EUR
 prodname: 'VIPMOON 44 teclas de control remoto inalámbrico por infrarrojos con receptor para tira de luz LED RGB 3528 5050 - Salidas dobles'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01K9WLB88/?tag=tolees-21'
 descuento: '36.20'
 average: '8.99'

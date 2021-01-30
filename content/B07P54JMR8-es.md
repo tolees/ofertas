@@ -16,6 +16,7 @@ comparePrice: 101.99 EUR
 prodname: 'Sotech - Cuna Bouncer  Bouncer para Bebés  Patrón de Leon  Tamaño: 73 x 72 x 50 cm  Carga máxima: 10 kg'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P54JMR8/?tag=tolees-21'
 descuento: '52.65'
 average: '48.29'

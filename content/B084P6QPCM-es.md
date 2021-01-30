@@ -16,6 +16,7 @@ comparePrice: 2.15 EUR
 prodname: 'Motherly Love Play Boca Chupete Boca Silicona Cierre automático Tipo de pulgar Chupete infantil a prueba de polvo Chupete para bebés - Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084P6QPCM/?tag=tolees-21'
 descuento: '33.49'
 average: '1.43'

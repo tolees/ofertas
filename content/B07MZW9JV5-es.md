@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'EsportsMJJ Delantera Y Trasera De Goma De La Rueda Pegatina Reflectante Para Xiaomi Mijia M365 E-Scooter'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZW9JV5/?tag=tolees-21'
 descuento: '26.16'
 average: '5.74'

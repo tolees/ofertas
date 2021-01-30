@@ -16,6 +16,7 @@ comparePrice: 32.52 EUR
 prodname: 'Kit Protector para Esquinas y Bordes de Muebles de Bébé Earth | Juego de 8 Cantos Protectores y 1 Rollo de 6m para Mesas y más | Seguridad Infantil en el Hogar | Tope Puerta Gratis | Blanco Marfil'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077S8NZ9L/?tag=tolees-21'
 descuento: '41.73'
 average: '18.95'

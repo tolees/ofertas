@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Otterbox Symmetry - Funda Anti caídas Fina para iPhone XS MAX  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FY3F5X5/?tag=tolees-21'
 descuento: '75.24'
 average: '9.9'

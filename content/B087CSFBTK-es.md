@@ -16,6 +16,7 @@ comparePrice: 3.4 EUR
 prodname: 'Protector facial de 3 capas con cubierta elástica para el asa del oído Anti-polvo de cara completa  30 PCS '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087CSFBTK/?tag=tolees-21'
 descuento: '59.12'
 average: '1.39'

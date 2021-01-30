@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Erik 2020 Wall Calendar for Home or Office  30 x 30 cm - Friends'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XC789MZ/?tag=tolees-21'
 descuento: '30.03'
 average: '6.99'

@@ -16,6 +16,7 @@ comparePrice: 7.35 EUR
 prodname: 'Biosilk Volumizing Therapy Root Lift - lacas para el cabello  Unisex  Voluminizadora '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00FNON4EM/?tag=tolees-21'
 descuento: '38.78'
 average: '4.5'

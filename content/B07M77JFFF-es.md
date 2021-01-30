@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'BANDAI- Severus Snape Figura 12 CM Harry Potter SH FIGUARTS Series  BAS55563 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M77JFFF/?tag=tolees-21'
 descuento: '28.57'
 average: '25.0'

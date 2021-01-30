@@ -16,6 +16,7 @@ comparePrice: 60.5 EUR
 prodname: 'Cata M98536 - Extractor helicoidal lhv-225'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00AS8ZJWI/?tag=tolees-21'
 descuento: '38.84'
 average: '37.0'

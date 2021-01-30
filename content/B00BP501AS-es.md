@@ -16,6 +16,7 @@ comparePrice: 61.7 EUR
 prodname: 'Crucial CT2KIT51264BF160BJ Kit de memoria RAM de 8 GB  4 GB x 2   DDR3L  1600 MT/s  PC3L-12800  Single Rank  SODIMM  204-Pin '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BP501AS/?tag=tolees-21'
 descuento: '27.50'
 average: '44.73'

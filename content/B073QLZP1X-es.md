@@ -16,6 +16,7 @@ comparePrice: 22.73 EUR
 prodname: 'Onnea 30 Pares Set Stud Pendientes Cristales Perla Bola Flor Colores para Niñas Mujer  Antialergicos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073QLZP1X/?tag=tolees-21'
 descuento: '56.05'
 average: '9.99'

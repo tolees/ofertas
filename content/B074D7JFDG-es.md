@@ -16,6 +16,7 @@ comparePrice: 13.96 EUR
 prodname: 'Matrix  Mousse y espuma - 1 unidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074D7JFDG/?tag=tolees-21'
 descuento: '42.41'
 average: '8.04'

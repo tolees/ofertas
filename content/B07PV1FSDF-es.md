@@ -16,6 +16,7 @@ comparePrice: 29.0 EUR
 prodname: 'San Ignacio Q2996 Sarten cuadrada 24x24x9.5cm con t aluminio prensado inducción optimum copper'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PV1FSDF/?tag=tolees-21'
 descuento: '31.38'
 average: '28.59333333333333'

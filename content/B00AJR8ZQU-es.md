@@ -16,6 +16,7 @@ comparePrice: 17.14 EUR
 prodname: 'FREESTYLE Optium B-cetona Test Strips 1 x 10'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00AJR8ZQU/?tag=tolees-21'
 descuento: '82.50'
 average: '3.0'

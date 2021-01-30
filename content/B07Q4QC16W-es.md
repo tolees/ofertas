@@ -16,6 +16,7 @@ comparePrice: 69.9 EUR
 prodname: 'SkinXmed Sérum para pestañas y cejas | volumen  densidad | más largas  fuertes  resistentes | potenciador de crecimiento | sin parabenos | miristoil pentapéptido 17  pantenol  curcuma | 6ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q4QC16W/?tag=tolees-21'
 descuento: '28.61'
 average: '49.9'

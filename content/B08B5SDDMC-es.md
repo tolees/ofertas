@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'alvorog Espejo Maquillaje con Luz LED  Espejo de Pared con 3 Modos de Luz y Aumento 1x/5x  Espejo con 36 LEDs  Luz Ajustable y Rotación de 360°  8” Espejo de Baño con Carga USB o Batería - Plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08B5SDDMC/?tag=tolees-21'
 descuento: '28.34'
 average: '42.99'

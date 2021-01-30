@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'LK Funda para Samsung Galaxy A51 + [2 Pack] Protector de Pantalla Vidrio Templado y [2 Pack] Protector de Lente de cámara [HD Cristal]  Carcasa Suave TPU Silicona Cover para Samsung Galaxy A51-Clara'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08HCSZVTM/?tag=tolees-21'
 descuento: '31.27'
 average: '10.99'

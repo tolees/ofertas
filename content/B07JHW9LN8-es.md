@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Columbia Nikiski  Botas Bajas para Mujer  Verde  Nori  Daredevil   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JHW9LN8/?tag=tolees-21'
 descuento: '82.26'
 average: '44.800000000000004'

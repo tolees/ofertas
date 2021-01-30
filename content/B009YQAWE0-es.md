@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Belkin F5U404CW - Hub USB 2.0 de 4 Puertos con Fuente de alimentación para PC o Mac  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B009YQAWE0/?tag=tolees-21'
 descuento: '33.49'
 average: '9.97'

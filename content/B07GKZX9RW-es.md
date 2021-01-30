@@ -16,6 +16,7 @@ comparePrice: 34.62 EUR
 prodname: 'Yifen Base de Carga 4 en 1 de Silicona para Apple Watch  Apple Pencil  iPhone y Airpods con Orificios para Gestión de Cables  Cables no Incluidos '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GKZX9RW/?tag=tolees-21'
 descuento: '53.81'
 average: '15.99'

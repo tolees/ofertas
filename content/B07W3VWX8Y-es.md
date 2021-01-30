@@ -16,6 +16,7 @@ comparePrice: 31.99 EUR
 prodname: 'Juguete Tostador De Madera Juguete Educativo temprano Juegos de Cocina Fomenta el Juego imaginativo Juego de Roles de Cocina Diversión 3 4 5+ años Niño y niña  Tostador '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W3VWX8Y/?tag=tolees-21'
 descuento: '31.26'
 average: '21.99'

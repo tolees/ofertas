@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Humidificador USB para coche  230 ml  difusor de coche portátil  humidificador de niebla  desconexión automática sin agua para viajes en la oficina en casa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X3BXYYH/?tag=tolees-21'
 descuento: '41.20'
 average: '16.32333333333333'

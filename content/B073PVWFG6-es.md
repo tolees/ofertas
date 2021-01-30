@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Nllano USB-A a LAN Ethernet Adaptador con 3 USB 3.0 Puertos  Adaptador con Cable LAN a RJ45 de USB  Adaptador de Red Gigabit  Concentrador Ethernet  Aleación de Aluminio  USB-A Plata '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073PVWFG6/?tag=tolees-21'
 descuento: '39.36'
 average: '9.09'

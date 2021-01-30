@@ -16,6 +16,7 @@ comparePrice: 74.9 EUR
 prodname: 'Valentino Rossi Vr46 Classic-Sol e Luna  Hoodie Hombre  Azul  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NW89VTL/?tag=tolees-21'
 descuento: '30.04'
 average: '52.4'

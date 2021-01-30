@@ -16,6 +16,7 @@ comparePrice: 10.29 EUR
 prodname: 'Funda XiaoMi Mi 9 SE con Cristal Templado  AChris 3 en 1 Hard Caja Caso Skin Case Cover Carcasa Ultra Fina Anti-rasguños Choque Resistente Case [Compatible con Carga Inalámbrica]- Rosado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QVDD6SN/?tag=tolees-21'
 descuento: '32.07'
 average: '6.99'

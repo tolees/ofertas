@@ -16,6 +16,7 @@ comparePrice: 16.2 EUR
 prodname: 'Klorane Shampoo with Nettle Mujeres No profesional Champú 400ml - Champues  Mujeres  No profesional  Champú  Cabello graso  400 ml  Voluminizadora '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00EQ7BGIS/?tag=tolees-21'
 descuento: '44.51'
 average: '10.745000000000001'

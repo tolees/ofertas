@@ -16,6 +16,7 @@ comparePrice: 9.8 EUR
 prodname: 'Schwarzkopf Professional BC Excellium Beautifying Shampoo Champú - 200 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B017OLB5Y2/?tag=tolees-21'
 descuento: '31.63'
 average: '6.7'

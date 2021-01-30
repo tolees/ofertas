@@ -16,6 +16,7 @@ comparePrice: 99 EUR
 prodname: 'Fujifilm instax Mini 8 Kit - cámaras con impresión instantánea  0 6-2 7m  0 2s  AA  1 5V  11 6 cm  11 83 cm  Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00O94JFWW/?tag=tolees-21'
 descuento: '26.77'
 average: '72.5'

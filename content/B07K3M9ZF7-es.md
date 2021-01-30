@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Adidas Continental 80 W  Zapatillas de Deporte para Mujer  Multicolor  Ftwbla/Rosaut/Ros Cl A 000   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K3M9ZF7/?tag=tolees-21'
 descuento: '50.03'
 average: '49.95'

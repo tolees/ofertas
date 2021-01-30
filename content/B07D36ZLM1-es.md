@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'upHere Refrixerador de Memoria RAM - Disipador Térmico De Aluminio para DDR RAM Memoria Negro MBK5-1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D36ZLM1/?tag=tolees-21'
 descuento: '30.94'
 average: '8.28'

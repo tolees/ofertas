@@ -16,6 +16,7 @@ comparePrice: 16.45 EUR
 prodname: 'P Prettyia Cable Adaptador  2 RCA a 2 Machos RCA  1.5M   Convertidor para Sistema de Equipos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MY6YBKK/?tag=tolees-21'
 descuento: '47.78'
 average: '8.59'

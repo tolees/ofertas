@@ -16,6 +16,7 @@ comparePrice: 39.0 EUR
 prodname: 'Sujetador Nature Rosa albaricoque 80A'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IICFOIY/?tag=tolees-21'
 descuento: '56.72'
 average: '16.88'

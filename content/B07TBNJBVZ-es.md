@@ -16,6 +16,7 @@ comparePrice: 124.0 EUR
 prodname: 'Luces LED de techo para música 60W  Houkiper Bluetooth Luces para música Control remoto LED Regulable Luz de techo Redondo Punto de estrella RGBW Cambio de color APLICACIÓN 185-265V Control remoto'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TBNJBVZ/?tag=tolees-21'
 descuento: '62.91'
 average: '45.99'

@@ -16,6 +16,7 @@ comparePrice: 20 EUR
 prodname: 'GadFull 2 Piezas HD Protector de Pantalla para iPhone 6 e iPhone 6S | Lámina de Vidrio Templado 3D Suave para Proteger Pantalla Táctil'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XH9HRNK/?tag=tolees-21'
 descuento: '55.05'
 average: '8.99'

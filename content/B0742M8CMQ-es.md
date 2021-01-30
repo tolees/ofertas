@@ -16,6 +16,7 @@ comparePrice: 3.5 EUR
 prodname: 'UO- Pulsera Estampado Supermama  Color Dorado  '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0742M8CMQ/?tag=tolees-21'
 descuento: '71.43'
 average: '1.0'

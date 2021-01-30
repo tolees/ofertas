@@ -16,6 +16,7 @@ comparePrice: 109.99 EUR
 prodname: 'Sekey Soporte para Hamaca  Soporte de Hamaca de Acero para Interiores y Exteriores Jardín  con Bolsa de Transporte Portátil  270 x 100 x 105 cm  Capacidad de Carga máx. 150 KG  Negro  Solo Estructura '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088BQ1HXJ/?tag=tolees-21'
 descuento: '27.28'
 average: '79.99'

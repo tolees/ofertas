@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'Sennheiser  MOMENTUM True Wireless  - Auriculares intraurales inalámbricos  con control táctil  audición transparente y estuche de carga'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HRHM8F3/?tag=tolees-21'
 descuento: '41.47'
 average: '199.998'

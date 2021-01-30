@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'NIVEA Cellular Perfect Skin Cuidado de Día FP15  1 x 50 ml   crema hidratante facial para dar luminosidad a la piel  crema de día iluminadora  crema antienvejecimiento'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CQXGQEW/?tag=tolees-21'
 descuento: '53.30'
 average: '7.0'

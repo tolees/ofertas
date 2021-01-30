@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Maquina Cortapelo Cortapelos Hombre Cortapelos Juego de Cortapelos Profesional Con 5 Peines y Cuchillas de Acero Inoxidable  Admite Carga Rápida USB Cortapelos Para el Hogar y el Salón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0867CFC3S/?tag=tolees-21'
 descuento: '26.01'
 average: '36.99'

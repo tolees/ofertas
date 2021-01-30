@@ -16,6 +16,7 @@ comparePrice: 7.0 EUR
 prodname: 'Wilson Profile Overgrip para Raqueta  Unisex Adulto  Rojo  Talla Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00HXVK98C/?tag=tolees-21'
 descuento: '28.71'
 average: '4.99'

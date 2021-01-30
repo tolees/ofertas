@@ -16,6 +16,7 @@ comparePrice: 30.11 EUR
 prodname: 'HoneyHolly Botella de Agua de Acero Inoxidable sin bpa Botellas 600ML diseño de Pared Doble Botella  Termica con Pajita y Filtro  para Niños & Adultos  Deporte  Oficina'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081K2K5MG/?tag=tolees-21'
 descuento: '33.61'
 average: '19.99'

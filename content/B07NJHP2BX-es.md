@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Tamaris 1-1-25242-23  Botas Militar para Mujer  Marrón  Rust 444   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NJHP2BX/?tag=tolees-21'
 descuento: '81.33'
 average: '19.666666666666668'

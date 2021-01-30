@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Skechers Flex Advantage 3.0-Jection  Zapatillas Deportivas para Hombre  Azul  Navy Black Nvbk   39.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CTRGHYP/?tag=tolees-21'
 descuento: '40.03'
 average: '41.95'

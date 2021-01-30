@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'Funko- Pop Vinyl: Disney: Aladdin: Jasmine in Disguise w/Chase Figura de vinilo Iago  Multicolor  talla única  35754    color/modelo surtido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HJ6SYBD/?tag=tolees-21'
 descuento: '33.11'
 average: '9.416666666666666'

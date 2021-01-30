@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'VITN Auricular Bluetooth 4.2 Invisible Mini Auricular In Ear Control Táctil Auricular Inalámbricos con Micrófono Cancelacion de Ruido 2 USB Magnéticos Manos Libres para Coche y Negocio con Estuche'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S8GR1G6/?tag=tolees-21'
 descuento: '30.02'
 average: '14.323333333333334'

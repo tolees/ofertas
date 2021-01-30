@@ -16,6 +16,7 @@ comparePrice: 2.64 EUR
 prodname: 'Nuevo Cable de Cable de liberación de Obturador de Interruptor Remoto 3N para cámara Nikon D600 D3200 D3100 D5100 D7000 D5000 D90 Nikon D80 D70s - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZRKF8VN/?tag=tolees-21'
 descuento: '32.20'
 average: '1.79'

@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'AICOK Deshidratador de Alimentos  250W Temporizador Deshidratador de Frutas y Verduras  5 Bandejas  Ajustables Deshidratador Temporizador de hasta 72 h  Pantalla LCD  sin BPA'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TV2X8TG/?tag=tolees-21'
 descuento: '40.01'
 average: '31.99'

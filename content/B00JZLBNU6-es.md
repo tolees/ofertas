@@ -16,6 +16,7 @@ comparePrice: 99.19 EUR
 prodname: 'BLACK+DECKER PV1820L-QW - Aspirador de mano sin cable 18V 1.5Ah   cabezal pivotante ya cción ciclónica.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00JZLBNU6/?tag=tolees-21'
 descuento: '25.04'
 average: '74.35'

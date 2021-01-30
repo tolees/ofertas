@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'szlsl88 Esterilla de Yoga Grande y Gruesa para Ejercicios de Gimnasia  a Prueba de Humedad…  180 x 50 x 0 6 cm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083M5DTHM/?tag=tolees-21'
 descuento: '65.38'
 average: '5.19'

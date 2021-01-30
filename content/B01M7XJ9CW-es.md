@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Skechers You  Zapatillas sin cordones para Mujer  Blanco  Wbk   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M7XJ9CW/?tag=tolees-21'
 descuento: '45.96'
 average: '35.1'

@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Dreamon Juguete con Coche de Bomberos Mini Coches de Fricción Vehículos para niños  Pack de 5'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CCNX9TB/?tag=tolees-21'
 descuento: '57.12'
 average: '12.86'

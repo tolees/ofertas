@@ -16,6 +16,7 @@ comparePrice: 71.99 EUR
 prodname: 'Tidyard 2xArco de Jardin para Plantas en Forma de Torre Soporte de Plantas Arco para Rosas Arco de Flores para Jardín Patio Terraza Hierro Verde Oscuro 38x190cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N1H4HYR/?tag=tolees-21'
 descuento: '28.39'
 average: '51.55'

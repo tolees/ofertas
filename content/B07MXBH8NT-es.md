@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'JACK & JONES Jjebomb Puffer Hood Noos Hombre  Azul  Navy Blazer Navy Blazer   Medium'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MXBH8NT/?tag=tolees-21'
 descuento: '38.01'
 average: '35.660000000000004'

@@ -16,6 +16,7 @@ comparePrice: 26.63 EUR
 prodname: 'UCMDA Funda para Huawei Mate 30 Lite con Protector de Pantalla  Fundas Transparente Suave TPU Carcasa para Huawei Mate 30 Lite con Cristal Templado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X8SB1XW/?tag=tolees-21'
 descuento: '73.75'
 average: '6.99'

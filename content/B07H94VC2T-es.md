@@ -16,6 +16,7 @@ comparePrice: 5.59 EUR
 prodname: 'YAZILIND Encaje Flor Halloween Masquerade Disfraces Fiesta máscara Mardi Gras Noche Prom Fiesta máscaras  Amarillo 1 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H94VC2T/?tag=tolees-21'
 descuento: '55.46'
 average: '2.49'

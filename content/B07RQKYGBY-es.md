@@ -16,6 +16,7 @@ comparePrice: 29.59 EUR
 prodname: 'BESCHOI Espejo Maquillaje con Luz LED  Espejo Aumento 5X  Espejo Cosmético Pantalla Táctil，Regulable Luz LED Diurna  Rotación de 120°  Carga con USB  Portátil y Sin Cable（Blanco）'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RQKYGBY/?tag=tolees-21'
 descuento: '44.54'
 average: '21.27'

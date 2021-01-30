@@ -16,6 +16,7 @@ comparePrice: 74.0 EUR
 prodname: 'Tefal Ingenio Expertise - Set de Sartenes de Aluminio de 24 y 28 cm con Mango Extraíble Antiadherente con Extra de Titanio  Aptas para Todo Tipo de Cocinas Incluido Inducción'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CTWGQQS/?tag=tolees-21'
 descuento: '40.55'
 average: '46.365833333333335'

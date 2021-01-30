@@ -16,6 +16,7 @@ comparePrice: 1299.0 EUR
 prodname: 'OPTOMA TECHNOLOGY EH461 - Proyector Full HD 1080p  5000 lúmenes  20000:1 Contraste  Formato 16:9  Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078HKFZFX/?tag=tolees-21'
 descuento: '33.03'
 average: '926.7579999999999'

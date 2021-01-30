@@ -16,6 +16,7 @@ comparePrice: 27.12 EUR
 prodname: 'Apisérum Intelecto Viales Bebibles - Favorece el rendimiento intelectual  concentración y memoria - Multivitamínico con Jalea Real  Vitamina B  Aminoacidos y Ginkgo Biloba - Tratamiento para 18 días'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KXC47LW/?tag=tolees-21'
 descuento: '45.50'
 average: '15.049166666666665'

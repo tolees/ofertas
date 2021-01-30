@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'LexonElec Teclado mecánico para juegos de una sola mano K109 Cableado 38 teclas Teclado mixto USB retroiluminado Multimedia Teclado ergonómico Gamer con una mano con reposamuñecas para PC portátil'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GKHD1PD/?tag=tolees-21'
 descuento: '40.01'
 average: '23.99'

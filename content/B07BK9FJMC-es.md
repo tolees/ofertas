@@ -16,6 +16,7 @@ comparePrice: 24.21 EUR
 prodname: 'Los IncreÍbles-640876-M Disfraz Violet Increible Classic Tut Inf  Multicolor  M  Rubies 640876-M '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BK9FJMC/?tag=tolees-21'
 descuento: '38.08'
 average: '14.99'

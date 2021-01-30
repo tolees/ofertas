@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'TTMOW Bandas Elásticas Musculacion Bandas de Resistencia de Tela Antideslizantes con 3 Niveles Cintas Elásticas para Yoga  Pilates  Glúteos  Caderas  Piernas  Brazos  Fitness  Crossfit  Mujer y Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087ZMJYTH/?tag=tolees-21'
 descuento: '44.47'
 average: '15.323333333333334'

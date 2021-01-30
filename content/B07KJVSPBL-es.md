@@ -16,6 +16,7 @@ comparePrice: 109.99 EUR
 prodname: 'Columbia Ventrailia 3 Low Outdry  Zapatillas de Senderismo para Mujer  Azul  Deep Ocean  BLU 458   37.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KJVSPBL/?tag=tolees-21'
 descuento: '70.67'
 average: '32.26'

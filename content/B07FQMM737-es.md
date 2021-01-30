@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Clarks Landry Edge  Mocasines para Hombre  Negro  Black Combination Suede-   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FQMM737/?tag=tolees-21'
 descuento: '51.76'
 average: '27.27285714285714'

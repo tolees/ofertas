@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'Nave Acuatica Hinchable Bestway Wet Jet'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074SY7FWR/?tag=tolees-21'
 descuento: '49.92'
 average: '9.99'

@@ -16,6 +16,7 @@ comparePrice: 25.17 EUR
 prodname: 'Alicates multiherramientas 12 en 1 plegables portátiles con funda de nailon para exteriores'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GPF6RLN/?tag=tolees-21'
 descuento: '64.28'
 average: '8.99'

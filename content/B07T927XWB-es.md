@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Belkin ScreenForce TemperedGlass - Protector de Pantalla para iPad Pro y iPad Pro 11'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T927XWB/?tag=tolees-21'
 descuento: '40.01'
 average: '29.99'

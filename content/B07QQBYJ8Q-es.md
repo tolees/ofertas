@@ -16,6 +16,7 @@ comparePrice: 30.99 EUR
 prodname: 'MonQi 28 Piezas Juguete de Buceo Incluir Anillos de Buceo*4  Torpedos Bandidos*4  Palo de Buceo*5  Bolas de Buceo*3 Tesoro de Buceo*8 Tiburón*4'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QQBYJ8Q/?tag=tolees-21'
 descuento: '51.98'
 average: '14.846666666666668'

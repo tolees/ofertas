@@ -16,6 +16,7 @@ comparePrice: 7.66 EUR
 prodname: 'Mujer Pantalones Largos deportivos SMARTLADY Patrón de árbol Leggings para Running  Yoga y Ejercicio  S  Blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075ZQ5PLR/?tag=tolees-21'
 descuento: '73.89'
 average: '3.941666666666667'

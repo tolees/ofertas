@@ -16,6 +16,7 @@ comparePrice: 6.33 EUR
 prodname: 'Luceco lfs6b130 de la UE a +  Foco LED  aluminio  8 Watts  Negro  33 x 28 5 x 15 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M2WDJR4/?tag=tolees-21'
 descuento: '31.12'
 average: '4.36'

@@ -16,6 +16,7 @@ comparePrice: 2.25 EUR
 prodname: 'Rexona Desodorante Aerosol Cobalt Blue - 200 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01K7RCKIK/?tag=tolees-21'
 descuento: '55.56'
 average: '1.0'

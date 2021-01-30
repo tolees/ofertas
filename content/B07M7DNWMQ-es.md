@@ -16,6 +16,7 @@ comparePrice: 18.3 EUR
 prodname: 'Hackett Amr Long Contrast Paraguas   Navy/Red 5dc   Talla única  Talla del fabricante: 000  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M7DNWMQ/?tag=tolees-21'
 descuento: '25.41'
 average: '14.083333333333334'

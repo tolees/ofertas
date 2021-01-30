@@ -16,6 +16,7 @@ comparePrice: 6.3 EUR
 prodname: 'Super wings pelota 40 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072VH9CSW/?tag=tolees-21'
 descuento: '65.08'
 average: '2.2'

@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Fundas Amazon Kindle 2019 10ma Generación Flip Pintado Carcasa Cuero PC 360° Proteccion Ultra-Delgado Magnética Automático Despertar o Dormir Función Estuche para Kindle 2019  Patrón 03 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086LKB28D/?tag=tolees-21'
 descuento: '54.68'
 average: '13.59'

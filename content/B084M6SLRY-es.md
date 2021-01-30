@@ -16,6 +16,7 @@ comparePrice: 25.91 EUR
 prodname: 'Cabezales de cepillo de dientes eléctrico y accesorio de cepillo de rostro compatible con cabezales de cepillo de dientes Oral B para cabezal de cepillo de dientes Oral-B'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084M6SLRY/?tag=tolees-21'
 descuento: '56.54'
 average: '11.26'

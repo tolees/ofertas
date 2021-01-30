@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'AA59-00638A Mando a distancia para Samsung Smart 3D LCD LED HDTV AA59-00594A AA59-00741A AA59-00580A AA59-00582A'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08D3VRH9T/?tag=tolees-21'
 descuento: '43.71'
 average: '16.88'

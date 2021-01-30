@@ -16,6 +16,7 @@ comparePrice: 13.5 EUR
 prodname: 'L Oréal Paris Accord Parfait La Poudre D7 Rubor en Polvo - 1 unidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00K7ZI2GM/?tag=tolees-21'
 descuento: '27.70'
 average: '9.76'

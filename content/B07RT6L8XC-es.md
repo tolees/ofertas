@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Diesel ShoesZippy Hiresh SHombreCarterasAzul  Blue Nights  2x9.5x11.5 centimeters  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RT6L8XC/?tag=tolees-21'
 descuento: '50.00'
 average: '32.5'

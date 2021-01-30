@@ -16,6 +16,7 @@ comparePrice: 14.45 EUR
 prodname: 'Ultima Pienso para Gatos Adulto con Pollo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IUP7NFQ/?tag=tolees-21'
 descuento: '93.08'
 average: '7.475'

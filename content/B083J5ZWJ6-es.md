@@ -16,6 +16,7 @@ comparePrice: 24.71 EUR
 prodname: 'Luces solares de pared para exteriores'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083J5ZWJ6/?tag=tolees-21'
 descuento: '26.31'
 average: '18.21'

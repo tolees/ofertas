@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'adidas 3Mc  Zapatillas de Skateboard Unisex Adulto  Blanco  FTWR White/FTWR White/Gold Met. FTWR White/FTWR White/Gold Met.   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F86YX8Y/?tag=tolees-21'
 descuento: '47.67'
 average: '33.99'

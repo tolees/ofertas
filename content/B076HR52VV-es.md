@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'adidas Con18 PES Jkt Sport Jacket  Hombre  Blanco/Negro  XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076HR52VV/?tag=tolees-21'
 descuento: '40.00'
 average: '29.97'

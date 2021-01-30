@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Lacoste Lerond TRI1 CMA  Zapatillas para Hombre  Blanco  Wht/Nvy/Red   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SNG699K/?tag=tolees-21'
 descuento: '33.34'
 average: '65.99'

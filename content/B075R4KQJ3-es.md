@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Firbon cortadora de papel titanio 12 inch A4 cortador con automático Seguridad Safeguard  Blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075R4KQJ3/?tag=tolees-21'
 descuento: '31.60'
 average: '12.99'

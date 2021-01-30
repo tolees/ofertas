@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Tommy Hilfiger - Th Essential Mini Cc Wallet  Carteras Hombre  Marrón  Testa Di Moro   1x1x1 cm  W x H L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V3RRBXL/?tag=tolees-21'
 descuento: '40.20'
 average: '29.84'

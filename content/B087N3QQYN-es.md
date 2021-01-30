@@ -16,6 +16,7 @@ comparePrice: 59.8 EUR
 prodname: 'Rowenta Essential VU4110F0 Ventilador de pie con 3 velocidades de 40 cm y sistema de ahorro de energía  oscilación automática  orientación y altura  ajustable  Reacondicionado '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087N3QQYN/?tag=tolees-21'
 descuento: '33.13'
 average: '39.99'

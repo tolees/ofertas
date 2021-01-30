@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Clarks Un Trail Step  Mocasines para Hombre  Negro  Black Nubuck -   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FR85M7H/?tag=tolees-21'
 descuento: '59.86'
 average: '40.12'

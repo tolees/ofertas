@@ -16,6 +16,7 @@ comparePrice: 6.95 EUR
 prodname: 'Holland Rosso 300 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XX1D1YQ/?tag=tolees-21'
 descuento: '74.24'
 average: '1.79'

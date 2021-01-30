@@ -16,6 +16,7 @@ comparePrice: 64.99 EUR
 prodname: 'GoPro AWALC-002-ES - Cargador rápido de Puerto Dual Internacional  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M0PTTXE/?tag=tolees-21'
 descuento: '73.89'
 average: '16.97'

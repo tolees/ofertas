@@ -16,6 +16,7 @@ comparePrice: 258.28 EUR
 prodname: 'AMD RYZEN 7 1800X 16 MB 4.0GHz Octa Core AMD'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06W9JXK4G/?tag=tolees-21'
 descuento: '45.83'
 average: '163.83999999999997'

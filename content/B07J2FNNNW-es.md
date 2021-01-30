@@ -16,6 +16,7 @@ comparePrice: 44.88 EUR
 prodname: 'Martina Home Tunez Funda sofá Duplex  Mostaza  4 Plaza'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J2FNNNW/?tag=tolees-21'
 descuento: '43.18'
 average: '35.19'

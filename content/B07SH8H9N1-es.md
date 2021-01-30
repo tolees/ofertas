@@ -16,6 +16,7 @@ comparePrice: 2.27 EUR
 prodname: 'Santa Rita Pan Rallado  Panko Estilo Japonés - 100 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SH8H9N1/?tag=tolees-21'
 descuento: '25.55'
 average: '1.69'

@@ -16,6 +16,7 @@ comparePrice: 27.95 EUR
 prodname: 'Kit Original de Tatuajes con Brillantina: Tatuajes temporales para niños y Adolescentes con 6 brillantinas Grandes y Plantillas Reutilizables'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N4ATC05/?tag=tolees-21'
 descuento: '28.62'
 average: '19.95'

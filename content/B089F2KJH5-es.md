@@ -16,6 +16,7 @@ comparePrice: 32.23 EUR
 prodname: 'HOPLYNN - Pantalones cortos 2 en 1 para correr  gimnasio  entrenamiento  atlético  ropa interior de compresión con bolsillo con cremallera Gris gris L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089F2KJH5/?tag=tolees-21'
 descuento: '43.19'
 average: '18.31'

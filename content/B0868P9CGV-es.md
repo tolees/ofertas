@@ -16,6 +16,7 @@ comparePrice: 12.26 EUR
 prodname: 'ZOZOSEP Fundas para Apple iPad Mini 3 iPad Mini 2/1 Case iPad Mini Case Durable TPU Suave Claro A Prueba de choques Cubierta de la Tableta para iPad Mini 3/2/1 Case iPad Mini Cover-S140'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0868P9CGV/?tag=tolees-21'
 descuento: '81.57'
 average: '2.26'

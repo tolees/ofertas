@@ -16,6 +16,7 @@ comparePrice: 8.0 EUR
 prodname: 'Emsa Clip & Close Conservador Hermético de Plástico Rectangular de 1 6 L  Transparente y azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004FVA5ZA/?tag=tolees-21'
 descuento: '30.63'
 average: '5.55'

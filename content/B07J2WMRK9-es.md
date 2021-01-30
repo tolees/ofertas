@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Bosch MSM89160 MaxoMixx Batidora de Mano  Con 3 accesorios  1000 W  12 Velocidades  Plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J2WMRK9/?tag=tolees-21'
 descuento: '37.37'
 average: '62.54888888888888'

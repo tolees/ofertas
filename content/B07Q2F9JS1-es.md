@@ -16,6 +16,7 @@ comparePrice: 189.99 EUR
 prodname: 'Candelabros de Tubos  Retro Vintage Personalidad  Hierro  Agua  Tubería en Forma de Colgante Colgante  lámpara Colgante de luz'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q2F9JS1/?tag=tolees-21'
 descuento: '89.11'
 average: '20.69'

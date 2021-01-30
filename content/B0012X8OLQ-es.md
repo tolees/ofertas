@@ -16,6 +16,7 @@ comparePrice: 21.1 EUR
 prodname: 'Revlon Nutri Color Creme Tinte 513-270 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0012X8OLQ/?tag=tolees-21'
 descuento: '40.09'
 average: '12.64'

@@ -16,6 +16,7 @@ comparePrice: 150.0 EUR
 prodname: 'Asics Gel-Fujitrabuco 7 G-TX  Zapatillas de Entrenamiento para Mujer  Multicolor  Black/Dark Grey 001   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K7K4NZP/?tag=tolees-21'
 descuento: '60.67'
 average: '58.99'

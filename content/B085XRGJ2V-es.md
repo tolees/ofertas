@@ -16,6 +16,7 @@ comparePrice: 56.99 EUR
 prodname: 'BESTBOMG Cortapelos Profesional Hombre Máquina de Cortar con batería Li-ion 2500 mAh funcionamiento más prolongado durante 5-6 horas Pelo Cortador de Pelo Recargable Recortador de Barba Inalámbrico'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085XRGJ2V/?tag=tolees-21'
 descuento: '29.83'
 average: '39.99'

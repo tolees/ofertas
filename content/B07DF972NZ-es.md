@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Godmorn Molinillo de Café Eléctrico  Molinillo Compacto de Café  Especias  Semillas o Granos. Operación con un Solo Botón  Tapa Transparente Que  Libre de BPA.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DF972NZ/?tag=tolees-21'
 descuento: '50.35'
 average: '16.939999999999998'

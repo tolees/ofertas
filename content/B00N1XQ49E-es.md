@@ -16,6 +16,7 @@ comparePrice: 24.9 EUR
 prodname: 'ASUS Strix Glide Control - Alfombrilla Gaming  Acabado precisión   Color Negro y Naranja'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00N1XQ49E/?tag=tolees-21'
 descuento: '28.11'
 average: '17.9'

@@ -16,6 +16,7 @@ comparePrice: 6.77 EUR
 prodname: 'Encantadores niños no tóxicos Niños Crayon Oil Pastel Drawing Set Office School Safe Wax Crayon Pen Papelería Regalo del estudiante/Multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083SDL1YS/?tag=tolees-21'
 descuento: '29.54'
 average: '4.77'

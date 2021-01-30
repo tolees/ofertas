@@ -16,6 +16,7 @@ comparePrice: 18.04 EUR
 prodname: 'Manguera de jardín manguera Flexi sailun® Flexible  incluye Multi Función Ducha con 7 funciones  dehn Bar Agua Manguera para ropa de Auto lavado Jardín trabajo de riego'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07234VBWJ/?tag=tolees-21'
 descuento: '30.16'
 average: '13.723333333333333'

@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Calcetines de Compresión 1 par  Rosa  EU 35-38 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IEX2FJ8/?tag=tolees-21'
 descuento: '62.58'
 average: '14.95'

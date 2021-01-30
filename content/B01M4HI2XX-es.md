@@ -16,6 +16,7 @@ comparePrice: 24.9 EUR
 prodname: 'Lord Mariquita - S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M4HI2XX/?tag=tolees-21'
 descuento: '51.57'
 average: '12.06'

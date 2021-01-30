@@ -16,6 +16,7 @@ comparePrice: 40.28 EUR
 prodname: 'S.Oliver Reloj Analógico de Cuarzo Unisex con Correa de Silicona – SO-2291-PQ'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005FPUEW4/?tag=tolees-21'
 descuento: '46.38'
 average: '21.740000000000002'

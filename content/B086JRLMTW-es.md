@@ -16,6 +16,7 @@ comparePrice: 35.49 EUR
 prodname: '50 piezas de almohadillas antipolvo  almohadillas desechables con elástico/en stock  entrega rápida en 10 días hábiles'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086JRLMTW/?tag=tolees-21'
 descuento: '63.37'
 average: '13.0'

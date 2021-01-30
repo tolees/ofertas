@@ -16,6 +16,7 @@ comparePrice: 449.95 EUR
 prodname: 'Cybex - Silla de coche grupo 0+/1 Sirona M2 i-size  desde el nacimiento hasta los 4 años  de 45 cm hasta 105 cm aproximadamente  19 kg máximo  con base M  Azul  Indigo Blue '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GLLDPLR/?tag=tolees-21'
 descuento: '39.89'
 average: '313.15000000000003'

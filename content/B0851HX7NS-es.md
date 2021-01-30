@@ -16,6 +16,7 @@ comparePrice: 22.0 EUR
 prodname: 'Atashi Fresh & Pure - Bruma Oxigenante Matificante | Refresca  Hidrata  Calma y Equilibra la piel | Rápida absorción | 60ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0851HX7NS/?tag=tolees-21'
 descuento: '32.00'
 average: '14.96'

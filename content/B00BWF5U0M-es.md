@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Sabrent Concentrador de USB 2.0 con 4 salidas  interuptores de potencia individuales y LED  HB-UMLS '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BWF5U0M/?tag=tolees-21'
 descuento: '30.03'
 average: '7.847142857142857'

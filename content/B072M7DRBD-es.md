@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Miniland Humitouch Pure - Humidificador Ultrasónico Programable  con Ozonizador y Aromaterapia  más de 50 Horas de Autonomía  capacidad 5L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072M7DRBD/?tag=tolees-21'
 descuento: '28.87'
 average: '71.06'

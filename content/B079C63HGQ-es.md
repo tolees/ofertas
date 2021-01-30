@@ -16,6 +16,7 @@ comparePrice: 8.0 EUR
 prodname: 'SALOMON Festival 2-Pack 2 Pares de Calcetines Cortos  Unisex Adulto  Blanco/Negro  M  39-41 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079C63HGQ/?tag=tolees-21'
 descuento: '40.00'
 average: '4.8'

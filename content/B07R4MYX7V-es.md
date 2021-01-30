@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'AL OFA Vibrador Rabbit G-punto Clitoris Vibrante Estimulador 10 Modos USB Recargable Impermeable Juguetes Sexuales  Morado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R4MYX7V/?tag=tolees-21'
 descuento: '57.17'
 average: '26.4825'

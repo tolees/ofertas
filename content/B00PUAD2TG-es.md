@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Belkin Boosy Up - Cargador para Coche Universal con Cable Lightning Integrado para iPhone  Compatible con iPhone 11  11 Pro/Pro Max  XS  XS Max  XR  X  8  8 Plus '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00PUAD2TG/?tag=tolees-21'
 descuento: '60.02'
 average: '15.26533333333333'

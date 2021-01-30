@@ -16,6 +16,7 @@ comparePrice: 51.99 EUR
 prodname: 'Vbiger Mochilas Escolares Impermeable para Estudiante  Rosa1 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X3DKBCH/?tag=tolees-21'
 descuento: '55.80'
 average: '23.98'

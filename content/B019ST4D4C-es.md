@@ -16,6 +16,7 @@ comparePrice: 5.32 EUR
 prodname: 'iggual Cable alimentación Interna PCI Express - Cables de alimentación Interna  0 15 m  PCI-E  6-Pin   2 x Molex  3-Pin   Male Connector/Female Connector  Derecho  Derecho '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B019ST4D4C/?tag=tolees-21'
 descuento: '34.21'
 average: '3.5'

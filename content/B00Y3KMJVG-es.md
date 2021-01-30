@@ -16,6 +16,7 @@ comparePrice: 3.5 EUR
 prodname: 'Beter Minnie Eyeliner Azul Océano'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00Y3KMJVG/?tag=tolees-21'
 descuento: '79.71'
 average: '0.71'

@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'RÖSLE 12844 - Soplete flambeador'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003AK3XA6/?tag=tolees-21'
 descuento: '31.14'
 average: '34.36'

@@ -16,6 +16,7 @@ comparePrice: 40.99 EUR
 prodname: 'Silence'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NSG374Z/?tag=tolees-21'
 descuento: '51.23'
 average: '27.954'

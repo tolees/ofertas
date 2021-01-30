@@ -16,6 +16,7 @@ comparePrice: 38.39 EUR
 prodname: 'Salomon Trailster W  Zapatillas de Trail Running para Mujer  Azul  Nile Blue/Bluestone/Acid Lime   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KQD2JS4/?tag=tolees-21'
 descuento: '27.69'
 average: '30.080000000000002'

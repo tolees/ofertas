@@ -16,6 +16,7 @@ comparePrice: 29.48 EUR
 prodname: 'Flipping Death - Edición Estándar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079YYW8KD/?tag=tolees-21'
 descuento: '39.65'
 average: '20.8675'

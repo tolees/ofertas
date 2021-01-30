@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Oddworld: Stranger s Wrath HD'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0847WWP3T/?tag=tolees-21'
 descuento: '29.18'
 average: '23.115'

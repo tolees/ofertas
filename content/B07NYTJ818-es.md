@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Skechers Go Run 600  Zapatillas para Hombre  Blue Textile/Navy Trim Blnv  43.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NYTJ818/?tag=tolees-21'
 descuento: '57.18'
 average: '31.744999999999997'

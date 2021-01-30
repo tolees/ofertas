@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Cressi Rantau Bag Bolsa para Piscina/Deporte  Adultos Unisex  Azul  55 x 30 x 30'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QPHTFVP/?tag=tolees-21'
 descuento: '64.21'
 average: '28.59'

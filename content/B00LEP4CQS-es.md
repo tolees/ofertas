@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Panasonic KX-TGB213 - Teléfono fijo inalámbrico Trío  LCD  identificador de llamadas  Intercomunicación  agenda de 50 números  tecla de navegación  alarma  reloj   Negro  TGB21 Trio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00LEP4CQS/?tag=tolees-21'
 descuento: '26.76'
 average: '41.95'

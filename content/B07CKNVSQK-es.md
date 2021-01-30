@@ -16,6 +16,7 @@ comparePrice: 18.69 EUR
 prodname: 'Miracle Baby Mantas de Muselina Suave 70% Bambú 30% Algodón Cobijas para Bebe Baño De Envolver Para Recién Nacido 120 x 120 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CKNVSQK/?tag=tolees-21'
 descuento: '41.79'
 average: '10.88'

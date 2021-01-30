@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Carcasa con certificación militar para Apple iPhone'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0757VXH7V/?tag=tolees-21'
 descuento: '32.54'
 average: '20.23'

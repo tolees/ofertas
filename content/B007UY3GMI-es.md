@@ -16,6 +16,7 @@ comparePrice: 55.36 EUR
 prodname: 'Just Watches 48-S3455-Bk-BK - Reloj analógico de Cuarzo para Hombre  Correa de Acero Inoxidable Color Plateado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007UY3GMI/?tag=tolees-21'
 descuento: '25.61'
 average: '40.77615384615384'

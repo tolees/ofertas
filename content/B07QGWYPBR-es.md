@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'Funko Pop Figura De Vinil Harry Potter-Cedric Diggory  Yule  Coleccionable  Multicolor  Estándar  43668 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QGWYPBR/?tag=tolees-21'
 descuento: '66.82'
 average: '8.307500000000001'

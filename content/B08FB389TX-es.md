@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Weideworld [3 Pack] Funda para Xiaomi Redmi 9A  Patrón Flexible Ultra Slim TPU Silicona Back Carcasa Funda para Xiaomi Redmi 9A  Amor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08FB389TX/?tag=tolees-21'
 descuento: '42.03'
 average: '8.69'

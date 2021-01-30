@@ -16,6 +16,7 @@ comparePrice: 162.02 EUR
 prodname: 'K&N RC-0982 filtro cromado universal Coche y Moto'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000E7FNXS/?tag=tolees-21'
 descuento: '49.49'
 average: '81.84'

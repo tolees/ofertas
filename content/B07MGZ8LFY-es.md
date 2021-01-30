@@ -16,6 +16,7 @@ comparePrice: 109.0 EUR
 prodname: 'Lotus Reloj Cronógrafo para Hombre de Cuarzo con Correa en Acero Inoxidable 18629/4'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MGZ8LFY/?tag=tolees-21'
 descuento: '26.99'
 average: '79.58'

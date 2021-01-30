@@ -16,6 +16,7 @@ comparePrice: 260.0 EUR
 prodname: 'Samsonite Aeris Spinner L Maleta  75 cm  87.5 L  Azul  Vivid Blue '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007X2QCNC/?tag=tolees-21'
 descuento: '29.11'
 average: '184.32'

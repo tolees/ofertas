@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'Versión 2019 Dynavap Vapcap M Vaporizador'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PZDL5ZD/?tag=tolees-21'
 descuento: '43.88'
 average: '49.95'

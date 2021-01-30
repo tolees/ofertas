@@ -16,6 +16,7 @@ comparePrice: 139.95 EUR
 prodname: 'Saucony Ride ISO 2  Zapatillas de Running para Hombre  Verde  Verde 37   42.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M9BV5PL/?tag=tolees-21'
 descuento: '50.73'
 average: '67.69999999999999'

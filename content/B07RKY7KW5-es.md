@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Salomon Sense Feel  Zapatillas de Trail Running para Hombre  Morado  Flint Stone/Pearl Blue/Black   49 1/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RKY7KW5/?tag=tolees-21'
 descuento: '41.59'
 average: '52.56'

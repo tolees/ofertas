@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Digital Mini Timer Loud Alarm Clock Self Standing Magnetic Kitchen Timer Countdown para Uso en la Cocina del Hogar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QJYQNHK/?tag=tolees-21'
 descuento: '28.44'
 average: '9.576666666666666'

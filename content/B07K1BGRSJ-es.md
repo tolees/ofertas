@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: '50 Pruebas De Ovulación 20 Miu/Ml  Tiras De Prueba De Ovulación  Tests de Ovulación 50  Lh  Sensible y Preciso Resultados'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K1BGRSJ/?tag=tolees-21'
 descuento: '36.83'
 average: '14.39'

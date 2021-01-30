@@ -16,6 +16,7 @@ comparePrice: 37.0 EUR
 prodname: 'KiplingMoney PowerMujerMonederosNegro  True Black  9.5x12.5x3 Centimeters  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MB465CZ/?tag=tolees-21'
 descuento: '62.81'
 average: '13.76'

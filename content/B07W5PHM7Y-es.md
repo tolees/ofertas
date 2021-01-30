@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Jack & Jones Jcomilla Sweat Hood Capucha  Multicolor  Sky Captain Detail: W. New Lgm   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W5PHM7Y/?tag=tolees-21'
 descuento: '37.61'
 average: '22.22'

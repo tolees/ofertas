@@ -16,6 +16,7 @@ comparePrice: 84.97 EUR
 prodname: 'DROP SHOT Paletero Dunkan  Adultos Unisex'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BKQRJ68/?tag=tolees-21'
 descuento: '28.85'
 average: '57.53'

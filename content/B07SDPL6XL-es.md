@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'adidas Own The Run Tgt Mallas  Hombre  Negro/Negro  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SDPL6XL/?tag=tolees-21'
 descuento: '27.11'
 average: '29.15'

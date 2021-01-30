@@ -16,6 +16,7 @@ comparePrice: 249.0 EUR
 prodname: 'Gigandet Reloj de Hombre Automático Sea Ground Reloj de Buceo Analógico Cuero Marrón G2-019'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KIWRQMK/?tag=tolees-21'
 descuento: '28.11'
 average: '179.0'

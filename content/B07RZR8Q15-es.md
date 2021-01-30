@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Batidora de Vaso  AICOOK Batidora 3 en 1 con Molinillo y Picadora de Carne  Batidora Smoothie para Batidos y Alimentos para Bebés  Base de Acero Inoxidable  6 Cuchillas de Titanio  1.5 L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RZR8Q15/?tag=tolees-21'
 descuento: '42.51'
 average: '45.49'

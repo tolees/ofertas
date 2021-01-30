@@ -16,6 +16,7 @@ comparePrice: 110 EUR
 prodname: 'New Balance Minimus 40  Zapatillas de Cross para Mujer  Turquesa  Ocean Air/Mineral Sage/Gum Rubber Ss1   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075R7CFLK/?tag=tolees-21'
 descuento: '66.48'
 average: '48.65'

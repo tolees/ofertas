@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'MEGOO Surface Laptop 3/2/1 Protector de Pantalla [Vidrio Templado]  fácil instalación Protector de Pantalla táctil amigable -13.5 Pulgadas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DGCHTYX/?tag=tolees-21'
 descuento: '40.91'
 average: '17.72'

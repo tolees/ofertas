@@ -16,6 +16,7 @@ comparePrice: 59.29 EUR
 prodname: 'Bosch Professional BT 150 - Trípode de construcción  55 – 157 cm  rosca 1/4"  en caja '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00OBBUBSU/?tag=tolees-21'
 descuento: '38.72'
 average: '39.752307692307696'

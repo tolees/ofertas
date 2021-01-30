@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Superdry Poolside Pique S/s Polo  Gris  Black/Grey Marl Nln   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TPW2QGY/?tag=tolees-21'
 descuento: '40.03'
 average: '29.98'

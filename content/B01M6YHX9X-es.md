@@ -16,6 +16,7 @@ comparePrice: 84.95 EUR
 prodname: 'Skechers Women s s Sure Track-TRICKEL Work Shoes  Black  Black Leather Blk   4 UK'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M6YHX9X/?tag=tolees-21'
 descuento: '25.62'
 average: '63.19'

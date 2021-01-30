@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Twozies - Pack Siempre Uni-Dos con 6 Babies y 6 Mascotas  Giochi Preziosi TW001000 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N1MNB2D/?tag=tolees-21'
 descuento: '59.41'
 average: '6.6433333333333335'

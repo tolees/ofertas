@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Terminator Resistance'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y3WG8GS/?tag=tolees-21'
 descuento: '66.74'
 average: '26.173999999999996'

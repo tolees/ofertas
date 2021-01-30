@@ -16,6 +16,7 @@ comparePrice: 8.03 EUR
 prodname: 'Yazilind deslumbrante plata Plated princesa cortada Gancho Pendientes cúbicos púrpuras Circonita perfecto cuelga'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00K8SJNP2/?tag=tolees-21'
 descuento: '65.01'
 average: '2.81'

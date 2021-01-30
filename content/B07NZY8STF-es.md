@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Skechers Ultra Flex 2.0-Kelmer  Zapatillas para Hombre  Verde  Olive Engineered Mesh/Synthetic/Trim Old   45.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NZY8STF/?tag=tolees-21'
 descuento: '48.90'
 average: '33.43'

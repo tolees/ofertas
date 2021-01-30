@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'Hawaiian Tropic Island Sport SPF 15 - Bruma Solar Deportiva en Spray de Vaporización Continua de Protección Media  Textura Ultraligera para el Deporte  220 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DNCK544/?tag=tolees-21'
 descuento: '62.31'
 average: '3.75'

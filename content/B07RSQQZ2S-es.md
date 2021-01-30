@@ -16,6 +16,7 @@ comparePrice: 34.8 EUR
 prodname: 'LTDNB Cargador Inalámbrico Rápido Qi Wireless Charger por Inducción Compatible con iPhone X /8 Plus/iPhone XS/XS MAX/XR  Samsung S10 /S10e /Note9 /S9 / S8 Plus /S8-Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RSQQZ2S/?tag=tolees-21'
 descuento: '56.93'
 average: '14.99'

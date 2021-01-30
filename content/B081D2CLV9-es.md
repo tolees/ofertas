@@ -16,6 +16,7 @@ comparePrice: 7.18 EUR
 prodname: 'Baoblaze Cubo Plegable Plástico Portátil Cepillo Plegable Limpiador para Ajustar La Gouache del Cepillo Pincel Lavadora'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081D2CLV9/?tag=tolees-21'
 descuento: '44.43'
 average: '3.99'

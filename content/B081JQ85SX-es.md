@@ -16,6 +16,7 @@ comparePrice: 3.31 EUR
 prodname: 'Justdodo Neopreno DSLR Lente de la cámara Protector Suave Bolsa Bolsa Funda Acolchada Impermeable para Canon para Nikon para Sony - Negro y Rojo 2XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081JQ85SX/?tag=tolees-21'
 descuento: '29.91'
 average: '2.32'

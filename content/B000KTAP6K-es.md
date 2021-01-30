@@ -16,6 +16,7 @@ comparePrice: 6.86 EUR
 prodname: 'Edding 212342 - Marcador con punta cónica  color azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000KTAP6K/?tag=tolees-21'
 descuento: '57.73'
 average: '2.9'

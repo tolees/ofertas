@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Tapa de WC  HIMIMI Asiento de inodoro familiar  asiento de inodoro con asiento magnético para niños  freno de caída y bisagra ajustable  tapa wc de polietileno para adultos y niños  447 x 371 x 55 mm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X4FRBHD/?tag=tolees-21'
 descuento: '38.01'
 average: '30.99'

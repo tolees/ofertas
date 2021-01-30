@@ -16,6 +16,7 @@ comparePrice: 129.95 EUR
 prodname: 'adidas Countryxkamanda  Zapatillas de Gimnasia para Hombre  Blanco  FTWR White/FTWR White/Gum 3 FTWR White/FTWR White/Gum 3   45 1/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07STLHKZL/?tag=tolees-21'
 descuento: '51.17'
 average: '63.46'

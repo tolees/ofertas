@@ -16,6 +16,7 @@ comparePrice: 182.07 EUR
 prodname: 'LG SPK8 140W Negro Altavoz - Altavoces  2.0 Canales  Inalámbrico  140 W  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DQ1MKTF/?tag=tolees-21'
 descuento: '45.63'
 average: '115.1'

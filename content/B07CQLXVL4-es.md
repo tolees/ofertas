@@ -16,6 +16,7 @@ comparePrice: 59.16 EUR
 prodname: 'KingNew Anillo de terciopelo para boda  colgante de joyería  caja de regalo  color rojo oscuro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CQLXVL4/?tag=tolees-21'
 descuento: '96.67'
 average: '1.97'

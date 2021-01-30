@@ -16,6 +16,7 @@ comparePrice: 139.95 EUR
 prodname: 'G-STAR RAW Lanc 3D Tapered Jeans  Azul  lt Aged Heavy Stone 9438-9399   32W / 32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B4LLD6V/?tag=tolees-21'
 descuento: '81.78'
 average: '26.03'

@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Bugatti 311450074141  Zapatillas para Hombre  Marrón  Mid-Brown/Blue 6440   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VW8LQMC/?tag=tolees-21'
 descuento: '67.62'
 average: '29.13'

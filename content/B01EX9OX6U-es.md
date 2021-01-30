@@ -16,6 +16,7 @@ comparePrice: 15.75 EUR
 prodname: 'LEDKIA LIGHTING Placa LED Circular SuperSlim 18W Silver Blanco Frío 6000K - 6500K'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01EX9OX6U/?tag=tolees-21'
 descuento: '36.57'
 average: '9.99'

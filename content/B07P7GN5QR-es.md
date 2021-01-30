@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Willsence Tostadoras Pan 2 Rebanadas con Pantalla LCD y 9 Niveles de Tostado  Tostadora de Acero Inoxidable con Ranuras Extra Anchas  Función Descongelación y Recalentar  920W'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P7GN5QR/?tag=tolees-21'
 descuento: '33.34'
 average: '24.704285714285714'

@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Columbia Klamath Range II Forro Polar con Media Cremallera  Hombre  Gris  Negro  Nimbus Grey  Shark   XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087RCM2VJ/?tag=tolees-21'
 descuento: '33.34'
 average: '19.99'

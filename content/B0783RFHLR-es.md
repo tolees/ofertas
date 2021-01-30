@@ -16,6 +16,7 @@ comparePrice: 44.95 EUR
 prodname: 'PUMA Ignite Flash Evoknit  Zapatillas para Correr de Carretera para Hombre  Schwarz Black Asphalt White  45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0783RFHLR/?tag=tolees-21'
 descuento: '29.99'
 average: '31.47'

@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Clarks Tilden Free  Mocasines para Hombre  Marrón  Dark Tan Leather   45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0777LDMMK/?tag=tolees-21'
 descuento: '61.56'
 average: '32.45'

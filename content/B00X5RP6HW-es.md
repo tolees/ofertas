@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Disney Frozen - Cuerda de Saltar  Smoby 27244 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00X5RP6HW/?tag=tolees-21'
 descuento: '40.38'
 average: '15.0565'

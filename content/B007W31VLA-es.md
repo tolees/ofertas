@@ -16,6 +16,7 @@ comparePrice: 79.0 EUR
 prodname: 'Lotus Reloj Analógico para Niñas de Cuarzo con Correa en Acero Inoxidable 15771/1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007W31VLA/?tag=tolees-21'
 descuento: '44.73'
 average: '43.66'

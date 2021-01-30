@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'BEN 10 -  Alien Creation Chamber Laboratorio Crea Aliens con 4 Figuras  Giochi Preziosi BEN25000 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CL5HJHL/?tag=tolees-21'
 descuento: '69.99'
 average: '20.729'

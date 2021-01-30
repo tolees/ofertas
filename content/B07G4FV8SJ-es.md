@@ -16,6 +16,7 @@ comparePrice: 349 EUR
 prodname: 'Hugo Boss Reloj Multiesfera para Hombre de Cuarzo con Correa en Acero Inoxidable 1513636'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G4FV8SJ/?tag=tolees-21'
 descuento: '48.77'
 average: '238.905'

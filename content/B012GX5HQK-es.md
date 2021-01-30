@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'iMixCity Conjuntos de Lencería Mujer Encaje Atractivo Pasión Babydoll Ropa de Dormir  Rojo  M '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B012GX5HQK/?tag=tolees-21'
 descuento: '40.95'
 average: '7.08'

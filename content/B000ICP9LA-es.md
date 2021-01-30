@@ -16,6 +16,7 @@ comparePrice: 11.0 EUR
 prodname: 'Emsa Superline Jarra medidora  Transparente  0 5 L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000ICP9LA/?tag=tolees-21'
 descuento: '43.18'
 average: '6.25'

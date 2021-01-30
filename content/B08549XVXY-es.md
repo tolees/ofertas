@@ -16,6 +16,7 @@ comparePrice: 14.38 EUR
 prodname: 'Baoblaze 20 Piezas/Set Ganchos De Encaje De Bota Chapados En Metal Hebillas con Remaches para Reparación/Campamento/Caminata/Escalada Accesorios Oro An'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08549XVXY/?tag=tolees-21'
 descuento: '44.44'
 average: '7.99'

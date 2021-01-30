@@ -16,6 +16,7 @@ comparePrice: 8.95 EUR
 prodname: 'Max Factor Colour Elixir Lip Liner  10 Red Poppy 40 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LCZD4VF/?tag=tolees-21'
 descuento: '34.64'
 average: '5.85'

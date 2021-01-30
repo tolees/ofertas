@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Chiruca-MANAOS 08 GORE-TEX'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LZ4IMRC/?tag=tolees-21'
 descuento: '40.02'
 average: '59.95'

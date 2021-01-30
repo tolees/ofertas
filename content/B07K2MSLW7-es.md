@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Auriculares urBeats3 con conector Lightning - Amarillo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K2MSLW7/?tag=tolees-21'
 descuento: '35.35'
 average: '56.239999999999995'

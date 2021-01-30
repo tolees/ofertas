@@ -16,6 +16,7 @@ comparePrice: 31.62 EUR
 prodname: 'Funda impermeable de Kayond  para ordenador portátil de 11 a 17 pulgadas Blue stripes 14-14.1 inch'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077WR69NZ/?tag=tolees-21'
 descuento: '41.52'
 average: '18.49'

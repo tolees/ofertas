@@ -16,6 +16,7 @@ comparePrice: 9.81 EUR
 prodname: 'Funko Pop! - Vinyl: Game of Thrones: Drogon  3873 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00GXO47JM/?tag=tolees-21'
 descuento: '25.99'
 average: '8.129999999999999'

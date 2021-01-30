@@ -16,6 +16,7 @@ comparePrice: 32.5 EUR
 prodname: 'Bandolera Grande Pepe Jeans Lambert Burdeos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VGHT1BY/?tag=tolees-21'
 descuento: '38.49'
 average: '19.49'

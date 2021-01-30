@@ -16,6 +16,7 @@ comparePrice: 6.75 EUR
 prodname: 'Bourjois Contour Edition Perfilador de Labios Tono 03 Alerte rose - 4 gr.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00O32UMK4/?tag=tolees-21'
 descuento: '46.67'
 average: '4.54'

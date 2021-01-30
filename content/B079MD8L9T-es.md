@@ -16,6 +16,7 @@ comparePrice: 19.32 EUR
 prodname: 'Metaltex  Copper- Carro multiuso con ruedas  Dorado  3 Cestos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079MD8L9T/?tag=tolees-21'
 descuento: '27.54'
 average: '14.0'

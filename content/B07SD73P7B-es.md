@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Dodot Activity Pants Pañal-Braguita Talla 3  156 Pañales  6-11kg + Dodot Aqua Pure Toallitas para bebé  1 Pack de 48 Toallitas Gratis'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SD73P7B/?tag=tolees-21'
 descuento: '25.00'
 average: '43.65666666666666'

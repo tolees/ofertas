@@ -16,6 +16,7 @@ comparePrice: 9.9 EUR
 prodname: 'L Oreal Paris - Dermo Expertise  Exfoliante Facial Iluminador Azúcares Suaves - 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B4R9PB2/?tag=tolees-21'
 descuento: '32.32'
 average: '6.7'

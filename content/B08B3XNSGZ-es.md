@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'Cia&Co 12 Mascarillas Higiénicas Negras The Pink House + 1 Gel de Manos Higienizante HidroAlcoholico de Babaria 300 ml para Llevar. Máscaras no quirúrgicas  Desechable de 3 Capas de protección'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08B3XNSGZ/?tag=tolees-21'
 descuento: '25.06'
 average: '14.95'

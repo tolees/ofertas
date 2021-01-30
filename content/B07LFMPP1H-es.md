@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'Levi s Graphic Sport Capucha  Azul  Sptwr Hoodie Baltic Sea 0082   XS para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFMPP1H/?tag=tolees-21'
 descuento: '50.07'
 average: '34.95'

@@ -16,6 +16,7 @@ comparePrice: 10.5 EUR
 prodname: 'DOHUI Funda LG Q61  2 en 1 Robusta Carcasa Híbrida TPU + PC de Doble Capa Anti-arañazos Caso con Soporte para LG Q61  Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089NYRDDP/?tag=tolees-21'
 descuento: '57.14'
 average: '4.5'

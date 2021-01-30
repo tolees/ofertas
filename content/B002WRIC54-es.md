@@ -16,6 +16,7 @@ comparePrice: 11.68 EUR
 prodname: 'Bosch 2 609 255 127 - Juego de 5 brocas para metal HSS-G con vástago de inserción hexagonal'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002WRIC54/?tag=tolees-21'
 descuento: '34.59'
 average: '7.64'

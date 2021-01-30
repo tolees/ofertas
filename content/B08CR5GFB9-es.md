@@ -16,6 +16,7 @@ comparePrice: 19.78 EUR
 prodname: 'ZZZXX Pintar por Numeros Niños Mujer Sexy Pinceles Y Pinturas para Niños Seniors Junior Principiante Acrílicos Kits De Pintura sobre Lienzo Decoración 16*20 Pulgada Sin Marco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CR5GFB9/?tag=tolees-21'
 descuento: '34.33'
 average: '12.99'

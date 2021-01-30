@@ -16,6 +16,7 @@ comparePrice: 31.23 EUR
 prodname: 'DoMyfit Organizador de Asiento de Coche para bebé  Accesorios de Remolque  Asiento de Niños  Bolsa de Almacenamiento para Colgar  Dinosaur '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DWX1H77/?tag=tolees-21'
 descuento: '58.41'
 average: '12.99'

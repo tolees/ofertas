@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'ORICO Tarjeta de expansión PCI-E de 4 puertos USB 3.0 Superspeed 5Gbps para PC de Windows - NO hay necesidad de conector de alimentación SATA / Molex'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NMNOB5M/?tag=tolees-21'
 descuento: '50.26'
 average: '19.89'

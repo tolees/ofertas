@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'G-Star Raw Dunda Slim Polo S\\s  sartho blue 6067  Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KFJTDNX/?tag=tolees-21'
 descuento: '33.95'
 average: '30.72'

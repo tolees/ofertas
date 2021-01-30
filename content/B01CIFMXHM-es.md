@@ -16,6 +16,7 @@ comparePrice: 31.24 EUR
 prodname: 'Tefal Expertise - Sartén de aluminio de 21 cm  antiadherente con extra de titanio  aptas para todo tipo de cocinas incluido inducción'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CIFMXHM/?tag=tolees-21'
 descuento: '28.81'
 average: '22.24'

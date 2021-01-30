@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Puma Vikky Platform VT  Zapatillas para Mujer  Negro Black White  40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CZ3PJBP/?tag=tolees-21'
 descuento: '64.27'
 average: '24.99'

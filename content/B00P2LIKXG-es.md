@@ -16,6 +16,7 @@ comparePrice: 159.0 EUR
 prodname: 'Gigandet G38-005 - Reloj para Mujeres  Correa de Acero Inoxidable Color Plateado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00P2LIKXG/?tag=tolees-21'
 descuento: '49.75'
 average: '79.9'

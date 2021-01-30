@@ -16,6 +16,7 @@ comparePrice: 9.9 EUR
 prodname: 'L´Oreal París Dermo Expertise - Set de Regalo  Incluye Neceser + Crema de Día Anti-Arrugas Revitalift SPF 30  327 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QFVBT4Q/?tag=tolees-21'
 descuento: '27.27'
 average: '7.612500000000001'

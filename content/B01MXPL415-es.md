@@ -16,6 +16,7 @@ comparePrice: 128.99 EUR
 prodname: 'Asics Gel-Lyte V  Zapatillas de Entrenamiento Unisex Adulto  Negro  Black/Black   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MXPL415/?tag=tolees-21'
 descuento: '75.75'
 average: '31.28'

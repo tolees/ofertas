@@ -16,6 +16,7 @@ comparePrice: 10.95 EUR
 prodname: 'Revlon ColorStay Overtime Pintalabios Larga Duración  #005 Infinite Raspberry '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001P2PPBQ/?tag=tolees-21'
 descuento: '27.03'
 average: '7.99'

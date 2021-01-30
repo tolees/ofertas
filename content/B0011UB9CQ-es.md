@@ -16,6 +16,7 @@ comparePrice: 159.0 EUR
 prodname: 'Beyerdynamic DT 990 PRO - Auriculares de Estudio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0011UB9CQ/?tag=tolees-21'
 descuento: '25.79'
 average: '116.875'

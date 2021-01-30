@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Escomdp i Flash Drives USB 3.0 Pendrive 3 en 1 OTG Memory Stick Expansión de Almacenamiento Externo para Andriod  Todos los teléfonos celulares y Computadoras Inteligentes  64 GB  Oro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C1WPYVJ/?tag=tolees-21'
 descuento: '61.03'
 average: '22.99'

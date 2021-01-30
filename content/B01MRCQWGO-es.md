@@ -16,6 +16,7 @@ comparePrice: 449.0 EUR
 prodname: 'Samsung C27H711 27" Wide Quad HD VA Monitor para PC -  300 cd/m²  2560 x 1440 Pixeles  4 ms  LED  Wide Quad HD   Color blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MRCQWGO/?tag=tolees-21'
 descuento: '38.55'
 average: '275.89'

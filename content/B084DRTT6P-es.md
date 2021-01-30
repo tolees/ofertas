@@ -16,6 +16,7 @@ comparePrice: 4.9 EUR
 prodname: 'Lékué 8420460013921 Molde Pretzel helado  Silicona  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084DRTT6P/?tag=tolees-21'
 descuento: '31.43'
 average: '3.36'

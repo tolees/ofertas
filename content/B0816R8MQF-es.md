@@ -16,6 +16,7 @@ comparePrice: 17.45 EUR
 prodname: 'CERDÁ LIFE S LITTLE MOMENTS 2200005545 Conjunto Polaina y Body para Recién Nacido de Mickey - Mouse - Licencia Oficial Disney Studios  Azul  Blanco  1 a 3 meses para Bebés'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0816R8MQF/?tag=tolees-21'
 descuento: '32.84'
 average: '11.72'

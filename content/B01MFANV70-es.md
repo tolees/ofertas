@@ -16,6 +16,7 @@ comparePrice: 139.9 EUR
 prodname: 'Babymoov A012374  Doomoo Nid New Generation - Hamaca  diseño Natural  60 x 50 x 42 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MFANV70/?tag=tolees-21'
 descuento: '27.09'
 average: '111.0'

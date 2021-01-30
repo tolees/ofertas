@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'JACK & JONES Jfworca Leather  Botas Clasicas para Hombre  Marrón  Brown Stone   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072DWD9MZ/?tag=tolees-21'
 descuento: '39.94'
 average: '65.05555555555556'

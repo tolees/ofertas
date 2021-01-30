@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Puma RS-150 Satin Wn s  Zapatillas para Mujer  Rosa  Peach Bud-Peach Bud   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DC2LLC6/?tag=tolees-21'
 descuento: '73.88'
 average: '26.11'

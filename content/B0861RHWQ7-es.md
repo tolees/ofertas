@@ -16,6 +16,7 @@ comparePrice: 38.26 EUR
 prodname: 'GEREE Cámara de seguridad interior 1080P Pan/Inclinación/Zoom Cámara Wifi Monitor Bebé con Almacenamiento en la nube  Detección de movimiento  audio bidireccional  visión nocturna IR'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0861RHWQ7/?tag=tolees-21'
 descuento: '36.12'
 average: '24.44'

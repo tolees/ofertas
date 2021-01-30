@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Lacoste Reloj de Pulsera 2001065'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KTQFK7J/?tag=tolees-21'
 descuento: '30.00'
 average: '69.3'

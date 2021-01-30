@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Lámpara de trabajo de inspección con 3 modos de iluminación  linterna para camping  mantenimiento de emergencia  luz para el hogar  garaje  taller'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GDKQTZG/?tag=tolees-21'
 descuento: '50.03'
 average: '7.99'

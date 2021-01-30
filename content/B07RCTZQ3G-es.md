@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Tosbess 12 Piezas Minifiguras y Arma  Policía Y Gangsters Mini Figuras Bloque de construcción para Niño Adulto'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RCTZQ3G/?tag=tolees-21'
 descuento: '45.85'
 average: '12.99'

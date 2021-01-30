@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'MASOMRUN Adaptador de Lector de Tarjeta SD Kit Conexión de Cámara USB 4 en 1 Adaptador de Lector Tarjeta TF Lector Tarjeta SD de Cámara Trail Game Cable USB 2.0 OTG Hembra para Phone y Pad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081DPPWLH/?tag=tolees-21'
 descuento: '43.96'
 average: '10.596666666666668'

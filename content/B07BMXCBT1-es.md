@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: '[12-Unidades]Bolsas al Vacío para Ropa Mantas 50x70cm 3 ud /40x60cm 3 ud /35x50cm 3 ud  Reutilizable Sin Necesidad de Bomba Transparente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BMXCBT1/?tag=tolees-21'
 descuento: '25.02'
 average: '11.99'

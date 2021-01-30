@@ -16,6 +16,7 @@ comparePrice: 10.5 EUR
 prodname: 'Mate Top Coat Gel Sensationail 7 39 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B016KOGWNS/?tag=tolees-21'
 descuento: '40.00'
 average: '6.3'

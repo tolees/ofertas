@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Marvel- Figura de Vinilo Hela  Multicolor  Funko 13768 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072Z2ZVZG/?tag=tolees-21'
 descuento: '31.10'
 average: '12.15'

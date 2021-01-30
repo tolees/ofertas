@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'adidas Caflaire Zapatillas Hombre  Negro  Core Black/Core Black/Ftwr White   41 1/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D9RW9HD/?tag=tolees-21'
 descuento: '45.67'
 average: '35.29'

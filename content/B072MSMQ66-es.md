@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Nike SB Delta Force Vulc  Zapatillas de Skateboard para Hombre  Multicolor  Black/White/Anthracite/White 010   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072MSMQ66/?tag=tolees-21'
 descuento: '40.05'
 average: '32.97'

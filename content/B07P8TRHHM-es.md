@@ -16,6 +16,7 @@ comparePrice: 46.95 EUR
 prodname: 'Charles Wilson Vaquero Corto Elástico Cómodo para Hombre  Bleach  28" '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P8TRHHM/?tag=tolees-21'
 descuento: '68.16'
 average: '14.95'

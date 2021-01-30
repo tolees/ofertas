@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Einhell GC-ET 4530 Set - Recortabordes eléctrico  450W  230V  corte de doble hilo  ancho de corte: 30cm   ref.3402022 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01AU4C6RA/?tag=tolees-21'
 descuento: '52.18'
 average: '30.810000000000002'

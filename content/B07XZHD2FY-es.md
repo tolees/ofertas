@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Bamibi® Almohada Cervical Ergonómica y Ortopédica con Espuma de Memoria de Alta Densidad  Almohada Ortopédica Cervical. Funda 100% Algodón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XZHD2FY/?tag=tolees-21'
 descuento: '28.01'
 average: '21.59'

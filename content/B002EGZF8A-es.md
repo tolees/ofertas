@@ -16,6 +16,7 @@ comparePrice: 37.9 EUR
 prodname: 'Escalerita  de Ikea  de madera  color beis  modelo Bekvam  referencia 601.788.87'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002EGZF8A/?tag=tolees-21'
 descuento: '26.25'
 average: '27.95'

@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'Mr. Wonderful WOA09056ES - Organizador semanal en formato libreta'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C7YWPDR/?tag=tolees-21'
 descuento: '30.10'
 average: '10.45'

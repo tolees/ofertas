@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Poligono Calcetines Cortos para Hombre y Mujer  Medias Deportivas de Algodón  Calcetines Tobilleros Transpirables  Gris  Paquete de 12  EU 35-40'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085LMPTVV/?tag=tolees-21'
 descuento: '31.27'
 average: '10.99'

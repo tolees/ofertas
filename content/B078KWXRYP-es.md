@@ -16,6 +16,7 @@ comparePrice: 49.49 EUR
 prodname: 'adidas Originals X_PLR  Zapatillas para Hombre  Negro  Core Black/Core Black/Gum 3 001   44 2/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078KWXRYP/?tag=tolees-21'
 descuento: '33.34'
 average: '32.99'

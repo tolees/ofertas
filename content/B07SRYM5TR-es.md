@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Amy & Benton Juego de Mini Dinosaurios  72 Piezas Dinosaurios de Juguete Dinosaurio Jurásico Mundo Dinosaurio del Mundo Zoológico para 3-6 Niños  Adornos para Pasteles  Favoritos para Fiesta'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SRYM5TR/?tag=tolees-21'
 descuento: '52.66'
 average: '8.99'

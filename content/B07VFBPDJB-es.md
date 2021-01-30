@@ -16,6 +16,7 @@ comparePrice: 139.95 EUR
 prodname: 'Lifeprint: Impresora portátil de Fotos y vídeos Lifeprint 2x3 para Dispositivos iOS y Android. Haz Que Tus Fotos cobren Vida con Realidad Aumentada - Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VFBPDJB/?tag=tolees-21'
 descuento: '35.70'
 average: '89.99'

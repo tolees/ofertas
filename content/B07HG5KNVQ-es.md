@@ -16,6 +16,7 @@ comparePrice: 90 EUR
 prodname: 'New Balance 997h  Zapatillas para Mujer  Blanco  Off White Off White   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HG5KNVQ/?tag=tolees-21'
 descuento: '40.00'
 average: '54'

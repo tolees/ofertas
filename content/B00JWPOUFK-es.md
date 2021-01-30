@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'Manguitos Hinchables Bestway Princesas Disney'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00JWPOUFK/?tag=tolees-21'
 descuento: '80.90'
 average: '1.9'

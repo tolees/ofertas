@@ -16,6 +16,7 @@ comparePrice: 139.0 EUR
 prodname: 'American Tourister Sunside Spinner 68 Expandible  3.7 kg  72.5/83.5 l  Negro  Black '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BDNXM21/?tag=tolees-21'
 descuento: '40.00'
 average: '83.4'

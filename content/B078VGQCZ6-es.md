@@ -16,6 +16,7 @@ comparePrice: 160.0 EUR
 prodname: 'Sony WISP600NW.CE7 - Auriculares deportivos inalámbricos  modo sonido ambiente  cancelación de ruido  Bluetooth y NFC   color blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078VGQCZ6/?tag=tolees-21'
 descuento: '55.43'
 average: '72.07374999999999'

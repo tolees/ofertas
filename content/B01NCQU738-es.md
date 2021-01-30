@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'TurnRaise Niños Pretend Play Alimentos Juguete Set - 75 PC Pastel de cumpleaños  Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NCQU738/?tag=tolees-21'
 descuento: '26.93'
 average: '18.99'

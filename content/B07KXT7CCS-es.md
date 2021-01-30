@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Sinis Hispania - Polen Natural de Abeja - Pack 2 unidades  460g  - Bote de vidrio - Cosechado a mano - Origen Unión Europea'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KXT7CCS/?tag=tolees-21'
 descuento: '38.91'
 average: '10.99'

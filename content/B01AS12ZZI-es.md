@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'The North Face Exploration  Pantalones Cortos para Mujer  Gris  Talla del Fabricante 2'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01AS12ZZI/?tag=tolees-21'
 descuento: '81.46'
 average: '19.65'

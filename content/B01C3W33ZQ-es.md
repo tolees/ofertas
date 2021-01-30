@@ -16,6 +16,7 @@ comparePrice: 6.82 EUR
 prodname: 'WIDMANN 04814 hinchable Rock Star Guitarra  unisex ? Adultos  color blanco/negro  talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01C3W33ZQ/?tag=tolees-21'
 descuento: '57.48'
 average: '2.9'

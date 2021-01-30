@@ -16,6 +16,7 @@ comparePrice: 4.5 EUR
 prodname: 'Rimmel London Lasting Finish by Kate Barra De Labios Tono 5 - 4 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BQPFK8A/?tag=tolees-21'
 descuento: '34.00'
 average: '2.97'

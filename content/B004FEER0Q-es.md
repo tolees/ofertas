@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Intex 28002 - Kit de mantenimiento con mango telescópico'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004FEER0Q/?tag=tolees-21'
 descuento: '31.69'
 average: '13.859999999999998'

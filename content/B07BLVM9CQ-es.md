@@ -16,6 +16,7 @@ comparePrice: 10.78 EUR
 prodname: '4 Unidades de Pinzas de Cama para Tablas de Planchar Fundas de Material Hierro - Negro 2'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BLVM9CQ/?tag=tolees-21'
 descuento: '44.43'
 average: '5.99'

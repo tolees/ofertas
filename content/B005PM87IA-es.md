@@ -16,6 +16,7 @@ comparePrice: 660.0 EUR
 prodname: 'GUESS X69004L2S - Reloj de pulsera'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005PM87IA/?tag=tolees-21'
 descuento: '55.72'
 average: '292.27'

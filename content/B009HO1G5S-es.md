@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Superga Classic  Zapatillas para Hombre  Gris  Mushroom C26   47 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B009HO1G5S/?tag=tolees-21'
 descuento: '34.56'
 average: '38.61'

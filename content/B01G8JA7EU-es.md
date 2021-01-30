@@ -16,6 +16,7 @@ comparePrice: 14.98 EUR
 prodname: 'Bañador para hombre de Gwell  con rayas  de secado rápido  para verano y playa azul L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01G8JA7EU/?tag=tolees-21'
 descuento: '49.13'
 average: '7.62'

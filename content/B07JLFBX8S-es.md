@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Lee Breese Pantalones para Mujer  Azul  Jaded Eu   30W / 35L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JLFBX8S/?tag=tolees-21'
 descuento: '72.92'
 average: '27.07'

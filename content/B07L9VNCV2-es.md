@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'Auriculares Inalámbricos Verdaderos  iHaper TWS Audífonos Wireless 5.0  12H Playtime  Auriculares Sonido HiFi Estéreo con IPX5 a Prueba de Agua con Estuche de Carga Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L9VNCV2/?tag=tolees-21'
 descuento: '50.01'
 average: '22.99'

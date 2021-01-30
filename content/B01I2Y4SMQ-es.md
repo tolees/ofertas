@@ -16,6 +16,7 @@ comparePrice: 2.75 EUR
 prodname: 'Taky Chocolate Bandas De Cera Corporales Depilatorias 12 + 8 Uds 1 Unidad 200 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01I2Y4SMQ/?tag=tolees-21'
 descuento: '45.82'
 average: '1.49'

@@ -16,6 +16,7 @@ comparePrice: 44.95 EUR
 prodname: 'Shock Absorber Ultimate Run Bra  Sujetador Deportivo para Mujer  Morado  Waterfall Purple   85B  70B EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077XVCQK4/?tag=tolees-21'
 descuento: '46.30'
 average: '24.14'

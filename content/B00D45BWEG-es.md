@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Mousehouse Gifts Caja Mediana con Juego de libreta y Objetos de Escritorio Decorada con Mariposa en Tonos Rosas y Azules'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00D45BWEG/?tag=tolees-21'
 descuento: '33.36'
 average: '9.99'

@@ -16,6 +16,7 @@ comparePrice: 10.44 EUR
 prodname: 'Panamar 360 Grados de rotación de 9.7/10.1 Pulgadas Tablet PC Computadora Funda de Cuero Funda Inteligente Durable Universal - Azul Profundo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CRPYW1L/?tag=tolees-21'
 descuento: '33.52'
 average: '6.94'

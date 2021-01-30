@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Columbia Backpedal Outdry  Zapatillas de Cross para Mujer  Negro  Shark  White 011   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DV4T92D/?tag=tolees-21'
 descuento: '62.67'
 average: '36.28333333333334'

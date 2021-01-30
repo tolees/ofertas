@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'NNJXD Pajarita infantil mameluco para el primer cumpleaños divertido del niño Talla 1  1 Años Patrón azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D5V1MYQ/?tag=tolees-21'
 descuento: '44.04'
 average: '13.99'

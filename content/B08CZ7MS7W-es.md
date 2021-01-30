@@ -16,6 +16,7 @@ comparePrice: 1.5 EUR
 prodname: 'Trampa de Red de Pesca portátil Cuenta Luminosa Cobre Spring Shoal Netting Fishnet Tackle Sin Necesidad de Gancho Pesca de Pescado Tool-Random'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CZ7MS7W/?tag=tolees-21'
 descuento: '33.33'
 average: '1.0'

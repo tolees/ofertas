@@ -16,6 +16,7 @@ comparePrice: 9.97 EUR
 prodname: 'Wurko 2498/237-03 Tubo Fluorescente  32 W  Blanco  30 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01ETAVBT0/?tag=tolees-21'
 descuento: '64.19'
 average: '3.57'

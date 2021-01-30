@@ -16,6 +16,7 @@ comparePrice: 62.99 EUR
 prodname: 'LTPAG Luz de Video LED  Luz de Panel de Cámara Regulable Ultra Brillante 176 LED Portátil para Canon  Nikon  Pentax  Panasonic  Sony  Samsung  Olympus y Todas Las Cámaras DSLR'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082V9WPKF/?tag=tolees-21'
 descuento: '63.50'
 average: '22.99'

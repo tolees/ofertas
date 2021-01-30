@@ -16,6 +16,7 @@ comparePrice: 14.9 EUR
 prodname: 'Starlink: Battle for Atlas  Starter Pack'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DR2YFQ9/?tag=tolees-21'
 descuento: '33.56'
 average: '10.406666666666668'

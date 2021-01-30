@@ -16,6 +16,7 @@ comparePrice: 45.32 EUR
 prodname: 'Le Coq Sportif COURTSTAR Sport  Zapatillas para Hombre  Blanco  Optical White/Evergreen Optical White/Evergreen   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MNGYKKD/?tag=tolees-21'
 descuento: '31.13'
 average: '31.21'

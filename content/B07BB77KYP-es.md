@@ -16,6 +16,7 @@ comparePrice: 6.09 EUR
 prodname: 'Vileda Colors Ondattiva milleusi 3 + 1  Esponja  Multicolor  13 x 22 x 2.6 cm  4 Unidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BB77KYP/?tag=tolees-21'
 descuento: '52.38'
 average: '2.9'

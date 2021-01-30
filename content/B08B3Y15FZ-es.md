@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'Cepillo de dientes para perros  juguete para masticar cachorros indestructibles  cepillo de limpieza para dientes  cuidado dental efectivo para cachorros  cepillo de dientes para perros no tóxico'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08B3Y15FZ/?tag=tolees-21'
 descuento: '51.87'
 average: '14.24'

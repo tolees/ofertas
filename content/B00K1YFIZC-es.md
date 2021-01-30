@@ -16,6 +16,7 @@ comparePrice: 42.0 EUR
 prodname: 'Emporio Armani Underwear 111357CC717 - Calzoncillos Para Hombre  Negro  NERO 00120   talla del fabricante: L  paquete de 3'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00K1YFIZC/?tag=tolees-21'
 descuento: '26.19'
 average: '30.494999999999997'

@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'FitFlop Anni Flex  Zapatillas sin Cordones para Mujer  Negro  Black 001   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L6ZW8H1/?tag=tolees-21'
 descuento: '67.44'
 average: '29.3'

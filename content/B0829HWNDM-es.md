@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Reloj de Pulsera para Hombre  Luminoso  Casual  Delgado  de Cuarzo  Resistente al Agua  con Fecha  Correa de Acero Inoxidable  Color Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0829HWNDM/?tag=tolees-21'
 descuento: '55.01'
 average: '26.99'

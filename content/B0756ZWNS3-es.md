@@ -16,6 +16,7 @@ comparePrice: 80.32 EUR
 prodname: 'Ventilador Tomersun con 3 aspas para estufa y chimenea  3 aspas '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0756ZWNS3/?tag=tolees-21'
 descuento: '63.16'
 average: '28.97'

@@ -16,6 +16,7 @@ comparePrice: 16.62 EUR
 prodname: 'Brennenstuhl Comfort Line regleta de enchufes con 6 tomas de corriente para montaje  cable de 2 m  interruptor iluminado  montable  enchufe plano  blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LYZERF7/?tag=tolees-21'
 descuento: '30.57'
 average: '11.54'

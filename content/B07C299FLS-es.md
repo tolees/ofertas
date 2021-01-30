@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'JACK & JONES Jjeunion Knit Crew Neck Noos suéter  Azul  Ensign Blue Detail: Twisted with Navy Blazer   X-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C299FLS/?tag=tolees-21'
 descuento: '69.99'
 average: '15.75'

@@ -16,6 +16,7 @@ comparePrice: 48.33 EUR
 prodname: 'Tommy Hilfiger - Th Nylon Camera Bag  Bolsos bandolera Mujer  Negro  Black   6x0.1x20.5 cm  W x H L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RR4PDXP/?tag=tolees-21'
 descuento: '29.73'
 average: '42.892500000000005'

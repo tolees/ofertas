@@ -16,6 +16,7 @@ comparePrice: 11.95 EUR
 prodname: 'Tonerahorro CF279A XL - Toner laser  color negro 2500 paginas. GARANTIA DE POR VIDA'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078LZJ4RL/?tag=tolees-21'
 descuento: '41.76'
 average: '6.96'

@@ -16,6 +16,7 @@ comparePrice: 11.4 EUR
 prodname: 'Smartshake SmartShake Signature Series Phil Heath Standard - 800 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00SKTA9O0/?tag=tolees-21'
 descuento: '29.82'
 average: '8.0'

@@ -16,6 +16,7 @@ comparePrice: 73.46 EUR
 prodname: 'Leifheit Pegasus 200 Solid Comfort - Tendedero con alas de plástico  95x66.5x6 cm  Color Azul y Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00HSEV8B6/?tag=tolees-21'
 descuento: '31.94'
 average: '50.0'

@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Tommy Hilfiger Kids Plaque Belt 3.0 Cinturón  Rosa  Pink Tf4   Large Unisex Adulto'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RD1MPYD/?tag=tolees-21'
 descuento: '56.56'
 average: '14.1675'

@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Under Armour Armour Heatgear Legging Leggings  Niños  Negro  Black/Pitch Gray 001   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CZ93FV4/?tag=tolees-21'
 descuento: '31.46'
 average: '23.99'

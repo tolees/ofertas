@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Columbia Sun Ridge Polo  Hombre  Verde  Cypress   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KRXMLSW/?tag=tolees-21'
 descuento: '39.01'
 average: '29.945'

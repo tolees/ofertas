@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'New Balance WL574EB  Zapatillas Mujer  Negro  Black   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XWY7CVR/?tag=tolees-21'
 descuento: '26.72'
 average: '65.95'

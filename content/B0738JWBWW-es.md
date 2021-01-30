@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Pinza gancho broche de cochecito para sostener sabanas muselinas cubierta de maternidad mantos de sol – Negros – Cuatro en cada paquete'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0738JWBWW/?tag=tolees-21'
 descuento: '30.79'
 average: '8.99'

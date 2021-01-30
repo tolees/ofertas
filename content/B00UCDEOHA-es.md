@@ -16,6 +16,7 @@ comparePrice: 9.0 EUR
 prodname: 'Autan Protection Plus Repelente de Mosquitos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00UCDEOHA/?tag=tolees-21'
 descuento: '33.11'
 average: '6.02'

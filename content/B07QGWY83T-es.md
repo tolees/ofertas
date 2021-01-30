@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'Funko Pop Bobble Vinyle: Star Wars The Mandalorian-Kuiil Figura Coleccionable  Multicolor  42063 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QGWY83T/?tag=tolees-21'
 descuento: '39.87'
 average: '11.116000000000001'

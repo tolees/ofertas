@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Jellas 22PCS Extractor de Tornillos  Brocas de pulido separadas y brocas de extracción  Magnetizado y Adaptador para Tornillos y Pernos Dañados Desde 2mm hasta 12mm  Dureza 64-65HRC'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TJWXS8M/?tag=tolees-21'
 descuento: '48.60'
 average: '17.189999999999998'

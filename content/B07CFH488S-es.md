@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'JACK & JONES Jjeholmen Sweat Hood Noos Capucha  Azul  Navy Blazer Reg Fit   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CFH488S/?tag=tolees-21'
 descuento: '40.02'
 average: '14.99'

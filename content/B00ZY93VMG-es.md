@@ -16,6 +16,7 @@ comparePrice: 99.22 EUR
 prodname: 'Nuxe Nuxuriance Ultra Mascarilla Roll-on Redensifiante 50ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ZY93VMG/?tag=tolees-21'
 descuento: '70.98'
 average: '28.79'

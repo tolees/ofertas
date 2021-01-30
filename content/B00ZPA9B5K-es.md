@@ -16,6 +16,7 @@ comparePrice: 21.9 EUR
 prodname: 'DISFRAZ REINA DE CORAZONES'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ZPA9B5K/?tag=tolees-21'
 descuento: '50.68'
 average: '10.8'

@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'LTB Lance B Pantalones Cortos  Azul  Gorbi Undamaged Wash 52286   125  Talla del Fabricante: 5  para Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VDCB79L/?tag=tolees-21'
 descuento: '49.84'
 average: '17.53'

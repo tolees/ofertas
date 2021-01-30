@@ -16,6 +16,7 @@ comparePrice: 7.45 EUR
 prodname: 'L Oréal Paris Men Expert Hydra Sensitive Espuma de Afeitar para Pieles Sensibles - 200 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00X9W35GM/?tag=tolees-21'
 descuento: '46.98'
 average: '3.865'

@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Oihxse Funda Compatible para Samsung Galaxy J4 2018 Ultra Delgada Ligera Transparente Silicona TPU Gel Suave Carcasa Elegante Patrón Lindo Bumper Anti-Rasguño Protector Caso Case  Panda '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YJRQJWB/?tag=tolees-21'
 descuento: '50.08'
 average: '8.98'

@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Supore Correa de Repuesto Compatible con Apple Watch de 44 mm 38 mm 42 mm 40 mm  Correa Sports de Silicona Suave de Repuesto para iWatch Series 4/3/2/1  Leche Amarilla+Turquesa  42mm/44mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08D5XTP6N/?tag=tolees-21'
 descuento: '66.69'
 average: '7.99'

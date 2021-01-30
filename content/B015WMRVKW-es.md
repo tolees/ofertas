@@ -16,6 +16,7 @@ comparePrice: 66.12 EUR
 prodname: 'Optimum Nutrition ON Serious Mass Proteina en Polvo Mass Gainer Alto en Proteína  con Vitaminas  Creatina y Glutamina  Chocolate Mantequilla de Cacahuete  16 Porciones  5.45 kg'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B015WMRVKW/?tag=tolees-21'
 descuento: '36.49'
 average: '41.99'

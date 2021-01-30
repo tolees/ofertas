@@ -16,6 +16,7 @@ comparePrice: 27.99 EUR
 prodname: 'Pawhut Escalera de Mascotas Escalera para Gatos Perros Escaleras De 3 Pasos Nuevo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01AA22ICK/?tag=tolees-21'
 descuento: '25.72'
 average: '20.79'

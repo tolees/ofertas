@@ -16,6 +16,7 @@ comparePrice: 87 EUR
 prodname: 'Tommy Hilfiger Core Corporate High Vulc Sneaker  Zapatillas para Hombre  Azul  Midnight 403   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JYNZ4H3/?tag=tolees-21'
 descuento: '28.74'
 average: '62'

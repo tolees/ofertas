@@ -16,6 +16,7 @@ comparePrice: 659.91 EUR
 prodname: 'Golden Goose Casual Zapatillas de piel Super Star para hombre  color Amarillo  talla 46 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086PJ4TZ6/?tag=tolees-21'
 descuento: '36.22'
 average: '420.86'

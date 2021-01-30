@@ -16,6 +16,7 @@ comparePrice: 12.24 EUR
 prodname: 'MANN-FILTER HU 711/51 X  Set de Filtro de aceite  juego de juntas  para automóviles  multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001DRLPOY/?tag=tolees-21'
 descuento: '44.53'
 average: '5.096666666666667'

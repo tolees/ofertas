@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'Yuntab BL20  proyector multimedia portátil  HD 1080P  USB AV A / V VGA IP IR  Para cine en casa Cine Video Juegos TV Película Entretenimiento  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01KZN6G1S/?tag=tolees-21'
 descuento: '45.00'
 average: '69.53285714285714'

@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Demum Calentador de Manos Calienta Manos USB & Power Bank 2 in 1  Calentamiento Lateral Doble calientamanos  Calentar en 3 Segundos  Sentimiento cómodo para adoquines  6000mAh Calentadores  Rosa '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XPCHPMJ/?tag=tolees-21'
 descuento: '61.13'
 average: '21.323333333333334'

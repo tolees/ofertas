@@ -16,6 +16,7 @@ comparePrice: 169.0 EUR
 prodname: 'Casio G-SHOCK Reloj Analógico-Digital  20 BAR  Azul/Negro  para Hombre  GA-110-1BER'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004OYUNMI/?tag=tolees-21'
 descuento: '54.56'
 average: '74.24000000000001'

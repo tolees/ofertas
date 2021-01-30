@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'PUMA Rebound Layup LO SL  Zapatillas Unisex Adulto  Negro Black White/High Rise  44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KG6YQ5M/?tag=tolees-21'
 descuento: '34.76'
 average: '34.205'

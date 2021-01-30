@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Miropure Cepillo alisador de cabello con calentamiento MCH con guante resistente al calor y funcion de bloqueo de temperatura  16 configuraciones de calentamiento  doble voltaje'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LZR8LK6/?tag=tolees-21'
 descuento: '40.01'
 average: '32.67181818181819'

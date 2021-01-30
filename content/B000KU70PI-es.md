@@ -16,6 +16,7 @@ comparePrice: 26.5 EUR
 prodname: 'Clarins Demaquillant Express Ojos 125 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000KU70PI/?tag=tolees-21'
 descuento: '38.15'
 average: '14.55'

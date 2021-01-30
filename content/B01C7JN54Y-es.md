@@ -16,6 +16,7 @@ comparePrice: 4.45 EUR
 prodname: 'Sustratos - Sustrato Vermiculita 5L - Batlle'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01C7JN54Y/?tag=tolees-21'
 descuento: '28.76'
 average: '3.43'

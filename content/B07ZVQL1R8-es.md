@@ -16,6 +16,7 @@ comparePrice: 39.96 EUR
 prodname: 'Artpad Nordic Modern Milky Glass Ball Lámpara de pared Luz de cabecera interior Apliques de metal dorado con luz blanca E14 Bombilla LED Vestíbulo Comedor Lámpara de pared decorativa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZVQL1R8/?tag=tolees-21'
 descuento: '31.08'
 average: '27.54'

@@ -16,6 +16,7 @@ comparePrice: 76.28 EUR
 prodname: 'Westinghouse Ceiling Fans Vegas Ventilador de Techo  Metal  Acabado en Blanco con aspas Reversibles en Blanco/Pino blanquedado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003LXB3GS/?tag=tolees-21'
 descuento: '26.34'
 average: '54.2652380952381'

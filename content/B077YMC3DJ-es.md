@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Sylvie Flirty Swimwear Britta  Trikini para Mujer  Multicolor  Flower Print 8888   40  Talla del fabricante: 38A '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077YMC3DJ/?tag=tolees-21'
 descuento: '80.94'
 average: '17.14'

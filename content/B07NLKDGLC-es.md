@@ -16,6 +16,7 @@ comparePrice: 217.0 EUR
 prodname: 'Versace Jeans CoutureBorsaMujerBolso de manoRojo  Rosso  5 5x16x16 centimeters  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NLKDGLC/?tag=tolees-21'
 descuento: '56.96'
 average: '93.39'

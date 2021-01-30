@@ -16,6 +16,7 @@ comparePrice: 7.22 EUR
 prodname: 'Rimmel London Match Perfection Foundation Base de Maquillaje Tono 501 Noisette - 123 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079K2MCHH/?tag=tolees-21'
 descuento: '44.60'
 average: '4.0'

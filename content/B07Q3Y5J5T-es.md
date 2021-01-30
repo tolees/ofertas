@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'DataOcean 2 Piezas USB 2.0 64GB Memorias USB PenDrives Giratoria Pen Drive 32 GB Unidad Flash  2 X 64GB Negro Plata '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q3Y5J5T/?tag=tolees-21'
 descuento: '37.80'
 average: '11.19'

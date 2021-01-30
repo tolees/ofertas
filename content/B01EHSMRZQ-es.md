@@ -16,6 +16,7 @@ comparePrice: 24.85 EUR
 prodname: 'Pharmadiet Progen Plactive  Sabor Naranja - 20 Sobres'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01EHSMRZQ/?tag=tolees-21'
 descuento: '25.67'
 average: '18.47'

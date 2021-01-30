@@ -16,6 +16,7 @@ comparePrice: 26.96 EUR
 prodname: 'Mannli Mujer Unisex    acero inoxidable     Sin piedra'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075GWKY43/?tag=tolees-21'
 descuento: '55.53'
 average: '11.99'

@@ -16,6 +16,7 @@ comparePrice: 2.32 EUR
 prodname: 'Pantene Pro-V Champú Anti-Caspa para Todo Tipo de Cabellos - 270 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01K7SF8OW/?tag=tolees-21'
 descuento: '50.00'
 average: '1.16'

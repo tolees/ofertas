@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Muselina Bebe  Six4Up  100% Made In Italy  Algodón Orgánico  Bordado Azul Celeste  2 Unidades  70x90 cm  Certificadas Standard 100 Oeko-Tex  Swaddle  Mantas Bebe'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082MSRF1X/?tag=tolees-21'
 descuento: '28.43'
 average: '21.4'

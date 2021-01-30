@@ -16,6 +16,7 @@ comparePrice: 72.48 EUR
 prodname: 'MOTUL 7100 10W40 4T 4L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00IKCY9RK/?tag=tolees-21'
 descuento: '83.11'
 average: '12.24'

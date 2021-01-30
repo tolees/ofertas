@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Candados Combinación  LEADSTAR 2 x Candado TSA Equipaje de Seguridad - Combinación De 3 Dígitos para Maletas Equipaje'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C56XDRW/?tag=tolees-21'
 descuento: '50.03'
 average: '7.99'

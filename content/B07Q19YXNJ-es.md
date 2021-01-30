@@ -16,6 +16,7 @@ comparePrice: 30.99 EUR
 prodname: 'Fosly Utensilios de Cocina de Acero Inoxidable  10 Unidades  Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q19YXNJ/?tag=tolees-21'
 descuento: '29.04'
 average: '21.99'

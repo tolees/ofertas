@@ -16,6 +16,7 @@ comparePrice: 36.89 EUR
 prodname: 'Máquina picadora de carne manual  máquina trituradora de alimentos Picadora de salchichas Máquina multifuncional Picadora de verduras Procesador de alimentos de aleación de aluminio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K2WP9VJ/?tag=tolees-21'
 descuento: '31.99'
 average: '25.09'

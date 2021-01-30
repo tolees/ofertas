@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'L Oréal Paris Make-up designer Camila Cabello Pintalabios - 6.3 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FY6YXF7/?tag=tolees-21'
 descuento: '35.88'
 average: '6.38'

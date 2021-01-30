@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Junio1 Cubierta de Techo con Dosel Giratorio para Patio Exterior Jardinería'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088NC9B9B/?tag=tolees-21'
 descuento: '38.58'
 average: '63.239999999999995'

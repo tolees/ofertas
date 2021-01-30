@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Kipling Cindy  Carteras para Mujer  Rojo  Metallic Rust   11.5x8x1 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TXWRSKQ/?tag=tolees-21'
 descuento: '39.54'
 average: '19.06'

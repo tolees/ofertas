@@ -16,6 +16,7 @@ comparePrice: 13.42 EUR
 prodname: 'Air Wick Ambientador Freshmatic Recambio - Fragancia Nenuco - Paquete de 3 x 250 ml - Total: 750 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LX23TW7/?tag=tolees-21'
 descuento: '36.74'
 average: '9.24'

@@ -16,6 +16,7 @@ comparePrice: 148.75 EUR
 prodname: 'HP CF401X 201X Cartucho de Tóner Original de alto rendimiento  1 unidad  cian'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00UBMO7RY/?tag=tolees-21'
 descuento: '34.86'
 average: '96.89'

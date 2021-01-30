@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Adidas Falcon Zapatillas de Running Hombre  Negro  Core Black/Shock Yellow/Ftwr White Core Black/Shock Yellow/Ftwr White   43 1/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K2LQYJ3/?tag=tolees-21'
 descuento: '25.23'
 average: '31.083333333333332'

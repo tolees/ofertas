@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Tommy Hilfiger - Business Leather Mini Cc Wallet  Carteras Hombre  Negro  Black   1x1x1 cm  W x H L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V8Y5SJD/?tag=tolees-21'
 descuento: '37.13'
 average: '31.37'

@@ -16,6 +16,7 @@ comparePrice: 22.81 EUR
 prodname: ' 1  - B.Catcher Silver Necklace Pearl Jewellery 925 Freshwater Pearl Heart Pendant Nekclaces'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XPG6WF1/?tag=tolees-21'
 descuento: '39.19'
 average: '13.87'

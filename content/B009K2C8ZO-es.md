@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'Fila Reloj analogico para Unisex de Cuarzo con Correa en Caucho FA-1023-60'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B009K2C8ZO/?tag=tolees-21'
 descuento: '78.93'
 average: '14.54'

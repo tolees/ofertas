@@ -16,6 +16,7 @@ comparePrice: 34.2 EUR
 prodname: 'Dow s Fine Ruby  Porto - 3 botellas de 75 cl  Total: 2250 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0089KRZOM/?tag=tolees-21'
 descuento: '29.56'
 average: '24.09'

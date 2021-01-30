@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Orlane Oligo Vit-A-Min Loción Vitalisante 250 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KNWHRYW/?tag=tolees-21'
 descuento: '47.03'
 average: '15.89'

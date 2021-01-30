@@ -16,6 +16,7 @@ comparePrice: 46.99 EUR
 prodname: 'BRIKSMAX Kit de Iluminación Led para Lego City Space Port Prueba de Conducción del Róver Compatible con Ladrillos de Construcción Lego Modelo 60225  Juego de Legos no Incluido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083FSQS8Y/?tag=tolees-21'
 descuento: '63.84'
 average: '16.99'

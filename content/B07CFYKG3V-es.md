@@ -16,6 +16,7 @@ comparePrice: 7.0 EUR
 prodname: 'Rimmel London Stay Matte Liquid Lip Colour Nude  Barra De Labios Tono 723 - 21 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CFYKG3V/?tag=tolees-21'
 descuento: '44.29'
 average: '3.9'

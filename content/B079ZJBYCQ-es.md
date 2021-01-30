@@ -16,6 +16,7 @@ comparePrice: 159.9 EUR
 prodname: 'Britax Römer silla de coche 15 - 36 kg  ≈ 3 5 - 12 años   KIDFIX SL  isofix  grupo 2/3  Moonlight Blue'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079ZJBYCQ/?tag=tolees-21'
 descuento: '31.46'
 average: '109.59'

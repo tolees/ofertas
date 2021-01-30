@@ -16,6 +16,7 @@ comparePrice: 52.9 EUR
 prodname: 'Kenwood CH580 Picadora  4 cuchillas  con accesorio mayonnesa  500 W  Plástico  2 Velocidades  Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00405RLBM/?tag=tolees-21'
 descuento: '36.60'
 average: '33.54'

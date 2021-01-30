@@ -16,6 +16,7 @@ comparePrice: 799.9 EUR
 prodname: 'Panasonic Lumix DMC-LX100 - Cámara Compacta Premium de 12.8 MP  Sensor de 4/3"  Objetivo F1.7-F2.8 de 24-75 mm  Zoom de 3X  4K  WiFi  Raw   Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NN6IYCE/?tag=tolees-21'
 descuento: '45.59'
 average: '454.04999999999995'

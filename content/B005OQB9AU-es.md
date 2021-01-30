@@ -16,6 +16,7 @@ comparePrice: 37.99 EUR
 prodname: 'IMC Toys - Pilla Ratón  43-7413 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005OQB9AU/?tag=tolees-21'
 descuento: '44.33'
 average: '23.784999999999997'

@@ -16,6 +16,7 @@ comparePrice: 48.75 EUR
 prodname: 'find. Botas Efecto Ante para Mujer  Gris  Grey   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072MTMKVN/?tag=tolees-21'
 descuento: '60.00'
 average: '19.5'

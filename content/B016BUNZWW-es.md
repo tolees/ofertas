@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'ASUS Tengo rt3117bt Auto/Interior 90w Negro Adaptador e inversor de Corriente - Fuente de alimentación.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B016BUNZWW/?tag=tolees-21'
 descuento: '29.37'
 average: '12.0'

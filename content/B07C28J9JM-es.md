@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'JACK & JONES Jjebasic Knit Crew Neck Noos suéter  Gris Dark Grey Melange  X-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C28J9JM/?tag=tolees-21'
 descuento: '34.01'
 average: '14.719999999999999'

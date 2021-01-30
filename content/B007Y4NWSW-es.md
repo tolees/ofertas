@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Case Logic TBC-404 - Funda para cámara compacta  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007Y4NWSW/?tag=tolees-21'
 descuento: '41.52'
 average: '9.754999999999999'

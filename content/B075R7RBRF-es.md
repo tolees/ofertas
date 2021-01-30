@@ -16,6 +16,7 @@ comparePrice: 92.0 EUR
 prodname: 'New Balance 247v1  Zapatillas para Mujer  Morado  Elderberry/Arctic Sky Eo   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075R7RBRF/?tag=tolees-21'
 descuento: '40.24'
 average: '54.98'

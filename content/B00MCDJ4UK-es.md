@@ -16,6 +16,7 @@ comparePrice: 110.99 EUR
 prodname: 'Epson Workforce WF-2630WF - Impresora multifunción de Tinta  WiFi  Pantalla LCD Monocroma retroiluminada de 5 6 cm   Color Negro  Ya Disponible en Amazon Dash Replenishment'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00MCDJ4UK/?tag=tolees-21'
 descuento: '45.95'
 average: '59.99'

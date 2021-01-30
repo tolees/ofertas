@@ -16,6 +16,7 @@ comparePrice: 15.98 EUR
 prodname: 'adidas Entrada 18 JSY T-Shirt  Hombre  Black/White  2XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0779DRZYZ/?tag=tolees-21'
 descuento: '30.35'
 average: '11.07888888888889'

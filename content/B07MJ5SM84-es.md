@@ -16,6 +16,7 @@ comparePrice: 5.14 EUR
 prodname: 'Sylvialuca MCP4725 I2C DAC Breakout Development Module 12Bit Resolution - Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MJ5SM84/?tag=tolees-21'
 descuento: '33.46'
 average: '3.42'

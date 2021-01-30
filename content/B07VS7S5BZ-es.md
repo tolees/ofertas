@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Almohada de Viaje  Almohada Cervical de Viaje  Almohada de Cuello Espuma de Memoria  con Mascaras y Tapones para Los Oídos por Viajes  Hogar y Oficina-Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VS7S5BZ/?tag=tolees-21'
 descuento: '45.02'
 average: '15.489999999999998'

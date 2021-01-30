@@ -16,6 +16,7 @@ comparePrice: 20.11 EUR
 prodname: 'Artema - Taburete Redondo 70cm.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B019H3SNRW/?tag=tolees-21'
 descuento: '25.41'
 average: '15.0'

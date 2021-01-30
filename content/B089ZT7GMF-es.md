@@ -16,6 +16,7 @@ comparePrice: 43.0 EUR
 prodname: 'Altavoz Bluetooth portátil con Luz de 5 Modos Recargable USB Altavoces Bluetooth Potentes  Altavoz portátil Sonido Estéreo 360°TWS. Efecto de Triple Bajo Potente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089ZT7GMF/?tag=tolees-21'
 descuento: '30.26'
 average: '29.99'

@@ -16,6 +16,7 @@ comparePrice: 18.0 EUR
 prodname: 'Playmobil-6858 Playset  Color  6858 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01608LYMS/?tag=tolees-21'
 descuento: '45.83'
 average: '10.496666666666668'

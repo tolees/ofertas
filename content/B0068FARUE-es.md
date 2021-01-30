@@ -16,6 +16,7 @@ comparePrice: 4.55 EUR
 prodname: 'Continental Schlauch MTB 29 AV 42  Cámara  Unisex  a40  40 mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0068FARUE/?tag=tolees-21'
 descuento: '34.29'
 average: '2.99'

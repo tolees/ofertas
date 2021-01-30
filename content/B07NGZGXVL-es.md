@@ -16,6 +16,7 @@ comparePrice: 109.95 EUR
 prodname: 'Strellson Premium Mercer2.0 12 Pantalones de Traje  Azul  Navy 412   75  Talla del Fabricante: 60  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NGZGXVL/?tag=tolees-21'
 descuento: '85.83'
 average: '15.58'

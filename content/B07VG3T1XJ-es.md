@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'edc by Esprit 099cc1b048 Pantalones  Gris  Gunmetal 015   W42/L30  Talla del Fabricante: 42/30  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VG3T1XJ/?tag=tolees-21'
 descuento: '66.91'
 average: '19.85'

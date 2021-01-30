@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'Jack & Jones Jjecorp Logo Sweat Hood Noos suéter  Rio Red  L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YKNBGZ2/?tag=tolees-21'
 descuento: '27.29'
 average: '15.99'

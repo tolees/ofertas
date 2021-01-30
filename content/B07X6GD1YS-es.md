@@ -16,6 +16,7 @@ comparePrice: 51.99 EUR
 prodname: 'Vbiger Mochilas Escolares Niña Impermeable para Estudiante Grande para los Grados 3-6  Azul real1 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X6GD1YS/?tag=tolees-21'
 descuento: '51.95'
 average: '24.98'

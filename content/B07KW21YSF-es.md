@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Masajeador de ojos sónico de varita galvanica antienvejecimiento  aniones importadas  removedor de arrugas recargable para ojeras y hinchazón  vers mejorados'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KW21YSF/?tag=tolees-21'
 descuento: '42.01'
 average: '28.99'

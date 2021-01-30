@@ -16,6 +16,7 @@ comparePrice: 11.46 EUR
 prodname: 'Marca Amazon - Lifelong Alimento completo para gatos adultos - Selección mixta en salsa  2 4 kg  24 bolsitas x 100g '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HN2ZRXZ/?tag=tolees-21'
 descuento: '39.01'
 average: '6.99'

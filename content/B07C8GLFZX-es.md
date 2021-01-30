@@ -16,6 +16,7 @@ comparePrice: 29.0 EUR
 prodname: 'Calypso Reloj Analógico para Niñas de Cuarzo con Correa en Plástico K5749/3'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C8GLFZX/?tag=tolees-21'
 descuento: '55.62'
 average: '12.87'

@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Linterna LED Recargable 3500mAh  Linterna Tactica Impermeable IPX-6 con 5 Modos Super Brillante 800LM 6000K Zoom Ajustable T6 LED y Luz Lateral COB para Inspecciones  Camping  Ciclismo  trekking'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JF8T64D/?tag=tolees-21'
 descuento: '36.86'
 average: '12.323333333333334'

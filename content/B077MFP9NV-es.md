@@ -16,6 +16,7 @@ comparePrice: 141.0 EUR
 prodname: 'AEG LX7-2-EB-P Aspiradora de Trineo Sin Bolsa  Gran Filtración Depósito de 1.4L  Fácil Vaciado Radio de acción de 9 m 72dB de Ruido Cepillo Suelos Duros  Parquet  750 W Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077MFP9NV/?tag=tolees-21'
 descuento: '29.09'
 average: '104.008'

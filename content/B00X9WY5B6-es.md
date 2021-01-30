@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'L Oreal Paris Dermo Expertise - Revitalift Filler Sérum con ácido hialurónico - 16 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00X9WY5B6/?tag=tolees-21'
 descuento: '43.87'
 average: '12.155454545454544'

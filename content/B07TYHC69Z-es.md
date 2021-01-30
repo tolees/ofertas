@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Levi s 501 Original Pantalones Cortos  Azul  Athens Mid Short 0081   W26  Talla del Fabricante: 26  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TYHC69Z/?tag=tolees-21'
 descuento: '30.09'
 average: '33.22'

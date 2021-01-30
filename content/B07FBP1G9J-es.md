@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Skechers Women s Flex Appeal 3.0-first Insight Trainers  White  White Mesh/Rose Gold Trim Wtrg   7 UK  40 EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FBP1G9J/?tag=tolees-21'
 descuento: '28.97'
 average: '45.635000000000005'

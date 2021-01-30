@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Skechers Street Cleats 2  Zapatillas para Mujer  Olive Suede/Duraleather Trim #Flash Old  5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NW53VBK/?tag=tolees-21'
 descuento: '62.33'
 average: '26.35'

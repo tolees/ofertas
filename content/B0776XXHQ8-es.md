@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Tommy Hilfiger Original Fine Pique Polo  Gris  Lt Grey Htr 038   X-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0776XXHQ8/?tag=tolees-21'
 descuento: '43.13'
 average: '34.135000000000005'

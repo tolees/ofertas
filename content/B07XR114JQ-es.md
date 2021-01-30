@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Geographical Norway Parka BOOMERA de Mujer Azul Marino Talla M'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Geographical Norway'
 buyurl: 'https://www.amazon.es/dp/B07XR114JQ/?tag=tolees-21'
 descuento: '49.60'
 average: '55.735'
@@ -27,7 +28,7 @@ Tienes [Geographical Norway Parka BOOMERA de Mujer Azul Marino Talla M](https://
 
 🔎:
 
-- Capucha
 - Bolsillos
+- Capucha
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07XR114JQ/?tag=tolees-21)

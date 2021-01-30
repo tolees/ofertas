@@ -16,6 +16,7 @@ comparePrice: 13.38 EUR
 prodname: 'TOPmountain Caja de caja de leche en polvo para bebés Niños Caja de leche portátil en forma de dispensador de embudo Múltiples funciones Tapa de chupete en recipiente para chupete Contenedor de protec'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BNHK3GT/?tag=tolees-21'
 descuento: '52.32'
 average: '6.38'

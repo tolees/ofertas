@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'adidas RUNFALCON  Running Shoe Mens  Blanco Ftwbla Ftwbla Ftwbla 000  40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KFLK8X4/?tag=tolees-21'
 descuento: '30.95'
 average: '34.49'

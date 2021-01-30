@@ -16,6 +16,7 @@ comparePrice: 25.11 EUR
 prodname: 'Songway Burbujeador de Tanque de Peces Redondo de Acuario con LED de Color Multicolor con LED de Color Azul  Cuentas de 12 lámparas '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WGYD63F/?tag=tolees-21'
 descuento: '55.04'
 average: '11.29'

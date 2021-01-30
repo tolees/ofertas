@@ -16,6 +16,7 @@ comparePrice: 12.95 EUR
 prodname: 'L Oréal Infalible 24 H Matte Cover Base De Maquillaje Alta Cobertura Mate Piel Clara Subtono Neutro 290 Ambre Doré 40 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BBCWJQW/?tag=tolees-21'
 descuento: '46.33'
 average: '6.95'

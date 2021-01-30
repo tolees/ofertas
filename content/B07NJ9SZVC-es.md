@@ -16,6 +16,7 @@ comparePrice: 113.99 EUR
 prodname: 'MERRELL Fluxion GTX  Zapatillas Tiempo Libre y Senderismo Hombre  Black/Granite  Multicolor '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NJ9SZVC/?tag=tolees-21'
 descuento: '60.01'
 average: '45.59'

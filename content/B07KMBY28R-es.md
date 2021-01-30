@@ -16,6 +16,7 @@ comparePrice: 100 EUR
 prodname: 'Merrell Vapor Glove 4  Zapatillas Deportivas para Interior para Mujer  Verde  Dragonfly   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KMBY28R/?tag=tolees-21'
 descuento: '45.05'
 average: '54.95'

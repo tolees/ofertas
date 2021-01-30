@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Auriculares Bluetooth Auriculares inalámbricos Bluetooth5.0 In-Ear Mini Auriculares Auriculares emparejamiento automático emergente para Auriculares/Samsung/Huawei Xiaomi'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08FCMD7R2/?tag=tolees-21'
 descuento: '50.03'
 average: '19.49'

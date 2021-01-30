@@ -16,6 +16,7 @@ comparePrice: 249.99 EUR
 prodname: 'Hercules - HERCULES P32 DJ - Controlador DJ - PC / Mac - Dos decks con interfaz de audio integrada y 32 pads para hacer mezclas creativas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01AAGRZL0/?tag=tolees-21'
 descuento: '32.03'
 average: '183.43'

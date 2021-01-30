@@ -16,6 +16,7 @@ comparePrice: 26.0 EUR
 prodname: 'Camiseta/UNDER ARMOUR:FOUNTATION XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DXVRY1C/?tag=tolees-21'
 descuento: '48.12'
 average: '15.613333333333333'

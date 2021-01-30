@@ -16,6 +16,7 @@ comparePrice: 127.14 EUR
 prodname: 'Burrito Blanco Juego de Sábanas Blanco de Hostelería para Cama Individual de 80 cm x 190/200 cm  Disponible en Más Medidas '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FF5Z7NJ/?tag=tolees-21'
 descuento: '84.58'
 average: '18.523333333333333'

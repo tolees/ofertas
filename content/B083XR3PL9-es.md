@@ -16,6 +16,7 @@ comparePrice: 18.4 EUR
 prodname: 'DEATTI HD Cámara de vigilancia  1080P IR visión nocturna cámara exterior de seguridad  resistente al agua  orientable  para exterior  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083XR3PL9/?tag=tolees-21'
 descuento: '27.28'
 average: '13.38'

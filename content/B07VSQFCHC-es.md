@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'LUDOS Clamor Auriculares con Micrófono y Cable  Espuma de Memoria Generación  Cable Reforzado  Graves y Control de Volumen para Mi  Xiaomi  iPhone  Samsung  Sony  Huawei'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VSQFCHC/?tag=tolees-21'
 descuento: '43.43'
 average: '16.935'

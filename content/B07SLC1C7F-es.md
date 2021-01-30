@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'New Balance Fresh Foam Evare  Zapatillas para Correr de Carretera para Hombre  Negro  Black Lb1   47.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SLC1C7F/?tag=tolees-21'
 descuento: '49.41'
 average: '45.53'

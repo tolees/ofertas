@@ -16,6 +16,7 @@ comparePrice: 5.59 EUR
 prodname: 'Baldosinín 8410952001802 Productos de Limpieza para el Hogar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XAIKTRS/?tag=tolees-21'
 descuento: '28.44'
 average: '4.0'

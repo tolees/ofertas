@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Lifewit 17L Bolsa Térmica Porta Alimentos Bolsa de Compra Reutilizable con 2 Paquetes de Hielo Bolsa de Refrigeración Bolsa de Almuerzo Aislamiento para Aire Libre Senderismo Playa Picnic BBQ Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M7D28NR/?tag=tolees-21'
 descuento: '37.51'
 average: '24.99'

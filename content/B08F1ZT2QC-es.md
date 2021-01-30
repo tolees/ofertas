@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Auriculares Bluetooth 5.0 Auricular Inalámbrico Bluetooth reducción del Ruido estéreo 3D HD In-Ear Auriculares Bluetooth c IPX5 Impermeables para iPhone/Android/Apple Airpods Pro/Samsung'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08F1ZT2QC/?tag=tolees-21'
 descuento: '38.34'
 average: '36.99'

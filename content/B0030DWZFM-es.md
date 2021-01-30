@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Rubies Buzz Lightyear Toy Story  Classic  Costume - Child s Fancy Dress - Medium  disfraz '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0030DWZFM/?tag=tolees-21'
 descuento: '25.54'
 average: '23.794'

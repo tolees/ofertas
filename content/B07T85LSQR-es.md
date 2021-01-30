@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'Helly Hansen Vardapeak V2  Zapatillas de Running para Asfalto para Hombre  Negro  Black/Ebony/Light Grey 990   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T85LSQR/?tag=tolees-21'
 descuento: '46.16'
 average: '48.355000000000004'

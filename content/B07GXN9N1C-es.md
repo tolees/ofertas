@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'Huawei Mate 20 Lite - Smartphone Dual SIM de 6.3" Full HD  Kirin 710  4 GB de RAM  64 GB de memoria interna  cámara dual de 24 + 2 MP  azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GXN9N1C/?tag=tolees-21'
 descuento: '27.11'
 average: '206.36111111111114'

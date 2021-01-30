@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'PUMA AURIZ JR  Zapatillas de Balonmano Unisex niños  Blanco White Black/Nrgy Red/Gum  37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KFWTZNK/?tag=tolees-21'
 descuento: '40.60'
 average: '25.900000000000002'

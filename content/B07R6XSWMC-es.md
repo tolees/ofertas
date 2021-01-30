@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'Only & Sons NOS Onswinston Sweat Hoodie Noos Capucha  Azul  Dress Blue Dress Blue   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R6XSWMC/?tag=tolees-21'
 descuento: '57.06'
 average: '11.59'

@@ -16,6 +16,7 @@ comparePrice: 18.7 EUR
 prodname: 'CLTYQ Tire de la Cuerda de Rodillos Bandas de Resistencia Bandas de Resistencia de la Rueda de Ejercicio para Las piernas de la Cintura Abdominal Que Adelgazan el Cuerpo y glúteos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087JR73DK/?tag=tolees-21'
 descuento: '48.50'
 average: '9.63'

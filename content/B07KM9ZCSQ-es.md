@@ -16,6 +16,7 @@ comparePrice: 115.99 EUR
 prodname: 'Merrell Trail Glove 5  Zapatillas Deportivas para Interior para Hombre  Azul  Sailor Blue   43.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KM9ZCSQ/?tag=tolees-21'
 descuento: '40.00'
 average: '69.59'

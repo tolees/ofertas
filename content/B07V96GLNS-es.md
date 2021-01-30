@@ -16,6 +16,7 @@ comparePrice: 20.9 EUR
 prodname: 'Gaoyong Bolsas Vacio Ropa Aspiradora Bolsas Almacenaje Ropa Bolsas para Guardar Ropa Bolsas Envasar al Vacio para Ropa Edredones Ropa de Cama Almohadas de Viaje（10 PCS Incluyen Bomba de Aire Grande）'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V96GLNS/?tag=tolees-21'
 descuento: '32.44'
 average: '15.805'

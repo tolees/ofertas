@@ -16,6 +16,7 @@ comparePrice: 229.99 EUR
 prodname: 'ASUS ROG STRIX Z390-H Gaming - Placa base Gaming ATX Intel de 8a y 9a gen  LGA1151 con soporte DDR4 4266 MHz+  2 M.2 con disipador  SATA 6 Gbps  HDMI y USB 3.1 Gen. 2'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HS41QBK/?tag=tolees-21'
 descuento: '47.47'
 average: '162.5575'

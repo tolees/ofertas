@@ -16,6 +16,7 @@ comparePrice: 41.69 EUR
 prodname: 'Sartén de 22 cm con 3 5mm de espesor  Full Induction   Antiadherente bicapa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07STD9Z1K/?tag=tolees-21'
 descuento: '36.56'
 average: '26.45'

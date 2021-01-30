@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'New Balance Fresh Foam Cruz Sockfit  Zapatillas para Hombre  Gris Arctic Fox/Light Shale Lp2  46.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D8B8XWD/?tag=tolees-21'
 descuento: '54.16'
 average: '44.585'

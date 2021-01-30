@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Superdry Reloj Analógico para Hombre de Cuarzo con Correa en Silicona SYG253BE'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MFVTMHX/?tag=tolees-21'
 descuento: '51.67'
 average: '21.75'

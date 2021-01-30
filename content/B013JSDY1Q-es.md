@@ -16,6 +16,7 @@ comparePrice: 81.98 EUR
 prodname: 'Star Wars Saga Completa  2015  Blu-Ray [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B013JSDY1Q/?tag=tolees-21'
 descuento: '28.90'
 average: '61.64'

@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Singer Aspirador SVCT4020ECO'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00SVA7IS8/?tag=tolees-21'
 descuento: '26.16'
 average: '95.99'

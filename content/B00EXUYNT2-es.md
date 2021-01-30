@@ -16,6 +16,7 @@ comparePrice: 19.73 EUR
 prodname: 'SUPER EGO SEH003300 Cocina cartucho gas portátil  Gris  34x9x26 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00EXUYNT2/?tag=tolees-21'
 descuento: '28.84'
 average: '14.491428571428571'

@@ -16,6 +16,7 @@ comparePrice: 14.53 EUR
 prodname: 'Goloka Juego de Varillas de Incienso - 1 pack'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007ZPACD8/?tag=tolees-21'
 descuento: '33.24'
 average: '9.7875'

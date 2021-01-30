@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'BRA Advanced Cacerola 24 cm  Aluminio Fundido con Antiadherente  sin PFOA súper Reforzado de Rendimiento Superior y Alta Resistencia a los arañazos y a la abrasión  Apta para Inducción'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TL3W1DX/?tag=tolees-21'
 descuento: '28.27'
 average: '33.3025'

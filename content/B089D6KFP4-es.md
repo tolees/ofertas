@@ -16,6 +16,7 @@ comparePrice: 3.51 EUR
 prodname: 'Niños Unisex analógico Digital Resistente al Agua Reloj Deportivo Luminoso Reloj de Pulsera de Dibujos Animados para niños Reloj niñas niños Nuevo - Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089D6KFP4/?tag=tolees-21'
 descuento: '35.04'
 average: '2.28'

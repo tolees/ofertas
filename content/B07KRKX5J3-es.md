@@ -16,6 +16,7 @@ comparePrice: 85.0 EUR
 prodname: 'New Balance 373 Zapatillas Hombre  Rojo  Red Red   39.5 EU  6 UK '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KRKX5J3/?tag=tolees-21'
 descuento: '50.00'
 average: '42.5'

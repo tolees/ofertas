@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Humidificador dodocool  Humidificadores Ultrasónicos de 310ML con 7-Color LED para Coche  Casa  Oficina  Bebé  Baño y Spa  Cierre Automático'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R6Q82SK/?tag=tolees-21'
 descuento: '26.10'
 average: '16.99'

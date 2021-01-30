@@ -16,6 +16,7 @@ comparePrice: 9.5 EUR
 prodname: 'Bourjois Healthy Mix Concealer Corrector Tono 51 Light - 7.8 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N0RUZFX/?tag=tolees-21'
 descuento: '54.21'
 average: '4.81'

@@ -16,6 +16,7 @@ comparePrice: 279.99 EUR
 prodname: 'Garmin Smartwatch Vivoactive 3 Music GPS Mano Ciclismo Unisex Adulto  Negro y plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CR8NBQB/?tag=tolees-21'
 descuento: '25.35'
 average: '206.27'

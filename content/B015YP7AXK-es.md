@@ -16,6 +16,7 @@ comparePrice: 159.9 EUR
 prodname: 'Beurer MP100  Set Manicura Y Pedicura  Multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B015YP7AXK/?tag=tolees-21'
 descuento: '37.47'
 average: '94.99'

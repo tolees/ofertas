@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Zadig & Voltaire Reloj Analógico para Unisex Adultos de Cuarzo con Correa en Cuero ZVF403'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074ZQWHLY/?tag=tolees-21'
 descuento: '44.57'
 average: '106.22999999999999'

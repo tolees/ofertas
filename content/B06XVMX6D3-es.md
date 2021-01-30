@@ -16,6 +16,7 @@ comparePrice: 30.99 EUR
 prodname: 'Mujer Plisada EláStica Escuela Skorts Tenis Con Ropa Interior Cubierto'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XVMX6D3/?tag=tolees-21'
 descuento: '35.50'
 average: '19.99'

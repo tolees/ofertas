@@ -16,6 +16,7 @@ comparePrice: 12.83 EUR
 prodname: 'Pack Quitamanchas Sinmanchas 750Ml + Sinmanchas Coloreadas 750Ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IVJL0PK/?tag=tolees-21'
 descuento: '28.76'
 average: '9.14'

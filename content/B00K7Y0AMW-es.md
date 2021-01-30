@@ -16,6 +16,7 @@ comparePrice: 5.7 EUR
 prodname: 'Ceys M128784 - Cola de contacto - 500 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00K7Y0AMW/?tag=tolees-21'
 descuento: '47.72'
 average: '2.98'

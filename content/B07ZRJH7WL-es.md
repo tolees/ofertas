@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Litthing Envoltorio Cera De Abeja Envoltorios de Alimentos Reutilizable Lavable y Biodegradable para Quesos  Cupcakes  Sandwich， Frutas  Vegetales  Pan y Más  1 Rollo Multicolor '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZRJH7WL/?tag=tolees-21'
 descuento: '40.02'
 average: '15.59'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Elbe Socket para Mesa Empotrado con Interruptor  Enchufe múltiple de 3 Tomas  Enchufe alemán  Aluminio con Cable de 1 5 m  Apto para Oficina  Estudio y Cocina_EL1803K'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KELW06M/?tag=tolees-21'
 descuento: '45.01'
 average: '21.99'

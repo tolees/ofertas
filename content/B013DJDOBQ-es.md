@@ -16,6 +16,7 @@ comparePrice: 12.9 EUR
 prodname: 'Skylanders SuperCharges - Figura Smash Hit  Driver '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B013DJDOBQ/?tag=tolees-21'
 descuento: '53.57'
 average: '5.99'

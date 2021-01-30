@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'Zwilling Quadro Set batería de Cocina 5 Piezas  Acero Inoxidable  1 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NFDPXRO/?tag=tolees-21'
 descuento: '46.82'
 average: '159.0'

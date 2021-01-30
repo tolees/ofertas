@@ -16,6 +16,7 @@ comparePrice: 31.58 EUR
 prodname: 'PNY Memoria USB Attaché 4 3.1 256GB'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XTVGJ42/?tag=tolees-21'
 descuento: '27.39'
 average: '29.059'

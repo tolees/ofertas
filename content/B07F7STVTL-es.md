@@ -16,6 +16,7 @@ comparePrice: 19.5 EUR
 prodname: 'Pendientes de plata de ley con diseño de calavera'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F7STVTL/?tag=tolees-21'
 descuento: '33.59'
 average: '12.95'

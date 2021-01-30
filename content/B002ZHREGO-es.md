@@ -16,6 +16,7 @@ comparePrice: 93.2 EUR
 prodname: 'Optimum Nutrition ON Platinum Hydro Whey  Proteinas en polvo  para masa muscular y musculacion  fuente de BCAA  bajo en calorías  Fresa  40 porciones  1.6 kg'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002ZHREGO/?tag=tolees-21'
 descuento: '36.42'
 average: '58.81666666666666'

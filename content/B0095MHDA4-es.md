@@ -16,6 +16,7 @@ comparePrice: 90.99 EUR
 prodname: 'Epson Workforce WF-2010W - Impresora Color  inyección de Tinta  WiFi y Ethernet   Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0095MHDA4/?tag=tolees-21'
 descuento: '44.40'
 average: '50.59'

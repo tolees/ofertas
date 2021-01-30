@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Under Armour GS Charged Rogue 2  Zapatillas para Correr Unisex Adulto  Negro  Black/Versa Red/Versa Red   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PYYTV6M/?tag=tolees-21'
 descuento: '52.37'
 average: '25.048571428571428'

@@ -16,6 +16,7 @@ comparePrice: 91.28 EUR
 prodname: 'Reloj - Guanqin - para - GJ16132'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K9NNCJN/?tag=tolees-21'
 descuento: '45.23'
 average: '49.99'

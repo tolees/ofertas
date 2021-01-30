@@ -16,6 +16,7 @@ comparePrice: 115.0 EUR
 prodname: 'American Tourister Jetglam Spinner S Equipaje de Mano  55 cm  35.5 L  Plata  Metallic Silver '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P6RVWGK/?tag=tolees-21'
 descuento: '30.00'
 average: '84.09333333333333'

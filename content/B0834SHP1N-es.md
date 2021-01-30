@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'yootech Adaptador USB C a USB 3.0 [4 Pack]  Uso en Paralelo con OTG，Conector de tranferencia de Datos para Samsung  Huawei  MacBook Pro 2019/2018  ChromeBook Pixel y Otros Dispositivos con USB C'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0834SHP1N/?tag=tolees-21'
 descuento: '27.78'
 average: '6.784285714285714'

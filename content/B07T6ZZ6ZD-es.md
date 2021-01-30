@@ -16,6 +16,7 @@ comparePrice: 55.99 EUR
 prodname: 'Foco LED Proyector 50W  Super Brillante Luz de Trabajo 4500LM  3 Modos Foco LED Reflector para Trabajo Exterior Impermeable IP66  Focos LED Exterior con Cable de 5 Metros  1 gancho  AC100-265V'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T6ZZ6ZD/?tag=tolees-21'
 descuento: '29.11'
 average: '37.85666666666666'

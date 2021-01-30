@@ -16,6 +16,7 @@ comparePrice: 139.99 EUR
 prodname: 'Destornillador Eléctrico Inalámbrico  LOMVUM LV401 4V Taladros Atornilladores  2000mAh Batería de Litio Par Máximo: 4 N.m  Cable de carga USB'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RZKJRB5/?tag=tolees-21'
 descuento: '73.58'
 average: '36.99'

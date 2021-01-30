@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Kickers Bonbon  Botas Unisex bebé  Violeta  Violeta Oscuro 142   22 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZNXZPX/?tag=tolees-21'
 descuento: '80.03'
 average: '13.225000000000001'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'HUNDA Cargador Surface Pro 44W 15V 2.58A Surface Cargador para Surface Pro 6/Pro 5/Pro 4/Pro 3  Surface Laptop/Surface Book/Surface Go Modelo 1706 con Puerto del USB y Cable Extensión Alimentación'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085KWVMNQ/?tag=tolees-21'
 descuento: '32.51'
 average: '26.99'

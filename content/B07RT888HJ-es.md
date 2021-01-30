@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Pepe Jeans Rick suéter  Gris  Light Grey Marl 913   Talla única  Talla del Fabricante: Small  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RT888HJ/?tag=tolees-21'
 descuento: '58.12'
 average: '31.41'

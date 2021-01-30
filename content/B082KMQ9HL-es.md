@@ -16,6 +16,7 @@ comparePrice: 159.99 EUR
 prodname: 'Proyector  WiMiUS 5500 Lúmenes Proyector Portátil Full HD Soporta 1080P Proyector Cine en casa 720P Nativo con Audio Hi-Fi Pantalla 200 " Mini Video Proyector LED 60000 Horas HDMI/VGA/AV/ TF/USB'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082KMQ9HL/?tag=tolees-21'
 descuento: '44.97'
 average: '93.73333333333332'

@@ -16,6 +16,7 @@ comparePrice: 27.95 EUR
 prodname: 'HIKARO Pantalones Jogger Hombre  Verde  Khaki   50  Talla del fabricante: Small '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077YDGGF9/?tag=tolees-21'
 descuento: '49.98'
 average: '13.98'

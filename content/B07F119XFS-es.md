@@ -16,6 +16,7 @@ comparePrice: 38.99 EUR
 prodname: 'LA HAUTE - Paréo - Bustier - Femme - Noir - 38'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F119XFS/?tag=tolees-21'
 descuento: '60.71'
 average: '15.07'

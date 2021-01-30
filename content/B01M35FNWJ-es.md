@@ -16,6 +16,7 @@ comparePrice: 219.95 EUR
 prodname: 'Kyocera Ecosys P5021cdn - Impresora láser a color  21 ppm  A4  doble cara  1200 dpi  USB 2.0  - Soporte de Mobile Print para smartphone y tablet'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M35FNWJ/?tag=tolees-21'
 descuento: '31.80'
 average: '150'

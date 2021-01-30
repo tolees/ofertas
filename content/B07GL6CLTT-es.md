@@ -16,6 +16,7 @@ comparePrice: 154.99 EUR
 prodname: 'HyperX Predator HX432C16PB3AK2/16 Memoria 3200MHz DDR4 CL16 DIMM XMP 16GB  2x8GB  RGB'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GL6CLTT/?tag=tolees-21'
 descuento: '37.01'
 average: '106.17333333333333'

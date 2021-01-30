@@ -16,6 +16,7 @@ comparePrice: 46.43 EUR
 prodname: 'Silverline 845318 - Herramientas para soldadura eléctrica  9 pzas  100 W / 30 W '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0034AZO6I/?tag=tolees-21'
 descuento: '29.49'
 average: '32.24'

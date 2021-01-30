@@ -16,6 +16,7 @@ comparePrice: 10.15 EUR
 prodname: 'TRIXIE 12 Pañales Perros ultra absorbentes  M  Perro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0057G0TOY/?tag=tolees-21'
 descuento: '31.13'
 average: '6.99'

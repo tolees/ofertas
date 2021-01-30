@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Tom Tailor Leichter suéter  Multicolor  Multi Color Melange 19637   XXX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V5HNWML/?tag=tolees-21'
 descuento: '80.15'
 average: '7.94'

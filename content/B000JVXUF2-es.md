@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Nuby ID91164  Set De Recipientes Herméticos  Multicolor  300 ml  Pack de 6'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000JVXUF2/?tag=tolees-21'
 descuento: '32.53'
 average: '8.06'

@@ -16,6 +16,7 @@ comparePrice: 215.98 EUR
 prodname: 'TONGJI Vitrina de Acrílico Compatible con Lego 75159 Star Wars TM - Death Star  Vitrina A Prueba De Polvo  Modelo No Incluido '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083TPM2D8/?tag=tolees-21'
 descuento: '50.00'
 average: '107.99'

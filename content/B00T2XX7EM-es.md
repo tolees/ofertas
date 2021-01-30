@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Remington Reveal FC1000 - Cepillo Limpiador Facial  Cabezal Giratorio  3 Accesorios  Uso Seco y Mojado  Verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00T2XX7EM/?tag=tolees-21'
 descuento: '43.94'
 average: '60.67'

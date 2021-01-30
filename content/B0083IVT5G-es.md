@@ -16,6 +16,7 @@ comparePrice: 104.69 EUR
 prodname: 'IBRA® Promo - 15m- Cable HDMI de alta velocidad | nuevo modelo 2.0 | 4K Ultra HD 2160p | 3D Full HD 1080p | Ethernet y ARC'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0083IVT5G/?tag=tolees-21'
 descuento: '61.97'
 average: '39.81'

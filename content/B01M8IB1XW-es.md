@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Superga 2750-cotu Classic  Zapatillas de Gimnasia Unisex Adulto  Rosa  Pink 915   50 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M8IB1XW/?tag=tolees-21'
 descuento: '68.98'
 average: '19.17'

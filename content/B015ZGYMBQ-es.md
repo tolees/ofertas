@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'L Oréal Paris Make-up designer Brocha para Contouring'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B015ZGYMBQ/?tag=tolees-21'
 descuento: '62.38'
 average: '9.475'

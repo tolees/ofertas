@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'Txyk Cabañas de Madera de Bricolaje Casa de muñecas en Miniatura con Muebles Hechos a Mano Dormitorio de Princesa con LED para niños y Adolescentes 15.1 x 11.6 x 13.1cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DYQYBN8/?tag=tolees-21'
 descuento: '28.59'
 average: '14.99'

@@ -16,6 +16,7 @@ comparePrice: 349.0 EUR
 prodname: 'Samsung Galaxy A50 - Smartphone de 6.4" FHD sAmoled Infinity U Display  4 GB RAM  128 GB ROM  25 MP  Exynos 9610  Carga rápida   Azul [versión española]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PDZM748/?tag=tolees-21'
 descuento: '25.50'
 average: '287.9522222222222'

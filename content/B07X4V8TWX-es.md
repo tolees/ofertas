@@ -16,6 +16,7 @@ comparePrice: 130.0 EUR
 prodname: 'Envasadoras al vacío  Padi Home El Aparato para envasar al vacio  Comida se Mantiene Fresco con hasta 8 Veces Más  Ideal para Almacenamiento de Alimentos Incluye 10 Alta Calidad Vacuum Bolsa  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X4V8TWX/?tag=tolees-21'
 descuento: '69.24'
 average: '37.32333333333334'

@@ -16,6 +16,7 @@ comparePrice: 35.95 EUR
 prodname: 'UGEARS Coche Grand Prix U-9 - Kit de Montaje Coche de carreras - 3D Rompecabezas de Madera DIY'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077RYYYQY/?tag=tolees-21'
 descuento: '37.55'
 average: '22.45'

@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'Lote de 4 vasitos para bebé Nuby  300 ml  a partir de 12 meses '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004S8MDOQ/?tag=tolees-21'
 descuento: '50.19'
 average: '3.98'

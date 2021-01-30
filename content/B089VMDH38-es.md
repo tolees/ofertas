@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'Jojoin 2 pcs Walkie Talkie Niños con 8/20/22 Canales de Banda Estrecha  Larga Distancia 3KM  Función Vox  10 Tonos de Llamada  con Linterna y Brújula  Regalo y Juguete para Niños o Niñas de 3+años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089VMDH38/?tag=tolees-21'
 descuento: '58.02'
 average: '20.99'

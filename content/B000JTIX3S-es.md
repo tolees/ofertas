@@ -16,6 +16,7 @@ comparePrice: 35.58 EUR
 prodname: 'MASTER LOCK Caja fuerte para llaves [Mediana] [Montaje mural] - 5401EURD - Caja de seguridad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000JTIX3S/?tag=tolees-21'
 descuento: '27.07'
 average: '21.196'

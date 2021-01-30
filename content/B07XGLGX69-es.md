@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Skechers GO Run 400 V2  Zapatillas para Hombre  Verde Verde Verde Textil Sintético Ribete Grn  43.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XGLGX69/?tag=tolees-21'
 descuento: '50.48'
 average: '32.16'

@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'VPCOK Envasadora al vacío automático 110W Máquina del Vacío en Acero Inoxidable Sellador al vacío de Alimentos Secos y Húmedos con 10 Bolsas al vacío Conector de Succión Cuchillo de Corte y Marcador'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S7PWTTK/?tag=tolees-21'
 descuento: '28.34'
 average: '41.156666666666666'

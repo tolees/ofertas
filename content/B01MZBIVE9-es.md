@@ -16,6 +16,7 @@ comparePrice: 49.0 EUR
 prodname: 'Victoria Basket Lona Piso Negro  Zapatillas Unisex Adulto  Negro  36'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MZBIVE9/?tag=tolees-21'
 descuento: '38.20'
 average: '30.183333333333334'

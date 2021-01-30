@@ -16,6 +16,7 @@ comparePrice: 73.82 EUR
 prodname: 'Adidas Sambarose  Zapatillas Clasicas para Mujer  Blanco  Cloud White/Core Black/Gum5   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DCD679T/?tag=tolees-21'
 descuento: '25.49'
 average: '66.93666666666667'

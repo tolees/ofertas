@@ -16,6 +16,7 @@ comparePrice: 32 EUR
 prodname: 'Juvena  Aceite corporal - 100 ml.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00RMBC65C/?tag=tolees-21'
 descuento: '44.56'
 average: '20.1'

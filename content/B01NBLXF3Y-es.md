@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'Té Verde Matcha Orgánico Ceremonial En Polvo. Biológico Japonés De 1 Grado. Matcha Bio Grado Ceremonia. Ecológico Producido En Japón  Uji  Kyoto. Para Beber  En a Cocina Y Con Latte. Lata De 30g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NBLXF3Y/?tag=tolees-21'
 descuento: '27.74'
 average: '15.89'

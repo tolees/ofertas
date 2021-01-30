@@ -16,6 +16,7 @@ comparePrice: 6.2 EUR
 prodname: 'Palancas de neumáticos Schwalbe  juego de 3 piezas  - Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B016ACESVS/?tag=tolees-21'
 descuento: '67.90'
 average: '1.99'

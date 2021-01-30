@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'Under Armour Sportstyle Terry Pantalones  Hombre  Blanco  Onyx White/Onyx White 112   XXL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CZQGGM9/?tag=tolees-21'
 descuento: '45.10'
 average: '27.45'

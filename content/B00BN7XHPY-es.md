@@ -16,6 +16,7 @@ comparePrice: 12.0 EUR
 prodname: 'Atkinsons  Desodorante - 200 ml.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BN7XHPY/?tag=tolees-21'
 descuento: '63.42'
 average: '4.39'

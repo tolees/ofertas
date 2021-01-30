@@ -16,6 +16,7 @@ comparePrice: 32.08 EUR
 prodname: 'luosh Kraft Paper Roll  10m Rollo de Papel de Dibujo Blanco Niños Arte Boceto Pintura Pintura Tablero para Dibujar bocetos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089DGWLZ7/?tag=tolees-21'
 descuento: '50.00'
 average: '16.04'

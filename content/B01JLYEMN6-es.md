@@ -16,6 +16,7 @@ comparePrice: 44.17 EUR
 prodname: 'Wooden Magic Única Cereza 30 cm Sistema de ajedrez de Madera Artesanal'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01JLYEMN6/?tag=tolees-21'
 descuento: '30.29'
 average: '30.79'

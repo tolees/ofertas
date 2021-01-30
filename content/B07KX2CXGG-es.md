@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'ZARRS Pegatina de Espuma Brillo 100 Pack Pegatina de Estrella Autoadhesiva Brillante Pegatinas para Manualidades Scrapbooking Niños Colores Variados EVA 4 Sets'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KX2CXGG/?tag=tolees-21'
 descuento: '30.03'
 average: '8.39'

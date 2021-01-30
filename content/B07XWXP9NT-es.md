@@ -16,6 +16,7 @@ comparePrice: 22.84 EUR
 prodname: 'Ens-ḁnc-hḁdṎr tḁ-po-n ure-trḁl dḮlḁtḁ-dṎr enc-hufe del pene pḁ-rḁ hṎm-bres jugu-etes pḁrḁ prḮ-ncḮpḮḁntes gḁy sṎ-nḮdṎ ensḁnc-hḁdṎr cṎnju-ntṎ de sṎndḁs pṎt-encḮ-ḁdṎr ext-ensṎr ḁc-erṎ hue-cṎ'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XWXP9NT/?tag=tolees-21'
 descuento: '38.75'
 average: '13.323333333333334'

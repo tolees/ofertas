@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'PUMA Cali Bold Wn s  Zapatillas Deportivas para Mujer  White-Metallic Gold  40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KFZ2BF5/?tag=tolees-21'
 descuento: '41.98'
 average: '57.99'

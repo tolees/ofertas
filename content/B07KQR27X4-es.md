@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Salomon ALPHACROSS W  Zapatillas de Trail Running para Mujer  Blanco  White/White/White   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KQR27X4/?tag=tolees-21'
 descuento: '45.03'
 average: '49.45'

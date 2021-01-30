@@ -16,6 +16,7 @@ comparePrice: 819.0 EUR
 prodname: 'PIKOLIN  canapé abatible Gran Capacidad de almacenaje Color Gris Glaciar 150x190  Servicio de Entrega Premium Incluido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081B3HXYW/?tag=tolees-21'
 descuento: '54.34'
 average: '373.99'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Meterk Alicates para Crimpadora y Pelacables Kit  4 en 1 Mutilfuncional Kit de Herramientas de Alicate con un Destornillador  Reemplazable Alicates para Prensar Terminal de Trinquete'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GCDV3TW/?tag=tolees-21'
 descuento: '25.01'
 average: '29.99'

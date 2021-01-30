@@ -16,6 +16,7 @@ comparePrice: 161.9 EUR
 prodname: 'ZHENROG Electroestimulador Muscular Gluteos EMS Gluteos Estimulador de Glúteos Herramientas Nalgas HipTrainer para la Cadera Estimulador Muscular Ejercitar Gluteos  Hombre y Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NV67Y2C/?tag=tolees-21'
 descuento: '86.47'
 average: '67.56666666666666'

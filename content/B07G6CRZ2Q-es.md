@@ -16,6 +16,7 @@ comparePrice: 149.0 EUR
 prodname: 'Ultimate Ears Boom 3 Altavoz portátil  Bluetooth  Magic Button  Sonido de 360 grados  Protección IP67  Rojo  18.4 x 7.3 x 7.3 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G6CRZ2Q/?tag=tolees-21'
 descuento: '39.66'
 average: '89.2676923076923'

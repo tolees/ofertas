@@ -16,6 +16,7 @@ comparePrice: 57.99 EUR
 prodname: 'Maverick - Almohada de viaje de ALGODÓN. Cojín cervical viscoelástico y cómodo  ideal para el avión o el coche. Cojín reposacabezas de viaje para cuello y cervicales.Cuida de tu salud. Calidad PREMIUM'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HM9YRCY/?tag=tolees-21'
 descuento: '48.28'
 average: '29.99'

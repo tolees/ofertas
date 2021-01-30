@@ -16,6 +16,7 @@ comparePrice: 179.0 EUR
 prodname: 'Hugo BOSS - Reloj para hombre - 1513460'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NBVQ255/?tag=tolees-21'
 descuento: '33.52'
 average: '136.245'

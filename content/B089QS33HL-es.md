@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Yakuza Kiwami 2 PS Hits'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089QS33HL/?tag=tolees-21'
 descuento: '25.61'
 average: '16.48'

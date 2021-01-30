@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Asics Gel-Pulse 11  Zapatillas de Running para Hombre  Azul  Directoire Blue/White 400   44.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QT6PM1T/?tag=tolees-21'
 descuento: '35.14'
 average: '64.86'

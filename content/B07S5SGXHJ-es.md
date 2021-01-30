@@ -16,6 +16,7 @@ comparePrice: 224.1 EUR
 prodname: 'Love MoschinoJc4094pp1aMujerBolsos bandoleraBeige  Naturale 9x19x26 centimeters  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S5SGXHJ/?tag=tolees-21'
 descuento: '51.44'
 average: '108.69500000000001'

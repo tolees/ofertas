@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'NODOL ESI 60 cápsulas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00D3I0E2A/?tag=tolees-21'
 descuento: '37.89'
 average: '15.899999999999999'

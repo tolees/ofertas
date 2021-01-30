@@ -16,6 +16,7 @@ comparePrice: 24.5 EUR
 prodname: 'Shimano Alivio CSHG4009134 - Cassette Hg400 12/36 9V.  11/34 9V'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00LNH9CLW/?tag=tolees-21'
 descuento: '26.20'
 average: '18.08'

@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Funko Pop!- Pop Marvel: Deadpool-Cable Figura de Vinilo  Multicolor  30862 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079TJJGM1/?tag=tolees-21'
 descuento: '40.82'
 average: '7.838571428571429'

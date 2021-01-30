@@ -16,6 +16,7 @@ comparePrice: 1.95 EUR
 prodname: 'Baby Teething Toys Silicona suave Mordedor de frutas sin BPA natural con clip/soporte para chupete para niños pequeños y bebés - Naranja'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084YYYD2R/?tag=tolees-21'
 descuento: '33.33'
 average: '1.3'

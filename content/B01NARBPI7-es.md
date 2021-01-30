@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'SanDisk Extreme Go - Memoria flash USB 3.1 de 64 GB'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NARBPI7/?tag=tolees-21'
 descuento: '37.74'
 average: '21.12888888888889'

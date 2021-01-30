@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'BESTKEE Cinturón táctico para hombres 1.5 pulgadas  estilo militar Cinturón con hebilla Cobra con cierre rápido de hebilla de metal  regalo con bolsa táctica Molle y gancho  Negro + Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0813SMZVQ/?tag=tolees-21'
 descuento: '31.26'
 average: '16.49'

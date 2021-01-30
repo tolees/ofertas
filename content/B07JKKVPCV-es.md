@@ -16,6 +16,7 @@ comparePrice: 60.99 EUR
 prodname: 'IK Multimedia iKlip 3 - Soporte de micrófono Universal para iPad y tabletas  flexible  resistente  portátil'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JKKVPCV/?tag=tolees-21'
 descuento: '29.55'
 average: '42.97'

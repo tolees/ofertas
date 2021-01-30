@@ -16,6 +16,7 @@ comparePrice: 1.65 EUR
 prodname: 'Gembird 1.8m USB 2.0 A/Micro-B M - Cable USB 2.0 a Micro USB  1.8m  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003DQWSDK/?tag=tolees-21'
 descuento: '36.97'
 average: '0.9366666666666666'

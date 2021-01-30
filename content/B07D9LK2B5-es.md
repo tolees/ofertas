@@ -16,6 +16,7 @@ comparePrice: 68.99 EUR
 prodname: 'bugatti 3.22656E+11  Zapatillas para Hombre  Negro  Schwarz 1000   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D9LK2B5/?tag=tolees-21'
 descuento: '46.28'
 average: '34.769999999999996'

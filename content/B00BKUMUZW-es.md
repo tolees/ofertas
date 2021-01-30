@@ -16,6 +16,7 @@ comparePrice: 8.0 EUR
 prodname: 'Astor Big & Beautiful Eye Opener Máscara de Pestañas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BKUMUZW/?tag=tolees-21'
 descuento: '35.00'
 average: '5.2'

@@ -16,6 +16,7 @@ comparePrice: 1489.99 EUR
 prodname: 'Apple iPad Pro  12 9 pulgadas y 512 GB con Wi-Fi  - Plata  Modelo Anterior '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071XMDQX6/?tag=tolees-21'
 descuento: '34.50'
 average: '1017.0454545454545'

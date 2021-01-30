@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'KiplingImagine PackMujerBolsos totesVerde  Light Aloe 57x37x18 Centimeters  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TVPYVVL/?tag=tolees-21'
 descuento: '73.91'
 average: '23.22'

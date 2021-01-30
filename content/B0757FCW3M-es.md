@@ -16,6 +16,7 @@ comparePrice: 101.68 EUR
 prodname: 'Microderm GLO suero cara'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0757FCW3M/?tag=tolees-21'
 descuento: '60.67'
 average: '39.99'

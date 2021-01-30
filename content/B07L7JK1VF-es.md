@@ -16,6 +16,7 @@ comparePrice: 18.9 EUR
 prodname: 'RUNCCI 3528 2835 2 pines  8 mm Kit de conector de barra de luz LED  5X Puente de conector  5X LED conector  5 Conectores en forma de L  2 Interruptores de CC  2 Conectores completos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L7JK1VF/?tag=tolees-21'
 descuento: '52.43'
 average: '8.99'

@@ -16,6 +16,7 @@ comparePrice: 26.03 EUR
 prodname: 'Molyflower 1 PC Cámara Web HD 1080P Cámara de Video de Conferencia de Red Estudiante Net HD Clase Micrófono Cámara de computadora - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BTT6QGL/?tag=tolees-21'
 descuento: '33.50'
 average: '17.31'

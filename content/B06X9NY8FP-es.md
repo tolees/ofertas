@@ -16,6 +16,7 @@ comparePrice: 38.0 EUR
 prodname: 'Paletero Bullpadel 17004 Yellow'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06X9NY8FP/?tag=tolees-21'
 descuento: '26.58'
 average: '27.9'

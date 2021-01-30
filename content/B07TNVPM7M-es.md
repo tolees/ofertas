@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Clarks Jillian Rise  Sandalia con Pulsera para Mujer  Azul  Blush Leather Blush Leather   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TNVPM7M/?tag=tolees-21'
 descuento: '63.01'
 average: '33.27'

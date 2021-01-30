@@ -16,6 +16,7 @@ comparePrice: 42.14 EUR
 prodname: 'VTech-80-177822 Barco Pirata  cazatesoros transformable en Isla  SPB  Color Verde  80-177877 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T1V89YS/?tag=tolees-21'
 descuento: '37.40'
 average: '28.435'

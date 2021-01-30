@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Celio Pegetop Polo  Azul  Navy Blue 02 Navy Blue 02   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PSZ1NDD/?tag=tolees-21'
 descuento: '74.79'
 average: '7.56'

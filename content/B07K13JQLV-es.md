@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'adidas Tastigo19 SHO Pantalones Cortos de Deporte  Hombre  White/Black  XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K13JQLV/?tag=tolees-21'
 descuento: '38.83'
 average: '15.6175'

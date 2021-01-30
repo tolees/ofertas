@@ -16,6 +16,7 @@ comparePrice: 31.35 EUR
 prodname: 'Estuches Multicolor PRINCESAS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NVY62FB/?tag=tolees-21'
 descuento: '44.18'
 average: '17.4325'

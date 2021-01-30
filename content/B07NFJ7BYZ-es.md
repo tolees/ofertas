@@ -16,6 +16,7 @@ comparePrice: 33.19 EUR
 prodname: 'Casio Reloj Analógico para Unisex Adultos de Cuarzo con Correa en Resina MW-240-7EVEF'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NFJ7BYZ/?tag=tolees-21'
 descuento: '45.77'
 average: '17.166874999999997'

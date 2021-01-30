@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Skechers Metco-Parken  Zapatillas para Hombre  Gris  Gray Black Mesh Gybk   39.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NZY7DC7/?tag=tolees-21'
 descuento: '54.03'
 average: '31.113333333333333'

@@ -16,6 +16,7 @@ comparePrice: 391.99 EUR
 prodname: 'Plugable Docking Station con Triple Pantalla 4K USB-C con Suministro de Carga para Sistemas específicos de Windows USB C y Thunderbolt 3  1 HDMI y 2 DisplayPort++  5 Puertos de USB  60W USB PD '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078WYHGY9/?tag=tolees-21'
 descuento: '40.75'
 average: '232.27'

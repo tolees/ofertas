@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'PowerBar PowerGel Hydro Cola 24x67ml - Gel Energético de Alto Carbono + C2MAX Magnesio y Sodio + 100mg Cafeína'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MBGL8Z6/?tag=tolees-21'
 descuento: '33.99'
 average: '33.504285714285714'

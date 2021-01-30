@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Braun 51B - Recambio para afeitadora eléctrica hombre  compatible con el modelo WaterFlex  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KG66OOE/?tag=tolees-21'
 descuento: '34.03'
 average: '23.95'

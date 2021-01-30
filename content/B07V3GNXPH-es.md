@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'PUMA by Scarpe&Scarpe - Scarpe sportive Sport - 9 0  Nero'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V3GNXPH/?tag=tolees-21'
 descuento: '40.00'
 average: '42.0'

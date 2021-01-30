@@ -16,6 +16,7 @@ comparePrice: 22.29 EUR
 prodname: 'Protector Trasero para iPhone X + Lente Protector de Pantalla  EUGO Ultra Delgado 9H Tempered Glass Protector de Pantalla Cristal Templado Trasero para iPhone X'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078N5GM6R/?tag=tolees-21'
 descuento: '64.20'
 average: '7.98'

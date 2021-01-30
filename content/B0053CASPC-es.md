@@ -16,6 +16,7 @@ comparePrice: 11.11 EUR
 prodname: 'Terminator Salvation [DVD]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0053CASPC/?tag=tolees-21'
 descuento: '37.44'
 average: '6.95'

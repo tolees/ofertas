@@ -16,6 +16,7 @@ comparePrice: 44.95 EUR
 prodname: 'Rinat Kit Hypernova Conjunto de Portero  Unisex Adulto  Morado/Neón/Fucsia  YS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IN1UDJA/?tag=tolees-21'
 descuento: '66.63'
 average: '15.0'

@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'Storeofbaby Paños de baño de bebé Reutilizable Ultra suave Toalla de mano pequeña 6 paquete de 10"x 10"'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DYJYFPF/?tag=tolees-21'
 descuento: '42.88'
 average: '11.99'

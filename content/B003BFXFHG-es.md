@@ -16,6 +16,7 @@ comparePrice: 118.17 EUR
 prodname: 'HP CE278A 78A Cartucho de Tóner Original  1 unidad  negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003BFXFHG/?tag=tolees-21'
 descuento: '38.30'
 average: '75.955'

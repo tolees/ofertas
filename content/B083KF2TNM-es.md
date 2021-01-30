@@ -16,6 +16,7 @@ comparePrice: 141.74 EUR
 prodname: 'Voodoo Vixen Nicole Red 40s Style Mujer Abrigos Burdeos/Negro L  75% poliacrílico  25% Lana '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083KF2TNM/?tag=tolees-21'
 descuento: '33.34'
 average: '94.49'

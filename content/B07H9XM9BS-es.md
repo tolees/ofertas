@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Lampara Luna 3D LED Moon Lamp  AUELEK 15cm Lámpara magica de Luna  3 Colores Control Táctil  Recargable de USB  Lámpara para Decoración Habitación  Regalo de Cumpleaños  Año Nuevo y Aniversario'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H9XM9BS/?tag=tolees-21'
 descuento: '50.01'
 average: '19.556666666666665'

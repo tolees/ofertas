@@ -16,6 +16,7 @@ comparePrice: 121.69 EUR
 prodname: 'Caja de luz iluminadora de película de rayos X LED  Panel de luz de visor de rayos X  Visor de película de dientes AC110-220V Caja de vista LED con abrazadera de chip  EU Plug '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q4PSDJC/?tag=tolees-21'
 descuento: '82.67'
 average: '21.09'

@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'JACK JONES Jorflash Crew Neck Hombre  Azul  Sea Mossno Badge Knit Fit   Medium'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VN3QCJG/?tag=tolees-21'
 descuento: '59.99'
 average: '13.996666666666668'

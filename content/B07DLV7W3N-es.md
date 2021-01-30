@@ -16,6 +16,7 @@ comparePrice: 205.0 EUR
 prodname: 'SAMSONITE Pro-DLX 5 - Bailhandle for 14.1   Laptop 1 KG Maletín  37 cm  8.5 Liters  Negro  Black '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DLV7W3N/?tag=tolees-21'
 descuento: '31.54'
 average: '134.73000000000002'

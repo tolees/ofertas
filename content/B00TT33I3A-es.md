@@ -16,6 +16,7 @@ comparePrice: 13.34 EUR
 prodname: 'Bahco 2485 BH2485'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00TT33I3A/?tag=tolees-21'
 descuento: '56.37'
 average: '5.82'

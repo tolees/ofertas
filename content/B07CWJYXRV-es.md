@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'YOUNGDO Mini Pala Plegable Militar Multifuncional 10 en 1 para Acampar  excursión  mochilero  Pesca  Herramienta Que aprieta de la Trinchera  la Emergencia del Coche'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CWJYXRV/?tag=tolees-21'
 descuento: '42.88'
 average: '11.99'

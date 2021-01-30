@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'Skip Hop Zoo Dog - Tarro aislado del alimento  325ml  12m+'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00LMV9HMS/?tag=tolees-21'
 descuento: '41.20'
 average: '12.93'

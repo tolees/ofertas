@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'Soulcalibur VI - Edición Coleccionista'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DPWVZFB/?tag=tolees-21'
 descuento: '52.63'
 average: '77.03333333333333'

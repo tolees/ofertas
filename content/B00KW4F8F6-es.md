@@ -16,6 +16,7 @@ comparePrice: 18.14 EUR
 prodname: 'NUK 10255253 - Biberón con asas  botella de acero inoxidable  125 ml  color: rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KW4F8F6/?tag=tolees-21'
 descuento: '35.01'
 average: '11.79'

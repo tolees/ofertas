@@ -16,6 +16,7 @@ comparePrice: 6.95 EUR
 prodname: 'Bote 3 unidades Pelotas Nox'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0101HXZ1W/?tag=tolees-21'
 descuento: '28.78'
 average: '4.95'

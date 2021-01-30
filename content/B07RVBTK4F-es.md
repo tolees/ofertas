@@ -16,6 +16,7 @@ comparePrice: 150.0 EUR
 prodname: 'SNK NEO GEO MINI Samurai Shodown V ED. Haohmara'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RVBTK4F/?tag=tolees-21'
 descuento: '26.73'
 average: '122.21000000000001'

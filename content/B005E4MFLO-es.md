@@ -16,6 +16,7 @@ comparePrice: 2473.24 EUR
 prodname: 'Bosch Professional GSH 27 VC - Martillo demoledor  62 J  Hex 28 mm  Vibration Control  en caja '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005E4MFLO/?tag=tolees-21'
 descuento: '34.70'
 average: '1615.0'

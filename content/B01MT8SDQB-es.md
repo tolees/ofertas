@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Funko Vinyl: Rick & Morty: Squanchy  12444 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MT8SDQB/?tag=tolees-21'
 descuento: '26.68'
 average: '12.64'

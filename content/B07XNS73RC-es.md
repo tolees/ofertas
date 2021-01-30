@@ -16,6 +16,7 @@ comparePrice: 27.07 EUR
 prodname: 'Goldyqin Pantalla monocromática Professional HD 1536kbps Special T60 Recorder USB 2.0 8G - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XNS73RC/?tag=tolees-21'
 descuento: '31.99'
 average: '18.41'

@@ -16,6 +16,7 @@ comparePrice: 39.0 EUR
 prodname: 'Kipling Travel Doc Wrist Cartera para Pasaporte  23 cm  1 Liters  Negro  Charcoal '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V6SW9PB/?tag=tolees-21'
 descuento: '30.00'
 average: '21.425'

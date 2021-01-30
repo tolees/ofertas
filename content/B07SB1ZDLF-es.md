@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Helly Hansen HH Ball Cap Gorra  Unisex Adulto  Grey Fog  STD'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SB1ZDLF/?tag=tolees-21'
 descuento: '48.04'
 average: '12.99'

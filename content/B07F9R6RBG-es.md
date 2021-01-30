@@ -16,6 +16,7 @@ comparePrice: 30.47 EUR
 prodname: 'Hetoco Azucarero de cerámica con Tapa y Cuchara de Acero Inoxidable para el hogar y la Cocina  diseño de Flores  Color Blanco Flor.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F9R6RBG/?tag=tolees-21'
 descuento: '50.64'
 average: '15.465'

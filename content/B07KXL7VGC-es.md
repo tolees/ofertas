@@ -16,6 +16,7 @@ comparePrice: 95.23 EUR
 prodname: 'Asics Gel-Pulse 10 1012a010-002  Zapatillas de Entrenamiento para Mujer  Negro  Black 1012a010/002   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KXL7VGC/?tag=tolees-21'
 descuento: '67.46'
 average: '30.99'

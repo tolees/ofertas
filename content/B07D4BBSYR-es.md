@@ -16,6 +16,7 @@ comparePrice: 16.0 EUR
 prodname: 'Yizhet 5 Piezas de Lámpara Super Brillante de 6 LEDs UEB Tarjeta de bolsillo Bombilla USB Tipo Llavero Regulador Táctil Ajustable Luz Blanca'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D4BBSYR/?tag=tolees-21'
 descuento: '50.06'
 average: '7.99'

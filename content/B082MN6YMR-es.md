@@ -16,6 +16,7 @@ comparePrice: 34.97 EUR
 prodname: 'Bewater™ Corrector de Postura Espalda - Nueva versión 3.0 - Espalda Recta Mujer Hombre y Niños – Enderezador de Espalda Transpirable - Corrector Postural Ajustable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082MN6YMR/?tag=tolees-21'
 descuento: '54.42'
 average: '15.94'

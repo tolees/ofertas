@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Spigen Rugged Armor Pro Compatible con Apple Watch Funda para 42mm Serie 3/2/1/Original  2015  - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075FJCM4G/?tag=tolees-21'
 descuento: '33.34'
 average: '19.99'

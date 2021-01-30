@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Dickies Kerman Pantalones  Marrón  Brown Duck BD    Tamaño del Fabricante:28/30  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N29LLV1/?tag=tolees-21'
 descuento: '75.47'
 average: '16.1275'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Prime Pantalones de Trabajo para Hombre BLJ-02  BL001  32W X 34L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074ZRMYKM/?tag=tolees-21'
 descuento: '37.51'
 average: '24.99'

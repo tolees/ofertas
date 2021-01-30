@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'adidas Stan Smith W  Zapatillas de Gimnasia para Mujer  Blanco  FTWR White/Collegiate Burgundy/FTWR White FTWR White/Collegiate Burgundy/FTWR White   36 2/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SRCNG32/?tag=tolees-21'
 descuento: '40.02'
 average: '59.95'

@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Intex 56286EU - Patito mega hinchable 221X221x122 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N4I4VN5/?tag=tolees-21'
 descuento: '25.16'
 average: '29.9'

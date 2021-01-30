@@ -16,6 +16,7 @@ comparePrice: 17.95 EUR
 prodname: 'Complejo multivitamínico con Vitamina D 3 para hombre y mujer  a base de vitaminas y minerales. Reduce el cansancio  la fatiga y refuerza el sistema inmunitario. 90 cápsulas.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00QI4ZGOM/?tag=tolees-21'
 descuento: '33.37'
 average: '11.8575'

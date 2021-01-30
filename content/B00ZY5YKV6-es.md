@@ -16,6 +16,7 @@ comparePrice: 22.49 EUR
 prodname: 'Roc Soleil-Protect Leche Hidratante Corporal Protección Alta 30-200 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ZY5YKV6/?tag=tolees-21'
 descuento: '58.29'
 average: '9.8'

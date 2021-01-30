@@ -16,6 +16,7 @@ comparePrice: 7.14 EUR
 prodname: 'Veet Bandas de Cera Fria Depilatoria para Depilación Facial con Manteca de Karité y Bayas de Açaí  Easy Gelwax  Pieles Normales  20 Bandas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MY3I6OP/?tag=tolees-21'
 descuento: '40.06'
 average: '4.28'

@@ -16,6 +16,7 @@ comparePrice: 59.98 EUR
 prodname: 'Exprimidor Eléctrico  Aicok Exprimidor Zumo de naranjas  100 W  2 Conos Desmontables  Sistema Antigoteo  Pies Antideslizantes  Acero Inoxidable  Apto para lavavajillas  Sin BPA'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0792ZJ4QT/?tag=tolees-21'
 descuento: '41.68'
 average: '34.88354838709677'

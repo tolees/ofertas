@@ -16,6 +16,7 @@ comparePrice: 31.35 EUR
 prodname: 'PLUMIER Triple Giotto Premium Toy Story'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NVZVMZ8/?tag=tolees-21'
 descuento: '51.20'
 average: '15.3'

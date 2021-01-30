@@ -16,6 +16,7 @@ comparePrice: 31.0 EUR
 prodname: 'Chubasquero cortavientos de entretiempo de Geographical Norway negro S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01E3TSCV2/?tag=tolees-21'
 descuento: '35.81'
 average: '26.45'

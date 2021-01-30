@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Wilson Tour Slam - Raqueta de Tenis para Adulto - WRT32200U3  4 3/8"  Verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00RZTV5B2/?tag=tolees-21'
 descuento: '40.02'
 average: '35.99'

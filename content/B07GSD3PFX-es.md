@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'Bourjois Velvet The Lipstick Barra De Labios Tono 023 Taupe of Paris - 23 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GSD3PFX/?tag=tolees-21'
 descuento: '70.55'
 average: '2.93'

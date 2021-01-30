@@ -16,6 +16,7 @@ comparePrice: 8.03 EUR
 prodname: 'Salki 8500301.0 Pistola Encoladora de Silicona  25 W  240 V  Verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00GNXO2RA/?tag=tolees-21'
 descuento: '42.09'
 average: '4.241666666666667'

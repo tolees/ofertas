@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'iEGrow Mini Ventiladores de Mano  Ventilador Portátil USB con Batería Recargable  Ventiladores Plegables con 3 Velocidades para Oficina/Hogar/Viajes/Exterior  Azul  …'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01F3HE5UA/?tag=tolees-21'
 descuento: '57.93'
 average: '7.99'

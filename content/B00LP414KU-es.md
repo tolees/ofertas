@@ -16,6 +16,7 @@ comparePrice: 6.5 EUR
 prodname: 'Bourjois Contour Clubbing; Delineador de Ojos. Tono 57 Up and brown - 1.2 gr.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00LP414KU/?tag=tolees-21'
 descuento: '46.15'
 average: '2.5557142857142856'

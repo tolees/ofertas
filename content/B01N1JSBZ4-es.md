@@ -16,6 +16,7 @@ comparePrice: 4.0 EUR
 prodname: 'PRO PRBT0018 - Bote Porta Herramientas  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N1JSBZ4/?tag=tolees-21'
 descuento: '28.75'
 average: '2.9250000000000003'

@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Marvel Avengers: Infinity War Hero Vision Iron Man AR Experience'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B6LTC5Q/?tag=tolees-21'
 descuento: '60.01'
 average: '19.99'

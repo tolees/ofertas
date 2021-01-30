@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Superdry Classic Lite Micro Pique Polo  Verde  Army Green 43e   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P2BBB4K/?tag=tolees-21'
 descuento: '62.13'
 average: '18.93'

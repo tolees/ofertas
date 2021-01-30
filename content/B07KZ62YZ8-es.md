@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'Mr Wonderful Ratón Inalámbrico Bluetooth con Carcasa Intercambiable - Diseño Flamencos de Colores Amarillo  Rosa y Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KZ62YZ8/?tag=tolees-21'
 descuento: '30.08'
 average: '13.95'

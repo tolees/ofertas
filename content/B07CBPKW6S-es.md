@@ -16,6 +16,7 @@ comparePrice: 49.0 EUR
 prodname: 'Victoria Basket Lona Plataforma Autoclave  Zapatillas para Mujer  Blanco  Blanco 20   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CBPKW6S/?tag=tolees-21'
 descuento: '38.16'
 average: '30.3'

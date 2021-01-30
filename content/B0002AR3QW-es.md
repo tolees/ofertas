@@ -16,6 +16,7 @@ comparePrice: 12.6 EUR
 prodname: 'Exo Terra Infra-Rojo Nocturno Heat GLO  100 W'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0002AR3QW/?tag=tolees-21'
 descuento: '34.60'
 average: '8.24'

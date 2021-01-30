@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'KUNGYO Portarrollos de Cocina Dispensador de Película Adhesiva en Pared  Soporte de Almacenamiento Desmontable del Acero Inoxidable para Papel de Aluminio  Plata  Perforación '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QH9XCXL/?tag=tolees-21'
 descuento: '28.59'
 average: '14.49'

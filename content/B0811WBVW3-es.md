@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'TACKLIFE- 10 Pulgadas Alicates Extensibles  Tenaza de Tipo V Multidentado  Alicates de Lengüeta y Ranura con Botón de Ajuste Rápido  Tamaño Máximo de Apertura con Una Mano 1.77" 45MM  - TGP1B'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0811WBVW3/?tag=tolees-21'
 descuento: '28.01'
 average: '18.739999999999995'

@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'Wand Vi-brador para Mu-jeres  Wysgvazgv Pun-to G Ma-sajeador 10 Modes 20 Frecuencias Clí-toris con-solador Silicón USB Carga Impermeable Ma-sturbador Sex-uales Ju-guetes Parejas Adultos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MCL4BCJ/?tag=tolees-21'
 descuento: '60.62'
 average: '12.99'

@@ -16,6 +16,7 @@ comparePrice: 14.1 EUR
 prodname: 'Bella Aurora Doble Fuerza Crema Anti-Manchas - 30 ml.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BN7Z6H6/?tag=tolees-21'
 descuento: '40.35'
 average: '8.33'

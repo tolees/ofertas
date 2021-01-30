@@ -16,6 +16,7 @@ comparePrice: 13.64 EUR
 prodname: 'Apisérum Vitamax Viales Bebibles- Aporte de Energía Extra y Vitalidad Favorece el rendimiento físico e intelectual Con Jalea Real  Vitaminas  Minerales  Aminoácidos  Ginseng  Tratamiento para 18 días'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KXBSD4H/?tag=tolees-21'
 descuento: '45.38'
 average: '13.389999999999999'

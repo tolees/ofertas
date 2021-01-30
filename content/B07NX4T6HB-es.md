@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Igi&Co Uomo Gore-tex-41367  Zapatillas de Gimnasia para Hombre  Negro 4136700  43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NX4T6HB/?tag=tolees-21'
 descuento: '61.13'
 average: '38.83'

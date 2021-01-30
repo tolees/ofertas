@@ -16,6 +16,7 @@ comparePrice: 139.0 EUR
 prodname: 'Daniel Wellington Reloj Analógico para Unisex de Cuarzo con Correa en Tela DW00100151'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M1CWQ50/?tag=tolees-21'
 descuento: '52.36'
 average: '69.28545454545454'

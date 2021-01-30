@@ -16,6 +16,7 @@ comparePrice: 7.88 EUR
 prodname: 'Slumberzzz - Pantuflas/Zapatillas de Estar por casa con Lentejuelas para Mujer  38-39 EU   Ciruela '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H1T5Z2Q/?tag=tolees-21'
 descuento: '53.05'
 average: '3.7'

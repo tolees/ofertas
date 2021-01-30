@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Funko Pop!- Disney Aladdin: Jafar Figura de Vinilo  24403 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07599YSKN/?tag=tolees-21'
 descuento: '26.75'
 average: '9.218'

@@ -16,6 +16,7 @@ comparePrice: 7.83 EUR
 prodname: 'K2  de Alta Temperatura de Silicona  Masilla  dichtsi LIKON  hochtemperaturbeständig hasta + 350   °C  Negro  85  g Tube'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00GFACVWO/?tag=tolees-21'
 descuento: '30.65'
 average: '5.43'

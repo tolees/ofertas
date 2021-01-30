@@ -16,6 +16,7 @@ comparePrice: 28.5 EUR
 prodname: 'find. Mdr 40444  vestidos mujer Mujer  Rojo  Red Mehrfarbig   40  Talla del fabricante: Medium '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073WZR6LH/?tag=tolees-21'
 descuento: '60.00'
 average: '15.2'

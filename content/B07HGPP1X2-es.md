@@ -16,6 +16,7 @@ comparePrice: 46.22 EUR
 prodname: 'Funko Harry Potter: Hogwarts Express Mystery Box'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HGPP1X2/?tag=tolees-21'
 descuento: '35.20'
 average: '23.85'

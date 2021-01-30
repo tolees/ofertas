@@ -16,6 +16,7 @@ comparePrice: 6.75 EUR
 prodname: 'Bourjois Contour Edition Perfilador de Labios Tono 01 Nude wave - 4 gr.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00O32UOBQ/?tag=tolees-21'
 descuento: '82.22'
 average: '2.1333333333333333'

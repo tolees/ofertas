@@ -16,6 +16,7 @@ comparePrice: 7.9 EUR
 prodname: 'OGX  Champú Hidratante de Agua de Coco  Cabellos Deshidratados  385 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01A8JFXBS/?tag=tolees-21'
 descuento: '25.57'
 average: '5.87'

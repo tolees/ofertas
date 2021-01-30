@@ -16,6 +16,7 @@ comparePrice: 12.95 EUR
 prodname: 'Mr. Wonderful WOA09851ES  Calendario de Sobremesa 2020  Talla Única  Multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SRF34BC/?tag=tolees-21'
 descuento: '49.96'
 average: '6.4270000000000005'

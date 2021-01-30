@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Levoit Purificador de Aire para Hogar  Oficina y Escritorio con Filtro HEPA de Eficiencia 99 97%  Liviano y Portátil con Diseño Compacto para Alergia  Tabaco  Olor  Caspas de Mascotas  Azul  LV-H126'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FVKQXGF/?tag=tolees-21'
 descuento: '42.86'
 average: '41.239999999999995'

@@ -16,6 +16,7 @@ comparePrice: 16.2 EUR
 prodname: 'Classic Color Pack Crayons  96 Colors/Box'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00007JQQP/?tag=tolees-21'
 descuento: '36.11'
 average: '10.35'

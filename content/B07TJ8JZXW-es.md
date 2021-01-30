@@ -16,6 +16,7 @@ comparePrice: 149.0 EUR
 prodname: 'Harmont & Blaine Lrd123020989 Polo  Blanco  100 Bianco 100   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TJ8JZXW/?tag=tolees-21'
 descuento: '67.83'
 average: '47.94'

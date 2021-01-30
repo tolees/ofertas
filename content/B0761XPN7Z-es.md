@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Adidas Gazelle J  Zapatillas de Gimnasia Unisex Adulto  Rosa  Icey Pink F17/Ftwr White/Gold Met. Icey Pink F17/Ftwr White/Gold Met.   38 2/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0761XPN7Z/?tag=tolees-21'
 descuento: '41.62'
 average: '35.0'

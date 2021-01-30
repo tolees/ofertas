@@ -16,6 +16,7 @@ comparePrice: 20.78 EUR
 prodname: 'Comfysail 2Pcs Dispensador de Leche en Polvo para Lactantes Viajes 4 Compartimientos Fórmula Sin Derrames'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GXJMFQQ/?tag=tolees-21'
 descuento: '48.12'
 average: '10.78'

@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'Sloggi Zero Feel Bralette Ex Sujetador estilo   Rojo  Bordeaux 3407     S para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFXF3TL/?tag=tolees-21'
 descuento: '68.24'
 average: '11.1'

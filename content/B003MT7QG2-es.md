@@ -16,6 +16,7 @@ comparePrice: 137.5 EUR
 prodname: 'Papel de Armenia rosas  12 uds'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003MT7QG2/?tag=tolees-21'
 descuento: '97.41'
 average: '3.7300000000000004'

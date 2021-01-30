@@ -16,6 +16,7 @@ comparePrice: 64.4 EUR
 prodname: 'BSN Nutrition Syntha 6 Edge Whey Protein Isolate  Proteinas para Masa Muscular  Suplementos Deportivos en Polvo con Proteinas Whey  Batido de Fresa  48 Porciones  1.78kg'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00X04EJVO/?tag=tolees-21'
 descuento: '45.81'
 average: '34.35'

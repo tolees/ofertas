@@ -16,6 +16,7 @@ comparePrice: 10.0 EUR
 prodname: 'SALOMON Evasion 2-Pack 2 Pares de Calcetines Tobilleros  Unisex Adulto  Verde  Urban Chic/Balsam Green   M  39-41 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KP2JR4W/?tag=tolees-21'
 descuento: '40.00'
 average: '6.0'

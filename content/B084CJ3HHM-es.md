@@ -16,6 +16,7 @@ comparePrice: 12.27 EUR
 prodname: 'REAL TECHNIQUES Light Layer Blush - Brocha de maquillaje para coloretes en crema y polvo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084CJ3HHM/?tag=tolees-21'
 descuento: '43.03'
 average: '6.99'

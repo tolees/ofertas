@@ -16,6 +16,7 @@ comparePrice: 56.52 EUR
 prodname: 'BRA Plancha Asar  Negro  40 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0123ZWFRK/?tag=tolees-21'
 descuento: '32.29'
 average: '37.8'

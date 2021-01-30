@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'ratón gaming HAVIT RGB 10000 DPI y 14 botones programables]  panel lateral reemplazable  8 botones / 8 + 6 botones laterales del ratón   diseño ergonómico del panel derecho reemplazable  negro  MS760'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01KV1IMMU/?tag=tolees-21'
 descuento: '27.60'
 average: '26.81'

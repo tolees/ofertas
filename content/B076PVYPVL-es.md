@@ -16,6 +16,7 @@ comparePrice: 60.48 EUR
 prodname: 'Skechers Women s Ultra Flex - First Take Slip On Trainers  Black  Black Bbk   4 UK 37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076PVYPVL/?tag=tolees-21'
 descuento: '27.25'
 average: '44.0'

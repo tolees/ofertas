@@ -16,6 +16,7 @@ comparePrice: 8.95 EUR
 prodname: 'L Oréal Paris Infalible Gel Laca de Uñas  Tono 001 Stay Nue'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00LPLBMNW/?tag=tolees-21'
 descuento: '35.42'
 average: '5.78'

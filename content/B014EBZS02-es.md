@@ -16,6 +16,7 @@ comparePrice: 35 EUR
 prodname: 'Salomon Trail Gaiters Low Polainas Bajas para Senderismo y Carrera  Protección para los Tobillos  Unisex Adulto  Negro  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B014EBZS02/?tag=tolees-21'
 descuento: '33.63'
 average: '23.23'

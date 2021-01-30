@@ -16,6 +16,7 @@ comparePrice: 6.81 EUR
 prodname: '4 UNIDS/SET Universal Car SUV Asiento Trasero Reposacabezas Ganchos de Almacenamiento Asiento de Vehículo Sostenedores Traseros Accesorios Del Coche Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KG1T8HX/?tag=tolees-21'
 descuento: '33.04'
 average: '4.56'

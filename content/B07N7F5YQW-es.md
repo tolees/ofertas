@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'EMPIRE GAMING – Nuevo – Ratón Gamer por Cable Hellhounds – 7200 dpi – 7 Botones programables con Software – Retroiluminación RGB – Forma ergonómica'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N7F5YQW/?tag=tolees-21'
 descuento: '53.21'
 average: '13.99'

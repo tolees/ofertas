@@ -16,6 +16,7 @@ comparePrice: 9.41 EUR
 prodname: 'Hurley Frame Work PRM tee SS Camisetas  Hombre  iglu  XXL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KCVSH8B/?tag=tolees-21'
 descuento: '44.00'
 average: '5.27'

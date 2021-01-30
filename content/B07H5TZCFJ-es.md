@@ -16,6 +16,7 @@ comparePrice: 79.0 EUR
 prodname: 'Fujifilm Instax Mini 9 - Cámara instantanea  solo cámara  Rosa Suave'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H5TZCFJ/?tag=tolees-21'
 descuento: '30.39'
 average: '63.375'

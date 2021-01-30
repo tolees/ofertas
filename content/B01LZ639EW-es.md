@@ -16,6 +16,7 @@ comparePrice: 279.0 EUR
 prodname: 'Michael Kors Reloj Cronógrafo para Mujer de Cuarzo con Correa en Acero Inoxidable MK6357'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LZ639EW/?tag=tolees-21'
 descuento: '38.65'
 average: '170.27'

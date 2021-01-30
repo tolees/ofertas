@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'Botellas de Agua de Cristal - Set de 6 Botellas Reutilizables de Vidrio sin BPA con Funda de Nailon y Tapa a Prueba de Fugas Para Batidos  Zumos  Té y Otras Bebidas Para Adultos y Niños - 6 x 500 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06ZZXWKQR/?tag=tolees-21'
 descuento: '49.32'
 average: '37.47'

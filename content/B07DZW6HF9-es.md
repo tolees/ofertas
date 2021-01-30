@@ -16,6 +16,7 @@ comparePrice: 10.0 EUR
 prodname: 'Rimmel London Magnifeyes Palette Paleta de Sombras Jewel Rocks Edition - 14.16 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DZW6HF9/?tag=tolees-21'
 descuento: '32.00'
 average: '6.9399999999999995'

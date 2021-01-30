@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Cabezal de Ducha con 5 Modos de Spray con Manguera de Ducha de 1.5 M  Alta Presión y Ahorro de Agua Alcachofa Ducha  Cabezal de Ducha Universal  Fácil de Limpiar e Instalar.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MLDKNL2/?tag=tolees-21'
 descuento: '61.13'
 average: '13.286666666666667'

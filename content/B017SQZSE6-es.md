@@ -16,6 +16,7 @@ comparePrice: 119.95 EUR
 prodname: 'Salomon Speedcross 4 W  Zapatillas de Trail Running para Mujer  Negro  Black/Black/Black Metallic   39 1/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B017SQZSE6/?tag=tolees-21'
 descuento: '36.65'
 average: '76.65666666666667'

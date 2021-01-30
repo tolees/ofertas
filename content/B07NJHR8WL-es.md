@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Tamaris 1-1-25537-23  Botas Mosqueteras para Mujer  Rojo  Vino 558   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NJHR8WL/?tag=tolees-21'
 descuento: '81.28'
 average: '18.71'

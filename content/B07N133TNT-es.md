@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Skechers Go Run Focus  Zapatillas para Mujer  Black Textile/Purple Trim Bkpr  4.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N133TNT/?tag=tolees-21'
 descuento: '58.03'
 average: '25.16'

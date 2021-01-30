@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Wimypet Alfombra Refrescante para Perro  Alfombrilla para Animales  Manta de Dormir Fresco para Perros/Gatos  No Tóxico Mascotas y Gatos en Verano  Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08627ZKMS/?tag=tolees-21'
 descuento: '36.12'
 average: '22.99'

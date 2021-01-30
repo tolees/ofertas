@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'Polti Moppy Limpiador de suelos con vapor sin cables para todo tipo de suelos y superficies verticales lavables  color blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0713THH4T/?tag=tolees-21'
 descuento: '30.84'
 average: '88.878'

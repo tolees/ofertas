@@ -16,6 +16,7 @@ comparePrice: 677.89 EUR
 prodname: 'Golden Goose Zapatillas deportivas antideslizantes para hombre Super Star Casual  color Amarillo  talla 42 2/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087YW4JSG/?tag=tolees-21'
 descuento: '43.10'
 average: '385.7'

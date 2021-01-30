@@ -16,6 +16,7 @@ comparePrice: 32.0 EUR
 prodname: 'Sesderma Resveraderm Crema Nutritiva - 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0759PHQ7D/?tag=tolees-21'
 descuento: '40.62'
 average: '19.0'

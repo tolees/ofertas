@@ -16,6 +16,7 @@ comparePrice: 16.0 EUR
 prodname: 'San Ignacio Profesional Chef - Sartén  28 x 5 8 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00OPW5WPM/?tag=tolees-21'
 descuento: '37.56'
 average: '9.99'

@@ -16,6 +16,7 @@ comparePrice: 5.49 EUR
 prodname: 'Trixie Accesorio para Mascotas  Un tamaño 112 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000WFBNB8/?tag=tolees-21'
 descuento: '36.43'
 average: '3.72'

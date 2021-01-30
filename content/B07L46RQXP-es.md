@@ -16,6 +16,7 @@ comparePrice: 149.95 EUR
 prodname: 'Adidas Terrex Skychaser Lt GTX W  Zapatillas de Deporte para Mujer  Multicolor  Carbon/Negbás/Rosact 000   41 1/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L46RQXP/?tag=tolees-21'
 descuento: '31.80'
 average: '104.535'

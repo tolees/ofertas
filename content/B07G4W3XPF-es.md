@@ -16,6 +16,7 @@ comparePrice: 195.0 EUR
 prodname: 'Scuderia Ferrari Reloj Multiesfera para Hombre de Cuarzo con Correa en Acero Inoxidable 830572'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G4W3XPF/?tag=tolees-21'
 descuento: '57.13'
 average: '102.905'

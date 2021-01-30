@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Funko pop Nacho Libre  multicolor  talla única  36347    color/modelo surtido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H9Z4JP3/?tag=tolees-21'
 descuento: '54.29'
 average: '7.593333333333333'

@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: '1 Par 7/8" Motocicleta Perillas Motocicleta Universal Puño Acoples de Manillar Moto Manillar Aluminio  5 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0757D8PXQ/?tag=tolees-21'
 descuento: '61.59'
 average: '8.99'

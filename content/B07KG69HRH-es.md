@@ -16,6 +16,7 @@ comparePrice: 112.32 EUR
 prodname: 'PUMA Cell Venom Lux  Zapatillas Unisex Adulto  Black-Jaffa Orange  43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KG69HRH/?tag=tolees-21'
 descuento: '25.21'
 average: '61.07'

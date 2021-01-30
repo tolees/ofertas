@@ -16,6 +16,7 @@ comparePrice: 389.0 EUR
 prodname: 'Wilson  Set completo para principiantes  9 palos de golf con carro  Mujer  mano derecha  Stretch XL  Blanco/Gris/Violeta  WGG157554'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071YGZLTM/?tag=tolees-21'
 descuento: '41.72'
 average: '245.865'

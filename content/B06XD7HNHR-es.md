@@ -16,6 +16,7 @@ comparePrice: 10.49 EUR
 prodname: 'Bourjois Brow Palette Kit para cejas Tono 2 Brunette - 37 gr.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XD7HNHR/?tag=tolees-21'
 descuento: '71.40'
 average: '3.0'

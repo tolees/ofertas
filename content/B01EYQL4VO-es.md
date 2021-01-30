@@ -16,6 +16,7 @@ comparePrice: 149.0 EUR
 prodname: 'BERING Reloj Analógico para Unisex de Cuarzo con Correa en Acero Inoxidable 13338-077'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01EYQL4VO/?tag=tolees-21'
 descuento: '35.96'
 average: '95.42'

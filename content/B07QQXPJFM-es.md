@@ -16,6 +16,7 @@ comparePrice: 24.63 EUR
 prodname: 'Vieta Pro Round Up - Altavoz inalámbrico  Bluetooth  radio FM  reproductor USB  entrada micro SD  auxiliar  micrófono integrado  plomo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QQXPJFM/?tag=tolees-21'
 descuento: '31.02'
 average: '16.99'

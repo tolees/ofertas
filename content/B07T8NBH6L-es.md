@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: '【136 LED/3 modos】Luz Solar Exterior  Luz de Seguridad Inalámbrica del Sensor de Movimiento Solar Luces Solares de 270°Aplique de Pared Solar para Puerta de Entrada Patio Garaje Jardín Paquete de 2 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T8NBH6L/?tag=tolees-21'
 descuento: '40.07'
 average: '17.95'

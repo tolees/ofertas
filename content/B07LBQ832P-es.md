@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Adidas Match Light 1.9 - Pala de Pádel  Adultos Unisex  Verde  375'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LBQ832P/?tag=tolees-21'
 descuento: '28.27'
 average: '39.45'

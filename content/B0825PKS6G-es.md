@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Roxy Favorite Song - Mono Corto con Tiras para Mujer Mono Corto con Tiras  Mujer  Snow White Tropic Call  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0825PKS6G/?tag=tolees-21'
 descuento: '34.11'
 average: '32.94'

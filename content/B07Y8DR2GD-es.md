@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Gioseppo Deming  Zapatillas para Niñas  Multicolor  Multicolor Multicolor   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y8DR2GD/?tag=tolees-21'
 descuento: '60.06'
 average: '19.95'

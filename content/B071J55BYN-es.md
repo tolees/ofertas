@@ -16,6 +16,7 @@ comparePrice: 27.49 EUR
 prodname: 'Mono Corto con Tela de Cambray - Large - Azul Claro  Chambray '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071J55BYN/?tag=tolees-21'
 descuento: '85.49'
 average: '3.99'

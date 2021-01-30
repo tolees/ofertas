@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Morgan Pull Fin Col roulé MENTOS Pullover Sweater  Rojo  Tango Red Tango Red   X-Small Women s'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P5LYYXM/?tag=tolees-21'
 descuento: '47.76'
 average: '13.06'

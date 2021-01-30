@@ -16,6 +16,7 @@ comparePrice: 19.89 EUR
 prodname: 'EMPO Toalla Grande Microfibra de 140cm x 80cm Toalla Deportiva con Bolsa para traslado – Súper Absorbente  de Secado rápido  compacta y Liviana  máximo Confort – de Color Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01DJ0J5NK/?tag=tolees-21'
 descuento: '40.72'
 average: '11.79'

@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'Revlon Kiss Tinte para Labios  #250 High End Coral '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DC7J2FJ/?tag=tolees-21'
 descuento: '36.78'
 average: '6.29'

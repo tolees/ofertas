@@ -16,6 +16,7 @@ comparePrice: 10.77 EUR
 prodname: 'Dani - Salsa para aperitivo - 6 botellines de 250ML'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087QN5MYN/?tag=tolees-21'
 descuento: '36.40'
 average: '6.85'

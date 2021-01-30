@@ -16,6 +16,7 @@ comparePrice: 89.48 EUR
 prodname: 'Romika Alaska 02  Botas de Nieve para Mujer  Negro  39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007PNZ4HO/?tag=tolees-21'
 descuento: '31.05'
 average: '61.7'

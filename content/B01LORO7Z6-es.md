@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'SanDisk Extreme 32GB SDHC Memory Card up to 90MB/s  Class 10  U3  V30'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LORO7Z6/?tag=tolees-21'
 descuento: '46.63'
 average: '9.020000000000001'

@@ -16,6 +16,7 @@ comparePrice: 7.65 EUR
 prodname: 'Chicco Physio Soft Pack de 2 Chupetes de Silicona  6-16 Meses   Rosa y Morado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XG5JXQJ/?tag=tolees-21'
 descuento: '27.71'
 average: '5.744285714285714'

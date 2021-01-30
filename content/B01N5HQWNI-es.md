@@ -16,6 +16,7 @@ comparePrice: 26.9 EUR
 prodname: 'Car&Gus Disfraz de Samba para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N5HQWNI/?tag=tolees-21'
 descuento: '43.27'
 average: '15.26'

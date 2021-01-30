@@ -16,6 +16,7 @@ comparePrice: 32.1 EUR
 prodname: 'Pllieay 88 piezas 6 tamaños bolas de espuma de poliestireno blanco para manualidades  decoración de manualidades  manualidades  manualidades  manualidades  hogar  proyectos escolares'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P6WDN3X/?tag=tolees-21'
 descuento: '36.29'
 average: '20.545'

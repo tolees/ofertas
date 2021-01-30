@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Telémetro Láser 60m Profesional Digital Multifuncional alta Precisión Medida Distancia Surface Volume contra el Polvo con LCD Retroiluminación para Exterior y Interior Tuercas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076V93BMV/?tag=tolees-21'
 descuento: '35.01'
 average: '25.99'

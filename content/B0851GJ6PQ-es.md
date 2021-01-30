@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'TACKLIFE Lector de Código de Barras  1D 2.4G USB Escáner de Código  100m Distancia de Transmisión  Activación/Escaneo Continuo Automático  Cable de Datos Incluidos  NO NEED PC Controlador - MSC01'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0851GJ6PQ/?tag=tolees-21'
 descuento: '34.01'
 average: '34.99'

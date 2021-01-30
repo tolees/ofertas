@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Vans Atwood Canvas  Zapatillas para Hombre  Gris   Enzyme Wash  Drizzle/White W58   38.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VDLFGJ7/?tag=tolees-21'
 descuento: '28.08'
 average: '46.75'

@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: '2piezas desinfectante manos Sterillium 500ml desinfección'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00CSMNQDG/?tag=tolees-21'
 descuento: '33.44'
 average: '19.9'

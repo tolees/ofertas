@@ -16,6 +16,7 @@ comparePrice: 11.83 EUR
 prodname: 'Veramonte Carmenere Vino Chile - 750 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079FJ67MK/?tag=tolees-21'
 descuento: '49.96'
 average: '5.92'

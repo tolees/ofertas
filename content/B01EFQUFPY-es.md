@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'Gorro de bebé para primavera/verano  unisex Rose Talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01EFQUFPY/?tag=tolees-21'
 descuento: '33.37'
 average: '5.99'

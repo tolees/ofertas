@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'Fantasy Flight Games Star Wars - Caja de Inicio: Kylo REN Destiny  Juego de Mesa  Edge Entertainment EDGSWD01 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N99QKOB/?tag=tolees-21'
 descuento: '33.18'
 average: '9.99'

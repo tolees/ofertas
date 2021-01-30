@@ -16,6 +16,7 @@ comparePrice: 19.49 EUR
 prodname: 'Hummel - Short CHEVRON Blanc / Noir Taille - S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01EX6NX4Q/?tag=tolees-21'
 descuento: '55.41'
 average: '8.69'

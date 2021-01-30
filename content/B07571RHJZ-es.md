@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'Super Mario 3D'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07571RHJZ/?tag=tolees-21'
 descuento: '31.90'
 average: '18.096666666666664'

@@ -16,6 +16,7 @@ comparePrice: 50.09 EUR
 prodname: 'MWyanlan Película de Ventana Colorida Opaca privacidad película de privacidad autoadhesiva Anti-UV para Dormitorio baño hogar decorativo-40x100cm 16x39inch '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0871RZP5G/?tag=tolees-21'
 descuento: '40.13'
 average: '29.99'

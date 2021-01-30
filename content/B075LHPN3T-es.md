@@ -16,6 +16,7 @@ comparePrice: 189.0 EUR
 prodname: 'Tommy Hilfiger Reloj Multiesfera para Mujer de Cuarzo con Correa en Acero Inoxidable 1781846'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075LHPN3T/?tag=tolees-21'
 descuento: '33.86'
 average: '125.0'

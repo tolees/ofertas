@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'adidas Campus  Zapatillas de Deporte para Hombre  Gris  Grey Three F17/ftwr White/chalk White   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071JHCPB1/?tag=tolees-21'
 descuento: '37.07'
 average: '56.61'

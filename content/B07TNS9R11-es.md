@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Revamp Progloss Quad Ionic 3800 Secador de Pelo Iónico Profesional con Concentrador y Difusor  Infundido con Aceites Súper Suaves para un Cabello Brillante  Cable de 3 metros  Lígero y Pórtatil'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TNS9R11/?tag=tolees-21'
 descuento: '50.01'
 average: '44.99'

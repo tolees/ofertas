@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'TACKLIFE 600m Telémetro de Golf  Telémetro Profesional  Medidor Monocular  Multifunciones con Bloqueo de Bandera  6X Aumento  Medición de Diatancia y Velocidad  para Golf  Caza - MLR04'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QB3KLZF/?tag=tolees-21'
 descuento: '61.54'
 average: '57.24'

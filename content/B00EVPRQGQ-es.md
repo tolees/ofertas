@@ -16,6 +16,7 @@ comparePrice: 14.5 EUR
 prodname: 'Calvin Klein Bottoms UP-Hipster Ropa interior  Negro  001 BLACK   40  L  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00EVPRQGQ/?tag=tolees-21'
 descuento: '31.10'
 average: '9.99'

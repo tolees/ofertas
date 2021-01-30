@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'JACK & JONES Jjeunion Knit Crew Neck Noos suéter  Gris  Dark Grey Melange Detail:Melange   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B4ZRJJY/?tag=tolees-21'
 descuento: '40.13'
 average: '20.95'

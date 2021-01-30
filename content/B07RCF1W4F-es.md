@@ -16,6 +16,7 @@ comparePrice: 37.99 EUR
 prodname: 'Farol Solar Exterior Jardin Tomshine Lámpara Solar Decorativa Colgante Linterna Solar LED de Metal para Patio al Aire Libre  Arboles'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RCF1W4F/?tag=tolees-21'
 descuento: '47.38'
 average: '19.99'

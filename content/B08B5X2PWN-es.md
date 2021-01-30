@@ -16,6 +16,7 @@ comparePrice: 2.43 EUR
 prodname: 'Mango de metal profesional Cristal de acero Diamante de imitación Alimentación de aceite autolubricante Cortador de vidrio con punta Herramienta de acristalamiento de corte'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08B5X2PWN/?tag=tolees-21'
 descuento: '39.92'
 average: '1.46'

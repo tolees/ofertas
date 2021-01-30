@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Tom Tailor Denim - Rosie  Bolsos bandolera Mujer  Azul  Blau   23.5x14x3.5 cm  W x H L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M93CKJD/?tag=tolees-21'
 descuento: '25.01'
 average: '22.49'

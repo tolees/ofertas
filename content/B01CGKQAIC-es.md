@@ -16,6 +16,7 @@ comparePrice: 11.93 EUR
 prodname: 'St. Moriz  Autobronceador corporal  piel seca  - 200 ml.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CGKQAIC/?tag=tolees-21'
 descuento: '34.03'
 average: '7.87'

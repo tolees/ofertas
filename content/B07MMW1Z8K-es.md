@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Lee Scarlett Corduroy Pantalones  Marfil  Off White   26W / 33L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MMW1Z8K/?tag=tolees-21'
 descuento: '84.11'
 average: '14.29'

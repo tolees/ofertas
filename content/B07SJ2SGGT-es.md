@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'BRIKSMAX Kit de Iluminación Led para Lego Ideas Wall E  Compatible con Ladrillos de Construcción Lego Modelo 21303  Juego de Legos no Incluido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SJ2SGGT/?tag=tolees-21'
 descuento: '61.68'
 average: '22.99'

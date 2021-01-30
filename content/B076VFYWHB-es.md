@@ -16,6 +16,7 @@ comparePrice: 999.0 EUR
 prodname: 'Objetivo Tamron 100-400mm F/4.5-6.3 Di VC y Ultrasonic Silent Drive para Nikon'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076VFYWHB/?tag=tolees-21'
 descuento: '38.54'
 average: '614.0'

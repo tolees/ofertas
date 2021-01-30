@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Satisfyer Estimulador de Clítoris Pro 2 Vibration - 1 Unidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JF4YFJY/?tag=tolees-21'
 descuento: '39.12'
 average: '36.98428571428572'

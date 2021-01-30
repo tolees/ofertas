@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Calcetines de 3 Dedos para Hombres para Deportes Ciclismo Correr  Hombre Calcetines del dedo del pie  Calcetines Dedos de Pies Separados  3 pares  Multicolor-3 pares '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074J7CW9Z/?tag=tolees-21'
 descuento: '45.85'
 average: '12.99'

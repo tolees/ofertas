@@ -16,6 +16,7 @@ comparePrice: 15.67 EUR
 prodname: 'PUMA Liga Shorts Core Jr Pantalones Cortos de Fútbol  Unisex Niños  Azul  Electric Blue Lemonade/White   116'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078WGL7XV/?tag=tolees-21'
 descuento: '39.44'
 average: '9.49'

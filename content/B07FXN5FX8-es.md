@@ -16,6 +16,7 @@ comparePrice: 170.0 EUR
 prodname: 'Seiko Reloj analogico para Mujer de Cuarzo con Correa en Piel SXDG95P1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FXN5FX8/?tag=tolees-21'
 descuento: '44.71'
 average: '87.33333333333333'

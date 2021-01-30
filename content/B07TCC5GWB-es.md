@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Helly Hansen Ahiga V4 Hydropower  Náuticos para Hombre  Gris  Charcoal/Ebony/Light Grey 964   40.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TCC5GWB/?tag=tolees-21'
 descuento: '54.78'
 average: '45.22'

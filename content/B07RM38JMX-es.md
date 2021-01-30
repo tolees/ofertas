@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Under Armour Undeniable 4.0 Duffle SM Deportes  Bolsa De Entrenamiento  Unisex  Rosa  One Size'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RM38JMX/?tag=tolees-21'
 descuento: '45.03'
 average: '16.725555555555555'

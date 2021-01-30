@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Vans Herren Colorblock Tee T - Shirt  Schwarz  Black/athletic Heather   XX-Large'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06WGXF4PT/?tag=tolees-21'
 descuento: '28.04'
 average: '20.766000000000002'

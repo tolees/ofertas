@@ -16,6 +16,7 @@ comparePrice: 47.0 EUR
 prodname: 'Calvin Klein Strapless Lift Multiway Sujetador de múltiples vías  Marfil  Ivory 101   90E  Talla del Fabricante: DD34  Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CK5RV59/?tag=tolees-21'
 descuento: '68.06'
 average: '15.01'

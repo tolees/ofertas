@@ -16,6 +16,7 @@ comparePrice: 307.6 EUR
 prodname: 'DEWALT DCD706D2-QW DCD706D2-QW-Taladro Percutor sin escobillas XR 12V 10mm 57 5Nm con 2 baterías Li-Ion 2Ah y maletín TSTAK  Schwarz/Gelb'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YZPKGL6/?tag=tolees-21'
 descuento: '41.69'
 average: '179.37'

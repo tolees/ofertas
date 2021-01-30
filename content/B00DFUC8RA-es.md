@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Kappa Bright Mid Kids  Botas Clasicas Unisex Niños  Beige  Beige 4141   28 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00DFUC8RA/?tag=tolees-21'
 descuento: '35.06'
 average: '19.45'

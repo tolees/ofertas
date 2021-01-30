@@ -16,6 +16,7 @@ comparePrice: 35.9 EUR
 prodname: 'Bella Aurora B7 Crema Facial Anti-manchas Cara | Hidratante Facial | Despigmentante | Anti-Edad para Piel Mixta o Grasa SPF 20  50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BYQMT8R/?tag=tolees-21'
 descuento: '44.43'
 average: '19.95'

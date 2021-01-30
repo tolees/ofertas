@@ -16,6 +16,7 @@ comparePrice: 449.0 EUR
 prodname: 'Baby Jogger City Tour LUX   color berenjena. Silla de paseo de uso desde nacimiento hasta 20 5 kg con plegado ultra compacto y muy ligero'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LBWPBTB/?tag=tolees-21'
 descuento: '49.00'
 average: '237.66333333333333'

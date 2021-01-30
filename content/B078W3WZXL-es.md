@@ -16,6 +16,7 @@ comparePrice: 12.57 EUR
 prodname: 'fundas Samsung Galaxy S7 protector pantalla bateria 9x tapa cases armor antigolpes originales suave gadget accesorio smartphones disney marmol para hard carbon pure air skin iman piel ultrafina'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078W3WZXL/?tag=tolees-21'
 descuento: '31.82'
 average: '8.57'

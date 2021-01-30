@@ -16,6 +16,7 @@ comparePrice: 5.2 EUR
 prodname: 'Fischer 70005 Taco Nylon Expansión SX 5 x 25  Gris  0 W  0 V  5x25'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001NJ9O5Y/?tag=tolees-21'
 descuento: '45.19'
 average: '2.85'

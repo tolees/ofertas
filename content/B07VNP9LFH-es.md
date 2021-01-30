@@ -16,6 +16,7 @@ comparePrice: 56.88 EUR
 prodname: 'SINOES Mujer 720 Caña Baja Gimnasia Ligero Transpirable Casuales Sneakers de Exterior y Interior Zapatillas Deporte Pisos Loafer Negro 39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VNP9LFH/?tag=tolees-21'
 descuento: '54.50'
 average: '25.88'

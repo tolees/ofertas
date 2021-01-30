@@ -16,6 +16,7 @@ comparePrice: 73.19 EUR
 prodname: 'adidas Forest Grove W  Zapatillas de Gimnasia para Mujer  Multicolor  Orchid Tint S18/Shock Pink/FTWR White Orchid Tint S18/Shock Pink/FTWR White   36 2/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SNV42XL/?tag=tolees-21'
 descuento: '35.54'
 average: '41.18'

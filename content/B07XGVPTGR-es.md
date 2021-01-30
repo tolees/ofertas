@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'PUMA Foldable Trail Cap Gorra  Hombre  Black Silver-Reflective  Adult'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XGVPTGR/?tag=tolees-21'
 descuento: '60.12'
 average: '9.95'

@@ -16,6 +16,7 @@ comparePrice: 6.9 EUR
 prodname: 'Rimmel London Fresher Skin Base de Maquillaje Tono 103 True Ivory - 104 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01J1A1E0Y/?tag=tolees-21'
 descuento: '25.65'
 average: '5.13'

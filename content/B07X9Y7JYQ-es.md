@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'WILDKEN Pantalones Cortos de Protección para Niños Infantil Hip Equipo Acolchados de Protección para Cadera para Esquiar Skate Ski Snowboard  Rosa  L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X9Y7JYQ/?tag=tolees-21'
 descuento: '52.51'
 average: '18.99'

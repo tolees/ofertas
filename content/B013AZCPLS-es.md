@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Anker AK-A2021321 - Cargador de pared con entrada USB  2 x USB  24 W  2.4 A   para iPhone  iPad  Samsung Galaxy  Note  Nexus  HTC  blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B013AZCPLS/?tag=tolees-21'
 descuento: '45.47'
 average: '12.596666666666668'

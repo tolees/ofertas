@@ -16,6 +16,7 @@ comparePrice: 36.99 EUR
 prodname: 'Hollylife Utensilios de Cocina de Silicona Libres de BPA Herramientdas Antiadherentes  Resistente al Calor hasta 230º'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0859X9DRM/?tag=tolees-21'
 descuento: '40.55'
 average: '21.99'

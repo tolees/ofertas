@@ -16,6 +16,7 @@ comparePrice: 19.19 EUR
 prodname: 'ARCTIC P12 PWM - Ventilador para caja 0 3 Sone  Ventilador de CPU de 120mm  Tecnología Intercambio PWM  200 hasta 1800 RPM - Negro/Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GB5JRTZ/?tag=tolees-21'
 descuento: '65.87'
 average: '6.55'

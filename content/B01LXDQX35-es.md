@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'WD Blue  disco de estado sólido  SSD  interno de 250 GB - SATA a 6 Gb/s y 2 5"'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LXDQX35/?tag=tolees-21'
 descuento: '54.10'
 average: '44.205'

@@ -16,6 +16,7 @@ comparePrice: 36.99 EUR
 prodname: 'Transmisor FM Bluetooth 5.0  Reproductor MP3 Coche QC3.0 Carga rápida Adaptador de Radio Dual USB 5V/1A Manos Libres inalámbrico para iOS/Android'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08F7G3YW4/?tag=tolees-21'
 descuento: '56.77'
 average: '15.99'

@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'OfficeWorld 29 29 XL Cartuchos de Tinta para Epson 29XL Compatible con Epson Expression Home XP-245 XP-342 XP-442 XP-235 XP-335 XP-255 XP-452 XP-352 XP-455 XP-345 XP-432 XP-332 XP-247'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VHDLN18/?tag=tolees-21'
 descuento: '32.01'
 average: '16.99'

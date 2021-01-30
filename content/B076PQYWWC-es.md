@@ -16,6 +16,7 @@ comparePrice: 266.55 EUR
 prodname: 'Nilfisk - Aspiradora Hepa Basic EU - Serie Nilfisk VP300'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076PQYWWC/?tag=tolees-21'
 descuento: '55.23'
 average: '119.34'

@@ -16,6 +16,7 @@ comparePrice: 249.9 EUR
 prodname: 'DOC ECO 2 BLACK'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GDMYPDF/?tag=tolees-21'
 descuento: '30.64'
 average: '173.34'

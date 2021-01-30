@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'Ice-Watch - ICE duo Ombre orange - Reloj blu para Hombre con Correa de silicona - 001494  Medium '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01F3PZVHI/?tag=tolees-21'
 descuento: '31.83'
 average: '60.67'

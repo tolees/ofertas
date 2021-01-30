@@ -16,6 +16,7 @@ comparePrice: 249.0 EUR
 prodname: 'Scuderia Ferrari Reloj Analógico para Hombre de Cuarzo con Correa en Silicona 0830732'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084K6J3RP/?tag=tolees-21'
 descuento: '49.86'
 average: '138.67000000000002'

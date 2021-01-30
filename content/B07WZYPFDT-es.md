@@ -16,6 +16,7 @@ comparePrice: 55.08 EUR
 prodname: 'Tacklife RTD37AC - Herramienta multifunción  200 W  herramienta giratoria  40 000 rpm  herramienta multifunción de 6 velocidades de control  uso para bricolaje  corte  rectificación  perforación  grabado y así sucesivamente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WZYPFDT/?tag=tolees-21'
 descuento: '35.66'
 average: '35.44'

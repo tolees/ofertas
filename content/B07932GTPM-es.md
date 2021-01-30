@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Clarks Brixby Shore  Sandalia con Pulsera para Hombre  Marrón  Dark Brown Leather-   45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07932GTPM/?tag=tolees-21'
 descuento: '31.54'
 average: '46.53333333333333'

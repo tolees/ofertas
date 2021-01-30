@@ -16,6 +16,7 @@ comparePrice: 167.0 EUR
 prodname: 'Philips myBathroom Silk - Lámpara de pared  LED  color gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00F0INC6Q/?tag=tolees-21'
 descuento: '52.08'
 average: '80.03'

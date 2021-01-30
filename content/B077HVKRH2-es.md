@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'G-STAR RAW Rovulc Denim Mid Sneakers  Zapatillas para Mujer  Blanco  White 110   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077HVKRH2/?tag=tolees-21'
 descuento: '62.80'
 average: '26.43'

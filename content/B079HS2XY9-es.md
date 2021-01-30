@@ -16,6 +16,7 @@ comparePrice: 19.5 EUR
 prodname: 'El Reloj de Niños de Vinmori  Reloj de Cuarzo con Dibujos Animados Bonitos de 3D a Prueba de Agua Regalo para Chicos Niños y Niñas Dinosaurio-Azul y Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079HS2XY9/?tag=tolees-21'
 descuento: '43.64'
 average: '10.99'

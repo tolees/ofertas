@@ -16,6 +16,7 @@ comparePrice: 19.48 EUR
 prodname: '1200X Conector de crimpado de alambre Pin de cable Pin de férula Kits de terminales de alicates de crimpado 1200pcs tipo de tubo alicates de prensado en frío'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0895JCRNX/?tag=tolees-21'
 descuento: '39.99'
 average: '11.69'

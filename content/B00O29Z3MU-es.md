@@ -16,6 +16,7 @@ comparePrice: 280.0 EUR
 prodname: 'Nmc Juguetes Eróticos 1 Unidad 520 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00O29Z3MU/?tag=tolees-21'
 descuento: '71.35'
 average: '79.28'

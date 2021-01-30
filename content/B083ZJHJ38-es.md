@@ -16,6 +16,7 @@ comparePrice: 179.0 EUR
 prodname: 'ghd curve soft curl - Tenacilla profesional 32mm para crear rizos y ondas naturales  tecnología ultra-zone  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083ZJHJ38/?tag=tolees-21'
 descuento: '33.52'
 average: '132.99333333333334'

@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Lee Rider Tonal Jeans  Moto Worn  30W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S7CGP76/?tag=tolees-21'
 descuento: '63.24'
 average: '36.74'

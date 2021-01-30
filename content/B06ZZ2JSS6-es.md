@@ -16,6 +16,7 @@ comparePrice: 239.0 EUR
 prodname: 'Samsonite Flux Spinner XL Maleta Expansible  81 cm  136 L  Azul  Navy Blue '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06ZZ2JSS6/?tag=tolees-21'
 descuento: '50.00'
 average: '119.5'

@@ -16,6 +16,7 @@ comparePrice: 71.99 EUR
 prodname: 'Captain Tsubasa: Rise Of New Champions - Special Edition'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08FCYMHDZ/?tag=tolees-21'
 descuento: '32.28'
 average: '52.809999999999995'

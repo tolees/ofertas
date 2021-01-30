@@ -16,6 +16,7 @@ comparePrice: 16.72 EUR
 prodname: 'Nuk Sports Cup - Botella para aprender a beber  antigoteo  boquilla de silicona con tapa protectora y clip  450 ml  bailarina  rosa '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YWL6NRN/?tag=tolees-21'
 descuento: '41.81'
 average: '9.73'

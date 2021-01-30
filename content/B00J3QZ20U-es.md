@@ -16,6 +16,7 @@ comparePrice: 10.87 EUR
 prodname: 'H2D Professional - Cepillo desenredante para desenredar el cabello H2D-Tangle'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00J3QZ20U/?tag=tolees-21'
 descuento: '55.01'
 average: '4.89'

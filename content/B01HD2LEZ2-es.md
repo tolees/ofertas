@@ -16,6 +16,7 @@ comparePrice: 47.99 EUR
 prodname: 'MiniSun - Lámpara de Pie LED Moderna – Burbujas y Peces de Colores – Luces que cambian color - 90cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HD2LEZ2/?tag=tolees-21'
 descuento: '27.09'
 average: '34.99'

@@ -16,6 +16,7 @@ comparePrice: 239.0 EUR
 prodname: 'Calvin Klein Reloj Analógico-Digital para Unisex Adultos de Cuarzo con Correa en Cuero K2G226G6'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N7NMRDG/?tag=tolees-21'
 descuento: '75.48'
 average: '58.6'

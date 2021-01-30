@@ -16,6 +16,7 @@ comparePrice: 37.5 EUR
 prodname: 'Kerastase  Mascarilla para el pelo - 200 ml.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01KNWQW3I/?tag=tolees-21'
 descuento: '38.00'
 average: '23.25'

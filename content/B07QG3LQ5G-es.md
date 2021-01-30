@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Lékué - Kit Estuche de vapor 1 2 personas + libro de recetas  650 ml  Silicona'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QG3LQ5G/?tag=tolees-21'
 descuento: '29.63'
 average: '21.478571428571428'

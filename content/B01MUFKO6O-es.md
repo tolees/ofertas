@@ -16,6 +16,7 @@ comparePrice: 12.95 EUR
 prodname: 'Mr. Wonderful Vela lata con mensaje "Cuando te veo  ¡me enciendo!"'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MUFKO6O/?tag=tolees-21'
 descuento: '49.96'
 average: '6.48'

@@ -16,6 +16,7 @@ comparePrice: 39 EUR
 prodname: 'Hollister Wave For Her Perfume - 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GXWYEV4/?tag=tolees-21'
 descuento: '56.41'
 average: '18.766666666666666'

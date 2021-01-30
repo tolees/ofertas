@@ -16,6 +16,7 @@ comparePrice: 109.99 EUR
 prodname: 'NMDD Ornament Schöne Harz Ballon Hund Handwerk Zimmer Desktop Handwerk  26 * 9 * 20 cm  Farbe: Rosa '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZLXGZH9/?tag=tolees-21'
 descuento: '44.55'
 average: '60.99'

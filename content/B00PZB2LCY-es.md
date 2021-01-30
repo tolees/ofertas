@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Nike Court Royale  Zapatillas para Mujer  Blanco  White / Metallic Silver   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00PZB2LCY/?tag=tolees-21'
 descuento: '25.47'
 average: '40.49'

@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Colmanda Juguete Mágico de Hombre Wooden Man Daruma Stage Magic Props Halloween Magic Tricks Estilo Japonés Inmortal Marioneta para Niños y Adultos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZCTGT8R/?tag=tolees-21'
 descuento: '63.19'
 average: '5.99'

@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: '1mii Receptor Bluetooth  Adaptador de Audio Inalámbrico Hi-Fi  B06 Adaptador Bluetooth 4.2 con 3D Surround aptX Baja latencia para Sonido en Streaming. Chip avanzado CRS Bluetooth 4.2'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076ZJXGXW/?tag=tolees-21'
 descuento: '46.68'
 average: '19.49'

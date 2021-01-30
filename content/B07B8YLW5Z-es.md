@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'DOWE 137 cm x 38 cm Resistencia al Calor Cubierta metálica de la Tabla de Planchar Material de Fieltro Duradero Tamaño estándar Opciones multicoloras'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B8YLW5Z/?tag=tolees-21'
 descuento: '30.03'
 average: '6.99'

@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Hercules 4780507 - Auriculares con Diadema Tipo Dj  50 mm de Diámetro  20 Hz - 20 Khz  Plegables   Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005Z8F8TU/?tag=tolees-21'
 descuento: '33.48'
 average: '23.97'

@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Wrangler Texas Contrast Hombre Jeans  Negro  Raven   33W / 32L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00EU9MYMY/?tag=tolees-21'
 descuento: '54.43'
 average: '36.43'

@@ -16,6 +16,7 @@ comparePrice: 59.75 EUR
 prodname: 'San Ignacio Set De Sartenes Ø 18  20 Y 24 De Acero De Carbono Esmaltado 3 Uds. Naranja'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CQ5ST1I/?tag=tolees-21'
 descuento: '58.18'
 average: '24.99'

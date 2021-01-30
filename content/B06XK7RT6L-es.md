@@ -16,6 +16,7 @@ comparePrice: 79.9 EUR
 prodname: 'Pasito a pasito 73748 - Bolsa canastilla acolchada Inés  color rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XK7RT6L/?tag=tolees-21'
 descuento: '39.94'
 average: '47.99'

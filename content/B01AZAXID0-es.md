@@ -16,6 +16,7 @@ comparePrice: 125.84 EUR
 prodname: 'Estee Lauder Mascarilla Facial Advanced Night Repair 4 Sheets'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01AZAXID0/?tag=tolees-21'
 descuento: '32.58'
 average: '79.0225'

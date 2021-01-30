@@ -16,6 +16,7 @@ comparePrice: 123.21 EUR
 prodname: 'BLAVOR - Cargador Solar inalámbrico  batería Externa de 20000 mAh con 5 Paneles solares extraíbles  Cargador portátil Qi  Linterna SOS Tipo C y Salida Dual'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XD12SXN/?tag=tolees-21'
 descuento: '51.31'
 average: '59.99'

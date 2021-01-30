@@ -16,6 +16,7 @@ comparePrice: 26.0 EUR
 prodname: 'Funko – Royal Family Idea Regalo  Statue  collezionabili  Comics  Manga  Serie TV  Multicolor  35720'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DMGVN7H/?tag=tolees-21'
 descuento: '37.08'
 average: '16.36'

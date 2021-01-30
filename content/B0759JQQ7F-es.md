@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Funko Pop!- Rocks Elton John Figura de Vinilo  25320 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0759JQQ7F/?tag=tolees-21'
 descuento: '62.32'
 average: '8.91'

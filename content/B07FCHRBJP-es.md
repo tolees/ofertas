@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'hevc Receptor de Satélite Kepnix Nano Adaptador WiFi Gratuito h.265 iptv m3u xtream 1080p Soporte PowerVu Biss ccam Youtube WiFi USB vs gtmedia v7s'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FCHRBJP/?tag=tolees-21'
 descuento: '35.01'
 average: '25.99'

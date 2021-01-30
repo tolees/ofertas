@@ -16,6 +16,7 @@ comparePrice: 17.96 EUR
 prodname: 'find. Fletcher Zapatillas  Blanco White/Navy  43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RRW9QQM/?tag=tolees-21'
 descuento: '52.17'
 average: '8.59'

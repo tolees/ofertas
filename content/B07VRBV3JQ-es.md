@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'SKY LIGHT Sartén Antiadherente 24 cm  Embalaje Caja de Regalo  Sartén de Aluminio  Mango extraíble  Revestimiento Libre de PFOA  Compatible con inducción  Apto para lavavajillas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VRBV3JQ/?tag=tolees-21'
 descuento: '62.87'
 average: '25.99'

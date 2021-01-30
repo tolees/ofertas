@@ -16,6 +16,7 @@ comparePrice: 17.98 EUR
 prodname: 'B Blesiya Cargador Inalámbrico Qi Pad 10W Base De Carga Rápida para Samsung Huawei - Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08717DZXC/?tag=tolees-21'
 descuento: '44.44'
 average: '9.99'

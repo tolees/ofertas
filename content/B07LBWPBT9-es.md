@@ -16,6 +16,7 @@ comparePrice: 449.0 EUR
 prodname: 'Baby Jogger City Tour LUX   color granito. Silla de paseo de uso desde nacimiento hasta 20 5 kg con plegado ultra compacto y muy ligero'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LBWPBT9/?tag=tolees-21'
 descuento: '49.00'
 average: '250.66666666666666'

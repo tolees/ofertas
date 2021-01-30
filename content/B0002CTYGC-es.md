@@ -16,6 +16,7 @@ comparePrice: 130.9 EUR
 prodname: 'HP 122A - Cartucho de tóner original LaserJet para Laserjet series 2550  2820 y 2840  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0002CTYGC/?tag=tolees-21'
 descuento: '86.98'
 average: '14.7575'

@@ -16,6 +16,7 @@ comparePrice: 43.34 EUR
 prodname: 'Cartier - La Panthère Gel de ducha'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00IRBB1O8/?tag=tolees-21'
 descuento: '32.37'
 average: '26.365'

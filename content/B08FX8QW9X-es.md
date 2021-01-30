@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: '3 Pares Calcetines Mujer Hombre Senderismo Calcetines para Trekking Transpirable  Alto Rendimiento Térmicos  Transpirables  Acolchados y Antiampollas  Calcetines de Montaña'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08FX8QW9X/?tag=tolees-21'
 descuento: '42.88'
 average: '11.99'

@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Columbia Street Elite Bolsa de Viaje Convertible  Unisex Adulto  Gris  Shark   O/S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KTVBXPM/?tag=tolees-21'
 descuento: '55.01'
 average: '35.656666666666666'

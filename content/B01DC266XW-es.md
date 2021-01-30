@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Diset Luna Todo lo necesario para crear tu diario  Miscelanea  46592    color/modelo surtido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01DC266XW/?tag=tolees-21'
 descuento: '62.96'
 average: '3.7'

@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'Columbia Bajada III  Zapatillas de Running para Asfalto para Hombre  Gris  Monument  Zour 36   43.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DVX1MPV/?tag=tolees-21'
 descuento: '45.09'
 average: '65.89'

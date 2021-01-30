@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'Buff Shady Gorra Treck  Mujer  Brindle Browm  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KGGG1SY/?tag=tolees-21'
 descuento: '45.29'
 average: '9.843333333333334'

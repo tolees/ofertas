@@ -16,6 +16,7 @@ comparePrice: 8.95 EUR
 prodname: 'Astor Lash Beautifier Argan Oil Máscara de Pestañas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0136JEFO8/?tag=tolees-21'
 descuento: '35.20'
 average: '5.8'

@@ -16,6 +16,7 @@ comparePrice: 20.48 EUR
 prodname: '5pcs Niños Pinceles Cepillo De Mango De Plástico para Niños Suministros De Arte Artesanal'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KXSSM83/?tag=tolees-21'
 descuento: '47.66'
 average: '11.05'

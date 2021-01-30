@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Taiko No Tatsujin: Drum n Fun'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G2K7CCB/?tag=tolees-21'
 descuento: '37.55'
 average: '26.72'

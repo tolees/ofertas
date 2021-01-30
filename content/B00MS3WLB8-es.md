@@ -16,6 +16,7 @@ comparePrice: 239.0 EUR
 prodname: 'Quinny 76909230 - Cuco plegable  color rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00MS3WLB8/?tag=tolees-21'
 descuento: '59.00'
 average: '98.0'

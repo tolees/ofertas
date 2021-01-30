@@ -16,6 +16,7 @@ comparePrice: 85.08 EUR
 prodname: 'Mandarina Duck - Mellow Leather Tracolla  Bolsos de mano Mujer  Beige  Simply Taupe '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G2CKXKX/?tag=tolees-21'
 descuento: '34.25'
 average: '55.94'

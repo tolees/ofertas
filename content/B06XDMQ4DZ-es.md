@@ -16,6 +16,7 @@ comparePrice: 9.7 EUR
 prodname: 'Bourjois Rouge Laque Barra de Labios Líquida Tono 06 Framboiselle - 27 gr.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XDMQ4DZ/?tag=tolees-21'
 descuento: '53.81'
 average: '4.48'

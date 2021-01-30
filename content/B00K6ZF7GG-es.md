@@ -16,6 +16,7 @@ comparePrice: 733.14 EUR
 prodname: 'Transcend JetDrive 500 - Kit de Disco Duro sólido Interno SSD 960 GB para MacBook Air 11"  13"'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00K6ZF7GG/?tag=tolees-21'
 descuento: '39.95'
 average: '440.23'

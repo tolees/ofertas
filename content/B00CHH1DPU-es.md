@@ -16,6 +16,7 @@ comparePrice: 94.42 EUR
 prodname: 'Habitdesign - Mesa de Centro elevable Salon Comedor  Acabado en Color Gris Ceniza  Medidas: 100 x 50 x 43 cm.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00CHH1DPU/?tag=tolees-21'
 descuento: '32.22'
 average: '64.0'

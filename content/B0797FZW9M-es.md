@@ -16,6 +16,7 @@ comparePrice: 219.0 EUR
 prodname: 'Guess Reloj Cronógrafo para Hombre de Cuarzo con Correa en Acero Inoxidable W1106G1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0797FZW9M/?tag=tolees-21'
 descuento: '28.25'
 average: '149.9333333333333'

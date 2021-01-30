@@ -16,6 +16,7 @@ comparePrice: 600.0 EUR
 prodname: 'Sony MHC-V71D - Sistema Audio  Bluetooth  Luces de Fiesta 360 Grados  Modo Tambor Taiko  Control de Gestos  CD  DVD  USB  Entrada de Audio  HDMI '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078WS9RZW/?tag=tolees-21'
 descuento: '38.68'
 average: '350.91999999999996'

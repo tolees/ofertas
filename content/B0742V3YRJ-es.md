@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'Russell Hobbs Colours Plus - Hervidor de Agua Eléctrico  2400 W  1 7l  Acero Inoxidable  Azul Cielo  - ref. 20417-70'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0742V3YRJ/?tag=tolees-21'
 descuento: '26.69'
 average: '32.98'

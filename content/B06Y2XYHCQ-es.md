@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'New Balance 574 Core Zapatillas Hombre  Gris  Grey EGG   44 EU  9.5 UK '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06Y2XYHCQ/?tag=tolees-21'
 descuento: '45.37'
 average: '65.06'

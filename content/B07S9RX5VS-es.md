@@ -16,6 +16,7 @@ comparePrice: 40.11 EUR
 prodname: 'PUMA Persist XT Knit  Zapatillas Deportivas para Interior para Hombre  Negro Black/High Risk Red  43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S9RX5VS/?tag=tolees-21'
 descuento: '36.30'
 average: '25.55'

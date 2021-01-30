@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Tommy Jeans Hombre SLIM TAPERED STEVE COBCO Jeans  Azul  Cobble Black Comfort 911   W38/L30'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0777VY9CQ/?tag=tolees-21'
 descuento: '67.87'
 average: '43.16133333333333'

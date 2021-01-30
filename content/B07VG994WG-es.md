@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Hackett London New Classic Polo  Rojo  238strawberry 238   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VG994WG/?tag=tolees-21'
 descuento: '60.05'
 average: '37.95'

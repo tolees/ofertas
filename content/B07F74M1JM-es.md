@@ -16,6 +16,7 @@ comparePrice: 30.23 EUR
 prodname: 'Godagoda T244D - Juego de 5 hojas de sierra para sierra de cortar de aleación de acero para hoja de madera'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F74M1JM/?tag=tolees-21'
 descuento: '99.67'
 average: '0.1'

@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'Intex 58779EU - Colchoneta Hinchable Palomitas con asas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HKVTT83/?tag=tolees-21'
 descuento: '49.92'
 average: '10.457499999999998'

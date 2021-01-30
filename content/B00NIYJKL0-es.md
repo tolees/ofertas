@@ -16,6 +16,7 @@ comparePrice: 63.93 EUR
 prodname: 'GoPro AHBBP-401 - Cargador de batería Dual y batería para GoPro Hero4  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NIYJKL0/?tag=tolees-21'
 descuento: '31.60'
 average: '42.44'

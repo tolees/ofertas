@@ -16,6 +16,7 @@ comparePrice: 23.21 EUR
 prodname: 'Tristar KW-2430 Báscula de cocina  Plástico  negro'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Tristar'
 buyurl: 'https://www.amazon.es/dp/B002PD4ZVK/?tag=tolees-21'
 descuento: '52.99'
 average: '10.91'
@@ -27,9 +28,9 @@ Tienes [Tristar KW-2430 Báscula de cocina  Plástico  negro](https://www.amazon
 
 🔎:
 
-- Función de tara para que pueda pesar varios ingredientes en el mismo recipiente
-- Pesa hasta un máximo de 2 kg con graduaciones precisas de 1 gramo
 - Báscula de cocina con un diseño bonito con pantalla LCD digital
+- Pesa hasta un máximo de 2 kg con graduaciones precisas de 1 gramo
 - Funciona con cuatro pilas AA (no incluidas)
+- Función de tara para que pueda pesar varios ingredientes en el mismo recipiente
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B002PD4ZVK/?tag=tolees-21)

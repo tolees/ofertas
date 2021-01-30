@@ -16,6 +16,7 @@ comparePrice: 140.35 EUR
 prodname: 'HP CN626AE 971XL Cartucho de Tinta Original de alto rendimiento  1 unidad  cian'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00AZTTSV8/?tag=tolees-21'
 descuento: '32.32'
 average: '94.995'

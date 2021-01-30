@@ -16,6 +16,7 @@ comparePrice: 4.48 EUR
 prodname: 'Colgate 1032-39773  Maximum Protection Pasta Dentífrica  100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FURW81G/?tag=tolees-21'
 descuento: '55.58'
 average: '1.95'

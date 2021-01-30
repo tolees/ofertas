@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Salcar 10m Guirnalda de luces solares  40 luces LED Bola Cristal para jardín  patio  exteriores  impermeable  para interiores y exteriores - Blanco Cálido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NQ2GLMW/?tag=tolees-21'
 descuento: '43.35'
 average: '16.99'

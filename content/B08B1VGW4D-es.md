@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'WINMI para Huawei Y6p Funda Color Degradado Silicona TPU Ultrafina Carcasa Reforzar la Cuatro Esquinas Back Case Cover para Huawei Y6p-Azul Rosado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08B1VGW4D/?tag=tolees-21'
 descuento: '39.74'
 average: '6.02'

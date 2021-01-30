@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'IXROAD 4K 30fps Cámara Deportiva Acción 16MP WiFi Action CAM Videocámara Acuática Sumergible con Pantalla Táctil Corrección Distorsión Time Lapse Slow Motion 2 Baterías y Accesorios'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TBFV6D3/?tag=tolees-21'
 descuento: '45.00'
 average: '65.99'

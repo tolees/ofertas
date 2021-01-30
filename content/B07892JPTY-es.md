@@ -16,6 +16,7 @@ comparePrice: 60 EUR
 prodname: 'Helly Hansen W Daybreaker Fleece  Mujer  White  XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07892JPTY/?tag=tolees-21'
 descuento: '35.83'
 average: '35.75'

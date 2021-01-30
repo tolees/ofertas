@@ -16,6 +16,7 @@ comparePrice: 70.21 EUR
 prodname: 'STANLEY STHT77498-1 Nivel Láser Rojo Cubix De Líneas Cruzadas  12 M De Alcance  Autonivelante'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BP23J1B/?tag=tolees-21'
 descuento: '41.25'
 average: '40.065'

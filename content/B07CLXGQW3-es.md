@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Adidas Gazelle C  Zapatillas de Deporte Unisex niño  Verde  Aerver/Aerver/Ftwbla 000   30 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CLXGQW3/?tag=tolees-21'
 descuento: '39.27'
 average: '36.41'

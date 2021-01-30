@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Skechers GO Walk Lite  Zapatillas para Mujer  Azul Marino Ribete Textil Nvy  37.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VP1ZVPD/?tag=tolees-21'
 descuento: '49.55'
 average: '31.165'

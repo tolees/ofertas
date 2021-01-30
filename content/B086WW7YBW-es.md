@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Soporte Movil Coche Magnético Universal Avolare N52 Iman Soporte Movil para Rejillas del Aire 360°Rotación con 4 Piezas Láminas Metálicas 3M Clip de Pico de Águila para iPhone 11 HUAWEI Samsung y etc.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086WW7YBW/?tag=tolees-21'
 descuento: '39.31'
 average: '8.49'

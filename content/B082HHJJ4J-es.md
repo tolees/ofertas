@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'YINGJEE Martillo de Seguridad para Coche  Martillo de Emergencia con Cuchilla  Herramienta de Escape 2 en 1 para Salvar Vida  Martillos para Cortar Cinturón de Seguridad y Romper Ventana de Automóvil'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082HHJJ4J/?tag=tolees-21'
 descuento: '33.10'
 average: '8.69'

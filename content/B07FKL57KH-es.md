@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Nike Renew Arena  Zapatillas de Atletismo para Hombre  Multicolor  Cool Grey/Dark Grey/Wolf Grey/White 011   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FKL57KH/?tag=tolees-21'
 descuento: '40.00'
 average: '45.0'

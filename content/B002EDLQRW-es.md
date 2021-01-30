@@ -16,6 +16,7 @@ comparePrice: 189.9 EUR
 prodname: 'HP CE255A 55A Cartucho de Tóner Original  1 unidad  negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002EDLQRW/?tag=tolees-21'
 descuento: '26.28'
 average: '138.995'

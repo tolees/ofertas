@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'Helly Hansen HH Scout Duffel M Bolsa De Deporte  Unisex Adulto  Ebony  50L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZZ3HB7S/?tag=tolees-21'
 descuento: '37.13'
 average: '51.335'

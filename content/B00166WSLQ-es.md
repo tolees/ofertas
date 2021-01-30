@@ -16,6 +16,7 @@ comparePrice: 292.5 EUR
 prodname: 'HP CB386A Original Trommel 824A Gelb Bildtrommel CP6015 CM6040 CM6030 gebraucht'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00166WSLQ/?tag=tolees-21'
 descuento: '74.02'
 average: '92.13'

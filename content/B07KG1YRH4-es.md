@@ -16,6 +16,7 @@ comparePrice: 15.84 EUR
 prodname: 'Puma Icra Trainer Sd V Inf Zapatillas Unisex Niños  Rojo  Rhubarb-Castlerock-Puma Black-Puma White 29   23 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KG1YRH4/?tag=tolees-21'
 descuento: '31.94'
 average: '10.78'

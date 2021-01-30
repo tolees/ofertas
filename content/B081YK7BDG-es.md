@@ -16,6 +16,7 @@ comparePrice: 34.0 EUR
 prodname: 'Yizhet Intermitentes Led Moto Luz Señal de Giro  4Pcs Intermitentes para Moto Homologados Ambar Giro Indicator Faros Intermitentes Delanteros 12V'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081YK7BDG/?tag=tolees-21'
 descuento: '44.15'
 average: '18.99'

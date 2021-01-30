@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'Joseph Joseph 10108 Pelador Recto  Acero Inoxidable  Verde  Centimeters'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00RLRRXLO/?tag=tolees-21'
 descuento: '30.15'
 average: '6.95'

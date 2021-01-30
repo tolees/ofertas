@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'URCERI Telémetro Láser 40m  Medidor Láser de Distancia，Precisión ±2mm  Impermeabilidad IP54  Niveles de Burbuja  Medición de Distancia  Área  Volumen  Continua  Pitágoras  Modelo Mudo  Suma/Resta'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075B6PRV8/?tag=tolees-21'
 descuento: '54.68'
 average: '14.79'

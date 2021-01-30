@@ -16,6 +16,7 @@ comparePrice: 130.0 EUR
 prodname: 'Nixon Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable A1249-2879-00'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K18FB1L/?tag=tolees-21'
 descuento: '49.42'
 average: '65.98111111111112'

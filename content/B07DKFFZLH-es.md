@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Kipling - Multiple  Shoppers y bolsos de hombro Mujer  Gris  Active Grey Bl '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DKFFZLH/?tag=tolees-21'
 descuento: '40.00'
 average: '35.75'

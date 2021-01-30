@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Under Armour Tech 6in 2 Pack Ropa Interior  Hombre  Negro  Black/Black 001   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D5SSZHP/?tag=tolees-21'
 descuento: '48.60'
 average: '24.669999999999998'

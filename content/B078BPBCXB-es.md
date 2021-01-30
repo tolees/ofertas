@@ -16,6 +16,7 @@ comparePrice: 329.0 EUR
 prodname: 'Emporio Armani Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable AR11155'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078BPBCXB/?tag=tolees-21'
 descuento: '57.82'
 average: '138.78'

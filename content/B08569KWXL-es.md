@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'Sensilis Upgrade AR - Crema Reafirmante Calmante y Antirojeces para Piel Sensible - 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08569KWXL/?tag=tolees-21'
 descuento: '38.08'
 average: '30.96'

@@ -16,6 +16,7 @@ comparePrice: 43.07 EUR
 prodname: 'Medela Top sujetador extración de leche manos libres  talla L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B008KII8EE/?tag=tolees-21'
 descuento: '36.73'
 average: '27.25'

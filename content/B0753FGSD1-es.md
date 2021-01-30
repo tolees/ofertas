@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'T-shirt Kappa Lucera'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0753FGSD1/?tag=tolees-21'
 descuento: '28.69'
 average: '10.489999999999998'

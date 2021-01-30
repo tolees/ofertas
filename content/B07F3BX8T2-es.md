@@ -16,6 +16,7 @@ comparePrice: 122.57 EUR
 prodname: 'Guess Reloj Analógico para Hombre de Cuarzo con Correa en Silicona W1161G1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F3BX8T2/?tag=tolees-21'
 descuento: '44.68'
 average: '69.26738095238096'

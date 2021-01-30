@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'American Tourister WaveBreaker Spinner 55/20 - Equipaje de Mano  36 Litros  Color Rosa  Hot Lips Pink '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01EA34JKY/?tag=tolees-21'
 descuento: '32.55'
 average: '76.305'

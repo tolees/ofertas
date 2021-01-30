@@ -16,6 +16,7 @@ comparePrice: 14.8 EUR
 prodname: 'Pentrilo - Cubeta plástico  economica + rejilla plástico 16 Litros'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00PQLHM8Q/?tag=tolees-21'
 descuento: '36.82'
 average: '9.35'

@@ -16,6 +16,7 @@ comparePrice: 18.46 EUR
 prodname: 'Jamon Iberico de Bellota 100% Iberico Reserva Pata Negra – Sobre Loncheado de Jamon Iberico Cortado a Mano y Envasado al Vacio - Embutidos Ibericos de Bellota Patanegra - EXQUISITO - 100 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0845YRM7B/?tag=tolees-21'
 descuento: '46.37'
 average: '9.9'

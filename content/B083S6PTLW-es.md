@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Luz Solar Exterior  Cootway 14   Luces Solares  Luz Solar Jardín  Lámparas Solares LED  Luminarias Solares Ajustables Impermeable IP68 para Jardín  Césped  Piscina Decoración de Fiestas Bodas 1pcs'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083S6PTLW/?tag=tolees-21'
 descuento: '47.51'
 average: '20.99'

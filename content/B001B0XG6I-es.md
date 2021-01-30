@@ -16,6 +16,7 @@ comparePrice: 135.0 EUR
 prodname: 'Merrell Intercept  Zapatillas para Hombre  Marrón  Moth Brown   43.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001B0XG6I/?tag=tolees-21'
 descuento: '53.04'
 average: '63.4'

@@ -16,6 +16,7 @@ comparePrice: 14.5 EUR
 prodname: 'L Oréal Paris Infalible 24h pintalabios permanente rosa 213 Toujours Teaberry'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00AQDPFR4/?tag=tolees-21'
 descuento: '51.72'
 average: '7.335'

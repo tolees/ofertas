@@ -16,6 +16,7 @@ comparePrice: 27.99 EUR
 prodname: 'Trust Mico - Micrófono USB con trípode'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ZRD7J5O/?tag=tolees-21'
 descuento: '34.01'
 average: '18.47'

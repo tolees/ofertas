@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Skechers Women s Flex Appeal 3.0-Satellites Trainers  Grey Charcoal Mesh Pink Trim Ccpk   3  36 EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NW6H3JV/?tag=tolees-21'
 descuento: '65.84'
 average: '22.19'

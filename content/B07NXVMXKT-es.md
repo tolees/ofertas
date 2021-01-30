@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Skechers GO Walk 5 Flint  Zapatillas sin Cordones para Hombre  Black Textile/White Trim Black  41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NXVMXKT/?tag=tolees-21'
 descuento: '72.49'
 average: '28.96'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Wangel Estante de Cocina con 7 Ganchos  Organizadores para Utensilios de Cocina  Organizador para Especias  Pegamento Patentado + Autoadhesivo  Aluminio  Acabado Mate  40CM'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S2WL6SJ/?tag=tolees-21'
 descuento: '37.51'
 average: '24.99'

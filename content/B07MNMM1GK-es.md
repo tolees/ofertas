@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Lámpara de Plantas  Yokunat 60 LED Luz de la Planta Iluminación 27W con 15 Herramientas de Jardinería  3 Modos de Lluminación  5 Niveles Regulables  Rotación de 360° y Función de Temporizador'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MNMM1GK/?tag=tolees-21'
 descuento: '42.01'
 average: '29.99'

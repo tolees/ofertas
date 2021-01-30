@@ -16,6 +16,7 @@ comparePrice: 2.79 EUR
 prodname: 'Makeup Revolution Iconic Matte Nude Lipstick Inclination Pomadka do ust matowa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06Y1MHCRS/?tag=tolees-21'
 descuento: '28.32'
 average: '2.0'

@@ -16,6 +16,7 @@ comparePrice: 41.6 EUR
 prodname: 'Alienwork Reloj Mecánico Automático Relojes Automáticos Hombre Mujer Piel de Vaca Negro Analógicos Unisex Plata Impermeable Esqueleto'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QWWDCY8/?tag=tolees-21'
 descuento: '43.73'
 average: '23.41'

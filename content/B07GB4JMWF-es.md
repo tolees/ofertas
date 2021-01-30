@@ -16,6 +16,7 @@ comparePrice: 62.99 EUR
 prodname: 'Pulsera Hombre Classic Series Men Pulsera Coolman Stainless Steel Pulsera Practical and Elegant Men s Pulsera Simple Pulsera ajustable 21-22.3 cm con Gift Box  Plata '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GB4JMWF/?tag=tolees-21'
 descuento: '52.39'
 average: '29.99'

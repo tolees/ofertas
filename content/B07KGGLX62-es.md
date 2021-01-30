@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'Buff Ultimate Logo Cinta de Cabeza Fastwick  Unisex Adulto  Black  Talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KGGLX62/?tag=tolees-21'
 descuento: '29.97'
 average: '11.21'

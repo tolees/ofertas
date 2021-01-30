@@ -16,6 +16,7 @@ comparePrice: 17.95 EUR
 prodname: 'Dreamlove Secretplay Triple X Unisex Pleasure Intensificator - 1 Unidad  15 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DRDTBM4/?tag=tolees-21'
 descuento: '52.14'
 average: '8.59'

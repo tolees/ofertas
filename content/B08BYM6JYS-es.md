@@ -16,6 +16,7 @@ comparePrice: 26.63 EUR
 prodname: 'Fantiff Mini cuello portátil masajeador eléctrico aliviar la fatiga masajeador Masajeadores eléctricos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BYM6JYS/?tag=tolees-21'
 descuento: '66.24'
 average: '8.99'

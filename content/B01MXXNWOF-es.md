@@ -16,6 +16,7 @@ comparePrice: 249.0 EUR
 prodname: 'Michael Kors Reloj Analogico para Mujer de Cuarzo con Correa en Piel MK2663'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MXXNWOF/?tag=tolees-21'
 descuento: '50.65'
 average: '112.39'

@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'Pinza Digital Multímetro  Meterk Medida Amperímetro Ohmímetro con Corriente y Voltaje CA/CC NCV  4000 cuentas  Ciclo de Trabajo  Prueba de Diodo  Auto o Manual Alcance'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072QYZ7LR/?tag=tolees-21'
 descuento: '39.14'
 average: '27.99'

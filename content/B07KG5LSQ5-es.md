@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'PUMA Tarrenz SB  Zapatillas Unisex Adulto  Black-Whisper White  47 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KG5LSQ5/?tag=tolees-21'
 descuento: '54.25'
 average: '36.58'

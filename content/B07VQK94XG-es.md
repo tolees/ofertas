@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'Batidora de Mano Inoxidable 5 en 1 - Batidor  Batidor Varilla Cocina  Licuadora - Batidora de Vaso Multifuncion 1000W  9 Velocidades  Accesorios Gratuitos  Vaso Batidora  Botella de Tritán'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VQK94XG/?tag=tolees-21'
 descuento: '30.02'
 average: '34.99'

@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'Asics JOLT 2 GS  Running Shoe Unisex-Child  Black/Directoire Blue  39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0812H8MYM/?tag=tolees-21'
 descuento: '30.00'
 average: '28.0'

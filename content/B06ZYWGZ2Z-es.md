@@ -16,6 +16,7 @@ comparePrice: 5.58 EUR
 prodname: 'Distinct 2 Pares Negro Mallas Malla de Calcetines Cortos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06ZYWGZ2Z/?tag=tolees-21'
 descuento: '44.80'
 average: '3.08'

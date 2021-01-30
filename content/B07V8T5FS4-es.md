@@ -16,6 +16,7 @@ comparePrice: 31.88 EUR
 prodname: 'Tommy Hilfiger LowCut Essential Sneaker  Zapatillas para Mujer  Rojo  Blush Red Xif   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V8T5FS4/?tag=tolees-21'
 descuento: '34.22'
 average: '20.97'

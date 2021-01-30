@@ -16,6 +16,7 @@ comparePrice: 15.1 EUR
 prodname: 'Haribo - Discos rojos - Geles dulces - 2 kg'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XAP1IR6/?tag=tolees-21'
 descuento: '34.50'
 average: '9.673333333333332'

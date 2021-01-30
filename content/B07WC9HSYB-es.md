@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'TQmate 6Pack  Protector de Pantalla Compatible con Xiaomi Mi Smart Band 4  TPU Suave Bordes Redondeados 3D 【Cobertura Completa】 Pantalla de Cubierta de Borde a Borde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WC9HSYB/?tag=tolees-21'
 descuento: '62.98'
 average: '5.55'

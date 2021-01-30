@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Corsair HS60 Surround 7.1 - Auriculares Gaming con micrófono Desmontable  para PC/PS4/Xbox/Switch/móvil   Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079QC7FMP/?tag=tolees-21'
 descuento: '25.00'
 average: '57.49'

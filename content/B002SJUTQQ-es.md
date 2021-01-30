@@ -16,6 +16,7 @@ comparePrice: 260 EUR
 prodname: 'Samsonite Aeris Spinner L Maleta  75 cm  87.5 L  Rojo  Red '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002SJUTQQ/?tag=tolees-21'
 descuento: '49.53'
 average: '131.21'

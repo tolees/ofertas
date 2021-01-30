@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Pop Animation: Rick & Moty - Kirkland Meeseeks'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SPVSJFZ/?tag=tolees-21'
 descuento: '56.68'
 average: '7.239999999999999'

@@ -16,6 +16,7 @@ comparePrice: 95.34 EUR
 prodname: 'Westinghouse Lighting Turbo Swirl Ventilador de Techo E14  60 W  Titanio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0016KUYAO/?tag=tolees-21'
 descuento: '32.87'
 average: '65.69500000000001'

@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'yideng Fiesta de Halloween Globos Conjunto  Grande de Halloween del Alfabeto Globos Calabaza del Gato del Globo del cráneo del Palo de araña Hoja hincha para la Escena de Halloween decoración'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08DYB2NLQ/?tag=tolees-21'
 descuento: '35.74'
 average: '8.99'

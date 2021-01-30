@@ -16,6 +16,7 @@ comparePrice: 13.53 EUR
 prodname: 'Litthing Calcetines Deportivos Antideslizantes de Algodón para Hombre Desodorante Respirables para Baloncesto Fútbol Yoga de Balonmano Correr engrosamiento de Ciclismo  Corto  3 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QF7QDCN/?tag=tolees-21'
 descuento: '33.56'
 average: '8.99'

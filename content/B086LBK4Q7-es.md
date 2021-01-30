@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'Auriculares Bluetooth  Estéreo Auriculares Inalámbricos Bluetooth 5.0 con Micrófono Integrado Incorporado  IP7 Impermeable In-Ear Auriculares con 2000mAh LED Caja de Carga Portátil'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086LBK4Q7/?tag=tolees-21'
 descuento: '68.02'
 average: '24.990000000000002'

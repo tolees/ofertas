@@ -16,6 +16,7 @@ comparePrice: 36.22 EUR
 prodname: 'Gin The Botanical s - Ginebra - Botella 70 cl'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B009T4BUX4/?tag=tolees-21'
 descuento: '35.26'
 average: '25.943333333333335'

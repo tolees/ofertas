@@ -16,6 +16,7 @@ comparePrice: 33.0 EUR
 prodname: 'Gricol Estante para Ducha Sin Taladrar de Aluminio Aeronáutico Estanteria Antioxidante Autoadhesivo para Artículos de Baño  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WRYJ9XZ/?tag=tolees-21'
 descuento: '54.58'
 average: '15.275714285714287'

@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Razer Abyssus Essential - Gaming Raton  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BTK95YC/?tag=tolees-21'
 descuento: '60.19'
 average: '21.131363636363634'

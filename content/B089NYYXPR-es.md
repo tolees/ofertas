@@ -16,6 +16,7 @@ comparePrice: 10.5 EUR
 prodname: 'DOHUI Funda Samsung Galaxy S20 5G UW  2 en 1 Robusta Carcasa Híbrida TPU + PC de Doble Capa Anti-arañazos Caso con Soporte para Samsung Galaxy S20 5G UW  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089NYYXPR/?tag=tolees-21'
 descuento: '57.14'
 average: '4.5'

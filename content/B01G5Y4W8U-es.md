@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Funko - POP! Vinilo Colección Rocks - Figura Slash  10687 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01G5Y4W8U/?tag=tolees-21'
 descuento: '37.42'
 average: '8.940000000000001'

@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'Levi s XX Std II Khakis  Beige  True Chino Shady GD Ccu B 0011   W31/L32  Talla del Fabricante: 31 32  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TPPWK8B/?tag=tolees-21'
 descuento: '42.89'
 average: '45.69'

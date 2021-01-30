@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Sony NWE394B.CEW - Reproductor MP3  reproducción de música  foto  radio FM  8 GB  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BBWU596/?tag=tolees-21'
 descuento: '27.37'
 average: '83.075'

@@ -16,6 +16,7 @@ comparePrice: 40 EUR
 prodname: 'Great Art Gráfico artistico de Lirio Mural de by  140 x 100 cm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01D0FMRE8/?tag=tolees-21'
 descuento: '42.75'
 average: '22.9'

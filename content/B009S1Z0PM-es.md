@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Vans Atwood Canvas  Zapatillas para Hombre  Azul  Navy/White 4k1   49 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B009S1Z0PM/?tag=tolees-21'
 descuento: '27.69'
 average: '41.660000000000004'

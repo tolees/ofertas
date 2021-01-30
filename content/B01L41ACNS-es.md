@@ -16,6 +16,7 @@ comparePrice: 35.9 EUR
 prodname: 'Havaianas Origine Slim  Alpargatas para Mujer  Negro  Black   35 EU  33 Brazilian '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01L41ACNS/?tag=tolees-21'
 descuento: '80.81'
 average: '6.89'

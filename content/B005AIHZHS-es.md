@@ -16,6 +16,7 @@ comparePrice: 49.0 EUR
 prodname: 'Sisley Phyto-Mascara Ultra-Stretch #02-Deep Brown 7.5 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005AIHZHS/?tag=tolees-21'
 descuento: '49.69'
 average: '24.65'

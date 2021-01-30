@@ -16,6 +16,7 @@ comparePrice: 75.99 EUR
 prodname: 'Auriculares Bluetooth Inalámbricos  AUSDOM AH01 Auriculares con Cancelación de Ruido Activa  Cascos Deportivos In-Ear Neckband Magnéticos  IPX 5 Resistentes al Sudor con Micrófono  13 Horas de Juego'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZK3RP7H/?tag=tolees-21'
 descuento: '34.22'
 average: '49.99'

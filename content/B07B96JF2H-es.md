@@ -16,6 +16,7 @@ comparePrice: 73.65 EUR
 prodname: 'Purina Gourmet Gold Doble Placer comida para gatos Surtido sabores 8 x [12 x 85 g]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B96JF2H/?tag=tolees-21'
 descuento: '43.95'
 average: '41.28'

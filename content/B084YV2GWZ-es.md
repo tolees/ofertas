@@ -16,6 +16,7 @@ comparePrice: 15.98 EUR
 prodname: 'Anself 12Pcs Pinceles de Maquillaje Multifuncionales  Juego Pinceles Maquillaje para Sombra de Ojos  Corrector  Rubor  Base  con Bolsa de Cosméticos a Prueba de Agua'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084YV2GWZ/?tag=tolees-21'
 descuento: '56.26'
 average: '11.485'

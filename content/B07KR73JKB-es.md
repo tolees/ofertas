@@ -16,6 +16,7 @@ comparePrice: 74.99 EUR
 prodname: 'Under Armour Unstoppable Move Lightjogger Pantalones  Hombre  Marrón  Silt Brown Full Heather/Black 221   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KR73JKB/?tag=tolees-21'
 descuento: '62.10'
 average: '28.42'

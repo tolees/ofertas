@@ -16,6 +16,7 @@ comparePrice: 289.0 EUR
 prodname: 'Calvin Klein Reloj Analógico-Digital para Unisex Adultos de Cuarzo con Correa en Acero Inoxidable K7A23646'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N16PYSG/?tag=tolees-21'
 descuento: '49.18'
 average: '153.28'

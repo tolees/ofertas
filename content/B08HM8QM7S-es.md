@@ -16,6 +16,7 @@ comparePrice: 2.99 EUR
 prodname: 'CHS Caja de Almacenamiento de máscara portátil  Caja de Almacenamiento de máscara a Prueba de Polvo y Humedad  Caja de Almacenamiento de máscara Resistente al Agua y a la contaminación  Black '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08HM8QM7S/?tag=tolees-21'
 descuento: '33.44'
 average: '1.99'

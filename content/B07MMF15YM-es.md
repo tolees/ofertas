@@ -16,6 +16,7 @@ comparePrice: 21.9 EUR
 prodname: 'Cerdá 2200004037 Toalla Polyester Mickey  Negro  70x140cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MMF15YM/?tag=tolees-21'
 descuento: '33.79'
 average: '12.0'

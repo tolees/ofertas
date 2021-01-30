@@ -16,6 +16,7 @@ comparePrice: 12.46 EUR
 prodname: 'Durex Naturals Hidratante Lubricante  Ácido Hialurónico  100% Natural sin Fragancia  Colorantes Ni Agentes Irritantes - 100ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083FW2PSF/?tag=tolees-21'
 descuento: '25.04'
 average: '9.34'

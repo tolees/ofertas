@@ -16,6 +16,7 @@ comparePrice: 62.5 EUR
 prodname: 'Kipling - City Pack  Mochilas Mujer  Multicolor  Tile Print   32x37x18.5 centimeters  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N4CR5M8/?tag=tolees-21'
 descuento: '38.05'
 average: '37.666666666666664'

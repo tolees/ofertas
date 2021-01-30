@@ -16,6 +16,7 @@ comparePrice: 103.0 EUR
 prodname: 'TESMED Cinturón Electroestimulador 7.7 extra Belt para abdominales'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D2CNG3K/?tag=tolees-21'
 descuento: '42.72'
 average: '59.0'

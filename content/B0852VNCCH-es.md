@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'Wodgreat Transmisor FM Bluetooth Manos Libres para Coche Bluetooth Coche Mechero Adaptador Bluetooth Coche Reproductor MP3 Coche con Luz de Anillo Azul Dual USB Soporte Tarjetas TF/U Disk'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0852VNCCH/?tag=tolees-21'
 descuento: '38.11'
 average: '12.99'

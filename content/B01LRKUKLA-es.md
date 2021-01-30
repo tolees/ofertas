@@ -16,6 +16,7 @@ comparePrice: 9.39 EUR
 prodname: 'atFoliX Lámina Protectora de plástico Cristal Compatible con Tomtom Adventurer Película Vidrio  9H Hybrid-Glass FX Protector Pantalla Vidrio Templado de plástico'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LRKUKLA/?tag=tolees-21'
 descuento: '42.60'
 average: '5.39'

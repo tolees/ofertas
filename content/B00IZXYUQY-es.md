@@ -16,6 +16,7 @@ comparePrice: 74.9 EUR
 prodname: 'Braun PLANCHA TS725 VAPOR 2400W ELOXAL AZUL BLAqc  2400 W  0 Decibelios  Acero inoxidable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00IZXYUQY/?tag=tolees-21'
 descuento: '26.74'
 average: '52.913333333333334'

@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Funko Pop! - Hobbit Gollum Figura de Vinilo 13559'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0777V5HWK/?tag=tolees-21'
 descuento: '26.15'
 average: '12.2725'

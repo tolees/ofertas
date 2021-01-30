@@ -16,6 +16,7 @@ comparePrice: 48.0 EUR
 prodname: 'Tommy Hilfiger Plunge Sujetador con Push-up  Rosa  Silver Rose SVR   85B  Talla del Fabricante: 0B32  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DFZ6D32/?tag=tolees-21'
 descuento: '37.52'
 average: '29.99'

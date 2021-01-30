@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'ESPRIT Leggings Para Mujer  Azul  Marine   40/42 EU  14/16 UK '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004GJWXLU/?tag=tolees-21'
 descuento: '47.76'
 average: '7.81'

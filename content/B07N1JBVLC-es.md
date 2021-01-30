@@ -16,6 +16,7 @@ comparePrice: 140.0 EUR
 prodname: 'Clarks Boot  Botas Desert para Mujer  Verde Khaki Suede  37.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N1JBVLC/?tag=tolees-21'
 descuento: '84.61'
 average: '21.54'

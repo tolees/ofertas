@@ -16,6 +16,7 @@ comparePrice: 13.5 EUR
 prodname: 'Babaria Rosa Mosqueta - Aceite puro facial  50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001L98SNK/?tag=tolees-21'
 descuento: '33.70'
 average: '8.95'

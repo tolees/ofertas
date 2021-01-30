@@ -16,6 +16,7 @@ comparePrice: 9.93 EUR
 prodname: 'Haribo - Melón - Caramelos de goma - 1 kg'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XAR3J3U/?tag=tolees-21'
 descuento: '52.47'
 average: '5.46'

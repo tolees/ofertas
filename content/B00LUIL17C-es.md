@@ -16,6 +16,7 @@ comparePrice: 94.95 EUR
 prodname: 'adidas Originals Stan Smith  Zapatillas de Deporte Unisex adulto  Negro  Black/Black/Black   36 2/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00LUIL17C/?tag=tolees-21'
 descuento: '35.43'
 average: '57.81428571428572'

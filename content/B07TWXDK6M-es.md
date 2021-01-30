@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Women s Secret New Season Nightdresses Cm Pink Flower Nd Camisón  Marfil  Marfil 97   Small  Tamaño del Fabricante: S  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TWXDK6M/?tag=tolees-21'
 descuento: '50.95'
 average: '14.71'

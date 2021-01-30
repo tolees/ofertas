@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'adidas Galaxy 4  Zapatillas de Running para Hombre  Negro  Core Black   42 2/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FN5WQMQ/?tag=tolees-21'
 descuento: '40.04'
 average: '34.22'

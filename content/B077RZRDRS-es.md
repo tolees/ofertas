@@ -16,6 +16,7 @@ comparePrice: 24.29 EUR
 prodname: 'Heavy Duty alfabeto letra número juego de herramienta de boxeo  walfront 1/8 "de acero al carbono Pin Punzones  sellos de metal Craft Kit de herramientas con funda  Letter'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077RZRDRS/?tag=tolees-21'
 descuento: '60.52'
 average: '11.07'

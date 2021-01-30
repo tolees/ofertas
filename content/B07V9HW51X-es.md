@@ -16,6 +16,7 @@ comparePrice: 16.48 EUR
 prodname: 'BOSS Schino-Slim Shorts Pantalones Cortos  Blanco  Open White 120   40  Talla del Fabricante: 38  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V9HW51X/?tag=tolees-21'
 descuento: '26.09'
 average: '13.756666666666666'

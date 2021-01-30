@@ -16,6 +16,7 @@ comparePrice: 16.03 EUR
 prodname: 'Paladone Mini Lampara Rick and 3D Morty  multi'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KT9XYC6/?tag=tolees-21'
 descuento: '31.57'
 average: '12.31'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Cámara Vigilancia WiFi Interior  Apeman 1080P Cámara IP WiFi  Visión Nocturna  Audio de 2 Vías  Detector de Movimiento'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NMCRJXG/?tag=tolees-21'
 descuento: '32.51'
 average: '26.99'

@@ -16,6 +16,7 @@ comparePrice: 20 EUR
 prodname: 'Nike M NSW tee Swoosh BB Core T-Shirt  Hombre  Black  XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KKNJ56Z/?tag=tolees-21'
 descuento: '54.95'
 average: '9.01'

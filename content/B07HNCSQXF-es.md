@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Aerocool Cs105Rd Caja De Ordenador Con Ventana Acrílica  Ventilador Frontal  Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HNCSQXF/?tag=tolees-21'
 descuento: '27.81'
 average: '25.983333333333334'

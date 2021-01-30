@@ -16,6 +16,7 @@ comparePrice: 11.65 EUR
 prodname: 'NUK 10177124 Genius Color - Chupete de silicona  forma adaptada a la mandíbula  18-36 meses  2 unidades   color azul y verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M8NRDZT/?tag=tolees-21'
 descuento: '32.19'
 average: '7.9'

@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Reebok F/S Hi  Zapatillas de Deporte para Mujer  Blanco  INT-White/Silver   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000X1OOBW/?tag=tolees-21'
 descuento: '50.03'
 average: '53.20666666666667'

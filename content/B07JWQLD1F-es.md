@@ -16,6 +16,7 @@ comparePrice: 69.9 EUR
 prodname: 'Pepe Jeans Celia Pl701500 suéter   Dulwich 594   Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JWQLD1F/?tag=tolees-21'
 descuento: '67.04'
 average: '23.04'

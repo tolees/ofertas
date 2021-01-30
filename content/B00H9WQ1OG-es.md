@@ -16,6 +16,7 @@ comparePrice: 52.5 EUR
 prodname: 'Merc of London Card Polo Shirt  Gris  Mineral Marl   XL para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00H9WQ1OG/?tag=tolees-21'
 descuento: '44.80'
 average: '28.98'

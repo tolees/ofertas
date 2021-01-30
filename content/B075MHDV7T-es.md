@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Calcetines de Deporte Low Cut Pack de 5  Multicolor  EU 35-38 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075MHDV7T/?tag=tolees-21'
 descuento: '64.06'
 average: '17.95'

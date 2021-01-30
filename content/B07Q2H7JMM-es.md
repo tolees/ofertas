@@ -16,6 +16,7 @@ comparePrice: 21.49 EUR
 prodname: 'Amazon Essentials Full-Zip High-Pile Polar Fleece Jacket Outerwear-Jackets  Negro  XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q2H7JMM/?tag=tolees-21'
 descuento: '30.01'
 average: '15.04'

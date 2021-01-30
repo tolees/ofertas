@@ -16,6 +16,7 @@ comparePrice: 57.49 EUR
 prodname: 'Adidas Duramo 9  Zapatillas de Entrenamiento para Hombre  Negro  Core Black/Core Black/Core Black 0   46 2/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D5JY9RT/?tag=tolees-21'
 descuento: '33.92'
 average: '37.47'

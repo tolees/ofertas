@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Reloj Guess - Mujer W0911L5'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MSQR9H8/?tag=tolees-21'
 descuento: '31.92'
 average: '67.395'

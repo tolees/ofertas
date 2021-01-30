@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Reebok F/S Hi 2431  Zapatillas de Deporte para Mujer  Blanco  INT-White/Silver   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001CQY0M0/?tag=tolees-21'
 descuento: '50.03'
 average: '44.95'

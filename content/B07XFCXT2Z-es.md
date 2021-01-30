@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'XGEAR Canasta Baloncesto Tablero Baloncesto Juego Al Aire Libre y Interior Oficina Habitación Jardín Aro Baloncesto para Niños y Adultos  Incluyendo Inflador y Pelota '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XFCXT2Z/?tag=tolees-21'
 descuento: '47.85'
 average: '17.49'

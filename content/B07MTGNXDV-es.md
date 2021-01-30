@@ -16,6 +16,7 @@ comparePrice: 139.99 EUR
 prodname: 'Multímetro Digital Profesional  LOMVUM T28C Manual Rango Polimetro Digital 6000 Cuentas y 2000uF Tester Digital'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MTGNXDV/?tag=tolees-21'
 descuento: '83.58'
 average: '22.99'

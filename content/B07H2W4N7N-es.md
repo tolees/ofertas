@@ -16,6 +16,7 @@ comparePrice: 36.33 EUR
 prodname: 'Camión de Bomberos Eléctrico Juguete Coche Vehiculo con Luz  Sonidos  Bomba de Agua y Escalera Extendible para niños 3 4 5'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H2W4N7N/?tag=tolees-21'
 descuento: '47.76'
 average: '17.73'

@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'Modeen 40W Lámpara de mesa LED espiral lámpara de escritorio moderna del LED lámpara de cabecera del dormitorio acrílico elegante perfecto para la sala de estar del dormitorio  Silver '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078NJ8TQ6/?tag=tolees-21'
 descuento: '55.00'
 average: '9.0'

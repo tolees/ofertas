@@ -16,6 +16,7 @@ comparePrice: 57.99 EUR
 prodname: 'Cinta Métrica Láser 2 En 1  Meterk Telémetro láser 131.2Ft/40M y de Cinta Métrica 16.5Ft/5M  Medidor de Distancia Láser Digital LED Medición de Distancia  Área/Volumen/Pitágoras.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083SMHSW8/?tag=tolees-21'
 descuento: '43.15'
 average: '32.97'

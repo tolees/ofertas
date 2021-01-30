@@ -16,6 +16,7 @@ comparePrice: 8.92 EUR
 prodname: 'Safta - Carro Portamochilas Pequeño 67x22cm Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B008DCFSGS/?tag=tolees-21'
 descuento: '27.24'
 average: '6.49'

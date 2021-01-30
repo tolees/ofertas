@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'PUMA Vista  Zapatillas Unisex Adulto  Negro Black White/Charcoal Gray  42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DC1CTTH/?tag=tolees-21'
 descuento: '41.48'
 average: '39.4325'

@@ -16,6 +16,7 @@ comparePrice: 29.69 EUR
 prodname: 'Masajeador Portátil  Louviva Inalámbrico Masajeador Wand Relajar Cuerpo  7 Modos de Vibración - Tamaño Medio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06ZY14SHF/?tag=tolees-21'
 descuento: '46.14'
 average: '18.84'

@@ -16,6 +16,7 @@ comparePrice: 12.17 EUR
 prodname: 'Samsung Clear Cover - Funda para Samsung Galaxy S7 Edge  transparente con esquinas metálicas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BSSH9XS/?tag=tolees-21'
 descuento: '78.72'
 average: '2.59'

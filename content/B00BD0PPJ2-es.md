@@ -16,6 +16,7 @@ comparePrice: 37.29 EUR
 prodname: 'BRA Terra - Sartén Grill asador Liso  22 cm  Aluminio Fundido con Antiadherente Teflon Select'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BD0PPJ2/?tag=tolees-21'
 descuento: '38.35'
 average: '22.99'

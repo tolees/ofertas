@@ -16,6 +16,7 @@ comparePrice: 27 EUR
 prodname: 'Orbegozo HU 2016 Humidificador  20 W  Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0741FN3TZ/?tag=tolees-21'
 descuento: '37.15'
 average: '17.47'

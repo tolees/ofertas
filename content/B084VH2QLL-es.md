@@ -16,6 +16,7 @@ comparePrice: 26.98 EUR
 prodname: 'KESOTO Madera USB 2.0 Flash Pen Drive Disco De Memoria Portátil U Disco para PC Portátil - Madera-64GB'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084VH2QLL/?tag=tolees-21'
 descuento: '44.44'
 average: '14.99'

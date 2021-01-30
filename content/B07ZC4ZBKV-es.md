@@ -16,6 +16,7 @@ comparePrice: 11.95 EUR
 prodname: 'Proze Funda de Silicona para Samsung Galaxy S10e - Movil Carcasa para S10e 5 8 Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZC4ZBKV/?tag=tolees-21'
 descuento: '25.10'
 average: '8.95'

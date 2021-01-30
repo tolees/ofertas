@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Brazalete Deportivo para Correr Prueba de Sudor Apoyo Gimnasio Deportivo Brazo Banda Armband Soporte para Llaves Cables y Tarjetas para iPhone 8/7/6 Galaxy S9/S8 Huawei Bq x5 HTC  LG hasta 5.2 pulgas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B018LNR2PS/?tag=tolees-21'
 descuento: '35.02'
 average: '12.99'

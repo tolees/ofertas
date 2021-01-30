@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'Castellanisimos Zapato Náutico Clásico Piel Marino Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P2YPZWQ/?tag=tolees-21'
 descuento: '50.01'
 average: '59.99'

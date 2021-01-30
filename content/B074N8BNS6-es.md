@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Reloj REGENT - Mujer 12211008'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074N8BNS6/?tag=tolees-21'
 descuento: '78.38'
 average: '22.46333333333333'

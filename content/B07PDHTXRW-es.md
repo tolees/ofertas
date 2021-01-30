@@ -16,6 +16,7 @@ comparePrice: 149.9 EUR
 prodname: 'Philips Aspirador vertical sin cable FC6722/01 - Aspiradora  0 4 L  80 dB '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PDHTXRW/?tag=tolees-21'
 descuento: '33.36'
 average: '99.9'

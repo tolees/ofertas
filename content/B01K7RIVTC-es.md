@@ -16,6 +16,7 @@ comparePrice: 1.64 EUR
 prodname: 'Neutrex Oxy Blanco Puro Quitamanchas sin lejía 800ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01K7RIVTC/?tag=tolees-21'
 descuento: '39.02'
 average: '1.2133333333333332'

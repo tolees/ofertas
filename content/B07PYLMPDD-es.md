@@ -16,6 +16,7 @@ comparePrice: 149.0 EUR
 prodname: 'Apple MVFU2ZM/A Funda para teléfono móvil Folio - Fundas para teléfonos móviles  Folio  iPhone XS MAX '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PYLMPDD/?tag=tolees-21'
 descuento: '40.16'
 average: '89.16'

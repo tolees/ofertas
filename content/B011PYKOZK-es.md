@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'EXZACT Smart - Escala Analizadora Inteligente/Analizador Corporal/Báscula Personal Electronica/Báscula de Baño Digital - Bluetooth 4.0  iPhone iOS/Android  - 180 kg/ 400 lb  Blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B011PYKOZK/?tag=tolees-21'
 descuento: '42.87'
 average: '16.76777777777778'

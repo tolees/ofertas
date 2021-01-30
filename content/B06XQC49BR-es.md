@@ -16,6 +16,7 @@ comparePrice: 108.35 EUR
 prodname: 'Güde 94387 Aspiradora GFLS 1600 3 en 1 W  230 V  Azul y negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XQC49BR/?tag=tolees-21'
 descuento: '30.16'
 average: '75.67'

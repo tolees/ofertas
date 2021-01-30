@@ -16,6 +16,7 @@ comparePrice: 40.35 EUR
 prodname: 'Calvin Klein Brazilian Braguita brasileña  Rosa  Pink GLO TZ7    Talla del Fabricante: X-Small  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VLJCLRJ/?tag=tolees-21'
 descuento: '35.59'
 average: '25.99'

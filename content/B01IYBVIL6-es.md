@@ -16,6 +16,7 @@ comparePrice: 109.0 EUR
 prodname: 'Carolina Herrera Good Girl Eau de Parfum Spray 80 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IYBVIL6/?tag=tolees-21'
 descuento: '30.36'
 average: '71.45666666666666'

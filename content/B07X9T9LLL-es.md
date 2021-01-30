@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'PUMA Teamgoal 23 Knit Shorts Pantalones Cortos  Hombre  Black  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X9T9LLL/?tag=tolees-21'
 descuento: '34.84'
 average: '13.0'

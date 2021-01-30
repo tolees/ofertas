@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Slabo Protector de Pantalla Privacy para Realme 6 Pro protección contra Las miradas View Protection Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088BY2DFY/?tag=tolees-21'
 descuento: '33.36'
 average: '9.99'

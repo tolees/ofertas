@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Lee Daren Zip Fly Jeans  Azul  Time out Dn   33W / 30L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CQ45SJ8/?tag=tolees-21'
 descuento: '58.49'
 average: '44.31'

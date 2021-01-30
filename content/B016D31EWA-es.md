@@ -16,6 +16,7 @@ comparePrice: 329.0 EUR
 prodname: 'De Longhi DEX16F - Deshumidificador silencioso  función Secado y purificador  210 W  capacidad deshumidificación 16L/24h  depósito extraíble 2.1L  color azul marino'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B016D31EWA/?tag=tolees-21'
 descuento: '25.53'
 average: '244.99'

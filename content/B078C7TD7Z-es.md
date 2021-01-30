@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Motorola Talkabout T82 Extrem - Walki-Talkis  Alcance hasta 10 Km  Pantalla Oculta  Linterna LED  color Negro y Amarillo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078C7TD7Z/?tag=tolees-21'
 descuento: '25.02'
 average: '74.98'

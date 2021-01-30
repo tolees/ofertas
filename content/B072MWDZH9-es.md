@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Volcom Rockout Skinny Vintage Black 7'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072MWDZH9/?tag=tolees-21'
 descuento: '64.59'
 average: '36.25000000000001'

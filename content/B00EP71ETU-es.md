@@ -16,6 +16,7 @@ comparePrice: 359.99 EUR
 prodname: 'Canon EF-S 55-250 mm f/4-5.6 IS STM - Objetivo para canon  Distancia Focal 55-250mm  Apertura f/4-32  Zoom óptico 4.55x estabilizador  diámetro: 58mm  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00EP71ETU/?tag=tolees-21'
 descuento: '29.16'
 average: '263.5'

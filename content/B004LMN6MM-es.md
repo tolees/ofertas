@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Munchkin Juego de baño de baloncesto'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004LMN6MM/?tag=tolees-21'
 descuento: '28.25'
 average: '12.19'

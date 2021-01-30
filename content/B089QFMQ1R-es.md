@@ -16,6 +16,7 @@ comparePrice: 14.77 EUR
 prodname: 'VPCOK Mini Ventilador USB Silencioso 2 en 1 Ventiladores de Sobremesa Ventilador Portátil con 3 Velocidades de Viento Potentes  Plegable 180° y Rotación de 60°  para Escritorio  Oficina  Viaje'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089QFMQ1R/?tag=tolees-21'
 descuento: '27.08'
 average: '11.77'

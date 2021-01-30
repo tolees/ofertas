@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 's.Oliver Reloj Analógico para Mujer de Cuarzo con Correa en Cuero SO-3779-LQ'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KKZKK2R/?tag=tolees-21'
 descuento: '47.73'
 average: '41.79'

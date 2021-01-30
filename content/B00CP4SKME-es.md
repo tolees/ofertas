@@ -16,6 +16,7 @@ comparePrice: 32.17 EUR
 prodname: 'Portobello 2.5267 Gin No. 171  70cl'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00CP4SKME/?tag=tolees-21'
 descuento: '25.77'
 average: '23.88'

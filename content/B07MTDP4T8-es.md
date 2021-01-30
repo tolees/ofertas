@@ -16,6 +16,7 @@ comparePrice: 11.66 EUR
 prodname: 'TWBB Pantalones de chándal con cordón Casual para Hombre Pantalones'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MTDP4T8/?tag=tolees-21'
 descuento: '84.73'
 average: '1.78'

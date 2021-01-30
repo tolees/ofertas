@@ -16,6 +16,7 @@ comparePrice: 8.9 EUR
 prodname: '10x Mascarilla KN***95'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0886JSZYD/?tag=tolees-21'
 descuento: '37.75'
 average: '10.26'

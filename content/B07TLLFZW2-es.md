@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Superdry OL Classic Raglan Ziphood Capucha  Azul  Rich Blue Marl Bif   XL para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TLLFZW2/?tag=tolees-21'
 descuento: '40.69'
 average: '47.44'

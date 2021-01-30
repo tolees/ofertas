@@ -16,6 +16,7 @@ comparePrice: 16.95 EUR
 prodname: 'Mr. Wonderful WOA09019ES - Set de Libretas + Boli'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CHRRYS5/?tag=tolees-21'
 descuento: '40.00'
 average: '10.17'

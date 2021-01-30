@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Llave Usb 32 Gb Darth Vader Tlj - Memoria Flash Drive 2.0 Original Star Wars  Tribe Fd030709  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078WT8D5K/?tag=tolees-21'
 descuento: '30.22'
 average: '13.95'

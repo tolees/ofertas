@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Sesderma Reti Age Contorno de Ojos - 15 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00U8WQVRG/?tag=tolees-21'
 descuento: '36.56'
 average: '20.89'

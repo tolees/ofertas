@@ -16,6 +16,7 @@ comparePrice: 234.0 EUR
 prodname: 'Versace Jeans CoutureBorsaMujerBolso de manoMorado  Accademi  7x16x18 centimeters  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NLJ2LFZ/?tag=tolees-21'
 descuento: '54.57'
 average: '106.31'

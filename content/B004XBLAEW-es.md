@@ -16,6 +16,7 @@ comparePrice: 2.99 EUR
 prodname: 'Maped 197512 - Pack de compás  abrazadera y estuche de minas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004XBLAEW/?tag=tolees-21'
 descuento: '30.10'
 average: '2.522352941176471'

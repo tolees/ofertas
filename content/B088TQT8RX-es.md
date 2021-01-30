@@ -16,6 +16,7 @@ comparePrice: 6.89 EUR
 prodname: 'N / A Pretyj Funda para ZTE Blade A3 2020 con 3 Piezas Cristal Templado Protector de Pantalla  Suave TPU Transparente Silicona Anti-Rasguño Protectora  para ZTE Blade A3 2020 Mapas '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088TQT8RX/?tag=tolees-21'
 descuento: '58.06'
 average: '2.89'

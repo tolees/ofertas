@@ -16,6 +16,7 @@ comparePrice: 6.48 EUR
 prodname: 'Melissa & Doug-Mis Primeros Tatuajes Provisorios  Multicolor  2946 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00CL85DT2/?tag=tolees-21'
 descuento: '26.85'
 average: '4.74'

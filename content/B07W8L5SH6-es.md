@@ -16,6 +16,7 @@ comparePrice: 15.32 EUR
 prodname: 'MyHGRC - Mando a distancia para reproductor de DVD  compatible con Samsung Blu-ray BD-H5500EN BDJ4500 BD-J5900 BDJM57C BD-E5200 BD-F5100/TK BD-F5500/EN BD-F5500/EN 5800 XN.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W8L5SH6/?tag=tolees-21'
 descuento: '26.63'
 average: '11.24'

@@ -16,6 +16,7 @@ comparePrice: 11.46 EUR
 prodname: 'UnitedheartES Banco de energía Caja de batería Cargador de teléfono Estuche 4 Secciones Digital 2.5A Cargador rápido Pantalla Digital'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083HZ3PGM/?tag=tolees-21'
 descuento: '78.45'
 average: '2.47'

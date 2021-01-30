@@ -16,6 +16,7 @@ comparePrice: 135.0 EUR
 prodname: 'Lacoste Courtline 319 1 Us CMA  Zapatillas para Hombre  Blanco  White/Black 147   47 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L9SJVCV/?tag=tolees-21'
 descuento: '56.66'
 average: '58.51'

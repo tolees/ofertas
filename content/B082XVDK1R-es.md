@@ -16,6 +16,7 @@ comparePrice: 17.94 EUR
 prodname: 'Star Wars Póster  Multicolor  61 x 91.5cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082XVDK1R/?tag=tolees-21'
 descuento: '73.63'
 average: '4.73'

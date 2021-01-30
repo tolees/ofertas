@@ -16,6 +16,7 @@ comparePrice: 112.75 EUR
 prodname: 'K&N HA-6089 Filtro de Aire para  XL600V TRANSALP 89-99 Moto'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000E2AMP2/?tag=tolees-21'
 descuento: '43.40'
 average: '63.82'

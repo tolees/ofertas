@@ -16,6 +16,7 @@ comparePrice: 83.05 EUR
 prodname: 'Yonanas 1600 Heladera  Aluminio  Plateada'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FTRHJBD/?tag=tolees-21'
 descuento: '27.75'
 average: '60.0'

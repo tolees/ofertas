@@ -16,6 +16,7 @@ comparePrice: 2.33 EUR
 prodname: 'Creative Fruit Design Baby Teether Teeth Nursing Toy BPA Free Silicone Soft Mordedor Safe Chew Toy Baby Teeth Chupete - Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084Z1GDTY/?tag=tolees-21'
 descuento: '33.48'
 average: '1.55'

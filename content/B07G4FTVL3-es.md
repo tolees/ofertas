@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'Hugo BOSS Reloj Multiesfera para Mujer de Cuarzo con Correa en Bañada en Oro 1502445'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G4FTVL3/?tag=tolees-21'
 descuento: '38.48'
 average: '215.8625'

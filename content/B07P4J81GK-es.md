@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Superdry Track & Field Jogger Pantalones de Deporte  Rosa  lis Pink P6x   40  Talla del Fabricante: Medium  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P4J81GK/?tag=tolees-21'
 descuento: '77.17'
 average: '18.26'

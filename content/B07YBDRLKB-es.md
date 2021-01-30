@@ -16,6 +16,7 @@ comparePrice: 38.0 EUR
 prodname: 'Cartera Pepe Jeans Fair Horizontal con Cierre de Clic Negra'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YBDRLKB/?tag=tolees-21'
 descuento: '26.45'
 average: '27.95'

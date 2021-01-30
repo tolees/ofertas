@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Cortapelos para Hombres  Juego de Recortador Eléctrico sin Cable con Batería de Litio Recargable  Pantalla LED  Base de Carga  con Aceite de peluquería  PC1010'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FD9K3FT/?tag=tolees-21'
 descuento: '58.01'
 average: '44.65666666666667'

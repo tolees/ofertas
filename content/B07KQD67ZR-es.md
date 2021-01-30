@@ -16,6 +16,7 @@ comparePrice: 159.95 EUR
 prodname: 'Salomon XA Pro 3D GTX W  Zapatillas de Trail Running para Mujer  Rojo  Deep Claret/Syrah/Coral Almond   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KQD67ZR/?tag=tolees-21'
 descuento: '63.19'
 average: '60.475'

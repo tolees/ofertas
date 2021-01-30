@@ -16,6 +16,7 @@ comparePrice: 24.2 EUR
 prodname: 'Lorus Reloj de Pulsera R2387KX9'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01KGB8XII/?tag=tolees-21'
 descuento: '35.99'
 average: '18.546315789473688'

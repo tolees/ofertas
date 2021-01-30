@@ -16,6 +16,7 @@ comparePrice: 26.0 EUR
 prodname: 'Bandas de Silicona Antideslizantes Soporte para Montaje en Cuna para Manillar de Motocicleta/Bicicleta Clip Seguro Soporte para teléfono móvil Enviado al Azar-Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BTRKD3B/?tag=tolees-21'
 descuento: '33.50'
 average: '17.29'

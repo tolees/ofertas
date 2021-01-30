@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Lámpara de Techo Vintage  Tomshine 2 pack 3.94ft/1.2m Lámpara Colgante Retro de Metal E27 Base de la Bombilla Lámpara de Techo Industrial para Cocina Restaurante Ø300mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QQCG4JR/?tag=tolees-21'
 descuento: '29.88'
 average: '30.94625'

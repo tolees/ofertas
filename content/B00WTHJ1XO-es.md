@@ -16,6 +16,7 @@ comparePrice: 11.35 EUR
 prodname: 'AmazonBasics - Riñonera de viaje con tecnología RFID  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00WTHJ1XO/?tag=tolees-21'
 descuento: '38.50'
 average: '6.98'

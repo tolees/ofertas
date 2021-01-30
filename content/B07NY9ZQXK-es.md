@@ -16,6 +16,7 @@ comparePrice: 74.95 EUR
 prodname: 'Skechers Heston-Regano  Botas Clasicas para Hombre  Marrón  Dark Brown Leather CDB   42.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NY9ZQXK/?tag=tolees-21'
 descuento: '40.03'
 average: '44.95'

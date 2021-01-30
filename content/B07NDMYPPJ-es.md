@@ -16,6 +16,7 @@ comparePrice: 47.52 EUR
 prodname: 'G-STAR RAW Halite Polo  Rojo  Dk Baron 4749   XX-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDMYPPJ/?tag=tolees-21'
 descuento: '36.93'
 average: '29.97'

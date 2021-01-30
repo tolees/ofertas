@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'Hakeeta Molinillo de café eléctrico Molino de Granos  nueces  Semillas  Hierbas y Especias  con Hoja de Acero Inoxidable de 400W Potencia Muele Rápidoy Silenciosamente Viene con Cepillo para Limpieza'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QXSYBD8/?tag=tolees-21'
 descuento: '55.88'
 average: '12.79'

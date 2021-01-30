@@ -16,6 +16,7 @@ comparePrice: 13.1 EUR
 prodname: 'Mustela Stelatopia Aceite de Baño 200 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BM67VB6/?tag=tolees-21'
 descuento: '34.20'
 average: '8.829999999999998'

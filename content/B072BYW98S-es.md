@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Funko - Pop! Vinilo Colección Liga de la Justicia - Figura Wonder Woman  13708 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072BYW98S/?tag=tolees-21'
 descuento: '37.42'
 average: '9.656666666666666'

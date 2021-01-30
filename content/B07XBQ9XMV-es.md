@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Opret Tienda para Niños Pop Up Carpa Plegable para Niñas Carpa Auzl con Bolsa de Transporte y Luz de Cadena para Interiores y Exteriores'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XBQ9XMV/?tag=tolees-21'
 descuento: '41.68'
 average: '20.49'

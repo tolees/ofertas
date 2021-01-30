@@ -16,6 +16,7 @@ comparePrice: 49.0 EUR
 prodname: 'Fossil Pulsera de Hombre con Acero inoxidable  Metal  Cuero JF03184040'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZHDZ3H2/?tag=tolees-21'
 descuento: '51.02'
 average: '24.0'

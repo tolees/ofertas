@@ -16,6 +16,7 @@ comparePrice: 529.0 EUR
 prodname: 'Xiaomi Mix 2S - Smartphone con Pantalla de 5.99"  Memoria 6 + 64 GB  cámara Dual de 12+12 MP   Color Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GVDC5Z7/?tag=tolees-21'
 descuento: '48.79'
 average: '270.9'

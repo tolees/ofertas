@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'BRIKSMAX Kit de Iluminación Led para Lego Creator Furgoneta de Playa  Compatible con Ladrillos de Construcción Lego Modelo 31079  Juego de Legos no Incluido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TVP2FC9/?tag=tolees-21'
 descuento: '75.01'
 average: '24.99'

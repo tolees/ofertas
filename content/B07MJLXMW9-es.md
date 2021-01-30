@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Adidas Sambarose  Zapatillas Clasicas para Mujer  Multicolor  FTWR White/Silver Met./Core Black Ee9017   41 1/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MJLXMW9/?tag=tolees-21'
 descuento: '43.10'
 average: '66.9'

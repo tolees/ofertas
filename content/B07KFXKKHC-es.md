@@ -16,6 +16,7 @@ comparePrice: 119.95 EUR
 prodname: 'PUMA Thunder Fashion 2.0  Zapatillas Deportivas Unisex Adulto  Multicolor  Puma Black-Nrgy Red    42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KFXKKHC/?tag=tolees-21'
 descuento: '65.82'
 average: '41.0'

@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'Maybelline New York Super Stay Barra de Labios Matte Ink 50 Voyager - 26 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073HBZRX3/?tag=tolees-21'
 descuento: '56.51'
 average: '5.322857142857143'

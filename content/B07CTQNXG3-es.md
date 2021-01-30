@@ -16,6 +16,7 @@ comparePrice: 4.55 EUR
 prodname: 'FIND - Cat Lady  Máscara efecto alargador marrón + Delineador de ojos líquido marrón '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CTQNXG3/?tag=tolees-21'
 descuento: '37.14'
 average: '3.9975'

@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Ban presto Figura Dragon Ball GT Master Stars Piece The Super Saiyan 4 Son Goku  Adultos Unisex  Multicolor  25'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K14LZL8/?tag=tolees-21'
 descuento: '37.59'
 average: '64.36777777777777'

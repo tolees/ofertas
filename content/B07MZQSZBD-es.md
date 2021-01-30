@@ -16,6 +16,7 @@ comparePrice: 79.9 EUR
 prodname: 'Pepe Jeans Marissa suéter   Candle 806   Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZQSZBD/?tag=tolees-21'
 descuento: '79.65'
 average: '17.12'

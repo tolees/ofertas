@@ -16,6 +16,7 @@ comparePrice: 179.99 EUR
 prodname: 'Microsoft Surface Pro Signature - Funda con teclado  plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YF44BYX/?tag=tolees-21'
 descuento: '33.89'
 average: '144.8409090909091'

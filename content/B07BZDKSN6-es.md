@@ -16,6 +16,7 @@ comparePrice: 13.69 EUR
 prodname: 'Magnético cerveza soporte  Soporte magnético 2pcs Botelleros de ahorrar espacio y organizar a la nevera techo y redes  Accesorio de cocina flotante'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BZDKSN6/?tag=tolees-21'
 descuento: '55.51'
 average: '6.09'

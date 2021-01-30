@@ -16,6 +16,7 @@ comparePrice: 179.0 EUR
 prodname: 'Armani Exchange Reloj Analógico para Hombre de Cuarzo con Correa en Silicona AX2409'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QJ82JZW/?tag=tolees-21'
 descuento: '60.00'
 average: '71.6'

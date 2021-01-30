@@ -16,6 +16,7 @@ comparePrice: 135.68 EUR
 prodname: 'Camfosy - Botas de Cuero para mujer  color Verde  talla 39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GZHG746/?tag=tolees-21'
 descuento: '42.00'
 average: '78.69'

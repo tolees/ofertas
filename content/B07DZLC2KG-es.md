@@ -16,6 +16,7 @@ comparePrice: 88.24 EUR
 prodname: 'Tom Ford Ombre Leather Agua Fresca - 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DZLC2KG/?tag=tolees-21'
 descuento: '27.92'
 average: '63.6'

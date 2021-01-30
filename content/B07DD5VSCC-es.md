@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Borrás 18057 Ot  El Juego De Mesa  Multicolor   color/modelo surtido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DD5VSCC/?tag=tolees-21'
 descuento: '67.38'
 average: '12.484285714285715'

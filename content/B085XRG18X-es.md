@@ -16,6 +16,7 @@ comparePrice: 10.98 EUR
 prodname: 'Oihxse Mandala Flores Encaje Patrón Serie Case Compatible con Samsung Galaxy S7 Funda TPU Silicona Suave Protector Ultra Slim Anti-Rasguño Transparente Carcasa  A15 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085XRG18X/?tag=tolees-21'
 descuento: '27.32'
 average: '7.98'

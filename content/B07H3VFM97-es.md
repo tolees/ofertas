@@ -16,6 +16,7 @@ comparePrice: 29 EUR
 prodname: 'Emma & Giovanni - Pullover- Mujer  Beige  M/L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H3VFM97/?tag=tolees-21'
 descuento: '55.52'
 average: '12.9'

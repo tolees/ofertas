@@ -16,6 +16,7 @@ comparePrice: 49.0 EUR
 prodname: 'Kipling KiplingTotepackMujerBolsos maletínMulticolor  Camo Map  57x37x18 Centimeters  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TTPDXMV/?tag=tolees-21'
 descuento: '62.80'
 average: '19.345000000000002'

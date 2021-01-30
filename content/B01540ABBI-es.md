@@ -16,6 +16,7 @@ comparePrice: 9.5 EUR
 prodname: 'MATRIX total results HIGHT AMPLIFY - Champú  300 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01540ABBI/?tag=tolees-21'
 descuento: '57.58'
 average: '4.03'

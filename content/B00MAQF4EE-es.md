@@ -16,6 +16,7 @@ comparePrice: 61.88 EUR
 prodname: 'Fujifilm Instax Mini Brillo - Pack de 40 Películas Fotográficas Instantáneas  40 hojas   Color Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00MAQF4EE/?tag=tolees-21'
 descuento: '54.27'
 average: '28.320000000000004'

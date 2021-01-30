@@ -16,6 +16,7 @@ comparePrice: 122.13 EUR
 prodname: 'The Glenrothes 18 años Single Malt Scotch Whisky 43% + Pack Regalo 2 Vasos - 700 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081F8YZP6/?tag=tolees-21'
 descuento: '36.86'
 average: '82.39'

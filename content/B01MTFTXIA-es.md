@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Brother QL-800 - Impresora de Etiquetas  USB 2.0  Cortador automático  impresión a Negro y Rojo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MTFTXIA/?tag=tolees-21'
 descuento: '33.99'
 average: '70.3025'

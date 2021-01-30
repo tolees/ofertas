@@ -16,6 +16,7 @@ comparePrice: 85.0 EUR
 prodname: 'Kipling ONALO Bolsa de Viaje  45 cm  18 Liters  Azul  Laser Blue '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V3M9B1R/?tag=tolees-21'
 descuento: '68.11'
 average: '27.11'

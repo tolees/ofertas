@@ -16,6 +16,7 @@ comparePrice: 24.52 EUR
 prodname: 'Almohada de Cuello  Inflable Almohadas de Viaje para Aviones  Viajes en Coche  Hombres  Niñas  Durmiendo Suave  Soporte de Confort de Cuello  Almohada en Forma de U'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G3BW64X/?tag=tolees-21'
 descuento: '67.41'
 average: '7.99'

@@ -16,6 +16,7 @@ comparePrice: 369.89 EUR
 prodname: 'Aire Acondicionado Portatil  Aire Acondicionado Móvil con Cristal de Hielo y Control Remoto  Climatizador Evaporativo Silencioso de Bajo Consumo de Energía con Humidificación para Hogar y Oficina'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085KXXGM5/?tag=tolees-21'
 descuento: '40.55'
 average: '219.89'

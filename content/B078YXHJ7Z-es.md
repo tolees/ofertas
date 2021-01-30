@@ -16,6 +16,7 @@ comparePrice: 8.95 EUR
 prodname: 'Calzoncillo tanga sexi sensual erotico para hombres. TALLA ÚNICA. Practica juegos sexuales con tu pareja.Accesorio ideal para despedida de solteros solteras'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078YXHJ7Z/?tag=tolees-21'
 descuento: '33.52'
 average: '5.95'

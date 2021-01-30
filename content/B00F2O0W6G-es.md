@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Einhell Expert Taladro atornillador sin cable  TE-CD 12 Li-2 B   maletín Bmc  2 baterías  tipo de batería Li-Ion  voltaje 12 V  capacidad de batería 1 3 Ah   ref. 4513602 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00F2O0W6G/?tag=tolees-21'
 descuento: '40.02'
 average: '55.367999999999995'

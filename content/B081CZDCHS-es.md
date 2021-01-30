@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'JOYUE Joyero Pequeña  Joyero portátil de Viaje para Mujer  Jewelry Organizer para Anillos Aretes Pendientes Pulseras y Collares  16 5 x 11 5 x 5 5 cm  Rosado '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081CZDCHS/?tag=tolees-21'
 descuento: '28.59'
 average: '9.99'

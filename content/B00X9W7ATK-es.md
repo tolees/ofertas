@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'L Oreal Paris Sublime Mousse Coloración Permanente 700 Castaño Muy Claro Natural'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00X9W7ATK/?tag=tolees-21'
 descuento: '42.21'
 average: '5.75'

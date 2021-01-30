@@ -16,6 +16,7 @@ comparePrice: 195.0 EUR
 prodname: 'Swatch Reloj Analógico para Hombre de Automático con Correa en Caucho YIM401'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V3BG4CR/?tag=tolees-21'
 descuento: '30.79'
 average: '134.95'

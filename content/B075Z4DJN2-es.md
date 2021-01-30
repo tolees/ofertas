@@ -16,6 +16,7 @@ comparePrice: 41.93 EUR
 prodname: 'find. Botas Chelsea Mujer  Marrón  Tan   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075Z4DJN2/?tag=tolees-21'
 descuento: '60.51'
 average: '16.56'

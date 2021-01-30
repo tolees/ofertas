@@ -16,6 +16,7 @@ comparePrice: 34.9 EUR
 prodname: 'Roc Soleil - Pack Ahorro con Neceser de Regalo  Incluye Protector Solar SPF50 200 ml + Aftersun 200 ml '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QGD5BRC/?tag=tolees-21'
 descuento: '59.89'
 average: '15.31'

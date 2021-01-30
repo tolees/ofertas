@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Rogue Stormers'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06X6BH35F/?tag=tolees-21'
 descuento: '66.69'
 average: '9.99'

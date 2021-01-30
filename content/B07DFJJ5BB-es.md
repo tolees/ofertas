@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Figura Pop NBX: Oogie Boogie Bugs'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DFJJ5BB/?tag=tolees-21'
 descuento: '43.82'
 average: '9.024285714285714'

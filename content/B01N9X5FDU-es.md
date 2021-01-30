@@ -16,6 +16,7 @@ comparePrice: 165.0 EUR
 prodname: 'Be Cool Zas Silla de Paseo Plegable  Uso desde Recién Nacido  Ligera con Chasis de Aluminio  Color Wave'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N9X5FDU/?tag=tolees-21'
 descuento: '47.69'
 average: '86.31'

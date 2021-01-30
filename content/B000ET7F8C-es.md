@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'Crayola - 24 Crayolas variedad de colores'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000ET7F8C/?tag=tolees-21'
 descuento: '41.05'
 average: '4.71'

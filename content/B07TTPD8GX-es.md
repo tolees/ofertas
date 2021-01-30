@@ -16,6 +16,7 @@ comparePrice: 23.0 EUR
 prodname: 'Kipling Baroe S  Monederos para Mujer  Negro  Carbon Metallic   11.5x7x3 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TTPD8GX/?tag=tolees-21'
 descuento: '61.70'
 average: '8.350000000000001'

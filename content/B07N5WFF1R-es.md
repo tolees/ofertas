@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Calvin Klein PUFFER ROUND BACKPACKHombreShoppers y bolsos de hombroNegro  Black  16x40x28 centimeters  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N5WFF1R/?tag=tolees-21'
 descuento: '50.00'
 average: '49.5'

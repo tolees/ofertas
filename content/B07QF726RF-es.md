@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Cajas Bonitas Para Regalo Caja de Regalo Juego de 100 Cajas de Papel Natural para Bodas  Fiestas y Dulces'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QF726RF/?tag=tolees-21'
 descuento: '28.04'
 average: '17.99'

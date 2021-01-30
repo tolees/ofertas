@@ -16,6 +16,7 @@ comparePrice: 17.95 EUR
 prodname: 'Lékué Molde para Hacer Pan  Silicona  marrón  25 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NF9CT5W/?tag=tolees-21'
 descuento: '30.08'
 average: '13.153333333333334'

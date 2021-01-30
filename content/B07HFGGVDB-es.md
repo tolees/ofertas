@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Smilodox Power - Pantalones de chándal para hombre  para deporte  gimnasio  entrenamiento y ocio  pantalones largos antracita XXXL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HFGGVDB/?tag=tolees-21'
 descuento: '78.35'
 average: '12.99'

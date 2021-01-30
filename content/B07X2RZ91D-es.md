@@ -16,6 +16,7 @@ comparePrice: 23.35 EUR
 prodname: 'KIWI design Funda Protectora para dji Osmo Pocket  Cubierta de Silicona a Prueba de Polvo Compatible con Accesorios dji Osmo Pocket  Gris Oscuro  Funda Original Osmo Pocket NO Incluido '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X2RZ91D/?tag=tolees-21'
 descuento: '44.37'
 average: '12.99'

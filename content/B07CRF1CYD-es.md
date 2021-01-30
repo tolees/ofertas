@@ -16,6 +16,7 @@ comparePrice: 32.73 EUR
 prodname: 'Pepe Jeans Aitana Pantalones Cortos   Multi Bleu 0aa   6 años para Niñas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CRF1CYD/?tag=tolees-21'
 descuento: '63.79'
 average: '11.85'

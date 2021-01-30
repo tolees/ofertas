@@ -16,6 +16,7 @@ comparePrice: 13.9 EUR
 prodname: 'CARAMAZ Parasol Coche con protección UV Extra Oscura - Autoadhesivo  para Proteger del Sol a bebés y Mascotas  2 parasoles para bebé con diseño de Tortuga'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V468CQV/?tag=tolees-21'
 descuento: '28.78'
 average: '9.9'

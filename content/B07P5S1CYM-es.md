@@ -16,6 +16,7 @@ comparePrice: 37.59 EUR
 prodname: '3 Unids Perro Ropa de Cama Suave de Poliéster Edredón Funda Nórdica Juego de Cama con Funda de Almohada para Accesorios UK King '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P5S1CYM/?tag=tolees-21'
 descuento: '61.98'
 average: '14.29'

@@ -16,6 +16,7 @@ comparePrice: 124.99 EUR
 prodname: 'Asics Gel-Pulse 9 G-TX T7d9n-3390  Zapatillas de Entrenamiento para Mujer  Morado  Purple T7d9n/3390   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0719DTX8W/?tag=tolees-21'
 descuento: '54.57'
 average: '56.78'

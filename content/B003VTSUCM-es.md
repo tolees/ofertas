@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Giesswein Villach  Pantuflas Unisex  Gris  35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003VTSUCM/?tag=tolees-21'
 descuento: '32.81'
 average: '26.87'

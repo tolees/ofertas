@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Cable guy Black Panther soporte de sujeción y carga para mando de consola y smartphone con tu personaje favorito con licencia de Marvel Avengers Endgame.Producto con licencia oficial.Exquisite Gaming'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NGV1J38/?tag=tolees-21'
 descuento: '40.18'
 average: '14.95'

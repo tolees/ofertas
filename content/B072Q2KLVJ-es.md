@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Wilson Federer Junior 19 21 23 25 26 Raqueta De Tenis + 3 pelotas de tenis - 21"'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072Q2KLVJ/?tag=tolees-21'
 descuento: '41.68'
 average: '34.99'

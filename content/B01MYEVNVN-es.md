@@ -16,6 +16,7 @@ comparePrice: 6.99 EUR
 prodname: 'Dove  Paño y toallita facial  Sensitive  - 4 de 50 Unidades  Total: 200 Unidades '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MYEVNVN/?tag=tolees-21'
 descuento: '30.19'
 average: '4.88'

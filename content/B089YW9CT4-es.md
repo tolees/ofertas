@@ -16,6 +16,7 @@ comparePrice: 15.5 EUR
 prodname: 'DOHUI Funda para Xiaomi Redmi 10X Pro 5G  Silicona Suave TPU Protección Carcasa [Anti-Rasguño] Case Funda para Xiaomi Redmi 10X Pro 5G  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089YW9CT4/?tag=tolees-21'
 descuento: '70.97'
 average: '4.5'

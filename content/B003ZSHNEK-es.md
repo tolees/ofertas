@@ -16,6 +16,7 @@ comparePrice: 1199.0 EUR
 prodname: 'Nikon AF-S 24-120mm F4 ED VR - Objetivo para Nikon  distancia focal 36-180mm  apertura f/4  zoom óptico 5x estabilizador  color negro - Versión Europea'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003ZSHNEK/?tag=tolees-21'
 descuento: '25.02'
 average: '841.6225000000001'

@@ -16,6 +16,7 @@ comparePrice: 5.75 EUR
 prodname: 'Garnier Fructis Champú Anticaspa - 700 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XDQKWZV/?tag=tolees-21'
 descuento: '34.78'
 average: '3.75'

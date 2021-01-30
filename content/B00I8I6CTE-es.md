@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Bomb Cosmetics  Regalo para el cuidado de la piel  Little Box of Love  6 productos  - 240 gr.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00I8I6CTE/?tag=tolees-21'
 descuento: '25.37'
 average: '12.68'

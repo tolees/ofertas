@@ -16,6 +16,7 @@ comparePrice: 13.54 EUR
 prodname: 'Max Factor FaceFinity 3 en 1 All Day Flawless Base de Maquillaje Tono 075 Golden - 119 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B009S2IMDS/?tag=tolees-21'
 descuento: '48.67'
 average: '7.033333333333333'

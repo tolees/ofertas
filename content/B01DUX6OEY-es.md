@@ -16,6 +16,7 @@ comparePrice: 1.89 EUR
 prodname: 'Knorr - Ligeresa - Crema de Verduras de la Huerta - 500 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01DUX6OEY/?tag=tolees-21'
 descuento: '31.22'
 average: '1.5'

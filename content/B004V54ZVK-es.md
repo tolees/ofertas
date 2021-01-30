@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Absolut Vodka - 1 L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004V54ZVK/?tag=tolees-21'
 descuento: '25.54'
 average: '12.65'

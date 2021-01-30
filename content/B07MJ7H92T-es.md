@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Clarks Cotrell Easy  Mocasines para Hombre  Azul  Navy Combi Navy Combi   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MJ7H92T/?tag=tolees-21'
 descuento: '29.66'
 average: '38.211999999999996'

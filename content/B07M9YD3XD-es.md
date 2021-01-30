@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Lacoste HH9553 Pantalones  Beige  Viennois   36  Talla del Fabricante: 36/32  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M9YD3XD/?tag=tolees-21'
 descuento: '45.01'
 average: '54.99'

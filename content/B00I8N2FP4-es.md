@@ -16,6 +16,7 @@ comparePrice: 118.24 EUR
 prodname: 'Wera 05059030001 Juego de Herramientas con 17 Piezas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00I8N2FP4/?tag=tolees-21'
 descuento: '60.33'
 average: '46.905'

@@ -16,6 +16,7 @@ comparePrice: 110.7 EUR
 prodname: 'Love MoschinoJc4247pp0aMujerCarteras de manoDorado  Platinum 7x14x22 Centimeters  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V8V4PV9/?tag=tolees-21'
 descuento: '36.80'
 average: '69.96'

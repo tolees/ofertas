@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Funko Pop Captain Marvel Vers  Multicolor  Talla única  36342 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HB3HKHY/?tag=tolees-21'
 descuento: '40.25'
 average: '10.141250000000001'

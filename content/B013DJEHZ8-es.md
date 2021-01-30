@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Activision Blizzard Skylanders Superchargers - Vehicle Pack : Shield Striker'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B013DJEHZ8/?tag=tolees-21'
 descuento: '62.31'
 average: '8.61'

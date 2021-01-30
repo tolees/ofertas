@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Lacoste Graduate TRI1 SMA  Zapatillas para Hombre  Blanco  Wht/Nvy/Red   40.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SQXWZ3G/?tag=tolees-21'
 descuento: '48.61'
 average: '50.88'

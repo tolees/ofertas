@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'Medidor pH  Digital Medidor TDS de Prueba PH Medidor TDS/PH/CE Temperatura 4 en 1 Set'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WDC6WPK/?tag=tolees-21'
 descuento: '30.47'
 average: '16.14'

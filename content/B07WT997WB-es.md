@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Mini Cámara Espía WiFi  Tesecu Cámara Oculta de vigilancia inalámbrica HD 1080P Videocámara Portátil con visión Nocturna Cámara de Seguridad para iPhone/Android Phone/iPad/PC'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WT997WB/?tag=tolees-21'
 descuento: '47.15'
 average: '36.99'

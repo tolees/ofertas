@@ -16,6 +16,7 @@ comparePrice: 9.16 EUR
 prodname: 'Qkiss Cepillo de Pelo de Lana  Suave y Cómodo  Cepillo de Pelo Multifunción Cepillo de Aceite Retro Cepillo de la Manija Larga Peine de Barba Cepillo de Pelo Multifunción'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TSK57NG/?tag=tolees-21'
 descuento: '37.88'
 average: '5.69'

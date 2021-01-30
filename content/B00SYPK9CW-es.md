@@ -16,6 +16,7 @@ comparePrice: 9.63 EUR
 prodname: 'Bourjois Velvet Barra de Labios Líquida Tono 11 So Hap’pink - 29 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00SYPK9CW/?tag=tolees-21'
 descuento: '43.82'
 average: '5.41'

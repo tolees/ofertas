@@ -16,6 +16,7 @@ comparePrice: 549.99 EUR
 prodname: 'Bosch - Desmenuzadora biotrituradora AXT 25 TC  2500 W  caja colectora de 53 l  capacidad de corte de 45 mm de diámetro  en caja '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001UHO8Q4/?tag=tolees-21'
 descuento: '29.39'
 average: '378.4966666666667'

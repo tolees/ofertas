@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Vans Atwood Textile  Zapatillas para Hombre  Azul   Corduroy  Dress Blue/White SSX   40.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TLZ1G1F/?tag=tolees-21'
 descuento: '59.83'
 average: '26.166666666666668'

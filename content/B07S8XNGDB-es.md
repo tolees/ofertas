@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'GREAT ART Foto Mural Bosque Mistico de Cedros Poster Naturaleza Arboles Cedro 210 cm x 140 cm - Papel Pintado 5 Piezas incluye Pasta para pegar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S8XNGDB/?tag=tolees-21'
 descuento: '43.88'
 average: '44.9'

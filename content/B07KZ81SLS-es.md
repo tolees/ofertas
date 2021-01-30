@@ -16,6 +16,7 @@ comparePrice: 16.6 EUR
 prodname: 'AmazonBasics - Sábana ajustable de microfibra premium  135 x 190 cm   morado grisáceo chevrón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KZ81SLS/?tag=tolees-21'
 descuento: '58.37'
 average: '7.283333333333333'

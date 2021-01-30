@@ -16,6 +16,7 @@ comparePrice: 22.95 EUR
 prodname: 'Karciane Podziemia'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NBIJZAN/?tag=tolees-21'
 descuento: '27.41'
 average: '16.66'

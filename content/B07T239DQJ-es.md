@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Simpeak Funda Compatible con Xiaomi Mi 9T / Mi 9T Pro + Cristal Vidrio Templado  Funda Compatible con Xiaomi Mi 9T TPU Silicona Ultra Fino Protector de Pantalla y Carcasa Case de Cristal  Transparente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T239DQJ/?tag=tolees-21'
 descuento: '46.19'
 average: '6.99'

@@ -16,6 +16,7 @@ comparePrice: 199.95 EUR
 prodname: 'Beats Solo3 Wireless - Auriculares supraaurales - Chip Apple W1  Bluetooth de Clase 1  40 horas de sonido ininterrumpido - Plata Satén'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YVXS5FX/?tag=tolees-21'
 descuento: '26.78'
 average: '146.4'

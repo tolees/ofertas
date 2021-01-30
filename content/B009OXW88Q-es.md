@@ -16,6 +16,7 @@ comparePrice: 36.99 EUR
 prodname: 'Taurus Toast & Go - Sandwichera  700 W  superficie antiadherente de 23 x 14.5 cm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B009OXW88Q/?tag=tolees-21'
 descuento: '35.12'
 average: '23.56923076923077'

@@ -16,6 +16,7 @@ comparePrice: 63.34 EUR
 prodname: 'Casio Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable MTP-1183PA-7AEF'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00IZE4SZQ/?tag=tolees-21'
 descuento: '52.79'
 average: '29.77857142857143'

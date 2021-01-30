@@ -16,6 +16,7 @@ comparePrice: 65.46 EUR
 prodname: 'Tommy Hilfiger Tommy Regular Polo  Azul  Sail Blue   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VNN7TSH/?tag=tolees-21'
 descuento: '49.05'
 average: '33.35'

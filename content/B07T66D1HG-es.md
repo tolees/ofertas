@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'UMIPUBO Invisible Sujetador Adhesivo Deportivo para Mujer Push Up Sujetador Reutilizable Sin Tirantes Silicona Bra Strapless Nipple Covers  Piel 2 Pares   12cm Copa C  '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T66D1HG/?tag=tolees-21'
 descuento: '36.40'
 average: '8.99'

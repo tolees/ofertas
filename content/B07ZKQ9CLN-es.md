@@ -16,6 +16,7 @@ comparePrice: 2.99 EUR
 prodname: 'Herbal Essences Daily Detox Brillo Con Té Blanco Y Menta Champú 400 ml  Elimina Suavemente Las Impurezas Diarias'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZKQ9CLN/?tag=tolees-21'
 descuento: '66.56'
 average: '1.0'

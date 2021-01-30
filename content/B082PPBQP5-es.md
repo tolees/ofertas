@@ -16,6 +16,7 @@ comparePrice: 27.99 EUR
 prodname: 'SHIELDON Funda Portátil 13-13.3 Pulgadas  Funda Ordenador Maletín Impermeable para MacBook Air/MacBook Pro/iPad Pro 12.9/Acer/ASUS/DELL/Lenovo  Funda Blandas para Portátiles y Netbooks  Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082PPBQP5/?tag=tolees-21'
 descuento: '35.91'
 average: '17.94'

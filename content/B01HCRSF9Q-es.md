@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'adidas Originals Superstar  Zapatillas Unisex Niños  Blanco  Ftwbla/Ftwbla/Ftwbla   30 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HCRSF9Q/?tag=tolees-21'
 descuento: '25.00'
 average: '36.425'

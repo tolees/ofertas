@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Adidas Terrex Eastrail  Zapatillas de Deporte para Hombre  Multicolor  Gricua/Negbás/Gritre 000   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NQR5Z35/?tag=tolees-21'
 descuento: '29.97'
 average: '55.99'

@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Call of Duty Taza  cerámica  Multicolor  8 x 12 x 9 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079C7XT5S/?tag=tolees-21'
 descuento: '50.35'
 average: '6.45'

@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'PUMA Carina  Zapatillas para Mujer  Negro Black Black Silver  40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JFL6CJ6/?tag=tolees-21'
 descuento: '33.34'
 average: '37.85333333333333'

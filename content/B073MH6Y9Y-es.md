@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'SELECTED FEMME Sfgaia HR Jegging New Black Noos Pantalones  Negro Denim  34 para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073MH6Y9Y/?tag=tolees-21'
 descuento: '50.01'
 average: '26.023333333333333'

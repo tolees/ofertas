@@ -16,6 +16,7 @@ comparePrice: 3.44 EUR
 prodname: 'Hosaire Funda para Disco Duro Externo 2.5" para WD Western Digital My Passport Ultra Elements/Toshiba Canvio Basics/Seagate Backup Plus Slim portátil 1TB 2TB USB 3.0  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06Y67LHQV/?tag=tolees-21'
 descuento: '30.23'
 average: '2.32'

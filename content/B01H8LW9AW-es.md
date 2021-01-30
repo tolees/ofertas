@@ -16,6 +16,7 @@ comparePrice: 26.0 EUR
 prodname: 'Under Armour Men s Shadow Cap 4.0 Gorra  Hombre  Negro  Black/Black/Reflective 001   Talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01H8LW9AW/?tag=tolees-21'
 descuento: '39.31'
 average: '14.995000000000001'

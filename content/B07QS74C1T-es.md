@@ -16,6 +16,7 @@ comparePrice: 279.9 EUR
 prodname: 'Nautica Reloj Cronógrafo para Hombre de Cuarzo con Correa en Caucho NAI19506G'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QS74C1T/?tag=tolees-21'
 descuento: '55.67'
 average: '147.72'

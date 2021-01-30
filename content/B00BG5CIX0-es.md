@@ -16,6 +16,7 @@ comparePrice: 24.0 EUR
 prodname: 'Philips Lighting Creek Aplique  Blanco  24 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BG5CIX0/?tag=tolees-21'
 descuento: '29.21'
 average: '19.38'

@@ -16,6 +16,7 @@ comparePrice: 129.95 EUR
 prodname: 'Adidas Terrex Skychaser LT  Zapatillas de Deporte para Hombre  Negro  Negbás/Negbás/Gricua 000   39 1/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L45D6KW/?tag=tolees-21'
 descuento: '50.47'
 average: '56.44777777777778'

@@ -16,6 +16,7 @@ comparePrice: 42.34 EUR
 prodname: 'Crucial Ballistix Sport LT BLS8G4D32AESCK 3200 MHz  DDR4  DRAM  Memoria Gamer para ordenadores de sobremesa  8 GB  CL16  Blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MNJRQB2/?tag=tolees-21'
 descuento: '26.81'
 average: '34.99'

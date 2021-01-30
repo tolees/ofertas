@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'POP! Vinilo - Tokyo Ghoul: Ken Kaneki'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01921EGIY/?tag=tolees-21'
 descuento: '37.42'
 average: '9.38'

@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Monedas oro Juguete  ZoneYan Monedas de oro y Gemas  100 Monedas de oro Pirata  100 Gemas de Piratas  Monedas de oro y Gemas Piratas del Tesoro Pirata  Búsqueda del Tesoro  Cumpleaños Los Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08DV51GFY/?tag=tolees-21'
 descuento: '25.01'
 average: '14.99'

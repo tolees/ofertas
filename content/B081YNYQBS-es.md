@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Rodillo Amasar de Madera Rodillo de Cocina con SíMbolos de Crismas de Madera Grabado en Relieve  El Mejor para Fondant  Pastas para Tartas Y Pay  Galletas Y Masa para Pasteles  43 CentíMetros'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081YNYQBS/?tag=tolees-21'
 descuento: '50.03'
 average: '9.99'

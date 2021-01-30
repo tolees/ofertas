@@ -16,6 +16,7 @@ comparePrice: 39.61 EUR
 prodname: 'Feleph Kit de peinture animalière Enfants artisanat et fournitures artistiques Ensemble peignez VOS propres Grandes Figurines Dessin bricolage jouet fête Cadeau d anniversaire pour garçons Filles'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CGJRSM4/?tag=tolees-21'
 descuento: '54.56'
 average: '18.0'

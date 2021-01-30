@@ -16,6 +16,7 @@ comparePrice: 1158.22 EUR
 prodname: 'MSI Nightblade 3 VR7RC-008EU - Ordenador de sobremesa  Intel  Core i5-7400  RAM de 8 GB  HDD de 1 TB y 128 GB SSD  NVIDIA GeForce GTX 1060  Windows 10 Home   Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MTA0GO9/?tag=tolees-21'
 descuento: '40.51'
 average: '1117.77'

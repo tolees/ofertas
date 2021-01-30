@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Dockers by Gerli 36ht039  Zapatillas para Hombre  Negro  Schwarz 100   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q6NWB5T/?tag=tolees-21'
 descuento: '67.24'
 average: '22.533333333333335'

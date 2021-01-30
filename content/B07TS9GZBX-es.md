@@ -16,6 +16,7 @@ comparePrice: 119.95 EUR
 prodname: 'Gant Cocoville  Zapatillas para Mujer  Blanco  BR.Wht./Cream/Beige G295   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TS9GZBX/?tag=tolees-21'
 descuento: '55.36'
 average: '53.55'

@@ -16,6 +16,7 @@ comparePrice: 67.99 EUR
 prodname: 'BRIKSMAX Kit de Iluminación Led para Lego Star Wars Halcón Milenario del Corredor De Kessel  Compatible con Ladrillos de Construcción Lego Modelo 75212  Juego de Legos no Incluido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TXVSWZ6/?tag=tolees-21'
 descuento: '29.42'
 average: '45.25470588235295'

@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Corsair Scimitar Pro RGB - Ratón óptico para juegos  retroiluminación RGB  16000 dpi  con Cable  17 botones laterales programables   Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N9K2PBQ/?tag=tolees-21'
 descuento: '44.45'
 average: '57.83222222222222'

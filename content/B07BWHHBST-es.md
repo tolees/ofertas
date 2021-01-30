@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Gritin Auriculares  Auriculares con Cable y Micrófono In Ear Headphone Sonido Estéreo 3.5mm iPhone  Samsung  Huawei  Xiaomi  MP3  PC'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BWHHBST/?tag=tolees-21'
 descuento: '35.74'
 average: '7.823333333333333'

@@ -16,6 +16,7 @@ comparePrice: 81.99 EUR
 prodname: 'ART VVIES 30x20 Zoll mit Haken Leinwanddrucke Holz Gerahmte Zimmer Wand Bild Rosen Rosebush Garten Blütenblätter Natur Blüte Pflanze für Hauptdekorationen'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082HBNWGG/?tag=tolees-21'
 descuento: '56.10'
 average: '35.99'

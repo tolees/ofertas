@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Aigostar - Regleta con 5 enchufes y 1 5 metros con interruptor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XNJMAU8/?tag=tolees-21'
 descuento: '38.91'
 average: '9.39'

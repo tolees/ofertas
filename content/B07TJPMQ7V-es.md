@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Clarks Hamble Loafer  Mocasines  Azul  Navy Leather Navy Leather   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TJPMQ7V/?tag=tolees-21'
 descuento: '48.65'
 average: '51.32'

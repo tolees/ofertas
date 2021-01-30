@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Calienta Biberones  Eccomum 6 en 1  Calentamiento Ultrarrápido  Descongelado y Esterilizador para Leche Materna/Fórmula/Potitos  LED  Temporizador  Apagado Automático'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NKCSJ4M/?tag=tolees-21'
 descuento: '38.53'
 average: '24.713333333333335'

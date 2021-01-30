@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Jack & Jones 12158190 Suéter  Verde  Darkest Spruce Darkest Spruce   M para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V3Q6VQY/?tag=tolees-21'
 descuento: '68.03'
 average: '19.425'

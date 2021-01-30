@@ -16,6 +16,7 @@ comparePrice: 20.59 EUR
 prodname: 'ELEGIANT Mini LED Luz USB con Altavoz Bluetooth  Lámpara para Lectura Leer Libros Trabajar Estudiar con Ordenador Portátil Música iPhone PC Oficina Casa Divertir para Viajes Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KK7N4HW/?tag=tolees-21'
 descuento: '75.76'
 average: '4.99'

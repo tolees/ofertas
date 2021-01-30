@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'LIGE Relojes para Hombre Impermeable Acero Inoxidable Cuarzo Analógico Reloj Informal Negocios Reloj de Pulsera'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X95G4GN/?tag=tolees-21'
 descuento: '74.62'
 average: '32.99'

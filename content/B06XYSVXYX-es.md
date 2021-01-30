@@ -16,6 +16,7 @@ comparePrice: 148.9 EUR
 prodname: 'NZXT Kraken X52 240 mm - Refrigerador líquido de CPU RGB todo en uno - Con tecnología CAM - Bomba de alto rendimiento -  Ventilador de radiador Aer P 120 mm  se incluyen 2 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XYSVXYX/?tag=tolees-21'
 descuento: '26.80'
 average: '109.0'

@@ -16,6 +16,7 @@ comparePrice: 87.49 EUR
 prodname: 'New Balance 574v2 Core   Zapatillas para Hombre  Negro  Black Black   45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QMT5V84/?tag=tolees-21'
 descuento: '30.29'
 average: '60.99'

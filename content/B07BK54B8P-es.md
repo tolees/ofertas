@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Pendientes De Copo De Nieve Azul Claro y Crema Delicada de Regalo de Cumpleaños Para tu Novia'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BK54B8P/?tag=tolees-21'
 descuento: '28.01'
 average: '17.99'

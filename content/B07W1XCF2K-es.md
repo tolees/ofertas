@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Cocoarm Secador de Pelo Caja de Piel sintética con Suave Forro Interior para Guardar el secador de Pelo Dyson portátil Viaje Carry Case Caja de Regalo para Dyson secadores'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W1XCF2K/?tag=tolees-21'
 descuento: '26.33'
 average: '13.99'

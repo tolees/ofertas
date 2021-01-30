@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Timbre Inalámbrico  VOXON Impermeable Doble de Pared Plug-in Kit de Campanas Inalámbricas para Puerta IP44  Azul LED Estroboscópico  58 Melodías'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B4VWZ2H/?tag=tolees-21'
 descuento: '50.03'
 average: '9.99'

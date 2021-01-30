@@ -16,6 +16,7 @@ comparePrice: 135.0 EUR
 prodname: 'Mortlach 15 - Whisky escocés puro de malta  Edición Limitada Juego De Tronos: Seis Reinos   700 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZQ5YPFN/?tag=tolees-21'
 descuento: '35.02'
 average: '98.45666666666666'

@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'SPC Ebon - Auricular Bluetooth  manos libres  IPX5  asistente de voz   – Color Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H2RLNYN/?tag=tolees-21'
 descuento: '49.90'
 average: '25.0'

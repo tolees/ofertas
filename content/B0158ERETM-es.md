@@ -16,6 +16,7 @@ comparePrice: 239.99 EUR
 prodname: 'Rowenta IPL Instant Soft Compact EP9600 - Depiladora de luz pulsada IPL con sistema detector de contacto y detector de color de Piel  y filtro UV incorporado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0158ERETM/?tag=tolees-21'
 descuento: '41.37'
 average: '150.52333333333334'

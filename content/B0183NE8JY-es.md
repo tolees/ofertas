@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Jivo Technology GoGear Xtra Kit – Piezas de Repuesto para GoPro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0183NE8JY/?tag=tolees-21'
 descuento: '40.04'
 average: '5.99'

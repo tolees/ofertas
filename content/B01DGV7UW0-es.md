@@ -16,6 +16,7 @@ comparePrice: 12.95 EUR
 prodname: 'Fantasy Flight Games- Star Wars Imperial Assault  R2D2 y C3PO  Color  Edge Entertainment EDGSWI12 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01DGV7UW0/?tag=tolees-21'
 descuento: '28.26'
 average: '9.29'

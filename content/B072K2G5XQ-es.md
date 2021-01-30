@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Philips SHQ1255TBK Auriculares para Deporte con Cable micrófono  Gancho  3 Juegos de Almohadillas  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072K2G5XQ/?tag=tolees-21'
 descuento: '32.82'
 average: '13.745999999999999'

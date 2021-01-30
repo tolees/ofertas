@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'DC Shoes Switch  Zapatillas de Skateboard para Hombre  Negro  White/White/Gum Hwg   45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SRSRVD4/?tag=tolees-21'
 descuento: '42.57'
 average: '40.2'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Vileda Quick & Clean - Escoba eléctrica inalámbrica y cepillo eléctrico con articulación flexible y 2 cepillos giratorios patentados  color rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071NZK56K/?tag=tolees-21'
 descuento: '27.48'
 average: '31.631666666666668'

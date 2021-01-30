@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'New Balance 574v2  Zapatillas para Mujer  Azul  Navy Soc   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S5LSMG8/?tag=tolees-21'
 descuento: '33.66'
 average: '55.995000000000005'

@@ -16,6 +16,7 @@ comparePrice: 109.0 EUR
 prodname: 'Lacoste 739SFA003421G  Zapatillas para Mujer  Blanco  36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SL6SF6Q/?tag=tolees-21'
 descuento: '56.82'
 average: '47.9'

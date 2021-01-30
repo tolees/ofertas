@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Bering Classic - Reloj analógico de caballero de cuarzo con correa de acero inoxidable negra - sumergible a 50 metros'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004GEF6LO/?tag=tolees-21'
 descuento: '47.74'
 average: '110.03666666666668'

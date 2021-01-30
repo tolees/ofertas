@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Nike Court Royale  Zapatillas de Gimnasia para Hombre  Blanco  White/White 111   38.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XWOAPAG/?tag=tolees-21'
 descuento: '27.27'
 average: '41.163333333333334'

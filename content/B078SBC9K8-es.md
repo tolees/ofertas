@@ -16,6 +16,7 @@ comparePrice: 45 EUR
 prodname: 'L CARNITINA Liquida 3000 mg.Suplemento Deportivo L-Carnitina Natural-Quemagrasas Líquido-Alta Absorción-Mejor Rendimiento.20 Viales-Facil Apertura-No se Rompen.Certificado VEGANO. N2 Natural Nutrition'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078SBC9K8/?tag=tolees-21'
 descuento: '71.64'
 average: '12.76'

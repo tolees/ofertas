@@ -16,6 +16,7 @@ comparePrice: 350.0 EUR
 prodname: 'Sony VG-C2EM - Accesorio de Agarre Vertical para cámaras Sony α7II  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00QYM0LTI/?tag=tolees-21'
 descuento: '28.86'
 average: '249.0'

@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'LIGHTAILING Conjunto de Luces  Creator Expert Volkswagen Beetle  Modelo de Construcción de Bloques - Kit de luz LED Compatible con Lego 10252  NO Incluido en el Modelo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L1N3KND/?tag=tolees-21'
 descuento: '56.26'
 average: '34.99'

@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'New Balance 247  Zapatillas para Mujer  Rosa Rosa Rosa  40.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0751GPX5W/?tag=tolees-21'
 descuento: '51.03'
 average: '48.95'

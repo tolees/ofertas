@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Clarks Brixby Cove  Sandalia con Pulsera para Hombre  Negro  Black Leather-   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078T1MMDQ/?tag=tolees-21'
 descuento: '70.07'
 average: '22.243333333333332'

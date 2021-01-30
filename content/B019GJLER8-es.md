@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Anker PowerCore 10000 mAh - Batería externa Power Bank  cargador portátil pequeño y ligero  batería externa compacta con tecnología de carga rápida para iPhone  Samsung Galaxy y más'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B019GJLER8/?tag=tolees-21'
 descuento: '45.01'
 average: '19.82636363636363'

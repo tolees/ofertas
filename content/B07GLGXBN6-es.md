@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Timex Reloj de Pulsera TW2R70200'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GLGXBN6/?tag=tolees-21'
 descuento: '25.00'
 average: '80.75999999999999'

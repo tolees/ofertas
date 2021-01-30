@@ -16,6 +16,7 @@ comparePrice: 180.29 EUR
 prodname: 'Lotus Reloj de Pulsera 18287/2'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BOWHB2M/?tag=tolees-21'
 descuento: '51.81'
 average: '97.628'

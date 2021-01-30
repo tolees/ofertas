@@ -16,6 +16,7 @@ comparePrice: 176.78 EUR
 prodname: 'Presto 570 23970 Griferia Temporizada. Lavabo mezclador pedal'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01EYLCRCO/?tag=tolees-21'
 descuento: '36.27'
 average: '112.67'

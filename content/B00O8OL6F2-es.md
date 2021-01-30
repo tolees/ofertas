@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'Manguitos Hinchables Bestway Minnie Mouse'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00O8OL6F2/?tag=tolees-21'
 descuento: '61.91'
 average: '3.79'

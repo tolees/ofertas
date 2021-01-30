@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'PUMA King Pro FG  Zapatillas de fútbol Unisex Adulto  Negro Black White  38.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KFZFMN2/?tag=tolees-21'
 descuento: '61.30'
 average: '38.68'

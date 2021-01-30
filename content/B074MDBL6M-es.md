@@ -16,6 +16,7 @@ comparePrice: 89.78 EUR
 prodname: 'La Silla Española Santander Oficina con Reposacabezas  Piel sintética  Negro  52x55x118 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074MDBL6M/?tag=tolees-21'
 descuento: '27.60'
 average: '65.0'

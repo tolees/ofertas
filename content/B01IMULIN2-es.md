@@ -16,6 +16,7 @@ comparePrice: 27.99 EUR
 prodname: 'SONGMICS Caja joyero  Organizador para bisuterías 26 x 26 x 10 cm  Negro JDS305B'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IMULIN2/?tag=tolees-21'
 descuento: '57.91'
 average: '20.884999999999998'

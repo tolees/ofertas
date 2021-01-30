@@ -16,6 +16,7 @@ comparePrice: 3.99 EUR
 prodname: 'Faibo - Hojas lavables de recambio para borrador 15 M/ 15 MG  5 unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00JMG1CGY/?tag=tolees-21'
 descuento: '29.07'
 average: '2.83'

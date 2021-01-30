@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Under Armour Rival Parte Superior del Calentamiento  Mujer  Negro  LG'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L13Q9BF/?tag=tolees-21'
 descuento: '49.18'
 average: '30.49'

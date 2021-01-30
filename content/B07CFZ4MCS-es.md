@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'JACK & JONES Jjeholmen Sweat Pants Noos Pantalones  Azul  Navy Blazer Fit:Comfort Fit   W34  Talla del Fabricante: Medium  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CFZ4MCS/?tag=tolees-21'
 descuento: '28.01'
 average: '16.22'

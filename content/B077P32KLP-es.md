@@ -16,6 +16,7 @@ comparePrice: 145.0 EUR
 prodname: 'BaByliss ST500E - Plancha de pelo inteligente profesional con sensor digital para proteger el cabello  12 ajustes de temperatura de 180° C a 235° C  recubrimiento de cerámica  función iónica'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077P32KLP/?tag=tolees-21'
 descuento: '52.48'
 average: '70.53'

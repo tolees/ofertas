@@ -16,6 +16,7 @@ comparePrice: 11.91 EUR
 prodname: 'Neutrogena T/Gel Champú Anticaspa  Cuero Cabelludo Sensible  - 125 ml.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N194XDV/?tag=tolees-21'
 descuento: '47.86'
 average: '6.523333333333333'

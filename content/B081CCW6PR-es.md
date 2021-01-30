@@ -16,6 +16,7 @@ comparePrice: 39.0 EUR
 prodname: 'Geographical Norway Polar Hombre Upload Negro M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081CCW6PR/?tag=tolees-21'
 descuento: '30.00'
 average: '27.3'

@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Wrangler Greensboro Regular Jeans  Azul  Darkstone 090   30W / 30L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FFBN7LK/?tag=tolees-21'
 descuento: '29.97'
 average: '55.99'

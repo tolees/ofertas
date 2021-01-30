@@ -16,6 +16,7 @@ comparePrice: 12.04 EUR
 prodname: '28 Palms 6" Inseam Tropical Hawaiian Print Swim Trunk Bañador  Teal/Green Turtle  4XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HMKYTJR/?tag=tolees-21'
 descuento: '54.32'
 average: '5.5'

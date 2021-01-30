@@ -16,6 +16,7 @@ comparePrice: 94.84 EUR
 prodname: 'ONEMIX - Zapatillas de correr para hombre Air  color Azul  talla 41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZQCVFPK/?tag=tolees-21'
 descuento: '38.65'
 average: '58.18'

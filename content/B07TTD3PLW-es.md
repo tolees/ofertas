@@ -16,6 +16,7 @@ comparePrice: 15.44 EUR
 prodname: 'Funko- Pop Disney: Onward-Ian w/Staff Collectible Toy  Multicolor  45584 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TTD3PLW/?tag=tolees-21'
 descuento: '32.97'
 average: '10.35'

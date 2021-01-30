@@ -16,6 +16,7 @@ comparePrice: 399.0 EUR
 prodname: 'Casio WAVE CEPTOR Reloj Radiocontrolado y solar  Cristal de zafiro Caja de titanio macizo  Negro  para Hombre  con Correa de Titanio macizo  LCW-M170TD-1AER'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00IF3KDT2/?tag=tolees-21'
 descuento: '36.30'
 average: '254.15'

@@ -16,6 +16,7 @@ comparePrice: 21.97 EUR
 prodname: 'Serum Facial Acido Hialuronico Puro - Enriquecido con Péptidos eficaces y Vitamina C - Gel antiedad concentrado para rostro  cuello y escote- Probado dermatológicamente fabricado en Alemania'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00SB0JUUW/?tag=tolees-21'
 descuento: '27.31'
 average: '15.97'

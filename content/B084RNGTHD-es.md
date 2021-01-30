@@ -16,6 +16,7 @@ comparePrice: 2.5 EUR
 prodname: 'Precioso lindo oso patrón de dibujos animados almohada recién nacido bebé soporte cojín almohadilla prevenir cabeza plana almohada de algodón para bebé - amarillo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084RNGTHD/?tag=tolees-21'
 descuento: '33.60'
 average: '1.66'

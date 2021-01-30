@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Superdry Core Sport Graphic tee Top de Deporte  Azul  Dark Navy 24s   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P2FN2SS/?tag=tolees-21'
 descuento: '65.79'
 average: '10.26'

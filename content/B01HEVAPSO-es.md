@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Michael Kors Reloj Analogico para Hombre de Cuarzo con Correa en Acero Inoxidable MK8507'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HEVAPSO/?tag=tolees-21'
 descuento: '52.31'
 average: '99.9'

@@ -16,6 +16,7 @@ comparePrice: 25.95 EUR
 prodname: 'Suavinex – Crema antiestrías para embarazadas. Previene La Formación de estrías y Potencia la Elasticidad. Apta para pieles Sensibles. con Olor Agradable. 89% Ingredientes de Origen Natural  500ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007NZI3KO/?tag=tolees-21'
 descuento: '30.83'
 average: '17.857'

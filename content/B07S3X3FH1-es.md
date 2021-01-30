@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'New Balance 997H h  Zapatillas para Hombre  Azul  Blue Hbq   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S3X3FH1/?tag=tolees-21'
 descuento: '43.89'
 average: '49.355000000000004'

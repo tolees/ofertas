@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'ZREE Grifo Lavabo Cascada Alto Grifo de Baño Acero Inoxidable con Control de Agua Fría y Caliente  Cuadrado Monomando Mezclador para Cocina Acabado Cromado  Bajo Nivel de Ruido Grifo Clasicos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YCBQWNB/?tag=tolees-21'
 descuento: '47.10'
 average: '52.89'

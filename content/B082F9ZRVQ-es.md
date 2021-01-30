@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: '2020 Nueva Cámara para Niños  Cámara de Fotos/Video HD 1080p Cámara Digital para Piños  Pantalla LCD de 2 Pulgadas/Tarjeta 32G  Rose-5 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082F9ZRVQ/?tag=tolees-21'
 descuento: '39.40'
 average: '59.99'

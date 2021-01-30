@@ -16,6 +16,7 @@ comparePrice: 48.0 EUR
 prodname: 'SYROKAN - Sujetador Deportivo con Aros Espalda Deportiva Sin Relleno para Mujer Beige ES:90E  EU 75E '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00O9YY2C0/?tag=tolees-21'
 descuento: '45.83'
 average: '26.0'

@@ -16,6 +16,7 @@ comparePrice: 26.0 EUR
 prodname: 'Nike Sunray Adjust 5  TD   Zapatillas de Gimnasia para Niños  Rosa  Psychic Pink/Laser Fuchsia 601   25 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FKG5DGB/?tag=tolees-21'
 descuento: '31.81'
 average: '17.835'

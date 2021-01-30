@@ -16,6 +16,7 @@ comparePrice: 22.0 EUR
 prodname: 'Philips Lighting 915002790302 - Aplique de exterior  empotrado  casquillo gordo E27  bombilla no incluida  resistente a la intemperie  IP44  negro  19.5 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00B45MGU2/?tag=tolees-21'
 descuento: '37.05'
 average: '15.729999999999999'

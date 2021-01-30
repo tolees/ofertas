@@ -16,6 +16,7 @@ comparePrice: 58 EUR
 prodname: 'Showyoo Reloj inteligente  Pulsera de Actividad Pantalla a Color 1.3" Reloj Deportivo Monitor de Ritmo Cardíaco Sueño Presión Arterial Oxígeno Pulsera Deportiva Podómetro Impermeable para Hombre Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YP6J53S/?tag=tolees-21'
 descuento: '32.81'
 average: '38.980000000000004'

@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'BESTEK Inversor De Corriente 300W para Coche  Transformador 12v a 220v  Inversor con 1 Toma Enchufe Y 2 Puertos USB  5V / 2.4A  para iPhone iPad Y Tableta Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T1PBR39/?tag=tolees-21'
 descuento: '34.79'
 average: '29.99'

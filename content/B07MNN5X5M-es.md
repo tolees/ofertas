@@ -16,6 +16,7 @@ comparePrice: 10.95 EUR
 prodname: 'Atletico de Madrid PT-243-ATL Portatodo Triple'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MNN5X5M/?tag=tolees-21'
 descuento: '49.95'
 average: '5.48'

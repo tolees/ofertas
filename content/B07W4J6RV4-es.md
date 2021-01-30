@@ -16,6 +16,7 @@ comparePrice: 19.75 EUR
 prodname: 'Amazon Essentials Long-Sleeve Lightweight French Terry Fleece Quarter-Zip Top Outerwear-Jackets  Coral  US L  EU L - XL '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W4J6RV4/?tag=tolees-21'
 descuento: '32.51'
 average: '13.33'

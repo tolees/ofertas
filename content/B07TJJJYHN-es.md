@@ -16,6 +16,7 @@ comparePrice: 84.99 EUR
 prodname: 'Nike Renew Fusion  Zapatillas para Hombre  2  41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TJJJYHN/?tag=tolees-21'
 descuento: '49.44'
 average: '42.97'

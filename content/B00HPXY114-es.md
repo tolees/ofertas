@@ -16,6 +16,7 @@ comparePrice: 44.0 EUR
 prodname: 'Olay Regenerist 3 Areas Sistema de Limpieza Facial Profesional'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00HPXY114/?tag=tolees-21'
 descuento: '52.30'
 average: '20.77857142857143'

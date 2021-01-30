@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'Philips Warmglow - Bombilla LED regulable  casquillo E14  8 W  cambia entre 3 tonalidades de blanco  requiere regulador  a menor intensidad mayor calidez de luz'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01H1C0HSY/?tag=tolees-21'
 descuento: '33.36'
 average: '8.288'

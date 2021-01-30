@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Columbia Minx Mid III WP Omni-Heat  Botas para Niños  Gris  Stratus  Camell   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078T8HYQ7/?tag=tolees-21'
 descuento: '72.39'
 average: '24.85'

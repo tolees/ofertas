@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Skechers Arya Sweet Glitz  Zapatillas sin Cordones para Mujer  Negro Negro Negro Metálico Knit Negro Gunmetal Trim BBK  35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VWKQFXJ/?tag=tolees-21'
 descuento: '28.22'
 average: '43.89666666666666'

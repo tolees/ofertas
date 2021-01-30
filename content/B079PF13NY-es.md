@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Jam Out There Auriculares bluetooth en el oído con cancelación activa de ruidos - Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079PF13NY/?tag=tolees-21'
 descuento: '61.18'
 average: '31.669999999999998'

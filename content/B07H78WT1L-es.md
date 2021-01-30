@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Moulinex Infiny Force Ultimate Cocktail DD87KD10 Batidora de mano con accesorios  1000 W  800 Ml  Acero Inoxidable  25 Velocidades  Plateado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H78WT1L/?tag=tolees-21'
 descuento: '32.40'
 average: '59.16285714285715'

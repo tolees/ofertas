@@ -16,6 +16,7 @@ comparePrice: 379.0 EUR
 prodname: 'Toshiba Satellite Pro R50-C-1E8 - Ordenador portátil de 15.6" HD  Intel Celeron 3855U  4 GB  128GB SSD  Intel HD Graphics 520  Windows 10 Pro  - Teclado QWERTY Español  color Negro grafito'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BK2KN3F/?tag=tolees-21'
 descuento: '26.39'
 average: '269.79756097560977'

@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Petdentist polvo probiótico para perros y gatos con 17 cepas bacterianas beneficiosas Ayuda a la inmunidad a la digestión La salud dental incluye 73 millones de bacterias buenas por porción'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LY6GUPR/?tag=tolees-21'
 descuento: '27.21'
 average: '36.36'

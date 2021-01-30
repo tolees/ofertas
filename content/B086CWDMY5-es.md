@@ -16,6 +16,7 @@ comparePrice: 43.41 EUR
 prodname: 'Wangxyan Red de Viaje portátil para bebés Tapa de Paraguas Ajustable Plegable Red de Insectos para bebés para Cochecito Carrito para bebé Mosquitera de Cubierta completa-122 * 133CM Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086CWDMY5/?tag=tolees-21'
 descuento: '40.13'
 average: '25.99'

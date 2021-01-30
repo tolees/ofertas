@@ -16,6 +16,7 @@ comparePrice: 4.75 EUR
 prodname: 'Natracare Tampon Super Sin Apli - 20 Unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00J70H7MI/?tag=tolees-21'
 descuento: '78.95'
 average: '1.0'

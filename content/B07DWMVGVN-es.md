@@ -16,6 +16,7 @@ comparePrice: 15.74 EUR
 prodname: 'Element Blazin SS Camisetas  Hombre  Blanco  Optic White   XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DWMVGVN/?tag=tolees-21'
 descuento: '61.69'
 average: '8.3275'

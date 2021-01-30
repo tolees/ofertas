@@ -16,6 +16,7 @@ comparePrice: 239.2 EUR
 prodname: 'TOROCAT 1080P - Sistema de cámara de vigilancia  4 x 1080p  resistente a la intemperie  cámara HD Au?en y 8 canales DVR con disco duro de 1 TB  4 cámaras  sistema de televisión Closed-Circuit  detector de movimiento  visión nocturna  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PQPPW9X/?tag=tolees-21'
 descuento: '56.90'
 average: '103.1'

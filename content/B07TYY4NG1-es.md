@@ -16,6 +16,7 @@ comparePrice: 145.0 EUR
 prodname: 'Merrell Moab 2 Mid GTX  Botas de Senderismo para Hombre  Gris  Boulder   44.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TYY4NG1/?tag=tolees-21'
 descuento: '32.08'
 average: '98.49'

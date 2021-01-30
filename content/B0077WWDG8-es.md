@@ -16,6 +16,7 @@ comparePrice: 36.95 EUR
 prodname: 'CASIO Reloj de Cuarzo W-734-1A'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0077WWDG8/?tag=tolees-21'
 descuento: '31.26'
 average: '25.249999999999996'

@@ -16,6 +16,7 @@ comparePrice: 42.99 EUR
 prodname: 'Monederos Mujer Cartera de Mujer de Gran Capacidad con RFID Bloqueo Bolsos Largo de Mujer con Cremallera de Bolsillo  Empaquetado con Caja de Regalo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075N1K8VF/?tag=tolees-21'
 descuento: '55.83'
 average: '18.99'

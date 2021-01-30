@@ -16,6 +16,7 @@ comparePrice: 4.99 EUR
 prodname: 'Kingston Canvas Select Plus Tarjeta microSD  SDCS2/16GB Class 10 con Adaptador SD'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YGZHSJS/?tag=tolees-21'
 descuento: '28.06'
 average: '4.2672727272727276'

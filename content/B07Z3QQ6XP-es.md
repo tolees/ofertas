@@ -16,6 +16,7 @@ comparePrice: 9.34 EUR
 prodname: 'Cojín de viaje  Bicaslove Memory Foam U Neck Pillow y cómodo cojín de vuelo para aire  coche  casa  oficina Negro Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z3QQ6XP/?tag=tolees-21'
 descuento: '26.02'
 average: '6.91'

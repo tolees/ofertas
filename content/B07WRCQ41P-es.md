@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Skechers 13278-MVE  Zapatillas para Mujer  Morado  38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WRCQ41P/?tag=tolees-21'
 descuento: '37.13'
 average: '44.0'

@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Yinuo Mirror Set de Regalo de Velas Candelitas Perfumadas Cera de Soja para Yoga  Meditación  Relajación  Lavanda  Limón  Higo Mediterráneo  Manantial Fresco - Paquete de 48'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WG21HJL/?tag=tolees-21'
 descuento: '56.69'
 average: '15.489999999999998'

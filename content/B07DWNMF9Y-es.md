@@ -16,6 +16,7 @@ comparePrice: 12.23 EUR
 prodname: 'PrimeMatik - Escritorio de Trabajo Mesa Acolchada para Regazo y piernas para Tablet y Ordenador portátil 29x24cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DWNMF9Y/?tag=tolees-21'
 descuento: '37.29'
 average: '7.67'

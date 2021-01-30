@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'PUMA Ftblnxt Pant Sr Pantalones de Chándal de Fútbol  Hombre  Negro Black-Ultra Yellow  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X8PHFS9/?tag=tolees-21'
 descuento: '51.97'
 average: '19.69'

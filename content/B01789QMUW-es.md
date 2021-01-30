@@ -16,6 +16,7 @@ comparePrice: 216.44 EUR
 prodname: 'LaCie Rugged Mini - Disco Duro Externo de 4 TB con USB 3.0  Naranja'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01789QMUW/?tag=tolees-21'
 descuento: '31.16'
 average: '150.486'

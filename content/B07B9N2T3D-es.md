@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'LG XBOOM CK43 - Equipo de Sonido de Alta Potencia  Potencia 300 W  Bluetooth  USB Dual  Entrada AUX  Radio FM  Reproductor CD  Auto DJ  Wireless Party Link  EZ File Search  TV Sound Sync  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B9N2T3D/?tag=tolees-21'
 descuento: '33.17'
 average: '131.65'

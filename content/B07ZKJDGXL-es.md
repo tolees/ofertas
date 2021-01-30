@@ -16,6 +16,7 @@ comparePrice: 10.91 EUR
 prodname: 'JK-2 Cómoda Manta Tejida de Tela Baby Stretch Wrap Cerca de la Piel del bebé'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZKJDGXL/?tag=tolees-21'
 descuento: '63.52'
 average: '3.98'

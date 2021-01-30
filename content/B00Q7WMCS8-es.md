@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'Columbia Bugaboot Plus III Omni-Heat  Botas Altas de Invierno para Mujer  Negro  Black  Dark Mir   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00Q7WMCS8/?tag=tolees-21'
 descuento: '65.68'
 average: '51.48'

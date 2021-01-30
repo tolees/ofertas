@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Lacoste Sport GH353T Bañador  Azul  Marine   W40  Talla del Fabricante: 9  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JG1FYGL/?tag=tolees-21'
 descuento: '48.65'
 average: '29.582500000000003'

@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: '5 Pcs Broca Escalonada Cobalt Múltiples Orificios Profesional 50 Tamaños Acero Paso Taladro Cono HSS Acero Alta Velocidad Paso Broca Herramientas Caja Aluminio Agujero Cortadoras'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BOQAI7S/?tag=tolees-21'
 descuento: '66.43'
 average: '8.39'

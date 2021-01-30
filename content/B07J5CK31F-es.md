@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Taladro Percutor  Meterk 850W Taladro Eléctrico de 3000 RPM  Martillo Taladro 2 Funciones en 1  con Mango Auxiliar Giratorio de 360°  Regulador de Profundidad y Portabrocas Sin llave'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J5CK31F/?tag=tolees-21'
 descuento: '35.01'
 average: '39.55521739130435'

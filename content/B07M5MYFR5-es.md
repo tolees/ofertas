@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'amzdeal Bomba Sumergible 500L/H 6W con Filtro y 2 boquillas  Bomba de Agua 0.6M Ultra Silenciosa para Pecera Acuario Jardín Estanque Fuente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M5MYFR5/?tag=tolees-21'
 descuento: '43.35'
 average: '16.99'

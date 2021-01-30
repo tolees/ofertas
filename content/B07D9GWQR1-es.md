@@ -16,6 +16,7 @@ comparePrice: 17.9 EUR
 prodname: 'Tommy Hilfiger Thong Tanga  Rosa  Pale Blush 612   36  Talla del Fabricante: X-Small  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D9GWQR1/?tag=tolees-21'
 descuento: '35.81'
 average: '11.49'

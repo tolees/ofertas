@@ -16,6 +16,7 @@ comparePrice: 31.04 EUR
 prodname: 'Dockers by Gerli 45ca101  Botas Militar para Hombre  Negro  Schwarz 100   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q4F8ZMH/?tag=tolees-21'
 descuento: '31.12'
 average: '24.02'

@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Espejo Retrovisor Coche bebé coche espejo para Vigilar al Bebé en el Coche 360° Ajustable Espejo Coche Bebé  para Los Asientos de Niños Orientados Hacia Atrás 300 x 190mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DBNZLZB/?tag=tolees-21'
 descuento: '53.35'
 average: '13.99'

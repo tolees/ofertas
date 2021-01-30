@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Skechers Flex Advantage 3.0-Stally  Zapatillas Deportivas para Hombre  Azul  Navy Mesh/Trim Nvy   39.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CTRH469/?tag=tolees-21'
 descuento: '41.56'
 average: '40.986666666666665'

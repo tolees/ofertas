@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Figura Pop Dragon Ball: Goku Casual'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HB4VLTR/?tag=tolees-21'
 descuento: '35.74'
 average: '10.219999999999999'

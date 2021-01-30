@@ -16,6 +16,7 @@ comparePrice: 79.85 EUR
 prodname: 'Hugo Boss  The Scent for Her  50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01JFE8FI0/?tag=tolees-21'
 descuento: '38.40'
 average: '49.19'

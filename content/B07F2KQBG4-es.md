@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'SALOMON XA Tank  Mujer  Amarillo  Lemon Chrome   XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F2KQBG4/?tag=tolees-21'
 descuento: '72.74'
 average: '10.32'

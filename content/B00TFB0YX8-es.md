@@ -16,6 +16,7 @@ comparePrice: 25.21 EUR
 prodname: 'Optimum Nutrition Gold Standard Pre Workout en Polvo  Bebida Energética con Creatina Monohidratada  Beta Alanina  Cafeína y Vitamina B Complex  Sandía  30 Porciones  330g  Embalaje Puede Variar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00TFB0YX8/?tag=tolees-21'
 descuento: '33.52'
 average: '17.185000000000002'

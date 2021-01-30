@@ -16,6 +16,7 @@ comparePrice: 649.0 EUR
 prodname: 'Piquadro BV3849MO Modus Trolley para portátil  40 x 20 x 55 cm  color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071HTHZN3/?tag=tolees-21'
 descuento: '44.77'
 average: '361.4033333333333'

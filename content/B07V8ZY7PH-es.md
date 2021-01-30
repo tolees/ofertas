@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Calvin Klein - Striped Logo Pu Mini Reporter  Shoppers y bolsos de hombro Hombre  Gris  Blackwhite Grey   1x1x1 cm  W x H L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V8ZY7PH/?tag=tolees-21'
 descuento: '40.00'
 average: '35.94'

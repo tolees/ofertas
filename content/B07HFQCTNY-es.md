@@ -16,6 +16,7 @@ comparePrice: 45.3 EUR
 prodname: 'Shock Absorber Ultimate Run Bra Sujetador Deportivo  Rosa  Rose Orange Agrume 0a9   90H para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HFQCTNY/?tag=tolees-21'
 descuento: '73.51'
 average: '12.0'

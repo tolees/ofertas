@@ -16,6 +16,7 @@ comparePrice: 32.91 EUR
 prodname: 'Razer Mouse Bungee V2 - Accesorios de Controlador de Juego  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FFPGLYX/?tag=tolees-21'
 descuento: '30.14'
 average: '22.99'

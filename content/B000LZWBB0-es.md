@@ -16,6 +16,7 @@ comparePrice: 21.0 EUR
 prodname: 'CLARINS Desodorante roll-on 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000LZWBB0/?tag=tolees-21'
 descuento: '33.57'
 average: '13.95'

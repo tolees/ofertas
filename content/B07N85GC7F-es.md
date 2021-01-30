@@ -16,6 +16,7 @@ comparePrice: 109.99 EUR
 prodname: 'COSORI Deshidratador Alimentos 500W de 5 Bandejas sin BPA  Control Táctil de Temperatura y Temporizador Ajustable  Función de Memoria y Apagado Automático para Carnes  Frutas y Vegetales'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N85GC7F/?tag=tolees-21'
 descuento: '55.46'
 average: '54.49'

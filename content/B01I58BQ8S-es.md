@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Silver HT Messenger - Bolsa para Laptop de hasta 15"  Color Verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01I58BQ8S/?tag=tolees-21'
 descuento: '47.11'
 average: '26.44'

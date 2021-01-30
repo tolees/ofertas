@@ -16,6 +16,7 @@ comparePrice: 3300.0 EUR
 prodname: 'Sony NW-WM1A - Reproductor audio Walkman  HiFi  DSD  128 GB  pantalla 4"'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LHGLG3A/?tag=tolees-21'
 descuento: '72.82'
 average: '940.3333333333334'

@@ -16,6 +16,7 @@ comparePrice: 5.95 EUR
 prodname: 'Rimmel London Oh My Gloss! Brillo de Labios Tono 150 Glossaholic - 22 6 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00UYJF0BQ/?tag=tolees-21'
 descuento: '36.13'
 average: '3.8'

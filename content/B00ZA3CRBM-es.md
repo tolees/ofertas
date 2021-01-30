@@ -16,6 +16,7 @@ comparePrice: 6.14 EUR
 prodname: 'Aussie Repair Miracle Champú  su Fórmula Milagrosa Llena de Vida el Cabello Deteriorado - 300 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ZA3CRBM/?tag=tolees-21'
 descuento: '28.99'
 average: '4.36'

@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Roxy - Licra - Mujer - M - Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0825PKS6F/?tag=tolees-21'
 descuento: '27.26'
 average: '12.555'

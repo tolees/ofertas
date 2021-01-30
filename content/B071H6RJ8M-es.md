@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'Antena GSM 3G de alta ganancia de pared interior  antena direccional para panel interior de 824-2500MHz para repetidor de repetidor de teléfono móvil con 5m de cable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071H6RJ8M/?tag=tolees-21'
 descuento: '52.02'
 average: '23.99'

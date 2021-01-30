@@ -16,6 +16,7 @@ comparePrice: 28.0 EUR
 prodname: 'REYLEO'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J2MQBVJ/?tag=tolees-21'
 descuento: '82.18'
 average: '4.99'

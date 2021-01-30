@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Auriculares Bluetooth Auriculares inalámbricos Mini TWS estéreo in-Ear Sports con Caja de Carga portátil de 950mAh y micrófono HD  Compatible con iPhone Samsung y Otros Teléfonos Inteligentes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0837QZJG4/?tag=tolees-21'
 descuento: '66.01'
 average: '33.99'

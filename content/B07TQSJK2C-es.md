@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Charles Wilson Paquete de 3 Camisetas Slub con Cuello Redondo  Large  Essentials '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TQSJK2C/?tag=tolees-21'
 descuento: '60.10'
 average: '11.95'

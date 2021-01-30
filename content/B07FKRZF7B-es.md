@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Bestway 41125 - Camello Hinchable 221x132 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FKRZF7B/?tag=tolees-21'
 descuento: '32.64'
 average: '26.91'

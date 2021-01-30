@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Logitech M238 Fan Collection - Wireless Mouse - France - 2.4GHZ - N/A - EMEA'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B5C7YRQ/?tag=tolees-21'
 descuento: '45.02'
 average: '14.29'

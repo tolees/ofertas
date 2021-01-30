@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Idea de regalo"especialidades de cerveza de Alemania" para hombres INCL. Posavasos de cerveza + caja de regalo + información de cerveza. Idea de regalo inusual para hombres  6x0.33l '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FPELW1G/?tag=tolees-21'
 descuento: '37.59'
 average: '24.9'

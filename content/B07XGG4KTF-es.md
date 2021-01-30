@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'LK [3 Pack] Protector de Pantalla para Xiaomi Redmi Note 8 Cristal Templado  [9H Dureza] [Equipado con Marco de posicionamiento] [Resistente a Arañazos] Vidrio Templado Screen Protector'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XGG4KTF/?tag=tolees-21'
 descuento: '66.70'
 average: '7.5175'

@@ -16,6 +16,7 @@ comparePrice: 15.0 EUR
 prodname: 'laamei  Mosquitera Bebé Antiinsectos Universal Mosquitera para Cochecito Carrito Bebé Seguro Malla Abeja Cubierta Protección Ideal ontra Avispas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R9XZ6PM/?tag=tolees-21'
 descuento: '86.07'
 average: '2.09'

@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'GORE WEAR M Calcetines unisex  Talla: 35-37  Color: blanco/negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000SKEJU4/?tag=tolees-21'
 descuento: '63.61'
 average: '7.26'

@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Skechers Men s STATUS 2.0- LORANO Moccasins  Beige  Taupe TPE   6  39.5 EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GPRVDNK/?tag=tolees-21'
 descuento: '35.65'
 average: '40.10454545454546'

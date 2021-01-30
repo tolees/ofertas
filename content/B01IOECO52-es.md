@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'Sennheiser HD 2.30i - Auriculares de Diadema Cerrados  3.5 mm  Compatible con iOS   Color Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IOECO52/?tag=tolees-21'
 descuento: '66.30'
 average: '34.945'

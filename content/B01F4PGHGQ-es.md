@@ -16,6 +16,7 @@ comparePrice: 49.98 EUR
 prodname: 'XP-Pen G430S Tableta Gráfica 4x3 Pulgadas Tableta de Dibujo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01F4PGHGQ/?tag=tolees-21'
 descuento: '50.00'
 average: '24.99'

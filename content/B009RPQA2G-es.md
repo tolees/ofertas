@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Creative Sound Blaster Z - Tarjeta de sonido interna  micrófono Sound Blaster incluido   Rojo  24-bits'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B009RPQA2G/?tag=tolees-21'
 descuento: '27.99'
 average: '71.984'

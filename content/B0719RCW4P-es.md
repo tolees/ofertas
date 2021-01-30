@@ -16,6 +16,7 @@ comparePrice: 250.0 EUR
 prodname: 'Beoplay E4 de Bang & Olufsen - Auriculares con cancelación de ruido activa avanzada'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0719RCW4P/?tag=tolees-21'
 descuento: '44.22'
 average: '139.45'

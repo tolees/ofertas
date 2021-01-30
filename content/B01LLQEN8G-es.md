@@ -16,6 +16,7 @@ comparePrice: 63.24 EUR
 prodname: 'Quid Intense - Tartera de aluminio fundido  32cm  5L  asas de silicona  tapa de vidrio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LLQEN8G/?tag=tolees-21'
 descuento: '36.89'
 average: '37.25333333333333'

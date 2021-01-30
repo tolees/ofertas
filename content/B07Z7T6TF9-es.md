@@ -16,6 +16,7 @@ comparePrice: 19.6 EUR
 prodname: 'CYHY Empalme Inteligente LED de luz  lámpara de Pared Hexagonal  Paneles A Bright LED for la iluminación de una Pared Durante el Interior  Las Luces Modular Touch Sensitive Panal Decorativo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z7T6TF9/?tag=tolees-21'
 descuento: '38.83'
 average: '11.99'

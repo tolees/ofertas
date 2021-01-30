@@ -16,6 +16,7 @@ comparePrice: 229 EUR
 prodname: 'Primux Ioxbook - Portatil 1402MC 14.1" N3350 4G 120GB SSD + 32GB EMMC W10H Minecraft'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QMW1JQQ/?tag=tolees-21'
 descuento: '28.18'
 average: '164.46'

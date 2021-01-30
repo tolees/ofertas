@@ -16,6 +16,7 @@ comparePrice: 14.57 EUR
 prodname: 'Under Armour Zinger SL Polo  Mujer  Azul  Dust/Dust/Dust 416   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DP2MVXN/?tag=tolees-21'
 descuento: '35.07'
 average: '9.46'

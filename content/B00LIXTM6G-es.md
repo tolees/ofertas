@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Smokies Hombres Zapato de Novia Charlie sintético  41 EU  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00LIXTM6G/?tag=tolees-21'
 descuento: '40.04'
 average: '29.95'

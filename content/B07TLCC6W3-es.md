@@ -16,6 +16,7 @@ comparePrice: 30.99 EUR
 prodname: 'ROMIX Colchoneta de Yoga  Antideslizante Extra Gruesa 10MM Ecológica Espuma Memoria Yoga Mat  No Tóxica  Látex y PVC Gratis Exercise Mat para Gimnasio Ejercicio Fitness Pilates - Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TLCC6W3/?tag=tolees-21'
 descuento: '39.37'
 average: '18.29'

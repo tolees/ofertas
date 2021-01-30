@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Apple Funda Leather Case  para el iPhone 11 Pro MAX  - Azul Noche'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XR9V7SB/?tag=tolees-21'
 descuento: '38.20'
 average: '33.99'

@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'efluky Ventilador Portatil  Mini Ventilador USB  Ventilador Recargable con Banco de Potencia Extraíble 2600mAh  5 Velocidades Ajustables  3-9 Horas de Tiempo de Trabajo Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BZBFG7W/?tag=tolees-21'
 descuento: '33.35'
 average: '14.790000000000001'

@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'IVSO Webcam con Micrófono  Webcam Full HD 1080P Ángulo de Visión Amplio de 110 Grados  Cámara USB para Computadora Plug y Play para Conferencia Estudiando Videollamada Grabación'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088ZRN7P9/?tag=tolees-21'
 descuento: '26.71'
 average: '21.95'

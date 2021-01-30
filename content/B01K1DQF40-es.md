@@ -16,6 +16,7 @@ comparePrice: 24.9 EUR
 prodname: 'Ozone M10 - Ratón  2000 dpi '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01K1DQF40/?tag=tolees-21'
 descuento: '44.82'
 average: '13.7025'

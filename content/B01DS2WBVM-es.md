@@ -16,6 +16,7 @@ comparePrice: 18.0 EUR
 prodname: 'NIVEA SUN Protege & Hidrata Leche Solar FP50+  1 x 400 ml   protector solar hidratante y resistente al agua con protección UVA/UVB  protección solar muy alta'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01DS2WBVM/?tag=tolees-21'
 descuento: '30.61'
 average: '11.899655172413791'

@@ -16,6 +16,7 @@ comparePrice: 15.1 EUR
 prodname: 'Funko 30697 Pop! Vinilo: alquimista metálico Completo: Ed  Multi'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DFCXD1H/?tag=tolees-21'
 descuento: '37.88'
 average: '9.38'

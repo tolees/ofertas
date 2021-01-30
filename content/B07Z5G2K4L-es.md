@@ -16,6 +16,7 @@ comparePrice: 20 EUR
 prodname: 'Siux ANTIVIBRADOR VIBRASTOP K 2.0 Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z5G2K4L/?tag=tolees-21'
 descuento: '25.25'
 average: '14.95'

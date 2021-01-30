@@ -16,6 +16,7 @@ comparePrice: 1499.0 EUR
 prodname: 'Olympus Pen-F Kit  Cámara de Sistema Micro Cuatro Tercios  20 MP  Estabilizador de Imagen de 5 Ejes  Visor Electrónico  + Objetivo M.Zuiko 17mm  Distancia Focal Fija Rápida  Plata/Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01AURIERS/?tag=tolees-21'
 descuento: '68.65'
 average: '992.9383333333334'

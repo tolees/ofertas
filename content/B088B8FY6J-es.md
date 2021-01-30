@@ -16,6 +16,7 @@ comparePrice: 35.22 EUR
 prodname: 'Carrito de almacenamiento  carrito de almacenamiento de 3 niveles  organizador multiuso con ruedas  carrito de metal con ruedas  carrito de utilidad  organizador con ruedas para baño  cocina  dormitorio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088B8FY6J/?tag=tolees-21'
 descuento: '27.65'
 average: '25.48'

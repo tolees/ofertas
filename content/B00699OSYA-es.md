@@ -16,6 +16,7 @@ comparePrice: 32.95 EUR
 prodname: 'Lúdilo-678401 Ni si ni no  lúdico  juego de mesa para niños  multicolor  32.5 x 25.7 x 6.1  678401 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00699OSYA/?tag=tolees-21'
 descuento: '61.79'
 average: '12.59'

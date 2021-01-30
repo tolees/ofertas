@@ -16,6 +16,7 @@ comparePrice: 21.9 EUR
 prodname: 'Biotherm Biocils Waterproof Eye Make Up Remover Desmaquillante - 100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BLHP3O8/?tag=tolees-21'
 descuento: '39.18'
 average: '12.21'

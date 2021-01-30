@@ -16,6 +16,7 @@ comparePrice: 30.66 EUR
 prodname: 'Flash Drive 128 MB PenDrive 10 Piezas Memorias USB 2.0 - Portátil Pen Drives 128MB Conjunto de 10 Unidad Flash - Dispositivos Externos Práctica Llave USB Regalo Negro Anuncio de la Empresa de Datarm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075LC82RG/?tag=tolees-21'
 descuento: '32.62'
 average: '20.825'

@@ -16,6 +16,7 @@ comparePrice: 14.66 EUR
 prodname: 'MTNG Attitude 69618  Zapatillas para Mujer  Negro  NOU Negro/BLC C47286   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QG9M9FV/?tag=tolees-21'
 descuento: '28.51'
 average: '13.91'

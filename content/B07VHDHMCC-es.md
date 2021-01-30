@@ -16,6 +16,7 @@ comparePrice: 14.98 EUR
 prodname: 'Qkiss Caja de Almacenamiento de joyería de 12 Ranuras  Caja de Caja de Almacenamiento de joyería'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VHDHMCC/?tag=tolees-21'
 descuento: '56.01'
 average: '6.59'

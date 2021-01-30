@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Aqua Dragons- Viaje EGGspedition al Periodo Jurásico Juguete educativo  Multicolor  World Alive 4006    color/modelo surtido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00QK8IASU/?tag=tolees-21'
 descuento: '29.18'
 average: '21.456666666666667'

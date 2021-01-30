@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'Brunoko Plato para bebe con babero  Azul  - Plato Silicona para infantil con mantel individual - Ventosas antivuelco para tronas y sillines - Seguro en lavavajillas/microondas - Diseñado en España'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CVLS9HJ/?tag=tolees-21'
 descuento: '37.05'
 average: '16.59'

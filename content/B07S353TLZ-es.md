@@ -16,6 +16,7 @@ comparePrice: 153.9 EUR
 prodname: 'Love MoschinoJc4033pp1aMujerCarteras de mano con asaMarfil  Avorio 4x16x25 centimeters  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S353TLZ/?tag=tolees-21'
 descuento: '54.62'
 average: '75.63'

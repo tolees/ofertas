@@ -16,6 +16,7 @@ comparePrice: 4.75 EUR
 prodname: 'Controlador de control remoto universal Regulación de temperatura para calentador de estacionamiento de aire diesel Remolque Remoto inalámbrico - Negro y azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0869CPG7N/?tag=tolees-21'
 descuento: '34.95'
 average: '3.09'

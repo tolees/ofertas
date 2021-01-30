@@ -16,6 +16,7 @@ comparePrice: 15.5 EUR
 prodname: 'Mercer Culinary Cuchara chapada en acero inoxidable  acero inoxidable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06ZXYC6H5/?tag=tolees-21'
 descuento: '45.35'
 average: '8.47'

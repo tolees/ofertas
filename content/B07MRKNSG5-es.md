@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Seagate Backup Plus Slim STHN2000401 Unidad de disco duro externa portátil de 2 TB  HDD  USB 3.0 para PC y Mac  1 año de suscripción a Mylio Create  2 meses de suscripción Adobe CC Photography  Plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MRKNSG5/?tag=tolees-21'
 descuento: '25.00'
 average: '76.65666666666667'

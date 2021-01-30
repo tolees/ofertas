@@ -16,6 +16,7 @@ comparePrice: 29.79 EUR
 prodname: 'Ravensburger- Juego Ahora caigo  26758 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071ZBF12P/?tag=tolees-21'
 descuento: '42.93'
 average: '17.0'

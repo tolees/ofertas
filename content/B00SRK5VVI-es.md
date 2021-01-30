@@ -16,6 +16,7 @@ comparePrice: 6.5 EUR
 prodname: 'Rimmel London Scandaleyes XXtreme Máscara de Pestañas Tono Negro Extremo - 26 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00SRK5VVI/?tag=tolees-21'
 descuento: '42.92'
 average: '3.71'

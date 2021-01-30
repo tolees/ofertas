@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'POP! Vinilo - DC: Power Girl'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BEXG2P8/?tag=tolees-21'
 descuento: '40.03'
 average: '8.99'

@@ -16,6 +16,7 @@ comparePrice: 17.26 EUR
 prodname: 'Pyrex Classic - Bol de vidrio para mezclas de 3 litros'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000KG8GVE/?tag=tolees-21'
 descuento: '30.76'
 average: '11.608571428571429'

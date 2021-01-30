@@ -16,6 +16,7 @@ comparePrice: 25.95 EUR
 prodname: 'YAMAMAY® Push up Bra - Whatever The Weather'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085YCBX66/?tag=tolees-21'
 descuento: '54.99'
 average: '11.68'

@@ -16,6 +16,7 @@ comparePrice: 96.0 EUR
 prodname: 'Lacoste Ph4014  Polo para Hombre  Azul  Navy Blue   X-Large  Talla del fabricante : 6 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00Y4XUJKU/?tag=tolees-21'
 descuento: '41.72'
 average: '57.29666666666667'

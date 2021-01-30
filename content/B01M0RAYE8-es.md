@@ -16,6 +16,7 @@ comparePrice: 859.0 EUR
 prodname: 'BenQ W1090 Proyector 1080P  modo Deporte  pantalla grande de 100" en tan solo 2 5 m  altavoz incorporado de 10 W  2000 lúmenes  DLP '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M0RAYE8/?tag=tolees-21'
 descuento: '26.69'
 average: '584.1519999999999'

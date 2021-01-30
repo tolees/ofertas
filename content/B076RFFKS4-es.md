@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Terapia plana bandas de resistencia Set  látex libre soporte de ejercicio elástico bandas para estiramiento  flexibilidad  Pilates  Yoga  Ballet  gimnasia y rehabilitación  Loop Bands'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076RFFKS4/?tag=tolees-21'
 descuento: '60.58'
 average: '7.88'

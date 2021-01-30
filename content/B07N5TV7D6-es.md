@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Funko- Pop Vinilo: SLOP 2: Snowball in Superhero Suit Figura Coleccionable  Multicolor  Talla única  37890 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N5TV7D6/?tag=tolees-21'
 descuento: '31.10'
 average: '9.973333333333333'

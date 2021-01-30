@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Neverwinter Nights: Enhanced Edition'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SNQQTBT/?tag=tolees-21'
 descuento: '40.79'
 average: '31.850769230769238'

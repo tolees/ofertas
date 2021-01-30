@@ -16,6 +16,7 @@ comparePrice: 15.55 EUR
 prodname: 'iTieTie 2-Unidades Protector de Pantalla para Pixel 3 XL  no para Pixel 3  Sin Burbujas  Alta definición  Anti-rasguños  Protector de Pantalla de Vidrio Templado para Google Pixel 3 XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KYTCDYK/?tag=tolees-21'
 descuento: '61.09'
 average: '6.05'

@@ -16,6 +16,7 @@ comparePrice: 6.99 EUR
 prodname: 'Funda Colgante movil con Cuerda para Xiaomi Redmi Note 8T  Carcasa Transparente de TPU con Ajustable Cordón [Anti-Choque] Anti-rasguños Suave Silicona Caso - Oro Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082DDGKTS/?tag=tolees-21'
 descuento: '57.22'
 average: '2.99'

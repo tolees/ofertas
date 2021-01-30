@@ -16,6 +16,7 @@ comparePrice: 84.95 EUR
 prodname: 'Skechers Women s D LITES 3.0-PROVEN FORCE Trainers  White  Black Leather/Black & Gray Trim Wht   4  37 EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NW9HHTM/?tag=tolees-21'
 descuento: '40.08'
 average: '50.9'

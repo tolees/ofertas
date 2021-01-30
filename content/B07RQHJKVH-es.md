@@ -16,6 +16,7 @@ comparePrice: 67.05 EUR
 prodname: 'Hush Puppies - Bailarinas de Cuero Willow para Mujer señora  36 EU   Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RQHJKVH/?tag=tolees-21'
 descuento: '33.33'
 average: '44.7'

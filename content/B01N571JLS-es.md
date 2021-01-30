@@ -16,6 +16,7 @@ comparePrice: 14.98 EUR
 prodname: 'Sevilla GS-21-S Set de Desayuno'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N571JLS/?tag=tolees-21'
 descuento: '33.31'
 average: '9.99'

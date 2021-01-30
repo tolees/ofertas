@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Tamaris 1-1-25242-23  Botas Militar para Mujer  Gris  Anthracite 214   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NJHP2GX/?tag=tolees-21'
 descuento: '76.60'
 average: '23.39'

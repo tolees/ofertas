@@ -16,6 +16,7 @@ comparePrice: 325 EUR
 prodname: 'LE CREUSET Cocotte Evolution con Tapa  Ø 31 cm  Ovalada  Todas Las Fuentes de Calor Incl. inducción  6 3 l  Hierro Fundido  Negro Mate'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00VA5HXOU/?tag=tolees-21'
 descuento: '30.00'
 average: '227.5'

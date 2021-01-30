@@ -16,6 +16,7 @@ comparePrice: 141.0 EUR
 prodname: 'Nike Air Max 90 Essential - Zapatillas de running  Hombre  Blanco  White / White-White-White   40.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00CGVQCTE/?tag=tolees-21'
 descuento: '36.16'
 average: '83.32333333333334'

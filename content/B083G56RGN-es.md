@@ -16,6 +16,7 @@ comparePrice: 18.0 EUR
 prodname: 'Tablet Funda para Samsung Galaxy Note 10.1 2014 SM-P600 P601 T520 T525 Funda Soporte Cuero Case Cover T-56'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083G56RGN/?tag=tolees-21'
 descuento: '38.89'
 average: '11.0'

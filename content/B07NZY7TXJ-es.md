@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Skechers Men s Elite Flex-BELBURN Trainers  Blue  Navy Mesh/Lime Trim Nvlm   11  46 EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NZY7TXJ/?tag=tolees-21'
 descuento: '58.90'
 average: '30.195'

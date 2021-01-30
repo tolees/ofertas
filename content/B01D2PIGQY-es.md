@@ -16,6 +16,7 @@ comparePrice: 363.01 EUR
 prodname: 'LG CineBeam PH550G - Proyector con batería integrada  hasta 100"  autonomía 2 5h  fuente LED  550 lúmenes  1280 x 720  Color Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01D2PIGQY/?tag=tolees-21'
 descuento: '28.58'
 average: '283.56'

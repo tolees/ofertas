@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Jack & Jones Jorpannel Crew Neck. Suéter  Azul  Navy Blazer Fit: Knit Fit   S para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WLS6Y92/?tag=tolees-21'
 descuento: '71.39'
 average: '11.782499999999999'

@@ -16,6 +16,7 @@ comparePrice: 229.9 EUR
 prodname: 'Devolo 9974 - Puente WiFi  2 Gbit  una Banda de 5 GHz '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NBJWKVB/?tag=tolees-21'
 descuento: '43.83'
 average: '142.595'

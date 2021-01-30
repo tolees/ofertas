@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Intex 57281EU - Unicornio hinchable XL - 287x193x165 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0756ZHGHF/?tag=tolees-21'
 descuento: '32.99'
 average: '30.5'

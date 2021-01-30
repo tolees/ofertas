@@ -16,6 +16,7 @@ comparePrice: 200.0 EUR
 prodname: 'FIRENZE ARTEGIANI.Bolso Tote de Mujer Piel auténtica.Bolso Mujer Cuero Genuino Dollaro Grabado Trenzado geométrico Lacado. Made IN Italy. Vera Pelle Italiana. 37x27x14 cm. Color: Rojo Granate'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073P8SPTP/?tag=tolees-21'
 descuento: '68.50'
 average: '62.99'

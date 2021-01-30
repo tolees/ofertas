@@ -16,6 +16,7 @@ comparePrice: 139.0 EUR
 prodname: 'Lacoste Reloj Analógico para Hombre de Cuarzo con Correa en Cuero 2010872'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01KTG2T4E/?tag=tolees-21'
 descuento: '38.85'
 average: '85.0'

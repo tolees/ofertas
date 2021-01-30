@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: '2 toallas blancas suaves de Elli y Raff Baby con capucha para el baño 100% algodón  regalo para bebé  gris '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07THJNNLT/?tag=tolees-21'
 descuento: '30.39'
 average: '11.13'

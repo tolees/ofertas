@@ -16,6 +16,7 @@ comparePrice: 119.9 EUR
 prodname: 'Sneakers Donna FILA 1010748 Autunno/Inverno 37'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TM1V6J9/?tag=tolees-21'
 descuento: '35.00'
 average: '77.94'

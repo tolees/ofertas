@@ -16,6 +16,7 @@ comparePrice: 90.99 EUR
 prodname: 'San Ignacio PK1790 3 sartenes 20 24 28 cms  alumino prensado  inducción  Cobre  con Set 4 Cuchillos de Cocina  Acero Inoxidable  Aluminio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083T42DFT/?tag=tolees-21'
 descuento: '52.75'
 average: '45.80666666666667'

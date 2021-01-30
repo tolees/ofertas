@@ -16,6 +16,7 @@ comparePrice: 84.5 EUR
 prodname: 'ESTÉE LAUDER  CP+R Lifting Serum para Arrugas  30 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BNAOV5Q/?tag=tolees-21'
 descuento: '37.34'
 average: '52.95'

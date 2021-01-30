@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: '20 Ml Perfume De Mujer Elegante Original  Fragancia De Flores Duradero Flor Refrescante Fabulosas Frutas Señora Perfume Eternity Euphoria'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082CWV6TR/?tag=tolees-21'
 descuento: '40.03'
 average: '7.19'

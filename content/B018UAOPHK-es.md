@@ -16,6 +16,7 @@ comparePrice: 115.2 EUR
 prodname: 'Cometa espantapájaros de calidad profesional'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B018UAOPHK/?tag=tolees-21'
 descuento: '54.86'
 average: '52.0'

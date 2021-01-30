@@ -16,6 +16,7 @@ comparePrice: 19.75 EUR
 prodname: 'Scholl Recambio Wet&Dry Durezas Leves'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073HDCQBH/?tag=tolees-21'
 descuento: '57.97'
 average: '8.3'

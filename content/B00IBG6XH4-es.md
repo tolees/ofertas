@@ -16,6 +16,7 @@ comparePrice: 9.28 EUR
 prodname: 'NUK 10750796 – detergente en espuma para biberón con enzimas orgánicas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00IBG6XH4/?tag=tolees-21'
 descuento: '50.97'
 average: '6.915'

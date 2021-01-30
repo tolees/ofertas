@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Wrangler Straight Jeans  Negro  Blueblack 51L   27W / 30L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M5DBSP1/?tag=tolees-21'
 descuento: '79.31'
 average: '16.54'

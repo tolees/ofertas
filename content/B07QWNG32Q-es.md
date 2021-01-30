@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Under Armour Unstoppable Essential Bomber Parte Superior del Calentamiento  Hombre  Verde  XXL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QWNG32Q/?tag=tolees-21'
 descuento: '61.62'
 average: '23.03'

@@ -16,6 +16,7 @@ comparePrice: 22.23 EUR
 prodname: 'HorBous Exquisito de madera redonda de 3 Min / 5 Min / 10 Min / 15 Min / 30 Min / 60 Min Hourglass arena de cristal de arena Reloj Timer Gift Set Kit  color al azar de arena   5 Min '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XQT1RDV/?tag=tolees-21'
 descuento: '41.57'
 average: '12.99'

@@ -16,6 +16,7 @@ comparePrice: 0.25 EUR
 prodname: 'Funnyrunstore Herramienta de eliminación de la espinilla Suave silicona Retráctil Poro Limpieza Facial Almohadilla de limpieza Cuidado de la piel Belleza Cepillo facial Cosmetic Pad  azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NJK3DBP/?tag=tolees-21'
 descuento: '92.00'
 average: '0.02'

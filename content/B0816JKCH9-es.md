@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'QHOHQ Funda para Xiaomi Redmi Note 8T  Cases Silicona Slim TPU Cuatro Esquinas Anti-caíd  Transparente '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0816JKCH9/?tag=tolees-21'
 descuento: '46.70'
 average: '8.39'

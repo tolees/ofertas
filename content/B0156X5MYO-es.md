@@ -16,6 +16,7 @@ comparePrice: 1499.9 EUR
 prodname: 'Panasonic DMC-GH4RE-K-Cámara Digita de 16 MP  Pantalla de 3    Grabación de Vídeo en 4K  Wi-Fi  Raw  Live Mos  1608 x 3456 Píxeles  Batería  Cuerpo MILC   Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0156X5MYO/?tag=tolees-21'
 descuento: '42.85'
 average: '742.0355000000001'

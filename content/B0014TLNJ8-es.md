@@ -16,6 +16,7 @@ comparePrice: 58.3 EUR
 prodname: 'BaByliss BAB663E PRO - Cepillo térmico Ø 18 mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0014TLNJ8/?tag=tolees-21'
 descuento: '39.71'
 average: '36.335'

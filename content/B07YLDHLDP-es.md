@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Philips D4702B/34 - Pack de 2 Teléfonos Fijos Inalámbricos  Retroiluminación  HQ-Sound  16 Horas  Contacto 2 Números  Manos Libres  My Sound  Modo Privado  Despertador  Indicador Evento  Eco+  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YLDHLDP/?tag=tolees-21'
 descuento: '30.90'
 average: '48.36'

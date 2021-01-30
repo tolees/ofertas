@@ -16,6 +16,7 @@ comparePrice: 8.85 EUR
 prodname: 'Beter 34062 - Pinzas  punta cangrejo  doradas  9 3 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00U8QYLTC/?tag=tolees-21'
 descuento: '55.37'
 average: '4.150000000000001'

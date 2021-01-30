@@ -16,6 +16,7 @@ comparePrice: 429 EUR
 prodname: 'Dyson V7 Fluffy Aspiradora Sin Cable con 2 Funciones  100 W  0.54 litros  87 Decibelios  Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073FC21TS/?tag=tolees-21'
 descuento: '30.94'
 average: '296.25'

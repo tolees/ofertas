@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Clarks Step Explor Hi  Botas para Nieve para Hombre  Azul Marino  42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MFM33NT/?tag=tolees-21'
 descuento: '66.88'
 average: '36.43'

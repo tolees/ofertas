@@ -16,6 +16,7 @@ comparePrice: 18.0 EUR
 prodname: 'iTrunk Paquete 16 cabezales de cepillo de dientes para oral b cabezales de reemplazo Compatible con Pro700Pro5000Pro6500 incluyendo 4 Cross  4 Precision Clean 4 Floss y 4 3-D Whitening'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K3TRPF6/?tag=tolees-21'
 descuento: '33.39'
 average: '12.024482758620689'

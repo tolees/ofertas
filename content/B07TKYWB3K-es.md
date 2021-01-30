@@ -16,6 +16,7 @@ comparePrice: 299.99 EUR
 prodname: 'Sabrent 1TB Rocket Nvme PCIe 4.0 M.2 2280 Unidad de estado sólido SSD interna de máximo rendimiento con disipador térmico  SB-ROCKET-NVMe4-HTSK-1TB '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TKYWB3K/?tag=tolees-21'
 descuento: '26.67'
 average: '219.99'

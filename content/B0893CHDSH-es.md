@@ -16,6 +16,7 @@ comparePrice: 899.0 EUR
 prodname: 'LG SN9YG - Barra de Sonido Hi-Res con Dolby Atmos  24 bits/192 kHz  520 W de Potencia  Asistente de Google  Chromecast Integrado  subwoofer inalámbrico  WiFi y Bluetooth con tecnología Meridian'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0893CHDSH/?tag=tolees-21'
 descuento: '31.45'
 average: '616.25'

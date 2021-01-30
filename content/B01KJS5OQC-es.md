@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'World Rally Championship  WRC 6 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01KJS5OQC/?tag=tolees-21'
 descuento: '36.56'
 average: '44.4'

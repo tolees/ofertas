@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Relojes de Hombre Reloj Deportivo Digital para Hombre  Deportivo y Militar  Reloj de Pulsera Militar  retroiluminado  LED  Informal  50 m  Resistente al Agua  para Hombres …'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JN1YHRR/?tag=tolees-21'
 descuento: '43.35'
 average: '16.99'

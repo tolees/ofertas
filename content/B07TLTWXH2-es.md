@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Clarks Un Cosmo Strap  Sandalia con Pulsera para Mujer  Gris  Stone Combi Stone Combi   37.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TLTWXH2/?tag=tolees-21'
 descuento: '60.65'
 average: '43.28'

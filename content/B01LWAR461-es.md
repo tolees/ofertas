@@ -16,6 +16,7 @@ comparePrice: 299.95 EUR
 prodname: 'Apple Beats Solo3 Auriculares de Diadema Inalámbricos - Plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LWAR461/?tag=tolees-21'
 descuento: '63.59'
 average: '125.93400000000001'

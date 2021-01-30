@@ -16,6 +16,7 @@ comparePrice: 8.97 EUR
 prodname: 'Pulsera de Emergencia para Niños  Pulseras de Identificación  Reutilizable Resistente al Agua SOS Seguridad de Pulsera para Niños  6PC '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FS8S3PT/?tag=tolees-21'
 descuento: '33.22'
 average: '5.99'

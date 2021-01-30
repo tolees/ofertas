@@ -16,6 +16,7 @@ comparePrice: 69.93 EUR
 prodname: 'Skechers Uno- Roundabout  Zapatillas para Mujer  White Duraleather/Suede/Mesh Trim Wht  3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NW7GL12/?tag=tolees-21'
 descuento: '30.00'
 average: '48.95'

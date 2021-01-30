@@ -16,6 +16,7 @@ comparePrice: 24.5 EUR
 prodname: 'Nilfisk - 107407940 - 4 bolsas de aspiradora + prefiltro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00IITQ8IS/?tag=tolees-21'
 descuento: '66.29'
 average: '11.85'

@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Funko Modern Family - Figura de Vinilo Mitch'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HB398FW/?tag=tolees-21'
 descuento: '54.29'
 average: '7.275'

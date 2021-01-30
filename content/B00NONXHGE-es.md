@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Tommy Hilfiger New Denton Belt 4.0 Cinturón  Marrón  DARK TAN-EUR 257   100 cm  talla fabricante: 100  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NONXHGE/?tag=tolees-21'
 descuento: '34.86'
 average: '25.31'

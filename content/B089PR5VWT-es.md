@@ -16,6 +16,7 @@ comparePrice: 41.9 EUR
 prodname: 'Pendientes Mujer con piedra de nacimiento  Plata de Ley 925 Con Zirconia Cúbico joyería regalo de joyería para niñas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089PR5VWT/?tag=tolees-21'
 descuento: '46.68'
 average: '22.34'

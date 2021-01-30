@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Warriors Orochi 4 Ultimate'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YLC5L1X/?tag=tolees-21'
 descuento: '40.11'
 average: '41.92'

@@ -16,6 +16,7 @@ comparePrice: 17.98 EUR
 prodname: 'Joma Cannes II Pantalon Largo Deportivo  Hombre  Marino  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FKN3RG5/?tag=tolees-21'
 descuento: '43.60'
 average: '10.14'

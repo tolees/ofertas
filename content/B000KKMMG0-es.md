@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Adidas Samba  Zapatillas de Fútbol para Hombre  Negro Black Running White  43 1/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000KKMMG0/?tag=tolees-21'
 descuento: '49.32'
 average: '38.8'

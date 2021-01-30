@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Assassin  S Creed pp4101as Notebook'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079WRY8T4/?tag=tolees-21'
 descuento: '50.45'
 average: '4.95'

@@ -16,6 +16,7 @@ comparePrice: 599.99 EUR
 prodname: 'Windgoo Patinete Eléctrico Plegable E Scooter  hasta 25 km/h  Batería de Largo Alcance de 20-22km 36V 6AH  Neumático de 8.5 Pulgadas  Gris Oscuro Mate '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YCLSXFP/?tag=tolees-21'
 descuento: '56.67'
 average: '259.98'

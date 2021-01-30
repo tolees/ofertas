@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'Hunter Original Short  Botas de Agua Unisex Adulto  Negro  Black RMA   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00K1WAPPM/?tag=tolees-21'
 descuento: '30.12'
 average: '83.85'

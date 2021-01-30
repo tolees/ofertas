@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'JACK & JONES Jcobase Sweat Hood Capucha  Gris  Light Grey Melange Light Grey Melange   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VC18ZRV/?tag=tolees-21'
 descuento: '65.12'
 average: '13.95'

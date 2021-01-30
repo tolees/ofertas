@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'JACK & JONES Jfwstoke Nubuck  Botas Clasicas para Hombre  Marrón  Java Java   45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CHJPZWH/?tag=tolees-21'
 descuento: '57.48'
 average: '33.94'

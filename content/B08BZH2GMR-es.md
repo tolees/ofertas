@@ -16,6 +16,7 @@ comparePrice: 30.21 EUR
 prodname: '4Pcs / Vtc6 3.7V 2500Mah Batería recargable de iones de litio 18650 para Sony Us18650 C6 30A Herramienta de cigarrillo electrónico + Cargador 18650 - Púrpura'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BZH2GMR/?tag=tolees-21'
 descuento: '33.50'
 average: '20.09'

@@ -16,6 +16,7 @@ comparePrice: 224.1 EUR
 prodname: 'Love MoschinoJc4004pp1aMujerBolsos mochilaMarfil  Avorio 14x29x37 centimeters  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S5CJ5D6/?tag=tolees-21'
 descuento: '44.78'
 average: '123.75'

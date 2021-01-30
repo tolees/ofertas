@@ -16,6 +16,7 @@ comparePrice: 712.69 EUR
 prodname: 'Bosch Professional GBH 4-32 DFR - Martillo perforador  4 2 J  Ø máx. hormigón 32 mm  portabrocas SDS plus + hexagonal  en maletín '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000XQC41E/?tag=tolees-21'
 descuento: '48.09'
 average: '453.32666666666665'

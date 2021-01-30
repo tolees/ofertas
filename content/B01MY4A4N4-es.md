@@ -16,6 +16,7 @@ comparePrice: 28.16 EUR
 prodname: 'COBI 21076 - Discovery Juguete de construcción'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MY4A4N4/?tag=tolees-21'
 descuento: '27.66'
 average: '20.37'

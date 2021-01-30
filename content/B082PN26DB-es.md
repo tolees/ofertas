@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'ValueHall Doblador de Ropa 56 x 68 cm Tabla para Doblar Doblador de Camisetas Adjustable Carpeta de Ropa para Adulto o Infantil Camisetas Pantalones Toallas V7031A  Gris '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082PN26DB/?tag=tolees-21'
 descuento: '34.80'
 average: '14.99'

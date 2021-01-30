@@ -16,6 +16,7 @@ comparePrice: 23.98 EUR
 prodname: 'Docooler Auriculares inalámbricos BT 5.0  Alta fidelidad Estéreo Auriculares Estéreo Inalámbricos Plegables  Diadema Ajustable Ranura para Tarjeta AUX IN TF'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08D8WV59T/?tag=tolees-21'
 descuento: '29.15'
 average: '22.2325'

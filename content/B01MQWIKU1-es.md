@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Cupones de Sexo para Parejas ❤️  para él y para ella  – Cupones de Amor / Vales para Sexo / Tarjetas de Posiciones Sexuales / Regalos para él / Regalos para ella / Regalos para San Valentín / Juegos Divertidos para Adultos / Juguetes para Adultos / Objetos Sexuales para Parejas  Sexy '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MQWIKU1/?tag=tolees-21'
 descuento: '30.79'
 average: '8.99'

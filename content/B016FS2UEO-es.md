@@ -16,6 +16,7 @@ comparePrice: 46.14 EUR
 prodname: 'NOVEX Sérum Absoluto  30 ml  Pack de 6'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B016FS2UEO/?tag=tolees-21'
 descuento: '82.90'
 average: '10.32'

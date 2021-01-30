@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Levi s Circle Buckle Core  Cinturón Mujer  Marrón  Brown   75 cm  Talla del fabricante: 75 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B017XHVGPU/?tag=tolees-21'
 descuento: '28.63'
 average: '22.68'

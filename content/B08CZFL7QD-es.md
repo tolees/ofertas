@@ -16,6 +16,7 @@ comparePrice: 139.0 EUR
 prodname: 'San Ignacio Batería 8 piezas Porto y Set 3 sartenes  Ø16/Ø20/Ø24 cm  negro  aluminio prensado  antiadherente  inducción'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CZFL7QD/?tag=tolees-21'
 descuento: '49.65'
 average: '69.99'

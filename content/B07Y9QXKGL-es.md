@@ -16,6 +16,7 @@ comparePrice: 7.49 EUR
 prodname: 'MUSESHOP Funda para Xiaomi Redmi Note 8 Pro  Estuche de Cuero Estampado Flor Tótem Libro de Cuero Flip Case  Carcasa PU Leather con TPU Silicona Case Interna Suave Cierre Magnético  Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y9QXKGL/?tag=tolees-21'
 descuento: '38.72'
 average: '4.59'

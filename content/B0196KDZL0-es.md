@@ -16,6 +16,7 @@ comparePrice: 45.23 EUR
 prodname: 'New Balance 577 Training h  Zapatillas Deportivas para Interior para Hombre  Multicolor  Grey/Yellow 033   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0196KDZL0/?tag=tolees-21'
 descuento: '30.71'
 average: '30.913333333333334'

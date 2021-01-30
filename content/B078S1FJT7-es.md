@@ -16,6 +16,7 @@ comparePrice: 17.56 EUR
 prodname: 'Lentejuelas Portátil - 2 Color Reversible diario de lentejuelas de la Sirenita - Magic - Diario de viaje portátil regalo para niños y adultos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078S1FJT7/?tag=tolees-21'
 descuento: '26.42'
 average: '12.889999999999999'

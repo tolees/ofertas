@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'PetHot® 10 piezas macetas colgantes macetas con gancho de metal macetas colgantes macetas para ventana de balcón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XBQ4K58/?tag=tolees-21'
 descuento: '33.35'
 average: '15.99'

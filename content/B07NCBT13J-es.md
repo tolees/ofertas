@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Pepe Jeans MC Queen Short para Hombre  Verde  Dark Olive 768  W32  Talla del fabricante: 32 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NCBT13J/?tag=tolees-21'
 descuento: '59.64'
 average: '20.14'

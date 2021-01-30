@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Comando G - La Batalla de los Planetas Serie Completa 7 DVDs 1978 Battle of the Planets  G-Force '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TR7K2QJ/?tag=tolees-21'
 descuento: '66.61'
 average: '10.333333333333334'

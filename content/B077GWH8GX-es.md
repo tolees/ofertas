@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'Under Armour Challenger II Training Pant Pantalones  Hombre  Azul  Midnight Navy/Graphite 410   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077GWH8GX/?tag=tolees-21'
 descuento: '47.81'
 average: '23.48'

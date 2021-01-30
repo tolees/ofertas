@@ -16,6 +16,7 @@ comparePrice: 33.99 EUR
 prodname: 'Collares Mujer Colgante Corazón Plata 925 Rosa Colgante Joyeria Personalizados Mamá/Esposa Regalo Originales'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083ZX76HJ/?tag=tolees-21'
 descuento: '41.19'
 average: '19.99'

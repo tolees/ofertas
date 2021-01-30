@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Nice2you muñeca de niña afroamericana Baby Play de 12 Pulgadas para niños cumpleaños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L8R4QTM/?tag=tolees-21'
 descuento: '30.01'
 average: '20.99'

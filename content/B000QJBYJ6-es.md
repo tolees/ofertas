@@ -16,6 +16,7 @@ comparePrice: 95.19 EUR
 prodname: 'Merrell Waterpro Maipo 2  Zapatillas Impermeables para Hombre  Gris  Henna/Charcoal   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000QJBYJ6/?tag=tolees-21'
 descuento: '40.00'
 average: '57.11'

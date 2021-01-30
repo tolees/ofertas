@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Cámara Web con micrófono  cámara Web Full HD 1296P  cámara USB Plug and Play para computadora  computadora portátil  transmisión en Vivo  Youtube  Juegos  videollamadas y conferencias'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087CV5Z4T/?tag=tolees-21'
 descuento: '58.76'
 average: '32.99'

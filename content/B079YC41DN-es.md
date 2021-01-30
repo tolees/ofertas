@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Funko Pop!- Hermione Herbology Figura de Vinilo  29502 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079YC41DN/?tag=tolees-21'
 descuento: '40.23'
 average: '8.96'

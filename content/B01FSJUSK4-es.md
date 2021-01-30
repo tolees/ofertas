@@ -16,6 +16,7 @@ comparePrice: 8.9 EUR
 prodname: 'Nox H-FAN - NXHUMMERF120LR - Ventilador para Caja PC  12 cm  LED Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FSJUSK4/?tag=tolees-21'
 descuento: '44.38'
 average: '4.95'

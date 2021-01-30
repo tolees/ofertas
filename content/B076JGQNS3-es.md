@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'adidas Trefoil T-Shirt T-Shirt  Hombre  White  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076JGQNS3/?tag=tolees-21'
 descuento: '26.58'
 average: '20.465'

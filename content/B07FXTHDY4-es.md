@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'Adidas Nemeziz Tango 18.4 In  Zapatillas de fútbol Sala para Hombre  Azul Ftwbla/Fooblu 001  44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FXTHDY4/?tag=tolees-21'
 descuento: '45.39'
 average: '30.01'

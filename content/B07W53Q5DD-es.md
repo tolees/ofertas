@@ -16,6 +16,7 @@ comparePrice: 14.98 EUR
 prodname: 'Alfombras de Playa Manta de Picnic para Playa - Alfombrilla de Playa Impermeable Anti arena de 210x200 cm con 4 estacas fijas  Manta de Picnic para Playa  Picnic  Senderismo  Camping y más'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W53Q5DD/?tag=tolees-21'
 descuento: '58.01'
 average: '15.416666666666668'

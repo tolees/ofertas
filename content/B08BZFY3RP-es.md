@@ -16,6 +16,7 @@ comparePrice: 11.65 EUR
 prodname: 'Unidad Flash USB portátil Unidad de Memoria USB 2.0 de Metal a Prueba de Agua Dispositivo de Almacenamiento de Memoria USB Pen Stick U Disk USB - Plateado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BZFY3RP/?tag=tolees-21'
 descuento: '33.48'
 average: '7.75'

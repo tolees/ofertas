@@ -16,6 +16,7 @@ comparePrice: 22.97 EUR
 prodname: 'KESOTO 1/12 Cama de Madera en Miniatura Muebles para Dormitorio de Muñecas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KZLBYVM/?tag=tolees-21'
 descuento: '44.45'
 average: '11.58'

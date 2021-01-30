@@ -16,6 +16,7 @@ comparePrice: 44.95 EUR
 prodname: 'Skechers Girls  DYNA-AIR-JUMP BRIGHTS Trainers  Black  Black Hot Pink BKHP   11  28.5 EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JGQTTVB/?tag=tolees-21'
 descuento: '42.69'
 average: '25.76'

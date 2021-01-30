@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Skechers Sepulveda Blvd-A La Mode  Zapatillas sin Cordones para Mujer  Negro  Black Microfiber/Off White Trim BKW   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H5ZSGYL/?tag=tolees-21'
 descuento: '38.50'
 average: '36.584999999999994'

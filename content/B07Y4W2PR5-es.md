@@ -16,6 +16,7 @@ comparePrice: 66.9 EUR
 prodname: 'Doctor Hetzner Botelleros Vino DIY Soporte de Botella 28 * 19 * 21.6 cm Apilable para Botellas de Agua 6 Botellas de para Estantes de Cocina  Presentación de vinos  Bodega y Bar de Vinos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y4W2PR5/?tag=tolees-21'
 descuento: '70.12'
 average: '19.99'

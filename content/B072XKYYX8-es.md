@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Tural - Protector de colchón Impermeable y transpirable. Tejido 100% Algodón de Muletón. Talla 150x200cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072XKYYX8/?tag=tolees-21'
 descuento: '36.73'
 average: '18.95'

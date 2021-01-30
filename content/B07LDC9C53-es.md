@@ -16,6 +16,7 @@ comparePrice: 13.94 EUR
 prodname: 'Un Tranvia Llamado Deseo Blu-Ray  - Col Oscars [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LDC9C53/?tag=tolees-21'
 descuento: '26.83'
 average: '10.2'

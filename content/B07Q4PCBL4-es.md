@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Amzdeal Alcachofa de ducha Cabezal de Ducha de Agua Ahorro Mano de Ducha 3 Modos  Cromo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q4PCBL4/?tag=tolees-21'
 descuento: '79.23'
 average: '6.948333333333334'

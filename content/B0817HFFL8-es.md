@@ -16,6 +16,7 @@ comparePrice: 58.99 EUR
 prodname: 'TOPERSUN Sacaleches Eléctrico Recargable Extractor de Leche Eléctrico Silencioso Colector de Leche Materna 3 Modos y 9 Niveles pantalla táctil LCD para Succión de Leche Materna y Masaje de Senos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0817HFFL8/?tag=tolees-21'
 descuento: '37.29'
 average: '36.99'

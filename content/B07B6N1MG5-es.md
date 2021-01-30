@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'HONCENMAX Tipo D Vehículo Cubierta del Volante Coche Protector del Volante Universal Diámetro 38cm  15"  Forma de D [Cubierta de Volante de Fondo Plano]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B6N1MG5/?tag=tolees-21'
 descuento: '58.34'
 average: '24.99'

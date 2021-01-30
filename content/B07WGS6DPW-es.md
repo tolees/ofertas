@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Almohadilla Eléctrica Térmica Calentamiento Rápido con Función de Apagado Automático Lavable a Máquina Alivia Dolor Muscular para Espalda Cuello Hombros Piernas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WGS6DPW/?tag=tolees-21'
 descuento: '45.01'
 average: '21.99'

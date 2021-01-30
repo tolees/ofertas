@@ -16,6 +16,7 @@ comparePrice: 75.98 EUR
 prodname: 'Botas de Invierno para Hombre con Botas de Nieve Camfosy Seguridad de Nubuck con Piel Cálida Calzado Cómodo de Ciudad con Botas Altas de Chukka Impermeables con Cordones Negro Marrón Amarillo Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H5KSGPM/?tag=tolees-21'
 descuento: '50.00'
 average: '37.99'

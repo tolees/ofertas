@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Máscara para pelo  Cabello Mascarillas  Magical Hair Mask  Reparación Profunda reconstructor instantáneo para cabello dañado  5 Seconds to Restore Softer Hair for Damaged  Dry Hair 120 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YXQHPL4/?tag=tolees-21'
 descuento: '34.63'
 average: '17.189999999999998'

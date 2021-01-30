@@ -16,6 +16,7 @@ comparePrice: 18.98 EUR
 prodname: 'Biutee 6 pcs Esmalte para Stamping 8ml Seca por Secador Uñas No Tóxico sin Olor Color de Negro Blanco Dorado Azul Rojo y Violeta'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MNYJFR8/?tag=tolees-21'
 descuento: '26.34'
 average: '13.98'

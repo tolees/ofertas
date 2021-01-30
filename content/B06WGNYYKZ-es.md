@@ -16,6 +16,7 @@ comparePrice: 23.4 EUR
 prodname: '2x Cubierta Caso de Silicona Funda Protectora de Mando Juego Carcasa Estuche de Piel para Sony PS2 PS3 Controlador'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06WGNYYKZ/?tag=tolees-21'
 descuento: '44.44'
 average: '13.0'

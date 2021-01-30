@@ -16,6 +16,7 @@ comparePrice: 268.9 EUR
 prodname: 'HP 503A Cartucho de tóner original LaserJet para CP3505/3800  magenta'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000BMZHYG/?tag=tolees-21'
 descuento: '92.56'
 average: '18.752499999999998'

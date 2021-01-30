@@ -16,6 +16,7 @@ comparePrice: 125.0 EUR
 prodname: 'Radio Am/FM Waterproof Sangean H-201'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000LRMN8O/?tag=tolees-21'
 descuento: '35.24'
 average: '72.86666666666667'

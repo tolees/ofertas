@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Fresadora  2 Pinzas 1/4"  1/8"  Compatible Fresa de 6mm  6 Velocidad 10000~30000RPM  1M Cable Flexible para Varios Accesorios de 1/8"  Tacklife 600W Fresadora de Madera  6 Niveles de Fresar  PTR01A'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CZXP237/?tag=tolees-21'
 descuento: '46.16'
 average: '74.99'

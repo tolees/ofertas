@@ -16,6 +16,7 @@ comparePrice: 222.99 EUR
 prodname: 'Bosch PCM 8 - Ingletadora en caja de cartón  Pinza  disco de sierra Optiline Wood  saco para polvo  1.200 W '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B010D0AL6E/?tag=tolees-21'
 descuento: '40.15'
 average: '129.175'

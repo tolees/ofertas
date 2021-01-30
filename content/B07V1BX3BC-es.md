@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'Parfois - Bandolera De Ante - Mujeres - Tallas M - Gris Pardo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V1BX3BC/?tag=tolees-21'
 descuento: '49.98'
 average: '24.745'

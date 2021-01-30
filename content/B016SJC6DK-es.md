@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'BeMaxx Juego de Bandas de Resistencia elásticas + guía de Ejercicios – Cintas Profesionales: 5 Tubos de látex + Tobillera  Anclaje para Puerta & Asas | Fitness  Gimnasio  Crossfit  Culturismo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B016SJC6DK/?tag=tolees-21'
 descuento: '27.78'
 average: '48.79'

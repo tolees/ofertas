@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'New Balance Fresh Foam Zante Pursuit Women s Zapatillas para Correr - AW19-40.5'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TJ1ZSTC/?tag=tolees-21'
 descuento: '32.54'
 average: '80.95'

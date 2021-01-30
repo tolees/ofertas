@@ -16,6 +16,7 @@ comparePrice: 39.89 EUR
 prodname: '50x56cm Manta Electrica Espalda y Cuello  Almohadilla Eléctrica Cervical 100W de 45-65°C Calentar Rápido  Manta Electrica Lumbar Lavable  Aliviar Dolores  Anti-Sobrecalentamiento  Auto-Apagado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075R1KXYX/?tag=tolees-21'
 descuento: '44.87'
 average: '24.49'

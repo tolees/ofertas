@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Zapatillas de Estar por casa Hombre Mujer Espuma de Memoria Cálido Comodidad Forro de Felpa Interior Antideslizante Pantuflas Negro  42/43EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H3TVH3R/?tag=tolees-21'
 descuento: '40.01'
 average: '17.99'

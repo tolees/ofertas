@@ -16,6 +16,7 @@ comparePrice: 58 EUR
 prodname: 'SUBITO Knit'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0772P8HCP/?tag=tolees-21'
 descuento: '50.00'
 average: '29'

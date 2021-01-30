@@ -16,6 +16,7 @@ comparePrice: 139.95 EUR
 prodname: 'adidas Crazy Explosive 2017  Zapatillas de Deporte para Hombre  Negro  Negbas/Plamet/Grpulg   47 1/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072R6N7YH/?tag=tolees-21'
 descuento: '39.26'
 average: '85.0'

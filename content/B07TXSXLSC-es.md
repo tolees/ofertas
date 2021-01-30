@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Aogled LED Lámpara de Techo 24W 2400LM 4000K Blanco Natural Plafón de Techo Redondo 28cm No-Regulable Luz de Techo Permeable IP54 180 Ángulo LED Plafón Para Dormitorio Baño Cocina Pasillo Comedor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TXSXLSC/?tag=tolees-21'
 descuento: '32.01'
 average: '33.99'

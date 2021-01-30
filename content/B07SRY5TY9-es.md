@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Skechers GO Walk 5 PRIZED  Zapatillas para Mujer  Beige  Taupe Textile/Trim TPE   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SRY5TY9/?tag=tolees-21'
 descuento: '45.66'
 average: '38.004999999999995'

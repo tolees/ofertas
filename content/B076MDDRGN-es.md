@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Stranger Things: Music From The Netflix Original Series - Banda Sonora Original [Vinilo]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076MDDRGN/?tag=tolees-21'
 descuento: '40.71'
 average: '13.63'

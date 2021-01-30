@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'PUMA Ralph Sampson Mid  Zapatillas Altas Unisex Adulto  White White-Purple Glimmer  37.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KG1GVJ1/?tag=tolees-21'
 descuento: '59.89'
 average: '36.08'

@@ -16,6 +16,7 @@ comparePrice: 87.49 EUR
 prodname: 'Asics Gel-Bondi  Zapatillas de Running para Hombre  Negro  Black/Black 001   44.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RXLCR3P/?tag=tolees-21'
 descuento: '41.71'
 average: '51'

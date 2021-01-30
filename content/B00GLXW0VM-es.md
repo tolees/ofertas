@@ -16,6 +16,7 @@ comparePrice: 20.3 EUR
 prodname: 'Daler Rowney Set Metálico de Viaje de Acuarela Aquafine  con 24 Colores  24 Medio Godets  y Pincel  multicolor  D131900924 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00GLXW0VM/?tag=tolees-21'
 descuento: '26.65'
 average: '14.962'

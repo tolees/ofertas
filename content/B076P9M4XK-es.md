@@ -16,6 +16,7 @@ comparePrice: 26.9 EUR
 prodname: 'HomDSim Organizador de Asiento de Coche con diseño de Dibujos Animados  Bolsas de Almacenamiento para Colgar  Organizador de Coche  Organizador para niños  niña '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076P9M4XK/?tag=tolees-21'
 descuento: '33.98'
 average: '17.76'

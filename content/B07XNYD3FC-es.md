@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Xnuoyo Manicura  Aparatos eléctricos y accesorios torno para uñas Profesional Manicura y Pedicura Taladro del Clavo Máquina Electrónica con 11 Tipos de Brocas de Pulido y 1 Cepillo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XNYD3FC/?tag=tolees-21'
 descuento: '58.34'
 average: '24.99'

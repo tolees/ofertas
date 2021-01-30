@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Fuumuui DIY preimpreso Lienzo Regalo de Pintura al óleo para Adultos niños Pintura por número Kits con Marco de Madera para la decoración casera -Cascada Azul 16 * 20 Pulgadas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FHXKLJ8/?tag=tolees-21'
 descuento: '54.25'
 average: '26.99'

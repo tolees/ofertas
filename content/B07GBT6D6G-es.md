@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Pulsar Reloj analogico para Mujer de Cuarzo con Correa en Ninguno PM2263X1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GBT6D6G/?tag=tolees-21'
 descuento: '52.86'
 average: '47.215'

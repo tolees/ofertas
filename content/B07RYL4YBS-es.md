@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'New Balance 574v2  Zapatillas para Mujer  Gris  Grey/White O A A   36.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RYL4YBS/?tag=tolees-21'
 descuento: '27.79'
 average: '64.99'

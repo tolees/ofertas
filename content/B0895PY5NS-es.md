@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'TianTa Funda iPad Mini 5/4  Heavy Duty Triple Capa a Prueba de Golpes Carcasa Cover con 360 Grados Soporte/Correa  Portalápices y Bandolera para iPad Mini 5th/4th Generation 7.9 Pulgada  Rosa/Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0895PY5NS/?tag=tolees-21'
 descuento: '31.05'
 average: '19.99'

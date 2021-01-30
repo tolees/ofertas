@@ -16,6 +16,7 @@ comparePrice: 1.38 EUR
 prodname: '1 par Pendientes pequeños de plata de las mujeres pendientes ondulados en Compatible Conma de hoja pendientes preciosos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LLGXIDM/?tag=tolees-21'
 descuento: '44.20'
 average: '0.88'

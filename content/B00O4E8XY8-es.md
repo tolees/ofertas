@@ -16,6 +16,7 @@ comparePrice: 10.15 EUR
 prodname: 'TRIXIE 12 Pañales para Perro Macho  S-M  30-46 cm  Perro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00O4E8XY8/?tag=tolees-21'
 descuento: '31.13'
 average: '6.99'

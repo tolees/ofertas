@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'JACK & JONES JJIPAUL JJLEATHER BELT NOOS  Cinturón Hombre  Negro  Black   95 cm  Talla del fabricante: 95 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IBI9Z2G/?tag=tolees-21'
 descuento: '43.98'
 average: '14.0'

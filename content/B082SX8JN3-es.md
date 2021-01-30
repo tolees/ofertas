@@ -16,6 +16,7 @@ comparePrice: 6.92 EUR
 prodname: 'Ratón inalámbrico de 2.4GHz Ratón Inteligente para Juegos portátil Ratón óptico para Juegos Ratón Receptor USB para PC Computadora portátil-Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082SX8JN3/?tag=tolees-21'
 descuento: '77.17'
 average: '1.58'

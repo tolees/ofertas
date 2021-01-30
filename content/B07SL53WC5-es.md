@@ -16,6 +16,7 @@ comparePrice: 13.92 EUR
 prodname: 'Funko- Pop TV: La Casa de Papel-Professor O Clown Collectible Figure  Multicolor  44196 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SL53WC5/?tag=tolees-21'
 descuento: '28.81'
 average: '11.14'

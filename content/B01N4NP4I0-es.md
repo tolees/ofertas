@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'POP! Vinilo - Twin Peaks: Bob'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N4NP4I0/?tag=tolees-21'
 descuento: '26.68'
 average: '10.99'

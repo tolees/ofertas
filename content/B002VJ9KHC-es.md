@@ -16,6 +16,7 @@ comparePrice: 179.56 EUR
 prodname: 'Fellowes Helios 30 - Encuadernadora térmica  uso frecuente  hasta 300 hojas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002VJ9KHC/?tag=tolees-21'
 descuento: '40.03'
 average: '106.10000000000001'

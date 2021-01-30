@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Superga'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N0ERE63/?tag=tolees-21'
 descuento: '83.98'
 average: '9.45'

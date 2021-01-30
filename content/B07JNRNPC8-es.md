@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Adidas Tiro 19 Training Pnt Pantalones Deportivos  Hombre  Negro  Black/White   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JNRNPC8/?tag=tolees-21'
 descuento: '30.97'
 average: '34.48'

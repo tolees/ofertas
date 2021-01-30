@@ -16,6 +16,7 @@ comparePrice: 7.79 EUR
 prodname: 'Le Petit Marsellais - Gel Mandarina & Lima - 400 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00X9YZC8O/?tag=tolees-21'
 descuento: '65.34'
 average: '2.7'

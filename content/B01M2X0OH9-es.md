@@ -16,6 +16,7 @@ comparePrice: 32.81 EUR
 prodname: 'Scholl Velvet Smooth Diamond Crystals - Lima electrónica de uñas  color rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M2X0OH9/?tag=tolees-21'
 descuento: '69.52'
 average: '10.520000000000001'

@@ -16,6 +16,7 @@ comparePrice: 63.51 EUR
 prodname: 'PIKOLINOS Blucher de Piel iRun M0E'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GX8YTQS/?tag=tolees-21'
 descuento: '29.73'
 average: '44.63'

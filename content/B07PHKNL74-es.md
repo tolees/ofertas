@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'besrey Tipi Infantil Tienda de Bebe Grande   Tela Gruesa 260G  Indina Teepee Carpa Tienda campaña Infantil bebé Anti UV casa Tela Plegable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PHKNL74/?tag=tolees-21'
 descuento: '77.00'
 average: '57.989999999999995'

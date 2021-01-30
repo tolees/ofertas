@@ -16,6 +16,7 @@ comparePrice: 18.0 EUR
 prodname: 'Filomatic Filo2 Maquinilla de Afeitar - 30 Unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075VBNB4B/?tag=tolees-21'
 descuento: '35.67'
 average: '11.58'

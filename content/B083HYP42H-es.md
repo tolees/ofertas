@@ -16,6 +16,7 @@ comparePrice: 4.0 EUR
 prodname: 'Patrones de Ciervos de Dibujos Animados Amarillos anticaídas Funda Protectora para teléfono móvil Carcasa Suave Carcasa Protectora para teléfono móvil'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083HYP42H/?tag=tolees-21'
 descuento: '74.75'
 average: '1.01'

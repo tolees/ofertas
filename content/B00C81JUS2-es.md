@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'SKLZ Bauchtrainer Core Wheels und Rumpf Trainer Pesas rodadas  Unisex  Amarillo/Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00C81JUS2/?tag=tolees-21'
 descuento: '31.03'
 average: '35.96857142857143'

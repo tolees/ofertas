@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'i-baby Manta Bebé Mantas Infantiles Para Cuna Cama Infantil Niñas Manta Grande Recién Nacidos 4 Estaciones 1 a 6 años  Punto Blanco  120x150cm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MMVR72N/?tag=tolees-21'
 descuento: '36.79'
 average: '18.9'

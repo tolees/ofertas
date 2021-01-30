@@ -16,6 +16,7 @@ comparePrice: 10.75 EUR
 prodname: 'Yazilind deslumbrante Oro plateado alrojoedor Pear cortada Colorful cúbico Circonita perfecto semental Pendientes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00K8SK3OC/?tag=tolees-21'
 descuento: '65.02'
 average: '3.76'

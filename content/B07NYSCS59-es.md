@@ -16,6 +16,7 @@ comparePrice: 36.75 EUR
 prodname: 'Kickers Lohan  Zapatillas Altas Unisex Niños  Rojo Noir Bordeaux 81  38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NYSCS59/?tag=tolees-21'
 descuento: '52.52'
 average: '17.45'

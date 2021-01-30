@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'HP Z3700 - Ratón inalámbrico 1200 DPI  color mármol'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MVW5MB3/?tag=tolees-21'
 descuento: '36.81'
 average: '13.186136363636367'

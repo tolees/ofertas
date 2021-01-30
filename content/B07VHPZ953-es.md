@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Jack & Jones Jprdax Knit Crew Neck suéter  Gris  Grey Melange Grey Melange   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VHPZ953/?tag=tolees-21'
 descuento: '80.72'
 average: '7.71'

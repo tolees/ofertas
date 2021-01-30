@@ -16,6 +16,7 @@ comparePrice: 45.17 EUR
 prodname: 'Grace & Stella Co. Tratamiento de pérdida de cabello instantánea para hombres y mujeres - las fibras de queratina construcción de cabello Un suministro para cinco semanas Marrón medio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072FJ4VM5/?tag=tolees-21'
 descuento: '66.81'
 average: '14.99'

@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Lonsdale - Pantalones de boxeo para hombre gris XXXL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B017MB9CZ8/?tag=tolees-21'
 descuento: '50.01'
 average: '17.99'

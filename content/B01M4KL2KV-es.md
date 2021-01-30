@@ -16,6 +16,7 @@ comparePrice: 27.91 EUR
 prodname: 'Legrand  Base de Enchufes de pared 4 tomas y 2 tapas ciegas  Forix  color blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M4KL2KV/?tag=tolees-21'
 descuento: '39.59'
 average: '16.86'

@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'PUMA Liga Training Pants Core Jr Pantalones  Unisex Niños  Negro  Negro/Blanco   140'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0786M9QTZ/?tag=tolees-21'
 descuento: '26.53'
 average: '15.712307692307693'

@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'PUMA St Runner V2 Mesh  Zapatillas Unisex Adulto - Azul  Peacoat-Puma White  - 38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KFXQ2WK/?tag=tolees-21'
 descuento: '40.04'
 average: '32.95'

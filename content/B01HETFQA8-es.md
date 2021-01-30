@@ -16,6 +16,7 @@ comparePrice: 299.95 EUR
 prodname: 'Bose ® QuietControl ™ 30 - Auriculares inalámbricos  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HETFQA8/?tag=tolees-21'
 descuento: '60.26'
 average: '144.1'

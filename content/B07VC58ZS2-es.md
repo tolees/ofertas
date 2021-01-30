@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Mosquitera Mosquitera Carro Bebe Universal Mosquitera Universal Red Anti Insectos universal Para capazo Protección con goma Elástica y lavable  Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VC58ZS2/?tag=tolees-21'
 descuento: '50.05'
 average: '4.99'

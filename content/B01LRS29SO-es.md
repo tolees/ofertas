@@ -16,6 +16,7 @@ comparePrice: 349.0 EUR
 prodname: 'Bébé Confort MILOFIX - Silla de auto de 0 a 4 años  R44/04  0-18 kg  gr 0+/1  color azul  Nomad Blue '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LRS29SO/?tag=tolees-21'
 descuento: '49.70'
 average: '172.28'

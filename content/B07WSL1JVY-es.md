@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Byroras Electroestimulador Muscular Abdominales EMS Estimulador Muscular USB Recargable ABS Trainer para Abdomen/Brazo/Piernas/Cintura con 10PCS Reemplazo Gel Pad  Hombres/Mujeres '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WSL1JVY/?tag=tolees-21'
 descuento: '50.01'
 average: '19.99'

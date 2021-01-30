@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'TensCare Sports TENS - Electroestimulador muscular. Programas predeterminados TENS  EMS y para masaje y programas manuales. Alivio del dolor  tonificación y relajación musculares.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01K5XTTVW/?tag=tolees-21'
 descuento: '26.38'
 average: '58.89'

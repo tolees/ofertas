@@ -16,6 +16,7 @@ comparePrice: 361.79 EUR
 prodname: 'Grohe Minta - Grifo de fregadero 1/2"  caño en L  cromo  Ref. 32168000 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001LF1KGG/?tag=tolees-21'
 descuento: '59.68'
 average: '138.654'

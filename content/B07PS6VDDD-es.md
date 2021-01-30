@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Under Armour Favorite 2.0 Bolsa Deportiva  Mujer  Azul  OSFA'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PS6VDDD/?tag=tolees-21'
 descuento: '56.63'
 average: '16.185'

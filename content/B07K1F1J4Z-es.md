@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'SUPEWOLD - Soporte para barra de cortina autoadhesiva  color blanco  sin perforación  32 x 42 x 45 mm  2 unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K1F1J4Z/?tag=tolees-21'
 descuento: '33.23'
 average: '6.67'

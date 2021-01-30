@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'SyCreek Correa para Xiaomi Mi Band 4 Carbono Reemplazo de Correas para Xiaomi Mi Band 4 Tricolor Cambio de Pulsera  Nero + Grigio + BLU Stellato '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZD1YVWK/?tag=tolees-21'
 descuento: '47.85'
 average: '11.99'

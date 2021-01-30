@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Vizaro - Relleno Nórdico - Edredón 300g de MaxiCuna y Almohada - Algodón Puro. - Invierno - Antialérgico  Antiácaros  Antimoho - MaxiCuna 70x140cm -'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B017ER98RW/?tag=tolees-21'
 descuento: '33.34'
 average: '39.99'

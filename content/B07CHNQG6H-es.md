@@ -16,6 +16,7 @@ comparePrice: 279.0 EUR
 prodname: 'Diesel Reloj Analogico para Hombre de Cuarzo con Correa en Acero Inoxidable DZ4485'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CHNQG6H/?tag=tolees-21'
 descuento: '49.10'
 average: '142.01333333333332'

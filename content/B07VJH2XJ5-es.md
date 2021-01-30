@@ -16,6 +16,7 @@ comparePrice: 4.12 EUR
 prodname: 'Camisetas Tirantes para Mujer Deporte Fitness Verano LuckyGirls ❤️• •❤️ Top Tirantes Corto Basicas Gym Sexy Sin Manga Fiesta Ropa Interior Vest Camisolas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VJH2XJ5/?tag=tolees-21'
 descuento: '72.57'
 average: '1.13'

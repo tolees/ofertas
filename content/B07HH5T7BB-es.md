@@ -16,6 +16,7 @@ comparePrice: 14.56 EUR
 prodname: 'AmazonBasics – Auriculares de botón con micrófono  Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HH5T7BB/?tag=tolees-21'
 descuento: '31.39'
 average: '9.99'

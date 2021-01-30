@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Amzdeal Grifo de Cocina Giratorio de 360°  Grifo para Fregadero con Cartucho Cerámico y Caño Alto  Grifería Monomando con Aireador  Agua Fría/Caliente Opcionales  Diseño Clásico para Cocina y Baño'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0823MLHQ8/?tag=tolees-21'
 descuento: '72.01'
 average: '33.870000000000005'

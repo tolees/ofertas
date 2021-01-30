@@ -16,6 +16,7 @@ comparePrice: 15.8 EUR
 prodname: 'Neutrogena Radiance Boost Mascarilla Iluminadora - 4 Unidades x 10 ml.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HPZ9FB5/?tag=tolees-21'
 descuento: '56.52'
 average: '6.87'

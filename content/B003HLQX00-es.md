@@ -16,6 +16,7 @@ comparePrice: 10.45 EUR
 prodname: 'Revlon ColorStay Maquillaje en Polvo  Medium '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003HLQX00/?tag=tolees-21'
 descuento: '43.06'
 average: '5.95'

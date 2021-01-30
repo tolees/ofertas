@@ -16,6 +16,7 @@ comparePrice: 7.9 EUR
 prodname: 'Finocam - Agenda Curso 2020-2021 Cuarto-155 x 212 Semana Vista Apaisada Secundaria Limits Español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085R1RWXW/?tag=tolees-21'
 descuento: '30.38'
 average: '5.5'

@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Anthem - Standard | Código Origin para PC'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P2JLNH8/?tag=tolees-21'
 descuento: '85.01'
 average: '11.489999999999998'

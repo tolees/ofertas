@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: '【Versión mejorada】TEC.BEAN Masajeador eléctrico de Mano Portátil con función de calor  ajuste de velocidad  6 nodos intercambiables  para Relajar los Músculos  aliviar los dolor  estrés'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075WPN7V1/?tag=tolees-21'
 descuento: '57.15'
 average: '24.99'

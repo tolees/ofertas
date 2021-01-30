@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'LJP Funda LG Stylo 6  Diamante Cristal Brillante Antigolpes 2 en 1 Carcasa Combinada PC Híbrido y TPU Silicona Suave Resistente PC Bumper Cubierta Protectora Funda para LG Stylo 6'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089R6QKXG/?tag=tolees-21'
 descuento: '30.94'
 average: '7.59'

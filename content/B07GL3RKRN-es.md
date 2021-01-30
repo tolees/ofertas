@@ -16,6 +16,7 @@ comparePrice: 8.7 EUR
 prodname: 'Nuxe Reve De Miel Baume Levres Ultra-Nourrissant 15 Ml - 15 ml.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GL3RKRN/?tag=tolees-21'
 descuento: '32.76'
 average: '5.85'

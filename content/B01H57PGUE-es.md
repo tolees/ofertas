@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Timewanderer - Guirnalda de luces LED decorativas  funciona con pilas  5 m  50 estrellas   color blanco cálido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01H57PGUE/?tag=tolees-21'
 descuento: '41.20'
 average: '9.99'

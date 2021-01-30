@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'King Cock Arnés king cock strap-on - 20 cm 1 Unidad 820 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B015KG0YPY/?tag=tolees-21'
 descuento: '56.69'
 average: '40.1175'

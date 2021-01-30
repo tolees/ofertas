@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Clarks Maritsa Lara  Sandalia con Pulsera Tira de Tobillo  Verde  Olive Suede-   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0758LBVDC/?tag=tolees-21'
 descuento: '30.07'
 average: '53.535000000000004'

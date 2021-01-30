@@ -16,6 +16,7 @@ comparePrice: 32.46 EUR
 prodname: 'Poltergeist Ii / Poltergeist Iii [Edizione: Stati Uniti] [Italia] [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00V0CLOW0/?tag=tolees-21'
 descuento: '36.32'
 average: '20.67'

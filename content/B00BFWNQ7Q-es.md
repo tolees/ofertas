@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Repsol RP141L55 Elite Competición 5W-40 Aceite de Motor para Coche  Transparente  5L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BFWNQ7Q/?tag=tolees-21'
 descuento: '35.36'
 average: '25.85'

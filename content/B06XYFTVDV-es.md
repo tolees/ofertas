@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Correas de Yoga Ajustable de 2 4 m – 2 x Pack I Incluye eBook I Correa de Estiramientos con Hebilla en D para Pilates  Gimnasio Fitness I Ideal para Estiramientos Flexibilidad  Yoga Stap'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XYFTVDV/?tag=tolees-21'
 descuento: '50.78'
 average: '7.87'

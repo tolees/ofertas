@@ -16,6 +16,7 @@ comparePrice: 42.49 EUR
 prodname: 'adidas GT SN Bra Sujetador  Mujer  Negro  Black/Black   XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00W5K2STO/?tag=tolees-21'
 descuento: '41.70'
 average: '24.77'

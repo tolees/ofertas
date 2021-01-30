@@ -16,6 +16,7 @@ comparePrice: 13.2 EUR
 prodname: 'MILAGRITO DESENGRASANTE MULTIUSOS LOTE AHORRO'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KNJK5GT/?tag=tolees-21'
 descuento: '28.18'
 average: '9.48'

@@ -16,6 +16,7 @@ comparePrice: 44.95 EUR
 prodname: 'PUMA 655307 03 Capucha  Hombre  Rojo  Red/White   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077SPZ21X/?tag=tolees-21'
 descuento: '44.40'
 average: '24.99'

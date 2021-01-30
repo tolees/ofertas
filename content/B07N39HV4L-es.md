@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Reebok Classic Leather  Zapatillas para Mujer  Blanco  Intense White 0   35.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N39HV4L/?tag=tolees-21'
 descuento: '46.80'
 average: '47.85'

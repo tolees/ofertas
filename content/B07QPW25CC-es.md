@@ -16,6 +16,7 @@ comparePrice: 77.05 EUR
 prodname: 'Asics Gel-Pulse 11 Winterized 1011a707-0  Zapatillas de Entrenamiento para Hombre  Negro  Black 1011a707/001   42.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QPW25CC/?tag=tolees-21'
 descuento: '35.12'
 average: '49.99'

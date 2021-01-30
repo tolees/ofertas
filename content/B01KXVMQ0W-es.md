@@ -16,6 +16,7 @@ comparePrice: 37.9 EUR
 prodname: 'Dim Generous Invisible Sujetador  Beige  New Skin   105.B para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01KXVMQ0W/?tag=tolees-21'
 descuento: '51.03'
 average: '18.765'

@@ -16,6 +16,7 @@ comparePrice: 119.95 EUR
 prodname: 'Salomon Speedcross 4 W  Zapatillas de Trail Running para Mujer  Turquesa  Meadowbrook/Black/Exotic Orange   36 2/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KW9FM5S/?tag=tolees-21'
 descuento: '26.65'
 average: '87.98'

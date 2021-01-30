@@ -16,6 +16,7 @@ comparePrice: 10.8 EUR
 prodname: 'Máscara de Pestañas Volumen Millón de Pestañas Volume Excess Noir de L Oréal Paris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B009WOOTBQ/?tag=tolees-21'
 descuento: '51.30'
 average: '5.26'

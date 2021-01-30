@@ -16,6 +16,7 @@ comparePrice: 129.95 EUR
 prodname: 'adidas Terrex Choleah Padded CP  Botas de Senderismo para Mujer   Negbas/Negbas/Gricin   40 2/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071X9FDK1/?tag=tolees-21'
 descuento: '38.51'
 average: '60.978'

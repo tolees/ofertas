@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'TACKLIFE Juego de Brocas  ADC01C Taladros Kit Avanzado de 5 Taladros y Cinceles SDS-plus  Favorable a las Cabezales de Taladro de Acero de Alta Resistencia para Taladrado de Hormigón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WDB6LGK/?tag=tolees-21'
 descuento: '46.19'
 average: '9.545'

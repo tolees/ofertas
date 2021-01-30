@@ -16,6 +16,7 @@ comparePrice: 139.95 EUR
 prodname: 'Adidas Terrex Swift R2 GTX  Zapatillas de Running para Asfalto para Hombre  Negro  Core Black/Core Black/Core Black 0   43 1/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076NHN89G/?tag=tolees-21'
 descuento: '31.80'
 average: '95.45'

@@ -16,6 +16,7 @@ comparePrice: 10 EUR
 prodname: 'Joy Toy 62124 Mickey Mouse 3d taza de cerámica  13 5 x 12 x 8 5 cm   color blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G9SX39K/?tag=tolees-21'
 descuento: '45.00'
 average: '5.5'

@@ -16,6 +16,7 @@ comparePrice: 129.97 EUR
 prodname: 'Twinzee Picadora de Carne Eléctrica 1500W  Blanco - para Carne y Salchichas - Robot Cocina  Picador de Carne con 3 Placas de Corte y 3 Boquillas para Salchichas - Picadora Profesional'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T9ZRBHN/?tag=tolees-21'
 descuento: '44.61'
 average: '71.76555555555557'

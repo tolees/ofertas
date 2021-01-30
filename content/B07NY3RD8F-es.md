@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Superdry Raven Slim Jogger Pantalones de Deporte  Verde  Green 10e   XS  Talla del Fabricante:8  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NY3RD8F/?tag=tolees-21'
 descuento: '58.29'
 average: '35.38666666666666'

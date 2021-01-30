@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'American Tourister Aero Racer Spinner 55 - 2 5 Kg Equipaje de mano  37 liters  Rojo  Poppy Red '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J655DWB/?tag=tolees-21'
 descuento: '30.00'
 average: '66.5'

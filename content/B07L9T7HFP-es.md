@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Lacoste Carnaby EVO Light-WT 3191 SMA  Zapatillas para Hombre  Blanco White 21g  39.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L9T7HFP/?tag=tolees-21'
 descuento: '37.47'
 average: '59.4'

@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Moto Racer 4 Deluxe Edition'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01H0YJ9EG/?tag=tolees-21'
 descuento: '56.74'
 average: '25.95'

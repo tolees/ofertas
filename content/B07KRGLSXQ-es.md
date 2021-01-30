@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'New Balance Yc373v1 n  Zapatillas para Niñas  Plateado  Silver Silver   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KRGLSXQ/?tag=tolees-21'
 descuento: '51.20'
 average: '24.4'

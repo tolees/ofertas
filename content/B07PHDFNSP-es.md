@@ -16,6 +16,7 @@ comparePrice: 939.0 EUR
 prodname: 'Lenovo ThinkPad E590 - Ordenador portátil 15.6" FullHD  Intel Core i5-8265U  8GB RAM  512GB SSD  Intel UHD Graphics  Windows Pro  Negro - Teclado QWERTY español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PHDFNSP/?tag=tolees-21'
 descuento: '30.78'
 average: '657.8847368421054'

@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'ETNAB|#Etnies Jameson 2 Eco  Zapatillas de Skateboard para Hombre  069/Dark Grey/White/Gum 069  4.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LCCZLQP/?tag=tolees-21'
 descuento: '57.77'
 average: '31.67'

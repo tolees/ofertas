@@ -16,6 +16,7 @@ comparePrice: 10.13 EUR
 prodname: 'Bella + Lienzo - Body de manga corta acanalada unisex para bebé  18-24 meses/Blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00K04WRV6/?tag=tolees-21'
 descuento: '63.47'
 average: '3.7'

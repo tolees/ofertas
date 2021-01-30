@@ -16,6 +16,7 @@ comparePrice: 36.99 EUR
 prodname: 'Luces Solares Con 82 LED Para Exteriores Mejoradas  Seguridad con Sensor de Movimiento Neloodony-2 Pack'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D333XPG/?tag=tolees-21'
 descuento: '54.07'
 average: '22.990000000000002'

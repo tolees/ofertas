@@ -16,6 +16,7 @@ comparePrice: 22.93 EUR
 prodname: 'T4U Artificial Serie de Plantas Suculentas Hierba Decorativa de Plástico Colección 2  Paquete de 3'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078GHSVKT/?tag=tolees-21'
 descuento: '25.90'
 average: '16.97'

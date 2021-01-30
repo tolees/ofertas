@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Skechers Flex Play  Zapatillas para Niñas  Gris  Grey/Hot Pink Gyhp   22 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BMZ9LYW/?tag=tolees-21'
 descuento: '45.93'
 average: '21.6'

@@ -16,6 +16,7 @@ comparePrice: 144.75 EUR
 prodname: 'Monix Optima 2 Batería de 5 piezas  Acero Inox  Apta para Todo Tipo de Cocina e Inducción  18/10'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08B15C4BQ/?tag=tolees-21'
 descuento: '49.61'
 average: '108.68'

@@ -16,6 +16,7 @@ comparePrice: 129.9 EUR
 prodname: 'Beurer MG 520 To Go - Almohada de masaje Shiatsu'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01L55RHT0/?tag=tolees-21'
 descuento: '30.72'
 average: '92.49'

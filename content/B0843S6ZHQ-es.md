@@ -16,6 +16,7 @@ comparePrice: 34.21 EUR
 prodname: 'NHUAIYINSHUGUOGUANGGAOJINGY 1/3"Color CMOS 1200TVL 24 LED Lente 3.6mm Impermeable 15-30 IR Cámara de vigilancia de visión Nocturna-Negro Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0843S6ZHQ/?tag=tolees-21'
 descuento: '33.50'
 average: '22.75'

@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'JACK & JONES Jacsolid Bso Trunks 5 Pack Calzoncillos  Black  Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082PBV73G/?tag=tolees-21'
 descuento: '30.01'
 average: '26.08'

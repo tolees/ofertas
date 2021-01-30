@@ -16,6 +16,7 @@ comparePrice: 20.15 EUR
 prodname: 'KUHN RIKON Molinillo con Palanca Rojo  Centimeters'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00HSF4BNM/?tag=tolees-21'
 descuento: '34.64'
 average: '13.17'

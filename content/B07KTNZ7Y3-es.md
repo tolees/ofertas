@@ -16,6 +16,7 @@ comparePrice: 10.0 EUR
 prodname: 'Helly Hansen 3 Pares De Calcentines Invisibiles para Deportes  Unisex Adulto  Blanco  S  39-41 EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KTNZ7Y3/?tag=tolees-21'
 descuento: '30.00'
 average: '7.0'

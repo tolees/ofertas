@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Columbia Mojave Trail II Outdry  Zapatillas de Running para Asfalto para Mujer  Gris  Ti Grey Steel 033   37.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JL34FMV/?tag=tolees-21'
 descuento: '42.70'
 average: '53.815'

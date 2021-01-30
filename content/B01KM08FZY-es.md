@@ -16,6 +16,7 @@ comparePrice: 179.0 EUR
 prodname: 'Pulsar Reloj Analógico Unisex con Correa de Chapado En Acero Inoxidable – PZ4001X1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01KM08FZY/?tag=tolees-21'
 descuento: '63.01'
 average: '69.42'

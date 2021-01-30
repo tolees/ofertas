@@ -16,6 +16,7 @@ comparePrice: 186.34 EUR
 prodname: 'Bosch Professional GAM 220 - Medidor de ángulos / goniómetro digital  0-220°  en caja '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B013WAHFIY/?tag=tolees-21'
 descuento: '25.95'
 average: '137.99'

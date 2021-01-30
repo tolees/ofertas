@@ -16,6 +16,7 @@ comparePrice: 35.98 EUR
 prodname: 'Rizador de pestañas con calefacción eléctrica  TOUCHBeauty rizador de pestañas recargable  rizador de pestañas portátil  rizador de pestañas de temperatura ajustable inteligente AG-1859G'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0811RWVDD/?tag=tolees-21'
 descuento: '33.35'
 average: '23.98'

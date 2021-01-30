@@ -16,6 +16,7 @@ comparePrice: 12.55 EUR
 prodname: 'Nike W Nk Dry Acdmy18 Top SS T-Shirt  Mujer  University Red/Gym Red/ White   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0797MV1XZ/?tag=tolees-21'
 descuento: '35.46'
 average: '8.1'

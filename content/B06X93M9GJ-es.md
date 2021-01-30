@@ -16,6 +16,7 @@ comparePrice: 237.0 EUR
 prodname: 'Pierre Cardin PC106042S01 - Reloj de cuarzo para mujer  Swiss Made'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06X93M9GJ/?tag=tolees-21'
 descuento: '79.46'
 average: '44.10999999999999'

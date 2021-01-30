@@ -16,6 +16,7 @@ comparePrice: 74.99 EUR
 prodname: 'Converse Chuck Taylor All Star  Zapatillas altas Unisex adulto  Azul  Navy   39.5'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000QK1W3S/?tag=tolees-21'
 descuento: '48.71'
 average: '44.955'

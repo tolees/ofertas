@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Reebok Royal Glide LX  Zapatillas de Trail Running para Hombre  Multicolor  Collegiate Navy/Classic White/SS 000   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P2HZT6W/?tag=tolees-21'
 descuento: '75.00'
 average: '22.99'

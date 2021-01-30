@@ -16,6 +16,7 @@ comparePrice: 33.1 EUR
 prodname: '50 Palos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XFY11DJ/?tag=tolees-21'
 descuento: '34.11'
 average: '23.5'

@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'Finether-Chimenea Eléctrica de la Pared Estufa Eléctrica Calentador de 3D Llama  2000W  con Mando a Distancia  Temperatura Ajustable  7 Colores de Retroiluminación LED  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073S1JVGR/?tag=tolees-21'
 descuento: '35.00'
 average: '139.99'

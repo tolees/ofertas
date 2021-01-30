@@ -16,6 +16,7 @@ comparePrice: 32.24 EUR
 prodname: 'Crocs Classic Slipper  Zapatillas Bajas Unisex Adulto  Rosa  Pink Lemonade/Pink Lemonade 6m3   41/42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K92CJCP/?tag=tolees-21'
 descuento: '30.40'
 average: '20.126666666666665'

@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'HOMYBABY Muselinas Bebe Algodon 120x120 [1pc] | Muselina Bebe de Algodón Orgánico | Manta Bebe Recien Nacido | Sirve como Toallita o Mantita para Bebe en Carrito  Cuna  Cambiador | Arrullo para Bebes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083NZ9PRD/?tag=tolees-21'
 descuento: '25.02'
 average: '11.347142857142854'

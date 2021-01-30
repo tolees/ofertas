@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'FITTOO Sujetador Deportivo Tops de Yoga Correr Gimnasio para Mujer 1690 Negro L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VWFH3PQ/?tag=tolees-21'
 descuento: '51.46'
 average: '16.99'

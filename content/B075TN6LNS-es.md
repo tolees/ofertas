@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'URCERI Medidor de Luz  Luxómetro Portátil  Medidor de Luminosidad Rango 0-200 000 Lux; 0~20 000 FC  con Pantalla LCD a Color de 4 Dígitos  Batería Incluida'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075TN6LNS/?tag=tolees-21'
 descuento: '26.68'
 average: '20.239999999999995'

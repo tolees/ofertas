@@ -16,6 +16,7 @@ comparePrice: 17.11 EUR
 prodname: 'SaponinTree Microfono Inalámbrico Karaoke  Micrófono Karaoke Bluetooth Portátil con Altavoz con Luces de Baile LED para Niños Canta Partido Musica Reproductor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081CZCPMT/?tag=tolees-21'
 descuento: '27.82'
 average: '12.35'

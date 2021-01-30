@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Cecotec 04225 Secador de pelo Bamba IoniCare 6000 RockStar Vision  motor Digital Brushless  2000 W  5 ajustes de temperatura  color gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082MKQ4BW/?tag=tolees-21'
 descuento: '30.93'
 average: '69.0'

@@ -16,6 +16,7 @@ comparePrice: 41.4 EUR
 prodname: 'STANLEY XTHT0-33501 - Flexómetro AutoLock 8 metros x 32mm  gancho XL magnético'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00OAFBJFQ/?tag=tolees-21'
 descuento: '42.42'
 average: '20.097499999999997'

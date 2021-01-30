@@ -16,6 +16,7 @@ comparePrice: 61.99 EUR
 prodname: 'Rowenta Liss & Curl Ultimate Sunshine SF6220E0 - Plancha de pelo con doble salida Iónica  placas aluminio con recubrimiento de nanocerámica ultrashine  función 2 en 1 alisado y rizos Perfectos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0158ERDIY/?tag=tolees-21'
 descuento: '27.42'
 average: '43.74'

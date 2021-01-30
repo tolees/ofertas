@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'ESR Auriculares inalámbricos con Controladores duales  Auriculares Bluetooth Ligeros  Sonido HD con micrófono  Auriculares Deportivos de Ajuste Seguro para Correr y Entrenar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H2RCWT4/?tag=tolees-21'
 descuento: '36.01'
 average: '21.39'

@@ -16,6 +16,7 @@ comparePrice: 109.0 EUR
 prodname: 'Lacoste ESPARRE BL 1 CMA  Zapatillas para Hombre  Azul  Navy/White   40.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DMF26XN/?tag=tolees-21'
 descuento: '65.99'
 average: '37.07'

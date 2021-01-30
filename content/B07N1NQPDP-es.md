@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'AH Kalkaire - Carbón activado de bambú Pasta de dientes negro - Pasta de dientes blanqueadora para dientes sensibles - Pasta de dientes blanqueadora sin flúor - Agente blanqueador natural - menta'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N1NQPDP/?tag=tolees-21'
 descuento: '25.03'
 average: '5.99'

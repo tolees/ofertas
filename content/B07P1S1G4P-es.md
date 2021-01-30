@@ -16,6 +16,7 @@ comparePrice: 146.46 EUR
 prodname: 'PUTORSEN® Soporte de Escritorio para Monitor de Las Pantallas de TV  LCD y computadora de17”-32”/43-81cm  Brazo de Monitor con Resorte de Mecánico  Aluminio  Capacidad de Carga es 8kg'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P1S1G4P/?tag=tolees-21'
 descuento: '65.26'
 average: '52.21333333333334'

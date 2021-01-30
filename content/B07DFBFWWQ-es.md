@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Pop! Crash Bandicoot - Figura de Vinilo Coco Bandicoot'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DFBFWWQ/?tag=tolees-21'
 descuento: '39.12'
 average: '9.600000000000001'

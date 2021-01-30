@@ -16,6 +16,7 @@ comparePrice: 229.9 EUR
 prodname: 'Xiaomi Redmi Note 8t Tim Blue 6.3" 4gb/64gb Dual Sim'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KVMT6M7/?tag=tolees-21'
 descuento: '26.49'
 average: '169.0'

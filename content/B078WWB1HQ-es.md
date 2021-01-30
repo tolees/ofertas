@@ -16,6 +16,7 @@ comparePrice: 94.99 EUR
 prodname: 'Nike Internationalist Women s Shoe  Zapatillas para Mujer  Negro  Black/Summit White-Anthracite-Sail 021   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078WWB1HQ/?tag=tolees-21'
 descuento: '55.38'
 average: '44.2225'

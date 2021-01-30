@@ -16,6 +16,7 @@ comparePrice: 102.49 EUR
 prodname: 'Asics Gel-Pulse 9  Zapatillas de Entrenamiento para Mujer  Azul  Porcelain Blue/White/Bleu Victoria 1401   37.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078MDPC2Y/?tag=tolees-21'
 descuento: '41.57'
 average: '59.89'

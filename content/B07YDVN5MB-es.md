@@ -16,6 +16,7 @@ comparePrice: 645.0 EUR
 prodname: 'Pikolin Leah  colchón viscoelástico y espuma HR gama alta  150x200  firmeza alta  confort visco  calidad máxima  protección higiénica total'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YDVN5MB/?tag=tolees-21'
 descuento: '42.79'
 average: '369.0'

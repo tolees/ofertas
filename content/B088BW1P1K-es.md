@@ -16,6 +16,7 @@ comparePrice: 8.92 EUR
 prodname: 'Zeen Papel Xuan Pintura 35x25cm 30 Hojas Duradero Papel de arroz Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088BW1P1K/?tag=tolees-21'
 descuento: '40.02'
 average: '5.35'

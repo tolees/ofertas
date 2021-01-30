@@ -16,6 +16,7 @@ comparePrice: 81.74 EUR
 prodname: 'New Balance Fresh Foam Cruz v2 m  Zapatillas para Mujer  Azul  Smoke Blue/Light Petrol Ns2   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075R6VJJT/?tag=tolees-21'
 descuento: '51.20'
 average: '39.89'

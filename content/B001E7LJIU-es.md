@@ -16,6 +16,7 @@ comparePrice: 58.91 EUR
 prodname: 'BAUSCH + LOMB  - SofLens® Daily Disposable - Lentes de contacto de reemplazo diario'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001E7LJIU/?tag=tolees-21'
 descuento: '61.03'
 average: '22.96'

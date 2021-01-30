@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'INPHIC - Ratón Gaming con Cable  Ratón Gamer ergonómico USB RGB con de 8 Programador Botones para Ordenador PC portátil  Alta precisión 4800 dpi Ajustable  Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T18P2QH/?tag=tolees-21'
 descuento: '53.35'
 average: '13.24'

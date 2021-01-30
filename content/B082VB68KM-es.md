@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'LEWOTE Airpods Pro Carcasa de Silicona para Apple Airpods Pro  Diseño de Dibujos Animados 3D  Stitch Blue '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082VB68KM/?tag=tolees-21'
 descuento: '25.02'
 average: '8.99'

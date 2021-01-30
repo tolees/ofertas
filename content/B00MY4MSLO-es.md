@@ -16,6 +16,7 @@ comparePrice: 130.0 EUR
 prodname: 'Clarks Originals Boot  Botas Desert para Mujer  Beige  Sand   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00MY4MSLO/?tag=tolees-21'
 descuento: '81.15'
 average: '24.51'

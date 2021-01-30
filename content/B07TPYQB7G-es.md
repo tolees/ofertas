@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Clarks Un Maui Strap  Zapatillas para Mujer  Azul  Blush Leather Blush Leather   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TPYQB7G/?tag=tolees-21'
 descuento: '68.28'
 average: '31.7'

@@ -16,6 +16,7 @@ comparePrice: 29.96 EUR
 prodname: 'Shock Absorber Active Multi Sports Support Sujetador Deportivo  Multicolor  Imprimé Gris Asphalt 08u   95B  Taille Fabricant: Taille Fabricant 95B  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CZ657VK/?tag=tolees-21'
 descuento: '45.96'
 average: '16.19'

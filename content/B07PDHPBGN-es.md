@@ -16,6 +16,7 @@ comparePrice: 27.0 EUR
 prodname: 'Wilkinson Sword - Maquinilla de Afeitar Hydro 5 Sense Energize + 8 Recambios de Cuchillas de Afeitar  Menta Energizante - Maquina de afeitar de 5 cuchillas con amortiguador Shock Absorb'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PDHPBGN/?tag=tolees-21'
 descuento: '25.96'
 average: '19.99'

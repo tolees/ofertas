@@ -16,6 +16,7 @@ comparePrice: 21.95 EUR
 prodname: 'Duevin Máquina de tatuaje semipermanente  10 Wraps Alloy Liner Coil Tattoo Machines  Tattoo Machine Liner Shader Gun  Alloy Liner Coil Tattoo  Machines Tattoo Gun  maquina tatuar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VSNNXDQ/?tag=tolees-21'
 descuento: '47.65'
 average: '11.49'

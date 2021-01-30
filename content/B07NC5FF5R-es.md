@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Saucony Clarion  Zapatillas de Running para Hombre  Verde  Verde 37   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NC5FF5R/?tag=tolees-21'
 descuento: '62.35'
 average: '37.65'

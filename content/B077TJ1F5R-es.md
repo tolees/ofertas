@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Skechers Women s BOBS Squad-Tough Talk Sneakers  Black  Black Engineered Knit/Trim BBK   7 UK 40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077TJ1F5R/?tag=tolees-21'
 descuento: '26.79'
 average: '36.426'

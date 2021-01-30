@@ -16,6 +16,7 @@ comparePrice: 104.79 EUR
 prodname: 'Asics Gel-Cumulus 21  Zapatillas de Running para Hombre  Azul  Mako Blue/White 400   43.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QVZR1SN/?tag=tolees-21'
 descuento: '30.35'
 average: '72.99'

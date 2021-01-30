@@ -16,6 +16,7 @@ comparePrice: 43.58 EUR
 prodname: 'Urchoiceltd Juego De Teclado y Mouse Tecnología M398 Retroiluminación De Teclado Con Cable Keyboard Metal Waterproof + Cable 2000 DPI 6 Botones Ratón Optical Backlight Game Con USB Mouse + Mouse Pad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CCPHLJI/?tag=tolees-21'
 descuento: '31.18'
 average: '29.99'

@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Vicloon 9Pcs Upgrade Princesa Vestir Accesorios - Peluca/Corona/Sceptre/Anillo /Pendientes/Collar/Guantes para Niña Carnaval'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078NLCDFD/?tag=tolees-21'
 descuento: '30.02'
 average: '13.984444444444444'

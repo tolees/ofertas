@@ -16,6 +16,7 @@ comparePrice: 147.87 EUR
 prodname: 'Samsung MLT-D204L/ELS - Tóner  5000 páginas   negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00CGXPGYY/?tag=tolees-21'
 descuento: '27.08'
 average: '107.82'

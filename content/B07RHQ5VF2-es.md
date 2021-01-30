@@ -16,6 +16,7 @@ comparePrice: 144.99 EUR
 prodname: 'Salomon XA Pro 3D GTX  Zapatillas de Trail Running para Hombre  Azul  Imperial Blue/Navy Blazer/Cherry Tomato   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RHQ5VF2/?tag=tolees-21'
 descuento: '51.73'
 average: '69.99'

@@ -16,6 +16,7 @@ comparePrice: 19.98 EUR
 prodname: 'TOUCHBeauty Rizador de Pestañas Eléctrico  Rizador de Pestañas con Calefacción con almohadillas calefactoras de silicona inteligentes  calentamiento rápido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XDVJMB7/?tag=tolees-21'
 descuento: '35.04'
 average: '12.98'

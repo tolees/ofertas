@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'adidas Coast Star  Zapatillas de Gimnasia para Hombre  Blanco  FTWR White/Collegiate Burgundy/FTWR White FTWR White/Collegiate Burgundy/FTWR White   41 1/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SWNN249/?tag=tolees-21'
 descuento: '49.99'
 average: '39.98'

@@ -16,6 +16,7 @@ comparePrice: 50.01 EUR
 prodname: 'Skechers Elite Flex  Zapatillas para Hombre  Azul  Navy/Grey   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076TF6YFH/?tag=tolees-21'
 descuento: '38.95'
 average: '30.53'

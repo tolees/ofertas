@@ -16,6 +16,7 @@ comparePrice: 63.34 EUR
 prodname: 'Casio Reloj Analógico de Cuarzo con Correa en Cuero MTP-1314PL-8AVEF'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00JOBHGQW/?tag=tolees-21'
 descuento: '47.92'
 average: '32.075'

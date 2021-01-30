@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'WMF PermaDur Premium - Sartén  Aluminio Fundido  Inducción  20 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BWP85RW/?tag=tolees-21'
 descuento: '43.76'
 average: '46.29571428571429'

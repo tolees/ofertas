@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Joseph Joseph Surface Organizador de Utensilios y Cuchillos  Acero Inoxidable  Plata  18x13x20 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MZ44QLA/?tag=tolees-21'
 descuento: '27.03'
 average: '29.18'

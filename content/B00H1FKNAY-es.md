@@ -16,6 +16,7 @@ comparePrice: 17.2 EUR
 prodname: 'Cayro - Tablero Parchís 4-6 con Accesorios  40 x 40 cm  T134/A '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00H1FKNAY/?tag=tolees-21'
 descuento: '33.26'
 average: '11.48'

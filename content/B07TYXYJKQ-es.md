@@ -16,6 +16,7 @@ comparePrice: 81.99 EUR
 prodname: 'BRIKSMAX Kit de Iluminación Led para Lego City Comisaría de policía  Compatible con Ladrillos de Construcción Lego Modelo 60141  Juego de Legos no Incluido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TYXYJKQ/?tag=tolees-21'
 descuento: '36.59'
 average: '51.99'

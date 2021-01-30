@@ -16,6 +16,7 @@ comparePrice: 39.0 EUR
 prodname: 'Fossil Mujer acero inoxidable Pulsera esclava JF03235710'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VNH1FYG/?tag=tolees-21'
 descuento: '50.00'
 average: '19.5'

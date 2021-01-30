@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Kipling ART M Bolsa de tela y playa  58 cm  26 litros  Azul  Lively Navy '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G7ZB8D6/?tag=tolees-21'
 descuento: '31.87'
 average: '64.72'

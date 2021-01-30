@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'New Balance 410v6 Trail  Zapatillas para Carreras de montaña para Hombre  Negro  Black La6   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F21TLS4/?tag=tolees-21'
 descuento: '55.83'
 average: '30.92'

@@ -16,6 +16,7 @@ comparePrice: 22.6 EUR
 prodname: 'Targus THZ66103GL Fit N Grip - Funda Universal para Tablets 9 y 10"  Color Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01I1H27OK/?tag=tolees-21'
 descuento: '48.67'
 average: '11.6'

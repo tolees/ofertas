@@ -16,6 +16,7 @@ comparePrice: 98.0 EUR
 prodname: 'Sisley Phyto-Teint Expert #3-Natural 30 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00MV2G5CM/?tag=tolees-21'
 descuento: '48.63'
 average: '50.34'

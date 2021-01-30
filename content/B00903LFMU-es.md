@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'LAYEN i-SYNC Adaptador de audio inalámbrico Bluetooth Dongle para receptor de música'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00903LFMU/?tag=tolees-21'
 descuento: '28.58'
 average: '27.49'

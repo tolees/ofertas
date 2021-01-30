@@ -16,6 +16,7 @@ comparePrice: 18.2 EUR
 prodname: '30 pieza Neodimio Imán 10x3 mm Unidad imán Extrem Fuerte 2 5 kg de fuerza  N48 Mini Imanes Neodimio Raro Tierra'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CCJV6W4/?tag=tolees-21'
 descuento: '56.10'
 average: '7.8508'

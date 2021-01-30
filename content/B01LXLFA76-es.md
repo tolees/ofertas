@@ -16,6 +16,7 @@ comparePrice: 9.19 EUR
 prodname: 'Cruzcampo Cerveza - Paquete de 24 x 250 ml - Total: 6000 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LXLFA76/?tag=tolees-21'
 descuento: '77.48'
 average: '4.043333333333333'

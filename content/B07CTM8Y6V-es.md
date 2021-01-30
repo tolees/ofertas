@@ -16,6 +16,7 @@ comparePrice: 6.0 EUR
 prodname: 'FIND - Sunset Beauty - Trío de sombras de ojos  n.13  n.14  n.15 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CTM8Y6V/?tag=tolees-21'
 descuento: '55.83'
 average: '2.65'

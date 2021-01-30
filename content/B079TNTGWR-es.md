@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Funko Pop!- Pop Marvel: X-Men-Colossus Figura de Vinilo  Multicolor  30863 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079TNTGWR/?tag=tolees-21'
 descuento: '45.30'
 average: '8.891428571428571'

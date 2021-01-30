@@ -16,6 +16,7 @@ comparePrice: 129.95 EUR
 prodname: 'adidas ARKYN  Zapatillas de Deporte para Mujer  Negro  Core Black/Core Black/Footwear White 0   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D6ZJ54T/?tag=tolees-21'
 descuento: '67.23'
 average: '66.78999999999999'

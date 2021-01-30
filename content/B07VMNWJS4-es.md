@@ -16,6 +16,7 @@ comparePrice: 68.71 EUR
 prodname: 'Calvin Klein Medium Double WB Bañador  Negro  PVH Black BEH   Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VMNWJS4/?tag=tolees-21'
 descuento: '38.87'
 average: '42.0'

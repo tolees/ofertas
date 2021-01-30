@@ -16,6 +16,7 @@ comparePrice: 40.99 EUR
 prodname: 'Errea Maillot Junior Heat'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NCVIW9I/?tag=tolees-21'
 descuento: '65.63'
 average: '15.075714285714286'

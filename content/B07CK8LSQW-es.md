@@ -16,6 +16,7 @@ comparePrice: 66.59 EUR
 prodname: 'Rubies - Disfraz oficial de DC Aquaman The Movie  disfraz de lujo para adulto'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CK8LSQW/?tag=tolees-21'
 descuento: '32.48'
 average: '44.96'

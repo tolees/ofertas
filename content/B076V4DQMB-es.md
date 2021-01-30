@@ -16,6 +16,7 @@ comparePrice: 29.89 EUR
 prodname: 'Kayond Forest Series Funda para portátil de 11" a 17"  resistente al agua negro negro 13-13.3 inch'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076V4DQMB/?tag=tolees-21'
 descuento: '39.51'
 average: '18.884999999999998'

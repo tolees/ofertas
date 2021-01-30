@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'Bizak- Bunchbot  Actividad Creativa  Multicolor  Miscelanea  61926828 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06Y33B8PC/?tag=tolees-21'
 descuento: '49.10'
 average: '23.759999999999998'

@@ -16,6 +16,7 @@ comparePrice: 1.78 EUR
 prodname: 'Gourmet Yemas Espárragos Blancos - 110 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LYC0TKC/?tag=tolees-21'
 descuento: '43.82'
 average: '1.26'

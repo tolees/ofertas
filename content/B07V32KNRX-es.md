@@ -16,6 +16,7 @@ comparePrice: 139.0 EUR
 prodname: 'American Tourister Disney Legends Spinner L Maleta Infantil  75 cm  88 L  Rosa  Take Me Away Mickey Venice '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V32KNRX/?tag=tolees-21'
 descuento: '28.70'
 average: '99.11'

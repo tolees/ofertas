@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'ESR Cargador Inalámbrico Rápido  7.5W Carga rápida para iPhone SE/11/11 Pro/11 Pro MAX/XS MAX/XS/XR  10W para Galaxy S20/S20+/S10/S10+/S10e/S9+/S9/S8+/S8  5W AirPods Pro  Cubierta Silicona Desmontable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZCQJ7VM/?tag=tolees-21'
 descuento: '30.02'
 average: '13.99'

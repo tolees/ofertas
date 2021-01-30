@@ -16,6 +16,7 @@ comparePrice: 102.06 EUR
 prodname: 'Kyocera TK5240Y - Cartucho de tóner'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N0A20MP/?tag=tolees-21'
 descuento: '36.31'
 average: '83.405'

@@ -16,6 +16,7 @@ comparePrice: 1.99 EUR
 prodname: 'Friskies - Alimento complementario para perros  175 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00O4BAQE6/?tag=tolees-21'
 descuento: '49.75'
 average: '1.4000000000000001'

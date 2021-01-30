@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'adidas Originals Superstar  Zapatillas Unisex Adulto  Blanco  Footwear White/Footwear White/Footwear White   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00PNUHC58/?tag=tolees-21'
 descuento: '37.00'
 average: '63.64666666666667'

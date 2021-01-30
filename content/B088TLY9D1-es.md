@@ -16,6 +16,7 @@ comparePrice: 1.73 EUR
 prodname: 'A4 tamaño niños dibujo 3D copia placa molde de papel para impresión 3D pluma dibujo plantillas y Doodle XP mejor regalo para niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088TLY9D1/?tag=tolees-21'
 descuento: '39.88'
 average: '1.04'

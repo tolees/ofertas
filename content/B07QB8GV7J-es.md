@@ -16,6 +16,7 @@ comparePrice: 44.95 EUR
 prodname: 'PUMA Modern Sport Leggings Mallas Deporte  Mujer  Black  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QB8GV7J/?tag=tolees-21'
 descuento: '35.73'
 average: '28.439999999999998'

@@ -16,6 +16,7 @@ comparePrice: 180.0 EUR
 prodname: 'BatPower A1527 Bateria de Laptop para Apple Early 2015 MacBook 12-Inch Retina A1534 EMC 2746 Batería MacBook 12" Retina A1534 Apple A1527 Battery 39.71Wh'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084V3GQ8J/?tag=tolees-21'
 descuento: '45.00'
 average: '99.0'

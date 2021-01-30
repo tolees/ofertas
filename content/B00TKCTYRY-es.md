@@ -16,6 +16,7 @@ comparePrice: 24.9 EUR
 prodname: 'Cashmere Dreams - Pañuelo de seda en un diseño único - Bufanda de alta calidad para mujer - Pañuelo para el cuello - Pañuelo para el cuello - bufanda suave para verano  otoño e invierno crema blanco Talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00TKCTYRY/?tag=tolees-21'
 descuento: '44.18'
 average: '13.9'

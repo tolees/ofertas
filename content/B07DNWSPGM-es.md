@@ -16,6 +16,7 @@ comparePrice: 38.78 EUR
 prodname: 'Bennigiry - Shorts - para Mujer Multicolor Medium'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DNWSPGM/?tag=tolees-21'
 descuento: '63.67'
 average: '14.09'

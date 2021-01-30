@@ -16,6 +16,7 @@ comparePrice: 18.5 EUR
 prodname: 'YuLu-#Snapstar Echo  407246 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VJT2V7H/?tag=tolees-21'
 descuento: '35.19'
 average: '11.99'

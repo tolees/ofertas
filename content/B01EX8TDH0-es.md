@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'TBS Phenis  Náuticos para Hombre  Azul  Marine + Tan E8c32   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01EX8TDH0/?tag=tolees-21'
 descuento: '63.53'
 average: '36.56583333333334'

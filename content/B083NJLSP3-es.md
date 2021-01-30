@@ -16,6 +16,7 @@ comparePrice: 7.97 EUR
 prodname: 'Prenine Funda de Silicona para Control Remoto  Funda de protección contra caídas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083NJLSP3/?tag=tolees-21'
 descuento: '70.01'
 average: '2.39'

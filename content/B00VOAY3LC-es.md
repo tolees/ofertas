@@ -16,6 +16,7 @@ comparePrice: 15.89 EUR
 prodname: 'Croci C5055240 Flexi Design Cord  S  5M  Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00VOAY3LC/?tag=tolees-21'
 descuento: '56.26'
 average: '6.95'

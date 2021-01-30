@@ -16,6 +16,7 @@ comparePrice: 11.9 EUR
 prodname: 'Maybelline New York Barra de Labios Superstay 24H  Larga duración   Tono 250 Sugar Plum'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004GXH1JK/?tag=tolees-21'
 descuento: '25.21'
 average: '8.9'

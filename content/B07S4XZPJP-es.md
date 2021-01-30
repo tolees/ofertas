@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'New Balance 997H h  Zapatillas para Hombre  Rojo  Red Hbs   45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S4XZPJP/?tag=tolees-21'
 descuento: '55.51'
 average: '43.34'

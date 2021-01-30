@@ -16,6 +16,7 @@ comparePrice: 88.69 EUR
 prodname: 'Orbegozo MIG 2038 - Microondas con grill  700 W de potencia  20 l  grill de 900 W  9 niveles de funcionamiento  gris  45.5 x 35 x 26 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N7L65OW/?tag=tolees-21'
 descuento: '26.82'
 average: '65.32000000000001'

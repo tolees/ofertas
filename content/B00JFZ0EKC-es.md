@@ -16,6 +16,7 @@ comparePrice: 245.0 EUR
 prodname: 'Accurist Reloj de Pulsera MS1036NN'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00JFZ0EKC/?tag=tolees-21'
 descuento: '61.07'
 average: '95.37'

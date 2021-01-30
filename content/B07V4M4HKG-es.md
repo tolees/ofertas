@@ -16,6 +16,7 @@ comparePrice: 132.3 EUR
 prodname: 'Love MoschinoJc4291pp0aMujerCarteras de manoMarfil  Champagne Satin 13x13x20 Centimeters  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V4M4HKG/?tag=tolees-21'
 descuento: '64.10'
 average: '47.5'

@@ -16,6 +16,7 @@ comparePrice: 17.4 EUR
 prodname: 'Dewalt DT2294-QZ Juego de 10 hojas de sierra calar con 5 para madera y 5 para metal'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0013LJWHW/?tag=tolees-21'
 descuento: '34.66'
 average: '11.37'

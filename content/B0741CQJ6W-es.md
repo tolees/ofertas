@@ -16,6 +16,7 @@ comparePrice: 11.77 EUR
 prodname: 'Haribo Ladrillo Classic - 2000 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0741CQJ6W/?tag=tolees-21'
 descuento: '42.14'
 average: '7.725714285714286'

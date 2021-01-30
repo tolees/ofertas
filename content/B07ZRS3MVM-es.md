@@ -16,6 +16,7 @@ comparePrice: 35.98 EUR
 prodname: 'Suhctup Funda Reemplazo para Huawei Mate 10 Cubierta Flip Tapa Libro Carcasa Modelo Fecha Espejo Brillante tirón del Duro Case Espejo Soporte Plegable Reflectante Mirror Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZRS3MVM/?tag=tolees-21'
 descuento: '69.48'
 average: '10.98'

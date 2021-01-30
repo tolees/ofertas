@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'Bastoncillos para los oídos de bambú y algodón- 1 unidad  500 count'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08671HJZW/?tag=tolees-21'
 descuento: '25.03'
 average: '5.99'

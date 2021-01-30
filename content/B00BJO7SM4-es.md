@@ -16,6 +16,7 @@ comparePrice: 8.74 EUR
 prodname: 'Folat  Guirnalda "Fanática del Fútbol"  Ø 22 cm y longitud 10 metros   color/modelo surtido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BJO7SM4/?tag=tolees-21'
 descuento: '51.37'
 average: '4.9625'

@@ -16,6 +16,7 @@ comparePrice: 18.55 EUR
 prodname: 'JUGUETE DE PINTURA POR NUMEROS - Paisaje - INTERHOME©'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B017VSV2V4/?tag=tolees-21'
 descuento: '46.15'
 average: '9.99'

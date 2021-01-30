@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Lee Luke Corduroy Pantalones  Verde  Pine Grove 91   34W / 30L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M95CS4M/?tag=tolees-21'
 descuento: '75.00'
 average: '22.49'

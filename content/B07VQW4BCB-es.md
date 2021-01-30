@@ -16,6 +16,7 @@ comparePrice: 49.0 EUR
 prodname: 'Tommy Hilfiger Tjw Tommy Classics Polo  Blanco  White Ybr   36  Talla del Fabricante: Small  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VQW4BCB/?tag=tolees-21'
 descuento: '64.73'
 average: '17.28'

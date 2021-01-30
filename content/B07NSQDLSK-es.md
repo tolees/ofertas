@@ -16,6 +16,7 @@ comparePrice: 16.71 EUR
 prodname: 'little live pets 28617 Light Up Songbirds S9-Estilos Varian  Colores'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NSQDLSK/?tag=tolees-21'
 descuento: '32.79'
 average: '11.23'

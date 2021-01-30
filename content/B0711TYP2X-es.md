@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Funko - Pop! Vinilo Colección DC - Figura Aquaman  13486 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0711TYP2X/?tag=tolees-21'
 descuento: '30.49'
 average: '10.642307692307693'

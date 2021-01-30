@@ -16,6 +16,7 @@ comparePrice: 25.9 EUR
 prodname: 'Scitec Nutrition Whey Protein Proteína Chocolate Blanco - 920 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004EPYEMC/?tag=tolees-21'
 descuento: '33.63'
 average: '16.8875'

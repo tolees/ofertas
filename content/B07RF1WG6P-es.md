@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'Reebok Rush Runner  Zapatillas de Entrenamiento para Niñas  Azul  Indigo/Navy/Pink 0   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RF1WG6P/?tag=tolees-21'
 descuento: '52.45'
 average: '16.62'

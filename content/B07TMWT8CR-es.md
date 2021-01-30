@@ -16,6 +16,7 @@ comparePrice: 140.0 EUR
 prodname: 'Clarks Originals Boot  Botas Desert  Verde  Dark Olive SDE Dark Olive SDE   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TMWT8CR/?tag=tolees-21'
 descuento: '40.83'
 average: '82.84'

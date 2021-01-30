@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'TACKLIFE Divisor de Manguera  Válvula de Doble Salida para Manguera de Jardín  Distribuidor de Agua para Todos los Grifos  Jardinería Floración GHC1B'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M6PLB9K/?tag=tolees-21'
 descuento: '35.23'
 average: '12.266000000000002'

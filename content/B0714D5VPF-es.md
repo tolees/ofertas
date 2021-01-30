@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Under Armour Warp Knit High Impact Bra Sujetador Deportivo  Mujer  Negro  Black/Black/Reflective 001   36DD'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0714D5VPF/?tag=tolees-21'
 descuento: '50.76'
 average: '27.08'

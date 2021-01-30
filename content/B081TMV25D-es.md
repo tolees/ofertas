@@ -16,6 +16,7 @@ comparePrice: 19.96 EUR
 prodname: 'adidas Predator TRN Balón de Fútbol  Men s  Black/Active Red/White  5'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081TMV25D/?tag=tolees-21'
 descuento: '25.00'
 average: '18.296666666666667'

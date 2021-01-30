@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'adidas Light ANK 3pp Calcetines  Unisex Adulto  Black/Black/Black  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SDP5BCY/?tag=tolees-21'
 descuento: '30.03'
 average: '6.99'

@@ -16,6 +16,7 @@ comparePrice: 192.83 EUR
 prodname: 'Gigandet G32-006 - Reloj para Hombres  Correa de Acero Inoxidable Color Plateado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00OV2T6XK/?tag=tolees-21'
 descuento: '54.90'
 average: '86.97'

@@ -16,6 +16,7 @@ comparePrice: 13.02 EUR
 prodname: 'Disney - Cars 2 - DVD'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005OOSGSA/?tag=tolees-21'
 descuento: '29.42'
 average: '9.09'

@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'The North Face M LW Fp II Mid GTX  Botas de Senderismo para Hombre  Negro  TNF Black/Ebony Grey Ca0   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N37VNCR/?tag=tolees-21'
 descuento: '62.03'
 average: '43.67666666666667'

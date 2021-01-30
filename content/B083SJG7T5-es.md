@@ -16,6 +16,7 @@ comparePrice: 38.99 EUR
 prodname: 'Home Fleek - Envases de Vidrio para Alimentos | 3 Recipientes + 3 Tapas | Herméticos | Sin BPA  Set 3  Cuadrado Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083SJG7T5/?tag=tolees-21'
 descuento: '56.42'
 average: '16.39333333333333'

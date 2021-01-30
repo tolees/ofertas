@@ -16,6 +16,7 @@ comparePrice: 11.25 EUR
 prodname: 'KooPower - Guirnalda de luces  cable de cobre  funciona con pilas   Alambre de cobre  plástico.  100 LEDs Battery Fairy Lights'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RJY38DP/?tag=tolees-21'
 descuento: '59.91'
 average: '4.51'

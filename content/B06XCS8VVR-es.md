@@ -16,6 +16,7 @@ comparePrice: 32.0 EUR
 prodname: 'Babyline Barco Pirata Chica - Colchoneta para silla grupo 0'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XCS8VVR/?tag=tolees-21'
 descuento: '65.84'
 average: '10.93'

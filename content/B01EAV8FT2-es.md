@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'Bica - Conjunto de jardín Nebraska de 4 plazas  Antracita'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01EAV8FT2/?tag=tolees-21'
 descuento: '33.95'
 average: '210.9625'

@@ -16,6 +16,7 @@ comparePrice: 178.72 EUR
 prodname: 'Alpina 295441044/A19 Cortacesped Gasolina BL 410  123 CC  Negro  Ancho de Corte 41 cm  Capacidad de Bolsa 55 L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L8Y11RK/?tag=tolees-21'
 descuento: '61.07'
 average: '69.58'

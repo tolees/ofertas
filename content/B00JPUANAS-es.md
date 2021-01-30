@@ -16,6 +16,7 @@ comparePrice: 324.2 EUR
 prodname: 'MAKITA DHR263Z Martillo Ligero 26Mm 18Vx2  18 V  Negro  Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00JPUANAS/?tag=tolees-21'
 descuento: '27.21'
 average: '226.85'

@@ -16,6 +16,7 @@ comparePrice: 31.83 EUR
 prodname: 'Feagar Lima Pies para quitar Dureza y Callo Duro  Kit Pedicura Lija para Durezas Pies  Raspador para Talones Secos y Agrietados'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BNGS7PP/?tag=tolees-21'
 descuento: '56.05'
 average: '13.99'

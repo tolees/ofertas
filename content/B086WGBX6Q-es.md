@@ -16,6 +16,7 @@ comparePrice: 7.34 EUR
 prodname: 'Agger Clips de Pelo con Estilo Ocasiones Bolas de Madera Peine del Pelo de la Mariposa de Estiramiento para Regalar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086WGBX6Q/?tag=tolees-21'
 descuento: '72.62'
 average: '2.01'

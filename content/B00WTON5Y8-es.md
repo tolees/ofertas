@@ -16,6 +16,7 @@ comparePrice: 4.43 EUR
 prodname: 'FLOSO - Chanclas/Sandalias Diseño Bandera de Reino Unido - Verano/Playa/Piscina  43-44 EUR   Azul Marino/Gris '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00WTON5Y8/?tag=tolees-21'
 descuento: '33.41'
 average: '2.95'

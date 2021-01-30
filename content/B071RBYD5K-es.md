@@ -16,6 +16,7 @@ comparePrice: 25.58 EUR
 prodname: 'Saint Seiya Hade Inferno   Eliseos Blu-Ray [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071RBYD5K/?tag=tolees-21'
 descuento: '26.97'
 average: '15.835'

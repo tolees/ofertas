@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'VICTSING Transmisor FM Bluetooth 4.1 para Coche Mini Manos Libres Emisor AUX Salida Radio Adaptador y Reproductor de MP3 USB Cargador de Coche sin Instalacion Tarjeta TF para Móviles Tablet etc-Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075ZT9JW8/?tag=tolees-21'
 descuento: '50.02'
 average: '12.99'

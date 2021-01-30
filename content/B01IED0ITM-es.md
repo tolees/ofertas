@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'ZOWEETEK® Hub USB 3.0 de 3 Puertos + 1 Puerto Ethernet RJ45 Gigabit | hasta 5Gb/s para PC y Mac Portátil o Tablet | Sin Controladores | Aluminio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IED0ITM/?tag=tolees-21'
 descuento: '30.58'
 average: '15.96'

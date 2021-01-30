@@ -16,6 +16,7 @@ comparePrice: 19.49 EUR
 prodname: 'SELECT Handball Pantalones Cortos Mexico  62102  Todo el año  Hombre  Color Blanco - Blanco  tamaño XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01AXYBPG0/?tag=tolees-21'
 descuento: '57.47'
 average: '10.793333333333333'

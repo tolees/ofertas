@@ -16,6 +16,7 @@ comparePrice: 79.9 EUR
 prodname: 'Cuña de Cama Ortopédica + Almohada anti-estrés! Cojín de Respaldo para Cama/Bucco/Sofa - Almohada de Elevación 90 x 60 cm; altura 12 cm  blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J6B6QYM/?tag=tolees-21'
 descuento: '31.18'
 average: '54.99'

@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Skechers Men s Flex Advantage 3.0- Stally Trainers Black  Black Blk   9 UK'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JVY3BJG/?tag=tolees-21'
 descuento: '29.95'
 average: '45.485'

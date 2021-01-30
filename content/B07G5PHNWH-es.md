@@ -16,6 +16,7 @@ comparePrice: 16.9 EUR
 prodname: 'Max Factor  Base de maquillaje  Tono: 80 Deep Bronze  Pieles Oscuras  - 115 ml.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G5PHNWH/?tag=tolees-21'
 descuento: '71.01'
 average: '5.966666666666667'

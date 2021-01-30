@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Glowz Glow Sticks Glow In The Dark Pulseras Premium  Colores Mezclados  100 Pack - Accesorios de neón para niñas o niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CZLZP2F/?tag=tolees-21'
 descuento: '45.02'
 average: '10.99'

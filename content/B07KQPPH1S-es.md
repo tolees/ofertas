@@ -16,6 +16,7 @@ comparePrice: 109.95 EUR
 prodname: 'Salomon ALPHACROSS GTX W  Zapatillas de Trail Running para Mujer  Negro  Black/Ebony/Black   43 1/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KQPPH1S/?tag=tolees-21'
 descuento: '58.01'
 average: '46.17'

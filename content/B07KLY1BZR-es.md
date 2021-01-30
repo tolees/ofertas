@@ -16,6 +16,7 @@ comparePrice: 14.55 EUR
 prodname: 'Brrnoo Rodillera Deportiva Ajustable  Rodillera de Compresión Transpirable  Banda de Rotuliana Rodilla para Protección de Deportiva y Aliviar el Artritis Rodilla de Menisco Dolor L-Rojo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KLY1BZR/?tag=tolees-21'
 descuento: '61.58'
 average: '5.59'

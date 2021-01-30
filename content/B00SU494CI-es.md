@@ -16,6 +16,7 @@ comparePrice: 93.99 EUR
 prodname: 'Todeco - Bouncer para Bebés  Cuna Bouncer - Tamaño: 80 x 51 x 60 cm - Carga máxima: 10 kg - Patrón de mar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00SU494CI/?tag=tolees-21'
 descuento: '63.73'
 average: '34.09'

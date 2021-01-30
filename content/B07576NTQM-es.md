@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'Garmin Forerunner 30 - Reloj de carrera con GPS y sensor de frecuencia cardiaca en la muñeca  Turquesa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07576NTQM/?tag=tolees-21'
 descuento: '30.00'
 average: '89.14090909090908'

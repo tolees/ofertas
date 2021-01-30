@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Warxin Soporte Magnético Movil Coche  Mini Móvil Coche Iman para Salpicadero 360° Rotación Universal Soporte Teléfono Magnético Sostenedor para iPhone Samsung Móviles Dispositivo GPS - Oro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QX4VN3B/?tag=tolees-21'
 descuento: '46.46'
 average: '7.49'

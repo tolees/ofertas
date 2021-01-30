@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Lámparas Solares para Jardín Golwof 6 Piezas Luz Solar Exterior Jardin Luces Solares Jardin Exterior Decorativas Farolillos Solares Exterior Iluminación de Caminos para Camino Patio Césped Pasillo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YFMBCGW/?tag=tolees-21'
 descuento: '25.12'
 average: '28.415'

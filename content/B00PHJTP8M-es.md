@@ -16,6 +16,7 @@ comparePrice: 87.04 EUR
 prodname: 'Epson Stylus - Kit cartucho de tinta  Ya disponible en Amazon Dash Replenishment'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00PHJTP8M/?tag=tolees-21'
 descuento: '25.49'
 average: '64.85'

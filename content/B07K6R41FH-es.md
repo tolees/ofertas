@@ -16,6 +16,7 @@ comparePrice: 38.99 EUR
 prodname: 'Keto Plus Actives AM  60 CAPS  - Quemagrasas potente para adelgazar y rapido  Quema grasas & Detox  Aceite MCT C8 + Vinagre de Sidra de Manzana  Fat Burner Reductor  Kit Dieta  PERSONALIZADO +MEDICOS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K6R41FH/?tag=tolees-21'
 descuento: '25.75'
 average: '29.06764705882353'

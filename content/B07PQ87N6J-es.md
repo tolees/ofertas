@@ -16,6 +16,7 @@ comparePrice: 29.0 EUR
 prodname: 'Kipling - Creativity S  Monederos Mujer  Multicolor  Navy Stick Print   14.5x9.5x5 cm  B x H T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PQ87N6J/?tag=tolees-21'
 descuento: '39.69'
 average: '13.085'

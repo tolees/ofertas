@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'Superga 2750-cotmetu  Zapatillas de Gimnasia para Mujer  Amarillo  Yellow Gold 174   37.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01B5NCMRE/?tag=tolees-21'
 descuento: '68.78'
 average: '21.03'

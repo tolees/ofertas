@@ -16,6 +16,7 @@ comparePrice: 48.0 EUR
 prodname: 'KIPOZI Mini planchas del pelo de viaje  plancha alisadora cerámica con doble voltaje y calentamiento rápido en color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CYS768Q/?tag=tolees-21'
 descuento: '71.04'
 average: '13.9'

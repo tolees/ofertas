@@ -16,6 +16,7 @@ comparePrice: 109.99 EUR
 prodname: 'ROCKPALS Calefactor Cerámico de Torre PTC con Mando a Distancia  1500W Calentador Ventilador de Espacio Portátil Eléctrico para Cuarto Baño Oficina  Oscilación Automática  Protección contra Volcado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y1WR16D/?tag=tolees-21'
 descuento: '36.37'
 average: '69.99'

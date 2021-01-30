@@ -16,6 +16,7 @@ comparePrice: 226.68 EUR
 prodname: 'Diesel Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable DZ7331'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NTN8KYI/?tag=tolees-21'
 descuento: '30.05'
 average: '157.455'

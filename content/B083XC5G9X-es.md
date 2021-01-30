@@ -16,6 +16,7 @@ comparePrice: 192.85 EUR
 prodname: 'Manfrotto Befree Advanced Camo  Trípode de Viaje con Cabeza Esférica y Controles Ergonómicos  Cierres de Bloqueo con Giro  Trípode para Cámaras de Fotografía y Vídeo - Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083XC5G9X/?tag=tolees-21'
 descuento: '30.00'
 average: '133.5'

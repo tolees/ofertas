@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Purificador de Aire Alergia con Filtro HEPA y Carbón Activado  con Filtración de 4 Capas y Función de Temporizador Aromaterapia  Luz Nocturna y Temporización para Mascotas/Humo/Gérmenes/Polvo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081GLYS29/?tag=tolees-21'
 descuento: '37.78'
 average: '55.99'

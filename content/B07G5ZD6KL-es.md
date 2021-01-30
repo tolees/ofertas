@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Botas de Mujer PANAMA JACK Panama 03 Igloo B34 Nobuck Natural'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G5ZD6KL/?tag=tolees-21'
 descuento: '50.25'
 average: '99.0'

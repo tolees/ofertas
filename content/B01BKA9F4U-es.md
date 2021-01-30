@@ -16,6 +16,7 @@ comparePrice: 79.0 EUR
 prodname: 'Festina Reloj Analógico para Unisex de Cuarzo con Correa en Acero Inoxidable F16907/2'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BKA9F4U/?tag=tolees-21'
 descuento: '56.16'
 average: '55.22'

@@ -16,6 +16,7 @@ comparePrice: 16.35 EUR
 prodname: 'LEORX Candy Bottle Gift Box Baby Shower Favors 12pcs  Blue '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CU54IDM/?tag=tolees-21'
 descuento: '45.02'
 average: '8.99'

@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Reebok Cl Lthr  Zapatillas de Gimnasia para Hombre  Negro  INT/Black INT/Black   48 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002WFM78Y/?tag=tolees-21'
 descuento: '25.01'
 average: '67.45'

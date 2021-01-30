@@ -16,6 +16,7 @@ comparePrice: 44.7 EUR
 prodname: 'Amefa Modelo Actual Cubertería 24 Piezas  Acero Inoxidable 2mm de Espesor  con Cuchillo chuletero'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00473ZNMG/?tag=tolees-21'
 descuento: '29.62'
 average: '31.46'

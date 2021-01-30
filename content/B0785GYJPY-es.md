@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Superga 2730-cotropew  Zapatillas de Gimnasia para Mujer  Beige  Taupe 949   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0785GYJPY/?tag=tolees-21'
 descuento: '41.76'
 average: '43.68'

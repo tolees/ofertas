@@ -16,6 +16,7 @@ comparePrice: 43.44 EUR
 prodname: 'Grohe Sifon de Lavabo 1 1/4"  acabado cromado  Ref. 28920000 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000P0HYYK/?tag=tolees-21'
 descuento: '38.01'
 average: '26.93'

@@ -16,6 +16,7 @@ comparePrice: 150.0 EUR
 prodname: 'Sebago Schooner  Náuticos para Hombre  Azul  Blue Navy/Gum 978   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DKVJTFF/?tag=tolees-21'
 descuento: '45.21'
 average: '79.075'

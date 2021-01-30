@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Extractor de la Espinilla - Extractor del Acné  Kit de la Herramienta de la Eliminación de Whitehead Kit para la Piel del Cuidado Facial'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K9KWJHS/?tag=tolees-21'
 descuento: '47.05'
 average: '5.29'

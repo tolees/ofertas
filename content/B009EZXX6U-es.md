@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'neon nights 8 x Pintura Luz Negra Pintura UV Neón Flourescente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B009EZXX6U/?tag=tolees-21'
 descuento: '43.35'
 average: '16.99'

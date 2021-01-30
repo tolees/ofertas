@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Columbia Silver Ridge Short AM4283 Shorts  Hombre  Beige  Tusk   38'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00SJP2IAS/?tag=tolees-21'
 descuento: '56.10'
 average: '22.119999999999997'

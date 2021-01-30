@@ -16,6 +16,7 @@ comparePrice: 47.0 EUR
 prodname: 'Reloj - Menton Ezil - Para  - MEWAEU9333'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0756XY6PR/?tag=tolees-21'
 descuento: '44.72'
 average: '22.10818181818182'

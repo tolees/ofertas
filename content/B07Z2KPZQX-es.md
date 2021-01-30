@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'IPOTCH Limpiador de Cepillo de Plástico Maceta Plegable Retráctil de Acuarela Cubo de Agua Plegable Herrameinta de Pintura'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z2KPZQX/?tag=tolees-21'
 descuento: '33.37'
 average: '5.99'

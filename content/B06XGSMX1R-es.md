@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Funko- Kevin Figura de Vinilo  seria The Leftovers  14299 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XGSMX1R/?tag=tolees-21'
 descuento: '60.31'
 average: '5.95'

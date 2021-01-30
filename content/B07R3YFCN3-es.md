@@ -16,6 +16,7 @@ comparePrice: 40.99 EUR
 prodname: 'Meinkind Espejo Retrovisor Bebé para Vigilar al Bebé en Coche  360° Ajustable Irrompible 100% Inastillable Espejo Coche'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R3YFCN3/?tag=tolees-21'
 descuento: '41.47'
 average: '22.515555555555554'

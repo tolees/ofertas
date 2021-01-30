@@ -16,6 +16,7 @@ comparePrice: 19.0 EUR
 prodname: 'Garnier Delial Niños Sensitive Advanced Spray Protector Solar Anti-Arena para Pieles Claras  Sensibles  Alta Protección IP50+ - 200 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01DS2W67G/?tag=tolees-21'
 descuento: '44.74'
 average: '10.01'

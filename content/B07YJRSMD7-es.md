@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Oihxse Funda Compatible para Samsung Galaxy A7 2018/A750 Ultra Delgada Ligera Transparente Silicona TPU Gel Suave Carcasa Elegante Patrón Lindo Anti-Rasguño Protector Caso Case  Estrella de Elefante '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YJRSMD7/?tag=tolees-21'
 descuento: '50.08'
 average: '8.98'

@@ -16,6 +16,7 @@ comparePrice: 949.0 EUR
 prodname: 'Samyang F1110901101 - Objetivo fotográfico DSLR para Canon EF  Distancia Focal Fija 24mm  Apertura f/3.5-22 T/S ED AS UMC  diámetro Filtro: 82mm   Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00CRAE9MQ/?tag=tolees-21'
 descuento: '27.09'
 average: '691.95'

@@ -16,6 +16,7 @@ comparePrice: 72.59 EUR
 prodname: '30000RPM Herramienta de manicura de Torno máquina de pulido de uña eléctrica Aparatos eléctricos con 3 uñas bits de oro y cepillo de limpieza y 300 bandas de lijado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H93STY4/?tag=tolees-21'
 descuento: '31.13'
 average: '49.99'

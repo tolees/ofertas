@@ -16,6 +16,7 @@ comparePrice: 14.36 EUR
 prodname: 'Hollywood Star Fashion - Camisas - Sin Mangas - para Mujer Amarillo Amarillo Large'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077BJGXW3/?tag=tolees-21'
 descuento: '72.21'
 average: '3.99'

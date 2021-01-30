@@ -16,6 +16,7 @@ comparePrice: 229.9 EUR
 prodname: 'Guess Reloj Análogo clásico para Mujer de Cuarzo con Correa en Acero Inoxidable W0235L3'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00EPC6Q3E/?tag=tolees-21'
 descuento: '41.90'
 average: '133.58'

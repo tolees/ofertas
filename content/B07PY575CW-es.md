@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Swoote Bobina de 100m x 3mm de Cordel de Yute Natural de 3 Hilos Marrón para Manualidades  Jardinería  Bricolaje y Recuerdos de Boda DIY Incluye 10 Etiquetas Festoneadas para Regalo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PY575CW/?tag=tolees-21'
 descuento: '30.79'
 average: '8.99'

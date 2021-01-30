@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'Intex 29000 - Cartucho tipo A altura 20 2 cm & diámetros 10 8/5 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00004YSYM/?tag=tolees-21'
 descuento: '59.90'
 average: '3.99'

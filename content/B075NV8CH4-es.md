@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Palladium Pallabrouse BGY Wax  Botas Slouch Unisex Adulto  Negro  Black/Dark Gum 615   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075NV8CH4/?tag=tolees-21'
 descuento: '46.36'
 average: '48.25'

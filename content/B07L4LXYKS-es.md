@@ -16,6 +16,7 @@ comparePrice: 52.99 EUR
 prodname: '60 x 85cm Almohadilla Térmica Eléctrica para la Espalda  Hombros y Cuello Calentado con Tecnología de Calentamiento Rápido con 5 Niveles de Temperatura - Apagado Automático - Azul oscuro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L4LXYKS/?tag=tolees-21'
 descuento: '26.42'
 average: '39.49'

@@ -16,6 +16,7 @@ comparePrice: 13.25 EUR
 prodname: 'Rhinomer Baby - Narhinel Confort Aspirador Nasal+ 2 recambios blandos desechables'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B009M4M9UO/?tag=tolees-21'
 descuento: '50.72'
 average: '7.26'

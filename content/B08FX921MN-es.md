@@ -16,6 +16,7 @@ comparePrice: 55.99 EUR
 prodname: 'Antena de TV Interior/Exterior Antena per DVB-T/DVB-T2 de TV Digital para Interiores de 200miles con Amplificador Inteligente de Señal Adecuada para Canales de TV Gratis 1080P 4K Cable Coaxial de 10M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08FX921MN/?tag=tolees-21'
 descuento: '28.58'
 average: '39.99'

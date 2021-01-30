@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Columbia Youth Gorra Ajustable para jóvenes  Unisex niños  Gris  City Grey   One Size  Adjustable '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RHWCKLR/?tag=tolees-21'
 descuento: '53.08'
 average: '9.38'

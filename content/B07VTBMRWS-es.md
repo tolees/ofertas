@@ -16,6 +16,7 @@ comparePrice: 98.16 EUR
 prodname: 'Tommy Hilfiger Organic Cotton Silk Crew Neck Pantalones  Azul  Blue Ink C7H   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VTBMRWS/?tag=tolees-21'
 descuento: '76.22'
 average: '23.34'

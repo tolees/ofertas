@@ -16,6 +16,7 @@ comparePrice: 20.09 EUR
 prodname: 'Fellowes Memory Foam - Reposamuñecas para teclado  negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0013CEY0Q/?tag=tolees-21'
 descuento: '32.85'
 average: '16.68'

@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Wangel Toallero Barra Fijar Sin Taladro  Porta Toallas Baño 40cm  Pegamento Patentado + Autoadhesivo  Aluminio  Acabado Mate  Plateado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S1VBLZL/?tag=tolees-21'
 descuento: '25.01'
 average: '17.99'

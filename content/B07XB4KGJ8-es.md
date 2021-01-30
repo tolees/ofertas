@@ -16,6 +16,7 @@ comparePrice: 9.89 EUR
 prodname: 'FENICAL Gorro quirúrgico Ajustable Perro Impreso médico Enfermera Bouffant Sombrero Gorro de cirugía Absorbente de Sudor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XB4KGJ8/?tag=tolees-21'
 descuento: '29.32'
 average: '7.57'

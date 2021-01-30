@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'KUTOOK Pantalones Senderismo Trekking Hombre Impermeables Pantalon Softshell Seca Rápido Montaña Escalada con Forro Polar para Otoño Invierno HP025 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08HGN4D34/?tag=tolees-21'
 descuento: '33.35'
 average: '49.99'

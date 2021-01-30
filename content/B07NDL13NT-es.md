@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'HUAWEI 55030361 - Impresora portatil'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDL13NT/?tag=tolees-21'
 descuento: '25.57'
 average: '92.0409090909091'

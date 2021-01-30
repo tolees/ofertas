@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'IMC Toys -Fashion Twist Juego Electronico  Multicolor  Imc Toys 1    color/modelo surtido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DD3QJ98/?tag=tolees-21'
 descuento: '65.99'
 average: '12.700000000000001'

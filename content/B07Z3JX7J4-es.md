@@ -16,6 +16,7 @@ comparePrice: 44.9 EUR
 prodname: 'K-GOLEIRO Kids'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z3JX7J4/?tag=tolees-21'
 descuento: '40.00'
 average: '29.185000000000002'

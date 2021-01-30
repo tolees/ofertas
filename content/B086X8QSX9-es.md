@@ -16,6 +16,7 @@ comparePrice: 46.3 EUR
 prodname: 'Batería Recargable LCD Multifuncional Adaptador de Carga rápida Salida Cargador de batería Herramienta de Carga de batería para AA/AAA - Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086X8QSX9/?tag=tolees-21'
 descuento: '33.50'
 average: '30.79'

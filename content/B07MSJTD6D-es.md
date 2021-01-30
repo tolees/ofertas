@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'TACKLIFE Juego de Llaves Allen 30 Llaves Allen Hexagonales  15pcs Pulgadas:Negro Brazo Largo 0.028-3/8"   15pcs Métrico:Mate de Brazo Corto 0.7-10mm   Marcado de Tamaño Exacto con Caja Portátil HHW1A'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MSJTD6D/?tag=tolees-21'
 descuento: '35.02'
 average: '12.99'

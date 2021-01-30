@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Merrell Vapor Glove 4  Zapatillas Deportivas para Interior para Hombre  Verde  Forest   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TYY4TM1/?tag=tolees-21'
 descuento: '50.55'
 average: '60.47666666666666'

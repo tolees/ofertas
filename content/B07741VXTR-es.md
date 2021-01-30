@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Adidas Stan Smith  Zapatillas de Deporte para Hombre  Blanco  Ftwbla/Ftwbla/Tinnob 000   42 2/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07741VXTR/?tag=tolees-21'
 descuento: '40.02'
 average: '59.95'

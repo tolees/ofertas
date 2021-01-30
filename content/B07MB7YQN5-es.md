@@ -16,6 +16,7 @@ comparePrice: 27.99 EUR
 prodname: 'Cartera Tarjetero Hombre  Cartera Tarjeta de Crédito  Bloqueo RFID  Cartera de Piel Minimalista para Tarjetas y Billetes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MB7YQN5/?tag=tolees-21'
 descuento: '67.88'
 average: '11.49'

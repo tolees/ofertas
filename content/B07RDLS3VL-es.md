@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Salomon Sense Feel W  Zapatillas para Correr para Mujer  Azul  India Ink/White/Flint Stone   45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RDLS3VL/?tag=tolees-21'
 descuento: '55.73'
 average: '39.84'

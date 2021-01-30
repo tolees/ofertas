@@ -16,6 +16,7 @@ comparePrice: 8.93 EUR
 prodname: 'Metaltex Golf - Soporte 4 tapaderas  Banderas o Tablas  Color Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0098UVBX8/?tag=tolees-21'
 descuento: '66.74'
 average: '2.97'

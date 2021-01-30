@@ -16,6 +16,7 @@ comparePrice: 36.54 EUR
 prodname: 'Adidas Vs Advantage Cl K  Zapatillas de Deporte Unisex Adulto  Multicolor Blapur/Ftwbla 000  38 2/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K369BFP/?tag=tolees-21'
 descuento: '32.68'
 average: '24.6'

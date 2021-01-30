@@ -16,6 +16,7 @@ comparePrice: 13.81 EUR
 prodname: 'Caseflex CS000002AP - Carcasa de gel transparente para iPhone XS  transparente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H35FJ6V/?tag=tolees-21'
 descuento: '50.40'
 average: '6.85'

@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'VonHaus 05/024 - Soporte de Pared para TV de 13-27 pulgadas  Inclinación y Giro  Peso Máximo 15kg  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0044YMQIW/?tag=tolees-21'
 descuento: '32.01'
 average: '16.48333333333333'

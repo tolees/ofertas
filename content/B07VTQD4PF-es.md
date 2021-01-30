@@ -16,6 +16,7 @@ comparePrice: 64.49 EUR
 prodname: 'Zetiling Kids Mini Kitchen Toys  Toy Kitchen Playset  Pretend Role Play Toy Set Kids Girls Funny Kitchenware Playing House Regalo de cumpleaños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VTQD4PF/?tag=tolees-21'
 descuento: '64.20'
 average: '23.09'

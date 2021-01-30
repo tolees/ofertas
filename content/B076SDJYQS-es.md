@@ -16,6 +16,7 @@ comparePrice: 29.45 EUR
 prodname: 'D.Vinity Kit de Belleza Ultra Soft - 3 Piezas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076SDJYQS/?tag=tolees-21'
 descuento: '52.26'
 average: '14.06'

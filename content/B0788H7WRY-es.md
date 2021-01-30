@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Soporte de teléfono celular  COOLBROS Porta-lápiz de elefante de madera con teléfono Organizador de escritorio de titular  Elefante indio  L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0788H7WRY/?tag=tolees-21'
 descuento: '58.86'
 average: '6.99'

@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'LIGE Reloj Hombres Negocio Clásico Impermeable Deportes Analógico Cuarzo Relojes Cronógrafo Reloj de Pulsera de Acero Inoxidable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X6M4BRN/?tag=tolees-21'
 descuento: '74.62'
 average: '32.99'

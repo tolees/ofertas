@@ -16,6 +16,7 @@ comparePrice: 169.0 EUR
 prodname: 'Slendertone Connect Abs - Cinturón de tonificación conectado  61-107cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0155YQGE4/?tag=tolees-21'
 descuento: '30.00'
 average: '126.015'

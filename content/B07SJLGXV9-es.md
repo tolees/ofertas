@@ -16,6 +16,7 @@ comparePrice: 12.19 EUR
 prodname: 'La crema blanqueadora para las axilas  nutre  repara y restaura las cremas corporales de la piel para las rodillas de los axilas Codos sensibles y áreas privadas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SJLGXV9/?tag=tolees-21'
 descuento: '54.14'
 average: '5.59'

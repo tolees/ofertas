@@ -16,6 +16,7 @@ comparePrice: 79.98 EUR
 prodname: 'Qomolo Lámpara Anti Mosquitos  Mata Mosquitos Electrico Mosquitos Killer  UV Luz Lampara para Segura y Eficaz Repelente Zapper Mosquitos Polillas para Salón  Cocina  Despacho y Habitación Infantil'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083WDGK1V/?tag=tolees-21'
 descuento: '53.75'
 average: '36.99'

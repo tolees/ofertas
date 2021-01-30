@@ -16,6 +16,7 @@ comparePrice: 10.88 EUR
 prodname: 'IMBZBK Funda para Xiaomi Redmi Note 9 + [2 Pack] Protector Pantalla Xiaomi Redmi Note 9 Cristal Templado [Soporte Giratorio de 360 Grados con Anillo de Dedo][Grado Militar Anti-Golpe] TPU Silicona'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088QCGY2K/?tag=tolees-21'
 descuento: '26.56'
 average: '7.99'

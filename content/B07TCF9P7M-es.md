@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'SGILE Grande RC Drone  22 Minutos de Largo Tiempo de Vuelo  con Rotación de 360 Grados/Modo sinCabeza/Mantenimiento de Altitud  Regalo para Niños y Adultos  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TCF9P7M/?tag=tolees-21'
 descuento: '50.01'
 average: '24.99'

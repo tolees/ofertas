@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'PUMA RS 9.8 Cosmic  Zapatillas Unisex Adulto  White-Peacoat  43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KFZ46N9/?tag=tolees-21'
 descuento: '55.99'
 average: '39.59'

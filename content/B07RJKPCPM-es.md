@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Tommy Hilfiger Cozy 3D  Zapatillas Bajas para Mujer  Azul  Desert Sky Dw5   35/36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RJKPCPM/?tag=tolees-21'
 descuento: '31.73'
 average: '23.119999999999997'

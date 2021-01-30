@@ -16,6 +16,7 @@ comparePrice: 69.9 EUR
 prodname: 'BaByliss Clip n’ Curl RS100E - Set de 12 rulos térmicos de silicona  calentamiento rápido y sistema automático de clip fácil y rápido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XXZTUMI/?tag=tolees-21'
 descuento: '57.10'
 average: '29.99'

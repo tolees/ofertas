@@ -16,6 +16,7 @@ comparePrice: 74.95 EUR
 prodname: 'Skechers Go Run Pulse  Zapatillas para Hombre  Cclm Tela de Carbón Sintético con Ribete de Lima  40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XMG34KD/?tag=tolees-21'
 descuento: '49.51'
 average: '37.84'

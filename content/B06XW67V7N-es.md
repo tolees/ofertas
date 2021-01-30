@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Silencio [DVD]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XW67V7N/?tag=tolees-21'
 descuento: '42.82'
 average: '8.0'

@@ -16,6 +16,7 @@ comparePrice: 41.99 EUR
 prodname: 'Aigostar Queen - Hervidor de Agua Eléctrico  con iluminación led  1 7 litros  Libre de BPA  Acero Inoxidable  Filtro Antical  Sistema de protección contra la ebullición en seco  2200W  Diseño exclusivo.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B015NCZCT8/?tag=tolees-21'
 descuento: '56.42'
 average: '19.951428571428572'

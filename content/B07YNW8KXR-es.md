@@ -16,6 +16,7 @@ comparePrice: 209.0 EUR
 prodname: 'Varlion LW Carbon Ti roja Palas  Adultos Unisex  Rojo  360-365 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YNW8KXR/?tag=tolees-21'
 descuento: '52.18'
 average: '99.95'

@@ -16,6 +16,7 @@ comparePrice: 99.74 EUR
 prodname: 'adidas Terrex Swift Solo  Zapatillas de Deporte Exterior Unisex Adulto  Negro  Black/Black/Lead 0   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00GS5HNCE/?tag=tolees-21'
 descuento: '26.09'
 average: '70.019'

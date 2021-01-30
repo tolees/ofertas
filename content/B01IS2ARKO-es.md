@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Cordones Elasticos Gomas ★ Cordón Elasticas Zapatillas de Silicona para Halar y Bloquear Fácilmente ★ Perfecto para Niños o Adultos Mayores con Artritis  Estándar 12 piezas  Arcoiris  Rainbow  '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IS2ARKO/?tag=tolees-21'
 descuento: '44.03'
 average: '8.95'

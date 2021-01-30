@@ -16,6 +16,7 @@ comparePrice: 73.28 EUR
 prodname: 'AmazonBasics - Carreta plegable para jardín y aire libre con bolsa de cubierta  rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WBYQQ84/?tag=tolees-21'
 descuento: '27.02'
 average: '53.48'

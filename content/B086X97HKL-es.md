@@ -16,6 +16,7 @@ comparePrice: 69.79 EUR
 prodname: 'Mini 8 + 2 Puertos 100M Switch SPOE Fast Power Over Ethernet Switch SPOE Network Vlan Smart Switch - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086X97HKL/?tag=tolees-21'
 descuento: '33.50'
 average: '46.41'

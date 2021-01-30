@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Import - 8Bitdo Zero Gamepad FC'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01JI58TRI/?tag=tolees-21'
 descuento: '35.02'
 average: '12.99'

@@ -16,6 +16,7 @@ comparePrice: 59.5 EUR
 prodname: 'POSTQUAM - Mascarilla facial calmante para pieles normales'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BJHDO42/?tag=tolees-21'
 descuento: '76.49'
 average: '13.99'

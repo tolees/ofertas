@@ -16,6 +16,7 @@ comparePrice: 34.97 EUR
 prodname: 'Marco Tozzi 2-2-24215-28 514  Bailarinas Mujer  Rosa  Pink Comb 514   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NA8WG9H/?tag=tolees-21'
 descuento: '65.06'
 average: '12.22'

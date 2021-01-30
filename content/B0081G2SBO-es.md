@@ -16,6 +16,7 @@ comparePrice: 235 EUR
 prodname: 'Yamaha EZ-220 - Teclado digital portátil de iniciación  con 61 teclas retroiluminadas sensibles a la pulsación y392 voces de alta calidad incorporadas  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0081G2SBO/?tag=tolees-21'
 descuento: '29.02'
 average: '166.8'

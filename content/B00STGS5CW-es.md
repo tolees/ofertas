@@ -16,6 +16,7 @@ comparePrice: 89.9 EUR
 prodname: 'Energy Tower 5 Torre de Sonido con Bluetooth y Mando a Distancia  60 W  Panel Táctil  USB/SD y Radio FM  - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00STGS5CW/?tag=tolees-21'
 descuento: '28.90'
 average: '71.13333333333334'

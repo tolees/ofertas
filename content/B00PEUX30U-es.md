@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Auriculares plegables JVC HA-S180-W color blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00PEUX30U/?tag=tolees-21'
 descuento: '25.21'
 average: '12.96'

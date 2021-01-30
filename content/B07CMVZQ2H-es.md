@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Liveinu - Red de insectos para bebés con cierre de cremallera  elástica  para cochecito de bebé  sillas de paseo  cuna y mosquitera negro negro Talla:talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CMVZQ2H/?tag=tolees-21'
 descuento: '62.52'
 average: '14.99'

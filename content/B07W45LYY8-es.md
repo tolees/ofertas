@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'OtterBox Commuter - Funda de Protección para Apple iPhone 11 Negra'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W45LYY8/?tag=tolees-21'
 descuento: '37.01'
 average: '22.04'

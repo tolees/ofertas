@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Skechers Men s METCO Classic Boots  Brown  Brown Leather W/Mesh Br Ol   6.5  40 EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P48Q5KC/?tag=tolees-21'
 descuento: '70.94'
 average: '27.813333333333333'

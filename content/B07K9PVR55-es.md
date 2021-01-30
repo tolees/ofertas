@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Crocs Classic Slipper  Zapatillas Bajas Unisex Adulto  Rojo  Burgundy/Burgundy 60u   43/44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K9PVR55/?tag=tolees-21'
 descuento: '30.01'
 average: '20.99'

@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'YuanLey 26 Port PoE Switch  24 PoE+ Port 100Mbps  2 Uplink Gigabit  802.3af/at 400W de Alta Potencia  Montaje en Bastidor no Administrado Plug and Play'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082KNP2Y6/?tag=tolees-21'
 descuento: '32.00'
 average: '135.99'

@@ -16,6 +16,7 @@ comparePrice: 60 EUR
 prodname: 'Nike Downshifter 9  Zapatillas de Running para Asfalto para Hombre  Multicolor  Midnight Navy/Pure Platinum 401   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H7SFKZ4/?tag=tolees-21'
 descuento: '36.85'
 average: '37.760000000000005'

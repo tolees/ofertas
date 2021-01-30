@@ -16,6 +16,7 @@ comparePrice: 25.36 EUR
 prodname: 'Optimum Nutrition Gold Standard 100% Caseina  Vainilla - 450 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ABW7B8Q/?tag=tolees-21'
 descuento: '45.78'
 average: '13.75'

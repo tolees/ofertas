@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Lepfun A7000  1 par  Rodillera con Soporte De Baloncesto para Hombres Y Mujeres Rodillera para Voleibol  Fútbol  Deportes De Contacto Mangas Acolchadas  Medium '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MMY7WFT/?tag=tolees-21'
 descuento: '30.56'
 average: '24.99'

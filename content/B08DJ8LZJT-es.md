@@ -16,6 +16,7 @@ comparePrice: 5.37 EUR
 prodname: 'Cámara Web de 1 Pieza Cámara Web Full HD 480P Cámara de transmisión de Video en Vivo con micrófono Digital estéreo - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08DJ8LZJT/?tag=tolees-21'
 descuento: '40.04'
 average: '3.22'

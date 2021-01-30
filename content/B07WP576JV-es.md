@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Shark Steam Mop Vapor Mopa de Bolsillo  Blanco y Verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WP576JV/?tag=tolees-21'
 descuento: '42.27'
 average: '57.449999999999996'

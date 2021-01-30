@@ -16,6 +16,7 @@ comparePrice: 85.0 EUR
 prodname: 'Pepe Jeans London Koko Sky  Zapatillas para Mujer  Stone 856  39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZQ2ZS6/?tag=tolees-21'
 descuento: '45.00'
 average: '51.19'

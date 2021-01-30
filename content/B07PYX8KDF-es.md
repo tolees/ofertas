@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Tangle Teezer Cepillo Para El Pelo 4 Unidades 100 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PYX8KDF/?tag=tolees-21'
 descuento: '36.86'
 average: '11.99'

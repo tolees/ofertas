@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Vital ZY-080 Canasta de Baloncesto  Adultos Unisex  Multicolor  Talla Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RXCBMMM/?tag=tolees-21'
 descuento: '33.90'
 average: '42.3225'

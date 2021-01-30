@@ -16,6 +16,7 @@ comparePrice: 249.99 EUR
 prodname: 'Polaroid Pop 2.0 Cámara digital de impresión instantánea  Azul  20 Mp  Pantalla Táctil de 3 97 In  Wi-Fi incorporado  Tecnología Zink Zero Ink y nueva aplicación  fotografías de 9 x 11 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FDL3FSP/?tag=tolees-21'
 descuento: '45.60'
 average: '135.99'

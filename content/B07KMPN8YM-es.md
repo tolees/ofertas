@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'adidas W E 3s Pant Pantalones Deportivos  Mujer  Negro  Black/White   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KMPN8YM/?tag=tolees-21'
 descuento: '31.13'
 average: '30.99'

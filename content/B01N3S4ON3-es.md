@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Intex 56288EU - Flamenco XL hinchable 218x211x136 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N3S4ON3/?tag=tolees-21'
 descuento: '25.03'
 average: '29.95'

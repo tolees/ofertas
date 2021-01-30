@@ -16,6 +16,7 @@ comparePrice: 14.39 EUR
 prodname: 'Depiladora Facial Mujer Electrica Sin dolor  2 en 1 USB recargable afeitadora portátil Impermeable Luz LED incorporada  para Recortadora de Cabello para Cejas y Cuerpo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087WLVFX8/?tag=tolees-21'
 descuento: '27.94'
 average: '10.37'

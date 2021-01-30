@@ -16,6 +16,7 @@ comparePrice: 11.13 EUR
 prodname: 'Durex Lubricante de Base Agua Efecto Frío - 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00RDFFBHW/?tag=tolees-21'
 descuento: '32.97'
 average: '7.824'

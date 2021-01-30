@@ -16,6 +16,7 @@ comparePrice: 75.51 EUR
 prodname: 'Ultratec Power 2 - Licuadora  sin BPA  1500 W  32.000 rpm  con 6 cuchillas de acero inoxidable con libro de batido de frutas negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01EFX7HNK/?tag=tolees-21'
 descuento: '26.06'
 average: '55.83'

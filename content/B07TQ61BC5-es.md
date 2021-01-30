@@ -16,6 +16,7 @@ comparePrice: 60.85 EUR
 prodname: 'Grifo de filtro de agua potable de acero inoxidable para fregadero de cocina  compatible con todos los sistemas de ósmosis inversa  sin plomo  cepillado  un solo mango negro negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TQ61BC5/?tag=tolees-21'
 descuento: '36.63'
 average: '38.760000000000005'

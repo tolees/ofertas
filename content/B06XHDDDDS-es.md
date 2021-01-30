@@ -16,6 +16,7 @@ comparePrice: 85.0 EUR
 prodname: 'Helly Hansen Jr HH LIFA Merino Conjunto Termico de Ropa Interior  Unisex niños  Negro  8 años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XHDDDDS/?tag=tolees-21'
 descuento: '39.41'
 average: '40.32'

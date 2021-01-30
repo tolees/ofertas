@@ -16,6 +16,7 @@ comparePrice: 16.49 EUR
 prodname: 'PUMA One Strap Ball Balón de Fútbol  Adultos Unisex  Black-Yellow Alert White  5'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QHK8N35/?tag=tolees-21'
 descuento: '42.45'
 average: '9.49'

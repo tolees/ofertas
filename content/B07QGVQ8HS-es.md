@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'G-STAR RAW Roxic Tapered Cargo Pantalones  Azul  Mazarine Blue 4893-4213   W26/L30  Talla del Fabricante: 26W / 30L  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QGVQ8HS/?tag=tolees-21'
 descuento: '70.61'
 average: '29.38'

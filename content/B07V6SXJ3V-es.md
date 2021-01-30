@@ -16,6 +16,7 @@ comparePrice: 105.0 EUR
 prodname: 'Kipling Deny Bolsa de Viaje  44 cm  26 Liters  Plateado  Metallic Glow '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V6SXJ3V/?tag=tolees-21'
 descuento: '50.47'
 average: '53.51'

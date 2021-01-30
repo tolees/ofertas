@@ -16,6 +16,7 @@ comparePrice: 189.0 EUR
 prodname: 'Panama Jack Panama 03 Aviator  Botas Militar para Hombre  Marrón  Marron C1   46 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00K8QR8VK/?tag=tolees-21'
 descuento: '42.88'
 average: '106.18333333333334'

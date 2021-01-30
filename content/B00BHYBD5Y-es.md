@@ -16,6 +16,7 @@ comparePrice: 44.9 EUR
 prodname: 'BaByliss I Pro Curler C525E - Rizador de pelo cerámico  25 mm  pantalla LCD  punta fría  cable giratorio  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BHYBD5Y/?tag=tolees-21'
 descuento: '26.77'
 average: '31.915'

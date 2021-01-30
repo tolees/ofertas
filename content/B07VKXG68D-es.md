@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Hackett London New Classic Polo  Verde  6fpfir Green 6fp   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VKXG68D/?tag=tolees-21'
 descuento: '60.05'
 average: '37.95'

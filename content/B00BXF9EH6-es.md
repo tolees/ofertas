@@ -16,6 +16,7 @@ comparePrice: 21.8 EUR
 prodname: 'Piz Buin Piz Buin Wet Skin Transparent Sun Spray Spf15 150 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BXF9EH6/?tag=tolees-21'
 descuento: '77.11'
 average: '4.99'

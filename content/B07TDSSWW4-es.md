@@ -16,6 +16,7 @@ comparePrice: 7.7 EUR
 prodname: 'Finocam - Agenda 2020 Semana Vista Apaisada Espiral You Positive  Español  Mediano - E5-117 x 181 mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TDSSWW4/?tag=tolees-21'
 descuento: '50.00'
 average: '3.85'

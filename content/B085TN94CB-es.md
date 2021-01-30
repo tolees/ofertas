@@ -16,6 +16,7 @@ comparePrice: 30.74 EUR
 prodname: 'luosh Cesto de Ropa Cesto de succión Suspensión Montado en la Pared Hogar Baño Almacenamiento Lavado Ropa Organizador'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085TN94CB/?tag=tolees-21'
 descuento: '50.00'
 average: '15.37'

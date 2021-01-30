@@ -16,6 +16,7 @@ comparePrice: 74.99 EUR
 prodname: 'New Balance ML373  Zapatillas para Hombre  Gris  Light Grey   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MTSE2SA/?tag=tolees-21'
 descuento: '41.39'
 average: '43.95'

@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Cluse Reloj Analógico Automático para Mujer con Correa de Cuero – CL30004'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0158G1XQK/?tag=tolees-21'
 descuento: '62.33'
 average: '49.9375'

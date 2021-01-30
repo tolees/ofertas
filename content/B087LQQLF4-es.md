@@ -16,6 +16,7 @@ comparePrice: 61.78 EUR
 prodname: 'Tyannan Cortina de Puerta Mantener alejados a los Insectos Dormitorio Pantalla de la Puerta Delantera Mantener alejados a los Mosquitos Balcón de imanes-80x205cm 31x81inch  Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087LQQLF4/?tag=tolees-21'
 descuento: '40.13'
 average: '36.99'

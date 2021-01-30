@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'PUMA Nova Hypertech Wn s  Zapatillas para Mujer  White  37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KG15Z8L/?tag=tolees-21'
 descuento: '76.41'
 average: '21.22'

@@ -16,6 +16,7 @@ comparePrice: 104.39 EUR
 prodname: '2XU Women s Reflect Run Medias de compresión Ajustadas – Wa5364b compresión Ajustada  Mujer  9336340740063  Black/Silver GLO Reflective  Extra-Small'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078HGRPH9/?tag=tolees-21'
 descuento: '66.67'
 average: '34.79'

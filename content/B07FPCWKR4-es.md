@@ -16,6 +16,7 @@ comparePrice: 14.58 EUR
 prodname: 'BEZOX Lima y Elevador de Uñas Encarnadas - Gancho Excavador para Pies Herramienta de Tratamiento Preferida por Podólogos - Acero Inoxidable Limpiador de Uñas y Empujador de Cutículas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FPCWKR4/?tag=tolees-21'
 descuento: '25.24'
 average: '9.462857142857143'

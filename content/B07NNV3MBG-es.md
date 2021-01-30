@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Under Armour UA Charged Intake 4  Zapatillas de Running para Hombre  Verde  Escape/Halo Gray/Black   42.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NNV3MBG/?tag=tolees-21'
 descuento: '44.49'
 average: '55.48'

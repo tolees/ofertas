@@ -16,6 +16,7 @@ comparePrice: 304.76 EUR
 prodname: 'Anillo de bodas Anillos de Pareja  con grabado personalizable  de titanio '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00SRURHNI/?tag=tolees-21'
 descuento: '67.52'
 average: '99.0'

@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Wrangler Arizona Jeans  Azul  Blue Stroke 1O   32W / 32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06Y1MNM1X/?tag=tolees-21'
 descuento: '34.41'
 average: '53.230000000000004'

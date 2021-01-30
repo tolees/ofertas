@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Guirnalda de Luces LED Decorativas 10 Metros 100 LEDs Blanco Cálido con Control Remoto  USB  para Habitacion Interior'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08539FSXM/?tag=tolees-21'
 descuento: '50.03'
 average: '8.99'

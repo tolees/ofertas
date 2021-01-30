@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Tommy Hilfiger Formal Belt 3.0 Cinturón   Brown 0im   100  Talla del fabricante: 85.0  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N6LPG79/?tag=tolees-21'
 descuento: '51.97'
 average: '25.064999999999998'

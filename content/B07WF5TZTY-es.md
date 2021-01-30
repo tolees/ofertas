@@ -16,6 +16,7 @@ comparePrice: 30 EUR
 prodname: 'FITTOO Mallas Pantalones Deportivos Leggings Mujer Yoga de Alta Cintura Elásticos y Transpirables para Yoga Running Fitness con Gran Elásticos2060 Amorado L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WF5TZTY/?tag=tolees-21'
 descuento: '46.70'
 average: '15.99'

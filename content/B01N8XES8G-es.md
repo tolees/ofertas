@@ -16,6 +16,7 @@ comparePrice: 18.0 EUR
 prodname: 'UMBRO Speed Chubasquero de Pesca  Hombre  Azul Royal  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N8XES8G/?tag=tolees-21'
 descuento: '33.39'
 average: '11.99'

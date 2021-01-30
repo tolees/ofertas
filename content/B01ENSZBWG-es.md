@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'Panasonic EW1411H845 - Irrigador Bucal Eléctrico Portátil  Modo AIR IN  Burbujas de Agua   3 Niveles de Potencia  Recargable  Inalámbrico  para Aparatos Dentales  1400 Impulsos/min  Ligero  Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01ENSZBWG/?tag=tolees-21'
 descuento: '27.55'
 average: '49.99'

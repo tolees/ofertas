@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Aigostar BlueFire 30PKZ- Placa de inducción portátil  2000 W  control táctil  10 niveles de potencia  temporizador  pantalla digital LED. Para recipientes entre 13 y 24 cm diámetro.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WV481CJ/?tag=tolees-21'
 descuento: '28.58'
 average: '49.99'

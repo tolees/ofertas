@@ -16,6 +16,7 @@ comparePrice: 171.81 EUR
 prodname: 'Coffret EMC Legacy'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MDUN3F5/?tag=tolees-21'
 descuento: '52.54'
 average: '81.54'

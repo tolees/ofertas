@@ -16,6 +16,7 @@ comparePrice: 21.9 EUR
 prodname: 'ranninao Gofrera Europea de 350W | Máquina de Hacer gofres para el hogar - Mini máquina de Hacer gofres para el hogar Máquina de Pastel para panqueques Galletas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZPT6NT9/?tag=tolees-21'
 descuento: '31.96'
 average: '14.9'

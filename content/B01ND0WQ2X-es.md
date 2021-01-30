@@ -16,6 +16,7 @@ comparePrice: 12.14 EUR
 prodname: 'Scholl Medias de Compresión Ligera Mujer Light Legs 20DEN  Color Carne  XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01ND0WQ2X/?tag=tolees-21'
 descuento: '25.95'
 average: '8.99'

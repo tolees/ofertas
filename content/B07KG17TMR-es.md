@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'PUMA Ralph Sampson Lo  Zapatillas Unisex Adulto  Blanco  Puma White-Puma White-Bridal Rose 06   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KG17TMR/?tag=tolees-21'
 descuento: '66.05'
 average: '27.259999999999998'

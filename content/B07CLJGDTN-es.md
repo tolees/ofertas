@@ -16,6 +16,7 @@ comparePrice: 31.9 EUR
 prodname: 'Miracle Baby Mantas Muselina Bebe Algodon，Manta Dos Capas Suave y Acogedor para el Sueño Profundo 120*120cm para Cochecito Unisex Negra Panda'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CLJGDTN/?tag=tolees-21'
 descuento: '47.12'
 average: '16.87'

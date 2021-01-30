@@ -16,6 +16,7 @@ comparePrice: 24.49 EUR
 prodname: 'Bolsa de pañales de tela  la bolsa de pañales de doble cremallera impermeable para bebés Lavable seca con pañales húmedos bolsa de viaje 15.8 × 27.6in  EF240 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PJ2BMN2/?tag=tolees-21'
 descuento: '31.56'
 average: '16.76'

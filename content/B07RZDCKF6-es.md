@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'EUMI Pendientes Colgantes Pendientes Plata de Ley 925 Mujer Corazón con Circonitas Rojas de Diamantes  Fiestas  cumpleaños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RZDCKF6/?tag=tolees-21'
 descuento: '56.69'
 average: '12.99'

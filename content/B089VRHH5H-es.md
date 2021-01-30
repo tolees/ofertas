@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'WERNNSAI Manta Unicornio - 125 x 150cm Sherpa Manta de lana Sobrecama Manta de Felpa para Niñas Regalos de Cumpleaños Baby Shower Mantas para cama Sofá Dormitorio Vivero'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089VRHH5H/?tag=tolees-21'
 descuento: '50.01'
 average: '22.99'

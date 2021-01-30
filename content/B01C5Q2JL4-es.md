@@ -16,6 +16,7 @@ comparePrice: 171.0 EUR
 prodname: 'TRENDnet - Cámara de Red PoE para Exteriores/Interiores  para día/Noche  de 4 MP TV-IP314PI  Version v1.0R '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01C5Q2JL4/?tag=tolees-21'
 descuento: '40.26'
 average: '102.16'

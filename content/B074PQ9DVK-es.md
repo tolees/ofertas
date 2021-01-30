@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'adidas V Racer 2.0  Zapatillas para Hombre  Azul  Maruni/Ftwbla/Escarl   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074PQ9DVK/?tag=tolees-21'
 descuento: '30.86'
 average: '43.677631578947384'

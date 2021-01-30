@@ -16,6 +16,7 @@ comparePrice: 329.0 EUR
 prodname: 'Skagen Smartwatch SKT5102'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HKMTQMT/?tag=tolees-21'
 descuento: '45.47'
 average: '179.4'

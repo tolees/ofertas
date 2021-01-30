@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'AROYI Funda iPhone 11+2 x Protector de Pantalla iPhone 11  Funda de Silicona Líquida Anti-Rasguño a Prueba de Golpes  Pantalla y Carcasas iPhone 11 [Totalmente Protectora] - Negro Mate'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZRBNH4Z/?tag=tolees-21'
 descuento: '52.66'
 average: '8.99'

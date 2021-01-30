@@ -16,6 +16,7 @@ comparePrice: 139.0 EUR
 prodname: 'Fissler SensoRed  Sartén wok con un diámetro de 28 cm  fabricada en aluminio  apta para inducción  antiadherente  Color Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XQ5BVWG/?tag=tolees-21'
 descuento: '26.59'
 average: '102.04'

@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'PUMA LQDCELL Shatter XT Shift Wn s  Zapatillas Deportivas para Interior para Mujer  Black-Yellow Alert  42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KG16VMF/?tag=tolees-21'
 descuento: '69.18'
 average: '27.72'

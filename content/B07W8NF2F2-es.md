@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Beikell Corrector de Postura  Corrector de Postura Espalda Hombro para Hombre y Mujer Talla Única y Ajustable Faja Espalda Recta Soporte Transpirable para Aliviar Dolor y Mejorar Postura'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W8NF2F2/?tag=tolees-21'
 descuento: '35.31'
 average: '10.953636363636365'

@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'Head Hombres Club Short M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MSAKNUD/?tag=tolees-21'
 descuento: '52.62'
 average: '21.475'

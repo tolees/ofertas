@@ -16,6 +16,7 @@ comparePrice: 89.9 EUR
 prodname: 'Energy Headphones BT Travel 7 ANC  Active Noise Cancelling  Bluetooth  Control Talk  Foldable  Extended Battery  - Black'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FMCL59B/?tag=tolees-21'
 descuento: '36.61'
 average: '57.407000000000004'

@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'JYHEHOT Alfombrillas de ratón reposamuñecas para teclado y ratón con espuma de memoria para computadora  almohada ligera antideslizante para muñeca  Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081CHHNRY/?tag=tolees-21'
 descuento: '29.43'
 average: '11.99'

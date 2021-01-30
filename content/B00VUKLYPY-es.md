@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Netgear EX3800 Repetidor WiFi AC750  amplificador WiFi doble banda  toma de enchufe  puerto LAN Gigabit  compatibilidad universal'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00VUKLYPY/?tag=tolees-21'
 descuento: '28.19'
 average: '37.263333333333335'

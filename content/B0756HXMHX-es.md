@@ -16,6 +16,7 @@ comparePrice: 179.0 EUR
 prodname: 'Tiny Love 3 in 1 Close to Me Bouncer - Balancín'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0756HXMHX/?tag=tolees-21'
 descuento: '36.93'
 average: '115.065'

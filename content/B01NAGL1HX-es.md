@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Dymatize Elite Whey Strawberry Blast 2 1Kg - Pulverizador de alta Poteína y Baja Azúcar + Proteína de Suero y BCAA'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NAGL1HX/?tag=tolees-21'
 descuento: '30.67'
 average: '33.693333333333335'

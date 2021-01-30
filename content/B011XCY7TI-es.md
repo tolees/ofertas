@@ -16,6 +16,7 @@ comparePrice: 24.85 EUR
 prodname: 'Vengadores: La Era De Ultrón  BD 3D + 2D  [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B011XCY7TI/?tag=tolees-21'
 descuento: '37.87'
 average: '15.44'

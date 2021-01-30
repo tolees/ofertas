@@ -16,6 +16,7 @@ comparePrice: 11.9 EUR
 prodname: 'Velleman WIK01N - Cable  715 m  Cobre '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0056BPQ7U/?tag=tolees-21'
 descuento: '38.24'
 average: '7.35'

@@ -16,6 +16,7 @@ comparePrice: 12.5 EUR
 prodname: 'Xylazel M88985 - Aceite teca 750 ml miel'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00CWEUP7A/?tag=tolees-21'
 descuento: '34.08'
 average: '8.24'

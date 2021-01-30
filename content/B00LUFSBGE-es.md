@@ -16,6 +16,7 @@ comparePrice: 7.95 EUR
 prodname: 'Revlon ColorStay Gel Envy Esmalte de Uñas de Larga Duración 11 7ml  Royal Flush '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00LUFSBGE/?tag=tolees-21'
 descuento: '69.94'
 average: '2.6950000000000003'

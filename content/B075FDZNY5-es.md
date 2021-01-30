@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Wrangler Arizona Corduroy Pantalones  Verde  Dusty Olive 275   36 W/ 34 L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075FDZNY5/?tag=tolees-21'
 descuento: '49.99'
 average: '39.98'

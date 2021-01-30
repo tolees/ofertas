@@ -16,6 +16,7 @@ comparePrice: 7.95 EUR
 prodname: 'Maybelline New York - El Borrador Instant Anti Age  Corrector de Ojos  Tono 45 Light'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00D7OKNCQ/?tag=tolees-21'
 descuento: '29.94'
 average: '6.035714285714286'

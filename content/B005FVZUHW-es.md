@@ -16,6 +16,7 @@ comparePrice: 6.99 EUR
 prodname: 'TRIXES 2 x Almohadas Inflables - para Viajar  la Playa o Cámping - Tacto Suave - Pequeño Tamaño Portátil - Azul Oscuro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005FVZUHW/?tag=tolees-21'
 descuento: '39.20'
 average: '4.25'

@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Columbia Fast Trek II  forro polar con cremallera completa para hombres'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RCNNT3Q/?tag=tolees-21'
 descuento: '28.77'
 average: '35.61'

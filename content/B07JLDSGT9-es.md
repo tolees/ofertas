@@ -16,6 +16,7 @@ comparePrice: 31.99 EUR
 prodname: 'Glaray Camo Wrap Tape Cinta de Camuflaje Militar del ejército se aferran para Caza Cámping  Autoadhesivo Protector Stretch Vendaje Rodar  Tela no Tejida  15 pies x 2 Pulgadas  5 Piezas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JLDSGT9/?tag=tolees-21'
 descuento: '40.64'
 average: '18.99'

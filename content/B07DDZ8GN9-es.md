@@ -16,6 +16,7 @@ comparePrice: 27.97 EUR
 prodname: 'Adidas Fortagym Cf K Zapatillas de Gimnasia Unisex Niños  Multicolor  Multicolor 000   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DDZ8GN9/?tag=tolees-21'
 descuento: '28.57'
 average: '19.59'

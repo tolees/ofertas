@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'The Kinks Are The Village Green Preservation Society'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GGPT67K/?tag=tolees-21'
 descuento: '36.85'
 average: '10.73'

@@ -16,6 +16,7 @@ comparePrice: 119.95 EUR
 prodname: 'Adidas Terrex EASTRAIL Mid GTX  Zapatillas de Deporte para Hombre  Gris  Carbon/Negbás/Gricin 000   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J66YXZY/?tag=tolees-21'
 descuento: '28.39'
 average: '85.9'

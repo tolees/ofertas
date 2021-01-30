@@ -16,6 +16,7 @@ comparePrice: 22.84 EUR
 prodname: 'Hill`s Science Plan Alimento con Sabor a Pollo para Perros Pequeño Mini - 3 kg'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001MZYHRE/?tag=tolees-21'
 descuento: '86.87'
 average: '9.245000000000001'

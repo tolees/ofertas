@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Finether Dispensador de Jabón Automático Espuma Dispensador Sensor de Jabón sin Contacto 350ml Impermeable para Baño  Cocina  Color Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081H6HFHJ/?tag=tolees-21'
 descuento: '61.44'
 average: '26.99'

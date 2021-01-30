@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Manfrotto MB PL-CC-192N - Bolsa para vídeocámara  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01H4XHPUS/?tag=tolees-21'
 descuento: '27.03'
 average: '145.22'

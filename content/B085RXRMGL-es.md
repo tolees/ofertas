@@ -16,6 +16,7 @@ comparePrice: 140.0 EUR
 prodname: 'Dunlop Fusion Elite Amarilla 2019'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085RXRMGL/?tag=tolees-21'
 descuento: '53.61'
 average: '64.95'

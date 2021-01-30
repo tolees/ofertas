@@ -16,6 +16,7 @@ comparePrice: 12.55 EUR
 prodname: 'Amore Funda Carcasa para Huawei Mediapad M6 10.8 2019 con Soporte Función y Auto Sueño/Estela'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SRFP3VK/?tag=tolees-21'
 descuento: '34.90'
 average: '8.17'

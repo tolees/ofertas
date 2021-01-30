@@ -16,6 +16,7 @@ comparePrice: 105 EUR
 prodname: 'Versace Jeans CouturePortafoglioMujerCarterasAmarillo  Giallo  2x12.5x22 centimeters  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NLKQ7JW/?tag=tolees-21'
 descuento: '34.63'
 average: '68.64'

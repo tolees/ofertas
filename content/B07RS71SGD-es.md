@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Tommy Hilfiger - Textured Mini Cc Wallet  Carteras Hombre  Multicolor  Testa Di Moro   0.1x0.1x0.1 cm  W x H L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RS71SGD/?tag=tolees-21'
 descuento: '51.90'
 average: '29.0'

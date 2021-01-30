@@ -16,6 +16,7 @@ comparePrice: 74.95 EUR
 prodname: 'Skechers Moreno  Zapatillas para Hombre  Azul  Navy Mesh Nvy   39.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TSQ8W8F/?tag=tolees-21'
 descuento: '59.17'
 average: '32.64333333333333'

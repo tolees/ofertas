@@ -16,6 +16,7 @@ comparePrice: 10 EUR
 prodname: 'Mustard M 16028 - Soporte magnético para clips con diseño de Einstein'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NIVEQ6M/?tag=tolees-21'
 descuento: '60.50'
 average: '3.95'

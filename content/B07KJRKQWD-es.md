@@ -16,6 +16,7 @@ comparePrice: 138.0 EUR
 prodname: 'Olivia Burton Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable OB16GD14'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KJRKQWD/?tag=tolees-21'
 descuento: '49.57'
 average: '74.8'

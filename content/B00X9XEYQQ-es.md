@@ -16,6 +16,7 @@ comparePrice: 25.98 EUR
 prodname: 'Maybelline New York - Superstay 7 Días  Esmalte de Uñas Efecto Gel  Tono 255 Mauve On'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00X9XEYQQ/?tag=tolees-21'
 descuento: '91.92'
 average: '2.1'

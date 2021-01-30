@@ -16,6 +16,7 @@ comparePrice: 579.0 EUR
 prodname: 'Nikon AF-S DX NIKKOR 18-140 f/3.5-5.6G ED VR - Objetivo para Nikon  distancia focal 18-140mm  apertura f/3.5-5.6  estabilizador  diámetro: 67mm  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ECGX8FM/?tag=tolees-21'
 descuento: '37.49'
 average: '370.42499999999995'

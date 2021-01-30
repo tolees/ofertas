@@ -16,6 +16,7 @@ comparePrice: 59.12 EUR
 prodname: 'Canon LC-E6E - Cargador para batería Canon LP-E6  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001ISK0EY/?tag=tolees-21'
 descuento: '45.38'
 average: '32.29'

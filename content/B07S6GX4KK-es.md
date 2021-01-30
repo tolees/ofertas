@@ -16,6 +16,7 @@ comparePrice: 74.95 EUR
 prodname: 'Under Armour UA Remix 2.0  Zapatillas de Running  Deportivas para Hombre  Blanco  White/Versa Blue/Versa Blue  104  104   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S6GX4KK/?tag=tolees-21'
 descuento: '29.33'
 average: '52.97'

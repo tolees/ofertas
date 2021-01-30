@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Charles Wilson Lote 12 Pares Calcetines Deportivos Básicos  2.5-5.5  Assorted Dark  0619  '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T2DHLPJ/?tag=tolees-21'
 descuento: '66.78'
 average: '9.95'

@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Pepe Jeans Rick suéter  Verde  Hunter Green 781   Talla única  Talla del Fabricante: Medium  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RT8B4CS/?tag=tolees-21'
 descuento: '50.68'
 average: '36.943333333333335'

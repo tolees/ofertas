@@ -16,6 +16,7 @@ comparePrice: 16.93 EUR
 prodname: 'FLEXI Vario S Cordón 8 m  marrón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00H8TBB6I/?tag=tolees-21'
 descuento: '29.24'
 average: '11.98'

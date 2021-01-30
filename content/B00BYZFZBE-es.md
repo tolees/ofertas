@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'Superga 2790Cotw Linea Up And Down  Zapatillas Unisex adulto  Negro  996 Full Black   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BYZFZBE/?tag=tolees-21'
 descuento: '32.07'
 average: '43.03'

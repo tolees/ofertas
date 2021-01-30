@@ -16,6 +16,7 @@ comparePrice: 47.92 EUR
 prodname: 'Martina Home Ribera Cubre Chaise Longue  Brazo Izquierdo  Tela  Rojo  240 CM'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079S5JJBY/?tag=tolees-21'
 descuento: '35.29'
 average: '31.01'

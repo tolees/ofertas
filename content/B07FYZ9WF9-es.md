@@ -16,6 +16,7 @@ comparePrice: 29.0 EUR
 prodname: 'Xiaomi Mi Band 3 Pulsera de Actividad Inteligente Rastreador Deportes Deportiva con Pulsómetro Monitor de Ritmo Cardíaco 0 78 Pulgadas OLED Pantalla Táctil Pronóstico del Tiempo Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FYZ9WF9/?tag=tolees-21'
 descuento: '37.93'
 average: '19.169166666666666'

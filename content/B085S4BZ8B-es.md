@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Rollo Césped de 7mm 2x5 Metros'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085S4BZ8B/?tag=tolees-21'
 descuento: '31.44'
 average: '40.45'

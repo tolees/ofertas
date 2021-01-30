@@ -16,6 +16,7 @@ comparePrice: 44.95 EUR
 prodname: 'Adidas Duramo 9 K  Zapatillas de Deporte Unisex Adulto  Azul  Azul/Ftwbla/Negbás 000   39 1/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DRSYVJM/?tag=tolees-21'
 descuento: '37.69'
 average: '28.01'

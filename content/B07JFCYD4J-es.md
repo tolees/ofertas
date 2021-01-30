@@ -16,6 +16,7 @@ comparePrice: 23.62 EUR
 prodname: 'towinle 3 m 20 leds luz cadena marroquí LED Luz Blanco Cálido bolas con motivos orientales Plata LED cadena funciona con pilas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JFCYD4J/?tag=tolees-21'
 descuento: '40.01'
 average: '14.17'

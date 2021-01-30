@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'Intex 58762EU - Colchoneta hinchable Cucurucho fresa 107 x 224 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0756WD4VL/?tag=tolees-21'
 descuento: '33.44'
 average: '11.353333333333333'

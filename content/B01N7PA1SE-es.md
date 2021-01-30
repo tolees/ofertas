@@ -16,6 +16,7 @@ comparePrice: 12.95 EUR
 prodname: 'El Hombre Tranquilo/ The Quiet Man [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N7PA1SE/?tag=tolees-21'
 descuento: '30.50'
 average: '9.0'

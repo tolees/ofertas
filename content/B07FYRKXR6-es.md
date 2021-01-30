@@ -16,6 +16,7 @@ comparePrice: 189.99 EUR
 prodname: 'FIXKIT Silla Oficina Ergonómica Giratoria 360°  Silla de Escritorio de Malla con Altura  Reposabrazos y Apoyabrazos Ajustables  Transpirable  Carga Máx.150Kg - Negro/Grisáceo  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FYRKXR6/?tag=tolees-21'
 descuento: '26.32'
 average: '140.49'

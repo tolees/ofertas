@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'SlowTon Dog Dog Doble cinturón de Seguridad con Correa  sin enredo Pet Correa elástica Ajustable Tira Reflectante cinturón de Seguridad Separador  Negro  Cinturón de Seguridad Doble del Perro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D11ZKYL/?tag=tolees-21'
 descuento: '41.68'
 average: '13.99'

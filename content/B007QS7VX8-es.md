@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Pierre Lannier 295C488 - Reloj analógico de Cuarzo para Hombre con Correa de Piel  Color Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007QS7VX8/?tag=tolees-21'
 descuento: '35.18'
 average: '129.0'

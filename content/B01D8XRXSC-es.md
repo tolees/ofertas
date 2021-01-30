@@ -16,6 +16,7 @@ comparePrice: 153.5 EUR
 prodname: 'Parlux Advance Light - Secador de pelo ionico  Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01D8XRXSC/?tag=tolees-21'
 descuento: '31.81'
 average: '96.24666666666667'

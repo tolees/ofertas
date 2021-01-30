@@ -16,6 +16,7 @@ comparePrice: 19.35 EUR
 prodname: '3 x 70m de cuerda de algodón cinta cordel Bakers regalo  diseño de cuerda bola para floristería  regalos y jardín y decoración del hogar 2 mm en diámetro  1 rojo  1 azul  1 negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078R4M2HN/?tag=tolees-21'
 descuento: '38.04'
 average: '11.99'

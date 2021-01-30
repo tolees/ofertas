@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'VicTsing Lámpara de Mesa 18 LEDs Recargable con 60 Horas de Autonomía  Lampara de Escritorio con Brillo Regulable 20%-100%  Función de Memoria  Control Táctil y Cuidado de Ojos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KQ25CHZ/?tag=tolees-21'
 descuento: '60.02'
 average: '15.989999999999998'

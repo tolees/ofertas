@@ -16,6 +16,7 @@ comparePrice: 9.61 EUR
 prodname: 'Schwarzkopf Igora Royal Color and Care Developer 3 10 Vol 1000ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0015APMKW/?tag=tolees-21'
 descuento: '42.87'
 average: '5.49'

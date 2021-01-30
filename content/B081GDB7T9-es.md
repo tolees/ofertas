@@ -16,6 +16,7 @@ comparePrice: 109.99 EUR
 prodname: 'BLU Ray 4k Grabadora DVD Reproductor Externo Portatil USB 3.0 Grabadora de Quemador Regrabadora Lector de CD DVD Disco para Windows7/8/10 Linux Mac Os  PC'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081GDB7T9/?tag=tolees-21'
 descuento: '26.37'
 average: '80.99'

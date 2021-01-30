@@ -16,6 +16,7 @@ comparePrice: 280.0 EUR
 prodname: 'Orient FAC08004D0 - Reloj de Pulsera para Hombre  Azul/Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0794Z9HKP/?tag=tolees-21'
 descuento: '53.45'
 average: '138.10000000000002'

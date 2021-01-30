@@ -16,6 +16,7 @@ comparePrice: 449.0 EUR
 prodname: 'LG CineBeam PH30JG - Proyector con batería integrada  hasta 100"  autonomía 4 horas  fuente LED  250 lúmenes  1280 x 720  Color Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0759VT1ZN/?tag=tolees-21'
 descuento: '28.73'
 average: '334.5183333333333'

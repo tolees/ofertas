@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'Scholl Plantilla In-Balance para el alivio del dolor de rodilla y talón  1 par  talla S  37 - 39.5 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZC7SGYS/?tag=tolees-21'
 descuento: '30.73'
 average: '14.54'

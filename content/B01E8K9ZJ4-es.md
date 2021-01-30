@@ -16,6 +16,7 @@ comparePrice: 18.61 EUR
 prodname: 'Ayotu Water-Safe Case for Kindle Paperwhite 2018 - PU Leather Smart Cover with Auto Wake/Sleep - Fits Amazon All-New Kindle Paperwhite Leather Cover  10th Generation-2018  K10 The Boy and Fox'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01E8K9ZJ4/?tag=tolees-21'
 descuento: '46.32'
 average: '12.063333333333334'

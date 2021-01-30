@@ -16,6 +16,7 @@ comparePrice: 83.96 EUR
 prodname: 'Dior Joy 90 ml Mujeres - Eau de parfum  Mujeres  90 ml  Envase no recargable  Bergamota  Mandarin  Jazmín  Rosa  Musk o almizcle '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GPSHMHK/?tag=tolees-21'
 descuento: '44.50'
 average: '48.275000000000006'

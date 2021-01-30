@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'Columbia Five Forks Mid  Botas de Senderismo Impermeables para Hombre  Gris  Dark Grey  Flam 089   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JHXB5WG/?tag=tolees-21'
 descuento: '42.23'
 average: '73.60499999999999'

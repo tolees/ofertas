@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'PUMA Smash V2 L JR  Zapatillas Unisex Adulto  Blanco White White  36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076G4TY1Q/?tag=tolees-21'
 descuento: '70.19'
 average: '15.08125'

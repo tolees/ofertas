@@ -16,6 +16,7 @@ comparePrice: 44.9 EUR
 prodname: 'Beurer BM28 Onpack - Tensiómetro de brazo con adaptador'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0773RS2JZ/?tag=tolees-21'
 descuento: '33.21'
 average: '34.90692307692308'

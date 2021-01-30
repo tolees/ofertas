@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'ZHXMALL [1 Unidades] Samsung Galaxy S9 Protector Pantalla  Cristal Templado [2.5D Round Edge] [Dureza 9H] [Sin Burbujas] [Anti-Huellas] Vidrio Templado Protector de Pantalla para Samsung Galaxy S9'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H29J8CV/?tag=tolees-21'
 descuento: '88.10'
 average: '1.07'

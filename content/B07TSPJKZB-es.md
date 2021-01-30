@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Women s Secret Helankas 3 Green Sujetador con Push-up  Verde  Verde Oscuro 20   90  Tamaño del Fabricante: 90B  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TSPJKZB/?tag=tolees-21'
 descuento: '66.68'
 average: '7.66'

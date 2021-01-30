@@ -16,6 +16,7 @@ comparePrice: 382.72 EUR
 prodname: 'Bestway 65046 - Barca Hinchable Neumática Bestway Hydro-Force Caspian  230 x 137 x 37 cm  - Capacidad para 2 adultos  soporte para motor  inflador y remos de aluminio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00CC8ZXTQ/?tag=tolees-21'
 descuento: '43.70'
 average: '215.48'

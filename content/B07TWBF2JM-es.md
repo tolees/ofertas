@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Levi s 501 Short Long Pantalones Cortos  Blanco  Beg Two Differ 0017   W29  Talla del Fabricante: 29  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TWBF2JM/?tag=tolees-21'
 descuento: '36.38'
 average: '34.99'

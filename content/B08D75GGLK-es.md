@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'N-a Amplificador Señal WiFi  300Mbps/2.4 GHz Repetidores WiFi Amplificador Extensor de WiFi con Largo Alcance Modo Punto de Acceso/Repeater/Router/Cliente 2 Puerto LAN/WAN  4 Antenas Externas  WPS '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08D75GGLK/?tag=tolees-21'
 descuento: '40.01'
 average: '23.99'

@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'PUMA Shift Mesh Tight Mallas Deporte  Mujer  Black-Blue Glimmer  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QB97R1C/?tag=tolees-21'
 descuento: '60.45'
 average: '23.71'

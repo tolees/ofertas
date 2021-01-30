@@ -16,6 +16,7 @@ comparePrice: 5.47 EUR
 prodname: 'Funko- Pocket Pop Keychain: Avengers Endgame: Thanos Collectible Figure  Multicolor  Estándar  36680 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MCP1N7G/?tag=tolees-21'
 descuento: '26.87'
 average: '4.975'

@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'New Journey Profesional Puzzles Cubo 3x3'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NTGWK1X/?tag=tolees-21'
 descuento: '55.05'
 average: '9.290000000000001'

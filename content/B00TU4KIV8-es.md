@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Ecogarden Irisana 72.EG11.B Mesa de Cultivo Vertical  Blanco  34x34x120 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00TU4KIV8/?tag=tolees-21'
 descuento: '29.16'
 average: '42.39'

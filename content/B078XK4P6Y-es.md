@@ -16,6 +16,7 @@ comparePrice: 523.93 EUR
 prodname: 'Hp USB-c Universal Dock w/4.5mm Adapter USB 3.0  3.1 Gen 1 .'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078XK4P6Y/?tag=tolees-21'
 descuento: '59.24'
 average: '204.65333333333334'

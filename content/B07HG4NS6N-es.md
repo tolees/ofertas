@@ -16,6 +16,7 @@ comparePrice: 100 EUR
 prodname: 'New Balance 247v2  Zapatillas para Mujer  Rosa  Pink Pink   35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HG4NS6N/?tag=tolees-21'
 descuento: '50.00'
 average: '50.894999999999996'

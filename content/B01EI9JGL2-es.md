@@ -16,6 +16,7 @@ comparePrice: 99.74 EUR
 prodname: 'adidas Gazelle  Zapatillas de deporte Unisex Adulto  Varios colores  Core Black/White/Gold Metalic   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01EI9JGL2/?tag=tolees-21'
 descuento: '41.08'
 average: '58.86'

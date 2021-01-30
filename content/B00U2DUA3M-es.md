@@ -16,6 +16,7 @@ comparePrice: 58.0 EUR
 prodname: 'Elizabeth Arden Ceramide Flawless Future Ceramide Crema nocturno 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00U2DUA3M/?tag=tolees-21'
 descuento: '43.12'
 average: '33.20666666666666'

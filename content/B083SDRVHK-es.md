@@ -16,6 +16,7 @@ comparePrice: 46.55 EUR
 prodname: 'Aparato de masaje Icetek para hombros  espalda  cuello  Shiatsu con función de calor  velocidad ajustable  amasado profundo  cojín de masaje eléctrico  16 cabezales de masaje  regalos  mujeres  hombres  oficina  coche  casa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083SDRVHK/?tag=tolees-21'
 descuento: '36.63'
 average: '29.5'

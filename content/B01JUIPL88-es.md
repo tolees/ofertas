@@ -16,6 +16,7 @@ comparePrice: 78.99 EUR
 prodname: 'Aingoo Silla de Escritorio para niños Silla para niños Silla giratoria para niños Silla giratoria para niños Silla ergonómica Ajustable en Altura para niñas Niños Youth Resilient 100KG Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01JUIPL88/?tag=tolees-21'
 descuento: '25.32'
 average: '55.24'

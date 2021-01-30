@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'Balanza de cocina mecánica con BOL Laica K 711 pesa hasta 1kg. color blanco  diseño clásico.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0050IHWYO/?tag=tolees-21'
 descuento: '64.47'
 average: '15.355'

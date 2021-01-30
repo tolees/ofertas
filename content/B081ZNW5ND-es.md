@@ -16,6 +16,7 @@ comparePrice: 6.99 EUR
 prodname: 'Roll para Joyería  GIKPAL joyas rollo de bolsa organizador de Viaje con espejo para Collares Pendientes Pulseras Anillos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081ZNW5ND/?tag=tolees-21'
 descuento: '42.92'
 average: '3.99'

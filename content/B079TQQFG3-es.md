@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Russell Hobbs Steam Power - Centro de Planchado  2600 W  Suela Cerámica  Depósito 1 3l  Antical  Azul  - ref. 24430-56'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079TQQFG3/?tag=tolees-21'
 descuento: '49.23'
 average: '65.99'

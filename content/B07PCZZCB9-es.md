@@ -16,6 +16,7 @@ comparePrice: 48.05 EUR
 prodname: 'Hoover SGE1000 Limpiador seco para tejidos  Vapor húmedo para superficies duras  Múltiples accesorios  1000W  4 Bares  Lista en 2min  Depósito 0 37 litros  20min  Cable 5m  Titanio/Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PCZZCB9/?tag=tolees-21'
 descuento: '27.55'
 average: '38.435'

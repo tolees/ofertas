@@ -16,6 +16,7 @@ comparePrice: 18.54 EUR
 prodname: 'JUGUETE DE PINTURA POR NUMEROS - Flores - INTERHOME©'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B017VSV2VO/?tag=tolees-21'
 descuento: '46.12'
 average: '9.99'

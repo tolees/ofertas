@@ -16,6 +16,7 @@ comparePrice: 33.05 EUR
 prodname: 'Gioseppo  Zapatillas para Hombre  Verde  Kaki 45574-P   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DG6J42K/?tag=tolees-21'
 descuento: '44.96'
 average: '18.19'

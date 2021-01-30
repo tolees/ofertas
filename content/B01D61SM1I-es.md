@@ -16,6 +16,7 @@ comparePrice: 141.5 EUR
 prodname: 'Trangoworld Ghawdex Sn Pantalones Largos  Hombre  Azul Royal/Antracita  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01D61SM1I/?tag=tolees-21'
 descuento: '49.83'
 average: '70.99'

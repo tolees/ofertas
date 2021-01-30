@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'Adidas Deerupt Runner I  Zapatillas de Deporte Unisex niño  Blanco  Blanco 000   27 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NJGZZJC/?tag=tolees-21'
 descuento: '35.94'
 average: '35.2'

@@ -16,6 +16,7 @@ comparePrice: 4.38 EUR
 prodname: 'FIND - Deep Dusk  Perfilador de labios n.3 + Líquido de labios brillante n.3 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CVBQZN6/?tag=tolees-21'
 descuento: '42.69'
 average: '2.6449999999999996'

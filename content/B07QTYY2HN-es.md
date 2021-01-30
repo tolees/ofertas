@@ -16,6 +16,7 @@ comparePrice: 28.31 EUR
 prodname: 'Kidear Serie de Calzón Suave de Algodón Calzoncillo para Niñas  Paquete de 8   Estilo4  2-3 Años '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QTYY2HN/?tag=tolees-21'
 descuento: '39.99'
 average: '16.99'

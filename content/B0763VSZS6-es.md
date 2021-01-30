@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Funko Pop!- Sonic: Shadow Figura de Vinilo  20148 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0763VSZS6/?tag=tolees-21'
 descuento: '41.19'
 average: '9.38'

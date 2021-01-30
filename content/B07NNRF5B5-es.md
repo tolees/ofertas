@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'Levi s LEVIS FOOTWEAR AND ACCESSORIES Cloverdale Cinturón  Marrón  Brown 28   95 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NNRF5B5/?tag=tolees-21'
 descuento: '56.43'
 average: '16.65'

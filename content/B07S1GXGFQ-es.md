@@ -16,6 +16,7 @@ comparePrice: 13.96 EUR
 prodname: 'adidas Cpt Soccer Ball  Hombres  White/Rainbow Reflective  4'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S1GXGFQ/?tag=tolees-21'
 descuento: '28.58'
 average: '11.965'

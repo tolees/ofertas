@@ -16,6 +16,7 @@ comparePrice: 6.99 EUR
 prodname: 'Wanme Correas Compatible con Xiaomi Mi Band 5 Pulsera Reloj Silicona Banda Original para Xiaomi Mi Smart Band 5 Recambio Pulsera Correa  6 Pack '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08FYG4NZY/?tag=tolees-21'
 descuento: '30.04'
 average: '6.29'

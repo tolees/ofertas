@@ -16,6 +16,7 @@ comparePrice: 217.0 EUR
 prodname: 'Versace Jeans CoutureBorsaMujerBolsos mochilaMorado  Accademi  10x20.5x19 5 centimeters  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NLLF6SK/?tag=tolees-21'
 descuento: '60.37'
 average: '86.0'

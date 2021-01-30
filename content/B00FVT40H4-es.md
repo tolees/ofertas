@@ -16,6 +16,7 @@ comparePrice: 6.28 EUR
 prodname: 'WP WPN-ABP-1-B Accesorio de Bastidor - Accesorio de Rack  Negro  48 3 cm  19"   483 mm  42 mm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00FVT40H4/?tag=tolees-21'
 descuento: '57.96'
 average: '2.64'

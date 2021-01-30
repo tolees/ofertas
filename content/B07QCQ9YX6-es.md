@@ -16,6 +16,7 @@ comparePrice: 9.0 EUR
 prodname: 'Funko Pop Figura De Vinil TV: Mad Men-Betty Coleccionable  Multicolor  Talla única  43405 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QCQ9YX6/?tag=tolees-21'
 descuento: '33.44'
 average: '6.595000000000001'

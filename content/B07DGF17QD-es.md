@@ -16,6 +16,7 @@ comparePrice: 21.58 EUR
 prodname: 'Skechers Women s Flex Appeal 3.0-Billow Trainers  Black  Taupe Mesh/Duraleather/Trim Bbk   2.5 UK  35.5 EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DGF17QD/?tag=tolees-21'
 descuento: '26.32'
 average: '19.26'

@@ -16,6 +16,7 @@ comparePrice: 13.09 EUR
 prodname: 'Filtro de admisión de aire Kit de filtro de admisión de aire Mejorado drásticamente Filtro de eficiencia de inducción de aire para vehículos con entradas de aire universales de 13 mm 蓝色 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TSJHJBM/?tag=tolees-21'
 descuento: '26.74'
 average: '9.59'

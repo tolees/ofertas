@@ -16,6 +16,7 @@ comparePrice: 120.09 EUR
 prodname: 'Impresora Multifuncional Canon PIXMA TR7550 Negra Wifi de inyección de tinta con Fax y ADF'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075BMNC5Y/?tag=tolees-21'
 descuento: '35.01'
 average: '80.64'

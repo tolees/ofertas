@@ -16,6 +16,7 @@ comparePrice: 40 EUR
 prodname: 'find. Pantalones de Talle Alto Mujer  Negro  Black   36  Talla del fabricante: X-Small '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077NG97XN/?tag=tolees-21'
 descuento: '50.00'
 average: '20'

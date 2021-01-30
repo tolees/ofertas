@@ -16,6 +16,7 @@ comparePrice: 28.16 EUR
 prodname: 'DiMarzio EP1104 - Selector de pastilla para guitarra  5 posiciones'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003NZ6F6M/?tag=tolees-21'
 descuento: '25.53'
 average: '20.97'

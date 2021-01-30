@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Bolsa de aseo transparente + 7 ollas  contenedores  botellas planas  bolsa de viaje de PVC  bolsas de maquillaje portátiles a prueba de agua para mujeres y hombres'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JWG6B8Y/?tag=tolees-21'
 descuento: '47.85'
 average: '12.24'

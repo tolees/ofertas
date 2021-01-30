@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Tommy Hilfiger TJM Tommy Classics Solid Polo  Rojo  Flame Scarlet 667   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JR9PQ62/?tag=tolees-21'
 descuento: '50.91'
 average: '27.0'

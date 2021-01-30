@@ -16,6 +16,7 @@ comparePrice: 249.0 EUR
 prodname: 'Michael Kors Reloj Analógico para Mujer de Cuarzo con Correa en Cuero MK2775'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F9LKJH1/?tag=tolees-21'
 descuento: '46.33'
 average: '144.05599999999998'

@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'Muñeco Diabolico BD + DVD de Extras + Slip Cover  1988 Child s Play [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TGL8RQX/?tag=tolees-21'
 descuento: '46.49'
 average: '8.870000000000001'

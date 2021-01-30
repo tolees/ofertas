@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Adidas Court Adapt  Zapatillas de Tenis para Hombre  Blanco  Ftwbla/Ftwbla/Verde 000   39 1/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DNG98SD/?tag=tolees-21'
 descuento: '35.74'
 average: '44.95'

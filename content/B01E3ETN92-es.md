@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'Maybelline New York Eyeliner Master Precise Curvy  Tono 01 Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01E3ETN92/?tag=tolees-21'
 descuento: '30.29'
 average: '5.28'

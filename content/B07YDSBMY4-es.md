@@ -16,6 +16,7 @@ comparePrice: 17.49 EUR
 prodname: 'Real Madrid CF- Estuche  Color Negro  SAFTA 811934635 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YDSBMY4/?tag=tolees-21'
 descuento: '63.12'
 average: '6.45'

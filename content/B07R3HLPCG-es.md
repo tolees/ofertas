@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'GeeRic Ventilador USB Mini Ventilador Deportivo Cuello Colgante Ventilador portátil Plegable Silencioso Ventilador de Mesa para Cocina Deportiva Viaje de Oficina con 3 velocidades Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R3HLPCG/?tag=tolees-21'
 descuento: '28.43'
 average: '9.936000000000002'

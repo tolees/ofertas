@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'AmazonBasics - Juego de cama de franela con funda nórdica - 200 x 200 cm/50 x 80 cm x 2  Azul marino'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F3X4PZJ/?tag=tolees-21'
 descuento: '25.01'
 average: '24.74'

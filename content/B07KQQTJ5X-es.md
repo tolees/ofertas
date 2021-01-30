@@ -16,6 +16,7 @@ comparePrice: 109.95 EUR
 prodname: 'Salomon ALPHACROSS GTX W  Zapatillas de Trail Running para Mujer  Rojo  Garnet Rose/White/Gum1a   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KQQTJ5X/?tag=tolees-21'
 descuento: '66.62'
 average: '33.175'

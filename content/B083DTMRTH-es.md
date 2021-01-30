@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'UGREEN Alfombrillas de Ratón Aluminio  Impermeable Alfombrilla Ratón Ordenador con Base PU Goma Antideslizante  Alfombrilla Ratón Metalica para Gaming Oficina PC Portátil  Doble Cara Mouse Pad Plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083DTMRTH/?tag=tolees-21'
 descuento: '30.94'
 average: '8.28'

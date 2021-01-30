@@ -16,6 +16,7 @@ comparePrice: 17.95 EUR
 prodname: 'Nike W Nk Dry Acdmy18 Top SS T-Shirt  Mujer  lt Green Spark/Pine Green/ White   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079P7CRJJ/?tag=tolees-21'
 descuento: '30.08'
 average: '12.55'

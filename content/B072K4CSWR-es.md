@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'COMPRESSPORT Compress Port Hombre V3 Sock Low Unidad Calcetines de Profundidad  Hombre  Color Negro  tamaño Medium'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072K4CSWR/?tag=tolees-21'
 descuento: '31.27'
 average: '10.99'

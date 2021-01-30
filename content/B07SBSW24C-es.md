@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'MUSITREND Tocadiscos de Vinilo con 2 Altavoces incorporados  3-velocidades 33/45/78 RPM  Madera Natural'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SBSW24C/?tag=tolees-21'
 descuento: '46.93'
 average: '68.49'

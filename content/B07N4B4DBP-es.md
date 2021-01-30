@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'Piz Buin - Protector Solar  Hydro Infusion Crema Solar Facial en Gel SPF 30 Protección Alta'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N4B4DBP/?tag=tolees-21'
 descuento: '47.89'
 average: '10.37'

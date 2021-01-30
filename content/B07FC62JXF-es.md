@@ -16,6 +16,7 @@ comparePrice: 26.26 EUR
 prodname: '1 Unidad de Medidor de Presión de Aire para Pelotas de Fútbol Baloncesto'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FC62JXF/?tag=tolees-21'
 descuento: '44.44'
 average: '12.527142857142858'

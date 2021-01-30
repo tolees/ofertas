@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Scitec Nutrition Proteína De Suero Professional con Sabor de Naranja  Chocolate - 920 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00W7K6E5Q/?tag=tolees-21'
 descuento: '31.33'
 average: '17.71'

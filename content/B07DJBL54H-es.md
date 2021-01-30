@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Altavoz Bluetooth Portatiles  IPX6 Impermeable  20W Altavoz Inalambrico portátil con Estéreo Premium  24 Horas de Reproducción Continua  Es Idea para Hogar  Fiesta  Coche  Viajes  Playa  Piscina'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DJBL54H/?tag=tolees-21'
 descuento: '40.01'
 average: '23.99'

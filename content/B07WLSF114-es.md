@@ -16,6 +16,7 @@ comparePrice: 169.99 EUR
 prodname: 'adidas Sport RPT-01 Bluetooth Auriculares  Gris Noche'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WLSF114/?tag=tolees-21'
 descuento: '50.02'
 average: '84.96'

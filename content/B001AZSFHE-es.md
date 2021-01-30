@@ -16,6 +16,7 @@ comparePrice: 55.95 EUR
 prodname: 'Solgar D-Ribosa en Polvo 150 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001AZSFHE/?tag=tolees-21'
 descuento: '58.18'
 average: '23.4'

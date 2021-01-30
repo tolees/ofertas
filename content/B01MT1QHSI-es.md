@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Reebok Royal Glide Rplclp  Zapatillas de Trail Running para Mujer  Blanco  White/White/Silver Met White/White/Silver Met   35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MT1QHSI/?tag=tolees-21'
 descuento: '27.65'
 average: '46.99'

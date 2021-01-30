@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Peine Eléctrico para Hombres - AKIMO Plancha de Pelo con Cepillo Caliente  Alisadora de Pelo para Alisar y Modelar Cabello Barba sin Engancharse y Tirón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RTVXRBP/?tag=tolees-21'
 descuento: '50.03'
 average: '9.99'

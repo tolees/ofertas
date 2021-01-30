@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Belkin Boost Charger - Cargador para coche USB-C  18 W  con cable de USB-C de Lightning de 1.2 m  carga rápida para iPhone 11  11 Pro/Pro Max  XS/XS Max  XR  X  SE  8  8 Plus y iPad Pro  10.5 pulgadas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TWK13YF/?tag=tolees-21'
 descuento: '30.01'
 average: '24.49'

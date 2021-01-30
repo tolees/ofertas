@@ -16,6 +16,7 @@ comparePrice: 19.98 EUR
 prodname: 'touchbeauty ag-0676 3-en-1 Set Manicura y Pedicura Eléctrica mujeres limage y el pulido de las uñas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CVK2M57/?tag=tolees-21'
 descuento: '35.04'
 average: '12.98'

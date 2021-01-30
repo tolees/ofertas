@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: '16V Adaptador de fuente alimentación para Canon imageFORMULA DR-C125 DR-C130 DR-C225 Escáner Canon Pixma iP90 iP100 iP110 IP8750 IP7250 Fujitsu ScanSnap S510 S500M iX500 LifeBook S6200 S6210 Cargador'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V3BXRMS/?tag=tolees-21'
 descuento: '55.01'
 average: '17.99'

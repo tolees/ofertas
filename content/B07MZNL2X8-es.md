@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Gioseppo 56776  Zapatillas Altas para Mujer  Azul  Marino Marino   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZNL2X8/?tag=tolees-21'
 descuento: '65.06'
 average: '24.44'

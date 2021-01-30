@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Cocktail Games- Plouf Party - Español  Color  Asmodee CGPP0001 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G5L76LK/?tag=tolees-21'
 descuento: '54.20'
 average: '7.296666666666666'

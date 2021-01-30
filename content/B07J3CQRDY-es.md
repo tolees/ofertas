@@ -16,6 +16,7 @@ comparePrice: 17.24 EUR
 prodname: 'Under Armour Playoff 2.0 Polo  Hombre  Azul  Academy/Optic Purple 414   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J3CQRDY/?tag=tolees-21'
 descuento: '28.31'
 average: '12.36'

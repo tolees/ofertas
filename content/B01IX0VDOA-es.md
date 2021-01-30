@@ -16,6 +16,7 @@ comparePrice: 49.1 EUR
 prodname: 'Triumph Amourette 300 W X  Sujetador Mujer  Beige  SKIN   75B'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IX0VDOA/?tag=tolees-21'
 descuento: '48.59'
 average: '25.24'

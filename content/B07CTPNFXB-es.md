@@ -16,6 +16,7 @@ comparePrice: 4.81 EUR
 prodname: 'FIND - Fab-mania  Líquido de labios mate n.4 + Brillo de labios n.4 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CTPNFXB/?tag=tolees-21'
 descuento: '41.16'
 average: '2.83'

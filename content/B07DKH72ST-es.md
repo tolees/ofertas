@@ -16,6 +16,7 @@ comparePrice: 37.0 EUR
 prodname: 'Kipling - Creativity Xl  Monederos Mujer  Multicolor  Dynamic Dots '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DKH72ST/?tag=tolees-21'
 descuento: '32.08'
 average: '23.546666666666667'

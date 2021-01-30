@@ -16,6 +16,7 @@ comparePrice: 91.95 EUR
 prodname: 'Asics Gel-Cumulus 20  Zapatillas de Entrenamiento para Hombre  Negro  Black/White 002   44.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CZ1YQNP/?tag=tolees-21'
 descuento: '40.20'
 average: '73.405'

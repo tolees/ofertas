@@ -16,6 +16,7 @@ comparePrice: 37.6 EUR
 prodname: 'P Prettyia Fragancia de Perfume de Hombre de 50 ml  Hombre Atomizador Fragancias para Usar en Oficina  Deportes  Citas y Fiestas - Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084VRX92F/?tag=tolees-21'
 descuento: '44.44'
 average: '20.89'

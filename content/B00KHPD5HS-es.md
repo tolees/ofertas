@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Belkin MIXIT - Cable metálico de Lightning a USB con certificación MFi para iPhone XS  XS Max  XR  X  8/8 plus y otros  1 2 metros   dorado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KHPD5HS/?tag=tolees-21'
 descuento: '51.58'
 average: '12.1'

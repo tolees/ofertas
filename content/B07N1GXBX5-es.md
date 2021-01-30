@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Kipling ONALO PACKABLE - Bolsa de viaje  25 liters  Multicolor  CAMO L Light '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N1GXBX5/?tag=tolees-21'
 descuento: '34.58'
 average: '29.44'

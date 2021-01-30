@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'Finish Powerball All in 1 Max - Pastillas para el lavavajillas todo en 1-35 pastillas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00UCC2O7I/?tag=tolees-21'
 descuento: '25.36'
 average: '7.255714285714285'

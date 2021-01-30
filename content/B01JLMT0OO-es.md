@@ -16,6 +16,7 @@ comparePrice: 13.95 EUR
 prodname: 'L Oréal Paris Color Riche  Barra De Labios  Gold Obsession 36-1 Barra De Labios'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01JLMT0OO/?tag=tolees-21'
 descuento: '29.39'
 average: '9.216666666666667'

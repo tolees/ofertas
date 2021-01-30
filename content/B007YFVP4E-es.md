@@ -16,6 +16,7 @@ comparePrice: 148.57 EUR
 prodname: 'Faro Barcelona 70754 - AGRA Baliza  bombilla incluida  LED  6W  aluminio inyectado y cristal transparente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007YFVP4E/?tag=tolees-21'
 descuento: '28.81'
 average: '105.76'

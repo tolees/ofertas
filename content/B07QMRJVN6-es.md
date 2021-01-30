@@ -16,6 +16,7 @@ comparePrice: 31.98 EUR
 prodname: 'Keenstone Almohada de Viaje  Almohada para el Cuello Hecha de Espuma de Memoria Suave con Tapones para Los Oídos  Almohada Cervical con Función de Soporte Respirable y Ergonómica'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QMRJVN6/?tag=tolees-21'
 descuento: '53.13'
 average: '15.24'

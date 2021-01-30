@@ -16,6 +16,7 @@ comparePrice: 159.95 EUR
 prodname: 'G-STAR RAW 5620 3D S Tapered Jeans  Azul  Medium Vintage Aged 9436-4970   32W / 32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076VNPPXG/?tag=tolees-21'
 descuento: '38.11'
 average: '82.782'

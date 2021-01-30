@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Pepe Jeans Vincent Polo  Gris  Grey Marl 933   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078TLM39T/?tag=tolees-21'
 descuento: '52.43'
 average: '18.98'

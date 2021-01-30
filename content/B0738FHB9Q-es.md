@@ -16,6 +16,7 @@ comparePrice: 14.49 EUR
 prodname: 'Amazon Essentials Fleece-Outerwear-Jackets  Jaspeado Gris carbón  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0738FHB9Q/?tag=tolees-21'
 descuento: '38.51'
 average: '8.91'

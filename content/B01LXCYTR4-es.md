@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Brabantia Cubo de Basura con Pedal  Inoxidable  Acero Brillante  30 l'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LXCYTR4/?tag=tolees-21'
 descuento: '34.13'
 average: '50.666666666666664'

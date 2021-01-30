@@ -16,6 +16,7 @@ comparePrice: 4.99 EUR
 prodname: 'Rayen 6154.02-Protector para Planchar sobremesa  Color Estampado Confetti  Algodón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01JJ3GWRI/?tag=tolees-21'
 descuento: '25.05'
 average: '5.09'

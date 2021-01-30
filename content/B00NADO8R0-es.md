@@ -16,6 +16,7 @@ comparePrice: 5.8 EUR
 prodname: 'Foto Transfer 75ML La Pajarita'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NADO8R0/?tag=tolees-21'
 descuento: '47.41'
 average: '3.05'

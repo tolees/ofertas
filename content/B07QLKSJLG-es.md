@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'DlandHome Estantería Cocina Multiuso para Horno Microondas con Organizador de Especias & Caja de almacenamiento de frutas & Ganchos para Utensilios de cocina  Arce'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QLKSJLG/?tag=tolees-21'
 descuento: '44.45'
 average: '54.99'

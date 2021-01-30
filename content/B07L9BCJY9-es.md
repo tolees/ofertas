@@ -16,6 +16,7 @@ comparePrice: 101.0 EUR
 prodname: 'Nike Legend React 2  Zapatillas de Trail Running para Hombre  Negro  Black/Anthracite/Dark Grey 2   42.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L9BCJY9/?tag=tolees-21'
 descuento: '60.59'
 average: '39.8'

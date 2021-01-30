@@ -16,6 +16,7 @@ comparePrice: 47.85 EUR
 prodname: 'SYROKAN Sujetador Deportivo para Mujer Alto Impacto Sujetador Deportivo con Cremallera Negro ES:95C  EU 80C '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082VYH4BG/?tag=tolees-21'
 descuento: '41.50'
 average: '27.99'

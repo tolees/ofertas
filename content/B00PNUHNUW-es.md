@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'adidas Superstar Foundation Zapatillas   Blanco  White B27136   46 2/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00PNUHNUW/?tag=tolees-21'
 descuento: '44.70'
 average: '56.135'

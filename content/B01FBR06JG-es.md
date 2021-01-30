@@ -16,6 +16,7 @@ comparePrice: 116.02 EUR
 prodname: 'Downton Abbey - Temporadas 1-6 [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FBR06JG/?tag=tolees-21'
 descuento: '56.90'
 average: '59.766666666666666'

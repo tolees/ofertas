@@ -16,6 +16,7 @@ comparePrice: 169.99 EUR
 prodname: 'Razer Kraken Kitty Quartz Edition Auriculares Gaming con USB con Orejas de Gato  Iluminación Chroma  con cable para juegos multiplataforma  Diafragma 50 mm  Cable de 3.5mm  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WC9KLFZ/?tag=tolees-21'
 descuento: '47.06'
 average: '129.99'

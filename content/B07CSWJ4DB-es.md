@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Cecotec Ventilador de Pie ForceSilence 500. 5 Aspas  Oscilante  3 Velocidades  Ajustable 115-135cm   Motor de Cobre  40W'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CSWJ4DB/?tag=tolees-21'
 descuento: '29.18'
 average: '20.873333333333335'

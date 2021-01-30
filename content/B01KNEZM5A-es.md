@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Finether-Joyero Bloqueable（Caja para joyas Estuche Arqueado para Guardar Comésticas  Espejo y Cajones Textura de Cuero de Cocodrilo Tapa Elevable ）Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01KNEZM5A/?tag=tolees-21'
 descuento: '28.34'
 average: '42.99'

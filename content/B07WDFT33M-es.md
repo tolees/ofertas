@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'JOEAIS Tableta de Escritura LCD Color 8 5 Pulgadas Doodle Tabler de Escritura electrónica Tablero de Dibujo Digital Tableta de Dibujo gráfico Adecuado para niños  hogar  Escuela  Oficina  Blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WDFT33M/?tag=tolees-21'
 descuento: '35.31'
 average: '10.99'

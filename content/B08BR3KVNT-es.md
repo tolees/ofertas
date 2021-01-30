@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Beforya Paris** – Pendientes largos de plata de ley 925 – Pendientes con Swarovski® – Bonitos pendientes para mujer con caja de regalo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BR3KVNT/?tag=tolees-21'
 descuento: '40.01'
 average: '29.99'

@@ -16,6 +16,7 @@ comparePrice: 3.44 EUR
 prodname: 'Pantene Pro-V Perfect Volume Espuma Ligera Nivel de Fijación 3 - 25 cl'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01K7SETU6/?tag=tolees-21'
 descuento: '70.93'
 average: '1.0'

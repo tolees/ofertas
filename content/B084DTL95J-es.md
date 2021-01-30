@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Cartera Caballero en Piel napa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084DTL95J/?tag=tolees-21'
 descuento: '40.00'
 average: '15.0'

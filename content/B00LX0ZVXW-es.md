@@ -16,6 +16,7 @@ comparePrice: 21 EUR
 prodname: 'Clatronic TA 3565 Tostadora de Pan Pequeña con 2 Ranuras  3 Función  700 W  Plástico  Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00LX0ZVXW/?tag=tolees-21'
 descuento: '38.57'
 average: '12.9'

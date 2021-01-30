@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Vans Authentic  Zapatillas de Tela Unisex  Rojo  Red   36.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001KS44AI/?tag=tolees-21'
 descuento: '37.86'
 average: '40.39'

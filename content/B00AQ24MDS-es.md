@@ -16,6 +16,7 @@ comparePrice: 37.99 EUR
 prodname: 'Taurus Hipnos Power - Barbero con cuatro cabezales intercambiables  color gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00AQ24MDS/?tag=tolees-21'
 descuento: '66.31'
 average: '19.683333333333334'

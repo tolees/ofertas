@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'AZDOME Cámara de Visión Trasera para Coche con 120° Ángulo de Visión 640 x 480 Píxeles y 4 LED IPX67 Impermeable  Cámara Trasera para Dashcam GS63H'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DK7X7X5/?tag=tolees-21'
 descuento: '38.48'
 average: '15.99'

@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'RATEL Funda Protectora de Sombrilla  Impermeable Resistente al Agua al Aire Libre Patio  Oxford 420D Protectora para Parasol de Jardín Intemperie 9-11ft Bolsa de Almacenamiento con Cremallera'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MVZRT77/?tag=tolees-21'
 descuento: '25.64'
 average: '11.89'

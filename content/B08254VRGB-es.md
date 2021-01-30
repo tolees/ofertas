@@ -16,6 +16,7 @@ comparePrice: 12.95 EUR
 prodname: 'Paraguas Frozen 2 Disney Paraguas Cúpula Paraguas Automático Infantil Niña 45cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08254VRGB/?tag=tolees-21'
 descuento: '38.61'
 average: '7.95'

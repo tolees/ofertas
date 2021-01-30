@@ -16,6 +16,7 @@ comparePrice: 40.99 EUR
 prodname: 'Satechi ReadMate Lupa de escritorio LED  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00IIXBNK2/?tag=tolees-21'
 descuento: '26.84'
 average: '29.99'

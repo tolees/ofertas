@@ -16,6 +16,7 @@ comparePrice: 6.67 EUR
 prodname: 'Air Wick Freshmatic Life Ambientador Scents Oasis  Color Negro - 160 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MA4BOHU/?tag=tolees-21'
 descuento: '49.93'
 average: '3.34'

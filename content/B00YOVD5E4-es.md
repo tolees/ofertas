@@ -16,6 +16,7 @@ comparePrice: 179.99 EUR
 prodname: 'Thrustmaster T3PA Pro 3 Pedals Add-On - Classics [Importación Italiana]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00YOVD5E4/?tag=tolees-21'
 descuento: '31.79'
 average: '122.77'

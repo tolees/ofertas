@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'Funko Pop! - Figura de Vinilo Bashful  21719 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074NLPZFR/?tag=tolees-21'
 descuento: '26.49'
 average: '10.99'

@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'Sierras sable 18V brushless  POPOMAN Sierra Sable sin cables batería de 4.0Ah  velocidad 0-2500 SPM  con LED  carrera de corte 28 mm  2 cuchillas para cortes sofisticados y diferentes materiales.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084DB2LL5/?tag=tolees-21'
 descuento: '40.00'
 average: '119.99'

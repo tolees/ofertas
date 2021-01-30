@@ -16,6 +16,7 @@ comparePrice: 13.95 EUR
 prodname: 'Max Factor Lasting Performance Base de Maquillaje Líquida Tono 106 Natural Beige - 35 ml  el paquete puede variar '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001GNBVU8/?tag=tolees-21'
 descuento: '45.23'
 average: '7.295454545454546'

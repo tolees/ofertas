@@ -16,6 +16,7 @@ comparePrice: 49.4 EUR
 prodname: 'Vileda 141719 - Bayeta de microfibras antical  Azul  Pack de 5 piezas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N7FC8R5/?tag=tolees-21'
 descuento: '77.63'
 average: '11.05'

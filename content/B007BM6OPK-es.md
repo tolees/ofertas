@@ -16,6 +16,7 @@ comparePrice: 36.01 EUR
 prodname: 'Alco-367ALF-0030 Hamaca fibreline  Color Azul Verdoso  90x63.5x12 cm  1-367AZ '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007BM6OPK/?tag=tolees-21'
 descuento: '44.46'
 average: '20.0'

@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'PUMA Cali Wn s  Zapatillas para Mujer  Black-Teal Green  36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KFYNGJ1/?tag=tolees-21'
 descuento: '35.17'
 average: '56.45'

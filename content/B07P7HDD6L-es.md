@@ -16,6 +16,7 @@ comparePrice: 29.09 EUR
 prodname: 'Aigle Alten Leather  Zapatillas para Hombre  Marrón  Brown 001   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P7HDD6L/?tag=tolees-21'
 descuento: '34.99'
 average: '18.91'

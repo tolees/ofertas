@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Kelme - Zapatillas Indoor Copa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N0GN1J3/?tag=tolees-21'
 descuento: '50.00'
 average: '22.954'

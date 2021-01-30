@@ -16,6 +16,7 @@ comparePrice: 27.99 EUR
 prodname: 'Quiksilver Tijuana Hombre Gorra Trucker de 5 Paneles con Espuma  Multicolor  Dazzling Blue   1SZ'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0825NDQNG/?tag=tolees-21'
 descuento: '40.16'
 average: '16.75'

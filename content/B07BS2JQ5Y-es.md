@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'Levi s LEVIS FOOTWEAR AND ACCESSORIES CALYPSO Cinturón  Negro  R Black 59   90 para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BS2JQ5Y/?tag=tolees-21'
 descuento: '32.53'
 average: '26.99'

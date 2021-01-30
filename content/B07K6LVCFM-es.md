@@ -16,6 +16,7 @@ comparePrice: 112.27 EUR
 prodname: 'Asics Gel-Nimbus 21 1011a169-001  Zapatillas de Entrenamiento para Hombre  Negro  Black 1011a169/001   47 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K6LVCFM/?tag=tolees-21'
 descuento: '26.97'
 average: '81.99'

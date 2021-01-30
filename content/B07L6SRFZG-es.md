@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Jack & Jones Jjecorp Logo Sweat Hood Noos Hombre  Negro  Blackschwarz   X-Large'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L6SRFZG/?tag=tolees-21'
 descuento: '40.01'
 average: '16.99'

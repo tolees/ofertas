@@ -16,6 +16,7 @@ comparePrice: 19.38 EUR
 prodname: 'B Baosity 2 Pack Maleta Correa Mango Accesorio De Viaje Equipaje Correa Mango Agarre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W7P8F7S/?tag=tolees-21'
 descuento: '36.89'
 average: '12.23'

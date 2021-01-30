@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Amoladora Angular 18V Brushless  POPOMAN Angular Sin Escobillas 10000 RPM  batería de 4.0Ah  con mango lateral antivibración  5 ruedas de molienda Posición del mango auxiliar de 3  Cargador rápido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08917SLBT/?tag=tolees-21'
 descuento: '25.20'
 average: '93.89'

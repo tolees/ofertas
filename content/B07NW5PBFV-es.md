@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Skechers Women s SOLAR FUSE-BRISK ESCAPE Trainers  Black  Black Knit Mesh/White Trim BKW   6  39 EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NW5PBFV/?tag=tolees-21'
 descuento: '30.02'
 average: '48.95'

@@ -16,6 +16,7 @@ comparePrice: 25 EUR
 prodname: 'Element Carrier II Beanie Gorro  Hombre  Gris  Charcoal Heathe   Talla Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XH1NW11/?tag=tolees-21'
 descuento: '50.00'
 average: '12.745000000000001'

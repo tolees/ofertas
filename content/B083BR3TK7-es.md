@@ -16,6 +16,7 @@ comparePrice: 213.99 EUR
 prodname: 'MENGH Küchen teppiche 140x220cm  Dekoration Teppich Farbecht Pflegeleicht für Wohnzimmer Schlafzimmer Sofa Grau'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083BR3TK7/?tag=tolees-21'
 descuento: '73.37'
 average: '56.99'

@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'bollé 31497 Juliet Cascos de Esquí  Mujer  Negro  Black Rose Gold   52-54 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073SZDXBX/?tag=tolees-21'
 descuento: '33.37'
 average: '59.96'

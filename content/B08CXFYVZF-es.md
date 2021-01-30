@@ -16,6 +16,7 @@ comparePrice: 3.99 EUR
 prodname: 'Beuya Colores sólidos Cajas de Almacenamiento para máscara desechable  Cajas para mascaras  Bolsa portátil de Almacenamiento de mascarillas  Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CXFYVZF/?tag=tolees-21'
 descuento: '27.57'
 average: '2.89'

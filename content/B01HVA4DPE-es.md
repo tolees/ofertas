@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'PJ Masks - Pack de 5 figuras  Bandai 24580   surtido: modelos aleatorios'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HVA4DPE/?tag=tolees-21'
 descuento: '40.02'
 average: '14.24'

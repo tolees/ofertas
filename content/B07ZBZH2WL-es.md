@@ -16,6 +16,7 @@ comparePrice: 91.61 EUR
 prodname: 'Ozono Peel Peeling Enzimático. 210 Ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZBZH2WL/?tag=tolees-21'
 descuento: '34.52'
 average: '59.99'

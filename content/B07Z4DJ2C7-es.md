@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Funda compatible con Huawei P30 Pro  ultrafina  suave  flexible  de silicona TPU  con patrón de mármol  antigolpes  color amarillo 2 Talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z4DJ2C7/?tag=tolees-21'
 descuento: '47.39'
 average: '9.99'

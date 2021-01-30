@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Pop! My Hero Academia - Figura de Vinilo 5 Star Deku'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N5RWF46/?tag=tolees-21'
 descuento: '46.39'
 average: '8.55'

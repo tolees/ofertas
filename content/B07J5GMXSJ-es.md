@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Skechers Flex Advantage 3.0  Zapatillas para Niños  Azul  Navy & Charcoal Textile/Navy & Red Trim Nvcc   27.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J5GMXSJ/?tag=tolees-21'
 descuento: '56.26'
 average: '25.475'

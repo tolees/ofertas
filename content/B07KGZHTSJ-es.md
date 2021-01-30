@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'Under Armour Blitzing II - Gorra  Hombre  Gris  Graphite/Black 051  L/XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KGZHTSJ/?tag=tolees-21'
 descuento: '47.55'
 average: '11.55'

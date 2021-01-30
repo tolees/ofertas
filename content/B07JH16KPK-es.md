@@ -16,6 +16,7 @@ comparePrice: 22.0 EUR
 prodname: 'Maca Peruana Extracto Concentrado 4000 mg | 120 cápsulas vegetales | Incrementa los niveles de energía  la vitalidad y el rendimiento atlético  y ayuda al sistema inmunológico y al equilibrio hormonal'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JH16KPK/?tag=tolees-21'
 descuento: '42.64'
 average: '12.62'

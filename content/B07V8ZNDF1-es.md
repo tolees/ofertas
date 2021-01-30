@@ -16,6 +16,7 @@ comparePrice: 1299.99 EUR
 prodname: 'ASUS ROG Zephyrus G GA502DU-BQ015 - Portátil Gaming de 15 6" FullHD  Ryzen 7 3750H  8GB RAM  512GB SSD  GeForce GTX1660Ti 6GB  Sin sistema operativo  Metal Negro - Teclado QWERTY español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V8ZNDF1/?tag=tolees-21'
 descuento: '25.24'
 average: '952.85375'

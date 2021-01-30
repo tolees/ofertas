@@ -16,6 +16,7 @@ comparePrice: 37.0 EUR
 prodname: 'Kipling - Tops  Carteras Mujer  Rosa  Metallic Rose   7.5x10x2.5 cm  B x H T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MV9SYFY/?tag=tolees-21'
 descuento: '50.00'
 average: '18.5'

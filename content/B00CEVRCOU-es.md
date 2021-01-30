@@ -16,6 +16,7 @@ comparePrice: 399.0 EUR
 prodname: 'Vanguard Endeavor XF 80A - Catalejo en ángulo  Zoom de 20-60x  Ocular '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00CEVRCOU/?tag=tolees-21'
 descuento: '25.65'
 average: '296.65'

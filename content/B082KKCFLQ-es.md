@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Xnuoyo Cepillo de Limpieza Facial Set Completo de Spa Facial Cepillo Facial al Agua con 5 Cabezas de Cepillo Exfoliante para Exfoliación Suave y Limpieza Profunda'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082KKCFLQ/?tag=tolees-21'
 descuento: '59.34'
 average: '23.99'

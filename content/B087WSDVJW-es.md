@@ -16,6 +16,7 @@ comparePrice: 7.17 EUR
 prodname: 'Toalla mágica de Alta Elasticidad Multifuncional Ac247 - Multi-Coloour'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087WSDVJW/?tag=tolees-21'
 descuento: '33.47'
 average: '4.77'

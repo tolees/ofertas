@@ -16,6 +16,7 @@ comparePrice: 379.94 EUR
 prodname: 'Bosch Professional Sistema 12V Nivel Láser GCL 2-50 C  1 batería 12V + cargador  láser rojo  interior  con función aplicación  soporte  pinza  alcance visible: hasta 20 m  L-BOXX '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XG4DLYK/?tag=tolees-21'
 descuento: '26.86'
 average: '197.71'

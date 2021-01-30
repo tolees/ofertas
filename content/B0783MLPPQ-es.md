@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'New Balance 574 Core Zapatillas Hombre  Negro  Blackout ETE   37.5 EU  4.5 UK '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0783MLPPQ/?tag=tolees-21'
 descuento: '50.00'
 average: '42.75'

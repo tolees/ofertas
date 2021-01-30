@@ -16,6 +16,7 @@ comparePrice: 156.37 EUR
 prodname: 'Minar by Homemania Homemania - Escritorio Snap  Color Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CNSR61R/?tag=tolees-21'
 descuento: '32.95'
 average: '104.84'

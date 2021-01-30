@@ -16,6 +16,7 @@ comparePrice: 76.9 EUR
 prodname: 'Thermaltake Riing 14 LED RGB - Pack de 3 Ventiladores  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B017NS7B2G/?tag=tolees-21'
 descuento: '41.50'
 average: '48.99'

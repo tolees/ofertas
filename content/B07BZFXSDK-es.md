@@ -16,6 +16,7 @@ comparePrice: 19.07 EUR
 prodname: 'Lebze Bebé Muselina Swaddle Manta -"Diseño de Dinosaurio" Bambú Algodon Muselinas 120x120 cm Mantitas para Bebes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BZFXSDK/?tag=tolees-21'
 descuento: '32.35'
 average: '12.9'

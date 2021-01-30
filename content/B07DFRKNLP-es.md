@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'PUMA Essential TR Cl Pantalones de Chándal  Mujer  Gris  Light Gray Heather/Cat   XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DFRKNLP/?tag=tolees-21'
 descuento: '39.95'
 average: '23.99'

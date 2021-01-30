@@ -16,6 +16,7 @@ comparePrice: 399.0 EUR
 prodname: 'Master & Dynamic MW50+ - Auricular bluetooth  color plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DJ18KY8/?tag=tolees-21'
 descuento: '33.82'
 average: '264.06'

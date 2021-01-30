@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Solac PV1651 Plancha de viaje  Bi-tensión  mango plegable  1000 W  Plástico  Gris/Roja'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075MJRL8Z/?tag=tolees-21'
 descuento: '30.01'
 average: '19.189999999999998'

@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'Díadermine Expert Rejuvenecedor Crema Día- 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077DYZXVR/?tag=tolees-21'
 descuento: '65.08'
 average: '5.22'

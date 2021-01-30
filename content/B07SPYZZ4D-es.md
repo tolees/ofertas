@@ -16,6 +16,7 @@ comparePrice: 55.99 EUR
 prodname: 'AIMOS Conmutador KVM HDMI  USB KVM Switch 2 Puertos Ordenador KVM Interruptor Teclado Ratón Switcher Box Soporte 4K @ 30Hz 3D para portátil  PC  HDTV - con 2 Cables USB  1 Cable HDMI'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SPYZZ4D/?tag=tolees-21'
 descuento: '35.72'
 average: '35.99'

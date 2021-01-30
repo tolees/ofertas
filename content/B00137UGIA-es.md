@@ -16,6 +16,7 @@ comparePrice: 149.95 EUR
 prodname: 'Intex 68324NP - Barca Hinchable Excursion 4 con 2 Remos 315 x 165 x 43 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00137UGIA/?tag=tolees-21'
 descuento: '28.60'
 average: '111.74111111111112'

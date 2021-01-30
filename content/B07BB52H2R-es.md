@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Kodak Printomatic - Cámara de impresión instantánea  imprime en Papel Zink 5 x 7.6 cm con respaldo adhesivo  rosado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BB52H2R/?tag=tolees-21'
 descuento: '33.06'
 average: '68.81099999999999'

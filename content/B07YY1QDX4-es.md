@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'BRIKSMAX Kit de Iluminación Led para Lego Star Wars First Order Star Destroyer Compatible con Ladrillos de Construcción Lego Modelo 75190  Juego de Legos no Incluido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YY1QDX4/?tag=tolees-21'
 descuento: '37.15'
 average: '43.99'

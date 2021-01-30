@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'Anillo de Luz LED 8" Fotográfica de Escritorio con Soporte para Trípode y Soporte para Teléfono con 3 Modos de Luz y 10 Niveles de Brillo para Selfie  Maquillaje  Transmisión en Vivo  Youtube'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BLDZ1R3/?tag=tolees-21'
 descuento: '38.11'
 average: '12.99'

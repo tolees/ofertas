@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'Nike Revolution 4  GS   Zapatillas de Running Unisex Niños  Negro  Black/White-Anthracite 006   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00EW5FRIE/?tag=tolees-21'
 descuento: '25.56'
 average: '32.47'

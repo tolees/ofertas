@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'BLACK+DECKER BEG220-QS Amoladora angular 900 W  12.000 rpm  eje M14  Ajuste de Guarda sin Llave'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CZ2DJDK/?tag=tolees-21'
 descuento: '35.40'
 average: '39.3625'

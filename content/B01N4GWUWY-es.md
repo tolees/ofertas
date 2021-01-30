@@ -16,6 +16,7 @@ comparePrice: 120.99 EUR
 prodname: 'San Ignacio PK332 Set Tres sartenes + Batería 5 Piezas + Juego de Utensilios de Cocina  Cromado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N4GWUWY/?tag=tolees-21'
 descuento: '53.72'
 average: '50.540000000000006'

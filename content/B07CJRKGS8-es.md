@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Asmodee- Raxxon - español  Color  PHRA0001 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CJRKGS8/?tag=tolees-21'
 descuento: '25.41'
 average: '27.535'

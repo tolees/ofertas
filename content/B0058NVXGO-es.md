@@ -16,6 +16,7 @@ comparePrice: 12.83 EUR
 prodname: 'Veet Tarro Cera Depilatoria Tibia de Resultados Profesional sin Bandas con Cera Natural de Abeja  300 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0058NVXGO/?tag=tolees-21'
 descuento: '27.90'
 average: '9.25'

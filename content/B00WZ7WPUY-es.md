@@ -16,6 +16,7 @@ comparePrice: 83.22 EUR
 prodname: 'MIAO Soporte portátil Plegable para computadora portátil  Universal Angel Ajustable Plástico liviano Compatible con lectores electrónicos Tabletas para teléfonos móviles -Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00WZ7WPUY/?tag=tolees-21'
 descuento: '31.77'
 average: '56.78'

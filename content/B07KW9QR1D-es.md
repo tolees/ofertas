@@ -16,6 +16,7 @@ comparePrice: 159.95 EUR
 prodname: 'Salomon XA Pro 3D GTX  Zapatillas de Trail Running para Hombre  Azul Lyons Blue Navy Blazer Lunar Rock  45 1/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KW9QR1D/?tag=tolees-21'
 descuento: '36.24'
 average: '119.86500000000001'

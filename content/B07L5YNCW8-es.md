@@ -16,6 +16,7 @@ comparePrice: 149.95 EUR
 prodname: 'adidas Terrex Skychaser LT GTX  Zapatillas de Cross para Hombre  Negro  Carbon/Core Black/Grey Four F17 Carbon/Core Black/Grey Four F17   48 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L5YNCW8/?tag=tolees-21'
 descuento: '62.28'
 average: '56.56'

@@ -16,6 +16,7 @@ comparePrice: 59 EUR
 prodname: 'Dickies Hose D/knee Work Pants - Pantalones para hombre  Negro   Talla del fabricante: 40/32 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000N8PYN2/?tag=tolees-21'
 descuento: '50.78'
 average: '29.04'

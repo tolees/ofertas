@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Tommy Hilfiger Tommy Patch Square Bufanda   Green Lj5   Talla única  Talla del fabricante: OS  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N6M19BK/?tag=tolees-21'
 descuento: '50.00'
 average: '24.95'

@@ -16,6 +16,7 @@ comparePrice: 16.7 EUR
 prodname: 'Funko- 5 Star: Aladdin: Genie 5 Estrellas  Multicolor  Talla única  35763 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KBJFCJF/?tag=tolees-21'
 descuento: '30.54'
 average: '11.0'

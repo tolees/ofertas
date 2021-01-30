@@ -16,6 +16,7 @@ comparePrice: 1.35 EUR
 prodname: 'Shimano 42A09000 - Llave Ajuste Eje Pedal Tl-Pd40'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002ZI6AU4/?tag=tolees-21'
 descuento: '26.67'
 average: '0.99'

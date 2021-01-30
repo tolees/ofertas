@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Asics Gel-Mission 3  Zapatillas de Marcha Nórdica para Mujer  Negro  Black/Carbon/Phantom 9097   35.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078NJRJQL/?tag=tolees-21'
 descuento: '25.00'
 average: '45.0'

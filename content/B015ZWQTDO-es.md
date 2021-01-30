@@ -16,6 +16,7 @@ comparePrice: 289.0 EUR
 prodname: 'Inglesina Twin Swift - Sillita de paseo doble  unisex  color graphite'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B015ZWQTDO/?tag=tolees-21'
 descuento: '50.77'
 average: '142.28'

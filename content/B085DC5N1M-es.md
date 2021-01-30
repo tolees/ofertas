@@ -16,6 +16,7 @@ comparePrice: 27.99 EUR
 prodname: 'Alfombra De Pelo Largo  Suave Salón Shaggy Estilo Escandinavo Motivo De Rombos  tamaño:120x170 cm  Color:Crema'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085DC5N1M/?tag=tolees-21'
 descuento: '25.01'
 average: '20.99'

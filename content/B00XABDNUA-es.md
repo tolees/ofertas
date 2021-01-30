@@ -16,6 +16,7 @@ comparePrice: 14.4 EUR
 prodname: 'HARIBO - Pasta Basta - Geles dulces con sabor a manzana - 1.72 kg'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XABDNUA/?tag=tolees-21'
 descuento: '41.53'
 average: '8.34909090909091'

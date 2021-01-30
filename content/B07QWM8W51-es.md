@@ -16,6 +16,7 @@ comparePrice: 26.0 EUR
 prodname: 'Under Armour Men s Train Spacer Mesh Gorra  Hombre  Gris  M/L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QWM8W51/?tag=tolees-21'
 descuento: '50.12'
 average: '12.97'

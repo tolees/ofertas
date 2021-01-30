@@ -16,6 +16,7 @@ comparePrice: 339.99 EUR
 prodname: 'HOMCOM Puerta Corredera 205x77.5cm Puertas Correderas Satinada Deslizantes Cristal Sin Obra'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B017I4MS2S/?tag=tolees-21'
 descuento: '50.00'
 average: '169.99'

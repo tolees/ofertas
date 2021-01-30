@@ -16,6 +16,7 @@ comparePrice: 4.66 EUR
 prodname: 'Cochecito de bebé Gancho para colgar Ganchos para cochecito Accesorios para cochecito de bebé Ganchos Percha para bolsas de pañales Ropa + Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0814CY9LR/?tag=tolees-21'
 descuento: '34.98'
 average: '3.03'

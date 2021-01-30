@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'Garmin Forerunner 30 - Reloj de carrera con GPS y sensor de frecuencia cardiaca en la muñeca  Morado  Amethyst '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07575WFLT/?tag=tolees-21'
 descuento: '33.36'
 average: '99.97'

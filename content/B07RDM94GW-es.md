@@ -16,6 +16,7 @@ comparePrice: 109.99 EUR
 prodname: 'Columbia Vitesse  Zapatillas de Deporte  para Mujer  Black  Black  Pure Silver 010   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RDM94GW/?tag=tolees-21'
 descuento: '50.04'
 average: '54.95'

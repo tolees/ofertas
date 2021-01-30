@@ -16,6 +16,7 @@ comparePrice: 18.9 EUR
 prodname: 'MKTOSASA - Altavoz Bluetooth y 3W de Potencia. Función Manos Libres  Ranura para Tarjetas Micro SD de hasta 32 GB de Capacidad  Reproductor USB y función Radio FM- 11.1x8.3x4.1 Gris/Negro…'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085LMKSJV/?tag=tolees-21'
 descuento: '35.19'
 average: '12.25'

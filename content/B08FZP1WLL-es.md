@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Fiesta Cotigo Caja para Mascarillas Caja Portátil de Máscara de Contenedor a Prueba de Polvo Máscaras de protección Funda Organizador de Almacenamiento  Fácil de Llevar - Paquete de 4  Más Delgada '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08FZP1WLL/?tag=tolees-21'
 descuento: '40.03'
 average: '10.99'

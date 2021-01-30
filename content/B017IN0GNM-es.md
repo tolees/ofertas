@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'Dockers Bic Alpha Original Skinny-Stretch Twill  Pantalones para Hombre  Negro  BLACK 70   W38/L32'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B017IN0GNM/?tag=tolees-21'
 descuento: '67.17'
 average: '35.7'

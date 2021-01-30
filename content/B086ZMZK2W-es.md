@@ -16,6 +16,7 @@ comparePrice: 16.65 EUR
 prodname: 'B Blesiya Caja De Almacenamiento/Organizador/Soporte De Batería De Plástico AA/AAA Transparente con Capacidad para 10X AA'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086ZMZK2W/?tag=tolees-21'
 descuento: '44.44'
 average: '9.25'

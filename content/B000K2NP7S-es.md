@@ -16,6 +16,7 @@ comparePrice: 23.1 EUR
 prodname: 'Mannesmann - M11242 - Juego de destornilladores  42 piezas.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000K2NP7S/?tag=tolees-21'
 descuento: '31.86'
 average: '13.865'

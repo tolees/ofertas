@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Puma Rise Xt 4 Jr Zapatillas de Balonmano Unisex Niños  Negro  PUMA BLACK-SILVER-NRGY RED 01   44.5 EU  10 UK '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KY3BF16/?tag=tolees-21'
 descuento: '66.53'
 average: '16.72'

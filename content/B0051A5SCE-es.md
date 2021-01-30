@@ -16,6 +16,7 @@ comparePrice: 13.14 EUR
 prodname: 'Philips - MASTER TL-E Circular 32W/865 1CT/12'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0051A5SCE/?tag=tolees-21'
 descuento: '39.50'
 average: '7.95'

@@ -16,6 +16,7 @@ comparePrice: 18.78 EUR
 prodname: 'Ardell  Tratamiento para pestañas  109 Black  - 25 gr.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0035LCW3O/?tag=tolees-21'
 descuento: '72.90'
 average: '5.09'

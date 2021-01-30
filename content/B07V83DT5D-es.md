@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Halloween Tatuajes Temporales Halloween Zombie Tattoo  3 Grande +6 Pequeño 75 Estilos Horror Cicatrices Heridas Tatuajes Pegatinas  Realista Horror Tatuaje temporal  Maquillaje Halloween Hombre Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V83DT5D/?tag=tolees-21'
 descuento: '60.02'
 average: '11.99'

@@ -16,6 +16,7 @@ comparePrice: 39.0 EUR
 prodname: 'Babyliss - 3038e - Estuche de 5 rulos términos  tamaño extragrande  40 mm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004W6ZDBY/?tag=tolees-21'
 descuento: '30.28'
 average: '27.19'

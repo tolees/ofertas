@@ -16,6 +16,7 @@ comparePrice: 93.2 EUR
 prodname: 'Optimum Nutrition Suplemento Dietético en Polvo "Platinum HydroWhey"  Sabor Vainilla - 1.58 kg'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002QZORGK/?tag=tolees-21'
 descuento: '46.36'
 average: '49.99'

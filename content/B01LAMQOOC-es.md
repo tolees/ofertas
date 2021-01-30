@@ -16,6 +16,7 @@ comparePrice: 14.98 EUR
 prodname: 'Funko - Pop! Vinilo Colección The Walking Dead - Figura Negan  11070 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LAMQOOC/?tag=tolees-21'
 descuento: '33.98'
 average: '9.155000000000001'

@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'Netspower Calcetines de yoga  pilates  antideslizantes  calcetines de deporte  calcetines de algodón  transpirables  calcetines para correr  secado rápido  para hombre y mujer  ballet'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VDCTTCB/?tag=tolees-21'
 descuento: '27.02'
 average: '9.504999999999999'

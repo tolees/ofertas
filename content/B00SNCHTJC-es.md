@@ -16,6 +16,7 @@ comparePrice: 72.95 EUR
 prodname: 'Gamdias EREBOS-GMS7510 - Ratón USB Laser 8200DPI ambidextro  Multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00SNCHTJC/?tag=tolees-21'
 descuento: '40.44'
 average: '43.45'

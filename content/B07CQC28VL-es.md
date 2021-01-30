@@ -16,6 +16,7 @@ comparePrice: 499 EUR
 prodname: 'Bosch Unlimited Serie 8 BCS1TOPNC - Aspirador escoba sin cable  hasta 60 minutos de duración  incluye 2 Baterías Extraíbles  Power for ALL   18 V  Color Grafito'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CQC28VL/?tag=tolees-21'
 descuento: '42.20'
 average: '278.80333333333334'

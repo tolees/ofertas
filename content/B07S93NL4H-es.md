@@ -16,6 +16,7 @@ comparePrice: 15.58 EUR
 prodname: 'Encendedor USB  TECCPO Encendedor Electrico sin Llama  Batería Interna de 280 mAh  Usos más de 9000 Veces  Carga Rápida  Resistente al Viento sin Llama  Cable USB y Caja de Regalo Incluidos  -TDEL01P'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S93NL4H/?tag=tolees-21'
 descuento: '36.01'
 average: '10.65'

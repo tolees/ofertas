@@ -16,6 +16,7 @@ comparePrice: 339.0 EUR
 prodname: 'Zwilling Essence - Batería de Cocina  Acero Inoxidable  Gris  24 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B012SG8AQE/?tag=tolees-21'
 descuento: '61.95'
 average: '129.0'

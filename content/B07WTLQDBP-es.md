@@ -16,6 +16,7 @@ comparePrice: 21.38 EUR
 prodname: 'Adaptador USB C a Ethernet Hub  USB Tipo C  Thunderbolt 3  a Gigabit Ethernet RJ45 10/100/1000 Mbps Adaptador LAN Ethernet para Macbook Pro  Huawei Matebook  Samsung Galaxy y Otros'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WTLQDBP/?tag=tolees-21'
 descuento: '29.89'
 average: '15.188'

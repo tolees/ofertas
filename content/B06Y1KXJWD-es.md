@@ -16,6 +16,7 @@ comparePrice: 39.0 EUR
 prodname: 'Versa 18790696 Perchero de pie negro - Metal y madera 177x28x28cm  5 colgadores'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06Y1KXJWD/?tag=tolees-21'
 descuento: '35.90'
 average: '28.1'

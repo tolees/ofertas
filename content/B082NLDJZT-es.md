@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'LUDOS Ultra Auriculares con Micrófono y Cable  Máxima Comodidad  Sonido Cristalino  Agudos y Graves Equilibrados  Nueva Espuma Viscoelástica  Cable Duradero  Graves  Control de Volumen'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082NLDJZT/?tag=tolees-21'
 descuento: '46.77'
 average: '15.97'

@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Princess 182021 - Aerofryer XL Freidora  Panel de Control Digital Táctil  Fácil de Limpiar  1400 W  3.2 Litros  Acero Inoxidable  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071RD67SB/?tag=tolees-21'
 descuento: '34.76'
 average: '79.54625000000001'

@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Homelody Tapa y AsientoTapadera WC Universal en Forma de U Cierre Suave Descenso Silencioso Tapa Robusto Sencillo de Instalar Taza de vater Taza para Inodoro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N6GXV4T/?tag=tolees-21'
 descuento: '31.57'
 average: '39.460588235294125'

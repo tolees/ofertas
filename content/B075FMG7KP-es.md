@@ -16,6 +16,7 @@ comparePrice: 27.99 EUR
 prodname: 'Funria m-312 - Exprimidor manual de limón  exprimidor de cítricos  naranja  sin BPA  apto para lavavajillas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075FMG7KP/?tag=tolees-21'
 descuento: '46.45'
 average: '14.59'

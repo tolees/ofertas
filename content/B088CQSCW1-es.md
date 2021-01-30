@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Gebildet DC 12V 200mA Interruptor de Tipo de Pasta de Encendido/Apagado Interruptor de Coche DIY con Adhesivo de Doble Cara'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088CQSCW1/?tag=tolees-21'
 descuento: '37.52'
 average: '9.99'

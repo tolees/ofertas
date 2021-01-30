@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Mini Amoladora  POPOMAN 8V Amoladora Electrónica DC  Herramienta Rotativa USB  Type C Linea de datos  Recargable con 58 pcs Accesorios  caja de herramientas  para los DIY Trabajos de Pulir'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083LVQ1BF/?tag=tolees-21'
 descuento: '55.01'
 average: '44.99'

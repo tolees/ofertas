@@ -16,6 +16,7 @@ comparePrice: 15.0 EUR
 prodname: 'MODAUTO Antena de Radio Universal  Varilla 9.5cm  4 Adaptadores  para Coche  Modelo A203  Color Plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HCPGDYQ/?tag=tolees-21'
 descuento: '53.40'
 average: '6.99'

@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Tommy Hilfiger Kids Plaque Belt 3.0 Cinturón  Azul  Blue 0Gy   Medium Unisex Adulto'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RF2FLYX/?tag=tolees-21'
 descuento: '39.97'
 average: '17.95'

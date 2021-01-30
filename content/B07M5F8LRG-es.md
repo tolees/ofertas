@@ -16,6 +16,7 @@ comparePrice: 599 EUR
 prodname: 'Baby Jogger City Tour LUX DUO Cochecito de Bebé Desde Nacimiento hasta 20 5 kg  Berenjena'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M5F8LRG/?tag=tolees-21'
 descuento: '64.71'
 average: '211.41'

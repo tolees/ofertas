@@ -16,6 +16,7 @@ comparePrice: 45.32 EUR
 prodname: 'Sharplace 1 x Emulador USB SFR1M44-U100K 4 x Tornillo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00QA91LO4/?tag=tolees-21'
 descuento: '44.44'
 average: '19.516000000000002'

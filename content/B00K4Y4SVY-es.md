@@ -16,6 +16,7 @@ comparePrice: 40.99 EUR
 prodname: 'Inazuma Eleven Go: Luz'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00K4Y4SVY/?tag=tolees-21'
 descuento: '66.33'
 average: '31.875'

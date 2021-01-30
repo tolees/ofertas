@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'Sika 528149 Sellador acrílico  Blanco  300 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D7V49SW/?tag=tolees-21'
 descuento: '53.59'
 average: '5.1'

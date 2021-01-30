@@ -16,6 +16,7 @@ comparePrice: 79 EUR
 prodname: 'DC Shoes Heathrow  Zapatillas para Mujer  Rojo  Burgundy   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071SHLT36/?tag=tolees-21'
 descuento: '80.67'
 average: '23.662000000000003'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Vangold Reloj silencioso 3D adhesivo efecto cristal para pared  sin marco  tamaño grande  para decorar la oficina o casa  negro-2 años de garantía'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01DPCZ7W0/?tag=tolees-21'
 descuento: '55.01'
 average: '17.99'

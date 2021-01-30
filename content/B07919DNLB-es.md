@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Súper brillante 24V 5m RGBWW  RGB + blanco cálido  4 en 1 Tira de LED Tira de luces LED Bar SMD 5050'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07919DNLB/?tag=tolees-21'
 descuento: '76.26'
 average: '20.99'

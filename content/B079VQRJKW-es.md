@@ -16,6 +16,7 @@ comparePrice: 33.99 EUR
 prodname: 'Meccano Ducati Moto GP - Juegos de construcción  Juego de construcción de Varios Modelos de vehículos  10 año s   358 Pieza s   Negro  Rojo  Blanco  China  430 g '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079VQRJKW/?tag=tolees-21'
 descuento: '27.57'
 average: '24.62'

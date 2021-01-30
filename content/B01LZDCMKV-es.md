@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'MisterCraft D de 216 - Maqueta de devoitine D de 520 cl'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LZDCMKV/?tag=tolees-21'
 descuento: '49.90'
 average: '13.02'

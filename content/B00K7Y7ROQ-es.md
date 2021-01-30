@@ -16,6 +16,7 @@ comparePrice: 9.07 EUR
 prodname: 'Beissier M109055 - Aguaplast express de 1 kg'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00K7Y7ROQ/?tag=tolees-21'
 descuento: '63.07'
 average: '3.35'

@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Only NOS Onlpoptrash Easy Colour Pant Pnt Noos Pantalones  Rosa  Pale Mauve Pale Mauve   42 /L34  Talla del Fabricante: XX-Large  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MH1QMW4/?tag=tolees-21'
 descuento: '71.09'
 average: '11.55'

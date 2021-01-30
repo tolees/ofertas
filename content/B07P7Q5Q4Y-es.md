@@ -16,6 +16,7 @@ comparePrice: 169.0 EUR
 prodname: 'American Tourister Soundbox - Spinner Large Expandable Maleta  77 cm  110 Liters  Morado  Purple Orchid '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P7Q5Q4Y/?tag=tolees-21'
 descuento: '36.56'
 average: '112.71000000000001'

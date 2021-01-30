@@ -16,6 +16,7 @@ comparePrice: 51.99 EUR
 prodname: 'YIMINYUER Colchonetas de Espuma para Yoga Gimnasio - Diferentes tamaños - Diferente Grosor - Estilos Variados Blanco Naranja Azul R01R02R07G301020'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085BLSJLR/?tag=tolees-21'
 descuento: '33.78'
 average: '34.43'

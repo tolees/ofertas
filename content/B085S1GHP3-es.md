@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Aigostar - Bombilla LED G45  7W  casquillo fino E14  Bajo consumo  520 lm  Luz cálida 3000K  Ahorro de energía  CRI> 80  ángulo de apertura 230º  no regulable - Caja de 5 unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085S1GHP3/?tag=tolees-21'
 descuento: '36.02'
 average: '12.79'

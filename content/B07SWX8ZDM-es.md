@@ -16,6 +16,7 @@ comparePrice: 130.14 EUR
 prodname: 'GFF Adornos Modernes Cerámica Escultura Einfaches Wohnzimmer Pers \u0026 ouml; nlichkeit Hauptdekoration Kreativer Weinschrank Kunst Ornamente TV Schrank Handwerk Crafts  Tamaño: B '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SWX8ZDM/?tag=tolees-21'
 descuento: '41.61'
 average: '75.99'

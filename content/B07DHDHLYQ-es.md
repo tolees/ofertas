@@ -16,6 +16,7 @@ comparePrice: 249.9 EUR
 prodname: 'AVerMedia Live Gamer Ultra  Capturadora de vídeo y de streaming USB3.1  pass-through 4 KP60 hdr  muy débil latence  ENREGISTRE hasta 120 fps  gc553 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DHDHLYQ/?tag=tolees-21'
 descuento: '28.01'
 average: '179.9'

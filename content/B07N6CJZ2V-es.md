@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Vicloon G4 LED Bombillas  2W Capsule LED Equivalente a 20W Bombillas Halógenas Blanco cálido DC/AC 12V 3000K 180lm No Regulable - Pack de 5 [Clase de Eficiencia Energética A+]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N6CJZ2V/?tag=tolees-21'
 descuento: '38.49'
 average: '7.99'

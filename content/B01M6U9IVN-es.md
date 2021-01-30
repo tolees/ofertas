@@ -16,6 +16,7 @@ comparePrice: 18 EUR
 prodname: 'Umbro Loyal Pantalones  Hombre  Negro  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M6U9IVN/?tag=tolees-21'
 descuento: '33.39'
 average: '11.99'

@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Kappa 2019/20 Real Betis Primera equipación niño'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NGZT11R/?tag=tolees-21'
 descuento: '30.58'
 average: '41.65'

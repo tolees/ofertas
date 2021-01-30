@@ -16,6 +16,7 @@ comparePrice: 22.6 EUR
 prodname: 'Scholl Plantillas Gelactiv Uso Diario Hombre + Crema de Pies para Durezas - 2 plantillas  Talla 40-46.5  + Crema 60ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083KLMKCZ/?tag=tolees-21'
 descuento: '25.00'
 average: '16.95'

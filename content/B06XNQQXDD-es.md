@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Axiom Verge: Multiverse Edition'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XNQQXDD/?tag=tolees-21'
 descuento: '25.44'
 average: '22.65555555555556'

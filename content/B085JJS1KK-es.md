@@ -16,6 +16,7 @@ comparePrice: 781.83 EUR
 prodname: 'Huawei P40 - Smartphone 128GB 8GB RAM Dual Sim Black'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085JJS1KK/?tag=tolees-21'
 descuento: '39.88'
 average: '526.5161111111113'

@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'G-STAR RAW Halite Polo  Gris  Asfalt 995   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDNSQ8N/?tag=tolees-21'
 descuento: '71.38'
 average: '17.975'

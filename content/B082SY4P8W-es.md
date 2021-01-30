@@ -16,6 +16,7 @@ comparePrice: 0.1 EUR
 prodname: 'Cable Ethernet Plano Cable LAN RJ45 Redes LAN Cables Ethernet Cable de conexión para computadora Router Laptop - Azul 5 M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082SY4P8W/?tag=tolees-21'
 descuento: '90.00'
 average: '0.01'

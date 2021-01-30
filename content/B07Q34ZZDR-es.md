@@ -16,6 +16,7 @@ comparePrice: 2.23 EUR
 prodname: 'Libertroy Gel de Sílice Galactorrhea Colección de Cobertura Colector de Leche Materna Masaje de Pecho Postparto Suave Pezón Cojín de Succión Cojín'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q34ZZDR/?tag=tolees-21'
 descuento: '31.84'
 average: '1.52'

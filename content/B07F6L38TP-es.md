@@ -16,6 +16,7 @@ comparePrice: 37.99 EUR
 prodname: 'Spin Master Dragons Deluxe Dragon Toothless - Figuras de Juguete para niños  Multicolor  4 año s   Niño/niña  Dibujos Animados  Animales  Dragon Riders '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F6L38TP/?tag=tolees-21'
 descuento: '59.23'
 average: '15.4825'

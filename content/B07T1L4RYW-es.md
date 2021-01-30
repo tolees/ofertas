@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Gohepi 12 Multipack 33XL Alta Capacidad Cartuchos de tinta Compatible para Epson 33 33XL con Epson Expression Premium XP-640 XP-530 XP-830 XP-645 XP-540 XP-900 XP-630 XP-635 XP-7100'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T1L4RYW/?tag=tolees-21'
 descuento: '46.68'
 average: '15.99'

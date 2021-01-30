@@ -16,6 +16,7 @@ comparePrice: 19.47 EUR
 prodname: 'Coche de Carreras Juguete Desmontable Juguetes Educativos de Construcción con Kit Desmontar y Ensamblar Coche Desmontable Niño 3 4 5 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XBBMBSG/?tag=tolees-21'
 descuento: '28.20'
 average: '13.98'

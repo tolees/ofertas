@@ -16,6 +16,7 @@ comparePrice: 26.0 EUR
 prodname: 'Under Armour Classic Mesh Gorra  Hombre  Blanco  L/XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0725QTHLG/?tag=tolees-21'
 descuento: '59.42'
 average: '10.55'

@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Pepe Jeans Drifter Pantalones  Verde  Dark Olive 768   W26/L30 para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NCBQ26Y/?tag=tolees-21'
 descuento: '43.73'
 average: '49.30285714285714'

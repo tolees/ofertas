@@ -16,6 +16,7 @@ comparePrice: 66.52 EUR
 prodname: 'Juicy Couture I Am Juicy Couture Eau de Parfum 100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ZCFJE7I/?tag=tolees-21'
 descuento: '42.26'
 average: '38.41'

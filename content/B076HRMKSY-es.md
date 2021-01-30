@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'adidas CORE18 TR PNT Pantalones de Deporte  Hombre  Black/White  3XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076HRMKSY/?tag=tolees-21'
 descuento: '26.51'
 average: '18.636666666666667'

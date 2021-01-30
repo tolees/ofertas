@@ -16,6 +16,7 @@ comparePrice: 115.0 EUR
 prodname: 'Levi s 502 Regular Taper Jeans  Azul  Cedar Light Mid Overt ADV Tnl 0514   32W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFG2SPF/?tag=tolees-21'
 descuento: '47.83'
 average: '59.99'

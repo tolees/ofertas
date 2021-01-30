@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Superdry Track & Field Col Block Hood Capucha  Negro  Black 02a   Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NZ2FC4S/?tag=tolees-21'
 descuento: '70.63'
 average: '23.49'

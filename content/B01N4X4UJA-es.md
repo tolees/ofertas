@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Ymea Menopausia Vientre Plano - Ayuda a aliviar los sofocos  las sudoraciones y al adelgazaminto abdominal - Tratamiento 1 mes - 64 cápsulas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N4X4UJA/?tag=tolees-21'
 descuento: '50.08'
 average: '16.47'

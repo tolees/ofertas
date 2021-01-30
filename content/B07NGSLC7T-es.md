@@ -16,6 +16,7 @@ comparePrice: 699 EUR
 prodname: 'MEDION Ultrafino S6445 - Ordenador portátil de 15.6" Full HD  Intel Core i3-8145u  RAM de 8 GB DDR4  SSD de 256 GB  Intel Graphics  Windows 10 Home  Plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NGSLC7T/?tag=tolees-21'
 descuento: '25.53'
 average: '446.2525'

@@ -16,6 +16,7 @@ comparePrice: 10.06 EUR
 prodname: 'Bormioli Bote con Tapa  1.5l'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000W08ZUA/?tag=tolees-21'
 descuento: '65.21'
 average: '3.8725'

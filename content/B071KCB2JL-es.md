@@ -16,6 +16,7 @@ comparePrice: 11.85 EUR
 prodname: 'Palette Intense Cream Coloration Intensive Coloración del Cabello 4.6 Castaño Marrón - Pack de 3'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071KCB2JL/?tag=tolees-21'
 descuento: '41.01'
 average: '7.665'

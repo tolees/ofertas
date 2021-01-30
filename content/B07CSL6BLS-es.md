@@ -16,6 +16,7 @@ comparePrice: 11.52 EUR
 prodname: 'Acabado sal mejor protección de la máquina 3Kg'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CSL6BLS/?tag=tolees-21'
 descuento: '43.06'
 average: '6.56'

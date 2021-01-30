@@ -16,6 +16,7 @@ comparePrice: 68.61 EUR
 prodname: 'Grohe 46374000 46374000-Cartucho Grifo de Recambio  46mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004WQP0NK/?tag=tolees-21'
 descuento: '47.54'
 average: '34.755'

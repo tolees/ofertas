@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Yayuu Compatible con Forerunner 235 Correa de Reloj  Banda de Reemplazo Silicona Suave Sports Pulsera para Forerunner 235/220/230/620/630/735XT Smart Watch'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GSCPY6P/?tag=tolees-21'
 descuento: '52.97'
 average: '7.99'

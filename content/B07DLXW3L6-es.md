@@ -16,6 +16,7 @@ comparePrice: 189.0 EUR
 prodname: 'Panama Jack Tania  Botas Altas para Mujer  Azul  Marino B31   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DLXW3L6/?tag=tolees-21'
 descuento: '52.91'
 average: '89.0'

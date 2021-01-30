@@ -16,6 +16,7 @@ comparePrice: 149.0 EUR
 prodname: 'AVM FRITZ!Box 3490 International - Modem Router WiFi AC 1750  banda dual  450 Mbps en 2 4GHz y 1300 Mbps en 5 GHz   Mesh  VDSL  ADSL2+  4 puertos LAN Gigabit  servidor multimedia  interfaz en Español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00Q2HYVJG/?tag=tolees-21'
 descuento: '75.78'
 average: '132.1225'

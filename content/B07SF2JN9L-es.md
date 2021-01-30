@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'PUMA Love WN S  Zapatillas para Mujer  Blanco White/Marshmallow  42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SF2JN9L/?tag=tolees-21'
 descuento: '74.25'
 average: '20.59'

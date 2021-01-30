@@ -16,6 +16,7 @@ comparePrice: 70 EUR
 prodname: 'valcena - crema de noche - Multi Active Regeneradora'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00YFSF6QG/?tag=tolees-21'
 descuento: '57.14'
 average: '30'

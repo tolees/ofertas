@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'BXIO Afilador de cuchillos de cocina  Herramienta de afilado portátil para exteriores  Hoja de afilado de acero de tungsteno  Mango de aleación de aluminio ultraligero  duradero  afilado  2 piezas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086YSBKSL/?tag=tolees-21'
 descuento: '38.48'
 average: '15.99'

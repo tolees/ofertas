@@ -16,6 +16,7 @@ comparePrice: 107.69 EUR
 prodname: 'Bosch Professional GSB 12V-15 - Taladro percutor a batería  12V  sin batería  en L-BOXX '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0071T3MOO/?tag=tolees-21'
 descuento: '37.83'
 average: '67.49666666666667'

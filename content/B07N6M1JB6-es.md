@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Tommy Hilfiger Urban D-ring Webbing Belt 3.5 Cinturón   Blue 0gy   100  Talla del fabricante: 85.0  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N6M1JB6/?tag=tolees-21'
 descuento: '44.39'
 average: '22.555'

@@ -16,6 +16,7 @@ comparePrice: 33.66 EUR
 prodname: 'Lutsine Xeramance  Emulsión Reestructurante para Piel Muy Seca y Atópica  400 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00D3HZSUO/?tag=tolees-21'
 descuento: '34.79'
 average: '21.95'

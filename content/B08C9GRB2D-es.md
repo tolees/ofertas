@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Reloj de Cuarzo con cronógrafo de Acero Inoxidable y Metal  Resistente al Agua  con Fecha automática en manecillas Coloridas  Azul Plateado '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08C9GRB2D/?tag=tolees-21'
 descuento: '55.01'
 average: '35.99'

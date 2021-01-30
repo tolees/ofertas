@@ -16,6 +16,7 @@ comparePrice: 8.86 EUR
 prodname: 'Resalim Plus 10 Cápsulas - Suplemento Natural | Anti-Resaca y Digestiones Pesadas Para Levantarse Bien | Disminuir Cansancio y Fatiga | Con Extractos Vegetales | Vitaminas B1 y B6'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00M756XRU/?tag=tolees-21'
 descuento: '34.54'
 average: '5.8'

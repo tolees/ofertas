@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Reebok Club C 85  Zapatillas para Hombre  Blanco Intense White Green 0  37.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06X9YS7B1/?tag=tolees-21'
 descuento: '35.02'
 average: '51.95'

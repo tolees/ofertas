@@ -16,6 +16,7 @@ comparePrice: 6.15 EUR
 prodname: '1pcs electrodomésticos de Cocina de Acero Inoxidable Filtro de alcantarilla tapón de desechos de Alambre de púas/Drenaje de Piso El colador del Fregadero Evita la obstrucción - Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086Z2MMN9/?tag=tolees-21'
 descuento: '32.52'
 average: '4.15'

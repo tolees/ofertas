@@ -16,6 +16,7 @@ comparePrice: 8.95 EUR
 prodname: 'Astor Lash Beautifier Volume&Tint Máscara de Pestañas Tono 910 Ultra Black  - 25 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N5YBCOQ/?tag=tolees-21'
 descuento: '38.77'
 average: '4.5'

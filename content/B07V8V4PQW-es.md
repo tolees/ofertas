@@ -16,6 +16,7 @@ comparePrice: 110.7 EUR
 prodname: 'Love MoschinoJc4247pp0aMujerCarteras de manoNegro  Black Quilted 7x14x22 Centimeters  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V8V4PQW/?tag=tolees-21'
 descuento: '36.67'
 average: '76.96285714285713'

@@ -16,6 +16,7 @@ comparePrice: 145 EUR
 prodname: 'Saucony Guide ISO 2  Zapatillas de Running para Hombre  Naranja  Blue/Orange 36   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G8RQ2CS/?tag=tolees-21'
 descuento: '51.79'
 average: '69.9'

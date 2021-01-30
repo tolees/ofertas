@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Hengbo Sartenes para Raclette 4Pcs'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PSM97LT/?tag=tolees-21'
 descuento: '38.63'
 average: '15.95'

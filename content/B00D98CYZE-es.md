@@ -16,6 +16,7 @@ comparePrice: 57.9 EUR
 prodname: 'D-Link DWM-157 - Modem 3G USB 2.0 Libre  HSPA+  21.6 Mbps  SIM Datos Cualquier Operador  LED Estado  HSUPA/HSDPA/UMTS  gsm/GPRS/Edge  Compatible Windows y Mac  Ranura Micro SD  Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00D98CYZE/?tag=tolees-21'
 descuento: '46.36'
 average: '27.95714285714286'

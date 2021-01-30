@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Lacoste Sport GH353T Bañador  Blanco  Blanc   W40  Talla del Fabricante: 9  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079LQD5TH/?tag=tolees-21'
 descuento: '55.27'
 average: '31.509999999999998'

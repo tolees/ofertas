@@ -16,6 +16,7 @@ comparePrice: 49.69 EUR
 prodname: 'Masajeador Control Remoto Inalámbrico 15m Para Mujer  con Función de Calefacción y 10 Modos  Masajeador Mando de Dos Motores para Relajar el Cuerpo  Rosa '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081Q9PQVR/?tag=tolees-21'
 descuento: '50.31'
 average: '24.69'

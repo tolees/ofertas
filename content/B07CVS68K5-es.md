@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Aukey - Cargador USB C de 30 W  cargador rápido portátil USB tipo C con Power Delivery 3.0  cargador PD para iPhone 11 Pro Max/XR/XS Max  MacBook  iPad Pro Air  Samsung S7 / S8  Huawei P30 / P20'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CVS68K5/?tag=tolees-21'
 descuento: '51.21'
 average: '17.56'

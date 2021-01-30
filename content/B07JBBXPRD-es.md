@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Columbia Trail Shaker Braga Para El Cuello  Unisex adulto  Chalk  O/S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JBBXPRD/?tag=tolees-21'
 descuento: '37.52'
 average: '12.156666666666666'

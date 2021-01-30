@@ -16,6 +16,7 @@ comparePrice: 12.19 EUR
 prodname: 'HD101 2.5"USB 3.0 Disco Duro Externo Extract Box LED Instalación fácil de Alta Velocidad para Windows 98SE / ME / 2000 / XP/Vista'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JBMNYKS/?tag=tolees-21'
 descuento: '41.02'
 average: '7.19'

@@ -16,6 +16,7 @@ comparePrice: 26.92 EUR
 prodname: 'AmazonBasics - Cable USB tipo C a Micro-B 3.1 de 2ª generación - 0 9 m - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GGKYIHS/?tag=tolees-21'
 descuento: '70.69'
 average: '6.726'

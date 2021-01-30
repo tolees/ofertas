@@ -16,6 +16,7 @@ comparePrice: 39 EUR
 prodname: 'Lacoste Rc2012 Cinturón  Azul  Blue Horizon D24   90 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MSB9GKC/?tag=tolees-21'
 descuento: '41.03'
 average: '30.235'

@@ -16,6 +16,7 @@ comparePrice: 18.28 EUR
 prodname: 'Scitec Nutrition Hot Blood 3.0 Complejo estimulante de pre-entrenamieto  sabor guaraná - 300 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00QUFDQSW/?tag=tolees-21'
 descuento: '43.82'
 average: '9.235'

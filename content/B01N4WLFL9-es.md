@@ -16,6 +16,7 @@ comparePrice: 24.79 EUR
 prodname: 'Friggi Friggi - Freidora Mágica Playset de Cocina con Luz y Sonido  Giochi Preziosi MA000001 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N4WLFL9/?tag=tolees-21'
 descuento: '31.46'
 average: '16.99'

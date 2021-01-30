@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'SAMs Tierhausschuhe Disney Star Wars Darth Vader lustig'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B016Y9A2YE/?tag=tolees-21'
 descuento: '50.04'
 average: '29.95'

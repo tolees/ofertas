@@ -16,6 +16,7 @@ comparePrice: 880.33 EUR
 prodname: 'Apple iPhone 7 - Smartphone DE 4 7” con tecnología IPS  Chip A10 Fusión  cámara Dual 12 MP  IP67  Color Oro  Reacondicionado   CPO '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074N8ZLY2/?tag=tolees-21'
 descuento: '67.06'
 average: '262.6357142857143'

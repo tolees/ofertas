@@ -16,6 +16,7 @@ comparePrice: 15 EUR
 prodname: 'Hacienda Zorita Natural Reserve Syrah Vino tinto - 750 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00CSYUQUU/?tag=tolees-21'
 descuento: '35.00'
 average: '8.8125'

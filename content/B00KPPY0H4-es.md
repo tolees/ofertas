@@ -16,6 +16,7 @@ comparePrice: 292.82 EUR
 prodname: 'MAKITA DTW450Z llave de impacto  18 V  Negro  Azul  M12  M16  M22'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KPPY0H4/?tag=tolees-21'
 descuento: '35.15'
 average: '188.87333333333333'

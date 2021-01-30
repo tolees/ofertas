@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'Llongueras Advance Tinte de Cabello Permanente Tono #6.1 Rubio Oscuro Ceniza'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MY9G68L/?tag=tolees-21'
 descuento: '55.62'
 average: '3.99'

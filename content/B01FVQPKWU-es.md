@@ -16,6 +16,7 @@ comparePrice: 3.95 EUR
 prodname: 'Vaessen Creative Plástico Mágico  Blanco  4 Hojas  Tamaño 21 x 30 cm  Divertidos Proyectos de Arte y Manualidades para Todas Las Edades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FVQPKWU/?tag=tolees-21'
 descuento: '28.35'
 average: '2.83'

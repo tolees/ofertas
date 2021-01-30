@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'Regleta Enchufes  Regleta 3 Tomas con 4Puertos de Carga USB con Alargadora Cable de 1.8m 2500W con Protección Proteccion Sobretensión y Sobrecarga para Móvil u Otros Dispositivos en la Oficina y Casa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N4HXW39/?tag=tolees-21'
 descuento: '62.52'
 average: '14.99'

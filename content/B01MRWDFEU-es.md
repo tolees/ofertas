@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Pendientes Azul Marino Tradicionales y Elegantes para Mujeres en Caja de Regalo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MRWDFEU/?tag=tolees-21'
 descuento: '28.01'
 average: '16.656666666666663'

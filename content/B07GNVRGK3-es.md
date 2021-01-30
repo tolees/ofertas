@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'NIVEA Q10 3en1 Cushion  Perfeccionador Facial Hidratante y Antiedad con Protector Facial   Tono 02 Medio - 15 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GNVRGK3/?tag=tolees-21'
 descuento: '49.97'
 average: '12.745'

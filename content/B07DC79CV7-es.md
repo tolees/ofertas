@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Puma Cali-0 Summer  Zapatillas Unisex Adulto  Azul  Fair Aqua White White   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DC79CV7/?tag=tolees-21'
 descuento: '71.70'
 average: '27.153333333333332'

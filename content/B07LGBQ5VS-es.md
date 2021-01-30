@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Nike Wmns Legend React 2  Zapatillas de Running para Mujer  Rojo  Lt Redwood/Mtlc Red Bronze/Crimson Tint/Platinum Tint 800   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LGBQ5VS/?tag=tolees-21'
 descuento: '30.00'
 average: '42.0'

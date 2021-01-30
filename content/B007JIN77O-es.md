@@ -16,6 +16,7 @@ comparePrice: 9.9 EUR
 prodname: 'Korres Crema De Manos Hidratante  Almendra y Caléndula  - 75 ml.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007JIN77O/?tag=tolees-21'
 descuento: '28.28'
 average: '7.1'

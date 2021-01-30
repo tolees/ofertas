@@ -16,6 +16,7 @@ comparePrice: 13.69 EUR
 prodname: 'FLZONE Gorros de Ducha 4 Piezas Gorro de Ducha Impermeable Gorro de Baño Elástico Reutilizable para Mujer Ducha Salón de Spa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089GK8LCS/?tag=tolees-21'
 descuento: '29.22'
 average: '9.69'

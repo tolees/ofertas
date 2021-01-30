@@ -16,6 +16,7 @@ comparePrice: 139.95 EUR
 prodname: 'Millet Friction - Calzado de senderismo para hombre  color antracita  anthracite   talla 40'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00J7SDTHM/?tag=tolees-21'
 descuento: '30.01'
 average: '97.95'

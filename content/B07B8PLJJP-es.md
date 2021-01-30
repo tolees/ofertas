@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'PUMA St Runner V2 Mesh  Zapatillas de Deporte Unisex Adulto  Black White  43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B8PLJJP/?tag=tolees-21'
 descuento: '41.75'
 average: '32.01'

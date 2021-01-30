@@ -16,6 +16,7 @@ comparePrice: 132.89 EUR
 prodname: 'Antartica - Juego de Maletas  3 Maletas de Equipaje  Maletas de Viaje con Candado  ABS Trolley  56 cm  66 cm  76 cm   Color Beige Claro.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VZXZBQB/?tag=tolees-21'
 descuento: '43.56'
 average: '75.0'

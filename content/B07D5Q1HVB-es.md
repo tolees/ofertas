@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'PUMA Active WV TR Pantalones Cortos  Hombre  Azul  Peacoat   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D5Q1HVB/?tag=tolees-21'
 descuento: '28.06'
 average: '17.95'

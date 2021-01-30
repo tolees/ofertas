@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'For The King'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PJKZY9J/?tag=tolees-21'
 descuento: '48.06'
 average: '17.709999999999997'

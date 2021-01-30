@@ -16,6 +16,7 @@ comparePrice: 81.99 EUR
 prodname: 'SONGMICS Cubo de Basura de Acero Inoxidable  Basurero Reciclaje  Tres compartimientos con Penal  LTB54L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XXDYGYW/?tag=tolees-21'
 descuento: '32.94'
 average: '54.98'

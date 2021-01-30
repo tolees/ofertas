@@ -16,6 +16,7 @@ comparePrice: 79.0 EUR
 prodname: 'Shure SRH440 - Auriculares de diadema cerrados'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002DP1FTU/?tag=tolees-21'
 descuento: '25.32'
 average: '59.0'

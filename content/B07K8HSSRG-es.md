@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'MOSNOVO Funda para iPhone XR  Transparente Carcasa para iPhone XR Absorcion de Choque Cojín de Parachoques con PC Duro Panel Posterior + Marco de TPU Suave para iPhone XR  Cute Elephant '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K8HSSRG/?tag=tolees-21'
 descuento: '56.69'
 average: '12.99'

@@ -16,6 +16,7 @@ comparePrice: 96.99 EUR
 prodname: 'Tarjeta de Memoria SanDisk Extreme SDXC de 256 GB con hasta 90 MB/s  Class 10 y U3 y V30'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LORO7ZQ/?tag=tolees-21'
 descuento: '43.86'
 average: '49.66111111111111'

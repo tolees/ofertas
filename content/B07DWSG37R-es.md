@@ -16,6 +16,7 @@ comparePrice: 31.23 EUR
 prodname: 'DoMyfit Organizador de Asiento de Coche para bebé  Accesorios de Remolque  Asiento de Niños  Bolsa de Almacenamiento para Colgar  Mushroom '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DWSG37R/?tag=tolees-21'
 descuento: '42.40'
 average: '17.99'

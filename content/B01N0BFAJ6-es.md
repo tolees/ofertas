@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Taurus UNIC500PLUSINOX Batidora  500 W  0 Decibelios  Plástico  Blanco/Naranja'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N0BFAJ6/?tag=tolees-21'
 descuento: '37.15'
 average: '21.229999999999997'

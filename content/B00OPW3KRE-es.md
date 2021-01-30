@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Superga 2750 COTU Classic  Zapatillas de Gimnasia Unisexo  Blanco  Total White C42   42.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00OPW3KRE/?tag=tolees-21'
 descuento: '52.56'
 average: '27.99'

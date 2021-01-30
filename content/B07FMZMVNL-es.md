@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'adidas Galaxy 26  Zapatillas de Running para Hombre  Negro  Core Black   41 1/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FMZMVNL/?tag=tolees-21'
 descuento: '35.92'
 average: '33.28142857142857'

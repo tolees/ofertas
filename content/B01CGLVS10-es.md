@@ -16,6 +16,7 @@ comparePrice: 59 EUR
 prodname: 'SECTOR NO LIMITS Reloj Digital para Hombre de Cuarzo con Correa en PU R3251590001'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CGLVS10/?tag=tolees-21'
 descuento: '70.00'
 average: '23.6'

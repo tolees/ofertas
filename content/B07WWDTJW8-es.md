@@ -16,6 +16,7 @@ comparePrice: 33.99 EUR
 prodname: 'KRISP Zapatillas Mujer Tipo Estilo Imitación Casuales Lona Cordones Baja Alta Puntera Goma   Negro  3795   39 EU  6 UK    3795-BLK-6'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WWDTJW8/?tag=tolees-21'
 descuento: '51.49'
 average: '16.49'

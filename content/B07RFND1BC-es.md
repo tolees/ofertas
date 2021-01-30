@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Helly Hansen Copenhagen Slip-on  Zapatillas sin Cordones para Hombre  Azul  Navy/Grey Fog/Off White 597   40.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RFND1BC/?tag=tolees-21'
 descuento: '38.10'
 average: '37.14'

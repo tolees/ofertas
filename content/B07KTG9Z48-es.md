@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Element N1WKA2 Pantalones Cortos  Hombre  marrón  Bronco Brown   28'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KTG9Z48/?tag=tolees-21'
 descuento: '85.16'
 average: '15.266'

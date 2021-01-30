@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'KATOOM Bandera Welcome Home 1pcs Banner Bienvenido Bunting Swallowtail Flags arpillera banderines para Celebrar Fiestas Familiares Baby Shower Militar Bienvenida Fiestas Ceremonias decoración hogar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VM4NSYL/?tag=tolees-21'
 descuento: '50.66'
 average: '7.89'

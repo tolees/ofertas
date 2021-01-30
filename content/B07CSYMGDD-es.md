@@ -16,6 +16,7 @@ comparePrice: 249.0 EUR
 prodname: 'Calvin Klein Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable K8U2M111'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CSYMGDD/?tag=tolees-21'
 descuento: '56.71'
 average: '122.30818181818182'

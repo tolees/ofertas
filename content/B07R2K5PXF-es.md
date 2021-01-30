@@ -16,6 +16,7 @@ comparePrice: 43 EUR
 prodname: 'Soporte Vertical Portátil Dual CouHap Aluminium Laptop Stand Ajustable Soporte para PC y MacBook'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R2K5PXF/?tag=tolees-21'
 descuento: '41.88'
 average: '24.99'

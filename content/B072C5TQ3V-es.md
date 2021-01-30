@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'Kelme - Zapatillas Precision'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072C5TQ3V/?tag=tolees-21'
 descuento: '42.78'
 average: '29.725'

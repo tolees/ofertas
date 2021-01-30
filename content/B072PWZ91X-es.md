@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Blasjø® Juego de 3 espátulas de silicona de cocina con revestimiento antiadherente – núcleo de acero  negro .'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072PWZ91X/?tag=tolees-21'
 descuento: '52.51'
 average: '14.989999999999998'

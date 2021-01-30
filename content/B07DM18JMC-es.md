@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'SAMSONITE Pro-DLX 5 - Sleeve for 15.6   Laptop Maletín  39 cm  8.5 Liters  Gris  Magnetic Grey '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DM18JMC/?tag=tolees-21'
 descuento: '30.00'
 average: '63.13333333333333'

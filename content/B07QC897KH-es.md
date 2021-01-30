@@ -16,6 +16,7 @@ comparePrice: 45.04 EUR
 prodname: 'Pablosky 715420  Mocasines para Niños  Azul  Azul Azul   26 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QC897KH/?tag=tolees-21'
 descuento: '56.19'
 average: '19.73'

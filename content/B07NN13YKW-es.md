@@ -16,6 +16,7 @@ comparePrice: 64.99 EUR
 prodname: 'Nike Court Vision LO  Zapatillas para Hombre  Negro  Black/White/Photon Dust 100   44.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NN13YKW/?tag=tolees-21'
 descuento: '25.76'
 average: '45.35'

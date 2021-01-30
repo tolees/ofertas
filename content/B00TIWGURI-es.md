@@ -16,6 +16,7 @@ comparePrice: 85.0 EUR
 prodname: 'Lacoste Crew Neck-sudadera Hombre  gris  Argent Chine   X-Small'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00TIWGURI/?tag=tolees-21'
 descuento: '47.12'
 average: '49.45'

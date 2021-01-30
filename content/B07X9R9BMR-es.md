@@ -16,6 +16,7 @@ comparePrice: 68.99 EUR
 prodname: 'EIVOTOR Smart Watch Sport Fitness Activity Tracker Pulsera Pantalla conectada Touch Podometer Climate Alarm Clock para Mujer Hombre Niño'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X9R9BMR/?tag=tolees-21'
 descuento: '65.37'
 average: '23.89'

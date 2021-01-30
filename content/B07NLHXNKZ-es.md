@@ -16,6 +16,7 @@ comparePrice: 161 EUR
 prodname: 'Versace Jeans CoutureBorsaMujerShoppers y bolsos de hombroNegro  899+101  42x29x13 centimeters  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NLHXNKZ/?tag=tolees-21'
 descuento: '48.21'
 average: '99.1'

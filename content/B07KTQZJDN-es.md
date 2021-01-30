@@ -16,6 +16,7 @@ comparePrice: 399.0 EUR
 prodname: 'Hugo Boss Reloj de Pulsera 1513677'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KTQZJDN/?tag=tolees-21'
 descuento: '30.00'
 average: '279.3'

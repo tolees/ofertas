@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Arena Magnus Bañador  Hombre  Azul  Blue Navy   100'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071V2CMKK/?tag=tolees-21'
 descuento: '40.30'
 average: '17.91'

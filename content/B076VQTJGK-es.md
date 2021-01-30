@@ -16,6 +16,7 @@ comparePrice: 128.62 EUR
 prodname: 'Zelite Infinity Cuchillo de Trinchar 30 cm - Serie Comfort-Pro - Acero inoxidable  alto carbono  X50 Cr MOV 15'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076VQTJGK/?tag=tolees-21'
 descuento: '53.58'
 average: '59.7'

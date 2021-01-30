@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Edgar Allan Poe: La Adaptación al Cine de sus Relatos de Terror [DVD]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N0OJHFC/?tag=tolees-21'
 descuento: '49.99'
 average: '20.0'

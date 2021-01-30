@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Masajeador Cuero Cabelludo  FReatech [Mojado & Seco] Masajeador Cabeza  Cepillo Pelo de Champú de Silicona Limpia las Raíces Pelo  Exfolia y Elimina Caspa  Promover Crecimiento del Pelo - Rosado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077PQB2HC/?tag=tolees-21'
 descuento: '40.03'
 average: '8.99'

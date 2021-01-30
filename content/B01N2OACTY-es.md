@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Kids Licensing – pw16268 – Paw Patrol – Reloj Digitale'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N2OACTY/?tag=tolees-21'
 descuento: '70.63'
 average: '4.99'

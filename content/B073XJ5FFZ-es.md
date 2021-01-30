@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Silk n SkinVivid  Masajeador facial con modo vibración  Masaje en calor y en frío  Blanco/Cromo  SV1PEU001'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073XJ5FFZ/?tag=tolees-21'
 descuento: '51.44'
 average: '33.99'

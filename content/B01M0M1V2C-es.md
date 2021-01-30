@@ -16,6 +16,7 @@ comparePrice: 1.18 EUR
 prodname: 'Gourmet Panecillos de Ajo y Perejil - 160 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M0M1V2C/?tag=tolees-21'
 descuento: '40.68'
 average: '0.8733333333333333'

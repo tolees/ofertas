@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'New Balance 373v2  Zapatillas para Mujer  Dorado  Gold Ga2   35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S4XXNW3/?tag=tolees-21'
 descuento: '73.91'
 average: '20.87'

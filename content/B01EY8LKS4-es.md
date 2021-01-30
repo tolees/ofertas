@@ -16,6 +16,7 @@ comparePrice: 44.95 EUR
 prodname: 'Oral-B Precision Clean Cabezales de Recambio  Pack de 12 Unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01EY8LKS4/?tag=tolees-21'
 descuento: '35.51'
 average: '30.975454545454546'

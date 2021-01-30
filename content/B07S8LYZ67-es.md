@@ -16,6 +16,7 @@ comparePrice: 103.0 EUR
 prodname: 'Azzaro Wanted Girl Edp Vapo 80 ml - 80 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S8LYZ67/?tag=tolees-21'
 descuento: '29.50'
 average: '87.5325'

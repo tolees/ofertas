@@ -16,6 +16,7 @@ comparePrice: 148.85 EUR
 prodname: 'HP F6T81AE 973X Cartucho de Tinta Original de alto rendimiento  1 unidad  cian'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01DA80FA8/?tag=tolees-21'
 descuento: '34.73'
 average: '97.15'

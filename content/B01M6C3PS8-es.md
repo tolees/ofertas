@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Maybelline New York The 24 Karat Nudes  Paleta de Sombras de Ojos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M6C3PS8/?tag=tolees-21'
 descuento: '26.87'
 average: '9.254999999999999'

@@ -16,6 +16,7 @@ comparePrice: 28.4 EUR
 prodname: 'Aquabeads- Disney Princess playset  Epoch para Imaginar 30228 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NBP4D64/?tag=tolees-21'
 descuento: '46.48'
 average: '21.821666666666665'

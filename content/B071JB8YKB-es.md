@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'MagicLux Tech 11 a 11 6 Pulgadas Funda Protectora para portátiles/Funda de Neopreno/Neopreno del portátil  Azul Oscuro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071JB8YKB/?tag=tolees-21'
 descuento: '31.27'
 average: '10.99'

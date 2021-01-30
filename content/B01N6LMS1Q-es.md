@@ -16,6 +16,7 @@ comparePrice: 4.9 EUR
 prodname: 'Cillit Bang - Spray Limpiador Suciedad y Manchas de Humedad  para baños y juntas negras - 750 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N6LMS1Q/?tag=tolees-21'
 descuento: '40.00'
 average: '3.0349999999999997'

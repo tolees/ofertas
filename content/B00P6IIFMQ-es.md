@@ -16,6 +16,7 @@ comparePrice: 29.04 EUR
 prodname: 'MC N-079 Patilla de Aluminio  Unisex Adulto  Negro  Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00P6IIFMQ/?tag=tolees-21'
 descuento: '65.94'
 average: '9.976666666666667'

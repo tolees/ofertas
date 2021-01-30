@@ -16,6 +16,7 @@ comparePrice: 1149.99 EUR
 prodname: 'Microsoft Surface Laptop 2 - Ordenador portátil ultrafino táctil 13.5"  Intel Core i5-8250U  8GB RAM  128GB SSD  Intel Graphics  Windows 10  Color Plata - Teclado QWERTY Español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MC7VDKM/?tag=tolees-21'
 descuento: '31.48'
 average: '789.47'

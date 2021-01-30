@@ -16,6 +16,7 @@ comparePrice: 15.58 EUR
 prodname: 'ROSENICE Azulejos de mosaico mezclados para manualidades Cristal Mosaico suministra 10mm 200g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078BJBYLG/?tag=tolees-21'
 descuento: '50.00'
 average: '7.79'

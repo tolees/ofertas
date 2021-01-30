@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Kipling Freedom Estuches  22 cm  1 litros  Negro  True Black '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076H7HVHP/?tag=tolees-21'
 descuento: '36.04'
 average: '15.976666666666667'

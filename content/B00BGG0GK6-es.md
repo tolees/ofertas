@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Borella Casalighi Vira Juego 6 Cuencos para Macedonia  6 Unidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BGG0GK6/?tag=tolees-21'
 descuento: '42.86'
 average: '9.12'

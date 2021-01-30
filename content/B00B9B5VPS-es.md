@@ -16,6 +16,7 @@ comparePrice: 229.9 EUR
 prodname: 'Newton Telescopio 130/650 Sph.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00B9B5VPS/?tag=tolees-21'
 descuento: '53.81'
 average: '106.2'

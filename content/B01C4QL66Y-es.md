@@ -16,6 +16,7 @@ comparePrice: 209.99 EUR
 prodname: 'SanDisk Extreme Pro - Tarjeta de Memoria microSDXC de 128 GB  con Lector USB 3.0 hasta 275 MB/s  UHS-II  Clase 10 y U3 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01C4QL66Y/?tag=tolees-21'
 descuento: '37.87'
 average: '130.46'

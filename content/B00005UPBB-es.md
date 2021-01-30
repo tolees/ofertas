@@ -16,6 +16,7 @@ comparePrice: 11.14 EUR
 prodname: 'Hama - Keyboard Dust Cover  Transparente  483 x 216 x 51 mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00005UPBB/?tag=tolees-21'
 descuento: '42.37'
 average: '7.885'

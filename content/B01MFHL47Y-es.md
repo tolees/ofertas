@@ -16,6 +16,7 @@ comparePrice: 56.99 EUR
 prodname: 'Under NY Sky Delantal Verde - Sarga Profesional - Correas de Espalda Cruzada - Multi Bolsillos - Ajustable  Hombres  Mujeres  Chef  Barista  Barbero  Barman  Dependiente de Tenda  Artista del tatuaje'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MFHL47Y/?tag=tolees-21'
 descuento: '45.62'
 average: '30.99'

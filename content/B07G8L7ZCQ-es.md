@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'adidas Real 3 Y Kit Conjunto  Unisex niños  Multicolor  Correa/rojviv   128'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G8L7ZCQ/?tag=tolees-21'
 descuento: '25.24'
 average: '44.66'

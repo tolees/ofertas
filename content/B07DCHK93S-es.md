@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'PUMA Leader VT SL  Zapatillas para Correr de Carretera para Hombre  Negro Black White/Indigo Bunting  42.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DCHK93S/?tag=tolees-21'
 descuento: '37.95'
 average: '47.70285714285714'

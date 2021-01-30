@@ -16,6 +16,7 @@ comparePrice: 21.16 EUR
 prodname: 'Canon RC-6 - Mando a Distancia para cámaras Digitales Canon  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0037NX6JY/?tag=tolees-21'
 descuento: '33.41'
 average: '15.165000000000001'

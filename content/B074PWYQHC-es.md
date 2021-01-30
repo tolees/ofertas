@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Skechers Skech Appeal 2.0-Bold Move  Zapatillas para Niñas  Negro  Black/Rose Gold   33.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074PWYQHC/?tag=tolees-21'
 descuento: '45.95'
 average: '27.0'

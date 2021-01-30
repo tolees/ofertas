@@ -16,6 +16,7 @@ comparePrice: 4.3 EUR
 prodname: 'Compactor Bolsa para la Colada  Marinero  Polipropileno  Diámetro 35 x H.70 cm  RAN5300  Non Woven 75Gm  Blanco/Azul  35 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00N5Y0K9O/?tag=tolees-21'
 descuento: '77.44'
 average: '0.97'

@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Smile 111720640199 - Bolsa para ordenadores portátiles de hasta 15.6’’   Negro y blanco     '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078HDHNXT/?tag=tolees-21'
 descuento: '46.78'
 average: '16.6125'

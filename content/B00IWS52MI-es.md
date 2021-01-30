@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Panasonic Eneloop SY3052630 - Pack 4 Pilas Recargables  AA'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00IWS52MI/?tag=tolees-21'
 descuento: '30.13'
 average: '12.57'

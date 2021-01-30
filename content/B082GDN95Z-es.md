@@ -16,6 +16,7 @@ comparePrice: 0.2 EUR
 prodname: 'Pgige Funda Universal de 7 Pulgadas con patrón de Cristal Funda Protectora Universal Tableta Funda de Cuero Universal - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082GDN95Z/?tag=tolees-21'
 descuento: '95.00'
 average: '0.01'

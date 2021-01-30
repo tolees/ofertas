@@ -16,6 +16,7 @@ comparePrice: 3.59 EUR
 prodname: 'Pulsera de mujer  pulsera con cuentas en plata de ley 925  pulsera actual para mujeres  brazalete de cadena  de Amesii.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FFMKZS7/?tag=tolees-21'
 descuento: '30.64'
 average: '2.1566666666666667'

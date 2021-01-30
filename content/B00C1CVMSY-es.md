@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Logitech B100 Ratón con Cable  3 Botones  Seguimiento Óptico  Ambidiestro  PC/Mac/Portátil   Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00C1CVMSY/?tag=tolees-21'
 descuento: '40.04'
 average: '5.99'

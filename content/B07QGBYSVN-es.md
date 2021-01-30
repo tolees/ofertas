@@ -16,6 +16,7 @@ comparePrice: 221.43 EUR
 prodname: 'PUTORSEN® Pesado Soporte de Escritorio para Monitor de Las Pantallas de TV  LCD y computadora de17”-35”/43-89cm  Brazo de Monitor con Resorte de Gas  Aluminio  Capacidad de Carga es 15kg'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QGBYSVN/?tag=tolees-21'
 descuento: '61.67'
 average: '84.88'

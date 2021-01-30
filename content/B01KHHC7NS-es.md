@@ -16,6 +16,7 @@ comparePrice: 169.0 EUR
 prodname: 'Yamaha MusicCast WX-010 - Altavoz Amplificado en Red  Inalámbrico  WiFi  Bluetooth  Color Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01KHHC7NS/?tag=tolees-21'
 descuento: '56.41'
 average: '95.14166666666667'

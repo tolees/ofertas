@@ -16,6 +16,7 @@ comparePrice: 799.0 EUR
 prodname: 'Lenovo Ideapad 520S-14IKB - Ordenador Portátil de 14" FullHD  Intel Core i3-7100U   4GB de RAM  128GB de SSD   Intel HD Graphics 620  Windows 10 Home  Plateado - Teclado QWERTY Español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075NM5KG4/?tag=tolees-21'
 descuento: '50.06'
 average: '531.04'

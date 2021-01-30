@@ -16,6 +16,7 @@ comparePrice: 10.21 EUR
 prodname: 'Trespass - Tartera/mochila para la comida Modelo Playpiece para niños niñas - Colegio/Escuela/Guardería  Talla Única   Diseño Floral '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0106ZSXO8/?tag=tolees-21'
 descuento: '63.76'
 average: '3.7'

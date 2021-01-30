@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Nike M NP Short Pantalones Cortos de Deporte  Hombre  Black/Anthracite/White  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00AOA7O3M/?tag=tolees-21'
 descuento: '26.12'
 average: '18.21'

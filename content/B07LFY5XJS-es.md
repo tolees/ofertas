@@ -16,6 +16,7 @@ comparePrice: 12.95 EUR
 prodname: 'Sloggi Ever Fresh Tai Braguita   Skyline 6582   XS para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFY5XJS/?tag=tolees-21'
 descuento: '46.10'
 average: '6.98'

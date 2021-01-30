@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Aunus Bolsas Reutilizables para Almacenamiento de Alimentos 12 Piezas Bolsas Congelar Reutilizable Bolsas Reutilizables para Fruta Sándwiches Verduras 1.5mm Súper Grueso Sello Sin BPA'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XGLVCYW/?tag=tolees-21'
 descuento: '35.02'
 average: '12.590000000000002'

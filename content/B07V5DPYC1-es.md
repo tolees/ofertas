@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'longzon 12pcs Pajitas Reutilizables Pajitas de Acero Inoxidable de 8.5 pulgadas  Pajitas Metalicas con 2 cepillitos 12 pcs boquillas de silicona y bolsita sin BPA para Bebidas - 6 Rectas 6 curvados'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V5DPYC1/?tag=tolees-21'
 descuento: '32.03'
 average: '8.39'

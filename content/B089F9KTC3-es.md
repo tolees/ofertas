@@ -16,6 +16,7 @@ comparePrice: 23.38 EUR
 prodname: 'MagiDeal Mando A Distancia De Repuesto para 2 PCS Apto para El Sistema Wave Music para AWRC-C1 AWRC-C2 AWRC-C3 AWRC-C4'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089F9KTC3/?tag=tolees-21'
 descuento: '44.44'
 average: '12.99'

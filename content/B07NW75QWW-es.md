@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Skechers Women s Stamina Trainers  Grey  Gray Suede/Orange & Yellow Mesh/Black Trim Gyor   5 UK  38 EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NW75QWW/?tag=tolees-21'
 descuento: '30.09'
 average: '42.2'

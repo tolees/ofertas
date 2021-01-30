@@ -16,6 +16,7 @@ comparePrice: 191.27 EUR
 prodname: 'Emporio Armani Reloj Analogico para Mujer de Cuarzo con Correa en Acero Inoxidable AR11177'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J41MDH5/?tag=tolees-21'
 descuento: '30.00'
 average: '133.88'

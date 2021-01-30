@@ -16,6 +16,7 @@ comparePrice: 32.9 EUR
 prodname: 'Cinturon Pelvico  Ajustable Platillos Corrección con airbag  platillos vendaje postparto correa correa de cintura Post partum Recovery banda Cuerpo Forma Cinturón del suelo pélvico banda Cinturón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FN1T25G/?tag=tolees-21'
 descuento: '60.21'
 average: '13.09'

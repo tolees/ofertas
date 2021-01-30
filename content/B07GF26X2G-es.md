@@ -16,6 +16,7 @@ comparePrice: 25.98 EUR
 prodname: 'YaYuu Garmin Fenix 3/Fenix 5 x Reloj Banda  Suave Silicona Reloj Accesorio Correa de Repuesto para Smart Garmin Fenix 3/Fenix 3 HR/Fenix 5 x Reloj  Blanco  B  Black + Mignight '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GF26X2G/?tag=tolees-21'
 descuento: '53.85'
 average: '12.129999999999999'

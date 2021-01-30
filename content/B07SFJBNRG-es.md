@@ -16,6 +16,7 @@ comparePrice: 20.46 EUR
 prodname: 'Levi s Global Vulca-Low s  Zapatillas para Mujer  Negro  R Black 59   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SFJBNRG/?tag=tolees-21'
 descuento: '27.13'
 average: '14.91'

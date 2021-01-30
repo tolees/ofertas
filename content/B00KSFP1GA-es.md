@@ -16,6 +16,7 @@ comparePrice: 19.68 EUR
 prodname: 'BC Corona FUK10402 Monaco Juego de Fundas  Negro/Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KSFP1GA/?tag=tolees-21'
 descuento: '40.70'
 average: '11.67'

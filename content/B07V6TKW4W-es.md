@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Tommy Hilfiger Iconic Long Lace Sneaker  Zapatillas para Hombre  Beige  Stone Aep   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V6TKW4W/?tag=tolees-21'
 descuento: '34.91'
 average: '38.99'

@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Vans Ultrarange Rapidweld  Zapatillas Unisex Adulto  Negro  Black/White Y28   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074QTWGFH/?tag=tolees-21'
 descuento: '27.02'
 average: '72.98'

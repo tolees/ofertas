@@ -16,6 +16,7 @@ comparePrice: 28.06 EUR
 prodname: 'Star Trek Starfleet Command Division Insignia de Réplica'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00L3RJGRW/?tag=tolees-21'
 descuento: '36.60'
 average: '14.774999999999999'

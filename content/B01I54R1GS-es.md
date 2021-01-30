@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'DIGITNOW! 22MP Escáner de negativos y diapositivas   Convertidor digital con 2 4"LCD para 35 mm/ Super 8/ 110/ 126 película'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01I54R1GS/?tag=tolees-21'
 descuento: '34.62'
 average: '88.46647058823528'

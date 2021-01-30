@@ -16,6 +16,7 @@ comparePrice: 17.98 EUR
 prodname: 'GOXAWEE 20 Piezas Fresas HSS Encaminamiento Router Bits Madera Fresado Fresas 3 mm Broca para Dremel/Accesorios para Herramientas Rotatorias/Bricolaje  Carpintería  Herramientas de Grabado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074Z5JJBJ/?tag=tolees-21'
 descuento: '27.81'
 average: '12.98'

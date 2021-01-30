@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Ebotics Croc & Play - Kit creación interactiva  17 entradas  toma de tierra '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071CP5MZ1/?tag=tolees-21'
 descuento: '67.49'
 average: '12.97'

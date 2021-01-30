@@ -16,6 +16,7 @@ comparePrice: 17.7 EUR
 prodname: 'Magno - Desodorante Marine - 150ml  pack de 6  Total: 900ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071KCB2HG/?tag=tolees-21'
 descuento: '45.76'
 average: '9.6'

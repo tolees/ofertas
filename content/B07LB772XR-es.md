@@ -16,6 +16,7 @@ comparePrice: 799.0 EUR
 prodname: 'Bowflex PR1000 Gimnasio casero  Adultos Unisex  Rojo  Negro  Gris  Talla Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LB772XR/?tag=tolees-21'
 descuento: '61.07'
 average: '374.5742857142857'

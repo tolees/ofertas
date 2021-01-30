@@ -16,6 +16,7 @@ comparePrice: 30.96 EUR
 prodname: 'Pendrive 32GB 3 Piezas Memorias USB 2.0 - Metal Aluminio Flash Drive 32 GB con Llevaro para Empresa de Conferencia - Datarm Portátil Pen Drive 3 Unidades Almacenamiento de Datos Económico Llaves USB'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R69GB6M/?tag=tolees-21'
 descuento: '32.30'
 average: '20.96'

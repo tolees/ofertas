@@ -16,6 +16,7 @@ comparePrice: 8.73 EUR
 prodname: 'Benbat Amigos de Viaje - Reposacabezas  1-4 años  diseño gato'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0034HDCME/?tag=tolees-21'
 descuento: '32.76'
 average: '7.300000000000001'

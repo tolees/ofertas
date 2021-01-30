@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'Manta de muselina para bebé  suave muselina de algodón para niños o niñas  regalo de baby shower Batman Mask'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G7BSV37/?tag=tolees-21'
 descuento: '41.70'
 average: '6.99'

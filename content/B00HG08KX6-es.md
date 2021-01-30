@@ -16,6 +16,7 @@ comparePrice: 169.0 EUR
 prodname: 'Fossil Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable ES3546'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00HG08KX6/?tag=tolees-21'
 descuento: '43.80'
 average: '94.98'

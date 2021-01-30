@@ -16,6 +16,7 @@ comparePrice: 319.9 EUR
 prodname: 'Tria Beauty HRLP W - Depiladora láser de precisión'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01JGLC11O/?tag=tolees-21'
 descuento: '31.54'
 average: '203.07333333333332'

@@ -16,6 +16,7 @@ comparePrice: 27.99 EUR
 prodname: 'POMILE HD cámara web  computadora portátil USB PC cámara web con micrófono con clip de 360 grados para computadora de escritorio PC portátil Skype negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086P8S6FM/?tag=tolees-21'
 descuento: '32.15'
 average: '18.99'

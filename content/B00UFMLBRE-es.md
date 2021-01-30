@@ -16,6 +16,7 @@ comparePrice: 20.95 EUR
 prodname: 'adidas Tango Glider Balón  Unisex Adulto  Blanco/Negro  4'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00UFMLBRE/?tag=tolees-21'
 descuento: '42.77'
 average: '11.99'

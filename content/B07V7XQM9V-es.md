@@ -16,6 +16,7 @@ comparePrice: 69.9 EUR
 prodname: 'Tommy Hilfiger Essential Nautical Sneaker  Zapatillas para Mujer  Azul  Desert Sky Dw5   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V7XQM9V/?tag=tolees-21'
 descuento: '31.33'
 average: '46.88'

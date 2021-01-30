@@ -16,6 +16,7 @@ comparePrice: 50.41 EUR
 prodname: 'Zapatillas de Running para Unisex Niños Gimnasia Ligero Running Atletismo Sneakers Niñas Gris Claro 39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083FCVF82/?tag=tolees-21'
 descuento: '42.49'
 average: '28.99'

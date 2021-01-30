@@ -16,6 +16,7 @@ comparePrice: 43.52 EUR
 prodname: 'New Balance 624v5  Zapatillas Deportivas para Interior para Mujer  Negro  Black/Black Black/Black   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KRCS9HX/?tag=tolees-21'
 descuento: '32.38'
 average: '29.43'

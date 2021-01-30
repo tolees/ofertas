@@ -16,6 +16,7 @@ comparePrice: 339.0 EUR
 prodname: 'HP 27MX - Monitor  27"  velocidad de 144 Hz  Tecnología AMD FreeSync  iluminación ambiental  1920 x 1080 a 60 Hz  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q2FG1BM/?tag=tolees-21'
 descuento: '26.55'
 average: '220.7788888888889'

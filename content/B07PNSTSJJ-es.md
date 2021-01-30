@@ -16,6 +16,7 @@ comparePrice: 17.37 EUR
 prodname: 'Robluee - Juego de Pinzas para círculos  Cuatro Cabezales  Multifuncional  Herramienta de desmontaje de muelles'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PNSTSJJ/?tag=tolees-21'
 descuento: '95.80'
 average: '0.73'

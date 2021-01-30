@@ -16,6 +16,7 @@ comparePrice: 15.98 EUR
 prodname: 'Gembird spg5-c-5 - regleta de 5 Tomas con protección antipicos  250 j  250 v  50/60 hz  16 a  1. 5 m   Color Negro.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0053F1UYC/?tag=tolees-21'
 descuento: '33.60'
 average: '10.61'

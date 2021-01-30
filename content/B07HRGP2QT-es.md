@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Azdome Altavoz Bluetooth 20W Waterproof IPX7 [15 Horas 5200mAh] Altavoz inalámbrico con [DSP 3D Surround Sound] Bluetooth 4.2 Dual-Driver  micrófono  Llamada Manos Libres'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HRGP2QT/?tag=tolees-21'
 descuento: '42.51'
 average: '26.49'

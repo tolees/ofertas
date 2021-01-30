@@ -16,6 +16,7 @@ comparePrice: 70 EUR
 prodname: 'Eastpak STATION + Bolsa de viaje  62 cm  58 liters  Negro  Black '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DNZVTYZ/?tag=tolees-21'
 descuento: '30.01'
 average: '48.99'

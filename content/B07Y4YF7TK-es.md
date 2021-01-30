@@ -16,6 +16,7 @@ comparePrice: 399.99 EUR
 prodname: 'HP M01-F0026ns - Ordenador de sobremesa  AMD Athlon  SDRAM DDR4-2666 de 8 GB  SSD de 512 GB  AMD Radeon Vega 3  FreeDOS  Negro Azabache'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y4YF7TK/?tag=tolees-21'
 descuento: '25.00'
 average: '299.99'

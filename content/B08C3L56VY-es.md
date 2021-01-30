@@ -16,6 +16,7 @@ comparePrice: 26.7 EUR
 prodname: 'Montecillo Singladuras Vino blanco Denominación de origen Riax Baixas uva 100% Albariño - 3 botellas de 75cl - Total: 225 cl'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08C3L56VY/?tag=tolees-21'
 descuento: '31.99'
 average: '18.16'

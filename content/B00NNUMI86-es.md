@@ -16,6 +16,7 @@ comparePrice: 17.55 EUR
 prodname: 'LIPIKAR BAUME AP+ ROCHE POSAY 200 ML'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NNUMI86/?tag=tolees-21'
 descuento: '32.54'
 average: '11.84'

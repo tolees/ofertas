@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Reebok Cl Lthr  Zapatillas de Deporte para Hombre  Blanco  White/Gum 2   42.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XJYVJ0Y/?tag=tolees-21'
 descuento: '40.79'
 average: '61.1425'

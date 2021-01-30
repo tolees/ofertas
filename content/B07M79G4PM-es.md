@@ -16,6 +16,7 @@ comparePrice: 79.0 EUR
 prodname: 'HKT by Hackett Hkt SS Str Rby Polo   Ink 591   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M79G4PM/?tag=tolees-21'
 descuento: '70.94'
 average: '22.96'

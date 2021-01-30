@@ -16,6 +16,7 @@ comparePrice: 100 EUR
 prodname: 'Asics Gel-Odyssey  Walking Shoe Womens  Black/Black  38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JVTDHK7/?tag=tolees-21'
 descuento: '27.26'
 average: '64.92999999999999'

@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Pulidora de Coche  GALAX PRO 1200W Velocidad 1000-3000RPM Máquina de Pulir Electrónico lijadora  180mm Almohadilla de Lana  D-Mango Desmontable  Comienzo Suave para Pulir Autos  Botes y Muebles'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MTFHSHH/?tag=tolees-21'
 descuento: '25.00'
 average: '59.99'

@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'BRIKSMAX Kit de Iluminación Led para Lego Star Wars Kylo Ren s Tie Fighter  Compatible con Ladrillos de Construcción Lego Modelo 75179  Juego de Legos no Incluido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TZPGNBR/?tag=tolees-21'
 descuento: '61.01'
 average: '38.99'

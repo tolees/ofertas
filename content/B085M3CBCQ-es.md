@@ -16,6 +16,7 @@ comparePrice: 15.98 EUR
 prodname: 'Suhctup Funda Compatible con Huawei P10 Plus Carcasa Protectora de Silicona Transparente TPU Bumper con Floral Diseño Ultra Fina Anti-Choques y Anti-Arañazos Resistente Case Miticolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085M3CBCQ/?tag=tolees-21'
 descuento: '50.06'
 average: '7.98'

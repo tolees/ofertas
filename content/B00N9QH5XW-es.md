@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'Helly Hansen HH Duffel Bag 2 30L Bolsa de Viaje  Unisex Adulto  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00N9QH5XW/?tag=tolees-21'
 descuento: '50.60'
 average: '41.498333333333335'

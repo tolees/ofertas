@@ -16,6 +16,7 @@ comparePrice: 25.49 EUR
 prodname: 'SELECT Mundo – Balón de Balonmano  Color Purple/Orange  tamaño 1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072MB8MZQ/?tag=tolees-21'
 descuento: '40.80'
 average: '15.366666666666665'

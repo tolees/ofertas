@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Skagen Pendiente para Mujer SKJ1057040'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074VCKB79/?tag=tolees-21'
 descuento: '51.11'
 average: '22.0'

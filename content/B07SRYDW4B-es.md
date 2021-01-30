@@ -16,6 +16,7 @@ comparePrice: 109.0 EUR
 prodname: 'Lacoste 739CMA00111B4  Zapatillas para Hombre  Negro  40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SRYDW4B/?tag=tolees-21'
 descuento: '34.91'
 average: '70.95'

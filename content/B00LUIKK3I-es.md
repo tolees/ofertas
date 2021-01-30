@@ -16,6 +16,7 @@ comparePrice: 94.95 EUR
 prodname: 'Adidas Stan Smith  Zapatillas de Deporte Unisex Adulto  Blanco  Running White Footwear/Running White/Fairway   41 1/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00LUIKK3I/?tag=tolees-21'
 descuento: '29.97'
 average: '67.74'

@@ -16,6 +16,7 @@ comparePrice: 31.41 EUR
 prodname: 'Mimosín Creaciones Flor de Lirio y Lima Suavizante Concentrado para 58 lavados - 9 Suavizantes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073QRSGLK/?tag=tolees-21'
 descuento: '33.17'
 average: '21.815714285714282'

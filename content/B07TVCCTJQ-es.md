@@ -16,6 +16,7 @@ comparePrice: 29.0 EUR
 prodname: 'Ácido Hialurónico puro 400 mg | 120 cápsulas veganas  Suministro para 4 meses  | Alta dosis  concentración y biodisponibilidad que mantiene los cartílagos  articulaciones  huesos y piel sanos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TVCCTJQ/?tag=tolees-21'
 descuento: '41.31'
 average: '17.02'

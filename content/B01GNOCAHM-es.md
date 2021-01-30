@@ -16,6 +16,7 @@ comparePrice: 39.98 EUR
 prodname: 'Luz Solar  Kealive Lámpara Solar Exterior  8 Colores Ajustables  Lámpara Solar Clase IP67 a Prueba De Agua Fuera de La Forma de La Piedra Para Jardín  Patio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GNOCAHM/?tag=tolees-21'
 descuento: '42.52'
 average: '22.98'

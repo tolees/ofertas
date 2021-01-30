@@ -16,6 +16,7 @@ comparePrice: 15.0 EUR
 prodname: 'Hurley U Rebound Solid Wallet Monederos  Hombre  Black  1SIZE'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SQZRLN8/?tag=tolees-21'
 descuento: '44.00'
 average: '8.660000000000002'

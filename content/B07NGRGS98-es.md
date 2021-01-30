@@ -16,6 +16,7 @@ comparePrice: 17.46 EUR
 prodname: 'Zippy ZY Retro  Zapatillas de Estar por casa para Bebés  Azul  Dress Blue 19-4024 TC 185   22 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NGRGS98/?tag=tolees-21'
 descuento: '65.52'
 average: '6.02'

@@ -16,6 +16,7 @@ comparePrice: 11.94 EUR
 prodname: 'POP THE OFFICE DWIGHT AS ELF V'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W5QZDXJ/?tag=tolees-21'
 descuento: '55.86'
 average: '5.96'

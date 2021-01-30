@@ -16,6 +16,7 @@ comparePrice: 49.0 EUR
 prodname: 'Beurer EM 32 Electroestimulador EMS Cinturón Abdominal 5 programas de entrenamiento  2 electrodos agua sin necesidad de geles ni recambios  pantalla LCD  75-140cm cintura'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01KUU63UU/?tag=tolees-21'
 descuento: '38.80'
 average: '31.21354838709677'

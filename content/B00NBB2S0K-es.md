@@ -16,6 +16,7 @@ comparePrice: 629.0 EUR
 prodname: 'Compex SP 4.0. Electroestimulador  Unisex'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NBB2S0K/?tag=tolees-21'
 descuento: '30.21'
 average: '439.0'

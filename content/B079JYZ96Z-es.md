@@ -16,6 +16,7 @@ comparePrice: 4.46 EUR
 prodname: 'YAZILIND elegante joyer¨ªa de dise?o simple plata plateado gotas de agua aretes de oreja ganchos para las mujeres'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079JYZ96Z/?tag=tolees-21'
 descuento: '67.26'
 average: '1.46'

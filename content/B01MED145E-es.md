@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'Dr Brown  s prevent chupete  6 A 12 meses  color azul  pack de 2 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MED145E/?tag=tolees-21'
 descuento: '30.59'
 average: '6.24'

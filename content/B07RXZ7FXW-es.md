@@ -16,6 +16,7 @@ comparePrice: 42.49 EUR
 prodname: 'Pepe Jeans Sloane Pantalones  Azul  Chatham Blue 586   Talla única  Talla del Fabricante: W38/L32  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RXZ7FXW/?tag=tolees-21'
 descuento: '28.08'
 average: '30.56'

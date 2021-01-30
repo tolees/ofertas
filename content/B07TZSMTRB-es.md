@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'Opriox Protector Bucal Profesional Deportivo  para Boxeo  Rugby  MMA Muay Thai  Hockey  Judo  Karate Artes Marciales  Blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TZSMTRB/?tag=tolees-21'
 descuento: '50.05'
 average: '9.99'

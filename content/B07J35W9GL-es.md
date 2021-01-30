@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'Levi s Hodges  Botas Militares para Hombre  Amarillo  Boots 74   46 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J35W9GL/?tag=tolees-21'
 descuento: '62.93'
 average: '36.81714285714286'

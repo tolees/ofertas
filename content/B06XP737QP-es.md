@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Naipo Silla de Masaje Plegable Ligera y Portátil para Fisioterapia  Tatuaje y Rehabilitación con Reposabrazos Ajustable  Soporte Pectoral  Reposacabezas y Funda de Transporte Oxford Negro  9.3 kg '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XP737QP/?tag=tolees-21'
 descuento: '30.77'
 average: '90.58999999999999'

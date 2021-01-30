@@ -16,6 +16,7 @@ comparePrice: 189.0 EUR
 prodname: 'Fossil Reloj Cronógrafo para Hombre de Cuarzo con Correa en Acero Inoxidable JR1401'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B008AXYWHQ/?tag=tolees-21'
 descuento: '51.85'
 average: '120.62608695652175'

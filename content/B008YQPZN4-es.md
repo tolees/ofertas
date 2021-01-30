@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Remington Titanium-X Dual Foil F7800 Afeitadora de Láminas Inalámbrica  Tecnología de Afeitado Triple'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B008YQPZN4/?tag=tolees-21'
 descuento: '52.37'
 average: '48.286818181818184'

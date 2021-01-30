@@ -16,6 +16,7 @@ comparePrice: 49.98 EUR
 prodname: 'Espejo Maquillaje  TOUCHBeauty Espejo de Maquillaje Tríptico con Aumento 7X  3X  2X  1X  Espejos de mesa  Espejo Cosmético Pantalla Táctil en Iluminacíon 34 Leds  Recargable espejo cosmético encimera'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WRKRV1T/?tag=tolees-21'
 descuento: '34.01'
 average: '32.98'

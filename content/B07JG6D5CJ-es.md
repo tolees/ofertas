@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Boriyuan Funda teclado iPad 9.7 Funda con teclado español cuero para iPad 9.7 2018 6th/2017 5th iPad Pro 9.7/iPad Air 2/Air 1 con Bluetooth Inalámbrico 7 colores backlit Teclado para iPad 9.7 pulgadas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JG6D5CJ/?tag=tolees-21'
 descuento: '35.12'
 average: '22.7'

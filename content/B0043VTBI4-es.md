@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Creative Live!CAM Chat HD - Webcam HD micrófono Incorporado   Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0043VTBI4/?tag=tolees-21'
 descuento: '36.81'
 average: '18.7'

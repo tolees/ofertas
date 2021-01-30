@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Set de Regalo de Piedras Refrigerantes para Whisky - 6 Piedras de Granito  Hechas a Mano - 2 Vasos de Cristal de Calidad - Bandeja de Madera Noble - Caja Elegante con Adornos de Oro de R.O.C.K.S.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087NR7TQ7/?tag=tolees-21'
 descuento: '26.19'
 average: '35.56666666666666'

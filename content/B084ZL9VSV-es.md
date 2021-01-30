@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Grifo de Cocina  TACKLIFE DAKF9F Grifo para Fregadero de Acero Inoxidable  Grifo Cocina con Ducha Extraíble de 3 Modos de Chorro  Grifo Giratorio de 360 °  Grifo Monomando Mezcla Agua Fría y Caliente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084ZL9VSV/?tag=tolees-21'
 descuento: '28.58'
 average: '49.99'

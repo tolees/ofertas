@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Anker Soundcore Spirit Pro Intraaural Dentro de oído Negro  Gris - Auriculares  Intraaural  Dentro de oído  Inalámbrico  Bluetooth  17 g  Negro  Gris '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GT7N9Q8/?tag=tolees-21'
 descuento: '44.43'
 average: '20.0'

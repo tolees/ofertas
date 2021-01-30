@@ -16,6 +16,7 @@ comparePrice: 279.0 EUR
 prodname: 'HP Z4N74AA - Monitor curvo Full HD de 27"  1920 x 1080  panel VA LED  60 Hz  16:9  5 ms  HDMI  DisplayPort 1.2  bisel superreducido  AMD FreeSync   color blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071LM1HYK/?tag=tolees-21'
 descuento: '39.37'
 average: '191.4407692307692'

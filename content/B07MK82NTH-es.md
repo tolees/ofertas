@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Le Coq Sportif Break COCARDE  Zapatillas Unisex Adulto  Blanco  Optical White/Tricolore Optical White/Tricolore   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MK82NTH/?tag=tolees-21'
 descuento: '80.36'
 average: '18.66'

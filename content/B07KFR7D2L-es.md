@@ -16,6 +16,7 @@ comparePrice: 1199.0 EUR
 prodname: 'Lenovo Legion Y530 Ordenador portátil gaming 15.6" FullHD  Intel Core i5-8300H  8GB de RAM  1TB HDD  Nvidia GTX1050 de 4GB  Windows10   + Monitor Lenovo L24q de 24"'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KFR7D2L/?tag=tolees-21'
 descuento: '33.36'
 average: '813.164'

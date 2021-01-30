@@ -16,6 +16,7 @@ comparePrice: 132.3 EUR
 prodname: 'Love MoschinoJc4093pp1aMujerBolso de manoNegro  Negro 4x11x18 centimeters  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S5C9M3B/?tag=tolees-21'
 descuento: '52.89'
 average: '62.33'

@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'PUMA LQDCELL Shatter XT Luster Wn s  Zapatillas Deportivas para Interior para Mujer  White White  41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KG16JMB/?tag=tolees-21'
 descuento: '45.02'
 average: '54.95'

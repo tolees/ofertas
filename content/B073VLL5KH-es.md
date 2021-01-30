@@ -16,6 +16,7 @@ comparePrice: 2.95 EUR
 prodname: 'Garnier Fructis Acondicionador Adios Daños - 250 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073VLL5KH/?tag=tolees-21'
 descuento: '66.10'
 average: '1.0'

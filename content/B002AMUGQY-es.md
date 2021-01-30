@@ -16,6 +16,7 @@ comparePrice: 78.0 EUR
 prodname: 'Sisley Loción Tónica Floral sin alcohol  piel seca / sensible - 250 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002AMUGQY/?tag=tolees-21'
 descuento: '37.69'
 average: '48.6'

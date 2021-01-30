@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'L Oréal Paris False Lash Superstar Xfiber Máscara de Pestañas - Step 1 7.1 ml  Step 2 6.9 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MY6WFTW/?tag=tolees-21'
 descuento: '46.56'
 average: '7.9766666666666675'

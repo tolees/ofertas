@@ -16,6 +16,7 @@ comparePrice: 52.0 EUR
 prodname: 'Kelme - Zapatillas Precision Elite 2.0'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PWMD8M1/?tag=tolees-21'
 descuento: '53.92'
 average: '23.96'

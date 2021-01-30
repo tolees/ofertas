@@ -16,6 +16,7 @@ comparePrice: 36.99 EUR
 prodname: 'MomMed Oxímetro de Pulso  Oxímetro digital de pulso digital con alarma | Lecturas precisas SpO2  índice de perfusión  oxígeno en sangre  frecuencia del pulso  BPM | Fácil de leer | Uso para atletas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0863XV1MD/?tag=tolees-21'
 descuento: '43.25'
 average: '20.99'

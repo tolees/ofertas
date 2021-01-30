@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Techair TAN1204V2 - Maletín para portátil de 14.1"  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005E0DKN0/?tag=tolees-21'
 descuento: '63.24'
 average: '10.656666666666666'

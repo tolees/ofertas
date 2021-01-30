@@ -16,6 +16,7 @@ comparePrice: 37.99 EUR
 prodname: 'Nike W Nk Dry Get Fit FLC HD FZ JDI Long Sleeved T-Shirt  Mujer  Black/White  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RCNSS4S/?tag=tolees-21'
 descuento: '35.30'
 average: '24.58'

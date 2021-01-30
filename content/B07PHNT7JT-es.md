@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'ARCTIC Alpine AM4 Series - Procesador Enfriador  Ventilador de PC  Procesador  Enfriador  AMD Socket AM4  92 mm  100-2000 RPM  Aluminio  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PHNT7JT/?tag=tolees-21'
 descuento: '34.72'
 average: '8.48'

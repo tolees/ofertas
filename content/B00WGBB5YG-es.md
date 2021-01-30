@@ -16,6 +16,7 @@ comparePrice: 38.3 EUR
 prodname: 'Kerastase  Suero de pelo - 30 ml.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00WGBB5YG/?tag=tolees-21'
 descuento: '29.82'
 average: '28.226666666666667'

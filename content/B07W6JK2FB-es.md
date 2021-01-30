@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Russell Hobbs Velocity Pro - Batidora de vaso  1000W  jarra de cristal 1 5l  cuchillas revestimiento titanio  6 puntas  gris  -ref. 25720-56'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W6JK2FB/?tag=tolees-21'
 descuento: '36.00'
 average: '63.99'

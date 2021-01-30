@@ -16,6 +16,7 @@ comparePrice: 44.95 EUR
 prodname: 'Keter -  Mesa nevera para jardín Cool Stool  Capacidad 39 litros  Color capuchino'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CFZZN3Q/?tag=tolees-21'
 descuento: '35.48'
 average: '33.3525'

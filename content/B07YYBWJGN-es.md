@@ -16,6 +16,7 @@ comparePrice: 115.0 EUR
 prodname: 'American Tourister Equipaje Infantil Logotipo de Marvel  S  55 cm - 36 L   Multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YYBWJGN/?tag=tolees-21'
 descuento: '26.93'
 average: '81.36'

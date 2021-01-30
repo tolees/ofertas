@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'FitFlop Allegro  Bailarinas con Punta Cerrada para Mujer  Red  Blush 668   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GWVF3LM/?tag=tolees-21'
 descuento: '81.50'
 average: '18.5'

@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'PowerLocus P1 – Auriculares Bluetooth inalambricos de Diadema Cascos Plegables  Casco Bluetooth con Sonido Estéreo con Conexión a Bluetooth Inalámbrico y Audio Cable para Movil  PC  Tablet - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NBV1CGD/?tag=tolees-21'
 descuento: '58.01'
 average: '21.418571428571425'

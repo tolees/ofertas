@@ -16,6 +16,7 @@ comparePrice: 64.99 EUR
 prodname: 'XJD Patinete Tres 3 Ruedas para Niños de 2 a 10 Años Scooter Desmontable Manillar Ajustable con Cerradura de Dirección para Niñas Carga Máxima 50kg'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RMY4DCM/?tag=tolees-21'
 descuento: '38.48'
 average: '39.98'

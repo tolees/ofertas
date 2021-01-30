@@ -16,6 +16,7 @@ comparePrice: 27.99 EUR
 prodname: 'Columbia Bora Bora Booney  Sombrero unisex  Fibra sintética  Color: Gris  Grill   Talla Universal  Ajustable   Art. 1447091'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B008FIFFY0/?tag=tolees-21'
 descuento: '36.62'
 average: '17.56'

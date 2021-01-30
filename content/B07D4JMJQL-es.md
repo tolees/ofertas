@@ -16,6 +16,7 @@ comparePrice: 28.22 EUR
 prodname: 'Máquina Eléctrica de Pulir Pulido Herramienta de Artesanía para Modelo DIY Bricolaje'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D4JMJQL/?tag=tolees-21'
 descuento: '44.44'
 average: '15.68'

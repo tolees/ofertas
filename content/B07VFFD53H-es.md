@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'Beikell Cable de Audio Jack  Cable Audio 3.5mm Macho Macho Nylon Trenzado Cable Auxiliar Estéreo para Audio de Coche  Altavoz  Ordenador  Auriculares  iPhone  iPod  iPad  Echo Dot  MP3 y Más 1.2M '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VFFD53H/?tag=tolees-21'
 descuento: '44.49'
 average: '4.99'

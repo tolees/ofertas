@@ -16,6 +16,7 @@ comparePrice: 7.82 EUR
 prodname: 'SimpleLife Los Huevos de Pascua llenan con un Mini Robot deformable  un Juguete Divertido para niños Sorpresa de una Bola Sorpresa de la muñeca'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TJHTX7R/?tag=tolees-21'
 descuento: '50.00'
 average: '3.91'

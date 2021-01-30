@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'Funko- Pop Disney: Onward-Dad Collectible Toy  Multicolor  45585 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TYQD1W6/?tag=tolees-21'
 descuento: '26.49'
 average: '10.773333333333333'

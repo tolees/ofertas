@@ -16,6 +16,7 @@ comparePrice: 2.22 EUR
 prodname: 'Funda universal para tableta portátil Funda ultra suave a prueba de agua con protección completa a prueba de golpes para PC portátil - Negro - 7 "'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08FWYGB96/?tag=tolees-21'
 descuento: '35.14'
 average: '1.44'

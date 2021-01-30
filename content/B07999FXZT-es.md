@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'AUKEY Hub USB C HDMI 4k  Ranuras para SD&MicroSD  Ethernet 1000 Mbps  2 USB 3.1 Puertos  Puerto USB C de Carga 100W  VGA Adaptador Multipuerto para MacBook Pro 2018/2017  iMac 2017 etc.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07999FXZT/?tag=tolees-21'
 descuento: '33.34'
 average: '43.99'

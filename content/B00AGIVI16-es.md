@@ -16,6 +16,7 @@ comparePrice: 18.0 EUR
 prodname: 'Victoria S Secret  Brillo corporal - 0.25 l'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00AGIVI16/?tag=tolees-21'
 descuento: '94.44'
 average: '1.0'

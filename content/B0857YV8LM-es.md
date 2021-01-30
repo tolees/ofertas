@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'The Sojourn'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0857YV8LM/?tag=tolees-21'
 descuento: '31.69'
 average: '23.9'

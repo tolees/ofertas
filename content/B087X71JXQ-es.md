@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Suhctup Funda Transparent Compatible para Samsung Galaxy A20/A30 Carcasa Protectora [Antigolpes] Suave Silicona TPU Bumper Cojín de Aire de Cuatro Esquinas Protector Gel para Galaxy A20/A30 A19'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087X71JXQ/?tag=tolees-21'
 descuento: '47.15'
 average: '8.98'

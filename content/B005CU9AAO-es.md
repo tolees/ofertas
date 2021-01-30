@@ -16,6 +16,7 @@ comparePrice: 29.34 EUR
 prodname: 'Lorus Sport - Reloj de Cuarzo para Hombre  con Correa de Goma  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005CU9AAO/?tag=tolees-21'
 descuento: '29.82'
 average: '20.732666666666667'

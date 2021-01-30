@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'MyHeritage ADN Kit de Salud — Pruebas Genéticas de Salud y Antepasados'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TBXT32J/?tag=tolees-21'
 descuento: '50.25'
 average: '99.0'

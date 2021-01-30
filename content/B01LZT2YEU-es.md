@@ -16,6 +16,7 @@ comparePrice: 184.34 EUR
 prodname: 'Intenso 6021512 4000GB Negro - Disco Duro Externo  4000 GB  2.5"  USB Tipo C  3.0  3.1 Gen 1   5400 RPM  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LZT2YEU/?tag=tolees-21'
 descuento: '34.32'
 average: '121.08'

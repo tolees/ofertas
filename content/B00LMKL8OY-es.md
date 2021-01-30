@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Quiksilver Carver Suede M Sndl Tkd0 - Chancletas para hombre  color Multicolor  Tan - Solid   talla 40'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00LMKL8OY/?tag=tolees-21'
 descuento: '33.64'
 average: '16.197499999999998'

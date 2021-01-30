@@ -16,6 +16,7 @@ comparePrice: 110.27 EUR
 prodname: 'Guanqin Reloj de Pulsera mecánico con Calendario analógico automático para Hombre  con Caja de Acero Inoxidable y Correa de Piel'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VBKG3MY/?tag=tolees-21'
 descuento: '48.32'
 average: '56.99'

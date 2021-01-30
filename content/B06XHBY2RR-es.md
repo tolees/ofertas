@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Helly Hansen W HH LIFA Merino Basleayer Pant  Mujer  Black  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XHBY2RR/?tag=tolees-21'
 descuento: '25.25'
 average: '49.70333333333334'

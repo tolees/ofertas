@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Arbily Auriculares Inalámbricos  Auriculares Estéreo Bluetooth 5.0 en la Oreja con Caja de Carga de Cuero Auriculares Bluetooth para Negocios  Trabajo  Deporte  Mic  Fácil de Emparejar  Impermeable '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081V3VT2R/?tag=tolees-21'
 descuento: '68.84'
 average: '27.47888888888889'

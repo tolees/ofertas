@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Lacoste L1312 Polo  Azul  Marine   M  Talla del fabricante: 4  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00K1WCMJE/?tag=tolees-21'
 descuento: '49.55'
 average: '49.95'

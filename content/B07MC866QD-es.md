@@ -16,6 +16,7 @@ comparePrice: 8.95 EUR
 prodname: 'Real Madrid RD-121-RM Despertador Campanas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MC866QD/?tag=tolees-21'
 descuento: '49.94'
 average: '4.48'

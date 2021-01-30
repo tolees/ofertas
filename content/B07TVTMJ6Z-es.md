@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Women s Secret Cotton Print Black Flower Sujetador básico  Multicolor  Hielo 94   95  Tamaño del Fabricante: 95B  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TVTMJ6Z/?tag=tolees-21'
 descuento: '54.21'
 average: '7.78'

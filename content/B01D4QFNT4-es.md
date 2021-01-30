@@ -16,6 +16,7 @@ comparePrice: 10.36 EUR
 prodname: 'Revell- Modelo Clamp Set  8   Color Negro  39070 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01D4QFNT4/?tag=tolees-21'
 descuento: '42.18'
 average: '5.99'

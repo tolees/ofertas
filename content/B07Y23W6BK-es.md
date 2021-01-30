@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'TECHGEAR Funda Impermeable para iPad 7 10.2" [Poseidon Funda] Resistente a Prueba de choques Carcasa con Protector de Pantalla Incorporado + Soporte y Correa de Hombro para Nuevo iPad 7 10.2"'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y23W6BK/?tag=tolees-21'
 descuento: '40.04'
 average: '29.95'

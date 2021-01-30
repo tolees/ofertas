@@ -16,6 +16,7 @@ comparePrice: 329.0 EUR
 prodname: 'Michael Kors Reloj Cronógrafo para Unisex Adultos de Cuarzo con Correa en Acero Inoxidable MK8666'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J24YJJ8/?tag=tolees-21'
 descuento: '30.36'
 average: '229.12'

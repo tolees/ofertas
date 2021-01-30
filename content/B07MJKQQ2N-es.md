@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Adidas Advantage K  Zapatillas de Tenis Unisex niño  Blanc Rose Intense Blanc  28 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MJKQQ2N/?tag=tolees-21'
 descuento: '29.94'
 average: '27.99'

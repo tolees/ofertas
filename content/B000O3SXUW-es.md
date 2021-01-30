@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'Cressi DP182041 Aletas  Unisex-Youth  Azul  41/42'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000O3SXUW/?tag=tolees-21'
 descuento: '43.93'
 average: '13.99'

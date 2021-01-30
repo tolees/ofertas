@@ -16,6 +16,7 @@ comparePrice: 4.43 EUR
 prodname: 'Manchester City FC - Pulsera de silicona oficial de v  Talla Única   Azul claro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072PTRBY1/?tag=tolees-21'
 descuento: '33.41'
 average: '2.8666666666666667'

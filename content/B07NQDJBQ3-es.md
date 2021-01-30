@@ -16,6 +16,7 @@ comparePrice: 32.19 EUR
 prodname: 'Unidad externa de CD y DVD  VersionTECH. USB 3.0 - Grabadora portátil de CD +/-RW DVD +/-RW Superdrive compatible con MacBook Pro/Air iMac Laptop Notebook'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NQDJBQ3/?tag=tolees-21'
 descuento: '29.26'
 average: '22.775'

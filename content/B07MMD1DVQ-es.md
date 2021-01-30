@@ -16,6 +16,7 @@ comparePrice: 10.87 EUR
 prodname: 'Sentido Y Sensibilidad [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MMD1DVQ/?tag=tolees-21'
 descuento: '31.92'
 average: '7.4'

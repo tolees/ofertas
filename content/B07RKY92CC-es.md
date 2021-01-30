@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'adidas Stan Smith  Zapatillas para Hombre  Blanco  Footwear White/Core Black/Footwear White 0   41 1/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RKY92CC/?tag=tolees-21'
 descuento: '56.08'
 average: '43.9'

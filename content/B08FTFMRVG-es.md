@@ -16,6 +16,7 @@ comparePrice: 8.5 EUR
 prodname: 'EXCEART 12 Piezas de Longitud Ajustable Face Mask Máscaras Cadena Titular Máscara Correa de Cordón con Cierre de Seguridad para Mujeres Hombres Niños Adultos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08FTFMRVG/?tag=tolees-21'
 descuento: '34.12'
 average: '5.6'

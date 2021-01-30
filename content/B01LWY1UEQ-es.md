@@ -16,6 +16,7 @@ comparePrice: 5.99 EUR
 prodname: 'Falomir Parchís Magnético  Juego de Mesa  Clásicos  16 x 16 cm  27902 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LWY1UEQ/?tag=tolees-21'
 descuento: '33.39'
 average: '3.99'

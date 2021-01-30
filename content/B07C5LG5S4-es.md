@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Jack & Jones Jjeholmen Sweat Hood Noos Capucha  Rojo  Port Royale Fit:Reg Fit   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C5LG5S4/?tag=tolees-21'
 descuento: '40.02'
 average: '16.766666666666666'

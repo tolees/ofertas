@@ -16,6 +16,7 @@ comparePrice: 99 EUR
 prodname: 'Lacoste Carnaby EVO 319 1 SMA  Zapatillas para Hombre  Blanco  Wht/Dk Grn 1r5   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L9P1VNZ/?tag=tolees-21'
 descuento: '32.33'
 average: '66.99'

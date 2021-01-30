@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Calvin Klein PUFFER FLAT CROSSOVERHombreShoppers y bolsos de hombroNegro  Black  3x26x21 centimeters  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N5VZ8B4/?tag=tolees-21'
 descuento: '50.00'
 average: '39.510000000000005'

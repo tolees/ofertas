@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'Burton Tinder Mochilas  Unisex Adulto  Keef Heather'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KFTZZ6F/?tag=tolees-21'
 descuento: '37.30'
 average: '43.89'

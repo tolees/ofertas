@@ -16,6 +16,7 @@ comparePrice: 399.0 EUR
 prodname: 'Hugo BOSS Reloj de pulsera 1513704'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KTR2ZYK/?tag=tolees-21'
 descuento: '30.00'
 average: '279.3'

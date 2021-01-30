@@ -16,6 +16,7 @@ comparePrice: 32 EUR
 prodname: 'find. MDR 40625 vestidos mujer  Verde  Green   44  Talla del fabricante: X-Large '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077HWQMSY/?tag=tolees-21'
 descuento: '62.50'
 average: '12.0'

@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Mass Effect: Andrómeda  La caja contiene un código de descarga - Origin '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ZIVYTT4/?tag=tolees-21'
 descuento: '46.61'
 average: '14.317499999999999'

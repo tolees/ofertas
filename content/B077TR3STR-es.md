@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'Reebok  Zapatillas de Deporte Unisex Adulto  Multicolor  Bs9525 Multicolor   40.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077TR3STR/?tag=tolees-21'
 descuento: '35.77'
 average: '26.45'

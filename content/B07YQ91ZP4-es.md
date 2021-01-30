@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Frozen Nature-Mochila Bouquet'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YQ91ZP4/?tag=tolees-21'
 descuento: '53.48'
 average: '13.95'

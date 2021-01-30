@@ -16,6 +16,7 @@ comparePrice: 219.95 EUR
 prodname: 'adidas Predator 19.1 FG  Zapatillas de Fútbol para Hombre  Azul  Bright Cyan/Core Black/Solar Yellow Bright Cyan/Core Black/Solar Yellow   39 1/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SQGGJMT/?tag=tolees-21'
 descuento: '35.01'
 average: '142.95'

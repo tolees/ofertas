@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'New Balance 574 Core Zapatillas Hombre  Azul  Blue Navy   42 EU  8 UK '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06Y2XZMB3/?tag=tolees-21'
 descuento: '45.37'
 average: '58.995000000000005'

@@ -16,6 +16,7 @@ comparePrice: 159.0 EUR
 prodname: 'Parrot Mambo Mission - Dron cuadricóptero  30 Km/h  10 minutos de vuelo  100 metros de alcance  + Mando Flypad + Soporte smartphone + Cañon + 50 bolas + Pinza Grabber'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074TKNHWX/?tag=tolees-21'
 descuento: '40.97'
 average: '87.21333333333334'

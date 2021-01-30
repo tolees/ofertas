@@ -16,6 +16,7 @@ comparePrice: 11 EUR
 prodname: 'Max Factor LipFinity Colour & Gloss Lip Gloss Pintalabios Gloss Tono 570 Coral - 18 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001KNVPXM/?tag=tolees-21'
 descuento: '64.09'
 average: '3.95'

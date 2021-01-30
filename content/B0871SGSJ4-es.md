@@ -16,6 +16,7 @@ comparePrice: 24.78 EUR
 prodname: 'YPPDPP Toto Likes Videogames Square Pillow Cases Cubierta de cojín Throw Pillow Cover Funda cojine Home Bed Room Interior Decoración'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0871SGSJ4/?tag=tolees-21'
 descuento: '52.02'
 average: '11.89'

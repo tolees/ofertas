@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'BICASLOVE de Botella de Agua de Acero Inoxidable Diseño de Pared Doble Boca Estándar Para Correr Gimnasio Yoga Ciclismo 750ML Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QB3CM4F/?tag=tolees-21'
 descuento: '26.86'
 average: '13.590000000000002'

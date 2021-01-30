@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'LIGE Relojes Hombres Deportivos Impermeable Fecha Cuarzo Reloj Acero Inoxidable Negro Relojes para Hombres'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XCX869W/?tag=tolees-21'
 descuento: '78.47'
 average: '27.99'

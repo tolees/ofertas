@@ -16,6 +16,7 @@ comparePrice: 69.9 EUR
 prodname: 'Supra Hammer Run  Zapatillas Unisex Adulto  Negro  Black/White-White 009   42.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078ZKYTS1/?tag=tolees-21'
 descuento: '44.16'
 average: '39.03'

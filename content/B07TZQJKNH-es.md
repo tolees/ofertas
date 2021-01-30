@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Finether Carretilla Plegable  Carro de Transporte con 2 Ruedas y 2 Cuerda Elástica 1 5M  Carrito de Mano Portátil Multifuncional  70kg de Capacidad  Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TZQJKNH/?tag=tolees-21'
 descuento: '50.01'
 average: '37.99'

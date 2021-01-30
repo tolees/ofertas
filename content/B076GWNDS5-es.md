@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Oxímetro de Pulso Dedo Pulsioxímetro JUMPER para Saturación de Oxígeno en la Sangre y Medición de la Frecuencia del Pulso  Elegante Morado '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076GWNDS5/?tag=tolees-21'
 descuento: '38.44'
 average: '11.69'

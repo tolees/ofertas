@@ -16,6 +16,7 @@ comparePrice: 399.99 EUR
 prodname: 'Proyector  TOPTRO 6500 Lúmenes Proyector Cine en Casa Full HD 1080P Nativo 1920x1080 Proyectores LCD con Cubierta Graffiti  Soporta 4K  Corrección Trapezoidal 4D  Fonction Zoom X/Y  Presentación PPT'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YS8Z66K/?tag=tolees-21'
 descuento: '50.00'
 average: '216.65666666666667'

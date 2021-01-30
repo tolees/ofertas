@@ -16,6 +16,7 @@ comparePrice: 16.98 EUR
 prodname: 'Decdeal Piscina de Baño para Mascotas Piscina Plegable PVC Antideslizante y Resistente para Hámster Conejo Animales Pequeños Bebés Recién Nacidos Mascotas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089YHXJ1H/?tag=tolees-21'
 descuento: '43.52'
 average: '9.59'

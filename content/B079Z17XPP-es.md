@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'Tommee Tippee 42257975 - Biberón anticólico  340 ml  rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079Z17XPP/?tag=tolees-21'
 descuento: '36.49'
 average: '6.98'

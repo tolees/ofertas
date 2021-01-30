@@ -16,6 +16,7 @@ comparePrice: 140 EUR
 prodname: 'Safety 1st TIMBA con Cojín  Petrol Blue  - Trona evolutiva de madera color azul  cojín beige  de 6 meses a 10 años  hasta los 30Kg.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KL1XSK3/?tag=tolees-21'
 descuento: '52.19'
 average: '66.93'

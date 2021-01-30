@@ -16,6 +16,7 @@ comparePrice: 29.78 EUR
 prodname: 'Aigostar Stirring Set Silver 30IOO - Set de batidora de mano  picadora y varilla mezcladora  600 W  control graduable y dos velocidades. Libre de BPA  acero inoxidable tipo 304. Diseño exclusivo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N02KZGW/?tag=tolees-21'
 descuento: '26.16'
 average: '21.99'

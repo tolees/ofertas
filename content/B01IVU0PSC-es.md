@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Colgante  J.Rosée Collares Mujer Plata de Ley 925 Brillante Circonita"Ojos de Cielo" Cadena 45cm+5cm Regalos Originales Regalos de graduación'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IVU0PSC/?tag=tolees-21'
 descuento: '77.01'
 average: '14.481000000000002'

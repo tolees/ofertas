@@ -16,6 +16,7 @@ comparePrice: 124.9 EUR
 prodname: 'Tommy Hilfiger - Soft Turnlock Lrg Za  Carteras Mujer  Gris  Oatmeal   1x1x1 cm  W x H L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V4RTXCG/?tag=tolees-21'
 descuento: '69.91'
 average: '40.474999999999994'

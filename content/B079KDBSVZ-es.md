@@ -16,6 +16,7 @@ comparePrice: 57.99 EUR
 prodname: '12W LED Apliques de Pared Interior/exterior  Lamparas de salon Dormitorio  Jardín De Iluminacion con ángulo ajustable Diseño impermeable IP65 3000K Blanco Cálido  Blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079KDBSVZ/?tag=tolees-21'
 descuento: '51.73'
 average: '27.99'

@@ -16,6 +16,7 @@ comparePrice: 12.95 EUR
 prodname: 'Magiin Jarrón de Vidrio Transparente Terrario de Plantas Colgantes con Soporte de Madera Maciza Retro para Jardinería Planta de Hidroponía Decoración de Casa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P7ND3H8/?tag=tolees-21'
 descuento: '32.05'
 average: '8.8'

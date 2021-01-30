@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Asics Kanmei 2  Zapatillas de Running para Mujer  Negro  Black/Black 001   42.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CZ53RL3/?tag=tolees-21'
 descuento: '45.32'
 average: '32.81'

@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Skechers Flex Appeal 2.0 Break Free  Zapatillas De Deporte para Mujer  Negro  Bbk   35.5 EU  Talla del fabricante: 2.5 UK '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01EOS1VGK/?tag=tolees-21'
 descuento: '49.85'
 average: '37.32666666666667'

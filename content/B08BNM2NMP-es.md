@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'Linkevp Lima de pie eléctrica para eliminar callos y callos de piel dura de herramientas para el cuidado de los pies raspador de huevo piedra pómez agrietada para talones muertos recargable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BNM2NMP/?tag=tolees-21'
 descuento: '45.47'
 average: '17.99'

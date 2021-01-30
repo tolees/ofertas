@@ -16,6 +16,7 @@ comparePrice: 80.61 EUR
 prodname: 'Saucony Jazz Original Vintage  Zapatillas de Cross para Hombre  Morado  Burgundy/White 11   44.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071GM8PNB/?tag=tolees-21'
 descuento: '27.33'
 average: '58.58'

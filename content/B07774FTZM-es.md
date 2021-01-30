@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Tommy Jeans Mujer Mid Rise  Nora Jeans  Niceville Mid Stretch 916  W28/L34'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07774FTZM/?tag=tolees-21'
 descuento: '47.38'
 average: '49.99'

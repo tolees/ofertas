@@ -16,6 +16,7 @@ comparePrice: 15.67 EUR
 prodname: 'Hurley M Icon Textures Hat Gorra  Hombre  Deep Royal Blue  S/M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZPRN6C2/?tag=tolees-21'
 descuento: '29.99'
 average: '10.97'

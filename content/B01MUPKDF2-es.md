@@ -16,6 +16,7 @@ comparePrice: 20.33 EUR
 prodname: 'Dek - Zapatillas ultraligeras de cordones modelo Zeus para niños  34 EU/Gris '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MUPKDF2/?tag=tolees-21'
 descuento: '65.81'
 average: '6.95'

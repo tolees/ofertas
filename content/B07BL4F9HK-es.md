@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'RECAMBIOS DREYMA Filtro METÁLICO Campana Extractor BALAY 3BD764X  LC48955/01  2MEB60 31X25 C.O. 353110'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BL4F9HK/?tag=tolees-21'
 descuento: '30.16'
 average: '18.85'

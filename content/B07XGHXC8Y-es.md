@@ -16,6 +16,7 @@ comparePrice: 8.68 EUR
 prodname: 'Adaptador de Audio USB HiFi Magic Voice 7.1 CH con Altavoz de 3.5 mm para Auriculares y Tomas de micrófono compatibles con Windows  Mac - Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XGHXC8Y/?tag=tolees-21'
 descuento: '35.02'
 average: '5.64'

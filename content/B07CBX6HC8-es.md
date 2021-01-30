@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Jack & Jones Jjecorp Logo Sweat Hood Noos Capucha  Gris  Light Grey Melange Detail:Reg Fit - Melange   XX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CBX6HC8/?tag=tolees-21'
 descuento: '34.01'
 average: '16.49'

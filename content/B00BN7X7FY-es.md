@@ -16,6 +16,7 @@ comparePrice: 1.66 EUR
 prodname: 'Nelly Laca Spray - 125 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BN7X7FY/?tag=tolees-21'
 descuento: '40.96'
 average: '0.98'

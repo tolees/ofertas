@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Moulinex AF220010 - Freidora  Capacidad de 1 litro de Aceite  para Unos 600 gr de Comida  Acero Inoxidable  Bol Antiadherente  Filtro Metálico Incluido  Termostato Ajustable  1000 W  Plástico  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B016DMWV50/?tag=tolees-21'
 descuento: '42.15'
 average: '28.92'

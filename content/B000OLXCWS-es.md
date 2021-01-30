@@ -16,6 +16,7 @@ comparePrice: 74.74 EUR
 prodname: 'Converse Chuck Taylor All Star Hi Top  Zapatillas Unisex Adulto  Gris  Charcoal   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000OLXCWS/?tag=tolees-21'
 descuento: '25.14'
 average: '55.9625'

@@ -16,6 +16,7 @@ comparePrice: 18.35 EUR
 prodname: 'Advance Veterinary Diets Weight Balance - Pienso para gatos con tendencia a la obesidad - 3 kg'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QG19FDY/?tag=tolees-21'
 descuento: '34.77'
 average: '11.97'

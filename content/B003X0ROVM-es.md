@@ -16,6 +16,7 @@ comparePrice: 40.3 EUR
 prodname: 'Chloe 22810 Loción corporal - 200 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003X0ROVM/?tag=tolees-21'
 descuento: '33.13'
 average: '22.28333333333333'

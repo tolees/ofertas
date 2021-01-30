@@ -16,6 +16,7 @@ comparePrice: 45.95 EUR
 prodname: 'seQoya - Purple Heart| Reloj de Madera con Esfera de Madera y Correa de Piel ecológica simulando Madera Estampada | Reloj Hombre y Mujer | Diseño único y Original'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BVTQGQ4/?tag=tolees-21'
 descuento: '76.17'
 average: '19.55'

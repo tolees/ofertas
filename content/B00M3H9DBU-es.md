@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'deAO Cocinita de Juguete Playset Taburete & Maletín 2en1 con Accesorios Incluidos  Cocinita Rosa '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00M3H9DBU/?tag=tolees-21'
 descuento: '67.11'
 average: '11.906666666666666'

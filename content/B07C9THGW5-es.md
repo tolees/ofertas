@@ -16,6 +16,7 @@ comparePrice: 8.95 EUR
 prodname: 'Mr. Wonderful Llavero Mamátesales  Metal  Verde  5x4.9x0.2 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C9THGW5/?tag=tolees-21'
 descuento: '49.94'
 average: '4.48'

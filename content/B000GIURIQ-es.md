@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Optimum Nutrition ON Gold Standard 100% whey proteína en polvo suplementos deportivos con glutamina y aminoacidos micronizados incluyendo BCAA  fresa deliciosa  30 porciones  900 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000GIURIQ/?tag=tolees-21'
 descuento: '33.07'
 average: '24.286666666666665'

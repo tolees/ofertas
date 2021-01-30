@@ -16,6 +16,7 @@ comparePrice: 16.03 EUR
 prodname: 'Veeki - Ratón inalámbrico Bluetooth Ultrafino Portátil con Batería integrada y dpi Ajustable para PC  Ordenador Portátil  Tableta'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DYPBST4/?tag=tolees-21'
 descuento: '25.33'
 average: '11.97'

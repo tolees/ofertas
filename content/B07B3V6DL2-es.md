@@ -16,6 +16,7 @@ comparePrice: 19.97 EUR
 prodname: 'Dreamzie Protector de Colchón Impermeable 80 x 200 cm - Cubre Colchón Transpirable  Hipoalergénico  Anti-Ácaros Tratamiento Nueva Generacion Bi-Ome: Óptima Protección - Garantia de 15 años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B3V6DL2/?tag=tolees-21'
 descuento: '27.14'
 average: '14.55'

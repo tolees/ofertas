@@ -16,6 +16,7 @@ comparePrice: 399.0 EUR
 prodname: 'MEDION AKOYA PCC722 - Ordenador de sobremesa  Intel Core i3-8100  8 GB RAM  1 TB HDD  Intel UHD Graphics 630  Sin Sistema operativo  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FZ3TSJ1/?tag=tolees-21'
 descuento: '29.83'
 average: '319.66'

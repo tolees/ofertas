@@ -16,6 +16,7 @@ comparePrice: 17.98 EUR
 prodname: 'Luz De Advertencia De Luz Estroboscópica Giratoria LED De 24 V Señal De Señalización De Flash De Baliza Roja - 12'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MVK69Z3/?tag=tolees-21'
 descuento: '44.44'
 average: '10.132857142857143'

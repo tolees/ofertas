@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Superdry M70001ns  Pantalones de deporte Hombre  Gris  Flint Grey Grit Xje   X-Large  Talla fabricante: 36 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FB3J1PM/?tag=tolees-21'
 descuento: '46.26'
 average: '42.99'

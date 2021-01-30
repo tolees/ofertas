@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Alessi Ethno Stefano Giovannoni - Salvamanteles'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000G8NORM/?tag=tolees-21'
 descuento: '51.68'
 average: '28.99'

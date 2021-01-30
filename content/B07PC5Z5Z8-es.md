@@ -16,6 +16,7 @@ comparePrice: 1055.59 EUR
 prodname: 'Lenovo T530 - Ordenador sobremesa  Intel Core i7-8700  8GB RAM  1TB HDD + 128GB SSD  Nvidia GTX1050Ti-4GB  sin sistema operativo  negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PC5Z5Z8/?tag=tolees-21'
 descuento: '42.35'
 average: '627.19'

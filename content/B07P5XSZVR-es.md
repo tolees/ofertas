@@ -16,6 +16,7 @@ comparePrice: 5.98 EUR
 prodname: 'OurLeeme 15 unids Pincel de pintura profesional Nail Art Painting Pen Brush Pinceles de detalle y pinceles de uñas Nail Art Brushes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P5XSZVR/?tag=tolees-21'
 descuento: '50.00'
 average: '2.99'

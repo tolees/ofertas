@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'REYLEO Maleta de Cabina Rígida Ligera Equipaje de Mano de ABS con 4 Ruedas Duales Giratorias  Candado de Combinación 55 * 35 * 22CM - Azul - 33L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T4NBVLC/?tag=tolees-21'
 descuento: '41.31'
 average: '33.14384615384615'

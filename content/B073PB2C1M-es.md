@@ -16,6 +16,7 @@ comparePrice: 8.95 EUR
 prodname: 'Bourjois Velvet The Lipstick Barra de Labios Tono 02 Flaming’rose - 23 gr.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073PB2C1M/?tag=tolees-21'
 descuento: '56.54'
 average: '3.656'

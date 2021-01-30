@@ -16,6 +16,7 @@ comparePrice: 17.95 EUR
 prodname: 'Maria de Nazaret [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00FC3H9UO/?tag=tolees-21'
 descuento: '34.93'
 average: '11.68'

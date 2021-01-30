@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Lomogo Funda Sony Xperia XZ2  Cartera Funda de Cuero Ranuras para Tarjetas Cierre Magnetico Soporte Plegable Carcasa Antigolpes para Xperia XZ2 - LOYHU250654 L4'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V85NSQK/?tag=tolees-21'
 descuento: '60.23'
 average: '7.95'

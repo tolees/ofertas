@@ -16,6 +16,7 @@ comparePrice: 22.95 EUR
 prodname: 'Puma Final 5 HS Trainer Balón de Fútbol  White Red Black'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078T5JSQ6/?tag=tolees-21'
 descuento: '41.22'
 average: '14.166666666666666'

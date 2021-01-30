@@ -16,6 +16,7 @@ comparePrice: 8.8 EUR
 prodname: 'Joma Combi Camisetas Equip. M/c  Hombre  Burdeos  XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P5JL9GQ/?tag=tolees-21'
 descuento: '31.93'
 average: '5.99'

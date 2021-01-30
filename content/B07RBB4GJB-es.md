@@ -16,6 +16,7 @@ comparePrice: 62.99 EUR
 prodname: 'deAO Tienda de Campaña Tipi Castillo con Luces LED Casita de Juegos Infantil Carpa para Niños y Niñas Actividades Recreativas al Interior y Exterior Área de Recreo  Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RBB4GJB/?tag=tolees-21'
 descuento: '54.29'
 average: '28.79'

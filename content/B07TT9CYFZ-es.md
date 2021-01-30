@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Succionador de Clítoris  Vibradores para Mujer Clítoris y Punto g Vibrador  10 Modos de Vibración y Succión para Las Mujeres  Recargable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TT9CYFZ/?tag=tolees-21'
 descuento: '40.01'
 average: '25.99'

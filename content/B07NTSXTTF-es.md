@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'iVANKY Cable USB C a HDMI 2 Metros  Cable Tipo C 3.1 a HDMI 4K@60Hz para MacBook 2018/2017  Macbook Air 2018  iPad Pro 2018  Samsung Galaxy S10/S10E/S9/Note 8/S9+/S8  Huawei P30 Pro/P20'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NTSXTTF/?tag=tolees-21'
 descuento: '47.71'
 average: '15.29'

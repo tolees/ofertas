@@ -16,6 +16,7 @@ comparePrice: 78.23 EUR
 prodname: 'Epson Multipack T0807 6 colores  etiqueta RF  - Cartucho de tinta para impresoras  Negro  Cian  Cian claro  Magenta claro  Magenta  Amarillo  Epson Stylus Photo P50 Epson Stylus Photo PX650 Epson Stylus Photo PX660 Epson Stylus Photo PX700W  Inyección de tinta  Si'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0057GTUXA/?tag=tolees-21'
 descuento: '61.66'
 average: '29.99'

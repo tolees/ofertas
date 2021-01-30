@@ -16,6 +16,7 @@ comparePrice: 16.62 EUR
 prodname: 'Domestos Axe Desodorante Spray 2012 Final Edition sin aluminio 150 ml  3 Pack  3 x 150 ml '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079ZYRNKX/?tag=tolees-21'
 descuento: '35.02'
 average: '9.129999999999999'

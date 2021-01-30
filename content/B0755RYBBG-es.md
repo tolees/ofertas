@@ -16,6 +16,7 @@ comparePrice: 18.09 EUR
 prodname: 'Gebildet® Universal 5 Piezas Herramientas de Desmontaje para Audio de Coche para extraer tapicerías de vehículos  Instrumentos de Audio Desmontaje Kits Instalador Pry Tool'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0755RYBBG/?tag=tolees-21'
 descuento: '50.30'
 average: '8.99'

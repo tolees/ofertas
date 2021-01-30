@@ -16,6 +16,7 @@ comparePrice: 55.83 EUR
 prodname: 'Skechers Flex Appeal 3.0  Zapatillas para Mujer  Gris  Light Grey Hot Pink Lghp   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H5YYDY4/?tag=tolees-21'
 descuento: '40.98'
 average: '32.95'

@@ -16,6 +16,7 @@ comparePrice: 3.76 EUR
 prodname: 'Unique Party - Vasos de Papel - 266 ml - Diseño de Princesa Rosa - Paquete de 8  58136 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NBVOE5Q/?tag=tolees-21'
 descuento: '42.82'
 average: '2.15'

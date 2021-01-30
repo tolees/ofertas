@@ -16,6 +16,7 @@ comparePrice: 21.39 EUR
 prodname: 'NIKE M NSW Swoosh Hbr SS tee T-Shirt  Hombre  White/ Black   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VKGHXXB/?tag=tolees-21'
 descuento: '48.53'
 average: '11.01'

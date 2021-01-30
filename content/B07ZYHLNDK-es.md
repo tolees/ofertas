@@ -16,6 +16,7 @@ comparePrice: 58.98 EUR
 prodname: 'Linterna Frontal LED Recargable de Trabajo  6000 Lúmenes Función de Zoom 4 Modos de Luz con Flash  Ligera Elástica  Impermeable para Ciclismo  Correr  Deportes Nocturnos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZYHLNDK/?tag=tolees-21'
 descuento: '77.99'
 average: '12.98'

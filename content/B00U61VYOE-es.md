@@ -16,6 +16,7 @@ comparePrice: 29.62 EUR
 prodname: 'Blume -Vino blanco verdejo botella 75 cl.  paquete de 6 unidades '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00U61VYOE/?tag=tolees-21'
 descuento: '25.25'
 average: '22.14'

@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'WOXTER i-Headphone PC 780  Auriculares Diadema con micrófono y reducción de Ruido  Color Blanco y Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01H5HFONS/?tag=tolees-21'
 descuento: '47.30'
 average: '7.9'

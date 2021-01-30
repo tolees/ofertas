@@ -16,6 +16,7 @@ comparePrice: 25.78 EUR
 prodname: 'Queta 3Pcs Pulsera de Plata Pulsera para niña Kit de fabricación de Joyas para niña con Cuentas Juego de Regalo para niña 8-12 años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZYRKJK5/?tag=tolees-21'
 descuento: '50.00'
 average: '12.89'

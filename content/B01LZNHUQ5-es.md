@@ -16,6 +16,7 @@ comparePrice: 79.0 EUR
 prodname: 'Victoria Sierra Deportivo Piel  Zapatillas Unisex Adulto  Blanco  Blanco 20   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LZNHUQ5/?tag=tolees-21'
 descuento: '35.28'
 average: '51.13'

@@ -16,6 +16,7 @@ comparePrice: 23.87 EUR
 prodname: 'YANJUN Máscara N95  Respirador Anti PM2.5 Filtro de protección contra bacterias de Cara Completa para el hogar  restaurantes  Salones de Belleza  mascarillas Unisex'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08639SMDM/?tag=tolees-21'
 descuento: '31.42'
 average: '16.37'

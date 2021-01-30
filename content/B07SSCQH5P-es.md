@@ -16,6 +16,7 @@ comparePrice: 57.99 EUR
 prodname: 'Coronel Tapiocca Maletín Ordenador Red Azul Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SSCQH5P/?tag=tolees-21'
 descuento: '62.01'
 average: '23.115000000000002'

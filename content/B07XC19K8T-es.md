@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'Arealer Almohadilla Eléctrica Térmica de Grande Tamaño de 30 x 60cm  con Función de Apagado Automático  3 Grados de Temperatura  Lavable a Máquina  Alivia Dolor Muscular  para Espalda Pierna y Vientre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XC19K8T/?tag=tolees-21'
 descuento: '33.34'
 average: '22.59'

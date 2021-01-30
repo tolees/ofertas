@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Samsung Silicone Cover  funda oficial para Samsung Galaxy 10e  color Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NBZC1PW/?tag=tolees-21'
 descuento: '70.00'
 average: '8.97'

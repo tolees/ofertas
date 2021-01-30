@@ -16,6 +16,7 @@ comparePrice: 2.94 EUR
 prodname: 'Libertroy Longitud del Tobillo de Invierno Polainas Delgadas Cachemira cálido Grueso sin pies Delgados elásticos Pantalones elásticos para Mujeres'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NVJB2W9/?tag=tolees-21'
 descuento: '31.97'
 average: '2.0'

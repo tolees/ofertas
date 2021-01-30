@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'MTNG Attitude 84086  Zapatillas para Hombre  Azul  /Mesh 10 Marino C47748   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QJGYT1H/?tag=tolees-21'
 descuento: '49.99'
 average: '19.39'

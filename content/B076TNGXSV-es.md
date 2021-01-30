@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Funko Pop!- Comics: Saga Marko W/Sword Figura de Vinilo  27414 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076TNGXSV/?tag=tolees-21'
 descuento: '41.57'
 average: '9.32'

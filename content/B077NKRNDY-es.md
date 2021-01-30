@@ -16,6 +16,7 @@ comparePrice: 36.99 EUR
 prodname: 'Polaroid Originals 4756 - Bolsa para cámara  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077NKRNDY/?tag=tolees-21'
 descuento: '35.14'
 average: '25.523333333333333'

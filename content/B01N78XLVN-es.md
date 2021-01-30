@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Inodoro de Bandeja para Perros Césped Artificial con Cajón Lavable Hacer PIS Pipi Orinar Mascota'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N78XLVN/?tag=tolees-21'
 descuento: '64.29'
 average: '24.99'

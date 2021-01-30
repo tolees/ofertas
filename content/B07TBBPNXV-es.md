@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Brockman s - Ginebra con Copa de Regalo  700 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TBBPNXV/?tag=tolees-21'
 descuento: '26.86'
 average: '26.7'

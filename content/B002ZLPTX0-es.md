@@ -16,6 +16,7 @@ comparePrice: 43.5 EUR
 prodname: 'Grohe - Flexo Metalico 1 5  Ref. 46092000 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002ZLPTX0/?tag=tolees-21'
 descuento: '31.38'
 average: '29.85'

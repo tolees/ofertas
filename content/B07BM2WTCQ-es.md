@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'Calcifort-D niños | Calcio puro microencapsulado con Vitamina D3 de alta biodisponibilidad | Huesos sanos y fuertes para el crecimiento saludable de los niños | 60 comprimidos sabor cereza'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BM2WTCQ/?tag=tolees-21'
 descuento: '25.13'
 average: '7.45'

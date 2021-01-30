@@ -16,6 +16,7 @@ comparePrice: 40.83 EUR
 prodname: 'Taurus TodoPan - Tostadora para cualquier tipo de pan  tuesta en ambos lados  práctico sistema de fijación  varillas de soporte del pan con goma en el extremo de toque frío  700 W'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BQXNY2Q/?tag=tolees-21'
 descuento: '46.36'
 average: '21.23333333333333'

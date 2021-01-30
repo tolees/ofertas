@@ -16,6 +16,7 @@ comparePrice: 84.7 EUR
 prodname: 'Wolfcraft 623777000 5018000-1 Soporte para Cortar para Amoladora Angular diam. 180 y 230 mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001CBXWHY/?tag=tolees-21'
 descuento: '31.58'
 average: '57.95'

@@ -16,6 +16,7 @@ comparePrice: 29 EUR
 prodname: 'Calypso Reloj Cronógrafo para Hombre de Cuarzo con Correa en Silicona K5765/4'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DL9WR9L/?tag=tolees-21'
 descuento: '47.38'
 average: '15.26'

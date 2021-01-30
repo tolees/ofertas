@@ -16,6 +16,7 @@ comparePrice: 44.38 EUR
 prodname: 'Wonderbra Ultimate Backless Soutien-Gorge Avec Armatures Sujetador con Aros  Negro  Noir 001   100B para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N8PPVF4/?tag=tolees-21'
 descuento: '63.74'
 average: '12.49'

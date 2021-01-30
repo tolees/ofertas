@@ -16,6 +16,7 @@ comparePrice: 56.0 EUR
 prodname: 'Jimmy Choo Man Agua de toilette con vaporizador - 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00MFTPFWC/?tag=tolees-21'
 descuento: '51.50'
 average: '26.95'

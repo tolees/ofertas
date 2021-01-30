@@ -16,6 +16,7 @@ comparePrice: 187.91 EUR
 prodname: 'Johnnie Walker Blue Label Whisky Edición Limitada Barcelona - 700 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071GQHX3K/?tag=tolees-21'
 descuento: '28.16'
 average: '136.2425'

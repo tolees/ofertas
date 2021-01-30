@@ -16,6 +16,7 @@ comparePrice: 12.84 EUR
 prodname: 'Head - Pinzas para Pelotas de Mujer  Color Rosa y Transparente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00H7AH5OK/?tag=tolees-21'
 descuento: '29.98'
 average: '8.99'

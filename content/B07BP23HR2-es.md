@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'TACKLIFE Pistola de riego  Pistola de Jardín con Boquilla Metálica  8 Modos Diferentes  Nueva Patente de Control con una Solo Mano  para Lavado de Autos  Riego de Plantas y Ducha de Mascotas-GHN2A'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BP23HR2/?tag=tolees-21'
 descuento: '70.75'
 average: '8.237619047619049'

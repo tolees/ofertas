@@ -16,6 +16,7 @@ comparePrice: 10.49 EUR
 prodname: 'Cadena Colgante de Silla de Peluquero Dorada para Ropa Automóvil Acerca de 7 x 4.6 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RWC584C/?tag=tolees-21'
 descuento: '33.37'
 average: '6.99'

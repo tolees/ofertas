@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'Sphero R2-D2 App-Enabled Droid de Sphero'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071LLZKG7/?tag=tolees-21'
 descuento: '40.00'
 average: '88.27685714285712'

@@ -16,6 +16,7 @@ comparePrice: 1249.99 EUR
 prodname: 'HP OMEN 15-dc1017ns - Portátil Gaming de 15.6" FullHD  Intel Core i5-9300H  16GB RAM  1TB HDD + 256GB SSD  NVIDIA GeForce GTX 1650-4GB  FreeDOS  negro - teclado QWERTY Español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X69Y9WL/?tag=tolees-21'
 descuento: '28.00'
 average: '928.5614285714286'

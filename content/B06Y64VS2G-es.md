@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'HOMCOM Triciclo para Niños con Capota Desmontable y Plegable para Mayores de 18 Meses Incluye Barra Telescópica para Los Padres Certificado EN71-1-2-3 Color Morado y Blanco 92x51x110cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06Y64VS2G/?tag=tolees-21'
 descuento: '53.34'
 average: '69.99'

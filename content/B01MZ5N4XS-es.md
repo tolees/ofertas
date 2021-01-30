@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Cuna de Viaje Plegable Star Ibaby Sleep & Play. Doble Altura + Cambiador + Arco de juegos.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MZ5N4XS/?tag=tolees-21'
 descuento: '31.22'
 average: '62.958'

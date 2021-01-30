@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Vans Filmore Decon  Zapatillas para Mujer  Negro  Black/True White 1wx   38.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FXQDNR8/?tag=tolees-21'
 descuento: '29.09'
 average: '42.25666666666667'

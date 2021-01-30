@@ -16,6 +16,7 @@ comparePrice: 20.98 EUR
 prodname: 'GB eye LTD  Rick and Morty  Mr Meeseeks  Taza 3D'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079SPS74X/?tag=tolees-21'
 descuento: '47.81'
 average: '10.95'

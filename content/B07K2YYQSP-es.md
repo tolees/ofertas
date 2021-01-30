@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'SmugPets - 315 Bolsas biodegradables para excrementos - Extragrandes y sin Perfume - 15 Bolsas/Rollo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K2YYQSP/?tag=tolees-21'
 descuento: '44.47'
 average: '9.99'

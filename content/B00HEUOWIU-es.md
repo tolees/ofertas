@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Columbia Watch Cap II Gorro  Unisex  Graphite/Tradewinds Grey  Talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00HEUOWIU/?tag=tolees-21'
 descuento: '43.36'
 average: '9.455'

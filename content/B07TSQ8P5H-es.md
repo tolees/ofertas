@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Skechers Go Walk 5  Zapatillas sin Cordones para Hombre  Azul  Navy Textile/Synthetic/Gray Trim Nvgy   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TSQ8P5H/?tag=tolees-21'
 descuento: '40.49'
 average: '41.67'

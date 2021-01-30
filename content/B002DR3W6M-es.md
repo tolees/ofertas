@@ -16,6 +16,7 @@ comparePrice: 13.21 EUR
 prodname: 'Cables To Go - Cable de Audio  XLR Macho a XLR Hembra  5 m '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002DR3W6M/?tag=tolees-21'
 descuento: '37.55'
 average: '8.25'

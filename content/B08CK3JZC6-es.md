@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'EGV [2 Pack Protector de Pantalla para Xiaomi Redmi Note 9 + [2 Pack] Xiaomi Redmi Note 9 Protector de Lente de cámara Redmi Note 9 Cristal Vidrio Templado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CK3JZC6/?tag=tolees-21'
 descuento: '27.30'
 average: '7.99'

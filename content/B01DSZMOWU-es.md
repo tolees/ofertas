@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Belkin F8W713vf - Protector de Pantalla de Cristal Templado para Apple iPhone 6 Plus y 6S Plus'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01DSZMOWU/?tag=tolees-21'
 descuento: '45.47'
 average: '10.9'

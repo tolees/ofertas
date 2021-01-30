@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Active Era® Báscula Grasa Corporal Inteligente - Báscula Digital Bluetooth con 15 Funciones esenciales  Peso corporal de alta precisión y Aplicación gratuita'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SHG4Q4Y/?tag=tolees-21'
 descuento: '25.34'
 average: '22.39'

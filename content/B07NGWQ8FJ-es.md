@@ -16,6 +16,7 @@ comparePrice: 84.9 EUR
 prodname: 'Primigi Gore-Tex Pfz 43820  Botas para Bebés  Azu/Jeans 4382000  26 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NGWQ8FJ/?tag=tolees-21'
 descuento: '77.79'
 average: '21.115000000000002'

@@ -16,6 +16,7 @@ comparePrice: 85.0 EUR
 prodname: 'Juvena Superior Miracle Cream Tratamiento Facial - 75 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00G8YG06A/?tag=tolees-21'
 descuento: '53.00'
 average: '39.95'

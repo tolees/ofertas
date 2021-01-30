@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'PUMA X-Ray  Zapatillas Unisex-Adulto  Azul Royal White/High Risk Red/High Rise Black  36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S6PBJQH/?tag=tolees-21'
 descuento: '58.91'
 average: '32.85'

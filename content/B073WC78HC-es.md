@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Colchón ANTIAHOGO Bebé Plastificado para Minicuna blanco  Universal  transpirable y fácil de limpiar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073WC78HC/?tag=tolees-21'
 descuento: '39.80'
 average: '18.0'

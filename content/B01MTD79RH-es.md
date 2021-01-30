@@ -16,6 +16,7 @@ comparePrice: 9.45 EUR
 prodname: 'Control Xtra Sensation Preservativos - 12 Unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MTD79RH/?tag=tolees-21'
 descuento: '26.46'
 average: '6.037999999999999'

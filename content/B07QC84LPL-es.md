@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'PUMA Nu-Tility Knit Pant Chándal  Hombre  Black  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QC84LPL/?tag=tolees-21'
 descuento: '64.57'
 average: '19.47'

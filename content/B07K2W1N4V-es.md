@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Adidas FOREST GROVE C  Zapatillas de deporte Unisex niños  Negro  Core Black/Core Black/Core Black   30 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K2W1N4V/?tag=tolees-21'
 descuento: '25.13'
 average: '37.4'

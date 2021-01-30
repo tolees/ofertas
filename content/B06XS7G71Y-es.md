@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Apple Funda Smart Cover  para el iPad  - Gris carbón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XS7G71Y/?tag=tolees-21'
 descuento: '32.02'
 average: '33.765'

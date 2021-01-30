@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'Joseph Joseph Nest Cuchara medidora  Multicolor  Centimeters'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00LMCW576/?tag=tolees-21'
 descuento: '30.10'
 average: '10.45'

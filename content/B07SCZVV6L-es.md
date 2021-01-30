@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'TECHGEAR Funda de Cuero para Nuevo Samsung Galaxy Tab A 10.1" 2019  SM-T510 / SM-T515  Funda de Cuero PU Protectora Soporte y Correa de Mano [Azul]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SCZVV6L/?tag=tolees-21'
 descuento: '50.13'
 average: '9.95'

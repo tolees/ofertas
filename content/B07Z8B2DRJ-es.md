@@ -16,6 +16,7 @@ comparePrice: 149.0 EUR
 prodname: 'Middle Moon Pala de Pádel ATILA Carbon 24K 2019'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z8B2DRJ/?tag=tolees-21'
 descuento: '26.21'
 average: '109.95'

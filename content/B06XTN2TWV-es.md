@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Pepe Jeans Original Basic L/S  Top de Manga Larga Para Hombre  Azul  Navy   Large'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XTN2TWV/?tag=tolees-21'
 descuento: '44.04'
 average: '13.99'

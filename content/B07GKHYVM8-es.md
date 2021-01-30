@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'ZOLO Liberty True-Wireless Auriculares  autonomía de hasta 100 horas  auriculares inalámbricos Bluetooth 5 con Graphene Driver  a prueba de sudor con inteligencia artificial  llamadas de manos libres'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GKHYVM8/?tag=tolees-21'
 descuento: '25.00'
 average: '61.656666666666666'

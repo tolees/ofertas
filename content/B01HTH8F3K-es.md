@@ -16,6 +16,7 @@ comparePrice: 27.99 EUR
 prodname: 'Anker Altavoz Bluetooth  Soundcore Mini  Super Altavoz portátil con 15 Horas de reproducción  Rango de 20 Metros Bluetooth  Bajos mejorados  Funciona con iPhone  iPad  Samsung  Nexus  HTC y más'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HTH8F3K/?tag=tolees-21'
 descuento: '28.58'
 average: '19.99'

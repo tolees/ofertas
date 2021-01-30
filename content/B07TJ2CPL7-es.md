@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Helly Hansen Ahiga V4 Hydropower  Náuticos para Hombre  Blanco  Off White/Racer Blue 012   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TJ2CPL7/?tag=tolees-21'
 descuento: '42.14'
 average: '57.86'

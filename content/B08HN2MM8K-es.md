@@ -16,6 +16,7 @@ comparePrice: 35.98 EUR
 prodname: 'Docooler 10"-17" Pulgadas Gaming Laptop Cooler Cooling Pad Base de refrigeración para Ordenador portáti 5 Ventiladores silenciosos y Pantalla LCD  5 ajustes de Altura 2 Puertos USB y luz LED Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08HN2MM8K/?tag=tolees-21'
 descuento: '38.88'
 average: '28.984999999999996'

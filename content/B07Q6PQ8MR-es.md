@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Smoby Pelota 230 MM LOL 50079'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q6PQ8MR/?tag=tolees-21'
 descuento: '67.47'
 average: '3.25'

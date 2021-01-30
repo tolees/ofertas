@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Lumberjack Vendor  Zapatillas de Gimnasia para Hombre  Azul  Navy Blue/Grey M0049   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WCCF5N7/?tag=tolees-21'
 descuento: '26.57'
 average: '29.3'

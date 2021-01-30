@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Super Sand Giant Gigante  Color Natural  Goliath 83221 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00J0PG9GK/?tag=tolees-21'
 descuento: '29.93'
 average: '35.0'

@@ -16,6 +16,7 @@ comparePrice: 299.99 EUR
 prodname: 'Moulinex Wizzo Robot De Repostería Con Kit Para Masas  700 W  4 litros  Acero Inoxidable  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BCNZ9L6/?tag=tolees-21'
 descuento: '40.33'
 average: '171.158'

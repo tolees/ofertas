@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'Idefair Bandeja De Viaje para Niños Bandeja para automóvil  Bandeja de Viaje Bocadillos De Grande Bolsillos Bandeja de Actividad De Coche para Cochecito Avión de Cochecito  Rosa Claro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y359JNV/?tag=tolees-21'
 descuento: '33.34'
 average: '21.99'

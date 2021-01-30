@@ -16,6 +16,7 @@ comparePrice: 25.41 EUR
 prodname: 'Pyrex Classic Vidrio - Cazuela redonda con tapa  2.1 l  25 x 20 x 11 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000KGCO1M/?tag=tolees-21'
 descuento: '29.16'
 average: '18.0'

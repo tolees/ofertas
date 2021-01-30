@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'G-STAR RAW 3301 Tapered Jeans  Azul  dk aged 6576-89   31W / 36L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00TV00I1G/?tag=tolees-21'
 descuento: '57.32'
 average: '35.54571428571429'

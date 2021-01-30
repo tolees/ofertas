@@ -16,6 +16,7 @@ comparePrice: 229.0 EUR
 prodname: 'DAM. DMZ038BL. Smartwatch L2 Plus con Monitor Cardíaco Y Notificaciones para iOS Y Android. Pantalla Alta Resolución. Bluetooth 4.0. Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JPBVBT5/?tag=tolees-21'
 descuento: '69.44'
 average: '69.99'

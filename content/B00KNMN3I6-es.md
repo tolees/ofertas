@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'Onitsuka Tiger Mexico 66  Zapatillas Unisex  Blanco  White/Blue 146   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KNMN3I6/?tag=tolees-21'
 descuento: '33.33'
 average: '60.0'

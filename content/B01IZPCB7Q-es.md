@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Philips myGarden Harvest - Aplique negro  bombillas no incluidas  casquillo gordo E27 en aluminio  iluminación exterior'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IZPCB7Q/?tag=tolees-21'
 descuento: '55.99'
 average: '22.0'

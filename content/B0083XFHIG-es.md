@@ -16,6 +16,7 @@ comparePrice: 109.0 EUR
 prodname: 'Timex Expedition Rugged - Reloj análogico de cuarzo con correa de cuero para hombre  color marrón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0083XFHIG/?tag=tolees-21'
 descuento: '34.72'
 average: '70.60272727272728'

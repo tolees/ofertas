@@ -16,6 +16,7 @@ comparePrice: 33.31 EUR
 prodname: 'Fesoar Cepillo Barbacoa de Limpieza  360° Cepillos de Acero Inoxidable  Profesional Cepillo para Uso Comercial  al Aire Libre y para Acampar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D78GW4G/?tag=tolees-21'
 descuento: '48.99'
 average: '16.99'

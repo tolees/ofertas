@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Clarks Sharon Dasher  Mocasines para Mujer  Beige  Sand Suede Sand Suede   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TKRH1PM/?tag=tolees-21'
 descuento: '56.88'
 average: '38.79'

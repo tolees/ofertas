@@ -16,6 +16,7 @@ comparePrice: 230.0 EUR
 prodname: 'Seiko Reloj analogico para Mujer de Cuarzo con Correa en Acero Inoxidable SXDG94P1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FWMDQ9N/?tag=tolees-21'
 descuento: '32.21'
 average: '155.92'

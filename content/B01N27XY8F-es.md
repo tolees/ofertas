@@ -16,6 +16,7 @@ comparePrice: 80.45 EUR
 prodname: 'Lacoste Europa 417  Zapatillas para Hombre  Negro  Black Spm0044024   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N27XY8F/?tag=tolees-21'
 descuento: '35.43'
 average: '51.95'

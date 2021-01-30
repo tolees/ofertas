@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'GORWRICH - Soporte para teléfono móvil  soporte de escritorio y tablet con ángulo ajustable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XNTRYRM/?tag=tolees-21'
 descuento: '68.47'
 average: '3.15'

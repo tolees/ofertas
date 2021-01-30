@@ -16,6 +16,7 @@ comparePrice: 3.5 EUR
 prodname: 'Cudié  Catànies - 80 gr.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004S9EO4M/?tag=tolees-21'
 descuento: '67.43'
 average: '1.14'

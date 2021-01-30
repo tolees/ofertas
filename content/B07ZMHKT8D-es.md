@@ -16,6 +16,7 @@ comparePrice: 14.2 EUR
 prodname: 'Mochilero Compatible with Apple Watch Band 40mm 44mm iWatch Bands  Replacement Strap  Durable adapters  NATO Buckle for Series 1 2 3 4 5  Green  Red  Blue  Black  Green 44mm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZMHKT8D/?tag=tolees-21'
 descuento: '29.65'
 average: '9.99'

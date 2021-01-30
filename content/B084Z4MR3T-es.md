@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'XTI 49684 Deportivas XTI Hombre Deportivos Blanco 41'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084Z4MR3T/?tag=tolees-21'
 descuento: '38.04'
 average: '30.95'

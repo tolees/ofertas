@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'HP Z3700 RF Raton óptico inalámbrico 1200DPI Rojo  Ambidiestro  - Ratón  RF inalámbrico  Oficina  Botones  Rueda  Óptico  Pilas '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GTC6TFW/?tag=tolees-21'
 descuento: '49.97'
 average: '10.0'

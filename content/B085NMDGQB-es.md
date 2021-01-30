@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'CRAPHY Trípode de Fotografía Soporte de luz 51-200cm con 360° Rótula Giratoria y Bolsa para Reflectores Softboxes Right Light y Paraguas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085NMDGQB/?tag=tolees-21'
 descuento: '55.47'
 average: '12.91'

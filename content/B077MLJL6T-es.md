@@ -16,6 +16,7 @@ comparePrice: 14.9 EUR
 prodname: 'Clarilou Funda Smartphone - Diseño Exclusivo Love Yourself Compatible con Aquaris U2 y Aquaris U2 Lite'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077MLJL6T/?tag=tolees-21'
 descuento: '60.74'
 average: '5.85'

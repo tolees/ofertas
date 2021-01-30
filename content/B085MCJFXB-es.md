@@ -16,6 +16,7 @@ comparePrice: 4.49 EUR
 prodname: 'MZY1188 Cielo Azul Molde Rectangular de Silicona  Molde para Hornear de Silicona Resistente a la Temperatura  Molde para tostar Dulces Molde para Hornear DIY Suministros de Cocina Pastel'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085MCJFXB/?tag=tolees-21'
 descuento: '43.43'
 average: '3.525'

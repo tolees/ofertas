@@ -16,6 +16,7 @@ comparePrice: 11.36 EUR
 prodname: 'Athletic Club B-04-AC Botella Aluminio  500 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HMZL2J7/?tag=tolees-21'
 descuento: '32.22'
 average: '7.7'

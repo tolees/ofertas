@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'New Balance Draft  Zapatillas de Running para Mujer  Gris  Grey Lg1   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S3X2DBH/?tag=tolees-21'
 descuento: '55.17'
 average: '26.9'

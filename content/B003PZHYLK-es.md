@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'STANLEY 1-97-483 - Organizador SortMaster Junior'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003PZHYLK/?tag=tolees-21'
 descuento: '51.74'
 average: '8.143999999999998'

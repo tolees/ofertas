@@ -16,6 +16,7 @@ comparePrice: 11.4 EUR
 prodname: 'Magefesa Black Sartén 18 cm de acero esmaltado  antiadherente bicapa reforzado  color negro exterior. Apto para todo tipo de cocinas  incluida inducción.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B008FX5VSK/?tag=tolees-21'
 descuento: '35.35'
 average: '7.37'

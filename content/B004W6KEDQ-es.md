@@ -16,6 +16,7 @@ comparePrice: 42.35 EUR
 prodname: 'Navigator Expression - Paquete de 2500 folios de papel para impresora/fotocopiadora 90g/m² A4  Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004W6KEDQ/?tag=tolees-21'
 descuento: '31.81'
 average: '28.88'

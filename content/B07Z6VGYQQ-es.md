@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'Flores Mediterráneas A.G F. Mediterráneas Lilas y Mimosas  150 ml  Pack de 1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z6VGYQQ/?tag=tolees-21'
 descuento: '42.36'
 average: '11.5'

@@ -16,6 +16,7 @@ comparePrice: 75.2 EUR
 prodname: 'BRA Efficient Iron - Parrilla redonda lisa 32 cm  fabricada en hierro fundido esmaltado.   Apta para su uso en horno y todo tipo de cocinas  incluída inducción. Apta para el lavavajillas.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079ZBLNH6/?tag=tolees-21'
 descuento: '40.17'
 average: '44.99'

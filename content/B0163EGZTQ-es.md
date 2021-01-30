@@ -16,6 +16,7 @@ comparePrice: 25.9 EUR
 prodname: 'Dim Invisi Fit Sujetador  New Skin  90C para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0163EGZTQ/?tag=tolees-21'
 descuento: '65.25'
 average: '9.0'

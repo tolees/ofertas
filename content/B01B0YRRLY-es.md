@@ -16,6 +16,7 @@ comparePrice: 31.99 EUR
 prodname: 'Russell Hobbs Textures Plus - Tostadora  2 Ranuras Anchas  de Plástico con Detalles Acero Inox  Negro  - ref. 22601-56'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01B0YRRLY/?tag=tolees-21'
 descuento: '31.26'
 average: '22.445'

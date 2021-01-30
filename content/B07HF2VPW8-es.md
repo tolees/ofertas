@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'Makeup Remover Toalla de tela toalla de limpieza facial reutilizable sin Productos químicos  para Quitar Maquillaje instantáneamente  Solo con Agua'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HF2VPW8/?tag=tolees-21'
 descuento: '65.54'
 average: '9.99'

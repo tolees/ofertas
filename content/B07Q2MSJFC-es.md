@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'Pop! Figura De Vinil: Harry Potter: Harry Potter - George Weasley  Yule '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q2MSJFC/?tag=tolees-21'
 descuento: '40.13'
 average: '8.996666666666666'

@@ -16,6 +16,7 @@ comparePrice: 10.0 EUR
 prodname: 'Under Armour Sportswear Stirnband UA Mini Headband 6 Pack Minicintas para el Pelo  Mujer  Negro  Black 002   Taglia Unica'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B019ZIC0XM/?tag=tolees-21'
 descuento: '34.10'
 average: '6.59'

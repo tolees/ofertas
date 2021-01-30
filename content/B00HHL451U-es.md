@@ -16,6 +16,7 @@ comparePrice: 249.0 EUR
 prodname: 'Citizen Super Titanium - Reloj de Cuarzo para Hombre  con Correa de Titanio  Color Plateado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00HHL451U/?tag=tolees-21'
 descuento: '28.02'
 average: '179.22'

@@ -16,6 +16,7 @@ comparePrice: 19.98 EUR
 prodname: 'S&R Pistola de silicona profesional para cartuchos de hasta 310 ml. Marco giratorio de acero. Relación de empuje 18:1  Calidad Profesional'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XYGDR1W/?tag=tolees-21'
 descuento: '25.43'
 average: '14.9'

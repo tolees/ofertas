@@ -16,6 +16,7 @@ comparePrice: 269.0 EUR
 prodname: 'Sierra de mesa  mini sierra eléctrica de mesa multifuncional Guía de ángulo Motor de husillo 895 DC24V-6A Hoja de sierra elevable Hoja Banco de carpintería Sierra de mesa de corte de madera  Black '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085Z8V9VP/?tag=tolees-21'
 descuento: '56.13'
 average: '118.0'

@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'White Day: A Labyrinth Named School'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072JW7YLZ/?tag=tolees-21'
 descuento: '46.42'
 average: '16.07'

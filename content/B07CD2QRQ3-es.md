@@ -16,6 +16,7 @@ comparePrice: 7.95 EUR
 prodname: 'L Oréal Paris Colorista Hair Makeup Raspberry Hair'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CD2QRQ3/?tag=tolees-21'
 descuento: '81.13'
 average: '1.745'

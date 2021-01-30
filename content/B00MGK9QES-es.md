@@ -16,6 +16,7 @@ comparePrice: 7.0 EUR
 prodname: 'Rimmel London Provocalips Barra De Labios  Tono 500 Kiss Me You Fool - 7 ml  34666744500 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00MGK9QES/?tag=tolees-21'
 descuento: '42.86'
 average: '4.925454545454545'

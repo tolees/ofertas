@@ -16,6 +16,7 @@ comparePrice: 17.95 EUR
 prodname: 'PUMA LIGA Shorts Pants  Hombre  Cordovan White  XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079B7FLLV/?tag=tolees-21'
 descuento: '32.98'
 average: '12.03'

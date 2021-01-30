@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Sycreek Almohadilla térmica Mascotas gatos y perros  manta eléctrica para mascotas con sistema de temperatura estera calefactora impermeable con tubo antirotura  con funda de fieltro intercambiable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZKPT2N8/?tag=tolees-21'
 descuento: '55.72'
 average: '30.99'

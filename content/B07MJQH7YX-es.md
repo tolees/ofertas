@@ -16,6 +16,7 @@ comparePrice: 166.84 EUR
 prodname: 'Reloj de pulsera para hombre  resistente al agua  con cronógrafo  analógico  cuarzo  esfera grande  correa de piel marrón  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MJQH7YX/?tag=tolees-21'
 descuento: '83.82'
 average: '26.99'

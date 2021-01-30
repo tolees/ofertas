@@ -16,6 +16,7 @@ comparePrice: 3.97 EUR
 prodname: 'PM 2.5 Filter Replacement for Bandana  Activated Carbon Protective Filter 5 Layers Anti Haze Filters Replaceable  100 Children '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087D3KKJ7/?tag=tolees-21'
 descuento: '49.62'
 average: '2.975'

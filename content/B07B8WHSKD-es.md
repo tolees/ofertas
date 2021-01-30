@@ -16,6 +16,7 @@ comparePrice: 200.0 EUR
 prodname: 'Burton Moto Black Snowboard Botas  Negro  41 5'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B8WHSKD/?tag=tolees-21'
 descuento: '27.25'
 average: '145.49'

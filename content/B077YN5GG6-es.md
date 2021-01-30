@@ -16,6 +16,7 @@ comparePrice: 16.95 EUR
 prodname: 'HIKARO AMA HAYAND camisetas  Verde  Khaki   40  Talla del fabricante: Medium '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077YN5GG6/?tag=tolees-21'
 descuento: '53.51'
 average: '7.88'

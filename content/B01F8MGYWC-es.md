@@ -16,6 +16,7 @@ comparePrice: 27.99 EUR
 prodname: 'STAR TREK Spock Captain Authentic Rank Pin'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01F8MGYWC/?tag=tolees-21'
 descuento: '46.59'
 average: '14.95'

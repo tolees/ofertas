@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Vans Herren OTW T-Shirt  Schwarz  BLACK-WHITE Y28   X-Small'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B008HCMH3G/?tag=tolees-21'
 descuento: '30.17'
 average: '20.95'

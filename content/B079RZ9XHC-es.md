@@ -16,6 +16,7 @@ comparePrice: 22.19 EUR
 prodname: 'Tenis de Entrenamiento Auto Práctica Juego de Rebote Tenis Base 2 Pelotas con Cuerdas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079RZ9XHC/?tag=tolees-21'
 descuento: '27.94'
 average: '19.09'

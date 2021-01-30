@@ -16,6 +16,7 @@ comparePrice: 12.05 EUR
 prodname: 'Quercetti-Quercetti-2123 FC Básico d.15-Juego Educativo de mosaicos  2123 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000PVH3ZE/?tag=tolees-21'
 descuento: '37.76'
 average: '7.5'

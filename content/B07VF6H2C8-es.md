@@ -16,6 +16,7 @@ comparePrice: 130.0 EUR
 prodname: 'Hackett London Sanderson Chino Pantalones  Azul  Navy 595   W48  Talla del Fabricante: 38  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VF6H2C8/?tag=tolees-21'
 descuento: '37.62'
 average: '81.09'

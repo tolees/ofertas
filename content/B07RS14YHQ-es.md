@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'flintronic LED Linterna  2 Pcs Linterna Táctica  5 Modos a Prueba de agua Zoomable Enfoque Mini Antorcha de Mano Ultra Brillante para Acampar  Iluminación de Emergencia  Baterías no Incluidas '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RS14YHQ/?tag=tolees-21'
 descuento: '28.59'
 average: '9.99'

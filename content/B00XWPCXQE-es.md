@@ -16,6 +16,7 @@ comparePrice: 86.0 EUR
 prodname: 'NIKE Men s Cortez Basic Leather Shoe Zapatillas  Hombre  Multicolor White Black Metallic Silver 100  39'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XWPCXQE/?tag=tolees-21'
 descuento: '30.81'
 average: '59.5'

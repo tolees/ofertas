@@ -16,6 +16,7 @@ comparePrice: 109.99 EUR
 prodname: 'SAMTIAN Anillo de luz，14" Ajustable 3200-5900K Bi-Color Youtube Makeup Light Regulable 384 LED Kit de aro de luz con Soporte de luz de 79" Soporte para teléfono Remoto para cámara Fotografía de Video'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NWKCS1F/?tag=tolees-21'
 descuento: '45.46'
 average: '59.99'

@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Lee Malone Jeans  Blue Drop Em  28W / 30L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K14PBDV/?tag=tolees-21'
 descuento: '67.50'
 average: '44.58'

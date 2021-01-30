@@ -16,6 +16,7 @@ comparePrice: 139.99 EUR
 prodname: 'Valentino by Mario - Doxy  Shoppers y bolsos de hombro Mujer  Rojo  Rosso   13x25x33 cm  B x H T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TTS6VXZ/?tag=tolees-21'
 descuento: '59.53'
 average: '50.763333333333335'

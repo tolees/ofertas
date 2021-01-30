@@ -16,6 +16,7 @@ comparePrice: 109.0 EUR
 prodname: 'Tommy Hilfiger HMT-W PNTSLD99002 Pantalones  Beige  203   Talla única  Talla del Fabricante: 94  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0713MXZN5/?tag=tolees-21'
 descuento: '61.89'
 average: '43.34'

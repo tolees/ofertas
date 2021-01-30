@@ -16,6 +16,7 @@ comparePrice: 88.88 EUR
 prodname: 'Lámpara de pie vintage - Lámpara de Suelo  pantalla negro-dorado Ø 32 cm  casquillo E27  Máx. 60W  diseño retro 147 cm lámpara de pie  interruptor de pie metal para salón  dormitorio y estudio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q9LTDRD/?tag=tolees-21'
 descuento: '37.13'
 average: '55.88'

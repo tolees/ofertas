@@ -16,6 +16,7 @@ comparePrice: 76.99 EUR
 prodname: 'Philips Pro HPS930/40 - Plancha de Pelo Profesional  Placas Titanio 110 mm  Ionica  Control Digital Temperatura 140º a 230º  Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BSO6Q4K/?tag=tolees-21'
 descuento: '28.24'
 average: '54.14'

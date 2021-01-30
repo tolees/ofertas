@@ -16,6 +16,7 @@ comparePrice: 67.99 EUR
 prodname: 'Smiffys Aloha! Traje - destacan Trajes Adultas - Disfraz - Medium - 48-50'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00IKUARPU/?tag=tolees-21'
 descuento: '61.08'
 average: '26.46'

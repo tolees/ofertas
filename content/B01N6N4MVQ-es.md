@@ -16,6 +16,7 @@ comparePrice: 140.0 EUR
 prodname: 'SALEWA Cammino 50 BP Accesorio  Unisex Adulto  Azul  Talla Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N6N4MVQ/?tag=tolees-21'
 descuento: '35.72'
 average: '89.99'

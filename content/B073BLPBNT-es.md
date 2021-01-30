@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'Fornarina BE17T524F42990 Top Mujeres Gris Xl'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073BLPBNT/?tag=tolees-21'
 descuento: '60.00'
 average: '27.6'

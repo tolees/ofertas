@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Universal Tuerca universal Llave cubo Herramientas manuales multifuncionales Reparación del adaptador Herramientas de reparación Juego de herramientas de agarre 7-19mm con adaptador y mango  3 en 1 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q4P4PK9/?tag=tolees-21'
 descuento: '27.79'
 average: '12.99'

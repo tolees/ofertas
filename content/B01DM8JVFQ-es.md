@@ -16,6 +16,7 @@ comparePrice: 204 EUR
 prodname: 'Close Parent Bambú Pañales De Tela  Tamaño Único  Pack de 10'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01DM8JVFQ/?tag=tolees-21'
 descuento: '32.94'
 average: '136.8'

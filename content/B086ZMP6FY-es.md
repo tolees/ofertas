@@ -16,6 +16,7 @@ comparePrice: 47.83 EUR
 prodname: 'B Blesiya 10 Pulgadas Borrando Parcialmente La Escritura A Mano Colorida del LCD para Los Niños Que Escriben El Dibujo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086ZMP6FY/?tag=tolees-21'
 descuento: '44.45'
 average: '26.57'

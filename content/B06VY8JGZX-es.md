@@ -16,6 +16,7 @@ comparePrice: 46 EUR
 prodname: 'Reloj Esprit - Chicos ES906474001'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06VY8JGZX/?tag=tolees-21'
 descuento: '45.76'
 average: '24.95'

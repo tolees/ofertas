@@ -16,6 +16,7 @@ comparePrice: 350.0 EUR
 prodname: 'Helly Hansen W Rigging Coat Shell Jacket  Mujer  para Black  XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XGPNTF5/?tag=tolees-21'
 descuento: '56.13'
 average: '153.55'

@@ -16,6 +16,7 @@ comparePrice: 40.99 EUR
 prodname: 'Epson C13T08954010 - Juego De 4 Tinta Epson Multipack válido para EPSON Stylus y EPSON Stylus Office BX300F  Ya disponible en Amazon Dash Replenishment'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005JD1XY0/?tag=tolees-21'
 descuento: '75.63'
 average: '9.99'

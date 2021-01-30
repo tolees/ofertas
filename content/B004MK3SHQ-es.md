@@ -16,6 +16,7 @@ comparePrice: 23.9 EUR
 prodname: 'Joseph & Joseph Vinilo Tomate - Tabla de cristal'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004MK3SHQ/?tag=tolees-21'
 descuento: '49.83'
 average: '11.99'

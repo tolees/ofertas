@@ -16,6 +16,7 @@ comparePrice: 139.99 EUR
 prodname: 'BANDAI Tamashii Nations Movie Realization Samurai General Darth Vader Star Wars Action Figure Discontinued by Manufacturer '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00N4G5LRE/?tag=tolees-21'
 descuento: '29.28'
 average: '99.0'

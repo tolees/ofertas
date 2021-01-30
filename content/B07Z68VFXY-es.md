@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Aigostar 30IMX - Licuadora y extractor de frutas y verduras Potencia de 850 W con bajo nivel de ruido. Semiprofesional 1 25 l. Acero inoxidable Sin bisfenol A.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z68VFXY/?tag=tolees-21'
 descuento: '42.86'
 average: '39.99'

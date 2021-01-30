@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Dustgo Tiras de Prueba de Piscina- Medidor ph 7 en 1 con 50 PCS para Pruebas cualitativas y Semi-cualitativas de la Calidad del Agua  como PH Cloro Residual para Piscinas  spas  estanques'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087WHRRW7/?tag=tolees-21'
 descuento: '35.02'
 average: '12.19'

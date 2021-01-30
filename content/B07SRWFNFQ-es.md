@@ -16,6 +16,7 @@ comparePrice: 44.19 EUR
 prodname: 'Armani Exchange Hidden Buttons  Stretch Cotton Polo  Azul  Navy 1510   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SRWFNFQ/?tag=tolees-21'
 descuento: '36.64'
 average: '28.0'

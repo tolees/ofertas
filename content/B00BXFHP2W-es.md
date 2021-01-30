@@ -16,6 +16,7 @@ comparePrice: 44.82 EUR
 prodname: 'Guinot Hydrazone Toutes Peaux Crema hidratante - 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BXFHP2W/?tag=tolees-21'
 descuento: '29.59'
 average: '31.56'

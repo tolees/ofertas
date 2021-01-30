@@ -16,6 +16,7 @@ comparePrice: 69.59 EUR
 prodname: 'Brooks Mach 18  Zapatillas de Cross para Hombre   Orange/Pink/Black 861   49.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DRSKT5S/?tag=tolees-21'
 descuento: '50.01'
 average: '34.79'

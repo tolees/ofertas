@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'KiplingArtMujerBolsos maletínVerde  Light Aloe 44x27x20 Centimeters  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TWSRLNQ/?tag=tolees-21'
 descuento: '60.80'
 average: '34.89'

@@ -16,6 +16,7 @@ comparePrice: 8.48 EUR
 prodname: 'tm versand Mariposa Accesorio De Mezcla Mezclador Adecuado para Thermomix TM31 Vorwerk Nuevo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005JX36BS/?tag=tolees-21'
 descuento: '41.04'
 average: '6.74'

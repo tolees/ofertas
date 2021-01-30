@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Pablosky 334310  Merceditas para Niñas  Negro  Negro Negro   25 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QHKQMNG/?tag=tolees-21'
 descuento: '64.44'
 average: '14.22'

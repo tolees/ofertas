@@ -16,6 +16,7 @@ comparePrice: 11.95 EUR
 prodname: 'BaiYou Atrapa Moscas Adhesivo Trampa Moscas Fruta 16 Rollos Atrapa Moscas Tiras Atrapamoscas Atrapa Mosquitos para Invernadero Jardin Exterior Interior No Tóxico'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MQ4ZSZT/?tag=tolees-21'
 descuento: '64.18'
 average: '7.08'

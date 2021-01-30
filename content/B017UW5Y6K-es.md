@@ -16,6 +16,7 @@ comparePrice: 74.95 EUR
 prodname: 'Sorel Childrens Yoot Pac Nylon  Botas de Nieve para Niños  Gris  City Grey   26 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B017UW5Y6K/?tag=tolees-21'
 descuento: '57.71'
 average: '31.7'

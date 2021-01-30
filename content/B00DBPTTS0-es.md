@@ -16,6 +16,7 @@ comparePrice: 133.1 EUR
 prodname: 'Acer Essential - Monitor de 17"  pantalla LED  1280 x 1024 píxeles  1 puerto VGA  11 W   color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00DBPTTS0/?tag=tolees-21'
 descuento: '50.86'
 average: '65.4'

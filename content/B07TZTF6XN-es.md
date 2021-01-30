@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Gant Hightown  Zapatillas para Hombre  Rojo  Bright Red G518   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TZTF6XN/?tag=tolees-21'
 descuento: '50.03'
 average: '49.95'

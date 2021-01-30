@@ -16,6 +16,7 @@ comparePrice: 8.26 EUR
 prodname: 'Cepillo de pelo natural para bebés  Pelo de cabra  Cuidado delicado para el pelo suave de bebés  niños pequeños  Cuidado de bebés de los primeros a by ARTUROLUDWIG'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TVJQ237/?tag=tolees-21'
 descuento: '59.93'
 average: '3.31'

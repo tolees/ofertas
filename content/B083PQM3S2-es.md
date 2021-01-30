@@ -16,6 +16,7 @@ comparePrice: 102.0 EUR
 prodname: 'Muebles Marieta Old Style now Silla Bunny Terracota'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083PQM3S2/?tag=tolees-21'
 descuento: '45.00'
 average: '56.1'

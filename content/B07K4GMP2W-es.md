@@ -16,6 +16,7 @@ comparePrice: 139.0 EUR
 prodname: 'Reloj Viceroy Hombre 42367-16 Colección Antonio Banderas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K4GMP2W/?tag=tolees-21'
 descuento: '33.76'
 average: '92.07'

@@ -16,6 +16,7 @@ comparePrice: 1.73 EUR
 prodname: 'LoveOlvidoF Carga portátil Carga USB Cable de alimentación Cable 110 cm Cargador Negro para Nintend 3DS para DSi para NDSI XL - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BFB8Y8W/?tag=tolees-21'
 descuento: '33.53'
 average: '1.15'

@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'Clarks Un.loop2 Walk  Mocasines para Mujer  Negro  Black Leather Black Leather   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N1JGFF3/?tag=tolees-21'
 descuento: '31.15'
 average: '82.62'

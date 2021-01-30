@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Skechers Men s PAXMEN Trainers  Grey  Charcoal/Navy Ccnv   9 UK'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N8J15VF/?tag=tolees-21'
 descuento: '50.04'
 average: '35.18'

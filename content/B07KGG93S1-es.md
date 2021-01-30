@@ -16,6 +16,7 @@ comparePrice: 11.95 EUR
 prodname: 'Buff Flash Logo Cinta De Cabeza Coolnet  Unisex Adulto  Yellow Flúor  Talla Unica'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KGG93S1/?tag=tolees-21'
 descuento: '43.85'
 average: '6.645'

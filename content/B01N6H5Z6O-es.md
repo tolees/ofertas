@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Maybelline New York Super Stay 24H Barra de Labios 353 - 1 Barra de Labios'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N6H5Z6O/?tag=tolees-21'
 descuento: '31.10'
 average: '8.7'

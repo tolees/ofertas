@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'Kappa SALCITO TKS Chándal  Hombre  Azul Marino/Blanco  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079SSJNHJ/?tag=tolees-21'
 descuento: '49.02'
 average: '25.49'

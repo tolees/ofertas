@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'LEADSTAR Niños Funda para Apple iPad Air 2 / iPad 6 EVA antichoque Ligera destinado a Prueba de Golpes Protección Funda Tapa  Violeta '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00QEZ1GOO/?tag=tolees-21'
 descuento: '38.63'
 average: '15.95'

@@ -16,6 +16,7 @@ comparePrice: 11.18 EUR
 prodname: 'MERIGLARE 10g UV Resina Cristal Claro Ultravioleta curado Resina epoxi para DIY joyería Hacer hallazgos DIY  artesanía-Duro Tipo Pegamento Hecho a Mano Resina'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08GCHFFN8/?tag=tolees-21'
 descuento: '37.48'
 average: '6.99'

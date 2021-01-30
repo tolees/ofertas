@@ -16,6 +16,7 @@ comparePrice: 16.95 EUR
 prodname: 'YAMAMAY® Bañador de Cintura Media para Mujer – Swift'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VFCZWVG/?tag=tolees-21'
 descuento: '49.97'
 average: '8.48'

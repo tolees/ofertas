@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'CARRERA Sneakers Hombre Lona Blanco 44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08245RTRJ/?tag=tolees-21'
 descuento: '65.23'
 average: '23.99'

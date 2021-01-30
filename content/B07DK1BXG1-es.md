@@ -16,6 +16,7 @@ comparePrice: 25.96 EUR
 prodname: 'Gola Aka202  Zapatillas Deportivas para Interior Unisex Niños  Negro Black BB  24 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DK1BXG1/?tag=tolees-21'
 descuento: '56.16'
 average: '11.38'

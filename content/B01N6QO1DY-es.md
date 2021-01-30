@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Adidas BB1935  Botas de Senderismo Infantil  Negro  NEGBAS/NEGBAS/GRIVIS   34 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N6QO1DY/?tag=tolees-21'
 descuento: '25.03'
 average: '37.45'

@@ -16,6 +16,7 @@ comparePrice: 10.23 EUR
 prodname: 'Rexel Pizarra magnética individual  360x360m  Diseño cuadrado  Verde  1903773'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ARRKI5I/?tag=tolees-21'
 descuento: '38.51'
 average: '6.29'

@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'adidas U Path Run  Zapatillas de Gimnasia para Hombre  Negro  Cblack/Ash Gre/Cblack Cblack/Ash Gre/Cblack   43 1/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NYTF5QW/?tag=tolees-21'
 descuento: '25.06'
 average: '67.45'

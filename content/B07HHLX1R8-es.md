@@ -16,6 +16,7 @@ comparePrice: 520.0 EUR
 prodname: 'Intel bx80684i59600k - CPU intel Core i5-9600k 3.70ghz 9m lga1151 bx80684i59600k 984505  Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HHLX1R8/?tag=tolees-21'
 descuento: '55.59'
 average: '233.9154098360656'

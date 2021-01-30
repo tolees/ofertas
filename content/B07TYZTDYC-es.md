@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'QHOHQ Protector de Pantalla para Echo Show 5  [3 Unidades] Cristal Templado Screen Protector 9H [Versión Mejorada] para Echo Show 5'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TYZTDYC/?tag=tolees-21'
 descuento: '38.80'
 average: '7.95'

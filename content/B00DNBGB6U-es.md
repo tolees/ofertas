@@ -16,6 +16,7 @@ comparePrice: 51.99 EUR
 prodname: 'SELECT Trainigsjacke Ultimate Trainingsjacke - Soft Shell para niño  Color Negro  Talla 8 años  128 cm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00DNBGB6U/?tag=tolees-21'
 descuento: '71.74'
 average: '13.356666666666666'

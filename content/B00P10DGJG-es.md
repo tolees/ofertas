@@ -16,6 +16,7 @@ comparePrice: 30.5 EUR
 prodname: 'Carolina Herrera 212 Femme Perfume - 150 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00P10DGJG/?tag=tolees-21'
 descuento: '41.31'
 average: '17.9'

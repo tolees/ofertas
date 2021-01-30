@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Oregon Scientific RMR391P - Reloj proyector despertador con termómetro interior y exterior  fecha  alarma con repetición snooze  negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003TWFX08/?tag=tolees-21'
 descuento: '35.46'
 average: '37.86'

@@ -16,6 +16,7 @@ comparePrice: 48 EUR
 prodname: 'Precision Kids V'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YG4D9HL/?tag=tolees-21'
 descuento: '40.00'
 average: '28.8'

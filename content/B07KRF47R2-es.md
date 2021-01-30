@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'TianTa Funda para Galaxy Tab S3 9.7 Case  Híbrido Tres Capas Funda Carcasa Protector con Correa de Bandolera y Mano  360 Rotación Kickstand para Samsung Tab S3 9.7 SM-T820/T825 Camuflaje'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KRF47R2/?tag=tolees-21'
 descuento: '31.05'
 average: '19.99'

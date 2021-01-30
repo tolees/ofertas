@@ -16,6 +16,7 @@ comparePrice: 10.09 EUR
 prodname: 'Odlo Sports Bra Blackcomb Seamless Medium Sujetador  Mujer  Chrysanthemum  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K9KGMBF/?tag=tolees-21'
 descuento: '36.97'
 average: '8.225'

@@ -16,6 +16,7 @@ comparePrice: 124.97 EUR
 prodname: 'Adidas by Nixon Reloj Analógico para de con Correa en Acero Inoxidable Z02-1604-00'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDWBBFS/?tag=tolees-21'
 descuento: '25.32'
 average: '93.33'

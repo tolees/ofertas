@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'Fujifilm NP-W126S - Batería Recargable  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01I4RNPQ6/?tag=tolees-21'
 descuento: '39.14'
 average: '41.99'

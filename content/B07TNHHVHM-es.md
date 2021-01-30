@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'WIN.MAX Diana Electrónica  Diana Dardos  Las diana se entrega con 6 dardos y 40 puntas de repuesto para comenzar a jugar inmediatamente  Ideal para reuniones familiares o de amigos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TNHHVHM/?tag=tolees-21'
 descuento: '27.78'
 average: '67.95333333333333'

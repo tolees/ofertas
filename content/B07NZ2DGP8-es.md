@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Superdry Orange Label Cotton Vee suéter  Azul  Darkest Navy 49p   XX-Large  Talla del Fabricante: 2XL  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NZ2DGP8/?tag=tolees-21'
 descuento: '64.68'
 average: '21.19'

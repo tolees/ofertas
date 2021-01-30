@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'New Balance Fresh Foam Roav  Zapatillas de Running para Hombre  Blanco  Light Aluminum Light Aluminum   45.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KR9K4LS/?tag=tolees-21'
 descuento: '66.87'
 average: '31.47'

@@ -16,6 +16,7 @@ comparePrice: 57.24 EUR
 prodname: 'adidas Vs Pace  Zapatillas para Hombre  Azul  Collegiate Navy/Footwear White/Blue 0   46 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MYBH5VF/?tag=tolees-21'
 descuento: '33.81'
 average: '37.89'

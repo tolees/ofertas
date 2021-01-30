@@ -16,6 +16,7 @@ comparePrice: 1.68 EUR
 prodname: 'Superligero LED Touch Design Sport Running Pulsera Digital Silicona Suave Smart Digital Wristaband Blanco/Negro/Rojo - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BZH5MXY/?tag=tolees-21'
 descuento: '33.33'
 average: '1.12'

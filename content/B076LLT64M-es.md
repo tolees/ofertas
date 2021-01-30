@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'HomCom Lámpara de Pie Moderna con 2 Luces E27 40W y Pulsador de Pie con Base de Acero Inoxidable 120cm - Color Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076LLT64M/?tag=tolees-21'
 descuento: '54.29'
 average: '31.99'

@@ -16,6 +16,7 @@ comparePrice: 1.26 EUR
 prodname: 'NanoCable 10.01.0102 - Cable USB 2.0 para Impresora  Tipo A/M-B/M  Macho-Macho  Beige  1mts'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00CI2IZO6/?tag=tolees-21'
 descuento: '43.65'
 average: '0.71'

@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Only Frsfalcon Sweat Pants-Unit Pantalones de Deporte  Negro  Black Black   54  Talla del Fabricante: Large  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S11P5SM/?tag=tolees-21'
 descuento: '55.15'
 average: '13.45'

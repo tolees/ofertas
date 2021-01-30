@@ -16,6 +16,7 @@ comparePrice: 34.9 EUR
 prodname: 'Energy Sistem 425563  Auriculares  Bluetooth 4.1  Talla única  Mint'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01A0MLMB8/?tag=tolees-21'
 descuento: '48.45'
 average: '17.99'

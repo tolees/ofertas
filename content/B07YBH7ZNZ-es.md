@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'Fila Sujetador Deportivo Color Azul Turquesa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YBH7ZNZ/?tag=tolees-21'
 descuento: '45.88'
 average: '11.9'

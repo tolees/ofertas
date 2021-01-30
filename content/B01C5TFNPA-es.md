@@ -16,6 +16,7 @@ comparePrice: 24.62 EUR
 prodname: 'Playskool Sesame Street Collector Pack 5 Figures by Sesame Street'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01C5TFNPA/?tag=tolees-21'
 descuento: '47.40'
 average: '12.95'

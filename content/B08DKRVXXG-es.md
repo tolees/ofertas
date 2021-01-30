@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'QHOHQ Correa Metal Compatible con Xiaomi Mi Band 5 Reemplazable - Ajustable - Acero Inoxidable Correas Pulsera Brazalete  Caja de Aleación de Zinc  Adecuado para Hombres y Mujeres - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08DKRVXXG/?tag=tolees-21'
 descuento: '41.20'
 average: '9.99'

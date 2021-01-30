@@ -16,6 +16,7 @@ comparePrice: 112.75 EUR
 prodname: 'The Big Bang Theory Temporada 1-10 Blu-Ray [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074BNZPB1/?tag=tolees-21'
 descuento: '38.42'
 average: '75.23777777777778'

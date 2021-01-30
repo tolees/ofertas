@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Mustriend Tocadiscos de Madera 33/45/78 Velocidad con Reproductor de Vinilo con Tapa Antipolvo con PC Grabación AUX IN de 3 5 mm y Conector para Auriculares  Salida de Línea para Altavoz Externo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JB7RQC3/?tag=tolees-21'
 descuento: '31.81'
 average: '68.18'

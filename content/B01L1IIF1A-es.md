@@ -16,6 +16,7 @@ comparePrice: 179.0 EUR
 prodname: 'Sennheiser HD 569 - Auriculares de Diadema Cerrados  6.3 mm/3.5 mm  micrófono  Control Remoto   Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01L1IIF1A/?tag=tolees-21'
 descuento: '50.19'
 average: '103.04'

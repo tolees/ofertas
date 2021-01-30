@@ -16,6 +16,7 @@ comparePrice: 34.94 EUR
 prodname: 'TONZE Ajedrez Magnetico Juegos de Mesa Tablero de Ajedrez con Caja Set Ajedrez Magnetico Plegable Fácil Llevar para Viajar Juego Ajedrez para Niños Infantil Adulto  25 x 25 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0732XQXQ3/?tag=tolees-21'
 descuento: '51.37'
 average: '15.926'

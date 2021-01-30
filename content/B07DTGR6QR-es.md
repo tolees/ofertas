@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Bulova Reloj de Pulsera 96C133'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DTGR6QR/?tag=tolees-21'
 descuento: '31.22'
 average: '145.62'

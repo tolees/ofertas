@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'CTEK MXS 5.0 Cargador de Batería Totalmente Automático  Carga  Mantiene y Reacondiciona las Baterías de Coche y Moto  12V  5 Amp – Toma EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00DEID79G/?tag=tolees-21'
 descuento: '27.78'
 average: '67.18199999999999'

@@ -16,6 +16,7 @@ comparePrice: 43.99 EUR
 prodname: 'Medias de Compresión Gradual Para Mujer  15-20mmHg 3Pares Calcetines SET4 L/XL '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H6BBRYN/?tag=tolees-21'
 descuento: '63.65'
 average: '15.99'

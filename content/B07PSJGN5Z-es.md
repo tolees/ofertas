@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Kipling - Multiple  Bolsos bandolera Mujer  Multicolor  Camo Large   20x13x7.5 cm  B x H T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PSJGN5Z/?tag=tolees-21'
 descuento: '71.74'
 average: '18.384999999999998'

@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'New Balance 574 Zapatillas Hombre  Verde  Olive EGO   46.5 EU  11.5 UK '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XWXF1ST/?tag=tolees-21'
 descuento: '40.00'
 average: '54.0'

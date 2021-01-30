@@ -16,6 +16,7 @@ comparePrice: 18.07 EUR
 prodname: 'Victoria s Secret Secret Charm Fragrance Mist 250 ml - 250 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B016NWL2Y6/?tag=tolees-21'
 descuento: '94.47'
 average: '1.0'

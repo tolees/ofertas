@@ -16,6 +16,7 @@ comparePrice: 145.8 EUR
 prodname: 'Julbo Vermont Classic - J010-20125'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BI7CUI4/?tag=tolees-21'
 descuento: '42.39'
 average: '85.515'

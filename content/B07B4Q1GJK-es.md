@@ -16,6 +16,7 @@ comparePrice: 150.0 EUR
 prodname: 'Eastpak Traf Ik Light L Maleta  85 cm  101 L  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B4Q1GJK/?tag=tolees-21'
 descuento: '46.67'
 average: '80.0'

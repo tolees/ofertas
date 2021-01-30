@@ -16,6 +16,7 @@ comparePrice: 30.62 EUR
 prodname: 'Dockers by Gerli 43fa307  Botas Militar para Mujer  Negro  Schwarz/Dunkelgrau 122   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q8V4WLX/?tag=tolees-21'
 descuento: '26.22'
 average: '22.59'

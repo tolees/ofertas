@@ -16,6 +16,7 @@ comparePrice: 135.0 EUR
 prodname: 'American Tourister Jetglam Spinner M Expandible Maleta  67 cm  77.5 L  Negro  Metallic Black '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P5TLV7J/?tag=tolees-21'
 descuento: '46.57'
 average: '72.13'

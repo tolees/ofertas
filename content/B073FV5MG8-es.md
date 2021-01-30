@@ -16,6 +16,7 @@ comparePrice: 1599.0 EUR
 prodname: 'Tamron T81065 - Objetivo para cámara Canon  SP 24-70mm  Apertura F/2.8 Di  Rendimiento de estabilización VC USD G2  A032 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073FV5MG8/?tag=tolees-21'
 descuento: '36.71'
 average: '1014.9250000000001'

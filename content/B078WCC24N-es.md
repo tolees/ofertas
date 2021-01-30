@@ -16,6 +16,7 @@ comparePrice: 379.0 EUR
 prodname: 'MASERATI Reloj Analógico para Hombre de Automático con Correa en Acero Inoxidable R8823118006'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078WCC24N/?tag=tolees-21'
 descuento: '35.57'
 average: '251.35'

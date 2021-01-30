@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Cortapelos Nariz y Oreja Recargable 5 en 1 Recortador de nariz Hombres y Mujeres Cortadoras de Vello Oreja Barba Patillas  Accesorios de Precisión de Acero Inoxidable con Tecnología Antipinzamiento'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TMYZVMQ/?tag=tolees-21'
 descuento: '68.58'
 average: '20.656666666666666'

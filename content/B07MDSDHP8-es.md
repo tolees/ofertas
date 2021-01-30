@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'Lacoste      '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MDSDHP8/?tag=tolees-21'
 descuento: '26.50'
 average: '66.15'

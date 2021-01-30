@@ -16,6 +16,7 @@ comparePrice: 17.65 EUR
 prodname: 'Hellraiser IV: El Final de la Dinastía Sangrienta BLU RAY 1996 Hellraiser IV: Bloodline [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08F4F5TJR/?tag=tolees-21'
 descuento: '26.63'
 average: '12.95'

@@ -16,6 +16,7 @@ comparePrice: 299.99 EUR
 prodname: 'TOPOSH Windows 10 Ordenador Portátil 10 1" 4 GB RAM+64 GB SSD Intel Quad-Core Celeron N3350 1 92 GHz Gráfica Portátil Tarjeta TF Extensible Bluetooth 4.0 WiFi HDMI – Pink'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BP5X8DS/?tag=tolees-21'
 descuento: '36.67'
 average: '189.99'

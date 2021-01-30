@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'MIFU Mini Máquinas de coser Portátil Herramienta de Puntada Rápida para Tela Ropa con Set de Costura para Uso de Viaje y Casa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BNBLNZ5/?tag=tolees-21'
 descuento: '29.64'
 average: '18.99'

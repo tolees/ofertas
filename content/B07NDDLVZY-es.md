@@ -16,6 +16,7 @@ comparePrice: 759.0 EUR
 prodname: 'Samsung Galaxy S10e - Smartphone  128GB  Dual SIM  Pantalla 5.8 "Full HD + Dynamic AMOLED  3100mAh  típico    Negro  Prism Black   [ Versión Española]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDDLVZY/?tag=tolees-21'
 descuento: '25.03'
 average: '523.2045454545455'

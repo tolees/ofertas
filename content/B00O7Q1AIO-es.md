@@ -16,6 +16,7 @@ comparePrice: 5.6 EUR
 prodname: 'Pelota de Playa Hinchable Bestway Minnie Mouse'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00O7Q1AIO/?tag=tolees-21'
 descuento: '50.89'
 average: '2.75'

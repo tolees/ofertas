@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Salomon Alphacross  Zapatillas de trail running para Hombre  Negro Black White Monument  40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KQFTZP1/?tag=tolees-21'
 descuento: '28.86'
 average: '63.49'

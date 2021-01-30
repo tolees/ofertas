@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'UniqueMe [6 Pack] Protector de Pantalla para Apple Watch 42mm Series 1/2/3  [Sin Burbujas][Adsorcion anhidra] Instalación Fácil Película Flexible Soft HD Clear Not Vidrio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YS81FCW/?tag=tolees-21'
 descuento: '42.34'
 average: '7.99'

@@ -16,6 +16,7 @@ comparePrice: 24.98 EUR
 prodname: 'JTDEAL Mosquitera para Cama  4 Esquinas Adecuado para Cama Individual o Matrimonio Anti mosquitos para el Hogar o de Vacaciones - Blanca'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XKL3R8H/?tag=tolees-21'
 descuento: '31.99'
 average: '16.99'

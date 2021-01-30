@@ -16,6 +16,7 @@ comparePrice: 52.61 EUR
 prodname: 'TKL Teclado mecánico para juegos  interruptor azul Clicky Outemu con retroiluminación LED  E-Element Z-77 Panel de aluminio 87 teclas compacto  US-Layout  teclado para PC Gamer Typist'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z9Z6XQF/?tag=tolees-21'
 descuento: '32.83'
 average: '35.34'

@@ -16,6 +16,7 @@ comparePrice: 37.99 EUR
 prodname: 'Glighone Apliques de Pared Moderna Lámpara de Pared Led Luz 360° Ajustable Luz en Aluminio Interior para Pasillo  Sala de Estar  Escalera  Dormitorio  Corredor  Blanco Cálido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0716JHVYN/?tag=tolees-21'
 descuento: '57.91'
 average: '15.99'

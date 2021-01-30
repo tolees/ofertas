@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'HDMI a SCART Convertidor  convierte la señal digital de audio y video HDMI 1080P en señal CVBS SCART analógica  admite formatos PAL / NTSC'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08DNH9TJS/?tag=tolees-21'
 descuento: '31.27'
 average: '10.99'

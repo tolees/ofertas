@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Rowenta Precious Curl CF3460 - Rizador con recubrimiento Keratin and shine  temperatura hasta 200ºC  cable 360º y pantalla LCD  25 mm de diámetro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01K9O1B2M/?tag=tolees-21'
 descuento: '34.98'
 average: '25.633333333333333'

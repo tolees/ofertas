@@ -16,6 +16,7 @@ comparePrice: 13.17 EUR
 prodname: 'L Oreal Majirel Eu Absolu Tinte 9.22 - 125 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00CRVHRM4/?tag=tolees-21'
 descuento: '59.98'
 average: '5.27'

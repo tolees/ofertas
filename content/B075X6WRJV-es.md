@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'WMF Küchenminis Cocedor 1 Huevo  55 W  con Tritan libre de BPA  incluye huevera  medidor de agua y acabados en acero inoxidable de cromargan'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075X6WRJV/?tag=tolees-21'
 descuento: '34.83'
 average: '16.26'

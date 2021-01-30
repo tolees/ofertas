@@ -16,6 +16,7 @@ comparePrice: 2.99 EUR
 prodname: 'Zinmuwa Mujer Pendientes Bola Colgante Perla Artificial Redondo Elegante Oro One Size'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SDDC9M7/?tag=tolees-21'
 descuento: '66.56'
 average: '1.0'

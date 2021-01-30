@@ -16,6 +16,7 @@ comparePrice: 479.99 EUR
 prodname: 'ASUS VA326HR Pantalla para PC 80 cm  31.5"  Full HD LED Curva Negro  Plata - Monitor  80 cm  31.5"   1920 x 1080 Pixeles  Full HD  LED  4 ms  Negro  Plata '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TSFCTLP/?tag=tolees-21'
 descuento: '35.42'
 average: '309.99'

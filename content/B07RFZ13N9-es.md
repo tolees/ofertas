@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'Under Armour Pennant Jacket 2.0 Parte Superior del Calentamiento  Niños  Azul  YXL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RFZ13N9/?tag=tolees-21'
 descuento: '30.35'
 average: '27.896666666666665'

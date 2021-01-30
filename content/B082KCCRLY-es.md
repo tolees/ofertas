@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'LAYJOY Funda Xiaomi Redmi 8A  Ligera Carcasa Silicona Suave TPU Gel Bumper Case de Protectora [Antideslizante] [Anti-Golpes] Cover para Xiaomi Redmi 8A  2019  6.22 Pulgadas -Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082KCCRLY/?tag=tolees-21'
 descuento: '27.30'
 average: '7.99'

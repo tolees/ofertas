@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'L Oreal Majirel 6.1   Color Rubio Oscuro Ceniza - 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BY0D2QE/?tag=tolees-21'
 descuento: '29.78'
 average: '11.2'

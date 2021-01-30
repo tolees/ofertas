@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'Masajeador Portátil 10 modos ricaricabile'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083SM9Y9D/?tag=tolees-21'
 descuento: '39.41'
 average: '19.99'

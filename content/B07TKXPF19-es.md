@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'Superdry State Volley Swim Short Pantalones Cortos  Negro  Black 02a   M para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TKXPF19/?tag=tolees-21'
 descuento: '32.23'
 average: '30.49'

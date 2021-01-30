@@ -16,6 +16,7 @@ comparePrice: 21.95 EUR
 prodname: 'Dead Man s Finger Coffee Rum - 700 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CW6ZRDF/?tag=tolees-21'
 descuento: '32.98'
 average: '14.71'

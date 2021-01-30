@@ -16,6 +16,7 @@ comparePrice: 11.36 EUR
 prodname: 'Anne Moller Pour Homme Control Triple Action Desodorante - 75 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FV4SXXA/?tag=tolees-21'
 descuento: '73.68'
 average: '2.99'

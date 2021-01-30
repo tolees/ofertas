@@ -16,6 +16,7 @@ comparePrice: 68.9 EUR
 prodname: 'NOVELA Apto para NiñOs Estudiantes  Linda ImpresióN  3 Capas ProteccióN  Necesidades Diarias 50 Pcs'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08KGL6J4P/?tag=tolees-21'
 descuento: '90.00'
 average: '48.230000000000004'

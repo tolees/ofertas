@@ -16,6 +16,7 @@ comparePrice: 258.58 EUR
 prodname: 'Fossil Smartwatch Pantalla táctil para Hombre de Connected con Correa en Silicona FTW4041'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083ZBPQYX/?tag=tolees-21'
 descuento: '33.11'
 average: '172.97'

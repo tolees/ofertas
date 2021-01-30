@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Young & Ming  3 Unidades  Cristal Templado para Huawei Watch GT2 46mm  9H Dureza Alta Transparencia Ultra Resistente a Golpes Sin Burbujas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z3LSVBN/?tag=tolees-21'
 descuento: '43.89'
 average: '7.85'

@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Bolsa de Playa Grande con Cremallera 58 x 38 x 18 cm diseño marítimo Barco Blanco Azul Rojo Shopper Bolsa de Hombro Estilo de yate  Yacht Style '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01I1HDV7C/?tag=tolees-21'
 descuento: '33.34'
 average: '19.99'

@@ -16,6 +16,7 @@ comparePrice: 65.99 EUR
 prodname: 'MP3 BENJIE 16GB MP3 Bluetooth 1.5" Reproductor de MP3 Pantalla Táctil Completa HiFi Sin Pérdida de Sonido MP3 Running  FM Radio  Grabadora de Voz con Auriculares para Amantes del Deporte y la Música'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QX41FBY/?tag=tolees-21'
 descuento: '50.01'
 average: '32.99'

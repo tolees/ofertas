@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Taylor Swoden Elizabeth - Humidificador ultrasónico  5 L  mando a distancia  bruma caliente y ambiente  difusor de aceites esenciales  LED 7 colores  3 niveles nebulización  temporizador 12 horas.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086MNN9RD/?tag=tolees-21'
 descuento: '32.80'
 average: '67.19'

@@ -16,6 +16,7 @@ comparePrice: 16.69 EUR
 prodname: 'VGEBY1 Pelota de Tenis Entrenador de Espalda  Pelota de Entrenamiento de Tenis Práctica de Bolas Base de Espalda con Cuerda elástica de Goma para la práctica de una Sola Persona'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TP26F5K/?tag=tolees-21'
 descuento: '60.52'
 average: '6.59'

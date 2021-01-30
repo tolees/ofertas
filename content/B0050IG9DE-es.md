@@ -16,6 +16,7 @@ comparePrice: 17.09 EUR
 prodname: 'STANLEY 1-96-181 - Cinturón portaherramientas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0050IG9DE/?tag=tolees-21'
 descuento: '41.78'
 average: '9.466666666666665'

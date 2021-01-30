@@ -16,6 +16,7 @@ comparePrice: 2.35 EUR
 prodname: 'Trixie Cuerda de Juego con Bola  ø5.5 cm  30 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000SE00NA/?tag=tolees-21'
 descuento: '31.06'
 average: '1.62'

@@ -16,6 +16,7 @@ comparePrice: 6.09 EUR
 prodname: 'W7 grandes mate Natural Ojo Color Collection  10 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072XNN1V5/?tag=tolees-21'
 descuento: '34.48'
 average: '3.99'

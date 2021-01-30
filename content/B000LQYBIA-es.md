@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Pulsar PJ6024X1 - Reloj analógico de caballero de cuarzo con correa de acero inoxidable dorada - sumergible a 100 metros'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000LQYBIA/?tag=tolees-21'
 descuento: '55.72'
 average: '43.84'

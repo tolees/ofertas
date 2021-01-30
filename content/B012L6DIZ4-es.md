@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'L Oreal Majirouge Absolu Tinte Permanente 8.43 - 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B012L6DIZ4/?tag=tolees-21'
 descuento: '32.98'
 average: '10.01'

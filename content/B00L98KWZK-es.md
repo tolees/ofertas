@@ -16,6 +16,7 @@ comparePrice: 21.6 EUR
 prodname: 'Neutrogena Reparación Intensa Loción Corporal para Piel Muy Seca - 750 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00L98KWZK/?tag=tolees-21'
 descuento: '61.57'
 average: '8.55923076923077'

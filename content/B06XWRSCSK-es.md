@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'Philips Avent SCF798/02 - Vaso con pajita flexible  300 ml  12 m+  válvula antigoteo  piezas compatibles Philips Avent  color rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XWRSCSK/?tag=tolees-21'
 descuento: '41.28'
 average: '7.04'

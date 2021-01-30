@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Abody 5-en-1 Rizador de Pelo Profesional Rizador y Alisador Pelo Kit  Barras de Cerámica Proteger Cabello  Apagado automático  Moldeador de Ondas  Hacer Rizo Grande y Pequeño para Pelo Largo y Corto'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WRP8YT5/?tag=tolees-21'
 descuento: '32.51'
 average: '30.990000000000002'

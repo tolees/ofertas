@@ -16,6 +16,7 @@ comparePrice: 6.05 EUR
 prodname: 'SHIMANO BR-9000 R55C4 Zapatas Sueltas  Unisex Adulto  Multicolor  Talla Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00F0RD2TY/?tag=tolees-21'
 descuento: '34.05'
 average: '3.99'

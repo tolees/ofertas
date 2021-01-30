@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'Clarks Sheer Flora  Botas Chelsea para Mujer  Azul  Navy Navy   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N1H8FDW/?tag=tolees-21'
 descuento: '80.73'
 average: '23.12'

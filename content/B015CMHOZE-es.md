@@ -16,6 +16,7 @@ comparePrice: 7.49 EUR
 prodname: 'Rimmel London Supercurler Máscara de Pestañas Tono Black - 25 31 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B015CMHOZE/?tag=tolees-21'
 descuento: '59.01'
 average: '3.474285714285714'

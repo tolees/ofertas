@@ -16,6 +16,7 @@ comparePrice: 84.95 EUR
 prodname: 'Wrangler Arizona Jeans  Azul  Green Room 25B   35W / 32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079V5LP6X/?tag=tolees-21'
 descuento: '49.99'
 average: '42.48'

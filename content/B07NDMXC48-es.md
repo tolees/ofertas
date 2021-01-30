@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'G-STAR RAW Motac Slim Tapered Pantalones de Deporte  Gris  Granite Htr A612/2522   40  Talla del Fabricante: X-Small  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDMXC48/?tag=tolees-21'
 descuento: '65.43'
 average: '34.55'

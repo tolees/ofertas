@@ -16,6 +16,7 @@ comparePrice: 475.0 EUR
 prodname: 'Maclaren Quest arc Silla de paseo - ligero  manillar unido  para recién nacidos hasta los 25kg  Asiento multiposición  suspensión en las 4 ruedas  Multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S1W6BQK/?tag=tolees-21'
 descuento: '41.05'
 average: '269.99'

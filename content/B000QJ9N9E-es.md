@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Merrell Waterpro Maipo 2  Zapatillas Impermeables para Hombre  Azul  Velvet Morning   45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000QJ9N9E/?tag=tolees-21'
 descuento: '34.01'
 average: '60.47'

@@ -16,6 +16,7 @@ comparePrice: 32.5 EUR
 prodname: 'Rostro Prebase Sos Primer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077PND15C/?tag=tolees-21'
 descuento: '29.38'
 average: '22.95'

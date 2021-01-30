@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Anker Powerline USB-C auf USB C 2.0 Kabel 1.8 m für USB Type-C Geräte: Galaxy S8  S8+  Google Pixel  Nexus 6P  Huawei Matebook  MacBook und weitere  Schwarz '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01EMINIWW/?tag=tolees-21'
 descuento: '60.03'
 average: '7.99'

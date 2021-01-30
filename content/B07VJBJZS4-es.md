@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'edc by Esprit 099cc1b048 Pantalones  Negro  Black 001   W38/L30  Talla del Fabricante: 38/30  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VJBJZS4/?tag=tolees-21'
 descuento: '66.68'
 average: '19.99'

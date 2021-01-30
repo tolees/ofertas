@@ -16,6 +16,7 @@ comparePrice: 39.0 EUR
 prodname: 'Paletero Bullpadel 18004 Azul Flúor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DFJ5JXZ/?tag=tolees-21'
 descuento: '28.46'
 average: '27.9'

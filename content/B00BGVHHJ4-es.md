@@ -16,6 +16,7 @@ comparePrice: 13.43 EUR
 prodname: 'Fruit of the Loom- Polo de Manga Corta Premium Entallado para Mujer  Mediana  M /Rosa Claro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BGVHHJ4/?tag=tolees-21'
 descuento: '33.36'
 average: '9.533333333333333'

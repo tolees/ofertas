@@ -16,6 +16,7 @@ comparePrice: 140.0 EUR
 prodname: 'New Balance Fuel Cell Impulse  Zapatillas de Running para Mujer  Blanco  White/Voltage Violet/Light Cyclone WP   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BL18JK9/?tag=tolees-21'
 descuento: '74.13'
 average: '40.239999999999995'

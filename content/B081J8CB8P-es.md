@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Delantales de Cocina 2 Piezas con Bolsillo Delantal Impermeables para Hombre Mujer Delantale Ajustables para Jardinería Restaurante Barbacoa Cocinar Hornear'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081J8CB8P/?tag=tolees-21'
 descuento: '45.34'
 average: '13.66'

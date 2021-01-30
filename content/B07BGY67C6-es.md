@@ -16,6 +16,7 @@ comparePrice: 35.97 EUR
 prodname: 'LEADSTAR Almohada de baño  Almohada de SPA Impermeable Almohada de baño de Lujo Almohada para Respaldo Apoyacabezas con 7 Ventosas Antideslizantes Ergonomic Home SPA Limpieza fácil  Blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BGY67C6/?tag=tolees-21'
 descuento: '63.89'
 average: '12.99'

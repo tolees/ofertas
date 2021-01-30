@@ -16,6 +16,7 @@ comparePrice: 69.9 EUR
 prodname: 'Tommy Hilfiger Long Sleeve Slim Polo  Rojo  Haute Red Xbe   XL para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NFHC392/?tag=tolees-21'
 descuento: '51.36'
 average: '34'

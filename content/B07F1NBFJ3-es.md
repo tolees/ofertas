@@ -16,6 +16,7 @@ comparePrice: 10.39 EUR
 prodname: 'Zerone Cable CATV Bloqueo y desbloqueo Terminator Tool- Azul 7 Pulgadas '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F1NBFJ3/?tag=tolees-21'
 descuento: '47.16'
 average: '5.49'

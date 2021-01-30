@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'L Oreal Paris Dermo Expertise Revitalift Láser x3 Crema de Día Intensiva Anti-Edad - 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MRZGFYB/?tag=tolees-21'
 descuento: '30.00'
 average: '11.136666666666667'

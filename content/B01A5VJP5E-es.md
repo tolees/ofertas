@@ -16,6 +16,7 @@ comparePrice: 1837.99 EUR
 prodname: 'Grohe Rainshower SmartControl 360 DUO - Sistema de ducha con termostato incorporado  Ref. 26250000 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01A5VJP5E/?tag=tolees-21'
 descuento: '48.98'
 average: '887.16'

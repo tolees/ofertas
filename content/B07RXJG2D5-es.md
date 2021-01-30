@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'New Balance 373v2  Zapatillas para Mujer  Azul  Blue Cb2   35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RXJG2D5/?tag=tolees-21'
 descuento: '57.76'
 average: '37.317499999999995'

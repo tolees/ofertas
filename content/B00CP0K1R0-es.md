@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Vans Atwood Canvas  Zapatillas para Hombre  Rojo  Oxblood/White 8J3   45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00CP0K1R0/?tag=tolees-21'
 descuento: '40.00'
 average: '39.0'

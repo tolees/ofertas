@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Skechers Girls  Bobs Squad Trainers  Grey  Gray/Hot Pink Glitter & Embroidered Sneaker Gyhp   9.5 UK  27 EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NL9LYQH/?tag=tolees-21'
 descuento: '28.74'
 average: '28.47'

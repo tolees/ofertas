@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Reebok Classic Leather Zapatillas  Mujer  Negro  Int / Black / Gum   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HTFCDNA/?tag=tolees-21'
 descuento: '44.30'
 average: '47.834705882352935'

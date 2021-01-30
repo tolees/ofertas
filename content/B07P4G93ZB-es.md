@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'PopSockets PopGrip - Soporte y Agarre para Teléfonos Móviles y Tabletas con un Top Intercambiable - Opal'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P4G93ZB/?tag=tolees-21'
 descuento: '63.18'
 average: '5.8'

@@ -16,6 +16,7 @@ comparePrice: 2.31 EUR
 prodname: 'SALVADO AVENA 500 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00DN9L7RK/?tag=tolees-21'
 descuento: '37.23'
 average: '1.45'

@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'ELITE BAGS DIA´S Bolsillo de los diabéticos  negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00H8NMYH4/?tag=tolees-21'
 descuento: '25.39'
 average: '11.9'

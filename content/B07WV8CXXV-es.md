@@ -16,6 +16,7 @@ comparePrice: 402.81 EUR
 prodname: 'SAMSUNG Galaxy Watch Active 2 SM-R830NSSAPHE - Smartwatch de Acero  40mm  color Plata  Bluetooth [Versión española]  40 mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WV8CXXV/?tag=tolees-21'
 descuento: '34.21'
 average: '265.0'

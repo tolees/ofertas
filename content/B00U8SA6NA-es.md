@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'S&M 321771 Regulador de Gas Butano Goma M + 2 Abraz  Gris/Naranja  1 5 Metros de Tubo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00U8SA6NA/?tag=tolees-21'
 descuento: '43.21'
 average: '8.763333333333334'

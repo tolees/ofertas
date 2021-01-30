@@ -16,6 +16,7 @@ comparePrice: 409.9 EUR
 prodname: 'Britax Römer Silla de coche Nacimiento - 4 años  hasta 18 kg  DUALFIX2 R  ISOFIX  Grupo 0+/1  Storm Grey'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QLSYS2Y/?tag=tolees-21'
 descuento: '29.49'
 average: '293.44142857142856'

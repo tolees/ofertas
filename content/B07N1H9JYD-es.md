@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Angelady  Timeline  Brazaletes de Oro Rosa Pulseras para Mujeres Joyería de niñas San Valentín para Miss  Presente para mamá  Rose Golden  Cobre '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N1H9JYD/?tag=tolees-21'
 descuento: '50.01'
 average: '24.99'

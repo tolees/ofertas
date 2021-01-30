@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'New Balance 574v2-core Trainers  Zapatillas para Hombre  Rojo  Burgundy   42.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06Y2Y18GL/?tag=tolees-21'
 descuento: '49.03'
 average: '43.051428571428566'

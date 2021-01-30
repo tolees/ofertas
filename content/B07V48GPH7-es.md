@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'BOSS Identity Pants Pantalones de Deporte  Azul  Dark Blue 403   58  Talla del Fabricante: XX-Large  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V48GPH7/?tag=tolees-21'
 descuento: '58.82'
 average: '24.69'

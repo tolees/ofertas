@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'FREDI Cámara de Vigilancia para exteriore  1080P HD Inalámbrica Seguridad/Cámara Impermeable IP Sistema de cámara con Audio bidireccional  visión Nocturna  detección de Movimiento-Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PTY1WBC/?tag=tolees-21'
 descuento: '61.54'
 average: '53.32333333333334'

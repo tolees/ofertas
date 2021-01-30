@@ -16,6 +16,7 @@ comparePrice: 1.48 EUR
 prodname: 'Micaderm Toallitas para Bebe - 72 unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LZNWK4D/?tag=tolees-21'
 descuento: '32.43'
 average: '1.0025'

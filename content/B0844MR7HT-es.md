@@ -16,6 +16,7 @@ comparePrice: 17.95 EUR
 prodname: 'adidas bolsita  Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0844MR7HT/?tag=tolees-21'
 descuento: '50.14'
 average: '10.75'

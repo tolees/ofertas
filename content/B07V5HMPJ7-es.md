@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Tom Tailor Besticktes Polo  Azul  Blue Grindle Pique 19473   S para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V5HMPJ7/?tag=tolees-21'
 descuento: '71.79'
 average: '8.46'

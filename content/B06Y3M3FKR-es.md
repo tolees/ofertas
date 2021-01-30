@@ -16,6 +16,7 @@ comparePrice: 159.0 EUR
 prodname: 'American Tourister Soundbox Spinner Equipaje de mano M  67 cm 81 L   Negro  Bass Black '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06Y3M3FKR/?tag=tolees-21'
 descuento: '62.03'
 average: '80.69250000000001'

@@ -16,6 +16,7 @@ comparePrice: 16.22 EUR
 prodname: 'Baoblaze Premium Monitor de Presión de Aire para Neumáticos de Bicicletas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FCP6FB9/?tag=tolees-21'
 descuento: '44.45'
 average: '8.98'

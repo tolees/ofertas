@@ -16,6 +16,7 @@ comparePrice: 74.5 EUR
 prodname: 'Darling In The Franxx Serie Completa 24 Episodios Bd Edición Coleccionistas [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QKVVKRK/?tag=tolees-21'
 descuento: '30.21'
 average: '57.656666666666666'

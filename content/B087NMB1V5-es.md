@@ -16,6 +16,7 @@ comparePrice: 23.3 EUR
 prodname: 'Grborn Termómetro electrónico Termómetro de Mano de Mano Termómetro infrarrojo de Alta precisión Termómetro sin Contacto'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087NMB1V5/?tag=tolees-21'
 descuento: '71.07'
 average: '9.265555555555556'

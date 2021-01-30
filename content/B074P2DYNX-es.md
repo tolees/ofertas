@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'MAX-T RMS6101 Afeitadora Eléctrica para Hombres IPX7 100% Impermeable Máquina Afeitar Barba Húmedo & Seco con Pop-up Trimmer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074P2DYNX/?tag=tolees-21'
 descuento: '47.21'
 average: '18.47'

@@ -16,6 +16,7 @@ comparePrice: 85.0 EUR
 prodname: 'Nike Air Jordan First Class Bg  Zapatillas de Deporte para Hombre  Multicolor  Black/Black-White 010   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FDF75K7/?tag=tolees-21'
 descuento: '27.42'
 average: '61.69'

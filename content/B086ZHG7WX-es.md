@@ -16,6 +16,7 @@ comparePrice: 4.75 EUR
 prodname: 'Mesa de aleación de aluminio de 35 mm Abrazadera de banco Abrazadera de tornillo de mesa Mini tornillo de mesa Tornillo para herramienta de reparación fija de molde artesanal DIY - Plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086ZHG7WX/?tag=tolees-21'
 descuento: '34.95'
 average: '3.09'

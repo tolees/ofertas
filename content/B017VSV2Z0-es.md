@@ -16,6 +16,7 @@ comparePrice: 18.53 EUR
 prodname: 'JUGUETE DE PINTURA POR NUMEROS - Perros y gatos - INTERHOME©'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B017VSV2Z0/?tag=tolees-21'
 descuento: '46.09'
 average: '9.99'

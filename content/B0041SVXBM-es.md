@@ -16,6 +16,7 @@ comparePrice: 13.2 EUR
 prodname: 'STANLEY 0-83-122 - Sargento de angulo carga pesada'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0041SVXBM/?tag=tolees-21'
 descuento: '27.65'
 average: '9.55'

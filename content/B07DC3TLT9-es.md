@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'LE COQ SPORTIF Verdon Sport  Zapatillas para Hombre  Beige  Dress Blue/Croissant Bleu   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DC3TLT9/?tag=tolees-21'
 descuento: '63.43'
 average: '25.6'

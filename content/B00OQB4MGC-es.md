@@ -16,6 +16,7 @@ comparePrice: 20.28 EUR
 prodname: 'High Peak Bermuda Tarp Grau Tienda  Gris  360 x 360 x 360 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00OQB4MGC/?tag=tolees-21'
 descuento: '25.05'
 average: '15.2'

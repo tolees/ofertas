@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Lee Elly Jeans  Azul  One Wash Ha45   W29/L33 para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N2JMBS1/?tag=tolees-21'
 descuento: '38.85'
 average: '55.0'

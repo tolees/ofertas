@@ -16,6 +16,7 @@ comparePrice: 12.95 EUR
 prodname: '2 Pares Calcetines/Medias de Compresión para Hombres y Mujeres  Running  Deporte  Correr  Senderismo  Volar  Viajar  Varicosas  Embarazo y Médicos  EU 39-42  Azul - 2 Pairs '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PZYVJ7K/?tag=tolees-21'
 descuento: '42.70'
 average: '9.684999999999999'

@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Adidas Lite Racer Inf  Zapatillas de Estar por casa Bebé Unisex  Azul  Azuosc/Ftwbla/Negbás 000   21 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GRHR9JW/?tag=tolees-21'
 descuento: '50.02'
 average: '14.97'

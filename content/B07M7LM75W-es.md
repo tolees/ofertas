@@ -16,6 +16,7 @@ comparePrice: 17.0 EUR
 prodname: 'Paladone Reloj Digital para Adultos Unisex de Automático con Correa en Goma PP4925PS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M7LM75W/?tag=tolees-21'
 descuento: '29.71'
 average: '11.889090909090909'

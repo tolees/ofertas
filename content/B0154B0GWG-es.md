@@ -16,6 +16,7 @@ comparePrice: 229.99 EUR
 prodname: 'Linksys WRT1900ACS - Router inalámbrico Smart Wi-Fi de Doble Banda AC1900  Doble Banda 2 4 y 5 GHz  procesador Doble núcleo 1 6 GHz  Wireless-AC  4 Antenas  Seguridad Avanzada   Azul y Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0154B0GWG/?tag=tolees-21'
 descuento: '40.87'
 average: '125.495'

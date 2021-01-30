@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'DC Shoes TRASE TX Zapatillas Hombre  Negro  Black/Gum   42.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00L9DUI1I/?tag=tolees-21'
 descuento: '46.15'
 average: '36.995000000000005'

@@ -16,6 +16,7 @@ comparePrice: 58.99 EUR
 prodname: 'SanDisk - Base iXpand de 32 GB  para Cargar iPhone y Hacer copias de Seguridad de su Contenido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073JY2P7G/?tag=tolees-21'
 descuento: '54.37'
 average: '31.25'

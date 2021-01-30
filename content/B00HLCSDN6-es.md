@@ -16,6 +16,7 @@ comparePrice: 7.77 EUR
 prodname: 'Vanish Quitamanchas Pretratante alfombras y tapicerías spray – 750ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00HLCSDN6/?tag=tolees-21'
 descuento: '49.16'
 average: '3.9633333333333334'

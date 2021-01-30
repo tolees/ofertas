@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Selighting Bolsa Tactica Grande Funda Móvil MOLLE Táctico Riñonera Smartphone Funda Multifunción para Teléfono hasta 5.8" para Correr Senderismo Camping Caza  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q49KDXH/?tag=tolees-21'
 descuento: '50.03'
 average: '9.99'

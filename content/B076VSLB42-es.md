@@ -16,6 +16,7 @@ comparePrice: 22.95 EUR
 prodname: 'Sigma Sport Aura 25 Set Luces Ciclismo  Unisex  Negro  Talla Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076VSLB42/?tag=tolees-21'
 descuento: '36.86'
 average: '14.49'

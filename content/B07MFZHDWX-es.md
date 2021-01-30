@@ -16,6 +16,7 @@ comparePrice: 139.95 EUR
 prodname: 'GANT Hampton  Botas Chelsea para Mujer  Marrón  Dark Brown G46   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MFZHDWX/?tag=tolees-21'
 descuento: '44.35'
 average: '77.88'

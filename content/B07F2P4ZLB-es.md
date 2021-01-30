@@ -16,6 +16,7 @@ comparePrice: 15.84 EUR
 prodname: 'Amazon Essentials – Pantalones cargo elásticos de corte entallado para hombre  Gris oscuro  30W x 30L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F2P4ZLB/?tag=tolees-21'
 descuento: '34.41'
 average: '10.39'

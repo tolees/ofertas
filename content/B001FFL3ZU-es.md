@@ -16,6 +16,7 @@ comparePrice: 21.9 EUR
 prodname: 'Weider Victory Endurance  Amino Recovery - 120 Capsulas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001FFL3ZU/?tag=tolees-21'
 descuento: '45.21'
 average: '12.776666666666666'

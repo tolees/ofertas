@@ -16,6 +16,7 @@ comparePrice: 19.2 EUR
 prodname: 'Safta Maletín Minions Oficial Para Ordenador 380x60x280mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01ENRAQUO/?tag=tolees-21'
 descuento: '27.34'
 average: '12.694999999999999'

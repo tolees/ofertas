@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Senbos Cartera Hombre Pequeña Cartera de Cuero Suave de Piel de Vaca Genuina Soporte de Tarjeta de crédito con Bolsillo con Cremallera  Color1 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RRS17CW/?tag=tolees-21'
 descuento: '83.35'
 average: '9.99'

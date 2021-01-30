@@ -16,6 +16,7 @@ comparePrice: 27.95 EUR
 prodname: 'adidas DX7301 Pantalones Cortos de Deporte  Niños  Rojo  Power Red/White   11-12'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KCXHVRR/?tag=tolees-21'
 descuento: '46.37'
 average: '14.99'

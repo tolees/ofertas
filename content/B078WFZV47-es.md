@@ -16,6 +16,7 @@ comparePrice: 12.95 EUR
 prodname: 'PUMA Liga Shorts Core Jr Pantalones Cortos de Fútbol  Unisex Niños  Negro  Black/White   140'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078WFZV47/?tag=tolees-21'
 descuento: '34.44'
 average: '8.986666666666666'

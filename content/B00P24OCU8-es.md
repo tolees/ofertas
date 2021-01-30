@@ -16,6 +16,7 @@ comparePrice: 26.36 EUR
 prodname: 'Pekatherm US30TD - Almohadilla Universal ECO Mediana de Poliéster  46 x 36 cm | Almohadilla Eléctrica | Almohadilla Eléctrica Cervical y Lumbar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00P24OCU8/?tag=tolees-21'
 descuento: '38.32'
 average: '15.320000000000002'

@@ -16,6 +16,7 @@ comparePrice: 2.57 EUR
 prodname: 'Uso duradero Accesorios de piezas de repuesto para aspiradora inalámbrica Accesorios especiales Filtro colector de polvo para filtro de aspiradora Blanco y negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082XD29BN/?tag=tolees-21'
 descuento: '38.91'
 average: '1.57'

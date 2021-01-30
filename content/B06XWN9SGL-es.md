@@ -16,6 +16,7 @@ comparePrice: 16.53 EUR
 prodname: 'Amazon Essentials Fashion-Swim-Trunks  Marino  US S  EU S '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XWN9SGL/?tag=tolees-21'
 descuento: '25.95'
 average: '12.24'

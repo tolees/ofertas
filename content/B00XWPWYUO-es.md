@@ -16,6 +16,7 @@ comparePrice: 64.99 EUR
 prodname: 'Nike Tanjun  Zapatillas de Running para Hombre  Negro  Black/White 011   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XWPWYUO/?tag=tolees-21'
 descuento: '26.03'
 average: '47.025555555555556'

@@ -16,6 +16,7 @@ comparePrice: 11.02 EUR
 prodname: 'HABA- Juego de Mesa  Guisantes   Habermass H304278 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZYD5SG/?tag=tolees-21'
 descuento: '36.93'
 average: '6.95'

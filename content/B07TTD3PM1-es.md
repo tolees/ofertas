@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'Funko- Pop Disney: Onward-Manticore Collectible Toy  Multicolor  45586 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TTD3PM1/?tag=tolees-21'
 descuento: '47.63'
 average: '9.916666666666668'

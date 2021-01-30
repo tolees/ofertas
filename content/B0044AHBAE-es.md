@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'POP! Vinilo - DC: The Flash'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0044AHBAE/?tag=tolees-21'
 descuento: '37.42'
 average: '8.685'

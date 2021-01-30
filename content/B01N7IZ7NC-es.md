@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Kappa Olymp  Zapatillas Unisex Adulto  Negro  Black/White 1110   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N7IZ7NC/?tag=tolees-21'
 descuento: '49.21'
 average: '30.45'

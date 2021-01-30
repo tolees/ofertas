@@ -16,6 +16,7 @@ comparePrice: 61.88 EUR
 prodname: 'Sades A6 7.1 Surround Sonido Estéreo Pro PC Gaming Headset Auriculares con banda de alta sensibilidad con micrófono Conector USB Over The de Ear Breat de conmutación Volume Control LED de Leuchten  Color Blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XCDX8B0/?tag=tolees-21'
 descuento: '53.15'
 average: '28.99'

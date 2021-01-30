@@ -16,6 +16,7 @@ comparePrice: 86.73 EUR
 prodname: 'ETNAB|#Etnies Cyprus SC  Zapatillas para Hombre  Black/White 976  7 UK EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FK6HP8D/?tag=tolees-21'
 descuento: '79.12'
 average: '18.11'

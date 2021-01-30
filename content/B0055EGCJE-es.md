@@ -16,6 +16,7 @@ comparePrice: 37.57 EUR
 prodname: 'Calvin Klein Cotton Stretch-3er Tanga de hilo  Multicolor  I03 White  Red Ginger  Pyro Blue   X-Large  Pack de 3  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0055EGCJE/?tag=tolees-21'
 descuento: '33.48'
 average: '25.582'

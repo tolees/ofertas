@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'JACK & JONES Jfwbyson Mesh Mix STS  Zapatillas para Hombre  Azul  Navy Blazer Navy Blazer   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CTVBD13/?tag=tolees-21'
 descuento: '61.21'
 average: '19.66'

@@ -16,6 +16,7 @@ comparePrice: 17.5 EUR
 prodname: 'Cif - Crema de limpieza - 750 ml - [Pack de 7]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M7SF67S/?tag=tolees-21'
 descuento: '28.80'
 average: '12.926666666666668'

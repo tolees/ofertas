@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'IDEASY Tableta de Escritura LCD de 8.5 Pulgadas  Tableta de Dibujo de un Solo Color  Tablero de Escritura LCD Electrónico para Niños  Escuela  el Hogar y la Oficina  Rosado '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088TNS7G5/?tag=tolees-21'
 descuento: '42.13'
 average: '10.99'

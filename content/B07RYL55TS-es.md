@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'New Balance 574v2  Zapatillas para Mujer  Negro  Black/Grey Ez   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RYL55TS/?tag=tolees-21'
 descuento: '56.68'
 average: '38.99'

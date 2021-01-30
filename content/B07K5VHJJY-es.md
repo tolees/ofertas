@@ -16,6 +16,7 @@ comparePrice: 2.31 EUR
 prodname: 'Monrodbitt Black Durable Lightweight Plug & Play USB 2.0 a 3D para Mic Speaker Audio Headset Adaptador de Tarjeta de Sonido 5.1 Canales para PC Portátil'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K5VHJJY/?tag=tolees-21'
 descuento: '43.29'
 average: '1.31'

@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Ritiriko Zapatillas de Deporte para Mujer - Zapatillas de Running Zapatillas de Tenis Zapatillas de Deporte para Caminar Transpirable Athletic Sport Blanco 36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z9SB36F/?tag=tolees-21'
 descuento: '45.01'
 average: '32.99'

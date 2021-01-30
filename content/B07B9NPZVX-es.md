@@ -16,6 +16,7 @@ comparePrice: 94.89 EUR
 prodname: 'JBL Tuner Radio Portátil DAB/DAB+ – Altavoz portátil Bluetooth con radio FM y MP3  hasta 8 h de radio digital  inalámbrica  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B9NPZVX/?tag=tolees-21'
 descuento: '25.61'
 average: '74.34555555555555'

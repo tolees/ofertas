@@ -16,6 +16,7 @@ comparePrice: 28.06 EUR
 prodname: 'Escurridor para secado de biberones Lawn Tendedero para con diseño de césped tamaño grande  Verde '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DBXGMSQ/?tag=tolees-21'
 descuento: '48.00'
 average: '14.59'

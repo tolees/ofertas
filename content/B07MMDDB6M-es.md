@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'upHere Alto Rendemento LED Blanco Ventilador de PC 120mm - Ventilador para Ordenador  Paquete de 3/T3WT3-3'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MMDDB6M/?tag=tolees-21'
 descuento: '29.48'
 average: '9.16'

@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Scratch Art LANMOK 48 hojas Conejo Papel de Rascar Niños Manualidades para Rascar Dibujo Scratch Láminas Regalo para Pascua Cumpleaños Infantiles Premios Especiales 12 palitos de Madera y 48 Cintas '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0823W3CJW/?tag=tolees-21'
 descuento: '54.36'
 average: '10.95'

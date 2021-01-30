@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'adidas Superstar El I  Zapatillas de Deporte Unisex niño  Multicolor  Ftwbla/Ftwbla/Marley 000   26 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K15CW8W/?tag=tolees-21'
 descuento: '49.99'
 average: '27.48'

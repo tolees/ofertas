@@ -16,6 +16,7 @@ comparePrice: 9.25 EUR
 prodname: 'Vagisil Gel lubricante vaginal. Alivia la sequedad vaginal  molestias e irritiaciones y facilita las relaciones sexuales. 30gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00GY2KN0A/?tag=tolees-21'
 descuento: '36.22'
 average: '5.9'

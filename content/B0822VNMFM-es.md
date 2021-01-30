@@ -16,6 +16,7 @@ comparePrice: 9.69 EUR
 prodname: 'MRSTER Funda Compatible con Xiaomi Redmi Note 8  3D Brillos Carcasa Libro Flip Case Antigolpes Cartera PU Cuero Funda con Soporte para Xiaomi Redmi Note 8. LL 3D Flower Campanula'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0822VNMFM/?tag=tolees-21'
 descuento: '39.22'
 average: '5.89'

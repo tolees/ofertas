@@ -16,6 +16,7 @@ comparePrice: 62.46 EUR
 prodname: 'Vermouth La Copa Blanco - D.O. Jerez - 6 x 750 ml - Total: 4500ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NJMR48D/?tag=tolees-21'
 descuento: '40.20'
 average: '41.175'

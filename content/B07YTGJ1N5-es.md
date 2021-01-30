@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Organizador de fregadero  Anglink Organizador de fregadero Cesta de Ducha para Colgar soporte para jabón Acero Inoxidable Sin Taladro lavavajillas  Cepillo para Lavar Platos y Esponja - 23 x 13 x 8 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YTGJ1N5/?tag=tolees-21'
 descuento: '26.68'
 average: '11.49'

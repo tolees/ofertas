@@ -16,6 +16,7 @@ comparePrice: 150.0 EUR
 prodname: 'Kenwood KAH647PL Accesorio procesador de alimentos compatible con robot de cocina Chef y Major  color gris transparente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NW1RYHG/?tag=tolees-21'
 descuento: '28.63'
 average: '108.78083333333333'

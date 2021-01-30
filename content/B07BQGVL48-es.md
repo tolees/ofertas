@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'ORNARTO Funda Huawei P20 Lite  HW P20 Lite Carcasa [Ultra-Delgado] [Ligera] Mate Anti-arañazos y Antideslizante Protectora Sedoso Caso para Huawei P20 Lite 2018  5.84  Oro Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BQGVL48/?tag=tolees-21'
 descuento: '66.69'
 average: '9.99'

@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Thrustmaster - USB Joystick  PC  MAC '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00A8XGF3U/?tag=tolees-21'
 descuento: '50.23'
 average: '9.95'

@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'iHealth Wave AM4 AM4-Monitor de Actividad  natación y sueño  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CX8PTOS/?tag=tolees-21'
 descuento: '27.67'
 average: '60.0825'

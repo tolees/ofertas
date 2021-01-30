@@ -16,6 +16,7 @@ comparePrice: 67.28 EUR
 prodname: 'Kemier Anillo de Luz  Luz para Selfie LED con Trípode de 160 cm  Soportes para Teléfono y Selfie Ring Light Mando Bluetooth para Smartphone 3200 K-6500 K  para TIK Tok Youtube Foto Vídeo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CB6MG2H/?tag=tolees-21'
 descuento: '36.10'
 average: '42.99'

@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Funko Pop Mortal Engines Figura de Vinilo Anna Fang  Multicolor  34678 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DFBSH68/?tag=tolees-21'
 descuento: '50.97'
 average: '8.385'

@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'LUDILO- Grabolo Educativo  Mesa para niños  Agilidad Mental  Cartas  Juegos de Viaje  Resistente al Agua  Jugar en Familia.  80458 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X3LYC5H/?tag=tolees-21'
 descuento: '38.88'
 average: '9.038'

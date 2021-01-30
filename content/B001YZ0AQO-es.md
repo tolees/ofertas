@@ -16,6 +16,7 @@ comparePrice: 9.18 EUR
 prodname: 'Adaptare 20109 - Adaptador de Señal Analógico  DVI-D/VGA  24+1 pines a 15 pines '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001YZ0AQO/?tag=tolees-21'
 descuento: '56.54'
 average: '3.99'

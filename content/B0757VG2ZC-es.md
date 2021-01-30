@@ -16,6 +16,7 @@ comparePrice: 66.52 EUR
 prodname: 'Licwshi 450lm La luz solar 24 LED de una aleación de aluminio  impermeable al aire libre  radar de sensores de movimiento  aplicable en el porche  el jardín  el patio  el garaje  1 Pack '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0757VG2ZC/?tag=tolees-21'
 descuento: '57.92'
 average: '27.99'

@@ -16,6 +16,7 @@ comparePrice: 14.75 EUR
 prodname: 'ThunderX3 TK25- Teclado gaming de membrana-  Personalización total Retroiluminación LED  perfiles múltiples  teclas macro  respuesta ultra rápida  capacidad anti-ghosting   Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GEOLY2S/?tag=tolees-21'
 descuento: '32.88'
 average: '12.713333333333335'

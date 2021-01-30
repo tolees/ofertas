@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'PUMA RS 9.8 Fresh  Zapatillas para Hombre  Blanco White High Rise Black 07  42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S7QC1Y6/?tag=tolees-21'
 descuento: '51.20'
 average: '43.9'

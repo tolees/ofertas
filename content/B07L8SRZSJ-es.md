@@ -16,6 +16,7 @@ comparePrice: 54.99 EUR
 prodname: 'Rubie s- Avengers Disfraz  Multicolor  small  700672 S '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L8SRZSJ/?tag=tolees-21'
 descuento: '42.01'
 average: '31.896666666666665'

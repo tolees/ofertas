@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Garfield Kart Furious Racing'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WDVZZ3M/?tag=tolees-21'
 descuento: '38.61'
 average: '25.735'

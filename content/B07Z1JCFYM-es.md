@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'cradle HR Funda Protectora para Huawei MediaPad T3 8 de 8 Pulgadas y Huawei Honor Play Pad 2 de 8 Pulgadas  Funda Protectora Ligera de EVA a Prueba de Golpes con Soporte  Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z1JCFYM/?tag=tolees-21'
 descuento: '42.44'
 average: '18.99'

@@ -16,6 +16,7 @@ comparePrice: 3.45 EUR
 prodname: 'Televes - Conector"f rapido" acodado blindado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00B7ZHYLK/?tag=tolees-21'
 descuento: '47.83'
 average: '2.565'

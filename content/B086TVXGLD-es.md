@@ -16,6 +16,7 @@ comparePrice: 7.95 EUR
 prodname: 'AIORNIY - 1/5/10 mascarillas para polvo  resistentes al viento  niebla de contaminación Blanco 5-teilig'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086TVXGLD/?tag=tolees-21'
 descuento: '42.64'
 average: '4.56'

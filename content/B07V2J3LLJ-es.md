@@ -16,6 +16,7 @@ comparePrice: 94.9 EUR
 prodname: 'Tommy Hilfiger Technical Flexi Runner  Zapatillas para Mujer  Negro  Black Bds   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V2J3LLJ/?tag=tolees-21'
 descuento: '51.22'
 average: '46.29'

@@ -16,6 +16,7 @@ comparePrice: 12.1 EUR
 prodname: 'Skip Liquido Ultimate Triple Poder Fragancia Mimosin 50 2750 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0843ZYHWQ/?tag=tolees-21'
 descuento: '50.00'
 average: '6.05'

@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'My Lovely Bed - Almohada Cervical Viscoelástica | Memory Foam 60x40 cm - Ergonómica : Mantiene la posición de la Nuca y Las cervicales - Ortopédica y terapéutica - Ultra Confort'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q5WBFNB/?tag=tolees-21'
 descuento: '40.01'
 average: '35.99'

@@ -16,6 +16,7 @@ comparePrice: 35.83 EUR
 prodname: 'G-STAR RAW Tach Trunk 3-Pack Bañador  Multicolor  Hudson Blue/gurin Green/Deep Flame A394   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PK1S4YN/?tag=tolees-21'
 descuento: '32.88'
 average: '20.405'

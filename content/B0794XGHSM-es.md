@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'PUMA Liga Sideline Polo T-Shirt  Hombre  Pepper Green White  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0794XGHSM/?tag=tolees-21'
 descuento: '40.77'
 average: '17.74'

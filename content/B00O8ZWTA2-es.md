@@ -16,6 +16,7 @@ comparePrice: 119.0 EUR
 prodname: 'H.Koenig TRT180 Tart Express  1800 W  Acero Inoxidable  Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00O8ZWTA2/?tag=tolees-21'
 descuento: '49.59'
 average: '59.485'

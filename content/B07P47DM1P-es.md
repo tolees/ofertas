@@ -16,6 +16,7 @@ comparePrice: 399.0 EUR
 prodname: 'Samsung Space Monitor de 27   WQHD con Marcos Estrechos  2560 x 1440  144 Hz  4 ms  HDMI '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P47DM1P/?tag=tolees-21'
 descuento: '25.06'
 average: '295.2'

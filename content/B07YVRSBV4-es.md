@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Nike JR Vapor 13 Club MDS TF PS  V   Botas de fútbol Unisex niño  Multicolor  Blue Void/Barely Volt/White/Black 401   31.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YVRSBV4/?tag=tolees-21'
 descuento: '34.47'
 average: '29.49'

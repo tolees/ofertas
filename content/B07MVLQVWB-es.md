@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Napapijri Eils SS Polo  Azul  Clematis Blue VB1   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MVLQVWB/?tag=tolees-21'
 descuento: '50.00'
 average: '29.5'

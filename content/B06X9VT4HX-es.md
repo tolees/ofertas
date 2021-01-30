@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'E-Deals - Balón de fútbol de Espuma Suave  20 cm   Color Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06X9VT4HX/?tag=tolees-21'
 descuento: '38.69'
 average: '12.54'

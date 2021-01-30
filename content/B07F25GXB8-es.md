@@ -16,6 +16,7 @@ comparePrice: 57.0 EUR
 prodname: 'Element Cornell Classic Ho-Sudadera para Hombre Capucha  Negro  Flint Black   XS'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Element'
 buyurl: 'https://www.amazon.es/dp/B07F25GXB8/?tag=tolees-21'
 descuento: '50.77'
 average: '28.06'
@@ -27,12 +28,12 @@ En este momento está [Element Cornell Classic Ho-Sudadera para Hombre Capucha  
 
 🔎:
 
-- Regular Fit
 - Corte: corte normal
 - Logo del árbol en contraste en el pecho
-- Tipo de deporte: fitness y ejercicio
 - Tela: tejido de mezcla de poliéster y algodón [260 g/m2]
-- Cepillado para mayor suavidad
+- Tipo de deporte: fitness y ejercicio
+- Regular Fit
 - Material: 60% poliéster, 40% algodón
+- Cepillado para mayor suavidad
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07F25GXB8/?tag=tolees-21)

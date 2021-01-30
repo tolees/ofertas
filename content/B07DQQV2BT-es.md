@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'adidas Runr Splt Short Sport Shorts  Hombre  Black  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DQQV2BT/?tag=tolees-21'
 descuento: '33.69'
 average: '26.893333333333334'

@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Flybiz Prensa 3-en-1 para Hacer Hamburguesas Rellenas con 60 Papeles Encerados  Molde para Hamburguesas Press Prensador Slider y Herramienta de Barbacoa Parrilla y Cocina Gourmet'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KP6XFQB/?tag=tolees-21'
 descuento: '37.52'
 average: '12.49'

@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Cepillo de dientes eléctrico Ctbd Cepillo de dientes recargable USB Control de la aplicación de pantalla táctil a color LED 20 esquemas de cepillado tipo Cepillos de dientes impermeables IPX7'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V9RN47W/?tag=tolees-21'
 descuento: '32.24'
 average: '39.98'

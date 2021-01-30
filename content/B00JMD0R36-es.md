@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'Canson 400787 - Papel Vegetal  12 Hojas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00JMD0R36/?tag=tolees-21'
 descuento: '43.68'
 average: '4.5'

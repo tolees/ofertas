@@ -16,6 +16,7 @@ comparePrice: 69.9 EUR
 prodname: 'Ozone Strike X30 - OZSTRIKEX30SPRD - Teclado Gaming Mecánico  LED  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N12DH2Q/?tag=tolees-21'
 descuento: '28.48'
 average: '56.41857142857143'

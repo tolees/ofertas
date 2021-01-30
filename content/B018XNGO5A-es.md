@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Aftershokz Trekz Titanium  Auriculares deportivas con Conducción Osea  Bluetooth 4.1 Inalámbricos  Reducción de Ruido Micrófono para Movil  Azul  Blue '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B018XNGO5A/?tag=tolees-21'
 descuento: '26.97'
 average: '58.39'

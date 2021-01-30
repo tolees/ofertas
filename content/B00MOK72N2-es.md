@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Microplane 48709 Cortador en Espiral  Verde  7.62x5.72x13.34 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00MOK72N2/?tag=tolees-21'
 descuento: '46.39'
 average: '8.55'

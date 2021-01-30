@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'AUKEY Batería Externa de 5000 mAh  Cargadores portátiles compactos con Modo a Corriente Baja  Cargador de batería para Phones  Auriculares Bluetooth  Pulsera de Actividad y más'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RLDZXPG/?tag=tolees-21'
 descuento: '50.53'
 average: '9.89'

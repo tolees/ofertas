@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Liberex Barbero Electrico Hombres - Máquina de Cortar Pelo Funciona con Pilas  Cortapelos Máquina de Afeitar Peine de 9 Posiciones para Cabello Bigote Vellos Facial'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S1WBKYJ/?tag=tolees-21'
 descuento: '55.03'
 average: '13.489999999999998'

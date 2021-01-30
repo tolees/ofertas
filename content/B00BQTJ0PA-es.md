@@ -16,6 +16,7 @@ comparePrice: 257.7 EUR
 prodname: 'HP CF373AM 125A Cartucho de Tóner Original  3 unidades  cian  magenta  amarillo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BQTJ0PA/?tag=tolees-21'
 descuento: '30.54'
 average: '179'

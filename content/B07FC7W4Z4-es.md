@@ -16,6 +16,7 @@ comparePrice: 369 EUR
 prodname: 'HUION Kamvas Pro 13 HD 13.3 in Tableta Monitor con función de inclinación Pluma sin batería con 8192 sensibilidad a la presión y 4 Express Keys 1 Touch Bars Tableta gráfica con Pantalla'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FC7W4Z4/?tag=tolees-21'
 descuento: '26.83'
 average: '247.49'

@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Resident Evil 7: Biohazard'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01H22DVQS/?tag=tolees-21'
 descuento: '66.68'
 average: '19.99'

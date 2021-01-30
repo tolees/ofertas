@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Bird - Anclaje de pared  suelo  punto de seguridad para cadena de alta seguridad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C1QKRNX/?tag=tolees-21'
 descuento: '27.68'
 average: '13.01'

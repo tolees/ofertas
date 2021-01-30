@@ -16,6 +16,7 @@ comparePrice: 329.95 EUR
 prodname: 'Oral-B Genius X 20000N - Cepillo de Dientes Eléctrico con Tecnología de Braun   Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S7DGGKM/?tag=tolees-21'
 descuento: '48.78'
 average: '149.594'

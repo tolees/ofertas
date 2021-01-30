@@ -16,6 +16,7 @@ comparePrice: 6.38 EUR
 prodname: 'Jump Suede & Nubuck Brush  338734 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00R0AEWRU/?tag=tolees-21'
 descuento: '48.12'
 average: '3.31'

@@ -16,6 +16,7 @@ comparePrice: 92.19 EUR
 prodname: 'Eye Candy ECJ-ER0016 - Pendientes de mujer  plata de ley rodiada 925  con 24 circonitas blancas  12 mm   diseño de la mano de Fátima'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B018XYGVCK/?tag=tolees-21'
 descuento: '66.18'
 average: '31.18'

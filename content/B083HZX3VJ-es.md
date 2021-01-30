@@ -16,6 +16,7 @@ comparePrice: 4.01 EUR
 prodname: 'Caja del teléfono Triángulo Cubierta Resistente a roturas Carcasa Piezas de protección del teléfono móvil Accesorios para el automóvil del vehículo móvil'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083HZX3VJ/?tag=tolees-21'
 descuento: '74.56'
 average: '1.02'

@@ -16,6 +16,7 @@ comparePrice: 58.99 EUR
 prodname: 'Estación meteorológica inalámbrica Reloj digital colorido del pronóstico del tiempo con sensor exterior Termómetro exterior Temperatura Humedad Barómetro Alarma Fase lunar Pantalla Reloj meteorológico'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V9N4YJS/?tag=tolees-21'
 descuento: '45.77'
 average: '31.99'

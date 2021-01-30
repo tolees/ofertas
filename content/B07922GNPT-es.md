@@ -16,6 +16,7 @@ comparePrice: 50.48 EUR
 prodname: 'Mini Surveillance Cámara Portable HD CAM Espía HD 1080P Espía Cámara Oculta Portátil Interior Cámara Espía con Detectores de Movimiento  Visión Nocturna por Infrar Rojos Vigilancia'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07922GNPT/?tag=tolees-21'
 descuento: '47.52'
 average: '26.24'

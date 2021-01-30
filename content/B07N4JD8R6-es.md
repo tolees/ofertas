@@ -16,6 +16,7 @@ comparePrice: 59 EUR
 prodname: 'Superga 2750 COTU Classic  Zapatillas Unisex  Beige  Beige Taffy WBL   44.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N4JD8R6/?tag=tolees-21'
 descuento: '78.61'
 average: '12.62'

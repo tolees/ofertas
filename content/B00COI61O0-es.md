@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'versando VLR5X175 - Estantería galvanizada  178 x 90 x 40 cm  5 estantes  máx. Capacidad de Carga de 875 kg  Ideal para sótano/Garaje  para Montaje más rápido.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00COI61O0/?tag=tolees-21'
 descuento: '42.23'
 average: '25.99'

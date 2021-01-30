@@ -16,6 +16,7 @@ comparePrice: 81.99 EUR
 prodname: 'ART VVIES mit Haken für hauptdekorationen Vintage kätzchen schule kätzchen Katze Charmant lernen vorstellen wandbild 24x24 zoll leinwand Holz gerahmt'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082HBDRF2/?tag=tolees-21'
 descuento: '56.10'
 average: '35.99'

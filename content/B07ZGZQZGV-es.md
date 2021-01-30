@@ -16,6 +16,7 @@ comparePrice: 8.83 EUR
 prodname: 'ZOZOSEP Azucarero para medir el azúcar Azucarero de Acero Inoxidable Plateado con Cuchara Taza dispensadora de azúcar casera'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZGZQZGV/?tag=tolees-21'
 descuento: '67.95'
 average: '2.83'

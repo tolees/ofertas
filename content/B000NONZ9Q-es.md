@@ -16,6 +16,7 @@ comparePrice: 16.3 EUR
 prodname: 'Shimano SMMAF203PPA - Adaptador Pinza Delant. Post 966/800/765 203 Mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000NONZ9Q/?tag=tolees-21'
 descuento: '69.39'
 average: '4.99'

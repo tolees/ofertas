@@ -16,6 +16,7 @@ comparePrice: 85.0 EUR
 prodname: 'New Balance 373 Zapatillas Hombre  Gris  Grey Grey   39.5 EU  6 UK '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HFZV728/?tag=tolees-21'
 descuento: '40.01'
 average: '50.99'

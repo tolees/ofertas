@@ -16,6 +16,7 @@ comparePrice: 15.09 EUR
 prodname: 'KONVINIT Gorro Navideño para Niño Gorro Santa Claus Gorro de Papá Noel Bambino Roja para niños Chica Sombrero Gorras Padre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W5SX7BL/?tag=tolees-21'
 descuento: '33.80'
 average: '9.99'

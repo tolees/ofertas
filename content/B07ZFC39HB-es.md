@@ -16,6 +16,7 @@ comparePrice: 18.49 EUR
 prodname: 'Keenso Bolsa para Almacenar Herramientas  Bolsa de Herramientas de Reparación de MTB'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZFC39HB/?tag=tolees-21'
 descuento: '38.40'
 average: '11.39'

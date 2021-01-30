@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: '2 piezas Protecciones para bordes y esquinas Protecciones de esquina de seguridad de 4 metros  15 mm de grosor ensanchado Protección transparente de bordes para niños  bebés  niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082X5P9SJ/?tag=tolees-21'
 descuento: '42.88'
 average: '11.99'

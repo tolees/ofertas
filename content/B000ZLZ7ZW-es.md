@@ -16,6 +16,7 @@ comparePrice: 4.95 EUR
 prodname: 'Nesti Dante Dei Colli Fiorentini Lavanda Soap Mydlo toaletowe Lawenda 250g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000ZLZ7ZW/?tag=tolees-21'
 descuento: '59.60'
 average: '2.0'

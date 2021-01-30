@@ -16,6 +16,7 @@ comparePrice: 7.9 EUR
 prodname: 'NYX Professional Makeup Pintalabios Lip Lingerie Liquid Lipstick  Acabado cremoso y mate  Larga duración  Fórmula vegana  Tono: Satin Ribbon'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01APX1TKQ/?tag=tolees-21'
 descuento: '30.00'
 average: '5.53'

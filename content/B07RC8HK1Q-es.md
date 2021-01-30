@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Columbia Altitude Aspect Forro Polar  Hombre  Azul  Dark Mountain   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RC8HK1Q/?tag=tolees-21'
 descuento: '60.41'
 average: '39.59'

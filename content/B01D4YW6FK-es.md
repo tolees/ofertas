@@ -16,6 +16,7 @@ comparePrice: 31.9 EUR
 prodname: 'Orbegozo TF 0144 Ventilador de sobremesa  50 W  Color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01D4YW6FK/?tag=tolees-21'
 descuento: '53.01'
 average: '14.99'

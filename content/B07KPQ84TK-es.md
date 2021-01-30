@@ -16,6 +16,7 @@ comparePrice: 48.95 EUR
 prodname: 'GANT The Original Pique SS Rugger Polo  Rojo  Purpur 542   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KPQ84TK/?tag=tolees-21'
 descuento: '28.60'
 average: '36.7'

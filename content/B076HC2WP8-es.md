@@ -16,6 +16,7 @@ comparePrice: 44.95 EUR
 prodname: 'ADIDAS Duramo Lite 2.0  Zapatillas de Entrenamiento para Hombre  Gris  Carbon/Core Black/Core Black 0   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076HC2WP8/?tag=tolees-21'
 descuento: '37.73'
 average: '32.864000000000004'

@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'Columbia Meadows Slip-on Omni-Heat 3D  Botas de Nieve para Mujer  Beige  Ancient Fossil  Bright Copper 271   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0787LNR7R/?tag=tolees-21'
 descuento: '35.09'
 average: '77.89'

@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Game of Thrones-Funko Pop Figura S7 Tyrion Lannister  Multicolor 12216'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071RNKJPS/?tag=tolees-21'
 descuento: '27.02'
 average: '9.814000000000002'

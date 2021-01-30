@@ -16,6 +16,7 @@ comparePrice: 71.5 EUR
 prodname: 'Skechers On The Go 600-Brilliancy  Sandalia con Pulsera para Mujer  Azul  Navy   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072T2TQ7Y/?tag=tolees-21'
 descuento: '37.64'
 average: '44.03'

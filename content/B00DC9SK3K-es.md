@@ -16,6 +16,7 @@ comparePrice: 24.89 EUR
 prodname: 'Metal Gear Solid V : The Phantom Pain'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00DC9SK3K/?tag=tolees-21'
 descuento: '47.81'
 average: '12.99'

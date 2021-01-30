@@ -16,6 +16,7 @@ comparePrice: 34.9 EUR
 prodname: 'Juego de 3 pizarras magnéticas Adhesivas  40 x 5 5 cm  con 9 imanes incluidos para Oficina y hogar.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084ZWR4HC/?tag=tolees-21'
 descuento: '42.98'
 average: '19.9'

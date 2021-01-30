@@ -16,6 +16,7 @@ comparePrice: 28.76 EUR
 prodname: 'Happy People Baby planschbecken Wehncke Watch Piscinas  Color Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01AXL18NS/?tag=tolees-21'
 descuento: '37.76'
 average: '19.499999999999996'

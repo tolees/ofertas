@@ -16,6 +16,7 @@ comparePrice: 33.33 EUR
 prodname: 'Westmark Cortador de Verduras  Acero Inoxidable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003YKXJPQ/?tag=tolees-21'
 descuento: '33.99'
 average: '22.0'

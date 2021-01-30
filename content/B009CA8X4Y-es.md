@@ -16,6 +16,7 @@ comparePrice: 85.34 EUR
 prodname: 'Hydor 104I-HY/C01103 Filtro Exterior Prime 10 con Carga Filtrante para Acuario'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B009CA8X4Y/?tag=tolees-21'
 descuento: '47.86'
 average: '44.5'

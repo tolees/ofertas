@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Superga 2750 Cotu Classic  Zapatillas Unisex  Multicolor  Rojo/Blanco   36 EU  3.5 UK '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00E40BQ3M/?tag=tolees-21'
 descuento: '46.95'
 average: '31.3'

@@ -16,6 +16,7 @@ comparePrice: 66.0 EUR
 prodname: 'Nike Cortez Basic SL  GS   Zapatillas de Deporte Unisex Adulto  Rojo  Rojo 904764 103   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004IJ89WK/?tag=tolees-21'
 descuento: '39.85'
 average: '39.7'

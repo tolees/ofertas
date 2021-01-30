@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'GoSparking Rose plateó los pendientes Elementos cristalino 18K de la aleación de aro perforado con el cristal austríaco para las mujeres  Peridot '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00I6I5U6C/?tag=tolees-21'
 descuento: '52.97'
 average: '7.99'

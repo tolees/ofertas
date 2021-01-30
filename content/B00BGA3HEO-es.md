@@ -16,6 +16,7 @@ comparePrice: 74.95 EUR
 prodname: 'Coleman 48 Qt Nevera Rígida  Unisex  Azul  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BGA3HEO/?tag=tolees-21'
 descuento: '30.02'
 average: '52.45'

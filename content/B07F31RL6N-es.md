@@ -16,6 +16,7 @@ comparePrice: 140.0 EUR
 prodname: 'Helly Hansen W Kirkwall II Raincoat Jacket  Mujer  Essential Yellow  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F31RL6N/?tag=tolees-21'
 descuento: '63.51'
 average: '59.276666666666664'

@@ -16,6 +16,7 @@ comparePrice: 13.31 EUR
 prodname: 'AVÉNE Cicalfate Crema Reparadora de Manos 100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00EUE8MK2/?tag=tolees-21'
 descuento: '26.15'
 average: '9.73'

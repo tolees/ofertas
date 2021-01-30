@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Art 1351 Memphis Pedrera  Zapatillas para Mujer  Naranja  Mandarin   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0771WMQ2M/?tag=tolees-21'
 descuento: '60.65'
 average: '39.33'

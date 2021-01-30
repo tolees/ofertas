@@ -16,6 +16,7 @@ comparePrice: 130.11 EUR
 prodname: 'PrimeMatik - Poste Separador 2 uds Negro con Cinta Extensible de 3 Metros 320 x 63 x 910 mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00PHRFHFY/?tag=tolees-21'
 descuento: '30.74'
 average: '90.12'

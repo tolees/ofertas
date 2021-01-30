@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Pioneer TS-WX300A Subwoofer  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077ZC9TDB/?tag=tolees-21'
 descuento: '27.66'
 average: '143.95'

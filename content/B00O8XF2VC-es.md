@@ -16,6 +16,7 @@ comparePrice: 10.5 EUR
 prodname: 'Philips Avent SCF751/05 - Vaso con boquilla blanda  diseño pingüino  para 6 meses  200 ml  color azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00O8XF2VC/?tag=tolees-21'
 descuento: '45.43'
 average: '7.25'

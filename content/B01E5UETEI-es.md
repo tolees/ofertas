@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Lacoste Sport Carnaby EVO BL 1 SPW  Zapatillas para Mujer  Azul  Nvy   35.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01E5UETEI/?tag=tolees-21'
 descuento: '40.09'
 average: '63.175'

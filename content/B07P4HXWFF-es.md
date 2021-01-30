@@ -16,6 +16,7 @@ comparePrice: 54.99 EUR
 prodname: 'Superdry Superstate Classic Polo  Azul  Techno Navy Marl Ss7   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P4HXWFF/?tag=tolees-21'
 descuento: '58.79'
 average: '22.126666666666665'

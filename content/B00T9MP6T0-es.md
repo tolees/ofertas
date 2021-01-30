@@ -16,6 +16,7 @@ comparePrice: 239.0 EUR
 prodname: 'Guess W0366G4 - Reloj de pulsera para hombre  color azul / rosa oro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00T9MP6T0/?tag=tolees-21'
 descuento: '29.49'
 average: '168.52'

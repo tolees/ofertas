@@ -16,6 +16,7 @@ comparePrice: 75.9 EUR
 prodname: 'adidas Gazelle  Zapatillas de deporte Unisex Adulto  Gris  Dgh Solid Grey/White/Gold Metallic   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IP4E1JI/?tag=tolees-21'
 descuento: '37.44'
 average: '47.48'

@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Amzdeal Grifo de Cocina Grifo de Fregadero con agua caliente y fría ajustable Grifo Cocina giratorio de 360 °  Latón cromado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZFKCDM7/?tag=tolees-21'
 descuento: '60.01'
 average: '42.49'

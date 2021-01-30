@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Cable USB-A 2.0 a USB Tipo C Certificado USB-IF con Forro de Nylon Trenzado de 4.3 MML - 1 Metro de Longitud - Color Rose Gold'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06WPBMLWK/?tag=tolees-21'
 descuento: '40.64'
 average: '5.93'

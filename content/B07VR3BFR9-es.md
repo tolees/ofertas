@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'SDBAUX Multi 4 en 1 Cable de carga 1.2m cable de cargador USB Rápido con 2 8-Pin/Tipo C/Micro USB Compatible para Phone Xs Max XR X 8 7 6 Plus iPad iPod Samsung Galaxy Google Pixel LG HTC  Solo Carga '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VR3BFR9/?tag=tolees-21'
 descuento: '50.53'
 average: '9.89'

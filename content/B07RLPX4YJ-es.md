@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'J.Rosée Pendientes Mujer Plata de Ley 925  Regalo de San Valentín Originales'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RLPX4YJ/?tag=tolees-21'
 descuento: '80.05'
 average: '22.90666666666667'

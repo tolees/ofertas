@@ -16,6 +16,7 @@ comparePrice: 8.1 EUR
 prodname: 'Knorr - Sopa Desh Rabo Buey 71 gr - [Pack de 10]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MDP38S1/?tag=tolees-21'
 descuento: '30.86'
 average: '5.6'

@@ -16,6 +16,7 @@ comparePrice: 42.9 EUR
 prodname: 'ID Italian Design | Cepillo Eléctrico Alisador para el Pelo de Color Rosa  29W'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B017T1JUN0/?tag=tolees-21'
 descuento: '44.34'
 average: '23.384999999999998'

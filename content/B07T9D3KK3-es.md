@@ -16,6 +16,7 @@ comparePrice: 53.99 EUR
 prodname: 'Aspiradora de Coche  VOONEEN 7KPa Aspiradora para Automóvil Portátil de Gran Alcance  Aspiradora Inalámbrica Seca y Húmeda Recargable Succión Fuerte para el Hogar / Automóvil'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T9D3KK3/?tag=tolees-21'
 descuento: '40.75'
 average: '32.29333333333334'

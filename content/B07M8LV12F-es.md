@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Wrangler Arizona Pantalones  BLU  Navy 11   40W / 30L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M8LV12F/?tag=tolees-21'
 descuento: '29.99'
 average: '55.97'

@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Decdeal USB fotocatalítico eléctrico Anti Mosquito Asesino Alimentado por luz  Fly Bug Zapper Apto para Uso en Interiores y Exteriores de la Oficina en el hogar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088M4D1LG/?tag=tolees-21'
 descuento: '53.35'
 average: '21.14'

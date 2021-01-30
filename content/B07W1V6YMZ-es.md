@@ -16,6 +16,7 @@ comparePrice: 84.95 EUR
 prodname: 'Skechers Skech-Air Stratus Super Galaxy  Zapatillas para Mujer  Beige Natural Mesh Negro Hot Melt Rojo Leopard Ntbk  38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W1V6YMZ/?tag=tolees-21'
 descuento: '55.96'
 average: '37.41'

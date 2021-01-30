@@ -16,6 +16,7 @@ comparePrice: 29.38 EUR
 prodname: 'PALMERA IR0897334W'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ITVTUU8/?tag=tolees-21'
 descuento: '35.09'
 average: '19.07'

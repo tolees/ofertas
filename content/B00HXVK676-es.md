@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Wilson Pro Overgrip Empuñadura  30 unidades  unisex  blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00HXVK676/?tag=tolees-21'
 descuento: '26.59'
 average: '38.550000000000004'

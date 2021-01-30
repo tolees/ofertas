@@ -16,6 +16,7 @@ comparePrice: 90 EUR
 prodname: 'New Balance 574v2  Zapatillas para Mujer  Rojo  Red/Black Red/Black   35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KRL741Y/?tag=tolees-21'
 descuento: '71.03'
 average: '26.07'

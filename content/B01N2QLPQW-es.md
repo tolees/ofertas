@@ -16,6 +16,7 @@ comparePrice: 119.06 EUR
 prodname: 'B+W XS-Pro - Filtro  densidad neutra ND 3.0 810  NANO  62 mm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N2QLPQW/?tag=tolees-21'
 descuento: '42.44'
 average: '68.53'

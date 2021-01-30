@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Vizaro - Saco de Dormir Evolutivo  4-36 meses  100g - 4 5Tog - INVIERNO  ENTRETIEMPO - Algodón Puro - Hecho UE  OekoTex - Estrellitas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01AC1D9XG/?tag=tolees-21'
 descuento: '35.72'
 average: '44.99'

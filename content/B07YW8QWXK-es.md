@@ -16,6 +16,7 @@ comparePrice: 224.83 EUR
 prodname: 'SUNLU 3D Printer Power Supply'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YW8QWXK/?tag=tolees-21'
 descuento: '95.56'
 average: '9.99'

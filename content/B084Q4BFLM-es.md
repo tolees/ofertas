@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'Maksexy Masajeador Portátil  12 Modos de Frecuencia Inalámbrico Control Remoto Relajar el Cuerpo  Material de Silicona Medicalizado  Impermeable  Recargable USB  Rojo Vino '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084Q4BFLM/?tag=tolees-21'
 descuento: '47.64'
 average: '10.99'

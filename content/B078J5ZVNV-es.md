@@ -16,6 +16,7 @@ comparePrice: 179.0 EUR
 prodname: 'Fossil Reloj Híbrido para Mujer de Connected con Correa en Cuero FTW5023'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078J5ZVNV/?tag=tolees-21'
 descuento: '45.35'
 average: '100.4275'

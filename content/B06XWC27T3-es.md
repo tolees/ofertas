@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'eXtremeRate Conjunto Completo de Pegatinas Cubierta Adhesiva Protectora de Piel Kit de protección para Consola Joy-con Radiador de Nitendo Switch con 2 Protectores de Pantalla Universo Naranja'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XWC27T3/?tag=tolees-21'
 descuento: '48.02'
 average: '12.99'

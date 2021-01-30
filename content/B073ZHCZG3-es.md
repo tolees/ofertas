@@ -16,6 +16,7 @@ comparePrice: 159.0 EUR
 prodname: 'Brabantia Bo Touch Bin Cubo de Basura  11 + 23 litros  Rojo  Passion Red '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073ZHCZG3/?tag=tolees-21'
 descuento: '41.48'
 average: '105.73'

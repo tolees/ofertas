@@ -16,6 +16,7 @@ comparePrice: 12.95 EUR
 prodname: 'Cabin Max Rio Stowaway – Bolsa de Hombro de 40x25x20cm - Maleta de Cabina Segundo Equipaje para Vuelos en Ryanair  Marino '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K2ZZZ6R/?tag=tolees-21'
 descuento: '44.63'
 average: '7.17'

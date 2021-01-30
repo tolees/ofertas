@@ -16,6 +16,7 @@ comparePrice: 103.04 EUR
 prodname: 'Juego de 5 pulseras de plata para mujer  con símbolo de infinito  pulsera de bola  pulsera ajustable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V5TFPVS/?tag=tolees-21'
 descuento: '84.66'
 average: '15.81'

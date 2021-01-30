@@ -16,6 +16,7 @@ comparePrice: 67.19 EUR
 prodname: 'Diamante - grande 42cm/16 5 en artesanal clásico ajedrez madera'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N2HR4QN/?tag=tolees-21'
 descuento: '31.97'
 average: '45.71'

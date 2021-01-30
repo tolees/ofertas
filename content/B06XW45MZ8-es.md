@@ -16,6 +16,7 @@ comparePrice: 13.78 EUR
 prodname: 'Amazon Essentials Classic-Fit Cargo Short Pantalones Cortos  Plateado  Silver   33'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XW45MZ8/?tag=tolees-21'
 descuento: '35.78'
 average: '8.85'

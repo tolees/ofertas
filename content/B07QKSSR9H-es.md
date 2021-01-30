@@ -16,6 +16,7 @@ comparePrice: 299 EUR
 prodname: 'Pagani Design automático de buceadores Relojes Reloj analógico de los Hombres con Correa de Acero Inoxidable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QKSSR9H/?tag=tolees-21'
 descuento: '66.56'
 average: '99.99'

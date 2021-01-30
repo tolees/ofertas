@@ -16,6 +16,7 @@ comparePrice: 18.53 EUR
 prodname: 'Blood Rage Bogowie Asgardu'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MCYDDQI/?tag=tolees-21'
 descuento: '27.79'
 average: '13.38'

@@ -16,6 +16,7 @@ comparePrice: 16.95 EUR
 prodname: 'Muévete | Potente antiinflamatorio con acción analgésica | Reduce y elimina eolores | Regenerador articular | Potente cúrcuma + colágeno + magnesio + condroitina + MSM + vitamina C | 50 unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01F5OPRG2/?tag=tolees-21'
 descuento: '25.07'
 average: '12.7'

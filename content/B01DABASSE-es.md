@@ -16,6 +16,7 @@ comparePrice: 21.48 EUR
 prodname: 'Creed. La Leyenda De Rocky Blu-Ray Steelbook [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01DABASSE/?tag=tolees-21'
 descuento: '28.63'
 average: '14.13'

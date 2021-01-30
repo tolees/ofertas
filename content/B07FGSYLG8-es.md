@@ -16,6 +16,7 @@ comparePrice: 45 EUR
 prodname: 'Under Armour Favorite Graphic Legging-WM Pantalones  Mujer  Charcoal Light Heather/Green Typhoon  XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FGSYLG8/?tag=tolees-21'
 descuento: '57.27'
 average: '19.23'

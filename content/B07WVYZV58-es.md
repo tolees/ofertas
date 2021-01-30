@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Mástil de Antena-Antena TV Interior/Exterior de Alta Ganancia de 30 dB para Receptor USB TDT/DTMB  ATSC DVB-T  DMB-T  portátil con Base magnética Estable y Fuerte Capacidad de recepción'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WVYZV58/?tag=tolees-21'
 descuento: '26.68'
 average: '21.856666666666666'

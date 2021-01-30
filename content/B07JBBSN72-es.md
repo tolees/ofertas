@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'E-Reader Funda para Bq Cervantes 4 Funda Soporte Cuero Case Cover HS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JBBSN72/?tag=tolees-21'
 descuento: '53.33'
 average: '14.0'

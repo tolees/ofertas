@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'Salomon XA Visor Visera  Unisex Adulto  Blanco  Talla única Ajustable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H5K7FLC/?tag=tolees-21'
 descuento: '37.50'
 average: '12.503333333333332'

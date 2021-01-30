@@ -16,6 +16,7 @@ comparePrice: 48.0 EUR
 prodname: 'Precision Kids Lace'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YKM381T/?tag=tolees-21'
 descuento: '50.00'
 average: '24.0'

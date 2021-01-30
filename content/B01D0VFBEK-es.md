@@ -16,6 +16,7 @@ comparePrice: 56.99 EUR
 prodname: 'Princess 102210 Mini Table Chef  Plancha Pequeña y Cuadrada  Termostato regulable  Alta potencia  28 x 28 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01D0VFBEK/?tag=tolees-21'
 descuento: '38.76'
 average: '30.03928571428571'

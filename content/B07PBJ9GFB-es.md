@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Munich G-3 Kid Indoor 19  Zapatillas de Deporte para Niños  Multicolor  Multicolor 019   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PBJ9GFB/?tag=tolees-21'
 descuento: '41.94'
 average: '29.0'

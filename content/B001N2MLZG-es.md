@@ -16,6 +16,7 @@ comparePrice: 40 EUR
 prodname: 'Helly Hansen HH LIFA Stripe Crew Ropa Interior  Hombre  Negro  XXL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001N2MLZG/?tag=tolees-21'
 descuento: '55.60'
 average: '17.76'

@@ -16,6 +16,7 @@ comparePrice: 130.0 EUR
 prodname: 'Nike Air Max Command Leather - Zapatillas unisex  color blanco / negro / gris  talla 38'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B015KHW1OA/?tag=tolees-21'
 descuento: '30.27'
 average: '90.65'

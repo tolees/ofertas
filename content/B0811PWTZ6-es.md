@@ -16,6 +16,7 @@ comparePrice: 23.04 EUR
 prodname: 'Tamaño portátil Round Airplay 1080P Wireless WiFi Display TV Dongle Receptor HDMI TV Stick DLNA Miracast para teléfonos Inteligentes PC - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0811PWTZ6/?tag=tolees-21'
 descuento: '33.51'
 average: '15.32'

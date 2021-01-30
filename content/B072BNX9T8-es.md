@@ -16,6 +16,7 @@ comparePrice: 179.0 EUR
 prodname: 'Gigandet Chrono King Reloj Hombres Cronógrafo Analógico Quarzo Plata Negro G28-006'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072BNX9T8/?tag=tolees-21'
 descuento: '27.93'
 average: '129.0'

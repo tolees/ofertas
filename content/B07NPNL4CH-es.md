@@ -16,6 +16,7 @@ comparePrice: 189.99 EUR
 prodname: 'Besrey Mochilas Senderismo  Mochilas Portabebés  Portador de bebé  Marsupios portabebé para Viaje Acampadacon Asiento'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NPNL4CH/?tag=tolees-21'
 descuento: '57.37'
 average: '80.99'

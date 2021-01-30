@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'EYEPOWER Suelo de Gimnasio de Goma EVA 10mm de Grosor Esterilla Puzle 9 Piezas Cada una 30x30cm para Deporte Fitness Ejercicio 0 81qm Extensible Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073XL4H7Y/?tag=tolees-21'
 descuento: '30.02'
 average: '13.99'

@@ -16,6 +16,7 @@ comparePrice: 16.95 EUR
 prodname: 'OXO Good Grips Mandolina rodajas c/mango'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000YDO2LG/?tag=tolees-21'
 descuento: '30.09'
 average: '12.42'

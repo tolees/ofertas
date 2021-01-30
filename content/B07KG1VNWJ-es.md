@@ -16,6 +16,7 @@ comparePrice: 4.84 EUR
 prodname: '1 Par Súper Suave de Silicona Punta del Pie Ballet Zapato Tacones Altos Toe Gel Herramienta Cuidado del Pie para Pie Protección Masaje'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KG1VNWJ/?tag=tolees-21'
 descuento: '33.06'
 average: '3.24'

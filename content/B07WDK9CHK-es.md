@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'Fast & Furious: Hobbs & Shaw [DVD]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WDK9CHK/?tag=tolees-21'
 descuento: '59.95'
 average: '7.99'

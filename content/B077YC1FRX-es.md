@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Sylvie Flirty Swimwear Bela  Traje de Baño de Una Pieza para Mujer  Negro  Black 5053   40  Talla del fabricante: 38B '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077YC1FRX/?tag=tolees-21'
 descuento: '88.04'
 average: '9.56'

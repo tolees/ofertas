@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Qubo Ares BL - Smartphone de 2.4"  Memoria de 32 MB  cámara de 0.3 MP  batería de 800 mAh  GPRS  Negro y Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075FXYSV5/?tag=tolees-21'
 descuento: '34.97'
 average: '13.0'

@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'Termómetro De Frente  UNTIRE Termómetro Digital con Sensor Infrarrojo  Mide Con Precisión Rapidez Termómetro Infrarrojo Sin Contacto  Adecuado Para Niños  Adultos  Medio Ambiente Objetos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CRR9D8N/?tag=tolees-21'
 descuento: '33.49'
 average: '30.59'

@@ -16,6 +16,7 @@ comparePrice: 159.95 EUR
 prodname: 'BLACK+DECKER FSM1630-QS - Mopa a vapor 1600W  500 ml  incluye 3 mopas y accesorio para alfombras'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00AZY944O/?tag=tolees-21'
 descuento: '32.48'
 average: '132.685'

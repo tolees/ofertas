@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Lee Daren - Strong Hand para hombre  Azul  W33 / L30  ES 44 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00LWA8N1A/?tag=tolees-21'
 descuento: '49.57'
 average: '53.18666666666667'

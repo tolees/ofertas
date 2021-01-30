@@ -16,6 +16,7 @@ comparePrice: 11.08 EUR
 prodname: 'Occitop Mujer Unisex    No metálico'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MV66PSS/?tag=tolees-21'
 descuento: '33.21'
 average: '7.4'

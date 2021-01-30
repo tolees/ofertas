@@ -16,6 +16,7 @@ comparePrice: 11.98 EUR
 prodname: 'Joma Winner Camisetas Equip. M/c  Hombre  Royal/Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BZHSZ4M/?tag=tolees-21'
 descuento: '33.31'
 average: '7.99'

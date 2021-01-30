@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Dularf Masajeador de Percusión Mano Portátil  Masajeador de Tejido Profundo para Cuello  Hombro  Cintura  Pierna  Pie  Espalda  6 Modos y 6 Velocidades  Relajar los Músculos  Alivio del Dolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YJMSL23/?tag=tolees-21'
 descuento: '54.69'
 average: '22.65'

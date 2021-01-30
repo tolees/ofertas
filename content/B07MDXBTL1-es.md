@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'SanDisk Cruzer Fit  Memoria Flash  50  Negro/Plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MDXBTL1/?tag=tolees-21'
 descuento: '29.43'
 average: '11.99'

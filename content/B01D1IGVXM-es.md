@@ -16,6 +16,7 @@ comparePrice: 8.9 EUR
 prodname: 'REPEL BITE NATURAL ADULTO pulsera citronela. Pulsera AntImosquitos. Ajustablepara muñeca y tobillo. Resistente al agua. Duración 3 semanas.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01D1IGVXM/?tag=tolees-21'
 descuento: '52.81'
 average: '4.2'

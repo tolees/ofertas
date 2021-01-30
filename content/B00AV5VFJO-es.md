@@ -16,6 +16,7 @@ comparePrice: 11.07 EUR
 prodname: 'Nike Lightweight No-Show  Calcetines  Hombre  Blanco  42-46 Pack de 3'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00AV5VFJO/?tag=tolees-21'
 descuento: '28.18'
 average: '7.3500000000000005'

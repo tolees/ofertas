@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'BACKTURE Bandas Elásticas de Resistencia  11Pcs Juego de Bandas de Fitness con 5 Tubos de Látex  Asas  Correas de Tobillo y Anclaje para Puerta  Adecuado para Fitness  Fuerza  Pérdida de Peso  Yoga'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087JHRLL8/?tag=tolees-21'
 descuento: '31.36'
 average: '17.84'

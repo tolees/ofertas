@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Reebok Princess  Zapatillas para Mujer  Blanco  White 0   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077QLR4HB/?tag=tolees-21'
 descuento: '54.64'
 average: '35.875'

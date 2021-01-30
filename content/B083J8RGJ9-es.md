@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Oacvien Adaptador Bluetooth 5.0 Transmisor Receptor  2 en 1  RCA & 3.5mm AUX  Baja Latencia Audio Estéreo para TV  PC  Audio  Música Inalámbrico en Coche'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083J8RGJ9/?tag=tolees-21'
 descuento: '43.35'
 average: '16.848333333333333'

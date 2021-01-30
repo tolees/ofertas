@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'Mr. Wonderful - Pendrive de 16 GB  diseño Sorbete  Color Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KGYBT44/?tag=tolees-21'
 descuento: '44.91'
 average: '10.99'

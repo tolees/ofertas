@@ -16,6 +16,7 @@ comparePrice: 37.99 EUR
 prodname: 'Set de Baño con Cepillo Corporal Exfoliante  Gancho de Ducha  Loción Corporal y Set Bolsa de Viaje'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XDFMBMS/?tag=tolees-21'
 descuento: '78.99'
 average: '7.98'

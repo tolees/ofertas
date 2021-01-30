@@ -16,6 +16,7 @@ comparePrice: 165.0 EUR
 prodname: 'Wenger Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable 01-1041-125'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B015WJR4FW/?tag=tolees-21'
 descuento: '56.08'
 average: '72.46'

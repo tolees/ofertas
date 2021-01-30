@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Auriculares verdaderamente inalámbricos  Giaride V4.1 Auriculares intrauditivos Bluetooth Auriculares con cancelación de Ruido Auriculares con Estuche de Carga  micrófono Incorporado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FFTQKVH/?tag=tolees-21'
 descuento: '68.34'
 average: '18.99'

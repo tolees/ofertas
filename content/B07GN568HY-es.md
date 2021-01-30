@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Tableta de escritura LCD SUNLU  Tablero de escritura y dibujo electrónico de 9 pulgadas  Bloc de notas de escritura portátil  Regalo para niños y adultos  Regalo navideño Rosa '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GN568HY/?tag=tolees-21'
 descuento: '55.01'
 average: '17.99'

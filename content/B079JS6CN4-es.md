@@ -16,6 +16,7 @@ comparePrice: 33.93 EUR
 prodname: 'Aprilis 8 Bombas de Baño Productos de Baño Imprescindibles  Baño de Burbujas  Sales de Baño'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079JS6CN4/?tag=tolees-21'
 descuento: '44.92'
 average: '18.69'

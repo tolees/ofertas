@@ -16,6 +16,7 @@ comparePrice: 123.99 EUR
 prodname: 'ASICS Chaussures Roadhawk FF 2'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L32FVW5/?tag=tolees-21'
 descuento: '26.62'
 average: '68.99'

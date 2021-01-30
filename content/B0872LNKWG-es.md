@@ -16,6 +16,7 @@ comparePrice: 121.9 EUR
 prodname: 'NMBC Cojín de Asiento de Coche con Cuentas de Madera 1 con Masaje Cojín Lumbar Asiento de Coche Transpirable Protector de cojín de Asiento de coche-48x98 cm A'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0872LNKWG/?tag=tolees-21'
 descuento: '40.12'
 average: '72.99'

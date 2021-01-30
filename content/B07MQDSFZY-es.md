@@ -16,6 +16,7 @@ comparePrice: 6.3 EUR
 prodname: 'Argentina - Figura SoccerStarz de Messi  5cm   Multicolor '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MQDSFZY/?tag=tolees-21'
 descuento: '33.33'
 average: '4.2'

@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'adidas Runfalcon  Zapatillas de Running para Hombre  Gris   Grey Six/ Footwear White/ Core Black   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K2LN4CN/?tag=tolees-21'
 descuento: '31.95'
 average: '39.72'

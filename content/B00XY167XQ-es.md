@@ -16,6 +16,7 @@ comparePrice: 2.75 EUR
 prodname: 'Albal - Papel horno vegetal  estructura anti-adherente  impermeable  16 hojas  42 x 38 centímetros'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XY167XQ/?tag=tolees-21'
 descuento: '27.27'
 average: '2.0'

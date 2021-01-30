@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'Auriculares Inalámbricos Bluetooth 5.0 SoundPEATS Truedot Cascos In-Ear True Wireless Invisibles Sonido Estéreo Mini Audífonos Gemelos Manos Libres con Micrófono'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XTBZ6ZR/?tag=tolees-21'
 descuento: '33.36'
 average: '31.487499999999997'

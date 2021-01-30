@@ -16,6 +16,7 @@ comparePrice: 349 EUR
 prodname: 'Apple Watch Pulsera de Eslabones Plata  42 mm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XS6BN15/?tag=tolees-21'
 descuento: '34.42'
 average: '228.88'

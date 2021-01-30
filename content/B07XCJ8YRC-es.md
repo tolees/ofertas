@@ -16,6 +16,7 @@ comparePrice: 31.99 EUR
 prodname: 'Hosome Juego de Luces Para Bicicleta  Recargable por USB 300 Lúmenes Luz Delantera y Trasera Impermeable Faros Delanteros y Traseros para Ciclismo Bicicleta de Montaña'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XCJ8YRC/?tag=tolees-21'
 descuento: '39.07'
 average: '27.82333333333333'

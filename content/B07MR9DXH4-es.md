@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Lee Rider Contrast Jeans  Dark Pool  28W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MR9DXH4/?tag=tolees-21'
 descuento: '60.36'
 average: '28.126666666666665'

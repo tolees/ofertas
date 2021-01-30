@@ -16,6 +16,7 @@ comparePrice: 8.71 EUR
 prodname: 'Farline GOTAS OCULARES HUMECTANTES CON ACIDO HIALURONICO AL 0 2% 20 UNIDOSIS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F9SKJD7/?tag=tolees-21'
 descuento: '27.10'
 average: '6.35'

@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Tamaris 1-1-25242-23  Botas Militar para Mujer  Amarillo  Corn 610   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NJHZCNM/?tag=tolees-21'
 descuento: '75.93'
 average: '24.06'

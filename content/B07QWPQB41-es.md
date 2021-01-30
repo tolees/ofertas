@@ -16,6 +16,7 @@ comparePrice: 23.51 EUR
 prodname: 'Cubierta de lactancia para bebés y poncho de lactancia - Cubierta para carrito de la compra  Cubierta para cochecito  Protección de lactancia con privacidad total de 360°'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QWPQB41/?tag=tolees-21'
 descuento: '49.55'
 average: '11.86'

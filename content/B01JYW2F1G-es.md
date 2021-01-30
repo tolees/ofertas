@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Witcher 3: Wild Hunt - Game of The Year. Versión inglesa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01JYW2F1G/?tag=tolees-21'
 descuento: '50.11'
 average: '19.95'

@@ -16,6 +16,7 @@ comparePrice: 899.0 EUR
 prodname: 'Intex 28454EX - Spa octogonal Deluxe Burbujas y Jets 795 litros'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00OTCOTBQ/?tag=tolees-21'
 descuento: '71.52'
 average: '302.5'

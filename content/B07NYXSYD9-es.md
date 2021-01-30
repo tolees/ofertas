@@ -16,6 +16,7 @@ comparePrice: 159.9 EUR
 prodname: 'Cecotec EnergySilence 790 FreshEssence Ionic Nebulizador digital con funci—n ionizador  difusor de aromas y anti-mosquitos  5 aspas  90 W  3 velocidades  Temporizador 12h  Dep—sito 3.1L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NYXSYD9/?tag=tolees-21'
 descuento: '28.71'
 average: '112.80666666666667'

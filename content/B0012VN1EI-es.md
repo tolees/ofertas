@@ -16,6 +16,7 @@ comparePrice: 11.0 EUR
 prodname: 'Hawaiian Tropic After Sun Gel Cooling Aloe - Gel After Sun de Aloe Vera para piel irritada por el sol  hipoalergénico y dermatológicamente probado  formato 200 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0012VN1EI/?tag=tolees-21'
 descuento: '55.00'
 average: '4.95'

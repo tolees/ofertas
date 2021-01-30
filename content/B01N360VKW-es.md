@@ -16,6 +16,7 @@ comparePrice: 36.69 EUR
 prodname: 'Mesa de Camping Plegable Ultra-Ligera  aleación de Aluminio  portátil para Barbacoa/Camping/Picnic/Viaje/Pesca  Aluminio  Plateado  Talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N360VKW/?tag=tolees-21'
 descuento: '48.24'
 average: '18.99'

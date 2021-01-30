@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Icons Corner PUF TAPIZADO Amarillo 2 TAMAÑOS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0851MT2TL/?tag=tolees-21'
 descuento: '46.67'
 average: '31.99'

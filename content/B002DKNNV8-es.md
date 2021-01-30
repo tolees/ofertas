@@ -16,6 +16,7 @@ comparePrice: 143.99 EUR
 prodname: 'Hunters Original Tall Gloss  Botas altas Mujer  Morado  Violet   35/36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002DKNNV8/?tag=tolees-21'
 descuento: '61.65'
 average: '47.28'

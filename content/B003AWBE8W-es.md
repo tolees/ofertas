@@ -16,6 +16,7 @@ comparePrice: 79 EUR
 prodname: 'Festina Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable 4040501'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003AWBE8W/?tag=tolees-21'
 descuento: '33.57'
 average: '52.48'

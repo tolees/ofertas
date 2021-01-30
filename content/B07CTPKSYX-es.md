@@ -16,6 +16,7 @@ comparePrice: 80 EUR
 prodname: 'Under Armour UA W Charged Rogue  Zapatillas de Running para Mujer  Blanco  White/White/Mod Gray  106  106   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CTPKSYX/?tag=tolees-21'
 descuento: '40.06'
 average: '41.975'

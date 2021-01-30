@@ -16,6 +16,7 @@ comparePrice: 27.0 EUR
 prodname: '28 Palms 9" Inseam Cotton Tencel Chino Short shorts  Caqui  38'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JYB1VHC/?tag=tolees-21'
 descuento: '52.00'
 average: '12.96'

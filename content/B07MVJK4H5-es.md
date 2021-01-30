@@ -16,6 +16,7 @@ comparePrice: 27.0 EUR
 prodname: 'Kipling - Card Keeper  Carteras Mujer  Gris  Night Grey   7x10x1 cm  B x H T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MVJK4H5/?tag=tolees-21'
 descuento: '50.00'
 average: '13.5'

@@ -16,6 +16,7 @@ comparePrice: 100.99 EUR
 prodname: 'ART VVIES Wandbild für Hauptdekorationen mit Haken Holz gerahmte Leinwand Küche Aquarell Floral Natur 40 x 30 Zoll'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082HBMR1S/?tag=tolees-21'
 descuento: '55.45'
 average: '44.99'

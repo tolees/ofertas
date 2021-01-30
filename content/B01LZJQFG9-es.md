@@ -16,6 +16,7 @@ comparePrice: 2.95 EUR
 prodname: 'Colgate Max White One Pasta Dentífrica - 75 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LZJQFG9/?tag=tolees-21'
 descuento: '49.49'
 average: '1.49'

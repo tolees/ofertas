@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'PUMA RS 9.8 Space  Zapatillas Unisex Adulto  Pastel Parchment White  43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KG184SK/?tag=tolees-21'
 descuento: '61.73'
 average: '32.242000000000004'

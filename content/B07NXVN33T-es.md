@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Skechers Go Run 600  Zapatillas para Hombre  Negro  Black Textile/Trim BBK   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NXVN33T/?tag=tolees-21'
 descuento: '47.32'
 average: '36.85'

@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Ergocar Creativo Lindo Dibujos Animados Organizador del Asiento de Coche con Bolsas de Aislamiento para Niños Impermeable del Coche Almacenamiento Plegable Kick Mat  Dinosaurio Grande - 1 Pack '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K2XZQ59/?tag=tolees-21'
 descuento: '70.01'
 average: '17.99'

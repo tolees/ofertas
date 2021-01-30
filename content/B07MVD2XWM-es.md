@@ -16,6 +16,7 @@ comparePrice: 30.77 EUR
 prodname: 'Ferilinso Funda para Samsung Galaxy M20 Elegante Armadura híbrida Robusta Funda de Doble Capa de Alta Resistencia para PC Duro Caso con Anillo Grip Kickstand para Samsung Galaxy M20  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MVD2XWM/?tag=tolees-21'
 descuento: '74.03'
 average: '7.99'

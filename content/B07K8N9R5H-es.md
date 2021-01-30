@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Ferilinso Protector de Pantalla para Huawei Watch GT  [4 Pack] [Vidrio NO Templado] Protector de Pantalla de Repuesto de Alta sensibilidad Full Coverage 3D Pet Película'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K8N9R5H/?tag=tolees-21'
 descuento: '58.74'
 average: '7.01'

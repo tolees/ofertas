@@ -16,6 +16,7 @@ comparePrice: 60.99 EUR
 prodname: 'Powerextra Batería Nikon EN-EL15 de Repuesto y Cargador Pantalla LCD para Nikon MH-25 MH-25a y Nikon D7100 D750 D7000 D7200 D810 D610 D800 D850 D600 D500 D800E D810A 1v1 Cámaras'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071V8DY9K/?tag=tolees-21'
 descuento: '49.19'
 average: '30.99'

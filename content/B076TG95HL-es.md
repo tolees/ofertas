@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Skechers Women 12980 Low-Top Trainers  Black  Black   4 UK   37 EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076TG95HL/?tag=tolees-21'
 descuento: '26.91'
 average: '36.51'

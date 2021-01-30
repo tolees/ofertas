@@ -16,6 +16,7 @@ comparePrice: 18.9 EUR
 prodname: 'EL ACCESORIO ORIGINAL de"BuyAndFeelGood" con EFECTO COLIBRÍ para consoladores  masajeadores eróticos  dildos y vibradores"COLIBRÍ" "KING KONG" y"MAGIC WAND"'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00GMN0ZTA/?tag=tolees-21'
 descuento: '33.86'
 average: '12.5'

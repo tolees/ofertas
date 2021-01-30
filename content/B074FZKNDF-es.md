@@ -16,6 +16,7 @@ comparePrice: 109.0 EUR
 prodname: 'Revell Maqueta Wars Imperial Star Destroyer  Kit Modelo  Escala 1:2700  6719  06719   60 0 cm de Largo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074FZKNDF/?tag=tolees-21'
 descuento: '28.21'
 average: '73.49666666666667'

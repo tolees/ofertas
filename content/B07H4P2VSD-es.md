@@ -16,6 +16,7 @@ comparePrice: 20.57 EUR
 prodname: 'Mallalah Blanqueamiento Dental  Polvo de Blanqueamiento de Carbón Activado Natural  Polvo de Blanqueador Dental de Carbón Activado  Blanqueamiento de Dientes 30g '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H4P2VSD/?tag=tolees-21'
 descuento: '68.60'
 average: '6.46'

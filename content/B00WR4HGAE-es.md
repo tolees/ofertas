@@ -16,6 +16,7 @@ comparePrice: 14.27 EUR
 prodname: 'L Oréal Paris 24H Mate  Base Maquillaje Matificante Larga Duración  Tono de Piel Medio 24 Beige Doré - 35 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00WR4HGAE/?tag=tolees-21'
 descuento: '37.28'
 average: '7.6'

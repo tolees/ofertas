@@ -16,6 +16,7 @@ comparePrice: 50.9 EUR
 prodname: 'Russell Hobbs Cook Home - Freidora profesional  1800 W  3.2 L para aceite  1.2 kg de comida  hasta 190 C  cuerpo inox cepillado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00EZML92W/?tag=tolees-21'
 descuento: '34.64'
 average: '33.27'

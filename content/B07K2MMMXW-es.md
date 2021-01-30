@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'adidas Runfalcon  Zapatillas de Running para Mujer  Negro  Core Black/Shock Red/FTWR White   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K2MMMXW/?tag=tolees-21'
 descuento: '38.98'
 average: '30.48'

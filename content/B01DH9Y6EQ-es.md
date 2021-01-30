@@ -16,6 +16,7 @@ comparePrice: 28.0 EUR
 prodname: 'Victoria Mercedes Terciopelo  Zapatillas Unisex Niños  Gris  Gris 12   18 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01DH9Y6EQ/?tag=tolees-21'
 descuento: '60.89'
 average: '10.95'

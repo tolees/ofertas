@@ -16,6 +16,7 @@ comparePrice: 13.75 EUR
 prodname: 'Soporte Pared Monitor/TV EWENT Easy Pan-Tilt EW1522 13"/42" MAX.20KG Negro Multi-DIRECCIONAL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00FVT7ZJE/?tag=tolees-21'
 descuento: '25.53'
 average: '10.24'

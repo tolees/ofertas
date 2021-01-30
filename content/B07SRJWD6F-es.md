@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Reebok Flexagon Energy MT  Zapatillas de Gimnasia para Hombre  Azul  Heritage Navy/Collegiate Navy/White Heritage Navy/Collegiate Navy/White   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SRJWD6F/?tag=tolees-21'
 descuento: '61.02'
 average: '21.655'

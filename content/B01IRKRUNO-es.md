@@ -16,6 +16,7 @@ comparePrice: 230.0 EUR
 prodname: 'NIXON Reloj Analógico para Hombre de Cuarzo con Correa en Tela A9452548'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IRKRUNO/?tag=tolees-21'
 descuento: '32.67'
 average: '116.63125000000001'

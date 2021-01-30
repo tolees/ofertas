@@ -16,6 +16,7 @@ comparePrice: 22.95 EUR
 prodname: 'Agatha Ruiz de la Prada Bufanda Fular Pashmina Pareo Verde y Azul con nubes grandes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085RGD9VG/?tag=tolees-21'
 descuento: '49.98'
 average: '11.48'

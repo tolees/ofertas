@@ -16,6 +16,7 @@ comparePrice: 6.95 EUR
 prodname: 'Garnier Olia - Coloración Permanente sin Amoniaco  con Aceites Florales de Origen Natural - Tono 6.35 Rubio Caramelo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00X9TY9L0/?tag=tolees-21'
 descuento: '35.25'
 average: '3.705'

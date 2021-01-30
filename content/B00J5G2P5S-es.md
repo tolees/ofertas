@@ -16,6 +16,7 @@ comparePrice: 7.34 EUR
 prodname: 'HARTMANN - TIRITAS SPORT EXPRESS 15 U'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00J5G2P5S/?tag=tolees-21'
 descuento: '72.75'
 average: '2.0'

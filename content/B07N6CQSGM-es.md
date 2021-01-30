@@ -16,6 +16,7 @@ comparePrice: 68.09 EUR
 prodname: '3/8"1700 RPM  Taladro Neumático de Alta Velocidad  Rotación Reversible  Herramienta de Perforación de Aire para Taladrado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N6CQSGM/?tag=tolees-21'
 descuento: '60.36'
 average: '26.99'

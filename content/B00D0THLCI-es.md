@@ -16,6 +16,7 @@ comparePrice: 6.4 EUR
 prodname: 'Max Factor Colour Elixir Lipstick 730 Flushed Fuchsia Pomadka nawilżająca do ust'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00D0THLCI/?tag=tolees-21'
 descuento: '52.97'
 average: '3.01'

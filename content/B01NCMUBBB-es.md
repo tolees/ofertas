@@ -16,6 +16,7 @@ comparePrice: 44.81 EUR
 prodname: 'HP 803181-071 - Teclado  Estándar  Alámbrico  USB  Interruptor mecánico  QWERTY  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NCMUBBB/?tag=tolees-21'
 descuento: '37.00'
 average: '28.23'

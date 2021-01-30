@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'New Balance 500  Zapatillas para Hombre  Negro  Black/Grey Black/Grey   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DFW8J9P/?tag=tolees-21'
 descuento: '34.73'
 average: '48.95'

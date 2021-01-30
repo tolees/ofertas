@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Nike Revolution 5  Zapatillas de Running para Hombre  Multicolor Black White Anthracite 002  44.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NLV8LPZ/?tag=tolees-21'
 descuento: '40.18'
 average: '32.9'

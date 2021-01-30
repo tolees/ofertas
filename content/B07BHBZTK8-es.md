@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'Arteza Cuadernos de dibujo de tapa dura | Pack de 2 | 100 hojas por cuaderno | Tamaño 21 6 x 27  9 cm | Papel grueso de 130 gsm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BHBZTK8/?tag=tolees-21'
 descuento: '31.83'
 average: '18.49'

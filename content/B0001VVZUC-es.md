@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'Solgar® Zinc Quelado  100 Comprimidos - Protege del daño oxidativo y mantiene tu pelo  piel y uñas.  Apto para veganos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0001VVZUC/?tag=tolees-21'
 descuento: '39.87'
 average: '9.355714285714287'

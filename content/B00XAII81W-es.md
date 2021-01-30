@@ -16,6 +16,7 @@ comparePrice: 8.75 EUR
 prodname: 'Camomila Intea Loción Cubrevello - 100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XAII81W/?tag=tolees-21'
 descuento: '36.11'
 average: '5.64'

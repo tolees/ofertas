@@ -16,6 +16,7 @@ comparePrice: 42.0 EUR
 prodname: 'LolaPix Cartera Personalizada con tu Foto/Diseño/Texto. Regalo Original y Exclusivo. Tejido en Cartera Símil Piel. Smartphone'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YXSFWHY/?tag=tolees-21'
 descuento: '28.69'
 average: '29.95'

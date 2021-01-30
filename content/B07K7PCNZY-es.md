@@ -16,6 +16,7 @@ comparePrice: 51 EUR
 prodname: 'Asics Patriot 10  Zapatillas de Running para Mujer  Negro  Black/Skylight 003   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K7PCNZY/?tag=tolees-21'
 descuento: '35.31'
 average: '32.99'

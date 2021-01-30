@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Desigual Trousers Pat Pantalones  Negro 2000  W  Talla de Fabricante : S  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N44CW1L/?tag=tolees-21'
 descuento: '73.87'
 average: '18.28'

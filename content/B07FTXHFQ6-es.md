@@ -16,6 +16,7 @@ comparePrice: 22.94 EUR
 prodname: 'Pour Moi? Ditto Underwired Bra Sujetador con Aros  Blanco  White White   90F para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FTXHFQ6/?tag=tolees-21'
 descuento: '30.08'
 average: '16.04'

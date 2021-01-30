@@ -16,6 +16,7 @@ comparePrice: 73.65 EUR
 prodname: 'Purina Gourmet Gold Mousse comida para gatos de Pescado del Oceano 8 x [12 x 85 g]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B8PRF9V/?tag=tolees-21'
 descuento: '44.82'
 average: '44.32'

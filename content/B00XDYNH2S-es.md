@@ -16,6 +16,7 @@ comparePrice: 45.27 EUR
 prodname: 'Tommy Hilfiger New Danny Belt Cinturón  Cognac  85 para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XDYNH2S/?tag=tolees-21'
 descuento: '40.38'
 average: '25.326666666666664'

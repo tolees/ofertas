@@ -16,6 +16,7 @@ comparePrice: 40.13 EUR
 prodname: 'Casio Classic MW-59-7BVDF  Reloj Analógico de Cuarzo con Calendario y Correa de Resina para Hombre  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0010MJVG6/?tag=tolees-21'
 descuento: '51.16'
 average: '18.6975'

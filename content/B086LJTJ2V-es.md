@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Mascarilla facial OptiPro para partículas  KN95 / FFP2   sistema multicapa no tejido con alta capacidad de filtración  filtra más del 95% de las partículas en el aire  paquete de 10 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086LJTJ2V/?tag=tolees-21'
 descuento: '47.39'
 average: '9.99'

@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'SportPlus SP-ALB-011 Entrenador Abdominal Plegable para Uso Doméstico con Ordenador de Entrenamiento-Varios Niveles de Dificultad  Adultos Unisex  Negro/Rojo  102x51x90cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072K4SGCH/?tag=tolees-21'
 descuento: '46.67'
 average: '79.99'

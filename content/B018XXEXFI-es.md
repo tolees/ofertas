@@ -16,6 +16,7 @@ comparePrice: 8.45 EUR
 prodname: 'CALZITALY Medias Invisibles Refrescantes | Panty De Verano | Natural  Negro | S  M  L  XL | 7 DEN | Calcetería Italiana |  XL  Natural '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B018XXEXFI/?tag=tolees-21'
 descuento: '46.15'
 average: '4.55'

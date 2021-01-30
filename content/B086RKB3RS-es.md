@@ -16,6 +16,7 @@ comparePrice: 1359.95 EUR
 prodname: 'Equipaje  Maletas y Bolsas de Viaje - Premium Designer Ibrido Luggage Set 3 Piezas - Heys Ibrido Spinner Air-Lite II BLU Equipaje de Mano + Trolley con 4 Ruedas Media + Trolley con 4 Ruedas Grande'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086RKB3RS/?tag=tolees-21'
 descuento: '65.89'
 average: '463.91'

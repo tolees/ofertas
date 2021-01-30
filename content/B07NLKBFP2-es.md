@@ -16,6 +16,7 @@ comparePrice: 128.0 EUR
 prodname: 'Versace Jeans CouturePortafoglioMujerCarterasMorado  Glicine  0 5x16x25 5 centimeters  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NLKBFP2/?tag=tolees-21'
 descuento: '55.41'
 average: '64.332'

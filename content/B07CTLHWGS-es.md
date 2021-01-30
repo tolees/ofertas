@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Aigostar Mercury 33LBX - Aspirador de mano ciclónico inalámbrico  succión en seco y húmedo  batería recargable 2050mAh  depósito 500ml  filtro HEPA. Diseño exclusivo.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CTLHWGS/?tag=tolees-21'
 descuento: '43.76'
 average: '22.49'

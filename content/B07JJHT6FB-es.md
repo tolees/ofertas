@@ -16,6 +16,7 @@ comparePrice: 33.18 EUR
 prodname: 'Pinte por Number Kit  DIY Pintura al óleo Dibujo Elefante Lienzo Colorido con cepillos Decoración Decoraciones 16 * 20 Pulgadas sin Marco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JJHT6FB/?tag=tolees-21'
 descuento: '49.70'
 average: '16.79'

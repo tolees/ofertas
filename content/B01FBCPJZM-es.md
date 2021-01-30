@@ -16,6 +16,7 @@ comparePrice: 190.0 EUR
 prodname: 'Orient Reloj Analógico para Unisex Adultos de Automático con Correa en Cuero FAB0B003W9'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FBCPJZM/?tag=tolees-21'
 descuento: '54.76'
 average: '94.70666666666668'

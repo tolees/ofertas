@@ -16,6 +16,7 @@ comparePrice: 11.75 EUR
 prodname: 'Jarabe de arce Grado A  Very Dark  Strong taste  - 189ml  250g  - Miel de arce - Sirope de Arce - Original maple syrup'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PJL9VHR/?tag=tolees-21'
 descuento: '26.81'
 average: '8.6'

@@ -16,6 +16,7 @@ comparePrice: 9.44 EUR
 prodname: 'Toyvian Succión Bullet Gun Revolver Kids Divertido Juego al Aire Libre Juego de Disparos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q42CMJY/?tag=tolees-21'
 descuento: '25.64'
 average: '7.02'

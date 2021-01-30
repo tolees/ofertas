@@ -16,6 +16,7 @@ comparePrice: 14.1 EUR
 prodname: 'Bioderma Sebium Gel Moussant Nettoyant Purifiant 200 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000TUNMW4/?tag=tolees-21'
 descuento: '40.99'
 average: '8.4525'

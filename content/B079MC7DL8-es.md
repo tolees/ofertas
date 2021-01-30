@@ -16,6 +16,7 @@ comparePrice: 8.98 EUR
 prodname: '24pcs Purpurina Etiquetas Engomadas de Papel Flameco para Botella Vaso Calco Maña'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079MC7DL8/?tag=tolees-21'
 descuento: '44.43'
 average: '4.99'

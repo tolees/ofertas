@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'New Balance Fresh Foam Roav h  Zapatillas de Running para Hombre  Azul  Natural TB   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RFW21KK/?tag=tolees-21'
 descuento: '49.00'
 average: '45.9'

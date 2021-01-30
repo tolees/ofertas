@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Gant Pinestreet  Zapatillas para Mujer  Rosa  Silver Pink G584   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TZMDDLN/?tag=tolees-21'
 descuento: '64.39'
 average: '25.585'

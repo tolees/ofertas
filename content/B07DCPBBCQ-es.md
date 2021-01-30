@@ -16,6 +16,7 @@ comparePrice: 32.24 EUR
 prodname: 'Avaner Reloj para Hombre Caballero Esfera Cuadrada Reloj Clásico de Cuero  Números Romanos Reloj Analogico de Movimiento Cuarzo Japonés'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DCPBBCQ/?tag=tolees-21'
 descuento: '59.71'
 average: '12.99'

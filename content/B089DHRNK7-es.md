@@ -16,6 +16,7 @@ comparePrice: 14.42 EUR
 prodname: 'luosh Rodillo de Pintura  4 Piezas de Esponja para niños  Cepillo de Pintura  Rodillo  Bricolaje  niño  niño  Herramienta de Pintura  Juguete  Arte Preescolar  Actividad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089DHRNK7/?tag=tolees-21'
 descuento: '50.00'
 average: '7.21'

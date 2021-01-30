@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Philips Voicetracer - Grabadora de audio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IYR34YE/?tag=tolees-21'
 descuento: '27.69'
 average: '91.76777777777778'

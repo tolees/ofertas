@@ -16,6 +16,7 @@ comparePrice: 49 EUR
 prodname: 'Superga 2750-cotbumpj  Zapatillas de Gimnasia Unisex Niños  Azul  Navy/Fwhite F43   31 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077QPSL2Q/?tag=tolees-21'
 descuento: '59.96'
 average: '17.44'

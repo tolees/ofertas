@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'MOTOGP MESSENGER BOLSA CASCO: MOTOGP'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0083G9AMM/?tag=tolees-21'
 descuento: '33.21'
 average: '16.69'

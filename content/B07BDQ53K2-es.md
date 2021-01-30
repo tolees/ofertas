@@ -16,6 +16,7 @@ comparePrice: 115.0 EUR
 prodname: 'American Tourister Disney Wavebreaker - Maleta Infantil  Spinner S  55 cm - 36 L   Multicolor  Mickey Close-Up '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BDQ53K2/?tag=tolees-21'
 descuento: '25.63'
 average: '82.45333333333333'

@@ -16,6 +16,7 @@ comparePrice: 22.94 EUR
 prodname: 'Amazon Essentials Shirt Jacket Novelty-t-Shirts  Camo  US M  EU M '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HK65B9X/?tag=tolees-21'
 descuento: '43.33'
 average: '13.0'

@@ -16,6 +16,7 @@ comparePrice: 21.82 EUR
 prodname: 'keeeper Hamaca de Baño Antideslizante Cars  De 0 a 6 Meses  Leon  Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075ZVRDC6/?tag=tolees-21'
 descuento: '53.48'
 average: '10.15'

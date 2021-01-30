@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Llave de vaso universal Flydeer 48 en 1 llave de vaso multifunción con cabezal giratorio de 360 grados  herramienta de llave para reparación de hogar y coche'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GRJPZKM/?tag=tolees-21'
 descuento: '66.68'
 average: '19.99'

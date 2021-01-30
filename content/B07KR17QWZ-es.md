@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Nike NK Brsla M Duff - 9.0  60L  Gym Bag  Unisex Adulto  Black/ Black/ White  MISC'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KR17QWZ/?tag=tolees-21'
 descuento: '40.14'
 average: '22.83285714285714'

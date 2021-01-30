@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Ferilinso Cristal Templado para Xiaomi Mi A3 Protector de Pantalla  [3 Pack] Protector de Pantalla Screen Protector con para Cristal Templado Xiaomi Mi A3'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QQC22H4/?tag=tolees-21'
 descuento: '57.93'
 average: '7.99'

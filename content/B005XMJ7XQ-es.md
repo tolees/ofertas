@@ -16,6 +16,7 @@ comparePrice: 37.9 EUR
 prodname: 'DIM Generous Invisible Sujetador  Negro  100.D para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005XMJ7XQ/?tag=tolees-21'
 descuento: '53.67'
 average: '17.56'

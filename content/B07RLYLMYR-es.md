@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Columbia IVO TRAIL BREEZE Zapatillas deportivas para hombre  Negro Black  Grey Ice   47 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RLYLMYR/?tag=tolees-21'
 descuento: '36.00'
 average: '64.22076923076924'

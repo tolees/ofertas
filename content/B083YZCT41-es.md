@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'uni Adaptador USB C a HDMI  Adaptador USB Tipo C a HDMI  Compatible con Thunderbolt 3  hasta 4K  Compatible con iPad Pro 2018  MacBook  Samsung S20  Huawei P40  Surface Pro 7 y más - Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083YZCT41/?tag=tolees-21'
 descuento: '26.33'
 average: '13.99'

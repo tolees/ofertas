@@ -16,6 +16,7 @@ comparePrice: 50.58 EUR
 prodname: 'Puma Unisex Adulto Axis Zapatillas  Azul  Peacoat-Puma White 07   38.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KFY29ZZ/?tag=tolees-21'
 descuento: '34.86'
 average: '32.95'

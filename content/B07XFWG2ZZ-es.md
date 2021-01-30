@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'PUMA Amplified Shorts 9` TR Pantalones Cortos  Hombre  Dark Denim  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XFWG2ZZ/?tag=tolees-21'
 descuento: '76.59'
 average: '7.01'

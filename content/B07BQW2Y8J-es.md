@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'Wonyered Caja de Seguridad Cerradura Fuerte con 4 Numeros de Códigos para Guardar las Llaves Joyas o Tarjeta bancaria en Pared o Mirilla'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BQW2Y8J/?tag=tolees-21'
 descuento: '38.11'
 average: '12.99'

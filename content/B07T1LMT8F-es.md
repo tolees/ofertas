@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Otterbox Symmetry Clear - Funda Protectora Trasera Transparente para iPad Air  3rd Gen  & iPad Pro 10.5  2017 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T1LMT8F/?tag=tolees-21'
 descuento: '36.87'
 average: '56.81'

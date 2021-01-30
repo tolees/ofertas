@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'Joseph Joseph Delta Pasapuré plegable - Gris / Verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FM7VQF9/?tag=tolees-21'
 descuento: '32.04'
 average: '10.16'

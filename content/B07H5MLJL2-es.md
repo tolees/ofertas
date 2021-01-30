@@ -16,6 +16,7 @@ comparePrice: 19.0 EUR
 prodname: 'Triple Magnesium Complex  Citrato de magnesio completamente reaccionado  taurato y bisglicinato  Vegano  90 Cápsulas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H5MLJL2/?tag=tolees-21'
 descuento: '29.32'
 average: '11.8925'

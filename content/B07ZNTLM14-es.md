@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Hurley M Phtm Block Party 18  Bañador  Hombre  Iron Grey  36'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZNTLM14/?tag=tolees-21'
 descuento: '48.48'
 average: '33.49'

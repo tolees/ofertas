@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Ballery Sac à Dos d Hydratation  Sac Vélo avec Poche à Eau de 3 L pour Cyclisme  Randonnée  Running'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075QW65PB/?tag=tolees-21'
 descuento: '43.35'
 average: '16.99'

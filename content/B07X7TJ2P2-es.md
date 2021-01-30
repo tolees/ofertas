@@ -16,6 +16,7 @@ comparePrice: 77.99 EUR
 prodname: 'BRIKSMAX Kit de Iluminación Led para Lego Technic Mack Anthem Compatible con Ladrillos de Construcción Lego Modelo 42078  Juego de Legos no Incluido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X7TJ2P2/?tag=tolees-21'
 descuento: '25.64'
 average: '55.35206896551725'

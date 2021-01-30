@@ -16,6 +16,7 @@ comparePrice: 399.99 EUR
 prodname: 'Braun Series 9 9240 s - Afeitadora eléctrica para hombre de lámina  en húmedo y seco  máquina de afeitar barba con base cargadora  negro/azul  sólo recargable  inalámbrico'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IN8LBJ4/?tag=tolees-21'
 descuento: '43.77'
 average: '227.518'

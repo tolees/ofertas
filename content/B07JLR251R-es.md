@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Lee Breese Pantalones para Mujer  Negro  Pitch Raw Hem Lw   27W / 33L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JLR251R/?tag=tolees-21'
 descuento: '79.77'
 average: '18.2'

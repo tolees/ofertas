@@ -16,6 +16,7 @@ comparePrice: 44.88 EUR
 prodname: 'Mini Cámara Espía Oculta 1080P DIY Portátil Encubierta Niñera Seguridad del Video con Detección de Movimiento para el hogar Coches Aviones no tripulados la Oficina  NO incluir la Tarjeta de Mirco SD '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JVMWPR4/?tag=tolees-21'
 descuento: '33.18'
 average: '29.99'

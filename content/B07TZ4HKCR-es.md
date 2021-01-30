@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Valentino by Mario - Audrey  Carteras de mano Mujer  Rosa  Cipria   4x11.5x17 cm  B x H T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TZ4HKCR/?tag=tolees-21'
 descuento: '56.65'
 average: '28.18'

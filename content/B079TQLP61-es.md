@@ -16,6 +16,7 @@ comparePrice: 26.9 EUR
 prodname: 'Montichelvo 55785 Bolsa Deporte  Infantil   Multicolour   50 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079TQLP61/?tag=tolees-21'
 descuento: '37.17'
 average: '16.9'

@@ -16,6 +16,7 @@ comparePrice: 13.7 EUR
 prodname: 'L Oréal Men Expert Cofre Vitalift Crema antiedad para hombre y Gel de Ducha'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JGLTRB2/?tag=tolees-21'
 descuento: '30.00'
 average: '11.000740740740738'

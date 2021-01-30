@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Kipling Firefly Up  Mochilas para Mujer  Dorado  Cloud Metal   22x31x14 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PSJ81R2/?tag=tolees-21'
 descuento: '31.99'
 average: '64.61'

@@ -16,6 +16,7 @@ comparePrice: 8.5 EUR
 prodname: 'Bourjois Fard Joues Colorete Tono 54 Rose frisson - 2.5 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077L6GPJL/?tag=tolees-21'
 descuento: '40.00'
 average: '4.512499999999999'

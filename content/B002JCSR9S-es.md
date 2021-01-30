@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Crocs Crocband Jaunt Women  Mujer Bota  Negro  Black   34-35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002JCSR9S/?tag=tolees-21'
 descuento: '53.33'
 average: '23.33'

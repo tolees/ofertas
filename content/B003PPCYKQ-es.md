@@ -16,6 +16,7 @@ comparePrice: 27.0 EUR
 prodname: 'Eastpak Springer Riñonera  23 cm  2 L  Gris  Sunday Grey '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003PPCYKQ/?tag=tolees-21'
 descuento: '53.33'
 average: '14.4'

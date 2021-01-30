@@ -16,6 +16,7 @@ comparePrice: 13.08 EUR
 prodname: 'Daily Ritual Denim Cutoff Short-Base A shorts  Azul Oscuro  28'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J21B1FY/?tag=tolees-21'
 descuento: '34.86'
 average: '8.52'

@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'DazSpirit Kit de Tatuajes Temporales  Con 24 Brillos 3 Pegamento 2 Pincel y Plantillas - para Niñas  Niños y Niños - Adecuado para Maquillaje De Cara y Cuerpo - Tatuaje Temporal para Halloween'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VGDCD9Y/?tag=tolees-21'
 descuento: '40.04'
 average: '14.99'

@@ -16,6 +16,7 @@ comparePrice: 139.0 EUR
 prodname: 'Citizen Reloj Analógico para Hombre de Cuarzo con Correa en Nailon AW5000-16L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N4OZKJR/?tag=tolees-21'
 descuento: '30.97'
 average: '95.86437500000001'

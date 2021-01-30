@@ -16,6 +16,7 @@ comparePrice: 54.07 EUR
 prodname: 'Versa 19500757 Silla acolchada tapizada Bl/Gr Patchwork  73x64x50 cm  Verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BKHIDI2/?tag=tolees-21'
 descuento: '33.44'
 average: '69.515'

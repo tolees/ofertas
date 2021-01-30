@@ -16,6 +16,7 @@ comparePrice: 419.0 EUR
 prodname: 'ASUS BRT-AC828 - Router Dual-WAN AC2600 para Empresa  Servidor y Cliente IPsec  VLAN Local  Portal cautivo  Slot M.2 Sata  Servidor Radius '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071VCVQ54/?tag=tolees-21'
 descuento: '35.56'
 average: '270.775'

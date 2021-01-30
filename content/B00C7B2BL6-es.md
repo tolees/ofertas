@@ -16,6 +16,7 @@ comparePrice: 7.72 EUR
 prodname: 'Orofluido Colour Elixir Tinte Permanente  Tono 4 Marrón - 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00C7B2BL6/?tag=tolees-21'
 descuento: '51.68'
 average: '3.73'

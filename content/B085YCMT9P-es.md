@@ -16,6 +16,7 @@ comparePrice: 35.95 EUR
 prodname: 'YAMAMAY® Bralette with bow - Charlize'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085YCMT9P/?tag=tolees-21'
 descuento: '54.99'
 average: '16.18'

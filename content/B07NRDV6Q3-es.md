@@ -16,6 +16,7 @@ comparePrice: 7.58 EUR
 prodname: 'Fa Desodorante Spray Limones del Caribe - 48h de protección - 2 uds de 200ml - Anti Manchas Blancas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NRDV6Q3/?tag=tolees-21'
 descuento: '60.42'
 average: '3.0'

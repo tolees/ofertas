@@ -16,6 +16,7 @@ comparePrice: 59.2 EUR
 prodname: 'PUMA Cell Ultimate Point  Zapatillas de Running para Hombre  Blanco White/High Rise/Palace Blue 10  42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S8PHDTF/?tag=tolees-21'
 descuento: '43.58'
 average: '33.4'

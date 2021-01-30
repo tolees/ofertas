@@ -16,6 +16,7 @@ comparePrice: 90.76 EUR
 prodname: 'ADATA ASD600Q-480GU31-CBK SD600Q'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PLPBX5T/?tag=tolees-21'
 descuento: '39.80'
 average: '54.64'

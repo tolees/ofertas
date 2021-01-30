@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'CAMPER Hoops  Damen Low-top  Weiß  White Natural 100   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NAS3A5U/?tag=tolees-21'
 descuento: '25.53'
 average: '55.07'

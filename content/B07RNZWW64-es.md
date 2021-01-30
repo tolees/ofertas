@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Madden NFL 20 - Standard  | PC Download - Origin Code'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RNZWW64/?tag=tolees-21'
 descuento: '66.68'
 average: '22.79'

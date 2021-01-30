@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Soul Projekt x 10 Almohadillas desmaquillantes reutilizables  Almohadillas faciales orgánicas ecológicas de algodón de bambú  Bolsa de lavandería de algodón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y39HK6D/?tag=tolees-21'
 descuento: '37.52'
 average: '9.99'

@@ -16,6 +16,7 @@ comparePrice: 120 EUR
 prodname: 'New Balance Summit Unknown  Zapatillas de Running para Asfalto para Hombre  Verde  Bright Green Bright Green   41.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DVLP1Y6/?tag=tolees-21'
 descuento: '40.00'
 average: '72'

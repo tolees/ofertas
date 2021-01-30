@@ -16,6 +16,7 @@ comparePrice: 469.0 EUR
 prodname: 'Yamaha MusicCast RX-V485 - Receptor AV  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CNP1R35/?tag=tolees-21'
 descuento: '27.51'
 average: '349.5'

@@ -16,6 +16,7 @@ comparePrice: 47.92 EUR
 prodname: 'Dermacol - Magnetic Metal 16H Delineador de ojos  Tono 4 Verde  - 1 unidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F7R1YWT/?tag=tolees-21'
 descuento: '86.64'
 average: '6.4'

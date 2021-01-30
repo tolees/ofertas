@@ -16,6 +16,7 @@ comparePrice: 13.28 EUR
 prodname: 'DAEN Crema Depilatoria 1 Unidad 430 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GQ1Y7AU/?tag=tolees-21'
 descuento: '41.42'
 average: '7.78'

@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'SCOBUTY Pulsera Repelente de Mosquitos Mosquito Anti Pulsera Pulsera Antimosquito extractos de Plantas Naturales  sanos  no tóxicos  Impermeables adecuados para Viajes y Viajes de Negocios'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085KXWLR3/?tag=tolees-21'
 descuento: '28.59'
 average: '9.99'

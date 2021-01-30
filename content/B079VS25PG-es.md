@@ -16,6 +16,7 @@ comparePrice: 172.96 EUR
 prodname: 'Casio Reloj Digital para Hombre de Cuarzo con Correa en Resina GBA-800-7AER  Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079VS25PG/?tag=tolees-21'
 descuento: '45.11'
 average: '95.02666666666666'

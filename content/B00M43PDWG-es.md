@@ -16,6 +16,7 @@ comparePrice: 49.35 EUR
 prodname: 'BSN Nutrition N.O.-Xplode  Suplementos Deportivos Pre Workout en Polvo con Creatina Monohidrato  Cafeina  Beta Alanina  Vitamina D y Vitamina B Complex  Frambuesa Azul  50 Porciones  1.05kg'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00M43PDWG/?tag=tolees-21'
 descuento: '31.17'
 average: '32.64333333333333'

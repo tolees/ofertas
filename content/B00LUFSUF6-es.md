@@ -16,6 +16,7 @@ comparePrice: 7.95 EUR
 prodname: 'Revlon ColorStay Gel Envy Esmalte de Uñas de Larga Duración 11 7ml  Roulette Rush '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00LUFSUF6/?tag=tolees-21'
 descuento: '74.97'
 average: '1.99'

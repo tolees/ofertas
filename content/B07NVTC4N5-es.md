@@ -16,6 +16,7 @@ comparePrice: 19.78 EUR
 prodname: 'non-brand Caja de 300 Pcs Hisopos de Algodón Moderna Accesorio para Limpio de Oídos Maquillaje - Rosa Amarillo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NVTC4N5/?tag=tolees-21'
 descuento: '44.44'
 average: '10.99'

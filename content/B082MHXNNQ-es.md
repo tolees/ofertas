@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Kids Mordedor Bebes Refrigerante by ANGELBLISS  Mordedores Bebes Para Aliviar El Dolor De Encías，conjunto de mordedores de silicona natural de silicona suave  unisexo（Paquete de 4）'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082MHXNNQ/?tag=tolees-21'
 descuento: '50.02'
 average: '14.99'

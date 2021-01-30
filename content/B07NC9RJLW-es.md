@@ -16,6 +16,7 @@ comparePrice: 89.9 EUR
 prodname: 'Pepe Jeans Stanley Pantalones  Azul  Blueing 565   W34/L32 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NC9RJLW/?tag=tolees-21'
 descuento: '40.50'
 average: '53.190000000000005'

@@ -16,6 +16,7 @@ comparePrice: 17.58 EUR
 prodname: 'Madeb La Bolsa de Basura con cordón de es fácil de Usar  Limpia y se Puede Usar en Bolsas de Basura de Cocina y Bolsas de Basura Interiores  15-20 litros  Negro  60 Bolsas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YWKZP9H/?tag=tolees-21'
 descuento: '31.74'
 average: '12.0'

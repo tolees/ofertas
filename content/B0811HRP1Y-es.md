@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Vicloon Mini Paraguas del Sol  6 Varillas Paraguas de Viaje Portátil con Diseño de Esqueleto Mejorado y 210T Negro Tela de Goma  Paraguas Plegables y Compacto Resistencia UV & Impermeable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0811HRP1Y/?tag=tolees-21'
 descuento: '33.36'
 average: '9.99'

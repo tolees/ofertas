@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'HKT by Hackett Hkt LS Str Rby Polo   Red/White 2ah   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MQ2Q1LL/?tag=tolees-21'
 descuento: '78.03'
 average: '20.5'

@@ -16,6 +16,7 @@ comparePrice: 44.12 EUR
 prodname: 'Lacoste Eau De Lacoste L.12.12 Blanc - Agua de toilette  175 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00PWQUDCC/?tag=tolees-21'
 descuento: '32.23'
 average: '34.93333333333334'

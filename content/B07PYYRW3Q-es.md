@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Under Armour UA Charged Commit TR 2  Zapatillas Deportivas para Interior para Hombre  Azul  Versa Blue/White/Black   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PYYRW3Q/?tag=tolees-21'
 descuento: '52.47'
 average: '38.0'

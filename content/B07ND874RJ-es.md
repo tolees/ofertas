@@ -16,6 +16,7 @@ comparePrice: 45.95 EUR
 prodname: 'Desigual 19WAYPX0 - Cartera para mujer de Sintético Mujer Marrón Marrón  MARRON 6000  1.5x9.5x19.5 cm  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ND874RJ/?tag=tolees-21'
 descuento: '50.05'
 average: '27.549999999999997'

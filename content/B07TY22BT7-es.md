@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Skechers Bounder Verkona  Zapatillas para Hombre  Rojo  Burgundy Mesh/Black Synthetic/Trim Bubk   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TY22BT7/?tag=tolees-21'
 descuento: '54.80'
 average: '29.36'

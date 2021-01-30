@@ -16,6 +16,7 @@ comparePrice: 102.5 EUR
 prodname: 'Merc Harrington  Abrigos de Manga Larga Para Hombre  Negro  Black   X-Small'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ASNGVDY/?tag=tolees-21'
 descuento: '28.16'
 average: '73.64'

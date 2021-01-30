@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Baldur s Gate: Enhanced Edition Pack'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SHHDNCD/?tag=tolees-21'
 descuento: '37.01'
 average: '36.150000000000006'

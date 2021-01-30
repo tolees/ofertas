@@ -16,6 +16,7 @@ comparePrice: 73.0 EUR
 prodname: 'New Balance Numeric Nm255 Black 9'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HGDBC1S/?tag=tolees-21'
 descuento: '50.00'
 average: '36.5'

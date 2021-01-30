@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'Diset Soy Luna - Set con ovillos de lana  aro para tejer y un ganchillo 46593'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01I5KJR2S/?tag=tolees-21'
 descuento: '50.25'
 average: '4.95'

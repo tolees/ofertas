@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'HAMSWAN Despertadores  [Regalos] Reloi Alarma  Clock  Despertadores Cambiado Entre 7 Colores con 8 Tonos  Tempreatura para Padres Estudios y Niños ect.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QKY1N9D/?tag=tolees-21'
 descuento: '50.02'
 average: '10.24'

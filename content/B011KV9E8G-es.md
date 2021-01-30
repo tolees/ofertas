@@ -16,6 +16,7 @@ comparePrice: 37.0 EUR
 prodname: 'Solac Pedi Active 8 - Aparato de pedicura'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B011KV9E8G/?tag=tolees-21'
 descuento: '63.16'
 average: '13.63'

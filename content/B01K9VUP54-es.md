@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Pack 5 x Bombilla LED esférica 6W  equivalente a 40W  Luz neutra  no dimmable  E27  470 Lm  25000 horas de vida'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01K9VUP54/?tag=tolees-21'
 descuento: '38.88'
 average: '8.55'

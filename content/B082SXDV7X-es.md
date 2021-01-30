@@ -16,6 +16,7 @@ comparePrice: 25.89 EUR
 prodname: 'READ Reloj Digital Deportivos  3D Podómetro Digital Pantalla de Tiempo Alarma Cronómetro Datos de 7 días con luz Negra LED para Caminar y Correr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082SXDV7X/?tag=tolees-21'
 descuento: '38.74'
 average: '15.86'

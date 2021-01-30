@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Grid Day One Edition XONE'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SJ1TYXM/?tag=tolees-21'
 descuento: '43.06'
 average: '40.58'

@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'DANISH ENDURANCE Calcetines de Senderismo y Trekking de Lana Merino para Hombre  Mujer y Niños  3 Pares  Multicolor: Azul Marino  Gris  Verde  EU 39-42 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082V9WMND/?tag=tolees-21'
 descuento: '27.53'
 average: '28.95'

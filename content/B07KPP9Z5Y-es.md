@@ -16,6 +16,7 @@ comparePrice: 34.9 EUR
 prodname: 'Ban presto- The Battle Dragon Ball Estatua Androide 18  Multicolor  BANP82731 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KPP9Z5Y/?tag=tolees-21'
 descuento: '42.69'
 average: '27.496666666666666'

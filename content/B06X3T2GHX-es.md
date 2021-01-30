@@ -16,6 +16,7 @@ comparePrice: 10.5 EUR
 prodname: 'REGALPRIX Alfombrilla para ratón Personalizada con tu Foto en Forma Rectangular'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06X3T2GHX/?tag=tolees-21'
 descuento: '38.95'
 average: '6.41'

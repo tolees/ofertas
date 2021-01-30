@@ -16,6 +16,7 @@ comparePrice: 35.88 EUR
 prodname: 'NIVEA MEN Active Clean Champú para hombre para una limpieza profunda del cabello y el cuero cabelludo  champú masculino refrescante -pack de 12 x 250 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BMCC3QN/?tag=tolees-21'
 descuento: '40.16'
 average: '21.47'

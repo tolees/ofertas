@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Razer Goliathus Cosmic Speed - Alfombrilla Gaming para ratón  Talla Grande  Color Verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LYV7U25/?tag=tolees-21'
 descuento: '43.98'
 average: '14.118333333333332'

@@ -16,6 +16,7 @@ comparePrice: 29.98 EUR
 prodname: 'Umi. Essentials - Auriculares de botón inalámbricos  TWS  W9 con Bluetooth 5.0 y certificación IPX7 compatibles con iPhone Samsung Huawei y Estuche con Base de Carga  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q7GG8BD/?tag=tolees-21'
 descuento: '28.05'
 average: '27.8775'

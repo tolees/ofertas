@@ -16,6 +16,7 @@ comparePrice: 3.18 EUR
 prodname: 'Gal Vaselina Neutra Perfumada - 13 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XAH7M24/?tag=tolees-21'
 descuento: '60.69'
 average: '1.25'

@@ -16,6 +16,7 @@ comparePrice: 130.0 EUR
 prodname: 'American Tourister Bon Air - Equipaje de mano  Rojo  Magma Red   M  66cm-57.5L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076CMDCNR/?tag=tolees-21'
 descuento: '42.31'
 average: '75.0'

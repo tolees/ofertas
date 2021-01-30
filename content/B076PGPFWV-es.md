@@ -16,6 +16,7 @@ comparePrice: 85.78 EUR
 prodname: 'Cooler Master MasterWatt 650 EU - Fuentes de alimentación  Semi-Fanless Modular  80 Plus Bronze  650W  MPX-6501-AMAAB-EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076PGPFWV/?tag=tolees-21'
 descuento: '30.05'
 average: '60.0'

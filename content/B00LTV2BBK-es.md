@@ -16,6 +16,7 @@ comparePrice: 52.02 EUR
 prodname: 'Crucial CT102464BF186D Memoria RAM de 8 GB   DDR3  1866 MT/s  PC3-14900  SODIMM  204-Pin '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00LTV2BBK/?tag=tolees-21'
 descuento: '38.50'
 average: '35.275000000000006'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Rugby 20 [versión española]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z76LJP1/?tag=tolees-21'
 descuento: '25.63'
 average: '33.156666666666666'

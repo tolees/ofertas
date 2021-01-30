@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Lee Scarlett Cropped  Jeans Mujer  Negro  Black Rinse   W26/L33  Talla del fabricante: 26 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MRJT65O/?tag=tolees-21'
 descuento: '77.70'
 average: '20.06'

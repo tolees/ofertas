@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Festina Reloj Multiesfera para Hombre de Cuarzo con Correa en Acero Inoxidable F20445/2'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RHYLNC2/?tag=tolees-21'
 descuento: '32.48'
 average: '61.230000000000004'

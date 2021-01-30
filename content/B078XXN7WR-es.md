@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'adidas SST Windbreaker Cortavientos  Hombre  AMATRI  XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078XXN7WR/?tag=tolees-21'
 descuento: '50.01'
 average: '39.97'

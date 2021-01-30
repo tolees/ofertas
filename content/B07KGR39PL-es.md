@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Sabrent Lector de Tarjetas USB 3.0 USB Tipo-C. El Lector de Tarjetas USB 3.0 y USB Tipo-C OTG Compatible con SD  SDHC  SDXC  MMC/MicroSD  T-Flash  CR-BCA2 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KGR39PL/?tag=tolees-21'
 descuento: '52.66'
 average: '8.99'

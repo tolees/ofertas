@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Corrector de Postura - Corrector de Espalda - Corrector Espalda Mujer - Corrector Espalda Hombre - Diseño Discreto'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WCW7FD5/?tag=tolees-21'
 descuento: '38.91'
 average: '10.99'

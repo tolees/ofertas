@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Joyspot Cuchillos Cocina  Patrón de Damasco Cuchillo Cocina Profesionales 20 cm  8 Pulgadas Cuchillo de Cocinero de Acero Inoxidable Alemán  Hoja Durable y Afilada para Verduras  Frutas y Carne …'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P7YRW91/?tag=tolees-21'
 descuento: '40.01'
 average: '23.99'

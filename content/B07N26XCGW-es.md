@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Riñonera con bandolera Pepe Jeans Bitmat Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N26XCGW/?tag=tolees-21'
 descuento: '28.98'
 average: '31.96'

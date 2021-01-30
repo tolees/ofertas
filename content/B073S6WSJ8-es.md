@@ -16,6 +16,7 @@ comparePrice: 46.99 EUR
 prodname: 'HOWADE Ajedrez 12 "x12 pulgadas juego de tablero de madera juego de ajedrez magnético hecho a mano piezas de ajedrez viajar juegos de mesa internacionales'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073S6WSJ8/?tag=tolees-21'
 descuento: '31.92'
 average: '31.99'

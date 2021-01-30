@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Merrell Moab 2 Lace Waterproof  Zapatillas Deportivas para Interior Unisex Niños  Gris  Grey/Periwinkle   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TXT82D1/?tag=tolees-21'
 descuento: '59.26'
 average: '26.48'

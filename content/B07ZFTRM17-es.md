@@ -16,6 +16,7 @@ comparePrice: 37.47 EUR
 prodname: 'Funda para iPad de 10 2 Pulgadas 2019 7ª generación  Uliking Premium Slim PU Piel Stand Flip Plegable Soporte Protector Smart Wallet Casos y Fundas para Apple 10 2 Pulgadas 2019 liberación #03 Cats'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZFTRM17/?tag=tolees-21'
 descuento: '41.13'
 average: '22.06'

@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Levi s Batwing Hoodie  Capucha Mujer  Gris  Sportswear Hoodie Smokestack Htr 0000   X-Small'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072M7TRPB/?tag=tolees-21'
 descuento: '34.63'
 average: '40.24'

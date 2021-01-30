@@ -16,6 +16,7 @@ comparePrice: 25.83 EUR
 prodname: '3 M 9312pro10 Máscara para mano lazos  10 unidades '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GTJ2Y2J/?tag=tolees-21'
 descuento: '29.97'
 average: '18.09'

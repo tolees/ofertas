@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Hangsun Irrigador Bucal Portátil de 300ml Irrigador Dental Profesional IPX7 Impermeable con 4 Boquillas y 3 Modos de Limpieza'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VQRDGXV/?tag=tolees-21'
 descuento: '30.01'
 average: '27.99'

@@ -16,6 +16,7 @@ comparePrice: 12.98 EUR
 prodname: 'PrimeMatik - Cubierta de Asiento de Coche. Funda Protectora para Perro y Mascota 135 x 130 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RB5VH7D/?tag=tolees-21'
 descuento: '37.98'
 average: '10.515'

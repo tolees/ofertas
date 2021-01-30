@@ -16,6 +16,7 @@ comparePrice: 119.95 EUR
 prodname: 'Salomon Speedcross 4  Zapatillas de Trail Running para Hombre  Negro/Amarillo  Black/Everglade/Sulphur Spring   46 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HD62OMA/?tag=tolees-21'
 descuento: '38.32'
 average: '75.24'

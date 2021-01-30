@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'PUMA VISTA  Zapatillas Unisex Adulto  Azul  Peacoat White/High Risk Red   38.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DC26MKL/?tag=tolees-21'
 descuento: '50.01'
 average: '33.5675'

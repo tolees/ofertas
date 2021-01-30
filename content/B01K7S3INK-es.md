@@ -16,6 +16,7 @@ comparePrice: 2.29 EUR
 prodname: 'Gillette Piel Sensible - Gel de Afeitado para Hombre 200 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01K7S3INK/?tag=tolees-21'
 descuento: '56.33'
 average: '1.05'

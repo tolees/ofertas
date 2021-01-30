@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Salomon Speedcross Bungee K  Zapatillas de Trail Running Unisex Niños  Verde  Green Gables/Icy Morn/Patina Green   29 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RFNHY9J/?tag=tolees-21'
 descuento: '29.29'
 average: '49.49'

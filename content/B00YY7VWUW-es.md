@@ -16,6 +16,7 @@ comparePrice: 9.5 EUR
 prodname: 'Max Factor Creme Puff Blush Colorete Tono 10 Nude Mauve - 30 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00YY7VWUW/?tag=tolees-21'
 descuento: '42.11'
 average: '5.086666666666667'

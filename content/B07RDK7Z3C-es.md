@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Luz del Sensor de Movimiento  LOFTer Luz de Armario de Batería Recargable 2200 mAh  Con 39 LED Súper Brillantes  Se Puede Pegar en Cualquier Gabinete  Luces de Escalera  Luz Nocturna'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RDK7Z3C/?tag=tolees-21'
 descuento: '37.51'
 average: '24.99'

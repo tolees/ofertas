@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Keten Alfombra Inflable con Agua  Tapete de PVC a Prueba de Fugas para Bebés  Centro de Actividades Divertidas para La Estimulación del Crecimiento de Su Bebé  40’’ x 32’’ '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S5CGC6Z/?tag=tolees-21'
 descuento: '30.78'
 average: '18.32333333333333'

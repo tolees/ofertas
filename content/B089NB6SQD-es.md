@@ -16,6 +16,7 @@ comparePrice: 45.53 EUR
 prodname: 'FirstE Altavoz Portátil Inalámbrico Bluetooth con Luz  Altavoz Bluetooth Ducha Impermeable IPX7  Sonido Estéreo  Micrófono  Altavoz Flotante Piscina para Bañera Hidromasaje SPA Fiesta Playa Viajes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089NB6SQD/?tag=tolees-21'
 descuento: '38.52'
 average: '27.99'

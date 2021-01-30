@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Casio Reloj de Pulsera BEM-116L-1AVEF'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0014FXFFW/?tag=tolees-21'
 descuento: '61.96'
 average: '45.46'

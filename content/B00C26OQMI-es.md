@@ -16,6 +16,7 @@ comparePrice: 67.55 EUR
 prodname: 'NRS Healthcare M66613 - Asiento para inodoro  altura ajustable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00C26OQMI/?tag=tolees-21'
 descuento: '37.82'
 average: '43.46'

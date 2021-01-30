@@ -16,6 +16,7 @@ comparePrice: 8.95 EUR
 prodname: 'L Oréal Paris Barra de labios líquida Infalible Lip Paint Mate tono 205'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NCM28HJ/?tag=tolees-21'
 descuento: '38.32'
 average: '5.776666666666666'

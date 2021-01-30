@@ -16,6 +16,7 @@ comparePrice: 1999.9 EUR
 prodname: 'Panasonic Lumix DC-GH5 - Cámara EVIL de 20.3 MP  Pantalla de 3.2"  Visor OLED  Estabilizador Dual I.S. 2 5 Ejes  4K  Wi-Fi  Bluetooth'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XXNVY97/?tag=tolees-21'
 descuento: '50.00'
 average: '1197.9666666666667'

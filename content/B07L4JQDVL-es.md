@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'Philips Batidora de mano ProMix HR2657/90 varilla  800 W  Acero inoxidable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L4JQDVL/?tag=tolees-21'
 descuento: '25.90'
 average: '77.475'

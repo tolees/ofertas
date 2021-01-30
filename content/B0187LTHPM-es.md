@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Ksix BXSW01 - SmartWatch  1.44"  TFT  Bluetooth   color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0187LTHPM/?tag=tolees-21'
 descuento: '42.58'
 average: '18.768'

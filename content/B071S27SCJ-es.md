@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'Cinta Métrica - Fléxometro 20M /66 FT de doble cara  mm y Pulgadas  en Fibra de Vidrio. Profesional'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071S27SCJ/?tag=tolees-21'
 descuento: '33.36'
 average: '7.99'

@@ -16,6 +16,7 @@ comparePrice: 349.0 EUR
 prodname: 'LG Cinebeam Ph150G - Proyector con Batería Integrada hasta 100"  Autonomía 2.5 Horas  Fuente Led  130 Lúmenes  1280 X 720  Color Blanco y Dorado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LAV6PF6/?tag=tolees-21'
 descuento: '28.65'
 average: '238.14749999999998'

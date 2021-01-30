@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Hode Papel Adhesivo para Muebles Puerta Pared Cocina Papel Pintado Imitacion Decorativo Panel Madera Vintage Vinilos Decorativos Madera Blanco 45X300cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MMLB9QY/?tag=tolees-21'
 descuento: '53.87'
 average: '11.99'

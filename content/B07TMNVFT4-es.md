@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Superdry Core Logo Tag Hood Capucha  Blanco  Optic 01c   M para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TMNVFT4/?tag=tolees-21'
 descuento: '61.78'
 average: '30.57'

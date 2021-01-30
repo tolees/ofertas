@@ -16,6 +16,7 @@ comparePrice: 119.95 EUR
 prodname: 'PUMA Source Mid Buzzer  Zapatillas Altas Unisex Adulto  White-Yellow Alert-High Rise  40.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KFY34B4/?tag=tolees-21'
 descuento: '80.09'
 average: '29.616666666666667'

@@ -16,6 +16,7 @@ comparePrice: 75.48 EUR
 prodname: 'Tommy Hilfiger AILA Slim Polo SS  Azul  Desert Sky Dw5   40  Talla del Fabricante: Large  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VMWGQQ7/?tag=tolees-21'
 descuento: '48.33'
 average: '39.0'

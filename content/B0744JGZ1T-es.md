@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Altavoz Bluetooth Portatil  COMISO Ture Wireless Estereo 12W Subwoofer Inalambrico Portatil con Radiador Pasivo  Altavoz Bluetooth Impermeable con 20 Horas de Emision Continua  Gris oscuro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0744JGZ1T/?tag=tolees-21'
 descuento: '72.23'
 average: '24.99'

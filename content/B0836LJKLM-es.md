@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Lifewit 24can Nevera Portatil Bolsa Térmica Comida Doble Capa Porta Alimentos de Refrigeración Aislamiento Bolsa con Correa Ajustable para Picnics  Playa  Soporte  Camping  Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0836LJKLM/?tag=tolees-21'
 descuento: '30.01'
 average: '27.99'

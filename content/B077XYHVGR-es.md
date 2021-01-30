@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Superga 2730-cotropew  Zapatillas de Gimnasia para Mujer  Negro  Black 999   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077XYHVGR/?tag=tolees-21'
 descuento: '30.07'
 average: '52.45'

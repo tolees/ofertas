@@ -16,6 +16,7 @@ comparePrice: 123.98 EUR
 prodname: 'Dolce & Gabbana The One Essence De Parfum  65ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0146L8IGG/?tag=tolees-21'
 descuento: '47.49'
 average: '64.7525'

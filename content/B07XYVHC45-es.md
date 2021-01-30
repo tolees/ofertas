@@ -16,6 +16,7 @@ comparePrice: 61.87 EUR
 prodname: 'Veehoo Plegable Transportín para Perros  Blando  Caja para Mascotas abatible  transportable y Suave'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XYVHC45/?tag=tolees-21'
 descuento: '61.81'
 average: '23.63'

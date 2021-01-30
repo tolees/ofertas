@@ -16,6 +16,7 @@ comparePrice: 33.44 EUR
 prodname: 'Arcos Universal - Macheta  160 mm  f.hoja '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007TS68BG/?tag=tolees-21'
 descuento: '25.39'
 average: '21.953999999999997'

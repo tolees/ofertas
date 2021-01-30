@@ -16,6 +16,7 @@ comparePrice: 61.99 EUR
 prodname: 'Utawarerumono: ZAN - Unmasked Edition'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RDL8VBW/?tag=tolees-21'
 descuento: '43.36'
 average: '43.897999999999996'

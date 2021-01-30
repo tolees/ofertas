@@ -16,6 +16,7 @@ comparePrice: 19.66 EUR
 prodname: 'Suavinex Biberon 302.845 Bipack'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01AUXVFU0/?tag=tolees-21'
 descuento: '64.50'
 average: '6.98'

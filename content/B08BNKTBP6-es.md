@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Reutilizables y Lavables Antipolvo CALIDAD MEJORADA - 1 Unidad -  AZUL '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BNKTBP6/?tag=tolees-21'
 descuento: '50.03'
 average: '9.99'

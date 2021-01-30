@@ -16,6 +16,7 @@ comparePrice: 224.95 EUR
 prodname: 'Oral-B Genius Edición Especial Cepillo Eléctrico Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PQSZG7C/?tag=tolees-21'
 descuento: '64.44'
 average: '83.09631578947368'

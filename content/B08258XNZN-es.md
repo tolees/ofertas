@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'Baker Ross Kits de Costura de Madera Flores  paquete de 4  - Artes y manualidades para niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08258XNZN/?tag=tolees-21'
 descuento: '48.16'
 average: '4.66'

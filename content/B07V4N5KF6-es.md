@@ -16,6 +16,7 @@ comparePrice: 124.9 EUR
 prodname: 'Tommy Hilfiger Corporate Flatform Sneaker  Zapatillas para Mujer  Azul  Desert Sky Dw5   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V4N5KF6/?tag=tolees-21'
 descuento: '70.50'
 average: '40.69'

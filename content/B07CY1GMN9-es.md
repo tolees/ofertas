@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Belkin - Cable de Audio de 3 5 mm con Conector Lightning  Cable de Lightning a Auxiliar para iPhone 11  11 Pro  11 Pro Max  XS  XS Max  XR  X  8/8 Plus  certificación MFi  90 cm  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CY1GMN9/?tag=tolees-21'
 descuento: '27.01'
 average: '20.415000000000003'

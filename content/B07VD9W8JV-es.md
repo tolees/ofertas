@@ -16,6 +16,7 @@ comparePrice: 12.95 EUR
 prodname: 'YAMAMAY® Bañador brasileño – Essentials'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VD9W8JV/?tag=tolees-21'
 descuento: '49.96'
 average: '6.48'

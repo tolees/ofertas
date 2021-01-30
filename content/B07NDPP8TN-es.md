@@ -16,6 +16,7 @@ comparePrice: 179.95 EUR
 prodname: 'G-STAR RAW Xpo Raincoat Impermeable  Azul  Mazarine Blue 4213   XX-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDPP8TN/?tag=tolees-21'
 descuento: '85.81'
 average: '25.54'

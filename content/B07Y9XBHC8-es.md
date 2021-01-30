@@ -16,6 +16,7 @@ comparePrice: 150.0 EUR
 prodname: 'María Barceló Sneaker Alta Piel Blanco Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y9XBHC8/?tag=tolees-21'
 descuento: '54.67'
 average: '67.99'

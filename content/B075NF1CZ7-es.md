@@ -16,6 +16,7 @@ comparePrice: 51.99 EUR
 prodname: 'VEENAX HS3 Auriculares Inalámbricos Over-Ear  Altavoz Portátil  Cascos Bluetooth Deportivos & Altavoz en uno  Audífonos Estéreo con Micrófono NFC y Bajos para iPhone Smartphone MP3 Tablet MP3  Plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075NF1CZ7/?tag=tolees-21'
 descuento: '45.93'
 average: '32.82571428571429'

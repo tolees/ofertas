@@ -16,6 +16,7 @@ comparePrice: 75.99 EUR
 prodname: 'AWESAFE GPS para Coches con 5 Pulgadas Pantalla LCD  Navegador GPS para Coche y Camión con Actualizaciones de Mapas para Toda la Vida'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M615FVR/?tag=tolees-21'
 descuento: '39.48'
 average: '50.65666666666667'

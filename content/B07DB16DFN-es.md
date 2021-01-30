@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'adidas Samba OG J  Zapatillas Unisex Niños  Blanco  Footwear White/Core Black/Clear Granite 0   38 2/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DB16DFN/?tag=tolees-21'
 descuento: '46.13'
 average: '34.99'

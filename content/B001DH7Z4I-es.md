@@ -16,6 +16,7 @@ comparePrice: 23.55 EUR
 prodname: 'Dremel SC545 Disco de Corte de Diamante EZ SpeedClic  Diámentro de 38mm  Accesorios para Multiherramientas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001DH7Z4I/?tag=tolees-21'
 descuento: '40.59'
 average: '16.445'

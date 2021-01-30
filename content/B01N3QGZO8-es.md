@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Skechers Street Squad  Zapatillas sin Cordones para Niñas  Negro  Black/Hot Pink   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N3QGZO8/?tag=tolees-21'
 descuento: '63.86'
 average: '18.05'

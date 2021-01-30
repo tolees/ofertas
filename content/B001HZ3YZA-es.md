@@ -16,6 +16,7 @@ comparePrice: 53.55 EUR
 prodname: 'Grundig MA 5820 - Set de manicura y pedicura  eléctrico '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001HZ3YZA/?tag=tolees-21'
 descuento: '47.36'
 average: '28.19'

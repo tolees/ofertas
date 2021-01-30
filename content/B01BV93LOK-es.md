@@ -16,6 +16,7 @@ comparePrice: 16.47 EUR
 prodname: 'Diadermine Lift + Tagescreme Súper relleno  Paquete 1er  1 x 50 ml '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BV93LOK/?tag=tolees-21'
 descuento: '41.23'
 average: '9.68'

@@ -16,6 +16,7 @@ comparePrice: 6.99 EUR
 prodname: 'Star Wars: The Last Jedi  Digi Limitada '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0758KSWZK/?tag=tolees-21'
 descuento: '44.64'
 average: '3.87'

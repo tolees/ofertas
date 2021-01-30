@@ -16,6 +16,7 @@ comparePrice: 24.96 EUR
 prodname: 'Tencoz Spray Mop  Mopa con Pulverizador  Fregona con Vaporizador  Mopa Spray Rotación de 360°  Capacidad de 300 ML con 4 Trapeadores y Raspador de Ventana para Ventanas  Pisos  Azulejos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089LLW9PV/?tag=tolees-21'
 descuento: '35.46'
 average: '16.11'

@@ -16,6 +16,7 @@ comparePrice: 8.76 EUR
 prodname: 'Instituto Español Bebe Gel de Baño sin Jabón - 500 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075HLZ9D9/?tag=tolees-21'
 descuento: '48.74'
 average: '4.49'

@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'adidas MTS Co Relax Tracksuit  Hombre  Active Maroon/Black/White  M/S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SJZGDZR/?tag=tolees-21'
 descuento: '49.99'
 average: '39.98'

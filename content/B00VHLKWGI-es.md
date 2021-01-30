@@ -16,6 +16,7 @@ comparePrice: 21.24 EUR
 prodname: '1/12 Casa De Munecas Muebles En Miniatura Nevera Refrigerador'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00VHLKWGI/?tag=tolees-21'
 descuento: '44.44'
 average: '11.3076'

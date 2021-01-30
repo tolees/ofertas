@@ -16,6 +16,7 @@ comparePrice: 7.95 EUR
 prodname: 'Revlon ColorStay Delineador de Ojos  Brown '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00MDH21JG/?tag=tolees-21'
 descuento: '74.97'
 average: '3.41'

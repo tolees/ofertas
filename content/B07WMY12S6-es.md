@@ -16,6 +16,7 @@ comparePrice: 3.75 EUR
 prodname: 'Syoss Acondicionador Hidratación+  500 ml  Pack de 1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WMY12S6/?tag=tolees-21'
 descuento: '49.60'
 average: '2.5592307692307696'

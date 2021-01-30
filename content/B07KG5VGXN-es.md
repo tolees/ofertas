@@ -16,6 +16,7 @@ comparePrice: 69.7 EUR
 prodname: 'Lijadora Orbital  Meterk Lijadora Eléctrica  300W 12000RPM  6 Velocidades Ajustables  12 Lijas  6 x 80 granos & 6 × 180 granos   Caja de Recogida de Polvo  Cable de 2 Metros'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KG5VGXN/?tag=tolees-21'
 descuento: '51.23'
 average: '31.990000000000002'

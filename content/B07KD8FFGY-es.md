@@ -16,6 +16,7 @@ comparePrice: 39.05 EUR
 prodname: 'Nike M NSW Club Hoodie FZ BB Sweatshirt  Hombre  Midnight Navy/Midnight Navy/ White   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KD8FFGY/?tag=tolees-21'
 descuento: '28.55'
 average: '27.9'

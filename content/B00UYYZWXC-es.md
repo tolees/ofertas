@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'HOMCOM Remolque para Niños DOS PLAZAS con Amortiguadores Carro para Bicicleta CON BARRA INCLUIDA y Kit de Footing COLOR VERDE y NEGRO'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00UYYZWXC/?tag=tolees-21'
 descuento: '30.04'
 average: '90.94'

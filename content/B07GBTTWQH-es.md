@@ -16,6 +16,7 @@ comparePrice: 32.11 EUR
 prodname: 'Alsoar - Carcasa de Repuesto para Galaxy S6 Edge Clear View  con Espejo y función Atril'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GBTTWQH/?tag=tolees-21'
 descuento: '59.76'
 average: '12.92'

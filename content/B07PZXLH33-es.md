@@ -16,6 +16,7 @@ comparePrice: 899.0 EUR
 prodname: 'Lenovo Ideapad 530S-14IKB  Ordenador Portátil Full HD  Intel Core i5-8250U  RAM de 8GB  512GB SSD  Intel UHD Graphics 620  - Teclado QWERTY Español  SATA  Intel  Windows 10  14"'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PZXLH33/?tag=tolees-21'
 descuento: '25.47'
 average: '663.693'

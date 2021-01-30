@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Huggies Pull-Ups - Calzoncillos de aprendizaje para niños  talla S  8-15 kg   29 calzoncillos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004QQSGJG/?tag=tolees-21'
 descuento: '46.11'
 average: '7.0'

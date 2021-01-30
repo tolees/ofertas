@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'adidas Falcon W - Zapatillas para Mujer  Blanco  38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F2ZZ8J2/?tag=tolees-21'
 descuento: '27.96'
 average: '71.12333333333333'

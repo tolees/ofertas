@@ -16,6 +16,7 @@ comparePrice: 279.0 EUR
 prodname: 'Insta360 Nano S - Videocámara 3D VR Compacta  Cámara HD 4K 360°  Foto de 20 Megapíxeles  Compatible con iPhone X/8/7/6 Series  Estabilización Integrada  Micrófono Integrado  con Lightning - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078PHMRYD/?tag=tolees-21'
 descuento: '53.76'
 average: '116.88499999999999'

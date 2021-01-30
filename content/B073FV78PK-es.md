@@ -16,6 +16,7 @@ comparePrice: 11.0 EUR
 prodname: 'Max Factor Healthy Skin Harmony Base de Maquillaje Tono 77 Soft Honey - 146 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073FV78PK/?tag=tolees-21'
 descuento: '73.18'
 average: '2.95'

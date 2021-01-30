@@ -16,6 +16,7 @@ comparePrice: 13.2 EUR
 prodname: 'Haribo - Flautas Nata-Fresa - Geles Dulces - 1.6 kg'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XAPDW48/?tag=tolees-21'
 descuento: '34.17'
 average: '8.37'

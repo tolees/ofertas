@@ -16,6 +16,7 @@ comparePrice: 699 EUR
 prodname: 'Tamron B011S AF 18-200 mm F/3 5-6.3 - Objetivo para Sony/Minolta  distancia focal 18-200mm  apertura f/3.5-6 3  estabilizador óptico  macro  diámetro: 62mm  negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B006IM0FXG/?tag=tolees-21'
 descuento: '25.39'
 average: '521.5'

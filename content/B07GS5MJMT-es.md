@@ -16,6 +16,7 @@ comparePrice: 7.22 EUR
 prodname: 'Rimmel London Match Perfection Foundation Base de Maquillaje Tono 502 Caramel - 30 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GS5MJMT/?tag=tolees-21'
 descuento: '45.43'
 average: '3.94'

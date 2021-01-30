@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'Elerose HD 1080P Mini cámara 12MP 140 Degree Gran Angular Sport CAM con Infrarrojos Night Vision Motion Monitoring para el hogar  Oficina  al Aire Libre Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GXK4KVK/?tag=tolees-21'
 descuento: '40.87'
 average: '7.09'

@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Tommy Hilfiger H2285arlow 1d  Zapatillas para Hombre  Blanco  White   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MXPHEQN/?tag=tolees-21'
 descuento: '43.29'
 average: '33.97'

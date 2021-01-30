@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Máscara para adultos N95 / FFP2  paquete de 10 unidades  filtración premium de 5 capas para protección de boca e nariz y antipolvo seguridad y cuidado de su salud'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CVJG444/?tag=tolees-21'
 descuento: '89.64'
 average: '2.59'

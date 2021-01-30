@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'G-Star Raw Bronson  Pantalones Para Hombre  Beige  Dune 1794   W28/L34'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BGTOFH2/?tag=tolees-21'
 descuento: '60.46'
 average: '39.52'

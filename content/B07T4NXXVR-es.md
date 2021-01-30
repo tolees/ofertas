@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'OrgaWise Neceser Maquillaje Impermeable de Gran Capacidad con Gancho Colgante  Viaje Camping Cosas Necesarias  Envía un Lindo Neceser Viaje Pequeño'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T4NXXVR/?tag=tolees-21'
 descuento: '45.02'
 average: '10.99'

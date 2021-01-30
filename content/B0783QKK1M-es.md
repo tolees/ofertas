@@ -16,6 +16,7 @@ comparePrice: 20.93 EUR
 prodname: 'MagiDeal 4 Pedazos de Tren de Aterrizaje Accesorio Deportivo Compatible con X4 H501S H501C - Oro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0783QKK1M/?tag=tolees-21'
 descuento: '44.43'
 average: '11.63'

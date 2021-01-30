@@ -16,6 +16,7 @@ comparePrice: 10.0 EUR
 prodname: 'Under Armour  UNDKU Heatgear Locut Calcetines  Unisex adulto  Negro  MD'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QWNDTXG/?tag=tolees-21'
 descuento: '34.10'
 average: '6.59'

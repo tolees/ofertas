@@ -16,6 +16,7 @@ comparePrice: 11.2 EUR
 prodname: 'Bourjois Smokey Stories Sombra de ojos Tono nr.12 - 39.5 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BMKTYLW/?tag=tolees-21'
 descuento: '75.89'
 average: '4.205'

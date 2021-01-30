@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Dickies Slim Fit Straight - Pantalones para hombre  Beige  Caqui   W36/L34'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002XFI8XQ/?tag=tolees-21'
 descuento: '68.76'
 average: '17.18'

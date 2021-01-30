@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'JACK & JONES Jjeholmen Sweat Hood Noos  Capucha Hombre  Negro  Black Fit:Reg Fit   X-Small'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CCJJ95V/?tag=tolees-21'
 descuento: '40.02'
 average: '17.94'

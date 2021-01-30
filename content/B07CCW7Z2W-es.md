@@ -16,6 +16,7 @@ comparePrice: 25.42 EUR
 prodname: 'Marca Amazon - Presto! Suavizante concentrado azul  360 lavados  6 Packs  60 cada uno '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CCW7Z2W/?tag=tolees-21'
 descuento: '53.66'
 average: '11.78'

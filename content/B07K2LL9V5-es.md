@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'adidas Runfalcon  Zapatillas de Trail Running para Mujer  Blanco  FTWR White/FTWR White/Core Black   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K2LL9V5/?tag=tolees-21'
 descuento: '49.99'
 average: '24.98'

@@ -16,6 +16,7 @@ comparePrice: 6.99 EUR
 prodname: 'Novex Aceite de Oliva Mascarilla Capilar - 400g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071FMVJGW/?tag=tolees-21'
 descuento: '56.51'
 average: '3.04'

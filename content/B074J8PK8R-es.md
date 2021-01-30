@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'CLOCOLOR Halloween Cosplay Peluca de Pelo Natural Largo Rizado para Mujer Cosplay Fiesta Peluca de Disfraz Peluca de Colores Disfraz Brillante Verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074J8PK8R/?tag=tolees-21'
 descuento: '66.68'
 average: '19.99'

@@ -16,6 +16,7 @@ comparePrice: 19.0 EUR
 prodname: 'Garnier Delial Protector Solar en Spray para Niños  Alta Protección IP50+ - 300 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00X9TTEQA/?tag=tolees-21'
 descuento: '57.95'
 average: '10.009374999999999'

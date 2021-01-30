@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'GANT MD. Extrafine Lambswool V-Neck suéter  Marrón  Dk. Burgundy Mel 678   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MCVF2WT/?tag=tolees-21'
 descuento: '55.00'
 average: '51.96'

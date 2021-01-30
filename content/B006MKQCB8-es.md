@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Kit-Kat White'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B006MKQCB8/?tag=tolees-21'
 descuento: '31.26'
 average: '16.49'

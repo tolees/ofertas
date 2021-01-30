@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'LK [3 Pack] Protector de Pantalla para iPhone 11 / iPhone XR  6.1    Cristal Templado  [9H Dureza] [Marco Instalación Fácil] Vidrio Templado Screen Protector Pantalla iPhone 6.1 Pulgadas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V4CWBD5/?tag=tolees-21'
 descuento: '71.46'
 average: '4.99'

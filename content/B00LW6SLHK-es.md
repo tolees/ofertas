@@ -16,6 +16,7 @@ comparePrice: 6.14 EUR
 prodname: 'Dove jabón crema Sensitive Hypoallergenic jabón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00LW6SLHK/?tag=tolees-21'
 descuento: '67.43'
 average: '2.0'

@@ -16,6 +16,7 @@ comparePrice: 13.9 EUR
 prodname: 'TABAIBA Aloe Vera Gel  Gel con Aloe Vera  150 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CCRD39I/?tag=tolees-21'
 descuento: '50.00'
 average: '6.95'

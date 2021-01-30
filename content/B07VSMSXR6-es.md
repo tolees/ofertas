@@ -16,6 +16,7 @@ comparePrice: 74.99 EUR
 prodname: 'IPL Depiladora de Luz Pulsada  Láser de Depilación Permanente para Cuerpo y Cara Dispositivo Láser Profesional sin Dolor para el Hogar  P113-Blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VSMSXR6/?tag=tolees-21'
 descuento: '35.20'
 average: '48.59'

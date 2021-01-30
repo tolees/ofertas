@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'CHIKA10 City 12 Zapatillas Deportivas Mujer  Plateado  Plata/Silver   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084HLGSH4/?tag=tolees-21'
 descuento: '30.02'
 average: '13.99'

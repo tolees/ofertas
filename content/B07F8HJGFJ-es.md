@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Superdry Sweat Shirt Shop Duo Hood suéter  Gris  Ice Marl 54G   S para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F8HJGFJ/?tag=tolees-21'
 descuento: '40.01'
 average: '47.99'

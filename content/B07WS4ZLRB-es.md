@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'EACLL Bombillas LED GU10 4000K Blanco Neutro 5W 535 Lúmenes Equivalente 50W Halógena Lámpara. 120 ° Luz Blanca Neutra natural Spotlight  6 Pack'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WS4ZLRB/?tag=tolees-21'
 descuento: '31.32'
 average: '13.73'

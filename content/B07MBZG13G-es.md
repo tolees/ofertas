@@ -16,6 +16,7 @@ comparePrice: 31.45 EUR
 prodname: 'LEVIS FOOTWEAR AND ACCESSORIES - The Levi s® L Pack Standard Issue Colorblock  Hombre  Negro  Noir   13x26x41 cm  W x H L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MBZG13G/?tag=tolees-21'
 descuento: '33.83'
 average: '20.81'

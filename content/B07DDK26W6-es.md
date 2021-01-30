@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'TOUS Shopping Sherton de Piel en color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DDK26W6/?tag=tolees-21'
 descuento: '30.00'
 average: '139.3'

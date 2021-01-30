@@ -16,6 +16,7 @@ comparePrice: 11.59 EUR
 prodname: 'Zerone Mini Altavoz Bluetooth Wireless portátil  estéreo Música Audio Altavoz FM Radio Apoyo TF Tarjeta USB Cable Indoor Outdoor Actividades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CL1LYT3/?tag=tolees-21'
 descuento: '46.59'
 average: '6.19'

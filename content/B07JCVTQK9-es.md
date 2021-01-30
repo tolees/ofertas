@@ -16,6 +16,7 @@ comparePrice: 66.0 EUR
 prodname: 'CATWALK COLLECTION - Pequeña Mensajero/Bolso Bandolera/Cuerpo Cruzado - iPhone/Kindle - SABINE - Cuero Desgastado - Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JCVTQK9/?tag=tolees-21'
 descuento: '39.47'
 average: '39.95'

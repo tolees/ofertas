@@ -16,6 +16,7 @@ comparePrice: 101.0 EUR
 prodname: 'Nike Air MAX Invigor  Zapatillas para Hombre  Blanco  White/Black 100   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XWOZLAA/?tag=tolees-21'
 descuento: '28.71'
 average: '72.0'

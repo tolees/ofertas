@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'TY- Beanie Boo s Mandy Poodle  caniche  Color azul  23 cm  United Labels Ibérica 37263TY    color/modelo surtido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07453GKTX/?tag=tolees-21'
 descuento: '46.19'
 average: '6.99'

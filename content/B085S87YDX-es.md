@@ -16,6 +16,7 @@ comparePrice: 269.99 EUR
 prodname: 'Synology DiskStation DS220j - Servidor NAS  4 TB  2 bahías y 2 Discos Duros de 2 TB '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085S87YDX/?tag=tolees-21'
 descuento: '33.33'
 average: '179.99'

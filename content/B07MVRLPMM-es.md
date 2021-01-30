@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'HP Z3700 - Ratón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MVRLPMM/?tag=tolees-21'
 descuento: '25.01'
 average: '15.79'

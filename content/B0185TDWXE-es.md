@@ -16,6 +16,7 @@ comparePrice: 39.0 EUR
 prodname: 'Tuc Tuc 03591 - Bolsa  colgadores y bandolera  color gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0185TDWXE/?tag=tolees-21'
 descuento: '41.97'
 average: '22.886666666666667'

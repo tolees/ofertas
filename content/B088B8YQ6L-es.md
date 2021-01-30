@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Docooler USB Webcam HD Web CAM Cámara Web Digital con Clip con micrófono para computadora portátil PC'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088B8YQ6L/?tag=tolees-21'
 descuento: '39.15'
 average: '13.99'

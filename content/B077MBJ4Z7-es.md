@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Levi s Big Batwing Flex Fit Gorra  Azul  Navy Blue 17   única  Talla del Fabricante: UN  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077MBJ4Z7/?tag=tolees-21'
 descuento: '40.20'
 average: '13.45'

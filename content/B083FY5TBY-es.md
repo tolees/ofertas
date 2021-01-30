@@ -16,6 +16,7 @@ comparePrice: 20.74 EUR
 prodname: 'BEFANS Kit de Barra de Pilates portátil con Banda de Resistencia para Yoga  Pilates  Yoga  Pilates  Barra de Ejercicio con Lazo para el pie para Yoga  Estiramiento  Esculpir y Sentarse  1 Morado.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083FY5TBY/?tag=tolees-21'
 descuento: '49.86'
 average: '12.935'

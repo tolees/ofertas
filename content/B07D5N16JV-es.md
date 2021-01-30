@@ -16,6 +16,7 @@ comparePrice: 34.92 EUR
 prodname: 'Cipriata Valentina - Deportivas con Cordones y Cremallera para Chica Mujer  42 EU   Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D5N16JV/?tag=tolees-21'
 descuento: '49.31'
 average: '17.7'

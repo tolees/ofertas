@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'EACLL Bombillas LED GU10 6000K Blanco Frio 5W 535 Lúmenes Equivalente 50W Halógena Lámpara. 120 ° Luz Diurna Blanca Fría Spotlight LED  6 Pack'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085C2HBW9/?tag=tolees-21'
 descuento: '31.32'
 average: '13.73'

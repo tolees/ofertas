@@ -16,6 +16,7 @@ comparePrice: 31.23 EUR
 prodname: 'Luchild Saco de Invierno Universal para Cochecito y Silla de Paseo - Protección Antideslizante  Forro Polar térmico Deluxe  Capucha Tipo Momia'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZYHMM6S/?tag=tolees-21'
 descuento: '35.99'
 average: '19.99'

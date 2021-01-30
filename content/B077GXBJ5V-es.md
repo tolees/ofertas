@@ -16,6 +16,7 @@ comparePrice: 399.95 EUR
 prodname: 'Medisana RC 410 Sillón de Relax con función de Masaje Shiatsu  sillón de Masaje con función de Calor  Masaje de Puntos  sillón de Columpio con Factor de Bienestar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077GXBJ5V/?tag=tolees-21'
 descuento: '37.56'
 average: '249.71'

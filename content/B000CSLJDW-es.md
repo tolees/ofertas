@@ -16,6 +16,7 @@ comparePrice: 149.0 EUR
 prodname: 'ghd original - Plancha de pelo profesional  tecnología cerámica'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000CSLJDW/?tag=tolees-21'
 descuento: '26.85'
 average: '107.47384615384615'

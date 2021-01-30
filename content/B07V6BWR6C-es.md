@@ -16,6 +16,7 @@ comparePrice: 22.73 EUR
 prodname: 'BOSS Schino-Slim D Pantalones  Verde  Medium Green 311   W32/L32  Talla del Fabricante: 3232  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V6BWR6C/?tag=tolees-21'
 descuento: '27.36'
 average: '16.51'

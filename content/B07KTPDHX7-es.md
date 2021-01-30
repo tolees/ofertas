@@ -16,6 +16,7 @@ comparePrice: 139.0 EUR
 prodname: 'Lacoste Reloj de Pulsera 2011006'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KTPDHX7/?tag=tolees-21'
 descuento: '30.00'
 average: '97.3'

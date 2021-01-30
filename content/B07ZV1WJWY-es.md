@@ -16,6 +16,7 @@ comparePrice: 16.24 EUR
 prodname: 'Rosendo - Mi Tiempo Señorías… 2CD+DVD '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZV1WJWY/?tag=tolees-21'
 descuento: '44.64'
 average: '8.99'

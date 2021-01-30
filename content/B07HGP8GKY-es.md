@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Adidas Continental 80 J  Zapatillas de Deporte Unisex niño  Negro  Negbás/Escarl/Maruni 000   37.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HGP8GKY/?tag=tolees-21'
 descuento: '43.88'
 average: '36.45'

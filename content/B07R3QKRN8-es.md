@@ -16,6 +16,7 @@ comparePrice: 20 EUR
 prodname: 'Yizhet Adaptador de Red USB Super Velocidad USB C to RJ45 10/100/1000MGigabit Ethernet para PC o Portátiles de Mac OS Tipo C Adaptador de Red Network Cable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R3QKRN8/?tag=tolees-21'
 descuento: '55.05'
 average: '8.99'

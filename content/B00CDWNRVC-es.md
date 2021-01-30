@@ -16,6 +16,7 @@ comparePrice: 9.9 EUR
 prodname: 'Roger & Gallet 65882 - Gel de ducha  200 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00CDWNRVC/?tag=tolees-21'
 descuento: '54.85'
 average: '4.47'

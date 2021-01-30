@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Pack Conan 1+2¿ Black Metal Edition Blu-Ray [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HPZVBR8/?tag=tolees-21'
 descuento: '31.27'
 average: '9.495000000000001'

@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Bolsas Reutilizables PEVA 15 Pack  KEEHOM Bolsa Congelación con Cremallera sin BPA para Almacenamiento de Alimentos  Bolsas de Conservación  para Fruta Sándwich Verdura  Viaje y Organización de Cocina'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08HLYQKYX/?tag=tolees-21'
 descuento: '25.01'
 average: '14.99'

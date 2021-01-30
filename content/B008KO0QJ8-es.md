@@ -16,6 +16,7 @@ comparePrice: 31.13 EUR
 prodname: 'Monix Manila - Set de 24 piezas de acero inox 18/10 con chuletero  color gris  6 comensales '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B008KO0QJ8/?tag=tolees-21'
 descuento: '26.15'
 average: '22.99'

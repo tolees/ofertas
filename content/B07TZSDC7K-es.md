@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Samsonite Disney Ultimate 2.0 - Maleta Infantil  46.5 cm  20.5 l  Azul  Toy Story Take-Off '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TZSDC7K/?tag=tolees-21'
 descuento: '27.42'
 average: '71.85'

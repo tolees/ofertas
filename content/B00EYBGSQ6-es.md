@@ -16,6 +16,7 @@ comparePrice: 52.5 EUR
 prodname: 'Invicta'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00EYBGSQ6/?tag=tolees-21'
 descuento: '40.48'
 average: '31.25'

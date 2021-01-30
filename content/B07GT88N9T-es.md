@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Desigual - Bag Clio London Women  Shoppers y bolsos de hombro Mujer  Blanco  Crudo   15.5x25.5x32 cm  B x H T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GT88N9T/?tag=tolees-21'
 descuento: '44.15'
 average: '40.24666666666667'

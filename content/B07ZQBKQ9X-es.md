@@ -16,6 +16,7 @@ comparePrice: 50 EUR
 prodname: 'TICTID Raspberry Pi 4 Accesorios Caja para Raspberry Pi 4 con Ventilador de enfriamiento  Adaptador USB-C de 5V 3A  3 Disipador Térmico  Caja Negra Compatible con Raspberry Pi 4 Modelo B'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZQBKQ9X/?tag=tolees-21'
 descuento: '60.02'
 average: '19.99'

@@ -16,6 +16,7 @@ comparePrice: 26.87 EUR
 prodname: 'Dim Soutien-Gorge Sans Armature Invisififree Sujetador sin Aros  Negro  Noir 0Hz   90B para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J3QVWC8/?tag=tolees-21'
 descuento: '55.34'
 average: '12'

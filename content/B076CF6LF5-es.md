@@ -16,6 +16,7 @@ comparePrice: 23.59 EUR
 prodname: 'BRTLX Tira LED RGB LED Luz de Atmósfera del Interior de Coche 12V 4 x 9 LED Bombillas Activación de Sonido Decoración Kit de Iluminación con Control Remoto'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076CF6LF5/?tag=tolees-21'
 descuento: '44.93'
 average: '12.99'

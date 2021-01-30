@@ -16,6 +16,7 @@ comparePrice: 2.52 EUR
 prodname: 'Calvo Atun Claro en Aceite de Girasol - Pack de 3 x 80 g - Total: 240 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01K7QXDRI/?tag=tolees-21'
 descuento: '60.32'
 average: '1.0'

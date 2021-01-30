@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'FIRENZE ARTEGIANI.Bolso de Mujer Piel auténtica.Bolso de Mano Mujer Cuero Genuino Gamuza Grabado Motivo Trenzado en Espiga y Lacado. Made IN Italy. Vera Pelle Italiana. 23x15x4 cm. Color: Marron'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077MFBNWS/?tag=tolees-21'
 descuento: '71.26'
 average: '22.99'

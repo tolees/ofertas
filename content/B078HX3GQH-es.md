@@ -16,6 +16,7 @@ comparePrice: 39.0 EUR
 prodname: 'Tommy Hilfiger Painted Flag Loop 4.0 Cinturón  Marrón  Testi Di Moro 254   105  Talla del fabricante: 90  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078HX3GQH/?tag=tolees-21'
 descuento: '29.62'
 average: '27.45'

@@ -16,6 +16,7 @@ comparePrice: 24.0 EUR
 prodname: 'KiplingGleam SMujerMonederosNegro  Charcoal  14x9.5x5.5 Centimeters  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TTPF46T/?tag=tolees-21'
 descuento: '64.42'
 average: '8.54'

@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'Tescoma Grandchef Grasera  Acero Inoxidable  Gris  13 5 x 9 81 x 11 9 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MZZ13OT/?tag=tolees-21'
 descuento: '31.66'
 average: '13.6'

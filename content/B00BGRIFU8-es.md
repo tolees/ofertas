@@ -16,6 +16,7 @@ comparePrice: 30.2 EUR
 prodname: 'Mega Grúa de 100cm por cable  Dickie 3462411 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BGRIFU8/?tag=tolees-21'
 descuento: '28.91'
 average: '21.47'

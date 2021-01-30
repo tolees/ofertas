@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'Raid - Recambio para Difusor Eléctrico Anti Mosquitos Comunes y Tigre 135 Noches  Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RHS5N3M/?tag=tolees-21'
 descuento: '28.54'
 average: '5.327972972972972'

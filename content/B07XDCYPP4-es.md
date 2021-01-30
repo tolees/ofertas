@@ -16,6 +16,7 @@ comparePrice: 66.54 EUR
 prodname: 'Hauck Stop N Safe 2 puerta de seguridad incluido extensión de 9cm  para escaleras 84 – 89 cm  ampliación con extensiones a 110cm  sin agujeros en la pared  con apertura a ambos lados  hierro  plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XDCYPP4/?tag=tolees-21'
 descuento: '39.90'
 average: '39.99'

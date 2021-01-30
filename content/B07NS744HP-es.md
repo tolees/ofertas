@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Marco Tozzi 2-2-25112-33  Botas Chukka para Mujer  Gris  Dk.Grey Multi 241   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NS744HP/?tag=tolees-21'
 descuento: '75.16'
 average: '12.41'

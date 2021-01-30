@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'AUTSCA Mechero Eléctrico  Encendedor USB Doble Arco Eléctrico con luz LED Azul  Carga Rápida  Resistente al Viento sin Llama  Cable USB y Caja de Regalo Incluidos '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HF631DJ/?tag=tolees-21'
 descuento: '50.02'
 average: '14.99'

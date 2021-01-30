@@ -16,6 +16,7 @@ comparePrice: 50.99 EUR
 prodname: 'Jeteven Dispensador de desinfección automático  dispensador de Spray sin Contacto con Sensor  eléctrico pulverizador con Sensor de Limpieza de Manos  para Escuela Restaurante Oficina hogar  360ml '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0881LTC4R/?tag=tolees-21'
 descuento: '26.28'
 average: '36.79'

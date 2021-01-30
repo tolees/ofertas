@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'BOSS Authentic Shorts Pantalones Cortos  Azul  Bright Blue 438   W40  Talla del Fabricante: Medium  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KGLW4Q5/?tag=tolees-21'
 descuento: '53.99'
 average: '27.58'

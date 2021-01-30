@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Hoja de Fieltro  20 * 30cm  40 Colores No Tejido Tela de Fieltro Suave Felt Fabric para Manualidades Patchwork Costura DIY Artesanía con 100 x Ojos Wiggle Autoadhesivos  Multicolor '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GNQQLM9/?tag=tolees-21'
 descuento: '26.10'
 average: '16.49'

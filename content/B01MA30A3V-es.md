@@ -16,6 +16,7 @@ comparePrice: 214.9 EUR
 prodname: 'Britax Römer Silla de coche Nacimiento - 4 años  hasta 18 kg  FIRST CLASS PLUS Grupo 0+/1  Storm Grey'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MA30A3V/?tag=tolees-21'
 descuento: '27.61'
 average: '155.57'

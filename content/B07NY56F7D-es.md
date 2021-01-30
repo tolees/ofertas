@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'WAVLINK 1200Mbps Amplificador de Rango WiFi Señal 2.4 + 5 GHz Amplificador de Wi-Fi de Banda Dual Repetidor/Punto de Acceso Inalámbrico Ap'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NY56F7D/?tag=tolees-21'
 descuento: '33.34'
 average: '39.99'

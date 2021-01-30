@@ -16,6 +16,7 @@ comparePrice: 136.03 EUR
 prodname: 'Western Digtal - Disco Duro De 2Tb - Wd Elements  2.5 Pulgadas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00PLOXG42/?tag=tolees-21'
 descuento: '41.26'
 average: '79.9'

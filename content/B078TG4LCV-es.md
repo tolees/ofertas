@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Pepe Jeans Vincent Polo  Azul  Navy 595   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078TG4LCV/?tag=tolees-21'
 descuento: '34.86'
 average: '21.545'

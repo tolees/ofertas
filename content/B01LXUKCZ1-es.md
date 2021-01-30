@@ -16,6 +16,7 @@ comparePrice: 21.95 EUR
 prodname: 'Mercurio Distribuciones- Juego de Habilidad con Tema Divertido. Gran Intensidad y competición con el factortodos a la Vez  H00001 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LXUKCZ1/?tag=tolees-21'
 descuento: '38.22'
 average: '13.56'

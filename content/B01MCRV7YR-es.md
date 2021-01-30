@@ -16,6 +16,7 @@ comparePrice: 7.9 EUR
 prodname: 'DURABOL Bandera de Inde.Catalan Estelada blava-catalunya -cataluña independentista 150 x 90 cm Poliester Flag'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MCRV7YR/?tag=tolees-21'
 descuento: '37.34'
 average: '6.2666666666666675'

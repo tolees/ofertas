@@ -16,6 +16,7 @@ comparePrice: 41.99 EUR
 prodname: 'POPOMAN Telémetro láser 50m  USB Carga 30mins  Decoracion interior  99 Datos  Medidor Láser  Sensor de Ángulo Electrónico  2.25   LCD Pantalla  m/in/ft/ft+in  Pitagórico  Distancia  Volumen-MTM100B'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZNV8XTP/?tag=tolees-21'
 descuento: '33.34'
 average: '27.99'

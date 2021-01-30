@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'Braun Hogar CareStyle Compact IS2043 Centro de Planchado  Suela 3D Eloxal Plus  Vapor Constante  2200 W  1.3 litros  Blanco/Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G4VR6L6/?tag=tolees-21'
 descuento: '29.40'
 average: '111.74785714285714'

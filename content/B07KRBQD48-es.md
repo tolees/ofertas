@@ -16,6 +16,7 @@ comparePrice: 107.01 EUR
 prodname: 'GANT Footwear Portland  Zapatillas para Hombre   Multi Green G752   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KRBQD48/?tag=tolees-21'
 descuento: '32.76'
 average: '71.95'

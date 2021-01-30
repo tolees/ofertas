@@ -16,6 +16,7 @@ comparePrice: 70 EUR
 prodname: 'Naf Naf Bitrendy Impermeable  Beige  Trench 1585   38 para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MVX3CCX/?tag=tolees-21'
 descuento: '42.21'
 average: '40.45'

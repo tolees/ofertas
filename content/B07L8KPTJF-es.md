@@ -16,6 +16,7 @@ comparePrice: 412.99 EUR
 prodname: 'KLARSTEIN GrowIt Farm - Jardín Inteligente de Interior  Jardín hidropónico  hasta 28 Plantas en 25-40 días  Iluminación LED automática y Sistema irrigación  Depósito 8 litros  Grow It Smart!'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L8KPTJF/?tag=tolees-21'
 descuento: '58.84'
 average: '169.99'

@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'Biomecanics 161141  Zapatillas de Estar por casa para Bebés  Azul  Azul Marino /Sauvage   24 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01G51D3QA/?tag=tolees-21'
 descuento: '26.76'
 average: '32.95'

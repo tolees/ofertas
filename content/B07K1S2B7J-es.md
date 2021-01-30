@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'adidas Tastigo19 Shorts Kids Pantaones Cortos de Fútbol  Niños  Azul  Dark Blue/White   7-8Y'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K1S2B7J/?tag=tolees-21'
 descuento: '46.44'
 average: '13.512857142857142'

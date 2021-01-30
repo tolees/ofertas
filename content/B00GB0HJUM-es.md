@@ -16,6 +16,7 @@ comparePrice: 6.0 EUR
 prodname: 'Rimmel London Moisture Renew Barra De Labios Tono 200 Latino - 19 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00GB0HJUM/?tag=tolees-21'
 descuento: '33.33'
 average: '3.6799999999999997'

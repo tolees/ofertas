@@ -16,6 +16,7 @@ comparePrice: 12.95 EUR
 prodname: 'Tuc Tuc Stories - Portachupetes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076KLW9B7/?tag=tolees-21'
 descuento: '40.00'
 average: '7.77'

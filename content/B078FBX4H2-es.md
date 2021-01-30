@@ -16,6 +16,7 @@ comparePrice: 34.9 EUR
 prodname: 'Crocs Classic Slipper  Zapatillas de Estar por casa Unisex Adulto  Verde  Evergreen/Stucco 3s5   46/47 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078FBX4H2/?tag=tolees-21'
 descuento: '50.00'
 average: '17.45'

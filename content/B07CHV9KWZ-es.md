@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Levi s Graphic Sport Capucha  Blanco  Housemark Hoodie White 0010   2XS para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CHV9KWZ/?tag=tolees-21'
 descuento: '42.80'
 average: '37.18'

@@ -16,6 +16,7 @@ comparePrice: 15.79 EUR
 prodname: 'Revlon uniq one foam treatment 200 ml  fine hair '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z3MRLR3/?tag=tolees-21'
 descuento: '35.34'
 average: '10.21'

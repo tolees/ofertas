@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'BACKTURE Lámpara Antimosquitos Electrico  18W UV Lámpara Anti Mosquitos Interior con Caja de Recogida  Tubo de Repuesto y Cepillo Limpio  para Mata Mosquitos  Insectos  Polillas  Moscas  Efecto 40㎡'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082NLNSRN/?tag=tolees-21'
 descuento: '34.18'
 average: '33.7'

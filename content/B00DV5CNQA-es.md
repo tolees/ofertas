@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Superga Classic  Zapatillas Unisex Adulto  Marrón Brown Dk Chocolate  35.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00DV5CNQA/?tag=tolees-21'
 descuento: '34.24'
 average: '38.8'

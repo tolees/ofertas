@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'TedGem Bebé Espejo Retrovisor  Universal de Coche Asiento Trasero Vista Espejo Monitor de Coches de Bebé Niño Seguridad con Clip y con Ventosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0749J6CBG/?tag=tolees-21'
 descuento: '64.03'
 average: '8.99'

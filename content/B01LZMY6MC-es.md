@@ -16,6 +16,7 @@ comparePrice: 27.25 EUR
 prodname: 'Brabantia Cubo de Basura con Pedal  Inoxidable  Acero Mate  3 l'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LZMY6MC/?tag=tolees-21'
 descuento: '35.01'
 average: '21.346666666666664'

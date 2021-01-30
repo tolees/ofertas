@@ -16,6 +16,7 @@ comparePrice: 8.06 EUR
 prodname: 'plata Plated Yazilind deslumbrante corte princesa champán cúbico Circonita perfecto gancho cuelga los pendientes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00K8ZVVA0/?tag=tolees-21'
 descuento: '65.01'
 average: '2.82'

@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Skechers Flex Appeal 3.0-Quick Voyage  Zapatillas sin Cordones para Mujer  Multicolor Blanco Azul Hot Pink Wbhp  39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WKNN1W7/?tag=tolees-21'
 descuento: '28.98'
 average: '34.81'

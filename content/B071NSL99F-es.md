@@ -16,6 +16,7 @@ comparePrice: 199.95 EUR
 prodname: 'TomTom VIA 53  GPS Navegación con pantalla táctil de 5 pulgadas  mapa de 48 países  planifica rutas inteligentes que te ayudan a escapar del tráfico en tiempo real  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071NSL99F/?tag=tolees-21'
 descuento: '45.01'
 average: '119.12933333333334'

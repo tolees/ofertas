@@ -16,6 +16,7 @@ comparePrice: 9.63 EUR
 prodname: 'Bourjois Velvet Barra de Labios Líquida Tono 15 Red-volution - 28 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01DWKKGG2/?tag=tolees-21'
 descuento: '53.48'
 average: '4.6866666666666665'

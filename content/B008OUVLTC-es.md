@@ -16,6 +16,7 @@ comparePrice: 7.95 EUR
 prodname: 'L Oréal Paris Excellence Creme Tinte Tono 9.3 Rubio Claro Claro Dorado - 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B008OUVLTC/?tag=tolees-21'
 descuento: '38.74'
 average: '4.87'

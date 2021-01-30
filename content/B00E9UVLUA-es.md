@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Trust Yvi - Ratón óptico inalámbrico  1600 DPI  color azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00E9UVLUA/?tag=tolees-21'
 descuento: '46.19'
 average: '7.3133333333333335'

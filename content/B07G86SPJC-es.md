@@ -16,6 +16,7 @@ comparePrice: 5.75 EUR
 prodname: 'TRESemmé Champú Botanique Coco  Negro -700 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G86SPJC/?tag=tolees-21'
 descuento: '50.43'
 average: '3.2500000000000004'

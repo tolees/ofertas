@@ -16,6 +16,7 @@ comparePrice: 151.72 EUR
 prodname: 'Lemnoi Cámaras A3 y Fuente de Alimentación del Panel Solar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P6PN1S2/?tag=tolees-21'
 descuento: '46.28'
 average: '81.51'

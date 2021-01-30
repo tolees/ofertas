@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'Terry - Armario plástico exterior  89.7 x 53.7 x 180 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00DNA3EIY/?tag=tolees-21'
 descuento: '30.00'
 average: '109.65'

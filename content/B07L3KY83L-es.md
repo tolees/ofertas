@@ -16,6 +16,7 @@ comparePrice: 22.12 EUR
 prodname: 'WowPrint - Bolsa de maquillaje  diseño de frutas  sandía  piña  limón  viaje  bolsa de cosméticos  bolsa de maquillaje para mujeres y niñas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L3KY83L/?tag=tolees-21'
 descuento: '45.03'
 average: '12.16'

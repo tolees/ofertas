@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'Superga 2750 UKFGLU  Zapatillas Unisex adulto  Blanco  White 900   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B012XD2XNS/?tag=tolees-21'
 descuento: '58.74'
 average: '36.72'

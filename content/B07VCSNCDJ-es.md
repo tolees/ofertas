@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Bee Simulator [Versión Española]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VCSNCDJ/?tag=tolees-21'
 descuento: '60.19'
 average: '30.979999999999997'

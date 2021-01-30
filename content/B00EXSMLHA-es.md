@@ -16,6 +16,7 @@ comparePrice: 124.38 EUR
 prodname: 'Grohe BauEdge - Grifo para ducha y baño con sistema de montaje en pared e inversor automático. Incluye sistema de ahorro de agua y limitador de caudal ajustable  23334000 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00EXSMLHA/?tag=tolees-21'
 descuento: '56.55'
 average: '54.04'

@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'LK Protector de Pantalla para Xiaomi Note 10 Lite Protector Pantalla [3 Piezas] [Admite la función de Huella Digital] [Película Protectora de TPU][Alta Definición y Sensibilidad]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088KDQP4K/?tag=tolees-21'
 descuento: '25.02'
 average: '8.99'

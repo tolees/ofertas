@@ -16,6 +16,7 @@ comparePrice: 20.79 EUR
 prodname: 'AMANDIN Caldo de Verduras - Paquete de 6 x 1000 ml - Total: 6000 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B019CB6NNU/?tag=tolees-21'
 descuento: '62.72'
 average: '11.816666666666666'

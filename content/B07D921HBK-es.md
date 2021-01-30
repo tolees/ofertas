@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Aicook Palomitero  Aire Caliente Sin Grasa Aceita  Vintage Máquina de Palomitas con Gran Capacidad  Libre de BPA  Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D921HBK/?tag=tolees-21'
 descuento: '46.67'
 average: '35.24'

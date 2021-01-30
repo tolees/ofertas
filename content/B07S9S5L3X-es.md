@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'PUMA Cilia Mode  Zapatillas para Mujer  Blanco White/Rosewater/Castlerock/Sun Kissed Coral 04  38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S9S5L3X/?tag=tolees-21'
 descuento: '41.70'
 average: '34.95'

@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'MOZOOSON Juguete para Niños-Splash Pad  Piscina para Niños  Tapete de Juegos de Agua 170CM Almohadilla Aspersor de Juego Agua  Aire Libre Fiesta Playa Jardín'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083DFBSGN/?tag=tolees-21'
 descuento: '50.02'
 average: '25.656666666666666'

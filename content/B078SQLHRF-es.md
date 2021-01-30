@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Victure Cámara Deportiva 4k WiFi Camara Acción Deporte Acuatica Sumergible 30m Pantalla LCD 2.0 Inch Videocámara Multifuncional Foto de Ráfaga 2 Baterías de 1050mAh con Accesorios Kit'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078SQLHRF/?tag=tolees-21'
 descuento: '40.01'
 average: '43.115'

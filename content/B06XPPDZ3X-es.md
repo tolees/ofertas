@@ -16,6 +16,7 @@ comparePrice: 12.61 EUR
 prodname: 'ACANA Wild Prairie Comida para Gatos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XPPDZ3X/?tag=tolees-21'
 descuento: '63.60'
 average: '4.59'

@@ -16,6 +16,7 @@ comparePrice: 349.0 EUR
 prodname: 'Lenovo S145-15IWL - Ordenador portátil 15.6" HD  Intel Celeron  4GB de RAM  128GB SSD  Windows 10  Gris- Teclado QWERTY español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TW4F4GH/?tag=tolees-21'
 descuento: '28.37'
 average: '257.0161904761905'

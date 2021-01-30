@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Jack & Jones Jjepaulos Polo SS Plus  Azul  Bright Cobalt Detail: PS   XXXXX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CNMDL4V/?tag=tolees-21'
 descuento: '41.68'
 average: '17.49'

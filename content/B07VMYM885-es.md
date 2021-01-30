@@ -16,6 +16,7 @@ comparePrice: 8.9 EUR
 prodname: 'NEW C 2 Unidades  Protector de Pantalla para Samsung Galaxy A10  SM-A105F   M10 Vidrio Templado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VMYM885/?tag=tolees-21'
 descuento: '44.94'
 average: '4.9'

@@ -16,6 +16,7 @@ comparePrice: 115.0 EUR
 prodname: 'Pole Watches Reloj de Pulsera Analógico Monoaguja de Cuarzo para Hombre Esfera Plomo y Correa de Cuero Mostaza Modelo Compass Drab B-1001PL-MA02'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MCV8H7H/?tag=tolees-21'
 descuento: '39.13'
 average: '70.0'

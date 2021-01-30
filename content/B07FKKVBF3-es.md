@@ -16,6 +16,7 @@ comparePrice: 33.98 EUR
 prodname: 'Joma Academy Chandal Caballero  Hombre  Marino/Blanco  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FKKVBF3/?tag=tolees-21'
 descuento: '32.34'
 average: '22.99'

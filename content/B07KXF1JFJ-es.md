@@ -16,6 +16,7 @@ comparePrice: 12.9 EUR
 prodname: 'Lékué  Juego de cubiertos para llevar  Acero Inoxidable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KXF1JFJ/?tag=tolees-21'
 descuento: '49.22'
 average: '7.996666666666666'

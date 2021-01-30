@@ -16,6 +16,7 @@ comparePrice: 33.35 EUR
 prodname: 'deAO RC Coche TodoTerreno Rock Crawler 4x4 a Control Remoto - 1:18 Rastreador de Roca 2.4GHz Sync System modo Multi Jugador  Verde '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MYXJP9V/?tag=tolees-21'
 descuento: '25.07'
 average: '21.474999999999998'

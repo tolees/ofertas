@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'Under Armour Men s Golf Headline Cap 3.0 Visera Clásica  Gorra para Hombre  Rojo  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YXPKQGK/?tag=tolees-21'
 descuento: '47.55'
 average: '10.49'

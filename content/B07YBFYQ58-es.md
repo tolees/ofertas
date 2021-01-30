@@ -16,6 +16,7 @@ comparePrice: 23.88 EUR
 prodname: 'Calentador de Mano Recargable Calentador de Mano portátil 5200mAh Banco de energía Doble Bolsillo Lateral Calentador de Mano eléctrico Reutilizable para esquí  Acampada  Rosa '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YBFYQ58/?tag=tolees-21'
 descuento: '49.79'
 average: '16.189999999999998'

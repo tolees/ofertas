@@ -16,6 +16,7 @@ comparePrice: 8.5 EUR
 prodname: 'estuche isotérmico para insulina color gris y lima Insulin´s de Elite Bags'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06Y3ZZV24/?tag=tolees-21'
 descuento: '53.65'
 average: '4.623333333333333'

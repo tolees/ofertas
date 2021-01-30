@@ -16,6 +16,7 @@ comparePrice: 155.0 EUR
 prodname: 'Swatch Reloj Cronógrafo para Hombre de Cuarzo con Correa en Caucho YVS451'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M9RMB1L/?tag=tolees-21'
 descuento: '34.25'
 average: '104.59'

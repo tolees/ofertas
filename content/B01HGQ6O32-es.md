@@ -16,6 +16,7 @@ comparePrice: 129.95 EUR
 prodname: 'duehome  Nordik - Pack 4 sillas Color Blanco  Silla réplica Blanca y Madera de Haya  Medidas: 47 cm Ancho x 56 cm Fondo x 81 cm Altura'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HGQ6O32/?tag=tolees-21'
 descuento: '38.48'
 average: '77.475'

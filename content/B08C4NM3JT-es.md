@@ -16,6 +16,7 @@ comparePrice: 22.95 EUR
 prodname: 'JSDing Delantal Cocina Mujer 2 Capa con Correa de Cuello Ajustable y Bolsillo Grande Delantal Personalizado para Barbacoa  Cocina  Jornear  Limpieza  Taller  Barra'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08C4NM3JT/?tag=tolees-21'
 descuento: '60.83'
 average: '8.99'

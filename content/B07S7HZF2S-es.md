@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Adidas Runfalcon K  Unisex Adulto  Multicolor  Negbás/Rosbri/Semcor 000   36 2/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S7HZF2S/?tag=tolees-21'
 descuento: '30.16'
 average: '27.9'

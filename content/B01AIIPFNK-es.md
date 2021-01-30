@@ -16,6 +16,7 @@ comparePrice: 211.92 EUR
 prodname: 'UGG W Bailey Bow II  Botas para Mujer  Gris  Grey   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01AIIPFNK/?tag=tolees-21'
 descuento: '25.40'
 average: '158.09'

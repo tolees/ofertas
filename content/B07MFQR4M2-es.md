@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'Urban Classics Block Swim Shorts Pnt  Pantalones Cortos para Hombre  Amarillo  Neonyellow 00162   Small'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MFQR4M2/?tag=tolees-21'
 descuento: '49.80'
 average: '9.99'

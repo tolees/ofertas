@@ -16,6 +16,7 @@ comparePrice: 40.96 EUR
 prodname: 'Pablosky 334510  Mocasines Unisex niño  Negro  Negro Negro   25 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QHL5CDB/?tag=tolees-21'
 descuento: '57.32'
 average: '17.48'

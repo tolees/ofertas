@@ -16,6 +16,7 @@ comparePrice: 42.99 EUR
 prodname: 'PUMA LQDCELL Optic Rave  Zapatillas de Running para Hombre  Black  43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KG16TR3/?tag=tolees-21'
 descuento: '29.52'
 average: '30.3'

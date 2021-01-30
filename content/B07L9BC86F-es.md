@@ -16,6 +16,7 @@ comparePrice: 45 EUR
 prodname: 'Under Armour Speedpocket Linerless 7   Pantalones Cortos  Hombre  Negro  LG'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L9BC86F/?tag=tolees-21'
 descuento: '40.11'
 average: '26.95'

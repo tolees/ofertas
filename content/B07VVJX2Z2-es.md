@@ -16,6 +16,7 @@ comparePrice: 16.36 EUR
 prodname: 'La Cabine Ampollas Lip Up Lift  10x2ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VVJX2Z2/?tag=tolees-21'
 descuento: '39.18'
 average: '9.95'

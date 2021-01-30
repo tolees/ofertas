@@ -16,6 +16,7 @@ comparePrice: 15.54 EUR
 prodname: 'Champion Performance Crew Calcetines de deporte  Multicolor  Blanc Logo Colore 8lv   35/38  Pack de 6  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JQ679WM/?tag=tolees-21'
 descuento: '30.05'
 average: '10.87'

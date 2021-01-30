@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'TEENO 10 Pulgadas 4G Tablet con Ranuras para Tarjetas SIM estándar  Procesador de Cuatro Núcleos  1.5GHz  3G + 32GB  Doble Cámara  WiFi  Bluetooth  GPS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083GQGCXC/?tag=tolees-21'
 descuento: '44.67'
 average: '82.99'

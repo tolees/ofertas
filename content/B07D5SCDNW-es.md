@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'PUMA ESS Logo tee T-Shirt  Mujer  Puma White  XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D5SCDNW/?tag=tolees-21'
 descuento: '47.42'
 average: '12.169999999999998'

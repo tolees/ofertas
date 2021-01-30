@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Columbia Childrens FirecampTM Sledder II WP  Zapatillas de Senderismo  Impermeable para Niños  Azul  Collegiate Navy  Ginkgo   25 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N6EBCUL/?tag=tolees-21'
 descuento: '66.01'
 average: '20.39'

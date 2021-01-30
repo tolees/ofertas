@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Relaxdays Organizador para Escritorio Hecho de Bambú  Marrón  21 x 20 x 13 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LYFDEG7/?tag=tolees-21'
 descuento: '34.61'
 average: '16.6625'

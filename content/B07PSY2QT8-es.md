@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'Six Collection - Figura Caveira'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PSY2QT8/?tag=tolees-21'
 descuento: '50.13'
 average: '11.616666666666665'

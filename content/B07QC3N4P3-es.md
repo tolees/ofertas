@@ -16,6 +16,7 @@ comparePrice: 35.95 EUR
 prodname: 'MTNG Attitude 69859  Zapatillas para Mujer  Verde  Soft Met/Mesh Kaky C47275   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QC3N4P3/?tag=tolees-21'
 descuento: '41.61'
 average: '20.99'

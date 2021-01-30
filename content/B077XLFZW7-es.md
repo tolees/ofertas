@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Under Armour Rival Fleece Jogger Pantalones  Hombre  Gris  Charcoal Light Heather/Black 020   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077XLFZW7/?tag=tolees-21'
 descuento: '37.67'
 average: '34.28'

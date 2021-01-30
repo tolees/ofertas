@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Philips EXP2546/12 - Reproductor CD portátil  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004RE90NI/?tag=tolees-21'
 descuento: '30.01'
 average: '37.99'

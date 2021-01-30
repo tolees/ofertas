@@ -16,6 +16,7 @@ comparePrice: 72.44 EUR
 prodname: 'Globe Tilt  Zapatillas de Deporte para Hombre  Multicolor  Ebony/Grey/Winter 000   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079D4MN6L/?tag=tolees-21'
 descuento: '38.46'
 average: '44.58'

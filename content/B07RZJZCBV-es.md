@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Mizuno Wave Daichi 5  Zapatillas de Running para Asfalto para Hombre  Rojo  Cred/Cred/Biking Red 60   44.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RZJZCBV/?tag=tolees-21'
 descuento: '54.56'
 average: '59.07'

@@ -16,6 +16,7 @@ comparePrice: 6.99 EUR
 prodname: 'Vicloon Espátula Flexible de Silicona  Cocina Gadget y Herramientas para Hornear  4 Pcs'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LXBW1DK/?tag=tolees-21'
 descuento: '27.18'
 average: '5.09'

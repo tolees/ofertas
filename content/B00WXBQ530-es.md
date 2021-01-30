@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'San Ignacio Galaxy - Sartén  diámetro de 18 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00WXBQ530/?tag=tolees-21'
 descuento: '57.16'
 average: '15.990000000000002'

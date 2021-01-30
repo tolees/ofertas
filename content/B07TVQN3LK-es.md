@@ -16,6 +16,7 @@ comparePrice: 44.95 EUR
 prodname: 'Wrangler SS Colourblock Polo  Blanco  White 989   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TVQN3LK/?tag=tolees-21'
 descuento: '77.33'
 average: '10.19'

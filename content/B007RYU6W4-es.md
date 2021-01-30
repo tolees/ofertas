@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'Food Saver FoodSaver FSFSMA0050-050  1 W  Plástico  white'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007RYU6W4/?tag=tolees-21'
 descuento: '44.72'
 average: '11.817499999999999'

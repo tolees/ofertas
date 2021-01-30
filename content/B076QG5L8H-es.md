@@ -16,6 +16,7 @@ comparePrice: 249 EUR
 prodname: 'Chicco Baby Hug 4en1 Sistema multifunción: moisés  hamaca  trona y silla  regulable en altura  color gris  Glacial '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076QG5L8H/?tag=tolees-21'
 descuento: '28.11'
 average: '184.32999999999998'

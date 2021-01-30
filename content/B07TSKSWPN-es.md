@@ -16,6 +16,7 @@ comparePrice: 317.99 EUR
 prodname: 'StarTech.com Docking Station Thunderbolt 3 con Vídeo Doble DisplayPort de 4K - Adaptable a USB 3.1 Gen1 y Gen 2 - USB Tipo C con PD'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TSKSWPN/?tag=tolees-21'
 descuento: '28.62'
 average: '226.99333333333334'

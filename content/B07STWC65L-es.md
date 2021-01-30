@@ -16,6 +16,7 @@ comparePrice: 10.36 EUR
 prodname: 'Max Factor Perfect Stay 2 Step;  Laca de Uñas  Tono 139 - 12 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07STWC65L/?tag=tolees-21'
 descuento: '71.91'
 average: '2.91'

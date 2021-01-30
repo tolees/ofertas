@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Auriculares Bluetooth 5.0 Auriculares Inalambricos Cascos Bluetooth Headphone In-Ear Auriculares Micrófono de Reducción de Ruido Incorporado y Caja de Carga Rápida IPX7 Impermeables'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08HMG2R9W/?tag=tolees-21'
 descuento: '40.01'
 average: '29.99'

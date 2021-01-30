@@ -16,6 +16,7 @@ comparePrice: 24.07 EUR
 prodname: 'Alled Cámara Correa Correa de Cuello Camara De Hombro Cuello Cinturón Bohemia Vintage Cámara Universal Ajustable Correas para Nikon Canon Sony Lumix Fujifilm Pentax Olympus DSLR SLR Etc.  Cowboy '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WV8XF7Y/?tag=tolees-21'
 descuento: '54.34'
 average: '10.99'

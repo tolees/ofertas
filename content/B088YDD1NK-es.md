@@ -16,6 +16,7 @@ comparePrice: 36.61 EUR
 prodname: 'Asics Jolt 2  Sneaker Unisex-Child  Hot Pink/White  38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088YDD1NK/?tag=tolees-21'
 descuento: '26.39'
 average: '26.95'

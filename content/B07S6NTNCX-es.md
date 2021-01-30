@@ -16,6 +16,7 @@ comparePrice: 74.95 EUR
 prodname: 'PUMA Ascend  Zapatillas Unisex-Adulto  Negro Black White/High Risk Red 04  42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S6NTNCX/?tag=tolees-21'
 descuento: '62.35'
 average: '28.22'

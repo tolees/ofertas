@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Crocs Handle It Rain Boot K  Botas de Agua Unisex Niños  Rosa  Candy Pink   24/25 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01A5DU2TA/?tag=tolees-21'
 descuento: '26.31'
 average: '24.52'

@@ -16,6 +16,7 @@ comparePrice: 24.88 EUR
 prodname: 'Mascarilla 20PCS Pañuelos de Protección Personal'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087NR19ZP/?tag=tolees-21'
 descuento: '59.85'
 average: '9.99'

@@ -16,6 +16,7 @@ comparePrice: 19.83 EUR
 prodname: 'Pablosky 064644  Botas para Bebés  Amarillo  Amarillo Amarillo   24 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QGG48R6/?tag=tolees-21'
 descuento: '30.21'
 average: '13.84'

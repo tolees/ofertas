@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'New Balance FUELL Cell Echo NYC Marathon Negro Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YF7TNB4/?tag=tolees-21'
 descuento: '28.65'
 average: '85.62'

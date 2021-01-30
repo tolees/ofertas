@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'HP Essential Top Load - Funda bandolera para portátil de hasta 17.3"  color gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B018MB88XO/?tag=tolees-21'
 descuento: '40.00'
 average: '18.0'

@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'Columbia Fire Venture S II Mid WP  Botas de Senderismo Impermeables para Mujer  Beige  Elk  Beet 286   40.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JH35ZYB/?tag=tolees-21'
 descuento: '55.04'
 average: '53.95'

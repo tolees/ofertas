@@ -16,6 +16,7 @@ comparePrice: 12.0 EUR
 prodname: 'Nike Y Nk H86 Cap Metal Swoosh Hat  Unisex niños  Azul  Obsidian/Metallic Silver   Talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00R6TRKVK/?tag=tolees-21'
 descuento: '83.25'
 average: '6.98'

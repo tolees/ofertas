@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'knowing 100MM Blanco Corazón Madera Rodajas Discos para Bricolaje Manualidades Adornos San Valentín Regalo DIY 20pcs'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076Z6PS9J/?tag=tolees-21'
 descuento: '50.53'
 average: '9.89'

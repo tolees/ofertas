@@ -16,6 +16,7 @@ comparePrice: 7.2 EUR
 prodname: 'Purplert Gorro De Dormir De Capó De Seda Satinada Grande De 45 Cm  Gorro De Ducha Impermeable Cuidado del Cabello Femenino Proteger con Banda Elástica'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YDCJWV4/?tag=tolees-21'
 descuento: '44.72'
 average: '3.98'

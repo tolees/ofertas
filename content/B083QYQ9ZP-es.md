@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Auriculares Inalámbricos Bluetooth 5.0 Auriculares Bluetooth Deportivos con Micrófono Cancelación de Ruido Cascos Caja de Carga  IPX5 a Prueba de Sudor  Emparejamiento automático'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083QYQ9ZP/?tag=tolees-21'
 descuento: '50.02'
 average: '12.99'

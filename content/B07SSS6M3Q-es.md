@@ -16,6 +16,7 @@ comparePrice: 22.96 EUR
 prodname: 'Simply Natural Cortaúñas para Mascotas Cortaúñas para Mascotas Muy Afilado para Perros Gatos Pájaros y Rodeores Apto para Todos los Tamaños de Uñas con una Lima de Uñas de 14 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SSS6M3Q/?tag=tolees-21'
 descuento: '65.68'
 average: '9.08'

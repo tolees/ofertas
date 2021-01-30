@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Otterbox Alpha Flex Protector de Pantalla Flexible y Resistente para Samsung S10+ Transparente  Pro Pack'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00Z7RZ7JA/?tag=tolees-21'
 descuento: '30.01'
 average: '27.99'

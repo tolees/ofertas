@@ -16,6 +16,7 @@ comparePrice: 79.96 EUR
 prodname: 'adidas Powerlift 4  Zapatillas para Hombre  Core Black/Night Met./Signal Coral  42 2/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S9ZBQFY/?tag=tolees-21'
 descuento: '25.00'
 average: '59.97'

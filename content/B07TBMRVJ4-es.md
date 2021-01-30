@@ -16,6 +16,7 @@ comparePrice: 5.0 EUR
 prodname: 'Finocam - Taco 2020 1 día en 2 páginas español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TBMRVJ4/?tag=tolees-21'
 descuento: '50.00'
 average: '2.5'

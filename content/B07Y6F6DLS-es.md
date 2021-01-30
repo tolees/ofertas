@@ -16,6 +16,7 @@ comparePrice: 53.98 EUR
 prodname: 'FitBeast Esterilla de Yoga  Esterilla de Yoga Antiderrapante con Grosor de 6mm  Incluye Correa– Esterilla Deporte para Pilates y Gimnasia 183x61x0.6CM  Compacto  Liviano  Portátil'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y6F6DLS/?tag=tolees-21'
 descuento: '33.33'
 average: '35.99'

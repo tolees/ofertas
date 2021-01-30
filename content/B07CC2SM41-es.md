@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Spyro Reignited Trilogy'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CC2SM41/?tag=tolees-21'
 descuento: '25.11'
 average: '28.384999999999998'

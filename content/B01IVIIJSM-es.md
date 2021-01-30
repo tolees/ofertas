@@ -16,6 +16,7 @@ comparePrice: 12.09 EUR
 prodname: 'Ariel 3en1 Pods Detergente En Cápsulas  Sensaciones  Limpieza Increíble  Limpia  Quita Manchas  Ilumina - 38 Lavados'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IVIIJSM/?tag=tolees-21'
 descuento: '50.95'
 average: '5.93'

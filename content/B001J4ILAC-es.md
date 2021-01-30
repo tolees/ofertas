@@ -16,6 +16,7 @@ comparePrice: 56.08 EUR
 prodname: 'Casio Reloj de Pulsera LW-200D-4AVEF'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001J4ILAC/?tag=tolees-21'
 descuento: '51.80'
 average: '27.836666666666666'

@@ -16,6 +16,7 @@ comparePrice: 110.99 EUR
 prodname: 'HengBO Barbacoa Grill Eléctrica de Mesa  Superficie de Grill 44 x 22 cm  2000W  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z1JBZ4L/?tag=tolees-21'
 descuento: '54.96'
 average: '49.99'

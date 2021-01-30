@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: '5 Pack  Pocketman 1500 Lúmenes CREE XML T6 al aire libre Zoomable Handheld linterna táctica con 5 modos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LW6E1B3/?tag=tolees-21'
 descuento: '71.44'
 average: '21.99'

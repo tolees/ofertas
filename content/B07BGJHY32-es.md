@@ -16,6 +16,7 @@ comparePrice: 140 EUR
 prodname: 'Maleta grande Pepe Jeans Cambridge Celeste rígida 70cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BGJHY32/?tag=tolees-21'
 descuento: '43.57'
 average: '79.0'

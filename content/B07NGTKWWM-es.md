@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Cable guy Buzz Lightyear  soporte de sujeción o carga para mando de consola y/o smartphone de tu personaje favorito con licencia Toy Story 4 de Disney. Producto con licencia oficial. Exquisite Gaming'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NGTKWWM/?tag=tolees-21'
 descuento: '32.01'
 average: '17.04'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Crocs Jaunt Shorty Boot  Botas de Agua para Mujer  Amarillo  Lemon   38/39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ZZ73O2Y/?tag=tolees-21'
 descuento: '34.98'
 average: '26.0'

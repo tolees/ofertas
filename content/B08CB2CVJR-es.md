@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'TOPERSUN Cargador de Baterías Coche 12V/24V 8A Automática Protección Portátil Inteligente Coche Cargador Rápid con Pantalla LCD Digital para Motos Automóviles Barco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CB2CVJR/?tag=tolees-21'
 descuento: '40.01'
 average: '23.99'

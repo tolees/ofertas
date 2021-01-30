@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'Calvin Klein Carousel-Bikini Sujetador  Blanco  WHITE 100   Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00F4AVPFA/?tag=tolees-21'
 descuento: '39.87'
 average: '9.504999999999999'

@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'seenlast Raqueta Mosca Antimosquitos  Matamoscas Eléctrico Zapper Mata Mosquito  3000 Voltios Plagas Insectos Asesino Repelente para Interior en Aire Libre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083JS7ZTK/?tag=tolees-21'
 descuento: '31.27'
 average: '17.044545454545453'

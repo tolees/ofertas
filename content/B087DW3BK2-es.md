@@ -16,6 +16,7 @@ comparePrice: 36.99 EUR
 prodname: 'Aidodo Difusor de Aroma 400ml Humidificador Ultrasónico Aromaterapia Difusor de Aceites Esenciales con Vapor Frío  7-Color LED 4 Temporizador  Ambientador Humidificador Bebes  Hogar  Oficina Bebé etc'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087DW3BK2/?tag=tolees-21'
 descuento: '29.74'
 average: '25.99'

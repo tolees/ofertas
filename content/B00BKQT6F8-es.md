@@ -16,6 +16,7 @@ comparePrice: 179.0 EUR
 prodname: 'Daniel Wellington Reloj con Correa de Acero para Hombre 0109DW'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BKQT6F8/?tag=tolees-21'
 descuento: '61.27'
 average: '65.77833333333334'

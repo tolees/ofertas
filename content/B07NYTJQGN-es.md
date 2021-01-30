@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Skechers Men s DYNA-AIR Trainers  Grey  Charcoal Mesh/Black Trim Ccbk   8  42 EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NYTJQGN/?tag=tolees-21'
 descuento: '35.03'
 average: '38.95'

@@ -16,6 +16,7 @@ comparePrice: 89.9 EUR
 prodname: 'Polar Loop2 - Pulsera de actividad  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0168UXO9O/?tag=tolees-21'
 descuento: '57.84'
 average: '38.57833333333334'

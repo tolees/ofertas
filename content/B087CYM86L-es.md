@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Fabur 210 * 90CM Cubierta Aislante para Puertas de Tela para Aparatos De Secadoras  Tela de Aislamiento para Aire Acondicionado Portátil Sello De Tela Evita La Entrada de Mosquitos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087CYM86L/?tag=tolees-21'
 descuento: '25.01'
 average: '14.99'

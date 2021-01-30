@@ -16,6 +16,7 @@ comparePrice: 31.02 EUR
 prodname: 'YIY Bandeja de Viaje para Asiento de Coche para niños - Bandeja de Viaje y Aprendizaje Impermeable para Comer y Jugar con Bolsillos Laterales de Malla'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L1W4DTH/?tag=tolees-21'
 descuento: '52.61'
 average: '14.7'

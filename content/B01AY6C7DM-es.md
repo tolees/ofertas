@@ -16,6 +16,7 @@ comparePrice: 189.95 EUR
 prodname: 'UGG Female Mini Bailey Button II Classic Boot  Chestnut  5  UK '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01AY6C7DM/?tag=tolees-21'
 descuento: '28.94'
 average: '134.98'

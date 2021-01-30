@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Sweat Corporate Polyester junior'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01B84LGR2/?tag=tolees-21'
 descuento: '55.02'
 average: '18.09'

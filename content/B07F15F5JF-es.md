@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Neceser Pepe Jeans Cranford Marrón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F15F5JF/?tag=tolees-21'
 descuento: '44.99'
 average: '22'

@@ -16,6 +16,7 @@ comparePrice: 5.79 EUR
 prodname: 'NHOUYAO 2pcs Hueso de Papel Manualidades Carpeta para la Tarjeta de Papel Que Hace la Herramienta de Scrapbooking Elaboración de la encuadernación de Papel Plegable Hendido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0895ZFVQX/?tag=tolees-21'
 descuento: '32.99'
 average: '3.88'

@@ -16,6 +16,7 @@ comparePrice: 7.3 EUR
 prodname: 'Gually Une Fois-l Higienne - 50 piezas  color azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087WMB5QW/?tag=tolees-21'
 descuento: '30.27'
 average: '5.09'

@@ -16,6 +16,7 @@ comparePrice: 6.95 EUR
 prodname: 'Garnier Olia - Coloración Permanente sin Amoniaco  con Aceites Florales de Origen Natural - Tono 7.3 Rubio Dorado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MU0VW0E/?tag=tolees-21'
 descuento: '38.85'
 average: '3.88'

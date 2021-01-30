@@ -16,6 +16,7 @@ comparePrice: 71.99 EUR
 prodname: 'ART VVIES Holz gerahmt mit Haken Raum für Hauptdekorationen 20 x 20 Zoll Leinwanddrucke Yellowstone National Park Sonnenuntergang Dämmerung Dämmerung Wand Bild'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082HC3B6Q/?tag=tolees-21'
 descuento: '55.56'
 average: '31.99'

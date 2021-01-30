@@ -16,6 +16,7 @@ comparePrice: 22.58 EUR
 prodname: 'Star Wars - Figura de The Mandalorian 15 cm Jawa de Black Series  E7943EL2 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RXVBVGM/?tag=tolees-21'
 descuento: '29.19'
 average: '15.99'

@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'COMLIFE Mini Ventilador USB de Mano Portátil Batería Recargable para Oficina  Hogar  Viajes  Ejercicio al Aire Libre  etc.  HF318 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F2TZ6X4/?tag=tolees-21'
 descuento: '38.48'
 average: '17.32333333333333'

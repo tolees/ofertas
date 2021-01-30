@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'COSORI Tazas de Café y Té de Acero Inoxidable de Grado Alimenticio con Tapa 500ml  Tazas con Mango Resistente al Calor  Funda Antideslizante  Combinación para Calentador de Taza  2 Pack  Negro y Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P93NT6T/?tag=tolees-21'
 descuento: '70.02'
 average: '13.847142857142856'

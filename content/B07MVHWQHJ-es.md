@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Kipling - Sara  Bolsos bandolera Mujer  Rosa  Metallic Rose '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MVHWQHJ/?tag=tolees-21'
 descuento: '34.80'
 average: '42.38'

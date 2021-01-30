@@ -16,6 +16,7 @@ comparePrice: 33.99 EUR
 prodname: 'PUTUO Calcetines Dedos Hombres Calcetines de Deportes de Algodón  Hombres Cinco Calcetines del dedo del pie  3/4/5 pares'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DB1C3ZB/?tag=tolees-21'
 descuento: '44.13'
 average: '19.74'

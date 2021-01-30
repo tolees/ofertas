@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'JACK & JONES PREMIUM Jprpaulos Play Stripe Blu. Ss Polo  Polo Hombre  Multicolor  Light Grey Melange Fit: Slim Fit   Large'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PDMJHXG/?tag=tolees-21'
 descuento: '69.99'
 average: '12.07'

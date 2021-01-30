@@ -16,6 +16,7 @@ comparePrice: 199.95 EUR
 prodname: 'Intex 57267EU - Flamenco hinchable gigante'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFGZ15S/?tag=tolees-21'
 descuento: '38.98'
 average: '123.14142857142856'

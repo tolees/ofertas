@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'Lepfun Laxuri Calcetines de Compresión Medias de Compresión  20 – 30 mmHg  para Deporte  Trotar  Correr  Volar  Viajar  Varicosas，Embarazo y Médicos  Large '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HSQ5DPV/?tag=tolees-21'
 descuento: '45.48'
 average: '11.99'

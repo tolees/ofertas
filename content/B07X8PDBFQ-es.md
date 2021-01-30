@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'PUMA Rtg 3` Shorts Pantalones Cortos  Mujer  Black  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X8PDBFQ/?tag=tolees-21'
 descuento: '30.78'
 average: '17.99'

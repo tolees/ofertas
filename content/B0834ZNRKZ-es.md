@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Fila Slip Deportivo Color Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0834ZNRKZ/?tag=tolees-21'
 descuento: '31.49'
 average: '8.9'

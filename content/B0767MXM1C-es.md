@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'GB eye Taza Rick & Morty Better Call Morty  Multicolor  Unico'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0767MXM1C/?tag=tolees-21'
 descuento: '50.38'
 average: '5.95'

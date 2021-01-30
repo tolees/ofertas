@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Osram 819559 Bombilla LED E27  14 W  Blanco Frío  3 Unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073QSXXCH/?tag=tolees-21'
 descuento: '40.03'
 average: '10.088000000000001'

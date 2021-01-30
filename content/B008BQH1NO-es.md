@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Amazon - Funda de cuero para Kindle Paperwhite  color negro ónix - no es compatible con la versión del 2018  10.ª generación '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B008BQH1NO/?tag=tolees-21'
 descuento: '38.50'
 average: '21.128'

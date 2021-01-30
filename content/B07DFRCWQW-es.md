@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'New Balance Gw500v1  Zapatillas de Deporte para Mujer  Plateado  Metallic Silver/Metallic Silver Mta   36.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DFRCWQW/?tag=tolees-21'
 descuento: '33.47'
 average: '49.9'

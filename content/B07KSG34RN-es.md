@@ -16,6 +16,7 @@ comparePrice: 25.98 EUR
 prodname: 'WERKFIX Juego de 15 Llaves Fijas Combinadas 6-21 mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KSG34RN/?tag=tolees-21'
 descuento: '33.45'
 average: '17.29'

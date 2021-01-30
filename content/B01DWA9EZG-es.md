@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Mugig Guitarra Cable Patch-1/4" Silencioso 6.35 mm para Guitarra/Bajo Pedales de Efectos  15cm  Pack de 3  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01DWA9EZG/?tag=tolees-21'
 descuento: '51.05'
 average: '4.89'

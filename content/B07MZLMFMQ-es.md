@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Kickers Jawa  Zapatillas para Bebés   Marron 9   18 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZLMFMQ/?tag=tolees-21'
 descuento: '80.92'
 average: '14.31'

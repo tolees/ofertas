@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'BlueXP 2 Piezas Armario Interruptor para Puerta del Gabinete del Interruptor de la Puerta se Apaga Cuando la Puerta Está Cerrada el Interruptor Presiona el Interruptor de Arranque Colore Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CKLZ9PM/?tag=tolees-21'
 descuento: '45.40'
 average: '6.0'

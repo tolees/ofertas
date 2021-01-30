@@ -16,6 +16,7 @@ comparePrice: 10.95 EUR
 prodname: 'REAL TECHNIQUES Pincel de maquillaje en polvo  el embalaje y el color del mango pueden variar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004TSF8R4/?tag=tolees-21'
 descuento: '27.21'
 average: '7.97'

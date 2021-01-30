@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Pop! Rugrats - Figura de Vinilo Spike'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J6NP6H5/?tag=tolees-21'
 descuento: '55.80'
 average: '7.17'

@@ -16,6 +16,7 @@ comparePrice: 264.99 EUR
 prodname: 'Grohe Eurostyle Cosmopolitan - Grifo de lavabo mural 1/2"Tamaño S  color cromo  Ref.19571002 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00DHGW1EC/?tag=tolees-21'
 descuento: '44.97'
 average: '145.83'

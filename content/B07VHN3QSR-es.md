@@ -16,6 +16,7 @@ comparePrice: 14.0 EUR
 prodname: 'JACK & JONES Jorvincey Sweat Hood Capucha  Gris  Light Grey Melange Fit:REG - JJ   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VHN3QSR/?tag=tolees-21'
 descuento: '25.00'
 average: '10.5'

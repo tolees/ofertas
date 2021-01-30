@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'adidas Duramo 9 C  Zapatillas de Running Unisex Niños  Negro  Core Black/FTWR White/Core Black Core Black/FTWR White/Core Black   28 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KTX62QW/?tag=tolees-21'
 descuento: '39.90'
 average: '21.015'

@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Clarks Botanic Poppy  Sandalia con Pulsera para Mujer  Multicolor  Animal Print Animal Print   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TKN8LSC/?tag=tolees-21'
 descuento: '50.16'
 average: '49.82'

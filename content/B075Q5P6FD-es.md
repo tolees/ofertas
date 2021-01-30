@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'FOSITAN Anillo de Luz LED 55W 5500K 18" Exterior de Iluminación de Anillo de Foto de Cámara LED de Regulable con 2M Soporte de Luz and Receptor Bluetooth para Estudio de Vlogging de Youtube Video'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075Q5P6FD/?tag=tolees-21'
 descuento: '59.50'
 average: '80.99'

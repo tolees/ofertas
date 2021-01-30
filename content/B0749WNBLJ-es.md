@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: ' SanDisk Ultra Imaging - Tarjeta de Memoria Micro SDHC de 32 GB con Adaptador SD hasta 98 MB/s y Clase 10  U1  A1  Color Gris y Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0749WNBLJ/?tag=tolees-21'
 descuento: '34.11'
 average: '7.4'

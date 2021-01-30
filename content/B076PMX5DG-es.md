@@ -16,6 +16,7 @@ comparePrice: 63.9 EUR
 prodname: 'Pasito a Pasito 74026 - Bolsa panera Inés  Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076PMX5DG/?tag=tolees-21'
 descuento: '38.98'
 average: '38.99'

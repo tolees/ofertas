@@ -16,6 +16,7 @@ comparePrice: 3.57 EUR
 prodname: 'Duttek 5 pies / 1 5 m Hembra del USB 2.0 a 3 RCA Video Masculino A/V Adaptador práctico videocámara Grande para el Equipo de AV'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L745TFH/?tag=tolees-21'
 descuento: '35.01'
 average: '2.32'

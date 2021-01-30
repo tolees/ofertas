@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'Libershine Bandas Elásticas Musculación Fitness  Cintas Elásticas Musculación Fitness  11 pcs Bandas de Resistencia - 5 Tubos de látex  2 Manijas  2 Correa de Tobillo  Ancla de Puerta  Bolsa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087FG79WT/?tag=tolees-21'
 descuento: '28.02'
 average: '8.63'

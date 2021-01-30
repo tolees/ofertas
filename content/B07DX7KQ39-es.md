@@ -16,6 +16,7 @@ comparePrice: 16.9 EUR
 prodname: 'Energy Sistem Box 1+ Altavoz inalámbrico portátil con Bluetooth  5 W  microSD MP3  FM Radio  Audio-In  - Grape'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DX7KQ39/?tag=tolees-21'
 descuento: '46.75'
 average: '12.95'

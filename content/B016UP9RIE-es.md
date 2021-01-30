@@ -16,6 +16,7 @@ comparePrice: 149.0 EUR
 prodname: 'Apple MJ2R2ZM/A - Magic Trackpad 2  color blanco y plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B016UP9RIE/?tag=tolees-21'
 descuento: '35.57'
 average: '119.92909090909092'

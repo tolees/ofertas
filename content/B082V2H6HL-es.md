@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Newentor - Aire acondicionado y humidificador portátil 3 en 1 y 3 velocidades de ventilador  apagado automático para oficina en el hogar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082V2H6HL/?tag=tolees-21'
 descuento: '31.64'
 average: '23.4725'

@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'PUMA Future 5.3 Netfit FG/AG  Botas de fútbol para Hombre  Amarillo  Ultra Yellow Black   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SD1K1Q4/?tag=tolees-21'
 descuento: '62.49'
 average: '30.909999999999997'

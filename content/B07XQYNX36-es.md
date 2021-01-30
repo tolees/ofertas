@@ -16,6 +16,7 @@ comparePrice: 149.0 EUR
 prodname: 'Apple Funda Leather Folio  para el iPhone 11 Pro MAX  - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XQYNX36/?tag=tolees-21'
 descuento: '77.19'
 average: '34.001111111111115'

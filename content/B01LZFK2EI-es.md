@@ -16,6 +16,7 @@ comparePrice: 249.95 EUR
 prodname: 'Cybex Silver Juno 2-Fix 517000959 Silla de Coche  Grupo 1  con Isofix  Rojo  Rumba Red '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LZFK2EI/?tag=tolees-21'
 descuento: '32.01'
 average: '169.95'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Only Onlpoptrash Soft Panel Pnt Noos Pantalones  Multicolor  Black Detail:W. Check Hta-2438   W33/L34  Talla del Fabricante: X-Large  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F7PQX8N/?tag=tolees-21'
 descuento: '36.13'
 average: '25.54'

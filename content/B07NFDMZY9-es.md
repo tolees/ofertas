@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Valentino by Mario ValentinoAudreyMujerCarteras de manoAzul  Blu 4.5x12x27 centimeters  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NFDMZY9/?tag=tolees-21'
 descuento: '25.13'
 average: '52.4'

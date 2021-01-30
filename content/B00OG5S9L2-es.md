@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Reloj Komono Winston Royale Unisex KOM-W2351'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00OG5S9L2/?tag=tolees-21'
 descuento: '66.70'
 average: '36.61666666666667'

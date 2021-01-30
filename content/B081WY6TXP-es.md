@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Luce Solare Jardín GolWof Lámpara Solar para Jardín Búho con Alas Ajustables IP44 Impermeable Luce Solare de Exterior Luz solar Exterior Luce Decorativa para Patio Césped Patio Pasillo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081WY6TXP/?tag=tolees-21'
 descuento: '50.01'
 average: '19.99'

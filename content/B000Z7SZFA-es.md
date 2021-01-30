@@ -16,6 +16,7 @@ comparePrice: 148.24 EUR
 prodname: 'Oki 43865708 - Cartucho de tóner  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000Z7SZFA/?tag=tolees-21'
 descuento: '32.48'
 average: '100.09'

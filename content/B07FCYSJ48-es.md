@@ -16,6 +16,7 @@ comparePrice: 3.58 EUR
 prodname: 'Baoblaze Boquilla de Pulverización de Agua Nebulización Cortacésped Herramienta Eléctrica de Exterior - 1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FCYSJ48/?tag=tolees-21'
 descuento: '44.41'
 average: '1.99'

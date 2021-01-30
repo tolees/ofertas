@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Pepe Jeans Anabella Pantalones   Black 999   17-18 años de Edad  Talla del Fabricante: 17/18 años  para Niñas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZPP8HB/?tag=tolees-21'
 descuento: '55.42'
 average: '25.6375'

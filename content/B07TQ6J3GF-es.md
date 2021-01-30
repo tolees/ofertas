@@ -16,6 +16,7 @@ comparePrice: 6.35 EUR
 prodname: 'Cocoty-store Pantalones 2019 Pantalones Hombre Verano Hombres Gimnasio Entrenamiento Jogging Pantalones Cortos Fit Elástico Casual Ropa de Deporte  Negro L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TQ6J3GF/?tag=tolees-21'
 descuento: '47.24'
 average: '3.35'

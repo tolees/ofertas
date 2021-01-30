@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'BEAUTURAL Plancha de Vapor Vertical y Profesional de Alta Resistencia para Ropa  Prendas de Vestir y Tela  Tanque de Agua de 2 2l 4 Niveles Que producen un Vapor Continuo de Alta Potencia'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078LX3DNK/?tag=tolees-21'
 descuento: '28.58'
 average: '49.99'

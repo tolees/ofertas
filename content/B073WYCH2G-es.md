@@ -16,6 +16,7 @@ comparePrice: 7.0 EUR
 prodname: 'Rimmel London WonderWing Eyeliner Delineador de Ojos Tono 1-7 95 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073WYCH2G/?tag=tolees-21'
 descuento: '43.71'
 average: '3.94'

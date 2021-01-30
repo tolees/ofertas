@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'SELECTED HOMME 16049517 Polo  Verde  Hemlock Hemlock   M para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X7GMN7J/?tag=tolees-21'
 descuento: '46.90'
 average: '13.27'

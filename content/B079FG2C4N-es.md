@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Tristar VE-5890 – Ventilador de pie  40 centímetros  color blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079FG2C4N/?tag=tolees-21'
 descuento: '43.11'
 average: '18.842499999999998'

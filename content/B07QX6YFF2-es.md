@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'LENBEST Mesa Coche para Niños  Mesa para Niños en la Asiento de Coche  Tablero Impermeable del Coche  Viajan Niños Play Tray  Mesa para Niños  Bandeja para Coche  Cochecito  Avión'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QX6YFF2/?tag=tolees-21'
 descuento: '47.24'
 average: '23.49'

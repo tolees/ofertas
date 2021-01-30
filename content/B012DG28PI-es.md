@@ -16,6 +16,7 @@ comparePrice: 15.98 EUR
 prodname: 'KHOMO Funda iPad PRO 9.7 - Carcasa Roja y Negra Protectora Ultra Delgada y Ligra con Smart Cover y Soporte para Nuevo Apple iPad PRO  9 7"  - Red and Black'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B012DG28PI/?tag=tolees-21'
 descuento: '29.91'
 average: '11.2'

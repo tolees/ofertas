@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'PUMA Smash V2 L V PS  Zapatillas Unisex niños  Blanco White White  35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077MLQ26Y/?tag=tolees-21'
 descuento: '65.92'
 average: '11.91'

@@ -16,6 +16,7 @@ comparePrice: 12.09 EUR
 prodname: 'Mascarilla Antipolvo para Adultos Anti PM 2.5 Protección contra el Humo de Polen Máscara bucal Lavable antiniebla y Bucle con 10 filtros'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085T8JN9G/?tag=tolees-21'
 descuento: '32.26'
 average: '8.19'

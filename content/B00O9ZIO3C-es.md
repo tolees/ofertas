@@ -16,6 +16,7 @@ comparePrice: 9.3 EUR
 prodname: 'The Rocky Horror Picture Show - Blu-Ray [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00O9ZIO3C/?tag=tolees-21'
 descuento: '35.59'
 average: '5.99'

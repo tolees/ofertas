@@ -16,6 +16,7 @@ comparePrice: 45 EUR
 prodname: 'Nike 905211 001  Zapatillas de Deporte para Mujer  Multicolor  Blanco 000   35.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00CBCJYXE/?tag=tolees-21'
 descuento: '50.00'
 average: '22.5'

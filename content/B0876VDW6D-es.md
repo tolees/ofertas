@@ -16,6 +16,7 @@ comparePrice: 260.0 EUR
 prodname: 'Disco Duro Externo 2 TB  klfjskldjflksjdkfd. 2TB Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0876VDW6D/?tag=tolees-21'
 descuento: '73.08'
 average: '69.99'

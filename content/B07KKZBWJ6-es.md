@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'adidas Club Tank Top de Tenis  Mujer  Blanco  XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KKZBWJ6/?tag=tolees-21'
 descuento: '36.31'
 average: '22.26'

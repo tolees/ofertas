@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'Hiboy  Silla Self Balancing Compatible con Todos los Patinetes Eléctricos de 6.5  8 y 10 Pulgadas  Niños  Asiento Kart Negro  Talla Unica'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X3F5SGD/?tag=tolees-21'
 descuento: '39.14'
 average: '41.04'

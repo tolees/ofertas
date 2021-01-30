@@ -16,6 +16,7 @@ comparePrice: 33.4 EUR
 prodname: 'L Occitane VERBENA gel de ducha Cuerpo 500 ml - Geles de ducha  Adultos  Cuerpo  Verbena  500 ml  Frasco dispensador  Organic Verbena '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077QFTJ53/?tag=tolees-21'
 descuento: '26.98'
 average: '24.39'

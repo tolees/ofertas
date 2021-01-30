@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Panasonic RP-HTX80BE-C Auriculares Bluetooth Diadema  24h de Reproducción  Micrófono y Manos Libres  Hi-Fi Sonido  Cascos Inalámbricos  Carga Rápida  Cascos Diadema Premium Móviles  TV  PC   Ocre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0784WYQHK/?tag=tolees-21'
 descuento: '40.04'
 average: '51.205'

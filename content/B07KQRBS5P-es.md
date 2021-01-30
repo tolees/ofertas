@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Salomon Alphacross  Zapatillas de Trail Running para Hombre  Blanco  White/White/White   40 2/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KQRBS5P/?tag=tolees-21'
 descuento: '59.88'
 average: '36.09'

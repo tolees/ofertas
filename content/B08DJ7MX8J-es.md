@@ -16,6 +16,7 @@ comparePrice: 2.45 EUR
 prodname: 'XINFULUK Ratón óptico inalámbrico de 2 4 GHz para Juegos y Receptor USB para computadora portátil Pc - Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08DJ7MX8J/?tag=tolees-21'
 descuento: '40.00'
 average: '1.47'

@@ -16,6 +16,7 @@ comparePrice: 30.99 EUR
 prodname: 'Jooheli Cámara Digital para Niños  Cámara Infantil con Tarjeta de Memoria Micro SD 32GB Digital Video Cámara Cumpleaños Regalos para Niños y Niñas de 3 a 12 Años  Verde Claro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08DCCFJC4/?tag=tolees-21'
 descuento: '25.81'
 average: '22.99'

@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Luz Lectura Libros Cama Tomshine Lampara Lectura Pinza con 3 Modos de Luz 18 Leds y 10 Brillo Regulable  360 ° Ángulo de iluminación Lámpara para Leer en Cama  Escritorio  Ordenador'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VQZDX91/?tag=tolees-21'
 descuento: '41.52'
 average: '11.790000000000001'

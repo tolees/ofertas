@@ -16,6 +16,7 @@ comparePrice: 32.49 EUR
 prodname: 'Aquatic Planet - Pilares Romanos de Coliseo  gladiadores  Adorno para Acuario  decoración de peceras'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084CVLBNZ/?tag=tolees-21'
 descuento: '39.95'
 average: '19.51'

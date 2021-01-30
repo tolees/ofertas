@@ -16,6 +16,7 @@ comparePrice: 38.9 EUR
 prodname: 'D-Link DGS-1100-05 - Switch 5 Puertos Gigabit 1000 Mbps  LAN RJ-45  gestión Web  QoS  VLAN  IGMP Snooping  Control Ancho de Banda  Carcasa metálica  Ultra Compacto   Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00PS0JPDK/?tag=tolees-21'
 descuento: '38.33'
 average: '25.99'

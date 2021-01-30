@@ -16,6 +16,7 @@ comparePrice: 1.5 EUR
 prodname: 'Herbal Essences Bio:Renew Repara Con Aceite De Argán De Marruecos Champú 100ml  Mezcla Antioxidantes  Aloe  Alga Marrón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZKQ9MF6/?tag=tolees-21'
 descuento: '33.33'
 average: '1.0'

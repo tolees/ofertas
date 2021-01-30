@@ -16,6 +16,7 @@ comparePrice: 13.03 EUR
 prodname: 'Iron Man 2 [DVD]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00F3U9N2S/?tag=tolees-21'
 descuento: '31.01'
 average: '8.99'

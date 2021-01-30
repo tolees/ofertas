@@ -16,6 +16,7 @@ comparePrice: 7.69 EUR
 prodname: 'Bruni Película Protectora Compatible con Garmin Vivoactive 3 Music Protector Película  Claro Lámina Protectora  2X '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F3CQ3GT/?tag=tolees-21'
 descuento: '52.02'
 average: '3.69'

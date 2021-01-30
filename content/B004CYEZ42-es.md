@@ -16,6 +16,7 @@ comparePrice: 34.0 EUR
 prodname: 'Victoria Inglesa Elastico Tenido Punt - Zapatillas de deporte de tela para mujer  Blanc  20 Blanco   40'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004CYEZ42/?tag=tolees-21'
 descuento: '31.18'
 average: '23.4'

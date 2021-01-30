@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'Middle Moon Apolo 2020'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0845LTBR7/?tag=tolees-21'
 descuento: '70.23'
 average: '119.0'

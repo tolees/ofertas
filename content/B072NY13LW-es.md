@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'Philips 223V7QHSB/00 - Monitor IPS de 21.5"  Full HD  1920x1080  Sin bordes  Flicker Free  Low Blue Mode  VESA  VGA + HDMI '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072NY13LW/?tag=tolees-21'
 descuento: '25.83'
 average: '94.0'

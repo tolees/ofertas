@@ -16,6 +16,7 @@ comparePrice: 15.81 EUR
 prodname: 'Wella Oil Reflections - 250 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01F9ZSWLY/?tag=tolees-21'
 descuento: '54.78'
 average: '7.550000000000001'

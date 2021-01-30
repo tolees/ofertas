@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'viewstar Almohadas Antiácaros  Pack de 2 Almohadas 100% Microfibra-Firmeza Media  Certificada por Oeko-Tex 80x40cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RR7V99C/?tag=tolees-21'
 descuento: '30.49'
 average: '22.93'

@@ -16,6 +16,7 @@ comparePrice: 59.86 EUR
 prodname: 'NUBILY Cinturon Hombre Cuero Negro Marrón Jeans Reversible Piel Cinturón para Hombres Clásico Negocios Casual Trabajo Traje Hebilla Cinturones 135CM'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QFTNH71/?tag=tolees-21'
 descuento: '74.96'
 average: '14.99'

@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'BAUSCH + LOMB  - SofLens® Toric - Lentes de contacto para Astigmatismo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000UJHIOW/?tag=tolees-21'
 descuento: '61.08'
 average: '29.19'

@@ -16,6 +16,7 @@ comparePrice: 13.25 EUR
 prodname: 'Haribo - Pasta Basta Cola - Geles dulces - 200 unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XABDLM0/?tag=tolees-21'
 descuento: '34.42'
 average: '8.336666666666666'

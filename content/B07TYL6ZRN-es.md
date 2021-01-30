@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Meizas Conjuntos de Bikinis para Mujer  Gris + Blanco  Medium'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TYL6ZRN/?tag=tolees-21'
 descuento: '28.52'
 average: '10.0'

@@ -16,6 +16,7 @@ comparePrice: 163.35 EUR
 prodname: 'Bosch Professional GWS 12V-76 - Amoladora angular a batería 12V  19500 rpm  disco 76 mm  3 discos  sin batería  en L-BOXX'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B018YPET7C/?tag=tolees-21'
 descuento: '40.62'
 average: '99.972'

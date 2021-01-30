@@ -16,6 +16,7 @@ comparePrice: 17.66 EUR
 prodname: 'Buff Pack Run Visor Visera  Womens  Pink  One Size'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082LC1YL1/?tag=tolees-21'
 descuento: '26.44'
 average: '12.99'

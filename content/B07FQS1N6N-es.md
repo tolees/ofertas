@@ -16,6 +16,7 @@ comparePrice: 110 EUR
 prodname: 'Clarks Un Abode Strap  Mocasines para Hombre  Negro  Black Leather-   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FQS1N6N/?tag=tolees-21'
 descuento: '50.00'
 average: '55'

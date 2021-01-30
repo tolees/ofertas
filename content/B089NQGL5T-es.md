@@ -16,6 +16,7 @@ comparePrice: 399.95 EUR
 prodname: 'Royal Padel EFE Carbon Attack 2020 Amarilla-Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089NQGL5T/?tag=tolees-21'
 descuento: '70.01'
 average: '119.95'

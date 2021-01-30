@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'FitFlop Uberknit F-Sporty Sneaker  Zapatillas para Mujer  Rojo  Ss20 High Risk Red 002   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S4CMS4S/?tag=tolees-21'
 descuento: '73.22'
 average: '24.1'

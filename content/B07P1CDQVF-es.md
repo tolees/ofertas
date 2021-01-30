@@ -16,6 +16,7 @@ comparePrice: 27.99 EUR
 prodname: 'SATECHI Tipo-C de Aluminio a Adaptador de Conector para Auriculares de 3.5mm con Carga USB-C PD – Compatible con 2020/2018 iPad Pro  Google Pixel 3/XL/2  Microsoft Surface Go  Samsung Galaxy'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P1CDQVF/?tag=tolees-21'
 descuento: '25.01'
 average: '24.49'

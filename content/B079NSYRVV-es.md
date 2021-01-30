@@ -16,6 +16,7 @@ comparePrice: 46.99 EUR
 prodname: 'oasser Alcoholímetro Profesional Electroquímico Respiratorio de Recargable Digital Pantalla LED Incluye Batería de Litio & 4 Boquillas Desechables FDA T3'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079NSYRVV/?tag=tolees-21'
 descuento: '36.22'
 average: '35.64333333333334'

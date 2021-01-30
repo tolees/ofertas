@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'New Balance 574v2-core Trainers  Zapatillas para Hombre  Gris  Grey   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06Y2X8YQF/?tag=tolees-21'
 descuento: '38.98'
 average: '64.48'

@@ -16,6 +16,7 @@ comparePrice: 3.99 EUR
 prodname: 'SODIAL R  Soporte base de mesa universal ajustable plegable blanco para iPhone iPad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00M2QDKNO/?tag=tolees-21'
 descuento: '34.59'
 average: '2.61'

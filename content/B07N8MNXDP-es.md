@@ -16,6 +16,7 @@ comparePrice: 72.4 EUR
 prodname: 'TOMMY CORE BACKPACKHombreMonederosAzul  Sky Captain 19x44x32 centimeters  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N8MNXDP/?tag=tolees-21'
 descuento: '42.13'
 average: '41.9'

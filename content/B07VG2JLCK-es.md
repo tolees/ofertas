@@ -16,6 +16,7 @@ comparePrice: 43.53 EUR
 prodname: 'Tommy Hilfiger Corporate Belt 2.5 Cinturón  Marrón  Cognac Gb8   Medium  Talla del fabricante: 90  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VG2JLCK/?tag=tolees-21'
 descuento: '54.17'
 average: '19.95'

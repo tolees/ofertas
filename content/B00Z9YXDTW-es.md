@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'One For All URC1912 - Mando a Distancia de reemplazo para Televisores Sony – Control Remoto Universal para Todo Tipo de TVs de la Marca Sony'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00Z9YXDTW/?tag=tolees-21'
 descuento: '36.38'
 average: '13.183333333333332'

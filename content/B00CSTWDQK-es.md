@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Braun 40B - Recambio para afeitadora eléctrica hombre  compatible con CoolTec  color azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00CSTWDQK/?tag=tolees-21'
 descuento: '26.93'
 average: '29.22'

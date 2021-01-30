@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'VAUDE Farley ZO IV - Pantalones para hombre  color beige  muddy   talla XS  tamaño del fabricante: 46 :Largo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B006A34BWY/?tag=tolees-21'
 descuento: '72.63'
 average: '24.63'

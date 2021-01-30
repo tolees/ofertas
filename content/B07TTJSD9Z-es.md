@@ -16,6 +16,7 @@ comparePrice: 84.95 EUR
 prodname: 'Wrangler Texas Contrast Jeans  Azul  Game On 087   35W / 32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TTJSD9Z/?tag=tolees-21'
 descuento: '40.02'
 average: '50.95'

@@ -16,6 +16,7 @@ comparePrice: 53.99 EUR
 prodname: 'Philips myBathroom Pool - Plafón  casquillo E27  luz blanca  forma redonda  bombilla fluorescente  color blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00EO4R8IA/?tag=tolees-21'
 descuento: '31.71'
 average: '36.87'

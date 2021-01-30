@@ -16,6 +16,7 @@ comparePrice: 132.99 EUR
 prodname: 'HyperX Predator HX430C15PB3A/16 Memoria 3000MHz DDR4 CL15 DIMM XMP 16GB RGB'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MVZ6MJK/?tag=tolees-21'
 descuento: '44.62'
 average: '73.65'

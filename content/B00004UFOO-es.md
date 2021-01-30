@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'Crayola Super Tips Washable Markers'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00004UFOO/?tag=tolees-21'
 descuento: '32.65'
 average: '14.81'

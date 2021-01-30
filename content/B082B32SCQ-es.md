@@ -16,6 +16,7 @@ comparePrice: 58.98 EUR
 prodname: 'Juego de Regalo de Copas de Cristal Roca - Vaso Scotch con Base Fuerte - Caja de Regalo de Madera - Piedras de enfriamiento para Whiskey de Bourbon Juego de Whiskey de Bourbon'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082B32SCQ/?tag=tolees-21'
 descuento: '37.28'
 average: '36.99'

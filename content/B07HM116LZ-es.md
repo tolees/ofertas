@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'ADWITS USB 3.1 Gen2 10Gbps Tipo-C a NVMe M.2 Adaptador SSD PCIe de Alto Rendimiento  Caja SSD portátil Compatible para Samsung WD ADATA  Unidad de Estado sólido DREVO M.2 NVMe -Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HM116LZ/?tag=tolees-21'
 descuento: '28.91'
 average: '31.99'

@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'Hermano oso [DVD]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003Z7S0MA/?tag=tolees-21'
 descuento: '39.87'
 average: '8.99'

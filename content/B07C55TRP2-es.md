@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'LOVETEA  Womens Open Mesh patrón de Bordado Entrepierna Perspectiva Perspectiva Ajustable Corbatas Tangas de Encaje G-Strings Bragas Atractivas  Rojo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C55TRP2/?tag=tolees-21'
 descuento: '50.66'
 average: '7.9399999999999995'

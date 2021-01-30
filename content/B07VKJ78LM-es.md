@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Jeack 2 pares de pendientes de perlas y árboles bohemios hechos a mano para mujeres y niñas  2 colores 4 M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VKJ78LM/?tag=tolees-21'
 descuento: '31.60'
 average: '12.99'

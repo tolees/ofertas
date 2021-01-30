@@ -16,6 +16,7 @@ comparePrice: 329.0 EUR
 prodname: 'Emporio Armani Smartwatch ART3030'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FFLD441/?tag=tolees-21'
 descuento: '29.73'
 average: '231.2'

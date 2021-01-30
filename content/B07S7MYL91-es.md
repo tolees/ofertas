@@ -16,6 +16,7 @@ comparePrice: 20.05 EUR
 prodname: 'Titto Bluni Perfume Titto Bluni Colonia 75 Vapo  2X1  Acqua R-6-1 unidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S7MYL91/?tag=tolees-21'
 descuento: '35.91'
 average: '12.85'

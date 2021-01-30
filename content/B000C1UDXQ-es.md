@@ -16,6 +16,7 @@ comparePrice: 31.11 EUR
 prodname: 'Davidoff - After Shave Cool Water Man'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000C1UDXQ/?tag=tolees-21'
 descuento: '45.36'
 average: '17.0'

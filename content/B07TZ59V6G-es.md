@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Women s Secret Trendy Tapestry TT Flower Burg Nd FR Camisón  Rojo  Gama Rojo 69   Medium  Tamaño del Fabricante: M  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TZ59V6G/?tag=tolees-21'
 descuento: '51.47'
 average: '16.98'

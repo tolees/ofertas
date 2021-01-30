@@ -16,6 +16,7 @@ comparePrice: 54.99 EUR
 prodname: 'adidas Real Madrid Mini Home Kids Equipamiento de Fútbol  Unisex Niños  Blanco  White   18-24M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S84XR3K/?tag=tolees-21'
 descuento: '45.90'
 average: '30.30666666666667'

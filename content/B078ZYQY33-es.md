@@ -16,6 +16,7 @@ comparePrice: 17.25 EUR
 prodname: 'TRESemmé Champú Color Keratina - Paquete de 3 x 700 ml - Total: 2100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078ZYQY33/?tag=tolees-21'
 descuento: '28.99'
 average: '11.805'

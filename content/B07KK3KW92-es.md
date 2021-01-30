@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'Columbia Bajada III  Zapatillas de Running para Asfalto para Mujer  Azul  Deep Ocean  Red 458   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KK3KW92/?tag=tolees-21'
 descuento: '36.68'
 average: '75.98'

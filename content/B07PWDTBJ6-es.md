@@ -16,6 +16,7 @@ comparePrice: 231.28 EUR
 prodname: 'TerraMaster F2-210 NAS 2 bahías Quad Core Multimedia de Almacenamiento en la Nube Personal  Sin Discos '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PWDTBJ6/?tag=tolees-21'
 descuento: '30.82'
 average: '159.99'

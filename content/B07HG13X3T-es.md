@@ -16,6 +16,7 @@ comparePrice: 90 EUR
 prodname: 'New Balance Fresh Foam Roav  Zapatillas de Running para Hombre  Negro  Black Black   44.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HG13X3T/?tag=tolees-21'
 descuento: '62.94'
 average: '36.55'

@@ -16,6 +16,7 @@ comparePrice: 11.16 EUR
 prodname: 'TWBB Hombres Casual Elastic Sport Solid Pockets Pantalones'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MV6RNZK/?tag=tolees-21'
 descuento: '82.44'
 average: '1.96'

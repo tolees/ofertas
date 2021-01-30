@@ -16,6 +16,7 @@ comparePrice: 13.42 EUR
 prodname: 'Air Wick Freshmatic - Recambios de Ambientador Spray Automático  Esencia para Casa con Aroma a Nenuco - Pack de 3'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XAE51SO/?tag=tolees-21'
 descuento: '33.38'
 average: '8.94'

@@ -16,6 +16,7 @@ comparePrice: 42.99 EUR
 prodname: 'JUMPER Irrigador Bucal Portátil de 320ml  Irrigador Dental Portátil Profesional USB Recargable con 3 Modos 2 Boquillas Impermeable IPX7 para Higiene Dental Limpieza Dental Ideal para Viaje  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TWWMRWV/?tag=tolees-21'
 descuento: '32.57'
 average: '29.49'

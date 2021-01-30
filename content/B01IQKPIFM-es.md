@@ -16,6 +16,7 @@ comparePrice: 8.95 EUR
 prodname: 'Revlon Ultra HD Pintalabios Matte  #675 Infatuation '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IQKPIFM/?tag=tolees-21'
 descuento: '51.28'
 average: '4.405'

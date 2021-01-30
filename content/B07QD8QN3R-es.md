@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Dickie Toys- Toy Story 4 Buggy Crash Buzz radiocontrol  Multicolor  3155000 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QD8QN3R/?tag=tolees-21'
 descuento: '27.79'
 average: '36.07'

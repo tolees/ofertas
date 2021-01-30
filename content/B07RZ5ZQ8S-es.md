@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'Tefal First Cook - Set de sartenes de Aluminio para Gas y Vitrocerámica 18/22/26 cm  Revestimiento antiadherente sin PFOA  cocina sana  mejor difusión del calor. Fabricadas en Francia - Sin Inducción'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RZ5ZQ8S/?tag=tolees-21'
 descuento: '28.61'
 average: '29.95'

@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'PUMA Vikky v2 Ribbon Core  Zapatillas para Mujer  Black Silver White  37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DBXNRVR/?tag=tolees-21'
 descuento: '41.78'
 average: '34.9'

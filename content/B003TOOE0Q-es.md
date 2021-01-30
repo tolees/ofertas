@@ -16,6 +16,7 @@ comparePrice: 50.78 EUR
 prodname: 'BRA Sartén para Crepes  26 cm  aptas para todo tipo de cocinas incluida inducción'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003TOOE0Q/?tag=tolees-21'
 descuento: '27.27'
 average: '33.215'

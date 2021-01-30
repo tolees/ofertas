@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'PUMA St Activate  Zapatillas Unisex Adulto  Gris  Castlerock White/Hot Coral 15   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SF28B7C/?tag=tolees-21'
 descuento: '76.16'
 average: '11.91'

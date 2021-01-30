@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Levi s 502 Taper Shorts 10" Pantalones Cortos  Azul  Rainshower Short 0065   W34  Talla del Fabricante: 34  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TV6Z1VG/?tag=tolees-21'
 descuento: '38.35'
 average: '37.99'

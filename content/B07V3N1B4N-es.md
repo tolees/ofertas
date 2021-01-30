@@ -16,6 +16,7 @@ comparePrice: 124.9 EUR
 prodname: 'Tommy Hilfiger Modern Corporate Leather Runner  Zapatillas para Hombre  Azul  Desert Sky Dw5   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V3N1B4N/?tag=tolees-21'
 descuento: '44.75'
 average: '69.01'

@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Lydreewam Pendientes aro Colgantes De Letra X Plata de Ley 925 con 3A circonia cúbica para Mujer  diámetro 20mm  una pieza  no un par '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081KZWKHC/?tag=tolees-21'
 descuento: '68.36'
 average: '9.49'

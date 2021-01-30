@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'United Colors of Benetton Jeans Pantalones  Azul  BLU Scuro 911   82  Talla del Fabricante: 1Y  para Bebés'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KTNM9X5/?tag=tolees-21'
 descuento: '67.77'
 average: '6.43'

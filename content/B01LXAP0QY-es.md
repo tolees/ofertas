@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Philips Azur Performer Plus GC4516/40 - Plancha de vapor  2400W  golpe de vapor 190g  vapor de 45g/min  0.3 litros  Suela StreamGlide Plus  Acero Inoxidable  Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LXAP0QY/?tag=tolees-21'
 descuento: '31.66'
 average: '40.7475'

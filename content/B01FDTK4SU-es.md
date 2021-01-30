@@ -16,6 +16,7 @@ comparePrice: 39.13 EUR
 prodname: 'LEDKIA LIGHTING Baliza Augusta'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FDTK4SU/?tag=tolees-21'
 descuento: '42.68'
 average: '22.43'

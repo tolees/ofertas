@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Opret Cubiteras para Hielo Silicona  2 pcs Cubitos de Hielo con Tapa Moldes y Bandejas para Hielo  para Bebidas  Whisky  Cóctel y Comida para Bebés  Certificado LFGB y Sin BPA'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089XX6WG7/?tag=tolees-21'
 descuento: '40.02'
 average: '11.99'

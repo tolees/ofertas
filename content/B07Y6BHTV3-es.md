@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'Manicura Eléctrico  Pulidor de Uñas Aparatos Eléctricos y Accesorios para Manicura y Pedicura portátil con 6 Brocas para Todos Tipos de Uñas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y6BHTV3/?tag=tolees-21'
 descuento: '25.01'
 average: '21.74'

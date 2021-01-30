@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'DSstyles Reloj Hombre 5 ATM Resistente al agua Reloj deportivo con medición de ritmo cardíaco Pedometer Cronómetro - Naranja'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01DPBCVTI/?tag=tolees-21'
 descuento: '30.01'
 average: '25.19'

@@ -16,6 +16,7 @@ comparePrice: 24.73 EUR
 prodname: 'SiYear - Cable de conexión para micrófono  2 conectores XLR de 3 pines o 2 conectores RCA macho de audio HIFI  doble XLR a 2 conectores RCA macho  cable de conexión para micrófono de 3 m '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D7T2W8G/?tag=tolees-21'
 descuento: '31.30'
 average: '16.99'

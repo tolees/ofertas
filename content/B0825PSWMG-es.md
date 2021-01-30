@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Roxy Feel Happy 35l - Petate Deportivo Mediano Para Mujer Petate Deportivo Mediano  Mujer  Terra Cotta  1SZ'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0825PSWMG/?tag=tolees-21'
 descuento: '60.59'
 average: '22.055'

@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Scratch Art LANMOK Rascar Creativas Papel Manualidades con Rabados Dibujo scratch láminas decoración DIY para niños pintar rascando dibujos infántiles coloridos con plantillas y pencil de madera'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W6TZKR5/?tag=tolees-21'
 descuento: '45.94'
 average: '12.370000000000001'

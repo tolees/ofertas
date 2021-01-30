@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'ITALY MORN Hombre Jogger Pantalones Khaki para el Trabajo Baggy S Caqui Oscuro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079CCMFS7/?tag=tolees-21'
 descuento: '60.69'
 average: '34.99'

@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Luminarc Vina Set 6 Copas de Vino 47cl  6'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MQSZVYO/?tag=tolees-21'
 descuento: '32.49'
 average: '10.12'

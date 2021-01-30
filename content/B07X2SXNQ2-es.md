@@ -16,6 +16,7 @@ comparePrice: 24.3 EUR
 prodname: 'Eastpak SPRINGER Riñonera  23 cm  2 L  Verde  Meshknit Green '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X2SXNQ2/?tag=tolees-21'
 descuento: '33.33'
 average: '16.2'

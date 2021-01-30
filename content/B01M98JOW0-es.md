@@ -16,6 +16,7 @@ comparePrice: 86.94 EUR
 prodname: 'Manduca by MAM 199–41–13–003 Deluxe Cover Flex  Pluie Cover  Taille unique  Noir'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M98JOW0/?tag=tolees-21'
 descuento: '25.24'
 average: '65.83'

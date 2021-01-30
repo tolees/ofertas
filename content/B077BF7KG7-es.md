@@ -16,6 +16,7 @@ comparePrice: 109.99 EUR
 prodname: 'Kodak Mini Shot - Impresiones Inalámbricas de 5 X 7.6 cm con 4 Pass  Tecnología de Impresión Patentada  Cámara Digital de Impresión Instantánea 2 en 1  Negro  Basic'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077BF7KG7/?tag=tolees-21'
 descuento: '27.28'
 average: '82.25999999999999'

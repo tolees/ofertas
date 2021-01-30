@@ -16,6 +16,7 @@ comparePrice: 4.31 EUR
 prodname: 'Max Factor Colour Elixir Lipliner Perfilador de Labios Tono  6 Mauve Moment - 5 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007HL01AO/?tag=tolees-21'
 descuento: '47.80'
 average: '2.25'

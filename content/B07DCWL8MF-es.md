@@ -16,6 +16,7 @@ comparePrice: 9.0 EUR
 prodname: 'MolCar Parasol Coche para Luna Delantera Universal con 2 Ventosas 2 Correas Elásticas de Fácil Instalación  60x130cm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DCWL8MF/?tag=tolees-21'
 descuento: '44.56'
 average: '4.99'

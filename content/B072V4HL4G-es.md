@@ -16,6 +16,7 @@ comparePrice: 39.97 EUR
 prodname: 'KLIM™ RGB Alfombrilla de Ratón Chroma – Material de Alta Precisión – Efectos de Luces - Múltiples Modos - Gaming - para Jugadores [ Nueva 2020 Versión ]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072V4HL4G/?tag=tolees-21'
 descuento: '50.04'
 average: '19.124999999999996'

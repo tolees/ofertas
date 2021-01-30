@@ -16,6 +16,7 @@ comparePrice: 16.07 EUR
 prodname: 'Agger 2 Piezas de Asiento Ajustable posicionador del sueño del bebé del Cuello del Coche y Socorro de Soporte de la Cabeza del niño del Asiento de Coche/Protección Cochecito'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087M1CL7Y/?tag=tolees-21'
 descuento: '44.49'
 average: '8.92'

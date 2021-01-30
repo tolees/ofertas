@@ -16,6 +16,7 @@ comparePrice: 84.95 EUR
 prodname: 'Wrangler SLIM Jeans  Azul  Authentic Blue 85U   26W / 32L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M660ITM/?tag=tolees-21'
 descuento: '35.74'
 average: '54.59'

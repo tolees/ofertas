@@ -16,6 +16,7 @@ comparePrice: 1699.99 EUR
 prodname: 'Lenovo Yoga730 - Ordenador portátil táctil Convertible 13.3" FullHD  Intel Core i7-8550U  16GB RAM  512GB SSD  Intel UHD Graphics  Windows10  Gris - Teclado QWERTY Español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JCFX1WK/?tag=tolees-21'
 descuento: '46.03'
 average: '1301.3892307692308'

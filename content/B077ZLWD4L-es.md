@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Bosch Home and Garden 06008B2000 Tijeras de Podar 3.6 V Integrada  450 Cortes per Carga de Batería  en Blíster  5.4 W'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077ZLWD4L/?tag=tolees-21'
 descuento: '38.84'
 average: '64.145'

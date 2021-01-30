@@ -16,6 +16,7 @@ comparePrice: 2529.0 EUR
 prodname: 'Nikon AF-S 70-200mm F/2.8 G ED VRII - Objetivo con montura para Nikon  distancia focal 70-200mm  apertura f/2.8  estabilizador de imagen '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002JCSV8U/?tag=tolees-21'
 descuento: '32.75'
 average: '1700.72'

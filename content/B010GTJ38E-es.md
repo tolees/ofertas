@@ -16,6 +16,7 @@ comparePrice: 79 EUR
 prodname: 'Timex Expedition - Reloj análogico de cuarzo con correa de cuero para hombre  Marrón  Marrón/Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B010GTJ38E/?tag=tolees-21'
 descuento: '40.00'
 average: '43.195'

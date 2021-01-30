@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Case Logic Reflect Laptop Sleeve 15.6    funda para portátiles con pantalla de hasta 15.6"  acolchado Memory Foam  interior de felpa   Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HYXDFKY/?tag=tolees-21'
 descuento: '47.73'
 average: '18.29'

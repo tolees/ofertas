@@ -16,6 +16,7 @@ comparePrice: 127.9 EUR
 prodname: 'Trangoworld Trx2 Stretch Pro Pullover  Hombre  Naranja Intenso/Calabaza  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075NSBPL6/?tag=tolees-21'
 descuento: '49.19'
 average: '64.99'

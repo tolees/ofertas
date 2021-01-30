@@ -16,6 +16,7 @@ comparePrice: 15.9 EUR
 prodname: 'D-Link DES-1008D - Switch de Red con 8 Puertos LAN Fast Ethernet 10/100 Mbps RJ-45  no gestionable Layer 2  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00009VGXX/?tag=tolees-21'
 descuento: '30.88'
 average: '10.79'

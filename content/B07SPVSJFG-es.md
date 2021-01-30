@@ -16,6 +16,7 @@ comparePrice: 9.87 EUR
 prodname: 'Funko- Pop Marvel: 80th-First Appearance: Black Widow Collectible Figure  Multicolor  44502 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SPVSJFG/?tag=tolees-21'
 descuento: '29.18'
 average: '7.274'

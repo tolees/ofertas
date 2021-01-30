@@ -16,6 +16,7 @@ comparePrice: 38.99 EUR
 prodname: 'DLOPK Adaptador de Viaje Universal con 4 Puertos USB  MAX 5.6A  y 1xCargador Tipo-C 3A para US EU UK AU Japon Asia África Más de 150 Países  bue '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZRZVGN2/?tag=tolees-21'
 descuento: '46.17'
 average: '20.99'

@@ -16,6 +16,7 @@ comparePrice: 5.92 EUR
 prodname: '5D Pintura de Diamante de Imitación de Resina Decoración de Hogar Puerta Pared de Bricolaje DIY - #6'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071FHBP4Q/?tag=tolees-21'
 descuento: '44.43'
 average: '3.29'

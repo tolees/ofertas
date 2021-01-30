@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Maxmer Lámpara Vintage Colgante Luz Industrial Lámpara de Techo Retro Cocina Comedor Restaurante Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075FP1YNZ/?tag=tolees-21'
 descuento: '62.87'
 average: '25.99'

@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'Under Armour Undeniable 4.0 Duffle SM Bolsa De Deportes  Bolsa De Entrenamiento Unisex Negro OSFA'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JB1LB64/?tag=tolees-21'
 descuento: '30.03'
 average: '27.99'

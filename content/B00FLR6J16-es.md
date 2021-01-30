@@ -16,6 +16,7 @@ comparePrice: 74.95 EUR
 prodname: 'hummel Slimmer Stadil High  Zapatillas Altas Unisex  Negro-Schwarz  Black/White   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00FLR6J16/?tag=tolees-21'
 descuento: '67.98'
 average: '24.0'

@@ -16,6 +16,7 @@ comparePrice: 5.04 EUR
 prodname: 'Juwel 88049 - Algodón Filtro del Acuario bioflow 3.0 / Compacto'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000G04LWM/?tag=tolees-21'
 descuento: '52.58'
 average: '2.39'

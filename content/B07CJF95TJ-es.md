@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Impresora térmica de recibos 300 mm/s 80 mm Excelvan AUTO-CUT USB COM Internet （ 100 m ） Ethernet Puerto Serie Andriod ＆ IOS WINDOWS ＆ Linux soporte negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CJF95TJ/?tag=tolees-21'
 descuento: '34.00'
 average: '65.99'

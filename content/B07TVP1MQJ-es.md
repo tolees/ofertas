@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'BRIKSMAX Kit de Iluminación Led para Lego Ideas Tron Legacy  Compatible con Ladrillos de Construcción Lego Modelo 21314  Juego de Legos no Incluido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TVP1MQJ/?tag=tolees-21'
 descuento: '71.01'
 average: '28.99'

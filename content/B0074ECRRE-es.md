@@ -16,6 +16,7 @@ comparePrice: 161.67 EUR
 prodname: 'Walimex 17626 - Lámpara anular con Soporte Flexible  Potencia 75 W  diámetro Interior de 37 cm   Transparente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0074ECRRE/?tag=tolees-21'
 descuento: '66.00'
 average: '54.96'

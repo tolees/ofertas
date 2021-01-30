@@ -16,6 +16,7 @@ comparePrice: 10.41 EUR
 prodname: 'Pop! Romeo & Juliet - Figura de Vinilo Juliet'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H9Z1M6B/?tag=tolees-21'
 descuento: '27.38'
 average: '8.55'

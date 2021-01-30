@@ -16,6 +16,7 @@ comparePrice: 179.99 EUR
 prodname: 'Rowenta Power Steam VR8216F0 - Centro planchado 5 8 bares de presión de agua  autonomía ilimitada  golpe de vapor 300 g/min y vapor continuo 120 g/min  autoapagado y cartucho antical con modo Eco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BCS8W2N/?tag=tolees-21'
 descuento: '36.11'
 average: '114.99'

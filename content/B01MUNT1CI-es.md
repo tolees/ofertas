@@ -16,6 +16,7 @@ comparePrice: 51.99 EUR
 prodname: 'Uuhome Maletín Vacío para Maquillaje Portátil Impermeable Caja Estuche Organizador Naceser de Viaje Cosmético para Mujer con Separadores Rígidos Ajustables Tamaño Grande Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MUNT1CI/?tag=tolees-21'
 descuento: '46.16'
 average: '27.99'

@@ -16,6 +16,7 @@ comparePrice: 399.9 EUR
 prodname: 'HP 643A - Cartucho de tóner original LaserJet para Laserjet 4700 series  color amarillo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000BPLGZC/?tag=tolees-21'
 descuento: '87.47'
 average: '70.9075'

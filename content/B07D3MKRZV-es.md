@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Science4you - La Ciencia del Slime - Brilla en la Oscuridad  609518 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D3MKRZV/?tag=tolees-21'
 descuento: '42.94'
 average: '6.53625'

@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'CKSOHOT Masajeador Manual con 10 modos de Frecuencia Silencioso  Masajeador Personal de Cuerpo Completo  Masajeador Inalámbrico de Silicona para Masaje de Cuello  Espalda  Masaje Corporal'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MHKW5ZN/?tag=tolees-21'
 descuento: '40.02'
 average: '11.99'

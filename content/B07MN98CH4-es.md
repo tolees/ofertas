@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'The North Face Piqué Polo de Manga Corta  Hombre  Amarillo  Citrine Yellow   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MN98CH4/?tag=tolees-21'
 descuento: '62.13'
 average: '20.955'

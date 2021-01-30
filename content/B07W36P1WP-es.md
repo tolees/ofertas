@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Skechers Flex Appeal 3.0-Quick Voyage  Zapatillas sin Cordones para Mujer  Gris Carbón Turquesa Cctq  40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W36P1WP/?tag=tolees-21'
 descuento: '49.44'
 average: '31.28'

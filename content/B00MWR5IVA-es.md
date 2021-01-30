@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Logitech M280 Ratón Inalámbrico  2 4 GHz con Nano Receptor USB  Seguimiento Óptico 1000 DPI  3 Botones  Batería 18 Meses  PC/Mac/Portátil - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00MWR5IVA/?tag=tolees-21'
 descuento: '35.25'
 average: '20.789600000000004'

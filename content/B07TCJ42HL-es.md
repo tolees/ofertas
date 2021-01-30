@@ -16,6 +16,7 @@ comparePrice: 16.75 EUR
 prodname: 'ProbioMax X7 [60 billones de CFU] | Fórmula única de amplio espectro | Probióticos microencapsulados para evitar su degradación | Mejora el sistema inmunológico | 120 cápsulas de liberación prolongada'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TCJ42HL/?tag=tolees-21'
 descuento: '25.07'
 average: '12.55'

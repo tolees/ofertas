@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Helly Hansen HH Mizu V7 Aislado Botella De Agua Acero Inoxidable  Unisex Adulto  Black  One Size'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MVN77N3/?tag=tolees-21'
 descuento: '43.14'
 average: '19.9'

@@ -16,6 +16,7 @@ comparePrice: 160.0 EUR
 prodname: 'Saucony Ride ISO  Zapatillas de Running para Hombre  Naranja  Orange/Blue 36   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005B8X7PG/?tag=tolees-21'
 descuento: '56.28'
 average: '69.3'

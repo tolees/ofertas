@@ -16,6 +16,7 @@ comparePrice: 33.37 EUR
 prodname: 'MTNG Attitude 84086  Zapatillas para Hombre  Negro  Cato Negro/Texnew Gris C49024   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YL3N5ZG/?tag=tolees-21'
 descuento: '25.08'
 average: '25.0'

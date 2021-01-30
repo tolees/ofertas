@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Vans Herren Classic T-Shirt  Weiß  WHITE-BLACK YB2   XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003XDU3IU/?tag=tolees-21'
 descuento: '30.17'
 average: '20.413333333333334'

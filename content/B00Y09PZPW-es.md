@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Jata SW546 SANDWICHERA  1500 W  0 Decibeles  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00Y09PZPW/?tag=tolees-21'
 descuento: '31.83'
 average: '25.560000000000002'

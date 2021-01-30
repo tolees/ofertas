@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Trust Gaming GXT 180 Kusan - Ratón Pro Gaming con Peso optimizado y Software avanzado  Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0792N4VDB/?tag=tolees-21'
 descuento: '84.44'
 average: '11.34'

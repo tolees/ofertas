@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'New Balance 247v2  Zapatillas para Mujer  Morado  Deep Cosmic Sky/Deep Cosmic Sky Uj   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075XLQVRM/?tag=tolees-21'
 descuento: '50.58'
 average: '40.0525'

@@ -16,6 +16,7 @@ comparePrice: 7.98 EUR
 prodname: 'KN95 FFP2 Certificado CE Mascarilla  Unica  Blanco  Talla'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088MBGD19/?tag=tolees-21'
 descuento: '55.01'
 average: '7.176666666666667'

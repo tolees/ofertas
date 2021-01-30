@@ -16,6 +16,7 @@ comparePrice: 79.0 EUR
 prodname: 'Rowenta Access Steam Care DR9100D1 - Cepillo de vapor 1600 W  depósito 200 ml  elimina arrugas  olores y desinfecta  calentamiento 40 segundos  tabla vertical  Reacondicionado Certificado '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NJFPZTC/?tag=tolees-21'
 descuento: '37.97'
 average: '49.0'

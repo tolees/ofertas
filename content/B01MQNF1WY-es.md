@@ -16,6 +16,7 @@ comparePrice: 128.99 EUR
 prodname: 'Asics Gel-Lyte V  Zapatillas Unisex Adulto  Blanco  Bianco   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MQNF1WY/?tag=tolees-21'
 descuento: '55.04'
 average: '61.583333333333336'

@@ -16,6 +16,7 @@ comparePrice: 101.9 EUR
 prodname: 'HP CB436A 36A Cartucho de Tóner Original  1 unidad  negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000XVLZNC/?tag=tolees-21'
 descuento: '72.13'
 average: '44.972500000000004'

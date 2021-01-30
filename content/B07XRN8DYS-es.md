@@ -16,6 +16,7 @@ comparePrice: 35.44 EUR
 prodname: 'Rizador de Pestañas Electrico  Rizador de Pestañas Termico Recargable con Pantalla digital LCD Maquillaje Portátil Herramienta de Estilo de Pestañas de Belleza'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XRN8DYS/?tag=tolees-21'
 descuento: '43.59'
 average: '19.99'

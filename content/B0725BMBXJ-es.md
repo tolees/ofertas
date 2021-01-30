@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Rise Of The Tomb Rider: 20 Aniversario'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0725BMBXJ/?tag=tolees-21'
 descuento: '58.95'
 average: '16.068571428571428'

@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Haton Bandas Elasticas Musculacion Antideslizantes Banda Elástica Costura Conjunto de Cintas de Resistencia Fitness para Glúteos Cadera Piernas Brazos Yoga Pilates Fitness Mujer y Hombre 3 Set '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088LSL22G/?tag=tolees-21'
 descuento: '31.27'
 average: '10.99'

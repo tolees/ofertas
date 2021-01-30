@@ -16,6 +16,7 @@ comparePrice: 88.99 EUR
 prodname: 'Asics Gel-BND  Zapatillas de Balonmano para Hombre  Negro  Black/Baltic Jewel 003   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RXLBHNX/?tag=tolees-21'
 descuento: '25.85'
 average: '65.99'

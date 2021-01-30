@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Under NY Sky Delantal Azul - Tela Vaquera Profesional - Correas de Espalda Cruzada - Multi Bolsillos - Ajustable  Hombres  Mujeres  Chef  Barista  Barbero  Barman  Dependiente Tenda  Artista Tatuaje'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MTKM5VV/?tag=tolees-21'
 descuento: '50.01'
 average: '29.99'

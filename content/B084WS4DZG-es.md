@@ -16,6 +16,7 @@ comparePrice: 19.66 EUR
 prodname: 'LxTek Reemplazo Compatible para Epson 29 29XL Multipack Cartuchos de tinta para Epson Expression Home XP-235 XP-245 XP-247 XP-255 XP-342 XP-332 XP-335 XP-345 XP-355 XP-352 XP-432 XP-435 XP-442 XP-445'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084WS4DZG/?tag=tolees-21'
 descuento: '27.98'
 average: '14.16'

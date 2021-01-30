@@ -16,6 +16,7 @@ comparePrice: 0.2 EUR
 prodname: 'Cámara Domo de Seguridad CCTV de vigilancia de imitación simulada para Interiores con luz LED Guardia de Seguridad IP-1800 - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08425JCNB/?tag=tolees-21'
 descuento: '95.00'
 average: '0.01'

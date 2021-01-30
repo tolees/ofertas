@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'Nike T-Lite Xi  Zapatillas Hombre   Negro  Black   38.5'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BYG3OSE/?tag=tolees-21'
 descuento: '50.10'
 average: '24.95'

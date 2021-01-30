@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'One Piece: Unlimited World - Red Deluxe Edition  Code In A Box '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SMHFVGV/?tag=tolees-21'
 descuento: '47.62'
 average: '20.3675'

@@ -16,6 +16,7 @@ comparePrice: 13.5 EUR
 prodname: 'Garnier Delial Bruma Protectora Refrescante UV Water Alta Protección Cuerpo y Rostro IP30-200 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P5LVCXH/?tag=tolees-21'
 descuento: '30.07'
 average: '10.41'

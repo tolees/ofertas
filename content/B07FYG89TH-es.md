@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Bandolera para portátil Pepe Jeans Bromley Verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FYG89TH/?tag=tolees-21'
 descuento: '29.98'
 average: '28.0'

@@ -16,6 +16,7 @@ comparePrice: 60.99 EUR
 prodname: 'Philips Serie 7000 BG7020/15 - Afeitadora corporal con cabezal de recorte y de afeitado  apta para la ducha  70 minutos de uso'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GKP6QSF/?tag=tolees-21'
 descuento: '37.06'
 average: '45.08'

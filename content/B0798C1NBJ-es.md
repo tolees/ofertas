@@ -16,6 +16,7 @@ comparePrice: 31.79 EUR
 prodname: 'Dim AD0062P Sujetador con Copa Completa  Negro  Negro 127   95  Tamaño del Fabricante:95 C  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0798C1NBJ/?tag=tolees-21'
 descuento: '66.69'
 average: '10.59'

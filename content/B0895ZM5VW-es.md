@@ -16,6 +16,7 @@ comparePrice: 27.98 EUR
 prodname: 'Donci La cortina de malla de la puerta con pantalla magnética manos libres mantiene a los insectos afuera Se adapta a puertas de hasta 210 * 100cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0895ZM5VW/?tag=tolees-21'
 descuento: '53.57'
 average: '22.182'

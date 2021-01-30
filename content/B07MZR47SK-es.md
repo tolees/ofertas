@@ -16,6 +16,7 @@ comparePrice: 38.26 EUR
 prodname: 'Pepe Jeans London Klein Archive Washed  Zapatillas para Hombre  Green 665  44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZR47SK/?tag=tolees-21'
 descuento: '26.87'
 average: '29.555'

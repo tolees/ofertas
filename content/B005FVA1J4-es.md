@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'Pedigree Pack de Dentastix de uso Diario para la Limpieza Dental de Perros Pequeños  10 Packs de 7ud '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005FVA1J4/?tag=tolees-21'
 descuento: '49.75'
 average: '10.538333333333332'

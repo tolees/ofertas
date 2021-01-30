@@ -16,6 +16,7 @@ comparePrice: 39.0 EUR
 prodname: 'Tefal - Sartén grill 26x26cm aluminio fundido  compatible Inducción  Gas  Eléctrico y Vitrocerámica  revestimiento antiadherente sin PFOA  sin plomo  sin Cadmio. Tapa y accesorios aptos lavavajillas.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076B1QNRH/?tag=tolees-21'
 descuento: '25.64'
 average: '29.0'

@@ -16,6 +16,7 @@ comparePrice: 1500.0 EUR
 prodname: 'Sony HT-ST5000 - Barra de Sonido  7.1.2 Canales  800 W  Dolby Atmos  Hi-Res Audio  Bluetooth  NFC  Wi-fi  S-Force Pro con Wave-Front  Surround 3D  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N6NXEY7/?tag=tolees-21'
 descuento: '33.40'
 average: '1114.1850000000002'

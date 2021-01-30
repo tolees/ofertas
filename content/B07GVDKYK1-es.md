@@ -16,6 +16,7 @@ comparePrice: 51.98 EUR
 prodname: 'Magichome Temporizador Digital Programable  Enchufe Programador con Pantalla LCD 12/24 Horas  Diario/Semanal  temporizador enchufe con Horario Aleatorio y de Verano Ahorrar Energía y Dinero 2 piezas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GVDKYK1/?tag=tolees-21'
 descuento: '61.74'
 average: '20.89'

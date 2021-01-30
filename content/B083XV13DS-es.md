@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Enotepad Gráfico Electrónico Portátil  eWriter Digital Dibujo Colorido 9 Pulgadas LCD Doodle Pad Tableta Gráfica LCD para Niños Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083XV13DS/?tag=tolees-21'
 descuento: '47.39'
 average: '13.989999999999998'

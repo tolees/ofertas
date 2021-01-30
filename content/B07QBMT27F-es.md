@@ -16,6 +16,7 @@ comparePrice: 35.69 EUR
 prodname: 'Fregona con Pulverizador   4 mopas lavables  Mopa Spray Rotación de 360°  Vaporizador Integrado Capacidad de 500ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QBMT27F/?tag=tolees-21'
 descuento: '49.59'
 average: '21.94'

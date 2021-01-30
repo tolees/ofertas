@@ -16,6 +16,7 @@ comparePrice: 51.95 EUR
 prodname: 'FIDECO Docking Station  Aluminio USB 3.0 Base de conexión con función de clon Offline y 2 bahias para SATA I/II/III HDD y SSD de 2 5/3 5 Pulgadas  hasta 2X 10TB'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073QGFJ8V/?tag=tolees-21'
 descuento: '32.17'
 average: '35.24'

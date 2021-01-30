@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'Think Gizmos Equipo de construcción para niños – Ingenious Machines a Control Remoto Kit de Construcción de Juguete  Robot Pato  Maquina de Fuego  Tren y Robot Esquiador '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01ANWSYE8/?tag=tolees-21'
 descuento: '50.12'
 average: '19.95'

@@ -16,6 +16,7 @@ comparePrice: 37.95 EUR
 prodname: 'Fantasy Flight Games- Star Wars X-Wing: Renegados de Saw - Español  FFSWX74 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DWJG61W/?tag=tolees-21'
 descuento: '45.19'
 average: '20.8'

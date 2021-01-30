@@ -16,6 +16,7 @@ comparePrice: 2.99 EUR
 prodname: 'Petrus Grapas  10 hojas  Largo 4 mm  1000 grapas  Modelo 10  55706'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00JMFZR02/?tag=tolees-21'
 descuento: '72.91'
 average: '0.81'

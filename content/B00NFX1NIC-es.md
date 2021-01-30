@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Beurer AS 80 - Sensor de actividad Bluetooth  compatible con App"Health Manager"  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NFX1NIC/?tag=tolees-21'
 descuento: '48.55'
 average: '30.82'

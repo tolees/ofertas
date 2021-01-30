@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Neewer App Control Anillo Luz LED 41cm Táctil Manual Soporte con Pantalla LCD Control Luces Múltiples 3200-5600K Soporte Luz Incluido para Maquillaje Youtube Video Blogger Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W5NX6R2/?tag=tolees-21'
 descuento: '26.50'
 average: '44.09'

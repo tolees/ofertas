@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Adidas Tiro 19 Polyestere Hose Pantalones Deportivos  Hombre  Negro  Black/White   XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K17QCPW/?tag=tolees-21'
 descuento: '25.23'
 average: '29.87'

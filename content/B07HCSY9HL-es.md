@@ -16,6 +16,7 @@ comparePrice: 1299.99 EUR
 prodname: 'Dell Precision 3530 - Ordenador portátil 15.6" FullHD  Intel Core i7-8750H  8GB RAM  256GB SSD  Windows 10 Pro  Negro - Teclado QWERTY español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HCSY9HL/?tag=tolees-21'
 descuento: '34.89'
 average: '855.755'

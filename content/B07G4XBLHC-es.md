@@ -16,6 +16,7 @@ comparePrice: 71.63 EUR
 prodname: 'CHAKB|#Chatham Fairway  Mocasines para Hombre   Navy 001   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G4XBLHC/?tag=tolees-21'
 descuento: '73.96'
 average: '18.65'

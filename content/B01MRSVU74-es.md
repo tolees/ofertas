@@ -16,6 +16,7 @@ comparePrice: 63.99 EUR
 prodname: 'Braun MGK3060 Corta Barbas Hombre 8En1 Recortadora Barba y Cortapelos para Nariz y Orejas  Pequeños Detalles  Cuchillas de Larga Duración  Maquinilla Gillette Fusion5 ProGlide con Tecnología FlexBall'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MRSVU74/?tag=tolees-21'
 descuento: '39.18'
 average: '37.35857142857143'

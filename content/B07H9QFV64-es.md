@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Etiquetas adhesivas Unicornio Tatuajes Temporales - Unicornio Regalos para Niños  Impermeables Tatuajes de Unicornio Mejores Regalos de Cumpleaños para Niñas y Niños  Más de 300 Tatuajes Adhesivos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H9QFV64/?tag=tolees-21'
 descuento: '43.78'
 average: '8.99'

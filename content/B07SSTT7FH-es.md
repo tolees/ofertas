@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Doom'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SSTT7FH/?tag=tolees-21'
 descuento: '25.21'
 average: '14.95'

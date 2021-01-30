@@ -16,6 +16,7 @@ comparePrice: 69.9 EUR
 prodname: 'Pepe Jeans Malibu Summer  Zapatillas para Hombre  Verde Caqui Green 765  43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VFWQ29W/?tag=tolees-21'
 descuento: '45.68'
 average: '37.97'

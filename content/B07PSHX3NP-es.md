@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'HAVIT Auriculares Bluetooth Inalámbricos 5.0 Auricular Deportivos con Caja de Carga Sonido Estére In-Ear Auricular Mini con Micrófono para Xiaomi/Samsung/Huawei/y Otros I91 Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PSHX3NP/?tag=tolees-21'
 descuento: '45.01'
 average: '23.656666666666666'

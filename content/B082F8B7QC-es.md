@@ -16,6 +16,7 @@ comparePrice: 36.53 EUR
 prodname: 'SYROKAN - Sujetador Deportivo Máximo Soporte Sin Relleno para Mujer Rosa Desnuda ES:105B  EU 90B '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082F8B7QC/?tag=tolees-21'
 descuento: '34.30'
 average: '24.0'

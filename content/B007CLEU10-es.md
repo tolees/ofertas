@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Reebok Workout Plus  Zapatillas de Deporte para Hombre  Blanco  white/royal   40 EU  6.5 UK '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007CLEU10/?tag=tolees-21'
 descuento: '32.30'
 average: '54.16'

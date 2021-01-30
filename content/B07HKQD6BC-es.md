@@ -16,6 +16,7 @@ comparePrice: 21.58 EUR
 prodname: 'Estante de Pinceles de Maquillaje Holder Estuche de Almacenaje de Cepillo - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HKQD6BC/?tag=tolees-21'
 descuento: '44.44'
 average: '11.99'

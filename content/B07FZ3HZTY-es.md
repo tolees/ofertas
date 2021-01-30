@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Kipling - Fundamental Nc  Mochilas Mujer  Azul  Lively Navy '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FZ3HZTY/?tag=tolees-21'
 descuento: '50.00'
 average: '41.3125'

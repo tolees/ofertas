@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'Under Armour Sc30 Sleeveless tee Tanque  Niños  Negro  Black/Red Rage 001   XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CZMGLYL/?tag=tolees-21'
 descuento: '28.05'
 average: '19.42'

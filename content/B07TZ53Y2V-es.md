@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Women s Secret Bralettes 2 Sbhtop Sujetador de triángulo  Multicolor  Gama Rosas/Morados 72   90  Tamaño del Fabricante: 90B  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TZ53Y2V/?tag=tolees-21'
 descuento: '42.30'
 average: '14.42'

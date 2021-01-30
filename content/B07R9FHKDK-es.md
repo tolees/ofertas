@@ -16,6 +16,7 @@ comparePrice: 21.6 EUR
 prodname: 'JACK & JONES Jfwduston PU Combo  Botas Chukka para Hombre  Marrón  Java Java   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R9FHKDK/?tag=tolees-21'
 descuento: '30.83'
 average: '20.56'

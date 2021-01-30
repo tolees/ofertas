@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Under Armour Sportstyle Tricot Jogger Pantalones  Hombre  Gris  Carbon Heather/Black 090   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MEHHVTO/?tag=tolees-21'
 descuento: '27.77'
 average: '37.763333333333335'

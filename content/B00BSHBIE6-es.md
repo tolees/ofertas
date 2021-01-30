@@ -16,6 +16,7 @@ comparePrice: 12.64 EUR
 prodname: 'UNYQUE Compresas Maternidad de Algodon Puro 100% Hipoalergénicas - Previene Infecciones de la Sutura Posparto - Suavidad Extrema Super Acolchadas Desechables y Absorbentes - 12 Unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BSHBIE6/?tag=tolees-21'
 descuento: '34.18'
 average: '8.32'

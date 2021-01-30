@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'PROJEWE 30-72 Pares Aretes Surtidos Múltiples Pendientes para Mujeres Niñas Simple Aretes Bola Pequeña Estrella Aro CZ Pequeños Pendientes Ear Cuffs Antialergicos Surtido de Pendientes Set'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089KKLHGX/?tag=tolees-21'
 descuento: '33.10'
 average: '8.69'

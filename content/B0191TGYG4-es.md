@@ -16,6 +16,7 @@ comparePrice: 4.43 EUR
 prodname: 'Cartulinas Colores'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0191TGYG4/?tag=tolees-21'
 descuento: '32.28'
 average: '3.0'

@@ -16,6 +16,7 @@ comparePrice: 19.72 EUR
 prodname: 'TMISHION Ortesis para el Hombro  Corrector de Postura del Hombro  Transpirable Ajustable  cinturón de Hombro Unisex para Adultos y niños con Correas Ajustables Negro S '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H2HV87J/?tag=tolees-21'
 descuento: '52.89'
 average: '9.29'

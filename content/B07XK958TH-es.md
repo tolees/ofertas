@@ -16,6 +16,7 @@ comparePrice: 134.99 EUR
 prodname: 'Seagate One Touch SSD  500 GB  Disco duro externo portátil SSD  gris/blanco  USB-C  USB 3.0 para PC y Mac  1 año de suscripción a Mylio Create  2 meses de suscripción Adobe CC Photography  STJE500400 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XK958TH/?tag=tolees-21'
 descuento: '42.88'
 average: '81.038'

@@ -16,6 +16,7 @@ comparePrice: 74.9 EUR
 prodname: 'Tommy Hilfiger TH Patch Espadrille  Alpargata para Mujer  Azul  Midnight 403   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L3G6X1R/?tag=tolees-21'
 descuento: '46.73'
 average: '38.266666666666666'

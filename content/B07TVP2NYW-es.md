@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'BRIKSMAX Kit de Iluminación Led para Lego Technic Carretilla Elevadora de Alto Rendimiento  Compatible con Ladrillos de Construcción Lego Modelo 42079  Juego de Legos no Incluido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TVP2NYW/?tag=tolees-21'
 descuento: '72.01'
 average: '27.99'

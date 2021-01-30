@@ -16,6 +16,7 @@ comparePrice: 22.37 EUR
 prodname: 'Fifty Pounds Ginebra - 700 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004EXON0W/?tag=tolees-21'
 descuento: '38.13'
 average: '16.897499999999997'

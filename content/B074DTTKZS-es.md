@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Ringke Fusion Compatible con Funda Samsung Galaxy Note 8 Transparente al Dorso del PC y Frente TPU [Tecnologia para Proteccion a la caida] protectiva con Armadura Mejorada para Note8 - Clear'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074DTTKZS/?tag=tolees-21'
 descuento: '26.68'
 average: '10.99'

@@ -16,6 +16,7 @@ comparePrice: 220 EUR
 prodname: 'Helly Hansen Salt Light Jacket  Hombre  Azul  Marino   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073RP9W7J/?tag=tolees-21'
 descuento: '49.47'
 average: '110.58500000000001'

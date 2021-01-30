@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'DINOKA esterillas Inflables  Esterilla Acampada Camping  Ultraligera Colchon Acampada Diseño de compresión único Inflado rápido para viajes senderismo camping playa piscina piscina  dar-azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QQXRT3W/?tag=tolees-21'
 descuento: '48.34'
 average: '30.656666666666666'

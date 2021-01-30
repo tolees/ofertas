@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Star Ibaby Oxford Cloth - Parque de bebés ultraligero'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075KQ8H3Y/?tag=tolees-21'
 descuento: '35.74'
 average: '47.45'

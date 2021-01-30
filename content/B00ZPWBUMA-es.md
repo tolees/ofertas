@@ -16,6 +16,7 @@ comparePrice: 58.8 EUR
 prodname: 'Roca - Brazo de pared para rociador de 400 mm . Duchas y rociadores. Ref. A5B0450C00'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ZPWBUMA/?tag=tolees-21'
 descuento: '30.95'
 average: '40.6'

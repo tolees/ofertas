@@ -16,6 +16,7 @@ comparePrice: 38.53 EUR
 prodname: 'BYDT HP 593553-001 Laptop Baterías para HP 593554-001 MU06 MU09 Envy 17  for Pavilion G6 G4 G7 DM4 DV7-4000 DV5-2000 DV3-4000  Compaq Presario CQ32 CQ42 CQ43 CQ56 CQ62 CQ72 Dm4 HSTNN-UB0W HSTNN-Q62C'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MFXSPTW/?tag=tolees-21'
 descuento: '30.26'
 average: '26.87'

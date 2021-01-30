@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'GALAX PRO Sierras circulares/Sierra Sable  20V Batería 4.0Ah  con Cargador  Velocidad Regulable0-3400RPM/3000SPM  7 Hojas para Madera  Metal  Azulejos/T0102'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WTZ78ST/?tag=tolees-21'
 descuento: '40.00'
 average: '115.24'

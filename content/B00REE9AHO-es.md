@@ -16,6 +16,7 @@ comparePrice: 435.0 EUR
 prodname: 'Piquadro BV3148OS/G Trolley para portátiles  38 x 21 x 53 cm  color Amarillo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00REE9AHO/?tag=tolees-21'
 descuento: '50.62'
 average: '214.82'

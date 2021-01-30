@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'PUMA One 5.4 TT  Botas de fútbol para Hombre  White Black-Yellow Alert  42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KG6Z5YT/?tag=tolees-21'
 descuento: '35.40'
 average: '32.27'

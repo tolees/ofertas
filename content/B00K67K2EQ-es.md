@@ -16,6 +16,7 @@ comparePrice: 12.06 EUR
 prodname: 'L Oréal Paris Millón de Pestañas So Couture Máscara Pestañas volumen definido - 9.5 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00K67K2EQ/?tag=tolees-21'
 descuento: '54.06'
 average: '5.54'

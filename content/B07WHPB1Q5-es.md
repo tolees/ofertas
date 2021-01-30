@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Vicloon Organizador de Equipaje  6 en 1 Set de Organizadores de Viajes  Impermeable Organizador de Maleta Bolsa Incluir 3 * Cubos del Embalaje del Recorrido y 3 * Bolsos de la Compresión  Gris '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WHPB1Q5/?tag=tolees-21'
 descuento: '30.79'
 average: '8.99'

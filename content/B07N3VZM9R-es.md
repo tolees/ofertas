@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Desigual Scarves TARS Bufanda  Blanco  Crudo 1001   Talla única para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N3VZM9R/?tag=tolees-21'
 descuento: '50.06'
 average: '19.95'

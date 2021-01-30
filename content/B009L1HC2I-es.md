@@ -16,6 +16,7 @@ comparePrice: 949.0 EUR
 prodname: 'Fujifilm 14 mm f:2.8 XF R - Objetivo  Distancia Focal Fija  diámetro: 58 mm   Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B009L1HC2I/?tag=tolees-21'
 descuento: '47.32'
 average: '612.2366666666667'

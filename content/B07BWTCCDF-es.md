@@ -16,6 +16,7 @@ comparePrice: 37.0 EUR
 prodname: 'Nike Nk Acdmy Team L Hdcs Gym Duffel Bag  Unisex Adulto  Black/Black/White  MISC'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BWTCCDF/?tag=tolees-21'
 descuento: '25.27'
 average: '27.65'

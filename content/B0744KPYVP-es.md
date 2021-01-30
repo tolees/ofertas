@@ -16,6 +16,7 @@ comparePrice: 85.95 EUR
 prodname: 'Calcetines de Senderismo de Lana Merino 3 pares  Marrón  EU 43-47 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0744KPYVP/?tag=tolees-21'
 descuento: '63.99'
 average: '30.95'

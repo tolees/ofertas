@@ -16,6 +16,7 @@ comparePrice: 10.78 EUR
 prodname: 'MagiDeal 1 Par Auriculares con Cable para Juegos de Computadora Portátil PC Tableta - Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0894X3BBH/?tag=tolees-21'
 descuento: '44.43'
 average: '5.99'

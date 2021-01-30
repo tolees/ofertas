@@ -16,6 +16,7 @@ comparePrice: 42.5 EUR
 prodname: 'Calvin Klein Hombre - Pack de 3 bóxers de tiro medio - Cotton Stretch  Azul  Black/Blue Shadow/Cobalt Water Dtm Wb 4Ku   XS   Pack de 3 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QNXWK91/?tag=tolees-21'
 descuento: '35.53'
 average: '28.232857142857142'

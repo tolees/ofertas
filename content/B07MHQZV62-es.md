@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'JBL 104 One Series Monitores de Referencia Pareja'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MHQZV62/?tag=tolees-21'
 descuento: '31.01'
 average: '93.0'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Redpawz R13 LED RTF Drone Para Niños RC Quadcopter con Toss/Shake Take Off Control Gestos Evitación de obstáculos Modo sin Cabeza 3Modos de Velocidad Estabilización de Altitud Principiantes-2 Baterías'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZT2R7LC/?tag=tolees-21'
 descuento: '28.01'
 average: '30.82'

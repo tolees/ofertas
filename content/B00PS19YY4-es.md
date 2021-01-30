@@ -16,6 +16,7 @@ comparePrice: 30.99 EUR
 prodname: 'DeWalt DT70523T-QZ Juego de Piezas para Atornillar  0 W  0 V'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00PS19YY4/?tag=tolees-21'
 descuento: '41.43'
 average: '18.15'

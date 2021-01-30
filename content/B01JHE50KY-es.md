@@ -16,6 +16,7 @@ comparePrice: 10.23 EUR
 prodname: 'Kingston DT50/16GB Llave Usb  16 Gb  Verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01JHE50KY/?tag=tolees-21'
 descuento: '38.51'
 average: '5.988571428571428'

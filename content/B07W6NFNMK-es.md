@@ -16,6 +16,7 @@ comparePrice: 98.57 EUR
 prodname: 'Tommy Hilfiger Hombre Bleecker Th Flex Satin Chino Gmd Loose Fit Jeans  Verde  Faded Olive   W30/L36'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W6NFNMK/?tag=tolees-21'
 descuento: '79.66'
 average: '20.05'

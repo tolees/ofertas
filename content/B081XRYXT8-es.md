@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'LA Active Calcetines Antideslizantes - Para Yoga Pilates Ballet Barre Mujer Hombre Hospital - Crew  Gris y Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081XRYXT8/?tag=tolees-21'
 descuento: '34.11'
 average: '14.49'

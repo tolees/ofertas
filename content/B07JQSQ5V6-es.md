@@ -16,6 +16,7 @@ comparePrice: 89.18 EUR
 prodname: 'AUKEY Auriculares inalámbricos  Auriculares Bluetooth 5 de Key Series con Controlador Híbrido  aptX Low Latency  Resistencia al Agua del Nivel IPX6  Duración de Batería de 8 Horas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JQSQ5V6/?tag=tolees-21'
 descuento: '26.64'
 average: '68.46666666666667'

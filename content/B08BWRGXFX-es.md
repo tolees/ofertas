@@ -16,6 +16,7 @@ comparePrice: 19.88 EUR
 prodname: 'LXHGrowH Funda para Huawei P40 Lite E - Carcasa Completa Anti-Shock [360°] Full Body Protección [Silicona TPU Frente] y [Duro PC Back] para Huawei P40 Lite E - Cover Doble [Transparente]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BWRGXFX/?tag=tolees-21'
 descuento: '54.78'
 average: '8.99'

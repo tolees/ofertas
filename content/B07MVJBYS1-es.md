@@ -16,6 +16,7 @@ comparePrice: 89 EUR
 prodname: 'Kipling - Imagine Pack  Bolsos totes Mujer  Morado  Dark Plum   57x49x18 cm  B x H T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MVJBYS1/?tag=tolees-21'
 descuento: '74.06'
 average: '23.130000000000003'

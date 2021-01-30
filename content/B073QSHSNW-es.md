@@ -16,6 +16,7 @@ comparePrice: 12.95 EUR
 prodname: 'L Oréal Paris Make-up designer True Match Corrector Tono 3D/W Beige D - 1 Corrector'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073QSHSNW/?tag=tolees-21'
 descuento: '54.44'
 average: '4.453333333333333'

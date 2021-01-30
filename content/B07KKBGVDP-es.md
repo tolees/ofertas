@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'SM Bondage kit sujeción piezas conjunto- Juguetes eróticos 2 Pares BDSM Esposas Cuero Juego de Correas Bondage Set Restricciones Fetiche Juguete sexuales'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KKBGVDP/?tag=tolees-21'
 descuento: '57.71'
 average: '10.99'

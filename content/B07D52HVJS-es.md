@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'MZMing 2piecesx235cm Artificial Cereza Colgando Vid Flor Artificial Brote Flor Planta Artificial Flor Vid Hojas Para Familia Jardín Fiesta Cerca Decoración de la Boda-Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D52HVJS/?tag=tolees-21'
 descuento: '25.02'
 average: '8.99'

@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'DONPEREGRINO Maleta Cabina Avión 55x40x20 Rígida  Ligera y Resistente  Maleta de Viaje Equipaje de Mano Full Forrada con 4 Doble-Ruedas 360° Giratorias'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0833WHQDJ/?tag=tolees-21'
 descuento: '28.58'
 average: '49.99'

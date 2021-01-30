@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: '[Paquete de 2] Surface Laptop 3/ Laptop 2 Protector de Pantalla [Vidrio Templado]  [Tacto Suave] [Respuesta rápida] [Anti-Scratch]-13.5 Pulgadas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DNT5KJ5/?tag=tolees-21'
 descuento: '29.98'
 average: '21.0'

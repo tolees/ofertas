@@ -16,6 +16,7 @@ comparePrice: 2699.99 EUR
 prodname: 'ASUS ROG Zephyrus S GX531GXR-AZ063T - Ordenador portátil Gaming de 15.6" FullHD  Intel Core i7-9750H  24GB RAM  1TB SSD  GeForce RTX 2080-8GB  Windows 10  negro - Teclado QWERTY Español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084DRQRR8/?tag=tolees-21'
 descuento: '25.96'
 average: '1999.0'

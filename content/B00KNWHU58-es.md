@@ -16,6 +16,7 @@ comparePrice: 68.0 EUR
 prodname: 'Orlane Oligo Vit-A-Min Crema Anti Oxydante 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KNWHU58/?tag=tolees-21'
 descuento: '48.54'
 average: '34.715'

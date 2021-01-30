@@ -16,6 +16,7 @@ comparePrice: 26.0 EUR
 prodname: 'Funko- Pop NBA: Lakers-Lebron James Figura Coleccionable  Multicolor  46549 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WWXX99C/?tag=tolees-21'
 descuento: '48.50'
 average: '12.71'

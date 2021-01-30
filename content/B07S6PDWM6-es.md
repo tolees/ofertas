@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'PUMA Smash V2 L  Zapatillas Unisex Adulto  Weiß White High Risk Red Team Gold  40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S6PDWM6/?tag=tolees-21'
 descuento: '49.93'
 average: '26.505000000000003'

@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'Alligator 3093 Cortador de Fruta  Verdura y Cebolla  Negro/Acero Inoxidable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002KXH0WG/?tag=tolees-21'
 descuento: '37.70'
 average: '80.37'

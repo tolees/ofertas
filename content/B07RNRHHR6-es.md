@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Belkin Boost Up - Soporte de Carga Inalámbrica para Coche  para Rejilla de Ventilación de 10 W  para iPhone 11  11 Pro/Pro Max  XS  XS MAX  XR  X  8  8+  Samsung Galaxy S10  S10+  S10e y Otros  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RNRHHR6/?tag=tolees-21'
 descuento: '26.12'
 average: '44.555'

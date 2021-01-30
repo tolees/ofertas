@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'ITECHNIK Recambios Cepillo Compatible Oral B  Cabezal de Recambio Para Oral-B Cepillo de Dientes Eléctrico Floss cabezales para cepillos  8 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XZ6GZXJ/?tag=tolees-21'
 descuento: '40.02'
 average: '11.99'

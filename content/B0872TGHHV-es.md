@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Filtros reemplazables unisex de 5 capas  antipolvo y niebla  filtro de carbón activado  almohadillas de algodón para exteriores'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0872TGHHV/?tag=tolees-21'
 descuento: '39.74'
 average: '8.59'

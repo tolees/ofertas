@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'New Balance Zapatillas KJ373PDY Azul/Rojo  Deporte Unisex Adulto  38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G15VYC8/?tag=tolees-21'
 descuento: '30.03'
 average: '34.95'

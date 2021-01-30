@@ -16,6 +16,7 @@ comparePrice: 11.69 EUR
 prodname: '1 par de manetas de freno de embrague de 7/8 pulgadas  maneta de freno de tambor universal Keenso de 22 mm  rojo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WX2PW7L/?tag=tolees-21'
 descuento: '26.52'
 average: '8.59'

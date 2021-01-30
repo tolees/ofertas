@@ -16,6 +16,7 @@ comparePrice: 3.52 EUR
 prodname: 'Panamar Damas / Tejidos no Tejidos Tablero de ajedrez Plegable Juego de ajedrez Internacional Juego de Mesa de Viaje Juguete de Competencia - Blanco y Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CVMY36H/?tag=tolees-21'
 descuento: '33.52'
 average: '2.34'

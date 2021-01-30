@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'LORUS Reloj de Pulsera RW615AX9'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00M97RCI0/?tag=tolees-21'
 descuento: '50.18'
 average: '60.849999999999994'

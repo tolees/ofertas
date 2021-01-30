@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Relojes Hombre Relojes de Pulsera Marea Cronometro Impermeable Fecha Calendario Analogicos Cuarzo Relojes de Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NQK568D/?tag=tolees-21'
 descuento: '50.01'
 average: '29.99'

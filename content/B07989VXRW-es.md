@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Fossil Reloj Analogico para Hombre de Cuarzo con Correa en Acero Inoxidable FTW1158'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07989VXRW/?tag=tolees-21'
 descuento: '36.24'
 average: '118.22'

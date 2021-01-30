@@ -16,6 +16,7 @@ comparePrice: 44.95 EUR
 prodname: 'adidas Tiro Du BC M Bolsa Lona de Deporte  Unisex Adulto  Black/White  NS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JNJF8Q6/?tag=tolees-21'
 descuento: '34.93'
 average: '27.6'

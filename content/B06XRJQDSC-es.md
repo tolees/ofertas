@@ -16,6 +16,7 @@ comparePrice: 14.87 EUR
 prodname: 'ESDDI CPL 58mm  Filtro Cicular Polarizador  Filtro CPL para Objetivos de Canon  Nikon  Sony  Pentax  Olympus  etc. con Revestimiento Múltiple'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XRJQDSC/?tag=tolees-21'
 descuento: '60.52'
 average: '5.87'

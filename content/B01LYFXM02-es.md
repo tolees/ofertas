@@ -16,6 +16,7 @@ comparePrice: 92.0 EUR
 prodname: 'Babyline Toile - Saco de silla de paseo  color azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LYFXM02/?tag=tolees-21'
 descuento: '56.63'
 average: '39.9'

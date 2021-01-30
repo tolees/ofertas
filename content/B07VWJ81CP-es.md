@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'INTEY Bandas de Ejercicios Conjunto de Bandas de Gimnasia para una Musculatura Estable  Pilates Yoga Gymnastics y Crossfit'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VWJ81CP/?tag=tolees-21'
 descuento: '65.02'
 average: '16.99'

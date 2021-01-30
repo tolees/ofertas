@@ -16,6 +16,7 @@ comparePrice: 27.99 EUR
 prodname: 'Aigostar Lamo - Sandwichera  800W  revestimiento antiadherente  libre de BPA  almacenamiento vertical  piloto LED indicador temperatura  placas con forma triangular. Color acero y negro.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084WXVLZC/?tag=tolees-21'
 descuento: '28.58'
 average: '19.99'

@@ -16,6 +16,7 @@ comparePrice: 269 EUR
 prodname: 'Guitarra acústica eléctrico mr500e op'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CP0F9FS/?tag=tolees-21'
 descuento: '31.70'
 average: '183.72'

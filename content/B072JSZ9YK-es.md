@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Optimum Nutrition ON Amino Energy pre workout powder keto friendly con beta alanina  cafeína  vitamina C  aminoacidos micronizados incluyendo BCAA  té helado  30 porciones  270 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072JSZ9YK/?tag=tolees-21'
 descuento: '46.39'
 average: '16.065'

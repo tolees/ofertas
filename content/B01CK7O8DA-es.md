@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'Energy Sistem Music Box B2 Bluetooth  Bluetooth  Entrada de Audio  Manos Libres  Batería - Verde Mint'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CK7O8DA/?tag=tolees-21'
 descuento: '25.13'
 average: '14.9'

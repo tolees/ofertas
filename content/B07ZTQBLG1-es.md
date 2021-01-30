@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'Mickey Mouse Skater-Bolsa de Deporte'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZTQBLG1/?tag=tolees-21'
 descuento: '36.32'
 average: '9.52'

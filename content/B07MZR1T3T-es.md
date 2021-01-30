@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'Vans Ward Hi Platform  Sneaker para Mujer  Negro   Canvas  Black/True White 1wx   42.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZR1T3T/?tag=tolees-21'
 descuento: '43.72'
 average: '46.92666666666667'

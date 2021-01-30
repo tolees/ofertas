@@ -16,6 +16,7 @@ comparePrice: 37.0 EUR
 prodname: 'KiplingTopsMujerCarterasNegro  Carbon Metallic  7.5x10x2.5 Centimeters  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TSKW8JX/?tag=tolees-21'
 descuento: '60.16'
 average: '12.13'

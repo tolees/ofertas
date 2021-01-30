@@ -16,6 +16,7 @@ comparePrice: 169.0 EUR
 prodname: 'Silla paseo Fox Ranger'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZFV9GPM/?tag=tolees-21'
 descuento: '25.81'
 average: '125.38'

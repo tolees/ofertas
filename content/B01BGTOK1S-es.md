@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'G-Star Raw Bronson  Pantalones Para Hombre  Negro  D00523   W26/L32'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BGTOK1S/?tag=tolees-21'
 descuento: '34.98'
 average: '43.265'

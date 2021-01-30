@@ -16,6 +16,7 @@ comparePrice: 14.69 EUR
 prodname: 'Bolsa de agua caliente forrada | Mobiclinic'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00INT57DA/?tag=tolees-21'
 descuento: '40.44'
 average: '8.75'

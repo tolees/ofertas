@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Lancardo Reloj Analógico Cuadrado Movimiento de Cuarzo Original Dial de Números Romanos Pulsera Electrónica Retra con Correa de Cuero Juego de Relojes Casuales para Hombre/Mujer/Pareja Marrón – 2PCS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01I9KCS8Y/?tag=tolees-21'
 descuento: '42.51'
 average: '22.99'

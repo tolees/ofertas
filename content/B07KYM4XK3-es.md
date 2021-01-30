@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Kami Idea Regalos Dia de la Madre Mujer Pulsera Blanco congelado Chapado en Oro Blanco Cristales Preciosa Austriacos Regalos de Madres Joyeria para Aniversario Cumpleaños Ella Mamá Chicas Dama Abuela'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KYM4XK3/?tag=tolees-21'
 descuento: '78.01'
 average: '21.99'

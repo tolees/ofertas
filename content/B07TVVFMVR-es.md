@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Skechers Equalizer 4.0  Zapatillas para Hombre  Azul  Black Engineered Mesh/Hot Melt/Red Trim B Rd   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TVVFMVR/?tag=tolees-21'
 descuento: '58.34'
 average: '29.14'

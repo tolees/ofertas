@@ -16,6 +16,7 @@ comparePrice: 26.9 EUR
 prodname: 'Enna Cycle Copa Menstrual con Aplicador  Talla S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N63FOSN/?tag=tolees-21'
 descuento: '40.63'
 average: '19.613333333333333'

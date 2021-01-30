@@ -16,6 +16,7 @@ comparePrice: 26.31 EUR
 prodname: 'Sebago Schooner Náuticos  Hombre  Marrón  Brown-Gum 925   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RZ8SZVM/?tag=tolees-21'
 descuento: '36.79'
 average: '29.026'

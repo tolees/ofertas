@@ -16,6 +16,7 @@ comparePrice: 12.1 EUR
 prodname: 'Revlon Pro You Color Champú - 1000 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01H5VOPES/?tag=tolees-21'
 descuento: '50.83'
 average: '5.95'

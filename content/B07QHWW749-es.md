@@ -16,6 +16,7 @@ comparePrice: 17.95 EUR
 prodname: 'Juego de Tronos Toalla Targaryen'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QHWW749/?tag=tolees-21'
 descuento: '44.85'
 average: '9.9'

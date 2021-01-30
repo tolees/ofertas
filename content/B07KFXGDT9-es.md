@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'PUMA ST Activate Mid WTR  Zapatillas Altas Unisex Adulto  Taffy-Taffy  40.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KFXGDT9/?tag=tolees-21'
 descuento: '66.91'
 average: '21.49'

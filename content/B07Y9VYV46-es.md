@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Esprit 129ee2i010 suéter  Gris  Light Grey 5 044   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y9VYV46/?tag=tolees-21'
 descuento: '80.66'
 average: '11.6'

@@ -16,6 +16,7 @@ comparePrice: 245.88 EUR
 prodname: 'Festina Reloj de Pulsera F20365/3'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F9FWT77/?tag=tolees-21'
 descuento: '27.56'
 average: '174.41666666666666'

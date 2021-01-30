@@ -16,6 +16,7 @@ comparePrice: 16.95 EUR
 prodname: 'YAMAMAY® Slip Traje de baño brasileño - Mirage'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VN6ZS4Y/?tag=tolees-21'
 descuento: '49.97'
 average: '8.48'

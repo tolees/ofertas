@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'Lacoste DH2050 Polo  Azul  Marine   XXX-Large  Talla del Fabricante: 8  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M2VEASM/?tag=tolees-21'
 descuento: '56.96'
 average: '40.38'

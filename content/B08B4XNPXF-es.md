@@ -16,6 +16,7 @@ comparePrice: 2.4 EUR
 prodname: 'Clip de cinturón de diseño liviano para un Uso fácil Mini LCD Digital Paso de Carrera Podómetro Walking Distance Counter ABS hasta 99999 Pasos/Multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08B4XNPXF/?tag=tolees-21'
 descuento: '40.00'
 average: '1.44'

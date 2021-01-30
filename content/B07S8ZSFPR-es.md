@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Tratamiento de hongos anti hongos  Tratamiento de hongos anti hongos  Tratamiento de uñas anti hongos líquido para el cuidado de las uñas adecuado para uñas de dedos y pies'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S8ZSFPR/?tag=tolees-21'
 descuento: '50.02'
 average: '12.99'

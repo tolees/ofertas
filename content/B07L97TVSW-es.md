@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Under Armour Rival Fleece FZ Parte Superior del Calentamiento  Hombre  Gris  SM'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L97TVSW/?tag=tolees-21'
 descuento: '55.42'
 average: '26.75'

@@ -16,6 +16,7 @@ comparePrice: 109.99 EUR
 prodname: 'CIRAGO Licuadora Prensado en Frio  Fruta y verdura  Extractor de zumos con Función inversa exprimidor con 2 Niveles de Velocidad  fácil de Limpiar  Motor silencioso  sin BPA'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WF77MX2/?tag=tolees-21'
 descuento: '29.46'
 average: '77.14555555555556'

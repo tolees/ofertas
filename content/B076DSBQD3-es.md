@@ -16,6 +16,7 @@ comparePrice: 25.69 EUR
 prodname: 'Pajoma - Velas de té sin Perfume  100 Unidades  Tiempo de combustión: 8 Horas. Velas de té Gastro.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076DSBQD3/?tag=tolees-21'
 descuento: '29.97'
 average: '16.756666666666668'

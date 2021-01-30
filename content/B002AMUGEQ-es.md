@@ -16,6 +16,7 @@ comparePrice: 188.0 EUR
 prodname: 'Sisley Crema Hidratante Intensiva  40 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002AMUGEQ/?tag=tolees-21'
 descuento: '39.53'
 average: '113.68'

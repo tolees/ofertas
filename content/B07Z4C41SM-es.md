@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Jack & Jones Jjelogo Sweat Hood 2 Col 19/20 Noos Capucha  Verde  Verdant Green Detail: Reg/Melange   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z4C41SM/?tag=tolees-21'
 descuento: '46.68'
 average: '15.99'

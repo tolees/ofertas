@@ -16,6 +16,7 @@ comparePrice: 11.13 EUR
 prodname: 'Durex Play Lubricante Base Agua Sabor Cereza - 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XAD57V6/?tag=tolees-21'
 descuento: '45.19'
 average: '7.425'

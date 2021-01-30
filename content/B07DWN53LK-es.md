@@ -16,6 +16,7 @@ comparePrice: 48.4 EUR
 prodname: 'Under Armour  Bolsa de Deporte One Size  Gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DWN53LK/?tag=tolees-21'
 descuento: '66.86'
 average: '16.04'

@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'Joma Record Malla Larga  Hombre  Rojo  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00VWYK14I/?tag=tolees-21'
 descuento: '41.16'
 average: '14.43'

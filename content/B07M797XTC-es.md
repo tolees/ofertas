@@ -16,6 +16,7 @@ comparePrice: 130.0 EUR
 prodname: 'Clarks Un Larvik Peak  Botas clásicas. para Hombre  Piel marrón marrón  45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M797XTC/?tag=tolees-21'
 descuento: '63.45'
 average: '47.51'

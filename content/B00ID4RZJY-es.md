@@ -16,6 +16,7 @@ comparePrice: 1.4 EUR
 prodname: 'Semillas Hortícolas - Tomate Muchamiel - Batlle'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ID4RZJY/?tag=tolees-21'
 descuento: '29.29'
 average: '0.99'

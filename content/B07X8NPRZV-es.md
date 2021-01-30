@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Baseus Cable USB Tipo C  Cargador Quick Charge 3.0 Tipo c Nylon Trenzado Cable Compatible con Samsung Galaxy S10 S9 S8 A3 A5 2017 Note 10 9 8  Huawei P10 P9  Google Pixel  Sony Xperia XZ  1M '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X8NPRZV/?tag=tolees-21'
 descuento: '43.88'
 average: '7.8149999999999995'

@@ -16,6 +16,7 @@ comparePrice: 13.28 EUR
 prodname: 'Great Gizmos Green Creativity - Juego de creación de Cuentas de Papel'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004X4WCDC/?tag=tolees-21'
 descuento: '39.83'
 average: '7.99'

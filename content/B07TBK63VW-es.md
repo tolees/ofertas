@@ -16,6 +16,7 @@ comparePrice: 5.59 EUR
 prodname: 'Toyvian Largo Clip Recto Trenza Horquillas para El Cabello Cuerda Precioso Falso Trenzado Personalidad Fresca Clips de Pelo Peluquería para Niños Niños Niñas 12 unids'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TBK63VW/?tag=tolees-21'
 descuento: '44.01'
 average: '3.13'

@@ -16,6 +16,7 @@ comparePrice: 10.2 EUR
 prodname: 'What Am I?'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00EU84B5I/?tag=tolees-21'
 descuento: '57.16'
 average: '4.783333333333333'

@@ -16,6 +16,7 @@ comparePrice: 129.95 EUR
 prodname: 'Adidas Power III  Zapatillas de Deporte para Hombre  Negro  Core Black/Footwear White/Matte Gold 0   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077CQ8F8P/?tag=tolees-21'
 descuento: '35.40'
 average: '83.95'

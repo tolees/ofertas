@@ -16,6 +16,7 @@ comparePrice: 828.85 EUR
 prodname: 'Transcend TS1TSJM500 - Disco Duro sólido SSD de 1 TB  Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NV9LTFW/?tag=tolees-21'
 descuento: '66.34'
 average: '275.81'

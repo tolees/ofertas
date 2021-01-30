@@ -16,6 +16,7 @@ comparePrice: 110 EUR
 prodname: 'Armani Exchange - Crossbody Bag Colorful  Shoppers y bolsos de hombro Mujer  Marrón  Cognac   15x6.5x20 cm  B x H T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F1D86BX/?tag=tolees-21'
 descuento: '53.75'
 average: '58.267999999999994'

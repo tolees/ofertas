@@ -16,6 +16,7 @@ comparePrice: 1.95 EUR
 prodname: 'Denivit Anti-manchas Intensivo Dentífrico con Flour de Uso Diario - 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LZ2HLPG/?tag=tolees-21'
 descuento: '38.46'
 average: '1.2'

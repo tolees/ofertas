@@ -16,6 +16,7 @@ comparePrice: 8.92 EUR
 prodname: 'ZXYAN Wind Up mecánica Ballena de plástico con la Rueda del bebé baño con niños de Juguete de Agua Que arroja a chorros'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0897QKKFR/?tag=tolees-21'
 descuento: '31.61'
 average: '6.1'

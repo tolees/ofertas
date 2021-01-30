@@ -16,6 +16,7 @@ comparePrice: 11.55 EUR
 prodname: 'iTieTie 6-Unidades Protector de Pantalla Amazfit Bip  Suave TPU  Ultra Claro  Anti-rasguños  Protector de Pantalla de película Suave TPU para Huami Amazfit Bip'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WWD67Y7/?tag=tolees-21'
 descuento: '51.95'
 average: '5.55'

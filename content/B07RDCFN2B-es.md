@@ -16,6 +16,7 @@ comparePrice: 124.9 EUR
 prodname: 'Tommy Hilfiger Anya 1a1  Zapatillas para Mujer  Beige  White Ybs   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RDCFN2B/?tag=tolees-21'
 descuento: '30.38'
 average: '86.95'

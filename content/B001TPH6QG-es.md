@@ -16,6 +16,7 @@ comparePrice: 148.0 EUR
 prodname: 'Tojiro Cuchillo Deba Japones - Cuchillos de Cocina Profesionales - Acero Inoxidable - Cuchillo Chef para Carne Pescado y Verduras - Cuchillo Cebollero Profesional - Para Sushi y Sashimi - 18cm F-1055'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001TPH6QG/?tag=tolees-21'
 descuento: '29.82'
 average: '103.87'

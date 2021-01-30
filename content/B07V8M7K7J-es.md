@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Mishansha Zapatillas de Estar en Casa Hombre Mujer  Zapatillas Casa Memory Foam para Invierno Otoño  Cómodas/Blanditas/Mulliditas y Calientes Rojo  40/41 EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V8M7K7J/?tag=tolees-21'
 descuento: '47.39'
 average: '9.99'

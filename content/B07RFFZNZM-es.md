@@ -16,6 +16,7 @@ comparePrice: 259.99 EUR
 prodname: 'eufy  BoostIQ  RoboVac 15C MAX  Robot Aspirador con conexión Wi-Fi  Ultrafino  con aspiración de 2000 Pa  silencioso  Carga automática  Limpia Desde Suelos Duros hasta alfombras de Pelo Medio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RFFZNZM/?tag=tolees-21'
 descuento: '30.77'
 average: '214.99'

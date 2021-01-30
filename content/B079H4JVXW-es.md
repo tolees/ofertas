@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'PUMA Liga Sideline Polo  Hombre  Blanco  White/Black   3XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079H4JVXW/?tag=tolees-21'
 descuento: '39.37'
 average: '18.16'

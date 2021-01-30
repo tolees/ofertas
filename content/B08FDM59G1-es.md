@@ -16,6 +16,7 @@ comparePrice: 33.99 EUR
 prodname: 'Gentai - Tarjeta de memoria micro SD SDXC de 1024 GB con adaptador gratuito'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08FDM59G1/?tag=tolees-21'
 descuento: '70.61'
 average: '9.99'

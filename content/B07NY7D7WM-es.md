@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Superdry Classic Lite Micro Sports Polo  Rojo  Rouge Red Wa7   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NY7D7WM/?tag=tolees-21'
 descuento: '74.53'
 average: '16.056666666666665'

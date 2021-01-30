@@ -16,6 +16,7 @@ comparePrice: 61.03 EUR
 prodname: 'adidas Runfalcon  Zapatillas para Correr para Mujer  Legend Ink/FTWR White/Clear Pink  41 1/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QFDYZ9T/?tag=tolees-21'
 descuento: '37.75'
 average: '37.99'

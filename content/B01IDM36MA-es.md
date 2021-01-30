@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: '3 Claveles Tijera Alto Rendimiento de 8"  Acero Carbono  Negro  23 cm  9" '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IDM36MA/?tag=tolees-21'
 descuento: '31.36'
 average: '32.03'

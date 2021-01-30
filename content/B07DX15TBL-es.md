@@ -16,6 +16,7 @@ comparePrice: 44.1 EUR
 prodname: 'New Balance Core Fleece Capucha  Mujer  Pigment  Small'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DX15TBL/?tag=tolees-21'
 descuento: '48.78'
 average: '33.345'

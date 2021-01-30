@@ -16,6 +16,7 @@ comparePrice: 56.86 EUR
 prodname: 'Bosch Truvo - Detector digital  3 pilas AAA  profundidad de detección máx.: 70 mm  estuche '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01J1FN7ZE/?tag=tolees-21'
 descuento: '34.66'
 average: '45.595'

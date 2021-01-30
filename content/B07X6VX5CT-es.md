@@ -16,6 +16,7 @@ comparePrice: 19.54 EUR
 prodname: 'Eastpak SPRINGER Riñonera  23 cm  2 L  Gris  Nep Whale '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X6VX5CT/?tag=tolees-21'
 descuento: '30.91'
 average: '13.5'

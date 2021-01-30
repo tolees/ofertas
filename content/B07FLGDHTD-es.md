@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Philips Avent SCD287/25 - Set de regalo natural unicornio  1 biberón  2 chupetes  1 clip'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FLGDHTD/?tag=tolees-21'
 descuento: '30.02'
 average: '13.307500000000001'

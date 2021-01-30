@@ -16,6 +16,7 @@ comparePrice: 23.7 EUR
 prodname: 'perfk T10 2in1 Bluetooth4.2 Receptor De Audio/Transmisor Adaptador De 3.5 Mm para Auriculares'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081SQW66M/?tag=tolees-21'
 descuento: '37.51'
 average: '14.81'

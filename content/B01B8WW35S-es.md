@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Ladybug - Peluca complemento de disfraz infantil  talla única  Rubie s Spain 32929 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01B8WW35S/?tag=tolees-21'
 descuento: '33.36'
 average: '9.99'

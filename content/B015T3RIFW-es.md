@@ -16,6 +16,7 @@ comparePrice: 24.19 EUR
 prodname: 'Boxeo Midbass WRAPSCBLK-V5 in-Ear-Auricular con Classic Wrap Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B015T3RIFW/?tag=tolees-21'
 descuento: '75.24'
 average: '5.99'

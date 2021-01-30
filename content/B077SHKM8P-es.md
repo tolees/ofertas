@@ -16,6 +16,7 @@ comparePrice: 82.99 EUR
 prodname: 'Aicok Batidora de vaso  Batidora para Smoothie 1200W  7 niveles de Potencia+Turbo Vidrio Resistente al Calor 1.5L  3 Programas  24000rpm  sin BPA   6 Cuchillas de Acero Inoxidable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077SHKM8P/?tag=tolees-21'
 descuento: '39.76'
 average: '44.660000000000004'

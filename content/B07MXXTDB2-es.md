@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Desigual Shoes Cosmic Navajo  Zapatillas para Mujer  Negro  Black 2000   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MXXTDB2/?tag=tolees-21'
 descuento: '49.99'
 average: '34.98'

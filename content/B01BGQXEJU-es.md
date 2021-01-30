@@ -16,6 +16,7 @@ comparePrice: 21.48 EUR
 prodname: 'Pikolin Home - Almohada de fibra con tratamiento aloe vera  firmeza baja  50x80cm  Todas las medidas '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BGQXEJU/?tag=tolees-21'
 descuento: '30.21'
 average: '14.99'

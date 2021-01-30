@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'flintronic® Taza de Viaje  Termo Taza 500ML Travel Mug  Frasco de Vacío de Acero Inoxidable  Pantalla LCD Táctil Inteligente  Térmica de Doble Pared  Aislado al Vacío  con Portavasos y Cepillo - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YRQD5ZK/?tag=tolees-21'
 descuento: '46.17'
 average: '13.99'

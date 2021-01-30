@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'Salomon Agile 2 Set Mochila para Carrera de montaña  Unisex Adulto  Amarilla  Citronnelle /Amarilla  Sulphur Spring   Talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F8JKD42/?tag=tolees-21'
 descuento: '59.39'
 average: '38.235'

@@ -16,6 +16,7 @@ comparePrice: 60.95 EUR
 prodname: 'Junfire 2019 - Funda para iPad de 10 2 Pulgadas  función Atril  Giro de 360º  Correa para el Hombro  Esquinas y Bordes Reforzados '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y9R2PRL/?tag=tolees-21'
 descuento: '53.67'
 average: '28.24'

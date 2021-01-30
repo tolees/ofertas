@@ -16,6 +16,7 @@ comparePrice: 47.9 EUR
 prodname: 'D-Link DIR-809 - Router WiFi AC 750 Mbps  4 Puertos de Red RJ-45 10/100 Mbps  botón WPS '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00PVDTKRK/?tag=tolees-21'
 descuento: '47.83'
 average: '25.813333333333333'

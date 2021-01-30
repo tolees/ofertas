@@ -16,6 +16,7 @@ comparePrice: 97.5 EUR
 prodname: 'TRANGO Zayo FI Pantalones Largos  Hombre  Verde  Cala  / marrón  Asfalto   2XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01D67PURG/?tag=tolees-21'
 descuento: '49.75'
 average: '63.726666666666674'

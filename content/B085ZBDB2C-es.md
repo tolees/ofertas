@@ -16,6 +16,7 @@ comparePrice: 5.43 EUR
 prodname: 'por nanda 200 unids/caja Bastoncillo de algodón desechable de doble cabeza Maquillaje Bastoncillos de algodón Herramienta cosmética Bastoncillos de algodón Oreja Herramientas limpias - Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085ZBDB2C/?tag=tolees-21'
 descuento: '33.52'
 average: '3.61'

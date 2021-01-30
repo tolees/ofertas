@@ -16,6 +16,7 @@ comparePrice: 149.0 EUR
 prodname: 'Oral-B Smart 4 4000N CrossAction - Cepillo Eléctrico 1 Blanco Conectado  3 Modos Blanqueado  Sensible  Cuidado Encías  2 Cabezales Recambio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DGHM7DQ/?tag=tolees-21'
 descuento: '59.74'
 average: '72.413'

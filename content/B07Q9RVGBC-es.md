@@ -16,6 +16,7 @@ comparePrice: 929.99 EUR
 prodname: 'HP Pavilion Gaming 690-0045ns - Ordenador de sobremesa  Intel Core i5-9400  8GB RAM  1TB HDD + 128GB SSD  NVIDIA GeForce GTX1060-6GB  sin sistema operativo   color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q9RVGBC/?tag=tolees-21'
 descuento: '30.11'
 average: '645.0675'

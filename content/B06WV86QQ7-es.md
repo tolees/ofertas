@@ -16,6 +16,7 @@ comparePrice: 39.13 EUR
 prodname: 'Bama Tris  Poker-Trío de Juego de Cubos de Basura diferenciada  Surtidos  28 x 40 x 31 cm  28x40x31 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06WV86QQ7/?tag=tolees-21'
 descuento: '36.37'
 average: '30.9'

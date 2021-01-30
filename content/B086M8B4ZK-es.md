@@ -16,6 +16,7 @@ comparePrice: 10.98 EUR
 prodname: 'Oihxse Funda para iPhone XS MAX/iPhone 10 Plus Transparente  Estuche con iPhone XS MAX/iPhone 10 Plus Ultra-Delgado Silicona TPU Suave Protectora Carcasa Océano Animal Serie Bumper  C4 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086M8B4ZK/?tag=tolees-21'
 descuento: '27.32'
 average: '7.98'

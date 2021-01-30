@@ -16,6 +16,7 @@ comparePrice: 10.19 EUR
 prodname: 'atFoliX Lámina Protectora de Pantalla Compatible con TCL Movetime Película Protectora  Ultra Transparente FX Lámina Protectora  3X '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CMWLRLF/?tag=tolees-21'
 descuento: '39.25'
 average: '6.19'

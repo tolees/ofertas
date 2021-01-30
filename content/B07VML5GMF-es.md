@@ -16,6 +16,7 @@ comparePrice: 64.99 EUR
 prodname: 'Reloj - LIGE - para - LG9852'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VML5GMF/?tag=tolees-21'
 descuento: '53.85'
 average: '29.99'

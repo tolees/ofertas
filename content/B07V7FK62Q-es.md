@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Diadora Olympia  Zapatillas de Deporte para Hombre  Blanco  White/Black C0351   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V7FK62Q/?tag=tolees-21'
 descuento: '40.44'
 average: '32.76'

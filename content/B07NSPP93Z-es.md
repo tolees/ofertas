@@ -16,6 +16,7 @@ comparePrice: 11.94 EUR
 prodname: 'POP OFFICE PAM BEESLY VINYL FI'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NSPP93Z/?tag=tolees-21'
 descuento: '55.86'
 average: '5.27'

@@ -16,6 +16,7 @@ comparePrice: 179.0 EUR
 prodname: 'HUAWEI FreeBuds 3 - Auriculares inalámbricos con cancelación de Ruido Activa  Chip Kirin A1  Baja latencia  conexión Bluetooth ultrarrápida  Altavoz de 14.2 mm  Carga inalámbrica   Color Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082Q4KZF8/?tag=tolees-21'
 descuento: '42.35'
 average: '107.17142857142858'

@@ -16,6 +16,7 @@ comparePrice: 58.25 EUR
 prodname: 'Cámara de acción 2 en 1 portátil + Kit de vídeo para teléfono móvil  Mango ergonómico  estabilizador  Mango de videocámara de Movimiento  Soporte para GoPro Sony dji OSMO Action + teléfono móvil'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TTWL6ST/?tag=tolees-21'
 descuento: '56.24'
 average: '25.49'

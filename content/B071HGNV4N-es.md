@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Reebok Royal Ultra  Zapatillas para Hombre  Azul  Collegiate Navy/White   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071HGNV4N/?tag=tolees-21'
 descuento: '33.83'
 average: '42.98'

@@ -16,6 +16,7 @@ comparePrice: 109 EUR
 prodname: 'Timex Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable TW2R46700'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D187BNJ/?tag=tolees-21'
 descuento: '26.05'
 average: '80.63799999999999'

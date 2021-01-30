@@ -16,6 +16,7 @@ comparePrice: 5.55 EUR
 prodname: 'Denta Fun Pelota Béisbol  Menta  Caucho  ø7 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000OLYGN2/?tag=tolees-21'
 descuento: '37.48'
 average: '3.47'

@@ -16,6 +16,7 @@ comparePrice: 27.55 EUR
 prodname: 'Shunga Geishas Secret Collection Strawberry Aceite de Masaje - 1 Pack'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M8HT86H/?tag=tolees-21'
 descuento: '27.66'
 average: '19.752'

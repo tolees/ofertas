@@ -16,6 +16,7 @@ comparePrice: 200 EUR
 prodname: 'Polar A360 - Pulsómetro  Color Blanco  Talla M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FKEBI4C/?tag=tolees-21'
 descuento: '43.98'
 average: '111.04'

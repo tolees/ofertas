@@ -16,6 +16,7 @@ comparePrice: 11.94 EUR
 prodname: 'Bourjois Velvet The Pencil - Pintalabios Tono 18 I m so plu m  cky  3g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PRMC2BH/?tag=tolees-21'
 descuento: '67.00'
 average: '3.94'

@@ -16,6 +16,7 @@ comparePrice: 40.22 EUR
 prodname: 'Skechers Flex Advantage 3.0 Landess  Zapatillas para Hombre  Verde  Olive Knit/Synthetic/Trim OLV   45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XMDY3NZ/?tag=tolees-21'
 descuento: '34.11'
 average: '29.37'

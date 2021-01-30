@@ -16,6 +16,7 @@ comparePrice: 101.3 EUR
 prodname: 'pjur ORIGINAL - Lubricante de silicona Premium - lubricación duradera sin pegarse - cunde mucho  adecuado para preservativos - pack de 1  1x1000ml '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003BIFRBA/?tag=tolees-21'
 descuento: '49.37'
 average: '51.29'

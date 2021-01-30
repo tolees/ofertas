@@ -16,6 +16,7 @@ comparePrice: 101.99 EUR
 prodname: 'SanDisk iXpand - Memoria Flash USB de 128 GB para iPhone y iPad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CIEBXZG/?tag=tolees-21'
 descuento: '40.20'
 average: '55.190000000000005'

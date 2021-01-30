@@ -16,6 +16,7 @@ comparePrice: 13.0 EUR
 prodname: 'Salomon SFLASK 250/8 STD 28 Botella Flexible LC1312400  Unisex-Adult  Azul  250 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V7J8R8F/?tag=tolees-21'
 descuento: '25.77'
 average: '9.65'

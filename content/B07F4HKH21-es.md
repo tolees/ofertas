@@ -16,6 +16,7 @@ comparePrice: 13.95 EUR
 prodname: 'Mr. Wonderful  Carpeta con Anillas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F4HKH21/?tag=tolees-21'
 descuento: '49.96'
 average: '6.98'

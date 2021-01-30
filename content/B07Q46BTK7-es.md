@@ -16,6 +16,7 @@ comparePrice: 14.84 EUR
 prodname: 'DURAGADGET Cable De Audio Portátil Medion Erazer X7853 - MD 60709  HP Notebook 15-da0161ns  Lenovo ideapad 330-15ARR - con Conexión de 3.5mm Y Bañado En Oro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q46BTK7/?tag=tolees-21'
 descuento: '33.36'
 average: '9.89'

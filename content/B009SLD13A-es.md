@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Philips AEA2000/12 - Adaptador de audio  Adaptador Hi-Fi Bluetooth   negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B009SLD13A/?tag=tolees-21'
 descuento: '42.93'
 average: '19.97'

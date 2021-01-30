@@ -16,6 +16,7 @@ comparePrice: 29.38 EUR
 prodname: 'Altavoces de Coche Kenwood KFC-S1366  13cm  2 vías  30W RMS  260W'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0799CLK4T/?tag=tolees-21'
 descuento: '25.46'
 average: '21.9'

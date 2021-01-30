@@ -16,6 +16,7 @@ comparePrice: 9.0 EUR
 prodname: 'Rimmel London Stay Satin Liquid Lip Colour  Pintalabios Tono 500 Redical  Gama Rojos  - 21 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D453ZKM/?tag=tolees-21'
 descuento: '61.33'
 average: '3.42'

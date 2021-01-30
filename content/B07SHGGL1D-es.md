@@ -16,6 +16,7 @@ comparePrice: 37.0 EUR
 prodname: 'Yizhet 7/8" 22 mm Espejos de manillar de la motocicleta Espejo retrovisor de la moto de CNC aluminio universal Se  Rojo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SHGGL1D/?tag=tolees-21'
 descuento: '40.57'
 average: '21.99'

@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'QacQoc Ventilador de Mano USB  Mini Ventilador Portátil Recargable con Carga USB y Base  3 Velocidad para el Hogar  Sueño  Trabajo  Acampada  Viajes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089M6DG6M/?tag=tolees-21'
 descuento: '30.03'
 average: '10.252500000000001'

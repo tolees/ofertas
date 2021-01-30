@@ -16,6 +16,7 @@ comparePrice: 34.9 EUR
 prodname: 'Champion the Curvy  Soutien-Gorge de Sport Femme  Noir  Noir 3am   Small  Taille Fabricant: S '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FYD74YB/?tag=tolees-21'
 descuento: '29.66'
 average: '21.713333333333335'

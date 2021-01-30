@@ -16,6 +16,7 @@ comparePrice: 115.0 EUR
 prodname: 'Tuscany Silver 8.43.7594 - Cadena con colgante de plata de ley  925/1000   46 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004R95IDE/?tag=tolees-21'
 descuento: '54.78'
 average: '52.0'

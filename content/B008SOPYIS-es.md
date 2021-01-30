@@ -16,6 +16,7 @@ comparePrice: 25.65 EUR
 prodname: 'Targus AWE77EU - Soporte para Tableta de 7-10" para reposacabezas  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B008SOPYIS/?tag=tolees-21'
 descuento: '44.29'
 average: '18.34285714285714'

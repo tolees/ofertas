@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'DIY Slime Kit para Niñas Niños  Fabrica de Slime con 18 Colores Crystal Slime  Resplandor en el Polvo Oscuro  Polvo de Brillo y Más para Los Amantes del Unicornio Juguete Niños 5+Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088GPWXZP/?tag=tolees-21'
 descuento: '40.01'
 average: '17.99'

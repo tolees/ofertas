@@ -16,6 +16,7 @@ comparePrice: 4.99 EUR
 prodname: 'Uposao Compatible con Funda Samsung Galaxy A20/A30 360 Grados Integral Ambas Carcasa Funda 360 Full Body Completa CAS + Bling Glitter Brillante 3 en 1 Funda Ultra Delgado Doble Silicona Gel Funda Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZXQM1MM/?tag=tolees-21'
 descuento: '40.48'
 average: '2.97'

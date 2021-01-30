@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Fdit Deriva Lazos pulir taladrar Cortes Herramientas de Grabado Uso Doméstico DIY Modelo para Joyas Metal Cristal  Medium'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GR6KL6M/?tag=tolees-21'
 descuento: '71.23'
 average: '7.19'

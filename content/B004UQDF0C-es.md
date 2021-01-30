@@ -16,6 +16,7 @@ comparePrice: 79.0 EUR
 prodname: 'Superga 2750  Zapatillas Unisex Adulto  Gris  Grey Stone   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004UQDF0C/?tag=tolees-21'
 descuento: '65.13'
 average: '25.700000000000003'

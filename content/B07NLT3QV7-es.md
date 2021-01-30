@@ -16,6 +16,7 @@ comparePrice: 949.0 EUR
 prodname: 'Fujifilm X-T30 Cuerpo  cámara de Objetivo Intercambiable  Color Plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NLT3QV7/?tag=tolees-21'
 descuento: '31.61'
 average: '704.1'

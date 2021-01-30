@@ -16,6 +16,7 @@ comparePrice: 33.9 EUR
 prodname: 'Speedo Girls Boom Allover  Bañador para niña  Multicolor  Electric Pink/Black   140 cm  Talla del Fabricante: 28 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MTIUTG7/?tag=tolees-21'
 descuento: '42.98'
 average: '19.33'

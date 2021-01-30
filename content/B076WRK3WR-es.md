@@ -16,6 +16,7 @@ comparePrice: 4.95 EUR
 prodname: 'Gardena NatureUp Clip de conexión  para macetas de esquina verticales  para nuevas posibilidades de configuración del sistema  8 unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076WRK3WR/?tag=tolees-21'
 descuento: '39.80'
 average: '2.98'

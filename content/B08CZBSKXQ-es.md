@@ -16,6 +16,7 @@ comparePrice: 15.0 EUR
 prodname: '2x200ML Comedero para Perros y Gatode Acero Inoxidable 2 Cuencos Comedero para Mascotas con Base de Silicona Antideslizante Pon Comida y Agua Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CZBSKXQ/?tag=tolees-21'
 descuento: '33.40'
 average: '9.99'

@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'PUMA Future 5.3 Netfit OSG FG/AG  Botas de fútbol para Hombre  Naranja  Nrgy Peach/Fizzy Yellow   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SBWBGBZ/?tag=tolees-21'
 descuento: '25.02'
 average: '59.95'

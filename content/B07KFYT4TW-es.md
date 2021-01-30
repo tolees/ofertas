@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'PUMA Axis  Zapatillas para Hombre  Azul  Peacoat White   37.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KFYT4TW/?tag=tolees-21'
 descuento: '34.21'
 average: '39.510000000000005'

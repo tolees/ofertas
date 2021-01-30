@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Tommy Hilfiger Eton Mini CC Wallet  Cartera para Hombre  Brown  OS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00X0W9SJY/?tag=tolees-21'
 descuento: '25.87'
 average: '39.66666666666667'

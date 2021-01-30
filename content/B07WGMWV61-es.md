@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'TACKLIFE ACP1B Compresor Aire Coche  12V/150PSI Inflador Electrico  inflador Ruedas Coche con Pantalla LCD  3-Modos Luz LED  4 Adaptadores  Fusible Extra'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WGMWV61/?tag=tolees-21'
 descuento: '40.01'
 average: '29.99'

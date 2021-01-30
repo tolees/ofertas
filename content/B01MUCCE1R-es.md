@@ -16,6 +16,7 @@ comparePrice: 47.99 EUR
 prodname: 'Hapilife Grifo Cocina Pared Monomando Mezclador Fregadero  Caño Giratorio Horizontal  MEDIDA ESTÁNDAR  10 Años Garantía'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MUCCE1R/?tag=tolees-21'
 descuento: '37.51'
 average: '29.99'

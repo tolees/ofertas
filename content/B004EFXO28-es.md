@@ -16,6 +16,7 @@ comparePrice: 16.89 EUR
 prodname: 'Oral-B Advance Power - Cepillo de dientes con pilas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004EFXO28/?tag=tolees-21'
 descuento: '47.48'
 average: '9.7808'

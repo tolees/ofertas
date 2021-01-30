@@ -16,6 +16,7 @@ comparePrice: 159.95 EUR
 prodname: 'Fullmark Model B Correction Tape Gift Box  50-pack'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01K3WLYCW/?tag=tolees-21'
 descuento: '73.75'
 average: '41.99'

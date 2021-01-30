@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'New Balance 373  Zapatillas para Hombre  Amarillo  Yellow Yellow   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PMLVDJD/?tag=tolees-21'
 descuento: '40.00'
 average: '48.0'

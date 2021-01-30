@@ -16,6 +16,7 @@ comparePrice: 13.65 EUR
 prodname: 'Durex Mutual Climax Preservativos 12 Unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LZ6RL1F/?tag=tolees-21'
 descuento: '32.60'
 average: '9.2'

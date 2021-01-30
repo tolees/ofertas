@@ -16,6 +16,7 @@ comparePrice: 7.11 EUR
 prodname: 'Wolfcraft 1573000 1573000-1 Atornillador Manual con diseño Angular  380 W'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0002YYTVU/?tag=tolees-21'
 descuento: '30.38'
 average: '4.95'

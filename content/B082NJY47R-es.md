@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Medidor de Contornos  Careslong 10"/250MM Herramienta de Medición de Perfil Irregular  Medidor Contornos para la medición precisa de baldosas en madera laminada Marcado  verde '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082NJY47R/?tag=tolees-21'
 descuento: '47.39'
 average: '9.99'

@@ -16,6 +16,7 @@ comparePrice: 54.99 EUR
 prodname: 'Columbia Silver Ridge 2.0 Manga Corta  Mujer  Blanco  White   XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KRXMLDS/?tag=tolees-21'
 descuento: '37.28'
 average: '26.455000000000002'

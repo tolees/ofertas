@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'G-STAR RAW Graphic 13 Slim Polo  Negro  Dk Black 6484   X-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RJ5V9RM/?tag=tolees-21'
 descuento: '77.25'
 average: '13.64'

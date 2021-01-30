@@ -16,6 +16,7 @@ comparePrice: 15.0 EUR
 prodname: 'LCQI Bufanda Real Madrid 2019 2020 Licencia Oficial  por Siempre RM '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HHL534X/?tag=tolees-21'
 descuento: '53.67'
 average: '6.95'

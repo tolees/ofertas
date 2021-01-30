@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Puma Men s MCFC Stadium INT Jacket Track Black-Georgia Peach  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QHL5KHK/?tag=tolees-21'
 descuento: '44.00'
 average: '44.77'

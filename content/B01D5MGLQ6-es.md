@@ -16,6 +16,7 @@ comparePrice: 22.9 EUR
 prodname: 'Scitec Nutrition Plant Protien Chocolate Praline - 900 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01D5MGLQ6/?tag=tolees-21'
 descuento: '38.95'
 average: '13.98'

@@ -16,6 +16,7 @@ comparePrice: 65.97 EUR
 prodname: 'Kit de 48 Tubos de Pintura Acrílica  12mL  - Pinturas Acrilicas Profesional'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PFHB1B8/?tag=tolees-21'
 descuento: '71.94'
 average: '18.51'

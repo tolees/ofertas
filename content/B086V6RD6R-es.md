@@ -16,6 +16,7 @@ comparePrice: 29.98 EUR
 prodname: 'Círculo Duradero: Tengo Todo Este Anhelo En Mi Oído  Déjame Entrar  Haz Que Me Quede a Tu Lado ḀṈillô Dê PêṈê Dê PêṈê AṈillô Dê Mḁrtillô Jùgùêtê VibrḁṈtê Pḁrḁ Hômbrêṧ Mùjêrêṧ Gḁy'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086V6RD6R/?tag=tolees-21'
 descuento: '60.01'
 average: '11.99'

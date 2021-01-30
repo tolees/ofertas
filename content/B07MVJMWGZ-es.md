@@ -16,6 +16,7 @@ comparePrice: 24.0 EUR
 prodname: 'Kipling Creativity S  Cartera para Mujer  Multicolor  Tile Print   14.5x9.5x5 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MVJMWGZ/?tag=tolees-21'
 descuento: '30.00'
 average: '16.8'

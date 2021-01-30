@@ -16,6 +16,7 @@ comparePrice: 17.98 EUR
 prodname: 'B Blesiya Electrónica 8.5   LCD Escritura Tabletas De Borrado Tablero E-Escritor para Niños Niño - Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08915WQHZ/?tag=tolees-21'
 descuento: '44.44'
 average: '9.99'

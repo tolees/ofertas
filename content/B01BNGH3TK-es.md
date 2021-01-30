@@ -16,6 +16,7 @@ comparePrice: 86.51 EUR
 prodname: 'Wera 05057431001 Puntas  Set de 30 Piezas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BNGH3TK/?tag=tolees-21'
 descuento: '39.87'
 average: '52.02'

@@ -16,6 +16,7 @@ comparePrice: 139.99 EUR
 prodname: 'Finether-Lámpara de Pie Plegable Táctil de Alumnio con Cuatro Niveles de Intensidad  10W  Color Marrrón  para Dormitorio Sala Oficina etc'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NH12RWL/?tag=tolees-21'
 descuento: '35.72'
 average: '89.99'

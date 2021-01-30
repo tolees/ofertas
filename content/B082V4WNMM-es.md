@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Canadian Peak Anorak'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082V4WNMM/?tag=tolees-21'
 descuento: '33.49'
 average: '65.84'

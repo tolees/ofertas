@@ -16,6 +16,7 @@ comparePrice: 24.35 EUR
 prodname: 'ZEP Lavigny - Portafotos triple de madera en tamaño 13x18'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LYMPJT3/?tag=tolees-21'
 descuento: '30.23'
 average: '16.99'

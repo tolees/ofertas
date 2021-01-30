@@ -16,6 +16,7 @@ comparePrice: 159.99 EUR
 prodname: 'Bammax Parque Infantil Bebe Extensible  Parque de Juegos Niños Plegable  Vallas Infantiles Metalicas  Parque para Perros  Centro de Actividades Bebe Interior o Exterior  Blanca'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TQ5ZF7F/?tag=tolees-21'
 descuento: '43.75'
 average: '113.99000000000001'

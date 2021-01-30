@@ -16,6 +16,7 @@ comparePrice: 49.89 EUR
 prodname: 'Coolcept Women Casual Slip On Court Shoes Flat Pumps Shoes Office Party Summer Shoes Claret-Rongli Size 31 Asian'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087CXFJDN/?tag=tolees-21'
 descuento: '46.10'
 average: '26.89'

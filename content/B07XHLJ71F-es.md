@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'BedStory Pack de 2 Almohadas y Funda Desmontable con Cierre de Cremallera con Doble Lados Invierno/Verano  Almohada 70x42 cm con Relleno 3D y 7D Fibra  Almohadas Antiácaros para de Cama Hotel'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XHLJ71F/?tag=tolees-21'
 descuento: '45.01'
 average: '32.99'

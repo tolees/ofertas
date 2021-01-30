@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'DIM LG push up Leggings  Mujer  Marrón  Tamaño del fabricante:3 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B018E4IM9Y/?tag=tolees-21'
 descuento: '79.93'
 average: '6.0'

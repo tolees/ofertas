@@ -16,6 +16,7 @@ comparePrice: 100.99 EUR
 prodname: 'ART VVIES Wandbild 40 x 30 Zoll Leinwand mit Haken Welpen Junge Kleine zarte Gruppe Tier für Hauptdekorationen Holz gerahmte Lieferungen'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082HBRJCT/?tag=tolees-21'
 descuento: '55.45'
 average: '44.99'

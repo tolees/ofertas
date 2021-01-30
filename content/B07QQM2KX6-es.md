@@ -16,6 +16,7 @@ comparePrice: 500.0 EUR
 prodname: 'KLIM™ Esports Silla Gaming Rosa + Ergonómica con Soporte Lumbar y Cervical + Reclinable + Silla de Escritorio Ajustable + Piel Sintética y Materiales Premium + Silla Gamer Rosa [Nueva VERSIÓN 2020]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QQM2KX6/?tag=tolees-21'
 descuento: '47.51'
 average: '262.43'

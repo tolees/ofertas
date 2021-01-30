@@ -16,6 +16,7 @@ comparePrice: 13.62 EUR
 prodname: 'plata Yazilind elegante plateado alrojoedor Pear cortada azul zafiro cúbico Circonita perfecto cuelga los pendientes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00K8SK8II/?tag=tolees-21'
 descuento: '66.67'
 average: '4.54'

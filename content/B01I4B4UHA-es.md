@@ -16,6 +16,7 @@ comparePrice: 51.47 EUR
 prodname: 'Vans UA ISO 2  Zapatillas para Hombre  Gris  C and L Chambray/Black   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01I4B4UHA/?tag=tolees-21'
 descuento: '51.04'
 average: '25.205'

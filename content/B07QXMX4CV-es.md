@@ -16,6 +16,7 @@ comparePrice: 24.98 EUR
 prodname: 'Shackcom 4pcs Alarma para Puertas y Ventanas de 120 dB para casa con Sensor Magnético Inalámbrico para Sistema de Seguridad para el hogar y Seguridad Infantil - Antirrobo Detectores Sirenas con Pilas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QXMX4CV/?tag=tolees-21'
 descuento: '31.99'
 average: '16.99'

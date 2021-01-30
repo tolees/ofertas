@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'KHOMO Funda iPad Air 1 - Carcasa Gris Protectora Ultra Delgada y Ligéra con Smart Cover y Soporte para Apple iPad Air 1 - Italic Grey'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01AS1ZAD2/?tag=tolees-21'
 descuento: '43.69'
 average: '10.13'

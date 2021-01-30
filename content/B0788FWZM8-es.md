@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'Lictin Unisex 3 Pcs babero con mangas EVA Impermeable babero de manga larga'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0788FWZM8/?tag=tolees-21'
 descuento: '31.85'
 average: '7.74'

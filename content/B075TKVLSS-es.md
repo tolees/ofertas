@@ -16,6 +16,7 @@ comparePrice: 139.0 EUR
 prodname: 'ICOO Cuna de Viaje Starlight desde el Nacimiento hasta 15 kg  con Cambiador  Almacenamiento para Utensilios  2 Niveles  Ruedas  Bolsa  Plegado Compacto - Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075TKVLSS/?tag=tolees-21'
 descuento: '42.37'
 average: '80.1'

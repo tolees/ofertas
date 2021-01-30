@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Skechers Equalizer 3.0  Zapatillas sin Cordones para Hombre  Negro  Black Mesh/PU/Trim BBK   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J5TJ8GL/?tag=tolees-21'
 descuento: '32.26'
 average: '44.0'

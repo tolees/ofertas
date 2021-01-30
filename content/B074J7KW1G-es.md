@@ -16,6 +16,7 @@ comparePrice: 16.31 EUR
 prodname: 'FLEXI Design M Cinta 5M. Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074J7KW1G/?tag=tolees-21'
 descuento: '27.16'
 average: '11.88'

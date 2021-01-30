@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'adidas SST TP Sport Trousers  Hombre  Black  XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076J9FNKM/?tag=tolees-21'
 descuento: '39.89'
 average: '41.275'

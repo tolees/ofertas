@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'otumixx Bolsas de Almacenaje al Vacío  6 Unidades  3 * 80x100cm & 3 * 60x80cm  Ahorro Espacio Bolsas Vacio Ropa  Bolsa para Vacío de Ropa para Guardar Ropa  Ropa de Cama  Edredones  Almohadas  Mantas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0816DPC6C/?tag=tolees-21'
 descuento: '48.29'
 average: '14.99'

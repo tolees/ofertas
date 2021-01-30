@@ -16,6 +16,7 @@ comparePrice: 30.47 EUR
 prodname: 'JACK & JONES Jfwduston PU Combo Anthracite  Botas Chukka para Hombre  Gris  45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R74T5XC/?tag=tolees-21'
 descuento: '25.96'
 average: '22.56'

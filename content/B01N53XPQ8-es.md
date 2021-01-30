@@ -16,6 +16,7 @@ comparePrice: 179.95 EUR
 prodname: 'Fluval Flex - Kit de acuario  57L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N53XPQ8/?tag=tolees-21'
 descuento: '38.88'
 average: '91.32333333333332'

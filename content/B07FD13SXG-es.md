@@ -16,6 +16,7 @@ comparePrice: 150.0 EUR
 prodname: 'MVMT Reloj Cronógrafo para Hombre de Cuarzo con Correa en Acero Inoxidable D-MV01-BL2'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FD13SXG/?tag=tolees-21'
 descuento: '33.37'
 average: '93.765'

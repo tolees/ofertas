@@ -16,6 +16,7 @@ comparePrice: 31.0 EUR
 prodname: 'Calvin Klein 0000F3785E  Sujetador Deportivo para Mujer  Negro  Black 001   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KLIDEIG/?tag=tolees-21'
 descuento: '29.03'
 average: '21.650000000000002'

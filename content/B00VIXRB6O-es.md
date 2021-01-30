@@ -16,6 +16,7 @@ comparePrice: 183.99 EUR
 prodname: 'PetSafe PFD19-15521 Comedero para Mascotas con Programador Digital Healthy Pet Simply Feed'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00VIXRB6O/?tag=tolees-21'
 descuento: '33.18'
 average: '122.95'

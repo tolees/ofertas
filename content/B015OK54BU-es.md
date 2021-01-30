@@ -16,6 +16,7 @@ comparePrice: 84.95 EUR
 prodname: 'PUMA Basket Classic LFS  Zapatillas para Hombre  Negro  Black/Team Gold   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B015OK54BU/?tag=tolees-21'
 descuento: '67.10'
 average: '31.93333333333333'

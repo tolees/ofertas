@@ -16,6 +16,7 @@ comparePrice: 5.95 EUR
 prodname: 'Bestway-24087 44007-colchón neón Finish 183x69   8321035 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000R8ZYOM/?tag=tolees-21'
 descuento: '49.75'
 average: '2.99'

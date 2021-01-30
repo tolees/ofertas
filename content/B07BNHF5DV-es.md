@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'Plainsur Resina De Poliester Kit De 1 Kilogramo Cubo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BNHF5DV/?tag=tolees-21'
 descuento: '27.14'
 average: '14.5'

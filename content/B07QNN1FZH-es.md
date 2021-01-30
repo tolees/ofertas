@@ -16,6 +16,7 @@ comparePrice: 36.14 EUR
 prodname: 'Alsoar – Repuesto para Samsung A7 2018  funda para teléfono móvil Galaxy A7 2018  funda de móvil mate  suave y líquida  protección contra golpes y arañazos  flexible  con protección para Samsung A750'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QNN1FZH/?tag=tolees-21'
 descuento: '53.74'
 average: '16.72'

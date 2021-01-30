@@ -16,6 +16,7 @@ comparePrice: 3299.99 EUR
 prodname: 'MSI WS63VR 7RL-072ES - Ordenador portátil de 15.6" UHD  Kabylake i7-7700HQ  RAM de 32 GB DDR4  SSD de 512 GB y 2 TB HDD  Nvidia Quadro P4000  Windows 10 Pro  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076KNGGCN/?tag=tolees-21'
 descuento: '40.68'
 average: '1957.65'

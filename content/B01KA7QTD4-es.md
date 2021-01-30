@@ -16,6 +16,7 @@ comparePrice: 169.0 EUR
 prodname: 'Guess Reloj Multiesfera para Hombre de Cuarzo con Correa en Cuero W0863G1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01KA7QTD4/?tag=tolees-21'
 descuento: '49.29'
 average: '91.525'

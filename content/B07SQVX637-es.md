@@ -16,6 +16,7 @@ comparePrice: 5.66 EUR
 prodname: 'Hpybest - Cadena de chupete de dos colores hecha a mano con clip anticaída para pezón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SQVX637/?tag=tolees-21'
 descuento: '50.00'
 average: '2.83'

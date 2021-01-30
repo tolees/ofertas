@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'edc by Esprit 118cc1b003 Pantalones  Azul  Navy 400   W34/L30 para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GVSY3NZ/?tag=tolees-21'
 descuento: '61.56'
 average: '20.844444444444445'

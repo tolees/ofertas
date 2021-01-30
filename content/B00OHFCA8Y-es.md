@@ -16,6 +16,7 @@ comparePrice: 12.49 EUR
 prodname: 'Kappa Corato Punto deportivo  Hombre  Azul Royal  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00OHFCA8Y/?tag=tolees-21'
 descuento: '52.04'
 average: '8.469999999999999'

@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'Young & Ming  2 Unidades Cristal Templado para Xiaomi Redmi Note 8 Pro  9H Dureza Alta Transparencia Ultra Resistente a Golpes Sin Burbujas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XQ2KPY5/?tag=tolees-21'
 descuento: '64.86'
 average: '7.01'

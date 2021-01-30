@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'PUMA LQDCELL Tension Rave  Zapatillas Deportivas para Interior para Hombre  Castlerock Black  45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KG6Z8HM/?tag=tolees-21'
 descuento: '70.88'
 average: '29.11'

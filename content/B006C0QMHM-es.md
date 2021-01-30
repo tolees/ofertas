@@ -16,6 +16,7 @@ comparePrice: 119.9 EUR
 prodname: 'Spidi Z140-016 Warrior EVO Protección de Espalda para Moto  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B006C0QMHM/?tag=tolees-21'
 descuento: '37.53'
 average: '74.9'

@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'adidas Campus ADV  Zapatillas de Skateboard Unisex Adulto  Negro  Core Black/FTWR White/FTWR White Core Black/FTWR White/FTWR White   43 1/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HTQRTC9/?tag=tolees-21'
 descuento: '39.02'
 average: '54.85'

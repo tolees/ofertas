@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Quinny Zapp Xpress - Silla de paseo  color all black'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01KBLSZ8Q/?tag=tolees-21'
 descuento: '43.29'
 average: '116.25625'

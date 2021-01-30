@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'LA Active Calcetines Antideslizantes - Para Yoga Pilates Ballet Barre Mujer Hombre - Ballet  Negro  34-36.5 EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SCKDTHN/?tag=tolees-21'
 descuento: '33.36'
 average: '9.99'

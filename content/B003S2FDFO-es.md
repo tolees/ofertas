@@ -16,6 +16,7 @@ comparePrice: 30 EUR
 prodname: 'Vans Herren OTW T-Shirt  Weiß  WHITE-BLACK YB2   XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003S2FDFO/?tag=tolees-21'
 descuento: '35.43'
 average: '19.37'

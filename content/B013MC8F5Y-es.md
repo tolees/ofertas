@@ -16,6 +16,7 @@ comparePrice: 69.9 EUR
 prodname: 'Lowepro PLECAK Tahoe BP 150 Black'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B013MC8F5Y/?tag=tolees-21'
 descuento: '28.48'
 average: '49.99'

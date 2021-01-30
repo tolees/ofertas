@@ -16,6 +16,7 @@ comparePrice: 139.0 EUR
 prodname: 'Tommy Hilfiger Reloj Analógico para Hombre de Cuarzo con Correa en Silicona 1791621'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ND99PVW/?tag=tolees-21'
 descuento: '30.00'
 average: '113.52000000000001'

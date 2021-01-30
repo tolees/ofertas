@@ -16,6 +16,7 @@ comparePrice: 150.0 EUR
 prodname: 'SNK NEO GEO MINI Samurai Shodown V ED. UKYO Tachibana'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RVBS7DW/?tag=tolees-21'
 descuento: '26.73'
 average: '121.77400000000002'

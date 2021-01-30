@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'CLP Estantería de Madera de 3 hasta 5 Niveles | Estantería de Baño  Zapatero  Librería | Estantería Multifuncional I Tamaño: Lindel 36 x 36 x 112 cm  4 baldas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N9FIYCI/?tag=tolees-21'
 descuento: '33.89'
 average: '32.99'

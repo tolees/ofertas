@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Colador de cocina plegable 3PCS Set Cocina Plegable Colador de Silicona 2 Tamaños Colador Plegable  Verde  Rojo  Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MDMGRQ4/?tag=tolees-21'
 descuento: '30.02'
 average: '13.74'

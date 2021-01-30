@@ -16,6 +16,7 @@ comparePrice: 17.06 EUR
 prodname: 'Smart Games Robaczki'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005NDXQ5U/?tag=tolees-21'
 descuento: '53.22'
 average: '7.98'

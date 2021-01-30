@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'HANPURE Bluetooth USB PC  Adaptador Bluetooth USB  USB Bluetooth 4.0  Plug & Play 2.4 GHz  Auriculares Bluetooth  Mouse  Teclado  impresoras  PC  Compatible con Windows 10/8.1/8/7 / Vista/XP  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K6JNL92/?tag=tolees-21'
 descuento: '60.02'
 average: '12.100740740740738'

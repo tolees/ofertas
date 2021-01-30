@@ -16,6 +16,7 @@ comparePrice: 15.33 EUR
 prodname: 'Deadpool 2 [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D5CVYR4/?tag=tolees-21'
 descuento: '34.83'
 average: '9.790000000000001'

@@ -16,6 +16,7 @@ comparePrice: 30.77 EUR
 prodname: 'Kayond Rose - Funda para portátil de 11-17 Pulgadas  Resistente al Agua  White Camellia 11-11.6 Inch'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M8QPDVS/?tag=tolees-21'
 descuento: '55.67'
 average: '13.64'

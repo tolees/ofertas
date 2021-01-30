@@ -16,6 +16,7 @@ comparePrice: 2.22 EUR
 prodname: 'Formulaioue Adaptador de Tarjeta de Sonido Externo para portátil 7.1 USB con Tarjeta de Sonido Externa Independiente  Blanco - Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YD3HVV3/?tag=tolees-21'
 descuento: '45.05'
 average: '1.22'

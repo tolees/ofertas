@@ -16,6 +16,7 @@ comparePrice: 53.63 EUR
 prodname: 'HXDZFX Barra de cristal transparente con revestimiento de resina epoxi para mesa de madera  kit de 9.7 onzas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V7TFJKJ/?tag=tolees-21'
 descuento: '62.80'
 average: '19.97'

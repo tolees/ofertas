@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'RREN-Faucet Versión extendida de la grifería de Doble Salida dragón de Cobre Antiguo Grifo Tallado Grifo de la fregona del baño Grifo de la Lavadora al Aire Libre jardín Grifo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GCNVY3F/?tag=tolees-21'
 descuento: '41.32'
 average: '35.2'

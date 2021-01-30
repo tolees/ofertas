@@ -16,6 +16,7 @@ comparePrice: 1.88 EUR
 prodname: '1 par de vinagre de bambú natural tierno exfoliante membrana del pie máscara del pie reparación del cuidado de la piel del pie blanqueamiento exfoliante - blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZYXNHPT/?tag=tolees-21'
 descuento: '33.51'
 average: '1.25'

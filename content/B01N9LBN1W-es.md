@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'Smoby  SMOBH - Caja de Frutas y Verduras  Modelos/Colores aleatorios  948 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N9LBN1W/?tag=tolees-21'
 descuento: '63.70'
 average: '2.9'

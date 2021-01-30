@@ -16,6 +16,7 @@ comparePrice: 700.59 EUR
 prodname: 'Bosch Professional GBH 18 V-EC - Martillo perforador  combinadoa batería  1 7 J  2 baterías x 5 0 Ah  18V  Ø máx. hormigón 18 mm  SDS plus  en L-BOXX '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00IKI6K08/?tag=tolees-21'
 descuento: '39.34'
 average: '425.0'

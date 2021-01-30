@@ -16,6 +16,7 @@ comparePrice: 22.3 EUR
 prodname: 'Under Armour UA Tech Mesh Short Pantalones Cortos  Hombre  Gris  Pitch Gray/Black 012   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CZLCJP4/?tag=tolees-21'
 descuento: '30.54'
 average: '15.156666666666666'

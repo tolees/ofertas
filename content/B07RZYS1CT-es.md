@@ -16,6 +16,7 @@ comparePrice: 224.1 EUR
 prodname: 'Love MoschinoJc4004pp1aMujerBolsos mochilaBeige  Naturale 14x29x37 centimeters  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RZYS1CT/?tag=tolees-21'
 descuento: '38.21'
 average: '138.47'

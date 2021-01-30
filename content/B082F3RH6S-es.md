@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'Luces LED de cortina  Carpa brillante 300 LED 3mx3m 4 modos musicales 8 modos de luz Luces de cadena de control remoto brillantes  control de voz IP65 Impermeable para decorar interiores amarillo cálido-2 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082F3RH6S/?tag=tolees-21'
 descuento: '42.04'
 average: '39.99'

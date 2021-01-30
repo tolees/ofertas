@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Skagen Reloj Analógico para Unisex Adultos de Cuarzo con Correa en Silicona SKW6512'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L6MQ1S8/?tag=tolees-21'
 descuento: '34.14'
 average: '65.488'

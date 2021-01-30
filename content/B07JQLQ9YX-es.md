@@ -16,6 +16,7 @@ comparePrice: 40 EUR
 prodname: 'Under Armour Cinch Printed Tote Bolsa Deportiva  Mujer  Verde  OSFA'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JQLQ9YX/?tag=tolees-21'
 descuento: '27.52'
 average: '28.99'

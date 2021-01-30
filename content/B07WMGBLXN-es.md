@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'inhzoy Mameluco de Princess Encaje para Bebé Niña Body Manga Larga/Sin Mangas Romper con Sombrero Infantil Traje de Cumpleaños Bautizo Fotografía Azul Cielo One Size'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WMGBLXN/?tag=tolees-21'
 descuento: '83.33'
 average: '4.0'

@@ -16,6 +16,7 @@ comparePrice: 36.39 EUR
 prodname: 'PUMA Carina Lux SD Zapatillas Mujer  Negro  Puma Black-Teal Green 01   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KFWTZVP/?tag=tolees-21'
 descuento: '50.34'
 average: '18.066666666666666'

@@ -16,6 +16,7 @@ comparePrice: 13.29 EUR
 prodname: 'American History X Blu-Ray [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0057VZUYI/?tag=tolees-21'
 descuento: '25.51'
 average: '9.9'

@@ -16,6 +16,7 @@ comparePrice: 12.69 EUR
 prodname: 'Sizzix Thinlits Troqueles 10PK Set de cocina'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L6PM1LT/?tag=tolees-21'
 descuento: '53.19'
 average: '5.94'

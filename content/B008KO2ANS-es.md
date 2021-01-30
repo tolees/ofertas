@@ -16,6 +16,7 @@ comparePrice: 82.4 EUR
 prodname: 'Monix Classica Olla a Presión Tradicional de 10 litros  Acero Inoxidable  Gris  24 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B008KO2ANS/?tag=tolees-21'
 descuento: '28.52'
 average: '57.76200000000001'

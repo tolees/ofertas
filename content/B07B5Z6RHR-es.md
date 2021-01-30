@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'MODERN LIFE Soporte de Pared para TV 10-26 Pulgadas 25-66cm   Inclinable y Giratorio  Máx Vesa 100x100  Carga 25KG  para Televisores de Pantalla Plana LED LCD Plasma 4K 3D '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B5Z6RHR/?tag=tolees-21'
 descuento: '42.32'
 average: '13.656666666666666'

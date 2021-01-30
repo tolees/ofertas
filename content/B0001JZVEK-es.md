@@ -16,6 +16,7 @@ comparePrice: 25.9 EUR
 prodname: 'D-Link DGS-1005D – Switch de red con 5 puertos Gigabit 10/100/1000 Mbps no gestionable Layer 2  negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0001JZVEK/?tag=tolees-21'
 descuento: '34.36'
 average: '16.056'

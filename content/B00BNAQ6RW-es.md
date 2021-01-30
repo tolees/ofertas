@@ -16,6 +16,7 @@ comparePrice: 116.0 EUR
 prodname: 'Sensai Cellular Eye Contour Balm Contorno de Ojos - 15 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BNAQ6RW/?tag=tolees-21'
 descuento: '37.15'
 average: '65.955'

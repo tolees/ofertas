@@ -16,6 +16,7 @@ comparePrice: 11.84 EUR
 prodname: '2 rollos de 28x600 cm en plástico gofrado especial para el envasado al vacío de alimentos Laica VT3509 libres de BPA'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B017XYXRQE/?tag=tolees-21'
 descuento: '44.26'
 average: '7.3'

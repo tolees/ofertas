@@ -16,6 +16,7 @@ comparePrice: 999.0 EUR
 prodname: 'Panasonic DC-GX9M Panasonic LUMIX DC-GX9M - Cámara Digital  DSLM  Live Mos  20MP  F3.5-F5.6  12-60mm  Color Negro Negro  [versión importada]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079Z62LMZ/?tag=tolees-21'
 descuento: '29.94'
 average: '699.9'

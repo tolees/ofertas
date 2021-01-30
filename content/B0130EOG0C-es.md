@@ -16,6 +16,7 @@ comparePrice: 61.99 EUR
 prodname: 'Remington Kit Lithium PG6160 - Recortador Multifunción y Cortapelos  Barba  Cabello  Vello Corporal  Nariz  Orejas  Inalámbrico  Titanio  10 Accesorios  Negro y Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0130EOG0C/?tag=tolees-21'
 descuento: '40.31'
 average: '39.888571428571424'

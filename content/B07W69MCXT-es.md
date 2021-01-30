@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'TOUS Urban  Capazo Women s  U'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W69MCXT/?tag=tolees-21'
 descuento: '41.27'
 average: '75.76'

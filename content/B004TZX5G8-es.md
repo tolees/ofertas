@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Nike Air Monarch IV  Zapatillas de Gimnasia para Hombre  Blanco  White/Black/Varsity Red 101   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004TZX5G8/?tag=tolees-21'
 descuento: '50.00'
 average: '27.5'

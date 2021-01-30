@@ -16,6 +16,7 @@ comparePrice: 27.33 EUR
 prodname: 'Julius-K9 Correa  Negro y Gris  2 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004G7J0EU/?tag=tolees-21'
 descuento: '27.00'
 average: '19.95'

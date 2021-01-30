@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'XTI - Sandalia Plana Casual - Cierre con Hebilla - Color Nude - Talla 37'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0881P4CKJ/?tag=tolees-21'
 descuento: '30.04'
 average: '27.95'

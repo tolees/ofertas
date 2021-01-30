@@ -16,6 +16,7 @@ comparePrice: 33.99 EUR
 prodname: 'IPOTCH SFR1M44-U100K USB Floppy Drive para Equipos de Control Industrial'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078NTBH2K/?tag=tolees-21'
 descuento: '33.33'
 average: '19.631666666666668'

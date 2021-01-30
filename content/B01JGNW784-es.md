@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'MutecPower 1m Sat Cable coaxial de la Antena Conector Angular de 90 ° F en F Conector para el Cable por satélite Cable de Audio y vídeo HDTV Full HD Digital - Negro 1 Metro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01JGNW784/?tag=tolees-21'
 descuento: '46.90'
 average: '8.49'

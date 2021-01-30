@@ -16,6 +16,7 @@ comparePrice: 148.85 EUR
 prodname: 'HP F6T83AE 973X Cartucho de Tinta Original de alto rendimiento  1 unidad  amarillo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01DA80FHQ/?tag=tolees-21'
 descuento: '31.00'
 average: '102.40666666666667'

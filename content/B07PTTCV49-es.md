@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'Kipling - Atlez Duo  Bolsos bandolera Mujer  Marrón  Metallic Rose Gift   25x16.5x3 cm  B x H T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PTTCV49/?tag=tolees-21'
 descuento: '50.00'
 average: '34.5'

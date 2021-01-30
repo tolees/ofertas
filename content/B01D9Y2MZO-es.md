@@ -16,6 +16,7 @@ comparePrice: 28.5 EUR
 prodname: 'Clarins Solaire Lait Fondant Auto-Bronzant Hydratation 24H 125 Ml 1 Unidad 1300 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01D9Y2MZO/?tag=tolees-21'
 descuento: '38.42'
 average: '17.55'

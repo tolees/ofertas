@@ -16,6 +16,7 @@ comparePrice: 5.34 EUR
 prodname: 'AgfaPhoto 110-803951 - Pilas alcalinas AA  Pack de 10 Unidades  LR06   Gris/Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004F7DWCM/?tag=tolees-21'
 descuento: '56.37'
 average: '2.8433333333333333'

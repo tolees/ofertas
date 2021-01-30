@@ -16,6 +16,7 @@ comparePrice: 32.0 EUR
 prodname: 'iiniim Conjunto de Traje Danza del Vientre para Niña Top + Cinturón + Pantalones + Pulseras + Mantilla con Lentejuelas Ropa de Baile India Disfraz Carnaval Belly Dance Rosa 8-10 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K311YYK/?tag=tolees-21'
 descuento: '45.34'
 average: '17.49'

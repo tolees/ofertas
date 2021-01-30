@@ -16,6 +16,7 @@ comparePrice: 99 EUR
 prodname: 'Italian Bed Linen Più Bello Funda Cubre Sofá  Poliéster  NEGRO  3 PLAZAS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CE9IW18/?tag=tolees-21'
 descuento: '72.16'
 average: '27.56'

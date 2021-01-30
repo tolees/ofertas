@@ -16,6 +16,7 @@ comparePrice: 41.9 EUR
 prodname: 'Electrolux EAT3300 Tostadora Love Your Day Collection  940 W  Acero Inoxidable/plastico  2 Ranuras  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B016DNCFC8/?tag=tolees-21'
 descuento: '41.67'
 average: '30.26'

@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'BOSS Starfish Bañador para Hombre  Negro  Black 007   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M5LMXYC/?tag=tolees-21'
 descuento: '40.00'
 average: '33.4'

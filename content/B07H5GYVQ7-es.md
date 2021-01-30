@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: '4 Pack Esponja de ducha de baño JollyJelly Malla de baño Loofahs Doble malla de cepillo de depurador corporal para mujeres Los hombres exfolian la piel limpia calmar la piel  Mix -4 Pack '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H5GYVQ7/?tag=tolees-21'
 descuento: '34.53'
 average: '6.54'

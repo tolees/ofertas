@@ -16,6 +16,7 @@ comparePrice: 398.0 EUR
 prodname: 'habitatetjardin Comedor de jardín en textileno Cordoba - Phoenix - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01DXW9MZU/?tag=tolees-21'
 descuento: '44.97'
 average: '219.0'

@@ -16,6 +16,7 @@ comparePrice: 133.3 EUR
 prodname: 'Kerastase 905-56003 - Activador de volumen capilar  30 x 6 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BVVBL6I/?tag=tolees-21'
 descuento: '32.62'
 average: '89.82'

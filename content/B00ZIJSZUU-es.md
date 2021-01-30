@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Trust GXT 363 - Auriculares Gaming USB con vibración y Sonido Surround 7.1  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ZIJSZUU/?tag=tolees-21'
 descuento: '57.70'
 average: '40.23222222222222'

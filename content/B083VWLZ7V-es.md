@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'PULEN [3 Unidades] Protector de Pantalla Compatible con Xiaomi Redmi Note 9S Cristal Templado con [Sin Burbujas] [antihuellas] 9H Dureza HD Resistente a los arañazo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083VWLZ7V/?tag=tolees-21'
 descuento: '33.37'
 average: '5.99'

@@ -16,6 +16,7 @@ comparePrice: 15.9 EUR
 prodname: 'NUTRI COLOR CREME 270ML 000'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0721Y5QCG/?tag=tolees-21'
 descuento: '37.17'
 average: '9.99'

@@ -16,6 +16,7 @@ comparePrice: 18.79 EUR
 prodname: 'Mesa en la Asiento de Coche infantil  bandeja del coche Bandeja de almacenamiento para asiento de coche Bandeja De Viaje para niños Red '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PLRZB1L/?tag=tolees-21'
 descuento: '45.24'
 average: '10.29'

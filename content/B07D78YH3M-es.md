@@ -16,6 +16,7 @@ comparePrice: 45.65 EUR
 prodname: 'Glamorise Full Figure MagicLift Moisture Control Bra #1264 Sujetador con Copa Completa  Beige  Café Heather 211   120H  Talla del Fabricante: 46G  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D78YH3M/?tag=tolees-21'
 descuento: '44.23'
 average: '25.46'

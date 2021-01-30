@@ -16,6 +16,7 @@ comparePrice: 27.99 EUR
 prodname: 'Laelr Dual Reloj Despertador Digital con Formato con luz de Fondo de Tiempo  Modo de Fin de Semana  Calendario de Fechas  Temperatura  Reloj Despertador Junto a la Cama para Viajes de Oficina'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VS7XM87/?tag=tolees-21'
 descuento: '39.30'
 average: '16.99'

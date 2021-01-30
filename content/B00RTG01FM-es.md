@@ -16,6 +16,7 @@ comparePrice: 124.63 EUR
 prodname: 'Grohe Eurosmart  - Grifo de lavabo con vaciador automático  caño estándar  tecnología Grohe SilkMove  tecnología Grohe EcoJoy  Ref. 33265002 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00RTG01FM/?tag=tolees-21'
 descuento: '47.51'
 average: '63.498999999999995'

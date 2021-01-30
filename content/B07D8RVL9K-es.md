@@ -16,6 +16,7 @@ comparePrice: 78.99 EUR
 prodname: 'Famhome - Cinturón elástico de cintura para mujer  estilo vintage Dorado Bright Belt-beige 90'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D8RVL9K/?tag=tolees-21'
 descuento: '83.53'
 average: '13.576666666666666'

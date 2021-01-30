@@ -16,6 +16,7 @@ comparePrice: 450.0 EUR
 prodname: 'Sony Action CAM FDR-X1000VR - Videocámara Deportiva  Video 4K  Resistente a Salpicaduras con WI-FI  NFC  GPS y Kit de Mando a Distancia Live-View   Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00RK7OHPK/?tag=tolees-21'
 descuento: '25.93'
 average: '329.13'

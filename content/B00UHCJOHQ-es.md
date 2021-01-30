@@ -16,6 +16,7 @@ comparePrice: 31.57 EUR
 prodname: 'Anillo De Boda De La Flor Cojín Almohada Chica Cesta Sorteo Banquete De Boda Blanco De Liga'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00UHCJOHQ/?tag=tolees-21'
 descuento: '46.31'
 average: '16.95'

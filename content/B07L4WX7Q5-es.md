@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'Kickers Kick 18  Zapatillas para Hombre  Marrón  Marron 9   46 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L4WX7Q5/?tag=tolees-21'
 descuento: '72.71'
 average: '24.29'

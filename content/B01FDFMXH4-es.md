@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Suaoki - Mini Compresor de aire portátil  bomba inflador con luz LED  12V  120 PSI  3 adaptadores boquilla  4" aire manguera  3m cable con mechero  para neumáticos  objetos inflables '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FDFMXH4/?tag=tolees-21'
 descuento: '36.68'
 average: '18.515'

@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'Revlon Ultra HD Gel Pintalabios  Vineyard '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01KHSUQ62/?tag=tolees-21'
 descuento: '80.00'
 average: '2.3524999999999996'

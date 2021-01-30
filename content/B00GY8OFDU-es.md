@@ -16,6 +16,7 @@ comparePrice: 84.95 EUR
 prodname: 'Puma Suede Classic +  Zapatillas Unisex Adulto  Negro  Black/Team Gold/White   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00GY8OFDU/?tag=tolees-21'
 descuento: '34.08'
 average: '56'

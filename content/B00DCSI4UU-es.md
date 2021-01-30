@@ -16,6 +16,7 @@ comparePrice: 82.99 EUR
 prodname: 'Orbegozo CT 12105 Ventilador de techo con luz  5 palas reversibles  diámetro 105 cm  potencia de 55 W y 3 velocidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00DCSI4UU/?tag=tolees-21'
 descuento: '28.44'
 average: '59.39'

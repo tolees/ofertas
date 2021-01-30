@@ -16,6 +16,7 @@ comparePrice: 13.15 EUR
 prodname: 'PopSockets PS04454 - Soporte telescópico para Smartphones y tabletas  Estilo Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00UY1YTGG/?tag=tolees-21'
 descuento: '47.00'
 average: '6.97'

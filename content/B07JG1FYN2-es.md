@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Lacoste PH5522 Polo  Gris  Argent Chine   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JG1FYN2/?tag=tolees-21'
 descuento: '55.29'
 average: '43.614999999999995'

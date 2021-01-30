@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'HYGF Auriculares Bluetooth Auriculares inalámbricos 5.0 Auriculares Bluetooth en Oreja Auricular Estéreo inalámbrico en Oreja Manos Libres para Apple Airpods/Android/iPhone/Samsung …'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083QY2DC6/?tag=tolees-21'
 descuento: '66.01'
 average: '33.99'

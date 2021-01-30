@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'YWLINK Verano Mezcla De Algodon CóModo Sin Mangas De Color SóLido BotóN A Rayas Mameluco Mamelucos Lindo FáCil De Poner Y Quitar Negro 0-3 meses/60 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RHNQKWX/?tag=tolees-21'
 descuento: '72.07'
 average: '3.07'

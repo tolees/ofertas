@@ -16,6 +16,7 @@ comparePrice: 13.13 EUR
 prodname: 'MIWIND 24 parches para planchar en el coche de ingeniería  parches bordados para ropa de coche  parches de costura  dibujos animados para niños  chaquetas  camisetas  camisetas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085S1KN8C/?tag=tolees-21'
 descuento: '46.76'
 average: '6.99'

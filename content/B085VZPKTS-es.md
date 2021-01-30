@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: '5 IN 1 Húmedo & Seco Afeitadora eléctrica para Hombre 4D cabeza y Barba Electrica Maquinilla De Afeitar 5 Cabezas Rotativa Afeitadora Cabeza Calva Depiladora Corporal Impermeable USB Recargable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085VZPKTS/?tag=tolees-21'
 descuento: '25.01'
 average: '29.99'

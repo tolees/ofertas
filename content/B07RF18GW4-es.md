@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'G-STAR RAW Premium Basic Type C Sweat Pant Pantalones de Deporte  Negro  Dk Black C235-6484   42  Talla del Fabricante: Small  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RF18GW4/?tag=tolees-21'
 descuento: '34.35'
 average: '52.49'

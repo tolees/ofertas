@@ -16,6 +16,7 @@ comparePrice: 1.81 EUR
 prodname: 'Fellowes 29702 - Alfombrilla estándar para ratón  22.9 x 20.3 x 0.5 cm  Color Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0002AF6BQ/?tag=tolees-21'
 descuento: '34.25'
 average: '1.3449999999999998'

@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'HUAWEI BXHU1907 - Funda View Cover P10 Lite  Color Gris Claro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N19AK1A/?tag=tolees-21'
 descuento: '78.05'
 average: '3.29'

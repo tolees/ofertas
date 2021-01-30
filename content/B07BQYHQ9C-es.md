@@ -16,6 +16,7 @@ comparePrice: 20.93 EUR
 prodname: 'Movimientos para DIY Caja de Música Musical Box Partes 2 Pedazos - Memory  para Elisa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BQYHQ9C/?tag=tolees-21'
 descuento: '33.35'
 average: '13.95'

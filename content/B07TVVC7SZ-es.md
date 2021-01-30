@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Skechers Equalizer 4.0  Zapatillas para Hombre  Azul  Navy Engineered Mesh/Hot Melt/Trim Nvy   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TVVC7SZ/?tag=tolees-21'
 descuento: '51.51'
 average: '33.92'

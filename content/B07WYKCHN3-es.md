@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Lomogo Funda Xiaomi Redmi 7A  Cartera Funda de Cuero Ranuras para Tarjetas Cierre Magnetico Soporte Plegable Carcasa Antigolpes para Xiaomi Redmi7A - LOHHA120312 Morado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WYKCHN3/?tag=tolees-21'
 descuento: '55.23'
 average: '8.95'

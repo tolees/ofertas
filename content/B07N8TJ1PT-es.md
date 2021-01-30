@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Izod Performance Pique Polo  Blanco  Bright White 116   XL para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N8TJ1PT/?tag=tolees-21'
 descuento: '74.75'
 average: '7.55'

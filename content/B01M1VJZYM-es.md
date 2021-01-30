@@ -16,6 +16,7 @@ comparePrice: 1.49 EUR
 prodname: 'Purina Felix Party Mix Original Snacks  golosinas y chuches para gato 60 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M1VJZYM/?tag=tolees-21'
 descuento: '36.24'
 average: '0.95'

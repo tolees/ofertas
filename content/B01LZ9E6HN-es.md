@@ -16,6 +16,7 @@ comparePrice: 379.0 EUR
 prodname: 'Hugo Boss Reloj Cronógrafo para Hombre de Cuarzo con Correa en Acero Inoxidable 1513441'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LZ9E6HN/?tag=tolees-21'
 descuento: '57.61'
 average: '201.568'

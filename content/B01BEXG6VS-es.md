@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'POP! Vinilo - Flash Gordon: General Klytus'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BEXG6VS/?tag=tolees-21'
 descuento: '32.35'
 average: '9.148'

@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'HAZUN Cámara Web Full HD de 1080p  USB2.0 con micrófono Cámara Plug and Play Ajustable en 360 ° para computadora de Escritorio PC portátil Video Llamada'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086WZ44YV/?tag=tolees-21'
 descuento: '27.80'
 average: '13.71'

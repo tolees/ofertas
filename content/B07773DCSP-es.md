@@ -16,6 +16,7 @@ comparePrice: 43.53 EUR
 prodname: 'Black+Decker 9045853BND Accesorios para Compresor de Aire  BD KIT 5 PCS METAL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07773DCSP/?tag=tolees-21'
 descuento: '34.00'
 average: '28.73'

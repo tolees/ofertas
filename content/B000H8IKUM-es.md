@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'GORE WEAR C5 Maillot de manga corta para hombre  L  negro/blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000H8IKUM/?tag=tolees-21'
 descuento: '33.01'
 average: '60.26'

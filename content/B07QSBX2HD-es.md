@@ -16,6 +16,7 @@ comparePrice: 19.36 EUR
 prodname: 'Funko- 5 Star: Frozen 2-Olaf Disney Figura Coleccionable  Multicolor  41724 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QSBX2HD/?tag=tolees-21'
 descuento: '33.63'
 average: '11.329600000000001'

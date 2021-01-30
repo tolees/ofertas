@@ -16,6 +16,7 @@ comparePrice: 22.9 EUR
 prodname: 'LightHUB Lámpara de pared de yeso inferior interior  Moderno  G9  lámpara de pared decorativa  color blanco  dormitorio  cocina  oficina  cuarto de baño  iluminación de pasillo  Comedor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QV2M7WW/?tag=tolees-21'
 descuento: '26.20'
 average: '16.9'

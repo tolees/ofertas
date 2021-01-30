@@ -16,6 +16,7 @@ comparePrice: 104.32 EUR
 prodname: 'Casio Smart Watch Armbanduhr A168WEGM-9EF'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BXD7DN6/?tag=tolees-21'
 descuento: '54.08'
 average: '47.9'

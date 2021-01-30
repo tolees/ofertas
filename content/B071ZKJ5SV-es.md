@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Reloj Lorus - Hombre RH817CX9'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071ZKJ5SV/?tag=tolees-21'
 descuento: '41.42'
 average: '34.56'

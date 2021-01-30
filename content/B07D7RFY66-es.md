@@ -16,6 +16,7 @@ comparePrice: 145.0 EUR
 prodname: 'Saucony Ride ISO  Zapatillas de Running para Hombre  Blanco  White/Blue/Vizired 35   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D7RFY66/?tag=tolees-21'
 descuento: '54.52'
 average: '65.95'

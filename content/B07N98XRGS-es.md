@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'BOSS Schino-Regular D Pantalones  Azul  Navy 413   29W/34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N98XRGS/?tag=tolees-21'
 descuento: '59.18'
 average: '40.8'

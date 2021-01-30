@@ -16,6 +16,7 @@ comparePrice: 4.63 EUR
 prodname: 'Colgate 360  Cepillo de dientes  Suave  limpiador de lengua y mejillas - 1 ud'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001E97CHK/?tag=tolees-21'
 descuento: '28.73'
 average: '3.25'

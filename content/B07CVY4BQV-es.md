@@ -16,6 +16,7 @@ comparePrice: 109.99 EUR
 prodname: 'AZDOME Arrancador de Coche Booster 800A 18000mAh Arrancador Batería Diesel Portátil Jump Starter Profesional Arranque Potente 6.5L Gas o 5.5L Diesel  para Moto Tractor Barco Furgoneta y Camiones'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CVY4BQV/?tag=tolees-21'
 descuento: '36.37'
 average: '66.49'

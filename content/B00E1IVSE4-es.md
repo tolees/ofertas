@@ -16,6 +16,7 @@ comparePrice: 30.25 EUR
 prodname: 'BioTechUSA Iso Whey Zero Premium Protein Isolat Pulver  Proteinpulver aus Native Whey Isolate mit L-Glutamin und BCAA angereichert  palmöl- und aspartamfrei  500g  Erdbeere'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00E1IVSE4/?tag=tolees-21'
 descuento: '34.18'
 average: '19.91'

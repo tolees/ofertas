@@ -16,6 +16,7 @@ comparePrice: 55.7 EUR
 prodname: 'Adidas Falcon W - Zapatillas de Deporte para Mujer  Negro  Negbás/Gricin  36 1/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K4RV7SB/?tag=tolees-21'
 descuento: '25.55'
 average: '38.86'

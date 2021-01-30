@@ -16,6 +16,7 @@ comparePrice: 67.88 EUR
 prodname: 'BRA PRIOR - Cacerola baja con tapa de cristal y asas de silicona  apta para todo tipo de cocinas incluida inducción y horno  32 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00YF4TQLQ/?tag=tolees-21'
 descuento: '35.70'
 average: '42.25'

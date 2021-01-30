@@ -16,6 +16,7 @@ comparePrice: 51.99 EUR
 prodname: 'Sendowtek Mini Calefactor Cerámico 1200W Calentador de Espacio Eléctrico Portátil Personal para Cuarto/Baño/Oficina  Oscilación Automática  3 Modos de contra Viento  2 Protección de Seguridad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DRK5JMM/?tag=tolees-21'
 descuento: '48.28'
 average: '29.79'

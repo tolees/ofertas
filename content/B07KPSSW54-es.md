@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Pop! Vinyl: Spider Man Far from Home: MJ'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KPSSW54/?tag=tolees-21'
 descuento: '38.37'
 average: '14.189354838709678'

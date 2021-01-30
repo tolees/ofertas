@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'WOSTOO Faja Reductora Adelgazante  Hombre Mujer Neopreno Cintura Entrenador  Faja Lumbar de Trabajo Ajustable Ayuda a Reducir Cintura y Abdomen Cinturón Transpirable Cintura para Deporte Fitness'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q2ZR7HC/?tag=tolees-21'
 descuento: '35.31'
 average: '10.49'

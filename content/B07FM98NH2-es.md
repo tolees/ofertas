@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Real Betis - Temporada 2019/2020 - Kappa - ZOSHI 3  Polo  Hombre  Neutro  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FM98NH2/?tag=tolees-21'
 descuento: '50.17'
 average: '14.95'

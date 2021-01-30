@@ -16,6 +16,7 @@ comparePrice: 12.7 EUR
 prodname: 'Té Yunnan Puerh 100g  0.22LB  conservas Jazmín Puer pequeño Tuocha Pu er té maduro Té chino Té Pu er Té negro Té Puer Pu er té Pu-erh té Árboles viejos Pu er té cocido Té rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GLD2VT4/?tag=tolees-21'
 descuento: '50.00'
 average: '6.35'

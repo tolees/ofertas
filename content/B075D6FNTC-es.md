@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'EIS  Lubricante Deluxe Aqua sandía  efecto de larga duración acuoso  300ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075D6FNTC/?tag=tolees-21'
 descuento: '80.03'
 average: '5.99'

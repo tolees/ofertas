@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'PUMA LQDCELL Hydra  Zapatillas Deportivas para Interior para Hombre  Negro Black/Yellow Alert  41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S9RX5J7/?tag=tolees-21'
 descuento: '39.97'
 average: '52.483333333333334'

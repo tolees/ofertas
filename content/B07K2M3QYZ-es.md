@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'Adidas Adilette Aqua  Zapatillas de Cross Unisex Adulto  Blanco  Ftwbla/Negbás/Ftwbla 000   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K2M3QYZ/?tag=tolees-21'
 descuento: '74.89'
 average: '5.01'

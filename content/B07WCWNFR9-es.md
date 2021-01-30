@@ -16,6 +16,7 @@ comparePrice: 29.98 EUR
 prodname: 'Sternitz - Bloque de Yoga - Eco-Friendly - No Tóxico - Liviano y Duradero - Yoga Block  23cm x 15cm x 10cm  Negro - Gris  2 Pack  '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WCWNFR9/?tag=tolees-21'
 descuento: '56.67'
 average: '12.99'

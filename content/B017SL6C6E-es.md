@@ -16,6 +16,7 @@ comparePrice: 79.9 EUR
 prodname: 'Tommy Hilfiger Core Hilfiger Regular Polo  Azul  Sky Captain 403   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B017SL6C6E/?tag=tolees-21'
 descuento: '31.16'
 average: '55.0'

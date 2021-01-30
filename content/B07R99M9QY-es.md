@@ -16,6 +16,7 @@ comparePrice: 599.99 EUR
 prodname: 'ASUS VivoBook Flip 14 TP412UA-EC175T - Ordenador portátil de 14" FullHD  Intel Core i3-7020U  4GB RAM  128GB SSD  Intel HD 620  Windows 10  plata azul - Teclado QWERTY Español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R99M9QY/?tag=tolees-21'
 descuento: '25.17'
 average: '449.0'

@@ -16,6 +16,7 @@ comparePrice: 89.9 EUR
 prodname: 'Igi&Co Uomo-41145  Zapatillas de Gimnasia para Hombre  Grigio Scuro 4114511  43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NX1NN8K/?tag=tolees-21'
 descuento: '74.32'
 average: '23.09'

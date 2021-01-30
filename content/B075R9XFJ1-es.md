@@ -16,6 +16,7 @@ comparePrice: 16.88 EUR
 prodname: 'Suavinex 304006 biberón Physio Panda 360 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075R9XFJ1/?tag=tolees-21'
 descuento: '64.57'
 average: '5.98'

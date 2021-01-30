@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Levi s 501 Original Shorts Pantalones Cortos  Negro  Antipasto Short 0087   W29  Talla del Fabricante: 29  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TJ9S3K9/?tag=tolees-21'
 descuento: '47.38'
 average: '31.54285714285714'

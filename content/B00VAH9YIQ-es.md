@@ -16,6 +16,7 @@ comparePrice: 124.6 EUR
 prodname: 'Manfrotto Lumimuse 8 LED  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00VAH9YIQ/?tag=tolees-21'
 descuento: '37.41'
 average: '72.32333333333332'

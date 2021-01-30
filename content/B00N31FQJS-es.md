@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'GoPro Fetch - Arnés de cámara GoPro para Mascota  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00N31FQJS/?tag=tolees-21'
 descuento: '38.05'
 average: '30.97'

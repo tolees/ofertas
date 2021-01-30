@@ -16,6 +16,7 @@ comparePrice: 69.9 EUR
 prodname: 'Tommy Hilfiger Coco Legging Leggings  Morado  Beet Red 840   W38  Talla del Fabricante: Large  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JRDNT8P/?tag=tolees-21'
 descuento: '50.00'
 average: '29.783333333333335'

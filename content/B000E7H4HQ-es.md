@@ -16,6 +16,7 @@ comparePrice: 160.79 EUR
 prodname: 'K&N RU-2922 filtro de goma universal  paquete de 2  Coche y Moto'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000E7H4HQ/?tag=tolees-21'
 descuento: '45.62'
 average: '87.43'

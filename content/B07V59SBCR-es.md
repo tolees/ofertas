@@ -16,6 +16,7 @@ comparePrice: 159.0 EUR
 prodname: 'Tommy Hilfiger Reloj Analógico para Hombre de Cuarzo con Correa en Cuero 1791637'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V59SBCR/?tag=tolees-21'
 descuento: '30.00'
 average: '111.3'

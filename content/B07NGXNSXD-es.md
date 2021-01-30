@@ -16,6 +16,7 @@ comparePrice: 1099 EUR
 prodname: 'LG CineBeam HF65LSR - Proyector TV de Tiro Corto  hasta 100"  Fuente LED  1.000 lúmenes  Resolución 1920 x 1080  Color Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NGXNSXD/?tag=tolees-21'
 descuento: '26.48'
 average: '785.8766666666667'

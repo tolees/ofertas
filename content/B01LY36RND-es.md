@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Audio Pro Addon T5 - Altavoz inalámbrico  Color Rosa empolvado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LY36RND/?tag=tolees-21'
 descuento: '25.13'
 average: '140.31666666666666'

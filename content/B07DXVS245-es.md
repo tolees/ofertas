@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'Under Armour Armour Mid Crossback Sujetador Deportivo  Mujer  Azul  Utility/Halogen Blue 497   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DXVS245/?tag=tolees-21'
 descuento: '31.18'
 average: '17.95'

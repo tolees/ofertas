@@ -16,6 +16,7 @@ comparePrice: 12.0 EUR
 prodname: 'Divit Shilp Streamline Ganchillo con mango ergonómico para tejer crochet | Ganchillo de tejer de madera mixta de 17.8 cm  para tejido artesanal de hilo | ¡El mejor regalo!  4.5 mm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081C4NKVG/?tag=tolees-21'
 descuento: '25.42'
 average: '8.95'

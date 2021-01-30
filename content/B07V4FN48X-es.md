@@ -16,6 +16,7 @@ comparePrice: 2565.87 EUR
 prodname: 'Autel MaxiCOM MK908 OBD2 Coche Herramienta de Escáner con MV108 Cámara de Inspección  Codificación ECU  Control Bidireccional  Diagnóstico de Nivel OE  Actualizado de MS908 MS906 MK808'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V4FN48X/?tag=tolees-21'
 descuento: '26.77'
 average: '1892.3333333333333'

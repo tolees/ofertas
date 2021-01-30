@@ -16,6 +16,7 @@ comparePrice: 14.28 EUR
 prodname: 'IPOTCH 3 Pares de Cordones para Deportistas  Bloqueo Duradero de Bolsa para Reemplazar Bloques de Barriles Perdidos Que Faltan'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N3PFR69/?tag=tolees-21'
 descuento: '33.33'
 average: '9.52'

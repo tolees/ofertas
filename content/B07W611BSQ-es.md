@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'McNory Mini Ventilador USB Mini Fan Portátil 3000mah Tercer Ajuste de Marcha Ventilador de Cuello Colgante Portátil 180 ° se Puede Plegar Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W611BSQ/?tag=tolees-21'
 descuento: '25.02'
 average: '8.99'

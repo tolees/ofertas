@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'TELMU 10X42 Telescopio Monocular para Movil BAK4 Prisma FMC Impermeable y Antivaho Monoculares de Largo Alcance para avistamiento de Aves >Caza >Camping （Incluye el Suporte de Movil）'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F1MY1BG/?tag=tolees-21'
 descuento: '32.51'
 average: '27.45153846153846'

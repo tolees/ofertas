@@ -16,6 +16,7 @@ comparePrice: 22.78 EUR
 prodname: 'Spotted Zebra 2-Pack Long-Sleeve Novelty T-Shirts Fashion  Mad Skills  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q47Q2RK/?tag=tolees-21'
 descuento: '33.98'
 average: '15.04'

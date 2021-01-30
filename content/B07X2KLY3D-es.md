@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'HOVNEE Pintura de cara Facial para Niños Kit de Pintura maquillaje niños al agua Profesional Pintura 16 Colores 3 Pinceles Rainbow MakeupSegura y para Pieles Sensibles Maquillaje Halloween'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X2KLY3D/?tag=tolees-21'
 descuento: '30.78'
 average: '17.99'

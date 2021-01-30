@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Lydreewam Pendientes aro Colgantes De Luna Plata de Ley 925 con 3A circonia cúbica para Mujer niñas  diámetro 20mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WY55WP1/?tag=tolees-21'
 descuento: '55.01'
 average: '17.99'

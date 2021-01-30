@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'IVSO Funda Carcasa para Nuevo Kindle  10th Generation  2019   Slim PU Protectora Carcasa Cover para Nuevo Kindle E-Reader  10ª generación  versión 2019   Black'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q1F77LF/?tag=tolees-21'
 descuento: '31.10'
 average: '11.643333333333333'

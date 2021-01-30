@@ -16,6 +16,7 @@ comparePrice: 44.49 EUR
 prodname: 'Teclado mecánico para juegos de perfil bajo  ultra delgado  clicky azul interruptor arco iris llevó retroiluminado  panel de aluminio TKL 87 teclas  US-Layout  teclado para PC Gamer Typist'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089ZWKMJL/?tag=tolees-21'
 descuento: '44.17'
 average: '24.84'

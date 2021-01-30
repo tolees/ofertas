@@ -16,6 +16,7 @@ comparePrice: 79.0 EUR
 prodname: 'Zerimar Mocasines para Mujer | Mocasines Mujer Piel | Mocasines Clasicos Mujer | Mocasines Loafers Mujer | Mocasines Castellanos Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QL7N54B/?tag=tolees-21'
 descuento: '55.71'
 average: '34.99'

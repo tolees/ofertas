@@ -16,6 +16,7 @@ comparePrice: 229.0 EUR
 prodname: 'Ecovacs Deebot Slim2 Robot Aspirador 3 en 1: barre  aspira y pasa mopa  navegación aleatoria  control por App  Wifi  3 modos de limpieza  detecta obstáculos  Blanco  Diámetro: 31 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073RMG5ZV/?tag=tolees-21'
 descuento: '26.38'
 average: '173.27250000000004'

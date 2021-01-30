@@ -16,6 +16,7 @@ comparePrice: 150.79 EUR
 prodname: 'Adidas Speedex 16.1 Boxeo Zapatillas - 39.3'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MRV9KYF/?tag=tolees-21'
 descuento: '61.58'
 average: '56.445'

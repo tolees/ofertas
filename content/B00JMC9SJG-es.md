@@ -16,6 +16,7 @@ comparePrice: 225.0 EUR
 prodname: 'Plant Theatre Adirondack - Silla Plegable  Madera Noble'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00JMC9SJG/?tag=tolees-21'
 descuento: '33.34'
 average: '149.99'

@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Miyare 2pcs Perchas Pinzas Faldas Antideslizantes de Acero Inoxidable Perchas Plegables Pantalones de Metal'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07478KCVV/?tag=tolees-21'
 descuento: '36.23'
 average: '14.66'

@@ -16,6 +16,7 @@ comparePrice: 264.99 EUR
 prodname: 'Michael Kors Reloj Analogico para Mujer de Cuarzo con Correa en Acero Inoxidable MK4340'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N3BTJ24/?tag=tolees-21'
 descuento: '27.67'
 average: '191.67'

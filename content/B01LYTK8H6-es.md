@@ -16,6 +16,7 @@ comparePrice: 1299.0 EUR
 prodname: 'Olympus M.Zuiko Digital ED - Objectivo  25 mm  ángulo de visión 47°  Apertura máxima 1:1.2  Efecto Bokeh  19 Elementos / 14 Grupos  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LYTK8H6/?tag=tolees-21'
 descuento: '32.26'
 average: '917.0325'

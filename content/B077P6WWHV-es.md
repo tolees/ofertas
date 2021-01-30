@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Puma Suede Heart Bubble  Zapatillas para Mujer  Marrón  Bungee Cord-Bungee Cord   40.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077P6WWHV/?tag=tolees-21'
 descuento: '63.61'
 average: '29.424999999999997'

@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Lorus Reloj Cronógrafo para Hombre de Cuarzo con Correa en Acero Inoxidable RT303HX9'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NSM55FD/?tag=tolees-21'
 descuento: '49.49'
 average: '52.89333333333334'

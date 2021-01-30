@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'RECCI Breeze Almohada de Fibra 40x80 cm  Altura Ajustable con Peso de llenado Aprox. 1150 g  Almohada de Cama Almohada de Pluma de Ganso con Rebote Lento'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L9M8M1M/?tag=tolees-21'
 descuento: '25.01'
 average: '29.99'

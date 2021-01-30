@@ -16,6 +16,7 @@ comparePrice: 159.9 EUR
 prodname: 'Tommy Hilfiger - Th Core Satchel  Bolsos maletín Mujer  Multicolor  Sky Captain   15x0.1x34 cm  W x H L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RR4PGVQ/?tag=tolees-21'
 descuento: '38.12'
 average: '98.94'

@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'CARPISA ® Porta documentos mujer - Soya Wallet'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VFBKR9K/?tag=tolees-21'
 descuento: '49.97'
 average: '7.98'

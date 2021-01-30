@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: '24x Gris blanco Lámina impresa 2d 15x15cm PEGATINAS lisas para pegar sobre azulejos cuadrados de 15cm en cocina  baños resistentes al agua y aceite'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZFW15MR/?tag=tolees-21'
 descuento: '77.16'
 average: '7.656666666666667'

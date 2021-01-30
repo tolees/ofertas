@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Komono Reloj Analógico de Cuarzo para Hombre con Correa de Acero Inoxidable – KOM-W2352'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00OG5SBOW/?tag=tolees-21'
 descuento: '30.29'
 average: '67.79499999999999'

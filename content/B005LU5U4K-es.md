@@ -16,6 +16,7 @@ comparePrice: 48.99 EUR
 prodname: 'HP CN045AE 950XL Cartucho de Tinta Original de alto rendimiento  1 unidad  negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005LU5U4K/?tag=tolees-21'
 descuento: '30.60'
 average: '31.34'

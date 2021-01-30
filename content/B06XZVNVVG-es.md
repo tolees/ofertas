@@ -16,6 +16,7 @@ comparePrice: 109.9 EUR
 prodname: 'Baby Jogger BJ2011982 - Banqueta'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XZVNVVG/?tag=tolees-21'
 descuento: '67.62'
 average: '35.59'

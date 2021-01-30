@@ -16,6 +16,7 @@ comparePrice: 6.26 EUR
 prodname: 'Cars Toalla Playa  Poliéster  Multicolor  U'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BR7M7HC/?tag=tolees-21'
 descuento: '29.23'
 average: '4.319999999999999'

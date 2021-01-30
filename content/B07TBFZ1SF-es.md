@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'Quiksilver Mission-Chaqueta para Nieve para Hombre  Castle Rock Splash  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TBFZ1SF/?tag=tolees-21'
 descuento: '62.99'
 average: '74.02'

@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'Levi s Turner  Zapatillas para Hombre  Negro  R Black 159   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DZW8LBS/?tag=tolees-21'
 descuento: '30.02'
 average: '34.99'

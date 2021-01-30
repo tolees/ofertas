@@ -16,6 +16,7 @@ comparePrice: 1.99 EUR
 prodname: 'AUSONIA protege slips maxi caja 30 uds'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DHZCZRH/?tag=tolees-21'
 descuento: '31.66'
 average: '1.4177777777777778'

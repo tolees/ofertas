@@ -16,6 +16,7 @@ comparePrice: 24.94 EUR
 prodname: 'UC28B Mini Proyector LED portátil 1080P Cine en casa Cine en casa USB TF Entrada de Tarjeta Mini Beamer - Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SQ3DRQG/?tag=tolees-21'
 descuento: '32.00'
 average: '16.96'

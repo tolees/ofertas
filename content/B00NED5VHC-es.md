@@ -16,6 +16,7 @@ comparePrice: 1499.0 EUR
 prodname: 'Olympus Objetivo M.Zuiko Digital ED 40-150 mm F2.8 Pro  teleobjetivo  Adecuado para Todas Las cámaras MFT  Modelos Olympus OM-D & Pen  Serie G de Panasonic   Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NED5VHC/?tag=tolees-21'
 descuento: '65.31'
 average: '984.5485714285714'

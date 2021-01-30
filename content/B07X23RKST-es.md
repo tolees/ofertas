@@ -16,6 +16,7 @@ comparePrice: 22.37 EUR
 prodname: 'EASE LEAP Calcetines Ejecutivos para Hombre Largos Negros Algodón Transpirables y Cómodo Talla40-48 5/10 Pares  con Cajita de Regalo/ Negro Alistado 5 Pares '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X23RKST/?tag=tolees-21'
 descuento: '32.99'
 average: '14.99'

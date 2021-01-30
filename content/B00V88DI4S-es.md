@@ -16,6 +16,7 @@ comparePrice: 24.75 EUR
 prodname: 'Clarins Eclat Du Jour Crema-Gel Pm 30 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00V88DI4S/?tag=tolees-21'
 descuento: '27.47'
 average: '17.95'

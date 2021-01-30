@@ -16,6 +16,7 @@ comparePrice: 35.5 EUR
 prodname: 'Pez de Piedra Hecho a Mano - Símbolo de Determinación  Independencia  Inteligencia y Salud - Contiene Fragmentos Fósiles - Caja de Regalo y Tarjeta de Mensaje - Buena Suerte Cumpleaños Fish'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XDLR8WJ/?tag=tolees-21'
 descuento: '29.86'
 average: '24.9'

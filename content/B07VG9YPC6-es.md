@@ -16,6 +16,7 @@ comparePrice: 25.66 EUR
 prodname: 'Sethexy Bling 3D Uñas falsas Cristal Boda Diamante de imitación Joyería Cobertura total Salón Resplandecer Diseño artístico Acrílico 24 piezas uñas postizas para mujeres y niñas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VG9YPC6/?tag=tolees-21'
 descuento: '46.77'
 average: '13.66'

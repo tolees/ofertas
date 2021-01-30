@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Altavoz Portátil Bluetooth  Muzili Altavoz Bluetooth Inalámbrico Impermeable IPX7 Sonido Hi-Fi Estéreo Barra de Sonido Audio HD  Más de 24H de Reproducción  Llamada Manos Libres con TF Tarjeta'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C81ND1Z/?tag=tolees-21'
 descuento: '33.34'
 average: '31.990000000000002'

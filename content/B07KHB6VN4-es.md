@@ -16,6 +16,7 @@ comparePrice: 66.24 EUR
 prodname: 'Auriculares Bluetooth Deportivos  Syllable D15 Auriculares Inalámbricos Estéreo para Deportes Bluetooth 5.0 Manos Libres con Micrófono Dual con Ganchos de Orejas para iPhone y Andriod  Amarillo/PL '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KHB6VN4/?tag=tolees-21'
 descuento: '63.78'
 average: '23.99'

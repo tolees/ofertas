@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Sacaleches Eléctrico  Eccomum Sacaleches Doble  Portátil/Silencioso/Recargable  Pantalla Táctil LCD Inteligente/Bolsas de Leche/Adaptadores  BPA-Free/100% Grado de Comida'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WSBBLCS/?tag=tolees-21'
 descuento: '33.34'
 average: '40.99'

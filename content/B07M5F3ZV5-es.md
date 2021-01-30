@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Wrangler Logo Hoodie Capucha  Gris  Dark Grey Mel X06   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M5F3ZV5/?tag=tolees-21'
 descuento: '48.53'
 average: '36'

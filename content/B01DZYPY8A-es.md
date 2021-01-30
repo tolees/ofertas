@@ -16,6 +16,7 @@ comparePrice: 35.9 EUR
 prodname: 'Optimum Nutrition ON Gold Standard BCAA Polvo  Suplementos Deportivos con Aminoacidos  Vitamina C y Magnesio para Musculation  Manzana y Pera  28 Porciones  266g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01DZYPY8A/?tag=tolees-21'
 descuento: '46.04'
 average: '19.91'

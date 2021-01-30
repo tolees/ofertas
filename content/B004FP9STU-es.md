@@ -16,6 +16,7 @@ comparePrice: 13.6 EUR
 prodname: 'Royal Canin C-08314 S.N. Mini Starter - 1 Kg'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004FP9STU/?tag=tolees-21'
 descuento: '43.82'
 average: '7.0'

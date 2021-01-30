@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Luces Solares 【1200lm 5200mAh Potente Versión 2 Piezas】 100 LED Luz Solar Exterior 3 Modos Foco Solar con Sensor de Movimiento 120° Lámparas Solares Para Jardin  Garaje  Pared - Blanco Frío 6000K'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SBKH7QN/?tag=tolees-21'
 descuento: '37.50'
 average: '49.99'

@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'BRIKSMAX Kit de Iluminación Led para Harry Potter-Hogwarts Express  Compatible con Ladrillos de Construcción Lego Modelo 75955-Juego de Legos no Incluido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PSJ49P1/?tag=tolees-21'
 descuento: '50.01'
 average: '29.99'

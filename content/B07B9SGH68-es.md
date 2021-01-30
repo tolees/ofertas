@@ -16,6 +16,7 @@ comparePrice: 199.95 EUR
 prodname: 'Fitbit Versa Smartwatch Deportivo  Gris  Talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B9SGH68/?tag=tolees-21'
 descuento: '35.01'
 average: '138.6277777777778'

@@ -16,6 +16,7 @@ comparePrice: 0.89 EUR
 prodname: 'Maped - Geometric 200 mm - Regla de plástico transparente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002ZXWTQS/?tag=tolees-21'
 descuento: '30.34'
 average: '0.71'

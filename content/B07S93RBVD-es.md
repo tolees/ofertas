@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Kelme - Zapatillas Flamenco Sala'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S93RBVD/?tag=tolees-21'
 descuento: '29.99'
 average: '45.47'

@@ -16,6 +16,7 @@ comparePrice: 103 EUR
 prodname: 'Sisley Contorno de Ojos - 450 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0090XOFD6/?tag=tolees-21'
 descuento: '35.00'
 average: '66.95'

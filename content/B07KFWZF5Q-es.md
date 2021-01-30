@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'PUMJV|#Puma Defy Wn s Zapatillas Deportivas para Interior Mujer  Negro  Puma Black-Pastel Parchment 20   3.5  36 EU  EU  3.5 UK '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KFWZF5Q/?tag=tolees-21'
 descuento: '45.07'
 average: '49.41'

@@ -16,6 +16,7 @@ comparePrice: 3.2 EUR
 prodname: 'Compactor Bolsa para la Colada  Blanco  Polipropileno  Diámetro 38.5 x H.70 cm  RAN4401  Non Woven 75G  38.5 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003LVYRK4/?tag=tolees-21'
 descuento: '69.69'
 average: '2.46'

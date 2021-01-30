@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: '4PCS Guirnalda Luces Pilas Tomshine 6m/19.69FT 60LED Luces LED Pilas Luces Decorativas Habitacion Cadena de Luces con Pilas de Alambre de Cobre para Interior Bodas Fiesta de Navidad（Blanco Cálido）'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X24K1LJ/?tag=tolees-21'
 descuento: '31.27'
 average: '10.99'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Cámara web Full HD 1080P con micrófono  cámara web USB 2.0 / 3.0 para PC  cámara web para computadora Plug and Play para videollamadas  computadora portátil  Facebook  transmisión en vivo  YouTube'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087CSZTNM/?tag=tolees-21'
 descuento: '27.51'
 average: '31.74'

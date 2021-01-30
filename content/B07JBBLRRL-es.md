@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Skechers Side Street-Sunset Walks  Zapatillas para Mujer  Blanco  White Wht   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JBBLRRL/?tag=tolees-21'
 descuento: '33.58'
 average: '45.36333333333333'

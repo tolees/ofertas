@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Rytaki Surface Pro Cargador  15V 2.58A 44W Surface Pro Adaptador para Surface Pro 4 / Pro 5/ Pro 6 / Pro 7  Surface Laptop  Surface Go  Surface Book con Puerto del USB y Cable Extensión Alimentación'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0813L5GBH/?tag=tolees-21'
 descuento: '50.01'
 average: '24.99'

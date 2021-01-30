@@ -16,6 +16,7 @@ comparePrice: 56.88 EUR
 prodname: 'SINOES Hombre 720 Caña Baja Gimnasia Ligero Transpirable Casuales Sneakers de Exterior y Interior Zapatillas Deporte Zapatillas de Carretera Negro Rojo 46 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VPRZQQ3/?tag=tolees-21'
 descuento: '54.50'
 average: '25.88'

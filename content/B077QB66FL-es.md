@@ -16,6 +16,7 @@ comparePrice: 5.76 EUR
 prodname: 'Sanfor Pomo olla adaptable a magefesa tradicional con tornillo  | Negro | Blister pomo Triangular Convencional para ollas de presion | 8 x 8 x 2 5 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077QB66FL/?tag=tolees-21'
 descuento: '82.81'
 average: '0.99'

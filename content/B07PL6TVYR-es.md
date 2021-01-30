@@ -16,6 +16,7 @@ comparePrice: 13.86 EUR
 prodname: 'SikaWall 08 Fijador  Imprimación para fijar superficies porosas  2kg  Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PL6TVYR/?tag=tolees-21'
 descuento: '56.78'
 average: '5.99'

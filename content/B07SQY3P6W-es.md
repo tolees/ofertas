@@ -16,6 +16,7 @@ comparePrice: 13.92 EUR
 prodname: 'Funko- Pop Games: Fortnite-Wild Card  Diamond  Collectible Figure  Multicolor  44733 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SQY3P6W/?tag=tolees-21'
 descuento: '32.61'
 average: '9.38'

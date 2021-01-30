@@ -16,6 +16,7 @@ comparePrice: 153.9 EUR
 prodname: 'Love MoschinoJc4027pp1aMujerBolsos bandoleraBlanco  Bianco 6x17x22 centimeters  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S355DHD/?tag=tolees-21'
 descuento: '43.96'
 average: '76.37'

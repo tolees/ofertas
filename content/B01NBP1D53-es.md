@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'adidas Altasport CF I  Zapatillas Unisex Niños  Multicolor  Ba9516 Multicolor   26 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NBP1D53/?tag=tolees-21'
 descuento: '41.57'
 average: '19.782'

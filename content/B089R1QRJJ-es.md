@@ -16,6 +16,7 @@ comparePrice: 5.4 EUR
 prodname: 'Reloj de Cabeza Fantasma para niños Reloj de Barril Banda de Silicona Reloj de Pulsera Casual niños Niños Niñas - Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089R1QRJJ/?tag=tolees-21'
 descuento: '33.52'
 average: '3.59'

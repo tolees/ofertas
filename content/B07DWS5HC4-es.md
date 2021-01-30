@@ -16,6 +16,7 @@ comparePrice: 36.99 EUR
 prodname: 'SIMMAX Memorias USB 5 Piezas 16GB USB 2.0 Stick Giratoria Flash Drive Pendrives Almacenamiento Datos  16GB Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DWS5HC4/?tag=tolees-21'
 descuento: '48.66'
 average: '18.99'

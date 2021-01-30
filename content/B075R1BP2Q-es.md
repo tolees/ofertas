@@ -16,6 +16,7 @@ comparePrice: 125.0 EUR
 prodname: 'LANGE RSJ 60 Botas de Esquí  Niños  Azul  Power   19.5'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075R1BP2Q/?tag=tolees-21'
 descuento: '40.00'
 average: '75.0'

@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'American Tourister Summerfunk Equipaje de Mano  55 Centimeters  40 litros  Beige'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RSXPRPH/?tag=tolees-21'
 descuento: '43.19'
 average: '53.97'

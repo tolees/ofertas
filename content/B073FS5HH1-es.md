@@ -16,6 +16,7 @@ comparePrice: 7.08 EUR
 prodname: 'Max Factor Healthy Skin Harmony Base de Maquillaje Tono 65 Rose Beige - 146 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073FS5HH1/?tag=tolees-21'
 descuento: '25.42'
 average: '5.28'

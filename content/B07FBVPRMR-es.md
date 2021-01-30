@@ -16,6 +16,7 @@ comparePrice: 29.41 EUR
 prodname: 'Bosch 3 397 014 313 Escobilla para limpiaparabrisas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FBVPRMR/?tag=tolees-21'
 descuento: '26.35'
 average: '21.66'

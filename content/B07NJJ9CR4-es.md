@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Tamaris 1-1-25252-23  Zapatillas Altas para Mujer  Marrón  Cognac 305   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NJJ9CR4/?tag=tolees-21'
 descuento: '77.00'
 average: '22.99'

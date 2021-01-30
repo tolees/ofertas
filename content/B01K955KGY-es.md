@@ -16,6 +16,7 @@ comparePrice: 18.9 EUR
 prodname: 'Schramm® Paquete de 4 Vasos con Tapa  asa y Pajita Vasos de Cristal con Pajita para Beber cóctel de Cristal 500ml Jarra para Beber Vintage Retro Garden Terrace'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01K955KGY/?tag=tolees-21'
 descuento: '39.15'
 average: '12.376000000000001'

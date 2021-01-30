@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Cable guy Iron man  soporte de sujeción o carga para mando de consola y/o smartphone de tu personaje favorito con licencia de Marvel Avengers Endgame. Producto con licencia oficial. Exquisite Gaming'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079TBB6H5/?tag=tolees-21'
 descuento: '40.18'
 average: '15.664285714285715'

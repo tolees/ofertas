@@ -16,6 +16,7 @@ comparePrice: 43.97 EUR
 prodname: 'AECCN Telescopio Monocular-12X50 monocular HD Zoom Monoculares Telescopio con Adaptador de teléfono y trípode-Impermeable a Prueba de Golpes para Caza observación Acampar Aves Juego de fútbol'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MKX4GTR/?tag=tolees-21'
 descuento: '40.94'
 average: '25.97'

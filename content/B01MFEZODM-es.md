@@ -16,6 +16,7 @@ comparePrice: 150.99 EUR
 prodname: 'The Walking Dead - Temporadas 1 a 6 [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MFEZODM/?tag=tolees-21'
 descuento: '60.27'
 average: '59.99'

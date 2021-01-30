@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'KiplingArtMujerBolsos maletínNegro  Charcoal 44x27x20 Centimeters  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TSKWFNH/?tag=tolees-21'
 descuento: '44.89'
 average: '52.35'

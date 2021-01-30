@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Buff Fizz Tricot Calentador Polar  Mujer  Rosa  Honeysuckle   Talla Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072VJ5DST/?tag=tolees-21'
 descuento: '60.83'
 average: '11.73'

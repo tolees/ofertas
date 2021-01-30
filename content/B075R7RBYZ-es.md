@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'New Balance Fresh Foam Cruz v2 Knit  Zapatillas de Running para Mujer  Azul  Wild Indigo/Deep Cosmic Sky/White Munsell Kw2   37.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075R7RBYZ/?tag=tolees-21'
 descuento: '72.23'
 average: '24.99'

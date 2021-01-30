@@ -16,6 +16,7 @@ comparePrice: 170 EUR
 prodname: 'New Balance Fresh Foam 1080v9  Zapatillas de Running para Mujer  Azul  Air/Vintage Indigo   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BL177XK/?tag=tolees-21'
 descuento: '45.45'
 average: '92.73'

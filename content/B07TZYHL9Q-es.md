@@ -16,6 +16,7 @@ comparePrice: 29.0 EUR
 prodname: 'Kipling KiplingDrawpackMujerBolsos totesVerde  Fro Mint Light  39x43x1 Centimeters  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TZYHL9Q/?tag=tolees-21'
 descuento: '52.17'
 average: '13.87'

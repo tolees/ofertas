@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'PUMA Axis  Zapatillas Unisex Adulto  White High Rise  41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F2N3TT9/?tag=tolees-21'
 descuento: '57.56'
 average: '23.32'

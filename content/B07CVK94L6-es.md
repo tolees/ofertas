@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'Porsche Design Bolsa de ordenador portátil 15? azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CVK94L6/?tag=tolees-21'
 descuento: '40.00'
 average: '200.14000000000001'

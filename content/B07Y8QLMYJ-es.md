@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Fantasy Flight Games- Star Wars Armada - Rebelión en el Borde Exterior  Color  SWM31ES '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y8QLMYJ/?tag=tolees-21'
 descuento: '46.01'
 average: '16.17'

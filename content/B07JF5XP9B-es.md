@@ -16,6 +16,7 @@ comparePrice: 12.59 EUR
 prodname: 'Férula del Pulgar  Muñequera de Neopreno  Ajustable Pulgar Férula para Dolor  Sprained  Artritis  Tendonitis- Mejor Disparador Inmovilizador de Pulgar para el Pulgar Restricción  Apoyo para el Pulgar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JF5XP9B/?tag=tolees-21'
 descuento: '59.57'
 average: '5.09'

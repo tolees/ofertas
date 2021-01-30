@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'Panasonic RP-HV41E-A - Auriculares Boton con Cable In-Ear  Headphone Sonido Estéreo para Móvil  MP3/MP4  Diseño de Ajuste Cómodo  Imán Neodimio 9mm  Presión de Sonido de 105 dB  Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00CLPPM78/?tag=tolees-21'
 descuento: '35.04'
 average: '5.19'

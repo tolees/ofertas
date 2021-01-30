@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Desigual Blus Venecia  Rojo  Borgoña 3007   Medium para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WNJTQF5/?tag=tolees-21'
 descuento: '70.09'
 average: '20.92'

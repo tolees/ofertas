@@ -16,6 +16,7 @@ comparePrice: 12.65 EUR
 prodname: 'Selene Sujetador Deportivo Olimpia Negro 100B'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B008X1XEOM/?tag=tolees-21'
 descuento: '26.88'
 average: '9.25'

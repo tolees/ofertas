@@ -16,6 +16,7 @@ comparePrice: 3.59 EUR
 prodname: 'BIC Marking Ultra Fine Marcador Permanente Tejidos - Blíster de 2 unidades  Negro  Plata  933872 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CG6JMRW/?tag=tolees-21'
 descuento: '27.58'
 average: '3.1083333333333334'

@@ -16,6 +16,7 @@ comparePrice: 5.99 EUR
 prodname: 'Maybelline New York - Color Sensational  Pintalabios Mate Hidratante  Tono 982 Peach Buff'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MXUQI5D/?tag=tolees-21'
 descuento: '33.39'
 average: '3.99'

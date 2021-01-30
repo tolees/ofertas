@@ -16,6 +16,7 @@ comparePrice: 255.07 EUR
 prodname: 'Imperial Confort Helsinki - Colchón Viscoelástico de grafeno - Doble cara  invierno/verano  - Grosor 25 cm - 150x200'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DKM7NQ1/?tag=tolees-21'
 descuento: '27.46'
 average: '185.04'

@@ -16,6 +16,7 @@ comparePrice: 13.96 EUR
 prodname: 'Dove Gel de ducha Agua Micelar Anti-Estrés - 4 unidades de 500 ml  Total 2000 ml '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FD85D7J/?tag=tolees-21'
 descuento: '31.45'
 average: '10.32'

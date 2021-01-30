@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'iMagicBox-41197 Caja con Diferentes Juegos de Magia  con Acceso a  Color Negro  Sin Talla  Cife Spain 41197 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0711KW8TC/?tag=tolees-21'
 descuento: '50.00'
 average: '26.666666666666668'

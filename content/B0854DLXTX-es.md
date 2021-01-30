@@ -16,6 +16,7 @@ comparePrice: 11.88 EUR
 prodname: 'Máscaras desechables de 3 capas de 10 piezas  cómoda máscara sanitaria antipolvo  transpirable  desechable  bufanda bucal  máscara de filtro de algodón grueso hipoalergénico  talla única '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0854DLXTX/?tag=tolees-21'
 descuento: '32.74'
 average: '7.99'

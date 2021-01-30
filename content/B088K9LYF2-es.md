@@ -16,6 +16,7 @@ comparePrice: 24.98 EUR
 prodname: 'Repelente Ultrasónico Mosquitos Repelente Ultrasónico de Plagas Repelente Ultrasónico Control de Plagas para Cucarachas  Mosquitos  Moscas  Arañas  Hormigas  Ratas y Ratones 4 Pack'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088K9LYF2/?tag=tolees-21'
 descuento: '32.31'
 average: '16.91'

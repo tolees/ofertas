@@ -16,6 +16,7 @@ comparePrice: 14.91 EUR
 prodname: 'Mixoo Stylus Lapiz Táctil Capacitivo con Puntas de 2 Repuesto Discos y 1 de Fibra para Pantallas Táctiles Apple Ipads  Ipad Mini  Teléfonos móviles  Smartphones y Tabletas-Oro Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N2OJX82/?tag=tolees-21'
 descuento: '39.70'
 average: '8.99'

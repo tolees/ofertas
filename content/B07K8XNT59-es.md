@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Crocs Classic Convertible Slipper  Zapatillas Altas Unisex Adulto  Rosa  Rose Dust/Pearl White 6sh   42/43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K8XNT59/?tag=tolees-21'
 descuento: '44.71'
 average: '22.11'

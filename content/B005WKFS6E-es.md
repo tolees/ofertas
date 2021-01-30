@@ -16,6 +16,7 @@ comparePrice: 99 EUR
 prodname: 'Peter Thomas Roth Peter Thomas Roth Mega Rich Conditioner  8 Fluid Ounce Tapones para los oídos 2 Centimeters Negro  Black '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005WKFS6E/?tag=tolees-21'
 descuento: '82.10'
 average: '17.805'

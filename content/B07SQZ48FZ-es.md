@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'WACCET Bolsa Tubo Frontal de Scooter Impermeable Bolsa Manillar Scooter  Gran Capacidad Bolsa de Patinetes Eléctricos para Xiaomi M365 Bolsa Eléctrica Skateboard'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SQZ48FZ/?tag=tolees-21'
 descuento: '26.68'
 average: '21.89909090909091'

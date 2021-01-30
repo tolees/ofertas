@@ -16,6 +16,7 @@ comparePrice: 57.06 EUR
 prodname: 'adidas Stan Smith I  Zapatillas Unisex Niños  Blanco  Footwear White/Footwear White/Footwear White 0   24 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074P1PPZJ/?tag=tolees-21'
 descuento: '79.13'
 average: '11.91'

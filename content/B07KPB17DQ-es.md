@@ -16,6 +16,7 @@ comparePrice: 21.98 EUR
 prodname: 'Qhui Protector Asiento Coche Silla Bebe  Fundas Asiento Coche Universal  Con Bolsillos de Malla  Fundas de Asiento de Auto Con Respaldo Antideslizante para Tipos  Asientos de Bebé y mascotas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KPB17DQ/?tag=tolees-21'
 descuento: '31.80'
 average: '14.99'

@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'Under Armour Coldgear Armour Legging  Mujer  Negro  MD'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J3C7JBM/?tag=tolees-21'
 descuento: '49.30'
 average: '25.16'

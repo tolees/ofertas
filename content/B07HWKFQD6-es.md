@@ -16,6 +16,7 @@ comparePrice: 38.27 EUR
 prodname: 'ASUS ROG Gaming Wrist Rest'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HWKFQD6/?tag=tolees-21'
 descuento: '25.32'
 average: '31.38333333333333'

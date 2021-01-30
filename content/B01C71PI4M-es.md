@@ -16,6 +16,7 @@ comparePrice: 24.18 EUR
 prodname: 'Monvecle - Bermudas - para bebé niña 3 Pack 3 Colors'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01C71PI4M/?tag=tolees-21'
 descuento: '35.24'
 average: '15.68'

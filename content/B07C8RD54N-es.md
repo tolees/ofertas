@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'VicTsing Linterna Frontal LED Recargable con 50H de Autonomía  Linterna Cabeza Ultra Ligera de Alta Potencia  6 Modos de Luz  Impermeable IPX6  Ajustable 90º para Running  Trabajo  Pesca y Camping'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C8RD54N/?tag=tolees-21'
 descuento: '48.02'
 average: '14.323333333333334'

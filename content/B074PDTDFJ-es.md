@@ -16,6 +16,7 @@ comparePrice: 482.79 EUR
 prodname: 'Grohe 27421002 Euphoria 260 - Sistema de ducha con inversor  Ducha de techo SmartControl de 260 mm con tres chorros  función de ahorro de agua y teleducha de 110 mm con tres chorros'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074PDTDFJ/?tag=tolees-21'
 descuento: '29.39'
 average: '299.775'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Bosch Professional 35 unidades para taladrar y atornillar  Pick and Click  accesorios para atornilladores de impacto  con puntas  brocas universales y portapuntas universal '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P6PKR4S/?tag=tolees-21'
 descuento: '31.01'
 average: '26.22'

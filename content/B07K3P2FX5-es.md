@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'BOSS Schino-Slim D Pantalones  Beige  Open Beige 280   W36/L32  Talla del Fabricante: 3632  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K3P2FX5/?tag=tolees-21'
 descuento: '65.03'
 average: '34.95'

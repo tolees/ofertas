@@ -16,6 +16,7 @@ comparePrice: 150.0 EUR
 prodname: 'Siux Cajon DE 24 Botes con 3 Bolas Match Pro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YZH4LTQ/?tag=tolees-21'
 descuento: '26.70'
 average: '109.95'

@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Juego de 3 Bolsas de Almacenaje Plegable Caja de Tela de Fibra de Carbón de Bambú para Almacenamiento y Organización de Edredón  Sábanas Fundas Mantas y Ropa Fuera de Temporada'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PH1ZLXG/?tag=tolees-21'
 descuento: '60.02'
 average: '11.99'

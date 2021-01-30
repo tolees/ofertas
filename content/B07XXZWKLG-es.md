@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'KIWI design Correa Ajustable de Nudillo para Controlador Oculus Quest/Oculus Rift S Accesorios  Correa de Fijación Ajustable con Cinta Mágica de Nylon'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XXZWKLG/?tag=tolees-21'
 descuento: '40.02'
 average: '15.19'

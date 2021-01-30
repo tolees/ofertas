@@ -16,6 +16,7 @@ comparePrice: 63.41 EUR
 prodname: 'PUMA NRGY Neko Retro Wns  Zapatillas de Running para Mujer  Pastel Parchment White  38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KFYRWK1/?tag=tolees-21'
 descuento: '49.61'
 average: '32.95'

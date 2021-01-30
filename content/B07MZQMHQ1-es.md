@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Pepe Jeans Finly Jeans   Black Used Denim 000   2 años para Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZQMHQ1/?tag=tolees-21'
 descuento: '84.66'
 average: '9.19'

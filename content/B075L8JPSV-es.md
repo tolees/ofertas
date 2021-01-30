@@ -16,6 +16,7 @@ comparePrice: 30.66 EUR
 prodname: 'Memoria USB 2.0 128 MB 10 Piezas Mini Pendrives - Mini Pen Drive Almacenamiento de Datos Externo Unidad Flash USB - Pequeña Capacidad Práctico Metal Portátil USB 2.0 Flash Drive Rojo de Datarm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075L8JPSV/?tag=tolees-21'
 descuento: '32.62'
 average: '20.66'

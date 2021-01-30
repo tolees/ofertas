@@ -16,6 +16,7 @@ comparePrice: 21.45 EUR
 prodname: 'Lindt Dulces Deseos - Bombones de Chocolate  600 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IURS3PS/?tag=tolees-21'
 descuento: '25.59'
 average: '15.96'

@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Under Armour UA Rush Tank Tanque  Mujer  Gris  Ash Taupe/Black 057   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KGZCM6D/?tag=tolees-21'
 descuento: '74.55'
 average: '12.72'

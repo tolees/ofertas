@@ -16,6 +16,7 @@ comparePrice: 15.15 EUR
 prodname: 'Clementoni- Impossible Puzzle-Dragon Ball-1000 pièces  Multicolor  39489 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MY1KVFG/?tag=tolees-21'
 descuento: '34.65'
 average: '9.9'

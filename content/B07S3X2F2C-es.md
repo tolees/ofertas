@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'New Balance 500 h  Zapatillas para Hombre  Rojo  Red Tsc   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S3X2F2C/?tag=tolees-21'
 descuento: '47.92'
 average: '39.06'

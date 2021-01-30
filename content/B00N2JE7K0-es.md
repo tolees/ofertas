@@ -16,6 +16,7 @@ comparePrice: 70.99 EUR
 prodname: 'Philips HU4706/11 – Humidificador con Tecnología NanoCloud de eVaporación Inteligente y Control Automático  Hasta 15 m²'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00N2JE7K0/?tag=tolees-21'
 descuento: '38.15'
 average: '47.894999999999996'

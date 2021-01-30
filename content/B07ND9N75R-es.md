@@ -16,6 +16,7 @@ comparePrice: 99 EUR
 prodname: 'Tommy Hilfiger Reloj Analógico para Mujer de Cuarzo con Correa en Cuero 1782106'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ND9N75R/?tag=tolees-21'
 descuento: '27.44'
 average: '71.86666666666667'

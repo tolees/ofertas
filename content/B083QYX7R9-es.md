@@ -16,6 +16,7 @@ comparePrice: 1.69 EUR
 prodname: '1 conector coaxial SMA macho RF para cable RG402.141" recto chapado en oro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083QYX7R9/?tag=tolees-21'
 descuento: '39.64'
 average: '1.02'

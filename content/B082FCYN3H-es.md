@@ -16,6 +16,7 @@ comparePrice: 24.67 EUR
 prodname: 'Tableta de Escritura LCD Almohadilla  8 5 Pulgadas Tablero de Dibujo para Niños Gráfico Electrónico Tablero de Graffiti para la Oficina de la Escuela en el Hogar Regalo para niños  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082FCYN3H/?tag=tolees-21'
 descuento: '55.45'
 average: '10.99'

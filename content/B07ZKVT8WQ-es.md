@@ -16,6 +16,7 @@ comparePrice: 166.8 EUR
 prodname: 'BRA PRIOR Batería 4 piezas de aluminio fundido con antiadherente  apta para todo tipo de cocinas Incluso inducción'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZKVT8WQ/?tag=tolees-21'
 descuento: '31.06'
 average: '98.06692307692308'

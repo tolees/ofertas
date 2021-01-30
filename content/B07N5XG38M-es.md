@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Pop! Vinilo: Stranger Things: Steve w/Hat and Ice Cream'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N5XG38M/?tag=tolees-21'
 descuento: '33.73'
 average: '9.796666666666667'

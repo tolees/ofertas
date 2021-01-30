@@ -16,6 +16,7 @@ comparePrice: 23.5 EUR
 prodname: 'Flexi New Comfort - Cinta   Gris  Talla S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01H3K2KCA/?tag=tolees-21'
 descuento: '47.96'
 average: '12.23'

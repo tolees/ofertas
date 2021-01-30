@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Tommy Hilfiger Indigo Regular LS Polo  Azul  Maritime Blue Heather 430   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JYFY3Q2/?tag=tolees-21'
 descuento: '57.39'
 average: '37.370000000000005'

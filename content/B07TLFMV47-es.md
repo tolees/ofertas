@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'Levi s Housemark  Multicolor  Hm Patch Polo Dress Blues/White/Cre 0114   X-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TLFMV47/?tag=tolees-21'
 descuento: '63.32'
 average: '26.224999999999998'

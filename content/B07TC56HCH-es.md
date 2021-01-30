@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'BRIKSMAX Kit de Iluminación Led para Lego Super Heroes Duelo en el Sancta Sanctorum  Compatible con Ladrillos de Construcción Lego Modelo 76108  Juego de Legos no Incluido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TC56HCH/?tag=tolees-21'
 descuento: '71.01'
 average: '28.99'

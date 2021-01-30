@@ -16,6 +16,7 @@ comparePrice: 47.95 EUR
 prodname: 'Solgar Male Múltiple  Multinutriente para el Hombre  Con Vitaminas  Minerales y Licopeno  Apto para Veganos  120 Comprimidos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0014GX2AY/?tag=tolees-21'
 descuento: '30.18'
 average: '31.58'

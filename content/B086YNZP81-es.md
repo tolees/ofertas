@@ -16,6 +16,7 @@ comparePrice: 29.62 EUR
 prodname: 'Mono de bebé Promini para bebé – My First Eid Muslim Festival Celebration – Body de bebé de una sola pieza  el mejor regalo para bebé'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086YNZP81/?tag=tolees-21'
 descuento: '53.88'
 average: '13.66'

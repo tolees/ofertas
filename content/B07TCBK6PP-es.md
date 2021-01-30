@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'The North Face M Merak Forro Polar  Hombre  TNF Black/TNF b  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TCBK6PP/?tag=tolees-21'
 descuento: '34.05'
 average: '65.95'

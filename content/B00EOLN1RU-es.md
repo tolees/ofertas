@@ -16,6 +16,7 @@ comparePrice: 146.58 EUR
 prodname: 'Makita RP0900J router eléctrico - Power routers'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00EOLN1RU/?tag=tolees-21'
 descuento: '25.01'
 average: '87.91499999999999'

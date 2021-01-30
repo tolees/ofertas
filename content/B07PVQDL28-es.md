@@ -16,6 +16,7 @@ comparePrice: 23.0 EUR
 prodname: 'Under Armour Men‘s Baseball Cap UA Blitzing 3.0 Visera Transpirable  cómoda Gorra Deportiva para Hombre con Banda de transpiración  Gris  M/L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PVQDL28/?tag=tolees-21'
 descuento: '47.87'
 average: '11.49'

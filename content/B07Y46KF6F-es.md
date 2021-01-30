@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'ZIGLINT Z6 sin Cable  Aspirador 2 en 1 con una Potencia de succión de 10.000 Pa para Esquina/Suelo Duro/Auto/moqueta  con Soporte de Pared  Caja de Polvo Grande  120W/22.2v  Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y46KF6F/?tag=tolees-21'
 descuento: '40.00'
 average: '119.99'

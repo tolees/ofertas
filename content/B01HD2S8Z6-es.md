@@ -16,6 +16,7 @@ comparePrice: 129.95 EUR
 prodname: 'Salomon XA Pro 3D W Zapatillas de trail running Mujer  Negro  Black/Magnet/Fair Aqua   37 1/3 EU  4.5 UK '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HD2S8Z6/?tag=tolees-21'
 descuento: '29.21'
 average: '91.99'

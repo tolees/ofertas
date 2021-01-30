@@ -16,6 +16,7 @@ comparePrice: 36.99 EUR
 prodname: '8GB Bluetooth 4.1 MP4 Reproductor con Pantalla TFT de 1.8 Pulgadas  Reproductor de música Deportivo con Panel táctil Radio FM Grabador de Voz  Auriculares Altavoz Soporta Tarjetas SD de hasta 32GB'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WTV3T22/?tag=tolees-21'
 descuento: '29.74'
 average: '25.99'

@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Moulinex Vitapress PC603D Exprimidor 100W de potencia con vertido directamente en el vaso  3 conos para limones  naranjas  pomelos y tope antigoteo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01KZUJ0DW/?tag=tolees-21'
 descuento: '31.67'
 average: '40.99333333333334'

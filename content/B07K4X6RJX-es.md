@@ -16,6 +16,7 @@ comparePrice: 200.0 EUR
 prodname: 'Conjunto de luces Lightailing para  Creator El Puente De Londres  Modelo de Construcción de Bloques - Luz Intermitente - Kit de luz LED compatible con Lego 10214  NO incluido en el modelo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K4X6RJX/?tag=tolees-21'
 descuento: '50.01'
 average: '99.99'

@@ -16,6 +16,7 @@ comparePrice: 169.95 EUR
 prodname: 'Fitbit Charge 3 Pulsera Avanzada de Salud y Actividad física  Unisex-Adult  Grafito/Blanco  Talla Unico'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G1NQ8RD/?tag=tolees-21'
 descuento: '35.30'
 average: '112.78714285714287'

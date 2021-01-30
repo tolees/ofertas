@@ -16,6 +16,7 @@ comparePrice: 154.9 EUR
 prodname: 'Tommy Hilfiger - Th Modern Satchel  Bolsos maletín Mujer  Azul  Sky Captain   1x1x1 cm  W x H L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V2MSKR7/?tag=tolees-21'
 descuento: '68.20'
 average: '49.26'

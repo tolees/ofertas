@@ -16,6 +16,7 @@ comparePrice: 159.95 EUR
 prodname: 'Salomon XA Pro 3D GTX W  Zapatillas de Trail Running para Mujer  Turquesa  Lead/Stormy Weather/Meadowbrook   43 1/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KQG44R9/?tag=tolees-21'
 descuento: '26.24'
 average: '117.98'

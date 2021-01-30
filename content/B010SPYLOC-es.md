@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Elizabeth Arden Always Red - Agua de toilette  50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B010SPYLOC/?tag=tolees-21'
 descuento: '46.67'
 average: '32.0'

@@ -16,6 +16,7 @@ comparePrice: 51.59 EUR
 prodname: 'househome Piscina Inflable para Niños Bebé Casa De Adultos Piscina De Remo Gruesa Piscina Inflable Resistente Al Desgaste'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087FTPM8L/?tag=tolees-21'
 descuento: '41.67'
 average: '30.09'

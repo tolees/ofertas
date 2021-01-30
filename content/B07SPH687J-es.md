@@ -16,6 +16,7 @@ comparePrice: 109.0 EUR
 prodname: 'Lacoste Carnaby EVO 120 7 US SMA  Zapatillas para Hombre  Blanc Wht Grn 082  47 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SPH687J/?tag=tolees-21'
 descuento: '45.57'
 average: '59.33'

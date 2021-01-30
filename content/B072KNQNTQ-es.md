@@ -16,6 +16,7 @@ comparePrice: 25.79 EUR
 prodname: 'Speed Magic Cube MF8 2 x 3 x 4 Cube Professional Magic Cube | dingze'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072KNQNTQ/?tag=tolees-21'
 descuento: '35.25'
 average: '16.7'

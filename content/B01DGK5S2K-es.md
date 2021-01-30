@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'E-Vitta PCS71103EVLB000302 - Maletín para Ordenador portátil de hasta 16"  Color Morado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01DGK5S2K/?tag=tolees-21'
 descuento: '50.17'
 average: '7.47'

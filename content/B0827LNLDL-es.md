@@ -16,6 +16,7 @@ comparePrice: 4.74 EUR
 prodname: 'LoveOlvido HW-546 ESP8266 Placa de Desarrollo Witty Cloud ESP-12F - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0827LNLDL/?tag=tolees-21'
 descuento: '32.07'
 average: '3.22'

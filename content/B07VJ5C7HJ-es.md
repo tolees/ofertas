@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Real Madrid CF- Estuche  Multicolor  SAFTA 811954635 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VJ5C7HJ/?tag=tolees-21'
 descuento: '50.35'
 average: '6.45'

@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Under Armour UA Qualifier Half Zip Parte Superior del Calentamiento  Mujer  Negro  Black/Black/Reflective 001   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CZJKH71/?tag=tolees-21'
 descuento: '65.72'
 average: '23.407500000000002'

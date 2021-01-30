@@ -16,6 +16,7 @@ comparePrice: 63.02 EUR
 prodname: 'ASICS Gel-Game 7 Clay/OC  Zapatillas de Tenis para Mujer  Rosa  Papaya/Silver 704   37 1/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KJ3NGJ1/?tag=tolees-21'
 descuento: '48.51'
 average: '32.45'

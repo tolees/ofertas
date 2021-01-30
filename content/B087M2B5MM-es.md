@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Bichiro Dispensador de jabón automático 450 ml dispensadores de jabón de Espuma infrarroja sin Contacto de  Botellas de Bomba  dispensador de jabón Ajustable para baño  Cocina  Oficina'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087M2B5MM/?tag=tolees-21'
 descuento: '42.32'
 average: '14.99'

@@ -16,6 +16,7 @@ comparePrice: 84.95 EUR
 prodname: 'Skechers Women s Sure Track Erath - Ii Lace-up Sneakers  White  White Leather Wht   8 UK  41 EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0794QQ1GZ/?tag=tolees-21'
 descuento: '31.75'
 average: '57.98'

@@ -16,6 +16,7 @@ comparePrice: 54.99 EUR
 prodname: 'MotoGP19 - Deluxe Edition'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZJSCWWB/?tag=tolees-21'
 descuento: '54.72'
 average: '33.25'

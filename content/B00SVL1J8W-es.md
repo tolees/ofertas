@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Casio Reloj Analogico para Hombre de Cuarzo con Correa en Resina MCW-100H-1AVEF'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00SVL1J8W/?tag=tolees-21'
 descuento: '38.23'
 average: '40.512857142857136'

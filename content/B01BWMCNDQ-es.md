@@ -16,6 +16,7 @@ comparePrice: 21.0 EUR
 prodname: 'Llave USB 16 GB Kylo Ren - Memoria Flash Drive 2.0 Original Star Wars  Tribe FD030503'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BWMCNDQ/?tag=tolees-21'
 descuento: '27.48'
 average: '15.23'

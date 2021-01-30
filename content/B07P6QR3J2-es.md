@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Castañer CHIARITA/8/001  Alpargatas para Mujer  Negro  Negro 100   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P6QR3J2/?tag=tolees-21'
 descuento: '54.82'
 average: '45.18'

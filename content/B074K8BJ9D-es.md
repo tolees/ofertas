@@ -16,6 +16,7 @@ comparePrice: 46.99 EUR
 prodname: 'Taurus Mytoast Duplo-Tostadora  1450 W  Tres Funciones  Iluminación LED  0 Decibeles  2 Ranuras Extra Largas  Plástico  Color Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074K8BJ9D/?tag=tolees-21'
 descuento: '36.18'
 average: '31.779999999999998'

@@ -16,6 +16,7 @@ comparePrice: 68.62 EUR
 prodname: 'Kit de Destornilladores Uktunu 110 en 1 Juego Destornilladores Precisión Mini Profesionales Conductor Herramientas con la Extensión Reparación para iphone Teléfono Móviles Electronica DIY'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F64CTCC/?tag=tolees-21'
 descuento: '73.78'
 average: '17.99'

@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'adidas Cloudfoam Ultimate  Zapatillas para Hombre  Negro  Core Black/Core Black/Utility Black 0   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0716YMYY4/?tag=tolees-21'
 descuento: '50.85'
 average: '43.41'

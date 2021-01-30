@@ -16,6 +16,7 @@ comparePrice: 159.0 EUR
 prodname: 'Braun Hogar Multi Quick 7 Batidora de Mano  1000 W  plástico  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YNBNB9C/?tag=tolees-21'
 descuento: '31.45'
 average: '125.66666666666667'

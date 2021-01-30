@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Nike Court Royale  Zapatillas para Mujer  Negro  Black/White 010   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00PZB1IAK/?tag=tolees-21'
 descuento: '29.11'
 average: '38.99'

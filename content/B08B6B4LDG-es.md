@@ -16,6 +16,7 @@ comparePrice: 14.06 EUR
 prodname: 'Uso duradero 100 mm Disco de pulido de diamante de 4 pulgadas Disco de copa de concreto Herramienta de piedra de mampostería de concreto Forma de tazón Piedra de pulir verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08B6B4LDG/?tag=tolees-21'
 descuento: '33.50'
 average: '9.35'

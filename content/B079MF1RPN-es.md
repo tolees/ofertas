@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'QH-Shop Mosquitera Puertas  Mosquitera Magnética Automático para Puertas Cortina de Sala de Estar la Puerta del Balcón Puerta Corredera de Patio 90 x 210cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079MF1RPN/?tag=tolees-21'
 descuento: '63.14'
 average: '10.798'

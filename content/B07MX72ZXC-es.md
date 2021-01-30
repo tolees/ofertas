@@ -16,6 +16,7 @@ comparePrice: 200.0 EUR
 prodname: 'Conjunto de luces Lightailing para  Star Wars Destructor Estelar  Modelo de Construcción de Bloques - Kit de luz LED compatible con Lego 10221 NO incluido en el modelo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MX72ZXC/?tag=tolees-21'
 descuento: '62.51'
 average: '74.99'

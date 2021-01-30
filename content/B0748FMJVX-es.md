@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Emma & Giovanni - Pullover- Mujer  S/M  Burdeos '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0748FMJVX/?tag=tolees-21'
 descuento: '28.40'
 average: '16.2'

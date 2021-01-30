@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'PUMA Active Woven Shorts Pants  Mujer  Puma Black  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DFQGQPG/?tag=tolees-21'
 descuento: '39.92'
 average: '14.99'

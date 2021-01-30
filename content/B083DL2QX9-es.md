@@ -16,6 +16,7 @@ comparePrice: 139.99 EUR
 prodname: 'Ato Bea Pistola Masaje Muscular  Pistola de Masaje Massage Gun Pantalla táctil de 20 Velocidades Djustable con 6 Mensajes en la Pantalla LED para músculos  Cuello  Espalda  Pierna  Hombro  Mano'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083DL2QX9/?tag=tolees-21'
 descuento: '31.43'
 average: '98.65666666666667'

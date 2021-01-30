@@ -16,6 +16,7 @@ comparePrice: 479.66 EUR
 prodname: 'DlandHome Banco Pesas Multifunción  Banca de Peso Ajustable Fitness Doméstico para Casa  Banco Regulable de Entrenamiento Plano/Declinado/Inclinado/Sit Up/Abdominales  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QZ2BN5B/?tag=tolees-21'
 descuento: '76.10'
 average: '114.66'

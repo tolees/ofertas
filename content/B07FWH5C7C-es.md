@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'Tatay Baobab - Cesto para la Ropa Sucia con Tapa  40 l  plástico polipropileno  Gris  41 x 33 x 50 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FWH5C7C/?tag=tolees-21'
 descuento: '49.80'
 average: '12.245'

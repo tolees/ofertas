@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'FITUEYES Cristal Soporte de Monitor de Portátil Elevador de Monitor DT103804GC'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KVQF7Q9/?tag=tolees-21'
 descuento: '32.01'
 average: '16.99'

@@ -16,6 +16,7 @@ comparePrice: 19.2 EUR
 prodname: 'find. 70296 vestidos mujer  Multicolor  Black Mix   36  Talla del Fabricante: X-Small '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06X9WB2YR/?tag=tolees-21'
 descuento: '53.12'
 average: '9.0'

@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'Sony MDRXB50APR.CE7 - Auriculares intraurales  Extra Bass  micrófono Integrado   Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B014R2W3MO/?tag=tolees-21'
 descuento: '41.50'
 average: '24.953999999999997'

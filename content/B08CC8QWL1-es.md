@@ -16,6 +16,7 @@ comparePrice: 4.05 EUR
 prodname: 'XINFULUK Portátil Plegable Bolsillo magnético plástico ajedrez ajedrez Entretenimiento para Fiesta - Negro + Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CC8QWL1/?tag=tolees-21'
 descuento: '33.58'
 average: '2.69'

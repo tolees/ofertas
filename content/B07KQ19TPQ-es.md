@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'MeaMae Care esterilizadora caja ultravioleta con cable USB un equipo profesional de desinfección para teléfonos móviles  ropa  cepillos de dientes y otros artículos pequeños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KQ19TPQ/?tag=tolees-21'
 descuento: '50.01'
 average: '49.99'

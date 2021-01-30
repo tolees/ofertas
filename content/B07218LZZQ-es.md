@@ -16,6 +16,7 @@ comparePrice: 16.0 EUR
 prodname: 'COMPRESSPORT Pro Racing Socks v3.0 Trail Calcetines para Correr  Unisex-Adult  Negro/Rojo  T4'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07218LZZQ/?tag=tolees-21'
 descuento: '25.94'
 average: '12.027777777777777'

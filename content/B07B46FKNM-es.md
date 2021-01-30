@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'Bourjois Rouge Edition Velvet Barra de Labios Líquida Tono 27 Café Olé!  - 28 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B46FKNM/?tag=tolees-21'
 descuento: '65.63'
 average: '3.42'

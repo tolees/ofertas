@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'AGPTEK 18Pcs Discos Desmaquillantes Reutilizables con 4 Pcs Bastoncillo de Algodón Reutilizable  Bolsa de Lavado  Aptos para todo Tipo de Pieles'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083BLKKQ6/?tag=tolees-21'
 descuento: '37.52'
 average: '9.99'

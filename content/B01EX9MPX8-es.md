@@ -16,6 +16,7 @@ comparePrice: 19.07 EUR
 prodname: 'LEDKIA LIGHTING Plafón LED Cuadrado 24W Blanco Cálido 2800K - 3200K'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01EX9MPX8/?tag=tolees-21'
 descuento: '27.32'
 average: '13.86'

@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'G-STAR RAW Fascia Polo  Multicolor  Milk/Imperial Blue Stripe 8340   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDL6L3S/?tag=tolees-21'
 descuento: '63.50'
 average: '21.88'

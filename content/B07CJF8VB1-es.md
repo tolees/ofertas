@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'FIAT500 Rodilleras y Coderas FIAT 500 F500-PKL-K Color Negro  Talla L  Deportes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CJF8VB1/?tag=tolees-21'
 descuento: '75.22'
 average: '1.98'

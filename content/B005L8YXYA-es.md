@@ -16,6 +16,7 @@ comparePrice: 47.88 EUR
 prodname: 'Madison U4167-10 - Reloj de Pulsera para Hombre  Verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005L8YXYA/?tag=tolees-21'
 descuento: '68.78'
 average: '14.95'

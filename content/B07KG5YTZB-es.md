@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'AJOXEL Pulverizador Aceite Dispensador de Aceite  Aceitera Spray Oil Sprayer 200 ml Vinagre/Aceite de Oliva con Embudo Acero Inoxidable Botella de Vidrio para Cocinar más Sano  Ensalada Plancha'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KG5YTZB/?tag=tolees-21'
 descuento: '57.71'
 average: '11.49'

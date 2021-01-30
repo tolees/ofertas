@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'PUMA LQDCELL Hydra FM  Zapatillas Deportivas para Interior para Hombre  Gris  Tapioca/Yellow Alert   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SBVSWMW/?tag=tolees-21'
 descuento: '72.36'
 average: '27.63'

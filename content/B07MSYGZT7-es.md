@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Spider-Man: Un Nuevo Universo [DVD]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MSYGZT7/?tag=tolees-21'
 descuento: '47.09'
 average: '8.656666666666666'

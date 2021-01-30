@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'O³ Guante Dentición Bebé Lola Kids + 1 Gasas Bebe Algodon Muselina + 1 Chupete Fruta – 2 Versiones | Guante Mordedor Bebé – Ayuda La Dentición – Protege Las Manos – Mordedor Bebes Frio – Niño'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JW7YF6S/?tag=tolees-21'
 descuento: '35.09'
 average: '12.95'

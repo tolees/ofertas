@@ -16,6 +16,7 @@ comparePrice: 26.0 EUR
 prodname: 'TopHGC Porta medallas Deportivo  Colgador de medallas de Acero Inoxidable Dos Niveles para exhibición de medallas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082HTLLRJ/?tag=tolees-21'
 descuento: '50.04'
 average: '12.99'

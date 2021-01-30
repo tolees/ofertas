@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'SELECTED FEMME Slfanna LS X-mas Knit O-Neck B suéter  Multicolor  Lemon Curry Lemon Curry   42  Talla del Fabricante: Large  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WHR7DCS/?tag=tolees-21'
 descuento: '76.84'
 average: '11.58'

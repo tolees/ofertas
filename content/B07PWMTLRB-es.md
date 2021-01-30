@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'Urbanears Pampas Auricular sobre la oreja - Negro Carbón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PWMTLRB/?tag=tolees-21'
 descuento: '52.00'
 average: '71.99'

@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Dymatize ISO 100 Gourmet Vanilla 2 2kg - Hidrolizado de Proteína de Suero Whey + Aislado en Polvo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N9EYUZ8/?tag=tolees-21'
 descuento: '34.88'
 average: '52.06'

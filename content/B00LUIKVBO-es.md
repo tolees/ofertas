@@ -16,6 +16,7 @@ comparePrice: 94.95 EUR
 prodname: 'adidas Originals Adidas Stan Smith M20324  Zapatillas de Deporte Unisex Adulto  Blanco  Running White Footwear/Running White/Fairway   46 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00LUIKVBO/?tag=tolees-21'
 descuento: '34.35'
 average: '63.39000000000001'

@@ -16,6 +16,7 @@ comparePrice: 189.97 EUR
 prodname: 'Pistola de Masaje Muscular  ANFLAG Premium Masajeador de Músculo Profundo  Massage Gun portátil con 5 Cabezas de Masaje/5 Modos de Masaje/LCD Pantalla/Silencioso para Relajación Recuperación'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089RFG6DQ/?tag=tolees-21'
 descuento: '42.11'
 average: '113.97'

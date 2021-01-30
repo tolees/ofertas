@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'SIKAI Case - Cable Phone  Magnético de Carga Rápido  3A  Cargador Magnético  de Phone para Phone X/ 8/8 Plus/ 7/7 Plus/ 6s/ 6s Plus/ 6/6 Plus/SE/ 5s/ 5c/  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YXW49PF/?tag=tolees-21'
 descuento: '38.49'
 average: '7.99'

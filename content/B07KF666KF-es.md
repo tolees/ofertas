@@ -16,6 +16,7 @@ comparePrice: 55 EUR
 prodname: 'Levi s 501 Short Long Pantalones Cortos  Azul  Blue Clue 0006   W27  Talla del Fabricante: 27  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KF666KF/?tag=tolees-21'
 descuento: '65.18'
 average: '29.05'

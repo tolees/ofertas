@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Brújula de Orientación  la Herramienta Básica para Supervivencia y Navegación durante Acampada  Senderismo  Excursionismo  - Aguja Magnética  con Líquido  Cojinete Azimut  con Graduaciones por Mapa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FQUA5NU/?tag=tolees-21'
 descuento: '43.78'
 average: '5.695'

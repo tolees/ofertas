@@ -16,6 +16,7 @@ comparePrice: 130.0 EUR
 prodname: 'Hackett Aston Martin Racing Yd Str Polo   Blk/Grey 9du   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JBVX7G6/?tag=tolees-21'
 descuento: '56.96'
 average: '55.95'

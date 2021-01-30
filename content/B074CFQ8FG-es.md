@@ -16,6 +16,7 @@ comparePrice: 26.98 EUR
 prodname: 'NOVECASA Pantalones Cortos de Compresión para Hombre con Faja Moldeadora Abdominal Plano Calzoncillos Reductoros Elásticos Shapewear  XL 80-95 kg   Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074CFQ8FG/?tag=tolees-21'
 descuento: '29.73'
 average: '18.96'

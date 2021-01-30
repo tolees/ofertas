@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Bolsa de viaje Pepe Jeans Cranford Marrón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G74X5BX/?tag=tolees-21'
 descuento: '51.24'
 average: '39.0'

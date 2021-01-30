@@ -16,6 +16,7 @@ comparePrice: 5.99 EUR
 prodname: 'Philips HQ110/02 - Spray limpiador para cabezales'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0012YEZKO/?tag=tolees-21'
 descuento: '26.71'
 average: '4.39'

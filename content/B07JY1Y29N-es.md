@@ -16,6 +16,7 @@ comparePrice: 26.0 EUR
 prodname: 'Under Armour Men s Printed Blitzing 3.0 Gorra  Hombre  Gris  M/L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JY1Y29N/?tag=tolees-21'
 descuento: '50.12'
 average: '12.97'

@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Yosoo Health Gear Esponja de Balas Suaves de Cabeza Redonda  Recargable Mega Esponja EVA Balas Suaves de Cabeza Redonda Dardos de Recarga'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CNH4P45/?tag=tolees-21'
 descuento: '54.05'
 average: '4.59'

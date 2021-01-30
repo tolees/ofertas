@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'Amzdeal Alcachofa de Ducha  Cabezal de Ducha con 5 modos  Mano la Cabeza de Ducha de baja presión de 0.03Mpa  Cromo / AZ009R'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PZK8TP3/?tag=tolees-21'
 descuento: '71.67'
 average: '8.3'

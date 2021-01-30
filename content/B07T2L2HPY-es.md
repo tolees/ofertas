@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Skagen Reloj Analógico para Mujer de Cuarzo con Correa en Silicona SKW2808'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T2L2HPY/?tag=tolees-21'
 descuento: '56.57'
 average: '43.0'

@@ -16,6 +16,7 @@ comparePrice: 15.9 EUR
 prodname: 'Batman V Superman - Dawn Of Justice  Blu-Ray 4K Ultra HD+Blu-Ray+Copia Digitale  [Italia] [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01EYSS25S/?tag=tolees-21'
 descuento: '44.21'
 average: '10.995'

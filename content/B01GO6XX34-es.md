@@ -16,6 +16,7 @@ comparePrice: 10.9 EUR
 prodname: 'Energy Tablet Skin Case 7" Neo 3  Funda exclusiva Energy Tablet 7" Neo 3/ 7" Neo 3 Lite '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GO6XX34/?tag=tolees-21'
 descuento: '57.25'
 average: '4.66'

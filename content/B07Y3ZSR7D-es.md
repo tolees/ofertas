@@ -16,6 +16,7 @@ comparePrice: 79.0 EUR
 prodname: 'HUAWEI 4G Mobile WiFi - Mobile WiFi 4G LTE  CAT4  Piunto de acceso  Velocidad de descarga de hasta 150Mbps  Batería recargable de 1500mAh  No se requiere configuración  Wi-Fi portátil para viajes de o'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y3ZSR7D/?tag=tolees-21'
 descuento: '39.25'
 average: '47.99'

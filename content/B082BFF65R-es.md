@@ -16,6 +16,7 @@ comparePrice: 325.0 EUR
 prodname: 'Tom Ford FT0766 03A Black FT0766 Butterfly Sunglasses Lens Category 3 Size 63mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082BFF65R/?tag=tolees-21'
 descuento: '29.54'
 average: '229.0'

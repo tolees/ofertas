@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Funko - Pop! Vinilo Colección Dragonball Z - Figura Goku & Nimbus  7427 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CBME57S/?tag=tolees-21'
 descuento: '37.42'
 average: '10.021666666666667'

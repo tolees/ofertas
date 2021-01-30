@@ -16,6 +16,7 @@ comparePrice: 270.0 EUR
 prodname: 'Versus by Versace Reloj Analogico para Hombre de Cuarzo con Correa en Acero Inoxidable VSP762618'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BBFCQXG/?tag=tolees-21'
 descuento: '30.42'
 average: '194.432'

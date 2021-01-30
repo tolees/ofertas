@@ -16,6 +16,7 @@ comparePrice: 50.93 EUR
 prodname: 'Konesky Fabricante de Fideos de Acero Inoxidable  Máquina Manual de Prensa de Pasta Fresco Espagueti de Pasta Tagliatelle Maker Prensa de Fideos de Cocina Que Hace Herramientas  2 Mold heads '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XJXZCVS/?tag=tolees-21'
 descuento: '76.46'
 average: '11.99'

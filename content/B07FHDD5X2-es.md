@@ -16,6 +16,7 @@ comparePrice: 25 EUR
 prodname: 'Salomon XA Gap Gorra  para Entrenamientos  Protección UV  Unisex  Negro/Negro/Gris  Reflective  Negro  Charcoal   Talla Ajustable L/XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FHDD5X2/?tag=tolees-21'
 descuento: '34.04'
 average: '16.49'

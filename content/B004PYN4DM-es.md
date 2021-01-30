@@ -16,6 +16,7 @@ comparePrice: 28.59 EUR
 prodname: 'Optimum Nutrition Amino Energy  Naranja - 270g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004PYN4DM/?tag=tolees-21'
 descuento: '50.82'
 average: '14.06'

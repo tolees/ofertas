@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Happy Cherry - Sombrero Verano para Niñas Gorra con ala Bucket Estampado Estrella Suave Protección de Sol Infantil Playa - Rosa - 18-24Meses/50cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PDP5FPY/?tag=tolees-21'
 descuento: '35.02'
 average: '12.99'

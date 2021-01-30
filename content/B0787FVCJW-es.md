@@ -16,6 +16,7 @@ comparePrice: 162.99 EUR
 prodname: 'Brother MFCJ895DW - Equipo multifunción de tinta A4 con fax  impresión dúplex y NFC  pantalla táctil de 2.7"  USB 2.0  Wifi  Ethernet  Wifi Direct  memoria de 128 MB  blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0787FVCJW/?tag=tolees-21'
 descuento: '26.99'
 average: '116.66666666666667'

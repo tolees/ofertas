@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'HAMSWAN Espejo de Maquillaje  [Regalos] Espejo de Mesa Tríptico con Aumentos 10X  3X  2X y 1X  Espejo Cosmético Pantalla Táctil en Iluminacíon 21 Led  Carga con USB o Batería  Adjustable 180º'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V4C7MQZ/?tag=tolees-21'
 descuento: '33.34'
 average: '24.99'

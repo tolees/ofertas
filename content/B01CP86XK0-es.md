@@ -16,6 +16,7 @@ comparePrice: 26.4 EUR
 prodname: 'Tirma PT042010 - Ambrosías con Relleno Cubiertas de Chocolate con Leche  1 x 35 Barritas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CP86XK0/?tag=tolees-21'
 descuento: '48.14'
 average: '13.69'

@@ -16,6 +16,7 @@ comparePrice: 44.95 EUR
 prodname: 'PowerBar Protein Plus 52% Chocolate Nut 20x50g - Barras de Proteína con Bajo Contenido de Azúcar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BSPVVDR/?tag=tolees-21'
 descuento: '37.95'
 average: '27.89'

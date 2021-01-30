@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Skechers Paxmen  Zapatillas para Hombre  Verde  Olive Old   45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MW97GVJ/?tag=tolees-21'
 descuento: '55.94'
 average: '30.7'

@@ -16,6 +16,7 @@ comparePrice: 38.1 EUR
 prodname: 'Angel Schlesser - Eau de cologne bergamota 150 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01H5OQQ3S/?tag=tolees-21'
 descuento: '60.76'
 average: '15.95'

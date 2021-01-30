@@ -16,6 +16,7 @@ comparePrice: 52.99 EUR
 prodname: 'Hapilife Grifo Cocina Momomando de Encimera Fregadero Estilo Retro Estético 360 Giratorio Cromado Elegante Inoxidable Anti-ruido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079NYF7FH/?tag=tolees-21'
 descuento: '39.63'
 average: '31.99'

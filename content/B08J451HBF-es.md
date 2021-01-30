@@ -16,6 +16,7 @@ comparePrice: 6.02 EUR
 prodname: 'DEtasyXworld Funda Protectora de Fieltro Suave y Liviana para computadora portátil  Funda Protectora  Funda Protectora Fina  Adecuada para Macbook Air de 13 3 Pulgadas  Gris Claro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08J451HBF/?tag=tolees-21'
 descuento: '33.55'
 average: '4.0'

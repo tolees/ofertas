@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Skechers Solar Fuse Cosmic View  Zapatillas para Mujer  Rosa Claro Malla Rosa Claro Borde Rosa Ltpk  41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VZRWT9H/?tag=tolees-21'
 descuento: '39.36'
 average: '32.11333333333333'

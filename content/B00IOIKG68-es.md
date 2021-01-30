@@ -16,6 +16,7 @@ comparePrice: 13.6 EUR
 prodname: 'Cooler CPU Pure Wing 2 92mm BL045'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00IOIKG68/?tag=tolees-21'
 descuento: '37.57'
 average: '8.49'

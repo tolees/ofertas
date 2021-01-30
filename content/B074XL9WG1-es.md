@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Microsoft Surface ARC Mouse  Bluetooth  Gris Claro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074XL9WG1/?tag=tolees-21'
 descuento: '27.78'
 average: '63.65666666666666'

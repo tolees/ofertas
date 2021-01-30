@@ -16,6 +16,7 @@ comparePrice: 7.59 EUR
 prodname: 'Omino Bianco Detergente Liquido Cuero de Marsella'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LY0ERQ7/?tag=tolees-21'
 descuento: '54.02'
 average: '3.49'

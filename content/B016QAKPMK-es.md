@@ -16,6 +16,7 @@ comparePrice: 12.7 EUR
 prodname: 'adidas Parma 16 SHO Shorts  Hombre  Black/White  XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B016QAKPMK/?tag=tolees-21'
 descuento: '29.53'
 average: '8.95'

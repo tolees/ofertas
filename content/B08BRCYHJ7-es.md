@@ -16,6 +16,7 @@ comparePrice: 21.88 EUR
 prodname: 'Guirnalda de luces LED  3 x 3 m  300 ledes  luz blanca cálida  USB  8 modos  con mando a distancia  temporizador  resistente al agua  IP65  iluminación interior para interiores  exteriores'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BRCYHJ7/?tag=tolees-21'
 descuento: '26.23'
 average: '16.14'

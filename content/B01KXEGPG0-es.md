@@ -16,6 +16,7 @@ comparePrice: 249.0 EUR
 prodname: 'Reloj para mujer Hugo Boss 1502395.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01KXEGPG0/?tag=tolees-21'
 descuento: '39.22'
 average: '169.05249999999998'

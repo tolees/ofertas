@@ -16,6 +16,7 @@ comparePrice: 75.99 EUR
 prodname: 'Dark Souls III - Edición Apocalypse'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B013V2OA7M/?tag=tolees-21'
 descuento: '27.62'
 average: '55.0'

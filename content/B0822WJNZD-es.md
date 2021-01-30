@@ -16,6 +16,7 @@ comparePrice: 41.9 EUR
 prodname: 'CLOEN Set de sartenes de Aluminio Forjado con Revestimiento Antiadherente y Mango Suave de Silicona  Medidas 24-28 cm. Ideal Tortillas. Set SARTENES Carla  by'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0822WJNZD/?tag=tolees-21'
 descuento: '28.64'
 average: '29.9'

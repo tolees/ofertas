@@ -16,6 +16,7 @@ comparePrice: 229 EUR
 prodname: 'Samsung Gear Fit 2 Pro - Pulsera de Fitness de 1.5    4 GB  1 GHz  0.5 GB RAM  Tizen   resistente al agua  color negro- Version española'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0751L7NGY/?tag=tolees-21'
 descuento: '43.23'
 average: '130'

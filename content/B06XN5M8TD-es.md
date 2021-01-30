@@ -16,6 +16,7 @@ comparePrice: 28.0 EUR
 prodname: 'Rollei Camera Cleaning Kit Travel - Kit de Limpieza para cámaras para Viajar  Incl. Air Blower  Lenspen  paños de Microfibra'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XN5M8TD/?tag=tolees-21'
 descuento: '28.61'
 average: '19.99'

@@ -16,6 +16,7 @@ comparePrice: 14.5 EUR
 prodname: 'Bourjois Rouge Fabuleux Barra De Labios  Tono 010 Scarlet it be  Gama rojos  - 23 gr.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H91CGG9/?tag=tolees-21'
 descuento: '53.45'
 average: '6.75'

@@ -16,6 +16,7 @@ comparePrice: 18.49 EUR
 prodname: 'Tucano Smilza Maletines para Portátil 35  6 cm  14"  Bandolera Monótono/Azul - Funda  Bandolera  35  6 cm  14"   Tirante para Hombro  354 g  Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FXX6LKX/?tag=tolees-21'
 descuento: '40.56'
 average: '10.99'

@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'Columbia Nikiski 503  Botas Bajas para Mujer  Negro  Black  Graphite   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JH35HWS/?tag=tolees-21'
 descuento: '79.06'
 average: '25.13'

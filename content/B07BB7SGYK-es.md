@@ -16,6 +16,7 @@ comparePrice: 3.49 EUR
 prodname: 'Vaso Bambu 270 ML | Mickey Mouse - Disney - All Star'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BB7SGYK/?tag=tolees-21'
 descuento: '42.69'
 average: '3.0315384615384615'

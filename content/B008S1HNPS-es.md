@@ -16,6 +16,7 @@ comparePrice: 11.78 EUR
 prodname: 'GELID SOLUTIONS Silent 6 de 3 Pines de 60mm para la Carcasa estándar | Operación silenciosa | Aspas del Ventilador optimizadas.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B008S1HNPS/?tag=tolees-21'
 descuento: '52.80'
 average: '9.476666666666667'

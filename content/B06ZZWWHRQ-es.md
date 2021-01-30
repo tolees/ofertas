@@ -16,6 +16,7 @@ comparePrice: 3.39 EUR
 prodname: 'YAZILIND 18 k chapado en oro mujer joyer¨ªa exquisita elegante rhinestone colgante pendiente cuelgan aretes  rosa '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06ZZWWHRQ/?tag=tolees-21'
 descuento: '68.14'
 average: '1.08'

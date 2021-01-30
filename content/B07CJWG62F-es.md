@@ -16,6 +16,7 @@ comparePrice: 44.95 EUR
 prodname: 'Triumph Amourette 300 W X Sujetador con Aros  Negro  Black 0004   90C  Talla del Fabricante: 75C  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CJWG62F/?tag=tolees-21'
 descuento: '50.50'
 average: '22.25'

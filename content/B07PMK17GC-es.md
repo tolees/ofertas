@@ -16,6 +16,7 @@ comparePrice: 30.99 EUR
 prodname: 'TOPsic Correa Gear Fit 2 Pro/Fit 2 Correa  Reemplazo de Banda de Silicona Suave Deportiva Pulsera de Repuesto para Samsung Gear Fit 2 Pro SM-R365 and Gear Fit 2 SM-R360 Banda'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PMK17GC/?tag=tolees-21'
 descuento: '35.50'
 average: '19.99'

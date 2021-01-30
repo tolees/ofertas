@@ -16,6 +16,7 @@ comparePrice: 115 EUR
 prodname: 'New Balance W1400V6  Zapatillas de Running para Mujer  Negro Black/Pink  36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077SCQJXH/?tag=tolees-21'
 descuento: '71.70'
 average: '32.54'

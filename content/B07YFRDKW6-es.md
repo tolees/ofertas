@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'MARTISAN Soporte de guitarra Universal Plegable para Guitarra Eléctrica Guitarras Acustica Electrica Bajo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YFRDKW6/?tag=tolees-21'
 descuento: '55.01'
 average: '17.99'

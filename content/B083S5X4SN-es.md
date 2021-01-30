@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'totobay Reloj Inteligente Hombre Mujer  Smartwatch Deportivos Reloj Bluetooth con  Monitor de Ritmo Cardíaco/Sueño/Calorías  Reloj de Fitness con Notificación de llamadas Mensaje Podómetro Cronómetro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083S5X4SN/?tag=tolees-21'
 descuento: '37.50'
 average: '49.99'

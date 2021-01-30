@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Amtier Pulsera de Cuero Brazalete Ajustable con Acero Inoxidable Push-Pull Cierre para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B625HNZ/?tag=tolees-21'
 descuento: '57.15'
 average: '29.99'

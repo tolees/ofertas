@@ -16,6 +16,7 @@ comparePrice: 2.49 EUR
 prodname: 'Rimmel Nail Polish 60 Seconds Flip Flop Fashion 406 Coral Blush Lakier do paznokci 8ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0793NFMM4/?tag=tolees-21'
 descuento: '29.72'
 average: '1.75'

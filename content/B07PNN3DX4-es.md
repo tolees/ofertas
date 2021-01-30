@@ -16,6 +16,7 @@ comparePrice: 57.89 EUR
 prodname: 'BONTEC Smart Plug WiFi Outlet Mini Interruptor de conexión del temporizador de Smart Socket inalámbrico  control remoto  sin necesidad de concentrador 4 paquetes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PNN3DX4/?tag=tolees-21'
 descuento: '25.74'
 average: '42.99'

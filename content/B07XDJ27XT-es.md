@@ -16,6 +16,7 @@ comparePrice: 10.2 EUR
 prodname: 'Creative Kitchen - Bandeja de drenaje de fregadero retráctil Cesta de drenaje Filtro de fregadero de plástico multifunción Cesta de agua - Biege'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XDJ27XT/?tag=tolees-21'
 descuento: '35.00'
 average: '6.63'

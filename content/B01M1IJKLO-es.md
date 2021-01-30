@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Trust GXT 105 - Ratón Gaming con 6 Botones e iluminación LED  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M1IJKLO/?tag=tolees-21'
 descuento: '25.41'
 average: '12.956666666666667'

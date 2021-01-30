@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Pendientes de color Naranja de Calabaza para Su Estilo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076SPRCWL/?tag=tolees-21'
 descuento: '52.02'
 average: '11.99'

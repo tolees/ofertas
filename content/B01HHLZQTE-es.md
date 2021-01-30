@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Crocs Fun Lab Minions Clog  Unisex Niños Zueco  Azul  Ocean   19-20 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HHLZQTE/?tag=tolees-21'
 descuento: '65.85'
 average: '12.106666666666666'

@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Apace Vision Luces de Seguridad LED  Paquete de 2  con Artículos Extra – Acoplable Estroboscópica / Luz para Correr Deporte Perros Bicicletas Andar y Más'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0103PUIPS/?tag=tolees-21'
 descuento: '36.01'
 average: '15.323333333333334'

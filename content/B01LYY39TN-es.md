@@ -16,6 +16,7 @@ comparePrice: 54.99 EUR
 prodname: 'Vaultskin Eton Armour - Funda de cuero para iPhone 6 Plus  negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LYY39TN/?tag=tolees-21'
 descuento: '63.65'
 average: '19.99'

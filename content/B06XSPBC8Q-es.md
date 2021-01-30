@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Arteza Cuadernos de dibujo | Pack de 2 blocs en espiral de doble anilla | 100 hojas cada uno | Papel grueso para bocetos | Tamaño 22 9 x 30 5 cm | Grosor 100 gsm | Sin ácidos | Blanco brillante'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XSPBC8Q/?tag=tolees-21'
 descuento: '26.33'
 average: '16.49'

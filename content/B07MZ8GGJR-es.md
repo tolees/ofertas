@@ -16,6 +16,7 @@ comparePrice: 16.0 EUR
 prodname: 'Head Promotion Cap Gorra  Adultos Unisex  Navy  Talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZ8GGJR/?tag=tolees-21'
 descuento: '30.75'
 average: '11.08'

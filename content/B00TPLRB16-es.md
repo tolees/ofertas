@@ -16,6 +16,7 @@ comparePrice: 10.09 EUR
 prodname: 'Sabrent Funda rígida a prueba de golpes EVA para disco duro externo de 2.5"  EC-CASE '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00TPLRB16/?tag=tolees-21'
 descuento: '30.72'
 average: '6.99'

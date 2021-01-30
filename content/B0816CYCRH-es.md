@@ -16,6 +16,7 @@ comparePrice: 8.03 EUR
 prodname: 'LNIEGE Bolsa de pañales para bebés Multibolsillos  Bolsa de pañales con Asas  Bolsa de Asas Multiusos  Duradera y práctica'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0816CYCRH/?tag=tolees-21'
 descuento: '67.75'
 average: '2.59'

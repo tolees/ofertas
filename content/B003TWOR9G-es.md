@@ -16,6 +16,7 @@ comparePrice: 38.99 EUR
 prodname: 'Bosch Professional - Broca de diamante para perforación en seco Easy Dry Best for Ceramic  6 x 33 mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003TWOR9G/?tag=tolees-21'
 descuento: '33.73'
 average: '25.84'

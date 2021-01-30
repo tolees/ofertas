@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Luces De Jardin Solares Qomolo 30 LED Luz Jardín IP65 Impermeable Exterior Solar Decoración Lámpara Jar Lampara Iluminación Para Terraza  Césped  Patio  Fiesta Camino de Entrada  Escaleras'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VS2G8ZV/?tag=tolees-21'
 descuento: '43.35'
 average: '16.99'

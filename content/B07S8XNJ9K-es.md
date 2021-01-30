@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'GREAT ART Foto Mural New York Skyline al Atardecer Ciudad USA America Poster NYC 210 x 140 cm - Papel Pintado 5 Piezas incluye Pasta para pegar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S8XNJ9K/?tag=tolees-21'
 descuento: '43.88'
 average: '44.9'

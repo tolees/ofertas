@@ -16,6 +16,7 @@ comparePrice: 230.07 EUR
 prodname: 'Makita HP457DWE - Taladro Percutor A Bateria 18V Litio-Ion 1.3 Ah'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00GDFU56A/?tag=tolees-21'
 descuento: '33.72'
 average: '152.5'

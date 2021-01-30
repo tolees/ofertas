@@ -16,6 +16,7 @@ comparePrice: 11.57 EUR
 prodname: 'OROFLUIDO Mask Mascarilla - 250 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004QBRX5Y/?tag=tolees-21'
 descuento: '39.93'
 average: '6.95'

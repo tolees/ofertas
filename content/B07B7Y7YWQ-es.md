@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Trust Gaming GXT 845 Tural - Set de Teclado y ratón Gaming  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B7Y7YWQ/?tag=tolees-21'
 descuento: '27.63'
 average: '24.52333333333333'

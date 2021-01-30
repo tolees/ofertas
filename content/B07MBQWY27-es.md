@@ -16,6 +16,7 @@ comparePrice: 139.0 EUR
 prodname: 'Kickers Mistic  Botas Clasicas para Hombre  Marrón  Camel Perm 114   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MBQWY27/?tag=tolees-21'
 descuento: '66.01'
 average: '47.25'

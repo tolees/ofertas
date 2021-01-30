@@ -16,6 +16,7 @@ comparePrice: 115.9 EUR
 prodname: 'K&N KA-6503 Filtro de Aire Moto'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000E28HZE/?tag=tolees-21'
 descuento: '46.06'
 average: '62.52'

@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Columbia Cascades Explorer Pantalones Convertibles para Hombre Marrón Marfil Talla:34'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01AAJP9GK/?tag=tolees-21'
 descuento: '41.58'
 average: '40.89'

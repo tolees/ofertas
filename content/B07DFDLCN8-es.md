@@ -16,6 +16,7 @@ comparePrice: 6.95 EUR
 prodname: 'Funko Pop! Game of Thrones - Keychain Night King'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DFDLCN8/?tag=tolees-21'
 descuento: '43.60'
 average: '4.04'

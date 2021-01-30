@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Spalding NBA Rookie Gear out 83-419Z Balón de Baloncesto  Unisex niños  5'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06X6GYPJZ/?tag=tolees-21'
 descuento: '28.27'
 average: '18.476666666666667'

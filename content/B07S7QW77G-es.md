@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'PUMA Carina  Zapatillas para Mujer  Negro Black/Rosewater Silver 11  36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S7QW77G/?tag=tolees-21'
 descuento: '43.44'
 average: '34.362500000000004'

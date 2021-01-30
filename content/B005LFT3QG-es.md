@@ -16,6 +16,7 @@ comparePrice: 27.99 EUR
 prodname: 'Tarjeta de memoria SDHC SanDisk Extreme Pro 32GB  UHS-I  95MB/s '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005LFT3QG/?tag=tolees-21'
 descuento: '53.55'
 average: '13.0'

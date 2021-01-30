@@ -16,6 +16,7 @@ comparePrice: 30 EUR
 prodname: 'Termómetro Digital Frente y Oído  4 in 1 Termómetro Infrarrojo Médico Alta Precisión Para Bebe Niños y Adultos Alarma De Fiebre Temperatura Ambiente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DNZCFWT/?tag=tolees-21'
 descuento: '46.83'
 average: '15.95'

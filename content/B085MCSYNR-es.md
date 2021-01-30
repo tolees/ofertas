@@ -16,6 +16,7 @@ comparePrice: 4.48 EUR
 prodname: 'Agger Silicona Biberón Botella de alimentación a Prueba de Polvo de la Botella de alimentación del bebé Botella de alimentación SIDA'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085MCSYNR/?tag=tolees-21'
 descuento: '42.63'
 average: '2.57'

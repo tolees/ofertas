@@ -16,6 +16,7 @@ comparePrice: 11.56 EUR
 prodname: 'Max factor - Lipfinity  bálsamo y brillo de labios  color 130 delicioso  2 ml '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004XG6EX4/?tag=tolees-21'
 descuento: '54.84'
 average: '5.22'

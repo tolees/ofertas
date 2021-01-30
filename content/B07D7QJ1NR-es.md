@@ -16,6 +16,7 @@ comparePrice: 190 EUR
 prodname: 'Ecco Crepetray Hybrid M  Botas Militar para Hombre  Negro  Black 1001   47 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D7QJ1NR/?tag=tolees-21'
 descuento: '65.73'
 average: '65.12'

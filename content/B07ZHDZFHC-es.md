@@ -16,6 +16,7 @@ comparePrice: 159.95 EUR
 prodname: 'IKOHS Panificadora DEPAN 710-IK - Panificadora Automática  750W  LCD  17 Programas Automáticos para Bizcochos  Masas  Mermeladas Yogur  Digital  Incluyen Accesorios  Capacidad de 900 Gramos  Gris '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZHDZFHC/?tag=tolees-21'
 descuento: '25.01'
 average: '119.95'

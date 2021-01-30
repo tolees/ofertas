@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Rune Factory 4 Special'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082PHD5SC/?tag=tolees-21'
 descuento: '33.88'
 average: '33.984'

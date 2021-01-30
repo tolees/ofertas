@@ -16,6 +16,7 @@ comparePrice: 30.99 EUR
 prodname: 'Aigoss Receptor Bluetooth USB Adaptador de Audio Bluetooth con Pantalla de 3 5 mm Jack Casa y Sistema de Audio Estéreo de Coche'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FQ9PSYW/?tag=tolees-21'
 descuento: '64.54'
 average: '10.99'

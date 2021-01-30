@@ -16,6 +16,7 @@ comparePrice: 46.0 EUR
 prodname: 'Biotherm Homme Aquapower 72H Hidratante Glacial Concentré 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00UN5NUS6/?tag=tolees-21'
 descuento: '40.22'
 average: '28.650000000000002'

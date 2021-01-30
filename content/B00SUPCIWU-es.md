@@ -16,6 +16,7 @@ comparePrice: 12.89 EUR
 prodname: 'NUK 10256396 - Juego de higiene dental para bebé  pasta de dientes de manzana y plátano y cepillo de dientes para dedo  sin BPA  una unidad '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00SUPCIWU/?tag=tolees-21'
 descuento: '45.77'
 average: '6.99'

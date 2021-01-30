@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Crosstour Cámara de Coche Dash CAM 1080P Full HD 170°Ángulo Cámara para Coche G-Sensor Detección de Movimiento Grabación en Bucle HDR con Visión Nocturna CR500'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075Q6SJYJ/?tag=tolees-21'
 descuento: '50.01'
 average: '39.99'

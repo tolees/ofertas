@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Olisicht Webcam Full HD 1080P con micrófono Webkamera para PC portátil Live-Streaming conferencias'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0885VJP6P/?tag=tolees-21'
 descuento: '35.01'
 average: '25.99'

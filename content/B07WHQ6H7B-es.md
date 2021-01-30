@@ -16,6 +16,7 @@ comparePrice: 21.13 EUR
 prodname: 'Powcan Alimentador Automático Acuario Multifuncional Comedero Peces Automático con Tiempo de Alimentación'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WHQ6H7B/?tag=tolees-21'
 descuento: '29.06'
 average: '14.99'

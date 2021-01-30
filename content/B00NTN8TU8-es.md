@@ -16,6 +16,7 @@ comparePrice: 280.7 EUR
 prodname: 'Hombre-Reloj diesel MR Daddy 2.0 cronógrafo de Cuarzo con Revestimiento de Acero DZ7333'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NTN8TU8/?tag=tolees-21'
 descuento: '39.20'
 average: '170.66'

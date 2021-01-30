@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Starcraft II Battlechest 2.0'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MXL7RZP/?tag=tolees-21'
 descuento: '63.02'
 average: '14.5425'

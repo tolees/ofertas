@@ -16,6 +16,7 @@ comparePrice: 59.92 EUR
 prodname: 'Corax Games Tudor juego de tablero'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0816QFMN6/?tag=tolees-21'
 descuento: '39.90'
 average: '36.01'

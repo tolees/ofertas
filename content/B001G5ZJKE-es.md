@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'Tuscany Silver Cadena con plata con colgante  con circonita  46 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001G5ZJKE/?tag=tolees-21'
 descuento: '69.66'
 average: '27.0'

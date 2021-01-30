@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Trust – Mini Lector de Tarjetas USB Robson  color blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000RPE5PE/?tag=tolees-21'
 descuento: '30.31'
 average: '9.75'

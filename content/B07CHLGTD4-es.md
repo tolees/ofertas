@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'JACK & JONES Jfwabbott PU  Botas Chelsea para Hombre  Negro  Anthracite Anthracite   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CHLGTD4/?tag=tolees-21'
 descuento: '50.01'
 average: '25.846666666666664'

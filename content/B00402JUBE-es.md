@@ -16,6 +16,7 @@ comparePrice: 114.27 EUR
 prodname: 'Dual DT 210 USB - Tocadiscos para equipo de audio  USB  35/45 rpm   color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00402JUBE/?tag=tolees-21'
 descuento: '27.63'
 average: '112.1025'

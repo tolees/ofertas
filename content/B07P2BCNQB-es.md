@@ -16,6 +16,7 @@ comparePrice: 54.99 EUR
 prodname: 'Superdry Superstate Classic Polo  Blanco  Optic 01c   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P2BCNQB/?tag=tolees-21'
 descuento: '58.90'
 average: '22.6'

@@ -16,6 +16,7 @@ comparePrice: 6.9 EUR
 prodname: 'Fellowes 99106 - Kit limpiador para Smartphone'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00B1RG19A/?tag=tolees-21'
 descuento: '27.68'
 average: '4.99'

@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Foundation Color Changing Make Up Corrector 30ml & SIGHTLING Brocha de Maquillaje Kabuki Cepillo de Maquillaje'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VC3J7ZN/?tag=tolees-21'
 descuento: '38.91'
 average: '11.212222222222222'

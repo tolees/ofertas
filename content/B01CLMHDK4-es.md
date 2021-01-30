@@ -16,6 +16,7 @@ comparePrice: 11.95 EUR
 prodname: 'Bourjois City Radiance Base de Maquillaje Tono 03 Light Beige  - 51 gr.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CLMHDK4/?tag=tolees-21'
 descuento: '43.10'
 average: '6.8'

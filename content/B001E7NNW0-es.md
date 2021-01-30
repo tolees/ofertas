@@ -16,6 +16,7 @@ comparePrice: 58.91 EUR
 prodname: 'Bausch & Lomb - Soflens Daily Esféricas - Lentes de Contacto'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001E7NNW0/?tag=tolees-21'
 descuento: '52.49'
 average: '27.99'

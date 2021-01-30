@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Sennheiser 0CX 686i Sports - Auriculares in-ear'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00TKH1AJ4/?tag=tolees-21'
 descuento: '70.76'
 average: '27.686666666666667'

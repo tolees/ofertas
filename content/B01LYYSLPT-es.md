@@ -16,6 +16,7 @@ comparePrice: 27.99 EUR
 prodname: 'Smilodox Shorts  Pantalones Cortos para Hombre  multicolor  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LYYSLPT/?tag=tolees-21'
 descuento: '64.31'
 average: '9.99'

@@ -16,6 +16,7 @@ comparePrice: 79.9 EUR
 prodname: 'Tommy Hilfiger Seasonal Textile Sneaker  Zapatillas para Hombre  Blanco  White Ybs   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V4N5NZB/?tag=tolees-21'
 descuento: '51.19'
 average: '39.0'

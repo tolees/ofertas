@@ -16,6 +16,7 @@ comparePrice: 60.91 EUR
 prodname: 'Trípode para altavoces de poliamida con bolsa de transporte'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00EQ45Y1G/?tag=tolees-21'
 descuento: '37.58'
 average: '38.02'

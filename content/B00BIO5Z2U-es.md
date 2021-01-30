@@ -16,6 +16,7 @@ comparePrice: 159.0 EUR
 prodname: 'Daniel Wellington Reloj con Correa de Acero para Hombre 0202DW'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BIO5Z2U/?tag=tolees-21'
 descuento: '53.73'
 average: '73.57'

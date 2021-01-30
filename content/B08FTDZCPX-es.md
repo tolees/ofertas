@@ -16,6 +16,7 @@ comparePrice: 2.89 EUR
 prodname: 'Huoyin Pulsera Dispensadora De Líquido  Pulsera Pulsera Dispensador De Silicona para Niños Adultos Al Aire Libre Mano Diaria'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08FTDZCPX/?tag=tolees-21'
 descuento: '31.14'
 average: '1.99'

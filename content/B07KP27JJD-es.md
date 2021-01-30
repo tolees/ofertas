@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'SALOMON Compression 1 Par de Calcetines compresión  Unisex Adulto  Azul/Negro  Nautical Blue/Black   L  42-44 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KP27JJD/?tag=tolees-21'
 descuento: '50.44'
 average: '12.39'

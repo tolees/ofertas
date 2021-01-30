@@ -16,6 +16,7 @@ comparePrice: 999 EUR
 prodname: 'Bugaboo Cameleon 3 Plus  Cochecito y Silla de Paseo 2 en 1  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R3CG7NV/?tag=tolees-21'
 descuento: '26.64'
 average: '733.6500000000001'

@@ -16,6 +16,7 @@ comparePrice: 6.9 EUR
 prodname: 'Grifo de Filtro de Salpicaduras Universal  Boquilla de Pulverización de Grifo de Salida de Agua Giratoria de 720 °  Cabezal de Grifo de Burbuja de Cocina con Filtro de Red de 4 Capas  1 piezas '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08JHNG6KR/?tag=tolees-21'
 descuento: '27.68'
 average: '4.99'

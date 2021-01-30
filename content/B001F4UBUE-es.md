@@ -16,6 +16,7 @@ comparePrice: 349.8 EUR
 prodname: 'HP CE251A - Cartucho de tóner'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001F4UBUE/?tag=tolees-21'
 descuento: '62.89'
 average: '159.91'

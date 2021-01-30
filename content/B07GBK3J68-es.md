@@ -16,6 +16,7 @@ comparePrice: 48.61 EUR
 prodname: 'Levi s 502 True Chino Short Pantalones Cortos  Azul  Nightwatch Blue Soft Wash Twill Ccu B 0019   Talla única  Talla del Fabricante: 30  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GBK3J68/?tag=tolees-21'
 descuento: '49.60'
 average: '24.5'

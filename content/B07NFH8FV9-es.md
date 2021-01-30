@@ -16,6 +16,7 @@ comparePrice: 56.08 EUR
 prodname: 'Casio Reloj Analógico para Unisex Adultos de Cuarzo con Correa en Acero Inoxidable MQ-24M-1EEF'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NFH8FV9/?tag=tolees-21'
 descuento: '37.77'
 average: '33.032000000000004'

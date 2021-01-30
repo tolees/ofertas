@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'Pack 2x Tubo LED 120 cm  18w. Color Blanco Frio  6500K . Standard T8 G13. 1800 lumenes reales. Cebador LED incluido.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q76J2WK/?tag=tolees-21'
 descuento: '25.06'
 average: '14.95'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Cepillo Secador 1200W  Abody 4 en 1 Cepillo Secador de Pelo de Iones Negativos con 3 Velocidades  Revestimiento Cerámico  Mango Ergonómico  2 pinzas '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VZD2V96/?tag=tolees-21'
 descuento: '30.01'
 average: '27.99'

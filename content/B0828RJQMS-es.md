@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Adaptador WiFi de Largo Alcance USB 17500Mbps  Dongle inalámbrica Banda Dual 5GHz/1300 Mbps+ 2 4GHz/ 450 Mbps   2 Antenas WiFi de 5dBi  USB 3.0  para PC Soporta Windows 10/8/7/XP  Mac OS 10.6-10.13'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0828RJQMS/?tag=tolees-21'
 descuento: '33.34'
 average: '39.99'

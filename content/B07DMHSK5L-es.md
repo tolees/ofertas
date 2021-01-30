@@ -16,6 +16,7 @@ comparePrice: 6.99 EUR
 prodname: 'Philips Avent SCF043/27-2 - Tetinas natural flujo medio  3m+  con 2 agujeros'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DMHSK5L/?tag=tolees-21'
 descuento: '40.06'
 average: '4.8375'

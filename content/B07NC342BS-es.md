@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'camel active Houston 488385/2511 Pantalones  Beige  Beige 23   W35/L34  Talla del Fabricante: 35/34  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NC342BS/?tag=tolees-21'
 descuento: '61.46'
 average: '30.81'

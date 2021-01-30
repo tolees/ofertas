@@ -16,6 +16,7 @@ comparePrice: 23.29 EUR
 prodname: 'Minnie Mouse- Centro Comercial con luz y Sonidos  40 x 29 cm  Propio 182554 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XHZ54F7/?tag=tolees-21'
 descuento: '31.34'
 average: '20.837999999999997'

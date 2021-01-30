@@ -16,6 +16,7 @@ comparePrice: 8.69 EUR
 prodname: 'Gel Pad Juanete manga  corrector de juanetes pantalla para juanetes almohadillas  juanete alivio  Hallux Valgus  Toe Straighteners'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01I54K3AO/?tag=tolees-21'
 descuento: '43.73'
 average: '4.89'

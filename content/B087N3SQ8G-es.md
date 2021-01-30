@@ -16,6 +16,7 @@ comparePrice: 9.81 EUR
 prodname: 'Dasket Ingenieros de Metal ángulo Recto 90 Try Escuadra Grados 30 cm / 12 Herramienta de medición'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087N3SQ8G/?tag=tolees-21'
 descuento: '63.71'
 average: '3.56'

@@ -16,6 +16,7 @@ comparePrice: 95.65 EUR
 prodname: 'XX-JX  FW-150W'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YCC7GVK/?tag=tolees-21'
 descuento: '72.87'
 average: '25.95'

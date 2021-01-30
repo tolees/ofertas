@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Auriculares Bluetooth 5.0 Inalámbricos TWS i11 Touch Control y Pop-Up Conexión Emergente Sonido Estéreo 3D con IPX7 Waterproof Emparejamiento Automático para Juegos Trabajo y Deportes Viaje'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08F2JVFS3/?tag=tolees-21'
 descuento: '63.12'
 average: '31.744999999999997'

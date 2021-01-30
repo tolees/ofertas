@@ -16,6 +16,7 @@ comparePrice: 12.95 EUR
 prodname: 'La Vecina Rubia Funda Smartphone - Plateada y Compatible con Apple iPhone 7/8'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082VRSLMC/?tag=tolees-21'
 descuento: '30.12'
 average: '9.05'

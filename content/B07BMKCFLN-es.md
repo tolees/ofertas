@@ -16,6 +16,7 @@ comparePrice: 39.6 EUR
 prodname: 'Arcos 233554 Cuchillo Santoku Riviera Rose  Metal  Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BMKCFLN/?tag=tolees-21'
 descuento: '29.92'
 average: '27.75'

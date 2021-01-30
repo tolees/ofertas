@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'UniqueMe Funda para Huawei Mate 20 Pro  Ultra [Slim Thin] TPU Funda Protectora TPU de Silicona Suave para Mate 20 Pro - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KJ2LD14/?tag=tolees-21'
 descuento: '85.78'
 average: '1.99'

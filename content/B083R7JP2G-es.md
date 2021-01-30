@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Ganchos Adhesivos  Wodgreat 18 Piezas Toallero Perchero Pared de Cocina Baño  Autoadhesivo Perchero de Acero Inoxidable Gancho Autoadhesivo Perchero Paños  Colgar Prendas  Toallas del Baño Max 5KG'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083R7JP2G/?tag=tolees-21'
 descuento: '47.85'
 average: '11.99'

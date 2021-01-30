@@ -16,6 +16,7 @@ comparePrice: 22.95 EUR
 prodname: 'Original Buff 115177  Gorro Unisex Adulto  Multicolor  Talla Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N6WQPY1/?tag=tolees-21'
 descuento: '43.18'
 average: '13.04'

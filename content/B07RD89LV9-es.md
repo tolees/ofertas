@@ -16,6 +16,7 @@ comparePrice: 54.9 EUR
 prodname: 'Tommy Hilfiger Graphic F/b Polo S/s  Blanco  White Yaf   104/110  Talla del Fabricante: 104  para Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RD89LV9/?tag=tolees-21'
 descuento: '54.55'
 average: '24.95'

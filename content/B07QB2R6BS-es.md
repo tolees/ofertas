@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'Lámparas de Mesa Lampop LED Luz Mesita de Noche Lámpara Mesita de Noche Para Dormitorio  Estudio  Salon  Habitación de Bebé'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QB2R6BS/?tag=tolees-21'
 descuento: '31.08'
 average: '19.98'

@@ -16,6 +16,7 @@ comparePrice: 19.72 EUR
 prodname: 'SYOSS  Coloración permanente - 6 unidades Sin Amoníaco  Tono 6.10 Rubio Oscuro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HHHLJ4R/?tag=tolees-21'
 descuento: '28.25'
 average: '14.276666666666667'

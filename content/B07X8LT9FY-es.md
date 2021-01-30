@@ -16,6 +16,7 @@ comparePrice: 33.99 EUR
 prodname: '3 Velas LED sin Llama Kambo 4‘’5”6” Cera Real 18 Teclas RGB Coloridas para Bodas Cafeterías Bares Luces de Banquete Bodas Cumpleaños Festivales Halloween Hogar Cena Fiesta Decoración Paquete'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X8LT9FY/?tag=tolees-21'
 descuento: '41.19'
 average: '21.74'

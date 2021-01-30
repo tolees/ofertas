@@ -16,6 +16,7 @@ comparePrice: 9.27 EUR
 prodname: 'ADWITS DisplayPort 1.2 DP a Adaptador de Cable VGA  convertidor 1080P FHD para PC  computadora portátil  computadora de Escritorio  portátil u Otros Dispositivos equipados con DP  Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D4CNZ6C/?tag=tolees-21'
 descuento: '33.87'
 average: '6.13'

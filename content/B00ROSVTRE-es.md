@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Philips NT5180/15 - Recortador de vello  nariz y orejas  resistente al agua  negro y azul oscuro  battery-powered'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ROSVTRE/?tag=tolees-21'
 descuento: '29.75'
 average: '17.461666666666666'

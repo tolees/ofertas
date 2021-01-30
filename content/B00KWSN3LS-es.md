@@ -16,6 +16,7 @@ comparePrice: 87.97 EUR
 prodname: 'iWork VS043P-R - Juego de 43 herramientas en bolsa profesional  48 x 24.5 x 26.5 cm  color rojo - Special Price'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KWSN3LS/?tag=tolees-21'
 descuento: '40.00'
 average: '51.14'

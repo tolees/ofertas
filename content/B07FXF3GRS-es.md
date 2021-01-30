@@ -16,6 +16,7 @@ comparePrice: 42.99 EUR
 prodname: 'COSORI Hervidor de Agua Eléctrico de Acero Inoxidable  Capacidad 1 7 Litros  Calentador de Agua de Ahorrar Energía  Libre de BPA  Apagado Automático y Protección de Ebullición en Seco  Negro Elegante'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FXF3GRS/?tag=tolees-21'
 descuento: '53.50'
 average: '19.99'

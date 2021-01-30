@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'AngLink Encendedor Electrico  USB Encendedor Recargable con Cuello Largo Flexible 360 °e Indicación de Batería  ARC Encendedor Antiviento para Cocina Cigarrillos Velas Papel sin Llama ni Olor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JQHJPKZ/?tag=tolees-21'
 descuento: '60.02'
 average: '11.99'

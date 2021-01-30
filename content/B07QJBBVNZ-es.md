@@ -16,6 +16,7 @@ comparePrice: 564 EUR
 prodname: 'ROYAL SLEEP Canapé Abatible  105x190  de Gran Capacidad  Tapa 3D Transpirable  Color Natural'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QJBBVNZ/?tag=tolees-21'
 descuento: '50.36'
 average: '279.99'

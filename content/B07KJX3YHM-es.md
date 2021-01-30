@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'Columbia Fire Venture L Mid II WP  Botas de Senderismo para Mujer  Negro  Black  Daredevi 010   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KJX3YHM/?tag=tolees-21'
 descuento: '74.09'
 average: '28.314999999999998'

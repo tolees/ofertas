@@ -16,6 +16,7 @@ comparePrice: 11.81 EUR
 prodname: 'True Instinct Original Pienso para Perros Medium Adult con Pollo - 2000 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FFU0VBW/?tag=tolees-21'
 descuento: '27.69'
 average: '11.04'

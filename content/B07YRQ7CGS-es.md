@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Yoozon Mini Palo Selfie  Bluetooth Selfie Stick Giratorio para Selfies y Videos  Extensible Monopié con Control Remoto Bluetooth  Ajustable para Smartphone como iPhone  Samsung  Huawei  Xiaomi etc.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YRQ7CGS/?tag=tolees-21'
 descuento: '30.03'
 average: '6.99'

@@ -16,6 +16,7 @@ comparePrice: 289.0 EUR
 prodname: 'Sangean WFR-29C - Radiodespertador  negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00MQ6FPGU/?tag=tolees-21'
 descuento: '30.80'
 average: '199.99'

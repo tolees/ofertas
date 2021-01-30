@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Under Armour Undeniable Duffel 4.0 LG Bolsa De Deportes  Bolsa De Entrenamiento Unisex Azul OSFA'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J31WCRC/?tag=tolees-21'
 descuento: '49.62'
 average: '26.89'

@@ -16,6 +16,7 @@ comparePrice: 69.9 EUR
 prodname: 'Beurer HK47 - Almohadilla electrónica  batería externa de 2600 mAh  cargador USB  color gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01KOC35ZA/?tag=tolees-21'
 descuento: '59.40'
 average: '28.38'

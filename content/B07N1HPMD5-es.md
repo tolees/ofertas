@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Clarks Un Adorn Zip  Mocasines para Mujer  Beige  Pebble Metalic Pebble Metalic   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N1HPMD5/?tag=tolees-21'
 descuento: '63.34'
 average: '40.33'

@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Estuche rígido para Sony Wh-CH510 / Sony WH-CH500  Auriculares inalámbricos Bluetooth Sony MDR-ZX330BT  Bolsa Protectora de Viaje para Almacenamiento.  Solo Caso .'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08C7GJ1YS/?tag=tolees-21'
 descuento: '42.48'
 average: '14.95'

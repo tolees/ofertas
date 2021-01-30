@@ -16,6 +16,7 @@ comparePrice: 6.86 EUR
 prodname: 'Lote de 100 Mixto Multicolor  cuentas de madera de estrellas para DIY Craft hacer 15 x 15 mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076SPXM4H/?tag=tolees-21'
 descuento: '66.76'
 average: '2.285'

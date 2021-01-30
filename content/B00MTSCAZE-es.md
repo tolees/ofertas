@@ -16,6 +16,7 @@ comparePrice: 12.76 EUR
 prodname: 'Max Factor 53045 Skin Luminizer Base de Maquillaje - 30 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00MTSCAZE/?tag=tolees-21'
 descuento: '67.48'
 average: '4.15'

@@ -16,6 +16,7 @@ comparePrice: 140.0 EUR
 prodname: 'Sony DSC-W830 - Cámara compacta de 20.1 Mp  pantalla de 2.7"  zoom óptico 8x  estabilizador óptico   negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00HH8A5RQ/?tag=tolees-21'
 descuento: '29.29'
 average: '108.30714285714286'

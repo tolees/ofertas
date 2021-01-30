@@ -16,6 +16,7 @@ comparePrice: 18.95 EUR
 prodname: 'Viaman Plus - Fórmula Natural Para El Rendimiento Masculino - Disfruta De Relaciones Íntimas Más Duraderas E Intensas  Potencia los Niveles de Testosterona - 800mg 60 Cápsulas Para 1 Mes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FB3R1MG/?tag=tolees-21'
 descuento: '31.45'
 average: '15.47'

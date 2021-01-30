@@ -16,6 +16,7 @@ comparePrice: 3.59 EUR
 prodname: 'Huoyin Pulsera Dispensadora De Líquido  Dispensador De Manos Suministros De Limpieza Líquidos para Llevar Dispensador para Niños Adultos Al Aire Libre Mano Diaria'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08FMH1FXX/?tag=tolees-21'
 descuento: '44.85'
 average: '1.98'

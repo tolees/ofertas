@@ -16,6 +16,7 @@ comparePrice: 115.0 EUR
 prodname: 'Maleta de cabina Pepe Jeans Bristol Verde rígida 55cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B4FCGND/?tag=tolees-21'
 descuento: '30.00'
 average: '80.5'

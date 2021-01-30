@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'LEADSTAR Templado Protector Pantalla para Samsung Galaxy Tab A 10.1 T510/ T515 2019  Anti-arañazos  9H Dureza  Alta Definición Cristal Templado para SM-T510 / SM-T515'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083K4QGKX/?tag=tolees-21'
 descuento: '38.38'
 average: '5.54'

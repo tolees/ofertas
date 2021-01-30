@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Superdry Classic Pique S/s Polo  Azul  Pilot Mid Blue J6p   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q5YTKHG/?tag=tolees-21'
 descuento: '58.33'
 average: '20.83'

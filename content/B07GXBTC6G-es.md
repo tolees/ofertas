@@ -16,6 +16,7 @@ comparePrice: 499.0 EUR
 prodname: 'Candy GVSW 486T/5S - Lavasecadora 8+6Kgs  NFC  display digital  certificado WoolMark  15 programas  1400rpm  clase AAA  color blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GXBTC6G/?tag=tolees-21'
 descuento: '26.25'
 average: '367.99'

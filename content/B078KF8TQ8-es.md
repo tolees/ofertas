@@ -16,6 +16,7 @@ comparePrice: 24.9 EUR
 prodname: 'Suavinex Esterilizador de Chupetes Portátil de Luz Uv  Azul  0.25 kg'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078KF8TQ8/?tag=tolees-21'
 descuento: '30.96'
 average: '17.19'

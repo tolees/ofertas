@@ -16,6 +16,7 @@ comparePrice: 9.63 EUR
 prodname: 'Bourjois Velvet Barra de Labios Líquida Tono 21 Saperliprunette ! - 28 gr.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071VLQ9SY/?tag=tolees-21'
 descuento: '51.71'
 average: '4.65'

@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'Superga 2730-cotu  Zapatillas de Gimnasia para Mujer  Azul  Navy 933   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N1H36FK/?tag=tolees-21'
 descuento: '77.16'
 average: '16.285'

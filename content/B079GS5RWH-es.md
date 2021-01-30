@@ -16,6 +16,7 @@ comparePrice: 38.99 EUR
 prodname: '1home Soporte portátil ergónomico Adjustable Curvo para computadora portátil y MacBook'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079GS5RWH/?tag=tolees-21'
 descuento: '51.30'
 average: '18.99'

@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Reloj - findtime - Para  - MSLLP80PROWEISS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087PYYYV4/?tag=tolees-21'
 descuento: '40.00'
 average: '59.99'

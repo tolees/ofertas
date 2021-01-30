@@ -16,6 +16,7 @@ comparePrice: 10.0 EUR
 prodname: 'Polos Hombre Manga Corta Blanco Algodón Marca Casual Negocios Slim Camisetas Camisas  Blanco  M '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0813FGJZ3/?tag=tolees-21'
 descuento: '60.10'
 average: '3.99'

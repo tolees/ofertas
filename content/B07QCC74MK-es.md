@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Adidas Tensaur C  Zapatillas de Running Unisex niño  Blanco  Ftwbla/Rosrea/Ftwbla 000   33 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QCC74MK/?tag=tolees-21'
 descuento: '29.92'
 average: '20.99'

@@ -16,6 +16,7 @@ comparePrice: 144.0 EUR
 prodname: 'Saucony Xodus ISO 3  Zapatillas de Trail Running para Mujer  Gris  Gris 3   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FN4TFBB/?tag=tolees-21'
 descuento: '47.71'
 average: '75.3'

@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'Slendertone Brazaletes de bíceps y tríceps H / F Tonificación Unisex-Adulto  Negro  25 a 45 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RDQJFJS/?tag=tolees-21'
 descuento: '30.00'
 average: '90.3'

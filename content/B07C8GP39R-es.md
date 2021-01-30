@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'isYoung Comedero Automático 5.5 L de Alimentos para Mascotas Gatos y Perros Alimentador de Mascotas de Control Electrónico con Gran Pantalla LCD y Registro de Voz Temporizador de Comida'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C8GP39R/?tag=tolees-21'
 descuento: '30.01'
 average: '43.656666666666666'

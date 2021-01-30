@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'vamei 8 piezas Bebé Niña Diademas Cintas de Pelo Diadema Elástica Turbante Bowknot Bebé Venda De Pelo De Arco 0-3 meses  Arco pequeño '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S29G2QS/?tag=tolees-21'
 descuento: '62.52'
 average: '14.99'

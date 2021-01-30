@@ -16,6 +16,7 @@ comparePrice: 8.98 EUR
 prodname: 'Nurana Cosmetics  Crema diurna facial con factor de protección 50- 50 ml.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071CFLJ27/?tag=tolees-21'
 descuento: '47.55'
 average: '4.71'

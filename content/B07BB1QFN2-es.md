@@ -16,6 +16,7 @@ comparePrice: 210.0 EUR
 prodname: 'Versus by Versace Reloj Analogico para Mujer de Cuarzo con Correa en Acero Inoxidable VSP870718'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BB1QFN2/?tag=tolees-21'
 descuento: '43.81'
 average: '117.99'

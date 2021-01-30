@@ -16,6 +16,7 @@ comparePrice: 48.87 EUR
 prodname: 'New Balance Suede 996  Zapatillas para Mujer  Rosa  Pink Yd   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFJDWJK/?tag=tolees-21'
 descuento: '32.58'
 average: '32.95'

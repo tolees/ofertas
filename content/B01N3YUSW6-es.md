@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'NEW C 2 Unidades  Protector de Pantalla para Samsung Galaxy J5 2016  SM-J510   Vidrio Cristal Templado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N3YUSW6/?tag=tolees-21'
 descuento: '44.49'
 average: '4.99'

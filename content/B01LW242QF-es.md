@@ -16,6 +16,7 @@ comparePrice: 110.66 EUR
 prodname: 'Thierry Mugler Mugler Cologne Edt Vapo 300 ml 300 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LW242QF/?tag=tolees-21'
 descuento: '50.52'
 average: '54.75'

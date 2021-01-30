@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'AIORNIY 1/5/10 piezas polvo antipolvo Nebelnebel-Verschmutzungs'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086TSZYS1/?tag=tolees-21'
 descuento: '67.39'
 average: '5.54'

@@ -16,6 +16,7 @@ comparePrice: 10.2 EUR
 prodname: 'Font Vella Levité Agua Mineral con zumo de limón - Pack 12 x 50cl'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CWTMMZG/?tag=tolees-21'
 descuento: '50.00'
 average: '5.1'

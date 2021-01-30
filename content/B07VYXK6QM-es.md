@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'Intex 57294EU - Isla Hinchable Llama'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VYXK6QM/?tag=tolees-21'
 descuento: '42.80'
 average: '19.99'

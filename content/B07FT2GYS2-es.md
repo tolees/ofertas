@@ -16,6 +16,7 @@ comparePrice: 29.57 EUR
 prodname: 'Aceite Orgánico de Rosa Mosqueta 100% Puro y Natural  para Piel  las uñas  el cabello  60ml '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FT2GYS2/?tag=tolees-21'
 descuento: '56.07'
 average: '14.656666666666666'

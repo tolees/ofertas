@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Smeg TSBW02 Accesorio De De Tostadora  De plástico  Acero  Cromo/Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00QJO3V70/?tag=tolees-21'
 descuento: '60.18'
 average: '16.46'

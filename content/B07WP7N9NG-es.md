@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Cepillo Dientes Bambu Cepillo de Dientes Bambu Sostenibles Cepillos de Dientes de Bambu  sin BPA Cepillo Bambu Biodegradables Bamboo Toothbrush-Ecológico Vegano Reciclable - Paquete de 6'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WP7N9NG/?tag=tolees-21'
 descuento: '57.93'
 average: '7.99'

@@ -16,6 +16,7 @@ comparePrice: 189.0 EUR
 prodname: 'Guess Reloj Cronógrafo para Hombre de Cuarzo con Correa en Cuero W0970G2'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076F47BXK/?tag=tolees-21'
 descuento: '32.31'
 average: '110.50333333333333'

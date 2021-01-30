@@ -16,6 +16,7 @@ comparePrice: 79.0 EUR
 prodname: 'Superga 2790-COTROPEW  Zapatillas Mujer  Negro  Nero 999   38 EU  5 UK '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B017QYODG4/?tag=tolees-21'
 descuento: '44.81'
 average: '43.6'

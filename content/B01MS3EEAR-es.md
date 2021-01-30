@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Tommy Hilfiger Denton C Cinturón con Hebilla Redondeada Plateada y Logo  Marrón  Testa di Moro-Eur   110 cm para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MS3EEAR/?tag=tolees-21'
 descuento: '37.37'
 average: '24.99'

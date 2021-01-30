@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Under Armour Challenger III Training Pant  pantalones de chándal para hombre  pantalones largos muy ligeros hombre  Negro  Black/White  001    2XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L9JMD54/?tag=tolees-21'
 descuento: '62.96'
 average: '19.58'

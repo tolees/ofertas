@@ -16,6 +16,7 @@ comparePrice: 40.99 EUR
 prodname: 'Sniper Elite 3 - Ultimate Edition'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QG7PY5G/?tag=tolees-21'
 descuento: '35.98'
 average: '30.244999999999997'

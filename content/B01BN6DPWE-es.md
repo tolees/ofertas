@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Reloj Komono Moneypenny Royale para Mujer KOM-W1246'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BN6DPWE/?tag=tolees-21'
 descuento: '50.04'
 average: '34.95'

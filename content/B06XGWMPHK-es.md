@@ -16,6 +16,7 @@ comparePrice: 15.9 EUR
 prodname: 'Figura Pop trollhunters Toby'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XGWMPHK/?tag=tolees-21'
 descuento: '49.75'
 average: '7.99'

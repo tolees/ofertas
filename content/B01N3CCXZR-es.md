@@ -16,6 +16,7 @@ comparePrice: 1599.0 EUR
 prodname: 'Tamron SP 70-200 mm F/2.8 Di VC USD G2 - Objetivo para Canon  estabilizador óptico VC en Tres Modos  Sensor Full Frame 24 x 36  AF USD  Dos Lentes XLD  SP  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N3CCXZR/?tag=tolees-21'
 descuento: '31.73'
 average: '1131.04'

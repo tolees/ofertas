@@ -16,6 +16,7 @@ comparePrice: 159.0 EUR
 prodname: 'Skagen Reloj de Pulsera SKW2076'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00EJXDFEW/?tag=tolees-21'
 descuento: '46.54'
 average: '86.3'

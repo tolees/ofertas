@@ -16,6 +16,7 @@ comparePrice: 185.8 EUR
 prodname: 'Mates Manix Preservativo Masculino en Sexo Seguro 1 Unidad 500 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00IKMKLZO/?tag=tolees-21'
 descuento: '69.08'
 average: '57.45'

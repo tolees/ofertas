@@ -16,6 +16,7 @@ comparePrice: 36.29 EUR
 prodname: 'Banpresto Dragon Ball  Match Makers  Super Saiyan Broly  Multicolor  Bandai 39650 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S5R5ZFZ/?tag=tolees-21'
 descuento: '25.41'
 average: '27.07'

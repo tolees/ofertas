@@ -16,6 +16,7 @@ comparePrice: 7.77 EUR
 prodname: 'Hudora Pylonen Aprox. 25 cm de Alto  8 Unidades .  76105 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0002VLDE4/?tag=tolees-21'
 descuento: '35.78'
 average: '4.99'

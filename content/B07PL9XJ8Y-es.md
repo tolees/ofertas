@@ -16,6 +16,7 @@ comparePrice: 5.81 EUR
 prodname: 'Gel de sílice Galactorrea Colección de coberturas Recolector de leche materna Suave posparto Masaje de senos Pezón Contenedor de succión Cojín'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PL9XJ8Y/?tag=tolees-21'
 descuento: '32.01'
 average: '3.95'

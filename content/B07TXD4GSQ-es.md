@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Adidas Predator 19.1 FG J  Botas de fútbol para Niños  Multicolor  Negbás/Negbás/Neguti 000   28 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TXD4GSQ/?tag=tolees-21'
 descuento: '80.41'
 average: '25.174999999999997'

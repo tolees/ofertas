@@ -16,6 +16,7 @@ comparePrice: 47.82 EUR
 prodname: 'New Balance Fresh Foam Cruz Sport Pack Reflective m  Zapatillas de Running para Mujer  Gris  Grey   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072QD2ZP3/?tag=tolees-21'
 descuento: '38.33'
 average: '29.49'

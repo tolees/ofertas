@@ -16,6 +16,7 @@ comparePrice: 154.99 EUR
 prodname: 'Braun Series 5 Waterflex Wf2S Afeitadora Eléctrica de Lámina para Hombre  en Seco y Mojado  Máquina de Afeitar con Recortadora de Precisión Extraíble  Recargable  Inalámbrica  Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072K56HWZ/?tag=tolees-21'
 descuento: '33.29'
 average: '103.39'

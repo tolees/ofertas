@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'adidas Falcon W  Zapatillas para Mujer  Off White/Raw White/Active Purple  37 1/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0813RZKF3/?tag=tolees-21'
 descuento: '69.63'
 average: '30.35'

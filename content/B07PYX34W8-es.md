@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Kelme Precision Elite 2.0  Zapatillas de fútbol Sala Unisex Adulto  Rosa  Rosa Neon 9929   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PYX34W8/?tag=tolees-21'
 descuento: '60.00'
 average: '33.483333333333334'

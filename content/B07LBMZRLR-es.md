@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Kappa Cammy Kids  Botas Unisex Niños  Grey/Pink 1622  29 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LBMZRLR/?tag=tolees-21'
 descuento: '56.96'
 average: '12.89'

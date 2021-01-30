@@ -16,6 +16,7 @@ comparePrice: 36.9 EUR
 prodname: 'Lowepro Adventura TLZ 30 II - Bolsa para cámara réflex  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00U3TQR7S/?tag=tolees-21'
 descuento: '42.03'
 average: '21.39'

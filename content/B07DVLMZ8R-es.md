@@ -16,6 +16,7 @@ comparePrice: 90 EUR
 prodname: 'New Balance Fresh Foam Roav  Zapatillas de Running para Mujer  Gris  Light Aluminum Light Aluminum   36.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DVLMZ8R/?tag=tolees-21'
 descuento: '50.00'
 average: '38.92'

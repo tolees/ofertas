@@ -16,6 +16,7 @@ comparePrice: 47.32 EUR
 prodname: 'Hobaca® E27 Oro Cobre Hierro de lujo Lámpara colgante nórdica moderna LED Lámpara colgante Lámparas para las luces del sitio de la cocina de la isla de la cocina'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SS4J9KZ/?tag=tolees-21'
 descuento: '48.61'
 average: '23.77'

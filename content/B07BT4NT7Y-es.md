@@ -16,6 +16,7 @@ comparePrice: 15.94 EUR
 prodname: 'Mr. Wonderful Neceser para Cables Imprescindibles para Viajar  Poliéster  Multicolor  12x25x9 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BT4NT7Y/?tag=tolees-21'
 descuento: '49.94'
 average: '9.565000000000001'

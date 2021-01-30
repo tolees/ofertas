@@ -16,6 +16,7 @@ comparePrice: 32.85 EUR
 prodname: 'Safta Bolsa De Deporte Levante U.D. Oficial 550x270x260mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078NW9J2K/?tag=tolees-21'
 descuento: '28.65'
 average: '23.44'

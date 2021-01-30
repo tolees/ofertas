@@ -16,6 +16,7 @@ comparePrice: 35.45 EUR
 prodname: 'Campingaz Nevera Portatil Icetime Plus  Caja Térmica  Nevera Para Camping  Playa y Picnic  30 L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00SWQXYY8/?tag=tolees-21'
 descuento: '34.98'
 average: '23.31153846153846'

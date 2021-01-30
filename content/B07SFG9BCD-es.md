@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'VHOME Manguera De Jardín Flexible 30M Juego De Manguera De Agua - Expandible Flexi Manguera De Jardín Mágica Se Puede Estirar para Irrigar Baños De Pet con Lavado De Autos  30M  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SFG9BCD/?tag=tolees-21'
 descuento: '46.26'
 average: '32.24'

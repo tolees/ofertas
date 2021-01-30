@@ -16,6 +16,7 @@ comparePrice: 10.83 EUR
 prodname: 'VIDOO 2 Pairs Hurricane 51499 3-Blade 5Mm/Popo Propeller CW CCW For RC Drone FPV Racing-Púrpura Claro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087Q4FB4D/?tag=tolees-21'
 descuento: '34.53'
 average: '7.09'

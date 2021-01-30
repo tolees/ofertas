@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Moulinex XF384B10 - Accesorio para cocinar al vapor Cuisine Companion  capacidad de 3.7 L  suficiente para 6 personas  aporta 2 niveles de cocción adicionales a tu Cuisine Companion  asas aislantes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B017NR9Q7A/?tag=tolees-21'
 descuento: '37.70'
 average: '80.99'

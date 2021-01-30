@@ -16,6 +16,7 @@ comparePrice: 19.0 EUR
 prodname: 'Gifts Treat Chica Gorra De Béisbol Primavera Verano Sombreros De Sol Sombreros De Playa Contiene Dibujos Animados Gato  Gris Gato  50CM '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CWF93TF/?tag=tolees-21'
 descuento: '42.16'
 average: '10.99'

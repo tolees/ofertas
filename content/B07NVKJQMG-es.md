@@ -16,6 +16,7 @@ comparePrice: 35.06 EUR
 prodname: 'LTDNB HDMI Adaptador Digital AV Compatible con Phone XS/X MAX/XR/X/8/7 /6/5 Series/Pad Air/Mini/Pro/Pod Touch'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NVKJQMG/?tag=tolees-21'
 descuento: '48.69'
 average: '17.99'

@@ -16,6 +16,7 @@ comparePrice: 173.06 EUR
 prodname: 'Reflex Nutrition Instant Whey Pro Chocolate - 4400 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00GTRKZHG/?tag=tolees-21'
 descuento: '62.75'
 average: '64.46'

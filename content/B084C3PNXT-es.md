@@ -16,6 +16,7 @@ comparePrice: 519.0 EUR
 prodname: 'PIKOLIN Colchón de muelles avanzados Normablock Confort viscoelástico 90x190  firmeza Media  Altura 25 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084C3PNXT/?tag=tolees-21'
 descuento: '46.05'
 average: '279.99'

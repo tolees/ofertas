@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Tristar KA-5087 Radiador eléctrico – Aceite – 7 cuerpos – 1500 W'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075KJR43Q/?tag=tolees-21'
 descuento: '37.12'
 average: '33.95666666666666'

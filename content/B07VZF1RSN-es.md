@@ -16,6 +16,7 @@ comparePrice: 5.99 EUR
 prodname: 'Lurrose 80 pañuelos pañuelos pañuelos toallas limpias para el maquillaje.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VZF1RSN/?tag=tolees-21'
 descuento: '59.43'
 average: '2.43'

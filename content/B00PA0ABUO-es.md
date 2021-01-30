@@ -16,6 +16,7 @@ comparePrice: 16.5 EUR
 prodname: 'American Crew Cera Liquida  Fijación Media y Brillo Medio  150 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00PA0ABUO/?tag=tolees-21'
 descuento: '58.36'
 average: '7.113684210526316'

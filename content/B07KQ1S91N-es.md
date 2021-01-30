@@ -16,6 +16,7 @@ comparePrice: 20.94 EUR
 prodname: 'LoveOlvidoE MC31 Photo Frame Camera DV Un Tipo de cámara Oculta de Seguridad para el hogar MIN DV de Gama Alta con Estilo de Almacenamiento móvil'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KQ1S91N/?tag=tolees-21'
 descuento: '32.00'
 average: '13.702222222222222'

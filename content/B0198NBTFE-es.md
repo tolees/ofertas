@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'HP Legend - Maletín para portátiles de hasta 15.6" negra'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0198NBTFE/?tag=tolees-21'
 descuento: '50.46'
 average: '24.256666666666664'

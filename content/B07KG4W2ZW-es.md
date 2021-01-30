@@ -16,6 +16,7 @@ comparePrice: 17.4 EUR
 prodname: 'PUMA Turin II AC PS  Zapatillas Unisex Niños  White-Calypso Coral  35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KG4W2ZW/?tag=tolees-21'
 descuento: '27.07'
 average: '12.68'

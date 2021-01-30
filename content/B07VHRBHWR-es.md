@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Desigual Foul_Fruits Bufanda  Multicolor  Blanco/Negro 9024   Talla única  Talla del fabricante: U  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VHRBHWR/?tag=tolees-21'
 descuento: '30.04'
 average: '27.95'

@@ -16,6 +16,7 @@ comparePrice: 299.99 EUR
 prodname: '8CH NVR 1080P Kit de Camara vigilancia WiFi Exterior  vigilancia CCTV con 2.0MP IP Cameras  Visión Nocturna  IP66 Impermeable  Movimiento Detectión  Acceso Remoto móvil sin HDD '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081PSH4LK/?tag=tolees-21'
 descuento: '43.33'
 average: '169.99'

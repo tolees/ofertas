@@ -16,6 +16,7 @@ comparePrice: 14.9 EUR
 prodname: 'Aceite de Coco Virgen Extra Ecológico Prensado en Frío  500ml  | Sin Aromas Químicos Añadidos - No Blanqueado Artificialmente - Sin Refinar | Uso Estético  Cocina y Masajes | Certificación Bio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089RH9LYH/?tag=tolees-21'
 descuento: '33.56'
 average: '9.9'

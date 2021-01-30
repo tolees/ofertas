@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Braun MQ 3025 Spaghetti - Licuadora  600 L  0 35 L  Botones  13500 RPM  Batidora de inmersión  Azul  Blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06X6LLL1K/?tag=tolees-21'
 descuento: '29.86'
 average: '32.45'

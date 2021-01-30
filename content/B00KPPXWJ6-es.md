@@ -16,6 +16,7 @@ comparePrice: 261.44 EUR
 prodname: 'MAKITA DTL061Z Herramienta  18 V'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KPPXWJ6/?tag=tolees-21'
 descuento: '41.16'
 average: '153.82'

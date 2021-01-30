@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'adidas Tan Training Pants Pantalon  Hombre  DGH Solid Grey  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0829HMBR8/?tag=tolees-21'
 descuento: '58.58'
 average: '22.76'

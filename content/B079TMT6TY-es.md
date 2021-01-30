@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Funko- Black Panther T Challa Figura de Vinilo - Coleccionable  Multicolor  Standard  31286 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079TMT6TY/?tag=tolees-21'
 descuento: '46.77'
 average: '7.923333333333334'

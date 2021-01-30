@@ -16,6 +16,7 @@ comparePrice: 941.63 EUR
 prodname: 'AMD 2950X Ryzen ThreadRipper - Procesador  4.4 GHz y Cache de 40 MB  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GFN6CVF/?tag=tolees-21'
 descuento: '36.29'
 average: '676.5571428571428'

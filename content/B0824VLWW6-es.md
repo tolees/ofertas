@@ -16,6 +16,7 @@ comparePrice: 40.99 EUR
 prodname: 'Auriculares Bluetooth  Auriculares Inalámbricos Bluetooth 5.0 3500mAh con 150H Playtime  IPX8 Impermeable In-Ear Auriculares Inalámbricos Estéreo con Caja de Carga y Mic  Pantalla LED  Control Táctil'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0824VLWW6/?tag=tolees-21'
 descuento: '34.15'
 average: '28.61499999999999'

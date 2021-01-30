@@ -16,6 +16,7 @@ comparePrice: 279.0 EUR
 prodname: 'Fossil - Reloj Gen 4 Smartwatch con correa de cuero - FTW6015'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FFM4VQJ/?tag=tolees-21'
 descuento: '31.94'
 average: '184.2925'

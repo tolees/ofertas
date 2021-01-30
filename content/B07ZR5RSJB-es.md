@@ -16,6 +16,7 @@ comparePrice: 13.52 EUR
 prodname: 'Cepillos de Limpieza para Coches 5 Piezas Pinceles de Detalles Automotriz para Ruedas  Motor  Interior  Emblemas  Exterior  Ventilación de Aire'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZR5RSJB/?tag=tolees-21'
 descuento: '26.11'
 average: '9.99'

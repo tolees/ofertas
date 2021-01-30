@@ -16,6 +16,7 @@ comparePrice: 14.52 EUR
 prodname: '90ml Original Mujer Quicksand Perfume Fragancia De Flores Perfume Líquido Mujer Fragancia De Larga Duración Quicksand Decor Eternity'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082B6TTYG/?tag=tolees-21'
 descuento: '31.20'
 average: '9.99'

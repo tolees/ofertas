@@ -16,6 +16,7 @@ comparePrice: 16.9 EUR
 prodname: 'Star Wars Reloj Niños de Digital con Correa en PU SWJ4011'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F2BMHXJ/?tag=tolees-21'
 descuento: '40.89'
 average: '9.99'

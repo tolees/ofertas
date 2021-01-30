@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Jabra Talk 45 – Auricular Monoaural In-Ear  Llamadas Inalámbricas  Indicaciones para el GPS  Transmisión de Música y Podcasts Desde Dispositivos Móviles  Plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DFF37CN/?tag=tolees-21'
 descuento: '47.88'
 average: '60.839999999999996'

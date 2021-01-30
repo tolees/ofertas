@@ -16,6 +16,7 @@ comparePrice: 95.9 EUR
 prodname: 'Taurus Vac600 Envasadora al vacío  Acero Inoxidable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YB5HV8L/?tag=tolees-21'
 descuento: '28.06'
 average: '68.99'

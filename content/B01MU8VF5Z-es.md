@@ -16,6 +16,7 @@ comparePrice: 15.97 EUR
 prodname: 'Vitamaze® Zinc  comprimidos veganos de 25 mg para 12 meses  la mejor biodisponibilidad  producto de calidad made in Germany sin estearato de magnesio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MU8VF5Z/?tag=tolees-21'
 descuento: '29.99'
 average: '10.643333333333333'

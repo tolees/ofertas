@@ -16,6 +16,7 @@ comparePrice: 8.33 EUR
 prodname: 'Universal Múltiple 3 Puertos USB-C 3.0 Hub con Kit de conexión de Lector de Tarjetas para PC Computadora portátil Plástico Blanco - Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089VWVV4M/?tag=tolees-21'
 descuento: '33.49'
 average: '5.54'

@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'SmugPets 315 Bolsas biodegradables para excrementos con dispensador y Clip para Correa - Extragrandes y perfumadas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01AR3ITXO/?tag=tolees-21'
 descuento: '35.02'
 average: '12.418571428571427'

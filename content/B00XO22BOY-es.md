@@ -16,6 +16,7 @@ comparePrice: 8.35 EUR
 prodname: 'Zentrum Gastrocap con Aloe Vera  Propóleo y Papaina - 30 Cápsulas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XO22BOY/?tag=tolees-21'
 descuento: '52.10'
 average: '4.0'

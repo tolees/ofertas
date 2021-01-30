@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'YGJT Termos para Comida Conjunto de 2 Piezas 500ML + 700ML Contenedor de Comida Aislado Lonchera Frascos Térmicos para Niños/Adultos con Cucharas Plegables Aislamiento Frío/Calor -Fugas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XP3SBNN/?tag=tolees-21'
 descuento: '63.34'
 average: '32.99'

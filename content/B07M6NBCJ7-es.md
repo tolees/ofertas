@@ -16,6 +16,7 @@ comparePrice: 62.99 EUR
 prodname: 'BRIKSMAX Kit de Iluminación Led para Harry Potter-Gran Comedor de Hogwarts-Compatible con Ladrillos de Construcción Lego Modelo 75954-Juego de Legos no Incluido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M6NBCJ7/?tag=tolees-21'
 descuento: '31.75'
 average: '37.49'

@@ -16,6 +16,7 @@ comparePrice: 124.63 EUR
 prodname: 'Lenovo 0A36307 batería Recargable - Batería/Pila Recargable  Notebook/Tablet  5-35 °C  8-95%  Iones de Litio  Negro  Thinkpad '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0085MPIG6/?tag=tolees-21'
 descuento: '37.31'
 average: '78.13'

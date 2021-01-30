@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'MyCarSit - Asiento de coche para niños  respaldo alto  9 a 36 kg   color azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0171N9FKE/?tag=tolees-21'
 descuento: '43.76'
 average: '44.99'

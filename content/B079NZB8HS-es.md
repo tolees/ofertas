@@ -16,6 +16,7 @@ comparePrice: 87.99 EUR
 prodname: 'Hapilife Grifo De Cocina Extraible Monomando Multifuncional Estético Con Caño Giratorio Alto Cromado Inoxidable para Fregadero'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079NZB8HS/?tag=tolees-21'
 descuento: '39.78'
 average: '52.656666666666666'

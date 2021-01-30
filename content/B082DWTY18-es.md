@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Auriculares Inalámbricos  2-en 1 Estéreo Auriculares Bluetooth Deportivos y 10000mAh Estuche de Carga  500H Playtime  Impermeable Auriculares para Phone con Bluetooth'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082DWTY18/?tag=tolees-21'
 descuento: '30.00'
 average: '48.99'

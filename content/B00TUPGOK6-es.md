@@ -16,6 +16,7 @@ comparePrice: 16.9 EUR
 prodname: 'NYX Professional Makeup Base de Maquillaje Can t Stop Won t Stop Foundation  Pack de 1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00TUPGOK6/?tag=tolees-21'
 descuento: '34.14'
 average: '11.13'

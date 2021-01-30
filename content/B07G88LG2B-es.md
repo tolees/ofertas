@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Superdry Hombre Mountain Zip Jacket  Azul  Large'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G88LG2B/?tag=tolees-21'
 descuento: '40.02'
 average: '61.2'

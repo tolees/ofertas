@@ -16,6 +16,7 @@ comparePrice: 41.0 EUR
 prodname: 'Calvin Klein Unlined Triangle Sujetador de triángulo  Negro  Black 001   K  Talla del Fabricante: 0B32  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RM2V2ZS/?tag=tolees-21'
 descuento: '50.15'
 average: '20.44'

@@ -16,6 +16,7 @@ comparePrice: 149.85 EUR
 prodname: 'Asics T722N 2301  Zapatillas de Deporte Unisex Adulto   Royal/Black/White   41.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N1H8LDS/?tag=tolees-21'
 descuento: '62.21'
 average: '60.44500000000001'

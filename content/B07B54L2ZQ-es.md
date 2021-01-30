@@ -16,6 +16,7 @@ comparePrice: 165.75 EUR
 prodname: 'Astan Hogar Confort Plus Sillón Relax con Reclinación Manual  Tela  Chocolate  Compacto'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B54L2ZQ/?tag=tolees-21'
 descuento: '28.33'
 average: '118.8'

@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'UniqueMe [3 Pack] Cristal Templado para Samsung Galaxy Note 20  6.7 Pulgada  4G / 5G  [9H Dureza ] [Sin Burbujas] HD Film Vidrio Templado Protector de Pantalla con Herramientas de instalación'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08DNDZ339/?tag=tolees-21'
 descuento: '57.93'
 average: '7.99'

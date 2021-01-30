@@ -16,6 +16,7 @@ comparePrice: 149.0 EUR
 prodname: 'Casio Reloj Analógico para Hombre de Cuarzo con Correa en Resina GA-100CM-5AER'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00QH332PY/?tag=tolees-21'
 descuento: '51.00'
 average: '73.01'

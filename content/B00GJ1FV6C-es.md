@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'Amazon - Funda Origami para Kindle Voyage  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00GJ1FV6C/?tag=tolees-21'
 descuento: '37.47'
 average: '28.13'

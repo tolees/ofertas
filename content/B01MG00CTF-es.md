@@ -16,6 +16,7 @@ comparePrice: 11.9 EUR
 prodname: 'Speedo Sea Squad Armbands Aprender a Nadar  Unisex niños  Rosa Vegas/Azul Bali  One Size'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MG00CTF/?tag=tolees-21'
 descuento: '49.16'
 average: '6.6'

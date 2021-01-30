@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'Melissa & Doug- Chef s Kitchen  Color Charcoal  Talla Única  4010 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XY7VCVC/?tag=tolees-21'
 descuento: '28.71'
 average: '130.83333333333334'

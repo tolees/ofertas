@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'AmazonBasics - Aro de fitness y pilates para entrenamiento de resistencia  38 cm  Negro  2 unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BZKHRDZ/?tag=tolees-21'
 descuento: '39.21'
 average: '21.88'

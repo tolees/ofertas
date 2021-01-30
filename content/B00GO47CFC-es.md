@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'Piz Buin Tan & Protect - Aceite en Spray Acelerador del Bronceado SPF 15 Protección Media  150 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00GO47CFC/?tag=tolees-21'
 descuento: '62.56'
 average: '8.420454545454543'

@@ -16,6 +16,7 @@ comparePrice: 13.49 EUR
 prodname: 'GOAMZ Mini Ventilador Micro USB de Cuello Portatil Mano Libre Recargable Ventilador Electrico para Coche Deporte Oficina Hogar Viajar Acampar  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TXJKNLG/?tag=tolees-21'
 descuento: '25.95'
 average: '10.461111111111112'

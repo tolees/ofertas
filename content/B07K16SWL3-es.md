@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'adidas Estro 19 JSY T-Shirt  Boys  Black  5-6 años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K16SWL3/?tag=tolees-21'
 descuento: '58.26'
 average: '6.24'

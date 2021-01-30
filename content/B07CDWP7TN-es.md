@@ -16,6 +16,7 @@ comparePrice: 471.99 EUR
 prodname: 'Sotech Herramienta Multifunción de Jardinería 5 en 1  Desbrozadora Gasolina  Cortasetos y Motosierra  Cortadora de hierbajos  Podadora y Poste de Extensión  52cc  2.2kw  2 Tiempos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CDWP7TN/?tag=tolees-21'
 descuento: '58.71'
 average: '194.89'

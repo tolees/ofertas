@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Champion The Absolute Workout Sujetador Deportivo   Blanc Logo Vert 8mp   Large para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FYD23F2/?tag=tolees-21'
 descuento: '68.26'
 average: '11.076666666666668'

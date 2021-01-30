@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'Anpro 220 PCS Kit de Costura  Kit Coser Costurero  Estuche Oxfords Portátil para Principiantes  Mini Kit de Costura Para el Hogar  Viajes  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087P9FR7B/?tag=tolees-21'
 descuento: '40.86'
 average: '6.5'

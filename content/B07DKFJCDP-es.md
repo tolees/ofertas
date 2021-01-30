@@ -16,6 +16,7 @@ comparePrice: 69.88 EUR
 prodname: 'Relaxdays Silla Oficina Ergonómica Regulable  Azul  102 x 55 x 55 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DKFJCDP/?tag=tolees-21'
 descuento: '28.59'
 average: '49.9'

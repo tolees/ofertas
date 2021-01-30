@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Set De Baberos Bandana Cadenas Chupetes Toallas Bebe Suave Gasas Algodon Para Bebe Recien Nacido Niños Niñas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RHLZ8QS/?tag=tolees-21'
 descuento: '46.19'
 average: '6.99'

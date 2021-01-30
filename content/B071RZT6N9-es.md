@@ -16,6 +16,7 @@ comparePrice: 369.99 EUR
 prodname: 'ANNKE Sistema de Seguridad 1080P CCTV Kit de 8 Cámaras de Vigilancia  DVR Onvif H.264 P2P 8CH TVI 1080P IP66 Impermeable -2TB Disco Duro de Vigilancia'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071RZT6N9/?tag=tolees-21'
 descuento: '46.00'
 average: '199.79'

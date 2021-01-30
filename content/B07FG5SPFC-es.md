@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Lacoste Sport GH353T Bañador  Negro  Noir   W40  Talla del Fabricante: 9  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FG5SPFC/?tag=tolees-21'
 descuento: '59.03'
 average: '24.58'

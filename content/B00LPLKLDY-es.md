@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'Bella Aurora L+ Crema Facial Mujer Anti-Manchas para Manchas Localizadas en la Cara | Despigmentante | Acción local | Día y Noche SPF 15  10 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00LPLKLDY/?tag=tolees-21'
 descuento: '40.00'
 average: '11.94'

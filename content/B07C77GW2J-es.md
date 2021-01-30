@@ -16,6 +16,7 @@ comparePrice: 30.99 EUR
 prodname: 'Aissimio Placas Insonorizantes para Automóviles  Superficie-50X100cm  10mm  Placas de Aislante Acustico para Automóvil  Aislamiento y Amortiguamiento de Ruidos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C77GW2J/?tag=tolees-21'
 descuento: '29.04'
 average: '21.99'

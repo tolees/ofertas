@@ -16,6 +16,7 @@ comparePrice: 130.0 EUR
 prodname: 'American Tourister - Bon Air - Spinner Maleta 66 cm  57.5 L  Azul  Midnight Navy '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00MXP6FHM/?tag=tolees-21'
 descuento: '42.31'
 average: '75.0'

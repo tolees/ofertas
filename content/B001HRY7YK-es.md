@@ -16,6 +16,7 @@ comparePrice: 57.24 EUR
 prodname: 'Converse 015860_Blanc optical - Zapatillas de tela para niños  color blanco  talla 33'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001HRY7YK/?tag=tolees-21'
 descuento: '30.21'
 average: '39.95'

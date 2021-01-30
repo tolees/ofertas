@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'Philips PHICSP630 - Altavoces coaxiales para Coche  16.5 cm  6.5"  3 vías  210 W  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00CXKQ7ZM/?tag=tolees-21'
 descuento: '27.40'
 average: '23.95'

@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'MINIONS - Blíster de Tres  Giochi Preziosi DEP00002 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N42BYJK/?tag=tolees-21'
 descuento: '60.06'
 average: '3.99'

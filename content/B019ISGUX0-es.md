@@ -16,6 +16,7 @@ comparePrice: 949.0 EUR
 prodname: 'Intex 28456 - Spa hinchable Jet y Burbujas octogonal 1.098 litros'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B019ISGUX0/?tag=tolees-21'
 descuento: '64.17'
 average: '496.15250000000003'

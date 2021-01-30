@@ -16,6 +16,7 @@ comparePrice: 109.0 EUR
 prodname: 'Brace Master Colchón de Aire tamaño Doble y Almohada: colchón de Tela Flocado Impermeable de Cama de Aire portátil para Autocaravana/Invitados/Almuerzo de Oficina/Familia/al Aire Libre/Vacaciones'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083NP4VZV/?tag=tolees-21'
 descuento: '66.98'
 average: '35.99'

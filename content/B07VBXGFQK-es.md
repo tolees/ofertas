@@ -16,6 +16,7 @@ comparePrice: 184.02 EUR
 prodname: 'Masthome - Batería de Cocina de 11 Piezas de Acero Inoxidable  Apta para inducción  304/0 7 mm  Cubierta de Acero Plana  Incluye Cuchara medidora  espátula Triple y 5 Trapos  sartén sin Tapa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VBXGFQK/?tag=tolees-21'
 descuento: '64.09'
 average: '79.07400000000001'

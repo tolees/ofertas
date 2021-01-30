@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Muvit I/O MIOSMW009 Reloj de Actividad y Sueño  Negro y Rojo  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078WFF3JQ/?tag=tolees-21'
 descuento: '61.27'
 average: '23.22'

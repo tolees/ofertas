@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Beurer FM60 - Masajeador  50 W  función calor  color blanco y gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B008UHA58M/?tag=tolees-21'
 descuento: '49.96'
 average: '49.99'

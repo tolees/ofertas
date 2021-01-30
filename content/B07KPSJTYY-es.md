@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Funko- Pop Vinilo: Persona 5: Ryuji Figura Coleccionable  Multicolor  37409 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KPSJTYY/?tag=tolees-21'
 descuento: '37.30'
 average: '9.515'

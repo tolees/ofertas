@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'STANLEY FATMAX FMST1-80149 - Bolsa para ordenador y herramientas FatMax'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XCDX8ZM/?tag=tolees-21'
 descuento: '35.06'
 average: '32.44'

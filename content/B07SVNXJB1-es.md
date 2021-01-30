@@ -16,6 +16,7 @@ comparePrice: 1399.9 EUR
 prodname: 'Panasonic Lumix G90H - Cámara Evil de 20.3 MP  Pantalla de 3.2”  Visor OLED  estabilizador Dual 5 Ejes  4K  VLogL  Wi-Fi  Live Composite  - Kit con Objetivo Lumix Vario 14-140mm/F3.5-F5.6'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SVNXJB1/?tag=tolees-21'
 descuento: '25.59'
 average: '1183.9033333333332'

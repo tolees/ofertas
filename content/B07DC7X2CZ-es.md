@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'Puma Cell Viper Zapatillas de running Unisex Adulto  Blanco  Puma White-Spectra Yellow   46 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DC7X2CZ/?tag=tolees-21'
 descuento: '45.00'
 average: '46.5'

@@ -16,6 +16,7 @@ comparePrice: 69.9 EUR
 prodname: 'HAIROXOL-Cápsulas tratamiento anti-caída de cabello | Bitoina  Zinc  vitaminas  Selenio  L-Carnitina | Crecepelo | crecimiento capilar en hombres y mujeres | piel  barba  uñas | 60 pastillas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BHSL4JK/?tag=tolees-21'
 descuento: '28.61'
 average: '49.9'

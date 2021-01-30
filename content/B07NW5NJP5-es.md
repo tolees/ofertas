@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Skechers Envy-Good Thinking  Zapatillas para Mujer  Azul  Navy Heather Mesh/Off White Trim Nvy   36.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NW5NJP5/?tag=tolees-21'
 descuento: '56.80'
 average: '28.06'

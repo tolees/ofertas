@@ -16,6 +16,7 @@ comparePrice: 22.0 EUR
 prodname: 'Vitamina E Natural 400 UI | 200 perlas   Más de 6 meses de suministro  | Potente antioxidante que protege las células del estrés oxidativo  mejora el sistema inmune y favorece la salud cardiovascular.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HKLWR6P/?tag=tolees-21'
 descuento: '40.86'
 average: '13.215'

@@ -16,6 +16,7 @@ comparePrice: 209.53 EUR
 prodname: 'besrey 7 en 1 Triciclos Bebes reclinable con Asiento Giratorio  Triciclo para Bebe Nino evolutivo Infantil Trike Cochecito'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CMQVDTV/?tag=tolees-21'
 descuento: '52.28'
 average: '112.28999999999999'

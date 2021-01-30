@@ -16,6 +16,7 @@ comparePrice: 130.99 EUR
 prodname: '15M LED Luz de tira flexible LED Neon Flex Tube 120led IP65 Impermeable Cadena de cuerda  Decoración del Festival de vacaciones de bricolaje  49.2ft / 15m  Enchufe de alimentación de la UE'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q2SM2F1/?tag=tolees-21'
 descuento: '54.20'
 average: '59.99'

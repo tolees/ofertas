@@ -16,6 +16,7 @@ comparePrice: 2.99 EUR
 prodname: 'Neutrex Quitamanchas Pistola Color - 600 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V5WCQ7P/?tag=tolees-21'
 descuento: '66.56'
 average: '1.0'

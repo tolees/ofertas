@@ -16,6 +16,7 @@ comparePrice: 399.0 EUR
 prodname: 'MEDION ERAZER X58426 - Monitor Gaming Curvo de 80.1 cm  31.5"  Full HD  HDMI  144 Hz  16:9   color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XCJC7S5/?tag=tolees-21'
 descuento: '55.14'
 average: '221.46692307692308'

@@ -16,6 +16,7 @@ comparePrice: 29.98 EUR
 prodname: 'Tusenpy 20 Rollos Washi Cintas Rollitos Navideños Cintas Adhesivas para Decoración  Decorar Bullet Journal  Hacer Manualidades y Decorar Paquetes de Regalo Muebles  océano '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZF9DMZ5/?tag=tolees-21'
 descuento: '73.38'
 average: '7.98'

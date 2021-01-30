@@ -16,6 +16,7 @@ comparePrice: 38.99 EUR
 prodname: 'neefeaer Adaptador USB C a HDMI VGA 4k  USB C Hub con 4K HDMI  1080P VGA  USB 3.0  Carga USB C PD  Compatible con MacBook Pro/Air/DELL XPS/Nintendo Switch/Samsung más'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082X4PMQD/?tag=tolees-21'
 descuento: '46.17'
 average: '20.99'

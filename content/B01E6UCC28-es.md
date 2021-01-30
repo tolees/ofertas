@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Brabantia Sort & Go Cubo Integrado de Basura  Menta y Gris  Pack de 2 x 12 L  2 Unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01E6UCC28/?tag=tolees-21'
 descuento: '58.82'
 average: '39.28'

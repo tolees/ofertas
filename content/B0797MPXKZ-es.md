@@ -16,6 +16,7 @@ comparePrice: 169.0 EUR
 prodname: 'Huawei E5885 - Wi-Fi Móvil  300Mbps de conexión inalámbrica  Wi-Fi Hotspot móvil con 6400mAh de batería  Banda Dual 2.4G&5G  Ranura Tarjeta SIM/Micro SD  hasta un máximo de 32 usuarios   Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0797MPXKZ/?tag=tolees-21'
 descuento: '28.17'
 average: '152.525'

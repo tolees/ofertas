@@ -16,6 +16,7 @@ comparePrice: 20.9 EUR
 prodname: 'Frozen Believe-Mochila Dual  Pequeña '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZTPCWHN/?tag=tolees-21'
 descuento: '59.57'
 average: '8.45'

@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'Asics Mexico 66  Zapatillas Unisex  Blanco  White/White 0101   48 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KWCRQM6/?tag=tolees-21'
 descuento: '43.00'
 average: '43.18333333333333'

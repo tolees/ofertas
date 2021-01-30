@@ -16,6 +16,7 @@ comparePrice: 45.91 EUR
 prodname: 'Luclay Arcilla Polimerica - 48 Colores Segura y No Tóxico Modelado Suave Arcilla Craft Set con Herramientas de Escultura Accesorios y Manuales  los Mejores Regalos para los Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089YQ3D5C/?tag=tolees-21'
 descuento: '49.92'
 average: '22.99'

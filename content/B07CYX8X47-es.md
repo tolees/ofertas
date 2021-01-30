@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Skechers Women s Flex Appeal 3.0-INSIDERS Trainers  Blue  Navy Mesh/Coral Trim Nvcl   4 UK 37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CYX8X47/?tag=tolees-21'
 descuento: '34.64'
 average: '41.252857142857145'

@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'Calcetines de Bambú 3 Pares  Negro  EU 43-47 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T9MVDFH/?tag=tolees-21'
 descuento: '30.08'
 average: '13.95'

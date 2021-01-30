@@ -16,6 +16,7 @@ comparePrice: 39.67 EUR
 prodname: 'Cinturón de la cámara  Uonner Hebilla del cinturón de liberación rápida Aleación de Aluminio Ultraligero Correa Camara de Carga para Cámara Réflex Digital Nikon Canon Sony SLR Gopro  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082X37JZC/?tag=tolees-21'
 descuento: '37.81'
 average: '24.67'

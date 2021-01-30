@@ -16,6 +16,7 @@ comparePrice: 2.29 EUR
 prodname: 'Urban Beauty United Diva Duo - Sacapuntas de Doble Entrada 21 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00I9CXFU8/?tag=tolees-21'
 descuento: '54.15'
 average: '1.53'

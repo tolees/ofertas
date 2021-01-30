@@ -16,6 +16,7 @@ comparePrice: 7.0 EUR
 prodname: 'Rimmel London Stay Matte Liquid Lip Colour Barra De Labios Tono 820 - 21 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071KTGH3Z/?tag=tolees-21'
 descuento: '44.29'
 average: '4.196000000000001'

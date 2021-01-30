@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Trust Sura - Ratón óptico inalámbrico  Negro y Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00K3HEYWK/?tag=tolees-21'
 descuento: '38.91'
 average: '11.49'

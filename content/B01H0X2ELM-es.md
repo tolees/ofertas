@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'South Park: Retaguardia En Peligro - Standard Edition'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01H0X2ELM/?tag=tolees-21'
 descuento: '29.51'
 average: '11.895'

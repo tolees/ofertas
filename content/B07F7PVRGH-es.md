@@ -16,6 +16,7 @@ comparePrice: 98.0 EUR
 prodname: 'Thomas Sabo Colgante Charm con Cierre para Mujer " Vintage Mano"  Plata de Ley 925  Plateado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F7PVRGH/?tag=tolees-21'
 descuento: '51.02'
 average: '48.0'

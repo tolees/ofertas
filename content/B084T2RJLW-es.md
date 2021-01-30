@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'AngLink Ventilador Cuello  Ventilador Portatil  USB Recargable Mini Ventilador de Manos Libres  3 velocidades  rotación Libre de 360 °  luz LED  para Mascotas Viajes Interior Exterior'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084T2RJLW/?tag=tolees-21'
 descuento: '43.35'
 average: '18.332608695652173'

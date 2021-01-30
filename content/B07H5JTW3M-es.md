@@ -16,6 +16,7 @@ comparePrice: 26.14 EUR
 prodname: 'Stranger Things 13072 Figura de acción  varios   color/modelo surtido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H5JTW3M/?tag=tolees-21'
 descuento: '42.73'
 average: '14.97'

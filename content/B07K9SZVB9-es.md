@@ -16,6 +16,7 @@ comparePrice: 16.5 EUR
 prodname: 'Pearl Garland – Carrete redondo de perlas para manualidades  3 mm de diámetro  33 yardas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K9SZVB9/?tag=tolees-21'
 descuento: '29.88'
 average: '11.57'

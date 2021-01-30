@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Jack & Jones Noos Hombre  Azul  Navy Blazer   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VDT3X5F/?tag=tolees-21'
 descuento: '40.01'
 average: '17.99'

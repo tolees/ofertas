@@ -16,6 +16,7 @@ comparePrice: 19.94 EUR
 prodname: 'JVC HA-S160-W - HAS160W Auricular Flat White'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004M7Y7CE/?tag=tolees-21'
 descuento: '30.29'
 average: '13.626666666666667'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'REYLEO Maleta Cabina Rígida PC+ABS Material Equipaje de Mano con Puerto de Carga USB  Candado TSA  4 Ruedas Silenciosas -  55CM - 33L  - Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WDNDSVB/?tag=tolees-21'
 descuento: '25.01'
 average: '29.99'

@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Hurley M Printed Square Trucker Gorra  Hombre  Obsidian  1SIZE'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0848R7FDZ/?tag=tolees-21'
 descuento: '50.03'
 average: '14.99'

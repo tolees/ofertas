@@ -16,6 +16,7 @@ comparePrice: 25.91 EUR
 prodname: 'Shiseido Senscience  Mascarilla de Reparación Profunda  150 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00IRD3ID8/?tag=tolees-21'
 descuento: '42.69'
 average: '14.85'

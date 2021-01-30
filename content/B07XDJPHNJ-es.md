@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Bombilla LED G4  2 W de repuesto para bombillas halógenas de 20 W  3000 K blanco cálido 12 V AC/DC LED  210 lm  sin parpadeo  no regulable  ángulo de haz de 360°  10 unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XDJPHNJ/?tag=tolees-21'
 descuento: '35.02'
 average: '12.99'

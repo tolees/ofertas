@@ -16,6 +16,7 @@ comparePrice: 49 EUR
 prodname: 'Superga 2750 Jcot Classic  Zapatillas Infantil  Gris  M38 Grey Sage   32 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0049SQC0Q/?tag=tolees-21'
 descuento: '83.14'
 average: '8.26'

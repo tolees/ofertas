@@ -16,6 +16,7 @@ comparePrice: 196.99 EUR
 prodname: 'HDML-Cloner Box Turbo  1080p Dispositivo de Captura de HDMI de próxima generación y Caja de grabadora de vídeo. Grabación con Puerto de comunicación de Alta Velocidad. Unidad Flash de 16GB incluida.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076F27YWP/?tag=tolees-21'
 descuento: '28.28'
 average: '141.29'

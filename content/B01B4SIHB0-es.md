@@ -16,6 +16,7 @@ comparePrice: 27.19 EUR
 prodname: 'The Look Of Love [Vinilo]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01B4SIHB0/?tag=tolees-21'
 descuento: '35.31'
 average: '17.59'

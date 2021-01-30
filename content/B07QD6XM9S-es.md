@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'PUMA ESS Logo Beanie Gorro  Unisex Adulto  Black-Big Cat'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QD6XM9S/?tag=tolees-21'
 descuento: '46.82'
 average: '7.95'

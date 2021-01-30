@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Joyeee Niños Bricolaje Conjunto de Cuentas  Set de Abalorios Infantiles Kit de joyería para Joyas DIY Manualid para niños niña Regalo Pulseras Collares DIY Haciendo Kit'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S5R1NFH/?tag=tolees-21'
 descuento: '55.03'
 average: '8.99'

@@ -16,6 +16,7 @@ comparePrice: 16.67 EUR
 prodname: '3 5 mm Macho a 2 5 mm Hembra Adaptador de Audio Chapado en Oro micrófono Adaptador de Audio Extensor de Conector Jack para Smartphones  Altavoces  micrófonos y lectores de Tarjetas 2 Pack'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XPYZW5X/?tag=tolees-21'
 descuento: '50.27'
 average: '8.29'

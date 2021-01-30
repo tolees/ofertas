@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Manga De Vibración De Doble Dedo Vïbradörès Dèdö Cönsöladör Anal Rèalïsta Nègrö Sùccïón Dè Cönèjö Varïta Mágïca Hïtachï Masajèadör Sèxö Jùgùètè Sèxùal Lïmpïadör Mascùlïnös Parèja Cönjùntö Prïmè Dïck'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082TTGMH5/?tag=tolees-21'
 descuento: '60.05'
 average: '13.98'

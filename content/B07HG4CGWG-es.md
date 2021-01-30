@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'New Balance 247v2  Zapatillas para Hombre  Negro  Black Black   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HG4CGWG/?tag=tolees-21'
 descuento: '54.84'
 average: '46.29'

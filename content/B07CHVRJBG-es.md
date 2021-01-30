@@ -16,6 +16,7 @@ comparePrice: 35.9 EUR
 prodname: 'Havaianas Origine Slim  Bailarinas con Correa de Tobillo para Mujer  Rosa  Ballet Rose   41 EU  39 Brazilian '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CHVRJBG/?tag=tolees-21'
 descuento: '75.65'
 average: '8.74'

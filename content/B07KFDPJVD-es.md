@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'USB Recargable Calentador De Manos 6000 mAh Banco De Energía Móvil a Prueba De Explosiones Mini Espejo De Maquillaje Regalo De Invierno Caqui '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KFDPJVD/?tag=tolees-21'
 descuento: '60.03'
 average: '9.19'

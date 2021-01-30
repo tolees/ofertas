@@ -16,6 +16,7 @@ comparePrice: 5.25 EUR
 prodname: 'SYOSS - Reavivador de Rizos y Ondas - Efecto Anti Encrespamiento - 100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NCZWXCZ/?tag=tolees-21'
 descuento: '38.10'
 average: '3.25'

@@ -16,6 +16,7 @@ comparePrice: 350.0 EUR
 prodname: 'Sony UBP-X800M2  Reproductor de Blu-Ray  4K  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B07M7WD3NB/?tag=tolees-21'
 descuento: '31.66'
 average: '285.330163934426'
@@ -27,10 +28,10 @@ En este momento está [Sony UBP-X800M2  Reproductor de Blu-Ray  4K  Negro](https
 
 🔎:
 
-- Imágenes sorprendentes con mejora 4K hasta a 60p
 - ReProductor de Blu-ray 4K UHD con audio de alta resolución, gran compatibilidad de formatos y conversión de señales 4K
-- Diseño antivibración para un sonido más nítido
-- ReProduce prácticamente cualquier disco y formato de archivo
+- Imágenes sorprendentes con mejora 4K hasta a 60p
 - Escucha con mayor detalle con el audio de alta resolución y DSEE HX
+- ReProduce prácticamente cualquier disco y formato de archivo
+- Diseño antivibración para un sonido más nítido
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07M7WD3NB/?tag=tolees-21)

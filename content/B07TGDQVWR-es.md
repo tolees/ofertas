@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Skechers Melson Raymon  Zapatillas para Hombre  Verde  Khaki Canvas Khk   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TGDQVWR/?tag=tolees-21'
 descuento: '55.41'
 average: '29.04'

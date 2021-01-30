@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Love Actually - Edición 2017 [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XCYFKG3/?tag=tolees-21'
 descuento: '30.43'
 average: '6.95'

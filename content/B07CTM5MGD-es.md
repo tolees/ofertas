@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'NAME IT Nkmtheo Dnmclas 2082 Pant Noos Jeans  Azul  Medium Blue Denim Medium Blue Denim   140 para Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CTM5MGD/?tag=tolees-21'
 descuento: '30.01'
 average: '23.09'

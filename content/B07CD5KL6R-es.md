@@ -16,6 +16,7 @@ comparePrice: 699.99 EUR
 prodname: 'MEDION S3409 - MD 60999 - Ordenador portátil de 13.3" Full HD  Intel Core i3-7100U  RAM de 8GB  SSD de 256GB  Intel HD Graphics  Windows 10   plata. Teclado QWERTY español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CD5KL6R/?tag=tolees-21'
 descuento: '43.00'
 average: '471.8915384615384'

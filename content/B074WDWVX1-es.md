@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Belkin Rockstar - Adaptador de Audio de 3.5 mm + Carga  de Puerto Auxiliar para iPhone/de Carga para iPhone 11  11 Pro/Pro Max  XS  XS MAX  XR  8/8 Plus y Otros '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074WDWVX1/?tag=tolees-21'
 descuento: '28.58'
 average: '22.82'

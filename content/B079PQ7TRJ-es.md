@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Funko Pop!- 26464 Marvel: Avengers Infinity War Figura de Vinilo  Multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079PQ7TRJ/?tag=tolees-21'
 descuento: '48.28'
 average: '8.196000000000002'

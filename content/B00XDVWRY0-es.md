@@ -16,6 +16,7 @@ comparePrice: 6.75 EUR
 prodname: 'Kéranove Champú Aclarante a la Camomila - 250 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XDVWRY0/?tag=tolees-21'
 descuento: '34.07'
 average: '4.45'

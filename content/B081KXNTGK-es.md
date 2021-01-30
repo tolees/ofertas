@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'amzdeal Inflador Globo electrico para inflar Globos hinchador Globos electrico para Fiestas  Linda Forma de Cerdo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081KXNTGK/?tag=tolees-21'
 descuento: '44.46'
 average: '19.99'

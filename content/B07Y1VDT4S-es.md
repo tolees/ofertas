@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'TATAY Urban Food Roll&Go Denim Blue - Bolsa térmica porta alimentos enrollable con 2 tápers herméticos incluidos  4.2 l  tela  color tejano con tapers a juego  22 x 11 x 22.5 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y1VDT4S/?tag=tolees-21'
 descuento: '43.50'
 average: '12.99'

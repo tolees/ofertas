@@ -16,6 +16,7 @@ comparePrice: 20.15 EUR
 prodname: 'Under Armour Blitzing II - Gorra  Hombre  Rojo  Red/White 610   M/L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KHD4K5Q/?tag=tolees-21'
 descuento: '50.02'
 average: '10.07'

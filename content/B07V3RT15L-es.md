@@ -16,6 +16,7 @@ comparePrice: 79.9 EUR
 prodname: 'Calvin Klein - Ck Panache 5cc + Coin  Carteras Hombre  Negro  Blackwhite Black   1x1x1 cm  W x H L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V3RT15L/?tag=tolees-21'
 descuento: '50.60'
 average: '43.3025'

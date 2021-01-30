@@ -16,6 +16,7 @@ comparePrice: 13.25 EUR
 prodname: 'Osram Dulux L - Lámpara 36w/840 lumilux 2g11'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000ONJIEC/?tag=tolees-21'
 descuento: '55.02'
 average: '5.96'

@@ -16,6 +16,7 @@ comparePrice: 4.66 EUR
 prodname: 'Pilot 1108/12  Cartucho de Tinta  Paquete de 12  Multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004JXAB2G/?tag=tolees-21'
 descuento: '29.18'
 average: '3.3'

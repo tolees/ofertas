@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Tefal Everyday Slim - Placa de inducción portatil  6 modos automáticos  1 control manual  240 C  hasta 2100 W  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NJK4XX3/?tag=tolees-21'
 descuento: '25.02'
 average: '59.98'

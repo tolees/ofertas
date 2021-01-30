@@ -16,6 +16,7 @@ comparePrice: 23.95 EUR
 prodname: 'Calvin Klein Modern Cotton Ropa Interior  Gris  Grey Heather 020   38 para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00SX0TOOW/?tag=tolees-21'
 descuento: '35.32'
 average: '14.99'

@@ -16,6 +16,7 @@ comparePrice: 105.0 EUR
 prodname: 'Lacoste L1312 Polo  Azul  Rabane Z1g   2XL  Talla del Fabricante: 7  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NOPS6F4/?tag=tolees-21'
 descuento: '51.67'
 average: '51.715'

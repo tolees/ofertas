@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Cepillo alisador eléctrico para barba/pelo 2.0  peine para alisar de cabello  herramientas calientes de estilo rápido  moldeador rápido con antiquemaduras para hombres y mujeres  negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VBXBV3J/?tag=tolees-21'
 descuento: '33.71'
 average: '19.88'

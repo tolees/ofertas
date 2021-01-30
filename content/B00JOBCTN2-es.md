@@ -16,6 +16,7 @@ comparePrice: 32.5 EUR
 prodname: 'Clarins  Loción Corporal Hidratante con Aloe Vera  400 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00JOBCTN2/?tag=tolees-21'
 descuento: '50.92'
 average: '15.95'

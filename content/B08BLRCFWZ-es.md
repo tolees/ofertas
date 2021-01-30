@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'HAVERLAND PUREAIRBOX - Purificador Desinfectador de Aire y Superficies PCO | Eficacia 99 99% | Desinfecta el Aire y Las estancias | Luz UV + Ionizador + OZONO de Baja Concentración | Ultra-Compacto'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BLRCFWZ/?tag=tolees-21'
 descuento: '33.44'
 average: '199.0'

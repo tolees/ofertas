@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'YISSVIC Raqueta Mosquitos Eléctrico  Raqueta Matamoscas Eléctrica Recargable  Mango de Linterna Extraíble  3 Capas de Malla de Seguridad de Protección'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083X5ZXZF/?tag=tolees-21'
 descuento: '41.59'
 average: '13.459999999999997'

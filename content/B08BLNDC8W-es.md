@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Cable USB C Para Xiaomi Pocophone F1 Mi A1 A2 A3 9T Redmi 8 Note 7/8 Pro/8T/9 Pro Max Samsung S20 S20+ S10 S9 A20E A51 A71 A8 A9 2018 Motorola Moto G7 G8 Plus Power Play Tipo C Carga Rápida 2M 2Metros'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BLNDC8W/?tag=tolees-21'
 descuento: '47.18'
 average: '7.39'

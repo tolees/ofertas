@@ -16,6 +16,7 @@ comparePrice: 60 EUR
 prodname: 'Helly Hansen Driftline Polo  Hombre  Negro  XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004ZIPKJE/?tag=tolees-21'
 descuento: '45.45'
 average: '31.0'

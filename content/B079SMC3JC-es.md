@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Desigual Blus_Gala    Navy 5000   Medium para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079SMC3JC/?tag=tolees-21'
 descuento: '74.96'
 average: '15.01'

@@ -16,6 +16,7 @@ comparePrice: 1.99 EUR
 prodname: 'Maizena Shaker Tortitas - 215 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BH8NCQ8/?tag=tolees-21'
 descuento: '49.75'
 average: '1.09875'

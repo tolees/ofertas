@@ -16,6 +16,7 @@ comparePrice: 66.59 EUR
 prodname: 'Lámpara de Escritorio  Lámpara LED de Escritorio Ojos Esmero Luz para Tätowierungs Estudios Lectura Make Up Uñas sintética  Ultra Fino 360 Grados Rotations Metal'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FCM84YD/?tag=tolees-21'
 descuento: '83.05'
 average: '11.29'

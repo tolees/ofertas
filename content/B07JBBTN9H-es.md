@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Diablo III: Battle Chest - Standard | Código Battle.net para PC'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JBBTN9H/?tag=tolees-21'
 descuento: '33.34'
 average: '19.99'

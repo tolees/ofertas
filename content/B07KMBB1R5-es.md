@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Merrell Bare Access XTR  Zapatillas Deportivas para Interior para Hombre  Negro  Black   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KMBB1R5/?tag=tolees-21'
 descuento: '34.55'
 average: '71.99'

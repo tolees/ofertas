@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'GLEGLE 16XL Cartuchos Tinta 12 Multipack Reemplazo para Compatible con EPSON Workforce WF-2630WF WF-2510WF WF-2750DWF WF-2530WF WF-2540WF WF-2760DWF WF-2650DWF WF-2660DWF WF-2520NF WF-2010W'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T5WR76F/?tag=tolees-21'
 descuento: '25.02'
 average: '11.22'

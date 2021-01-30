@@ -16,6 +16,7 @@ comparePrice: 76.66 EUR
 prodname: 'Tommy Hilfiger Tommy Tipped Slim Polo  Azul  Pitch Blue   XX-Large  Talla del Fabricante:  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W7RTRYR/?tag=tolees-21'
 descuento: '61.44'
 average: '29.56'

@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Tommy Hilfiger Bralette Sujetador Deportivo  Negro  BLACK 990   38  talla del fabricante: LG  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00UT2NRDG/?tag=tolees-21'
 descuento: '39.83'
 average: '17.99'

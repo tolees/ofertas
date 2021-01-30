@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Skechers Women s BOBS Squad-Tough Talk Sneakers  Green  Olive Engineered Knit Old   6 UK 39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0784XY4WX/?tag=tolees-21'
 descuento: '27.23'
 average: '36.35'

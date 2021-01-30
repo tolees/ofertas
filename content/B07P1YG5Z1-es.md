@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Himylife HQKJ 160 Bar 2300 PSI 10 Metros Manguera de Limpieza de Tuberías para Limpiadores Comunes Incluir Adaptador para Kärcher'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P1YG5Z1/?tag=tolees-21'
 descuento: '32.51'
 average: '26.99'

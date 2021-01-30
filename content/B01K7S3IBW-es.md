@@ -16,6 +16,7 @@ comparePrice: 2.99 EUR
 prodname: 'Timotei Champú Camomila - 400 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01K7S3IBW/?tag=tolees-21'
 descuento: '56.52'
 average: '1.3'

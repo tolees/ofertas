@@ -16,6 +16,7 @@ comparePrice: 10.58 EUR
 prodname: 'Funko Pop Power Rangers Figura de Vinilo Zack sin Casco  Multicolor  32808 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DFB8DKQ/?tag=tolees-21'
 descuento: '42.82'
 average: '7.125'

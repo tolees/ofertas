@@ -16,6 +16,7 @@ comparePrice: 90 EUR
 prodname: 'New Balance 997H  Zapatillas para Mujer  Gris  Castlerock/White   41.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BL2PDWL/?tag=tolees-21'
 descuento: '50.00'
 average: '45'

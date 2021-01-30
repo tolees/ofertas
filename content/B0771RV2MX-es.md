@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Funko Pop!- Games: Marvel Contest of Champions Venompool Figura de Vinilo  26710 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0771RV2MX/?tag=tolees-21'
 descuento: '46.63'
 average: '8.285'

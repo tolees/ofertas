@@ -16,6 +16,7 @@ comparePrice: 30.36 EUR
 prodname: 'iMiMi - Tabla de planchar de pared para puerta o pared  diseño de hierro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088ZTJZRH/?tag=tolees-21'
 descuento: '40.74'
 average: '17.99'

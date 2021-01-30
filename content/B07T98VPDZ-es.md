@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Helly Hansen Scurry V3  Zapatillas para Hombre  Turquesa  Deep Lagoon/Off White 497   45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T98VPDZ/?tag=tolees-21'
 descuento: '48.92'
 average: '38.31'

@@ -16,6 +16,7 @@ comparePrice: 320 EUR
 prodname: 'Samsonite Neopulse - Spinner S  Ancho: 20 cm  Equipaje de Mano  55 cm  38 L  Marrón  Metallic Sand '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ULI8CRO/?tag=tolees-21'
 descuento: '47.02'
 average: '186.51000000000002'

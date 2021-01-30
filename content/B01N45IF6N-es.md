@@ -16,6 +16,7 @@ comparePrice: 31.23 EUR
 prodname: 'muveacoustics a-Plus inalámbrico portátil Bluetooth Altavoz  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N45IF6N/?tag=tolees-21'
 descuento: '45.79'
 average: '16.96'

@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Optimum Nutrition Suplemento Alimenticio Essential Amino Energy  con Sabor de Cereza - 270 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072MDTTWZ/?tag=tolees-21'
 descuento: '31.44'
 average: '18.3'

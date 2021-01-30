@@ -16,6 +16,7 @@ comparePrice: 269 EUR
 prodname: 'MASERATI Reloj Cronógrafo para Hombre de Cuarzo con Correa en Acero Inoxidable R8873618003'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01AXYMEZ6/?tag=tolees-21'
 descuento: '54.49'
 average: '120.64250000000001'

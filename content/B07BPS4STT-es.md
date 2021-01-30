@@ -16,6 +16,7 @@ comparePrice: 30.85 EUR
 prodname: 'Baoblaze 1 Par de Altavoces Accesorios de Audio Música Estéreo para Coche Automóvil de Multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BPS4STT/?tag=tolees-21'
 descuento: '44.44'
 average: '15.955'

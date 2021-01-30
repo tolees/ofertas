@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Soporte para Móvil BESTEK Soporte para Teléfono Móvil Ajustable detro de 7cm de Ancho con Pinza y Brazo Soporte Universal para Smartphones'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00J96Q4ZG/?tag=tolees-21'
 descuento: '36.86'
 average: '11.99'

@@ -16,6 +16,7 @@ comparePrice: 1.37 EUR
 prodname: 'YAZILIND Joyería Hecha a Mano con Encanto étnica de Plata tibetana Rimous Turquesa Lindo Brazalete de la Pulsera de Regalo para Mujeres'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00GDAJ0SO/?tag=tolees-21'
 descuento: '64.96'
 average: '0.48'

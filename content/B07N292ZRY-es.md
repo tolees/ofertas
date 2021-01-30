@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Maleta de cabina rígida 55cm Movom Trafalgar Amarilla'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N292ZRY/?tag=tolees-21'
 descuento: '30.09'
 average: '51.965'

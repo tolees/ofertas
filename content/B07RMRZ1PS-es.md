@@ -16,6 +16,7 @@ comparePrice: 4.43 EUR
 prodname: 'Rimmel London Lip Art gaphic barra de labios Tono 550  8 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RMRZ1PS/?tag=tolees-21'
 descuento: '32.28'
 average: '3.0'

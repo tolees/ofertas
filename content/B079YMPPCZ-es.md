@@ -16,6 +16,7 @@ comparePrice: 12.94 EUR
 prodname: 'Funko Pop!- Unmasked Spider-Man Figura de Vinilo  30633 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079YMPPCZ/?tag=tolees-21'
 descuento: '27.51'
 average: '9.38'

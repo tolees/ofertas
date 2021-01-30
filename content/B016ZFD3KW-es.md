@@ -16,6 +16,7 @@ comparePrice: 11.98 EUR
 prodname: 'Kepuch Custer Funda para Kindle Paperwhite 1/2/3 2012 2013 2015 2016 Slim Smart Cover Fundas Carcasa Case Protectora de PU-Cuero para Kindle Paperwhite 1/2/3 2012 2013 2015 2016 - Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B016ZFD3KW/?tag=tolees-21'
 descuento: '25.04'
 average: '8.98'

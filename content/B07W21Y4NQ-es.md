@@ -16,6 +16,7 @@ comparePrice: 13.87 EUR
 prodname: 'Jack & Jones Jormastul Sweat Hood Capucha  Azul  Navy Blazer Fit: Reg   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W21Y4NQ/?tag=tolees-21'
 descuento: '30.35'
 average: '13.405'

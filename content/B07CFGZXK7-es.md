@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'JACK & JONES Jjipaul Jjflake AKM 542 Noos Pantalones  Negro  Black Black   W30/L34  Talla del Fabricante: 30  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CFGZXK7/?tag=tolees-21'
 descuento: '36.01'
 average: '31.99'

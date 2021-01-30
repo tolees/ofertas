@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Chupa Chups Original  Caramelo con Palo de Sabores a Fresa  Super Chups 20 unidades de 12 gr.  Total 240 gr. '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CP8BF26/?tag=tolees-21'
 descuento: '37.10'
 average: '8.333333333333336'

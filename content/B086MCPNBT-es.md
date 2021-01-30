@@ -16,6 +16,7 @@ comparePrice: 10.98 EUR
 prodname: 'Oihxse Funda para OPPO Realme 3/Realme 3i Transparente  Estuche con OPPO Realme 3/Realme 3i Ultra-Delgado Silicona TPU Suave Protectora Carcasa Océano Animal Serie Bumper  C1 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086MCPNBT/?tag=tolees-21'
 descuento: '27.32'
 average: '7.98'

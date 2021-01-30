@@ -16,6 +16,7 @@ comparePrice: 58.99 EUR
 prodname: 'Reebok Te Woven Tracksuit Chándal  Hombre  Negro  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DSCCJHY/?tag=tolees-21'
 descuento: '47.47'
 average: '30.99'

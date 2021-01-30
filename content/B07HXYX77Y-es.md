@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'ESPRIT Maternity Legging OTB Pantalones de deporte premamá  Negro  Black 001 - N1984103    XL/XXL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HXYX77Y/?tag=tolees-21'
 descuento: '39.39'
 average: '36.36'

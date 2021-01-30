@@ -16,6 +16,7 @@ comparePrice: 21.69 EUR
 prodname: 'Grsta Botella de Agua Acero Inoxidable sin BPA Pared 500ml/Musgo Verde Completo Aislada al Vacío Doble Botellas Termica Ecológica Reutilizable Prueba de Fugas Niños Deporte Dormitorio Gimnasio Hogar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083BDT7VJ/?tag=tolees-21'
 descuento: '29.05'
 average: '15.39'

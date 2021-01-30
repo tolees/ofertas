@@ -16,6 +16,7 @@ comparePrice: 7.95 EUR
 prodname: 'Brabantia 298301 - Tarro de Cristal  0.3 L  Tapa Gris Oscuro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00JFWP5U4/?tag=tolees-21'
 descuento: '40.00'
 average: '4.77'

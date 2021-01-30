@@ -16,6 +16,7 @@ comparePrice: 6.0 EUR
 prodname: 'Rimmel London Stay Matte Base de Maquillaje Tono 200 Soft Beige - 30 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00EY9UPI0/?tag=tolees-21'
 descuento: '50.83'
 average: '2.95'

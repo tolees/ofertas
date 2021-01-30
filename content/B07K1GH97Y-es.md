@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Mini Vibrador Neo muy potente/Masajeador perfecto para uso externo/Ideal para jugar por todo el cuerpo  para hombre y mujer  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K1GH97Y/?tag=tolees-21'
 descuento: '30.02'
 average: '14.323333333333334'

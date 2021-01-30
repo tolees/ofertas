@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Micoke Cámara de Caza 16MP 1080P IP65 Impermeable 36 LED de IR Invisible 2.4   LCD 3 Sensores PIR Visión Nocturna hasta 25m para Vigilancia de monitores de Vida Silvestre Seguridad en el Hogar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M5VZ3CK/?tag=tolees-21'
 descuento: '53.85'
 average: '59.99'

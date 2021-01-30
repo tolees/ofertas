@@ -16,6 +16,7 @@ comparePrice: 2.95 EUR
 prodname: 'Magno - Gel de Ducha Black - Energizante con toque cítrico- 1 unidad de 550ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N6NQ7ZJ/?tag=tolees-21'
 descuento: '45.76'
 average: '2.791428571428572'

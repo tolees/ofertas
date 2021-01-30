@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'AiRunTech Cinturón de Correr para Botellas de Agua Bolsa Deportiva Riñonera Impermeable Running con Bandas Reflectantes Multi-Capa Alta Capacidad para Deportes Gimnasio para Móvil de 6 Pulgadas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078WMYG5Z/?tag=tolees-21'
 descuento: '27.59'
 average: '18.82'

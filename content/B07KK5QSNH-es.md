@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Saucony Jazz Original Vitnage  Zapatillas para Hombre  Verde Verde Oliva 88  41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KK5QSNH/?tag=tolees-21'
 descuento: '26.82'
 average: '69.52'

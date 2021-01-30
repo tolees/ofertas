@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'POP! Vinilo - DC: DC Bombshells Katana'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NBEPK9J/?tag=tolees-21'
 descuento: '37.37'
 average: '9.49'

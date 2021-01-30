@@ -16,6 +16,7 @@ comparePrice: 5.25 EUR
 prodname: 'Duracell - Plus C  Pilas Alcalinas  paquete de 2  1.5 Voltios LR14 MX1400'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004W7GYCK/?tag=tolees-21'
 descuento: '48.19'
 average: '2.72'

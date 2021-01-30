@@ -16,6 +16,7 @@ comparePrice: 69.9 EUR
 prodname: 'Tommy Hilfiger Classic Low Tommy Jeans Sneaker  Zapatillas para Hombre  Azul  Twilight Navy C87   45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V8V9WVF/?tag=tolees-21'
 descuento: '54.11'
 average: '32.08'

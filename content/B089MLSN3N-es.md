@@ -16,6 +16,7 @@ comparePrice: 11.5 EUR
 prodname: 'Molyflower El más Nuevo B17 Pulsera Deportiva Inteligente Saludable Monitor de sueño Pulsera de Temperatura Reloj Inteligente - Negro + Verde Oscuro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089MLSN3N/?tag=tolees-21'
 descuento: '33.48'
 average: '7.65'

@@ -16,6 +16,7 @@ comparePrice: 0.59 EUR
 prodname: 'Tamaño compacto RF Presentador inalámbrico Puntero PPT Presentación Control remoto Pluma Presentación Puntero Clip s'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WYYYCY2/?tag=tolees-21'
 descuento: '98.31'
 average: '0.01'

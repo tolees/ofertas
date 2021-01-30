@@ -16,6 +16,7 @@ comparePrice: 8.95 EUR
 prodname: 'Manguitos Hinchables Bestway Spiderman'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KII9OOC/?tag=tolees-21'
 descuento: '33.97'
 average: '5.7'

@@ -16,6 +16,7 @@ comparePrice: 22.78 EUR
 prodname: 'Amazon Essentials Full-Zip High-Pile Polar Fleece Jacket Outerwear-Jackets  púrpura Fresco  24 meses'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q1DGYNB/?tag=tolees-21'
 descuento: '35.91'
 average: '14.6'

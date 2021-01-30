@@ -16,6 +16,7 @@ comparePrice: 11.0 EUR
 prodname: 'TATAY Urban Food Roll & Go Bolsa Porta Alimentos Isotérmica Enrollable  Tela  Teja  No incluye tapers  6x22x28 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0721YVYDF/?tag=tolees-21'
 descuento: '45.45'
 average: '7.62'

@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Godya Pendientes de Tejido con Papel higiénico Divertido para niñas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0881V3BKF/?tag=tolees-21'
 descuento: '30.03'
 average: '6.99'

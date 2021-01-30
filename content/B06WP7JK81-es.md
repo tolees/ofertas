@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'LIBERRWAY Tubo Termorretráctil 615 Piezas 2: 1 Poliolefina Tubo Termoretráctil Envoltura de Alambre 6 Color 8 Tamaño'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06WP7JK81/?tag=tolees-21'
 descuento: '37.52'
 average: '9.99'

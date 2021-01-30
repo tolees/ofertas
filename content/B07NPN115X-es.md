@@ -16,6 +16,7 @@ comparePrice: 79.9 EUR
 prodname: 'Tommy Hilfiger Corporate Flatform Sneaker  Zapatillas para Mujer  Azul  Midnight 403 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NPN115X/?tag=tolees-21'
 descuento: '38.00'
 average: '40.135'

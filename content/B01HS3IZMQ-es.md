@@ -16,6 +16,7 @@ comparePrice: 24.46 EUR
 prodname: 'Cafés Granell - Exotic Collection - Sulawesi  Café en Grano 100% Café Arabicay  Café Premium de Cuerpo Cremoso y Fragancia Inconfundible  100 Gramos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HS3IZMQ/?tag=tolees-21'
 descuento: '42.27'
 average: '14.526666666666667'

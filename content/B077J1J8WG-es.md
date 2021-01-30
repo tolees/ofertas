@@ -16,6 +16,7 @@ comparePrice: 110.47 EUR
 prodname: 'Casio Reloj Digital para Mujer de Cuarzo con Correa en Resina BGD-560-4ER'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077J1J8WG/?tag=tolees-21'
 descuento: '27.94'
 average: '79.6'

@@ -16,6 +16,7 @@ comparePrice: 2.95 EUR
 prodname: 'NANOCABLE 10.20.0401 - Cable de Red Ethernet RJ45 Cat.6 UTP AWG24  100% Cobre  Gris  latiguillo de 1mts'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00AKBSB1E/?tag=tolees-21'
 descuento: '40.68'
 average: '1.966'

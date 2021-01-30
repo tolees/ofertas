@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'PawHut Inodoro de Bandeja para Perros Césped Artificial 3 Capas Lavable Hacer PIS Pipi Orinar Mascota'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N98BG6W/?tag=tolees-21'
 descuento: '60.01'
 average: '23.99'

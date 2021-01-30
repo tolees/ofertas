@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'adidas Advantage  Sneaker Mens  Footwear White/Footwear White/Dark Blue  42 2/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DNDPBTS/?tag=tolees-21'
 descuento: '28.92'
 average: '49.75'

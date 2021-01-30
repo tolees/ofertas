@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'Juguetrónica- Wonder Cube Cubo infinito  Multicolor  JUG0322    color/modelo surtido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KQ2P4Z7/?tag=tolees-21'
 descuento: '62.45'
 average: '3.0'

@@ -16,6 +16,7 @@ comparePrice: 10.14 EUR
 prodname: 'Molyflower Caja de conservación Blanca Fresca Caja de conservación de microondas para Cocina Caja de Almacenamiento de Alimentos para refrigerador Contenedor de microondas - Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0895PFFCL/?tag=tolees-21'
 descuento: '33.53'
 average: '6.74'

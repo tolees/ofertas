@@ -16,6 +16,7 @@ comparePrice: 112.99 EUR
 prodname: 'Philips Satinelle Advanced BRE650/00 - Depiladora para uso en seco y húmedo  8 accesorios para piernas  cuerpo y cara  color dorado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BNMSYLA/?tag=tolees-21'
 descuento: '29.24'
 average: '77.03333333333333'

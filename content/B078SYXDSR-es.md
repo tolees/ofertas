@@ -16,6 +16,7 @@ comparePrice: 290.0 EUR
 prodname: 'Seiko Reloj Analógico para Hombre de Automático con Correa en Acero Inoxidable SRPB81K1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078SYXDSR/?tag=tolees-21'
 descuento: '34.96'
 average: '188.62'

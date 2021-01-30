@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'ESSEASON Manta Eléctrica Lumbar y Cervical - Esterilla Eléctrica Espalda Almohadilla Termica  30 x 60cm   Temperatura de 6 Engranajes el Calefacción Rápido  4 Configuraciones de Temporizador  Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XK1WRHC/?tag=tolees-21'
 descuento: '37.94'
 average: '20.99'

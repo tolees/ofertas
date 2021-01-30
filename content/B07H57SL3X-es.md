@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'AZDOME Mini Altavoz Bluetooth Portatiles Pequeño 5W│Altavoz Inalámbrico con 8 Horas de Reproducción│Bluetooth 4.2 y Estéreo Sonido 360°│Compatible con Teléfonos iPhone  Samsung y Tableta PC'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H57SL3X/?tag=tolees-21'
 descuento: '57.71'
 average: '10.99'

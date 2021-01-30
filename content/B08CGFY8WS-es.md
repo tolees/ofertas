@@ -16,6 +16,7 @@ comparePrice: 23.98 EUR
 prodname: 'MENNYO Posavasos Originales  Juego de 14 Posavasos de Fieltro con Caja  Posavasos Hexágono para Regalo Protección de Mesa Coasters para Bebidas frías y Calientes  Café  Vasos  Tazas  Vino Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CGFY8WS/?tag=tolees-21'
 descuento: '54.17'
 average: '10.99'

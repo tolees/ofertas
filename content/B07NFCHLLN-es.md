@@ -16,6 +16,7 @@ comparePrice: 50.21 EUR
 prodname: 'Casio Reloj Analógico para Mujer de Cuarzo con Correa en Resina LRW-200H-9EVEF'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NFCHLLN/?tag=tolees-21'
 descuento: '52.64'
 average: '23.764285714285716'

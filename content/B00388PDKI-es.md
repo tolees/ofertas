@@ -16,6 +16,7 @@ comparePrice: 27.95 EUR
 prodname: 'Advance Pienso para Gato Adulto con Pollo y Arroz - 3000 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00388PDKI/?tag=tolees-21'
 descuento: '38.03'
 average: '16.18'

@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Clarks Sift Lace  Zapatillas para Mujer  Blanco  White Combi White Combi   39.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TQWGZDH/?tag=tolees-21'
 descuento: '71.98'
 average: '28.01'

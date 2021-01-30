@@ -16,6 +16,7 @@ comparePrice: 35.21 EUR
 prodname: 'Promini - Body para bebé con texto en inglés "I Love Mom and Dad"'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086QM6XZ8/?tag=tolees-21'
 descuento: '61.32'
 average: '13.62'

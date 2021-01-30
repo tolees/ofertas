@@ -16,6 +16,7 @@ comparePrice: 139.99 EUR
 prodname: 'Amazfit Pace Black Pulsera Inteligente con Ritmo Cardíaco y GPS  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XG5HR97/?tag=tolees-21'
 descuento: '50.71'
 average: '109.72699999999999'

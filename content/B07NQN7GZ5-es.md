@@ -16,6 +16,7 @@ comparePrice: 48.99 EUR
 prodname: 'Zapatillas de Montaña Impermeable diseñados para Senderismo Trekking montaña Deportes al Aire Libre A Prueba de Golpes  duraderos  Transpirables y Antideslizante'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NQN7GZ5/?tag=tolees-21'
 descuento: '44.91'
 average: '26.99'

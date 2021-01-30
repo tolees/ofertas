@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'Soundcore Life Q10 Auriculares Bluetooth Inalámbricos con Diseño Plegable Sonido Hi-Res Certificados 60 Horas de duración de la batería para Home Office Iniciativa en línea Conferencias  Black '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SHG4H92/?tag=tolees-21'
 descuento: '34.79'
 average: '29.99'

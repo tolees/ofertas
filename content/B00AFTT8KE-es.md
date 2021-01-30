@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'Fossil Reloj Analogico para Mujer de Cuarzo con Correa en Acero Inoxidable ES3284'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00AFTT8KE/?tag=tolees-21'
 descuento: '30.00'
 average: '88.48666666666666'

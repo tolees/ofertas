@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Kärcher 1.633-510.0 - Limpiador Eléctrico Ventana WV 6 Plus  100 min de autonomía'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L6RCYZM/?tag=tolees-21'
 descuento: '33.34'
 average: '64.556'

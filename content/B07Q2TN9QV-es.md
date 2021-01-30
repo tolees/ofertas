@@ -16,6 +16,7 @@ comparePrice: 28.22 EUR
 prodname: 'Dihope  zapatillas de deporte para mujer  zapatillas deportivas  zapatillas de tacón plano  fitness  gimnasio  multipuertos  al aire libre  casual  para primavera  verano dorado 36'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q2TN9QV/?tag=tolees-21'
 descuento: '71.12'
 average: '8.15'

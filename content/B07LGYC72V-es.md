@@ -16,6 +16,7 @@ comparePrice: 40.99 EUR
 prodname: 'Bolsas de Cuero con Clip de Cinturón Hombre - 5.2"/6.3" In Funda de Piel Funda para Cinturón Clip Cinturón Caso  Case Protectora Pouch Bag para Teléfono Móvil  Teléfonos Inferiores 5.2IN  Marrón '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LGYC72V/?tag=tolees-21'
 descuento: '51.23'
 average: '19.99'

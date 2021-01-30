@@ -16,6 +16,7 @@ comparePrice: 119.95 EUR
 prodname: 'Under Armour UA HOVR Sonic 3  Zapatillas Ligeras para Correr  de Alto Rendimiento para Hombre  Azul  Water/Spackle Blue/Orange Spark  400  400   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PVQL72J/?tag=tolees-21'
 descuento: '46.34'
 average: '64.36'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'SUNLU filamento PLA de 1.75 mm  filamento de impresión 3D poco olor  precisión dimensional +/- 0.02 mm  2.2 LBS  1 KG  Filamento 3D de carrete para impresoras 3D y plumas 3D  Salmon Orange PLA +'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P6M5MD2/?tag=tolees-21'
 descuento: '50.01'
 average: '19.49'

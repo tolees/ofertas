@@ -16,6 +16,7 @@ comparePrice: 8.28 EUR
 prodname: 'Anyutai Hermosa Starfish Beach Crafts Garden Decoration Hand Picking Party 50 Piezas Mini'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WNFY1N7/?tag=tolees-21'
 descuento: '36.23'
 average: '4.86'

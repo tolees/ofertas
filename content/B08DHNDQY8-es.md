@@ -16,6 +16,7 @@ comparePrice: 7.78 EUR
 prodname: 'VPbao - 50 hojas de papel de origami para álbumes de recortes  tarjetas  decoración del hogar  fiestas y manualidades  papel  15 x 15 cm  10 colores/50 unidades.  talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08DHNDQY8/?tag=tolees-21'
 descuento: '29.69'
 average: '5.47'

@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'PUMA ST Activate Jr  Zapatillas Unisex Niños  Calypso Coral White  37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KFXGHJ5/?tag=tolees-21'
 descuento: '62.75'
 average: '14.88'

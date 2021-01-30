@@ -16,6 +16,7 @@ comparePrice: 41.84 EUR
 prodname: 'KM-Gaming K-GM2 PMW3330 - Ratón óptico para Videojuegos  7 200 CPI  USB  Sensor Pixart PMW3330  Marco de Metal  Interruptor Omron programable '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X8GM42T/?tag=tolees-21'
 descuento: '31.12'
 average: '29.215'

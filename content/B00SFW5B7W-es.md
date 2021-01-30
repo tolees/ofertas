@@ -16,6 +16,7 @@ comparePrice: 363.0 EUR
 prodname: 'Kuhn Rikon Set de 2 ollas a presión con Asas  4 L + 8 L  24 cm  centimeters'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00SFW5B7W/?tag=tolees-21'
 descuento: '39.52'
 average: '219.55'

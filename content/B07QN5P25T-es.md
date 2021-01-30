@@ -16,6 +16,7 @@ comparePrice: 16.08 EUR
 prodname: 'Bourjois  Máscara - 1 Unidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QN5P25T/?tag=tolees-21'
 descuento: '50.12'
 average: '8.02'

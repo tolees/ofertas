@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'Philips Avent SCD303/01- Kit de cristal natural para recién nacidos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FMYR4RK/?tag=tolees-21'
 descuento: '51.12'
 average: '23.82333333333333'

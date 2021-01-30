@@ -16,6 +16,7 @@ comparePrice: 8.75 EUR
 prodname: 'Blevit Plus Blevit Plus Papilla 8 Cereales Y Fruta Para Biberón 600 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZH5R5LP/?tag=tolees-21'
 descuento: '30.29'
 average: '6.1'

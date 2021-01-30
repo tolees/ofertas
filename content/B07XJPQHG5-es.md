@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'PUMA ftblNXT Team Sleeve Espinillera Futbol  Unisex-Adult  Ultra Yellow/Black  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XJPQHG5/?tag=tolees-21'
 descuento: '25.02'
 average: '11.21'

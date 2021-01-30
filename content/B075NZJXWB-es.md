@@ -16,6 +16,7 @@ comparePrice: 149.0 EUR
 prodname: 'Apple - Funda de Piel  para el iPad Pro de 10 5 Pulgadas  - Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075NZJXWB/?tag=tolees-21'
 descuento: '52.09'
 average: '68.03181818181818'

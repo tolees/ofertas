@@ -16,6 +16,7 @@ comparePrice: 24.9 EUR
 prodname: 'Inulina BIO en Polvo Vegavero® | Prebiótico Orgánico Sin Aditivos | Original de México | Flora Intestinal + Colon + Tránsito Intestinal | Con CALCIO + MAGNESIO | Fibra en Polvo | Vegano'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PM6P34B/?tag=tolees-21'
 descuento: '28.11'
 average: '17.9'

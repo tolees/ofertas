@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'Brabantia 112126 Cubo de Basura con Pedal  Acero Inoxidable  Blanco  3 l'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LXCYQLR/?tag=tolees-21'
 descuento: '40.52'
 average: '16.546666666666667'

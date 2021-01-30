@@ -16,6 +16,7 @@ comparePrice: 3.25 EUR
 prodname: 'La Toja Selection - Gel de Baño Esencia de Madera de Cedro y Ginkgo - 500ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QC5TL1W/?tag=tolees-21'
 descuento: '29.85'
 average: '2.28'

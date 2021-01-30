@@ -16,6 +16,7 @@ comparePrice: 128.13 EUR
 prodname: 'Pack Bones Temporada 1-12 [DVD]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071LKY1P4/?tag=tolees-21'
 descuento: '30.11'
 average: '82.43076923076923'

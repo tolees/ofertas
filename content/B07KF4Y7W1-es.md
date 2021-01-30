@@ -16,6 +16,7 @@ comparePrice: 59 EUR
 prodname: 'Levi s 511 Slim Hemmed Short Pantalones Cortos  Negro  Eight Ball 0088   W32  Talla del Fabricante: 32  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KF4Y7W1/?tag=tolees-21'
 descuento: '50.00'
 average: '29.5'

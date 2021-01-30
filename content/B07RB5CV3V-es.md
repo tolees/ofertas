@@ -16,6 +16,7 @@ comparePrice: 16.49 EUR
 prodname: 'PUMA Originals Gym Sack Bolsa De Cuerdas  Adultos Unisex  Black  OSFA'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RB5CV3V/?tag=tolees-21'
 descuento: '42.45'
 average: '9.49'

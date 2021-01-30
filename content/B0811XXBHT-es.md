@@ -16,6 +16,7 @@ comparePrice: 1.72 EUR
 prodname: '8CM / 15CM FPV Cámara Cable FPC Cable para Hawkeye Firefly 4K Split HD Grabación DVR RC Drone Accesorios para cámara - Blanco y Azul y Amarillo - 15cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0811XXBHT/?tag=tolees-21'
 descuento: '31.98'
 average: '1.17'

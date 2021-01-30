@@ -16,6 +16,7 @@ comparePrice: 20.14 EUR
 prodname: 'Herbalgem - 22450010 - Balsamo consuelda Bio - 100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PHPBRD3/?tag=tolees-21'
 descuento: '51.29'
 average: '11.9'

@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Salomon Sense Feel GTX  Zapatillas para Correr para Hombre  Gris  Quarry/Pearl Blue/Flint Stone   43 1/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RFNGH3B/?tag=tolees-21'
 descuento: '45.38'
 average: '54.61'

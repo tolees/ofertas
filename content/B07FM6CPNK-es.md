@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'TiaoBug S-XXL 3Pcs Mujer Disfraz de Chica Japonesa Cosplay Traje de Marinero JK Uniformes Escolares Japoneses y Coreanos Estilo Británico para Chicas Blanco S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FM6CPNK/?tag=tolees-21'
 descuento: '58.76'
 average: '16.49'

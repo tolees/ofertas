@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Wpro SKS101 Stacking kit - Piezas y accesorios de secadoras  Stacking kit  White  Plastic  Box  CE  600 mm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ZA6URIY/?tag=tolees-21'
 descuento: '40.01'
 average: '41.99'

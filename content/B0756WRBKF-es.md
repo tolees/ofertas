@@ -16,6 +16,7 @@ comparePrice: 101.99 EUR
 prodname: 'Aigostar Tank 30JRI - Aspirador ciclónico sin bolsa  700 W  filtro HEPA  silencioso 76dB. Recogida automática de cable  fácil desplazamiento. [Clase A]. [Clase de eficiencia energética A]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0756WRBKF/?tag=tolees-21'
 descuento: '42.21'
 average: '58.94'

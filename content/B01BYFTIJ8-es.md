@@ -16,6 +16,7 @@ comparePrice: 29.85 EUR
 prodname: 'S&R Disco Diamante 125 mm para corte de Porcelanico  Cerámica dura  Azulejos  Mármol  Granito  Piedra caliza y otros materiales duros. Calidad Profesional'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BYFTIJ8/?tag=tolees-21'
 descuento: '56.55'
 average: '13.280000000000001'

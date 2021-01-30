@@ -16,6 +16,7 @@ comparePrice: 85.0 EUR
 prodname: 'Alessi | GAG02 Sbriciola Tabla de Cortar de Bambú con Recogedor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007TJCESQ/?tag=tolees-21'
 descuento: '25.33'
 average: '63.47'

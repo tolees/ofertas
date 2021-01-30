@@ -16,6 +16,7 @@ comparePrice: 11.68 EUR
 prodname: 'Wolfcraft 2178000 2178000-1 Juego Hobby Metales  plástico  marmol etc. Contenido: Pasta de Pulido  Mandril de sujeción  Fieltro  Disco de Algodon'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0011LQGBE/?tag=tolees-21'
 descuento: '28.94'
 average: '8.3'

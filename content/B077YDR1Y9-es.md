@@ -16,6 +16,7 @@ comparePrice: 273.48 EUR
 prodname: 'Accurist Reloj de Pulsera 7101.01'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077YDR1Y9/?tag=tolees-21'
 descuento: '65.69'
 average: '95.828'

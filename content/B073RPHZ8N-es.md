@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Columbia Drainmaker IV  Zapatillas para Hombre  Negro  Black  Lux 010   43.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073RPHZ8N/?tag=tolees-21'
 descuento: '36.67'
 average: '57.49'

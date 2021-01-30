@@ -16,6 +16,7 @@ comparePrice: 17.16 EUR
 prodname: 'DH Sports Grofitness Calcetines de compresión para Correr  Baloncesto  fútbol  Ciclismo  Correr  Senderismo  Color 1 par de Aceitunas  tamaño Talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XCLP6RH/?tag=tolees-21'
 descuento: '40.03'
 average: '10.29'

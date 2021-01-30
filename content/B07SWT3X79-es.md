@@ -16,6 +16,7 @@ comparePrice: 129.95 EUR
 prodname: 'adidas X 19.2 FG  Zapatillas de Fútbol para Hombre  Verde  Legacy Green/Solar Orange/Chalk White Legacy Green/Solar Orange/Chalk White   40 2/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SWT3X79/?tag=tolees-21'
 descuento: '47.95'
 average: '67.64'

@@ -16,6 +16,7 @@ comparePrice: 13.95 EUR
 prodname: 'L Oreal Paris Color Riche 376 Cassis Passion Barra de Labios Frambuesa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B008YIPPT6/?tag=tolees-21'
 descuento: '44.73'
 average: '7.6125'

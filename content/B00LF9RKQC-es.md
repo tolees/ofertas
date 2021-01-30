@@ -16,6 +16,7 @@ comparePrice: 9.5 EUR
 prodname: 'Brabantia 380020 - Pincel de repostería Grande  Acero y Silicona  Color Gris y Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00LF9RKQC/?tag=tolees-21'
 descuento: '33.79'
 average: '6.756666666666667'

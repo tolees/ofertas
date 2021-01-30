@@ -16,6 +16,7 @@ comparePrice: 13.51 EUR
 prodname: 'Nike B Dri-FIT Academy Wpz Pantalones  Niños  Azul  Obsidian/Obsidian   XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KKWKQCS/?tag=tolees-21'
 descuento: '41.08'
 average: '7.96'

@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Funda iPhone 11 Pro MAX  Fundas 11Pro MAX Libro  Carcasa iPhone11ProMax con Cierre Magnético  Tarjetero y Suporte  Capa Phone Plegable Cartera  Flip Cover Case  Tipo Étui Piel Protección. Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XQCG6RJ/?tag=tolees-21'
 descuento: '61.13'
 average: '13.99'

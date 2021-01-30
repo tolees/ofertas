@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'DEWALT DWE4056-QS - Mini Amoladora 115mm  800W  11.800 rpm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BU0HENO/?tag=tolees-21'
 descuento: '35.52'
 average: '58.515'

@@ -16,6 +16,7 @@ comparePrice: 7.7 EUR
 prodname: 'Kiokids C/C - Porta chupetes esterilizador  unisex  color transparente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074FWBHH3/?tag=tolees-21'
 descuento: '80.52'
 average: '2.2'

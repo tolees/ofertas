@@ -16,6 +16,7 @@ comparePrice: 20.59 EUR
 prodname: 'Biokat s Diamond Care Fresh  arena para gatos con fragancia - Arena aglomerante para gatos: de alta calidad  con carbón activo y aloe vera - 1 bolsa de papel  1 x 10 l '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CPK4T22/?tag=tolees-21'
 descuento: '51.48'
 average: '9.99'

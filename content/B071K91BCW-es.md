@@ -16,6 +16,7 @@ comparePrice: 20.9 EUR
 prodname: 'Flor Suavizante Regular Azul Profesional - 10000 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071K91BCW/?tag=tolees-21'
 descuento: '49.71'
 average: '10.51'

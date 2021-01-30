@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'Nike Park18 Knit Pantalónes de Entrenamiento  Hombre  Negro  Black/White   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07921SVGS/?tag=tolees-21'
 descuento: '31.19'
 average: '22.7'

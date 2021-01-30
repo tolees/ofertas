@@ -16,6 +16,7 @@ comparePrice: 45 EUR
 prodname: 'adidas W Mh 3s Dk Pant Sport Trousers  Mujer  Black/White  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SDH83DK/?tag=tolees-21'
 descuento: '30.84'
 average: '31.12'

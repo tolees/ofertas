@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Anillo de luz LED  10" Ring Light 3 Colores 10 Brillos Regulables Control Remoto Bluetooth  Aro De Luz LED Regulable con Trípode para Fotografia  Teléfono  Maquillaje  Selfie  Youtube  Vlog'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088TL1CCR/?tag=tolees-21'
 descuento: '30.56'
 average: '24.99'

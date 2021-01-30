@@ -16,6 +16,7 @@ comparePrice: 5.55 EUR
 prodname: '3.5mm Auriculares Auriculares Auriculares Auriculares Estéreo para iPhone iPod MP3 MP4 PC Tableta Exquisitamente diseñado Duradero Precioso'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089GLVHSM/?tag=tolees-21'
 descuento: '40.00'
 average: '3.33'

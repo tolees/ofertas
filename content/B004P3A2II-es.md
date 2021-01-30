@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Dickies Original 874 Work Pant  Pantalones Para Hombre  Negro  32x34'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004P3A2II/?tag=tolees-21'
 descuento: '78.18'
 average: '12.0'

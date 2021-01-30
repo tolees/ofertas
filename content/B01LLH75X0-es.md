@@ -16,6 +16,7 @@ comparePrice: 32.14 EUR
 prodname: 'Monix Mineral - Cazo 16 cm aluminio forjado con antiadherente  tipo piedra  sin PFOA  aptas inducción'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LLH75X0/?tag=tolees-21'
 descuento: '31.58'
 average: '20.49'

@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Garmin Vivosmart HR Activity Tracker correa de reloj de repuesto  accesorios correa de reloj de silicona'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0788LCNCZ/?tag=tolees-21'
 descuento: '65.03'
 average: '6.99'

@@ -16,6 +16,7 @@ comparePrice: 13.34 EUR
 prodname: 'Mommy Hook Stroller Hanger  Houkiper Ganchos Multiusos Antideslizantes más Grandes para Bolsas de pañales  Bolsas de Compras  comestibles  Ropa  Acampar en Bolsos  excursiones  Silver'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SWW6H27/?tag=tolees-21'
 descuento: '77.59'
 average: '2.99'

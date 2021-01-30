@@ -16,6 +16,7 @@ comparePrice: 10.88 EUR
 prodname: 'St Moritz  Autobronceador corporal  piel normal  - 200 ml.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002QA1VDW/?tag=tolees-21'
 descuento: '39.98'
 average: '6.5225'

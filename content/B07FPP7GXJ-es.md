@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Relaxdays 10022959 Cubo de Basura Empotrable  con Tapa  Higiénico  Residuos Orgánicos  Acero  29.5 x 26.5 cm  Plateado/Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FPP7GXJ/?tag=tolees-21'
 descuento: '27.75'
 average: '35.8'

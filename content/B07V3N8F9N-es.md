@@ -16,6 +16,7 @@ comparePrice: 31.2 EUR
 prodname: 'Pour Moi? Opulence Underwired Bra Sujetador con Aros  Beige  Mink/Oyster Mink/Oyster   90E para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V3N8F9N/?tag=tolees-21'
 descuento: '57.56'
 average: '10.879999999999999'

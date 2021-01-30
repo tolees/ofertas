@@ -16,6 +16,7 @@ comparePrice: 81.99 EUR
 prodname: 'ART VVIES Für Hauptdekorationen Baum Mond See Mondlicht Nacht Bild Manipulation Holzrahmen 20x24 Zoll Küche mit Haken Leinwand Wandbild'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082HBHJ9R/?tag=tolees-21'
 descuento: '56.10'
 average: '35.99'

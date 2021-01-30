@@ -16,6 +16,7 @@ comparePrice: 46.23 EUR
 prodname: 'Bolsa de maquillaje con forma de concha de mar con mariposa  bolsa organizadora de viaje  bolsa de tolietry para mujer Cat 4 S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0895QXZFK/?tag=tolees-21'
 descuento: '77.53'
 average: '10.39'

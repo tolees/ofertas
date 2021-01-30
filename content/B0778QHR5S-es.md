@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Vitamina C 1200 mg y Zinc 40 mg - 120 Cápsulas Vegetarianas - Mantener un Sistema Inmunológico Saludable - 2 Cápsulas al día - Hecho en UK por Nutravita'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0778QHR5S/?tag=tolees-21'
 descuento: '36.81'
 average: '17.215999999999998'

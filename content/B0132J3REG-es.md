@@ -16,6 +16,7 @@ comparePrice: 8.63 EUR
 prodname: 'Brennenstuhl 1508180 Enchufe Adaptador de 2 Tomas con Conector de Tierra  240 V  Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0132J3REG/?tag=tolees-21'
 descuento: '53.77'
 average: '5.04'

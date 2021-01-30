@@ -16,6 +16,7 @@ comparePrice: 24.07 EUR
 prodname: 'Tapones Para los Oídos de Harcas. Filtro de Ruido de Silicon. Para Música  Bateristas  Conciertos  Dj  Estudiar  Dormir o Viajar. Azul Claro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073PBXGG8/?tag=tolees-21'
 descuento: '35.27'
 average: '15.58'

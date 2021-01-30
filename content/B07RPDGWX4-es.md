@@ -16,6 +16,7 @@ comparePrice: 24.6 EUR
 prodname: 'Dihope  zapatillas deportivas para mujer  de malla  transpirables  zapatillas de deporte rosa 35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RPDGWX4/?tag=tolees-21'
 descuento: '69.92'
 average: '7.4'

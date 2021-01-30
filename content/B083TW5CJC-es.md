@@ -16,6 +16,7 @@ comparePrice: 0.2 EUR
 prodname: 'Percha Curva Perla Pajarita Decoración Ropa para niños Perchero Percha de plástico Percha de plástico Percha Perla - Blanco 1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083TW5CJC/?tag=tolees-21'
 descuento: '95.00'
 average: '0.01'

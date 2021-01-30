@@ -16,6 +16,7 @@ comparePrice: 9.65 EUR
 prodname: 'Balvi Bote Cocina Cucina Color Blanco Recipiente de Cocina Vintage en Forma de Restaurante Italiano Bote para Guardar Alimentos como la Pasta  arroz  Especias Lata 16 6x10 5x8 8 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00T4SJFD2/?tag=tolees-21'
 descuento: '40.41'
 average: '5.75'

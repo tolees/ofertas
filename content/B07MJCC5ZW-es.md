@@ -16,6 +16,7 @@ comparePrice: 9.59 EUR
 prodname: 'Puckator Taza/mug Mando Videojuego  Cerámica  Multicolor  11x8 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MJCC5ZW/?tag=tolees-21'
 descuento: '43.17'
 average: '5.615'

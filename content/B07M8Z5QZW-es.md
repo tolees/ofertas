@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'WERNNSAI Juego Tema Decoración de Fiesta - Set de Party Cubiertos para Jugadores Game Player  Incluye Bolsa de Cubiertos Mantel Platos Tazas Servilletas Pajitas Utensilios para 16 Personas 146 PCS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M8Z5QZW/?tag=tolees-21'
 descuento: '43.49'
 average: '25.99'

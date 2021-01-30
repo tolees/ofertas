@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Reebok Classic Leather  Zapatillas de Deporte para Hombre  Negros  43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BZYABSK/?tag=tolees-21'
 descuento: '37.72'
 average: '57.738571428571426'

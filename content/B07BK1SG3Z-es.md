@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'PISEN - Batería externa PowerCube 20 000 mAh  cargador portátil con salidas USB 2  permite ahorrar tiempo  diseño elegante  para teléfono móvil y tableta'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BK1SG3Z/?tag=tolees-21'
 descuento: '25.00'
 average: '22.5'

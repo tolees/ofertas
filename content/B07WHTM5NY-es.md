@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'VAUDE Men s Air Vest Iii Weste  Hombre  white uni  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WHTM5NY/?tag=tolees-21'
 descuento: '44.78'
 average: '30.37'

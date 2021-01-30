@@ -16,6 +16,7 @@ comparePrice: 22.55 EUR
 prodname: 'Fotoprotector ISDIN Fusion Fluid Color SPF 50+ | Protector solar facial con color | Apto para todo tipo de pieles | 50ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00J5G5JUG/?tag=tolees-21'
 descuento: '29.27'
 average: '15.575'

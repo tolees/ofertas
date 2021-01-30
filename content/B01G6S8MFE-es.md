@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Amzdeal Softbox 50 x 70 cm Kit de lluminación Ventana de luz para fotográfico  Lluminación Continua Estudio Fotografía - 1x 135W Bombilla+ 1x Softbox + 1x Trípode Montaje Universal + Bolsa de Tela versión'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01G6S8MFE/?tag=tolees-21'
 descuento: '41.67'
 average: '33.99'

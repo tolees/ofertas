@@ -16,6 +16,7 @@ comparePrice: 139.0 EUR
 prodname: 'Fossil Reloj Analogico para Mujer de Cuarzo con Correa en Cuero ES4340'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077Z9HHS5/?tag=tolees-21'
 descuento: '33.56'
 average: '75.235'

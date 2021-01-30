@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Rhyme Extensiones de Cabello Arco Iris Clip de Extensiones de Cabello de Color para niñas Muñecas Accesorios para el Cabello Wig Pieces For Kids 9 Piezas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074JBKVZP/?tag=tolees-21'
 descuento: '60.33'
 average: '11.9'

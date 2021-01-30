@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'upHere 4 Heatpipes Ventilador de CPU ARGB LED Ventiladores PWM de 2 * 120mm Apoyo Intel y AMD CCF150ARGB '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T9QZ34C/?tag=tolees-21'
 descuento: '36.98'
 average: '25.2'

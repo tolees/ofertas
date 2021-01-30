@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Haberdashery Online Kit Mascarilla higiénica textil reutilizable + 50 etiquetas con nombre personalizable  Escudo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08D5XYDN1/?tag=tolees-21'
 descuento: '32.01'
 average: '16.99'

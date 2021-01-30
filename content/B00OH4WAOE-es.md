@@ -16,6 +16,7 @@ comparePrice: 8.45 EUR
 prodname: 'L Oréal Paris Accord Perfect Le Blush - Colorete en Polvo  Tono 90 Luminous Rose'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00OH4WAOE/?tag=tolees-21'
 descuento: '56.69'
 average: '3.66'

@@ -16,6 +16,7 @@ comparePrice: 29.68 EUR
 prodname: 'Cámara de Conferencia USB sin Disco con micrófono HD Beauty Face Net Class Clase de enseñanza Cámara en Vivo 1080P / Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08B1PYPGH/?tag=tolees-21'
 descuento: '39.99'
 average: '17.81'

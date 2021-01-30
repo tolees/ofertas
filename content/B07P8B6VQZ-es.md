@@ -16,6 +16,7 @@ comparePrice: 230.0 EUR
 prodname: 'Pala de Pádel Piton Attack | Black Crown | Nivel: Avanzado  Competición  Profesional | Potencia 90%  Control 90%'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P8B6VQZ/?tag=tolees-21'
 descuento: '47.85'
 average: '136.63333333333333'

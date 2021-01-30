@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Vans Herren Classic T - Shirt  Blau  Navy/white   Medium'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06Y5CV2HN/?tag=tolees-21'
 descuento: '40.00'
 average: '18.0'

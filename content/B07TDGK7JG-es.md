@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Xnuoyo Limpiador de poros  Extractor Puntos Negros Blackhead Removers Limpiador Puntos Negros Acne Vacuum Remover con Recargable Electric para Facial Nose Pore Cleanser'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TDGK7JG/?tag=tolees-21'
 descuento: '45.85'
 average: '22.418571428571425'

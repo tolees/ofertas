@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'Funda para Moto Scooter XXL  Cubierta de Moto Impermeable Protección con Recubrimiento de PU  Dobladillos Elásticos y Cinturón a Prueba de Viento'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K41DK2P/?tag=tolees-21'
 descuento: '42.44'
 average: '18.99'

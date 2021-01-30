@@ -16,6 +16,7 @@ comparePrice: 19.2 EUR
 prodname: 'Oral-B Sensi Ultrathin head - Cabezales de Recambio  Blanco  Pack de 3 Unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072VBKZ8T/?tag=tolees-21'
 descuento: '32.34'
 average: '13.229999999999999'

@@ -16,6 +16,7 @@ comparePrice: 23.71 EUR
 prodname: 'AmazonBasics - Cable USB 3.0 A macho a Micro B  1 8 m '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NH12R1O/?tag=tolees-21'
 descuento: '67.14'
 average: '7.79'

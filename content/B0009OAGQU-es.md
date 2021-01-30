@@ -16,6 +16,7 @@ comparePrice: 73.65 EUR
 prodname: 'Calvin Klein 8Q1013000 Eau de perfume para mujer  50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0009OAGQU/?tag=tolees-21'
 descuento: '51.26'
 average: '32.25'

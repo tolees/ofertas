@@ -16,6 +16,7 @@ comparePrice: 129.95 EUR
 prodname: 'PIKOLINOS Botín de Piel Royal W4D'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075QLMBDX/?tag=tolees-21'
 descuento: '37.87'
 average: '44.79909090909091'

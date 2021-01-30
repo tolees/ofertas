@@ -16,6 +16,7 @@ comparePrice: 44.03 EUR
 prodname: 'Salomon Sense Feel  Zapatillas de Trail Running para Hombre  Blanco  White/White/White   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RHPP55R/?tag=tolees-21'
 descuento: '25.35'
 average: '32.87'

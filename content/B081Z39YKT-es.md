@@ -16,6 +16,7 @@ comparePrice: 4.66 EUR
 prodname: 'SALAKA 1 unid Botella de Silicona para bebés biberón Blanco Botella de Cereal de arroz biberón con Cubierta Antipolvo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081Z39YKT/?tag=tolees-21'
 descuento: '44.85'
 average: '2.57'

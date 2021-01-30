@@ -16,6 +16,7 @@ comparePrice: 74.0 EUR
 prodname: 'Saint Seiya Myth Cloth Figura  Bandai BDISS079170 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01L8S48ZA/?tag=tolees-21'
 descuento: '36.49'
 average: '46.148'

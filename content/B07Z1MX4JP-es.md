@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Compatible con Samsung Galaxy S8  diseño de mármol 360 grados  antiarañazos  funda suave de silicona  funda de teléfono móvil  Slim Fit  antihuellas  carcasa para Samsung Galaxy S8 4 Talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z1MX4JP/?tag=tolees-21'
 descuento: '42.13'
 average: '10.99'

@@ -16,6 +16,7 @@ comparePrice: 11.87 EUR
 prodname: 'Ibili 405014 Indubasic Sartén Aluminio  Diámetro 14 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0039KMFS8/?tag=tolees-21'
 descuento: '32.69'
 average: '7.99'

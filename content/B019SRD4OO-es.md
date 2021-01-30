@@ -16,6 +16,7 @@ comparePrice: 41.5 EUR
 prodname: 'Kmise - Ukelele tenor  66 cm  madera maciza de caoba  puente de palisandro  mate'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B019SRD4OO/?tag=tolees-21'
 descuento: '37.86'
 average: '33.645'

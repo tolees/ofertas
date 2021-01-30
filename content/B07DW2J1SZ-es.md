@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'VicTsing Transmisor FM Bluetooth Coche  Manos Libres Navegación de Voz Pantalla OLED Reproductor MP3 Mechero Coche Cargador'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DW2J1SZ/?tag=tolees-21'
 descuento: '37.52'
 average: '13.99'

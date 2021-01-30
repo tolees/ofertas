@@ -16,6 +16,7 @@ comparePrice: 54.99 EUR
 prodname: 'Superdry Classic Superstate S/s Polo  Gris  Flint Grey Grit Xje   L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TJGJ944/?tag=tolees-21'
 descuento: '47.88'
 average: '29.32'

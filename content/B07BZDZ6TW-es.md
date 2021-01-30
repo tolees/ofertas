@@ -16,6 +16,7 @@ comparePrice: 7.95 EUR
 prodname: 'Grupo Erik Editores Rick & Morty - Carpeta con 4 anillas troquelada  32 x 27.5 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BZDZ6TW/?tag=tolees-21'
 descuento: '49.69'
 average: '4.975'

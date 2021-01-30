@@ -16,6 +16,7 @@ comparePrice: 699.99 EUR
 prodname: 'SportPlus Cinta de Correr 16 km/h con Ajuste de inclinación motorizado  SP-TM-4216E'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00IKNPVPS/?tag=tolees-21'
 descuento: '30.33'
 average: '430.35'

@@ -16,6 +16,7 @@ comparePrice: 45.48 EUR
 prodname: 'Caja de Paternina Reserva D.O. Rioja Vino tinto - 6 botellas x 750 ml.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L9JHLVP/?tag=tolees-21'
 descuento: '30.04'
 average: '31.09'

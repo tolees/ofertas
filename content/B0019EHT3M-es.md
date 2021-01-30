@@ -16,6 +16,7 @@ comparePrice: 49.0 EUR
 prodname: 'BRITA On Tap Recambio de Filtro  Carbón Activo  Blanco  2 Unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0019EHT3M/?tag=tolees-21'
 descuento: '33.47'
 average: '32.6'

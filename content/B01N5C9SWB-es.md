@@ -16,6 +16,7 @@ comparePrice: 499.0 EUR
 prodname: 'Suunto Traverse Alpha Black Red'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N5C9SWB/?tag=tolees-21'
 descuento: '42.29'
 average: '321.3288888888888'

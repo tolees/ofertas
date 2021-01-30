@@ -16,6 +16,7 @@ comparePrice: 12.0 EUR
 prodname: 'Max Power Digital Funda para Xiaomi Mi 9 SE  5.97"  con Soporte - Carcasa rígida antichoque Resistente  Mi 9 SE  Gris '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VF73Z1H/?tag=tolees-21'
 descuento: '39.58'
 average: '7.25'

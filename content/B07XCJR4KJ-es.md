@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Susan Y Regalos para Mujer San valentín Pulsera Mujer sueño Mariposa Cristal Mujer Pulsera Joyas para cumpleaños Aniversario Madre Esposa Regalo para Mujer Regalo para Esposa Regalo para mamá'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XCJR4KJ/?tag=tolees-21'
 descuento: '78.01'
 average: '21.99'

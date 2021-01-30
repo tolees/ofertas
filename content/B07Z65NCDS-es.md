@@ -16,6 +16,7 @@ comparePrice: 45.95 EUR
 prodname: 'Montse Interiors Funda nórdica Estampada Cuadros de Colores  Neil  para Cama de 90x190/200  Nórdico de 150  '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z65NCDS/?tag=tolees-21'
 descuento: '32.64'
 average: '30.95'

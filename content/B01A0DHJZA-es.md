@@ -16,6 +16,7 @@ comparePrice: 13.9 EUR
 prodname: 'Albainox 9244 Insignias  Unisex Adulto  Multicolor  Talla Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01A0DHJZA/?tag=tolees-21'
 descuento: '29.50'
 average: '12.900000000000002'

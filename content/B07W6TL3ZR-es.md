@@ -16,6 +16,7 @@ comparePrice: 599.99 EUR
 prodname: 'Proyector portátil Nebula Mars II Pro de 500 lúmenes ANSI de Anker  resolución de 720p  proyector de vídeo  Imagen de 30 a 150 Pulgadas  proyector de televisión/películas  Entretenimiento en el hogar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W6TL3ZR/?tag=tolees-21'
 descuento: '27.17'
 average: '486.15666666666664'

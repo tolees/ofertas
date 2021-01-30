@@ -16,6 +16,7 @@ comparePrice: 68.99 EUR
 prodname: 'Elbe Regleta Enchufes  Esquina Enchufes multiple con 3 enchufes  2 puertos USB e interruptor  regleta esquina cocina  montaje en pared  acodado  Apto para oficina  cocina y worktops EL4603KU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00GLP11B0/?tag=tolees-21'
 descuento: '32.51'
 average: '46.56'

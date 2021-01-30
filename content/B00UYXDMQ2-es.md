@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'SELECTED HOMME Shntwomario Unwash Dk.blue St.jeans Noos  Jeans Hombre  Azul  Dark Blue Denim   W32/L34  Talla del fabricante: 32 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00UYXDMQ2/?tag=tolees-21'
 descuento: '55.00'
 average: '34.65923076923076'

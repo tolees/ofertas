@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'Max Factor FaceFinity 3 en 1 All Day Flawless Base de Maquillaje Tono 100 Sun Tan - 30 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JMBW63S/?tag=tolees-21'
 descuento: '70.25'
 average: '3.39'

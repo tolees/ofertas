@@ -16,6 +16,7 @@ comparePrice: 49.0 EUR
 prodname: 'Superga 2750-cotbumpstrapj  Zapatillas de Gimnasia Unisex Niños  Blanco  White 901   32 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077QG7DF4/?tag=tolees-21'
 descuento: '43.55'
 average: '27.66'

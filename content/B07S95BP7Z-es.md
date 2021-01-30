@@ -16,6 +16,7 @@ comparePrice: 22.83 EUR
 prodname: 'LuckyGirls • • Fashion Men s Lace Up Sports Running Casual Sneakers Solid Shoes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S95BP7Z/?tag=tolees-21'
 descuento: '52.52'
 average: '10.84'

@@ -16,6 +16,7 @@ comparePrice: 6.04 EUR
 prodname: 'FIND - Glossy Charm  Líquido de labios mate n.5 + Brillo de labios n.5 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CTPNK4X/?tag=tolees-21'
 descuento: '53.15'
 average: '2.83'

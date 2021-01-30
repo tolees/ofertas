@@ -16,6 +16,7 @@ comparePrice: 25 EUR
 prodname: 'Haba 302347 Terra - Fútbol Infantil'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MQJ9S4O/?tag=tolees-21'
 descuento: '44.40'
 average: '13.9'

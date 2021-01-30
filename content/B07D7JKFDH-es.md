@@ -16,6 +16,7 @@ comparePrice: 9.15 EUR
 prodname: 'Rimmel London Maxi Blush Colorete Tono 3 Wild Care - 45 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D7JKFDH/?tag=tolees-21'
 descuento: '55.30'
 average: '4.09'

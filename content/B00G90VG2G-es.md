@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Einhell TH-XG 75 Kit esmeriladora Mini Taladro  120 W  230 V  Disco 75x20x10 mm  ref. 4412560 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00G90VG2G/?tag=tolees-21'
 descuento: '28.81'
 average: '49.8'

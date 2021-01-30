@@ -16,6 +16,7 @@ comparePrice: 52.32 EUR
 prodname: 'Einhell - Juego de hojas de sierra circular  210 x 30 x 2 5 mm  24  48 y 60 dientes '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0012MGYEQ/?tag=tolees-21'
 descuento: '29.99'
 average: '36.63'

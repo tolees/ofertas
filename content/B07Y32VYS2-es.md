@@ -16,6 +16,7 @@ comparePrice: 11.04 EUR
 prodname: 'YIKEF Globos de Confeti de Oro Rosa Globo de Fiesta 30.5 CM para Boda  cumpleaños  Baby Shower  graduación  Decoraciones de Fiesta de Ceremonia  62 Piezas '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y32VYS2/?tag=tolees-21'
 descuento: '45.83'
 average: '5.98'

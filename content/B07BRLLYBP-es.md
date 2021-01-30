@@ -16,6 +16,7 @@ comparePrice: 52.97 EUR
 prodname: 'Berglander - Juego de cubiertos  30 piezas  plateado negro  30 piezas Juego de cubiertos  negro  juego de cubiertos  servicio para 6  negro brillante '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BRLLYBP/?tag=tolees-21'
 descuento: '33.75'
 average: '37.040000000000006'

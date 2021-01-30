@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'YISSVIC Humidificador Ultrasónico Silencioso 4.8L con Pantalla Digital de Humedad Difusor de Aceites Esenciales con Vapor Frío Temporizador 3 Niveles de Niebla Ajustable Función Apagado Automático'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V7B2FGS/?tag=tolees-21'
 descuento: '43.34'
 average: '37.86272727272727'

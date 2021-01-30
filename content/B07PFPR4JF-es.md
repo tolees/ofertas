@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Sekey 200X 80cm Cortina Magnética de Puerta a Prueba de Mosquito para Puertas de Madera  Puertas de Hierro  Puertas Metálicas  Puertas del Balcón  Puertas de RV  Cierre Magnético Automático  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PFPR4JF/?tag=tolees-21'
 descuento: '26.35'
 average: '13.015'

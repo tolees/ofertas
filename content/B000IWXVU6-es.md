@@ -16,6 +16,7 @@ comparePrice: 33.96 EUR
 prodname: 'Energizer 626177 - Pilas Recargables  NiMh  9 V  175 mAh '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000IWXVU6/?tag=tolees-21'
 descuento: '75.85'
 average: '8.2'

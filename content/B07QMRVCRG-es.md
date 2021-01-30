@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Toolove Mesa Soporte para Dot  3.ª generación   Soporte Dot 3 Ajustable de 360 ° para Altavoces de Smart Home  Dot Accesorios  Mejora la Visibilidad y Apariencia del Sonido  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QMRVCRG/?tag=tolees-21'
 descuento: '35.02'
 average: '12.99'

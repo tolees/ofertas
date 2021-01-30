@@ -16,6 +16,7 @@ comparePrice: 27.48 EUR
 prodname: 'Juguete alternativo de silicona médica para juegos de roles para hombres y mujeres'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WQTKLR6/?tag=tolees-21'
 descuento: '60.01'
 average: '10.99'

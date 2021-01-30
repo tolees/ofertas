@@ -16,6 +16,7 @@ comparePrice: 168.68 EUR
 prodname: 'Calvin Klein Reloj Analógico de Cuarzo para Hombre con Correa de Acero Inoxidable – K3M21124'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B008FYGJY4/?tag=tolees-21'
 descuento: '39.71'
 average: '107.0770588235294'

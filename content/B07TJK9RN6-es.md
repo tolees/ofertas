@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Clarks Stanford Top  Botas Chelsea para Hombre  Negro  Black SDE Black SDE   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TJK9RN6/?tag=tolees-21'
 descuento: '69.96'
 average: '33.04'

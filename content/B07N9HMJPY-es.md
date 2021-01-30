@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Philips Serie 7000 S7970/26 Máquina de afeitar  cuhillas confort para la piel sensible  uso en seco/húmedo  sistema SmartClean  50 min de batería  recortador de precisión y funda de viaje  gris/negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N9HMJPY/?tag=tolees-21'
 descuento: '26.03'
 average: '147.2'

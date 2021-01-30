@@ -16,6 +16,7 @@ comparePrice: 29.0 EUR
 prodname: 'Estee Lauder Perfectly Clean Limpiador Frío Multi-Action para Pieles Grasas  150 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00CAUJHRA/?tag=tolees-21'
 descuento: '35.86'
 average: '18.6'

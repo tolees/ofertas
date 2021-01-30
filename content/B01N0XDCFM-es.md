@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'PDP Pixel Pals Luigi - #4 Figuras coleccionables Adultos - FiFiguras de acción y colleccionables  Figuras coleccionables  Multicolor  Videojuego  Adultos  Luigi  14 año s  '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N0XDCFM/?tag=tolees-21'
 descuento: '43.30'
 average: '9.7725'

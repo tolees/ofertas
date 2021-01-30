@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Kipling Firefly Up  Mochilas para Mujer  Negro  Carbon Metallic   22x31x14 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TTPD8GH/?tag=tolees-21'
 descuento: '61.62'
 average: '36.46'

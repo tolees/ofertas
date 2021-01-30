@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'Valentino by Mario - Summer Memento  Bolsos bandolera Mujer  Naranja  Arancione   8x15x23 cm  B x H T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TVSWQFT/?tag=tolees-21'
 descuento: '34.12'
 average: '49.596666666666664'

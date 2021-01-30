@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Mini Camara Espia FREDI/Cámara Oculta HD 1080P Spy Mini WiFi Cámara P2P Portátil Inalámbrico/Detección de Movimiento Cámara de Vigilancia Camaras de Seguridad/Interior/Exterior'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TS5QJ5L/?tag=tolees-21'
 descuento: '54.01'
 average: '45.99'

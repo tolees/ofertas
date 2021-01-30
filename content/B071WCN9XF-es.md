@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Reebok Club C 85 Melted Metals  Zapatillas para Mujer  Dorado  Pearl Metallic-Peach/White   37.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071WCN9XF/?tag=tolees-21'
 descuento: '70.19'
 average: '33.44'

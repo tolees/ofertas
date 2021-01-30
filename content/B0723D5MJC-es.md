@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Anpollo Alfombrilla Raton Ordenador XXL Gaming Grande 900x400mm Mapa Mundi  Lavable  Base de Caucho para Gamers  PC y Portátil'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0723D5MJC/?tag=tolees-21'
 descuento: '30.79'
 average: '8.99'

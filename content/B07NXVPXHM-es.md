@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Skechers Men s Skech-Flex 3.0-VERKO Trainers  Black  Black Engineered Mesh/Black Trim BBK   12  47.5 EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NXVPXHM/?tag=tolees-21'
 descuento: '49.66'
 average: '35.21'

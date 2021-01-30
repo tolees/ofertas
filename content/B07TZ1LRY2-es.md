@@ -16,6 +16,7 @@ comparePrice: 23.0 EUR
 prodname: 'Kipling Baroe S  Monederos para Mujer  Plateado  Metallic Glow   11.5x7x3 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TZ1LRY2/?tag=tolees-21'
 descuento: '54.39'
 average: '10.49'

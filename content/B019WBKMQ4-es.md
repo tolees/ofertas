@@ -16,6 +16,7 @@ comparePrice: 14.5 EUR
 prodname: 'L Oréal Paris Barra De Labios  Color Infalible 24H 122-1 Barra De Labios'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B019WBKMQ4/?tag=tolees-21'
 descuento: '58.83'
 average: '5.715'

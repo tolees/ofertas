@@ -16,6 +16,7 @@ comparePrice: 137.99 EUR
 prodname: 'MENGH Antirutschmatte küche 120x140cm  Wohnzimmer Carpet Spitzenqualität Gemütliches für Wohnzimmer Schlafzimmer Sofa Rose Rot'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083BQ6L1L/?tag=tolees-21'
 descuento: '74.64'
 average: '34.99'

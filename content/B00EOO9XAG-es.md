@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'Calvin Klein Carousel-Thong Bragas  Blanco  WHITE 100   Medium para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00EOO9XAG/?tag=tolees-21'
 descuento: '39.87'
 average: '9.309999999999999'

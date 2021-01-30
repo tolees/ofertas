@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Finether Grifo para Fregadero de Cocina 360° Caño Giratorio  Grifo de Cuenca Monomando Cromado  Agua Frío y Caliente  con Espita Elevable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076D9MRB8/?tag=tolees-21'
 descuento: '46.93'
 average: '68.99'

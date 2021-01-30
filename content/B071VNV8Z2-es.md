@@ -16,6 +16,7 @@ comparePrice: 101.99 EUR
 prodname: 'Asics T7D8N9006  Zapatillas de Running para Mujer  Negro  Black/Flash Coral/Carbon   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071VNV8Z2/?tag=tolees-21'
 descuento: '50.00'
 average: '50.99'

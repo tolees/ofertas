@@ -16,6 +16,7 @@ comparePrice: 12.54 EUR
 prodname: 'Almirón Galletas - Pack de 6 bolsas de 180 g - Total: 1.08 kg'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LZ4C6VE/?tag=tolees-21'
 descuento: '35.89'
 average: '8.04'

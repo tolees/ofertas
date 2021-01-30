@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Bammax Almohada Plagiocefalia Bebe  Almohada Bebe para Evitar Cabeza Plana  Cojin Mimos en Memory Foam  Cojin Plagiocefalia Bebe  Almohada Ortopédica Bebe  con una funda  0 a 12 Meses '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P85RH8W/?tag=tolees-21'
 descuento: '40.01'
 average: '14.472'

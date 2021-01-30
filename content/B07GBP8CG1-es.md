@@ -16,6 +16,7 @@ comparePrice: 19.94 EUR
 prodname: 'Talentech Ember - Ratón ergonómico RGB USB con cable para videojuegos  máximo 10.000 ppp  para PC y ordenador portátil  Windows 10/8/7/XP  Linux   7 botones programables de juego Mice  sensor óptico PixArt 3325'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GBP8CG1/?tag=tolees-21'
 descuento: '33.85'
 average: '13.19'

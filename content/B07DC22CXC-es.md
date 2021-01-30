@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Puma Zeta Suede  Zapatillas Unisex Adulto  Blanco White-Ponderosa Pine  43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DC22CXC/?tag=tolees-21'
 descuento: '63.92'
 average: '32.45'

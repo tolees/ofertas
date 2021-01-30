@@ -16,6 +16,7 @@ comparePrice: 79.9 EUR
 prodname: 'Tommy Hilfiger - Poppy Tote  Bolsos totes Mujer  Amarillo  Sunny   1x1x1 cm  W x H L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V4RSLL6/?tag=tolees-21'
 descuento: '43.07'
 average: '45.49'

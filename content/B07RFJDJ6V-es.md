@@ -16,6 +16,7 @@ comparePrice: 12.6 EUR
 prodname: 'Percetey - Cinturón de natación para niños y adultos  ajustable  cinturón de resistencia sin contracorriente  cinturón acolchado  para entrenamiento'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RFJDJ6V/?tag=tolees-21'
 descuento: '44.60'
 average: '6.98'

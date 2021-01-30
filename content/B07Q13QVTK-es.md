@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Under Armour UA HOVR Rise  Zapatillas Deportivas para Interior para Hombre  Verde  Gravity Green/Pitch Gray/Pink Surge   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q13QVTK/?tag=tolees-21'
 descuento: '65.31'
 average: '34.67'

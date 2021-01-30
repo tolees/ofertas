@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'XCYYOO Carcasa de movil con Cuerda para Colgar Samsung Galaxy A7 2018【Versión Popular 2019】 Funda para iPhone/Samsung/Huawei con Correa Colgante para Llevar en el Cuello -Hecho a Mano en Berlin'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XP3R2VZ/?tag=tolees-21'
 descuento: '55.62'
 average: '3.99'

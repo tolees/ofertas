@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Reloj Gusset Pocket Zeiger Steampunk Esqueleto Mecánico Cobre Estilo Gusset Retro Colgante Reloj de Bolsillo w351'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MYTFHY1/?tag=tolees-21'
 descuento: '68.76'
 average: '24.99'

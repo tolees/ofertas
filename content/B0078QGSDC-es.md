@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'Timex T2N794 - Reloj análogico de cuarzo con correa de cuero unisex  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0078QGSDC/?tag=tolees-21'
 descuento: '28.46'
 average: '46.236666666666665'

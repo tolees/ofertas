@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'PUMA Nova 2 WN S  Zapatillas Deportivas para Mujer  Rosa  Rosewater White   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SDZW386/?tag=tolees-21'
 descuento: '61.08'
 average: '35.01'

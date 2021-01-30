@@ -16,6 +16,7 @@ comparePrice: 6.14 EUR
 prodname: 'Intex 29050 - Red recogehojas compatible con mango de 26 2 mm de diámetro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00I5IXMKY/?tag=tolees-21'
 descuento: '59.28'
 average: '3.75'

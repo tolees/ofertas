@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'Amazfit Pace - Reloj inteligente para correr con GPS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D317PPD/?tag=tolees-21'
 descuento: '34.61'
 average: '96.425'

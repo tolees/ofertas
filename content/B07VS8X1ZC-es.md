@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Varita masajeadora de ojos  con calor de 42 ° C y vibración sónica para ojeras  hinchazón y fatiga ocular  arrugas  dispositivo de masaje facial para el cuidado de la piel'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VS8X1ZC/?tag=tolees-21'
 descuento: '60.01'
 average: '19.99'

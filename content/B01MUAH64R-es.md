@@ -16,6 +16,7 @@ comparePrice: 42.0 EUR
 prodname: 'Diesel UMBX-SHAWNTHREEPACK  Calzoncillo para Hombre  Negro  M  Pack de 3'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MUAH64R/?tag=tolees-21'
 descuento: '40.50'
 average: '24.99'

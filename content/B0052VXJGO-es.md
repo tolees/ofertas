@@ -16,6 +16,7 @@ comparePrice: 6.99 EUR
 prodname: 'Fackelmann Espumadera alambre de acero inoxidable. Color inox. 36x11 8cm. 1 ud.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0052VXJGO/?tag=tolees-21'
 descuento: '28.61'
 average: '4.99'

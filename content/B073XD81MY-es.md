@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Lacoste Reloj Análogo clásico para Niños de Cuarzo con Correa en Silicona 2030002'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073XD81MY/?tag=tolees-21'
 descuento: '30.00'
 average: '47.199999999999996'

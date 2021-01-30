@@ -16,6 +16,7 @@ comparePrice: 249.0 EUR
 prodname: 'ZTE A610 Plus - Smartphone Libre de 5.5"  Cámara Principal de 13 MP  Almacenamiento Interno de 32 GB  Color Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06ZXR4QWM/?tag=tolees-21'
 descuento: '28.11'
 average: '179.0'

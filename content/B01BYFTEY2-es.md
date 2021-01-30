@@ -16,6 +16,7 @@ comparePrice: 19.89 EUR
 prodname: 'S&R Tenaza Alicates Pico Loro profesional con Ajuste Rápido  CR-V. Asas de doble recubrimiento'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BYFTEY2/?tag=tolees-21'
 descuento: '30.12'
 average: '13.9'

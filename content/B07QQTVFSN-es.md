@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'Hurley M Asylum Volley 17  Bermudas  Hombre  Armory Navy  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QQTVFSN/?tag=tolees-21'
 descuento: '64.54'
 average: '17.73'

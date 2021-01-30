@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Juego de Ganzúas 30 Piezas + 3 Candados Transparentes para Prácticas y Tarjeta de Crédito con Ganzúas Set de Herramientas LockCowboy + Regalo: Guía Electrónica para Cerrajeros Novatos y Profesionales'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WYPJSD5/?tag=tolees-21'
 descuento: '44.51'
 average: '24.72'

@@ -16,6 +16,7 @@ comparePrice: 47.19 EUR
 prodname: 'Calypso K5698/6 - Reloj de Pulsera Unisex  Plástico  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0195BLWJW/?tag=tolees-21'
 descuento: '49.42'
 average: '25.87'

@@ -16,6 +16,7 @@ comparePrice: 69 EUR
 prodname: 'Puma Suede Classic Mono Ref Iced Calzado desert flower'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01B6YYO7I/?tag=tolees-21'
 descuento: '49.28'
 average: '35'

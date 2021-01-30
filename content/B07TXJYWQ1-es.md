@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'Tabla De Planchar Antideslizante Con Cubierta De Hierro Para Protección De Algodón De Tela'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TXJYWQ1/?tag=tolees-21'
 descuento: '33.36'
 average: '7.99'

@@ -16,6 +16,7 @@ comparePrice: 37.45 EUR
 prodname: 'Lapices de Colores Kasimir 48 lapiz colores profesional por color en caja con Lapices extensor sacapuntas y borrador para artista Con funda de dibujos para nios'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071NMFFXP/?tag=tolees-21'
 descuento: '38.61'
 average: '22.99'

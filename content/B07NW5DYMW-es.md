@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Skechers D lites-Second Chance  Zapatillas para Mujer  Multicolor  38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NW5DYMW/?tag=tolees-21'
 descuento: '50.04'
 average: '34.95'

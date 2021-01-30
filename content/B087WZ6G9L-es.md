@@ -16,6 +16,7 @@ comparePrice: 75.99 EUR
 prodname: 'HAOT 10Pcs Kick Shuttlecock Colorful Feather Jianzi Goose Rubber Foot Kicking Shuttlecock para Deportes al Aire Libre Fitness'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087WZ6G9L/?tag=tolees-21'
 descuento: '44.74'
 average: '41.99'

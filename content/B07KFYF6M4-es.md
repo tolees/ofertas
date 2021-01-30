@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'PUMA Carina Lux SD Zapatillas Mujer  Rosa  Bridal Rose-Puma Black 02   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KFYF6M4/?tag=tolees-21'
 descuento: '63.76'
 average: '22.596666666666668'

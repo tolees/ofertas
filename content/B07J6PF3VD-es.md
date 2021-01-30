@@ -16,6 +16,7 @@ comparePrice: 135.0 EUR
 prodname: 'Maleta grande Mickey Colored rígida 68cm blanca'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J6PF3VD/?tag=tolees-21'
 descuento: '44.44'
 average: '75.0'

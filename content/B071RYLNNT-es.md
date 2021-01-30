@@ -16,6 +16,7 @@ comparePrice: 22 EUR
 prodname: 'Joma Tropical Malla Corta  Mujer  Verde  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071RYLNNT/?tag=tolees-21'
 descuento: '66.59'
 average: '7.35'

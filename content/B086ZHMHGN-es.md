@@ -16,6 +16,7 @@ comparePrice: 6.41 EUR
 prodname: 'Microondas Cocina rápida Tejido de poliéster Lavable Bolsa de Fibra Cocción de Papas Hornear Capacidad para hasta 4 Papas - Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086ZHMHGN/?tag=tolees-21'
 descuento: '31.20'
 average: '4.41'

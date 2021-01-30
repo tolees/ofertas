@@ -16,6 +16,7 @@ comparePrice: 15.42 EUR
 prodname: 'La Ciudad De Las Estrellas: La La Land [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06WLNDT33/?tag=tolees-21'
 descuento: '48.12'
 average: '7.364285714285715'

@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'GLEADING Cepillo Quitar Pelos de Mascotas  Rodillo Autolimpiante para Quitar Pelos de Perros y Gatos: Quita los Pelos de Perros y Gatos de Muebles  Alfombras  Ropa de Cama  Ropa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083BVB12G/?tag=tolees-21'
 descuento: '50.03'
 average: '14.99'

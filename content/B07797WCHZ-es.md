@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'AUSTOR 16 Piezas Ganchos Cocina Adhesivos de Plástico para Colgador de Cocina Baño Puerta Techo  22 Libras / 10 KG  7.2cm x 7.2cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07797WCHZ/?tag=tolees-21'
 descuento: '36.40'
 average: '6.99'

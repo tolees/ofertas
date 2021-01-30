@@ -16,6 +16,7 @@ comparePrice: 220.85 EUR
 prodname: 'Reloj para hombre Tommy Hilfiger 1791292  mecanismo de cuarzo  diseño con varias esferas  correa de acero inoxidable.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HBJ7WIU/?tag=tolees-21'
 descuento: '38.64'
 average: '146.636'

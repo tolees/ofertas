@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Memoria USB 64GB Pendrive 2.0 USB Stick Flash Drive Pen Drive  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VY6G7M7/?tag=tolees-21'
 descuento: '55.03'
 average: '8.99'

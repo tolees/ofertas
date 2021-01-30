@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Salomon XA Cap Gorra de Malla Impermeable  Unisex Adulto  Blanco  M/L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FHDRMH8/?tag=tolees-21'
 descuento: '50.00'
 average: '12.66111111111111'

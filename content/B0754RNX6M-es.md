@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'Salomon shorts para running  agile short  tafetán  negro  mujer  talla: L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0754RNX6M/?tag=tolees-21'
 descuento: '45.27'
 average: '19.990000000000002'

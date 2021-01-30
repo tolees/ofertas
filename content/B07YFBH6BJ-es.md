@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Tevlaphee Soporte Móvil para Coche  Universal Soporte Móvil Coche ventilacion Gravedad  360 Grados Rotación  Porta Movil Coche para Rejillas del Aire de Coche  de 4.7 a 6.5Pulgadas  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YFBH6BJ/?tag=tolees-21'
 descuento: '45.02'
 average: '10.99'

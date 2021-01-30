@@ -16,6 +16,7 @@ comparePrice: 227.0 EUR
 prodname: 'Elizabeth Arden Prevage Suero Antienvejecimiento Reparacion Intensiva 30ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BLNSXSG/?tag=tolees-21'
 descuento: '59.07'
 average: '92.9'

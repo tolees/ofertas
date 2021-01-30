@@ -16,6 +16,7 @@ comparePrice: 25.98 EUR
 prodname: 'Bolsas de plástico transparentes que se pueden volver a sellar  bolsa de cierre de cremallera reutilizable fuerte  engrosamiento y duradero  prensa para cerrar  8x12cm 240PCS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CTQ7R5F/?tag=tolees-21'
 descuento: '50.00'
 average: '12.99'

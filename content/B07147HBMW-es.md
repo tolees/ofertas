@@ -16,6 +16,7 @@ comparePrice: 67.49 EUR
 prodname: 'Asics Gel-Rocket 8  Zapatillas de Voleibol para Mujer  Rosa  Rouge Red/Black/White 1990   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07147HBMW/?tag=tolees-21'
 descuento: '38.54'
 average: '45.19499999999999'

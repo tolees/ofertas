@@ -16,6 +16,7 @@ comparePrice: 27.44 EUR
 prodname: 'Maurer 15013410 Botas Seguridad 40'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LGSLAW6/?tag=tolees-21'
 descuento: '41.98'
 average: '15.92'

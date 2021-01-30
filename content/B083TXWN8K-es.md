@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'wetry Disfraz de Wally para Hombre Mujer Niños Trajes de Carnaval Familiar Cosplay de Halloween'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083TXWN8K/?tag=tolees-21'
 descuento: '75.02'
 average: '9.99'

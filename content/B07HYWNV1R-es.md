@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Lol Surprise - Disfraz Diva para niñas  5-6 años  Rubies 300146-M '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HYWNV1R/?tag=tolees-21'
 descuento: '40.58'
 average: '20.79'

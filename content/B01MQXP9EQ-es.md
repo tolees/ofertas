@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Jack & Jones Jjimarco Jjenzo WW 420 Noos Pantalones  Azul  Navy Blazer   W36/L32  Talla del Fabricante: 36  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MQXP9EQ/?tag=tolees-21'
 descuento: '31.68'
 average: '21.3675'

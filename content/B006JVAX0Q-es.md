@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Reebok Classic Leather  Zapatillas de Running Niños  Blanco  White   34.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B006JVAX0Q/?tag=tolees-21'
 descuento: '45.04'
 average: '36.36142857142857'

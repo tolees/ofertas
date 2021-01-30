@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'MICHELIN 009518 Mini Compresor Digital  12V  Norme'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00Z74DOI4/?tag=tolees-21'
 descuento: '39.70'
 average: '29.880000000000003'

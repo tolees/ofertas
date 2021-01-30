@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'Napapijri EISBERG Polo  Azul  BLU Marine 176   M para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MQVJ8KZ/?tag=tolees-21'
 descuento: '60.00'
 average: '27.6'

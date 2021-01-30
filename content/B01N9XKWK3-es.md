@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Mario Sports Superstars + Tarjeta Amiibo - Edición Limitada'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N9XKWK3/?tag=tolees-21'
 descuento: '37.98'
 average: '24.8'

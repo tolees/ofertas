@@ -16,6 +16,7 @@ comparePrice: 12.9 EUR
 prodname: 'Béaba 913385 - Taza de aprendizaje evolutiva  3 en 1  blanco y rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BMVP3MU/?tag=tolees-21'
 descuento: '50.00'
 average: '6.45'

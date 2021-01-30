@@ -16,6 +16,7 @@ comparePrice: 34.37 EUR
 prodname: 'OtterBox Commuter - Funda de Protección para Samsung Galaxy S20 Ultra Negra'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083R51WMC/?tag=tolees-21'
 descuento: '37.13'
 average: '21.61'

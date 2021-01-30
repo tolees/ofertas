@@ -16,6 +16,7 @@ comparePrice: 33.39 EUR
 prodname: 'Cuna portátil  Capazos Cuna de Viaje tela Oxford Plegable Multi-bolsillo Bolsa de viaje reutilizable de gran tamaño de asas para bebés recién nacidos Dark Blue '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QB2T9QS/?tag=tolees-21'
 descuento: '39.23'
 average: '20.29'

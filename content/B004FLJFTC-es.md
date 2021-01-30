@@ -16,6 +16,7 @@ comparePrice: 49.0 EUR
 prodname: 'Superga 2750 Jvel Classic Zapatillas Unisex Para Niños  Rojo  Red   32 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004FLJFTC/?tag=tolees-21'
 descuento: '71.67'
 average: '13.88'

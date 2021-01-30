@@ -16,6 +16,7 @@ comparePrice: 16.08 EUR
 prodname: 'Pikolin Home - Almohada Fibra antiácaros  firmeza media-baja  40x70cm  altura 15cm  Todas las medidas '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BGKV1XC/?tag=tolees-21'
 descuento: '31.65'
 average: '10.99'

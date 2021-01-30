@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'Donnay CYNETIC Lady'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C5QT5PJ/?tag=tolees-21'
 descuento: '62.56'
 average: '31.42'

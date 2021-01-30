@@ -16,6 +16,7 @@ comparePrice: 64.99 EUR
 prodname: 'Joseph Joseph Juego de Tablas para Cortar Index  tamaño Normal-Grafito  PP  TPR  Painted ABS  Multicolor  Rosa  Amarillo  Verde  Gris '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KKTLC8Y/?tag=tolees-21'
 descuento: '28.07'
 average: '46.75'

@@ -16,6 +16,7 @@ comparePrice: 29.2 EUR
 prodname: 'HERSITY Camión de Basura Coches de Friccion con Luces y Sonidos Vehiculos Juguete Regalos para Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0854G7GSK/?tag=tolees-21'
 descuento: '52.09'
 average: '14.156666666666666'

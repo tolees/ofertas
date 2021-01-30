@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Apexcam 4K 20MP Cámara Deportiva WiFi EIS Ultra HD Cámara subacuática Impermeable 40M 2.0 LCD 170° Gran Angular 2.4G Remoto Micrófono Externo 2 baterías y Otras'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NRNJMCG/?tag=tolees-21'
 descuento: '42.86'
 average: '43.99'

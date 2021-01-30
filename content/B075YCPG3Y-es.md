@@ -16,6 +16,7 @@ comparePrice: 33.97 EUR
 prodname: 'Metal MP3 Reproductor Bluetooth con Pantalla táctil Benjie K8 de Sonido HiFi Reproductor de música con grabación de Sonido Radio FM Ebook Visor de fotografías'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075YCPG3Y/?tag=tolees-21'
 descuento: '35.83'
 average: '21.8'

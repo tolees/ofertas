@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'PUMA Ralph Sampson LO  Zapatillas Unisex Adulto  Blanco White Peacoat White  40.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KFYX5S4/?tag=tolees-21'
 descuento: '48.87'
 average: '43.55714285714286'

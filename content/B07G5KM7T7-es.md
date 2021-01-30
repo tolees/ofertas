@@ -16,6 +16,7 @@ comparePrice: 53.95 EUR
 prodname: 'Funda nórdica estampada  para cama de 105x190/200  Nórdico de 180  '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G5KM7T7/?tag=tolees-21'
 descuento: '53.68'
 average: '24.99'

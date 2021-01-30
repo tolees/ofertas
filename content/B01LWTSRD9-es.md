@@ -16,6 +16,7 @@ comparePrice: 249.95 EUR
 prodname: 'Cybex Silver Juno 2-Fix 517000961 Silla de Coche  Grupo 1  con Isofix  Morado  Purple Rain '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LWTSRD9/?tag=tolees-21'
 descuento: '43.99'
 average: '139.99'

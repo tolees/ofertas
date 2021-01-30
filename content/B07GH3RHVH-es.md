@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Skechers Stamina-Contic  Zapatillas para Hombre  Gris  Gray & Red Gray Leather/PU/Blue Mesh/Black Trim Gymt   42.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GH3RHVH/?tag=tolees-21'
 descuento: '48.39'
 average: '44.513333333333335'

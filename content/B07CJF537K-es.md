@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'PURINA alimento PPVD Féina en St Ox Gastro Gallina  10 x 85 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CJF537K/?tag=tolees-21'
 descuento: '46.70'
 average: '7.99'

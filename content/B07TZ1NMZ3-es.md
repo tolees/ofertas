@@ -16,6 +16,7 @@ comparePrice: 19.0 EUR
 prodname: 'Kipling Baroe S  Monederos para Mujer  Multicolor  Speckled   11.5x7x3 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TZ1NMZ3/?tag=tolees-21'
 descuento: '40.00'
 average: '11.4'

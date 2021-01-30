@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Funko - POP! Vinilo Colección Rocks - Figura Axl Rose  10688 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01G5Y4W4O/?tag=tolees-21'
 descuento: '31.69'
 average: '9.495000000000001'

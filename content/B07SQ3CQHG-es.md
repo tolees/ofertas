@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'TedGem Ventilador  Ventilador USB Ventilador de Mesa Mini Ventilador USB Silencioso 180 Tipos Velocidad del Viento  Puede Ajustar hacia Arriba y hacia Abajo 20 °  para Oficina/Hogar/Viajar  Blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SQ3CQHG/?tag=tolees-21'
 descuento: '30.96'
 average: '14.252500000000001'

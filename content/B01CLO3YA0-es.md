@@ -16,6 +16,7 @@ comparePrice: 9.5 EUR
 prodname: 'Bourjois Radiance Reveal Corrector Tono 01 Ivory - 29 gr.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CLO3YA0/?tag=tolees-21'
 descuento: '42.11'
 average: '5.32'

@@ -16,6 +16,7 @@ comparePrice: 11.93 EUR
 prodname: 'Toy Partner- Roblox Juguete Figura   ROG0101 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PYTTD6B/?tag=tolees-21'
 descuento: '59.85'
 average: '4.79'

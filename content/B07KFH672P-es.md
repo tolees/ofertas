@@ -16,6 +16,7 @@ comparePrice: 47.99 EUR
 prodname: 'AUKEY Quick Charge 2.0 Bateria Externa 20000mAh Cargador Portatil para Nexus 6P/ 5X  iPhone XS/XS MAX/ 8/7/ 6s  Samsung S9/ S9+  iPad y más'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KFH672P/?tag=tolees-21'
 descuento: '33.34'
 average: '31.27'

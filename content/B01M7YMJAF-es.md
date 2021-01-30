@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Cool Area Toldo Vela de Sombra Rectangular 3 x 4 Metros Protección Rayos UV  Resistente y Transpirable para Patio Exteriores Jardín  Color Tierra'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M7YMJAF/?tag=tolees-21'
 descuento: '55.02'
 average: '44.98'

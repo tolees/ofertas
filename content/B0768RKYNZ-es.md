@@ -16,6 +16,7 @@ comparePrice: 61 EUR
 prodname: 'Hoover Jazz SM156WDP4 - Aspirador de mano sin cable  hasta 18 mins. de autonomía  aspira sólidos y líquidos  batería de 15.4V  color azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0768RKYNZ/?tag=tolees-21'
 descuento: '56.62'
 average: '26.46'

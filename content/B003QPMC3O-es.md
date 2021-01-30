@@ -16,6 +16,7 @@ comparePrice: 64.02 EUR
 prodname: 'Samsung  CLT-C4072S/ELS Tóner Láser Cian 1.000 Páginas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003QPMC3O/?tag=tolees-21'
 descuento: '34.41'
 average: '41.99'

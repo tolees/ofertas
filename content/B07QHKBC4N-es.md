@@ -16,6 +16,7 @@ comparePrice: 44.95 EUR
 prodname: 'PUMA Campus Grip Bag Retro Bolsa Deporte  Adultos Unisex  Black  OSFA'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QHKBC4N/?tag=tolees-21'
 descuento: '33.37'
 average: '34.71'

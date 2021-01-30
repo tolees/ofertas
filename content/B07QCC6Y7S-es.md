@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Adidas Grand Court K  Zapatillas de Tenis Unisex niño  Blanc Noir Blanc  30 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QCC6Y7S/?tag=tolees-21'
 descuento: '29.94'
 average: '28.993333333333332'

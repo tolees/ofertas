@@ -16,6 +16,7 @@ comparePrice: 123.9 EUR
 prodname: 'Hewlett Packard CF543X - Tóner  color Magenta'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075QCC3XZ/?tag=tolees-21'
 descuento: '30.60'
 average: '85.99'

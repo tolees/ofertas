@@ -16,6 +16,7 @@ comparePrice: 27.99 EUR
 prodname: 'Columbia Sombrero trenzado Mujer  Bella Falls Straw Hat  Orgánico  papel   Beige  Fossil/Nocturnal   Talla: S/M  1768411'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F1VMTQ1/?tag=tolees-21'
 descuento: '42.87'
 average: '15.99'

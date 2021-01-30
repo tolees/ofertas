@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Awroutdoor Calentador de Mano Recargable 7800mAH Calentadores de Manos Bolsillo USB Banco de Energía Power Bank Calentador de Mano eléctrico de Reutilizable para Esquiar  Acampar  Caminar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z3GR9J7/?tag=tolees-21'
 descuento: '35.01'
 average: '25.99'

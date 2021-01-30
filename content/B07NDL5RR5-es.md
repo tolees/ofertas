@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'G-STAR RAW Siva Round Neck suéter  Beige  Milk 111   XX-Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDL5RR5/?tag=tolees-21'
 descuento: '83.21'
 average: '17.39'

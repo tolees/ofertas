@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Konesky Bebé cinturón de Seguridad Clip  Asiento de Coche cinturón de Seguridad Ajustador niños Cinturones de retención Clip de cinturón de sujeción Antideslizante Abrazadera de Correa  4 pcs '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JDHDS5X/?tag=tolees-21'
 descuento: '50.03'
 average: '9.99'

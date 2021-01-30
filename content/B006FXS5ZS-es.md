@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Philips Bombilla de bajo consumo en forma de espiral de 8 W equivalente a 45 W en incandescencia  casquillo gordo E27  luz blanca cálida'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B006FXS5ZS/?tag=tolees-21'
 descuento: '67.92'
 average: '12.83'

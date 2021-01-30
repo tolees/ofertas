@@ -16,6 +16,7 @@ comparePrice: 119.9 EUR
 prodname: 'Tommy Hilfiger Tommy Sporty Runner  Zapatillas para Mujer  Beige  Stone Aep   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V3N1ZJG/?tag=tolees-21'
 descuento: '50.43'
 average: '43.419999999999995'

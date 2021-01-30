@@ -16,6 +16,7 @@ comparePrice: 18.4 EUR
 prodname: 'Joma Champion II - Polo para Hombre  Color Rojo/Negro  Talla S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B009KO9G9S/?tag=tolees-21'
 descuento: '51.20'
 average: '8.21'

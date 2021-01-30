@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'Columbia Grixsen Boot WP  Botas Chukka para Hombre  Beige  Elk  Dark Truff 286   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KK4P2S9/?tag=tolees-21'
 descuento: '79.31'
 average: '31.04'

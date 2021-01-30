@@ -16,6 +16,7 @@ comparePrice: 3.02 EUR
 prodname: '4 en 1 4 x 1 DiSEqc Interruptor de Banda Ancha de 4 vías DS-04C Conexión de Alto Aislamiento 4 Platos satelitales 4 LNB para Receptor satelital - Plateado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084PB48MY/?tag=tolees-21'
 descuento: '33.44'
 average: '2.01'

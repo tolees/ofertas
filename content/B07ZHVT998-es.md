@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Géminis  BD  [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZHVT998/?tag=tolees-21'
 descuento: '50.03'
 average: '16.99'

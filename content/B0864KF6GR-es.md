@@ -16,6 +16,7 @@ comparePrice: 16.7 EUR
 prodname: 'Jack & Jones Jjiaruba Jjswimshorts AKM Animal STS Bañador para Hombre  Brook Green  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0864KF6GR/?tag=tolees-21'
 descuento: '40.18'
 average: '9.99'

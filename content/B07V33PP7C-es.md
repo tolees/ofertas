@@ -16,6 +16,7 @@ comparePrice: 36.99 EUR
 prodname: 'MEGA CREATIVE JEWELRY Pulseras Árbol de la Vida Oro Rosa Nácar para Mujer Plata 925 con Cristales'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V33PP7C/?tag=tolees-21'
 descuento: '27.03'
 average: '26.99'

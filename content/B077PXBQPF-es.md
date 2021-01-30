@@ -16,6 +16,7 @@ comparePrice: 119.95 EUR
 prodname: 'Pala NOX Attraction A.4'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077PXBQPF/?tag=tolees-21'
 descuento: '41.68'
 average: '88.77777777777777'

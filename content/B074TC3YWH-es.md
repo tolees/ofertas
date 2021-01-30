@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: '1home Soporte TV con Ruedas  Móvil Carro de exhibición Trole Portátil  TV Soporte de Suelo para Pantalla Plana 30”-65" Plasm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074TC3YWH/?tag=tolees-21'
 descuento: '39.23'
 average: '82.99'

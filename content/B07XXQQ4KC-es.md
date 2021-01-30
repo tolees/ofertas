@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'Cooljoy Agua Dibujo Pintura  Esteras de Agua Doodle  Alfombra de Agua Doodle para Niños  con Libro Magico Agua  9 Plantilla de EVA  5 la Pluma  Materiales de Alta Calidad  no Tóxicos  Reutilizable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XXQQ4KC/?tag=tolees-21'
 descuento: '27.29'
 average: '13.39'

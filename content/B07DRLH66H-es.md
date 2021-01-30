@@ -16,6 +16,7 @@ comparePrice: 16.18 EUR
 prodname: 'Homyl - Cerradura antirrobo para Cable de Seguridad para Ordenador con Monitor para Ordenador portátil - 4 dígitos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DRLH66H/?tag=tolees-21'
 descuento: '44.44'
 average: '8.99'

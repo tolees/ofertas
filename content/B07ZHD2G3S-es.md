@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Electirc Mini Máquina del Vacío con Paquete de 8 Bolsas de Almacenaje al Vacío Ahorro de Energía Bomba De Vacío para Guardar Ropa  Ropa de Cama  Edredones  Almohadas  Mantas  Cortinas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZHD2G3S/?tag=tolees-21'
 descuento: '53.51'
 average: '27.89'

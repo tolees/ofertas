@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'FILA Disruptor  Zapatillas para Hombre  Black/Black  45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NLMD5N9/?tag=tolees-21'
 descuento: '43.79'
 average: '56.18'

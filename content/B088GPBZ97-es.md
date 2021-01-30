@@ -16,6 +16,7 @@ comparePrice: 36.99 EUR
 prodname: 'PRUNUS J-777 Radio de Transistor portátil  FM/Am Mini Pocket Radio con Auriculares. Batería con Pilas 2 AAA para Correr  Caminar y Viajar.  Blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088GPBZ97/?tag=tolees-21'
 descuento: '43.25'
 average: '20.99'

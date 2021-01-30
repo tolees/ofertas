@@ -16,6 +16,7 @@ comparePrice: 15.09 EUR
 prodname: 'INOXIBAR Tapa volteadora de Tortilla  30 cm  Centimeters'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KL8VH4E/?tag=tolees-21'
 descuento: '38.10'
 average: '9.34'

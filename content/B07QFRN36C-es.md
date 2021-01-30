@@ -16,6 +16,7 @@ comparePrice: 299.99 EUR
 prodname: 'Bosch CityMower 18 - Cortacésped  sin batería  sistema de 18 V  superficies hasta 300 m²  anchura de corte: 34 cm  en caja '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QFRN36C/?tag=tolees-21'
 descuento: '45.00'
 average: '164.99'

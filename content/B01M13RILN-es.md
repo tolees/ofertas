@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Reloj - MONETTI - Para  - 316Lbraun'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M13RILN/?tag=tolees-21'
 descuento: '56.29'
 average: '34.95'

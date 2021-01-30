@@ -16,6 +16,7 @@ comparePrice: 72.89 EUR
 prodname: 'APC BV500I-GR Easy-UPS BV - Sistema de alimentación ininterrumpida  SAI   500VA  AVR  4 salidas Schuko'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L1MBC2J/?tag=tolees-21'
 descuento: '31.42'
 average: '53.06666666666667'

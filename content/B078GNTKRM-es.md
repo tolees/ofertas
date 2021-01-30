@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'Tommy Hilfiger Brazilian Braguita brasileña  Azul  Navy Blazer 416   40  Talla del Fabricante: 38 Medium  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078GNTKRM/?tag=tolees-21'
 descuento: '39.75'
 average: '11.99'

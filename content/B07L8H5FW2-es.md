@@ -16,6 +16,7 @@ comparePrice: 239.64 EUR
 prodname: 'iWork - L-81-855 - Bomba de Agua de Profundidad 1000 w color Plata Aluminio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L8H5FW2/?tag=tolees-21'
 descuento: '30.00'
 average: '167.75'

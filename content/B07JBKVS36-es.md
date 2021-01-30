@@ -16,6 +16,7 @@ comparePrice: 24.9 EUR
 prodname: 'Suplemento Para Articulaciones Vegavero® | 100% VEGETAL | Glucosamina + Cúrcuma + Jengibre + Boswellia + Galangal + Cebolla | 90 Comprimidos | Sin Aditivos | Antiinflamatorio | Active & Fit Complex'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JBKVS36/?tag=tolees-21'
 descuento: '60.24'
 average: '9.9'

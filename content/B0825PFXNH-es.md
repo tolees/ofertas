@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'DC Shoes Tussler - Riñonera - Hombre - ONE SIZE'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0825PFXNH/?tag=tolees-21'
 descuento: '27.66'
 average: '16.6'

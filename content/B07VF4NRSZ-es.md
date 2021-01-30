@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'JACK & JONES Jcotony Polo SS WHS  Rojo  Chinese Red Chinese Red   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VF4NRSZ/?tag=tolees-21'
 descuento: '62.93'
 average: '7.41'

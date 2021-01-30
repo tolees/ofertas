@@ -16,6 +16,7 @@ comparePrice: 9.53 EUR
 prodname: 'Rimmel London Lasting Radiance Concealer  Corrector de maquillaje. Tono 50'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NQ78VH5/?tag=tolees-21'
 descuento: '27.07'
 average: '6.95'

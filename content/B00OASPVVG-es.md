@@ -16,6 +16,7 @@ comparePrice: 101.84 EUR
 prodname: 'SONGMICS LJB65W - Taburete de Bar con Respaldo Sintético  color Blanco  Lote de 2'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00OASPVVG/?tag=tolees-21'
 descuento: '34.61'
 average: '66.94375'

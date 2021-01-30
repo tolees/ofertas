@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Venus Swirl Cuchillas afeitar mujer  maquinilla + 5 recambios  apto para envío postal'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H3VF1WQ/?tag=tolees-21'
 descuento: '26.68'
 average: '22.00444444444444'

@@ -16,6 +16,7 @@ comparePrice: 1.4 EUR
 prodname: 'Semillas Hortícolas - Tomate Corazón de Buey - Batlle'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KM28KRQ/?tag=tolees-21'
 descuento: '29.29'
 average: '0.99'

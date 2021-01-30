@@ -16,6 +16,7 @@ comparePrice: 59.98 EUR
 prodname: 'ieGeek Autoradio Bluetooth  4×60W Llamadas Manos Libres  Universal 1 DIN Radio de Coche  7 Colores LED  Soporta Estéreo RDS/MP3/FM/AM/SD/AUX/RST/Dual USB/Pantalla de Reloj Remote Control'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00UY73XOE/?tag=tolees-21'
 descuento: '45.02'
 average: '34.98'

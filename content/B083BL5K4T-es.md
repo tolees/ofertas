@@ -16,6 +16,7 @@ comparePrice: 32.77 EUR
 prodname: 'Grsta Botellas De Agua  Botella Agua Acero Inoxidable sin BPA 750ml/Plata Botellas de Frío/Caliente Termo para Niños/Adultos  Adecuada para Al Aire Libre Deportes Camping Y Ciclismo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083BL5K4T/?tag=tolees-21'
 descuento: '39.67'
 average: '19.77'

@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'Stendhal Recette Merveilleuse Crema Revitalisante Nuit Ultra 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007IUEFRE/?tag=tolees-21'
 descuento: '49.30'
 average: '40.56'

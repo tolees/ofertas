@@ -16,6 +16,7 @@ comparePrice: 37.98 EUR
 prodname: 'Luz De Trabajo Led Portátil Recargable  Lámpara De Trabajo Al Aire Libre A Prueba De Agua De 30w 1500lm Para Reparación De Automóviles  Camping  Senderismo  Luces De Seguridad De Emergencia  3 Modos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083P6LLW1/?tag=tolees-21'
 descuento: '50.00'
 average: '28.485'

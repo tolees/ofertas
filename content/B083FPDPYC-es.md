@@ -16,6 +16,7 @@ comparePrice: 29.89 EUR
 prodname: 'CAHAYA Atril Musica Plegable  80-145 cm  con Bolsa de Transporte Soporte para Partituras Plegable con Altura y Pestañas de Sujeción Ajustables  Incluye bolsa de transporte y Coleccionista de Musica'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083FPDPYC/?tag=tolees-21'
 descuento: '26.43'
 average: '21.939999999999998'

@@ -16,6 +16,7 @@ comparePrice: 109.99 EUR
 prodname: 'WMF Alteo - Cubertería de acero inoxidable con acabado pulido  30 piezas  6 comensales   cromargan protect'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01B1M6QH6/?tag=tolees-21'
 descuento: '37.36'
 average: '68.9'

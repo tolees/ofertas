@@ -16,6 +16,7 @@ comparePrice: 42 EUR
 prodname: 'Sisley Phyto Khol Perfect 03 Steel - 1.5 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0137N7CWK/?tag=tolees-21'
 descuento: '26.79'
 average: '26.61'

@@ -16,6 +16,7 @@ comparePrice: 13.0 EUR
 prodname: 'La Toja Selection - Gel esencia de Moringa y aceite de Macadamia- 4 unidades de 550 ml  Total: 2200 ml '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SFYLQ1C/?tag=tolees-21'
 descuento: '38.77'
 average: '8.035999999999998'

@@ -16,6 +16,7 @@ comparePrice: 17.85 EUR
 prodname: 'Game Of Thrones Bend The Knee Door Mat Felpudo  Goma  Multicolor  40 x 60 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BMX6DTC/?tag=tolees-21'
 descuento: '43.98'
 average: '10.0'

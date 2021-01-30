@@ -16,6 +16,7 @@ comparePrice: 8.97 EUR
 prodname: 'TININNA 1 par Espuma de la Memoria Respirable Altura Invisible Aumento Zapato Almohadillas Plantillas para Hombres Mujeres 4.3 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01ALM3SHS/?tag=tolees-21'
 descuento: '55.52'
 average: '3.99'

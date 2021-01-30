@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Rowenta VU4210F0 - Ventilador de pie antimosquitos  40 cm  altura regulable   Reacondicionado '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q5VVR21/?tag=tolees-21'
 descuento: '26.31'
 average: '50.63333333333333'

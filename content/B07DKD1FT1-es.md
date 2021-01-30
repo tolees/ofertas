@@ -16,6 +16,7 @@ comparePrice: 54.9 EUR
 prodname: 'Energy Music Box 5+ Yall Edition  Bluetooth 4.1  10 W  microSD  FM Radio  Festival Bag  Lanyard '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DKD1FT1/?tag=tolees-21'
 descuento: '54.64'
 average: '24.9'

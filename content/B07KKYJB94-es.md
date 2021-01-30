@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'Joseph Joseph M-Poach Escalfador de Huevos para microondas  Multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KKYJB94/?tag=tolees-21'
 descuento: '30.15'
 average: '6.95'

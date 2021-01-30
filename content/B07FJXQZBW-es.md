@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Import - Consola Retro Blast Activision Pitfall  20 Juegos '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FJXQZBW/?tag=tolees-21'
 descuento: '51.28'
 average: '15.84'

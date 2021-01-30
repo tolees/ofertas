@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'BaByliss C454E Tenacilla cónica de 13 a 25x140 mm  todo tipo de ondas  cerámica de nano cuarzo  6 ajustes  calentamiento instantáneo  punta de agarre frío  guante y alfombrilla termorresistente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WLYD9N9/?tag=tolees-21'
 descuento: '37.37'
 average: '24.99'

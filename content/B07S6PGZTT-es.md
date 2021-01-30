@@ -16,6 +16,7 @@ comparePrice: 77.0 EUR
 prodname: 'Lámpara LED de techo regulable para dormitorio salón decoración diseño moderno acrílico colores de techo lámpara para salón habitación de los niños cocina oficina lámpara con mando a distancia Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S6PGZTT/?tag=tolees-21'
 descuento: '37.66'
 average: '48.0'

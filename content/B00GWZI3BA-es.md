@@ -16,6 +16,7 @@ comparePrice: 185.0 EUR
 prodname: 'Orlane B21 Extraordinaire Youth Reset 30 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00GWZI3BA/?tag=tolees-21'
 descuento: '50.78'
 average: '87.6'

@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'LTGEM Funda para WD My Passport Go 500 GB 1 TB Disco Duro sólido Externo  Bolsa de Transporte de Viaje EVA Dura'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X2MB75Z/?tag=tolees-21'
 descuento: '38.60'
 average: '8.59'

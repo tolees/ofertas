@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'Estuche Pepe Jeans Duetone Negro tres compartimentos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073BCZKHW/?tag=tolees-21'
 descuento: '35.87'
 average: '16.0'

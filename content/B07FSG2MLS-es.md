@@ -16,6 +16,7 @@ comparePrice: 7.95 EUR
 prodname: 'PAMEX Plumero Electroestático Extensible 45-75cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FSG2MLS/?tag=tolees-21'
 descuento: '73.46'
 average: '2.11'

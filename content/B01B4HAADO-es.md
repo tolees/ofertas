@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'PUMA Unisex Running Cap III Gorra  Hombre  Black  Adult'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01B4HAADO/?tag=tolees-21'
 descuento: '30.10'
 average: '10.45'

@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'adidas Finale M CPT - Balon de fútbol  Off White/Power Solar Active Red/Black  5'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KKX97VK/?tag=tolees-21'
 descuento: '40.22'
 average: '14.37'

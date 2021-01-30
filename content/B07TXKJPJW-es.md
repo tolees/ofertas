@@ -16,6 +16,7 @@ comparePrice: 25.19 EUR
 prodname: 'Kit de cuidado de la barba para hombres  kit de cuidado de la barba La herramienta de aseo de la limpieza de la barba ayuda a suavizar y acondicionar los bigotes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TXKJPJW/?tag=tolees-21'
 descuento: '68.28'
 average: '7.99'

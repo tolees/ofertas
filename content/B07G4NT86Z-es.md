@@ -16,6 +16,7 @@ comparePrice: 169.0 EUR
 prodname: 'Michael Kors Reloj Analógico para Mujer de Cuarzo con Correa en Cuero MK2752'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G4NT86Z/?tag=tolees-21'
 descuento: '35.36'
 average: '92.64'

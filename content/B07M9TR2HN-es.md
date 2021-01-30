@@ -16,6 +16,7 @@ comparePrice: 3.77 EUR
 prodname: 'Yutwo Funda Huawei Honor 7s Estuche Protector de 360 Grados para Teléfono Transparente Funda Silicona TPU Gel y PC rígida 360 °Protección Anti Choque Full Body [No Dots] - Transparente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M9TR2HN/?tag=tolees-21'
 descuento: '71.62'
 average: '1.07'

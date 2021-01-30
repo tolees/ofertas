@@ -16,6 +16,7 @@ comparePrice: 11.0 EUR
 prodname: 'Yizhet 10uds Universal Stylus de la Pluma del Tacto de la Pluma con el diseño de Clip para Todos los Dispositivos con táctil capacitiva del teléfono Smartphone de Pantalla Tablet PC PDA'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TNDYGFS/?tag=tolees-21'
 descuento: '39.18'
 average: '6.69'

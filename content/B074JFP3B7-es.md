@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Blade Runner 2049 Blade Runner 2049-Funko Pop Figura de Vinilo Deckard  Multicolor  Standard  Funko 21589 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074JFP3B7/?tag=tolees-21'
 descuento: '60.31'
 average: '5.95'

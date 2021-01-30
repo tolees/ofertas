@@ -16,6 +16,7 @@ comparePrice: 86 EUR
 prodname: 'Nike Classic Cortez Leather  Zapatillas de Running para Hombre  Blanco  White/Pure Platinum 101   40 1/2 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QQSXRTM/?tag=tolees-21'
 descuento: '51.43'
 average: '41.77'

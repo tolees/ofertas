@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Gant Elastic Braid Belt Cinturón  Negro  Black 5   105  Talla del fabricante: 90  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MZ31GMC/?tag=tolees-21'
 descuento: '64.27'
 average: '29.369999999999997'

@@ -16,6 +16,7 @@ comparePrice: 6.36 EUR
 prodname: 'Marvel Los Vengadores- Juego de 2 cepillos de dientes para niños  ideales para viaje 40 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FLT5L4Y/?tag=tolees-21'
 descuento: '25.31'
 average: '4.75'

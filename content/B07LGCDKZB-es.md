@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'Mr. Tronic 305m Cable de Instalación Red Ethernet Bobina | CAT6  AWG24  CCA  UTP  305 Metros  Gris '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LGCDKZB/?tag=tolees-21'
 descuento: '25.01'
 average: '76.65666666666667'

@@ -16,6 +16,7 @@ comparePrice: 28.95 EUR
 prodname: 'Calcetines de Running para Largas Distancias 3 Par  Negro/Gris  EU 35-38 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T8J43DR/?tag=tolees-21'
 descuento: '31.09'
 average: '19.45'

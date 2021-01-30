@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'Value Pack Recién Nacido Bebé  LANSKIRT 11PCS Bebé Niña Niño Dibujos Animados Manga Larga Tops + Sombrero + Dos Pantalones + Conjunto de Traje Babero  Multicolor C  0-3 Meses '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LBGNTJY/?tag=tolees-21'
 descuento: '43.80'
 average: '4.49'

@@ -16,6 +16,7 @@ comparePrice: 12.49 EUR
 prodname: 'AH Kalkaire - Blanqueamiento dental - Carbón activo de coco para dientes blancos - Polvo blanqueador - Limpieza de dientes - Blanqueamiento dental - Blanqueamiento de dientes - Dientes blanqueados'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N1P3SJX/?tag=tolees-21'
 descuento: '28.02'
 average: '8.99'

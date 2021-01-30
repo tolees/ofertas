@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'autsca Caja Fuerte Candado para llaves  Candado de Seguridad con Combinación 4 dígitos Se puede colgar y se puede clavar en la pareds  Adecuada para el Hogar  el Garaje y la Granja ect'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BJ5D3PP/?tag=tolees-21'
 descuento: '50.01'
 average: '18.99'

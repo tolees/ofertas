@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'New Balance Ryval Run  Zapatillas para Correr de Carretera para Hombre  Gris  Grey/Yellow Lc1   42.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S3V5GJB/?tag=tolees-21'
 descuento: '37.49'
 average: '46.27'

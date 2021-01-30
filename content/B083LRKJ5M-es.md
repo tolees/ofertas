@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'XINYUNEW Funda LG K30  360 Grados Protective+Pantalla de Vidrio Templado Caso Carcasa Case Cover Skin móviles telefonía Carcasas Fundas para LG K30-Naranja'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083LRKJ5M/?tag=tolees-21'
 descuento: '43.14'
 average: '9.66'

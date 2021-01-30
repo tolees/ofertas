@@ -16,6 +16,7 @@ comparePrice: 6.43 EUR
 prodname: 'Panamami Borradores y fichas de ajedrez de Madera Natural y Pieza de ajedrez de Backgammon para niños Juego de Mesa Aprendizaje Camping con Disco de Madera y Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083YY95VW/?tag=tolees-21'
 descuento: '34.99'
 average: '4.18'

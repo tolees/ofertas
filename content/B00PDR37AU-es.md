@@ -16,6 +16,7 @@ comparePrice: 2.97 EUR
 prodname: 'Canson 406323 - Papel milimetrado  12 hojas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00PDR37AU/?tag=tolees-21'
 descuento: '41.75'
 average: '1.73'

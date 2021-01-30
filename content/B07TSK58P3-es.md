@@ -16,6 +16,7 @@ comparePrice: 9.4 EUR
 prodname: 'Max Factor Mattitude Powder. Polvos bronceadores Tono 003 - 15 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TSK58P3/?tag=tolees-21'
 descuento: '46.91'
 average: '4.99'

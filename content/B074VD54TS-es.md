@@ -16,6 +16,7 @@ comparePrice: 6.34 EUR
 prodname: 'AmazonBasics – Cable USB 2.0 A a micro USB B con trenzado doble | 0 9 m  Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074VD54TS/?tag=tolees-21'
 descuento: '28.23'
 average: '4.55'

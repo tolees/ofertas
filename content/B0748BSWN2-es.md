@@ -16,6 +16,7 @@ comparePrice: 62.98 EUR
 prodname: 'Suministros para mascotas suave y acogedor algodón cubierta al aire libre Cama portable de la casa del animal doméstico del animal doméstico mascota perrera  M: 45x35x35cm  retro de la pared '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0748BSWN2/?tag=tolees-21'
 descuento: '53.99'
 average: '28.98'

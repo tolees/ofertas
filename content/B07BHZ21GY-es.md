@@ -16,6 +16,7 @@ comparePrice: 7.95 EUR
 prodname: 'BULL DOG champú para barba 2 en 1 dosificador 200 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BHZ21GY/?tag=tolees-21'
 descuento: '25.16'
 average: '5.95'

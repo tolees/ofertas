@@ -16,6 +16,7 @@ comparePrice: 39.0 EUR
 prodname: 'Casio A178WEA-1AES  Reloj Unisex'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000MX1YPU/?tag=tolees-21'
 descuento: '33.59'
 average: '20.898095238095237'

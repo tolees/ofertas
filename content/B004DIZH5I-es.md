@@ -16,6 +16,7 @@ comparePrice: 18.06 EUR
 prodname: 'Widmann 02723 - Disfraz de vaquero para niño  talla L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004DIZH5I/?tag=tolees-21'
 descuento: '49.61'
 average: '9.1'

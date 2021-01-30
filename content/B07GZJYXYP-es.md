@@ -16,6 +16,7 @@ comparePrice: 130.12 EUR
 prodname: 'Camfosy - Botas de Cuero para mujer  color Azul  talla 40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GZJYXYP/?tag=tolees-21'
 descuento: '42.41'
 average: '74.94'

@@ -16,6 +16,7 @@ comparePrice: 16.3 EUR
 prodname: 'GHD Spray protector térmico  120 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B017NHI25M/?tag=tolees-21'
 descuento: '36.44'
 average: '11.556153846153846'

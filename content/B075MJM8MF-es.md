@@ -16,6 +16,7 @@ comparePrice: 28.9 EUR
 prodname: 'Fyasa 706571-t04 disfraz de pollito  grande'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075MJM8MF/?tag=tolees-21'
 descuento: '35.50'
 average: '18.64'

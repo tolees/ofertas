@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Nike W Nk Gym Club Bolsa de Gimnasio para Mujer  Negro  Blanco/Negro   Talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KJY1SP5/?tag=tolees-21'
 descuento: '50.07'
 average: '19.39125'

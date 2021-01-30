@@ -16,6 +16,7 @@ comparePrice: 28.05 EUR
 prodname: 'Dunlop - Botas Estilo Wellington Unisex Modelo Pricemastor para Adultos  42 EU/Verde '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079M6V4GS/?tag=tolees-21'
 descuento: '33.33'
 average: '18.575'

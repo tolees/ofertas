@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Funko Pop!- Pop Games: Destiny S2-Osiris Figura de Vinilo  Multicolor  30171 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0797NJSG4/?tag=tolees-21'
 descuento: '68.65'
 average: '6.975'

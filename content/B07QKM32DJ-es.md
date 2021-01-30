@@ -16,6 +16,7 @@ comparePrice: 159.99 EUR
 prodname: 'Taladro Percutor  LOMVUM 810W Taladro Eléctrico 3000RPM  Martillo Taladro 2 Funciones en 1  Portabroca de 13mm  Motor de Cobre Puro  WD3181'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QKM32DJ/?tag=tolees-21'
 descuento: '76.88'
 average: '36.99'

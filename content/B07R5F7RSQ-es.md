@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: '64GB Memorias USB 3.0 ENUODA Pendrive Giratoria Diseño Flash Drive Almacenamiento Externo Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R5F7RSQ/?tag=tolees-21'
 descuento: '62.64'
 average: '8.59'

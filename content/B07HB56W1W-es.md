@@ -16,6 +16,7 @@ comparePrice: 39.0 EUR
 prodname: 'Woxter Stinger RX 1100 H - Auriculares Gaming Profesionales Led Giratorios con micrófono para PS4–PC–Xbox One–Switch Reducción de Ruido Diadema Ajustable Micrófono omnidireccional y Adaptador 2 en 1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HB56W1W/?tag=tolees-21'
 descuento: '25.67'
 average: '25.872857142857143'

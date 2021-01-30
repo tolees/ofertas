@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Goodde Convertidor Captura Vídeo USB  Video Capture Card  HDMI a USB 3.0 Capturadora Digitalizadora de Juegos Video Capturador de Pantalla para reuniones - 1080P a 60 fps HD - Plug and Play'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088FFKT47/?tag=tolees-21'
 descuento: '35.54'
 average: '6.44'

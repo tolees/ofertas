@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Wilson Baseball Hat Co - Gorra Unisex  Color Negro  Talla OSFA'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01B5EGOZ4/?tag=tolees-21'
 descuento: '50.23'
 average: '9.95'

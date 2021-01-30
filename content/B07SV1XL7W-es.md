@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Herefun 32 en 1 Juego de Destornilladores  Mini Profesional Destornilladores  Profesional Magnético Caja de Destornilladores de Precisión Kit para Computadora  Laptop  Tablet  Reloj  Cámara  IPhone'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SV1XL7W/?tag=tolees-21'
 descuento: '42.34'
 average: '7.49'

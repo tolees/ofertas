@@ -16,6 +16,7 @@ comparePrice: 3.85 EUR
 prodname: 'Head & Shoulders Men Ultra Limpieza Profunda Champú Anticaspa - 300 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GYLXZ1F/?tag=tolees-21'
 descuento: '74.03'
 average: '1.0'

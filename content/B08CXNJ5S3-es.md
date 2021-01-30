@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'Cargador Coche USB Tipo C PD3.0+QC3.0 para Samsung S10 S20 Plus Ultra S9 S8 A71 A70 A51 A50 A80 A41 A31 A80 Note 20 10 XIaomi Redmi Note 9 Pro 8 8T Mi 10 Huawei P30 Lite+1M C to C Cable Carga Rapida'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CXNJ5S3/?tag=tolees-21'
 descuento: '45.48'
 average: '11.99'

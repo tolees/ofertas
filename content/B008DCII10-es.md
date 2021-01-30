@@ -16,6 +16,7 @@ comparePrice: 8.65 EUR
 prodname: 'Faibo 607-2 - Pizarra de corcho'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B008DCII10/?tag=tolees-21'
 descuento: '39.88'
 average: '4.845000000000001'

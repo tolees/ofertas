@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'THE NORTH FACE M Storm Strike 2 WP  Botas de Senderismo para Hombre  Negro TNF Negro Ébano Gris Ca0  40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N99TP3J/?tag=tolees-21'
 descuento: '60.34'
 average: '43.54777777777778'

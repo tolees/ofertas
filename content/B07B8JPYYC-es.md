@@ -16,6 +16,7 @@ comparePrice: 279.0 EUR
 prodname: 'FOREO UFO - Tratamiento de Mascarilla Inteligente  Color Menta  Mint '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B8JPYYC/?tag=tolees-21'
 descuento: '28.66'
 average: '199.03'

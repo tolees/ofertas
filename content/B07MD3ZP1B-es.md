@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Skechers GO Walk 5 Qualify  Zapatillas para Hombre  Azul Navy Textile Synthetic Trim Nvy  50 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MD3ZP1B/?tag=tolees-21'
 descuento: '31.38'
 average: '42.260000000000005'

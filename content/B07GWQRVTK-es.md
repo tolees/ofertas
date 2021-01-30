@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Alcatel 30.26  Teléfono Móvil  1  Gris Metálico'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GWQRVTK/?tag=tolees-21'
 descuento: '25.00'
 average: '44.99'

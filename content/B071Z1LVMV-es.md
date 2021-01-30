@@ -16,6 +16,7 @@ comparePrice: 113.27 EUR
 prodname: 'Razer Hammerhead iOS Lightning In-Ear Headphones'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071Z1LVMV/?tag=tolees-21'
 descuento: '70.87'
 average: '29.65'

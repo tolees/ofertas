@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'NIKE Revolution 5  Running Shoe Womens  Black Anthracite  40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NLCF27J/?tag=tolees-21'
 descuento: '30.09'
 average: '38.45'

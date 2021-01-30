@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Columbia IVO Trail Breeze  Zapatillas Deportivas para Hombre  Blanco  White  Black 100   42.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RJTBKGP/?tag=tolees-21'
 descuento: '50.05'
 average: '49.95'

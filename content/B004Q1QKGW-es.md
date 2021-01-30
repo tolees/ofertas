@@ -16,6 +16,7 @@ comparePrice: 39.03 EUR
 prodname: 'Kelo-Cote Gel de silicona para el tratamiento de cicatrices'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004Q1QKGW/?tag=tolees-21'
 descuento: '41.02'
 average: '21.509999999999998'

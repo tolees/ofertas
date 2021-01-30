@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'New Balance Hombre 574v2-core Trainers Zapatillas  Azul  Navy   40.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06Y2QHBXF/?tag=tolees-21'
 descuento: '31.22'
 average: '59.347500000000004'

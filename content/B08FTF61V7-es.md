@@ -16,6 +16,7 @@ comparePrice: 19.25 EUR
 prodname: 'Fantasyworld FT245 + CPLD Programador de Alta Velocidad Altera Blaster Cable de Descarga USB FPGA/CPLDDownloader USB Blaster Altera  Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08FTF61V7/?tag=tolees-21'
 descuento: '33.51'
 average: '12.8'

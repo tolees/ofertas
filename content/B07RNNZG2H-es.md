@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Portarrollos MEZOOM 2pcs cuelga papel higienico de 304 acero inoxidable soporte rollo papel higienico de 3M adhesivo fuerte para colgar papel del higiene  toalla en baño y cocina.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RNNZG2H/?tag=tolees-21'
 descuento: '50.07'
 average: '17.97'

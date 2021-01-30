@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Seiko Reloj Analógico para Hombre de Energía Solar con Correa en Acero Inoxidable SNE363P1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00MCBF51Y/?tag=tolees-21'
 descuento: '34.96'
 average: '136.40357142857144'

@@ -16,6 +16,7 @@ comparePrice: 3.51 EUR
 prodname: 'Ai.Moichien Gran Esperanza Borlas Étnica Bohemia Dangle Pendientes Joyería Para Mujeres Playa Accessories'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085C4XMM3/?tag=tolees-21'
 descuento: '71.23'
 average: '1.01'

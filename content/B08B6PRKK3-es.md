@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Relec Día y Noche - Difusor y Recambio Antimosquitos Eléctrico Líquido - 45 noches de protección - Sin fragancia - 35 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08B6PRKK3/?tag=tolees-21'
 descuento: '44.97'
 average: '9.266666666666666'

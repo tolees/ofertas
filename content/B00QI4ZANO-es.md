@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'L-Carnitina  suplemento deportivo quemagrasas  ayuda perdida de peso  aumento de resistencia  rendimiento deportivo y reducción de fatiga muscular. 120 cápsulas vegetales  sin gluten. Fabricado en UE.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00QI4ZANO/?tag=tolees-21'
 descuento: '36.17'
 average: '14.379999999999999'

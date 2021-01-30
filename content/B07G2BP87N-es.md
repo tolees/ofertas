@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'TACKLIFE Juego de Destornilladores de Precisión  Profesionales  12 Piezas  Ubicación Cruciforme  Estrellas  Hexagonal  Puntas Magnéticas  para IPhone  Reloj  Joyería  Lentes  Reparación de PC - HSS2B'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G2BP87N/?tag=tolees-21'
 descuento: '38.48'
 average: '15.99'

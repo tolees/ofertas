@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Razer Goliathus - Suave Alfombrilla de Ratón para Juegos   control  fissure  small '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LQ4BLUG/?tag=tolees-21'
 descuento: '66.71'
 average: '7.24'

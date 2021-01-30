@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Einhell 4419169 Multiherramienta TH-MG 135 E con 189 accesorios  maletín  eje flexible  135 W  230 V  color rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BLZXR5S/?tag=tolees-21'
 descuento: '52.05'
 average: '25.45'

@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Hurley M Icon Stretch Chino 19  Pantalones Cortos  Hombre  Azul  Obsidian   28'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KCS4P3F/?tag=tolees-21'
 descuento: '49.02'
 average: '21.843333333333334'

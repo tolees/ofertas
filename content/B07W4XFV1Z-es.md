@@ -16,6 +16,7 @@ comparePrice: 27.49 EUR
 prodname: 'Craft Short Progress Longer Shorts Contrast'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W4XFV1Z/?tag=tolees-21'
 descuento: '34.92'
 average: '17.89'

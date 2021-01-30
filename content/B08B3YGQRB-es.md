@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: '12 Mascarillas Higiénicas The Pink House. Máscaras no quirúrgicas. Desechables de 3 Capas de protección'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08B3YGQRB/?tag=tolees-21'
 descuento: '33.18'
 average: '9.99'

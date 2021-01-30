@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Pop! Figura de Vinilo: Disney: Little Mermaid - 10" Ursula'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZPRP7B/?tag=tolees-21'
 descuento: '27.03'
 average: '29.086666666666666'

@@ -16,6 +16,7 @@ comparePrice: 21.36 EUR
 prodname: 'Samsung S View Cover - Funda para Samsung Galaxy S7 Edge  color Dorado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BSSH9U6/?tag=tolees-21'
 descuento: '78.98'
 average: '4.73'

@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Gel hidroalcoholico para la limpieza y desinfección de manos Formato 250 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085QL3VZG/?tag=tolees-21'
 descuento: '79.33'
 average: '12.4'

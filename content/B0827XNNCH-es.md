@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Montse Interiors  S.L. Juego de sábanas Estampado Rayas de Colores  sín Bajera   Dubai  para Cama de 135x190/200 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0827XNNCH/?tag=tolees-21'
 descuento: '40.07'
 average: '17.95'

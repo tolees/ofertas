@@ -16,6 +16,7 @@ comparePrice: 36.39 EUR
 prodname: 'Optimum Nutrition ON Gold Standard 100% Whey Proteína en Polvo Suplementos Deportivos con Glutamina y Aminoacidos Micronizados Incluyendo BCAA  Crema de Vainilla Francesa  29 Porciones  900 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002DYIZHQ/?tag=tolees-21'
 descuento: '35.64'
 average: '24.19666666666667'

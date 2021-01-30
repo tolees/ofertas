@@ -16,6 +16,7 @@ comparePrice: 11.88 EUR
 prodname: 'Funko- 5 Star: Aladdin: Jasmine 5 Estrellas  Multicolor  Estándar  35766 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KBJFGJH/?tag=tolees-21'
 descuento: '30.56'
 average: '9.325'

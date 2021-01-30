@@ -16,6 +16,7 @@ comparePrice: 10.56 EUR
 prodname: 'AYUN - Funda Protectora Impermeable para Asiento de Coche  58 x 44 cm  4 Piezas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085Y4WN8P/?tag=tolees-21'
 descuento: '48.77'
 average: '5.41'

@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Funko Jyn ERSO Figura de Vinilo  colección de Pop  seria Star Wars Rogue One  Multicolor  10449 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01KJKZ6GS/?tag=tolees-21'
 descuento: '33.62'
 average: '9.95'

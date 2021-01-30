@@ -16,6 +16,7 @@ comparePrice: 16.9 EUR
 prodname: 'NYX Professional Makeup Base de maquillaje Can t Stop Won t Stop Full Coverage Foundation  Larga duración  Waterproof  Fórmula vegana  Acabado mate  Tono: Chestnut'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JQPGTH6/?tag=tolees-21'
 descuento: '71.12'
 average: '4.88'

@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Levi s unbasic  Hoodie Capucha  Multicolor  Dunsmuir Floral Meteorite 0036   Large para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RZ8GV9B/?tag=tolees-21'
 descuento: '52.01'
 average: '36.31'

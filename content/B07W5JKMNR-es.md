@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Ultimate Ears Wonderbooms 2 Altavoz Inalámbrico  Graves Profundos  Sonido Envolvente de 360°  Impermeable  Conexión de 2 Altavoces para Sonido Potente  Batería de 13 h - Concrete'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W5JKMNR/?tag=tolees-21'
 descuento: '38.00'
 average: '62.99'

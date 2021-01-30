@@ -16,6 +16,7 @@ comparePrice: 225.0 EUR
 prodname: 'Hackett London Aston Martin Racing Knitted Hzip Suéter  Azul  Blue 551   XL para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JB6ZGJP/?tag=tolees-21'
 descuento: '74.42'
 average: '62.675'

@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Tira LED TV 2.2M  5050 Tiras LED USB Impermeable con Control Remoto  16 RGB Colores y 4 Modos  Retroiluminacion LED de TV para Cine en Casa  HDTV/PC Monitor  40-60 Pulgada  - 2x50cm+2x60cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08C7M1GG7/?tag=tolees-21'
 descuento: '33.36'
 average: '12.49'

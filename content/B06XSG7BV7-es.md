@@ -16,6 +16,7 @@ comparePrice: 349.0 EUR
 prodname: 'Reloj Hugo Boss para Hombre 1513493'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XSG7BV7/?tag=tolees-21'
 descuento: '56.91'
 average: '178.155'

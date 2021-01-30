@@ -16,6 +16,7 @@ comparePrice: 199 EUR
 prodname: 'Lacoste Reloj Multiesfera para Mujer de Cuarzo con Correa en Silicona 2001025'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B6BG8NQ/?tag=tolees-21'
 descuento: '37.88'
 average: '125.65333333333334'

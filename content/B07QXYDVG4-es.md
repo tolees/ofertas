@@ -16,6 +16,7 @@ comparePrice: 29.33 EUR
 prodname: 'USB C a HDMI VGA Adaptador Tipo C 4K HDMI y 1080P VGA para Huawei P30 Mate 20 Adaptador/Macbook Air 2018  MacBook Pro 2017 2016  Galaxy S9/Note 8/S8 Plus/iPad Pro 2018 Samsung S10+ S9 S8'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QXYDVG4/?tag=tolees-21'
 descuento: '38.66'
 average: '17.99'

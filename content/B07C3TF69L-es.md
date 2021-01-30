@@ -16,6 +16,7 @@ comparePrice: 349.99 EUR
 prodname: 'Cocina SolThermic F9LT50G2-I INOX PORTABOMBONA de color INOX compuesta por 5 Quemadores y Horno Incorporado.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C3TF69L/?tag=tolees-21'
 descuento: '58.57'
 average: '144.99'

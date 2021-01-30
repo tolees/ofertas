@@ -16,6 +16,7 @@ comparePrice: 64.99 EUR
 prodname: 'Belkin Boost Up Soporte de Carga Inalámbrica de 10 W  Cargador Inalámbrico Rápido Qi para iPhone XS  XS Max  XR  X  8  8 Plus  Samsung Galaxy S10  S10+  S10e  Huawei P30  P30 Pro y Otros  Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CX1ZBLR/?tag=tolees-21'
 descuento: '40.22'
 average: '37.09'

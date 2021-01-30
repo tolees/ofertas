@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Lee Austin Jeans  Negro  Moto Black HL   31W / 30L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MR9CS8M/?tag=tolees-21'
 descuento: '29.65'
 average: '68.34666666666666'

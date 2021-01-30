@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'Arolun Pistola de Masaje Muscular  Pistola de Masaje Muscular Eléctrica con 4 Niveles de Velocidad aJustables y 4 Cabezales de Masaje  Pistola de Masaje Portátil Super Silenciosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZVP4ZXZ/?tag=tolees-21'
 descuento: '46.49'
 average: '159.99'

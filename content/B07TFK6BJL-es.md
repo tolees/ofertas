@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Arbily Auriculares Bluetooth  Auriculares Inalámbricos Bluetooth 5.0 Estéreo Hi-Fi Sonido IPX7 Resistentes al Agua  90 Horas Autonomía 3000mAH Estuche de Carga'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TFK6BJL/?tag=tolees-21'
 descuento: '33.34'
 average: '42.314'

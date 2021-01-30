@@ -16,6 +16,7 @@ comparePrice: 12.72 EUR
 prodname: 'Maddox Detail - Premium Microfiber - Paño de Microfibra 40 x 40 cm  súper Suave de Alta absorción de Agua'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G376PZK/?tag=tolees-21'
 descuento: '28.85'
 average: '9.05'

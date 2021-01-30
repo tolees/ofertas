@@ -16,6 +16,7 @@ comparePrice: 52.91 EUR
 prodname: 'WOWLIVE - Cesta para la Ropa Sucia  tamaño Grande  con Ruedas   Color Beige'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H54MSN6/?tag=tolees-21'
 descuento: '30.11'
 average: '36.98'

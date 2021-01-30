@@ -16,6 +16,7 @@ comparePrice: 8.95 EUR
 prodname: 'Bourjois Blur The Lines Corrector Tono 01 Ivory - 28 gr.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01JGFD204/?tag=tolees-21'
 descuento: '76.54'
 average: '3.9499999999999997'

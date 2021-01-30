@@ -16,6 +16,7 @@ comparePrice: 999.0 EUR
 prodname: 'Fujifilm X-E3 - Cámara Evil de 24.3 MP y kit cuerpo con objetivo Fujinon XF 18-55 mm  color plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075JJSHF4/?tag=tolees-21'
 descuento: '30.13'
 average: '715.6926666666667'

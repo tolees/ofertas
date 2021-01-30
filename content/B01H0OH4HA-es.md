@@ -16,6 +16,7 @@ comparePrice: 16.95 EUR
 prodname: 'LEDKIA LIGHTING Pack Placas LED Circular SuperSlim 18W  2 un  Blanco Cálido 2800K - 3200K'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01H0OH4HA/?tag=tolees-21'
 descuento: '26.55'
 average: '11.736666666666666'

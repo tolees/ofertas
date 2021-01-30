@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Alyoen Escalera de Agilidad  Escalera de Entrenamiento Ajustable de 6 m con 12 peldaños y Bolsa de Transporte Gratuita'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XLB4RXT/?tag=tolees-21'
 descuento: '25.01'
 average: '17.99'

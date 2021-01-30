@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'CE-Link para Funda Xiaomi Redmi Note 8T Carcasa Fundas 360 Grados 3 en 1 Desmontable Ultra-Delgado Anti-Arañazos Case Protectora - Rojo + Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0854CNZB3/?tag=tolees-21'
 descuento: '37.55'
 average: '4.99'

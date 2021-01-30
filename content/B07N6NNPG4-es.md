@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Tommy Hilfiger TH Pompom Beanie Gorro de Punto   Blue Cjm   única  Talla del Fabricante: OS  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N6NNPG4/?tag=tolees-21'
 descuento: '39.90'
 average: '29.99'

@@ -16,6 +16,7 @@ comparePrice: 78.99 EUR
 prodname: 'Hapilife 360 Grifo de Cocina Grifo Mezclador Grifo de pared Fregadero Monomando para Fregadero Grifo de Cuenca Doble Agua Fría y Caliente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RXMWT7Y/?tag=tolees-21'
 descuento: '49.37'
 average: '39.99'

@@ -16,6 +16,7 @@ comparePrice: 43.0 EUR
 prodname: 'AIR OPTIX Lentes de contacto multifocales mensuales  R 8.6  D 14.2  1.75 dioptría  adición baja - 3 lentillas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00OQ1IWYA/?tag=tolees-21'
 descuento: '46.53'
 average: '22.99'

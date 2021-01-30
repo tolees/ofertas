@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'LEABAGS Fort Wayne Estuche de auténtico Cuero búfalo en el Estilo Vintage - Muskat'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00W7H3ZME/?tag=tolees-21'
 descuento: '73.41'
 average: '15.45'

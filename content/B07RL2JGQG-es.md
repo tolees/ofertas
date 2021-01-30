@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'adidas Hoops 2.0 CMF I  Zapatillas para Bebés  Multicolor  Dark Blue/Blue/Grey Three F17 Ee9001   27 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RL2JGQG/?tag=tolees-21'
 descuento: '60.23'
 average: '11.91'

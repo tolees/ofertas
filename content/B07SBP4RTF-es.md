@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Under Armour UA W Ripple 2.0 NM1  Zapatillas de Running para Mujer  Rosa  Hushed Pink/Dash Pink/Hushed Pink   40.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SBP4RTF/?tag=tolees-21'
 descuento: '39.94'
 average: '39.01'

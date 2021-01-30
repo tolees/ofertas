@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'JIANYE Calcetines Ciclismo Transpirable Que Absorbe Running Deporte Bicicletas Calcetines Hombre Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F24BDCM/?tag=tolees-21'
 descuento: '41.30'
 average: '3.89'

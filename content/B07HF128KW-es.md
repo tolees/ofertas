@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'UniqueMe [2 Pack] Protector de Pantalla para Huawei Mate 20 Lite  9H Dureza Vidrio Templado [Garantía de por Vida] - Balu'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HF128KW/?tag=tolees-21'
 descuento: '30.79'
 average: '8.99'

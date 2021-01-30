@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Sunstech RPR4000  Radio de Sobremesa  Madera'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00MJP18UK/?tag=tolees-21'
 descuento: '28.61'
 average: '34.24'

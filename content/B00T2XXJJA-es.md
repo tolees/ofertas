@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Remington Ionic Dry D3190 Secador de Pelo  Secador Iónico  Difusor y Concentrador  2200 W  Morado y Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00T2XXJJA/?tag=tolees-21'
 descuento: '42.88'
 average: '24.237499999999997'

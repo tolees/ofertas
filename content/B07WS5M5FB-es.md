@@ -16,6 +16,7 @@ comparePrice: 99 EUR
 prodname: 'Videocamara Videocámara Cámara de Video Full HD 1080p 24.0MP 18x Zoom Digital 3.0 " LCD 270 °Pantalla de Rotación Camara Video con Control Remoto'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WS5M5FB/?tag=tolees-21'
 descuento: '39.40'
 average: '59.99'

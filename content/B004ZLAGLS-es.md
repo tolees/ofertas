@@ -16,6 +16,7 @@ comparePrice: 17.37 EUR
 prodname: 'OXO Good Grips 1312480V1MLNYK Cepillo Eléctrico para Parrilla y Panini  Plastic  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004ZLAGLS/?tag=tolees-21'
 descuento: '26.02'
 average: '13.39'

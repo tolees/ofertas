@@ -16,6 +16,7 @@ comparePrice: 150.0 EUR
 prodname: 'Asics Noosa Ff 2  Zapatillas de Entrenamiento para Mujer  Rosa  Seashell Pink/Dark Blue/Begonia 1749   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078MB9RKB/?tag=tolees-21'
 descuento: '45.63'
 average: '81.55'

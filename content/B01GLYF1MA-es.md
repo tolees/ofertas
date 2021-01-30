@@ -16,6 +16,7 @@ comparePrice: 35.44 EUR
 prodname: 'Bellota 7230042S3 Botas  piel   42'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GLYF1MA/?tag=tolees-21'
 descuento: '35.24'
 average: '24.4925'

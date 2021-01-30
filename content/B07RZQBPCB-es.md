@@ -16,6 +16,7 @@ comparePrice: 104.99 EUR
 prodname: 'Lacoste - Polo Manga Corta Hombre - Ph8522'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RZQBPCB/?tag=tolees-21'
 descuento: '50.22'
 average: '52.26'

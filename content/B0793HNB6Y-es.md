@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Victor Vran: Overkill Edition'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0793HNB6Y/?tag=tolees-21'
 descuento: '37.51'
 average: '25.659999999999997'

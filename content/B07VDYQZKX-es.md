@@ -16,6 +16,7 @@ comparePrice: 43.53 EUR
 prodname: 'Tommy Hilfiger Adan Leather 3.5 Cinturón  Marrón  Testa Di Moro 0gj   115  Talla del fabricante: 110  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VDYQZKX/?tag=tolees-21'
 descuento: '44.98'
 average: '23.95'

@@ -16,6 +16,7 @@ comparePrice: 159.0 EUR
 prodname: 'Skagen Reloj Análogo clásico para Mujer de Cuarzo con Correa en Acero Inoxidable SKW2614'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N0IESZ9/?tag=tolees-21'
 descuento: '42.14'
 average: '92.0'

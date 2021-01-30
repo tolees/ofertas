@@ -16,6 +16,7 @@ comparePrice: 118.91 EUR
 prodname: 'ABUS 27161 Anclaje antirrobo de pared / piso  1 unidad  negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000OYHNZW/?tag=tolees-21'
 descuento: '48.73'
 average: '60.96'

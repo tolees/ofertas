@@ -16,6 +16,7 @@ comparePrice: 39.97 EUR
 prodname: 'KLIM™ Talk – Micrófono USB de Escritorio para PC y Mac – Compatible con Cualquier Ordenador – Micrófono Profesional de Escritorio Audio - Blanco [ Nueva Versión 2020 ]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PVH1ZW1/?tag=tolees-21'
 descuento: '43.88'
 average: '22.43'

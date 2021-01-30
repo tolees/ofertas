@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'TACKLIFE M1 Compresor Aire Coche  Inflador Digital 150PSI  40L/Min  Compresor de Aire 12V  Bomba Electrico con Manómetro  Pantalla LCD  3 Modos de luz LED  Fusible Extra  4 Adaptadores de Boquilla'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074T7Q2WB/?tag=tolees-21'
 descuento: '25.01'
 average: '29.99'

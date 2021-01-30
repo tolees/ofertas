@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'Lacoste L1230  Polo de Manga Corta para Hombre  Negro  Noir   XL  Talla del fabricante: 6 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B008E8SGSS/?tag=tolees-21'
 descuento: '42.93'
 average: '39.95'

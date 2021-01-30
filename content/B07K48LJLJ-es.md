@@ -16,6 +16,7 @@ comparePrice: 119.0 EUR
 prodname: 'Reloj Viceroy Mujer 42358-06 Colección Antonio Banderas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K48LJLJ/?tag=tolees-21'
 descuento: '30.00'
 average: '83.3'

@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'Tefal Optigrill GC712D12 - Plancha Grill 2000 W  6 modos de cocción y 4 temperaturas ajustables con indicador del progreso  sensor de grosor  bandejas extraíbles y desmontables aptas para lavavajillas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CI29NHI/?tag=tolees-21'
 descuento: '40.50'
 average: '119.09'

@@ -16,6 +16,7 @@ comparePrice: 49.94 EUR
 prodname: 'Selected SLHSTRAIGHT Paris Pantalones  Gris  Phantom   W36/L32 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B017JTHDK4/?tag=tolees-21'
 descuento: '38.81'
 average: '30.56'

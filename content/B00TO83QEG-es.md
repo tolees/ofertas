@@ -16,6 +16,7 @@ comparePrice: 189.0 EUR
 prodname: 'Tommy Hifiger 1781526 Alex - Reloj para Hombre  Cuarzo  analógico  Esfera Blanca  Pulsera'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00TO83QEG/?tag=tolees-21'
 descuento: '30.16'
 average: '132.0'

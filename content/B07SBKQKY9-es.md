@@ -16,6 +16,7 @@ comparePrice: 13.65 EUR
 prodname: 'AmazonBasics Cable HDMI 1.4b  182 8 cm  alta velocidad  blanco  1 unidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SBKQKY9/?tag=tolees-21'
 descuento: '48.79'
 average: '6.99'

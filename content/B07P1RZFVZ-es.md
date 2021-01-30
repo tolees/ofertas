@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Alambre de soldadura sin plomo 0.8mm Hilo de estaño para soldar Con núcleo de colofonia cable 100g 97Sn 2Colofonia 0 3Ag 0 7Cu '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P1RZFVZ/?tag=tolees-21'
 descuento: '41.20'
 average: '9.99'

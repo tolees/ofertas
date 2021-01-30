@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Narcos: Rise of The Cartels'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X5CY1JH/?tag=tolees-21'
 descuento: '42.98'
 average: '23.0475'

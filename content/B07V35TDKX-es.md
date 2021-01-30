@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'PHONECT Hervidor de Agua Eléctrico 2200W Hervidor de Cristal rápido  con Iluminación Led de 1 7 litros de Capacidad  Libre de BPA  Doble Sistema de Seguridad Filtro Antical.Acero Inoxidable.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V35TDKX/?tag=tolees-21'
 descuento: '60.88'
 average: '30.35363636363636'

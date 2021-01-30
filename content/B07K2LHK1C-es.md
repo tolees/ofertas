@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'adidas Adilette Aqua  Zapatillas de Deporte Unisex niño  Multicolor  Multicolor 000   36.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K2LHK1C/?tag=tolees-21'
 descuento: '32.73'
 average: '13.42'

@@ -16,6 +16,7 @@ comparePrice: 109.95 EUR
 prodname: 'Skechers Outdoor Ultra  Botas Altas para Mujer  Marrón  Chocolate Textile Chocolate   37.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NW6H1BG/?tag=tolees-21'
 descuento: '64.56'
 average: '38.97'

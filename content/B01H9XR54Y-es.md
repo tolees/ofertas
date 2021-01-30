@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'SPC Harmony - Teléfono móvil  Dual SIM  Números y letras grandes  3 memorias directas  5 números SOS  cámara de fotos  – Color Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01H9XR54Y/?tag=tolees-21'
 descuento: '33.57'
 average: '33.15'

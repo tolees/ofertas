@@ -16,6 +16,7 @@ comparePrice: 13.4 EUR
 prodname: 'Comodynes Self-Tanning Manopla Autobronceadora - 3 Unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00DATQKGG/?tag=tolees-21'
 descuento: '27.39'
 average: '9.73'

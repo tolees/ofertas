@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Bandolera Pepe Jeans Bromley Azul cruzada'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FYN7X4V/?tag=tolees-21'
 descuento: '29.98'
 average: '21.0'

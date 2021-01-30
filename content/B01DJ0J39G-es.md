@@ -16,6 +16,7 @@ comparePrice: 19.5 EUR
 prodname: 'EMPO El Apoyo de Abrazadera de Rodilla Carreras - Totalmente Ajustable  Unisex - Neopreno Buena Compresión Deportiva con el diseño Anti resbalón único y Fuerte'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01DJ0J39G/?tag=tolees-21'
 descuento: '40.51'
 average: '11.6'

@@ -16,6 +16,7 @@ comparePrice: 5.78 EUR
 prodname: 'DIY hecho a mano de costura de costura de alta calidad punzón punzante conjunto punzonado más nuevo para bordado herramientas artesanales totes manteles'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KYNDS9Q/?tag=tolees-21'
 descuento: '34.43'
 average: '3.79'

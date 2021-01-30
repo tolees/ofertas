@@ -16,6 +16,7 @@ comparePrice: 10.95 EUR
 prodname: 'Brabantia 385520 - Lengua raspadora grande  acero y nylon  color gris y negro  6 unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000RE8NTO/?tag=tolees-21'
 descuento: '36.16'
 average: '6.99'

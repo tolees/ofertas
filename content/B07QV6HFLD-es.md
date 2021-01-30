@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'DOOKEY Pinturas Cara para Niños  Pintura Facial no Tóxicos con 16 Colores + 24 Plantillas + 2 Tinte para el Cabello  Azul/Rosa  + 2 Pinceles + 4 Esponjas para Halloween/Fiestas/Cosplay/Santa/Carnaval'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QV6HFLD/?tag=tolees-21'
 descuento: '36.68'
 average: '18.19333333333333'

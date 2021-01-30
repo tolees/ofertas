@@ -16,6 +16,7 @@ comparePrice: 15.7 EUR
 prodname: 'ORICO USB 3.0 2.5 Inch Caja Disco Duro Externo  SATA 3.0 a USB 3.0 5 GB/s  Transparente para HDD/SSD de 7mm y 9.5mm  Sopporta UASP   Libre de Herramienta  LED Indicador'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079K85TZJ/?tag=tolees-21'
 descuento: '38.92'
 average: '9.59'

@@ -16,6 +16,7 @@ comparePrice: 42.41 EUR
 prodname: 'Scholl Lima Electrónica de Pies Rosa y 2 Pintauñas de Color Rojo y Transparente - Pack Regalo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076PM1GSK/?tag=tolees-21'
 descuento: '33.98'
 average: '29.243846153846153'

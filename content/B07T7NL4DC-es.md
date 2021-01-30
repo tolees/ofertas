@@ -16,6 +16,7 @@ comparePrice: 70.25 EUR
 prodname: 'Uverbon Esterillas Inflables  Esterilla Acampada Camping  Ultraligera Colchon Acampada Diseño de compresión único Inflado rápido para Viajes Senderismo Camping Playa Piscina'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T7NL4DC/?tag=tolees-21'
 descuento: '63.00'
 average: '25.99'

@@ -16,6 +16,7 @@ comparePrice: 63.05 EUR
 prodname: 'BRADLEY CROMPTON El  Set De 2 Cinturones  Marrón y marrón Para Mujeres Multi-Paquete Paquete Gemelo Con Cinturones Casuales Y Formales De Genuino Y Completo Cuero Natural  90 cm/ 32 Inches '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CB4Q3JK/?tag=tolees-21'
 descuento: '74.21'
 average: '16.666'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Big Pharma. Manager Edition'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0853PRF6H/?tag=tolees-21'
 descuento: '25.01'
 average: '31.990000000000002'

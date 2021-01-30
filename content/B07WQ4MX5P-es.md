@@ -16,6 +16,7 @@ comparePrice: 2.39 EUR
 prodname: 'Divisor de Potencia liviano de Dos vías Jasen Power Splitter Satellite Splitter de 2 vías Divisor de Potencia liviano  Plateado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WQ4MX5P/?tag=tolees-21'
 descuento: '33.05'
 average: '1.6'

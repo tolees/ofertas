@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'One For All URC1911 - Mando a distancia de reemplazo para Televisores LG – Control remoto universal para todo tipo de TVs de la marca LG - negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NMEZDPS/?tag=tolees-21'
 descuento: '45.02'
 average: '13.723333333333333'

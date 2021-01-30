@@ -16,6 +16,7 @@ comparePrice: 25.39 EUR
 prodname: 'Occitop - Juego de 85 cuentas para manualidades  collares  pulseras  joyería'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MV63BQG/?tag=tolees-21'
 descuento: '33.32'
 average: '16.93'

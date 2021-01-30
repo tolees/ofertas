@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'PUTORSEN® Soporte de impresora debajo del escritorio con ruedas  carro de impresora con ruedas  carro de máquina de oficina apilado de altura ajustable con tableta y soporte para teléfono  hasta 20 kg'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0819FL7DY/?tag=tolees-21'
 descuento: '41.87'
 average: '34.87'

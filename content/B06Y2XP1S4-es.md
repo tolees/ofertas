@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'New Balance 574 Core Zapatillas Hombre  Negro  Black EGK   37 EU  4 UK '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06Y2XP1S4/?tag=tolees-21'
 descuento: '51.53'
 average: '44.36333333333333'

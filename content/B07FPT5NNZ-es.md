@@ -16,6 +16,7 @@ comparePrice: 12.49 EUR
 prodname: '1-kops easy clean filter'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FPT5NNZ/?tag=tolees-21'
 descuento: '44.36'
 average: '6.95'

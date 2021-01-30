@@ -16,6 +16,7 @@ comparePrice: 25.88 EUR
 prodname: 'incarpo Zapatillas Casa Mujer Lana de Coral Zapatillas de Estar por Casa Antideslizante Pantuflas de Interior y Exterior Cálido y Confortable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YFCHJ2N/?tag=tolees-21'
 descuento: '34.78'
 average: '16.88'

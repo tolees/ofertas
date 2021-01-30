@@ -16,6 +16,7 @@ comparePrice: 4.96 EUR
 prodname: 'Garnier Fructis Style Espuma Melena Abundante Efecto Densidad - 200 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00X9U6TTO/?tag=tolees-21'
 descuento: '39.72'
 average: '2.99'

@@ -16,6 +16,7 @@ comparePrice: 40.99 EUR
 prodname: 'Zombie Army Trilogy'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0857YY2LP/?tag=tolees-21'
 descuento: '29.45'
 average: '34.79333333333333'

@@ -16,6 +16,7 @@ comparePrice: 12.8 EUR
 prodname: 'Purina DentaLife Snack Dental para Gato con Sabor a Salmón 8 x 40 g - 1 Pack'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SB8DDXZ/?tag=tolees-21'
 descuento: '68.83'
 average: '7.349999999999999'

@@ -16,6 +16,7 @@ comparePrice: 47.7 EUR
 prodname: 'Bankers Box Earth Series - Maxi contenedor de archivos  marrón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0030DMOVM/?tag=tolees-21'
 descuento: '87.84'
 average: '6.1'

@@ -16,6 +16,7 @@ comparePrice: 9.9 EUR
 prodname: 'ERIK - Calendario de pared 2020 Gameration  30 x 30 cm  incluye póster de regalo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XDB6Z66/?tag=tolees-21'
 descuento: '30.30'
 average: '6.9'

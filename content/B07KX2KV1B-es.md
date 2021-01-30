@@ -16,6 +16,7 @@ comparePrice: 140.0 EUR
 prodname: 'Brooks Addiction Walker 2  Zapatillas de Running para Hombre  Negro  Black/Black 072   47.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KX2KV1B/?tag=tolees-21'
 descuento: '48.20'
 average: '55.845'

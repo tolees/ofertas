@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'SNUNGPHIR® 4pcs Protector de Pantalla para Xiaomi Mi Band 4 Protector Pantalla de Alta Definición Anti-Arañazo Ultra Delgado TPU Protector Pantalla para el Reloj Xiaomi Mi Band 4'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08GLMLX8G/?tag=tolees-21'
 descuento: '27.30'
 average: '7.99'

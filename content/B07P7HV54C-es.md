@@ -16,6 +16,7 @@ comparePrice: 66.54 EUR
 prodname: 'San Ignacio PK1319 Set de Sartenes VINUM-Ø20/24/28/30 cms  Aluminio Forjado  Mango ergonómico Soft Touch a Juego-Especial Gas y vitro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P7HV54C/?tag=tolees-21'
 descuento: '39.90'
 average: '45.300000000000004'

@@ -16,6 +16,7 @@ comparePrice: 111.38 EUR
 prodname: 'Versa 15810415 Carro verdulero de Cocina y botellero Rojo de Metal  PVC y Madera con cajones y cestas con 4 Ruedas  82 x 40 x 76 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NR24K8X/?tag=tolees-21'
 descuento: '52.38'
 average: '53.04'

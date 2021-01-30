@@ -16,6 +16,7 @@ comparePrice: 220.0 EUR
 prodname: 'Wilson BLX Seven raqueta de tenis cubierta + + 3 pelotas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01ABZBXWM/?tag=tolees-21'
 descuento: '72.73'
 average: '59.99'

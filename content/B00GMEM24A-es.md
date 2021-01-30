@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Belkin F8J054btBLK - Cargador para coche 12 W  para smartphones y tabletas  compatible con iPhone 7/7+ y iPhone 6s/6s+   negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00GMEM24A/?tag=tolees-21'
 descuento: '38.49'
 average: '7.99'

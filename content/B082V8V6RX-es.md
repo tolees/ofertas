@@ -16,6 +16,7 @@ comparePrice: 20.79 EUR
 prodname: 'Rucae - Juego de tornillos para ordenador portátil  500 piezas  para IBM HP  Dell  Samsung  Sony  Toshiba Gateway  Acer Lenovo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082V8V6RX/?tag=tolees-21'
 descuento: '56.76'
 average: '8.99'

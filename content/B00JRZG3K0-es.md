@@ -16,6 +16,7 @@ comparePrice: 164.0 EUR
 prodname: 'Pioneer TS-SW2002D2 Subwoofer de Poca Profundidad  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00JRZG3K0/?tag=tolees-21'
 descuento: '58.12'
 average: '87.42'

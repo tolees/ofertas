@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Tierhausschuhe Disney Star Wars Meister Yoda'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B016Y8RL8K/?tag=tolees-21'
 descuento: '66.72'
 average: '19.95'

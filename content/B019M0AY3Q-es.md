@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Trust Urban - Palo para Selfie  Bluetooth  plegable   negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B019M0AY3Q/?tag=tolees-21'
 descuento: '60.03'
 average: '7.99'

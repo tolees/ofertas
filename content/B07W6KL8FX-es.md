@@ -16,6 +16,7 @@ comparePrice: 78.99 EUR
 prodname: 'Fivejoy Coche Teledirigido  1:28 RC Coche  15km/h Stunt Coche Teledirigido  2.4GHz Coche de Control Remoto Doble Lado Rotación Volteo de 360 Grados de Alta Velocidad con Batería Recargable  para Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W6KL8FX/?tag=tolees-21'
 descuento: '69.63'
 average: '23.99'

@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Zoeson Ducha Solar  Ducha Portatil  Bolsa De Ducha Para Camping Y Senderismo  20L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B3NBV1D/?tag=tolees-21'
 descuento: '35.74'
 average: '10.74'

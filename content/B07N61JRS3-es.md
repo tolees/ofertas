@@ -16,6 +16,7 @@ comparePrice: 85.2 EUR
 prodname: 'DC Shoes  DCSHI  Heathrow-Low-Top Shoes for Men  Zapatillas de Skateboard para Hombre  Battleship/Black  39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N61JRS3/?tag=tolees-21'
 descuento: '30.67'
 average: '39.34'

@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'George Foreman - Grill  Barbacoa  Parrilla Eléctrica  2400 W  Negro  15 Raciones  Interior y Exterior  - ref. 22460-56'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MTC974D/?tag=tolees-21'
 descuento: '30.32'
 average: '75.6375'

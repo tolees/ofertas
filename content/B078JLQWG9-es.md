@@ -16,6 +16,7 @@ comparePrice: 109 EUR
 prodname: 'Timex Reloj Analógico para Hombre de Cuarzo con Correa en Nailon TW2R38500'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078JLQWG9/?tag=tolees-21'
 descuento: '68.35'
 average: '41.4'

@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Helly Hansen Active Windbreaker Jacket  Hombre  Negro  Ebony   2XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F2LX7D2/?tag=tolees-21'
 descuento: '44.06'
 average: '55.94'

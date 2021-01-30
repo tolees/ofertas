@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Adidas Grand Court  Zapatillas de Deporte para Mujer  Multicolor  Ftwbla/Metpla/Ftwbla 000   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DND7QCN/?tag=tolees-21'
 descuento: '28.59'
 average: '49.95'

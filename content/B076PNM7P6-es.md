@@ -16,6 +16,7 @@ comparePrice: 40.99 EUR
 prodname: 'Firefighters: The Simulation'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076PNM7P6/?tag=tolees-21'
 descuento: '39.52'
 average: '27.894'

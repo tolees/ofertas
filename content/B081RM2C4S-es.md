@@ -16,6 +16,7 @@ comparePrice: 169.99 EUR
 prodname: 'Taylor Swoden Eddy - Ventilador de mesa digital  oscilante  mando a distancia. Pantalla LED  4 velocidades  3 modos  70W  oscilación vertical y horizontal  temporizador 8 horas. Diseño retro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081RM2C4S/?tag=tolees-21'
 descuento: '52.94'
 average: '79.99'

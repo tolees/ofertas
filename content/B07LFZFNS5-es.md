@@ -16,6 +16,7 @@ comparePrice: 4.83 EUR
 prodname: 'Clip de retención de banda elástica 4 x 20 cm Sujetadores de sábana Manteles de casa Clip fijo Mantas portátiles Abrazadera'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFZFNS5/?tag=tolees-21'
 descuento: '33.54'
 average: '3.21'

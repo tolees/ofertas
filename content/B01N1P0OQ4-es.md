@@ -16,6 +16,7 @@ comparePrice: 42.35 EUR
 prodname: 'B+W 1089607 - Soporte para filtros  100 x 100 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N1P0OQ4/?tag=tolees-21'
 descuento: '28.90'
 average: '30.11'

@@ -16,6 +16,7 @@ comparePrice: 21.77 EUR
 prodname: 'Clarks Un Darcey Ease  Mocasines para Mujer  Multicolor Leopard PRT Pony  38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N1GL8P8/?tag=tolees-21'
 descuento: '26.41'
 average: '16.02'

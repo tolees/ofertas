@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Beschoi - 77mm Filtro de Camára Lente  Packs de Filtros Fotográficos para Nikon Canon EOS DSLR Cámaras  11 PCS Incluye CPL ND4 ND8 + Ultra Delgado Graduado Naranja Azul Gris Filtros + Aceesorios '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N03X0AP/?tag=tolees-21'
 descuento: '25.01'
 average: '26.99'

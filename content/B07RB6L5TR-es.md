@@ -16,6 +16,7 @@ comparePrice: 1199.0 EUR
 prodname: 'Lenovo Legion Y44w - Monitor de 43.4"  Pantalla UHD  3840 x 1200 pixeles  tiempo de respuesta de 4ms  HDMI  AMD FreeSync 2   Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RB6L5TR/?tag=tolees-21'
 descuento: '27.19'
 average: '873.0'

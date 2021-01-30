@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Life Is Strange - Standard Edition'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01C43H7WO/?tag=tolees-21'
 descuento: '38.42'
 average: '14.324545454545456'

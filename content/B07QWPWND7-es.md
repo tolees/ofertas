@@ -16,6 +16,7 @@ comparePrice: 35.55 EUR
 prodname: 'Gitany Juego de 10 Utensilios de Cocina  Set de Utensilios de Cocina Acero Inoxidable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QWPWND7/?tag=tolees-21'
 descuento: '33.76'
 average: '23.55'

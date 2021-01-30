@@ -16,6 +16,7 @@ comparePrice: 19.75 EUR
 prodname: 'Moliies W50L-5DB 802.11 AC 1200M 2.4G / 5.8G Adaptador inalámbrico de Banda Dual USB 3.0 WiFi'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KW47YM2/?tag=tolees-21'
 descuento: '38.99'
 average: '12.05'

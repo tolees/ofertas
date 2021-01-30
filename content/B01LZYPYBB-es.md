@@ -16,6 +16,7 @@ comparePrice: 37.95 EUR
 prodname: 'Brabantia Cubo de Basura con Pedal  Inoxidable  Acero Mate Anti-Huellas  5 l'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LZYPYBB/?tag=tolees-21'
 descuento: '30.04'
 average: '26.55'

@@ -16,6 +16,7 @@ comparePrice: 88.5 EUR
 prodname: 'Cluse Reloj Analógico Automático para Mujer con Correa de Acero Inoxidable – CL18105'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00REMK75K/?tag=tolees-21'
 descuento: '26.61'
 average: '59.586666666666666'

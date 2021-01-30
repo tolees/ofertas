@@ -16,6 +16,7 @@ comparePrice: 24.0 EUR
 prodname: 'Vitamina C 1000mg. Vitamina C natural. Complemento Vitamínico útil para mejorar el sistema inmunitario. Reduce el cansancio y la fatiga. Cada bote incluye 90 cápsulas de Vitamina C.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085XVKRWN/?tag=tolees-21'
 descuento: '29.21'
 average: '16.99'

@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Superdry Applique Ziphood Capucha  Rosa  Smoke Rose L6y   X-Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NZ2D3BV/?tag=tolees-21'
 descuento: '58.70'
 average: '37.17'

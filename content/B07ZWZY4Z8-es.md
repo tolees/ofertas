@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'TACKLIFE Pistola de Calor  2000W Decapadora  2 Temperaturas Ajustables 350℃- 550℃  Pistola de Aire Caliente con 4 Boquillas  HGP68AC'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZWZY4Z8/?tag=tolees-21'
 descuento: '34.63'
 average: '16.99'

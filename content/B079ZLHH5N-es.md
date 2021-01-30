@@ -16,6 +16,7 @@ comparePrice: 184.5 EUR
 prodname: 'Guerlain Orchidée Impériale Crème Yeux 15 ml 100 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079ZLHH5N/?tag=tolees-21'
 descuento: '37.77'
 average: '114.82'

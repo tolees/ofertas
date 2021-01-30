@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'PUMA ESS Sweat TR cl Pants  Mujer  Negro  Cotton Black   XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DFQKGTN/?tag=tolees-21'
 descuento: '40.15'
 average: '23.91'

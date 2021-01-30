@@ -16,6 +16,7 @@ comparePrice: 13.62 EUR
 prodname: 'AmazonBasics - Cable óptico de audio digital Toslink  3 m '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00L3KO3YU/?tag=tolees-21'
 descuento: '47.94'
 average: '6.898333333333333'

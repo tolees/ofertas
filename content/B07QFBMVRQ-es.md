@@ -16,6 +16,7 @@ comparePrice: 44.95 EUR
 prodname: 'PUMA Ftblnxt Pant Chándal  Hombre  Negro Black  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QFBMVRQ/?tag=tolees-21'
 descuento: '55.17'
 average: '20.15'

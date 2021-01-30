@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Relojes de Pulsera Electrónicos Para Niños Niños Digital Relojes Para Niños Niñas Deportes–5 ATM Reloj Deportivo Impermeable al aire libre Con Alarma Cronómetro Luces de colores de fondo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MY1W25T/?tag=tolees-21'
 descuento: '55.57'
 average: '15.99'

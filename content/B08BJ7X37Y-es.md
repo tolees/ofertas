@@ -16,6 +16,7 @@ comparePrice: 68.35 EUR
 prodname: 'SPIRIT OF GAMER - MY-JOY PLUS - Controlador Bluetooth Switch Y Switch Lite - Inalámbrico - Soporte Incluido - Autonomía 20 Horas * - 2 Cables USB-C Suministrados'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BJ7X37Y/?tag=tolees-21'
 descuento: '30.84'
 average: '47.27'

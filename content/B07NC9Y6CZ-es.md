@@ -16,6 +16,7 @@ comparePrice: 56.66 EUR
 prodname: 'Pepe Jeans Lulu suéter  Rojo  Francois Red 240   X-Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NC9Y6CZ/?tag=tolees-21'
 descuento: '27.66'
 average: '28.12'

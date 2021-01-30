@@ -16,6 +16,7 @@ comparePrice: 35.7 EUR
 prodname: 'Cojín antiescaras cuadrado y con agujero  44x44x9 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00I459SDI/?tag=tolees-21'
 descuento: '29.97'
 average: '25.0'

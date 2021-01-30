@@ -16,6 +16,7 @@ comparePrice: 115.99 EUR
 prodname: 'Controlslim -Aquisana | Quema Grasas Potente Para Adelgazar | Quemagrasas Natural | Pastillas para Adelgazar | Fat Burner | Termogénico Adelgazante | Libre de alérgenos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NCXWF77/?tag=tolees-21'
 descuento: '41.38'
 average: '76.49'

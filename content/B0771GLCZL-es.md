@@ -16,6 +16,7 @@ comparePrice: 130.0 EUR
 prodname: 'Eastpak Tranverz S Maleta  51 cm  42 L  Gris  Black Denim '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0771GLCZL/?tag=tolees-21'
 descuento: '46.00'
 average: '69.64285714285714'

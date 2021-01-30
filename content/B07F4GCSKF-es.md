@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Maybelline New York - Superstay Matte Ink City Edition  Pintalabios Mate de Larga Duración  Tono 115 Founder'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F4GCSKF/?tag=tolees-21'
 descuento: '45.45'
 average: '5.925'

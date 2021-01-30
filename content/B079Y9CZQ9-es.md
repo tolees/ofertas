@@ -16,6 +16,7 @@ comparePrice: 159.0 EUR
 prodname: 'Braun Facespa Pro 921 - Sistema para Depilación y Limpieza 3 en 1  con Depiladora Facial Mujer  Cepillo Facial y Cabezal Tonificador  Base Cargadora  Bronce'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079Y9CZQ9/?tag=tolees-21'
 descuento: '38.37'
 average: '117.70818181818181'

@@ -16,6 +16,7 @@ comparePrice: 54.99 EUR
 prodname: 'POVO Soporte de Portátil Ajustable Soporte Plegable Ordenador Múltiples ángulos para 10-17 Pulgadas MacBook/Ordenadores'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081RKCVJ4/?tag=tolees-21'
 descuento: '27.30'
 average: '40.98'

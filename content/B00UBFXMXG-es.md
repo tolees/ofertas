@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'UCEC Panel Frontal USB 3.0  Panel Hub Metal de 5.23 Pulgadas  con 2 Puertos USB 3.0 y 2 Puertos 2.0 HD de Audio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00UBFXMXG/?tag=tolees-21'
 descuento: '39.41'
 average: '19.99'

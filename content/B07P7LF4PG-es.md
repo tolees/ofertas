@@ -16,6 +16,7 @@ comparePrice: 31.22 EUR
 prodname: 'Cómo Entrenar A Tu Dragón 3  4K UHD + BD  [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P7LF4PG/?tag=tolees-21'
 descuento: '51.95'
 average: '15.0'

@@ -16,6 +16,7 @@ comparePrice: 15.63 EUR
 prodname: 'Limes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ID4UWBW/?tag=tolees-21'
 descuento: '27.96'
 average: '11.258000000000001'

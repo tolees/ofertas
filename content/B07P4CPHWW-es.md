@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'AGPTEK Z05 Micrófono de Solapa  Omnidireccional Micrófono de Condensador con 6M Cable para Móvil  PC  Cámara  Grabadora'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P4CPHWW/?tag=tolees-21'
 descuento: '25.94'
 average: '19.846666666666664'

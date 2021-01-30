@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Vampyr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071J7SX2B/?tag=tolees-21'
 descuento: '65.96'
 average: '20.42'

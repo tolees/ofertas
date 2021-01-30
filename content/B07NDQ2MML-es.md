@@ -16,6 +16,7 @@ comparePrice: 80.47 EUR
 prodname: 'G-STAR RAW Lynn High Waist Skinny Mono  Azul  Deep Blue Ocean B481-A818   23W para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDQ2MML/?tag=tolees-21'
 descuento: '55.13'
 average: '36.11'

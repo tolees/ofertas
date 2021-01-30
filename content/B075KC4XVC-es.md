@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Bebé Niños Niñas Lindo Ratón 1er / 2do / 3er Cumpleaños 3 Piezas Traje los Niños del Algodón Ropa Interior + Correa Clip + Corbata de Mariposa Traje de Bebé Trajes 2-3 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075KC4XVC/?tag=tolees-21'
 descuento: '78.47'
 average: '4.95'

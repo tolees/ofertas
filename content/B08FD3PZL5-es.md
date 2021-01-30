@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Myada 55000 Piezas Bolas de Gel de Agua  Perlas de Gel de Agua  Perlas de Gel para jarrones  Decoración  Plantas  Flores  Regalos de Bricolaje  Fiesta de Bodas  Creciendo en Agua  Juego de Colores'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08FD3PZL5/?tag=tolees-21'
 descuento: '46.19'
 average: '6.99'

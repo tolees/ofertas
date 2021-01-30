@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Funko Voltron Figura Pop Allura  Multicolor  34202 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DFCVZGQ/?tag=tolees-21'
 descuento: '43.64'
 average: '9.469999999999999'

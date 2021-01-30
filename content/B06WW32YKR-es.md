@@ -16,6 +16,7 @@ comparePrice: 26.7 EUR
 prodname: 'Balvi Felpudo Van Color marrón  Goma/Nylon 47 x 70 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06WW32YKR/?tag=tolees-21'
 descuento: '59.36'
 average: '10.85'

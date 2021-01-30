@@ -16,6 +16,7 @@ comparePrice: 1.8 EUR
 prodname: 'Nivea Crema de Manos Aceite de Oliva - 100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LX23VWT/?tag=tolees-21'
 descuento: '44.44'
 average: '1.0'

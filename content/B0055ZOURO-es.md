@@ -16,6 +16,7 @@ comparePrice: 169.0 EUR
 prodname: 'Balay 3WMX1918 - Microondas Acero INOX  800 W  17 litros  Plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0055ZOURO/?tag=tolees-21'
 descuento: '29.59'
 average: '127.0'

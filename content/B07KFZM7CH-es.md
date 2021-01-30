@@ -16,6 +16,7 @@ comparePrice: 119.95 EUR
 prodname: 'PUMA Hybrid Astro Wns  Zapatillas de Running para Mujer  Black-Pink Alert  40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KFZM7CH/?tag=tolees-21'
 descuento: '55.12'
 average: '53.83'

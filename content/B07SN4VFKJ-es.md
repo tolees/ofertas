@@ -16,6 +16,7 @@ comparePrice: 115.0 EUR
 prodname: 'Pepe Jeans Liberty - Maleta de cabina rígida  55 cm  Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SN4VFKJ/?tag=tolees-21'
 descuento: '30.00'
 average: '80.5'

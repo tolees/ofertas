@@ -16,6 +16,7 @@ comparePrice: 649 EUR
 prodname: 'LG 34UM88-P - Monitor Profesional UltraWide QHD de 86 36 cm  34"  con Panel IPS  3440 x 1440 píxeles  21:9  300 cd/m²  sRGB >99%  1000:1  5 ms  75 Hz  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01AWG5XU8/?tag=tolees-21'
 descuento: '48.51'
 average: '334.18'

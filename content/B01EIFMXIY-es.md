@@ -16,6 +16,7 @@ comparePrice: 29.0 EUR
 prodname: 'Clarins Fix  Make-Up Spray - 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01EIFMXIY/?tag=tolees-21'
 descuento: '39.00'
 average: '19.595'

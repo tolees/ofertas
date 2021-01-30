@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Vangold DIY Reloj de pared sin marco espejo grande 3D Sticker-2 años de garantía  Negro-73 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MYGQS4X/?tag=tolees-21'
 descuento: '31.44'
 average: '23.99'

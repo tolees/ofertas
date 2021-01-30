@@ -16,6 +16,7 @@ comparePrice: 17.6 EUR
 prodname: 'Philips 12258LLECOS2 LongLife EcoVision - Bombillas para faros delanteros  H1  2 unidades '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B008BT1GBE/?tag=tolees-21'
 descuento: '36.59'
 average: '10.608'

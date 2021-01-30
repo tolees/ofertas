@@ -16,6 +16,7 @@ comparePrice: 36.22 EUR
 prodname: 'CARE OF by PUMA Zapatillas para mujer  Blanco White  42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R7BGKGT/?tag=tolees-21'
 descuento: '26.86'
 average: '30.0425'

@@ -16,6 +16,7 @@ comparePrice: 1.39 EUR
 prodname: 'Signal - Pasta de dientes Protección Anticaries - Flúor Calcio - 75 ml  8678590 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XAARLFE/?tag=tolees-21'
 descuento: '28.06'
 average: '1.0'

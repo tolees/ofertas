@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Bolsas de Transporte  Bolsa Viaje para Asiento Bebé  Acomon Bolsa de Asiento Infantil para Avión  Universal Bebé Cochecito Transporte Bolsa para Asientos de Automóvil  Asiento para Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z1JV43G/?tag=tolees-21'
 descuento: '40.01'
 average: '17.99'

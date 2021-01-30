@@ -16,6 +16,7 @@ comparePrice: 349.0 EUR
 prodname: 'Constantin Durmont Calendar - Reloj analógico de caballero automático con correa de piel negra - sumergible a 30 metros'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005DKKA7K/?tag=tolees-21'
 descuento: '52.11'
 average: '131.00571428571428'

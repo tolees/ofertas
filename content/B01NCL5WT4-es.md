@@ -16,6 +16,7 @@ comparePrice: 150.0 EUR
 prodname: 'Helly Hansen W Pier 2 Pant Bib  Mujer  Navy  XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NCL5WT4/?tag=tolees-21'
 descuento: '44.33'
 average: '83.5'

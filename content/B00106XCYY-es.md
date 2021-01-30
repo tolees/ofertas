@@ -16,6 +16,7 @@ comparePrice: 250.0 EUR
 prodname: 'Samsonite Aeris Upright L Maleta  78 cm  118.5 L  Negro  Black '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00106XCYY/?tag=tolees-21'
 descuento: '50.43'
 average: '123.208'

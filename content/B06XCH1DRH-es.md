@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'G-STAR RAW Classic Trunk 2 Pack Pantalones Cortos  Multicolor  Sage Htr/dk Black Htr 8530   XX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XCH1DRH/?tag=tolees-21'
 descuento: '52.57'
 average: '14.8'

@@ -16,6 +16,7 @@ comparePrice: 3.06 EUR
 prodname: 'Imac 5-96696 Bebedero Pájaros Tweety - 100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01I7V2KYW/?tag=tolees-21'
 descuento: '83.99'
 average: '0.49'

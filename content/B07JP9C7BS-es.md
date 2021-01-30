@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Morgan Tshirt Manches Courtes Col V Dentelle DMINOL T-Shirt  Negro  Noir Noir   X-Small  Talla del Fabricante: TXS  Women s'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JP9C7BS/?tag=tolees-21'
 descuento: '64.33'
 average: '10.7'

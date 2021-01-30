@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Adaptador USB C a HDMI VGA  KOOPAO 2 en 1 Tipo C Thunderbolt 3 a 4K Adaptador HDMI + 1080P Compatible con MacBook Air ipad Pro Píxeles Dell XPS Matebook Galaxy Note Huawei HTC Más dispositivos USB-C'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083PXYGG6/?tag=tolees-21'
 descuento: '33.35'
 average: '15.99'

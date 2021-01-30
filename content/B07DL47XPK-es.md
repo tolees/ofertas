@@ -16,6 +16,7 @@ comparePrice: 55.99 EUR
 prodname: 'SHENKEY Sofa Hinchable  2019 Upgrade Anti-Air Leaking Air Sofa con paquete portátil  sofá inflable y silla Air para viajes  campamentos  excursiones y fiestas en la playa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DL47XPK/?tag=tolees-21'
 descuento: '46.44'
 average: '29.99'

@@ -16,6 +16,7 @@ comparePrice: 28.31 EUR
 prodname: 'Abanderado Lote x4 Camisetas Tirantes algodón Ropa Interior  Blanco  Blanco 001   XX-Large  Tamaño del Fabricante:60   Pack de 4  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JF4YDHG/?tag=tolees-21'
 descuento: '32.89'
 average: '17.689999999999998'

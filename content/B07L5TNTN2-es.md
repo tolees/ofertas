@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Vieta pro Smartness - Auricular inalámbrico de Diadema  con Bluetooth  Radio FM  función Manos Libres  insonorización Reforzada  Plegables y 8 Horas de autonomía. Acabados en Goma y Color Burdeos.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L5TNTN2/?tag=tolees-21'
 descuento: '50.01'
 average: '17.994999999999997'

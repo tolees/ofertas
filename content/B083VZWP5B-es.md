@@ -16,6 +16,7 @@ comparePrice: 1.98 EUR
 prodname: 'MarinoBIRD para X-B0X360 Host Conversion Line Línea de conversión USB para X-Box Wired Handle Conversion Line Accesorios para máquinas de Juego - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083VZWP5B/?tag=tolees-21'
 descuento: '33.33'
 average: '1.32'

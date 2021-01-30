@@ -16,6 +16,7 @@ comparePrice: 12.08 EUR
 prodname: 'Funko- Pop Figura de Vinilo: Música Morrissey Coleccionable  Multicolor  40091 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZRZH88/?tag=tolees-21'
 descuento: '31.54'
 average: '8.501666666666667'

@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Desigual Foul Midnight Bufanda  Azul  Navy 5000   Talla única  Talla del fabricante: U  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VHRBHWQ/?tag=tolees-21'
 descuento: '50.08'
 average: '14.95'

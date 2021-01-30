@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Fossil Reloj Analogico para Mujer de Cuarzo con Correa en Piel ES3708'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00RK4SE5M/?tag=tolees-21'
 descuento: '41.41'
 average: '58.73800000000001'

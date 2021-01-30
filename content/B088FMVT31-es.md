@@ -16,6 +16,7 @@ comparePrice: 3.6 EUR
 prodname: 'Nuevo 1 par 1 Canal transceptor de Video pasivo para cámara CCTV Balun Conector Utp promoción Caliente Color Negro - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088FMVT31/?tag=tolees-21'
 descuento: '35.00'
 average: '2.34'

@@ -16,6 +16,7 @@ comparePrice: 153.98 EUR
 prodname: 'TONGJI Vitrina de Acrílico Compatible con Lego 42096 Technic Porsche 911 RSR  Vitrina A Prueba De Polvo  Modelo No Incluido '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085VF9GQP/?tag=tolees-21'
 descuento: '50.00'
 average: '76.99'

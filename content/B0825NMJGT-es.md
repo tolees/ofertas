@@ -16,6 +16,7 @@ comparePrice: 27.99 EUR
 prodname: 'Quiksilver Magicall 2l-Bolsa De Colgar Grande Para Hombre  Messenger/Shoulder  light grey heather  1SZ'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0825NMJGT/?tag=tolees-21'
 descuento: '49.98'
 average: '15.851111111111111'

@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Olympia herramientas 85 – 010 Grand pack-n-roll portátil herramienta Carrier  negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000UZ0P7I/?tag=tolees-21'
 descuento: '49.99'
 average: '19.98'

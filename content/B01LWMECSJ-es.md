@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'San Ignacio Cazo  Aluminio Forjado  Gris  16 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LWMECSJ/?tag=tolees-21'
 descuento: '74.20'
 average: '12.9'

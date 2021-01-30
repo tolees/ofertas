@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Adidas VL Court 2.0 K  Zapatillas de Deporte Unisex Adulto  Multicolor  Negbás/Gricin/Amalre 000   38 2/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K2NHF24/?tag=tolees-21'
 descuento: '29.94'
 average: '27.99'

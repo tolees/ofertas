@@ -16,6 +16,7 @@ comparePrice: 289.0 EUR
 prodname: 'Zhiyun Crane M2 Gimbal Estabilizador de cardán de Mano de 3 Ejes para cámaras sin Espejo/Smartphone/Cámaras de acción Gopro 7/6/5 con 130 g - 720 g de Carga útil  trípode y Varilla de extensión.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VK1S9DS/?tag=tolees-21'
 descuento: '31.14'
 average: '199.0'

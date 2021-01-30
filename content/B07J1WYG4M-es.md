@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Fnatic Streak Teclado mecánico para Juegos Esports  interruptores Cherry MX Silent Rojo  iluminación RGB Multicolor  reposamuñecas ergonómico  programable  Disposición-Idioma español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J1WYG4M/?tag=tolees-21'
 descuento: '26.93'
 average: '94.99'

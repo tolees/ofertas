@@ -16,6 +16,7 @@ comparePrice: 145.06 EUR
 prodname: 'Guess Reloj Analógico para Mujer de Cuarzo con Correa en Acero W1148L1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GS5SX64/?tag=tolees-21'
 descuento: '39.55'
 average: '83.29333333333334'

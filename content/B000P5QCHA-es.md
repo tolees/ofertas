@@ -16,6 +16,7 @@ comparePrice: 15.4 EUR
 prodname: 'Abus 1850 Cable Acero antirrobo Moto  Negro  185cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000P5QCHA/?tag=tolees-21'
 descuento: '28.64'
 average: '10.309999999999999'

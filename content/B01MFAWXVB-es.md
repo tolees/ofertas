@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Blink Sistema de cámaras de seguridad para interiores con detección de movimiento  vídeo HD  2 años de autonomía y almacenamiento en el Cloud - 1 cámara'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MFAWXVB/?tag=tolees-21'
 descuento: '30.00'
 average: '80.7042857142857'

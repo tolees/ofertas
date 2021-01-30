@@ -16,6 +16,7 @@ comparePrice: 13.54 EUR
 prodname: 'Max Factor Facefinity 3 en 1 All Day Flawless Base de Maquillaje  Tono 44'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TRBTYGH/?tag=tolees-21'
 descuento: '71.20'
 average: '3.9'

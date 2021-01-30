@@ -16,6 +16,7 @@ comparePrice: 31.43 EUR
 prodname: 'IKOHS PRO WELLNESS - Báscula de Baño  Blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NY3GSWX/?tag=tolees-21'
 descuento: '28.54'
 average: '21.205'

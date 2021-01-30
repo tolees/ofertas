@@ -16,6 +16,7 @@ comparePrice: 11.42 EUR
 prodname: 'Pack de 3 botellas biberón para leche materna Medela 150ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002LZU85O/?tag=tolees-21'
 descuento: '56.22'
 average: '5.0'

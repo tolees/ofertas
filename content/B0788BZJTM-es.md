@@ -16,6 +16,7 @@ comparePrice: 36.9 EUR
 prodname: 'Tommy Hilfiger Sujetador Estilo Bralette  Blanco  White 100   Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0788BZJTM/?tag=tolees-21'
 descuento: '29.95'
 average: '25.23'

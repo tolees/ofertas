@@ -16,6 +16,7 @@ comparePrice: 73.44 EUR
 prodname: 'Stayer 1200D Aspirador de Ceniza  1200 W  230 V  Verde  0'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00RBKA2EQ/?tag=tolees-21'
 descuento: '58.35'
 average: '38.5025'

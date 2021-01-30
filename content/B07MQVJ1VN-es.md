@@ -16,6 +16,7 @@ comparePrice: 119.0 EUR
 prodname: 'Napapijri Moto Wint Pantalones  Verde  Green Forest 2 GE3   46  Talla del Fabricante: 34  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MQVJ1VN/?tag=tolees-21'
 descuento: '35.69'
 average: '76.53'

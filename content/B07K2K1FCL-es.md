@@ -16,6 +16,7 @@ comparePrice: 119.0 EUR
 prodname: 'Apple Funda Smart Folio  para el iPad Pro de 12 9 pulgadas  - 3.ª generación  - Gris carbón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K2K1FCL/?tag=tolees-21'
 descuento: '25.21'
 average: '98.275'

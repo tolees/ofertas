@@ -16,6 +16,7 @@ comparePrice: 20.4 EUR
 prodname: 'find. Skinny Jeans  Azul  Indigo Raw   W30/L32'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0757ZNMK7/?tag=tolees-21'
 descuento: '36.52'
 average: '14.975'

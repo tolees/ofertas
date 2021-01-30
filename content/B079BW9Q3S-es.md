@@ -16,6 +16,7 @@ comparePrice: 24.06 EUR
 prodname: 'perfk Manija de Maleta con Asa de 22.7cm Suministros de Viaje para Portatil Netbooks'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079BW9Q3S/?tag=tolees-21'
 descuento: '51.21'
 average: '11.74'

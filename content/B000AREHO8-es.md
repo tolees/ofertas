@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Skechers SPORT - ENERGY  Women s Low Top Trainers  White  Wml   5 UK  38 EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000AREHO8/?tag=tolees-21'
 descuento: '42.07'
 average: '44.928235294117655'

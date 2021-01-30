@@ -16,6 +16,7 @@ comparePrice: 23.14 EUR
 prodname: 'Bolas de poliestireno Pllieay  para manualidades  20 unidades  5 tamaños   diseño de bolas de espuma blancas  para proyectos escolares'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DKZP43B/?tag=tolees-21'
 descuento: '43.52'
 average: '13.07'

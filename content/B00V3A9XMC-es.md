@@ -16,6 +16,7 @@ comparePrice: 196.98 EUR
 prodname: 'Arcos Riviera Blanc - Taco de 4 cuchillos y tijera  5piezas '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00V3A9XMC/?tag=tolees-21'
 descuento: '27.91'
 average: '142.79666666666665'

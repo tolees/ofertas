@@ -16,6 +16,7 @@ comparePrice: 60.94 EUR
 prodname: 'HOMOZE Manguera de Agua expandible de jardín con Conector de latón Macizo  8 Funciones  Pistola de pulverización/Bolsa de Almacenamiento'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P5N2MT8/?tag=tolees-21'
 descuento: '58.04'
 average: '25.57'

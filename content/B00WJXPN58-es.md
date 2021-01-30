@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Lee LF0450FZ  Cinturón Para Hombre  Marrón  Dark Cognac   100 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00WJXPN58/?tag=tolees-21'
 descuento: '66.17'
 average: '21.24625'

@@ -16,6 +16,7 @@ comparePrice: 1.5 EUR
 prodname: '1 unid profesional salón peluquería tinte crema batidor plástico mezclador de pelo barber agitador cuidado del cabello herramientas de peinado licuadora - negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083NM4ZQB/?tag=tolees-21'
 descuento: '33.33'
 average: '1.0'

@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'Olycism Compatible para Xiaomi Mi Note 10 Protector de Pantalla  2-Pack  Cristal Vidrio Templado de 3D Cobertura Completa Anti-Choque Alta Definición Sin Burbujas Anti-Arañazos Dureza 9H'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0813BB2SX/?tag=tolees-21'
 descuento: '37.55'
 average: '4.99'

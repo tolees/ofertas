@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Columbia Baker Valley Forro Polar con Cremallera  Mujer  Azul  Waterfall Heather   XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08178RKBX/?tag=tolees-21'
 descuento: '64.18'
 average: '25.07'

@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Under Armour Heatgear Armour Middy Corto  Mujer  Gris  MD'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071HPSG4X/?tag=tolees-21'
 descuento: '48.37'
 average: '15.49'

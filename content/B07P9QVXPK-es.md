@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Abreventanas de Invernadero automático  Sensible al Calor Solar  termostato automático para Ventana Abierta  Rejilla de ventilación  autoventilación  Caliente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P9QVXPK/?tag=tolees-21'
 descuento: '25.01'
 average: '14.99'

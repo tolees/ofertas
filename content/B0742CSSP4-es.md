@@ -16,6 +16,7 @@ comparePrice: 75 EUR
 prodname: 'MBSL-40 Subwoofer 40W BSL con Karaoke'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0742CSSP4/?tag=tolees-21'
 descuento: '44.96'
 average: '41.28'

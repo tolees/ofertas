@@ -16,6 +16,7 @@ comparePrice: 30.2 EUR
 prodname: 'Bestway 43140 - Isla Hinchable Sandía Φ188 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MUEDDGL/?tag=tolees-21'
 descuento: '46.72'
 average: '16.51888888888889'

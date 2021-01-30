@@ -16,6 +16,7 @@ comparePrice: 3.5 EUR
 prodname: '10 unidades de esponja resistente al polvo lavable reutilizable para tatuar y tatuar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R4RVDTS/?tag=tolees-21'
 descuento: '91.71'
 average: '1.4133333333333336'

@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Women s Secret Feminine 1 Guipur Lace Berry Sujetador con Push-up  Multicolor  Gama Rosas/Morados 71   85  Tamaño del Fabricante: 85B  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TY1GHD8/?tag=tolees-21'
 descuento: '52.90'
 average: '11.77'

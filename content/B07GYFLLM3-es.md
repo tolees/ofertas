@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Babacom Protector Pantalla para iPhone 11 Pro MAX/XS MAX [2-Piezas]  3D Touch Cristal Vidrio Templado para iPhone 11 Pro MAX/XS MAX con Marco de Alineación  Solo para iPhone 11 Pro MAX/XS MAX 6.5"'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GYFLLM3/?tag=tolees-21'
 descuento: '49.95'
 average: '5.0'

@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Adidas Samba OG  Zapatillas de Gimnasia para Hombre  Blanco  Footwear White/Core Black/Clear Granite 0   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079YVVK61/?tag=tolees-21'
 descuento: '25.00'
 average: '67.46'

@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'LOHOTEK Hombres 7" Pantalones Cortos para Atléticos - Pantalones Cortos de Gimnasio de Secado Rápido y Ligeros para Entrenamiento de Baloncesto de Tenis al Aire Libre  Negro  M '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VV494GK/?tag=tolees-21'
 descuento: '33.34'
 average: '19.99'

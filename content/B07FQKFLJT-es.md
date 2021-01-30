@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Kindle  ahora con luz frontal integrada  blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FQKFLJT/?tag=tolees-21'
 descuento: '27.78'
 average: '72.49'

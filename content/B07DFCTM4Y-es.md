@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Pop! Disney Mickey 90 Years - Figura de Vinilo Conductor Mickey'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DFCTM4Y/?tag=tolees-21'
 descuento: '38.24'
 average: '9.705'

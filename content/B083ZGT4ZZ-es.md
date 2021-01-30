@@ -16,6 +16,7 @@ comparePrice: 14.0 EUR
 prodname: 'Yizhet 50 piezas Imanes de nevera de cilindro de neodimio Imanes de disco de tierra rara para artesanías  manualidades  hobbies y organización de oficinas  8 * 2mm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083ZGT4ZZ/?tag=tolees-21'
 descuento: '42.93'
 average: '7.83'

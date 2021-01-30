@@ -16,6 +16,7 @@ comparePrice: 141.0 EUR
 prodname: 'Nike Wmns Air Zoom Vomero 14  Zapatillas de Running para Asfalto para Mujer  Multicolor  Pink Quartz/Vast Grey/Celestial Gold 601   38.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SMSVDQN/?tag=tolees-21'
 descuento: '64.06'
 average: '50.67'

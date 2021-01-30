@@ -16,6 +16,7 @@ comparePrice: 17.7 EUR
 prodname: 'Magno - Desodorante Spray Black - 150ml  Paquete de 6'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0721QGRJ8/?tag=tolees-21'
 descuento: '26.78'
 average: '12.908'

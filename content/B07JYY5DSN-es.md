@@ -16,6 +16,7 @@ comparePrice: 149.0 EUR
 prodname: 'Tommy Hilfiger TH Essential Flex Pleated Pullon Pantalones  Azul  Pinstripe CW 460   W38  Talla del Fabricante: 8  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JYY5DSN/?tag=tolees-21'
 descuento: '65.13'
 average: '51.95'

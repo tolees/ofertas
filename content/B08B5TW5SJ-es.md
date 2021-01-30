@@ -16,6 +16,7 @@ comparePrice: 36.49 EUR
 prodname: 'LCTXDY El diseño ergonómico le Brinda la sensación más cómoda-owo666'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08B5TW5SJ/?tag=tolees-21'
 descuento: '27.57'
 average: '26.18'

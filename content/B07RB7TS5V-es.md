@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Columbia Buga Conjunto para la Nieve  Niños  Azul  Super Blue   Talla: 4T'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RB7TS5V/?tag=tolees-21'
 descuento: '46.80'
 average: '53.19'

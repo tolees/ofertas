@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Henry London Reloj Analógico para Unisex de Cuarzo con Correa en Cuero 5018479078166'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B014JRT7YO/?tag=tolees-21'
 descuento: '56.27'
 average: '118.14'

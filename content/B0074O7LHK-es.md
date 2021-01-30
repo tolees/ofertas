@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'Sisley Masque Crema À La Rose Noire 60 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0074O7LHK/?tag=tolees-21'
 descuento: '43.38'
 average: '67.95'

@@ -16,6 +16,7 @@ comparePrice: 36.5 EUR
 prodname: 'Paladone lámpara Call of Duty'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079C8DDD6/?tag=tolees-21'
 descuento: '50.00'
 average: '18.295'

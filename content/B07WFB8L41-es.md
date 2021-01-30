@@ -16,6 +16,7 @@ comparePrice: 17.87 EUR
 prodname: 'MaoXinTek Sofa Hinchable Tumbona Inflable con Paquete Portátil para Viajes  Piscina  Camping  Parque  Playa  Patio Trasero'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WFB8L41/?tag=tolees-21'
 descuento: '27.31'
 average: '12.99'

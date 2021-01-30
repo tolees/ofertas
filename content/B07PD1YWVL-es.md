@@ -16,6 +16,7 @@ comparePrice: 20.7 EUR
 prodname: '3 x Recambios para Contenedor de Pañal Sangenic Tommee Tippee'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PD1YWVL/?tag=tolees-21'
 descuento: '51.69'
 average: '10.0'

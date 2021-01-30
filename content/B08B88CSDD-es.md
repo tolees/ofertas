@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Kikc Rollos al Vacio para  Bolsa de vacío Adecuada para sellador al vacío y Sous Vide  Apta para Uso Personal y Comercial  Gran compatibilidad 20x600cm y 28x600cm 2 Rollos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08B88CSDD/?tag=tolees-21'
 descuento: '25.02'
 average: '11.99'

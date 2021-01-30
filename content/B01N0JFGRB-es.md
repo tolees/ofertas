@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Tommy Hilfiger H2285ARLOW 1D  Zapatillas para Hombre  Gris  Steel Grey   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N0JFGRB/?tag=tolees-21'
 descuento: '36.58'
 average: '38.64333333333333'

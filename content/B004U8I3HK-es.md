@@ -16,6 +16,7 @@ comparePrice: 6.95 EUR
 prodname: 'Lindy 70421 - Conector acodado Toslink'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004U8I3HK/?tag=tolees-21'
 descuento: '43.88'
 average: '3.9'

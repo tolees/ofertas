@@ -16,6 +16,7 @@ comparePrice: 13.9 EUR
 prodname: 'Vallejo 028011 - Espray de prelacado  400 ml  Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000R9QHWY/?tag=tolees-21'
 descuento: '31.58'
 average: '9.51'

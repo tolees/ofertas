@@ -16,6 +16,7 @@ comparePrice: 11.01 EUR
 prodname: 'Funko- Pop Marvel: Fantastic Four-Super-Skrull Collectible Toy  Multicolor  44994 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TWHH2NT/?tag=tolees-21'
 descuento: '25.07'
 average: '10.136666666666665'

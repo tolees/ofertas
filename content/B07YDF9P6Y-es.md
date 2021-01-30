@@ -16,6 +16,7 @@ comparePrice: 21.77 EUR
 prodname: 'Head 811904 Calcetín  Unisex Adulto  Gris  43  46'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YDF9P6Y/?tag=tolees-21'
 descuento: '58.70'
 average: '8.99'

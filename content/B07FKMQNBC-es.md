@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Clarks Sharon Dolly Mocasines Mujer  Negro  Black Sde Black Sde   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FKMQNBC/?tag=tolees-21'
 descuento: '72.12'
 average: '25.08'

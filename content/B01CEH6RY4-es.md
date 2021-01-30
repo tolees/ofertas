@@ -16,6 +16,7 @@ comparePrice: 32.71 EUR
 prodname: 'Pokemon Luna'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CEH6RY4/?tag=tolees-21'
 descuento: '42.53'
 average: '26.0'

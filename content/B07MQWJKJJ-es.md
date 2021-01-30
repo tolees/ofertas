@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'VGBEY 5 Unids Señuelo de Pesca  Calamar Jig Hooks  Silicona Artificial Calamar Sepia Manga Señuelo Gancho Gancho Accesorios De Pesca'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MQWJKJJ/?tag=tolees-21'
 descuento: '32.76'
 average: '7.39'

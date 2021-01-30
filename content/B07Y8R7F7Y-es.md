@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Jack & Jones Jorbrandon Sweat Hood Capucha  Azul  Navy Blazer Fit: Slim JJ   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y8R7F7Y/?tag=tolees-21'
 descuento: '66.42'
 average: '13.43'

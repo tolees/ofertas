@@ -16,6 +16,7 @@ comparePrice: 95.05 EUR
 prodname: 'ACANA Grasslands Comida para Perros - 11400 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NBVT8IK/?tag=tolees-21'
 descuento: '27.42'
 average: '68.99'

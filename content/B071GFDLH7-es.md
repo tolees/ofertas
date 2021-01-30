@@ -16,6 +16,7 @@ comparePrice: 29.93 EUR
 prodname: 'find. Zapatillas Deportivas con Textura para Hombre  Azul  Navy   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071GFDLH7/?tag=tolees-21'
 descuento: '61.91'
 average: '11.4'

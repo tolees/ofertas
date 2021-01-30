@@ -16,6 +16,7 @@ comparePrice: 52.95 EUR
 prodname: 'Xti Botas Mujer 49363X para Mujer Verde 38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XTG31SN/?tag=tolees-21'
 descuento: '60.00'
 average: '21.18'

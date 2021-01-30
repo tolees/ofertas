@@ -16,6 +16,7 @@ comparePrice: 67.08 EUR
 prodname: 'Consola de juegos portátil JXD de 4.3 pulgadas y doble consola Consola de videojuegos de 16GB incorporada en 3000 CPS/NEOGEO/GBA/GBC/GB/SFC/MD/FC/SMS/GG MpS Player DV DC  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SK76DVL/?tag=tolees-21'
 descuento: '25.61'
 average: '49.4'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'IMC Toys IMC Toys-96073 Lovely Tresse Trenza-Decora Pelo  Multicolor  Distribución 96073 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XWWVGN4/?tag=tolees-21'
 descuento: '30.96'
 average: '16.87'

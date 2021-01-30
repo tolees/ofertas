@@ -16,6 +16,7 @@ comparePrice: 21.75 EUR
 prodname: 'Shimano Fx Spinning 66Mhb2 195Mh'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000FIZNC2/?tag=tolees-21'
 descuento: '44.87'
 average: '11.99'

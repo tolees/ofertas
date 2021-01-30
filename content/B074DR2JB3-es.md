@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'AUKEY Regleta con 3 Enchufes con el Cable Eléctrico de 1.5m para Macbook Pro  Smartphone  Lámpara  TV  Tableta  Aparatos Electrodomésticos etc.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074DR2JB3/?tag=tolees-21'
 descuento: '36.40'
 average: '10.59'

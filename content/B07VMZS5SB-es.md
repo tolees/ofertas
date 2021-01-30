@@ -16,6 +16,7 @@ comparePrice: 120.8 EUR
 prodname: 'Electroestimulador Muscular Abdominales Cinturón Estimulador Muscular Abdominales Masajeador Eléctrico Cinturón con EMS Ejercitador del Abdomen/Brazo/Piernas/Cintura para Hombres y Mujeres  black-1 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VMZS5SB/?tag=tolees-21'
 descuento: '82.78'
 average: '22.35'

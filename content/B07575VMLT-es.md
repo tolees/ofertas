@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Garmin Vívofit Jr. 2 - Monitor de actividad para niños  Captain America  Banda elástica   Edad 6+'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07575VMLT/?tag=tolees-21'
 descuento: '35.56'
 average: '57.99'

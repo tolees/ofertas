@@ -16,6 +16,7 @@ comparePrice: 159 EUR
 prodname: 'Apple Watch Correa rosa peonía con hebilla moderna  40mm  - Talla M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HD26KQK/?tag=tolees-21'
 descuento: '78.66'
 average: '44.53'

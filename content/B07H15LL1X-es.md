@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'Manta Electrica Lumbar 120W  65×85 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H15LL1X/?tag=tolees-21'
 descuento: '26.09'
 average: '35.06272727272727'

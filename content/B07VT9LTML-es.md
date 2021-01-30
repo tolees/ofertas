@@ -16,6 +16,7 @@ comparePrice: 98.16 EUR
 prodname: 'Tommy Hilfiger Organic Cotton Silk V Neck Pantalones  Azul  Sail Blue Heather DVC   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VT9LTML/?tag=tolees-21'
 descuento: '76.44'
 average: '23.13'

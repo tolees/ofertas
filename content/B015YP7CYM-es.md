@@ -16,6 +16,7 @@ comparePrice: 79.9 EUR
 prodname: 'Beurer BM57 - Tensiometro de brazo con bluetooth  color blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B015YP7CYM/?tag=tolees-21'
 descuento: '27.36'
 average: '58.04'

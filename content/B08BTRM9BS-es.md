@@ -16,6 +16,7 @@ comparePrice: 24.65 EUR
 prodname: 'Molyflower C6T Smart Bracelet Watch Información de TPU Push Sleep Monitoring Ejercicio Podómetro Medición de la Temperatura Corporal - Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BTRM9BS/?tag=tolees-21'
 descuento: '33.51'
 average: '16.39'

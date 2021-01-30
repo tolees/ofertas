@@ -16,6 +16,7 @@ comparePrice: 14.0 EUR
 prodname: 'SALOMON Speed Pro 1 Par de Calcetines Tobilleros  Unisex Adulto  Negro/Blanco  S  36-38 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MCZAQC2/?tag=tolees-21'
 descuento: '56.57'
 average: '5.6'

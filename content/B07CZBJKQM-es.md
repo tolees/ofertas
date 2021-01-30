@@ -16,6 +16,7 @@ comparePrice: 75.16 EUR
 prodname: 'Cooler Master MasterBox MB511 Midi-Tower Negro  Azul - Caja de Ordenador  Midi-Tower  PC  De plástico  Acero  Negro  Azul  ATX Micro ATX Mini-ITX  Juego '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CZBJKQM/?tag=tolees-21'
 descuento: '27.57'
 average: '54.44'

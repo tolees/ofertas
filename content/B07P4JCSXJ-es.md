@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Superdry Jacob Henley suéter  Gris  Concrete Twist THU   XS para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P4JCSXJ/?tag=tolees-21'
 descuento: '50.56'
 average: '44.49'

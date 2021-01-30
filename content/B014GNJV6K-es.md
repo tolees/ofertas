@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Skechers 11936  Zapatillas para Mujer  Blanco  White/Silver   37.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B014GNJV6K/?tag=tolees-21'
 descuento: '30.02'
 average: '48.95'

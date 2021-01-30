@@ -16,6 +16,7 @@ comparePrice: 149.0 EUR
 prodname: 'FOREO Espada tratamiento de luz azul para acné Cobalt Blue'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N5QAJ9L/?tag=tolees-21'
 descuento: '40.00'
 average: '89.4'

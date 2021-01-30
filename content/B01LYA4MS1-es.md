@@ -16,6 +16,7 @@ comparePrice: 336.38 EUR
 prodname: 'Bosch Professional GBH 2-28 F - Martillo perforador  3 2 J  máx. hormigón 28 mm  portabrocas SDS plus + cilíndrico  Kick Back Control  en maletín '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LYA4MS1/?tag=tolees-21'
 descuento: '32.57'
 average: '211.21'

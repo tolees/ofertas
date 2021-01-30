@@ -16,6 +16,7 @@ comparePrice: 22.49 EUR
 prodname: 'Espejo Retrovisor de Coche Irrompible Inastillable Patrón de Pez/Vaca de Felpa para Vigilar al Bebé en Asiento Trasero - Pez  como se describe'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HYPCCHS/?tag=tolees-21'
 descuento: '33.35'
 average: '14.99'

@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Auriculares Inalámbricos Deportivos  AIWONS Audífonos Bluetooth 5.0 con Micrófono  Estéreo Auricular  7 Horas de Reproducción Auriculares Impermeables IPX7  para el Deporte  Correr  Hacer Ejercicio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SYHJXBS/?tag=tolees-21'
 descuento: '30.01'
 average: '23.32333333333333'

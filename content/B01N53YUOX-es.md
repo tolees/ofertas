@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Vans Ward Suede/Canvas  Zapatillas Unisex Niños  Negro   Suede/Canvas  Black/White Iju  27.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N53YUOX/?tag=tolees-21'
 descuento: '26.69'
 average: '32.99'

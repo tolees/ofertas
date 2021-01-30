@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Kit Dibujo Completo - Principiante/Profesional - 19 accesorios: 8 Lapices  3 lapiz carboncillo  1 Grafito  2 Barra Carboncillo  Cuaderno dibujo 100 págs - Regalo ideal para artistas de cualquier Nivel'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086Q3R6JN/?tag=tolees-21'
 descuento: '62.52'
 average: '14.99'

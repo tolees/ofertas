@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Bluetooth 5.0 Transmisor y Receptor | TV Bluetooth Transmisor | Bluetooth Adaptador De Audio | aptX Low Latency | Digital óptica Toslink y 3 5 mm Audio  Conector RCA  Dos Conexiones'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DCRX8KP/?tag=tolees-21'
 descuento: '26.01'
 average: '36.99'

@@ -16,6 +16,7 @@ comparePrice: 32.01 EUR
 prodname: 'Nike The Premier II FG  Zapatillas de Fútbol Unisex Adulto  Negro  Obsidian/Lt Current Blue/Black 440   42 1/2 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M6BNNK6/?tag=tolees-21'
 descuento: '34.46'
 average: '29.935000000000002'

@@ -16,6 +16,7 @@ comparePrice: 16.95 EUR
 prodname: 'Montse Interiors  S.L. Cuadrante o Cojín Decoración Terciopelo 45x45 + Relleno  Capri Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XQGZV1J/?tag=tolees-21'
 descuento: '41.30'
 average: '9.95'

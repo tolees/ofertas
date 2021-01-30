@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'DC Shoes Switch  Zapatillas de Skateboard para Hombre  Negro  Black/Battleship/Black Kbk   46.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SRSTGJS/?tag=tolees-21'
 descuento: '47.16'
 average: '36.99'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'CableDeconn HDMI to 3RCA Cable  HDMI to 3RCA AV Composite Video Audio Converter Adapter For Amazon Fire TV Sticks HD Player PC Laptop HDTV etc'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FZ6Y46Z/?tag=tolees-21'
 descuento: '55.01'
 average: '17.99'

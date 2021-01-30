@@ -16,6 +16,7 @@ comparePrice: 2.44 EUR
 prodname: 'LoveOlvido Transparente Antiadherente acrílico Fondant Rodillo de impresión Rodillo de acrílico Tallado Rodillo en Relieve Rodillo - Multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081F3TBCV/?tag=tolees-21'
 descuento: '31.97'
 average: '1.66'

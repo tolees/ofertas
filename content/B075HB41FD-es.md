@@ -16,6 +16,7 @@ comparePrice: 13.79 EUR
 prodname: 'Master Of Puppets Remastered 2016'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075HB41FD/?tag=tolees-21'
 descuento: '49.31'
 average: '8.245000000000001'

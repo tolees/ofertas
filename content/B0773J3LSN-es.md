@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Montse Interiors Saco Nórdico Princesas Little Princess  Cama de 90 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0773J3LSN/?tag=tolees-21'
 descuento: '45.04'
 average: '32.95'

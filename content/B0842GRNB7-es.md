@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'Kit De Funda Transparente: Un Estado Emocionante Y Duradero Te Convierte En Un Perpetuo Motor De Amor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0842GRNB7/?tag=tolees-21'
 descuento: '60.87'
 average: '12.91'

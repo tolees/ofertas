@@ -16,6 +16,7 @@ comparePrice: 209.0 EUR
 prodname: 'Head Pala de Padel Alpha Speed 2020'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08B8C3YLB/?tag=tolees-21'
 descuento: '45.00'
 average: '139.7125'

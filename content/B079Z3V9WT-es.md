@@ -16,6 +16,7 @@ comparePrice: 134.45 EUR
 prodname: 'HP LaserJet Pro M28w - Impresora multifunción láser  USB 2.0  WiFi  18 ppm  memoria de 32 MB  Wi-Fi Direct y aplicación HP Smart '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079Z3V9WT/?tag=tolees-21'
 descuento: '26.37'
 average: '98.66285714285713'

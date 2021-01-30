@@ -16,6 +16,7 @@ comparePrice: 23.89 EUR
 prodname: 'Tamaris 1-1-23720-33  Zapatillas para Mujer  Negro  Black/Pewter 94   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NHS2ZJH/?tag=tolees-21'
 descuento: '31.90'
 average: '16.27'

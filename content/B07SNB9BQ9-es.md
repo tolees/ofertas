@@ -16,6 +16,7 @@ comparePrice: 24.49 EUR
 prodname: 'Adidas Vs Switch 2 CMF C  Zapatillas de Running Unisex niño  Multicolor  Azuosc/Ftwbla/Azul 000   34 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SNB9BQ9/?tag=tolees-21'
 descuento: '55.04'
 average: '11.01'

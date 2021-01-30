@@ -16,6 +16,7 @@ comparePrice: 189.0 EUR
 prodname: 'Guess W0289L2 - Reloj de Pulsera para Mujer  Color Blanco/Plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00SOX5JUQ/?tag=tolees-21'
 descuento: '28.07'
 average: '135.95'

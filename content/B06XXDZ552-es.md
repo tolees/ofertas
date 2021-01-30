@@ -16,6 +16,7 @@ comparePrice: 6.0 EUR
 prodname: 'X-Shot -Bunch O Balloons Pack Los Minions  Pack de 100 de globos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XXDZ552/?tag=tolees-21'
 descuento: '41.67'
 average: '3.5'

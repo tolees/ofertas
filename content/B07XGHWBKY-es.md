@@ -16,6 +16,7 @@ comparePrice: 12.26 EUR
 prodname: 'Creative Saddle Almacenamiento de doble fregadero Artículos para el hogar Práctico y duradero - Multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XGHWBKY/?tag=tolees-21'
 descuento: '34.99'
 average: '7.97'

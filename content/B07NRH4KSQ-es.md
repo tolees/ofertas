@@ -16,6 +16,7 @@ comparePrice: 11.25 EUR
 prodname: 'SYOSS - Champú Rizos Pro - Definición e Hidratación - 3 uds de 500ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NRH4KSQ/?tag=tolees-21'
 descuento: '35.56'
 average: '7.59'

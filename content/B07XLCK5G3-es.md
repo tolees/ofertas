@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'ecomed HP-46E Almohada eléctrica para el cuello  almohada eléctrica de 3 fases  almohada eléctrica para la espalda con protección contra sobrecalentamiento  desconexión automática  lavable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XLCK5G3/?tag=tolees-21'
 descuento: '27.07'
 average: '25.49'

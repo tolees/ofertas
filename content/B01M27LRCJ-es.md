@@ -16,6 +16,7 @@ comparePrice: 6.08 EUR
 prodname: 'BRA Efficient Cuchara de Cocina  Acero INOX  Nailon y Silicona  Naranja  35 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M27LRCJ/?tag=tolees-21'
 descuento: '31.74'
 average: '4.3533333333333335'

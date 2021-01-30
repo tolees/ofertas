@@ -16,6 +16,7 @@ comparePrice: 34.9 EUR
 prodname: 'Bisoo - 70x140 cm Protector de Colchón Bebé + Sabana Bajera - 2en1 - Set de 2 Sabanas Protectoras Impermeables y Transpirables - 100% Algodón - Maxicuna'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084D75NRV/?tag=tolees-21'
 descuento: '28.65'
 average: '24.9'

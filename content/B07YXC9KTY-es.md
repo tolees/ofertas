@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Red Dead Redemtion 2  La caja contiene código de descarga '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YXC9KTY/?tag=tolees-21'
 descuento: '36.01'
 average: '45.626666666666665'

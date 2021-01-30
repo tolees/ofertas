@@ -16,6 +16,7 @@ comparePrice: 52.81 EUR
 prodname: 'Pepe Jeans London Dean Warm  Zapatillas Altas para Mujer  Gris 959  39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZMXP5R/?tag=tolees-21'
 descuento: '34.99'
 average: '44.28142857142857'

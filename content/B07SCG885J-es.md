@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Ice-Watch Reloj Analógico 16985'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SCG885J/?tag=tolees-21'
 descuento: '30.30'
 average: '69.0'

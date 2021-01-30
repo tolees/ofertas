@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Under Armour UA Baseline Performance Tank Tanque de Baloncesto  Hombre  Blanco  White/Mod Gray/Black 100   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KSGKQNZ/?tag=tolees-21'
 descuento: '41.20'
 average: '20.58'

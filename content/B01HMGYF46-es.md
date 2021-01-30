@@ -16,6 +16,7 @@ comparePrice: 300 EUR
 prodname: 'Canon MAXIFY MB2750 - Impresora de inyección de tinta  2 cassettes de 250 hojas  pantalla táctil TFT  15 5 ipm en color y 24 ipm en blanco y negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HMGYF46/?tag=tolees-21'
 descuento: '57.11'
 average: '128.67'

@@ -16,6 +16,7 @@ comparePrice: 28.0 EUR
 prodname: 'Lancaster Deodorant Cream Sensitive Desodorante - 125 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00K7ZD4Q0/?tag=tolees-21'
 descuento: '57.32'
 average: '11.95'

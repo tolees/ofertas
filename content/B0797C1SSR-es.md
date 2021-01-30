@@ -16,6 +16,7 @@ comparePrice: 149.0 EUR
 prodname: 'Guess Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable W1078G1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0797C1SSR/?tag=tolees-21'
 descuento: '41.83'
 average: '86.78999999999999'

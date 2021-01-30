@@ -16,6 +16,7 @@ comparePrice: 53.14 EUR
 prodname: 'Cat Footwear Quadrate  Botas Clasicas para Hombre  Naranja  Ginger Ginger   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MSV5MP5/?tag=tolees-21'
 descuento: '42.94'
 average: '32.376666666666665'

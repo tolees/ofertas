@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'PUMA Smash v2 L V Inf  Zapatillas Unisex Niños  Black White  24 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077MJHTX5/?tag=tolees-21'
 descuento: '69.92'
 average: '9.01'

@@ -16,6 +16,7 @@ comparePrice: 25.98 EUR
 prodname: 'Mr. Robot - Temporada 3 [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BQCQHW6/?tag=tolees-21'
 descuento: '61.70'
 average: '9.95'

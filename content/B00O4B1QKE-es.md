@@ -16,6 +16,7 @@ comparePrice: 23.32 EUR
 prodname: 'Zotal Parasital Blíster con 4 Pipetas de 5 ml para Perros Grandes - Total: 20 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00O4B1QKE/?tag=tolees-21'
 descuento: '41.55'
 average: '14.803333333333335'

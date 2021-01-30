@@ -16,6 +16,7 @@ comparePrice: 71.0 EUR
 prodname: 'Nike SB Portmore II Solar  Zapatillas de Skateboard Unisex Adulto  Negro  Black/Dk Grey/Gum Lt Brown 009   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01K3IM3X0/?tag=tolees-21'
 descuento: '60.63'
 average: '27.95'

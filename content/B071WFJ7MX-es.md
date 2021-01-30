@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Adidas Campus  Zapatillas para Hombre  Negro  Core Black/Footwear White/Chalk White   40 2/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071WFJ7MX/?tag=tolees-21'
 descuento: '40.00'
 average: '53.97'

@@ -16,6 +16,7 @@ comparePrice: 47.82 EUR
 prodname: 'Llave inglesa multifunción 48 en 1  llave universal con pernos de estribo de cualquier tamaño estándar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PSN9MXD/?tag=tolees-21'
 descuento: '68.65'
 average: '14.99'

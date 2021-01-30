@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'BOSS Plisy Polo  Gris  Medium Grey 34   Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S2T4MJS/?tag=tolees-21'
 descuento: '67.87'
 average: '28.9'

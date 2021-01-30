@@ -16,6 +16,7 @@ comparePrice: 18.5 EUR
 prodname: 'ARRYNN Funda Huawei P40 Lite Cover Huawei P40 Lite Premium PU Funda de Cuero con para Huawei P40 Lite- Verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088FKNWVY/?tag=tolees-21'
 descuento: '57.03'
 average: '7.95'

@@ -16,6 +16,7 @@ comparePrice: 40.96 EUR
 prodname: 'Clarks Sheer Flora  Botas Chelsea para Mujer  Marrón Burgundy Suede  41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N1HXWCS/?tag=tolees-21'
 descuento: '30.49'
 average: '28.47'

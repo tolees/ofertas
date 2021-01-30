@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'MTNG Attitude 69867  Zapatillas para Mujer  Blanco  Zebro Blanco/Plata C47433   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QD29QJ8/?tag=tolees-21'
 descuento: '38.86'
 average: '28.12'

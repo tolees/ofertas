@@ -16,6 +16,7 @@ comparePrice: 19.67 EUR
 prodname: 'Kensington Anclaje de Seguridad ClickSafe  Bloqueo T:Bar Estándar para Ranura de Seguridad para Portátiles'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004HBASLO/?tag=tolees-21'
 descuento: '28.22'
 average: '14.399999999999999'

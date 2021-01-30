@@ -16,6 +16,7 @@ comparePrice: 25.78 EUR
 prodname: 'Manfrotto MTPIXI-B - Minitrípode Pixi  para Cámaras CSC DSLR de Nivel de Entrada  Material Adapto  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00D76RNLS/?tag=tolees-21'
 descuento: '46.63'
 average: '15.489999999999998'

@@ -16,6 +16,7 @@ comparePrice: 170.0 EUR
 prodname: 'Nixon Reloj con Movimiento Cuarzo japonés Man A3772001 38.0 mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00M3J2PUY/?tag=tolees-21'
 descuento: '54.66'
 average: '92.22461538461536'

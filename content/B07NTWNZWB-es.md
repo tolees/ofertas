@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'Under Armour Rush Heatgear Compression SL Tanque  Hombre  Gris  LG'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NTWNZWB/?tag=tolees-21'
 descuento: '63.70'
 average: '18.15'

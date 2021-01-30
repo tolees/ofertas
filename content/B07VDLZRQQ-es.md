@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Lee Extreme Motion Skinny Jeans  Azul  Blue Prodigy AB   34W / 30L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VDLZRQQ/?tag=tolees-21'
 descuento: '44.26'
 average: '38.99'

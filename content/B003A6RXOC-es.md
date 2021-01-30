@@ -16,6 +16,7 @@ comparePrice: 66.99 EUR
 prodname: 'Moulinex A327R1 - Picadora 700 W de fácil sistema con tapa de presión  capacidad 0 6 l  para picar todo tipo de ingredientes con cuchilla y tapa removibles y bol de capacidad de 200 gr + batidora'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003A6RXOC/?tag=tolees-21'
 descuento: '40.44'
 average: '41.07222222222222'

@@ -16,6 +16,7 @@ comparePrice: 16.15 EUR
 prodname: 'Epson C13T15934010 - Cartucho de tinta  magenta  Ya disponible en Amazon Dash Replenishment'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004YSD2OU/?tag=tolees-21'
 descuento: '68.48'
 average: '5.09'

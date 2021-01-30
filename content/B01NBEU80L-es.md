@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Ecotools Brochas para Definir e Iluminar El Rostro  21 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NBEU80L/?tag=tolees-21'
 descuento: '34.82'
 average: '9.77'

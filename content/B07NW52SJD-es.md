@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Skechers Stamina  Zapatillas para Mujer  Charcoal & Black Suede/Gray Mesh/White Trim Gyor  2.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NW52SJD/?tag=tolees-21'
 descuento: '48.79'
 average: '30.403750000000002'

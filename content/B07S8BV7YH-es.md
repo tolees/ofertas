@@ -16,6 +16,7 @@ comparePrice: 159.05 EUR
 prodname: 'Eyoyo - Monitor LCD HDMI portátil  1280 x 800 16:10  Compatible con entradas HDMI  VGA  AV y BNC '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S8BV7YH/?tag=tolees-21'
 descuento: '37.58'
 average: '99.28'

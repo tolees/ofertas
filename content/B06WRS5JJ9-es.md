@@ -16,6 +16,7 @@ comparePrice: 90.63 EUR
 prodname: 'Corsair Force LE200 -  Unidad de estado sólido de TLC NY  240 GB SATA 3 6 GB/s  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06WRS5JJ9/?tag=tolees-21'
 descuento: '28.35'
 average: '64.94'

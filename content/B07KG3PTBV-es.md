@@ -16,6 +16,7 @@ comparePrice: 33.9 EUR
 prodname: 'Niimo Almohada Embarazo y Cojin Lactancia Bebe + Soft Cojìn Dormir y Abrazar Funda Cojines 100% Algodon Desenfundable y Lavable  Gris-Estrella Blanca '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KG3PTBV/?tag=tolees-21'
 descuento: '29.44'
 average: '31.909999999999997'

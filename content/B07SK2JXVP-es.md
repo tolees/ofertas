@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Levi s Woodward  Zapatillas para Hombre  Marrón  Medium Brown 27   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SK2JXVP/?tag=tolees-21'
 descuento: '25.83'
 average: '44.5'

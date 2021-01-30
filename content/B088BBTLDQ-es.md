@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Hagibis Soporte refrigerador enfriador de portátil ergonómico y cómodo. Base magnética y redonda para ordenador. Diseño elegante. Para portátiles y ordenadores calientes. Base enfriadora PC.  Plata '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088BBTLDQ/?tag=tolees-21'
 descuento: '25.02'
 average: '11.99'

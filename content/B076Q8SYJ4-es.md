@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Esprit Rachel Padded Bra Sujetador  Negro  Black 001   100C  Talla del Fabricante: 85C  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076Q8SYJ4/?tag=tolees-21'
 descuento: '40.01'
 average: '17.99'

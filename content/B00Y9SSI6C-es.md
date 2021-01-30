@@ -16,6 +16,7 @@ comparePrice: 41.99 EUR
 prodname: 'Purina ProPlan Medium Puppy Start pienso para perro cachorro Pollo 12 Kg'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00Y9SSI6C/?tag=tolees-21'
 descuento: '59.54'
 average: '16.99'

@@ -16,6 +16,7 @@ comparePrice: 58.43 EUR
 prodname: 'Teslagrad - Value Pack'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VHD33P7/?tag=tolees-21'
 descuento: '51.24'
 average: '38.848'

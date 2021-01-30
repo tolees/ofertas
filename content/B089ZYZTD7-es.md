@@ -16,6 +16,7 @@ comparePrice: 48.56 EUR
 prodname: 'Kexing Kit de Resina epoxídica y Agente de curado Material Compuesto de Resina de polímero Reforzado con Fibra'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089ZYZTD7/?tag=tolees-21'
 descuento: '50.00'
 average: '24.28'

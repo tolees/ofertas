@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Esprit 119ee1i004 suéter  Blanco  Off White 2 111   Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XVQHMD7/?tag=tolees-21'
 descuento: '33.34'
 average: '39.99'

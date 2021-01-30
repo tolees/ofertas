@@ -16,6 +16,7 @@ comparePrice: 249.0 EUR
 prodname: 'Samsung Galaxy A40 - Smartphone de 5.9" FHD+ sAmoled Infinity U Display  4 GB RAM  64 GB ROM  16 MP  Exynos 7904  Carga rápida   Coral [versión española]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PPJ8T6G/?tag=tolees-21'
 descuento: '26.91'
 average: '186.27857142857144'

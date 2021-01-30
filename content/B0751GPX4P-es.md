@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'VEGAS Pro 15'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0751GPX4P/?tag=tolees-21'
 descuento: '25.00'
 average: '59.99'

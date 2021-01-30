@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Skechers VERRADO BROGEN  Zapatillas Altas para Hombre  Multicolor  Blue Red Black Brbk   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JH1TJL9/?tag=tolees-21'
 descuento: '47.48'
 average: '34.11'

@@ -16,6 +16,7 @@ comparePrice: 71.99 EUR
 prodname: 'Logitech Advanced Combo Wireless Keyboard and Mouse - N/A - ESP - 2.4GHZ - N/A - MEDITER'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JBCDZ2L/?tag=tolees-21'
 descuento: '39.57'
 average: '41.059999999999995'

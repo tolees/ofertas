@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'DAM. DMX197BKCorrea Diseño Flores De Piel Sintética Iwatch 38Mm / 40Mm. Hebilla Y Enganche Metálicos. Compatible Series 1  2  3  Y 4. Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JPDDSLG/?tag=tolees-21'
 descuento: '71.03'
 average: '19.99'

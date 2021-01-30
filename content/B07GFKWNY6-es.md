@@ -16,6 +16,7 @@ comparePrice: 57.99 EUR
 prodname: 'AmazonBasics - Botellero para vinos de 4 niveles  tono cromado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GFKWNY6/?tag=tolees-21'
 descuento: '27.63'
 average: '41.97'

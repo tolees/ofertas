@@ -16,6 +16,7 @@ comparePrice: 18.0 EUR
 prodname: 'SunTop Linterna LED  LED Lámpara de Inspección Recargable Linterna de Trabajo  Portátil Lampara de Inspeccion COB LED Luz con Magnético Soporte y Gancho Colgante'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J9VFFH4/?tag=tolees-21'
 descuento: '25.06'
 average: '13.49'

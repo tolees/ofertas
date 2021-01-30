@@ -16,6 +16,7 @@ comparePrice: 12 EUR
 prodname: 'Max Power Digital Funda para Samsung Galaxy A50 Antigolpes Silicona TPU + PC Antigolpes Diseño Panal - Delgada y Resistente  Samsung A50  Verde '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TKDQT1Z/?tag=tolees-21'
 descuento: '37.50'
 average: '7.5'

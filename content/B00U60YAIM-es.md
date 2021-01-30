@@ -16,6 +16,7 @@ comparePrice: 19.49 EUR
 prodname: 'Bellota 5308-A CF - Maceta albañil  mango de fibra de carbono  1000 gramos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00U60YAIM/?tag=tolees-21'
 descuento: '33.35'
 average: '12.99'

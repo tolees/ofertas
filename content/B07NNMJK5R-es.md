@@ -16,6 +16,7 @@ comparePrice: 66.6 EUR
 prodname: 'Pack Vikingos 15 [DVD]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NNMJK5R/?tag=tolees-21'
 descuento: '30.65'
 average: '46.19'

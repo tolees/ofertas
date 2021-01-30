@@ -16,6 +16,7 @@ comparePrice: 19.55 EUR
 prodname: 'UniqueMe [6 Pack] Protector de Pantalla para Apple Watch 40mm Series 4/5  [Caso amistoso] [Película Flexible] Soft HD Clear Anti-Scratch con'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YD4H1M1/?tag=tolees-21'
 descuento: '56.62'
 average: '8.48'

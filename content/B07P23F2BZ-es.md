@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Skechers Energy-brunkz  Zapatillas para Hombre  Blanco  White Smooth Leather/White Trim Wht   39.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P23F2BZ/?tag=tolees-21'
 descuento: '64.93'
 average: '24.53'

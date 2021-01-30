@@ -16,6 +16,7 @@ comparePrice: 8.46 EUR
 prodname: '10 "12" 16 " Barra De Apoyo De Seguridad De Soporte De Carril Manillar Baño De Acero Inoxidable - Plata  40 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01KZ8JWGE/?tag=tolees-21'
 descuento: '26.00'
 average: '6.26'

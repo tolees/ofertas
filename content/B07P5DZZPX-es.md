@@ -16,6 +16,7 @@ comparePrice: 30.78 EUR
 prodname: 'HandFan Ventilador de Mano Mini Ventilador portátil de Mano con Interruptor magnético Batería Recargable/Diseño de Manos Libres/Modo de 3 velocidades para Viajes en casa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P5DZZPX/?tag=tolees-21'
 descuento: '51.30'
 average: '15.989999999999998'

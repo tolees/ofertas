@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'Under Armour Tech Mesh 6in 2 Pack Ropa Interior  Hombre  Naranja  Orange 860   MD'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CZG3V38/?tag=tolees-21'
 descuento: '44.20'
 average: '31.16'

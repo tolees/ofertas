@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'Reloj para Hombre  Colección Traguardo  con Movimiento de Cuarzo y función cronógrafo  en Acero y pvd Oro Rosa - R8873612011'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H8LRC27/?tag=tolees-21'
 descuento: '40.70'
 average: '177.3'

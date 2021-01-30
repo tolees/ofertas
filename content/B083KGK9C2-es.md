@@ -16,6 +16,7 @@ comparePrice: 51.0 EUR
 prodname: 'Silla de Cocina/Comedor de diseño nórdico-Scandi  Inspiración Silla Tower - Gris Arena 90291'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083KGK9C2/?tag=tolees-21'
 descuento: '62.75'
 average: '19.0'

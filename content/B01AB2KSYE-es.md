@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Einhell 4511396 Power X-Change - Batería de repuesto  18 V  4.0 Ah  tiempo de carga de 60 minutos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01AB2KSYE/?tag=tolees-21'
 descuento: '44.47'
 average: '54.225'

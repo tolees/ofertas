@@ -16,6 +16,7 @@ comparePrice: 18.0 EUR
 prodname: 'BILLABONG All Day Gorro  Hombre  Gris  Grey Heather   U'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073R4MBLS/?tag=tolees-21'
 descuento: '38.94'
 average: '10.99'

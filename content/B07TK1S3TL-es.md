@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Durex Vibrador Intense Orgasmic Pure Fantasy + Lubricante Perfect Connection base silicona 50ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TK1S3TL/?tag=tolees-21'
 descuento: '28.58'
 average: '26.986666666666665'

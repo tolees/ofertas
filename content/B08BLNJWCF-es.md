@@ -16,6 +16,7 @@ comparePrice: 10.36 EUR
 prodname: 'XILOSIN El Papel de arroz Blanco de la caligrafía China de la caligrafía del Dibujo 30PCS Xuan Pintura Papel'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BLNJWCF/?tag=tolees-21'
 descuento: '55.31'
 average: '4.63'

@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'WELEDA Leche Corporal de Malva Blanca  1x 200 ml '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00UFS2J06/?tag=tolees-21'
 descuento: '59.69'
 average: '15.52'

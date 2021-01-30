@@ -16,6 +16,7 @@ comparePrice: 76.62 EUR
 prodname: 'BSN All In One Weight Gainer Polvo de Proteína de Suero con Creatina  Glutamina y Vitamina D  Fresa - 4.2 kg  25 porciones'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D9SKRNT/?tag=tolees-21'
 descuento: '47.96'
 average: '39.87'

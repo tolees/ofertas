@@ -16,6 +16,7 @@ comparePrice: 33.34 EUR
 prodname: 'Rowenta VU1950 Classic Compact VU1930F0 Ventilador 45 W sobremesa 13 cm con Gran repartición oscilación Ideal y automática  repartirá el Aire para Que Llegue a Todos los rincones  55 W  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078WTVBRK/?tag=tolees-21'
 descuento: '39.62'
 average: '22.3'

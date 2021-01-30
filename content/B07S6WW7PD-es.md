@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'Under Armour Rival Print Fill Logo Parte Superior del Calentamiento  Niñas  Negro  YSM'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S6WW7PD/?tag=tolees-21'
 descuento: '54.12'
 average: '18.695'

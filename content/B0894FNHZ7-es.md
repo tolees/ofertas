@@ -16,6 +16,7 @@ comparePrice: 7.7 EUR
 prodname: 'Juego de 2 cucharas de decoración de dibujo culinario de precisión profesionales  de acero inoxidable  multiusos  para cocinero  platos decorativos  tartas  postre con mango cómodo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0894FNHZ7/?tag=tolees-21'
 descuento: '61.17'
 average: '2.99'

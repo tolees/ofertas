@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Funda iPhone XR  Fundas iPhone XR Libro  Carcasa iPhoneXR con Cierre Magnético  Tarjetero y Suporte  Capa iPhone XR Plegable Cartera  Flip Phone Cover Case  Tipo Étui Piel Protección. Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LGJ9DW4/?tag=tolees-21'
 descuento: '61.13'
 average: '13.99'

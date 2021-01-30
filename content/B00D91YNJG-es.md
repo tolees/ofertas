@@ -16,6 +16,7 @@ comparePrice: 21.54 EUR
 prodname: 'Borcam 1690037 Juego de 2 bandejas de Horno Care Cristal Transparente  31 5 x 28 x 6 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00D91YNJG/?tag=tolees-21'
 descuento: '40.11'
 average: '12.496666666666666'

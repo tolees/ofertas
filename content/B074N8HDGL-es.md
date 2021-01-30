@@ -16,6 +16,7 @@ comparePrice: 770.33 EUR
 prodname: 'Apple iPhone 7 - Smartphone de 32 GB Color Rosa  Reacondicionado '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074N8HDGL/?tag=tolees-21'
 descuento: '68.97'
 average: '239.0'

@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'ACDE Flores Artificial  Rosa Artificial 25PCS Rosa Falsa Espuma Mirada Real con Hoja y Vástago Ajustable para Bricolaje Ramos de Boda Decoraciones para el Hogar Nupciales  Champán Rosado '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q114LBM/?tag=tolees-21'
 descuento: '46.68'
 average: '15.99'

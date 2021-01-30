@@ -16,6 +16,7 @@ comparePrice: 6.6 EUR
 prodname: 'AnamSafdarButt59 Estante de Secado portátil Desmontable multifunción Secadora de biberones Estante de Limpieza Soporte de Soporte para biberones Color sólido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088TMRWS8/?tag=tolees-21'
 descuento: '40.00'
 average: '3.96'

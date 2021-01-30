@@ -16,6 +16,7 @@ comparePrice: 79.0 EUR
 prodname: 'Sortija Tommy Hilfiger 3 piezas acero inoxidable talla 13 baño oro 2700581B [AB9893]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072PYBVF7/?tag=tolees-21'
 descuento: '40.63'
 average: '46.9'

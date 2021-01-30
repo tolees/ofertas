@@ -16,6 +16,7 @@ comparePrice: 33.88 EUR
 prodname: 'Toppik Fibras Capilares Castaño Oscuro  Fibras de Queratina para Crear más Densidad en el Cabello de Forma Inmediata  27 5 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000CBVAQ0/?tag=tolees-21'
 descuento: '56.82'
 average: '14.63'

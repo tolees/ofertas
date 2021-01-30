@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Dispensador automático de pasta de dientes y cepillo de dientes con montaje en la pared  manos libres 2 Exprimidores de pasta de dientes 5 set de cepillos de dientes 4 gárgaras  accesorios de baño'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L6DHMJQ/?tag=tolees-21'
 descuento: '38.05'
 average: '18.58'

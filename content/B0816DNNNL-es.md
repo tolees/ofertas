@@ -16,6 +16,7 @@ comparePrice: 39.0 EUR
 prodname: 'Cepillo para Perros y Gatos  Secador para Perros  Pienes para Perros Temperatura Ajustable  kupet   BP09A '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0816DNNNL/?tag=tolees-21'
 descuento: '26.44'
 average: '28.69'

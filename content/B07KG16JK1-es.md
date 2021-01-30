@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'PUMA Hybrid Fuego  Zapatillas de Running para Hombre  Black Black  40.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KG16JK1/?tag=tolees-21'
 descuento: '62.56'
 average: '29.93'

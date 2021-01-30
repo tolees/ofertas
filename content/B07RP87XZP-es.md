@@ -16,6 +16,7 @@ comparePrice: 58.61 EUR
 prodname: 'Calvin Klein CK Rev.Adj. New Mono Belt 3.5cm Cinturón  Negro  Black Monogram 0gj   130  Talla del fabricante: 115  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RP87XZP/?tag=tolees-21'
 descuento: '40.30'
 average: '34.99'

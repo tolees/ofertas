@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Funko 36341 Bobble Capitán Marvel: POP 1  Multi color [Los estilos pueden variar]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HB8C21N/?tag=tolees-21'
 descuento: '31.72'
 average: '9.290833333333332'

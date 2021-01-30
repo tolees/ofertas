@@ -16,6 +16,7 @@ comparePrice: 649.9 EUR
 prodname: 'Baby Jogger City Mini Gemelar - Silla de paseo  color negro/gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00G3XR8OE/?tag=tolees-21'
 descuento: '50.76'
 average: '319.99'

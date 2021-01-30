@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Bestway 52195 - Piscina de Bolas Hinchable Circo 137x96x96 cm 100 Bolas Colores'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NGIBTQM/?tag=tolees-21'
 descuento: '38.94'
 average: '21.37'

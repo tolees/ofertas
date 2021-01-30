@@ -16,6 +16,7 @@ comparePrice: 10.52 EUR
 prodname: 'Dani - Cebolla escamas - Pack 12 x 40 gr.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087QMT1T3/?tag=tolees-21'
 descuento: '36.41'
 average: '6.69'

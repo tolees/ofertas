@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'TACKLIFE 2 Piezas Encendedor Eléctrico  ELY08 Encendedor Cocina  Mechero USB con Interruptor de Seguridad  Batería Recargable  Mango Super Largo  27 cm   Cuello más Largo & Flexible 360°  Más Seguro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F8TXSCN/?tag=tolees-21'
 descuento: '31.88'
 average: '14.113333333333333'

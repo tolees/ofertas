@@ -16,6 +16,7 @@ comparePrice: 33.0 EUR
 prodname: 'Motivational Posters for Office  Room  Home  Classroom Decorations Chalkboard 15 Set - Inspirational Quotes Wall Decor Black White Pictures 13" x 19" - Inspiring Students  Women  Men  Teachers Gifts'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RKL3J3P/?tag=tolees-21'
 descuento: '39.42'
 average: '19.99'

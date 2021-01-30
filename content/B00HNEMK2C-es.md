@@ -16,6 +16,7 @@ comparePrice: 16.92 EUR
 prodname: 'Ikea Glis Caja con Tapa  Azul  Blanco y Verde  17x10x8 cm  3 Unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00HNEMK2C/?tag=tolees-21'
 descuento: '63.65'
 average: '6.15'

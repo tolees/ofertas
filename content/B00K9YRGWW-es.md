@@ -16,6 +16,7 @@ comparePrice: 13.19 EUR
 prodname: 'Original Album Classics. 5cd Slipcase'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00K9YRGWW/?tag=tolees-21'
 descuento: '36.32'
 average: '8.4'

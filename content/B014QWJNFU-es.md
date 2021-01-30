@@ -16,6 +16,7 @@ comparePrice: 93.45 EUR
 prodname: 'Monster Adidas Supernova - Auriculares in-ear  color negro y blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B014QWJNFU/?tag=tolees-21'
 descuento: '55.18'
 average: '41.88'

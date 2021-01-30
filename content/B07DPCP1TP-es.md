@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Mpow Mini Auriculares Bluetooth Invisibles Auriculares Inalambricos Bluetooth de 3 Teclas con Micrófono Musica de 6 Horas Cancelación de Ruido Manos Libres con Avanzado Chip CSR para Coche y Oficinas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DPCP1TP/?tag=tolees-21'
 descuento: '29.18'
 average: '15.989999999999998'

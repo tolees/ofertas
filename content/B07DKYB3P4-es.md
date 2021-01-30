@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Tritton - Auricular Gaming Tritton Kunai Pro 7.1 Dirac 2020  Mac OS X '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DKYB3P4/?tag=tolees-21'
 descuento: '40.51'
 average: '35.69'

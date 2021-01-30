@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Barra de Sonido Envolvente EXCELVAN S18L 40W Barra de Sonido para TV BT 5.0 Laptop Entrada USB 3 Modos de Ecualización Fácil Instalación de Control Remoto'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XKSKXMX/?tag=tolees-21'
 descuento: '25.00'
 average: '72.49'

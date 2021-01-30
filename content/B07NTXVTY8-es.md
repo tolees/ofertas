@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Skechers Men s ULTRA FLEX 2.0 KELMER Trainers  Blue  Black Engineered Mesh/Synthetic/Gray Trim Bkgy   7  41 EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NTXVTY8/?tag=tolees-21'
 descuento: '36.54'
 average: '38.0875'

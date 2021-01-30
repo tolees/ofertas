@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: '8safe Protector de Alta Calidad para Asiento de Coche  PACK x 2  | Antideslizante y Resistente | ISOFIX Compatible | Material Oxford 600D | Tamaño ideal para Turismos/SUV'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0791LTYTZ/?tag=tolees-21'
 descuento: '50.01'
 average: '24.99'

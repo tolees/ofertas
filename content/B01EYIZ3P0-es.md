@@ -16,6 +16,7 @@ comparePrice: 9.39 EUR
 prodname: 'Yazilind oro 18K plateado cuelga los pendientes de aro circonio cúbico aros multicolores con encanto para la Mujer rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01EYIZ3P0/?tag=tolees-21'
 descuento: '64.96'
 average: '3.29'

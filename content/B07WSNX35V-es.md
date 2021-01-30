@@ -16,6 +16,7 @@ comparePrice: 31.07 EUR
 prodname: 'Ferilinso Funda para Xiaomi Redmi Note 8  Carcasa Cuero Retro Elegante con ID Tarjeta de Crédito Tragamonedas Soporte de Flip Cover Estuche de Cierre magnético para Funda Xiaomi Redmi Note 8 Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WSNX35V/?tag=tolees-21'
 descuento: '67.88'
 average: '9.98'

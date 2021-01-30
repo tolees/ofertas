@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'PUMA Nova Wn s  Zapatillas Deportivas para Mujer  Rosa  Pastel Parchment-Bridal Rose   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KFYRG5K/?tag=tolees-21'
 descuento: '57.47'
 average: '38.26'

@@ -16,6 +16,7 @@ comparePrice: 24.9 EUR
 prodname: 'Toshiba EXCERIA M302-EA - Tarjeta de memoria MicroSDXC de 64GB  UHS-I  Clase 10 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01EAKAW44/?tag=tolees-21'
 descuento: '40.40'
 average: '18.726363636363637'

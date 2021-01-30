@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'FUNNY HOUSE 5 Pcs Tapón de Drenaje de Silicona Tapón de Goma Universal Tapones de Desagüe para Cocina Baño Bañera Fregadero Lavabo Lavamanos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SC1RYCM/?tag=tolees-21'
 descuento: '43.78'
 average: '9.4625'

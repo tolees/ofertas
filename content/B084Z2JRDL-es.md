@@ -16,6 +16,7 @@ comparePrice: 1.82 EUR
 prodname: 'Popular Baby Kids Bath LED Dolphin Light Lámpara Lovely Toy Colorido Intermitente Luces cambiantes de Color Baño Iluminación Juguetes - Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084Z2JRDL/?tag=tolees-21'
 descuento: '33.52'
 average: '1.21'

@@ -16,6 +16,7 @@ comparePrice: 33.2 EUR
 prodname: 'Astralpool 11390 Floculante en Cartuchos para Piscinas  Blanco  10x20x7 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00IQ8BH0A/?tag=tolees-21'
 descuento: '43.25'
 average: '20.686666666666667'

@@ -16,6 +16,7 @@ comparePrice: 14.98 EUR
 prodname: 'Tescoma 428724 Moldes De Emplatar Grandchef  4 Pzs  Acero Inoxidable  Gris  4'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B008TO0G6C/?tag=tolees-21'
 descuento: '48.60'
 average: '7.7'

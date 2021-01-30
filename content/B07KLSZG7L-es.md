@@ -16,6 +16,7 @@ comparePrice: 31.99 EUR
 prodname: 'Crema hidratante antiarrugas con ácido hialurónico  vitamina C  colágeno marino y protección solar + luz azul. Tratamiento antiedad día/noche  antimanchas  antioxidante y reafirmante  hombre y mujer '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KLSZG7L/?tag=tolees-21'
 descuento: '36.23'
 average: '20.4'

@@ -16,6 +16,7 @@ comparePrice: 399.9 EUR
 prodname: 'Panasonic DMC-TZ70  Cámara Compacta de 12.1 MP  Super Zoom  Objetivo F3.3-F6.4 de 24-720 mm  Zoom de 30X  Estabilizador Óptico  FHD  WiFi  Raw   HDMI  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00U0AAFWS/?tag=tolees-21'
 descuento: '50.00'
 average: '212.1325'

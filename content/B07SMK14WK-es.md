@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Nippon Marathon'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SMK14WK/?tag=tolees-21'
 descuento: '29.16'
 average: '14.69'

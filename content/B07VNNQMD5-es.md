@@ -16,6 +16,7 @@ comparePrice: 41.46 EUR
 prodname: 'Calvin Klein Thong 3pk Tanga  Blanco  Bubble Gum/White/Grey Heather Xy3    Talla del Fabricante: Small  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VNNQMD5/?tag=tolees-21'
 descuento: '42.23'
 average: '27.296666666666667'

@@ -16,6 +16,7 @@ comparePrice: 85.66 EUR
 prodname: 'Reebok Club C 85 Melted Metal  Zapatillas de Deporte para Mujer  Gris  Pearl Met-Grey Gold/White   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071FTNCBS/?tag=tolees-21'
 descuento: '31.12'
 average: '59.0'

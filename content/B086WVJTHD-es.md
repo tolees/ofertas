@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Pecute Empapadores Perros 2 PCS Almohadillas de Entrenamiento para Perros Toallitas de Entrenamiento Pañales Lavable Ultraabsorbente Reutilizables Empapadores Antideslizante  L 90x70cm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086WVJTHD/?tag=tolees-21'
 descuento: '25.21'
 average: '18.69'

@@ -16,6 +16,7 @@ comparePrice: 10.0 EUR
 prodname: 'Bourjois Fard Joues Colorete Tono 33 Lilas d or - 2.5 gr.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077L5MVZ3/?tag=tolees-21'
 descuento: '44.90'
 average: '4.678181818181818'

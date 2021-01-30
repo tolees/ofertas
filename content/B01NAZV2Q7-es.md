@@ -16,6 +16,7 @@ comparePrice: 210.0 EUR
 prodname: 'Nixon Reloj Analogico para Unisex de Cuarzo con Correa en Acero Inoxidable A1072-2730-00'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NAZV2Q7/?tag=tolees-21'
 descuento: '51.43'
 average: '102.0'

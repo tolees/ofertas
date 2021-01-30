@@ -16,6 +16,7 @@ comparePrice: 31.0 EUR
 prodname: 'Ish - Ginebra London Dry Gin'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005UXQA0Q/?tag=tolees-21'
 descuento: '41.97'
 average: '19.804999999999996'

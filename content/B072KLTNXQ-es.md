@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'Vans Old Skool  Zapatillas Unisex Niños  Rosa  Suede/Canvas   34 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072KLTNXQ/?tag=tolees-21'
 descuento: '29.30'
 average: '35.35'

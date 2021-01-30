@@ -16,6 +16,7 @@ comparePrice: 390.3 EUR
 prodname: 'TP-Link T1600G-28PS TL-SG2424P  Switch Smart Gigabit PoE+ de 24 Puertos 10/100/1000Mbps con Ranuras SFP JetSteam  Montaje en Rack'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01AHQ110Y/?tag=tolees-21'
 descuento: '44.32'
 average: '226.35000000000002'

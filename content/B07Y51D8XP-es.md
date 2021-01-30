@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Carcasa compatible con Samsung Galaxy S10E  funda de silicona suave  antihuellas  resistente a los golpes  ultrafina  transparente  para Samsung Galaxy S10E 7 Talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y51D8XP/?tag=tolees-21'
 descuento: '47.39'
 average: '9.99'

@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Banpresto - The Grandline Men Vol.4  Bandai 85626 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R3L8GGN/?tag=tolees-21'
 descuento: '35.00'
 average: '19.5'

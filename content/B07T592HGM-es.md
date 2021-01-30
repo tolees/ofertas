@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'SGILE 1:20 CocheTeledirigido  Monstruo RC Rápido 4WD 26km/h RC Camión Todoterreno a Prueba de Agua para Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T592HGM/?tag=tolees-21'
 descuento: '47.29'
 average: '36.89'

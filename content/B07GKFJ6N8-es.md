@@ -16,6 +16,7 @@ comparePrice: 17.95 EUR
 prodname: 'Buff New Obsession Tubular Original  Unisex Adulto  Multi  Talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GKFJ6N8/?tag=tolees-21'
 descuento: '58.33'
 average: '7.48'

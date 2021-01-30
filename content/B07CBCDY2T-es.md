@@ -16,6 +16,7 @@ comparePrice: 23.08 EUR
 prodname: 'Manta de Bebé Lactancia Alimentación Paños de Muselina Fulares Portabebé Ropa - Pato'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CBCDY2T/?tag=tolees-21'
 descuento: '44.45'
 average: '12.82'

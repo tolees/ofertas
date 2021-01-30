@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'UMI. Essentials Marco de Fotos 13 x 18 cm Set de 12  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HGRT6NT/?tag=tolees-21'
 descuento: '34.01'
 average: '26.39'

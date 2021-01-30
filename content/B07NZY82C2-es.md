@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Skechers Solar Fuse  Zapatillas para Hombre  Azul  Navy Mesh/PU/Red Trim Nvrd   47.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NZY82C2/?tag=tolees-21'
 descuento: '51.54'
 average: '33.9'

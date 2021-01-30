@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Superga Classic  Zapatillas para Mujer  Amarillo  Yellow Sunflower 176   41.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00DV57HAM/?tag=tolees-21'
 descuento: '79.46'
 average: '18.732000000000003'

@@ -16,6 +16,7 @@ comparePrice: 159.07 EUR
 prodname: 'Casio Reloj de Pulsera DW-5900-1ER'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L7WTWK1/?tag=tolees-21'
 descuento: '50.21'
 average: '75.7625'

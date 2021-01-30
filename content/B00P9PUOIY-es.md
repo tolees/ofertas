@@ -16,6 +16,7 @@ comparePrice: 15.5 EUR
 prodname: 'American Crew Champú Diario 250 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00P9PUOIY/?tag=tolees-21'
 descuento: '37.29'
 average: '8.7025'

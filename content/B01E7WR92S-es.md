@@ -16,6 +16,7 @@ comparePrice: 11.02 EUR
 prodname: 'NGSIN Blue - Ratón Portátil con Cable Retráctil  ratón óptico de 1000 dpi. Color Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01E7WR92S/?tag=tolees-21'
 descuento: '76.23'
 average: '5.008'

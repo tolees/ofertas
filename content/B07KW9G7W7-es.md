@@ -16,6 +16,7 @@ comparePrice: 119.95 EUR
 prodname: 'Salomon Speedcross 4  Zapatillas de Trail Running para Hombre  Azul  Fjord Blue/Navy Blazer/Cherry Tomato   44 2/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KW9G7W7/?tag=tolees-21'
 descuento: '36.23'
 average: '76.49'

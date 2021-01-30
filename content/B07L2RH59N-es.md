@@ -16,6 +16,7 @@ comparePrice: 1499.99 EUR
 prodname: 'Gigabyte GeForce GV-N208-TAORUSX W-11GC - Tarjeta gráfica  3X DisplayPort/3x HDMI/USB-C'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L2RH59N/?tag=tolees-21'
 descuento: '60.00'
 average: '1076.25'

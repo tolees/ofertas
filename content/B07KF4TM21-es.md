@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'Levi s Housemark Polo  Azul  Sodalite Blue 0092   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KF4TM21/?tag=tolees-21'
 descuento: '38.75'
 average: '26.925'

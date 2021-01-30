@@ -16,6 +16,7 @@ comparePrice: 26.95 EUR
 prodname: 'Solgar Gaba 500 mg. Contiene Ácido gamma amino butírico  un neurotransmisor que favorece la relajación - 50 cápsulas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000Z8WXMU/?tag=tolees-21'
 descuento: '44.27'
 average: '19.023333333333333'

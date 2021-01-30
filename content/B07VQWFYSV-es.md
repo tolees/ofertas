@@ -16,6 +16,7 @@ comparePrice: 54.53 EUR
 prodname: 'Calvin Klein Short Runner Bañador  Azul  Snorkel Blue CJR   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VQWFYSV/?tag=tolees-21'
 descuento: '35.83'
 average: '34.99'

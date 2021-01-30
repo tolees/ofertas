@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Victoria Blucher Lona - Botas para mujer  Blanc  Blanco   37'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BZR77Z8/?tag=tolees-21'
 descuento: '37.93'
 average: '27.93'

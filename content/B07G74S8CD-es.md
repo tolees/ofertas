@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'laamei Manta de Invierno para Bebé Recién Nacido Manta Envolvente Saco de Dormir Swaddle Diseño Universal y Multifunción para Sillas de Bebé  Cochecitos  Cunas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G74S8CD/?tag=tolees-21'
 descuento: '26.33'
 average: '13.99'

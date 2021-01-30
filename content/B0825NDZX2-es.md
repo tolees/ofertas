@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Quiksilver All Time - Licra De Manga Corta con Protección Solar UPF 50 para Chicos 8-16 S/SL Surf tee  Niños  White  M/12'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0825NDZX2/?tag=tolees-21'
 descuento: '55.03'
 average: '8.99'

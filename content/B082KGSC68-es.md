@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Micrófono Inalámbrico Recargable Sistema de UHF Dual Micrófono Karaoke Profesional Micrófono de Mano Dinámico Portátil con Mini Receptor Bluetooth para Barra de Sonido Altavoz PA Speaker Wedding'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082KGSC68/?tag=tolees-21'
 descuento: '39.12'
 average: '54.79'

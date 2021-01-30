@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'L Oreal Paris Age Perfect Renacimiento Celular Contorno de Ojos Mirada Radiante - 15 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079VQTQRY/?tag=tolees-21'
 descuento: '43.47'
 average: '12.816666666666666'

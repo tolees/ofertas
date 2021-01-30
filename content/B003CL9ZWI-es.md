@@ -16,6 +16,7 @@ comparePrice: 60.06 EUR
 prodname: 'HP C9363EE 344 Cartucho de Tinta Original  1 unidad  tricolor  cian  magenta  amarillo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003CL9ZWI/?tag=tolees-21'
 descuento: '40.08'
 average: '42.99666666666667'

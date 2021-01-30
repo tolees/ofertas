@@ -16,6 +16,7 @@ comparePrice: 32.82 EUR
 prodname: 'i-baby Manta Infantil Manta Franela para Chicas Manta de Sofá y Cama de Microfibra 4 Estaciones  Unicornio  127x152cm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0813DSBK3/?tag=tolees-21'
 descuento: '48.51'
 average: '16.9'

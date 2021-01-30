@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Beurer HC55 - Secador de pelo con sistema recogecable  2200 W  3 temperatura sy 2 velocidades  protector sobrecalentamiento automatico  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075NLLB8S/?tag=tolees-21'
 descuento: '34.86'
 average: '25.49'

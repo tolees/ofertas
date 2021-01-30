@@ -16,6 +16,7 @@ comparePrice: 21.95 EUR
 prodname: 'Doble Consolador Double Consolador en color rosa transparente anal y vaginal perforación Dong Massager'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BFX1H5V/?tag=tolees-21'
 descuento: '45.79'
 average: '11.9'

@@ -16,6 +16,7 @@ comparePrice: 67.8 EUR
 prodname: 'NUNCAD Anillo Mujer Hombre Unisex de Tungsteno con Chapado en Oro 4mm Mate para Boda Compromiso Regalo Talla 49  15 7 mm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079SLGWZP/?tag=tolees-21'
 descuento: '70.52'
 average: '19.99'

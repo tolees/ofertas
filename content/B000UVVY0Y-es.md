@@ -16,6 +16,7 @@ comparePrice: 22.95 EUR
 prodname: 'McDavid 414R Cincha  Unisex adulto  Negro  Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000UVVY0Y/?tag=tolees-21'
 descuento: '32.81'
 average: '15.42'

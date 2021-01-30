@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'Bolsas de Leche Materna  Bestele Recipientes para leche materna 220ml 30 Count '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CKM4T7P/?tag=tolees-21'
 descuento: '54.57'
 average: '9.99'

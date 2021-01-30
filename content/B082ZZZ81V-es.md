@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: '2PCS Dispensador de pulverizador Oliva Aceite 100ml  Rociador de vinagre  Botella de Vidrio para cocinar/Ensalada/Hornear Pan/BBQ/Cocina'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082ZZZ81V/?tag=tolees-21'
 descuento: '41.39'
 average: '16.99'

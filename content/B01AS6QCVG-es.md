@@ -16,6 +16,7 @@ comparePrice: 255.0 EUR
 prodname: 'Swatch Reloj Digital para Hombre de Cuarzo con Correa en Acero Inoxidable YOS452G'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01AS6QCVG/?tag=tolees-21'
 descuento: '66.24'
 average: '87.065'

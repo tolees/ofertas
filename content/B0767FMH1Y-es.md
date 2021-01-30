@@ -16,6 +16,7 @@ comparePrice: 23.94 EUR
 prodname: 'Rexona Maximum Protection Crema Antitranspirante Clean Scent 45ml - Pack de 6'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0767FMH1Y/?tag=tolees-21'
 descuento: '25.23'
 average: '17.9'

@@ -16,6 +16,7 @@ comparePrice: 12.9 EUR
 prodname: 'MANN-FILTER HU 7008 Z Original Filtro de Aceite  Set de filtro de aceite con junta / juego de juntas  Para automóviles'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00DQEAYZS/?tag=tolees-21'
 descuento: '54.57'
 average: '6.17'

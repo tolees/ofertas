@@ -16,6 +16,7 @@ comparePrice: 7.1 EUR
 prodname: 'Finocam Escribir  Calendario de Pared 2020  L - 340 x 320 mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TBMRVGS/?tag=tolees-21'
 descuento: '50.00'
 average: '4.61'

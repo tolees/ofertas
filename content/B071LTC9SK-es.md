@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'New Balance 574v2 Core Lace  Modelo PC574GG  Zapatillas para Niños  Gris  Grey/Grey GG   28 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071LTC9SK/?tag=tolees-21'
 descuento: '51.53'
 average: '33.735'

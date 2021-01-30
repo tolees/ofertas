@@ -16,6 +16,7 @@ comparePrice: 135 EUR
 prodname: 'Lacoste Courtline 319 1 Us Cfa  Zapatillas para Mujer  Blanco  White/Light Blue 1t3   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L9W1YRR/?tag=tolees-21'
 descuento: '77.84'
 average: '31.75'

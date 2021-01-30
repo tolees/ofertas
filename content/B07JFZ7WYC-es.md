@@ -16,6 +16,7 @@ comparePrice: 24.9 EUR
 prodname: 'Quemagrasas NATURAL Vegavero® | Cetonas de Frambuesa + Pimienta Cayena + Té Verde + Cafeína Pura + Zinc | 120 Cápsulas | Quemagrasas Potente Para Adelgazar + Perder Grasa + Peso | Body Control'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JFZ7WYC/?tag=tolees-21'
 descuento: '60.24'
 average: '9.9'

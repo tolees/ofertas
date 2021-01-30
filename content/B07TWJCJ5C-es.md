@@ -16,6 +16,7 @@ comparePrice: 119.95 EUR
 prodname: 'Gant Nicewill  Zapatillas para Mujer  Beige  Yellow/Beige G158   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TWJCJ5C/?tag=tolees-21'
 descuento: '70.06'
 average: '35.91'

@@ -16,6 +16,7 @@ comparePrice: 88.99 EUR
 prodname: 'El disco de almacenamiento del disco flash  el disco de memoria  el llavero de rotación de metal  es adecuado para el teléfono móvil de Apple  computadora de disco en U  USB 2.0 de doble uso  plateado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08B8YG7F3/?tag=tolees-21'
 descuento: '32.59'
 average: '59.99'

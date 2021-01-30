@@ -16,6 +16,7 @@ comparePrice: 20.69 EUR
 prodname: 'Solgar 40+ Acidophilus Avanzado  Probiótico para el Mantenimiento de una Flora Intestinal Sana  Apto para Veganos  60 Cápsulas Vegetales'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000Z92KTA/?tag=tolees-21'
 descuento: '32.82'
 average: '16.830000000000002'

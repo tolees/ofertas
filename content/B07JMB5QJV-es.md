@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Buffalo Corin  Zapatillas Altas para Mujer  Blanco  White 000   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JMB5QJV/?tag=tolees-21'
 descuento: '39.82'
 average: '60.12'

@@ -16,6 +16,7 @@ comparePrice: 16.74 EUR
 prodname: 'L Oreal Paris Elvive Arcilla Extraordinaria Champú Cuidado para Pelo Normal O con Tendencia A Engrasarse  285 ml  Pack de 6'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QDR65DX/?tag=tolees-21'
 descuento: '35.90'
 average: '10.73'

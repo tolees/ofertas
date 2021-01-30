@@ -16,6 +16,7 @@ comparePrice: 13.62 EUR
 prodname: 'dc comics Pato de baño de Goma Batman  Color Negro  Paladone PP4433DC '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BBRXPL8/?tag=tolees-21'
 descuento: '47.21'
 average: '10.39'

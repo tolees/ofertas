@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'LE Plafón LED Lámpara de Techo 24W Equivalente a 200W Resistente al Agua IP54 Blanco Frío 2200 Lúmenes 6000K Luz de Techo LED para baño Dormitorio Cocina Sala de Estar Comedor Balcón Pasillo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NMJ24FS/?tag=tolees-21'
 descuento: '30.31'
 average: '22.86733333333333'

@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'PUMA Future 5.4 FG/AG  Botas de fútbol para Hombre  Azul  Luminous Blue-Nrgy Blue Black-Pink Alert 01   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S6P3LJ2/?tag=tolees-21'
 descuento: '40.95'
 average: '32.45'

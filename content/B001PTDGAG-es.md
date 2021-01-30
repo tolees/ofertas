@@ -16,6 +16,7 @@ comparePrice: 19.6 EUR
 prodname: 'HUNTER Comida Acero Inoxidable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001PTDGAG/?tag=tolees-21'
 descuento: '64.34'
 average: '6.99'

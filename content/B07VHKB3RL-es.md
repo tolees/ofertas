@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Jack & Jones Jjeliam Knit Crew Neck Noos suéter  Verde  Olive Night Olive Night   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VHKB3RL/?tag=tolees-21'
 descuento: '73.99'
 average: '10.4'

@@ -16,6 +16,7 @@ comparePrice: 26.95 EUR
 prodname: 'VistaMax | Potente optimizante y protector de la visión | Fortalece el tejido ocular y la retina | Mejora la visión diurna y nocturna | Tratamiento exclusivo para la salud de los ojos | 60 unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDJMDWS/?tag=tolees-21'
 descuento: '60.48'
 average: '10.65'

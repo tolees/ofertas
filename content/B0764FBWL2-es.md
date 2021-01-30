@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Funko Pop!-24981 Dragonball Super: Zamasu  Multicolor  Standard'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0764FBWL2/?tag=tolees-21'
 descuento: '26.68'
 average: '10.190000000000001'

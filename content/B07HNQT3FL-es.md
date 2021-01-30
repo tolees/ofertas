@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'INNObeta KlyN Neceser Mujer Hombre de Viaje para Colgar Bolsas de Aseo Cosméticos Neceseres Maquillaje （Gris）'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HNQT3FL/?tag=tolees-21'
 descuento: '70.02'
 average: '11.99'

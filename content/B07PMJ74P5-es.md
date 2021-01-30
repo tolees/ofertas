@@ -16,6 +16,7 @@ comparePrice: 34.15 EUR
 prodname: 'The Nisha 24 PC pegatinas para pared Adhesivo de Pared Salpicadero de Vinilos Azulejos Adhesivos Arte Ecléctico para la Cocina & Baño  10x10 cm  Belleza veneciana'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PMJ74P5/?tag=tolees-21'
 descuento: '26.94'
 average: '24.616666666666667'

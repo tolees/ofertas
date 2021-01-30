@@ -16,6 +16,7 @@ comparePrice: 179.0 EUR
 prodname: 'Gigandet Reloj de Hombre Cuarzo Red Touch Cronógrafo Analógico Cuero Gris Negro G51-001'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01EG7ZPMK/?tag=tolees-21'
 descuento: '49.78'
 average: '89.9'

@@ -16,6 +16,7 @@ comparePrice: 110.13 EUR
 prodname: 'Casio Reloj Analógico-Digital para Hombre Correa en Resina GA-140-1A4ER'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TWMR4QW/?tag=tolees-21'
 descuento: '36.48'
 average: '72.3'

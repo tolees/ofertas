@@ -16,6 +16,7 @@ comparePrice: 49.94 EUR
 prodname: 'BLEND Jeans-Noos Cirrus Parte de Arriba  Blau  Faisal 76117-L34   W32/ L34  32  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KCHFNF8/?tag=tolees-21'
 descuento: '41.17'
 average: '27.216666666666665'

@@ -16,6 +16,7 @@ comparePrice: 7.18 EUR
 prodname: '100 Papeles Multicolores de Origami Ideal para Hacer Formas Grúas Flores Conveniente para Artesanías Proyectos de Arte - 10x10cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078V8NLLS/?tag=tolees-21'
 descuento: '44.43'
 average: '3.99'

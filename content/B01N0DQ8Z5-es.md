@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Ariete 155/15 - Tostador 2 ranuras anchas  vintage  6 posiciones  función descongelar  recalentar  cancelar  paredes frías  pies antideslizante  recogecable  810 W  color azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N0DQ8Z5/?tag=tolees-21'
 descuento: '26.54'
 average: '44.0'

@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'BEAKEY Esponja Maquillaje  Set de Makeup Blender Beauty para Base de Maquillaje  Ideal para Líquidos  Cremas y Polvos  5 Unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01F36JEXE/?tag=tolees-21'
 descuento: '27.81'
 average: '8.264545454545456'

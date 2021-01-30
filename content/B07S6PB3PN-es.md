@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'PUMA X-Ray  Zapatillas Unisex-Adulto  Blanco White/Gray Violet  41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S6PB3PN/?tag=tolees-21'
 descuento: '37.47'
 average: '49.99'

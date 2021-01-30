@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Lorus Reloj Analógico de Cuarzo para Hombre con Correa de Acero Inoxidable – RW623AX9'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0154B6TAY/?tag=tolees-21'
 descuento: '38.36'
 average: '61.49888888888889'

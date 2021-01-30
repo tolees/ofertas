@@ -16,6 +16,7 @@ comparePrice: 21.24 EUR
 prodname: 'Kärcher Bolsa de filtro de papel  6.959-130.0 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0000AITPZ/?tag=tolees-21'
 descuento: '57.86'
 average: '9.258'

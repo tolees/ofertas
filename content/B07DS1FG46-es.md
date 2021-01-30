@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Salomon  Xview Access  Máscara de esquí unisex  Negro-Blanco/Naranja  Universal Tonic   L40518600'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DS1FG46/?tag=tolees-21'
 descuento: '28.34'
 average: '42.99'

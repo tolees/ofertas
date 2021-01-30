@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Adidas Vs Pace  Zapatillas para Hombre  Gris  Grey/Core Black/Footwear White 0   45 1/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072Q1CMX9/?tag=tolees-21'
 descuento: '40.03'
 average: '29.98'

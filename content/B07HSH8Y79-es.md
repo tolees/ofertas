@@ -16,6 +16,7 @@ comparePrice: 28.0 EUR
 prodname: 'Baby Art MY LITTLE STEPS - Recuerdo de bebé  Grey  Huella de mano o pie de su bebé  multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HSH8Y79/?tag=tolees-21'
 descuento: '32.32'
 average: '17.626666666666665'

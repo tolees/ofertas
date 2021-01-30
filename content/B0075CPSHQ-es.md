@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'POP! Vinilo - Disney: Minnie Mouse'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0075CPSHQ/?tag=tolees-21'
 descuento: '44.96'
 average: '8.25'

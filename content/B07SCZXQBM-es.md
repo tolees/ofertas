@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'PUMA NRGY Neko Retro  Zapatillas de Running para Hombre  Negro Black/Palace Blue  44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SCZXQBM/?tag=tolees-21'
 descuento: '51.72'
 average: '36.86'

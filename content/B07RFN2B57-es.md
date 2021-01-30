@@ -16,6 +16,7 @@ comparePrice: 35.65 EUR
 prodname: 'Salomon RX Break 4.0 W  Zapatillas Deportivas para Interior para Mujer  Azul  Meadowbrook/Icy Morn/White   36 2/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RFN2B57/?tag=tolees-21'
 descuento: '30.86'
 average: '24.65'

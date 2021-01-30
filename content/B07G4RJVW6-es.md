@@ -16,6 +16,7 @@ comparePrice: 139.0 EUR
 prodname: 'Tommy Hilfiger Reloj Analógico para Mujer de Cuarzo con Correa en Oro Rosa 1781963'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G4RJVW6/?tag=tolees-21'
 descuento: '30.22'
 average: '102.72384615384614'

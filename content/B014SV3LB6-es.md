@@ -16,6 +16,7 @@ comparePrice: 52.0 EUR
 prodname: 'Super Design Comedero Lento en Melamina  Comedero Antivoracidad Antideslizante para Perros y Gatos  Ralentizar la Comida'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B014SV3LB6/?tag=tolees-21'
 descuento: '50.12'
 average: '25.94'

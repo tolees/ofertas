@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Reebok Flexagon Energy MT  Zapatillas de Gimnasia para Hombre  Negro  Black/Cold Grey 7/Cold Grey 2 Black/Cold Grey 7/Cold Grey 2   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SVPHR6W/?tag=tolees-21'
 descuento: '58.00'
 average: '20.98'

@@ -16,6 +16,7 @@ comparePrice: 1.5 EUR
 prodname: 'Garnier Skin Active Rescue Mask - Mascarilla Reparadora de Miel y Ceramida'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06X9MQ48T/?tag=tolees-21'
 descuento: '33.33'
 average: '1.25'

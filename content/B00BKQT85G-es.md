@@ -16,6 +16,7 @@ comparePrice: 179.0 EUR
 prodname: 'Daniel Wellington - Reloj analógico para caballero correa de cuero negro  dial blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BKQT85G/?tag=tolees-21'
 descuento: '56.06'
 average: '79.8475'

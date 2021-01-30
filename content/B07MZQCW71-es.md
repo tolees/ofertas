@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Pepe Jeans Greta Pantalones  Azul  Dulwich 594   S para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZQCW71/?tag=tolees-21'
 descuento: '50.00'
 average: '26.244999999999997'

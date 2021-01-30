@@ -16,6 +16,7 @@ comparePrice: 47.77 EUR
 prodname: 'Puma Icra Trainer SD Zapatillas  Unisex adulto  Marrón  Fossil-Puma White-Puma Team Gold   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DC11GQ3/?tag=tolees-21'
 descuento: '32.07'
 average: '28.700000000000003'

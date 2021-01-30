@@ -16,6 +16,7 @@ comparePrice: 181.09 EUR
 prodname: 'Taurus Vilna 1200W Emisor Térmico Digital  Tecnología Seca  sin Fluidos  6 elementos  programación diaria-semanal  3 modos  temperatura ajustable  incluye patas y soporte pared  1200W  multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LB48GPE/?tag=tolees-21'
 descuento: '36.50'
 average: '115'

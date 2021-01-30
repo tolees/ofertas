@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Belkin B2A075-C00 - Funda Estuche para Chromebook de 11"  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00VVZPO3G/?tag=tolees-21'
 descuento: '40.01'
 average: '17.99'

@@ -16,6 +16,7 @@ comparePrice: 13.95 EUR
 prodname: 'Garnier Delial Spray Protector Hidratante 24 Horas  con SPF30 - 300 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00X9TNKIS/?tag=tolees-21'
 descuento: '43.01'
 average: '11.459999999999999'

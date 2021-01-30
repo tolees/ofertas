@@ -16,6 +16,7 @@ comparePrice: 4.39 EUR
 prodname: 'Ularma Pata pequeña impresión paño grueso y suave manta suave estera del animal doméstico  60 X 40 CM  café '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N5JGHP8/?tag=tolees-21'
 descuento: '30.98'
 average: '2.4566666666666666'

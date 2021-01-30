@@ -16,6 +16,7 @@ comparePrice: 64.99 EUR
 prodname: 'Alcatel 3088X - Teléfono móvil de 2.4"  Wi-Fi  RAM de 4 GB  memoria interna de 512 MB + slot micro SD  Bluetooth  color azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TVWYRWM/?tag=tolees-21'
 descuento: '30.76'
 average: '44.63333333333333'

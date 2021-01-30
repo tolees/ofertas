@@ -16,6 +16,7 @@ comparePrice: 37.61 EUR
 prodname: 'Bennigiry - Short - Femme - - L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DNTW22W/?tag=tolees-21'
 descuento: '63.68'
 average: '13.66'

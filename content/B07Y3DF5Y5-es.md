@@ -16,6 +16,7 @@ comparePrice: 189.99 EUR
 prodname: 'Rowenta RR6933WH - Robot Aspirador con mopa y depósito de Agua  aspira y friega a la vez. Sensores que evitan choques y caídas  150 min de autonomía'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y3DF5Y5/?tag=tolees-21'
 descuento: '26.32'
 average: '145.14'

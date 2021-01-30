@@ -16,6 +16,7 @@ comparePrice: 16.61 EUR
 prodname: 'Gifts Treat Turbante de Secado de Pelo Toalla de Secado de Pelo de Dibujos Animados en 3D Encantadora Envoltura Absorbente de Cabello Absorbente para Adultos y niños  Conejo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079LBCV4V/?tag=tolees-21'
 descuento: '27.81'
 average: '11.99'

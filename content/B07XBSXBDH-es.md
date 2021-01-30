@@ -16,6 +16,7 @@ comparePrice: 38.53 EUR
 prodname: 'PUMA Rtg 3/4 Tight Mallas Deporte  Mujer  Black  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XBSXBDH/?tag=tolees-21'
 descuento: '45.52'
 average: '20.99'

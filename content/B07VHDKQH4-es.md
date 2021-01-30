@@ -16,6 +16,7 @@ comparePrice: 85.0 EUR
 prodname: 'Hackett London Slim Fit Logo Polo  Azul  5dinavy/Blue 5di   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VHDKQH4/?tag=tolees-21'
 descuento: '55.61'
 average: '40.114999999999995'

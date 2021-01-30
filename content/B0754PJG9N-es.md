@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Salomon Shorts para running  AGILE 5"  tafetán  negro  hombre  talla: M  l40120100'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0754PJG9N/?tag=tolees-21'
 descuento: '32.14'
 average: '23.75'

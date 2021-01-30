@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Pantalones de Yoga Sueltos Mujer Harem Boho del Lazo del Pavo Real Flaral Funky #2 Flor Impresa-#2 Flor Impresa-C'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HGRF6DV/?tag=tolees-21'
 descuento: '48.60'
 average: '16.49'

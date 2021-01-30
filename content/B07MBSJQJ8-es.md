@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'Gelink Soporte de Pared Wall Mount para Dot 3ª generación  Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MBSJQJ8/?tag=tolees-21'
 descuento: '26.39'
 average: '10.01'

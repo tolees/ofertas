@@ -16,6 +16,7 @@ comparePrice: 6.36 EUR
 prodname: 'Molyflower 18L Nordic Garbage Bag Storage Box Baño Estante de Almacenamiento Colgante de Pared con Cubierta Rack Storage Rack Organizador de Cocina - Beige'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BZGCNMF/?tag=tolees-21'
 descuento: '33.49'
 average: '4.23'

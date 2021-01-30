@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'UniqueMe Funda para iPhone XS MAX  2018   Ultra [Slim Thin] TPU Funda Protectora TPU de Silicona Suave para iPhone XS MAX 6.5 Inch - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GVGFDSM/?tag=tolees-21'
 descuento: '87.55'
 average: '1.99'

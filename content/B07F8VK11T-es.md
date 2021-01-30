@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'TACKLIFE Encendedor  ELY04 Encendedor Cocina  USB Mechero Eléctrico con Doble Interruptor de Seguridad  Batería Recargable  Mango Super Largo  27 cm   Cuello más Largo & Flexible 360°  Más Seguro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F8VK11T/?tag=tolees-21'
 descuento: '28.59'
 average: '9.346363636363634'

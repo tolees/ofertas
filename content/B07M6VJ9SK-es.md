@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'flintronic Cinturón Cuero Hombre  Cinturones Piel con Hebilla Automática  Sencillo y Clásico Perfecto Regalo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M6VJ9SK/?tag=tolees-21'
 descuento: '53.87'
 average: '12.323333333333334'

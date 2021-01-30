@@ -16,6 +16,7 @@ comparePrice: 9.59 EUR
 prodname: 'FCB FC Barcelona Equipaje  Niños Unisex  Azul Marino  21x8x6'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V489KXW/?tag=tolees-21'
 descuento: '30.03'
 average: '6.71'

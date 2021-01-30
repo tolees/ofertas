@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'adidas Fef H Mini Equipamento de Fútbol  Unisex niños  Victory Red  3-4Y'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081JSZL7V/?tag=tolees-21'
 descuento: '27.07'
 average: '33.12'

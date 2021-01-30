@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Weehey Báscula de Cocina eléctrica precisa de 5 kg / 1g Báscula de Cocina de Alta precisión Báscula electrónica de Plataforma pequeña Báscula de Alimentos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WPT8WZ3/?tag=tolees-21'
 descuento: '39.23'
 average: '13.97'

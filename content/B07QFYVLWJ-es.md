@@ -16,6 +16,7 @@ comparePrice: 279.0 EUR
 prodname: 'Emporio Armani Reloj Analógico para Mujer de Cuarzo con Correa en Cuero AR11224'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QFYVLWJ/?tag=tolees-21'
 descuento: '41.42'
 average: '163.44'

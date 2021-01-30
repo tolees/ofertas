@@ -16,6 +16,7 @@ comparePrice: 2249.0 EUR
 prodname: 'Microsoft Surface Book 2 - Ordenador portátil convertible táctil 13.5    Intel Core i7-8650U  8GB RAM  256GB SSD  Nvidia GeForce GTX1050-2GB  Windows 10 Pro  Plata - Teclado QWERTY Español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BFR3P98/?tag=tolees-21'
 descuento: '30.34'
 average: '1621.775'

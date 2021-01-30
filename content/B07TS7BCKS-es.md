@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Mini Maquina de Coser Portatil de Mano Herramienta de Herramienta de Puntada Rápida para Tela Ropa o Tela de Niños con Bobina Adicional  Aguja y Enhebrador Uso de Viaje y Casa  batería no incluida '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TS7BCKS/?tag=tolees-21'
 descuento: '80.01'
 average: '19.99'

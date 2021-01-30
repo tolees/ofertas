@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'UGREEN Lector Tarjetas SD y Micro SD USB Tipo C  Lector Tarjetas de Memoria USB 3.0 Lectura Simultánea SD y TF para iPad Pro 2020/2018  MacBook Pro 2019  Samsung S20  Huawei P40 Pro  Xiaomi Mi10 Mi9'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZKRM12C/?tag=tolees-21'
 descuento: '28.59'
 average: '12.656666666666666'

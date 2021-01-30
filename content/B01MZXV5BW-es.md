@@ -16,6 +16,7 @@ comparePrice: 69.9 EUR
 prodname: 'Tommy Hilfiger K1285esha 6d  Zapatillas para Mujer  Azul  Midnight 403   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MZXV5BW/?tag=tolees-21'
 descuento: '48.78'
 average: '37.529999999999994'

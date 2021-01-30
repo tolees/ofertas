@@ -16,6 +16,7 @@ comparePrice: 1.99 EUR
 prodname: 'Captain Morgan Ron & Cola - 250 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MXWDER7/?tag=tolees-21'
 descuento: '25.13'
 average: '1.49'

@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Medisana EMS Entrenador muscular abdominal eléctrico  estimulación muscular de brazos  piernas y músculos abdominales  cinturón muscular abdominal con 15 intensidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B59G5LW/?tag=tolees-21'
 descuento: '47.71'
 average: '31.35'

@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'G★LAXIA Amoladora Angulare 750W 11000RPM  Discos de 115mm  con 2 Ruedas para Esmerilar/Pulir/Cortar  Mango  Cubiertas Protectoras de Ruedas  Bloqueo Interruptor  Cabeza Metálica'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RBT931D/?tag=tolees-21'
 descuento: '38.34'
 average: '36.99'

@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Banda Reflectante 4 Luz Running Brazalete Reflectante con Elástica Alta Visibilidad Luz de Seguridad  Luces LED Intermitentes para Correr  Practicar Senderismo o Ciclismo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XYVPQSS/?tag=tolees-21'
 descuento: '43.50'
 average: '12.99'

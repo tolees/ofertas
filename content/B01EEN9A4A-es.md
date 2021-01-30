@@ -16,6 +16,7 @@ comparePrice: 225.0 EUR
 prodname: 'Miniland Baby - Vigilabebé'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01EEN9A4A/?tag=tolees-21'
 descuento: '25.00'
 average: '155.1122222222222'

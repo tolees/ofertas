@@ -16,6 +16,7 @@ comparePrice: 17.95 EUR
 prodname: 'Buff Breaker Tubular Original  Hombre  Multi  Talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T9FGYY9/?tag=tolees-21'
 descuento: '31.70'
 average: '12.26'

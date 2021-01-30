@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Rhodesy Funda Impermeable de Coche para Perros con Solapas Laterales y Cremalleras - Resistente al Agua y antideslizamiento y Prueba de rasguño'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075SXF57J/?tag=tolees-21'
 descuento: '33.34'
 average: '19.99'

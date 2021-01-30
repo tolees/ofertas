@@ -16,6 +16,7 @@ comparePrice: 101.86 EUR
 prodname: 'Office Ink Toner reemplazo para Brother DR241 DR245 unidad de tambor compatible Para Brother DCP-9020CDW HL-3140CW HL-3142CW HL-3150CDW HL-3152CDW HL-3170CDW 3172CDW 9130CW MFC-9140CDN 9330CDW 9340CDW'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RQ71W2W/?tag=tolees-21'
 descuento: '35.35'
 average: '65.85'

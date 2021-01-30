@@ -16,6 +16,7 @@ comparePrice: 150 EUR
 prodname: 'The North Face Hedgehog Hike II GTX  Zapatillas de Senderismo para Hombre  Verde  Tarmacgreen/Burntolivegrn 4Dd   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078K5KPS2/?tag=tolees-21'
 descuento: '64.40'
 average: '56.105000000000004'

@@ -16,6 +16,7 @@ comparePrice: 25.8 EUR
 prodname: 'Relaxdays Pala Pizza Horno XXL  Tabla  Espátula con Mango Largo  Pan  Madera de Pino  1 Ud  1 x 30 x 78 cm  Marrón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M4M4DG2/?tag=tolees-21'
 descuento: '61.28'
 average: '9.99'

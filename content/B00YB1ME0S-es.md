@@ -16,6 +16,7 @@ comparePrice: 37.9 EUR
 prodname: 'Tommy Hilfiger Brief 3 Pack Premium Essentials Calzoncillos  Multicolor  Black/Grey Heather-EUR/White   Large  Pack de 3  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00YB1ME0S/?tag=tolees-21'
 descuento: '52.51'
 average: '18.0'

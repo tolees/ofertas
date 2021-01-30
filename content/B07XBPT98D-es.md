@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'LIGE Relojes para Hombre Simple Negocio Deportivo Cuarzo Analógico Reloj Acero Inoxidable Unisex Reloj de Pulsera'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XBPT98D/?tag=tolees-21'
 descuento: '70.01'
 average: '26.99'

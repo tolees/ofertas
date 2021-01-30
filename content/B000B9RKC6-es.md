@@ -16,6 +16,7 @@ comparePrice: 35.2 EUR
 prodname: 'Brüder Mannesmann M12588 SDS-Plus - Juego de cinceles y brocas  13 piezas '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000B9RKC6/?tag=tolees-21'
 descuento: '28.04'
 average: '25.354'

@@ -16,6 +16,7 @@ comparePrice: 26.24 EUR
 prodname: 'Khanomak - Body de Manga Larga con Cut out en la Parte de Delante - Large - Azul Marino'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LXWS126/?tag=tolees-21'
 descuento: '84.79'
 average: '3.99'

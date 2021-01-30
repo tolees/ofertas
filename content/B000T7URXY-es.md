@@ -16,6 +16,7 @@ comparePrice: 38.9 EUR
 prodname: 'Bosch Mixxo MSM6B150 - Batidora de mano  300 W  velocidad Turbo  cúpula con cuchilla de acero inoxidable  con vaso de mezclas  color blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000T7URXY/?tag=tolees-21'
 descuento: '33.91'
 average: '23.136666666666667'

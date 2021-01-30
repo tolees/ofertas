@@ -16,6 +16,7 @@ comparePrice: 9.44 EUR
 prodname: 'Pipedream Basix Works Slim - Dildo Clásico  Trasparente  20 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002UVAHRS/?tag=tolees-21'
 descuento: '54.24'
 average: '8.313333333333333'

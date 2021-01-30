@@ -16,6 +16,7 @@ comparePrice: 7.0 EUR
 prodname: 'Rimmel London Stay Matte Liquid Lip Colour Urban Romance Barra De Labios Tono 220 - 21 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077QFD9JK/?tag=tolees-21'
 descuento: '50.57'
 average: '3.68'

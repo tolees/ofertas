@@ -16,6 +16,7 @@ comparePrice: 25.19 EUR
 prodname: 'LEADSTAR Kinds Funda para Samsung Galaxy Tab A 9.7 caso niños EVA destinado a prueba de golpes cubierta estuche protector caso para Samsung Tab A SM-T550 P550 9.7 Pulgadas - Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B012ZDUJJG/?tag=tolees-21'
 descuento: '32.55'
 average: '16.99'

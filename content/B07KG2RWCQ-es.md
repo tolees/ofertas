@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'PUMA Palace Guard  Zapatillas Unisex Adulto  White-Jaffa Orange-Galaxy Blue  41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KG2RWCQ/?tag=tolees-21'
 descuento: '60.03'
 average: '39.95'

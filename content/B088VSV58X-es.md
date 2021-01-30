@@ -16,6 +16,7 @@ comparePrice: 30.26 EUR
 prodname: 'P Prettyia 8 Unidades USB Macho A Cable De Extensión De Cable Hembra PS2 para Teclado Ratón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088VSV58X/?tag=tolees-21'
 descuento: '45.34'
 average: '16.54'

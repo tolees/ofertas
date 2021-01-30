@@ -16,6 +16,7 @@ comparePrice: 43.88 EUR
 prodname: 'Aceites Esenciales aromaterapia Set incluye parte superior 6 Set de regalo: lavanda  Naranja Dulce  menta  árbol de té  citronela  eucalyptus-100% Pure'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073WPYZ37/?tag=tolees-21'
 descuento: '79.54'
 average: '10.975000000000001'

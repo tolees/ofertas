@@ -16,6 +16,7 @@ comparePrice: 27.7 EUR
 prodname: 'State Of Decay 2'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01H0X2XXG/?tag=tolees-21'
 descuento: '46.03'
 average: '22.47'

@@ -16,6 +16,7 @@ comparePrice: 5.66 EUR
 prodname: 'Panamami Auricular Individual de 3 5 mm Auricular con Gancho para la Oreja con Cable Espiral Walkie Talkie Auriculares Políticas Auricular Militar-Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083Z7DDBK/?tag=tolees-21'
 descuento: '34.98'
 average: '3.68'

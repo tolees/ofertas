@@ -16,6 +16,7 @@ comparePrice: 74.99 EUR
 prodname: 'Columbia Silver Ridge II Pantalones de Senderismo Convertible  Hombre  Marrón  Tusk   W34/L32'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0772XKNQK/?tag=tolees-21'
 descuento: '64.01'
 average: '26.99'

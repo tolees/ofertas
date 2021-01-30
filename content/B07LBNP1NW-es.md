@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'Kappa Klasen  Zapatillas Unisex Adulto  Coral/White 2910  36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LBNP1NW/?tag=tolees-21'
 descuento: '63.49'
 average: '16.11'

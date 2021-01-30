@@ -16,6 +16,7 @@ comparePrice: 179.95 EUR
 prodname: 'adidas Ultraboost 19 W  Zapatillas de Running para Mujer  Negro  Core Black/Core Black/FTWR White Core Black/Core Black/FTWR White   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RDM3TTH/?tag=tolees-21'
 descuento: '50.00'
 average: '88.5125'

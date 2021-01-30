@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Sierra Circular  TECCPO 3500RPM 480W Mini Sierra Circular  Guía Láser  3 Cuchillas Ø 85 mm  Profundidad de Corte: 27 mm  Cortar Madera  Plastica  Metal Blando y Azulejos -TAPS22P'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FPS5VL4/?tag=tolees-21'
 descuento: '50.02'
 average: '47.696'

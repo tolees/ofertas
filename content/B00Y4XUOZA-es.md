@@ -16,6 +16,7 @@ comparePrice: 96.0 EUR
 prodname: 'Lacoste Ph4014  Polo para Hombre  Negro  Black 031   Large  Talla del fabricante : 5 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00Y4XUOZA/?tag=tolees-21'
 descuento: '58.39'
 average: '39.95'

@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Wakana Ventilador Portatil  Ventilador Cuello  Diseño de Auriculares  USB Recargable Mini Ventilador de Manos Libres  3 velocidades  luz LED  para Mascotas Viajes Interior Exterior-Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0895QQC4V/?tag=tolees-21'
 descuento: '35.02'
 average: '12.99'

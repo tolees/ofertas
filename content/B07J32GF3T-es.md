@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Ginger: Beyond The Crystal'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J32GF3T/?tag=tolees-21'
 descuento: '33.48'
 average: '16.643333333333334'

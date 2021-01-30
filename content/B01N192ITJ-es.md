@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Maletín Vacío para Maquillaje Portátil Impermeable Maleta Bolsa Organizador Cosmético Mujer con Separadores Rígidos Ajustables Cremallera y Asa Llevar de viaje  Tamaño pequeño  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N192ITJ/?tag=tolees-21'
 descuento: '40.01'
 average: '18.656666666666666'

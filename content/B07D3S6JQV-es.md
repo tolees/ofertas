@@ -16,6 +16,7 @@ comparePrice: 32.35 EUR
 prodname: 'Teclado de Unidad de Disco Flojo de Memoria USB de Emulador para Korg Pa80 Psr 630 Psr 450'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D3S6JQV/?tag=tolees-21'
 descuento: '44.45'
 average: '19.86'

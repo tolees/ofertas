@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'Sesderma Hidraderm Hyal Leche Corporal - 400 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00TPM8YZM/?tag=tolees-21'
 descuento: '35.47'
 average: '16.433333333333334'

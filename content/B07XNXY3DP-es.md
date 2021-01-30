@@ -16,6 +16,7 @@ comparePrice: 1.97 EUR
 prodname: 'ngzhongtuhengtongjianzhugongchen- Clip de cinturón de diseño liviano para fácil Uso Mini Digital LCD Run Step Podómetro Distancia a pie Contador ABS hasta 99999 Pasos - Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XNXY3DP/?tag=tolees-21'
 descuento: '32.99'
 average: '1.32'

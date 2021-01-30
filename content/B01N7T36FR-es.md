@@ -16,6 +16,7 @@ comparePrice: 161.71 EUR
 prodname: 'Campingaz Xpert 200 L Classic Barbacoa Gas  BBQ Gas con 2 Quemadores  7.1kW de portencia  Parrila y Plancha de Acero Esmaltado   2 Mesas Laterales y Carro de Acero'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N7T36FR/?tag=tolees-21'
 descuento: '31.63'
 average: '148.36'

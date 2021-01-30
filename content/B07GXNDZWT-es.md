@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Adidas Falcon W  Zapatillas de Deporte para Mujer  Footwear White Footwear White Crystal White  43 1/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GXNDZWT/?tag=tolees-21'
 descuento: '39.47'
 average: '60.5'

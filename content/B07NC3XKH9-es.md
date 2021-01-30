@@ -16,6 +16,7 @@ comparePrice: 10.8 EUR
 prodname: 'AXE Adrenaline Charge Up - Desodorante antitranspirante en Aerosol para hombre  48 horas de protección  150 ml  pack de 3'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NC3XKH9/?tag=tolees-21'
 descuento: '42.22'
 average: '9.575000000000001'

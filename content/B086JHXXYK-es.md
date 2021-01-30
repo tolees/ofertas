@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'N/ A Mascara Ninos Mascarilla Antipolvo Boca Mascarillas Para Bebe Mascarilla Filtro Mascarilla Lavable Ninos Mascarillas Reutilizables Ninos 6 Pcs'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086JHXXYK/?tag=tolees-21'
 descuento: '38.49'
 average: '7.99'

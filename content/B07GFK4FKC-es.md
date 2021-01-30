@@ -16,6 +16,7 @@ comparePrice: 48.42 EUR
 prodname: 'P Prettyia 1080P HD 1.5    Pantalla Mini Cámara Digital Linda de Dibujos Animados SLR - Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GFK4FKC/?tag=tolees-21'
 descuento: '37.51'
 average: '34.608999999999995'

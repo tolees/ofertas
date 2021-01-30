@@ -16,6 +16,7 @@ comparePrice: 43.99 EUR
 prodname: '3Pares Hombre Medias Deportivas 15-20mmHg Reduce la Fatiga Muscular  Negro L/XL '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H6FJ5SP/?tag=tolees-21'
 descuento: '68.20'
 average: '13.99'

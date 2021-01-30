@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'PETKIT Correa de Perro Retráctil  No es Fácil de Romper  iluminación de luz Nocturna  Halo Colorido Que te Hace Diferente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TZ3NBLQ/?tag=tolees-21'
 descuento: '31.66'
 average: '42.142857142857146'

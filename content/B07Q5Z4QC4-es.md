@@ -16,6 +16,7 @@ comparePrice: 44.9 EUR
 prodname: 'K-GOLEIRO 18'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q5Z4QC4/?tag=tolees-21'
 descuento: '60.00'
 average: '23.5725'

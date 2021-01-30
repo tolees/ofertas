@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'TEEHON Cartera Hombre  Cartera RFID  Cartera Cuero Hombre con 10 Tarjetas  Incluye 1 ID   2 Compartimentos para Billetes  1 Bolsillo para Monedas con Botón  Llavero y Regalo de Caja - Naranja Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XMNDSHK/?tag=tolees-21'
 descuento: '37.68'
 average: '13.08'

@@ -16,6 +16,7 @@ comparePrice: 16.95 EUR
 prodname: 'Mr. Wonderful Woa08925es Neceser'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B27FR4P/?tag=tolees-21'
 descuento: '49.97'
 average: '8.48'

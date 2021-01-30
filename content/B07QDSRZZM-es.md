@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'FREDI Cámara de vigilancia para Exteriores  1080P HD inalámbrica Seguridad Bullet cámara/Impermeable IP66  Visión Nocturna  Detección de Movimiento/Cámara con Audio bidireccional'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QDSRZZM/?tag=tolees-21'
 descuento: '54.41'
 average: '45.59'

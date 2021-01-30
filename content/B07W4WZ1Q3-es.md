@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Springfield 5Ba Slim Basic-c/61 Polo  Rojo  Red 61   M  Tamaño del Fabricante: M  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W4WZ1Q3/?tag=tolees-21'
 descuento: '59.98'
 average: '9.2'

@@ -16,6 +16,7 @@ comparePrice: 12.55 EUR
 prodname: 'Atlético de Madrid "In Blue" Oficial Zapatillero Mediano 340x140x150mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MV32KF4/?tag=tolees-21'
 descuento: '29.00'
 average: '9.3675'

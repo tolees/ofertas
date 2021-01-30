@@ -16,6 +16,7 @@ comparePrice: 44.41 EUR
 prodname: 'BOSS Leaffish Bañador  Rosa  Open Pink 695   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TYFFYCC/?tag=tolees-21'
 descuento: '37.00'
 average: '27.98'

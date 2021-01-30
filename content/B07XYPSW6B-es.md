@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'TAZEMAT 48 Hojas Papel de Rascar Dinosaurias Manualidades de Bricolaje para Niños Scratch Art Decoración Colgante con 12 pcs Pluma de Madera Regalo Creativo para Cumpleaños Suministros para Juegos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XYPSW6B/?tag=tolees-21'
 descuento: '51.56'
 average: '12.59'

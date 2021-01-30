@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Aigostar Diane 32QYD - Secador de pelo  1800W  ocupa poco espacio: mango plegable  2 velocidades  3 temperaturas. Incluye boquilla concentradora de calor. Perfecto para viajes. Color gris y rosa.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083B8TB9K/?tag=tolees-21'
 descuento: '45.01'
 average: '21.99'

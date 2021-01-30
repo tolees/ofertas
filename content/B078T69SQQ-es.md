@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Tommy Hilfiger Tommy Star Metallic Sneaker  Zapatillas para Mujer  Rojo  RWB 020   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078T69SQQ/?tag=tolees-21'
 descuento: '32.43'
 average: '67.5'

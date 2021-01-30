@@ -16,6 +16,7 @@ comparePrice: 129.95 EUR
 prodname: 'Worx WX311.1 Taladro Percutor  1100 W'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00S8A2KLG/?tag=tolees-21'
 descuento: '56.14'
 average: '57'

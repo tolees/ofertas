@@ -16,6 +16,7 @@ comparePrice: 26.9 EUR
 prodname: 'Atosa - Disfraz de vikingo para hombre  talla 50-52  8422259101321 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B008OI5E9M/?tag=tolees-21'
 descuento: '50.67'
 average: '13.27'

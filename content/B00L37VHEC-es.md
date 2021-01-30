@@ -16,6 +16,7 @@ comparePrice: 22.65 EUR
 prodname: 'Artero Acondicionador y desenredante para Perros y Gatos Matt-x'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00L37VHEC/?tag=tolees-21'
 descuento: '31.57'
 average: '15.5'

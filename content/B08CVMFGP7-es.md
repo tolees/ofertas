@@ -16,6 +16,7 @@ comparePrice: 112.21 EUR
 prodname: 'Reloj Deportivo Inteligente Edición para jóvenes Posicionamiento GPS 1S 30 días Duración de la batería Notificación de información de monitoreo del sueño-Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CVMFGP7/?tag=tolees-21'
 descuento: '33.50'
 average: '74.62'

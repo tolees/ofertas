@@ -16,6 +16,7 @@ comparePrice: 18.95 EUR
 prodname: 'Wehouseware Ventilador de sobremesa con Reloj y Temperatura LED'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P5Z16JB/?tag=tolees-21'
 descuento: '36.73'
 average: '12.163333333333334'

@@ -16,6 +16,7 @@ comparePrice: 94.33 EUR
 prodname: 'Versa 19500285 Taburete pie de cama con Apoyabrazos Pink Patchwork  53x32x100cm  Rosa y Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00GSOYW3I/?tag=tolees-21'
 descuento: '30.84'
 average: '73.94222222222221'

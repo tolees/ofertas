@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'Levi s Tijuana  Zapatillas para Mujer  Blanco  Sneakers 51   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N4G25BF/?tag=tolees-21'
 descuento: '29.00'
 average: '35.73'

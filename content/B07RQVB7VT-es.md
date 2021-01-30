@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: '3D Simulación de la Vagina  la Lengua y los Dientes  Fácil de Usar y Lavar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RQVB7VT/?tag=tolees-21'
 descuento: '30.22'
 average: '15.963333333333333'

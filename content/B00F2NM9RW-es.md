@@ -16,6 +16,7 @@ comparePrice: 13.27 EUR
 prodname: 'Bellota 8053-500 - Maceta albañil con cabeza de goma negra'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00F2NM9RW/?tag=tolees-21'
 descuento: '31.42'
 average: '9.1'

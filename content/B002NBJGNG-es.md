@@ -16,6 +16,7 @@ comparePrice: 28.76 EUR
 prodname: 'Lexmark 14N1069E - Cartucho tinta  color cian'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002NBJGNG/?tag=tolees-21'
 descuento: '63.60'
 average: '10.47'

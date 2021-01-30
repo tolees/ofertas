@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Philips BT 2000 - Altavoz portátil Bluetooth  negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00N6NF1FW/?tag=tolees-21'
 descuento: '49.74'
 average: '18.525000000000002'

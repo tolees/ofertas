@@ -16,6 +16,7 @@ comparePrice: 8.9 EUR
 prodname: 'Ajcoflt 3 Pcs Toallas de enfriamiento de Playa Manta de Yoga Ultrafina para Entrenamiento Deportivo Fitness Gimnasio Pilates Viajes Toallas para Acampar  Gris '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08H1B1DW3/?tag=tolees-21'
 descuento: '36.29'
 average: '9.206666666666667'

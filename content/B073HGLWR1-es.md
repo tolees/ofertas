@@ -16,6 +16,7 @@ comparePrice: 12.27 EUR
 prodname: 'Calgon Antical para lavadora en Gel - 1 5L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073HGLWR1/?tag=tolees-21'
 descuento: '52.32'
 average: '5.85'

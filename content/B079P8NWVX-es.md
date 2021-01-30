@@ -16,6 +16,7 @@ comparePrice: 13.95 EUR
 prodname: 'Brabantia Organizador de Fregadero  Gris Oscuro  8 5 x 19 x 11.5 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079P8NWVX/?tag=tolees-21'
 descuento: '35.56'
 average: '9.84875'

@@ -16,6 +16,7 @@ comparePrice: 45.95 EUR
 prodname: 'Mata insectos sobremesa por absorción con ventilador para Exterior ZZAP TRAP EX Purline'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06WWM6S2R/?tag=tolees-21'
 descuento: '34.93'
 average: '29.9'

@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'Dardaruga - Estufa de seta calefactora  calefacción para exteriores  termopatio de calor 13 5 kW  negro mate'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HMBNWWV/?tag=tolees-21'
 descuento: '30.00'
 average: '139.99'

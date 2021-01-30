@@ -16,6 +16,7 @@ comparePrice: 219.95 EUR
 prodname: 'Cybex Silver Solution M-fix 519001121 Silla de Coche  Grupo 2/3  para Niños  para Coches con y sin Isofix  Colección Color 2019  Gris  Gray Rabbit '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HYV98XQ/?tag=tolees-21'
 descuento: '27.28'
 average: '148.08499999999998'

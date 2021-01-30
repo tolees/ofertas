@@ -16,6 +16,7 @@ comparePrice: 55.85 EUR
 prodname: 'Kitchen Emperor Cuchillo de frutas  cuchillo de cocina profesional  cuchilla de acero alemana de 236 mm de alto carbono con mango ergonómico cómodo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HRQ64HH/?tag=tolees-21'
 descuento: '64.21'
 average: '20.32333333333333'

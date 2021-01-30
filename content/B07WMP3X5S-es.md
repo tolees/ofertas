@@ -16,6 +16,7 @@ comparePrice: 42.4 EUR
 prodname: 'Yageshark - Pantalones de deporte para hombre  de algodón  ajustados gris XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WMP3X5S/?tag=tolees-21'
 descuento: '36.91'
 average: '26.75'

@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Funko - POP! Bobble Colección Star Wars - Figura Porg  14742    color/modelo surtido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0719KQPX5/?tag=tolees-21'
 descuento: '37.93'
 average: '9.340625000000001'

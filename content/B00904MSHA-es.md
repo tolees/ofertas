@@ -16,6 +16,7 @@ comparePrice: 29.75 EUR
 prodname: 'Sesderma Acglicolic Classic Leche Corporal Hidratante 200 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00904MSHA/?tag=tolees-21'
 descuento: '39.50'
 average: '18.6'

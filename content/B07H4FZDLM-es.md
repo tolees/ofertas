@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'AOC 24B1XHS - Monitor de 24” FHD  IPS  VGA  HDMI  Sin Bordes  Flicker Free  Low Blue Light y VESA  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H4FZDLM/?tag=tolees-21'
 descuento: '25.63'
 average: '99.26454545454546'

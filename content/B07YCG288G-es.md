@@ -16,6 +16,7 @@ comparePrice: 7.98 EUR
 prodname: 'TOPBATHY 2pcs de acero inoxidable fregadero filtros de alcantarilla fregadero colador desagüe de basura filtro de malla alcantarilla colector de pelo para baño de cocina'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YCG288G/?tag=tolees-21'
 descuento: '50.00'
 average: '3.99'

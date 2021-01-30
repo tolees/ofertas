@@ -16,6 +16,7 @@ comparePrice: 27.0 EUR
 prodname: 'Kipling Brush Pouch Neceser  20 cm  0.5 Liters  Gris  Metallic Stony '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DRL1SNX/?tag=tolees-21'
 descuento: '30.00'
 average: '18.9'

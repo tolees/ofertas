@@ -16,6 +16,7 @@ comparePrice: 45.75 EUR
 prodname: 'Clarks Sheer Flora  Botas Chelsea para Mujer  Negro Black Leather  39.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N1JNQGN/?tag=tolees-21'
 descuento: '34.38'
 average: '30.02'

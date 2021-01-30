@@ -16,6 +16,7 @@ comparePrice: 169.99 EUR
 prodname: 'SunneSolar - Panel Solar de Policristalino con 60 células 280W 24V ideal para vivienda habitual chalets e instalaciones en casas de campo. Fabricado en Europa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V9R9QPG/?tag=tolees-21'
 descuento: '26.16'
 average: '125.52'

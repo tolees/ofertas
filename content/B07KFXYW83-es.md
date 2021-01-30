@@ -16,6 +16,7 @@ comparePrice: 84.95 EUR
 prodname: 'PUMA Basket Classic LFS  Zapatillas Unisex Adultos  White-Bridal Rose  42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KFXYW83/?tag=tolees-21'
 descuento: '50.03'
 average: '46.48555555555556'

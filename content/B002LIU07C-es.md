@@ -16,6 +16,7 @@ comparePrice: 188.2 EUR
 prodname: 'HP CB540AD 125A Cartucho de Tóner Original  2 unidades  negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002LIU07C/?tag=tolees-21'
 descuento: '33.10'
 average: '125.9'

@@ -16,6 +16,7 @@ comparePrice: 18.95 EUR
 prodname: 'Protector de Colchón Impermeable para Cuna Cuna 70 x 140 cm - Cubre Colchón Transpirable  Hipoalergénico  Anti-bacteriano  Anti-acaros - Tratamiento para Optima Proteccion - Garantia de 15 años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075KLBRP7/?tag=tolees-21'
 descuento: '32.88'
 average: '12.72'

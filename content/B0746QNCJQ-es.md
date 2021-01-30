@@ -16,6 +16,7 @@ comparePrice: 105.55 EUR
 prodname: 'Plantronics Blackwire 5220 - Auriculares con micrófono  Centro de llamadas/Oficina  Binaural  Diadema  Negro  Rojo  Skype for Business  Alámbrico '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0746QNCJQ/?tag=tolees-21'
 descuento: '28.95'
 average: '77.49'

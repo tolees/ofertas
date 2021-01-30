@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Nixon Men s Wristwatch - rose gold -  A0452001'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00M3J32VA/?tag=tolees-21'
 descuento: '29.29'
 average: '61.666666666666664'

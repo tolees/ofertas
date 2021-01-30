@@ -16,6 +16,7 @@ comparePrice: 10.9 EUR
 prodname: 'Philips Lighting Bombilla LED Foco GU10 Cristal Pack de 2  4.6 W equivalente a 50 W  luz blanca cálida  355 lúmenes  no regulable  ángulo de apertura de 36º'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01J1NTN7M/?tag=tolees-21'
 descuento: '45.87'
 average: '5.9'

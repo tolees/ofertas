@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'TOPELEK Termometro Carne Digital  Termómetro de Cocina de 5S Lectura Instantánea con 4.8   Sonda Larga  Pantalla LCD Retroiluminada Para Comida La Carne Barbacoa Leche Líquido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01DOY0O0O/?tag=tolees-21'
 descuento: '35.74'
 average: '8.99'

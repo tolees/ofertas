@@ -16,6 +16,7 @@ comparePrice: 21.78 EUR
 prodname: 'Sabrent Cable de extensión 22AWG USB 3.0 - A-Macho a A-Hembra [Negro] 10 pies  CB-3010 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B019DZ7U2S/?tag=tolees-21'
 descuento: '58.72'
 average: '8.99'

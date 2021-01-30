@@ -16,6 +16,7 @@ comparePrice: 36.99 EUR
 prodname: 'Amplificador WiFi Repetidor Extensor de Red WiFi Punto de Acceso 2.4GHz IEEE802.11 B/G/N Wireless Extender con WPS Button Velocidad de hasta 300Mbps  Puerto LAN  Compatibilidad Universal'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H87CVVX/?tag=tolees-21'
 descuento: '45.96'
 average: '19.99'

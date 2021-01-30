@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'Guess Reloj Analógico para Mujer de Cuarzo con Correa en Cuero W0934L5'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079NRK95G/?tag=tolees-21'
 descuento: '47.78'
 average: '67.37'

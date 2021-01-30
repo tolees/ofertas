@@ -16,6 +16,7 @@ comparePrice: 6.69 EUR
 prodname: 'Pepe Jeans Saturn Crop Bañador  Blanco  Optic White Denim Ta2   W26  Talla del Fabricante: 26  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NCC2QH8/?tag=tolees-21'
 descuento: '27.20'
 average: '10.486666666666668'

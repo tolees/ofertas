@@ -16,6 +16,7 @@ comparePrice: 3.99 EUR
 prodname: 'NIVEA mascarilla facial minimiza los poros urban detox tubo 75 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DHMTP7W/?tag=tolees-21'
 descuento: '49.87'
 average: '2.975'

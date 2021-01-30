@@ -16,6 +16,7 @@ comparePrice: 38.99 EUR
 prodname: 'Comficent Juego de Sábanas 3D  Ropa de Cama Universo 2 Piezas Funda de impresión Colcha nórdica de Edredón de Estrella Galaxia002  150_x_210_cm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DFLC9CJ/?tag=tolees-21'
 descuento: '41.04'
 average: '26.485'

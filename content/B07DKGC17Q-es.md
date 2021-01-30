@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'Kipling - Earthbeat M  Bolsos bandolera Mujer  Blanco  Dazz White '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DKGC17Q/?tag=tolees-21'
 descuento: '50.00'
 average: '44.5'

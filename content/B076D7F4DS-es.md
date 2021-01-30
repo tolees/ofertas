@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'iWALK 20000mAh Alta Capacidad Móvil Batería Externa  Power Pack Cargador PD Quick Charge 3.0 Rápida Carga Power Bank con Cables Type C & Micro USB Compatible para Samsung S8 Switch iPhone X Mucho más'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076D7F4DS/?tag=tolees-21'
 descuento: '32.01'
 average: '33.99'

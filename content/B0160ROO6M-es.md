@@ -16,6 +16,7 @@ comparePrice: 399.99 EUR
 prodname: 'STANLEY FATMAX FME720-QS - Ingletadora telescópica 2.000W  Ø disco 255mm  bisel 47°'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0160ROO6M/?tag=tolees-21'
 descuento: '30.17'
 average: '279.3'

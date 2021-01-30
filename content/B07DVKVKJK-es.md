@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'New Balance W890V7  Zapatillas de Running para Mujer  Verde  Crystal Sage Crystal Sage   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DVKVKJK/?tag=tolees-21'
 descuento: '75.02'
 average: '29.97'

@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'PUMA ST Activate JR  Zapatillas Unisex niños  Azul  Bright Cobalt White   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SBWDKCM/?tag=tolees-21'
 descuento: '42.45'
 average: '22.99'

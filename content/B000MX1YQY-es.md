@@ -16,6 +16,7 @@ comparePrice: 50.63 EUR
 prodname: 'Casio Reloj Digital para Unisex de Cuarzo con Correa en Resina DB-36-1AVEF'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000MX1YQY/?tag=tolees-21'
 descuento: '40.77'
 average: '23.945'

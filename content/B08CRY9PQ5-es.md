@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'feihao Juguetes para Gatos Interactivos Bola de Gato  Juguetes para Gatos Pelotas  Automático Dispensador de Comida para Gatos  4 en 1 Bolas Educativas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CRY9PQ5/?tag=tolees-21'
 descuento: '42.65'
 average: '10.89'

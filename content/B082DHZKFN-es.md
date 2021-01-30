@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'DANISH ENDURANCE Sujetador Mujer en Coton organico Pack de 3  Negro  Large '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082DHZKFN/?tag=tolees-21'
 descuento: '40.04'
 average: '29.95'

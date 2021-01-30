@@ -16,6 +16,7 @@ comparePrice: 87.9 EUR
 prodname: 'HP CF210A 131A Cartucho de Tóner Original  1 unidad  negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B008M11XBE/?tag=tolees-21'
 descuento: '29.48'
 average: '61.99'

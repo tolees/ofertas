@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Antorcha de hormigón con “mecha permanente”  Tamaño 13x13x13  Antorcha de jardín rellenable  Tiempo de combustión “infinito” gracias al reciclado ecológico de la cera de las velas  Antorcha de mesa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0747LQF4T/?tag=tolees-21'
 descuento: '25.04'
 average: '44.9'

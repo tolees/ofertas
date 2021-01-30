@@ -16,6 +16,7 @@ comparePrice: 10.7 EUR
 prodname: 'Pikolin Home - Protector de colchón para cuna de rizo  100% algodón  impermeable y transpirable  60x120-Cuna  Todas las medidas '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01H5KHPWS/?tag=tolees-21'
 descuento: '25.33'
 average: '8.935'

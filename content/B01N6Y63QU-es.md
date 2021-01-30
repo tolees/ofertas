@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Samsung Silicone  Funda para smartphone Samsung Galaxy S8 Plus  Gris   Dark Grey '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N6Y63QU/?tag=tolees-21'
 descuento: '40.67'
 average: '17.74'

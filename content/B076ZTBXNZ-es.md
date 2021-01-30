@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Belkin ScreenForce TemperedCurve - Protección de Pantalla para iPhone XS/iPhone X'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076ZTBXNZ/?tag=tolees-21'
 descuento: '39.53'
 average: '24.18'

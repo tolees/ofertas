@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'Skagen Reloj de Bolsillo Digital SKT5107'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MH65GS8/?tag=tolees-21'
 descuento: '40.00'
 average: '179.4'

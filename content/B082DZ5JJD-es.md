@@ -16,6 +16,7 @@ comparePrice: 16.48 EUR
 prodname: 'TAZEMAT 48 Hojas Marcapágina Originales para Rascar Scratch Art Manualidades de Bricolaje Marcadores de Libro con 12 pcs Pluma de Madera y Cuerdas Regalo Creativo para Cumpleaños Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082DZ5JJD/?tag=tolees-21'
 descuento: '33.56'
 average: '10.95'

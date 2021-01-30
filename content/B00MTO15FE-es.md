@@ -16,6 +16,7 @@ comparePrice: 10.0 EUR
 prodname: 'Max Factor Skin Luminizer  Base de Maquillaje Líquida Tono 75 Golden - 62 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00MTO15FE/?tag=tolees-21'
 descuento: '59.10'
 average: '4.09'

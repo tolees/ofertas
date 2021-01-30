@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'Mascarillas mascarillas desechables antivirus corta saliva mascarillas protectoras unisex para adultos contra el viento y las bacterias  40 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08514SYMT/?tag=tolees-21'
 descuento: '45.03'
 average: '21.99'

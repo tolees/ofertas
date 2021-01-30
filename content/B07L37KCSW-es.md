@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'Aceite de Krill | Krill puro + EPA + DHA + astaxantina | Mejora y controla el colesterol y triglicéridos | Potente antioxidante | Beneficioso para la piel  la vista y la salud celular | 60 perlas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L37KCSW/?tag=tolees-21'
 descuento: '25.06'
 average: '14.95'

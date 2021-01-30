@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'Philips Lumea Essential BRI861/00 - Depiladora luz pulsada para la depilación permanente del vello visible en casa con 1 cabezal  Color rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LNVF7PW/?tag=tolees-21'
 descuento: '31.50'
 average: '130.4088235294118'

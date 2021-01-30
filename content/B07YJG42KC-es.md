@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'EKKONG 15 Hojas 2081 Piezas Diamantes Autoadhesivas Pegatinas de Diamantes de Imitación Pegatinas Brillantes  Adhesivas Pegatinas de Gemas para DIY  Artesanía  Uñas  Cara  15 Hojas '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YJG42KC/?tag=tolees-21'
 descuento: '31.27'
 average: '10.99'

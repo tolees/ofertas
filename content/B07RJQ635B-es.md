@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'PTHTECHUS Bola Voladora  RC Flying Juguetes Built-in Shinning Iluminación LED  Dron Helicóptero  Bola de Vuelo por Inducción Infrarroja para Interiores Exteriores Regalo de Cumpleaños Niños  Adultos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RJQ635B/?tag=tolees-21'
 descuento: '61.56'
 average: '9.99'

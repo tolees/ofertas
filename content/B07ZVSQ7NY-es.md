@@ -16,6 +16,7 @@ comparePrice: 599.0 EUR
 prodname: 'PC Gaming - Megaport Ordenador Gaming PC AMD Ryzen 3 3200G 4X 3.60 GHz • Windows 10 • 120GB SSD • 1TB HDD • 8GB DDR4 2400 • Vega 8 • PC Gamer • Ordenador de sobremesa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZVSQ7NY/?tag=tolees-21'
 descuento: '30.05'
 average: '419.0'

@@ -16,6 +16,7 @@ comparePrice: 10.0 EUR
 prodname: 'Seanergy Crema Corporal 300 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B008KGAJQ6/?tag=tolees-21'
 descuento: '41.00'
 average: '5.9'

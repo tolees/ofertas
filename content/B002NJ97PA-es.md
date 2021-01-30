@@ -16,6 +16,7 @@ comparePrice: 117.99 EUR
 prodname: 'Captain Morgan Private Stock - 1 x 1 l'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002NJ97PA/?tag=tolees-21'
 descuento: '64.40'
 average: '43.806666666666665'

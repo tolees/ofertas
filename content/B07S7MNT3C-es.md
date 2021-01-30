@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Rage 2'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S7MNT3C/?tag=tolees-21'
 descuento: '66.72'
 average: '19.95'

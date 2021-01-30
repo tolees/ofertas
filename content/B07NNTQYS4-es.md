@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Under Armour UA W Charged Breathe TR 2  Zapatillas Deportivas para Interior para Mujer  Gris  French Gray/Dash Pink/Hushed Pink   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NNTQYS4/?tag=tolees-21'
 descuento: '57.77'
 average: '33.76'

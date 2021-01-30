@@ -16,6 +16,7 @@ comparePrice: 253.56 EUR
 prodname: 'Calvin Klein Reloj de Cuarzo para Hombre con Correa de Acero Inoxidable Chapado – K2G2714N'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00EY7I1W4/?tag=tolees-21'
 descuento: '38.08'
 average: '162.65428571428575'

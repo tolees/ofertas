@@ -16,6 +16,7 @@ comparePrice: 249.99 EUR
 prodname: 'Netgear Nighthawk GS810EMX-100PES - Switch Pro Gaming SX10  8 Puertos Gigabit Ethernet con 2 Puertos de 10G/Multi-Gigabit '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077ZGS1LP/?tag=tolees-21'
 descuento: '28.00'
 average: '179.99'

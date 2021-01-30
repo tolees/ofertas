@@ -16,6 +16,7 @@ comparePrice: 23.84 EUR
 prodname: 'QIMEI-SHOP Arnés de Perro Arnés de Mascotas Ajustable de Oxford con tirón para Entrenamiento de Perros o Caminar  S-M-L-XL  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0799J7SJP/?tag=tolees-21'
 descuento: '55.16'
 average: '10.69'

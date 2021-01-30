@@ -16,6 +16,7 @@ comparePrice: 20.58 EUR
 prodname: 'MANN-FILTER CUK 2939 Habitáculo  Filtro antipolen con carbón Activo  para automóviles'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001DRNNKI/?tag=tolees-21'
 descuento: '45.97'
 average: '10.509999999999998'

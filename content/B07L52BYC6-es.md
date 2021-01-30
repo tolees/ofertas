@@ -16,6 +16,7 @@ comparePrice: 119.95 EUR
 prodname: 'adidas Terrex Ax3 GTX W  Zapatillas de Senderismo para Mujer  Gris  Grey/Core Black/Clear Mint 0   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L52BYC6/?tag=tolees-21'
 descuento: '41.68'
 average: '69.95'

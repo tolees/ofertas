@@ -16,6 +16,7 @@ comparePrice: 86.0 EUR
 prodname: 'QUEEN ROSE Almohada de Embarazo con Funda de Lavable  Almohada de Cuerpo Completo en Forma de U para Mujeres Embarazadas  Plush-Azul&Gris '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GV7DCD9/?tag=tolees-21'
 descuento: '37.45'
 average: '55.19'

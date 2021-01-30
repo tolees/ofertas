@@ -16,6 +16,7 @@ comparePrice: 104.11 EUR
 prodname: 'RELIFE REBUILD YOUR LIFE Banco Musculación Abdominales Tabla de Abdominales Banco de Pesas Plegable Ajustable Gimnasio Ejercicios Entrenamiento Fitness'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0796LKBLY/?tag=tolees-21'
 descuento: '29.89'
 average: '71.49'

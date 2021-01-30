@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Anker PowerCore 13000  Batería externa Universal  Micro-USB  13000 mAh  USB  46 8 Wh  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00Z9UY65G/?tag=tolees-21'
 descuento: '38.87'
 average: '24.189999999999998'

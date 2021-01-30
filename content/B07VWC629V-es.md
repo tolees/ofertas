@@ -16,6 +16,7 @@ comparePrice: 99.96 EUR
 prodname: 'Fitbit Aria Air Scales White  Unisex-Adult  One Size'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VWC629V/?tag=tolees-21'
 descuento: '60.03'
 average: '42.45'

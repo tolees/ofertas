@@ -16,6 +16,7 @@ comparePrice: 40 EUR
 prodname: 'EMOCCI Aspiradora de Mano Sin Cable 5500PA 100W 8.4V Batería de 2400mAh Super Mudo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L2T4XLJ/?tag=tolees-21'
 descuento: '25.03'
 average: '29.99'

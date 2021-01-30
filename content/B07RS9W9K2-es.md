@@ -16,6 +16,7 @@ comparePrice: 22.49 EUR
 prodname: 'DaMei Anillo Plata Pareja Personalizados Pare Mujer Hombre Compromiso Acero Inoxidable Joyeria Mujer Grabado Personalizado Regalo Novia BFF Boda Aniversario  14 5 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RS9W9K2/?tag=tolees-21'
 descuento: '46.69'
 average: '11.99'

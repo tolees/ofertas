@@ -16,6 +16,7 @@ comparePrice: 11.96 EUR
 prodname: 'Buff Tiger Hombre  Grey  Talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FLZGFTT/?tag=tolees-21'
 descuento: '37.46'
 average: '7.48'

@@ -16,6 +16,7 @@ comparePrice: 9.88 EUR
 prodname: 'Mini vaporizador facial de la niebla del aerosol nano del recorrido de la oficina - rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KXP1F46/?tag=tolees-21'
 descuento: '33.50'
 average: '6.57'

@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'JIMIGO 16XL Alta Capacidad Cartuchos de Tinta para Epson 16 Compatible con Epson WorkForce WF-2510 WF-2520 WF-2530 WF-2540 WF-2630 WF-2650 WF-2660 WF-2750 WF-2760 WF-2010  3Cian 3Magenta 3Amarillo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TFCCZLB/?tag=tolees-21'
 descuento: '30.02'
 average: '13.59'

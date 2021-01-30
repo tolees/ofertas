@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Fiambrera de silicona Juego de 4 PCS de Recipientes de Silicona Plegable Silicona Plegable Almacenamiento de Alimentos Plegable de Silicona Recipientes para Alimentos B1-Redondo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PKPKLNK/?tag=tolees-21'
 descuento: '57.51'
 average: '16.99'

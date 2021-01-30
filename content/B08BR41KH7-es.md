@@ -16,6 +16,7 @@ comparePrice: 65.99 EUR
 prodname: 'ANAZOZ Pendientes Mujer Plata Pendientes Aro Mujer Plata de Ley Cuadrado con 4 Garras Circonita Blanca'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BR41KH7/?tag=tolees-21'
 descuento: '66.68'
 average: '21.99'

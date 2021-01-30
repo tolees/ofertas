@@ -16,6 +16,7 @@ comparePrice: 46.34 EUR
 prodname: 'Fellowes Soporte elevador de monitor giratorio - Ajustable en altura y con plataforma giratoria de 45º  adecuado para compartir la visualización de la pantalla'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0000AQOBQ/?tag=tolees-21'
 descuento: '33.12'
 average: '26.708181818181817'

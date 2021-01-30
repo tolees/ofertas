@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Alex Perry Regalo Día de la Madre pulseras mujer pulsera plata mujer pulseras mejores amigas mujer joyas para mujer bisuteria mujer joyeria mujer regalos originales para mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KZNKR4Z/?tag=tolees-21'
 descuento: '74.01'
 average: '25.99'

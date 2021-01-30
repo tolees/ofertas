@@ -16,6 +16,7 @@ comparePrice: 4999.99 EUR
 prodname: 'MSI WT75 8SM-011ES - Ordenador portátil de 17.3" UHD  Intel Core i7-8700  32 GB RAM  512GB SDD + 1TB HDD  Nvidia Quadro P5200-16GB   Windows 10 Pro  Negro - Teclado QWERTY Español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G7C5B6B/?tag=tolees-21'
 descuento: '40.00'
 average: '2918.6949999999997'

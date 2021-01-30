@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Joyjoz 164 Pcs Slime Kit Slime Herramientas para artesanía de Bricolaje Incluyen Fishbowl Beads  Bolas Espuma  apel azúcar  Glitter  Confeti para Niñas y Niños Slime DIY Making  No limo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N78MQ8Q/?tag=tolees-21'
 descuento: '42.51'
 average: '24.32333333333333'

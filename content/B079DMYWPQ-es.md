@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Gebildet 5 piezas 9mm Cúter de Cuchillas Profesional ángulo de Corte de 60 grados  Snap-Off de Acero de Carbono Cuchillo  Automático de Vinilo Herramientas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079DMYWPQ/?tag=tolees-21'
 descuento: '43.78'
 average: '8.99'

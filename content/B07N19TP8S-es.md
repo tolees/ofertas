@@ -16,6 +16,7 @@ comparePrice: 19.98 EUR
 prodname: 'OurLeeme Digital Pocket Scale 0.01-500g Mini Scales Escala digital portátil con retroiluminación LED para alimentos de cocina  joyería  café'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N19TP8S/?tag=tolees-21'
 descuento: '55.01'
 average: '8.99'

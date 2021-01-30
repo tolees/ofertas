@@ -16,6 +16,7 @@ comparePrice: 24.96 EUR
 prodname: 'Alclap. 1 0 m gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y1Q2L5M/?tag=tolees-21'
 descuento: '34.21'
 average: '16.42'

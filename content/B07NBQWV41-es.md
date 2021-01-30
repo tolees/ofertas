@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'adidas Team Glider Balón Fútbol Hombre  Naranja  Narsol/Negro/Plamet   4'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NBQWV41/?tag=tolees-21'
 descuento: '29.97'
 average: '10.47'

@@ -16,6 +16,7 @@ comparePrice: 62.95 EUR
 prodname: 'Wally Dude Shoes Hombres Lavado Castaño UK10/EU44'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07945TQZM/?tag=tolees-21'
 descuento: '29.99'
 average: '44.07'

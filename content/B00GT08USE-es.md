@@ -16,6 +16,7 @@ comparePrice: 18.0 EUR
 prodname: 'Victoria S Secret Mango Temptation Body Mist 250 Ml - 250 ml.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00GT08USE/?tag=tolees-21'
 descuento: '94.44'
 average: '1.0'

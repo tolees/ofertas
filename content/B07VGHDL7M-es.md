@@ -16,6 +16,7 @@ comparePrice: 11.5 EUR
 prodname: 'Xiaomi Mi Windows and Doors Sensor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VGHDL7M/?tag=tolees-21'
 descuento: '47.91'
 average: '5.99'

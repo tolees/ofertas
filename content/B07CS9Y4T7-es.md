@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Pepe Jeans Pixlette Jeans  Negro  Black Denim Wl0   11-12 años  Talla del Fabricante: 12  para Niñas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CS9Y4T7/?tag=tolees-21'
 descuento: '39.67'
 average: '33.18'

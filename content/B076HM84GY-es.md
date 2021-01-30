@@ -16,6 +16,7 @@ comparePrice: 45.7 EUR
 prodname: 'Doro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076HM84GY/?tag=tolees-21'
 descuento: '29.98'
 average: '30.831111111111106'

@@ -16,6 +16,7 @@ comparePrice: 360.0 EUR
 prodname: 'Orient Reloj Analógico para Unisex Adultos de Automático con Correa en Cuero RA-AR0005Y10B'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DY1S7RD/?tag=tolees-21'
 descuento: '58.41'
 average: '149.74'

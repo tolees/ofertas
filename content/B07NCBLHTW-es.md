@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Pepe Jeans MC Queen Short para Hombre  Rojo  Jam 213   W29  Talla del fabricante: 29 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NCBLHTW/?tag=tolees-21'
 descuento: '57.76'
 average: '21.08'

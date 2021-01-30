@@ -16,6 +16,7 @@ comparePrice: 9.5 EUR
 prodname: 'Philips Avent Scf813/14 - Biberón Anti Cólicos con Sistema Patentado Airfree  260 Ml  Silicona  Transparente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BBG4D1X/?tag=tolees-21'
 descuento: '37.16'
 average: '7.431666666666666'

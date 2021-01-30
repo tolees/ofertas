@@ -16,6 +16,7 @@ comparePrice: 8.3 EUR
 prodname: 'Joma Nobel Pantalon equipaciones  Hombre  Verde Fluor  XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P6GYQL9/?tag=tolees-21'
 descuento: '27.83'
 average: '5.99'

@@ -16,6 +16,7 @@ comparePrice: 28.0 EUR
 prodname: 'Bandolera Pequeña Pepe Jeans Irvin'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WFGXY8M/?tag=tolees-21'
 descuento: '42.86'
 average: '16.0'

@@ -16,6 +16,7 @@ comparePrice: 17.85 EUR
 prodname: 'Schwarzkopf Root Retoucher -  Coloración del Cabello Negro  pack de 3 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071X9DZFC/?tag=tolees-21'
 descuento: '46.78'
 average: '9.5'

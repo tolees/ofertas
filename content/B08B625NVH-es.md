@@ -16,6 +16,7 @@ comparePrice: 2.98 EUR
 prodname: 'Longspeed TLW03 4.0 Pulsera Inteligente Smartband Podómetro Sport Smart Wristband Fitness Tracker Smart Band para Android-Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08B625NVH/?tag=tolees-21'
 descuento: '33.56'
 average: '1.98'

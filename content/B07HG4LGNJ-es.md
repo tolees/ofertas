@@ -16,6 +16,7 @@ comparePrice: 90 EUR
 prodname: 'New Balance 247v2  Zapatillas para Hombre  Plateado  Steel Steel   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HG4LGNJ/?tag=tolees-21'
 descuento: '59.97'
 average: '36.785'

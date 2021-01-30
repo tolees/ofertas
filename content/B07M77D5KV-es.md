@@ -16,6 +16,7 @@ comparePrice: 369.0 EUR
 prodname: 'Emporio Armani Connected - Smartwatch con pantalla táctil  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M77D5KV/?tag=tolees-21'
 descuento: '70.00'
 average: '110.7'

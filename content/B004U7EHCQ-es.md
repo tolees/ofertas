@@ -16,6 +16,7 @@ comparePrice: 184.4 EUR
 prodname: 'Kärcher Tubo de chorro telescópico  2.642-347.0 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004U7EHCQ/?tag=tolees-21'
 descuento: '35.47'
 average: '99.495'

@@ -16,6 +16,7 @@ comparePrice: 103.0 EUR
 prodname: 'Caterpillar Colorado  Botas Hombre  Beige  Honey Mariner   45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00DCDGCXG/?tag=tolees-21'
 descuento: '28.67'
 average: '70.29666666666667'

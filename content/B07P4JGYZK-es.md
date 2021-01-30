@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Superdry Classic Lite Micro Pique Polo  Blanco  Optic 01c   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P4JGYZK/?tag=tolees-21'
 descuento: '61.31'
 average: '20.93'

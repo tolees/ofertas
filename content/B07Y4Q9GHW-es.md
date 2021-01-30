@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'Mycartridge 5 Compatibles Epson 603XL 603 XL Cartuchos de Tinta para Epson Expression Home XP-2100 XP-3100 XP-4100 XP-2105 XP-3105 XP-4105 Workforce WF-2810 WF-2830 WF-2835 WF-2850'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y4Q9GHW/?tag=tolees-21'
 descuento: '50.12'
 average: '22.94'

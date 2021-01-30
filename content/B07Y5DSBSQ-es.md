@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'GRIDINLUX. Batería de cocina. 8 piezas de Alta Gama  Resistente. Acero Inoxidable  Material Alta Calidad  Set Antiadherente  Asas Silicona  Juego Cacerolas Resistentes  Todo tipo de Cocinas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y5DSBSQ/?tag=tolees-21'
 descuento: '49.53'
 average: '49.97'

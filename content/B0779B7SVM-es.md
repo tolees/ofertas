@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Funko Pop!- Marvel Black Panther: Nakia Figura de Vinilo  23349 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0779B7SVM/?tag=tolees-21'
 descuento: '49.91'
 average: '7.1416666666666675'

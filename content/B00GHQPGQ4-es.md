@@ -16,6 +16,7 @@ comparePrice: 13.87 EUR
 prodname: 'Intex 29002 - Cartucho para filtros para piscinas  2 unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00GHQPGQ4/?tag=tolees-21'
 descuento: '35.18'
 average: '10.93'

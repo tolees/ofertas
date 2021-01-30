@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'Funko- Pop Games: Rage 2-Immortal Shroud Collectible Toy  Multicolor  45112 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TS8MZYX/?tag=tolees-21'
 descuento: '53.65'
 average: '7.391666666666667'

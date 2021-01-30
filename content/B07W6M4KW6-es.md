@@ -16,6 +16,7 @@ comparePrice: 39.97 EUR
 prodname: 'KLIM Fusion Auriculares Audio - De Larga Duración + 5 Años de Garantía - Innovadores: con Espuma Que Retiene la Forma de tu Oreja Versión  Bluetooth '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W6M4KW6/?tag=tolees-21'
 descuento: '25.02'
 average: '29.97'

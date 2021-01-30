@@ -16,6 +16,7 @@ comparePrice: 56.99 EUR
 prodname: 'Powerextra Batería Nikon EN EL14 y EN-EL14a con Cargador Inteligente Pantalla LCD para Nikon P7000 P7100 P7700 P7800 D3100 D3200 D3300 D5100 D5200 D5300 D5500 DF Cámara'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06Y6NLVDK/?tag=tolees-21'
 descuento: '49.13'
 average: '28.99'

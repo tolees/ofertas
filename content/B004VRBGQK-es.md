@@ -16,6 +16,7 @@ comparePrice: 10.92 EUR
 prodname: 'BGS 50855 | Caja de ingletes de plástico | 245 x 67 x 48 mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004VRBGQK/?tag=tolees-21'
 descuento: '39.19'
 average: '6.64'

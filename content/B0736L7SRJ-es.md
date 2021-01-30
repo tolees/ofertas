@@ -16,6 +16,7 @@ comparePrice: 38.99 EUR
 prodname: '3 en 1 Faja Postparto Reductora Mujer Recuperación después del Parto   Cinturón cómoda de vientre/cintura/pelvis para Mujer y Maternidad  talla única '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0736L7SRJ/?tag=tolees-21'
 descuento: '56.17'
 average: '17.29'

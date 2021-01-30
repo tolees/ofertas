@@ -16,6 +16,7 @@ comparePrice: 9.7 EUR
 prodname: 'Bourjois Rouge Laque Barra de Labios Líquida Tono 07 Purpledélique  - 27 gr.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XDNMWQY/?tag=tolees-21'
 descuento: '52.68'
 average: '4.59'

@@ -16,6 +16,7 @@ comparePrice: 210.0 EUR
 prodname: 'Seiko Reloj Analógico Automático para Mujer con Correa de Acero Inoxidable – SYMC07K1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000ZBUY78/?tag=tolees-21'
 descuento: '47.20'
 average: '111.76'

@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'GoPro AMBSM-001 - Soporte Profesional para rieles de Asiento  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GCKO9VW/?tag=tolees-21'
 descuento: '39.25'
 average: '30.37'

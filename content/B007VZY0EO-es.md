@@ -16,6 +16,7 @@ comparePrice: 9.63 EUR
 prodname: 'DIGITUS Soporte de Ranura de Puerto Paralelo Cable Adaptador - IDC de 26 Pines a D-Sub 25 - Conector Hembra a Conector Hembra - Cable Plano.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007VZY0EO/?tag=tolees-21'
 descuento: '25.55'
 average: '7.09'

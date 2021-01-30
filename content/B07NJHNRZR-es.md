@@ -16,6 +16,7 @@ comparePrice: 75.95 EUR
 prodname: 'Tamaris 1-1-25283-23  Botas Militar para Mujer  Marrón  Nut 440   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NJHNRZR/?tag=tolees-21'
 descuento: '73.90'
 average: '19.82'

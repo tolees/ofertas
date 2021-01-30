@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Guess W0911L1  Reloj de pulsera para mujer  Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MRP5KTN/?tag=tolees-21'
 descuento: '36.97'
 average: '62.395999999999994'

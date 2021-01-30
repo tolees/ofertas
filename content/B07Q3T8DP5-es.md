@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Cerike Funda para Samsung Galaxy Watch 42mm de Parachoques  Protector Accesorios de Marco Resistente a la compresión de TPU para Reloj Samsung Galaxy Watch 42mm 42mm  Rose Gold '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q3T8DP5/?tag=tolees-21'
 descuento: '60.03'
 average: '7.99'

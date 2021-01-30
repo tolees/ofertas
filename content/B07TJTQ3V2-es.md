@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'Superdry Swim Short Pantalones Cortos  Gris  Edit Palm Grey Pink T5c   S para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TJTQ3V2/?tag=tolees-21'
 descuento: '54.37'
 average: '20.53'

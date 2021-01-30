@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'Nick and Ben - Aspersor loco de flores  aspersor de césped  aspersor de agua  juguete de jardín  pistola de agua'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00569EOLG/?tag=tolees-21'
 descuento: '44.94'
 average: '4.95'

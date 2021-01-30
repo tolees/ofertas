@@ -16,6 +16,7 @@ comparePrice: 10.7 EUR
 prodname: 'Bolero Bebida Instantánea sin Azúcar  Sabor Limón - Paquete de 24 x 9 gr - Total: 216 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B013C5RXK4/?tag=tolees-21'
 descuento: '25.70'
 average: '9.856153846153846'

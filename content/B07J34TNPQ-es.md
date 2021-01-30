@@ -16,6 +16,7 @@ comparePrice: 17.95 EUR
 prodname: 'Funko- Pop Bobble Marvel Studios 10: Doctor Strange  Chrome  Figura Coleccionable  Multicolor  38481 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J34TNPQ/?tag=tolees-21'
 descuento: '46.74'
 average: '8.624285714285715'

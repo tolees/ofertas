@@ -16,6 +16,7 @@ comparePrice: 6.5 EUR
 prodname: 'Crazy Color Sky Blue Nº 59 Crema Colorante del Cabello Semi-permanente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002M3X7JY/?tag=tolees-21'
 descuento: '29.54'
 average: '4.836666666666667'

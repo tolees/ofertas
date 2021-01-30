@@ -16,6 +16,7 @@ comparePrice: 7.25 EUR
 prodname: 'Fairy Detergente para Lavavajillas 400 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0758DDZYD/?tag=tolees-21'
 descuento: '44.97'
 average: '3.99'

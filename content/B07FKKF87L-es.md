@@ -16,6 +16,7 @@ comparePrice: 27.49 EUR
 prodname: 'Nike W NP Shrt 3in Pantalones Cortos  Mujer  Negro  Black/Black/White   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FKKF87L/?tag=tolees-21'
 descuento: '29.10'
 average: '19.47'

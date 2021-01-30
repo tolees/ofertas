@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'New Balance Draft  Zapatillas para Correr de Carretera para Hombre  Negro  Black Lk1   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S2QNLD6/?tag=tolees-21'
 descuento: '52.80'
 average: '28.32'

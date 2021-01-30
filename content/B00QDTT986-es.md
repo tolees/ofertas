@@ -16,6 +16,7 @@ comparePrice: 690.0 EUR
 prodname: 'Bosch BER634GS1 Serie 8 - Microondas integrable / encastre  21 L  900 W  color negro con acero inoxidable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00QDTT986/?tag=tolees-21'
 descuento: '28.84'
 average: '511.3333333333333'

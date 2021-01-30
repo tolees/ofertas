@@ -16,6 +16,7 @@ comparePrice: 150 EUR
 prodname: 'Asics Noosa FF T722n-9004  Zapatillas de Running para Hombre  Negro  Black/Gold Fusion/Red Clay   40.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071F4YYKJ/?tag=tolees-21'
 descuento: '57.78'
 average: '61.26'

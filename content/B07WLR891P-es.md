@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Jack & Jones Jorfame Crew Neck Suéter  Azul  Sea Moss Fit: Knit Fit   XXL para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WLR891P/?tag=tolees-21'
 descuento: '69.08'
 average: '10.82'

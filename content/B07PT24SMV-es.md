@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'New Balance 574v2  Zapatillas para Hombre  Verde  Green/Yellow Green/Yellow   37.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PT24SMV/?tag=tolees-21'
 descuento: '51.32'
 average: '36.32000000000001'

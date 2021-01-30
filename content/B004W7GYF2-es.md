@@ -16,6 +16,7 @@ comparePrice: 5.25 EUR
 prodname: 'Duracell Plus AAA - Pilas Alcalinas paquete de 4  1.5 Voltios LR03 MN2400'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004W7GYF2/?tag=tolees-21'
 descuento: '48.57'
 average: '2.7'

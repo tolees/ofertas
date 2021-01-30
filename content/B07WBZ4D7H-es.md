@@ -16,6 +16,7 @@ comparePrice: 15.09 EUR
 prodname: 'Sábana encimera  colcha de belleza  sábanas lavables  colcha de tratamiento SPA con tratamiento de belleza para salón de belleza con rayas de algodón suave'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WBZ4D7H/?tag=tolees-21'
 descuento: '60.30'
 average: '5.99'

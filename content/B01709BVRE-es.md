@@ -16,6 +16,7 @@ comparePrice: 36.41 EUR
 prodname: 'San Ignacio Masterpro Asador  36 x 24 cm  Aluminio  Gris  Plancha 36'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01709BVRE/?tag=tolees-21'
 descuento: '31.37'
 average: '24.99'

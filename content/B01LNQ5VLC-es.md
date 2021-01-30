@@ -16,6 +16,7 @@ comparePrice: 3.85 EUR
 prodname: 'L Oréal Paris Elvive Total Repair 5 Champú Reconstituyente Cuidado Intensivo para Pelo Dañado - 370 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LNQ5VLC/?tag=tolees-21'
 descuento: '29.87'
 average: '3.0'

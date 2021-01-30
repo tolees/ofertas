@@ -16,6 +16,7 @@ comparePrice: 3.32 EUR
 prodname: 'J35038-Tm Anti-Fall Creative Simple Marble Pattern Teléfono móvil Soft Shell Transparente TPU Funda Protectora para iPhone'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083HZ79BW/?tag=tolees-21'
 descuento: '59.94'
 average: '1.33'

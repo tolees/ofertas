@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Einhell TC-PL 750 -Cepillo electrónico  Potencia de 750 W  17000 min-1 RPM   240 V  Negro  Rojo  ref.4345310 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MYUJ1A8/?tag=tolees-21'
 descuento: '46.18'
 average: '23.66'

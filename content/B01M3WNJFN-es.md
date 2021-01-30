@@ -16,6 +16,7 @@ comparePrice: 64.99 EUR
 prodname: 'Kit Slackline Completo - Kit de Principiante con Protectores de árboles + Trinquete Tensor Revestido - Set de 15 Metros de Bandas para Entrenamiento de fácil instalación'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M3WNJFN/?tag=tolees-21'
 descuento: '38.47'
 average: '39.99'

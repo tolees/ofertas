@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Carcasa para Disco Duro ORICO Caja Transparente Externo USB 3.0 para HDD SSD SATA III de 2 5 Pulgadas de 7mm 9.5mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074S2ZT9M/?tag=tolees-21'
 descuento: '46.02'
 average: '10.456666666666665'

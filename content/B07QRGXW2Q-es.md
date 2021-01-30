@@ -16,6 +16,7 @@ comparePrice: 125.95 EUR
 prodname: 'Ellexir - Sillas de Comedor de plástico con Patas de Madera  plástico  Blanco  4'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QRGXW2Q/?tag=tolees-21'
 descuento: '54.75'
 average: '56.99'

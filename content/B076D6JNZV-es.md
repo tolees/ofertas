@@ -16,6 +16,7 @@ comparePrice: 23.47 EUR
 prodname: 'KYG Bolsa Estanca 20L Impermeable Seca Set de Bolsa Waterproof con Funda Táctil de Móvil y Bolsa Cintura para Playa y Deportes al Aire Rafting Kayak'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076D6JNZV/?tag=tolees-21'
 descuento: '27.61'
 average: '17.979999999999997'

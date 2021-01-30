@@ -16,6 +16,7 @@ comparePrice: 42.99 EUR
 prodname: 'Flybiz Receptor Transmisor Bluetooth 5.0 2 en 1  Adaptador Bluetooth de Audio  Baja latencia aptX para 2 Auriculares  RCA  Adaptador de Audio emisor inalámbrico de 3 5 mm  Sistema Estéreo del Hogar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QPZ3J9H/?tag=tolees-21'
 descuento: '34.89'
 average: '27.99'

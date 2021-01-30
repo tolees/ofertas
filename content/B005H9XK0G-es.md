@@ -16,6 +16,7 @@ comparePrice: 100.88 EUR
 prodname: 'Westinghouse Ceiling Fans Industrial Ventilador de Techo  62 W  Acabado en plata con aspas plateadas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005H9XK0G/?tag=tolees-21'
 descuento: '26.18'
 average: '72.43142857142857'

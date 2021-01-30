@@ -16,6 +16,7 @@ comparePrice: 21.9 EUR
 prodname: 'Cinereplicas - Harry Potter - Bufanda - Licencia Oficial - Casa Gryffindor - 190 cm - Rojo y Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0014FR6GG/?tag=tolees-21'
 descuento: '54.57'
 average: '9.95'

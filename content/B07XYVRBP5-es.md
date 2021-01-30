@@ -16,6 +16,7 @@ comparePrice: 51.98 EUR
 prodname: '2 * 12W Lámpara de pared blanco cálido moderno apliques pared interior aplique pared exterior para la sala de estar Dormitorio Baño Cocina Comedor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XYVRBP5/?tag=tolees-21'
 descuento: '27.68'
 average: '37.59'

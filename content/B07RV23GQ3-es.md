@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'ELZO Soporte Plegable de Aluminio para Ordenador Portátil de hasta 17"  Soporte de Portátil Ajustable  Laptop Stand para 11-17 Pulgadas MacBook/Ordenadores  Hecho de Aleación de Aluminio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RV23GQ3/?tag=tolees-21'
 descuento: '25.94'
 average: '19.99'

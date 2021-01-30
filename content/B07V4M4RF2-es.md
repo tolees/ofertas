@@ -16,6 +16,7 @@ comparePrice: 110.7 EUR
 prodname: 'Love MoschinoJc4247pp0aMujerCarteras de manoRojo  Red 7x14x22 Centimeters  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V4M4RF2/?tag=tolees-21'
 descuento: '36.78'
 average: '66.60749999999999'

@@ -16,6 +16,7 @@ comparePrice: 542.75 EUR
 prodname: 'Acer Aspire 3 A315-53-561Y - Ordenador portátil de 15.6" HD  Intel Core i5-8250U  4 GB RAM  16 GB Intel Optane  1000 GB HDD  UMA  Windows 10 Home  Negro - Teclado QWERTY Español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G3Y14TQ/?tag=tolees-21'
 descuento: '26.30'
 average: '399.495'

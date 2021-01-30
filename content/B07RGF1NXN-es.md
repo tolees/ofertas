@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'RenFox Cesta Colgante de Metal  Organizador de Cesta Colgante  Cesta de Almacenaje Estante Colgante de Cocina Canasta de Metal de Almacenamiento para Cocina Armario Oficina Baño Juego de 2'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RGF1NXN/?tag=tolees-21'
 descuento: '62.52'
 average: '15.323333333333334'

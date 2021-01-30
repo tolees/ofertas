@@ -16,6 +16,7 @@ comparePrice: 56.95 EUR
 prodname: 'Selente Love & Fun tentadora Ropa Interior de 4 Piezas - Sujetador  cinturón de Ligas  Tanga y Venda de satén  Negro  Talla L/XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076BNC1HS/?tag=tolees-21'
 descuento: '29.85'
 average: '39.95'

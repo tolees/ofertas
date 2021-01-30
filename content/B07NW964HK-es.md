@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Skechers Flex Appeal 3.0-Satellites  Zapatillas para Mujer  Charcoal Mesh/Pink Trim Ccpk  4.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NW964HK/?tag=tolees-21'
 descuento: '60.51'
 average: '26.354999999999997'

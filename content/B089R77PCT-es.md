@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'LJP Funda Motorola Moto E7  Antigolpes Doble Capa Duro PC + Suave Silicona TPU Bumper Case Carcasa para Motorola Moto E7  con 360 Anillo iman Soporte - Plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089R77PCT/?tag=tolees-21'
 descuento: '31.85'
 average: '7.49'

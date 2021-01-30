@@ -16,6 +16,7 @@ comparePrice: 8.98 EUR
 prodname: 'Hogar Lavado portátil Lavado de artefactos de cara Instrumento de limpieza eléctrica de silicona Cepillo de lavado a prueba de agua - Multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CKXJHS4/?tag=tolees-21'
 descuento: '33.52'
 average: '5.97'

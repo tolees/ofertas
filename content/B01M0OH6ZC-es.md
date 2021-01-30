@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Panasonic RP-HF100E-A Auriculares Color Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M0OH6ZC/?tag=tolees-21'
 descuento: '45.47'
 average: '10.9'

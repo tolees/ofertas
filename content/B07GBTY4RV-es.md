@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Cadena de luces exterior  luz cadena Bombillas exterior  versión mejorada Luz Jardín  resistente al agua'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GBTY4RV/?tag=tolees-21'
 descuento: '35.02'
 average: '12.99'

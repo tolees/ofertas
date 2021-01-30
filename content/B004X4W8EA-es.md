@@ -16,6 +16,7 @@ comparePrice: 16.28 EUR
 prodname: 'Great Gizmos 4M - Mould & Paint Fridge Magnets  004M3536 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004X4W8EA/?tag=tolees-21'
 descuento: '26.60'
 average: '11.95'

@@ -16,6 +16,7 @@ comparePrice: 9.2 EUR
 prodname: 'Elifexir Baby Care  Crema Protectora del Pañal Culito 10  Hipoalergénica  75ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XGMQ7XM/?tag=tolees-21'
 descuento: '28.37'
 average: '6.59'

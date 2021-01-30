@@ -16,6 +16,7 @@ comparePrice: 16.1 EUR
 prodname: 'Mr. Wonderful Calendario familiar - Venga  família  ¡Nos espera un 2021 lleno de alegría!'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Mr. Wonderful'
 buyurl: 'https://www.amazon.es/dp/B08H2GLVKY/?tag=tolees-21'
 descuento: '26.34'
 average: '15.9035365853659'
@@ -28,8 +29,8 @@ Ahora mismo tienes [Mr. Wonderful Calendario familiar - Venga  família  ¡Nos e
 🔎:
 
 - Con tabla mensual para organizar las tareas
-- Con imán en la parte trasera
 - Incluye un bolígrafo, 4 hojas de pegatinas, 1 bloc de notas para la lista de la compra.
+- Con imán en la parte trasera
 - Contiene 3 blocs de notas adhesivas.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08H2GLVKY/?tag=tolees-21)

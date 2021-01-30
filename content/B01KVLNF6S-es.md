@@ -16,6 +16,7 @@ comparePrice: 45.98 EUR
 prodname: 'Orbeez Juego Crush Sweet Treat Studio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01KVLNF6S/?tag=tolees-21'
 descuento: '25.01'
 average: '34.48'

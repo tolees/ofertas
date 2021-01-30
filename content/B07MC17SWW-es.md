@@ -16,6 +16,7 @@ comparePrice: 23.59 EUR
 prodname: 'HKT by Hackett Hkt SS Str Polo   Ink 591   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MC17SWW/?tag=tolees-21'
 descuento: '27.77'
 average: '17.04'

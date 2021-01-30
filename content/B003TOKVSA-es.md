@@ -16,6 +16,7 @@ comparePrice: 81.89 EUR
 prodname: 'BRA Efficient - Cacerola baja con tapa de cristal y asas de silicona extraíbles  30 cm  apta para todo tipo de cocinas incluida inducción y horno.Libre de PFOA.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003TOKVSA/?tag=tolees-21'
 descuento: '35.18'
 average: '53.08'

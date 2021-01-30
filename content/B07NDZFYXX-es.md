@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'KFD 45W Adaptador de Corriente Cargador portátil para Lenovo IdeaPad 320-15isk 310s 310-14isk 320s-14ikb 510 100-14IBY 120 120S 100S-14IBR 530S-14IKB 520 710S 100-14IBD 520-15IKB 520S-14IKB 20V 2.25A'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDZFYXX/?tag=tolees-21'
 descuento: '55.57'
 average: '19.99'

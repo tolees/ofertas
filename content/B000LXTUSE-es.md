@@ -16,6 +16,7 @@ comparePrice: 8.27 EUR
 prodname: 'Versele-laga NUTRIBIRD B14 PERICO 800g 22066'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000LXTUSE/?tag=tolees-21'
 descuento: '46.92'
 average: '4.39'

@@ -16,6 +16,7 @@ comparePrice: 71.9 EUR
 prodname: 'TRANGO Brood Sn Pant. Pirata  Hombre  Kaki/Marron Oscuro  3XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01D61TPWI/?tag=tolees-21'
 descuento: '40.21'
 average: '42.99'

@@ -16,6 +16,7 @@ comparePrice: 27.95 EUR
 prodname: 'adidas E 3s Chelsea Pantalones Cortos de Deporte  Hombre  Legend Ink/White  2XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KMP8P14/?tag=tolees-21'
 descuento: '61.75'
 average: '10.69'

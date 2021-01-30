@@ -16,6 +16,7 @@ comparePrice: 14.6 EUR
 prodname: 'Martina D Antiochia  La Diversión de Martina  Grey-Riñonera Waist'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XDVDVKL/?tag=tolees-21'
 descuento: '59.25'
 average: '5.95'

@@ -16,6 +16,7 @@ comparePrice: 53.43 EUR
 prodname: 'HP Spectre 700 - Ratón Recargable  Bluetooth  1600 dpi  Desplazamiento en 4 direcciones  11 semanas batería   Color Plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F94C3JL/?tag=tolees-21'
 descuento: '25.15'
 average: '51.795'

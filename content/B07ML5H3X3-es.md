@@ -16,6 +16,7 @@ comparePrice: 28 EUR
 prodname: 'Gratlin Cinturón de Maternidad Embarazada y Extensor de Cintura Sin Costura Negro M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ML5H3X3/?tag=tolees-21'
 descuento: '39.32'
 average: '16.99'

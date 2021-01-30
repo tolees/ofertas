@@ -16,6 +16,7 @@ comparePrice: 79.9 EUR
 prodname: 'Tommy Hilfiger - Th Core Pouch W/Wristlet  Carteras Mujer  Rojo  Cabernet   1x1x1 cm  B x H T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HCTXS6N/?tag=tolees-21'
 descuento: '57.55'
 average: '31.380000000000003'

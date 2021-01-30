@@ -16,6 +16,7 @@ comparePrice: 8.94 EUR
 prodname: 'HENDI Bandejas para comida rápida  mediana  - Rojo - 305x415x H 20 mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00LAX2RIY/?tag=tolees-21'
 descuento: '60.07'
 average: '3.57'

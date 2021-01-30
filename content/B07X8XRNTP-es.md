@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Funko Pop! Marvel: Marvel Venom S3 - Ultron  Multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X8XRNTP/?tag=tolees-21'
 descuento: '38.68'
 average: '9.78'

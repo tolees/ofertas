@@ -16,6 +16,7 @@ comparePrice: 25.18 EUR
 prodname: 'Espejo Retrovisor de Coche para Vigilar Bebés en Asiento Trasero  Juguete de Animlaes de Felpa de Cuna para Niños - Pez  como se describe'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HWN1B5Q/?tag=tolees-21'
 descuento: '44.44'
 average: '14.895'

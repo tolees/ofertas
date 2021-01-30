@@ -16,6 +16,7 @@ comparePrice: 35.96 EUR
 prodname: 'Reloj de Bolsillo Vintage Retro Moto Grabado Motocicleta para Hombre  Reloj Cuarzo con Cadena de 80CM  Regalo Día del Padre -Avaner'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078W6J2KB/?tag=tolees-21'
 descuento: '72.22'
 average: '9.99'

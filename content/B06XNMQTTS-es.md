@@ -16,6 +16,7 @@ comparePrice: 127.19 EUR
 prodname: 'Bosch Serie 4 DFT63AC50 - Campana  360 m³/h  Canalizado/Recirculación  E  D  D  68 dB '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XNMQTTS/?tag=tolees-21'
 descuento: '40.49'
 average: '75.69'

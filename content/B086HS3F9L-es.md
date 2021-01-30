@@ -16,6 +16,7 @@ comparePrice: 4.99 EUR
 prodname: 'Olay Gel Limpiador En Espuma  Piel Normal 150 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086HS3F9L/?tag=tolees-21'
 descuento: '35.07'
 average: '3.24'

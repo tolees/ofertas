@@ -16,6 +16,7 @@ comparePrice: 24.22 EUR
 prodname: 'RIIQIICHY Mujer Cachemira Bufanda Pashmina Chal Armada Invierno Cálida Grande Larga Suave Manta para Mujeres'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FZKXLYR/?tag=tolees-21'
 descuento: '38.11'
 average: '14.99'

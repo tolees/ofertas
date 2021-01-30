@@ -16,6 +16,7 @@ comparePrice: 109.95 EUR
 prodname: 'GANT FOOTWEAR Atlanta  Zapatillas para Hombre  Azul  Marine G69   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KRBPTFQ/?tag=tolees-21'
 descuento: '43.19'
 average: '63.013333333333335'

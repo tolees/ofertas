@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Activ Life Luces LED Ruedas de bicis  1 Set Verde . Aporte Seguridad y originalidad a Sus radios y Cuadro. Complemento Ideal para cochecitos y sillas de Ruedas para Hombres  Mujeres y niños.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GJ1NEGK/?tag=tolees-21'
 descuento: '33.35'
 average: '11.99'

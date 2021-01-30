@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Eve Button - Mando para la casa conectada  con tecnología HomeKit de Apple  Bluetooth Low Energy  negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078GWRH64/?tag=tolees-21'
 descuento: '39.54'
 average: '37.091249999999995'

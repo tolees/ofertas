@@ -16,6 +16,7 @@ comparePrice: 98.34 EUR
 prodname: 'Blindecor Estor enrollable translúcido digital  Zen W-Z-14991 160X180 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YN5XVQ2/?tag=tolees-21'
 descuento: '26.68'
 average: '72.1'

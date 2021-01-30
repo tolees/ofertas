@@ -16,6 +16,7 @@ comparePrice: 27.99 EUR
 prodname: 'Arfbear Mini Pistola de Silicona Caliente  50W con 50 PSC Barras Pegamento Alta Temperatura  Gatillo Flexible  Kit Pistolas Encolar para Proyectos de Bricolaje y Reparaciones Rápidas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RFV7F3S/?tag=tolees-21'
 descuento: '43.23'
 average: '15.89'

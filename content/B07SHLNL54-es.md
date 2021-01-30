@@ -16,6 +16,7 @@ comparePrice: 20.59 EUR
 prodname: 'CY Figuras de Super Mario Toys Mario y Luigi Figuras Yoshi y Mario Bros  Conjunto de 3 Figuras Mario en PVC para niños y Adultos 2 Porte-clés'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SHLNL54/?tag=tolees-21'
 descuento: '42.20'
 average: '11.9'

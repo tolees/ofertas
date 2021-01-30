@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'BÉABA Babycook Duo Robot de cocina para bebés 4 en 1  Cocción rápida al vapor 15 min  Capacidad XXL 2200 ml  Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B019FKEZ7E/?tag=tolees-21'
 descuento: '30.15'
 average: '139.0'

@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Fintie Funda para iPad 10.2" 2019 - Trasera Transparente Mate Carcasa Ligera con Función de Soporte y Auto-Reposo/Activación para iPad 7.ª Generación  Mármol'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XRLCHY9/?tag=tolees-21'
 descuento: '25.01'
 average: '14.99'

@@ -16,6 +16,7 @@ comparePrice: 10.55 EUR
 prodname: 'Marca Amazon - 28 Palms - Polo de golf de piqué con estampado tropical  algodón de calidad  corte holgado  Negro Sólido  US M  EU M '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JQZC72P/?tag=tolees-21'
 descuento: '40.19'
 average: '6.31'

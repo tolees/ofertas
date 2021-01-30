@@ -16,6 +16,7 @@ comparePrice: 26.71 EUR
 prodname: 'NMBC Película de Ventana Película de Ventana de privacidad 45 cm de Ancho Película de Ventana de Vidrio Esmerilado autoadhesiva Película estática Anti-UV Reutilizable 45X100cm-60X100cm A'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087PTNM72/?tag=tolees-21'
 descuento: '40.13'
 average: '15.99'

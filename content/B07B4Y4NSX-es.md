@@ -16,6 +16,7 @@ comparePrice: 39.98 EUR
 prodname: 'TOUCHBeauty Limpiador Facial Sónico 2 en 1 con Masaje Antiedad para los Ojos  Impermeable  Cabeza Facial con Cerdas Ultra Suaves  Limpiador Exfoliante Facial AG-1581'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B4Y4NSX/?tag=tolees-21'
 descuento: '60.03'
 average: '15.98'

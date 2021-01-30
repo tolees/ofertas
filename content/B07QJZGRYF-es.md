@@ -16,6 +16,7 @@ comparePrice: 12.76 EUR
 prodname: 'Grafoplás Bits & Bobs - Estuche 3 Compartimentos con Solapa  Amarillo  23 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QJZGRYF/?tag=tolees-21'
 descuento: '29.55'
 average: '8.99'

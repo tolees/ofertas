@@ -16,6 +16,7 @@ comparePrice: 139.99 EUR
 prodname: 'Garmin Vivosmart 4 Pulsera de Actividad  Adultos Unisex  Negro  Talla Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G9W2SXX/?tag=tolees-21'
 descuento: '35.00'
 average: '93.015'

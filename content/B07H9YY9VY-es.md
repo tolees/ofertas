@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Extractor de Puntos Negro 3 Modos de Succión Eliminar Puntos Negros Nariz con 5 Cabezas Recargable USB Exfoliante Impiador Facial Electrico Para el Acné  Raspado  Limpieza Facial de Poros.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H9YY9VY/?tag=tolees-21'
 descuento: '36.68'
 average: '18.99'

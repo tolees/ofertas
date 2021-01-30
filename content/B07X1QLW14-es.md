@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'Orimade Adhesivo Estantes Cesta para Ducha Estanteria con 5 Colgadores Organizador Baño SUS304 Acero Inoxidable Sin Taladro - Pack de 3'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X1QLW14/?tag=tolees-21'
 descuento: '28.01'
 average: '26.830000000000002'

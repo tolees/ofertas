@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 's.Oliver 03.899.61.5232 suéter  Negro  Black 9999   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RTCHV7X/?tag=tolees-21'
 descuento: '64.09'
 average: '10.77'

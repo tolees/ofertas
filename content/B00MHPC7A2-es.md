@@ -16,6 +16,7 @@ comparePrice: 94.95 EUR
 prodname: 'adidas Originals Stan Smith Zapatillas de Deporte Unisex adulto  Blanco  Core White/Running White/New Navy   41 1/3 EU  7.5 UK '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00MHPC7A2/?tag=tolees-21'
 descuento: '27.87'
 average: '76.03'

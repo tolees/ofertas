@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'Quiksilver Emboss-Sudadera con Capucha para Chicos 8-16  Niños  Medium Grey Heather  M/12'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TCH7V7T/?tag=tolees-21'
 descuento: '62.45'
 average: '17.27'

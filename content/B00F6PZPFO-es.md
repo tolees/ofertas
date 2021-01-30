@@ -16,6 +16,7 @@ comparePrice: 10.45 EUR
 prodname: 'HELLA 9XW 178 878-181 Limpiaparabrisas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00F6PZPFO/?tag=tolees-21'
 descuento: '85.45'
 average: '1.52'

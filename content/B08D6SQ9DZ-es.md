@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: '5 PCS Salvaorejas de Mascarillas Extensor Ajustable  Correa Antideslizante con Hebillas de Silicona con Agarres para Sujetar Cuello Aliviar Molestias  Fijador Antideslizante Ajustable de 4 Engranajes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08D6SQ9DZ/?tag=tolees-21'
 descuento: '72.19'
 average: '2.5'

@@ -16,6 +16,7 @@ comparePrice: 66.68 EUR
 prodname: 'Bostanten Cinturón Cuero Para Hombres Piel Cinturones hebilla automática Men s Belt Café'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BRLSG78/?tag=tolees-21'
 descuento: '59.54'
 average: '26.98'

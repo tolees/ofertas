@@ -16,6 +16,7 @@ comparePrice: 5.96 EUR
 prodname: 'Wella Eimi Sculpt Force - 28 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LZHIOP6/?tag=tolees-21'
 descuento: '57.72'
 average: '2.52'

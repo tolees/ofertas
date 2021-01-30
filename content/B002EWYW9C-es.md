@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'Bosch Home and Garden 0.603.502.002 Sierra circular portátil  1600 W  240 V'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002EWYW9C/?tag=tolees-21'
 descuento: '45.50'
 average: '109.0'

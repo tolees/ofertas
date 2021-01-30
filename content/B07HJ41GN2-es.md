@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'FONDBERYL Conjuntos de lencería Mujer Sexy Lencería Babydoll Ropa de Dormir Mujer lencería de Capa de Dormir Lencería y Ropa Interior'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HJ41GN2/?tag=tolees-21'
 descuento: '63.69'
 average: '3.99'

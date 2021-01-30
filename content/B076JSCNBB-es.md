@@ -16,6 +16,7 @@ comparePrice: 67 EUR
 prodname: 'Varlion Hexagon Azul - Paletero de pádel  Unisex Adulto  Azul/Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076JSCNBB/?tag=tolees-21'
 descuento: '55.37'
 average: '29.9'

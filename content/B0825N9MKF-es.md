@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Quiksilver On Tour - Licra De Manga Corta con Protección Solar UPF 50 para Hombre S/SL Surf tee  Hombre  Blithe  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0825N9MKF/?tag=tolees-21'
 descuento: '34.26'
 average: '23.66'

@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'Espirulina ecológica en Comprimidos Premium Carefood para 100 días | 300 comprimidos de Alga Spirulina Bio Natural | Tratamiento para más de 3 meses | Superalimento calidad Carefood'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NJ6QWW7/?tag=tolees-21'
 descuento: '49.80'
 average: '9.99'

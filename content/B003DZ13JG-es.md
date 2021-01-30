@@ -16,6 +16,7 @@ comparePrice: 122.98 EUR
 prodname: 'Bosch PST 900 PEL - Sierra de calar  620 W  en maletín '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003DZ13JG/?tag=tolees-21'
 descuento: '40.18'
 average: '90.465'

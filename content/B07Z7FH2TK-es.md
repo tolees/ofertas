@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'TAZEMAT 42 Hojas Plantillas para Pintar Letras y Números Tarjetas de Alfabeto para Manualidades DIY Artesanía Sténcil para Dibujar sobre Papel Mueble Pared Madera Reutilizable 21 × 15cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z7FH2TK/?tag=tolees-21'
 descuento: '40.12'
 average: '11.97'

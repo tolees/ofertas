@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'One For All WM4411 - Soporte de pared para TV de 32 a 60”  fijo  peso máx. 100kg  negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IVQVOS6/?tag=tolees-21'
 descuento: '42.38'
 average: '14.4'

@@ -16,6 +16,7 @@ comparePrice: 7.83 EUR
 prodname: 'FIFA 19 - Steelbook Standard Edition  import allemand  -  Ne contient aucun jeu  [Importación francesa]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G2M37NT/?tag=tolees-21'
 descuento: '80.72'
 average: '3.4099999999999997'

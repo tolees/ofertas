@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'PUMA Liga Training Shorts W Chándal  Mujer  Negro  Black/White   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0781VC1GQ/?tag=tolees-21'
 descuento: '55.96'
 average: '13.19'

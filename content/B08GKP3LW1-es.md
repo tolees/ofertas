@@ -16,6 +16,7 @@ comparePrice: 8.88 EUR
 prodname: 'MAOIMOR Niños Desechables de Filtro de 3 Capas con Pendientes Elásticos  50 Unidades  Dibujos Animados patrón Panda '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08GKP3LW1/?tag=tolees-21'
 descuento: '31.87'
 average: '6.05'

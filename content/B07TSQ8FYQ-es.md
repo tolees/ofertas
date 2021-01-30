@@ -16,6 +16,7 @@ comparePrice: 74.95 EUR
 prodname: 'Skechers Moreno  Zapatillas para Hombre  Negro  Black Natural Mesh Bknt   41.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TSQ8FYQ/?tag=tolees-21'
 descuento: '57.16'
 average: '33.74666666666666'

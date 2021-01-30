@@ -16,6 +16,7 @@ comparePrice: 17.79 EUR
 prodname: 'Tccmebius Externo Caja de disco duro Adaptador USB 3.0 a SATA para 2.5 pulgadas 9.5mm 7mm SATA III HDD SSD Hasta 2TB  Sin herramientas  Soporte UASP y Función de sueño automático  TCC-S9 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KPVG67C/?tag=tolees-21'
 descuento: '38.22'
 average: '9.49'

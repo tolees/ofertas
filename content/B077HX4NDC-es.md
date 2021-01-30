@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'G-Star RAW Rovulc Mid Wmn  Zapatillas para Mujer  Blanco  White 110   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077HX4NDC/?tag=tolees-21'
 descuento: '44.42'
 average: '45.269999999999996'

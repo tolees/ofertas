@@ -16,6 +16,7 @@ comparePrice: 147.5 EUR
 prodname: 'Love Moschino Jc4094pp18lp0000  Bolsa de mensajero Unisex Adulto  Negro  Nero   17x7x26 centimeters  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KJ6FFBX/?tag=tolees-21'
 descuento: '35.02'
 average: '60.74285714285714'

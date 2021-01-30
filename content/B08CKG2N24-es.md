@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Auriculares inalámbricos Bluetooth 5.0 Control táctil  micrófono Incorporado y Caja de Carga  reducción de Ruido estéreo 3D HD adecuados para Auriculares Android/iPhone/AirPods Pro/Samsung'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CKG2N24/?tag=tolees-21'
 descuento: '43.34'
 average: '33.99'

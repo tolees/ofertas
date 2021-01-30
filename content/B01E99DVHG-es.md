@@ -16,6 +16,7 @@ comparePrice: 47.95 EUR
 prodname: 'Joma - Anorak Andes Marino-Amarillo para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01E99DVHG/?tag=tolees-21'
 descuento: '33.28'
 average: '31.99'

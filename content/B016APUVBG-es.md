@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'POP! Vinilo - Disney: Toy Story Buzz'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B016APUVBG/?tag=tolees-21'
 descuento: '44.82'
 average: '8.5'

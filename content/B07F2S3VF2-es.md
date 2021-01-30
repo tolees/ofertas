@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Helly Hansen Hh Qd Cargo Shorts 11  Pantalones deportivos para Hombre  Marron  Marron Claro 720   Talla 33'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F2S3VF2/?tag=tolees-21'
 descuento: '49.34'
 average: '42.906666666666666'

@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Skechers FLEX ADVANTAGE 3.0- STALLY  Men’s Trainers  Blue  Navy Mesh/Trim Nvy   9.5   44 EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CTRH486/?tag=tolees-21'
 descuento: '42.82'
 average: '40.0'

@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Curver Cubo decorado con pedal duo 30 L  cubetas 10+18L   Metal  37x27x48.5 cm  203291'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007NVZJBO/?tag=tolees-21'
 descuento: '27.93'
 average: '32.4'

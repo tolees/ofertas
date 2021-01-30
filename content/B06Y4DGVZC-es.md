@@ -16,6 +16,7 @@ comparePrice: 11.48 EUR
 prodname: 'DAMN.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06Y4DGVZC/?tag=tolees-21'
 descuento: '39.11'
 average: '6.99'

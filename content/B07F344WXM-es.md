@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'Helly Hansen - HH Racing Bag  Shoppers y Bolsos de Hombro Unisex Adulto  Negro  Black   25x55x31 cm  B x H T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F344WXM/?tag=tolees-21'
 descuento: '50.71'
 average: '34.5'

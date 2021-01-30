@@ -16,6 +16,7 @@ comparePrice: 33.98 EUR
 prodname: 'Desigual Bag Gemini Colorado  Bandolera para Mujer  Negro  36x16x31 centimeters  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N16FTD7/?tag=tolees-21'
 descuento: '26.52'
 average: '28.41'

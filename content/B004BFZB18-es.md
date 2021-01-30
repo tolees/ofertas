@@ -16,6 +16,7 @@ comparePrice: 15.21 EUR
 prodname: 'Michelin Country AT Cubierta  Unisex  Negro  26 x 2.00'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004BFZB18/?tag=tolees-21'
 descuento: '27.68'
 average: '10.496666666666668'

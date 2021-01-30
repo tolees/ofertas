@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'Helly Hansen TSUGA  Zapatillas de Deporte para Hombre  Marrón  New Wheat/Espresso/Nat 724   45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BB44HMR/?tag=tolees-21'
 descuento: '56.85'
 average: '51.78'

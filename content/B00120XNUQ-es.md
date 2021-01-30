@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'Converse Chuck Taylor All Star  Zapatillas de Tela Unisex  Negro  Black Mono   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00120XNUQ/?tag=tolees-21'
 descuento: '30.09'
 average: '46.49333333333333'

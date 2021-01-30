@@ -16,6 +16,7 @@ comparePrice: 24.44 EUR
 prodname: 'Soporte Tablet Apoyo de Teléfono para Coches Diseño Aleación de Aluminio Kit de Montaje para Ciclismo - rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MYR7HHT/?tag=tolees-21'
 descuento: '53.52'
 average: '11.36'

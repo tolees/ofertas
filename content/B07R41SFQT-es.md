@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'PARTU Purificador de Aire con Filtro HEPA  Filtro de Nivel 3 Purificador de Aire para Hogar con Luz Nocturna Coloreada  Indicador de Reemplazo del Filtro  para Eliminador PM2.5  Polen  Bacterias'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R41SFQT/?tag=tolees-21'
 descuento: '66.67'
 average: '49.99'

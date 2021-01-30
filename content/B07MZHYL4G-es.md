@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Superdry Classic Superstate Pique Polo  Rosa  Pink Fluro Grit S2w   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZHYL4G/?tag=tolees-21'
 descuento: '44.16'
 average: '33.45'

@@ -16,6 +16,7 @@ comparePrice: 268.0 EUR
 prodname: 'Orlane Royale Crema Cou & Décolleté 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0057DO5CE/?tag=tolees-21'
 descuento: '50.00'
 average: '123.925'

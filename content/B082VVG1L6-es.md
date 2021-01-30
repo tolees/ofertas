@@ -16,6 +16,7 @@ comparePrice: 7.57 EUR
 prodname: 'Alfapac – Papel de cocina 18 m  1 unidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082VVG1L6/?tag=tolees-21'
 descuento: '67.37'
 average: '2.47'

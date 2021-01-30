@@ -16,6 +16,7 @@ comparePrice: 34.9 EUR
 prodname: 'Reloj - Casio - para - AE-1000W-1A3VCF'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GI9Z1EG/?tag=tolees-21'
 descuento: '35.24'
 average: '22.6'

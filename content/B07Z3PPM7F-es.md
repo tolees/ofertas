@@ -16,6 +16,7 @@ comparePrice: 149.0 EUR
 prodname: 'VARLION LW TI 8.8 ROJA 2020'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z3PPM7F/?tag=tolees-21'
 descuento: '53.05'
 average: '78.73333333333335'

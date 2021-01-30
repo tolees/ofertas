@@ -16,6 +16,7 @@ comparePrice: 5.49 EUR
 prodname: '2018 New Water Guns Pool Toys para niños Squirt Guns Pull-out Super Water Guns Party Beach Game Orange & Green  Orange & Greem + 15.5cm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084ZTBFSK/?tag=tolees-21'
 descuento: '34.97'
 average: '3.57'

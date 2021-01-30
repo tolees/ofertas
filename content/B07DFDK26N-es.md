@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Funko Pop! Simpsons Abuelo Simpson  Multicolor  FK33881   Talla Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DFDK26N/?tag=tolees-21'
 descuento: '37.30'
 average: '9.55285714285714'

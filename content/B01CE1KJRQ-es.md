@@ -16,6 +16,7 @@ comparePrice: 140.0 EUR
 prodname: 'TRENDnet TV-IP315PI - Cámara de Red PoE con Domo  Color Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CE1KJRQ/?tag=tolees-21'
 descuento: '32.61'
 average: '94.35'

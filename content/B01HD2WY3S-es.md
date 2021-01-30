@@ -16,6 +16,7 @@ comparePrice: 100.99 EUR
 prodname: 'Salomon XA Pro 3D GTX W  Zapatillas de Trail Running para Mujer  Negro  Black/Black/Mineral Grey   41 1/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HD2WY3S/?tag=tolees-21'
 descuento: '28.26'
 average: '79.72'

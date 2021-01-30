@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Skechers'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HP6GS8B/?tag=tolees-21'
 descuento: '38.62'
 average: '39.9'

@@ -16,6 +16,7 @@ comparePrice: 9.11 EUR
 prodname: 'Tabac Tabac Luxury Soap Box Jabón - 150 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003HLTQKE/?tag=tolees-21'
 descuento: '56.75'
 average: '3.94'

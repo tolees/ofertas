@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'Levi s  Azul  Hm Patch Housemark Polo Riverside 0110   XX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TKDNDJF/?tag=tolees-21'
 descuento: '39.02'
 average: '30.59'

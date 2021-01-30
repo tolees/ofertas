@@ -16,6 +16,7 @@ comparePrice: 22.0 EUR
 prodname: 'Gifts Treat Sombrero de niña Summer Sun Hat Sombrero de Boonie de algodón Plegable  Flamenco  54CM '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RPP3TW6/?tag=tolees-21'
 descuento: '40.95'
 average: '12.99'

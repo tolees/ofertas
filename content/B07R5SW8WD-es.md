@@ -16,6 +16,7 @@ comparePrice: 17.95 EUR
 prodname: 'PUMA S Portable Bandolera  Adultos Unisex  Medium Gray Heather  OSFA'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R5SW8WD/?tag=tolees-21'
 descuento: '83.23'
 average: '3.01'

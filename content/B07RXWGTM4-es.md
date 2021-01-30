@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'Diesel ShoesDiscover-me OderzoHombreCarterasAzul  Blue Nights  1x22x18 centimeters  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RXWGTM4/?tag=tolees-21'
 descuento: '72.30'
 average: '19.39'

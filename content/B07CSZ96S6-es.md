@@ -16,6 +16,7 @@ comparePrice: 13.49 EUR
 prodname: 'D DOLITY Dados D20 de Acrílico 20 Caras para Juego de rol Juego de Mesa  10 Unids  - Azul Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CSZ96S6/?tag=tolees-21'
 descuento: '33.36'
 average: '8.99'

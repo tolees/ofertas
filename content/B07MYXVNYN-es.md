@@ -16,6 +16,7 @@ comparePrice: 80.9 EUR
 prodname: 'Vacío Envasado Máquina Envasadora Alimentos Conservación Almacenamiento con 10 Sellador Bolsas Húmedos Comida Frescos Automático Selladora Cortador Kitchen Comida Frescos sous vide Carne Cocción Hogar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MYXVNYN/?tag=tolees-21'
 descuento: '38.22'
 average: '49.98'

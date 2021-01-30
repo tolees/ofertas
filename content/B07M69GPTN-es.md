@@ -16,6 +16,7 @@ comparePrice: 85.99 EUR
 prodname: 'Ventilador Silencioso Aire acondicionado con 25db Ventilador de Escritorio con Control Remoto Circulación del Aire para 4 Estacionas Ventilador Aire Circular con 12 velocidades oscilación automática'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M69GPTN/?tag=tolees-21'
 descuento: '30.24'
 average: '59.99'

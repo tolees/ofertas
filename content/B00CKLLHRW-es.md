@@ -16,6 +16,7 @@ comparePrice: 136.95 EUR
 prodname: 'DeWalt DWST17888 - TSTAK Trolley'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00CKLLHRW/?tag=tolees-21'
 descuento: '68.61'
 average: '42.99'

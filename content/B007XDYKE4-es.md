@@ -16,6 +16,7 @@ comparePrice: 25.65 EUR
 prodname: 'Targus Classic+ - Funda de 15-15.6"  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007XDYKE4/?tag=tolees-21'
 descuento: '28.11'
 average: '18.963333333333335'

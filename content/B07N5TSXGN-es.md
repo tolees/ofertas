@@ -16,6 +16,7 @@ comparePrice: 49.0 EUR
 prodname: 'Calvin Klein ENFOLD CARD HOLDER WALLETMujerBolsos bandoleraNegro  Black  3x8.5x11 centimeters  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N5TSXGN/?tag=tolees-21'
 descuento: '50.00'
 average: '24.5'

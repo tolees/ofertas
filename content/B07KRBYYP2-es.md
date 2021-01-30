@@ -16,6 +16,7 @@ comparePrice: 119.95 EUR
 prodname: 'GANT Footwear Portland  Zapatillas para Hombre  Multicolor  Multi Gray G882   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KRBYYP2/?tag=tolees-21'
 descuento: '50.02'
 average: '59.95'

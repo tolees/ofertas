@@ -16,6 +16,7 @@ comparePrice: 13.12 EUR
 prodname: 'Akuoly Juego de Tornillos M.2 SSD para M.2 SSD NVMe Montaje para Placa Base de ASUS  Tornillos SSD M2 Standoffs  22 Piezas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08HRYF2F1/?tag=tolees-21'
 descuento: '31.48'
 average: '10.366666666666667'

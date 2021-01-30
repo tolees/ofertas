@@ -16,6 +16,7 @@ comparePrice: 74.99 EUR
 prodname: 'Taurus PI400 Placa inducción portátil  Cristal'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0722ZFG4X/?tag=tolees-21'
 descuento: '34.68'
 average: '50.78333333333333'

@@ -16,6 +16,7 @@ comparePrice: 44.95 EUR
 prodname: 'N2 Natural Nutrition Garcinia Cambogia Vitamina C-Cromo. Quemagrasas Natural Termogénico Inhibidor del apetito Adelgazante Metaboliza grasas-1150mg HCA 60% Certificado Vegano CE 120 Capsulas Vegetales'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078S94XLT/?tag=tolees-21'
 descuento: '62.29'
 average: '16.10333333333333'

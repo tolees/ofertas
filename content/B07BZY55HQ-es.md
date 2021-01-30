@@ -16,6 +16,7 @@ comparePrice: 31.99 EUR
 prodname: 'AmazonBasics - Aro de fitness y pilates para entrenamiento de resistencia  35 6 cm  Ararillo  2 unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BZY55HQ/?tag=tolees-21'
 descuento: '29.76'
 average: '22.47'

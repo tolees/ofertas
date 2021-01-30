@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Lixada Cuerda de Saltar Ajustable—Manijas de Espuma Suave Fitness sin Enredos  Adecuadas para Entrenamiento Deportivo de Resistencia a la Velocidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZKTQSBX/?tag=tolees-21'
 descuento: '35.31'
 average: '19.99'

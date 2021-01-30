@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'MIFA X12 Auriculares Bluetooth  Auriculares Inalámbricos Deportes Bluetooth 5.0  Sonido Estéreo 3D Hi-Fi  Impermeable IP56 con Micrófono Incorporado y Operación Táctil  30 Horas de Juego  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZRNKRRJ/?tag=tolees-21'
 descuento: '55.57'
 average: '39.99'

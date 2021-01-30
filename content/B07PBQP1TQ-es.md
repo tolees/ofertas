@@ -16,6 +16,7 @@ comparePrice: 16.18 EUR
 prodname: '100pcs Bola de Vidrio Guijarro de Mármol Color Sólido Canica Transparente Decoración para Florero Tanque de Peces Boda - Azul océano Transparente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PBQP1TQ/?tag=tolees-21'
 descuento: '44.44'
 average: '8.99'

@@ -16,6 +16,7 @@ comparePrice: 35.97 EUR
 prodname: 'LEADSTAR Funda para Samsung Galaxy Tab A 10.1 2019  Ligero y Super Protective Antichoque EVA Estuche Protector Diseñar Especialmente Manija Caso con Soporte para los Niños  SM-T510 / T515  Violeta '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SZTJQT8/?tag=tolees-21'
 descuento: '55.55'
 average: '15.99'

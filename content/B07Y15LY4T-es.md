@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Mini Cámara Espía Oculta Mini Cámara de Vigilancia con Tarjeta SD de 8GB  1080P HD Grabadora de Video Portátil Camaras de Seguridad con Detección de Movimiento IR Visión Nocturna  Non-WiFi '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y15LY4T/?tag=tolees-21'
 descuento: '32.51'
 average: '26.389999999999997'

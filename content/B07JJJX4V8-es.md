@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Cecotec Ready Warm 2000 Thermal - Emisor Térmico  10 Elementos  3 Modos de Funcionamiento  Temporizador  Mando a Distancia  Pantalla LED  1500 W'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JJJX4V8/?tag=tolees-21'
 descuento: '26.92'
 average: '94.89833333333334'

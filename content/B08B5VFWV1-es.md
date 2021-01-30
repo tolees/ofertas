@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'ORICO Caja Externa Disco Duro 2.5   Carcasa Disco Duro Externo USB 3.0 a SATA 3.0 con UASP para HDD o SSD SATA I II III de 2.5 Pulgadas y 7-9.5 mm de hasta 4TB  sin Herramientas  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08B5VFWV1/?tag=tolees-21'
 descuento: '47.09'
 average: '8.99'

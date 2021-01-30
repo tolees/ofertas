@@ -16,6 +16,7 @@ comparePrice: 20.63 EUR
 prodname: 'Solaray Vitamin C 1000mg | con Escaramujo y Acerola | Acción Retardada| Sin Gluten | Apto Para Veganos | 100 comprimidos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00DN9LHUM/?tag=tolees-21'
 descuento: '26.08'
 average: '15.266666666666667'

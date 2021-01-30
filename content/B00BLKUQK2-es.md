@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Vans Atwood  Sneaker para Hombre  Negro  Black/White Canvas 187   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BLKUQK2/?tag=tolees-21'
 descuento: '37.57'
 average: '43.793'

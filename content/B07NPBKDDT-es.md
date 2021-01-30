@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Calvin Klein Reloj Analógico-Digital para Unisex Adultos de Cuarzo con Correa en Cuero K8M211CN'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NPBKDDT/?tag=tolees-21'
 descuento: '49.75'
 average: '109.7'

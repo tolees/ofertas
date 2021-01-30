@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Aceite Esencial Puros，Ato Bea 6 * 10ml 100% Aceites Esenciales Naturales Lavanda  Hierba de Limón  Menta  Eucalipto  Árbol de té  Naranja Dulceaceites Esenciales Para Humidificador'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q4SMGBG/?tag=tolees-21'
 descuento: '35.02'
 average: '12.99'

@@ -16,6 +16,7 @@ comparePrice: 129.95 EUR
 prodname: 'BLACK+DECKER SVB520JW-QW - Aspirador escoba sin cable 2 en 1 de 18V  2Ah   500ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PDYNT2F/?tag=tolees-21'
 descuento: '33.84'
 average: '85.98'

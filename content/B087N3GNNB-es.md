@@ -16,6 +16,7 @@ comparePrice: 47.97 EUR
 prodname: 'P Prettyia Cámara De De Juegos A Prueba De Agua Al Aire Libre Cámara De Video HD Seguridad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087N3GNNB/?tag=tolees-21'
 descuento: '44.44'
 average: '26.65'

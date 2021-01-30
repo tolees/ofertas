@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'BlueXP 100 Unidades Botón de Mariposa Pintado de Madera Colores Variados Hebilla de 2 Agujeros para Decoración de Manualidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DDCLM19/?tag=tolees-21'
 descuento: '47.09'
 average: '8.99'

@@ -16,6 +16,7 @@ comparePrice: 14.15 EUR
 prodname: 'Dodo Pañales Talla 4   9-14 kg  - 64 pañales'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M68GLT0/?tag=tolees-21'
 descuento: '47.14'
 average: '7.48'

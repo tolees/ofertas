@@ -16,6 +16,7 @@ comparePrice: 53.91 EUR
 prodname: 'Tommy Hilfiger Short Sleeve Slim Polo de Manga Corta  Gris  Light Gris Heather P01   36  Talla del Fabricante: Small  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VT3BFKK/?tag=tolees-21'
 descuento: '46.21'
 average: '29.0'

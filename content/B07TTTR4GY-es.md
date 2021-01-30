@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Skechers Go Run Fast Steadfast  Zapatillas sin Cordones para Hombre  Azul  Black Textile/Multi Trim Bkmt   45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TTTR4GY/?tag=tolees-21'
 descuento: '35.24'
 average: '42.06'

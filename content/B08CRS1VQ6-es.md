@@ -16,6 +16,7 @@ comparePrice: 6.11 EUR
 prodname: 'Altavoz de música inalámbrico portátil Estilo Seta Lindo Universal - Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CRS1VQ6/?tag=tolees-21'
 descuento: '35.02'
 average: '3.97'

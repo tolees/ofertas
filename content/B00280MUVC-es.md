@@ -16,6 +16,7 @@ comparePrice: 11.16 EUR
 prodname: 'Chuckit! 17020 Ultra Ball  2 Pelotas para Perros Compatible con el Lanzador  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00280MUVC/?tag=tolees-21'
 descuento: '46.33'
 average: '5.99'

@@ -16,6 +16,7 @@ comparePrice: 9.0 EUR
 prodname: 'Bourjois Boite Ronde Sombra de ojos Tono 13 Extra-vertie  - 16 gr.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01JGFDFG0/?tag=tolees-21'
 descuento: '90.00'
 average: '1.6857142857142857'

@@ -16,6 +16,7 @@ comparePrice: 3.59 EUR
 prodname: 'Funda para teléfono Sports Girl Pattern Resistente a los Golpes Protección Suave para teléfonos móviles Accesorios para el hogar del teléfono móvil para el hogar - J6684-Pt'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083NQF2DP/?tag=tolees-21'
 descuento: '33.43'
 average: '2.39'

@@ -16,6 +16,7 @@ comparePrice: 16.02 EUR
 prodname: 'Aire De Sevilla Primavera Set de Regalo - 3 Piezas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XAIR2SM/?tag=tolees-21'
 descuento: '25.78'
 average: '11.9725'

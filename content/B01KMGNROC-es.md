@@ -16,6 +16,7 @@ comparePrice: 34.32 EUR
 prodname: 'Gennadi Hoppe Pantalones cortos hasta la rodilla traje de baño de los hombres'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01KMGNROC/?tag=tolees-21'
 descuento: '32.84'
 average: '23.05'

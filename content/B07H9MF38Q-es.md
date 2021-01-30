@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Skechers Boys  Go Run 600-Haddox Trainers  Black  Black Red Bkrd   3 UK  36 EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H9MF38Q/?tag=tolees-21'
 descuento: '34.99'
 average: '25.97'

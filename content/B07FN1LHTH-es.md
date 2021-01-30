@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'adidas Galaxy 28  Zapatillas de Running para Hombre  Negro  Core Black   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FN1LHTH/?tag=tolees-21'
 descuento: '29.95'
 average: '34.97'

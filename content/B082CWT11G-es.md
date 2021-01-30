@@ -16,6 +16,7 @@ comparePrice: 49.97 EUR
 prodname: 'KLIM™ Aurora - Base de refrigeración para portátiles RGB - 11" a 17" + Refrigeración para portátil Gaming + Ventilador USB + Estable y Resistente Base de Aluminio + Gran compatibilidad + Nueva 2020'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082CWT11G/?tag=tolees-21'
 descuento: '40.02'
 average: '29.97'

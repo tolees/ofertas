@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'Entil 5400mAH Calentador de Manos Recargable de  Calentadores de Manos de calefacción de Doble  Calentamiento rápido Reutilizable  los Mejores Regalos para Hombres y Mujeres en el frío Invierno'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081TC24TY/?tag=tolees-21'
 descuento: '25.03'
 average: '9.589999999999998'

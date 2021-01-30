@@ -16,6 +16,7 @@ comparePrice: 4.01 EUR
 prodname: 'Charms Bling Glitter Funda ultradelgada para teléfono móvil Ligera Funda Protectora Trasera Adecuada para iPhone'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083HZK3M3/?tag=tolees-21'
 descuento: '74.56'
 average: '1.02'

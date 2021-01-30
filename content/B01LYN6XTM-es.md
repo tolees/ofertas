@@ -16,6 +16,7 @@ comparePrice: 275.0 EUR
 prodname: 'Teka ML 820 bis Microondas con grill  1100 W  20 litros  Otro  INOX'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LYN6XTM/?tag=tolees-21'
 descuento: '28.01'
 average: '197.98'

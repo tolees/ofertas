@@ -16,6 +16,7 @@ comparePrice: 9.57 EUR
 prodname: 'LAQI Funda para Apple iPad Pro 10.5 2017 iPad Air 3 2019 Case/iPad Pro Case Claro TPU Suave Anticaída Anti Choque Contraportada de la Tableta para iPad Pro 10.5 2017 iPad Air 3 2019 Case-E13'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0852XNCK4/?tag=tolees-21'
 descuento: '52.25'
 average: '4.57'

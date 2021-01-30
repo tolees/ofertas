@@ -16,6 +16,7 @@ comparePrice: 55.98 EUR
 prodname: 'Asics Aaron  Zapatillas para Hombre  Azul  Peacoat/Gris Blue 400   46.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D1GYWWP/?tag=tolees-21'
 descuento: '42.03'
 average: '32.45'

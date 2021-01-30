@@ -16,6 +16,7 @@ comparePrice: 19.47 EUR
 prodname: 'Dockers by Gerli 43ta302  Botas de Nieve para Mujer  Blanco  Ice 260   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DJGRKZM/?tag=tolees-21'
 descuento: '29.17'
 average: '17.403333333333332'

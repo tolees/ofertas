@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Rowenta Depiladora WET & DRY ELITE EP8002F0 - Sin cable y utilizable bajo el agua  cabezal de 24 pinzas con función masajeadora  autonomía de 40min'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S2RZMLV/?tag=tolees-21'
 descuento: '30.01'
 average: '38.982'

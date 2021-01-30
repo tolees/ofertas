@@ -16,6 +16,7 @@ comparePrice: 271.2 EUR
 prodname: 'RGV LUXOR 22 - Cortafiambre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0050IGXLM/?tag=tolees-21'
 descuento: '25.35'
 average: '202.45'

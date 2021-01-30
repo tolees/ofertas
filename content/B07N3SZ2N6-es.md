@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Desigual Blouse Lucia Blusas  Orange  Cobre 7006   XL para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N3SZ2N6/?tag=tolees-21'
 descuento: '63.19'
 average: '25.75'

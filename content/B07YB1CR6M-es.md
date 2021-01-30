@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'FORMIZON 3 Pack Bombas de Globo  Manual Bombas de Globos  Inflador de Globo  Bombas de Globos de Mano Inflador Manual Ligero Durable para Globos  Bolas de Yoga  Flotadores de Piscina'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YB1CR6M/?tag=tolees-21'
 descuento: '50.03'
 average: '9.99'

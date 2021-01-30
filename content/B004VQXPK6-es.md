@@ -16,6 +16,7 @@ comparePrice: 21.91 EUR
 prodname: 'Kitchen Craft - Papelera a Pedal para Compost  3 L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004VQXPK6/?tag=tolees-21'
 descuento: '33.73'
 average: '14.52'

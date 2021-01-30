@@ -16,6 +16,7 @@ comparePrice: 149.95 EUR
 prodname: 'Salomon Speedcross 4 GTX W  Zapatillas de Trail Running para Mujer  Negro  Black/Black/Metallic Bubble Blue   41 1/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B017SQUBUM/?tag=tolees-21'
 descuento: '27.32'
 average: '87.13285714285713'

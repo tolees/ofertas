@@ -16,6 +16,7 @@ comparePrice: 145.99 EUR
 prodname: 'Raclette con Piedra Natural Antiadherente  Mango Térmico Aislado  8 Sartenes para 8 Personas  1300W  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N3WD1HT/?tag=tolees-21'
 descuento: '58.91'
 average: '59.99'

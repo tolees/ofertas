@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Columbia Snuggly Bunny Mono de esquí Infantil  Bebé-Niños  Azul  Pine Green Critter Block 462   18-24m'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K6JXJ4K/?tag=tolees-21'
 descuento: '43.34'
 average: '35.24'

@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Philips Everplay BT3900B - Altavoz Bluetooth  Potente y portátil  Resistente al Agua  con micrófono  Correa USB  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06Y14NR9W/?tag=tolees-21'
 descuento: '52.86'
 average: '30.70428571428571'

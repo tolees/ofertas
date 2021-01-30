@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'Bolsas de Aseo  RUISIKIOU 3 Sets Bolsa de Viaje de PVC Artículos de Aseo Kit de Maquillaje cosmético Cartera Transparente pequeña para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JYCH5HS/?tag=tolees-21'
 descuento: '33.36'
 average: '7.99'

@@ -16,6 +16,7 @@ comparePrice: 16.7 EUR
 prodname: 'Pop! Vinilo: NSYNC: Chris Kirkpatrick'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N5TV7QB/?tag=tolees-21'
 descuento: '40.12'
 average: '5.592499999999999'

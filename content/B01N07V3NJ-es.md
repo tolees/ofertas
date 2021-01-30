@@ -16,6 +16,7 @@ comparePrice: 42.0 EUR
 prodname: 'BabyVip - Body para niña  Estilo Abotonado  100% algodón  algodón cálido  Ideal para el Invierno - Rosa - 3-6 Meses'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N07V3NJ/?tag=tolees-21'
 descuento: '37.62'
 average: '25.733333333333334'

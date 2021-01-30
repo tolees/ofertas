@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'Organizador de escritorio multifuncional con tableta de escritura LCD para bolígrafo/tarjeta de visita/teléfono móvil'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DDDYQ6K/?tag=tolees-21'
 descuento: '25.94'
 average: '19.99'

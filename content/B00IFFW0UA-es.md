@@ -16,6 +16,7 @@ comparePrice: 41.13 EUR
 prodname: 'dcasa - Mesa cuadrado plegable blanca 48x48x65 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00IFFW0UA/?tag=tolees-21'
 descuento: '27.30'
 average: '30.924999999999997'

@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'Buff R-Solid Gorra One Touch  Unisex Adulto  Black  Talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KGGV6MG/?tag=tolees-21'
 descuento: '72.68'
 average: '9.55'

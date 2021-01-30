@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'JVC HA-SR185-B-E - Auriculares de diadema  con controlador de llamada '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NU8K9PU/?tag=tolees-21'
 descuento: '35.77'
 average: '15.363999999999999'

@@ -16,6 +16,7 @@ comparePrice: 139.0 EUR
 prodname: 'Festina Reloj Análogo clásico para Mujer de Cuarzo con Correa en Cuero F20254/2'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M5L3RJC/?tag=tolees-21'
 descuento: '50.36'
 average: '67.17'

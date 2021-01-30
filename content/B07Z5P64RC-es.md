@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'LIGE Relojes Hombre Acero Inoxidable Impermeable Deportes Analógico Cuarzo Reloj Negocios Cronógrafo Relojes Hombre  Steel Green '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z5P64RC/?tag=tolees-21'
 descuento: '74.62'
 average: '32.99'

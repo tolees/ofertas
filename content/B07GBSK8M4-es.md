@@ -16,6 +16,7 @@ comparePrice: 8.89 EUR
 prodname: 'HpyAlwys - Organizador Universal de Piel para Guardar Llaves de Dinero y Dinero en Coche'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GBSK8M4/?tag=tolees-21'
 descuento: '62.43'
 average: '3.34'

@@ -16,6 +16,7 @@ comparePrice: 909.0 EUR
 prodname: 'Samsung Galaxy S10 - Smartphone de 6.1”  Dual SIM  128 GB  Verde  Prism Green '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDWH2W1/?tag=tolees-21'
 descuento: '28.71'
 average: '648.0'

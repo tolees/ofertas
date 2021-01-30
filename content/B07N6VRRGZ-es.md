@@ -16,6 +16,7 @@ comparePrice: 134.9 EUR
 prodname: 'Tommy Hilfiger Core Leather Lace Up Shoe  Mocasines para Hombre  Marrón  Natural Cognac Gtu   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N6VRRGZ/?tag=tolees-21'
 descuento: '44.01'
 average: '75.53'

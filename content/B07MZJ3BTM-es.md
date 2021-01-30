@@ -16,6 +16,7 @@ comparePrice: 44.9 EUR
 prodname: 'Superdry State Volley Swim SHO Bañador  Nero  Black 02a   XL para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZJ3BTM/?tag=tolees-21'
 descuento: '46.57'
 average: '23.99'

@@ -16,6 +16,7 @@ comparePrice: 140.0 EUR
 prodname: 'Asics Gel Quantum 180 5 Sr  Zapatillas de Running para Hombre  Negro  Black/Black   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081BGPJ15/?tag=tolees-21'
 descuento: '67.29'
 average: '71.88'

@@ -16,6 +16,7 @@ comparePrice: 423.99 EUR
 prodname: 'Kingston SUV500/1920G - Unidad de Disco Duro SSD  1920 GB  SATA3  2.5"'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D6NW8SN/?tag=tolees-21'
 descuento: '41.85'
 average: '274.27'

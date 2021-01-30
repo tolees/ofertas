@@ -16,6 +16,7 @@ comparePrice: 13.94 EUR
 prodname: 'Vichy Pureté Thermale Desmaquillante Integral 3 en 1 Piel Sensible - 450 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000V3ME6Y/?tag=tolees-21'
 descuento: '44.05'
 average: '7.8'

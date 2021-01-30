@@ -16,6 +16,7 @@ comparePrice: 66 EUR
 prodname: 'Nike Renew Lucent  GS   Zapatillas Unisex Niños  Negro  Black/Volt/Pure Platinum/Dark 105   35.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VR1H23C/?tag=tolees-21'
 descuento: '40.98'
 average: '38.95'

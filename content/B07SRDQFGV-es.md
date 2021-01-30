@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'non-brand Hablando Caminando Interactivo Animales Peluches y Figuras Juguete - Burro 13x18x24cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SRDQFGV/?tag=tolees-21'
 descuento: '33.35'
 average: '13.99'

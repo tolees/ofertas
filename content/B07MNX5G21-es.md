@@ -16,6 +16,7 @@ comparePrice: 119.95 EUR
 prodname: 'Palladium 75156 - Botas de Otra Piel Unisex Adulto  Marrón  Marrón  Carafe B26    37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MNX5G21/?tag=tolees-21'
 descuento: '82.40'
 average: '21.11'

@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'RE Anillo de Luz LED 6 Pulgadas con Soporte de Móvil Ajustable 360 Rotación  3 Colores Modos y 10 Brillos Niveles Aro de Luz para Movil Selfie o TikTok Youtube Video  Instagram Facebook o Maquillajes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BFT1Y9Q/?tag=tolees-21'
 descuento: '66.01'
 average: '16.99'

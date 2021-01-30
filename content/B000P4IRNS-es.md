@@ -16,6 +16,7 @@ comparePrice: 14.85 EUR
 prodname: 'Bosch 2607019510 - Set de bolsillo con 10 unidades para atornillar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000P4IRNS/?tag=tolees-21'
 descuento: '40.47'
 average: '8.84'

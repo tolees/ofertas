@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Trudi Muñeca Chiara Ferragni Limited Edition  S 69061'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P3DD31X/?tag=tolees-21'
 descuento: '58.30'
 average: '14.59'

@@ -16,6 +16,7 @@ comparePrice: 160.0 EUR
 prodname: 'Saucony Xodus ISO 3  Zapatillas de Trail Running para Mujer  Morado  Púrpura 37   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KK55KWY/?tag=tolees-21'
 descuento: '54.21'
 average: '73.27'

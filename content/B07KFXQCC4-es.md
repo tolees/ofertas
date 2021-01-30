@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'PUMA Smash Wns v2 L  Zapatillas para Mujer  White-Rhubarb  42.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KFXQCC4/?tag=tolees-21'
 descuento: '55.06'
 average: '22.45'

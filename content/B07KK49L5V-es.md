@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Columbia Redmond V2 Mid  Botas de Senderismo Impermeables para Mujer  Marrón  Mud  Lagoon 255   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KK49L5V/?tag=tolees-21'
 descuento: '71.02'
 average: '32.22333333333333'

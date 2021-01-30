@@ -16,6 +16,7 @@ comparePrice: 12.04 EUR
 prodname: 'Bosch barras de pegamento 2609256D29 7 mm Diámetro  30 barras'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00SJ8RVUM/?tag=tolees-21'
 descuento: '31.81'
 average: '8.21'

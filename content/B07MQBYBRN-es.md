@@ -16,6 +16,7 @@ comparePrice: 14.92 EUR
 prodname: 'Paladone 43AB882063 Taza 3D Super Mario Yoshi  330 milliliters  cerámica'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MQBYBRN/?tag=tolees-21'
 descuento: '28.42'
 average: '10.68'

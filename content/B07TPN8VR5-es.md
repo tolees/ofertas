@@ -16,6 +16,7 @@ comparePrice: 15.37 EUR
 prodname: 'Arena W V Back One Piece Bañador Deportivo Mujer Daydreamer  Black-Yellow Star  36'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TPN8VR5/?tag=tolees-21'
 descuento: '27.85'
 average: '11.09'

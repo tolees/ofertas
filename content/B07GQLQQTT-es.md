@@ -16,6 +16,7 @@ comparePrice: 3.92 EUR
 prodname: 'PUAK523 Luz LED Clip-on  Super Brillante Libro Lectura Luz con Cuello de Goseno Flexible Cuidado de Ojos Luz de Lectura Regulable para Escritorio  Cabecero de Cama  Ordenador  Negro  Tamaño Libre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GQLQQTT/?tag=tolees-21'
 descuento: '25.77'
 average: '3.27'

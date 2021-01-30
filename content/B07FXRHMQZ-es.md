@@ -16,6 +16,7 @@ comparePrice: 17.94 EUR
 prodname: 'NaturGreen Panela  Jugo de caña de azúcar cristalizado-  Pack de 6 unidades de 500 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FXRHMQZ/?tag=tolees-21'
 descuento: '43.87'
 average: '10.07'

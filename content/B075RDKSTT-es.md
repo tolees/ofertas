@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'DELSEY Paris TURENNE Maleta  75 cm  102 Liters  Beige'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075RDKSTT/?tag=tolees-21'
 descuento: '56.34'
 average: '130.54'

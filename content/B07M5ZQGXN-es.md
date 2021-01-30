@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'UniqueMe [3 Pack] Protector de Pantalla para Samsung Galaxy S10e  Piel Líquida Cobertura Total - Estuche fácil - Película Flexible Transparente HD con garantía de reemplazo de por Vida'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M5ZQGXN/?tag=tolees-21'
 descuento: '87.68'
 average: '1.97'

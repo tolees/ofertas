@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Juego de 5 piezas de para beber sake japonés. Pintadas a mano con un diseño de flores de cerezo  de porcelana de cerámica. Artesanía tradicional'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01J1TWSMS/?tag=tolees-21'
 descuento: '38.48'
 average: '15.99'

@@ -16,6 +16,7 @@ comparePrice: 109.95 EUR
 prodname: 'Palladium Pampa Hi Zip Pony  Botas Slouch para Mujer  Plateado  Black/Silver 051   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FTX5P2X/?tag=tolees-21'
 descuento: '53.37'
 average: '41.45666666666666'

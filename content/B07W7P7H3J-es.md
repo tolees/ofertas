@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Tapas de Silicona Elásticas DYROE  12 Tapas silicona ajustables cocina Sin BPA Reutilizable Fundas para Alimentos Tapa Tazas  Boles o Tarros  uso en Lavavajillas  Microondas  Horno o Refrigerador'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W7P7H3J/?tag=tolees-21'
 descuento: '29.38'
 average: '9.88'

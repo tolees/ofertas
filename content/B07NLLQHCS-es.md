@@ -16,6 +16,7 @@ comparePrice: 55.95 EUR
 prodname: 'Altavoz PORTATIL Recargable Karaoke MICROFONO Incluido Colores 25W Garantia  Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NLLQHCS/?tag=tolees-21'
 descuento: '37.53'
 average: '34.95'

@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Dookey Pintura Facial  Maquillaje al Agua  Pinturas Cara para Halloween/Fiestas/Cosplay  con 17 Colores  2 Purpurina  24 Formas de Plantilla  ect...'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081RJ1P5G/?tag=tolees-21'
 descuento: '34.63'
 average: '16.99'

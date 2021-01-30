@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'NIKE W Nk PWR Studio Smlss Vnr Mallas  Mujer  Black/Thunder Grey  2XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NPC1PLQ/?tag=tolees-21'
 descuento: '70.36'
 average: '20.75'

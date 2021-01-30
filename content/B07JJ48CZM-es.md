@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'Paquete de 5 parches de lentejuelas bordados con diseño de unicornio para coser o planchar 5 Uicorn'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JJ48CZM/?tag=tolees-21'
 descuento: '33.37'
 average: '5.99'

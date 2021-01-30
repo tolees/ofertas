@@ -16,6 +16,7 @@ comparePrice: 33.5 EUR
 prodname: 'Philips Avent SCF152/01 - Pezonera para curar pezones invertidos o planos durante el embarazo  Niplette  incluye dos discos absorbentes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000WM7LGW/?tag=tolees-21'
 descuento: '43.28'
 average: '19.0'

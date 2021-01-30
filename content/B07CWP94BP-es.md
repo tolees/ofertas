@@ -16,6 +16,7 @@ comparePrice: 29.98 EUR
 prodname: 'Rizador de Pestañas Eléctrico  TOUCHBeauty Recargable Rizador de Pestañas con Calefacción  Rotativo Rizador de Pestañas Térmico para Maquillaje Herramientas de Rizado de Belleza AG-1218N'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CWP94BP/?tag=tolees-21'
 descuento: '33.36'
 average: '20.98'

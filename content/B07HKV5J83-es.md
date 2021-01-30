@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Under Armour UA W HOVR Rise  Zapatillas Deportivas para Interior para Mujer  Gris  Flint/White/Atlas Green  103  103   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HKV5J83/?tag=tolees-21'
 descuento: '56.41'
 average: '43.59'

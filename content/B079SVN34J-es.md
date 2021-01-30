@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Hurley U Renegade Ll Solid Duffle Bolsa  Hombre  Black  1SIZE'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079SVN34J/?tag=tolees-21'
 descuento: '69.58'
 average: '17.3'

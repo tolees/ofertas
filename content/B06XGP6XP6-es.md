@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Trollhunters Trollhunters-13695-PX-1SS Figura de Vinilo AAARRRGGHH  Color Verde  Gris  Funko 13695 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XGP6XP6/?tag=tolees-21'
 descuento: '33.36'
 average: '9.353333333333333'

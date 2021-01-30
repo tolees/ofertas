@@ -16,6 +16,7 @@ comparePrice: 140.0 EUR
 prodname: 'Asics Gel-Fujitrabuco 7  Zapatillas de Entrenamiento para Hombre  Azul  Blue Expanse/Electric Blue 400   40.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L33TPKG/?tag=tolees-21'
 descuento: '54.29'
 average: '81.485'

@@ -16,6 +16,7 @@ comparePrice: 40.99 EUR
 prodname: 'Philips Daily HD2637/90 - Tostador 950 W  Doble Ranura  Color Negro  Inox'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01J5FFW9Y/?tag=tolees-21'
 descuento: '34.37'
 average: '27.959999999999997'

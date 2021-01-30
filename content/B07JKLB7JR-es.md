@@ -16,6 +16,7 @@ comparePrice: 30.99 EUR
 prodname: 'Bateria Externa Movil 25000mAh Power Bank Cargador Portátil Móvil de Alta Capacidad con 2 Salidas USB 2.1A/1A Entrada 2A y LED Linterna 4 Indicadores LED para iPhone Huawei Tablets y Más Dispositivos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JKLB7JR/?tag=tolees-21'
 descuento: '38.72'
 average: '19.32333333333333'

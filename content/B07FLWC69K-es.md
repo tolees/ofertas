@@ -16,6 +16,7 @@ comparePrice: 29.97 EUR
 prodname: 'KLIM - Alfombrilla de ratón XL - Superficie Amplia - Alfombrilla de ratón Gaming Extra Grande - Base de Goma Antideslizante - Superficie con Textura de Alta precisión - 900 x 400 x 4 mm - Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FLWC69K/?tag=tolees-21'
 descuento: '50.05'
 average: '17.97'

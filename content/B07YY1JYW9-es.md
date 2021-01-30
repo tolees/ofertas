@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'BRIKSMAX Kit de Iluminación Led para Lego Creator Casa Modular Moderna Compatible con Ladrillos de Construcción Lego Modelo 31068  Juego de Legos no Incluido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YY1JYW9/?tag=tolees-21'
 descuento: '68.58'
 average: '21.99'

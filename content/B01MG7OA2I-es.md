@@ -16,6 +16,7 @@ comparePrice: 159.0 EUR
 prodname: 'Carl Victor - Sartén Honda de Hierro Fundido con Mango de Madera y tapadera de Hierro Fundido  25 cm  Apta para inducción  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MG7OA2I/?tag=tolees-21'
 descuento: '31.45'
 average: '109.0'

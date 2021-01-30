@@ -16,6 +16,7 @@ comparePrice: 12.74 EUR
 prodname: 'Cattier Leche desmaquilladora Caresse d Herboriste - 200 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001EPO8VW/?tag=tolees-21'
 descuento: '54.16'
 average: '6.726666666666667'

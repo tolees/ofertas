@@ -16,6 +16,7 @@ comparePrice: 84.99 EUR
 prodname: 'Trust Gaming GXT 764 - Refrigerador líquido para CPU  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F7XXLWG/?tag=tolees-21'
 descuento: '41.18'
 average: '49.99'

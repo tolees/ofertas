@@ -16,6 +16,7 @@ comparePrice: 2.66 EUR
 prodname: 'YAZILIND Hoja diseño Ancho Brazalete Pulsera Mujer Oro Joyas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00LIZ9N90/?tag=tolees-21'
 descuento: '65.04'
 average: '0.93'

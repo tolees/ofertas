@@ -16,6 +16,7 @@ comparePrice: 4.39 EUR
 prodname: 'Chasen Bambú Herramienta Batidor de Polvo Matcha Té Japonés Accesorio Ceremonia - 60-70'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01KO0FXK2/?tag=tolees-21'
 descuento: '37.13'
 average: '2.76'

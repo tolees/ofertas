@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'ZJchao - Incubadoras lámpara LED  Incubadora de huevos con comprobador de fertilización de huevos de codorniz con enchufe europeo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MXM01FQ/?tag=tolees-21'
 descuento: '52.66'
 average: '8.99'

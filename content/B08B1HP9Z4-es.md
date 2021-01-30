@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Auriculares Bluetooth 5.0 Inalámbricos TWS i12 Touch Control y Pop-Up Conexión Emergente Sonido Estéreo 3D con IPX7 Waterproof Emparejamiento Automático para Juegos Trabajo y Deportes Viaje'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08B1HP9Z4/?tag=tolees-21'
 descuento: '57.51'
 average: '33.99'

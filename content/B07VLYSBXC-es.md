@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'DC Shoes Court Graffik  Zapatillas de Skateboard para Niños  Azul  Navy/Gum Ngm   34 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VLYSBXC/?tag=tolees-21'
 descuento: '38.02'
 average: '30.49'

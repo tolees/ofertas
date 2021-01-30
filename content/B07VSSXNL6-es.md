@@ -16,6 +16,7 @@ comparePrice: 121.9 EUR
 prodname: 'Moonssy EMS Electroestimulador Gluteos - EMS Hips Trainer Entrenador de Cadera Hip para la Cadera Mujer Inteligente Hip Instructor Muscular'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VSSXNL6/?tag=tolees-21'
 descuento: '82.03'
 average: '71.9'

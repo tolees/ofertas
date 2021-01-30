@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Casals VDSLI36AC - Atornillador plegable con batería de litio de 3.6 V  1 3 A-h  180 rpm  3 N-m  con maletín  color verde y negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FH9QMYG/?tag=tolees-21'
 descuento: '42.00'
 average: '19.68'

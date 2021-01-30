@@ -16,6 +16,7 @@ comparePrice: 1.5 EUR
 prodname: 'Pegatinas de pared de imitación de ladrillo tridimensional Arte de sala de estar en el pasillo extraíble Adecuado para el dormitorio y la sala de estar - Blanco300x600mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PLKCRP6/?tag=tolees-21'
 descuento: '32.00'
 average: '1.02'

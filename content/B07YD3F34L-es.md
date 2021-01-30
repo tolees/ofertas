@@ -16,6 +16,7 @@ comparePrice: 2.19 EUR
 prodname: 'Alfombrilla de ratón EVA con reposamuñecas para computadora portátil Alfombrilla de ratón con Teclado Resto de Manos Juego de Almohadilla de ratón con Soporte para la muñeca - Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YD3F34L/?tag=tolees-21'
 descuento: '45.66'
 average: '1.19'

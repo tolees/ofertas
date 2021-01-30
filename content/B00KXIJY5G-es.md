@@ -16,6 +16,7 @@ comparePrice: 33.0 EUR
 prodname: 'Under Armour UA RAID 8 SHORT Pantalones Cortos Deportivos  Hombre  Gris  Carbon Heather   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KXIJY5G/?tag=tolees-21'
 descuento: '48.52'
 average: '21.226666666666667'

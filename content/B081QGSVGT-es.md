@@ -16,6 +16,7 @@ comparePrice: 22.9 EUR
 prodname: 'Neutrogena Cellular Boost Anti-Edad  Contorno De Ojos Anti-Arrugas Rejuvenecedor con Ácido Hialurónico y Retinol 1 Unidad 15 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081QGSVGT/?tag=tolees-21'
 descuento: '30.17'
 average: '15.99'

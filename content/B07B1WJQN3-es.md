@@ -16,6 +16,7 @@ comparePrice: 149.95 EUR
 prodname: 'POC Essential Road Bib Shorts  Hombre  Uranium Black  XSM'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B1WJQN3/?tag=tolees-21'
 descuento: '59.47'
 average: '60.78'

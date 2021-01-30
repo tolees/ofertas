@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Victoria Safari Serraje Velcro  Zapatillas con Velcro Unisex Niños  Gris  Pizarra   33 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00L48ZUX4/?tag=tolees-21'
 descuento: '54.44'
 average: '20.5'

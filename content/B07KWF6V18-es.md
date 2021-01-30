@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'Helly Hansen Tokyo Hoodie  Hombre  White  2XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KWF6V18/?tag=tolees-21'
 descuento: '56.43'
 average: '35.7'

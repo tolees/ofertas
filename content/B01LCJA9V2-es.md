@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Suntec Wellness RKO-9974 Thùy-Denise Hervidor de arroz  acero inoxidable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LCJA9V2/?tag=tolees-21'
 descuento: '49.58'
 average: '36.89666666666667'

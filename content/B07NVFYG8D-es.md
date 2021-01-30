@@ -16,6 +16,7 @@ comparePrice: 12.0 EUR
 prodname: 'Clarins 57697 Delineador Waterproof Ojos  N.03 Blue Orchid'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NVFYG8D/?tag=tolees-21'
 descuento: '25.83'
 average: '8.9'

@@ -16,6 +16,7 @@ comparePrice: 6.76 EUR
 prodname: 'Farmatint Gel 4N Castaño | Color natural y duradero | Componentes vegetales y aceites naturales | Sin amoníaco | Sin parabenos | Dermatológicamente testado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00TTWU49M/?tag=tolees-21'
 descuento: '33.73'
 average: '4.48'

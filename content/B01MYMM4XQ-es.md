@@ -16,6 +16,7 @@ comparePrice: 7.95 EUR
 prodname: 'L Oreal Paris Brow Artist Xpert Liner de Cejas Automático Rellena y Fija 107 Castaño Claro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MYMM4XQ/?tag=tolees-21'
 descuento: '26.29'
 average: '5.86'

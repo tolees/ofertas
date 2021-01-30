@@ -16,6 +16,7 @@ comparePrice: 43.99 EUR
 prodname: 'Remington Power Series PR1330 - Máquina de Afeitar Rotativa  Cuchillas Acero Precisión  Cortapatillas  Negro  Uso en Seco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N7XT5GT/?tag=tolees-21'
 descuento: '32.03'
 average: '31.19333333333333'

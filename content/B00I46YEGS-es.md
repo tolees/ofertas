@@ -16,6 +16,7 @@ comparePrice: 97.0 EUR
 prodname: 'Delta Dore 6053005 Termostato Programab Tybox 117  Blanco  Talla Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00I46YEGS/?tag=tolees-21'
 descuento: '49.20'
 average: '49.28'

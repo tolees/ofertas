@@ -16,6 +16,7 @@ comparePrice: 24.08 EUR
 prodname: 'Panamami NVME M2 a USB3.1 M2 a USB3.0 Unidad de Disco Duro M.2 NVME SSD a Adaptador USB con Alto Rendimiento 10Gbps USB3.1 Gen 2 Bridge Chip/Multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083VXWQ1S/?tag=tolees-21'
 descuento: '35.01'
 average: '15.65'

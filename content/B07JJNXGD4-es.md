@@ -16,6 +16,7 @@ comparePrice: 139.99 EUR
 prodname: 'Columbia Caldorado III Outdry  Zapatillas de Running para Asfalto para Mujer  Gris  Graphite  Crown 053   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JJNXGD4/?tag=tolees-21'
 descuento: '62.62'
 average: '52.33'

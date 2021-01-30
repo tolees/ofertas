@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Vans Y Atwood  Palms  c  Zapatillas Unisex Niños  Rojo  Canvas Oxblood/Black   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00K5OCTYG/?tag=tolees-21'
 descuento: '55.56'
 average: '25.81'

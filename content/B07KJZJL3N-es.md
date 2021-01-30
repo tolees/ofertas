@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'Sorel Glacy Explorer Shortie  Botas para Mujer  Gris  Quarry 054   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KJZJL3N/?tag=tolees-21'
 descuento: '30.00'
 average: '119.99666666666667'

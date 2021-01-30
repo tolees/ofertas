@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Lip Smacker Coca Cola Lip Gloss  paquete de 6   sabores variados'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005YWEMQM/?tag=tolees-21'
 descuento: '27.48'
 average: '9.42'

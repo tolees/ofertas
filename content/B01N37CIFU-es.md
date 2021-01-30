@@ -16,6 +16,7 @@ comparePrice: 30.6 EUR
 prodname: 'Redken Extreme Mask 200 Ml 1 Unidad 200 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N37CIFU/?tag=tolees-21'
 descuento: '62.19'
 average: '16.036666666666665'

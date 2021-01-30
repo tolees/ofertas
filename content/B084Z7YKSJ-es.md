@@ -16,6 +16,7 @@ comparePrice: 5.85 EUR
 prodname: 'Para Oral Para Braun Cepillo de dientes eléctrico universal Base de la cabeza Cepillo de dientes eléctrico Soporte del cargador Base de diente  Blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084Z7YKSJ/?tag=tolees-21'
 descuento: '35.04'
 average: '3.8'

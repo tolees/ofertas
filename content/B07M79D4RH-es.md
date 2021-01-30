@@ -16,6 +16,7 @@ comparePrice: 279.0 EUR
 prodname: 'Fossil Reloj de Bolsillo Digital FTW4019'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M79D4RH/?tag=tolees-21'
 descuento: '46.45'
 average: '155.625'

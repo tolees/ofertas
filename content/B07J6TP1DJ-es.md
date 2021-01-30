@@ -16,6 +16,7 @@ comparePrice: 1099.0 EUR
 prodname: 'MEDION ERAZER P6705 - Portátil gaming 15.6" FullHD  Intel Core i7-8750H  8GB RAM  1TB HDD + 128GB SSD  Nvidia GTX1050Ti-4GB  Windows 10  negro - Teclado QWERTY Español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J6TP1DJ/?tag=tolees-21'
 descuento: '39.95'
 average: '806.3266666666667'

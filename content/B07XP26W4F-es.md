@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'coskefy 6 Pares Calcetines Deportivos para Hombre y Mujer Calcetines Altos Algodon Transpirable Calcetin Deporte Running Antideslizantes  Negro 35-38 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XP26W4F/?tag=tolees-21'
 descuento: '30.01'
 average: '20.99'

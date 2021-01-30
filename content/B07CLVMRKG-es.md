@@ -16,6 +16,7 @@ comparePrice: 40.99 EUR
 prodname: 'Memorias USB 5 Piezas 16GB USB 2.0 Stick Flash Drive Pendrives Almacenamiento Datos por SIMMAX  16GB Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CLVMRKG/?tag=tolees-21'
 descuento: '53.67'
 average: '18.99'

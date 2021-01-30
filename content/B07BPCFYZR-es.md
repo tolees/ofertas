@@ -16,6 +16,7 @@ comparePrice: 42.78 EUR
 prodname: 'Cabello fuerte uñas y piel con BIOTIN + ZINC  ortiga  vitamina B5 B6 B7 B8  magnesio  L-cisteína  L-Cytin Cápsulas vegetales'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BPCFYZR/?tag=tolees-21'
 descuento: '42.10'
 average: '24.77'

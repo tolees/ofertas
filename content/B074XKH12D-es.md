@@ -16,6 +16,7 @@ comparePrice: 38.88 EUR
 prodname: 'Iberitos - 216 Monodosis de Humus Crema de Garbanzos - 22 Gramos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074XKH12D/?tag=tolees-21'
 descuento: '62.65'
 average: '14.52'

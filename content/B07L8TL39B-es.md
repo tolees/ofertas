@@ -16,6 +16,7 @@ comparePrice: 18.9 EUR
 prodname: 'RUNCCI-YUN potenciómetro 10k kit de potenciómetro rotativo de cono cónico  eje WH148 3Pin 15mm con tuerca y anillo de hierro y pinzas antiestáticas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L8TL39B/?tag=tolees-21'
 descuento: '55.03'
 average: '8.5'

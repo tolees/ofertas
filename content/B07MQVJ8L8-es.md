@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'Napapijri EISBERG Polo  Rojo  Red Scarlet R01   M para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MQVJ8L8/?tag=tolees-21'
 descuento: '64.74'
 average: '24.33'

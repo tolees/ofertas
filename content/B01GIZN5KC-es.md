@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'MAPUX Soporte Movil Coche Soporte para Móvil Coche para iPhone  Samsung  HUAWEI  OnePlus  Nexus  Sony  LG  HTC y Dispositivo GPS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GIZN5KC/?tag=tolees-21'
 descuento: '30.79'
 average: '8.99'

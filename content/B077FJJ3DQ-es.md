@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'New Balance MA33  Zapatillas Deportivas para Interior para Hombre  Negro  Black/Black Ab1   40.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077FJJ3DQ/?tag=tolees-21'
 descuento: '41.18'
 average: '35.29'

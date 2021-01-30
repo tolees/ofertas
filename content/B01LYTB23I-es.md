@@ -16,6 +16,7 @@ comparePrice: 19.5 EUR
 prodname: 'EUCERIN PH5 Skin Protection Bálsamo Nutritivo 450 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LYTB23I/?tag=tolees-21'
 descuento: '41.54'
 average: '11.4'

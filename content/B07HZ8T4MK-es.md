@@ -16,6 +16,7 @@ comparePrice: 18.49 EUR
 prodname: 'Amazon Essentials - Pantalones cargo para niño  Caqui  9-10 años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HZ8T4MK/?tag=tolees-21'
 descuento: '30.07'
 average: '12.93'

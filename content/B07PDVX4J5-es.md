@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Swatch Reloj Analógico para Unisex Adultos de Cuarzo con Correa en Silicona SVOL100'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PDVX4J5/?tag=tolees-21'
 descuento: '34.68'
 average: '62.05'

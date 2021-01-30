@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Hurley M DRI-FIT Breathe 19  Bermudas  Hombre  Negro  31'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076FHTW27/?tag=tolees-21'
 descuento: '48.24'
 average: '28.47'

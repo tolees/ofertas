@@ -16,6 +16,7 @@ comparePrice: 28.84 EUR
 prodname: 'BOIFUN Webcam 1080P con Micrófono para PC  Full HD Cámara Web USB 2.0 para Videoconferencia  Estudios  Conferencias  Grabación  Juegos  Plug and Play  con Clip Giratorio [Gestionado por Amazon]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088GPYH29/?tag=tolees-21'
 descuento: '30.69'
 average: '33.90666666666667'

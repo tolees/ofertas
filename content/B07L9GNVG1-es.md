@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'Under Armour Accelerate Off-Pitch Pant Pantalones  Hombre  Negro  Black/Black/Metallic Black 001   XXL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L9GNVG1/?tag=tolees-21'
 descuento: '80.19'
 average: '13.87'

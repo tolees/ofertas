@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Calvin Klein Essential Tipping Slim Polo  Negro  CK Black/White Bae   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V9ZNMF6/?tag=tolees-21'
 descuento: '60.00'
 average: '23.6'

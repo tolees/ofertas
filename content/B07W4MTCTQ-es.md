@@ -16,6 +16,7 @@ comparePrice: 35.39 EUR
 prodname: 'Lazmin Mini Kids Play Kitchen  Modern Red Kitchen Toy Kitchen Playset Diversión con Friends Kitchen Girls Boys Gift'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W4MTCTQ/?tag=tolees-21'
 descuento: '32.21'
 average: '23.99'

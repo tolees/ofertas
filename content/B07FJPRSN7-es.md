@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'WANFEI Pulsera Xiaomi Mi Band 3 Correa  Band 3 Correa de Metal Pulseras de Repuesto Correa de Recambio Brazalete Extensibles para Xiaomi Mi Band 3  No Sensor/No Host   Plata '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FJPRSN7/?tag=tolees-21'
 descuento: '47.39'
 average: '9.74'

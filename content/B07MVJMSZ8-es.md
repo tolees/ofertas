@@ -16,6 +16,7 @@ comparePrice: 42 EUR
 prodname: 'Napapijri Semiury 2 Gorro de Punto  Gris  Dark Grey Mel 197   Única  Talla del Fabricante: OS  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MVJMSZ8/?tag=tolees-21'
 descuento: '30.00'
 average: '29.4'

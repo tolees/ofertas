@@ -16,6 +16,7 @@ comparePrice: 149.0 EUR
 prodname: 'Dugena Reloj Analogico para Hombre de Cuarzo con Correa en Cuero 7000211'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01EOTCQ6S/?tag=tolees-21'
 descuento: '41.36'
 average: '86.71000000000001'

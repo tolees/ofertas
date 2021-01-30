@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'adidas VL Court 2.0  Zapatillas para Hombre  Azul  Collegiate Navy/Footwear White/Footwear White 0   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077VRXZG1/?tag=tolees-21'
 descuento: '39.09'
 average: '39.56'

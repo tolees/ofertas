@@ -16,6 +16,7 @@ comparePrice: 15.0 EUR
 prodname: 'Lagarto Suavizante Talco Concentrado 70 Lavados 1 5l - Paquete 6 Unidades 5900 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CHV4SZ5/?tag=tolees-21'
 descuento: '33.33'
 average: '10.0'

@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Crocs Classic Slipper  Zapatillas Bajas Unisex Adulto  Azul  Mineral Blue/Mineral Blue 4jz   42/43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K8XVC1M/?tag=tolees-21'
 descuento: '48.75'
 average: '15.37'

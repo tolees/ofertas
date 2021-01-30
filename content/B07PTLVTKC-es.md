@@ -16,6 +16,7 @@ comparePrice: 79.0 EUR
 prodname: 'Kipling - City Pack Mini  Mochilas Mujer  Multicolor  Camo Large   27x29x14 cm  B x H T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PTLVTKC/?tag=tolees-21'
 descuento: '65.85'
 average: '28.93'

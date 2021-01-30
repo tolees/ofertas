@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'UniqueMe [3 Pack Protector de Pantalla para Huawei Nova 5T  Vidrio Templado [ 9H Dureza ] HD Film Cristal Templado para Huawei Nova 5T'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0811YSNB1/?tag=tolees-21'
 descuento: '36.40'
 average: '6.99'

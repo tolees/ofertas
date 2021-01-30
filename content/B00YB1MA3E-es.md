@@ -16,6 +16,7 @@ comparePrice: 37.9 EUR
 prodname: 'Tommy Hilfiger Brief 3 Pack Premium Essentials Sujetador  Multicolor  Black/Grey Heather-EUR/White   Small  Pack de 3  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00YB1MA3E/?tag=tolees-21'
 descuento: '52.51'
 average: '25.963333333333335'

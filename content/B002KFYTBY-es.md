@@ -16,6 +16,7 @@ comparePrice: 145.7 EUR
 prodname: 'Lacor - 69082 - Licuadora De fruta + Batidor Inox 1.8 Litros'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002KFYTBY/?tag=tolees-21'
 descuento: '37.96'
 average: '90.39'

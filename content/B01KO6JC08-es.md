@@ -16,6 +16,7 @@ comparePrice: 169.0 EUR
 prodname: 'Vileda VR 101 - Robot aspirador y escoba para suelos duros y alfombras de pelo corto  2 programas de limpieza  sensores de desnivel  depósito de suciedad de 0 37 litros  65 decibles  color rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01KO6JC08/?tag=tolees-21'
 descuento: '52.69'
 average: '93.44666666666666'

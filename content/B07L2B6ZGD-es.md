@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Celio Jopry Pantalones  Azul  Navy Océano Navy Océano   W32  Talla del fabricante: 40  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L2B6ZGD/?tag=tolees-21'
 descuento: '30.18'
 average: '26.05666666666667'

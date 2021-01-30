@@ -16,6 +16,7 @@ comparePrice: 155.0 EUR
 prodname: 'American Tourister Flylife Equipaje de Mano 67 Centimeters 82.5 Gris  Sky Silver '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RR5DNTG/?tag=tolees-21'
 descuento: '50.00'
 average: '77.5'

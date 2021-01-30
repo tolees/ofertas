@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Women s Secret Bralettes 1 Deep Crop Top Corto  Negro  Negro 1   X-Large  Tamaño del Fabricante: XL  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TVTMHMW/?tag=tolees-21'
 descuento: '56.54'
 average: '10.86'

@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'GoolRC Compatible con Nintend Switch Joy-con Ring Fit Adventure Game Correa de Pierna Elástica Ajustable Sport Band Ring-con Grips Leg  El Producto no Contiene Juegos '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086PDWXR4/?tag=tolees-21'
 descuento: '28.35'
 average: '42.98'

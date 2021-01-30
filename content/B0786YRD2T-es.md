@@ -16,6 +16,7 @@ comparePrice: 27.65 EUR
 prodname: 'Puma Liga Small Bag Bag  Sin género  Puma Royal  UA'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0786YRD2T/?tag=tolees-21'
 descuento: '38.55'
 average: '15.656666666666666'

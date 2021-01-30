@@ -16,6 +16,7 @@ comparePrice: 14.38 EUR
 prodname: 'B Blesiya Reloj de Tiempo de Contador Cuenta Atrás con Pantalla LCD para Cocinero - Naranja'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T28L2CG/?tag=tolees-21'
 descuento: '44.44'
 average: '8.49'

@@ -16,6 +16,7 @@ comparePrice: 149.0 EUR
 prodname: 'Fossil Reloj Analogico para Hombre de Cuarzo con Correa en Acero Inoxidable FS5459'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CGN1LTF/?tag=tolees-21'
 descuento: '40.94'
 average: '88.0'

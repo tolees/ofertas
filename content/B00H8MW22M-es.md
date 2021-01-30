@@ -16,6 +16,7 @@ comparePrice: 7.29 EUR
 prodname: 'Disney Baby 80800726 - Taza antifugas punta suave  diseño Minnie  para 4-18 meses  color rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00H8MW22M/?tag=tolees-21'
 descuento: '58.98'
 average: '2.99'

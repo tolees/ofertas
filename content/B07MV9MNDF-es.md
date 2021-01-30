@@ -16,6 +16,7 @@ comparePrice: 29.0 EUR
 prodname: 'Kipling - Creativity L  Monederos Mujer  Gris  Night Grey   18.5x11x1.5 cm  B x H T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MV9MNDF/?tag=tolees-21'
 descuento: '28.55'
 average: '20.72'

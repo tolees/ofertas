@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Cloud Kids - Pantalones cortos para bebé o niña  de algodón suave blanco 12 Meses'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RW23K2W/?tag=tolees-21'
 descuento: '60.03'
 average: '7.99'

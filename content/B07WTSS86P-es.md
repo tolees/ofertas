@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'KIRIFLY Ramo de Flores Artificiales de Seda de peonía Falsa  decoración de Flores de plástico con claveles realistas para decoración de Bodas  centros de Mesa  2 Paquetes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WTSS86P/?tag=tolees-21'
 descuento: '38.78'
 average: '24.49'

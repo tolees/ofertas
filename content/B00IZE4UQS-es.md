@@ -16,6 +16,7 @@ comparePrice: 56.43 EUR
 prodname: 'Casio Reloj Analógico para Hombre de Cuarzo con Correa en Cuero MTP-1188PQ-7BEF'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00IZE4UQS/?tag=tolees-21'
 descuento: '45.19'
 average: '27.945'

@@ -16,6 +16,7 @@ comparePrice: 46.99 EUR
 prodname: 'SIMBR Soporte TV de Pared para 30"-85" Pantalla LED/LCD/Plasma y Curva Televisión Carga Máxima 80kg VESA Máxima 700x400mm Inclinable y Dobles Brazos Giratorios'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KK48VSY/?tag=tolees-21'
 descuento: '25.54'
 average: '34.99'

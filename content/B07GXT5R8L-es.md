@@ -16,6 +16,7 @@ comparePrice: 149.0 EUR
 prodname: 'NGS Wild Punk 1- Altavoz Bluetooth con Doble Subwoofer  Efecto de Luces  Varias potencias 700W y 1000W  con entradas SD  USB  AUX IN y Radio FM   300W '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GXT5R8L/?tag=tolees-21'
 descuento: '29.54'
 average: '122.271'

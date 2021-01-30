@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: '4 0L Humidificador Ultrasónica Bebé Silencioso  Boquilla 360° con Aromaterapia Difusor  Apagado Automático  para Hogar  Habitación para Bebés  Oficina  con Filtro  Fresco y Cálido - WaterFall'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NY2PFV5/?tag=tolees-21'
 descuento: '25.01'
 average: '34.99'

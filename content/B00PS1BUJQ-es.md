@@ -16,6 +16,7 @@ comparePrice: 73.9 EUR
 prodname: 'D-Link DHP-601AV  2x DHP-600AV   Kit PLC PowerLine AV2  1000 Mbps  Ethernet Gigabit  para Vídeo Streaming 4K '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00PS1BUJQ/?tag=tolees-21'
 descuento: '39.27'
 average: '32.415'

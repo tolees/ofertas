@@ -16,6 +16,7 @@ comparePrice: 46.99 EUR
 prodname: 'BGT Navaja de Bolsillo con Hoja de Acero  Herramientas tácticas con Mango de ébano Rojo  Herramienta múltiple EDC para Acampar y Caza de Supervivencia'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BGT4T9P/?tag=tolees-21'
 descuento: '61.72'
 average: '17.99'

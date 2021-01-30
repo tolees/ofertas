@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'JACK & JONES NOS Jcojonah Sweat Hood STS. Capucha  Marrón  Fudge Fudge   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RWD59LB/?tag=tolees-21'
 descuento: '58.34'
 average: '16.66'

@@ -16,6 +16,7 @@ comparePrice: 32.0 EUR
 prodname: 'ShyaWorld Decantador De Vino Oxigenador Aireador 1 8L. Botella Decantadora Escanciadora de Cristal Vidrio con Salida Antigoteo. Set de Regalo. Caja de Diseño Incluida.  Decantador '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08FJ672SG/?tag=tolees-21'
 descuento: '37.66'
 average: '19.95'

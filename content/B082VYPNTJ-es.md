@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: '2020 Auriculares inalámbricos Bluetooth actualizados con micrófono de Audio estéreo hasta 15 Horas de Juego Estuche portátil de Carga Deportiva  WH-24 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082VYPNTJ/?tag=tolees-21'
 descuento: '39.40'
 average: '59.99'

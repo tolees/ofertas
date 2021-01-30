@@ -16,6 +16,7 @@ comparePrice: 9.0 EUR
 prodname: '2pcs 1 M 3 3 pies BNC a RCA Cable de vídeo Conector para CCTV cámara de DVR a TV'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B017R6XXFS/?tag=tolees-21'
 descuento: '25.11'
 average: '6.74'

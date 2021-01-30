@@ -16,6 +16,7 @@ comparePrice: 9 EUR
 prodname: 'Finocam 623531020  Agenda  Tamaño Único  Multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TGWW1K4/?tag=tolees-21'
 descuento: '30.00'
 average: '6.3'

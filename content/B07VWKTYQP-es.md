@@ -16,6 +16,7 @@ comparePrice: 69.9 EUR
 prodname: 'SkinXmed Crema Glúteos y Muslos | Reafirmante + Remodeladora | Tonificante e Hidratante | PUSH-UP nalgas | ayuda piernas cansadas | piel firme sin ESTRÍAS | Kigelia Africana  lipopéptidos |100ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VWKTYQP/?tag=tolees-21'
 descuento: '28.61'
 average: '49.9'

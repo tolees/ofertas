@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Luchild Almohada Embarazada Multifuncional  Cojín Lactancia Bebé  Cama Nido Bebé  Protector Cuna，Fundas 100% Algodón  Relleno 100% Poliéster Lavable Hipoalergénico'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082SFDZ51/?tag=tolees-21'
 descuento: '34.01'
 average: '32.99'

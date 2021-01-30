@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'BRIKSMAX Kit de Iluminación Led para Harry Potter Cabaña de Hagrid Rescate de Buckbeak Compatible con Ladrillos de Construcción Lego Modelo 75947  Juego de Legos no Incluido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XCJP51J/?tag=tolees-21'
 descuento: '77.01'
 average: '22.99'

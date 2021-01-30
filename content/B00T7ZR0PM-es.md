@@ -16,6 +16,7 @@ comparePrice: 45.5 EUR
 prodname: 'Shock Absorber Active Multi Sports  Sujetador Deportivo Para Mujer  Gris  Dark Grey   85D EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00T7ZR0PM/?tag=tolees-21'
 descuento: '30.04'
 average: '31.83'

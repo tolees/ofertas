@@ -16,6 +16,7 @@ comparePrice: 12.55 EUR
 prodname: 'Dek Kids - Zapatillas Unisex de tela blanca con cordones para niños/jóvenes  25 EU/Blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01AN50IAS/?tag=tolees-21'
 descuento: '38.65'
 average: '7.7'

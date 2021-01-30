@@ -16,6 +16,7 @@ comparePrice: 19.5 EUR
 prodname: 'Reishi Neo Defensas  Complemento Alimenticio  30 Cápsulas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0728DCBGS/?tag=tolees-21'
 descuento: '26.92'
 average: '14.25'

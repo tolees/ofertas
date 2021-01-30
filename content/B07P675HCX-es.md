@@ -16,6 +16,7 @@ comparePrice: 67.62 EUR
 prodname: 'Loewe Solo Edt Vapo 125 ml - 125 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P675HCX/?tag=tolees-21'
 descuento: '49.01'
 average: '34.48'

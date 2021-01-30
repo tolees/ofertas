@@ -16,6 +16,7 @@ comparePrice: 140.0 EUR
 prodname: 'Asics Gt-2000 7  Zapatillas de Running para Hombre  Negro  Black/White 001   43.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J9R5JX3/?tag=tolees-21'
 descuento: '47.86'
 average: '72.99'

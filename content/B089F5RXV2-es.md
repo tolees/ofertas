@@ -16,6 +16,7 @@ comparePrice: 16.88 EUR
 prodname: 'Wudi 50pcs Funda Protectora  Gancho para la Oreja Transpirable Adecuado para Exteriores  Escuela  supermercado  Aeropuerto  Rosa '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089F5RXV2/?tag=tolees-21'
 descuento: '34.42'
 average: '11.07'

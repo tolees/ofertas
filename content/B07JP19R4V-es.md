@@ -16,6 +16,7 @@ comparePrice: 84.0 EUR
 prodname: 'Barra Lateral de Seguridad de la Cama Plegable Guardia Lateral para Personas Mayores  los Adultos ayudan a Manejar la Barra para discapacitados Barandilla de Metal Hospital Barra de Parachoques'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JP19R4V/?tag=tolees-21'
 descuento: '29.76'
 average: '59.0'

@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'FOHYLOY Eléctrica 3 en 1 Depiladora Cortapelos Recortador de Vello Nariz / Orejas / Ceja Maquinilla de Brows Afeita Reemplazable para Hombre y Mujer Como se ve en la TV'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GJL45FQ/?tag=tolees-21'
 descuento: '45.85'
 average: '13.49'

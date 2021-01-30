@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'Péptidos Colágeno Marino de Peces Salvajes del Atlántico Norte  No de Acuicultura  – Proteína de Colágeno en Polvo para Articulaciones  Huesos  Piel  Cabello – Colágeno Hidrolizado  Hecho en Canadá '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BR8TMTD/?tag=tolees-21'
 descuento: '30.08'
 average: '13.95'

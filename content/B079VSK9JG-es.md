@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'The Lost Child'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079VSK9JG/?tag=tolees-21'
 descuento: '54.85'
 average: '20.538571428571426'

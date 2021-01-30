@@ -16,6 +16,7 @@ comparePrice: 117.54 EUR
 prodname: 'Elten 2062237 - Luis s3 tamaño 49 zapato de seguridad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B014RD18XI/?tag=tolees-21'
 descuento: '86.23'
 average: '16.19'

@@ -16,6 +16,7 @@ comparePrice: 154.99 EUR
 prodname: 'Asics Gel-Fujitrabuco 7 M G-TX 1011a209  Zapatillas de Running para Hombre  Rojo  Red 1011a209/600   46.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K74K6TX/?tag=tolees-21'
 descuento: '36.18'
 average: '98.91'

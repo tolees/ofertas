@@ -16,6 +16,7 @@ comparePrice: 87.78 EUR
 prodname: 'Craft Creator Soporte de Vasos de chupito de Marca de Cuerno de búfalo: Juego de 6 Vasos de chupito de asta de 57 ml  2 onzas  con Soporte de Madera Premium Personalizada para sostener los Vasos.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VJ5TZBY/?tag=tolees-21'
 descuento: '72.73'
 average: '23.94'

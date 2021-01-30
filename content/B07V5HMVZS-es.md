@@ -16,6 +16,7 @@ comparePrice: 12.95 EUR
 prodname: 'HUGO 2p Stripe Cc Calcetines  Azul  Dark Blue 401   35/38  Talla del fabricante: 35-38   Pack de 2  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V5HMVZS/?tag=tolees-21'
 descuento: '41.08'
 average: '7.63'

@@ -16,6 +16,7 @@ comparePrice: 1.88 EUR
 prodname: 'NANOCABLE 10.20.0103-BL - Cable de Red Ethernet RJ45 Cat.5e UTP AWG24  Azul  latiguillo de 3mts'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00CI2WUVK/?tag=tolees-21'
 descuento: '32.45'
 average: '1.27'

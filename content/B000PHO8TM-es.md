@@ -16,6 +16,7 @@ comparePrice: 276.99 EUR
 prodname: 'HP C9464A - Cartucho de tinta  775 ml  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000PHO8TM/?tag=tolees-21'
 descuento: '34.31'
 average: '181.95'

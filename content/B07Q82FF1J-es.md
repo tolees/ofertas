@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'ABOX Plancha de Vapor para Viaje  4 en 1 Modo de Vapor y Modo Seco de 1300W  Base de Cerámica Antiquemadura  Caliente en 30 Segundos  Bolsa de Transporte Portátil para Uso en Viaje y Hogar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q82FF1J/?tag=tolees-21'
 descuento: '40.01'
 average: '30.850000000000005'

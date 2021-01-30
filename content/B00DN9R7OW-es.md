@@ -16,6 +16,7 @@ comparePrice: 1.95 EUR
 prodname: 'HiPP Biológico Tarrito Manzana y Plátano con Galletas - 250 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00DN9R7OW/?tag=tolees-21'
 descuento: '48.72'
 average: '1.0'

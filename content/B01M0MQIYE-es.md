@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'Waldhausen Fliegenmaske Premium ohne Ohren- mit Nasenschutz'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M0MQIYE/?tag=tolees-21'
 descuento: '49.90'
 average: '12.5'

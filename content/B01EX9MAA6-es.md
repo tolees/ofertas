@@ -16,6 +16,7 @@ comparePrice: 49.17 EUR
 prodname: 'LEDKIA LIGHTING Lámpara Colgante Jagger Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01EX9MAA6/?tag=tolees-21'
 descuento: '27.13'
 average: '35.83'

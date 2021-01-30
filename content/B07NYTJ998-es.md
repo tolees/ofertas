@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Skechers Metco  Botas Clasicas para Hombre  Marrón  Brown Leather W/Mesh BR OL   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NYTJ998/?tag=tolees-21'
 descuento: '52.77'
 average: '37.76'

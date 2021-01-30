@@ -16,6 +16,7 @@ comparePrice: 399.0 EUR
 prodname: 'Denon D-M41 Home audio mini system 60W Negro  Plata - Microcadena  Home audio mini system  Plata  60 W  De 2 vías  12 cm  2 5 cm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074KLJQR9/?tag=tolees-21'
 descuento: '25.56'
 average: '297.0'

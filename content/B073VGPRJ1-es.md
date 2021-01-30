@@ -16,6 +16,7 @@ comparePrice: 22.9 EUR
 prodname: 'Lebze Muselinas Manta Bebé  Algodón Bambú 120x120 Muselina "Diente de Oso" Bambú Manta Bebé Chica o Baby Boy Mantas Swaddle'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073VGPRJ1/?tag=tolees-21'
 descuento: '39.30'
 average: '13.9'

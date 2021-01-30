@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'upHere PWM Ventilador PC 120mm 5V ARGB LED Ventilador para Ordenador apoyar el ASUS Aura Sync/GIGABYTE ARGB Fusion/MSI Mystic Light Sync/AsRock Polychrome Sync Paquete de 3 T7SYC7-3 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MMFCNS5/?tag=tolees-21'
 descuento: '40.91'
 average: '23.63'

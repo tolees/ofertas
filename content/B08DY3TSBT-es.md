@@ -16,6 +16,7 @@ comparePrice: 151.14 EUR
 prodname: 'Unknow 16 sq ft rojoParque Juegos Bebe con Malla Transpirable 6 Piezas Cunas Portatiles Bebe para Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08DY3TSBT/?tag=tolees-21'
 descuento: '42.18'
 average: '87.39'

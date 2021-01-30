@@ -16,6 +16,7 @@ comparePrice: 141.1 EUR
 prodname: 'Caterpillar Colorado  Botas para Hombre  Negro  Black P714010   49 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0058QTMD2/?tag=tolees-21'
 descuento: '83.13'
 average: '32.195'

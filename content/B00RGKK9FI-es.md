@@ -16,6 +16,7 @@ comparePrice: 48.4 EUR
 prodname: 'Bosch Professional - Bolsa para herramrientas  talla Medium  48x30x28 cm  azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00RGKK9FI/?tag=tolees-21'
 descuento: '27.07'
 average: '28.794999999999998'

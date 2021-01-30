@@ -16,6 +16,7 @@ comparePrice: 49.0 EUR
 prodname: 'Superga 2750 Jvel Classic Zapatillas Unisex Niños  Blanco  White   37 EU  4 UK '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002VPDN42/?tag=tolees-21'
 descuento: '42.59'
 average: '28.475'

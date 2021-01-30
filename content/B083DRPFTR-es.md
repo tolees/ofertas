@@ -16,6 +16,7 @@ comparePrice: 80.99 EUR
 prodname: 'estante Gourmet Kitchen Rail con ganchos Montado en la pared Soporte de utensilios para colgar en acero inoxidable Rack con plata para baño Dormitorio Sala de estar 50 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083DRPFTR/?tag=tolees-21'
 descuento: '33.34'
 average: '53.99'

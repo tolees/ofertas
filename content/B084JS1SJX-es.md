@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'REFRESH - Sandalia Plana BIOS Casual - Color Camel - Talla 39'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084JS1SJX/?tag=tolees-21'
 descuento: '30.05'
 average: '20.95'

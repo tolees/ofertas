@@ -16,6 +16,7 @@ comparePrice: 10.32 EUR
 prodname: 'Longspeed Universal 360 Degree Car Auto Mount Sticky Magnetic Soporte para teléfono móvil Soporte para teléfonos Inteligentes Accesorios - Negro + Plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08F566XXQ/?tag=tolees-21'
 descuento: '33.53'
 average: '6.86'

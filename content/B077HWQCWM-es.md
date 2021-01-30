@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'FM London Vest Top and Leggings Conjunto Ropa Deportiva  Negro  Black   única  Talla del Fabricante: 8-14  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077HWQCWM/?tag=tolees-21'
 descuento: '50.03'
 average: '9.99'

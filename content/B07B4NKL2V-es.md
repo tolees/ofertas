@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Passionata Georgia Sujetador con Aros  Negro  Schwarz 11   95D  Talla del Fabricante: 80D  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B4NKL2V/?tag=tolees-21'
 descuento: '42.03'
 average: '20.215'

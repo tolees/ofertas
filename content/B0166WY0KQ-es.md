@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'LEVIS FOOTWEAR AND ACCESSORIES Alturas - Cinturón Hombre  Negro  BLACK   80 cm  Talla del fabricante: 80 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0166WY0KQ/?tag=tolees-21'
 descuento: '30.12'
 average: '27.95'

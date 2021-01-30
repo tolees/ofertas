@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Levi s Oversized Batwing Beanie Gorro de Punto  Azul  Navy Blue 17   Talla única  Talla del Fabricante: UN  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BR6DH3X/?tag=tolees-21'
 descuento: '56.69'
 average: '15.495000000000001'

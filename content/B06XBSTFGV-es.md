@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: '8 pcs máscara encaje negro de KAKOO de modo diferente suave para bar  fiesta  party'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XBSTFGV/?tag=tolees-21'
 descuento: '52.53'
 average: '9.49'

@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Krafft - Auto-Arranque 210 Ml 12604'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00CWKGKP0/?tag=tolees-21'
 descuento: '44.04'
 average: '5.59'

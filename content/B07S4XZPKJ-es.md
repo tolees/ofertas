@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'New Balance 500 h  Zapatillas para Hombre  Azul  Blue TSB   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S4XZPKJ/?tag=tolees-21'
 descuento: '41.03'
 average: '44.23'

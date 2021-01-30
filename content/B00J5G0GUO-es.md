@@ -16,6 +16,7 @@ comparePrice: 5.75 EUR
 prodname: 'Isdin Bexident Encías Uso Diario Pasta Dentrífica  Previene el sangrado y la inflamación por gingivitis  Higiene bucal diaria 1 x 75 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00J5G0GUO/?tag=tolees-21'
 descuento: '30.61'
 average: '4.343333333333333'

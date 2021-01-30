@@ -16,6 +16,7 @@ comparePrice: 82.14 EUR
 prodname: 'Saucony Jazz Original Vintage  Zapatillas de Cross Unisex Adulto  Negro  Black/White   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073Q5H8FS/?tag=tolees-21'
 descuento: '26.97'
 average: '59.99'

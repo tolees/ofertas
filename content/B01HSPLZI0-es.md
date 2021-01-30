@@ -16,6 +16,7 @@ comparePrice: 2.5 EUR
 prodname: 'SOTYA - SOTYA Polen 100 comprimidos 600 mg'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HSPLZI0/?tag=tolees-21'
 descuento: '44.40'
 average: '1.39'

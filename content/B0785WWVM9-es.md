@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'Under Armour Tech 2.0 1/2 Zip Parte Superior del Calentamiento  Hombre  Negro  Black/Charcoal 001   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0785WWVM9/?tag=tolees-21'
 descuento: '30.12'
 average: '27.95'

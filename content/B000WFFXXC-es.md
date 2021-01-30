@@ -16,6 +16,7 @@ comparePrice: 4.95 EUR
 prodname: '1x2 AgfaPhoto Akku NiMh Micro AAA 900 mAh'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000WFFXXC/?tag=tolees-21'
 descuento: '62.22'
 average: '1.87'

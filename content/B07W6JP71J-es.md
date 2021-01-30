@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'GRIDINLUX. Ejercitador de Piernas TRAINER LEGS. Gimnasia Pasiva  Mando a Distancia  Masaje de Pies  Altura Regulable  Intensidad Ajustable  Fácil de usar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W6JP71J/?tag=tolees-21'
 descuento: '39.71'
 average: '111.97125'

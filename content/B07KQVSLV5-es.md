@@ -16,6 +16,7 @@ comparePrice: 3.34 EUR
 prodname: 'Monradbitt 1 Pair Fashion Rainbow Striped Socks Ladies Girls Soft Pure Cotton Socks Over Ankle High Socks Casual Sport Socks - Black'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KQVSLV5/?tag=tolees-21'
 descuento: '29.94'
 average: '2.34'

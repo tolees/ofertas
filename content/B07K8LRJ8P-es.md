@@ -16,6 +16,7 @@ comparePrice: 11.76 EUR
 prodname: 'FeliSun Impermeable Memorias USB 3.0 Metal USB Stick USB Flash Drive-16GB/32GB/64GB/ 128GB-Velocidad de Lectura de hasta 100 MB/s  16GB  Plata '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K8LRJ8P/?tag=tolees-21'
 descuento: '35.03'
 average: '7.64'

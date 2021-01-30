@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Bandas Elasticas Fitness Glúteos Bandas de Resistencia de la Cadera Bandas Antideslizantes de Ejercicios Piernas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S5YGZJD/?tag=tolees-21'
 descuento: '53.87'
 average: '18.32333333333333'

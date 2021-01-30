@@ -16,6 +16,7 @@ comparePrice: 27.19 EUR
 prodname: 'Relojes para Hombres LIGE Hombres Acero Inoxidable Resistente al Agua Deportes Reloj De Cuarzo Analógico Cronógrafo Fecha Negocios Casual Relojes de Pulsera Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078XRRMXW/?tag=tolees-21'
 descuento: '26.48'
 average: '21.589999999999996'

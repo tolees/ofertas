@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'JACK & JONES Jjeunion Knit Crew Neck Noos suéter  Rojo  Port Royale Detail: Twisted with Black   X-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C2CF7MH/?tag=tolees-21'
 descuento: '40.13'
 average: '20.95'

@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Garmin HRM-Swim - Pulsometro deportivo  color Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B012H8IRLQ/?tag=tolees-21'
 descuento: '25.00'
 average: '74.99'

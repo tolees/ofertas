@@ -16,6 +16,7 @@ comparePrice: 2.94 EUR
 prodname: 'Beter 64290 - Esponja'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XAKG8EE/?tag=tolees-21'
 descuento: '33.33'
 average: '1.96'

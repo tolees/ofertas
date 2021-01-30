@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Dockers by Gerli 46bl001-706660  Zapatillas para Hombre  Azul  Navy 660   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WMBN9TJ/?tag=tolees-21'
 descuento: '56.42'
 average: '21.77'

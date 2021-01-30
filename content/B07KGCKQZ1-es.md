@@ -16,6 +16,7 @@ comparePrice: 39.29 EUR
 prodname: 'Alomejor Controlador sin escobillas del Motor 48V 500W Motor sin escobillas Controlador de Onda sinusoidal para la Velocidad del Motor Controlador del Cepillo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KGCKQZ1/?tag=tolees-21'
 descuento: '30.80'
 average: '27.19'

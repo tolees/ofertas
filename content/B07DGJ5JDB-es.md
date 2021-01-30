@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Skechers Boys  Flex-Glow Trainers  Black  Black Blue Lime Bblm   13 UK 32 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DGJ5JDB/?tag=tolees-21'
 descuento: '26.91'
 average: '36.51'

@@ -16,6 +16,7 @@ comparePrice: 19.0 EUR
 prodname: 'Jeslon Mandolina Rebanador Frutas cortadas & Vegetales 5 piezas Intercambiable Cuchillas de acero inoxidable Multifuncional Cortadora de verduras & Rallador  cielo azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085NT51CC/?tag=tolees-21'
 descuento: '32.21'
 average: '12.88'

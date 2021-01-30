@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'Singer SMC4423 Heavy Duty 4423  18/8 Stainless Steel  multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00FIVKGM8/?tag=tolees-21'
 descuento: '36.74'
 average: '189.16'

@@ -16,6 +16,7 @@ comparePrice: 40.99 EUR
 prodname: 'Yooka-Laylee and the Impossible Lair'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TDS2JN1/?tag=tolees-21'
 descuento: '39.25'
 average: '30.336'

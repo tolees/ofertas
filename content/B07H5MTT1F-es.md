@@ -16,6 +16,7 @@ comparePrice: 64 EUR
 prodname: 'Skechers Flex Appeal 3.0  Zapatillas para Mujer  Blanco  White Black Wbk   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H5MTT1F/?tag=tolees-21'
 descuento: '36.61'
 average: '40.57'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Hieha 23 Kit Accesorio Universal de Cámara Deportiva Action CAM Acuatica Maletín Estuche Cinturón Pecho Arnes Correa Cabeza Palo Flotante Trípode para Victsing Campark GoPro Hero Session SJCAM'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XW7B4RM/?tag=tolees-21'
 descuento: '55.01'
 average: '18.10111111111111'

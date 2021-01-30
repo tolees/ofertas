@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Saquito Star Wars Surt 2 Capacidad 35 X 0 5 X 27 cms'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01JZ8HC4E/?tag=tolees-21'
 descuento: '52.95'
 average: '4.7'

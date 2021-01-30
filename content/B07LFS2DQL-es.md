@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Ventvinal 1/4 a 3/8 Tornillo Adaptadores de Rosca  16 Piezas de Tornillos Convertidores Adaptadores para Camara  Trípodes  Placas de Abrazadera de Liberación  Rig de Hombro  Soporte de Luz  Monopod'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFS2DQL/?tag=tolees-21'
 descuento: '29.35'
 average: '10.59'

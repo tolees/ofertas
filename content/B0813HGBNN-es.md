@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'SHUIBIAN 5D DIY Diamante Pintura Diamante Completo Tigre  Pintura a Mano Hecha a Mano Pintura Digital Decoración Del Hogar Kit de Punto de Cruz'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0813HGBNN/?tag=tolees-21'
 descuento: '40.02'
 average: '11.99'

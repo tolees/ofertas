@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Skechers Women s Go Run Fast Trainers  Blue  Navy Textile/Coral Trim Nvcl   5 UK  38 EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N13XY2Y/?tag=tolees-21'
 descuento: '30.03'
 average: '41.95'

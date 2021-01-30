@@ -16,6 +16,7 @@ comparePrice: 11.51 EUR
 prodname: 'Bombilla de maíz de cerámica  lámpara de ahorro de energía regulable  lámpara de maíz 76LED 5W 220V LED para luces de disco  lámparas de escritorio  1 # '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RB4JGCM/?tag=tolees-21'
 descuento: '49.70'
 average: '5.79'

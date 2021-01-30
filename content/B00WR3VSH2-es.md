@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Skechers Men s Equalizer-Double Play Moccasins  Black  Black   9 UK  43 EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00WR3VSH2/?tag=tolees-21'
 descuento: '40.03'
 average: '45.175'

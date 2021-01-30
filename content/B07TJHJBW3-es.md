@@ -16,6 +16,7 @@ comparePrice: 14.66 EUR
 prodname: '10 Uniwork Cartuchos de tinta Compatibles para Brother LC223 LC-223 para Brother DCP-J4120DW DCP-J562DW  MFC-J480DW J880DW J4420DW J4625DW J4620DW J5320DW J5620DW J680DW J5720DW J5625DW'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TJHJBW3/?tag=tolees-21'
 descuento: '26.60'
 average: '13.76'

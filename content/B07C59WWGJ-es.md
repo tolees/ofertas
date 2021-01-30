@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Khanomak Sólido Ligero y Mediana Altura Auto Cinturón de Lazo de la Cinta de la Cintura elastizada Inclinado Bolsillos Delanteros Pantalones Cortos  Grande  Verde de Kelly '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C59WWGJ/?tag=tolees-21'
 descuento: '71.48'
 average: '3.99'

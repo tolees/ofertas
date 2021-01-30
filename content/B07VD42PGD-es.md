@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'IWAVION Cable Phone 3PACK 1M Cable Cargador Phon Nylon Cable Trenzado Duradero de Carga Rápida Compatible con iPhone 11/XS/XR/X/8/8 Plus/7/6s/6Plus/6/iPad/iPod y más  Plata '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VD42PGD/?tag=tolees-21'
 descuento: '43.78'
 average: '9.656666666666666'

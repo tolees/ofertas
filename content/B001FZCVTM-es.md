@@ -16,6 +16,7 @@ comparePrice: 4.9 EUR
 prodname: 'Wilson Champ Extra Duty Pelotas de tenis  tubo con 3 pelotas  para todas las superficies  amarillo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001FZCVTM/?tag=tolees-21'
 descuento: '35.71'
 average: '4.23'

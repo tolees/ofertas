@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'JBL GO 2 - Altavoz inalámbrico portátil con Bluetooth  resistente al agua  IPX7   hasta 5 h de reproducción con sonido de alta fidelidad  menta'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B8V5DCJ/?tag=tolees-21'
 descuento: '31.69'
 average: '23.678333333333335'

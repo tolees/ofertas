@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Funko Pop!- Disney: The Incredibles 2 Figura de Vinilo  29208 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079Y9P6JY/?tag=tolees-21'
 descuento: '34.42'
 average: '9.89'

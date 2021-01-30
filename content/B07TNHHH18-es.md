@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Twinz up - Sacacorchos Eléctrico Inalámbrico - Estuche Premium con Cortador de Cápsulas y Base de Recarga - Profesional Automatico Abrelatas de Vino - El Regalo Ideal - Abridor Botellas - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TNHHH18/?tag=tolees-21'
 descuento: '37.56'
 average: '24.97'

@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'SALOMON Logo Hoodie M Hombre  Verde  Green Gables   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KQQVLW4/?tag=tolees-21'
 descuento: '33.59'
 average: '46.49'

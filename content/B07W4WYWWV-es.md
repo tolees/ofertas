@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Springfield tachas.fino-c/01 Cinturón  Negro  Black 1   85  Tamaño del fabricante: 85  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W4WYWWV/?tag=tolees-21'
 descuento: '48.35'
 average: '5.16'

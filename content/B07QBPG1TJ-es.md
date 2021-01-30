@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'G-STAR RAW Vetar Slim Chino Pantalones  Azul  Mazarine Blue 5126-4213   W30/L34  Talla del Fabricante: 30W/ 34L  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QBPG1TJ/?tag=tolees-21'
 descuento: '80.23'
 average: '17.78'

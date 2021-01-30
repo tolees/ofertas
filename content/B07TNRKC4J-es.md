@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Superdry Zip Hood Capucha  Gris  Collective Dark Grey Grit 9ss   S para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TNRKC4J/?tag=tolees-21'
 descuento: '77.78'
 average: '17.77'

@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Puma LIGA Casuals Shorts  Pantalones Cortos  Hombre  Azul  Peacoat Puma White   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078T2KHB5/?tag=tolees-21'
 descuento: '44.94'
 average: '16.49'

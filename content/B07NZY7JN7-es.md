@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Skechers Men s Metco-Parken Trainers  Gris  Gray Black Mesh Gybk   7 UK  41 EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NZY7JN7/?tag=tolees-21'
 descuento: '34.84'
 average: '42.32'

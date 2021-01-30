@@ -16,6 +16,7 @@ comparePrice: 10.71 EUR
 prodname: 'ZXYAN Biberón de Silicona Blanca Alimentador de Cuchara Botella de Cereal de arroz Botella de alimentación Botella de compresión de Alimentos con Cubierta Antipolvo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZFKTGNX/?tag=tolees-21'
 descuento: '53.03'
 average: '5.03'

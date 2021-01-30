@@ -16,6 +16,7 @@ comparePrice: 18.5 EUR
 prodname: 'Relojes electrónicos para Hombre Reloj Deportivo Aire Libre Reloj Inteligente a Prueba de Agua Pantalla LED Relojes de Pulsera para Hombres Ocasionales - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BTT1J7G/?tag=tolees-21'
 descuento: '33.51'
 average: '12.3'

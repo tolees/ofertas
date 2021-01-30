@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'TUXWANG 3in1 Kit de Costura Ganchillos Agujas de Ganchillo Ganchillos Crochet Juego de 278 Unidades Accesorios para Madre  Principiante  Profesional  hogar y Viaje.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H95JSTD/?tag=tolees-21'
 descuento: '34.63'
 average: '16.79'

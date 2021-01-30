@@ -16,6 +16,7 @@ comparePrice: 48.68 EUR
 prodname: 'Macrimo - Lámpara de altavoz Bluetooth  luz nocturna inalámbrica  con luz LED que cambia de color  compatible con tarjeta TF  manos libres para dormir  leer  acampar  metal Cuero  Rosa  Z2016'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J1K2JG4/?tag=tolees-21'
 descuento: '30.09'
 average: '34.03'

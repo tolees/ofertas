@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Creative Sound Blasterx H3 - Cascos Portátiles Analógicos con Micrófono para Juegos  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B013S3UY2E/?tag=tolees-21'
 descuento: '39.56'
 average: '41.992'

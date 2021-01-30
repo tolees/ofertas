@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'Tyrannosaurus Rex  T-Rex  Idea de Vinilo temática para macbooks  computadoras  o Incluso Paredes en casa. Personaliza Cualquier Cosa con Este Vinilo Ideal!'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B010QX3P3Y/?tag=tolees-21'
 descuento: '33.37'
 average: '5.99'

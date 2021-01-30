@@ -16,6 +16,7 @@ comparePrice: 14.3 EUR
 prodname: 'Haribo - Lampions Rojos - Geles dulces - 2 kg'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XAP1MEA/?tag=tolees-21'
 descuento: '33.22'
 average: '9.55'

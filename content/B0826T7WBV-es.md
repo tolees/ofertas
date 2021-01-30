@@ -16,6 +16,7 @@ comparePrice: 457.82 EUR
 prodname: 'HP ProDesk 600 G2 i5 6500 3.60GHz 8GB 256gb ssd + 500GB dvd Win10 Pro  Reacondicionado Certificado '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0826T7WBV/?tag=tolees-21'
 descuento: '32.98'
 average: '306.84'

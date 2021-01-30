@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'MRACSIY Diadema deportiva Sweatband para yoga Correr Ciclismo Baloncesto- Estiramiento de humedad Wicking Hairband  azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PK6QXBM/?tag=tolees-21'
 descuento: '68.79'
 average: '4.99'

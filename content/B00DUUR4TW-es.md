@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'SBS TEPOCHEXLR - Funda universal para móvil  talla XL  hasta 4.5"  rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00DUUR4TW/?tag=tolees-21'
 descuento: '51.66'
 average: '4.795'

@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'Michael Kors Pendiente MK6176'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01H1KWEQY/?tag=tolees-21'
 descuento: '31.61'
 average: '179.66666666666666'

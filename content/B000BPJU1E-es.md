@@ -16,6 +16,7 @@ comparePrice: 219.0 EUR
 prodname: 'Staub - Olla Cocotte redonda  hierro fundido  negro mate  24 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000BPJU1E/?tag=tolees-21'
 descuento: '51.56'
 average: '112.995'

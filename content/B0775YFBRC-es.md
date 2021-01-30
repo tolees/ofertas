@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'AmazonBasics - Juego de accesorios modernos para baño - 3 unidades - Bronce antiguo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0775YFBRC/?tag=tolees-21'
 descuento: '49.98'
 average: '16.5'

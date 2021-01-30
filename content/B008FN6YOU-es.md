@@ -16,6 +16,7 @@ comparePrice: 36.52 EUR
 prodname: 'Optimum Nutrition ON Opti-Men  Suplemento multivitamínico  multivitaminas y minerales para hombres con BCAA  glutamina  vitamina C  zinc y magnesio  sin sabor  60 porciones  180 cápsulas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B008FN6YOU/?tag=tolees-21'
 descuento: '27.14'
 average: '26.61'

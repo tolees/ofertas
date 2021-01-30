@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Clean Pulse One - Irrigador bucal - Higiene Dental Profesional 10 Niveles de presión  7 Boquillas con estuche y Depósito 600 ml. Recomendado por dentistas y médicos especialistas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BDHSZ46/?tag=tolees-21'
 descuento: '63.33'
 average: '27.5'

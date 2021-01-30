@@ -16,6 +16,7 @@ comparePrice: 249.0 EUR
 prodname: 'Seiko Reloj Analógico para Hombre con Correa de Cuero – SRN071P1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BF020VU/?tag=tolees-21'
 descuento: '32.39'
 average: '163.19555555555556'

@@ -16,6 +16,7 @@ comparePrice: 7.12 EUR
 prodname: 'FIND - Brocha para polvos - n.º 10'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RJSRDTN/?tag=tolees-21'
 descuento: '25.00'
 average: '5.34'

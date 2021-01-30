@@ -16,6 +16,7 @@ comparePrice: 4.99 EUR
 prodname: 'TRESemmé Laca Extra Fuerte - 400 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MQYD2L1/?tag=tolees-21'
 descuento: '53.91'
 average: '2.3'

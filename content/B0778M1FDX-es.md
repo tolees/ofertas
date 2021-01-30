@@ -16,6 +16,7 @@ comparePrice: 8.56 EUR
 prodname: 'Repavar Revitalizante Agua Micelar 300Ml. 300 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0778M1FDX/?tag=tolees-21'
 descuento: '47.31'
 average: '4.51'

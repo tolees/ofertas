@@ -16,6 +16,7 @@ comparePrice: 175.0 EUR
 prodname: 'Camper Herren Beetle Sneaker  Braun  Medium Brown 210   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IG5C75G/?tag=tolees-21'
 descuento: '67.82'
 average: '62.2025'

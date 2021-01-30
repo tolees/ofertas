@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'AUELEK Lampara LED Escritorio Lampara Luz Lectura  Portátil USB Recargable Lámpara de Escritorio con 16 Leds  3 Niveles de Brillo  1000mAh  360º Flexible  Control Táctil  Blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089M63YJM/?tag=tolees-21'
 descuento: '40.02'
 average: '11.99'

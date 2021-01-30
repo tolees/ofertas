@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'Philips SCF753/02 - Taza con caño decorado  colores surtios'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FFTPZOQ/?tag=tolees-21'
 descuento: '28.12'
 average: '7.359999999999999'

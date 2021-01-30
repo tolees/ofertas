@@ -16,6 +16,7 @@ comparePrice: 55.99 EUR
 prodname: 'Kraumi Faro Trabajo LED Focos de Coche 12V Square Faros Led Tractor IP67 Impermeable Off-road Foco de Trabajo LED para Moto ATV SUV Tractor Camión Barco  42W Ronda  4 piezas '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZY6W6HT/?tag=tolees-21'
 descuento: '37.51'
 average: '34.99'

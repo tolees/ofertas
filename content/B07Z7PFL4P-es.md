@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Muñecas Arias - Elegance 36 cm con Conjunto Joy-60310'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z7PFL4P/?tag=tolees-21'
 descuento: '37.55'
 average: '24.95'

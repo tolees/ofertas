@@ -16,6 +16,7 @@ comparePrice: 79.9 EUR
 prodname: 'Kipling Gabbie S  Bolsos Bandolera para Mujer  Rojo  Lively Red   29x22x16.5 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BHBPV7P/?tag=tolees-21'
 descuento: '50.00'
 average: '43.448'

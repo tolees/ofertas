@@ -16,6 +16,7 @@ comparePrice: 47.12 EUR
 prodname: 'Salomon RX Moc 4.0 W  Calzado de recuperación para Mujer  Azul  Meadowbrook/Icy Morn/White   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RJT2XYK/?tag=tolees-21'
 descuento: '28.57'
 average: '33.66'

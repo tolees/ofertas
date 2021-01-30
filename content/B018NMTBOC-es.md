@@ -16,6 +16,7 @@ comparePrice: 34.98 EUR
 prodname: 'Bizak-5025123225111  Color  61952511 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B018NMTBOC/?tag=tolees-21'
 descuento: '88.02'
 average: '4.966666666666667'

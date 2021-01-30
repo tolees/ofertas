@@ -16,6 +16,7 @@ comparePrice: 130.0 EUR
 prodname: 'Hackett Garment Dyed Jeans Pantalones   Off White 803   38W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J6QX77V/?tag=tolees-21'
 descuento: '82.67'
 average: '22.53'

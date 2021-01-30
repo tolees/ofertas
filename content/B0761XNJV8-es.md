@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Creative Omni - Altavoz portátil inalámbrico Multi-Room  Color Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0761XNJV8/?tag=tolees-21'
 descuento: '52.31'
 average: '61.58'

@@ -16,6 +16,7 @@ comparePrice: 17.8 EUR
 prodname: 'Shimano Fx Spinning 70Mb2 210M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000FIWAE6/?tag=tolees-21'
 descuento: '32.64'
 average: '11.99'

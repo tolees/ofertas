@@ -16,6 +16,7 @@ comparePrice: 41.95 EUR
 prodname: 'Solgar Full Spectrum Omega de Salmón Salvaje de Alaska Cápsulas blandas - Envase de 120'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003L7XO5M/?tag=tolees-21'
 descuento: '26.10'
 average: '31.0'

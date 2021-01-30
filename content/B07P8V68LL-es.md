@@ -16,6 +16,7 @@ comparePrice: 26.79 EUR
 prodname: 'Toy Story-GGH40 - Figura de acción Infantil'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P8V68LL/?tag=tolees-21'
 descuento: '35.61'
 average: '17.25'

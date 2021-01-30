@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'BlueXP4 Pieza Ámbar Botellas 10ml 20ml Marrón Boston de Botellas de Cristal y Pipeta para Aromaterapia Aceites Esenciales y Perfume Medicina Líquidos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GKS5YDT/?tag=tolees-21'
 descuento: '47.39'
 average: '9.99'

@@ -16,6 +16,7 @@ comparePrice: 479.0 EUR
 prodname: 'Denon AVR-S650H 5.2 - Receptor AV de Red  4 K  Wi-Fi  Bluetooth  AirPlay HEOS   Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RKX747F/?tag=tolees-21'
 descuento: '25.68'
 average: '355.99'

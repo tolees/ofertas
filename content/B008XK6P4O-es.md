@@ -16,6 +16,7 @@ comparePrice: 37.9 EUR
 prodname: 'DIM Generous Minimizer Sujetador Reductor  Blanco  White   90D para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B008XK6P4O/?tag=tolees-21'
 descuento: '63.06'
 average: '14.0'

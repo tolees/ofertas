@@ -16,6 +16,7 @@ comparePrice: 136.0 EUR
 prodname: 'Guess - Open Road  Bolsos bandolera Mujer  Verde  Forest   6x17x28 cm  W x H L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P6DWGZL/?tag=tolees-21'
 descuento: '52.54'
 average: '64.54'

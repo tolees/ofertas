@@ -16,6 +16,7 @@ comparePrice: 25.39 EUR
 prodname: 'Fdit Perros Clipper Eléctrico Profesional Pet Grooming Pelo  Recargable Cordless Cats para máquina de Afeitar de bajo Ruido Heavy Duty Clippers Tool Kit para Cachorro Horses and Kids'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JQ24GS7/?tag=tolees-21'
 descuento: '41.35'
 average: '14.89'

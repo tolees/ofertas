@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Desigual - Bols_brilli Cuenca  Shoppers y bolsos de hombro Mujer  Rojo  Carmin   16.5x30x37.5 cm  B x H T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079VVMMFM/?tag=tolees-21'
 descuento: '50.73'
 average: '51.14'

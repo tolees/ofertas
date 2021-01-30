@@ -16,6 +16,7 @@ comparePrice: 47.87 EUR
 prodname: 'KYEYGWO Runas de Piedras Set con Gravur Golden Elder Futhark Alphabet símbolo de Piedras Preciosas  Runenstein Cristal para meditación  la conservación  Reiki curación y Amuleto  25 Unidades  Rosa.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083WF3GHZ/?tag=tolees-21'
 descuento: '35.26'
 average: '30.99'

@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Women s Secret Cotton Print Black Flower Braguita brasileña  Multicolor  Hielo 94    Tamaño del Fabricante: S  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TTT2GJJ/?tag=tolees-21'
 descuento: '49.05'
 average: '4.77'

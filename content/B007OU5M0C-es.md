@@ -16,6 +16,7 @@ comparePrice: 29.98 EUR
 prodname: 'Coca Cola Zero Azúcar - Lata 330ml X 24 Latas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007OU5M0C/?tag=tolees-21'
 descuento: '26.65'
 average: '21.99'

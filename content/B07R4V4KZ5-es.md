@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'Helly Hansen Classic Duffel Bolsa De Viaje Impermeable Deporte  Unisex Adulto  azid Lime  50L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R4V4KZ5/?tag=tolees-21'
 descuento: '46.60'
 average: '48.06'

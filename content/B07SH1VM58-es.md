@@ -16,6 +16,7 @@ comparePrice: 46.74 EUR
 prodname: 'Levi s Woodward L  Zapatillas para Hombre  Blanco  R White 51   46 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SH1VM58/?tag=tolees-21'
 descuento: '34.17'
 average: '31.860000000000003'

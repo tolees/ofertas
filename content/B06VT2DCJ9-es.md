@@ -16,6 +16,7 @@ comparePrice: 16.12 EUR
 prodname: 'Gorjuss Ladybird Santoro Set de Regalo - 2 Piezas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06VT2DCJ9/?tag=tolees-21'
 descuento: '25.87'
 average: '12.283333333333333'

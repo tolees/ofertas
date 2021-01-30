@@ -16,6 +16,7 @@ comparePrice: 214.99 EUR
 prodname: 'Steinbach Colector de Sol  Speed Solar Exclusiv  Negro  110 x 69 x 14 cm  049106'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B016XZRR56/?tag=tolees-21'
 descuento: '33.95'
 average: '142.0'

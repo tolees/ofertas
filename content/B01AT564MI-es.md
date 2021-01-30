@@ -16,6 +16,7 @@ comparePrice: 21.34 EUR
 prodname: 'CrossBoule Heroes Batman vs. Superman'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01AT564MI/?tag=tolees-21'
 descuento: '60.07'
 average: '8.52'

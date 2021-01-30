@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'Emporio Armani Reloj Cronógrafo para Hombre de Cuarzo con Correa en Cuero AR11133'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C7JMWG3/?tag=tolees-21'
 descuento: '46.04'
 average: '132.92888888888888'

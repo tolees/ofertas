@@ -16,6 +16,7 @@ comparePrice: 119.0 EUR
 prodname: 'Imperial Confort 617513  Topper Viscoelástico  135 x 190 cm - Grosor 5 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XY9MWS1/?tag=tolees-21'
 descuento: '28.57'
 average: '78.81'

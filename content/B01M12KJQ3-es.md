@@ -16,6 +16,7 @@ comparePrice: 64.99 EUR
 prodname: 'Philips Speedtouch HR2642/00 - Batidora de Mano  700 W  Picador XL  Levanta Claras  Jarra de 0.6 L  Varilla Metálica  Color Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M12KJQ3/?tag=tolees-21'
 descuento: '26.14'
 average: '48.0'

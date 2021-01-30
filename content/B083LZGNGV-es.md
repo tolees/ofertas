@@ -16,6 +16,7 @@ comparePrice: 54.9 EUR
 prodname: 'Samsung - Funda Clear View para Galaxy S20+  negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083LZGNGV/?tag=tolees-21'
 descuento: '32.06'
 average: '37.3'

@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'Integral INMSDX128G-100/90V30 Ultimapro Micro SDXC Class 10 UHS-I U3 - microSDXC'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FC7W32H/?tag=tolees-21'
 descuento: '28.59'
 average: '14.99'

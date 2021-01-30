@@ -16,6 +16,7 @@ comparePrice: 207.99 EUR
 prodname: 'Philips Sonicare Diamond Clean HX9312/04 - Cepillo de dientes eléctrico con cabezales de repuesto y estuche  AC/batería iones de litio  2 W  color blanco y oro rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01J9WQS9Q/?tag=tolees-21'
 descuento: '25.98'
 average: '128.975'

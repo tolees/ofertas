@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'New Balance 500  Zapatillas para Mujer  Rosa  Pink Rk   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S2SN23W/?tag=tolees-21'
 descuento: '47.98'
 average: '23.41'

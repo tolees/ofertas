@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Babolat Viper Jr 2019  Adultos Unisex  Multicolor  Talla Unica'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DCQYDZM/?tag=tolees-21'
 descuento: '38.69'
 average: '39.85'

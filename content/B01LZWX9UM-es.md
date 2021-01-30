@@ -16,6 +16,7 @@ comparePrice: 750.0 EUR
 prodname: 'Polti Unico MCV80 Total Clean & Turbo Aspirador multifunción 3 en 1  aspira  higieniza y seca  6 Bar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LZWX9UM/?tag=tolees-21'
 descuento: '44.13'
 average: '456.5'

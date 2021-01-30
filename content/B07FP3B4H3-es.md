@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Belkin ScreenForce InvisiGlass Ultra - Protector de Pantalla con Corning Glass y Refuerzo por Intercambio iónico para iPhone 8  iPhone 7  iPhone 6S y iPhone 6  Transparente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FP3B4H3/?tag=tolees-21'
 descuento: '63.63'
 average: '9.09'

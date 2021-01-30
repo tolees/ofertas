@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'bugatti 431846015550  Zapatillas para Mujer  Amarillo Yellow Gold 5051  36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VS4KLRX/?tag=tolees-21'
 descuento: '78.07'
 average: '15.34'

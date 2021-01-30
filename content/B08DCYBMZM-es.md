@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'Mellerware Aspirador Vertical Inalámbrico Rider Pro 400 W Motor Brushless 22KPA de succión  Rider Pro Full Set '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08DCYBMZM/?tag=tolees-21'
 descuento: '30.00'
 average: '139.99'

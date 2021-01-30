@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Reductor Silla Auto Invierno/Verano'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0045VA3SO/?tag=tolees-21'
 descuento: '33.34'
 average: '19.99'

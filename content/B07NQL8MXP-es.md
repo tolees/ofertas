@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Springfield Tren Tricolor Cinturón  Azul  Blue 11   Tamaño del Fabricante: 75 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NQL8MXP/?tag=tolees-21'
 descuento: '57.74'
 average: '5.49'

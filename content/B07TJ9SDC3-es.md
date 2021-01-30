@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'Levi s Original Batwing  Azul  Hm Patch Polo Dress Blues 0001   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TJ9SDC3/?tag=tolees-21'
 descuento: '51.00'
 average: '24.5'

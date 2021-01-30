@@ -16,6 +16,7 @@ comparePrice: 10.79 EUR
 prodname: 'Funda para Xiaomi Redmi 9A con [2 Pack] Cristal Templado Protector de Pantalla  Negro Suave Líquido Silicona Protectora Carcasa para Xiaomi Redmi 9A  6.53 Pulgadas '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08F9S5ZY4/?tag=tolees-21'
 descuento: '42.63'
 average: '6.19'

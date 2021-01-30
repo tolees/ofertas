@@ -16,6 +16,7 @@ comparePrice: 18.72 EUR
 prodname: 'Bellota 3555 - Tijeras cortacésped  para cortar el césped  tijeras para jardinería'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00F2NI0S4/?tag=tolees-21'
 descuento: '30.82'
 average: '12.883333333333333'

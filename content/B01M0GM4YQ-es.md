@@ -16,6 +16,7 @@ comparePrice: 8.04 EUR
 prodname: 'Weider Whey Protein White Spread 250 g. Crema de chocolate Blanco con 22% de proteínas Baja en azúcares Sin aceite de palma y sin gluten.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M0GM4YQ/?tag=tolees-21'
 descuento: '31.72'
 average: '4.9399999999999995'

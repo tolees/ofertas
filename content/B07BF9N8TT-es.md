@@ -16,6 +16,7 @@ comparePrice: 13.5 EUR
 prodname: 'Garnier Delial UV Water Spray Protector Solar Transparente  Alta Protección para Cuerpo y Rostro IP30 - 150 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BF9N8TT/?tag=tolees-21'
 descuento: '48.22'
 average: '7.107'

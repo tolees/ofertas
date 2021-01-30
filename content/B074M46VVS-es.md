@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'ELEGOO 32 Piezas Doble Cara Junta de PCB Doble Cara Tarjeta Placa Prototipo Kit para Soldadura DIY con 5 Tamaños Compatible con los kits Arduino'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074M46VVS/?tag=tolees-21'
 descuento: '35.02'
 average: '12.99'

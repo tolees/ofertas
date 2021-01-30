@@ -16,6 +16,7 @@ comparePrice: 18.11 EUR
 prodname: 'JK-2 Laptop Carcasas para Macbook Air 13 Abstract Design Theme Plastic Protective Funda Carcasas & Free Keyboard Cover Compatible Macbook Air 13" A1369/A1466'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0854K1XCD/?tag=tolees-21'
 descuento: '39.26'
 average: '11.0'

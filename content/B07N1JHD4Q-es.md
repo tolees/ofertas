@@ -16,6 +16,7 @@ comparePrice: 115.0 EUR
 prodname: 'Clarks Orinoco Snug  Botas Estilo Motero para Mujer  Marrón  British Tan Lea British Tan Lea   37.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N1JHD4Q/?tag=tolees-21'
 descuento: '55.42'
 average: '39.425555555555555'

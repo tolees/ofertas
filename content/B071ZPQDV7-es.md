@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Marvel VS Capcom Infinite'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071ZPQDV7/?tag=tolees-21'
 descuento: '43.52'
 average: '33.88'

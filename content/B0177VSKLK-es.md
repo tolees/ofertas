@@ -16,6 +16,7 @@ comparePrice: 11.7 EUR
 prodname: 'La Pajarita 124237 Barniz Ultramate  175 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0177VSKLK/?tag=tolees-21'
 descuento: '26.32'
 average: '8.62'

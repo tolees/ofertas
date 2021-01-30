@@ -16,6 +16,7 @@ comparePrice: 44.9 EUR
 prodname: 'Tommy Hilfiger Bra Sujetador Push-up  Negro  Black 990   75D para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06X425JKF/?tag=tolees-21'
 descuento: '35.43'
 average: '28.74'

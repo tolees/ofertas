@@ -16,6 +16,7 @@ comparePrice: 55.5 EUR
 prodname: 'Philips Avent SCF330/20 - Sacaleches  extractor de leche manual  con cojín masajeador  incluye biberón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007ZPFO6S/?tag=tolees-21'
 descuento: '46.27'
 average: '29.013333333333335'

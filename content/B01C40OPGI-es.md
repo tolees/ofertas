@@ -16,6 +16,7 @@ comparePrice: 209.99 EUR
 prodname: 'Rowenta Air Force Extreme RH8828WO - Aspirador sin cable y bolsa  tecnología ciclónica  25.2 V  autonomía 45 min  batería ion litio  cabezal delta  cepillo motorizado  3 velocidades  fácil almacenar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01C40OPGI/?tag=tolees-21'
 descuento: '25.39'
 average: '156.73'

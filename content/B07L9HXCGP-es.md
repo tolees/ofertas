@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'Under Armour Rival Parte Superior del Calentamiento  Mujer  Rosa  MD'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L9HXCGP/?tag=tolees-21'
 descuento: '30.06'
 average: '35.58'

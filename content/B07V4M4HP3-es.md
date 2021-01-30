@@ -16,6 +16,7 @@ comparePrice: 110.7 EUR
 prodname: 'Love MoschinoJc4247pp0aMujerCarteras de manoRosa  Powder 7x14x22 Centimeters  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V4M4HP3/?tag=tolees-21'
 descuento: '45.38'
 average: '60.46'

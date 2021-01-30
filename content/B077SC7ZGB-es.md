@@ -16,6 +16,7 @@ comparePrice: 248.55 EUR
 prodname: 'CITIZEN Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable AN3600-59E'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077SC7ZGB/?tag=tolees-21'
 descuento: '57.59'
 average: '105.41'

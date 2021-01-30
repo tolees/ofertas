@@ -16,6 +16,7 @@ comparePrice: 48.6 EUR
 prodname: 'Fallout Wasteland Warfare Institute Core Box Juego de miniaturas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081B1W4WT/?tag=tolees-21'
 descuento: '49.65'
 average: '24.47'

@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'MARTINELLI Mocasín de Piel Pacific 1411'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VWX386N/?tag=tolees-21'
 descuento: '40.17'
 average: '54.34'

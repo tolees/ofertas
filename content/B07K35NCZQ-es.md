@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'Bolsas de plástico resellables  bolsa sellada  bolsa de almacenamiento  6X8cm 240pcs  engrosamiento y duradero  se aplican a diversos artículos del hogar/almacenamiento de la cocina/ropa sellada'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K35NCZQ/?tag=tolees-21'
 descuento: '50.02'
 average: '10.99'

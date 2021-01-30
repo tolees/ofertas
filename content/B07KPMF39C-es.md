@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'Columbia Meadows Omni  Botas Bajas para Mujer  Marrón  Heat-Espresso MHW  L   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KPMF39C/?tag=tolees-21'
 descuento: '82.12'
 average: '23.1325'

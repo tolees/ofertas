@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Trust Leto - Set de Altavoces  2.0  6 W  alimentados por USB   Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00JRW0M32/?tag=tolees-21'
 descuento: '30.03'
 average: '6.788'

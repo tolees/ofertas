@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'OtterBox Defender - Funda anticaídas para Apple iPad Pro 11"  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00Z7T0VWQ/?tag=tolees-21'
 descuento: '39.30'
 average: '54.62'

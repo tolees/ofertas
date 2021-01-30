@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Funko Pop! - Games: Ni No Kuni Roland W/ Higgledy Figura de Vinilo 27016'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0771LHS6F/?tag=tolees-21'
 descuento: '43.64'
 average: '8.99'

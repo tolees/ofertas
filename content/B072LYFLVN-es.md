@@ -16,6 +16,7 @@ comparePrice: 84.2 EUR
 prodname: 'Tesa Assa Abloy Cilindro de Alta Seguridad  Llave - Leva Larga  Latonado  35x35 mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072LYFLVN/?tag=tolees-21'
 descuento: '43.80'
 average: '47.32'

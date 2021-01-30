@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'Ocean Digital DBA-03R Dab/Dab + Wi-Fi Radio de Internet Sintonizador de FM/Bluetooth con Salida óptica/Salida de Audio a Altavoces de Alta fidelidad Pantalla a Color-Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N4FMC63/?tag=tolees-21'
 descuento: '45.84'
 average: '64.99'

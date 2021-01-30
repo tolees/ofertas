@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'AUKEY Lámpara LED plegable de mesa con pinza  brazo flexible  salida USB y 2 niveles de brillo  LT-ST8  negra '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IOZ9GNY/?tag=tolees-21'
 descuento: '53.37'
 average: '12.323333333333334'

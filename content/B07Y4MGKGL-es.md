@@ -16,6 +16,7 @@ comparePrice: 43.23 EUR
 prodname: 'Luchild Protector de Cuna  360cm Parachoques  Protector Cuna Chichonera para Proteger Bebe y Decorar la Cuna'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y4MGKGL/?tag=tolees-21'
 descuento: '35.25'
 average: '27.99'

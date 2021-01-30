@@ -16,6 +16,7 @@ comparePrice: 17.19 EUR
 prodname: 'WAHL Peines de plástico Arco  Adelar y Bravura - Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002R0GL8G/?tag=tolees-21'
 descuento: '51.13'
 average: '8.4'

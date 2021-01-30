@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Tommee Tippee Juguete transpirable  Henry el Hipopótamo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GCCFHSB/?tag=tolees-21'
 descuento: '33.36'
 average: '9.99'

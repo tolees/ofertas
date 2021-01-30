@@ -16,6 +16,7 @@ comparePrice: 39.97 EUR
 prodname: 'KLIM™ Breeze - Ventilador USB de Escritorio de Alto Desempeño – Ventilador de Mesa – Silencioso y Ajustable - Blanco [Nueva Versión 2020 ]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073FH44BN/?tag=tolees-21'
 descuento: '67.55'
 average: '17.163'

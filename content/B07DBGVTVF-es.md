@@ -16,6 +16,7 @@ comparePrice: 449.99 EUR
 prodname: 'Lenovo Ideapad 320-15AST - Ordenador Portátil 15.6" HD  AMD A9-9420  4 GB RAM  128 GB SDD  AMD Radeon R5  Windows 10 Home  Azul - Teclado QWERTY Español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DBGVTVF/?tag=tolees-21'
 descuento: '33.33'
 average: '319.77500000000003'

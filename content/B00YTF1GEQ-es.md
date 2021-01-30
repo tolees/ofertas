@@ -16,6 +16,7 @@ comparePrice: 34.94 EUR
 prodname: 'We R Memory Keepers 1-2-3 Punch Board  Blanco  1 Pack'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00YTF1GEQ/?tag=tolees-21'
 descuento: '43.47'
 average: '19.75'

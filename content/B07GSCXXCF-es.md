@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'Bourjois Velvet The Lipstick Barra De Labios Tono 021 Grande Roux - 23 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GSCXXCF/?tag=tolees-21'
 descuento: '66.13'
 average: '3.575'

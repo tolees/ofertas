@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Exerz Cajón archivador de Oficina/Clasificador de Papel con 3 Cajones/Cajonera para archivadores/Organizador Para el Escritorio  Rosado '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077SHTYF4/?tag=tolees-21'
 descuento: '28.58'
 average: '24.99'

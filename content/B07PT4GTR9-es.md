@@ -16,6 +16,7 @@ comparePrice: 169.99 EUR
 prodname: 'LOL Surprise - Glamper Van  Giochi Preziosi LLU92000 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PT4GTR9/?tag=tolees-21'
 descuento: '46.07'
 average: '103.96125'

@@ -16,6 +16,7 @@ comparePrice: 13.95 EUR
 prodname: 'L Óreal Paris Barra de Labios Color Riche Shine  Tono Fucsia 465 Trending'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078BRFQZB/?tag=tolees-21'
 descuento: '41.08'
 average: '8.22'

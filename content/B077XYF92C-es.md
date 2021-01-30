@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'Superga 2730-Cotu  Zapatillas de Gimnasio para Mujer  Grigio Grey Seashell G04  35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077XYF92C/?tag=tolees-21'
 descuento: '28.64'
 average: '54.449999999999996'

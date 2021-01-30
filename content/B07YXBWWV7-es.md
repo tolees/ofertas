@@ -16,6 +16,7 @@ comparePrice: 97.48 EUR
 prodname: 'Kenwood KMM-BT306 - Radio para Coche con USB y Manos Libres Bluetooth  procesador de Sonido Integrado  MP3  Control de Spotify  4 x 50 W  iluminación Regulable '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YXBWWV7/?tag=tolees-21'
 descuento: '29.22'
 average: '69.0'

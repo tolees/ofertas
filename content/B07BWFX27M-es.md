@@ -16,6 +16,7 @@ comparePrice: 18.0 EUR
 prodname: 'HGHMLIFE - Portarrollos de papel higiénico autoadhesivo de acero inoxidable con soporte de pared para toallas de papel  gancho para rollo de pañuelo para baño  cocina  lavabo  hotel'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BWFX27M/?tag=tolees-21'
 descuento: '34.44'
 average: '11.8'

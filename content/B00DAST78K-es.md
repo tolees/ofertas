@@ -16,6 +16,7 @@ comparePrice: 103.78 EUR
 prodname: 'Acer Essential -  Monitor de 19.5"  pantalla LED  1600 x 900 píxeles  puerto VGA  16.2o W   color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00DAST78K/?tag=tolees-21'
 descuento: '38.33'
 average: '65.398'

@@ -16,6 +16,7 @@ comparePrice: 10.78 EUR
 prodname: 'B Blesiya Película De La Cámara del Teléfono De Cristal Templado De Protección De Lente 2Pcs para 11 Pro MAX'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086ZHTM4M/?tag=tolees-21'
 descuento: '44.43'
 average: '5.99'

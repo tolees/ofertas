@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'ZARRS 180 Piezas Ojos de Seguridad de Juguete Plástico  6-12 mm con Arandelas Hacer Muñecas Marioneta DIY Manualidades（ Negro）'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07STK6GHT/?tag=tolees-21'
 descuento: '38.49'
 average: '7.99'

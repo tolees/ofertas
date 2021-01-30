@@ -16,6 +16,7 @@ comparePrice: 54.99 EUR
 prodname: 'Under Armour Armour Fly Fast Crop Leggings Capri  Mujer  Gris  Jet Gray/Purple Prime/Reflective 010   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CZRMSSJ/?tag=tolees-21'
 descuento: '50.92'
 average: '26.99'

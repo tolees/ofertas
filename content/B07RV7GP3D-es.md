@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Adidas Originals Continental 80  Zapatillas para Correr para Hombre  Blanco Footwear White Grey Grey 0  36 2/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RV7GP3D/?tag=tolees-21'
 descuento: '49.97'
 average: '50.0'

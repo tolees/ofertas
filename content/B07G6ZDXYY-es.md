@@ -16,6 +16,7 @@ comparePrice: 26.07 EUR
 prodname: 'Antena de TV de alta ganancia Freeview – MASO portátil para interior/exterior digital HD antena para transmisión DVB-T/DAB de radio  televisión ATSC  sintonizador USB'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G6ZDXYY/?tag=tolees-21'
 descuento: '42.88'
 average: '14.89'

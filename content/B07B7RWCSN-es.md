@@ -16,6 +16,7 @@ comparePrice: 130 EUR
 prodname: 'New Balance 1500v4 Boa  Zapatillas de Running para Mujer  Blanco  White/Multicolor Ww4   36.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B7RWCSN/?tag=tolees-21'
 descuento: '40.00'
 average: '66.535'

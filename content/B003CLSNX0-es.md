@@ -16,6 +16,7 @@ comparePrice: 14.0 EUR
 prodname: 'FoodSaver FSR2802 Rollos de Envasado al Vacío FoodSaver  2 Rollos de 5.5 Metros'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003CLSNX0/?tag=tolees-21'
 descuento: '37.50'
 average: '8.533333333333333'

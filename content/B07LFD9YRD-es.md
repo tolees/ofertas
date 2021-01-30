@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'SWIM ELITE Gorro Piscina - Gorro Natación Mujer y Hombre - Gorro Natación Pelo Largo y Dreadlocks  Turq  XL '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFD9YRD/?tag=tolees-21'
 descuento: '30.72'
 average: '13.85'

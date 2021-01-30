@@ -16,6 +16,7 @@ comparePrice: 36.4 EUR
 prodname: 'A'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G6QBQZ3/?tag=tolees-21'
 descuento: '60.03'
 average: '14.156666666666668'

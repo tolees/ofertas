@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'EleganBello Cadena de luces con pinzas 4m 40 LED Cadena de luces con pinzas 2 modos de luz Blanco cálido Guirnalda de luces con Clips para fotos ideal para colgar fotos  notas  Memos y de arte'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B6J2ZRR/?tag=tolees-21'
 descuento: '50.02'
 average: '14.99'

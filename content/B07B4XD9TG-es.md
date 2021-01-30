@@ -16,6 +16,7 @@ comparePrice: 199 EUR
 prodname: 'Hugo BOSS Reloj Analógico para Hombre de Cuarzo con Correa en Silicona 1513558'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B4XD9TG/?tag=tolees-21'
 descuento: '27.69'
 average: '151.315'

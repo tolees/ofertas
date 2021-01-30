@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'Sternitz Botella de Agua Hydra Acero Inoxidable con Aislamiento al vacio. Mantiene Tus Bebidas frías por 24 Horas y Calientes por 12 Horas. Water Bottle  Harbour Blue '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XQN37QS/?tag=tolees-21'
 descuento: '41.39'
 average: '16.69055555555555'

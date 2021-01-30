@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Tommy Hilfiger Tommy Jeans Summer Shoe  Mocasines para Hombre  Negro  Black Bds   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V3N36RN/?tag=tolees-21'
 descuento: '42.73'
 average: '28.58'

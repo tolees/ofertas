@@ -16,6 +16,7 @@ comparePrice: 41.99 EUR
 prodname: 'Philips Thermoprotect HP8233/00 - Secador de Pelo  Motor DC  Ionico  Boquilla 11 mm y DifUsor  3 Velocidades  3 Temperaturas  2200 W  Negro y Lila'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BCQILOI/?tag=tolees-21'
 descuento: '25.70'
 average: '29.335714285714285'

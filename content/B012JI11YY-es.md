@@ -16,6 +16,7 @@ comparePrice: 35.19 EUR
 prodname: 'Acrílico Cosmético Lentes De Contacto Lápiz Labial Mak Up Soporte De Exhibición Almacenamiento En Rack'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B012JI11YY/?tag=tolees-21'
 descuento: '47.88'
 average: '18.34'

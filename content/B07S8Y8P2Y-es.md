@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Helly Hansen HH Wash Bag 2 Neceser  Unisex Adulto  Cherry Tomato/Ebony  STD'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S8Y8P2Y/?tag=tolees-21'
 descuento: '30.00'
 average: '16.25'

@@ -16,6 +16,7 @@ comparePrice: 4.98 EUR
 prodname: 'DENGC Ratón inalámbrico para Juegos de 2.4G  4 Botones  Ultra silencioso  1000DPI  liviano  para Jugadores  computadora portátil  ratón para computadora  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08JB9D2R1/?tag=tolees-21'
 descuento: '33.53'
 average: '3.31'

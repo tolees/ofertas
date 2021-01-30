@@ -16,6 +16,7 @@ comparePrice: 220.0 EUR
 prodname: 'Samsonite S Cure Spinner- Maleta de equipaje  XL  81 cm - 138 L   Negro  Black '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00MMBZF50/?tag=tolees-21'
 descuento: '42.73'
 average: '126.0'

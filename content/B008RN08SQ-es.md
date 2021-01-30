@@ -16,6 +16,7 @@ comparePrice: 277.09 EUR
 prodname: 'Bosch Professional GKS 18 V-LI Sierra circular  disco diámetro 165 mm  sin batería  en L-BOXX'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B008RN08SQ/?tag=tolees-21'
 descuento: '30.42'
 average: '178.29749999999999'

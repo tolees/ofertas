@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Automático Dispensador de Pasta de Dientes y Conjunto de Portacepillos de Dientes con Montaje en la Pared - Manos Libres 2 de Pasta de Dientes con 5 Cepillos Fijados - Aptos para niños y adultos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GN7QBDN/?tag=tolees-21'
 descuento: '50.04'
 average: '19.98'

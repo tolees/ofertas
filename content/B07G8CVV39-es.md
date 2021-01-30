@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'We Happy Few'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G8CVV39/?tag=tolees-21'
 descuento: '50.23'
 average: '17.732222222222223'

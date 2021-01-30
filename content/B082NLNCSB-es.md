@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'EACLL Transformador LED AC 240V a DC 12V 850mA 10W  Para drive de Menos de 10W MR11 G4 MR16 GU5.3 Bombillas LED y Tiras de Luz LED  Adaptador de Lámpara LED Controlador Alimentación  2 Pack'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082NLNCSB/?tag=tolees-21'
 descuento: '35.02'
 average: '12.99'

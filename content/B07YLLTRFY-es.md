@@ -16,6 +16,7 @@ comparePrice: 110 EUR
 prodname: 'Maletas de Cabina 55x40x20 con USB de Carga Equipaje de Mano Trolley rigida 4 Ruedas giratorias 360º candado TSA Maleta Ryanair  American tourister Sulema'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YLLTRFY/?tag=tolees-21'
 descuento: '27.36'
 average: '79.9'

@@ -16,6 +16,7 @@ comparePrice: 28.0 EUR
 prodname: 'Under Armour Men s Driver Cap 3.0 Gorras de béisbol con Visera  Gorrapara Hombre  Azul  OSFA'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PVQDLXY/?tag=tolees-21'
 descuento: '48.25'
 average: '14.49'

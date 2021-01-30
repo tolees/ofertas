@@ -16,6 +16,7 @@ comparePrice: 30.99 EUR
 prodname: 'MonQi 24 Bolsillos Expandible Clasificadores Carpetas de Acordeón con Capa + 3 * Bolsa de Archivo de cremallera para A4 Documento Expandible Carpetas Archivadoras  Rainbow Carpeta Clasificadora'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RQWZY34/?tag=tolees-21'
 descuento: '64.54'
 average: '10.99'

@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Polaroid Originals - 9009 - Nuevo One Step 2 ViewFinder - Cámaras Instantáneas i-Type - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C5FVGHZ/?tag=tolees-21'
 descuento: '30.77'
 average: '103.683'

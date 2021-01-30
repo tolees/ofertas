@@ -16,6 +16,7 @@ comparePrice: 26.75 EUR
 prodname: 'Clarins 57929 Joli Rouge Velvet  N.762V'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PPQ7G7L/?tag=tolees-21'
 descuento: '50.50'
 average: '14.41'

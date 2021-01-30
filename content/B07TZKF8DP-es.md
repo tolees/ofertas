@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Swatch Reloj Analógico para Mujer de Cuarzo con Correa en Cuero YLS212'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TZKF8DP/?tag=tolees-21'
 descuento: '41.00'
 average: '56.05'

@@ -16,6 +16,7 @@ comparePrice: 61.33 EUR
 prodname: 'Tommy Jeans TJM Essential Chino Short Bañador  Verde  Dynasty Green 399   31 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LBKP9LV/?tag=tolees-21'
 descuento: '30.72'
 average: '33.41'

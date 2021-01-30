@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Reloj Calvin Klein - Mujer K4U23121'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00K1VXDS4/?tag=tolees-21'
 descuento: '64.83'
 average: '79.834'

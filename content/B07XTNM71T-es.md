@@ -16,6 +16,7 @@ comparePrice: 239.99 EUR
 prodname: 'Dragon Ball Z: Kakarot - Edición Coleccionista'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XTNM71T/?tag=tolees-21'
 descuento: '25.00'
 average: '199.79714285714286'

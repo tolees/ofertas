@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Pepe Jeans Dom suéter   Dulwich 594   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZPS5BY/?tag=tolees-21'
 descuento: '63.42'
 average: '24.22'

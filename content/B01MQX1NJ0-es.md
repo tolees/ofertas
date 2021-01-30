@@ -16,6 +16,7 @@ comparePrice: 9.84 EUR
 prodname: 'Bourjois Eye Primer Base de Maquielle Tono 1- 6ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MQX1NJ0/?tag=tolees-21'
 descuento: '40.04'
 average: '5.9'

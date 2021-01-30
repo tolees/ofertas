@@ -16,6 +16,7 @@ comparePrice: 15.54 EUR
 prodname: 'Cooler Master XDream i117 - Ventiladores de CPU  Cross Shape Heat Dissipating Design  1800RPM +/-10%  Ventilador de 95mm  RR-X117-18FP-R1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005C5GNQS/?tag=tolees-21'
 descuento: '29.54'
 average: '10.24'

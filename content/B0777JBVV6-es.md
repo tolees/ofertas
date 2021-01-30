@@ -16,6 +16,7 @@ comparePrice: 39.0 EUR
 prodname: 'Bullpadel Paletero 17004 Green'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0777JBVV6/?tag=tolees-21'
 descuento: '28.46'
 average: '27.9'

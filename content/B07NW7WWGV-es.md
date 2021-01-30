@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Skechers Street Cleats 2-Fashion Trail  Zapatillas para Mujer  Negro  Black Suede/Duraleather Trim #Flash BBK   35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NW7WWGV/?tag=tolees-21'
 descuento: '80.80'
 average: '13.43'

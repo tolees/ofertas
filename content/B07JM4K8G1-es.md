@@ -16,6 +16,7 @@ comparePrice: 12.29 EUR
 prodname: '78mm Interruptor de botón a prueba de agua ON/OFF- 380V 10A Accesorios de máquina-herramienta Interruptor de botón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JM4K8G1/?tag=tolees-21'
 descuento: '29.37'
 average: '8.68'

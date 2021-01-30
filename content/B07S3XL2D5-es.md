@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Esprit 089ee1i001 suéter  Verde  Dark Green 5 304   Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S3XL2D5/?tag=tolees-21'
 descuento: '33.34'
 average: '19.99'

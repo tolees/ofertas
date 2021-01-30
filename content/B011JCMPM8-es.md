@@ -16,6 +16,7 @@ comparePrice: 3.47 EUR
 prodname: 'Giotto Flamastry Turbo Giant Fluo 6 sztuk'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B011JCMPM8/?tag=tolees-21'
 descuento: '33.43'
 average: '2.31'

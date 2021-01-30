@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Superdry Vintage Logo Pop Entry Hood Capucha  Azul  Eclipse Navy 98t   44  Talla del Fabricante: 18  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NX7Z9S9/?tag=tolees-21'
 descuento: '35.72'
 average: '44.99'

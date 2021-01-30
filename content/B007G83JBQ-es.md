@@ -16,6 +16,7 @@ comparePrice: 12.9 EUR
 prodname: 'T nB Auriculares Diadema HiFi - con Cable Extra Largo de 8 Metros y Control de Volumen  Ideales para la TV'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007G83JBQ/?tag=tolees-21'
 descuento: '30.31'
 average: '8.99'

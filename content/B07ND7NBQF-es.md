@@ -16,6 +16,7 @@ comparePrice: 115.0 EUR
 prodname: 'Lacoste - COMPLEMENTO Piel Premium Hombre - NH2828CE'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ND7NBQF/?tag=tolees-21'
 descuento: '25.95'
 average: '82.22181818181818'

@@ -16,6 +16,7 @@ comparePrice: 33.99 EUR
 prodname: 'StillCool Aire Acondicionado Portátil  3 en 1 Ventilador Aire Acondicionado  Humidificador y Purificador  Ventilador USB  3 Velocidade  90 ° oscilación  para Hogar Oficina'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088FJMHD4/?tag=tolees-21'
 descuento: '36.30'
 average: '21.65'

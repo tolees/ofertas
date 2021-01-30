@@ -16,6 +16,7 @@ comparePrice: 50 EUR
 prodname: 'New Balance Yc373v1  Zapatillas para Niños  Rojo  Burgundy Burgundy   34.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KRLGSSS/?tag=tolees-21'
 descuento: '40.00'
 average: '30'

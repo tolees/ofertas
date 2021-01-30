@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'BESTEK Abrazadera de Soporte de Tableta Ajustable Flexible  Clip de Repuesto de Soporte para Tableta de 9.5-14.5 Pulgadas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W2WFQPL/?tag=tolees-21'
 descuento: '29.43'
 average: '11.99'

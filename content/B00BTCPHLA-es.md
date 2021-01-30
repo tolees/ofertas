@@ -16,6 +16,7 @@ comparePrice: 44.92 EUR
 prodname: 'Samsung Flip - Funda para móvil Galaxy S4  Con tapa  protección del terminal  sustituye a la tapa trasera   verde- Versión Extranjera'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BTCPHLA/?tag=tolees-21'
 descuento: '86.53'
 average: '5.76'

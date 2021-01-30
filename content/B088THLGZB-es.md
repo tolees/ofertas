@@ -16,6 +16,7 @@ comparePrice: 11.21 EUR
 prodname: 'LNIEGE Forma del Contorno de la duplicadora Perfil de Calibre Forros Laminado Baldosas para la medición de Perfil'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088THLGZB/?tag=tolees-21'
 descuento: '35.41'
 average: '7.24'

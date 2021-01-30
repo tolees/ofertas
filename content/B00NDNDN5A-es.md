@@ -16,6 +16,7 @@ comparePrice: 79.9 EUR
 prodname: 'Beurer FC95 - Cepillo facial sónico  2 intensidades de Masaje  color blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NDNDN5A/?tag=tolees-21'
 descuento: '34.62'
 average: '44.896'

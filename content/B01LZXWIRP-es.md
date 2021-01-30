@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Tribe Star Wars - Cable USB Lightning para Apple iPhone  120 cm  diseño Stormtrooper'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LZXWIRP/?tag=tolees-21'
 descuento: '50.23'
 average: '9.95'

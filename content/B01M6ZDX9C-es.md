@@ -16,6 +16,7 @@ comparePrice: 62.58 EUR
 prodname: 'Rapesco Alu 40 - Perforadora de gruesos de 4 agujeros y 40 hojas de capacidad  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M6ZDX9C/?tag=tolees-21'
 descuento: '34.82'
 average: '40.79'

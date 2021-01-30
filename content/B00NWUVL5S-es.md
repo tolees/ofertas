@@ -16,6 +16,7 @@ comparePrice: 44.95 EUR
 prodname: 'Medisana PM 100 Oxímetro de pulso  medición de la saturación de oxígeno en sangre  oxímetro de pulso de dedo con pantalla OLED y operación con una sola pulsación'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NWUVL5S/?tag=tolees-21'
 descuento: '39.96'
 average: '27.418571428571425'

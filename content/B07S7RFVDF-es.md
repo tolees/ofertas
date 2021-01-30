@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'PUMA STEPFLEEX 2 SL VE V INF  Zapatillas Unisex niños  Azul  Peacoat White/Firecracker   20 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S7RFVDF/?tag=tolees-21'
 descuento: '28.26'
 average: '17.9'

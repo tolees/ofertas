@@ -16,6 +16,7 @@ comparePrice: 66.0 EUR
 prodname: 'Nike Tanjun  Zapatillas de Running para Hombre  Azul  Midnight Navy/White-Game Royal   42.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XWPYZM4/?tag=tolees-21'
 descuento: '40.92'
 average: '38.99'

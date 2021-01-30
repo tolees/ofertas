@@ -16,6 +16,7 @@ comparePrice: 4.95 EUR
 prodname: 'OcioDual Termómetro Corporal Flexible Fiebre Clinico Digital Infantil Bebés Niños Adultos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073X2JPG8/?tag=tolees-21'
 descuento: '39.60'
 average: '2.99'

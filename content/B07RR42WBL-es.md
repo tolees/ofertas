@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 's.Oliver 03.899.61.5232 suéter  Negro  Black 9999   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RR42WBL/?tag=tolees-21'
 descuento: '65.62'
 average: '10.31'

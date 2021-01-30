@@ -16,6 +16,7 @@ comparePrice: 242.9 EUR
 prodname: 'HP 38A - Cartucho de tóner original LaserJet para Laserjet series 4200 y 4200L  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00006LHOW/?tag=tolees-21'
 descuento: '59.24'
 average: '112.21199999999999'

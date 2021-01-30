@@ -16,6 +16,7 @@ comparePrice: 2.05 EUR
 prodname: 'Depilación sin dolor en forma de corazón Depilación Esponja Almohadilla de doble cara Depilación Pulido Cara Brazo Pierna Herramienta de depilación - Verde  rosa y amarillo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CZS69MF/?tag=tolees-21'
 descuento: '33.66'
 average: '1.36'

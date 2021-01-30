@@ -16,6 +16,7 @@ comparePrice: 25.95 EUR
 prodname: 'Jata Hogar 762 Balanza electrónica dietética  Capacidad 5kg  0 W  5 litros  0 Decibeles  Cristal Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M6DRQMO/?tag=tolees-21'
 descuento: '35.45'
 average: '16.75'

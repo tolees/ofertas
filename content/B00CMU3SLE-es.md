@@ -16,6 +16,7 @@ comparePrice: 7.95 EUR
 prodname: 'Revlon Super Lustrous Brillo de Labial  Pink Pop '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00CMU3SLE/?tag=tolees-21'
 descuento: '74.97'
 average: '2.467777777777778'

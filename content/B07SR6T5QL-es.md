@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'YIWER 24 unidades LED Velas CR2032 pilas velas sin llama Velas de té Velas LED Velas parpadeantes sin Llama se puede el Halloween boda o otras ocasiones extendida ser. Tres superficies de color24pcs '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SR6T5QL/?tag=tolees-21'
 descuento: '49.15'
 average: '8.64'

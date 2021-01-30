@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Funko- Pop Vinilo: NSYNC: Justin Timberlake Figura Coleccionable  Multicolor  Talla Única  34538 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N5TV7Q7/?tag=tolees-21'
 descuento: '38.87'
 average: '9.506666666666666'

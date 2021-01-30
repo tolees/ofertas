@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'BOSS Starfish Bañador para Hombre  Azul  Blue   Small'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S5MSJDY/?tag=tolees-21'
 descuento: '26.21'
 average: '36.86'

@@ -16,6 +16,7 @@ comparePrice: 15.14 EUR
 prodname: 'Traje de Gasa de Tres Capas de Espesamiento a Pprueba de Polvo Protección Facial Desechable  50PCS '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088TPPF79/?tag=tolees-21'
 descuento: '38.44'
 average: '9.32'

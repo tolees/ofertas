@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Hurley M Cut IT UP tee Camisetas  Hombre  White'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KCWVFWW/?tag=tolees-21'
 descuento: '66.23'
 average: '10.13'

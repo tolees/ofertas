@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'adidas D2m tee 3s T-Shirt  Hombre  Grey Six  2XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KKWCW7P/?tag=tolees-21'
 descuento: '50.02'
 average: '12.47'

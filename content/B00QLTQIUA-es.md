@@ -16,6 +16,7 @@ comparePrice: 16.0 EUR
 prodname: 'Rayen Barra Extra de Armario  Acero  Gris  77 x 85 x 2'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00QLTQIUA/?tag=tolees-21'
 descuento: '25.00'
 average: '12.0'

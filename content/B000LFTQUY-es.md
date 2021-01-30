@@ -16,6 +16,7 @@ comparePrice: 12.9 EUR
 prodname: 'Silverline WR40 Llave Inglesa Ajustable  Longitud 300 mm  Apertura 32 mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000LFTQUY/?tag=tolees-21'
 descuento: '29.61'
 average: '9.184999999999999'

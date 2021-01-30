@@ -16,6 +16,7 @@ comparePrice: 189.0 EUR
 prodname: 'Tommy Hilfiger Hombre Reloj de Pulsera analógico Cuarzo Piel 1791164'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B011IO7OEQ/?tag=tolees-21'
 descuento: '26.46'
 average: '139.0'

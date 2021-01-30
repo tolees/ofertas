@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Salomon  Aksium  Máscara de esquí unisex  Negro-Blanco/Negro  Solar Black   L40515800'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DQN18RX/?tag=tolees-21'
 descuento: '44.01'
 average: '27.99'

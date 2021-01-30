@@ -16,6 +16,7 @@ comparePrice: 25.5 EUR
 prodname: 'Biotherm Sun Crème Solaire Fondante Anti Age Visage SPF50 Protector Solar - 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00RBQUECK/?tag=tolees-21'
 descuento: '39.22'
 average: '15.5'

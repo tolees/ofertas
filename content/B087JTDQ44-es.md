@@ -16,6 +16,7 @@ comparePrice: 108.9 EUR
 prodname: 'Saco Silla Universal Rosy Fuentes en marino'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087JTDQ44/?tag=tolees-21'
 descuento: '40.40'
 average: '64.9'

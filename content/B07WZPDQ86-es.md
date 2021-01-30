@@ -16,6 +16,7 @@ comparePrice: 21.78 EUR
 prodname: 'Eastpak Springer Riñonera  23 cm  2 L  Azul  Nep Gulf '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WZPDQ86/?tag=tolees-21'
 descuento: '26.54'
 average: '16.0'

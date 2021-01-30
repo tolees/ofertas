@@ -16,6 +16,7 @@ comparePrice: 2.99 EUR
 prodname: 'Gonher - Fulminantes de 8 Disparos  8/0 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001HGXIFA/?tag=tolees-21'
 descuento: '59.87'
 average: '1.2'

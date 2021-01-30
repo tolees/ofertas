@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'EZDIY-FAB M.2 Estuche USB 3.1 Gen2 para SATA M.2 SSD Key B/B+M   USB-C Gen2 M2 Estuche Externo SSD con Tipo C + Cable Tipo A'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MW24RRF/?tag=tolees-21'
 descuento: '41.50'
 average: '14.62'

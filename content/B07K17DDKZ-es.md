@@ -16,6 +16,7 @@ comparePrice: 27.95 EUR
 prodname: 'Adidas Altasport CF I  Zapatillas Unisex bebé  Blanco  Footwear White/Blue/Blue 0   26 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K17DDKZ/?tag=tolees-21'
 descuento: '46.44'
 average: '14.97'

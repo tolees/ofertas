@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Kelme - Zapatillas Triton'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C5D3FM7/?tag=tolees-21'
 descuento: '30.00'
 average: '41.93'

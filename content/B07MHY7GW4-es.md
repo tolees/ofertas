@@ -16,6 +16,7 @@ comparePrice: 6.12 EUR
 prodname: 'Funko-Pocket Keychain: Toy Story: Alien Pop Llavero  for Unisex in Standard Made of Vinilo  Multicolor  37055 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MHY7GW4/?tag=tolees-21'
 descuento: '29.74'
 average: '4.52'

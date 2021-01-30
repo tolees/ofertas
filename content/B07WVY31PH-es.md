@@ -16,6 +16,7 @@ comparePrice: 48.91 EUR
 prodname: 'Auriculares Bluetooth  Auriculares Inalámbricos 2000mAh con 100H Playtime  TWS Auriculares Bluetooth 5.0 Deporte IPX7 Impermeable Hi-Fi Estéreo con Caja de Carga y Mic  Pantalla LED y Control Tactil'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WVY31PH/?tag=tolees-21'
 descuento: '71.40'
 average: '13.99'

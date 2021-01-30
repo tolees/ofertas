@@ -16,6 +16,7 @@ comparePrice: 6.99 EUR
 prodname: 'NINGNETI Reutilizable y Lavable con Carbón Activado Filtro Antipolvo Antivaho Actividades al aire libre Pack 3 unidades + 6 unidades Almohadilla NKZ-0427A18'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087QLSZ1L/?tag=tolees-21'
 descuento: '57.08'
 average: '6.390000000000001'

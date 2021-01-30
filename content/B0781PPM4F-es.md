@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Portarrollos de MEZOOM de 304 acero inoxidable de 3m pegamento fuerte para colgar papel del higiene  toalla en baño o cocina o retaurante'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0781PPM4F/?tag=tolees-21'
 descuento: '51.94'
 average: '12.49'

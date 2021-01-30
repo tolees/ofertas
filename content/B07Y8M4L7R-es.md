@@ -16,6 +16,7 @@ comparePrice: 222.72 EUR
 prodname: '2.0 Altavoces HiFi estantería Altavoces pc  autoamplificados con 46W de Potencia  Madera  woofer de 5"  1 Tweeter  3.5 mm  RCA USB IN  Bluetooth Altavoces autoamplificados'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y8M4L7R/?tag=tolees-21'
 descuento: '70.13'
 average: '66.52'

@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Police 14536JSB/12A - Reloj mecánico para hombre con pantalla analógica de esfera marrón y correa de piel marrón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BHL2WB0/?tag=tolees-21'
 descuento: '32.19'
 average: '134.95'

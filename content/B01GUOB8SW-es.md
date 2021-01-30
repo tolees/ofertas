@@ -16,6 +16,7 @@ comparePrice: 21.3 EUR
 prodname: 'Divaz - Zapatillas Deportivas Ellie de Estampado Floral para Mujer señora  38 EU   Lavanda '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GUOB8SW/?tag=tolees-21'
 descuento: '33.33'
 average: '14.2'

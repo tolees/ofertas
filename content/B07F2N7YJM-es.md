@@ -16,6 +16,7 @@ comparePrice: 21.49 EUR
 prodname: 'Amazon Essentials - Pantalones deportivos ajustados para hombre  Gris oscuro  US M  EU M '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F2N7YJM/?tag=tolees-21'
 descuento: '42.90'
 average: '12.27'

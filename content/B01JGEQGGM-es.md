@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Foodsaver FFC003X Recipiente para envasar al vacío  700 ml  0.7 litros  0 Decibelios  Plástico  Transparente y verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01JGEQGGM/?tag=tolees-21'
 descuento: '57.11'
 average: '9.995000000000001'

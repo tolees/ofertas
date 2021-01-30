@@ -16,6 +16,7 @@ comparePrice: 186.0 EUR
 prodname: 'Orlane Fermete Cuidado de Nuit Thermo Lift 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00A8PTUMQ/?tag=tolees-21'
 descuento: '60.00'
 average: '80.206'

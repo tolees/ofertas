@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'Luces Solares Jardín  Lamparas Solares Exterior con Sensor de Movimien IP65 Impermeable Paisaje Pathway Lámpara Luces de Seguridad para Patio Césped Escaleras  2 Packs '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M6WZTXF/?tag=tolees-21'
 descuento: '26.09'
 average: '33.99'

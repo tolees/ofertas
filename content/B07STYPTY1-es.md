@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'NWOUIIAY Compresor de Aire Portátil 150PSI 35L/Min Bomba Aire Coche 120W 12.6V Recargable 2 000mAh Automático con LCD Pantalla Digital y LED Luz Apto para Neumáticos de Coche Moto Bicicleta'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07STYPTY1/?tag=tolees-21'
 descuento: '28.01'
 average: '35.99'

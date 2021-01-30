@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Hawiton Sujetadores Deportivos Mujer con Almohadillas Extraíbles Espalda Sujetador Deporte Mujer Sin Costuras con Relleno Yoga Racerback Top Gimnasio Fitness Ejercicio  Pack 1/3'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QL249NS/?tag=tolees-21'
 descuento: '60.02'
 average: '11.99'

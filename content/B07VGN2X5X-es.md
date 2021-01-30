@@ -16,6 +16,7 @@ comparePrice: 61.73 EUR
 prodname: 'TACKLIFE - Juego de taladros profesionales  110 piezas  con puntas de destornillador  taladros de piedra  taladros de madera  insertos de llave de vaso  taladros planos de sierra perforadora  etc. -DDB02 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VGN2X5X/?tag=tolees-21'
 descuento: '78.15'
 average: '13.49'

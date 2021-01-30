@@ -16,6 +16,7 @@ comparePrice: 37.0 EUR
 prodname: 'Kipling - Creativity Xl  Monederos Mujer  Azul  Stone Blue Block   21.5x13.5x4 cm  B x H T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PRC7XYD/?tag=tolees-21'
 descuento: '48.70'
 average: '18.98'

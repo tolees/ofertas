@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'adidas Coneo Qt  Zapatillas para Mujer  Negro  Core Black/Footwear White/Vapour Grey Metallic 0   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0753GZYBT/?tag=tolees-21'
 descuento: '29.99'
 average: '35.72'

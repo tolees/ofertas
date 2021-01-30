@@ -16,6 +16,7 @@ comparePrice: 230 EUR
 prodname: 'Seiko Reloj Analógico para Hombre de Energía Solar con Correa en Tela SNE095P2'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004KSDHKS/?tag=tolees-21'
 descuento: '56.09'
 average: '101'

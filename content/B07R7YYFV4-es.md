@@ -16,6 +16,7 @@ comparePrice: 27.9 EUR
 prodname: 'Always Control Juguetes Eróticos 1 Unidad 250 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R7YYFV4/?tag=tolees-21'
 descuento: '55.70'
 average: '13.71'

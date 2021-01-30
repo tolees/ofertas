@@ -16,6 +16,7 @@ comparePrice: 549.0 EUR
 prodname: 'Emma Colchón 135x190 cm - Viscoelástico Premium - Transpirable  Adaptable  Color Blanco  Todas Las Medidas '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077PWGY95/?tag=tolees-21'
 descuento: '30.00'
 average: '466.65'

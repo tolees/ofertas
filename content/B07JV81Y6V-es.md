@@ -16,6 +16,7 @@ comparePrice: 16.7 EUR
 prodname: '5 Star: Fortnite: Omega Full Armor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JV81Y6V/?tag=tolees-21'
 descuento: '50.06'
 average: '8.636666666666667'

@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Fjällräven 23510-31 Kånken - Mochilla Unisex  16 L  Gris  Grafite   38 x 27 x 13 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0765ZS4YX/?tag=tolees-21'
 descuento: '31.01'
 average: '62.515'

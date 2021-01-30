@@ -16,6 +16,7 @@ comparePrice: 19.45 EUR
 prodname: 'MOISO SEBS Plantillas Alivio de Pies Dolorosos Soles de Zapato Insertos Cojín para Trabajo  ocio y Cómodo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KMCY9KR/?tag=tolees-21'
 descuento: '38.35'
 average: '11.99'

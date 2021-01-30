@@ -16,6 +16,7 @@ comparePrice: 8.5 EUR
 prodname: 'Joma Treviso Pantalones Cortos Equipamiento  Hombre  Azul Marino  4XS-3XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06Y61BWBS/?tag=tolees-21'
 descuento: '42.47'
 average: '4.89'

@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Skechers Arya-Airy Days  Bailarinas con Punta Cerrada para Mujer  Beige  Natural Crochet/Off White Trim Nat   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TYVPN8K/?tag=tolees-21'
 descuento: '31.53'
 average: '44.47'

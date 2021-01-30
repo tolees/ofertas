@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Funko Vinyl: Bojack Horseman: Princess Carolyn  13993 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XGVCBZQ/?tag=tolees-21'
 descuento: '30.02'
 average: '10.49'

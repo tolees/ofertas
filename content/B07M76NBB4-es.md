@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'EISFEU LED 18W Lámpara de Techo  Reemplaza 100W Bombillas Incandescentes  Súper Fácil de Instalar  Ø 280mm Blanco Natural 4000K [Clase de eficiencia energética A+]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M76NBB4/?tag=tolees-21'
 descuento: '37.15'
 average: '21.99'

@@ -16,6 +16,7 @@ comparePrice: 53.9 EUR
 prodname: 'EMS Hips Electroestimulador Muscular Gluteos Estimulador de Glúteos Herramientas Nalgas HipTrainer para la Cadera Mujer USB Recargable Estimulador Muscular Ejercitar Gluteos  Hombre y Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RXF38TZ/?tag=tolees-21'
 descuento: '55.66'
 average: '36.99999999999999'

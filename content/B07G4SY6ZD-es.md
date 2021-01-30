@@ -16,6 +16,7 @@ comparePrice: 279.0 EUR
 prodname: 'Hugo Boss Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable 1513641'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G4SY6ZD/?tag=tolees-21'
 descuento: '30.00'
 average: '211.5142857142857'

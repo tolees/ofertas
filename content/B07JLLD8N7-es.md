@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'TECKEPIC Fitness Tracker Color Screen Activity Tracker Heart Rate Monitor Wristband Bluetooth Pedometer Smart Bracelet'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JLLD8N7/?tag=tolees-21'
 descuento: '25.03'
 average: '7.323333333333333'

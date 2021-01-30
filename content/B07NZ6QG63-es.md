@@ -16,6 +16,7 @@ comparePrice: 129.95 EUR
 prodname: 'Art Cambridge  Botas Clasicas para Hombre  Rojo  Burdeos Burdeos   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NZ6QG63/?tag=tolees-21'
 descuento: '59.28'
 average: '52.91'

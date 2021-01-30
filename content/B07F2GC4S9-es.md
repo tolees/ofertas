@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Razer DeathAdder Essential Clasico- Ratón Gaming sensor 4g óptico  6.400 dpi  iluminación personalizable Razer Chroma'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F2GC4S9/?tag=tolees-21'
 descuento: '36.01'
 average: '30.246666666666666'

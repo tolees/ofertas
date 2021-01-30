@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'Sauber - Vitrocerámica de Inducción SEV03-3 zonas de cocción - Ancho: 60cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q3YL14C/?tag=tolees-21'
 descuento: '33.44'
 average: '209.0'

@@ -16,6 +16,7 @@ comparePrice: 54.99 EUR
 prodname: 'Moulinex Fresh Express DJ753500 Rallador Eléctrico Con 3 Conos  200 W  Blanco/Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00MNBQ6KC/?tag=tolees-21'
 descuento: '25.46'
 average: '40.99'

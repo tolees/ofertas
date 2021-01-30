@@ -16,6 +16,7 @@ comparePrice: 128.99 EUR
 prodname: 'CIVO Relojes Mujer Oro Rosa Reloj de Pulsera Mujer Impermeable de Malla de Acero Inoxidable Relojes Estrellados Cielo para Mujer Vestir Elegantes Negocios'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WHDBQCN/?tag=tolees-21'
 descuento: '76.75'
 average: '29.99'

@@ -16,6 +16,7 @@ comparePrice: 3.99 EUR
 prodname: 'lámpara de mesa  juego de 2 lámparas de noche Lámpara de mesa pequeña para dormitorio  oficina  habitación infantil con base de metal mini y pantalla de tela de lino'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0867T5JXH/?tag=tolees-21'
 descuento: '45.11'
 average: '3.09'

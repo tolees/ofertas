@@ -16,6 +16,7 @@ comparePrice: 193.6 EUR
 prodname: 'Manfrotto 290 Xtra - Kit trípode de 3 Secciones y rótula 3 Way  Aluminio '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B013SJZVIU/?tag=tolees-21'
 descuento: '28.20'
 average: '139.1'

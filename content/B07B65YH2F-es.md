@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'Bolsa de maquillaje Tpocean  neceser portátil para viajar  para mujeres y niñas  bolsa de aseo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B65YH2F/?tag=tolees-21'
 descuento: '47.16'
 average: '4.75'

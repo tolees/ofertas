@@ -16,6 +16,7 @@ comparePrice: 7.45 EUR
 prodname: 'Garnier Delial Aceite Bronceador Intenso Nutritivo Hidratante con Aroma a Coco - 200 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00X9TN4GQ/?tag=tolees-21'
 descuento: '42.95'
 average: '5.076666666666668'

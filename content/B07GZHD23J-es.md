@@ -16,6 +16,7 @@ comparePrice: 78.0 EUR
 prodname: 'Peluca para disfraz de Capitán América con soldado de invierno para mujer  color naranja  de fibra resistente al calor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GZHD23J/?tag=tolees-21'
 descuento: '73.09'
 average: '20.99'

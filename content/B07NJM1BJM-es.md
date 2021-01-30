@@ -16,6 +16,7 @@ comparePrice: 132.95 EUR
 prodname: 'IKOHS Mambo VG301 - Aspiradora Vertical sin Cable 3 en 1  Aspirador Escoba y de Mano sin Bolsa  portátil para hogar  con Filtro HEPA  Batería 25 9V  deposito con 600ml  Multifuncional  Muy silencioso'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NJM1BJM/?tag=tolees-21'
 descuento: '32.34'
 average: '102.45'

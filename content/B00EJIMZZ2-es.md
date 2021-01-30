@@ -16,6 +16,7 @@ comparePrice: 12.25 EUR
 prodname: '3M xA004837747 Respirador Antipartículas de Plegado Plano  Certificado de seguridad EN'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00EJIMZZ2/?tag=tolees-21'
 descuento: '33.39'
 average: '8.16'

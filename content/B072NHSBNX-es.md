@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Quiksilver Mission V-Shoes For Men  Botas de Nieve para Hombre  Negro  Solid Black Sbkm   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072NHSBNX/?tag=tolees-21'
 descuento: '50.01'
 average: '42.99'

@@ -16,6 +16,7 @@ comparePrice: 3.14 EUR
 prodname: 'Memoria Flash Cuadrada Estilo Antiguo de Madera Natural Eco Vintage Collection USB 2.0 - Madera'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087WJ3VB4/?tag=tolees-21'
 descuento: '35.03'
 average: '2.04'

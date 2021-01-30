@@ -16,6 +16,7 @@ comparePrice: 109.99 EUR
 prodname: 'WiMiUS Cámara de Caza 20MP 1080P 30FPS   Camara Caza con 940nm Luz Invisible  Camara Caza Nocturna Velocidad de Disparo de 0.2s de hasta 70 Pies / 21m  Impermeable Ip54 para Vigilancia  Cazar-Upgrade'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RKRCCJ8/?tag=tolees-21'
 descuento: '28.18'
 average: '78.99'

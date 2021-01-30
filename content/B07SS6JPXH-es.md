@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Skin Scrubber Ultrasónico  WOWGO Exfoliación Facial Ultrasonica Pantalla LCD Limpiador de Poros Facial Masajeador y Elevación'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SS6JPXH/?tag=tolees-21'
 descuento: '44.46'
 average: '19.99'

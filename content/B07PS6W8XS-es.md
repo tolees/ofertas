@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'Under Armour Qualifier Speedpocket Roadside Runway Crop Legging  Mujer  Negro  XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PS6W8XS/?tag=tolees-21'
 descuento: '84.59'
 average: '13.87'

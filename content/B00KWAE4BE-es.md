@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Tropico 5'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KWAE4BE/?tag=tolees-21'
 descuento: '56.74'
 average: '25.95'

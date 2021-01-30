@@ -16,6 +16,7 @@ comparePrice: 5.69 EUR
 prodname: 'Catrice The Modern Matt Collection Paleta de Sombras de Ojos  Multi 010 21 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06WW27S3F/?tag=tolees-21'
 descuento: '47.45'
 average: '2.99'

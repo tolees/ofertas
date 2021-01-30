@@ -16,6 +16,7 @@ comparePrice: 66.07 EUR
 prodname: 'Lamberts Diet Whey - Suplemento para Deportistas  1000 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01F8PBWOE/?tag=tolees-21'
 descuento: '48.48'
 average: '34.04'

@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Belle Azul - Cool Legs - Gel de Alivio Instantáneo para Piernas Cansadas y Doloridas Refrescante  Mejora la Circulación y el Malestar Muscular  Efecto Frío Anti-inflamatorio  Incluye Bolsa de Gel  100ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0168QG1TI/?tag=tolees-21'
 descuento: '50.17'
 average: '14.9'

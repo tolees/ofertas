@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'Nuk - Calienta Biberones y Potitos en Casa o de Viaje'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MQH3EYP/?tag=tolees-21'
 descuento: '27.90'
 average: '19.46'

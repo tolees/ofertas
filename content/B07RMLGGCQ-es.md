@@ -16,6 +16,7 @@ comparePrice: 155.0 EUR
 prodname: 'Calvin Klein - Worked Shopper  Bolsos totes Mujer  Negro  Black   13x27x47 cm  W x H L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RMLGGCQ/?tag=tolees-21'
 descuento: '41.97'
 average: '89.94'

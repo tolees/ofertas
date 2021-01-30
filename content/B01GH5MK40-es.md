@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'Under Armour Tech Polo  Hombre  Rojo  SM'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GH5MK40/?tag=tolees-21'
 descuento: '48.77'
 average: '20.49'

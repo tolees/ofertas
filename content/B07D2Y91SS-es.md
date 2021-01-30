@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'GEKER Compresor de Aire Portátil 12V 150 PSI con LED Luz Emergencia Inflador de Neumáticos Digital para Vehículos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D2Y91SS/?tag=tolees-21'
 descuento: '30.56'
 average: '25.656666666666666'

@@ -16,6 +16,7 @@ comparePrice: 65.46 EUR
 prodname: 'Tommy Hilfiger Tommy Regular Polo  Faded Indigo  Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VLHTCHK/?tag=tolees-21'
 descuento: '26.67'
 average: '48.0'

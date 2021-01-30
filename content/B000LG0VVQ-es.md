@@ -16,6 +16,7 @@ comparePrice: 61.71 EUR
 prodname: 'Silverline 633524 - Grapadora/clavadora neumática 50 mm Calibre 18'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000LG0VVQ/?tag=tolees-21'
 descuento: '38.18'
 average: '38.15'

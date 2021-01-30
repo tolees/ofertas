@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Portátil Estuche de Viaje para Cepillo Eléctrico de Dientes 3 Piezas  URAQT Bolsa Caja Protectora de Azul para Oral-B y Philips（Azul）'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D99MDP5/?tag=tolees-21'
 descuento: '30.79'
 average: '8.99'

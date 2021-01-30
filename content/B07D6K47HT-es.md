@@ -16,6 +16,7 @@ comparePrice: 119.9 EUR
 prodname: 'Crock-Pot CSC051X  Olla Multicooker Express para todo tipo de recetas: cocción lenta  cocción rápida a presión con varios ajustes  sellar/saltear  vapor y yogur  5.7 litros  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D6K47HT/?tag=tolees-21'
 descuento: '38.07'
 average: '74.25'

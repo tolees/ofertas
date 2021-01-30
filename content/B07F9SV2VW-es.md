@@ -16,6 +16,7 @@ comparePrice: 17.0 EUR
 prodname: 'Unidad Flash Lexar JumpDrive S75 USB 3.0 64 GB [Embalaje ecológico]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F9SV2VW/?tag=tolees-21'
 descuento: '30.00'
 average: '12.32'

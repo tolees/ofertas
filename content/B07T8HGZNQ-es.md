@@ -16,6 +16,7 @@ comparePrice: 8 EUR
 prodname: 'Finocam - Agenda 2020 semana vista vertical Dynamic Mara Negro español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T8HGZNQ/?tag=tolees-21'
 descuento: '30.00'
 average: '5.6'

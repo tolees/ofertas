@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'Philips HD4646/20 - Calentador de agua  Negro/Plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0019QLTMW/?tag=tolees-21'
 descuento: '26.27'
 average: '22.263333333333332'

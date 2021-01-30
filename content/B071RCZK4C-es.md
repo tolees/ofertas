@@ -16,6 +16,7 @@ comparePrice: 29.67 EUR
 prodname: 'Reloj - Lancardo - para - LCD17P042'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071RCZK4C/?tag=tolees-21'
 descuento: '66.67'
 average: '9.89'

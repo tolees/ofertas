@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'JACK & JONES Jfwstoke Nubuck Boot Mono Noos  Botas Clasicas para Hombre  Negro  Black Black   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CTHLYP2/?tag=tolees-21'
 descuento: '50.01'
 average: '39.20153846153847'

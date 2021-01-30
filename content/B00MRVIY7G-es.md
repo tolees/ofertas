@@ -16,6 +16,7 @@ comparePrice: 32.95 EUR
 prodname: 'Big Boy Golden XXL Capsulas - 45 Tabletas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00MRVIY7G/?tag=tolees-21'
 descuento: '49.01'
 average: '16.8'

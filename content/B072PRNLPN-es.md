@@ -16,6 +16,7 @@ comparePrice: 301.29 EUR
 prodname: 'Grohe Lineare -  Grifo de bidé 1/2"Tamaño S  color cromo  Ref.33848001 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072PRNLPN/?tag=tolees-21'
 descuento: '49.89'
 average: '156.99'

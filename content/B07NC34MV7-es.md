@@ -16,6 +16,7 @@ comparePrice: 13.35 EUR
 prodname: 'AXE Gold - Desodorante Bodyspray para hombre  48 horas de protección  200 ml  pack de 3'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NC34MV7/?tag=tolees-21'
 descuento: '30.34'
 average: '9.802999999999999'

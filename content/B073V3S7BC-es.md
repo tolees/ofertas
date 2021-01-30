@@ -16,6 +16,7 @@ comparePrice: 22.74 EUR
 prodname: 'Croft Twist Vino Fino D.O. Jerez – 3 botellas de 750 ml – Total: 2250 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073V3S7BC/?tag=tolees-21'
 descuento: '26.34'
 average: '16.955714285714286'

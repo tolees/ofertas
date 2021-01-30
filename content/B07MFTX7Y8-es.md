@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'i-baby Manta Bebé Grande Mantas Infantiles Para Cuna Cama Infantil 100x150 cm Niños Niñas Manta Swaddle Recién Nacidos 4 Estaciones  Castillo de Fantasía '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MFTX7Y8/?tag=tolees-21'
 descuento: '40.13'
 average: '17.9'

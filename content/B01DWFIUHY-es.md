@@ -16,6 +16,7 @@ comparePrice: 23.6 EUR
 prodname: 'Colgate Fun Smile  Cepillo de Dientes  Surtido: Modelos Aleatorios - Pack de 4 x 2 - Total: 8 Cepillos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01DWFIUHY/?tag=tolees-21'
 descuento: '55.08'
 average: '10.6'

@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Skechers GO Run Fast  Zapatillas para Mujer  Azul Azul Azul Textil Turquesa Ribete Bltq  37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VSC4ZCX/?tag=tolees-21'
 descuento: '56.00'
 average: '28.58'

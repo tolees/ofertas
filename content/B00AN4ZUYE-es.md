@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Sangean DDR3-1BT - Radio DAB  Reloj  digital  DAB+  FM  4 W  76.2 mm  3 "   LCD   color madera y plata  importado '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00AN4ZUYE/?tag=tolees-21'
 descuento: '60.00'
 average: '89.55'

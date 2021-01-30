@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'BOSS Paule 4  Polo Hombre  Blanco  Natural   XX-Large'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N8S2RTG/?tag=tolees-21'
 descuento: '63.96'
 average: '36.02'

@@ -16,6 +16,7 @@ comparePrice: 13.26 EUR
 prodname: '30 juegos de broches de bronce antiguo de 15 x 20 mm C2180'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071S6YK5R/?tag=tolees-21'
 descuento: '75.04'
 average: '3.31'

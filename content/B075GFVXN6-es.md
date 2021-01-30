@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'Triumph True Shape Sensation W01 Sujetador  Beige  Smooth Skin 5g    Talla del Fabricante: 80F  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075GFVXN6/?tag=tolees-21'
 descuento: '49.14'
 average: '27.95'

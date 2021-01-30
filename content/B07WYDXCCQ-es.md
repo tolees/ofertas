@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'COOLMAN Pulsera de Cuero Trenzado con Acero Inoxidable Herradura Brazalete Cuerda Negro para Hombre 20-21 5 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WYDXCCQ/?tag=tolees-21'
 descuento: '54.01'
 average: '22.99'

@@ -16,6 +16,7 @@ comparePrice: 23.45 EUR
 prodname: 'Van&Fancy NA cobre White Cubic Zirconia'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YFS9ZYX/?tag=tolees-21'
 descuento: '56.08'
 average: '10.3'

@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Lee Pique Polo  Gris  Sharp Grey Mele 03   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FTKQ998/?tag=tolees-21'
 descuento: '45.06'
 average: '21.95'

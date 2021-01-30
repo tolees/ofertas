@@ -16,6 +16,7 @@ comparePrice: 9.42 EUR
 prodname: 'Nike Perfume Nike Woman Pink Edt 30 mililitros - 30 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CK4HW26/?tag=tolees-21'
 descuento: '69.21'
 average: '2.9'

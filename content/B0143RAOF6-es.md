@@ -16,6 +16,7 @@ comparePrice: 12.22 EUR
 prodname: 'Matrix Total Results High Amplify Wonder Boost - Cuidado capilar  250 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0143RAOF6/?tag=tolees-21'
 descuento: '40.43'
 average: '7.28'

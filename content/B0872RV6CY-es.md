@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'iVANKY Repetidor HDMI Amplificador HDMI 4K @ 60Hz Hembra a Hembra - Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0872RV6CY/?tag=tolees-21'
 descuento: '40.03'
 average: '9.59'

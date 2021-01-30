@@ -16,6 +16,7 @@ comparePrice: 7.5 EUR
 prodname: 'Dunlop Fort All Court TS Pelotas Tenis  Adultos Unisex  Amarillo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MVVZCKM/?tag=tolees-21'
 descuento: '26.67'
 average: '6.925000000000001'

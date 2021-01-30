@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Columbia Silver Ridge Short AM4283 Shorts  Hombre  Gris  Grill   30'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00OCSE2ZK/?tag=tolees-21'
 descuento: '70.69'
 average: '16.85'

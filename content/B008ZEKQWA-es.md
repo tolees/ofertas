@@ -16,6 +16,7 @@ comparePrice: 39.75 EUR
 prodname: 'ABUS 55971 Antirrobo Disco Moto  Rojo  Medium'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B008ZEKQWA/?tag=tolees-21'
 descuento: '37.13'
 average: '24.99'

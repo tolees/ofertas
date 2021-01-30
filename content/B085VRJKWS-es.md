@@ -16,6 +16,7 @@ comparePrice: 54.99 EUR
 prodname: 'Oacvien 7 Puertos Hub USB 3.0  Interruptor de Encendido Individual y Indicador LED  5 Gbits Transferencia de Datos y Aluminio Hub USB 3.0 con Adaptador de Corriente Externo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085VRJKWS/?tag=tolees-21'
 descuento: '49.10'
 average: '27.99'

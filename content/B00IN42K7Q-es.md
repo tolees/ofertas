@@ -16,6 +16,7 @@ comparePrice: 139.0 EUR
 prodname: 'Kärcher 1.673-228.0 Limpiador de alta presión  1400 W  modelo antiguo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00IN42K7Q/?tag=tolees-21'
 descuento: '37.68'
 average: '86.63'

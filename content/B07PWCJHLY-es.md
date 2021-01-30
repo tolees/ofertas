@@ -16,6 +16,7 @@ comparePrice: 137.46 EUR
 prodname: 'Casio Reloj Hombre de Digital con Correa en Resina GBD-800UC-3ER'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PWCJHLY/?tag=tolees-21'
 descuento: '42.53'
 average: '80.03'

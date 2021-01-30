@@ -16,6 +16,7 @@ comparePrice: 27.99 EUR
 prodname: 'JARBO TN2320 Tóner Compatible para Brother TN-2320 para Brother HL-L2300D HL-L2340DW HL-L2360DN HL-L2365DW DCP-L2500D DCP-L2520DW DCP-L2540DN MFC-L2700DN MFC-L2700DW MFC-L2720DW L2740DW  2 de Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M7MSRQ8/?tag=tolees-21'
 descuento: '36.08'
 average: '17.89'

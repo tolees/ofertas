@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'ESI Aloe Veragel with Vitamin E and Tea Tree Oil 500ml by ESI'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002K5SVZE/?tag=tolees-21'
 descuento: '38.88'
 average: '17.405'

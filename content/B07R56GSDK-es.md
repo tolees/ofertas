@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'LIGE Reloj para Hombre Cronógrafo Deportivo Acero Inoxidable Reloj para Hombre Cuarzo Analógico Esfera Negra Reloj'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R56GSDK/?tag=tolees-21'
 descuento: '79.24'
 average: '26.99'

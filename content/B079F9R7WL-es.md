@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Rainbow Six Siege - Advanced Edition'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079F9R7WL/?tag=tolees-21'
 descuento: '74.95'
 average: '14.543999999999999'

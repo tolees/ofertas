@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'PUMA NRGY Neko Retro  Zapatillas de Running para Hombre  Negro Black White/Green Glimmer  42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SCZXRC4/?tag=tolees-21'
 descuento: '42.89'
 average: '39.95'

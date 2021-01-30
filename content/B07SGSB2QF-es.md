@@ -16,6 +16,7 @@ comparePrice: 25 EUR
 prodname: 'Nike ATM NK PRSTG Soccer Ball  Adultos Unisex  White/Sport Red/ Deep Royal Blue   5'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SGSB2QF/?tag=tolees-21'
 descuento: '30.20'
 average: '18.826666666666668'

@@ -16,6 +16,7 @@ comparePrice: 3.99 EUR
 prodname: 'Set de colorear. Frozen'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HHLM5GG/?tag=tolees-21'
 descuento: '38.10'
 average: '2.47'

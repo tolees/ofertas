@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Tommy Hilfiger - Poppy Lrg Za Solid  Carteras Mujer  Rojo  Barbados Cherry   1x1x1 cm  W x H L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V5VGKCV/?tag=tolees-21'
 descuento: '30.06'
 average: '34.9'

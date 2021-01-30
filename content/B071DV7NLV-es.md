@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Glighone Apliques de Pared LED 6W Lámpara de Pared Interior Luz Moderna Luz de Puro Aluminio para Decoración del Hogar Dormitorio Pasillo Sala de estar Entrada  Blanco Frío'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071DV7NLV/?tag=tolees-21'
 descuento: '30.78'
 average: '17.656666666666666'

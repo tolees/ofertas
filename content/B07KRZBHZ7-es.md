@@ -16,6 +16,7 @@ comparePrice: 27.86 EUR
 prodname: 'Etnies Barge LS  Zapatillas de Skateboard para Hombre  Negro  Black/Green 985   45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KRZBHZ7/?tag=tolees-21'
 descuento: '39.38'
 average: '16.89'

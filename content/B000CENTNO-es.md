@@ -16,6 +16,7 @@ comparePrice: 16.0 EUR
 prodname: 'Rowenta ZR005501 Juego De Filtros Para Aspiradora Sin Bolsa  Verde/Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000CENTNO/?tag=tolees-21'
 descuento: '25.00'
 average: '14.3825'

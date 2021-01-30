@@ -16,6 +16,7 @@ comparePrice: 11.0 EUR
 prodname: 'Sotya Batido Saciante Chocolate - 700 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00DN9K7VC/?tag=tolees-21'
 descuento: '26.91'
 average: '7.9809090909090905'

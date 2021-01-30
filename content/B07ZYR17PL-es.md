@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'TOSING Despertador luces Lámpara de sueño Reloj Altavoz Bluetooth para niños/adultos Durmiente pesado  Sonidos de la naturaleza Luces LED/Snooze/5 Brillo Lámpara de ayuda para dormir  Blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZYR17PL/?tag=tolees-21'
 descuento: '60.84'
 average: '46.99'

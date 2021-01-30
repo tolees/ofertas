@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Timex Reloj de Pulsera TW2R85500'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HZCYVL7/?tag=tolees-21'
 descuento: '39.91'
 average: '26.27'

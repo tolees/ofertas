@@ -16,6 +16,7 @@ comparePrice: 21.9 EUR
 prodname: 'Leathlux Funda Xiaomi Redmi 7 + Cristal Templado Xiaomi Redmi 7  Transparente TPU Silicona [Funda + Vidrio Templado] Ultra Fino Protector de Pantalla y Caso Xiaomi Redmi 7 / Xiaomi Redmi S3'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NMBSFCY/?tag=tolees-21'
 descuento: '67.99'
 average: '7.01'

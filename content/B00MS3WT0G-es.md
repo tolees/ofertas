@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Quinny 72409140 - Sombrilla para silla de paseo y cochecito  color gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00MS3WT0G/?tag=tolees-21'
 descuento: '42.87'
 average: '25.71'

@@ -16,6 +16,7 @@ comparePrice: 250.0 EUR
 prodname: 'Polti Forzaspira MC330 Turbo  aspirador multiciclónico sin bolsa  doble clase A'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00M9COIIW/?tag=tolees-21'
 descuento: '60.00'
 average: '91.94'

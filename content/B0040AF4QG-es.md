@@ -16,6 +16,7 @@ comparePrice: 23.58 EUR
 prodname: 'Securit Trendy Range - Funda para entrega de cuentas en restaurantes  23 x 13 cm   color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0040AF4QG/?tag=tolees-21'
 descuento: '26.25'
 average: '17.39'

@@ -16,6 +16,7 @@ comparePrice: 87.3 EUR
 prodname: 'Dunlop - Botas de Seguridad estriadas Estilo Wellies Modelo Acifort para Hombre  46 EU   Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079K7C6YL/?tag=tolees-21'
 descuento: '33.33'
 average: '58.2'

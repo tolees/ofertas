@@ -16,6 +16,7 @@ comparePrice: 54.99 EUR
 prodname: 'Edge Entertainment- Narcos el Juego de Mesa  Color  EECMNA01 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RBZY9JV/?tag=tolees-21'
 descuento: '25.46'
 average: '40.99'

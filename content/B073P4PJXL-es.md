@@ -16,6 +16,7 @@ comparePrice: 22.9 EUR
 prodname: 'LifeTree Cubiertas De Enfermería | Poncho de Enfermería | Cubierta De La Lactancia Del Bebé'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073P4PJXL/?tag=tolees-21'
 descuento: '43.67'
 average: '12.9'

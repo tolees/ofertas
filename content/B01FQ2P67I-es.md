@@ -16,6 +16,7 @@ comparePrice: 74.25 EUR
 prodname: 'Bulgari Bvlgari Man Black Cologne Edt Vapo 100 Ml 1 Unidad 100 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FQ2P67I/?tag=tolees-21'
 descuento: '38.11'
 average: '46.61333333333334'

@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Bering Ceramic - Reloj analógico de mujer de cuarzo con correa blanca - sumergible a 50 metros'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0045XQ5IO/?tag=tolees-21'
 descuento: '25.21'
 average: '140.01666666666668'

@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'Funda con tapa para LG Optimus L1 II  piel sintética  protección integral   color rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00HW9ZDRC/?tag=tolees-21'
 descuento: '66.64'
 average: '4.0'

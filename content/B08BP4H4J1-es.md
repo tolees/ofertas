@@ -16,6 +16,7 @@ comparePrice: 118.99 EUR
 prodname: 'HengBO Freidora 3L Airfryer Freidora Sin Aceite Freidora de Aire Caliente con Cesta Antiadherente  Temperatura y Temporizador Ajustable  Pantalla LED Táctil  1450W Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BP4H4J1/?tag=tolees-21'
 descuento: '32.78'
 average: '79.99'

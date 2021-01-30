@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Ferilinso Cristal Templado para Xiaomi Redmi Note 8T Protector de Pantalla  [3 Pack] Protector de Pantalla Screen Protector para Cristal Templado Xiaomi Redmi Note 8T'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0816JL8QC/?tag=tolees-21'
 descuento: '68.46'
 average: '5.99'

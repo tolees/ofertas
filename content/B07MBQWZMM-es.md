@@ -16,6 +16,7 @@ comparePrice: 99 EUR
 prodname: 'Kickers Bromer  Botas Clasicas para Hombre  Marrón  Marron Fonce 9   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MBQWZMM/?tag=tolees-21'
 descuento: '58.29'
 average: '41.29'

@@ -16,6 +16,7 @@ comparePrice: 239.0 EUR
 prodname: 'Seiko Reloj cronógrafo para Hombre de Cuarzo con Correa en Acero Inoxidable SUR282P1 Metallizzato  Nero'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JW1NMH7/?tag=tolees-21'
 descuento: '56.11'
 average: '104.9'

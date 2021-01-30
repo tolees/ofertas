@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'The Division 2'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MX1TFJQ/?tag=tolees-21'
 descuento: '50.13'
 average: '19.950000000000003'

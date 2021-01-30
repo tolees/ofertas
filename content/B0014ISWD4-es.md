@@ -16,6 +16,7 @@ comparePrice: 34.25 EUR
 prodname: 'Chloe 22811 - Gel de ducha  200 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0014ISWD4/?tag=tolees-21'
 descuento: '55.91'
 average: '16.22'

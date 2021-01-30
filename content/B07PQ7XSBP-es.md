@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'BRIKSMAX Kit de Iluminación Led para Taller de la Esquina-Compatible con Ladrillos de Construcción Lego Modelo 10264-Juego de Legos no Incluido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PQ7XSBP/?tag=tolees-21'
 descuento: '55.01'
 average: '44.99'

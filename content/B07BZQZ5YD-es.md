@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Kipling Creativity L  Monederos para Mujer  Azul  True Dazz Navy   15x24x45 cm  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BZQZ5YD/?tag=tolees-21'
 descuento: '50.00'
 average: '14.95'

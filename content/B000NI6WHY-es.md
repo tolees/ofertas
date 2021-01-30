@@ -16,6 +16,7 @@ comparePrice: 65.45 EUR
 prodname: 'Solgar Omega 3 Triple concentración  Apoyo al Cuidado del Corazón  Aceite de Pescado Concentrado de Aguas Frías que aporta EPA y DHA  100 Cápsulas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000NI6WHY/?tag=tolees-21'
 descuento: '45.61'
 average: '42.765'

@@ -16,6 +16,7 @@ comparePrice: 6.04 EUR
 prodname: 'StarTech.com PXTNB3SUK1M - Cable de de alimentación para portátil  1 m  BS-1363 a C5  Enchufe de Reino Unido   Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00N8LSVWW/?tag=tolees-21'
 descuento: '35.60'
 average: '4.16'

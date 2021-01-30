@@ -16,6 +16,7 @@ comparePrice: 37.7 EUR
 prodname: 'Optimum Nutrition ON Serious Mass Proteína en Polvo Mass Gainer  con Vitaminas  Creatina y Glutamina  Vainilla  8 porciones  2.73 kg  Embalaje puede variar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0015R6ZPQ/?tag=tolees-21'
 descuento: '31.03'
 average: '25.234'

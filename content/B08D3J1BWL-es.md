@@ -16,6 +16,7 @@ comparePrice: 3.98 EUR
 prodname: '10 Piezas Salvaorejas para Mascarillas  Extender Ganchos para Máscara  Fijador Antideslizante Ajustable de 4 Engranajes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08D3J1BWL/?tag=tolees-21'
 descuento: '50.00'
 average: '2.125'

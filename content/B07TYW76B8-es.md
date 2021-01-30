@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Lacoste Rc2012 Cinturón  Azul  Legion Blue 725   85  tamaño del fabricante: 100  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TYW76B8/?tag=tolees-21'
 descuento: '47.18'
 average: '23.77'

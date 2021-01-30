@@ -16,6 +16,7 @@ comparePrice: 89 EUR
 prodname: 'Pikolinos Sandalia Mykonos para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LAO8PLU/?tag=tolees-21'
 descuento: '52.46'
 average: '46.525000000000006'

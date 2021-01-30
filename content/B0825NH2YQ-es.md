@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'Quiksilver Beach Please 16" - Short De Natación para Hombre Jam/Volley  Hombre  Four Leaf Clover  XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0825NH2YQ/?tag=tolees-21'
 descuento: '34.79'
 average: '29.99'

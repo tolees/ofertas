@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'Superga 2790acotw Linea Up and Down  Zapatillas de Gimnasia para Mujer  Beige  Taupe 949   35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B017QYO9F4/?tag=tolees-21'
 descuento: '56.09'
 average: '30.3'

@@ -16,6 +16,7 @@ comparePrice: 37.99 EUR
 prodname: 'Cámara IP WiFi  BlitzWolf 1080P HD Cámara de Vigilancia WiFi Inalámbrica con Audio de Dos Vías  Detección de Movimiento  Visión Nocturna  Seguridad para Bebé/Anciano/Mascota No Incluye Tarjeta SD '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N2MMGN9/?tag=tolees-21'
 descuento: '26.32'
 average: '34.37461538461538'

@@ -16,6 +16,7 @@ comparePrice: 5.6 EUR
 prodname: 'Bloc Encolado  A5  50 Hojas  Canson Imagine  Grano Fino 200G'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00CSLIHG8/?tag=tolees-21'
 descuento: '30.00'
 average: '3.92'

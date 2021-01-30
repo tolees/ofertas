@@ -16,6 +16,7 @@ comparePrice: 41.0 EUR
 prodname: 'Calvin Klein Unlined Triangle Sujetador de triángulo  Gris  Silver Rose SVR   K  Talla del Fabricante: 0A34  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RGPT8VL/?tag=tolees-21'
 descuento: '40.27'
 average: '24.49'

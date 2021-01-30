@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'L Oréal Paris False Lash Xfiber Xtreme Máscara de Pestañas - 34 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077N4K4HQ/?tag=tolees-21'
 descuento: '37.66'
 average: '9.32'

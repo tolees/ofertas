@@ -16,6 +16,7 @@ comparePrice: 41.92 EUR
 prodname: 'Descanso Tamaño de Funda de edredón 50 por ciento algodón/50 por ciento de Funda de edredón y Bordado poliéster  marrón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KHQ6XKI/?tag=tolees-21'
 descuento: '76.50'
 average: '9.85'

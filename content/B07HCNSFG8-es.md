@@ -16,6 +16,7 @@ comparePrice: 29.98 EUR
 prodname: 'NOVECASA Sauna Pantalones Neopreno Deportivos Mujer para Adelgazante Piernas Sudoración Quema Grasa Fitness Gimnasio  2XL  Pantalones '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HCNSFG8/?tag=tolees-21'
 descuento: '30.09'
 average: '20.96'

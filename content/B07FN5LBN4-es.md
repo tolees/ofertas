@@ -16,6 +16,7 @@ comparePrice: 299.99 EUR
 prodname: 'Rowenta Silence Force Cyclonic RO7691EA Aspirador sin bolsa  filtrado ciclónico  eficiente  silencioso  depósito con capacidad de 2 5 L  fácil de almacenar y de vaciar  con diseño compacto'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FN5LBN4/?tag=tolees-21'
 descuento: '33.60'
 average: '212.11909090909091'

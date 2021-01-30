@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Diyife Clicker para Adiestramiento Perro  4 Piezas  Multicolor con Correa para la Muñeca para Perro Gato Caballo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076LZ4XGK/?tag=tolees-21'
 descuento: '30.03'
 average: '6.99'

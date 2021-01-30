@@ -16,6 +16,7 @@ comparePrice: 26.54 EUR
 prodname: 'Parabrisas Parasol Auto 2win2buy Parabrisas Parasol Delantera Ultravioleta Plegable Auto Diseño Cartoon Encantadora 150×84cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071ZJP3KQ/?tag=tolees-21'
 descuento: '43.52'
 average: '14.99'

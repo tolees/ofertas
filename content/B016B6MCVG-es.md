@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Gant Cotton Pique Crew suéter  Azul  Evening Blue 433   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B016B6MCVG/?tag=tolees-21'
 descuento: '33.38'
 average: '73.60333333333334'

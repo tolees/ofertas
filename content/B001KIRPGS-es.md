@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Thierry Mugler Angel Body Cream 200 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001KIRPGS/?tag=tolees-21'
 descuento: '30.85'
 average: '44.005'

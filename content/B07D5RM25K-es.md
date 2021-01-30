@@ -16,6 +16,7 @@ comparePrice: 12.95 EUR
 prodname: 'Funko- Pop Games The Dragon-Spyro and Sparx Figura de Vinilo  Multicolor  32763 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D5RM25K/?tag=tolees-21'
 descuento: '27.57'
 average: '8.945'

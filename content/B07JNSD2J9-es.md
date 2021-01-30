@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Jack & Jones Jjimarco Jjbowie Sa Noos Pantalones  Negro  Black Black   44 /L32  Talla del Fabricante: 31  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JNSD2J9/?tag=tolees-21'
 descuento: '50.01'
 average: '19.99'

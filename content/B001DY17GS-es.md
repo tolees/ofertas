@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Nike Force 1 Mid  PS   Zapatillas de Baloncesto para Niños  Blanco  White/White/White 113   29 1/2 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001DY17GS/?tag=tolees-21'
 descuento: '41.67'
 average: '35.0'

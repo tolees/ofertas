@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'MATT SAGA Botella de Agua para Perros Portatil Envase de Comida para Perros con 2 Plegable Tazones para Perros Gatos Mascotas Adecuado para al Aire Libre Caminar Viajar  Blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WK5XK45/?tag=tolees-21'
 descuento: '47.64'
 average: '10.99'

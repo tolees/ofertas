@@ -16,6 +16,7 @@ comparePrice: 4.51 EUR
 prodname: 'Gran Cremant Cava Codorníu Semiseco - 0.75 l'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01K7S8NG2/?tag=tolees-21'
 descuento: '49.89'
 average: '2.26'

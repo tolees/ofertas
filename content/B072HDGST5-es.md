@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Mujer Pendientes Azul Joyería Circonita Lágrima con blanco oro plateado Día de la Madre Regalo de la para Niña Dama'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072HDGST5/?tag=tolees-21'
 descuento: '50.63'
 average: '9.87'

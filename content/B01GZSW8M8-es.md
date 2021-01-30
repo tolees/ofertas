@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'WILIT T3 Lámpara de Escritorio Táctil  Flexo LED Regulable  Lámpara de Mesa Ajustable  256 RGB Luz de Color  3 Niveles de Brillo  Brazo Tipo Cuello de Cisne  Protección para los Ojos  5W  Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GZSW8M8/?tag=tolees-21'
 descuento: '47.84'
 average: '23.99'

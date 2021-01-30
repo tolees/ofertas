@@ -16,6 +16,7 @@ comparePrice: 109.95 EUR
 prodname: 'PUMA LQDCELL Optic  Zapatillas de Running para Hombre  White-Blue Turquoise  41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KFZQZYC/?tag=tolees-21'
 descuento: '67.32'
 average: '35.93'

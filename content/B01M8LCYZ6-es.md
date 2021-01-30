@@ -16,6 +16,7 @@ comparePrice: 36.02 EUR
 prodname: 'Correa de reloj de repuesto para Samsung Gear S3  color negro  22 mm  para reloj inteligente Gear S3 Frontier y Gear S3 Classic de V-Moro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M8LCYZ6/?tag=tolees-21'
 descuento: '56.69'
 average: '15.6'

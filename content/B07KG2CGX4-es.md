@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'PUMA Smash V2  Zapatillas Unisex Adulto  Gris  Castlerock Black White   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KG2CGX4/?tag=tolees-21'
 descuento: '30.03'
 average: '42.13333333333333'

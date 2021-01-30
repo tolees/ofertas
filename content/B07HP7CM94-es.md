@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Skechers Men s STATUS 2.0 PEXTON Boat Shoes  Grey  Taupe Canvas TPE   6.5  40 EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HP7CM94/?tag=tolees-21'
 descuento: '31.49'
 average: '42.075'

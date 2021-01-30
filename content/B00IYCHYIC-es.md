@@ -16,6 +16,7 @@ comparePrice: 37.07 EUR
 prodname: 'uhlsport Pullover Match 1/4 Zip Top - Forro para Mujer  Color Negro  Talla 2XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00IYCHYIC/?tag=tolees-21'
 descuento: '64.96'
 average: '12.99'

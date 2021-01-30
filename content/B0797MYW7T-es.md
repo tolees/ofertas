@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Funko Pop!- 889698299138 Atomic Blonde Figura de vinilo  Multicolor  29913    color/modelo surtido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0797MYW7T/?tag=tolees-21'
 descuento: '40.03'
 average: '8.99'

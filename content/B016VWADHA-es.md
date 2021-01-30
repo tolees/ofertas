@@ -16,6 +16,7 @@ comparePrice: 64.54 EUR
 prodname: 'Jata GR603 Plancha de Asar Eléctrica XXL Superficie XXL 60 x 35 cm Antiadherente Libre de PFOA con Bandeja Colectora de Salsas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B016VWADHA/?tag=tolees-21'
 descuento: '25.63'
 average: '47.65'

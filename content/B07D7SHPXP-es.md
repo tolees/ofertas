@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Caja para Relojes de Madera Estuche para Relojes y joyeros  6 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D7SHPXP/?tag=tolees-21'
 descuento: '25.90'
 average: '17.29'

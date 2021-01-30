@@ -16,6 +16,7 @@ comparePrice: 10.4 EUR
 prodname: 'Stargazer  Sombra de ojos  Negro   Pack of 2 x 3.5gr  7 gr '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0025T2IZO/?tag=tolees-21'
 descuento: '60.87'
 average: '6.05'

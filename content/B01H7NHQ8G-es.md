@@ -16,6 +16,7 @@ comparePrice: 49.63 EUR
 prodname: 'Cuadro Fotográfico Composicion Frutas Tamaño total: 97 x 62 cm XXL  Multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01H7NHQ8G/?tag=tolees-21'
 descuento: '41.77'
 average: '28.9'

@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'Funko- Pop Disney: Mount Rainier-Kristoff Figura Coleccionable  Multicolor  Estándar  42701 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QTVBFT9/?tag=tolees-21'
 descuento: '36.19'
 average: '9.885833333333336'

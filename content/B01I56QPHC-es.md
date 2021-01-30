@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Silver HT - Funda Universal con Teclado Micro USB Pixel Gamer para Tablet de 9" a 10.1" Pulgadas. Compatible con iPad  Samsung  BQ  Huawei  etc.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01I56QPHC/?tag=tolees-21'
 descuento: '36.17'
 average: '15.95'

@@ -16,6 +16,7 @@ comparePrice: 64.99 EUR
 prodname: 'KFD 65W Adaptador Cargador Portátil para Lenovo IdeaPad 710s 510s 510 310 110 100 100s 330-15IGM 310-15ABR 110-15IBR 100-15IBD 80QQ 80T700BDSP Yoga 710 510 Air 13 pro ADLX65CLGC2A GX20L29355 20V 3.25A'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XX7CS63/?tag=tolees-21'
 descuento: '64.16'
 average: '23.29'

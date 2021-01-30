@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Crocs Handle It Rain Boot K  Botas de Agua Unisex Niños  Azul  Navy   23/24 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071VVHV56/?tag=tolees-21'
 descuento: '45.02'
 average: '16.49'

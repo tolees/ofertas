@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Superdry Orange Label Jogger Chándal  Azul  Eclipse Navy 98t   XS  Talla del Fabricante:8  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FL8M9NW/?tag=tolees-21'
 descuento: '41.43'
 average: '40.99'

@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'Ducha Solar Bestway Solar-Pro Shower'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007XG1QES/?tag=tolees-21'
 descuento: '28.56'
 average: '8.84'

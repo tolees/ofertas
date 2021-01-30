@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Tuc Tuc Enjoy & Dream Pop Up - Maleta de viaje  niños  color azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JVY19D5/?tag=tolees-21'
 descuento: '38.40'
 average: '24.61'

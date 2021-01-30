@@ -16,6 +16,7 @@ comparePrice: 58.75 EUR
 prodname: 'Tommy Hilfiger Causal Tommy Jeans Sneaker  Zapatillas para Hombre  Blanco  White Ybs   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V8VL95N/?tag=tolees-21'
 descuento: '35.00'
 average: '38.19'

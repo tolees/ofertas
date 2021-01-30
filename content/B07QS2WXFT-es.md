@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Vieta Pro Easy - Altavoz inalámbrico  True Wireless Bluetooth  Radio FM  Reproductor USB  auxiliar  micrófono integrado  resistencia al agua IPX6  batería de 12 horas  azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QS2WXFT/?tag=tolees-21'
 descuento: '40.19'
 average: '23.92'

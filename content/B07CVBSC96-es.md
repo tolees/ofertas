@@ -16,6 +16,7 @@ comparePrice: 5.32 EUR
 prodname: 'FIND - Free Spirit  Líquido de labios mate n.1 + Brillo de labios n.1 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CVBSC96/?tag=tolees-21'
 descuento: '46.80'
 average: '4.255'

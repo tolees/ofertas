@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'Hugo BOSS Reloj Cronógrafo para Hombre de Cuarzo con Correa en Cuero 1513391'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01K9BRU3E/?tag=tolees-21'
 descuento: '46.58'
 average: '205.74846153846156'

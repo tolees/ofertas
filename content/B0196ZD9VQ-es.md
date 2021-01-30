@@ -16,6 +16,7 @@ comparePrice: 795.0 EUR
 prodname: 'Hayward Tiger Shark QC  Limpiafondos automático  Suelo Paredes y línea de flotación   Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0196ZD9VQ/?tag=tolees-21'
 descuento: '39.62'
 average: '638.39'

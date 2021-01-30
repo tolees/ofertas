@@ -16,6 +16,7 @@ comparePrice: 22.84 EUR
 prodname: 'Lutsine Xeramance Crema Reestructurante Intensiva Piel Muy Seca y Atópica Formato Ahorro 2 x 100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LWSGUPN/?tag=tolees-21'
 descuento: '30.17'
 average: '19.133333333333333'

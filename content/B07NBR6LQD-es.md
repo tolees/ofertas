@@ -16,6 +16,7 @@ comparePrice: 168.0 EUR
 prodname: 'ASICS Chaussures Gel Quantum 180 4'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NBR6LQD/?tag=tolees-21'
 descuento: '30.00'
 average: '117.6'

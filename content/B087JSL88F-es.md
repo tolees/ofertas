@@ -16,6 +16,7 @@ comparePrice: 22.48 EUR
 prodname: 'Uarter Paño desechable de protección contra el Polvo de la Cara  50PCS '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087JSL88F/?tag=tolees-21'
 descuento: '33.72'
 average: '14.9'

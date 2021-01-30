@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Levi s Woods W  Zapatillas para Mujer  Blanco  B White 50   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N4JM6XX/?tag=tolees-21'
 descuento: '30.02'
 average: '41.99'

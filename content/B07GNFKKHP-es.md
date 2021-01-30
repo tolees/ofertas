@@ -16,6 +16,7 @@ comparePrice: 128.99 EUR
 prodname: 'HyperX Predator - Memoria RAM de 16 GB  DDR4  3333 MHz  CL16  DIMM XMP  HX433C16PB3/16 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GNFKKHP/?tag=tolees-21'
 descuento: '31.66'
 average: '88.15'

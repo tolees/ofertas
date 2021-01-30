@@ -16,6 +16,7 @@ comparePrice: 16.5 EUR
 prodname: 'Marco huellas bebe tu regalo original para el recien nacido regalos originales para el bebe coloca las huellas del bebe regalo para bautizo fiesta baby shower cumpleaños recuerdos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H31T8BV/?tag=tolees-21'
 descuento: '27.33'
 average: '11.99'

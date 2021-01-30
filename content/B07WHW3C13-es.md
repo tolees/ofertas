@@ -16,6 +16,7 @@ comparePrice: 65.99 EUR
 prodname: 'Pistola Aire Caliente 2000W Tilswall  Decapador Profesional 50-600 ℃ con 12 Modo de Ajustes de Temperatura  Pantalla LED  4 Ugelli con Raschietto  Nucleo di Riscaldamento in Ceramica'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WHW3C13/?tag=tolees-21'
 descuento: '45.46'
 average: '35.99'

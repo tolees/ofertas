@@ -16,6 +16,7 @@ comparePrice: 10.0 EUR
 prodname: 'Funko Pop Figura De Vinil TV: Mad Men-Roger Coleccionable  Multicolor  Talla única  43406 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QDP23LX/?tag=tolees-21'
 descuento: '28.50'
 average: '7.15'

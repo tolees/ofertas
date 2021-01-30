@@ -16,6 +16,7 @@ comparePrice: 179.0 EUR
 prodname: 'Maxi-Cosi CabrioFix Silla de Auto  Reclinable y de Alta Seguridad para Bebe  0-12 Meses  0-13 kg  Color Gris  Nomad Grey '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075FGR3TB/?tag=tolees-21'
 descuento: '27.93'
 average: '104.76666666666667'

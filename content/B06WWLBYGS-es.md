@@ -16,6 +16,7 @@ comparePrice: 31.91 EUR
 prodname: 'HAORUI Spandex Lycra Elástica Cubierta de Mesa Paño de 6 pies Rectangular Adecuado a la Mesa de Banquetes Matrimonial Mesa de Caballetes Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06WWLBYGS/?tag=tolees-21'
 descuento: '53.02'
 average: '14.99'

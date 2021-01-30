@@ -16,6 +16,7 @@ comparePrice: 33.99 EUR
 prodname: 'Cat Footwear Overview  Botas para Hombre  Marrón  Sudan Brown Brown   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MC91KYR/?tag=tolees-21'
 descuento: '35.30'
 average: '21.99'

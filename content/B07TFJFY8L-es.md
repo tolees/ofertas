@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Helly Hansen Ahiga V4 Hydropower  Náuticos para Hombre  Negro  Jet Black/White/Silver Grey 991   44.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TFJFY8L/?tag=tolees-21'
 descuento: '48.20'
 average: '51.8'

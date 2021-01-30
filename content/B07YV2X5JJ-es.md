@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'kampre - Mascarilla de carbón Activo de 4 Capas  50 Piezas  máscara desechable para Orejas  máscara Antipolvo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YV2X5JJ/?tag=tolees-21'
 descuento: '39.94'
 average: '5.995'

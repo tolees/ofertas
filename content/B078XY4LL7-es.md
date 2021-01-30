@@ -16,6 +16,7 @@ comparePrice: 35.5 EUR
 prodname: 'BRA Advanced Sartén  20 cm  aluminio fundido con antiadherente  sin PFOA  súper reforzado  de rendimiento superior y alta resistencia a los arañazos y a la abrasión  apta para Inducción'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078XY4LL7/?tag=tolees-21'
 descuento: '43.69'
 average: '19.99'

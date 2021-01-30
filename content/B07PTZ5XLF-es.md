@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'PUMA Weave XT Wn s  Zapatillas Deportivas para Interior para Mujer  Black White  38.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PTZ5XLF/?tag=tolees-21'
 descuento: '56.33'
 average: '30.395'

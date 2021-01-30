@@ -16,6 +16,7 @@ comparePrice: 10.42 EUR
 prodname: 'JACK & JONES JORFRANKIE Crew Neck Suéter  Multicolor  Sea Moss Fit: Knit Fit   M para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WGNQTG4/?tag=tolees-21'
 descuento: '29.94'
 average: '8.86'

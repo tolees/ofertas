@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'IKOHS Best Toast - Tostadora'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PGQFFBZ/?tag=tolees-21'
 descuento: '25.03'
 average: '29.95'

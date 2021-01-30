@@ -16,6 +16,7 @@ comparePrice: 53.99 EUR
 prodname: 'Craft Sweatshirt Femme Emotion Crew'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G9M8LB3/?tag=tolees-21'
 descuento: '47.23'
 average: '28.49'

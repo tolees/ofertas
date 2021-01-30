@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Funko Pop! - Figura de Vinilo Sailor Saturn  13756 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074HN36PB/?tag=tolees-21'
 descuento: '29.95'
 average: '10.6375'

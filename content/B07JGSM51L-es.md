@@ -16,6 +16,7 @@ comparePrice: 65 EUR
 prodname: 'Pepe Jeans Fidall Pm541220 Polo   Optic White 802   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JGSM51L/?tag=tolees-21'
 descuento: '73.06'
 average: '17.51'

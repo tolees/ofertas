@@ -16,6 +16,7 @@ comparePrice: 28.49 EUR
 prodname: 'MyCartridge Compatible con HP 44A CF244A Cartucho de Tóner Negro para HP Laserjet Pro M15a M15w M16 M17a M17w MFP M28a MFP M28w MFP M30a MFP M30w'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CZBRMV8/?tag=tolees-21'
 descuento: '39.63'
 average: '17.2'

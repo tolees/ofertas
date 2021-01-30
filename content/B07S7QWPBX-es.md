@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'PUMA Carina L JR  Zapatillas para Niñas  Blanco White/Gulf Stream  37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S7QWPBX/?tag=tolees-21'
 descuento: '37.70'
 average: '31.12'

@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Napapijri Damavand V suéter  Verde  Green Forest 2 GE3   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MVJX86V/?tag=tolees-21'
 descuento: '60.00'
 average: '39.6'

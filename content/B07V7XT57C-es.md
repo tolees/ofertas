@@ -16,6 +16,7 @@ comparePrice: 94.9 EUR
 prodname: 'Tommy Hilfiger Corporate Material Mix Runner  Zapatillas para Hombre  Blanco  White Ybs   46 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V7XT57C/?tag=tolees-21'
 descuento: '60.96'
 average: '37.05'

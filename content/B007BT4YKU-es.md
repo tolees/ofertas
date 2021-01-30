@@ -16,6 +16,7 @@ comparePrice: 25 EUR
 prodname: 'Nike Core Items 3.0 Bolsa de Hombro  Negro  Black/Black/Black   Talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007BT4YKU/?tag=tolees-21'
 descuento: '50.20'
 average: '18.369999999999997'

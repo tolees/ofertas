@@ -16,6 +16,7 @@ comparePrice: 29.59 EUR
 prodname: 'PUMA Carson 2 New Core Wn s  Zapatillas de Running para Mujer  Vineyard Wine Black-Bridal Rose  37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KG39G5S/?tag=tolees-21'
 descuento: '42.04'
 average: '18.12'

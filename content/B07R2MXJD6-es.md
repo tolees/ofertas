@@ -16,6 +16,7 @@ comparePrice: 17.34 EUR
 prodname: 'Amazon Essentials Plus Size Sherpa-Lined Full-Zip Hoodie Fashion  Negro  2X'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R2MXJD6/?tag=tolees-21'
 descuento: '25.32'
 average: '12.95'

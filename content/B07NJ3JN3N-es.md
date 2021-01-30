@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Salomon PROLOG 40 BAG Bolsa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NJ3JN3N/?tag=tolees-21'
 descuento: '50.00'
 average: '33.54'

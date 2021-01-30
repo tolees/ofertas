@@ -16,6 +16,7 @@ comparePrice: 349.69 EUR
 prodname: 'Grohe Blue Pure Mono  -Grifo de cocina con filtro de agua  Kit de iniciación  color cromo  Ref.30387000 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V5B4BGY/?tag=tolees-21'
 descuento: '39.37'
 average: '212.01'

@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Dunlop Paletero de pádel Tour Intro Negro/Rosa Flúor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BBV6D17/?tag=tolees-21'
 descuento: '35.09'
 average: '25.9'

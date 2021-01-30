@@ -16,6 +16,7 @@ comparePrice: 15.5 EUR
 prodname: 'DOHUI Funda para Motorola Moto G Fast  Silicona Suave TPU Protección Carcasa [Anti-Rasguño] Case Funda para Motorola Moto G Fast  Rojo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089YVDMLV/?tag=tolees-21'
 descuento: '70.97'
 average: '4.5'

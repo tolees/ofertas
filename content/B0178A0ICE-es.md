@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Microsoft – Wireless Comfort Desktop 5050  Ratón y teclado QWERTY español  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0178A0ICE/?tag=tolees-21'
 descuento: '26.56'
 average: '43.33'

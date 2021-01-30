@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'New Balance Fresh Foam Roav   Zapatillas de Running para Hombre  Negro  Magnet Magnet   40.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DVM6CDD/?tag=tolees-21'
 descuento: '50.00'
 average: '45.370000000000005'

@@ -16,6 +16,7 @@ comparePrice: 10.0 EUR
 prodname: 'laamei  Paño Muselinas Multifunción para Bebé de Algodón Toallas Reutilizable para Sensible Piel de Recién nacido Bebé Trapo Alimentación Limpiar Toallitas Faciales Infantiles Absorbentes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VL29ZTH/?tag=tolees-21'
 descuento: '43.10'
 average: '5.69'

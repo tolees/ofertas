@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Carissima Gold Pendientes de mujer con oro bicolor de 9 quilates  375/1000   1.5 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B006MQJUP2/?tag=tolees-21'
 descuento: '29.09'
 average: '39.0'

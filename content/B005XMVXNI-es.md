@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'DIM Generous Sujetador  Blanco  90B para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005XMVXNI/?tag=tolees-21'
 descuento: '64.00'
 average: '15.933999999999997'

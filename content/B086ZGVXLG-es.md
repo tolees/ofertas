@@ -16,6 +16,7 @@ comparePrice: 80.59 EUR
 prodname: 'M30 6.0 Pulgadas Smartphone 512M + 4Gb ROM Dual Sim Teléfono móvil Desbloquear teléfono Teléfono Inteligente Alto Rendimiento - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086ZGVXLG/?tag=tolees-21'
 descuento: '33.50'
 average: '53.59'

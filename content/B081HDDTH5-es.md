@@ -16,6 +16,7 @@ comparePrice: 19.03 EUR
 prodname: 'XJ03 Cámaras portátiles portátiles domésticas compactas duraderas para niños de 16 Millones de cámaras compactas para niños  niñas y niños - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081HDDTH5/?tag=tolees-21'
 descuento: '35.00'
 average: '12.37'

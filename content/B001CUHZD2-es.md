@@ -16,6 +16,7 @@ comparePrice: 11.66 EUR
 prodname: 'MANN-FILTER W 719/30 Filtro de Aceite  para automóviles y vehículos de utilidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001CUHZD2/?tag=tolees-21'
 descuento: '40.39'
 average: '6.89'

@@ -16,6 +16,7 @@ comparePrice: 2.75 EUR
 prodname: 'Foxy Seda Papel Higiénico con pH Neutro - 6 Rollos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01K7QLJGA/?tag=tolees-21'
 descuento: '63.64'
 average: '1.3666666666666667'

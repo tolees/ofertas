@@ -16,6 +16,7 @@ comparePrice: 21.48 EUR
 prodname: 'Pegatinas de espuma – 700 piezas autoadhesivas formas de espuma  forma geométrica para niños  suministros de bricolaje y manualidades  multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KF3PC7Y/?tag=tolees-21'
 descuento: '29.93'
 average: '15.05'

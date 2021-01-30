@@ -16,6 +16,7 @@ comparePrice: 85.19 EUR
 prodname: 'TP-Link TL-SG1016D - Gigabit Ethernet con 16 Puertos  Conmutador no Gestionado  Plug and Play  Metal  Escritorio  montaje en bastidor  sin Ventilador  Vida Útil Limitada '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003UWRYBI/?tag=tolees-21'
 descuento: '40.13'
 average: '51.583333333333336'

@@ -16,6 +16,7 @@ comparePrice: 15.0 EUR
 prodname: 'VAUDE Bike Essential Kits Primeros Auxilios  Unisex Adulto  Red/White  Talla Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0035JKQSE/?tag=tolees-21'
 descuento: '38.67'
 average: '9.2'

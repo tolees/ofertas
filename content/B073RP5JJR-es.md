@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'Helly Hansen Crew Gorra  Unisex Adulto  Negro  Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073RP5JJR/?tag=tolees-21'
 descuento: '30.05'
 average: '13.573333333333334'

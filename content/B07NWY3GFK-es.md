@@ -16,6 +16,7 @@ comparePrice: 20 EUR
 prodname: 'Joma Combi Polos Caballero  Hombre  Marino/Royal  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NWY3GFK/?tag=tolees-21'
 descuento: '35.05'
 average: '12.99'

@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Juego de sábanas cómodas y Suaves Juego de Ropa de Cama con Estilo Bohemio  100% poliéster  antialérgico  Anti decoloración  impresión HD para Todo el Mundo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z82NDKD/?tag=tolees-21'
 descuento: '33.31'
 average: '19.996666666666666'

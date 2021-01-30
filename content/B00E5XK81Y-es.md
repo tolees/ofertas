@@ -16,6 +16,7 @@ comparePrice: 226.77 EUR
 prodname: 'Guess W0247G3 - Reloj de pulsera para hombre  color azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00E5XK81Y/?tag=tolees-21'
 descuento: '50.23'
 average: '120.32333333333332'

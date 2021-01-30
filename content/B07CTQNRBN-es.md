@@ -16,6 +16,7 @@ comparePrice: 4.86 EUR
 prodname: 'FIND - Bon voyage - Paleta de cuatro sombras de ojos n.3'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CTQNRBN/?tag=tolees-21'
 descuento: '41.36'
 average: '3.5225'

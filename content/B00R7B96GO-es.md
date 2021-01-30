@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Pioneer SE-MJ561BT-T - Auriculares supraurales Bluetooth  marrón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00R7B96GO/?tag=tolees-21'
 descuento: '41.24'
 average: '47.58'

@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Samsung EE-V200SA - Soporte de móviles para coches  Diseño universal  compatible con pantallas de 4" a 5.8"   negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00FAD71KY/?tag=tolees-21'
 descuento: '60.23'
 average: '16.201999999999998'

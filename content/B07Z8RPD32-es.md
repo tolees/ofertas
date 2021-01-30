@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Carcasa compatible con Huawei P9  diseño de mármol  silicona suave de alta calidad  ultrafina  funda para teléfono móvil  resistente a los arañazos  funda antiarañazos para Huawei P9 2 talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z8RPD32/?tag=tolees-21'
 descuento: '47.39'
 average: '9.99'

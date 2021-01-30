@@ -16,6 +16,7 @@ comparePrice: 119.0 EUR
 prodname: 'Lacoste Reloj Analógico para Mujer de Cuarzo con Correa en Cuero 2001100'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VCKM2PH/?tag=tolees-21'
 descuento: '34.90'
 average: '77.60499999999999'

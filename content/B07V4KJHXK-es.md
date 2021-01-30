@@ -16,6 +16,7 @@ comparePrice: 29.29 EUR
 prodname: 'Deerbird® Hucha - Creativo Bronce Egipcio Pirámide Metal Figurilla Cajas de Dinero Decoración Manualidades para Casa Decoración Cumpleaños Regalo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V4KJHXK/?tag=tolees-21'
 descuento: '50.53'
 average: '14.49'

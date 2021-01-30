@@ -16,6 +16,7 @@ comparePrice: 17.0 EUR
 prodname: 'EAU MY BB pack gel de baño y champú 200 ml + locion hidratante 200 ml + colonia spray 60ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075F3G2KW/?tag=tolees-21'
 descuento: '47.06'
 average: '10.475'

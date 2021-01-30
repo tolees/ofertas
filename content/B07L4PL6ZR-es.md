@@ -16,6 +16,7 @@ comparePrice: 139.95 EUR
 prodname: 'Adidas Terrex AX3 Mid GTX  Zapatillas de Deporte para Hombre  Multicolor  Gricin/Negbás/Mesa 000   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L4PL6ZR/?tag=tolees-21'
 descuento: '28.00'
 average: '100.76'

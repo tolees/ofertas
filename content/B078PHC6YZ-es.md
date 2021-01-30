@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'Vans Ward - Zapatillas para Mujer  Negro  Suede/Canvas/Black/White Iju   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078PHC6YZ/?tag=tolees-21'
 descuento: '39.29'
 average: '49.716875'

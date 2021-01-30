@@ -16,6 +16,7 @@ comparePrice: 45.66 EUR
 prodname: 'Lapens Zapatillas de correr para mujer  color  talla 35.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T4MZK8G/?tag=tolees-21'
 descuento: '35.02'
 average: '29.67'

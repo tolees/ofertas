@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'Cesta Picnic de Masha y el Oso con 21 accesorios  Smoby 310564 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072JW8HVQ/?tag=tolees-21'
 descuento: '54.52'
 average: '10.0'

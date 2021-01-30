@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Edge Entertainment-51st State  Set Completo  EEPG5101 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0757XLZGM/?tag=tolees-21'
 descuento: '42.96'
 average: '30.256666666666668'

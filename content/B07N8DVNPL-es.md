@@ -16,6 +16,7 @@ comparePrice: 190.0 EUR
 prodname: 'Orient Reloj Analógico para Hombre de Automático con Correa en Acero Inoxidable FAB0B001D9'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N8DVNPL/?tag=tolees-21'
 descuento: '51.84'
 average: '101.88250000000001'

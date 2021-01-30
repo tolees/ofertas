@@ -16,6 +16,7 @@ comparePrice: 3.7 EUR
 prodname: 'Aladdin - Algodón Limpia Metales  75 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00U2R1FEG/?tag=tolees-21'
 descuento: '32.70'
 average: '2.49'

@@ -16,6 +16,7 @@ comparePrice: 35.07 EUR
 prodname: 'Caterpillar Prepense  Botas Chukka para Hombre  Marrón  Sand Light Brown   46 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DX4DJRB/?tag=tolees-21'
 descuento: '32.34'
 average: '27.36'

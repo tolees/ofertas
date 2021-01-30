@@ -16,6 +16,7 @@ comparePrice: 289.99 EUR
 prodname: 'TACKLIFE-GLB01A-DC Aspirador-soplador'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D7V8QLR/?tag=tolees-21'
 descuento: '51.04'
 average: '141.99'

@@ -16,6 +16,7 @@ comparePrice: 31.9 EUR
 prodname: 'Orbegozo FH6035 Calefactor  2200 W  Plata y gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0055ZNGBK/?tag=tolees-21'
 descuento: '43.61'
 average: '17.99'

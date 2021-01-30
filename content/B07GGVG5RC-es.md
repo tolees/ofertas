@@ -16,6 +16,7 @@ comparePrice: 28.64 EUR
 prodname: 'Tian 19Pcs Kit Herramientas de Desmontaje Coche Interior Herramientas de Eliminación de Desmontar para Radio Coche Panel de Salpicaderos Rojo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GGVG5RC/?tag=tolees-21'
 descuento: '30.20'
 average: '19.99'

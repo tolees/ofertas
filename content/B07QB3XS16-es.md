@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'MTNG Attitude 69147  Zapatillas para Mujer  Beige  Goat PU Beige/Oro/NATU/Platino C47937   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QB3XS16/?tag=tolees-21'
 descuento: '34.79'
 average: '29.99'

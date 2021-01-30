@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Under Armour  UNDKU Rival Fleece FZ Parte Superior del Calentamiento  Hombre  Gris  XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L97TTQF/?tag=tolees-21'
 descuento: '60.67'
 average: '23.6'

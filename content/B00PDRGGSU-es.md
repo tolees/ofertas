@@ -16,6 +16,7 @@ comparePrice: 6.14 EUR
 prodname: 'Liderpapel - 100024 Plantillas Curvas 3 Piezas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00PDRGGSU/?tag=tolees-21'
 descuento: '43.00'
 average: '3.5'

@@ -16,6 +16,7 @@ comparePrice: 10.5 EUR
 prodname: 'Joseph Joseph Pelador  Acero Inoxidable  Verde  Centimeters'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00RLRRXGY/?tag=tolees-21'
 descuento: '33.81'
 average: '6.95'

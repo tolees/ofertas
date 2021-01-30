@@ -16,6 +16,7 @@ comparePrice: 46.0 EUR
 prodname: 'Vidal y Vidal Pendiente chapados en oro con piedras de colores'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082YDVRQR/?tag=tolees-21'
 descuento: '50.00'
 average: '23.0'

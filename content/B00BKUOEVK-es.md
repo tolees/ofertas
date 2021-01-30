@@ -16,6 +16,7 @@ comparePrice: 8.0 EUR
 prodname: 'Astor Big & Beautiful Boom Máscara de Pestañas Tono 800 Black - 28 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BKUOEVK/?tag=tolees-21'
 descuento: '35.00'
 average: '5.463333333333334'

@@ -16,6 +16,7 @@ comparePrice: 119.79 EUR
 prodname: 'Grohe Eurosmart  - Grifo de bidé con cadena retráctil 1/2"  tecnología Grohe EcoJoy  tamaño S  Ref.32927002 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00RTFZMFM/?tag=tolees-21'
 descuento: '41.14'
 average: '70.51'

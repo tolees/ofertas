@@ -16,6 +16,7 @@ comparePrice: 33.52 EUR
 prodname: 'Tommy Hilfiger New Denton Belt 4.0 Cinturón  Marrón  TESTA DI MORO-EUR 066   100 cm  talla fabricante: 100  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NONWUL2/?tag=tolees-21'
 descuento: '25.45'
 average: '24.99'

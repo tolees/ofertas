@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'DesigualBols brown Sugar RotterdamMujerBolsos mochilaBeige  Natural 15.00x30.00x31.00 Centimeters  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WQ5WYNR/?tag=tolees-21'
 descuento: '53.69'
 average: '39.70399999999999'

@@ -16,6 +16,7 @@ comparePrice: 33.0 EUR
 prodname: 'American Tourister Urban Groove - Bolsa de Viaje  50 cm  36.5 L  Azul  Blue '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DLSTF5Z/?tag=tolees-21'
 descuento: '27.61'
 average: '23.89'

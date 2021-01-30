@@ -16,6 +16,7 @@ comparePrice: 115.0 EUR
 prodname: 'Levi s Mile High Super Skinny Jeans  En Aumento  23 28 para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SG1CB8M/?tag=tolees-21'
 descuento: '41.75'
 average: '69.49'

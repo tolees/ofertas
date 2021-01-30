@@ -16,6 +16,7 @@ comparePrice: 30.96 EUR
 prodname: 'Weider Barrita de Proteína sabor Avellana. Óptima mezcla de hidratos de carbono  proteínas y vitaminas para un abastecimiento de energía rápido y equilibrado  24 x 35 g '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00GYOHEMI/?tag=tolees-21'
 descuento: '49.68'
 average: '15.58'

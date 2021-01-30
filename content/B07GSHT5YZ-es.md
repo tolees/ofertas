@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'HERZO Taladro/Atornillador Configuración de 2 velocidades 300W 23 + 1 Par con 4M de Longitud Del Cable Bueno Para Daily Inicio Los Trabajos de Perforacion'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GSHT5YZ/?tag=tolees-21'
 descuento: '33.34'
 average: '39.99'

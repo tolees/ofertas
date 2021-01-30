@@ -16,6 +16,7 @@ comparePrice: 10.17 EUR
 prodname: 'TOMALL Funda de Repuesto para Fitbit Zip Clip Sujetador Deportivo Fitness Trackers Holder Purple'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FS3PVMB/?tag=tolees-21'
 descuento: '31.27'
 average: '6.99'

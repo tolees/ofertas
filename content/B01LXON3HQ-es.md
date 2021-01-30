@@ -16,6 +16,7 @@ comparePrice: 32.5 EUR
 prodname: 'Brabantia Bin newIcon Cubo de Basura con Pedal  Acero Inoxidable  Rojo pasión  5 l'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LXON3HQ/?tag=tolees-21'
 descuento: '34.09'
 average: '21.42'

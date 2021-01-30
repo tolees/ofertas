@@ -16,6 +16,7 @@ comparePrice: 36.9 EUR
 prodname: 'Bella Aurora Splendor 10 Crema Facial Hidratante Anti-Edad Mujer Día Tratamiento Anti-Arrugas para la Cara Sin Parabenos  50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076MTNJCR/?tag=tolees-21'
 descuento: '35.09'
 average: '20.73'

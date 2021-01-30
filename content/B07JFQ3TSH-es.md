@@ -16,6 +16,7 @@ comparePrice: 99 EUR
 prodname: 'Lacoste Ph5522 Polo  Azul  Lilium Chiné 9n0   Small  Talla del Fabricante: 3  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JFQ3TSH/?tag=tolees-21'
 descuento: '38.59'
 average: '64.61500000000001'

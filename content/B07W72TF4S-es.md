@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'BaByliss 2165CE Plancha de crimpar para crear volumen y textura  placas de cerámica con turmalina de 35 mm  10 temperaturas de 120° a 210°  calentamiento instantáneo  punta de agarre frío'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W72TF4S/?tag=tolees-21'
 descuento: '66.17'
 average: '13.5'

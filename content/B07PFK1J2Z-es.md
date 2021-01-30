@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Arkmiido Máscara de Buceo  máscara de Snorkel Full Face 180 ° Visible con Soporte para cámara Deportiva  Fuga submarina Anti-huida  Anti-UV  para Adultos  L/XL '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PFK1J2Z/?tag=tolees-21'
 descuento: '30.01'
 average: '20.99'

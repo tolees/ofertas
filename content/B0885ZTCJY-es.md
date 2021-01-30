@@ -16,6 +16,7 @@ comparePrice: 30.69 EUR
 prodname: 'Auihiay 221 piezas de plástico retráctil incluye 20 hojas transparentes de papel artístico encogido  perforador y llaveros accesorios para manualidades infantiles'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0885ZTCJY/?tag=tolees-21'
 descuento: '36.95'
 average: '19.35'

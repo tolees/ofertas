@@ -16,6 +16,7 @@ comparePrice: 10.9 EUR
 prodname: 'D-Link GO-SW-5E - Switch de Red con 5 Puertos 10/100 Mps  Color Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00D6M2PC0/?tag=tolees-21'
 descuento: '37.71'
 average: '6.824375000000001'

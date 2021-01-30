@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'Bqeel Mini PC 【4GB+64GB】 Procesador Intel® Cherry Trail Z8350 soporta Windows 10 Home Dual WiFi 5G/2.4G Gráfico Intel HD 4K BT 4.0 Gigabit Ethernet Salida/USB/SD/VGA Ordenador de Sobremesa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VTMKPPM/?tag=tolees-21'
 descuento: '31.00'
 average: '138.34785714285715'

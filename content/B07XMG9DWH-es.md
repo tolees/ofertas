@@ -16,6 +16,7 @@ comparePrice: 74.95 EUR
 prodname: 'Skechers GO Run Pulse  Zapatillas para Hombre  Azul Azul Textil Sintético Borde Rojo Bl Rd  42.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XMG9DWH/?tag=tolees-21'
 descuento: '38.27'
 average: '46.27'

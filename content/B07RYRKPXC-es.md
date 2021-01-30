@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'COMLIFE Ventilador de Escritorio con Clip USB y Batería Recargable de 5000mAh Giratorio Automático Mini Ventilador de Mesa Portátil para Cochecito  Oficina  Hogar  Gimnasio  Viaje etc'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RYRKPXC/?tag=tolees-21'
 descuento: '28.01'
 average: '17.99'

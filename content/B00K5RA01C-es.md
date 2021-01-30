@@ -16,6 +16,7 @@ comparePrice: 37.9 EUR
 prodname: 'Tommy Hilfiger 3p Brief Tanga  Ngro  Negro 990   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00K5RA01C/?tag=tolees-21'
 descuento: '35.38'
 average: '27.354999999999997'

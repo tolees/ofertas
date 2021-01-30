@@ -16,6 +16,7 @@ comparePrice: 52.99 EUR
 prodname: 'Russell Hobbs Purity - Hervidor de Agua Eléctrico con Filtro Brita  2200W  1 5l  Plástico  Inox  Gris  - ref. 22850-70'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01B0YU8ME/?tag=tolees-21'
 descuento: '43.44'
 average: '29.10333333333333'

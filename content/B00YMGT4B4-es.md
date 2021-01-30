@@ -16,6 +16,7 @@ comparePrice: 249.0 EUR
 prodname: 'TW Steel Reloj Analógico para Unisex de Cuarzo con Correa en Cuero CS31'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00YMGT4B4/?tag=tolees-21'
 descuento: '35.72'
 average: '160.06'

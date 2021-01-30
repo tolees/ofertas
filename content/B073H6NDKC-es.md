@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'adidas Core18 Sweat Top Sweatshirts  Hombre  Black/White  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073H6NDKC/?tag=tolees-21'
 descuento: '37.55'
 average: '23.546363636363637'

@@ -16,6 +16,7 @@ comparePrice: 330.0 EUR
 prodname: 'Orient Reloj Analógico para Hombre de Automático con Correa en Acero Inoxidable FEM75003B9'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CT8SF3G/?tag=tolees-21'
 descuento: '47.58'
 average: '175.80666666666667'

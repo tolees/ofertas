@@ -16,6 +16,7 @@ comparePrice: 3.84 EUR
 prodname: 'Frcolor 3D Slices Nails Art Stickers Rueda de arcilla polimérica Nail Art Slice para DIY Slime Crafts Phone Case Scrapbook Decor Color al azar '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L4VVZF1/?tag=tolees-21'
 descuento: '48.18'
 average: '1.99'

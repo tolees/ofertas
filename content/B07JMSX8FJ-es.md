@@ -16,6 +16,7 @@ comparePrice: 68.0 EUR
 prodname: 'Chantelle DE Orangerie Sujetador  Marfil  Elfenbein 35   90B  Talla del Fabricante: 75B  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JMSX8FJ/?tag=tolees-21'
 descuento: '39.12'
 average: '41.4'

@@ -16,6 +16,7 @@ comparePrice: 2.1 EUR
 prodname: 'Pascual Leche Entera - Paquete de 6 x 200 ml - Total: 1.2 L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0756DB6JM/?tag=tolees-21'
 descuento: '52.38'
 average: '1.0944444444444446'

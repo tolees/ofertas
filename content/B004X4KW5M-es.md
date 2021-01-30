@@ -16,6 +16,7 @@ comparePrice: 179.24 EUR
 prodname: 'Braun BN0032WHSLMHG - Reloj análogico de cuarzo con correa de acero inoxidable para hombre  color plateado/blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004X4KW5M/?tag=tolees-21'
 descuento: '36.42'
 average: '106.04692307692308'

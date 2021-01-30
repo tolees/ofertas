@@ -16,6 +16,7 @@ comparePrice: 61.6 EUR
 prodname: 'Columbia Peakfreak XCRSN II XCEL Low Outdry Mujer Zapatillas Multideporte Impermeable Negro  Blackwhite  Talla 38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07733LLNF/?tag=tolees-21'
 descuento: '27.50'
 average: '44.66'

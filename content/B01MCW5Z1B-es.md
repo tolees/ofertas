@@ -16,6 +16,7 @@ comparePrice: 184.99 EUR
 prodname: 'ECO-WORTHY 3.5 G 220 V Generador De Ozono Industriales - Purificador De Aire Ozono Purificador De Aire'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MCW5Z1B/?tag=tolees-21'
 descuento: '99.94'
 average: '0.11'

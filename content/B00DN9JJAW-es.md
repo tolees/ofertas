@@ -16,6 +16,7 @@ comparePrice: 20.34 EUR
 prodname: 'Soria Natural - FOST PRINT JUNIOR SABOR FRESA - Complemento alimenticio - Energía extra para niños y adolescentes en actividades deportivas y académicas  examenes  - 20 unidades - Cambios de estación'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00DN9JJAW/?tag=tolees-21'
 descuento: '32.20'
 average: '13.79'

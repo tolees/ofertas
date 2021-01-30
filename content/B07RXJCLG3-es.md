@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'New Balance 373v2  Zapatillas para Mujer  Morado  Madder KP   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RXJCLG3/?tag=tolees-21'
 descuento: '40.24'
 average: '27.96'

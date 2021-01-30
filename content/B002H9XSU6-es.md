@@ -16,6 +16,7 @@ comparePrice: 13.9 EUR
 prodname: 'Piz Buin - After Sun Loción Hidratante  Intensificadora del Bronceado After Sun - Bote 200 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002H9XSU6/?tag=tolees-21'
 descuento: '42.81'
 average: '8.79888888888889'

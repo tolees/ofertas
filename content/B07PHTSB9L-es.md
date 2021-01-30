@@ -16,6 +16,7 @@ comparePrice: 8.5 EUR
 prodname: 'Max Factor  Color para cejas - 1 unidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PHTSB9L/?tag=tolees-21'
 descuento: '36.71'
 average: '5.38'

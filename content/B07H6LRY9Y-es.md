@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'TiooDre Cargador USB  60W 10 Puertos USB rápido Cargador de Pared HUB IQ Cargador'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H6LRY9Y/?tag=tolees-21'
 descuento: '29.39'
 average: '11.29'

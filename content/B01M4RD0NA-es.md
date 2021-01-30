@@ -16,6 +16,7 @@ comparePrice: 16.41 EUR
 prodname: 'Nescafé Puro Colombia - Café Soluble - Pack de 3 x 100 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M4RD0NA/?tag=tolees-21'
 descuento: '43.51'
 average: '9.27'

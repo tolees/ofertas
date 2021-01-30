@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'NOV8Tech - Cámara web Full HD 1080p con micrófono para videoconferencia  transmisión en vivo  videollamadas  grabaciones  juegos en PC de escritorio  ordenador portátil Windows 10/8/7/XP macOS X'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088TWM6VG/?tag=tolees-21'
 descuento: '25.01'
 average: '29.99'

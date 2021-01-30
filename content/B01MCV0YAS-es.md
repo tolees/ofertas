@@ -16,6 +16,7 @@ comparePrice: 61.47 EUR
 prodname: 'Haikyu!! Los Ases Del Voley -Blu-Ray Edición Coleccionistas Temporada 2 Parte 1 Ep. 1 A 13 [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MCV0YAS/?tag=tolees-21'
 descuento: '75.74'
 average: '14.91'

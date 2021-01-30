@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Termómetro Digital para la Fiebre  Termómetro Médico Oral para una Rápida Medición de la Temperatura Corporal vía Oral  Rectal y en las Axilas para Niños  Adultos y Bebés'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RYLCZLH/?tag=tolees-21'
 descuento: '34.64'
 average: '8.49'

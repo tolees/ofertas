@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Adidas Continental 80  Zapatillas de Deporte para Hombre  Negro  Negbás/Escarl/Maruni 000   39 1/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K2R3T5C/?tag=tolees-21'
 descuento: '44.99'
 average: '54.98'

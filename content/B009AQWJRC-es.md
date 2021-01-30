@@ -16,6 +16,7 @@ comparePrice: 11.95 EUR
 prodname: 'Essie Esmalte de Uñas  Tono: 009 Vanity Fairest'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B009AQWJRC/?tag=tolees-21'
 descuento: '59.92'
 average: '5.192'

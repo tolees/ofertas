@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'ADIDAS Daily 2.0 Db0271  Zapatillas para Hombre  Azul  Collegiate Navy/FTWR White   40 2/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0753GWYDG/?tag=tolees-21'
 descuento: '50.04'
 average: '29.95'

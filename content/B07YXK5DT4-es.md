@@ -16,6 +16,7 @@ comparePrice: 27.99 EUR
 prodname: 'TAZEMAT 36 Hojas Plantillas para Pintar Diseño de Mandala Tarjetas de Plantilla para Manualidades DIY Artesanía para Pintar sobre Mueble Pared Diferentes Patrones Reutilizable 13 × 13cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YXK5DT4/?tag=tolees-21'
 descuento: '44.30'
 average: '15.59'

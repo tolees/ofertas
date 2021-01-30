@@ -16,6 +16,7 @@ comparePrice: 19.91 EUR
 prodname: 'D DOLITY Herramientas de Taladro Hand Tool Drill para Modelo DIY Bricolaje - 0.9-1.5mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GNMM37S/?tag=tolees-21'
 descuento: '33.35'
 average: '13.27'

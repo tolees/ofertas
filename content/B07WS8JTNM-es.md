@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Power Bank PD 3.0  Batería Externa15800mAh con USB C  QC 3.0 & PD 18W Carga Rápida  Cargador Portátil con 3 Salidas y 2 entradas para iPhone 8/8 Plus/X/XS/XR/XS  iPad  Samsung  Huawei y más'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WS8JTNM/?tag=tolees-21'
 descuento: '60.02'
 average: '13.49'

@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Tommy Hilfiger ESSENTIAL MINI REPORTERHombreMonederosNegro  Black  5x20x16 centimeters  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N8RTGDB/?tag=tolees-21'
 descuento: '36.58'
 average: '41.457499999999996'

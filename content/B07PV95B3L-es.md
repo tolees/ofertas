@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'SAWAKE Ventilador Clip Portátil  Mini Ventilador de Escritorio USB Eléctrico Silencioso con 3 Velocidades Ajustables  Giratorio 360 °  Batería Recargable 2600mAh para Cochecito  Automóvil  etc.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PV95B3L/?tag=tolees-21'
 descuento: '72.76'
 average: '17.99'

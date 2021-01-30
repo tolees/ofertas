@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Bullpadel BEWER 19 Rojo Negro Naranja'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086STP4PN/?tag=tolees-21'
 descuento: '35.74'
 average: '44.95'

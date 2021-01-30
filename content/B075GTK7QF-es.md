@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Adidas VL Court 2.0 K  Zapatillas de Deporte Unisex niño  Negro  Negbas/Ftwbla 000   28 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075GTK7QF/?tag=tolees-21'
 descuento: '46.49'
 average: '26.73'

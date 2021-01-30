@@ -16,6 +16,7 @@ comparePrice: 5.93 EUR
 prodname: 'SD2VITA Pro - Adaptador Pro 5.0 para tarjeta de memoria PS VITA 3.60 Henkaku Micro SD PSVITA  cobertura completa '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078WQJ66H/?tag=tolees-21'
 descuento: '68.13'
 average: '1.94'

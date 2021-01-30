@@ -16,6 +16,7 @@ comparePrice: 34.9 EUR
 prodname: 'Philips Secador BHD170/40 - Secador de pelo  CC  Negro  Rosa  Acrilonitrilo butadieno estireno  ABS   Con agujero en la empuñadura para colgar  1 8 m  2200 W '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076TZBWKX/?tag=tolees-21'
 descuento: '42.69'
 average: '22.48333333333333'

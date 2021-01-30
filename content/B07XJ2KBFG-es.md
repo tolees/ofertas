@@ -16,6 +16,7 @@ comparePrice: 43.99 EUR
 prodname: 'Mini Altavoz Bluetooth Portátil  Vtin K1 Altavoz Portátil Bluetooth 4.2  Conductor 5W/ 45mm  Impermeable IPX5  Altavoz Bluetooth Exterior para Móviles Tabletas  Piscina  Playa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XJ2KBFG/?tag=tolees-21'
 descuento: '47.74'
 average: '22.99'

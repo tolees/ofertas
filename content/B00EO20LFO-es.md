@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'JVC HA-F160-B-E Gumy - Auriculares de botón  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00EO20LFO/?tag=tolees-21'
 descuento: '36.04'
 average: '6.609999999999999'

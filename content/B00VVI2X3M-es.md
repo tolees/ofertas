@@ -16,6 +16,7 @@ comparePrice: 10.2 EUR
 prodname: 'ANGOPE Gas de 227Gr Pack  Multicolor  4 x Cartucho'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00VVI2X3M/?tag=tolees-21'
 descuento: '34.71'
 average: '5.93'

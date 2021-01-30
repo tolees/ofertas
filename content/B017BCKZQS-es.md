@@ -16,6 +16,7 @@ comparePrice: 9.5 EUR
 prodname: 'Max Factor Creme Puff Blush Colorete Tono 20 Lavish Mauve - 30 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B017BCKZQS/?tag=tolees-21'
 descuento: '61.47'
 average: '3.66'

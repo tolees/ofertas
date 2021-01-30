@@ -16,6 +16,7 @@ comparePrice: 26.5 EUR
 prodname: 'Eucerin Family Pack Ph5 Oleogel de Ducha 1000 ml y oleogel 400 ml  4005800177668 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NBVGS90/?tag=tolees-21'
 descuento: '38.08'
 average: '16.41'

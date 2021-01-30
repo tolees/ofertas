@@ -16,6 +16,7 @@ comparePrice: 349.0 EUR
 prodname: 'Sauber - Frigorífico Combi SERIE 3-176B - Eficiencia energética: A+ - 176x55 5 cm - ENTREGA EN DOMICILIO'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08DKCWWLP/?tag=tolees-21'
 descuento: '25.79'
 average: '259.0'

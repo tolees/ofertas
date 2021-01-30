@@ -16,6 +16,7 @@ comparePrice: 1.61 EUR
 prodname: 'Potente acabado de manga 8x48mm - Plata 8x48mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083DV6SM3/?tag=tolees-21'
 descuento: '33.54'
 average: '1.07'

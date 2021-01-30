@@ -16,6 +16,7 @@ comparePrice: 13.51 EUR
 prodname: 'Toyvian Scratch Draw  10 unids Papel de rascar Arte Scratch Papel Scratch tableros Negro para niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KJZBN79/?tag=tolees-21'
 descuento: '38.86'
 average: '8.26'

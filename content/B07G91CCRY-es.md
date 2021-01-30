@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Bonsenkitchen Envasadora al Vacío  Sellador al Vacío de Alimentos Secos y Húmedos  1 Rollo de Película de Vacío de Succión Incluida  Blanco VS3803'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G91CCRY/?tag=tolees-21'
 descuento: '30.28'
 average: '28.916666666666664'

@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Munchkin 12501  Cubo Desechable & Portátil para Pañales Usados  Contienen Hasta 150 Pañales'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00506KMRK/?tag=tolees-21'
 descuento: '43.15'
 average: '9.09'

@@ -16,6 +16,7 @@ comparePrice: 259.99 EUR
 prodname: 'BERSIGAR 100 medidor de Resistencia al Agua Reloj analógico automático para Hombres con Correa de Acero Inoxidable  Dorado-Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QLXB2HC/?tag=tolees-21'
 descuento: '59.62'
 average: '104.99'

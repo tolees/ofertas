@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'Columbia Conspiracy V Outdry  Zapatillas de Senderismo para Mujer  Negro  Black  Daredevi 013   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KK46MNY/?tag=tolees-21'
 descuento: '79.31'
 average: '33.69'

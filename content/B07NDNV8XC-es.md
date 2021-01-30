@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'G-STAR RAW Drego Belt Cinturón  Multicolor  Natural/Antic Silver A067   110  Talla del fabricante: 95  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDNV8XC/?tag=tolees-21'
 descuento: '69.94'
 average: '18.02'

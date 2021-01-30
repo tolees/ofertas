@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'ProfiCare HTH 3003 - Secador de casco iónico  2 niveles de velocidad y temperatura  400 W  color blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079NVR6PT/?tag=tolees-21'
 descuento: '55.08'
 average: '28.948000000000004'

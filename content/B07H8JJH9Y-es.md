@@ -16,6 +16,7 @@ comparePrice: 181.99 EUR
 prodname: 'Epson Expression Premium XP-7100  Impresora  Ethernet  USB  LAN inalámbrica  Ethernet  A4  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H8JJH9Y/?tag=tolees-21'
 descuento: '34.07'
 average: '116.28421052631579'

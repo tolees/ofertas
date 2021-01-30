@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'Electronic Arts - Titanfall 2'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01H0CBMXO/?tag=tolees-21'
 descuento: '25.06'
 average: '14.95'

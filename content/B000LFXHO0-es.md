@@ -16,6 +16,7 @@ comparePrice: 46.84 EUR
 prodname: 'Silverline TB05 - Banco de trabajo resistente y plegable  150 kg '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000LFXHO0/?tag=tolees-21'
 descuento: '34.56'
 average: '30.65'

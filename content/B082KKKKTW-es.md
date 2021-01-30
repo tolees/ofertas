@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'FUKTSYSM Cortador de Verdura Mandolina - 8 en 1 Rebanador de Verdura Cortador de Verdura Mandolina de Verduras  Cocina Slicer Rallador de Cuchillas Acero Inoxidable  Pelador  Protector de Manos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082KKKKTW/?tag=tolees-21'
 descuento: '65.02'
 average: '12.656666666666666'

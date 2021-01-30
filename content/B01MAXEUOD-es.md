@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Vicloon Reina de las Nieves Accesorios de Princesa del Hielo para niña Varita mágica  Tiara'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MAXEUOD/?tag=tolees-21'
 descuento: '40.04'
 average: '5.99'

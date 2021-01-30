@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Nike Court Borough Low 2  Sneaker Boys  Black/Black-Black  30 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YQHP2VY/?tag=tolees-21'
 descuento: '25.74'
 average: '25.99'

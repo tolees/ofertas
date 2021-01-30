@@ -16,6 +16,7 @@ comparePrice: 79.9 EUR
 prodname: 'Casio Reloj Analógico para Mujer de Cuarzo con Correa en Cuero LTS-100L-2AVEF'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NJ6HTWV/?tag=tolees-21'
 descuento: '31.06'
 average: '55.08'

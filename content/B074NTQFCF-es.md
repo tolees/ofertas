@@ -16,6 +16,7 @@ comparePrice: 19.14 EUR
 prodname: 'SALCAR Caja con USB 3.0 para Disco Duro Externo HDD de 2.5   Carcasa para SATA I SATA II SATA III HDD y SSD de 9 5 mm 7 mm 2.5 Pulgadas  Optimizado para SSD  No Requiere Herramientas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074NTQFCF/?tag=tolees-21'
 descuento: '53.03'
 average: '8.796451612903223'

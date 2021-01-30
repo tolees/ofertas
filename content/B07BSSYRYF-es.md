@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Gifort Bandeja de Hielo Bandejas para Hielo Silicona con Tapa Bandejas de Silicona 3 Pack Bandeja Del Cubo de Hielo de Calidad Profesional Vino Frutas Hierbas Salsas Postres Cócteles Cola Whisky'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BSSYRYF/?tag=tolees-21'
 descuento: '50.03'
 average: '9.99'

@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Skechers Go Run Fast  Sneaker Donna    Navy Textile/Coral Trim Nvcl  39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N132LLH/?tag=tolees-21'
 descuento: '30.03'
 average: '41.95'

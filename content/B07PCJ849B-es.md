@@ -16,6 +16,7 @@ comparePrice: 51.99 EUR
 prodname: 'Memoria USB 2GB 2.0  KOOTION Flash Drive USB Pendrives  Pack de 10 Unidades  Pen Drive Pen USB Stick  Negro y Plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PCJ849B/?tag=tolees-21'
 descuento: '44.24'
 average: '28.49'

@@ -16,6 +16,7 @@ comparePrice: 43.99 EUR
 prodname: 'DECKEY Lámpara de Techo Luz Colgante Kit de 2 Unidades 1.2M Retro Metal Lámpara E27 para Dormitorio Restaurante Cafetería y Bar Decoración Industrial [Clase de Eficiencia Energética A+]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077G7C5BL/?tag=tolees-21'
 descuento: '31.83'
 average: '34.97'

@@ -16,6 +16,7 @@ comparePrice: 90 EUR
 prodname: 'Under Armour UA Charged Escape 3  Zapatillas de Running para Hombre  Negro  Black/White/Metallic Silver  001  001   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HKK3WWN/?tag=tolees-21'
 descuento: '27.56'
 average: '65.2'

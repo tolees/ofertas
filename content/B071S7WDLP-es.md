@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'I-CLIP ® Cartera Jeans-Mirada Gris  Disponible En 2 Variantes '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071S7WDLP/?tag=tolees-21'
 descuento: '30.00'
 average: '28.0'

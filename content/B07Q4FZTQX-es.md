@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Magicfun Sistema De Riego Kit por Goteo  Jardín Rociadores con Kits De Riego Automático De Micro Boquillas Ajustables para Jardines De Lechos De Flores De Plantas De Invernadero  30 M '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q4FZTQX/?tag=tolees-21'
 descuento: '36.68'
 average: '18.99'

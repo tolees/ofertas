@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'BOSHUN Pintar por Numeros para Adultos Niños Pintura por Números con Pinceles y Pinturas Decoraciones para el Hogar Londres  16 * 20 Pulgadas  Sin Marco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BJZCCK3/?tag=tolees-21'
 descuento: '31.53'
 average: '8.21'

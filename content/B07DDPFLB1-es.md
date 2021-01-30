@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'Citizen Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable EU6000-57B'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DDPFLB1/?tag=tolees-21'
 descuento: '35.96'
 average: '64.64'

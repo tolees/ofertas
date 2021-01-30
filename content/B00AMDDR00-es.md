@@ -16,6 +16,7 @@ comparePrice: 48.45 EUR
 prodname: 'Nayeco P100001 - Caseta para Perro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00AMDDR00/?tag=tolees-21'
 descuento: '26.13'
 average: '35.79'

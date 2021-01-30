@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Riñonera Running cintura cinturón deportiva Belt botella titular Fitness impermeable cintura bolsa de transporte para Correr  ciclismo viajar senderismo y Bum Bag bolsa para iPhone Samsung Smartphones'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YFMXHXJ/?tag=tolees-21'
 descuento: '50.01'
 average: '19.99'

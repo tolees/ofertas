@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'BabyMoments Cards by Mimuselina  Bilingüe: Español-English  Regalo recien nacido.Tarjeta logros e hitos del bebé'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NC21BAH/?tag=tolees-21'
 descuento: '25.08'
 average: '13.45'

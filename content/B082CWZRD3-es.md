@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Masajeador Masajeador Eléctrico de Masaje Corporal Inalámbrica 10 Modos de Vibración Recargable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082CWZRD3/?tag=tolees-21'
 descuento: '67.52'
 average: '12.99'

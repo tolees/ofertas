@@ -16,6 +16,7 @@ comparePrice: 16.0 EUR
 prodname: 'Nike Everyday Lightweight Crew Trainings Socks  3 Pairs   Calcetines Hombre  Negro  black/White   34–38  Talla del fabricante: S '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00SABYO1M/?tag=tolees-21'
 descuento: '25.00'
 average: '12.0'

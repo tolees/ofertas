@@ -16,6 +16,7 @@ comparePrice: 52.33 EUR
 prodname: 'VATOS Juegos de Lógica Niños Adultos Stem Juguete Policías & Ladrones Juego de Mesa Educativo Juegos Inteligentes para el Desarrollo del Cerebro 120 desafíos para Niños y Niñas de 3 Años Adelante'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089DCJDFC/?tag=tolees-21'
 descuento: '61.80'
 average: '19.99'

@@ -16,6 +16,7 @@ comparePrice: 17.49 EUR
 prodname: 'adidas Adilette Aqua K  Zapatillas de Deporte Unisex Niños  Negro  Negbás/Ftwbla/Negbás 000   32 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KSXLKW8/?tag=tolees-21'
 descuento: '71.36'
 average: '5.01'

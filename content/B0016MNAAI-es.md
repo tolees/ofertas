@@ -16,6 +16,7 @@ comparePrice: 159.0 EUR
 prodname: 'Beyerdynamic DT 770 PRO 80 Ohm Auriculares de estudio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0016MNAAI/?tag=tolees-21'
 descuento: '27.67'
 average: '111.63333333333334'

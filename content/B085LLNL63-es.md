@@ -16,6 +16,7 @@ comparePrice: 48.9 EUR
 prodname: 'MKTOSASA-Set de Altavoz con Auriculares intraurales Integrados. Conexión Bluetooth® y Doble función Auriculares+Altavoz. Función Manos Libres y Radio FM-5.9x7.8x5.9'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085LLNL63/?tag=tolees-21'
 descuento: '50.00'
 average: '24.45'

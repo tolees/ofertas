@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Jack & Jones Jprdax Knit Crew Neck suéter  Blanco  White White   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VHQ4LJ8/?tag=tolees-21'
 descuento: '77.57'
 average: '8.97'

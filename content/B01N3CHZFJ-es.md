@@ -16,6 +16,7 @@ comparePrice: 399.0 EUR
 prodname: 'Hugo BOSS Reloj para hombre  1513477 con pulsera de metal'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N3CHZFJ/?tag=tolees-21'
 descuento: '57.99'
 average: '191.224'

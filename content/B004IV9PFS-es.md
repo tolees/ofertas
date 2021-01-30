@@ -16,6 +16,7 @@ comparePrice: 23.9 EUR
 prodname: 'Haflinger Paul  Zapatillas de Casa  Infantil  Azul  Blau/Jeans   18 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004IV9PFS/?tag=tolees-21'
 descuento: '36.74'
 average: '10.02'

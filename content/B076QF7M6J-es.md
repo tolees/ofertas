@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Tiny Love Take-Along Mobile Carrousel cuna rosa bebé y movil cochecito bebé 2 en 1  Acople universal  30 minutos de musica 5 melodías  Tiny Princess Tales'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076QF7M6J/?tag=tolees-21'
 descuento: '31.46'
 average: '23.99'

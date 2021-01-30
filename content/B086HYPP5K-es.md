@@ -16,6 +16,7 @@ comparePrice: 94.99 EUR
 prodname: 'Braun Hogar Minipimer 5245 - Batidora de mano  1000 W  21 velocidades y función turbo  anti-salpicaduras  4 accesorios  varillas  mini-picadora 350ml  batidora de vaso de 1.25L  vaso medidor 600ml '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086HYPP5K/?tag=tolees-21'
 descuento: '33.78'
 average: '62.9'

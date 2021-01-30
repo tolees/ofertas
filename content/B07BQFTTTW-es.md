@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Yesterday Origins'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BQFTTTW/?tag=tolees-21'
 descuento: '47.47'
 average: '22.138749999999998'

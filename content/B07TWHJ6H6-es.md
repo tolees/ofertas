@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Funko- Pop Marvel: Endgame-Gamer Korg Collectible Toy  Multicolor  45140 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TWHJ6H6/?tag=tolees-21'
 descuento: '32.60'
 average: '11.13'

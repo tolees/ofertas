@@ -16,6 +16,7 @@ comparePrice: 11.95 EUR
 prodname: 'Essie Esmalte de Uñas 067 Meet Me At Sunset'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00B4TMBQM/?tag=tolees-21'
 descuento: '59.92'
 average: '4.26'

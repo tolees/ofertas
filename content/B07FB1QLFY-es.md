@@ -16,6 +16,7 @@ comparePrice: 11.98 EUR
 prodname: 'Joma Winner Camisetas Caballero  Hombre  Royal/Marino  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FB1QLFY/?tag=tolees-21'
 descuento: '33.31'
 average: '7.99'

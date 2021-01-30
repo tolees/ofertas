@@ -16,6 +16,7 @@ comparePrice: 57.28 EUR
 prodname: 'Epson C13T70144010 - Cartucho de tinta  amarillo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005FJSVV6/?tag=tolees-21'
 descuento: '40.12'
 average: '34.3'

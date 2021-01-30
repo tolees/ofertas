@@ -16,6 +16,7 @@ comparePrice: 18.95 EUR
 prodname: 'Mr. Wonderful  Agenda Annual 2020'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YGCMBWD/?tag=tolees-21'
 descuento: '49.97'
 average: '9.48'

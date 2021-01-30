@@ -16,6 +16,7 @@ comparePrice: 7.7 EUR
 prodname: 'Finocam - Agenda 2020 semana vista apaisada Espiral Year Turquesa español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T8HH35X/?tag=tolees-21'
 descuento: '30.52'
 average: '5.56'

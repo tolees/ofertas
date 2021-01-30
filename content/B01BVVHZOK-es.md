@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'Astor Eyeartist Luxury Palette Paleta de Sombras Tono 100 Cosy Nude - 55 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BVVHZOK/?tag=tolees-21'
 descuento: '34.67'
 average: '6.498571428571428'

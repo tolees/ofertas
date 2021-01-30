@@ -16,6 +16,7 @@ comparePrice: 46.0 EUR
 prodname: 'S R SUNRISE SRSB-3027 SRSB3027-Soporte cuadrado para alcachofa de ducha  latón cromado   Color plateado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B014MI5EN8/?tag=tolees-21'
 descuento: '58.70'
 average: '19.0'

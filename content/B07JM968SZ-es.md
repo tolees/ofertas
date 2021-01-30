@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Lee Breese Pantalones para Mujer  Negro  Black Rinse 47   24W / 31L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JM968SZ/?tag=tolees-21'
 descuento: '61.29'
 average: '22.619999999999997'

@@ -16,6 +16,7 @@ comparePrice: 56.89 EUR
 prodname: 'amzdeal Ventilador de Turbo  Ventilador de Sobremesa para Circulación de Aire con Control Remoto  9 Velocidades y 3 Modos  Oscila Vertical y Horizontal  Temporizador de 9 Horas  Silencioso  Portátil'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0868CRMDM/?tag=tolees-21'
 descuento: '29.88'
 average: '39.89'

@@ -16,6 +16,7 @@ comparePrice: 210.99 EUR
 prodname: 'PetSafe PAL19-14656 Caja de Arena autolimpiante para Gatos ScoopFree Ultra'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00L4CB9X0/?tag=tolees-21'
 descuento: '28.91'
 average: '149.99'

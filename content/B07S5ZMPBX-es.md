@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Twinzen Bata Mujer Invierno Microfibra con Capucha para Adulto  Small  Gris y Blanco  Ropa con certificación Oeko Tex - Bata 2 Bolsillos  Cinturón y Aro - Suave y Cómodo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S5ZMPBX/?tag=tolees-21'
 descuento: '25.01'
 average: '29.99'

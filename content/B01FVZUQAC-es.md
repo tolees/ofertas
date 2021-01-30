@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'Ice-Watch - ICE duo White sage - Reloj blu para Mujer con Correa de silicona - 001489  Small '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FVZUQAC/?tag=tolees-21'
 descuento: '31.51'
 average: '60.96'

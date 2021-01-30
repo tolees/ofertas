@@ -16,6 +16,7 @@ comparePrice: 56.41 EUR
 prodname: 'Kipling Firefly Up  Mochilas para Mujer  Beige  Pastel Beige C   22x31x14 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MXWCS7G/?tag=tolees-21'
 descuento: '41.32'
 average: '33.1'

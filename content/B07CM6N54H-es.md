@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'Dermacol DC Base Makeup Cover Total | Maquillaje Corrector Waterproof SPF 30 | Cubre Tatuajes  Cicatrices  Acné  Imperfecciones  Manchas en la Piel de la Cara y Cuerpo | Liquido - Mate Natural - 30g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CM6N54H/?tag=tolees-21'
 descuento: '25.35'
 average: '8.95'

@@ -16,6 +16,7 @@ comparePrice: 21.43 EUR
 prodname: 'Cuzit Engraved Music Box - You Are My Sunshine  Gift for Daughter from Mom - You Are Stronger Than You Seem  Smarter Than You Think - from Dad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VB6S8HY/?tag=tolees-21'
 descuento: '70.09'
 average: '6.41'

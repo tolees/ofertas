@@ -16,6 +16,7 @@ comparePrice: 17.18 EUR
 prodname: 'Funko Pop! Figura De Vinil Football: PSG - Kylian Mbappé  Away Kit '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QJ25JTP/?tag=tolees-21'
 descuento: '34.11'
 average: '11.32'

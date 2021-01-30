@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'JACK & JONES Jcobooster Sweat Hood Aug 19 Capucha  Gris  Light Grey Melange Fit: Reg   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V7DX3M9/?tag=tolees-21'
 descuento: '63.52'
 average: '14.59'

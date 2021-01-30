@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Funda compatible con Huawei Mate 20 Lite  ultrafina  suave  flexible  de silicona TPU  con diseño de mármol  antigolpes  color amarillo 8 Talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YW5YH3N/?tag=tolees-21'
 descuento: '47.39'
 average: '9.99'

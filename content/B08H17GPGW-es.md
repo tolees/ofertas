@@ -16,6 +16,7 @@ comparePrice: 66.9 EUR
 prodname: '50 Piezas En Una Caja Cada Pieza Envuelta Individualmente  Cubierta CóModa para El Polvo Unisex'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08H17GPGW/?tag=tolees-21'
 descuento: '89.10'
 average: '58.384285714285724'

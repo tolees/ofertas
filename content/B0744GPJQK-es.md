@@ -16,6 +16,7 @@ comparePrice: 58.0 EUR
 prodname: 'Eau Majeure 50 Ml.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0744GPJQK/?tag=tolees-21'
 descuento: '44.60'
 average: '32.13'

@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'New Balance Wxnrgv1  Zapatillas Deportivas para Interior para Mujer  Gris  Light Grey   37.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XSDVXXS/?tag=tolees-21'
 descuento: '63.64'
 average: '28.884999999999998'

@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Maksexy Masajeador para Mujer  12 Modos para Relajación de Fatiga en Casa  Oficina  Material de Silicona Medicalizado  Impermeable  Recargable USB  Violeta '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084QFZ94M/?tag=tolees-21'
 descuento: '50.03'
 average: '9.99'

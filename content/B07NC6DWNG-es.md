@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Far Cry 5 - Standard Edition | Código Uplay para PC'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NC6DWNG/?tag=tolees-21'
 descuento: '75.00'
 average: '16.599999999999998'

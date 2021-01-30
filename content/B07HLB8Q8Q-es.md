@@ -16,6 +16,7 @@ comparePrice: 1329 EUR
 prodname: 'Apple iPhone XS Max  de 256GB  - Gris espacial'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HLB8Q8Q/?tag=tolees-21'
 descuento: '30.05'
 average: '971.6225'

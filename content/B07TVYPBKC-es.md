@@ -16,6 +16,7 @@ comparePrice: 22.62 EUR
 prodname: 'Cable de programación USB portátil y Ligero para Hytera PD780/PD785/PD788  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TVYPBKC/?tag=tolees-21'
 descuento: '32.01'
 average: '15.38'

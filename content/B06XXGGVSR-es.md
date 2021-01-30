@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'New Balance 574v2-core Trainers  Zapatillas para Hombre  Verde  Olive   39.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XXGGVSR/?tag=tolees-21'
 descuento: '40.00'
 average: '54.0'

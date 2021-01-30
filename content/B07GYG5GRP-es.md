@@ -16,6 +16,7 @@ comparePrice: 28.05 EUR
 prodname: 'Smart ZigBee Outlet Plug para Echo Plus y ZigBee Bridge Hub compatibles para controlar las luces normales  luces descendentes de LED Smart Home Automation'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GYG5GRP/?tag=tolees-21'
 descuento: '28.88'
 average: '19.95'

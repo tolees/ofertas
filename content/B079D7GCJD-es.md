@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 's.Oliver Reloj Digital para Hombre de Cuarzo con Correa en PU SO-3495-PD'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079D7GCJD/?tag=tolees-21'
 descuento: '45.06'
 average: '38.43'

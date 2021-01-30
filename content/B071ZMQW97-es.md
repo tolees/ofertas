@@ -16,6 +16,7 @@ comparePrice: 269.0 EUR
 prodname: 'Hyundai HYBC5080AV Desbrozadora con Motor a 2 Tiempos Pro  Azul  182 x 75 x 50 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071ZMQW97/?tag=tolees-21'
 descuento: '40.63'
 average: '160.03263157894733'

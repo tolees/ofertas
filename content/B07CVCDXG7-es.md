@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Tryone Flexible Soporte móvil Teléfono – Soporte con Cuello de Cisne Brazo para iPhone Series/Celulares Samsung/Huawei/Google Pixel y más  Longitud Total 27.5 Pulgadas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CVCDXG7/?tag=tolees-21'
 descuento: '51.18'
 average: '10.606'

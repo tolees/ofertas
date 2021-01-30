@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Bandolera Pepe Jeans Horse Azul porta tablet'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075DMBJ1D/?tag=tolees-21'
 descuento: '71.86'
 average: '23.265'

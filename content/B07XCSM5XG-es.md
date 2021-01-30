@@ -16,6 +16,7 @@ comparePrice: 36.8 EUR
 prodname: 'FIFA 20 - Edición Estándar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XCSM5XG/?tag=tolees-21'
 descuento: '32.34'
 average: '24.9'

@@ -16,6 +16,7 @@ comparePrice: 37.99 EUR
 prodname: 'Targus TSS93311EU Pro-tek - Funda para Dispositivos de 11.6"  Color Plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GUXUS7U/?tag=tolees-21'
 descuento: '59.91'
 average: '15.326666666666666'

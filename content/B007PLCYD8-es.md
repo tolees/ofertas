@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'Port Designs Colorado - Funda para disco duro de 2.5"  color rosa  135 x 84 x 16 mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007PLCYD8/?tag=tolees-21'
 descuento: '65.97'
 average: '4.0125'

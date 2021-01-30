@@ -16,6 +16,7 @@ comparePrice: 14.3 EUR
 prodname: 'Arregui C9427 Caja De Seguridad Con Cable Para Fijación  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N0NM6ND/?tag=tolees-21'
 descuento: '44.27'
 average: '7.97'

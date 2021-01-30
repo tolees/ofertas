@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'Spalding ACB-L.Endesa Tf500 Sz. 7  76-287Z  Balón de Baloncesto  Unisex Adulto  Naranja Oscuro/Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H8RZNCP/?tag=tolees-21'
 descuento: '33.43'
 average: '33.964999999999996'

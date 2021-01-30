@@ -16,6 +16,7 @@ comparePrice: 22.85 EUR
 prodname: 'J. Kersten BV WER-8347 Jarrón  cerámica  azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YZRKGZ3/?tag=tolees-21'
 descuento: '37.07'
 average: '14.38'

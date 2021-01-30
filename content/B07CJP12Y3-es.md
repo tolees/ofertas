@@ -16,6 +16,7 @@ comparePrice: 22.49 EUR
 prodname: 'Amazon Essentials - Braguitas - para mujer multicolor Neutral Assorted S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CJP12Y3/?tag=tolees-21'
 descuento: '28.01'
 average: '16.19'

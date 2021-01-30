@@ -16,6 +16,7 @@ comparePrice: 38.26 EUR
 prodname: 'Skechers Arch Fit  Zapatillas sin Cordones para Hombre  Azul  Black Mesh/Black Synthetic/Trim BBK   42.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TSQ8K8M/?tag=tolees-21'
 descuento: '28.62'
 average: '27.31'

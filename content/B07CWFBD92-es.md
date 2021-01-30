@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'Gifts Treat Sombrero de Gorra de béisbol para niñas Sombreros de Sol para niños con Dibujos Animados Lindos Pink Flamingo Lentejuelas Bordado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CWFBD92/?tag=tolees-21'
 descuento: '36.38'
 average: '13.99'

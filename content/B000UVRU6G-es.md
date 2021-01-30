@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'SteelSeries QcK+ - Alfombrilla de ratón de juego  450mm x 400mm  tela  base de caucho  compatible con ratón láser y óptico  negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000UVRU6G/?tag=tolees-21'
 descuento: '30.02'
 average: '17.247500000000002'

@@ -16,6 +16,7 @@ comparePrice: 160.99 EUR
 prodname: 'GONGFF Archivadores Armario Armario Cosmético Caja de Almacenamiento Material de protección Ambiental Plástico PP - 35x24x26cm  Color: C1 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0888CZCTB/?tag=tolees-21'
 descuento: '44.72'
 average: '88.99'

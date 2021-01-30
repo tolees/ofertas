@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'GLOBE Sabre  Zapatillas de Skateboarding para Hombre  Negro  Black/Moto Green   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0046XQIFI/?tag=tolees-21'
 descuento: '27.87'
 average: '79.34'

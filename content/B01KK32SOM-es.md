@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'K nex Noria Revolution  344 Piezas  41212 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01KK32SOM/?tag=tolees-21'
 descuento: '47.43'
 average: '25.143'

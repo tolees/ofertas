@@ -16,6 +16,7 @@ comparePrice: 15.98 EUR
 prodname: 'TOUCHBeauty TB-1333 LED Set de Manicura y Pedicura Eléctrica Portátil  5 accesorios incluidos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LN5UBGI/?tag=tolees-21'
 descuento: '32.35'
 average: '10.81'

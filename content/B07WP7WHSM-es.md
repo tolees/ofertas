@@ -16,6 +16,7 @@ comparePrice: 33.99 EUR
 prodname: 'Funda Protectora para Huawei MediaPad M6 10.8 Pulgadas 2019 de la Marca Cradle HR  Ligera  a Prueba de Golpes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WP7WHSM/?tag=tolees-21'
 descuento: '58.63'
 average: '14.06'

@@ -16,6 +16,7 @@ comparePrice: 8.03 EUR
 prodname: 'D18 Smart Fitness Pulsera Banda con medidor de Pulso de medición Medidor de Actividad Deportiva Reloj Pulsera - Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BTS3Z2Q/?tag=tolees-21'
 descuento: '33.50'
 average: '5.34'

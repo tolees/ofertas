@@ -16,6 +16,7 @@ comparePrice: 179.99 EUR
 prodname: 'Linksys EA7500-EU - Router WiFi Gigabit MU-MIMO AC1900 MAX-Stream  Monitorización y Administración Remota de Red  CPU a 1.4 GHz  4 Puertos Gigabit Ethernet  USB 3.0  Seguridad Avanzada de Red   Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01AJOMDSI/?tag=tolees-21'
 descuento: '36.16'
 average: '120.102'

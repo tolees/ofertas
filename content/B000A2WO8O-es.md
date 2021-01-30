@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Wahl HomePro Basic - Cortapelos con forma ergonómica'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000A2WO8O/?tag=tolees-21'
 descuento: '33.62'
 average: '9.95'

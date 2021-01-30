@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Adidas Predator 19.3 FG J  Botas de fútbol para Niños  Multicolor  Ciabri/Negbás/Amasol 000   29 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VGSP916/?tag=tolees-21'
 descuento: '31.96'
 average: '40.79'

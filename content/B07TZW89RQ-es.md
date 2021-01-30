@@ -16,6 +16,7 @@ comparePrice: 45.5 EUR
 prodname: 'Kipling Abanu  Bolsos con Bandolera para Mujer  Amarillo  Vivid Yellow   20x13.5x7.5 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TZW89RQ/?tag=tolees-21'
 descuento: '28.57'
 average: '32.5'

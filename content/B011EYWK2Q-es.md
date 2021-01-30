@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Salomon AGILE 250 BELT set Riñonera'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B011EYWK2Q/?tag=tolees-21'
 descuento: '40.00'
 average: '26.978571428571428'

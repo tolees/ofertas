@@ -16,6 +16,7 @@ comparePrice: 17.95 EUR
 prodname: 'Funko- Pop Bobble Marvel Studios 10: Iron Man  Chrome  Figura Coleccionable  Multicolor  33434 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DFCM5RX/?tag=tolees-21'
 descuento: '25.40'
 average: '10.530000000000001'

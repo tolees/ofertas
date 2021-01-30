@@ -16,6 +16,7 @@ comparePrice: 21.95 EUR
 prodname: 'L Oreal Paris Make-up Designer Kit Serum de Pestañas Clinically Proven y Máscara de Pestañas Volumen Million de Pestañas Extra Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q15NFST/?tag=tolees-21'
 descuento: '29.89'
 average: '14.376666666666667'

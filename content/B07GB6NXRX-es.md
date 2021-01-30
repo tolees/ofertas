@@ -16,6 +16,7 @@ comparePrice: 8.95 EUR
 prodname: 'Funda Xiaomi Mi A2 Lite  Eouine Cárcasa Silicona 3D Transparente con Dibujos Diseño [Antigolpes] de Protector Fundas para Movil Xiaomi Mi A2 Lite/Xiaomi Redmi 6Pro - 5 84 Pulgadas  Cebra '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GB6NXRX/?tag=tolees-21'
 descuento: '38.55'
 average: '5.5'

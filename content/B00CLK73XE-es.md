@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'Head Promotion - Gorra Unisex  Color Azul Marino  Talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00CLK73XE/?tag=tolees-21'
 descuento: '26.76'
 average: '10.95'

@@ -16,6 +16,7 @@ comparePrice: 26.22 EUR
 prodname: 'Dockers by Gerli 43ad101  Botas Militar para Hombre  Gris  Dunkelgrau 220   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q3GVYD4/?tag=tolees-21'
 descuento: '39.47'
 average: '21.044999999999998'

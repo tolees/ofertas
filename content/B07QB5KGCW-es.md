@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Laelr Ventilador de Mesa USB Mini Ventilador de Mesa con Doble Cuchillas Turbo 2 velocidades Whisper Quiet Cyclone Air para el hogar  Oficina  Viajes al Aire Libre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QB5KGCW/?tag=tolees-21'
 descuento: '45.02'
 average: '10.99'

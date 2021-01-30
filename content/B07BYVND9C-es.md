@@ -16,6 +16,7 @@ comparePrice: 24.14 EUR
 prodname: 'Xpansy Hose Pro C2607B Manguera Extensible con la Presión del Agua  Azul  7 5 metros'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BYVND9C/?tag=tolees-21'
 descuento: '25.06'
 average: '17.026666666666667'

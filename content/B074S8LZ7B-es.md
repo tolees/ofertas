@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Victorem Set de Bandas elásticas – Entrenamiento de glúteos  Muslos y Caderas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074S8LZ7B/?tag=tolees-21'
 descuento: '40.07'
 average: '17.95'

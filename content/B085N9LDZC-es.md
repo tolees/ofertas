@@ -16,6 +16,7 @@ comparePrice: 30.3 EUR
 prodname: 'Dek - Zapatillas Tenis de Lona para Chico Hombre  44 EU   Marino '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085N9LDZC/?tag=tolees-21'
 descuento: '33.33'
 average: '20.2'

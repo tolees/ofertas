@@ -16,6 +16,7 @@ comparePrice: 30.99 EUR
 prodname: 'Sacaleches  Sacaleches Manual  Extractor de leche manual  Sacaleches Confortable  Sacaleches Portátil  Extractor de leche Portátil  Cómoda y Rápida  para Succión de Leche Materna y Masaje de Senos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083DDTY4Y/?tag=tolees-21'
 descuento: '25.81'
 average: '27.79'

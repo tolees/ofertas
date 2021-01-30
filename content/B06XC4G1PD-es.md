@@ -16,6 +16,7 @@ comparePrice: 175.0 EUR
 prodname: 'INJUSA – Moto África Twin de 6V Licenciada con Maletín Trasero y Ruedas Estabilizadoras Recomendada a Niños +3 Años  Color Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XC4G1PD/?tag=tolees-21'
 descuento: '27.75'
 average: '126.43'

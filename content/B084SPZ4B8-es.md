@@ -16,6 +16,7 @@ comparePrice: 6.23 EUR
 prodname: 'Cómodo Cintura Media Verano Mujeres Hombres Casual algodón Mezclado Playa Pantalones Cortos Cinco Sub Pantalones Pretina puños elásticos - Gris - l'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084SPZ4B8/?tag=tolees-21'
 descuento: '33.55'
 average: '4.14'

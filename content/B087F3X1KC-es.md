@@ -16,6 +16,7 @@ comparePrice: 781.58 EUR
 prodname: 'Golden Goose - Zapatillas de piel para hombre  estilo casual  de piel Francy GGDB  color Negro  talla 42.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087F3X1KC/?tag=tolees-21'
 descuento: '41.19'
 average: '459.63'

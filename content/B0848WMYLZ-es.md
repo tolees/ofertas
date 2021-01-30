@@ -16,6 +16,7 @@ comparePrice: 40.56 EUR
 prodname: 'Goldyqin M.2 NVME Mobile Hard Disk Box USB3.0 SSD Metal Solid State Disk Box Type-c Hard Disk Box Ssd Mobile Black para M280T - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0848WMYLZ/?tag=tolees-21'
 descuento: '33.51'
 average: '26.97'

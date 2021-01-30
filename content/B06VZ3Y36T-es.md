@@ -16,6 +16,7 @@ comparePrice: 10.95 EUR
 prodname: 'Joma Tokio II Pantalones Cortos  Hombre   Morado/Blanco   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06VZ3Y36T/?tag=tolees-21'
 descuento: '31.60'
 average: '7.49'

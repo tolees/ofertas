@@ -16,6 +16,7 @@ comparePrice: 33.0 EUR
 prodname: 'Kappa - Pagino Pants  Color Negro  Talla 14 Years'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N7QYTD7/?tag=tolees-21'
 descuento: '39.39'
 average: '20.0'

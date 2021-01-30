@@ -16,6 +16,7 @@ comparePrice: 18.3 EUR
 prodname: 'Funko- Pop TV: Stranger Things-Robin Figura Coleccionable  Multicolor  47203 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WNQXHGG/?tag=tolees-21'
 descuento: '30.66'
 average: '15.549999999999999'

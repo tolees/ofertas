@@ -16,6 +16,7 @@ comparePrice: 0.1 EUR
 prodname: 'Triamisu Adaptador de dongle USB 2.0 CSR 4.0 sin Unidad Plug and Play Receptor de Audio estéreo inalámbrico portátil HD para PC portátil - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08424QZNX/?tag=tolees-21'
 descuento: '90.00'
 average: '0.01'

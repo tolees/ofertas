@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'Pop! Vinilo: Spider-Man Far from Home: Molten Man'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KPSYW4R/?tag=tolees-21'
 descuento: '33.85'
 average: '8.84'

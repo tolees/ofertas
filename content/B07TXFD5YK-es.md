@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Levi s Graphic tee bañadores  Blanco  Feminine Logo Bodysuit White+ 0002   Talla Única  Talla del Fabricante: Large  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TXFD5YK/?tag=tolees-21'
 descuento: '55.34'
 average: '15.63'

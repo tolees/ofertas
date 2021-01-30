@@ -16,6 +16,7 @@ comparePrice: 139.0 EUR
 prodname: 'BERING Reloj Analogico para Mujer de Cuarzo con Correa en Cuero 14839-462'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07415TWKG/?tag=tolees-21'
 descuento: '35.45'
 average: '83.09'

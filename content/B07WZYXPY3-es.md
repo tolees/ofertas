@@ -16,6 +16,7 @@ comparePrice: 19.69 EUR
 prodname: 'Ballery Libros Blandos para Bebé  no tóxicos Educación temprana Libro de Tela Desarrollo de Inteligencia Libro de Cognición Aprendizaje y Educación para Bebé Recién Nacido Niños 6 Piezas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WZYXPY3/?tag=tolees-21'
 descuento: '42.66'
 average: '11.29'

@@ -16,6 +16,7 @@ comparePrice: 109.0 EUR
 prodname: 'Parrot Mambo Fly - Dron cuadricóptero  30 Km/h  8 minutos de vuelo  programable '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074TGFML6/?tag=tolees-21'
 descuento: '45.96'
 average: '60.6425'

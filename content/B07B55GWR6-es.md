@@ -16,6 +16,7 @@ comparePrice: 74.0 EUR
 prodname: 'Gabol Maleta Unisex  Azul  50 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B55GWR6/?tag=tolees-21'
 descuento: '55.26'
 average: '33.11'

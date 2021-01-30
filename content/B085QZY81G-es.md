@@ -16,6 +16,7 @@ comparePrice: 16.0 EUR
 prodname: 'Finocam - Agenda Curso 2020-2021 Cuarto-155x217 Semana Vista Apaisada Cabeza Blanco Español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085QZY81G/?tag=tolees-21'
 descuento: '30.00'
 average: '11.2'

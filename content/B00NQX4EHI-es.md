@@ -16,6 +16,7 @@ comparePrice: 40.13 EUR
 prodname: 'rubyca cadena de serpiente plata encanto pulsera'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NQX4EHI/?tag=tolees-21'
 descuento: '34.31'
 average: '26.36'

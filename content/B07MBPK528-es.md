@@ -16,6 +16,7 @@ comparePrice: 25.93 EUR
 prodname: 'WOSTOO Coches de Animales  6 Paquetes Tire hacia atrás de los Coches de Dinosaurios  Vehículos de Animales Creatividad Juguete para Niños Regalo de cumpleaños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MBPK528/?tag=tolees-21'
 descuento: '49.90'
 average: '12.99'

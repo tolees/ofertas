@@ -16,6 +16,7 @@ comparePrice: 299.99 EUR
 prodname: 'AOC U2879VF - Monitor de 28" 4K UHD  3840 x 2160  60 Hz  TN  1 ms  FreeSync  Displayport  HDMI   Plata/ Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0163JLIWU/?tag=tolees-21'
 descuento: '33.33'
 average: '203.28166666666667'

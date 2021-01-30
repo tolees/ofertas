@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Webcam Cubierta  Webcam Cover Slider  Laptop Camera Cover 0.027in Ultra-slim Settings Echo Spot Smartphones Tablets Macbooks with Strong Adhensive 6 pack '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BSNH8GH/?tag=tolees-21'
 descuento: '35.74'
 average: '9.04'

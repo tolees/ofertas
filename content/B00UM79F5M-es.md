@@ -16,6 +16,7 @@ comparePrice: 5.44 EUR
 prodname: 'Crystal Ball - Globos Giochi Preziosi 12020  colores surtidos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00UM79F5M/?tag=tolees-21'
 descuento: '90.81'
 average: '0.5'

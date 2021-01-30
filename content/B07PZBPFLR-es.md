@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'KFD - Adaptador de Corriente DC 19 V para Intel NUC FSP065-10AABA Mini PC NUC8I7BEH NUC8i5BEH NUC8i5BEK NUC7I7BNH NUC7I5BNK NUC7i5BNH NUC5CPYH NUC5i5RYH NUC6CAYH NUC6i5SYH'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PZBPFLR/?tag=tolees-21'
 descuento: '47.52'
 average: '23.61'

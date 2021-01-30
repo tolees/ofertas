@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'L Oréal Paris Base de Maquillaje Fluida Infalible Sculpt 03'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01AUTU9RY/?tag=tolees-21'
 descuento: '60.13'
 average: '6.473333333333334'

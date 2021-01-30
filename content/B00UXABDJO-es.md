@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'Dräger X-pect 8110 | Cubregafas Protectoras | Lentes de Seguridad antivaho | para Laboratorio  Agricultura  Industria'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00UXABDJO/?tag=tolees-21'
 descuento: '38.17'
 average: '5.0'

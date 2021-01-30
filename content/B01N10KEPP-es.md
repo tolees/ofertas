@@ -16,6 +16,7 @@ comparePrice: 3.9 EUR
 prodname: 'Cable HDMI Premium 1.4V 3D Alta Velocidad Ultra HD Resolución FULL HD 1080P Plomo 150CM Calidad Alta definición'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N10KEPP/?tag=tolees-21'
 descuento: '28.21'
 average: '2.7759259259259257'

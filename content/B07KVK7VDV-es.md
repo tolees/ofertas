@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Tela de proyección Lux-Screen Formato 100" 16:9  2 12cm x 1 28cm  Superficie de 3 Capas Blanco Mate y Borde perimetal Negro  Pantalla para proyector para Colgar con argolla  garantía de 2 años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KVK7VDV/?tag=tolees-21'
 descuento: '26.10'
 average: '16.99'

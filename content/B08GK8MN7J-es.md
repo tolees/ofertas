@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: '4 Piezas 50ml Botellas de Viaje Recargables Vacías Botellas de Plástico con Mosquetón Recipiente Portátil de Plástico Transparente de Viaje para Desinfectante de Manos Contenedor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08GK8MN7J/?tag=tolees-21'
 descuento: '30.03'
 average: '6.99'

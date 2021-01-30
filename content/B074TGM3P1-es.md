@@ -16,6 +16,7 @@ comparePrice: 20.8 EUR
 prodname: 'Resistente al agua riñonera bolsa de cintura 3 bolsillos con cremallera bolsa riñonera de viaje senderismo al aire libre deporte vacaciones dinero bolsa de cadera paquete  Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074TGM3P1/?tag=tolees-21'
 descuento: '42.40'
 average: '11.98'

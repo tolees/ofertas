@@ -16,6 +16,7 @@ comparePrice: 15.94 EUR
 prodname: 'LEEYYO 50PCS  verde  tela no tejida  limpia/al aire libre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088KFHTQC/?tag=tolees-21'
 descuento: '45.61'
 average: '8.67'

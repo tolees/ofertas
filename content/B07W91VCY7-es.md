@@ -16,6 +16,7 @@ comparePrice: 120.47 EUR
 prodname: 'Tommy Hilfiger Hombre Slim Layton Pstr Clute Blue Loose Fit Jeans  Azul  Clute Blue   W34/L30'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W91VCY7/?tag=tolees-21'
 descuento: '70.97'
 average: '34.97'

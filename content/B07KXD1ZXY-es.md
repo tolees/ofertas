@@ -16,6 +16,7 @@ comparePrice: 109.0 EUR
 prodname: 'Keter Duotech M Maceta Sequoia  Tamaño M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KXD1ZXY/?tag=tolees-21'
 descuento: '26.70'
 average: '79.9'

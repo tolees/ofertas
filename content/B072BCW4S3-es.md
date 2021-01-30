@@ -16,6 +16,7 @@ comparePrice: 12.9 EUR
 prodname: 'Bolero Bebida para el control de peso - 513 gr.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072BCW4S3/?tag=tolees-21'
 descuento: '46.51'
 average: '11.529682539682543'

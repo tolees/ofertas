@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: '226ERS Recovery Drink  Recuperador a base de Proteína  Creatina  Hidratos de Carbono  Triglicéridos y L-Arginina  Sandía - 1000 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CTAMI0I/?tag=tolees-21'
 descuento: '37.65'
 average: '24.94'

@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Compatible con Samsung Galaxy Note 10 Pro  funda de silicona transparente ultrafina [antiamarillo] antihuellas  funda protectora antiarañazos  diseño de Halloween para Galaxy Note 10 Pro 7 Talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y4FN6X8/?tag=tolees-21'
 descuento: '47.39'
 average: '9.99'

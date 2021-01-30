@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Under Armour Women s Charged Impulse Laufschuhe  Zapatillas de Running para Mujer  Blanco  White/Halo Gray/Mod Gray  103  103   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NNTFY8P/?tag=tolees-21'
 descuento: '43.47'
 average: '39.54'

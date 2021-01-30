@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'Intex 57441NP - Unicornio Hinchable Piscina con pulverizador'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07573VDZC/?tag=tolees-21'
 descuento: '32.06'
 average: '20.639999999999997'

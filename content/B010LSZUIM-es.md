@@ -16,6 +16,7 @@ comparePrice: 5.5 EUR
 prodname: 'Brabantia 105340 Cepillo para la Ropa  Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B010LSZUIM/?tag=tolees-21'
 descuento: '26.55'
 average: '4.4'

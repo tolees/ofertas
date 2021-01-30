@@ -16,6 +16,7 @@ comparePrice: 13.98 EUR
 prodname: 'XILOSIN Asiento Trasero del Coche 4PCS Mats Barro Cubierta del Protector | Kick Impermeable Protector para Cubrir niños Kid  Transparente '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087MBMC9N/?tag=tolees-21'
 descuento: '51.07'
 average: '6.84'

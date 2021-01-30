@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'King Love - Consolador realista de 20 5 cm  con base de ventosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MXYEEZS/?tag=tolees-21'
 descuento: '44.48'
 average: '13.88'

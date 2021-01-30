@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Leathario cinturón de piel para hombre con hebilla de metal-negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01L8RY92I/?tag=tolees-21'
 descuento: '43.35'
 average: '16.99'

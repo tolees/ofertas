@@ -16,6 +16,7 @@ comparePrice: 10.36 EUR
 prodname: 'TRUUA 30 Hojas de Papel Blanco del arroz de la caligrafía China y la Pintura de Papel Xuan de la caligrafía Dibujo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BLMCNH3/?tag=tolees-21'
 descuento: '55.31'
 average: '4.63'

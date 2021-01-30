@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Braun Minipimer 3025 Batidora de mano  2 velocidades  campana antisalpicaduras  3 accesorios  minipicadora 350 ml  varillas  700 W  600 milliliters  Plástico  blanco y azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06X3STSVJ/?tag=tolees-21'
 descuento: '42.31'
 average: '29.93'

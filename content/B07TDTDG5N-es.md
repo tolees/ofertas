@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'Lotus Reloj Cronógrafo para Hombre de Cuarzo con Correa en Plstico 18672/1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TDTDG5N/?tag=tolees-21'
 descuento: '50.18'
 average: '64.27'

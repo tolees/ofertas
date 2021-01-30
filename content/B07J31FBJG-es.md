@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'Under Armour Golf Headline 3.0 C Gorra con Logo Frontal  Hombre  Gris  Gray 012   M/L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J31FBJG/?tag=tolees-21'
 descuento: '47.55'
 average: '10.24'

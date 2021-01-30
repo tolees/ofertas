@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'adidas Strngr Swim Top Traje de Baño  Mujer  Black  4B'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S84XVZY/?tag=tolees-21'
 descuento: '54.51'
 average: '33.645'

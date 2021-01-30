@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Igi&Co Uomo Gore-Tex-41173  Zapatillas Altas para Hombre  Azul  Notte 4117322   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NX3RKYT/?tag=tolees-21'
 descuento: '65.11'
 average: '34.86'

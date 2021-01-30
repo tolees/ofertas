@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'H.Koenig RP328 Raclette 8 Personas  Plancha de Piedra Natural  1400 W  Acero Inoxidable  Madera  8 Sartenes Antiadherentes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HJD9RC5/?tag=tolees-21'
 descuento: '59.61'
 average: '39.99'

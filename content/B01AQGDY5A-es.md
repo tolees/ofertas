@@ -16,6 +16,7 @@ comparePrice: 8.82 EUR
 prodname: 'ZTOP 2 Pack negro SuperSpeed USB 3.0 tipo A hembra a hembra adaptador de extensión'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01AQGDY5A/?tag=tolees-21'
 descuento: '49.89'
 average: '4.42'

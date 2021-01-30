@@ -16,6 +16,7 @@ comparePrice: 42.99 EUR
 prodname: 'CHIKA10 Tonia 04 Cuero/Tan  Talla 39'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0845ZKZ6W/?tag=tolees-21'
 descuento: '30.01'
 average: '30.09'

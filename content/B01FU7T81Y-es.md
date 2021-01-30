@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'DARDARUGA Pabellon de Jardin cenador Capri Beige 3x3 m Carpa Plegable de jardín Impermeable y Pop Up para Eventos Camping Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FU7T81Y/?tag=tolees-21'
 descuento: '29.17'
 average: '84.99'

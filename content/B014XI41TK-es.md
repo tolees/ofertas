@@ -16,6 +16,7 @@ comparePrice: 8.31 EUR
 prodname: 'Silky - Leggings de uso diario para mujer  Mediana  M /Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B014XI41TK/?tag=tolees-21'
 descuento: '25.39'
 average: '7.210000000000001'

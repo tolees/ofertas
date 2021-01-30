@@ -16,6 +16,7 @@ comparePrice: 399.99 EUR
 prodname: 'Conjunto de Muebles Poli Ratán para Jardín Terraza Patio - 3 Cojines Blancos 1 Mesa de Café 1 Sofá Biplaza 2 Sillas / Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01D0BREKE/?tag=tolees-21'
 descuento: '50.00'
 average: '199.99'

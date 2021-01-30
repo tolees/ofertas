@@ -16,6 +16,7 @@ comparePrice: 14.94 EUR
 prodname: 'Funko 31621 VYNL 10 16 cm 2-Pack: Star Wars: Darth Maul & OBI WAN  La Amenaza Fantasma   Multi'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J4QQHXZ/?tag=tolees-21'
 descuento: '33.73'
 average: '9.9'

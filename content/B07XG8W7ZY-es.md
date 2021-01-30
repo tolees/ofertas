@@ -16,6 +16,7 @@ comparePrice: 31.53 EUR
 prodname: 'Ferilinso Funda para Xiaomi Redmi Note 8 Pro Elegante Armadura híbrida Robusta Funda de Doble Capa de Alta Resistencia para PC Duro Caso para Funda Xiaomi Redmi Note 8 Pro  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XG8W7ZY/?tag=tolees-21'
 descuento: '74.66'
 average: '7.99'

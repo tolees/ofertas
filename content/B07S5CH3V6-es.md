@@ -16,6 +16,7 @@ comparePrice: 175.5 EUR
 prodname: 'Love MoschinoJc4024pp1aMujerBolsos totesBlanco  Bianco 12x27x40 centimeters  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S5CH3V6/?tag=tolees-21'
 descuento: '42.72'
 average: '100.53'

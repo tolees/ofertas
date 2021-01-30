@@ -16,6 +16,7 @@ comparePrice: 115.0 EUR
 prodname: 'Levi s 512 Slim Taper Jeans  Azul  Rock Cod 0280   34W / 32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D7WFDHD/?tag=tolees-21'
 descuento: '46.79'
 average: '67.50999999999999'

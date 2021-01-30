@@ -16,6 +16,7 @@ comparePrice: 31.99 EUR
 prodname: 'Dragon Ball Super - Lanzador de energía Kamehameha  Bandai 35885 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N7P2XD8/?tag=tolees-21'
 descuento: '52.70'
 average: '21.34'

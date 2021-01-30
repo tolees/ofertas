@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'Skylanders SuperCharges - Figura Shark Tank  Vehicle '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B013DJEIHK/?tag=tolees-21'
 descuento: '25.53'
 average: '5.545'

@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'CABLEDECONN Mini Displayport  Puerto Thunderbolt Compatible  a HDMI/DVI/VGA Macho a Hembra 3-en-1 Cable Adaptador Conventor para Mac  iMac  Mac Book Air  Mac Book Pro  White '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B011UMD60M/?tag=tolees-21'
 descuento: '25.01'
 average: '12.74'

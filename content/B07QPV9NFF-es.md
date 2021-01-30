@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'JETech Funda Compatible iPad Air 10 5  3ª Generación 2019  y iPad Pro 10 5 2017  Carcasa con Soporte Función  Auto-Sueño/Estela  Amarillo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QPV9NFF/?tag=tolees-21'
 descuento: '26.35'
 average: '13.015'

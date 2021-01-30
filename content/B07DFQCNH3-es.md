@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'PUMA Ignite Woven Chándal  Hombre  Black  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DFQCNH3/?tag=tolees-21'
 descuento: '40.68'
 average: '35.56'

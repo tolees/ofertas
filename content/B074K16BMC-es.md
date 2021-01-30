@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'PDP - Pixel Pals DC Comics Joker'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074K16BMC/?tag=tolees-21'
 descuento: '33.29'
 average: '10.0'

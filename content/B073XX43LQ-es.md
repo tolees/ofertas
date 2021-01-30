@@ -16,6 +16,7 @@ comparePrice: 295.0 EUR
 prodname: 'Scuderia Ferrari Reloj Cronógrafo para Hombre de Cuarzo con Correa en Cuero 830445'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073XX43LQ/?tag=tolees-21'
 descuento: '30.09'
 average: '153.84333333333333'

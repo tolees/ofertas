@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Genericc Tarjeta Micro SD SDXC 128 GB/256 GB de alta velocidad Clase 10 Tarjeta de memoria con adaptador SD  128 GB '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08B54V6CG/?tag=tolees-21'
 descuento: '60.03'
 average: '7.99'

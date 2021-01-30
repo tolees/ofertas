@@ -16,6 +16,7 @@ comparePrice: 281.98 EUR
 prodname: 'Marshall Stanmore II Altavoz Bluetooth - Blanco  EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HPP2DMM/?tag=tolees-21'
 descuento: '26.15'
 average: '232.75'

@@ -16,6 +16,7 @@ comparePrice: 54.53 EUR
 prodname: 'Calvin Klein Short Drawstring Bañador  Azul  Bluefish DW9   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VNNRQW5/?tag=tolees-21'
 descuento: '62.68'
 average: '20.35'

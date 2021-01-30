@@ -16,6 +16,7 @@ comparePrice: 56.98 EUR
 prodname: 'Pablosky 477226  Botas Slouch para Niñas  Azul  Azul Azul   33 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QB8JTP8/?tag=tolees-21'
 descuento: '30.03'
 average: '39.87'

@@ -16,6 +16,7 @@ comparePrice: 93.81 EUR
 prodname: 'San Ignacio MasterPro GRAN FORMATO-Grill 28x28  Wok 28 y Plancha Asador 36 cms  gris  inducción  aluminio forjado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0825HPWTR/?tag=tolees-21'
 descuento: '25.39'
 average: '69.99'

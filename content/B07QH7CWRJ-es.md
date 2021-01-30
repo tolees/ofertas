@@ -16,6 +16,7 @@ comparePrice: 22.86 EUR
 prodname: 'PRIMENATURE Energy Shot. Energía y vitaminas. Suplemento en viales líquidos. Cansancio  ánimo y defensas. Ginseng  Guaraná  Taurina  BCAAs  NADH  Vitaminas grupo B. 15 x 30ml.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QH7CWRJ/?tag=tolees-21'
 descuento: '26.29'
 average: '16.85'

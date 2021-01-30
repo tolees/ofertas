@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Kit de accesorios para XIAOMI MI Robot piezas de repuesto al vacío 2 piezas Principal 2 piezas cepillo cepillo lateral 2 piezas Filtro HEPA'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H9WF2HF/?tag=tolees-21'
 descuento: '43.68'
 average: '18.55333333333333'

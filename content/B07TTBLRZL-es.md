@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Colágeno Marino con Ácido Hialurónico  Coenzima Q10  Vitamina C y Zinc | 180 cápsulas  Suministro para 3 meses  | Péptidos que mantienen articulaciones  cartílagos  huesos  piel  cabello y uñas sanos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TTBLRZL/?tag=tolees-21'
 descuento: '46.32'
 average: '13.42'

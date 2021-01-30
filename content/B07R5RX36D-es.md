@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'AIMILAR Temporizador visual de 60 minutos  herramienta de gestión de tiempo silenciosa  para aula o reuniones  reloj de cuenta atrás para niños y adultos verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R5RX36D/?tag=tolees-21'
 descuento: '28.01'
 average: '17.99'

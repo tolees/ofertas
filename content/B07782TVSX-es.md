@@ -16,6 +16,7 @@ comparePrice: 18.32 EUR
 prodname: 'Kit de espátula de glaseado premium de 4 piezas  WisFox espátulas de glaseado de acero inoxidable en ángulo de 3 piezas profesionales de y espátula de glaseado de acero inoxidable recta de 1 pieza'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07782TVSX/?tag=tolees-21'
 descuento: '45.47'
 average: '9.99'

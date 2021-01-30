@@ -16,6 +16,7 @@ comparePrice: 8.95 EUR
 prodname: 'L Oréal Paris Infalible Gel Laca de Uñas  Tono 042'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B017DB2Q8C/?tag=tolees-21'
 descuento: '34.53'
 average: '5.86'

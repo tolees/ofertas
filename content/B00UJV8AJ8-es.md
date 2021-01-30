@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Final Fantasy XIV: Heavensward'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00UJV8AJ8/?tag=tolees-21'
 descuento: '50.48'
 average: '9.9'

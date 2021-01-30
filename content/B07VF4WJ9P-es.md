@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'mama stadt Peluca de Cosplay  Peluca para Adultos y Niños  Pelucas para Carnaval Halloween Fiesta de Disfraces'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VF4WJ9P/?tag=tolees-21'
 descuento: '77.52'
 average: '8.99'

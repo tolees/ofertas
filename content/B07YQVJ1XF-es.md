@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'NOKOER Protector de Lente de Cámara para Xiaomi Redmi Note 8 Pro  [2 Pack] Anillo Protector Metálico para la Cámara [Compatible con Funda] Anti-Arañazos Anti-Caídas - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YQVJ1XF/?tag=tolees-21'
 descuento: '44.49'
 average: '4.99'

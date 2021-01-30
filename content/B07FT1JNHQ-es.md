@@ -16,6 +16,7 @@ comparePrice: 26.95 EUR
 prodname: 'Buff Approach Spider-Man Junior Gorro Polar  Unisex Adulto  Talla Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FT1JNHQ/?tag=tolees-21'
 descuento: '75.96'
 average: '9.42'

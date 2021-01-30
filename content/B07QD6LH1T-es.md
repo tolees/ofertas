@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'PUMA Hit Feel It 7/8 Tight Mallas Deporte  Mujer  Black-Bridal Rose-Yellow Alert  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QD6LH1T/?tag=tolees-21'
 descuento: '50.73'
 average: '24.61'

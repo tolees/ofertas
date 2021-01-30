@@ -16,6 +16,7 @@ comparePrice: 3.7 EUR
 prodname: 'Garnier Fructis Crece Fuerte Champú Pelo Frágil  con tendencia a caerse - 360 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XDQWLLH/?tag=tolees-21'
 descuento: '30.00'
 average: '2.894'

@@ -16,6 +16,7 @@ comparePrice: 8.95 EUR
 prodname: 'Munchkin Platos con compartimentos Apple  3 unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00QTXZO62/?tag=tolees-21'
 descuento: '30.73'
 average: '6.636666666666667'

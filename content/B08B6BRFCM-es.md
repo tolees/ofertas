@@ -16,6 +16,7 @@ comparePrice: 6.99 EUR
 prodname: 'Correa para Reloj  Hanyixue Active Correa de reemplazo Suave de Silicona para Deportes Pulseras de Repuesto para smartwatches para Samsung Galaxy Watch  Rosado '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08B6BRFCM/?tag=tolees-21'
 descuento: '52.93'
 average: '3.29'

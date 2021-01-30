@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'F1 2020 Seventy Edition ESP'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087RPM86V/?tag=tolees-21'
 descuento: '27.99'
 average: '37.300000000000004'

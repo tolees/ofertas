@@ -16,6 +16,7 @@ comparePrice: 37.21 EUR
 prodname: 'Piratas Del Caribe: La Venganza De Salazar - Edición Metálica  2D + 3D  [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071FJ6LVY/?tag=tolees-21'
 descuento: '46.52'
 average: '19.51285714285714'

@@ -16,6 +16,7 @@ comparePrice: 152.24 EUR
 prodname: 'Arcos Universal - Taco de 5 cuchillos y tijera  6pzs '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007TS6G9U/?tag=tolees-21'
 descuento: '26.18'
 average: '112.39'

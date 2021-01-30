@@ -16,6 +16,7 @@ comparePrice: 67.99 EUR
 prodname: 'Lumemery Piscina Inflable Familia Niños Adultos Fiesta de Agua de Verano Piscina Infantil para jardín  Patio Trasero  Exterior  150 * 110 * 50 cm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088NY1ZH1/?tag=tolees-21'
 descuento: '26.49'
 average: '49.98'

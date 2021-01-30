@@ -16,6 +16,7 @@ comparePrice: 21.75 EUR
 prodname: 'Bosch BHN09070 Sin bolsa Azul  Plata - Aspiradora  Secar  Sin bolsa  Azul  Plata  9 min  16 h  9 6 V '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LIT3LT8/?tag=tolees-21'
 descuento: '25.24'
 average: '24.034'

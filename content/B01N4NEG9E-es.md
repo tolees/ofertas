@@ -16,6 +16,7 @@ comparePrice: 272.99 EUR
 prodname: 'Epson ECOTANK ET2600 3IN1 Impresora de inyección de Tinta C11CF46402 A4/WLAN/LAN'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N4NEG9E/?tag=tolees-21'
 descuento: '39.56'
 average: '165.0'

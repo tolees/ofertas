@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Peradix Splash Pad Tapete de Juegos de Agua 170CM Almohadilla Aspersor de Juego Agua +10 * Fichas de Juego de plástico Salpicaduras y PVC Salpica Almohadilla Aire Libre Fiesta Playa Jardín'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0833W6PYY/?tag=tolees-21'
 descuento: '48.26'
 average: '22.34'

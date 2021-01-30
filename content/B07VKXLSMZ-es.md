@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'Hackett London Army Hackett Polo  Rojo  255red 255   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VKXLSMZ/?tag=tolees-21'
 descuento: '70.04'
 average: '35.95'

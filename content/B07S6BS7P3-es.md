@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'EMPIRE GAMING - Micrófono Gamer PC  Mac  Consolas – Micro Ideal Podcast Youtube  Streaming Twitch  Charlas  Canciones - Retroiluminación LED RGB 15 Modos – Cable USB - Negro Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S6BS7P3/?tag=tolees-21'
 descuento: '35.09'
 average: '25.9'

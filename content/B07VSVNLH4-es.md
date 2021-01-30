@@ -16,6 +16,7 @@ comparePrice: 12.55 EUR
 prodname: 'Calvin Klein Thong Tanga  Azul  Feeder Stripe Baby Blue Bfx    Talla del Fabricante: X-Small  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VSVNLH4/?tag=tolees-21'
 descuento: '36.25'
 average: '8.0'

@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'CLINIQUE CHUBBY STICK #10-bountiful blush 3 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0081PFBQY/?tag=tolees-21'
 descuento: '37.00'
 average: '12.6'

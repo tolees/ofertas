@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'Casio G-SHOCK Reloj Analógico-Digital  Carbonífero  20 BAR  Azul/Negro  para Hombre  GA-2000-1A2ER'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PDH8LMX/?tag=tolees-21'
 descuento: '34.79'
 average: '92.19333333333334'

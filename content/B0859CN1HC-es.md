@@ -16,6 +16,7 @@ comparePrice: 11.98 EUR
 prodname: 'Oihxse Funda Xiaomi Mi 10 5G  Ultra Delgado Transparente TPU Silicona Case Suave Claro Elegante Creativa Patrón Bumper Carcasa Anti-Arañazos Anti-Choque Protección Caso Cover  A14 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0859CN1HC/?tag=tolees-21'
 descuento: '33.39'
 average: '7.98'

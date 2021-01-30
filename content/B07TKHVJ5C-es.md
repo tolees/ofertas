@@ -16,6 +16,7 @@ comparePrice: 159.0 EUR
 prodname: 'American Tourister Wavebreaker Barbie - Spinner M  color negro  Shimmer Power Barbie '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TKHVJ5C/?tag=tolees-21'
 descuento: '49.21'
 average: '73.42999999999999'

@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Dickies New York Short  Pantalones Cortos para Hombre  Multicolor  Camouflage   44 W'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NBF50NB/?tag=tolees-21'
 descuento: '57.27'
 average: '25.21'

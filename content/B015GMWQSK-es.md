@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'ETEKCITY EHS-18 Báscula de Equipaje Digital con Gancho  Balanza Ergonómica 50 kg / 110 lbs  Dinamómetro para Maletas  para Viajes  Cocina  Pesca y Caza  Pantalla LCD  Cinta Métrica Incluida  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B015GMWQSK/?tag=tolees-21'
 descuento: '26.88'
 average: '11.475'

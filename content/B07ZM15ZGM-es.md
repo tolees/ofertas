@@ -16,6 +16,7 @@ comparePrice: 145.99 EUR
 prodname: 'NMDD Ornament Skulptur Handwerk Abstrakte Kunst Dekoration Moderne Einfache Persönlichkeit Weinschrank Dekoration Family Interior Room Schlafzimmerdekoration  Farbe: Bronze  Größe: E '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZM15ZGM/?tag=tolees-21'
 descuento: '44.52'
 average: '80.99'

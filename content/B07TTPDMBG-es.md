@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'Kipling Abanu  Bolsos con Bandolera para Mujer  Negro  Carbon Metallic   20x13.5x7.5 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TTPDMBG/?tag=tolees-21'
 descuento: '51.52'
 average: '35.725'

@@ -16,6 +16,7 @@ comparePrice: 3.95 EUR
 prodname: 'Palette Intense - Tono 7.5 Rubio Dorado Caramelo - Coloración Permanente - Schwarzkopf'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00X9VD4L4/?tag=tolees-21'
 descuento: '30.38'
 average: '2.75'

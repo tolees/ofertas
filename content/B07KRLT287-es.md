@@ -16,6 +16,7 @@ comparePrice: 80 EUR
 prodname: 'New Balance 624v5  Zapatillas Deportivas para Interior para Hombre  Marrón  Brown Brown   46.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KRLT287/?tag=tolees-21'
 descuento: '63.00'
 average: '29.6'

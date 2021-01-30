@@ -16,6 +16,7 @@ comparePrice: 31.95 EUR
 prodname: 'Fornite - Quadcrasher 28 cm  Windows '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RL6S2RW/?tag=tolees-21'
 descuento: '35.05'
 average: '20.75'

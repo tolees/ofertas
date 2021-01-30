@@ -16,6 +16,7 @@ comparePrice: 51.99 EUR
 prodname: 'Vbiger Mochilas Escolares Niña 3 en 1 para 7 a 16 Años  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MY1RGDT/?tag=tolees-21'
 descuento: '44.26'
 average: '28.98'

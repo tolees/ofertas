@@ -16,6 +16,7 @@ comparePrice: 18.9 EUR
 prodname: 'PUMA Cross The Line Pantalones  Mujer  Negro  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N4PFN35/?tag=tolees-21'
 descuento: '41.06'
 average: '11.14'

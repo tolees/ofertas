@@ -16,6 +16,7 @@ comparePrice: 43.01 EUR
 prodname: 'Levi s Slanted Logo Scarf Bufanda  Negro  Noir Regular Black 59   única  Talla del Fabricante: UN  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BR87CH7/?tag=tolees-21'
 descuento: '46.92'
 average: '22.83'

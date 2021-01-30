@@ -16,6 +16,7 @@ comparePrice: 40.99 EUR
 prodname: 'Revell IL-2 Stormovik  Kit de Modelo  Escala 1: 48  3932   03932 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06X9T3KNM/?tag=tolees-21'
 descuento: '52.50'
 average: '19.772499999999997'

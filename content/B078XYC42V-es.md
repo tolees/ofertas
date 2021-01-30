@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Remington Pro Air D5950 - Secador de Pelo Iónico  Concentrador  Resultados Profesionales  2200 W  Negro y Granate'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078XYC42V/?tag=tolees-21'
 descuento: '39.88'
 average: '20.576666666666668'

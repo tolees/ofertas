@@ -16,6 +16,7 @@ comparePrice: 30.29 EUR
 prodname: 'Ruichenxi Metal USB Pen Drive 256GB Mini Memorias USB 256GB Extreme Memoria Flash USB Drive'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082W1G1ST/?tag=tolees-21'
 descuento: '34.00'
 average: '19.99'

@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'TELMU Microscopio de bolsillo para niños y principiantes  pequeño y brillante  set de accesorios de 70 piezas  300X-600X-1200X  con iluminación LED y cuchillas  maleta y preparación incluidos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F64D6XD/?tag=tolees-21'
 descuento: '54.45'
 average: '40.82333333333333'

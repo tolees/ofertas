@@ -16,6 +16,7 @@ comparePrice: 79.0 EUR
 prodname: 'Thomas Sabo Mujer Vermeil Abalorios K0334-414-7'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TY82PGP/?tag=tolees-21'
 descuento: '27.82'
 average: '57.02'

@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'Portavasos de plástico Intex PureSpa Beige  26 x 22 x 18 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00O8S0BPO/?tag=tolees-21'
 descuento: '40.80'
 average: '5.89'

@@ -16,6 +16,7 @@ comparePrice: 229.9 EUR
 prodname: 'Tommy Hilfiger Mono Color Longboot  Botas Altas para Mujer  Black Bds  41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N6VCNZ6/?tag=tolees-21'
 descuento: '76.30'
 average: '71.96'

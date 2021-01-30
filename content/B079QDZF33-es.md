@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Maleta de cabina Catalina Estrada Faisan rígida 55cm Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079QDZF33/?tag=tolees-21'
 descuento: '35.99'
 average: '64.0'

@@ -16,6 +16,7 @@ comparePrice: 43.83 EUR
 prodname: 'Hotott Hub USB c Lector de Tarjetas de Memoria UHS-II  SD 4.0/TF 2 USB 3.0  PD Carga Rápida Compatible con para Macbook Pro  Google Chromme  Hua Wei Matebook  Galaxy S10  etc.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X2H19FK/?tag=tolees-21'
 descuento: '54.39'
 average: '19.656666666666666'

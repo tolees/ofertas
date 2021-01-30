@@ -16,6 +16,7 @@ comparePrice: 64.9 EUR
 prodname: 'Beurer LB37 TOFFEE Humidificador de aire'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01KZ2F2IM/?tag=tolees-21'
 descuento: '27.58'
 average: '46.669999999999995'

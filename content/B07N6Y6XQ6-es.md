@@ -16,6 +16,7 @@ comparePrice: 49.68 EUR
 prodname: 'Tommy Hilfiger Casual Leather Boot  Botas Clasicas para Hombre  Black 990  41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N6Y6XQ6/?tag=tolees-21'
 descuento: '25.12'
 average: '45.013333333333335'

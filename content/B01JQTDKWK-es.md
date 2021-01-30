@@ -16,6 +16,7 @@ comparePrice: 16.02 EUR
 prodname: 'Amazon Essentials Drawstring Walk Short  Azul  Navy   Small'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01JQTDKWK/?tag=tolees-21'
 descuento: '25.72'
 average: '11.9'

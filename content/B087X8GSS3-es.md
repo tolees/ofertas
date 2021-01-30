@@ -16,6 +16,7 @@ comparePrice: 52.18 EUR
 prodname: 'P Prettyia 2.5"500G 1T 2T Unidad De Disco Duro Externo USB 3.0 HDD SATA 3.0 - Plata 500G'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087X8GSS3/?tag=tolees-21'
 descuento: '44.44'
 average: '28.99'

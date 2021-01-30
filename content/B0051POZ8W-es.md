@@ -16,6 +16,7 @@ comparePrice: 6.99 EUR
 prodname: 'Johnson s Baby Crema Protectora de Pañal  ideal para la piel delicada de los bebés - 1 x 100 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0051POZ8W/?tag=tolees-21'
 descuento: '53.51'
 average: '3.575'

@@ -16,6 +16,7 @@ comparePrice: 136.99 EUR
 prodname: 'Voodoo Vixen Nicole Grey 40s Style Mujer Abrigos Negro-Blanco XL  75% poliacrílico  25% Lana '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083KFLNLQ/?tag=tolees-21'
 descuento: '29.20'
 average: '96.99'

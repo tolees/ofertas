@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'ammoon Soporte Trípode para Micrófono Mini Plegable Mesa de Sobremesa Poseedor  Soporte+Filtro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HHTZVMV/?tag=tolees-21'
 descuento: '28.01'
 average: '13.690000000000001'

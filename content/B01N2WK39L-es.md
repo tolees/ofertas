@@ -16,6 +16,7 @@ comparePrice: 10.47 EUR
 prodname: 'adidas 6Pcap Ltwgt Emb Gorra de Tenis  Hombre  Negro  Negro/Negro/Blanco   OSFC'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N2WK39L/?tag=tolees-21'
 descuento: '28.56'
 average: '8.225000000000001'

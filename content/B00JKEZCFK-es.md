@@ -16,6 +16,7 @@ comparePrice: 10.53 EUR
 prodname: 'Yazilind Elegante diseño único 14K Gold Filled Inlay Teardrop púrpura pendientes de gota del Circonita cúbico cuelga para la Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00JKEZCFK/?tag=tolees-21'
 descuento: '64.96'
 average: '3.69'

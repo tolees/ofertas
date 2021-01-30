@@ -16,6 +16,7 @@ comparePrice: 6.59 EUR
 prodname: 'ANEWSIR [2 Pack] Protector de Pantalla para Xiaomi Redmi Note 7 / xiaomi redmi Note 7 Pro Cristal Vidrio Templado Premium 9H definición.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MW46SZM/?tag=tolees-21'
 descuento: '25.95'
 average: '5.62'

@@ -16,6 +16,7 @@ comparePrice: 26.95 EUR
 prodname: 'Revlon Eksperience Densi Pro Spray 190 Ml 1 Unidad 190 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NX3TCJG/?tag=tolees-21'
 descuento: '42.34'
 average: '12.96'

@@ -16,6 +16,7 @@ comparePrice: 11.94 EUR
 prodname: 'Wipp Express Detergente Líquido Azul - 40 Lavados  2L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QCZZG87/?tag=tolees-21'
 descuento: '27.72'
 average: '8.63'

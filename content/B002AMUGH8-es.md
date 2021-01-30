@@ -16,6 +16,7 @@ comparePrice: 151.0 EUR
 prodname: 'Sisley Phyto Nuit Crema Collagène Et Mauve Pot 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002AMUGH8/?tag=tolees-21'
 descuento: '39.77'
 average: '90.95'

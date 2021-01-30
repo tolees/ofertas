@@ -16,6 +16,7 @@ comparePrice: 249.0 EUR
 prodname: 'Maserati Reloj Cronógrafo de Cuarzo para Hombre con Correa de Cuero – R8871624002'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01DCHG6MS/?tag=tolees-21'
 descuento: '44.68'
 average: '137.75'

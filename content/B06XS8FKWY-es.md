@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Apple Funda Smart Cover  para el iPad  - Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XS8FKWY/?tag=tolees-21'
 descuento: '26.33'
 average: '22.236363636363635'

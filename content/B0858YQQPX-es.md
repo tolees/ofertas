@@ -16,6 +16,7 @@ comparePrice: 11.98 EUR
 prodname: 'Oihxse Animal Serie Case Compatible con Xiaomi Redmi S2 Funda Transparente Suave Silicona Elefante Conejo Patrón Protector Carcasa Ultra-Delgado Creativa Anti-Choque Cover  A11 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0858YQQPX/?tag=tolees-21'
 descuento: '33.39'
 average: '7.98'

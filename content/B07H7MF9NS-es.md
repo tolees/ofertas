@@ -16,6 +16,7 @@ comparePrice: 34.38 EUR
 prodname: 'K9 Powerharness  Tamaño: Mini  Colore: Mocca Tela de Saco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H7MF9NS/?tag=tolees-21'
 descuento: '38.95'
 average: '20.99'

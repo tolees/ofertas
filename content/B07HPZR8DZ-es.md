@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Funko Pop: Fortnite: Raptor  multicolor  36823    color/modelo surtido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HPZR8DZ/?tag=tolees-21'
 descuento: '33.96'
 average: '10.33'

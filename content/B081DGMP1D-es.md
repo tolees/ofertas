@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'FNBK Funda para Samsung Galaxy S8 Funda de Piel con Stand Función con Ranura para Tarjetas Flip Case Cover Caso Compatible con Samsung Galaxy S8 Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081DGMP1D/?tag=tolees-21'
 descuento: '53.89'
 average: '5.99'

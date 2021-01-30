@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Helly Hansen W HH LIFA Active Basleayer Pant  Mujer  Black  XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XHFNM1F/?tag=tolees-21'
 descuento: '51.13'
 average: '21.99'

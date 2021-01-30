@@ -16,6 +16,7 @@ comparePrice: 269.1 EUR
 prodname: 'Orient Reloj de Pulsera RA-AP0003S10B'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K7SVGF6/?tag=tolees-21'
 descuento: '29.59'
 average: '189.47'

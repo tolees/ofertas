@@ -16,6 +16,7 @@ comparePrice: 139.99 EUR
 prodname: 'Bamamx Parque Infantil Bebe Plegable  Anillas Parque Bebe Portátil  Parque de Juegos Lavable  Vallas Infantiles con Malla Ajustable  Centro de Actividades Bebe Interior Exterior  bebe de 6 a 24 meses'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TMYWKJ2/?tag=tolees-21'
 descuento: '30.72'
 average: '96.99'

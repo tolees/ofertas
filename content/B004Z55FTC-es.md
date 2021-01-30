@@ -16,6 +16,7 @@ comparePrice: 332.56 EUR
 prodname: 'MAKITA BHX2501 Herramienta  810 W  Negro/Azul/Plata  Talla Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004Z55FTC/?tag=tolees-21'
 descuento: '29.69'
 average: '233.82'

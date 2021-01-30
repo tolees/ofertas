@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'GHONLZIN Bandeja de Comida Fresca  Bandeja Fresca Contenedores Ambientales de Almacenamiento de Alimentos para la Preservación de la Frescura de los Alimentos  1 Piece '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W4TLM2P/?tag=tolees-21'
 descuento: '45.02'
 average: '10.99'

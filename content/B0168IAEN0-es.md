@@ -16,6 +16,7 @@ comparePrice: 74.9 EUR
 prodname: 'Beurer FC 76 - Exfoliador profesional de microdermoabrasión  2 niveles de intensidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0168IAEN0/?tag=tolees-21'
 descuento: '33.26'
 average: '54.965'

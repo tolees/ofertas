@@ -16,6 +16,7 @@ comparePrice: 37.94 EUR
 prodname: 'Disney Store The Lion King 14 Pumbaa Plush Stuffed Animal Toy by Disney'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005IFJC38/?tag=tolees-21'
 descuento: '35.61'
 average: '24.43'

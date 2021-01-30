@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Salomon X Radiant  Zapatillas de Senderismo para Hombre  Gris  Stormy Weather/Monument/Green Sulphur   46 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CZTS968/?tag=tolees-21'
 descuento: '33.31'
 average: '59.99'

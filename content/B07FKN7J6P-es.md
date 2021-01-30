@@ -16,6 +16,7 @@ comparePrice: 9 EUR
 prodname: 'Joma Marsella Camisetas Equip. M/C  Hombre  Marino  XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FKN7J6P/?tag=tolees-21'
 descuento: '39.00'
 average: '5.970000000000001'

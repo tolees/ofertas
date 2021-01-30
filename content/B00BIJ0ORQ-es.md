@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'Vans Atwood  Zapatillas Unisex Niños  Negro  Canvas Black/White 187   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BIJ0ORQ/?tag=tolees-21'
 descuento: '55.55'
 average: '21.133333333333333'

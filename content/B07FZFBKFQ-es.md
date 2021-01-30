@@ -16,6 +16,7 @@ comparePrice: 35.39 EUR
 prodname: 'RIIQIICHY Cachemira Invierno Bufanda Pashmina Chal Mantón para Mujeres Negro Más Grueso Cálida Grande Larga Manta'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FZFBKFQ/?tag=tolees-21'
 descuento: '57.64'
 average: '14.99'

@@ -16,6 +16,7 @@ comparePrice: 2.27 EUR
 prodname: 'Provide the best 4pcs / Set Universal de reemplazo Inteligente infrarrojo móvil de Control Remoto inalámbrico para Jack Teléfono de Control Remoto Color al Azar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R19JPSR/?tag=tolees-21'
 descuento: '25.11'
 average: '1.9849999999999999'

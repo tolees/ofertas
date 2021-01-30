@@ -16,6 +16,7 @@ comparePrice: 139.95 EUR
 prodname: 'Cybex Silver - Portabebés Aton  en contra de la marcha  incluye reductor para recién nacido  desde el nacimiento hasta aprox. 18 meses  max. 13 kg  rumba red'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00FANJPQ2/?tag=tolees-21'
 descuento: '57.13'
 average: '60.0'

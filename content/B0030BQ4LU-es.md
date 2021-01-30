@@ -16,6 +16,7 @@ comparePrice: 40.62 EUR
 prodname: 'Calvin Klein Hombre - Pack de 3 bóxers de tiro medio - Cotton Stretch  Multicolor  I03 White/Red Ginger/Pyro Blue   L   Pack de 3 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0030BQ4LU/?tag=tolees-21'
 descuento: '45.84'
 average: '27.1'

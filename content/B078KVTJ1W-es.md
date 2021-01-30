@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'PUMA Liga Training Core Chándal  Hombre  Peacoat/White  3XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078KVTJ1W/?tag=tolees-21'
 descuento: '31.02'
 average: '16.87666666666667'

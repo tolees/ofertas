@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Columbia Buga Conjunto para la Nieve  Niños  Mezclar rosa / púrpura  Pink Clover Trees   Talla: M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R7XP1NS/?tag=tolees-21'
 descuento: '43.33'
 average: '56.66'

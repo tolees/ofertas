@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'LOBKIN Bolsas Reutilizables de Almacenamiento de Alimentos Sin BPA Biodegradables  Bolsas Congelar Reutilizables 10Paquetes Bolsas para Sándwiches Verduras Frutas.A Prueba de Fugas  2L+4M+4S '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZYWFWSW/?tag=tolees-21'
 descuento: '66.68'
 average: '19.99'

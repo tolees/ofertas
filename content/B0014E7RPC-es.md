@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'Dunlop Protective Footwear  DUO18  380VP.43 Zapatillas de Deporte Exterior  Green  43'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0014E7RPC/?tag=tolees-21'
 descuento: '37.79'
 average: '9.3'

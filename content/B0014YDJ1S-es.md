@@ -16,6 +16,7 @@ comparePrice: 9.06 EUR
 prodname: 'Wilkinson Sword Extra 2 Sensitive - Bolsa 20 Maquinillas de Afeitar Desechables para Pieles Sensibles'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0014YDJ1S/?tag=tolees-21'
 descuento: '33.89'
 average: '5.99'

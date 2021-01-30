@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'PUMA Challenger Duffel Bag M Bolsa Deporte  Adultos Unisex  Peacoat  OSFA'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RC5F26B/?tag=tolees-21'
 descuento: '44.23'
 average: '19.49'

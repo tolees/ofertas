@@ -16,6 +16,7 @@ comparePrice: 13.5 EUR
 prodname: 'Brabantia 298240 Bote de Cristal 1.9 L  Gris/Transparente  1 9 l'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00JFWP306/?tag=tolees-21'
 descuento: '40.00'
 average: '8.1'

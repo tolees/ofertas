@@ -16,6 +16,7 @@ comparePrice: 22.71 EUR
 prodname: 'Calcetines de fútbol J color personalizados con número de equipo hasta la rodilla  calcetines de fútbol  elige tu número  Hombre  color 1 rojo de 58 cm o 32 pulgadas.  tamaño talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085RGSSFM/?tag=tolees-21'
 descuento: '67.02'
 average: '7.49'

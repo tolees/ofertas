@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'Case Logic VNAI-215 - Maletín para Ordenador portátil'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007AB92DI/?tag=tolees-21'
 descuento: '54.82'
 average: '11.687872340425534'

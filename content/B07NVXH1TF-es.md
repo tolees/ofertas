@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'G-Star Raw 3301 Slim 1/2 Pantalones cortos  Negro  medium aged grey A634-9887   26 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NVXH1TF/?tag=tolees-21'
 descuento: '50.03'
 average: '39.95'

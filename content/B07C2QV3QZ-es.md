@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'ETEKCITY EK7017 Báscula Digital para Cocina con Pantalla Táctil  Balanza de Alimentos Multifuncional  5 kg / 11 lbs  Acero Inoxidable de Grado Alimenticio 304  Plata  Baterías Incluidas '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C2QV3QZ/?tag=tolees-21'
 descuento: '40.01'
 average: '17.99'

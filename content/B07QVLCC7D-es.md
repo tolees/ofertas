@@ -16,6 +16,7 @@ comparePrice: 138.77 EUR
 prodname: 'DYNASONIC - Dynapro 10 - Altavoz Inalámbrico Sistema Audio Profesional Megafonia Portátil | Lector USB Bluetooth Radio FM y Micrófonos  Color Negro  DYNAPRO 10 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QVLCC7D/?tag=tolees-21'
 descuento: '25.06'
 average: '104.0'

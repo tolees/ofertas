@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Nakosite RAY2433 Reloj inteligente Mujer Hombre SmartWatch pulsera Actividad relojes Inteligentes deportivo   podometro Contador de Pasos Calorías Sueño Distancia.Android 5.0 iOS 8.0 y posteriores'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0792RSBS2/?tag=tolees-21'
 descuento: '44.02'
 average: '13.99'

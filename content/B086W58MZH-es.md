@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'FITTOO Sujetador Deportivo Tops de Yoga Correr Gimnasio para Mujer Rojo XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086W58MZH/?tag=tolees-21'
 descuento: '51.46'
 average: '16.99'

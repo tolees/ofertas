@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Marvel Comic - Equipaje Infantil  Blanco  55 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QC7Y75W/?tag=tolees-21'
 descuento: '34.34'
 average: '66.27000000000001'

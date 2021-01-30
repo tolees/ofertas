@@ -16,6 +16,7 @@ comparePrice: 2.9 EUR
 prodname: 'Varta CR2430 - Pack de 1 pila  Litio  3V  300 mAh '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00005NPSA/?tag=tolees-21'
 descuento: '59.31'
 average: '1.18'

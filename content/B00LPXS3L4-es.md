@@ -16,6 +16,7 @@ comparePrice: 9.96 EUR
 prodname: 'IBRA® PEARL - 1m  metros  Cable óptico de Audio Digital Toslink | Alta calidad | conectores Toslink | para PS3  Sky  Sky HD  Home Cinema Sistemas  AV Amps.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00LPXS3L4/?tag=tolees-21'
 descuento: '41.57'
 average: '5.82'

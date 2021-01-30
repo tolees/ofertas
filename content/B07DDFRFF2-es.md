@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Ready 2 Robot Serie 1 - Bot Blaster Capsula Sorpresa con Lanza Misiles  Giochi Preziosi RED02000 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DDFRFF2/?tag=tolees-21'
 descuento: '76.69'
 average: '6.99'

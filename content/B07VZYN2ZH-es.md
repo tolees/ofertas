@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Jack & Jones Jorpannel Crew Neck. suéter  Azul  Light Grey Melange Fit: Knit Fit   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VZYN2ZH/?tag=tolees-21'
 descuento: '74.25'
 average: '10.988888888888889'

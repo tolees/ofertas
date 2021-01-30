@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Befekt Gears Riñonera Deportiva  Riñonera Running Mujer Hombre Impermeable con Bandas Reflectantes Agujero del Auricular Ideal para 6 5 Pulgadas de móvil iPhone XS MAX/X  Xiaomi  Huawei etc.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q9PZ3TN/?tag=tolees-21'
 descuento: '33.87'
 average: '9.07'

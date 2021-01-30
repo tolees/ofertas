@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Hyrule Warriors - Edición definitiva'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078YL9PFG/?tag=tolees-21'
 descuento: '33.41'
 average: '39.95'

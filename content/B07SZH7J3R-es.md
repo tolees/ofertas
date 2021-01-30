@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Nike Air Heights  Zapatillas para Hombre  Negro  Black/White 003   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SZH7J3R/?tag=tolees-21'
 descuento: '34.40'
 average: '47.87166666666667'

@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Lima Electrica Pies  Pedicura Profesional Durezas LimaPies Callos Pies Electrico 3 rodillos  2 Velocidades  Recargable por USB  Apagado Auto de 15 minutos  LED integrado '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BL3XKYN/?tag=tolees-21'
 descuento: '36.01'
 average: '15.99'

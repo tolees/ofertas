@@ -16,6 +16,7 @@ comparePrice: 2.14 EUR
 prodname: 'Lay s Gourmet Patatas Fritas con Sal - 180 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LCTLADI/?tag=tolees-21'
 descuento: '53.27'
 average: '1.35'

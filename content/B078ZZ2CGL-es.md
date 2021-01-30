@@ -16,6 +16,7 @@ comparePrice: 20.76 EUR
 prodname: 'TRESemmé Champú Cuidado Clásico - Paquete de 4 x 900 ml - Total: 3600 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078ZZ2CGL/?tag=tolees-21'
 descuento: '28.32'
 average: '15.0425'

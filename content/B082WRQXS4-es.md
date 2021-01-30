@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Scratch Art Sirena LANMOK 48hojas Papel de Rascar Mundo Submarino Manualidades Rascar Animales Marinos para Regalo Cumpleaño Infantile Escuela Clase de Manualidad 12 palitos de Madera y 48Cintas '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082WRQXS4/?tag=tolees-21'
 descuento: '45.22'
 average: '10.95'

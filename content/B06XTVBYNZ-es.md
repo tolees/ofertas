@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Yazubi Pantalon Chino Hombre Slim fit Verano - Simon Skinny Marino Cielo Agua Cyan Celeste  Azul  Brunnera Blue 163922   W29/L34'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XTVBYNZ/?tag=tolees-21'
 descuento: '60.16'
 average: '19.9'

@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'SVUK brochas de pintura 12-20170704'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073RCN2Q6/?tag=tolees-21'
 descuento: '42.13'
 average: '10.99'

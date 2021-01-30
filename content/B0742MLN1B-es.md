@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Salomon AGILE Pequeña mochila  12 set'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0742MLN1B/?tag=tolees-21'
 descuento: '40.00'
 average: '62.114000000000004'

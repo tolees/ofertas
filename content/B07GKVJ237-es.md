@@ -16,6 +16,7 @@ comparePrice: 12.7 EUR
 prodname: 'China Yunnan Puer té Lotus Puerh Tuocha Pequeña hoja de loto en conserva Pu er té maduro 100g  0.22LB  té orgánico Pu er té Té negro Té chino Pu er té Puerh té Pu-erh té Pu erh té té cocido té rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GKVJ237/?tag=tolees-21'
 descuento: '50.00'
 average: '6.35'

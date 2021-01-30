@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'AGAKY Mini Ventilador de Mano  Ventiladores USB Recargable 3 Velocidades  2 en 1 Ventiladores Portátil con Mini Humidificador para Oficina  Hogar  Viajes  y Cámping'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0861Y3CNS/?tag=tolees-21'
 descuento: '31.60'
 average: '12.99'

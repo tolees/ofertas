@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Greylags Calcetines Prima Calidad deportiva Respirable Reinforced Sneaker Calcetines | Hombres y mujeres | 80% Algodón | Certificado Oeko-Tex Standard 100 | Paquete de 6'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DX9RHSJ/?tag=tolees-21'
 descuento: '46.14'
 average: '19.225'

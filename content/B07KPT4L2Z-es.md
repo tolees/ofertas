@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Funko- Pop Vinilo: Kiss: Catman Figura Coleccionable  Multicolor  Estándar  28507 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KPT4L2Z/?tag=tolees-21'
 descuento: '28.52'
 average: '9.3'

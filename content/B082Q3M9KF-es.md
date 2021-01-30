@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Janhe Sheer Classic Videogames Pattern Headpiece Chiffon Thin Headkerchief Pañuelo de seda Chica'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082Q3M9KF/?tag=tolees-21'
 descuento: '60.06'
 average: '3.99'

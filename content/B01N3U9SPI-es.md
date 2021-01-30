@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'KLIM™ Fusion - Auriculares con micrófono para móvil + Garantía 5 años + Innovadora Espuma de Memoria + Jack 3 5 mm + Compatibles con Smartphone  Tablet  Consola  PC - Nueva Versión 2020 - Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N3U9SPI/?tag=tolees-21'
 descuento: '35.18'
 average: '12.9'

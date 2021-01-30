@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'New Balance Fresh Foam LAZR v2 Hypoknit  Zapatillas para Hombre  Negro  Black/Neon Emerald Lb2   41.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BL2F3HK/?tag=tolees-21'
 descuento: '37.00'
 average: '70.82'

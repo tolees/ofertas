@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Skechers ROVINA Clean Sheen  Zapatillas para Mujer  Blanco  White Mesh/Leather/Durapatent Trim Wht   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VZRX361/?tag=tolees-21'
 descuento: '50.92'
 average: '34.33'

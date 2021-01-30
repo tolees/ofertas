@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'AJOXEL Antifaz para Dormir Máscara De Dormir Antifaz Gel Frio para Hombre Mujer  100% Seda Pura Máscara de Ojos con Tapón de Oído y Correas Ajustables Anti-Luz Cómoda para Viajar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SGCS7WF/?tag=tolees-21'
 descuento: '42.88'
 average: '11.99'

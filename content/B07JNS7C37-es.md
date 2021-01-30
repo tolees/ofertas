@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'adidas TIRO19 TR PNTY Pantalones de Deporte  Unisex niños  Black/White  1112'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JNS7C37/?tag=tolees-21'
 descuento: '28.71'
 average: '28.48'

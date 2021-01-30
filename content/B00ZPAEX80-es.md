@@ -16,6 +16,7 @@ comparePrice: 17.9 EUR
 prodname: 'DISFRAZ ROBIN MUJER TALLA M-L-'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ZPAEX80/?tag=tolees-21'
 descuento: '50.78'
 average: '8.81'

@@ -16,6 +16,7 @@ comparePrice: 15.12 EUR
 prodname: 'BSEED Interruptor de luz Interruptor de pared con Botón Pulsador Cruzado 1 Gang 3 Vías Panel de Vidrio 10A sin Tornillos Interruptor de Palanca Conmutable Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZNGT932/?tag=tolees-21'
 descuento: '44.44'
 average: '9.65'

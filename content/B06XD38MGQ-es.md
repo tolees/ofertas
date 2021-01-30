@@ -16,6 +16,7 @@ comparePrice: 6.99 EUR
 prodname: 'Maybelline New York Colossal Kajal Lápiz de Ojos Ultra Intenso'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XD38MGQ/?tag=tolees-21'
 descuento: '47.07'
 average: '5.27'

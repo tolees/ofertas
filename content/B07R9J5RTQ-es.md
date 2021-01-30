@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'ORICO Tiras para Organizar Cables y Sujetacables  Reutilizables sujeta Cables  Se Puede Cortar a Voluntad，Blanco - 0.5m'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R9J5RTQ/?tag=tolees-21'
 descuento: '36.40'
 average: '6.99'

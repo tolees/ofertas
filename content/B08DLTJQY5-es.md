@@ -16,6 +16,7 @@ comparePrice: 19.98 EUR
 prodname: 'USB C Auriculares Tipo C con Cable y Micrófono para Google Pixel  Samsung  Huawei  Xiaomi  iPad Pro  MacBook Pro | Air  Blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08DLTJQY5/?tag=tolees-21'
 descuento: '25.03'
 average: '14.98'

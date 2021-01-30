@@ -16,6 +16,7 @@ comparePrice: 105.99 EUR
 prodname: 'Fashion·LIFE Plancha De Vapor de Mano para Ropa Plancha Vertical Viaje Elimina Arrugas Olores y Desinfecta-Rápido Calentamiento en 15s 150ML Negro para Europa '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MR2X4DG/?tag=tolees-21'
 descuento: '63.21'
 average: '38.99'

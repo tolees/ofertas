@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Funko- Pop Vinilo: Big Bang Theory S2: Raj Figura Coleccionable  Multicolor  Talla única  38584 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N5RW3N1/?tag=tolees-21'
 descuento: '48.46'
 average: '8.528461538461539'

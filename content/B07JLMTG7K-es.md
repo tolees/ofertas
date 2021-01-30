@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Deik Planchas de Ropa  2000W Plancha Ropa Vapor  Vapor Vertical y Golpe de Vapor 120g/min con Anti-Escala  Anti Goteo  Auto Limpieza  Apagado automático para Hogar y Viaje  Capacidad 170 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JLMTG7K/?tag=tolees-21'
 descuento: '46.68'
 average: '15.302499999999998'

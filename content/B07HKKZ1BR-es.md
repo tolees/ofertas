@@ -16,6 +16,7 @@ comparePrice: 78.51 EUR
 prodname: 'Globo Flotante de levitación magnética gira del mapa del mundo utilizar como decoración del escritorio del hogar o de oficina  un gran regalo que sorprenderá a su familias y amigos  Octágono '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HKKZ1BR/?tag=tolees-21'
 descuento: '50.21'
 average: '39.09'

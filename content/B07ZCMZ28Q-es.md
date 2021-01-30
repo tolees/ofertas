@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Yigou Riñonera Deportiva  Riñonera Cinturón Running Impermeable Bolsillos con Cierre Cremallera  Adecuado para Deportes o Viaje al Aire Libre  Negro  L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZCMZ28Q/?tag=tolees-21'
 descuento: '50.02'
 average: '13.19'

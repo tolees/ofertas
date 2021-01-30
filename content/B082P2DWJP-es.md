@@ -16,6 +16,7 @@ comparePrice: 58.99 EUR
 prodname: 'RenFox Aire Acondicionado Portátil Air Cooler Humidificador ，Aire Acondicionado Portátil con Mango Oficina Ventilador de Escritorio Mini Ventilador para el hogar  Interior  Cocina  al Aire Libre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082P2DWJP/?tag=tolees-21'
 descuento: '38.99'
 average: '35.99'

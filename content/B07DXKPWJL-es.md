@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'OurLeeme 13 en 1 teléfono móvil de la pantalla de apertura Herramientas de reparación del kit del destornillador de los alicates palanca Desmontar el Kit de herramientas para Samsung iPhone Móvil'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DXKPWJL/?tag=tolees-21'
 descuento: '50.05'
 average: '4.99'

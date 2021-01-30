@@ -16,6 +16,7 @@ comparePrice: 18.5 EUR
 prodname: 'Clarins 57923 Joli Rouge Lacquer Pintalabios  N.732L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PMHB23T/?tag=tolees-21'
 descuento: '27.14'
 average: '13.48'

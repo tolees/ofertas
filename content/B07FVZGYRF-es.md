@@ -16,6 +16,7 @@ comparePrice: 24.23 EUR
 prodname: 'Nuevo 5A + Chinese Top Grade Lago Oeste Spring Longjing Té Verde Dragon Well Tea Long Jing Gift Packing China Green Food Gift Embalaje té'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FVZGYRF/?tag=tolees-21'
 descuento: '50.02'
 average: '12.11'

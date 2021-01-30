@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Compatible con Samsung Galaxy S10  funda transparente de silicona ultrafina [antiamarillo] antihuellas  funda protectora antiarañazos  diseño de Halloween para Samsung Galaxy S10 3 Talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y7PDQYL/?tag=tolees-21'
 descuento: '47.39'
 average: '9.99'

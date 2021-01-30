@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Volcom Lido Trunks 16" Boardshorts  Hombre  Neon Green  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0759LH9HC/?tag=tolees-21'
 descuento: '55.58'
 average: '17.28'

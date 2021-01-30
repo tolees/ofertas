@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'BOSS Prime Polo  Azul  Light/Pastel Blue 456   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K4RY6JT/?tag=tolees-21'
 descuento: '31.38'
 average: '48.475'

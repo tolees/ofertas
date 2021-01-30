@@ -16,6 +16,7 @@ comparePrice: 13.54 EUR
 prodname: 'Campeones [DVD]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D3L7BC3/?tag=tolees-21'
 descuento: '26.22'
 average: '10.635714285714286'

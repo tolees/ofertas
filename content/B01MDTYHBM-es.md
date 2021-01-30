@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'G-STAR RAW Zed Cinturón  Negro  Black/black 406   90 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MDTYHBM/?tag=tolees-21'
 descuento: '31.19'
 average: '27.49'

@@ -16,6 +16,7 @@ comparePrice: 50.96 EUR
 prodname: 'Pablosky 064554  Botas para Bebés  Gris  Gris Gris   22 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QGG3TTH/?tag=tolees-21'
 descuento: '71.06'
 average: '14.75'

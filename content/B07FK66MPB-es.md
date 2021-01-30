@@ -16,6 +16,7 @@ comparePrice: 170.0 EUR
 prodname: 'Seiko Reloj Analogico para Hombre de Cuarzo con Correa en Nailon SGEH83P1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FK66MPB/?tag=tolees-21'
 descuento: '42.94'
 average: '96.988'

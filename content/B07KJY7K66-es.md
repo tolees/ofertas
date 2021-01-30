@@ -16,6 +16,7 @@ comparePrice: 20.97 EUR
 prodname: 'Lenor Unstoppables Dreams Perlas Impulsoras De Fragancia - pack de 3 x 210 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KJY7K66/?tag=tolees-21'
 descuento: '42.92'
 average: '15.735000000000001'

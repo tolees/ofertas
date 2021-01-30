@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Pop! Smallfoot - Figura de Vinilo Percy'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DFC39DJ/?tag=tolees-21'
 descuento: '43.64'
 average: '8.99'

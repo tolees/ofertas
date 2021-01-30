@@ -16,6 +16,7 @@ comparePrice: 60 EUR
 prodname: 'Nike Wmns Downshifter 9  Zapatillas de Running para Mujer  Gris  Cool Grey/Mtlc Silver/Wolf Grey/Black/Pure Platinum/White 004   38.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H81GQWZ/?tag=tolees-21'
 descuento: '45.08'
 average: '32.95'

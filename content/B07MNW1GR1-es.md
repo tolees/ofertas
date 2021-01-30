@@ -16,6 +16,7 @@ comparePrice: 2449.99 EUR
 prodname: 'Microsoft Surface Pro 6 - Ordenador portátil 2 en 1  12.3    Intel Core i7-8650U  16GB RAM  1TB SSD  Intel Graphics  Windows 10  Color Plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MNW1GR1/?tag=tolees-21'
 descuento: '37.16'
 average: '1539.61'

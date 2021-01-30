@@ -16,6 +16,7 @@ comparePrice: 84.0 EUR
 prodname: 'Safety 1st Rainbow Silla de Paseo ultraligera pesa solo 6 6 kg  Plegable y compacta  Reclinable de multi posiciónes  reposapiés adjustable  color blue Chic'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KJZJHSX/?tag=tolees-21'
 descuento: '44.35'
 average: '53.178000000000004'

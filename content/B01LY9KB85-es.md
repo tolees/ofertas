@@ -16,6 +16,7 @@ comparePrice: 169.99 EUR
 prodname: 'Amzdeal Incubadora Digital 9/12 de Polluelo Huevos Incubadora Automática Control De Temperatura para Aves de Corral'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LY9KB85/?tag=tolees-21'
 descuento: '60.00'
 average: '69.32333333333332'

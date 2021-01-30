@@ -16,6 +16,7 @@ comparePrice: 26.49 EUR
 prodname: 'find. Bailarinas Planas con Empeine Alto Mujer  Beige  Sand   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078GZ2SPL/?tag=tolees-21'
 descuento: '64.33'
 average: '11.122'

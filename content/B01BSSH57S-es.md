@@ -16,6 +16,7 @@ comparePrice: 24.39 EUR
 prodname: 'Samsung Flip Wallet - Funda Oficial Galaxy S7  Color Negro- Versión española'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BSSH57S/?tag=tolees-21'
 descuento: '73.19'
 average: '6.54'

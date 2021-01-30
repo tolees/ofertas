@@ -16,6 +16,7 @@ comparePrice: 178.06 EUR
 prodname: 'GBC 4400556 - Encuadernadora'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00TJ3BRYC/?tag=tolees-21'
 descuento: '34.15'
 average: '117.26'

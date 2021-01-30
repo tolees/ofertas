@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'QHOHQ Protector de Pantalla Compatible para Xiaomi Redmi Note 9 Pro y Redmi Note 9 Pro MAX  [3 Unidades]  Cristal Templado con [9H Dureza] [Sin Burbujas] [Anti-Huella] [Anti-Arañazos]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085VX2XR7/?tag=tolees-21'
 descuento: '60.46'
 average: '3.95'

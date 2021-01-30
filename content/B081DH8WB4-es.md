@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Cover compatible con OnePlus 6 funda Clear Ultradünn Carcasa Ultraligera Cartoon Animal Case Anti-Amarillo Transparente Waterproof Teléfono Móvil Bumper Cover para OnePlus 6 2 talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081DH8WB4/?tag=tolees-21'
 descuento: '47.39'
 average: '9.99'

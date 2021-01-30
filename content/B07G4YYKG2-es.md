@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Pop! Avengers Infinity War - Figura de Vinilo Bucky Barnes with Weapon'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G4YYKG2/?tag=tolees-21'
 descuento: '28.65'
 average: '11.05'

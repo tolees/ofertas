@@ -16,6 +16,7 @@ comparePrice: 36.99 EUR
 prodname: 'AmazonBasics - Balón medicinal  7 kg'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074TL4CGJ/?tag=tolees-21'
 descuento: '25.01'
 average: '27.74'

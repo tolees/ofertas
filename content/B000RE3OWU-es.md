@@ -16,6 +16,7 @@ comparePrice: 4.5 EUR
 prodname: 'Brabantia 365225 - Cucharón sopero  Nylon  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000RE3OWU/?tag=tolees-21'
 descuento: '33.56'
 average: '3.0650000000000004'

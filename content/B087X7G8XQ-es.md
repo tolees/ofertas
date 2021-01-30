@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Suhctup Funda Transparent Compatible para Galaxy A9 Star/A8 Star Carcasa Protectora [Antigolpes] Suave Silicona TPU Bumper Cojín de Aire de Cuatro Esquinas Protector Gel para Galaxy A9 Star A11'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087X7G8XQ/?tag=tolees-21'
 descuento: '47.15'
 average: '8.98'

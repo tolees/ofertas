@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'Joma - Calentador Lycra Record Marino para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00W3RD94C/?tag=tolees-21'
 descuento: '50.13'
 average: '11.375'

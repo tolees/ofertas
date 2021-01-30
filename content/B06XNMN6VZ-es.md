@@ -16,6 +16,7 @@ comparePrice: 76.98 EUR
 prodname: 'Natural madera relojes  MUJUZE Japón Movt reloj de cuarzo reloj de peso ligero para cuero hombres mujeres relojes Bamboo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XNMN6VZ/?tag=tolees-21'
 descuento: '66.63'
 average: '25.69'

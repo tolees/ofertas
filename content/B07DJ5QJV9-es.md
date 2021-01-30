@@ -16,6 +16,7 @@ comparePrice: 58.99 EUR
 prodname: 'New Balance 997H Core  Zapatillas para Hombre  Plateado  Marblehead   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DJ5QJV9/?tag=tolees-21'
 descuento: '46.40'
 average: '28.495'

@@ -16,6 +16,7 @@ comparePrice: 22.9 EUR
 prodname: 'Clatronic WK 3445 Hervidor de Agua eléctrico con Apagado automático  inalámbrico  Filtro de Cal extraíble  2200 W  1.7 litros  Acero Inoxidable  Verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00MBS5B26/?tag=tolees-21'
 descuento: '47.60'
 average: '12'

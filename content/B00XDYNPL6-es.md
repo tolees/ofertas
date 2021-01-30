@@ -16,6 +16,7 @@ comparePrice: 44.9 EUR
 prodname: 'Tommy Hilfiger New Danny Belt Cinturón  Masters Black  90 cm para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XDYNPL6/?tag=tolees-21'
 descuento: '35.43'
 average: '25.494999999999997'

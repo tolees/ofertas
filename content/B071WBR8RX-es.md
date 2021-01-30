@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'ammoon Mezclador de Sonido Ultra Compacto Ruido Bajo 8 Canales Metal Mono Estéreo Audio con Cable de Adaptador de Corriente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071WBR8RX/?tag=tolees-21'
 descuento: '40.84'
 average: '34.89'

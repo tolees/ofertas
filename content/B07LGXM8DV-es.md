@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Salomon SENSIBELT Cinturón PortaBotellas  Incluye Botella de  Unisex Adulto  Negro  600 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LGXM8DV/?tag=tolees-21'
 descuento: '30.02'
 average: '31.49'

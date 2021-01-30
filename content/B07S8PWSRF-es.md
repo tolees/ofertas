@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'PUMA Smash v2  Zapatillas Unisex Adulto  Verde  Burnt Olive White Team Gold 41   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S8PWSRF/?tag=tolees-21'
 descuento: '36.40'
 average: '37.45'

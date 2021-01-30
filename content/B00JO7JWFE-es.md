@@ -16,6 +16,7 @@ comparePrice: 7.95 EUR
 prodname: 'Astor Soft Sentation Color & Care Barra de Labios Tono 301 Satin Mauve - 19 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00JO7JWFE/?tag=tolees-21'
 descuento: '34.59'
 average: '5.716666666666667'

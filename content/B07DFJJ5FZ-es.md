@@ -16,6 +16,7 @@ comparePrice: 16.7 EUR
 prodname: 'SUMMONERS War - Pop Paladin Light  Jeanne '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DFJJ5FZ/?tag=tolees-21'
 descuento: '40.12'
 average: '10.0'

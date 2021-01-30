@@ -16,6 +16,7 @@ comparePrice: 146.51 EUR
 prodname: 'Kitchen Emperor Cuchillo Santoku Damasco  Cuchillo Acero Damasco  Cuchillos de Cocina Profesionales  Prima 67 Capas de Acero'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078XTHRPY/?tag=tolees-21'
 descuento: '59.12'
 average: '59.89'

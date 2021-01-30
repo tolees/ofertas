@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Sylvie Flirty Swimwear Bera  Traje de Baño de Una Pieza para Mujer  Multicolor  Little Print 4300   40  Talla del fabricante: 38A '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077YBML5F/?tag=tolees-21'
 descuento: '91.28'
 average: '6.97'

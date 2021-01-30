@@ -16,6 +16,7 @@ comparePrice: 19.41 EUR
 prodname: 'Funko- Pop Star Wars The Rise of Skywalker-Kylo REN  Lights & Sound  Collectible Figure  Multicolor  44599 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SM895KV/?tag=tolees-21'
 descuento: '26.53'
 average: '14.26'

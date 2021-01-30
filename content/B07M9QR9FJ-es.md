@@ -16,6 +16,7 @@ comparePrice: 51.27 EUR
 prodname: 'Lee Malone Jeans  True Blue Hq  30W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M9QR9FJ/?tag=tolees-21'
 descuento: '56.41'
 average: '22.35'

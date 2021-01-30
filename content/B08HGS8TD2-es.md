@@ -16,6 +16,7 @@ comparePrice: 10.78 EUR
 prodname: '#N/A 2 Kits de Ropa de Baño en Miniatura para Muñecas Chicas Americanas 18 Inch'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08HGS8TD2/?tag=tolees-21'
 descuento: '44.43'
 average: '5.99'

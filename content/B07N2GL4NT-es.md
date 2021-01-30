@@ -16,6 +16,7 @@ comparePrice: 25.97 EUR
 prodname: 'Cepillo de limpieza facial  cepillo facial electrónico con 5 cabezales de cepillo exfoliante  resistente al agua IPX6  funciona con pilas  adecuado para todo tipo de pieles  suave exfoliación y limpieza en profundidad.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N2GL4NT/?tag=tolees-21'
 descuento: '53.99'
 average: '11.676666666666666'

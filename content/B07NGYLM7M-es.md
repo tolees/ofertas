@@ -16,6 +16,7 @@ comparePrice: 155.0 EUR
 prodname: 'El Naturalista NG33 Soft Grain YUGEN  Botas Clasicas para Hombre  Negro  Black Black   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NGYLM7M/?tag=tolees-21'
 descuento: '68.19'
 average: '49.3'

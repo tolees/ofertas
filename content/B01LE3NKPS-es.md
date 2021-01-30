@@ -16,6 +16,7 @@ comparePrice: 8.74 EUR
 prodname: 'Testosterol 250 - 30 caps by MEGABOL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LE3NKPS/?tag=tolees-21'
 descuento: '29.63'
 average: '6.15'

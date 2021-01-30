@@ -16,6 +16,7 @@ comparePrice: 9.15 EUR
 prodname: 'Astor Eyeartist Liner Longlasting Eyeliner Líquido Tono 090-7 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003KT3TEM/?tag=tolees-21'
 descuento: '57.92'
 average: '3.6366666666666667'

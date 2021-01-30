@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'adidas Ask SPRT Lst M Long Sleeved T-Shirt  Hombre  Dark Blue  2XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0779GBYSC/?tag=tolees-21'
 descuento: '41.37'
 average: '20.49'

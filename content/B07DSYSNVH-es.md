@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'L Oréal París - Infallible 24H Fresh Wear  Base de Maquillaje de Larga Duración  Tono 290 Ambre Doré - 30 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DSYSNVH/?tag=tolees-21'
 descuento: '43.48'
 average: '8.45'

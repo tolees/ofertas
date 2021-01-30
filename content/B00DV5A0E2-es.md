@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Superga 2750-cotu Classic  Zapatillas de Estar por casa Unisex Adulto  Verde  Military Green 595   EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00DV5A0E2/?tag=tolees-21'
 descuento: '38.98'
 average: '31.26909090909091'

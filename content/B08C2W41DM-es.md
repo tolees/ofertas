@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Serum Facial de Ácido Hialurónico  Hidratará Aclarará la Piel Mientras Rellena Esas Líneas Finas y Arrugas Orgánicopara Eliminar Líneas de Expresión y Arrugas Hidratación Suave y Fácil Absorción-30ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08C2W41DM/?tag=tolees-21'
 descuento: '67.52'
 average: '12.99'

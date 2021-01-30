@@ -16,6 +16,7 @@ comparePrice: 659.09 EUR
 prodname: 'Grohe 30 294 DC0 30294DC0-Essence Grifo Cocina Semiprofesional '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XDTTC51/?tag=tolees-21'
 descuento: '35.00'
 average: '428.41'

@@ -16,6 +16,7 @@ comparePrice: 44.95 EUR
 prodname: 'Reebok Royal Cl Jog 2l  Zapatillas para Hombre  Blanco  Collegiate Navy 0   47 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HCQNORK/?tag=tolees-21'
 descuento: '25.56'
 average: '28.965'

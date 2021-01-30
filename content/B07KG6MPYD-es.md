@@ -16,6 +16,7 @@ comparePrice: 119.95 EUR
 prodname: 'PUMA Hybrid Astro  Zapatillas de Running para Hombre - Negro  Puma Black-Puma White  - 42.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KG6MPYD/?tag=tolees-21'
 descuento: '62.97'
 average: '47.144999999999996'

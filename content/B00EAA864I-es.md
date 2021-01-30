@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Rowenta CF 6430 peinado - Moldeador de pelo  Violeta  Color blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00EAA864I/?tag=tolees-21'
 descuento: '50.02'
 average: '12.49'

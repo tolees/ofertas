@@ -16,6 +16,7 @@ comparePrice: 11.95 EUR
 prodname: 'Essie Pintauñas Nude tono 654 Hold´em Tight - 13.5 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YVP3YYP/?tag=tolees-21'
 descuento: '47.20'
 average: '6.31'

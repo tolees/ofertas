@@ -16,6 +16,7 @@ comparePrice: 49.1 EUR
 prodname: 'Shimano PD-M424 - Pedales M-424 Spd'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000KBZUFO/?tag=tolees-21'
 descuento: '34.93'
 average: '31.95'

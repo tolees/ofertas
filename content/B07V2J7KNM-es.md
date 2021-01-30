@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Jabón Facial Limpiador Micelar 4 en 1 - UNISEX - Ingredientes Naturales Y Ecológicos por Mediterranean Spirit'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V2J7KNM/?tag=tolees-21'
 descuento: '55.69'
 average: '10.63'

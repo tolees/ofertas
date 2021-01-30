@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'GiiYoon-3 Piezas Protector de Pantalla para Xiaomi Redmi Note 7/7 Pro Cristal Templado [Sin Burbujas] [Cobertura Completa] [9H Dureza] Vidrio Templado HD para Xiaomi Redmi Note 7/7 Pro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089ZVL93C/?tag=tolees-21'
 descuento: '30.79'
 average: '8.99'

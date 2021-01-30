@@ -16,6 +16,7 @@ comparePrice: 3.95 EUR
 prodname: 'Palette Schwarzkopf Intense Coloración Permanente  Tono 6.1 Rubio Oscuro Ceniza - 1 unidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YQD72K4/?tag=tolees-21'
 descuento: '30.89'
 average: '2.73'

@@ -16,6 +16,7 @@ comparePrice: 2.95 EUR
 prodname: 'L Oreal Paris Elvive Color Vive Champú Protector  para el pelo teñido - 285 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CF4BHG2/?tag=tolees-21'
 descuento: '30.17'
 average: '2.12'

@@ -16,6 +16,7 @@ comparePrice: 19.0 EUR
 prodname: 'Quantum Mechanix Star Trek-Insignia: Medical  Color Multicolor  Talla única Abysse Corp BIJQMX004'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074ZPJVGL/?tag=tolees-21'
 descuento: '38.84'
 average: '11.62'

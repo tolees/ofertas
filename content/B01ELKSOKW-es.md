@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Mondial BB05 Plancha  7 litros  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01ELKSOKW/?tag=tolees-21'
 descuento: '49.96'
 average: '49.99'

@@ -16,6 +16,7 @@ comparePrice: 7.93 EUR
 prodname: '10pcs Mascarillas Médicas Desechables 3 Capas con Clip de Nariz Ajustable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085CF4S1L/?tag=tolees-21'
 descuento: '52.21'
 average: '6.59'

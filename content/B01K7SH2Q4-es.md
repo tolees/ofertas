@@ -16,6 +16,7 @@ comparePrice: 3.62 EUR
 prodname: 'Garnier Coloración Color Sensation Nº2.1 Negro Azulado - 200 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01K7SH2Q4/?tag=tolees-21'
 descuento: '50.00'
 average: '1.81'

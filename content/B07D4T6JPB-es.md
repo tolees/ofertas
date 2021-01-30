@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'Kappa Follow OC XL  Zapatillas para Hombre  Negro  Black/Grey 1116   47 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D4T6JPB/?tag=tolees-21'
 descuento: '32.10'
 average: '23.73'

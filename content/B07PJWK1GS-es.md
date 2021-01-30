@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'Yeeper Zapatillas de Seguridad Deportivos con Puntera de Acero/Zapatos de Trabajo Transpirable Resistente a Las Perforaciones para Hombre Azul EU 46'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PJWK1GS/?tag=tolees-21'
 descuento: '45.66'
 average: '24.99'

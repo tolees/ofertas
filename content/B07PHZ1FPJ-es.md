@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Belkin Boost Up Base de carga inalámbrica 10 W  cargador para iPhone 11  11 Pro/Pro Max  XS  XS Max  XR  SE  Airpods  Samsung Galaxy S20  S20+  S20 Ultra  S10  S10+ y S10e  con enchufe  blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PHZ1FPJ/?tag=tolees-21'
 descuento: '61.22'
 average: '20.336666666666666'

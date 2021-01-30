@@ -16,6 +16,7 @@ comparePrice: 159.99 EUR
 prodname: 'NGS Premium Speaker WildRock - Altavoz portátil con Bluetooth  200W con Micro SD  USB  FM  AUX IN   Color Negro.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BN3M5BZ/?tag=tolees-21'
 descuento: '31.25'
 average: '109.99'

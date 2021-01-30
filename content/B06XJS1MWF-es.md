@@ -16,6 +16,7 @@ comparePrice: 119.05 EUR
 prodname: 'Hot Mom - barandillas de la cama 150 cm para bebés  portátil y estable  barrera de seguridad color gris  2020 new'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XJS1MWF/?tag=tolees-21'
 descuento: '58.84'
 average: '47.0'

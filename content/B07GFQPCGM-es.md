@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'HOMEYU 925 Sterling Silver Sin Perforaciones Ear Cuffs Líneas Dobles Ear Cuff para el cartílago del oído Superior  Fake Conch Earring 1 Pair'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GFQPCGM/?tag=tolees-21'
 descuento: '51.05'
 average: '4.89'

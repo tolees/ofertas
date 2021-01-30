@@ -16,6 +16,7 @@ comparePrice: 15.4 EUR
 prodname: 'Neutrogena Spot Controlling Acne Crema Hidratante Oil Free - 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082L5VNKS/?tag=tolees-21'
 descuento: '32.14'
 average: '10.45'

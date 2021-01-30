@@ -16,6 +16,7 @@ comparePrice: 22.75 EUR
 prodname: 'Elite Bags  EMS  Riñonera botiquín de primeros auxilios  Básica  Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075ZZWYHG/?tag=tolees-21'
 descuento: '45.01'
 average: '12.51'

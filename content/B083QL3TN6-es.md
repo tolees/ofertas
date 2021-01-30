@@ -16,6 +16,7 @@ comparePrice: 5.94 EUR
 prodname: 'Tamaño pequeño Jasen Power Splitter Satellite Two Power Splitter Divisor de 2 vías Divisor de Potencia Ligero  Plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083QL3TN6/?tag=tolees-21'
 descuento: '35.02'
 average: '3.86'

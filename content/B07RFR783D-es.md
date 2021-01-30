@@ -16,6 +16,7 @@ comparePrice: 44.9 EUR
 prodname: 'Tommy Hilfiger Longline Bra Sujetador con Push-up  Azul  Navy Blazer 416   K  Talla del Fabricante: B85  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RFR783D/?tag=tolees-21'
 descuento: '36.55'
 average: '28.656666666666666'

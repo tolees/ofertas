@@ -16,6 +16,7 @@ comparePrice: 398.08 EUR
 prodname: 'Crucial CT2K32G4SFD832A Kit de Memoria Ram de 64 GB  32 GB x 2   DDR4  3200 MT/s  SODIMM  260-Pin  1.2V  CL22   Green'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZLCVKPV/?tag=tolees-21'
 descuento: '37.39'
 average: '250.45499999999998'

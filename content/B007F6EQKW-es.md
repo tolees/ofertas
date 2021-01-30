@@ -16,6 +16,7 @@ comparePrice: 9.9 EUR
 prodname: 'Lékué - Cocedor de Huevos  0.1 litros  Silicona  Transparente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007F6EQKW/?tag=tolees-21'
 descuento: '29.39'
 average: '8.4'

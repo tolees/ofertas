@@ -16,6 +16,7 @@ comparePrice: 6.99 EUR
 prodname: 'NECULAMAT Cable Audio vídeo AV RCA Macho Jack 3 5 mm  1 5metros '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BG5DXJN/?tag=tolees-21'
 descuento: '28.61'
 average: '4.99'

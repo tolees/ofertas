@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'JAIMIE JACOBS Cartera Hombre Nano Boy Cartera Minimalista Slim Wallet Cartera Clip Cartera Pequeña Tarjetera fina Pinza para Billetes Billetero para Hombres  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CYTTJJW/?tag=tolees-21'
 descuento: '37.59'
 average: '23.814285714285713'

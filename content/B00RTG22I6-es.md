@@ -16,6 +16,7 @@ comparePrice: 349.69 EUR
 prodname: 'Grohe Eurodisc - Grifo de lavabo empotrado  color cromo L Ref. 19969000'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00RTG22I6/?tag=tolees-21'
 descuento: '41.44'
 average: '204.77'

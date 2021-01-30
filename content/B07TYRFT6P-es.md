@@ -16,6 +16,7 @@ comparePrice: 12.2 EUR
 prodname: 'Pop Doctor Who Kerblam Man Vinyl Figure'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TYRFT6P/?tag=tolees-21'
 descuento: '64.43'
 average: '6.615'

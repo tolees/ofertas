@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Pop! Vinilo: Fairy Tail S3: Zeref'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KPK1MPW/?tag=tolees-21'
 descuento: '28.52'
 average: '9.416666666666666'

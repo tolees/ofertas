@@ -16,6 +16,7 @@ comparePrice: 329.0 EUR
 prodname: 'Cata TN 604 604-Placa Vitrocerámica Tn604 con 4 Zonas High Light  1200 W  Cerámico  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00JFQVA2W/?tag=tolees-21'
 descuento: '51.67'
 average: '156.275'

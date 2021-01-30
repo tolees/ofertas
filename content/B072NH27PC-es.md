@@ -16,6 +16,7 @@ comparePrice: 25 EUR
 prodname: 'Nike M Nk Short Hbr Sport Shorts  Hombre  Blanco  White/ Black   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072NH27PC/?tag=tolees-21'
 descuento: '28.04'
 average: '18.31'

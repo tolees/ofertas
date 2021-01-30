@@ -16,6 +16,7 @@ comparePrice: 198.69 EUR
 prodname: 'MAKITA DGA504Z Herramienta'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00S6OMGY0/?tag=tolees-21'
 descuento: '40.72'
 average: '117.79'

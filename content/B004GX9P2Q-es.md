@@ -16,6 +16,7 @@ comparePrice: 11.9 EUR
 prodname: 'Maybelline New York - Superstay 24H  Pintalabios Mate de Larga Duración  Tono 640 Nude Pink'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004GX9P2Q/?tag=tolees-21'
 descuento: '25.21'
 average: '8.9'

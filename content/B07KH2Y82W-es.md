@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Under Armour EU Cotton Fleece Jogger Pantalones  Niños  Negro  Black/White 002   XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KH2Y82W/?tag=tolees-21'
 descuento: '36.66'
 average: '22.17'

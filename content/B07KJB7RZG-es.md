@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Asmodee- Snow Time  ADE0LMSNO01 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KJB7RZG/?tag=tolees-21'
 descuento: '40.30'
 average: '15.11'

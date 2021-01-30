@@ -16,6 +16,7 @@ comparePrice: 134.28 EUR
 prodname: 'Pikolin Home - Edredón/Relleno nórdico de fibra DUO cuatro estaciones 150gr/m²+ 300gr/m²  antiácaros  240x220cm-Cama 150/160  Todas las medidas '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073RGPJZW/?tag=tolees-21'
 descuento: '49.37'
 average: '67.58999999999999'

@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Tatuer Pegatinas Album Fotos Bricolaje Esquinas Adhesivas para Fotos Plantilla Scrapbooking Manualidades Cintas Decorativas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QJ9VY9K/?tag=tolees-21'
 descuento: '30.02'
 average: '13.99'

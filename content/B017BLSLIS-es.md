@@ -16,6 +16,7 @@ comparePrice: 42.8 EUR
 prodname: 'Silverline 360375 - Polipasto de tracción resistente  3.500 kg '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B017BLSLIS/?tag=tolees-21'
 descuento: '28.32'
 average: '30.68'

@@ -16,6 +16,7 @@ comparePrice: 100.28 EUR
 prodname: 'New Balance X-90 h  Zapatillas para Hombre  Azul  Pigment/Limeade NV   44.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DFR61HW/?tag=tolees-21'
 descuento: '29.15'
 average: '71.05'

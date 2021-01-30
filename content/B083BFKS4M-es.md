@@ -16,6 +16,7 @@ comparePrice: 22.89 EUR
 prodname: 'Grsta Botella de Agua  Botella Agua Acero Inoxidable sin BPA 500ml/Rosa roja y Esmeralda Botellas de Frío/Caliente Termo Botellas Termica Prueba de Fugas para Niños  Adultos  Deporte  Yoga  Ciclismo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083BFKS4M/?tag=tolees-21'
 descuento: '34.64'
 average: '14.96'

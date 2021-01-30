@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Pepe Jeans Sloane PM210564 Pantalones  Marrón  Stone 836   33W / 32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076G9LYJV/?tag=tolees-21'
 descuento: '40.02'
 average: '38.99'

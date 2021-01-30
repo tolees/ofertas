@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'Oihxse Compatible con Huawei Honor V10 Lite/8X Funda Suave Gel TPU Silicona Cristal Transparente Carcasa Acuarela Animal Pintado Patrón Protectora Estuche Bumper Caso Case  B9 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086GVTT1L/?tag=tolees-21'
 descuento: '27.39'
 average: '7.98'

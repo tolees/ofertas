@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Pantalones de chándal para hombre  de la marca Lonsdale  hombre  Black - Black  Medium'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01EAP3IK4/?tag=tolees-21'
 descuento: '50.01'
 average: '17.99'

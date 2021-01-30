@@ -16,6 +16,7 @@ comparePrice: 11.88 EUR
 prodname: 'Hero Baby Trocitos Tarrito de Puré de Espaguetis con Ternera y Jamón Alimento para Bebés a partir de 12 meses Pack de 12 x 235 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MYN4FKC/?tag=tolees-21'
 descuento: '49.49'
 average: '6.0'

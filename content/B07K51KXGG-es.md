@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'adidas Handball Spezial  Sneaker Mens  Collegiate Navy/Clear Sky/Gum  40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K51KXGG/?tag=tolees-21'
 descuento: '37.02'
 average: '62.95'

@@ -16,6 +16,7 @@ comparePrice: 35.21 EUR
 prodname: 'Promini - Body para bebé con texto en inglés "My Aunt in California Loves Me"'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086QMJ9FF/?tag=tolees-21'
 descuento: '58.08'
 average: '14.76'

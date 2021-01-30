@@ -16,6 +16,7 @@ comparePrice: 399.0 EUR
 prodname: 'SUNLU Impresora 3D DIY FDM 310 x 310 x 400 mm  tamaño impreso   impresión rápida  impresión térmica  trabajo con PLA+  PLA  ABS  PETG  WOOD  TPU  fibra de carbono y más.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XNXLBRK/?tag=tolees-21'
 descuento: '37.35'
 average: '249.99'

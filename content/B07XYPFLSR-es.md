@@ -16,6 +16,7 @@ comparePrice: 1199.0 EUR
 prodname: 'Olympus OM-D E-M5 Mark III Micro Four Thirds carcasa de la cámara  sensor de 20 MP  estabilizador de imagen de 5 ejes  potente autofoco  visor electrónico OLED  vídeo 4K  WLAN  Bluetooth  negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XYPFLSR/?tag=tolees-21'
 descuento: '25.77'
 average: '889.99'

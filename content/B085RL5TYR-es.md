@@ -16,6 +16,7 @@ comparePrice: 26.16 EUR
 prodname: 'Libershine Cubierta De La Lactancia Del Bebé  Gran calidad 100% algodón Mantas de Lactancia  Manta para bebés niños Ducha delantal mantón de la bufanda'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085RL5TYR/?tag=tolees-21'
 descuento: '57.99'
 average: '10.99'

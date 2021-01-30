@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'DEIK Cuchillos Cocina  Juego de Cuchillos de Acero Inoxidable  Juego de Cuchillos de Cocina  6 Piezas  con Soporte de Madera Resistente a la Humedad  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073ZC4Q8M/?tag=tolees-21'
 descuento: '33.34'
 average: '39.656666666666666'

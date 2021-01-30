@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'Adidas Altasport K  Zapatillas de Entrenamiento Unisex Niños  Blanco  FTWR White/Grey Two F17   33.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K148XNH/?tag=tolees-21'
 descuento: '53.51'
 average: '16.25'

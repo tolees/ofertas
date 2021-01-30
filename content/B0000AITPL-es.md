@@ -16,6 +16,7 @@ comparePrice: 25.2 EUR
 prodname: 'Kärcher Filtro de agua  4.730-059.0 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0000AITPL/?tag=tolees-21'
 descuento: '32.78'
 average: '15.293333333333335'

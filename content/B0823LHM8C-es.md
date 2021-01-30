@@ -16,6 +16,7 @@ comparePrice: 9.92 EUR
 prodname: 'Botellas de carga de bolas de gel de 1 pieza con 10000 piezas de cuentas de plástico de 7-8 mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0823LHM8C/?tag=tolees-21'
 descuento: '50.00'
 average: '4.96'

@@ -16,6 +16,7 @@ comparePrice: 479.99 EUR
 prodname: 'Philips Serie 9000 Prestige SP9863/14 - Afeitadora eléctrica para hombre con bandeja de carga Qi  sensor de densidad de barba  3 modos  seco/húmedo  con perfilador de barba y funda premium  gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FSBHD5J/?tag=tolees-21'
 descuento: '25.00'
 average: '359.99'

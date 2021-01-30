@@ -16,6 +16,7 @@ comparePrice: 53.99 EUR
 prodname: 'Bestway Piscina familiar 54150 - Piscina inflable - 305 x 183 x 46 cm - Paredes laterales extra anchas - 3+'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TPRDC3T/?tag=tolees-21'
 descuento: '25.93'
 average: '39.99'

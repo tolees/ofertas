@@ -16,6 +16,7 @@ comparePrice: 18.22 EUR
 prodname: 'deAO Conjunto Aéreo de Juguete a Fricción 12 Figuras Coleccionables a Pequeña Escala Surtido de Aviones y Helicópteros Incluidos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P882MXP/?tag=tolees-21'
 descuento: '62.73'
 average: '9.89'

@@ -16,6 +16,7 @@ comparePrice: 99.87 EUR
 prodname: 'Pendientes  J.Rosée Pendiente Mujer Perla de Agua Dulce Original Plata de Ley 925 Regalos Originales Regalos de graduación'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075GN1X8H/?tag=tolees-21'
 descuento: '86.99'
 average: '33.96'

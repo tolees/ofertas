@@ -16,6 +16,7 @@ comparePrice: 65.39 EUR
 prodname: 'Jimmy Choo L Eau Perfume - 60 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NAZ2VVB/?tag=tolees-21'
 descuento: '54.18'
 average: '31.165000000000003'

@@ -16,6 +16,7 @@ comparePrice: 119.95 EUR
 prodname: 'PUMA Cell Venom Hypertech Wn s  Zapatillas para Mujer  Black  38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KFYN6G6/?tag=tolees-21'
 descuento: '65.13'
 average: '41.83'

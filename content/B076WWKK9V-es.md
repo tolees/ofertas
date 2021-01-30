@@ -16,6 +16,7 @@ comparePrice: 34.39 EUR
 prodname: 'SEKONDA Reloj de Pulsera 1521E.05'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076WWKK9V/?tag=tolees-21'
 descuento: '31.90'
 average: '31.708333333333332'

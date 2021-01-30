@@ -16,6 +16,7 @@ comparePrice: 24.39 EUR
 prodname: 'DC Shoes Snapdripp - Gorra con Ajuste Posterior a Presión - Hombre - One Size'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083F87QZG/?tag=tolees-21'
 descuento: '36.45'
 average: '17.095000000000002'

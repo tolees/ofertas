@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'PUTUO Calcetines de Dedos Mujer Calcetines Cinco Dedos de Deporte  Mujer Calcetines del Dedo del Pie  Calcetines de Algodón  suave y transpirable  4/5 pares'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JGN9SML/?tag=tolees-21'
 descuento: '43.35'
 average: '17.32333333333333'

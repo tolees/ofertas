@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'PUMA Ralph Sampson LO  Zapatillas Deportivas Unisex Adulto  Schwarz Black White White  44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KG6Z71S/?tag=tolees-21'
 descuento: '49.92'
 average: '38.2'

@@ -16,6 +16,7 @@ comparePrice: 16.65 EUR
 prodname: 'Ayotu Estuche de Colores para Kindle Paperwhite-Se Adapta a Todas Las Generaciones de Paperwhite anteriores a 2018 No se Ajusta a la 10ª generación de Paperwhite  K5-09 The Boy and Fox'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075RS4DV2/?tag=tolees-21'
 descuento: '27.99'
 average: '13.643333333333333'

@@ -16,6 +16,7 @@ comparePrice: 37.11 EUR
 prodname: 'Luchild Almohada para lactancia Almohada multifuncional para lactancia con reposacabezas desmontable Cubierta extraíble Soporte para la cabeza del bebé Almohada para lactancia - Punto'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YDBMLC4/?tag=tolees-21'
 descuento: '35.35'
 average: '23.99'

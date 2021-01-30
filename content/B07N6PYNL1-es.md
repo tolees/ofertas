@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Tommy Hilfiger Downtown Seasonal Belt 3.5 Cinturón   Black Bds   120  Talla del fabricante: 105.0  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N6PYNL1/?tag=tolees-21'
 descuento: '56.59'
 average: '21.66'

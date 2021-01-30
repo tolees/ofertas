@@ -16,6 +16,7 @@ comparePrice: 160.0 EUR
 prodname: 'Nixon Reloj Analógico para Unisex Adultos de Cuarzo con Correa en Acero Inoxidable A1057-010-00'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B4JGFVX/?tag=tolees-21'
 descuento: '40.83'
 average: '94.68'

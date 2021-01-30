@@ -16,6 +16,7 @@ comparePrice: 74.9 EUR
 prodname: 'Bosch TDA5024010 Sensixx x DA50 Plancha de vapor  2400 W  5.5 bares de presión  color morado y blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00D3J4Q4G/?tag=tolees-21'
 descuento: '46.61'
 average: '40.45333333333333'

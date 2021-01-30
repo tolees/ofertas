@@ -16,6 +16,7 @@ comparePrice: 29 EUR
 prodname: 'find. PHRM3300 Suéter  Morado  Lilac   42  Talla del Fabricante: Large '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077HP46JT/?tag=tolees-21'
 descuento: '70.00'
 average: '8.7'

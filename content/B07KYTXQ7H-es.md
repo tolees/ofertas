@@ -16,6 +16,7 @@ comparePrice: 19.91 EUR
 prodname: 'AmazonBasics - Juego de fundas de edredón y almohada de microfibra premium  135 x 200 cm / 80 x 80 cm   rojo rumba acuarela'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KYTXQ7H/?tag=tolees-21'
 descuento: '56.50'
 average: '8.66'

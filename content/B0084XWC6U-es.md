@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Yamaha YWA-10 - Adaptador USB para red Wi-Fi  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0084XWC6U/?tag=tolees-21'
 descuento: '49.62'
 average: '52.39'

@@ -16,6 +16,7 @@ comparePrice: 23.9 EUR
 prodname: 'Disfraz de Can Can Madcap para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N9JY9HQ/?tag=tolees-21'
 descuento: '43.64'
 average: '13.47'

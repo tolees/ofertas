@@ -16,6 +16,7 @@ comparePrice: 43.5 EUR
 prodname: 'Brabantia NewIcon Cubo de Basura con Pedal  Acero Inoxidable  Blanco  12 l'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LWPI8G1/?tag=tolees-21'
 descuento: '34.32'
 average: '28.57'

@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Toozey Juguetes para Gatos 24 Piezas Juguetes para Gatitos para Gatos  Juego Interactivo de Juguetes para Ratones para Gatos con Bolsa de Almacenamiento'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083BQLSM9/?tag=tolees-21'
 descuento: '40.02'
 average: '14.99'

@@ -16,6 +16,7 @@ comparePrice: 6.07 EUR
 prodname: 'Fifet Papel Mano de Scrapbooking Herramienta de Papel relevadoras x 2  para la Carpeta Plegable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087G6W9YQ/?tag=tolees-21'
 descuento: '44.15'
 average: '3.39'

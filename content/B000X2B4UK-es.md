@@ -16,6 +16,7 @@ comparePrice: 40.95 EUR
 prodname: 'Stanley 1-56-001 Maza de albañil Antivibración 1360g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000X2B4UK/?tag=tolees-21'
 descuento: '30.87'
 average: '28.31'

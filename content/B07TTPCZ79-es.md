@@ -16,6 +16,7 @@ comparePrice: 29.0 EUR
 prodname: 'Kipling KiplingDrawpackMujerBolsos totesMulticolor  Camo Map  39x43x1 Centimeters  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TTPCZ79/?tag=tolees-21'
 descuento: '49.10'
 average: '14.815'

@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'AUNA MG-TT-82B - estéreo  Tocadiscos  accionamiento por Correa  máx. 45 RPM  Altavoces estéreo  diseño de los años 50  Play/Stop automático  sintonizador de Radio  Receptor de FM  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00LPDSVIO/?tag=tolees-21'
 descuento: '45.00'
 average: '54.99'

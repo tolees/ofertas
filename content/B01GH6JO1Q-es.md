@@ -16,6 +16,7 @@ comparePrice: 15.9 EUR
 prodname: 'Jata Ex296 Exprimidor Eléctrico Exprimidor Sencillo De Máxima Eficacia Rotación Bidireccional Depósito Con Asa Base Antideslizante Capacidad 800 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GH6JO1Q/?tag=tolees-21'
 descuento: '30.94'
 average: '12.25'

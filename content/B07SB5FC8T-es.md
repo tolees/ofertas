@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'HCFKJ 2.4G Ratón Inalámbrico Recargable  Silencioso Infame Ratón óptico Silencioso Click Mini  Ultra Delgado 1600 dpi para Computadora Portátil  PC  Portátil  Computadora  9.5X4.5X13.5CM  Plata '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SB5FC8T/?tag=tolees-21'
 descuento: '76.30'
 average: '21.33'

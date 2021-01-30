@@ -16,6 +16,7 @@ comparePrice: 1637.13 EUR
 prodname: 'Bosch Professional GSH 16-30 - Martillo demoledor  41 J  Hex 30 mm  Vibration Control  en maletín con ruedas '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000R27EKK/?tag=tolees-21'
 descuento: '37.28'
 average: '1026.75'

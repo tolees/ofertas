@@ -16,6 +16,7 @@ comparePrice: 7.66 EUR
 prodname: 'YuamMei 5 rollos de cinta de encaje hueca para manualidades DIY papel adhesivo de carrocería decorativo para scrapbooking y teléfono  color al azar  patrón '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GJFBMJS/?tag=tolees-21'
 descuento: '60.97'
 average: '2.99'

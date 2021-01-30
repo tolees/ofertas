@@ -16,6 +16,7 @@ comparePrice: 33.42 EUR
 prodname: 'FISCHER 052389 - Taco autoperforante GK  Envase de 100 ud. '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0002YYRNU/?tag=tolees-21'
 descuento: '29.05'
 average: '22.96'

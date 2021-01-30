@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'Bourjois - 123 Perfect CC Cream  crema correctora con color  tono light beige'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00HAFT86K/?tag=tolees-21'
 descuento: '40.70'
 average: '6.15'

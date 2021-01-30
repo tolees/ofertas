@@ -16,6 +16,7 @@ comparePrice: 12.0 EUR
 prodname: 'Under Armour UA Heatgear Crew Calcetines  Unisex  Blanco  XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QVMXLK7/?tag=tolees-21'
 descuento: '26.75'
 average: '8.79'

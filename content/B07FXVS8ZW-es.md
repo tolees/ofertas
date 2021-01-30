@@ -16,6 +16,7 @@ comparePrice: 272.99 EUR
 prodname: 'Brother HL-L3270CDW - Impresora láser color  Wifi  USB 2.0  256 MB  800 MHz  24 ppm  430 W  blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FXVS8ZW/?tag=tolees-21'
 descuento: '38.09'
 average: '177.17333333333332'

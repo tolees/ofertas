@@ -16,6 +16,7 @@ comparePrice: 130.0 EUR
 prodname: 'Kyocera 1T02LZ0NL0 - Tóner TK 170/FS1320/1370  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003KYMU6K/?tag=tolees-21'
 descuento: '44.23'
 average: '72.5'

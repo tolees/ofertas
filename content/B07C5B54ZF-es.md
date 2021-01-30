@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Flamenco Sala'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C5B54ZF/?tag=tolees-21'
 descuento: '60.00'
 average: '25.98'

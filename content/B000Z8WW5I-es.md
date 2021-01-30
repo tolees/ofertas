@@ -16,6 +16,7 @@ comparePrice: 68.45 EUR
 prodname: 'Solgar Fórmula Antioxidante Avanzada  Protege a las Células Contra el Daño Oxidativo Diario  120 cápsulas Vegetales'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000Z8WW5I/?tag=tolees-21'
 descuento: '52.81'
 average: '32.3'

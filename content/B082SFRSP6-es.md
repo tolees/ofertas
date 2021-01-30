@@ -16,6 +16,7 @@ comparePrice: 14.88 EUR
 prodname: 'Auriculares inalámbricos Bluetooth Micrófono con cancelación de Ruido Estéreo Deportivo Real con Estuche Power Bank para Todos Teléfono móvil Samsung Teléfono Inteligente LG Laptop MP4  Blanca '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082SFRSP6/?tag=tolees-21'
 descuento: '26.88'
 average: '10.88'

@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Skechers Women s Solar Fuse-Brisk Escape Trainers  Grey  Gray Knit Mesh/Black  Pink & Mint Trim Gymt   6.5  39.5 EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NW9MTBX/?tag=tolees-21'
 descuento: '31.54'
 average: '40.762499999999996'

@@ -16,6 +16,7 @@ comparePrice: 185.87 EUR
 prodname: 'MSI MPG Z390 GAMING PRO CARBON AC - Placa base Performance  LGA 1151  3 x PCI-E x16  Core Boost  M.2 SHIELD FROZR  5 x USB 3.1 Gen2  Wireless-AC 9560  Audio Boost 4 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HS4HC17/?tag=tolees-21'
 descuento: '28.32'
 average: '166.61'

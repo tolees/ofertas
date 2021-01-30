@@ -16,6 +16,7 @@ comparePrice: 6.95 EUR
 prodname: 'LAST LEVEL- Keychain Llavero Pop Toy Story 4 BO Beep  Color Mulitcolor  Funko 1 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PJVGRPL/?tag=tolees-21'
 descuento: '43.31'
 average: '4.2275'

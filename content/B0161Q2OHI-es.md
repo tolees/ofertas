@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Beurer BC57 - Tensiómetro de muñeca  función Bluetooth  medición automática  detección arritmia  2 x 60 mediciones  aplicación Health Manager  blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0161Q2OHI/?tag=tolees-21'
 descuento: '32.22'
 average: '42.13285714285715'

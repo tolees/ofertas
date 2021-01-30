@@ -16,6 +16,7 @@ comparePrice: 79.9 EUR
 prodname: 'Pepe Jeans Jimy suéter   Grey Marl 933   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZQG3QC/?tag=tolees-21'
 descuento: '59.95'
 average: '32.0'

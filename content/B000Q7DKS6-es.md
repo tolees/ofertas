@@ -16,6 +16,7 @@ comparePrice: 56.9 EUR
 prodname: 'Beurer MG70 - Masajeador  22 W  presión por golpeteo para relajación  color plateado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000Q7DKS6/?tag=tolees-21'
 descuento: '47.29'
 average: '35.99'

@@ -16,6 +16,7 @@ comparePrice: 144.0 EUR
 prodname: 'Saucony Xodus ISO 3  Zapatillas de Trail Running para Hombre   Gris Y Negro 3   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FFLRFWR/?tag=tolees-21'
 descuento: '34.03'
 average: '95.49'

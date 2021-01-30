@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Targus 360 Perimeter - Funda para tabletas de 14"  Color Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XJHYHRY/?tag=tolees-21'
 descuento: '64.03'
 average: '8.99'

@@ -16,6 +16,7 @@ comparePrice: 13.71 EUR
 prodname: 'Adaptador de enchufe macho RCA a terminal AV hembra de 2 tornillos para altavoz  adaptador de CC balun de tipo pinza para audio y vídeo y conector de potencia para CCTV RCA Male To AV 2 Screw Female'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B9PGMBR/?tag=tolees-21'
 descuento: '41.72'
 average: '7.99'

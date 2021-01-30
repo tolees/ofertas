@@ -16,6 +16,7 @@ comparePrice: 30.57 EUR
 prodname: 'Gillette venus breeze - Cuchillas de recambio para maquinilla de afeitar  el embalaje puede variar  - paquete de 8 unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00159JVVO/?tag=tolees-21'
 descuento: '28.07'
 average: '22.536666666666665'

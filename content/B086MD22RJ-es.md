@@ -16,6 +16,7 @@ comparePrice: 20.98 EUR
 prodname: '20 máscara de uso civil desechable 3 capas de máscara protectora ordinaria Ventilación segura'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086MD22RJ/?tag=tolees-21'
 descuento: '31.27'
 average: '14.42'

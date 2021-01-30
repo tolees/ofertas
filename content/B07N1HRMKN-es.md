@@ -16,6 +16,7 @@ comparePrice: 139 EUR
 prodname: 'Kipling ART ON WHEELS M - Maleta  41 liters  Negro  BLACK INDIGO '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N1HRMKN/?tag=tolees-21'
 descuento: '52.90'
 average: '65.47'

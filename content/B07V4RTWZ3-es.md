@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Tommy Hilfiger - Honey Lrg Ew  Carteras Mujer  Negro  Black   1x1x1 cm  W x H L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V4RTWZ3/?tag=tolees-21'
 descuento: '50.00'
 average: '29.95'

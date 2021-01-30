@@ -16,6 +16,7 @@ comparePrice: 50.4 EUR
 prodname: 'Imetec Bellissima PC5 2500 Secador de pelo profesional  2000 W  revestimiento de cerámica y turmalina  tecnología de iones  8 combinaciones de aire y temperatura  boquilla estrecha  difusor incluido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00CTLDY4W/?tag=tolees-21'
 descuento: '28.59'
 average: '35.99'

@@ -16,6 +16,7 @@ comparePrice: 4.99 EUR
 prodname: 'MaNMaNing Protección 3 Capas Transpirables con Elástico para Los Oídos Pack 20 unidades Adulto 20200710-MANING-SZ20  Rosado '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CRJCGTF/?tag=tolees-21'
 descuento: '40.08'
 average: '2.99'

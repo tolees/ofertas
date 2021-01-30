@@ -16,6 +16,7 @@ comparePrice: 10.0 EUR
 prodname: 'Caja 50 Desechables Adultos 3 Pliegues CE FDA 175x95 mm Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088KNXFGT/?tag=tolees-21'
 descuento: '50.10'
 average: '4.99'

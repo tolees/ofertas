@@ -16,6 +16,7 @@ comparePrice: 5.49 EUR
 prodname: 'Gum Cepillo de Dientes  40 unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001V1RDXO/?tag=tolees-21'
 descuento: '35.34'
 average: '3.55'

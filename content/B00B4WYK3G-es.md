@@ -16,6 +16,7 @@ comparePrice: 8.67 EUR
 prodname: 'Viñas  Tratamiento para pestañas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00B4WYK3G/?tag=tolees-21'
 descuento: '28.49'
 average: '6.2'

@@ -16,6 +16,7 @@ comparePrice: 16.6 EUR
 prodname: 'Gel de Ducha Avena - Instituto Español - Pack 5 uds 1250 ML'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06Y657ZRG/?tag=tolees-21'
 descuento: '42.77'
 average: '10.083333333333334'

@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Beko - TAM4201B – Tostador para 2 rebanadas  850W potencia  color negro. Función descongelar  calentar y cancelar tostado. 7 Niveles de tostado. Botón expulsar tostada'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KKTL5GV/?tag=tolees-21'
 descuento: '32.58'
 average: '15.776666666666666'

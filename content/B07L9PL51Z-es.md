@@ -16,6 +16,7 @@ comparePrice: 79.0 EUR
 prodname: 'Napapijri Elbas 2 LS Polo  Gris  Volcano H74   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L9PL51Z/?tag=tolees-21'
 descuento: '68.54'
 average: '24.85'

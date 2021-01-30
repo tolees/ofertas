@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Ultimate Ears Megaboom Altavoz Portátil Inalámbrico Bluetooth  Graves Profundos  Impermeable  Flotante  Conexión Múltiple  Batería de 20 h - Gris Oscuro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R3JBYMH/?tag=tolees-21'
 descuento: '38.20'
 average: '111.99'

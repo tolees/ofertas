@@ -16,6 +16,7 @@ comparePrice: 110.7 EUR
 prodname: 'Love MoschinoJc4054pp1aMujerBolsos bandoleraRosa5x13x20 centimeters  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S5CDJKM/?tag=tolees-21'
 descuento: '38.17'
 average: '68.45'

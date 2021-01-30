@@ -16,6 +16,7 @@ comparePrice: 48.99 EUR
 prodname: 'MRCOOL Lámpara de Noche con Altavoz Bluetooth  Lámpara de Tabla LED Luz Nocturna con Cambio de Color  Regalos para Mujeres Hombres Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075RXN74D/?tag=tolees-21'
 descuento: '48.99'
 average: '24.99'

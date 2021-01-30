@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'BAMOER   Plata de ley  925/1000 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01COUVYRQ/?tag=tolees-21'
 descuento: '50.53'
 average: '13.445'

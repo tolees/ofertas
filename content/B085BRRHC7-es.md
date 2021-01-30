@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Luz Solar Exterior 210LED  AOPAWA [Actualizada 2000 Lúmenes] Foco Solar con Sensor de Movimiento Lámpara Solar Exterior Impermeable Gran Ángulo 270º de Iluminación Luces Solares Jardín 2-Paquete'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085BRRHC7/?tag=tolees-21'
 descuento: '56.76'
 average: '22.48'

@@ -16,6 +16,7 @@ comparePrice: 26.95 EUR
 prodname: 'Panasonic KX-TGC210 - Teléfono Fijo Inalámbrico Digital  LCD 1.6"  DECT  Agenda  Alarma  Bloque Llamadas  Intercomunicador entre unidades  Color Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JKGMYK8/?tag=tolees-21'
 descuento: '29.54'
 average: '18.99'

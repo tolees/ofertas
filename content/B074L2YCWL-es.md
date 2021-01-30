@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'SELECTED HOMME Shhoneluca St Pants Noos Pantalones  Azul  Vintage Indigo   W29/L32  Talla del Fabricante: 29  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074L2YCWL/?tag=tolees-21'
 descuento: '90.25'
 average: '5.85'

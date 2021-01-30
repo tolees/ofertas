@@ -16,6 +16,7 @@ comparePrice: 15.0 EUR
 prodname: 'BOSSTER Pegatinas de Vinilo 35 Unidades Hombre Araña Paquete de Pegatinas para Portátiles Automóviles Motocicletas Bicicletas Monopatines Etiquetas de Parachoques'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WYYB37H/?tag=tolees-21'
 descuento: '46.73'
 average: '7.99'

@@ -16,6 +16,7 @@ comparePrice: 175.99 EUR
 prodname: 'CRAPHY Kit de Iluminación para Fotografía: 3X Ventana de Luz  3X Fondos de Tela Algodón  1x Soporte de Fondo  12x Bombilla 45W  2X Trípode de Luz  1x Soporte Jirafa  2X Bolsa Portátil'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01L13ERLC/?tag=tolees-21'
 descuento: '26.14'
 average: '129.99'

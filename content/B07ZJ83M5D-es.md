@@ -16,6 +16,7 @@ comparePrice: 9.25 EUR
 prodname: 'JK-2 Escena de la habitación del bebé Decoración Colgante Adorno Decoración del hogar-Nube Linda y Gota de Lluvia Decoración Colgante 3D Stereo Cloud'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZJ83M5D/?tag=tolees-21'
 descuento: '53.51'
 average: '4.3'

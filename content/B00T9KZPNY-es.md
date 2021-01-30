@@ -16,6 +16,7 @@ comparePrice: 15.73 EUR
 prodname: 'NUK Botella de 360 ml de silicona Chupete Tamaño 2 M Drilling'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00T9KZPNY/?tag=tolees-21'
 descuento: '31.85'
 average: '11.440000000000001'

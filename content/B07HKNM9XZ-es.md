@@ -16,6 +16,7 @@ comparePrice: 56.59 EUR
 prodname: 'Under Armour UA W Aura Trainer  Zapatillas Deportivas para Interior para Mujer  Negro  Black/White/White  002  002   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HKNM9XZ/?tag=tolees-21'
 descuento: '31.14'
 average: '38.97'

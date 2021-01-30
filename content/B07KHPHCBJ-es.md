@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'Under Armour Blitzing II - Gorra   Hombre  Azul  Midnight Navy/White 417  XL/XXL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KHPHCBJ/?tag=tolees-21'
 descuento: '47.55'
 average: '10.513333333333334'

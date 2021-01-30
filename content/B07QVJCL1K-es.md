@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Zerodis- Molino de Viento de Flores  Bricolaje Arco Iris Colorido Rueda Triple Molino de Viento Multicolor Molinete de Viento Molinete Impermeable Adornos para niños Juguete Fiesta en el jardín Patio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QVJCL1K/?tag=tolees-21'
 descuento: '41.57'
 average: '7.59'

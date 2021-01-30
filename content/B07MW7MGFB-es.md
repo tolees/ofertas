@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'Marvel Capitán Marvel - Vaso cambiador de frío  protector de los cielos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MW7MGFB/?tag=tolees-21'
 descuento: '54.50'
 average: '5'

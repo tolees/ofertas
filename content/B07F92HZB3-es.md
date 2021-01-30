@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Maleta de cabina Pepe Jeans Olaia rosa rígida 55cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F92HZB3/?tag=tolees-21'
 descuento: '27.27'
 average: '80.0'

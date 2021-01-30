@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Kipling Women s KI4219  3 x Wallet Grey Grey  NIGHT GREY BL N85 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MVH896N/?tag=tolees-21'
 descuento: '40.02'
 average: '24.744999999999997'

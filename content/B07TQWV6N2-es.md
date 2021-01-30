@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Clarks Triamelia Edge  Zapatillas para Mujer  Beige  Black Leather Black Leather   35.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TQWV6N2/?tag=tolees-21'
 descuento: '76.41'
 average: '25.9'

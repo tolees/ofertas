@@ -16,6 +16,7 @@ comparePrice: 6.49 EUR
 prodname: 'Smiffys-44226 Kit de Maquillaje para el día de los Muertos  con Pinturas para la Cara  Tatuaje  Multicolor  No es Applicable  Smiffy S 44226 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00SFZWIKW/?tag=tolees-21'
 descuento: '91.83'
 average: '2.685'

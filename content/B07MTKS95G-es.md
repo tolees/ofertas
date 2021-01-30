@@ -16,6 +16,7 @@ comparePrice: 20.95 EUR
 prodname: 'Paw Patrol Impermeable para niños La Patrulla Canina Azul 5-6 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MTKS95G/?tag=tolees-21'
 descuento: '38.19'
 average: '12.95'

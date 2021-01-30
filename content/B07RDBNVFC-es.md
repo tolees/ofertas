@@ -16,6 +16,7 @@ comparePrice: 83.3 EUR
 prodname: 'Tacklife SWS2A - Juego de llaves de vaso  88 piezas  12 cantos  72 dientes  con adaptador cuadrado de 1/4" y 3/8"  CR-V  cianobacteria   color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RDBNVFC/?tag=tolees-21'
 descuento: '59.47'
 average: '33.76'

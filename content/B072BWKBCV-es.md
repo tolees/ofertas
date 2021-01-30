@@ -16,6 +16,7 @@ comparePrice: 23.0 EUR
 prodname: 'Under Armour Men s Blitzing 3.0 Cap Gorra  Hombre  Azul  Royal/Royal/Black 400   M/L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072BWKBCV/?tag=tolees-21'
 descuento: '33.52'
 average: '13.64'

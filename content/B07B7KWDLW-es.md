@@ -16,6 +16,7 @@ comparePrice: 16.98 EUR
 prodname: 'TOUCHBeauty TB-1059 - Pinzas LED de precisión para cejas con espejo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B7KWDLW/?tag=tolees-21'
 descuento: '35.34'
 average: '10.98'

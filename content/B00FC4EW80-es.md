@@ -16,6 +16,7 @@ comparePrice: 36.3 EUR
 prodname: 'Contour XT  Glucómetro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00FC4EW80/?tag=tolees-21'
 descuento: '55.92'
 average: '20.494999999999997'

@@ -16,6 +16,7 @@ comparePrice: 6.9 EUR
 prodname: 'Thermaltake Pure 12 LED DC - Ventilador  Transparente y Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KESSHGC/?tag=tolees-21'
 descuento: '34.78'
 average: '4.5'

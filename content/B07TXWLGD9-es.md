@@ -16,6 +16,7 @@ comparePrice: 79.0 EUR
 prodname: 'Kipling KiplingKiryasMujerMochilasGris  Dark Carbon Y  32.5x44x12.5 Centimeters  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TXWLGD9/?tag=tolees-21'
 descuento: '72.59'
 average: '21.65'

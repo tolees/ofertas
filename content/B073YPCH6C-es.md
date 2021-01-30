@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Lámpara de noche decorativa Crescent Neon Moon-Nursery Night-Gift Decoración de pared para fiesta de cumpleaños  habitación de niños  sala de estar  blanco cálido '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073YPCH6C/?tag=tolees-21'
 descuento: '25.01'
 average: '14.99'

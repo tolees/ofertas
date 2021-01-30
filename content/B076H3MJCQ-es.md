@@ -16,6 +16,7 @@ comparePrice: 25.45 EUR
 prodname: '4pcs 70�x 51�mm al aire libre deporte monopat�n skateboard Cruiser de cojinete de rueda de skate board Longboard Eje  negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076H3MJCQ/?tag=tolees-21'
 descuento: '37.52'
 average: '15.9'

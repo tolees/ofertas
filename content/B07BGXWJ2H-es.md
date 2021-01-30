@@ -16,6 +16,7 @@ comparePrice: 58.99 EUR
 prodname: 'Mochilas Antirrobo Ordenador 15.6 Pulgadas Adolescentes Escolares Computadora Portátil Impermeable con Puerto de Carga USB para Viajar  Escuela  Estudiantes  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BGXWJ2H/?tag=tolees-21'
 descuento: '37.29'
 average: '36.99'

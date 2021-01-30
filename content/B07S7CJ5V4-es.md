@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'adidas Cushioned Crew Calcetines Largo Clásico  Unisex Adulto  Blanco  White/Black   XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S7CJ5V4/?tag=tolees-21'
 descuento: '33.69'
 average: '8.75'

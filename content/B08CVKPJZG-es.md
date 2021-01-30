@@ -16,6 +16,7 @@ comparePrice: 6.83 EUR
 prodname: 'Panamar Tamaño Compacto 65MM 32 Piezas de ajedrez Medievales / Plastic Complete Chessmen International Word Chess Game Entertainment - Blanco y Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CVKPJZG/?tag=tolees-21'
 descuento: '33.53'
 average: '4.54'

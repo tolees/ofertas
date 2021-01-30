@@ -16,6 +16,7 @@ comparePrice: 15.42 EUR
 prodname: 'Notting Hill [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0053C8KYS/?tag=tolees-21'
 descuento: '52.92'
 average: '7.26'

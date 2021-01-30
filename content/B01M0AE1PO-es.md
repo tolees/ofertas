@@ -16,6 +16,7 @@ comparePrice: 2.14 EUR
 prodname: 'LITORAL Fabada Asturiana Plato Preparado de Fabada Asturiana Sin Gluten - 435 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M0AE1PO/?tag=tolees-21'
 descuento: '53.27'
 average: '1.15'

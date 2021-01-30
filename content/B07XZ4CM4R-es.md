@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Bolsa de Dulces de Dinosaurio，KATOOM，24pcs，Bolsa de Regalo de Papel，Pegatina Dinosaurio Decoración de Día Carnaval  las Fallas Cumpleaños para Niños Baby Shower  Pasteles de Almacenamiento Pasteles'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XZ4CM4R/?tag=tolees-21'
 descuento: '47.71'
 average: '13.59'

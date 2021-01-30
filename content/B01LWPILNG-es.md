@@ -16,6 +16,7 @@ comparePrice: 2.48 EUR
 prodname: 'Gourmet Extra Lenteja - 1 Kg'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LWPILNG/?tag=tolees-21'
 descuento: '59.68'
 average: '1.0'

@@ -16,6 +16,7 @@ comparePrice: 43.0 EUR
 prodname: 'Manta Dragón Bebe Personalizada con Nombre. Regalo Bebé Recién Nacido. Tejido Polar. Varios Diseños a Elegir. Dragón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WGGZ5TH/?tag=tolees-21'
 descuento: '30.35'
 average: '29.95'

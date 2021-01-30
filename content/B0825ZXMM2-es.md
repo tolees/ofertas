@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'Nniter - Funda ultrafina para iPhone 6/6S  de silicona TPU y policarbonato  2 en 1  con soporte para anillo de 360 ° iphone 6/6S Negro y plateado.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0825ZXMM2/?tag=tolees-21'
 descuento: '41.38'
 average: '12.89'

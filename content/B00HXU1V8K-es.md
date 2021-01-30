@@ -16,6 +16,7 @@ comparePrice: 78.2 EUR
 prodname: 'Modern Muse by Estee Lauder Eau de Parfum Spray 50ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00HXU1V8K/?tag=tolees-21'
 descuento: '44.69'
 average: '43.25'

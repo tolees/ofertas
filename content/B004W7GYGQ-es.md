@@ -16,6 +16,7 @@ comparePrice: 7.02 EUR
 prodname: 'Duracell Plus Power 6LR61/MN1604  Batería alcalina  Transistor  9V'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004W7GYGQ/?tag=tolees-21'
 descuento: '46.58'
 average: '3.2133333333333334'

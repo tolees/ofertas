@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'VGBEY Pelota de Futbol  Fútbol clásico Talla 4 para Entrenamiento Balón de fútbol con válvula'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QB1DZMQ/?tag=tolees-21'
 descuento: '34.09'
 average: '17.79'

@@ -16,6 +16,7 @@ comparePrice: 14.7 EUR
 prodname: 'Teeth Whitening Powder  carbón activo natural  blanqueamiento dental en polvo  2 01 oz'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H1BPX5V/?tag=tolees-21'
 descuento: '78.64'
 average: '3.14'

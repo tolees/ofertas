@@ -16,6 +16,7 @@ comparePrice: 3.49 EUR
 prodname: 'Old Spice Original Desodorante En Barra Para Hombres 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LWVUM5V/?tag=tolees-21'
 descuento: '71.35'
 average: '1.0'

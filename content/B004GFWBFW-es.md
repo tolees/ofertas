@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'POP! Vinilo - Horror: Michael Myers'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004GFWBFW/?tag=tolees-21'
 descuento: '44.96'
 average: '8.277777777777779'

@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'BAUSCH + LOMB - Biotrue® ONEday - Lentes de contacto'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00EALB9EG/?tag=tolees-21'
 descuento: '51.20'
 average: '14.59'

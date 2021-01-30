@@ -16,6 +16,7 @@ comparePrice: 53.0 EUR
 prodname: 'Tuc Tuc 05789 - Trona'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076H8BXPQ/?tag=tolees-21'
 descuento: '31.89'
 average: '36.1'

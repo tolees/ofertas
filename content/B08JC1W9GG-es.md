@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Decdeal Cama de Gato Donut Cama Redonda Felpa para Perros Cómodo Suave Segura Lavable a Máquina Duradera para Mascotas Cachorros Gatitos Tamaño 40cm 50cm 60cm 70cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08JC1W9GG/?tag=tolees-21'
 descuento: '41.20'
 average: '14.656666666666665'

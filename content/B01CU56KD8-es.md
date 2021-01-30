@@ -16,6 +16,7 @@ comparePrice: 29.5 EUR
 prodname: 'Fleur Paint 13247 - Pintura  transforma superficies en pizarra  750 ml  color smoky'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CU56KD8/?tag=tolees-21'
 descuento: '26.64'
 average: '21.64'

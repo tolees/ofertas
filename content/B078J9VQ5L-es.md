@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'StillCool Universal Tablet para iPad Soporte de la Cama Soporte Marco Ángulo de intersección Ajuste fácil para iPad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078J9VQ5L/?tag=tolees-21'
 descuento: '30.78'
 average: '16.99'

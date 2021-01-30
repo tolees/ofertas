@@ -16,6 +16,7 @@ comparePrice: 169.95 EUR
 prodname: 'Desigual Abrig Collin  Mujer    Negro 2000  40  Talla del fabricante: 42 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079SGLSBD/?tag=tolees-21'
 descuento: '73.89'
 average: '47.843333333333334'

@@ -16,6 +16,7 @@ comparePrice: 37.2 EUR
 prodname: 'Sweetmini Pantalones deportivos para hombre con cordón de color en contraste con bolsillo Gris gris oscuro XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0891VF9TW/?tag=tolees-21'
 descuento: '54.46'
 average: '16.94'

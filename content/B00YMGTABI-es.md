@@ -16,6 +16,7 @@ comparePrice: 349.0 EUR
 prodname: 'TW Steel Reloj de Pulsera CS33'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00YMGTABI/?tag=tolees-21'
 descuento: '40.24'
 average: '208.55'

@@ -16,6 +16,7 @@ comparePrice: 39.0 EUR
 prodname: 'JANABEBE Funda para Coche Stokke Xplori y Stokke Crusi  BLUE SPARKLES '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077ZXFD14/?tag=tolees-21'
 descuento: '38.46'
 average: '24.0'

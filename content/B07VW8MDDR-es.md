@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Bugatti 321720016950  Zapatillas para Hombre  Azul  Dark Blue/Cognac 4163   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VW8MDDR/?tag=tolees-21'
 descuento: '73.43'
 average: '17.32'

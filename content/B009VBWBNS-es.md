@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Superga 2750 Cotu Classic  Zapatillas Unisex  Verde  C60 Pastel Green   36 EU  3.5 UK '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B009VBWBNS/?tag=tolees-21'
 descuento: '57.17'
 average: '25.27'

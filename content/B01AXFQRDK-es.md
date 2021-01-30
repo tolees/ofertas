@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'MLG Tools Trampas para Ratón  Paquete de 6 Trampas Cargado de Resortes para Matar Ratones  Trampas Rápidas y Reutilizables'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01AXFQRDK/?tag=tolees-21'
 descuento: '41.20'
 average: '9.99'

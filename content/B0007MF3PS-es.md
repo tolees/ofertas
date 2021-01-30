@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'Converse Chuck Taylor Ct A/S Seasnl Hi Zapatillas Altas Unisex  Gris  Charcoal   46.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0007MF3PS/?tag=tolees-21'
 descuento: '25.79'
 average: '51.95'

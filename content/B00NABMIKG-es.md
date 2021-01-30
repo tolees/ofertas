@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Beurer MG147 - Almohada de Masaje Shiatsu  con función calor  color marrón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NABMIKG/?tag=tolees-21'
 descuento: '36.58'
 average: '39.99'

@@ -16,6 +16,7 @@ comparePrice: 129.95 EUR
 prodname: 'Cluse Reloj Analógico para Mujer de Cuarzo con Correa en Cuero CL40106'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XMYVR1R/?tag=tolees-21'
 descuento: '50.00'
 average: '64.98'

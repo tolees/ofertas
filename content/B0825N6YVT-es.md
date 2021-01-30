@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Quiksilver All Time - Licra De Manga Larga con Protección Solar UPF 50 para Hombre L/SL Surf tee  Hombre  Sleet Heather  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0825N6YVT/?tag=tolees-21'
 descuento: '62.35'
 average: '15.27'

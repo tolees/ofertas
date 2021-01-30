@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'Napapijri Nakuro 2 Pantalones Cortos  Blanco  Bright White 002   W33  Talla del Fabricante: 29  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LBLQJPY/?tag=tolees-21'
 descuento: '71.00'
 average: '18.580000000000002'

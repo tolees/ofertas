@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Flexson SONOS Play:1 - Soporte de pie para SONOS Play:1  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NA6XFE4/?tag=tolees-21'
 descuento: '44.23'
 average: '45.335'

@@ -16,6 +16,7 @@ comparePrice: 13.95 EUR
 prodname: 'Funko- Pop Books: Where s Waldo Collectible Figure  Multicolor  41164 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SPW3C59/?tag=tolees-21'
 descuento: '42.01'
 average: '11.02'

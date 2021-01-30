@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Perixx PERIMICE-718 - Ratón  Izquierda  Diseño vertical  Óptico  RF Wireless  1600 DPI  Black  Rojo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XK81TPK/?tag=tolees-21'
 descuento: '49.90'
 average: '19.99'

@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Vans U Old Skool - Zapatillas  Unisex Adulto  Negro  Nero  Schwarz/Black/Black    36.5'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001D18HGO/?tag=tolees-21'
 descuento: '26.40'
 average: '59.475'

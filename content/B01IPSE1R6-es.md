@@ -16,6 +16,7 @@ comparePrice: 46.7 EUR
 prodname: 'The Walking Dead - Temporada 6 [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IPSE1R6/?tag=tolees-21'
 descuento: '70.90'
 average: '16.056666666666665'

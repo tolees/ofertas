@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'World of Warcraft Nueva - Edición de jugador  este juego contiene código de descarga para contenido digital '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0829JLPNN/?tag=tolees-21'
 descuento: '54.97'
 average: '7.1075'

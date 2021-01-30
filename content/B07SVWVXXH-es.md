@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'FITTOO Pantalones Cortos Capris 3/4 Leggings Mujer Mallas de Yoga Alta Cintura Elásticos y Transpirables #3 Rojo XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SVWVXXH/?tag=tolees-21'
 descuento: '50.03'
 average: '14.99'

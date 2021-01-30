@@ -16,6 +16,7 @@ comparePrice: 1.51 EUR
 prodname: 'Gourmet Mini Crackers Redondas - 350 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LYCZ3TF/?tag=tolees-21'
 descuento: '33.77'
 average: '1.1585714285714286'

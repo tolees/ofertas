@@ -16,6 +16,7 @@ comparePrice: 115.0 EUR
 prodname: 'Guess jeans HWSM74 76180 logo city'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0819VRT3N/?tag=tolees-21'
 descuento: '29.00'
 average: '81.65'

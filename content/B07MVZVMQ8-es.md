@@ -16,6 +16,7 @@ comparePrice: 135.99 EUR
 prodname: 'WD My Passport Go 500 GB  disco duro sólido externo - acabado ámbar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MVZVMQ8/?tag=tolees-21'
 descuento: '33.00'
 average: '85.56'

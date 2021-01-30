@@ -16,6 +16,7 @@ comparePrice: 3.13 EUR
 prodname: 'Formulaone Borradores de ajedrez y Damas de Madera Natural y Pieza de ajedrez de Backgammon para niños Juego de Mesa Aprendizaje Camping con Disco — Madera y Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084Q8L5LJ/?tag=tolees-21'
 descuento: '31.95'
 average: '2.13'

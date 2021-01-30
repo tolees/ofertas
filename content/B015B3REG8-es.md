@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Trust ATMT-502 Mando a Distancia con Temporizador para el Control inalámbrico de la iluminación'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B015B3REG8/?tag=tolees-21'
 descuento: '30.56'
 average: '24.99'

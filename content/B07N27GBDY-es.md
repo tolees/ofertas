@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Quiksilver Shorebreak Mid Sherpa-Shoes for Men  Botas Clasicas para Hombre  Marrón Brown/White Xccw  43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N27GBDY/?tag=tolees-21'
 descuento: '62.81'
 average: '30.21'

@@ -16,6 +16,7 @@ comparePrice: 37.9 EUR
 prodname: 'Tommy Hilfiger 3p Brief Calzoncillos  Ngro  Negro 990   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00K5RA2TC/?tag=tolees-21'
 descuento: '35.38'
 average: '23.99'

@@ -16,6 +16,7 @@ comparePrice: 16.84 EUR
 prodname: 'Levi s Two Horse Embossed Belt Cinturón  Marrón  Brown 28   90 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RCK2Q7B/?tag=tolees-21'
 descuento: '34.20'
 average: '11.08'

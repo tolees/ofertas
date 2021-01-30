@@ -16,6 +16,7 @@ comparePrice: 6.64 EUR
 prodname: 'Creation Station - Lote de limpiapipas  tamaño Jumbo   Colores Surtidos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004D3UPB4/?tag=tolees-21'
 descuento: '36.90'
 average: '4.19'

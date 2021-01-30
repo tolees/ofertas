@@ -16,6 +16,7 @@ comparePrice: 29 EUR
 prodname: 'Glucosamina Complex con Condroitina  MSM  Boswellia y Quercetina  365 Cápsulas | Para el dolor en las articulaciones | No-GMO  GMP  sin aditivos  sin Gluten | de Zenement'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DBSDD5S/?tag=tolees-21'
 descuento: '27.69'
 average: '20.47'

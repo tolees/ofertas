@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'New Balance Trail Kaymin Gore Tex  Zapatillas de Running para Asfalto para Mujer  Negro  Black/Grey Black/Grey   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075R3RHQ4/?tag=tolees-21'
 descuento: '56.64'
 average: '48.905'

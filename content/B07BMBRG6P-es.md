@@ -16,6 +16,7 @@ comparePrice: 84.95 EUR
 prodname: 'Wrangler Larston Jeans  Indigo Wit  36W / 32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BMBRG6P/?tag=tolees-21'
 descuento: '51.04'
 average: '44.544285714285714'

@@ -16,6 +16,7 @@ comparePrice: 172.99 EUR
 prodname: 'Krups The Sub Vainilla VB650810 -Tirador de cerveza  tecnología Peltier Cooling  2 l frescura de la cerveza 15 días  hasta 2º  eficiencia energética A+  indicador listo para servir  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00MNBPY78/?tag=tolees-21'
 descuento: '42.19'
 average: '113.23249999999999'

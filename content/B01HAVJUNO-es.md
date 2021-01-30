@@ -16,6 +16,7 @@ comparePrice: 199.78 EUR
 prodname: 'Songmics OBG71B Racing -Silla de Escritorio/ Computadora Ergonómica con Reposapiés Plegable  PU  Metal Cromado  color Negro 150 kg'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HAVJUNO/?tag=tolees-21'
 descuento: '29.33'
 average: '129.65666666666667'

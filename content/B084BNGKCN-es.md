@@ -16,6 +16,7 @@ comparePrice: 26.98 EUR
 prodname: 'HelpCuisine Molde para Helados/Moldes de Polos - Juego de Seis Unidades sin BPA y Aprobado por FDA. 24 Meses de Garancia!  Multicolor '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084BNGKCN/?tag=tolees-21'
 descuento: '46.70'
 average: '14.38'

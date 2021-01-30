@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Under Armour UA W Charged Aurora  Zapatillas Deportivas para Interior para Mujer  Negro  Black/White/White   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PVQNL3C/?tag=tolees-21'
 descuento: '48.08'
 average: '36.32'

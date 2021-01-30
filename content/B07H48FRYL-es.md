@@ -16,6 +16,7 @@ comparePrice: 14.9 EUR
 prodname: 'Lékué - Recipiente hermético para transportar alimentos  Coral  400 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H48FRYL/?tag=tolees-21'
 descuento: '36.31'
 average: '9.790000000000001'

@@ -16,6 +16,7 @@ comparePrice: 5.2 EUR
 prodname: '4.4inches Protección para los Ojos Almohadilla de Dibujo electrónica Tableta de Escritura de Pantalla LCD Tabletas de Dibujo gráfico Digital - Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BZFNS6Z/?tag=tolees-21'
 descuento: '33.46'
 average: '3.46'

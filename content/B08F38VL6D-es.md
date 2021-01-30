@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Oumakiku Botellas de Spray Botellas de Viaje Spray de Niebla Fina Transparente Set Contenedores de Líquido Transparente Recargables para Perfume Loción de Maquillaje Cosmético 6 Piezas 50 ml 100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08F38VL6D/?tag=tolees-21'
 descuento: '38.49'
 average: '7.99'

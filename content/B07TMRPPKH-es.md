@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Clarks Step Isle Base  Zapatillas para Hombre  Beige  Sand Canvas Sand Canvas   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TMRPPKH/?tag=tolees-21'
 descuento: '59.03'
 average: '27.91'

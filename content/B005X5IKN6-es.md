@@ -16,6 +16,7 @@ comparePrice: 54 EUR
 prodname: 'Ted Lapidus Black Soul Imperial - Agua de toilette  50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005X5IKN6/?tag=tolees-21'
 descuento: '61.89'
 average: '20.58'

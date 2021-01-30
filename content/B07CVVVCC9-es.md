@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Samsung muf-64be4/eu 64gb 3.0  3.1 Gen 1  Conector USB Tipo a Gris  Titanio Unidad Flash USB - Memoria USB  64 GB  3.0  3.1 Gen 1   Conector USB Tipo a  200 MB/s  sin Tapa  Gris  Titanio '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CVVVCC9/?tag=tolees-21'
 descuento: '47.28'
 average: '15.6525'

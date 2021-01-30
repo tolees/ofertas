@@ -16,6 +16,7 @@ comparePrice: 26.11 EUR
 prodname: 'Nemesis Now Boss - Figura Decorativa de Calavera  18 cm  Resina  Talla única   Color Marfil'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KYW7DJB/?tag=tolees-21'
 descuento: '67.25'
 average: '8.55'

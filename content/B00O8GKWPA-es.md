@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Dim Generous Sujetador  Beige  Peau   105F para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00O8GKWPA/?tag=tolees-21'
 descuento: '69.90'
 average: '9.0'

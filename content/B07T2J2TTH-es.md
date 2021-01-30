@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Te-Rich Bandas Elásticas Gluteos para Fitness Banda de Resistencia Ideal para Pilates Yoga Rehabilitación Entrenamiento de Fuerza y Flexibilidad Quemar Grasa rápidamente Moldear Piernas y Caderas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T2J2TTH/?tag=tolees-21'
 descuento: '37.52'
 average: '14.99'

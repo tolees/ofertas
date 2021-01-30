@@ -16,6 +16,7 @@ comparePrice: 159.99 EUR
 prodname: 'CREA Grifo Osmosis  Grifo de Cocina 3 Vías Ósmosis 360° Giratorio GrifoI， para Fregadero doble palanca Grifería de Cocina Acero iInoxidable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072C5R8CJ/?tag=tolees-21'
 descuento: '50.00'
 average: '74.56'

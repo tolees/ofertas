@@ -16,6 +16,7 @@ comparePrice: 24.12 EUR
 prodname: 'Pllieay - 30 piezas de tela de malla de plástico de 7 hilos para bordado  manualidades  tejer y proyectos de ganchillo  10 x 10 cm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0824TQ3RM/?tag=tolees-21'
 descuento: '35.32'
 average: '15.48'

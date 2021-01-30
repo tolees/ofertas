@@ -16,6 +16,7 @@ comparePrice: 66.15 EUR
 prodname: 'Vaporizador de Tela portátil Fast-Heat 1200W Potente vaporizador de Ropa Vaporizador portátil para Viajar en casa Plancha de Vapor portátil - Multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0885WGJJV/?tag=tolees-21'
 descuento: '33.50'
 average: '43.99'

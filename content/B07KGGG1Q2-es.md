@@ -16,6 +16,7 @@ comparePrice: 16.0 EUR
 prodname: 'Buff Bone Gorra Trucker  Niños  Multi  Talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KGGG1Q2/?tag=tolees-21'
 descuento: '28.19'
 average: '11.49'

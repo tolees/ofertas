@@ -16,6 +16,7 @@ comparePrice: 21.51 EUR
 prodname: 'deAO Conjunto de Herramientas 3 en 1 de Juguete Play Set Juego Taller de Bricolaje Infantil Taladro y Sierras de Plástico con Función de Movimiento y Sonidos Reales'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PQSRGJF/?tag=tolees-21'
 descuento: '53.56'
 average: '12.656666666666666'

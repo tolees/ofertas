@@ -16,6 +16,7 @@ comparePrice: 549.99 EUR
 prodname: 'Netgear ReadyNAS RN42200-100NES - Dispositivo de Almacenamiento en Red  2 bahías  hasta 20 TB  sin Discos  Intel Atom C-3338 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N4FXY9I/?tag=tolees-21'
 descuento: '41.39'
 average: '362.5466666666667'

@@ -16,6 +16,7 @@ comparePrice: 23.06 EUR
 prodname: 'Wahl Groomsman - Cortapelos recargable  color gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003TNMG0M/?tag=tolees-21'
 descuento: '26.32'
 average: '16.99'

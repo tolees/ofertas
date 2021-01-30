@@ -16,6 +16,7 @@ comparePrice: 21.6 EUR
 prodname: 'Iberitos - Crema de Iberico al Pedro Ximénez - Bandeja de 18 x 23 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0743GXJ6T/?tag=tolees-21'
 descuento: '69.31'
 average: '6.76'

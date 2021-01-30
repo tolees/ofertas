@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'New Balance 574  Zapatillas para Hombre  Negro  Black Black   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PQTRP63/?tag=tolees-21'
 descuento: '72.23'
 average: '38.39'

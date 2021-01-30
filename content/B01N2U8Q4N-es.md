@@ -16,6 +16,7 @@ comparePrice: 7.95 EUR
 prodname: 'L Oréal Paris Barra de labios líquida Infalible Lip Paint Vinilo tono 105'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N2U8Q4N/?tag=tolees-21'
 descuento: '49.69'
 average: '3.4633333333333334'

@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'Columbia Fire Venture L Mid II WP  Botas de Senderismo para Mujer  Marrón  Dark Truffle  W 206   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KK3KW14/?tag=tolees-21'
 descuento: '77.98'
 average: '26.42'

@@ -16,6 +16,7 @@ comparePrice: 74.95 EUR
 prodname: 'Skechers GO Run Pulse  Zapatillas para Hombre  Negro Negro Negro Textil Sintético Borde Naranja Bkor  42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XMGB9Y6/?tag=tolees-21'
 descuento: '25.35'
 average: '55.95'

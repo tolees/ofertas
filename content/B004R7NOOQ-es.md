@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Funko - POP! Bobble Colección Marvel - Figura Capitán América  2224 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004R7NOOQ/?tag=tolees-21'
 descuento: '28.55'
 average: '9.58'

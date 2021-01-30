@@ -16,6 +16,7 @@ comparePrice: 17.14 EUR
 prodname: 'Pro Garden 07972-Baliza de luz solar  acero inoxidable  36 cm  color plateado  7 unidades '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NSW394Q/?tag=tolees-21'
 descuento: '59.45'
 average: '6.95'

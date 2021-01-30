@@ -16,6 +16,7 @@ comparePrice: 16.95 EUR
 prodname: 'Morph Adulto Iluminarse Screaming Payaso del Demonio Hallowen LED Media máscara'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M8VTY2P/?tag=tolees-21'
 descuento: '29.50'
 average: '11.95'

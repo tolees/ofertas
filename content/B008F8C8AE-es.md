@@ -16,6 +16,7 @@ comparePrice: 149.0 EUR
 prodname: 'Singer 1409 Promise - Máquina de Coser Mecánica  9 puntadas  120 V  color Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B008F8C8AE/?tag=tolees-21'
 descuento: '32.46'
 average: '98.10333333333332'

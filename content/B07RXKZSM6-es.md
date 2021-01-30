@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'Levi s 502 Regular Taper Jeans  Azul  Stonewash Stretch T2 0555   W34/L34  Talla del Fabricante: 34 34  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RXKZSM6/?tag=tolees-21'
 descuento: '62.27'
 average: '37.175000000000004'

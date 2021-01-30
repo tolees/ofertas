@@ -16,6 +16,7 @@ comparePrice: 40.94 EUR
 prodname: 'Vodka belvedere 40º  700 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005C3R8FU/?tag=tolees-21'
 descuento: '29.16'
 average: '29.0'

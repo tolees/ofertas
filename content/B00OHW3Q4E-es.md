@@ -16,6 +16,7 @@ comparePrice: 3.6 EUR
 prodname: 'Valueline VLAP22255B02 Adaptador de Cable 2 x RCA 3 5mm Negro  Rojo  Blanco - Adaptador para Cable  2 x RCA  3 5mm  Male Connector/Female Connector  0 2 m  Negro  Rojo  Blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00OHW3Q4E/?tag=tolees-21'
 descuento: '44.44'
 average: '1.9866666666666666'

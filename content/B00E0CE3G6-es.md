@@ -16,6 +16,7 @@ comparePrice: 80.89 EUR
 prodname: 'S.Oliver Reloj Analógico de Cuarzo para Mujer con Correa de Cuero – SO-2773-LQ'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00E0CE3G6/?tag=tolees-21'
 descuento: '38.25'
 average: '49.95'

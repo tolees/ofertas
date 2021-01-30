@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Trimming Shop Filtro de Aspirador Dyson DC37 DC33C DC39 DC28C DC53  2 Piezas '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GSVWSDW/?tag=tolees-21'
 descuento: '38.01'
 average: '30.99'

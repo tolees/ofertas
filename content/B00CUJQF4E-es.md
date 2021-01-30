@@ -16,6 +16,7 @@ comparePrice: 17.95 EUR
 prodname: 'Samsung HS130 - Auriculares de botón  con micrófono  control remoto integrado   negro- Versión española'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00CUJQF4E/?tag=tolees-21'
 descuento: '61.11'
 average: '7.235'

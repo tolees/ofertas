@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'Pack de 56 Dentastix de uso diario para la limpieza dental de perros grandes  Pack de 1 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SWL2GSP/?tag=tolees-21'
 descuento: '29.10'
 average: '15.59'

@@ -16,6 +16,7 @@ comparePrice: 7 EUR
 prodname: 'Finocam Chic Morado  Calendario de Pared 2020 Escribir Español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T8HHM23/?tag=tolees-21'
 descuento: '30.00'
 average: '4.9'

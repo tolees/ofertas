@@ -16,6 +16,7 @@ comparePrice: 3.53 EUR
 prodname: 'Ligero a Prueba de Polvo a Prueba de arañazos de Cuero de la PU con Auto Despertar/Dormir Flip Folio Funda de Tableta para Amazon Kindle 558'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WSJGT2D/?tag=tolees-21'
 descuento: '33.43'
 average: '2.35'

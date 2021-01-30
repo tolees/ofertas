@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Mar de plástico - Serie completa [DVD]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M9K5NPR/?tag=tolees-21'
 descuento: '46.01'
 average: '26.99'

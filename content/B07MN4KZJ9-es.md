@@ -16,6 +16,7 @@ comparePrice: 179.95 EUR
 prodname: 'adidas Ultraboost 19 M  Zapatillas de Running para Hombre  Negro  Core Black/Core Black/FTWR White Core Black/Core Black/FTWR White   43 1/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MN4KZJ9/?tag=tolees-21'
 descuento: '34.99'
 average: '116.99'

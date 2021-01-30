@@ -16,6 +16,7 @@ comparePrice: 10.0 EUR
 prodname: 'Gotas Frescas Concentrada para Hombre - 750 ML'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XAISYUC/?tag=tolees-21'
 descuento: '28.50'
 average: '7.15'

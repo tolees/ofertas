@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'ALDO Preilia  Zapatillas para Hombre  Marrón  Rust 221   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TW2S4YG/?tag=tolees-21'
 descuento: '44.29'
 average: '36.21'

@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Pop! Star vs. The Forces of Evil - Figura de Vinilo Ludo Avario'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J6SQNVJ/?tag=tolees-21'
 descuento: '43.64'
 average: '8.472000000000001'

@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'Pantalones de Verano de Mujer con Cintura Elástica con Lazo Bodycon Slim Fit Verde Oliva S Claf1011-3'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V44MNZM/?tag=tolees-21'
 descuento: '27.60'
 average: '20.99'

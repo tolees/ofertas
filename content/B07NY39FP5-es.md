@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Skechers Men s Heston Classic Boots  Black  Black Leather Blk   6 UK  39.5 EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NY39FP5/?tag=tolees-21'
 descuento: '54.02'
 average: '32.16'

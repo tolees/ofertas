@@ -16,6 +16,7 @@ comparePrice: 73.47 EUR
 prodname: 'LQHZWY Cortina de Puerta Pantalla de la Puerta Puerta de Pantalla magnética Cortina Mosquitera para Puertas Cortina Mosquitera Magnética Easy to Install Mute Tear resistant-100×240CM Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087P5STKN/?tag=tolees-21'
 descuento: '40.13'
 average: '43.99'

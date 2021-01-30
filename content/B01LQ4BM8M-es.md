@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Razer Goliathus Speed Cosmic Medium - Suave alfombrilla de ratón para juegos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LQ4BM8M/?tag=tolees-21'
 descuento: '50.03'
 average: '9.99'

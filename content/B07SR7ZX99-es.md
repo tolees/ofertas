@@ -16,6 +16,7 @@ comparePrice: 36.0 EUR
 prodname: 'Cadena Chupetes Personalizado con Nombre Koala Mordedor Bebes Cuentas Silicona Clips de Chupete Soothie Clip Sin BPA  Rosado '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SR7ZX99/?tag=tolees-21'
 descuento: '61.17'
 average: '13.98'

@@ -16,6 +16,7 @@ comparePrice: 41.48 EUR
 prodname: 'Jojoin Bandejas de Viaje  Mesa Coche para Niños  Bandeja Plegable para Coche  Cochecito  Avión ect...   con 5 Papel de Dibujo Educativo  6 Plumas de Pintura'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WD7QXDM/?tag=tolees-21'
 descuento: '46.99'
 average: '21.99'

@@ -16,6 +16,7 @@ comparePrice: 11.22 EUR
 prodname: 'Tayg 602368 plástico 10LT con Grifo  Blanco  Bidón 10L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00CFNKX6G/?tag=tolees-21'
 descuento: '26.11'
 average: '8.54'

@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Pecute Funda Perros Coche  Funda de Asiento para Perros Impermeable y Resistente  Protector Coche Perros con Rejilla Flexible Pasar Aire  Universal para SUV  Camión  Transportar y Viaje'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JY61YDQ/?tag=tolees-21'
 descuento: '61.12'
 average: '30.72333333333333'

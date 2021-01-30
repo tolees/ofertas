@@ -16,6 +16,7 @@ comparePrice: 18.0 EUR
 prodname: 'Bourjois  Maquillaje corrector  Tono: 200 Rose Vanilla  Pieles Claras  - 32 gr.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N4CJ7MB/?tag=tolees-21'
 descuento: '58.33'
 average: '8.446666666666667'

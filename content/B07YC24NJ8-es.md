@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Irrigador Bucal Portátil de 330ml iTeknic Irrigador Dental Portátil Profesional USB Recargable con 4 Modos 4 Boquillas Impermeable IPX7 para Higiene Dental Limpieza Dental Ideal para Viaje'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YC24NJ8/?tag=tolees-21'
 descuento: '37.52'
 average: '14.99'

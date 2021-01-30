@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'Salomon Shorts para running  AGILE 7"  tafetán  negro  hombre  talla: XS  l40118300'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0754NMR3V/?tag=tolees-21'
 descuento: '49.20'
 average: '20.33'

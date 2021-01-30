@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'adidas Falcon W  Sneaker Womens  Core Black/Core Black/Grey  37 1/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K4SJ1Z3/?tag=tolees-21'
 descuento: '44.98'
 average: '53.89666666666666'

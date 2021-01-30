@@ -16,6 +16,7 @@ comparePrice: 799.99 EUR
 prodname: 'HP Pavilion 15-cw0001ns - Ordenador Portátil 15.6" FullHD  AMD Ryzen 5 2500U  8GB RAM  256GB SSD  AMD Radeon Vega 8  Windows 10  Color Plata - Teclado QWERTY Español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DYLN8H1/?tag=tolees-21'
 descuento: '25.00'
 average: '598.9900000000001'

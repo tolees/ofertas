@@ -16,6 +16,7 @@ comparePrice: 22.82 EUR
 prodname: 'Magicfun Mini Ventilador de Mano  Ventilador USB de 3000mAh Recargable Batería  Portátil Eléctrico Ventilador Plegable  Ajustable 3 Velocidad para el Oficina  Hogar  Acampada  Viajes  Exterior Rosada '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083ZSYTTM/?tag=tolees-21'
 descuento: '43.08'
 average: '14.374615384615385'

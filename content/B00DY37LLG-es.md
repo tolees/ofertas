@@ -16,6 +16,7 @@ comparePrice: 84.95 EUR
 prodname: 'PUMA Suede Classic+  Zapatillas para Hombre  Rojo  Cabernet/White   42.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00DY37LLG/?tag=tolees-21'
 descuento: '43.11'
 average: '51.54666666666667'

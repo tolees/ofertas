@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'RATEL Ventilador de Escritorio silencioso de 8 Pulgadas  Ventilador de enfriamiento Recargable USB  Viajes de Oficina en el hogar al Aire Libre  Ajustable en 3 velocidades  rotación de 60 °'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082MHYLQ2/?tag=tolees-21'
 descuento: '27.79'
 average: '25.99'

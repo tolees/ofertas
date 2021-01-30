@@ -16,6 +16,7 @@ comparePrice: 79.0 EUR
 prodname: 'Superga 2790-COTROPEW  Zapatillas Mujer  Azul  Marineblau   41 EU  7 UK '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B018W89HTQ/?tag=tolees-21'
 descuento: '48.16'
 average: '38.43666666666667'

@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'New Balance 997H h  Zapatillas para Hombre  Verde  Green/Gold Hez   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RYN5K2V/?tag=tolees-21'
 descuento: '62.67'
 average: '37.947500000000005'

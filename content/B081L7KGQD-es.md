@@ -16,6 +16,7 @@ comparePrice: 80.64 EUR
 prodname: 'Camara Espia -Mini Camara -de Llave de Coche Cámara pequeña de Negocios para vigilancia HD1080P 2horas Grabación de Video /4horas Audio 32G Memoria  Grabación en Bucle Soporte 128G'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081L7KGQD/?tag=tolees-21'
 descuento: '29.59'
 average: '56.78'

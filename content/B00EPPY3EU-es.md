@@ -16,6 +16,7 @@ comparePrice: 179.9 EUR
 prodname: 'Samsung SF-765P - Impresora multifunción láser con fax  blanco  importado '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00EPPY3EU/?tag=tolees-21'
 descuento: '44.42'
 average: '99.99'

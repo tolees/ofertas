@@ -16,6 +16,7 @@ comparePrice: 5.95 EUR
 prodname: 'Instant 2610731 - Paquete de 12 temperas sólidas de colores con trazo grueso'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005XM2B5C/?tag=tolees-21'
 descuento: '33.61'
 average: '4.285'

@@ -16,6 +16,7 @@ comparePrice: 26.0 EUR
 prodname: 'Camiseta/UNDER ARMOUR:Boxed Sportstyle L Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078B27ZBY/?tag=tolees-21'
 descuento: '48.12'
 average: '14.120000000000001'

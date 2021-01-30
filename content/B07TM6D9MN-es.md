@@ -16,6 +16,7 @@ comparePrice: 65.9 EUR
 prodname: 'find. Arthur HS01 Botas Clasicas  Marrón  Napa Tan Napa Tan   47'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TM6D9MN/?tag=tolees-21'
 descuento: '71.44'
 average: '18.82'

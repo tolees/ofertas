@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Steep'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01H0X33KI/?tag=tolees-21'
 descuento: '53.26'
 average: '15.530000000000001'

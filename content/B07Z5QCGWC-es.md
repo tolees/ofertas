@@ -16,6 +16,7 @@ comparePrice: 25.54 EUR
 prodname: 'LEADSTAR Bolsa de Pañales  3 PCS Wetbag Lavable  Reutilizable Impermeable con 2 Cremallera para Mamá de Bebé  Transpirable Portátil Organizador de Maquillaje de Colgar Viajes Playa Piscina Gym'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z5QCGWC/?tag=tolees-21'
 descuento: '49.14'
 average: '12.99'

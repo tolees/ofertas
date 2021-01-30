@@ -16,6 +16,7 @@ comparePrice: 62.0 EUR
 prodname: 'Casio Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable MTP-1291D-1A1VEF'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001TK3CPU/?tag=tolees-21'
 descuento: '35.53'
 average: '44.584999999999994'

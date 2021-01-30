@@ -16,6 +16,7 @@ comparePrice: 349.9 EUR
 prodname: 'Beurer IPL9000 + - Depiladora de luz  pulsada con base  incluye cartucho de 100.000 pulsaciones  color blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00MOIX2WO/?tag=tolees-21'
 descuento: '40.27'
 average: '188.15666666666667'

@@ -16,6 +16,7 @@ comparePrice: 120.99 EUR
 prodname: 'BELL Casco Integral Sanction MTB  Unisex Adulto  Color Nitro Circus Gloss  tamaño Large/58-60 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HX25ZT6/?tag=tolees-21'
 descuento: '40.50'
 average: '71.99'

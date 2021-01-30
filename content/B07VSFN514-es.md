@@ -16,6 +16,7 @@ comparePrice: 98.16 EUR
 prodname: 'Tommy Hilfiger Organic Cotton Silk V Neck Pantalones  Azul  Faded Indigo Heather DVD   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VSFN514/?tag=tolees-21'
 descuento: '64.05'
 average: '35.29'

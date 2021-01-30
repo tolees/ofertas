@@ -16,6 +16,7 @@ comparePrice: 179.9 EUR
 prodname: 'Black & Decker FSM1621 Black + Decker FSMH-1621-S-Mopa  autonomía 15 Minutos  Color Blanco  1600 W  18/8 Stainless Steel  Azul Claro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ILLW9VS/?tag=tolees-21'
 descuento: '47.40'
 average: '105.55'

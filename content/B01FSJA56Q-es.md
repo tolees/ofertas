@@ -16,6 +16,7 @@ comparePrice: 30.87 EUR
 prodname: 'New Balance 490v4  Zapatillas Deportivas para Interior para Mujer  Multicolor  Grey   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FSJA56Q/?tag=tolees-21'
 descuento: '25.20'
 average: '23.09'

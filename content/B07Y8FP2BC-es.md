@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'GIOSEPPO THEUX  Zapatillas para Mujer  Beige  Beig Beig   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y8FP2BC/?tag=tolees-21'
 descuento: '30.02'
 average: '45.45'

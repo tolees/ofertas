@@ -16,6 +16,7 @@ comparePrice: 34.19 EUR
 prodname: 'Iron Maiden  -   A Matter Of Life And Death  Collectors Box    CD '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X8FP2FQ/?tag=tolees-21'
 descuento: '38.17'
 average: '21.423333333333332'

@@ -16,6 +16,7 @@ comparePrice: 42.99 EUR
 prodname: 'Swonuk Cámara Web 1080P con Micrófono  Computadora Portátil PC Webcam de Escritorio USB 2.0 para Videollamadas  Estudios  Conferencias  Grabación  Juegos con Clip Giratorio  Plug and Play  C40 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087QHWVQP/?tag=tolees-21'
 descuento: '32.57'
 average: '36.21857142857143'

@@ -16,6 +16,7 @@ comparePrice: 6.98 EUR
 prodname: 'NanoCable 10.15.0903 - Cable HDMI a Mini HDMI alta velocidad V1.3B  A/M-C/M  macho-macho  negro  3mts'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00AKBQM9W/?tag=tolees-21'
 descuento: '31.38'
 average: '4.79'

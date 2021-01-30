@@ -16,6 +16,7 @@ comparePrice: 38.85 EUR
 prodname: 'Wooden-Life - Mesa de cama para ordenador portátil  bandeja de desayuno con patas plegables  escritorio de pie portátil  soporte de lectura para sofá  suelo para niños  tamaño estándar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PQ6ZY57/?tag=tolees-21'
 descuento: '52.25'
 average: '18.55'

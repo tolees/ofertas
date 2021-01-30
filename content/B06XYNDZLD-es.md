@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Trust GXT 188 Laban - Ratón Gaming ergonómico y Profesional  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XYNDZLD/?tag=tolees-21'
 descuento: '61.85'
 average: '32.5125'

@@ -16,6 +16,7 @@ comparePrice: 21.0 EUR
 prodname: 'Vichy Capital Soleil Brume Hydratante Invisible SPF50 Protector Solar - 200 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00J46X8PK/?tag=tolees-21'
 descuento: '43.10'
 average: '11.95'

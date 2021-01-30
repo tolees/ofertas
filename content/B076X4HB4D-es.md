@@ -16,6 +16,7 @@ comparePrice: 32.95 EUR
 prodname: 'Gardena NatureUp Set vertical  grifo  sistema de riego invisible para hasta 27 plantas  posibilidad de conexión al programador'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076X4HB4D/?tag=tolees-21'
 descuento: '60.42'
 average: '13.04'

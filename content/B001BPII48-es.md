@@ -16,6 +16,7 @@ comparePrice: 8.54 EUR
 prodname: 'Manhattan Convertidor PS/2 a USB USB A 2X Mini DIN 6 Pin  PS/2  Negro - Adaptador para Cable  USB A  2X Mini DIN 6 Pin  PS/2   Male Connector/Female Connector  0 19 m  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001BPII48/?tag=tolees-21'
 descuento: '41.45'
 average: '5.0'

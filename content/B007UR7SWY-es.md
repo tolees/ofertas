@@ -16,6 +16,7 @@ comparePrice: 51.33 EUR
 prodname: 'Máscara de payaso monstruo Halloween'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007UR7SWY/?tag=tolees-21'
 descuento: '30.00'
 average: '35.93'

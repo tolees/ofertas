@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'BOSS Octopus Bañador  Marrón  Dark Brown 204   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V1Z4PJ5/?tag=tolees-21'
 descuento: '56.76'
 average: '25.92'

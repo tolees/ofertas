@@ -16,6 +16,7 @@ comparePrice: 11.6 EUR
 prodname: 'Beaphar - Champú Premium para Perros Anti picores  250 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00OKFHO0U/?tag=tolees-21'
 descuento: '30.78'
 average: '8.03'

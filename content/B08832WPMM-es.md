@@ -16,6 +16,7 @@ comparePrice: 17.19 EUR
 prodname: 'Lector de Tarjetas de Memoria Secure Digital USB Micro USB Tipo C Lector de Tarjetas Lectores de Tarjetas de Memoria Lectores de Tarjetas Micro - Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08832WPMM/?tag=tolees-21'
 descuento: '33.51'
 average: '11.43'

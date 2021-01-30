@@ -16,6 +16,7 @@ comparePrice: 79.0 EUR
 prodname: 'Napapijri ERBER Polo  Negro  Black 041   S para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MCSP8J1/?tag=tolees-21'
 descuento: '60.00'
 average: '31.6'

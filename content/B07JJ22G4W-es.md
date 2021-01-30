@@ -16,6 +16,7 @@ comparePrice: 19196.99 EUR
 prodname: 'AMDXD Joyería Pendientes para Mujer Oro de 18K Lágrima Esmeralda Aretes Plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JJ22G4W/?tag=tolees-21'
 descuento: '66.67'
 average: '6398.99'

@@ -16,6 +16,7 @@ comparePrice: 36.2 EUR
 prodname: 'Dremel 723 Kit de 100 Accesorios Variados - Juego de Accesorios para Herramienta Rotativa para Tallar  Fresar  Amolar  Limpiar  Pulir  Cortar  Lijar y Grabar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00MW8HBGY/?tag=tolees-21'
 descuento: '35.03'
 average: '22.799999999999997'

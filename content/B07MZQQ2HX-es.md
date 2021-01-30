@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Esprit Maternity Dress Nursing SS AOP Camisón premamá  Negro  Black 001   44  Talla del Fabricante: X-Large  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZQQ2HX/?tag=tolees-21'
 descuento: '32.99'
 average: '33.5'

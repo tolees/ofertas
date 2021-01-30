@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'Puma Sport Junior 3P  Calcetines Unisex para Niños  pink lady 035 Pack de 3'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06Y1NKDQN/?tag=tolees-21'
 descuento: '25.03'
 average: '5.99'

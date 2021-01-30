@@ -16,6 +16,7 @@ comparePrice: 26.19 EUR
 prodname: 'Burberry London Men Perfume - 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00DKMY8JY/?tag=tolees-21'
 descuento: '34.17'
 average: '17.24'

@@ -16,6 +16,7 @@ comparePrice: 5.98 EUR
 prodname: 'Moly Caja de Toalla Multifuncional de plástico Simple Caja Cuadrada de Escritorio para Oficina en casa - Púrpura'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088FMNYK5/?tag=tolees-21'
 descuento: '34.95'
 average: '3.89'

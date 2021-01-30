@@ -16,6 +16,7 @@ comparePrice: 8.25 EUR
 prodname: 'Pedigree Dentastix Fresh Snacks para Higiene Oral  Perro Pequeño 5-10 Kg  - 28 piezas  440 g.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B018TSZ1JE/?tag=tolees-21'
 descuento: '33.45'
 average: '6.463333333333334'

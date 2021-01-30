@@ -16,6 +16,7 @@ comparePrice: 154.8 EUR
 prodname: 'AEG HX6-35TM Aspiradora de Mano Sin Cable Sin Bolsa  Cepillo Extensible XL  hasta 35 Minutos  78dB de Ruido  2 Velocidades   Ciclónica  Depósito 0.5L Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01KUQIJ6U/?tag=tolees-21'
 descuento: '48.97'
 average: '105.66666666666667'

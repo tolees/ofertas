@@ -16,6 +16,7 @@ comparePrice: 69.9 EUR
 prodname: 'Clarks Maritsa Lara  Sandalia con Pulsera Tira de Tobillo  Blanco  White Leather -   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FQYNBR1/?tag=tolees-21'
 descuento: '30.00'
 average: '48.93'

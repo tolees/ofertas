@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Superga 2750 Cotu Classic  Zapatillas Unisex  Rojo  Dark Boredeaux   37.5 EU  4.5 UK '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007CFPT9S/?tag=tolees-21'
 descuento: '45.32'
 average: '34.129999999999995'

@@ -16,6 +16,7 @@ comparePrice: 41.0 EUR
 prodname: 'Estee Lauder 18305 - Base de maquillaje  4N1 Shell Beige'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000WIGQL2/?tag=tolees-21'
 descuento: '42.68'
 average: '23.5'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Roxy Happy At Home-Mochila Mediana para Chicas 8-16  Niñas  Anthracite s Crystal Flower  1SZ'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SY9CW9Z/?tag=tolees-21'
 descuento: '34.98'
 average: '26.0'

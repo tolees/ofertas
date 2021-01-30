@@ -16,6 +16,7 @@ comparePrice: 2499.99 EUR
 prodname: 'Asus ROG Zephyrus S GX701GWR-H6063T - Portátil Gaming de 17 3" 144Hz FullHD  Intel Core i7-9750H  16GB RAM  512GB SSD  RTX 2070 8GB GDDR6  Windows 10 Home  Aluminio Negro - Teclado QWERTY Español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z6MZVKL/?tag=tolees-21'
 descuento: '28.04'
 average: '1799.0'

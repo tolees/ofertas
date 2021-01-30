@@ -16,6 +16,7 @@ comparePrice: 10.15 EUR
 prodname: 'FLOWER - Insecticida Hormigas Jeringa Flower 10 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00GXKDTI6/?tag=tolees-21'
 descuento: '41.38'
 average: '5.95'

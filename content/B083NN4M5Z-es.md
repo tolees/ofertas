@@ -16,6 +16,7 @@ comparePrice: 4.39 EUR
 prodname: 'Niños Puzzle Memory Game Console LED Light Sound Interactive Toy Training Hand Brain Coordination - Colorido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083NN4M5Z/?tag=tolees-21'
 descuento: '33.49'
 average: '2.92'

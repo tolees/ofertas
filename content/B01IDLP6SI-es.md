@@ -16,6 +16,7 @@ comparePrice: 52.03 EUR
 prodname: 'BATH+ by Cosmic Espejo B-Box  50 x 80 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IDLP6SI/?tag=tolees-21'
 descuento: '25.33'
 average: '38.85'

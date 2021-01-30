@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'COOSA Correa de Recambio Brazalete Extensibles Coloridos Impermeables para reemplazo Pulsera XIAOMI Wireless Recambio para Pulsera Inteligente XIAOMI MI Band 2  sin Rastreador de Actividad '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0711LMQVQ/?tag=tolees-21'
 descuento: '30.79'
 average: '8.99'

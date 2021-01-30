@@ -16,6 +16,7 @@ comparePrice: 110.99 EUR
 prodname: 'AICOK Sous Vide Aparato de Cocina Precisión 1500W Inmersión a Prueba de Agua IPX7 Circuladores Control de Temperatura de Precisión Temporizador Digital  Negro[Actualización 2019]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SC9RLQ1/?tag=tolees-21'
 descuento: '36.94'
 average: '74.65666666666667'

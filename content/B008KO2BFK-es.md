@@ -16,6 +16,7 @@ comparePrice: 62.11 EUR
 prodname: 'Monix Quick - Olla a presión rápida de 4 litros'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B008KO2BFK/?tag=tolees-21'
 descuento: '30.78'
 average: '42.99'

@@ -16,6 +16,7 @@ comparePrice: 37.64 EUR
 prodname: 'Cherokee - Pantalones con cinturilla ajustable para mujer  Pequeña  S /Cielo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00D4N4XXK/?tag=tolees-21'
 descuento: '78.21'
 average: '10.7'

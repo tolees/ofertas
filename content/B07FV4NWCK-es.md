@@ -16,6 +16,7 @@ comparePrice: 5.99 EUR
 prodname: 'Asmodee- Colt Express: Bandits Pack Django Expansion en Castellano  Color  LUCOEX07NA '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FV4NWCK/?tag=tolees-21'
 descuento: '33.39'
 average: '3.99'

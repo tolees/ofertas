@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'UniqueMe [3 Pack] Protector de Pantalla para Samsung Galaxy Note 10  [Instalación sin Agua] [Huella Digital Disponible] HD Clear TPU Flim Case Friendly Película Flexible de Cobertura Completa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TZS4YGV/?tag=tolees-21'
 descuento: '84.45'
 average: '2.02'

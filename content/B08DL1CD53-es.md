@@ -16,6 +16,7 @@ comparePrice: 2.7 EUR
 prodname: 'XINFULUK Eco-Friendly Kids Baby Write Draw Paint Water Magic Doodle Mat Niños Jugar Mat con Magic Pen Painting Multi Color'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08DL1CD53/?tag=tolees-21'
 descuento: '40.00'
 average: '1.62'

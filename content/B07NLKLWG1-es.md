@@ -16,6 +16,7 @@ comparePrice: 115.0 EUR
 prodname: 'Versace Jeans CouturePortafoglioMujerCarterasMorado  Accademi  0 5x22x31 centimeters  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NLKLWG1/?tag=tolees-21'
 descuento: '34.34'
 average: '75.51'

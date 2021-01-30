@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Teddy Bear Gift  Teddy Bear 3D Lámpara de ilusión óptica para niños y amantes  16 colores que cambian de acrílico LED Night Light  cumpleaños o regalo de San Valentín'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083K3ZPJ2/?tag=tolees-21'
 descuento: '50.02'
 average: '14.99'

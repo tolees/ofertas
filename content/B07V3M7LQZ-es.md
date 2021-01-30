@@ -16,6 +16,7 @@ comparePrice: 149.0 EUR
 prodname: 'Kipling Distance S Equipaje de Mano  52 cm  30 Liters  Negro  Lively Black '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V3M7LQZ/?tag=tolees-21'
 descuento: '54.15'
 average: '55.565000000000005'

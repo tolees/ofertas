@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'PEKITAS LOTE 2 Sábanas Bajera Ajustable Protectora Minicuna 50x80 cm 100% Algodón Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084BTZJV6/?tag=tolees-21'
 descuento: '57.50'
 average: '8.5'

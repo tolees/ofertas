@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'Everybodys Golf'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RSR761Z/?tag=tolees-21'
 descuento: '65.85'
 average: '15.116249999999999'

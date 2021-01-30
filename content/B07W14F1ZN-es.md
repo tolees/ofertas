@@ -16,6 +16,7 @@ comparePrice: 69.9 EUR
 prodname: 'Pepe Jeans suéter  Azul  Pale Blue 506   Medium para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W14F1ZN/?tag=tolees-21'
 descuento: '68.90'
 average: '21.74'

@@ -16,6 +16,7 @@ comparePrice: 1289.99 EUR
 prodname: 'Canon EF 24-105mm f/4L IS II USM - Objetivo Canon EF 24-105mm f/4L IS II USM  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01KZ4XLUQ/?tag=tolees-21'
 descuento: '27.81'
 average: '973.494'

@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'Levi s Pillsbury  Zapatillas para Hombre  Blanco  R White 51   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SFYLP5Y/?tag=tolees-21'
 descuento: '30.00'
 average: '28.0'

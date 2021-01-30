@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Adidas Vl Court 2.0 K  Zapatillas de deporte Unisex niños  Multicolor  Negbás/Gricin/Amalre 000   34 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K2MM7QK/?tag=tolees-21'
 descuento: '31.19'
 average: '27.49'

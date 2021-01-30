@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'La Ormiga Cuadros Marino Conjunto de Ropa  Bebé-Niños  Azul  Marino   80  Tamaño del Fabricante:12M '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076BT5S3Q/?tag=tolees-21'
 descuento: '73.87'
 average: '10.44'

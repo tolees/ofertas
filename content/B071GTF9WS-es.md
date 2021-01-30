@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'adidas Real H Baby Set  Blanco/Azuint  68'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071GTF9WS/?tag=tolees-21'
 descuento: '36.38'
 average: '34.99'

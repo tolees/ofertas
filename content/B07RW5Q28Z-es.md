@@ -16,6 +16,7 @@ comparePrice: 60.9 EUR
 prodname: 'find. Mellor Botas Chukka  Gris Charcoal  42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RW5Q28Z/?tag=tolees-21'
 descuento: '65.81'
 average: '20.82'

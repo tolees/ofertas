@@ -16,6 +16,7 @@ comparePrice: 11.95 EUR
 prodname: 'Bourjois Healthy Mix Base de Maquillaje Tono 53 Light Beige  30 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MT03OO3/?tag=tolees-21'
 descuento: '82.43'
 average: '3.9299999999999997'

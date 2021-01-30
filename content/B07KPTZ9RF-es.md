@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'Pop! Vinilo: Disney: The Lion King: Rafiki'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KPTZ9RF/?tag=tolees-21'
 descuento: '33.78'
 average: '8.901428571428573'

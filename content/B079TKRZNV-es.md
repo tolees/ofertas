@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Yoku’s Island Express'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079TKRZNV/?tag=tolees-21'
 descuento: '33.38'
 average: '26.945'

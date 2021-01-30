@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Himaly USB Planchas de Pelo Inalámbrico Portátil con Pantalla Digital Planchas de Pelo Profesional Recargable Temperatura Ajustable para Alisar el Cabello Portáti Carga por USB  2600 mAh '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G8ZJCCK/?tag=tolees-21'
 descuento: '50.01'
 average: '23.32333333333333'

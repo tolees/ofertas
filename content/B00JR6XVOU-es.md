@@ -16,6 +16,7 @@ comparePrice: 76.99 EUR
 prodname: 'Starter Pack - Skylander Trap Team'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00JR6XVOU/?tag=tolees-21'
 descuento: '57.42'
 average: '32.78'

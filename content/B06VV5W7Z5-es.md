@@ -16,6 +16,7 @@ comparePrice: 7.49 EUR
 prodname: 'Procos mantel plástico 120 x 180 cm Avengers Mighty  Multicolor  5pr87968 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06VV5W7Z5/?tag=tolees-21'
 descuento: '46.73'
 average: '3.99'

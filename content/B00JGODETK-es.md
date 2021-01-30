@@ -16,6 +16,7 @@ comparePrice: 118.9 EUR
 prodname: 'Emporio Armani Reloj para Hombre de Cuarzo con Correa en Cuero AR1807'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00JGODETK/?tag=tolees-21'
 descuento: '26.74'
 average: '97.03999999999999'

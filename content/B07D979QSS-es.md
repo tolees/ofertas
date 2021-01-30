@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Super Mario Maker SELECTS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D979QSS/?tag=tolees-21'
 descuento: '25.46'
 average: '16.572'

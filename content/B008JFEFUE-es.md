@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Salomon TRAIL GAITERS LOW Polainas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B008JFEFUE/?tag=tolees-21'
 descuento: '30.03'
 average: '20.99'

@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'Pipedream Penes - 641 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007OVZPUS/?tag=tolees-21'
 descuento: '62.33'
 average: '24.184'

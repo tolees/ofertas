@@ -16,6 +16,7 @@ comparePrice: 180.29 EUR
 prodname: 'Lotus 18208/2 - Reloj para Hombre  Cuarzo  analógico  Correa de Piel  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B015Q8BYW8/?tag=tolees-21'
 descuento: '43.51'
 average: '106.40599999999999'

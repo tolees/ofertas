@@ -16,6 +16,7 @@ comparePrice: 10.9 EUR
 prodname: 'DIY 5D Pintura de Diamante  Taladro Parcial Resina Bordado Imágenes Arte Manualidades para Hogar Decoración de Pared Colorido Animales Flamingo Caballo Patrón 11.8 x 15.7  6872  30cm x 40cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DMM5MC8/?tag=tolees-21'
 descuento: '62.84'
 average: '4.05'

@@ -16,6 +16,7 @@ comparePrice: 69.9 EUR
 prodname: 'Energy Sport CAM Extreme  Full HD 1080p  30fps  5MP  Accesorios Pro Pack  Waterproof '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00J21SRBC/?tag=tolees-21'
 descuento: '57.22'
 average: '29.9'

@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Pendientes de plata de ley 925 de conjunto de dos piezas para mujeres y niñas - Pendientes aros pequeñas de flores de cristal de circonita cúbica de 14 mm & Pendientes stud de bola pequeña de 4 mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V5YSX7Q/?tag=tolees-21'
 descuento: '80.02'
 average: '9.99'

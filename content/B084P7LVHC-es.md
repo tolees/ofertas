@@ -16,6 +16,7 @@ comparePrice: 1.67 EUR
 prodname: 'USB portátil 3.1 Tipo-C Macho a USB 3.0 A Hembra Convertidor Adaptador de Cable USB Carcasa de aleación de Aluminio Duradera Ultra Ligera - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084P7LVHC/?tag=tolees-21'
 descuento: '33.53'
 average: '1.11'

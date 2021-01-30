@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Funko Pop! - David  Rugged  Figura de Vinilo  seria Alien Covenant  13095 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072DXTH3J/?tag=tolees-21'
 descuento: '68.65'
 average: '4.909090909090909'

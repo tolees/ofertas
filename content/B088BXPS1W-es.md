@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'Slabo 2 x Protector de Pantalla blindado para Realme 6 Pro Shockproof A Prueba de Golpes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088BXPS1W/?tag=tolees-21'
 descuento: '37.55'
 average: '4.99'

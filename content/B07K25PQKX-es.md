@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'Hurley M Icon Stretch Volley 17  Bermudas  Hombre  Obsidian'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K25PQKX/?tag=tolees-21'
 descuento: '42.35'
 average: '23.06'

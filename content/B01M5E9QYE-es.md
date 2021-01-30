@@ -16,6 +16,7 @@ comparePrice: 249.99 EUR
 prodname: 'Singer HZB-12/A - Máquina de hielos  plástico  Color Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M5E9QYE/?tag=tolees-21'
 descuento: '36.40'
 average: '159.0'

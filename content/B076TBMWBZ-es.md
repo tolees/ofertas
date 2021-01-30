@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Skechers Women 12980 Low-Top Trainers  Blue  Navy/Aqua   4 UK   37 EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076TBMWBZ/?tag=tolees-21'
 descuento: '26.73'
 average: '39.91833333333334'

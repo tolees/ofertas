@@ -16,6 +16,7 @@ comparePrice: 54.99 EUR
 prodname: 'BRIKSMAX Kit de Iluminación Led para Lego Star Wars Halcón Milenario Compatible con Ladrillos de Construcción Lego Modelo 75257  Juego de Legos no Incluido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083FS9YFK/?tag=tolees-21'
 descuento: '36.37'
 average: '34.99'

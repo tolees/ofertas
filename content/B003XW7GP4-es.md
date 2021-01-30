@@ -16,6 +16,7 @@ comparePrice: 93.9 EUR
 prodname: 'HP CE320A 128A Cartucho de Tóner Original  1 unidad  negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003XW7GP4/?tag=tolees-21'
 descuento: '25.46'
 average: '69.99'

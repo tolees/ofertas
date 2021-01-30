@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Belkin F8J121BT04-BLK - Cable  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00EOEEADG/?tag=tolees-21'
 descuento: '28.01'
 average: '17.523333333333333'

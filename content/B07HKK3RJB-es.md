@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'Under Armour UA W Charged Impulse  Zapatillas de Running para Mujer  Rosa  Pink Fog/Halo Gray  601   44.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HKK3RJB/?tag=tolees-21'
 descuento: '49.44'
 average: '35.39'

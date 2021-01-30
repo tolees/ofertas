@@ -16,6 +16,7 @@ comparePrice: 46.99 EUR
 prodname: 'Philips VisaPure - Mini limpiador facial  con tecnología de limpieza por rotación y 100% resistente al agua'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076D9RGGP/?tag=tolees-21'
 descuento: '68.10'
 average: '29.57'

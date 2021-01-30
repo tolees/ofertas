@@ -16,6 +16,7 @@ comparePrice: 204.99 EUR
 prodname: 'Star vie Aquila Pro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MHBFFSL/?tag=tolees-21'
 descuento: '50.00'
 average: '102.5'

@@ -16,6 +16,7 @@ comparePrice: 6.95 EUR
 prodname: 'ARDITEX AV11918 Gorro de baño-Piscina de poliéster de Marvel-Vengadores'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C2S43CR/?tag=tolees-21'
 descuento: '49.78'
 average: '3.49'

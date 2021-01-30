@@ -16,6 +16,7 @@ comparePrice: 29.97 EUR
 prodname: 'Zenacolor - Set de 10 Canvas - Lienzos para Pintar 20x20cm - Todos los Tipos de Pintura sobre Tela - 100% Algodón sin Ácidos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PNNX5F4/?tag=tolees-21'
 descuento: '40.04'
 average: '17.97'

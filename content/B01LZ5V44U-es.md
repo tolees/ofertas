@@ -16,6 +16,7 @@ comparePrice: 2.65 EUR
 prodname: 'Timotei Champú Fresco Y Puro - 400 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LZ5V44U/?tag=tolees-21'
 descuento: '62.26'
 average: '1.0'

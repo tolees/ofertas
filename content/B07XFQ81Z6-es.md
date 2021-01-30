@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'LIGE Relojes para Hombre Cronógrafo Impermeable Dorado Acero Inoxidable Reloj de Pulsera Vestir Negocio Analógicos Relojes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XFQ81Z6/?tag=tolees-21'
 descuento: '78.47'
 average: '27.99'

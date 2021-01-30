@@ -16,6 +16,7 @@ comparePrice: 57.49 EUR
 prodname: 'Adidas Vs Advantage  Zapatillas para Hombre  Blanco  White F99256   47 1/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06W5JN91Z/?tag=tolees-21'
 descuento: '39.12'
 average: '35.0'

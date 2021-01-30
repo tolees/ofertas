@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Onlyoily Lápiz labial  5 colores mate de larga duración hidratante lápiz lápiz labial lápiz labial brillo Set'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y9MC1JX/?tag=tolees-21'
 descuento: '30.79'
 average: '8.99'

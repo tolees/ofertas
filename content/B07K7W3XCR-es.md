@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Reebok Rapide Mu  Zapatillas de Gimnasia para Hombre  Multicolor White/Solar Pink/Neon Blue  47 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K7W3XCR/?tag=tolees-21'
 descuento: '67.17'
 average: '38.623333333333335'

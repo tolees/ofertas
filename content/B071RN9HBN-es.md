@@ -16,6 +16,7 @@ comparePrice: 3.95 EUR
 prodname: 'Garnier Skin Active Gel Limpiador con Hoja de Té Verde - 200 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071RN9HBN/?tag=tolees-21'
 descuento: '36.96'
 average: '2.49'

@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Radio de Transistor portátil pequeña  L-218 Radio Am/FM Digital de Bolsillo con Tarjeta Micro TF Reproductor de MP3 de Entrada Auxiliar de Disco USB  por PRUNUS Dorado '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N23OZCR/?tag=tolees-21'
 descuento: '26.70'
 average: '21.99'

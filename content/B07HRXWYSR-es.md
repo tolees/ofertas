@@ -16,6 +16,7 @@ comparePrice: 189 EUR
 prodname: 'Eme Hybrid Challenger WPT'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HRXWYSR/?tag=tolees-21'
 descuento: '50.27'
 average: '93.99'

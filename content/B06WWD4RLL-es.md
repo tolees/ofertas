@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Guilty Gear XRD: Rev2'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06WWD4RLL/?tag=tolees-21'
 descuento: '60.02'
 average: '15.99'

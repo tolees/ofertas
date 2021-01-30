@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'HyAdierTech Almohadilla De Cuna Impermeable para Bebé  Cambiadores De Pañales y Ropa Impermeables Acolchado Bebe  Plegables  Portatil  Colchón Bebé Lavables Cama Para Bebés'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QZV4G9B/?tag=tolees-21'
 descuento: '25.08'
 average: '11.98'

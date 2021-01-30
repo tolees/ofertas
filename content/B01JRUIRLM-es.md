@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Buff Merino  Gorro lana unisex  Azul  Thermaldenim   Talla unica'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01JRUIRLM/?tag=tolees-21'
 descuento: '49.98'
 average: '14.98'

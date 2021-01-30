@@ -16,6 +16,7 @@ comparePrice: 72.99 EUR
 prodname: 'VASAGLE Carrito de Servicio de 3 Niveles  Estantería metálica con Ruedas  Organizador de Almacenamiento para Cargas Pesadas  Tablero de sobremesa  para Cocina  Sala de Estar  Vintage y Negro LRC78X'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B7L1QK4/?tag=tolees-21'
 descuento: '28.77'
 average: '51.99'

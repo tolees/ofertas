@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'Under Armour UA HOVR Sonic 2  Zapatillas de Running para Hombre  Azul  Baroque Green/Range Khaki/Baroque Green  301  301   48.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K36DHCC/?tag=tolees-21'
 descuento: '62.54'
 average: '44.95'

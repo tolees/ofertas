@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Cacerola con 2 asas  16-30 cm de diámetro  Inoxidable  Recubrimiento antiadherente  Ideal para cualquier tipo de estufa  Incluyendo Inducción  Hecho en España  26 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P5N9JLB/?tag=tolees-21'
 descuento: '26.78'
 average: '19.03'

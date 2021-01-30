@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'adidas Trefoil tee T-Shirt  Mujer  Lush Red/White  40'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081SN2YM8/?tag=tolees-21'
 descuento: '28.14'
 average: '18.405'

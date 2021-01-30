@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Beronia 198 Barricas Vino D.O.CA. Rioja - 750 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00G9BUA7M/?tag=tolees-21'
 descuento: '34.75'
 average: '16.349999999999998'

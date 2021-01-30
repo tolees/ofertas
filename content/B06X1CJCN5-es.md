@@ -16,6 +16,7 @@ comparePrice: 129.95 EUR
 prodname: 'Cluse Reloj Digital de Cuarzo Unisex con Correa de Cuero – CL40103'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06X1CJCN5/?tag=tolees-21'
 descuento: '51.59'
 average: '65.92'

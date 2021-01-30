@@ -16,6 +16,7 @@ comparePrice: 119.95 EUR
 prodname: 'PUMA Source Mid Buzzer  Zapatillas Altas Unisex Adulto  Black-Nrgy Red-Blue Turquoise  38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KFW8YYG/?tag=tolees-21'
 descuento: '70.32'
 average: '35.6'

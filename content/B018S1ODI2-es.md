@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Orbegozo GDB 3600-Plancha Grill  36 cm  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B018S1ODI2/?tag=tolees-21'
 descuento: '26.88'
 average: '21.285'

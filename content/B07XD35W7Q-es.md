@@ -16,6 +16,7 @@ comparePrice: 179.99 EUR
 prodname: 'HOMCOM Chimenea Eléctrica de Pie Movible y Decorativo Calefactor Estufa 750/1500W Llama LED con Termostato 41x25.4x52cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XD35W7Q/?tag=tolees-21'
 descuento: '77.78'
 average: '39.99'

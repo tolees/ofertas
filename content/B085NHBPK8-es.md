@@ -16,6 +16,7 @@ comparePrice: 21.83 EUR
 prodname: 'LEADSTAR Toalla Facial Infantil Muselinas Bebe Algodon Toallas de lavabo  Premium Reutilizables Toallas - Extra Suave para la piel sensible  10 Pack '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085NHBPK8/?tag=tolees-21'
 descuento: '45.08'
 average: '11.99'

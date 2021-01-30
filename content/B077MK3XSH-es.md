@@ -16,6 +16,7 @@ comparePrice: 29.1 EUR
 prodname: 'Build a Bot dec164494 Zorro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077MK3XSH/?tag=tolees-21'
 descuento: '47.77'
 average: '15.2'

@@ -16,6 +16,7 @@ comparePrice: 65.99 EUR
 prodname: 'Bellivera Giacca Corta da Donna in Ecopelle Scamosciata  Giacca da Moto con Colletto in Pelliccia Sintetica Staccabile e Fodera in Pile con Fodera in Pile per l Inverno e l’Autunno  Rojo  XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H2Y7KGF/?tag=tolees-21'
 descuento: '30.31'
 average: '45.99'

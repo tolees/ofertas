@@ -16,6 +16,7 @@ comparePrice: 134.9 EUR
 prodname: 'Tommy Hilfiger Suede Hilfiger Boatshoe  Mocasines para Hombre  Azul Desert Sky Dw5  43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V5QPNBC/?tag=tolees-21'
 descuento: '71.04'
 average: '39.07'

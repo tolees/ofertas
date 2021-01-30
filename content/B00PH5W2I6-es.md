@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'adidas Originals Superstar  Zapatillas Unisex  Niños  Blanco  Ftwr White/Core Black/Ftwr White   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00PH5W2I6/?tag=tolees-21'
 descuento: '39.96'
 average: '45.10625'

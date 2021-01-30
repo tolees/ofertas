@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'HP USB-C to VGA Adapter - Adaptador para cable  USB-C  VGA  Macho/hembra  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B019NFPWA0/?tag=tolees-21'
 descuento: '47.79'
 average: '20.88'

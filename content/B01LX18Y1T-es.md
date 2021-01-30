@@ -16,6 +16,7 @@ comparePrice: 127.46 EUR
 prodname: 'Marvel Daredevil Mini Bust'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LX18Y1T/?tag=tolees-21'
 descuento: '31.72'
 average: '82.00999999999999'

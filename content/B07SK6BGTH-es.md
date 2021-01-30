@@ -16,6 +16,7 @@ comparePrice: 99.8 EUR
 prodname: 'JXD Nueva Consola de Videojuegos Retro de 5.1 Pulgadas y 128bits incorporada en 9500 Juegos para Arcade neogeo/CPS/c/SFC/gba/gbc/GB/smc/Sega mp3/4 DV/DC Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SK6BGTH/?tag=tolees-21'
 descuento: '30.06'
 average: '71.22857142857143'

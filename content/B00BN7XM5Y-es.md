@@ -16,6 +16,7 @@ comparePrice: 26.7 EUR
 prodname: 'Ureadin Lotion 10 - 1000ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BN7XM5Y/?tag=tolees-21'
 descuento: '41.76'
 average: '19.12'

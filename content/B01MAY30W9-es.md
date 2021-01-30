@@ -16,6 +16,7 @@ comparePrice: 2.96 EUR
 prodname: 'Legrand  Marco interruptor  Marco enchufe  NILOE  Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MAY30W9/?tag=tolees-21'
 descuento: '30.74'
 average: '2.263333333333333'

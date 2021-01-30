@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'Wilson WTX0523KIT Set de Pelota de Voleibol Playa y Frisbee AVP Summer Kit Exterior Uso recreativo  Unisex Adulto  Blanco/Amarillo  Talla Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078H89XFZ/?tag=tolees-21'
 descuento: '27.94'
 average: '17.69'

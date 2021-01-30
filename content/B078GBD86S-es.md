@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Maybelline New York Dream Radiant Liquid  Base de Maquillaje Líquida con Sérum Hidratante  Tono 030 Sand'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078GBD86S/?tag=tolees-21'
 descuento: '39.44'
 average: '6.606000000000001'

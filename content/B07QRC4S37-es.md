@@ -16,6 +16,7 @@ comparePrice: 16.66 EUR
 prodname: 'Fortnite FNT0039 Durrr Burger Felpa '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QRC4S37/?tag=tolees-21'
 descuento: '44.00'
 average: '9.33'

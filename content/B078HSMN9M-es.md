@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Rocket League - Edición Coleccionista'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078HSMN9M/?tag=tolees-21'
 descuento: '50.24'
 average: '23.748333333333335'

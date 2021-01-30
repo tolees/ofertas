@@ -16,6 +16,7 @@ comparePrice: 14.88 EUR
 prodname: 'Spontex Universale - Set de 3 estropajos salvauñas con fibra de extractos minerales  color verde - [Pack de 8]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N6DXM6F/?tag=tolees-21'
 descuento: '46.24'
 average: '8.0'

@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Princess 142389 - Tostadora de doble ranura larga  1500 W  6 grados de tostado  Función de descongelado  Bandeja migas extraíble  Acero inoxidable  color plata [Clase de eficiencia energética A+++]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P34R6NG/?tag=tolees-21'
 descuento: '36.67'
 average: '37.233333333333334'

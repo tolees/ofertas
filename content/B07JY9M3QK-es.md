@@ -16,6 +16,7 @@ comparePrice: 79.9 EUR
 prodname: 'Tommy Hilfiger Jute Detail Flatform Sneaker  Zapatillas para Mujer  Azul  Midnight 403   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JY9M3QK/?tag=tolees-21'
 descuento: '69.47'
 average: '24.39'

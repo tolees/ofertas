@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Transmisor FM  Manos Libres Bluetooth para Coche  Reproductor MP3 Coche'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MPBWTK1/?tag=tolees-21'
 descuento: '46.68'
 average: '15.99'

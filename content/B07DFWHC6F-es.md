@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'New Balance 247v2  Zapatillas para Mujer  Verde  Faded Rosin/Marble Head EB   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DFWHC6F/?tag=tolees-21'
 descuento: '64.91'
 average: '33.96'

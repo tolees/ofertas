@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'EUMI Smartwatch Reloj Inteligente IP67 con Pulsómetro Presión Arterial  Duración Batería 10-15 días  Monitor de Sueño Podómetro Contador de Caloría  Pulsera Actividad Inteligente para Hombre Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084MJWBW6/?tag=tolees-21'
 descuento: '34.79'
 average: '29.99'

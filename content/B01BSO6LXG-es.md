@@ -16,6 +16,7 @@ comparePrice: 70.99 EUR
 prodname: 'Philips Serie 3000 S3510/06 - Afeitadora Eléctrica para Hombre Rotativa  Perfilador Patillas Incorporado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BSO6LXG/?tag=tolees-21'
 descuento: '34.60'
 average: '47.60333333333333'

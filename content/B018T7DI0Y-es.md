@@ -16,6 +16,7 @@ comparePrice: 139.0 EUR
 prodname: 'LUNA mini 2 de FOREO es el limpiador facial con modo anti-edad. Un cepillo facial sónico de silicona  para todo tipo de piel |Sunflower Yellow| Recargable a través USB'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B018T7DI0Y/?tag=tolees-21'
 descuento: '31.51'
 average: '91.075'

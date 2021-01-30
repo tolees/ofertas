@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Valkyria Revolution - Edición Limitada'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XY5FVZZ/?tag=tolees-21'
 descuento: '57.51'
 average: '15.497499999999999'

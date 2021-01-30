@@ -16,6 +16,7 @@ comparePrice: 149.35 EUR
 prodname: 'Plantronics BackBeat Go 3 - Auriculares y Estuche de Carga'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N8PDPTA/?tag=tolees-21'
 descuento: '47.14'
 average: '80.09125000000002'

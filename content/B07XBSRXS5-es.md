@@ -16,6 +16,7 @@ comparePrice: 44.95 EUR
 prodname: 'PUMA Logo Elastic 3/4 Tight Mallas Deporte  Mujer  Black  XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XBSRXS5/?tag=tolees-21'
 descuento: '50.28'
 average: '19.03'

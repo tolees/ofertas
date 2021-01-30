@@ -16,6 +16,7 @@ comparePrice: 42.9 EUR
 prodname: 'Playtex APP01P4 Sujetador  Blanco  95D para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XLJ6KAQ/?tag=tolees-21'
 descuento: '62.40'
 average: '16.13'

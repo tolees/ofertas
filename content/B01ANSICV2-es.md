@@ -16,6 +16,7 @@ comparePrice: 185.56 EUR
 prodname: 'Trio Lighting Embassy Trio 603800487-Plafón LED Cuadrado  IP20  E27  230 V  Color níquel Mate  60 W  Gris  50 x 50 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01ANSICV2/?tag=tolees-21'
 descuento: '54.92'
 average: '83.65'

@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'adidas V Racer 2.0  Zapatillas de Running para Hombre  Negro  Core Black/FTWR White/Grey Five Core Black/FTWR White/Grey Five   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0792QH1RM/?tag=tolees-21'
 descuento: '30.08'
 average: '39.757777777777775'

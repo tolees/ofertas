@@ -16,6 +16,7 @@ comparePrice: 129.95 EUR
 prodname: 'Reebok Nano 9  Zapatillas de Deporte para Hombre  Negro  Black/White 0   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RH3KFFL/?tag=tolees-21'
 descuento: '35.34'
 average: '84.02'

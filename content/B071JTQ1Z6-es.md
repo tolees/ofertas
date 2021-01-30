@@ -16,6 +16,7 @@ comparePrice: 259.99 EUR
 prodname: 'Tefal Optigrill XL GC722D - Plancha Grill 2000W  6 modos de cocción y 4 temperaturas ajustables con indicador del progreso  sensor de grosor  bandejas extraíbles y desmontables aptas para lavavajillas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071JTQ1Z6/?tag=tolees-21'
 descuento: '35.84'
 average: '161.36249999999998'

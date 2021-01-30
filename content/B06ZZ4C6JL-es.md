@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'UV Luz Lámpara  Ahome Ultravioleta 395nm LED Linterna  Detector de Manchas de Orina  Buscador de Chinches  Perro/Gato Quitamanchas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06ZZ4C6JL/?tag=tolees-21'
 descuento: '66.69'
 average: '9.99'

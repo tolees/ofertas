@@ -16,6 +16,7 @@ comparePrice: 12.95 EUR
 prodname: 'Revlon ColorStay Base de Maquillaje piel mixto/graso FPS15  #300 Golden Beige  30ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CD8Z1A0/?tag=tolees-21'
 descuento: '61.39'
 average: '5.9222222222222225'

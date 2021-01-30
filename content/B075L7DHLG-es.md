@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'Mipelo TN-2320 TN2320 Cartuchos de tóner  2 Negro Reemplazo Compatible para Brother DCP-L2520DW HL-L2340DW HL-L2300D MFC-L2700DW DCP-L2500D MFC-L2740DW MFC-L2720DW DCP-L2540DN HL-L2360DN HL-L2365DW'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075L7DHLG/?tag=tolees-21'
 descuento: '37.94'
 average: '17.99'

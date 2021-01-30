@@ -16,6 +16,7 @@ comparePrice: 20.72 EUR
 prodname: 'Ferilinso Funda para Xiaomi Redmi Note 8 Funda [Reforzar la versión con Cuatro Esquinas][Funda Protectora de la cámara] Funda Protectora de Silicona de Piel de Goma TPU a Prueba de Goma  Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XRL8NY5/?tag=tolees-21'
 descuento: '61.44'
 average: '7.99'

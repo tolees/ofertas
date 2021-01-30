@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Theefun Máquina de Burbujas automática Dispensador de Burbujas por Corriente o baterías para Uso en Exteriores e Interiores – Consigue Efectos Impresionantes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HFZ2L29/?tag=tolees-21'
 descuento: '27.51'
 average: '28.99'

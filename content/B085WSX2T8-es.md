@@ -16,6 +16,7 @@ comparePrice: 35.53 EUR
 prodname: 'DOUBLX Cara M-A-S-K-S  Boca desechable M-a-s-k Anti PM2.5 Anti-neblina Transpirable -Máscara de Bolsa con Polvo sellada Azul 100PCS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085WSX2T8/?tag=tolees-21'
 descuento: '43.71'
 average: '27.395'

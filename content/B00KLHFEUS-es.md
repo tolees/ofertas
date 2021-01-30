@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Lacoste YH4801 Polo  Blanco  Blanc   XL para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KLHFEUS/?tag=tolees-21'
 descuento: '25.40'
 average: '55.95'

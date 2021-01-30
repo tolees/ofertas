@@ -16,6 +16,7 @@ comparePrice: 14.98 EUR
 prodname: 'Avaner Rosa Reloj para Mujer La Torre Eiffel con Diamantes Reloj de Pulsera para Chica  Diseño Vintage Romantico Regalo Dia de la Madre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N6E5UZQ/?tag=tolees-21'
 descuento: '33.31'
 average: '9.99'

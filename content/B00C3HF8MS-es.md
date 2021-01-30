@@ -16,6 +16,7 @@ comparePrice: 27.99 EUR
 prodname: 'Rowenta CV5022 Powerline Plus Elite - Secador de 2200 W potente  función Ionic  boquilla concentradora de aire y difusor  3 velocidades y 2 temperaturas  botón de aire frío'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00C3HF8MS/?tag=tolees-21'
 descuento: '28.90'
 average: '19.95'

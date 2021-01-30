@@ -16,6 +16,7 @@ comparePrice: 15.56 EUR
 prodname: 'pjur med REPAIR glide - Lubricante sanitario acuoso - El hialurón regenera la piel seca y estresada  100ml '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003TU3T6K/?tag=tolees-21'
 descuento: '32.58'
 average: '10.49'

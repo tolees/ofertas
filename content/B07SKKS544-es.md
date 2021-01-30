@@ -16,6 +16,7 @@ comparePrice: 26.0 EUR
 prodname: 'Nike Pico 5  TDV   Gymnastics Shoe Unisex-Baby  Deep Royal Blue/White  26 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SKKS544/?tag=tolees-21'
 descuento: '50.19'
 average: '15.39'

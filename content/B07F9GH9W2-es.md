@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Rayman Legends'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F9GH9W2/?tag=tolees-21'
 descuento: '25.46'
 average: '15.59375'

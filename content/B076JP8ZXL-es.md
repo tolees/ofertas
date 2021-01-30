@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'adidas Trefoil T-Shirt  Black  XL para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076JP8ZXL/?tag=tolees-21'
 descuento: '38.26'
 average: '18.49'

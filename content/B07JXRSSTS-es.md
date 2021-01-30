@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'Nike Star Runner 2  GS   Zapatillas de Running para Asfalto Unisex Niños  Multicolor  Black/Sunset Pulse/Black/White 002   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JXRSSTS/?tag=tolees-21'
 descuento: '31.00'
 average: '27.6'

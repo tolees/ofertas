@@ -16,6 +16,7 @@ comparePrice: 363.0 EUR
 prodname: 'XFX RX-590P8DFD6  Tarjeta Gráfica  Radeon RX 590  Tamaño Único  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JQDKNXS/?tag=tolees-21'
 descuento: '39.42'
 average: '204.90666666666667'

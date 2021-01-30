@@ -16,6 +16,7 @@ comparePrice: 30.26 EUR
 prodname: 'Compartimientos plegables del almacenaje del yute  cesta de almacenaje de la revista  caja de almacenaje portable del estante  armario / envases del organizador del ático  café'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0719H3ZQW/?tag=tolees-21'
 descuento: '53.77'
 average: '13.656666666666666'

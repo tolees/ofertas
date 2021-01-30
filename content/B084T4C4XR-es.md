@@ -16,6 +16,7 @@ comparePrice: 14.38 EUR
 prodname: 'Baoblaze Gran Pincel De Escritura Acuarela Pincel De Caligrafía China Kanji Japonés Sumi Pintura Dibujo Pincel Pluma para Calígrafo - Blanco  Tal como se Describe'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084T4C4XR/?tag=tolees-21'
 descuento: '44.44'
 average: '7.99'

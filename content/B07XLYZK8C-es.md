@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Axe Necesser Ice Chill Bodyspray 150 ml + Eau de Toillete 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XLYZK8C/?tag=tolees-21'
 descuento: '33.62'
 average: '9.95'

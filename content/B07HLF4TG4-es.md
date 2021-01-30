@@ -16,6 +16,7 @@ comparePrice: 23.0 EUR
 prodname: 'Converse Tipoff Chuck Baseball Mpu 10008 Gorra de béisbol  Negro  Black 10008474-A01   Talla única Unisex Adulto'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HLF4TG4/?tag=tolees-21'
 descuento: '45.43'
 average: '12.55'

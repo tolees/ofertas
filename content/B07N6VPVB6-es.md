@@ -16,6 +16,7 @@ comparePrice: 49.0 EUR
 prodname: 'Tommy Hilfiger J Basic Women Knitted Scarf Bufanda   Black Bae   Talla única  Talla del fabricante: OS  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N6VPVB6/?tag=tolees-21'
 descuento: '50.00'
 average: '24.5'

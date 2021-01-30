@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'KiplingCity Pack SMujerMochilasVerde  Light Aloe 27x33.5x19 Centimeters  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TVPYMJ9/?tag=tolees-21'
 descuento: '44.49'
 average: '49.4'

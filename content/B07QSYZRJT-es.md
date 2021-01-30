@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Shantae: 1/2 Genie Hero - Ultimate Edition'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QSYZRJT/?tag=tolees-21'
 descuento: '32.98'
 average: '21.75'

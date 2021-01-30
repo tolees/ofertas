@@ -16,6 +16,7 @@ comparePrice: 469 EUR
 prodname: 'ASUS VA326H 31.5" Full HD Mate Negro Pantalla para PC - Monitor  80 cm  31.5"   300 CD/m²  1920 x 1080 Pixeles  4 ms  Full HD  3000:1 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071L5YRQS/?tag=tolees-21'
 descuento: '39.45'
 average: '284.84666666666664'

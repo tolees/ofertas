@@ -16,6 +16,7 @@ comparePrice: 121.61 EUR
 prodname: 'Monix Mineral-Set de 3 sartenes  20-24-28 cm  Aluminio Forjado con Antiadherente  Acabado Efecto Piedra  sin PFOA  aptas para Todo Tipo de cocinas  inlcuida Inducción  Negro  20-24-28'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H9QN59S/?tag=tolees-21'
 descuento: '44.09'
 average: '67.06692307692308'

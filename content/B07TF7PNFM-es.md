@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'LIGHTAILING Conjunto de Luces  Technic Chevrolet Corvette ZR1  Modelo de Construcción de Bloques - Kit de luz LED Compatible con Lego 42093  NO Incluido en el Modelo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TF7PNFM/?tag=tolees-21'
 descuento: '62.51'
 average: '29.99'

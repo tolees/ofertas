@@ -16,6 +16,7 @@ comparePrice: 8.61 EUR
 prodname: 'Maisto- Jeep Grand Cherokee Laredo  Color Dorado  31205GD '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BR67DVS/?tag=tolees-21'
 descuento: '37.51'
 average: '5.38'

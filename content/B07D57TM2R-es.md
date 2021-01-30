@@ -16,6 +16,7 @@ comparePrice: 5.39 EUR
 prodname: 'COMVIP Mujer    metal común'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D57TM2R/?tag=tolees-21'
 descuento: '38.96'
 average: '3.29'

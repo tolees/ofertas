@@ -16,6 +16,7 @@ comparePrice: 21.09 EUR
 prodname: 'Beronia Gran Reserva Vino D.O.CA. Rioja - 750 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079FG5J8X/?tag=tolees-21'
 descuento: '51.30'
 average: '10.27'

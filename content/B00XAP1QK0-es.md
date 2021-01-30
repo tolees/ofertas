@@ -16,6 +16,7 @@ comparePrice: 11.79 EUR
 prodname: 'Haribo - Cartucheras - Dulces de regaliz - 1.5 kg'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XAP1QK0/?tag=tolees-21'
 descuento: '33.50'
 average: '7.789090909090909'

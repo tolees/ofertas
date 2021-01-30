@@ -16,6 +16,7 @@ comparePrice: 22.0 EUR
 prodname: 'Sensilis - Sun Secret - Complemento Alimenticio de Protección Solar vía Oral - 30 Cápsulas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XQKXLSY/?tag=tolees-21'
 descuento: '62.68'
 average: '8.826'

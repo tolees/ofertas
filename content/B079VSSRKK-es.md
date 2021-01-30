@@ -16,6 +16,7 @@ comparePrice: 25.49 EUR
 prodname: 'Weider Vegan Diet Meal Choco 540 Gr. Sutituto de comida 100% vegano.Sin gluten. Ideal para dieta'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079VSSRKK/?tag=tolees-21'
 descuento: '53.12'
 average: '11.95'

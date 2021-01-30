@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'GRIDINLUX. Batería de Titanio y Fondo de Piedra. 25 Piezas. 12 Utensilios y 1 Delantal  Batería Completa  Antiadherente  Juego Set Ollas  Apta para todo tipo de Cocinas  Fácil limpieza'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y5CSH9N/?tag=tolees-21'
 descuento: '49.71'
 average: '165.416'

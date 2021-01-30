@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'Helly Hansen HH Scout Wash Bag Neceser  Unisex Adulto  Glacier Blue  STD'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZV2M5XG/?tag=tolees-21'
 descuento: '47.55'
 average: '10.49'

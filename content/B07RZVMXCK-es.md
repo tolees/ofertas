@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'PUMA Clean Sw St Cl Chándal  Hombre  Gris  Medium Gray Heather   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RZVMXCK/?tag=tolees-21'
 descuento: '35.44'
 average: '41.93'

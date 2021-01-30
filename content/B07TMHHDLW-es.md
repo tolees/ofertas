@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'Levi s Original Batwing Polo  Multicolor  Vine Stripe Skyway/Clearwater/Riverside 0006   XX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TMHHDLW/?tag=tolees-21'
 descuento: '40.02'
 average: '29.29'

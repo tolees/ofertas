@@ -16,6 +16,7 @@ comparePrice: 84.95 EUR
 prodname: 'PUMA Suede Classic +  Zapatillas para Hombre  Azul  Peacoat/White   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00PAJNQES/?tag=tolees-21'
 descuento: '41.15'
 average: '52.1575'

@@ -16,6 +16,7 @@ comparePrice: 349.0 EUR
 prodname: 'Fissler vitavit premium / Olla a presión  10 litros  Ø 26 cm  de acero inoxidable  2 niveles de cocción  apta para cocinas de inducción  gas  vitrocerámica y eléctricas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002RX4VYE/?tag=tolees-21'
 descuento: '51.48'
 average: '169.32'

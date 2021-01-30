@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Kipling - Fundamental Nc  Mochilas Mujer  Azul  Dynamic Blue '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DKFC5NF/?tag=tolees-21'
 descuento: '50.00'
 average: '37.5'

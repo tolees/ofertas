@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'Baby Eistein - Pulpo 3 Idiomas Baby Einstein'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000TFLAZA/?tag=tolees-21'
 descuento: '27.42'
 average: '19.59'

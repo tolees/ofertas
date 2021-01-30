@@ -16,6 +16,7 @@ comparePrice: 129.95 EUR
 prodname: 'Salomon XA Pro 3D W Zapatillas de trail running Mujer  Morado  Potent Purple/Navy Blazer/Bluestone   36 2/3 EU  4 UK '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KWB2PW7/?tag=tolees-21'
 descuento: '54.44'
 average: '66.02'

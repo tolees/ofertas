@@ -16,6 +16,7 @@ comparePrice: 47.99 EUR
 prodname: 'BRIKSMAX Kit de Iluminación Led para Lego Jurassic World helicóptero de Blue Compatible con Ladrillos de Construcción Lego Modelo 75928  Juego de Legos no Incluido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y1PJF4T/?tag=tolees-21'
 descuento: '62.51'
 average: '17.99'

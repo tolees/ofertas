@@ -16,6 +16,7 @@ comparePrice: 9.5 EUR
 prodname: 'Bourjois Push Up Máscara de pestañas Tono 71 Waterproof black  - 37 gr.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ZPJ2A4U/?tag=tolees-21'
 descuento: '26.42'
 average: '6.99'

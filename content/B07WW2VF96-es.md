@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Ballery Bolsa de Pañales  Bolsa Mojado Lavable Mojado y Seco Bolsa de Pañales Reutilizable Bebe Bolsas Pañales Sucios Organizador Impermeable proof Húmeda Seca con Doble Cremallera  L & L  Verde '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WW2VF96/?tag=tolees-21'
 descuento: '47.09'
 average: '8.99'

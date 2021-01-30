@@ -16,6 +16,7 @@ comparePrice: 85.0 EUR
 prodname: 'American Tourister Holiday Heat - Spinner Equipaje de Mano  55 cm  38 l  Negro  Black '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CPZ1HNY/?tag=tolees-21'
 descuento: '27.65'
 average: '65.5'

@@ -16,6 +16,7 @@ comparePrice: 38.49 EUR
 prodname: 'adidas Club Sw Short 7 Pantalones Cortos de Deporte  Hombre  White  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KMPCHBN/?tag=tolees-21'
 descuento: '50.01'
 average: '26.68'

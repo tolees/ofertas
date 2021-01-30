@@ -16,6 +16,7 @@ comparePrice: 181.86 EUR
 prodname: 'Burrito Blanco Juego de Sábanas Blanco de Hostelería para Cama de Matrimonio de 135 cm x 190/200 cm  Disponible en más Medidas '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HY0HUFQ/?tag=tolees-21'
 descuento: '90.00'
 average: '20.863333333333333'

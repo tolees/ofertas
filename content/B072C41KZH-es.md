@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Crock-Pot CSC038X DuraCeramic - Olla de Cocción Lenta Manual con Tapa Abatible  Recipiente Compatible con Fuego e Inducción  para Preparar todo Tipo de Recetas  4.5 litros  Acero Inoxidable  Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072C41KZH/?tag=tolees-21'
 descuento: '29.29'
 average: '59.053333333333335'

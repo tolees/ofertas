@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'Converse Taylor Chuck 70 Hi  Sneaker Unisex-Adult  White Garnet Egret  43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077C61MXM/?tag=tolees-21'
 descuento: '31.87'
 average: '61.32'

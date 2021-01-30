@@ -16,6 +16,7 @@ comparePrice: 9.98 EUR
 prodname: 'JOYTAG Carcasa ultrafina para Xiaomi Redmi 5 Plus  360 grados  color rojo y negro mate  protección todo incluido 3 en 1  incluye film de vidrio templado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FW9X2HD/?tag=tolees-21'
 descuento: '40.08'
 average: '5.98'

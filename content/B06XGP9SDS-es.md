@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Stranger Things Llavero de Vinilo Demogorgon Open Face  Multicolor  Funko 14228 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XGP9SDS/?tag=tolees-21'
 descuento: '35.74'
 average: '9.430000000000001'

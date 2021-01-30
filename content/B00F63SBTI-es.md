@@ -16,6 +16,7 @@ comparePrice: 25.54 EUR
 prodname: 'Chloe 22812 - Desodorante  100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00F63SBTI/?tag=tolees-21'
 descuento: '37.55'
 average: '15.95'

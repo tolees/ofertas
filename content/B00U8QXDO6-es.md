@@ -16,6 +16,7 @@ comparePrice: 4.8 EUR
 prodname: 'Beter Swing - Lima ergonómica láser'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00U8QXDO6/?tag=tolees-21'
 descuento: '59.38'
 average: '1.95'

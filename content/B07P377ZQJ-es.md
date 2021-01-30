@@ -16,6 +16,7 @@ comparePrice: 16.43 EUR
 prodname: 'Moon and Back de Hanna Andersson - Pack de 3 pantalones de chándal de algodón orgánico para bebé  Gris  0-3 messes  46-56 CM '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P377ZQJ/?tag=tolees-21'
 descuento: '65.12'
 average: '5.73'

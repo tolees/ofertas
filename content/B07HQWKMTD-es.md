@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Superga 2802-cotw  Zapatillas de Gimnasia para Mujer  Blanco  White 901   35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HQWKMTD/?tag=tolees-21'
 descuento: '80.80'
 average: '13.83'

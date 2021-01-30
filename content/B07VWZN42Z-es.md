@@ -16,6 +16,7 @@ comparePrice: 379.9 EUR
 prodname: 'Könighaus - Calefactor por infrarrojos  800 y 1000 W  12-34 m²   Blanco  800 mit integriertem Smart Thermostat 1000.00watts'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VWZN42Z/?tag=tolees-21'
 descuento: '52.65'
 average: '179.9'

@@ -16,6 +16,7 @@ comparePrice: 149.95 EUR
 prodname: 'iSmart Alarm Paquete inteligente de seguridad para el estudios y apartamentos de 1 dormitorio  Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MSOTSJ5/?tag=tolees-21'
 descuento: '56.20'
 average: '65.68'

@@ -16,6 +16,7 @@ comparePrice: 27.99 EUR
 prodname: 'Lepfun SS154/SS155 Tobilleras Deportivas de Compresión Tobillera Estabilizadora para Esguince de Tobillo Fascitis Plantar  Soporte de Tobillos Tobillera Proteccion  Large  SS154 Silver '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TBDH3R9/?tag=tolees-21'
 descuento: '50.02'
 average: '13.99'

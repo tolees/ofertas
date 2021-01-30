@@ -16,6 +16,7 @@ comparePrice: 11.95 EUR
 prodname: 'West Ham United FC Pijamas de Manga Corta para niños Football Club Multicolor 3-4 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PRM5MRJ/?tag=tolees-21'
 descuento: '33.47'
 average: '7.95'

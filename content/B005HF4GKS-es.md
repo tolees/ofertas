@@ -16,6 +16,7 @@ comparePrice: 11.98 EUR
 prodname: 'Han Rondo - Organizador de escritorio  9 compartimentos  1140 x 109 x 140 mm   color blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005HF4GKS/?tag=tolees-21'
 descuento: '29.30'
 average: '8.47'

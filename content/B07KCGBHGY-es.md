@@ -16,6 +16,7 @@ comparePrice: 31.77 EUR
 prodname: 'Baoblaze Commlite Ct-g430cr Receptor de Disparo de Flash de Estudio Multifuncional para Canon'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KCGBHGY/?tag=tolees-21'
 descuento: '44.44'
 average: '17.0075'

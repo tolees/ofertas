@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'NGK CR9E - Bujía'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000CSIRWI/?tag=tolees-21'
 descuento: '50.10'
 average: '7.113333333333333'

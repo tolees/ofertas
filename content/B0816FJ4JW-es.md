@@ -16,6 +16,7 @@ comparePrice: 6.99 EUR
 prodname: 'Funda con Cuerda para Samsung Galaxy A70 - Carcasa Samsung A70 de TPU con Colgante Case con Correa Colgante - con Cordon para Llevar en el Cuello en Transparente/Oro rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0816FJ4JW/?tag=tolees-21'
 descuento: '75.82'
 average: '1.69'

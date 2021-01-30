@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Carterón Pepe Jeans Jake'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071ZZBBX5/?tag=tolees-21'
 descuento: '49.96'
 average: '19.99'

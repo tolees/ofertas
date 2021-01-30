@@ -16,6 +16,7 @@ comparePrice: 2.29 EUR
 prodname: 'Panamar S485 a TTL Módulo TTL a RS485 Convertidor de señal 3V 5.5V Puerto Serie Aislado de un Solo Chip Módulo de Grado Industrial UART - Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08DMWDS54/?tag=tolees-21'
 descuento: '33.62'
 average: '1.52'

@@ -16,6 +16,7 @@ comparePrice: 75 EUR
 prodname: 'Under Armour Remix  Zapatillas de Running para Hombre  Marrón  Khaki Base/Summit White/Summit White  200  200   40.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CVC168V/?tag=tolees-21'
 descuento: '55.47'
 average: '30.905'

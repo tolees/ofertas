@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'adidas Campus  Zapatillas de Deporte para Hombre  Azul  Azuosc / Ftwbla / Blatiz   45 1/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071ZVKLJN/?tag=tolees-21'
 descuento: '50.00'
 average: '45.0'

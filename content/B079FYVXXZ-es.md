@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Samsung Protective Standing Cover - Funda para Galaxy S9+  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079FYVXXZ/?tag=tolees-21'
 descuento: '53.66'
 average: '17.98'

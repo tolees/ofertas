@@ -16,6 +16,7 @@ comparePrice: 54.99 EUR
 prodname: 'Taurus Horizon 9 - Horno Electrico  800 W  Acero 18/10  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06Y5TT9JP/?tag=tolees-21'
 descuento: '38.92'
 average: '36.8425'

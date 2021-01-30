@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Destiny Games Figura de Vinilo Oryx  Funko 20366 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0714BMC1K/?tag=tolees-21'
 descuento: '37.37'
 average: '9.835'

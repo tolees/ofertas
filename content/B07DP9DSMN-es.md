@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Trials Rising - Gold Edition'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DP9DSMN/?tag=tolees-21'
 descuento: '50.15'
 average: '14.425'

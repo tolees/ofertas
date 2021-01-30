@@ -16,6 +16,7 @@ comparePrice: 4.46 EUR
 prodname: 'S.Oliver Big Size 15.001.35.2335 Polo  Verde  Pond 6903   5XL para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YLCM4X1/?tag=tolees-21'
 descuento: '26.46'
 average: '3.8699999999999997'

@@ -16,6 +16,7 @@ comparePrice: 95.93 EUR
 prodname: 'Winsor & Newton Cotman - Set studio de acuarela  45 medio godets'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000XYHYI4/?tag=tolees-21'
 descuento: '53.66'
 average: '43.73833333333334'

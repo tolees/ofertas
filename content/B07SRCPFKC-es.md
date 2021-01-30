@@ -16,6 +16,7 @@ comparePrice: 139.95 EUR
 prodname: 'adidas NMD_r1  Zapatillas de Gimnasia para Hombre  Blanco  FTWR White/FTWR White/Vapour Pink FTWR White/FTWR White/Vapour Pink   40 2/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SRCPFKC/?tag=tolees-21'
 descuento: '50.00'
 average: '69.97'

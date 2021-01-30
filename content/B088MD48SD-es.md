@@ -16,6 +16,7 @@ comparePrice: 21.59 EUR
 prodname: 'Foto Clip Cadena de Luces LED  Guirnalda de Luces para Decoración de Fotos I 40 LEDs 6m I Pinzas fotos I Fotoclips I Clip Cadena de Luces'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088MD48SD/?tag=tolees-21'
 descuento: '37.05'
 average: '13.59'

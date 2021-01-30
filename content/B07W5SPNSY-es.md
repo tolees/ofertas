@@ -16,6 +16,7 @@ comparePrice: 16.49 EUR
 prodname: 'Usogood - Prismáticos  10 x 25 mm  compactos  resistentes al agua '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W5SPNSY/?tag=tolees-21'
 descuento: '38.02'
 average: '10.22'

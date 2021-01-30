@@ -16,6 +16,7 @@ comparePrice: 23.98 EUR
 prodname: 'TOUCHBeauty TB-1653 Afeitadora femenina facial/corporal impermeable y portátil cuchilla ergonómico uso en seco y húmedo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01EQRTNHS/?tag=tolees-21'
 descuento: '41.70'
 average: '13.98'

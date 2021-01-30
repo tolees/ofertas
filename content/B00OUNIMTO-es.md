@@ -16,6 +16,7 @@ comparePrice: 195.5 EUR
 prodname: 'AUSONIA - 68301 JAMONERO PROFESIONAL DE BASE DE MADERA'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00OUNIMTO/?tag=tolees-21'
 descuento: '28.39'
 average: '140.0'

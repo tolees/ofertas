@@ -16,6 +16,7 @@ comparePrice: 39.0 EUR
 prodname: 'Kipling Money Love  Carteras para Mujer  Multicolor  Camo Large   9.5x12.5x2.5 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PSJ4HN7/?tag=tolees-21'
 descuento: '58.97'
 average: '16.0'

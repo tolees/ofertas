@@ -16,6 +16,7 @@ comparePrice: 23.71 EUR
 prodname: 'Artdeco High Definition Foundation 11 Medium Honey Beige Podkład do twarzy rozświetlający'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00I8KRWB4/?tag=tolees-21'
 descuento: '39.81'
 average: '14.27'

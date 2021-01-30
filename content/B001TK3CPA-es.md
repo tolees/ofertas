@@ -16,6 +16,7 @@ comparePrice: 79.0 EUR
 prodname: 'Casio Reloj de Pulsera MTP-1290D-2AVEF'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001TK3CPA/?tag=tolees-21'
 descuento: '44.37'
 average: '46.31166666666667'

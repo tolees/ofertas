@@ -16,6 +16,7 @@ comparePrice: 12.5 EUR
 prodname: 'Compo 1200602005 - Fertilizante bonsái  250 ml  Color Verde  6 3 x 7 x 15 5 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00PDIUSTC/?tag=tolees-21'
 descuento: '67.20'
 average: '6.869999999999999'

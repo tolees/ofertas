@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'PUMA Carina Lux L  Zapatillas para Mujer  Black Black  40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KFYF74Z/?tag=tolees-21'
 descuento: '64.28'
 average: '23.2'

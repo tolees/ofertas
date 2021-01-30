@@ -16,6 +16,7 @@ comparePrice: 73.25 EUR
 prodname: 'Goodthreads Packable Down Jacket Outerwear-Jackets  Dorado  US XXL  EU XXXL-4XL '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P4PHN5R/?tag=tolees-21'
 descuento: '27.37'
 average: '53.2'

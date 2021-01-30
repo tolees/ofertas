@@ -16,6 +16,7 @@ comparePrice: 58.9 EUR
 prodname: 'Todocama - Almohada viscoelástica Cervical con diseño ergonómico terapéutico. Doble Funda extraíble y Lavable. Fabricada íntegramente en España. Almohada Premium.  Pack de 2 Almohadas de 67x35x13cm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NRS12XC/?tag=tolees-21'
 descuento: '49.24'
 average: '29.9'

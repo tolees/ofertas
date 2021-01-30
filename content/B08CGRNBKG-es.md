@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Colmanda Bolsa de Dulces de Dinosaurio  24pcs Bolsa de Regalo de Papel con Pegatina Dinosaurio  Papel Regalo Bolsas para Niños Suministros Fiesta de Cumpleaños  4 Colores'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CGRNBKG/?tag=tolees-21'
 descuento: '43.50'
 average: '12.99'

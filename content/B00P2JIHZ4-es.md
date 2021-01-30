@@ -16,6 +16,7 @@ comparePrice: 50.66 EUR
 prodname: 'Pendrive 2 GB 10 Piezas Memorias USB 2.0 - Portátil 2GB Pen Drive 10 Unidades Flash Drives Multicolor Pulsera Unidad USB - FEBNISCTE Práctico Económico Llaves USB Regalo para Niño Hija Hijo Familia'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00P2JIHZ4/?tag=tolees-21'
 descuento: '27.64'
 average: '36.66'

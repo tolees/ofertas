@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Cubitera Hielo Silicona  Moldes Para Hielo 2 En 1 Ice Cube Maker Bandeja De Cubitos De Hielo Con Tapas Antideslizantes Moldes Cubitera Silicona Para Whisky  CóCteles Y Bebidas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086W1JKCC/?tag=tolees-21'
 descuento: '35.27'
 average: '12.94'

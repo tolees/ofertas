@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'Gioseppo 40840  Botas Slouch para Mujer  Azul Marino  39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZPDR43/?tag=tolees-21'
 descuento: '48.27'
 average: '23.703333333333333'

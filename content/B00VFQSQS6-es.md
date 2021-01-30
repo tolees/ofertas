@@ -16,6 +16,7 @@ comparePrice: 475 EUR
 prodname: 'Samsonite Lite-Shock - Spinner M Maleta  69 cm  73 L  Marrón  Sand '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00VFQSQS6/?tag=tolees-21'
 descuento: '35.09'
 average: '308.3'

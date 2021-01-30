@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'LEVIS FOOTWEAR AND ACCESSORIES Webb  Zapatillas para Hombre  Negro  Regular Black 59   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F176BHJ/?tag=tolees-21'
 descuento: '37.56'
 average: '44.555'

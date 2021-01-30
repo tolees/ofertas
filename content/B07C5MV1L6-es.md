@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Andven USB Transmisor Bluetooth  Portátil Inalámbrico Música Adaptador Transmitter  para TV/Ordenador/Auriculares/Altavoz  Baja Latencia  Alta Fidelidad Estéreo  Plug and Play'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C5MV1L6/?tag=tolees-21'
 descuento: '43.84'
 average: '12.485'

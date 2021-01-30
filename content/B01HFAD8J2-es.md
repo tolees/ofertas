@@ -16,6 +16,7 @@ comparePrice: 130.0 EUR
 prodname: 'Merrell Moab 2 GTX  Zapatillas de Senderismo para Hombre  Gris  Beluga   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HFAD8J2/?tag=tolees-21'
 descuento: '50.04'
 average: '64.95'

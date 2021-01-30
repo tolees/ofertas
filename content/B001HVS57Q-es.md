@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Beurer UB30 Calientacamas individual 100% algodón en capa superior  transpirable  lavable a mano  3 potencias  display iluminado  cama individual  75x130cm  blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001HVS57Q/?tag=tolees-21'
 descuento: '30.92'
 average: '29.21666666666667'

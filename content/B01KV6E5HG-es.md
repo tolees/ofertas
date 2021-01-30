@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'MiroPure Cepillo Limpiador Eléctrico Facial y corporal   Cepillo Cara Cepillo limpiador sónico facial impermeable para limpieza profunda  4 configuraciones de velocidad 2 cabezales de cepillo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01KV6E5HG/?tag=tolees-21'
 descuento: '36.68'
 average: '18.212222222222223'

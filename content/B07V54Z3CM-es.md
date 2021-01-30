@@ -16,6 +16,7 @@ comparePrice: 6.14 EUR
 prodname: 'Amarillo 25 x 22 x 2 mm  L x W xH  2 Piezas Adaptador Micro SD de Tarjeta SD MASD-1 para Insertar en la Tarjeta XD para Olympus'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V54Z3CM/?tag=tolees-21'
 descuento: '35.02'
 average: '3.99'

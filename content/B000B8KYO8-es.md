@@ -16,6 +16,7 @@ comparePrice: 41.5 EUR
 prodname: 'Leifheit Portarrollos de pared Parat Royal para 3 rollos  porta rollos para un corte limpio  portarrollos de cocina de acero inoxidable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000B8KYO8/?tag=tolees-21'
 descuento: '30.89'
 average: '30.85058823529412'

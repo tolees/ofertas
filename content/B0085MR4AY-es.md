@@ -16,6 +16,7 @@ comparePrice: 454.9 EUR
 prodname: 'HP CE250XD - Pack 2 cartuchos de tóner'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0085MR4AY/?tag=tolees-21'
 descuento: '34.05'
 average: '299.99'

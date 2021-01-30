@@ -16,6 +16,7 @@ comparePrice: 42.9 EUR
 prodname: 'Tommy Hilfiger 3p Lr Trunk Calcetines  Negro  Black 990   Large  Pack de 3  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00K5R9CWK/?tag=tolees-21'
 descuento: '35.92'
 average: '26.159999999999997'

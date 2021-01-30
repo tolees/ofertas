@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: '20M Tiras-Led Música Bluetooth  TASMOR Tira led RGB 5050 Multicolores  Sincronización con Música  Controlado con Móvil APP  24V 600 Leds  Luces Led Decorativas para Habitación'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086VXWDD4/?tag=tolees-21'
 descuento: '31.54'
 average: '32.815'

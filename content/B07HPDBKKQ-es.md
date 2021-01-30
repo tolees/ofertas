@@ -16,6 +16,7 @@ comparePrice: 1439.0 EUR
 prodname: 'Apple iPhone XS  de 512GB  - Oro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HPDBKKQ/?tag=tolees-21'
 descuento: '34.75'
 average: '959.9999999999999'

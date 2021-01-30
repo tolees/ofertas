@@ -16,6 +16,7 @@ comparePrice: 6.35 EUR
 prodname: 'ANDR.SECCHIELLO CUP CAKE 21 C/ACCES 1290   Modelos/colores Surtidos  1 Unidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00EPLG02M/?tag=tolees-21'
 descuento: '25.20'
 average: '4.75'

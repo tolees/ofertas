@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'TAILI Estante de baño Cesta para Ducha Almacenamiento  Organizador Sin daños  Autoadhesivo para champú  Esponja  Cuchillas y Otros artículos de higiene'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JJXR3FJ/?tag=tolees-21'
 descuento: '33.57'
 average: '13.28'

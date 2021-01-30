@@ -16,6 +16,7 @@ comparePrice: 130.0 EUR
 prodname: 'Clarks Tri Spark  Zapatillas para Hombre  Blanco  White Leather-   46 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FR7S25T/?tag=tolees-21'
 descuento: '76.82'
 average: '30.14'

@@ -16,6 +16,7 @@ comparePrice: 2.47 EUR
 prodname: 'Caja de Almacenamiento de batería AAA Soporte de Caja de plástico con Cable de 6    para 1 x Pilas AAA para Soldadura Conexión Negra'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088TN3BCF/?tag=tolees-21'
 descuento: '40.08'
 average: '1.48'

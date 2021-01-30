@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Seguridad con válvula de respiración adecuada para muchas ocasiones  protección personal para hombres y mujeres adultos  5 unidades '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086HJW7WR/?tag=tolees-21'
 descuento: '52.82'
 average: '16.98'

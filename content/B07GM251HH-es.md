@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Rubie s 700594 - Disfraz de Captain Marvel   Multicolor  medium'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GM251HH/?tag=tolees-21'
 descuento: '27.31'
 average: '23.506666666666668'

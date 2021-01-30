@@ -16,6 +16,7 @@ comparePrice: 53.29 EUR
 prodname: 'Winsor & Newton- Winton Set de 10 Tubos de 37 ml de óleo  Multicolor  Colart 1490619 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002E9GUZ4/?tag=tolees-21'
 descuento: '42.95'
 average: '27.495'

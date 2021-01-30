@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Kappa Overton  Zapatillas Unisex Adulto  White/Red 1020  36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LBGF144/?tag=tolees-21'
 descuento: '54.29'
 average: '18.26'

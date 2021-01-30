@@ -16,6 +16,7 @@ comparePrice: 16.97 EUR
 prodname: 'Hombres Sombrero de Safari Bucket Hat Verano Protección UV al Aire Libre Plegable Pesca Hat'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QLQNR3W/?tag=tolees-21'
 descuento: '25.28'
 average: '12.68'

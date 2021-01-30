@@ -16,6 +16,7 @@ comparePrice: 17.85 EUR
 prodname: 'fascinations- Darth Vader s Tie Fighter Maqueta metálica 3D Star Wars  Color Plata  MMS253 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00GY9A2N6/?tag=tolees-21'
 descuento: '39.22'
 average: '12.27'

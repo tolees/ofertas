@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'Converse Chuck Taylor All Star Hi  Zapatillas Altas Unisex Adulto  Blanco  Bianco  Optical White   51.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0007CO8XQ/?tag=tolees-21'
 descuento: '69.23'
 average: '30.95942857142857'

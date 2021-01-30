@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'New Balance Msx90tv1  Zapatillas para Hombre  Gris  Grey Grey   45.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KRLPC14/?tag=tolees-21'
 descuento: '55.79'
 average: '48.63'

@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'TELMU Microscopio Óptico Profesionales  Microscopios Monoculares Biológicos para Adultos y Estudiantes y Niños con Diapositivas Preparadas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089YTFF7R/?tag=tolees-21'
 descuento: '38.46'
 average: '79.99'

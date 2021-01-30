@@ -16,6 +16,7 @@ comparePrice: 124.95 EUR
 prodname: 'Babymoov procesador de alimentos para bebés Nutribaby classic color Cereza – A001114'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00WFGI0JK/?tag=tolees-21'
 descuento: '62.22'
 average: '47.2'

@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Cuchillo japonés Cuchillo sushi pro Cuchillo Santoku 17cm  Alemania Cuchillo de Acero Inoxidable de Sushi para Cocina y Restaurante'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0722VS7FT/?tag=tolees-21'
 descuento: '33.34'
 average: '26.656666666666666'

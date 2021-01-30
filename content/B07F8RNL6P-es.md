@@ -16,6 +16,7 @@ comparePrice: 69.9 EUR
 prodname: 'Samsung Led View - Funda para Galaxy Note 9  color azul- Version española'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F8RNL6P/?tag=tolees-21'
 descuento: '55.68'
 average: '30.98'

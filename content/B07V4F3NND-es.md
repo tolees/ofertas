@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Tom Tailor Print Polo  Gris  Grey Triangle Design 22587   M para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V4F3NND/?tag=tolees-21'
 descuento: '71.68'
 average: '7.36'

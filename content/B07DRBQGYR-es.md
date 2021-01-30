@@ -16,6 +16,7 @@ comparePrice: 27.99 EUR
 prodname: 'Papel de Lija de 60 Piezas 40  60  80  120  180  240 Granos Surtidos 125mm Tacklife ASD03C Papeles de Lija Abrasivos con 8 Agujeros  Velcro Durable para Lijadora Excéntrica  Seco  Cambio Rápido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DRBQGYR/?tag=tolees-21'
 descuento: '28.58'
 average: '15.389999999999999'

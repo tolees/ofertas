@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'Reloj CASIO G-SHOCK DW-5600E-1V Cronógrafo  Alarma  Cuenta regresiva  Sumergible 20BAR-Correa de caucho negra'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000GAYQKY/?tag=tolees-21'
 descuento: '33.39'
 average: '60.475'

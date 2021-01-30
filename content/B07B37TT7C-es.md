@@ -16,6 +16,7 @@ comparePrice: 19.4 EUR
 prodname: 'Goula- Maxi cosí Jungla  Multicolor  52045 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B37TT7C/?tag=tolees-21'
 descuento: '50.00'
 average: '9.7'

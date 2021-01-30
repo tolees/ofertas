@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'IPOTCH Silicona Superior/Inferior Falsos Carillas Dentaduras Falsos - 7 x 5 x 2 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZXMMQ1M/?tag=tolees-21'
 descuento: '33.37'
 average: '5.99'

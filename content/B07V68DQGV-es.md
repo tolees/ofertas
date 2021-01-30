@@ -16,6 +16,7 @@ comparePrice: 124.45 EUR
 prodname: 'Masthome - Sartén para Leche con Olla  10 Piezas  Acero Inoxidable  Apta para inducción  304/0 6 mm  Cubierta de Acero Plana  sin Agujeros de Aire  Incluye Cuchara medidora  3 espátulas y 5 paños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V68DQGV/?tag=tolees-21'
 descuento: '60.19'
 average: '56.983333333333334'

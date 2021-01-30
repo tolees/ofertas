@@ -16,6 +16,7 @@ comparePrice: 71.0 EUR
 prodname: 'Nike Air MAX Axis  PS   Zapatillas de Running para Niños  Blanco  White/Black 100   29 1/2 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NJLF5MN/?tag=tolees-21'
 descuento: '51.97'
 average: '34.1'

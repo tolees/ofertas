@@ -16,6 +16,7 @@ comparePrice: 7.98 EUR
 prodname: 'ADJU Muñeca Flip Octopus de Doble Cara  Lindo Pulpo Reversible Peluches Pulpo Reversible Peluches Muñeca niños  Familiares  Amigos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08DF7CBSM/?tag=tolees-21'
 descuento: '26.32'
 average: '5.88'

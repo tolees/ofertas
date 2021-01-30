@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'Qomolo Esterillas Inflables Camping  Ultraligera Esterilla Acampada Camping con Almohada  Portátil Colchon Acampada para Al Aire Libre Viajes  Playa  Picnic Senderismo y Escalada'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08617LDGQ/?tag=tolees-21'
 descuento: '59.43'
 average: '27.99'

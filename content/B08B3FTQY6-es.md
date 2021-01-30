@@ -16,6 +16,7 @@ comparePrice: 73.08 EUR
 prodname: 'Aire Acondicionado Portátil Mini Enfriador de Aire con 3 Niveles de Potencia 7 Colores Luz 4 en 1 Air Cooler Ventilador Humidificador y Purificador para Trabajo y Hogar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08B3FTQY6/?tag=tolees-21'
 descuento: '41.19'
 average: '42.98'

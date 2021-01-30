@@ -16,6 +16,7 @@ comparePrice: 12.9 EUR
 prodname: 'En Tus Planes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082BXBJNT/?tag=tolees-21'
 descuento: '30.23'
 average: '9.0'

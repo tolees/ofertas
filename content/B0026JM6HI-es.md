@@ -16,6 +16,7 @@ comparePrice: 42.5 EUR
 prodname: 'Calvin Klein Seductive Comfort-Customized Lift Sujetador  Beige   I45 Dune   70D para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0026JM6HI/?tag=tolees-21'
 descuento: '52.00'
 average: '20.366666666666667'

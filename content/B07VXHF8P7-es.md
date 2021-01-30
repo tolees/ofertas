@@ -16,6 +16,7 @@ comparePrice: 85.58 EUR
 prodname: 'Qkiss Depiladora Luz Pulsada  Depiladora Luz Pulsada para la Depilación Permanente  Sistema de Depilación para Mujeres y Hombres Depilación Indolora  Depiladora Portátil con 2 Lámparas  Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VXHF8P7/?tag=tolees-21'
 descuento: '45.21'
 average: '46.89'

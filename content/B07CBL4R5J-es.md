@@ -16,6 +16,7 @@ comparePrice: 23.9 EUR
 prodname: 'Bella Aurora Crema Facial Protector Solar Pre-Base  Maquillaje Perfeccionadora SPF 50+ Anti-Manchas Protege y Repara No Comedogénico  30 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CBL4R5J/?tag=tolees-21'
 descuento: '33.26'
 average: '15.95'

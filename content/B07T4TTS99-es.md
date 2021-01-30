@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'NIKE BA5819 Mochilla de Deporte  Unisex Adulto  Deep Royal Azul/Noble Rojo  Talla Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T4TTS99/?tag=tolees-21'
 descuento: '50.14'
 average: '17.45'

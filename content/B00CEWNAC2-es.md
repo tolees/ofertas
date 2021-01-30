@@ -16,6 +16,7 @@ comparePrice: 20.54 EUR
 prodname: 'Trofolastin Senos - Crema antiestrías para senos  previene la aparición de estrías  reafirmante - 75 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00CEWNAC2/?tag=tolees-21'
 descuento: '51.80'
 average: '9.916666666666668'

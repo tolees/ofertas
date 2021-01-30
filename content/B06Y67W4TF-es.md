@@ -16,6 +16,7 @@ comparePrice: 21.98 EUR
 prodname: 'Joma Champion IV Sudaderas  Mujer  Rojo-Blanco  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06Y67W4TF/?tag=tolees-21'
 descuento: '36.03'
 average: '14.06'

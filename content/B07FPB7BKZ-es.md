@@ -16,6 +16,7 @@ comparePrice: 43.21 EUR
 prodname: 'Neadas Caja Cajas Cesta Cesto Plastico Plegable de Almacenamiento  2 Unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FPB7BKZ/?tag=tolees-21'
 descuento: '58.37'
 average: '17.99'

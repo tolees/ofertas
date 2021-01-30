@@ -16,6 +16,7 @@ comparePrice: 135.73 EUR
 prodname: 'TECHBREY Ventilador de Techo LED Modern Negro 40W Blanco Neutro 4000K - 4500K'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GWVF98X/?tag=tolees-21'
 descuento: '38.86'
 average: '82.99'

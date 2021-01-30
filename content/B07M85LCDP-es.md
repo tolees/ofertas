@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'GANT MD. Extrafine Lambswool V-Neck suéter  Verde  Tartan Green 374   XXX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M85LCDP/?tag=tolees-21'
 descuento: '60.72'
 average: '39.28'

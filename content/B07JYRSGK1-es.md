@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Tommy Hilfiger Corp Merge tee Top Deportivo  Amarillo  SULPHUR716   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JYRSGK1/?tag=tolees-21'
 descuento: '52.38'
 average: '19.0'

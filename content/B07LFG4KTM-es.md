@@ -16,6 +16,7 @@ comparePrice: 199.98 EUR
 prodname: 'Intex 57266EU - Unicornio Hinchable Gigante'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFG4KTM/?tag=tolees-21'
 descuento: '31.02'
 average: '137.95'

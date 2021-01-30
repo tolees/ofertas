@@ -16,6 +16,7 @@ comparePrice: 72.99 EUR
 prodname: 'DPG Lighting Apliques de Pared de Hexagonal Nido de Abejas Lampara de Pared de Panel LED Luz de Pared de Inducción Táctiles Modulares DIY Luz Nocturna Cuántica Luces Sensibles al Tacto  Azul 5pcs '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083THLXGB/?tag=tolees-21'
 descuento: '46.58'
 average: '38.99'

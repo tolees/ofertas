@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Skechers Solar Fuse KRYZIK  Zapatillas para Hombre  Negro Negro Negro Malla Sintética Borde Negro BBK  41.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XHM332X/?tag=tolees-21'
 descuento: '30.02'
 average: '48.95'

@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Superdry Classic Pique S/s Polo  Azul  Electric Blue Grit U5u   M para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TNS3NZ1/?tag=tolees-21'
 descuento: '50.69'
 average: '24.65'

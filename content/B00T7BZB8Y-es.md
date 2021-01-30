@@ -16,6 +16,7 @@ comparePrice: 54.44 EUR
 prodname: 'APC PM8-GR Surge Arrest Essential - Regleta con protección contra subidas y picos de tensión  8 tomas de salida'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00T7BZB8Y/?tag=tolees-21'
 descuento: '25.40'
 average: '38.276666666666664'

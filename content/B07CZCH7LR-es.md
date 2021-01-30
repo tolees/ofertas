@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'Under Armour UA Launch Sw 2-In-1 Short Pantalones Cortos  Hombre  Gris  Pitch Gray/Mod Gray/Reflective 012   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CZCH7LR/?tag=tolees-21'
 descuento: '40.01'
 average: '26.99'

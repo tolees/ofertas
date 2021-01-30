@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Amzdeal Caja de Fotografía Caja de Luz Portátil 50 x 50 x 50 cm para Hacer Fotos con 3 Fondos Blanco/Negro/Naranja + 2 Tiras de LED y Bolsa de Transporte Nueva versión'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M2UURKQ/?tag=tolees-21'
 descuento: '25.00'
 average: '58.70666666666666'

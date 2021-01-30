@@ -16,6 +16,7 @@ comparePrice: 17.49 EUR
 prodname: 'Amazon Essentials - Pack de 3 sacos de dormir de bebé para niño  color fantasía  Colorblock   US 0-6M  EU 56-68 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HL29RL1/?tag=tolees-21'
 descuento: '29.96'
 average: '10.653333333333334'

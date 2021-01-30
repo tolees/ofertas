@@ -16,6 +16,7 @@ comparePrice: 11.66 EUR
 prodname: 'Wild Stylers by Tecni.art - Depolish - Pasta desestructurante  efecto mate - 100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00IHX4OTK/?tag=tolees-21'
 descuento: '39.28'
 average: '7.08'

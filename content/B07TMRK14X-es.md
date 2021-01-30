@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Clarks Un Rio Lace  Zapatillas  Gris  Stone Leather Stone Leather   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TMRK14X/?tag=tolees-21'
 descuento: '54.45'
 average: '51.16200000000001'

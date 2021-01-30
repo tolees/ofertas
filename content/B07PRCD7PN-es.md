@@ -16,6 +16,7 @@ comparePrice: 24.0 EUR
 prodname: 'Kipling - Baroe  Monederos Mujer  Verde  Seagrass   20.5x10x7.5 cm  B x H T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PRCD7PN/?tag=tolees-21'
 descuento: '63.25'
 average: '8.82'

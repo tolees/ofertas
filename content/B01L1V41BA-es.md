@@ -16,6 +16,7 @@ comparePrice: 5.99 EUR
 prodname: 'Nilox - Spray Aria-Gas leggeri-400ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01L1V41BA/?tag=tolees-21'
 descuento: '43.57'
 average: '4.611818181818182'

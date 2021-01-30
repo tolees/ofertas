@@ -16,6 +16,7 @@ comparePrice: 39.0 EUR
 prodname: 'Diesel UMBR-ANDRETHREEPACK  Calzoncillo para Hombre  Negro  Black   L  Pack de 3'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M0PNISG/?tag=tolees-21'
 descuento: '37.21'
 average: '24.49'

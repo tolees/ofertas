@@ -16,6 +16,7 @@ comparePrice: 33.86 EUR
 prodname: 'Sanlebi Light Up Tracing Board  Dibujos para Niños Pintura Colorida para Princess Grow Art Set Juguetes de Aprendizaje para Niñas Pequeñas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087JMCGHY/?tag=tolees-21'
 descuento: '29.53'
 average: '23.86'

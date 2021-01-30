@@ -16,6 +16,7 @@ comparePrice: 35.43 EUR
 prodname: ' DEVOLO 08140 dLAN 1000 Mini Power Line Adaptador'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079KGSYLL/?tag=tolees-21'
 descuento: '47.62'
 average: '18.56'

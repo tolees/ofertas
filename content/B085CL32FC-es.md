@@ -16,6 +16,7 @@ comparePrice: 34.88 EUR
 prodname: 'Baoblaze 50ml de Fragancia Masculina  Perfume de Fragancia Duradero para Hombres  Duradero y Efectivo - Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085CL32FC/?tag=tolees-21'
 descuento: '44.44'
 average: '19.883333333333333'

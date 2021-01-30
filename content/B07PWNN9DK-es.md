@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Under Armour UA W Charged Intake 4  Zapatillas de Running para Mujer  Negro  Black/White/White   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PWNN9DK/?tag=tolees-21'
 descuento: '49.15'
 average: '50.82'

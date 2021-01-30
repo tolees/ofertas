@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Top Trumps Match Harry Potter Juego de mesa-versión en español  multicolor  Winning Moves 001724 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06WRT14S5/?tag=tolees-21'
 descuento: '36.53'
 average: '16.68'

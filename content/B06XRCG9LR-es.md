@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'LG SJ4R - Barra de sonido  Potencia 420W 4.1  Hi-res Audio 96KHz/24Bit  Subwoofer inalámbrico  Altavoces traseros  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XRCG9LR/?tag=tolees-21'
 descuento: '35.39'
 average: '193.19'

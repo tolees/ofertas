@@ -16,6 +16,7 @@ comparePrice: 229.99 EUR
 prodname: 'Rollei Compact Traveler No I Carbon I Negro I Trípode de Viaje Ligero I Trípode fotográfico de tamaño Compacto I Rótula de Bola y Bolsa para trípode'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01AWCQPGS/?tag=tolees-21'
 descuento: '56.52'
 average: '99.99'

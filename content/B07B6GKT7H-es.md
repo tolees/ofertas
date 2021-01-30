@@ -16,6 +16,7 @@ comparePrice: 13.97 EUR
 prodname: 'Kellogg s KG30683 - Caja Cereales  Metal  Blanco  Negro  18 5 x 10 3 x 25 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B6GKT7H/?tag=tolees-21'
 descuento: '37.80'
 average: '8.69'

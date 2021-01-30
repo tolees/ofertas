@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Tuc Tuc Biscuit - Bolsa maternidad y cambiador  color gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077Y5SQTJ/?tag=tolees-21'
 descuento: '31.36'
 average: '41.15'

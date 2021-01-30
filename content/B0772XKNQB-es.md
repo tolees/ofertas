@@ -16,6 +16,7 @@ comparePrice: 74.99 EUR
 prodname: 'Columbia Silver Ridge II Pantalones de Senderismo Convertibles  Hombre  Gris  Grill   W32/L32'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0772XKNQB/?tag=tolees-21'
 descuento: '35.72'
 average: '46.220000000000006'

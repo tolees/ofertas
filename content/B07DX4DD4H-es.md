@@ -16,6 +16,7 @@ comparePrice: 111.33 EUR
 prodname: 'Caterpillar Prepense  Botas Chukka para Hombre  Negro Black  40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DX4DD4H/?tag=tolees-21'
 descuento: '34.79'
 average: '47.849999999999994'

@@ -16,6 +16,7 @@ comparePrice: 279.0 EUR
 prodname: 'Seiko Reloj Analogico para Mujer de Cuarzo con Correa en Acero Inoxidable SUR744P1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01DA4IQRQ/?tag=tolees-21'
 descuento: '65.77'
 average: '95.745'

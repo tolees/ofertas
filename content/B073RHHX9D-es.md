@@ -16,6 +16,7 @@ comparePrice: 159.95 EUR
 prodname: 'Adidas Terrex Swift R2 Mid GTX  Zapatillas de Marcha Nórdica para Hombre  Negro  Core Black/Core Black/Core Black 0   45 1/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073RHHX9D/?tag=tolees-21'
 descuento: '25.93'
 average: '118.48'

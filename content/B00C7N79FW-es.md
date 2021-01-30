@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Lee Brooklyn Straight Jeans  Negro  Clean Black   30W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00C7N79FW/?tag=tolees-21'
 descuento: '79.03'
 average: '19.959999999999997'

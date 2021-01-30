@@ -16,6 +16,7 @@ comparePrice: 34.79 EUR
 prodname: 'Under Armour Gs Pace  Zapatillas de Running Unisex Adulto  Negro Black  365 EU  4 UK'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00Z7S4PM4/?tag=tolees-21'
 descuento: '56.68'
 average: '15.07'

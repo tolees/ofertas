@@ -16,6 +16,7 @@ comparePrice: 10.12 EUR
 prodname: 'Max Factor Eye Luminizer Miracle Base de Maquillaje Tono 3 Light - 100 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00S6YATTE/?tag=tolees-21'
 descuento: '31.32'
 average: '6.95'

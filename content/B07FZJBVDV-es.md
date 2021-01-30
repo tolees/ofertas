@@ -16,6 +16,7 @@ comparePrice: 108.95 EUR
 prodname: 'Star Ibaby - Parque de bebés plegable  color natural'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FZJBVDV/?tag=tolees-21'
 descuento: '26.62'
 average: '79.95'

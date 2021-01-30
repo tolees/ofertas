@@ -16,6 +16,7 @@ comparePrice: 119.95 EUR
 prodname: 'Gant Cocoville  Zapatillas para Mujer  Multicolor  Cream/Beige/Orange G157   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TWJB81F/?tag=tolees-21'
 descuento: '58.34'
 average: '49.97'

@@ -16,6 +16,7 @@ comparePrice: 6.6 EUR
 prodname: 'Quid 7691001 - Tabla para cortar  31 x 21 x 1 cm  color blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LLQEYBC/?tag=tolees-21'
 descuento: '43.18'
 average: '3.75'

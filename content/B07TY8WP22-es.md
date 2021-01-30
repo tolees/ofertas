@@ -16,6 +16,7 @@ comparePrice: 13.95 EUR
 prodname: 'L Oréal Paris Rouge Signature 203 I Magnetize Pintalabios Metálico Permanente Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TY8WP22/?tag=tolees-21'
 descuento: '47.31'
 average: '7.35'

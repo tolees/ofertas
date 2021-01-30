@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Harry Potter Caja De Selección De Dulces Y Chocolates Americanos - Ranas De Chocolate  Jelly Belly Bertie Bott s Grajeas Y Babosas De Gelatina - Cesta Exclusiva Para Burmont s'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N7Z9IG9/?tag=tolees-21'
 descuento: '40.02'
 average: '11.99'

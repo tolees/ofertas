@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'Universal Microondas Plato Giratorio Placa de Cristal con 3 Aparatos  de 245 mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007YJ3WO6/?tag=tolees-21'
 descuento: '72.70'
 average: '3.0'

@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'Grefusa - MisterCorn | Cocktail de Frutos Secos con Sabor Barbacoa - 120 gr - 13 Paquetes  1560 gr '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M7TZ8RM/?tag=tolees-21'
 descuento: '34.05'
 average: '9.86'

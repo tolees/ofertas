@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Dim Soutien-Gorge Avec Armatures SUBLIM Dentelle Sujetador con Aros  Morado  Violet Précieux 8os   85C para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N8HYJS3/?tag=tolees-21'
 descuento: '59.87'
 average: '12'

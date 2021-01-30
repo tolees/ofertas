@@ -16,6 +16,7 @@ comparePrice: 21.5 EUR
 prodname: 'FSXMPL Pintura por NúMeros NiñOs para Adultos Principiantes Bricolaje  Camino peatonalDecoracióN Artesanal para El Hogar 40x50cm  Sin Marco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0895VFBXR/?tag=tolees-21'
 descuento: '30.28'
 average: '14.99'

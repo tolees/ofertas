@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'JACK & JONES Jcopinn Sweat Hood Noos Capucha  Negro  Black Fit:reg/Yellow String   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073RQ99NP/?tag=tolees-21'
 descuento: '37.45'
 average: '27.156666666666666'

@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Mapa Mundi Rascar Regalos Originales - Regalos Curiosos para Hombre Mujer Mapamundi Rascar + Bono Mapa Rascable Europa  Póster del Mapa Mundi de Rascar con Tubo de Regalo  Regalos Mujer & Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088KF68LD/?tag=tolees-21'
 descuento: '45.73'
 average: '18.99'

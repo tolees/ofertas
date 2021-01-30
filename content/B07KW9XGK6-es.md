@@ -16,6 +16,7 @@ comparePrice: 57.72 EUR
 prodname: 'Salomon X Ultra 3 Prime GTX W  Zapatillas de Senderismo para Mujer  Negro/Azul  Black/Reflecting Pond/Icy Morn   36 2/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KW9XGK6/?tag=tolees-21'
 descuento: '33.07'
 average: '42.385000000000005'

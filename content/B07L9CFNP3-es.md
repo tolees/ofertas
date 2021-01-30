@@ -16,6 +16,7 @@ comparePrice: 106.99 EUR
 prodname: 'ROYAL SLEEP Colchón viscoelástico 90x190 de máxima Calidad  Confort  firmeza y adaptabilidad Alta  Altura 18cm - Colchones Xfresh Plus'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L9CFNP3/?tag=tolees-21'
 descuento: '25.24'
 average: '81.22999999999999'

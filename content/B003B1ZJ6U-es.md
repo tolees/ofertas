@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Lacor 61940 - Botella biberón 400 ml  color blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003B1ZJ6U/?tag=tolees-21'
 descuento: '51.95'
 average: '4.8'

@@ -16,6 +16,7 @@ comparePrice: 80 EUR
 prodname: 'New Balance 373  Zapatillas para Mujer  Rosa  Pink Sand/White Psw   36.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BL2QW96/?tag=tolees-21'
 descuento: '39.10'
 average: '49.18'

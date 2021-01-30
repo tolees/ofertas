@@ -16,6 +16,7 @@ comparePrice: 399.0 EUR
 prodname: 'Baby Jogger City Mini 4 - Silla de paseo  color azulón/gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073JXMM5R/?tag=tolees-21'
 descuento: '29.38'
 average: '281.76'

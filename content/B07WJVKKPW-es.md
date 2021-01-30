@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'HOTLIKE Bolsa de Pañales  3PCS Bebé Reutilizable Impermeabilizan Bolsa con Cremallera Impermeable para Mamá  Wetbag Portátil Organizador de Viaje  Playa  Gym  Estilo 2 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WJVKKPW/?tag=tolees-21'
 descuento: '50.03'
 average: '9.99'

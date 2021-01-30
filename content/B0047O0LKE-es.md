@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Medisana Humidificador UHW  32 W  plástico  Plateado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0047O0LKE/?tag=tolees-21'
 descuento: '28.29'
 average: '38.845'

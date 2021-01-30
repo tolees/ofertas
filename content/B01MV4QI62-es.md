@@ -16,6 +16,7 @@ comparePrice: 119.0 EUR
 prodname: 'Festina Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable F20206/2'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MV4QI62/?tag=tolees-21'
 descuento: '47.86'
 average: '59.17'

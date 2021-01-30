@@ -16,6 +16,7 @@ comparePrice: 25.98 EUR
 prodname: 'Skechers Reggae Fest-Rooted  Bailarinas con Punta Cerrada para Mujer  Azul  Navy Heather Textile Nvy   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TZSJNF5/?tag=tolees-21'
 descuento: '25.60'
 average: '19.33'

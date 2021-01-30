@@ -16,6 +16,7 @@ comparePrice: 98.9 EUR
 prodname: 'Trangoworld Goym Pant. Largo  Hombre  Negro  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FKS6XN6/?tag=tolees-21'
 descuento: '52.49'
 average: '46.99'

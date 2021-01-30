@@ -16,6 +16,7 @@ comparePrice: 140.0 EUR
 prodname: 'FIRENZE ARTEGIANI.Bolso Tote de Mujer Piel auténtica.Bolso Mujer Cuero Genuino Piel Acabado Grabado Serpiente y Lacado. Made IN Italy. Vera Pelle Italiana. 36x23x15 cm. Color: Marron'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073P8VHD1/?tag=tolees-21'
 descuento: '64.29'
 average: '49.99'

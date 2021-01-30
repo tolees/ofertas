@@ -16,6 +16,7 @@ comparePrice: 28.0 EUR
 prodname: 'Ghd 60950 - Cepillo de pelo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00JR24JM2/?tag=tolees-21'
 descuento: '31.29'
 average: '20.76375'

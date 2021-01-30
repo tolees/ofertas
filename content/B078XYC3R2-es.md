@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'The Raven Remastered'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078XYC3R2/?tag=tolees-21'
 descuento: '49.98'
 average: '17.432'

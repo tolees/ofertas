@@ -16,6 +16,7 @@ comparePrice: 23.95 EUR
 prodname: 'Clarks Un.loop2 Walk  Mocasines para Mujer  Marrón  Dark Tan Lea Dark Tan Lea   37.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N1JNVRR/?tag=tolees-21'
 descuento: '28.56'
 average: '17.666666666666668'

@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'JACK & JONES Jfwtrent PU 19 Noos  Zapatillas para Hombre  Gris  Anthracite Anthracite   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JHNDVMD/?tag=tolees-21'
 descuento: '55.87'
 average: '22.06'

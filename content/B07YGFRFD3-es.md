@@ -16,6 +16,7 @@ comparePrice: 399.0 EUR
 prodname: 'Medela Freestyle Flex  - Sacaleches Eléctrico Doble'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YGFRFD3/?tag=tolees-21'
 descuento: '31.20'
 average: '273.06666666666666'

@@ -16,6 +16,7 @@ comparePrice: 31.9 EUR
 prodname: 'EVOWHEY PROTEIN 2.0  Chocolate  2Kg '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01L22XMZY/?tag=tolees-21'
 descuento: '38.09'
 average: '19.75'

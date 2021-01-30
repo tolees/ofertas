@@ -16,6 +16,7 @@ comparePrice: 36.0 EUR
 prodname: 'Disney Enjoy The Day Neceser de viaje  29 cm  9.14 litros  Blanco/Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N8G9GQH/?tag=tolees-21'
 descuento: '33.33'
 average: '25.169999999999998'

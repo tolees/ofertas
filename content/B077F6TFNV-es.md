@@ -16,6 +16,7 @@ comparePrice: 180.99 EUR
 prodname: 'Aigostar Koud 33JTL - Climatizador evaporativo con mando a distancia  55W  oscilante  3 modos y 3 velocidades  temporizador 7 h  humidificador de aire  2 cajas hielo  depósito 5 l. Diseño exclusivo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077F6TFNV/?tag=tolees-21'
 descuento: '30.94'
 average: '124.99'

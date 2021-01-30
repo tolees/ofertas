@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'CROSOFMI Estante Ducha Estanteria Baño Esquina a Prueba de Herrumbre para Organizador de Cocina de Baño Acero Inoxidable 304  Triángulo  2 Paquetes '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VD5ZZ52/?tag=tolees-21'
 descuento: '44.46'
 average: '14.99'

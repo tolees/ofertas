@@ -16,6 +16,7 @@ comparePrice: 67.99 EUR
 prodname: 'ALIKEY Sacacorchos Eléctrico nalámbrico profesional Caja de regalo recargable automática Kit de caja de vino regalo accesorios de vinoabre-botellas-Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SW5CTB9/?tag=tolees-21'
 descuento: '58.83'
 average: '27.99'

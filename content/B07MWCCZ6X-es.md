@@ -16,6 +16,7 @@ comparePrice: 16.1 EUR
 prodname: 'Funko Pickle Rick Bottle Opener  Polypropelene  Multicolor  One Size'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MWCCZ6X/?tag=tolees-21'
 descuento: '56.83'
 average: '6.95'

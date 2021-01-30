@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Total Safe 500ml Spray | Ideal para una higiene profunda de manos - Hidroalcoholico Liquido envase con Aerosol Blue'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085HCQSPB/?tag=tolees-21'
 descuento: '37.52'
 average: '9.99'

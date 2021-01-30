@@ -16,6 +16,7 @@ comparePrice: 37 EUR
 prodname: 'Kipling - Money Power  Carteras Mujer  Morado  Active Lilac Bl '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DKHBK2G/?tag=tolees-21'
 descuento: '40.00'
 average: '19.424999999999997'

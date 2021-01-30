@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Maletín para portátil 15 6" Pepe Jeans Raw'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NCNJVGS/?tag=tolees-21'
 descuento: '30.00'
 average: '38.485'

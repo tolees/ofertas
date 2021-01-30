@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'PUMA RS 9.8 Space  Zapatillas Unisex Adulto  Black-Galaxy Blue  42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KG181GV/?tag=tolees-21'
 descuento: '51.08'
 average: '44.0'

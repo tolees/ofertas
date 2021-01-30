@@ -16,6 +16,7 @@ comparePrice: 6.95 EUR
 prodname: 'Edding 950 - Marcador permanente de pasta opaca  trazo de 10 mm  color azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000KJOYOE/?tag=tolees-21'
 descuento: '32.37'
 average: '4.7'

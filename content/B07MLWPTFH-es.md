@@ -16,6 +16,7 @@ comparePrice: 53.99 EUR
 prodname: 'gracosy Zapatillas de Running para Mujer Zapato de Trail Verano Slip-on Malla Zapatillas Deportivas Transpirable Ligero Casual Zapato Al Aire Libre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MLWPTFH/?tag=tolees-21'
 descuento: '53.71'
 average: '24.99'

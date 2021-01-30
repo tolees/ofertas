@@ -16,6 +16,7 @@ comparePrice: 596.15 EUR
 prodname: 'Orbegozo ADR 126 – Aire Acondicionado portátil con Bomba clasificación energética A/A+  frío/Calor   Mando a Distancia  deshumidificador  Pantalla LCD  Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T6JB3ZN/?tag=tolees-21'
 descuento: '28.00'
 average: '429.25'

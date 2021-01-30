@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'JACK & JONES Jjspider Canvas Sneaker Anthracite Men s Shoes  Azul  Light Blue Denim   40'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01765JIBI/?tag=tolees-21'
 descuento: '67.84'
 average: '14.296666666666667'

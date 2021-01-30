@@ -16,6 +16,7 @@ comparePrice: 186.66 EUR
 prodname: 'Parlux 3200 Compact - Secador de pelo plus  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000GRYX0A/?tag=tolees-21'
 descuento: '60.89'
 average: '71.62833333333333'

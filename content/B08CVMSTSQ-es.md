@@ -16,6 +16,7 @@ comparePrice: 2.38 EUR
 prodname: 'Panamar Juego Entre Padres e Hijos Alfombra no Tejida Serpiente de ajedrez y escaleras disfrutan de la diversión Familiar - Multicolor - S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CVMSTSQ/?tag=tolees-21'
 descuento: '33.61'
 average: '1.58'

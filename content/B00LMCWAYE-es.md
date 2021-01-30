@@ -16,6 +16,7 @@ comparePrice: 15.98 EUR
 prodname: 'Joseph Joseph Palm Scrub Cepillo Dispensador  Verde  8.8x9.5x13.5 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00LMCWAYE/?tag=tolees-21'
 descuento: '44.37'
 average: '9.313333333333334'

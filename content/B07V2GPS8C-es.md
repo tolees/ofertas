@@ -16,6 +16,7 @@ comparePrice: 47.5 EUR
 prodname: 'Transya B530 - Auriculares inalámbricos Bluetooth 5.0 con Control táctil  6 – 8 Horas de reproducción Continua  60 Horas de Tiempo de reproducción Total con Funda de Carga'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V2GPS8C/?tag=tolees-21'
 descuento: '53.71'
 average: '21.99'

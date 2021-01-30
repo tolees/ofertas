@@ -16,6 +16,7 @@ comparePrice: 179.99 EUR
 prodname: 'Auriculares Skullcandy Venue Active Cancelación Ruido  Bluetooth Inalámbricos  Tecnología Tile integrada  Batería de Carga Rápida con 24 Horas de Duración  Materiales  Moab/Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SG37JL9/?tag=tolees-21'
 descuento: '27.78'
 average: '129.99'

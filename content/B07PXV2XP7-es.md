@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Under Armour Men s Tribase Thrive Hallenschuhe  Zapatillas Deportivas para Interior para Hombre  Negro  Black/Pitch Gray/Halo Gray  006  006   40.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PXV2XP7/?tag=tolees-21'
 descuento: '58.24'
 average: '37.56'

@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Skechers Ultra Flex 2.0  Zapatillas sin Cordones para Hombre  Azul  Navy Knit/Trim Nvy   46 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TVVFW8X/?tag=tolees-21'
 descuento: '37.38'
 average: '43.8'

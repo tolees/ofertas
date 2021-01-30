@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'New Balance 997H m  Zapatillas para Mujer  Negro  Black/Yellow Hai   37.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S2YYR6P/?tag=tolees-21'
 descuento: '65.67'
 average: '62.68200000000001'

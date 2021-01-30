@@ -16,6 +16,7 @@ comparePrice: 96.85 EUR
 prodname: 'NMBC Almohadilla de Asiento de Coche Cool Pad 1 Universal Fundas de Asiento de Coche Almohadilla de Asiento de Coche de Cuentas de Madera Cojines de Asiento extraíbles-46x46cm A'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0872MNRD9/?tag=tolees-21'
 descuento: '40.12'
 average: '57.99'

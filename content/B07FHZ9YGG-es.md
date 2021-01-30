@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'lenbest Pinturas Cara  Maquillaje al Agua  Pinturas Corporales - 14 Colores 3 Cepillos 2 Esponjas 2 Barras de Ojos 2 Brillos - Pintura Facial Profesional para Niños - a Base de Agua'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FHZ9YGG/?tag=tolees-21'
 descuento: '26.93'
 average: '16.6'

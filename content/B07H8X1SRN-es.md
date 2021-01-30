@@ -16,6 +16,7 @@ comparePrice: 11.2 EUR
 prodname: 'Bourjois  Sombra de ojos  Tono: 16 Nude  Gama Nudes   - 3.2 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H8X1SRN/?tag=tolees-21'
 descuento: '55.45'
 average: '4.99'

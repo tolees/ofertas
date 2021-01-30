@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Oral-B Junior - Cepillo Eléctrico Recargable para Niños a Partir de 6 Años  Verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DGK3PYM/?tag=tolees-21'
 descuento: '25.23'
 average: '29.191666666666666'

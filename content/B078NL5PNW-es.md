@@ -16,6 +16,7 @@ comparePrice: 85 EUR
 prodname: 'Asics Gel-Lyte Runner  Zapatillas para Hombre  Rosa Pale Mauve 1717  43.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078NL5PNW/?tag=tolees-21'
 descuento: '63.40'
 average: '34.4'

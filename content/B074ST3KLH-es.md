@@ -16,6 +16,7 @@ comparePrice: 14.97 EUR
 prodname: 'Vitamina D3 400 Tabletas Veganas  para 13 meses  - Dosis óptima con 1000 UI por día - Respalda huesos  dientes  músculos y sistema inmunológico*- Hecho en Alemania'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074ST3KLH/?tag=tolees-21'
 descuento: '33.40'
 average: '9.97'

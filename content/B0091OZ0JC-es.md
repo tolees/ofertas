@@ -16,6 +16,7 @@ comparePrice: 159.9 EUR
 prodname: 'BabyBjörn Balance soft - Hamaca  Negro /Gris oscuro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0091OZ0JC/?tag=tolees-21'
 descuento: '27.47'
 average: '114.41'

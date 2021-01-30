@@ -16,6 +16,7 @@ comparePrice: 21.43 EUR
 prodname: 'Bluegreen - Greenblue gb114 - minutero de escalera'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N7WOCBB/?tag=tolees-21'
 descuento: '35.93'
 average: '13.73'

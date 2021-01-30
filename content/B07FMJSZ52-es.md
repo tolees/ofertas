@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'WEOFUN Galaxy Tab S3/S2 9.7 Protector de Pantalla  Cristal Templado para Samsung Galaxy Tab S3/S2 9.7   Vidrio Templado [0.33mm  9H  Alta Definicion]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FMJSZ52/?tag=tolees-21'
 descuento: '44.40'
 average: '8.89'

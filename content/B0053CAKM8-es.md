@@ -16,6 +16,7 @@ comparePrice: 9.18 EUR
 prodname: 'X-Men Orígenes: Lobezno [DVD]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0053CAKM8/?tag=tolees-21'
 descuento: '50.44'
 average: '4.425'

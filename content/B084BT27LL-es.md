@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Lubricante Intimo Durex Cherry 2 x 100 ml | Lubricante al agua Durex'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084BT27LL/?tag=tolees-21'
 descuento: '30.01'
 average: '20.99'

@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Case Logic LAPS111BRK - Funda para Ordenador portátil de 11"  Color Naranja'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06Y2JVDCH/?tag=tolees-21'
 descuento: '45.02'
 average: '10.99'

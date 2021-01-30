@@ -16,6 +16,7 @@ comparePrice: 21.95 EUR
 prodname: 'Saica Piscina Hinchable para niños  Multicolor  17118 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00CXM5OJ0/?tag=tolees-21'
 descuento: '25.74'
 average: '15.165000000000003'

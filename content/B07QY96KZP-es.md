@@ -16,6 +16,7 @@ comparePrice: 134.87 EUR
 prodname: '60W Smart Wifi Lámpara de techo Luz de pan Luz LED de Wifi para comedor  Baño  Dormitorio  Sala de estar  Sótano  Pasillo  Garaje  Habitación infantil  Lighti'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QY96KZP/?tag=tolees-21'
 descuento: '75.84'
 average: '32.59'

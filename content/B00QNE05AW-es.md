@@ -16,6 +16,7 @@ comparePrice: 22.25 EUR
 prodname: 'Bresser Trípode de mesa de 24cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00QNE05AW/?tag=tolees-21'
 descuento: '55.51'
 average: '9.9'

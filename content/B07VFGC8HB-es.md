@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Napapijri Elbas 3 Polo  Rosa  Petal Pink P841   L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VFGC8HB/?tag=tolees-21'
 descuento: '49.31'
 average: '29.91'

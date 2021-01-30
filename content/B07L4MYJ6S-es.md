@@ -16,6 +16,7 @@ comparePrice: 279.99 EUR
 prodname: 'Lenovo L27m - 28 27.0 Inch FHD IPS FreeSync Gaming Monitor 75 Hz 4 ms VGA+HDMI+USB Type-C 3-side borderless - Raven Black'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L4MYJ6S/?tag=tolees-21'
 descuento: '28.57'
 average: '213.32333333333332'

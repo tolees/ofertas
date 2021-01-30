@@ -16,6 +16,7 @@ comparePrice: 120 EUR
 prodname: 'Clarks Ronnie Top  Botas Chelsea para Hombre  Marrón  British Tan Lea British Tan Lea   42.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MLSV4NH/?tag=tolees-21'
 descuento: '59.16'
 average: '49.01'

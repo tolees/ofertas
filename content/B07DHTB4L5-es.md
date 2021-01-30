@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Lacoste Carnaby EVO Light-WT 1193 SFA  Zapatillas para Mujer  Blanco  Wht/Slv 108   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DHTB4L5/?tag=tolees-21'
 descuento: '40.32'
 average: '58.46666666666667'

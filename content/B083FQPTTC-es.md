@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Camara de Fotos Camara Fotos Full HD 2.7K 24MP Videocámaras Camara de Fotos Digital Camara Fotos Compacta con Luz de Flash Retráctil'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083FQPTTC/?tag=tolees-21'
 descuento: '34.62'
 average: '84.99'

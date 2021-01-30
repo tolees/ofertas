@@ -16,6 +16,7 @@ comparePrice: 279.0 EUR
 prodname: 'Baby Jogger Deluxe - Capazo  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00GODPB6U/?tag=tolees-21'
 descuento: '43.01'
 average: '159.0'

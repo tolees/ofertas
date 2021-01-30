@@ -16,6 +16,7 @@ comparePrice: 90 EUR
 prodname: 'New Balance 574v2  Zapatillas para Mujer  Rosa  Pink/Black Pink/Black   36.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KRLNB73/?tag=tolees-21'
 descuento: '58.13'
 average: '37.68'

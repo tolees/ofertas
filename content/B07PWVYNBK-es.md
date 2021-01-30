@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: '[4-Pack] SPARIN Protector Pantalla Redmi Note 7/Note 8  Cristal Templado Redmi Note 7/Note 8  Vidrio Templado con [Sin Cobertura Toda Pantalla] [Alta Definición] [9H Dureza] [Anti-Huella]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PWVYNBK/?tag=tolees-21'
 descuento: '30.03'
 average: '7.07'

@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'SweetLF Afeitadora Electrica Hombre Máquina de Afeitar Eléctrica IPX7 Impermeable Húmedo & Seco USB Quick Recargable con Pop-up Trimmer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PHPR96S/?tag=tolees-21'
 descuento: '46.68'
 average: '30.872352941176466'

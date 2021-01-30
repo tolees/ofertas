@@ -16,6 +16,7 @@ comparePrice: 165.0 EUR
 prodname: 'Rotary Reloj de Pulsera GS08303/02'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075NQGMRT/?tag=tolees-21'
 descuento: '30.58'
 average: '114.54'

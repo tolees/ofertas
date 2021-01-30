@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Chicco Next 2 me - Cuna de colecho con anclaje a cama y 6 alturas  color gris  Pearl '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GJGJDND/?tag=tolees-21'
 descuento: '34.68'
 average: '127.99000000000001'

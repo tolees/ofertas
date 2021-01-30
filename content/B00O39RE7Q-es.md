@@ -16,6 +16,7 @@ comparePrice: 15.35 EUR
 prodname: 'Ramón Bilbao Vino Viñedos de Altura - 750 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00O39RE7Q/?tag=tolees-21'
 descuento: '31.66'
 average: '10.49'

@@ -16,6 +16,7 @@ comparePrice: 16.09 EUR
 prodname: 'LS LOVELY STORY REGALA HISTORIAS BONITAS LD0629 PACK 2 TAZAS CON MENSAJE: UNICORNIO JUNTOS PODEMOS SOÑARLO  Cerámica'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HM5W4WJ/?tag=tolees-21'
 descuento: '46.86'
 average: '8.55'

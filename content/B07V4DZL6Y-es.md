@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Hezbjiti Luces de cuerda de batería Hezbjiti  100 luces de cadena de hadas activadas por sonido de LED con remoto  luces a batería a prueba de agua Sincronización con música para fiestas blanco cálido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V4DZL6Y/?tag=tolees-21'
 descuento: '40.02'
 average: '11.99'

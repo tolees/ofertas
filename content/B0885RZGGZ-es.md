@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: '【2 Pack】Abridor de puerta de latón sin contacto Higiene Cierra puertassin contacto Portátil De múltiples fines Salud Llave Tool para abrir/cerrar puerta Hacer clic Botón Mantenga las manos limpias'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0885RZGGZ/?tag=tolees-21'
 descuento: '33.36'
 average: '9.99'

@@ -16,6 +16,7 @@ comparePrice: 4.77 EUR
 prodname: 'Ranura para Tarjeta de Rayas Funda de Cuero sintético con Tapa para iPhone 6 Plus 5.5    - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089R2NLSM/?tag=tolees-21'
 descuento: '33.54'
 average: '3.17'

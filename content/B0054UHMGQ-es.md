@@ -16,6 +16,7 @@ comparePrice: 16.07 EUR
 prodname: 'Durex Lubricante Play Massage 2 en 1 Gel de Masaje Corporal Erótico y Estimulante con Guaraná - 200 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0054UHMGQ/?tag=tolees-21'
 descuento: '42.50'
 average: '9.256000000000002'

@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Pasabahce Ceni Goma – Tapón Corona con bidules 200 Tapones Rojos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00SG19T9S/?tag=tolees-21'
 descuento: '69.62'
 average: '9.1'

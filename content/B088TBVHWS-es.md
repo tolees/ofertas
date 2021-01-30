@@ -16,6 +16,7 @@ comparePrice: 56.27 EUR
 prodname: 'Webcam 1080P con Micrófono  Computadora Webcam para Videollamadas para Youtube  Skype  MSN  Facebook  Google Hangouts  Web CAM de USB Plug and Play para PC/Mac/Laptop/Desktop'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088TBVHWS/?tag=tolees-21'
 descuento: '40.13'
 average: '33.69'

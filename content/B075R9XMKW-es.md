@@ -16,6 +16,7 @@ comparePrice: 35.95 EUR
 prodname: 'Dymatize Super Mass Gainer Rich Chocolate 2 9kg - Polvo Para Ganar Peso + Carbohidratos  BCAA y Caseína'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075R9XMKW/?tag=tolees-21'
 descuento: '28.26'
 average: '25.79'

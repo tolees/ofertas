@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Amzdeal Inflador globo electrico para inflar globos hinchador globos electrico para fiestas 600W Alta potencia  Color rosado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00M7PE9SU/?tag=tolees-21'
 descuento: '47.51'
 average: '19.32333333333333'

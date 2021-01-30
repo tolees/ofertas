@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Skechers Solar Fuse  Zapatillas Deportivas para Mujer  Blanco  White Knit Mesh/Multi Trim Wmlt   35.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MYZFFZ9/?tag=tolees-21'
 descuento: '35.03'
 average: '45.45'

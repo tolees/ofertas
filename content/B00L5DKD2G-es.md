@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'Dekora - Decoracion para Tartas con la Figura de Mickey Mouse de PVC'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00L5DKD2G/?tag=tolees-21'
 descuento: '32.30'
 average: '7.44'

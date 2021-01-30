@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'adidas Tastigo19 SHO Pantalones Cortos de Deporte  Hombre  Power Red/White  910Y'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JZLD2ZN/?tag=tolees-21'
 descuento: '48.51'
 average: '15.653333333333332'

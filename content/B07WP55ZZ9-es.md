@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Mascarilla para los ojos  Máscaras antiarrugas para los ojos  Ojos Parches  Máscara para ojos de colágeno  Con colágeno de vitamina C  Anti edad para ojeras bolsas patas de gallo e hinchazón  30 pcs'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WP55ZZ9/?tag=tolees-21'
 descuento: '46.68'
 average: '15.99'

@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Ever-Pretty A-línea Vestito de Gala Cuello en V Manga Corta Gasa Corte Imperio para Mujer Verde Oscuro 46'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01J2VTXUU/?tag=tolees-21'
 descuento: '31.25'
 average: '54.99'

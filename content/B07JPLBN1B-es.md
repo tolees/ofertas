@@ -16,6 +16,7 @@ comparePrice: 58.99 EUR
 prodname: 'Luz de techo LED Baño Cocina Dormitorio Luces de techo Ducha Sala Comedor Estudio Balcón Pasillo Corredor Lámpara de techo Blanco frio 6000K Cuadrado moderno Impermeable 2050lm 26W LUSUNT'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JPLBN1B/?tag=tolees-21'
 descuento: '32.55'
 average: '39.79'

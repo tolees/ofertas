@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Lictin 3 Pack baberos suave de silicona impermeables para bebés pequeños  rosa/azul/verde de limón '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076ZLRF4W/?tag=tolees-21'
 descuento: '25.02'
 average: '11.99'

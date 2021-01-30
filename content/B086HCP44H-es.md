@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'Ausonia Discreet Compresas Para Pérdidas De Orina Mini Para Vejigas Hiperactivas x 160'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086HCP44H/?tag=tolees-21'
 descuento: '31.83'
 average: '19.944999999999997'

@@ -16,6 +16,7 @@ comparePrice: 2.15 EUR
 prodname: 'Nestlé KiKat Mini Chocolate con Leche - Barritas de chocolate - Snack de chocolate 200 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LXV1TZH/?tag=tolees-21'
 descuento: '53.49'
 average: '1.3775'

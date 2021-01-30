@@ -16,6 +16,7 @@ comparePrice: 79 EUR
 prodname: 'Kipling - Art Mini  Bolsos maletín Mujer  Morado  Active Lilac Bl '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DKJW44Q/?tag=tolees-21'
 descuento: '50.00'
 average: '39.5'

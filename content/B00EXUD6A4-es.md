@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'Legrand  694656 Bases Múltiples Confort y Seguridad - Regleta con 6 enchufes  protección contra sobretensiones  6 tomas corrientes con interruptor  cable de 1 5 mts  color blanco y gris  6 tomas + interruptor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00EXUD6A4/?tag=tolees-21'
 descuento: '30.08'
 average: '13.95'

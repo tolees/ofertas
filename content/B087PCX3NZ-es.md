@@ -16,6 +16,7 @@ comparePrice: 75.14 EUR
 prodname: 'Anzkzo Cojín Cojines de Asiento Cojín de Silla Larga para sillón Engrosada Cojín de baño de Sol para Silla Tumbona de jardín 1pcs-49.2x19.4x3.1in Vino Tinto'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087PCX3NZ/?tag=tolees-21'
 descuento: '40.13'
 average: '44.99'

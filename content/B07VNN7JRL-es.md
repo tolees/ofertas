@@ -16,6 +16,7 @@ comparePrice: 21.82 EUR
 prodname: 'Tommy Hilfiger Essential Cycling Shorts Short  Azul  Twilight Navy C87   Talla Única  Talla del Fabricante: 74  para Niñas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VNN7JRL/?tag=tolees-21'
 descuento: '67.55'
 average: '7.08'

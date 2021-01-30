@@ -16,6 +16,7 @@ comparePrice: 10.98 EUR
 prodname: 'Oihxse Case Transparente Suave TPU Compatible con Huawei Mate 20 Funda [Lindo Caricatura Flor Serie Dibujos] Cristal Protector Carcasa Anti Rasguños Bumper Cover-Florales'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083TB8TQ3/?tag=tolees-21'
 descuento: '27.32'
 average: '7.98'

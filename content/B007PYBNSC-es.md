@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'SanDisk SDCZ50-032G-FFP 32 GB Cruzer Blade Flash Drive - Frustration-Free Packaging'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007PYBNSC/?tag=tolees-21'
 descuento: '37.42'
 average: '6.52'

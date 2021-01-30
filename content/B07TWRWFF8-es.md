@@ -16,6 +16,7 @@ comparePrice: 56.99 EUR
 prodname: 'BRIKSMAX Kit de Iluminación Led para Lego Technic Cargadora con Orugas  Compatible con Ladrillos de Construcción Lego Modelo 42094  Juego de Legos no Incluido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TWRWFF8/?tag=tolees-21'
 descuento: '52.64'
 average: '31.006393442622944'

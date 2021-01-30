@@ -16,6 +16,7 @@ comparePrice: 16.51 EUR
 prodname: 'Huj DIY gato forma especial pintura diamante mujer cadena bolsa cruzada bolsa de cuero'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CN92SSC/?tag=tolees-21'
 descuento: '33.37'
 average: '11.0'

@@ -16,6 +16,7 @@ comparePrice: 10.52 EUR
 prodname: 'Set de aceites esenciales de aromaterapia orgánica - TOP8 Difusores de aceite  incienso  lavanda  árbol de té  naranja dulce  menta  canela  aguja de pino  romero para el hogar  oficina  sueño  yoga'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ML1VNSL/?tag=tolees-21'
 descuento: '30.04'
 average: '15.3325'

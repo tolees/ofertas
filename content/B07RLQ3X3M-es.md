@@ -16,6 +16,7 @@ comparePrice: 19.89 EUR
 prodname: 'LEADSTAR Parasol Coche   2 Unidades  Parasol Coche Bebe  Universal Parasol Autoadhesivo Para Proteger del Sol a Bebés Niños y Mascotas  Infantil con UVA Proteccion Reduce Calor  con Bolsa + Pañuelo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RLQ3X3M/?tag=tolees-21'
 descuento: '79.94'
 average: '3.99'

@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'Botas De Nieve para Mujer 35-44 EU Botas De Invierno Nuevas Botas De Nieve Cálidas Botas De Nieve para Mujeres'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W7QBD99/?tag=tolees-21'
 descuento: '31.05'
 average: '19.99'

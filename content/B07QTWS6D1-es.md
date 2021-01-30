@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Lotus Reloj Analógico para Niñas de Cuarzo con Correa en Cuero 18409/A'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QTWS6D1/?tag=tolees-21'
 descuento: '51.68'
 average: '28.51'

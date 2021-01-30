@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Skechers Men s Stamina Cutback Trainers  Grey  Charcoal & Black Leather/Charcoal Mesh Ccbk   5.5  39 EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00VR52VWW/?tag=tolees-21'
 descuento: '50.03'
 average: '42.120000000000005'

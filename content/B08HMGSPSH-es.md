@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: '10 PCS Salvaorejas Mascarillas Extensor  Protectores de Orejas  Sujeta Mascarillas ó Enganche para Mascarillas  Extender Ganchos para Máscara  Despídete del Dolor en las Orejas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08HMGSPSH/?tag=tolees-21'
 descuento: '53.89'
 average: '5.99'

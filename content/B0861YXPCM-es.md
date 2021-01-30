@@ -16,6 +16,7 @@ comparePrice: 11.87 EUR
 prodname: 'KOKO Zhu Plata coaxial Adaptador de Conector de Cable coaxial - 8 8 mm Diámetro BSP F Macho Jack RF'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0861YXPCM/?tag=tolees-21'
 descuento: '67.73'
 average: '3.83'

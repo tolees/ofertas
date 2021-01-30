@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Medinc Dirá Todo el Mundo a Salvar Vidas con el Ritmo cardíaco portátil calcomanía'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B010E09CRM/?tag=tolees-21'
 descuento: '40.04'
 average: '5.99'

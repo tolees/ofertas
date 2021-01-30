@@ -16,6 +16,7 @@ comparePrice: 248.0 EUR
 prodname: 'Wenger Reloj Analogico para Mujer de Cuarzo con Correa en Acero Inoxidable 01.1121.105'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B015WJRWFO/?tag=tolees-21'
 descuento: '60.05'
 average: '101.535'

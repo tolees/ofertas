@@ -16,6 +16,7 @@ comparePrice: 16.28 EUR
 prodname: 'D DOLITY Altavoz de Graves Rango Completo Altavoz Impermeable Compatible con Reproductores de Medios 25W  78x78x40mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HCYBG52/?tag=tolees-21'
 descuento: '33.35'
 average: '10.31'

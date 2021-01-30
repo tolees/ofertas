@@ -16,6 +16,7 @@ comparePrice: 250.0 EUR
 prodname: 'Seiko SUT162P1 ES si we 29xh9mm Solar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00MCB8XFO/?tag=tolees-21'
 descuento: '30.79'
 average: '172.45333333333335'

@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Nike Court Borough Low 2  Niño para Niños  Blanco  White/White/White 100   37.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VNGRRB6/?tag=tolees-21'
 descuento: '47.80'
 average: '23.49'

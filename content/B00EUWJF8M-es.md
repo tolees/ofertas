@@ -16,6 +16,7 @@ comparePrice: 35 EUR
 prodname: 'De longhi 5513292831 - Kit de limpieza y mantenimiento para Cafeteras automáticas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00EUWJF8M/?tag=tolees-21'
 descuento: '41.00'
 average: '16.575'

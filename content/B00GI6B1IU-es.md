@@ -16,6 +16,7 @@ comparePrice: 69.9 EUR
 prodname: 'Led Lenser H7.2 Linterna frontal LED de 250 lúmenes de potencia  7297'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00GI6B1IU/?tag=tolees-21'
 descuento: '35.64'
 average: '44.99'

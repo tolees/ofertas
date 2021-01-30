@@ -16,6 +16,7 @@ comparePrice: 89.9 EUR
 prodname: 'Corsair Carbide 275R - Caja de ordenador semitorre  para juegos  Torre Media ATX con ventana de vidrio templado   negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079K1W3KB/?tag=tolees-21'
 descuento: '38.58'
 average: '67.6'

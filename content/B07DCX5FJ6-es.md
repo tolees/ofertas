@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Victoria Tribu Doble Botin Lona  Zapatillas Unisex Adulto  Blanco  Blanco 20 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DCX5FJ6/?tag=tolees-21'
 descuento: '40.69'
 average: '34.99'

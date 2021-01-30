@@ -16,6 +16,7 @@ comparePrice: 1199.0 EUR
 prodname: 'Olympus OM-D E-M5 Mark III MFT  Sensor de 20 MPX Estabilizador de Imagen de 5 Ejes Potente Autoenfoque  Visor Electrónico OLED  Vídeo 4K  WLAN  Bluetooth  Plata  Solo Cuerpo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XYP5NNQ/?tag=tolees-21'
 descuento: '25.77'
 average: '889.99'

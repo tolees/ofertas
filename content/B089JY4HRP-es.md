@@ -16,6 +16,7 @@ comparePrice: 106.99 EUR
 prodname: 'EasySMX 2.4G Teclado inalámbrico / cable  teclado gamer mecánico  teclado Gaming con interruptores azules tipo C para Mac/PC/ordenador portátil  87 teclas   color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089JY4HRP/?tag=tolees-21'
 descuento: '44.33'
 average: '59.56'

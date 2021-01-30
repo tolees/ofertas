@@ -16,6 +16,7 @@ comparePrice: 8.7 EUR
 prodname: 'Gazechimp 4 Piezas RC Tren de Rodaje de Drone para Hubsan H501S H501C X4 - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0772NFTKS/?tag=tolees-21'
 descuento: '31.38'
 average: '5.97'

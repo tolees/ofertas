@@ -16,6 +16,7 @@ comparePrice: 48.98 EUR
 prodname: 'Lámpara de Nocturna LED Lámpara de Mesita de Noche Inteligente  Control Tactil  Regulable  USB Recargable  Portátil  Cambio de Color RGB para Niños  Habitación  Cámping - Uverbon'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X1JQY91/?tag=tolees-21'
 descuento: '73.48'
 average: '12.99'

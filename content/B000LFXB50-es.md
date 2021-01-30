@@ -16,6 +16,7 @@ comparePrice: 26.5 EUR
 prodname: 'Silverline 245017 - Alicates'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000LFXB50/?tag=tolees-21'
 descuento: '30.79'
 average: '18.310000000000002'

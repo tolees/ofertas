@@ -16,6 +16,7 @@ comparePrice: 74.99 EUR
 prodname: 'Hot Chocolate Design Chocolaticas Notebook Bailarina Mary Jane para Mujeres Multicolor HCD 35'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0108JKS4A/?tag=tolees-21'
 descuento: '53.34'
 average: '34.99'

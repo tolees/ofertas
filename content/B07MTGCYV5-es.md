@@ -16,6 +16,7 @@ comparePrice: 3.9 EUR
 prodname: '1Life Auriculares SoundOne Micrófono Ultra Ligero'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MTGCYV5/?tag=tolees-21'
 descuento: '25.90'
 average: '3.012222222222222'

@@ -16,6 +16,7 @@ comparePrice: 2.45 EUR
 prodname: 'Cosmoplast Apósitos Impermeables - 20 Unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01H5VLQ9A/?tag=tolees-21'
 descuento: '26.53'
 average: '1.8'

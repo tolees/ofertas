@@ -16,6 +16,7 @@ comparePrice: 12.58 EUR
 prodname: 'Juegos de Mesa Ajedrez Portátil de Bolsillo Plegable Magnético Cabrito Regalo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06WWBXPH5/?tag=tolees-21'
 descuento: '44.44'
 average: '6.99'

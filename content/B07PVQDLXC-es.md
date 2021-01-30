@@ -16,6 +16,7 @@ comparePrice: 28.0 EUR
 prodname: 'Under Armour UA Spieth Washed Cotton Cap Algodón  Gorra para Hombre  Azul  One Size'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PVQDLXC/?tag=tolees-21'
 descuento: '56.07'
 average: '11.125'

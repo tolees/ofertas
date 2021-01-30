@@ -16,6 +16,7 @@ comparePrice: 119.0 EUR
 prodname: 'Fossil Reloj Analogico para Mujer de Cuarzo con Correa en Acero Inoxidable ES4341'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074ZDQZFX/?tag=tolees-21'
 descuento: '41.18'
 average: '67.75999999999999'

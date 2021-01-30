@@ -16,6 +16,7 @@ comparePrice: 14.04 EUR
 prodname: 'Plantillas de Talón Correctoras de Postura tipo Almohadilla de Gel – Plantillas de Talón en Gel con Ángulo Corrector de Pronación y Supinación - Plantillas Ortopédicas para Fascitis Plantar  42-48 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00WGA70WS/?tag=tolees-21'
 descuento: '50.50'
 average: '6.95'

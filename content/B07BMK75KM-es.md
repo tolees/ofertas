@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'Fantasy Flight Games- Soldados de Asalto  FFSWL07 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BMK75KM/?tag=tolees-21'
 descuento: '46.25'
 average: '13.41'

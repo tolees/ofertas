@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'Forty Seven B-Brans17Ctp-Bk Gorra  Hombre  Negro  Talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CSO1N9W/?tag=tolees-21'
 descuento: '27.37'
 average: '14.49'

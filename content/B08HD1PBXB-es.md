@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Termometro Infrarrojos ℃ y ℉ Conmutable Termometro Sin Contacto medico termometro para Niños  Adultos Termometro Infrarrojos Sin Contacto'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08HD1PBXB/?tag=tolees-21'
 descuento: '25.01'
 average: '14.99'

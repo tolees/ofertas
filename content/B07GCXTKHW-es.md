@@ -16,6 +16,7 @@ comparePrice: 134.71 EUR
 prodname: 'BERSIGAR Reloj Deportivo de Cuarzo analógico Negro con Esqueleto Negro y Correa de Cuero para Hombres'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GCXTKHW/?tag=tolees-21'
 descuento: '70.32'
 average: '39.98'

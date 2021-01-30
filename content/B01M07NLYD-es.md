@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Philips bsc200/01 Cepillo de limpieza facial Visapure Essential  Rose de color blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M07NLYD/?tag=tolees-21'
 descuento: '70.63'
 average: '36.5'

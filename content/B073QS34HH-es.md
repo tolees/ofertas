@@ -16,6 +16,7 @@ comparePrice: 12 EUR
 prodname: 'find. 18137 camisetas  Rosa Oscuro  Pink   36  Talla del Fabricante: X-Small '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073QS34HH/?tag=tolees-21'
 descuento: '70.00'
 average: '3.6'

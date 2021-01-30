@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'DANISH ENDURANCE Slip para Hombre en Coton Pack de 6  2 x Negro  2 x Blanco  1 x Gris  1 x Negro/línea roja   Medium'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XRC7V3Z/?tag=tolees-21'
 descuento: '66.07'
 average: '16.95'

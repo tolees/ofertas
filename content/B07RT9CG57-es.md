@@ -16,6 +16,7 @@ comparePrice: 22.18 EUR
 prodname: 'CESFONJER 10 Metros Tubo de Agua Blanco 1/4"  6.3 mm   Kit de Tubería de Suministro de Agua Para Sistemas de Ósmosis Inversa  Refrigeradores  Máquinas de Café Espresso  y Filtros de Agua.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RT9CG57/?tag=tolees-21'
 descuento: '50.45'
 average: '10.99'

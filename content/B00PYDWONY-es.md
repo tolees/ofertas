@@ -16,6 +16,7 @@ comparePrice: 64.99 EUR
 prodname: 'Nike Md Runner 2 - Zapatillas de correr para Hombre  Azul Marino  Azul Marino/Blanco/Gris   45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00PYDWONY/?tag=tolees-21'
 descuento: '48.47'
 average: '35.31'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'The Binding Of Isaac: Afterbirth'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071VRG7P1/?tag=tolees-21'
 descuento: '25.11'
 average: '22.965'

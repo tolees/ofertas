@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'LEMESO Universal Mosquitera Carrito Bebé Mosquitera para Cochecito  Blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CQMJH1P/?tag=tolees-21'
 descuento: '50.04'
 average: '7.49'

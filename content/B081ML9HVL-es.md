@@ -16,6 +16,7 @@ comparePrice: 11.41 EUR
 prodname: 'Almohadilla de protección para la cabeza del bebé Almohada para el reposacabezas del niño Cuello del bebé Alas lindas Cojín de resistencia a la caída de enfermería Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081ML9HVL/?tag=tolees-21'
 descuento: '43.82'
 average: '6.41'

@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'Converse Chuck Taylor All Star Hi  Zapatillas de tela Unisex  Azul  Navy Blue   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000NRR30U/?tag=tolees-21'
 descuento: '33.96'
 average: '43.12333333333333'

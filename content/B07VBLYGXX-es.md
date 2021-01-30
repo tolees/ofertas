@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'DANISH ENDURANCE Calcetines de Senderismo de Lana Merino 3 Pares  Gris Claro  EU 31-34 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VBLYGXX/?tag=tolees-21'
 descuento: '37.55'
 average: '24.95'

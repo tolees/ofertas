@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'Sony MDR-XB550APG Auriculares de Diadema Extra Bass  Micrófono Integrado Compatible con Smartphones  Diadema Metálica Adaptable   Color Verde  Talla Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N6NBOJJ/?tag=tolees-21'
 descuento: '48.00'
 average: '30.0'

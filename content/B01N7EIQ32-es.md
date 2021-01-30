@@ -16,6 +16,7 @@ comparePrice: 48.99 EUR
 prodname: 'Mayting 3 pcs Pulsera de Piedra Natural de Ojo de Tigre Pulsera de Lava de curación Reiki Charme Chakra Hombres Mujeres Pulsera'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N7EIQ32/?tag=tolees-21'
 descuento: '71.48'
 average: '13.97'

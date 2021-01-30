@@ -16,6 +16,7 @@ comparePrice: 10.25 EUR
 prodname: 'Wuyee Un par de Fundas de Botas de Santa en Blanco y Negro Botas Simples  Suelas largas de Felpa  sin Suelas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0828ZGMB1/?tag=tolees-21'
 descuento: '68.29'
 average: '3.25'

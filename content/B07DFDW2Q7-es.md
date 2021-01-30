@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Pop! Five Nights At Freddy S - Figura de Vinilo Rockstar Foxy'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DFDW2Q7/?tag=tolees-21'
 descuento: '31.03'
 average: '10.319999999999999'

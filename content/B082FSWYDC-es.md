@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Familybox Red de Piscina  Skimmer Recoge Hojas Recogehojas para Pisina con Barra telescópica de Aluminio Desmontable 1.2m Juego de Limpieza para Elimina Todos Los Escombros'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082FSWYDC/?tag=tolees-21'
 descuento: '35.02'
 average: '12.99'

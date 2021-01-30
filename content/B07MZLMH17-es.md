@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Kickers Jawa  Zapatillas para Bebés  Azul  Marine 10   18 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZLMH17/?tag=tolees-21'
 descuento: '82.61'
 average: '13.04'

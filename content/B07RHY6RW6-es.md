@@ -16,6 +16,7 @@ comparePrice: 85.0 EUR
 prodname: 'New Balance Fresh Foam Arishi v3  Zapatillas para Correr de Carretera para Mujer  Negro  Black Lk3   40.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RHY6RW6/?tag=tolees-21'
 descuento: '47.09'
 average: '44.97'

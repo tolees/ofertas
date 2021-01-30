@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'G-STAR RAW Vetar Slim Chino Pantalones  Gris  Asfalt 5126-995   W33/L36  Talla del Fabricante: 33W/ 36L  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QFQTY9L/?tag=tolees-21'
 descuento: '71.23'
 average: '25.88'

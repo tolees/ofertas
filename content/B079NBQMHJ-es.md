@@ -16,6 +16,7 @@ comparePrice: 6.5 EUR
 prodname: 'Béaba 913426 - Cuchara de aprendizaje segunda edad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079NBQMHJ/?tag=tolees-21'
 descuento: '50.00'
 average: '3.25'

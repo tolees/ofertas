@@ -16,6 +16,7 @@ comparePrice: 2.9 EUR
 prodname: 'Smint Tin Frutos Rojos  Caramelo Comprimido Sin Azúcar - 2 unidades de 35 gr/ud'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X476DDN/?tag=tolees-21'
 descuento: '31.03'
 average: '2.0'

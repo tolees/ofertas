@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Tubbz - Destiny Sweeperbot'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WHMQ9D2/?tag=tolees-21'
 descuento: '60.31'
 average: '5.95'

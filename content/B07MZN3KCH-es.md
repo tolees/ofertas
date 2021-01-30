@@ -16,6 +16,7 @@ comparePrice: 32.14 EUR
 prodname: 'Funko- Pop Vinyl: Movie Moment 80th: Batman and Joker  1989  Figura de Vinilo  Multicolor  Talla Única  37250 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZN3KCH/?tag=tolees-21'
 descuento: '29.59'
 average: '25.3275'

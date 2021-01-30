@@ -16,6 +16,7 @@ comparePrice: 9.35 EUR
 prodname: 'Astor Perfect Stay 16H Barra de Labios de Larga Duración Tono 235 I´ll Stay Nude - 18 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ZRPTV58/?tag=tolees-21'
 descuento: '34.76'
 average: '6.1'

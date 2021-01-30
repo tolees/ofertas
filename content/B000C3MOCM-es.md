@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Kenwood AT320A Accesorio de Robot de Cocina  Vidrio  De plástico'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000C3MOCM/?tag=tolees-21'
 descuento: '31.87'
 average: '60.70909090909091'

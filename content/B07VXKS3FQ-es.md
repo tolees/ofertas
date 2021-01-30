@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Tommy Hilfiger TJM Nos Polo  Azul  Audacious Blue Czy   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VXKS3FQ/?tag=tolees-21'
 descuento: '60.00'
 average: '22.0'

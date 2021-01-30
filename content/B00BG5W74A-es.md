@@ -16,6 +16,7 @@ comparePrice: 77.9 EUR
 prodname: 'Bosch ErgoMixx MSM66150 - Batidora de mano  600 W  con vaso de mezclas  picador y varilla batidora  color blanco y gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BG5W74A/?tag=tolees-21'
 descuento: '50.83'
 average: '38.3'

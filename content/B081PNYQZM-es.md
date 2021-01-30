@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Babacom Soporte Movil Coche Magnético 360 Grados Rotación Soporte Teléfono Coche Universal Rejilla Ventilación con Doble Clip Estable para iPhone  Samsung y Otras Smartphones de 3.5 a 6.5 Pulgadas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081PNYQZM/?tag=tolees-21'
 descuento: '60.03'
 average: '7.99'

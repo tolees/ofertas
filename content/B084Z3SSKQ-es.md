@@ -16,6 +16,7 @@ comparePrice: 2.32 EUR
 prodname: '1 pieza caliente completo al aire libre bebé infantil cochecito cochecito cochecito mosquitera mosquitera malla buggy cubierta bebé mosquitero - blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084Z3SSKQ/?tag=tolees-21'
 descuento: '33.62'
 average: '1.54'

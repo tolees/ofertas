@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Labanema Moto G7 Power Funda  360 Rotating Ring Grip Stand Holder Capa TPU + PC Shockproof Anti-rasguños teléfono Caso protección Cáscara Cover para Motorola Moto G7 Power - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SVY8Z6B/?tag=tolees-21'
 descuento: '70.39'
 average: '8.88'

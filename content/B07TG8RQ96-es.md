@@ -16,6 +16,7 @@ comparePrice: 139.99 EUR
 prodname: 'Syllable Hub USB Tipo C 10 en 1  Hub de Aluminio Tipo C con 4 USB 3.0 HDMI 4K Gigabit Ethernet RJ45 1080P VGA 3.5mm de Salida de Audio Lector de Tarjetas SD/TF con Carga Rápida PD USB-C'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TG8RQ96/?tag=tolees-21'
 descuento: '57.15'
 average: '59.99'

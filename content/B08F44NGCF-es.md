@@ -16,6 +16,7 @@ comparePrice: 3.59 EUR
 prodname: 'XINFULUK DIY Color sólido 3D Fluffy Foam Clay Slime DIY Soft Cotton Slime Ball Kit Kids Educational Craft Toy Antistress Kids Toys - Verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08F44NGCF/?tag=tolees-21'
 descuento: '33.43'
 average: '2.39'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Roxy You Gotta Be-Top De Manga Larga con Cuello En Pico para Mujer  Snow White  XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TZXNYCC/?tag=tolees-21'
 descuento: '43.04'
 average: '22.78'

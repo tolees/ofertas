@@ -16,6 +16,7 @@ comparePrice: 219.0 EUR
 prodname: 'Diesel Reloj Analogico para Hombre de Cuarzo con Correa en Acero Inoxidable DZ1844'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074WBZSQ6/?tag=tolees-21'
 descuento: '27.78'
 average: '114.304'

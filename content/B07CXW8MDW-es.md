@@ -16,6 +16,7 @@ comparePrice: 119.95 EUR
 prodname: 'Salomon Ellipse 2 GTX W  Zapatillas de Trail Running para Mujer  Azul  Trellis/Navy Blazer/Eggshell Blue   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CXW8MDW/?tag=tolees-21'
 descuento: '50.97'
 average: '58.81'

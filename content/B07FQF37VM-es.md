@@ -16,6 +16,7 @@ comparePrice: 38 EUR
 prodname: 'FITTOO Mallas Leggings Mujer Yoga de Alta Cintura Elásticos y Transpirables para Yoga Running FitnessG39K #4-Negro X-Large'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FQF37VM/?tag=tolees-21'
 descuento: '57.92'
 average: '15.99'

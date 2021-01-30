@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Botella de aerosol perfume portátil 12ml Mini bala Forma Niebla Botella de pulverización vacía Viaje atomizador recargable para aceites esenciales aromas baño lavandería Rojo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HVMJRTK/?tag=tolees-21'
 descuento: '48.05'
 average: '5.19'

@@ -16,6 +16,7 @@ comparePrice: 38.28 EUR
 prodname: 'Index CKBB48290 Bridas de Nylon  Blanco  4 8 x 290 mm  Set de 1000 Piezas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0719GM9NW/?tag=tolees-21'
 descuento: '71.26'
 average: '11'

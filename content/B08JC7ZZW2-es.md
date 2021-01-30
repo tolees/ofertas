@@ -16,6 +16,7 @@ comparePrice: 5.56 EUR
 prodname: 'QLJ Ratón inalámbrico de 2 4 GHz Ratón para Juegos Inteligente portátil Ratón óptico Giratorio Receptor USB para computadora portátil PC - Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08JC7ZZW2/?tag=tolees-21'
 descuento: '33.45'
 average: '3.7'

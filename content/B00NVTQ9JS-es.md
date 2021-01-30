@@ -16,6 +16,7 @@ comparePrice: 2212.77 EUR
 prodname: 'Zortrax M200 3D-impresora  single extrudir  negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NVTQ9JS/?tag=tolees-21'
 descuento: '77.86'
 average: '608.0'

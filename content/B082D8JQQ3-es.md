@@ -16,6 +16,7 @@ comparePrice: 15 EUR
 prodname: 'Mr. Tronic 5m Cable de Red Ethernet Latiguillo | CAT6  AWG24  CCA  UTP  RJ45  5 Metros  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082D8JQQ3/?tag=tolees-21'
 descuento: '53.40'
 average: '6.99'

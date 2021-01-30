@@ -16,6 +16,7 @@ comparePrice: 53.0 EUR
 prodname: 'ISDIN Lambdapil Cápsulas Anticaída del Cabello  Fortalece el Cabello y Reduce la Caída del Mismo  180 Cápsulas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BN1SAZG/?tag=tolees-21'
 descuento: '26.79'
 average: '38.8'

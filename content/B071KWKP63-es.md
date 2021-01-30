@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Aeeque - Funda de cuero para iPhone 6 6S Plus 5S 5 Samsung Galaxy S7 borde J5 J7 Huawei Xiaomi  de alta calidad  multifunción  con cremallera y cierre magnético  con ranura para tarjetas '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071KWKP63/?tag=tolees-21'
 descuento: '44.02'
 average: '14.43'

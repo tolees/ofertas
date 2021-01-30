@@ -16,6 +16,7 @@ comparePrice: 129.95 EUR
 prodname: 'G-STAR RAW Lynn Mid Waist Skinny  Jeans Ajustados  Azul  lt Aged D008-424   28W / 32L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N5DUT19/?tag=tolees-21'
 descuento: '46.91'
 average: '68.99'

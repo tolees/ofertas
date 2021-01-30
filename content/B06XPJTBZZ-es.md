@@ -16,6 +16,7 @@ comparePrice: 70.99 EUR
 prodname: '6PC Juego de Barbacoa de Acero Inoxidable - Heavy Duty Kit de Accesorios de Herramienta de Barbacoa para Barbacoa Profesional Profesional - Regalo Ideal para Hombres papá'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XPJTBZZ/?tag=tolees-21'
 descuento: '63.38'
 average: '26.0'

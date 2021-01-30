@@ -16,6 +16,7 @@ comparePrice: 262.9 EUR
 prodname: 'Insta360 ONE - Cámara 360 grados deportiva  Resolución 4K  Estabilizador de imagen integrado  24Mp  conexión Bluetooth 4.0  MicroSD  Lightning   color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XYK7R1Z/?tag=tolees-21'
 descuento: '25.26'
 average: '234.675'

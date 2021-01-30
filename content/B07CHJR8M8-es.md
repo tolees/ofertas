@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'My Hero One´s Justice'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CHJR8M8/?tag=tolees-21'
 descuento: '57.28'
 average: '24.646'

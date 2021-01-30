@@ -16,6 +16,7 @@ comparePrice: 16.0 EUR
 prodname: 'ecuphar SE506061 Orozyme Tiras Dentífricas  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074LH1XJS/?tag=tolees-21'
 descuento: '34.69'
 average: '10.45'

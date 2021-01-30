@@ -16,6 +16,7 @@ comparePrice: 13.2 EUR
 prodname: 'Zefal Piel Armour M  Protectores Adhesivos Cuadro  Transparente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00RN46JP6/?tag=tolees-21'
 descuento: '35.68'
 average: '9.485'

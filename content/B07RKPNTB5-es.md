@@ -16,6 +16,7 @@ comparePrice: 76.66 EUR
 prodname: 'Tommy Hilfiger Hilfiger Slim Polo  Rojo  Primary Red   Medium  Talla del Fabricante:  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RKPNTB5/?tag=tolees-21'
 descuento: '56.95'
 average: '33.0'

@@ -16,6 +16,7 @@ comparePrice: 20.28 EUR
 prodname: 'Vermouth Myrrha Reserva   100 cl - 1000 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QGFTF2R/?tag=tolees-21'
 descuento: '55.87'
 average: '18.432000000000002'

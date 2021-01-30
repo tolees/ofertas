@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'L Oréal Paris Volumissime Carbone X5 Máscara de Pestañas  Color Negro - 19 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0055TBLXG/?tag=tolees-21'
 descuento: '39.80'
 average: '6.180000000000001'

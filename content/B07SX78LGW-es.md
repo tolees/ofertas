@@ -16,6 +16,7 @@ comparePrice: 27.99 EUR
 prodname: 'Homealexa Ventilador de Mesa Diam 17cm Ventilador USB silencioso Recargable con 4 velocidades 45 ° de inclinación para Oficina  hogar y Dormitorio Negro/Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SX78LGW/?tag=tolees-21'
 descuento: '28.58'
 average: '19.99'

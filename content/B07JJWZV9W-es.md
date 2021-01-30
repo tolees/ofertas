@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'Almohadilla Eléctrica Térmica  50 x 60 cm  con Función de Apagado Automático 5 Grados de Calefacción Terapéuticos Franela Suave Alivio Muscular para Espalda Cuello Hombro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JJWZV9W/?tag=tolees-21'
 descuento: '26.68'
 average: '20.69'

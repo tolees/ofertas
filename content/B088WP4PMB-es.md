@@ -16,6 +16,7 @@ comparePrice: 29.49 EUR
 prodname: 'Benkeg Generador de ozono  purificador de Aire eléctrico  purificador de Aire Recargable  eliminador de olores y para el hogar  para Oficina'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088WP4PMB/?tag=tolees-21'
 descuento: '28.82'
 average: '27.94454545454545'

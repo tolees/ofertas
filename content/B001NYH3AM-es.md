@@ -16,6 +16,7 @@ comparePrice: 87.49 EUR
 prodname: 'Reebok Classic Lthr 2214  Zapatillas de Trail Running para Hombre  Blanco  Intense White/Light Grey   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001NYH3AM/?tag=tolees-21'
 descuento: '33.74'
 average: '60.328'

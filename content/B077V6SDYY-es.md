@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Navaja de Afeitar de Barbero y Peine Plantilla Guía de Sapiens - Kit de Afeitado y Cuidado de Contorno de Barba Hombre con 10 Cuchillas Derby  o sea 20 Hojas Simples '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077V6SDYY/?tag=tolees-21'
 descuento: '36.73'
 average: '17.95'

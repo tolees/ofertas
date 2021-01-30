@@ -16,6 +16,7 @@ comparePrice: 5.99 EUR
 prodname: 'SYOSIN Corrector de Postura  Abrazadera de Respaldo Ajustable de Alta Elasticidad para Mujeres y Hombres  Entrenador de Postura cómodo para el Alivio del Dolor de Cuello  Espalda y Hombro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NW8GL4W/?tag=tolees-21'
 descuento: '33.39'
 average: '5.99'

@@ -16,6 +16,7 @@ comparePrice: 4.95 EUR
 prodname: 'Energy Sistem Earphones Urban 2 Black  Auriculares  In-Ear  Aluminum Alloy  Lightweight  Neodymium Magnet '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00S8CECKQ/?tag=tolees-21'
 descuento: '27.47'
 average: '3.9439999999999995'

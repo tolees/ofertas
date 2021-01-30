@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'NANAMI  Fast Wireless Charging Stand  M220'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XXZK99F/?tag=tolees-21'
 descuento: '50.03'
 average: '7.49'

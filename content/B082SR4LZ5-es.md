@@ -16,6 +16,7 @@ comparePrice: 8.41 EUR
 prodname: 'NHUAIYINSHUGUOGUANGGAOJINGY Tarjeta elevadora de Adaptador PCI-E Express 16X de 90 Grados en Todo el Mundo para chasis de Servidor de computadora 2U Nuevo portátil - Verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082SR4LZ5/?tag=tolees-21'
 descuento: '33.53'
 average: '5.59'

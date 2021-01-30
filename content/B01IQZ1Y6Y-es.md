@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Star Wars Rogue One - Disfraz de Death Trooper para niños  infantil 5-6 años  Rubie s 630499-M '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IQZ1Y6Y/?tag=tolees-21'
 descuento: '66.39'
 average: '9.525'

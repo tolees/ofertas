@@ -16,6 +16,7 @@ comparePrice: 11.8 EUR
 prodname: 'Minutus Manta Fina de Punto para Verano Algodón 80 Cm  Delta   naranja '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VT24NSF/?tag=tolees-21'
 descuento: '75.42'
 average: '2.9'

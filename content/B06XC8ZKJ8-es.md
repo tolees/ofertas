@@ -16,6 +16,7 @@ comparePrice: 30.99 EUR
 prodname: 'Nobleza - Rascador para Gatos de cartón. Soporte de Descanso con Forma de Gato con Catnip.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XC8ZKJ8/?tag=tolees-21'
 descuento: '38.72'
 average: '18.99'

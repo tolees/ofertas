@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'LG 27MK600M-W - Monitor FHD de 68 6 cm  27"  con Panel IPS  1920 x 1080 píxeles  16:9  250 cd/m²  NTSC >72%  1000:1  5 ms  75 Hz  Color Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QYW6NVY/?tag=tolees-21'
 descuento: '25.13'
 average: '145.25'

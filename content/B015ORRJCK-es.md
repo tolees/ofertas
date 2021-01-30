@@ -16,6 +16,7 @@ comparePrice: 95.46 EUR
 prodname: 'Niré Brochas de Maquillaje con Esponja Maquillaje  Estuche  Limpiador de Brochas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B015ORRJCK/?tag=tolees-21'
 descuento: '52.91'
 average: '34.916666666666664'

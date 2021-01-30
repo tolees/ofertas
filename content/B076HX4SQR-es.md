@@ -16,6 +16,7 @@ comparePrice: 349.99 EUR
 prodname: 'Disney Star Wars Stormtrooper by Ubtech - Robot inteligente First Order Stormtrooper con Companion App'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076HX4SQR/?tag=tolees-21'
 descuento: '76.59'
 average: '72.95484375000001'

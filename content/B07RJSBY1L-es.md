@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'UniqueMe [1 Pack] Protector de Pantalla para Oneplus 7 Pro  Vidrio Templado[Cobertura Total 3D] [Caso Amistoso] HD Flim Cristal Templado con garantía de por Vida de reemplazo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RJSBY1L/?tag=tolees-21'
 descuento: '87.55'
 average: '1.99'

@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'SHAN ZU Cuchillo de Cocina de Damasco de 20cm AUS10 Cuchillo de Cocina de 67 Capas de Acero de Damasco Profesional Cuchillos Afilados de Alto Carbono Profesionales con manija G10 - GYO Series'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HCZQKP8/?tag=tolees-21'
 descuento: '25.00'
 average: '89.99'

@@ -16,6 +16,7 @@ comparePrice: 139.99 EUR
 prodname: 'LIGE Relojes Hombre Militare Deportivos Impermeable Acero Inoxidable Analógico Cuarzo Relojes de Pulsera para Hombre Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XCGYXCH/?tag=tolees-21'
 descuento: '75.72'
 average: '33.99'

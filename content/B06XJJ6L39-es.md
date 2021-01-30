@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Targus Pulse - Funda para tabletas de 15.6"  Color Negro y Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XJJ6L39/?tag=tolees-21'
 descuento: '54.98'
 average: '9.0'

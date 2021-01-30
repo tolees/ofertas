@@ -16,6 +16,7 @@ comparePrice: 36.99 EUR
 prodname: 'TUTUO Adapter para dji Osmo Pocket Adaptador de Audio Tipo C de C a 3 5 mm Adaptador de Audio USB para micrófono Externo para grabación y Audio  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VL1XW64/?tag=tolees-21'
 descuento: '35.14'
 average: '23.99'

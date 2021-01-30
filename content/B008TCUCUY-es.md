@@ -16,6 +16,7 @@ comparePrice: 5.95 EUR
 prodname: 'Intocable [DVD]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B008TCUCUY/?tag=tolees-21'
 descuento: '49.75'
 average: '2.99'

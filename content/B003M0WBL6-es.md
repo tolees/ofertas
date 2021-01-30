@@ -16,6 +16,7 @@ comparePrice: 12.24 EUR
 prodname: 'Schwarzkopf Osis + - Laca  300 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003M0WBL6/?tag=tolees-21'
 descuento: '33.91'
 average: '8.09'

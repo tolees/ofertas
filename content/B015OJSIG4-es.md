@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'PUMA ICRA Trainer SD  Zapatillas Unisex Adulto  Negro  Black/White   40.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B015OJSIG4/?tag=tolees-21'
 descuento: '39.96'
 average: '36.656666666666666'

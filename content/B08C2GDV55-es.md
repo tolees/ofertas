@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'Qomolo Compresor de Aire Coche Portátil  12V Bomba de Aire Eléctrico Hinchador con Luz LED 4 Adaptadores de Válvulas  para Inflar Neumáticos de Coche Motocicleta Bicicleta y Baloncesto  120PSI'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08C2GDV55/?tag=tolees-21'
 descuento: '60.88'
 average: '26.99'

@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'EXZACT Pro – Escala Súper Delgada Analizador Corporal Electrónico/ Analizador Corporal / Báscula Personal Electronica / Báscula de Baño Digital - 1.7 cm Espesor - Grasa Corporal / Hidratación / Músculos Corporal/ Hueso - 150 kg / 330 lb  Pro Blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B011PXRL34/?tag=tolees-21'
 descuento: '50.03'
 average: '9.99'

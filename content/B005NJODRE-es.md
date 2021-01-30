@@ -16,6 +16,7 @@ comparePrice: 137.46 EUR
 prodname: 'Waterman Expert pluma estilográfica  acero inoxidable con adorno de oro de 23 quilates  plumín fino con cartucho de tinta azul  estuche de regalo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005NJODRE/?tag=tolees-21'
 descuento: '27.14'
 average: '100.15'

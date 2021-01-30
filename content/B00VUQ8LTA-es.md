@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Kappa Trust 241981-1110  Zapatillas Unisex Adulto  Negro-Schwarz  1110 Black/White   45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00VUQ8LTA/?tag=tolees-21'
 descuento: '45.09'
 average: '21.815'

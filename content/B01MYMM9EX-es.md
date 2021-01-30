@@ -16,6 +16,7 @@ comparePrice: 7.95 EUR
 prodname: 'L Oreal Paris Colorista Coloración Temporal Colorista Spray - Pink Hair'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MYMM9EX/?tag=tolees-21'
 descuento: '87.42'
 average: '1.0'

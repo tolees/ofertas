@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Bandeja de Hielo Diamante   Moldes para Cubitos de Hielo Certificado sin BPA  Congelarse Alimentos para Bebés Cola Cócteles Whisky  Red&Black-2Pack '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074M7HRSJ/?tag=tolees-21'
 descuento: '60.06'
 average: '3.99'

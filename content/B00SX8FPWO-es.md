@@ -16,6 +16,7 @@ comparePrice: 12.95 EUR
 prodname: 'adidas Solid Crew  Calcetines Unisex Adulto  blanco / negro  43/46  paquete de 3'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00SX8FPWO/?tag=tolees-21'
 descuento: '38.22'
 average: '9.0'

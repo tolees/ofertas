@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'JBL Xtreme - Altavoz Bluetooth portátil  cancelación de ruido y carga USB   Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B010SWJVS6/?tag=tolees-21'
 descuento: '49.87'
 average: '175.71349999999998'

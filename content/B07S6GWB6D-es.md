@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Amerigo Whisky Stones Gift Set - ¿Aguar tu Whisky? Nunca más! Juego de 9 Piedras Whisky - Regalos Hombre - Cubitos de Hielo Reutilizables - Whiskey Rocks Marble - Regalos Dia del Padre - Gratis EBOOK'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S6GWB6D/?tag=tolees-21'
 descuento: '45.02'
 average: '10.790000000000001'

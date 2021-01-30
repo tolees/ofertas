@@ -16,6 +16,7 @@ comparePrice: 2.99 EUR
 prodname: 'Calypso Energy Peeling - Esponja de baño vegetal  exfoliación con partículas de cáscaras de frutos secos  1 unidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0083FNBI2/?tag=tolees-21'
 descuento: '28.09'
 average: '2.15'

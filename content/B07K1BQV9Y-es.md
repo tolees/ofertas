@@ -16,6 +16,7 @@ comparePrice: 13.96 EUR
 prodname: 'GLOGLOW Calzoncillos de Baja Altura para Hombres Bragas Calzoncillos Calzoncillos T-Back XL-Verde Oliva '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K1BQV9Y/?tag=tolees-21'
 descuento: '59.96'
 average: '5.59'

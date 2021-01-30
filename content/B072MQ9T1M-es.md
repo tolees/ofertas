@@ -16,6 +16,7 @@ comparePrice: 299.9 EUR
 prodname: 'ASUS VZ27VQ - Monitor  27 pulgadas  Full HD  Eye Care  Curvo  Antiparpadeo  filtro de luz azul   Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072MQ9T1M/?tag=tolees-21'
 descuento: '26.09'
 average: '213.86948717948718'

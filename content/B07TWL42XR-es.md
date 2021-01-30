@@ -16,6 +16,7 @@ comparePrice: 150 EUR
 prodname: 'ANSIO Deshumidificador 12l / día con Temporizador de 24 Horas  Cerradura Infantil  con Ruedas  Secado de Ropa  Drenaje Continuo  Ideal para Oficina  la Cocina  la Bodega/Garaje  2 años de garantía'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TWL42XR/?tag=tolees-21'
 descuento: '53.35'
 average: '69.98'

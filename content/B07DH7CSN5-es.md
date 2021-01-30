@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'adidas V Racer 2.0  Zapatillas de Running para Hombre  Azul  Dark Blue/FTWR White/FTWR White Dark Blue/FTWR White/FTWR White   41 1/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DH7CSN5/?tag=tolees-21'
 descuento: '34.47'
 average: '38.836666666666666'

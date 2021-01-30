@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Jack & Jones Jcocloud Crew Neck suéter  Marrón  Fudge Fit: Knit Fit   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V69YPH8/?tag=tolees-21'
 descuento: '80.15'
 average: '10.842500000000001'

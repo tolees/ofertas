@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'Reebok Dmxride Comfort 4.0  Zapatillas de Deporte para Hombre  Negro  Black/Cool Shadow 000   40.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0789FRLZH/?tag=tolees-21'
 descuento: '47.22'
 average: '29'

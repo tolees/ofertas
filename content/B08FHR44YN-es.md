@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'WERNNSAI Azul Mar Sirena Cortina de la Ducha con Ganchos Antideslizante Alfombras Tapa de Inodoro Alfombra de Baño para Niños Muchachas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08FHR44YN/?tag=tolees-21'
 descuento: '55.01'
 average: '26.99'

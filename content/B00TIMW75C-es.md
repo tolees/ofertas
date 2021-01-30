@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'PowerBar PowerGel Shots Orange 16x60g - Gomas de Alta Energía de Carbono + C2MAX Magnesio y Sodio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00TIMW75C/?tag=tolees-21'
 descuento: '88.97'
 average: '2.2'

@@ -16,6 +16,7 @@ comparePrice: 145.0 EUR
 prodname: 'Saucony Ride ISO  Zapatillas de Running para Hombre  Negro  Black 2   45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078PP1PM2/?tag=tolees-21'
 descuento: '48.62'
 average: '74.5'

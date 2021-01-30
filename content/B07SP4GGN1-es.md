@@ -16,6 +16,7 @@ comparePrice: 26.0 EUR
 prodname: 'Under Armour Sportstyle Logo Tank Tanque  Hombre  Azul  Academy/White 409   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SP4GGN1/?tag=tolees-21'
 descuento: '44.27'
 average: '14.49'

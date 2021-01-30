@@ -16,6 +16,7 @@ comparePrice: 115.0 EUR
 prodname: 'Art TIBIDABO  Zapatillas para Hombre  Marrón  Brown   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0771XZHJK/?tag=tolees-21'
 descuento: '52.75'
 average: '63.06'

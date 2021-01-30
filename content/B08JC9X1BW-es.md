@@ -16,6 +16,7 @@ comparePrice: 4.18 EUR
 prodname: 'DENGC M20 Wi Computer Mice Mouse 1000Dpi Ratón para Juegos Ratones ópticos para computadora Pc  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08JC9X1BW/?tag=tolees-21'
 descuento: '33.49'
 average: '2.78'

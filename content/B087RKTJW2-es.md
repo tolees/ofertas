@@ -16,6 +16,7 @@ comparePrice: 36.49 EUR
 prodname: 'Paquete de 100 Unidades – se suministra en Bolsa sellada de fábrica  Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087RKTJW2/?tag=tolees-21'
 descuento: '25.68'
 average: '27.12'

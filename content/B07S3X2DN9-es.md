@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'New Balance FuelCell Propel  Zapatillas de Running para Hombre  Multicolor  Neo CT   47.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S3X2DN9/?tag=tolees-21'
 descuento: '30.43'
 average: '80.86'

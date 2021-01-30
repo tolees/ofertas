@@ -16,6 +16,7 @@ comparePrice: 2.3 EUR
 prodname: 'Liposan Bálsamo labial  Sabor Cereza - 4.8 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BH7Y21L/?tag=tolees-21'
 descuento: '56.52'
 average: '1.0'

@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Marco Tozzi 2-2-25112-33  Botas Chukka para Mujer  Beige  Pepper Comb 301   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NS4Q5SG/?tag=tolees-21'
 descuento: '67.77'
 average: '16.1'

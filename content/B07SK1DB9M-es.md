@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Neceser de Viaje  Neceser Maquillaje Grande para Hombre y Mujer  Carttiya Bolsa de Aseo Impermeable para Colgar  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SK1DB9M/?tag=tolees-21'
 descuento: '44.04'
 average: '13.99'

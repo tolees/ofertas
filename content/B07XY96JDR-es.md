@@ -16,6 +16,7 @@ comparePrice: 219.0 EUR
 prodname: 'LELO SORAYA 2 Conejito masajeador Aqua para placer interno y externo. Sumergible e inalámbrico'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XY96JDR/?tag=tolees-21'
 descuento: '31.51'
 average: '149.99'

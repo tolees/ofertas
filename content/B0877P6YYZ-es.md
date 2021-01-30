@@ -16,6 +16,7 @@ comparePrice: 52.63 EUR
 prodname: 'Unibear Mascarilla Protectora Desechable Respiratoria FFP2 / KN95  94% de Filtración  Paquete de 20 Máscaras '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0877P6YYZ/?tag=tolees-21'
 descuento: '43.02'
 average: '37.49'

@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'JACK & JONES Jjepaulos Polo SS Noos  Gris  Light Grey Detail: Slim Fit-Melange   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079C18QBF/?tag=tolees-21'
 descuento: '34.97'
 average: '12.475'

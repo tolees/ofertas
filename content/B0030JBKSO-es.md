@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Kirkland Jelly Belly Bean Bulk Jar 1.8kg 44 flavours Sweets'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0030JBKSO/?tag=tolees-21'
 descuento: '28.73'
 average: '30.633333333333333'

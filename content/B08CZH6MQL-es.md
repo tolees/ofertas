@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Rybozen 4 Puertos USB 3.0 Switch  Conmutador KVM USB 2 Entradas y 4 Salidas con 2 Cable USB para Compartir Teclado  Ratón  Disco Duro  Impresoras  Escánere'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CZH6MQL/?tag=tolees-21'
 descuento: '38.90'
 average: '21.99'

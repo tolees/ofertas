@@ -16,6 +16,7 @@ comparePrice: 35.95 EUR
 prodname: 'Under Armour UA Charged Europa 2  Zapatillas de Running para Hombre  Negro  Black Black   40.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K2KJ8T8/?tag=tolees-21'
 descuento: '28.96'
 average: '25.994999999999997'

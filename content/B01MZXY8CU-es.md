@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Puma Basket Heart Patent  Zapatillas para Mujer  Negro Black  38.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MZXY8CU/?tag=tolees-21'
 descuento: '47.42'
 average: '47.3'

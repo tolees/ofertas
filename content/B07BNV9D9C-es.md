@@ -16,6 +16,7 @@ comparePrice: 28.31 EUR
 prodname: 'Jurassic Park Poster Classic Logo  Multicolor  61 x 91.5cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BNV9D9C/?tag=tolees-21'
 descuento: '75.45'
 average: '6.95'

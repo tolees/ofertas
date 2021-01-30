@@ -16,6 +16,7 @@ comparePrice: 42.95 EUR
 prodname: 'PURLINE Parrilla Eléctrica Grill  Panini Maker  Máxima Antiadherencia  700W. Con placas antiadherentes para tostar Sandwiches quesadillas paninis ...'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X3M8KV4/?tag=tolees-21'
 descuento: '41.82'
 average: '22.656666666666666'

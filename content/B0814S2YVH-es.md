@@ -16,6 +16,7 @@ comparePrice: 23.0 EUR
 prodname: 'Under Armour UA Driver Highlight Cap Gorra con Visera  Funcional Gorrapara Hombre  Negro  OSFA'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0814S2YVH/?tag=tolees-21'
 descuento: '47.87'
 average: '11.49'

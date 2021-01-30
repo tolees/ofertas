@@ -16,6 +16,7 @@ comparePrice: 4.7 EUR
 prodname: 'Finocam - Calendario de sobremesa 2020 Escribir español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TBMR82K/?tag=tolees-21'
 descuento: '30.85'
 average: '3.25'

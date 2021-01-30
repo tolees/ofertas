@@ -16,6 +16,7 @@ comparePrice: 10.49 EUR
 prodname: 'Amscan 9900558 - Pack de decoración para 18 cumpleaños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BQJW60K/?tag=tolees-21'
 descuento: '26.69'
 average: '8.326666666666666'

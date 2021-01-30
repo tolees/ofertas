@@ -16,6 +16,7 @@ comparePrice: 20.85 EUR
 prodname: 'Moliies Animal Toys Skeleton Simulation Model Set Mini Figura de Acción Jurásico Decoración de Fiesta de Halloween Niños Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081S2CL9W/?tag=tolees-21'
 descuento: '35.01'
 average: '13.55'

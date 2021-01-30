@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Vans Ward Canvas Zapatillas Unisex Niños  Rojo   Canvas  Port Royale/White 8j7   39'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FY4GGNN/?tag=tolees-21'
 descuento: '30.00'
 average: '31.5'

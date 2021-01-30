@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'Rampow Adaptador Micro USB a Tipo C Aluminio Duradero  Adaptador Micro USB C-Garantía de por Vida-Compatible para HTC 10U11LG G6OnePlus 235 Sony Xperia XZ Samsung Galaxy S8/S9 Gris Espacial-2 Unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06ZYLJYXZ/?tag=tolees-21'
 descuento: '27.81'
 average: '6.698'

@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Braun Silk-épil 3 3-410 - Depiladora Eléctrica para mujer con 3 extras  color frambuesa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077ZK2PFF/?tag=tolees-21'
 descuento: '33.41'
 average: '41.71125000000001'

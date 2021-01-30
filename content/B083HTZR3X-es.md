@@ -16,6 +16,7 @@ comparePrice: 119.98 EUR
 prodname: 'K9CK Luces LED para Ideas La casa del árbol 21318  Kit de Iluminación Luz Compatible con Bloques de construcción  NO Incluido en el Modelo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083HTZR3X/?tag=tolees-21'
 descuento: '50.00'
 average: '59.99'

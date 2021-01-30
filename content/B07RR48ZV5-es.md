@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Tommy Hilfiger - Th Nylon Tote  Bolsos totes Mujer  Negro  Black   14x0.1x47 cm  W x H L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RR48ZV5/?tag=tolees-21'
 descuento: '57.05'
 average: '44.413333333333334'

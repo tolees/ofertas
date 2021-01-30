@@ -16,6 +16,7 @@ comparePrice: 5.73 EUR
 prodname: 'Fenteer Papel Garland Colgando Banner Boda Cumpleaños Prom Luau Party Decor Multicolor 4 Formas - D'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TVZ4D67/?tag=tolees-21'
 descuento: '33.33'
 average: '3.82'

@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Buffalo Chai  Zapatillas Altas para Mujer  Beige  Beige 000   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T1LXP6Z/?tag=tolees-21'
 descuento: '47.45'
 average: '52.5'

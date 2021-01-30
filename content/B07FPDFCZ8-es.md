@@ -16,6 +16,7 @@ comparePrice: 17.0 EUR
 prodname: 'LEMCASE Tijeras de Cocina  Scissors Multiuso - Cuchilla de Acero Inoxidable con Cubierta Protectora | Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FPDFCZ8/?tag=tolees-21'
 descuento: '35.29'
 average: '11.0'

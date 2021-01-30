@@ -16,6 +16,7 @@ comparePrice: 19.78 EUR
 prodname: 'Sharplace Caja de Disco Duro Móvil 2X 2.5 IDE USB 2.0 Externa para Portátil Accesorios'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HG17RVT/?tag=tolees-21'
 descuento: '44.44'
 average: '10.99'

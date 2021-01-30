@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Desigual 19WAYP07 - Cartera para mujer de Sintético Mujer Negro Negro  NEGRO 2000  3x9.5x20.2 cm  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDBWX2X/?tag=tolees-21'
 descuento: '50.05'
 average: '24.95'

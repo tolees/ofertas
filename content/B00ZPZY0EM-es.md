@@ -16,6 +16,7 @@ comparePrice: 14.9 EUR
 prodname: 'Roca AG0082700R  Ducha de Mano con una Función  Cromado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ZPZY0EM/?tag=tolees-21'
 descuento: '30.47'
 average: '10.36'

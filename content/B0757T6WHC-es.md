@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: '226ERS Salts Electrolytes  Sales Minerales  Electrolitos - 100 cápsulas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0757T6WHC/?tag=tolees-21'
 descuento: '43.75'
 average: '22.5'

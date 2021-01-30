@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Repuhand 300 Piezas Hojas de Arce Otoño Papeles Artificiales Multicolor Decoración para Fiesta Decoración de la Boda del Jardín de 6 Colores'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KD6QRTP/?tag=tolees-21'
 descuento: '30.33'
 average: '6.96'

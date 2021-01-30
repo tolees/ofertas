@@ -16,6 +16,7 @@ comparePrice: 85.0 EUR
 prodname: 'Under Armour Enduro Pant Pantalones  Hombre  Negro  Black/Black 001   34W / 30L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077XPBPW1/?tag=tolees-21'
 descuento: '38.75'
 average: '52.06'

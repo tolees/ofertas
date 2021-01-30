@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'Tarjeta de captura de video USB 2.0 HDMI Video HD 1080P Capture Box Transmisión en vivo para videocámara de DVD Grabación de cámara  Grabador gráfico de grabación para juegos  transmisión  enseñanza'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08DR9V8TX/?tag=tolees-21'
 descuento: '34.79'
 average: '29.99'

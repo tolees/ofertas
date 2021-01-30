@@ -16,6 +16,7 @@ comparePrice: 139.99 EUR
 prodname: 'Columbia Camden Outdry Chukka  Botas Casual  Impermeable para Hombre  Negro  Black Grey   45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CW7LY44/?tag=tolees-21'
 descuento: '50.03'
 average: '69.95'

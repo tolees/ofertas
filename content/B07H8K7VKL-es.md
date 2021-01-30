@@ -16,6 +16,7 @@ comparePrice: 152.0 EUR
 prodname: 'Castellanísimos Mocasines de Mujer en Piel Florentic Burdeos con Borlas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H8K7VKL/?tag=tolees-21'
 descuento: '60.53'
 average: '59.99'

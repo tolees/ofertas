@@ -16,6 +16,7 @@ comparePrice: 279.0 EUR
 prodname: 'Fossil Womens FTW6017'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KX1JXQM/?tag=tolees-21'
 descuento: '41.22'
 average: '152.594'

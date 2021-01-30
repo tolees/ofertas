@@ -16,6 +16,7 @@ comparePrice: 23.0 EUR
 prodname: 'Riñonera plana Pepe Jeans Raw'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NCNFJ9Y/?tag=tolees-21'
 descuento: '30.43'
 average: '16.0'

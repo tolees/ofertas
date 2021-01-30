@@ -16,6 +16,7 @@ comparePrice: 179.0 EUR
 prodname: 'Panama Jack Piola  Botas Altas para Mujer  Marrón  Cuero B8   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01H1X7XRG/?tag=tolees-21'
 descuento: '30.65'
 average: '131.57'

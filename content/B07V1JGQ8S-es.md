@@ -16,6 +16,7 @@ comparePrice: 26.0 EUR
 prodname: 'Nike Pico 5  TDV   Gymnastics Shoe Unisex-Baby  Black/Black  26 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V1JGQ8S/?tag=tolees-21'
 descuento: '44.04'
 average: '14.55'

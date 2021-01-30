@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'Gillette Fusion5 Power Maquinilla Afeitar  8 Recambios'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZKR8W23/?tag=tolees-21'
 descuento: '49.98'
 average: '14.5'

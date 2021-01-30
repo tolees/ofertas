@@ -16,6 +16,7 @@ comparePrice: 34.2 EUR
 prodname: 'Limxems Cargador Inalámbrico 10W Qi Wireless Carga Rápida Quick Charger para iPhone XS/XS MAX/XR/X / 8 / 8Plus Samsung Galaxy Note 9 /S9 /S8 /S8 Plus /S7 /S8 /S9 / Edge /S6 / Note 8 - Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DHQJV15/?tag=tolees-21'
 descuento: '56.17'
 average: '14.99'

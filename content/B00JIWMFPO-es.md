@@ -16,6 +16,7 @@ comparePrice: 31.87 EUR
 prodname: 'Monix - Taco Cuchillos ceramicos 4p.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00JIWMFPO/?tag=tolees-21'
 descuento: '49.86'
 average: '15.98'

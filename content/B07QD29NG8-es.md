@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'MTNG Attitude 69147  Zapatillas para Mujer  Negro  Goat PU Negro/Oro C47938   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QD29NG8/?tag=tolees-21'
 descuento: '37.07'
 average: '28.94'

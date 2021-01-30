@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Juego de carreras de huevos - contiene 8 cucharas  8 huevos  4 patos y 4 animales marinos - al aire libre niños Juguete de deportes para jardín  fiesta cumpleaños  patio de la escuela  verano la playa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q46RZZ3/?tag=tolees-21'
 descuento: '25.02'
 average: '11.99'

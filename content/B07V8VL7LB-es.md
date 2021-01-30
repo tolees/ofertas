@@ -16,6 +16,7 @@ comparePrice: 94.9 EUR
 prodname: 'Tommy Hilfiger Corporate Material Mix Runner  Zapatillas para Hombre  Negro  Black Bds   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V8VL7LB/?tag=tolees-21'
 descuento: '50.47'
 average: '47.0'

@@ -16,6 +16,7 @@ comparePrice: 100 EUR
 prodname: 'Merrell Vapor Glove 4  Zapatillas Deportivas para Interior para Hombre  Negro  Black   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DYGX9WP/?tag=tolees-21'
 descuento: '32.91'
 average: '67.09'

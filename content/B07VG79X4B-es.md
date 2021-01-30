@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'JACK & JONES Jcostanford Crew Neck Noos suéter  Azul  Black Navy Fit: Knit Fit   XX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VG79X4B/?tag=tolees-21'
 descuento: '64.70'
 average: '12.35'

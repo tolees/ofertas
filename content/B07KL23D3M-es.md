@@ -16,6 +16,7 @@ comparePrice: 57.0 EUR
 prodname: 'Safety 1st Keeny Trona evolutiva  Trona bebé compacta  plegable adecuada para espacios pequenos  ajustable crece con el niño  6 meses - 3 años  color Warm Grey'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KL23D3M/?tag=tolees-21'
 descuento: '47.81'
 average: '30.883333333333333'

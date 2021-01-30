@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'La Vecina Rubia Pendrive USB 16 GB - con Forma de Pintalabios  Tacto Suave y Correa de Sujección'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077K6R4BT/?tag=tolees-21'
 descuento: '49.92'
 average: '10.983333333333334'

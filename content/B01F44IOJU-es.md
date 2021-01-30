@@ -16,6 +16,7 @@ comparePrice: 27.25 EUR
 prodname: 'Taza de viaje - Café Thermos frasco - Aislado en vacío de acero inoxidable - Elegante ligero derrame y prueba de fugas - Fácil de limpiar la tapa - Un clic  una mano de la operación'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01F44IOJU/?tag=tolees-21'
 descuento: '26.64'
 average: '17.74'

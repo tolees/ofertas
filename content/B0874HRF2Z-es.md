@@ -16,6 +16,7 @@ comparePrice: 20.5 EUR
 prodname: 'AYIYO - Pantalones cortos unisex para recién nacidos con volantes  diseño floral Rojo rosso 90 cm 12-24 meses '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0874HRF2Z/?tag=tolees-21'
 descuento: '43.80'
 average: '11.52'

@@ -16,6 +16,7 @@ comparePrice: 88.9 EUR
 prodname: 'HP CE323A 128A Cartucho de Tóner Original  1 unidad  magenta'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003XW4E7W/?tag=tolees-21'
 descuento: '29.15'
 average: '62.99'

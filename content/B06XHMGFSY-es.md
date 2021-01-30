@@ -16,6 +16,7 @@ comparePrice: 45.75 EUR
 prodname: 'Silent Mind ~ Juego De Cuencos Tibetanos ~ Diseño Azul ~ Con Mazo De Superficie Doble Y Cojín De Seda ~ Promueve La Paz  La Curación De Chakras Y La Atención Plena ~ Un Regalo Exquisito'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XHMGFSY/?tag=tolees-21'
 descuento: '25.68'
 average: '34.25'

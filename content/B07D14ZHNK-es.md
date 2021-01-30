@@ -16,6 +16,7 @@ comparePrice: 85.0 EUR
 prodname: 'Kipling Onalo Bolsa Multifunción  18 Litros  Negro  Lively Black '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D14ZHNK/?tag=tolees-21'
 descuento: '50.31'
 average: '46.33'

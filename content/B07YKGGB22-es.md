@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Altavoz Bluetooth 30W  VTIN B2 Altavoz Bluetooth Estéreo TWS  Altavoz Portátil Bluetooth V5.0  Rango de 22M  24H de Reproducción  para Casa/Oficina/Exterior/Viaje'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YKGGB22/?tag=tolees-21'
 descuento: '45.01'
 average: '44.45666666666667'

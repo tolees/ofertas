@@ -16,6 +16,7 @@ comparePrice: 343.99 EUR
 prodname: 'Huarisi Brazilian Deep Wave With Frontal Free Part 3 Bundles Deep Curly Virgin Hair 13x4 Lace Closure Long Natural Color Real Hair Prime on Amazon 22 24 26 + 20 Inches'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B7KLRGM/?tag=tolees-21'
 descuento: '43.32'
 average: '194.99'

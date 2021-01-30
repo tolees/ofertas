@@ -16,6 +16,7 @@ comparePrice: 23.9 EUR
 prodname: 'Havaianas Brasil Logo Zehentrenner Unisex-Erwachsene  Negro  Black/Black   41/42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074MKCXLH/?tag=tolees-21'
 descuento: '74.85'
 average: '9.302'

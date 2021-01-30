@@ -16,6 +16,7 @@ comparePrice: 90 EUR
 prodname: 'New Balance 574v2 Zapatillas Hombre  Rojo  Red/White Red/White   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KRCJ7F6/?tag=tolees-21'
 descuento: '40.88'
 average: '53.21'

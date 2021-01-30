@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Quiksilver Get Buzzy-Camiseta para Chicos 8-16  Niños  Black  S/10'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TFDGHPH/?tag=tolees-21'
 descuento: '51.42'
 average: '8.74'

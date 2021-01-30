@@ -16,6 +16,7 @@ comparePrice: 1249.0 EUR
 prodname: 'Samsung Galaxy S10+ - Smartphone de 6.4" QHD+ Curved Dynamic AMOLED  16 MP  Exynos 9820  Wireless & Fast & Reverse Charging  512 GB  Prisma Blanco  Prism White '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MTWX44F/?tag=tolees-21'
 descuento: '34.14'
 average: '846.8766666666667'

@@ -16,6 +16,7 @@ comparePrice: 13.05 EUR
 prodname: 'West Ham United FC Gorra básica oficial  Talla Única/Vino '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071KJ8TWG/?tag=tolees-21'
 descuento: '33.33'
 average: '8.825'

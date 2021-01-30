@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Columbia Fairbanks Omni-Heat Bota de invierno para hombre   Verde Nori  Canyon Gold   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JHX6TZX/?tag=tolees-21'
 descuento: '55.06'
 average: '58.42'

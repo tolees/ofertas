@@ -16,6 +16,7 @@ comparePrice: 84.95 EUR
 prodname: 'Under Armour UA Charged Bandit 5  Zapatillas para Correr  Calzado Deportivo para Hombre  Negro  Black/Halo Gray/Beta  004  004   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PVQKWCN/?tag=tolees-21'
 descuento: '31.32'
 average: '58.34'

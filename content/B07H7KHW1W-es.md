@@ -16,6 +16,7 @@ comparePrice: 325.0 EUR
 prodname: 'Fundas para iPhone Dolce&Gabbana iPhone 6g Hombre - Piel  BP2157AC73680999 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H7KHW1W/?tag=tolees-21'
 descuento: '45.38'
 average: '177.5'

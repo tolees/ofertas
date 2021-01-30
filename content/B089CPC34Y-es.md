@@ -16,6 +16,7 @@ comparePrice: 147.7 EUR
 prodname: 'WXQ Tapa de Basura de Acero Inoxidable de Tipo Pedal Abrir/Cerrar Silencio Duradero Anti-Huella Digital Cocina Sala de Estar Baño 12L / 3 Galones 01'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089CPC34Y/?tag=tolees-21'
 descuento: '39.75'
 average: '88.99'

@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Reloj Inteligente Ninos con Musica MP3 - Smartwatch Niños con FM Cámara Pantalla Táctil Llamadas SOS  Reloj Niña Reloj Niña  Reloj Inteligente Niño de 3-12 años Regalos de Cumpleaños  Children Gift'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZJXGLB/?tag=tolees-21'
 descuento: '60.51'
 average: '39.49'

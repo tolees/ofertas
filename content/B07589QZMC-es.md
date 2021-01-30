@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Spintires: MudRunner'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07589QZMC/?tag=tolees-21'
 descuento: '39.16'
 average: '34.805'

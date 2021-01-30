@@ -16,6 +16,7 @@ comparePrice: 97.06 EUR
 prodname: 'ZHANGSHUQI - Bolsa de Moto Retro Estilo Steampunk para Halloween  Estilo gótico  Estilo Retro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X2F2LXX/?tag=tolees-21'
 descuento: '43.20'
 average: '55.13'

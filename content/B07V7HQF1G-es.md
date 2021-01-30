@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'SALOMON Agile 2 Set Mochila de Running Ligera 2L  2 Botellas SoftFlask 50 ml Incluidas  Unisex-Adult  Verde  2 L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V7HQF1G/?tag=tolees-21'
 descuento: '50.00'
 average: '40.0'

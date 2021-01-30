@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'El Mal Querer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KLPTNYP/?tag=tolees-21'
 descuento: '46.19'
 average: '6.99'

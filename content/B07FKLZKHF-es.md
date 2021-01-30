@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Rubies- Disfraz Scream Ad  Multicolor  Talla única  S8364 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FKLZKHF/?tag=tolees-21'
 descuento: '37.52'
 average: '9.99'

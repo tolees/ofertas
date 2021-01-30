@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'adidas M Pantalones Cortos de Deporte  Hombre  zne htr/Black'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F3B1CP5/?tag=tolees-21'
 descuento: '50.63'
 average: '21.784000000000002'

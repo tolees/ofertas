@@ -16,6 +16,7 @@ comparePrice: 5.54 EUR
 prodname: 'L Oreal Paris Elvive Champú para Cabello Seco - 400 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XS39NQR/?tag=tolees-21'
 descuento: '30.51'
 average: '3.85'

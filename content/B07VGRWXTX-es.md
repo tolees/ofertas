@@ -16,6 +16,7 @@ comparePrice: 90.19 EUR
 prodname: 'HUGO Reloj Analógico para Unisex Adulto de Cuarzo con Correa en Cuero 1530101'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VGRWXTX/?tag=tolees-21'
 descuento: '30.15'
 average: '63.0'

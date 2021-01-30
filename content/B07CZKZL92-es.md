@@ -16,6 +16,7 @@ comparePrice: 179.0 EUR
 prodname: 'FOREO UFO mini - Tratamiento de Mascarilla Inteligente  Color Fuchsia'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CZKZL92/?tag=tolees-21'
 descuento: '59.63'
 average: '72.27'

@@ -16,6 +16,7 @@ comparePrice: 216.0 EUR
 prodname: 'Love MoschinoJc4001pp1aMujerBolsos totesNegro  Negro 11x25x39 centimeters  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RZYS1CV/?tag=tolees-21'
 descuento: '52.80'
 average: '115.8690909090909'

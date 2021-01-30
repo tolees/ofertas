@@ -16,6 +16,7 @@ comparePrice: 7.98 EUR
 prodname: 'NIRVEL NUTRE COLOR FUCSIA 200ML'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GOA0LYO/?tag=tolees-21'
 descuento: '57.02'
 average: '3.43'

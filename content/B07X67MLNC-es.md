@@ -16,6 +16,7 @@ comparePrice: 1.99 EUR
 prodname: 'Chupa Chups Sin Azúcar  Caramelo con Palo de Sabores Variados - Bolsa de 6 unidades de 11 gr/ud'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X67MLNC/?tag=tolees-21'
 descuento: '49.75'
 average: '1.0'

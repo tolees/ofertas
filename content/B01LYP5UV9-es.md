@@ -16,6 +16,7 @@ comparePrice: 45.38 EUR
 prodname: 'PARKER IM  pluma estilográfica azul mate  con plumín fino y recambio de tinta azul  1931647 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LYP5UV9/?tag=tolees-21'
 descuento: '33.89'
 average: '28.96'

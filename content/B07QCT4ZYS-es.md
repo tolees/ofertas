@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'NGS Matrix Kit Teclado + RATÓN INALÁMBRICOS Ultra Plano Teclas SILENCIOSAS QWERTY Español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QCT4ZYS/?tag=tolees-21'
 descuento: '58.80'
 average: '12.32'

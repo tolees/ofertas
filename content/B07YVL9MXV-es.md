@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Cartera Pepe Jeans Arrow con tarjetero Marrón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YVL9MXV/?tag=tolees-21'
 descuento: '30.11'
 average: '27.95'

@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Maletín de Herramientas  102 Kit Caja Herramientas Portátil Universal de Reparación Multifuncional Juego de Herramientas Con llaves de vaso Martillo Alicates Destornilladores Tacos Tornillos Metro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S39KBLP/?tag=tolees-21'
 descuento: '53.34'
 average: '39.49'

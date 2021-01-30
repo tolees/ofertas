@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'adidas W E 3s Tight Mallas  Mujer  Legend Ink/White  XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KQGX5SB/?tag=tolees-21'
 descuento: '25.94'
 average: '19.99'

@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'New Balance Fresh Foam Lazr Sport  Zapatillas de Running para Mujer  Gris  Team Away Grey/White CG   41.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0797JWTNG/?tag=tolees-21'
 descuento: '62.82'
 average: '61.730000000000004'

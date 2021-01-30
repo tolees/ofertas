@@ -16,6 +16,7 @@ comparePrice: 28.68 EUR
 prodname: 'Estera de la Danza del USB  Almohadilla de la Danza Durable Antideslizante USB  Estera de la Danza Resistente al Desgaste para los Adultos de los niños  Almohadilla de la Danza del PVC'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CWC72KF/?tag=tolees-21'
 descuento: '32.01'
 average: '19.5'

@@ -16,6 +16,7 @@ comparePrice: 36.0 EUR
 prodname: 'RECCI Cubre Colchón 135x190/200 - Cubrecolchón Impermeable 135x190/200  100% Bambú Fundas de Colchón  Protector de Colchón  Ultra Suave  Transpirable  Anti-Ácaros  Silencioso [ 135 x 190/200 cm ]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GZTFSVN/?tag=tolees-21'
 descuento: '25.03'
 average: '26.99'

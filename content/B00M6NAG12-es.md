@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Linksys RE6500-EJ - Extensor de Red Wi-Fi AC1200  N300 + AC867 Mbps  Cross-Band  4 Puertos Gigabit Ethernet  Doble Banda 2 4 + 5 GHz  Audio por Streaming  compatibilidad Universal   Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00M6NAG12/?tag=tolees-21'
 descuento: '31.00'
 average: '66.435'

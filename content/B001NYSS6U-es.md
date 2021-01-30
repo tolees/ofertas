@@ -16,6 +16,7 @@ comparePrice: 11.79 EUR
 prodname: 'Pranarom - Aceite arbol del té  10 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001NYSS6U/?tag=tolees-21'
 descuento: '66.16'
 average: '6.256428571428572'

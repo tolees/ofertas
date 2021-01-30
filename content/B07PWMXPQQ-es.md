@@ -16,6 +16,7 @@ comparePrice: 179.0 EUR
 prodname: 'Kinderkraft Carrito Bebé 2 en 1 JULI  Silla de Paseo  Capazo  Plegable  Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PWMXPQQ/?tag=tolees-21'
 descuento: '27.40'
 average: '129.95'

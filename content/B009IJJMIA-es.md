@@ -16,6 +16,7 @@ comparePrice: 2.78 EUR
 prodname: 'PLA Gamuza Atrapapolvo  Set de 20 Unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B009IJJMIA/?tag=tolees-21'
 descuento: '49.64'
 average: '1.4'

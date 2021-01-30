@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'QITAYO Funda Huawei P30 Lite de Tup Suave Carcasa Antigolpes & Anti-Rasguño & Antideslizante para Protección del Huawei P30 Lite Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N39DN9T/?tag=tolees-21'
 descuento: '49.91'
 average: '7.99'

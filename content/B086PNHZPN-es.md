@@ -16,6 +16,7 @@ comparePrice: 11.6 EUR
 prodname: 'LNIEGE Anillo de bebé Mam Transparentes de Silicona Chupete Chupete Chupete Holder Clips 10PCS del Clip del sostenedor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086PNHZPN/?tag=tolees-21'
 descuento: '58.88'
 average: '4.77'

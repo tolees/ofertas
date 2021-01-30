@@ -16,6 +16,7 @@ comparePrice: 139.99 EUR
 prodname: 'DROCON Bugs 3 Motor Quadcopter sin escobillas Drone  Drone de Alta Velocidad para Adultos y Aficionados  Support Gopro HD Cámara 4K  18 Minutos de Vuelo 300 Metros Control de Largo Alcance  Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H8CJPCH/?tag=tolees-21'
 descuento: '32.15'
 average: '92.49'

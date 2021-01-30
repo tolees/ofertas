@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Skechers Women s Stamina-Classy Trail Trainers  Black  Orange & Coral Suede/White Mesh/Black & Blue Trim BKW   3.5  36.5 EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NW6BJGT/?tag=tolees-21'
 descuento: '42.77'
 average: '40.03'

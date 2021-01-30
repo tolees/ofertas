@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Volcom Frickin Modern Stret Pantalones  Hombre  Azul  Dark Navy   30'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B013VMEGQC/?tag=tolees-21'
 descuento: '45.03'
 average: '38.45'

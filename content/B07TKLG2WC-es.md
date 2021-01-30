@@ -16,6 +16,7 @@ comparePrice: 85.0 EUR
 prodname: 'Armani ExchangeShiny Liz - Small Shoulder StrapMujerShoppers y bolsos de hombroRosa  Rosa/Pink 13x5x19 Centimeters  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TKLG2WC/?tag=tolees-21'
 descuento: '47.06'
 average: '45.0'

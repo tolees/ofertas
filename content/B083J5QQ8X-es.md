@@ -16,6 +16,7 @@ comparePrice: 32.65 EUR
 prodname: 'LoveOlvido NVME M2 a USB3.1 M2 a USB3.0 Unidad de Disco Duro M.2 NVME SSD a Adaptador USB con Alto Rendimiento 10Gbps USB3.1 Gen 2 Bridge Chip - Multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083J5QQ8X/?tag=tolees-21'
 descuento: '33.51'
 average: '21.71'

@@ -16,6 +16,7 @@ comparePrice: 452.81 EUR
 prodname: 'Samsung Galaxy Watch Active 2 - Smartwatch de Acero  40mm  color Negro  LTE [Versión española]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WS39TRP/?tag=tolees-21'
 descuento: '33.97'
 average: '299.0'

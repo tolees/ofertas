@@ -16,6 +16,7 @@ comparePrice: 13.95 EUR
 prodname: 'Joma Drive Bermuda Deporte  Hombre  Blanco  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01E995LQA/?tag=tolees-21'
 descuento: '28.39'
 average: '10.19'

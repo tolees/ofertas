@@ -16,6 +16,7 @@ comparePrice: 42.99 EUR
 prodname: 'Deyard Sistema de Riego Micro Flow para Refrigeración por Nieblas de Patio para Trampolín de Invernadero de Distribución Automática de Jardín de 65 6 pies  20 M -con 20 Boquillas de Niebla de Cobre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TLHWLFG/?tag=tolees-21'
 descuento: '34.89'
 average: '27.189999999999998'

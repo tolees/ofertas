@@ -16,6 +16,7 @@ comparePrice: 4.95 EUR
 prodname: 'Rimmel London Magnifeyes Mono Sombra de Ojos Tono 014 Black Fender - 22 2 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BHRYEOW/?tag=tolees-21'
 descuento: '79.80'
 average: '1.0'

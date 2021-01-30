@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'MiMiya Deshidratador de Alimentos Profesional de 5 Bandejas con Capacidad Extendida  35-70 °C de Temperatura para Carne Seca  Fruta  Vegetal  Nueces y Yogurt Libre de BPA 240W'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MCXCVG1/?tag=tolees-21'
 descuento: '30.00'
 average: '69.99'

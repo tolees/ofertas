@@ -16,6 +16,7 @@ comparePrice: 5.39 EUR
 prodname: 'INDASEC Discreet - Compresa para Pérdidas  Leves Maxi  15 Unidades  Negro  3821831 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LZSQ1J1/?tag=tolees-21'
 descuento: '35.44'
 average: '3.48'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'TODOHOME Escoba y recogedor con Tapa—121 cm de Altura Total Postes de Acero Inoxidable  2 Cabezales de Escoba Disponibles  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MBZD5DD/?tag=tolees-21'
 descuento: '35.01'
 average: '25.99'

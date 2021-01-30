@@ -16,6 +16,7 @@ comparePrice: 41.95 EUR
 prodname: 'Tommy Hilfiger Brooklyn Short Light Twill Belt Pantalones Cortos  Azul  Medieval BLUE485   W34  Talla del Fabricante: NI34  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JQYJJ7J/?tag=tolees-21'
 descuento: '41.72'
 average: '24.45'

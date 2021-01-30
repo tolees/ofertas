@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Eono by Amazon - Paraguas de Golf Resistente al Viento con Doble Tela y Sistema de Apertura automático  Paraguas Grande  Large Golf Umbrella  Deportivo  Unisex  Impermeable  68 Inch  Navy'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z8YTPP6/?tag=tolees-21'
 descuento: '65.72'
 average: '23.99'

@@ -16,6 +16,7 @@ comparePrice: 330.0 EUR
 prodname: 'Samsonite Pro-DLX 5 - Wheeled Business Case 15.6" Expandable 29.5/37L  2.8 KG Maletín  46 cm  29.5 Liters  Gris  Magnetic Grey '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DLX8CLD/?tag=tolees-21'
 descuento: '35.83'
 average: '225.67857142857144'

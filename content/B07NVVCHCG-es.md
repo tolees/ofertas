@@ -16,6 +16,7 @@ comparePrice: 169.0 EUR
 prodname: 'Armor Lux 77646 suéter  Azul  Rich Navy D85   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NVVCHCG/?tag=tolees-21'
 descuento: '71.83'
 average: '47.6'

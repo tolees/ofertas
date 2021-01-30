@@ -16,6 +16,7 @@ comparePrice: 23.39 EUR
 prodname: 'deAO Juego de Tiro al Blanco Conjunto de Ballesta Juguete Playset Infantil Incluye Diana con Soporte y Cinturón para Flechas de Plástico'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PMKJMRL/?tag=tolees-21'
 descuento: '48.74'
 average: '15.323333333333332'

@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'Under Armour UA W Charged Escape 3  Zapatillas de Running para Mujer  Rosa  Pink Fog/Halo Gray/Pink Fog  602  602   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HKJRGL4/?tag=tolees-21'
 descuento: '40.81'
 average: '53.27'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Sabrent Interruptor de Intercambio USB 2.0 de hasta 4 computadoras y periféricos con Indicadores LED de Dispositivo  USB-USS4 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RC8F2L3/?tag=tolees-21'
 descuento: '32.51'
 average: '26.99'

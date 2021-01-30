@@ -16,6 +16,7 @@ comparePrice: 20.9 EUR
 prodname: 'Postquam - Pur O2 | Gel Purificante con Ácido Salicílico para Combatir el Ácne  100ML …'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BJHF4Z4/?tag=tolees-21'
 descuento: '47.22'
 average: '11.03'

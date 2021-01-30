@@ -16,6 +16,7 @@ comparePrice: 12.09 EUR
 prodname: 'Lámpara de Lupa LED Plegable 5X Luz lupa para Escritorio Lectura Periódicos Soldadura Trabajo Reparación Maquillaje Tatuaje Manicura Pedicure y ect'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D9P3LFD/?tag=tolees-21'
 descuento: '62.03'
 average: '4.59'

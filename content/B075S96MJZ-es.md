@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'ultrapower100® Cargador Compatible iPhone 1A 5 W 1400 + Cable 100% 1 Metro Blanco Compatible iPhone 5 5 C 5S 6 SE 6S 7 8 X XR XS XS MAX'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075S96MJZ/?tag=tolees-21'
 descuento: '28.59'
 average: '9.99'

@@ -16,6 +16,7 @@ comparePrice: 16.95 EUR
 prodname: 'Adaptador Cargador Nuevo Compatible para Portátil ASUS F540Y F540YA 19v 2 37a 4.0mm * 1.35mm // Protección contra Cortocircuitos  sobrecorriente y sobrecalentamiento'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D13ZYN7/?tag=tolees-21'
 descuento: '32.15'
 average: '11.5'

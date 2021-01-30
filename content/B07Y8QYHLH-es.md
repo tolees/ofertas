@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'JACK & JONES Jorbrandon Sweat Hood Capucha  Gris  Light Grey Melange Fit: Slim JJ   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y8QYHLH/?tag=tolees-21'
 descuento: '59.99'
 average: '16.0'

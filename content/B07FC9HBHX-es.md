@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'Juego de cuchillos  Homever juego moderno de bloques de cuchillos de acero inoxidable de 6 piezas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FC9HBHX/?tag=tolees-21'
 descuento: '43.49'
 average: '40.22529411764707'

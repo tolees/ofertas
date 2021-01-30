@@ -16,6 +16,7 @@ comparePrice: 68.0 EUR
 prodname: 'Donna Karan DKNY Be Tempted Eau de Perfumé - 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HQ44XGY/?tag=tolees-21'
 descuento: '55.90'
 average: '30.537368421052623'

@@ -16,6 +16,7 @@ comparePrice: 189.0 EUR
 prodname: 'Reloj para mujer Tommy Hilfiger 1781488  mecanismo de cuarzo  diseño con varias esferas  correa chapada en oro.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00MLYDDX4/?tag=tolees-21'
 descuento: '25.42'
 average: '150.27545454545452'

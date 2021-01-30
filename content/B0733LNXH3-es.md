@@ -16,6 +16,7 @@ comparePrice: 10.2 EUR
 prodname: 'Wonder Woman [DVD]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0733LNXH3/?tag=tolees-21'
 descuento: '31.47'
 average: '8.99'

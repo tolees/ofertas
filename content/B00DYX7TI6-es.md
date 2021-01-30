@@ -16,6 +16,7 @@ comparePrice: 32.5 EUR
 prodname: 'Rayen Superficie de tendido m | Sistema de Bloqueo de alas | Tendedero Plegable y Antideslizante | para Interior y Exterior | 177 x 54.5 x 107.5 cm | Pack de 6 0333-Tendedero  Metal  Acero  19 metros'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00DYX7TI6/?tag=tolees-21'
 descuento: '41.14'
 average: '17.916'

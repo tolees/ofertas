@@ -16,6 +16,7 @@ comparePrice: 154.21 EUR
 prodname: 'KENSINGTON K67822WW - Estación de bloqueo SafeStand para iMac® con ClickSafe®'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00DRCHQNC/?tag=tolees-21'
 descuento: '30.62'
 average: '106.99'

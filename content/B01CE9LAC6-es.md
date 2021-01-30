@@ -16,6 +16,7 @@ comparePrice: 40 EUR
 prodname: 'Italian Bed Linen Più Bello Protector de Asiento para Sofá  Poliéster  Fucsia  160x50x1 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CE9LAC6/?tag=tolees-21'
 descuento: '60.62'
 average: '15.75'

@@ -16,6 +16,7 @@ comparePrice: 29.0 EUR
 prodname: 'Llavero Circle Bear Tous'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MU9AOCQ/?tag=tolees-21'
 descuento: '30.00'
 average: '20.3'

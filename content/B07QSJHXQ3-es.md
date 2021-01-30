@@ -16,6 +16,7 @@ comparePrice: 40 EUR
 prodname: 'Nike Downshifter 9  PSV   Zapatillas de Running Unisex Niños  Negro  Black/Black/Anthracite 001   27.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QSJHXQ3/?tag=tolees-21'
 descuento: '51.20'
 average: '19.52'

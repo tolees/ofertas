@@ -16,6 +16,7 @@ comparePrice: 34.3 EUR
 prodname: 'Logitech F310 Gamepad con Cable  Distribución Tipo Consola  Mando de Dirección 4 Conmutadores  Comodidad de Sujeción  Cable 1 8m  PC/Steam/AndroidTV   Azul/Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00CJAF3ME/?tag=tolees-21'
 descuento: '27.14'
 average: '22.56142857142857'

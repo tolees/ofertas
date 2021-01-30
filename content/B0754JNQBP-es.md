@@ -16,6 +16,7 @@ comparePrice: 329.99 EUR
 prodname: 'AMD Ryzen Threadripper 1900X Box sTR4 - Microprocesador  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0754JNQBP/?tag=tolees-21'
 descuento: '44.41'
 average: '235.04666666666668'

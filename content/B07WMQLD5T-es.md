@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'MYMISS San Valentín Regalos pendientes mujer plata zirconia corazón perlas oro rosa joyas pendientes regalos san valentin mujer pendientes para boda niñas novia regalo para madre e hija profesora'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WMQLD5T/?tag=tolees-21'
 descuento: '74.01'
 average: '25.99'

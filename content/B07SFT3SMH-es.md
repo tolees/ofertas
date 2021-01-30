@@ -16,6 +16,7 @@ comparePrice: 24.37 EUR
 prodname: 'adidas Adilette Aqua  Slide Sandal Womens  Dust Pink/Footwear White/Dust Pink  37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SFT3SMH/?tag=tolees-21'
 descuento: '26.30'
 average: '19.286666666666665'

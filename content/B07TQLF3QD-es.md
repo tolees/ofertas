@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'ROMIX Esterilla Deporte  Antideslizante Extra Gruesa 10MM Ecológica Espuma Memoria Colchoneta de Yoga  No Tóxica  Látex y PVC Gratis Exercise Mat para Gimnasio Ejercicio Fitness Entrenamiento - Verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TQLF3QD/?tag=tolees-21'
 descuento: '34.84'
 average: '18.29'

@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Adiós  BD  [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082N13MND/?tag=tolees-21'
 descuento: '46.70'
 average: '13.785000000000002'

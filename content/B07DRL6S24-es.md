@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Skechers Go Run 600-Farrox 97867L  Zapatillas para Niños  Negro  Black Blue Lime Bblm   27.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DRL6S24/?tag=tolees-21'
 descuento: '30.04'
 average: '24.45'

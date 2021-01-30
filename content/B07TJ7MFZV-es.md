@@ -16,6 +16,7 @@ comparePrice: 67.83 EUR
 prodname: 'SAMSUNG LED View Cover Note 10+ Black'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TJ7MFZV/?tag=tolees-21'
 descuento: '28.51'
 average: '48.49'

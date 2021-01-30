@@ -16,6 +16,7 @@ comparePrice: 41.39 EUR
 prodname: 'Julius-K9 16IDC - Arnés de Potencia para Perros  color Negro  Tamaño 0'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0041VQH8I/?tag=tolees-21'
 descuento: '44.46'
 average: '22.99'

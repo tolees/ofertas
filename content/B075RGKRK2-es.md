@@ -16,6 +16,7 @@ comparePrice: 55.95 EUR
 prodname: 'GORE WEAR R5 Mallas cortas de running para mujer  Talla: 38  Color: Gris oscuro/Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075RGKRK2/?tag=tolees-21'
 descuento: '59.96'
 average: '24.849999999999998'

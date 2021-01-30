@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'Taiso Dispensador de jabón automático  dispensadores de jabón de Espuma Ajustables Infrarrojos sin Contacto  Botellas de 500 ml  dispensador de jabón montado en la Pared para baño  Cocina  Oficina'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088QWWFBR/?tag=tolees-21'
 descuento: '48.50'
 average: '16.99'

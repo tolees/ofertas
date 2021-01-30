@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'Libratone Zipp - Altavoz inalámbrico con Bluetooth  Multiroom  SoundSpaces  AirPlay  Bluetooth  DLNA  WiFi   Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0150DT7FK/?tag=tolees-21'
 descuento: '44.81'
 average: '176.63375000000002'

@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Puma Vikky Platform Ribbon P  Zapatillas para Mujer  Negro Black Black  37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077MPNFHL/?tag=tolees-21'
 descuento: '45.69'
 average: '37.99'

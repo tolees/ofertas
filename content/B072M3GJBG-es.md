@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Silver HT 17119 - Adaptador tipo-C GN30H a Ethernet y HUB 5 en 1  color gris oscuro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072M3GJBG/?tag=tolees-21'
 descuento: '90.02'
 average: '46.239999999999995'

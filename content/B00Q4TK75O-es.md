@@ -16,6 +16,7 @@ comparePrice: 12.49 EUR
 prodname: 'AmazonBasics FTD  Sábanas Ajustables  90 x 190 x 30 cm  Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00Q4TK75O/?tag=tolees-21'
 descuento: '77.18'
 average: '2.85'

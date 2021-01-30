@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'New Balance Fresh Foam Zante  Zapatillas Deportivas para Interior para Hombre  Negro  Black/Magnet/Gold LB   47.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BL2CL4V/?tag=tolees-21'
 descuento: '57.83'
 average: '42.17'

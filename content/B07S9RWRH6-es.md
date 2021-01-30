@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'PUMA JARO Metal WNS  Zapatillas de Running para Mujer  Blanco White/Rose Gold  40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S9RWRH6/?tag=tolees-21'
 descuento: '35.84'
 average: '25.63'

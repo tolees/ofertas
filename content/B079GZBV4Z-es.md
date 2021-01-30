@@ -16,6 +16,7 @@ comparePrice: 269.99 EUR
 prodname: 'Philips Avent  SCF334/31 - Sacaleches doble silencioso  extractor de leche eléctrico  con cojín masajeador suave  biberón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079GZBV4Z/?tag=tolees-21'
 descuento: '46.30'
 average: '142.88600000000002'

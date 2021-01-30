@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'Helly Hansen W HH LIFA Basleayer Pant  Mujer  Negro  XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XH3DW3V/?tag=tolees-21'
 descuento: '32.53'
 average: '25.4075'

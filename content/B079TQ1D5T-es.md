@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Pillars of Eternity II: Deadfire - Ultimate Edition'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079TQ1D5T/?tag=tolees-21'
 descuento: '44.66'
 average: '28.071666666666665'

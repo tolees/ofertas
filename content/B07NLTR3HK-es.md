@@ -16,6 +16,7 @@ comparePrice: 186.3 EUR
 prodname: 'VERSACE JEANS COUTURE Pantaloni Sportivi Pantalones de Deporte  Negro  Negro 899   40  Talla del Fabricante: Large  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NLTR3HK/?tag=tolees-21'
 descuento: '40.96'
 average: '109.99'

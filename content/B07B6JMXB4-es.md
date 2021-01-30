@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Tommy Hilfiger X Sujetador estilo bralette  Negro  Black 990   XS para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B6JMXB4/?tag=tolees-21'
 descuento: '42.38'
 average: '22.99'

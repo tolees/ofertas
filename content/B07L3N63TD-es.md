@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Dioche Medidor de Presion Balones  Mini Utilidad de Aire Barómetro de Presión Herramienta de Barómetro Válvula Americana para Balonmano Fútbol Voleibol'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L3N63TD/?tag=tolees-21'
 descuento: '48.70'
 average: '7.69'

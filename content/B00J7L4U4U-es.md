@@ -16,6 +16,7 @@ comparePrice: 13.95 EUR
 prodname: 'Buff Solid Calentador Polar  Unisex Adulto  Black  Talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00J7L4U4U/?tag=tolees-21'
 descuento: '25.02'
 average: '12.205'

@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Ballon de hand Kid Hummel Soft'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01JJAT3I6/?tag=tolees-21'
 descuento: '43.02'
 average: '11.39'

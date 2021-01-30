@@ -16,6 +16,7 @@ comparePrice: 67.49 EUR
 prodname: 'Asics Gel-Rocket 9  Zapatillas de Deporte Interior para Mujer  Negro  Black/Silver 002   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QPZXQ5D/?tag=tolees-21'
 descuento: '42.21'
 average: '39.0'

@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'Play Safe Fix - Silla de coche  grupo 1/2/3  color negro y gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M6XRZXS/?tag=tolees-21'
 descuento: '34.77'
 average: '84.15'

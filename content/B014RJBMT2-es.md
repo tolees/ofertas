@@ -16,6 +16,7 @@ comparePrice: 64.0 EUR
 prodname: 'Issey Miyake Nuit D Issey Parfum Vapo 75 Ml 1 Unidad 75 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B014RJBMT2/?tag=tolees-21'
 descuento: '32.78'
 average: '34.510000000000005'

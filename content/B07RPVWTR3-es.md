@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'Wahl Detailer Afro - Cortapelos  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RPVWTR3/?tag=tolees-21'
 descuento: '25.00'
 average: '60.0'

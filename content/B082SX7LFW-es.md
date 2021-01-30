@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'AOTOZE Almohada Ortopédica Ergonómica Almohada de Espuma Viscoelástica para el Cuello Almohada Cervical de Apoyo Firme para aliviar el Dolor de Cuello  60 x 40 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082SX7LFW/?tag=tolees-21'
 descuento: '38.49'
 average: '36.9'

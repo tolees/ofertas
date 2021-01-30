@@ -16,6 +16,7 @@ comparePrice: 79.0 EUR
 prodname: 'Pulsar Reloj Mujer de Analogico PH7447X1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HZM82GY/?tag=tolees-21'
 descuento: '42.75'
 average: '44.94499999999999'

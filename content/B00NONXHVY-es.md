@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Tommy Hilfiger New Denton Belt 4.0 Cinturón  Negro  NEGRO 090   85 cm  talla fabricante: 85  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NONXHVY/?tag=tolees-21'
 descuento: '34.86'
 average: '25.99'

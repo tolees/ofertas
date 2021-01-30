@@ -16,6 +16,7 @@ comparePrice: 12.5 EUR
 prodname: 'Rowenta Accesorio PAE Limpieza WB406120 Bolsa ASP.WONDERBAG  Textil  azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002TMCCA8/?tag=tolees-21'
 descuento: '36.08'
 average: '9.578571428571427'

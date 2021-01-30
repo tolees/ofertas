@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Braun Minipimer 5 MQ5020WH Pasta - Batidora de mano  750 w  21 velocidades  750 w potencia  vaso medidor 0 6 l  campana anti-salpicaduras  accesorio picador  blanco y gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NFDUEUA/?tag=tolees-21'
 descuento: '34.28'
 average: '46.0'

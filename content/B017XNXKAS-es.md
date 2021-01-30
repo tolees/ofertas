@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Bvlgari Omnia Paraiba Edt Vapo 40 Ml 1 Unidad 0.04 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B017XNXKAS/?tag=tolees-21'
 descuento: '52.62'
 average: '35.39'

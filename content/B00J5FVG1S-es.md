@@ -16,6 +16,7 @@ comparePrice: 17.2 EUR
 prodname: 'Pharmaton 50+| Multivitamínico con Omega 3 | 60 cápsulas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00J5FVG1S/?tag=tolees-21'
 descuento: '25.00'
 average: '12.9'

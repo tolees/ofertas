@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Salomon Supercross GTX  Zapatillas de Running para Hombre  Negro  Black/Black/Black 000   42 2/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M6BNHSN/?tag=tolees-21'
 descuento: '40.77'
 average: '76.99'

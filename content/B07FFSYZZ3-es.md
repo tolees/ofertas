@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'HUANUO Soporte Monitor para 13-27 Pulgadas PC y Ordenador Portátil hasta de 15.6 Pulgadas Ergonómico Diseño Brazos y Soportes para Monitores Brazo Monitor Mesa Rotación de 180° y Giro de 360 °'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FFSYZZ3/?tag=tolees-21'
 descuento: '39.29'
 average: '50.87571428571429'

@@ -16,6 +16,7 @@ comparePrice: 30.99 EUR
 prodname: 'COFIT Cubierta de Volante de Cuero de Microfibra Negro y Beige S 35.5-36cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T1WC42S/?tag=tolees-21'
 descuento: '45.18'
 average: '16.99'

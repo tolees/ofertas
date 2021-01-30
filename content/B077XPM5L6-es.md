@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'New Balance 247v2  Zapatillas para Mujer  Verde  Covert Green/Thistle OB   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077XPM5L6/?tag=tolees-21'
 descuento: '69.09'
 average: '30.966666666666665'

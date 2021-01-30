@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'PJ Masks-24688 Pack de 5 Figuras - Súper Poder  Bandai 95280'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079MKLH93/?tag=tolees-21'
 descuento: '66.55'
 average: '8.36'

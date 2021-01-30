@@ -16,6 +16,7 @@ comparePrice: 19.0 EUR
 prodname: 'Calvin Klein Modern Cotton-Thong Tanga  Grau  Grey Heather 020   Large para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KMGVI6W/?tag=tolees-21'
 descuento: '42.16'
 average: '11.643333333333333'

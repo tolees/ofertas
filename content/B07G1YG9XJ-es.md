@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'TACKLIFE Llaves de Vaso Hexagonales Profesional  14 Piezas  Aleado S2  Alta Precisión  Herramientas Manuales  Para Reparar Motocicletas  Coche  Electrodomésticos - HBS1A'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G1YG9XJ/?tag=tolees-21'
 descuento: '44.02'
 average: '14.166470588235297'

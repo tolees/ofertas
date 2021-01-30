@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Espumador Batidor de Leche Automático Morpilot Espuma Leche Caliente/Frío  Vaporizador de Leche Automático/Espumador De Leche/Calentador de Leche  4 Funciones con Apagamiento Automático  240ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M8FHT96/?tag=tolees-21'
 descuento: '28.01'
 average: '33.32333333333334'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'DREAMWIN Dispensador Jabón Automático  280mL Dispensador de Jabón Automatico  IPX7 Impermeable para Cocina  Baño  Aseo  Escuela  Hospital  Hotel  Restaurante  Lugar Público'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08DFCHXVB/?tag=tolees-21'
 descuento: '62.52'
 average: '14.99'

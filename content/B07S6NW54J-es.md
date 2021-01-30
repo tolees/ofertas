@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'PUMA X-Ray Game  Zapatillas Unisex-Adulto  Blanco White/Gray Violet/Mist Green Black  44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S6NW54J/?tag=tolees-21'
 descuento: '52.46'
 average: '38.01'

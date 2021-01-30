@@ -16,6 +16,7 @@ comparePrice: 55.99 EUR
 prodname: 'BRIKSMAX Kit de Iluminación Led para Lego Ideas Libro Desplegable  Compatible con Ladrillos de Construcción Lego Modelo 21315  Juego de Legos no Incluido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TZQCHN8/?tag=tolees-21'
 descuento: '53.58'
 average: '30.042631578947372'

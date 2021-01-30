@@ -16,6 +16,7 @@ comparePrice: 20.95 EUR
 prodname: 'Trilogía Edgar Wright  BD  [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TJKBZ52/?tag=tolees-21'
 descuento: '25.11'
 average: '13.956666666666667'

@@ -16,6 +16,7 @@ comparePrice: 47.99 EUR
 prodname: 'Daga 2PH - Almohadilla Eléctrica  46 x 34cm  Conexión Fija  Mando Electrónico  4 Niveles de Temperatura  Acabado Textil Acolchado  3 Tiempos Programables  Autostop de Seguridad  Calentamiento Rápido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01ANXDJWE/?tag=tolees-21'
 descuento: '39.57'
 average: '29.494999999999997'

@@ -16,6 +16,7 @@ comparePrice: 15.88 EUR
 prodname: 'Beauty Glazed 63 Colores De Sombra De Ojos Polvo De Sombras De Colores Conjunto De Paleta Paleta De CosméTicos Mate Brillante Sombra De Ojos Profesional Cosmético de Sombra de Ojos Paleta'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G7S5TXX/?tag=tolees-21'
 descuento: '34.01'
 average: '10.48'

@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Dockers by Gerli 46rb002-100100  Zapatillas para Hombre  Negro  Schwarz 100   46 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WG8VR2G/?tag=tolees-21'
 descuento: '71.85'
 average: '19.69'

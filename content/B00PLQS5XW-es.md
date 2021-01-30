@@ -16,6 +16,7 @@ comparePrice: 122.19 EUR
 prodname: 'SFR Raptor Patines  Unisex Adulto  Rojo  Red   39.5'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00PLQS5XW/?tag=tolees-21'
 descuento: '33.95'
 average: '80.71'

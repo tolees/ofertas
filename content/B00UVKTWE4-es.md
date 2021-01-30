@@ -16,6 +16,7 @@ comparePrice: 26.95 EUR
 prodname: 'Desconocido Magefesa Praga Sartén para Tortilla 24 cm  Antiadherente bicapa Reforzado  Color Rojo Exterior. Apta para Todo Tipo de cocinas  incluida inducción'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00UVKTWE4/?tag=tolees-21'
 descuento: '36.92'
 average: '18.66333333333333'

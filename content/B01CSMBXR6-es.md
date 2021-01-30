@@ -16,6 +16,7 @@ comparePrice: 229.99 EUR
 prodname: 'Rowenta Perfect Steam Extreme DG8531F0 - Centro planchado 6 bares con autonomía ilimitada y golpe de vapor 300 g/min  vapor continuo 120 g/min  suela Microsteam Laser 400  función Eco y autolimpieza'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CSMBXR6/?tag=tolees-21'
 descuento: '31.30'
 average: '150.31444444444446'

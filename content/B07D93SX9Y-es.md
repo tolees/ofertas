@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'adidas Lite Racer CLN  Zapatillas de Deporte para Mujer  Negro  Negbás/Negbás/Gricin 000   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D93SX9Y/?tag=tolees-21'
 descuento: '42.15'
 average: '34.68'

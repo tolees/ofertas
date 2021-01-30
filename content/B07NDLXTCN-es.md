@@ -16,6 +16,7 @@ comparePrice: 160.0 EUR
 prodname: 'Nixon Reloj Hombre de Digital con Correa en Acero Inoxidable A1266-502-00'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDLXTCN/?tag=tolees-21'
 descuento: '29.67'
 average: '112.53'

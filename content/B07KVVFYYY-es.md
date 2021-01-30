@@ -16,6 +16,7 @@ comparePrice: 1179.99 EUR
 prodname: 'Samsung Galaxy S10 Tim Prism Green 6 1" 512gb Dual Sim'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KVVFYYY/?tag=tolees-21'
 descuento: '30.77'
 average: '816.9'

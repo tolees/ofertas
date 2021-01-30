@@ -16,6 +16,7 @@ comparePrice: 324.5 EUR
 prodname: 'Roberta Rossi Hobo artesanía mujer genuina piel de lavado de cuero con asa de cuero ajustable Made in Italy 25x32x12 cm RR00739FBLNAT'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08B1VGY9T/?tag=tolees-21'
 descuento: '43.61'
 average: '182.99'

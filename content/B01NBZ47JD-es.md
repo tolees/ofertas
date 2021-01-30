@@ -16,6 +16,7 @@ comparePrice: 119.95 EUR
 prodname: 'G-Star Raw 3301 Straight  Jeans Dritto Uomo  Blu  medium aged 6564-071   W28/L32'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NBZ47JD/?tag=tolees-21'
 descuento: '60.28'
 average: '47.64'

@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Kipling - Arto S  Bolsos bandolera Mujer  Azul  Active Blue '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DKH5YX1/?tag=tolees-21'
 descuento: '30.00'
 average: '35.4'

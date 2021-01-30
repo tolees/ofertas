@@ -16,6 +16,7 @@ comparePrice: 4.49 EUR
 prodname: 'TRESemmé Rubio & Platino Acondicionador'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082V9KHHW/?tag=tolees-21'
 descuento: '77.73'
 average: '1.0'

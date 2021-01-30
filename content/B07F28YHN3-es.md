@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'TACKLIFE Manguera para Riego por Goteo  15M Manguera  La Cantidad de Agua Filtrada es 4-6L / min  Ahorre Más del 70% DE Agua  Reduzca la Evaporación del Agua  Irrigación en la Zona de la Raíz GHWH2A'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F28YHN3/?tag=tolees-21'
 descuento: '62.52'
 average: '14.99'

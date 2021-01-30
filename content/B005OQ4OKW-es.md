@@ -16,6 +16,7 @@ comparePrice: 66.14 EUR
 prodname: 'Hudora 71655 All Stars - Canasta de Baloncesto con Soporte'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005OQ4OKW/?tag=tolees-21'
 descuento: '28.76'
 average: '49.52125'

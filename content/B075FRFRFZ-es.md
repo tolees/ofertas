@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Vicloon 106cm Aluminio Trípode para Cámara Trípode Ajustable del Teléfono para Gopro/iPhone/Samsung y la Mayoría de los Otros Smartphones'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075FRFRFZ/?tag=tolees-21'
 descuento: '27.71'
 average: '9.47125'

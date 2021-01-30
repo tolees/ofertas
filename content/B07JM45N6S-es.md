@@ -16,6 +16,7 @@ comparePrice: 2.09 EUR
 prodname: 'Formulaone 2600MAH Tamaño portátil 1 * 18650 Batería Banco de alimentación Externa Batería de Respaldo Banco de energía para teléfonos Inteligentes - Verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JM45N6S/?tag=tolees-21'
 descuento: '47.85'
 average: '1.09'

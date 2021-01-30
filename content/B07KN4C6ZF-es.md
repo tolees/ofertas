@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'MOSISO Funda Dura Compatible con 2019 2018 MacBook Air 13 Pulgadas A1932 con Pantalla Retina & Touch ID  Ultra Delgado Carcasa Rígida Protector de Plástico Cubierta  Cristal Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KN4C6ZF/?tag=tolees-21'
 descuento: '25.02'
 average: '8.99'

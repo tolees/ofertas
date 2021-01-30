@@ -16,6 +16,7 @@ comparePrice: 15.39 EUR
 prodname: 'LParkin - Llavero para Parejas con Texto en inglés I Love You I Know Keychain Girlfriend Boyfriend Husband Wife'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M9NCW7S/?tag=tolees-21'
 descuento: '89.86'
 average: '1.56'

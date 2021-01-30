@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'ADATA 480GB SD600Q Unidad Externa de Estado sólido USB 3.1 - Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PKS78MF/?tag=tolees-21'
 descuento: '30.22'
 average: '55.08'

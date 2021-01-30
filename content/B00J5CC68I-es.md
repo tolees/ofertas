@@ -16,6 +16,7 @@ comparePrice: 36.5 EUR
 prodname: 'The London Nº1 Ginebra - 1000 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00J5CC68I/?tag=tolees-21'
 descuento: '36.99'
 average: '25.935'

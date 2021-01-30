@@ -16,6 +16,7 @@ comparePrice: 137.7 EUR
 prodname: 'Love Moschino Jc4010pp1a  Carteras de Mano con Asa para Mujer  Negro  Negro   4x13x22 centimeters  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RZYS6Y5/?tag=tolees-21'
 descuento: '38.79'
 average: '89.23583333333333'

@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'ammoon Kit Herramientas de Guitarra Mantenimiento de Reparación de Limpieza Incluye Organizador de Cuerdas y String Action Ruler&Calibre Herramienta de Medición&Juego de Llaves Hexagonales y Archivos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078PFXLF8/?tag=tolees-21'
 descuento: '46.68'
 average: '15.99'

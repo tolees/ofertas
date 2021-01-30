@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Volcom Miter II Cargo Bermudas  Hombre  Verde  Khaki   31'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078VRJZRG/?tag=tolees-21'
 descuento: '45.00'
 average: '38.47'

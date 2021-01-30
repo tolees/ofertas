@@ -16,6 +16,7 @@ comparePrice: 21.0 EUR
 prodname: 'Clinique 52245 - Barra de labios'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00AATN1TS/?tag=tolees-21'
 descuento: '37.62'
 average: '13.1'

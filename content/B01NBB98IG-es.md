@@ -16,6 +16,7 @@ comparePrice: 139.99 EUR
 prodname: 'Salomon Speedcross Vario 2 GTX Calzado de Trail Running  Hombre  Negro  Phantom/Black/Monument   43 1/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NBB98IG/?tag=tolees-21'
 descuento: '56.68'
 average: '60.65'

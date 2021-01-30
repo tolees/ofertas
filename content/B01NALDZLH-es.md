@@ -16,6 +16,7 @@ comparePrice: 75 EUR
 prodname: 'Vans Classic Slip-on Platform  Zapatillas sin Cordones para Mujer  Negro  Black Blk   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NALDZLH/?tag=tolees-21'
 descuento: '40.01'
 average: '44.99'

@@ -16,6 +16,7 @@ comparePrice: 92.0 EUR
 prodname: 'Carissima Gold - Pendientes para mujer 9 k  375  oro bicolor incoloro óxido de circonio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071Z7WL9B/?tag=tolees-21'
 descuento: '25.00'
 average: '69.0'

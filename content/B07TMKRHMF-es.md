@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'upHere LED Azul GPU Brace Soporte de Tarjeta gráfica  Un Soporte para Tarjeta de Video  GL28BE '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TMKRHMF/?tag=tolees-21'
 descuento: '40.44'
 average: '5.95'

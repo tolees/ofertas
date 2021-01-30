@@ -16,6 +16,7 @@ comparePrice: 33.98 EUR
 prodname: 'K9CK Luces LED para Lego Ideas NASA Apolo Saturno V 21309  Kit de Iluminación Luz Compatible con Bloques de construcción  NO Incluido en el Modelo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083LHD7FT/?tag=tolees-21'
 descuento: '50.00'
 average: '16.99'

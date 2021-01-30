@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'HCMAX Almohada para el Reposacabezas del Coche - Cojín Cervical con Soporte de Cuello para el Asiento del Coche - con Espuma de Memoria para Conducir - con Cubierta Extraíble'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CKPTTCN/?tag=tolees-21'
 descuento: '66.68'
 average: '19.99'

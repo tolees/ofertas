@@ -16,6 +16,7 @@ comparePrice: 713.0 EUR
 prodname: 'Sigma 340306  35 mm / F 1 4 DG HSM - Objetivo para Nikon  distancia focal fija 35mm  apertura f/1.4-16  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00A35X8ZG/?tag=tolees-21'
 descuento: '33.66'
 average: '641.8016666666667'

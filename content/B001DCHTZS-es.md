@@ -16,6 +16,7 @@ comparePrice: 12.08 EUR
 prodname: 'ZEFAL Doomap Soporte Portamapas Al Manillar  Unisex Adulto  Negro  Talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001DCHTZS/?tag=tolees-21'
 descuento: '50.41'
 average: '5.99'

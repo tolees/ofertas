@@ -16,6 +16,7 @@ comparePrice: 7.68 EUR
 prodname: 'Pokemon JCC - Archivo del caso de Detective Pikachu  Asmodee  POTK1901 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QDY5DZW/?tag=tolees-21'
 descuento: '53.12'
 average: '3.6'

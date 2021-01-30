@@ -16,6 +16,7 @@ comparePrice: 51.99 EUR
 prodname: 'Logitech M590 Silent Ratón Inalámbrico  Multi-Dispositivos  2.4 GHz o Bluetooth con Receptor USB Unifying  Seguimiento 1000 DPI  Batería 2 Años  PC/Mac/Portátil  Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0722NYZDG/?tag=tolees-21'
 descuento: '31.18'
 average: '37.89333333333334'

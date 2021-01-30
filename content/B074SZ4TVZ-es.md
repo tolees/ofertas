@@ -16,6 +16,7 @@ comparePrice: 21.67 EUR
 prodname: 'URBN CHEF Queensway - 6 Vasos de Whiskey en un Paquete de Regalo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074SZ4TVZ/?tag=tolees-21'
 descuento: '47.72'
 average: '11.33'

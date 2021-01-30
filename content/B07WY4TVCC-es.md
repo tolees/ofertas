@@ -16,6 +16,7 @@ comparePrice: 27.99 EUR
 prodname: 'jerryvon Dinosaurios Juguetes Bebe - Electronico Caminando Figuras Dinosaurio Luz y Sonido Juguete Animal Set Juego con Increíble LED Intermitente Realista Juegos Pascua para Niños Niñas 3 4 5 Año'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WY4TVCC/?tag=tolees-21'
 descuento: '35.73'
 average: '17.99'

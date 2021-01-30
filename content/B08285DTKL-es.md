@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Quiksilver Everyday 15" Swim SRT Pantalones Cortos De Natación  Hombre  Naranja  Orange Pop   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08285DTKL/?tag=tolees-21'
 descuento: '36.85'
 average: '18.94'

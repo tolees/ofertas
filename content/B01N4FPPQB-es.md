@@ -16,6 +16,7 @@ comparePrice: 69.9 EUR
 prodname: 'Lacoste Marice Bl 2 CAM Blk  Zapatillas para Hombre  Blanco  Wht 001   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N4FPPQB/?tag=tolees-21'
 descuento: '57.81'
 average: '29.49'

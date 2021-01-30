@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Skechers Dyna-Air  Zapatillas para Hombre  Azul  Navy Mesh/Trim Nvy   45.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NZY5MGM/?tag=tolees-21'
 descuento: '30.11'
 average: '41.9'

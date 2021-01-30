@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Adidas Deerupt Runner C  Zapatillas de Deporte Unisex niño  Negro  Negro 000   33 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NJH4RMB/?tag=tolees-21'
 descuento: '30.03'
 average: '41.95'

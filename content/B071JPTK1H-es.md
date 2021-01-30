@@ -16,6 +16,7 @@ comparePrice: 12.0 EUR
 prodname: 'Adidas Active Star Gel de ducha para Hombre  400 ml  Pack de 4'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071JPTK1H/?tag=tolees-21'
 descuento: '35.00'
 average: '9.2675'

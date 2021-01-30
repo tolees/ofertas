@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Tommy Hilfiger Big Flag Cap Gorra de béisbol  Azul  Blue Cjm   Talla única para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RJ7JLK8/?tag=tolees-21'
 descuento: '48.42'
 average: '21.696666666666665'

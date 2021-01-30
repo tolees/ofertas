@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Skechers Men s STAMINA CUTBACK Trainers  Grey  Charcoal Leather/Mesh/Red Trim Ccrd   8.5  42.5 EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HCJ9NWT/?tag=tolees-21'
 descuento: '50.03'
 average: '37.28333333333334'

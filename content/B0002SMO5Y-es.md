@@ -16,6 +16,7 @@ comparePrice: 9.15 EUR
 prodname: 'Dremel 628 Juego de Brocas de Precisión - Kit de 7 Accesorios para Taladrar  0.8 / 1.2 / 1.6 / 2.0 / 2.4 / 2.8 / 3.2 mm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0002SMO5Y/?tag=tolees-21'
 descuento: '37.16'
 average: '6.316666666666666'

@@ -16,6 +16,7 @@ comparePrice: 16.85 EUR
 prodname: 'LEMON CLOUD 3D Vinilo Ventanas Pegatina Translúcida Adhesivo Estatico se Aferran Bambus Patron para Oficina Casa Decoracion y Proteccion de la Privacidad  44.5cmX200cm Bambu '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074GP6V3N/?tag=tolees-21'
 descuento: '28.84'
 average: '11.99'

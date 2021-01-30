@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'KDP Casquillo G4 Bombilla LED - 2W/200LM  equivalente a 20W  Blanco Cálido 3000K  DC/AC 12V  no regulable  Pack de 10'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N6J41HE/?tag=tolees-21'
 descuento: '41.39'
 average: '15.49'

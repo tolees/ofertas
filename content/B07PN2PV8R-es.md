@@ -16,6 +16,7 @@ comparePrice: 27.3 EUR
 prodname: 'Yafido LED Transformador 220V a 12V Trafo 50W 4.17A LED Driver Fuente de Alimentación para Bajo Voltaje Bombillas G4 MR16 GU5.3 MR11 Tira LED'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PN2PV8R/?tag=tolees-21'
 descuento: '34.10'
 average: '16.49'

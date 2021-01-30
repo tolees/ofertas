@@ -16,6 +16,7 @@ comparePrice: 59.71 EUR
 prodname: 'Cámara Bebé 1080P Cámara IP  JUMPER Cámara de Seguridad Wlan Pan/Tilt ONVIF IP Cam P2P Cámara de Red Monitor de Bebé Audio de 2 Vías la Visión Nocturna Detección de movimiento'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y1LLTTF/?tag=tolees-21'
 descuento: '50.28'
 average: '29.69'

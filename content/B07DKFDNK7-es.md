@@ -16,6 +16,7 @@ comparePrice: 29 EUR
 prodname: 'Kipling - Creativity L  Monederos Mujer  Morado  Active Lilac Bl '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DKFDNK7/?tag=tolees-21'
 descuento: '40.00'
 average: '17.4'

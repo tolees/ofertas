@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'La mejor herramienta de golfista Golf multiherramienta todo en uno - stroke contador  herramienta para reparar piques de golf  mejor Golf Regalo Idea para hombres mujeres  Souvenir  presente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N2PGRFV/?tag=tolees-21'
 descuento: '40.01'
 average: '29.99'

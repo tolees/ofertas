@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'JRD&BS WINL Regalo para Niños De 4-15 Años Pizarra ElectrÓNica con Una Pantalla LCD De 8 5 Pulgadas FÁCil De Usar para Niños Un Clic para Eliminar Contenido En La Pizarra ElectrÓNica Rojo D'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XHGHG1T/?tag=tolees-21'
 descuento: '32.18'
 average: '15.094999999999999'

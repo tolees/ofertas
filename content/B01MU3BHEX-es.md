@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Reebok Royal Cljog 2 2v  Zapatillas de Trail Running Unisex niños  Blanco  White White   34 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MU3BHEX/?tag=tolees-21'
 descuento: '27.28'
 average: '21.78'

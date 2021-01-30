@@ -16,6 +16,7 @@ comparePrice: 27.0 EUR
 prodname: 'Kipling - Card Keeper  Carteras Mujer  Azul  Aqua Frost   7x10x1 cm  B x H T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MVJ8MG3/?tag=tolees-21'
 descuento: '68.26'
 average: '8.57'

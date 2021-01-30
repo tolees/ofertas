@@ -16,6 +16,7 @@ comparePrice: 42.92 EUR
 prodname: 'Oriware Adhesivo Estantes Cesta para Ducha Estanteria Organizador Baño SUS304 Acero Inoxidable Sin Taladro - 3 Piezas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F9WZT7F/?tag=tolees-21'
 descuento: '25.47'
 average: '32.99'

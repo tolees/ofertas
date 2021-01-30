@@ -16,6 +16,7 @@ comparePrice: 3.7 EUR
 prodname: 'Cable HDMI de alta calidad con contactos dorados  1 5 m '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000JU7N5Q/?tag=tolees-21'
 descuento: '36.49'
 average: '2.309'

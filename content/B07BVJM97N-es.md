@@ -16,6 +16,7 @@ comparePrice: 24.39 EUR
 prodname: 'WisFox Ajustable Antiadherente Fondant Rolling Pins con Discos Ajustables y Marcado de Medición + Silicona para Hornear Rolling Mat para Pastelería Rolling Baking Dough Pizza Pastel Cookies'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BVJM97N/?tag=tolees-21'
 descuento: '30.34'
 average: '16.99'

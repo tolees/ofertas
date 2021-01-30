@@ -16,6 +16,7 @@ comparePrice: 27.99 EUR
 prodname: 'iDesign Organizador de baño  portacepillos de dientes de resina y metal con 3 compartimentos y bandeja  elegante soporte para móviles para el lavabo  blanco y plateado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PTN3C1Y/?tag=tolees-21'
 descuento: '25.22'
 average: '20.93'

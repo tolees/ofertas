@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'GOTOTOP Militar Impermeable Ejército Encapuchado Capa de Lluvia Camuflaje Poncho para Cámping Excursionismo Deportes al Aire Libre  Camuflaje de Hojas de Arce '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B64TLHC/?tag=tolees-21'
 descuento: '69.34'
 average: '4.29'

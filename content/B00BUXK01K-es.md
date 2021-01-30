@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'POP! Vinilo - DC: Dark Knight Joker'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BUXK01K/?tag=tolees-21'
 descuento: '44.96'
 average: '8.25'

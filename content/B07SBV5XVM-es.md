@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'WayEee Termo para Comida 450ml Botella Aislada de Acero Inoxidable Aislada para Alimentos  Beber y Sopa de los niños y Las Comidas de Adultos  Azul Oscuro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SBV5XVM/?tag=tolees-21'
 descuento: '30.01'
 average: '20.99'

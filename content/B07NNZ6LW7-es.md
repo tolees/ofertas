@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'adidas Stan Smith  Zapatillas de Gimnasia para Hombre  Blanco  Ftwrwhite/Core White/Green Ftwrwhite/Core White/Green   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NNZ6LW7/?tag=tolees-21'
 descuento: '31.50'
 average: '68.49'

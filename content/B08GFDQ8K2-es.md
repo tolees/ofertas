@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'i12-TWS Auriculares Bluetooth 5.0 Auriculares inalámbricos deportivos impermeables IPX7 Sonido estéreo 3D Control táctil Pop-Up Emparejamiento automático Auriculares Micrófono binaural HD Call -Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08GFDQ8K2/?tag=tolees-21'
 descuento: '25.01'
 average: '29.99'

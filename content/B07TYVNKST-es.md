@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'TBS Phenis  Náuticos para Hombre  Gris  Gris Clair D8261   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TYVNKST/?tag=tolees-21'
 descuento: '45.34'
 average: '51.93'

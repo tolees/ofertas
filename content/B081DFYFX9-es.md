@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'FNBK Funda para iPhone 7 Plus / 8 Plus Case  Funda Móvil PU en iPhone 7 Plus / 8 Plus  Magnético Carcasa con Soporte y Ranuras para Tarjetas Azul oscuro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081DFYFX9/?tag=tolees-21'
 descuento: '53.89'
 average: '5.99'

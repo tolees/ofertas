@@ -16,6 +16,7 @@ comparePrice: 21.5 EUR
 prodname: 'FSXMPL Pintar por NúMeros para Adultos NiñOs Bricolaje Crisantemo amarilloPrimera OpcióN para Regalos 40x50cm  Sin Marco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BZGRZ5G/?tag=tolees-21'
 descuento: '30.28'
 average: '14.99'

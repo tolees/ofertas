@@ -16,6 +16,7 @@ comparePrice: 12.95 EUR
 prodname: 'Max Factor Crème Puff Polvos Compactos Tono 005 Translucent  21 gr.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001GNBVPI/?tag=tolees-21'
 descuento: '41.78'
 average: '8.275'

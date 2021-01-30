@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'ICZI Hub USB 3.0 7 Puertos USB 3.0 Alimentacion Externa Rapida Velocidad de 5Gbps + 1* Adaptador de Corriente  Concentrador USB 3.0 para Windows  Mac OS  Linux  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N5IAOXE/?tag=tolees-21'
 descuento: '30.01'
 average: '22.655'

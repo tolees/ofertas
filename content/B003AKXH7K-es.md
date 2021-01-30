@@ -16,6 +16,7 @@ comparePrice: 14.44 EUR
 prodname: 'AVENE Solar Crema con Color SPF-50  Naranja 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003AKXH7K/?tag=tolees-21'
 descuento: '75.83'
 average: '8.133333333333335'

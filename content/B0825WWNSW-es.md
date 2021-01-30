@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'Compatible con Moto One Zoom/One Pro  funda de metal  anillo Kickstand 360 grados  protección de amortiguación TPU + PC 2 en 1  funda magnética dorado Talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0825WWNSW/?tag=tolees-21'
 descuento: '41.38'
 average: '12.89'

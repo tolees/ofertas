@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Skechers Men s STAMINA CUTBACK Trainers  Blue  Navy & Black Leather/Charcoal Mesh Nvbk   7.5  41.5 EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00VR53UC2/?tag=tolees-21'
 descuento: '52.07'
 average: '38.32'

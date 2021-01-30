@@ -16,6 +16,7 @@ comparePrice: 134.99 EUR
 prodname: 'Jabra Speak 410 - Altavoz Portátil para Conferencias con USB  Certificado por Microsoft  Conectividad Plug-and-Play con Ordenadores'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004ELA7TA/?tag=tolees-21'
 descuento: '32.17'
 average: '90.23'

@@ -16,6 +16,7 @@ comparePrice: 89.9 EUR
 prodname: 'Pepe Jeans Helaia suéter   Écru 814   X-Large para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZQMRHW/?tag=tolees-21'
 descuento: '67.11'
 average: '26.060000000000002'

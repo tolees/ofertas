@@ -16,6 +16,7 @@ comparePrice: 140.0 EUR
 prodname: 'Otto Koning - Dortmund- Set 42 cubiertos para 6 comensales  acero inoxidable 18/10 - pulido espejo- con tenedor  cuchara  cuchillo  tenedor postre  cuchara postre  cuchillo postre y cuchara moka.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0836CVMPY/?tag=tolees-21'
 descuento: '67.86'
 average: '44.99'

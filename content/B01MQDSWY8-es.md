@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Belkin F7U009vf06-WHT - Cargador doméstico para Smartphones y tabletasde con Cable Micro-USB Integrado de 1 8 m  Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MQDSWY8/?tag=tolees-21'
 descuento: '80.04'
 average: '3.99'

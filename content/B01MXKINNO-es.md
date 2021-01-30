@@ -16,6 +16,7 @@ comparePrice: 179.0 EUR
 prodname: 'Pulsar Reloj de Pulsera PZ4006X1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MXKINNO/?tag=tolees-21'
 descuento: '63.38'
 average: '70.525'

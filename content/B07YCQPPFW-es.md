@@ -16,6 +16,7 @@ comparePrice: 19.57 EUR
 prodname: 'LeYi Funda Xiaomi Mi A3 / Mi CC9e con HD Protector Pantalla  Carcasa Libro Tapa Silicona TPU Bumper Leather Soporte Cartera Case Flip Cuero Wallet Slim Antigolpes Cover para Movil Mi A3 Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YCQPPFW/?tag=tolees-21'
 descuento: '55.19'
 average: '8.77'

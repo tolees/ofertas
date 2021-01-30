@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Waneway Espejo Maquillaje Iluminado con 12 X 3W Bombillas LED Ajustable Y Diseño De Control Táctil  Espejo de Tocador Mesa con Luz LED Estilo Hollywood  Espejo Cosmético con Luces  Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XS8WVZB/?tag=tolees-21'
 descuento: '25.63'
 average: '59.49'

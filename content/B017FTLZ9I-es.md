@@ -16,6 +16,7 @@ comparePrice: 186.01 EUR
 prodname: 'KS Tools 713.1103 módulo de abolladuras de carrocería  3 piezas '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B017FTLZ9I/?tag=tolees-21'
 descuento: '25.43'
 average: '138.7'

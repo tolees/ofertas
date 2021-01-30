@@ -16,6 +16,7 @@ comparePrice: 229.0 EUR
 prodname: 'Bresser Binoculares Digitales de Visión Nocturna 3X20'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01KVY3CNG/?tag=tolees-21'
 descuento: '44.52'
 average: '127.04'

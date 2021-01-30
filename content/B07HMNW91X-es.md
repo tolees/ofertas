@@ -16,6 +16,7 @@ comparePrice: 28.14 EUR
 prodname: 'Skechers Men s Verrado- Brogen Hi-Top Trainers  Brown  Brown Olive Brol   6 UK  39.5 EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HMNW91X/?tag=tolees-21'
 descuento: '26.79'
 average: '25.89'

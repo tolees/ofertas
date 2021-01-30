@@ -16,6 +16,7 @@ comparePrice: 46.9 EUR
 prodname: 'Disfraz de Cowboy a hombros de Caballo para adultos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077PPZZFF/?tag=tolees-21'
 descuento: '42.03'
 average: '27.19'

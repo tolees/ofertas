@@ -16,6 +16,7 @@ comparePrice: 15.27 EUR
 prodname: 'AYIYO - Pantalones cortos de algodón y lino  para bebés de 0 a 3 años Blanco Helado 2-3 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CDDYBZK/?tag=tolees-21'
 descuento: '41.72'
 average: '8.9'

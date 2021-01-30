@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'Under Armour HG Armour 2.0 3/4 Legging Leggings  Hombre  Gris  Carbon Heather/Black 090   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FFNBC9Y/?tag=tolees-21'
 descuento: '40.02'
 average: '23.99'

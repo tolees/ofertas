@@ -16,6 +16,7 @@ comparePrice: 48.99 EUR
 prodname: 'Kempa Attack Three Contender  Zapatillas de Balonmano Unisex Adulto  Naranja  Orange Frais/Noir 06   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H5PT3RK/?tag=tolees-21'
 descuento: '30.62'
 average: '33.99'

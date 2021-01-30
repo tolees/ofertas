@@ -16,6 +16,7 @@ comparePrice: 36.99 EUR
 prodname: 'Mesa Coche para Niños lenbest  Mesa de Viaje para Niños  Bandeja de Viaje  Gato Modelage  Patrón de Fondo de Cuento de Hadas  con 5 Papeles de Dibujo Temáticos para Gatos  Fácil de Usar - Rosa y Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XG5G2RV/?tag=tolees-21'
 descuento: '32.44'
 average: '24.99'

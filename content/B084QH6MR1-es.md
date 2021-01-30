@@ -16,6 +16,7 @@ comparePrice: 1.99 EUR
 prodname: '1 unid Etiqueta engomada de la Historieta del termómetro del bebé desechable Pantalla LCD termómetro de la Frente Banda para la Cabeza termómetro clínico para bebé niños termómetro termómetro clínico'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084QH6MR1/?tag=tolees-21'
 descuento: '39.20'
 average: '1.21'

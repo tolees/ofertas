@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Under Armour Sportstyle Terry Logo Parte Superior del Calentamiento  Hombre  Azul  XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QWNDTQD/?tag=tolees-21'
 descuento: '42.97'
 average: '34.22'

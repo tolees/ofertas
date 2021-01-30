@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Bosch 2 608 587 009 - Set de 7 brocas fresadoras planas Self Cut Speed - 16; 18; 20; 22; 25; 32 mm  pack de 7 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B008HRESU6/?tag=tolees-21'
 descuento: '36.89'
 average: '14.51'

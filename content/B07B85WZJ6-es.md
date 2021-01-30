@@ -16,6 +16,7 @@ comparePrice: 46.99 EUR
 prodname: 'Qoosea Ventilador de Mesa con Dos Hojas Turbo Muy Silenciosas Smart Touch Ventilador USB Pequeño Ventilador para Escritorio  Computadoras de Escritorio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B85WZJ6/?tag=tolees-21'
 descuento: '68.10'
 average: '14.99'

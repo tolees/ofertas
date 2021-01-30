@@ -16,6 +16,7 @@ comparePrice: 29.49 EUR
 prodname: 'Ferilinso Funda para Xiaomi Mi A3 Elegante Armadura híbrida Robusta Funda de Doble Capa de Alta Resistencia para PC Duro Caso para Funda Xiaomi Mi A3 Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QQ45TRP/?tag=tolees-21'
 descuento: '72.91'
 average: '7.99'

@@ -16,6 +16,7 @@ comparePrice: 22.36 EUR
 prodname: 'Respirador desechable de Tres Capas  Transpirable  Antipolvo  para Regalar a los Amantes de la Familia y los niños 50 Piezas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087NMYS78/?tag=tolees-21'
 descuento: '37.43'
 average: '13.99'

@@ -16,6 +16,7 @@ comparePrice: 82.05 EUR
 prodname: 'Auriculares Bluetooth  Syllable D900P Auriculares Inalámbricos Estéreo In-Ear Bluetooth 5.0 Manos Libres con Micrófono Dual con Caja de Carga para iPhone y Otros Smart Phones  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CN2PF1F/?tag=tolees-21'
 descuento: '59.79'
 average: '32.99'

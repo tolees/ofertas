@@ -16,6 +16,7 @@ comparePrice: 31.99 EUR
 prodname: 'IMC Toys - La caja registradora de Minnie Mouse  181700    color/modelo surtido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00TYJ4UA4/?tag=tolees-21'
 descuento: '38.48'
 average: '25.825'

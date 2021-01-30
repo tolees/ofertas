@@ -16,6 +16,7 @@ comparePrice: 34.28 EUR
 prodname: 'Cooler Master Hyper H412R - Ventilador CPU Cooler Aire  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076MQBZ2L/?tag=tolees-21'
 descuento: '36.14'
 average: '21.89'

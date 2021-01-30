@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Deyard Sistema de Riego Micro Flow para Refrigeración por Nieblas de Patio para Trampolín de Invernadero para Parque Acuático con Sistema de Distribución Automática de Jardín de 32.8 pies  10 M '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RR7PNGS/?tag=tolees-21'
 descuento: '36.12'
 average: '22.32333333333333'

@@ -16,6 +16,7 @@ comparePrice: 94.95 EUR
 prodname: 'adidas Gazelle  Zapatillas para Hombre  Azul  Real Blue/Footwear White/Footwear White 0   46 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RGLWWZF/?tag=tolees-21'
 descuento: '49.99'
 average: '47.48'

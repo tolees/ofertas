@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Funko Pop!- 30980 Blue  New Pose  Figura de Vinilo  Multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079THQRND/?tag=tolees-21'
 descuento: '44.96'
 average: '8.6475'

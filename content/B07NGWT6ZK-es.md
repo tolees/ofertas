@@ -16,6 +16,7 @@ comparePrice: 64.9 EUR
 prodname: 'Primigi Gore-Tex Pbz 43660  Botas para Bebés  Ner/Mar.Blurosso 4366000  20 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NGWT6ZK/?tag=tolees-21'
 descuento: '80.37'
 average: '12.74'

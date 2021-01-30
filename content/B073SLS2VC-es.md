@@ -16,6 +16,7 @@ comparePrice: 279.0 EUR
 prodname: 'Emporio Armani Reloj Analógico para Mujer de Cuarzo con Correa en Cuero AR11060'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073SLS2VC/?tag=tolees-21'
 descuento: '49.20'
 average: '143.89000000000001'

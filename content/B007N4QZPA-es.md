@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Tommee Tippee Biberones Closer to Nature  340 ml  2 Unidades  Transparente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007N4QZPA/?tag=tolees-21'
 descuento: '33.36'
 average: '10.870000000000001'

@@ -16,6 +16,7 @@ comparePrice: 11.5 EUR
 prodname: 'Master Lock 1551 Mosquetón Ajustable 0.90m Cable En Espiral Cierre De Combinación  4U  Negro  Estándar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004UDLUWU/?tag=tolees-21'
 descuento: '44.00'
 average: '7.98'

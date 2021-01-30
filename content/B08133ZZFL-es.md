@@ -16,6 +16,7 @@ comparePrice: 18.66 EUR
 prodname: 'XLTOK Cargador Coche 24W 4.8A Doble Puerto con LED Cargador Móvil con Carga Rápida Adaptador Cargador de Coche para Teléfonos y Tabletas iPhone Samsung Huawei Xiaomi Sony LG HTC y más - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08133ZZFL/?tag=tolees-21'
 descuento: '46.46'
 average: '9.99'

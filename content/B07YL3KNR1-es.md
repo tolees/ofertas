@@ -16,6 +16,7 @@ comparePrice: 31.46 EUR
 prodname: 'MTNG Attitude 84361B  Zapatillas para Hombre  Azul  Wax Suede Marino C49102   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YL3KNR1/?tag=tolees-21'
 descuento: '29.47'
 average: '22.19'

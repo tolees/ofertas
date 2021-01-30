@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'PUMA Flyer Runner  Zapatillas de Running Unisex-Adulto  Gris  Charcoal Gray Black/Blue Turquoise   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KFZ1Y7C/?tag=tolees-21'
 descuento: '34.23'
 average: '32.725'

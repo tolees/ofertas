@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'DIGITNOW! USB 3.0 HD Grabadora Video  Live Gamer Portable Full HD 1080P 60FPS Live Streaming Video Recorder Converter Box for - Capturadora portátil de Juegos HDMI '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087R87JYL/?tag=tolees-21'
 descuento: '30.77'
 average: '119.99'

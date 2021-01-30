@@ -16,6 +16,7 @@ comparePrice: 94.95 EUR
 prodname: 'Bullpadel Hack Knit 2019 Gris Num  Zapatillas Deportivas Adultos Unisex  Multicolor  45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V38C2CJ/?tag=tolees-21'
 descuento: '47.39'
 average: '49.95'

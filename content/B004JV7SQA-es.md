@@ -16,6 +16,7 @@ comparePrice: 52.5 EUR
 prodname: 'Beluga Noble  Vodka  70 cl - 700 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004JV7SQA/?tag=tolees-21'
 descuento: '42.34'
 average: '31.083333333333336'

@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Fintie SlimShell Funda para Kindle Paperwhite  10.ª generación  2018  - Carcasa Fina y Ligera de Cuero Sintético con Función de Auto-Reposo/Activación  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JYVJY3Q/?tag=tolees-21'
 descuento: '33.34'
 average: '18.836153846153845'

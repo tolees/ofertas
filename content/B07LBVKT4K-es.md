@@ -16,6 +16,7 @@ comparePrice: 29.69 EUR
 prodname: 'Calvin Klein Unlined Sujetador estilo bralette  Azul  Blue Shadow 8Sb   95  Talla del fabricante: Small  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LBVKT4K/?tag=tolees-21'
 descuento: '47.32'
 average: '15.64'

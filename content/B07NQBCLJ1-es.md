@@ -16,6 +16,7 @@ comparePrice: 44.36 EUR
 prodname: 'SAMSUNG SM-R375NZKADBT Reloj Inteligente Negro 1 88 cm  0.74"  Móvil - Relojes Inteligentes  1 88 cm  0.74"   Pantalla táctil  Móvil  144 h  15 g  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NQBCLJ1/?tag=tolees-21'
 descuento: '28.07'
 average: '31.91'

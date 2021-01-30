@@ -16,6 +16,7 @@ comparePrice: 17.5 EUR
 prodname: 'Khanomak de Mujer de Manga Larga básica de Cuello V Crop Equipada Primer Golpe  Medium  de Oliva '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HBCSKJS/?tag=tolees-21'
 descuento: '71.49'
 average: '4.99'

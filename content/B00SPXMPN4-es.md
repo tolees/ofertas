@@ -16,6 +16,7 @@ comparePrice: 31.97 EUR
 prodname: 'Yummy Bee Lencería Babydoll Conjunto Ropa Interior Noche Dormir Negro Rojo Picardías Talla Grande 36-52  Negro  36 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00SPXMPN4/?tag=tolees-21'
 descuento: '53.17'
 average: '14.97'

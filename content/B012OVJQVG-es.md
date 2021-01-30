@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'DC Figura de Vinilo Batman  colección Arkham Knight  Funko 6383 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B012OVJQVG/?tag=tolees-21'
 descuento: '31.69'
 average: '8.996666666666666'

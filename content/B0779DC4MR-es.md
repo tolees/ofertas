@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'adidas Santos Sock 18 Calcetines  Unisex Adulto  Black/White  4042'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0779DC4MR/?tag=tolees-21'
 descuento: '50.44'
 average: '3.96'

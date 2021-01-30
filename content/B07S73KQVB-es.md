@@ -16,6 +16,7 @@ comparePrice: 21.55 EUR
 prodname: 'helymore Halloween Mono de Superheroe de Cosplay de Pelicula Jumpsuit Ajustado con Estampado de Arana  Altura Adecuada 140cm-150cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S73KQVB/?tag=tolees-21'
 descuento: '29.19'
 average: '17.758333333333333'

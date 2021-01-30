@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Superdry Urban Athletic Classic Zip Hood Capucha  Negro  Oxide Black Feeder U4e   X-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NY7DFXN/?tag=tolees-21'
 descuento: '70.13'
 average: '26.88'

@@ -16,6 +16,7 @@ comparePrice: 20.16 EUR
 prodname: 'Kit de suspensión colgante Ranex 6000.518 – Cromado – Serie Ceiling Dream'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00LTSZVPG/?tag=tolees-21'
 descuento: '26.09'
 average: '14.9'

@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Pepe Jeans Jose Pm701939 suéter   Sherwood 664   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JH3Z79T/?tag=tolees-21'
 descuento: '50.00'
 average: '32.5'

@@ -16,6 +16,7 @@ comparePrice: 550.0 EUR
 prodname: 'Sony Fe 28-70Mm F/3.5-5.6 OSS - Objetivo para Sony  Distancia Focal 28-70Mm  Apertura F/3.5-36  Zoom Óptico 2.5X Estabilizador Óptico  Diámetro: 55Mm  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00HSHFPD0/?tag=tolees-21'
 descuento: '47.45'
 average: '298.9128571428571'

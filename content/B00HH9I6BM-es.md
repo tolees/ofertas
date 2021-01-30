@@ -16,6 +16,7 @@ comparePrice: 14.05 EUR
 prodname: 'Adaptador VGA DB9 hembra a HD15 pines macho adaptador de'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00HH9I6BM/?tag=tolees-21'
 descuento: '34.88'
 average: '9.15'

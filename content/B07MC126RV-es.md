@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Clarks Fairford Run  Zapatillas para Hombre  Negro Black Leather  42.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MC126RV/?tag=tolees-21'
 descuento: '54.67'
 average: '45.31'

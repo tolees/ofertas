@@ -16,6 +16,7 @@ comparePrice: 62.99 EUR
 prodname: 'NK Tostadora Darth Vader 2 rebanadas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00JFFH1NA/?tag=tolees-21'
 descuento: '33.32'
 average: '46.57714285714286'

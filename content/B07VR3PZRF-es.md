@@ -16,6 +16,7 @@ comparePrice: 53.91 EUR
 prodname: 'Tommy Hilfiger Short Sleeve Slim Polo de Manga Corta  Amarillo  Sunny Zek   32  Talla del Fabricante: XX-Small  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VR3PZRF/?tag=tolees-21'
 descuento: '55.33'
 average: '24.08'

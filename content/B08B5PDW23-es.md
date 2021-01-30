@@ -16,6 +16,7 @@ comparePrice: 17.58 EUR
 prodname: 'MERIGLARE Cepillo De Eléctrico Con Batería De Limpieza Profunda Para Adultos Con Cabezal De Repuesto - Rosado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08B5PDW23/?tag=tolees-21'
 descuento: '38.74'
 average: '10.77'

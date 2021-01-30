@@ -16,6 +16,7 @@ comparePrice: 24.0 EUR
 prodname: 'Havaianas Origine III  Alpargatas Unisex Adulto  Rojo  Red   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01L41F2II/?tag=tolees-21'
 descuento: '37.50'
 average: '17.5'

@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'Nike Pico 5  Gymnastics Shoe Unisex-Child  Negro  40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V1JKS2V/?tag=tolees-21'
 descuento: '48.32'
 average: '20.67'

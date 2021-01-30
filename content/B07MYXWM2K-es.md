@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'OurLeeme Iluminación para lectura  Brillo de 4 niveles Cuidado de los ojos Clip recargable con LED  Lámpara de lectura blanca cálida para libro electrónico  Kindle  Ipad  Computadora portátil'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MYXWM2K/?tag=tolees-21'
 descuento: '60.04'
 average: '5.99'

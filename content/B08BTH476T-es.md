@@ -16,6 +16,7 @@ comparePrice: 7.45 EUR
 prodname: '3pcs Estuche portátil Guarda mascarilla. Bolsa/Caja de Almacenamiento de mascarillas Antipolvo para la prevención de la contaminación. 3 Piezas  no Incluye mascarilla.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BTH476T/?tag=tolees-21'
 descuento: '68.46'
 average: '2.35'

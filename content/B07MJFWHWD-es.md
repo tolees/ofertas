@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'MaGeek® [Paquete de 5] 0 3m Corto Cables USB Tipo C  USB-C  a USB 2.0 para Samsung Galaxy S9  S8  Nexus 6P  LG G6  Nuevo MacBook  Google Pixel XL  OnePlus2 y más  Blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MJFWHWD/?tag=tolees-21'
 descuento: '31.27'
 average: '10.99'

@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Ball Rescuer: Bote Presurizador de Pelotas de Pádel y Tenis - Modelo Básico: no Incluye Bomba ni envase.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074PQLTXW/?tag=tolees-21'
 descuento: '25.06'
 average: '29.9'

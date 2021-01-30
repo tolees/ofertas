@@ -16,6 +16,7 @@ comparePrice: 12.0 EUR
 prodname: 'JK-2 Sacos de Yute 10pcs / Bolsa de Yute línea Impresa Bolsa Bolsas de Regalo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZF2XYTS/?tag=tolees-21'
 descuento: '52.58'
 average: '5.69'

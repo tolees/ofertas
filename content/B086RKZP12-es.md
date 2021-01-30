@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'OWAYKEY - Amplificador Bluetooth  50 W + 50 W  2 canales  entrada Bluetooth y AUX'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086RKZP12/?tag=tolees-21'
 descuento: '25.01'
 average: '14.99'

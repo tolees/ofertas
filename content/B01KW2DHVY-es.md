@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'BaByliss T840E - Afeitadora y recortadora de barba  cuchillas resistentes de acero inoxidable  60 minutos de autonomía  uso con y sin cable  negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01KW2DHVY/?tag=tolees-21'
 descuento: '62.52'
 average: '23.229999999999997'

@@ -16,6 +16,7 @@ comparePrice: 13.27 EUR
 prodname: 'Tangle Teezer Compact Styler Hello Kitty Peine  Rosa - 150 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01KTGI4UW/?tag=tolees-21'
 descuento: '29.54'
 average: '9.35'

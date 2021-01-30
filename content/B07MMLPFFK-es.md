@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Napapijri Damavand V suéter  Azul  French Blue BB7   XXX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MMLPFFK/?tag=tolees-21'
 descuento: '60.00'
 average: '39.6'

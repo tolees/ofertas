@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'Auriculares Bluetooth 5.0  Auriculares Inalámbricos 156H Tiempo de Juego Bajo Profundo Hi-Fi Sonido Estéreo In-Ear Sport Auricular con micrófono  de Carga portátil para  IPX5 Impermeable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08FWRGHDB/?tag=tolees-21'
 descuento: '30.31'
 average: '22.99'

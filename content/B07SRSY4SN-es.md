@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Paraguas de Viaje automático Plegable Compacto Paraguas Auto Abrir/Cerrar Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SRSY4SN/?tag=tolees-21'
 descuento: '47.39'
 average: '9.99'

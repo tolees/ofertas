@@ -16,6 +16,7 @@ comparePrice: 6.62 EUR
 prodname: 'Prozis Instant Oats  Vainilla - 1250 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071WCQBGS/?tag=tolees-21'
 descuento: '39.73'
 average: '3.74'

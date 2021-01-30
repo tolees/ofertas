@@ -16,6 +16,7 @@ comparePrice: 11.19 EUR
 prodname: 'PACK - Windows 10 Professiona + office pro 2019 + antivirus kapersky + photoshop 2020l - Entrega a través del centro de mensajes de Amazon 60 minutos como máximo - Activación por el sitio oficial'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084X5DSRK/?tag=tolees-21'
 descuento: '70.51'
 average: '3.3'

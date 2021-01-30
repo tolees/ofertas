@@ -16,6 +16,7 @@ comparePrice: 59.93 EUR
 prodname: 'Marco digital'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T1XNB85/?tag=tolees-21'
 descuento: '29.23'
 average: '36.87833333333333'

@@ -16,6 +16,7 @@ comparePrice: 299.9 EUR
 prodname: 'ASRock X570 Phantom Gaming X AM4 ATX Mainboard M.2/HDMI/USB3.2 Gen2 /WLAN/BT'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07THYPNC9/?tag=tolees-21'
 descuento: '33.34'
 average: '199.9'

@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Hawiton Camisón Mujer Verano Camisones de Algodon Ropa de Dormir Manga Corta Pijamas Vestir Camisónes Loungewear Elegante'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RGVFMZ4/?tag=tolees-21'
 descuento: '33.34'
 average: '18.856666666666666'

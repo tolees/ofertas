@@ -16,6 +16,7 @@ comparePrice: 199.9 EUR
 prodname: 'MII-V Mini PC Desktop Ordenador License Windows 10 Multimedia Office Computer  4GB Ram 64GB SSD  HDMI+VGA Dual Display  Intel Apollo Lake Celeron J3355 VESA Mount Dual WiFi'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WVJ2YVK/?tag=tolees-21'
 descuento: '35.02'
 average: '129.9'

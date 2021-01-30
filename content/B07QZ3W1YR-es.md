@@ -16,6 +16,7 @@ comparePrice: 149.0 EUR
 prodname: 'Jané Protect  Silla de auto - Nurse'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QZ3W1YR/?tag=tolees-21'
 descuento: '40.34'
 average: '88.9'

@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Tommy Hilfiger New Aly Belt  Cinturón Hombre  Marrón  TESTA DI MORO-EUR   95 UK '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B018LLLUUS/?tag=tolees-21'
 descuento: '44.89'
 average: '21.99'

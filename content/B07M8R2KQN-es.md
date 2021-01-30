@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'MTNG Attitude 69574  Zapatillas para Mujer  Blanco  Canvas3 Point Blanco C46279   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M8R2KQN/?tag=tolees-21'
 descuento: '49.92'
 average: '15.0'

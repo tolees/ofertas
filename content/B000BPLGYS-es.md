@@ -16,6 +16,7 @@ comparePrice: 399.9 EUR
 prodname: 'HP Q5953A - Cartucho de tóner'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000BPLGYS/?tag=tolees-21'
 descuento: '93.32'
 average: '26.73'

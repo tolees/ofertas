@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'JARBO TN2220 Cartuchos de tóner Negro Compatible para Brother TN-2220 Brother HL-2240 2240D HL-2250DN HL-2270DW DCP-7060D DCP-7065DN DCP-7070DW MFC-7360N MFC-7460DN MFC-7860DW FAX-2840 FAX-2940'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFWZVZP/?tag=tolees-21'
 descuento: '33.34'
 average: '19.99'

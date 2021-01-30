@@ -16,6 +16,7 @@ comparePrice: 54.99 EUR
 prodname: 'Superdry Classic Superstate S/s Polo  Rojo  Rouge Red Wa7   L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TLLFZ31/?tag=tolees-21'
 descuento: '40.01'
 average: '32.99'

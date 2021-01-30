@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'Pop! Figura de Vinilo: Disney: Little Mermaid - Ariel  Purple Dress '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZNS328/?tag=tolees-21'
 descuento: '33.78'
 average: '10.037777777777778'

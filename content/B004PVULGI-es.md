@@ -16,6 +16,7 @@ comparePrice: 12.3 EUR
 prodname: 'Clatronic HT 3393 - Secador de pelo de viaje  colores surtidos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004PVULGI/?tag=tolees-21'
 descuento: '43.90'
 average: '6.9'

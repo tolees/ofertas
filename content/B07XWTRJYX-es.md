@@ -16,6 +16,7 @@ comparePrice: 17.62 EUR
 prodname: 'perfk Conector Macho 10pcs 4mm Banana Plug para Audio De Altavoz De Alto Voltaje'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XWTRJYX/?tag=tolees-21'
 descuento: '37.51'
 average: '11.01'

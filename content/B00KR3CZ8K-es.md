@@ -16,6 +16,7 @@ comparePrice: 119.0 EUR
 prodname: 'Vibram Five Fingers Trek Ascent  Zapatillas de Deporte Exterior Mujer  Negro  Black   36'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KR3CZ8K/?tag=tolees-21'
 descuento: '50.79'
 average: '58.56'

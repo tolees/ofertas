@@ -16,6 +16,7 @@ comparePrice: 62.49 EUR
 prodname: 'Zapatillas/ADIDAS:Daily 2.0 46 Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MVF8FYP/?tag=tolees-21'
 descuento: '51.19'
 average: '31.25'

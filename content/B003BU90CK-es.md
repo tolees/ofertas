@@ -16,6 +16,7 @@ comparePrice: 1.72 EUR
 prodname: 'Wolfcraft 4135000 4135000-1 cúter de Seguridad de plástico retráctil Incl. Cuchilla Trapezoidal'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003BU90CK/?tag=tolees-21'
 descuento: '30.23'
 average: '1.2'

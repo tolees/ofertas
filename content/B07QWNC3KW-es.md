@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Under Armour Armour Mid Keyhole Graphic Sujetador Deportivo  Mujer  Gris  LG'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QWNC3KW/?tag=tolees-21'
 descuento: '45.67'
 average: '16.3'

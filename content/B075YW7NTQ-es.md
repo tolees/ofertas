@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'Sloggi Zero Feel Bralette Corsé para Mujer  Beige  Cognac Sh   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075YW7NTQ/?tag=tolees-21'
 descuento: '31.33'
 average: '24.0'

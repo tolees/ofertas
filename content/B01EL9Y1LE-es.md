@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'Hartmann Cosmopor E Apósitos  7.2 x 5 cm  50 unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01EL9Y1LE/?tag=tolees-21'
 descuento: '35.28'
 average: '7.76'

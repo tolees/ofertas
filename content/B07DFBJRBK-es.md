@@ -16,6 +16,7 @@ comparePrice: 6.95 EUR
 prodname: 'Funko Pop! Animated Spider-Man - Keychain Miles Morales'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DFBJRBK/?tag=tolees-21'
 descuento: '28.06'
 average: '5.0'

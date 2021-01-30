@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'DoGeek Bolsas de Malla de Lavandería Bolsas de Lavado para Ropa Interior  Calcetines Sujetadores  Camiseta，Ropa de Bebé  Blanco  2 pcs '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XY7JSNQ/?tag=tolees-21'
 descuento: '42.13'
 average: '10.323333333333334'

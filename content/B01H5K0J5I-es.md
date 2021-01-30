@@ -16,6 +16,7 @@ comparePrice: 22.68 EUR
 prodname: 'Pikolin Home - Pack de 2 fundas protector de almohada lyocell  impermeables  40x90cm  Todas las medidas '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01H5K0J5I/?tag=tolees-21'
 descuento: '29.50'
 average: '16.8375'

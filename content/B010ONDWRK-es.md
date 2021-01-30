@@ -16,6 +16,7 @@ comparePrice: 18.87 EUR
 prodname: 'Advance Sensitive Mini - Pienso para Perros de Razas pequeñas con sensibilidades digestivas con salmón y arroz - 3 kg'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B010ONDWRK/?tag=tolees-21'
 descuento: '26.34'
 average: '13.9'

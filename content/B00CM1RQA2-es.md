@@ -16,6 +16,7 @@ comparePrice: 149.0 EUR
 prodname: 'Jacques Lemans Smart Watch Armbanduhr 1-1770F'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00CM1RQA2/?tag=tolees-21'
 descuento: '46.75'
 average: '79.941'

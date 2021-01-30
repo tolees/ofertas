@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'Panasonic ER-GB80-S503 - Cortapelos impermeable con Peine-Guía 3 en 1 barba  cabello y cuerpo  recargable  acero inoxidable  lavable  batería larga duración  39 ajustes  3 peines incluidos   plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NIOCCEC/?tag=tolees-21'
 descuento: '29.96'
 average: '58.965'

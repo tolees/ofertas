@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'DURAGADGET Riñonera Ajustable para Samsung HMX-QF30BP/EDC - ¡Sumergible En Agua!'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00OG5SDPY/?tag=tolees-21'
 descuento: '33.35'
 average: '11.99'

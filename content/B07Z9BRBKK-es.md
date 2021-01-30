@@ -16,6 +16,7 @@ comparePrice: 27.81 EUR
 prodname: 'B Baosity Filtro de Aire para Cabina de Polen para Coche  Automóvil 28x25x8cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z9BRBKK/?tag=tolees-21'
 descuento: '40.42'
 average: '16.57'

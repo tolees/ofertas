@@ -16,6 +16,7 @@ comparePrice: 89.9 EUR
 prodname: 'Foodsaver FFS014X-01 Envasadora al vacío  140 W  Acero Inoxidable  Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073X6LT1Y/?tag=tolees-21'
 descuento: '37.72'
 average: '56.48'

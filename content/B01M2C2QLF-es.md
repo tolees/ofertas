@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Arlo Accesorio oficial VMA4400 - Batería Recargable para cámaras de Seguridad y vigilancia Arlo Accesorio oficial Pro  sin Cables '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M2C2QLF/?tag=tolees-21'
 descuento: '69.42'
 average: '56.589999999999996'

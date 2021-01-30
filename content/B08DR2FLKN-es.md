@@ -16,6 +16,7 @@ comparePrice: 32.0 EUR
 prodname: 'X-Crystal Mini Ventilador de Aire Acondicionado portátil  humidificador de Aire evaporativo de Tres velocidades  Enfriador de Aire de neblina portátil  para la Oficina en el hogar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08DR2FLKN/?tag=tolees-21'
 descuento: '25.03'
 average: '23.99'

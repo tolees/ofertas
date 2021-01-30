@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'Locisne Portátil 14-en-1 Ultra Push Up Board Bracket Board Multifuncional Brazo Sistema de entrenamiento muscular abdominal con soporte Equipo de entrenamiento de fitness Interior al aire libre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08637MGNL/?tag=tolees-21'
 descuento: '37.05'
 average: '16.99'

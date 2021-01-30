@@ -16,6 +16,7 @@ comparePrice: 35.84 EUR
 prodname: 'The Big Bang Theory Temporada 12 [DVD]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YTCDZKB/?tag=tolees-21'
 descuento: '30.39'
 average: '22.46666666666667'

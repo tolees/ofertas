@@ -16,6 +16,7 @@ comparePrice: 9.8 EUR
 prodname: 'Keep Out Gaming R4 - Alfombrilla  450x370x3 mm  Color Negro y Verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00HFOFSD8/?tag=tolees-21'
 descuento: '63.16'
 average: '6.925'

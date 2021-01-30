@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'OurLeeme Caja de Almacenamiento de Especias  Caja de Almacenamiento de Especias de Sal de bambú de Madera con contenedor de Tapa giratoria para Tarro de condimento de Almacenamiento de Cocina'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083SJZ2NN/?tag=tolees-21'
 descuento: '30.03'
 average: '6.99'

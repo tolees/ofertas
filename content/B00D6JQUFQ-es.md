@@ -16,6 +16,7 @@ comparePrice: 29.2 EUR
 prodname: 'Agua Brava 492-040191 Colonia - 200 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00D6JQUFQ/?tag=tolees-21'
 descuento: '42.64'
 average: '16.75'

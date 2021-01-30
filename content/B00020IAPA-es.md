@@ -16,6 +16,7 @@ comparePrice: 36.45 EUR
 prodname: 'Solgar Comprimidos Masticables Sublinguales Vitamina B 12 1.000 mcg  Equilibrio psicológico  Reduce el Cansancio  Sabor Cereza Natural  Apto para Veganos  250 Tabletas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00020IAPA/?tag=tolees-21'
 descuento: '41.02'
 average: '25.744999999999997'

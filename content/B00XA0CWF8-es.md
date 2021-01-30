@@ -16,6 +16,7 @@ comparePrice: 5.49 EUR
 prodname: 'Pantene Mascarilla Repara y Protege- 300 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XA0CWF8/?tag=tolees-21'
 descuento: '28.23'
 average: '3.94'

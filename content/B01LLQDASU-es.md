@@ -16,6 +16,7 @@ comparePrice: 32.13 EUR
 prodname: 'Quid Set 5 Gadgets INOX con Soporte Brassia  Acero Inoxidable  5.36 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LLQDASU/?tag=tolees-21'
 descuento: '31.84'
 average: '21.9'

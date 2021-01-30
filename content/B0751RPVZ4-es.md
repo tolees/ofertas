@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'New Balance 574 Core Plus  Zapatillas para Hombre  Azul  Navy/Red   40 EU  Talla Fabricante: 6.5 UK '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0751RPVZ4/?tag=tolees-21'
 descuento: '35.17'
 average: '58.35'

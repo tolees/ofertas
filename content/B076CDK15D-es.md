@@ -16,6 +16,7 @@ comparePrice: 4.05 EUR
 prodname: 'Just Stationery - 24 Fundas de plástico transparentes perforadas  Tamaño Único   Transparente '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076CDK15D/?tag=tolees-21'
 descuento: '33.33'
 average: '2.7'

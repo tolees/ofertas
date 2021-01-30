@@ -16,6 +16,7 @@ comparePrice: 159.79 EUR
 prodname: 'SONGMICS Silla ergonómica de oficina estudio con ruedas OBG24B'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00UTC9T7E/?tag=tolees-21'
 descuento: '34.78'
 average: '104.65666666666667'

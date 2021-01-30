@@ -16,6 +16,7 @@ comparePrice: 42.99 EUR
 prodname: 'Espejo de Maquillaje  Morpilot Espejo de Aumento 1x/5x con Luz LED de Pantalla Táctil y Carga USB  con Diseño de Tres Modos de Luz Ajustable - Soporte Ajustable de 45 Grados -Oro Rosa 210 * 90 * 342mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QZGM1RP/?tag=tolees-21'
 descuento: '41.87'
 average: '24.49'

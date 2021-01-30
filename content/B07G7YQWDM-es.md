@@ -16,6 +16,7 @@ comparePrice: 17.64 EUR
 prodname: 'IPOTCH 2 Piezas Medallón De Medalla De Uniforme Militar Broche Pin Cinta King Broche De Estrella Gótico'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G7YQWDM/?tag=tolees-21'
 descuento: '33.33'
 average: '7.925'

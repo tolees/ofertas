@@ -16,6 +16,7 @@ comparePrice: 26.5 EUR
 prodname: 'Bombillas LED MR16 GU5.3 3000K Blanco Cálido AC/DC 12V 5W Equivalente Halógeno 50W Foco 480 Lúmenes  Angulo de Haz de 36 °  no Regulable  6 Unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NL4BVYM/?tag=tolees-21'
 descuento: '39.66'
 average: '15.99'

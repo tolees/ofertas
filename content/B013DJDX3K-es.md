@@ -16,6 +16,7 @@ comparePrice: 12.9 EUR
 prodname: 'Skylanders SuperCharges - Figura High Volt  Driver '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B013DJDX3K/?tag=tolees-21'
 descuento: '37.91'
 average: '8.01'

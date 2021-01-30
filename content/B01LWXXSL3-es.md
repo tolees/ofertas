@@ -16,6 +16,7 @@ comparePrice: 18.16 EUR
 prodname: 'Tangle Teezer the Ultimate Finishing Cepillo  Color Negro  100 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LWXXSL3/?tag=tolees-21'
 descuento: '67.18'
 average: '5.98'

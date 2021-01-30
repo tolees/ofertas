@@ -16,6 +16,7 @@ comparePrice: 42.9 EUR
 prodname: 'Tommy Hilfiger 3p Lr Trunk Sujetador  Negro  Black/White/Grey Heather   XX-Large  Pack de 3  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00UBOL4HI/?tag=tolees-21'
 descuento: '40.58'
 average: '30.229999999999997'

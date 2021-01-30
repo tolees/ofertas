@@ -16,6 +16,7 @@ comparePrice: 359.0 EUR
 prodname: 'ASUS VZ27AQ - Monitor Eye Care de 27 Pulgadas WQHD  IPS  Ultrafino  sin Marco  Flicker Free  Blue Light Filter  antiparpadeo  Filtro de luz Azul   Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06ZYRTHL8/?tag=tolees-21'
 descuento: '25.02'
 average: '272.82374999999996'

@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'Adidas 3AA2297  Calcetines Unisex  Blanco  43 - 46 EU  Paquete de 3'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00X4LEVMA/?tag=tolees-21'
 descuento: '42.45'
 average: '7.933333333333333'

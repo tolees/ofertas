@@ -16,6 +16,7 @@ comparePrice: 54.74 EUR
 prodname: 'SHEGRACE plata de ley'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0828QLCVV/?tag=tolees-21'
 descuento: '62.64'
 average: '20.45'

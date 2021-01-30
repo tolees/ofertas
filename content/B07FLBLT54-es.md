@@ -16,6 +16,7 @@ comparePrice: 3.79 EUR
 prodname: 'BROTECT Protector Pantalla Cristal Compatible con Doogee S55 Protector Pantalla Vidrio Dureza 9H AirGlass'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FLBLT54/?tag=tolees-21'
 descuento: '26.39'
 average: '2.79'
