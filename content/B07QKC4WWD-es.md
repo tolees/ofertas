@@ -1,37 +1,39 @@
 ---
 layout: post
-title: 'Logitech G502 LIGHTSPEED Ratón Gaming In al 29.68 % de rebaja'
-date: 2021-01-24 16:54:47
+title: 'Logitech G502 LIGHTSPEED Wireless Gaming al 38.42 % de rebaja'
+date: 2021-01-31 22:13:19
 image: 'https://m.media-amazon.com/images/I/41PRmRRyfcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QKC4WWD-es Logitech G502 LIGHTSPEED Ratón Gaming Inalámbrico Sensor...'
+slug: 'B07QKC4WWD-es Logitech G502 LIGHTSPEED Wireless Gaming Mouse HERO 25K...'
 sku: 'B07QKC4WWD-es'
 tags: [  ]
-actualPrice: 109.0 EUR
+actualPrice: 95.45 EUR
 currency: EUR
-price: 109.0
+price: 95.45
 comparePrice: 155.0 EUR
-prodname: 'Logitech G502 LIGHTSPEED Ratón Gaming Inalámbrico  Sensor HERO 16K  16 000 DPI  RGB  Peso Reducido  11 Botones Programables  Batería Larga Duración  Memoria Integrada  PC/Mac - Negro'
+prodname: 'Logitech G502 LIGHTSPEED Wireless Gaming Mouse  HERO 25K Sensor  25 600 DPI  RGB  Adjustable Weights  11 Programmable Buttons  Long Battery Life  POWERPLAY-compatible  PC/Mac  Black'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Logitech G'
 buyurl: 'https://www.amazon.es/dp/B07QKC4WWD/?tag=tolees-21'
-descuento: '29.68'
-average: '108.165'
+descuento: '38.42'
+average: '106.348571428571'
 ---
 
-Tienes [Logitech G502 LIGHTSPEED Ratón Gaming Inalámbrico  Sensor HERO 16K  16 000 DPI  RGB  Peso Reducido  11 Botones Programables  Batería Larga Duración  Memoria Integrada  PC/Mac - Negro](https://www.amazon.es/dp/B07QKC4WWD/?tag=tolees-21) con precio final de  109.0 EUR (original: 155.0 EUR) (29.68 %  de rebaja) aqui!
+Tienes [Logitech G502 LIGHTSPEED Wireless Gaming Mouse  HERO 25K Sensor  25 600 DPI  RGB  Adjustable Weights  11 Programmable Buttons  Long Battery Life  POWERPLAY-compatible  PC/Mac  Black](https://www.amazon.es/dp/B07QKC4WWD/?tag=tolees-21) con precio final de  95.45 EUR (original: 155.0 EUR) (38.42 %  de rebaja) aqui!
 
-[![Logitech G502 LIGHTSPEED Ratón Gaming In](https://m.media-amazon.com/images/I/41PRmRRyfcL._SL200_.jpg)](https://www.amazon.es/dp/B07QKC4WWD/?tag=tolees-21)
+[![Logitech G502 LIGHTSPEED Wireless Gaming](https://m.media-amazon.com/images/I/41PRmRRyfcL._SL200_.jpg)](https://www.amazon.es/dp/B07QKC4WWD/?tag=tolees-21)
 
 🔎:
 
-- Diseño de Alto Rendimiento: La emblemática forma que rebasó los límites del ratón óptico para PC gaming ha evolucionado con una carcasa liviana y una estructura interna de endoesqueleto
-- Peso Personalizable Ergonómico y Sistema de Colores: Personaliza el peso del ratón con las seis pesas incluidas, para optimizar la precisión de disparo y elija entre 16,8 millones de colores
-- Once Botones y Botón Rueda Superrápido: Los botones principales ofrecen un sistema de tensión con resorte metálico para una actuación rápida y precisa y personalización de macros para cada juego
-- Sensor HERO 16K: El sensor HERO ofrece un óptimo seguimiento de hasta 16.000 dpi y rendimiento con precisión de píxel sin suavizado, aceleración ni filtros
-- Tecnología Inalámbrica LIGHTSPEED: Los profesionales de eSports confían en el ecosistema de tecnologías inalámbricas USB LIGHTSPEED del ratón para gaming Logitech para un juego profesional
-- Actualice a 25K DPI: aumente el DPI máximo a 25,600 para desbloquear el primer nivel de rendimiento submicrónico del mundo (disponible para todos los ratones con el sensor HERO 16K a través de una actualización de software de G HUB)
+- 11 buttons and hyper-fast scroll wheel: Primary buttons feature metal-spring tensioning for fast, crisp actuation. Customise keybinds and macros for each game and app. Hyper-fast scroll wheel lets you speed through long documents and pages
+- LIGHTSPEED wireless: The LIGHTSPEED ecosystem of USB wireless Logitech gaming mouse technologies are trusted by esports professionals to deliver pro-grade, ultra-fast and reliable gaming performance
+- High-performance design: The iconic shape that pushed the boundaries of the PC gaming mouse has evolved even further for wireless performance, a thin wall design and an internal endoskeleton structure to reduce weight and increase gaming control
+- Next gen sensor: Capable of detecting movements at the sub-micron level, can track movement less than one millionth of a meter with pinpoint accuracy
+- NO WIRES. NO LIMITS: World’s NO.1 Best Selling Wireless Gaming Gear Brand - Based on independent aggregated sales data (FEB ‘19 - FEB’20) of Wireless Gaming Keyboard, Mice, & PC Headset in units
+- Tuneable weight & Colour systems: Customise the weight and balance of your gaming mouse with six adjustable weights for optimal pixel tracking, movement and targeting, and chose from the 16.8 million colours for your LIGHTSYNC RGB mouse
+- HERO 25K sensor: The HERO sensor delivers class-leading performance up to 25600 DPI, with pixel-precise performance and zero smoothing, filtering or acceleration
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07QKC4WWD/?tag=tolees-21)

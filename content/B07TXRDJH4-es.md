@@ -29,7 +29,7 @@ Tienes [Wrangler Texas Vaqueros Slim  Azul  Dark Rinse 90a   33W / 34L para Homb
 🔎:
 
 - Slim
-- Otro elástico plano
 - Ligera
+- Otro elástico plano
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07TXRDJH4/?tag=tolees-21)

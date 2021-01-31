@@ -28,9 +28,9 @@ Tienes [Durex Gel Estimulante Lovers Connect Él y Ella - Pack de 2 x 60 ml - To
 
 ℹ️:
 
-- Calor para ella: prueba este sedoso gel que aporta una sensación de calor
-- Pack de dos envases de 60 ml, puedes aplicar la cantidad que desees
 - Juego de 2 geles estimulantes diseñados pensados para disfrutar en pareja
+- Pack de dos envases de 60 ml, puedes aplicar la cantidad que desees
+- Calor para ella: prueba este sedoso gel que aporta una sensación de calor
 - Puedes usar este gel con todos los preservativos Durex; Es compatible con el uso de condones y vibradores Durex
 - Frio para el: gel estimulante con efecto frescor, que estimula la zona provocando al mismo tiempo un cosquilleo agradable y placentero
 

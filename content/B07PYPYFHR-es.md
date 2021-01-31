@@ -28,10 +28,10 @@ Ahora mismo tienes [Tulipán Negro Gel De Baño Crema De Jabón 720 ml](https://
 
 🔎:
 
+- Género; Unisex. Adulto e infantil.
+- Gel muy perfumado crema de jabón. Con olor a limpio. Deja la piel radiante e hidratada.
 - No testado en animales. Vegano. Fabricación íntegra en España.
 - Libre de parabenos y colorantes. Dermatológicamente testado. Crea mucha espuma.
 - Gel de baño y ducha máxima hidratación, con Glicerina y Vitamina E, nutre profundamente la piel y le aporta suavidad, ayudando a regenerarla. Agradable y suave fragancia.
-- Gel muy perfumado crema de jabón. Con olor a limpio. Deja la piel radiante e hidratada.
-- Género; Unisex. Adulto e infantil.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07PYPYFHR/?tag=tolees-21)
