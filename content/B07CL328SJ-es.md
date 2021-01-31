@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nescafé Dolce Gusto Café Espresso Intens con un 50.30 % de descuento'
-date: 2021-01-30 01:03:41
+date: 2021-01-31 01:33:12
 image: 'https://m.media-amazon.com/images/I/51m0tg5LzKL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,9 +16,10 @@ comparePrice: 8.45 EUR
 prodname: 'Nescafé Dolce Gusto Café Espresso Intenso - 16 Cápsulas de Café'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Nescafé Dolce Gusto'
 buyurl: 'https://www.amazon.es/dp/B07CL328SJ/?tag=tolees-21'
 descuento: '50.30'
-average: '7.57105263157894'
+average: '7.24999999999999'
 ---
 
 En este momento está [Nescafé Dolce Gusto Café Espresso Intenso - 16 Cápsulas de Café](https://www.amazon.es/dp/B07CL328SJ/?tag=tolees-21) a 4.2 EUR (original: 8.45 EUR) (50.30 %  de descuento) en el siguiente enlace!
@@ -29,8 +30,8 @@ En este momento está [Nescafé Dolce Gusto Café Espresso Intenso - 16 Cápsula
 
 - Cápsulas 100% reciclables depositándolas en nuestros puntos de recogida Nescafé Dolce Gusto
 - Descubre nuestras más de 30 variedades de cápsulas de café, té, chocolate y especialidades de espresso con leche
-- Cápsulas de café inteligentes; su sellado hermético mantiene el café fresco conservando todos sus aromas
 - Máquina Express: sistema de café profesional de hasta 15 bares de presión
+- Cápsulas de café inteligentes; su sellado hermético mantiene el café fresco conservando todos sus aromas
 - Café gourmet seleccionando los orígenes de mayor calidad con el inconfundible sabor Nescafé Dolce Gusto
 - Las cápsulas Nescafé Dolce Gusto Espresso Intenso tienen un sabor a café intenso y aromático
 

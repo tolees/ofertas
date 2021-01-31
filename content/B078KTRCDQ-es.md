@@ -30,7 +30,7 @@ En este momento está [adidas Courtset  Zapatillas Mujer  Azul  Collegiate Navy/
 
 - 3 bandas cosidas.
 - Cómodo forro textil.
-- Etiqueta de adidas cosida en la lengüeta.
 - Ventilación Climacool.
+- Etiqueta de adidas cosida en la lengüeta.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B078KTRCDQ/?tag=tolees-21)
