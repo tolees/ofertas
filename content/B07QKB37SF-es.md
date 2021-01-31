@@ -28,10 +28,10 @@ Ahora mismo tienes [ROYAL SLEEP Canapé Abatible  135x190  de Gran Capacidad  Ta
 
 🔎:
 
-- Tapa en corrugado ultrarresistente con tejido 3D transpirable color blanco y 100% antideslizante, incluye arquillo que sujeta el colchón en el cabecero
 - Incluye transporte, montaje y retirada de base vieja
-- Producto fabricado en España
+- Tapa en corrugado ultrarresistente con tejido 3D transpirable color blanco y 100% antideslizante, incluye arquillo que sujeta el colchón en el cabecero
 - Sistema de apertura frontal mediante pistón de gas con fácil y rápido acceso al interior del canapé
 - Canapé abatible de madera laminada, con cubeta de 22mm de espesor y 32 cms de altura, con capacidad para 642 litros
+- Producto fabricado en España
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07QKB37SF/?tag=tolees-21)

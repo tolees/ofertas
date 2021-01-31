@@ -29,9 +29,9 @@ Tienes [Rhino - Led Zeppelin - Edición Original Remasterizada  180 Gramos [Vini
 ℹ️:
 
 - Dazed and Confused (2014 Remaster)
-- Babe Im Gonna Leave You (2014 Remaster)
 - Your Time Is Gonna Come (2014 Remaster)
-- You Shook Me (2014 Remaster)
 - Good Times Bad Times (Remaster)
+- You Shook Me (2014 Remaster)
+- Babe Im Gonna Leave You (2014 Remaster)
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00IXHBMLS/?tag=tolees-21)

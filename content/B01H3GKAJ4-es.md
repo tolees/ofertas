@@ -28,10 +28,10 @@ Tienes [SOLEDI Hilo de Punto de Cruz 100 Tipos de Colores Bordados Hilo de Borda
 
 🔎:
 
-- Con Súper Calidad: La textura de la seda de bordado es de poliéster, la sensación de toque es lisa, sedosa y suave, es muy fácil de trabajar con cualquier proyecto.
-- Color Multicolor: Cada tipo contiene el color cálido y el color frío. Siempre hay un color que necesita para bordar o coser
 - DIY SU PROPIA MANERA: Es perfecta elección para el vestido bordado, pantalones vaqueros bordado, sombrero bordado, chaqueta bordada, camisa bordada, crea su estilo especial y único de la moda !
 - Varios Usos: No sólo es para hacer la punto cruz, sino la mano borda, las pulseras de la amistad o cualquier artesanía de DIY
 - 100 madejas del hilo de bordado de punto de cruz en un juego se venderán juntas por color al azar.
+- Color Multicolor: Cada tipo contiene el color cálido y el color frío. Siempre hay un color que necesita para bordar o coser
+- Con Súper Calidad: La textura de la seda de bordado es de poliéster, la sensación de toque es lisa, sedosa y suave, es muy fácil de trabajar con cualquier proyecto.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01H3GKAJ4/?tag=tolees-21)

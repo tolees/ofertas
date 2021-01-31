@@ -28,10 +28,10 @@ Tienes [Trust Urban Setus - Controlador Bluetooth para Aplicaciones de Realidad 
 
 ℹ️:
 
-- Navegue fácilmente por menús, juegos y aplicaciones sin tocar el teléfono
-- Ideal para su uso en combinación con gafas de RV
 - Cobertura Bluetooth inalámbrica de 10 m
-- Tamaño cómodo, pad direccional de 360° y 9 botones
+- Ideal para su uso en combinación con gafas de RV
 - También dispone de función de ratón y funciona como mando a distancia multimedia
+- Tamaño cómodo, pad direccional de 360° y 9 botones
+- Navegue fácilmente por menús, juegos y aplicaciones sin tocar el teléfono
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B073D75RNJ/?tag=tolees-21)

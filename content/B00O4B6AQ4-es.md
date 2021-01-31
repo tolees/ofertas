@@ -28,9 +28,9 @@ Tienes [Stangest Anima Strath Tomillo Alimento Complementario - 100 ml](https://
 
 🔎:
 
-- Alimento complementario
-- Facilita la respiración y mejora la salud
 - Para perros y gatos que sufren algún resfriado o que tienen mocos, estornudos y mucha tos
 - Alivia los síntomas y los hace desaparece
+- Facilita la respiración y mejora la salud
+- Alimento complementario
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00O4B6AQ4/?tag=tolees-21)

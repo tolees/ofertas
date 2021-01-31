@@ -28,8 +28,8 @@ Ahora mismo tienes [Jack & Jones Jjecorp Logo Noos Capucha  Gris  Light Grey Mel
 
 🔎:
 
-- Sweater with logo
 - Talla/Tamaño: Small
+- Sweater with logo
 - Cotton mixture
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07TN3T7JF/?tag=tolees-21)
