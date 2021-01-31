@@ -29,8 +29,8 @@ Tienes [D-Link DGS-108 - Switch de red  8 puertos Gigabit RJ-45  10/100/1000 Mbp
 ℹ️:
 
 - IGMP Snooping: si tienes servicio de TV por Internet, el tráfico de datos por tu red estará bajo control, sin bajadas de rendimiento para el resto de dispositivos
-- Enchufar y listo, no necesita configuración alguna
 - Incorpora la tecnología D-Link Green, hasta un 80% menos de consumo de energía
+- Enchufar y listo, no necesita configuración alguna
 - Jumbo frames: Soporta tramas de datos de 9000 bytes
 - Chasis metálico para una mayor resistencia y una mejor disipación del calor, lo que se traduce en una mayor durabilidad del producto
 
