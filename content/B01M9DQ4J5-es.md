@@ -28,9 +28,9 @@ Tienes [Motorola Lifestyle VerveOnes ME Music Edition  Auriculares de Bluetooth 
 
 ℹ️:
 
+- Tiempo de reproducción de hasta 8 h con funda de carga
 - Agua? Sudor? Gracias a la protección IP57 para los entrenamientos más intensos ya no hay que preocuparse por la humedad.
 - Micrófono integrado para llamadas
-- Tiempo de reproducción de hasta 8 h con funda de carga
 - Compatibles con Siri y Google Now
 - Música sin cables. Y sin cables que molesten, ya no hay excusas. Sonido HD rico y profundo.
 - Puedes hablar con Alexa en tu dispositivo. Con Alexa, puedes reproducir música, escuchar noticias, conocer la predicción del tiempo, controlar dispositivos de Hogar digital y más.

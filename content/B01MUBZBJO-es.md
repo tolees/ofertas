@@ -28,8 +28,8 @@ Está [Canpol Babies CB56159U - Cepillo dientes para dedo con masajeador encías
 
 ℹ️:
 
+- Fabricado de suave silicona.
 - No irrita las encías
 - Incluye una cajita y un soporte para su higiénico almacenamiento
-- Fabricado de suave silicona.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01MUBZBJO/?tag=tolees-21)

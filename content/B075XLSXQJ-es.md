@@ -30,8 +30,8 @@ Tienes [VicTsing Aceites Esenciales para Humidificador 100% Pure Natural Perfume
 
 - ★Puro y natural ★ El set de aceites esenciales VicTsing es natural. VicTsing se dedica inquebrantablemente a los productos de la más alta calidad.
 - ★Kit de aceites esenciales perfectos★ El juego de aceites esenciales VicTsing contiene 10 ml * 6 fragancias siguientes: lavanda, limoncillo, árbol de té, eucalipto, naranja dulce, menta. Tenemos tipos de aceites esenciales para que elija para satisfacer sus diferentes necesidades.
-- ★Tarjeta de información para detalles★ Venga con una tarjeta de información que describe los beneficios de cada aceite esencial. Es conveniente que explore y elija los aceites esenciales de acuerdo con las diferentes necesidades. Con la caja de embalaje de color, esta es una idea de regalo perfecta para su familia o amigos.
-- ★Fragancia Premium ★ Ideal para usar en difusores, vaporizadores o humidificadores, alternativa a velas o incienso. Los aromas pueden refrescar su espacio con un aroma relajante, eliminar los malos olores y crear un ambiente sereno y tranquilo.
 - ★Beneficios múltiples ★ Cada aceite esencial tiene su propio beneficio único, desde la lavanda para aliviar el estrés hasta el eucalipto natural. Ideal para relajarse, refrescar el aire y mucho más. Tenga en cuenta que estos aceites esenciales son solo para uso externo.
+- ★Fragancia Premium ★ Ideal para usar en difusores, vaporizadores o humidificadores, alternativa a velas o incienso. Los aromas pueden refrescar su espacio con un aroma relajante, eliminar los malos olores y crear un ambiente sereno y tranquilo.
+- ★Tarjeta de información para detalles★ Venga con una tarjeta de información que describe los beneficios de cada aceite esencial. Es conveniente que explore y elija los aceites esenciales de acuerdo con las diferentes necesidades. Con la caja de embalaje de color, esta es una idea de regalo perfecta para su familia o amigos.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B075XLSXQJ/?tag=tolees-21)
