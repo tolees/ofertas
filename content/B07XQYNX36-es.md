@@ -28,12 +28,12 @@ Está [Apple Funda Leather Folio  para el iPhone 11 Pro Max  - en Negro](https:/
 
 ℹ️:
 
-- El interior está forrado de suave microfibra para proteger el iPhone y tiene espacio para billetes y tarjetas de crédito.
-- La funda Leather Folio está fabricada en piel europea curtida y teñida con un proceso especial que se adapta perfectamente al contorno de tu iPhone 11 Pro Max, manteniendo su diseño ultrafino.
-- Ábrela para activar el iPhone 11 Pro Max al instante y ciérrala para ponerlo en reposo.
 - Como todas las fundas de Apple, se ha sometido a miles de horas de pruebas a lo largo de todo el proceso de diseño y fabricación.
-- Para el iPhone 11 Pro Max
 - Además, puedes dejar la funda siempre puesta, incluso durante la carga inalámbrica.
+- Ábrela para activar el iPhone 11 Pro Max al instante y ciérrala para ponerlo en reposo.
+- La funda Leather Folio está fabricada en piel europea curtida y teñida con un proceso especial que se adapta perfectamente al contorno de tu iPhone 11 Pro Max, manteniendo su diseño ultrafino.
+- El interior está forrado de suave microfibra para proteger el iPhone y tiene espacio para billetes y tarjetas de crédito.
 - Para que protejas tu iPhone de arañazos y caídas sin renunciar al estilo.
+- Para el iPhone 11 Pro Max
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07XQYNX36/?tag=tolees-21)

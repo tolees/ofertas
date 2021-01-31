@@ -28,9 +28,9 @@ Tienes [iRobot Braava 390t - Robot friegasuelos 2 en 1: Limpieza en seco y en h�
 
 🔎:
 
-- Smart: Cleans multiple rooms using the North Star Navigation System, including under furniture while avoiding stairs and other drop-offs.
-- Simple: Just attach a cloth and press a button to get cleaning.
 - Clean: Dry and damp mops your floors to reveal their natural shine.
+- Smart: Cleans multiple rooms using the North Star Navigation System, including under furniture while avoiding stairs and other drop-offs.
 - Sweeps for up to 210 minutes or mops for up to 150 minutes on a single charge.
+- Simple: Just attach a cloth and press a button to get cleaning.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B016UWXU44/?tag=tolees-21)

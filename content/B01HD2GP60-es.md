@@ -28,8 +28,8 @@ Tienes [SENSODYNE pasta dentífrica encias tubo 75 ml](https://www.amazon.es/dp/
 
 ℹ️:
 
-- Tipo de producto: Dentífrico
-- Género: Unisex Adulto
 - Marca: Sensodyne
+- Género: Unisex Adulto
+- Tipo de producto: Dentífrico
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01HD2GP60/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Miyabi - Cuchillo  Acero inoxidable  Neg al 48.48 % de descuento'
-date: 2021-01-28 19:15:19
+date: 2021-01-31 15:43:39
 image: 'https://m.media-amazon.com/images/I/21WyW6Gnq1L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ comparePrice: 164.0 EUR
 prodname: 'Miyabi - Cuchillo  Acero inoxidable  Negro  Acero inoxidable '
 country: 'es'
 flag: '🇪🇸'
+brand: 'MIYABI'
 buyurl: 'https://www.amazon.es/dp/B001FSKH86/?tag=tolees-21'
 descuento: '48.48'
 average: '84.5'
@@ -27,9 +28,9 @@ Está [Miyabi - Cuchillo  Acero inoxidable  Negro  Acero inoxidable ](https://ww
 
 ℹ️:
 
-- Cyodur: ojas templadas al vacío tratadas criogénicamente a -196°c.
-- Hoja de 65 capas de acero de damasco
 - Mgo de micarta un compuesto multicapa de lino y resinas sintéticas fácil de cuidar
 - Hja con filo simétrico afilado con el sistema japonés honbazuke
+- Hoja de 65 capas de acero de damasco
+- Cyodur: ojas templadas al vacío tratadas criogénicamente a -196°c.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B001FSKH86/?tag=tolees-21)
