@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Gioseppo Aussee  Zapatillas Mujer  Plomo al 53.89 % de rebaja'
-date: 2021-01-29 10:41:26
+date: 2021-01-31 10:17:47
 image: 'https://m.media-amazon.com/images/I/41ekTjYltEL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Gioseppo Aussee  Zapatillas Mujer  Plomo  37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: 'GIOSEPPO'
 buyurl: 'https://www.amazon.es/dp/B084SCJQ4G/?tag=tolees-21'
 descuento: '53.89'
 average: '29.95'

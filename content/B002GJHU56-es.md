@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Edding 3000-001 - Marcador permanente  1 al 51.71 % de descuento'
-date: 2021-01-30 08:01:00
+date: 2021-01-31 09:31:19
 image: 'https://m.media-amazon.com/images/I/51Ui6fSwcKL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ Está [Edding 3000-001 - Marcador permanente  10 unidades  color negro](https://
 
 ℹ️:
 
-- Marcar y rotular metal, vidrio y plástico
-- Tinta permanente casi sin olor
-- Marcador permanente con punta redonda
-- Grosor de trazo de 1.5 hasta 3 mm
 - Resistente al agua, al roce y a la acción de la luz
+- Marcar y rotular metal, vidrio y plástico
 - Cuerpo de aluminio
+- Grosor de trazo de 1.5 hasta 3 mm
+- Marcador permanente con punta redonda
+- Tinta permanente casi sin olor
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B002GJHU56/?tag=tolees-21)

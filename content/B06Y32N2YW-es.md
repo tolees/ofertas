@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'New Balance Hombre 574v2-core Trainers Z al 35.00 % de descuento'
-date: 2021-01-29 10:41:22
+date: 2021-01-31 10:23:18
 image: 'https://m.media-amazon.com/images/I/41eospvC3aL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,9 +16,10 @@ comparePrice: 90.0 EUR
 prodname: 'New Balance Hombre 574v2-core Trainers Zapatillas  Gris  Grey   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: 'New Balance'
 buyurl: 'https://www.amazon.es/dp/B06Y32N2YW/?tag=tolees-21'
 descuento: '35.00'
-average: '42.8975'
+average: '44.6311111111111'
 ---
 
 Ahora mismo tienes [New Balance Hombre 574v2-core Trainers Zapatillas  Gris  Grey   37 EU](https://www.amazon.es/dp/B06Y32N2YW/?tag=tolees-21) a 58.5 EUR (original: 90.0 EUR) (35.00 %  de descuento) en el siguiente enlace!
@@ -27,7 +28,7 @@ Ahora mismo tienes [New Balance Hombre 574v2-core Trainers Zapatillas  Gris  Gre
 
 🔎:
 
-- Material exterior: Cuero
 - Revestimiento: Tela
+- Material exterior: Cuero
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B06Y32N2YW/?tag=tolees-21)

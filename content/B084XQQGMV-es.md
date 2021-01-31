@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ymea Equilibrio y Vitalidad | Tratamient al 44.31 % de rebaja'
-date: 2021-01-28 08:43:52
+date: 2021-01-31 10:51:56
 image: 'https://m.media-amazon.com/images/I/51KKlEkEBML._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Ymea Equilibrio y Vitalidad | Tratamiento de la Menopausia |Control de Sofocos y Ayuda a Mantener la Energía | Apto para Uso Prolongado | Sin Estrogenos  Soja o Consevantes| Tratamiento 1 mes'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Ymea'
 buyurl: 'https://www.amazon.es/dp/B084XQQGMV/?tag=tolees-21'
 descuento: '44.31'
 average: '16.65'
@@ -27,10 +28,10 @@ Tienes [Ymea Equilibrio y Vitalidad | Tratamiento de la Menopausia |Control de S
 
 🔎:
 
-- Contiene una exclusiva mezcla de extractos de orifen natural, vitaminas y minerales
+- NO CONTIENE: estrógenos, soja o conservantes
 - Apto para un uso prolongado
 - Energía - Favorece el mantenimiento de la energía, ayuda a a reducir la fatiga y contribuye al mantenimiento del rendimiento intelectual
 - Control de los Sofocos - Ayuda a reducir los sofocos, los sudores nocturnos y los cambios de humor
-- NO CONTIENE: estrógenos, soja o conservantes
+- Contiene una exclusiva mezcla de extractos de orifen natural, vitaminas y minerales
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B084XQQGMV/?tag=tolees-21)
