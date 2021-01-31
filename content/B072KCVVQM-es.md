@@ -28,10 +28,10 @@ Ahora mismo tienes [Disney Traditions  Figura de Peter Pan y Wendy "Un Beso Ines
 
 🔎:
 
-- Diseñada por Jim Shore
-- Está destinada para adultos, no es un juguete
-- Figurilla decorativa de la colección Disney Traditions
 - Altura: 19.0 cm
 - Arte popular inspirado con colores vivos
+- Figurilla decorativa de la colección Disney Traditions
+- Está destinada para adultos, no es un juguete
+- Diseñada por Jim Shore
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B072KCVVQM/?tag=tolees-21)

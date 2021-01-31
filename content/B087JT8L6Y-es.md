@@ -28,9 +28,9 @@ Está [VOLUEX - Manguera de cabezal de ducha  de acero inoxidable  antitorsión 
 
 ℹ️:
 
-- QUALITY MATERIALS - Made of chrome plated stainless steel, this corrosion resistant shower hose is durable and a universal accessory for all showers; durability and corrosion resistance.
-- LIGHTWEIGHT AND FLEXIBLE: The shower hose has two brass swivel ends, can be tightly attached to fixed handles and shower heads to prevent leakage; the shower hose is lightweight and very flexible.
-- EASY INSTALLATION: Brass connector is universal, G1/2 standard, which is compatible with most standard showers, with 4 washers and Teflon, installation can be easily completed without tools.
 - Anti-twisting: this hose is extremely flexible and easy to maneuver, has good retraction and stretch ability, no twisting.
+- LIGHTWEIGHT AND FLEXIBLE: The shower hose has two brass swivel ends, can be tightly attached to fixed handles and shower heads to prevent leakage; the shower hose is lightweight and very flexible.
+- QUALITY MATERIALS - Made of chrome plated stainless steel, this corrosion resistant shower hose is durable and a universal accessory for all showers; durability and corrosion resistance.
+- EASY INSTALLATION: Brass connector is universal, G1/2 standard, which is compatible with most standard showers, with 4 washers and Teflon, installation can be easily completed without tools.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B087JT8L6Y/?tag=tolees-21)
