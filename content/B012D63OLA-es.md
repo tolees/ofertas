@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'M3 MEDIATRES ESTUDIO - Gantz: la Saga Co con un 70.19 % de descuento'
-date: 2021-01-30 07:29:44
+date: 2021-01-31 07:42:59
 image: 'https://m.media-amazon.com/images/I/51XaES7+1+L._SL200_.jpg'
 comments: true
 category: ofertas
