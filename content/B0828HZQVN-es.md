@@ -28,8 +28,8 @@ En este momento está [eXtremeRate placa trasera para NS Switch Console  NS Joyc
 
 🔎:
 
-- Diseño personalizado para Nintendo Switch Lite Console
-- Delgado y resistente, protege de pequeños arañazos. Instalación fácil, sin burbujas y extracción sin goo.
 - Compromiso de calidad: estos adhesivos para la piel no pueden causar daños en la superficie o pelar.
+- Delgado y resistente, protege de pequeños arañazos. Instalación fácil, sin burbujas y extracción sin goo.
+- Diseño personalizado para Nintendo Switch Lite Console
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0828HZQVN/?tag=tolees-21)

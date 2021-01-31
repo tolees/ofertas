@@ -28,9 +28,9 @@ Tienes [Tommy Hilfiger Jenna Shirt LS Camisa Regular fit  Blanco  Classic White 
 
 🔎:
 
-- Color: WHITE
-- Estación: Otoño/Invierno
-- Designer: TOMMY HILFIGER
 - Artículo: 1M87647512 JENNA
+- Color: WHITE
+- Designer: TOMMY HILFIGER
+- Estación: Otoño/Invierno
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00OBIC9AG/?tag=tolees-21)
