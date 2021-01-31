@@ -28,8 +28,8 @@ En este momento está [adidas Adilette Aqua  Slide Sandal Hombre  Active Red/Foo
 
 🔎:
 
-- Diseño del Slip-On
 - Corte regular
+- Diseño del Slip-On
 - Cinturón de EVA preformado de una pieza
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07K2LDQJ8/?tag=tolees-21)
