@@ -28,10 +28,10 @@ Ahora mismo tienes [My Arcade - Consola Micro Player Retro Galaga](https://www.a
 
 🔎:
 
+- Features artwork inspired by the original Galaga arcade cabinet
+- Built-in speaker with volume control
 - Removable joystick
 - 3.5mm headphone jack to connect your headphones
 - Full color 2.75" screen
-- Features artwork inspired by the original Galaga arcade cabinet
-- Built-in speaker with volume control
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07CRTBBHG/?tag=tolees-21)

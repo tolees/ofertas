@@ -1,34 +1,36 @@
 ---
 layout: post
-title: 'WD Elements Desktop - Disco duro externo al 37.12 % de rebaja'
-date: 2021-01-20 17:41:57
+title: 'Western Digital - WD Elements Desktop -  al 31.60 % de rebaja'
+date: 2021-01-31 00:16:19
 image: 'https://m.media-amazon.com/images/I/31nTfBPU5jL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G364YHX-es WD Elements Desktop - Disco duro externo de sobremesa de...'
+slug: 'B07G364YHX-es Western Digital - WD Elements Desktop - Disco duro externo...'
+sku: 'B07G364YHX-es'
 tags: [  ]
-actualPrice: 179.24 EUR
+actualPrice: 195.0 EUR
 currency: EUR
-price: 179.24
+price: 195.0
 comparePrice: 285.07 EUR
-prodname: 'WD Elements Desktop - Disco duro externo de sobremesa de 10 TB  color negro'
+prodname: 'Western Digital - WD Elements Desktop - Disco duro externo de sobremesa de 10 TB  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Western Digital'
 buyurl: 'https://www.amazon.es/dp/B07G364YHX/?tag=tolees-21'
-descuento: '37.12'
-average: '192.99843750000005'
+descuento: '31.60'
+average: '193.059090909091'
 ---
 
-Tienes [WD Elements Desktop - Disco duro externo de sobremesa de 10 TB  color negro](https://www.amazon.es/dp/B07G364YHX/?tag=tolees-21) con precio final de  179.24 EUR (original: 285.07 EUR) (37.12 %  de rebaja) aqui!
+Tienes [Western Digital - WD Elements Desktop - Disco duro externo de sobremesa de 10 TB  color negro](https://www.amazon.es/dp/B07G364YHX/?tag=tolees-21) con precio final de  195.0 EUR (original: 285.07 EUR) (31.60 %  de rebaja) aqui!
 
-[![WD Elements Desktop - Disco duro externo](https://m.media-amazon.com/images/I/31nTfBPU5jL._SL200_.jpg)](https://www.amazon.es/dp/B07G364YHX/?tag=tolees-21)
+[![Western Digital - WD Elements Desktop - ](https://m.media-amazon.com/images/I/31nTfBPU5jL._SL200_.jpg)](https://www.amazon.es/dp/B07G364YHX/?tag=tolees-21)
 
 🔎:
 
-- negro
 - 10 TB
-- modelo: WDBWLG0100HBK-EESN
+- negro
 - dimensiones: 13,5 x 4,8 x 16,6 cm
+- modelo: WDBWLG0100HBK-EESN
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07G364YHX/?tag=tolees-21)

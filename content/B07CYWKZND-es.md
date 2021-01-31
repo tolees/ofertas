@@ -28,10 +28,10 @@ Ahora mismo tienes [Bosch Professional GSB 24-2 - Taladro percutor  1100 W  2 ve
 
 🔎:
 
-- Incluye: GSB 24-2, portabrocas de sujeción rápida, empuñadura adicional, tope de profundidad, maletín L-Case
-- Potente: Extremadamente eficaz gracias al potente motor de 1100 W y par elevado
-- Seguro: Mayor protección para el usuario gracias a la función KickBack Control integrada, un sensor que apaga el motor de inmediato si se produce un giro repentino del martillo perforador
 - Uso versátil: Apto para taladrado con percusión en hormigón y ladrillo, para taladrado en metal, madera plástico y azulejos, y para su uso como batidor y mezclador en soportes de taladro
 - Robusto: Gracias a la carcasa metálica del engranaje
+- Seguro: Mayor protección para el usuario gracias a la función KickBack Control integrada, un sensor que apaga el motor de inmediato si se produce un giro repentino del martillo perforador
+- Incluye: GSB 24-2, portabrocas de sujeción rápida, empuñadura adicional, tope de profundidad, maletín L-Case
+- Potente: Extremadamente eficaz gracias al potente motor de 1100 W y par elevado
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07CYWKZND/?tag=tolees-21)
