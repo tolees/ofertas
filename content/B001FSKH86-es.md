@@ -28,9 +28,9 @@ Está [Miyabi - Cuchillo  Acero inoxidable  Negro  Acero inoxidable ](https://ww
 
 ℹ️:
 
-- Mgo de micarta un compuesto multicapa de lino y resinas sintéticas fácil de cuidar
 - Hja con filo simétrico afilado con el sistema japonés honbazuke
-- Hoja de 65 capas de acero de damasco
 - Cyodur: ojas templadas al vacío tratadas criogénicamente a -196°c.
+- Mgo de micarta un compuesto multicapa de lino y resinas sintéticas fácil de cuidar
+- Hoja de 65 capas de acero de damasco
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B001FSKH86/?tag=tolees-21)

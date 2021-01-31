@@ -28,10 +28,10 @@ En este momento está [Superga 2750-cot3strapu  Zapatillas de Gimnasia Unisex Ad
 
 🔎:
 
-- Fotwear.
-- Unisex.
 - Le Superga
+- Unisex.
 - Sneaker.
+- Fotwear.
 - Around The World.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07TZMVK3X/?tag=tolees-21)

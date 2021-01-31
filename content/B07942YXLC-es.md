@@ -28,10 +28,10 @@ Ahora mismo tienes [Seiko SNE471P1 - Reloj analógico de energía solar para hom
 
 🔎:
 
+- WR 100mt
+- Analógico en Acero inoxidable para Hombre
 - Solar
 - Negro y Metálico
-- WR 100mt
 - Casual
-- Analógico en Acero inoxidable para Hombre
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07942YXLC/?tag=tolees-21)
