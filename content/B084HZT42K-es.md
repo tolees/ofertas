@@ -28,8 +28,8 @@ Ahora mismo tienes [Funko- Mystery Minis : Five Nights At Freddy S Pizza Plex FN
 
 🔎:
 
-- Five nights at freddys pizza plex mistery minis incluyen una gran cantidad de tus personajes favoritos, y se pueden adquirir a unidad en pequeñas cajas misteriosas
-- Con 12 personajes para coleccionar, estas minifiguras son un regalo perfecto para tu bolsillo. 1 caja con personaje al azar
 - Funko pop. El juguete del año 2018
+- Con 12 personajes para coleccionar, estas minifiguras son un regalo perfecto para tu bolsillo. 1 caja con personaje al azar
+- Five nights at freddys pizza plex mistery minis incluyen una gran cantidad de tus personajes favoritos, y se pueden adquirir a unidad en pequeñas cajas misteriosas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B084HZT42K/?tag=tolees-21)

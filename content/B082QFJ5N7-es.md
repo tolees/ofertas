@@ -28,10 +28,10 @@ Ahora mismo tienes [adidas Duramo SL  Zapatillas de Running Hombre  Core Black F
 
 🔎:
 
-- Horma clásica
-- Parte superior de malla
 - Zapatilla de running versátil
-- Diseño ligero
 - Cierre de cordones
+- Parte superior de malla
+- Horma clásica
+- Diseño ligero
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B082QFJ5N7/?tag=tolees-21)
