@@ -29,7 +29,7 @@ Tienes [Transcend USB JetFlash 790 - 32GB  Memoria Flash USB 3.1](https://www.am
 ℹ️:
 
 - Diseño sin tapa con conector USB deslizable
-- Software de gestión de datos Transcend Elite
 - Interfaz USB 3.1 Gen 1
+- Software de gestión de datos Transcend Elite
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07MJBR35G/?tag=tolees-21)

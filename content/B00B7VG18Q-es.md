@@ -28,12 +28,12 @@ En este momento está [Biagiotti Biagiotti Venezia Edt 25 Ml Vapo - 25 ml](https
 
 🔎:
 
-- Tipo de piel: Normal
-- Nombre de la fragancia: Oriental
-- Venezia edt (0737052550480)
-- Brand: Biagiotti
 - Mujeres laura biagiotti
 - Agua de colonia para mujeres perfumes y fragancias mujer
+- Nombre de la fragancia: Oriental
+- Tipo de piel: Normal
+- Venezia edt (0737052550480)
 - Para el cabello: Normal
+- Brand: Biagiotti
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00B7VG18Q/?tag=tolees-21)

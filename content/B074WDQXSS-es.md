@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA Crew Stripe 3p deporte  Gris  Anthr al 33.37 % de rebaja'
-date: 2021-01-26 09:43:28
+date: 2021-01-31 13:31:11
 image: 'https://m.media-amazon.com/images/I/51pmfUU3DiL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'PUMA Crew Stripe 3p deporte  Gris  Anthracite/Grey 207   39/42  Talla del fabricante: 039   Pack de 3  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: 'PUMA'
 buyurl: 'https://www.amazon.es/dp/B074WDQXSS/?tag=tolees-21'
 descuento: '33.37'
 average: '5.99'

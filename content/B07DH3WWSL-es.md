@@ -28,10 +28,10 @@ En este momento está [Nero Giardini - NeroGiardini A806523D Botines Mujer De Pi
 
 🔎:
 
-- Ajuste: Cómodo
-- Tacón: 2.5 cm
-- Calidad: Made in Italy
 - Material Externo: Piel
+- Ajuste: Cómodo
 - Material Interno: piel
+- Calidad: Made in Italy
+- Tacón: 2.5 cm
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07DH3WWSL/?tag=tolees-21)

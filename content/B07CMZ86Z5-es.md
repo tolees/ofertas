@@ -28,8 +28,8 @@ Tienes [Energy Sistem Music Box 5+  Bluetooth  10W  Manos Libres  Entrada de Aud
 
 ℹ️:
 
-- - 10W: Altavoz de 10 W de potencia con doble membrana que proporciona un realce de los bajos de forma contundente.
 - - MicroSD MP3 & RADIO FM & AUDIO-IN: cuenta con radio FM, reproductor de tarjetas MicroSD MP3 para escuchar música desde tarjetas de hasta 128 GB y entrada Audio-In de 3,5 mm
 - - BLUETOOTH 4.1 & HANDS FREE: Altavoz portátil con tecnología Bluetooth 4.1 y manos libres para responder las llamadas desde el propio altavoz con sólo pulsar un botón.
+- - 10W: Altavoz de 10 W de potencia con doble membrana que proporciona un realce de los bajos de forma contundente.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07CMZ86Z5/?tag=tolees-21)

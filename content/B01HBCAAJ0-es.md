@@ -29,8 +29,8 @@ Tienes [Ludonova-Flick Em Up Tierra de Forajidos  color  LDNV90001    color/mode
 ℹ️:
 
 - 10 escenarios diferentes donde se sucederán atracos, secuestros, duelos y otros muchos retos a los que enfrentarse, este inmersivo juego pondrá toda la acción de los Western en la punta de tu dedo
-- Flick ´em up! un sorprendente juego de habilidad, de 2 a 10 jugadores, donde las figuras en 3D de vaqueros, cactus, barriles, etc... convertirán tu mesa en un turbulento y despiadado lejano oeste
-- Flick ´em up! Tierra de Forajidos te brindará un fascinante viaje a través del salvaje oeste que no olvidarás fácilmente
 - Idioma principal español publicado, inglés
+- Flick ´em up! Tierra de Forajidos te brindará un fascinante viaje a través del salvaje oeste que no olvidarás fácilmente
+- Flick ´em up! un sorprendente juego de habilidad, de 2 a 10 jugadores, donde las figuras en 3D de vaqueros, cactus, barriles, etc... convertirán tu mesa en un turbulento y despiadado lejano oeste
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01HBCAAJ0/?tag=tolees-21)
