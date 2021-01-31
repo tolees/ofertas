@@ -28,9 +28,9 @@ Ahora mismo tienes [Museum Reserva Tinto Cigales - 750 ml  WWO28052611 ](https:/
 
 🔎:
 
-- Viñedos situados en terrenos cascajosos en la parte alta de la Ribera del Pisuerga. Perfectamente expuestas al sol, y vendimiadas en cajas en su momento óptimo.
 - Color picota de capa alta
-- Capacidad: 75CL
 - Graduación: 14.5º
+- Viñedos situados en terrenos cascajosos en la parte alta de la Ribera del Pisuerga. Perfectamente expuestas al sol, y vendimiadas en cajas en su momento óptimo.
+- Capacidad: 75CL
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01K7IMLVA/?tag=tolees-21)

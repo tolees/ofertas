@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'New Balance 500   Zapatillas para Mujer  al 49.04 % de descuento'
-date: 2021-01-30 11:31:40
+date: 2021-01-31 12:07:27
 image: 'https://m.media-amazon.com/images/I/41t1EETxlML._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'New Balance'
 buyurl: 'https://www.amazon.es/dp/B081MF2XZY/?tag=tolees-21'
 descuento: '49.04'
-average: '39.565'
+average: '38.2666666666667'
 ---
 
 Ahora mismo tienes [New Balance 500   Zapatillas para Mujer  Negro  39.5 EU](https://www.amazon.es/dp/B081MF2XZY/?tag=tolees-21) a 35.67 EUR (original: 70.0 EUR) (49.04 %  de descuento) en el siguiente enlace!

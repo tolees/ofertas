@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 32.54 % en Transcend USB JetFlash 790 - 32GB  Memor'
-date: 2021-01-28 18:19:56
+date: 2021-01-31 12:40:35
 image: 'https://m.media-amazon.com/images/I/31tEThjvB0L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ comparePrice: 8.39 EUR
 prodname: 'Transcend USB JetFlash 790 - 32GB  Memoria Flash USB 3.1'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Transcend'
 buyurl: 'https://www.amazon.es/dp/B07MJBR35G/?tag=tolees-21'
 descuento: '32.54'
 average: '5.66'
@@ -27,8 +28,8 @@ Tienes [Transcend USB JetFlash 790 - 32GB  Memoria Flash USB 3.1](https://www.am
 
 ℹ️:
 
+- Diseño sin tapa con conector USB deslizable
 - Software de gestión de datos Transcend Elite
 - Interfaz USB 3.1 Gen 1
-- Diseño sin tapa con conector USB deslizable
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07MJBR35G/?tag=tolees-21)

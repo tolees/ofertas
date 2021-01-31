@@ -29,9 +29,9 @@ Tienes [Ymea Equilibrio y Vitalidad | Tratamiento de la Menopausia |Control de S
 🔎:
 
 - NO CONTIENE: estrógenos, soja o conservantes
-- Apto para un uso prolongado
-- Energía - Favorece el mantenimiento de la energía, ayuda a a reducir la fatiga y contribuye al mantenimiento del rendimiento intelectual
 - Control de los Sofocos - Ayuda a reducir los sofocos, los sudores nocturnos y los cambios de humor
+- Energía - Favorece el mantenimiento de la energía, ayuda a a reducir la fatiga y contribuye al mantenimiento del rendimiento intelectual
+- Apto para un uso prolongado
 - Contiene una exclusiva mezcla de extractos de orifen natural, vitaminas y minerales
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B084XQQGMV/?tag=tolees-21)

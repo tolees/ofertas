@@ -29,9 +29,9 @@ Está [SHEGRACE Par de Anillos de Pareja en Plata de Ley 925 con Grabado Esmeril
 ℹ️:
 
 - Fashion 925 Sterling Silver Couple Rings, with Frosted and AAA Zircon, Platinum
-- Please note that our product images are close to the real product, if any difference, may be caused by the the setting of your monitor color.Sterling silver is a soft material,so it is not very rigidity and easy to bend out of shape if not very careful.
-- Size: Hers:about 17mm inner diameter(Adjustable), 3mm wide; His:about 19mm in diameter(Adjustable), 4mm wide.
-- The silver is of strong corrosion resistance with stable chemical properties.But if the silver was exposed to the air and contacted with the natural medium such as sulfur、nitric acid、oxide to much, it will turn black in the surface of the silver. Please avoid the Springs,seawater and take off the silver jewelery when you wash or swim. Use the soft cloth to wipe the silver jewelery befor you put it away.
 - Perfect gift for lover, girlfriend, fiance , wife, mother, couple, Valentine or just a friend ,etc. It expresses your love to them.All items are delivered gift wrapped in original SHEGRACE gift box
+- The silver is of strong corrosion resistance with stable chemical properties.But if the silver was exposed to the air and contacted with the natural medium such as sulfur、nitric acid、oxide to much, it will turn black in the surface of the silver. Please avoid the Springs,seawater and take off the silver jewelery when you wash or swim. Use the soft cloth to wipe the silver jewelery befor you put it away.
+- Size: Hers:about 17mm inner diameter(Adjustable), 3mm wide; His:about 19mm in diameter(Adjustable), 4mm wide.
+- Please note that our product images are close to the real product, if any difference, may be caused by the the setting of your monitor color.Sterling silver is a soft material,so it is not very rigidity and easy to bend out of shape if not very careful.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01HEHQYSS/?tag=tolees-21)

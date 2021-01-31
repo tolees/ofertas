@@ -28,10 +28,10 @@ Está [INPHIC - V610 Keyboard](https://www.amazon.es/dp/B08GKN2V1V/?tag=tolees-2
 
 ℹ️:
 
-- 【100% Satisfacción del cliente】Para todos los productos Inphic, disfrutarás de una garantía de 12 meses y de un reembolso de 45 días. Si tiene alguna pregunta sobre nuestro producto, por favor póngase en contacto con nosotros para obtener un servicio postventa. Nota: este teclado está en disposición italiana (IT).
 - 【Soporte estable integrado】El teclado para juegos proporciona un soporte estable para las personas que desean ajustar ligeramente la altura del teclado cuando juegan o escriben.
 - 【Panel de gran sensación】El panel del teclado ha sido fabricado con un excelente material ABS, con acabado mate, lo suficientemente resistente como para protegerlo de cero. El diseño ergonómico reduce la fatiga de la mano.
-- 【Plug & Play】 Con cable USB de 1,5 m, ampliamente compatible con Windows / PC / Laptop / Desktop / Surface / Chromebook
 - 【17 teclas anti-ghosting】 Teclado de tamaño estándar, permite que múltiples teclas funcionen simultáneamente en tiempos de respuesta rápidos sin conflictos que satisfacen tus necesidades en juegos intensos o una escritura rápida, te ofrecen una buena experiencia de juego o escritura.
+- 【Plug & Play】 Con cable USB de 1,5 m, ampliamente compatible con Windows / PC / Laptop / Desktop / Surface / Chromebook
+- 【100% Satisfacción del cliente】Para todos los productos Inphic, disfrutarás de una garantía de 12 meses y de un reembolso de 45 días. Si tiene alguna pregunta sobre nuestro producto, por favor póngase en contacto con nosotros para obtener un servicio postventa. Nota: este teclado está en disposición italiana (IT).
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08GKN2V1V/?tag=tolees-21)

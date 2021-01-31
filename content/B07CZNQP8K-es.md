@@ -29,8 +29,8 @@ En este momento está [Tesura Games - APEX Construct](https://www.amazon.es/dp/B
 🔎:
 
 - Domina una fluida combinación de escudo y arco - Usa un sistema de armamento flexible con una precisión sin igual para enfrentarte a una amplia variedad de formas de vida artificiales creadas por la misteriosa entidad llamada Mothr
-- Un mundo al que querrás volver - Vuelve a jugar cualquier misión desde tu base personalizable para descubrir caminos ocultos, gasta los recursos que consigas para mejorar tus armas y tu equipo, y comparte tus hazañas para que otros aventureros las vean
-- Explora un mundo devastado - Adéntrate en un hermoso y peligroso entorno postapocalíptico en el que dos poderosas inteligencias artificiales se enfrentan en un conflicto interminable. Como el único humano con vida, descubrirás numerosas zonas secretas y resolverás fascinantes enigmas hasta descubrir qué fue lo que provocó la extinción de casi toda la vida orgánica
 - Apex Construct te permite definir tu propia experiencia juego óptima: las opciones de movimiento van desde teletransporte constante hasta movimiento directo incluyendo giros fluidos al usar controles de movimiento
+- Explora un mundo devastado - Adéntrate en un hermoso y peligroso entorno postapocalíptico en el que dos poderosas inteligencias artificiales se enfrentan en un conflicto interminable. Como el único humano con vida, descubrirás numerosas zonas secretas y resolverás fascinantes enigmas hasta descubrir qué fue lo que provocó la extinción de casi toda la vida orgánica
+- Un mundo al que querrás volver - Vuelve a jugar cualquier misión desde tu base personalizable para descubrir caminos ocultos, gasta los recursos que consigas para mejorar tus armas y tu equipo, y comparte tus hazañas para que otros aventureros las vean
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07CZNQP8K/?tag=tolees-21)

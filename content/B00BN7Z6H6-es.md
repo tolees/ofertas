@@ -28,8 +28,8 @@ Está [Bella Aurora Doble Fuerza Crema Anti-Manchas  Tratamiento Aclarante e Ilu
 
 ℹ️:
 
-- Tipo de producto - Crema facial antimanchas
-- Marca - Bella Aurora
 - Género - Unisex
+- Marca - Bella Aurora
+- Tipo de producto - Crema facial antimanchas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00BN7Z6H6/?tag=tolees-21)

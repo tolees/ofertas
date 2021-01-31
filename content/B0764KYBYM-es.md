@@ -30,7 +30,7 @@ Tienes [Funko Pop!-Teen Titans Go: Mammoth  20391 ](https://www.amazon.es/dp/B07
 
 - El artículo es adecuado para todos los fanáticos de Teen Titans Go
 - Recomendado para niños a partir de 3 años
-- Figura de colección de la marca Funko
 - El producto se envía en una caja ilustrada con ventana
+- Figura de colección de la marca Funko
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0764KYBYM/?tag=tolees-21)

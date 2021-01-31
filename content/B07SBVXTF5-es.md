@@ -28,10 +28,10 @@ Tienes [PUMA R78  Zapatillas Unisex Adulto  Negro Black White  41 EU](https://ww
 
 ℹ️:
 
-- suela de goma para un mejor agarre
-- La entresuela de EVA para comodidad amortiguada
-- lengüeta del talón
 - cierre de cordones
+- suela de goma para un mejor agarre
 - Malla, nylon ripstop y ante sintético superior
+- lengüeta del talón
+- La entresuela de EVA para comodidad amortiguada
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07SBVXTF5/?tag=tolees-21)

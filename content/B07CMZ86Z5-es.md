@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.08 % en Energy Sistem Music Box 5+  Bluetooth  1'
-date: 2021-01-27 22:24:01
+date: 2021-01-31 12:04:00
 image: 'https://m.media-amazon.com/images/I/41eEnkh5pyL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,9 +16,10 @@ comparePrice: 49.9 EUR
 prodname: 'Energy Sistem Music Box 5+  Bluetooth  10W  Manos Libres  Entrada de Audio y batería Recargable '
 country: 'es'
 flag: '🇪🇸'
+brand: 'Energy Sistem'
 buyurl: 'https://www.amazon.es/dp/B07CMZ86Z5/?tag=tolees-21'
 descuento: '40.08'
-average: '32.93'
+average: '31.718'
 ---
 
 Tienes [Energy Sistem Music Box 5+  Bluetooth  10W  Manos Libres  Entrada de Audio y batería Recargable ](https://www.amazon.es/dp/B07CMZ86Z5/?tag=tolees-21) con un 40.08 % de descuento con precio de oferta de 29.9 EUR (original: 49.9 EUR) en el siguiente enlace!

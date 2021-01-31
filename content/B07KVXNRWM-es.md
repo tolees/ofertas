@@ -28,10 +28,10 @@ Ahora mismo tienes [Polti La Vaporella XT90C Centro de Planchado a Vapor con Cal
 
 🔎:
 
-- Innovadora caldera con no calc long life boiler tecnology garantizada durante 10 años*:previene los efectos negativos de la cal para una vida más larga sin mantenimiento
-- 3 programas de planchado: eco para ahorrar energía y agua sin renunciar a las prestaciones, universal para planchar todo tipo de tejidos y turbo para las arrugas más resistentes
-- Centro de planchado a vapor con caldera y autonomía ilimitada hasta 7 bar y bomba de 15 bar, made in italy, calentamiento rápido de 2 minutos, depósito de 1,4 l y auto apagado después de 10 minutos
 - Exclusiva suela 360° fluid curve technology: resultados perfectos, optimo deslizamiento, distribución homogénea del vapor, forma redondeada para un planchado multidireccional que supera todos los obstáculos
 - Función steam pulse 450g: vapor intermitente para un planchado más sencillo y rápido. óptimo para planchar en vertical
+- Innovadora caldera con no calc long life boiler tecnology garantizada durante 10 años*:previene los efectos negativos de la cal para una vida más larga sin mantenimiento
+- Centro de planchado a vapor con caldera y autonomía ilimitada hasta 7 bar y bomba de 15 bar, made in italy, calentamiento rápido de 2 minutos, depósito de 1,4 l y auto apagado después de 10 minutos
+- 3 programas de planchado: eco para ahorrar energía y agua sin renunciar a las prestaciones, universal para planchar todo tipo de tejidos y turbo para las arrugas más resistentes
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07KVXNRWM/?tag=tolees-21)
