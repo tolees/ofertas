@@ -28,10 +28,10 @@ En este momento está [Quiksilver Distant Fortune - Camiseta para Hombre Screen 
 
 🔎:
 
-- Camiseta Para hombre
-- Cuello redondo y serigrafía en parte delantera
-- Clásico
 - Corte normal
+- Clásico
+- Cuello redondo y serigrafía en parte delantera
 - Cómodo
+- Camiseta Para hombre
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0825NCPW3/?tag=tolees-21)

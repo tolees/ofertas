@@ -28,10 +28,10 @@ En este momento está [BRA Efficient orange Sartén honda 28 cm  aluminio fundid
 
 🔎:
 
-- Fondo full induction compatible con todas las fuentes de calor incluida la inducción
-- Revestimiento antiadherente platinum plus de alta calidad y muy duradero; 100% libre de pfoa
-- Apta para el lavavajillas; diámetro base: 17.8 cm; altura: 7.6 cm
-- Mango ergonómico en color naranja con logo de bra
 - Fabricada en aluminio fundido extremadamente resistente a la deformación (6 mm de espesor en la base)
+- Fondo full induction compatible con todas las fuentes de calor incluida la inducción
+- Apta para el lavavajillas; diámetro base: 17.8 cm; altura: 7.6 cm
+- Revestimiento antiadherente platinum plus de alta calidad y muy duradero; 100% libre de pfoa
+- Mango ergonómico en color naranja con logo de bra
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07D7T1M3T/?tag=tolees-21)

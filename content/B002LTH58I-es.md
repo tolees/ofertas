@@ -28,9 +28,9 @@ En este momento está [Superga 2750 COTU Classic Sneakers  Zapatillas Unisex Adu
 
 🔎:
 
+- Cierre: Cordones
 - Material de la suela: Goma
 - Material exterior: Algodón
-- Cierre: Cordones
 - Revestimiento: Tela
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B002LTH58I/?tag=tolees-21)
