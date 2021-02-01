@@ -29,9 +29,9 @@ Tienes [ELEGOO Conjunto Medio de Iniciación Compatible con Arduino IDE con Tuto
 🔎:
 
 - El modulo LCD1602 incluye conector (no será necesario que lo suelde).
-- La manera mas económica de iniciarse en la programaciónpara principiantes.
-- Tutorial español disponible--Incluye una guía en PDF (con mas de 22 lecciones) una lista clara en un bonito empaquetado. También puede descargar los mismos tutoriales en línea desde nuestro sitio web.
 - La placa controladora ELEGOO UNO R3 es de alta calidad y compatible con Arduino IDE.
 - Este conjunto a sido actualizado con un modulo de fuente de alimentación a demás de con una batería de 9V.
+- Tutorial español disponible--Incluye una guía en PDF (con mas de 22 lecciones) una lista clara en un bonito empaquetado. También puede descargar los mismos tutoriales en línea desde nuestro sitio web.
+- La manera mas económica de iniciarse en la programaciónpara principiantes.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01MXGST4I/?tag=tolees-21)

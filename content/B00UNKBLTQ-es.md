@@ -28,9 +28,9 @@ Tienes [Lotus Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxida
 
 ℹ️:
 
-- Caja redonda de acero inoxidable chapada en azul.
 - Cristal mineral endurecido.
 - Pulsera de acero inoxidable con cierre de botón.
+- Caja redonda de acero inoxidable chapada en azul.
 - Resistencia al agua hasta 50 metros.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00UNKBLTQ/?tag=tolees-21)
