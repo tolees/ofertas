@@ -28,9 +28,9 @@ Ahora mismo tienes [PWAY HDMI KVM Switch 4 Puertos Compatible con resolución 4K
 
 🔎:
 
-- 【Conmutador KVM de 4 puertos】 A través de este dispositivo, se puede usar un conjunto de teclado y mouse para controlar 4 computadoras y mostrar imágenes en el mismo monitor.
-- 【EDID automático】 El dispositivo lee automáticamente los parámetros EDID de la pantalla y se adapta a la resolución de la pantalla. Hacer el equipo más compatible
 - 【Cambio de teclas de acceso rápido】 Admite dos métodos de cambio de teclas de acceso rápido .(Scroll Lock+Scroll Lock+1 or 2 or 3 or 4)(Ctrl+Ctrl+1 or 2 or 3 or 4)
+- 【EDID automático】 El dispositivo lee automáticamente los parámetros EDID de la pantalla y se adapta a la resolución de la pantalla. Hacer el equipo más compatible
+- 【Conmutador KVM de 4 puertos】 A través de este dispositivo, se puede usar un conjunto de teclado y mouse para controlar 4 computadoras y mostrar imágenes en el mismo monitor.
 - 【4K@30Hz】 La resolución máxima admite 4K @ 30Hz, y es compatible con 1080P / 1080i / 720P / 720i, etc.
 - 【Plug and play】 No es necesario instalar ningún controlador, plug and play
 

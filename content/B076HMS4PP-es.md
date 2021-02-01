@@ -28,8 +28,8 @@ Tienes [adidas CORE18 RN JKT Chaqueta Deportiva  Hombre  Negro  Black/White   3X
 
 🔎:
 
-- Water-proof fabric
-- Soccer jacket
 - Full zip
+- Soccer jacket
+- Water-proof fabric
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B076HMS4PP/?tag=tolees-21)

@@ -28,11 +28,11 @@ Ahora mismo tienes [Fila Disruptor  Zapatillas Unisex niños  Blanco  White   35
 
 🔎:
 
+- Sole material: caucho
 - Outer material: sintético
-- Heel height: 10 millimeters
-- Material composition: sintético
 - Lining: sintético
 - Closure: encaje
-- Sole material: caucho
+- Material composition: sintético
+- Heel height: 10 millimeters
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07HPCKRNN/?tag=tolees-21)
