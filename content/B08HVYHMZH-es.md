@@ -28,10 +28,10 @@ En este momento está [Trust Lector de DNI  Compatible con todas las tarjetas DN
 
 🔎:
 
-- Fácil de conectar: solamente hay que enchufar el cable USB en el PC o portátil. Pies de goma antideslizantes para colocar la tarjeta fácilmente
-- Práctico para la identificación personal en sitios web y administraciones públicas
 - Diseño fino con un cable de 100 cm que se dispone fácilmente en el escritorio
 - Cumple con FIPS 201, FIPS TAA e ISO 7816 Clase A, B, C, para iniciar sesión de manera segura en sitios web del gobierno
+- Fácil de conectar: solamente hay que enchufar el cable USB en el PC o portátil. Pies de goma antideslizantes para colocar la tarjeta fácilmente
 - Compatible con todas las tarjetas DNI
+- Práctico para la identificación personal en sitios web y administraciones públicas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08HVYHMZH/?tag=tolees-21)

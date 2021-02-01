@@ -28,10 +28,10 @@ Tienes [Scuderia Ferrari Reloj Analógico para Niños de Cuarzo con Correa en Si
 
 🔎:
 
-- Large easy to read numerals
-- Black dial
 - 3 ATM water resistance
 - Black silicone strap with red race-track design
+- Large easy to read numerals
 - Brushed stainless steel case
+- Black dial
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07B3VYKT9/?tag=tolees-21)
