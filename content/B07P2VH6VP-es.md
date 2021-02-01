@@ -29,9 +29,9 @@ Está [TABIGER - Soldador de Estaño  60W soldador eléctrico con Temperatura Aj
 ℹ️:
 
 - 【Soldador de seguridad mejorado】 Con Versión Mejorada, Hemos reemplazado el cable de alimentación del Soldador de estaño y mejorado el enchufe para garantizar la seguridad de nuestros consumidores durante el uso. Longitud del cable de soldador electrico de 1,5 m, aumentar el lugar de trabajo del operador.
-- 【Calentar Rápido 200 ℃ - 450 ℃ Soldador Adjustable 】 Gracias a la tecnología de inducción de cerámica calentada en interiores, el soldador eléctrico de 60w permite un calentamiento rápido y tiene un controlador de temperatura con un rango de temperatura de 220-450 ° C para diferentes usos.
 - 【Soldador de Estaño ampliamente utilizado】El mejor regalo para DIYER, varios usos reparados de electrónica y aglomerado, soldadura, joyería, guitarra, relojes, dispositivos móviles, hardware de computadora, pequeños trabajos electrónicos, capacitores de TV o accesorios, adornos de sus hijos, manualidades y mucho más. Más.
 - 【Tecnología mejorada para la disipación de calor】 El cuerpo de nuestro soldador eléctrico está hecho de material resistente al calor, el tubo de acero y cuatro orificios de ventilación en el soldador permiten un enfriamiento rápido del soldador.
 - 【Actualice puntas de Soldador y cómodo mango antideslizante】 Para evitar que se derrita la punta de Soldador. Hemos utilizado Artcraft especial para mejorar la vida. La empuñadura de silicona premium es antideslizante en la mano y la carcasa resistente a altas temperaturas aísla efectivamente el calor.
+- 【Calentar Rápido 200 ℃ - 450 ℃ Soldador Adjustable 】 Gracias a la tecnología de inducción de cerámica calentada en interiores, el soldador eléctrico de 60w permite un calentamiento rápido y tiene un controlador de temperatura con un rango de temperatura de 220-450 ° C para diferentes usos.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07P2VH6VP/?tag=tolees-21)
