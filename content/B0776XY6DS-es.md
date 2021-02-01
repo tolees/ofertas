@@ -28,10 +28,10 @@ Está [Tommy Hilfiger Original Rib Camisa  Blanco  Classic White 100   Small par
 
 ℹ️:
 
-- Logotipo Tommy Jeans
 - Algodón orgánico puro
-- Diseño ajustado
 - Logotipo Tommy Jeans bordado en el pecho
+- Diseño ajustado
 - Cuello redondo
+- Logotipo Tommy Jeans
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0776XY6DS/?tag=tolees-21)
