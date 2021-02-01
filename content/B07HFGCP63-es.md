@@ -28,11 +28,11 @@ En este momento está [Wacom One by Wacom Medium - Tableta gráfica con lápiz d
 
 🔎:
 
-- Tamaño de la pantalla (medida en diagonal): 13.3 pulgadas
 - Resolución de pantalla: 1920 x 1080 píxeles
 - Requisitos del sistema: Windows 7 y posterior, Mac OS 10.13 y posterior
-- Profundidad de color: 8 bits
-- Relación de aspecto: 16:9
 - Requisitos de hardware: puerto HDMI y puerto USB-A estándar
+- Relación de aspecto: 16:9
+- Tamaño de la pantalla (medida en diagonal): 13.3 pulgadas
+- Profundidad de color: 8 bits
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07HFGCP63/?tag=tolees-21)

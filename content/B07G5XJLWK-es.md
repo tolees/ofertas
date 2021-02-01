@@ -28,12 +28,12 @@ Tienes [Logitech G PRO Wireless Gaming Mouse  HERO 25K Sensor  25 600 DPI  RGB  
 
 ℹ️:
 
-- Next gen sensor: Capable of detecting movements at the sub-micron level, can track movement less than one millionth of a meter with pinpoint accuracy
-- LIGHTSPEED Wireless: With pro-grade USB wireless performance, LIGHTSPEED provides a rock-solid and super-fast 1 ms report rate connection, without the drag and distraction of a cord
-- Ultra-lightweight Engineering: Innovative endoskeleton design with an ultra-thin outer shell, gives you incredible strength and structural support, yet in a super-lightweight 80g ergonomic body, that makes Pro Wireless the optimal gaming mouse for your gaming computer, laptop or Mac
-- Ambidextrous Design: Removable left and right side buttons make PRO Wireless truly ambidextrous, and let pros decide how many side buttons they want – from zero to four
-- HERO 25K Sensor: Pro Wireless Logitech G gaming mouse has the latest version of the HERO sensor; the most accurate, high performing and efficient gaming sensor yet, exceeding 400 IPS and delivering 25600 DPI tracking
-- Made with and for Pro Gamers: Designed over two years with direct input from many professional esports players, Pro Wireless gaming mouse is built for extreme performance
 - NO WIRES. NO LIMITS: World’s NO.1 Best Selling Wireless Gaming Gear Brand - Based on independent aggregated sales data (FEB ‘19 - FEB’20) of Wireless Gaming Keyboard, Mice, & PC Headset in units
+- LIGHTSPEED Wireless: With pro-grade USB wireless performance, LIGHTSPEED provides a rock-solid and super-fast 1 ms report rate connection, without the drag and distraction of a cord
+- Next gen sensor: Capable of detecting movements at the sub-micron level, can track movement less than one millionth of a meter with pinpoint accuracy
+- Ambidextrous Design: Removable left and right side buttons make PRO Wireless truly ambidextrous, and let pros decide how many side buttons they want – from zero to four
+- Made with and for Pro Gamers: Designed over two years with direct input from many professional esports players, Pro Wireless gaming mouse is built for extreme performance
+- Ultra-lightweight Engineering: Innovative endoskeleton design with an ultra-thin outer shell, gives you incredible strength and structural support, yet in a super-lightweight 80g ergonomic body, that makes Pro Wireless the optimal gaming mouse for your gaming computer, laptop or Mac
+- HERO 25K Sensor: Pro Wireless Logitech G gaming mouse has the latest version of the HERO sensor; the most accurate, high performing and efficient gaming sensor yet, exceeding 400 IPS and delivering 25600 DPI tracking
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07G5XJLWK/?tag=tolees-21)

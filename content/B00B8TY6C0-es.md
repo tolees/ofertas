@@ -28,9 +28,9 @@ Tienes [Moser Profesional 1400 - Máquina Cortapelos  150 gr](https://www.amazon
 
 ℹ️:
 
-- Cabezal de corte intercambiable de acero especial Star Blade, ancho 46 mm
-- Peine plástico regulable 7 posiciones
-- Cepillo de limpieza y aceite
 - Protector de cuchillas
+- Cabezal de corte intercambiable de acero especial Star Blade, ancho 46 mm
+- Cepillo de limpieza y aceite
+- Peine plástico regulable 7 posiciones
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00B8TY6C0/?tag=tolees-21)

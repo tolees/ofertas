@@ -28,10 +28,10 @@ Ahora mismo tienes [CYCPLUS 140 PSI Bomba de neumáticos Compresor eléctrico Bo
 
 🔎:
 
+- 【150 PSI bicycle pump】 The CYCPLUS air compressor has a maximum high pressure capacity up to 150PSI / 10, 3 BAR. There are 4 types of unit values: PSI, BAR, KPA, Kg / cm². After connecting to the tire valve, the current tire pressure is displayed, so you can monitor tire pressure at all times.
 - 【About us】 We have specialized in bicycle products since 2014. Everyone in the CYCPLUS team is a passionate cyclist! As experienced professionals, we know very well what is important for cyclists. CYCPLUS Mini air pump is compact, effortless and multifunctional, it can meet your daily needs. Bike with us and enjoy your ride!
-- 【Safety first! 】 There is built-in lithium battery protection board, batteries overcharge protection, overdischarge protection, short circuit protection，against undervoltage condition and temperature monitoring function. All the products CYCPLUS sold enjoy two-year warranty and full life service, please dont worry.
 - 【Multi-functional tire pump】 The electric pump can be used for all types of bicycles such as mountain bikes, road bike, BMX or e-bikes. It is also used for motorcycle, car, balls or swim rings. With the built-in LiIonen battery, the pump can also be used as emergency lighting in the dark.
 - 【Unique appearance】CYCPLUS has a patent for the design. This aie pump combines practicality with beauty. say goodbye to manual pump. A portable electric air pump is also an ideal gift for families or friends.
-- 【150 PSI bicycle pump】 The CYCPLUS air compressor has a maximum high pressure capacity up to 150PSI / 10, 3 BAR. There are 4 types of unit values: PSI, BAR, KPA, Kg / cm². After connecting to the tire valve, the current tire pressure is displayed, so you can monitor tire pressure at all times.
+- 【Safety first! 】 There is built-in lithium battery protection board, batteries overcharge protection, overdischarge protection, short circuit protection，against undervoltage condition and temperature monitoring function. All the products CYCPLUS sold enjoy two-year warranty and full life service, please dont worry.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B081RMWV7R/?tag=tolees-21)
