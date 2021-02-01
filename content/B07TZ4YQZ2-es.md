@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Potensic Mini Drone RC Helicopter Quadco al 38.61 % de descuento'
-date: 2021-01-31 02:15:37
+title: 'Potensic Mini Drone RC Helicopter Quadco al 25.01 % de descuento'
+date: 2021-02-01 08:25:19
 image: 'https://m.media-amazon.com/images/I/51fy0vdzIeL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -9,29 +9,29 @@ author: ring
 slug: 'B07TZ4YQZ2-es Potensic Mini Drone RC Helicopter Quadcopter para Niños y...'
 sku: 'B07TZ4YQZ2-es'
 tags: [  ]
-actualPrice: 24.55 EUR
+actualPrice: 29.99 EUR
 currency: EUR
-price: 24.55
+price: 29.99
 comparePrice: 39.99 EUR
 prodname: 'Potensic Mini Drone RC Helicopter Quadcopter para Niños y Principiantes con Control Remoto  Modo sin Cabeza  la Función de Suspensión de Altitud  3 Modos de Velocidad  2 Baterías  A20 Verde'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Potensic'
 buyurl: 'https://www.amazon.es/dp/B07TZ4YQZ2/?tag=tolees-21'
-descuento: '38.61'
-average: '33.0772727272728'
+descuento: '25.01'
+average: '33.0464'
 ---
 
-Ahora mismo tienes [Potensic Mini Drone RC Helicopter Quadcopter para Niños y Principiantes con Control Remoto  Modo sin Cabeza  la Función de Suspensión de Altitud  3 Modos de Velocidad  2 Baterías  A20 Verde](https://www.amazon.es/dp/B07TZ4YQZ2/?tag=tolees-21) a 24.55 EUR (original: 39.99 EUR) (38.61 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Potensic Mini Drone RC Helicopter Quadcopter para Niños y Principiantes con Control Remoto  Modo sin Cabeza  la Función de Suspensión de Altitud  3 Modos de Velocidad  2 Baterías  A20 Verde](https://www.amazon.es/dp/B07TZ4YQZ2/?tag=tolees-21) a 29.99 EUR (original: 39.99 EUR) (25.01 %  de descuento) en el siguiente enlace!
 
 [![Potensic Mini Drone RC Helicopter Quadco](https://m.media-amazon.com/images/I/51fy0vdzIeL._SL200_.jpg)](https://www.amazon.es/dp/B07TZ4YQZ2/?tag=tolees-21)
 
 🔎:
 
 - [Un botón de despegue / aterrizaje]: operación inteligente para los principiantes, puede usar estos botones directamente, el dron ascenderá automáticamente y mantendrá una cierta altitud / o descendirá aterrizar suavemente.
+- [Modo Sin cabeza]: no más confusión sobre la dirección, sobre todo para niños que son particularmente insensibles con respecto a las direcciones. Al activar el modo sin cabeza al inicio del vuelo, no es necesita distinguir la dirección de inicio del drone, y puede pilotar más fácilmente el dron.
+- [Divirtiéndose por más tiempo]: 2 baterías desmontables y 3 niveles de velocidad ajustables brindan una experiencia de vuelo emocionante para aficionados y pilotos avanzados por igual, su tiempo de vuelo se prolonga hasta 12 minutos.
 - [Fácil de llevar]: tiene el ancho como iPhone 5, diseño único, pequeño y ligero, fácil de llevar, adecuado para llevar siempre en la palma de la mano. Y cubre 12 meses de garantía.
 - [Mini drone]: a diferencia de otros mini drones solo para niños o principiantes, este drone también está diseñado para personas con experiencia de vuelo quien quieren divertirse con un pequeño dron.
-- [Divirtiéndose por más tiempo]: 2 baterías desmontables y 3 niveles de velocidad ajustables brindan una experiencia de vuelo emocionante para aficionados y pilotos avanzados por igual, su tiempo de vuelo se prolonga hasta 12 minutos.
-- [Modo Sin cabeza]: no más confusión sobre la dirección, sobre todo para niños que son particularmente insensibles con respecto a las direcciones. Al activar el modo sin cabeza al inicio del vuelo, no es necesita distinguir la dirección de inicio del drone, y puede pilotar más fácilmente el dron.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07TZ4YQZ2/?tag=tolees-21)
