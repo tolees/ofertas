@@ -30,7 +30,7 @@ Tienes [Tesura Games - Samurai Shodown - NeoGeo Collection](https://www.amazon.e
 
 - ¡Siete títulos de SAMURAI SHODOWN en total!: Desde el SAMURAI SHODOWN original (1993), hasta SAMURAI SHODOWN V SPECIAL en NEOGEO (2004) y un título inédito para el público; sAMURAI SHODOWN V PERFECT
 - ¡Más de 200 pistas en el reproductor de música!: Escucha las bandas sonoras de cada uno de los títulos y revive la emoción de la serie SAMURAI SHODOWN
-- ¡Cada título viene con modos de combate y en línea!: Pelea contra guerreros de nivel similar con el modo de partidas clasificatorias Ranked Match o simplemente desahógate en partidas informales con el modo Casual Match; invita a tus amigos (o enemigos) a recibir una paliza en el modo Challenge Friend
 - ¡Un Museum Mode repleto de contenido!: Contiene más de 2000 preciados documentos e imágenes de desarrollo; ¡es todo lo que un fan de SamSho podría querer!
+- ¡Cada título viene con modos de combate y en línea!: Pelea contra guerreros de nivel similar con el modo de partidas clasificatorias Ranked Match o simplemente desahógate en partidas informales con el modo Casual Match; invita a tus amigos (o enemigos) a recibir una paliza en el modo Challenge Friend
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08CS4VHG4/?tag=tolees-21)

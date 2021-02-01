@@ -28,10 +28,10 @@ Tienes [Columbia Sun Ridge Polo EM6527 Manga Corta  Hombre  Negro  Black   S](ht
 
 ℹ️:
 
-- 1x Columbia Sun Ridge, Polo, Hombre, Fibra sintética, Negro, S, Art. 1399471
-- Una solapa con dos botones junto al cuello bien diseñado para poder darse la vuelta
 - Mezcla de tejido modal/poliéster ligero, corte adecuado para las capas, buen rendimiento en salidas largas con posibilidades ilimitadas
-- Ajuste activo, pensado para la movilidad, diseñado para un look elegante
+- Una solapa con dos botones junto al cuello bien diseñado para poder darse la vuelta
 - Polo repelente al sol y de rápida absorción, lo suficientemente elegante para diversas aventuras, desde el tenis hasta el senderismo o una cena con amigos
+- 1x Columbia Sun Ridge, Polo, Hombre, Fibra sintética, Negro, S, Art. 1399471
+- Ajuste activo, pensado para la movilidad, diseñado para un look elegante
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B004E0ZZIE/?tag=tolees-21)

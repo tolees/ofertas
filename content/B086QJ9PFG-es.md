@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mustang Alexia  Zapatillas Deportivas pa al 50.00 % de rebaja'
-date: 2021-01-27 00:28:05
+date: 2021-02-01 11:09:40
 image: 'https://m.media-amazon.com/images/I/318Cht66P8L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ comparePrice: 45.9 EUR
 prodname: 'Mustang Alexia  Zapatillas Deportivas para Mujer  Canje Negro  38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Mustang'
 buyurl: 'https://www.amazon.es/dp/B086QJ9PFG/?tag=tolees-21'
 descuento: '50.00'
 average: '22.95'

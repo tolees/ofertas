@@ -28,9 +28,9 @@ En este momento está [Cressi Pro Light + Big Eyes + Alpha Utra Dry Snorkel Set 
 
 🔎:
 
-- Snorkle set comprises goggles, snorkle and aletas
 - Máscara hecha de vidrio a prueba de rotura, 100% de silicona
 - Producto de viaje ligero
+- Snorkle set comprises goggles, snorkle and aletas
 - Hecho en Italia
 - Cressi es una empresa familiar, que desde 1946 produce productos de alta calidad
 

@@ -28,10 +28,10 @@ Está [Anime Heroes- Figura de acción Caballeros del Zodiaco  PEGASUS ](https:/
 
 ℹ️:
 
-- Figura articulada de anime heroes de pegaso de caballeros del zodiaco
-- Gran nivel de detalle y decoración
 - Más de 17 puntos de articulación y 17 cm de altura
-- Accesorios incluidos
+- Gran nivel de detalle y decoración
+- Figura articulada de anime heroes de pegaso de caballeros del zodiaco
 - Packaging premium
+- Accesorios incluidos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00Q9N7YP6/?tag=tolees-21)

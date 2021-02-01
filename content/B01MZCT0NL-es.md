@@ -28,7 +28,7 @@ Tienes [Fossil Pulsera de hombre con acero inoxidable](https://www.amazon.es/dp/
 
 ℹ️:
 
-- 21 CM/8,26 inch
 - Bracelet made up of multiple black leather strands with stainless steel IP coloured insert, stainless steel closure. Brand new and delivered with manufacturer warranty and genuine FOSSIL presentation box.
+- 21 CM/8,26 inch
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01MZCT0NL/?tag=tolees-21)

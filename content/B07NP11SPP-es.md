@@ -28,8 +28,8 @@ Está [Seiko Reloj Analógico para Unisex Adultos de Cuarzo con Correa en Cuero 
 
 ℹ️:
 
-- 38 mm
 - Seiko sup854p1
 - Cuarzo hebilla sin
+- 38 mm
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07NP11SPP/?tag=tolees-21)
