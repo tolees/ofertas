@@ -28,9 +28,9 @@ En este momento está [Tommy Hilfiger Core Hilfiger Regular Polo  Negro  Flag Bl
 
 🔎:
 
-- Logo de Tommy Hilfiger bordado en el pecho
 - Tejido a contraste en el interior del cuello
-- Polo de corte regular para hombre
 - Cinta distintiva en el interior del cuello
+- Logo de Tommy Hilfiger bordado en el pecho
+- Polo de corte regular para hombre
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B018LLIX3A/?tag=tolees-21)

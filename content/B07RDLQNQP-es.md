@@ -29,7 +29,7 @@ Ahora mismo tienes [Salomon XA Pro 3D CSWP J  Zapatillas de Deporte Unisex Adult
 🔎:
 
 - Shoes xa pro (l40965200)
-- Calzado salomon
 - Zapatillas de running running unisex infantil
+- Calzado salomon
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07RDLQNQP/?tag=tolees-21)

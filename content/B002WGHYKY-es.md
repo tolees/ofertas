@@ -28,9 +28,9 @@ Ahora mismo tienes [Superga 2750 COTU Classic  Zapatillas  Negro S  35 EU](https
 
 🔎:
 
-- Ojales en relieve Superga
-- Pestaña Superga en el lateral y el talón
 - Algodón totalmente transpirable.
+- Pestaña Superga en el lateral y el talón
+- Ojales en relieve Superga
 - Suela de goma vulcanizada.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B002WGHYKY/?tag=tolees-21)

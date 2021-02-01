@@ -28,10 +28,10 @@ Tienes [Koch Films GmbH - Deus Ex: Mankind Divided Day One Edition [Importación
 
 ℹ️:
 
+- Extra In-Game Mission
+- Digital OST Sampler
+- Digital Books
 - Deus Ex: Mankind Divided, the sequel to the critically acclaimed Deus Ex: Human Revolution
 - Covert Agent Packs
-- Extra In-Game Mission
-- Digital Books
-- Digital OST Sampler
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00VWGTWUA/?tag=tolees-21)

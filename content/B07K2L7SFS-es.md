@@ -29,7 +29,7 @@ Ahora mismo tienes [Adidas Adilette Aqua Zapatos de Playa y Piscina Unisex adult
 🔎:
 
 - Fácil de poner.
-- 3 rayas en la parte superior.
 - Zapatillas deportivas.
+- 3 rayas en la parte superior.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07K2L7SFS/?tag=tolees-21)
