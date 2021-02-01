@@ -28,10 +28,10 @@ En este momento está [Tesmed 780 Electro estimulador Digital  2/4 Canales  EMS/
 
 🔎:
 
-- TESMED TE780 plus : ELECTROESTIMULADOR para: BELLEZA-FITNESS-Sport-TENS
 - Manual multilingüe con 124 propuestas de tratamientos con los detalles del programa, la ilustración en color de la colocación de los electrodos y los días necesarios para terminar el curso del tratamiento
 - 124 aplicaciones diferentes, 49 programas :celulitis, reafirmantes, tonificantes, masajes, fatiga, deportes, TENS
-- Garantía de 2 años
 - Estimulación nerviosa eléctrica transcutánea (TENS) Electroestimulación muscular (EMS) 2 canales separados y con 8 electrodos autoadhesivos
+- TESMED TE780 plus : ELECTROESTIMULADOR para: BELLEZA-FITNESS-Sport-TENS
+- Garantía de 2 años
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00N7T6M3A/?tag=tolees-21)

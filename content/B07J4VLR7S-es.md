@@ -28,10 +28,10 @@ Ahora mismo tienes [SIMREX X300C Mini Drone con cámara WiFi HD FPV Plegable RC 
 
 🔎:
 
+- Control directo del teléfono con transmisión o control del transmisor con teléfono inteligente. Apple IOS / teléfonos Android compatibles
+- Tiradas y rollos de 360 grados. Una tecla 3D de efectos especiales rodantes. Voltear en 4-Vías Flip (izquierda, derecha, adelante, atrás). Rollo continuo para una acción perfecta y un rendimiento maravilloso.
 - Modo de seguridad sin cabeza. Cuando los ojos no pueden identificar la orientación del avión no tripulado, el modo sin cabeza puede ayudar a controlar más fácilmente y evitar perder la dirección.
 - Equipado con los últimos sistemas de control de vuelo Gyro de 6 ejes, proporciona una experiencia de uso mejor y más segura.
 - Rango: unos 30-45 metros. Vuelo Tim: unos 8-10 minutos. Tiempo de carga: unos 60 minutos
-- Control directo del teléfono con transmisión o control del transmisor con teléfono inteligente. Apple IOS / teléfonos Android compatibles
-- Tiradas y rollos de 360 grados. Una tecla 3D de efectos especiales rodantes. Voltear en 4-Vías Flip (izquierda, derecha, adelante, atrás). Rollo continuo para una acción perfecta y un rendimiento maravilloso.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07J4VLR7S/?tag=tolees-21)

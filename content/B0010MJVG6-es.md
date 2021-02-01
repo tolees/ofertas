@@ -28,9 +28,9 @@ Está [Casio Classic MW-59-7BVDF  Reloj Analógico de Cuarzo con Calendario y Co
 
 ℹ️:
 
-- Tiene indicador de fecha presente en pantalla
-- La duración de la batería es de 3 años
 - Caja y correa y de resina sintética, un material resistente y flexible
 - Resistente al agua hasta 5 bar / 50 metros
+- La duración de la batería es de 3 años
+- Tiene indicador de fecha presente en pantalla
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0010MJVG6/?tag=tolees-21)

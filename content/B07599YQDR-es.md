@@ -28,9 +28,9 @@ Tienes [Funko Pop!- Mad MAX: Fury Road Valkyrie Figura de Vinilo  28025 ](https:
 
 🔎:
 
-- Figura de colección de la marca Funko
-- Recomendado para niños a partir de 3 años
 - El producto se envía en una caja ilustrada con ventana
+- Recomendado para niños a partir de 3 años
 - El artículo es adecuado para todos los fanáticos de Mad Max
+- Figura de colección de la marca Funko
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07599YQDR/?tag=tolees-21)

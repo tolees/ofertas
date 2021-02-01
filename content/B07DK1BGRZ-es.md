@@ -28,8 +28,8 @@ Está [Lico Lionel V  Zapatillas de Deporte Unisex Adulto  Azul  Marine/Gr Marin
 
 ℹ️:
 
-- Suela ligera
-- Suela flexible
 - Cierre de velcro
+- Suela flexible
+- Suela ligera
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07DK1BGRZ/?tag=tolees-21)

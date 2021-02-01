@@ -28,12 +28,12 @@ En este momento está [Beurer MP-41 - Set manicura y pedicura profesional  7 acc
 
 🔎:
 
-- Indicador de encendido/apagado
-- 7 accesorios incluidos
-- Giro hacia la derecha/izquierda
-- Estuche incluido
-- 2 velocidades
-- Con luz LED brillante
 - Velocidad: 3.800 U/min – 4.600 U/min
+- Giro hacia la derecha/izquierda
+- Con luz LED brillante
+- 7 accesorios incluidos
+- Indicador de encendido/apagado
+- 2 velocidades
+- Estuche incluido
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B009A48WTI/?tag=tolees-21)

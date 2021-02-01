@@ -28,9 +28,9 @@ Está [adidas Vs Pace  Zapatillas Hombre  Azul Blanco  43 1/3 EU](https://www.am
 
 ℹ️:
 
-- Membrana GORE-TEX impermeable y transpirable.
 - Suela Traxion para una adherencia óptima en todas las direcciones.
 - Bolsillos canguro.
+- Membrana GORE-TEX impermeable y transpirable.
 - Mediasuela de EVA para una amortiguación más ligera y duradera.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01NADXJEJ/?tag=tolees-21)
