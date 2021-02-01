@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Converse Chuck Taylor Hi - Zapatillas pa al 42.10 % de descuento'
-date: 2021-01-31 12:05:03
+date: 2021-02-01 19:41:18
 image: 'https://m.media-amazon.com/images/I/31qfr7PPBUL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Converse'
 buyurl: 'https://www.amazon.es/dp/B000OLVP7M/?tag=tolees-21'
 descuento: '42.10'
-average: '45.4583870967742'
+average: '45.1245454545455'
 ---
 
 Ahora mismo tienes [Converse Chuck Taylor Hi - Zapatillas para mujer  color blanco  talla 45](https://www.amazon.es/dp/B000OLVP7M/?tag=tolees-21) a 39.95 EUR (original: 69.0 EUR) (42.10 %  de descuento) en el siguiente enlace!

@@ -28,8 +28,8 @@ Está [adidas Falcon W - Zapatillas para Mujer  Blanco  40 EU](https://www.amazo
 
 ℹ️:
 
-- Corte regular
 - Cordones de zapatos
+- Corte regular
 - malla y parte superior de cuero sintético
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07GXLJ1NB/?tag=tolees-21)

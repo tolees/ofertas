@@ -28,11 +28,11 @@ Ahora mismo tienes [Bosch X-Line - Maletín de 34 unidades para taladrar y atorn
 
 🔎:
 
-- Práctico maletín que permite mantener en orden y en una buena disposición todos los contenidos
-- Apropiado para todas las marcas de herramientas eléctricas
-- 13 puntas de atornillar para 3 tipos de tornillos diferentes y 3 llaves de vaso convencionales
 - Incluye: 5 brocas para metal; 5 brocas para piedra, 5 brocas para madera, 13 puntas de atornillar, 3 llaves de vaso; 1 adaptador para llave de vaso; 1 portapuntas universal magnético y 1 avellanador
+- 13 puntas de atornillar para 3 tipos de tornillos diferentes y 3 llaves de vaso convencionales
+- Apropiado para todas las marcas de herramientas eléctricas
 - Soporte universal magnético para un cambio rápido de puntas de atornillar
 - Respectivamente 5 brocas de alta calidad y duraderas para múltiples aplicaciones
+- Práctico maletín que permite mantener en orden y en una buena disposición todos los contenidos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B002UHKARY/?tag=tolees-21)

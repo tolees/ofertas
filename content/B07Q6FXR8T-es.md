@@ -28,12 +28,12 @@ En este momento está [Timotei BIO Champú Nutritivo para Cabello seco con extra
 
 🔎:
 
-- Deja el cabello suave
-- Con extracto de miel y jojoba
 - Para cada tipo de pelo
+- Champu natural
+- Deja el cabello suave
 - 98% ingredientes de origen natural
 - Champu ecologico
-- Champu natural
+- Con extracto de miel y jojoba
 - Champú Timotei certificado bio
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07Q6FXR8T/?tag=tolees-21)

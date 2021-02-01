@@ -28,11 +28,11 @@ Tienes [De Longhi Estufa Catalitica Delonghi Vbf 4200W  Blue Flame  4200 W  Acer
 
 ℹ️:
 
+- estufa de gas de llama azul (blue flame)
 - mandos ergonómicos situados en el lateral
 - sistema variable del control de la llama: potencia ajustable de manera manual o automática
-- doble sistema de seguridad
-- Componentes incluidos: No aplica
 - potencia máxima de 4200 w
-- estufa de gas de llama azul (blue flame)
+- Componentes incluidos: No aplica
+- doble sistema de seguridad
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00AE0PFGK/?tag=tolees-21)

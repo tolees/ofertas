@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sebago Classic Dan  Náuticos para Hombre al 31.66 % de descuento'
-date: 2021-01-22 01:25:22
+date: 2021-02-01 19:31:17
 image: 'https://m.media-amazon.com/images/I/31FY7iRBmWL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,9 +16,10 @@ comparePrice: 199.0 EUR
 prodname: 'Sebago Classic Dan  Náuticos para Hombre  Marrón Brown Burgundy 903  39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Sebago'
 buyurl: 'https://www.amazon.es/dp/B07P6FXDZX/?tag=tolees-21'
 descuento: '31.66'
-average: '121.90000000000002'
+average: '122.983846153846'
 ---
 
 Está [Sebago Classic Dan  Náuticos para Hombre  Marrón Brown Burgundy 903  39 EU](https://www.amazon.es/dp/B07P6FXDZX/?tag=tolees-21) con 31.66 de descuento por 135.99 EUR (original: 199.0 EUR) en el siguiente enlace!
@@ -27,11 +28,11 @@ Está [Sebago Classic Dan  Náuticos para Hombre  Marrón Brown Burgundy 903  39
 
 ℹ️:
 
-- Tipo de tacón: plano.
-- Plantilla: piel.
-- Tamaño: Regular
 - Forro: sin forro.
-- Parte superior: otro cuero
+- Tipo de tacón: plano.
+- Tamaño: Regular
+- Plantilla: piel.
 - Material de la suela: piel.
+- Parte superior: otro cuero
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07P6FXDZX/?tag=tolees-21)

@@ -28,10 +28,10 @@ Tienes [adidas Puremotion Men  Zapatillas Hombre  FTWBLA/FTWBLA/Gridos  41 1/3 E
 
 🔎:
 
-- Parte superior textil
 - Zapatilla inspirada en el estilo del tenis
 - Diseño ligero y transpirable
-- Horma clásica
+- Parte superior textil
 - Cierre de cordones
+- Horma clásica
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B089QQ6D4G/?tag=tolees-21)

@@ -28,12 +28,12 @@ En este momento está [WMF Kult X Cortador Eléctrico En Espiral  80 W  1.25 Lit
 
 🔎:
 
+- 80 Vatios de potencia
+- Dimensiones del producto en mm: largo 240, ancho 175, alto 320
+- Exterior de Cromargan aleación acero inoxidable 18/10 única de WMF; es un material robusto, duradero y muy fácil de limpiar de un aspecto más elegante que el acero inoxidable; piezas extraíbles aptas para lavavajillas y neutro a los sabores
+- Práctico recipiente transparente de 1.25 Litros
 - Tecnología WMF Perfect Cut para un corte preciso y rápido
 - Fácil de limpiar: todas las piezas desmontables pueden lavarse en el lavavajillas
-- Práctico recipiente transparente de 1.25 Litros
-- Exterior de Cromargan aleación acero inoxidable 18/10 única de WMF; es un material robusto, duradero y muy fácil de limpiar de un aspecto más elegante que el acero inoxidable; piezas extraíbles aptas para lavavajillas y neutro a los sabores
-- Dimensiones del producto en mm: largo 240, ancho 175, alto 320
-- 80 Vatios de potencia
 - 3 accesorios de corte para Tallarines (ranura de 9 mm), Linguini (ranura de 5 mm), Spaguetti (ranura de 3 mm)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01EWNO308/?tag=tolees-21)
