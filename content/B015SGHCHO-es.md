@@ -28,11 +28,11 @@ Tienes [Havaianas You Metallic  Sandalias para Mujer  Dorado  Sand Grey/Light Go
 
 ℹ️:
 
-- Material de la suela: Caucho
-- Tipo de tacón: plano
-- Revestimiento: Caucho
-- Material exterior: Caucho
 - Tipo de talla: talla estándar
+- Material exterior: Caucho
+- Material de la suela: Caucho
+- Revestimiento: Caucho
 - Cierre: Sin cordones
+- Tipo de tacón: plano
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B015SGHCHO/?tag=tolees-21)

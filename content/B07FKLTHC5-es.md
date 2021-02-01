@@ -28,10 +28,10 @@ Tienes [LG 22MK600M-B - Monitor FHD de 54 6 cm  21 5"  con Panel IPS  1920 x 108
 
 ℹ️:
 
+- Muestra por encima del 72% del espectro de color NTSC
 - Diseño virtualmente sin bordes para una experiencia de uso inmersiva y fluida en configuraciones multimonitor
 - Mejora de la productividad con hasta en 4 pantallas gracias al modo ScreenSplit Multipantalla
 - Panel IPS que permite colores constantes a 178º de ángulo de visión
 - Tecnología RADEON FreeSync para disfrutar la acción sin parpadeos
-- Muestra por encima del 72% del espectro de color NTSC
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07FKLTHC5/?tag=tolees-21)

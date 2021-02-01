@@ -28,8 +28,8 @@ Tienes [Seiko UK Limited - EU Pulsar Diver - Reloj de Vestir con Correa de Silic
 
 🔎:
 
-- Modelo con movimiento de cuarzo y cristal mineral
 - Con resistencia al agua de 100 metros
+- Modelo con movimiento de cuarzo y cristal mineral
 - Reloj redondo con visualización analógica
 - Reloj de acero inoxidable con correa de silicona
 - Este modelo muestra el día del mes
