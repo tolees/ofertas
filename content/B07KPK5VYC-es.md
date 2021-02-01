@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 32.70 % en Funko - POP! Vinilo: Disney: Toy Story 4'
-date: 2021-01-30 19:56:25
+date: 2021-02-01 01:24:58
 image: 'https://m.media-amazon.com/images/I/41n5+00l3PL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Funko'
 buyurl: 'https://www.amazon.es/dp/B07KPK5VYC/?tag=tolees-21'
 descuento: '32.70'
-average: '10.8428'
+average: '10.9114814814814'
 ---
 
 Tienes [Funko - POP! Vinilo: Disney: Toy Story 4: Woody](https://www.amazon.es/dp/B07KPK5VYC/?tag=tolees-21) con un 32.70 % de descuento con precio de oferta de 11.77 EUR (original: 17.49 EUR) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [Funko - POP! Vinilo: Disney: Toy Story 4: Woody](https://www.amazon.es/d
 
 ℹ️:
 
-- Juguete del año 2018
-- Descúbre otras figuras de la colección disney y colecciónalas todas
-- Disney toy story 4
-- Funko pop vinyl
 - De la colección toy story 4, woody como figura de vinilo pop de funko
+- Disney toy story 4
+- Juguete del año 2018
+- Funko pop vinyl
+- Descúbre otras figuras de la colección disney y colecciónalas todas
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07KPK5VYC/?tag=tolees-21)
