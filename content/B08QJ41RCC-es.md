@@ -28,10 +28,10 @@ Está [N/W Humidificador de aromaterapia Doasawn Control Remoto Protección Ambi
 
 ℹ️:
 
-- Diseño impermeable, sin fugas de agua en el vertido.
 - Tranquilo y ecológico.
-- Propósito: aumentar la humedad en la habitación.
-- Puede dejar caer aceite esencial, fragancia natural.
 - Luz de noche pequeña con atmósfera LED El diseño biónico agrega diversión a la vida.
+- Diseño impermeable, sin fugas de agua en el vertido.
+- Puede dejar caer aceite esencial, fragancia natural.
+- Propósito: aumentar la humedad en la habitación.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08QJ41RCC/?tag=tolees-21)

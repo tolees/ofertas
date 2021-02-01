@@ -28,9 +28,9 @@ Ahora mismo tienes [Polti Vaporella 505 Pro Centro de planchado a vapor con cald
 
 🔎:
 
+- Plancha con suela de aluminio
 - Empuñadura de corcho aislante y transpirable
 - Pulsador vapor continuo
-- Plancha con suela de aluminio
 - Alfombrilla reposaplancha con insertos de silicona
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00D7ARYHC/?tag=tolees-21)

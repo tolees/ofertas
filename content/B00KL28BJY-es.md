@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Jovi 152818 - Caja de 12 botes de temper con un 31.37 % de descuento'
-date: 2021-01-31 07:20:36
+title: 'Jovi 152818 - Caja de 12 botes de temper con un 25.90 % de descuento'
+date: 2021-02-01 07:57:55
 image: 'https://m.media-amazon.com/images/I/51qfYMwa6fL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -12,28 +12,28 @@ tags: [  ]
 actualPrice: 7.81 EUR
 currency: EUR
 price: 7.81
-comparePrice: 11.38 EUR
+comparePrice: 10.54 EUR
 prodname: 'Jovi 152818 - Caja de 12 botes de tempera escolar de 35 ml  gel licuado en colores vivos  1 unidad  Multicolor'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Jovi'
 buyurl: 'https://www.amazon.es/dp/B00KL28BJY/?tag=tolees-21'
-descuento: '31.37'
-average: '8.81142857142857'
+descuento: '25.90'
+average: '8.58888888888889'
 ---
 
-En este momento está [Jovi 152818 - Caja de 12 botes de tempera escolar de 35 ml  gel licuado en colores vivos  1 unidad  Multicolor](https://www.amazon.es/dp/B00KL28BJY/?tag=tolees-21) a 7.81 EUR (original: 11.38 EUR) (31.37 %  de descuento) en el siguiente enlace!
+En este momento está [Jovi 152818 - Caja de 12 botes de tempera escolar de 35 ml  gel licuado en colores vivos  1 unidad  Multicolor](https://www.amazon.es/dp/B00KL28BJY/?tag=tolees-21) a 7.81 EUR (original: 10.54 EUR) (25.90 %  de descuento) en el siguiente enlace!
 
 [![Jovi 152818 - Caja de 12 botes de temper](https://m.media-amazon.com/images/I/51qfYMwa6fL._SL200_.jpg)](https://www.amazon.es/dp/B00KL28BJY/?tag=tolees-21)
 
 🔎:
 
-- 12 colores surtidos: amarillo amarillo limón azul azul cyan blanco magenta marrón naranja negro rojo verde claro y verde oscuro
-- Caja de 12 botes de témpera Jovi surtidos
 - Pintura al agua
-- Secado rápido
 - Ideal para utilizar sobre papel cartulina madera tela pasta de modelar y arcilla
 - Incluyen pincel
+- Secado rápido
+- Caja de 12 botes de témpera Jovi surtidos
+- 12 colores surtidos: amarillo amarillo limón azul azul cyan blanco magenta marrón naranja negro rojo verde claro y verde oscuro
 - Para uso escolar
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00KL28BJY/?tag=tolees-21)

@@ -28,10 +28,10 @@ Está [Seiko Analogueico SNK369K1](https://www.amazon.es/dp/B000HG9RF6/?tag=tole
 
 ℹ️:
 
-- Automático
-- WR 30mt
-- Blanco y Gris
 - Clâsico
+- WR 30mt
 - Analógico en Acero inoxidable para Hombre
+- Automático
+- Blanco y Gris
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B000HG9RF6/?tag=tolees-21)
