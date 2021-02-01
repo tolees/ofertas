@@ -28,10 +28,10 @@ Tienes [TP-Link TL-SF1005D - Switch Ethernet con 5 Puertos  10/100 Mbps  RJ45  C
 
 ℹ️:
 
+- Five 10/100 Mbps auto-negotiation RJ45 ports, supports auto MDI / MDIX
+- Green Ethernet technology saves the power up to 60%
 - IEEE 802.3x flow control provides reliable data transfer
 - Plug-and-Play, requires no configuration
-- Green Ethernet technology saves the power up to 60%
-- Five 10/100 Mbps auto-negotiation RJ45 ports, supports auto MDI / MDIX
 - Plastic case, desktop design
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000FNFSPY/?tag=tolees-21)
