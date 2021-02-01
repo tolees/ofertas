@@ -29,9 +29,9 @@ Está [Bosch Professional - BOSCH 060164E200 - Sierra sable GSA 1300 PCE Profess
 ℹ️:
 
 - Sistema SDS para un cambio rápido y cómodo de la hoja de sierra con una sola mano
-- Incluye: Bosch Professional GSA 1300 PCE sierra sable con SDS, maletín, 2 hojas de sierra, luz LED
-- Carrera pendular constante para un rápido avance de corte
 - Para un trabajo más cómodo: Empuñadura antivibraciones y equilibrado de masas
+- Incluye: Bosch Professional GSA 1300 PCE sierra sable con SDS, maletín, 2 hojas de sierra, luz LED
 - Motor de alto rendimiento de 1300 W con sistema Constant Electronic para las aplicaciones más duras
+- Carrera pendular constante para un rápido avance de corte
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00531AOZM/?tag=tolees-21)

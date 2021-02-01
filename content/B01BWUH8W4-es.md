@@ -29,8 +29,8 @@ Tienes [tado° Termostato Inteligente Cableado - Accesorio para control de habit
 🔎:
 
 - Actualiza a control de habitaciones múltiples para maximizar tu confort y ahorro de energía; administra todas tus zonas y configuraciones desde la app de tado°
-- Producto adicional de los Kits de Inicio de tado°: añade Termostatos Inteligentes extra a tu casa para controlar múltiples habitaciones individualmente
 - Kit de Inicio (V2, V3, V3+) de tado° con Bridge de Internet conforman tu configuración base
+- Producto adicional de los Kits de Inicio de tado°: añade Termostatos Inteligentes extra a tu casa para controlar múltiples habitaciones individualmente
 - La caja contiene: Termostato Inteligente, 3 pilas AAA, almohadillas adhesivas, material de montaje
 - Compatible con el 95% de sistemas de calefacción con control centralizado
 

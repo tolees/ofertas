@@ -28,8 +28,8 @@ Está [Funko - POP! Vinilo - Ahh! Real Monsters: Ickis](https://www.amazon.es/dp
 
 ℹ️:
 
-- Ahh! Real Monsters
-- Ickis
 - Funko POP
+- Ickis
+- Ahh! Real Monsters
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06XGSN1JP/?tag=tolees-21)
