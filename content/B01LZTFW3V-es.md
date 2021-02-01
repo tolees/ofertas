@@ -28,8 +28,8 @@ En este momento está [dvita - Aceite de Almendras Dulces 100% Puro. PRIMERA PRE
 
 🔎:
 
-- Ideal para masajes
 - Suaviza y tonifica la piel seca
+- Ideal para masajes
 - ACITE DE ALMENDRAS DULCES PRIMERA PRESIÓN ENFRIO
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01LZTFW3V/?tag=tolees-21)

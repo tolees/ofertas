@@ -29,8 +29,8 @@ Tienes [Trust Tytan 2.1 - Set de Altavoces de Ordenador  2.1  subwoofer de 120 W
 🔎:
 
 - Cómodo mando cableado para un fácil control del volumen con auriculares y conectores para iPod/MP3
+- Botones para controlar el volumen y los sonidos graves en el lateral
 - Juego de altavoces 2.1 con altavoz de subgraves en madera y una potencia total de salida RMS de 60 Vatios (máx. potencia: 120 vatios)
 - Sonido de gran calidad con subgraves más profundos
-- Botones para controlar el volumen y los sonidos graves en el lateral
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00B9DZP9I/?tag=tolees-21)

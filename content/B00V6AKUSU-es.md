@@ -28,10 +28,10 @@ Está [Sakai Sline Control Detox Plus+ Complemento Alimenticio - 500 ml](https:/
 
 ℹ️:
 
-- Control peso y detox
-- 500 ml
 - Con extractos y nutrientes hepatoprotectores con efecto Detox
 - Di adiós a las toxinas
+- Control peso y detox
 - Complemento alimenticio a base de Cardo Mariano, Alcachofa, Rábano negro, Saúco, Hinojo, Aloe vera, Boldo, Diente de león, Inositol, Colina, y L-metionina 
+- 500 ml
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00V6AKUSU/?tag=tolees-21)
