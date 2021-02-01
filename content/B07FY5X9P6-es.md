@@ -28,10 +28,10 @@ Está [TP-Link RE365 AC1200 - Repetidor Wifi  Extensor Amplificador WiFi  Puerto
 
 ℹ️:
 
-- Compatibilidad fuerte: Funciona con cualquier router wi-fi o punto de acceso inalámbrico
-- Indicadores de señal: La luz de señal inteligente ayuda a encontrar la mejor ubicación de cobertura Wi-Fi óptima al mostrar la fuerza de la señal
 - Enchufe extra: Le asegura de que no pierde ninguna toma de corriente
-- Doble banda con 2 antenas internas: Mantienen toda tu casa conectada con una fuerte expansión Wi-Fi a una velocidad combinada de hasta 1200Mbps
 - Control por APP: Administrar su red desde cualquier smartphone, y controlar la alimentación, el acceso e incluso la luz LED
+- Doble banda con 2 antenas internas: Mantienen toda tu casa conectada con una fuerte expansión Wi-Fi a una velocidad combinada de hasta 1200Mbps
+- Indicadores de señal: La luz de señal inteligente ayuda a encontrar la mejor ubicación de cobertura Wi-Fi óptima al mostrar la fuerza de la señal
+- Compatibilidad fuerte: Funciona con cualquier router wi-fi o punto de acceso inalámbrico
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07FY5X9P6/?tag=tolees-21)

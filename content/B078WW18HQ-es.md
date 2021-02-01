@@ -28,9 +28,9 @@ En este momento está [Maclaren Techno XT - Silla de paseo ligero para recién n
 
 🔎:
 
-- Las Techno XT incluyen un protector de cabeza y hombros a parte de un plástico de lluvia premium resistente al viento en la caja; compatible con el capazo Maclaren; disponibles piezas de repuesto fácilmente reemplazables
-- Peso básico de 6.1 kg/ 13.5 lb; ideal para recién nacidos y niños de hasta 25 kg/ 55 lb
 - ¡Nueva colección! Adaptado a la perfección para reducir el peso, mejorar la ergonomía y dar estilo; las características incluyen una capota rediseñada con visera, ruedas aerodinámicas con frenos accionados con un pie y un asiento elevado
 - Capota extensible impermeable/ UPF 50+ para el sol con visera incorporada y bolsillo de almacenamiento en la parte trasera, diseñado para proteger de los elementos y mantener cerca la valiosa carga
+- Peso básico de 6.1 kg/ 13.5 lb; ideal para recién nacidos y niños de hasta 25 kg/ 55 lb
+- Las Techno XT incluyen un protector de cabeza y hombros a parte de un plástico de lluvia premium resistente al viento en la caja; compatible con el capazo Maclaren; disponibles piezas de repuesto fácilmente reemplazables
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B078WW18HQ/?tag=tolees-21)
