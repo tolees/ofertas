@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'Descuento del 67.99 % en Columbia Sun Ridge  Polo  Hombre  Negro '
-date: 2020-03-15 14:06:18
+title: 'Descuento del 56.93 % en Columbia Sun Ridge Polo EM6527 Manga Cor'
+date: 2021-02-01 10:33:25
 image: 'https://m.media-amazon.com/images/I/310gwcrKZpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004E0ZZIE-es Columbia Sun Ridge Polo Hombre Negro S'
+slug: 'B004E0ZZIE-es Columbia Sun Ridge Polo EM6527 Manga Corta Hombre Negro...'
 sku: 'B004E0ZZIE-es'
 tags: [  ]
-actualPrice: 16.0 EUR
+actualPrice: 21.53 EUR
 currency: EUR
-price: 16.0
+price: 21.53
 comparePrice: 49.99 EUR
-prodname: 'Columbia Sun Ridge  Polo  Hombre  Negro  S'
+prodname: 'Columbia Sun Ridge Polo EM6527 Manga Corta  Hombre  Negro  Black   S'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Columbia'
 buyurl: 'https://www.amazon.es/dp/B004E0ZZIE/?tag=tolees-21'
-descuento: '67.99'
-average: '15.1'
+descuento: '56.93'
+average: '18.315'
 ---
 
-Tienes [Columbia Sun Ridge  Polo  Hombre  Negro  S](https://www.amazon.es/dp/B004E0ZZIE/?tag=tolees-21) con un 67.99 % de descuento con precio de oferta de 16.0 EUR (original: 49.99 EUR) en el siguiente enlace!
+Tienes [Columbia Sun Ridge Polo EM6527 Manga Corta  Hombre  Negro  Black   S](https://www.amazon.es/dp/B004E0ZZIE/?tag=tolees-21) con un 56.93 % de descuento con precio de oferta de 21.53 EUR (original: 49.99 EUR) en el siguiente enlace!
 
-[![Columbia Sun Ridge  Polo  Hombre  Negro ](https://m.media-amazon.com/images/I/310gwcrKZpL._SL200_.jpg)](https://www.amazon.es/dp/B004E0ZZIE/?tag=tolees-21)
+[![Columbia Sun Ridge Polo EM6527 Manga Cor](https://m.media-amazon.com/images/I/310gwcrKZpL._SL200_.jpg)](https://www.amazon.es/dp/B004E0ZZIE/?tag=tolees-21)
 
 ℹ️:
 
+- 1x Columbia Sun Ridge, Polo, Hombre, Fibra sintética, Negro, S, Art. 1399471
+- Una solapa con dos botones junto al cuello bien diseñado para poder darse la vuelta
+- Mezcla de tejido modal/poliéster ligero, corte adecuado para las capas, buen rendimiento en salidas largas con posibilidades ilimitadas
+- Ajuste activo, pensado para la movilidad, diseñado para un look elegante
+- Polo repelente al sol y de rápida absorción, lo suficientemente elegante para diversas aventuras, desde el tenis hasta el senderismo o una cena con amigos
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B004E0ZZIE/?tag=tolees-21)

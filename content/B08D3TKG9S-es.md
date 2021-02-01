@@ -28,10 +28,10 @@ Tienes [Grupo Erik CP21049 - Calendario de pared 2021 Tropical Paradise  30x30 c
 
 🔎:
 
-- Calendario pared: Ideal para planificar el 2021 a nivel mensual y tener una visión global de cada semana y mes, dando un aire distinto a la vez que decora la pared de cualquier habitación, dormitorio, cocina, salón o oficina. Y si todo eso te parece poco, está editado en 6 idiomas: español, inglés, francés, italiano, alemán y portugués
-- Calendario familiar 2021: Diseñado con 16 meses, de Septiembre de 2020 a Diciembre 2021, donde en la primera página nos encontramos los cuatro últimos meses de 2020. Presenta 12 ilustraciones a color una por cada mes inspiradas en bonitos paisajes tropicales
 - Este planificador te ayudará a dar el paso que necesitabas para realizar ese viaje que tanto deseabas, anota todo lo que quieres visitar y no te dejes nada en el aire
-- Erik - Especializados en papelería, merchandising y póster con las licencias más actuales del mercado. Calidad y diseño es lo que nos caracteriza. Producto 100% oficial.
+- Calendario familiar 2021: Diseñado con 16 meses, de Septiembre de 2020 a Diciembre 2021, donde en la primera página nos encontramos los cuatro últimos meses de 2020. Presenta 12 ilustraciones a color una por cada mes inspiradas en bonitos paisajes tropicales
 - Elaborado con papel certificado FSC, mide 30x30 cmcerrado y 60x30 cm abierto. Incluye una perforación en la parte superior de 5 mm para poder colgarlo fácilmente en el lugar que desee
+- Calendario pared: Ideal para planificar el 2021 a nivel mensual y tener una visión global de cada semana y mes, dando un aire distinto a la vez que decora la pared de cualquier habitación, dormitorio, cocina, salón o oficina. Y si todo eso te parece poco, está editado en 6 idiomas: español, inglés, francés, italiano, alemán y portugués
+- Erik - Especializados en papelería, merchandising y póster con las licencias más actuales del mercado. Calidad y diseño es lo que nos caracteriza. Producto 100% oficial.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08D3TKG9S/?tag=tolees-21)
