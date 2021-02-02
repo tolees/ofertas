@@ -28,9 +28,9 @@ En este momento está [Nuby - Toallitas húmedas para bebé  2 paquetes de 80 un
 
 🔎:
 
-- Seguro para la salud porque hecho con con ingredientes naturales
-- Perfecto para desinfectar manos, cara y cuerpo
 - Contenido de la caja: 2 paquetes de toallitas de 80piezas
+- Perfecto para desinfectar manos, cara y cuerpo
 - Edad aconsejada: 0 meses +
+- Seguro para la salud porque hecho con con ingredientes naturales
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00JDIC8SW/?tag=tolees-21)

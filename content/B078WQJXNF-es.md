@@ -28,10 +28,10 @@ En este momento está [Samsung 860 EVO MZ-76E250B/EU - Disco duro sólido intern
 
 🔎:
 
-- Form Factor: 2.5 Inch
 - Available Capacity: up to 4 TB
-- Interface: SATA 6 Gb/s, compatible with SATA 3 Gb/s and SATA 1.5 Gb/s interfaces
 - Designed for mainstream PCs and laptops for personal, gaming and business use
 - Sequential Read/Write speeds up to 550/520 MB/s respectively; performance varies based on system hardware configuration
+- Interface: SATA 6 Gb/s, compatible with SATA 3 Gb/s and SATA 1.5 Gb/s interfaces
+- Form Factor: 2.5 Inch
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B078WQJXNF/?tag=tolees-21)
