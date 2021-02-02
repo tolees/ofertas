@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko - POP Rides: Game of Thrones - Dae al 29.94 % de descuento'
-date: 2021-01-31 20:15:16
+date: 2021-02-02 02:26:27
 image: 'https://m.media-amazon.com/images/I/41+j+UNLhfL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Funko'
 buyurl: 'https://www.amazon.es/dp/B07SNR71JH/?tag=tolees-21'
 descuento: '29.94'
-average: '27.7874137931035'
+average: '27.7908474576271'
 ---
 
 Está [Funko - POP Rides: Game of Thrones - Daenerys on Fiery Drogon](https://www.amazon.es/dp/B07SNR71JH/?tag=tolees-21) con 29.94 de descuento por 27.99 EUR (original: 39.95 EUR) en el siguiente enlace!
