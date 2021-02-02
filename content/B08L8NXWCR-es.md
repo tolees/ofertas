@@ -28,10 +28,10 @@ En este momento está [Wawech Termometro infrarrojos para medir la fiebre termó
 
 🔎:
 
-- 👩‍👦‍👦【Pantalla OLED clara y brillante】 Con una pantalla OLED de alta calidad, puede ver claramente los resultados durante el día y en completa oscuridad. El termómetro infrarrojo tiene tres colores de pantalla: verde, amarillo y rojo, y se puede apagar automáticamente después de 15 segundos para ahorrar energía
+- 👩‍👦‍👦【Lectura instantánea】El termómetro infrarrojo puede medir con precisión la temperatura del cuerpo / objeto humano en 1 segundo. Admite alarma de fiebre audiovisual (el umbral de alarma predeterminado es 38,0 °C (100,4 °F), con función de silencio, sin necesidad de preocuparse por las interferencias
 - 👩‍👦‍👦【Termómetro profesional】Este termómetro infrarrojo es profesional y confiable. distancia de medición de temperatura de 3-5 cm, realizando una medición sin contacto
 - 👩‍👦‍👦【Termómetro multifuncional】El termómetro infrarrojos tiene 2 modos: Modo cuerpo y Modo objeto para adultos, niños ,bebés u otros elementos. ℃ y ℉ son fáciles de cambiar
+- 👩‍👦‍👦【Pantalla OLED clara y brillante】 Con una pantalla OLED de alta calidad, puede ver claramente los resultados durante el día y en completa oscuridad. El termómetro infrarrojo tiene tres colores de pantalla: verde, amarillo y rojo, y se puede apagar automáticamente después de 15 segundos para ahorrar energía
 - 👩‍👦‍👦【Amplia aplicación】 El termómetro infrarrojo para fiebre adopta una carcasa de plástico ABS de alta densidad (incluidas 2 baterías AAA), liviana y fácil de transportar, adecuada para hospitales, empresas, supermercados, escuelas, hogares, etc. de todas las edades
-- 👩‍👦‍👦【Lectura instantánea】El termómetro infrarrojo puede medir con precisión la temperatura del cuerpo / objeto humano en 1 segundo. Admite alarma de fiebre audiovisual (el umbral de alarma predeterminado es 38,0 °C (100,4 °F), con función de silencio, sin necesidad de preocuparse por las interferencias
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08L8NXWCR/?tag=tolees-21)

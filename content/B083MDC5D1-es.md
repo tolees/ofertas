@@ -28,8 +28,8 @@ Está [Funko- Pop Animation: My Hero Academia-Himiko Toga w/Face Cover Figura Co
 
 ℹ️:
 
-- De la colección my hero academia, himiko toga w/face cover como figura de vinilo pop de funko
 - Descúbre otras figuras de la colección my hero academia y colecciónalas todas
 - La figura mide 9 cm y se envía en una caja ilustrada con ventana
+- De la colección my hero academia, himiko toga w/face cover como figura de vinilo pop de funko
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B083MDC5D1/?tag=tolees-21)
