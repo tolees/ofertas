@@ -30,8 +30,8 @@ Tienes [HEALLILY cuentas de piedra natural corazón colgante chakra encantos cur
 
 - Muy fácil de hacer sus joyas de bricolaje, cada colgante tiene un círculo pequeño que permite pasar el cable (no incluido).
 - Colgantes delicados en forma de corazón: estos colgantes de piedra son muy bonitos y lindos, puedes usarlos para hacer tus collares, pulseras, aretes y otras artesanías de bricolaje.
-- Consejo cálido: Estimado comprador, debido al efecto de iluminación, el brillo de los monitores, la medición manual, etc., podría haber algunas pequeñas diferencias en el color y el tamaño entre la foto y el artículo real. Sinceramente espero que puedas entender! ¡Gracias!
 - Aplicación: también se pueden aplicar a tobilleras, adornos en la ropa u otras artesanías; Una buena opción para ser un regalo para tus amigos, familiares, etc.
 - Viene con colgantes de 20 piezas de varios estilos, pueden satisfacer sus diferentes necesidades de artesanía.
+- Consejo cálido: Estimado comprador, debido al efecto de iluminación, el brillo de los monitores, la medición manual, etc., podría haber algunas pequeñas diferencias en el color y el tamaño entre la foto y el artículo real. Sinceramente espero que puedas entender! ¡Gracias!
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07Z3P75CB/?tag=tolees-21)

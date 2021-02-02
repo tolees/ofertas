@@ -28,7 +28,7 @@ Tienes [ONLY Carmakoma NOS Caraugusta HW Skinny Jeans BB Dbd Noos Vaqueros  Azul
 
 🔎:
 
-- 5-pocket jeans without lavation
 - Elastic jeans made of cotton
+- 5-pocket jeans without lavation
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07RZSG79S/?tag=tolees-21)

@@ -28,10 +28,10 @@ En este momento está [Eichhorn - Set de Construcción de Madera para Crear hast
 
 🔎:
 
+- Promueve la coordinación ojo-mano y contribuye al desarrollo de las habilidades motoras finas, la destreza, la creatividad y la imaginación
+- Incluye piezas de madera de distintos tamaños y tuercas, tornillos y ruedas de plástico para unir las piezas
 - Completas instrucciones para montar 3 modelos diferentes: un coche de carreras, un mini-buggy o un coche fórmula 1
 - Calidad Eichhorn: Tradición de juguetes producidos en madera de alta calidad que no se astilla, proveniente de fuentes forestales sostenibles con certificado FSC 100%.
-- Incluye piezas de madera de distintos tamaños y tuercas, tornillos y ruedas de plástico para unir las piezas
 - Gran set de construcción de madera con 50 piezas encajables, recomendado para niños a partir de 6 años
-- Promueve la coordinación ojo-mano y contribuye al desarrollo de las habilidades motoras finas, la destreza, la creatividad y la imaginación
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00ID4DG3S/?tag=tolees-21)

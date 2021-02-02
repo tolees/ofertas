@@ -28,10 +28,10 @@ En este momento está [Finocam - Calendario de Pared 16 Meses 2020-2021 340x380 
 
 🔎:
 
-- 16 meses completos (septiembre 2020 - diciembre 2021)
-- Con información de los festivos de españa
-- Materialpapel y doble espiral metálica. Papel de 150gr/m2. Fsc
-- Con una frase motivadora en cada mes. Incluye 217 pegatinas temáticas, una plantilla de horario recortable. Espacio para planificarse a nivel mensual, listas para anotar compras, preparativos de viaje, cosas que hacer
 - Incluye notas adhesivas para recordatorios y marcadores. Con anilla para elemento de escritura
+- Materialpapel y doble espiral metálica. Papel de 150gr/m2. Fsc
+- Con información de los festivos de españa
+- 16 meses completos (septiembre 2020 - diciembre 2021)
+- Con una frase motivadora en cada mes. Incluye 217 pegatinas temáticas, una plantilla de horario recortable. Espacio para planificarse a nivel mensual, listas para anotar compras, preparativos de viaje, cosas que hacer
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B085PJH8NS/?tag=tolees-21)

@@ -28,10 +28,10 @@ Ahora mismo tienes [Rosenice - Cordones de nailon de varios colores  hilos para 
 
 🔎:
 
-- Longitud: aprox. 10 metros por rollo. Grosor: aprox. 0,8 mm.
 - Ideal para hacer joyería y artesanía general.
+- Longitud: aprox. 10 metros por rollo. Grosor: aprox. 0,8 mm.
+- Material: nailon duradero.
 - Color: 10 colores diferentes.
 - Un gran enriquecimiento para tu suministro para la fabricación de bisutería.
-- Material: nailon duradero.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01N1FILH2/?tag=tolees-21)

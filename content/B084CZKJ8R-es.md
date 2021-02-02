@@ -30,9 +30,9 @@ En este momento está [PUMA Teamgoal 23 Jersey Camiseta  Hombre  Team Light Blue
 
 - Manga corta
 - Toques de color en el cuello y los lados
-- Logotipo del felino PUMA en la parte derecha del pecho
 - Tipo de deporte: Athletic Sports Apparel
-- dryCELL: tecnología de PUMA con propiedades que alejan la humedad de la piel y te ayudan a mantenerte seco y cómodo
 - Cuello redondo
+- Logotipo del felino PUMA en la parte derecha del pecho
+- dryCELL: tecnología de PUMA con propiedades que alejan la humedad de la piel y te ayudan a mantenerte seco y cómodo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B084CZKJ8R/?tag=tolees-21)
