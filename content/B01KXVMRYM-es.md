@@ -28,8 +28,8 @@ Está [Dim Generous Invisible Sujetador  Beige  New Skin   90.C para Mujer](http
 
 ℹ️:
 
-- Estructura de la copa sin costuras
 - Acabados planos: invisible bajo tu ropa
+- Estructura de la copa sin costuras
 - Sujetador de microfibra, con relleno y con aros
 - Cierre de doble corchete
 

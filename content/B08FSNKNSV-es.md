@@ -28,10 +28,10 @@ En este momento está [Crucial CT2000X6SSD9 X6 2 TB SSD portátil – de hasta 5
 
 🔎:
 
-- RÁPIDA: Velocidades de lectura de hasta 540 MB/s, 3,8 veces más rápida que la mayoría de los discos duros
-- FIABLE Y DURADERA: Avalada por Micron, uno de los mayores fabricantes de almacenamiento flash del mundo
 - CAPACIDAD INMENSA: Capacidad de almacenamiento de 2 TB o 1 TB: suficiente para 10 000 fotografías, 50 horas de vídeo, 3000 canciones o 200 GB de documentos y con espacio de reserva
+- FIABLE Y DURADERA: Avalada por Micron, uno de los mayores fabricantes de almacenamiento flash del mundo
 - COMPATIBILIDAD AMPLIA: Funciona con PC, Mac, Android y iPad Pro (la PS4, la XBOX One y los ordenadores con USB-A requieren un adaptador USB-A, disponible por separado)
 - PEQUEÑA Y LIGERA: Cabe en la palma de la mano y pesa menos que las llaves del coche
+- RÁPIDA: Velocidades de lectura de hasta 540 MB/s, 3,8 veces más rápida que la mayoría de los discos duros
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08FSNKNSV/?tag=tolees-21)

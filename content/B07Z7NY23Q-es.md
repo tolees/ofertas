@@ -28,13 +28,13 @@ En este momento está [Tenda AC8 Gigabit Dual Band Smart Router  AC1200  Support
 
 🔎:
 
-- Si desea una red fluida, una señal estable, un enrutador hermoso, AC8 es el enrutador de sus sueños.
-- Soporte de filtro de cliente / MU-MIMO / Programación de Wi-Fi / 2.4GHz y 5GHz / Red de invitados
-- La tecnología integrada de doble banda combina 2,4 GHz y 5 GHz bajo un solo nombre de Wi-Fi; la banda de frecuencia de 5 GHz se establece como prioridad y nuestro sistema de optimización dinámica le asignará automáticamente la frecuencia de señal más rápida.
 - Analice automáticamente el entorno de Internet circundante, optimice automáticamente el canal / ancho de banda Wi-Fi, evite interferencias y proporcione un rendimiento óptimo constante.
-- Diseñado con puertos gigabit completos, admite acceso de ancho de banda de hasta 1000 Mbps, la banda dual proporciona acceso a 1167 Mbps, utiliza completamente la fibra gigabit.
 - La dirección IP es asignada aleatoriamente por el operador. Es difícil ser atacado por virus. Proteja su transacción en línea; Además, AC8 simplifica la transmisión de datos, lo que reduciría el tiempo de procesamiento y el retraso, brinda una mejor experiencia de juego.
-- Requisitos del sistema: Microsoft Windows 10 / 8.1 / 8/7 / Vista / XP / 2000 / NT / 98SE, MAC OS, NetWare, UNIX o Linux Internet Explorer 11, Firefox 12.0, Chrome 20.0, Safari 4.0 u otro navegador habilitado para Java; Cable o módem DSL; Suscripción con un proveedor de servicios de internet (para acceso a internet)
+- Si desea una red fluida, una señal estable, un enrutador hermoso, AC8 es el enrutador de sus sueños.
+- La tecnología integrada de doble banda combina 2,4 GHz y 5 GHz bajo un solo nombre de Wi-Fi; la banda de frecuencia de 5 GHz se establece como prioridad y nuestro sistema de optimización dinámica le asignará automáticamente la frecuencia de señal más rápida.
 - Equipado con Realtek 1GHz Core CPU, 28nm craft, rendimiento mejorado en un 40% *, maneja perfectamente todos los flujos de datos y ofrece una experiencia de Internet fluida.
+- Soporte de filtro de cliente / MU-MIMO / Programación de Wi-Fi / 2.4GHz y 5GHz / Red de invitados
+- Requisitos del sistema: Microsoft Windows 10 / 8.1 / 8/7 / Vista / XP / 2000 / NT / 98SE, MAC OS, NetWare, UNIX o Linux Internet Explorer 11, Firefox 12.0, Chrome 20.0, Safari 4.0 u otro navegador habilitado para Java; Cable o módem DSL; Suscripción con un proveedor de servicios de internet (para acceso a internet)
+- Diseñado con puertos gigabit completos, admite acceso de ancho de banda de hasta 1000 Mbps, la banda dual proporciona acceso a 1167 Mbps, utiliza completamente la fibra gigabit.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07Z7NY23Q/?tag=tolees-21)
