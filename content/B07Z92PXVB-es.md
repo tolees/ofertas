@@ -29,9 +29,9 @@ Ahora mismo tienes [Vannico Camara de Fotos para Niños  Camara para Niños Cám
 🔎:
 
 - 🎄TARJETA SD Y TARJETA DE NAVIDAD: tarjeta SD 16G y tarjeta de Navidad, cordón incluido, los niños pueden colgar la mini cámara. Viene con cable USB, puede transferir las fotos a la computadora. Fácil de usar para los niños, simplemente abra la tecla del interruptor y luego disfrute de la diversión de tomar fotos.
-- 🎁REGALOS DE NAVIDAD PARA NIÑOS: la cámara para niños está empacada en una exquisita caja de regalo, cumpleaños perfecto, Navidad, regalos navideños para niños y niñas de 3 a 10 años.
-- 💖 100% SATISFACCIÓN GARANTIZADA: en Vannico, elige tranquilidad. Proporcionamos garantía de un año y un servicio gratuito de reemplazo o reembolso de un mes, obtenga soporte técnico las 24 horas. (1. Inicie sesión en Amazon - 2. Localice su pedido - 3. Haga clic en el nombre del vendedor - 4. Haga una pregunta)
 - ⛄MÚLTIPLES FUNCIONES, MÁS DIVERSIÓN: la cámara digital para niños es de 8.0 mega píxeles, video HD de 1080p. Incorpora 24 modos de foto de marcos divertidos diferentes para elegir para los niños. La foto agregó 3 selecciones de efectos especiales y 2 juegos de rompecabezas, les da a los niños un sentido de creatividad.
+- 💖 100% SATISFACCIÓN GARANTIZADA: en Vannico, elige tranquilidad. Proporcionamos garantía de un año y un servicio gratuito de reemplazo o reembolso de un mes, obtenga soporte técnico las 24 horas. (1. Inicie sesión en Amazon - 2. Localice su pedido - 3. Haga clic en el nombre del vendedor - 4. Haga una pregunta)
 - 📸CÁMARA PARA NIÑOS: la cámara digital para niños es compacta, de diseño lindo, muy pequeña y liviana para que sus hijos puedan sostenerla fácilmente. Carcasa a prueba de golpes, duradera y segura para niños. La pantalla LCD permite que los niños vean lo que van a capturar para que puedan ajustar en cualquier momento.
+- 🎁REGALOS DE NAVIDAD PARA NIÑOS: la cámara para niños está empacada en una exquisita caja de regalo, cumpleaños perfecto, Navidad, regalos navideños para niños y niñas de 3 a 10 años.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07Z92PXVB/?tag=tolees-21)

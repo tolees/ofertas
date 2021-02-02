@@ -28,11 +28,11 @@ Tienes [Philips GU10 Cristal Bombillas  4.6 W equivalentes a 50 W en incandescen
 
 ℹ️:
 
-- Iluminación de acento para resaltar zonas o realzar espacios concretos
-- No regulable
 - Bombillas LED de bajo consumo, ahorra hasta un 80%
 - Luz instantánea al encenderse
 - Larga duración: hasta 15 años (15.000 horas)
+- No regulable
+- Iluminación de acento para resaltar zonas o realzar espacios concretos
 - Recomendado para uso en salones, habitaciones y pasillos creando un espacio acogedor
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01KHILJ5O/?tag=tolees-21)

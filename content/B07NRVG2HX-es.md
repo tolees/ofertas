@@ -28,10 +28,10 @@ Ahora mismo tienes [Comtervi - 1 pintalabios líquido mate impermeable de larga 
 
 🔎:
 
-- El pintalabios de larga duración contiene ingredientes hidratantes para una sensación cómoda, emoliente y sedosa que no seca los labios.
-- Resistente al agua, no se decolora, no se pega. Un maquillaje de larga duración puede darle un aspecto perfecto todo el día y te hará más encantadora.
-- La textura es lisa, fácil de colorear, ligera y fácil de transportar. Brillo de labios liso, crea labios brillantes y sexy.
-- El brillo de labios de este maquillaje impermeable para mujer es nutritivo y no graso, y mejora eficazmente las líneas de los labios. Esto dará a tus labios un aspecto saludable y suave.
 - Cómodo y fácil de usar: es sedoso, exquisito y elegante, adecuado para el maquillaje en todas las estaciones, especialmente en la oficina, la fecha, las compras, la fiesta con amigos, etc.
+- La textura es lisa, fácil de colorear, ligera y fácil de transportar. Brillo de labios liso, crea labios brillantes y sexy.
+- Resistente al agua, no se decolora, no se pega. Un maquillaje de larga duración puede darle un aspecto perfecto todo el día y te hará más encantadora.
+- El brillo de labios de este maquillaje impermeable para mujer es nutritivo y no graso, y mejora eficazmente las líneas de los labios. Esto dará a tus labios un aspecto saludable y suave.
+- El pintalabios de larga duración contiene ingredientes hidratantes para una sensación cómoda, emoliente y sedosa que no seca los labios.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07NRVG2HX/?tag=tolees-21)
