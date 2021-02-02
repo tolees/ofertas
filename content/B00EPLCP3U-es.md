@@ -28,10 +28,10 @@ En este momento está [OSRAM NIGHT BREAKER UNLIMITED H4  lámpara para faros hal
 
 🔎:
 
-- Desarrollada específicamente para el conductor preocupado por el rendimiento y con certificación ECE.
-- NIGHT BREAKER UNLIMITED de OSRAM: Luz óptima para tener más tiempo de reacción, de modo que los conductores puedan identificar claramente los obstáculos y los peligros antes.
-- Con luz hasta un 20 % más blanca (en comparación con las lámparas halógenas estándar): obtenga una conducción sin fatigas y relajada.
-- Un cono de luz con hasta 40 metros más de largo (en comparación con las lámparas halógenas estándar, según el tipo): obtenga una mayor visibilidad y tiempos de respuesta significativamente mejores.
 - Hasta un 110 % más de luz (en comparación con las lámparas estándar) en la carretera con el recubrimiento de anillo azul patentado, que ofrece una luz libre de deslumbramiento.
+- Un cono de luz con hasta 40 metros más de largo (en comparación con las lámparas halógenas estándar, según el tipo): obtenga una mayor visibilidad y tiempos de respuesta significativamente mejores.
+- Desarrollada específicamente para el conductor preocupado por el rendimiento y con certificación ECE.
+- Con luz hasta un 20 % más blanca (en comparación con las lámparas halógenas estándar): obtenga una conducción sin fatigas y relajada.
+- NIGHT BREAKER UNLIMITED de OSRAM: Luz óptima para tener más tiempo de reacción, de modo que los conductores puedan identificar claramente los obstáculos y los peligros antes.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00EPLCP3U/?tag=tolees-21)

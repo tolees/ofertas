@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sabrent 1TB Rocket NVMe PCIe M.2 2280 SS al 28.38 % de rebaja'
-date: 2021-02-01 08:19:54
+date: 2021-02-02 08:47:35
 image: 'https://m.media-amazon.com/images/I/41sSCev1mgL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sabrent'
 buyurl: 'https://www.amazon.es/dp/B07LGF54XR/?tag=tolees-21'
 descuento: '28.38'
-average: '136.565135135136'
+average: '136.392105263159'
 ---
 
 Tienes [Sabrent 1TB Rocket NVMe PCIe M.2 2280 SSD Interno Unidad de Estado sólido de Alto Rendimiento  SB-ROCKET-1TB ](https://www.amazon.es/dp/B07LGF54XR/?tag=tolees-21) con precio final de  129.99 EUR (original: 181.49 EUR) (28.38 %  de rebaja) aqui!
@@ -28,10 +28,10 @@ Tienes [Sabrent 1TB Rocket NVMe PCIe M.2 2280 SSD Interno Unidad de Estado sóli
 
 🔎:
 
-- Soporta los comandos SMART y TRIM. Admite las interfaces ONFi 2.3, ONFi 3.0, ONFi 3.2 y ONFi 4.0.
+- Todos los SSD Sabrent vienen con Sabrent Acronis True Image GRATIS para el software Sabrent para una fácil clonación. Para aquellos que requieren un tamaño de sector específico para clonar sus SSD existentes: una utilidad Sabrent recientemente lanzada permite a los usuarios volver a formatear la unidad Rocket y elegir el tamaño de sector de su agrado, ya sea 512 bytes o 4K bytes.
+- Cumple con PCIe 3.1 / Cumple con NVMe 1.3.
 - Interfaz M.2 PCIe Gen3 x 4.
 - Soporte de administración de energía para APST / ASPM / L1.2.
-- Cumple con PCIe 3.1 / Cumple con NVMe 1.3.
-- Todos los SSD Sabrent vienen con Sabrent Acronis True Image GRATIS para el software Sabrent para una fácil clonación. Para aquellos que requieren un tamaño de sector específico para clonar sus SSD existentes: una utilidad Sabrent recientemente lanzada permite a los usuarios volver a formatear la unidad Rocket y elegir el tamaño de sector de su agrado, ya sea 512 bytes o 4K bytes.
+- Soporta los comandos SMART y TRIM. Admite las interfaces ONFi 2.3, ONFi 3.0, ONFi 3.2 y ONFi 4.0.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07LGF54XR/?tag=tolees-21)
