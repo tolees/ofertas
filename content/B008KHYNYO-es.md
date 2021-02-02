@@ -28,10 +28,10 @@ En este momento está [Xiaomi Mi Sphere Camera Kit - Cámara Deportiva panorámi
 
 🔎:
 
-- Doble sensor de imagen sony de 1/2.3" sensibles a la luz hasta 1600w, fotografías hasta 23,88 megapíxeles reales con resolución de 6912 x 3456 (hasta 7k)
-- Wi-fi y bluetooth integrados para conexión con smartphone usando la apdedicada
-- Dos lentes de ojo de pez gran angular de 190° con apertura f2.0 + prisma reflectante que elimina puntos muertos; estabilizador electrónico de imagen de 6 ejes
 - Grabación de vídeo 3.5k (3456 x 1728) a 30 fps, 2304 x 1152 con 60fps; 2304 x 1152 con 30fps; captura fotos de alta resolución hasta 6912 x 3456 pixeles
+- Dos lentes de ojo de pez gran angular de 190° con apertura f2.0 + prisma reflectante que elimina puntos muertos; estabilizador electrónico de imagen de 6 ejes
+- Wi-fi y bluetooth integrados para conexión con smartphone usando la apdedicada
 - Resistencia ip67 al polvo y a salpicaduras, batería de 1600 mah integrada y quick charge 2.0 puede grabar hasta 90 minutos de video panorámico hd y hasta 200 fotos con wi-fi desactivado
+- Doble sensor de imagen sony de 1/2.3" sensibles a la luz hasta 1600w, fotografías hasta 23,88 megapíxeles reales con resolución de 6912 x 3456 (hasta 7k)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B008KHYNYO/?tag=tolees-21)
