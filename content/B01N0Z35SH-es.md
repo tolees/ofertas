@@ -28,10 +28,10 @@ Tienes [Sony MDR-RF895RK Auriculares Inalámbricos  Cancelación de Ruido  Trans
 
 ℹ️:
 
-- Charging time: Approx. 7 hours (full charge) for up to 20 hours of battery life
-- Noise cancellation system for clearer sound, 40mm driver provides wide frequency range
 - Automatic frequency search for high-quality transmission
 - Included in delivery: Cordless stereo headphones, RF stereo transmitter unit, power supply, stereo mini-cable 1.5m, nickel-metal hybrid battery
+- Noise cancellation system for clearer sound, 40mm driver provides wide frequency range
 - Wireless headphones for the home with a range of 100 meters
+- Charging time: Approx. 7 hours (full charge) for up to 20 hours of battery life
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01N0Z35SH/?tag=tolees-21)

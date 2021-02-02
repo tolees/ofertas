@@ -28,8 +28,8 @@ En este momento está [SALOMON Tech Lite  Zapatillas de Senderismo acuáticas Ho
 
 🔎:
 
-- Zapatillas de hiking montañismo, alpinismo y trekking hombre
 - Calzado salomon
+- Zapatillas de hiking montañismo, alpinismo y trekking hombre
 - Shoes tech lite quiet (l40985700)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07RJT8JQ3/?tag=tolees-21)

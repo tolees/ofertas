@@ -28,10 +28,10 @@ Ahora mismo tienes [Maybelline New York Color Show  Esmalte de Uñas Secado Ráp
 
 🔎:
 
-- Cepillo de aplicación rápida y fórmula de secado rápido de 60 segundos
-- Fórmula de base transparente con pigmentos que captan la luz para un mayor brillo en tus uñas
-- Esmalte de uñas de color intenso
 - Resistente a los golpes y al desgaste
+- Esmalte de uñas de color intenso
+- Fórmula de base transparente con pigmentos que captan la luz para un mayor brillo en tus uñas
+- Cepillo de aplicación rápida y fórmula de secado rápido de 60 segundos
 - No contiene formaldehído, DBP y tolueno
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01BBV2HGQ/?tag=tolees-21)

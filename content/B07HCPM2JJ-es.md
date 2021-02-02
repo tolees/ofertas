@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HyperX SAVAGE EXO SHSX100/480G - Unidad  al 37.03 % de descuento'
-date: 2021-01-23 02:46:28
+date: 2021-02-02 18:45:29
 image: 'https://m.media-amazon.com/images/I/21MQasRnnDL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,9 +16,10 @@ comparePrice: 188.99 EUR
 prodname: 'HyperX SAVAGE EXO SHSX100/480G - Unidad de estado sólido portátil  SSD '
 country: 'es'
 flag: '🇪🇸'
+brand: 'HyperX'
 buyurl: 'https://www.amazon.es/dp/B07HCPM2JJ/?tag=tolees-21'
 descuento: '37.03'
-average: '119.31'
+average: '119.2325'
 ---
 
 Ahora mismo tienes [HyperX SAVAGE EXO SHSX100/480G - Unidad de estado sólido portátil  SSD ](https://www.amazon.es/dp/B07HCPM2JJ/?tag=tolees-21) a 119.0 EUR (original: 188.99 EUR) (37.03 %  de descuento) en el siguiente enlace!
@@ -27,9 +28,9 @@ Ahora mismo tienes [HyperX SAVAGE EXO SHSX100/480G - Unidad de estado sólido po
 
 🔎:
 
-- Ligera, portátil y compacta
-- Conectividad sencilla para Windows y Mac
 - Velocidades de transferencia superrápidas
 - Compatible con XBOX One y PS4 con el USB 3.1 de 2ª generación
+- Ligera, portátil y compacta
+- Conectividad sencilla para Windows y Mac
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07HCPM2JJ/?tag=tolees-21)

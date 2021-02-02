@@ -29,7 +29,7 @@ Tienes [IMC Toys Peke Baby Marta  Propio 96325    color/modelo surtido](https://
 🔎:
 
 - Dice más de 100 palabras y frases
-- Interactúa con su sonajero lo oye y va hacía él
 - Se levanta, se agacha, se tira, se balancea, anda e incluso baila
+- Interactúa con su sonajero lo oye y va hacía él
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B06XY6C59K/?tag=tolees-21)

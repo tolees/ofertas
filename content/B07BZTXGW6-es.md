@@ -28,8 +28,8 @@ Está [HSHL - Batería de Litio CR2032 3V  botón electrónico de la célula de 
 
 ℹ️:
 
-- Uso: velas votivas, velas de té, reloj, computadora, calculadora, tarjetas IC, llave electrónica y otros productos eléctricos
 - Ligero, alto voltaje y alta densidad de energía
 - Batería de celda de botón de litio CR2032-larga vida de Barrery
+- Uso: velas votivas, velas de té, reloj, computadora, calculadora, tarjetas IC, llave electrónica y otros productos eléctricos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07BZTXGW6/?tag=tolees-21)
