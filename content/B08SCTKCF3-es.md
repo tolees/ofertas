@@ -28,10 +28,10 @@ En este momento está [ENERGY BALANCE Mascarilla FFP2 CE color Rosa Homologada C
 
 🔎:
 
-- Fabricación de 5 capas y acabado termosellado, incluyendo bandas elásticas de fijación a juego, pinza adaptable en nariz para un firme ajuste y ajustador craneal
-- Eficacia mínima de filtración ≥ 94%. Modelo desechable, no reutilizable.No contiene Látex
-- Catalogada como EPI (Equipo de Protección Individual) según la Norma Europea EN 149:2001+A1:2009 por organismo notificado nº. 2834, con marcado CE.
-- Contiene: 10u. de Mascarilla FFP2 Rosa + Ajustador Craneal , desechables, CE 2834
 - Mascarilla autofiltrante de protección y seguridad FFP2, disponible en variada gama de colores. Con doble protección, tanto para el portador de la mascarilla como para las personas del entorno
+- Contiene: 10u. de Mascarilla FFP2 Rosa + Ajustador Craneal , desechables, CE 2834
+- Catalogada como EPI (Equipo de Protección Individual) según la Norma Europea EN 149:2001+A1:2009 por organismo notificado nº. 2834, con marcado CE.
+- Eficacia mínima de filtración ≥ 94%. Modelo desechable, no reutilizable.No contiene Látex
+- Fabricación de 5 capas y acabado termosellado, incluyendo bandas elásticas de fijación a juego, pinza adaptable en nariz para un firme ajuste y ajustador craneal
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08SCTKCF3/?tag=tolees-21)

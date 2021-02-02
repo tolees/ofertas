@@ -28,9 +28,9 @@ Tienes [adidas Originals Superstar  Zapatillas Unisex Adulto  Negro  Core Black/
 
 ℹ️:
 
-- El regalo perfecto para el día de San Valentín
-- Zapatillas || Ajuste normal || Color intenso || Materiales de larga duración
-- Deportivas con las siguientes características:
 - Ajuste : Normal
+- Deportivas con las siguientes características:
+- Zapatillas || Ajuste normal || Color intenso || Materiales de larga duración
+- El regalo perfecto para el día de San Valentín
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00UBV5ZXK/?tag=tolees-21)
