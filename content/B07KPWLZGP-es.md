@@ -28,8 +28,8 @@ Ahora mismo tienes [adidas Lin Core Org Organizer  Unisex adulto  black/black/wh
 
 🔎:
 
-- Dimensions: 5 cm x 15 cm x 21 cm
 - Adjustable shoulder strap
+- Dimensions: 5 cm x 15 cm x 21 cm
 - Frontal pocket with zip closure
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07KPWLZGP/?tag=tolees-21)

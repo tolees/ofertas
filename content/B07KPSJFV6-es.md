@@ -28,10 +28,10 @@ Está [Funko - James Bond- Pop Movies: S2- Baron Samedi](https://www.amazon.es/d
 
 ℹ️:
 
-- Funko pop
-- Nº 691
-- Caja ilustrada con ventana
 - Colección james bond
 - Licencia oficial
+- Funko pop
+- Caja ilustrada con ventana
+- Nº 691
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07KPSJFV6/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 36.94 % en Russell Hobbs Cook@Home - Olla de Cocció'
-date: 2021-02-01 10:28:34
+date: 2021-02-02 11:45:26
 image: 'https://m.media-amazon.com/images/I/41VVOOlkTsL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Russell Hobbs'
 buyurl: 'https://www.amazon.es/dp/B019DWKF0A/?tag=tolees-21'
 descuento: '36.94'
-average: '31.2256'
+average: '31.0607407407407'
 ---
 
 Tienes [Russell Hobbs Cook@Home - Olla de Cocción Lenta  Cocina Lenta  Olla Baja Temperatura  Inox y Negro  3 5l  -ref. 22740-56](https://www.amazon.es/dp/B019DWKF0A/?tag=tolees-21) con un 36.94 % de descuento con precio de oferta de 29.0 EUR (original: 45.99 EUR) en el siguiente enlace!
@@ -29,9 +29,9 @@ Tienes [Russell Hobbs Cook@Home - Olla de Cocción Lenta  Cocina Lenta  Olla Baj
 ℹ️:
 
 - Dispone de 3 configuraciones de temperatura: alta, baja y para calentar
-- Tapa y cazuela extraíbles para facilitar la limpieza
 - Incluye una cazuela para sellar que se puede usar sobre un fogón eléctrico o de gas para dorar la carne; y tapa de cristal para ver los alimentos mientras se cocinan
 - Olla de cocción lenta con cuerpo de acero inoxidable y 3,5 litros de capacidad; tamaño familiar: hasta cuatro raciones de comida
+- Tapa y cazuela extraíbles para facilitar la limpieza
 - Incluye asas que no queman en el cuerpo principal, luz indicadora de encendido y pies antideslizantes
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B019DWKF0A/?tag=tolees-21)
