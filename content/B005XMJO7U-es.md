@@ -30,9 +30,9 @@ Ahora mismo tienes [DIM 04D62  Sujetador Para Mujer  Negro  Noir   100B](https:/
 
 - Composición del material: 60% poliamida, 26% poliéster, 14% elastano
 - Características: push-up
-- Cierre: corchete
-- Instrucciones de cuidado: lavado a máquina, 30 grados máximo
 - Producto adecuado para : mujer
 - Material exterior: sintético
+- Instrucciones de cuidado: lavado a máquina, 30 grados máximo
+- Cierre: corchete
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B005XMJO7U/?tag=tolees-21)
