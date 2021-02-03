@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'HUAWEI MateBook X Pro - Ordenador Portát al 28.95 % de rebaja'
-date: 2021-01-31 10:33:02
+title: 'HUAWEI MateBook X Pro - Ordenador Portát al 26.37 % de rebaja'
+date: 2021-02-03 07:01:22
 image: 'https://m.media-amazon.com/images/I/41xj+Vip93L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -9,31 +9,31 @@ author: ring
 slug: 'B088RYGQ4Q-es HUAWEI MateBook X Pro - Ordenador Portátil con pantalla...'
 sku: 'B088RYGQ4Q-es'
 tags: [  ]
-actualPrice: 1349.9 EUR
+actualPrice: 1399.0 EUR
 currency: EUR
-price: 1349.9
+price: 1399.0
 comparePrice: 1899.99 EUR
 prodname: 'HUAWEI MateBook X Pro - Ordenador Portátil con pantalla táctil de 13.9" 3K QHD  Intel Core i7-10510U  16GB RAM  1TB SSD  Nvidia GeForce MX250-2GB  Windows 10 Home   Gris - Teclado QWERTY Español'
 country: 'es'
 flag: '🇪🇸'
 brand: 'HUAWEI'
 buyurl: 'https://www.amazon.es/dp/B088RYGQ4Q/?tag=tolees-21'
-descuento: '28.95'
-average: '1406.34794117647'
+descuento: '26.37'
+average: '1405.93972222222'
 ---
 
-Tienes [HUAWEI MateBook X Pro - Ordenador Portátil con pantalla táctil de 13.9" 3K QHD  Intel Core i7-10510U  16GB RAM  1TB SSD  Nvidia GeForce MX250-2GB  Windows 10 Home   Gris - Teclado QWERTY Español](https://www.amazon.es/dp/B088RYGQ4Q/?tag=tolees-21) con precio final de  1349.9 EUR (original: 1899.99 EUR) (28.95 %  de rebaja) aqui!
+Tienes [HUAWEI MateBook X Pro - Ordenador Portátil con pantalla táctil de 13.9" 3K QHD  Intel Core i7-10510U  16GB RAM  1TB SSD  Nvidia GeForce MX250-2GB  Windows 10 Home   Gris - Teclado QWERTY Español](https://www.amazon.es/dp/B088RYGQ4Q/?tag=tolees-21) con precio final de  1399.0 EUR (original: 1899.99 EUR) (26.37 %  de rebaja) aqui!
 
 [![HUAWEI MateBook X Pro - Ordenador Portát](https://m.media-amazon.com/images/I/41xj+Vip93L._SL200_.jpg)](https://www.amazon.es/dp/B088RYGQ4Q/?tag=tolees-21)
 
 🔎:
 
-- Procesador Intel Core i7-10510U (4 núcleos, 8 MB cache, 1.8 GHz hasta 4.9 GHz).
 - Sistema Operativo: Windows 10 Home.
-- Memoria RAM de 16GB LPDDR3 2133MHz.
-- Pantalla táctil con relación pantalla-cuerpo del 91%, elegante cuerpo metálico con exquisito corte de diamante CNC y acabado de chorro de arena.
-- Pantalla de 13.9" 3K QHD, 3000 x 2000 píxeles, tecnología LTPS táctil.
 - Almacenamiento de 1TB NVMe PCIe SSD.
+- Memoria RAM de 16GB LPDDR3 2133MHz.
+- Procesador Intel Core i7-10510U (4 núcleos, 8 MB cache, 1.8 GHz hasta 4.9 GHz).
 - Tarjeta gráfica NVIDIA GeForce MX250-2GB GDDR5.
+- Pantalla de 13.9" 3K QHD, 3000 x 2000 píxeles, tecnología LTPS táctil.
+- Pantalla táctil con relación pantalla-cuerpo del 91%, elegante cuerpo metálico con exquisito corte de diamante CNC y acabado de chorro de arena.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B088RYGQ4Q/?tag=tolees-21)
