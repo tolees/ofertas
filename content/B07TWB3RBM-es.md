@@ -28,8 +28,8 @@ En este momento está [Levi s 711 Skinny Jeans Modello Aderente a Gamba Stretta 
 
 🔎:
 
-- Modelo ajustado en la cadera y los muslos
 - Diseño de cinco bolsillos
 - Con bragueta de botones
+- Modelo ajustado en la cadera y los muslos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07TWB3RBM/?tag=tolees-21)
