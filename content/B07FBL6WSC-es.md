@@ -28,10 +28,10 @@ Está [Samsung C34J791 - Monitor Curvo de 34"  UltraWide QHD  4 ms  100 Hz  Free
 
 ℹ️:
 
+- 2018 ces innovation award
+- Quantum dot, ratio de contraste 3000:1
+- 2 puertos thunderbolt 3
 - Monitor curvo 34 ultrapanorámico 21:9
 - Amd freesync, tasa de refresco 100 hz
-- 2 puertos thunderbolt 3
-- Quantum dot, ratio de contraste 3000:1
-- 2018 ces innovation award
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07FBL6WSC/?tag=tolees-21)
