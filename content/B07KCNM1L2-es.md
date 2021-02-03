@@ -28,9 +28,9 @@ Ahora mismo tienes [adidas T19 TRK JKT W Chaqueta de Deporte  Mujer  Power Red/W
 
 🔎:
 
-- Ventilación Climacool
-- Cierre de cremallera
-- Bolsillos frontales con cremallera
 - Manga larga con puños de canalé
+- Cierre de cremallera
+- Ventilación Climacool
+- Bolsillos frontales con cremallera
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07KCNM1L2/?tag=tolees-21)

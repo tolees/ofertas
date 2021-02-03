@@ -29,8 +29,8 @@ Tienes [BaByliss Pro Miracurl SteamTech BAB2665SE Rizador de pelo automático co
 ℹ️:
 
 - Motor electrónico con tecnología MaxlifePro: reduce las vibraciones, es silencioso y tiene una vida útil de más de 10.000 horas
+- Modo de hibernación tras 20 minutos y apagado automático tras 60 minutos
 - Tecnología cerámica: incorpora una cámara cerámica que respeta el cabello y crea rizos suaves
 - Incluye un generador de vapor de uso opcional que hidrata el cabello y aporta brillo
-- Modo de hibernación tras 20 minutos y apagado automático tras 60 minutos
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00T9QM0NQ/?tag=tolees-21)

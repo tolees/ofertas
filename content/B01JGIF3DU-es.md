@@ -29,10 +29,10 @@ En este momento está [Einhell Pack taladro percutor y 15 piezas de perforación
 🔎:
 
 - Unidad electrónica para regular el número de revoluciones
-- Tope de profundidad de perforación ajustable sin escalonamiento de metal macizo
 - Apropiado para la fijación en un soporte de perforación con cuello de sujeción de 43 mm
-- Gran zona de empuñadura antideslizante ergonómica para trabajo agradable
 - Función perforación / taladro de percusión
+- Tope de profundidad de perforación ajustable sin escalonamiento de metal macizo
+- Gran zona de empuñadura antideslizante ergonómica para trabajo agradable
 - Asidero adicional fijado de forma segura mediante nervadura
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01JGIF3DU/?tag=tolees-21)

@@ -28,9 +28,9 @@ Tienes [ORPHICA REALASH Acondicionador de pestañas  serum para crecimiento de p
 
 ℹ️:
 
-- CUIDADO COMPLETO DE PESTAÑAS: El producto garantiza una renovación rápida y regeneración de pestañas. Las alarga, fortalece e incrementa su volumen. El serum hace que se vuelven más fuertes, saludbles y nutridas.
 - RENDIMIENTO: El cosmético tiene una consistencia espesa y un aplicador cómodo por lo tanto no vas a desperdiciar ni una gota.
 - COMPOSICIÓN NATURAL: El acondicionador contiene los extractos naturales de la flor de linaza y maravilla, además el extracto de la cola de caballo que restaura, y de acorus con propiedades desinflamatorias. Esas sustancias cuidan la piel alrededor de los ojos.
+- CUIDADO COMPLETO DE PESTAÑAS: El producto garantiza una renovación rápida y regeneración de pestañas. Las alarga, fortalece e incrementa su volumen. El serum hace que se vuelven más fuertes, saludbles y nutridas.
 - PESTAÑAS FUERTES YLARGAS: el acondicionador REALSH fortalece y alarga las pestañas. Creado para las personas que sueñan con unas pestañas largas, fuertes y densas.
 - 5 MESES DE USO: El frasco de 4 ml rinde para 5 meses. La eficacia del acondicionador fue confirmada con análisis dermatológicas. El acondicionador REALASH no contiene hormonas.
 
