@@ -28,11 +28,11 @@ Tienes [Casio Reloj de Pulsera AE-2000W-1AVEF](https://www.amazon.es/dp/B0039UT5
 
 ℹ️:
 
-- Incluye luz LED, cronómetro, temporizadores, 5 alarmas diarias y calendario automático
-- La duración de la batería es de 10 años
 - Con función de hora universal e indicador de hora de 12/24 horas
-- Cristal mineral, duro y difícil de rayar, que protege el reloj de daños externos
-- Resistente al agua hasta 10 bar / 100 metros
+- Incluye luz LED, cronómetro, temporizadores, 5 alarmas diarias y calendario automático
 - Caja y correa de resina sintética, un material resistente y flexible
+- La duración de la batería es de 10 años
+- Resistente al agua hasta 10 bar / 100 metros
+- Cristal mineral, duro y difícil de rayar, que protege el reloj de daños externos
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0039UT5OU/?tag=tolees-21)

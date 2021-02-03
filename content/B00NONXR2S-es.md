@@ -28,9 +28,9 @@ Ahora mismo tienes [Tommy Hilfiger New Denton Belt 4.0 Cinturón  Marrón  DARK 
 
 🔎:
 
-- Hebilla de metal cepillado
+- Cuero puro
 - Cónicos a punta cuadrada
 - Tommy Hilfiger bandera en el cinturón
-- Cuero puro
+- Hebilla de metal cepillado
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00NONXR2S/?tag=tolees-21)

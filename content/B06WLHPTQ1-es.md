@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kärcher K2 Premium Full Control - Hidrol al 38.48 % de descuento'
-date: 2021-02-02 11:39:10
+date: 2021-02-03 13:08:33
 image: 'https://m.media-amazon.com/images/I/413cFRgyTqL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Kärcher'
 buyurl: 'https://www.amazon.es/dp/B06WLHPTQ1/?tag=tolees-21'
 descuento: '38.48'
-average: '86.6'
+average: '85.65'
 ---
 
 Está [Kärcher K2 Premium Full Control - Hidrolimpiadora de alta presión para exteriores 110 bar  1400 W  360 L/h  1.673-420.0 ](https://www.amazon.es/dp/B06WLHPTQ1/?tag=tolees-21) con 38.48 de descuento por 79.95 EUR (original: 129.95 EUR) en el siguiente enlace!

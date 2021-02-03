@@ -28,9 +28,9 @@ Está [Under Armour Speed Stride Graphic Camisa Manga Corta  Hombre  Negro  XL](
 
 ℹ️:
 
-- Dropped, shaped hem for enhanced coverage
-- Soft, ultra-lightweight fabric delivers superior breathability and amp; incredible comfort
-- Reflective details for low-light runs
 - Material wicks sweat and amp; dries really fast
+- Soft, ultra-lightweight fabric delivers superior breathability and amp; incredible comfort
+- Dropped, shaped hem for enhanced coverage
+- Reflective details for low-light runs
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07PR26XK6/?tag=tolees-21)
