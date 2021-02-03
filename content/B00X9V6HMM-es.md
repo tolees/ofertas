@@ -29,8 +29,8 @@ Está [Diadermine - Lift+ Protector solar crema de día - 50 ml](https://www.ama
 ℹ️:
 
 - Tecnología infrarrojos que neutraliza hasta un 98% los rayos uv
-- Combate las líneas expresión primeras arrugas
-- Crema arrugas
 - Crema hidratante y protectora de uso diario
+- Crema arrugas
+- Combate las líneas expresión primeras arrugas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00X9V6HMM/?tag=tolees-21)

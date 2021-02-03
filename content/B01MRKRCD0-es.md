@@ -28,8 +28,8 @@ Tienes [adidas Assita 17 Gk Camiseta  Hombre  Azul  Azul/Blanco   M](https://www
 
 ℹ️:
 
-- CLIMALITE Soft: tejido ligero y suave para una excelente humedad manement
-- Cuello redondo, puños elásticos.
 - Protectora codera
+- Cuello redondo, puños elásticos.
+- CLIMALITE Soft: tejido ligero y suave para una excelente humedad manement
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01MRKRCD0/?tag=tolees-21)

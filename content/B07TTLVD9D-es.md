@@ -29,7 +29,7 @@ Tienes [Merrell Vapor Glove 3 Luna LTR  Zapatillas Deportivas para Interior Homb
 🔎:
 
 - Vapor glove 3 (j5000925)
-- Zapatillas montañismo, alpinismo y trekking hombre
 - Calzado merrell
+- Zapatillas montañismo, alpinismo y trekking hombre
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07TTLVD9D/?tag=tolees-21)
