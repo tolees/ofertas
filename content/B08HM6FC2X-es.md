@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cecotec Robot de Cocina Multifunción Mam al 42.61 % de descuento'
-date: 2021-01-24 22:36:51
+date: 2021-02-03 10:15:23
 image: 'https://m.media-amazon.com/images/I/41hDYQwUr0L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,9 +16,10 @@ comparePrice: 399.0 EUR
 prodname: 'Cecotec Robot de Cocina Multifunción Mambo 8590  Cuchara MamboMix  30 Funciones  Báscula integrada  Jarra de Acero Inoxidable  Apta para lavavajillas  Capacidad 3 3l  Certillo para hervir  Recetario'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Cecotec'
 buyurl: 'https://www.amazon.es/dp/B08HM6FC2X/?tag=tolees-21'
 descuento: '42.61'
-average: '238.642857142857'
+average: '238.310344827586'
 ---
 
 Ahora mismo tienes [Cecotec Robot de Cocina Multifunción Mambo 8590  Cuchara MamboMix  30 Funciones  Báscula integrada  Jarra de Acero Inoxidable  Apta para lavavajillas  Capacidad 3 3l  Certillo para hervir  Recetario](https://www.amazon.es/dp/B08HM6FC2X/?tag=tolees-21) a 229.0 EUR (original: 399.0 EUR) (42.61 %  de descuento) en el siguiente enlace!

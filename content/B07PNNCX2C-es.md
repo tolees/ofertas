@@ -28,10 +28,10 @@ Ahora mismo tienes [SOUFEEL Reloj Analógico Personalizados con Foto con Pulsera
 
 🔎:
 
-- Debido al reloj personalizado se produce que nesecita 5-8 días, por favor pacientemente espera. Pero no se reocupe, tenemos que dar seguimiento su pedido. Si todavía tiene niniguna duda, bienvenida contactar conmigo, nuestro equipo de atanción al cliente le respondrá en un plazo de 24h.
 - Reloj de tipo analógico con 6mm movimiento de cuarzo de Japón, diseña simpremente, dentro de una relación de calidad precio respecto a competencia en el mercado de marcas más conocidas.
-- La colección Cambridge de SOUFEEL es parte de la línea clásica. El reloj elegante pero informal tiene una caja en dorado rosa de 36mm o 40mm y una correa de piel de vaca
-- El reloj es resistente al agua hasta 3 ATM. Resistente al contacto accidental con el agua, como salpicaduras, lluvia y tareas domésticas.
 - Este reloj es producto personalizado, en la esfera puede fabricar las images de querir, sólo producimos el úníco reloj para usted. Pega con varios estilos de ropa.
+- La colección Cambridge de SOUFEEL es parte de la línea clásica. El reloj elegante pero informal tiene una caja en dorado rosa de 36mm o 40mm y una correa de piel de vaca
+- Debido al reloj personalizado se produce que nesecita 5-8 días, por favor pacientemente espera. Pero no se reocupe, tenemos que dar seguimiento su pedido. Si todavía tiene niniguna duda, bienvenida contactar conmigo, nuestro equipo de atanción al cliente le respondrá en un plazo de 24h.
+- El reloj es resistente al agua hasta 3 ATM. Resistente al contacto accidental con el agua, como salpicaduras, lluvia y tareas domésticas.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07PNNCX2C/?tag=tolees-21)

@@ -1,0 +1,34 @@
+---
+layout: post
+title: 'New Balance Hombre 574v2-core Trainers Z al 30.57 % de rebaja'
+date: 2021-02-03 10:09:15
+image: 'https://m.media-amazon.com/images/I/41vmanq4rNL._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B06Y2Y9W9Y-es New Balance Hombre 574v2-core Trainers Zapatillas Rojo...'
+sku: 'B06Y2Y9W9Y-es'
+tags: [  ]
+actualPrice: 62.49 EUR
+currency: EUR
+price: 62.49
+comparePrice: 90.0 EUR
+prodname: 'New Balance Hombre 574v2-core Trainers Zapatillas  Rojo  Burgundy   37 EU'
+country: 'es'
+flag: '🇪🇸'
+brand: 'New Balance'
+buyurl: 'https://www.amazon.es/dp/B06Y2Y9W9Y/?tag=tolees-21'
+descuento: '30.57'
+average: '51.6433333333333'
+---
+
+Tienes [New Balance Hombre 574v2-core Trainers Zapatillas  Rojo  Burgundy   37 EU](https://www.amazon.es/dp/B06Y2Y9W9Y/?tag=tolees-21) con precio final de  62.49 EUR (original: 90.0 EUR) (30.57 %  de rebaja) aqui!
+
+[![New Balance Hombre 574v2-core Trainers Z](https://m.media-amazon.com/images/I/41vmanq4rNL._SL200_.jpg)](https://www.amazon.es/dp/B06Y2Y9W9Y/?tag=tolees-21)
+
+🔎:
+
+- Material exterior: Cuero
+- Revestimiento: Tela
+
+[🛒 Comprar!!!](https://www.amazon.es/dp/B06Y2Y9W9Y/?tag=tolees-21)
