@@ -29,7 +29,7 @@ Está [Vans Herren Left Chest Logo Tee T-Shirt  Schwarz  Black White Grey Melang
 ℹ️:
 
 - Camiseta de 185 g.
-- Corte entallado.
 - 100 % algodón.
+- Corte entallado.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07F31RHKS/?tag=tolees-21)
