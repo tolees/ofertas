@@ -28,7 +28,7 @@ Está [Emporio Armani Pendientes de mujer con acero inoxidable  cristal redondo]
 
 ℹ️:
 
-- Material: acero inoxidable
 - Se presenta en una caja regalo Emporio Armani con instrucciones de cuidado
+- Material: acero inoxidable
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06XCPYYSX/?tag=tolees-21)

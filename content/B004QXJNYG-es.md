@@ -29,9 +29,9 @@ Tienes [SEVERIN KM 3873 Molinillo de Café  Cono Triturador de Acero Inoxidable 
 🔎:
 
 - Resultado óptimo: Molienda aromática gracias al cono triturador, grado y cantidad de molienda ajustables por separado, número de tazas ajustable mediante el temporizador electrónico
-- Uso intuitivo: Interruptor grande, ajuste de la cantidad de molienda en número de tazas, recipiente extraíble para 100 g de café molido
 - Contenido: 1 SEVERIN Molinillo de café, KM 3873, dimensiones (LxAnxAl) 14.6 x 19.3 x 27.4 cm, capacidad 150 g, peso 1.8 kg, color blanco/plateado
-- Para un sabor fresco e intenso: Molinillo para moler cuidadosamente hasta 150 g de granos de café para filtros y espressos
+- Uso intuitivo: Interruptor grande, ajuste de la cantidad de molienda en número de tazas, recipiente extraíble para 100 g de café molido
 - Calidad alemana, cono triturador de acero inoxidable, fijación óptima gracias a los pies de goma, espacio guardacable
+- Para un sabor fresco e intenso: Molinillo para moler cuidadosamente hasta 150 g de granos de café para filtros y espressos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B004QXJNYG/?tag=tolees-21)
