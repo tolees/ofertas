@@ -29,9 +29,9 @@ En este momento está [Targus Balance Ecosmart 14"  Unisex Adulto  Monotone  43 
 🔎:
 
 - Diseño ergonómico certificado con características ajustables para distribuir la carga de manera uniforme y ayudar a reducir la fatiga. Panel trasero de malla de aire con diseño de flujo de aire que ayuda a mantenerte fresco demasiado.
+- Asas acolchadas en la parte superior y lateral que te permiten llevar el paquete como un maletín más correa para el carrito de equipaje.
 - Mochila para portátil ecológica hecha de botellas de agua recicladas*, sin níquel y PVC, además de cremalleras reciclables, perfecta para aquellos que buscan una opción sensible a la tierra.
 - Materiales resistentes a la intemperie.
 - Targus Safe Port Sling Plus System suspende el portátil dentro de una cuna de neopreno para estabilizar cuando está en movimiento y proteger contra caídas
-- Asas acolchadas en la parte superior y lateral que te permiten llevar el paquete como un maletín más correa para el carrito de equipaje.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07HL3NHW3/?tag=tolees-21)

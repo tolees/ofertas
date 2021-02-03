@@ -28,8 +28,8 @@ Ahora mismo tienes [Hurley M Blocked Pullover Fleece](https://www.amazon.es/dp/B
 
 🔎:
 
-- Serigrafiado O&O.
-- Corte Regular.
 - 60 % Algodón / 40 % Poliéster / 260 gsm.
+- Corte Regular.
+- Serigrafiado O&O.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08987MSBV/?tag=tolees-21)

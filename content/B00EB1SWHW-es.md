@@ -29,10 +29,10 @@ Está [Dolce Gusto Krups KP1208 - Cafetera de cápsulas Mini Me  15 bares de pre
 ℹ️:
 
 - Tamaño súper compacto de 16 x 31 x 24 cm y con mucho estilo con una avanzada tecnología capaz de preparar a la perfección más de 35 variedades de café y otras bebidas
-- Tan fácil como insertar una cápsula y seleccionar la dosificación de tu bebida con la función Play&Select que te permitirá crear el café a tu medida; tu Cafetera Mini Me se parará automáticamente en el momento adecuado
-- Cafetera automática de sistema de cápsulas de 15 bares de presión; capaz de hacer café de calidad profesional, caliente desde la primera taza gracias a su sistema Thermoblock
 - Disfruta de más de 30 creaciones de café de calidad desde el carácter de un Espresso Intenso Intenso o el cuerpo de un Lungo, hasta el espumoso Cappuccino; además del chocolate caliente o los tés aromáticos; ganadora de los premios Red Dot e iF Design en 2015 gracias a su diseño; su cable es rojo
+- Tan fácil como insertar una cápsula y seleccionar la dosificación de tu bebida con la función Play&Select que te permitirá crear el café a tu medida; tu Cafetera Mini Me se parará automáticamente en el momento adecuado
 - Incluye bandeja ajustable para todo tipo de bebidas lo que permite utilizar diversos tamaños de tazas o vasos para disfrutar de tu bebida
 - Cada cápsula de Dolce Gusto está diseñada para ajustar automáticamente la presión en función del tipo de bebida
+- Cafetera automática de sistema de cápsulas de 15 bares de presión; capaz de hacer café de calidad profesional, caliente desde la primera taza gracias a su sistema Thermoblock
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00EB1SWHW/?tag=tolees-21)

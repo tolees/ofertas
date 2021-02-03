@@ -28,10 +28,10 @@ Tienes [Fun Play - Play Fun Juego para Niños mayores de 5 años Special Mission
 
 🔎:
 
-- 36 robots diferentes i más de 100 misiones, emocionante y divertido
-- Sigue las pistas del agente especial para localizar el robot correcto
-- Una vez localizado, gira la carta y resuelve las misiones
-- Localiza y desactiva el robot correcto
 - Special Mission es un juego familiar basado en el mundo de los Súper Agentes
+- Localiza y desactiva el robot correcto
+- Sigue las pistas del agente especial para localizar el robot correcto
+- 36 robots diferentes i más de 100 misiones, emocionante y divertido
+- Una vez localizado, gira la carta y resuelve las misiones
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B089MQL4X4/?tag=tolees-21)
