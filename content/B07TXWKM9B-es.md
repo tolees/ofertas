@@ -28,8 +28,8 @@ Tienes [Kipling Money Love  Carteras para Mujer  Plateado  Metallic Glow   9.5x1
 
 🔎:
 
+- Para mujer
 - Classics
 - Cartera
-- Para mujer
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07TXWKM9B/?tag=tolees-21)

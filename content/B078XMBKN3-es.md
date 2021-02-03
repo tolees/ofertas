@@ -28,10 +28,10 @@ En este momento está [Babymoov A015026 - Lamparita](https://www.amazon.es/dp/B0
 
 🔎:
 
-- Temporizador integrado (30 minutos)
-- De silicona muy suave
 - Autonomía de más de 200h
-- Tecnología "Air Sensor" para encender, ajustar la intensidad y apagar la lamparita
 - Compacta
+- De silicona muy suave
+- Temporizador integrado (30 minutos)
+- Tecnología "Air Sensor" para encender, ajustar la intensidad y apagar la lamparita
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B078XMBKN3/?tag=tolees-21)

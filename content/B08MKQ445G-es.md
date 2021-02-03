@@ -28,10 +28,10 @@ Tienes [DURAGADGET Cable USB C a USB C  bañado en Oro. 75 cm Compatible con Por
 
 ℹ️:
 
-- Bañado en oro.
-- También sirve para cargar su dispositivo.
 - Cable USB C a USB C.
 - Longitud: 75 cm.
+- También sirve para cargar su dispositivo.
+- Bañado en oro.
 - Para trasnferir datos, imágenes, vídeos, todo tipo de archivos.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08MKQ445G/?tag=tolees-21)
