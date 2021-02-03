@@ -30,8 +30,8 @@ Ahora mismo tienes [Naliovker 100pzs / Juego Alfileres de amazuela Alfileres de 
 
 - Color: Color aleatorio (Nota: Color aleatorio, no acepte el color especificado)
 - Estilo: mariposa
-- Tipo: Alfileteros
-- steelfunction: coser pines patchwork
 - Condicion: 100% nuevo y de alta calidad.
+- steelfunction: coser pines patchwork
+- Tipo: Alfileteros
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07Y2WKRW2/?tag=tolees-21)

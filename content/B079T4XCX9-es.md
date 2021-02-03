@@ -1,25 +1,28 @@
 ---
 layout: post
-title: 'FILA Orbit  Zapatillas Hombre  Blanco  W al 30.21 % de rebaja'
-date: 2021-01-07 20:56:23
+title: 'FILA Orbit  Zapatillas Hombre  Blanco  W al 28.51 % de rebaja'
+date: 2021-02-03 18:33:39
 image: 'https://m.media-amazon.com/images/I/31wA49EpxiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079T4XCX9-es'
+slug: 'B079T4XCX9-es FILA Orbit Zapatillas Hombre Blanco White 44 EU'
+sku: 'B079T4XCX9-es'
+tags: [  ]
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95
-comparePrice: 35.75 EUR
+comparePrice: 34.9 EUR
 prodname: 'FILA Orbit  Zapatillas Hombre  Blanco  White   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Fila'
 buyurl: 'https://www.amazon.es/dp/B079T4XCX9/?tag=tolees-21'
-descuento: '30.21'
-average: '30.724999999999998'
+descuento: '28.51'
+average: '30.7349999999999'
 ---
 
-Tienes [FILA Orbit  Zapatillas Hombre  Blanco  White   44 EU](https://www.amazon.es/dp/B079T4XCX9/?tag=tolees-21) con precio final de  24.95 EUR (original: 35.75 EUR) (30.21 %  de rebaja) aqui!
+Tienes [FILA Orbit  Zapatillas Hombre  Blanco  White   44 EU](https://www.amazon.es/dp/B079T4XCX9/?tag=tolees-21) con precio final de  24.95 EUR (original: 34.9 EUR) (28.51 %  de rebaja) aqui!
 
 [![FILA Orbit  Zapatillas Hombre  Blanco  W](https://m.media-amazon.com/images/I/31wA49EpxiL._SL200_.jpg)](https://www.amazon.es/dp/B079T4XCX9/?tag=tolees-21)
 
@@ -27,4 +30,4 @@ Tienes [FILA Orbit  Zapatillas Hombre  Blanco  White   44 EU](https://www.amazon
 
 - Piel sintética
 
-[Comprar!!!](https://www.amazon.es/dp/B079T4XCX9/?tag=tolees-21)
+[🛒 Comprar!!!](https://www.amazon.es/dp/B079T4XCX9/?tag=tolees-21)
