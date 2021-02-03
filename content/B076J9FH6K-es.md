@@ -28,10 +28,10 @@ Está [adidas Trefoil T-Shirt T-Shirt  Hombre  Black  S](https://www.amazon.es/d
 
 ℹ️:
 
-- Tiene el corte regular y el cuello redondo acanalado
-- La composición del material es 95% algodón y 5% elastano
+- Viene con un logotipo de trébol en contraste como una impresión en el pecho
 - El tejido de algodón elástico y suave lo hace cómodo
 - Camiseta deportiva de manga corta que es adecuada a pasar el tiempo libre
-- Viene con un logotipo de trébol en contraste como una impresión en el pecho
+- Tiene el corte regular y el cuello redondo acanalado
+- La composición del material es 95% algodón y 5% elastano
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B076J9FH6K/?tag=tolees-21)

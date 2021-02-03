@@ -1,12 +1,14 @@
 ---
 layout: post
 title: 'Samsonite Hexa-Packs - Mochila para port al 50.00 % de descuento'
-date: 2021-01-18 20:16:30
+date: 2021-02-03 12:45:44
 image: 'https://m.media-amazon.com/images/I/31+J3cm9DVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N9KL7VF-es'
+slug: 'B07N9KL7VF-es Samsonite Hexa-Packs - Mochila para portátil Lila berenjena'
+sku: 'B07N9KL7VF-es'
+tags: [  ]
 actualPrice: 59.5 EUR
 currency: EUR
 price: 59.5
@@ -14,9 +16,10 @@ comparePrice: 119.0 EUR
 prodname: 'Samsonite Hexa-Packs - Mochila para portátil  Lila  berenjena '
 country: 'es'
 flag: '🇪🇸'
+brand: 'Samsonite'
 buyurl: 'https://www.amazon.es/dp/B07N9KL7VF/?tag=tolees-21'
 descuento: '50.00'
-average: '75.68727272727273'
+average: '73.196923076923'
 ---
 
 Ahora mismo tienes [Samsonite Hexa-Packs - Mochila para portátil  Lila  berenjena ](https://www.amazon.es/dp/B07N9KL7VF/?tag=tolees-21) a 59.5 EUR (original: 119.0 EUR) (50.00 %  de descuento) en el siguiente enlace!

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox D Nebula C  Zapatillas Mujer   Ches al 50.00 % de descuento'
-date: 2021-02-02 11:07:57
+date: 2021-02-03 11:42:39
 image: 'https://m.media-amazon.com/images/I/41EK7UYNKXL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,12 +28,12 @@ Ahora mismo tienes [Geox D Nebula C  Zapatillas Mujer   Chestnut C6004   39 EU](
 
 🔎:
 
-- Cierre: Sin cordones
+- Material exterior: Cuero
 - Altura del tacón: 4 centímetros
+- Material de la suela: EVA
+- Cierre: Sin cordones
+- Tipo de tacón: Plano
 - Revestimiento: Malla
 - Anchura del zapato: Normal
-- Material de la suela: EVA
-- Tipo de tacón: Plano
-- Material exterior: Cuero
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0792GGBH2/?tag=tolees-21)

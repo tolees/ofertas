@@ -28,10 +28,10 @@ Ahora mismo tienes [Martinelia Martinelia Bff Cof Glitter 30539 300 gr](https://
 
 🔎:
 
-- Proporciona una increíble duración 
-- Productos de gran calidad 
-- Siguiendo las últimas tendencias y novedades
 - Para el cuidado de la piel ideales para tu momento relax
+- Productos de gran calidad 
 - Se adaptan a tus necesidades
+- Siguiendo las últimas tendencias y novedades
+- Proporciona una increíble duración 
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08KXB7YSH/?tag=tolees-21)

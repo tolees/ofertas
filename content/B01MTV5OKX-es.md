@@ -28,8 +28,8 @@ Tienes [PUMA Basket Heart Patent Wn S  Zapatillas Mujer  Blanco White White  40 
 
 ℹ️:
 
+- Cierre: cordones
 - Tipo de tacón: plano
 - Material exterior: sintético
-- Cierre: cordones
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01MTV5OKX/?tag=tolees-21)

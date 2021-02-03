@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rii Mini i8 - Teclado ergonómico con tou al 27.16 % de descuento'
-date: 2021-02-01 19:00:07
+date: 2021-02-03 12:38:41
 image: 'https://m.media-amazon.com/images/I/51yDRVRgdWL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Rii'
 buyurl: 'https://www.amazon.es/dp/B00YDSSB6A/?tag=tolees-21'
 descuento: '27.16'
-average: '13.344375'
+average: '13.1588235294118'
 ---
 
 Está [Rii Mini i8 - Teclado ergonómico con touchpad  RF 2.4 GHz  USB   color negro](https://www.amazon.es/dp/B00YDSSB6A/?tag=tolees-21) con 27.16 de descuento por 10.19 EUR (original: 13.99 EUR) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [Rii Mini i8 - Teclado ergonómico con touchpad  RF 2.4 GHz  USB   color n
 
 ℹ️:
 
+- Este dispositivo es compatible con: PC, Smart TV
+- Indicadores LED de nivel de batería, señal y de carga
 - Batería de litio recargable con cable USB incluido
 - Receptor USB (Wireless RF 2.4 GHz) incluido
-- Indicadores LED de nivel de batería, señal y de carga
-- Este dispositivo es compatible con: PC, Smart TV
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00YDSSB6A/?tag=tolees-21)
