@@ -28,11 +28,11 @@ En este momento está [Columbia Youth Firecamp Mid 2  Zapatillas Impermeables  N
 
 🔎:
 
+- Tipo de tacón: Plano
+- Material exterior: Tela
+- Material de la suela: Goma
 - Revestimiento: Tela
 - Anchura del zapato: Regular
-- Material de la suela: Goma
-- Material exterior: Tela
-- Tipo de tacón: Plano
 - Cierre: Cordones rápidos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07JL8XPVT/?tag=tolees-21)
