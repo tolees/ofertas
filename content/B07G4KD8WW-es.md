@@ -1,30 +1,30 @@
 ---
 layout: post
-title: 'Razer Kraken Tournament Edition Auricula con un 35.00 % de descuento'
-date: 2021-01-30 11:44:36
+title: 'Razer Kraken Tournament Edition Esports  con un 35.00 % de descuento'
+date: 2021-02-02 23:24:24
 image: 'https://m.media-amazon.com/images/I/3148MC1CzuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G4KD8WW-es Razer Kraken Tournament Edition Auriculares Gaming con...'
+slug: 'B07G4KD8WW-es Razer Kraken Tournament Edition Esports Gaming Headset...'
 sku: 'B07G4KD8WW-es'
 tags: [  ]
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99
 comparePrice: 99.99 EUR
-prodname: 'Razer Kraken Tournament Edition Auriculares Gaming  con Cable  Control de Audio y THX Spatial Audio  Alámbrico  Negro'
+prodname: 'Razer Kraken Tournament Edition Esports Gaming Headset auriculares para juegos con cable con controlador de audio USB  audio espacial THX  controlador de 50 mm  compatibilidad multiplataforma  Negro'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Razer'
 buyurl: 'https://www.amazon.es/dp/B07G4KD8WW/?tag=tolees-21'
 descuento: '35.00'
-average: '66.1612765957447'
+average: '66.1134693877551'
 ---
 
-En este momento está [Razer Kraken Tournament Edition Auriculares Gaming  con Cable  Control de Audio y THX Spatial Audio  Alámbrico  Negro](https://www.amazon.es/dp/B07G4KD8WW/?tag=tolees-21) a 64.99 EUR (original: 99.99 EUR) (35.00 %  de descuento) en el siguiente enlace!
+En este momento está [Razer Kraken Tournament Edition Esports Gaming Headset auriculares para juegos con cable con controlador de audio USB  audio espacial THX  controlador de 50 mm  compatibilidad multiplataforma  Negro](https://www.amazon.es/dp/B07G4KD8WW/?tag=tolees-21) a 64.99 EUR (original: 99.99 EUR) (35.00 %  de descuento) en el siguiente enlace!
 
-[![Razer Kraken Tournament Edition Auricula](https://m.media-amazon.com/images/I/3148MC1CzuL._SL200_.jpg)](https://www.amazon.es/dp/B07G4KD8WW/?tag=tolees-21)
+[![Razer Kraken Tournament Edition Esports ](https://m.media-amazon.com/images/I/3148MC1CzuL._SL200_.jpg)](https://www.amazon.es/dp/B07G4KD8WW/?tag=tolees-21)
 
 🔎:
 

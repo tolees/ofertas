@@ -29,13 +29,13 @@ Tienes [Detector de billetes falsos Detectalia D7X con 100% detección y listo p
 ℹ️:
 
 - Salida delantera o trasera
-- Puertos de actualizaciones para actualizar divisas (usb & microsd); actualizaciones gratis
-- 100% fiable en test oficial del banco central europeo
-- Detectalia es una empresa española internacional con sede central en alicante que presta servicio técnico directo en toda españa
-- Detecta automáticamente hasta 5 divisas; eur (euros, todos lo billetes viejos y nuevos), gbp (libras esterlinas inglesas incluidas las nuevas incluidos las nuevas 10 y 20), chf (francos suizos incluidos los nuevos chf1000), pln (zlotys polacos) y huf (florines húngaros)
 - 7 sistemas de deteccion y velocidad de 0,4 segundos por billete
-- Instalado en todas las tiendas del grupo inditex (zara, pull&bear, massimo dutti, bershka, stradivarius, oysho, zara home, uterqüe)
-- La batería de litio recargable es opcional (detectalia b1); sí lleva incluido el enchufe a red eléctrica
 - Ya incorpora de fábrica software compatible con los nuevos billetes de 100€ y 200€, es decir, con cualquier billete € de la primera y segunda serie
+- Instalado en todas las tiendas del grupo inditex (zara, pull&bear, massimo dutti, bershka, stradivarius, oysho, zara home, uterqüe)
+- Detectalia es una empresa española internacional con sede central en alicante que presta servicio técnico directo en toda españa
+- La batería de litio recargable es opcional (detectalia b1); sí lleva incluido el enchufe a red eléctrica
+- Detecta automáticamente hasta 5 divisas; eur (euros, todos lo billetes viejos y nuevos), gbp (libras esterlinas inglesas incluidas las nuevas incluidos las nuevas 10 y 20), chf (francos suizos incluidos los nuevos chf1000), pln (zlotys polacos) y huf (florines húngaros)
+- 100% fiable en test oficial del banco central europeo
+- Puertos de actualizaciones para actualizar divisas (usb & microsd); actualizaciones gratis
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00FLNJHYQ/?tag=tolees-21)
