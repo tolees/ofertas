@@ -28,9 +28,9 @@ Tienes [Vans Authentic  Zapatillas de Tela Unisex  Rojo  Red   36.5 EU](https://
 
 🔎:
 
-- Adecuado para: unisex (adultos)
 - Material de la suela: goma
 - Cierre: cordones
+- Adecuado para: unisex (adultos)
 - La estación ideal: para todas las estaciones
 - Material exterior: lona
 
