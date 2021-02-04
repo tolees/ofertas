@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Columbia Powder Lite Jacket Chaqueta  Ho con un 32.09 % de descuento'
-date: 2021-02-03 03:00:23
+date: 2021-02-04 03:34:47
 image: 'https://m.media-amazon.com/images/I/419H-wlpmML._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Columbia'
 buyurl: 'https://www.amazon.es/dp/B07JW4CMW3/?tag=tolees-21'
 descuento: '32.09'
-average: '68.8013846153845'
+average: '68.7744776119402'
 ---
 
 En este momento está [Columbia Powder Lite Jacket Chaqueta  Hombre  Negro  Black   M](https://www.amazon.es/dp/B07JW4CMW3/?tag=tolees-21) a 67.9 EUR (original: 99.99 EUR) (32.09 %  de descuento) en el siguiente enlace!
