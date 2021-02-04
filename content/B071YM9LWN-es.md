@@ -28,10 +28,10 @@ Tienes [Rimmel London Stay Matte Liquid Lip Colour Labial Líquido Tono 110 - 5.
 
 🔎:
 
-- Color intenso, mate, y semipermanente
-- A prueba de besos y roces
-- Fórmula con aceite de coco y vitamina E para proteger los labios
 - Contiene polímeros seleccionado para la adherencia óptima de la piel
+- A prueba de besos y roces
 - Alto contenido en pigmentos para un mayor acabado mate aterciopelado
+- Color intenso, mate, y semipermanente
+- Fórmula con aceite de coco y vitamina E para proteger los labios
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B071YM9LWN/?tag=tolees-21)

@@ -28,10 +28,10 @@ Ahora mismo tienes [Rimmel London Stay Satin Liquid Lip Colour Barra De Labios T
 
 🔎:
 
-- Hasta 8 horas de duración
-- Colores de alta intensidad
-- Labial líquido acabado satinado
 - Aplicación ultra precisa gracias a su pincel
+- Labial líquido acabado satinado
 - Fórmula ligera no pegajosa
+- Colores de alta intensidad
+- Hasta 8 horas de duración
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SSTJXNW/?tag=tolees-21)

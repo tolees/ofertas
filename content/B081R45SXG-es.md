@@ -28,10 +28,10 @@ Tienes [ESR Luz TIK Tok 10" LED Anillo de Luz  Aro de Luz con Trípode y Soporte
 
 ℹ️:
 
-- [GARANTÍA DE SATISFACCIÓN] No estaremos satisfechos hasta tú no lo estés completamente. Todos nuestros productos están respaldados con el soporte que te mereces.
-- [ILUMINA TU VIDA] 3 colores de luz y 10 niveles de brillo. Perfecto para maquillaje, directos, blogs, fotografía…
 - [TRÍPODE AJUSTABLE] El soporte es ajustable de 43 cm a 135 cm, apto para usar sobre el escritorio o en el suelo.
-- [SOPORTE ROTATORIO] El soporte para teléfono es ajustable. Encuentra el ángulo más adecuado para cada ocasión. Compatible con casi todos los smartphones.
+- [ILUMINA TU VIDA] 3 colores de luz y 10 niveles de brillo. Perfecto para maquillaje, directos, blogs, fotografía…
 - [ALIMENTADO POR USB] Puede usarse casi con cualquier dispositivo con puerto USB [Portátiles, cargadores, baterías portátiles…] Es muy intuitivo, podrás configurarlo perfectamente en segundos.
+- [SOPORTE ROTATORIO] El soporte para teléfono es ajustable. Encuentra el ángulo más adecuado para cada ocasión. Compatible con casi todos los smartphones.
+- [GARANTÍA DE SATISFACCIÓN] No estaremos satisfechos hasta tú no lo estés completamente. Todos nuestros productos están respaldados con el soporte que te mereces.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B081R45SXG/?tag=tolees-21)

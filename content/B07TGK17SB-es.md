@@ -28,10 +28,10 @@ Ahora mismo tienes [PUMA FIGC Stadium Home Jersey Camiseta  Hombre  Team Power B
 
 🔎:
 
-- Corte recto
-- Cuello redondo
-- dryCELL: tecnología de PUMA con propiedades que alejan la humedad de la piel y te ayudan a mantenerte seco y cómodo
-- Manga corta
 - Escudo de la FIGC de Italia en la parte izquierda del pecho
+- dryCELL: tecnología de PUMA con propiedades que alejan la humedad de la piel y te ayudan a mantenerte seco y cómodo
+- Cuello redondo
+- Corte recto
+- Manga corta
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07TGK17SB/?tag=tolees-21)

@@ -28,10 +28,10 @@ En este momento está [Essie Esmalte de Uñas  Tono: 037 Lilacism](https://www.a
 
 🔎:
 
-- Su pincel se adapta a los contornos de la uña para un acabado uniforme y sin marca de agua
 - Los colores favoritos de las mujeres, celebrities, revistas de moda y belleza a nivel internacional
+- Su pincel se adapta a los contornos de la uña para un acabado uniforme y sin marca de agua
+- Los esmaltes Essie son una referencia para los profesionales de la belleza y los expertos de la industria
 - Esmaltes de uñas adecuados para cualquier ocasión
 - Consigue una manicura óptima aplicando una base sobre una uña limpia y seca antes de aplicar dos capas de tu color Essie favorito y una capa de top coat
-- Los esmaltes Essie son una referencia para los profesionales de la belleza y los expertos de la industria
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B008HCEWSY/?tag=tolees-21)

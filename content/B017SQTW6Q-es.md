@@ -1,12 +1,13 @@
 ---
 layout: post
 title: 'Salomon Speedcross 4 GTX  Zapatillas de  al 29.98 % de descuento'
-date: 2021-01-20 18:13:54
+date: 2021-02-04 19:56:22
 image: 'https://m.media-amazon.com/images/I/41rhsTjg+hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B017SQTW6Q-es Salomon Speedcross 4 GTX Zapatillas de Trail Running Mujer...'
+sku: 'B017SQTW6Q-es'
 tags: [  ]
 actualPrice: 104.99 EUR
 currency: EUR
@@ -15,9 +16,10 @@ comparePrice: 149.95 EUR
 prodname: 'Salomon Speedcross 4 GTX  Zapatillas de Trail Running Mujer  Negro  Black   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: 'SALOMON'
 buyurl: 'https://www.amazon.es/dp/B017SQTW6Q/?tag=tolees-21'
 descuento: '29.98'
-average: '100.75903225806451'
+average: '101.015454545455'
 ---
 
 Está [Salomon Speedcross 4 GTX  Zapatillas de Trail Running Mujer  Negro  Black   36 EU](https://www.amazon.es/dp/B017SQTW6Q/?tag=tolees-21) con 29.98 de descuento por 104.99 EUR (original: 149.95 EUR) en el siguiente enlace!

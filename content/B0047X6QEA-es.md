@@ -28,9 +28,9 @@ Está [Rimmel London Lasting Finish Barra De Labios Tono 077 Asia - 18 gr](https
 
 ℹ️:
 
-- Fórmula suave y cremosa para un uso cómodo durante todo el día
-- Color intenso hasta 8 horas
 - Colores intensos que llaman la atención
+- Color intenso hasta 8 horas
+- Fórmula suave y cremosa para un uso cómodo durante todo el día
 - Color duradero y labio sedoso
 - Tecnología Color Protect para proteger el color
 

@@ -28,10 +28,10 @@ Tienes [PINPOXE - Base Líquida  Base de Maquillaje  Hidratante Líquido Base  B
 
 ℹ️:
 
+- Corrector alto: oculta los poros, las marcas de acné, las manchas oscuras, las imperfecciones, la hiperpigmentación, la sangre roja, etc. para obtener un día perfecto
 - Protección interna: esta imprimación contiene protección solar SPF 15 para proteger su piel de los dañinos rayos UVA y UVB. Está diseñado para el uso diario y le da a su piel un acabado sedoso y brillante.
+- Textura ligera: incluso cuando el clima es cálido y húmedo, mantenga la piel clara e impecable. Adecuado para todo tipo de pieles grasas, secas, combinadas o normales.
 - Control de aceite duradero: resistente al agua y al sudor, el maquillaje sigue siendo hermoso desde la mañana hasta la noche. Está diseñado para el uso diario y le da a su piel un acabado sedoso y brillante.
 - Hidratante: contiene muchos ingredientes hidratantes para mantener la piel hidratada, radiante y elástica.
-- Textura ligera: incluso cuando el clima es cálido y húmedo, mantenga la piel clara e impecable. Adecuado para todo tipo de pieles grasas, secas, combinadas o normales.
-- Corrector alto: oculta los poros, las marcas de acné, las manchas oscuras, las imperfecciones, la hiperpigmentación, la sangre roja, etc. para obtener un día perfecto
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B085ZFLSLB/?tag=tolees-21)

@@ -28,10 +28,10 @@ Está [Max Factor Facefinity 3 en 1 All Day Flawless Base de Maquillaje  Tono 87
 
 ℹ️:
 
-- El corrector elimina los brillos
 - Libre de aceites con factor de protección SPF 20
-- Cobertura media-alta, acabado mate
+- El corrector elimina los brillos
 - Maquillaje 3 en 1: Primer, base y corrector
+- Cobertura media-alta, acabado mate
 - Con primer incorporado, proporciona una base uniforme y lisa
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07TP9N2B6/?tag=tolees-21)

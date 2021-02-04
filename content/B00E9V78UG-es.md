@@ -28,11 +28,11 @@ En este momento está [Samyang F1120709101 - Objetivo fotográfico DSLR para Mic
 
 🔎:
 
-- Montura para Micro Cuatro Tercios
+- Con revestimiento UMC anti-reflectante
+- Compatible con filtros de 77mm
 - Ultra gran angular para cámaras réflex digitales y compactas sin espejo con sensor APS-C
 - Enfoque manual
-- Compatible con filtros de 77mm
+- Montura para Micro Cuatro Tercios
 - Incluye parasol extraíble
-- Con revestimiento UMC anti-reflectante
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00E9V78UG/?tag=tolees-21)

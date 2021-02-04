@@ -28,10 +28,10 @@ Tienes [Rimmel London Match Perfection Foundation Base de Maquillaje Tono 603 Ch
 
 ℹ️:
 
-- Complejo hidratante con SPF 20
 - Acabado sin brillos y natural, cobertura media
 - Aplica la base de maquillaje con los dedos o una brocha des del centro hasta el exterior para mezclarla con el tono de tu piel
-- Hidrata y oculta las imperfecciones, poros y ojeras
 - Indicado para piel seca o mixta
+- Hidrata y oculta las imperfecciones, poros y ojeras
+- Complejo hidratante con SPF 20
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B079L5JSMM/?tag=tolees-21)
