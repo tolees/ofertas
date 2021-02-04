@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samyang F1120709101 - Objetivo fotográfi con un 33.11 % de descuento'
-date: 2021-02-03 17:41:31
+date: 2021-02-04 18:22:17
 image: 'https://m.media-amazon.com/images/I/41YIwniYd2L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ En este momento está [Samyang F1120709101 - Objetivo fotográfico DSLR para Mic
 
 🔎:
 
-- Con revestimiento UMC anti-reflectante
-- Compatible con filtros de 77mm
-- Ultra gran angular para cámaras réflex digitales y compactas sin espejo con sensor APS-C
-- Incluye parasol extraíble
 - Montura para Micro Cuatro Tercios
+- Ultra gran angular para cámaras réflex digitales y compactas sin espejo con sensor APS-C
 - Enfoque manual
+- Compatible con filtros de 77mm
+- Incluye parasol extraíble
+- Con revestimiento UMC anti-reflectante
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00E9V78UG/?tag=tolees-21)
