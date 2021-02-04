@@ -28,10 +28,10 @@ Ahora mismo tienes [Bourjois EyeCatching Palette Sombra de ojos Tono 003 Nude  G
 
 🔎:
 
-- Contiene 8 tonos luminosos, intenso y modernos
 - Incluye un espejo giratorio para retoques rápidos sobre la marcha
-- Contiene un aplicador de doble punta: una suave para combinar las combras y otra precisa para delinear o definir
 - Su fórmula contiene primer para proporcionar hasta 12 horas de duración
+- Contiene un aplicador de doble punta: una suave para combinar las combras y otra precisa para delinear o definir
+- Contiene 8 tonos luminosos, intenso y modernos
 - Paleta de 8 sombras para crear un ahumado perfecto
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07H8Y12JV/?tag=tolees-21)

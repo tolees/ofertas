@@ -28,10 +28,10 @@ Tienes [Yale YSV/250/DB1 Caja Fuerte Básica  Multicolor  Mediana 250 x 350 x 25
 
 ℹ️:
 
+- Tipo de cierre: electrónico con código pin de 3 a 8 dígitos y llave de emergencia; se entregan con 2 llaves de emergencia
+- Teclado digital de fácil programación y programable con más de 100.000 combinaciones
 - Grosor de puerta 4 mm y grosor de pared 2, 5 mm. 2 bulones de 16 mm; de diámetro y construcción en acero
 - Dimensiones exteriores: 250x350x250 mm; dimensiones interiores: 240x340x2000 mm; peso: 7, 8 kg; volumen 16, 3 litros
-- Teclado digital de fácil programación y programable con más de 100.000 combinaciones
-- Tipo de cierre: electrónico con código pin de 3 a 8 dígitos y llave de emergencia; se entregan con 2 llaves de emergencia
 - Indicadores led de apertura, error y batería baja
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B006XBT25E/?tag=tolees-21)

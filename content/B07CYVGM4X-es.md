@@ -28,9 +28,9 @@ Tienes [Skechers Flex Appeal 3.0-Insiders  Zapatillas  Multicolor  BKLB Black & 
 
 🔎:
 
-- Flex Apelación 3.0 Iniciados
-- Lona
-- Bajo-Top
 - De Las Mujeres
+- Bajo-Top
+- Lona
+- Flex Apelación 3.0 Iniciados
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07CYVGM4X/?tag=tolees-21)
