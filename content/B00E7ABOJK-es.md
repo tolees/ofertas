@@ -28,9 +28,9 @@ Ahora mismo tienes [Passport 70Cl. Scotch Whisky - Whisky Blended Scotch Passpor
 
 🔎:
 
-- Contenido de alcohol: 40% alcohol
-- Tiene un comienzo suave y aterciopelado
 - Ofrece un final afrutado y cremoso
+- Tiene un comienzo suave y aterciopelado
 - Una frescura mentolada
+- Contenido de alcohol: 40% alcohol
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00E7ABOJK/?tag=tolees-21)

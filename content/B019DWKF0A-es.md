@@ -29,9 +29,9 @@ Tienes [Russell Hobbs Cook@Home - Olla de Cocción Lenta  Cocina Lenta  Olla Baj
 ℹ️:
 
 - Incluye asas que no queman en el cuerpo principal, luz indicadora de encendido y pies antideslizantes
-- Tapa y cazuela extraíbles para facilitar la limpieza
-- Dispone de 3 configuraciones de temperatura: alta, baja y para calentar
-- Olla de cocción lenta con cuerpo de acero inoxidable y 3,5 litros de capacidad; tamaño familiar: hasta cuatro raciones de comida
 - Incluye una cazuela para sellar que se puede usar sobre un fogón eléctrico o de gas para dorar la carne; y tapa de cristal para ver los alimentos mientras se cocinan
+- Dispone de 3 configuraciones de temperatura: alta, baja y para calentar
+- Tapa y cazuela extraíbles para facilitar la limpieza
+- Olla de cocción lenta con cuerpo de acero inoxidable y 3,5 litros de capacidad; tamaño familiar: hasta cuatro raciones de comida
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B019DWKF0A/?tag=tolees-21)
