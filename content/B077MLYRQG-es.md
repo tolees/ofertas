@@ -28,7 +28,7 @@ Ahora mismo tienes [PUMA Smash V2 L  Zapatillas Unisex Adulto  Blanco White Whit
 
 🔎:
 
-- Soft suede or leather upper
 - Smash sneakers
+- Soft suede or leather upper
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B077MLYRQG/?tag=tolees-21)

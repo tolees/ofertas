@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 28.28 % en Tommy Hilfiger Business CC and Coin  Pro'
-date: 2021-02-03 11:31:50
+date: 2021-02-04 12:19:52
 image: 'https://m.media-amazon.com/images/I/51PmVDzfK6L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,6 +28,6 @@ Tienes [Tommy Hilfiger Business CC and Coin  Productos de cuero pequeños para H
 
 ℹ️:
 
-- 100% Leather
+- 100 % piel
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0845FBGVK/?tag=tolees-21)

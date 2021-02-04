@@ -28,11 +28,11 @@ Está [Nespresso De Longhi Lattissima One EN500W-Cafetera monodosis de cápsulas
 
 ℹ️:
 
-- Sensor para detectar la cantidad de leche y aprovechar hasta la última gota
-- Máquina compacta, de diseño exclusivo
-- Tres soluciones de café (Espresso, cappuccino y lungo)
-- Bandeja antigotas deslizable para diferentes tamaños de taza
 - Incluye 14 cápsulas y 20€ de crédito en café
+- Bandeja antigotas deslizable para diferentes tamaños de taza
+- Sensor para detectar la cantidad de leche y aprovechar hasta la última gota
+- Tres soluciones de café (Espresso, cappuccino y lungo)
+- Máquina compacta, de diseño exclusivo
 - Intuitivo panel de control táctil con posibilidad de personalizar bebidas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B074ZFF31Y/?tag=tolees-21)

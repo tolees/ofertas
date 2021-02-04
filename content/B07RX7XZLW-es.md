@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fox - Juego De Tronos Temporada 8 Premiu al 30.00 % de descuento'
-date: 2021-01-24 04:05:57
+date: 2021-02-04 12:00:41
 image: 'https://m.media-amazon.com/images/I/51p8h0Ak9LL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,9 +16,10 @@ comparePrice: 40.97 EUR
 prodname: 'Fox - Juego De Tronos Temporada 8 Premium [DVD]'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Fox'
 buyurl: 'https://www.amazon.es/dp/B07RX7XZLW/?tag=tolees-21'
 descuento: '30.00'
-average: '26.92'
+average: '26.975873015873'
 ---
 
 Ahora mismo tienes [Fox - Juego De Tronos Temporada 8 Premium [DVD]](https://www.amazon.es/dp/B07RX7XZLW/?tag=tolees-21) a 28.68 EUR (original: 40.97 EUR) (30.00 %  de descuento) en el siguiente enlace!

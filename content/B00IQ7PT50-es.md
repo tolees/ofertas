@@ -28,10 +28,10 @@ Tienes [Manfrotto MT055XPRO3 - Patas para trípodes  aluminio  sólo patas  Negr
 
 ℹ️:
 
-- MÁXIMA PRECISIÓN: el selector del ángulo de las patas permite ajustarlas con precisión y el nivel de burbuja incorporado sirve para hacer tomas perfectas
-- SEGURO: gracias al sistema de bloqueo Quick Lock, que abre las patas del trípode con un solo movimiento y controla cada sección, el kit garantiza una estabilidad extrema para tu cámara
-- COMPATIBLE: la parte superior está equipada con un conector Easy Link compatible con varios accesorios de la cámara, como luces LED, flashes, reflectores o con un brazo extensible
 - COMPACTO Y DURABLE: debido a que es ligero y compacto, es la elección perfecta para los viajeros. El cuerpo de magnesio también asegura una extrema robustez y durabilidad
+- MÁXIMA PRECISIÓN: el selector del ángulo de las patas permite ajustarlas con precisión y el nivel de burbuja incorporado sirve para hacer tomas perfectas
+- COMPATIBLE: la parte superior está equipada con un conector Easy Link compatible con varios accesorios de la cámara, como luces LED, flashes, reflectores o con un brazo extensible
 - VERSÁTIL: gracias a la columna de 90° el trípode puede cambiarse de una orientación vertical a horizontal sin necesidad de quitar la cámara
+- SEGURO: gracias al sistema de bloqueo Quick Lock, que abre las patas del trípode con un solo movimiento y controla cada sección, el kit garantiza una estabilidad extrema para tu cámara
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00IQ7PT50/?tag=tolees-21)

@@ -28,9 +28,9 @@ Tienes [BAUSCH + LOMB - SofLens® 59 - Lentes de contacto de reemplazo mensual -
 
 🔎:
 
+- Cada vez que las use, deberá limpiarlas, aclararlas y desinfectarlas antes de volver a ponérselas.
 - Diseñadas para uso diario o prolongado de 1 a 7 días según las recomendaciones del profesional de la visión.
 - Siga siempre las recomendaciones de uso y reemplazo proporcionadas por su profesional de la visión.
-- Cada vez que las use, deberá limpiarlas, aclararlas y desinfectarlas antes de volver a ponérselas.
 - Para miopía o hipermetropía.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B004LHIMDU/?tag=tolees-21)

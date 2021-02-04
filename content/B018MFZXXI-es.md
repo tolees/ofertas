@@ -28,10 +28,10 @@ En este momento está [T nB Miny Ratón Óptico Inalámbrico Azul  Ultra Compact
 
 🔎:
 
+- Instalación muy sencilla, simplemente conecta el receptor por radio frecuencia al puerto usb y detecta automáticamente el periférico
+- Ratón inalámbrico compacto, diseñado específicamente para ordenadores portátiles pero compatible con cualquier tipo de dispositivo
 - Tecnología óptica de detección de movimientos con una sensibilidad de 1000 dpis
 - Cursor preciso y sensible en casi cualquier tipo de superficie sin necesidad de alfombrilla
 - Fácil de transportar gracias a su pequeño tamaño; además cuenta con un micro receptor usb que sobresale ligeramente del ordenador portátil, cabe en todas las fundas
-- Instalación muy sencilla, simplemente conecta el receptor por radio frecuencia al puerto usb y detecta automáticamente el periférico
-- Ratón inalámbrico compacto, diseñado específicamente para ordenadores portátiles pero compatible con cualquier tipo de dispositivo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B018MFZXXI/?tag=tolees-21)

@@ -28,13 +28,13 @@ Está [Pepe Jeans Emerson Jean droit  Azul  Dark Used Denim 000   12 Jahre para 
 
 ℹ️:
 
-- Tiro medio
 - Bolsillos traseros con stitching
-- Lavado dark used
-- Tejido denim elástico y suave
-- Logo bordado en el bolsillo
 - Jeans 5 bolsillos
+- Tiro medio
+- Logo bordado en el bolsillo
 - Fit slim
+- Tejido denim elástico y suave
+- Lavado dark used
 - Pierna estrecha
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07MZPHJ1Z/?tag=tolees-21)
