@@ -29,7 +29,7 @@ Está [Jack & Jones Jjipaul Jjflake AKM 542 Noos Pantalones  Verde  Olive Night 
 ℹ️:
 
 - Instrucciones de cuidado: no usar lejía; secar en secadora a baja temperatura; planchar a baja temperatura; programa para prendas delicadas: 40 grados.
-- Partes de procedencia animal: no.
 - Material: 98% algodón, 2% elastano.
+- Partes de procedencia animal: no.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07CBWX6BZ/?tag=tolees-21)

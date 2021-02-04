@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'T nB Miny Ratón Óptico Inalámbrico Azul  con un 46.51 % de descuento'
-date: 2021-01-28 09:17:58
+date: 2021-02-04 10:33:53
 image: 'https://m.media-amazon.com/images/I/41ovrBu-r3L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ comparePrice: 12.9 EUR
 prodname: 'T nB Miny Ratón Óptico Inalámbrico Azul  Ultra Compacto  Ideal para Portátil PC'
 country: 'es'
 flag: '🇪🇸'
+brand: 'TnB'
 buyurl: 'https://www.amazon.es/dp/B018MFZXXI/?tag=tolees-21'
 descuento: '46.51'
 average: '6.9'
@@ -27,10 +28,10 @@ En este momento está [T nB Miny Ratón Óptico Inalámbrico Azul  Ultra Compact
 
 🔎:
 
-- Tecnología óptica de detección de movimientos con una sensibilidad de 1000 dpis
-- Fácil de transportar gracias a su pequeño tamaño; además cuenta con un micro receptor usb que sobresale ligeramente del ordenador portátil, cabe en todas las fundas
-- Ratón inalámbrico compacto, diseñado específicamente para ordenadores portátiles pero compatible con cualquier tipo de dispositivo
 - Instalación muy sencilla, simplemente conecta el receptor por radio frecuencia al puerto usb y detecta automáticamente el periférico
+- Tecnología óptica de detección de movimientos con una sensibilidad de 1000 dpis
 - Cursor preciso y sensible en casi cualquier tipo de superficie sin necesidad de alfombrilla
+- Ratón inalámbrico compacto, diseñado específicamente para ordenadores portátiles pero compatible con cualquier tipo de dispositivo
+- Fácil de transportar gracias a su pequeño tamaño; además cuenta con un micro receptor usb que sobresale ligeramente del ordenador portátil, cabe en todas las fundas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B018MFZXXI/?tag=tolees-21)

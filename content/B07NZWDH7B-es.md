@@ -28,10 +28,10 @@ Ahora mismo tienes [Thrustmaster TM Open Wheel AddOn  Volante AddOn  28 cm  PS4 
 
 🔎:
 
-- 6 botones de acción + 1 D-pad + 1 interruptor selector giratorio (3 posiciones con botón pulsador)
-- Agarres del volante realizados en ante
-- Placa frontal robusta realizada en aluminio cepillado negro
 - 2 sensibles levas secuenciales de cambio de marchas, montadas en el volante (100% metálicas, 7,5 cm de altura)
+- Placa frontal robusta realizada en aluminio cepillado negro
 - Tamaño compacto (28 cm de diámetro) y diseño ligero para una sensación mejorada de Force Feedback
+- Agarres del volante realizados en ante
+- 6 botones de acción + 1 D-pad + 1 interruptor selector giratorio (3 posiciones con botón pulsador)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07NZWDH7B/?tag=tolees-21)
