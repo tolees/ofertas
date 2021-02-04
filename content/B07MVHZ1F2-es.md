@@ -28,10 +28,10 @@ Ahora mismo tienes [Kipling Imali  Carteras para Mujer  Rosa  Metallic Rose   19
 
 🔎:
 
+- Anillo D
+- Protección rfid
 - 14 compartimentos funcionales (una moneda del bolsillo + Una nota del sostenedor + 12 ranuras de tarjeta)
 - Volver cremallera bolsillo
-- Protección rfid
-- Anillo D
 - Compartimento principal con cremallera
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07MVHZ1F2/?tag=tolees-21)

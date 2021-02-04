@@ -28,10 +28,10 @@ Tienes [junengSO Kit de Matcha japonés  licuadora de Matcha de bambú Tradicion
 
 🔎:
 
-- Para la conveniencia de controlar la cantidad de polvo de matcha, está equipado con una cuchara especial de bambú.
-- Material: bambú + cerámica
 - La parte media del agitador se extenderá después del uso, lo cual es normal.
-- La licuadora de polvo Matcha está hecha de bambú natural y es segura y no tóxica. Está equipado con un estante dedicado. Favorece el drenaje y la retención de la forma del agitador.
+- Para la conveniencia de controlar la cantidad de polvo de matcha, está equipado con una cuchara especial de bambú.
 - El agitador no se puede colocar directamente en agua hirviendo y se puede deformar severamente.
+- Material: bambú + cerámica
+- La licuadora de polvo Matcha está hecha de bambú natural y es segura y no tóxica. Está equipado con un estante dedicado. Favorece el drenaje y la retención de la forma del agitador.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08DLKDH79/?tag=tolees-21)
