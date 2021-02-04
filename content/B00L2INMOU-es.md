@@ -28,9 +28,9 @@ Ahora mismo tienes [imf Molde Desmontable  Acero  Rojo  24 x 10 cm](https://www.
 
 🔎:
 
-- Ideal para gratinar, cocinar y hornear sus alimentos.
-- Fabricado en acero con recubrimiento interior teflón y lacado decorativo exterior
 - De fácil limpieza
+- Fabricado en acero con recubrimiento interior teflón y lacado decorativo exterior
+- Ideal para gratinar, cocinar y hornear sus alimentos.
 - Resistente a altas temperaturas +230ºc
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00L2INMOU/?tag=tolees-21)

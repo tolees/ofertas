@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Warner Bros. Entertainment - Trilogía El con un 34.46 % de descuento'
-date: 2021-02-03 21:26:42
+date: 2021-02-04 21:48:25
 image: 'https://m.media-amazon.com/images/I/51bEuij7aYL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Warner Bros. Entertainment'
 buyurl: 'https://www.amazon.es/dp/B07JJPV918/?tag=tolees-21'
 descuento: '34.46'
-average: '50.2981395348837'
+average: '50.0706818181818'
 ---
 
 En este momento está [Warner Bros. Entertainment - Trilogía El Señor De Los Anillos Extendida Blu-Ray [Blu-ray]](https://www.amazon.es/dp/B07JJPV918/?tag=tolees-21) a 40.29 EUR (original: 61.47 EUR) (34.46 %  de descuento) en el siguiente enlace!

@@ -28,8 +28,8 @@ Tienes [Prada Candy Agua de Perfume - 80 ml](https://www.amazon.es/dp/B005KF5WYO
 
 ℹ️:
 
-- Familia olfativa: Oriental Gourmand.
-- Notas de corazón: almizcle y notas atalcadas.
 - Notas de salida: caramelo.
+- Notas de corazón: almizcle y notas atalcadas.
+- Familia olfativa: Oriental Gourmand.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B005KF5WYO/?tag=tolees-21)
