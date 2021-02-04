@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 31.16 % en Vibram FiveFingers Kso Evo  Zapatillas d'
-date: 2021-02-03 13:11:59
+date: 2021-02-04 14:14:15
 image: 'https://m.media-amazon.com/images/I/41th0S5DWBL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Vibram Fivefingers'
 buyurl: 'https://www.amazon.es/dp/B01M0XGPMW/?tag=tolees-21'
 descuento: '31.16'
-average: '61.9527272727272'
+average: '62.2399999999999'
 ---
 
 Tienes [Vibram FiveFingers Kso Evo  Zapatillas de Deporte Exterior  Hombre  Negro  Black   37 EU](https://www.amazon.es/dp/B01M0XGPMW/?tag=tolees-21) con un 31.16 % de descuento con precio de oferta de 65.4 EUR (original: 95.0 EUR) en el siguiente enlace!
