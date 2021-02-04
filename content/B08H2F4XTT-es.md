@@ -29,9 +29,9 @@ Tienes [Mr. Wonderful - Calendario de pared - 2021 y todas las cosas buenas que 
 🔎:
 
 - Con un imán con fuerza suficiente para aguantarse en la nevera
-- Incluye un bolígrafo, 4 hojas de pegatinas, 1 bloc de notas para la lista de la compra.
-- Con un diseño dulce y divertido al más puro estilo Mr Wonderful
 - Contiene 3 blocs de notas adhesivas.
 - Incluye un consejo mensual para venirse muy arriba
+- Con un diseño dulce y divertido al más puro estilo Mr Wonderful
+- Incluye un bolígrafo, 4 hojas de pegatinas, 1 bloc de notas para la lista de la compra.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08H2F4XTT/?tag=tolees-21)

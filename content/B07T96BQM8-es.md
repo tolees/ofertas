@@ -28,10 +28,10 @@ En este momento está [Victure 1080P IP 2.4GHZ WiFi Cámara de Vigilancia Vigila
 
 🔎:
 
-- 💙[Almacenamiento en la nube/SD] - la memoria local admite hasta una tarjeta micro SD de 64 GB. También está disponible el servicio de almacenamiento en la nube de vigilancia cifrada.
+- 💚[Visión nocturna] - Lente gran angular 120°, FHD 1920 × 1080, 8 LED infrarrojos invisibles permiten ver todo claramente incluso en la oscuridad en total ausencia de luz.
 - 🧡[Detección de movimiento] - Cuando la cámara wifi interna detecta movimientos o anomalías, las notificaciones se enviarán inmediatamente al móvil, los vídeos de alarma instantáneos se capturarán y almacenarán en la nube o en la tarjeta SD. La cámara garantiza la seguridad de tu hogar.
+- 💙[Almacenamiento en la nube/SD] - la memoria local admite hasta una tarjeta micro SD de 64 GB. También está disponible el servicio de almacenamiento en la nube de vigilancia cifrada.
 - 💜[Fácil de usar y garantizar] - La instalación y configuración de la cámara wifi interna son sencillas. Se puede montar fácilmente en la pared, el techo o la mesa.
 - 💛[Marca compartida con dos aplicaciones] - PC420 tiene una marca compartida con IPC360 y Victure Home. Si recibe una cámara con "△", use la aplicación IPC360 para conectarse; Si recibe una cámara de video con "Victure", use la aplicación Victure Home para conectarse.
-- 💚[Visión nocturna] - Lente gran angular 120°, FHD 1920 × 1080, 8 LED infrarrojos invisibles permiten ver todo claramente incluso en la oscuridad en total ausencia de luz.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07T96BQM8/?tag=tolees-21)
