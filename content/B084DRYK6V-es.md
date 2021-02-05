@@ -28,10 +28,10 @@ Está [Lékué - Mug To Go  Taza plegable reutilizable  100% hermética  350 ml 
 
 ℹ️:
 
+- Tanto para zurdos como para diestros; puedes elegir la posición de la embocadura respecto a la asa
 - Reutilizable; este producto puede utilizarse todas las veces que desees
+- Hermética; esta taza es hermética para asegurar un transporte seguro
 - La alternativa a las tazas de un solo uso. 1 millón de tazas desechables llegan a los vertederos cada minuto; utiliza la mug to go para llevar tu café,reutilízala y evita las tazas desechables para cuidar de nuestro planeta
 - Colapsable; la mug to go se pliega rápido en un pequeño disco que puedes guardar en cualquier lugar; perfecta para un ritmo de vida on-the-go
-- Tanto para zurdos como para diestros; puedes elegir la posición de la embocadura respecto a la asa
-- Hermética; esta taza es hermética para asegurar un transporte seguro
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B084DRYK6V/?tag=tolees-21)

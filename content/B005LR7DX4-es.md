@@ -28,9 +28,9 @@ Tienes [Arcos 793600 - Taco universal](https://www.amazon.es/dp/B005LR7DX4/?tag=
 
 🔎:
 
-- Diseñado para la cocina
 - Fabricado en madera
 - Adecuado para guardar los cuchillos en óptimo estado
 - Soporte para cuchillos
+- Diseñado para la cocina
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B005LR7DX4/?tag=tolees-21)
