@@ -28,8 +28,8 @@ Está [adidas Parkhood Org Organizer  Unisex Adulto  Black/Black/White  NS](http
 
 ℹ️:
 
-- Pouch
 - Sporty look
+- Pouch
 - Adjustable shoulder strap
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B087CQ1VJN/?tag=tolees-21)

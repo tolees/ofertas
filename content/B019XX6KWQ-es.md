@@ -30,7 +30,7 @@ Está [Trust GXT 101 - Ratón Iluminado para Gaming  4800 PPP   Negro](https://w
 
 - Logotipo iluminado con un patrón de colores cambiantes
 - Laterales de goma para un agarre firme
-- Diseño cómodo y ergonómico
 - Botón de selección de velocidad (600-4800 ppp)
+- Diseño cómodo y ergonómico
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B019XX6KWQ/?tag=tolees-21)

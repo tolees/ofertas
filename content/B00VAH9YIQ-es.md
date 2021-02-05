@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'Manfrotto Lumimuse 8 LED  color negro al 37.41 % de rebaja'
-date: 2020-01-15 23:04:13
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41iGOHQWP5L._SL200_.jpg'
+title: 'Manfrotto Lumimuse 8 LED  color negro al 37.05 % de rebaja'
+date: 2021-02-05 14:27:14
+image: 'https://m.media-amazon.com/images/I/41iGOHQWP5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B00VAH9YIQ-es Manfrotto Lumimuse 8 LED color negro'
 sku: 'B00VAH9YIQ-es'
 tags: [  ]
-actualPrice: 77.99 EUR
+actualPrice: 64.0 EUR
 currency: EUR
-price: 77.99
-comparePrice: 124.6 EUR
+price: 64.0
+comparePrice: 101.66 EUR
 prodname: 'Manfrotto Lumimuse 8 LED  color negro'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Manfrotto'
 buyurl: 'https://www.amazon.es/dp/B00VAH9YIQ/?tag=tolees-21'
-descuento: '37.41'
-average: '72.32333333333332'
+descuento: '37.05'
+average: '68.994'
 ---
 
-Tienes [Manfrotto Lumimuse 8 LED  color negro](https://www.amazon.es/dp/B00VAH9YIQ/?tag=tolees-21) con precio final de  77.99 EUR (original: 124.6 EUR) (37.41 %  de rebaja) aqui!
+Tienes [Manfrotto Lumimuse 8 LED  color negro](https://www.amazon.es/dp/B00VAH9YIQ/?tag=tolees-21) con precio final de  64.0 EUR (original: 101.66 EUR) (37.05 %  de rebaja) aqui!
 
-[![Manfrotto Lumimuse 8 LED  color negro](https://images-eu.ssl-images-amazon.com/images/I/41iGOHQWP5L._SL200_.jpg)](https://www.amazon.es/dp/B00VAH9YIQ/?tag=tolees-21)
+[![Manfrotto Lumimuse 8 LED  color negro](https://m.media-amazon.com/images/I/41iGOHQWP5L._SL200_.jpg)](https://www.amazon.es/dp/B00VAH9YIQ/?tag=tolees-21)
 
 🔎:
 
+- Adpatador para filtros
+- Batería interna tipo LiPo de 60min de autonomía
+- Regulador de poténcia (4x)
+- Iluminación de 8 LEDs
+- Temperatura de color de 5600ºK
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00VAH9YIQ/?tag=tolees-21)

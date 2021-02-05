@@ -29,7 +29,7 @@ Está [Funko - 5 Star: Game of Thrones S10 - Night King Figura Coleccionable  Mu
 ℹ️:
 
 - La figura mide 15 cm y viene en una caja de presentación para ventana.
-- Echa un vistazo a las otras figuras de Juego de Tronos S10 de Funko. Colecciónalos todos.
 - De Game of Thrones S10, Night King, como un elegante vinilo de 5 estrellas de Funko.
+- Echa un vistazo a las otras figuras de Juego de Tronos S10 de Funko. Colecciónalos todos.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07MZPH21F/?tag=tolees-21)
