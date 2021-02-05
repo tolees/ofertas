@@ -28,10 +28,10 @@ Ahora mismo tienes [Lékué Lunch Box  Sin Cubiertos Recipiente  Verde  1000 ml]
 
 🔎:
 
-- Ideas para un menú semanal, incluido en el pack
-- Cubiertos no incluidos
 - Válvula para el uso en el microondas; para calentar, se debe abrir la tapita de silicona
-- Espacio para colocar los cubiertos de lékué. + servilleta o lo que se desee
+- Cubiertos no incluidos
+- Ideas para un menú semanal, incluido en el pack
 - Incluye: dos recipientes con sus tapas, una tapa extra y una banda para unir los dos recipientes
+- Espacio para colocar los cubiertos de lékué. + servilleta o lo que se desee
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B084DRLT2L/?tag=tolees-21)

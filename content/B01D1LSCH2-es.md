@@ -29,8 +29,8 @@ Ahora mismo tienes [Lékué Cubitera de Caucho  Natural  Azul  14 cavidades  Rec
 🔎:
 
 - Fabricado en SBS - Caucho natural
-- Cubitos de hielo en formas rectangulares
-- Material flexible pero firme facilita el transporte al congelador
 - Fácil desmolde por su flexibilidad
+- Material flexible pero firme facilita el transporte al congelador
+- Cubitos de hielo en formas rectangulares
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01D1LSCH2/?tag=tolees-21)

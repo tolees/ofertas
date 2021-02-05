@@ -29,9 +29,9 @@ Ahora mismo tienes [TALIUS  TECH 4 U - Talius Caja ATX Gaming Xentinel- USB 3.0 
 🔎:
 
 - Filtro inferior desmontable, superior fijo. Detalles frontales led azul y logo proyectado.
+- Capacidad para 2x 3.5 HDD, 2x 2.5 SDD,
+- Admite ventilador CPU de 15cm, y GPU de 28cm.
 - Compartimento aislado para fuente de alimentación.
 - Lector SD/TF, 2USB 2.0 + 1USB 3.0, Ventilador trasero 12cm de 15 led azul incluido.
-- Admite ventilador CPU de 15cm, y GPU de 28cm.
-- Capacidad para 2x 3.5 HDD, 2x 2.5 SDD,
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B071DQV7KM/?tag=tolees-21)

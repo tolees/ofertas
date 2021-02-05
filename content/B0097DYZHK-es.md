@@ -1,40 +1,37 @@
 ---
 layout: post
-title: 'Bosch - Set de 43 unidades para atornill al 41.69 % de descuento'
-date: 2021-01-29 18:47:17
+title: 'Bosch Professional Set de 43 unidades pa al 41.69 % de descuento'
+date: 2021-02-05 11:30:36
 image: 'https://m.media-amazon.com/images/I/514eaC1yznL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0097DYZHK-es Bosch - Set de 43 unidades para atornillar y llaves de...'
+slug: 'B0097DYZHK-es Bosch Professional Set de 43 unidades para atornillar y...'
 sku: 'B0097DYZHK-es'
 tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99
 comparePrice: 41.14 EUR
-prodname: 'Bosch - Set de 43 unidades para atornillar y llaves de vaso  Ph Pz Sl H T Th '
+prodname: 'Bosch Professional Set de 43 unidades para atornillar y llaves de vaso  accesorios para taladro atornillador '
 country: 'es'
 flag: '🇪🇸'
+brand: 'Bosch'
 buyurl: 'https://www.amazon.es/dp/B0097DYZHK/?tag=tolees-21'
 descuento: '41.69'
-average: '18.84'
+average: '19.355'
 ---
 
-Ahora mismo tienes [Bosch - Set de 43 unidades para atornillar y llaves de vaso  Ph Pz Sl H T Th ](https://www.amazon.es/dp/B0097DYZHK/?tag=tolees-21) a 23.99 EUR (original: 41.14 EUR) (41.69 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Bosch Professional Set de 43 unidades para atornillar y llaves de vaso  accesorios para taladro atornillador ](https://www.amazon.es/dp/B0097DYZHK/?tag=tolees-21) a 23.99 EUR (original: 41.14 EUR) (41.69 %  de descuento) en el siguiente enlace!
 
-[![Bosch - Set de 43 unidades para atornill](https://m.media-amazon.com/images/I/514eaC1yznL._SL200_.jpg)](https://www.amazon.es/dp/B0097DYZHK/?tag=tolees-21)
+[![Bosch Professional Set de 43 unidades pa](https://m.media-amazon.com/images/I/514eaC1yznL._SL200_.jpg)](https://www.amazon.es/dp/B0097DYZHK/?tag=tolees-21)
 
 🔎:
 
-- Las puntas de atornillar están codificadas por colores para ver y reconocer el tipo adecuado rápidamente
-- Las puntas Torx Tamper de seguridad son es para aparatos eléctricos o electrónicos
-- Torx Tamper de seguridad para aparatos eléctricos o electrónicos (TH10, TH15, TH20 (2x), TH25, TH27, TH30, TH40)
-- Con puntas de 25 mm: Philips (PH1, PH2 (2x), PH3), Pozidriv (PZ1, PZ2 (2x), PZ3), Planas (SL3, SL4, SL5, SL6), Hexagonales (H3, H4, H5, H6), Torx (T10, T15, T20 (2x), T25, T27, T30, T40)
-- Contiene llave de vaso con imán permanente para tornillos hexagonales (6 mm, 8 mm, 10 mm), soporte magnético universal, soporte universal con cambio rápido
-- Con puntas largas de 75 mm: Philips (PH2), Pozidriv (PZ2), Planas (SL6), Torx (T15, T20, T25)
-- Completo set con 43 accesorios para atornillar, adecuado para trabajos universales de atornillado
-- Las puntas cuentan con una zona de torsión cónica que tolera los picos de torsión absorbiendo la fuerza y las vibraciones durante el atornillado en cualquier material
-- El acero modificado S2 y un proceso de tratamiento térmico optimizado proporcionan una calidad extradura a las puntas, lo cual proporciona un rendimiento robusto en cualquier tarea de atornillado
+- Llave de vaso con imán permanente para tornillos hexagonales (6, 8, 10 mm); longitud: 48-50 mm
+- Con soporte universal de cambio rápido y soporte univesal magnético, así como puntas con vástago hexagonal
+- Suministro (longitud 35 mm): PH1, (2x) PH2, PH3, PZ1, (2x) PZ2, PZ3, SL3, SL4, SL5, SL6, T10, T15, (2x) T20, T25, T27, T30, T40, T10H, T15H, (2x) T20H, T25H, T27H, T30H, T40H
+- El set de 43 unidades profesional para atornillar contiene puntas de acero modificado S2 para ofrecer una dureza superior a la media; es apto para atornilladores eléctricos de Bosch y de otros fabricantes; contiene una amplia variedad de puntas para todo tipo de tornillos y trabajos de atornillado
+- Suministro (longitud 75 mm): PH2, PZ2, SL6, T15, T20, T25
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0097DYZHK/?tag=tolees-21)

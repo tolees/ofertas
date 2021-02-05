@@ -29,9 +29,9 @@ Ahora mismo tienes [Bose - Base de carga para Bose Portable Home Speaker  color 
 🔎:
 
 - Mantiene el altavoz cargado y listo para utilizar
-- Te permite reproducir música mientras se carga
-- Disponible en negro y plata
-- Sirve de cómoda base para tu altavoz
 - Funciona con el Bose Portable Home Speaker
+- Disponible en negro y plata
+- Te permite reproducir música mientras se carga
+- Sirve de cómoda base para tu altavoz
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07WWKCS7R/?tag=tolees-21)
