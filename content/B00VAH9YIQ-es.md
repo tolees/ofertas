@@ -28,10 +28,10 @@ Tienes [Manfrotto Lumimuse 8 LED  color negro](https://www.amazon.es/dp/B00VAH9Y
 
 🔎:
 
+- Temperatura de color de 5600ºK
+- Iluminación de 8 LEDs
+- Regulador de poténcia (4x)
 - Adpatador para filtros
 - Batería interna tipo LiPo de 60min de autonomía
-- Regulador de poténcia (4x)
-- Iluminación de 8 LEDs
-- Temperatura de color de 5600ºK
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00VAH9YIQ/?tag=tolees-21)

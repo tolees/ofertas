@@ -28,8 +28,8 @@ Tienes [Hellmann s Salsa Patatas Deluxe Bocabajo - Pack de 8 x 250 ml  Total: 20
 
 ℹ️:
 
-- La salsa auténtica para tus patatas gajo
 - Sabor auténtico
+- La salsa auténtica para tus patatas gajo
 - Formato cómodo de usar
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01MRKS5RM/?tag=tolees-21)

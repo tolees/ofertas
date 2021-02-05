@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Xiaomi Redmi Note 8 Pro - Smartphone de  con un 29.78 % de descuento'
-date: 2021-02-04 15:12:58
+title: 'Xiaomi Redmi Note 8 Pro - Smartphone de  con un 29.82 % de descuento'
+date: 2021-02-05 15:26:03
 image: 'https://m.media-amazon.com/images/I/418jZLCFKdL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: ring
 slug: 'B07ZK52FQ3-es Xiaomi Redmi Note 8 Pro - Smartphone de 6.53" FHD+ 6 GB...'
 sku: 'B07ZK52FQ3-es'
 tags: [  ]
-actualPrice: 188.89 EUR
+actualPrice: 188.79 EUR
 currency: EUR
-price: 188.89
+price: 188.79
 comparePrice: 269.0 EUR
 prodname: 'Xiaomi Redmi Note 8 Pro - Smartphone de 6.53" FHD+  6 GB RAM  128 GB ROM  cámara cuádruple de 64 MP  MTK Helio G90T  4G  bateria de 4500 mAh  Ocean Blue [US Version]'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B07ZK52FQ3/?tag=tolees-21'
-descuento: '29.78'
-average: '200.758'
+descuento: '29.82'
+average: '198.763333333333'
 ---
 
-En este momento está [Xiaomi Redmi Note 8 Pro - Smartphone de 6.53" FHD+  6 GB RAM  128 GB ROM  cámara cuádruple de 64 MP  MTK Helio G90T  4G  bateria de 4500 mAh  Ocean Blue [US Version]](https://www.amazon.es/dp/B07ZK52FQ3/?tag=tolees-21) a 188.89 EUR (original: 269.0 EUR) (29.78 %  de descuento) en el siguiente enlace!
+En este momento está [Xiaomi Redmi Note 8 Pro - Smartphone de 6.53" FHD+  6 GB RAM  128 GB ROM  cámara cuádruple de 64 MP  MTK Helio G90T  4G  bateria de 4500 mAh  Ocean Blue [US Version]](https://www.amazon.es/dp/B07ZK52FQ3/?tag=tolees-21) a 188.79 EUR (original: 269.0 EUR) (29.82 %  de descuento) en el siguiente enlace!
 
 [![Xiaomi Redmi Note 8 Pro - Smartphone de ](https://m.media-amazon.com/images/I/418jZLCFKdL._SL200_.jpg)](https://www.amazon.es/dp/B07ZK52FQ3/?tag=tolees-21)
 
