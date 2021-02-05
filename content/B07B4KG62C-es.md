@@ -28,9 +28,9 @@ Ahora mismo tienes [Doritos Tortilla Chips - Paquete de 14 x 280 gr - Total: 392
 
 🔎:
 
-- Mantener en un lugar fresco y seco
-- Envasado en atmósfera protectora
 - Alérgenos: Contiene trigo y lactosa
 - País de origen: España
+- Mantener en un lugar fresco y seco
+- Envasado en atmósfera protectora
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07B4KG62C/?tag=tolees-21)
