@@ -28,11 +28,11 @@ Tienes [Ufesa PL2410 - Centro de Planchado  2400W  4 Bares  140gr/min Golpe de V
 
 🔎:
 
-- Gran depósito de agua de 1.2 litros de capacidad y extraíble
-- Planchado en seco y en vertical; el vapor vertical fácil ita el planchado de prendas como abrigos, obteniendo un resultado perfecto
-- Suela de cerámica de alta resistencia y deslizamiento, tecnología que fácil ita el desplazamiento sobre las prendas y permite un planchado más fácil
-- Cuenta con un práctico bloqueo de la plancha para el transporte
-- Para que el centro de planchado funcione siempre a la perfección, el centro de planchado de ufesa cuenta con un cartucho antical
 - Centro de planchado con una potencía de 2400w que elimina las arrugas más difíciles gracias a su golpe de vapor de máx. 140gr, y de vapor continuo de hasta 90 gr/min y una presión de 4.0 bares; está listo en 2 minutos
+- Suela de cerámica de alta resistencia y deslizamiento, tecnología que fácil ita el desplazamiento sobre las prendas y permite un planchado más fácil
+- Gran depósito de agua de 1.2 litros de capacidad y extraíble
+- Para que el centro de planchado funcione siempre a la perfección, el centro de planchado de ufesa cuenta con un cartucho antical
+- Cuenta con un práctico bloqueo de la plancha para el transporte
+- Planchado en seco y en vertical; el vapor vertical fácil ita el planchado de prendas como abrigos, obteniendo un resultado perfecto
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07NH2SFG9/?tag=tolees-21)

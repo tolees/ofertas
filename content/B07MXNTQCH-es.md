@@ -28,10 +28,10 @@ Ahora mismo tienes [Delsey - COMETE: MALETA DE CABINA 4 RUEDAS DOBLES 55 CM](htt
 
 🔎:
 
-- GARANTÍA DE 3 AÑOS
-- MEDIDAS: 55 X 40 X 20 CM
-- PESO: 3KG
-- CAPACIDAD: 35,4L
 - La colección COMETE y su diseño sobrio es ideal para todos sus viajes. Están fabricadas de policarbonato super resistente. La maleta de cabina COMETE DE 55CM le garantizan la máxima seguridad de sus efectos personales gracias a su cerradura de combinación TSA que le permitirá proteger su equipaje con un código de apertura personal. Dispone de asa superior, lateral y 4 ruedas dobles silenciosas y multidireccionales. Su interior cuenta con corras de sujeción y un bolsillo de red con cremallera que le permitirán mantener sus pertenencias perfectamente ordenadas.
+- PESO: 3KG
+- GARANTÍA DE 3 AÑOS
+- CAPACIDAD: 35,4L
+- MEDIDAS: 55 X 40 X 20 CM
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07MXNTQCH/?tag=tolees-21)

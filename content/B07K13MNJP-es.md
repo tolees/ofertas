@@ -29,7 +29,7 @@ En este momento está [Adidas Altasport CF I  Zapatillas Unisex niños  Blanco  
 🔎:
 
 - Cierre de velcro.
-- Zapatillas deportivas
 - Empeine flexible.
+- Zapatillas deportivas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07K13MNJP/?tag=tolees-21)
