@@ -28,10 +28,10 @@ Ahora mismo tienes [Kuhn Rikon 2 ollas a presión con asas  4 L + 8 L  Set olla 
 
 🔎:
 
-- Olla express de diseño atractivo, segura, muy rápida, resistente, fácil de manejar y silenciosa. Cocina en aproximadamente un 70% menos de tiempo que otras ollas convencionales
-- Máxima seguridad garantizada: 3 seguros de sobrepresión y un dispositivo de cierre de la tapa automático evitan que la olla pueda ser abierta bajo presión. Su sistema de válvula permite despresurizar rápidamente
-- Concebida para cocinar super rápido con el mínimo de agua, favorece la conservación de las vitaminas y nutrientes de los alimentos, y lo hace con la máxima eficiencia energética
 - Diseñada y fabricada en Suiza, las ollas super rápidas de Kuhn Rikon cumplen los máximos estándares de calidad. Garantía de 10 años
+- Olla express de diseño atractivo, segura, muy rápida, resistente, fácil de manejar y silenciosa. Cocina en aproximadamente un 70% menos de tiempo que otras ollas convencionales
+- Concebida para cocinar super rápido con el mínimo de agua, favorece la conservación de las vitaminas y nutrientes de los alimentos, y lo hace con la máxima eficiencia energética
 - Olla con fondo de sándwich superthermic con 5 capas que permite una rápida absorción / distribución uniforme del calor. Apropiada para todo tipo de fuegos, incluido cocinas de inducción
+- Máxima seguridad garantizada: 3 seguros de sobrepresión y un dispositivo de cierre de la tapa automático evitan que la olla pueda ser abierta bajo presión. Su sistema de válvula permite despresurizar rápidamente
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00SFW5B7W/?tag=tolees-21)

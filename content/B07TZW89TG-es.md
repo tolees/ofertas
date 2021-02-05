@@ -28,8 +28,8 @@ Tienes [Kipling Creativity S  Cartera para Mujer  Blanco  White Metallic   14.5x
 
 🔎:
 
+- Repelente al agua.
 - Ligero, duradero y siempre práctico.
 - Logotipo de Kipling.
-- Repelente al agua.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07TZW89TG/?tag=tolees-21)
