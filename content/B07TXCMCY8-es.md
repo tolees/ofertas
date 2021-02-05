@@ -28,7 +28,7 @@ En este momento está [Clarks Un Trail Form  Derbys Derby  Braun  Mahogany Leath
 
 🔎:
 
-- Color Exacto: Cuero Caoba
 - Único Material: Caucho
+- Color Exacto: Cuero Caoba
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07TXCMCY8/?tag=tolees-21)
