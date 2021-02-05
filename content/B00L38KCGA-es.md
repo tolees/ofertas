@@ -28,10 +28,10 @@ En este momento está [Rimmel London Exaggerate Automatic Eyeliner Waterproof - 
 
 🔎:
 
-- Con mina retráctil y difuminador
-- Dibuja una línea fina sobre el ojo para una mirada más intensa
-- Fórmula cremosa, waterproof
 - Color intenso de larga duración
+- Dibuja una línea fina sobre el ojo para una mirada más intensa
+- Con mina retráctil y difuminador
 - Delineador de ojos automático de alta precisión
+- Fórmula cremosa, waterproof
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00L38KCGA/?tag=tolees-21)

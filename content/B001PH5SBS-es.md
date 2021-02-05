@@ -1,32 +1,36 @@
 ---
 layout: post
-title: 'Descuento del 52.56 % en Superga 2750 COTU Classic  Zapatillas Un'
-date: 2020-05-01 09:02:32
-image: 'https://m.media-amazon.com/images/I/31BbJNne0HL._AC_._SL200_.jpg'
+title: 'Descuento del 25.97 % en Superga 2750 COTU Classic  Zapatillas Un'
+date: 2021-02-05 10:37:03
+image: 'https://m.media-amazon.com/images/I/31BbJNne0HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001PH5SBS-es Superga 2750 COTU Classic Zapatillas Unisex Blanco Total...'
+slug: 'B001PH5SBS-es Superga 2750 COTU Classic Zapatillas Unisex Adulto Blanco...'
 sku: 'B001PH5SBS-es'
 tags: [  ]
-actualPrice: 27.99 EUR
+actualPrice: 43.68 EUR
 currency: EUR
-price: 27.99
+price: 43.68
 comparePrice: 59.0 EUR
-prodname: 'Superga 2750 COTU Classic  Zapatillas Unisex  Blanco  Total White 901   45 EU'
+prodname: 'Superga 2750 COTU Classic  Zapatillas Unisex Adulto  Blanco 901  45 EU'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Superga'
 buyurl: 'https://www.amazon.es/dp/B001PH5SBS/?tag=tolees-21'
-descuento: '52.56'
-average: '27.99'
+descuento: '25.97'
+average: '35.835'
 ---
 
-Tienes [Superga 2750 COTU Classic  Zapatillas Unisex  Blanco  Total White 901   45 EU](https://www.amazon.es/dp/B001PH5SBS/?tag=tolees-21) con un 52.56 % de descuento con precio de oferta de 27.99 EUR (original: 59.0 EUR) en el siguiente enlace!
+Tienes [Superga 2750 COTU Classic  Zapatillas Unisex Adulto  Blanco 901  45 EU](https://www.amazon.es/dp/B001PH5SBS/?tag=tolees-21) con un 25.97 % de descuento con precio de oferta de 43.68 EUR (original: 59.0 EUR) en el siguiente enlace!
 
-[![Superga 2750 COTU Classic  Zapatillas Un](https://m.media-amazon.com/images/I/31BbJNne0HL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B001PH5SBS/?tag=tolees-21)
+[![Superga 2750 COTU Classic  Zapatillas Un](https://m.media-amazon.com/images/I/31BbJNne0HL._SL200_.jpg)](https://www.amazon.es/dp/B001PH5SBS/?tag=tolees-21)
 
 ℹ️:
 
+- Ojales en relieve Superga
+- Superga Tab en el lateral y el talón
+- Algodón transpirable.
+- Suela de goma vulcanizada.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B001PH5SBS/?tag=tolees-21)

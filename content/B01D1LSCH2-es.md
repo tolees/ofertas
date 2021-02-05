@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lékué Cubitera de Caucho  Natural  Azul  al 31.43 % de descuento'
-date: 2020-08-22 12:40:15
+date: 2021-02-05 10:38:27
 image: 'https://m.media-amazon.com/images/I/31DSKUHRkiL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ comparePrice: 4.9 EUR
 prodname: 'Lékué Cubitera de Caucho  Natural  Azul  14 cavidades  Rectangular'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Lékué'
 buyurl: 'https://www.amazon.es/dp/B01D1LSCH2/?tag=tolees-21'
 descuento: '31.43'
 average: '3.36'
@@ -28,5 +28,9 @@ Ahora mismo tienes [Lékué Cubitera de Caucho  Natural  Azul  14 cavidades  Rec
 
 🔎:
 
+- Fabricado en SBS - Caucho natural
+- Cubitos de hielo en formas rectangulares
+- Material flexible pero firme facilita el transporte al congelador
+- Fácil desmolde por su flexibilidad
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01D1LSCH2/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Knorr Tortellini Pasta Rellena De Carne  con un 45.05 % de descuento'
-date: 2021-01-31 10:35:10
+date: 2021-02-05 09:21:51
 image: 'https://m.media-amazon.com/images/I/518-iBhH19L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Knorr'
 buyurl: 'https://www.amazon.es/dp/B00XA8COEO/?tag=tolees-21'
 descuento: '45.05'
-average: '1.435'
+average: '1.38666666666666'
 ---
 
 En este momento está [Knorr Tortellini Pasta Rellena De Carne - 250 g](https://www.amazon.es/dp/B00XA8COEO/?tag=tolees-21) a 1.0 EUR (original: 1.82 EUR) (45.05 %  de descuento) en el siguiente enlace!
@@ -28,8 +28,8 @@ En este momento está [Knorr Tortellini Pasta Rellena De Carne - 250 g](https://
 
 🔎:
 
-- Contenido de 250 g, para 3-4 raciones
 - Tortellini rellenos con carne
 - Conservar en un lugar fresco y seco
+- Contenido de 250 g, para 3-4 raciones
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00XA8COEO/?tag=tolees-21)

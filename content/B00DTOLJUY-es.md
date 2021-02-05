@@ -1,32 +1,46 @@
 ---
 layout: post
-title: 'Descuento del 46.77 % en H.Koneig NV6200  Limpiador a Vapor  Vapo'
-date: 2020-09-20 12:50:18
+title: 'Descuento del 46.77 % en H.Koenig NV6200  Limpiador a Vapor  Vapo'
+date: 2021-02-05 09:38:05
 image: 'https://m.media-amazon.com/images/I/412GyL+9BPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DTOLJUY-es H.Koneig NV6200 Limpiador a Vapor Vaporeta Potencia 2000 W...'
+slug: 'B00DTOLJUY-es H.Koenig NV6200 Limpiador a Vapor Vaporeta Potencia 2000 W...'
 sku: 'B00DTOLJUY-es'
 tags: [  ]
 actualPrice: 73.99 EUR
 currency: EUR
 price: 73.99
 comparePrice: 139.0 EUR
-prodname: 'H.Koneig NV6200  Limpiador a Vapor  Vaporeta Potencia 2000 W  Limpia  Desinfecta y Desengrasa  4 Bares  Tiempo Vapor Continuo 45 Mins  Potente Flujo de Vapor  Temperatura Máxima 140ºC  Capacidad de Ag'
+prodname: 'H.Koenig NV6200  Limpiador a Vapor  Vaporeta Potencia 2000 W  Limpia  Desinfecta y Desengrasa  4 Bares  Tiempo Vapor Continuo 45 Mins  Potente Flujo de Vapor  Temperatura Máxima 140ºC  Capacidad de Ag  Sin Maletín Para Los Accesorios'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'H.Koenig'
 buyurl: 'https://www.amazon.es/dp/B00DTOLJUY/?tag=tolees-21'
 descuento: '46.77'
-average: '77.28333333333333'
+average: '74.4633333333332'
 ---
 
-Tienes [H.Koneig NV6200  Limpiador a Vapor  Vaporeta Potencia 2000 W  Limpia  Desinfecta y Desengrasa  4 Bares  Tiempo Vapor Continuo 45 Mins  Potente Flujo de Vapor  Temperatura Máxima 140ºC  Capacidad de Ag](https://www.amazon.es/dp/B00DTOLJUY/?tag=tolees-21) con un 46.77 % de descuento con precio de oferta de 73.99 EUR (original: 139.0 EUR) en el siguiente enlace!
+Tienes [H.Koenig NV6200  Limpiador a Vapor  Vaporeta Potencia 2000 W  Limpia  Desinfecta y Desengrasa  4 Bares  Tiempo Vapor Continuo 45 Mins  Potente Flujo de Vapor  Temperatura Máxima 140ºC  Capacidad de Ag  Sin Maletín Para Los Accesorios](https://www.amazon.es/dp/B00DTOLJUY/?tag=tolees-21) con un 46.77 % de descuento con precio de oferta de 73.99 EUR (original: 139.0 EUR) en el siguiente enlace!
 
-[![H.Koneig NV6200  Limpiador a Vapor  Vapo](https://m.media-amazon.com/images/I/412GyL+9BPL._SL200_.jpg)](https://www.amazon.es/dp/B00DTOLJUY/?tag=tolees-21)
+[![H.Koenig NV6200  Limpiador a Vapor  Vapo](https://m.media-amazon.com/images/I/412GyL+9BPL._SL200_.jpg)](https://www.amazon.es/dp/B00DTOLJUY/?tag=tolees-21)
 
 ℹ️:
 
+- Incluido: tubos de extensión, tubo flexible con pistola a vapor, limpiacristales, gran cepillo, boquilla con 2 cepillos, paño especial y fregona, jarra de relleno
+- Tiene una gran potencia de 2000 W y una presión de vapor de 4 bares, que garantizan un limpieza rápida y profesional sobre cualquier superficie, desde suelos de toda clase hasta ventanas y tapicerías
+- El potente limpiador a vapor NV6200 de H.Koenig limpia, desinfecta y desengrasa todos los rincones de tu hogar sin utilizar productos químicos
+- Logra una temperatura de hasta 140ºC y con el potente flujo de vapor lograrás desinfectar todos los rincones. Podrás utilizarlo en tu casa, oficina o garaje, ya que, tanto sus características como accesorios hacen de la vaporeta una limpiadora potente y eficaz
+- Capacidad del depósito de agua: 1.5 l máximo
+- Asa de transporte ergonómica
+- Logra una temperatura de hasta 140ºC y con el potente flujo de vapor lograrás desinfectar todos los rincones. Podrás utilizarlo en tu casa, oficina o garaje, ya que, tanto sus características como accesorios hacen de la vaporeta una limpiadora potente y eficaz
+- Gracias a sus numerosos accesorios, lograrás acabados perfectos en tiempo récord: Taza medidora, tubo extensible, boquilla grande, cepillo rectangular, el raspador para vidrio, la mopa, el cepillo de suelo y la pistola de vapor
+- Gracias a sus numerosos accesorios, lograrás acabados perfectos en tiempo récord: Taza medidora, tubo extensible, boquilla grande, cepillo rectangular, el raspador para vidrio, la mopa, el cepillo de suelo y la pistola de vapor
+- Equipado con un tanque de agua de 1,5 L y una válvula de seguridad, el limpiador a vapor está listo para funcionar tras sólo 8 minutos de calentamiento. Después, desplázate por donde quieras gracias a su cable de 4 metros
+- Sistema de limpieza al vapor con 45 minutos de autonomía
+- Tiene una gran potencia de 2000 W y una presión de vapor de 4 bares, que garantizan un limpieza rápida y profesional sobre cualquier superficie, desde suelos de toda clase hasta ventanas y tapicerías
+- Equipado con un tanque de agua de 1,5 L y una válvula de seguridad, el limpiador a vapor está listo para funcionar tras sólo 8 minutos de calentamiento. Después, desplázate por donde quieras gracias a su cable de 4 metros
+- Potencia: 2000 W, presión del vapor: 4 bares
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00DTOLJUY/?tag=tolees-21)

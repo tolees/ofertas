@@ -29,11 +29,11 @@ Tienes [OMRON M3 - Tensiómetro de brazo digital con detección del pulso arrít
 🔎:
 
 - Validado clínicamente
-- Detección del movimiento corporal
 - Guía de ajuste del manguito
-- Promedio de 3 lecturas consecutivas en los últimos 10 minutos, capacidad de memoria para dos usuarios
-- Funciona con pilas (incluidas), opcional adaptador de corriente para no gastar pilas aunque son necesarias si se quieren guardar las lecturas
-- Tiene un manguito de 22 - 42 cm
+- Detección del movimiento corporal
 - Muy fácil de usar
+- Tiene un manguito de 22 - 42 cm
+- Funciona con pilas (incluidas), opcional adaptador de corriente para no gastar pilas aunque son necesarias si se quieren guardar las lecturas
+- Promedio de 3 lecturas consecutivas en los últimos 10 minutos, capacidad de memoria para dos usuarios
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00IIOI9FS/?tag=tolees-21)
