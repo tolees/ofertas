@@ -28,10 +28,10 @@ En este momento está [AVM FRITZ!Box 7490 International - Modem Router WiFi AC 1
 
 🔎:
 
-- Contenido de la caja: FRITZ!Box 7490, cable de conexión telefónica/DSL de 4 m, cable LAN de 1.5 m, fuente de alimentación, guía rápida de instalación en Español
-- Router WiFi AC + N (1.300 Mbps 5GHz y 450 Mbps 2.4GHz), Mesh, para más velocidad y mejor cobertura, módem VDSL/ADSL2+, puerto WAN (LAN1) para la conectividad con un cable módem o un terminal de fibra óptica
-- Centralita telefónica para telefonía IP (VoIP) o fija con Voice-to-Mail y Fax, estación base DECT integrada para seis teléfonos inalámbricos, puertos para teléfonos analógicos y RDSI
-- Control parental configurable, FRITZ!OS con actualizaciones periódicas gratuitas, interfaz de usuario en Español
 - 4 x LAN Gigabit para conectar ordenadores y videoconsolas, 2 x USB 3.0/2.0 para impresoras, dispositivos de almacenamiento en red o módem USB 3G/4G, servidor multimedia (UPnP AV), FRITZ!NAS
+- Centralita telefónica para telefonía IP (VoIP) o fija con Voice-to-Mail y Fax, estación base DECT integrada para seis teléfonos inalámbricos, puertos para teléfonos analógicos y RDSI
+- Contenido de la caja: FRITZ!Box 7490, cable de conexión telefónica/DSL de 4 m, cable LAN de 1.5 m, fuente de alimentación, guía rápida de instalación en Español
+- Control parental configurable, FRITZ!OS con actualizaciones periódicas gratuitas, interfaz de usuario en Español
+- Router WiFi AC + N (1.300 Mbps 5GHz y 450 Mbps 2.4GHz), Mesh, para más velocidad y mejor cobertura, módem VDSL/ADSL2+, puerto WAN (LAN1) para la conectividad con un cable módem o un terminal de fibra óptica
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00H3IC3FC/?tag=tolees-21)

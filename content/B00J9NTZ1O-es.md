@@ -31,7 +31,7 @@ Está [Relaxdays Patas Antivibración para Lavadora  Goma  Blanco  6 5 cm  4 Uni
 - Reduce el ruido: Las gomas anti vibración reducen considerablemente el ruido de los electrodomésticos - Dado que vibran mucho menos, las lavadoras o secadoras se vuelven más silenciosas
 - Discretas: Las 4 patas de goma de PVC blando son de color blanco neutral - Fácil de combinar con todos los electrodomésticos - Diámetro: aprox. 6,5 cm, altura: aprox. 2,1 cm
 - Aplicación flexible: Las patas anti vibración están hechas de plástico de buena calidad y resisten la humedad y los cambios de temperatura - Aptas para el baño, la cocina o el sótano
-- Amortiguador: Pack de 4 patas anti vibración para la lavadora o la secadora - Reduce el movimiento de los electrodomésticos cuando están en funcionamiento de forma sencilla y práctica
 - Cuidado del suelo: El soporte amortiguador protege el suelo - Evita arañazos o marcas en el suelo - El suelo se mantiene así intacto durante más tiempo
+- Amortiguador: Pack de 4 patas anti vibración para la lavadora o la secadora - Reduce el movimiento de los electrodomésticos cuando están en funcionamiento de forma sencilla y práctica
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00J9NTZ1O/?tag=tolees-21)

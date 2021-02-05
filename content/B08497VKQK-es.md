@@ -29,9 +29,9 @@ Ahora mismo tienes [Ravensburger 26855 El Dorado: Héroes y Demonios  Juego de M
 🔎:
 
 - Las instrucciones fáciles permiten comenzar a jugar de inmediato, la duración del juego es de aproximadamente 60 minutos y es adecuada para jugadores de 10 años en adelante; regalo ideal para familias o grupos de amigos que aman jugar juntos
-- El juego contiene: 7 fichas de terreno, 2 tiras de terreno, 1 ficha final, 6 bloques, 8 fichas, 4 tableros de expedición, 1 sombrero de jugador inicial, 1 tablero de mercado, 86 cartas de expedición, 36 fichas de cueva e instrucciones
+- Un objetivo, mil posibilidades: qué táctica eliges; descubre también la versión clásica de El Dorado
 - Los jugadores, de 2 a 4, deberán planificar la ruta, contratar expertos aventureros y llevar el equipo adecuado, el ganador es quien logre tomar la mejor ruta para llegar a El Dorado
 - El viaje a El Dorado: Héroes y Demonios será dirigido esta vez por intrépidos héroes que acompañarán a los jugadores en su expedición y los ayudarán a luchar contra los temibles demonios de la jungla; El Dorado: Héroes and Demonios, prepárate para un nuevo viaje, nuevos paisajes y nuevos desafíos te esperan
-- Un objetivo, mil posibilidades: qué táctica eliges; descubre también la versión clásica de El Dorado
+- El juego contiene: 7 fichas de terreno, 2 tiras de terreno, 1 ficha final, 6 bloques, 8 fichas, 4 tableros de expedición, 1 sombrero de jugador inicial, 1 tablero de mercado, 86 cartas de expedición, 36 fichas de cueva e instrucciones
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08497VKQK/?tag=tolees-21)

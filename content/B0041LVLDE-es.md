@@ -29,8 +29,8 @@ Está [ADVANCE Veterinary Diets Renal Failure Pienso para Perros con Problemas R
 ℹ️:
 
 - Fibras solubles: reduce la excreción de nitrógeno por los riñones
-- Proteínas y sodio que apoyan la función renal correcta y mantiene los músculos
 - Fósforo reducido: ayuda a retardar la progresión de la insuficiencia renal
+- Proteínas y sodio que apoyan la función renal correcta y mantiene los músculos
 - Ácidos grasos Omega 3 que ayudan a controlar la hipertensión glomerular
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0041LVLDE/?tag=tolees-21)

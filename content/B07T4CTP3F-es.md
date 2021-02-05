@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ubisoft Spain - Immortals Fenyx Rising S con un 46.22 % de descuento'
-date: 2021-02-04 15:48:14
+date: 2021-02-05 21:23:38
 image: 'https://m.media-amazon.com/images/I/51ytgAKP-qL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Ubisoft Spain'
 buyurl: 'https://www.amazon.es/dp/B07T4CTP3F/?tag=tolees-21'
 descuento: '46.22'
-average: '38.18431372549'
+average: '38.1211538461536'
 ---
 
 En este momento está [Ubisoft Spain - Immortals Fenyx Rising SWITCH](https://www.amazon.es/dp/B07T4CTP3F/?tag=tolees-21) a 34.9 EUR (original: 64.9 EUR) (46.22 %  de descuento) en el siguiente enlace!
