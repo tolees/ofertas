@@ -28,11 +28,11 @@ Tienes [Crocs Classic U  Zuecos con Correa Trasera Unisex Adulto  Rojo Pimiento 
 
 ℹ️:
 
-- Tipo de tacón: Plano
+- Material exterior: Espuma
 - Cierre: Tira de tobillo
 - Revestimiento: Sin forro
-- Material de la suela: Sintético
-- Material exterior: Espuma
 - Composición: Sintético
+- Material de la suela: Sintético
+- Tipo de tacón: Plano
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00HB55PZW/?tag=tolees-21)

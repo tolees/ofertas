@@ -29,8 +29,8 @@ En este momento está [Monkey 47 Schwarzwald Dry GinebraMiniatur  6 x 50 ml](htt
 🔎:
 
 - que resaltan la complejidad
-- Una ginebra fuerte de la vieja escuela con abeto rojo muy claro en nariz. Un poco más suave en el paladar por lo que se clasifica en la clase de ginebras que se pueden tomar solas. Con una presentación que muestra mucho cariño y su considerable precio, Monkey 47 interesará más a los entusiastas de esta bebida. (Gonçalo de Sousa Monteiro (Bar Admirals,
 - y que concluyen con un toque picante de pimienta muy agradable".
+- Una ginebra fuerte de la vieja escuela con abeto rojo muy claro en nariz. Un poco más suave en el paladar por lo que se clasifica en la clase de ginebras que se pueden tomar solas. Con una presentación que muestra mucho cariño y su considerable precio, Monkey 47 interesará más a los entusiastas de esta bebida. (Gonçalo de Sousa Monteiro (Bar Admirals,
 - fomentadas con aromas florales. Luego, aromas herbáceos y cítricos
 - Berlin) "Al principio, notas muy claras de enebro
 
