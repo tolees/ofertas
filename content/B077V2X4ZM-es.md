@@ -29,7 +29,7 @@ Tienes [Kipling Creativity S  Cartera para Mujer  Azul  True Navy   14.5x9.5x5 c
 🔎:
 
 - Cierre: Cremallera
-- Material exterior: Sintético
 - Revestimiento: Sintético
+- Material exterior: Sintético
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B077V2X4ZM/?tag=tolees-21)

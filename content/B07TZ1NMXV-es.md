@@ -28,8 +28,8 @@ Está [Kipling Creativity S  Cartera para Mujer  Multicolor  Tie Dye Blue   14.5
 
 ℹ️:
 
-- Repelente al agua.
 - Ligero, duradero y siempre práctico.
 - Logotipo de Kipling.
+- Repelente al agua.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07TZ1NMXV/?tag=tolees-21)

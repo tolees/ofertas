@@ -28,10 +28,10 @@ Tienes [Apelson Encimera de Inducción | Modelo AVT 460 S | Cuatro Zonas de cocc
 
 ℹ️:
 
-- Indicador de calor residual
 - Desconexión automática de seguridad
-- Potencía del aparato (kw) 6, 5
 - Tensión nominal (v) 220-240
+- Potencía del aparato (kw) 6, 5
 - Tipo de control táctil
+- Indicador de calor residual
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00JXEHWKA/?tag=tolees-21)

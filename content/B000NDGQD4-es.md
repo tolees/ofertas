@@ -28,10 +28,10 @@ Tienes [Bosch Professional - Bosch Set de 46 unidades para atornillar con atorni
 
 🔎:
 
-- Dimensions: 245 x 135 x 50
-- Contained in a handy storage case
-- 32 screwdriver bits L = 25 mm (PH 0/1/2/3, PZ 0/1/2/3, S 3/4/4.5/5/6/7/8/9, HEX 1.5/2/2.5/3/4/5/5.5/6, T 8/10/15/20/25/27/30/40)
 - 12 nutsetters fro hex bolts (3/16 inch, 1/4 inch, 5/16 inch, 11/32 inch, 3/8 inch, 7/16 inch, 6, 7, 8, 10, 11, 13 mm), 1 universal holder, 1 manual screwdriver (right/left action), bit holder in handle
+- Contained in a handy storage case
 - Screwdriver set, suitable for the most common screwdriving and installation tasks
+- Dimensions: 245 x 135 x 50
+- 32 screwdriver bits L = 25 mm (PH 0/1/2/3, PZ 0/1/2/3, S 3/4/4.5/5/6/7/8/9, HEX 1.5/2/2.5/3/4/5/5.5/6, T 8/10/15/20/25/27/30/40)
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B000NDGQD4/?tag=tolees-21)

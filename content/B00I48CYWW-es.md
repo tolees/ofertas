@@ -28,13 +28,13 @@ En este momento está [Lékué MyBurger - Molde y prensador para elaborar Hambur
 
 🔎:
 
-- Intuitivo, funcional y fácil de usar, se guarda compacto en una pieza
-- Material: Silicona 100% platino
-- Peso: 115 gr
-- Haz hamburguesas, auténticas y originales en casa y disfruta de su calidad y el sabor en cualquier momento
 - Dimensiones: 11,5 x 6,5 cm
-- Apto para: Lavavajillas, Microondas
-- Infinidad de propuestas en la web
+- Material: Silicona 100% platino
+- Intuitivo, funcional y fácil de usar, se guarda compacto en una pieza
 - Muchas posibilidades: grande, pequeñas o rellenas
+- Haz hamburguesas, auténticas y originales en casa y disfruta de su calidad y el sabor en cualquier momento
+- Apto para: Lavavajillas, Microondas
+- Peso: 115 gr
+- Infinidad de propuestas en la web
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00I48CYWW/?tag=tolees-21)

@@ -28,10 +28,10 @@ Tienes [Durex Pack Preservativos Sensitivo Suave + Sensitivo Contacto Total + Re
 
 🔎:
 
-- Durex Real Feel: Sensación Piel con Piel, Sin Látex
 - Durex Sensitivo Contacto Total: Super Fino para mayor Sensibilidad
-- Consigue sacar el máximo partido a tus relaciones sexuales, no dudes en experimentar y atreverte a probar los nuevos productos
-- Pack Sensitivo Durex: 24 unidades Sensitivo Suave + 12 unidades Sensitivo Contacto Total + 3 Real Feel
 - Durex Sensitivo Suave: Preservativos Finos Easy On
+- Durex Real Feel: Sensación Piel con Piel, Sin Látex
+- Pack Sensitivo Durex: 24 unidades Sensitivo Suave + 12 unidades Sensitivo Contacto Total + 3 Real Feel
+- Consigue sacar el máximo partido a tus relaciones sexuales, no dudes en experimentar y atreverte a probar los nuevos productos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07DD94LPZ/?tag=tolees-21)
