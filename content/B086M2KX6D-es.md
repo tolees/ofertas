@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'MTNG CAPRI Complementos de Mujer Marrón al 51.95 % de descuento'
-date: 2021-02-04 21:12:23
-image: 'https://m.media-amazon.com/images/I/313xjd2E1+L._SL200_.jpg'
+date: 2021-02-05 22:16:39
+image: 'https://m.media-amazon.com/images/I/314m-G66yAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,13 +24,13 @@ average: '17.73'
 
 Está [MTNG CAPRI Complementos de Mujer Marrón](https://www.amazon.es/dp/B086M2KX6D/?tag=tolees-21) con 51.95 de descuento por 17.73 EUR (original: 36.9 EUR) en el siguiente enlace!
 
-[![MTNG CAPRI Complementos de Mujer Marrón](https://m.media-amazon.com/images/I/313xjd2E1+L._SL200_.jpg)](https://www.amazon.es/dp/B086M2KX6D/?tag=tolees-21)
+[![MTNG CAPRI Complementos de Mujer Marrón](https://m.media-amazon.com/images/I/314m-G66yAL._SL200_.jpg)](https://www.amazon.es/dp/B086M2KX6D/?tag=tolees-21)
 
 ℹ️:
 
 - Material del interior Textil
+- Altura Tacón Sin Tacón
 - Material principal Sintetico
 - Tipo de cierre Solapa
-- Altura Tacón Sin Tacón
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B086M2KX6D/?tag=tolees-21)
