@@ -1,12 +1,14 @@
 ---
 layout: post
 title: 'Descuento del 48.56 % en BRAUN ST310 PLANCHA PELO PLANCHAPELO ST-'
-date: 2021-01-13 12:41:05
+date: 2021-02-06 07:30:55
 image: 'https://m.media-amazon.com/images/I/31Ox5gsBXzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0009ME5IW-es'
+slug: 'B0009ME5IW-es BRAUN ST310 PLANCHA PELO PLANCHAPELO ST-310'
+sku: 'B0009ME5IW-es'
+tags: [  ]
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0
@@ -14,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'BRAUN ST310 PLANCHA PELO PLANCHAPELO ST-310'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Braun'
 buyurl: 'https://www.amazon.es/dp/B0009ME5IW/?tag=tolees-21'
 descuento: '48.56'
 average: '18.0'
