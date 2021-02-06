@@ -29,9 +29,9 @@ En este momento está [Sony HT-X8500  Barra de Sonido 2.1  Dolby Atmos  DTS:X  S
 🔎:
 
 - Botones para modos de sonido que permiten realzar las películas, la música, los juegos, las noticias y los deportes
-- Compatibilidad con 4K HDR
-- Subwoofers integrados para un sonido de graves Profundos
 - Diseño compacto de perfil bajo para complementar tu TV
+- Subwoofers integrados para un sonido de graves Profundos
+- Compatibilidad con 4K HDR
 - 2.1 canales con Dolby Atmos/DTS:X con Vertical Surround Engine
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07MF9R3ZL/?tag=tolees-21)

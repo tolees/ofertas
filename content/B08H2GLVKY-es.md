@@ -28,9 +28,9 @@ Ahora mismo tienes [Mr. Wonderful Calendario familiar - Venga  família  ¡Nos e
 
 🔎:
 
-- Con imán en la parte trasera
 - Contiene 3 blocs de notas adhesivas.
 - Incluye un bolígrafo, 4 hojas de pegatinas, 1 bloc de notas para la lista de la compra.
 - Con tabla mensual para organizar las tareas
+- Con imán en la parte trasera
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08H2GLVKY/?tag=tolees-21)

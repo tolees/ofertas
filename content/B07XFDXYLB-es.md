@@ -28,10 +28,10 @@ Ahora mismo tienes [Disney Classic Games: Aladdin and the Lion King](https://www
 
 🔎:
 
-- 1080P graphics and enhancements for modern HD TVs
-- Adjustable screen aspect ratios and borders
 - Multiple Game Versions: Play through several different versions of the beloved Aladdin and The Lion King games that have been created over the years, including both console and handheld versions.
 - Custom filter options designed to replicate classic CRT TVs and other popular screen types
+- Adjustable screen aspect ratios and borders
 - An all-new "Final Cut" version of Aladdin, developed exclusively for this collection, is also included and features difficulty adjustments, camera refinements, bug fixes, as well as a few additional surprises for fans..In-Game Rewind: Instantly rewind any of the games in real-time in order to re-try difficult areas..Interactive Watch Mode: View full game playthroughs, with the ability to skip forward and jump in and start playing at any point..Save Feature: Quickly save your progress in each of the games and continue your adventure wherever and whenever you want..Museum Feature: Take a journey behind-the-scenes and learn more about the creation of these incredible games. Watch video interviews with the original development teams or explore numerous galleries containing hundreds of previously unreleased HD concept images and marketing assets.
+- 1080P graphics and enhancements for modern HD TVs
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07XFDXYLB/?tag=tolees-21)
