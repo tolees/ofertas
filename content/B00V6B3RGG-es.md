@@ -28,9 +28,9 @@ En este momento está [Colágeno Epaplus Arthicare para articulaciones con Ácid
 
 🔎:
 
-- Contribuye a mejorar la movilidad de las articulaciones y a reducir el dolor articular
-- Favorece la conservación del cartílago
 - Previene lesiones deportivas
 - Mantiene la flexibilidad y lubricación de las articulaciones
+- Contribuye a mejorar la movilidad de las articulaciones y a reducir el dolor articular
+- Favorece la conservación del cartílago
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00V6B3RGG/?tag=tolees-21)

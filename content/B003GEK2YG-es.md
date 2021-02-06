@@ -28,11 +28,11 @@ Ahora mismo tienes [Severin KS 9827 - Mini-Frigorífico  70 W  42 l  Blanco](htt
 
 🔎:
 
-- Estante de puerta para 2 botellas, estante práctico, conservación por tiempo limitado de carnes y pescados frescos gracias al compartimento de almacenaje de 5 l integrado, termostato regulable
-- Color blanco
-- Clase climática n-st: 16 y 38°c en el exterior, poco ruido 43 dBA), 2 patas regulables en altura y bisagra intercambiable
-- Dimensiones Alto x Ancho x Profundo (centímetros): 51 x 48 x 44
-- El frigorífico que ahorra espacio: mini-frigorífico de bajo consumo con 42 l de capacidad y con compartimento congelador - adecuado para solteros, estudiantes, oficinas y hoteles como minibar
 - Calidad alemana, fabricación de alta calidad: carcasa de metal, ahorro energético anual aproximado: 107 kWh; clasificación energética A+
+- El frigorífico que ahorra espacio: mini-frigorífico de bajo consumo con 42 l de capacidad y con compartimento congelador - adecuado para solteros, estudiantes, oficinas y hoteles como minibar
+- Clase climática n-st: 16 y 38°c en el exterior, poco ruido 43 dBA), 2 patas regulables en altura y bisagra intercambiable
+- Color blanco
+- Dimensiones Alto x Ancho x Profundo (centímetros): 51 x 48 x 44
+- Estante de puerta para 2 botellas, estante práctico, conservación por tiempo limitado de carnes y pescados frescos gracias al compartimento de almacenaje de 5 l integrado, termostato regulable
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B003GEK2YG/?tag=tolees-21)
