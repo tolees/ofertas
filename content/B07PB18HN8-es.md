@@ -28,10 +28,10 @@ En este momento está [DURAGADGET Cable De Audio para Portátil Huawei Matebook 
 
 🔎:
 
-- Material de alta calidad
-- Clavija bañada en oro y aluminio
-- También lo puede usar con reproductores mp3
-- Conexión de 3.5mm que le permitirá conectar su portátil a su altavoz
 - Conexiones bañado en oro y cobre para una mejor condución y calidad de sonido
+- Material de alta calidad
+- También lo puede usar con reproductores mp3
+- Clavija bañada en oro y aluminio
+- Conexión de 3.5mm que le permitirá conectar su portátil a su altavoz
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07PB18HN8/?tag=tolees-21)

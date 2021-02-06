@@ -1,29 +1,32 @@
 ---
 layout: post
-title: 'Bakugan: Campeones de Vestroia al 50.05 % de descuento'
-date: 2021-01-08 06:11:34
+title: 'Warner Bros Interactive Spain - Bakugan: al 50.05 % de descuento'
+date: 2021-02-06 20:42:15
 image: 'https://m.media-amazon.com/images/I/41IKECvKwfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DRZJSG7-es'
+slug: 'B08DRZJSG7-es Warner Bros Interactive Spain - Bakugan: Campeones de...'
+sku: 'B08DRZJSG7-es'
+tags: [  ]
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95
 comparePrice: 49.95 EUR
-prodname: 'Bakugan: Campeones de Vestroia'
+prodname: 'Warner Bros Interactive Spain - Bakugan: Campeones de Vestroia'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Warner Bros Interactive Spain'
 buyurl: 'https://www.amazon.es/dp/B08DRZJSG7/?tag=tolees-21'
 descuento: '50.05'
-average: '28.298888888888886'
+average: '27.964'
 ---
 
-Ahora mismo tienes [Bakugan: Campeones de Vestroia](https://www.amazon.es/dp/B08DRZJSG7/?tag=tolees-21) a 24.95 EUR (original: 49.95 EUR) (50.05 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Warner Bros Interactive Spain - Bakugan: Campeones de Vestroia](https://www.amazon.es/dp/B08DRZJSG7/?tag=tolees-21) a 24.95 EUR (original: 49.95 EUR) (50.05 %  de descuento) en el siguiente enlace!
 
-[![Bakugan: Campeones de Vestroia](https://m.media-amazon.com/images/I/41IKECvKwfL._SL200_.jpg)](https://www.amazon.es/dp/B08DRZJSG7/?tag=tolees-21)
+[![Warner Bros Interactive Spain - Bakugan:](https://m.media-amazon.com/images/I/41IKECvKwfL._SL200_.jpg)](https://www.amazon.es/dp/B08DRZJSG7/?tag=tolees-21)
 
 🔎:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B08DRZJSG7/?tag=tolees-21)
+[🛒 Visítala!!!](https://www.amazon.es/dp/B08DRZJSG7/?tag=tolees-21)

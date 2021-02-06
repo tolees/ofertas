@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lip Smacker Blister en vaso Bálsamo Labi con un 38.10 % de descuento'
-date: 2021-01-21 22:24:32
+date: 2021-02-06 20:44:52
 image: 'https://m.media-amazon.com/images/I/41yplfdTjwL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ comparePrice: 4.83 EUR
 prodname: 'Lip Smacker Blister en vaso Bálsamo Labial Sprite'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Lip Smacker'
 buyurl: 'https://www.amazon.es/dp/B073JJX8HX/?tag=tolees-21'
 descuento: '38.10'
 average: '2.99'
@@ -28,8 +29,8 @@ En este momento está [Lip Smacker Blister en vaso Bálsamo Labial Sprite](https
 🔎:
 
 - Humecta tus labios y los protege de las grietas
-- Con el sabor y aroma del jugo
-- Contiene manteca de karité y aceites naturales
 - Presentación de 7.4 g
+- Contiene manteca de karité y aceites naturales
+- Con el sabor y aroma del jugo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B073JJX8HX/?tag=tolees-21)

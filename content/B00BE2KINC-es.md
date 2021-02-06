@@ -28,8 +28,8 @@ Ahora mismo tienes [Trust Primo - Cargador para portátil de 90 w  Negro](https:
 
 🔎:
 
-- Potencia de salida total de 90 W
-- Puede utilizarse con las marcas Acer, Asus, Compaq, Dell, Fujitsu, HP, IBM, Lenovo, Packard Bell, Samsung, Sony y Toshiba; conectores incluidos
 - Diseño fiable y duradero
+- Puede utilizarse con las marcas Acer, Asus, Compaq, Dell, Fujitsu, HP, IBM, Lenovo, Packard Bell, Samsung, Sony y Toshiba; conectores incluidos
+- Potencia de salida total de 90 W
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00BE2KINC/?tag=tolees-21)

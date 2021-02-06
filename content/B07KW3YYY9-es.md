@@ -28,10 +28,10 @@ Tienes [O³ Milestone Baby Cards Lola Kids – 40 Cartas En Español Para Primer
 
 🔎:
 
-- 💯 SATISFACCIÓN GARANTIZADA - Satisfecho o Rembolsado - GARANTÍA DE POR VIDA! Si tienes algunas preguntas, contáctanos por Amazon, respondemos a todos mensajes dentro de 24 horas
 - 👶 LA MEJOR MANERA DE GUARDAR RECUERDOS DE INFANCIA DE CADA BEBÉ! – Nuestras Milestone Baby Cards O³ son 40 tarjetas en CASTELLANO hechas de papel grueso de fina calidad. Cada tarjeta tiene diseño único y lugar para poner la fecha del recuerdo de bebé
+- 💯 SATISFACCIÓN GARANTIZADA - Satisfecho o Rembolsado - GARANTÍA DE POR VIDA! Si tienes algunas preguntas, contáctanos por Amazon, respondemos a todos mensajes dentro de 24 horas
+- 📷 NO PIERDAS NINGÚN MOMENTO IMPORTANTE - Cuando el bebé crece tan rápido, lo más importante es capturar y guardar esos momentos bonitos. Se puede poner luego poner en un álbum o hacerles un marco para la pared. ¡Saldrán útil cuando cumplirá 18 años o en su boda!
 - 🎁 PERFECTO REGALO PARA RECIEN NACIDOS & BABY SHOWERS – Vienen en una caja bonita. Con este regalo dejarás los padres, familia y amigos con recuerdos de primera, ¡y con fotos muy fácil de identificar después de años! El set es unisex - sirve para niñas y niños
 - 🎂 LOGROS DEL PRIMER AÑO DE TU BEBÉ – Las tarjetas cubren los eventos de la vida del bebé más importantes, desde primer día hasta un año de vida: primer diente, primer bañito, primer amiguito ¡y muchos más!
-- 📷 NO PIERDAS NINGÚN MOMENTO IMPORTANTE - Cuando el bebé crece tan rápido, lo más importante es capturar y guardar esos momentos bonitos. Se puede poner luego poner en un álbum o hacerles un marco para la pared. ¡Saldrán útil cuando cumplirá 18 años o en su boda!
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07KW3YYY9/?tag=tolees-21)
