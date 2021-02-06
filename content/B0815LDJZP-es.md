@@ -29,8 +29,8 @@ Tienes [Armani Exchange Caban Coat Gabardina  Bollywood  M para Mujer](https://w
 ℹ️:
 
 - Sudadera con capucha.
-- Bolsillo en la manga.
 - Cordón en la cintura y en la parte inferior.
 - Logotipo en la parte trasera.
+- Bolsillo en la manga.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0815LDJZP/?tag=tolees-21)

@@ -28,10 +28,10 @@ En este momento está [Salomon Bolsa-mochila de deporte o viaje  Unisex  PROLOG 
 
 🔎:
 
-- Espalda acolchada para una comodidad óptima, 1 compartimento impermeabilizado para ropa sucia o mojada, Fabricación con materiales resistentes e impermeables en la parte inferior de la mochila
+- Fabricación sin PVC, Impermeable y con tecnología 210D Nylon Triple Ripstop
 - Cintas de compresión para un ajuste rápido y una estabilización óptima, 2 bolsillos internos, 1 compartimento principal, Gran abertura frontal con doble cremallera para un acceso fácil y rápido
 - Contenido: 1x Salomon Bolsa-mochila de deporte o viaje, Unisex, PROLOG 70 BACKPACK, Poliamida/Poliéster/PE, Verde (Olive Night), Volumen: 70 L, Dimensiones: 70 x 30 x 27, Peso: 800 g, LC1419400
 - Mochila grande para efectos personales y material necesario para escapadas de fin de semana o rutas de senderismo
-- Fabricación sin PVC, Impermeable y con tecnología 210D Nylon Triple Ripstop
+- Espalda acolchada para una comodidad óptima, 1 compartimento impermeabilizado para ropa sucia o mojada, Fabricación con materiales resistentes e impermeables en la parte inferior de la mochila
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08433VTDN/?tag=tolees-21)

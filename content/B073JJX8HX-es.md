@@ -28,9 +28,9 @@ En este momento está [Lip Smacker Blister en vaso Bálsamo Labial Sprite](https
 
 🔎:
 
-- Humecta tus labios y los protege de las grietas
-- Presentación de 7.4 g
 - Contiene manteca de karité y aceites naturales
+- Humecta tus labios y los protege de las grietas
 - Con el sabor y aroma del jugo
+- Presentación de 7.4 g
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B073JJX8HX/?tag=tolees-21)

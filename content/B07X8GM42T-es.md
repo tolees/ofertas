@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'KM-Gaming K-GM2 PMW3330 - Ratón óptico p al 31.12 % de descuento'
-date: 2020-10-11 19:54:08
+title: 'KM · GAMING - KM-Gaming K-GM2 - Ratón óp al 37.49 % de descuento'
+date: 2021-02-06 21:26:06
 image: 'https://m.media-amazon.com/images/I/31gDUZhwLRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X8GM42T-es KM-Gaming K-GM2 PMW3330 - Ratón óptico para Videojuegos 7...'
+slug: 'B07X8GM42T-es KM · GAMING - KM-Gaming K-GM2 - Ratón óptico para...'
 sku: 'B07X8GM42T-es'
 tags: [  ]
-actualPrice: 28.82 EUR
+actualPrice: 24.96 EUR
 currency: EUR
-price: 28.82
-comparePrice: 41.84 EUR
-prodname: 'KM-Gaming K-GM2 PMW3330 - Ratón óptico para Videojuegos  7 200 CPI  USB  Sensor Pixart PMW3330  Marco de Metal  Interruptor Omron programable '
+price: 24.96
+comparePrice: 39.93 EUR
+prodname: 'KM · GAMING - KM-Gaming K-GM2 - Ratón óptico para videojuegos  USB  7200 cpi  sensor PMW3330  30G  marco de metal  interruptor Omron  programable '
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'KM · GAMING'
 buyurl: 'https://www.amazon.es/dp/B07X8GM42T/?tag=tolees-21'
-descuento: '31.12'
-average: '29.215'
+descuento: '37.49'
+average: '27.7966666666667'
 ---
 
-Ahora mismo tienes [KM-Gaming K-GM2 PMW3330 - Ratón óptico para Videojuegos  7 200 CPI  USB  Sensor Pixart PMW3330  Marco de Metal  Interruptor Omron programable ](https://www.amazon.es/dp/B07X8GM42T/?tag=tolees-21) a 28.82 EUR (original: 41.84 EUR) (31.12 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [KM · GAMING - KM-Gaming K-GM2 - Ratón óptico para videojuegos  USB  7200 cpi  sensor PMW3330  30G  marco de metal  interruptor Omron  programable ](https://www.amazon.es/dp/B07X8GM42T/?tag=tolees-21) a 24.96 EUR (original: 39.93 EUR) (37.49 %  de descuento) en el siguiente enlace!
 
-[![KM-Gaming K-GM2 PMW3330 - Ratón óptico p](https://m.media-amazon.com/images/I/31gDUZhwLRL._SL200_.jpg)](https://www.amazon.es/dp/B07X8GM42T/?tag=tolees-21)
+[![KM · GAMING - KM-Gaming K-GM2 - Ratón óp](https://m.media-amazon.com/images/I/31gDUZhwLRL._SL200_.jpg)](https://www.amazon.es/dp/B07X8GM42T/?tag=tolees-21)
 
 🔎:
 
+- Software con opciones de ajuste, ocupación y editor macro
+- Sensor óptico de alta calidad: Pixart PMW3330 [Native 7200 CPI / 8000 FPS / 30 G]
+- Sin aceleración del puntero del ratón, sin corrección del puntero del ratón
+- Marco de metal / 7 teclas programables
+- 1:1 Aiming, tiempo de respuesta de 1 ms, 150 IPS, interruptor Omron
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07X8GM42T/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Only onlGEENA XO L/S Pullover KNT Noos S al 36.41 % de descuento'
-date: 2021-02-05 22:00:23
+date: 2021-02-06 22:13:59
 image: 'https://m.media-amazon.com/images/I/41sqXLQf7XL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Only'
 buyurl: 'https://www.amazon.es/dp/B079C27SJB/?tag=tolees-21'
 descuento: '36.41'
-average: '14.5253846153846'
+average: '14.4539999999999'
 ---
 
 Ahora mismo tienes [Only onlGEENA XO L/S Pullover KNT Noos Suter Pulver  Negro  Black   XXL para Mujer](https://www.amazon.es/dp/B079C27SJB/?tag=tolees-21) a 13.99 EUR (original: 22.0 EUR) (36.41 %  de descuento) en el siguiente enlace!
