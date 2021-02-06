@@ -28,10 +28,10 @@ Ahora mismo tienes [Koch Media - NieR Automata - Game Of The YoRHa Edición](htt
 
 🔎:
 
-- Los jugadores noveles pueden seleccionar el modo Auto para atacar y esquivar al enemigo fácilmente
-- Aprovecha los pods de apoyo táctico dentro y fuera del combate
 - Consigue distintos tipos de armas, sube de nivel al luchar, aprende nuevas habilidades de combate y personaliza tu equipo en función de tu estilo
 - NieR:Automata narra la historia de los androides 2B, 9S y A2, que luchan enardecidamente para recuperar el mundo distópico dirigido por las máquinas que han invadido unas poderosas formas de vida mecánicas
+- Aprovecha los pods de apoyo táctico dentro y fuera del combate
 - Combates cargados de acción
+- Los jugadores noveles pueden seleccionar el modo Auto para atacar y esquivar al enemigo fácilmente
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07MMSVVVM/?tag=tolees-21)

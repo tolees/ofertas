@@ -28,9 +28,9 @@ Está [IMC Toys-¡No Seas Boca ¡No Seas Bocas  multicolor  98466    color/model
 
 ℹ️:
 
-- El jugador con más puntos cuando estos se acaben ganará la partida
 - Juego electrónico familiar en el que deberás representar con sonidos lo que la boca te haya susurrado al oído
-- Edad recomendada a partir de 8 años
 - Necesita tres pilas LR03 no incluidas
+- Edad recomendada a partir de 8 años
+- El jugador con más puntos cuando estos se acaben ganará la partida
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07DD75Q1F/?tag=tolees-21)

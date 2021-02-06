@@ -28,9 +28,9 @@ En este momento está [TP-LINK AC2200 Deco M9 Plus  3-pack  - Amplificador wifi 
 
 🔎:
 
-- 6935364081553
-- TP-LINK Deco M9 Plus wireless router Tri-band (2.4 GHz / 5 GHz / 5 GHz) Gigabit Ethernet White
-- DECO M9 PLUS(3-PACK)
 - Wireless Routers
+- TP-LINK Deco M9 Plus wireless router Tri-band (2.4 GHz / 5 GHz / 5 GHz) Gigabit Ethernet White
+- 6935364081553
+- DECO M9 PLUS(3-PACK)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07GVNH2V8/?tag=tolees-21)

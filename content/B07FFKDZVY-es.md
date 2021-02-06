@@ -28,10 +28,10 @@ Ahora mismo tienes [Fossil Smartwatch FTW6016](https://www.amazon.es/dp/B07FFKDZ
 
 🔎:
 
+- Vida útil de la pila: Hasta 24 horas* *según el uso*; Compatibilidad: Android OS 4.4+ (excepto la edición Go), iOS 9.3+; Conectividad: Bluetooth Smart activado/4.1 Low Energy
+- Se presenta en caja de regalo Fossil Q Connected
 - Material de la correa: Piel; Resistente al agua: 5 ATM
 - Seguimiento de actividad: Sí; Material de la caja: Acero inoxidable; Ritmo cardíaco: Sí; Control de sueño: No; Intercambiable: Sí; Notificaciones: Sí; Pantalla táctil: Sí
-- Vida útil de la pila: Hasta 24 horas* *según el uso*; Compatibilidad: Android OS 4.4+ (excepto la edición Go), iOS 9.3+; Conectividad: Bluetooth Smart activado/4.1 Low Energy
 - Grosor de la caja: 8mm; Tamaño de la caja: 40mm; Ancho de la correa: 18mm; Circunferencia de la correa: 195+/- 5mm
-- Se presenta en caja de regalo Fossil Q Connected
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07FFKDZVY/?tag=tolees-21)

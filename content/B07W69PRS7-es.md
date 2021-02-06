@@ -28,10 +28,10 @@ Ahora mismo tienes [Remington G4 Graphite Series PG4000 - Recortador de Barba y 
 
 🔎:
 
-- Inalámbrico, hasta 60 minutos de uso y tiempo de carga de 10 horas
 - Accesorios: cortador lineal facial, cortador de precisión TST, minicuchillas de afeitado, peine de doble ajuste para barba y cabello (2-20 mm) y peines fijos de 1.5 y 3 mm
-- La cuchilla principal funciona como cortapelos y barbero; todas las cuchillas son autoafilables
 - Sus cuchillas y accesorios son totalmente lavables; dispone además de un indicador LED del nivel de carga
+- Inalámbrico, hasta 60 minutos de uso y tiempo de carga de 10 horas
+- La cuchilla principal funciona como cortapelos y barbero; todas las cuchillas son autoafilables
 - Recortadora con revestimiento de grafito diseñado para un deslizamiento suave y cómodo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07W69PRS7/?tag=tolees-21)
