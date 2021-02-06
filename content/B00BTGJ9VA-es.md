@@ -28,10 +28,10 @@ Tienes [DBS Alfombrillas de Coche - A Medida - Alfombrillas para Coche - 3 uds. 
 
 🔎:
 
-- 2 alfombrillas delanteras + 1 alfombrilla trasera con puente
-- Moqueta acordonada 900 g/m² - contorno tipo terciopelo : calidad fabricante
 - Sistema exclusivo antideslizante : AUTOGRIP
 - hecho a medida para OPEL Corsa (07/2006 hasta 08/2014)
+- 2 alfombrillas delanteras + 1 alfombrilla trasera con puente
+- Moqueta acordonada 900 g/m² - contorno tipo terciopelo : calidad fabricante
 - Clips de fijación de origen
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00BTGJ9VA/?tag=tolees-21)

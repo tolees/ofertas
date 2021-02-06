@@ -29,8 +29,8 @@ Tienes [ONLY Skinny Reg Soft Ultimate Vaqueros  Black Denim  L / 32L para Mujer]
 ℹ️:
 
 - Cierre con cremallera y botón.
-- Pierna ajustada con cintura normal.
 - Composición: 73% algodón, 24% poliéster, 3% elastano
+- Pierna ajustada con cintura normal.
 - Vaqueros elásticos
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00C2KVT0Q/?tag=tolees-21)

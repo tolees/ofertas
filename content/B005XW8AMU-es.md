@@ -28,10 +28,10 @@ En este momento está [KS Tools 503.4565 4 en 1  llave poligonal doble con carra
 
 🔎:
 
-- Para distintos anchos de llave
-- Satinado muy fino
 - Con palanca de conmutación
 - Dentado exacto con 72 dientes
+- Para distintos anchos de llave
 - Forma recta
+- Satinado muy fino
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B005XW8AMU/?tag=tolees-21)
