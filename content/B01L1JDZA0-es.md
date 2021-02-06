@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.01 % en WORKPRO Juego de Herramientas Básicas y '
-date: 2021-02-05 09:13:07
+date: 2021-02-06 09:37:24
 image: 'https://m.media-amazon.com/images/I/51+nNRw4muL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'WORKPRO'
 buyurl: 'https://www.amazon.es/dp/B01L1JDZA0/?tag=tolees-21'
 descuento: '25.01'
-average: '29.1775'
+average: '29.225294117647'
 ---
 
 Tienes [WORKPRO Juego de Herramientas Básicas y Accesorios 100-piezas con Bolsa Alicates Destornilladores Llaves Metro para Bricolaje y Arreglos Diarios](https://www.amazon.es/dp/B01L1JDZA0/?tag=tolees-21) con un 25.01 % de descuento con precio de oferta de 29.99 EUR (original: 39.99 EUR) en el siguiente enlace!

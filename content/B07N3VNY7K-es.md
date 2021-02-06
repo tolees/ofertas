@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Diesel Reloj Cronógrafo para Hombre de C al 61.93 % de descuento'
-date: 2021-02-02 20:21:22
+date: 2021-02-06 11:21:38
 image: 'https://m.media-amazon.com/images/I/41zH1y0cySL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Diesel'
 buyurl: 'https://www.amazon.es/dp/B07N3VNY7K/?tag=tolees-21'
 descuento: '61.93'
-average: '98.49'
+average: '96.99'
 ---
 
 Ahora mismo tienes [Diesel Reloj Cronógrafo para Hombre de Cuarzo con Correa en Nailon DZ4506](https://www.amazon.es/dp/B07N3VNY7K/?tag=tolees-21) a 90.99 EUR (original: 239.0 EUR) (61.93 %  de descuento) en el siguiente enlace!
