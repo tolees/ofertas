@@ -28,10 +28,10 @@ Tienes [Titanlux - Esmalte agua ecologico santinado  Blanco  2 5L  ref. 01T05662
 
 ℹ️:
 
-- Ultra-resistente y flexible.
 - Todas las Superficies.
+- Ultra-resistente y flexible.
 - Secado Expres (20 min).
-- Monocapa.
 - No huele.
+- Monocapa.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07BSC8H35/?tag=tolees-21)

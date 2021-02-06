@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Wired Productions - The Falconeer Day On al 37.51 % de descuento'
-date: 2021-01-27 09:53:45
+date: 2021-02-06 18:48:35
 image: 'https://m.media-amazon.com/images/I/51Y4X4ZCxGL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Wired Productions - The Falconeer Day One Edition'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Wired Productions'
 buyurl: 'https://www.amazon.es/dp/B08F36YYNN/?tag=tolees-21'
 descuento: '37.51'
 average: '24.99'
@@ -27,10 +28,10 @@ Está [Wired Productions - The Falconeer Day One Edition](https://www.amazon.es/
 
 ℹ️:
 
-- Explora The Great Ursee; experimenta combates aéreos rápidos y brutales
 - Descubre alturas elevadas o lugares misteriosos bajo el agua; enfréntate a una amplia gama de enemigos, desde Falconeers rivales hasta aeronaves pesadas, escarabajos voladores, manta rayas y más
+- Explora The Great Ursee; experimenta combates aéreos rápidos y brutales
 - Únete o compite contra facciones en el juego
-- Gana astillas para mejorar tu halcón a través de armas, armaduras, cosméticos y mutágenos
 - Elige tu historia de origen para crear un jinete único
+- Gana astillas para mejorar tu halcón a través de armas, armaduras, cosméticos y mutágenos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08F36YYNN/?tag=tolees-21)

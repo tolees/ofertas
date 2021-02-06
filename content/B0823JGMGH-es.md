@@ -28,8 +28,8 @@ En este momento está [Asics Patriot 12  Sneaker Hombre  Black/White  43.5 EU](h
 
 🔎:
 
-- Tapa interior del talón
 - Entresuela de EVA
+- Tapa interior del talón
 - Suela de goma sólida
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0823JGMGH/?tag=tolees-21)

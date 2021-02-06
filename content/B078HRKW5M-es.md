@@ -28,10 +28,10 @@ Tienes [BRA Perfecta – Cafetera Italiana Inducción  Aluminio  capacidad 6 taz
 
 ℹ️:
 
-- Diámetro superior 12.5 cm y diámetro inferior 9.3 cm
-- Apta para todo tipo de cocinas, incluida inducción
-- Capacidad para 6 tazas de café 300 ml
 - Full Induction: esta tecnología está preparada para lograr la máxima dispersión del calor gracias a su fondo homogéneo sin agujeros, consiguiendo la máxima eficiencia y el ahorro de energía
+- Capacidad para 6 tazas de café 300 ml
+- Apta para todo tipo de cocinas, incluida inducción
+- Diámetro superior 12.5 cm y diámetro inferior 9.3 cm
 - Cafetera fabricada en aluminio de alta calidad con diseño vanguardista y polivalente que le ofrece el aroma y el sabor de siempre con las ventajas BRA
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B078HRKW5M/?tag=tolees-21)
