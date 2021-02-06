@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony DVP-SR170 - Reproductor de DVD HD   al 28.91 % de descuento'
-date: 2021-02-04 11:40:02
+date: 2021-02-05 23:51:06
 image: 'https://m.media-amazon.com/images/I/31y88bOPrbL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B00BSCAB76/?tag=tolees-21'
 descuento: '28.91'
-average: '36.5602898550726'
+average: '36.5274100719426'
 ---
 
 Está [Sony DVP-SR170 - Reproductor de DVD HD  Negro](https://www.amazon.es/dp/B00BSCAB76/?tag=tolees-21) con 28.91 de descuento por 31.99 EUR (original: 45.0 EUR) en el siguiente enlace!
