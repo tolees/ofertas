@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Eryplast Lutsine E45 - Pasta al Agua par al 36.18 % de rebaja'
-date: 2021-02-05 03:20:35
+date: 2021-02-06 04:13:24
 image: 'https://m.media-amazon.com/images/I/41PmsDvXz5L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Eryplast'
 buyurl: 'https://www.amazon.es/dp/B06Y34XPVQ/?tag=tolees-21'
 descuento: '36.18'
-average: '14.4131693989071'
+average: '14.4325945945946'
 ---
 
 Tienes [Eryplast Lutsine E45 - Pasta al Agua para la Piel del Bebé - Crema Pañal 2 x 125 gr](https://www.amazon.es/dp/B06Y34XPVQ/?tag=tolees-21) con precio final de  16.21 EUR (original: 25.4 EUR) (36.18 %  de rebaja) aqui!

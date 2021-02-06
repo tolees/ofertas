@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung Portable SSD T7 1000 GB Azul al 29.47 % de descuento'
-date: 2021-02-05 04:03:00
+date: 2021-02-06 04:33:47
 image: 'https://m.media-amazon.com/images/I/31ht1eviRrL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SAMSUNG'
 buyurl: 'https://www.amazon.es/dp/B087DF1L2J/?tag=tolees-21'
 descuento: '29.47'
-average: '184.129333333334'
+average: '183.917570093458'
 ---
 
 Ahora mismo tienes [Samsung Portable SSD T7 1000 GB Azul](https://www.amazon.es/dp/B087DF1L2J/?tag=tolees-21) a 172.8 EUR (original: 244.99 EUR) (29.47 %  de descuento) en el siguiente enlace!
