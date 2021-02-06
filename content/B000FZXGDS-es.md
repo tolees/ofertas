@@ -28,10 +28,10 @@ Tienes [American Crew Fibra Moldeadora  Fijación Fuerte / Brillo Suave  - 50 g]
 
 ℹ️:
 
-- Funciona bien en el pelo más corto, de 3-8 cm de largo
 - Ayuda a espesar, definir la textura y aumentar la plenitud al cabello
 - Proporciona una fijación fuerte y flexible con un acabado mate
 - Contenido de 50 gr
 - Similar a la fibra, producto resinoso ayuda a espesar, texturizar y aumentar la plenitud al cabello
+- Funciona bien en el pelo más corto, de 3-8 cm de largo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000FZXGDS/?tag=tolees-21)
