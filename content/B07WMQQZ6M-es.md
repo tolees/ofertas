@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '9 LED Luz de Lectura Libro  OMERIL Lampa al 32.52 % de descuento'
-date: 2021-02-05 06:55:34
+date: 2021-02-06 08:08:28
 image: 'https://m.media-amazon.com/images/I/419kTNfzAxL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'OMERIL'
 buyurl: 'https://www.amazon.es/dp/B07WMQQZ6M/?tag=tolees-21'
 descuento: '32.52'
-average: '13.3081818181818'
+average: '13.3233333333333'
 ---
 
 Está [9 LED Luz de Lectura Libro  OMERIL Lampara Lectura Recargable con Sensor Táctil  3 Modos de Brillo Ajustable  Luz Cálido y Blanco   Luz Pinza Libro para Lectores Noche  E-Reader  Estudio  Cama  Tablet](https://www.amazon.es/dp/B07WMQQZ6M/?tag=tolees-21) con 32.52 de descuento por 13.49 EUR (original: 19.99 EUR) en el siguiente enlace!

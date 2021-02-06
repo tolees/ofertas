@@ -28,10 +28,10 @@ Está [S&M 321771 Regulador de Gas Butano Goma M + 2 Abraz  Gris/Naranja  1 5 Me
 
 ℹ️:
 
-- Indicado para cocinas y estufas de gas
-- Para instalaciones de gas butano y propano
 - Caudal garantizado: 2.5 kg/h, presión de alimentación: 0, 6-16 bar y presión de cierre: 63 mbar
+- Para instalaciones de gas butano y propano
 - Tubo homologado con una longitud de 1, 5 m. + regulador doméstico butano apto para acoplar a aparatos que funcionen con presión de entrada 30 mbar
+- Indicado para cocinas y estufas de gas
 - Conexión de entrada: g-56 (une-en 12864); conexión de salida: h-51 (une-en 12864)
 - Diámetro interior de la manguera: 9 x 15mm; fecha de caducidad en tubo
 
