@@ -28,10 +28,10 @@ Está [Wired Productions - The Falconeer Day One Edition](https://www.amazon.es/
 
 ℹ️:
 
-- Descubre alturas elevadas o lugares misteriosos bajo el agua; enfréntate a una amplia gama de enemigos, desde Falconeers rivales hasta aeronaves pesadas, escarabajos voladores, manta rayas y más
-- Explora The Great Ursee; experimenta combates aéreos rápidos y brutales
-- Únete o compite contra facciones en el juego
-- Elige tu historia de origen para crear un jinete único
 - Gana astillas para mejorar tu halcón a través de armas, armaduras, cosméticos y mutágenos
+- Únete o compite contra facciones en el juego
+- Descubre alturas elevadas o lugares misteriosos bajo el agua; enfréntate a una amplia gama de enemigos, desde Falconeers rivales hasta aeronaves pesadas, escarabajos voladores, manta rayas y más
+- Elige tu historia de origen para crear un jinete único
+- Explora The Great Ursee; experimenta combates aéreos rápidos y brutales
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08F36YYNN/?tag=tolees-21)

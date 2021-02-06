@@ -29,9 +29,9 @@ Tienes [Casio G-SHOCK Reloj Analógico-Digital  Carbonífero  20 BAR  Amarillo/N
 ℹ️:
 
 - Función de hora mundial
-- Carcasa de resina reforzada con carbono
-- Clasificación de resistencia al agua (20 bares)
-- Luz LED
 - Función de cronómetro - 1/100 seg. - 24 horas. ; Temporizador - 1/1 min. - 24 horas
+- Clasificación de resistencia al agua (20 bares)
+- Carcasa de resina reforzada con carbono
+- Luz LED
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07PFF5GZD/?tag=tolees-21)

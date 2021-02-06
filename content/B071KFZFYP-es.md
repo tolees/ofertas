@@ -28,8 +28,8 @@ Está [Funko Pop!- Motu S2: Merman Figura de vinilo  21808    color/modelo surti
 
 ℹ️:
 
-- Cada personaje mide alrededor de 9 cm
 - Diseño moderno
+- Cada personaje mide alrededor de 9 cm
 - Viene embalado en una caja con ventanas ilustrada
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B071KFZFYP/?tag=tolees-21)

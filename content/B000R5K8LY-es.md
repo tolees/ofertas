@@ -28,10 +28,10 @@ En este momento está [Bosch Professional Disco de sierra circular Multi Materia
 
 🔎:
 
-- Apto para sierras ingletadoras e ingletadoras telescópicas, así como sierras circulares de sobremesa de la mayoría de las marcas de herramientas eléctricas
-- Disco para cortes potentes con bordes limpios en materiales de todo tipo
-- Las ranuras de expansión y del cuerpo en el disco de sierra minimizan las vibraciones, amortiguan el ruido y reducen la generación de calor
 - Diámetro del disco: 216 mm; orificio: 30 mm, ancho de corte; 2,5 mm; número de dientes: 80
+- Disco para cortes potentes con bordes limpios en materiales de todo tipo
 - Con su elevado número de dientes se consigue un corte limpio y preciso
+- Las ranuras de expansión y del cuerpo en el disco de sierra minimizan las vibraciones, amortiguan el ruido y reducen la generación de calor
+- Apto para sierras ingletadoras e ingletadoras telescópicas, así como sierras circulares de sobremesa de la mayoría de las marcas de herramientas eléctricas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B000R5K8LY/?tag=tolees-21)

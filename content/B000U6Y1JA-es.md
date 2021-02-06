@@ -28,11 +28,11 @@ Está [Midland C480 13 - Radio CB](https://www.amazon.es/dp/B000U6Y1JA/?tag=tole
 
 ℹ️:
 
+- Canales: 40 AM/FM
+- Radio multiestándar
+- SCAN, Doble escucha
+- Canal de emergencia (EMG)
 - Indicador estado de batería
 - Bloqueo del teclado (LOCK)
-- Radio multiestándar
-- Canal de emergencia (EMG)
-- SCAN, Doble escucha
-- Canales: 40 AM/FM
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B000U6Y1JA/?tag=tolees-21)

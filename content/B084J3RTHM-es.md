@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Petit Bateau - Plumífero para bebé niña  con un 60.00 % de descuento'
-date: 2021-01-30 14:02:43
+date: 2021-02-06 19:02:48
 image: 'https://m.media-amazon.com/images/I/416HwU1woSL._SL200_.jpg'
 comments: true
 category: ofertas
