@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'KiplingAsseni MiniMujerBolsos totesNegro al 59.64 % de descuento'
-date: 2021-02-04 20:51:09
+date: 2021-02-06 13:18:01
 image: 'https://m.media-amazon.com/images/I/41NWqqT4HRL._SL200_.jpg'
 comments: true
 category: ofertas

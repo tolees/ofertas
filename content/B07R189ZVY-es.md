@@ -1,35 +1,37 @@
 ---
 layout: post
-title: 'Blacksad: Under The Skin - Collector s E al 42.15 % de rebaja'
-date: 2021-01-20 09:01:10
+title: 'Meridiem Games - Blacksad: Under The Ski al 41.67 % de rebaja'
+date: 2021-02-06 12:07:29
 image: 'https://m.media-amazon.com/images/I/41aC0K50h0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R189ZVY-es Blacksad: Under The Skin - Collector s Edition'
+slug: 'B07R189ZVY-es Meridiem Games - Blacksad: Under The Skin - Collector s...'
+sku: 'B07R189ZVY-es'
 tags: [  ]
-actualPrice: 69.42 EUR
+actualPrice: 69.99 EUR
 currency: EUR
-price: 69.42
+price: 69.99
 comparePrice: 119.99 EUR
-prodname: 'Blacksad: Under The Skin - Collector s Edition'
+prodname: 'Meridiem Games - Blacksad: Under The Skin - Collector s Edition'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Meridiem Games'
 buyurl: 'https://www.amazon.es/dp/B07R189ZVY/?tag=tolees-21'
-descuento: '42.15'
-average: '76.922'
+descuento: '41.67'
+average: '75.7666666666667'
 ---
 
-Tienes [Blacksad: Under The Skin - Collector s Edition](https://www.amazon.es/dp/B07R189ZVY/?tag=tolees-21) con precio final de  69.42 EUR (original: 119.99 EUR) (42.15 %  de rebaja) aqui!
+Tienes [Meridiem Games - Blacksad: Under The Skin - Collector s Edition](https://www.amazon.es/dp/B07R189ZVY/?tag=tolees-21) con precio final de  69.99 EUR (original: 119.99 EUR) (41.67 %  de rebaja) aqui!
 
-[![Blacksad: Under The Skin - Collector s E](https://m.media-amazon.com/images/I/41aC0K50h0L._SL200_.jpg)](https://www.amazon.es/dp/B07R189ZVY/?tag=tolees-21)
+[![Meridiem Games - Blacksad: Under The Ski](https://m.media-amazon.com/images/I/41aC0K50h0L._SL200_.jpg)](https://www.amazon.es/dp/B07R189ZVY/?tag=tolees-21)
 
 🔎:
 
-- Figura John Blacksad
-- Portfolio
-- 4 Postales con ilustraciones de los personajes principales
-- Carátula lenticular
 - Caja Edición Coleccionista
+- Portfolio
+- Carátula lenticular
+- Figura John Blacksad
+- 4 Postales con ilustraciones de los personajes principales
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07R189ZVY/?tag=tolees-21)

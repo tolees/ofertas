@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kipling Baroe S  Monederos para Mujer  G al 60.00 % de descuento'
-date: 2021-02-06 11:59:46
+date: 2021-02-06 12:00:12
 image: 'https://m.media-amazon.com/images/I/51omnzAtLvL._SL200_.jpg'
 comments: true
 category: ofertas
