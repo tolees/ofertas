@@ -28,8 +28,8 @@ Tienes [Sony Gran Turismo Sport - Edición Estándar](https://www.amazon.es/dp/B
 
 ℹ️:
 
-- Disponible con modo multijugador
 - Plataforma: Playstation 4
+- Disponible con modo multijugador
 - Tipo de producto: videojuego
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01GO9OP5Q/?tag=tolees-21)

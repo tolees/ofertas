@@ -28,9 +28,9 @@ Está [Under Armour Coldgear Rush Legging  Mujer  Rosa  SM](https://www.amazon.e
 
 ℹ️:
 
-- Confección con tejido elástico en 4 direcciones que permite una mayor movilidad
-- Paneles de malla en la parte posterior de las rodillas para una mayor ventilación
 - Material que capilariza el sudor y se seca rápidamente
 - Tejido ColdGear de doble capa que combina un interior suave de secado rápido con un interior cepillado que retiene la calidez
+- Paneles de malla en la parte posterior de las rodillas para una mayor ventilación
+- Confección con tejido elástico en 4 direcciones que permite una mayor movilidad
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07R1ZJHS1/?tag=tolees-21)
