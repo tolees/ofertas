@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Rii RM200 Ratón inalámbrico con batería  al 40.55 % de rebaja'
-date: 2021-01-31 23:39:09
+title: 'Rii RM200 Ratón inalámbrico con batería  al 32.62 % de rebaja'
+date: 2021-02-07 11:02:47
 image: 'https://m.media-amazon.com/images/I/41wTYpWDW4L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -12,17 +12,17 @@ tags: [  ]
 actualPrice: 10.1 EUR
 currency: EUR
 price: 10.1
-comparePrice: 16.99 EUR
+comparePrice: 14.99 EUR
 prodname: 'Rii RM200 Ratón inalámbrico con batería Recargable 5 Botones Receptor Nano 2.4 GHz  3 Niveles dpi Ajustables Multicolor LED  Ideal para Notebooks  PC  Ordenadores.  Negro .'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Rii'
 buyurl: 'https://www.amazon.es/dp/B07RDJM9RH/?tag=tolees-21'
-descuento: '40.55'
-average: '12.7213043478261'
+descuento: '32.62'
+average: '12.5116'
 ---
 
-Tienes [Rii RM200 Ratón inalámbrico con batería Recargable 5 Botones Receptor Nano 2.4 GHz  3 Niveles dpi Ajustables Multicolor LED  Ideal para Notebooks  PC  Ordenadores.  Negro .](https://www.amazon.es/dp/B07RDJM9RH/?tag=tolees-21) con precio final de  10.1 EUR (original: 16.99 EUR) (40.55 %  de rebaja) aqui!
+Tienes [Rii RM200 Ratón inalámbrico con batería Recargable 5 Botones Receptor Nano 2.4 GHz  3 Niveles dpi Ajustables Multicolor LED  Ideal para Notebooks  PC  Ordenadores.  Negro .](https://www.amazon.es/dp/B07RDJM9RH/?tag=tolees-21) con precio final de  10.1 EUR (original: 14.99 EUR) (32.62 %  de rebaja) aqui!
 
 [![Rii RM200 Ratón inalámbrico con batería ](https://m.media-amazon.com/images/I/41wTYpWDW4L._SL200_.jpg)](https://www.amazon.es/dp/B07RDJM9RH/?tag=tolees-21)
 
