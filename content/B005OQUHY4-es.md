@@ -28,9 +28,9 @@ Tienes [Duracell DUR019058 Plus Power - Pilas AAA  24 Unidades  Sencillo 24x Dur
 
 🔎:
 
+- Voltage de 1.5 V
+- Baterías alcalinas
 - Tipo AAA
 - Set de 24 baterías
-- Baterías alcalinas
-- Voltage de 1.5 V
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B005OQUHY4/?tag=tolees-21)

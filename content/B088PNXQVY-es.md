@@ -28,11 +28,11 @@ En este momento está [ASUS ROG Strix SCAR III G732LWS-HG033T - Ordenador portá
 
 🔎:
 
+- Pantalla de 17.3" FullHD (1920x1080)
 - Memoria RAM de 32 GB (16 GB x 2) DDR4 3200 MHz
 - Almacenamiento de 1TB SSD M.2 NVMe PCIe 3.0
-- Tarjeta gráfica NVIDIA GeForce RTX 2070 SUPER de 8GB
-- Pantalla de 17.3" FullHD (1920x1080)
 - Procesador Intel Core i7-10875H (8 Núcleos, 16 Subprocesos, Caché: 16 MB SmartCache, 2.30 GHz hasta 5.10 GHz, 64-bit)
 - Sistema operativo Windows 10 Home
+- Tarjeta gráfica NVIDIA GeForce RTX 2070 SUPER de 8GB
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B088PNXQVY/?tag=tolees-21)
