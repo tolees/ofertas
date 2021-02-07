@@ -28,9 +28,9 @@ Ahora mismo tienes [Nike Team Hustle D 9  GS   Zapatillas de Baloncesto Unisex A
 
 🔎:
 
-- Estación: Primavera/Verano
 - Designer: Nike
 - Artículo: AQ4224
+- Estación: Primavera/Verano
 - Color: azul
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07HHSDVJP/?tag=tolees-21)

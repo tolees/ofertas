@@ -28,8 +28,8 @@ En este momento está [New Balance 393  Zapatillas Hombre  Natural Indigo  46.5 
 
 🔎:
 
-- Tamaño del calzado: 46.5
 - Tipo de calzado: zapatillas deportivas
 - Color: azul marino
+- Tamaño del calzado: 46.5
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08BPHSYMV/?tag=tolees-21)

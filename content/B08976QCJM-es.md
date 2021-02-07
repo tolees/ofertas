@@ -28,8 +28,8 @@ Está [heyChef - Recipiente GN perforado 2/3-150 mm – 13 litros – acero inox
 
 ℹ️:
 
-- 13 litros de capacidad con una profundidad de 150 mm – Las dimensiones del recipiente GN y la tapa GN se ajustan de forma precisa entre sí y cierran los insertos GN según el tipo de aplicación y tipo.
 - Adecuado para vaporera, chafing dish, bain marie saladette, recipientes calientes y calientaplatos, también para preparar y almacenar alimentos
+- 13 litros de capacidad con una profundidad de 150 mm – Las dimensiones del recipiente GN y la tapa GN se ajustan de forma precisa entre sí y cierran los insertos GN según el tipo de aplicación y tipo.
 - Dimensiones del producto: 325 x 354 x 150 mm
 - Recipiente de acero inoxidable muy estable para recipiente de acero inoxidable, por lo que tiene una larga vida útil
 - Apto para horno y lavavajillas. El recipiente gastronómico y la tapa del recipiente GN son resistentes a los ácidos

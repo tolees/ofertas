@@ -29,9 +29,9 @@ En este momento está [Swarovski Colgante Eternal Flower  Amarillo  Combinación
 🔎:
 
 - Un regalo encantador para muchas ocasiones distintas
-- Lleva varios pétalos distribuidos alrededor de un único cristal amarillo
 - El baño de rodio crea un look vibrante y moderno que complementa los estilos informales a la perfección
-- Largo: 38 cm. Colgante: 1.8x1.8 cm.
 - El colgante incluye una cadena
+- Lleva varios pétalos distribuidos alrededor de un único cristal amarillo
+- Largo: 38 cm. Colgante: 1.8x1.8 cm.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0814XL3RY/?tag=tolees-21)
