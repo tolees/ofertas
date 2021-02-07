@@ -28,10 +28,10 @@ Ahora mismo tienes [Durex Lubricante Sabor y Aroma Cereza de Base Agua - 100 ml]
 
 🔎:
 
+- SUAVE Y LIGERO: Respetuoso con la piel para más comodidad de uso
+- BASE AGUA: No es graso y puede lavarse fácilmente; suaviza tus relaciones con este lubricante de base agua
+- SABOR Y AROMA A CEREZA: Para unas sensaciones más dulces en tus relaciones íntimas con el lubricante Durex Fresa
 - COMPATIBLE CON PRESERVATIVOS: Este lubricante puede usarse con preservativos de látex, poliisoporeno y poliuretano
 - ADECUADO PARA SEXO ORAL, VAGINAL O ANAL: Gracias a su textura suave y ligera, podrás usarlo en cualquier ocasión
-- SUAVE Y LIGERO: Respetuoso con la piel para más comodidad de uso
-- SABOR Y AROMA A CEREZA: Para unas sensaciones más dulces en tus relaciones íntimas con el lubricante Durex Fresa
-- BASE AGUA: No es graso y puede lavarse fácilmente; suaviza tus relaciones con este lubricante de base agua
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B084ZJYW67/?tag=tolees-21)

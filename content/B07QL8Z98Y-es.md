@@ -28,11 +28,11 @@ En este momento está [Rexona Algodón Antitranspirante Aerosol para Mujer  Prot
 
 🔎:
 
-- Disfruta de 48 horas de una protección eficaz y duradera contra el mal olor y la humedad de las axilas
-- Si quieres que el desodorante sea más eficaz, intenta aplicarlo sobre la piel seca, dejándole protegerte al máximo
-- El Desodorante Rexona Algodón en aerosol con una fresca fragancia floral te permitirá sentirte fresca y protegida
 - Rexona desarrolla sus tecnologías innvovadoras de higiene para perfeccionar su antitranspirante
 - Deja que nuestro antitranspirante cuide tu piel y la deje óptimamente seca gracias al extracto de algodón
+- Si quieres que el desodorante sea más eficaz, intenta aplicarlo sobre la piel seca, dejándole protegerte al máximo
 - Goza de la protección de un desodorante equipado con la fórmula MotionSense que se activa cada vez que te mueves
+- Disfruta de 48 horas de una protección eficaz y duradera contra el mal olor y la humedad de las axilas
+- El Desodorante Rexona Algodón en aerosol con una fresca fragancia floral te permitirá sentirte fresca y protegida
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07QL8Z98Y/?tag=tolees-21)
