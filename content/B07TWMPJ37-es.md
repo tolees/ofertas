@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Casio Reloj Analógico-Digital para Hombr al 29.17 % de descuento'
-date: 2021-01-21 13:34:43
+date: 2021-02-07 18:48:22
 image: 'https://m.media-amazon.com/images/I/41aCFoupWQL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ comparePrice: 110.13 EUR
 prodname: 'Casio Reloj Analógico-Digital para Hombre Correa en Resina GA-140-1A1ER'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Casio'
 buyurl: 'https://www.amazon.es/dp/B07TWMPJ37/?tag=tolees-21'
 descuento: '29.17'
 average: '78.0'
@@ -28,9 +29,9 @@ Ahora mismo tienes [Casio Reloj Analógico-Digital para Hombre Correa en Resina 
 🔎:
 
 - Función de cronómetro - 1/1000 seg. - 100 horas. - Split; temporizador - 1/1 min. - 24 horas. (con función repetitiva)
-- Función de hora mundial
-- 5 alarmas diarias, función de repetición
-- Clasificación de resistencia al agua (20 bares)
 - Indicador de velocidad
+- Clasificación de resistencia al agua (20 bares)
+- 5 alarmas diarias, función de repetición
+- Función de hora mundial
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07TWMPJ37/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony - The Last of Us Parte II al 34.70 % de descuento'
-date: 2021-02-03 17:56:04
+date: 2021-02-07 18:38:43
 image: 'https://m.media-amazon.com/images/I/41ukZdswq3L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B01N6IVNU6/?tag=tolees-21'
 descuento: '34.70'
-average: '48.1856896551724'
+average: '47.8757627118644'
 ---
 
 Está [Sony - The Last of Us Parte II](https://www.amazon.es/dp/B01N6IVNU6/?tag=tolees-21) con 34.70 de descuento por 29.9 EUR (original: 45.79 EUR) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [Sony - The Last of Us Parte II](https://www.amazon.es/dp/B01N6IVNU6/?tag=
 
 ℹ️:
 
-- Los jugadores asumirán el control de Ellie
 - Es un juego para un solo jugador
-- Tipo de producto: videojuego
-- Plataforma del juego: PlayStation 4
 - Es un videojuego de acción y aventura
+- Plataforma del juego: PlayStation 4
+- Los jugadores asumirán el control de Ellie
+- Tipo de producto: videojuego
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01N6IVNU6/?tag=tolees-21)
