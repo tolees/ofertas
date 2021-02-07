@@ -28,8 +28,8 @@ Tienes [Guerlain L Homme Ideal Cool Edt Vapo 50 ml - 50 ml](https://www.amazon.e
 
 🔎:
 
-- Agua de colonia para hombres Perfumes y fragancias HOMBRE
-- Hombres Guerlain
 - GUERLAIN LHOMME IDEAL COOL EAU DE TOILETTE 50ML VAPORIZADOR (71793)
+- Hombres Guerlain
+- Agua de colonia para hombres Perfumes y fragancias HOMBRE
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07R7Q69PP/?tag=tolees-21)

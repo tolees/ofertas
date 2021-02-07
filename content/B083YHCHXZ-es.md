@@ -28,7 +28,7 @@ En este momento está [Desigual Accessories PU Across Body Bag  Bolsa para Cuerp
 
 🔎:
 
-- Amarillo
 - Diseño: accesorios, parte trasera, bolsa Across, amarillo
+- Amarillo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B083YHCHXZ/?tag=tolees-21)

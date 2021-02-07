@@ -28,8 +28,8 @@ En este momento está [Curver 206313 - Cómoda Style de 3 cajones  Patas  14 L  
 
 🔎:
 
-- Medidas: 32 x 37 x 64 cm (largo x ancho x alto)
 - Tiene 3 cajones
+- Medidas: 32 x 37 x 64 cm (largo x ancho x alto)
 - Material: resina
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00AW8HL3Y/?tag=tolees-21)

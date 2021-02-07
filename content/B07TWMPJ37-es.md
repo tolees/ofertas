@@ -28,10 +28,10 @@ Ahora mismo tienes [Casio Reloj Analógico-Digital para Hombre Correa en Resina 
 
 🔎:
 
-- Función de cronómetro - 1/1000 seg. - 100 horas. - Split; temporizador - 1/1 min. - 24 horas. (con función repetitiva)
-- Indicador de velocidad
-- Clasificación de resistencia al agua (20 bares)
 - 5 alarmas diarias, función de repetición
+- Función de cronómetro - 1/1000 seg. - 100 horas. - Split; temporizador - 1/1 min. - 24 horas. (con función repetitiva)
+- Clasificación de resistencia al agua (20 bares)
 - Función de hora mundial
+- Indicador de velocidad
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07TWMPJ37/?tag=tolees-21)
