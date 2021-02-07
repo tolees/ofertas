@@ -29,8 +29,8 @@ Tienes [IBILI 820314 - Molde Cake Moka 14 Cms.](https://www.amazon.es/dp/B007H5L
 ℹ️:
 
 - Chapa Acero con antiadherente
-- Molde Cake 14x4.8cm
-- Apto para horno y lavavajilla
 - Capacidad: 0,4 Lt.
+- Apto para horno y lavavajilla
+- Molde Cake 14x4.8cm
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B007H5L0BO/?tag=tolees-21)

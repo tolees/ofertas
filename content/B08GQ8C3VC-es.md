@@ -28,10 +28,10 @@ En este momento está [Bosch Home and Garden - Bosch taladro atornillador a bate
 
 🔎:
 
+- Las herramientas Advanced de Bosch - las más potentes para los proyectos más exigentes
+- Fácil manejo: Cambio entre atornillar/desatornillar a taladrar o taladrar con percusión cambiando la rueda de ajuste de un icono al otro
 - Cambio sencillo de la dirección de giro: pulsando fácilmente y una sola vez el botón, la luz LED indicará la dirección de perforación
 - Duradero: taladro pequeño y potente con un diseño ligero gracias al motor sin escobillas compacto y robusto
-- Fácil manejo: Cambio entre atornillar/desatornillar a taladrar o taladrar con percusión cambiando la rueda de ajuste de un icono al otro
-- Las herramientas Advanced de Bosch - las más potentes para los proyectos más exigentes
 - Power for ALL 18 V: La batería incluida es compatible con todos los productos de la gama verde Bosch Home & Garden con sistema de 18 voltios y con los aspiradores Bosch Unlimited
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08GQ8C3VC/?tag=tolees-21)
