@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Orbegozo FH 5028 Calefactor eléctrico co al 26.18 % de descuento'
-date: 2021-02-06 10:13:11
+date: 2021-02-07 15:57:11
 image: 'https://m.media-amazon.com/images/I/41yL7P1xAEL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Orbegozo'
 buyurl: 'https://www.amazon.es/dp/B01N3MGBG2/?tag=tolees-21'
 descuento: '26.18'
-average: '15.3600000000001'
+average: '15.2209523809525'
 ---
 
 Ahora mismo tienes [Orbegozo FH 5028 Calefactor eléctrico con termostato ajustable  2000 W de potencia  2 posiciones de calor y función ventilador  Negro](https://www.amazon.es/dp/B01N3MGBG2/?tag=tolees-21) a 13.9 EUR (original: 18.83 EUR) (26.18 %  de descuento) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [Orbegozo FH 5028 Calefactor eléctrico con termostato ajusta
 
 🔎:
 
-- Control ajustable de temperatura mediante termostato
-- Protección contra sobrecalentamiento
-- Dos posiciones de calor: 1000 W y 2000 W, además de incorporar función ventilador
-- Calefactor con diseño en color negro y detalles en color gris
 - Luz indicadora de encendido
+- Protección contra sobrecalentamiento
+- Calefactor con diseño en color negro y detalles en color gris
+- Dos posiciones de calor: 1000 W y 2000 W, además de incorporar función ventilador
+- Control ajustable de temperatura mediante termostato
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01N3MGBG2/?tag=tolees-21)

@@ -29,9 +29,9 @@ Está [Western Digital - WD Elements Desktop - Disco duro externo de sobremesa d
 ℹ️:
 
 - El artículo viene con adaptadores de la UE y el Reino Unido.
-- Transferencias rápidas de datos
-- Gran almacenamiento adicional
 - Listo para enchufar y listo para PC con Windows
 - Calidad WD por dentro y por fuera
+- Transferencias rápidas de datos
+- Gran almacenamiento adicional
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07FNK6QMT/?tag=tolees-21)
