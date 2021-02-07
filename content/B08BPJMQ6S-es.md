@@ -28,8 +28,8 @@ Está [New Balance 393  Zapatillas Hombre  Natural Indigo  41.5 EU](https://www.
 
 ℹ️:
 
-- Color: azul marino
-- Tipo de calzado: zapatillas deportivas
 - Tamaño del calzado: 41.5
+- Tipo de calzado: zapatillas deportivas
+- Color: azul marino
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08BPJMQ6S/?tag=tolees-21)

@@ -28,11 +28,11 @@ En este momento está [Adidas CORE18 3/4 PNT Sport trousers  Hombre  Black/ Whit
 
 🔎:
 
-- Logotipo de adidas en el pecho.
-- Climalite anti-humidity fabric
-- Ribete en contraste en los hombros y las costuras laterales.
 - Costura lateral adelantada para un ajuste más cómodo y una mayor libertad de movimiento.
+- Ribete en contraste en los hombros y las costuras laterales.
+- Logotipo de adidas en el pecho.
 - Corte clásico más ancho y silueta recta.
+- Climalite anti-humidity fabric
 - Punto 100% algodón.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B076HPB8HC/?tag=tolees-21)
