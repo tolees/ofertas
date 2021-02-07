@@ -28,10 +28,10 @@ Está [United Colors of Benetton - Benetton "Ondas" Oficial Funda Para Portátil
 
 ℹ️:
 
-- Medidas: 40 x 4 x 27 cm.
-- Cuenta con dos asas cortas en la parte superior y una larga para colgar tipo bandolera, la cual se puede quitar.
-- Producto con licencia oficial
 - Funda para guardar y proteger portátiles o tablets de hasta 15,6.
 - Interior acolchado.
+- Medidas: 40 x 4 x 27 cm.
+- Producto con licencia oficial
+- Cuenta con dos asas cortas en la parte superior y una larga para colgar tipo bandolera, la cual se puede quitar.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07MNKD71K/?tag=tolees-21)

@@ -31,7 +31,7 @@ Está [Under Armour UA Men s Webbing 2.0 Belt  cinturón para hombre  accesorio 
 - Su diseño resistente ofrece simplemente la flexibilidad suficiente
 - Hebilla metálica y parte final con detalles bordados
 - Ancho: 3,5 cm
-- Corte ajustado y ajustable (talla única)
 - Color sólido reversible en la parte trasera
+- Corte ajustado y ajustable (talla única)
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B072BXH9T6/?tag=tolees-21)

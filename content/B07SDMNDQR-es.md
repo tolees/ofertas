@@ -28,8 +28,8 @@ Ahora mismo tienes [Lee Scarlett Jeans  Azul  Light Florin HR   28W / 33L para M
 
 🔎:
 
+- Tienen un parche de piel en la parte trasera con la marca Lee
 - Vaqueros para mujer
 - Presentan 5 bolsillos
-- Tienen un parche de piel en la parte trasera con la marca Lee
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SDMNDQR/?tag=tolees-21)

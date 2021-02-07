@@ -28,11 +28,11 @@ Tienes [ROIDMI F8 Lite - Aspirador sin cable  versión EU en Español  80.000 RP
 
 🔎:
 
-- Para todo tipo de usos: el aspirador f8 lite se transforma fácilmente en un aspirador de mano para limpiar zonas de difícil acceso
+- El F8 Lite tiene un motor de 265W + un cabezal giratorio de 35W que da 300W.
+- Potente y ligera: el motor digital roidmi de 80.000 rpm genera una potente succión capaz de aspirar grandes partículas incluso en modo normal; todo en un cuerpo de sólo 1, 3kg de peso
 - Olvídate del gatillo: los aspiradores roidmi han sido premiados internacionalmente por su diseño ergonómico, que permite utilizarlos en cualquier situación con una sola mano y sin tener que mantener apretado ningún gatillo; su asa de 270º permite limpiar debajo de los muebles sin apenas agacharse
 - Filtro hepa de 4 etapas: el aire estará más limpio gracias a su filtro capaz de absorber las partículas pm-o3 con un grado de purificación del 99%
-- Potente y ligera: el motor digital roidmi de 80.000 rpm genera una potente succión capaz de aspirar grandes partículas incluso en modo normal; todo en un cuerpo de sólo 1, 3kg de peso
+- Para todo tipo de usos: el aspirador f8 lite se transforma fácilmente en un aspirador de mano para limpiar zonas de difícil acceso
 - Batería de alta capacidad: incorpora una batería samsung que aporta 40 minutos de funcionamiento en modo normal y 10 minutos en modo turbo
-- El F8 Lite tiene un motor de 265W + un cabezal giratorio de 35W que da 300W.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07WGNWF9Q/?tag=tolees-21)

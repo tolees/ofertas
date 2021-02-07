@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jimten Sifón para fregadero  curvo exten al 47.11 % de descuento'
-date: 2020-05-30 15:05:26
+date: 2021-02-07 20:10:26
 image: 'https://m.media-amazon.com/images/I/315CPcL6c-L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ comparePrice: 5.37 EUR
 prodname: 'Jimten Sifón para fregadero  curvo extensible  salida horizontal'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Jimten'
 buyurl: 'https://www.amazon.es/dp/B00U1OJ6NW/?tag=tolees-21'
 descuento: '47.11'
 average: '2.84'
@@ -28,5 +28,9 @@ Está [Jimten Sifón para fregadero  curvo extensible  salida horizontal](https:
 
 ℹ️:
 
+- Fácil de usar
+- Producto de calidad
+- Material duredero
+- Producto para uso en interiores y exteriores
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00U1OJ6NW/?tag=tolees-21)

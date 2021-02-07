@@ -28,10 +28,10 @@ Tienes [Lékué 8420460014409 Cortador de Frutas y Verduras  Acero Inoxidable  N
 
 🔎:
 
-- Fácil de limpiar: recomendamos limpiar a mano para mantener las cuchillas en buenas condiciones durante más tiempo
-- Forma creativa de preparar verduras y frutas para aumentar su consumo en nuestras dietas
-- Proporciona dos dimensiones de corte diferentes (34 mm de diámetro y/o 43 mm)
 - Fácil de usar e intuitivo; ergonómico; con marcas para controlar la profundidad del vasito
 - Con cuchillas de acero inoxidable para cortar fácilmente en diferentes tipos de ingredientes (de dureza variable)
+- Fácil de limpiar: recomendamos limpiar a mano para mantener las cuchillas en buenas condiciones durante más tiempo
+- Proporciona dos dimensiones de corte diferentes (34 mm de diámetro y/o 43 mm)
+- Forma creativa de preparar verduras y frutas para aumentar su consumo en nuestras dietas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B084DRYRDB/?tag=tolees-21)

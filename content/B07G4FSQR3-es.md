@@ -28,10 +28,10 @@ En este momento está [Hugo BOSS Reloj Esqueleto para Hombre de Automático con 
 
 🔎:
 
-- Grosor de la caja de 12,00 mm
-- Movimiento automático
-- 5 ATM de resistencia al agua
-- Esfera con maquinaria vista
 - Correa negra y azul en nailon y goma
+- Grosor de la caja de 12,00 mm
+- Esfera con maquinaria vista
+- 5 ATM de resistencia al agua
+- Movimiento automático
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07G4FSQR3/?tag=tolees-21)

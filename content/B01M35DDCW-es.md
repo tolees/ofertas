@@ -28,9 +28,9 @@ Tienes [Cereales Nestlé Nesquik - Barritas de cereales con chocolate - 4 cajas 
 
 ℹ️:
 
+- Están hechas con 22% cereales integrales
+- Un paquete incluye 6 barritas
 - Contienen 6 vitaminas y dos minerales
 - Tienen sabor de chocolate
-- Un paquete incluye 6 barritas
-- Están hechas con 22% cereales integrales
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01M35DDCW/?tag=tolees-21)
