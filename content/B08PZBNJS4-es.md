@@ -28,7 +28,7 @@ Tienes [Geographical Norway Parka BOOMERA Mujer Caqui Talla XL](https://www.amaz
 
 🔎:
 
-- Capucha
 - pelo destomtable
+- Capucha
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08PZBNJS4/?tag=tolees-21)

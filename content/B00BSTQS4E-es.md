@@ -28,10 +28,10 @@ Tienes [Lotus Reloj Analógico para Niñas de Cuarzo con Correa en Acero Inoxida
 
 🔎:
 
-- Esfera blanca con números arábigos plateados
-- Caja: acero inoxidable plateado
-- Pulsera: acero inoxidable plateado/esmalte blanco
 - Diámetro de la caja: 23 mm
 - Sumergible: 5 bares
+- Pulsera: acero inoxidable plateado/esmalte blanco
+- Esfera blanca con números arábigos plateados
+- Caja: acero inoxidable plateado
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00BSTQS4E/?tag=tolees-21)
