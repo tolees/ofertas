@@ -28,10 +28,10 @@ En este momento está [Hugo BOSS Reloj para de Cuarzo con Correa en Acero Inoxid
 
 🔎:
 
+- Grosor de la caja de 12,3 mm, Diámetro de la caja: 43 mm
 - Pulsera con chapado iónico azul
 - Movimiento cronógrafo / Función de fecha
 - 5 ATM de resistencia al agua
 - Esfera azul
-- Grosor de la caja de 12,3 mm, Diámetro de la caja: 43 mm
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07XGD33RV/?tag=tolees-21)

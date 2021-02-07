@@ -28,9 +28,9 @@ En este momento está [TRIO LIGHTING  LUNAR  incl. 40W LED/ 3000K/ 4000Lm](https
 
 🔎:
 
-- A través del mando a distancia incluido se pueden ajustar 7 fases lunares diferentes o un cambio de fase lunar automático. Además, el brillo se puede regular en cada fase lunar
+- Incluye led de 40 w (fijo) con una vida útil media de 30000 horas, luz blanca cálida de 3000 kelvin y máx 3500 lúmenes para una iluminación óptima
 - Lámpara de techo led lunar con diseño de luna, pantalla acrílica de 60 cm de diámetro
 - Además, la lámpara dispone de una función de luz nocturna, en la que se puede ver un salto de la luna y por lo tanto crea un momento de luz especial
-- Incluye led de 40 w (fijo) con una vida útil media de 30000 horas, luz blanca cálida de 3000 kelvin y máx 3500 lúmenes para una iluminación óptima
+- A través del mando a distancia incluido se pueden ajustar 7 fases lunares diferentes o un cambio de fase lunar automático. Además, el brillo se puede regular en cada fase lunar
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07QY3JPZG/?tag=tolees-21)
