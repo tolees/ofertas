@@ -28,9 +28,9 @@ Tienes [Lacoste RA4744 Calcetines  Negro  Noir/Vert   38/39  Talla del fabricant
 
 🔎:
 
-- Piqué de algodón y punto de mezcla de algodón
-- Cocodrilo verde bordado en el tobillo
 - Refuerzo acanalado en el tobillo
+- Cocodrilo verde bordado en el tobillo
+- Piqué de algodón y punto de mezcla de algodón
 - Raya a contraste en la punta de los dedos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07TJXXJ24/?tag=tolees-21)
