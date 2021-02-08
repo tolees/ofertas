@@ -1,32 +1,33 @@
 ---
 layout: post
-title: 'El Mentalista Temporada 1-7 [DVD] al 34.01 % de descuento'
-date: 2020-03-11 06:04:50
-image: 'https://m.media-amazon.com/images/I/41u8PnPbp5L._AC_._SL200_.jpg'
+title: 'Warner Bros. Entertainment España S.L. - al 33.46 % de descuento'
+date: 2021-02-08 07:52:52
+image: 'https://m.media-amazon.com/images/I/51PgmlsqVcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0168UDHO6-es El Mentalista Temporada 1-7 [DVD]'
+slug: 'B0168UDHO6-es Warner Bros. Entertainment España S.L. - El Mentalista...'
 sku: 'B0168UDHO6-es'
 tags: [  ]
-actualPrice: 55.43 EUR
+actualPrice: 55.89 EUR
 currency: EUR
-price: 55.43
+price: 55.89
 comparePrice: 84.0 EUR
-prodname: 'El Mentalista Temporada 1-7 [DVD]'
+prodname: 'Warner Bros. Entertainment España S.L. - El Mentalista Temporada 1-7 [DVD]'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Warner Bros. Entertainment España S.L.'
 buyurl: 'https://www.amazon.es/dp/B0168UDHO6/?tag=tolees-21'
-descuento: '34.01'
-average: '55.43'
+descuento: '33.46'
+average: '55.7366666666667'
 ---
 
-Está [El Mentalista Temporada 1-7 [DVD]](https://www.amazon.es/dp/B0168UDHO6/?tag=tolees-21) con 34.01 de descuento por 55.43 EUR (original: 84.0 EUR) en el siguiente enlace!
+Está [Warner Bros. Entertainment España S.L. - El Mentalista Temporada 1-7 [DVD]](https://www.amazon.es/dp/B0168UDHO6/?tag=tolees-21) con 33.46 de descuento por 55.89 EUR (original: 84.0 EUR) en el siguiente enlace!
 
-[![El Mentalista Temporada 1-7 [DVD]](https://m.media-amazon.com/images/I/41u8PnPbp5L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B0168UDHO6/?tag=tolees-21)
+[![Warner Bros. Entertainment España S.L. -](https://m.media-amazon.com/images/I/51PgmlsqVcL._SL200_.jpg)](https://www.amazon.es/dp/B0168UDHO6/?tag=tolees-21)
 
 ℹ️:
 
+- Precio mínimo ofrecido por este vendedor en los 30 días anteriores a la oferta: 57.39€
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0168UDHO6/?tag=tolees-21)
