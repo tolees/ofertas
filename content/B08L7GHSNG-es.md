@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Disney - Vengadores Steelbook 1-4 + Disc al 45.82 % de descuento'
-date: 2021-02-04 15:16:50
+date: 2021-02-08 10:14:37
 image: 'https://m.media-amazon.com/images/I/510-hYVQyKL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Disney'
 buyurl: 'https://www.amazon.es/dp/B08L7GHSNG/?tag=tolees-21'
 descuento: '45.82'
-average: '36.4605660377358'
+average: '36.2299999999999'
 ---
 
 Ahora mismo tienes [Disney - Vengadores Steelbook 1-4 + Disco bonus [Blu-ray]](https://www.amazon.es/dp/B08L7GHSNG/?tag=tolees-21) a 25.99 EUR (original: 47.97 EUR) (45.82 %  de descuento) en el siguiente enlace!

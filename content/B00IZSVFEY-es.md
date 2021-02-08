@@ -28,10 +28,10 @@ Tienes [Mantona DSLM Travel - Trípode de Viaje](https://www.amazon.es/dp/B00IZS
 
 ℹ️:
 
-- Dimensión de paquete pequeña y muy ligera
-- Cabezal cilíndrico con escala panorámica y dos niveles de burbuja
-- También utilizable como soporte monopié
-- Volumen de suministro: 1 x trípode de viaje de Mantona DSLM Travel, 143 cm, ideal para DSLM, cabezal cilíndrico con escala panorámica y dos niveles de burbujas, placa de cambio rápido, bolsa
 - Trípode de viaje de aluminio compacto y ligero, con cabezal cilíndrico
+- Cabezal cilíndrico con escala panorámica y dos niveles de burbuja
+- Volumen de suministro: 1 x trípode de viaje de Mantona DSLM Travel, 143 cm, ideal para DSLM, cabezal cilíndrico con escala panorámica y dos niveles de burbujas, placa de cambio rápido, bolsa
+- Dimensión de paquete pequeña y muy ligera
+- También utilizable como soporte monopié
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00IZSVFEY/?tag=tolees-21)

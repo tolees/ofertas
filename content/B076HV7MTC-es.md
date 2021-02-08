@@ -30,8 +30,8 @@ Ahora mismo tienes [Lékué Kit de Aperitivos  Rojo  30x30x3 cm](https://www.ama
 
 - 2 formas: redondos y hexágonos
 - Prepara 19 aperitivos o pastelitos dulces de una sola vez
-- Muy fácil de desmoldar, gracias a su diseño
-- Incluye 2 rodillos; rodillo para enrejados: sirve para dar a la masa un acabado en forma de rejilla; rodillo liso: sirve para cortar la masa encima del cortador
 - Funciona con distintos tipos de masa (hojaldre, masa brisa, masa para pizza, masa para empanadas)
+- Incluye 2 rodillos; rodillo para enrejados: sirve para dar a la masa un acabado en forma de rejilla; rodillo liso: sirve para cortar la masa encima del cortador
+- Muy fácil de desmoldar, gracias a su diseño
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B076HV7MTC/?tag=tolees-21)

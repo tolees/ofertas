@@ -28,9 +28,9 @@ Tienes [Funko - Pop! Marvel: Avengers Game - Kamala Khan Figurina  Stark Tech Su
 
 🔎:
 
-- De la colección avengers game, kamala khan (stark tech suit) como figura de vinilo pode funko
-- Funko pop; el juguete del año 2018
 - Descúbre otras figuras de la colección marvel y colecciónalas todas
+- Funko pop; el juguete del año 2018
 - La figura mide 9 cm y se envía en una caja ilustrada con ventana
+- De la colección avengers game, kamala khan (stark tech suit) como figura de vinilo pode funko
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07XC24N9B/?tag=tolees-21)
