@@ -28,10 +28,10 @@ En este momento está [IDOIT - Termometro Infrarrojos para adultos Termómetro i
 
 🔎:
 
-- 【Sin contacto】 Termómetro Infrarrojos para adultos no requiere contacto físico. Puede medir la temperatura en 1 s manteniendo una distancia de 3 ~ 5 cm del cuerpo humano. La frente del termómetro digital adopta un diseño de medición de un botón, que es rápido y conveniente.
 - 【2 en 1】El termómetro infrarrojo incluye modo humano y modo objeto. Además de medir la temperatura del cuerpo humano, también podemos medir la temperatura ambiente, la temperatura del agua y la temperatura del objeto. El termómetro digital multifuncional satisface sus diversas necesidades.
-- 【Advertencia de fiebre】El termómetro de frente tiene una alarma audible. Cuando la temperatura sea anormal, sonará un pitido para recordárselo. El termómetro para adultos utiliza un diseño de retroiluminación de tres colores, lo que le permite ver el valor claramente con cualquier luz. Al mismo tiempo, la pantalla mostrará diferentes colores según el rango de temperatura medido para recordarle si tiene fiebre.
-- 【Precisión】 El termómetro infrarrojo utiliza tecnología infrarroja para detectar datos de forma rápida y precisa. Al mismo tiempo, puede cambiar entre el modo Celsius / Fahrenheit según sea necesario. La precisión de los termómetros sin contacto es de ± 0.1 °C
 - 【Función de memoria y apagado automático】 El termómetro para adultos tiene una función de memoria que puede almacenar 40 conjuntos de datos de temperatura, lo que puede ayudarlo a grabar mejor. El termómetro de infrarrojos se apagará automáticamente después de 30 segundos de inactividad para ahorrar energía.
+- 【Precisión】 El termómetro infrarrojo utiliza tecnología infrarroja para detectar datos de forma rápida y precisa. Al mismo tiempo, puede cambiar entre el modo Celsius / Fahrenheit según sea necesario. La precisión de los termómetros sin contacto es de ± 0.1 °C
+- 【Sin contacto】 Termómetro Infrarrojos para adultos no requiere contacto físico. Puede medir la temperatura en 1 s manteniendo una distancia de 3 ~ 5 cm del cuerpo humano. La frente del termómetro digital adopta un diseño de medición de un botón, que es rápido y conveniente.
+- 【Advertencia de fiebre】El termómetro de frente tiene una alarma audible. Cuando la temperatura sea anormal, sonará un pitido para recordárselo. El termómetro para adultos utiliza un diseño de retroiluminación de tres colores, lo que le permite ver el valor claramente con cualquier luz. Al mismo tiempo, la pantalla mostrará diferentes colores según el rango de temperatura medido para recordarle si tiene fiebre.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08GYR3GLJ/?tag=tolees-21)
