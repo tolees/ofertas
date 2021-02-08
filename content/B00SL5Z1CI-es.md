@@ -28,9 +28,9 @@ Está [Lékué Cortador de Galletas  Vermelho  Centimeters](https://www.amazon.e
 
 ℹ️:
 
+- Fácil y rápido: Prepara la sencilla masa de galletas y obtiene 12 galletas de un solo corte
 - Escribe tu mensaje! Despliego el pack y recorta las tarjeta. Regala corazones con mensajes
 - Incluye ideas de decoración: Inspírate con las ideas del recetario y sorprende a los tuyos regalando los corazones más especiales
-- Fácil y rápido: Prepara la sencilla masa de galletas y obtiene 12 galletas de un solo corte
 - Optimización de la masa: Se aprovecha mucho más la masa ya que el puzzle no permite dejar espacios entre galleta y galleta
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00SL5Z1CI/?tag=tolees-21)

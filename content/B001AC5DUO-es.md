@@ -28,11 +28,11 @@ Tienes [Lékué - Estuche de vapor  1-2 personas  color rojo](https://www.amazon
 
 ℹ️:
 
-- El estuche de vapor Lékué te permite cocinar de una de las formas más sanas y fáciles con una gran variedad de alimentos manteniendo todos los nutrientes
 - Seguro: las asas se mantienen frías y, además, pesa poco
 - Las tapas del Estuche evitan las salpicaduras, manteniendo el microondas limpio y la cocina libre de olores
+- Dimensiones: 24cm x 12.4cm x 5cm
 - Opción ecológica: Los microondas son energéticamente eficientes; La cocción y el recalentado en el microondas puede ahorrar el 80% de la energía que usa el horno
 - La cocción en el microondas o en el horno es más nutritiva que en la cocina tradicional (fritos y hervidos)
-- Dimensiones: 24cm x 12.4cm x 5cm
+- El estuche de vapor Lékué te permite cocinar de una de las formas más sanas y fáciles con una gran variedad de alimentos manteniendo todos los nutrientes
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B001AC5DUO/?tag=tolees-21)

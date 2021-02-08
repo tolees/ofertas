@@ -28,8 +28,8 @@ Tienes [Lékué - Molde bizcocho Savarín Hondo/Bundt 22 cm](https://www.amazon.
 
 🔎:
 
-- Facil desmoldado por su flexibilidad y las propiedades antiadherentes de la silicona
 - Se puede usar en lavavajillas
+- Facil desmoldado por su flexibilidad y las propiedades antiadherentes de la silicona
 - Facil limpieza por su antiadherencia
 - Silicona platino 100%, resiste 220 ºC
 

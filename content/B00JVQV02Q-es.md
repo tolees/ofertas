@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Disney - La Dama Y El Vagabundo [Blu-ray al 25.02 % de descuento'
-date: 2021-02-07 00:10:07
+date: 2021-02-08 01:29:31
 image: 'https://m.media-amazon.com/images/I/51Qk8cULJ4L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Disney'
 buyurl: 'https://www.amazon.es/dp/B00JVQV02Q/?tag=tolees-21'
 descuento: '25.02'
-average: '10.1622580645161'
+average: '10.1366666666667'
 ---
 
 Ahora mismo tienes [Disney - La Dama Y El Vagabundo [Blu-ray]](https://www.amazon.es/dp/B00JVQV02Q/?tag=tolees-21) a 9.74 EUR (original: 12.99 EUR) (25.02 %  de descuento) en el siguiente enlace!
