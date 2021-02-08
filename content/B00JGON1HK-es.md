@@ -28,9 +28,9 @@ Está [Philips Lighting - Philips myLiving Clockwork - Barra de 4 focos LED  ilu
 
 ℹ️:
 
-- Temperatura del color: 2700 Kelvin
-- Flujo luminoso: 806 lm
 - Clase de eficiencia energética A
 - Durabilidad media: 30000 horas
+- Temperatura del color: 2700 Kelvin
+- Flujo luminoso: 806 lm
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00JGON1HK/?tag=tolees-21)

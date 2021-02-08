@@ -1,32 +1,33 @@
 ---
 layout: post
-title: 'Pack Los Soprano Temporada 1-6 Blu-Ray [ al 30.01 % de rebaja'
-date: 2020-10-07 10:03:32
+title: 'Warner Bros Interactive Spain - Pack Los al 35.01 % de rebaja'
+date: 2021-02-08 14:28:10
 image: 'https://m.media-amazon.com/images/I/51NUO-Z4QjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00L8ZH9NW-es Pack Los Soprano Temporada 1-6 Blu-Ray [Blu-ray]'
+slug: 'B00L8ZH9NW-es Warner Bros Interactive Spain - Pack Los Soprano Temporada...'
 sku: 'B00L8ZH9NW-es'
 tags: [  ]
-actualPrice: 73.49 EUR
+actualPrice: 68.24 EUR
 currency: EUR
-price: 73.49
+price: 68.24
 comparePrice: 105.0 EUR
-prodname: 'Pack Los Soprano Temporada 1-6 Blu-Ray [Blu-ray]'
+prodname: 'Warner Bros Interactive Spain - Pack Los Soprano Temporada 1-6 Blu-Ray [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Warner Bros Interactive Spain'
 buyurl: 'https://www.amazon.es/dp/B00L8ZH9NW/?tag=tolees-21'
-descuento: '30.01'
-average: '68.10166666666666'
+descuento: '35.01'
+average: '68.13625'
 ---
 
-Tienes [Pack Los Soprano Temporada 1-6 Blu-Ray [Blu-ray]](https://www.amazon.es/dp/B00L8ZH9NW/?tag=tolees-21) con precio final de  73.49 EUR (original: 105.0 EUR) (30.01 %  de rebaja) aqui!
+Tienes [Warner Bros Interactive Spain - Pack Los Soprano Temporada 1-6 Blu-Ray [Blu-ray]](https://www.amazon.es/dp/B00L8ZH9NW/?tag=tolees-21) con precio final de  68.24 EUR (original: 105.0 EUR) (35.01 %  de rebaja) aqui!
 
-[![Pack Los Soprano Temporada 1-6 Blu-Ray [](https://m.media-amazon.com/images/I/51NUO-Z4QjL._SL200_.jpg)](https://www.amazon.es/dp/B00L8ZH9NW/?tag=tolees-21)
+[![Warner Bros Interactive Spain - Pack Los](https://m.media-amazon.com/images/I/51NUO-Z4QjL._SL200_.jpg)](https://www.amazon.es/dp/B00L8ZH9NW/?tag=tolees-21)
 
 🔎:
 
+- Precio mínimo ofrecido por este vendedor en los 30 días anteriores a la oferta: 67.89€
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00L8ZH9NW/?tag=tolees-21)

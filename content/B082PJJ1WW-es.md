@@ -28,8 +28,8 @@ Está [NIKE Venture Runner  Sneaker Womens  White Washed Coral Black  40 EU](htt
 
 ℹ️:
 
-- Suave de Llevar
 - Importado
+- Suave de Llevar
 - Cordones de Zapatos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B082PJJ1WW/?tag=tolees-21)

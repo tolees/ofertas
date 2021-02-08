@@ -28,10 +28,10 @@ Ahora mismo tienes [KM · GAMING - KM-Gaming K-GM2 - Ratón óptico para videoju
 
 🔎:
 
-- Sensor óptico de alta calidad: Pixart PMW3330 [Native 7200 CPI / 8000 FPS / 30 G]
-- Marco de metal / 7 teclas programables
-- Sin aceleración del puntero del ratón, sin corrección del puntero del ratón
 - 1:1 Aiming, tiempo de respuesta de 1 ms, 150 IPS, interruptor Omron
+- Marco de metal / 7 teclas programables
+- Sensor óptico de alta calidad: Pixart PMW3330 [Native 7200 CPI / 8000 FPS / 30 G]
 - Software con opciones de ajuste, ocupación y editor macro
+- Sin aceleración del puntero del ratón, sin corrección del puntero del ratón
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07X8GM42T/?tag=tolees-21)

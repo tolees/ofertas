@@ -28,12 +28,12 @@ En este momento está [DJI Mavic Pro Platinum - Dron cuadricóptero con control 
 
 🔎:
 
-- El estabilizador funciona en todas las situaciones a altas velocidades, haciendo videos y fotos en HD
-- El tiempo de vuelo se extiende a 30 minutos con reducción de ruido, ofreciendo así un alto rendimiento
-- Dron de color "platino", compacto y potente, fácil de conducir y con un diseño más duradero
-- Distancia de transmisión máx. para Wi-Fi: 80 m (Distancia), 50 m (Altura) (sin obstáculos, libre de interferencias)
-- FlightAutonomy detecta obstáculos con hasta 15 metros de distancia, alta precisión en frenado y giro
 - Distancia de transmisión máx. para control remoto: Según normas FCC: 7 km (4.3 mi); Según normas CE: 4 km (2.5 mi); Según normas SRRC: 4 km (2.5 mi); Según normas MIC: 4 km (2.5 mi); (sin obstáculos, libre de interferencias)
+- FlightAutonomy detecta obstáculos con hasta 15 metros de distancia, alta precisión en frenado y giro
+- Dron de color "platino", compacto y potente, fácil de conducir y con un diseño más duradero
+- El estabilizador funciona en todas las situaciones a altas velocidades, haciendo videos y fotos en HD
+- Distancia de transmisión máx. para Wi-Fi: 80 m (Distancia), 50 m (Altura) (sin obstáculos, libre de interferencias)
 - Con un nuevo sistema de transmisión, 5 sensores de visión y cámara estabilizada de 4K
+- El tiempo de vuelo se extiende a 30 minutos con reducción de ruido, ofreciendo así un alto rendimiento
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B075FRZ3DW/?tag=tolees-21)

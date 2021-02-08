@@ -28,7 +28,7 @@ Tienes [Only onlGEENA XO L/S PULLOVER KNT NOOS  Suéter para Mujer  Rojo  High R
 
 🔎:
 
-- La parte superior, que está disponible en muchos colores modernos, se corta ligeramente más largo en la parte posterior. También se puede llevar con leggings.
 - Tejido grueso de puente fino. Este no es el caso. Todo lo contrario. Este jersey de punto es también adecuado para el verano gracias a su costura gruesa.
+- La parte superior, que está disponible en muchos colores modernos, se corta ligeramente más largo en la parte posterior. También se puede llevar con leggings.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01MTJ9XCE/?tag=tolees-21)

@@ -28,11 +28,11 @@ Ahora mismo tienes [Kodak Printomatic - Cámara de impresión instantánea  impr
 
 🔎:
 
-- FOTOGRAFÍA TODO EN UNO: la cámara PRINTOMATIC apunta y dispara ofrece un potente sensor de 5 megapíxeles con una lente gran angular 1: 2.
-- DISEÑO CON ENCANTO: disponible en una variedad de colores divertidos y llamativos. Diseño compacto Se adapta perfectamente al bolsillo de la camisa.
-- IMPRESIÓN ÚNICA: Printomatic imprime instantáneamente fotos en 2x3 pulgadas papel fotográfico Zink Kodak. No requiere tinta, tóner ni cartucho de película.
-- VALOR INSTANTÁNEO: La cámara Kodak Printomatic es fácil de usar que tiene ranuras para colocar una correa para el cuello y guarda fotos en una tarjeta microSD.
 - Zoom óptico: 1.0 multiplier x
 - RÁPIDAMENTE FÁCIL Y DIVERTIDO: con Printomatic puede tomar una nueva foto mientras imprime la foto anterior.
+- IMPRESIÓN ÚNICA: Printomatic imprime instantáneamente fotos en 2x3 pulgadas papel fotográfico Zink Kodak. No requiere tinta, tóner ni cartucho de película.
+- VALOR INSTANTÁNEO: La cámara Kodak Printomatic es fácil de usar que tiene ranuras para colocar una correa para el cuello y guarda fotos en una tarjeta microSD.
+- FOTOGRAFÍA TODO EN UNO: la cámara PRINTOMATIC apunta y dispara ofrece un potente sensor de 5 megapíxeles con una lente gran angular 1: 2.
+- DISEÑO CON ENCANTO: disponible en una variedad de colores divertidos y llamativos. Diseño compacto Se adapta perfectamente al bolsillo de la camisa.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07FCRLPJC/?tag=tolees-21)

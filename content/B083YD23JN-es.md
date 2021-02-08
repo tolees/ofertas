@@ -28,8 +28,8 @@ En este momento está [Kipling Money Love  Wallets para Mujer  Pequeño Estampad
 
 🔎:
 
-- Para mujer.
 - CLASSICS
 - Waletts.
+- Para mujer.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B083YD23JN/?tag=tolees-21)

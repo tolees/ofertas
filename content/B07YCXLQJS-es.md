@@ -28,10 +28,10 @@ Ahora mismo tienes [Vilber Toledo DU 01 40X78 Alfombra  Vinilo](https://www.amaz
 
 🔎:
 
-- Composición: 15% poliéster 85% pvc, peso: 1.000 gramos/m2
-- Fácil y rápida instalación; desenrollar y colocar en suelo firme, fácil limpieza con trapo húmedo o fregona, en agua jabonosa
 - Colección toledo: este dibujo tiene 3 colores y 10 medidas; total: 30 opciones para elegir
-- Indicado para revestimientos domésticos y decorativos de uso interior o espacio exterior cubierto.no recomendado para zonas de alto tránsito; resistente al fuego m2
 - Colores solidos y resistentes; muy buena estabilidad dimensional; muy higiénicas
+- Composición: 15% poliéster 85% pvc, peso: 1.000 gramos/m2
+- Indicado para revestimientos domésticos y decorativos de uso interior o espacio exterior cubierto.no recomendado para zonas de alto tránsito; resistente al fuego m2
+- Fácil y rápida instalación; desenrollar y colocar en suelo firme, fácil limpieza con trapo húmedo o fregona, en agua jabonosa
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07YCXLQJS/?tag=tolees-21)

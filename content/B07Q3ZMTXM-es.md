@@ -28,10 +28,10 @@ En este momento está [Nike Revolution 5  Zapatillas de Atletismo Mujer  Multico
 
 🔎:
 
-- Modello: BQ3207
-- Gender: Donna
 - Articolo: Scarpa Sportiva
 - Colore: WhiteSil
+- Gender: Donna
+- Modello: BQ3207
 - Brand: Nike
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07Q3ZMTXM/?tag=tolees-21)

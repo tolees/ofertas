@@ -28,10 +28,10 @@ En este momento está [Tommy Hilfiger Tommy Jeans Summer Shoe  Mocasines para Ho
 
 🔎:
 
-- Material de la suela: Goma y esparto
-- Cierre: Sin cordones
 - Revestimiento: Algodón
-- Altura del tacón: 2 centímetros
 - Material exterior: Algodón
+- Cierre: Sin cordones
+- Altura del tacón: 2 centímetros
+- Material de la suela: Goma y esparto
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07V8VL8YT/?tag=tolees-21)

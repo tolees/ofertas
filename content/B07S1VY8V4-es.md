@@ -28,7 +28,7 @@ Tienes [Diesel UMBX-DAMIENTHREEPACK  Calzoncillo para Hombre  Negro  Black/Black
 
 🔎:
 
-- De la marca Diesel.
 - Muy cómodo de llevar.
+- De la marca Diesel.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07S1VY8V4/?tag=tolees-21)
