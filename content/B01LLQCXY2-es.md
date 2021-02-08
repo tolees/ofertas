@@ -28,10 +28,10 @@ Ahora mismo tienes [Pyrex Cook & Go - Recipiente rectangular de vidrio con tapa 
 
 🔎:
 
-- Suitable for fridge, freezer, microwave and dishwasher
-- Stackable and nest able to save space in the kitchen
 - Airtight and leak proof plastic lid for easy storage and transportation with hygienic, removable seal for easy cleaning - BPA Free. Dedicated space on the lid to label contents, enabling easy identification. Lid suitable for fridge, freezer and dishwasher use. Lid not suitable for use in the oven.
 - Borosilicate glass : Highly heat resistant, the glass can withstand temperatures up to 300°C. Superior thermal shock resistance: The glass can be taken from your freezer at -20°C and put straight into your oven up to 200°C (without lid) Suitable for fridge, freezer, microwave, oven and dishwasher use.
+- Suitable for fridge, freezer, microwave and dishwasher
 - Hygienic material: Glass does not absorb or transfer food stains, colours or odours, it is long lasting, durable and scratch resistant, with a 10 year guarantee. Your glass will always look as good as the day you bought it, no more orange containers!!!
+- Stackable and nest able to save space in the kitchen
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01LLQCXY2/?tag=tolees-21)

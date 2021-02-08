@@ -28,10 +28,10 @@ Ahora mismo tienes [Taurus CA2400 Calefactor  2400 W  Plástico  Gris](https://w
 
 🔎:
 
-- TERMOSTATO REGULABLE: Cuando llegue al nivel de calor seleccionado se desconectará y se volverá a conectar cuando sea necesario para mantener la temperatura estable.
-- FUNCIÓN VENTILADOR AIRE FRÍO: Incorpora una función ventilador de aire frío, que recoge el aire del ambiente y lo expulsa en forma de una agradable brisa fresca. Úsalo también en verano.
-- UN CALEFACTOR POTENTE: Sus 2400W hacen del calefactor CA-2400 un calefactor muy potente y con una capacidad de calefacción muy alta.
-- DISEÑO COMPACTO Y GUARDACABLE: Dimensiones reducidas, guárdalo en cualquier lugar. Alojamiento para cable en la base.
 - 2 POTENCIAS: El calefactor cuenta con 2 potencias, la más baja de 1200W y la más alta de 2400W, intensidad de calor regulable.
+- DISEÑO COMPACTO Y GUARDACABLE: Dimensiones reducidas, guárdalo en cualquier lugar. Alojamiento para cable en la base.
+- UN CALEFACTOR POTENTE: Sus 2400W hacen del calefactor CA-2400 un calefactor muy potente y con una capacidad de calefacción muy alta.
+- FUNCIÓN VENTILADOR AIRE FRÍO: Incorpora una función ventilador de aire frío, que recoge el aire del ambiente y lo expulsa en forma de una agradable brisa fresca. Úsalo también en verano.
+- TERMOSTATO REGULABLE: Cuando llegue al nivel de calor seleccionado se desconectará y se volverá a conectar cuando sea necesario para mantener la temperatura estable.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07Y7YLB7Z/?tag=tolees-21)
