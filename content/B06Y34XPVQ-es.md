@@ -28,10 +28,10 @@ Tienes [Eryplast Lutsine E45 - Pasta al Agua para la Piel del Bebé - Crema Pañ
 
 🔎:
 
-- Colabora con la cicatrización y alivia el culito del bebé
+- Gracias al óxido de zinc, produce una barrera absorbente y no oclusiva capaz de evitar las infecciones bacterianas
 - Calma, cuida y ayuda a proteger frente las causas de la dermatitis del pañal; acción anti-enzimática
 - Pasta al agua para la prevención y tratamiento de la dermatitis del pañal
+- Colabora con la cicatrización y alivia el culito del bebé
 - Su uso diario proporciona una protección suave y eficaz de la delicada piel del bebé
-- Gracias al óxido de zinc, produce una barrera absorbente y no oclusiva capaz de evitar las infecciones bacterianas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B06Y34XPVQ/?tag=tolees-21)

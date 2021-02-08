@@ -28,10 +28,10 @@ Ahora mismo tienes [LEOTRON Complex - 30 cápsulas - Energía que se nota - Comp
 
 🔎:
 
-- Sin gluten; sin lactosa
 - Sin azúcares
 - Ayuda a disminuir el cansancio y la fatiga gracias a su contenido en vitaminas B2, B5, B6, B12, C y magnesio
-- La vitamina B5 contribuye en el rendimiento intelectual normal y el zinc y el yodo a la función cognitiva normal
+- Sin gluten; sin lactosa
 - La jalea real contiene, entre otras sustancias nutritivas, proteínas y glúcidos
+- La vitamina B5 contribuye en el rendimiento intelectual normal y el zinc y el yodo a la función cognitiva normal
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00HR3C0T2/?tag=tolees-21)
