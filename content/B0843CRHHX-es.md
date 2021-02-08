@@ -30,7 +30,7 @@ En este momento está [Arcos Pelador  Metal  Plata  110 mm](https://www.amazon.e
 
 - Pelador
 - Pelador de tomate
-- Acero inoxidable
 - Color plata con acabado cromado
+- Acero inoxidable
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0843CRHHX/?tag=tolees-21)

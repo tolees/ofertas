@@ -28,13 +28,13 @@ En este momento está [Ticwatch S2 Smartwatch Reloj Inteligente y Deportivo con 
 
 🔎:
 
-- Duración de la batería de 2 días Potencia a través de tus aventuras con más duración de la batería
-- Sistema operativo: Wear OS by Google
-- Durabilidad de grado militar de los Estados Unidos Construido para resistir fluctuaciones extremas de temperatura, choque, polvo y agua
 - Dispositivos compatibles: Android, iPhone
-- Modos de deporte Seguimiento deportivo automotivado, apoyado por TicMotion
-- mpermeable 5 ATM Listo para nadar, hasta 50m bajo el agua
 - Tecnología de comunicación inalámbrica: Wi-Fi
+- mpermeable 5 ATM Listo para nadar, hasta 50m bajo el agua
+- Modos de deporte Seguimiento deportivo automotivado, apoyado por TicMotion
+- Durabilidad de grado militar de los Estados Unidos Construido para resistir fluctuaciones extremas de temperatura, choque, polvo y agua
 - GPS incorporado Sistemas GPS, GLONASS, Beidou y Galileo incorporados para un posicionamiento preciso y receptivo
+- Sistema operativo: Wear OS by Google
+- Duración de la batería de 2 días Potencia a través de tus aventuras con más duración de la batería
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07MQZJ8JG/?tag=tolees-21)
