@@ -28,10 +28,10 @@ Tienes [AKORD - Máscara con cuello de neopreno para deportes de invierno  color
 
 ℹ️:
 
-- Máscara unisex de neopreno y forro polar.
 - Con sistema de ventilación para respirar con facilidad y eliminar el mal aliento.
 - Dimensiones: 55 x 28 cm.
-- Cubre las orejas y la nariz y protege del frío, la nieve y el viento en invierno.
 - Cálida y ligera de llevar. Fácil de poner y de quitar.
+- Máscara unisex de neopreno y forro polar.
+- Cubre las orejas y la nariz y protege del frío, la nieve y el viento en invierno.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B005KPXOJY/?tag=tolees-21)

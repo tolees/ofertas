@@ -28,7 +28,7 @@ Ahora mismo tienes [Capzy - Wynonna Earp Taza Mug Cup](https://www.amazon.es/dp/
 
 🔎:
 
-- Imprimé en Europe
 - Qualité supérieure
+- Imprimé en Europe
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08C77LHKG/?tag=tolees-21)

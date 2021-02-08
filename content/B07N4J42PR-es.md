@@ -28,10 +28,10 @@ Ahora mismo tienes [Bourjois Delice de Poudre Polvos Bronceadores Tono 001 - 113
 
 🔎:
 
+- Acabado natural y luminoso
 - Aplicación suave por la piel
 - Consigue el look bronceado ideal al instante
 - Formula cremosa y ligera
 - Paleta de bronceadores Delice de Poudre Highlighting de Bourjois con los 4 tonos de chocolate
-- Acabado natural y luminoso
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07N4J42PR/?tag=tolees-21)

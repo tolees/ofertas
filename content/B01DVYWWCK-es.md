@@ -28,10 +28,10 @@ Está [Tristar SZ-1918 Aspirador de Escoba Vertical  Dos en Uno con Aspirador de
 
 ℹ️:
 
-- Aspirador dos en uno gracias al aspirador extraíble con capacidad de 0,9 litros
-- De tamaño compacto y peso ligero, lo que hace que el aspirador resulte práctico y sea fácil de guardar
-- Potente y de bajo consumo con una potencia de 400 W y clase energética A
-- Absorción del polvo en suelos duros clase A y absorción del polvo en moquetas clase F
 - Con todas las comodidades gracias a su tubo telesférico, cable de alimentación de 5 m y accesorios
+- Potente y de bajo consumo con una potencia de 400 W y clase energética A
+- De tamaño compacto y peso ligero, lo que hace que el aspirador resulte práctico y sea fácil de guardar
+- Absorción del polvo en suelos duros clase A y absorción del polvo en moquetas clase F
+- Aspirador dos en uno gracias al aspirador extraíble con capacidad de 0,9 litros
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01DVYWWCK/?tag=tolees-21)
