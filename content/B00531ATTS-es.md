@@ -28,10 +28,10 @@ Está [Bosch Professional GRL 400 H - Nivel láser giratorio  uso con un solo bo
 
 ℹ️:
 
-- RESULTADOS PRECISOS: Resultados siempre precisos con una precisión de nivelado de ± 2,4 mm a 30 m y un sistema de advertencia de choque ADS
-- INCLUYE: Nivel láser giratorio GRL 400 H, receptor láser LR1, 1 batería x 9V, 1 batería NiMH, 2 pilas 1.5V LR20, cargador, maletín
-- APLICACIONES: Óptima para nivelación de exteriores, para construcción, ingeniería civil y paisajismo
 - USO FÁCIL: Teclado de un botón, función de autonivelado electrónico, y práctica bandeja para baterías
+- APLICACIONES: Óptima para nivelación de exteriores, para construcción, ingeniería civil y paisajismo
+- INCLUYE: Nivel láser giratorio GRL 400 H, receptor láser LR1, 1 batería x 9V, 1 batería NiMH, 2 pilas 1.5V LR20, cargador, maletín
 - IDEAL PARA LA OBRA: Soporta las duras condiciones de cualquier obra de exterior gracias a su protección contra el agua y el polvo IP56
+- RESULTADOS PRECISOS: Resultados siempre precisos con una precisión de nivelado de ± 2,4 mm a 30 m y un sistema de advertencia de choque ADS
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00531ATTS/?tag=tolees-21)

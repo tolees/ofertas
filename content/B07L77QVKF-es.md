@@ -28,9 +28,9 @@ Ahora mismo tienes [Apple Clear Case  para el iPhone XR ](https://www.amazon.es/
 
 🔎:
 
+- Como está hecha de una mezcla de policarbonato transparente y poliuretano termoplástico flexible, se adapta a la perfección a los botones para que se puedan usar sin problemas.
+- Además, tanto la superficie exterior como la interior cuentan con un revestimiento resistente a los arañazos.
 - Si quieres cargar tu iPhone sin conectar un solo cable, ponlo directamente con la funda sobre una base de carga inalámbrica Qi.
 - Esta funda compacta te facilita la sujeción del iPhone XR y lo protege sin renunciar a su atractivo diseño.
-- Además, tanto la superficie exterior como la interior cuentan con un revestimiento resistente a los arañazos.
-- Como está hecha de una mezcla de policarbonato transparente y poliuretano termoplástico flexible, se adapta a la perfección a los botones para que se puedan usar sin problemas.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07L77QVKF/?tag=tolees-21)

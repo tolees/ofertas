@@ -30,8 +30,8 @@ En este momento está [Bosch Professional GBH 2-28 F - Martillo perforador combi
 
 - Control óptimo del dispositivo: El control de retroceso detecta el bloqueo repentino del taladro y detiene el motor inmediatamente
 - Trabajo sin esfuerzo en aplicaciones que requieren mucho tiempo y son muy duraderas gracias al Control de Vibraciones
-- El martillo perforador GBH 2-28 F el gran rendimiento de perforación gracias a un motor de 880 vatios y una energía de impacto de 3,2 J
-- El portabrocas intercambiable SDS Plus permite perforar con martillo hasta un óptimo de 28 mm en hormigón y con una broca hueca hasta 68 mm
 - Incluye: GBH 2-28 F, mango adicional, portabrocas de acción rápida, portabrocas de cambio rápido, juego de taladro y cincel de 6 piezas, tope de profundidad, paño de limpieza, L-Case
+- El portabrocas intercambiable SDS Plus permite perforar con martillo hasta un óptimo de 28 mm en hormigón y con una broca hueca hasta 68 mm
+- El martillo perforador GBH 2-28 F el gran rendimiento de perforación gracias a un motor de 880 vatios y una energía de impacto de 3,2 J
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07WGQ8PYC/?tag=tolees-21)

@@ -28,10 +28,10 @@ Está [Orbegozo FH 5570 – Calefactor vertical oscilante  temperatura regulable
 
 ℹ️:
 
-- Protección contra sobrecalentamiento
-- Control de temperatura regulable
 - Posición ventlador aire frío
+- Protección contra sobrecalentamiento
 - 2 posiciones de calor: 1000 W – 2000 W
 - Calefactor vertical oscilante con 2000 W de potencia
+- Control de temperatura regulable
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B005W1CEGK/?tag=tolees-21)

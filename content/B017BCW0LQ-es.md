@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 35.09 % en 20th Century Fox Home Entertainment Espa'
-date: 2021-01-27 18:03:18
+date: 2021-02-08 09:04:00
 image: 'https://m.media-amazon.com/images/I/61S4MvXo6kL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,9 +16,10 @@ comparePrice: 87.11 EUR
 prodname: '20th Century Fox Home Entertainment España  S.A. - Hijos De La Anarquia Temporada 1-7 [DVD]'
 country: 'es'
 flag: '🇪🇸'
+brand: '20th Century Fox Home Entertainment España, S.A.'
 buyurl: 'https://www.amazon.es/dp/B017BCW0LQ/?tag=tolees-21'
 descuento: '35.09'
-average: '56.4654545454545'
+average: '56.476923076923'
 ---
 
 Tienes [20th Century Fox Home Entertainment España  S.A. - Hijos De La Anarquia Temporada 1-7 [DVD]](https://www.amazon.es/dp/B017BCW0LQ/?tag=tolees-21) con un 35.09 % de descuento con precio de oferta de 56.54 EUR (original: 87.11 EUR) en el siguiente enlace!
