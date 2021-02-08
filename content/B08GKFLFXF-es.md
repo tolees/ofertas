@@ -28,10 +28,10 @@ En este momento está [Amazfit Neo - Smartwatch Orange  Rojo](https://www.amazon
 
 🔎:
 
-- Duración de la batería de 28 días
-- Monitoreo del sueño
-- Monitoreo de frecuencia cardíaca
 - Pantalla siempre encendida
+- Duración de la batería de 28 días
+- Monitoreo de frecuencia cardíaca
+- Monitoreo del sueño
 - Resistente al agua hasta 50 metros
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08GKFLFXF/?tag=tolees-21)
