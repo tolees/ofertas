@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'agipa Apli - Máquina etiquetadora 2 líne al 27.11 % de rebaja'
-date: 2021-02-07 03:57:12
+date: 2021-02-08 04:11:30
 image: 'https://m.media-amazon.com/images/I/51WFnP-stJL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -31,7 +31,7 @@ Tienes [agipa Apli - Máquina etiquetadora 2 líneas 10 caracteres](https://www.
 - Output impresora: Monocromo
 - Factor de forma: Copiar
 - Tipo de conectividad: USB
-- Tecnología de la impresora: Láser
 - ¡Nota! La máquina etiquetadora es solo numérica, sin letras
+- Tecnología de la impresora: Láser
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B004PTN9OQ/?tag=tolees-21)
