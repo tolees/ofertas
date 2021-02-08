@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Salomon XA Pro 3D CSWP J  Zapatillas de  al 28.00 % de descuento'
-date: 2021-02-04 11:48:37
+date: 2021-02-08 00:38:31
 image: 'https://m.media-amazon.com/images/I/41IrCx58-eL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Ahora mismo tienes [Salomon XA Pro 3D CSWP J  Zapatillas de Deporte Unisex Adult
 
 🔎:
 
-- Zapatillas de running running unisex infantil
-- Shoes xa pro (l40965200)
 - Calzado salomon
+- Shoes xa pro (l40965200)
+- Zapatillas de running running unisex infantil
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07RDLQNQP/?tag=tolees-21)

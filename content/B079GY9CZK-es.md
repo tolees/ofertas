@@ -28,10 +28,10 @@ Tienes [Boston Tech 6 Cartuchos Hydro Pure+  filtros de Agua compatibles con Bri
 
 🔎:
 
-- 🌟Larga duración, hasta 200 L. por cada filtro. Certificado por los máximos organismos internacionales: FDA, CE, SGS, TUV Alemana.
-- 🌟Filtrado previo, a través de la membrana superior: para eliminar partículas suspendidas en el agua. Carbón activo en el filtro, que elimina sabores desagradables, residuos contaminantes, plomo y cloro. Elimina la dureza de carbonatos en el agua y evita la formación de escamas, metales pesados (Plomo, cobre, mercurio) entre otros. Filtrado de intercambio de Iones, para conseguir agua más sana y más limpia. Un sabor natural sin cloro y sin metales pesados.
-- 🌟Tecnología micronet, diseñada en USA, de filtración en cuatro pasos. Purifica y conserva sustancias beneficiosas para la salud, como el calcio, magnesio y otros minerales.
 - 🌟Los filtros Hydro Pure + tienen un diseño patentado de núcleo antifugas, que asegura un 100% de filtración y seguridad. Cada Filtro tiene una duración de 2 meses, por lo cual una caja le asegura agua limpia, saludable y de buen sabor por un año.
+- 🌟Tecnología micronet, diseñada en USA, de filtración en cuatro pasos. Purifica y conserva sustancias beneficiosas para la salud, como el calcio, magnesio y otros minerales.
+- 🌟Larga duración, hasta 200 L. por cada filtro. Certificado por los máximos organismos internacionales: FDA, CE, SGS, TUV Alemana.
 - 🌟Pack de 6 filtros, compatibles con los modelos de Brita que usan filtros de tecnología Maxtra, Maxtra+ y Boston Tech Iris y Fresia
+- 🌟Filtrado previo, a través de la membrana superior: para eliminar partículas suspendidas en el agua. Carbón activo en el filtro, que elimina sabores desagradables, residuos contaminantes, plomo y cloro. Elimina la dureza de carbonatos en el agua y evita la formación de escamas, metales pesados (Plomo, cobre, mercurio) entre otros. Filtrado de intercambio de Iones, para conseguir agua más sana y más limpia. Un sabor natural sin cloro y sin metales pesados.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B079GY9CZK/?tag=tolees-21)

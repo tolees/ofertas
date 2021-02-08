@@ -28,10 +28,10 @@ En este momento está [Seiko Reloj Cronografo para Hombre de Cuarzo con Correa e
 
 🔎:
 
-- Wr 100mt
-- Cuarzo
-- Casual
-- Negro y Negro
 - Cronógrafo en Silicona para Hombre
+- Wr 100mt
+- Casual
+- Cuarzo
+- Negro y Negro
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07FNS3MXH/?tag=tolees-21)

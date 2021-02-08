@@ -29,8 +29,8 @@ Tienes [Lékué Triturador de Vegetales](https://www.amazon.es/dp/B07Q635NFF/?ta
 ℹ️:
 
 - Tritura el brócoli y la coliflor a la medida justa para que parezcan granos de arroz; puedes controlar tu mismo el tamaño de los granos
-- Perfecto para dietas sin gluten o bajas en carbohidratos
-- Te permite crear gran variedad de recetas creativas y diferentes con estos dos vegetales: col a la cubana, masa de pizza…
 - Muy fácil, seguro y divertido; tritura el brócoli o la coliflor para añadir más verdura a tus platos
+- Te permite crear gran variedad de recetas creativas y diferentes con estos dos vegetales: col a la cubana, masa de pizza…
+- Perfecto para dietas sin gluten o bajas en carbohidratos
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07Q635NFF/?tag=tolees-21)
