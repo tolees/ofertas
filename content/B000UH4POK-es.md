@@ -29,7 +29,7 @@ Tienes [Opinel 04427VRI - Navaja con hoja de acero inoxidable  color beige  tall
 🔎:
 
 - Buena dureza
-- Hoja en acero inoxidable
 - Mango de haya
+- Hoja en acero inoxidable
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B000UH4POK/?tag=tolees-21)

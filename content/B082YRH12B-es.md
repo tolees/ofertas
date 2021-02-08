@@ -28,7 +28,7 @@ Ahora mismo tienes [Superdry Sports Puffer Chaqueta Acolchada  Negro  S para Hom
 
 🔎:
 
-- Deportes y esquí
 - Las prendas de Superdry son fabricadas con un adecuado balance entre estilo y confort; recomendamos una talla superior a la que emplea habitualmente para una auténtica experiencia Superdry
+- Deportes y esquí
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B082YRH12B/?tag=tolees-21)

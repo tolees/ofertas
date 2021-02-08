@@ -28,10 +28,10 @@ Tienes [Elgato Thunderbolt 3 Standard - Dock con cable Thunderbolt de 50 cm  40 
 
 ℹ️:
 
-- Dos puertos USB-C Thunderbolt 3: mayor versatilidad, incluyendo compatibilidad con pantallas 5K, compatible con doble pantalla: hasta dos veces la resolución 4K
-- Conéctalo todo a tu MacBook Pro o a tu portátil con Windows
-- Puerto Gigabit Ethernet incluido: mayor velocidad de red
 - Carga tu MacBook Pro o tu portátil con Windows con hasta 85 W con el mismo cable que usas para conectar
 - Tres puertos USB 3.0 compatibles con dispositivos de alta potencia como el iPad, SuperDrive y otros
+- Puerto Gigabit Ethernet incluido: mayor velocidad de red
+- Conéctalo todo a tu MacBook Pro o a tu portátil con Windows
+- Dos puertos USB-C Thunderbolt 3: mayor versatilidad, incluyendo compatibilidad con pantallas 5K, compatible con doble pantalla: hasta dos veces la resolución 4K
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01MQU5UBN/?tag=tolees-21)

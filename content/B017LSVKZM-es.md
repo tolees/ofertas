@@ -28,10 +28,10 @@ Ahora mismo tienes [Braun HC5090 - Máquina de Cortar Pelo Profesional  Cortapel
 
 🔎:
 
-- 17 ajustes de longitud: dos accesorios de recorte inteligente que permiten personalizar el peinado en 16 longitudes diferentes; además, dispone de una posición extracorta cuando se usa sin el peine
-- La tecnología DualBattery proporciona potencia constante para un corte de pelo óptimo
-- El sistema de memoria SafetyLock bloquea y memoriza el último ajuste usado
-- Máquina cortar pelo con cuchillas afiladas de larga duración para un corte de pelo óptimo
 - Cortapelos totalmente lavable para una limpieza sencilla bajo el grifo
+- Máquina cortar pelo con cuchillas afiladas de larga duración para un corte de pelo óptimo
+- La tecnología DualBattery proporciona potencia constante para un corte de pelo óptimo
+- 17 ajustes de longitud: dos accesorios de recorte inteligente que permiten personalizar el peinado en 16 longitudes diferentes; además, dispone de una posición extracorta cuando se usa sin el peine
+- El sistema de memoria SafetyLock bloquea y memoriza el último ajuste usado
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B017LSVKZM/?tag=tolees-21)

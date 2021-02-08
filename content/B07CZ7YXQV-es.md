@@ -28,12 +28,12 @@ Ahora mismo tienes [Salomon XA Pro 3D CSWP J  Zapatillas de Deporte Unisex Adult
 
 🔎:
 
-- Anchura del zapato: Normal
+- Tipo de tacón: Plano
 - Composición: Sintético
-- Revestimiento: Sintético
 - Material exterior: Sintético
 - Cierre: Cordones rápidos
+- Anchura del zapato: Normal
+- Revestimiento: Sintético
 - Material de la suela: Goma
-- Tipo de tacón: Plano
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07CZ7YXQV/?tag=tolees-21)

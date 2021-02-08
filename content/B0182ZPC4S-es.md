@@ -28,10 +28,10 @@ Tienes [TECKNET Ratón Inalámbrico 2.4G Mouse Inalámbrico Óptico 5 Niveles 26
 
 🔎:
 
-- Avanzada de 2,4 GHz conectividad: consigue la comodidad inalámbrica y transmisión de datos libertad-rapidísima sin retrasos ni interrupciones de hasta 15 m de distancia.
-- El diseño del rodillo resistente al desgaste, el rodillo en forma de engranaje no es fácil de dañar, se siente cómodo cuando se utiliza, aumentar el diseño de 800-2600 DPI, puede elegir la velocidad que más le convenga de acuerdo a su preferencia.
 - Compatibilidad Universal: Perfecto para Win7/8/10/XP, Vista7/8 y Linux. Para Mac OS.[Nota]Los botones del lado no es compatible con Mac OS.
-- Ahorro-Energía: con la función de apagado automático, este mouse se apagará si se desconecta el receptor Nano USB o si se apaga la PC. Esto puede dar hasta 24 meses de vida útil de la batería, 2* AAA(NO CLUIDO).
 - Receptor USB plug and play: se puede dejar en la interfaz USB, fácil de seguir el movimiento de la computadora portátil, lo que reduce la posibilidad de pérdida.
+- Avanzada de 2,4 GHz conectividad: consigue la comodidad inalámbrica y transmisión de datos libertad-rapidísima sin retrasos ni interrupciones de hasta 15 m de distancia.
+- Ahorro-Energía: con la función de apagado automático, este mouse se apagará si se desconecta el receptor Nano USB o si se apaga la PC. Esto puede dar hasta 24 meses de vida útil de la batería, 2* AAA(NO CLUIDO).
+- El diseño del rodillo resistente al desgaste, el rodillo en forma de engranaje no es fácil de dañar, se siente cómodo cuando se utiliza, aumentar el diseño de 800-2600 DPI, puede elegir la velocidad que más le convenga de acuerdo a su preferencia.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0182ZPC4S/?tag=tolees-21)
