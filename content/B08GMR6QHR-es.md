@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BANDAI NAMCO Entertainment Iberica - Mr. al 27.54 % de descuento'
-date: 2021-02-07 08:37:07
+date: 2021-02-08 18:13:18
 image: 'https://m.media-amazon.com/images/I/51ziBASj5gL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -29,7 +29,7 @@ Está [BANDAI NAMCO Entertainment Iberica - Mr. Driller Drillland](https://www.a
 ℹ️:
 
 - Vuelve Mr; driller
-- Perfora hasta la victoria
 - Modos de batalla multijugador
+- Perfora hasta la victoria
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08GMR6QHR/?tag=tolees-21)
