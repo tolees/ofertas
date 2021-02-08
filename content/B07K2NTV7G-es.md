@@ -28,8 +28,8 @@ Ahora mismo tienes [adidas Falcon  Zapatillas de Entrenamiento para Mujer  Multi
 
 🔎:
 
-- Zapatillas de running
-- Amortiguación
 - Empeine de malla y ante suave
+- Amortiguación
+- Zapatillas de running
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07K2NTV7G/?tag=tolees-21)

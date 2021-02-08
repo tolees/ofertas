@@ -28,10 +28,10 @@ Tienes [Lékué Lasagna Rojo  Silicona  Estandar](https://www.amazon.es/dp/B00FM
 
 🔎:
 
-- Apto para: Lavavajillas, Horno, Microondas
 - Material: Silicona Platino
+- Dibujo: Liso
 - Número piezas: 1
 - Dimensiones: 20 x 6,5 x 24 cm
-- Dibujo: Liso
+- Apto para: Lavavajillas, Horno, Microondas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00FMPEC4S/?tag=tolees-21)

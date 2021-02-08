@@ -28,8 +28,8 @@ Ahora mismo tienes [Adidas Galaxy 5  Zapatillas de Correr Mujer  Blanco  Footwea
 
 🔎:
 
-- Cordones de zapatos
-- Corte regular
 - malla superior
+- Corte regular
+- Cordones de zapatos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B082T12SCT/?tag=tolees-21)
