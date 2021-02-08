@@ -29,9 +29,9 @@ Está [Severin MW 7869 - Microondas con grill  acero inoxidable mate  900 W  col
 ℹ️:
 
 - 9 ajustes diferentes de potencia, incluyendo descongelación y funciones del grill
+- Grill 1000 w
 - Carcasa de acero inoxidable mate
 - Interior recubierto
 - Capacidad útil real: aprox. 11 litros
-- Grill 1000 w
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01ENSYAMS/?tag=tolees-21)

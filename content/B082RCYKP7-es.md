@@ -28,8 +28,8 @@ Ahora mismo tienes [adidas Club 3 STR Polo Shirt  Short Sleeve   Mujer  White/ms
 
 🔎:
 
-- Training
-- Sportware
 - Adidas
+- Sportware
+- Training
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B082RCYKP7/?tag=tolees-21)

@@ -28,7 +28,7 @@ Ahora mismo tienes [Jack & Jones Jjipaul Jjflake AKM 756 Herringbone STS Pantalo
 
 🔎:
 
-- Leg pockets
 - Cargo Pants
+- Leg pockets
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VVLJXBW/?tag=tolees-21)

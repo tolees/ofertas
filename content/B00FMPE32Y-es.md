@@ -29,9 +29,9 @@ Ahora mismo tienes [Lékué Classic - Molde redondo para tartas  24 cm  color ro
 🔎:
 
 - Silicona platino 100%, resiste 220 ºC
+- Contiene recetas en el interior
+- Se puede usar en lavavajillas
 - Facil limpieza por su antiadherencia
 - Facil desmoldado por su flexibilidad y las propiedades antiadherentes de la silicona
-- Se puede usar en lavavajillas
-- Contiene recetas en el interior
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00FMPE32Y/?tag=tolees-21)

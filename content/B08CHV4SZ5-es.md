@@ -28,8 +28,8 @@ Tienes [Lagarto Suavizante Talco Concentrado 70 Lavados 1 5L - Paquete 6 Unidade
 
 ℹ️:
 
-- aroma fresco
 - Aporte extra de suavidad
+- aroma fresco
 - complementa el lavado
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08CHV4SZ5/?tag=tolees-21)
