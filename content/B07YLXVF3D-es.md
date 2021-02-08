@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Superdry Classic Pique S/s Polo  Naranja con un 54.01 % de descuento'
-date: 2021-01-26 05:17:28
+date: 2021-02-08 03:16:40
 image: 'https://m.media-amazon.com/images/I/31nfH0xdK+L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Superdry Classic Pique S/s Polo  Naranja  Dusky Coral Twist 3aq   S para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Superdry'
 buyurl: 'https://www.amazon.es/dp/B07YLXVF3D/?tag=tolees-21'
 descuento: '54.01'
 average: '22.99'
