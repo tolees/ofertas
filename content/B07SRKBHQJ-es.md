@@ -28,10 +28,10 @@ Ahora mismo tienes [Geox D Ottaya Sandal B  Sandalias de Talón Abierto para Muj
 
 🔎:
 
-- Material exterior: Sintético
+- Tipo de tacón: Plano
 - Material exterior: Sintético
 - Material de la suela: Sintético
-- Tipo de tacón: Plano
 - Cierre: Velcro
+- Material exterior: Sintético
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SRKBHQJ/?tag=tolees-21)

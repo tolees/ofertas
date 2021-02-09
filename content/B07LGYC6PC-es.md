@@ -28,9 +28,9 @@ Está [Asmodee - Barony  juego de mesa  BAR01ML ](https://www.amazon.es/dp/B07LG
 
 ℹ️:
 
-- Fácil de usar
-- Producto de calidad
 - Producto creado tanto para aficionados como para profesionales
 - Material duradero
+- Fácil de usar
+- Producto de calidad
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07LGYC6PC/?tag=tolees-21)

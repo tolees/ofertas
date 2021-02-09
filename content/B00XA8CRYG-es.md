@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Knorr - Ravioli de carne  250 g con un 45.05 % de descuento'
-date: 2021-02-01 18:49:58
+date: 2021-02-09 18:56:50
 image: 'https://m.media-amazon.com/images/I/41-9pfrrCnL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ En este momento está [Knorr - Ravioli de carne  250 g](https://www.amazon.es/dp
 
 🔎:
 
-- Ingredientes: pasta alimenticia, relleno, pan de trigo rallado, carne de vacuno cocida, aroma, aromas naturales, suero l?cteo
 - Los raviolis se cuecen durante 10 - 12 minutos en abundante agua hirviendo, ligeramente salada
+- Ingredientes: pasta alimenticia, relleno, pan de trigo rallado, carne de vacuno cocida, aroma, aromas naturales, suero l?cteo
 - Peso neto de 250 gr para 3 raciones
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00XA8CRYG/?tag=tolees-21)
