@@ -28,10 +28,10 @@ Tienes [FANCYINN Vestidos de Fiesta Mujer Cortos Bandage Floral Mujer Mini Vesti
 
 🔎:
 
-- Material: poliéster, cómodo y duradero. Perfecto para pechos más pequeños o medianos. Artículo problemático>>>>> Contacta con el vendedor>>>> Reenviar o reembolsar.
-- Tamaño: 5 tamaños opcionales, XS = 0 – 2, S = EE.UU. 4 – 6, M = EE.UU. 8 – 10, L = EE.UU. 12 – 14, XL = EE.UU. 16. Diseño regular, material elástico, si quieres un diseño ajustado o un tipo de cuerpo pequeño, elige una talla más pequeña, de lo contrario simplemente elige la talla regular.
 - Ocasión: perfecto para vestido de graduación para mujeres, vestidos de regreso a casa para jóvenes, vestidos cortos de dama de novia, vestido de invitados de boda, fiesta, casual, vacaciones en la playa y uso diario.
 - Nota: si no estás seguro de qué tamaño es adecuado para ti. La tabla de tallas recomendada está en los detalles del producto. Tamaño del modelo: 5 pies 7 pulgadas, 110 libras, usa talla S.
 - Diseño: vestido sexy con tirantes delgados y estampado floral, mini vestido floral de flores moradas, vestidos formales cortos sin espalda para mujer, ajustable con bolsillos, vestido corto semiformal, vestido corto de skater, mini vestido corto y elegante, vestidos acampanados.
+- Tamaño: 5 tamaños opcionales, XS = 0 – 2, S = EE.UU. 4 – 6, M = EE.UU. 8 – 10, L = EE.UU. 12 – 14, XL = EE.UU. 16. Diseño regular, material elástico, si quieres un diseño ajustado o un tipo de cuerpo pequeño, elige una talla más pequeña, de lo contrario simplemente elige la talla regular.
+- Material: poliéster, cómodo y duradero. Perfecto para pechos más pequeños o medianos. Artículo problemático>>>>> Contacta con el vendedor>>>> Reenviar o reembolsar.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B072C9CWNJ/?tag=tolees-21)

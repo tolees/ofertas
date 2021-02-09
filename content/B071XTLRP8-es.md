@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'New Balance 373 Core  Zapatillas Hombre  con un 35.40 % de descuento'
-date: 2021-01-28 22:51:38
+title: 'New Balance 373 Core  Zapatillas Hombre  con un 48.20 % de descuento'
+date: 2021-02-09 20:39:53
 image: 'https://m.media-amazon.com/images/I/41WeB3k8XEL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -9,28 +9,29 @@ author: ring
 slug: 'B071XTLRP8-es New Balance 373 Core Zapatillas Hombre Rojo Bordeaux 36 EU'
 sku: 'B071XTLRP8-es'
 tags: [  ]
-actualPrice: 51.68 EUR
+actualPrice: 41.44 EUR
 currency: EUR
-price: 51.68
+price: 41.44
 comparePrice: 80.0 EUR
 prodname: 'New Balance 373 Core  Zapatillas Hombre  Rojo  Bordeaux   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: 'New Balance'
 buyurl: 'https://www.amazon.es/dp/B071XTLRP8/?tag=tolees-21'
-descuento: '35.40'
-average: '58.304'
+descuento: '48.20'
+average: '53.4857142857143'
 ---
 
-En este momento está [New Balance 373 Core  Zapatillas Hombre  Rojo  Bordeaux   36 EU](https://www.amazon.es/dp/B071XTLRP8/?tag=tolees-21) a 51.68 EUR (original: 80.0 EUR) (35.40 %  de descuento) en el siguiente enlace!
+En este momento está [New Balance 373 Core  Zapatillas Hombre  Rojo  Bordeaux   36 EU](https://www.amazon.es/dp/B071XTLRP8/?tag=tolees-21) a 41.44 EUR (original: 80.0 EUR) (48.20 %  de descuento) en el siguiente enlace!
 
 [![New Balance 373 Core  Zapatillas Hombre ](https://m.media-amazon.com/images/I/41WeB3k8XEL._SL200_.jpg)](https://www.amazon.es/dp/B071XTLRP8/?tag=tolees-21)
 
 🔎:
 
-- Material interior: tela
 - Cierre: cordones
 - Material de la suela: goma
-- Estilo: zapatillas de running
 - Material exterior: material sintético
+- Estilo: zapatillas de running
+- Material interior: tela
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B071XTLRP8/?tag=tolees-21)

@@ -28,10 +28,10 @@ Ahora mismo tienes [Under Armour Run Shadow Gorra  Unisex Adulto  Negro  OSFA](h
 
 🔎:
 
-- Paneles de malla para una ventilación estratégica
-- UA Free Fit con visera precurvada y parte delantera flexible que se adapta a la cabeza para ofrecer un ajuste elegante de perfil bajo
-- Banda elástica UA para más elasticidad y capacidad de recuperación, un tacto ultrasuave y un rendimiento con más transpirabilidad
 - Tejido elástico y duradero que proporciona un ajuste cómodo
 - FPS 30 que protege tu piel de los nocivos rayos del sol
+- Banda elástica UA para más elasticidad y capacidad de recuperación, un tacto ultrasuave y un rendimiento con más transpirabilidad
+- UA Free Fit con visera precurvada y parte delantera flexible que se adapta a la cabeza para ofrecer un ajuste elegante de perfil bajo
+- Paneles de malla para una ventilación estratégica
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07RJYWD2B/?tag=tolees-21)

@@ -28,10 +28,10 @@ Tienes [Fantasy Flight Games- SW armada: interdictor  Edge Entertainment EDGSWM1
 
 🔎:
 
+- Este producto es una expansión requiere de Star Wars: Armada
+- Diseñado como mucho más que una mera plataforma de armas, dispone de sofisticados proyectores de pozos gravitatorios capaces de arrancar una nave del hiperespacio
+- Este amenazador navío acecha las hiperrutas de la galaxia en busca de capitanes rebeldes incautos
 - Mantenido en secreto, el Interdictor es la respuesta imperial a la escurridiza amenaza rebelde
 - Si no es contrarrestado, el Interdictor cortará las imprescindibles rutas de escape de la Alianza y ahogará la última esperanza de libertad en la galaxia
-- Diseñado como mucho más que una mera plataforma de armas, dispone de sofisticados proyectores de pozos gravitatorios capaces de arrancar una nave del hiperespacio
-- Este producto es una expansión requiere de Star Wars: Armada
-- Este amenazador navío acecha las hiperrutas de la galaxia en busca de capitanes rebeldes incautos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01KVU0HC4/?tag=tolees-21)

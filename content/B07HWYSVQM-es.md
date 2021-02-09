@@ -28,8 +28,8 @@ Ahora mismo tienes [Citizen Reloj Analógico para Mujer de Cuarzo con Correa en 
 
 🔎:
 
+- Con 44 cristales de Swarovski
 - Caja de acero inoxidable
 - Resistencia al agua: 5 bar
-- Con 44 cristales de Swarovski
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07HWYSVQM/?tag=tolees-21)

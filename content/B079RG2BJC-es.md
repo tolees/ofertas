@@ -28,8 +28,8 @@ Ahora mismo tienes [Asics Gel-Lyte NS  Zapatillas para Hombre  Negro  Black/Blac
 
 🔎:
 
+- Black
 - adulto
 - Textile
-- Black
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B079RG2BJC/?tag=tolees-21)

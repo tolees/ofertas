@@ -28,9 +28,9 @@ Está [Rain Design mStand Gris 43 2 cm  17"  - Soporte de regazo para portátile
 
 ℹ️:
 
-- Fabricado de aluminio que enfría el portátil actuando como disipador de calor
 - Dimensiones del producto de 25.4 x 25.3 x 15.3 cm
-- Compatible con portátiles con pantalla de máximo 17
+- Fabricado de aluminio que enfría el portátil actuando como disipador de calor
 - Diseño sólido de aluminio de una pieza que proporciona estabilidad
+- Compatible con portátiles con pantalla de máximo 17
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01F01DRW6/?tag=tolees-21)
