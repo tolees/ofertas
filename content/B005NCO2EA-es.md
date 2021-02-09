@@ -28,9 +28,9 @@ Ahora mismo tienes [Kensington K64675EU - Candado de Combinación para Portátil
 
 🔎:
 
-- combinación prefijada sin llave serializada - el código numérico de las 4 ruedas se programa en la cerradura antes de su llegada para que pueda ponerlo a trabajar inmediatamente sin necesidad de configurar la combinación usted mismo
-- el número de serie está grabado en la cerradura, lo que facilita la recuperación de la combinación
-- Longitud del cable: 1.8
 - cabeza de bloqueo fuerte - probada contra los estándares más rigurosos y minuciosos de la industria, la cerradura es a prueba de manipulaciones y funcionará de forma duradera una y otra vez
+- combinación prefijada sin llave serializada - el código numérico de las 4 ruedas se programa en la cerradura antes de su llegada para que pueda ponerlo a trabajar inmediatamente sin necesidad de configurar la combinación usted mismo
+- Longitud del cable: 1.8
+- el número de serie está grabado en la cerradura, lo que facilita la recuperación de la combinación
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B005NCO2EA/?tag=tolees-21)
