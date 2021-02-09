@@ -28,10 +28,10 @@ Tienes [Lázaro Magdalenas Tradicional 400 g](https://www.amazon.es/dp/B07YFW4H5
 
 ℹ️:
 
-- Fabricadas artesanalmente y con ingredientes de primera calidad.
 - Mantener en lugar fresco y seco
-- Obtenidas de recetas ancestrales, conservamos los mismos ingredientes básicos y naturales que en su origen: conservamos los mismos ingredientes básicos y naturales Por su textura y sabor, es especialmente apreciada por los consumidores que no quieren comer bollería industrial por su falta de sabor.
-- Nuestras magdalenas caseras están especialmente cuidadas y elaboradas con las mejores materias primas para poder ofrecerle el sabor más tradicional.
+- Fabricadas artesanalmente y con ingredientes de primera calidad.
 - Receta tradicional
+- Nuestras magdalenas caseras están especialmente cuidadas y elaboradas con las mejores materias primas para poder ofrecerle el sabor más tradicional.
+- Obtenidas de recetas ancestrales, conservamos los mismos ingredientes básicos y naturales que en su origen: conservamos los mismos ingredientes básicos y naturales Por su textura y sabor, es especialmente apreciada por los consumidores que no quieren comer bollería industrial por su falta de sabor.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07YFW4H55/?tag=tolees-21)
