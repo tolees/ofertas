@@ -28,10 +28,10 @@ Tienes [Bosch Professional GWS 7-125 - Amoladora angular sin disco  720W  11000 
 
 🔎:
 
-- Incluye: GWS 7-125, empuñadura adicional, brida de fijación, caperuza protectora, tuerca de apriete, llave de dos agujeros, en caja
+- Amoladora angular GWS 7-125 de Bosch Professional con 720 W de potencia y un diámetro de disco de 125 mm
 - Su sistema de protección contra rearranque y su caperuza protectora de seguridad ofrecen una elevada protección al usuario
 - Trabajo cómodo gracias al peso ligero de la herramienta (1,9 kg) y al perímetro reducido de la empuñadura (176 mm)
-- Amoladora angular GWS 7-125 de Bosch Professional con 720 W de potencia y un diámetro de disco de 125 mm
 - Su cabezal plano permite un uso cómodo incluso en lugares estrechos
+- Incluye: GWS 7-125, empuñadura adicional, brida de fijación, caperuza protectora, tuerca de apriete, llave de dos agujeros, en caja
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B018YPAKS4/?tag=tolees-21)

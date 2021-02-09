@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 41.99 % en Emporio Armani Reloj analogico para Homb'
-date: 2021-02-02 17:54:42
+date: 2021-02-09 14:54:45
 image: 'https://m.media-amazon.com/images/I/41EAf-W9oUL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Tienes [Emporio Armani Reloj analogico para Hombre de Cuarzo con Correa en Piel 
 
 ℹ️:
 
-- Sexo: Hombre
 - Color principal: Rosa, Oro rosado
 - Se presenta en caja de regalo Emporio Armani
+- Sexo: Hombre
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00CGAKGYW/?tag=tolees-21)
