@@ -28,8 +28,8 @@ Está [Koch Media - Retro-Bit Sega - Control Pad Saturn USB Pad  Gris [Sega Satu
 
 ℹ️:
 
-- Cable de 3 metros
 - Diseño como el original
+- Cable de 3 metros
 - Compatible con Sega Mega Drive Mini, PC, Mac y Steam
 - Mando con licencia oficial Sega
 

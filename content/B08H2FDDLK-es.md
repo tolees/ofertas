@@ -28,10 +28,10 @@ Ahora mismo tienes [Mr. Wonderful - Calendario de pared - 2021 sueños por cumpl
 
 🔎:
 
-- Un calendario diferente con colgador de madera
-- Incluye 6 hojas con pegatinas Mr. Wonderful
-- Cordón para colgar tipo PU
 - Con hojas troqueladas en forma de punta y con punteado para poder arrancar cada mes.
 - Papel offset 300 gr
+- Incluye 6 hojas con pegatinas Mr. Wonderful
+- Cordón para colgar tipo PU
+- Un calendario diferente con colgador de madera
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08H2FDDLK/?tag=tolees-21)
