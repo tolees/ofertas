@@ -28,9 +28,9 @@ Tienes [Timberland 6 Inch Premium Waterproof  Botas Chukka Mujer  Negro Black Nu
 
 🔎:
 
-- Cierre: cordones
-- Forma del tacón: plano
 - Exterior: piel
+- Cierre: cordones
 - Composición del material: ver descripción
+- Forma del tacón: plano
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00HEQZ24M/?tag=tolees-21)

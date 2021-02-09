@@ -28,11 +28,11 @@ Tienes [Bosch Professional GLI 12V-330 - Linterna a batería  12V  330 lúmenes 
 
 ℹ️:
 
-- Extremadamente brillante: 10 LED con dos niveles de intensidad que proporcionan una iluminación perfecta
 - Incluye: GLI 12V-330, en caja
+- Professional 12V System. Rendimiento compacto. Máxima libertad. Todas nuestras baterías son compatibles con las herramientas nuevas o existentes Bosch Professional del mismo voltaje
 - El ángulo de ajuste máx. de la lámpara es de 200°
+- Extremadamente brillante: 10 LED con dos niveles de intensidad que proporcionan una iluminación perfecta
 - Colocación rápida y flexible en el lugar de trabajo gracias al potente imán, el mosquetón y el gancho
 - La lámpara de trabajo a batería con tecnología LED GLI 12V-330 es una herramienta muy versátil
-- Professional 12V System. Rendimiento compacto. Máxima libertad. Todas nuestras baterías son compatibles con las herramientas nuevas o existentes Bosch Professional del mismo voltaje
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00MIUZAZA/?tag=tolees-21)

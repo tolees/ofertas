@@ -29,11 +29,11 @@ Tienes [Philips Lighting - Philips myGarden Hedgehog Aplique exterior  resistent
 ℹ️:
 
 - Diseño moderno y alta calidad
-- Área de jardín: Patio trasero/Patio delantero, terraza, balcón
-- Fácil montaje en la pared
-- Apto para bombillas de las clases: A++,A+,A,B,C,D,E
-- Efecto de luz dirigida hacia arriba y abajo
-- IP44, resistente a la intemperie: desarrollado especialmente para entornos de humedad al aire libre
 - El fabricante recomienda una bombilla Philips led E27 con 60W
+- IP44, resistente a la intemperie: desarrollado especialmente para entornos de humedad al aire libre
+- Efecto de luz dirigida hacia arriba y abajo
+- Apto para bombillas de las clases: A++,A+,A,B,C,D,E
+- Fácil montaje en la pared
+- Área de jardín: Patio trasero/Patio delantero, terraza, balcón
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B06XCWYFM5/?tag=tolees-21)

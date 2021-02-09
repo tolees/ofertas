@@ -28,9 +28,9 @@ Tienes [Lavazza Café en Grano  Qualità Oro Perfect Symphony  Café Espresso 10
 
 ℹ️:
 
+- CALIDAD LAVAZZA: Una combinación única de seis variedades de granos de arábica de los mejores de Centroamérica y Sudamérica, elaborada por expertos y perfectamente mezclada
 - ASPECTO: “Crema” dorada y un color cálido, AROMA: Notas de frutas y flores, SABOR: Intenso
 - La sinfonía perfecta para un sabor excepcional, desde 1956. Un blend histórico de Lavazza, para aquellos a los que les gusta disfrutar de un buen café todos los días
-- CALIDAD LAVAZZA: Una combinación única de seis variedades de granos de arábica de los mejores de Centroamérica y Sudamérica, elaborada por expertos y perfectamente mezclada
 - MEZCLA: 100 % Arábica - Tueste: Medio - Intensidad: 5 Delicado
 - Paquete de 500 g. Para máquinas de café automáticas y molinillos de café
 

@@ -28,8 +28,8 @@ Tienes [Emporio Armani Reloj analogico para Hombre de Cuarzo con Correa en Piel 
 
 ℹ️:
 
-- Color principal: Rosa, Oro rosado
-- Se presenta en caja de regalo Emporio Armani
 - Sexo: Hombre
+- Se presenta en caja de regalo Emporio Armani
+- Color principal: Rosa, Oro rosado
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00CGAKGYW/?tag=tolees-21)

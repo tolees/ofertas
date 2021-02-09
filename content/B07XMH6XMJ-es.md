@@ -29,8 +29,8 @@ Está [Lékué Estuche de Vapor Green Shopper Kit  Silicona](https://www.amazon.
 ℹ️:
 
 - El packaging es reutilizable; contiene contenido en el mismo para darle una segunda vida
-- Incluye 2 recetas de aprovechamiento de alimentos para cocinar con el estuche de vapor
 - El estuche es de un color verde exclusivo
 - Este kit incluye un estuche de vapor, un recetario y, de regalo, una bolsa fabricada con botellas de plástico recicladas.
+- Incluye 2 recetas de aprovechamiento de alimentos para cocinar con el estuche de vapor
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07XMH6XMJ/?tag=tolees-21)

@@ -28,10 +28,10 @@ Ahora mismo tienes [Winsor & Newton- Marta Kolinsky Pincel se acuarela  Serie 7 
 
 🔎:
 
-- Para los artistas que aprecian exquisita calidad y longevidad, no hay otro cepillo de la serie 7
 - Winsor & newton es la marca líder mundial de materiales de bellas artes
 - Ilumine los ojos
 - Destinatario: niños de primaria
+- Para los artistas que aprecian exquisita calidad y longevidad, no hay otro cepillo de la serie 7
 - Stamp, raspe y verás
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B001ACS52W/?tag=tolees-21)

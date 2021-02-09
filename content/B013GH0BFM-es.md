@@ -29,9 +29,9 @@ Tienes [Remington HC5018 Apprentice - Kit Máquina de Cortar Pelo y 10 Piezas  C
 ℹ️:
 
 - Funciona con cable
-- Cuchillas de acero inoxidable
-- Incluye cepillo para el cuello, cepillo para la limpieza, peine y capuchón protector de cuchilla
-- 5 Peines guía de 3, 6, 9, 12 y 18 milímetros
 - kit ideal para cortarse el pelo en casa
+- 5 Peines guía de 3, 6, 9, 12 y 18 milímetros
+- Incluye cepillo para el cuello, cepillo para la limpieza, peine y capuchón protector de cuchilla
+- Cuchillas de acero inoxidable
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B013GH0BFM/?tag=tolees-21)
