@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pack Harry Potter - Colección Completa G al 30.00 % de descuento'
-date: 2021-02-02 23:14:29
+date: 2021-02-09 07:06:13
 image: 'https://m.media-amazon.com/images/I/51vK5lclyGL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XW6T7XH/?tag=tolees-21'
 descuento: '30.00'
-average: '27.0783333333333'
+average: '27.1511363636363'
 ---
 
 Ahora mismo tienes [Pack Harry Potter - Colección Completa Golden Steelbook 2019 [DVD]](https://www.amazon.es/dp/B07XW6T7XH/?tag=tolees-21) a 28.68 EUR (original: 40.97 EUR) (30.00 %  de descuento) en el siguiente enlace!
