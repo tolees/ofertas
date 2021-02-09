@@ -28,9 +28,9 @@ Está [Daniel Wellington Petite St Mawes  Reloj Marrón/Oro Rosado  32mm  Cuero 
 
 ℹ️:
 
+- Tamaño de Esfera: 32 mm
 - Correa intercambiable
 - Longitud de la correa ajustable: (Min - Max) 145-185mm
 - Diseñadas Suecia, las piezas de Daniel Wellington presentan un estilo escandinavo minimalista y son el regalo o accesorio personal óptimo para cada ocasión
-- Tamaño de Esfera: 32 mm
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B071L91LRZ/?tag=tolees-21)

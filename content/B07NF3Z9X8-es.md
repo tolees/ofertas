@@ -28,7 +28,7 @@ En este momento está [Lotus Reloj Cronógrafo para Hombre de Cuarzo con Correa 
 
 🔎:
 
-- Wasserdichtigkeit: 10 bar
 - Ziffernblatt: Blau mit Leuchtzeigern, silbernen Indizes und roten Akzenten
+- Wasserdichtigkeit: 10 bar
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07NF3Z9X8/?tag=tolees-21)

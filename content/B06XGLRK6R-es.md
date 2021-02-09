@@ -30,7 +30,7 @@ Está [Joma Pantalon Championship IV Largo  Hombres  Negro  Black/White   S](htt
 
 - Pantalón con bolsillos y aberturas laterales con cremalleras en la parte inferior
 - Cintura elástica ajustable con cordón
-- Composición: 100% poliéster
 - Pantalón para correr y para las actividades al aire libre
+- Composición: 100% poliéster
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06XGLRK6R/?tag=tolees-21)

@@ -28,10 +28,10 @@ En este momento está [Durex Pack Sensitivo Invisible - Preservativos Durex Invi
 
 🔎:
 
-- PRESERVATIVOS INVISIBLES EXTRA SENSITIVOS: Maximiza la sensibilidad garantizando un alto nivel de seguridad y protección
+- PRESERVATIVOS INVISBLES EXTRA SENSITIVOS: FINOS; perímetro ajustado: 52 mm anchura nominal
 - REAL FEEL: GROSOR ELEVADO Y PERÍMETRO ESTÁNDAR; anchura nominal de 56 mm, talla adecuada para la mayoría de los hombres gracias a su diseño elástico
 - PRESERVATIVOS LUBRICADOS: Lubricación de silicona, para una experiencia más suave
 - REAL FEEL: PRESERVATIVOS SIN LÁTEX con una tecnología para proporcionar una mayor sensación piel con piel
-- PRESERVATIVOS INVISBLES EXTRA SENSITIVOS: FINOS; perímetro ajustado: 52 mm anchura nominal
+- PRESERVATIVOS INVISIBLES EXTRA SENSITIVOS: Maximiza la sensibilidad garantizando un alto nivel de seguridad y protección
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08HDTTBTB/?tag=tolees-21)

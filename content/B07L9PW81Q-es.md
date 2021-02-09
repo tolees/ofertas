@@ -28,10 +28,10 @@ Está [Memoria Flash USB 3.0 SanDisk Ultra Loop de 64 GB  Gris](https://www.ama
 
 ℹ️:
 
-- Obtén velocidades de transferencia rápidas de hasta 130 mb/s con esta memoria flash usb 3.0 de alto rendimiento
-- Ayuda a proteger tus archivos desde el exterior con este diseño duradero de metal fundido
-- Opta por contar con espacio suficiente para todos tus contenidos importantes gracias a las capacidades de hasta 128 gb
 - Ayuda a mantener la privacidad de tus contenidos con el software de protección con contraseña sandisk secureaccess incluido
+- Opta por contar con espacio suficiente para todos tus contenidos importantes gracias a las capacidades de hasta 128 gb
+- Ayuda a proteger tus archivos desde el exterior con este diseño duradero de metal fundido
+- Obtén velocidades de transferencia rápidas de hasta 130 mb/s con esta memoria flash usb 3.0 de alto rendimiento
 - Tipo de conectividad: USB tipo A
 - Transfiere una película a la memoria hasta 15 veces más rápido que las memorias usb 2.0 estándar
 

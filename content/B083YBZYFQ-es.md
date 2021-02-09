@@ -28,8 +28,8 @@ En este momento está [Kipling Myrte  Crossbody para Mujer  Grey Grau  4.5x24x14
 
 🔎:
 
-- Crossbody.
 - Classics.
 - Para mujer.
+- Crossbody.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B083YBZYFQ/?tag=tolees-21)
