@@ -28,8 +28,8 @@ Está [Tangle Teezer The Original Blueberry Pop Peine - 150 gr](https://www.amaz
 
 ℹ️:
 
-- Género: Unisex Adulto
 - Tipo de producto: Peine
+- Género: Unisex Adulto
 - Marca: Tangle Teezer
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0086QEODO/?tag=tolees-21)

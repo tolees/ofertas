@@ -28,10 +28,10 @@ Tienes [Proraso Crema Pre Afeitado  300 ml](https://www.amazon.es/dp/B00CEMWFDC/
 
 ℹ️:
 
+- No contiene parabenos, aceites minerales, siliconas, S.L.S ni colores artificiales.
+- Piel normal, aroma mentol.
+- También se puede usar como bálsamo relajante después del afeitado.
 - Suaviza la Barba y gracias a su consistencia proteje y facilita el paso de la cuchilla de afeitar.
 - Humedece el rostro y aplica la crema, masajea suavemente la barba y la piel, espera 5, no aclarar, aplica la crema o jabón de afeitar procede con el afeitado.
-- También se puede usar como bálsamo relajante después del afeitado.
-- Piel normal, aroma mentol.
-- No contiene parabenos, aceites minerales, siliconas, S.L.S ni colores artificiales.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00CEMWFDC/?tag=tolees-21)

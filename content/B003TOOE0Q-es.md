@@ -28,10 +28,10 @@ Tienes [BRA Sartén para Crepes  26 cm  aptas para todo tipo de cocinas incluida
 
 ℹ️:
 
+- Apta para todo tipo de cocinas, incluido inducción
 - Recubrimiento antiadherente de la calidad tricapa Teflon Platinum Plus sin PFOA
 - Aluminio fundido
-- Fondo difusor uniforme de eficiencia (Save energy system)
-- Apta para todo tipo de cocinas, incluido inducción
 - Apto para horno hasta 220ºC
+- Fondo difusor uniforme de eficiencia (Save energy system)
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B003TOOE0Q/?tag=tolees-21)

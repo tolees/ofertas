@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kingston DataTraveler G4 DTIG4/128 GB -  al 44.93 % de rebaja'
-date: 2021-01-21 17:38:32
+date: 2021-02-09 08:29:07
 image: 'https://m.media-amazon.com/images/I/31XuIG7963L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,9 +16,10 @@ comparePrice: 22.99 EUR
 prodname: 'Kingston DataTraveler G4 DTIG4/128 GB - Memoria USB  128 GB  Verde/Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Kingston'
 buyurl: 'https://www.amazon.es/dp/B00G9WHMHM/?tag=tolees-21'
 descuento: '44.93'
-average: '12.799130434782608'
+average: '12.788'
 ---
 
 Tienes [Kingston DataTraveler G4 DTIG4/128 GB - Memoria USB  128 GB  Verde/Blanco](https://www.amazon.es/dp/B00G9WHMHM/?tag=tolees-21) con precio final de  12.66 EUR (original: 22.99 EUR) (44.93 %  de rebaja) aqui!
@@ -28,9 +29,9 @@ Tienes [Kingston DataTraveler G4 DTIG4/128 GB - Memoria USB  128 GB  Verde/Blanc
 🔎:
 
 - Personalizable con su logotipo y, o archivos digitales
-- Práctico capuchón para proteger conector USB y sus datos
-- Disponible en colores múltiples según capacidad
 - Dispositivos compatibles: 4-pin USB 3.0 Flash Drive
+- Disponible en colores múltiples según capacidad
 - Enganche grande y colorido para unirla fácilmente al llavero
+- Práctico capuchón para proteger conector USB y sus datos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00G9WHMHM/?tag=tolees-21)
