@@ -28,13 +28,13 @@ Tienes [Lékué Recipiente Quick Pasta  1500 ml  Polipropileno](https://www.amaz
 
 ℹ️:
 
-- Muy rápido: no es necesario hervir agua primero. Hasta 4 raciones en 10 minutos.
 - Incluye: Tabla de cocción con pastas modernas y saludables: pasta larga y seca, pasta larga y fresca, pasta rellena seca, ñoquis frescos …
-- ¡De la cocina a la mesa! Su diseño permite servir directamente a la mesa de la cena.
-- Limpio: la espuma no sale y el microondas permanece limpio.
 - Incluye Recetas: Farfalle con tomates secos, pesto, fettuccini arrabiata, spaghetti limone parmegiano …
-- Fabricado en Polipropileno y Silicona de alta calidad, absolutamente apto para su uso en microondas.
+- Limpio: la espuma no sale y el microondas permanece limpio.
 - Guía de porciones para spaghetti en la base. Para 1-2 personas o 3-4 personas.
+- ¡De la cocina a la mesa! Su diseño permite servir directamente a la mesa de la cena.
+- Muy rápido: no es necesario hervir agua primero. Hasta 4 raciones en 10 minutos.
 - Recetas de pasta en un solo paso. Añade todos los ingredientes en el recipiente y cocínalos en el microondas.
+- Fabricado en Polipropileno y Silicona de alta calidad, absolutamente apto para su uso en microondas.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07KPKN55X/?tag=tolees-21)

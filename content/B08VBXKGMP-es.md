@@ -28,10 +28,10 @@ En este momento está [Buabi - Bolsa de papel kraft marron  22x15cm  para regalo
 
 🔎:
 
-- [TAMAÑO MEDIANO] 22x15x5cm, para guardar cosas como alimentos bollería bocadillo sandwich pan merienda almuerzo fruta frutos secos. Otros usos: guardar mascarillas, decorarlas, manualidades, regalos, etc.
 - [MAYOR CANTIDAD] 150 bolsas de papel para poder usarlas durante semanas o meses
+- [ECOLOGICAS] Bolsas de papel kraft marrón, material eco-friendly biodegradable, reciclable y respetuoso con el medio ambiente
+- [TAMAÑO MEDIANO] 22x15x5cm, para guardar cosas como alimentos bollería bocadillo sandwich pan merienda almuerzo fruta frutos secos. Otros usos: guardar mascarillas, decorarlas, manualidades, regalos, etc.
 - [SIN LOGO NI MARCAS] Perfectas para decorar, pintar, personalizar, etc. y hacer manualidades decoracion bisuteria regalos de boda comunion cumpleaños bautizo fiestas
 - [SEGURAS] Al contrario que el plástico no contienen BPA y son aptas para llevar alimentos. Tampoco contienen tintas ni productos tóxicos. Son 100% seguras para tu salud
-- [ECOLOGICAS] Bolsas de papel kraft marrón, material eco-friendly biodegradable, reciclable y respetuoso con el medio ambiente
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08VBXKGMP/?tag=tolees-21)
