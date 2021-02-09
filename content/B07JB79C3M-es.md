@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lee Extreme Motion Straight Jeans  Trip  con un 33.74 % de descuento'
-date: 2021-02-08 04:07:55
+date: 2021-02-09 04:45:01
 image: 'https://m.media-amazon.com/images/I/41ou6pIRpNL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Lee'
 buyurl: 'https://www.amazon.es/dp/B07JB79C3M/?tag=tolees-21'
 descuento: '33.74'
-average: '41.7286885245903'
+average: '41.7786486486488'
 ---
 
 En este momento está [Lee Extreme Motion Straight Jeans  Trip  34W / 32L para Hombre](https://www.amazon.es/dp/B07JB79C3M/?tag=tolees-21) a 46.35 EUR (original: 69.95 EUR) (33.74 %  de descuento) en el siguiente enlace!
