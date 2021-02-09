@@ -28,9 +28,9 @@ Tienes [Joma - Mono triathlon negro-amarillo s/m para hombre  negro/amarillo  S]
 
 ℹ️:
 
-- Con costuras planas para evitar la fricción
 - Body de triatlón Joma diseñado con cuello redondo
 - Se caracteriza por su ligereza y ajuste gracias a su cremallera situada en la parte posterior
 - Incorpora un tejido de vellón entre las dos patas para proteger al jugador a bajas temperaturas
+- Con costuras planas para evitar la fricción
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01ERYZY5K/?tag=tolees-21)

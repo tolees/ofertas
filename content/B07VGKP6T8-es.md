@@ -28,10 +28,10 @@ En este momento está [Napapijri K Noli Pantalones Cortos  Azul  BLU Marine 1761
 
 🔎:
 
-- Brand: NAPAPIJRI
-- Articolo: NP0A4E4I
-- Colore: Blu
 - Genger: MJunior
 - Articolo: Bermuda
+- Brand: NAPAPIJRI
+- Colore: Blu
+- Articolo: NP0A4E4I
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07VGKP6T8/?tag=tolees-21)
