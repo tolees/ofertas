@@ -28,10 +28,10 @@ Tienes [STANLEY FATMAX FME340K-QS - Sierra de calar 710W  20mm  corte bisel 45°
 
 🔎:
 
-- Longitud de carrera de 20 mm, cortes a bisel de 45° y cambio de las hojas de sierra sin herramientas.
+- Incluye maletín.
+- Sierra de calar eléctrica con motor de 710W de potencia y acción pendular ajustable para mayor capacidad de corte y larga vida de la hoja de sierra.
 - Máxima capacidad de corte en madera 85 mm y en metal 10 mm.
 - Acepta hojas de sierra con eje en T y en U.
-- Sierra de calar eléctrica con motor de 710W de potencia y acción pendular ajustable para mayor capacidad de corte y larga vida de la hoja de sierra.
-- Incluye maletín.
+- Longitud de carrera de 20 mm, cortes a bisel de 45° y cambio de las hojas de sierra sin herramientas.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00B0W5Q9C/?tag=tolees-21)

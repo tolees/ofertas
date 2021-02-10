@@ -28,12 +28,12 @@ Está [Wolfcraft 6906000 - Banco de trabajo MASTER cut 1500 - Mesa de trabajo y 
 
 ℹ️:
 
-- Para sierras circulares de mano con la cuchilla separado para max 7 cm de profundidad de corte sin cuña de partir a max. 66 profundidad de corte mm, diámetro de la hoja de 20 cm y la max. Grundplattenmaßen.permite especificada utilice los accesorios cuchilla separado art.nr.6903000 (hasta 16 cm)
 - Se puede utilizar como mesa de sierra circular, mesa de sierra de calar o mesa de fresado en combinación con el tope de fresado 6901000 y la estación de trabajo
-- Máx; carga: 200 kg envergadura: 120 620 mm anchura de corte max 390 mm​​
-- Para los routers con max 230 V, máx 1800 W, máx 170 mm de diámetro de base, máx 20 mm de altura placa base y máx 27 mm diámetro de la fresa
 - Especificaciones: dimensiones construidos: 940 x 640 x 865 mm dimensiones plegado: 1145 x 640 x 195 mm altura de trabajo: 865 mm dimensiones tabletop total de: 780 x 500 mm dimensiones del panel mdf: 495 x 500 x 23 mm dimensiones placa de la máquina: 285 x 500 mm
+- Máx; carga: 200 kg envergadura: 120 620 mm anchura de corte max 390 mm​​
+- Para sierras circulares de mano con la cuchilla separado para max 7 cm de profundidad de corte sin cuña de partir a max. 66 profundidad de corte mm, diámetro de la hoja de 20 cm y la max. Grundplattenmaßen.permite especificada utilice los accesorios cuchilla separado art.nr.6903000 (hasta 16 cm)
 - El taller multifuncional plegable para máquinas portátiles
 - Od; art.nr.6904000 (16-20cm) también puede ser sierras circulares manuales sin cuchilla separadora se puede utilizar
+- Para los routers con max 230 V, máx 1800 W, máx 170 mm de diámetro de base, máx 20 mm de altura placa base y máx 27 mm diámetro de la fresa
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00EX54G6M/?tag=tolees-21)

@@ -28,10 +28,10 @@ Está [Disney-19676 0 Disney Dumbo Puzzle 1000 piezas  Multicolor  Ravensburger 
 
 ℹ️:
 
-- Puzzle 1000 piezas
-- Tamaño final del rompecabezas: 70 x 50 cm
 - Cartón y papel especiales
 - SoftClick Technology - calidad Ravensburger
+- Tamaño final del rompecabezas: 70 x 50 cm
+- Puzzle 1000 piezas
 - Tamaño de la caja: 37x27x5,5 cm
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01GJN61N6/?tag=tolees-21)

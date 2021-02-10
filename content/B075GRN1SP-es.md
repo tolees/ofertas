@@ -28,9 +28,9 @@ Está [Vampirina-78040 Vampirina Parlanchina  Multicolor  Bandai 78040 ](https:/
 
 ℹ️:
 
-- Las alas se están expandiendo
 - Muñeca habla en castellano
-- Frases, sonidos y música de la serie
 - Representa a Vampirina Parlanchina
+- Frases, sonidos y música de la serie
+- Las alas se están expandiendo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B075GRN1SP/?tag=tolees-21)
