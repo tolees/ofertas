@@ -29,8 +29,8 @@ En este momento está [adidas Club 3STR Polo  Hombre  rosint  XL](https://www.am
 🔎:
 
 - Corte clásico más ancho y silueta recta
-- Punto doble 100% poliéster reciclado
-- Manga corta
 - Cuello de polo con tres botones
+- Manga corta
+- Punto doble 100% poliéster reciclado
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08BVMJ48Y/?tag=tolees-21)

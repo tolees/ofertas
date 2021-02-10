@@ -29,9 +29,9 @@ En este momento está [Festina Reloj Analógico para Mujer de Cuarzo con Correa 
 🔎:
 
 - Caja: acero inoxidable plateado, cubierto con piedras de cristal transparentes
-- Material de la correa: acero inoxidable plateado
 - Sumergible: 5 bares
-- Diámetro de la caja: 36 mm
 - Esfera: nácar gris jaspeado, con números arábigos de oro rosa, índices y manecillas
+- Diámetro de la caja: 36 mm
+- Material de la correa: acero inoxidable plateado
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07DNSYGY8/?tag=tolees-21)

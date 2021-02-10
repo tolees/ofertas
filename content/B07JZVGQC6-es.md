@@ -28,8 +28,8 @@ Está [Adidas Continental 80  Zapatillas Hombre  Blanco  FTWR White/Scarlet/Coll
 
 ℹ️:
 
+- Estilo vintage
 - Zapatillas deportivas
 - Empeine de piel lisa
-- Estilo vintage
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07JZVGQC6/?tag=tolees-21)

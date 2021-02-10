@@ -28,9 +28,9 @@ Ahora mismo tienes [Take Two Interactive Spain - WWE 2k20](https://www.amazon.es
 
 🔎:
 
-- 17 x 14 x 1.5 cm
-- Fácil de usar
-- Plataforma para visualización: PlayStation 4
 - Muy conveniente
+- Plataforma para visualización: PlayStation 4
+- Fácil de usar
+- 17 x 14 x 1.5 cm
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07WLM71F7/?tag=tolees-21)

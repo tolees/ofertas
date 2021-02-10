@@ -28,10 +28,10 @@ Tienes [Focos LED exterior 20W Extrastar Potente Luces Led Exterior IP65  Luz de
 
 🔎:
 
-- REFRIGERACIÓN EFICIENTE: El reflector está diseñado con un disipador de calor tipo aleta, lo que significa que actúa como un radiador para disipar el calor.
-- SUPER BRILLANTE Y AHORRO DE ENERGÍA: Paquete de 2 Foco LED con LED ultrabrillantes, puede producir hasta 1600lm de luz blanca de alto brillo. Cada luz de inundación puede reemplazar la bombilla halógena tradicional de 160 vatios, ahorre 85% en la factura de la luz
-- Buen funcionamiento: utilice el diseño inteligente del IC de la alta calidad, comparado con el reflector tradicional, nuestro LED trabaja el servicio más estable y más largo de la vida. ángulo de 120° de luz, área de irradiación, proporcionando fuente de luz de alto brillo.
-- INSTALACIÓN ESTABLE Y FÁCIL: un soporte de metal ensanchado y engrosado hace que las luces sean más estables. El soporte ajustable ayuda a instalar la luz con cualquier ángulo que necesite;
 - IP65 IMPERMEABLE: hecho de carcasa de aluminio fundido a presión y vidrio templado, las luces de inundación pueden funcionar bien en lluvia, aguanieve, nieve. Apto para interiores y exteriores, se puede aplicar en jardines, muelles, estadios y otros lugares.
+- SUPER BRILLANTE Y AHORRO DE ENERGÍA: Paquete de 2 Foco LED con LED ultrabrillantes, puede producir hasta 1600lm de luz blanca de alto brillo. Cada luz de inundación puede reemplazar la bombilla halógena tradicional de 160 vatios, ahorre 85% en la factura de la luz
+- INSTALACIÓN ESTABLE Y FÁCIL: un soporte de metal ensanchado y engrosado hace que las luces sean más estables. El soporte ajustable ayuda a instalar la luz con cualquier ángulo que necesite;
+- Buen funcionamiento: utilice el diseño inteligente del IC de la alta calidad, comparado con el reflector tradicional, nuestro LED trabaja el servicio más estable y más largo de la vida. ángulo de 120° de luz, área de irradiación, proporcionando fuente de luz de alto brillo.
+- REFRIGERACIÓN EFICIENTE: El reflector está diseñado con un disipador de calor tipo aleta, lo que significa que actúa como un radiador para disipar el calor.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B085NPC1S4/?tag=tolees-21)
