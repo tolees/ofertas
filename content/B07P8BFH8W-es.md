@@ -29,7 +29,7 @@ En este momento está [Tommy Hilfiger Heritage Crew Neck Graphic tee Camiseta  S
 🔎:
 
 - Logo de Tommy Hilfiger en el pecho
-- Logo de Tommy Hilfiger bordado en el bajo
 - Cinta distintiva en el interior del cuello
+- Logo de Tommy Hilfiger bordado en el bajo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07P8BFH8W/?tag=tolees-21)
