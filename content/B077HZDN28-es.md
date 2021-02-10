@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'IEFIEL Niñas Vestido Princesa Largo de F con un 50.02 % de descuento'
-date: 2021-02-02 19:02:31
+date: 2021-02-10 20:05:07
 image: 'https://m.media-amazon.com/images/I/315NTsFdsnL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ En este momento está [IEFIEL Niñas Vestido Princesa Largo de Fiesta Traje Eleg
 
 🔎:
 
-- Falda de 2 capas: 1 de gasa 1 de forro.
 - Perfecto para fiesta, cumpleaños, ceremonia, bautizo etc.
 - Por favor, revise con la tabla de tallas en Descripción del producto antes de realizar un pedido. Si usted no está seguro, puede elegir una talla más pequeña.
-- El corpiño de encaje floreado, sin mangas, cremallera oculta a la espalda.
+- Falda de 2 capas: 1 de gasa 1 de forro.
 - Vestido de fiesta para niña. Vestido princesa y elegante, sin mangas.
+- El corpiño de encaje floreado, sin mangas, cremallera oculta a la espalda.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B077HZDN28/?tag=tolees-21)

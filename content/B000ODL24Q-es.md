@@ -28,8 +28,8 @@ Tienes [Opinel No. 8 - Navaja  Inoxidable  Natur  ohne Lederband Talla:8](https:
 
 🔎:
 
+- Espada
 - Acero
 - Tamaño: 11 cm
-- Espada
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B000ODL24Q/?tag=tolees-21)

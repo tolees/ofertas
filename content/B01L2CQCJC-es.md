@@ -29,7 +29,7 @@ Ahora mismo tienes [GoPro AGTSM-001 - Soporte para manillar/tija del sillín/bas
 🔎:
 
 - GoPro Original.
-- Resistente y de buena calidad.
 - Accesorio para cámara GoPro.
+- Resistente y de buena calidad.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01L2CQCJC/?tag=tolees-21)
