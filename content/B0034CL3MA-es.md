@@ -29,12 +29,12 @@ En este momento está [TP-Link TL-SF1008D - Switch Ethernet de 8 Puertos  10/100
 🔎:
 
 - Carcasa de plástico, diseñado para ser usado como equipo de sobremesa.
-- El control de flujo IEEE 802.3x proporciona una transferencia de datos confiable.
-- El diseño sin ventilador garantiza un funcionamiento silencioso.
-- Tecnología de ahorro de energía para ethernet que reduce el consumo.
-- Plug and play, sin ninguna configuración adicional.
 - 8 puertos RJ45 con negociación automática de velocidad 10/100 Mbps, admite MDI/MDIX automático.
 - Soporta 2k de Jumbo Frame, mejorando significantemente el rendimiento de las transfencias de grandes archivos.
+- El control de flujo IEEE 802.3x proporciona una transferencia de datos confiable.
 - Requisitos del sistema : Microsoft Windows 8/7/Vista/XP , MAC OS, NetWare, UNIX o Linux.
+- El diseño sin ventilador garantiza un funcionamiento silencioso.
+- Plug and play, sin ninguna configuración adicional.
+- Tecnología de ahorro de energía para ethernet que reduce el consumo.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0034CL3MA/?tag=tolees-21)

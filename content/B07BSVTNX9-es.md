@@ -28,10 +28,10 @@ Tienes [Vbestlife Reemplazo del Control Remoto Mando a Distancia para Samsung AA
 
 🔎:
 
-- ★ Funciona con 2 pilas AAA (no incluidas).
-- ★ Perfecto para reemplazar tu viejo o roto.
-- ★ Material ABS, portátil, duradero. Se puede utilizar directamente después de la instalación de la batería.
-- ★ La distancia a distancia es de hasta 10 m/33 pies (la distancia real depende del modelo de tu televisor).
 - ★ Mando a distancia de repuesto para Samsung AA59-00790A stb BN59-01178B BN59-01178R.
+- ★ Perfecto para reemplazar tu viejo o roto.
+- ★ La distancia a distancia es de hasta 10 m/33 pies (la distancia real depende del modelo de tu televisor).
+- ★ Funciona con 2 pilas AAA (no incluidas).
+- ★ Material ABS, portátil, duradero. Se puede utilizar directamente después de la instalación de la batería.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07BSVTNX9/?tag=tolees-21)

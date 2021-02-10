@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'New Balance Hombre 574v2-core Trainers Z al 48.57 % de descuento'
-date: 2021-02-09 16:08:43
+date: 2021-02-10 16:56:39
 image: 'https://m.media-amazon.com/images/I/41YWLO-DqfL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'New Balance'
 buyurl: 'https://www.amazon.es/dp/B075K3N6KR/?tag=tolees-21'
 descuento: '48.57'
-average: '45.563125'
+average: '45.5406'
 ---
 
 Está [New Balance Hombre 574v2-core Trainers Zapatillas  Negro  Triple Black   41.5 EU](https://www.amazon.es/dp/B075K3N6KR/?tag=tolees-21) con 48.57 de descuento por 45.0 EUR (original: 87.49 EUR) en el siguiente enlace!

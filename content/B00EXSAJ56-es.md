@@ -29,9 +29,9 @@ Está [Neutrogena Blackhead Eliminating Tónico Limpiador con Ácido Salicílico
 ℹ️:
 
 - Además, este exfoliante contiene ácido salicílico, el cual purifica la piel para conseguir un rostro suave y sin imperfecciones
-- Este exfoliante es ideal para mantener una piel bonita, sana y limpia en profundidad; ideal para pieles con puntos negros
 - El Exfoliante Facial Blackhead Eliminating de Neutrogena elimina y ayuda a prevenir los puntos negros, reduciendo los poros visiblemente desde el primer día
 - Sus partículas exfoliantes de celulosa natural actúan sobre la piel desobstruyendo los poros, eliminando la suciedad y el sebo atascado para limpiar y reducir la apariencia de los poros
 - Contiene una fórmula no comedogénica y no grasa que ha sido comprobada por dermatólogos; es ideal para utilizarse diario
+- Este exfoliante es ideal para mantener una piel bonita, sana y limpia en profundidad; ideal para pieles con puntos negros
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00EXSAJ56/?tag=tolees-21)

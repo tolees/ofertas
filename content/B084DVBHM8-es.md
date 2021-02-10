@@ -28,8 +28,8 @@ En este momento está [Clarks Sillian2.0 Kae  Zapatillas Mujer  Azul  Blue Marin
 
 🔎:
 
-- Material exterior: piel lisa
 - Suela: piel y goma
 - Material interior: sintético
+- Material exterior: piel lisa
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B084DVBHM8/?tag=tolees-21)
