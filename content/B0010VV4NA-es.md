@@ -28,8 +28,8 @@ Tienes [Wedo Taburete con Ruedas  Gris Luminoso](https://www.amazon.es/dp/B0010V
 
 🔎:
 
-- TÜV/GS EN 14183-F
 - Fuerza portante 150 kg
+- TÜV/GS EN 14183-F
 - De plástico resistente a la rotura, reciclable, montaje muy sencillo
 - No se necesitan herramientas
 

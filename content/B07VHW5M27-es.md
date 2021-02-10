@@ -28,10 +28,10 @@ Ahora mismo tienes [Lacoste Reloj Analógico para Mujer de Cuarzo con Correa en 
 
 🔎:
 
-- Correa de piel azul con diseño petit piqué
-- 5 ATM de resistencia al agua
-- Grosor de la caja de 9,6 mm, Diámetro de la caja: 36 mm
 - Esfera azul
 - Tres manecillas
+- Grosor de la caja de 9,6 mm, Diámetro de la caja: 36 mm
+- Correa de piel azul con diseño petit piqué
+- 5 ATM de resistencia al agua
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VHW5M27/?tag=tolees-21)

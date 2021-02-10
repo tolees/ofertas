@@ -29,8 +29,8 @@ Ahora mismo tienes [Wizies - 24 figuritas  Famosa 700014322    color/modelo surt
 🔎:
 
 - Surtido de dos packs para coleccionar
-- También incluye un mini poster de toda la colección de Wizies
 - Ideal para niños de 4 años
+- También incluye un mini poster de toda la colección de Wizies
 - Sus medidas son 2,5 cm de alto, 2 cm de ancho y 1,5 cm de profundidad
 - Pack de 24 figuras Wizies. 4 de las 16 figuras están ocultas; de "sorpresa" y solo se descubrirá cuáles son al abrir el pack
 

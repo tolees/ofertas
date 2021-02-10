@@ -28,10 +28,10 @@ Tienes [BERING Reloj Analógico para Hombre de Cuarzo con Correa en Cuero 13841-
 
 ℹ️:
 
-- El cristal de zafiro es resistente a golpes y rayaduras
+- Correa: cuero de becerro / negro / 215 mm de largo / 24 mm de ancho
 - Caja: acero inoxidable de grado médico 316l / plata / 41 mm de diámetro / 9 mm de espesor
 - Classic Watch Collection , clásico, purista y, sin embargo, emocionante: inspirado en el diseño danés , Quartz
 - Resistente al agua hasta 5 ATM / 50 metros / 168 pies , resistencia general a salpicaduras, duchas, períodos cortos de natación, pero no al esnórquel o buceo
-- Correa: cuero de becerro / negro / 215 mm de largo / 24 mm de ancho
+- El cristal de zafiro es resistente a golpes y rayaduras
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00VVCLRTO/?tag=tolees-21)

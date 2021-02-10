@@ -28,8 +28,8 @@ Ahora mismo tienes [GANT The Broadcloth Reg BD Camiseta Deporte  Blanco  White  
 
 🔎:
 
-- Ver descripción del producto para obtener más información.
 - A estrenar y genuina. Somos un vendedor autorizado de GANT.
 - GANT Blanco La camisa regular de paño fino
+- Ver descripción del producto para obtener más información.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B077VMVJPP/?tag=tolees-21)

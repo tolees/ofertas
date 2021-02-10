@@ -28,8 +28,8 @@ Ahora mismo tienes [Zeller 13130 Reposapiés  Madera  Marrón  39x19x21 cm](http
 
 🔎:
 
-- Madera de conífera natural
 - Taburete, ideal como reposapiés
+- Madera de conífera natural
 - Bordes redondeados
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B002ZHEL2Y/?tag=tolees-21)

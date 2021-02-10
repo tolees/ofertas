@@ -28,9 +28,9 @@ Está [Tommy Hilfiger Reloj de Pulsera 1791579](https://www.amazon.es/dp/B07KTJG
 
 ℹ️:
 
-- Esfera gris
-- Grosor de la caja de 9,9 mm
 - 5 ATM de resistencia al agua
+- Grosor de la caja de 9,9 mm
+- Esfera gris
 - Correa de piel marrón
 - Movimiento multifunción
 

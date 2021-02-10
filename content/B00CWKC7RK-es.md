@@ -29,8 +29,8 @@ Ahora mismo tienes [Pattex PL600  adhesivo resistente al agua y a temperaturas e
 🔎:
 
 - versatile, excellent adhesion to most materials. Can be used in both porous and non porous surfaces, as well as those that are both.
-- For Both indoor and outdoor use (Waterproof). Has good flexibility and can be painted over (test first).
-- Does Not come off on vertical surfaces and has the power to fill without shrinking.
 - Grip (up to 350 kg/m2), solvent free, strong, and with direct application.
+- Does Not come off on vertical surfaces and has the power to fill without shrinking.
+- For Both indoor and outdoor use (Waterproof). Has good flexibility and can be painted over (test first).
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00CWKC7RK/?tag=tolees-21)

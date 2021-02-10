@@ -28,11 +28,11 @@ Tienes [Lékué LunchBox To Go - Recipiente hermético para transportar y conser
 
 🔎:
 
-- Espacio para colocar los cubiertos de lékué. + servilleta o lo que se desee
-- Válvula para el uso en el microondas. Para calentar, se debe abrir la tapita de silicona.
 - Incluye: dos recipientes con sus tapas, una tapa extra y una banda para unir los dos recipientes
-- Bpa free
+- Válvula para el uso en el microondas. Para calentar, se debe abrir la tapita de silicona.
 - Cubiertos no incluidos
 - Ideas para un menú semanal, incluido en el pack
+- Espacio para colocar los cubiertos de lékué. + servilleta o lo que se desee
+- Bpa free
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07KPLJQ4H/?tag=tolees-21)

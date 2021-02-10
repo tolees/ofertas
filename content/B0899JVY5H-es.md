@@ -28,10 +28,10 @@ Tienes [XILOSIN 100 PCS plástico Rojo Tapered Pinhead Glue Dispenser Aguja de C
 
 ℹ️:
 
-- Facilitar el flujo de punta cónica son puntas de plástico diseñados para medio de dispensación de materiales de alta viscosidad, tales como epoxi, silicona, RTV, sellador, grasa y adhesivos rápido y fácil.
-- Se utiliza para todo tipo de pegamento o líquido para dispensar.
-- Con bloqueo luer totalmente roscado para evitar el deslizamiento.
 - Material: Plástico
 - Tip interior Dia (aprox.):. 0.26mm / 0,01"
+- Con bloqueo luer totalmente roscado para evitar el deslizamiento.
+- Se utiliza para todo tipo de pegamento o líquido para dispensar.
+- Facilitar el flujo de punta cónica son puntas de plástico diseñados para medio de dispensación de materiales de alta viscosidad, tales como epoxi, silicona, RTV, sellador, grasa y adhesivos rápido y fácil.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0899JVY5H/?tag=tolees-21)

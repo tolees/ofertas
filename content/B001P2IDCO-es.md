@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'REVLON Super Lustrous Pintalabios  Certa al 71.37 % de descuento'
-date: 2021-02-09 19:36:25
+date: 2021-02-10 21:04:25
 image: 'https://m.media-amazon.com/images/I/31cORySWD2L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Ahora mismo tienes [REVLON Super Lustrous Pintalabios  Certainly Red ](https://w
 
 🔎:
 
-- Extra sedoso e hidratante
-- La barra de labios icono de Revlon. Tiene complejo de silicona de seda y su fórmula LiquidSilk sella el color y suaviza los labios aportando hidratación
 - Sin fragancia
-- Enriquecido con Aloe, Vitaminas A, C y E
+- La barra de labios icono de Revlon. Tiene complejo de silicona de seda y su fórmula LiquidSilk sella el color y suaviza los labios aportando hidratación
 - Acabado satinado
+- Enriquecido con Aloe, Vitaminas A, C y E
+- Extra sedoso e hidratante
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B001P2IDCO/?tag=tolees-21)

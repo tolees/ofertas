@@ -29,11 +29,11 @@ En este momento está [Meridiem Games - Asterix & Obelix Xxl - Romastered](https
 🔎:
 
 - new gameplay
-- new camera and some animations reworked from the ground up!
-- up to date graphics
-- The gauls are back!
-- two new game Modes
-- an option to switch between the original game and the remastered visuals
 - fans will be delighted to know that the original voices have been kept!
+- new camera and some animations reworked from the ground up!
+- two new game Modes
+- The gauls are back!
+- up to date graphics
+- an option to switch between the original game and the remastered visuals
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08FCYK3HX/?tag=tolees-21)

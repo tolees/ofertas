@@ -28,10 +28,10 @@ Ahora mismo tienes [AQUISANA - Colágeno Con Magnesio |Vitamina C|Ácido Hialur�
 
 🔎:
 
-- ❤ GARANTIA DE SATISFACCIÓN - Los productos Aquisana son de fabricación en España con estricto control de calidad y todos los permisos sanitarios de Ley. Garantía y máxima calidad para nuestros clientes
 - ARTICULACIONES MÁS SANAS: Nuestro colageno con magnesiocon formulación exclusiva de Peptan es un lubricante natural para huesos y articulaciones. Estos comprimidos de colágeno mejoran la función y la flexibilidad de las articulaciones, reduce la incomodidad, ayuda a mejorar y proteger la densidad ósea.
-- RESULTADOS INMEDIATOS –La combinación de colágeno con coenzima Q10 y Vitamina C, apoya al organismo en la formación de ATP; mejora la apariencia de la piel, fortalece el metabolismo, los huesos, el funcionamiento muscular. Ideal para lucir una Piel Sana y Radiante. Además de todos estos ingredientes contiene Cúrcuma, una de las especias con más propiedades beneficiosas para la Salud.
 - COLÁGENO +ÁCIDO HIALURÓNICO + Q10 + VITAMINA C - Colágeno Aquisana de origen marino con Q10, vitamina C y ácido hialurónico mejora la apariencia de la piel. El ácido hialurónico con vitamina C y magnesio ayuda a reducir los síntomas del envejecimiento de la piel. Contribuye a mejorar la elasticidad del cutis, la hidratación y la flexibilidad de la piel. Mantiene un cabello fuerte y sano.
+- RESULTADOS INMEDIATOS –La combinación de colágeno con coenzima Q10 y Vitamina C, apoya al organismo en la formación de ATP; mejora la apariencia de la piel, fortalece el metabolismo, los huesos, el funcionamiento muscular. Ideal para lucir una Piel Sana y Radiante. Además de todos estos ingredientes contiene Cúrcuma, una de las especias con más propiedades beneficiosas para la Salud.
 - APORTA FIRMEZA Y ELASTICIDAD DE LA PIEL – Este colágeno marino reafirmante promueve y apoya la producción natural de colágeno en la piel con efecto Antienvejecimiento. El suplemento alimenticio y vitamínico de colágeno marino ayuda a renovar la capacidad de la piel para retener la hidratación.
+- ❤ GARANTIA DE SATISFACCIÓN - Los productos Aquisana son de fabricación en España con estricto control de calidad y todos los permisos sanitarios de Ley. Garantía y máxima calidad para nuestros clientes
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0855KFTB2/?tag=tolees-21)

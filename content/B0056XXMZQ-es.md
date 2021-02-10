@@ -28,8 +28,8 @@ Está [IBILI 300624 - Sarten Tortilla Patatas Venus 24 Cms.](https://www.amazon.
 
 ℹ️:
 
-- Diameter: 24 cm
 - Material: stainless steel/plastic
+- Diameter: 24 cm
 - Dishwasher-safe
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0056XXMZQ/?tag=tolees-21)
