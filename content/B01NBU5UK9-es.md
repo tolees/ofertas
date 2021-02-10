@@ -30,8 +30,8 @@ Tienes [Casio Reloj Digital para Unisex de Cuarzo con Correa en Resina F-91WM-9A
 
 - Tiene indicación de hora de 12/24 horas y pantalla iluminada
 - Resistente al agua y soporta pequeñas salpicaduras de agua
-- Caja y correa de resina sintética, un material resistente y flexible
 - Incluye cronómetro, alarma diaria y calendario automático
+- Caja y correa de resina sintética, un material resistente y flexible
 - La duración de la batería es de 7 años
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01NBU5UK9/?tag=tolees-21)
