@@ -28,10 +28,10 @@ Está [A Little Help Nutrition - A Little Help para controlar el hambre. Complem
 
 ℹ️:
 
-- El picolinato de cromo es un mineral que te ayudará a controlar tu nivel de glucosa en sangre.
+- Recuerda que el esfuerzo y compromiso es la base, ¡y nuestros complementos alimenticios te echan una mano!
 - El glucomanano contribuye a mantener tus niveles de colesterol sin alteraciones; combinado con una dieta baja en calorías, también te ayudará a perder peso.
 - Maximiza los resultados de tu dieta y un estilo de vida saludable. Practica deporte y come de manera equilibrada y consciente y… voilà!
-- Recuerda que el esfuerzo y compromiso es la base, ¡y nuestros complementos alimenticios te echan una mano!
 - Contiene nuestros ingredientes estrella para controlar mano a mano tu colesterol y glucosa.
+- El picolinato de cromo es un mineral que te ayudará a controlar tu nivel de glucosa en sangre.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08SC6SBJM/?tag=tolees-21)
