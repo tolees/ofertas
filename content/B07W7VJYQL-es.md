@@ -28,7 +28,7 @@ Ahora mismo tienes [Dim Soutien-Gorge Avec Armatures Generous Essentiel Sujetado
 
 🔎:
 
-- Sujetador de encaje
 - Sujeción del pecho con feminidad.
+- Sujetador de encaje
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07W7VJYQL/?tag=tolees-21)

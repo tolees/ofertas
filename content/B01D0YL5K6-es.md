@@ -28,9 +28,9 @@ Está [Pica 4050 Minas grafito H  Negro  Set de 10 Piezas](https://www.amazon.es
 
 ℹ️:
 
-- Para carpinteros ensambladores
 - No lavable
 - Grafito, dureza especial H
+- Para carpinteros ensambladores
 - Para uso en superficies secas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01D0YL5K6/?tag=tolees-21)

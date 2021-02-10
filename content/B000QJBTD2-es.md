@@ -28,9 +28,9 @@ Ahora mismo tienes [Merrell Waterpro Maipo 2  Zapatillas Impermeables Hombre  Az
 
 🔎:
 
+- Material de la suela: Sintético
 - Material exterior: Cuero sintético
 - Cierre: Cordones rápidos
-- Material de la suela: Sintético
 - Revestimiento: Sintético
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B000QJBTD2/?tag=tolees-21)

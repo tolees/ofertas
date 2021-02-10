@@ -28,13 +28,13 @@ En este momento está [LEGO Star Wars - Casco de Soldado de Asalto  Set de Const
 
 🔎:
 
-- El juguete de construcción coleccionable LEGO Star Wars Casco de Soldado de Asalto mide aproximadamente 18 cm de altura, 13 cm de anchura y 14 cm de profundidad
+- El casco forma parte de una gama de kits de modelos coleccionables LEGO Star Wars para construir y exponer: echa un vistazo también al Casco de Boba Fett (75277)
 - Es óptimo como regalo de cumpleaños, o como sorpresa para fans a partir de 18 años, y ofrece un gratificante desafío a los constructores LEGO con experiencia
-- Los fans de Star Wars podrán mostrar su lealtad al imperio (y sus expertas habilidades de construcción con LEGO) cuando construyan y expongan esta réplica detallada del casco de un soldado de asalto
 - Esta maqueta en kit de un personaje de Star Wars, compuesta por 647 piezas
+- Los fans de Star Wars podrán mostrar su lealtad al imperio (y sus expertas habilidades de construcción con LEGO) cuando construyan y expongan esta réplica detallada del casco de un soldado de asalto
+- El juguete de construcción coleccionable LEGO Star Wars Casco de Soldado de Asalto mide aproximadamente 18 cm de altura, 13 cm de anchura y 14 cm de profundidad
 - Exponlo sobre su base con placa de datos para evocar la acción de la legendaria saga cinematográfica Star Wars
 - La emblemática forma y los detalles del casco de un soldado de asalto se han recreado con ladrillos LEGO y motivos gráficos en adhesivos
 - Atraerá todas las miradas cuando lo expongas en casa o en tu lugar de trabajo
-- El casco forma parte de una gama de kits de modelos coleccionables LEGO Star Wars para construir y exponer: echa un vistazo también al Casco de Boba Fett (75277)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07XFXWK48/?tag=tolees-21)
