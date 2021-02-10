@@ -29,9 +29,9 @@ En este momento está [Llave USB 32 GB Stormtrooper TLJ - Memoria Flash Drive 2.
 🔎:
 
 - Esta llave usb es una idea regalo perfecta; producto con licencia oficial, no confíes en las falsificaciones y compra sólo productos de calidad.
-- Llave de memoria sistema operativo soportado: linux, mac, windows; transferencia de datos rápida.
-- Perfecta para la colección: empieza tu colección Tribe ahora mismo!
-- Llave USB 2.0 inspirada en el Famoso personaje de Star Wars, en 3d y acabada a mano.
 - Forma rápida y cómoda de crear copias de seguridad, compartir, transportar y transferir tus archivos; déjate acompañar en el trabajo y el tiempo libre con esta memoria usb.
+- Perfecta para la colección: empieza tu colección Tribe ahora mismo!
+- Llave de memoria sistema operativo soportado: linux, mac, windows; transferencia de datos rápida.
+- Llave USB 2.0 inspirada en el Famoso personaje de Star Wars, en 3d y acabada a mano.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B078WTKXBZ/?tag=tolees-21)

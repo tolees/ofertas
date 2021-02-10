@@ -28,10 +28,10 @@ Está [Alexcase Funda Compatible con iPhone 12 Mini  5.4 Pulgadas Transparente](
 
 ℹ️:
 
+- El recorte de la carcasa del teléfono preciso, lo que permite un fácil acceso a todos los puertos del teléfono. Y el grosor de la carcasa del teléfono es moderado y se siente cómodo en la mano.
+- La carcasa transparente del teléfono muestra claramente el color original del teléfono y aún puede disfrutar de la belleza del teléfono.
 - Nuestros productos incluyen una funda para teléfono móvil y dos protectores de pantalla.
 - Los materiales anti-amarilleo importados y los materiales de revestimiento anti-huellas dactilares ayudan a resistir el amarilleo y previenen la difusión de agua y aceite.
-- El recorte de la carcasa del teléfono preciso, lo que permite un fácil acceso a todos los puertos del teléfono. Y el grosor de la carcasa del teléfono es moderado y se siente cómodo en la mano.
 - Funda compatible con iPhone 12 Mini, cuatro esquinas reforzadas y protector de pantalla brindan protección para el teléfono. Hay bordes elevados alrededor de la cámara y la pantalla para evitar rayar la pantalla y la cámara.
-- La carcasa transparente del teléfono muestra claramente el color original del teléfono y aún puede disfrutar de la belleza del teléfono.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08JGVN2Y6/?tag=tolees-21)

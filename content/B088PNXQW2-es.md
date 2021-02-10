@@ -29,10 +29,10 @@ Ahora mismo tienes [ASUS ROG Zephyrus M15 GU502LW-AZ056T - Ordenador portátil G
 🔎:
 
 - Memoria RAM de 32GB (16GB + 16GB [en placa]) DDR4 2933 MHz
-- Tarjeta gráfica NVIDIA GeForce RTX 2070-8GB con Diseño Max-Q
 - Procesador Intel Core i7-10750H (6 Núcleos, 12 Subprocesos, Caché: 12 MB SmartCache, 2.60 GHz hasta 5.00 GHz, 64-bit)
-- Sistema operativo Windows 10 Home
-- Pantalla de 15.6" FullHD (1920x1080)
+- Tarjeta gráfica NVIDIA GeForce RTX 2070-8GB con Diseño Max-Q
 - Almacenamiento de 1TB SSD M.2 PCIe 3.0 NVMe
+- Pantalla de 15.6" FullHD (1920x1080)
+- Sistema operativo Windows 10 Home
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B088PNXQW2/?tag=tolees-21)
