@@ -28,8 +28,8 @@ Está [Nike Court Borough Low 2  Zapatillas  Negro  Black Black Black  33.5 EU](
 
 ℹ️:
 
-- Cordones de Zapatos
 - Suave de Llevar
+- Cordones de Zapatos
 - Importado
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07Y1VFWLZ/?tag=tolees-21)

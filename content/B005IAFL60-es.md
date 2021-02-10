@@ -28,7 +28,7 @@ Tienes [Ray-Ban Justin RB4165 - Gafas de sol Unisex  Gris  Transparent Grey Rubb
 
 ℹ️:
 
-- Gris (Transparent Grey Rubber 852/88)
 - Justin RB4165
+- Gris (Transparent Grey Rubber 852/88)
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B005IAFL60/?tag=tolees-21)

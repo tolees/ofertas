@@ -28,8 +28,8 @@ En este momento está [Chocolates Simón Coll Chocolate 99% Cacao - 16 Unidades]
 
 🔎:
 
-- Ingredientes: Pasta de cacau, Manteca de cacau, Azúcar. Cacau: 99% mínimo.
 - País de origen: España
 - Sin Gluten
+- Ingredientes: Pasta de cacau, Manteca de cacau, Azúcar. Cacau: 99% mínimo.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B079YYH3GV/?tag=tolees-21)

@@ -28,8 +28,8 @@ En este momento está [Polisport Boodie Portabebes  Infantil  Negro/Rojo  Talla 
 
 🔎:
 
-- Diseño seguro
-- Diseño comodo
 - Muy confortable
+- Diseño comodo
+- Diseño seguro
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0011FQ8XG/?tag=tolees-21)

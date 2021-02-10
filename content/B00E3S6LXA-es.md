@@ -28,10 +28,10 @@ Está [Burton Profile Underglove Guantes de Snowboard  Hombre  Negro  True   S](
 
 ℹ️:
 
-- DRYRIDE 2-Layer Fabric
-- Brushed Microfiber Fixed Lining
 - Removable Wrist Leash
-- Thermacore Insulation
 - Screen Grab Tough grip Palm for Total Touchscreen Control
+- Brushed Microfiber Fixed Lining
+- DRYRIDE 2-Layer Fabric
+- Thermacore Insulation
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00E3S6LXA/?tag=tolees-21)

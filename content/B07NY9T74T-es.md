@@ -28,15 +28,15 @@ Tienes [Control Lub Gel Warm Touch - Gel lubricante con efecto calor - 75 milili
 
 🔎:
 
-- Fabricado en Italia
+- Gel lubricante íntimo de base acuosa para la sequedad vaginal y genital.
+- Formato 75 ml
 - El contacto oral no supone un riesgo
 - Sin azúcar, sin gluten
-- No es graso, no mancha y es fácil de eliminar con agua
-- Compatible con el uso del preservativo
-- Gel lubricante íntimo de base acuosa para la sequedad vaginal y genital.
-- Efecto calor
-- Hidratante e hipoalergénico
 - Desarrollado para facilitar la penetración, permitiendo un mayor placer e intensidad durante tus relaciones sexuales.
-- Formato 75 ml
+- Hidratante e hipoalergénico
+- Efecto calor
+- No es graso, no mancha y es fácil de eliminar con agua
+- Fabricado en Italia
+- Compatible con el uso del preservativo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07NY9T74T/?tag=tolees-21)
