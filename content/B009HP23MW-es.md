@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bizak- Mentiroso Juego de mesa  61924545 con un 31.79 % de descuento'
-date: 2021-02-01 20:09:06
+date: 2021-02-10 09:29:47
 image: 'https://m.media-amazon.com/images/I/51sEiEsjDnL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Bizak'
 buyurl: 'https://www.amazon.es/dp/B009HP23MW/?tag=tolees-21'
 descuento: '31.79'
-average: '21.5213861386139'
+average: '21.7688695652176'
 ---
 
 En este momento está [Bizak- Mentiroso Juego de mesa  61924545 ](https://www.amazon.es/dp/B009HP23MW/?tag=tolees-21) a 15.0 EUR (original: 21.99 EUR) (31.79 %  de descuento) en el siguiente enlace!

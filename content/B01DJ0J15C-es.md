@@ -28,10 +28,10 @@ Tienes [Balanza EMPO® Premium de baño – Balanza digital de alta precisión p
 
 ℹ️:
 
-- ALTA PRECISIÓN – Equipada con cuatro sensores alemanes de última tecnología y de alta precisión. Combina un algoritmo avanzado con un análisis de impedancia bioeléctrica (BIA en inglés). Calcula el peso de manera precisa y consistente. También funciona como una práctica balanza de equipaje y encomiendas
 - SATISFACCIÓN GARANTIZADA 100% – GARANTÍA incondicional EMPO de por vida. Tu satisfacción es nuestra prioridad. En el extraño caso de que EMPO no cumpla con tus necesidades, te enviaremos un nuevo equipo o te devolvemos la totalidad del dinero sin hacer preguntas. La tarjeta de garantía de por vida está INCLUIDA.
+- DISEÑO ELEGANTE – La plataforma de acero inoxidable de nuestra balanza Brinda una superficie resistente y fácil de limpiar, para un pesaje seguro. La plataforma de vidrio templado de 6 mm de forma moderna y elegante le da un estilo contemporáneo. Entra perfectamente el baño, el dormitorio o la sala de estar.
+- ALTA PRECISIÓN – Equipada con cuatro sensores alemanes de última tecnología y de alta precisión. Combina un algoritmo avanzado con un análisis de impedancia bioeléctrica (BIA en inglés). Calcula el peso de manera precisa y consistente. También funciona como una práctica balanza de equipaje y encomiendas
 - INTELIGENTE & CONVENIENTE – Sólo súbete a la balanza para obtener una lectura instantánea. La balanza se apaga automáticamente para ahorrar energía. El indicador de batería baja te recordará cargar las baterías a tiempo.
 - FÁCIL DE USAR – Pantalla digital de gran tamaño y alto contraste que se enciende en la oscuridad con números extra grandes. Puede leerse fácilmente a la distancia o con cualquier tipo de iluminación. Medidas consistentes y precisas de hasta 400 libras o 180 kg. Graduación cada 0,2 libras o 0,1 kg. Unidades de medida disponibles libras, kilogramos y stone. Funciona con 2 baterías AAA (Baterías incluidas).
-- DISEÑO ELEGANTE – La plataforma de acero inoxidable de nuestra balanza Brinda una superficie resistente y fácil de limpiar, para un pesaje seguro. La plataforma de vidrio templado de 6 mm de forma moderna y elegante le da un estilo contemporáneo. Entra perfectamente el baño, el dormitorio o la sala de estar.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01DJ0J15C/?tag=tolees-21)

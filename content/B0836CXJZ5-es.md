@@ -28,10 +28,10 @@ Tienes [Justdodo - 6.35 Rotación acústica del Cuerpo público 3.5 Madre Moldea
 
 ℹ️:
 
-- Enchufe macho TRS estéreo de 6.35 mm (1/4 ").
 - Nuevo y de alta calidad.
-- Construcción de plástico moldeado negro.
 - Contactos niquelados.
+- Construcción de plástico moldeado negro.
+- Enchufe macho TRS estéreo de 6.35 mm (1/4 ").
 - Jack hembra TRS estéreo de 3,5 mm (1/8 ").
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0836CXJZ5/?tag=tolees-21)

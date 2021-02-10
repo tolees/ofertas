@@ -28,10 +28,10 @@ Tienes [Logitech G402 - Ratón para gaming con 8 botones programables Hyperion F
 
 ℹ️:
 
-- Velocidad de respuesta de 1 ms, para movimientos precisos y agiles
-- Tiene 8 botones programables para configurar las acciones del juego
-- Materiales ultraligeros y pies de baja fricción
 - Motor Fusion que ofrece una mayor velocidad de seguimiento
 - Incluye 4 valores de dpi para precisión extrema o para maniobras vertiginosas
+- Velocidad de respuesta de 1 ms, para movimientos precisos y agiles
+- Materiales ultraligeros y pies de baja fricción
+- Tiene 8 botones programables para configurar las acciones del juego
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00LFBEOUA/?tag=tolees-21)

@@ -28,10 +28,10 @@ Ahora mismo tienes [Copa menstrual OrganiCup - Talla A/pequeña - Ganadora del l
 
 🔎:
 
-- ✔️ GARANTÍA DE SATISFACCIÓN 100 %: estamos tan convencidos de que te encantará nuestra copa menstrual orgánica que ofrecemos una garantía de rembolso del 100 % en todos los pedidos. Si no quedas satisfecha, simplemente ponte en contacto con nosotros y te devolveremos el dinero. Sin hacer preguntas.
-- ✔️ SIN FUGAS, SIN PREOCUPACIONES: OrganiCup retiene tanto líquido como 3 tampones y se puede llevar hasta 12 horas, o lo que es lo mismo, olvídate de la regla. Mientras que las compresas y los tampones absorben, ¡OrganiCup retiene! Esto acaba con la irritación y la sequedad al mismo tiempo que asegura que el equilibrio natural del pH se mantiene intacto.
-- ✔️ POPULAR: más de 700 000 mujeres ya han elegido mejorar sus periodos cambiándose a la premiada copa menstrual reutilizable OrganiCup.
-- ✔️ SIN SEQUEDAD, SIN INFECCIONES: OrganiCup esta hecha al 100 % de silicona blanda de calidad médica que no causa molestias. Es más, la copa menstrual OrganiCup está certificada como hipoalergénica y libre de toxinas por Allergy Certified, certicada como vegana por la Vegan Society y aprobada por la FDA.
 - ✔️ GANADORA DEL ALLERGY AWARD 2019: los productos aprobados por AllergyCertified no pueden contener ningún alérgeno conocido y todos sus ingredientes son sometidos a un minucioso examen por un toxicólogo antes de poder lucir su logo. En 2019 ganamos el premio AllergyAward en la categoría de “Mejor producto corporal respetuoso con la piel”.
+- ✔️ SIN SEQUEDAD, SIN INFECCIONES: OrganiCup esta hecha al 100 % de silicona blanda de calidad médica que no causa molestias. Es más, la copa menstrual OrganiCup está certificada como hipoalergénica y libre de toxinas por Allergy Certified, certicada como vegana por la Vegan Society y aprobada por la FDA.
+- ✔️ POPULAR: más de 700 000 mujeres ya han elegido mejorar sus periodos cambiándose a la premiada copa menstrual reutilizable OrganiCup.
+- ✔️ SIN FUGAS, SIN PREOCUPACIONES: OrganiCup retiene tanto líquido como 3 tampones y se puede llevar hasta 12 horas, o lo que es lo mismo, olvídate de la regla. Mientras que las compresas y los tampones absorben, ¡OrganiCup retiene! Esto acaba con la irritación y la sequedad al mismo tiempo que asegura que el equilibrio natural del pH se mantiene intacto.
+- ✔️ GARANTÍA DE SATISFACCIÓN 100 %: estamos tan convencidos de que te encantará nuestra copa menstrual orgánica que ofrecemos una garantía de rembolso del 100 % en todos los pedidos. Si no quedas satisfecha, simplemente ponte en contacto con nosotros y te devolveremos el dinero. Sin hacer preguntas.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01N7PEAS7/?tag=tolees-21)

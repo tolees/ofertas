@@ -28,10 +28,10 @@ Ahora mismo tienes [Destornillador Eléctrico Inalámbrico  TACKLIFE SDP51DC Ato
 
 🔎:
 
-- LED LIGHT & SAFETY LOCK: More convenient and safe with LED light in the dark, the safety lock is designed reasonable, when you push the button forward, the drill will rotate clockwise; the back button, the drill will rotate in opposite direction; the button is in middle, it will not work
-- 🎁Christmas presents🎁New Years congratulations🔥 EXTRA VESERTILE APPLICABILITY: The unique right angle adapter is ideal for screwing into blind/tight spaces; the rubber lid can be disassembled, you can install other accessories such as corkscrew and scissors
-- PACKAGE CONTENT: 1×Tacklife SDP51DC Screwdriver, 30x Changer Drill, 1×Crank, 1×Manual, 1×USB Line, 1×Right Angle Adapter, 1×Bit Sets
-- RICH ACCESSORIES: 30 drills are included many kinds of drill bits, meets various needs;the connecting rod can be exceeded operating space, you can use it in very small space easily
 - MULTIPLE AND POWERFUL USES: Can be combined with accessories. The rubber lid can be disengaged, can be switched with other accessory, such as wine bottle opener; there is 1pc 3.6V, 2000mAh Li-ion battery, directly charge, provide more durable power. Can be charged with USB (2A), 50 minutes with USB (2A)
+- 🎁Christmas presents🎁New Years congratulations🔥 EXTRA VESERTILE APPLICABILITY: The unique right angle adapter is ideal for screwing into blind/tight spaces; the rubber lid can be disassembled, you can install other accessories such as corkscrew and scissors
+- RICH ACCESSORIES: 30 drills are included many kinds of drill bits, meets various needs;the connecting rod can be exceeded operating space, you can use it in very small space easily
+- PACKAGE CONTENT: 1×Tacklife SDP51DC Screwdriver, 30x Changer Drill, 1×Crank, 1×Manual, 1×USB Line, 1×Right Angle Adapter, 1×Bit Sets
+- LED LIGHT & SAFETY LOCK: More convenient and safe with LED light in the dark, the safety lock is designed reasonable, when you push the button forward, the drill will rotate clockwise; the back button, the drill will rotate in opposite direction; the button is in middle, it will not work
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B075R7XDKW/?tag=tolees-21)

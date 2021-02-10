@@ -28,10 +28,10 @@ Ahora mismo tienes [L Oreal Paris Make-up Designer - L Oréal Paris Barra De Lab
 
 🔎:
 
-- Tonos versátiles que sientan bien a rubias, morenas, castañas
 - Su formula incluye rosa mosqueta, cera de abeja y aceites preciosos
-- Colores intensos y duraderos gracias a los pigmentos puros
-- Más de 20 tonos disponibles; Elige el tuyo
 - Pintalabios Color Riche con textura cremosa
+- Colores intensos y duraderos gracias a los pigmentos puros
+- Tonos versátiles que sientan bien a rubias, morenas, castañas
+- Más de 20 tonos disponibles; Elige el tuyo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01LW597GC/?tag=tolees-21)
