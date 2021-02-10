@@ -28,9 +28,9 @@ Tienes [Jack & Jones - Jack&Jones JJECORP Logo Sweat Hood Noos Sudadera con Capu
 
 🔎:
 
-- Material composition: 80 % cotton, 20 % polyester.
-- Hoodie for men.
 - Logo chest print on the front.
 - Kangaroo pocket.
+- Hoodie for men.
+- Material composition: 80 % cotton, 20 % polyester.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08KXWT4CJ/?tag=tolees-21)
