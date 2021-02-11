@@ -28,10 +28,10 @@ En este momento está [B Blesiya Filtro De Café Reutilizable De Café Recargabl
 
 🔎:
 
-- Material: pp de plástico de calidad alimentaria y acero inoxidable 304
 - Esta cápsula de café es adecuada para todos los Nescafe
 - Máquinas de cápsulas Gusto Nestle, que incluyen: Mini Me, Piccolo, Genio, Esperta, Circolo.
-- El filtro está hecho de 304 tipos de acero inoxidable apto para alimentos, filtro de precisión y sin residuos de sedimentos.
 - Cápsulas de café rellenables (gratis: 1 cuchara de plástico + 1 pincel)
+- El filtro está hecho de 304 tipos de acero inoxidable apto para alimentos, filtro de precisión y sin residuos de sedimentos.
+- Material: pp de plástico de calidad alimentaria y acero inoxidable 304
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B083FWQSGL/?tag=tolees-21)

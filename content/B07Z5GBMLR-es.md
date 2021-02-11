@@ -28,7 +28,7 @@ Tienes [Salomon XA COLLIDER  Zapatillas de Trail Running Hombre  Color: Gris  Eb
 
 ℹ️:
 
-- Xa collider Ebony/Black/Stormy Weather
 - Número: 40
+- Xa collider Ebony/Black/Stormy Weather
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07Z5GBMLR/?tag=tolees-21)

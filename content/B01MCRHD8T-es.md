@@ -28,10 +28,10 @@ En este momento está [Air Wick Ambientador Freshmatic Max Recambio Nenuco - 250
 
 🔎:
 
-- Formato: 250 ml
 - Recambio para ambientador automático
+- Formato: 250 ml
 - De larga duración, hasta 2 meses de fragancia Cada recambio contiene 2400 sprayadas
-- Fragancia fresca y ligera
 - Perfuma tu hogar y contrarrestar los olores
+- Fragancia fresca y ligera
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01MCRHD8T/?tag=tolees-21)
