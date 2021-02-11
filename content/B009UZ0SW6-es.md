@@ -29,8 +29,8 @@ Está [Abratools - Juego electrodo gys diámetro 1 6mm acero  blister 50u ](http
 ℹ️:
 
 - Soldadura de acero inoxidable 316L, 188 y 1883
-- Buena separación de la escoria
-- Derretimiento suave y regular
 - Cuerda de bello aspecto
+- Derretimiento suave y regular
+- Buena separación de la escoria
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B009UZ0SW6/?tag=tolees-21)
