@@ -28,9 +28,9 @@ Está [100 caramelos PEZ sabor fruta](https://www.amazon.es/dp/B0041VWJIA/?tag=t
 
 ℹ️:
 
-- Ideal para fiestas de cumpleaños de niños, eventos, tombolas, piñatas y carnavales
 - En los sabores naranja, fresa, limón y cereza
-- Vegano, sin glutén y sin lactosa.
 - 100 recargas de PEZ para compartir y hacer feliz a los niños.
+- Ideal para fiestas de cumpleaños de niños, eventos, tombolas, piñatas y carnavales
+- Vegano, sin glutén y sin lactosa.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0041VWJIA/?tag=tolees-21)

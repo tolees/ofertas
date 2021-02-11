@@ -29,9 +29,9 @@ Tienes [Scotch - 3M Spray Mount - Adhesivo Reposicionable  400 ml](https://www.a
 🔎:
 
 - Ideal para maquetas, composiciones tipográficas, material gráfico, diseño de montaje, tablones de anuncios, etc
-- Pega instantáneamente materiales ligeros, aunque permite levantarlos y reposicionarlos temporalmente
-- Transparente cuando se seca y no mancha ni arruga el papel
-- El patrón de pulverizado controlado reduce notablemente la niebla del adhesivo
 - Permanente cuando se seca
+- El patrón de pulverizado controlado reduce notablemente la niebla del adhesivo
+- Transparente cuando se seca y no mancha ni arruga el papel
+- Pega instantáneamente materiales ligeros, aunque permite levantarlos y reposicionarlos temporalmente
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B000SHR4ZE/?tag=tolees-21)

@@ -28,9 +28,9 @@ Ahora mismo tienes [Burton Kilo 2.0 Mochilas  Unisex Adulto  Gray Heather](https
 
 🔎:
 
+- side water bottle pocket with zipper expansion; side accessory pocket
 - front vertical zippered closure accessory pocket; internal zippered mesh pocket with key clip
 - volume: 27 liter
-- side water bottle pocket with zipper expansion; side accessory pocket
 - padded laptop compartment (45cm x 27cm x 2, 5cm); tablet sleeve (29cm x 27cm)
 - stowable webbing skate carry straps
 

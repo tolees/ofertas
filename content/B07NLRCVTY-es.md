@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Edge Entertainment - Petrichor - Español al 29.75 % de descuento'
-date: 2021-02-01 16:41:22
+date: 2021-02-11 08:50:46
 image: 'https://m.media-amazon.com/images/I/41bFr8CetsL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Edge Entertainment'
 buyurl: 'https://www.amazon.es/dp/B07NLRCVTY/?tag=tolees-21'
 descuento: '29.75'
-average: '34.9025'
+average: '34.946'
 ---
 
 Ahora mismo tienes [Edge Entertainment - Petrichor - Español  EEMBPE01 ](https://www.amazon.es/dp/B07NLRCVTY/?tag=tolees-21) a 35.12 EUR (original: 49.99 EUR) (29.75 %  de descuento) en el siguiente enlace!

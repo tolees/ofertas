@@ -28,7 +28,7 @@ En este momento está [Wonderbra Ultimate Silhouette Sans Armature Sujetador con
 
 🔎:
 
-- Sujetador push-up sin aros.
 - Tirantes ajustables con deslizadores.
+- Sujetador push-up sin aros.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07N8RQXZV/?tag=tolees-21)
