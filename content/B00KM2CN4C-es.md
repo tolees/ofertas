@@ -29,9 +29,9 @@ Tienes [Semillas Batlle - Semillas Hortícolas - Calabacín redondo de Niza - Ba
 🔎:
 
 - Siembra: de Febreroa Junio
+- Precoz, frutos redondos, color verde claro. Prefiere los terrenos sueltos, profundos y frescos
+- Forma de cultivo: sembrar 3-4 semillas por golpe. Cuando las plantas alcancen 15 cm, se deben aclarar, dejando las dos plantas más vigorosas en cada 150x100 cm
 - Cosecha: a partir de 90 Días
 - Necesita grandes cantidades de nutrientes aunque se debe cuidar no incorporar demasiado Nitrógeno antes de la Floración
-- Forma de cultivo: sembrar 3-4 semillas por golpe. Cuando las plantas alcancen 15 cm, se deben aclarar, dejando las dos plantas más vigorosas en cada 150x100 cm
-- Precoz, frutos redondos, color verde claro. Prefiere los terrenos sueltos, profundos y frescos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00KM2CN4C/?tag=tolees-21)

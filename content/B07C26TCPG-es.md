@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Jjeholmen Sweat Zip Hood No al 45.65 % de descuento'
-date: 2021-02-06 00:07:37
+date: 2021-02-11 19:51:00
 image: 'https://m.media-amazon.com/images/I/41foGluKNtL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Jack & Jones'
 buyurl: 'https://www.amazon.es/dp/B07C26TCPG/?tag=tolees-21'
 descuento: '45.65'
-average: '18.6378488372093'
+average: '18.761179775281'
 ---
 
 Está [Jack & Jones Jjeholmen Sweat Zip Hood Noos Sudadera  Gris  Light Grey Melange   Small para Hombre](https://www.amazon.es/dp/B07C26TCPG/?tag=tolees-21) con 45.65 de descuento por 16.3 EUR (original: 29.99 EUR) en el siguiente enlace!

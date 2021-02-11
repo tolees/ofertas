@@ -29,9 +29,9 @@ Ahora mismo tienes [Jack & Jones Jjeholmen Sweat Zip Hood Noos Sudadera  Gris  D
 🔎:
 
 - Color: Gris oscuro
-- Artículo: 12136884
-- Estación: Continua
 - Designer: JACK&JONES
 - Material: Algodón
+- Artículo: 12136884
+- Estación: Continua
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07B67GHDW/?tag=tolees-21)

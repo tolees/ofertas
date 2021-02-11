@@ -1,32 +1,39 @@
 ---
 layout: post
-title: 'Sony WHH900N - Auriculares de Diadema in al 50.33 % de rebaja'
-date: 2020-03-21 13:29:35
+title: 'Sony WHH900N - Auriculares de diadema in al 32.91 % de rebaja'
+date: 2021-02-11 20:17:46
 image: 'https://m.media-amazon.com/images/I/41Ppl8zT5xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074VF1BW9-es Sony WHH900N - Auriculares de Diadema inalámbricos H.Ear...'
+slug: 'B074VF1BW9-es Sony WHH900N - Auriculares de diadema inalámbricos H.ear...'
 sku: 'B074VF1BW9-es'
 tags: [  ]
-actualPrice: 149.0 EUR
+actualPrice: 201.27 EUR
 currency: EUR
-price: 149.0
+price: 201.27
 comparePrice: 300.0 EUR
-prodname: 'Sony WHH900N - Auriculares de Diadema inalámbricos  H.Ear  Hi-Res Audio  cancelación de Ruido  Sense Engine  Bluetooth  Compatible con aplicación Headphones Connect  Azul'
+prodname: 'Sony WHH900N - Auriculares de diadema inalámbricos  H.ear  Hi-Res Audio  cancelación de ruido  Sense Engine  Bluetooth  compatible con aplicación Headphones Connect  azul  con Alexa integrada'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B074VF1BW9/?tag=tolees-21'
-descuento: '50.33'
-average: '160.486'
+descuento: '32.91'
+average: '172.138571428571'
 ---
 
-Tienes [Sony WHH900N - Auriculares de Diadema inalámbricos  H.Ear  Hi-Res Audio  cancelación de Ruido  Sense Engine  Bluetooth  Compatible con aplicación Headphones Connect  Azul](https://www.amazon.es/dp/B074VF1BW9/?tag=tolees-21) con precio final de  149.0 EUR (original: 300.0 EUR) (50.33 %  de rebaja) aqui!
+Tienes [Sony WHH900N - Auriculares de diadema inalámbricos  H.ear  Hi-Res Audio  cancelación de ruido  Sense Engine  Bluetooth  compatible con aplicación Headphones Connect  azul  con Alexa integrada](https://www.amazon.es/dp/B074VF1BW9/?tag=tolees-21) con precio final de  201.27 EUR (original: 300.0 EUR) (32.91 %  de rebaja) aqui!
 
-[![Sony WHH900N - Auriculares de Diadema in](https://m.media-amazon.com/images/I/41Ppl8zT5xL._SL200_.jpg)](https://www.amazon.es/dp/B074VF1BW9/?tag=tolees-21)
+[![Sony WHH900N - Auriculares de diadema in](https://m.media-amazon.com/images/I/41Ppl8zT5xL._SL200_.jpg)](https://www.amazon.es/dp/B074VF1BW9/?tag=tolees-21)
 
 🔎:
 
+- Estilo confortable sobre el oído
+- Compatible con Hi-Res Audio
+- 28 horas de autonomía de batería
+- Los dispositivos con Alexa integrada te permiten conectarte a Alexa para escuchar música, manejar tu hogar digital, obtener información, noticias, el tiempo y más, solo con tu voz.
+- Longitud del cable: 1.2
+- Llamadas con manos libres
+- Colores únicos que se unen a tu estilo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B074VF1BW9/?tag=tolees-21)

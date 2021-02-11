@@ -28,8 +28,8 @@ En este momento está [Meridiem Games - Pang Adventures Buster Edition](https://
 
 🔎:
 
-- Manual retro
 - Carátula reversible
+- Manual retro
 - Set de pegatinas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08GMRYXMT/?tag=tolees-21)
