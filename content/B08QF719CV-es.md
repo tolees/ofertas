@@ -28,10 +28,10 @@ Tienes [BESTBEBE - Paquete de 3 almohadillas de tinta para bebé recién nacido 
 
 🔎:
 
-- Pintura segura para bebés para huellas y huellas dactilares. 100% seguro, sin ensuciar. No es necesario lavar después de la impresión, no tóxico.
-- Apreciar cada paso de tu bebé. Embotellar la mano y el pie del bebé y fotos adorables, regalo ideal para la primera Navidad del bebé, recuerdo familiar para recién nacidos, un regalo perfecto para baby shower para toda la vida. También se puede utilizar como un kit de huellas de mascotas.
-- La huella de manos o pies de bebé o huella de perro o gato se puede presentar como hermoso arte en papel plano, cartulina, certificado de nacimiento, libro de bebé o lienzo, etc. Simplemente crea con imaginación
 - Fácil de usar: Paso 1: saca la almohadilla de tinta Clean-Touch con cuidado, coloca el lado de tinta (el parado! lateral) hacia abajo en una tarjeta de impresión; Paso 2: presiona suavemente la mano o el pie del bebé, o la pata de la mascota en el lado sin tinta; Paso 3: retira lentamente la almohadilla de la tarjeta lentamente, déjala secar durante 30-60 minutos o más.
+- Apreciar cada paso de tu bebé. Embotellar la mano y el pie del bebé y fotos adorables, regalo ideal para la primera Navidad del bebé, recuerdo familiar para recién nacidos, un regalo perfecto para baby shower para toda la vida. También se puede utilizar como un kit de huellas de mascotas.
 - Presiona ligeramente y mantén presionado durante un corto tiempo, retira suavemente la almohadilla y luego tendrás impresiones claras a la izquierda. Para mascotas esponjosas, es mejor afeitarse un poco de pelo largo en las patas primero para un mejor aspecto. Ten en cuenta que las almohadillas Clean-Touch se pueden utilizar 2 veces con tinta completa, la tinta se vuelve menos oscura después de su uso.
+- Pintura segura para bebés para huellas y huellas dactilares. 100% seguro, sin ensuciar. No es necesario lavar después de la impresión, no tóxico.
+- La huella de manos o pies de bebé o huella de perro o gato se puede presentar como hermoso arte en papel plano, cartulina, certificado de nacimiento, libro de bebé o lienzo, etc. Simplemente crea con imaginación
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08QF719CV/?tag=tolees-21)

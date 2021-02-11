@@ -28,10 +28,10 @@ Ahora mismo tienes [Bosch Professional GSB 16 RE - Taladro percutor  750 W  0 �
 
 🔎:
 
-- Diseño robusto para una larga vida útil
-- 701 W para un avance de trabajo más rápido
 - Robusto portabrocas de sujeción rápida
 - Diseño compacto para un óptimo manejo
 - Escobillas giratorias para garantizar una potencia de giro homogénea tanto a derecha como a izquierda
+- Diseño robusto para una larga vida útil
+- 701 W para un avance de trabajo más rápido
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B001PMIOS2/?tag=tolees-21)
