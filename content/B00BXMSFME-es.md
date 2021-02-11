@@ -28,7 +28,7 @@ Tienes [LED Lenser 6106 - Led Lenser Linterna Frontal Seo 5 Rojo](https://www.am
 
 ℹ️:
 
-- Peso: 105 g
 - Deporte de Uso: Montaña
+- Peso: 105 g
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00BXMSFME/?tag=tolees-21)
