@@ -28,9 +28,9 @@ En este momento está [Aigostar Power Cook - Robot de cocina multifunción  1200
 
 🔎:
 
+- 【Versátil】 Con el robot de cocina multifunción Aigostar Power cook, podrás realizar cualquier receta de forma mucho más sencilla sin necesidad de usar varios electrodomésticos, ahorrando tiempo y dinero.
 - 【36 recetas electrónicas】 Incluye 36 recetas disponibles, que contienen sopa, zumos, postres, ensaladas, pasteles, pudín, salsa y otras comidas deliciosas, para preparaciones deliciosas de forma sencilla y saludables para cada día.
 - 【Accesorios incluidos】El robot incluye varios prácticos accesorios: una vaporera con su correspondiente tapa para poder cocinar al vapor, así como del accesorio mariposa ideal para postres y montar claras, una cuchilla especial para masas, un vaso medidor y una espátula.
-- 【Versátil】 Con el robot de cocina multifunción Aigostar Power cook, podrás realizar cualquier receta de forma mucho más sencilla sin necesidad de usar varios electrodomésticos, ahorrando tiempo y dinero.
 - 【Fácil de usar】 El robot dispone de 4 modos automáticos de funcionamiento: sopa, postres, cocción lenta y masa; y de 12 funciones pre-programadas. Realiza fácilmente múltiples acciones: cortar, picar, triturar, mezclar, cocinado al vapor, hervir, freír, cocinado lento, guisar, picar hielo, recalentar, batidos, zumos etc.
 - 【Ajuste manual】 Cocina cualquier receta que quieras, el robot dispone de velocidad (P, P1-P6), temperatura de cocinado (37 ℃, 80 ℃, 90 ℃, 100 ℃ y 120 ℃) y tiempo（entre 30 segundos y 99 minutos) ajustables manualmente por lo que podrá cocinar a su gusto cualquier cosa.
 

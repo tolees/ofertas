@@ -28,9 +28,9 @@ En este momento está [Buff 5 Panel Cap Gorra  Unisex-Child  Green  One Size](ht
 
 🔎:
 
-- Tipo de material: Poliéster
-- Diseño transpirable y de secado rápido
-- Tamaño y diseño especial para niños
 - Protección contra los rayos ultravioleta y tecnología antisudor
+- Tipo de material: Poliéster
+- Tamaño y diseño especial para niños
+- Diseño transpirable y de secado rápido
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B082LBTYH3/?tag=tolees-21)
