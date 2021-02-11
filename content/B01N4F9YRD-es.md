@@ -28,9 +28,9 @@ Tienes [Bosch Professional GSR 12V-15 FC - Atornillador a batería  12V  30 Nm  
 
 🔎:
 
+- Professional 12V System; rendimiento con diseño compacto; óptima libertad; todas las baterías son compatibles con herramientas Bosch Professional del mismo voltaje
 - Incluye: GSR 12V-15, 2 baterías x 2,0 Ah, cargador rápido, soporte hexagonal, adaptador portabrocas, de ángulo y excéntrico, bandejas de L-BOXX para herrmienta y accesorios, maletín L-BOXX 102
 - Compacto: óptimo para lugares de difícil acceso y trabajos en altura gracias a su diseño corto de 132 mm
-- Professional 12V System; rendimiento con diseño compacto; óptima libertad; todas las baterías son compatibles con herramientas Bosch Professional del mismo voltaje
 - Versátil gracias al sistema FlexiClick 5 en 1: permite añadir cuatro opciones de portaherramienta (soporte magnético hexagonal, adaptador portabrocas, adaptador angular, adaptador excéntrico)
 - Combinación óptima: par de apriete duro de 30 Nm y velocidad de 0-1300 rpm para un equilibrio óptimo entre máxima potencia y mínimo tamaño de la herramienta
 

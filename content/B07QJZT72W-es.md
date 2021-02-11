@@ -28,10 +28,10 @@ Ahora mismo tienes [Diesel Reloj Analogico para Hombre de Cuarzo con Correa en P
 
 🔎:
 
+- Ancho de la correa: 28mm; Circunferencia de la correa: 200+/- 5mm
 - Resistente al agua: 3 ATM
+- Grosor de la caja: 14mm; Tamaño de la caja: 57mm
 - Material de la correa: Nylon
 - Se presenta en caja de regalo Diesel
-- Grosor de la caja: 14mm; Tamaño de la caja: 57mm
-- Ancho de la correa: 28mm; Circunferencia de la correa: 200+/- 5mm
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07QJZT72W/?tag=tolees-21)

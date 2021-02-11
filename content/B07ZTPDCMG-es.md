@@ -28,9 +28,9 @@ Ahora mismo tienes [Karactermania Mickey Mouse Shy - Billetero  Multicolor](http
 
 🔎:
 
+- Compartimento interior cerrado con cremallera.
+- Dimensiones: 10 x 15,5 x 2,5 cm.
 - Departamento trasero para billetes.
 - Billetero con múltiples departamentos para tarjetas de crédito o documentos de identidad.
-- Dimensiones: 10 x 15,5 x 2,5 cm.
-- Compartimento interior cerrado con cremallera.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07ZTPDCMG/?tag=tolees-21)
