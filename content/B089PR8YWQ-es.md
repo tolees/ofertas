@@ -28,10 +28,10 @@ En este momento está [LIHAO Piedra Decorativa Jardín Blanca Grava Blanca para 
 
 🔎:
 
-- Piedras Naturales: las piedras son naturales, sin rellenos, tintes ni aceites adicionales. Alguna grava puede ser deformada, ovalada o redonda, gruesa o delgada.
+- Múltiples Usos: para decoración de jardín, para planta de interior, rellenar un jarrón con flores, adornar la superficie de cactus y suculentas. 
 - Tamaño Pequeño: alrededor de 460g y cada piedra mide 6-9 mm.
 - Accesorios: Viene con una cuchara y dos mallas para el agujero de la maceta.
-- Múltiples Usos: para decoración de jardín, para planta de interior, rellenar un jarrón con flores, adornar la superficie de cactus y suculentas. 
+- Piedras Naturales: las piedras son naturales, sin rellenos, tintes ni aceites adicionales. Alguna grava puede ser deformada, ovalada o redonda, gruesa o delgada.
 - Color Blanco: elegantes decoraciones en los jarrones de cristal, tambien perfectas para pintar. 
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B089PR8YWQ/?tag=tolees-21)

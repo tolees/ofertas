@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nike Revolution 5  Mujer  Multicolor  Wh al 37.84 % de descuento'
-date: 2021-02-05 19:36:42
+date: 2021-02-11 13:25:43
 image: 'https://m.media-amazon.com/images/I/310WacJW3uL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'NIKE'
 buyurl: 'https://www.amazon.es/dp/B07Q3XB6JS/?tag=tolees-21'
 descuento: '37.84'
-average: '37.09'
+average: '36.1233333333333'
 ---
 
 Está [Nike Revolution 5  Mujer  Multicolor  White/Wolf Grey/Pure Platinum 100   39 EU](https://www.amazon.es/dp/B07Q3XB6JS/?tag=tolees-21) con 37.84 de descuento por 34.19 EUR (original: 55.0 EUR) en el siguiente enlace!
