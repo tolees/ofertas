@@ -28,10 +28,10 @@ Está [Asalvo 12661 - Barrera de Cama 2 en 1  Blanco](https://www.amazon.es/dp/B
 
 ℹ️:
 
-- Medidas: 150x43.5cm
-- Fácil montaje
 - Sistema de seguridad con correas extensibles para impedir el desplazamiento de la barrera
+- Medidas: 150x43.5cm
 - No hace falta extraerla para hacer la cama
 - Apta para estándar y cama nido
+- Fácil montaje
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01MTRWLHK/?tag=tolees-21)

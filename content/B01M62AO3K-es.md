@@ -28,10 +28,10 @@ En este momento está [Viceroy Reloj Multiesfera para Hombre de Cuarzo con Corre
 
 🔎:
 
-- Género - Hombre
-- Reloj De vestir
 - Esfera de Mineral
-- Correa de Piel
+- Reloj De vestir
+- Género - Hombre
 - Marca - VICEROY
+- Correa de Piel
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01M62AO3K/?tag=tolees-21)

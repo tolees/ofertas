@@ -29,7 +29,7 @@ Está [Buff Pack Run Visor Visera  Womens  Pink  One Size](https://www.amazon.es
 ℹ️:
 
 - Poco peso, diseño de alto de rendimiento
-- Muy ligera y plegable: cabe en una mano y no pierde la forma
 - Protección contra el sol
+- Muy ligera y plegable: cabe en una mano y no pierde la forma
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B082LC1YL1/?tag=tolees-21)

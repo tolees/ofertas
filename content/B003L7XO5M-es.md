@@ -28,10 +28,10 @@ Tienes [Solgar Full Spectrum Omega de Salmón Salvaje de Alaska Cápsulas blanda
 
 ℹ️:
 
-- Favorece la salud cerebral y visual
 - Contiene una fuente natural de vitamina D3 y el carotenoide
-- Mantiene el funcionamiento del sistema inmunitario
-- No sustituyen una dieta variada, equilibrada y estilo de vida sano
 - Envase de 120 capsulas con aceite de salmón rojo y vitamina D3
+- Mantiene el funcionamiento del sistema inmunitario
+- Favorece la salud cerebral y visual
+- No sustituyen una dieta variada, equilibrada y estilo de vida sano
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B003L7XO5M/?tag=tolees-21)

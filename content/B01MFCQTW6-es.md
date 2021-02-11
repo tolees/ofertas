@@ -28,10 +28,10 @@ Está [Reloj Citizen - Hombre BZ1006-82E](https://www.amazon.es/dp/B01MFCQTW6/?t
 
 ℹ️:
 
-- Indicador de nivel de luz.
-- Con alarma.
-- Búsqueda de smartphone.
-- Notificación de llamadas entrantes.
 - Notificación de mensajes entrantes.
+- Con alarma.
+- Notificación de llamadas entrantes.
+- Indicador de nivel de luz.
+- Búsqueda de smartphone.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01MFCQTW6/?tag=tolees-21)

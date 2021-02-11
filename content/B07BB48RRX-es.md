@@ -28,10 +28,10 @@ En este momento está [Levi s Declan Millstone 2 Tone - Zapatillas para Hombre  
 
 🔎:
 
+- Cordones con 7 orificios.
+- Parche lateral con logotipo
+- Material exterior: piel sintética.
 - Suela interior extraíble.
 - Suela de goma de alta calidad.
-- Parche lateral con logotipo
-- Cordones con 7 orificios.
-- Material exterior: piel sintética.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07BB48RRX/?tag=tolees-21)
