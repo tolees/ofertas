@@ -30,8 +30,8 @@ Tienes [Orbegozo FH 5129 Calefactor Compacto  2 Niveles de Potencia  3 Modos de 
 
 - Posee un indicador luminoso de funcionamiento
 - Tiene un selector rotativo de 3 posiciones de funcionamiento
+- Calefactor compacto FH 5129 con 2000 W de potencia y calor instantáneo
 - Incorpora sistema de protección contra sobrecalentamiento y función ventilador de aire frío
 - Posee 2 niveles de potencia: 1000 W – 2000 W
-- Calefactor compacto FH 5129 con 2000 W de potencia y calor instantáneo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01MXLYZT4/?tag=tolees-21)
