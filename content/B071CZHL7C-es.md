@@ -28,8 +28,8 @@ Ahora mismo tienes [Diset-Algo Pasa con Mariano Juego de Mesa Extreme 3.0  Multi
 
 🔎:
 
-- Divertido juego para actuar en dúo
-- Extremadamente divertido
 - El jugador que mas acierte ganara
+- Extremadamente divertido
+- Divertido juego para actuar en dúo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B071CZHL7C/?tag=tolees-21)

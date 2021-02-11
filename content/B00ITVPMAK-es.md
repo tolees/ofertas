@@ -28,9 +28,9 @@ Tienes [Dinuy bison 2000 - Timbre bison 2000 bit 110-230v](https://www.amazon.es
 
 ℹ️:
 
-- Tapa marfil, base marrón
-- Electomecánico 2 notas
-- Tiene unas dimensiones de 135 x 79 x 50 mm
 - Tensión de 125/220 V
+- Tiene unas dimensiones de 135 x 79 x 50 mm
+- Electomecánico 2 notas
+- Tapa marfil, base marrón
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00ITVPMAK/?tag=tolees-21)

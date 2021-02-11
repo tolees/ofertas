@@ -28,8 +28,8 @@ Tienes [adidas Grand Court K  Zapatillas de Tenis  Multicolor Ftwwht Coppmt Glop
 
 🔎:
 
-- Estilo clásico.
-- Zapatillas deportivas
 - Empeine de piel sintética.
+- Zapatillas deportivas
+- Estilo clásico.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07RL2J84V/?tag=tolees-21)

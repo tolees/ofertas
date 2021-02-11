@@ -29,9 +29,9 @@ Ahora mismo tienes [SanDisk Ultra Dual m3.0 - Unidad Dual con conector micro-USB
 🔎:
 
 - Back up photos, videos and contacts
-- Retractable design with dual micro USB and USB 3.0 connectors
+- High-speed USB 3.0 performance with up to 150MB/s file transfer from drive to computer, SanDisk Memory Zone application (available on Google Play) lets you easily manage your photos and videos
 - Compatibility is Windows 7, Windows 8, Windows 10, Mac OS X v10.9 plus and higher Automatically-detected when connected to an On The Go (OTG) enabled smartphone or tablet. Requires Android smartphone or tablet with On The Go (OTG) compatibility
 - Free up space on your OTG Android phone
-- High-speed USB 3.0 performance with up to 150MB/s file transfer from drive to computer, SanDisk Memory Zone application (available on Google Play) lets you easily manage your photos and videos
+- Retractable design with dual micro USB and USB 3.0 connectors
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01M0QR22B/?tag=tolees-21)

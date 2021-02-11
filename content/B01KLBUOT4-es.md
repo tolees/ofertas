@@ -28,10 +28,10 @@ Tienes [Fjallraven Splitpack Bag  Unisex Adulto  Dark Olive  OneSize](https://ww
 
 🔎:
 
+- Comfortable, Padded shoulder straps with ventilating Mesh fabric
 - Robust zip-up Travel Duffel
 - Tipo de fábrica: 65% Polyester, 35% Cotton
-- Tipo de deporte: Bags
-- Comfortable, Padded shoulder straps with ventilating Mesh fabric
 - Two equally SIZED compartments with zippered Mesh dividing Covers
+- Tipo de deporte: Bags
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01KLBUOT4/?tag=tolees-21)

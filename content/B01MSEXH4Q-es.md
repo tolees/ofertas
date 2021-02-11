@@ -28,9 +28,9 @@ Tienes [Asmodee - ¡Alzad vuestras Copas!  Edge Entertainment EDGRYG01 ](https:/
 
 🔎:
 
-- Prepárate para un juego de astucia y engaños
 - En el gran reino de Otravia todos queremos al rey, pero todos queremos aún más ser el rey
-- Number of players: 2-12
 - Para cambiar la línea de sucesión en tu favor, todo lo que necesitas es una gota de veneno en la copa adecuada
+- Prepárate para un juego de astucia y engaños
+- Number of players: 2-12
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01MSEXH4Q/?tag=tolees-21)

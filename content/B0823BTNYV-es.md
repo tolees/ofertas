@@ -28,9 +28,9 @@ En este momento está [Xiaomi X-SJL4014GL Mi Smart Compact Proyector](https://ww
 
 🔎:
 
-- 1080p Full HD
-- 2 altavoces integrados.
 - Sistema Android TV 9.0.
 - Screen Size up to 120"
+- 1080p Full HD
+- 2 altavoces integrados.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0823BTNYV/?tag=tolees-21)

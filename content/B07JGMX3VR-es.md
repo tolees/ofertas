@@ -29,9 +29,9 @@ En este momento está [Sunny Fashion - Vestido para niña Algodón Manga Larga U
 🔎:
 
 - encima de la rodilla.
-- lavable a máquina, bajo retroceder seca
-- Talla: Busto: 66CM, Cintura: 66CM, Longitud: 60CM
-- 100% algodón
 - Vestidos para niña Talla 6 años. Por favor, ver la medida del tamaño abajo en la descripción del producto antes de comprar
+- 100% algodón
+- Talla: Busto: 66CM, Cintura: 66CM, Longitud: 60CM
+- lavable a máquina, bajo retroceder seca
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07JGMX3VR/?tag=tolees-21)

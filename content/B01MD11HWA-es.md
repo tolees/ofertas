@@ -28,8 +28,8 @@ Está [G-STAR RAW Classic Trunk Boxers  Blanco  white/white/white   L  Pack de 3
 
 ℹ️:
 
-- A estrenar y genuina. Somos un vendedor autorizado de G-Star.
 - G-Star Blanco 3 Pack Low Rise Trunks
+- A estrenar y genuina. Somos un vendedor autorizado de G-Star.
 - Ver descripción del producto para obtener más información.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01MD11HWA/?tag=tolees-21)

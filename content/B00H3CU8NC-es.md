@@ -29,9 +29,9 @@ En este momento está [TOOGOO（R） - SODIAL R  Mini Microfono Flexible 3.5mm p
 🔎:
 
 - Direccion: Todas direcciones; Jack: 3.5mm; Longitud: 17cm
-- El microfono portatil tiene un diseno de cable flexible para facilitar la altura y angulo
-- Sensibilidad: -54 ¡À 3dB, Rango de frecuencia: 100-5KHz
 - Mini microfono es solo enchufar y usar
+- Sensibilidad: -54 ¡À 3dB, Rango de frecuencia: 100-5KHz
 - Facil de instalar, sin necesidad de pagar el coste de reparacion y soldadura
+- El microfono portatil tiene un diseno de cable flexible para facilitar la altura y angulo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00H3CU8NC/?tag=tolees-21)

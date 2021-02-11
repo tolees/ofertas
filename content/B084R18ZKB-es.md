@@ -28,7 +28,7 @@ En este momento está [G-STAR RAW College Loose suéter  morralla C459-1603  XX-
 
 🔎:
 
-- Ofrece comodidad, un aspecto original y un ajuste cómodo.
 - Fabricado con tejidos cálidos con detalles resistentes
+- Ofrece comodidad, un aspecto original y un ajuste cómodo.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B084R18ZKB/?tag=tolees-21)

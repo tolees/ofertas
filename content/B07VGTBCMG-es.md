@@ -28,10 +28,10 @@ Ahora mismo tienes [Lee Extreme Motion Skinny Jeans  Night Wanderer  32W / 34L p
 
 🔎:
 
-- Botón y cremallera.
-- Tapered
-- 97% algodón, 3% elastano.
 - Lavado a máquina en frío (30 ° máx.).
+- Tapered
+- Botón y cremallera.
 - Cintura normal.
+- 97% algodón, 3% elastano.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VGTBCMG/?tag=tolees-21)

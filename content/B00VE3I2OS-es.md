@@ -28,8 +28,8 @@ Ahora mismo tienes [Emsa Travel Mug Taza térmica de Acero Inoxidable con Base A
 
 🔎:
 
-- Grande: basado en los tamaños grandes de las cadenas de cafeterías internacionales
 - Mantiene el calor 6 h y el frio 12 h. De alta calidad, tanque de acero inoxidable
 - Zona de agarre de silicona con letras grabadas. Base antideslizante
+- Grande: basado en los tamaños grandes de las cadenas de cafeterías internacionales
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00VE3I2OS/?tag=tolees-21)

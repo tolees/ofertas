@@ -29,7 +29,7 @@ Ahora mismo tienes [Clarks Scape Sky K  Zapatillas Niños  Negro  Black Leather 
 🔎:
 
 - Material interior: textil.
-- Suela: goma.
 - Parte superior de piel
+- Suela: goma.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07Q1K7CR2/?tag=tolees-21)
