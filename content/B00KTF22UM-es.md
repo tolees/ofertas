@@ -28,10 +28,10 @@ Ahora mismo tienes [Energy Sistem - Earphones Running Two](https://www.amazon.es
 
 🔎:
 
-- - Diseño atractivo, con detalles en colores neón para que vayas a la última.
+- - Auriculares intrauditivos, eliminan el ruido exterior.
 - - Su diseño con contorno de cuello asegura un ajuste cómodo durante el entrenamiento.
+- - Diseño atractivo, con detalles en colores neón para que vayas a la última.
 - - Ligeros, flexibles y muy resistentes. Te acompañarán en tus entrenamientos más exigentes.
 - - Ergonómicos, se adaptan anatómicamente para un máximo confort.
-- - Auriculares intrauditivos, eliminan el ruido exterior.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00KTF22UM/?tag=tolees-21)

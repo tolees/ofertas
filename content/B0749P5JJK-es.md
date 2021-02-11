@@ -29,7 +29,7 @@ Tienes [Jack & Jones Jacharry Belt Noos Cinturón  Marrón  Black Coffee Black C
 ℹ️:
 
 - Modelo: 12120697 JACHARRY BELT NOOS BLACK COFFE
-- Marca: Jack&Jones
 - Cinturón de color marrón. Cierre con hebilla metálica.
+- Marca: Jack&Jones
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0749P5JJK/?tag=tolees-21)

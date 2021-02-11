@@ -28,11 +28,11 @@ Está [Sebago Classic Dan  Náuticos para Hombre  Marrón Brown Burgundy 903  39
 
 ℹ️:
 
-- Tamaño: Regular
-- Material de la suela: piel.
 - Plantilla: piel.
+- Material de la suela: piel.
 - Tipo de tacón: plano.
-- Forro: sin forro.
 - Parte superior: otro cuero
+- Tamaño: Regular
+- Forro: sin forro.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07P6FXDZX/?tag=tolees-21)

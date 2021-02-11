@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 29.06 % en Rapesco 0688 Carpeta portafolios A4+ hor'
-date: 2021-02-10 22:34:45
+date: 2021-02-11 22:46:04
 image: 'https://m.media-amazon.com/images/I/41zRRUuBz8L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [Rapesco 0688 Carpeta portafolios A4+ horizontal  5 unidades  Colores Sur
 
 ℹ️:
 
-- Soporte para bolígrafo bajo solapa
+- Colores surtidos
 - Pack: 5 unidades con tamaño A4+
+- Soporte para bolígrafo bajo solapa
 - Solapa con broche de color para mantener el contenido seguro
 - Carpeta sobre broche de polipropileno de colores adecuados y translúcidas
-- Colores surtidos
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000NLZAYC/?tag=tolees-21)

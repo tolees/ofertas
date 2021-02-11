@@ -28,9 +28,9 @@ Tienes [B&R Transportines y 1 Mascota - Modelos surtidos  Giochi Preziosi PUY040
 
 🔎:
 
-- Los más pequeños podrán coleccionar las figuritas de sus personajes favoritos de la serie de Bingo y Rolly
-- No adecuado para niños menores de 5 años
-- Las figuras tienen luz e incluyen extremidades articuladas y cuentan con accesorios
 - Cada mascota viene con su portador
+- Las figuras tienen luz e incluyen extremidades articuladas y cuentan con accesorios
+- No adecuado para niños menores de 5 años
+- Los más pequeños podrán coleccionar las figuritas de sus personajes favoritos de la serie de Bingo y Rolly
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07MTKHJD4/?tag=tolees-21)
