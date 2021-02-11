@@ -28,11 +28,11 @@ En este momento está [Scuderia Ferrari Reloj Analógico para Niños de Cuarzo c
 
 🔎:
 
-- Correa de silicona roja
+- Diámetro de la caja: 38 mm
 - 3 ATM de resistencia al agua
+- Esfera negro
 - Tres manecillas
 - Movimiento de 3 manos
-- Diámetro de la caja: 38 mm
-- Esfera negro
+- Correa de silicona roja
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B078YHWZTK/?tag=tolees-21)
