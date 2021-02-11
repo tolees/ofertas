@@ -28,10 +28,10 @@ En este momento está [LolaPix Cojin Foto Personalizado. Regalos Personalizados 
 
 🔎:
 
-- Cojin Foto con Relleno Incluido. Cojín desenfundable con cremallera en el lateral.
-- Confeccionado a mano en España.
-- Cojin Personalizado apto para lavadora y plancha. Impreso hasta la costura por las dos caras. No deja margenes blancos sin impresión. Tejido de satén de 170gr muy suave. Máxima resistencia al frote y al lavado.
 - Cojin Foto impreso por sublimación. Impresión integrada que forma parte del tejido. A diferencia de otras técnicas, la imagen no se percibe al tacto y no pierde color con el paso del tiempo.
+- Cojin Personalizado apto para lavadora y plancha. Impreso hasta la costura por las dos caras. No deja margenes blancos sin impresión. Tejido de satén de 170gr muy suave. Máxima resistencia al frote y al lavado.
+- Cojin Foto con Relleno Incluido. Cojín desenfundable con cremallera en el lateral.
 - Tamaño del Cojin Foto: 40x40cm. Varios tamaños a elegir.
+- Confeccionado a mano en España.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B077SRCP8M/?tag=tolees-21)

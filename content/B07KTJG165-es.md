@@ -28,10 +28,10 @@ Tienes [Scuderia Ferrari Reloj de Pulsera 830591](https://www.amazon.es/dp/B07KT
 
 ℹ️:
 
-- Correa de silicona azul marino con detalles en rojo
-- Grosor de la caja de 11,17mm
-- Movimiento cronógrafo
-- 5 ATM de resistencia al agua
 - Esfera azul marino con detalles oro rosa
+- Movimiento cronógrafo
+- Grosor de la caja de 11,17mm
+- 5 ATM de resistencia al agua
+- Correa de silicona azul marino con detalles en rojo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07KTJG165/?tag=tolees-21)

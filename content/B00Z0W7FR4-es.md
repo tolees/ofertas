@@ -28,8 +28,8 @@ Tienes [Poessa  320083  Office Club Corrector cinta  1 pieza](https://www.amazon
 
 🔎:
 
-- Diseño moderno
 - La marca es Poessa
 - El tipo de aplicador es cinta
+- Diseño moderno
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00Z0W7FR4/?tag=tolees-21)

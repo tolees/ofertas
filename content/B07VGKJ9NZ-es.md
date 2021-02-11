@@ -28,8 +28,8 @@ Tienes [BOSS Clorio sz30 Cinturón  Beige  Light Beige 270   110  Talla del fabr
 
 🔎:
 
+- Fabricado en tejido técnico
 - Cierre con hebilla de metal pulido
 - Tiene el logotipo grabado en el cierre
-- Fabricado en tejido técnico
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07VGKJ9NZ/?tag=tolees-21)

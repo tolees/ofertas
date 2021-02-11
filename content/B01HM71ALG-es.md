@@ -28,13 +28,13 @@ Está [Scuderia Ferrari - Ferrari 0830344 Gran Premio - Reloj analógico de puls
 
 ℹ️:
 
-- Caja de acero negro con revestimiento iónico
-- Sumergible en agua hasta 50 m/5 atm
-- Visualización cronógrafo
-- Forma del producto: redondo
 - Cristal mineral duradero contra arañazos
 - Correa de silicona negra
 - Movimiento de cuarzo cronógrafo
 - Cierre: hebilla
+- Caja de acero negro con revestimiento iónico
+- Forma del producto: redondo
+- Visualización cronógrafo
+- Sumergible en agua hasta 50 m/5 atm
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01HM71ALG/?tag=tolees-21)
