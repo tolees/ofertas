@@ -28,8 +28,8 @@ Ahora mismo tienes [Geox D Sukie B  Zapatillas para Mujer  Gris  Lt Grey C1010  
 
 🔎:
 
-- Upper: 92 Percent Leather-8 Percent Textile, Lining: 87 Percent Synthetic-13 Percent Textile
 - Soft suede leather upper
+- Upper: 92 Percent Leather-8 Percent Textile, Lining: 87 Percent Synthetic-13 Percent Textile
 - Outsole: 92 Percent Synthetic Material-8 Percent Rubber, Insole: 100 Percent Leather
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SWTRFG7/?tag=tolees-21)

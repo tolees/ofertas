@@ -28,10 +28,10 @@ Tienes [VALLESOL magnesio + vitaminas B1  B2  B6 caja 24 uds](https://www.amazon
 
 🔎:
 
-- Modo de empleo: Tomar 1 comprimido al día, disuelto en agua, preferentemente al levantarse o a primera hora de la tarde
 - Ingredientes principales: Magnesio y vitaminas del grupo B: B1, B2 y B6
+- Indicaciones: Funcionamiento del sistema nervioso y muscular
+- Modo de empleo: Tomar 1 comprimido al día, disuelto en agua, preferentemente al levantarse o a primera hora de la tarde
 - Formato: 24 comprimidos efervescentes sin azúcar de 2,8g en dos tubos de plástico
 - Magnesio+ Vitaminas B, Complemento alimenticio
-- Indicaciones: Funcionamiento del sistema nervioso y muscular
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00DN9NL9M/?tag=tolees-21)

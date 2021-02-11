@@ -28,15 +28,15 @@ Tienes [Control Sweet Pleasure 2 en 1 Kit de viaje con geles de masaje corporal 
 
 🔎:
 
-- El contacto oral no supone un riesgo
-- No es graso, no mancha y es fácil de eliminar con agua
-- Incluye una bolsa transparente con cierre zip ideal para los viajes y con un formato adecuado para los controles de los aeropuertos
-- Fabricado en Italia
-- Formato 3 x 50 ml
 - Compatible con el uso del preservativo
-- Aroma de caramelo (x1), fresa salvaje (x1) y leche de almendras (x1)
-- Kit de viaje con 3 mini-geles de masaje 2 en 1 de base acuosa para masajes y uso en zonas íntimas
-- Ideal para añadir un extra de sensualidad y estimulación en tus relaciones
+- Fabricado en Italia
+- El contacto oral no supone un riesgo
 - Hidratante e hipoalergénico. Sin azúcar, sin gluten
+- Kit de viaje con 3 mini-geles de masaje 2 en 1 de base acuosa para masajes y uso en zonas íntimas
+- No es graso, no mancha y es fácil de eliminar con agua
+- Aroma de caramelo (x1), fresa salvaje (x1) y leche de almendras (x1)
+- Formato 3 x 50 ml
+- Incluye una bolsa transparente con cierre zip ideal para los viajes y con un formato adecuado para los controles de los aeropuertos
+- Ideal para añadir un extra de sensualidad y estimulación en tus relaciones
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07W4HDCSM/?tag=tolees-21)
