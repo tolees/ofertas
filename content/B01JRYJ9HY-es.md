@@ -28,10 +28,10 @@ Tienes [Neewer Set para Estudio fotográfico y producción de vídeo  Sistema de
 
 🔎:
 
-- Tres pinzas y dos bolsillos: Las pinzas de estudio son ideales para fijar fondos de tela. Con la bolsa de transporte también se puede guardar todo en orden y transportar.
-- Dos softbox (60 x 60 cm): Con casquillo E27, puedes conectar directamente bombillas, lámparas fluorescentes o luces de flash para arrojar luz.
 - Dos paraguas reflectores, dos bombillas de luz diurna de 45 W que ofrecen una potente luz continua y una iluminación uniforme.
+- Dos softbox (60 x 60 cm): Con casquillo E27, puedes conectar directamente bombillas, lámparas fluorescentes o luces de flash para arrojar luz.
 - Tres fondos (180 x 280 cm): negro, blanco y verde.
 - 300 x 260 cm. Sistema de apoyo de fondo: Se monta y desmonta rápida y fácilmente.
+- Tres pinzas y dos bolsillos: Las pinzas de estudio son ideales para fijar fondos de tela. Con la bolsa de transporte también se puede guardar todo en orden y transportar.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01JRYJ9HY/?tag=tolees-21)

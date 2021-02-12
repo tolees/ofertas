@@ -28,10 +28,10 @@ En este momento está [TELMU Telescopio Astronómico - Telescopio Refractor F600
 
 🔎:
 
-- ★ [Soporte Inferior Estable]: el trípode de aluminio estable proporciona una experiencia de visualización más estable con alturas de 75 cm a 115 cm. Equipado con un bloqueo de movimiento horizontal, el cuerpo gira 360 °, por lo que no perderá cada buen momento.
-- ★ [Visor Rojo]: el visor rojo se agrega al cilindro del telescopio principal para guiar el objeto a observar hacia el centro del campo de visión del telescopio principal para buscar mejor el objeto a observar.
 - ★ [Telescopio Profesional]: hay dos oculares, el ocular de H12.5mm se amplía 48 veces y el ocular de H20mm se amplía 30 veces. Tiene buena transparencia y reduce el astigmatismo y la distorsión.
 - ★ [Fácil de Transportar] - Una combinación de telescopios profesionales que son fáciles de desmontar. El material del telescopio está hecho de plástico de alta calidad y es fácil de transportar.
+- ★ [Visor Rojo]: el visor rojo se agrega al cilindro del telescopio principal para guiar el objeto a observar hacia el centro del campo de visión del telescopio principal para buscar mejor el objeto a observar.
+- ★ [Soporte Inferior Estable]: el trípode de aluminio estable proporciona una experiencia de visualización más estable con alturas de 75 cm a 115 cm. Equipado con un bloqueo de movimiento horizontal, el cuerpo gira 360 °, por lo que no perderá cada buen momento.
 - ★ [Espejo Dimensional]: la imagen del telescopio refractor ordinario se invierte. Después del espejo diagonal de 45 grados, puede obtener el correcto. El dispositivo mueve la luz para que pueda mirar el ocular cómodamente.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08998GBKQ/?tag=tolees-21)
