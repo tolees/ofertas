@@ -28,7 +28,7 @@ Ahora mismo tienes [Calvin Klein Modern Cotton-Thong Tanga  Negro  BLACK/WHITE  
 
 🔎:
 
-- Tiro medio
 - Punto de algodón modal
+- Tiro medio
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00NIVIO2E/?tag=tolees-21)

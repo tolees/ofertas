@@ -28,10 +28,10 @@ Tienes [AGPTEK Adaptador de Corriente para Tensiómetro Omron 240V  60Hz con Cab
 
 ℹ️:
 
-- 【Amplia Compatible】: Casi comptible todos los modelo de tensiómetro, como M2 Basic,M2,M3,M3 Comfort,M6 Comfort, Serie Omron 5/7/10/10+, etc. Tapón diámetro interior 1,7 mm, diámetro exterior 4,0 mm
-- 【Material Premium】: El cable de cobre de alta calidad maximiza la seguridad y aumenta la durabilidad. Entrada: CA 100V-240V; 50 / 60HZ. Salida: DC 6V, 0.5A. 3W（6V/500MA）
-- 【5 Protecciones】 Certificado por FCC CE. Y ofrece 5 Protección: protección contra cortocircuitos, protección contra sobrecorriente, protección contra sobrecargas, protección contra sobrecargas y prueba de tensión de resistencia para proporcionar un entorno seguro para el uso.
 - 【Seguro y Confiable】La carcasa está hecha de material ignífugo y placa de circuito de disipador de calor doble interna, así que no preocuparse por el sobrecalentamiento.
 - 【Alargar Cable】: El cable de 2,3 m permite el uso del tensiómetro más sencillo. No se preocupe más por el adaptador para restringir su movimiento debido al cable corto.
+- 【Amplia Compatible】: Casi comptible todos los modelo de tensiómetro, como M2 Basic,M2,M3,M3 Comfort,M6 Comfort, Serie Omron 5/7/10/10+, etc. Tapón diámetro interior 1,7 mm, diámetro exterior 4,0 mm
+- 【5 Protecciones】 Certificado por FCC CE. Y ofrece 5 Protección: protección contra cortocircuitos, protección contra sobrecorriente, protección contra sobrecargas, protección contra sobrecargas y prueba de tensión de resistencia para proporcionar un entorno seguro para el uso.
+- 【Material Premium】: El cable de cobre de alta calidad maximiza la seguridad y aumenta la durabilidad. Entrada: CA 100V-240V; 50 / 60HZ. Salida: DC 6V, 0.5A. 3W（6V/500MA）
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07PJ49D5T/?tag=tolees-21)
