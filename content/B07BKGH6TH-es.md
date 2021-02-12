@@ -30,8 +30,8 @@ Está [Sega Mega Drive Classics](https://www.amazon.es/dp/B07BKGH6TH/?tag=tolees
 
 - Guarda la partida en cualquier momento
 - Incluye poster de doble cara: Street of Rage y Golden Axe
-- La mayor colección de clásicos retros en un solo pack
-- Rebobina cuando tengas algún contratiempo
 - Personaliza tus controles
+- Rebobina cuando tengas algún contratiempo
+- La mayor colección de clásicos retros en un solo pack
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07BKGH6TH/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Kids Lvg Pull On Legging Pantalon al 58.00 % de descuento'
-date: 2021-02-03 14:09:10
+date: 2021-02-12 14:15:05
 image: 'https://m.media-amazon.com/images/I/31nUCeJ781L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis kids'
 buyurl: 'https://www.amazon.es/dp/B07YBF6JW1/?tag=tolees-21'
 descuento: '58.00'
-average: '17.85'
+average: '17.64'
 ---
 
 Está [Levi s Kids Lvg Pull On Legging Pantalones Black para Niñas](https://www.amazon.es/dp/B07YBF6JW1/?tag=tolees-21) con 58.00 de descuento por 16.8 EUR (original: 40.0 EUR) en el siguiente enlace!

@@ -1,32 +1,36 @@
 ---
 layout: post
-title: 'adidas Vs Pace  Zapatillas para Hombre   al 35.38 % de descuento'
-date: 2020-09-14 08:17:53
-image: 'https://m.media-amazon.com/images/I/41cghj9IuwL._SL200_.jpg'
+title: 'adidas Vs Pace  Zapatillas Hombre  Azul  al 28.39 % de descuento'
+date: 2021-02-12 14:08:19
+image: 'https://m.media-amazon.com/images/I/41LZrxrBtBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MYUGOGM-es adidas Vs Pace Zapatillas para Hombre Azul Collegiate...'
+slug: 'B01MYUGOGM-es adidas Vs Pace Zapatillas Hombre Azul Collegiate Navy...'
 sku: 'B01MYUGOGM-es'
 tags: [  ]
-actualPrice: 36.99 EUR
+actualPrice: 40.99 EUR
 currency: EUR
-price: 36.99
+price: 40.99
 comparePrice: 57.24 EUR
-prodname: 'adidas Vs Pace  Zapatillas para Hombre  Azul  Collegiate Navy/Footwear White/Blue 0   42 EU'
+prodname: 'adidas Vs Pace  Zapatillas Hombre  Azul Collegiate Navy Footwear White Blue 0  42 EU'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B01MYUGOGM/?tag=tolees-21'
-descuento: '35.38'
-average: '39.511538461538464'
+descuento: '28.39'
+average: '39.7086666666667'
 ---
 
-Está [adidas Vs Pace  Zapatillas para Hombre  Azul  Collegiate Navy/Footwear White/Blue 0   42 EU](https://www.amazon.es/dp/B01MYUGOGM/?tag=tolees-21) con 35.38 de descuento por 36.99 EUR (original: 57.24 EUR) en el siguiente enlace!
+Está [adidas Vs Pace  Zapatillas Hombre  Azul Collegiate Navy Footwear White Blue 0  42 EU](https://www.amazon.es/dp/B01MYUGOGM/?tag=tolees-21) con 28.39 de descuento por 40.99 EUR (original: 57.24 EUR) en el siguiente enlace!
 
-[![adidas Vs Pace  Zapatillas para Hombre  ](https://m.media-amazon.com/images/I/41cghj9IuwL._SL200_.jpg)](https://www.amazon.es/dp/B01MYUGOGM/?tag=tolees-21)
+[![adidas Vs Pace  Zapatillas Hombre  Azul ](https://m.media-amazon.com/images/I/41LZrxrBtBL._SL200_.jpg)](https://www.amazon.es/dp/B01MYUGOGM/?tag=tolees-21)
 
 ℹ️:
 
+- Membrana GORE-TEX impermeable y transpirable.
+- Suela Traxion para una adherencia óptima en todas las direcciones.
+- Cómodo forro textil.
+- Mediasuela de EVA para una amortiguación más ligera y duradera.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01MYUGOGM/?tag=tolees-21)
