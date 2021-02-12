@@ -28,8 +28,8 @@ Tienes [Mejillones 13/18 calvo  esc.115gr. - [pack de 5]](https://www.amazon.es/
 
 ℹ️:
 
-- En escabeche
 - Gran calidad
 - Sabor Intenso
+- En escabeche
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01LXTJE5C/?tag=tolees-21)

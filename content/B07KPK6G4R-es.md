@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko - POP! Vinilo: Disney: Toy Story 4 al 39.74 % de rebaja'
-date: 2021-02-11 17:31:59
+date: 2021-02-12 17:39:04
 image: 'https://m.media-amazon.com/images/I/31tnBDtKIRL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Funko'
 buyurl: 'https://www.amazon.es/dp/B07KPK6G4R/?tag=tolees-21'
 descuento: '39.74'
-average: '12.9529629629631'
+average: '12.9177372262775'
 ---
 
 Tienes [Funko - POP! Vinilo: Disney: Toy Story 4: Alien](https://www.amazon.es/dp/B07KPK6G4R/?tag=tolees-21) con precio final de  10.54 EUR (original: 17.49 EUR) (39.74 %  de rebaja) aqui!
@@ -29,8 +29,8 @@ Tienes [Funko - POP! Vinilo: Disney: Toy Story 4: Alien](https://www.amazon.es/d
 🔎:
 
 - Funko pop vinyl
-- Disney toy story 4
 - Juguete del año 2018
+- Disney toy story 4
 - De la colección toy story 4, alien como figura de vinilo pop de funko
 - Descúbre otras figuras de la colección disney y colecciónalas todas
 

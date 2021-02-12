@@ -28,8 +28,8 @@ Ahora mismo tienes [Salomon RX Break 4.0  Calzado de recuperación Hombre  Gris 
 
 🔎:
 
-- Shoes rx break (l40955600)
 - Chanclas tiempo libre y sportwear hombre
 - Calzado salomon
+- Shoes rx break (l40955600)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07RKY6T7W/?tag=tolees-21)

@@ -28,10 +28,10 @@ Ahora mismo tienes [Armani Exchange Reloj Analogico para Mujer de Cuarzo con Cor
 
 🔎:
 
-- Resistente al agua hasta 50 m: apto para nadar en aguas poco profundas
-- Caja de 35 mm, ancho de la correa de 18 mm, cristal mineral, movimiento de cuarzo con pantalla analógica con 3 agujas
-- Presentación en una caja de regalo Armani Exchange
 - Caja redonda de acero inoxidable en tono plateado, con una esfera en tono plateado
+- Presentación en una caja de regalo Armani Exchange
+- Caja de 35 mm, ancho de la correa de 18 mm, cristal mineral, movimiento de cuarzo con pantalla analógica con 3 agujas
+- Resistente al agua hasta 50 m: apto para nadar en aguas poco profundas
 - Brazalete de acero inoxidable en tono plateado
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00LO7S1C2/?tag=tolees-21)

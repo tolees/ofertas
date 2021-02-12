@@ -28,9 +28,9 @@ Está [Energy Sistem Earphones Sport 3 Bluetooth  Auriculares inalambricos  Blue
 
 ℹ️:
 
-- - IPX4: Protección contra sudor y salpicaduras.
-- - SECURE-FIT: Sistema de sujección Secure-Fit para una máxima fijación durante las sesiones deportivas.
 - - APTX: Tecnología APTX para ofrecer un sonido puro, de alta calidad.
 - - BLUETOOTH: Auriculares Bluetooth para reproducción inalámbrica.
+- - SECURE-FIT: Sistema de sujección Secure-Fit para una máxima fijación durante las sesiones deportivas.
+- - IPX4: Protección contra sudor y salpicaduras.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0797VGDR1/?tag=tolees-21)

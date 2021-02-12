@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko- Pop Heroes: Birds of Prey-Harley  al 28.57 % de rebaja'
-date: 2021-01-23 17:48:35
+date: 2021-02-12 17:18:34
 image: 'https://m.media-amazon.com/images/I/41ub3vhTj8L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,9 +16,10 @@ comparePrice: 18.69 EUR
 prodname: 'Funko- Pop Heroes: Birds of Prey-Harley Quinn  Roller Derby  Collectible Figure  Multicolor  44376 '
 country: 'es'
 flag: '🇪🇸'
+brand: 'Funko'
 buyurl: 'https://www.amazon.es/dp/B07SM88R4K/?tag=tolees-21'
 descuento: '28.57'
-average: '15.9067213114754'
+average: '16.3068840579709'
 ---
 
 Tienes [Funko- Pop Heroes: Birds of Prey-Harley Quinn  Roller Derby  Collectible Figure  Multicolor  44376 ](https://www.amazon.es/dp/B07SM88R4K/?tag=tolees-21) con precio final de  13.35 EUR (original: 18.69 EUR) (28.57 %  de rebaja) aqui!
