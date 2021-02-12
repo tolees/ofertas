@@ -28,10 +28,10 @@ Ahora mismo tienes [New Balance 500  Zapatillas Unisex bebé  Azul  Navy/Blue BB
 
 🔎:
 
-- Material exterior: sintético.
-- Cierre: Gancho y bucle
 - Tipo de talón: Sin talón
 - Material de la suela: Caucho
 - Material de la composición: nulo
+- Material exterior: sintético.
+- Cierre: Gancho y bucle
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01MR7EXWX/?tag=tolees-21)

@@ -1,34 +1,37 @@
 ---
 layout: post
-title: 'Captain Tsubasa: Rise Of New Champions - con un 42.58 % de descuento'
-date: 2021-01-18 14:46:44
+title: 'BANDAI NAMCO Entertainment Iberica - Cap con un 46.49 % de descuento'
+date: 2021-02-12 08:49:27
 image: 'https://m.media-amazon.com/images/I/5132ovgMuOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0896NHKF8-es'
-actualPrice: 89.0 EUR
+slug: 'B0896NHKF8-es BANDAI NAMCO Entertainment Iberica - Captain Tsubasa: Rise...'
+sku: 'B0896NHKF8-es'
+tags: [  ]
+actualPrice: 82.94 EUR
 currency: EUR
-price: 89.0
+price: 82.94
 comparePrice: 154.99 EUR
-prodname: 'Captain Tsubasa: Rise Of New Champions - Collector Edition'
+prodname: 'BANDAI NAMCO Entertainment Iberica - Captain Tsubasa: Rise Of New Champions - Collector Edition'
 country: 'es'
 flag: '🇪🇸'
+brand: 'BANDAI NAMCO Entertainment Iberica'
 buyurl: 'https://www.amazon.es/dp/B0896NHKF8/?tag=tolees-21'
-descuento: '42.58'
-average: '114.01142857142858'
+descuento: '46.49'
+average: '111.698695652174'
 ---
 
-En este momento está [Captain Tsubasa: Rise Of New Champions - Collector Edition](https://www.amazon.es/dp/B0896NHKF8/?tag=tolees-21) a 89.0 EUR (original: 154.99 EUR) (42.58 %  de descuento) en el siguiente enlace!
+En este momento está [BANDAI NAMCO Entertainment Iberica - Captain Tsubasa: Rise Of New Champions - Collector Edition](https://www.amazon.es/dp/B0896NHKF8/?tag=tolees-21) a 82.94 EUR (original: 154.99 EUR) (46.49 %  de descuento) en el siguiente enlace!
 
-[![Captain Tsubasa: Rise Of New Champions -](https://m.media-amazon.com/images/I/5132ovgMuOL._SL200_.jpg)](https://www.amazon.es/dp/B0896NHKF8/?tag=tolees-21)
+[![BANDAI NAMCO Entertainment Iberica - Cap](https://m.media-amazon.com/images/I/5132ovgMuOL._SL200_.jpg)](https://www.amazon.es/dp/B0896NHKF8/?tag=tolees-21)
 
 🔎:
 
-- Character Pass
-- Caja metálica
-- Insignias bordadas
 - Pieza exclusiva Master Star (28cm)
+- Insignias bordadas
+- Caja metálica
+- Character Pass
 - Lámina; tarjeta coleccionable
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0896NHKF8/?tag=tolees-21)
