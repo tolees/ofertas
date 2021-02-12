@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Schwarzkopf Professional BC Collagen Vol al 49.58 % de descuento'
-date: 2021-02-12 12:59:54
+date: 2021-02-12 13:00:13
 image: 'https://m.media-amazon.com/images/I/31HPIv8UjCL._SL200_.jpg'
 comments: true
 category: ofertas

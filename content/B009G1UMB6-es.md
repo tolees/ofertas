@@ -28,8 +28,8 @@ Está [Amefa S24 Cubierto INOX+ABS Rojo ECLAT Cuberterías combinadas  Acero Ino
 
 ℹ️:
 
-- Fabricada en acero inoxidable
 - Cubertería de 6 servicios
+- Fabricada en acero inoxidable
 - 6 cucharas, 6 tenedores, 6 cuchillos y 6 cucharillas
 - Acabado plástico brillante sin remaches
 

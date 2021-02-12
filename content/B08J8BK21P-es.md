@@ -28,12 +28,12 @@ Está [Xiaomi Mi 10T Pro Pack de Lanzamiento  Pantalla 6.67" FHD+ DotDisplay  8G
 
 ℹ️:
 
-- Mi 10t pro incluye un sensor principal de 108 mp con ia & ois, puede tomar fotos de paisajes con su ultra gran angular, también incorpora modo retrato y el modo macro; mi 10t pro viene con una cámara selfie de 20 mp agujereada en su pantalla
 - Mi 10t pro incluye una gran batería de 5000 mah, para un uso más prolongado del teléfono sin tener que recargarlo
-- Mi 10t pro incluye el último procesador líder 5g qualcomm snapdragon 865 y una cpu octa-core; también cuenta con un sensor de huellas lateral incorporado en el botón de encendido/bloqueo, que te permite desbloquear el teléfono desde el lateral utilizando el agarre natural de tu mano
-- "mi 10t pro cuenta con una pantalla dotdisplay fhd+ de 6,67" con turecolor, y con una pantalla adaptivesync de 144 hz para un desplazamiento y una navegación más fluidos; incluye también nfc, permitiendo el pago contactless a través de google pay"
+- Mi 10t pro incluye un sensor principal de 108 mp con ia & ois, puede tomar fotos de paisajes con su ultra gran angular, también incorpora modo retrato y el modo macro; mi 10t pro viene con una cámara selfie de 20 mp agujereada en su pantalla
 - Mi 10t pro se carga a través de usb-c y soporta hasta 33 w de carga rápida; la caja también incluye un cargador rápido de 33 w
+- Mi 10t pro incluye el último procesador líder 5g qualcomm snapdragon 865 y una cpu octa-core; también cuenta con un sensor de huellas lateral incorporado en el botón de encendido/bloqueo, que te permite desbloquear el teléfono desde el lateral utilizando el agarre natural de tu mano
 - Sistema operativo: android; tipo de pantalla: lcd
 - El pack incluye: smartphone mi 10t pro 8gb+256gb y scooter mi essential
+- "mi 10t pro cuenta con una pantalla dotdisplay fhd+ de 6,67" con turecolor, y con una pantalla adaptivesync de 144 hz para un desplazamiento y una navegación más fluidos; incluye también nfc, permitiendo el pago contactless a través de google pay"
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08J8BK21P/?tag=tolees-21)
