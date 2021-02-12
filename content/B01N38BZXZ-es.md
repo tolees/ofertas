@@ -31,7 +31,7 @@ En este momento está [Trust Quasar - Auriculares con micrófono para PC  Color 
 - Control de volumen integrado en el cable. Cable de 1.8 metros
 - Ideales para sesiones de juegos en línea, escuchar música y utilizar aplicaciones con voz como Skype
 - Pueden utilizarse con todos los PC y ordenadores portátiles
-- Calidad de sonido excelente
 - Micrófono de alta sensibilidad y diseño flexible que ofrece una calidad de voz nítida
+- Calidad de sonido excelente
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01N38BZXZ/?tag=tolees-21)

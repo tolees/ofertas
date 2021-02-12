@@ -28,10 +28,10 @@ Tienes [Levi s Graphic tee Camiseta  Blue  Boxtab SS T2 Dress Blues 0001   S par
 
 🔎:
 
-- Stagione: Primavera/Estate
-- Articolo: T-shirt
-- Colore: Blu
-- Brand: LEVIS
 - Modello: 85785
+- Articolo: T-shirt
+- Brand: LEVIS
+- Colore: Blu
+- Stagione: Primavera/Estate
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07TW9RVBL/?tag=tolees-21)
