@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Power Bank Blanco con Linterna 3. al 42.46 % de descuento'
-date: 2021-02-06 15:12:30
+date: 2021-02-12 09:35:26
 image: 'https://m.media-amazon.com/images/I/31fnn9ZBRzL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B07KXLMNFL/?tag=tolees-21'
 descuento: '42.46'
-average: '10.125'
+average: '10.088'
 ---
 
 Ahora mismo tienes [Xiaomi Power Bank Blanco con Linterna 3.250mAh BATERÍA PORTÁTIL USB](https://www.amazon.es/dp/B07KXLMNFL/?tag=tolees-21) a 9.2 EUR (original: 15.99 EUR) (42.46 %  de descuento) en el siguiente enlace!
