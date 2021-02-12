@@ -28,9 +28,9 @@ Tienes [Superga 2730-cotropew  Zapatillas de Gimnasia  Blanco  White 901   35 EU
 
 🔎:
 
+- forro de algodón respirable
 - pestaña en el lado de Superga
 - suela de goma vulcanizada Chunky 3cm con envoltura cuerda
 - Superga en relieve ojales
-- forro de algodón respirable
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B077XYKKP4/?tag=tolees-21)

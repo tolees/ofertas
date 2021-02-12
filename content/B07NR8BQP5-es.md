@@ -28,10 +28,10 @@ Tienes [Moleskine  Cuaderno Harry Potter  Tema Espectro Patronum  Edición Limit
 
 ℹ️:
 
-- Complemento especial: póster temático de Harry Potter
-- Tamaño grande 13 x 21 cm, 240 páginas - Verde Oliva - Tema Espectro Patronum
-- Cuaderno de rayas - papel de color marfil sin ácido de 70 g/m2
-- Entra en el mágico mundo de Harry Potter y colecciona los 7 cuadernos de edición limitada y la Edición de Coleccionista (9.999 ejemplares disponibles)
 - Este cuaderno tiene una tapa dura con gráficos y detalles temáticos, esquinas redondeadas, cierre elástico y cinta marcapáginas
+- Cuaderno de rayas - papel de color marfil sin ácido de 70 g/m2
+- Tamaño grande 13 x 21 cm, 240 páginas - Verde Oliva - Tema Espectro Patronum
+- Entra en el mágico mundo de Harry Potter y colecciona los 7 cuadernos de edición limitada y la Edición de Coleccionista (9.999 ejemplares disponibles)
+- Complemento especial: póster temático de Harry Potter
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07NR8BQP5/?tag=tolees-21)

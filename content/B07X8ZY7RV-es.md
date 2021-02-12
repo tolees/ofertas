@@ -28,10 +28,10 @@ Ahora mismo tienes [B Blesiya Manguera De Flujo De Tanque De Acuario con Accesor
 
 🔎:
 
-- Ajuste fácilmente la ubicación de la tubería, puede agregar suficiente oxígeno al agua.
-- Se adapta a tuberías de 12/16 mm, adecuado para tuberías 603B / 602b / 250/300/600 / CF600 / 800.
-- Adecuado para acuarios paisaje tanque, pecera, etc.
 - Salida de agua del filtro con la velocidad de flujo de agua adecuada.
 - Material: plástico, longitud del tubo de salida: aprox.12cm / 4.72in; Longitud de la boquilla: aproximadamente 2 cm / 0,79 pulgadas
+- Ajuste fácilmente la ubicación de la tubería, puede agregar suficiente oxígeno al agua.
+- Adecuado para acuarios paisaje tanque, pecera, etc.
+- Se adapta a tuberías de 12/16 mm, adecuado para tuberías 603B / 602b / 250/300/600 / CF600 / 800.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07X8ZY7RV/?tag=tolees-21)

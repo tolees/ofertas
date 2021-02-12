@@ -1,32 +1,36 @@
 ---
 layout: post
-title: 'Michael Kors Reloj Cronógrafo para Hombr con un 57.03 % de descuento'
-date: 2020-10-08 17:11:21
-image: 'https://m.media-amazon.com/images/I/41hJUtAxMrL._SL200_.jpg'
+title: 'Michael Kors Reloj Cronógrafo para Hombr con un 49.11 % de descuento'
+date: 2021-02-12 15:58:54
+image: 'https://m.media-amazon.com/images/I/41EzvL6TD4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B004X8VOC8-es Michael Kors Reloj Cronógrafo para Hombre de Cuarzo con...'
 sku: 'B004X8VOC8-es'
 tags: [  ]
-actualPrice: 119.9 EUR
+actualPrice: 141.99 EUR
 currency: EUR
-price: 119.9
+price: 141.99
 comparePrice: 279.0 EUR
 prodname: 'Michael Kors Reloj Cronógrafo para Hombre de Cuarzo con Correa en Silicona MK8184'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Michael Kors'
 buyurl: 'https://www.amazon.es/dp/B004X8VOC8/?tag=tolees-21'
-descuento: '57.03'
-average: '131.22727272727275'
+descuento: '49.11'
+average: '132.883076923077'
 ---
 
-En este momento está [Michael Kors Reloj Cronógrafo para Hombre de Cuarzo con Correa en Silicona MK8184](https://www.amazon.es/dp/B004X8VOC8/?tag=tolees-21) a 119.9 EUR (original: 279.0 EUR) (57.03 %  de descuento) en el siguiente enlace!
+En este momento está [Michael Kors Reloj Cronógrafo para Hombre de Cuarzo con Correa en Silicona MK8184](https://www.amazon.es/dp/B004X8VOC8/?tag=tolees-21) a 141.99 EUR (original: 279.0 EUR) (49.11 %  de descuento) en el siguiente enlace!
 
-[![Michael Kors Reloj Cronógrafo para Hombr](https://m.media-amazon.com/images/I/41hJUtAxMrL._SL200_.jpg)](https://www.amazon.es/dp/B004X8VOC8/?tag=tolees-21)
+[![Michael Kors Reloj Cronógrafo para Hombr](https://m.media-amazon.com/images/I/41EzvL6TD4L._SL200_.jpg)](https://www.amazon.es/dp/B004X8VOC8/?tag=tolees-21)
 
 🔎:
 
+- Correa de silicona negra - Hebilla
+- Reloj de hombre MICHAEL KORS - Caja redonda de acero inoxidable (diám. 48 mm) con acabado mate en color oro rosa - 2 pulsadores en color oro rosa - 10 ATM de resistencia a la presión del agua
+- Esfera negra con índices en color oro rosa luminiscentes y número árabe en color oro rosa a las 12 - Cronógrafo con fecha y modo 24 horas - Agujas en color oro rosa luminiscentes - Cristal mineral
+- Presentado en estuche MICHAEL KORS
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B004X8VOC8/?tag=tolees-21)
