@@ -30,7 +30,7 @@ Tienes [Esponjas Jabonosas Renova - 10 Esponjas](https://www.amazon.es/dp/B07TXQ
 
 - Paquete de 10 unidades
 - Perfectas para el cuidado de la piel
-- Para una higiene perfecta
 - Esponjas jabonosas
+- Para una higiene perfecta
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07TXQR99Q/?tag=tolees-21)
