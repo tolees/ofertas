@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Western Digital - WD My Passport Go 500  al 33.75 % de descuento'
-date: 2021-02-02 02:45:18
+title: 'Western Digital - WD My Passport Go 500  al 29.07 % de descuento'
+date: 2021-02-12 22:51:13
 image: 'https://m.media-amazon.com/images/I/31ibt7PYItL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: ring
 slug: 'B07MVWJZVS-es Western Digital - WD My Passport Go 500 GB disco duro...'
 sku: 'B07MVWJZVS-es'
 tags: [  ]
-actualPrice: 74.46 EUR
+actualPrice: 79.72 EUR
 currency: EUR
-price: 74.46
+price: 79.72
 comparePrice: 112.39 EUR
 prodname: 'Western Digital - WD My Passport Go 500 GB  disco duro sólido externo - acabado cobalto'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Western Digital'
 buyurl: 'https://www.amazon.es/dp/B07MVWJZVS/?tag=tolees-21'
-descuento: '33.75'
-average: '78.8027659574467'
+descuento: '29.07'
+average: '78.8402040816326'
 ---
 
-Ahora mismo tienes [Western Digital - WD My Passport Go 500 GB  disco duro sólido externo - acabado cobalto](https://www.amazon.es/dp/B07MVWJZVS/?tag=tolees-21) a 74.46 EUR (original: 112.39 EUR) (33.75 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Western Digital - WD My Passport Go 500 GB  disco duro sólido externo - acabado cobalto](https://www.amazon.es/dp/B07MVWJZVS/?tag=tolees-21) a 79.72 EUR (original: 112.39 EUR) (29.07 %  de descuento) en el siguiente enlace!
 
 [![Western Digital - WD My Passport Go 500 ](https://m.media-amazon.com/images/I/31ibt7PYItL._SL200_.jpg)](https://www.amazon.es/dp/B07MVWJZVS/?tag=tolees-21)
 

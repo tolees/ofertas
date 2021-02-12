@@ -28,10 +28,10 @@ En este momento está [PUMA Smash V2 L V PS  Zapatillas Unisex niños  Blanco Wh
 
 🔎:
 
+- Tipo de tacón: Plano
+- Cierre: Velcro
+- Revestimiento: Sintético
 - Material exterior: Cuero
 - Material de la suela: Goma
-- Tipo de tacón: Plano
-- Revestimiento: Sintético
-- Cierre: Velcro
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B077M8WBWF/?tag=tolees-21)

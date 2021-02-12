@@ -28,11 +28,11 @@ Ahora mismo tienes [Nintendo - Dragon Quest XI: Ecos de un Pasado Perdido](https
 
 🔎:
 
-- ¡La serie clásica de juegos de rol sube de nivel!
 - Además de todo el contenido del juego original, Dragon Quest XI S: Ecos de un pasado perdido incluye una amplia variedad de nuevas funciones
 - Un juego clásico de rol puesto al día. Disfruta de las novedades en el característico sistema de combate por turnos de la serie
 - Emprende una gran aventura de clásico corte rolero, con personajes memorables y una historia apasionante
 - Compatible con el mando Pro
 - Encarnas al Luminario, un joven que desciende de un héroe legendario que derrotó a las fuerzas del mal en el remoto pasado. Alíate con un elenco de compañeros carismáticos y embárcate en un viaje que te llevará a todo tipo de lugares para salvar al mundo de una terrible amenaza.
+- ¡La serie clásica de juegos de rol sube de nivel!
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07NQQMLXQ/?tag=tolees-21)
