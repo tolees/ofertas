@@ -28,8 +28,8 @@ Tienes [Koei Tecmo Europe Limited - Fairy Tail](https://www.amazon.es/dp/B07XRYS
 
 🔎:
 
-- Sube de nivel tu rango en el gremio y aumenta el nivel del gremio Fairy Tail para realizar más misiones cada vez más complicadas y desafiantes para llegar a convertirte en el mejor gremio de Fiore
-- Crea un equipo con una selección de 10 personajes icónicos de la serie incluyendo a Natsu Dragneel, Lucy Heartfilia, Gray Fullbuster, Titania, Erza Scarlet y a Wendy Marvell
 - Experimenta como nunca antes la historia original además de misiones secundarias hechas especialmente para el juego
+- Crea un equipo con una selección de 10 personajes icónicos de la serie incluyendo a Natsu Dragneel, Lucy Heartfilia, Gray Fullbuster, Titania, Erza Scarlet y a Wendy Marvell
+- Sube de nivel tu rango en el gremio y aumenta el nivel del gremio Fairy Tail para realizar más misiones cada vez más complicadas y desafiantes para llegar a convertirte en el mejor gremio de Fiore
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07XRYS9ZR/?tag=tolees-21)

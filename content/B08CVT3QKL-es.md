@@ -28,11 +28,11 @@ En este momento está [Bosch Home and Garden - Bosch taladro/atornillador a bate
 
 🔎:
 
-- Potencia y velocidad óptimas: Atornillado potente y taladrado rápido gracias a la caja de cambios de velocidades con 20 niveles de par
-- Incluye Amazon Edición: EasyDrill 1200, 1 batería de 2,0 Ah, 1 cargador, Juego de 32 puntas de atornillar, Juego de 6 brocas para metal, Juego de 5 brocas para madera, En funda blanda
-- Power for All 12 V: La batería incluida es compatible con todos los productos de la gama verde Bosch Home & Garden con sistema de 12 V
-- Las herramientas Easy de Bosch - una ayuda para pequeños proyectos
 - Uso versátil en distintos materiales: El taladro o atornillador a batería se puede utilizar en proyectos que requieren atornillar o taladrar en madera, metal y plástico
+- Incluye Amazon Edición: EasyDrill 1200, 1 batería de 2,0 Ah, 1 cargador, Juego de 32 puntas de atornillar, Juego de 6 brocas para metal, Juego de 5 brocas para madera, En funda blanda
+- Las herramientas Easy de Bosch - una ayuda para pequeños proyectos
+- Power for All 12 V: La batería incluida es compatible con todos los productos de la gama verde Bosch Home & Garden con sistema de 12 V
+- Potencia y velocidad óptimas: Atornillado potente y taladrado rápido gracias a la caja de cambios de velocidades con 20 niveles de par
 - Trabajar en lugares oscuros o poco iluminados: buena visibilidad incluso en cantos oscuros y lugares con iluminación deficiente gracias a la luz LED integrada en el taladro
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CVT3QKL/?tag=tolees-21)

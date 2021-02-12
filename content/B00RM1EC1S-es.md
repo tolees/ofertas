@@ -28,9 +28,9 @@ Está [SanDisk Cruzer Blade - Memoria USB de 2.0 de 128 GB](https://www.amazon.e
 
 ℹ️:
 
-- Copia de seguridad de archivos simple, con el modo arrastrar y colocar
 - Temperatura de funcionamiento: 0° C a 45° C
 - SanDisk SecureAccess para proteger los archivos
+- Copia de seguridad de archivos simple, con el modo arrastrar y colocar
 - Dimensiones del producto: 7.4 x 17.6 x 41.5 mm
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00RM1EC1S/?tag=tolees-21)

@@ -29,9 +29,9 @@ En este momento está [Calvin Klein CK Essential Slim tee Camisa  Black  S para 
 🔎:
 
 - Mangas cortas
-- Ribete con raya en el interior del cuello
 - Cuello redondo
-- Ajuste slim
 - Algodón orgánico
+- Ajuste slim
+- Ribete con raya en el interior del cuello
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07ZGD173V/?tag=tolees-21)
