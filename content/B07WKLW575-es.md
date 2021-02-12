@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.26 % en Sony - Erase una vez…en Hollywood  BD  ['
-date: 2021-01-29 19:09:02
+date: 2021-02-12 05:37:05
 image: 'https://m.media-amazon.com/images/I/51B7g77whQL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,9 +16,10 @@ comparePrice: 20.07 EUR
 prodname: 'Sony - Erase una vez…en Hollywood  BD  [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B07WKLW575/?tag=tolees-21'
 descuento: '25.26'
-average: '14.1406666666668'
+average: '14.1772340425533'
 ---
 
 Tienes [Sony - Erase una vez…en Hollywood  BD  [Blu-ray]](https://www.amazon.es/dp/B07WKLW575/?tag=tolees-21) con un 25.26 % de descuento con precio de oferta de 15.0 EUR (original: 20.07 EUR) en el siguiente enlace!

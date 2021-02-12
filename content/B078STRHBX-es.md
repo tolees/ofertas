@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'SanDisk Extreme SSD portátil 1TB - hasta con un 45.09 % de descuento'
-date: 2021-02-10 23:14:32
+title: 'SanDisk Extreme SSD portátil 1TB - hasta con un 48.54 % de descuento'
+date: 2021-02-12 05:33:28
 image: 'https://m.media-amazon.com/images/I/51ZM-ej7bIL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -9,29 +9,29 @@ author: ring
 slug: 'B078STRHBX-es SanDisk Extreme SSD portátil 1TB - hasta 550MB/s Velocidad...'
 sku: 'B078STRHBX-es'
 tags: [  ]
-actualPrice: 161.99 EUR
+actualPrice: 151.8 EUR
 currency: EUR
-price: 161.99
+price: 151.8
 comparePrice: 294.99 EUR
 prodname: 'SanDisk Extreme SSD portátil 1TB - hasta 550MB/s Velocidad de Lectura'
 country: 'es'
 flag: '🇪🇸'
 brand: 'SanDisk'
 buyurl: 'https://www.amazon.es/dp/B078STRHBX/?tag=tolees-21'
-descuento: '45.09'
-average: '156.311750000002'
+descuento: '48.54'
+average: '156.256049382719'
 ---
 
-En este momento está [SanDisk Extreme SSD portátil 1TB - hasta 550MB/s Velocidad de Lectura](https://www.amazon.es/dp/B078STRHBX/?tag=tolees-21) a 161.99 EUR (original: 294.99 EUR) (45.09 %  de descuento) en el siguiente enlace!
+En este momento está [SanDisk Extreme SSD portátil 1TB - hasta 550MB/s Velocidad de Lectura](https://www.amazon.es/dp/B078STRHBX/?tag=tolees-21) a 151.8 EUR (original: 294.99 EUR) (48.54 %  de descuento) en el siguiente enlace!
 
 [![SanDisk Extreme SSD portátil 1TB - hasta](https://m.media-amazon.com/images/I/51ZM-ej7bIL._SL200_.jpg)](https://www.amazon.es/dp/B078STRHBX/?tag=tolees-21)
 
 🔎:
 
-- Núcleo de estado sólido resistente a golpes para una optima durabilidad
-- Compacta y de bolsillo
 - Robusta, resistente al agua y al polvo, certificación IP-55
 - Para usuarios de PC y Mac
 - Las transferencias de gran velocidad de hasta 550MB/s te permiten mover rápidamente vídeos y fotografías de gran resolución
+- Compacta y de bolsillo
+- Núcleo de estado sólido resistente a golpes para una optima durabilidad
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B078STRHBX/?tag=tolees-21)
