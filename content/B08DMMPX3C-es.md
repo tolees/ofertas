@@ -28,12 +28,12 @@ En este momento está [Hurley M Blocked Pullover Fleece  Gym Red  XL  CW6333 ](h
 
 🔎:
 
-- Serigrafiado oo
-- Tipo de fábrica: 60% Algodón, 40% Poliéster
-- Corte regular
-- Casual
 - Lavar a máquina
-- Closure: pull on
+- Serigrafiado oo
 - 60 % algodón/40 % poliéster/260 GSM
+- Corte regular
+- Tipo de fábrica: 60% Algodón, 40% Poliéster
+- Closure: pull on
+- Casual
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08DMMPX3C/?tag=tolees-21)
