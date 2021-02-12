@@ -28,7 +28,7 @@ Tienes [Electronic Arts - Star Wars Jedi: Fallen Order - Standard  | PC Download
 
 🔎:
 
-- La aventura te espera; toma tu sable de luz y conviértete en un Jedi.
 - Cinemática, combate inmersivo – Jedi: la orden caída ofrece la fantasía de convertirse en un Jedi a través de su innovador sistema de combate sable de luz-golpeando, parando, esquivando-asociado con un conjunto de poderosas habilidades de la fuerza que tendrá que aprovechar para superar obstáculos que se interen en su camino.
+- La aventura te espera; toma tu sable de luz y conviértete en un Jedi.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07RNZ8PC9/?tag=tolees-21)

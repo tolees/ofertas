@@ -28,10 +28,10 @@ Tienes [Bosch Home and Garden - Bosch GlassVAC - Limpiador de cristales a bater�
 
 🔎:
 
-- Incluye: GlassVAC, cargador USB, botella pulverizadora con bayeta de microfibra, cabezal de 266 mm y labio extraíble, cabezal de 133 mm y labio extraíble, caja de cartón
-- El limpiacristales a batería GlassVAC es adecuado para una limpieza óptima de ventanas, duchas, azulejos y espejos sin dejar marcas
 - Práctico indicador LED de la batería y larga autonomía para un uso sin interrupciones
-- Cambio sencillo y rápido de los cabezales para realizar diferentes tareas
 - Peso reducido y diseño manejable que permite llegar a todos los rincones, incluso sin tropezar con el alféizar
+- El limpiacristales a batería GlassVAC es adecuado para una limpieza óptima de ventanas, duchas, azulejos y espejos sin dejar marcas
+- Cambio sencillo y rápido de los cabezales para realizar diferentes tareas
+- Incluye: GlassVAC, cargador USB, botella pulverizadora con bayeta de microfibra, cabezal de 266 mm y labio extraíble, cabezal de 133 mm y labio extraíble, caja de cartón
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B079GW7H9V/?tag=tolees-21)

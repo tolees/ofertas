@@ -28,11 +28,11 @@ Ahora mismo tienes [Bosch Home and Garden - Bosch sistema de Pulverización de p
 
 🔎:
 
-- Volumen de aire fácilmente ajustable, elige uno de los 3 iconos para ajustar la capacidad de aire: taco y silla para madera/pintura o interior de la casa para paredes; en caso de niebla intensa, reduce el flujo de aire y si la pulverización es demasiado gruesa, aumenta el flujo de aire.
-- Funcionalidad incluida, cambio rápido con una sola torsión de un recipiente a otro gracias al sistema Bosch SDS; con dos recipientes de 1000 ml es posible llevar a cabo la mayoría de las aplicaciones.
-- Sistema ALLPaint versátil, basta con una sola herramienta para colorear a pulverización diferentes materiales y superficies, con pinturas transparentes, barnices y pinturas murales.
-- Simple y práctico de usar, la herramienta tiene características que facilitan el usuario, como: ruedas y tubo de 4 m que facilitan la manipulación y los desplazamientos en la zona de trabajo.
 - Práctico para diferentes aplicaciones, cambio rápido y rápido de las boquillas según las aplicaciones y del material: gris para pinturas transparentes, negro para pinturas y blanco para pinturas de pared.
+- Volumen de aire fácilmente ajustable, elige uno de los 3 iconos para ajustar la capacidad de aire: taco y silla para madera/pintura o interior de la casa para paredes; en caso de niebla intensa, reduce el flujo de aire y si la pulverización es demasiado gruesa, aumenta el flujo de aire.
+- Simple y práctico de usar, la herramienta tiene características que facilitan el usuario, como: ruedas y tubo de 4 m que facilitan la manipulación y los desplazamientos en la zona de trabajo.
 - Incluye Amazon Edición: PFS 5000 E, Boquilla para lacas de colores (negro), Boquilla para lacas incoloras (gris), Boquilla para pinturas murales (blanco), Filtro de pintura, Cepillo de limpieza, 2 depósitos de pintura de 1.000 ml con tapa (1 600 A00 1GG), Mezcladora, Cover, Tape
+- Sistema ALLPaint versátil, basta con una sola herramienta para colorear a pulverización diferentes materiales y superficies, con pinturas transparentes, barnices y pinturas murales.
+- Funcionalidad incluida, cambio rápido con una sola torsión de un recipiente a otro gracias al sistema Bosch SDS; con dos recipientes de 1000 ml es posible llevar a cabo la mayoría de las aplicaciones.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0869BHM2J/?tag=tolees-21)

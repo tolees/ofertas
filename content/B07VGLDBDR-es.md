@@ -28,8 +28,8 @@ Ahora mismo tienes [Marca Amazon - Movian Kyyvesi - Mueble para TV con 2 cajones
 
 🔎:
 
-- Con dos cajones para guardar todas tus cosas
 - Incluye instrucciones paso a paso y kit de instalación
+- Con dos cajones para guardar todas tus cosas
 - Diseño sencillo y minimalista con un toque moderno
 - Medidas: 120 x 41,5 x 50 cm (largo x ancho x alto)
 - Materiales: tablero aglomerado, tablero de densidad media, metal negro para las patas y el tirador

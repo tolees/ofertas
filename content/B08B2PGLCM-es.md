@@ -28,7 +28,7 @@ Ahora mismo tienes [Electronic Arts - FIFA 21 Standard | Código Origin para PC]
 
 🔎:
 
-- Para las consolas sin unidad de disco es necesaria la versión digital para mejorar el juego
 - Compra FIFA 21 para PlayStation 4 o Xbox One antes del lanzamiento de FIFA 22 y mejora a FIFA 21 para PlayStation 5 o FIFA 21 para Xbox Series X sin coste adicional
+- Para las consolas sin unidad de disco es necesaria la versión digital para mejorar el juego
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08B2PGLCM/?tag=tolees-21)
