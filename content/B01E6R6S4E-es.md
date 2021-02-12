@@ -28,10 +28,10 @@ Tienes [Sony CMTSBT20.CEL - Sistema de Audio  12 W  CD  FM  Radio  USB  Bluetoot
 
 🔎:
 
+- Reproducción multimedia y carga mediante USB y Walkman
+- Sintonizador de radio FM integrado
+- Potencia total de 12 W
 - Mega Bass para un sonido dinámico
 - Conectividad Bluetooth con NFC de un solo toque
-- Potencia total de 12 W
-- Sintonizador de radio FM integrado
-- Reproducción multimedia y carga mediante USB y Walkman
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01E6R6S4E/?tag=tolees-21)
