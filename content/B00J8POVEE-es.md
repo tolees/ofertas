@@ -28,10 +28,10 @@ En este momento está [W7 | Brush | PRECISION EYELINER BRUSH](https://www.amazon
 
 🔎:
 
+- 14,5 cm de largo
+- Pequeñas y soporte de precisión delineador
 - Mango de madera
 - Alta calidad
-- Pequeñas y soporte de precisión delineador
-- 14,5 cm de largo
 - Delineador de precisión de W7
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00J8POVEE/?tag=tolees-21)

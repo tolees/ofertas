@@ -28,8 +28,8 @@ Está [Salomon RX Break 4.0  Calzado de recuperación Hombre  Gris  Stormy Weath
 
 ℹ️:
 
-- Chanclas tiempo libre y sportwear hombre
-- Calzado salomon
 - Shoes rx break (l40955600)
+- Calzado salomon
+- Chanclas tiempo libre y sportwear hombre
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07RDLQT1V/?tag=tolees-21)

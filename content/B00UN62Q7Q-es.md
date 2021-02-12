@@ -28,10 +28,10 @@ Ahora mismo tienes [Bosch Home and Garden - Bosch medidor láser PLR 30 C  con f
 
 🔎:
 
-- Dos ajustes de referencia: El ajuste de referencia permite medir desde la parte frontal o la trasera del aparato
-- Conectividad con la app MeasureOn: transfiera los datos de las mediciones de forma fácil a la app. Añada fotografías, dibuje planos de las salas, añada notas y transfiera las mediciones desde el telémetro láser mediante Bluetooth, todo en un único lugar.
-- Resultados precisos: El PLR 30 C mide distancias hasta 30 m con una precisión de ±2 mm
-- App para smartphone con conexión por Bluetooth: Permite transferir resultados de medición a la aplicación Bosch, añadir medidas a fotos, diseñar estancias, crear listas de medidas, exportar datos y más
 - Cuatro modos de medición: Fácil medición de longitud y cálculo de áreas y volúmenes; se puede usar el modo continuo para conocer los valores mínimos y máximos en una medición continua
+- Dos ajustes de referencia: El ajuste de referencia permite medir desde la parte frontal o la trasera del aparato
+- Resultados precisos: El PLR 30 C mide distancias hasta 30 m con una precisión de ±2 mm
+- Conectividad con la app MeasureOn: transfiera los datos de las mediciones de forma fácil a la app. Añada fotografías, dibuje planos de las salas, añada notas y transfiera las mediciones desde el telémetro láser mediante Bluetooth, todo en un único lugar.
+- App para smartphone con conexión por Bluetooth: Permite transferir resultados de medición a la aplicación Bosch, añadir medidas a fotos, diseñar estancias, crear listas de medidas, exportar datos y más
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00UN62Q7Q/?tag=tolees-21)

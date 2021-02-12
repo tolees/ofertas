@@ -29,9 +29,9 @@ Tienes [Bosch Home and Garden - Bosch PSS 250 AE Lijadora en Maletín de Transpo
 ℹ️:
 
 - Bosch lijadora orbital PSS 250 AE: para resultados de lijado rápidos y exactos en superficies grandes, bordes y ángulos
-- Lijado sin polvo gracias a la aspiración directa en una microcaja de filtro
-- Consigue un lijado agradable con vibraciones mínimas gracias al motor optimizado de 250 W
-- Trabajo cómodo gracias al sistema de sujeción con hoja de lija, que hace que el cambio de papel de lija sea muy sencillo
 - Incluye: PSS 250 AE, hoja de lija P80, P120, P180, microcaja de filtro, maletín de transporte
+- Trabajo cómodo gracias al sistema de sujeción con hoja de lija, que hace que el cambio de papel de lija sea muy sencillo
+- Consigue un lijado agradable con vibraciones mínimas gracias al motor optimizado de 250 W
+- Lijado sin polvo gracias a la aspiración directa en una microcaja de filtro
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000ARDYXS/?tag=tolees-21)

@@ -28,8 +28,8 @@ En este momento está [BANDAI NAMCO Entertainment Iberica - Captain Tsubasa: Ris
 
 🔎:
 
-- Pieza exclusiva Master Star (28cm)
 - Insignias bordadas
+- Pieza exclusiva Master Star (28cm)
 - Caja metálica
 - Character Pass
 - Lámina; tarjeta coleccionable

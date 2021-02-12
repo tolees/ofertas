@@ -28,10 +28,10 @@ Tienes [Bosch Professional 18V System Taladro percutor a batería GSB 18V-55  pa
 
 ℹ️:
 
-- Un todo terreno con un equipo totalmente metálico para perforar, percutar y atornillar con un diámetro de perforación de hasta 35 mm.
-- Incluye: Taladro de impacto inalámbrico GSB 18V-55, batería de 2x2,0 Ah, cargador rápido, juego de accesorios de 35 piezas, clip para el cinturón, L-Case
-- Uso flexible gracias a la pinza metálica Röhm de 13 mm y a la luz LED para la iluminación de áreas de trabajo oscuras
-- El destornillador inalámbrico GSB 18V-55 ofrece un rendimiento profesional gracias a su par de 55 Nm y a su motor sin escobillas para una vida aún más larga y una mayor duración de la batería
 - Professional 18V System. Máximo rendimiento. Máxima libertad. Todas nuestras baterías son compatibles con las herramientas nuevas o ya existentes de Bosch Professional de la misma categoría de potencia
+- Incluye: Taladro de impacto inalámbrico GSB 18V-55, batería de 2x2,0 Ah, cargador rápido, juego de accesorios de 35 piezas, clip para el cinturón, L-Case
+- El destornillador inalámbrico GSB 18V-55 ofrece un rendimiento profesional gracias a su par de 55 Nm y a su motor sin escobillas para una vida aún más larga y una mayor duración de la batería
+- Uso flexible gracias a la pinza metálica Röhm de 13 mm y a la luz LED para la iluminación de áreas de trabajo oscuras
+- Un todo terreno con un equipo totalmente metálico para perforar, percutar y atornillar con un diámetro de perforación de hasta 35 mm.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07XBRKX5Y/?tag=tolees-21)
