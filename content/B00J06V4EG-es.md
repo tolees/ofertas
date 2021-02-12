@@ -28,9 +28,9 @@ Tienes [MXL MaXimus Life - Maximus Pro Rebounder - Trampolin Fitness Plegable. M
 
 🔎:
 
-- ✅Ayuda a quemar grasa, tonificar los músculos y la piel y elimin
 - ✅Minitrampolín. Patas plegables para guardarlo fácilmente. Incluye barra estabilizadora y un DVD en inglés con ejercicios que te ayudarán a sacarle el
 - ✅Sistema de muelles. Se reduce el efecto rebote en un 87%
 - ✅Utilizado por deportistas profesionales.
+- ✅Ayuda a quemar grasa, tonificar los músculos y la piel y elimin
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00J06V4EG/?tag=tolees-21)

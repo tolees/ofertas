@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SanDisk Ultra Dual m3.0 - Unidad Dual co al 65.65 % de descuento'
-date: 2021-02-11 19:35:40
+date: 2021-02-12 21:49:11
 image: 'https://m.media-amazon.com/images/I/31TsCQlX8oL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SanDisk'
 buyurl: 'https://www.amazon.es/dp/B01M0QR22B/?tag=tolees-21'
 descuento: '65.65'
-average: '15.5195238095238'
+average: '15.3136363636363'
 ---
 
 Ahora mismo tienes [SanDisk Ultra Dual m3.0 - Unidad Dual con conector micro-USB en un extremo y un conector USB 3.0  128 GB](https://www.amazon.es/dp/B01M0QR22B/?tag=tolees-21) a 10.99 EUR (original: 31.99 EUR) (65.65 %  de descuento) en el siguiente enlace!
@@ -28,10 +28,9 @@ Ahora mismo tienes [SanDisk Ultra Dual m3.0 - Unidad Dual con conector micro-USB
 
 🔎:
 
-- Back up photos, videos and contacts
-- High-speed USB 3.0 performance with up to 150MB/s file transfer from drive to computer, SanDisk Memory Zone application (available on Google Play) lets you easily manage your photos and videos
-- Compatibility is Windows 7, Windows 8, Windows 10, Mac OS X v10.9 plus and higher Automatically-detected when connected to an On The Go (OTG) enabled smartphone or tablet. Requires Android smartphone or tablet with On The Go (OTG) compatibility
-- Free up space on your OTG Android phone
-- Retractable design with dual micro USB and USB 3.0 connectors
+- Diseño retráctil con doble conector micro-USB y USB 3.0
+- Rendimiento USB 3.0 de alta velocidad con hasta 150 MB/s para transferir archivos de la memoria al ordenador
+- Transfiere archivos entre smartphones y tabletas Android con OTG habilitado y PC y Mac
+- Libera espacio fácilmente en tu smartphone Android con OTG habilitado
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01M0QR22B/?tag=tolees-21)

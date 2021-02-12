@@ -29,8 +29,8 @@ Ahora mismo tienes [Vampirina - Figuras Vampirina y sus amigos  Bandai 78122 ](h
 🔎:
 
 - Número de modelo: 78120
-- Dimensiones del producto: 5,7 x 14 x 16,5 cm
 - Tipo de producto: Figuras Vampirina y sus amigos
+- Dimensiones del producto: 5,7 x 14 x 16,5 cm
 - Marca del producto: Vampirina
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07BGLSJQH/?tag=tolees-21)

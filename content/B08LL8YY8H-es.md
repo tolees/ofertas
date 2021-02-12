@@ -28,9 +28,9 @@ En este momento está [Lexington 02010081093JN - Juego NORDICO 150X220+50X90 Bla
 
 🔎:
 
+- Contenido: 1 funda nordica y 1 funda almohada
 - Lavar a máquina
 - Está hecho de 100% algodón
 - Tipo de cierre: botones
-- Contenido: 1 funda nordica y 1 funda almohada
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08LL8YY8H/?tag=tolees-21)
