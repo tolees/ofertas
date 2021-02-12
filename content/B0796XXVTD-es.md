@@ -30,10 +30,10 @@ Está [Skechers Ultra Flex Statements  Zapatillas sin Cordones Mujer  Morado Lav
 
 - Cierre: Sin cordones
 - Material de la suela: Sintético
-- Tipo de tacón: Plano
-- Composición: Sintético
 - Altura del tacón: 1.0 centímetro
+- Tipo de tacón: Plano
 - Material exterior: Tela
 - Revestimiento: Tela
+- Composición: Sintético
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0796XXVTD/?tag=tolees-21)

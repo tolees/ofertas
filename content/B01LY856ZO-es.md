@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Teka | Placa de Vitrocerámica | Modelo T al 38.30 % de descuento'
-date: 2020-10-08 07:54:36
+title: 'Teka | Placa de Vitrocerámica | Modelo T al 35.40 % de descuento'
+date: 2021-02-12 19:50:50
 image: 'https://m.media-amazon.com/images/I/41reWTqsrgL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -9,24 +9,31 @@ author: ring
 slug: 'B01LY856ZO-es Teka | Placa de Vitrocerámica | Modelo TB6315 | 3 zonas...'
 sku: 'B01LY856ZO-es'
 tags: [  ]
-actualPrice: 149.0 EUR
+actualPrice: 156.0 EUR
 currency: EUR
-price: 149.0
+price: 156.0
 comparePrice: 241.5 EUR
 prodname: 'Teka | Placa de Vitrocerámica | Modelo TB6315 | 3 zonas Touch Control | 60CM'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Teka'
 buyurl: 'https://www.amazon.es/dp/B01LY856ZO/?tag=tolees-21'
-descuento: '38.30'
-average: '151.68960000000004'
+descuento: '35.40'
+average: '151.855384615385'
 ---
 
-Está [Teka | Placa de Vitrocerámica | Modelo TB6315 | 3 zonas Touch Control | 60CM](https://www.amazon.es/dp/B01LY856ZO/?tag=tolees-21) con 38.30 de descuento por 149.0 EUR (original: 241.5 EUR) en el siguiente enlace!
+Está [Teka | Placa de Vitrocerámica | Modelo TB6315 | 3 zonas Touch Control | 60CM](https://www.amazon.es/dp/B01LY856ZO/?tag=tolees-21) con 35.40 de descuento por 156.0 EUR (original: 241.5 EUR) en el siguiente enlace!
 
 [![Teka | Placa de Vitrocerámica | Modelo T](https://m.media-amazon.com/images/I/41reWTqsrgL._SL200_.jpg)](https://www.amazon.es/dp/B01LY856ZO/?tag=tolees-21)
 
 ℹ️:
 
+- Color: Cristal negro
+- Dimensiones Alto x Ancho x Profundo (cm): 6.3 x 60 x 51
+- 3 zonas (Ø145 mm + Ø180 mm + Ø210/270 mm)
+- Touch Control
+- Función cronómetro con avisador acústico
+- Programador del tiempo de cocción
+- Función golpe de cocción
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01LY856ZO/?tag=tolees-21)

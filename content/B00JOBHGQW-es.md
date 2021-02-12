@@ -28,8 +28,8 @@ Tienes [Casio Reloj Analógico de Cuarzo con Correa en Cuero MTP-1314PL-8AVEF](h
 
 ℹ️:
 
-- Resistente al agua hasta 5 bar / 50 metros
 - Cristal mineral, difícil de rayar, que protege el reloj de daños externos
+- Resistente al agua hasta 5 bar / 50 metros
 - La duración de la pila es de 3 años
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00JOBHGQW/?tag=tolees-21)

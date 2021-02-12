@@ -28,8 +28,8 @@ En este momento está [Kipling Abanu  Bolsos con Bandolera para Mujer  Negro  Bl
 
 🔎:
 
+- Para mujer
 - Crossbody
 - Classics
-- Para mujer
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07TVPYG3V/?tag=tolees-21)

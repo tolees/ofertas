@@ -28,10 +28,10 @@ Tienes [Funko - POP! Vinilo: Disney: Toy Story 4: Alien](https://www.amazon.es/d
 
 🔎:
 
-- Funko pop vinyl
-- Juguete del año 2018
 - Disney toy story 4
-- De la colección toy story 4, alien como figura de vinilo pop de funko
+- Juguete del año 2018
 - Descúbre otras figuras de la colección disney y colecciónalas todas
+- De la colección toy story 4, alien como figura de vinilo pop de funko
+- Funko pop vinyl
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07KPK6G4R/?tag=tolees-21)
