@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Disney - Toy Story 4 [Steelbook] [Blu-ra al 30.01 % de rebaja'
-date: 2021-02-10 23:18:15
+date: 2021-02-11 23:24:27
 image: 'https://m.media-amazon.com/images/I/41SG1YOQJjL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Disney'
 buyurl: 'https://www.amazon.es/dp/B07T7K2X9Z/?tag=tolees-21'
 descuento: '30.01'
-average: '23.688'
+average: '23.5883333333334'
 ---
 
 Tienes [Disney - Toy Story 4 [Steelbook] [Blu-ray]](https://www.amazon.es/dp/B07T7K2X9Z/?tag=tolees-21) con precio final de  23.09 EUR (original: 32.99 EUR) (30.01 %  de rebaja) aqui!

@@ -29,9 +29,9 @@ Ahora mismo tienes [BTS mini figura de vinilo Jin  miembro banda coreana  Mattel
 🔎:
 
 - Muestra tu amor por el kpop y bts con la colección oficial de las minifiguras que representan a los siete artistas
+- El muñeco se sostiene sobre su soporte de exposición
 - Estos muñecos adorables y coleccionables son un regalo muy original
 - Regalo óptimo para niñas y niños de más de 6 años
 - El diseño de 8 cm está inspirado en uno de los trajes que suga lleva en el vídeo musical "idol"
-- El muñeco se sostiene sobre su soporte de exposición
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07PDNJ2HC/?tag=tolees-21)
