@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'REPSOL Elite Multiválvulas 10W-40 Aceite al 32.19 % de descuento'
-date: 2021-02-12 05:55:13
+title: 'REPSOL Elite Multiválvulas 10W-40 Aceite al 33.32 % de descuento'
+date: 2021-02-13 05:55:56
 image: 'https://m.media-amazon.com/images/I/41OIEK-vMmL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: ring
 slug: 'B00BFWLQ96-es REPSOL Elite Multiválvulas 10W-40 Aceite De Motor Para...'
 sku: 'B00BFWLQ96-es'
 tags: [  ]
-actualPrice: 23.28 EUR
+actualPrice: 22.89 EUR
 currency: EUR
-price: 23.28
+price: 22.89
 comparePrice: 34.33 EUR
 prodname: 'REPSOL Elite Multiválvulas 10W-40 Aceite De Motor Para Coche  5l'
 country: 'es'
 flag: '🇪🇸'
 brand: 'REPSOL'
 buyurl: 'https://www.amazon.es/dp/B00BFWLQ96/?tag=tolees-21'
-descuento: '32.19'
-average: '22.7293700787402'
+descuento: '33.32'
+average: '22.730625'
 ---
 
-Está [REPSOL Elite Multiválvulas 10W-40 Aceite De Motor Para Coche  5l](https://www.amazon.es/dp/B00BFWLQ96/?tag=tolees-21) con 32.19 de descuento por 23.28 EUR (original: 34.33 EUR) en el siguiente enlace!
+Está [REPSOL Elite Multiválvulas 10W-40 Aceite De Motor Para Coche  5l](https://www.amazon.es/dp/B00BFWLQ96/?tag=tolees-21) con 33.32 de descuento por 22.89 EUR (original: 34.33 EUR) en el siguiente enlace!
 
 [![REPSOL Elite Multiválvulas 10W-40 Aceite](https://m.media-amazon.com/images/I/41OIEK-vMmL._SL200_.jpg)](https://www.amazon.es/dp/B00BFWLQ96/?tag=tolees-21)
 
