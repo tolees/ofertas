@@ -28,12 +28,12 @@ En este momento está [Kärcher Limpiador de suelos de madera barnizados  6.295-
 
 🔎:
 
-- Dosificación: de 1/4 a 1/2 tapón diluido en el depósito de la fregadora
-- Componentes incluidos: Cuidado de suelos de madera sellada RM 534
+- Mejora el tiempo de secado del suelo
+- Componentes incluidos: cuidado de suelos de madera sellada rm 534
 - Detergente para uso con la fregadora de suelos fc 5 de kärcher
 - Duración de la botella (0,5 litros) de 50 a 100 usos
+- Dosificación: de 1/4 a 1/2 tapón diluido en el depósito de la fregadora
+- Componentes incluidos: Cuidado de suelos de madera sellada RM 534
 - Limpia y protege los suelos de madera barnizados, tipo parqué
-- Componentes incluidos: cuidado de suelos de madera sellada rm 534
-- Mejora el tiempo de secado del suelo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01MU3CCPL/?tag=tolees-21)

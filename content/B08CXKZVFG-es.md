@@ -28,10 +28,10 @@ En este momento está [Guer Módulo Cubierta Frontal Fuselaje multifunción Marc
 
 🔎:
 
-- Hecho material ABS, duradero y no fácil romper.
-- Modelos compatibles: para Mavic Air 2
-- Paquete incluido: 1 pc * Módulo cubierta frontal
 - Instalación fácil, sin otras herramientas, artesanía fina.
+- Hecho material ABS, duradero y no fácil romper.
 - Se puede usar para reemplazar la parte dañada del dron.
+- Paquete incluido: 1 pc * Módulo cubierta frontal
+- Modelos compatibles: para Mavic Air 2
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CXKZVFG/?tag=tolees-21)

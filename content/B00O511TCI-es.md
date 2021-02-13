@@ -30,8 +30,8 @@ Está [Safety 1st Ever Safe - Silla de coche para niños  de grupo 1/2/3  9 mese
 
 - Silla de coche ajustable, apta para niños entre 9 meses y 10 años aproximadamente 9-36 kg
 - La funda de esta silla de coche grupo 1-2-3 se puede lavar a 30°C
+- Se ajusta a medida que el niño crece gracias a su arnés extraíble y a su reposacabezas ajustable en 6 posiciones
 - Instalación rápida y sencilla gracias al arnés y al sistema de ajuste con una sola mano
 - Silla de coche grupo 1 con arnés para niños pequeños 9-18 kg que se convierte en silla de coche grupo 2/3 sin arnés para el niño 15-36 kg
-- Se ajusta a medida que el niño crece gracias a su arnés extraíble y a su reposacabezas ajustable en 6 posiciones
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00O511TCI/?tag=tolees-21)
