@@ -28,9 +28,9 @@ Ahora mismo tienes [Measy W2H Mini II inalámbrico HDMI transmisor y receptor HD
 
 🔎:
 
-- 1080P@60HZ no compression and no delay transmission, which is suit for all kinds of game, such as Need for Speed.
 - The longest straight line wireless transmission could be up 30 meter / 100FT.
-- The front of TX and RX is facing, and there is no obstruction between them, then the transmission effect is the best.
 - One-key to match, there is no need to do some settings. Devices which already did matching don’t need to match next time. With power on, you can use it directly (the are all matched when leave factory).
+- The front of TX and RX is facing, and there is no obstruction between them, then the transmission effect is the best.
+- 1080P@60HZ no compression and no delay transmission, which is suit for all kinds of game, such as Need for Speed.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B074DVLQK7/?tag=tolees-21)

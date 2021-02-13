@@ -28,10 +28,10 @@ Está [Taurus Tropicano Java 2100 IP Termoventilador  calefactor  2 posiciones d
 
 ℹ️:
 
-- Dos potencía de calor (1000w y 2000w) + función ventilador; potente caudal de aire, rápido calentamiento de la habitación
-- Funcionamiento silencioso; sistema de protección contra sobrecalentamiento
-- 2 años de garantía
-- Termostato regulable; se desconecta automáticamente cuando llega a la temperatura ambiente deseada; cuando la temperatura baja, se vuelve a encender automáticamente
 - Diseño elegante con acabados en plateado; compacto: 62 x 52 x 16 cm
+- Funcionamiento silencioso; sistema de protección contra sobrecalentamiento
+- Dos potencía de calor (1000w y 2000w) + función ventilador; potente caudal de aire, rápido calentamiento de la habitación
+- Termostato regulable; se desconecta automáticamente cuando llega a la temperatura ambiente deseada; cuando la temperatura baja, se vuelve a encender automáticamente
+- 2 años de garantía
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B074K76ZZZ/?tag=tolees-21)

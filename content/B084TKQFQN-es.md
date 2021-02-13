@@ -28,10 +28,10 @@ Tienes [Star Wars Bounty Collection Froggy Snack Figura Mandalorian the Child Fr
 
 🔎:
 
-- Recoge todas las figuras de acción y vehículos de Star Wars, cada uno se vende por separado.
-- Crea aventuras y escenas desde el entretenimiento de Star Wars
+- Algunos vehículos cuentan con acción de batalla realista e incluyen capacidades de disparo Nerf.
 - Crea aventuras y vuelve a crear escenas favoritas del universo de Star Wars.
 - Pretende ser héroes, villanos y criaturas favoritas con un increíble equipo de juego de rol
-- Algunos vehículos cuentan con acción de batalla realista e incluyen capacidades de disparo Nerf.
+- Crea aventuras y escenas desde el entretenimiento de Star Wars
+- Recoge todas las figuras de acción y vehículos de Star Wars, cada uno se vende por separado.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B084TKQFQN/?tag=tolees-21)

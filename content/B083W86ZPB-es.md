@@ -29,9 +29,9 @@ Está [SUNJULY Juego de Herramientas para Hacer Matcha  Batidor de té de bambú
 ℹ️:
 
 - Batidor de té: el batidor de té hecho de bambú de una pieza puede ayudarlo de manera efectiva a lograr una ligera espuma en el té. La densidad del cepillo es amigable para la mayoría de los usuarios, lo que hace que sea más fácil de operar.
-- Cucharada de té: la cucharada de té es una herramienta práctica para que los usuarios obtengan el matcha en forma de polvo del recipiente para prepararlo, lo que también lo ayuda a medir la cantidad de uso de matcha y controlarlo.
-- Soporte para batidor de té: el soporte para batidor está diseñado con la forma perfecta para sostener el batidor de té y mantener su forma original, que también puede dejar que el té se seque de forma natural y evitar el moho.
-- Amplia aplicación: el conjunto de herramientas de matcha incluye un batidor de té, un soporte para batidor de té y una cuchara de té, que casi proporciona todas las herramientas esenciales para la fabricación de matcha, perfecto para principiantes o aficionados al matcha.
 - Material natural: la cuchara para té está hecha de bambú. El batidor de té está hecho de una pieza de bambú. El soporte para batidor de té adopta material cerámico de alta calidad. Todos los materiales son naturales y no tóxicos, seguros y confiables de usar.
+- Cucharada de té: la cucharada de té es una herramienta práctica para que los usuarios obtengan el matcha en forma de polvo del recipiente para prepararlo, lo que también lo ayuda a medir la cantidad de uso de matcha y controlarlo.
+- Amplia aplicación: el conjunto de herramientas de matcha incluye un batidor de té, un soporte para batidor de té y una cuchara de té, que casi proporciona todas las herramientas esenciales para la fabricación de matcha, perfecto para principiantes o aficionados al matcha.
+- Soporte para batidor de té: el soporte para batidor está diseñado con la forma perfecta para sostener el batidor de té y mantener su forma original, que también puede dejar que el té se seque de forma natural y evitar el moho.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B083W86ZPB/?tag=tolees-21)

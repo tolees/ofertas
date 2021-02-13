@@ -29,7 +29,7 @@ Tienes [Head Short Crew Unisex  Black  39/42  Pack Of 5](https://www.amazon.es/d
 🔎:
 
 - Borde de canalé 1x1, mayor elasticidad.
-- Talón anatómico.
 - Costuras planas en la puntera para evitar molestias.
+- Talón anatómico.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07VSC4NYJ/?tag=tolees-21)

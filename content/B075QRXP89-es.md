@@ -28,10 +28,10 @@ Tienes [Cable Guy - Star Wars "Darth Vader" Soporte para teléfono y controlador
 
 🔎:
 
-- Compatible con todos los teléfonos móviles o smartphones actuales
-- Personaje Darth Vader
-- Producto con licencia oficial Star wars
 - Incluye cable de carga de 2 metros (mini usb y usb)
+- Compatible con todos los teléfonos móviles o smartphones actuales
+- Producto con licencia oficial Star wars
+- Personaje Darth Vader
 - Compatible con mando o controller PS4, Xbox one
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B075QRXP89/?tag=tolees-21)

@@ -30,8 +30,8 @@ En este momento está [Ingenuity  Hamaca bebé con Arco de Juego Luminoso  Twink
 
 - Vibración relajante, 7 melodías, control de volumen y apagado automático
 - El suplemento de soporte reversible para bebés puede usarse en ambos lados y se puede retirar del asiento para que el bebé juegue con él
-- Muestra un espectáculo de luces parpadeantes en la barra de juguetes del dosel
 - Adorable conejito que ofrece un suplemento de soporte para el bebé y un apoyacabezas
 - El diseño del asiento cuna ofrece soporte y comodidad al bebé
+- Muestra un espectáculo de luces parpadeantes en la barra de juguetes del dosel
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B079T3XQLY/?tag=tolees-21)

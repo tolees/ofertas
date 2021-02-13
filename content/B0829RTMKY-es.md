@@ -28,10 +28,10 @@ Tienes [Corsair iCUE H100i RGB PRO XT Refrigerador Líquido para CPU  Radiador d
 
 🔎:
 
-- Cabezal de bombeo RGB dinámico y multizona; 16 LED RGB controlados de forma individual iluminan el cabezal de la bomba para producir efectos de iluminación
+- Potente software iCUE, controle y sincronice la iluminación RGB del refrigerador con todos los dispositivos compatibles con iCUE, supervise las temperaturas de la CPU y el refrigerante
 - Refrigeración extrema de CPU; disfrute de la refrigeración de rendimiento, con ventiladores que funcionan entre 400 y 2.400 RPM
 - Ventiladores con levitación magnética; dos ventiladores Corsair ML Series de 120 mm ofrecen un flujo de aire adecuado para conseguir un rendimiento extremo al enfriar la CPU
-- Potente software iCUE, controle y sincronice la iluminación RGB del refrigerador con todos los dispositivos compatibles con iCUE, supervise las temperaturas de la CPU y el refrigerante
+- Cabezal de bombeo RGB dinámico y multizona; 16 LED RGB controlados de forma individual iluminan el cabezal de la bomba para producir efectos de iluminación
 - Modo Zero RPM, los perfiles de refrigeración Zero RPM del software Corsair iCUE permiten detener completamente los ventiladores cuando la temperatura es baja
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0829RTMKY/?tag=tolees-21)
