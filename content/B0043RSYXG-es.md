@@ -28,9 +28,9 @@ En este momento está [MIYABI 34536-002 - Piedra de afilar con granulación 1000
 
 🔎:
 
-- Consigue un afilado óptimo
-- Piedra de afilado con grano 1000
 - Apto para todo tipo de cuchillos y materiales (salvo la cerámica)
+- Consigue un afilado óptimo
 - Con un desgaste mínimo
+- Piedra de afilado con grano 1000
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0043RSYXG/?tag=tolees-21)

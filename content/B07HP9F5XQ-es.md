@@ -29,9 +29,9 @@ Tienes [Skechers Status 2.0-Pexton  Zapatillas Hombre  Azul  NVY Black Canvas   
 ℹ️:
 
 - skechers
-- 65910-NVY
-- Status 2.0-Pexton
-- Zapatillas
 - Hombre
+- Status 2.0-Pexton
+- 65910-NVY
+- Zapatillas
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07HP9F5XQ/?tag=tolees-21)
