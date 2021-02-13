@@ -29,8 +29,8 @@ En este momento está [Mann Filter - MANN-FILTER Filtro de habitáculo CUK 2641 
 🔎:
 
 - Los productos cumplen los requisitos del reglamento Reach de la UE relativos a la protección de salud y el medio ambiente en los procesos de desarrollo, fabricación, uso y eliminación de residuos
-- Los filtros de cabina de carbón activado de calidad MANN-FILTER ofrecen casi el 100 por ciento de protección contra gases y partículas sólidas como el polen, restos de combustión, etc
 - Original MANN-FILTER Filtro de Habitáculo CUK 2641 / Filtro de cabina con carbón activo / Dimensiones : H = 35 ; A = 256 ; B = 253 / Filtro premium en calidad de original
+- Los filtros de cabina de carbón activado de calidad MANN-FILTER ofrecen casi el 100 por ciento de protección contra gases y partículas sólidas como el polen, restos de combustión, etc
 - El carbón activado procesado de alta eficacia protege contra olores y gases nocivos como el ozono, el óxido de nitrógeno o el dióxido de azufre
 - Encuentra el filtro compatible: selecciona la marca, modelo, variante y submodelo en el buscador en la parte superior de la página o consulta los documentos de tu coche
 

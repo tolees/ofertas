@@ -28,10 +28,10 @@ Ahora mismo tienes [Spyro The Dragon Spyro TUBBZ Collectible Duck](https://www.a
 
 🔎:
 
-- Approximately 9cm (3.54”) tall when outside of tub display stand (some may vary)
-- Designed and engineered by merchandise experts Numskull Designs
 - TUBBZ - your favourite video game, movie, TV show, and comic book characters come to life as cosplaying ducks
-- Official Spyro the Dragon merchandise
 - Collect them all – 4 to collect in the Spyro TUBBZ range, with many others to collect
+- Designed and engineered by merchandise experts Numskull Designs
+- Approximately 9cm (3.54”) tall when outside of tub display stand (some may vary)
+- Official Spyro the Dragon merchandise
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07WJR92R7/?tag=tolees-21)
