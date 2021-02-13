@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Western Digital My Book Disco Duro Exter con un 27.22 % de descuento'
-date: 2021-02-11 11:45:30
+date: 2021-02-13 14:57:56
 image: 'https://m.media-amazon.com/images/I/31fb4AS9DbL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Western Digital'
 buyurl: 'https://www.amazon.es/dp/B07Y3JXGPL/?tag=tolees-21'
 descuento: '27.22'
-average: '239.494444444444'
+average: '240.678421052631'
 ---
 
 En este momento está [Western Digital My Book Disco Duro Externo de Sobremesa de 14 TB  3.5"  USB 3.0  Negro](https://www.amazon.es/dp/B07Y3JXGPL/?tag=tolees-21) a 261.99 EUR (original: 359.99 EUR) (27.22 %  de descuento) en el siguiente enlace!
@@ -29,9 +29,9 @@ En este momento está [Western Digital My Book Disco Duro Externo de Sobremesa d
 🔎:
 
 - Copia de seguridad automática con el software wd backup incluido y compatible con time machine
-- Puerto usb 3.0 (compatible con usb 2.0)
-- Protección con contraseña y hardware de cifrado
 - Software wd discovery para wd security, importación de almacenamiento en redes sociales y en la nube, y wd drive utilities
 - Almacenamiento de confianza fabricado con la fiabilidad de wd
+- Puerto usb 3.0 (compatible con usb 2.0)
+- Protección con contraseña y hardware de cifrado
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07Y3JXGPL/?tag=tolees-21)

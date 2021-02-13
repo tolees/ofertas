@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Electronic Arts - Command & Conquer Rema al 50.03 % de rebaja'
-date: 2021-02-12 09:51:19
+date: 2021-02-13 15:19:29
 image: 'https://m.media-amazon.com/images/I/5157J-RPPpL._SL200_.jpg'
 comments: true
 category: ofertas

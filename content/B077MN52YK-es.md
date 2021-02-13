@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tenda U3 Mini Adaptador Inalámbrico USB  al 26.34 % de descuento'
-date: 2021-02-11 20:08:57
+date: 2021-02-13 14:39:53
 image: 'https://m.media-amazon.com/images/I/31ibcbt8TAL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Ahora mismo tienes [Tenda U3 Mini Adaptador Inalámbrico USB  300 Mbps Velocidad
 
 🔎:
 
-- Tecnología de conectividad: Wireless
-- Interfaz de host: USB
 - Interno: N
 - Tasa de transferencia (máx): 300Mbit/s
+- Interfaz de host: USB
+- Tecnología de conectividad: Wireless
 - Interfaz: WLAN
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B077MN52YK/?tag=tolees-21)

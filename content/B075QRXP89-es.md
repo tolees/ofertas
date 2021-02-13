@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cable Guy - Star Wars "Darth Vader" Sopo al 40.18 % de rebaja'
-date: 2020-10-05 20:41:14
+date: 2021-02-13 15:13:41
 image: 'https://m.media-amazon.com/images/I/31wWqcAYeJL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,10 +16,10 @@ comparePrice: 24.99 EUR
 prodname: 'Cable Guy - Star Wars "Darth Vader" Soporte para teléfono y controlador  negro'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Cable Guy'
 buyurl: 'https://www.amazon.es/dp/B075QRXP89/?tag=tolees-21'
 descuento: '40.18'
-average: '15.663333333333332'
+average: '15.5336363636364'
 ---
 
 Tienes [Cable Guy - Star Wars "Darth Vader" Soporte para teléfono y controlador  negro](https://www.amazon.es/dp/B075QRXP89/?tag=tolees-21) con precio final de  14.95 EUR (original: 24.99 EUR) (40.18 %  de rebaja) aqui!
@@ -28,5 +28,10 @@ Tienes [Cable Guy - Star Wars "Darth Vader" Soporte para teléfono y controlador
 
 🔎:
 
+- Compatible con todos los teléfonos móviles o smartphones actuales
+- Personaje Darth Vader
+- Producto con licencia oficial Star wars
+- Incluye cable de carga de 2 metros (mini usb y usb)
+- Compatible con mando o controller PS4, Xbox one
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B075QRXP89/?tag=tolees-21)
