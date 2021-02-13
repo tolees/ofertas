@@ -28,10 +28,10 @@ Tienes [OMRON Healthcare - Omron Eco Temp Basic  Termómetro Digital para Medir 
 
 ℹ️:
 
+- Para medición oral, axilar y rectal
 - Resistente al agua
+- Punta redondeada, para una mayor comodidad durante la medición
 - La misión de OMRON Healthcare es hacer la vida más saludable y confortable para todos; queremos crear un ambiente donde el impacto de condiciones médicas se reduce on el fin de lograr un mejor estilo de vida
 - Indicador en grados Celsius y Fahrenheit
-- Para medición oral, axilar y rectal
-- Punta redondeada, para una mayor comodidad durante la medición
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B003X5WLVU/?tag=tolees-21)

@@ -28,10 +28,10 @@ Ahora mismo tienes [Compo Universal para Frutas  Verduras  Plantas aromáticas y
 
 🔎:
 
+- Substrato listo para usar con suministro de nutrientes para 2-5 semanas, adecuado para plantas de interior, ornamentales, frutas, verduras y aromáticas
 - Calidad Compo: materias primas seleccionadas según la receta original de Compo, olor específico del producto
 - Contenido: 1 x Compo huerto urbano substrato universal apto para agricultura ecológica, bolsa de 20 l, valor del ph: 5.0 - 7.0
 - Plantas más sanas: aporta fertilidad, óptimiza la estructura del substrato, favorece la retención de agua, su composición refuerza la vitalidad de las plantas y favorece el desarrollo de la floración, aporta los elementos nutritivos necesarios a frutas y hortalizas para una rica y sabrosa cosecha
-- Substrato listo para usar con suministro de nutrientes para 2-5 semanas, adecuado para plantas de interior, ornamentales, frutas, verduras y aromáticas
 - Fácil de utilizar: soltar ligeramente la tierra, llenar el macetero con tierra e insertar la planta incluyendo el cepellón, rellenar con tierra hasta 1 cm por debajo del borde, presionar ligeramente hacia abajo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0123ZHKA2/?tag=tolees-21)

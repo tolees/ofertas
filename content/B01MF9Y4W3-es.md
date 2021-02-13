@@ -28,10 +28,10 @@ En este momento está [Motorola Baby - Motorola Smart Nursery Dream Machine - Vi
 
 🔎:
 
-- La vigilabebés con micrófono y altavoz, para poder escuchar y hablar con su bebé
 - Conectividad Wi-Fi: funciones con la aplicación Hubble, control remoto a través de teléfonos inteligentes y tabletas
 - 5 canciones de cuna preprogramadas. Las canciones se pueden descargar desde la aplicación Hubble.
-- Proyector con 3 escenas animadas. Luz nocturna / luz ambiente con cambio de color Luz nocturna / de relajación con colores cambiantes
 - El Dream Machine es perfecto para su uso junto con el Smart Nursery Humidifier+
+- La vigilabebés con micrófono y altavoz, para poder escuchar y hablar con su bebé
+- Proyector con 3 escenas animadas. Luz nocturna / luz ambiente con cambio de color Luz nocturna / de relajación con colores cambiantes
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01MF9Y4W3/?tag=tolees-21)
