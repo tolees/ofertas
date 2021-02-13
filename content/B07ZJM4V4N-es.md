@@ -28,7 +28,7 @@ Tienes [Jack & Jones Jjigordon Jjshark Sweat Pants Viy Noos Pantalones de Deport
 
 🔎:
 
-- De algodón puro y suave
 - Pantalón de chándal con pequeño logotipo impreso
+- De algodón puro y suave
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07ZJM4V4N/?tag=tolees-21)
