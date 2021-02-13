@@ -28,9 +28,9 @@ Está [Princess 162840 Teppanyaki Party – Parrilla  Raclette y Plancha Reversi
 
 ℹ️:
 
-- Fácil de limpiar gracias a las piezas aptas para el lavavajillas
 - Se calienta rápido gracias a la potencia de 1200 W
 - Revestimiento negro elegante con un termostato integrado para cocinar a una temperatura óptima
+- Fácil de limpiar gracias a las piezas aptas para el lavavajillas
 - Superficie para cocinar grande de 42x21 cm adecuada para hasta 8 personas que incluye 8 sartenes y espátulas
 - Asen a la parrilla, horneen y fundan queso todos juntos para que cada uno prepare su comida favorita
 

@@ -28,9 +28,9 @@ Ahora mismo tienes [Zygomatic - Asmodee Story Cubes Hora de Aventuras - Más ver
 
 🔎:
 
-- Qué princesa habrá raptado el rey Hielo esta vez?
 - Producto en castellano
-- Qué aventuras totales aguardan a nuestros héroes en Chuchelandia?
+- Qué princesa habrá raptado el rey Hielo esta vez?
 - Quién ha soltado la última bomba de drama?
+- Qué aventuras totales aguardan a nuestros héroes en Chuchelandia?
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B075DHR3F7/?tag=tolees-21)

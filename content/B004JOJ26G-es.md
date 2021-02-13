@@ -29,9 +29,9 @@ Está [Seiko - Reloj Pulsar - Hombre PT3003X1](https://www.amazon.es/dp/B004JOJ2
 ℹ️:
 
 - - Forma de la Carcasa: Redondo
-- Carcasa
-- - Función de la Luneta: Escala de Minutos
 - - Color de la caja: Plata
+- - Función de la Luneta: Escala de Minutos
 - - Material de la Carcasa: Acero Inoxidable (bruñido), Acero Inoxidable (bruñido/cepillado)
+- Carcasa
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B004JOJ26G/?tag=tolees-21)

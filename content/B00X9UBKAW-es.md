@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Garnier Original Remedies Oliva Mítica m al 29.16 % de rebaja'
-date: 2021-02-09 14:12:03
+date: 2021-02-13 22:31:06
 image: 'https://m.media-amazon.com/images/I/41wfp6eRKxL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'GARNIER'
 buyurl: 'https://www.amazon.es/dp/B00X9UBKAW/?tag=tolees-21'
 descuento: '29.16'
-average: '2.92230769230769'
+average: '2.92466666666667'
 ---
 
 Tienes [Garnier Original Remedies Oliva Mítica mascarilla capilar pelo seco - 300 ml](https://www.amazon.es/dp/B00X9UBKAW/?tag=tolees-21) con precio final de  2.94 EUR (original: 4.15 EUR) (29.16 %  de rebaja) aqui!

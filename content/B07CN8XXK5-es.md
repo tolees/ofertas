@@ -28,9 +28,9 @@ Tienes [Crocs Crocband III Slide  Sandalias de Punta Descubierta Unisex Adulto  
 
 ℹ️:
 
-- Material exterior: Caucho
-- Revestimiento: Sin forro
 - Material de la suela: EVA
+- Revestimiento: Sin forro
+- Material exterior: Caucho
 - Cierre: Sin cordones
 - Composición: Caucho
 

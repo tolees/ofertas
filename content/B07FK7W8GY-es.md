@@ -28,10 +28,10 @@ En este momento está [Seiko Reloj Cronógrafo para Hombre de Cuarzo con Correa 
 
 🔎:
 
-- Cronógrafo en acero inoxidable para hombre
-- Wr 100mt
 - Cuarzo
-- Blanco y Metálico
+- Cronógrafo en acero inoxidable para hombre
 - Casual
+- Wr 100mt
+- Blanco y Metálico
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07FK7W8GY/?tag=tolees-21)

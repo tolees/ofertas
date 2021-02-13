@@ -28,10 +28,10 @@ Tienes [Seiko Reloj Analógico para Hombre de Cuarzo con Correa en Cuero SSB275P
 
 🔎:
 
-- Cronógrafo en Piel para Hombre
 - Cuarzo
-- Gris oscuro y Marrón
-- Casual
 - WR 100mt
+- Cronógrafo en Piel para Hombre
+- Casual
+- Gris oscuro y Marrón
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B074ZCWBFS/?tag=tolees-21)
