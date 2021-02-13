@@ -28,12 +28,12 @@ En este momento está [AEG LX7-2-CR-A Aspiradora de Trineo Sin Bolsa Cepillo Mas
 
 🔎:
 
-- Cepillo Turbo: Con cepillo giratorio para la limpieza en profundidad de alfombras y moquetas
-- La regulación de potencia permite utilizar la que necesites en función de la superficie; De esta manera puedes aspirar sin molestar a los demás y ahorrar energía
-- Gran depósito de polvo con capacidad de 1.43L fácil e higiénico de vaciar, gracias al fácil sistema de apertura
-- El silencio como prioridad: La combinación del motor junto al cepillo silencioso garantizan una limpieza silenciosa sin que el rendimiento se vea afectado
 - Cepillo especial para aspirar con facilidad sobre suelos delicados como baldosas, parquet, gres, madera, mármol
-- Con potencia de 750W; Limpia sin esfuerzo en varias habitaciones, de una pasada, gracias a su cable de laergo alcance de 9 metros
 - Sistema que filtra el aire, garantiza que no se escape polvo al exterior, reteniendo todo tipo de micropartículas, ácaros y alérgenos
+- Gran depósito de polvo con capacidad de 1.43L fácil e higiénico de vaciar, gracias al fácil sistema de apertura
+- La regulación de potencia permite utilizar la que necesites en función de la superficie; De esta manera puedes aspirar sin molestar a los demás y ahorrar energía
+- Con potencia de 750W; Limpia sin esfuerzo en varias habitaciones, de una pasada, gracias a su cable de laergo alcance de 9 metros
+- Cepillo Turbo: Con cepillo giratorio para la limpieza en profundidad de alfombras y moquetas
+- El silencio como prioridad: La combinación del motor junto al cepillo silencioso garantizan una limpieza silenciosa sin que el rendimiento se vea afectado
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0748MDVV8/?tag=tolees-21)

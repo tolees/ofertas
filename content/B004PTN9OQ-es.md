@@ -30,8 +30,8 @@ Tienes [agipa Apli - Máquina etiquetadora 2 líneas 10 caracteres](https://www.
 
 - ¡Nota! La máquina etiquetadora es solo numérica, sin letras
 - Tipo de conectividad: USB
-- Tecnología de la impresora: Láser
-- Factor de forma: Copiar
 - Output impresora: Monocromo
+- Factor de forma: Copiar
+- Tecnología de la impresora: Láser
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B004PTN9OQ/?tag=tolees-21)

@@ -29,8 +29,8 @@ Tienes [New Balance Ryval Run  Zapatillas para Correr Mujer  Rosa  Peach Soda   
 ℹ️:
 
 - El inserto NB Comfort ofrece amortiguación adicional
+- La amortiguación IMEVA de contacto con el suelo aumenta la comodidad sin añadir peso extra
 - Entresuela de EVA
 - Parte superior de malla/sintético
-- La amortiguación IMEVA de contacto con el suelo aumenta la comodidad sin añadir peso extra
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07S2SPHL5/?tag=tolees-21)

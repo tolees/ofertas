@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas FIT Suit 3S Traje de Baño  Mujer  al 47.33 % de rebaja'
-date: 2021-02-02 11:30:51
+date: 2021-02-13 11:08:44
 image: 'https://m.media-amazon.com/images/I/41x0HjR4HjL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Tienes [adidas FIT Suit 3S Traje de Baño  Mujer  Black/White  32](https://www.a
 
 🔎:
 
+- Swimsuit
 - Chlorine-resistant fabric
 - Shoulder straps crossed on the back
-- Swimsuit
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07KP2YGK4/?tag=tolees-21)

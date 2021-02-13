@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.91 % en Tommy Hilfiger TJM Classics Solid Stretc'
-date: 2021-01-26 12:46:19
+date: 2021-02-13 11:44:00
 image: 'https://m.media-amazon.com/images/I/31RJxweeUAL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Tommy Hilfiger TJM Classics Solid Stretch Polo  Negro  Black   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Tommy Hilfiger'
 buyurl: 'https://www.amazon.es/dp/B07W1VLYC5/?tag=tolees-21'
 descuento: '50.91'
 average: '27.0'
@@ -27,9 +28,9 @@ Tienes [Tommy Hilfiger TJM Classics Solid Stretch Polo  Negro  Black   Small par
 
 ℹ️:
 
-- Detalles distintivos de Tommy Jeans
 - Parche con el logo de Tommy Jeans en el pecho
-- Tapeta de dos botones
 - Piqué de algodón orgánico elástico
+- Detalles distintivos de Tommy Jeans
+- Tapeta de dos botones
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07W1VLYC5/?tag=tolees-21)

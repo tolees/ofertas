@@ -28,10 +28,10 @@ Tienes [Solgar Vitamina B6 100 mg Cápsulas vegetales - Envase de 100  E3110 ](h
 
 ℹ️:
 
-- Estimula la formación de los glóbulos rojos
 - Aumenta el nivel de energía, reduciendo el cansancio y la fatiga
+- Estimula la formación de los glóbulos rojos
 - Regula la actividad hormonal
-- Fortalece sistema inmunitario
 - Favorece el equilibrio mental sano
+- Fortalece sistema inmunitario
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000URWWMW/?tag=tolees-21)

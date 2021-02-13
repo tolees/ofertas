@@ -29,9 +29,9 @@ Está [Bosch Home and Garden - Bosch Hidrolimpiadora de Alta Presión UniversalA
 ℹ️:
 
 - Mayor comodidad y almacenamiento compacto gracias a la empuñadura extraíble y a su asa de transporte adicional
-- Mayor rendimiento de limpieza gracias a la boquilla 3 en 1 que aúna chorro plano, chorro rotatorio y chorro recto
-- Hidrolimpiadora de alta presión UniversalAquatak 135 para limpiar con potencia hasta 135 bares de presión
-- Incluye: UniversalAquatak 135, pistola Bosch, manguera 7 metros, boquilla 3 en 1 (recto, rotativo y abanico), boquilla detergente 450 ml, filtro transparente
 - Herramientas de la serie Universal de Bosch: flexibilidad y potencia con soluciones inteligentes para múltiples proyectos
+- Mayor rendimiento de limpieza gracias a la boquilla 3 en 1 que aúna chorro plano, chorro rotatorio y chorro recto
+- Incluye: UniversalAquatak 135, pistola Bosch, manguera 7 metros, boquilla 3 en 1 (recto, rotativo y abanico), boquilla detergente 450 ml, filtro transparente
+- Hidrolimpiadora de alta presión UniversalAquatak 135 para limpiar con potencia hasta 135 bares de presión
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06XRDTQFP/?tag=tolees-21)

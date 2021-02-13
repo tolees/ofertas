@@ -28,10 +28,10 @@ Tienes [adidas Originals Stan Smith  Zapatillas de Deporte Unisex Adulto  Blanco
 
 🔎:
 
-- Logotipo de adidas en la lengüeta y el talón.
 - Revestimiento sintético sintético y textil transpirable
-- Suela de goma tonal para un buen agarre
+- Logotipo de adidas en la lengüeta y el talón.
 - Panel de malla alrededor del tobillo.
 - Cómodo forro textil.
+- Suela de goma tonal para un buen agarre
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00LUIKTN4/?tag=tolees-21)
