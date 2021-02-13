@@ -28,9 +28,9 @@ En este momento está [Tesura Games - GI-JOE: Operation Blackout](https://www.am
 
 🔎:
 
-- MULTIPLICADOR CO-OP & PVP: Juega la campaña con un amigo en una cooperativa local, o compite en partidos locales PvP de 4 jugadores en 4 Modos Multijugador: Capturar la bandera, Asalto, Rey de la colina, y Arena de la muerte
-- FRANQUICIA LEGENDARIA: Controla los icónicos tanques G.I: joe Persuader y Cobra H.I.S.S: en tu batalla a través de lugares clásicos como el USS Flagg y el Cuartel General de Cobra
-- G.I: jOE VS COBRA: Juega con 12 de tus personajes favoritos de ambos bandos, incluyendo Snake Eyes, Duke, Roadblock, Storm Shadow, Cobra Commander, Destro y más en PvP de hasta 4 jugadores a través de 17 misiones de historia de campaña épica
 - HERRAMIENTAS DE COMBATE: Lucha por tu lado con 18 impresionantes armas, 36 skins de armas, 12 skins de personajes alternativos y una serie de definitivas únicas y devastadoras
+- G.I: jOE VS COBRA: Juega con 12 de tus personajes favoritos de ambos bandos, incluyendo Snake Eyes, Duke, Roadblock, Storm Shadow, Cobra Commander, Destro y más en PvP de hasta 4 jugadores a través de 17 misiones de historia de campaña épica
+- FRANQUICIA LEGENDARIA: Controla los icónicos tanques G.I: joe Persuader y Cobra H.I.S.S: en tu batalla a través de lugares clásicos como el USS Flagg y el Cuartel General de Cobra
+- MULTIPLICADOR CO-OP & PVP: Juega la campaña con un amigo en una cooperativa local, o compite en partidos locales PvP de 4 jugadores en 4 Modos Multijugador: Capturar la bandera, Asalto, Rey de la colina, y Arena de la muerte
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08GN528GR/?tag=tolees-21)

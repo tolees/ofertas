@@ -28,8 +28,8 @@ Ahora mismo tienes [Kids Licensing PW16268 - Reloj Digital de Paw Patrol](https:
 
 🔎:
 
-- Con la imagen de la Patrulla Canina
 - Con 4 botones de ajuste
+- Con la imagen de la Patrulla Canina
 - Visualización de fecha y hora
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01N2OACTY/?tag=tolees-21)

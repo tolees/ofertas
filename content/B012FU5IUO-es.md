@@ -28,10 +28,10 @@ Tienes [PANOZON Nuevo Corpiño de Encaje para Mujer de Corsés de Cuerpo de Lenc
 
 ℹ️:
 
-- No dude en contactarnos si tiene cualquier problema. Estamos a su disposición.
 - Diseño: Corset sexy sin armazón, material cómodo. Corpiños con cremallera delantera y cordones traseros. La cinta trasera es ajustable para que su cuerpo disfrute del estado más cómodo.
-- Cuidados: Es mejor lavar con mano en agua fría y colocar en un lugar bien ventilado para secar. No usar lejía / blanqueador. Le recomendamos pedir 1 talla menos de su talla habitual en caso de dudas.
-- PANOZON tiene su propia marca. Nuestra tienda hay varios estilos de ropa. Si quiere ver otro, podría hacer clic en "PANOZON". Bienvenidos a su compra.
 - Ocasiones: Ofrecer el mayor control de cintura y abdomen, le hace más delgada. Diseñado para mostrar su figura perfectamente. Es ampliamente utilizado en la boda, baile, fiesta de Navidad, discotecas, cosplay, el desempeño en el escenario, etc. Buen regalo para los fanes de estilo clásico y gótico.
+- PANOZON tiene su propia marca. Nuestra tienda hay varios estilos de ropa. Si quiere ver otro, podría hacer clic en "PANOZON". Bienvenidos a su compra.
+- Cuidados: Es mejor lavar con mano en agua fría y colocar en un lugar bien ventilado para secar. No usar lejía / blanqueador. Le recomendamos pedir 1 talla menos de su talla habitual en caso de dudas.
+- No dude en contactarnos si tiene cualquier problema. Estamos a su disposición.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B012FU5IUO/?tag=tolees-21)

@@ -28,10 +28,10 @@ Tienes [STANLEY 1-70-326 - Taller móvil 3 en 1](https://www.amazon.es/dp/B00APG
 
 🔎:
 
-- Caja de herramientas extraíble con dos compartimentos de la tapa
-- Conexión segura de unidades con hebillas de metal
 - Mango telescópico y cierres metálicos
-- Dispone de ruedas de 17.8 cm
+- Caja de herramientas extraíble con dos compartimentos de la tapa
 - Organizador extraíble entre la caja de herramietas y el contenedor inferior
+- Conexión segura de unidades con hebillas de metal
+- Dispone de ruedas de 17.8 cm
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00APG6PT4/?tag=tolees-21)

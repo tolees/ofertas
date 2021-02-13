@@ -28,9 +28,9 @@ Tienes [Tommy Hilfiger TJM Classics Solid Stretch Polo  Negro  Black   Small par
 
 ℹ️:
 
-- Parche con el logo de Tommy Jeans en el pecho
-- Piqué de algodón orgánico elástico
-- Detalles distintivos de Tommy Jeans
 - Tapeta de dos botones
+- Piqué de algodón orgánico elástico
+- Parche con el logo de Tommy Jeans en el pecho
+- Detalles distintivos de Tommy Jeans
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07W1VLYC5/?tag=tolees-21)
