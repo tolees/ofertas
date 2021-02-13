@@ -29,8 +29,8 @@ En este momento está [Casio Reloj Unisex HS-80TW-1EF](https://www.amazon.es/dp/
 🔎:
 
 - Incluye cronómetro, Lap Memory 100, temporizador, 12 alarmas diarias
+- La duración de la batería es de 5 años
 - Tiene función de árbitro y calendario automático
 - Resistente al agua hasta 5 bar / 50 metros
-- La duración de la batería es de 5 años
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B001JJ8ZLC/?tag=tolees-21)

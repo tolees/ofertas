@@ -28,9 +28,9 @@ En este momento está [HP Sprocket 2 en 1 - Impresora portátil para smartphone 
 
 🔎:
 
-- O imprime fotos instantáneas con la cámara integrada
-- Compatible con la app HP Sprocket
 - Imprime al momento las fotos de tu móvil
+- Compatible con la app HP Sprocket
+- O imprime fotos instantáneas con la cámara integrada
 - Completamente portátil, se conecta mediante Bluetooth
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0765B8DMN/?tag=tolees-21)
