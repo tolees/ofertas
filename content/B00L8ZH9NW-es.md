@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Warner Bros Interactive Spain - Pack Los al 35.01 % de rebaja'
-date: 2021-02-08 14:28:10
+date: 2021-02-13 19:03:06
 image: 'https://m.media-amazon.com/images/I/51NUO-Z4QjL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Warner Bros Interactive Spain'
 buyurl: 'https://www.amazon.es/dp/B00L8ZH9NW/?tag=tolees-21'
 descuento: '35.01'
-average: '68.13625'
+average: '68.157'
 ---
 
 Tienes [Warner Bros Interactive Spain - Pack Los Soprano Temporada 1-6 Blu-Ray [Blu-ray]](https://www.amazon.es/dp/B00L8ZH9NW/?tag=tolees-21) con precio final de  68.24 EUR (original: 105.0 EUR) (35.01 %  de rebaja) aqui!

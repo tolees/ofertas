@@ -28,8 +28,8 @@ En este momento está [NIKE M NK Trophy IV JSY SS T-Shirt  Hombre  University Re
 
 🔎:
 
-- Maximum comfort
-- Nike Dry fabric
 - Regular fit
+- Nike Dry fabric
+- Maximum comfort
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07WC673YW/?tag=tolees-21)

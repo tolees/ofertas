@@ -29,8 +29,8 @@ Está [MTNG CAPRI Complementos de Mujer Marrón](https://www.amazon.es/dp/B086M2
 ℹ️:
 
 - Material del interior Textil
+- Material principal Sintetico
 - Altura Tacón Sin Tacón
 - Tipo de cierre Solapa
-- Material principal Sintetico
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B086M2KX6D/?tag=tolees-21)

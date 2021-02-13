@@ -28,11 +28,11 @@ Ahora mismo tienes [De Longhi VBF2 Calentador de Gas  4200 W con termostato Plat
 
 🔎:
 
-- Termostato altamente sensible para la selección y conservación de la temperatura ideal
-- Potencia máxima: 4.200 W
 - Rejilla de protección robusta, ruedecillas para facilitar el desplazamiento
-- Sistema de control variable de la llama, puede ajustarse manual o automáticamente
 - Doble sistema de seguridad exclusivo de DeLonghi que permiten interrumpir inmediatamente el flujo de gas en caso de apagado de la llama
 - Tapa metálica para bombona de gas para ofrecer una máxima protección y resistencia
+- Potencia máxima: 4.200 W
+- Sistema de control variable de la llama, puede ajustarse manual o automáticamente
+- Termostato altamente sensible para la selección y conservación de la temperatura ideal
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00ASJYJI2/?tag=tolees-21)
