@@ -28,8 +28,8 @@ Ahora mismo tienes [JACK & JONES JJIPAUL JJLEATHER BELT NOOS  Cinturón Hombre  
 
 🔎:
 
-- Cinturón de piel de color marrón oscuro. Detalle grabado. Ancho: 4 cm.
 - Marca: Jack&Jones
 - Modelo: 12111286 JACPAUL LEATHER BELT NOOS BLACK COFFEE
+- Cinturón de piel de color marrón oscuro. Detalle grabado. Ancho: 4 cm.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01IBI9NN2/?tag=tolees-21)

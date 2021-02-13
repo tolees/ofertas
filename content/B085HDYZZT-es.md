@@ -28,10 +28,10 @@ Tienes [Zeen Barra de pegamento de acero inoxidable 1 pieza plata doble cabeza p
 
 ℹ️:
 
-- Punta grande: 16 x 8 x 2 mm (largo x ancho x alto)
 - El paquete incluye: 1 barra de pegamento de acero inoxidable
 - Punta (pequeña): 9 x 6 x 1 mm (largo x ancho x alto)
-- Tamaño total: 128 x 8 x 5 mm (largo x ancho x alto)
 - Uso: herramientas de bricolaje de cuero
+- Tamaño total: 128 x 8 x 5 mm (largo x ancho x alto)
+- Punta grande: 16 x 8 x 2 mm (largo x ancho x alto)
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B085HDYZZT/?tag=tolees-21)

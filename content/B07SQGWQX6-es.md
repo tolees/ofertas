@@ -28,12 +28,12 @@ Está [Geox D ANNYTAH C  Bailarinas Mujer  Blanco  White/Blue C0006   36 EU](htt
 
 ℹ️:
 
-- Altura del tacón: 2 centímetros
-- Cierre: Sin cordones
-- Material de la suela: Sintético
-- Revestimiento: Sintético
 - Material exterior: Sintético
-- Tipo de tacón: Plano
+- Altura del tacón: 2 centímetros
+- Material de la suela: Sintético
 - Tipo de talla: Te informamos que los zapatos Geox son holgados, te recomendamos elegir media talla menos con respecto a tu talla habitual
+- Revestimiento: Sintético
+- Tipo de tacón: Plano
+- Cierre: Sin cordones
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07SQGWQX6/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MTNG CAPRI Complementos de Mujer Marrón al 51.95 % de descuento'
-date: 2021-02-12 11:32:51
+date: 2021-02-13 17:59:00
 image: 'https://m.media-amazon.com/images/I/314m-G66yAL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -29,8 +29,8 @@ Está [MTNG CAPRI Complementos de Mujer Marrón](https://www.amazon.es/dp/B086M2
 ℹ️:
 
 - Material del interior Textil
-- Tipo de cierre Solapa
 - Altura Tacón Sin Tacón
 - Material principal Sintetico
+- Tipo de cierre Solapa
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B086M2KX6D/?tag=tolees-21)
