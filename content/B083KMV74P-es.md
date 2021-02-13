@@ -28,10 +28,10 @@ Tienes [IKOHS Create Fryer Air Pro Freidora sin Aceite  Cocina sin Aceite  8 Pro
 
 🔎:
 
-- Freidora de diseño con acabados elegantes y de primera calidad, con 1500W de potencia, al servicio de tus necesidades en la cocina diaria. Control de temperatura ajustable de 80 a 200c°.
-- Con 8 programas preinstalados: Patatas fritas, Costillar, Pescado, Gambas, Muslo Pollo, Pasteles, Pollo, Pan y 1 programa manual, te permite cocinar de forma sana pero con todo el sabor de los alimentos como si estuviesen fritos.
-- Con la Freidora sin aceite 1500W podras freír tus alimentos sin usar aceites ni grasas, gracias a la Tecnología de Aire Caliente gana en salud, tiempo y bienestar
-- Display digital Soft Touch, para controlar el tiempo y la temperatura de cocción de los alimentos, es un electrodoméstico fácil e intuitivo de programar. Además incluye sistemas de seguridad por sobrecalentamiento o Auto-OFF. "
 - Recipiente de 1,5 L y cestillo para freír sin aceite hasta 500gr de patatas u otros alimentos. Funciona sin aceite o con sólo una cucharadita, como más te guste, y consigue unos resultados sabrosos y crujientes, sin renunciar a tu salud.
+- Display digital Soft Touch, para controlar el tiempo y la temperatura de cocción de los alimentos, es un electrodoméstico fácil e intuitivo de programar. Además incluye sistemas de seguridad por sobrecalentamiento o Auto-OFF. "
+- Freidora de diseño con acabados elegantes y de primera calidad, con 1500W de potencia, al servicio de tus necesidades en la cocina diaria. Control de temperatura ajustable de 80 a 200c°.
+- Con la Freidora sin aceite 1500W podras freír tus alimentos sin usar aceites ni grasas, gracias a la Tecnología de Aire Caliente gana en salud, tiempo y bienestar
+- Con 8 programas preinstalados: Patatas fritas, Costillar, Pescado, Gambas, Muslo Pollo, Pasteles, Pollo, Pan y 1 programa manual, te permite cocinar de forma sana pero con todo el sabor de los alimentos como si estuviesen fritos.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B083KMV74P/?tag=tolees-21)
