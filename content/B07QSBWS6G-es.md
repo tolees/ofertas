@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko - Pop! Disney: Frozen 2 - Anna Fig al 43.40 % de descuento'
-date: 2021-02-11 17:42:16
+date: 2021-02-12 23:15:04
 image: 'https://m.media-amazon.com/images/I/417bOIx+FUL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Funko'
 buyurl: 'https://www.amazon.es/dp/B07QSBWS6G/?tag=tolees-21'
 descuento: '43.40'
-average: '11.1664285714285'
+average: '11.1369767441859'
 ---
 
 Está [Funko - Pop! Disney: Frozen 2 - Anna Figurina  Multicolor  40886 ](https://www.amazon.es/dp/B07QSBWS6G/?tag=tolees-21) con 43.40 de descuento por 9.9 EUR (original: 17.49 EUR) en el siguiente enlace!
@@ -30,8 +30,8 @@ Está [Funko - Pop! Disney: Frozen 2 - Anna Figurina  Multicolor  40886 ](https:
 
 - Descúbre otras figuras de la colección disney y colecciónalas todas
 - Anna
-- Disney frozen 2
 - La figura mide 9 cm y se envía en una caja ilustrada con ventana
 - De la colección frozen 2, anna como figura de vinilo pop de funko
+- Disney frozen 2
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07QSBWS6G/?tag=tolees-21)

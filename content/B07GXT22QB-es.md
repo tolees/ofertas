@@ -28,8 +28,8 @@ Ahora mismo tienes [Skip Detergente Líquido Active Clean - 50 Lavados](https://
 
 🔎:
 
-- 1. Consigue con Skip Active clean, una colada con sensación de recién lavado que dura por más tiempo.
-- 3. Perdura hasta el siguiente lavado.
 - 2. Gracias a su fórmula descubrirás una frescura y sensación de recién lavado
+- 3. Perdura hasta el siguiente lavado.
+- 1. Consigue con Skip Active clean, una colada con sensación de recién lavado que dura por más tiempo.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07GXT22QB/?tag=tolees-21)

@@ -28,10 +28,10 @@ Tienes [G-STAR RAW Base R T S/s 2-Pack Camiseta  Gris  Grey Htr 906   XS para Ho
 
 🔎:
 
-- Manga corta
+- Bordado de G-Star RAW en el pecho
 - Bordado de G-Star RAW en el pecho
 - Bajo recto
-- Bordado de G-Star RAW en el pecho
+- Manga corta
 - Paquete de dos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B071NMG4PM/?tag=tolees-21)

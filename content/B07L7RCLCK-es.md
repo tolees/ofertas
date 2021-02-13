@@ -28,10 +28,10 @@ Ahora mismo tienes [Urban Care  Champú en Seco Dry](https://www.amazon.es/dp/B0
 
 🔎:
 
-- ✅ NO TESTADO EN ANIMALES: Cruelty Free, no testado en animales.
-- ✅ NO NECESITA AGUA: Este champú limpia tu cabello sin necesidad de agua, utílizalo en cualquier momento con la máxima comodidad.
 - ✅ CHAMPÚ EN SECO: Este champú en seco con aroma fresco y agradable refresca tu cabello entre lavado y lavado, dando sensación de limpieza y frescura. Además es un producto vegano.
-- ✅ MODO DE EMPLEO: Agitar el spray y aplicar a unos 30 cm aproximadamente en la raiz del cabello. Masajea un poco, peina y dale forma.
+- ✅ NO NECESITA AGUA: Este champú limpia tu cabello sin necesidad de agua, utílizalo en cualquier momento con la máxima comodidad.
 - ✅ APTO PARA TODO TIPO DE CABELLOS: Este champú en seco es ideal para cualquier tipo de cabello.
+- ✅ MODO DE EMPLEO: Agitar el spray y aplicar a unos 30 cm aproximadamente en la raiz del cabello. Masajea un poco, peina y dale forma.
+- ✅ NO TESTADO EN ANIMALES: Cruelty Free, no testado en animales.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07L7RCLCK/?tag=tolees-21)
