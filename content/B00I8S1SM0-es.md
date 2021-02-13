@@ -28,9 +28,9 @@ Tienes [Bosch Home and Garden - Bosch Cortacésped ARM 32  1200 Watt  Ancho de c
 
 ℹ️:
 
-- Fácil de manejar y transportar, con un peso de solo 6.8 kg
-- La caja colectora con 31 L de capacidad, no necesita ser vaciada con frecuencia. Además, el motor Powerdrive de 1200 W permite trabajar sin esfuerzo incluso con césped alto
 - Con ajuste de altura de corte en tres niveles (20/40/60 mm); con innovadores peines para césped que permiten cortar a ras en las proximidades de muros, paredes y bordes
+- La caja colectora con 31 L de capacidad, no necesita ser vaciada con frecuencia. Además, el motor Powerdrive de 1200 W permite trabajar sin esfuerzo incluso con césped alto
+- Fácil de manejar y transportar, con un peso de solo 6.8 kg
 - Incluye: ARM 32, caja colectora de 31 L, caja de cartón (3165140785815)
 - ARM 32: el potente cortacésped multiusos
 

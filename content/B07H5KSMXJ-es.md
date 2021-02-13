@@ -28,10 +28,10 @@ Tienes [Easy@Home Equipo TENS Inalámbrico Compacto Recargable Estimulador Muscu
 
 ℹ️:
 
-- 🍀FÁCIL de CONTROLAR: Opciones de 6 Programas de Masajes Automáticos y 20 Niveles de Poder para la Intensidad. Solo 2 botones para controlar, solo encienda el equipo presionando el botón on/off y ajuste la intensidad presionando “﹢” o “-”. Un par de Almohadilla Electrodos en Gel está incluido.
-- 🍀SEGURIDAD: NO utilice el producto si tiene un marcapasos cardiaco o una enfermedad cardiaca, dispositivos o tornillos de metal implantados o áreas del cuerpo con tornillos o sufre de epilepsia. Por favor lea las advertencias de seguridad antes de comprar.
-- 🍀RECARGABLE: La batería de litio recargable le proporciona a este equipo profesional energía duradera. NOTA: Por favor CARGUE el equipo antes de su primer uso. Ciclo de 20 minutos con función de apagado automático.
 - 🍀INALÁMBRICO y SIN DISEÑO DE CONTROL REMOTO: El diseño inalámbrico le permite a los usuarios moverse libremente y llevarlo de forma discreta debajo de la ropa. El diseño compacto sin control remoto hace que sea fácil y cómodo de utilizarlo. Adecuado para usar no solo en casa o en el trabajo sino también en el camino y caminando.
+- 🍀SEGURIDAD: NO utilice el producto si tiene un marcapasos cardiaco o una enfermedad cardiaca, dispositivos o tornillos de metal implantados o áreas del cuerpo con tornillos o sufre de epilepsia. Por favor lea las advertencias de seguridad antes de comprar.
 - 🍀ALIVIO DEL DOLOR NATURAL CON ESTIMULACIÓN MUSCULAR: EQUIPO TENS Natural, libre de droga y muy efectivo para el alivio del dolor con la estimulación muscular.Seguro y altamente efectivo.Ofrecemos almohadillas de electrodo de carbono autoadhesivas reemplazables para PL-029K5.
+- 🍀RECARGABLE: La batería de litio recargable le proporciona a este equipo profesional energía duradera. NOTA: Por favor CARGUE el equipo antes de su primer uso. Ciclo de 20 minutos con función de apagado automático.
+- 🍀FÁCIL de CONTROLAR: Opciones de 6 Programas de Masajes Automáticos y 20 Niveles de Poder para la Intensidad. Solo 2 botones para controlar, solo encienda el equipo presionando el botón on/off y ajuste la intensidad presionando “﹢” o “-”. Un par de Almohadilla Electrodos en Gel está incluido.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07H5KSMXJ/?tag=tolees-21)
