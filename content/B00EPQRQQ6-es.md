@@ -28,9 +28,9 @@ Está [Nixon Reloj Analógico para Hombre de Cuarzo con Correa en Cuero A105-152
 
 ℹ️:
 
+- Correa: piel de 23 mm, hebilla de acero inoxidable
 - Caja: acero inoxidable de 42 mm, 100 M , 10 ATM, cristal mineral endurecido y corona esmaltada de triple junta
 - Mecanismo: cuarzo japonés de 3 agujas con día y fecha
 - Esfera: incluye índices aplicados y agujas moldeadas a medida
-- Correa: piel de 23 mm, hebilla de acero inoxidable
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00EPQRQQ6/?tag=tolees-21)

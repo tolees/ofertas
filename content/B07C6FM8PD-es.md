@@ -28,10 +28,10 @@ En este momento está [ Nueva versión  2018 Rii X8 Mini Teclado inalámbrico  T
 
 🔎:
 
+- Nuevas funciones: botones multimedia, teclas Dirección, botón de encendido, botón izquierdo y derecho, rueda de scroll.
+- Rii X8 2.4GHz Mini teclado inalámbrico QWERTY Español con Touchpad, LED retroiluminado con receptor de interfaz USB
 - Ideal para dispositivos como PC, Notebook, Raspberry Pi 2, Mac OS, Xbox 360, Xbox One, PS3, PS4, Android TV Box, HTPC, IPTV, etc.
 - Cuenta con la función de retroiluminación, que ofrece 8 colores diferentes, puede cambiar fácilmente a su color favorito.
 - Modo de ahorro energético: Si no se presiona ninguna tecla durante 3 minutos, el teclado entra en modo suspension automáticamente.Para reactivarlo pulse cualquier tecla.
-- Rii X8 2.4GHz Mini teclado inalámbrico QWERTY Español con Touchpad, LED retroiluminado con receptor de interfaz USB
-- Nuevas funciones: botones multimedia, teclas Dirección, botón de encendido, botón izquierdo y derecho, rueda de scroll.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07C6FM8PD/?tag=tolees-21)

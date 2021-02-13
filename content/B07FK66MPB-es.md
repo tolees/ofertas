@@ -29,7 +29,7 @@ Está [Seiko Reloj Analogico para Hombre de Cuarzo con Correa en Nailon SGEH83P1
 ℹ️:
 
 - El reloj es resistente al agua hasta 10 bares
-- Modelo con correa de cuero y cierre de hebilla
 - Reloj para hombre marca Seiko
+- Modelo con correa de cuero y cierre de hebilla
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07FK66MPB/?tag=tolees-21)
