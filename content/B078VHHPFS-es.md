@@ -28,8 +28,8 @@ En este momento está [Sony WISP500B  Auriculares  Inalámbrico  Tamaño Único 
 
 🔎:
 
-- Diseño ligero con colocación detrás del cuello y agarre seguro
 - Los diafragmas de tipo abierto de 13.5 mm dejan pasar el sonido ambiente
+- Diseño ligero con colocación detrás del cuello y agarre seguro
 - Libertad inalámbrica con la tecnología Bluetooth y NFC
 - Resistente al sudor y a las salpicaduras con un índice IPX4
 - Hasta 8 horas de reproducción

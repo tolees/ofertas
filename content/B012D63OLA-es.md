@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'M3 MEDIATRES ESTUDIO - Gantz: la Saga Co con un 74.94 % de descuento'
-date: 2021-02-13 10:56:46
+date: 2021-02-14 11:08:38
 image: 'https://m.media-amazon.com/images/I/51XaES7+1+L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'M3 MEDIATRES ESTUDIO'
 buyurl: 'https://www.amazon.es/dp/B012D63OLA/?tag=tolees-21'
 descuento: '74.94'
-average: '11.4042105263158'
+average: '11.2628571428571'
 ---
 
 En este momento está [M3 MEDIATRES ESTUDIO - Gantz: la Saga Completa](https://www.amazon.es/dp/B012D63OLA/?tag=tolees-21) a 9.92 EUR (original: 39.59 EUR) (74.94 %  de descuento) en el siguiente enlace!

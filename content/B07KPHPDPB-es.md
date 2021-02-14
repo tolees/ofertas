@@ -28,9 +28,9 @@ Ahora mismo tienes [Funko - Pop! Shazam! - Figura de Vinilo Mary](https://www.am
 
 🔎:
 
-- Fabricada en vinilo
-- Figura Mary de Shazam (NYTF)
-- Presentada en una caja con ventana
 - Con una medida de 9.5 cm
+- Fabricada en vinilo
+- Presentada en una caja con ventana
+- Figura Mary de Shazam (NYTF)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07KPHPDPB/?tag=tolees-21)

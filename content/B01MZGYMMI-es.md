@@ -28,10 +28,10 @@ Está [Calvin Klein Demi Unlined Sujetador  Negro  Black 001   75D  Talla del fa
 
 ℹ️:
 
-- Cierre con gancho doble en la parte trasera
 - Sin relleno
-- Tirantes ajustables en los hombros
 - Punto de microfibra
 - Tela transparente
+- Cierre con gancho doble en la parte trasera
+- Tirantes ajustables en los hombros
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01MZGYMMI/?tag=tolees-21)

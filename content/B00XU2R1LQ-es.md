@@ -29,8 +29,8 @@ Está [Felix - Party Mix Ocean  60 g](https://www.amazon.es/dp/B00XU2R1LQ/?tag=t
 ℹ️:
 
 - su fórmula de defensa dual funciona en paralelo en el interior, ayudando a mantener la producción natural de anticuerpos de tu gato, y en el exterior manteniendo piel y pelaje saludables
-- sin colorantes añadidos, sin aromatizantes artificiales añadidos ni conservantes artificiales añadidos
-- 100% completo y equilibrado
 - Se han cumplido estándares de calidad para garantizar una excelente experiencia al cliente.
+- 100% completo y equilibrado
+- sin colorantes añadidos, sin aromatizantes artificiales añadidos ni conservantes artificiales añadidos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00XU2R1LQ/?tag=tolees-21)
