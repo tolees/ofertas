@@ -28,10 +28,10 @@ Ahora mismo tienes [Microsoft - State Of Decay 2](https://www.amazon.es/dp/B01H0
 
 🔎:
 
-- Progresión RPG
-- Verdadera supervivencia en 4K
-- Una aventura en mundo abierto
-- Multijugador cooperativo de cuatro jugadores
 - Tus elecciones definen tu historia de supervivencia
+- Multijugador cooperativo de cuatro jugadores
+- Una aventura en mundo abierto
+- Verdadera supervivencia en 4K
+- Progresión RPG
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01H0X2XXG/?tag=tolees-21)

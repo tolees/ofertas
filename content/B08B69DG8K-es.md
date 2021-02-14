@@ -28,10 +28,10 @@ En este momento está [HAWKERS Lust Sunglasses  TWILIGHT  One Size Unisex-Adult]
 
 🔎:
 
-- Montura fabricada en acero inoxidable, altamente resistentes; con puente abierto de doble barra y terminales de TR90; sus almohadillas de silicona son antideslizantes y anti-alérgicas
 - Producto original Hawkers; la caja incluye funda de microfibra, caja y set de pegatinas decorativas
-- Este modelo combina fusión de estructuras metálicas en color oro rosa y negro, con lentes negras y rosas efecto degradé y terminales en negro brillo
-- Gafas de sol Nº9, Unisex, de diseño metálico redondeado con puente muy amplio, lo que dota a este modelo de personalidad propia
 - Medidas: Frente: 14,6 cm, Altura: 4,9 cm, Diámetro de la lente: 5,2 cm; Puente: 1,5 cm; Varillas: 14,5 cm
+- Este modelo combina fusión de estructuras metálicas en color oro rosa y negro, con lentes negras y rosas efecto degradé y terminales en negro brillo
+- Montura fabricada en acero inoxidable, altamente resistentes; con puente abierto de doble barra y terminales de TR90; sus almohadillas de silicona son antideslizantes y anti-alérgicas
+- Gafas de sol Nº9, Unisex, de diseño metálico redondeado con puente muy amplio, lo que dota a este modelo de personalidad propia
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08B69DG8K/?tag=tolees-21)

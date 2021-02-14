@@ -29,9 +29,9 @@ Tienes [Rii K18 Plus -Teclado inalámbrico touchpad con 3 Colores LED  batería 
 🔎:
 
 - This is wireless 2.4 GHz QWERTY portable multimedia big size 3 LED backlit keyboard and touchpad combo with USB receiver packed.
-- This keyboard has a new breakthrough in supporting multimedia control key from F1 to F10.and also make a breakthrough in indicators by adding Low power and CAPLOCK indicators except traditional Riis keyboard charging and RF wireless indicators.
-- Generally, this keyboard can work well on the smart TV, but different smart TV have different system, Especially Samsung Smart TV, so we can not make sure that this keyboard can compatible with any system, before you order, you can use the common wired keyboard and mouse on your device if they can work well, the keyboard and mouse combo can work well, too.
 - Built-in high sensitive smart touchpad with design.Single click as left mouse,and double click as right mouse,press the F5 can disable or enable touchpad function.Auto sleep for saving battery, clicking on any key to activate,please know that there have two models of auto sleep function(3 minis and 2 hours),which you can press the FN+ESC to convert the two model
 - Innovative shape, Portable, elegant, Built-in rechargeable Lithium-ion battery perfect for PC, Tablet, Laptop, Raspberry PI 2/3,IOS,MacOS,Linux,HTPC,IPTV,Google Smart TV Andriod Box, KODI XBMC, Windows 2000 XP Vista 7 8 10
+- Generally, this keyboard can work well on the smart TV, but different smart TV have different system, Especially Samsung Smart TV, so we can not make sure that this keyboard can compatible with any system, before you order, you can use the common wired keyboard and mouse on your device if they can work well, the keyboard and mouse combo can work well, too.
+- This keyboard has a new breakthrough in supporting multimedia control key from F1 to F10.and also make a breakthrough in indicators by adding Low power and CAPLOCK indicators except traditional Riis keyboard charging and RF wireless indicators.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07SDMPZ4V/?tag=tolees-21)

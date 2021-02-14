@@ -28,8 +28,8 @@ Ahora mismo tienes [Hurley Premium Icon Slash Gradient tee Camiseta de Manga Cor
 
 🔎:
 
+- Tejido premium.
 - Estampado de tacto suave.
 - Lisos: 100 % algodón. Jaspeados: 52 % algodón/48 % poliéster.
-- Tejido premium.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07KCWNFZL/?tag=tolees-21)

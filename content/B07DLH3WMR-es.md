@@ -28,10 +28,10 @@ En este momento está [Redken - Champú Color Extend Blondage para Mantener el T
 
 🔎:
 
-- Enriquecido con tecnología Kera-Brigth system que aporta equilibrio, tono y cuidado gracias a su complejo de aceites y al cabello
-- Redken, la gama de productos de peluquería de referencia gracias a su tecnología, el PH ácido de sus productos y la recomendación de cosmetólogos tiulados
+- Tras la aplicación, el cabello se ve más tonificado y suave recuperando visiblemente el brillo y un rubio frío helado gracias a la neutralización de su pigmento violeta
 - Aplica con guantes sobre el cabello mojado hasta hacer espuma, aclara bien; para maximizar resultados aplícalo una segunda vez y déjalo actuar entre 3 y 5 minutos
 - Champú para cabello rubio enriquecido con pigmento violeta que neutraliza los tonos cobrizos indeseados devolviendo al cabello un rubio frío
-- Tras la aplicación, el cabello se ve más tonificado y suave recuperando visiblemente el brillo y un rubio frío helado gracias a la neutralización de su pigmento violeta
+- Enriquecido con tecnología Kera-Brigth system que aporta equilibrio, tono y cuidado gracias a su complejo de aceites y al cabello
+- Redken, la gama de productos de peluquería de referencia gracias a su tecnología, el PH ácido de sus productos y la recomendación de cosmetólogos tiulados
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07DLH3WMR/?tag=tolees-21)
