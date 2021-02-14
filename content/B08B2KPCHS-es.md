@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Electronic Arts - FIFA 21 Ultimate | Cód al 61.12 % de descuento'
-date: 2021-02-12 09:51:26
+date: 2021-02-14 19:56:28
 image: 'https://m.media-amazon.com/images/I/41ClgdTP1yL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Electronic Arts'
 buyurl: 'https://www.amazon.es/dp/B08B2KPCHS/?tag=tolees-21'
 descuento: '61.12'
-average: '41.6566666666667'
+average: '39.99'
 ---
 
 Ahora mismo tienes [Electronic Arts - FIFA 21 Ultimate | Código Origin para PC](https://www.amazon.es/dp/B08B2KPCHS/?tag=tolees-21) a 34.99 EUR (original: 89.99 EUR) (61.12 %  de descuento) en el siguiente enlace!

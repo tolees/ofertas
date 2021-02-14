@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Electronic Arts - Command & Conquer Rema al 50.03 % de rebaja'
-date: 2021-02-13 15:19:29
+date: 2021-02-14 19:55:27
 image: 'https://m.media-amazon.com/images/I/5157J-RPPpL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ Tienes [Electronic Arts - Command & Conquer Remastered Collection | Código Orig
 
 🔎:
 
-- Incluye las tres expansiones, un multijugador remodelado, una IU modernizada, un editor de mapas, una galería adicional de cinemáticas y más de 7 horas de música remasterizada de Frank Klepacki.
 - Los miembros del equipo del antiguo Westwood Studios han remasterizado Command & Conquer y Red Alert en 4k en Petroglyph Games
+- Incluye las tres expansiones, un multijugador remodelado, una IU modernizada, un editor de mapas, una galería adicional de cinemáticas y más de 7 horas de música remasterizada de Frank Klepacki.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B085PS9CZQ/?tag=tolees-21)

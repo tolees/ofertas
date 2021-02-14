@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Electronic Arts - FIFA 21 Champions | Có al 68.76 % de rebaja'
-date: 2021-02-12 09:51:17
+date: 2021-02-14 19:56:29
 image: 'https://m.media-amazon.com/images/I/51mGVRFzDeL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Electronic Arts'
 buyurl: 'https://www.amazon.es/dp/B08B2QD4BW/?tag=tolees-21'
 descuento: '68.76'
-average: '37.8233333333333'
+average: '35.99'
 ---
 
 Tienes [Electronic Arts - FIFA 21 Champions | Código Origin para PC](https://www.amazon.es/dp/B08B2QD4BW/?tag=tolees-21) con precio final de  24.99 EUR (original: 79.99 EUR) (68.76 %  de rebaja) aqui!

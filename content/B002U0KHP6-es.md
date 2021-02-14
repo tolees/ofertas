@@ -1,32 +1,36 @@
 ---
 layout: post
-title: 'Casio Reloj para Hombre MTD-1053D-1AVES al 34.18 % de descuento'
-date: 2020-03-22 12:04:54
-image: 'https://m.media-amazon.com/images/I/51VnAnkEARL._SL200_.jpg'
+title: 'Casio Reloj para Hombre MTD-1053D-1AVES al 30.44 % de descuento'
+date: 2021-02-14 19:48:11
+image: 'https://m.media-amazon.com/images/I/41Z9TmQx1SL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B002U0KHP6-es Casio Reloj para Hombre MTD-1053D-1AVES'
 sku: 'B002U0KHP6-es'
 tags: [  ]
-actualPrice: 47.39 EUR
+actualPrice: 50.08 EUR
 currency: EUR
-price: 47.39
+price: 50.08
 comparePrice: 72.0 EUR
 prodname: 'Casio Reloj para Hombre MTD-1053D-1AVES'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Casio'
 buyurl: 'https://www.amazon.es/dp/B002U0KHP6/?tag=tolees-21'
-descuento: '34.18'
-average: '45.894999999999996'
+descuento: '30.44'
+average: '47.9875'
 ---
 
-Está [Casio Reloj para Hombre MTD-1053D-1AVES](https://www.amazon.es/dp/B002U0KHP6/?tag=tolees-21) con 34.18 de descuento por 47.39 EUR (original: 72.0 EUR) en el siguiente enlace!
+Está [Casio Reloj para Hombre MTD-1053D-1AVES](https://www.amazon.es/dp/B002U0KHP6/?tag=tolees-21) con 30.44 de descuento por 50.08 EUR (original: 72.0 EUR) en el siguiente enlace!
 
-[![Casio Reloj para Hombre MTD-1053D-1AVES](https://m.media-amazon.com/images/I/51VnAnkEARL._SL200_.jpg)](https://www.amazon.es/dp/B002U0KHP6/?tag=tolees-21)
+[![Casio Reloj para Hombre MTD-1053D-1AVES](https://m.media-amazon.com/images/I/41Z9TmQx1SL._SL200_.jpg)](https://www.amazon.es/dp/B002U0KHP6/?tag=tolees-21)
 
 ℹ️:
 
+- Cristal mineral, difícil de rayar, que protege el reloj de daños externos
+- Resistente al agua hasta 10 bar / 100 metros
+- Incluye luz LED, cronómetro, temporizador, 5 alarmas diarias y calendario automático
+- Caja y correa de acero inoxidable, resistentes y elegantes
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B002U0KHP6/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Electronic Arts - MASS EFFECT: ANDROMEDA al 66.69 % de rebaja'
-date: 2021-02-12 09:51:18
+date: 2021-02-14 19:55:15
 image: 'https://m.media-amazon.com/images/I/51u5xEc3Z-L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Electronic Arts'
 buyurl: 'https://www.amazon.es/dp/B07NC7KZH4/?tag=tolees-21'
 descuento: '66.69'
-average: '12.49'
+average: '11.6566666666667'
 ---
 
 Tienes [Electronic Arts - MASS EFFECT: ANDROMEDA - Standard | Código Origin para PC](https://www.amazon.es/dp/B07NC7KZH4/?tag=tolees-21) con precio final de  9.99 EUR (original: 29.99 EUR) (66.69 %  de rebaja) aqui!

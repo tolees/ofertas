@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Electronic Arts - BATTLEFIELD 1 - Revolu al 75.02 % de descuento'
-date: 2021-02-12 09:51:42
+date: 2021-02-14 19:55:16
 image: 'https://m.media-amazon.com/images/I/51bkjIrn9+L._SL200_.jpg'
 comments: true
 category: ofertas
