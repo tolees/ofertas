@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 29.01 % en Orbegozo FH 5008 - Calefactor eléctrico '
-date: 2021-02-13 17:02:08
+date: 2021-02-14 17:15:53
 image: 'https://m.media-amazon.com/images/I/31sQB-fOOqL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Orbegozo'
 buyurl: 'https://www.amazon.es/dp/B0055ZNETE/?tag=tolees-21'
 descuento: '29.01'
-average: '15.0331746031746'
+average: '15.0290769230769'
 ---
 
 Tienes [Orbegozo FH 5008 - Calefactor eléctrico con dos niveles de calor y modo ventilador de aire frío  2000 W  Blanco](https://www.amazon.es/dp/B0055ZNETE/?tag=tolees-21) con un 29.01 % de descuento con precio de oferta de 14.9 EUR (original: 20.99 EUR) en el siguiente enlace!
