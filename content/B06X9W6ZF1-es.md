@@ -28,9 +28,9 @@ Está [find. Zapatillas de Piel para Mujer  Negro  Black   37 EU](https://www.am
 
 ℹ️:
 
+- Detalle de nudos
 - Cierre de cordones
 - Doble suela de goma
 - Inerior acolchado
-- Detalle de nudos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06X9W6ZF1/?tag=tolees-21)
