@@ -29,9 +29,9 @@ Ahora mismo tienes [Taurus Alize Evolution - Secador de pelo  2200 W  Negro](htt
 🔎:
 
 - 2200 W de potencia
-- Filtro extraíble
-- 2 velocidades
 - Concentrador
+- 2 velocidades
 - 3 temperaturas y golpe aire frío
+- Filtro extraíble
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01D4WUIA2/?tag=tolees-21)

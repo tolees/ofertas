@@ -28,8 +28,8 @@ Está [Funko Pop! Figura De Vinil Movies: The Purge - Freak Bride  Election Year
 
 ℹ️:
 
-- Figura de colección de la marca Funko
 - Recomendado para niños a partir de 3 años
+- Figura de colección de la marca Funko
 - El producto se envía en una caja ilustrada con ventana
 - El artículo es adecuado para todos los fanáticos de The Purge
 
