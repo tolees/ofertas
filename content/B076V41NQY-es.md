@@ -28,10 +28,10 @@ Está [Amix Gluten Free Oatflakes 1 Kg 1 1000 g](https://www.amazon.es/dp/B076V4
 
 ℹ️:
 
-- Energía de liberación lenta
-- Excelente sabor, limpio
-- Fuente de fibra y de Beta-Glucanos
 - Bajo índice glicémico de carbohidratos
+- Fuente de fibra y de Beta-Glucanos
 - 100% Natural
+- Excelente sabor, limpio
+- Energía de liberación lenta
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B076V41NQY/?tag=tolees-21)

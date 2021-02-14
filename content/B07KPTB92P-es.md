@@ -28,9 +28,9 @@ Ahora mismo tienes [Funko - Pop! Shazam! - Figura de Vinilo Pedro](https://www.a
 
 🔎:
 
+- Figura Pedro de Shazam (NYTF)
 - Presentada en una caja con ventana
 - Con una medida de 9.5 cm
 - Fabricada en vinilo
-- Figura Pedro de Shazam (NYTF)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07KPTB92P/?tag=tolees-21)

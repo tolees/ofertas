@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 33.48 % en Kenu Airframe + - Soporte portátil de sm'
-date: 2021-02-04 22:25:31
+date: 2021-02-14 12:41:47
 image: 'https://m.media-amazon.com/images/I/31bn1KYqPLL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [Kenu Airframe + - Soporte portátil de smartphone o de GPS para coches  
 
 ℹ️:
 
+- Airframe+ se adapta a toda la gama de smartphones y phablets hasta pantallas de 6"
 - Airframe+ es extensible y se adapta a los smartphones y las fundas más grandes
 - Mantén tu smartphone al nivel de tu visión y listo para buscar direcciones por GPS, escuchar música y realizar llamadas en modo manos libres.
-- Airframe+ se adapta a toda la gama de smartphones y phablets hasta pantallas de 6"
 - El agarre giratorio está recubierto de silicona para mantener tu auto libre de rasguños
 - Se coloca en las salidas de aire mediante un agarre giratorio que sujeta el Airframe+ a cualquier tipo de salida de aire : rejillas horizontales, verticales, diagonales, anchas/delgadas
 
