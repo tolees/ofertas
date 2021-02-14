@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'RAMPOW Cargador USB C con Power Delivery con un 48.02 % de descuento'
-date: 2021-02-10 20:13:07
+date: 2021-02-14 16:03:14
 image: 'https://m.media-amazon.com/images/I/313ukzUcv9L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'RAMPOW'
 buyurl: 'https://www.amazon.es/dp/B08DD8TCFL/?tag=tolees-21'
 descuento: '48.02'
-average: '20.99'
+average: '18.99'
 ---
 
 En este momento está [RAMPOW Cargador USB C con Power Delivery 3.0  45W Cargador de Red Cargador de Pared QC 3.0 para iPad Pro 2020/2018  iPhone 11/11 Pro/XS/XS MAX/X/XR  Samsung S20  Huawei Mate 30  Xiaomi y más](https://www.amazon.es/dp/B08DD8TCFL/?tag=tolees-21) a 12.99 EUR (original: 24.99 EUR) (48.02 %  de descuento) en el siguiente enlace!

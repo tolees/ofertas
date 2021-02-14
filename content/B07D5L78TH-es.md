@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'HP 22f - Monitor de 22"  FHD  1920 x 108 con un 36.11 % de descuento'
-date: 2021-01-28 18:59:36
+title: 'HP 22f - Monitor de 22"  FHD  1920 x 108 con un 32.95 % de descuento'
+date: 2021-02-14 16:27:49
 image: 'https://m.media-amazon.com/images/I/41MUaoezyDL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -9,27 +9,28 @@ author: ring
 slug: 'B07D5L78TH-es HP 22f - Monitor de 22" FHD 1920 x 1080 pixeles Tiempo de...'
 sku: 'B07D5L78TH-es'
 tags: [  ]
-actualPrice: 95.2 EUR
+actualPrice: 99.9 EUR
 currency: EUR
-price: 95.2
+price: 99.9
 comparePrice: 149.0 EUR
 prodname: 'HP 22f - Monitor de 22"  FHD  1920 x 1080 pixeles  Tiempo de Respuesta de 5 ms  1 x HDMI  1 x VGA  16:9   Negro y blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: 'HP'
 buyurl: 'https://www.amazon.es/dp/B07D5L78TH/?tag=tolees-21'
-descuento: '36.11'
-average: '100.405'
+descuento: '32.95'
+average: '100.362916666667'
 ---
 
-En este momento está [HP 22f - Monitor de 22"  FHD  1920 x 1080 pixeles  Tiempo de Respuesta de 5 ms  1 x HDMI  1 x VGA  16:9   Negro y blanco](https://www.amazon.es/dp/B07D5L78TH/?tag=tolees-21) a 95.2 EUR (original: 149.0 EUR) (36.11 %  de descuento) en el siguiente enlace!
+En este momento está [HP 22f - Monitor de 22"  FHD  1920 x 1080 pixeles  Tiempo de Respuesta de 5 ms  1 x HDMI  1 x VGA  16:9   Negro y blanco](https://www.amazon.es/dp/B07D5L78TH/?tag=tolees-21) a 99.9 EUR (original: 149.0 EUR) (32.95 %  de descuento) en el siguiente enlace!
 
 [![HP 22f - Monitor de 22"  FHD  1920 x 108](https://m.media-amazon.com/images/I/41MUaoezyDL._SL200_.jpg)](https://www.amazon.es/dp/B07D5L78TH/?tag=tolees-21)
 
 🔎:
 
+- Tecnología AMD FreeSync
 - El modo Low Blue Light cambia sutilmente los colores de la pantalla a una gama más cálida
 - Pantalla Full HD de 1080p con micro-borde
-- Tecnología AMD FreeSync
 - Panel antirreflectante
 - Diseño compacto y elegante
 
