@@ -28,9 +28,9 @@ Está [New Balance 500  Zapatillas  Azul  Navy/Blue BB   33 EU](https://www.amaz
 
 ℹ️:
 
-- Marca: New Balance
+- Prodotto: tenis
 - Color: azul marino
 - Modelo: NBKV500
-- Prodotto: tenis
+- Marca: New Balance
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01NBVCTWB/?tag=tolees-21)

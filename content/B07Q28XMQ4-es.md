@@ -28,10 +28,10 @@ Tienes [ranrann Pantalones Cortos Deportivos para Niña 2-12 Años Elástico Pan
 
 🔎:
 
-- La tabla de tallas se refiere al rango de edad de la niña, pero solo como referencia general
 - Pretina elástica con cuello en V, diseño de sastrería infantil. Color puro, autocultivo, aspecto hermoso
 - Pantalones cortos está hecho de material de poliéster, lavado a mano
 - Adecuado para entrenamiento, gimnasio, fitness, baile, etc
 - Tejido cómodo y transpirable para la piel. Pantalones cortos de moda para tu chica
+- La tabla de tallas se refiere al rango de edad de la niña, pero solo como referencia general
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07Q28XMQ4/?tag=tolees-21)

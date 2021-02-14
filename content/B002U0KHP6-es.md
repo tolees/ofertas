@@ -28,9 +28,9 @@ Está [Casio Reloj para Hombre MTD-1053D-1AVES](https://www.amazon.es/dp/B002U0K
 
 ℹ️:
 
-- Cristal mineral, difícil de rayar, que protege el reloj de daños externos
-- Resistente al agua hasta 10 bar / 100 metros
-- Incluye luz LED, cronómetro, temporizador, 5 alarmas diarias y calendario automático
 - Caja y correa de acero inoxidable, resistentes y elegantes
+- Incluye luz LED, cronómetro, temporizador, 5 alarmas diarias y calendario automático
+- Resistente al agua hasta 10 bar / 100 metros
+- Cristal mineral, difícil de rayar, que protege el reloj de daños externos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B002U0KHP6/?tag=tolees-21)

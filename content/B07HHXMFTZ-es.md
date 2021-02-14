@@ -28,8 +28,8 @@ Ahora mismo tienes [NIKE Team Hustle D 9  PS   Zapatillas Unisex-Child  Blanca  
 
 🔎:
 
-- La espuma suave permite la amortiguación con poco peso.
-- El cómodo acolchado en el talón y el tobillo proporciona amortiguación.
 - El tejido transpirable está provisto de cubiertas resistentes.
+- El cómodo acolchado en el talón y el tobillo proporciona amortiguación.
+- La espuma suave permite la amortiguación con poco peso.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07HHXMFTZ/?tag=tolees-21)

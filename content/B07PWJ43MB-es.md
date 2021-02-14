@@ -28,10 +28,10 @@ En este momento está [Corsair Glaive RGB Pro - Ratón cómodo para Juegos FPS/M
 
 🔎:
 
-- Forma cómoda y contorneada: se ajusta a su mano de forma natural para que pueda seguir jugando durante más tiempo
-- Sensor óptico personalizable de calidad de juego de 18.000 ppp: con incrementos de resolución de 1 ppp para que disfrute de un rendimiento adecuado y fiable
 - Agarres intercambiables para la zona del pulgar: los tres agarres intercambiables incluidos para la zona del pulgar proporcionan un ajuste adaptado a su mano
 - Iluminación RGB dinámica en tres zonas: personalice su experiencia de juego con un amplio abanico de colores y efectos para la retroiluminación RGB
+- Forma cómoda y contorneada: se ajusta a su mano de forma natural para que pueda seguir jugando durante más tiempo
 - Conmutadores Omron de óptimo rendimiento con una vida útil de 50 millones de clics: disfrute de su durabilidad a lo largo de varios años de juego
+- Sensor óptico personalizable de calidad de juego de 18.000 ppp: con incrementos de resolución de 1 ppp para que disfrute de un rendimiento adecuado y fiable
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07PWJ43MB/?tag=tolees-21)

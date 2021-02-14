@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 26.03 % en Nike Tanjun  Zapatillas de Running para '
-date: 2020-09-29 11:36:17
+title: 'Descuento del 38.53 % en Nike Tanjun  Zapatillas de Running para '
+date: 2021-02-14 21:30:46
 image: 'https://m.media-amazon.com/images/I/41hV24iS0pL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -9,24 +9,25 @@ author: ring
 slug: 'B00XWPWYUO-es Nike Tanjun Zapatillas de Running para Hombre Negro...'
 sku: 'B00XWPWYUO-es'
 tags: [  ]
-actualPrice: 48.07 EUR
+actualPrice: 39.95 EUR
 currency: EUR
-price: 48.07
+price: 39.95
 comparePrice: 64.99 EUR
 prodname: 'Nike Tanjun  Zapatillas de Running para Hombre  Negro  Black/White 011   43 EU'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'NIKE'
 buyurl: 'https://www.amazon.es/dp/B00XWPWYUO/?tag=tolees-21'
-descuento: '26.03'
-average: '47.025555555555556'
+descuento: '38.53'
+average: '45.7390909090909'
 ---
 
-Tienes [Nike Tanjun  Zapatillas de Running para Hombre  Negro  Black/White 011   43 EU](https://www.amazon.es/dp/B00XWPWYUO/?tag=tolees-21) con un 26.03 % de descuento con precio de oferta de 48.07 EUR (original: 64.99 EUR) en el siguiente enlace!
+Tienes [Nike Tanjun  Zapatillas de Running para Hombre  Negro  Black/White 011   43 EU](https://www.amazon.es/dp/B00XWPWYUO/?tag=tolees-21) con un 38.53 % de descuento con precio de oferta de 39.95 EUR (original: 64.99 EUR) en el siguiente enlace!
 
 [![Nike Tanjun  Zapatillas de Running para ](https://m.media-amazon.com/images/I/41hV24iS0pL._SL200_.jpg)](https://www.amazon.es/dp/B00XWPWYUO/?tag=tolees-21)
 
 ℹ️:
 
+- Cómodos
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00XWPWYUO/?tag=tolees-21)

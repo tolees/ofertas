@@ -28,9 +28,9 @@ En este momento está [adidas Strutter  Zapatillas Deportivas Fitness y Ejercici
 
 🔎:
 
-- Plantilla ligera de EVA Adibouncy
-- Cierre de cordones
-- Suela de goma; forro textil
 - Parte superior de piel lisa
+- Suela de goma; forro textil
+- Cierre de cordones
+- Plantilla ligera de EVA Adibouncy
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07SD3D3XK/?tag=tolees-21)
