@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Karactermania Harry Potter School - Moch al 30.11 % de rebaja'
-date: 2021-01-31 11:02:19
+date: 2021-02-14 05:41:54
 image: 'https://m.media-amazon.com/images/I/41kVYmJT-+L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [Karactermania Harry Potter School - Mochila Running HS 1.2  Negro](https
 
 🔎:
 
-- Dimensiones: 44 x 30 x 17cm
 - Conector estéreo de 3,5mm para auriculares
 - Puerto uspara cargar el móvil mediante power bank (no incluida)
-- Mochila con tres compartimentos, trasera acolchada y adaptable a carro
+- Dimensiones: 44 x 30 x 17cm
 - Forro interior con bolsillo acolchado para dispositivos electrónicos
+- Mochila con tres compartimentos, trasera acolchada y adaptable a carro
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0851GYR9H/?tag=tolees-21)
