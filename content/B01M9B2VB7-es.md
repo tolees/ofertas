@@ -28,10 +28,10 @@ Ahora mismo tienes [Western Digital - WD Green M.2  disco de estado sólido  SSD
 
 🔎:
 
-- Resistente a los golpes y con la certificación del WD F.I.T. Lab para una mayor compatibilidad y fiabilidad.
 - Disponible en carcasas de 2,5”/7 mm y en modelos M.2 2280 que se adaptan a la mayoría de los ordenadores.
-- Consumo eléctrico muy reducido para que pueda usar su ordenador portátil durante largos períodos de tiempo.
+- Resistente a los golpes y con la certificación del WD F.I.T. Lab para una mayor compatibilidad y fiabilidad.
 - La caché de SLC (celda de nivel único) mejora el rendimiento de escritura para que pueda realizar sus tareas diarias rápidamente.
+- Consumo eléctrico muy reducido para que pueda usar su ordenador portátil durante largos períodos de tiempo.
 - El panel de control SSD de WD, gratuito y que puede descargar en internet, le permite monitorizar fácilmente el estado de su disco.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01M9B2VB7/?tag=tolees-21)

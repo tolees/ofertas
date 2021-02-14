@@ -28,10 +28,10 @@ Está [Amlion - Arte de Vidrio de Spotify Personalizado Placa de Foto de Código
 
 ℹ️:
 
-- ❥TAMAÑO Y ESTILO --- 4 * 6 "(10 * 15cm) y 8 * 10" (20 * 25cm). Dos tallas para ti. Estilo de música (SIN código de Spotify, solo su foto y texto) y estilo de código Sportify (código de Spotify, su foto y texto). ¡Elige el estilo y la talla que quieras!
 - ❥ CÓMO PERSONALIZAR --- 1, elija el tipo 2, haga clic en "Personalizar ahora" 3, elija el tamaño 5, cargue su foto 5, agregue el nombre de la canción favorita y el nombre del artista 6, cargue el código 7 de Spotify, ingrese su texto y terminarlo. Cuando lo reciba, apunte su teléfono al código y la canción se reproducirá. ¡Entonces disfruta de tu música!
-- ❥ GRANDES REGALOS PERSONALIZADOS --- elija esta portada de álbum de Spotify personalizada para su familia o amigos. Los mejores regalos como San Valentín, Navidad, cumpleaños o cualquier aniversario. ¡Sorpréndelo con esta linda portada musical!
 - ❥ CALIDAD --- Hecho de acrílico que es ecológico, libre de contaminación e inodoro. Tecnología de impresión profesional, imágenes claras, sin diferencia de color, sin decoloración del color.
 - ❥ PERSONALIZA TU PROPIA PORTADA DE ÁLBUM DE MÚSICA --- ¡Crea tu propia portada de álbum cargando tu foto y texto! ¡Simplemente elija su canción / álbum favorito y conviértalo en una placa de álbum de canción personalizada! ¡Te encantará este arte en vidrio de Spotify!
+- ❥ GRANDES REGALOS PERSONALIZADOS --- elija esta portada de álbum de Spotify personalizada para su familia o amigos. Los mejores regalos como San Valentín, Navidad, cumpleaños o cualquier aniversario. ¡Sorpréndelo con esta linda portada musical!
+- ❥TAMAÑO Y ESTILO --- 4 * 6 "(10 * 15cm) y 8 * 10" (20 * 25cm). Dos tallas para ti. Estilo de música (SIN código de Spotify, solo su foto y texto) y estilo de código Sportify (código de Spotify, su foto y texto). ¡Elige el estilo y la talla que quieras!
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08QJ1HVZS/?tag=tolees-21)
