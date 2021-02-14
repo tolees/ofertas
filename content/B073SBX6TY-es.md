@@ -29,10 +29,10 @@ Está [Western Digital WDS500G2B0B WD Blue 500GB 3D NAND Internal SSD M.2 SATA](
 ℹ️:
 
 - SSD 3D NAND SATA con capacidades de hasta 2 TB y fiabilidad mejorada
-- Consumo eléctrico activo hasta un 25 % inferior al de anteriores generaciones de WD Blue SSD
-- Temperatura de funcionamiento: 0°C a 70°C
-- Velocidades de lectura secuencial de hasta 560 MB/s y velocidades de escritura secuencial de hasta 530 MB/s
 - Certificación del F.I.T. Lab de WD para su compatibilidad con una amplia gama de ordenadores
 - Tiempo medio antes de fallos (MTTF) de 1,75 millones de horas y una resistencia de hasta 500 terabytes escritos (TBW) con una fiabilidad mejorada
+- Velocidades de lectura secuencial de hasta 560 MB/s y velocidades de escritura secuencial de hasta 530 MB/s
+- Consumo eléctrico activo hasta un 25 % inferior al de anteriores generaciones de WD Blue SSD
+- Temperatura de funcionamiento: 0°C a 70°C
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B073SBX6TY/?tag=tolees-21)

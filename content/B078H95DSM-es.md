@@ -28,10 +28,10 @@ Tienes [Energy Sistem Party 6 - Altavoz DJ con Bluetooth 240 W  Sistema de Sonid
 
 ℹ️:
 
-- Entradas para micrófono y guitarra, para poder conectar tus instrumentos musicales
-- Sistema 2.1 con 240 W de potencia y luces LED que animarán todas tus fiestas
 - Energy Music Power 600: maximiza los graves y sube el volumen con sólo pulsar un botón en el momento que tú decidas
-- Sonido sin ataduras: transfiere tu música sin cables y hasta 10 metros de distancia gracias a la tecnología Bluetooth 4.0
+- Sistema 2.1 con 240 W de potencia y luces LED que animarán todas tus fiestas
 - Entrada / salida RCA para poder conectar diferentes Energy Party 6 y ampliar tu red
+- Sonido sin ataduras: transfiere tu música sin cables y hasta 10 metros de distancia gracias a la tecnología Bluetooth 4.0
+- Entradas para micrófono y guitarra, para poder conectar tus instrumentos musicales
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B078H95DSM/?tag=tolees-21)

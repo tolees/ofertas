@@ -28,9 +28,9 @@ En este momento está [NIKE Revolution 5  Running Shoe Mujer  Black White Anthra
 
 🔎:
 
-- Transpirable
-- Flexibilidad
 - NIKE es un nombre de marca reconocido
+- Transpirable
 - Para una máxima comodidad al correr
+- Flexibilidad
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07NM2HPV8/?tag=tolees-21)

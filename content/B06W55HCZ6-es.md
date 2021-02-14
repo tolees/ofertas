@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Osprey Fairview 55 Women s Travel Pack w al 31.78 % de descuento'
-date: 2020-03-31 05:30:08
+title: 'Osprey Fairview 55 Women s Travel Pack w al 54.51 % de descuento'
+date: 2021-02-14 22:01:21
 image: 'https://m.media-amazon.com/images/I/41InBa1oWJL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -9,24 +9,29 @@ author: ring
 slug: 'B06W55HCZ6-es Osprey Fairview 55 Women s Travel Pack with 13L Detachable...'
 sku: 'B06W55HCZ6-es'
 tags: [  ]
-actualPrice: 115.97 EUR
+actualPrice: 77.34 EUR
 currency: EUR
-price: 115.97
+price: 77.34
 comparePrice: 170.0 EUR
 prodname: 'Osprey Fairview 55 Women s Travel Pack with 13L Detachable Daypack - Misty Grey  WS/WM '
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Osprey'
 buyurl: 'https://www.amazon.es/dp/B06W55HCZ6/?tag=tolees-21'
-descuento: '31.78'
-average: '115.97'
+descuento: '54.51'
+average: '100.518'
 ---
 
-Está [Osprey Fairview 55 Women s Travel Pack with 13L Detachable Daypack - Misty Grey  WS/WM ](https://www.amazon.es/dp/B06W55HCZ6/?tag=tolees-21) con 31.78 de descuento por 115.97 EUR (original: 170.0 EUR) en el siguiente enlace!
+Está [Osprey Fairview 55 Women s Travel Pack with 13L Detachable Daypack - Misty Grey  WS/WM ](https://www.amazon.es/dp/B06W55HCZ6/?tag=tolees-21) con 54.51 de descuento por 77.34 EUR (original: 170.0 EUR) en el siguiente enlace!
 
 [![Osprey Fairview 55 Women s Travel Pack w](https://m.media-amazon.com/images/I/41InBa1oWJL._SL200_.jpg)](https://www.amazon.es/dp/B06W55HCZ6/?tag=tolees-21)
 
 ℹ️:
 
+- Arnés y cinturón de malla troquelada
+- Diseñado para la mujer
+- Armazón periférica de peso liviano
+- Cierre escondido para la zona pectoral
+- Con arnés y cinturón de cadera desmontable
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06W55HCZ6/?tag=tolees-21)

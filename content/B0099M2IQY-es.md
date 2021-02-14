@@ -28,10 +28,10 @@ Ahora mismo tienes [Casio Reloj de Pulsera AE-1200WHD-1AVEF](https://www.amazon.
 
 🔎:
 
-- Tiene calendario automático e indicador de hora de 12/24 horas
-- La función de hora mundial muestra la hora actual en hasta 29 zonas horarias
-- La duración de la batería es de 10 años
-- Incluye cronómetro, temporizadores y 5 alarmas diarias
 - Reloj resistente al agua hasta 10 bar / 100 metros
+- La función de hora mundial muestra la hora actual en hasta 29 zonas horarias
+- Incluye cronómetro, temporizadores y 5 alarmas diarias
+- Tiene calendario automático e indicador de hora de 12/24 horas
+- La duración de la batería es de 10 años
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0099M2IQY/?tag=tolees-21)

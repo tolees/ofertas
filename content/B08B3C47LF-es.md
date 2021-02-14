@@ -30,8 +30,8 @@ Ahora mismo tienes [UNITED COLORS OF BENETTON. Albornoz m/l 360gsm 100% algodón
 
 - Talla: M/L Gramaje: 360GSM Composición: 100% algodón
 - Albornoz en rizo 100% algodón de 360 gr/m2 que aporta durabilidad y suavidad. Su calidad da como resultado una pieza cómoda, absorbente y muy agradable al tacto. Diseño elegante con cuidados acabados.
-- Este albornoz cuenta con los certificados OEKO-TEX y Better Cotton Initative (BCI), que garantizan altos estándares de seguridad y el cuidado del medio ambiente. Apta para lavado a máquina (preferiblemente lavar los colores oscuros por separado)
 - Color: gris oscuro
 - Ultra-suavidad: una suavidad excepcional agradable al tacto.
+- Este albornoz cuenta con los certificados OEKO-TEX y Better Cotton Initative (BCI), que garantizan altos estándares de seguridad y el cuidado del medio ambiente. Apta para lavado a máquina (preferiblemente lavar los colores oscuros por separado)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08B3C47LF/?tag=tolees-21)

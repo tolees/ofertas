@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Electronic Arts - Need for Speed Heat -  con un 66.68 % de descuento'
-date: 2021-02-11 14:51:00
+date: 2021-02-14 22:19:56
 image: 'https://m.media-amazon.com/images/I/517Ab2iPgSL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Electronic Arts'
 buyurl: 'https://www.amazon.es/dp/B07X8XG1K8/?tag=tolees-21'
 descuento: '66.68'
-average: '17.49'
+average: '18.3233333333333'
 ---
 
 En este momento está [Electronic Arts - Need for Speed Heat - Standard [Pre-Load]  | PC Download - Origin Code](https://www.amazon.es/dp/B07X8XG1K8/?tag=tolees-21) a 19.99 EUR (original: 59.99 EUR) (66.68 %  de descuento) en el siguiente enlace!
