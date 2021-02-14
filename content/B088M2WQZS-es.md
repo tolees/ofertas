@@ -29,8 +29,8 @@ Ahora mismo tienes [Suhctup Funda Compatible con Xiaomi Mi CC9 Pro Transparente 
 🔎:
 
 - ❥【Compatibilidad】Funda Silicona Transparente TPU Carcasa compatible con [Xiaomi Mi CC9 Pro], no apto para otros modelos. La funda Xiaomi Mi CC9 Pro transparente dibujos proporciona un mejor agarre y muestra la bellaza original de su móvil sin agregar peso extra.
-- ❥【Buen Servicio】Suhctup proporciona garantía de [reembolso completo y reemplazo nuevo] con 6 meses, si algún problema le preocupa, contáctenos, le responderemos la mejor solución dentro de las 24 horas.
 - ❥【Protección Completa】El carcasa iPhone 11 ofrece una excelente protección para su precioso Xiaomi Mi CC9 Pro, como anti shock, anti scratch, anti slip, anti yellow, anti fingerprint, anti dust, etc. Los bordes elevados ayudan a proteger la pantalla y la cámara de su teléfono contra rasguños contra superficies planas, mejorar la protección de caída accidental, es efectiva aliviar el daño del Xiaomi Mi CC9 Pro.
+- ❥【Buen Servicio】Suhctup proporciona garantía de [reembolso completo y reemplazo nuevo] con 6 meses, si algún problema le preocupa, contáctenos, le responderemos la mejor solución dentro de las 24 horas.
 - ❥【Esquejes Precisos】Funda antigolpes Xiaomi Mi CC9 Pro permite acceder por completo a los puertos, todos los botones y puertos son de acceso con respuesta sensible, como el puerto del cargador, conector para auriculares, botones de volumen, etc. La funda ultra delgada Xiaomi Mi CC9 Pro [admite carga inalámbrica].
 - ❥【Material Transparente】La funda Xiaomi Mi CC9 Pro ultra slim hecho de el material de TPU suave con animal artista dibujos, el material es durable, fácil de poner y quitar sin preocuparse por rayar su teléfono. El interior tiene partículas neta impide las burbujas y mejora la disipación del calor.
 

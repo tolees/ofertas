@@ -28,9 +28,9 @@ Tienes [Djeco-Para niños Mayores  Arena de Colores Mixto  DJE-391 ](https://www
 
 🔎:
 
-- Dimensiones del paquete (largo x ancho x alto): 23,2 x 16,4 x 4 cm
-- Cantidad del paquete: 1,0
 - Peso del paquete: 0,4 kg
+- Dimensiones del paquete (largo x ancho x alto): 23,2 x 16,4 x 4 cm
 - Número de modelo: DJ08661
+- Cantidad del paquete: 1,0
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00DUX9AHS/?tag=tolees-21)

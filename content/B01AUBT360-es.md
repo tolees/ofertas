@@ -30,7 +30,7 @@ Tienes [Hama 00123393 Amplificador señal de TV - Amplificador de señal de TV  
 
 - Amplificación del señal de 2 x 22 decibelios
 - Atenuador para la regulación óptima del señal de entrada
-- Indicador estado funcionamiento a LED e interruptor de encendido/apagado
 - Para conectar dos receptores (TV/radio)
+- Indicador estado funcionamiento a LED e interruptor de encendido/apagado
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01AUBT360/?tag=tolees-21)

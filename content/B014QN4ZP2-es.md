@@ -28,10 +28,10 @@ Ahora mismo tienes [Garmin Montana 680 - Navegación vía GPS y GLONASS](https:/
 
 🔎:
 
-- Navegación vía GPS y GLONASS rápida y precisa
-- Track Manager que te permitirá ver dónde estás en todo momento y controlar cómodamente, tu grabación del track
 - Montana te acompañara en barco, moto, coche o bici
-- Gran combinación de soportes y funciones de navegación versátil
+- Track Manager que te permitirá ver dónde estás en todo momento y controlar cómodamente, tu grabación del track
+- Navegación vía GPS y GLONASS rápida y precisa
 - Pantalla táctil de 4” de orientación doble
+- Gran combinación de soportes y funciones de navegación versátil
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B014QN4ZP2/?tag=tolees-21)
