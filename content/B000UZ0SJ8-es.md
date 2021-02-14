@@ -28,10 +28,10 @@ En este momento está [Gedore 2150-2160 PH-010 Juego de Destornilladores 3C](htt
 
 🔎:
 
-- Viene en caja de cartón ecológica
-- Mango de tres componentes con orificio para colgar
-- Con hojas de acero al vanadio Plus
 - Juego de diez destornilladores
+- Con hojas de acero al vanadio Plus
+- Mango de tres componentes con orificio para colgar
 - Adecuado para tornillos con cabeza ranurada y con ranuras cruzadas PH
+- Viene en caja de cartón ecológica
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B000UZ0SJ8/?tag=tolees-21)

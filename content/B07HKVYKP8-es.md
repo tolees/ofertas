@@ -28,11 +28,11 @@ En este momento está [Hercules DJControl Inpulse 300 – Controlador DJ USB �
 
 🔎:
 
-- Aprende los movimientos correctos gracias a la disposición de los botones y deslizantes, idénticos a los controladores profesionales
-- Software completo djuced incluido: domina los conceptos básicos de djing con la ayuda interactiva y los vídeos tutoriales integrados
 - Perfecciona tus mezclas con efectos, modos y 16 pads
 - Aprende djing con las funciones exclusivas del controlador: guías luminosas de tempo y beat align, además de las funciones assistant y energy
-- Prepara tus mezclas fácilmente con ima (intelligent music assistant), el asistente musical inteligente, y sus sugerencias sobre las pistas más idóneas
+- Aprende los movimientos correctos gracias a la disposición de los botones y deslizantes, idénticos a los controladores profesionales
+- Software completo djuced incluido: domina los conceptos básicos de djing con la ayuda interactiva y los vídeos tutoriales integrados
 - Salida de altavoz principal y salida de auriculares
+- Prepara tus mezclas fácilmente con ima (intelligent music assistant), el asistente musical inteligente, y sus sugerencias sobre las pistas más idóneas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07HKVYKP8/?tag=tolees-21)
