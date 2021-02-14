@@ -28,7 +28,7 @@ Ahora mismo tienes [Jack & Jones NOS Jjimike Jjoriginal Jos 497 I.k Noos Vaquero
 
 🔎:
 
-- jeans with straight leg
 - elastic cotton mixture
+- jeans with straight leg
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07JNSQTQN/?tag=tolees-21)
