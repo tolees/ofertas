@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'Under Armour UA HG Armour Shorty Pantaló al 42.00 % de descuento'
-date: 2020-03-10 08:02:56
-image: 'https://m.media-amazon.com/images/I/317qq3U+KEL._AC_._SL200_.jpg'
+title: 'Under Armour Heatgear Armour Shorty  Mal al 38.58 % de descuento'
+date: 2021-02-15 09:06:40
+image: 'https://m.media-amazon.com/images/I/31892mwjjJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071VMWGFN-es Under Armour UA HG Armour Shorty Pantalón Corto Mujer Gris...'
+slug: 'B071VMWGFN-es Under Armour Heatgear Armour Shorty Mallas de Deporte de...'
 sku: 'B071VMWGFN-es'
 tags: [  ]
-actualPrice: 15.08 EUR
+actualPrice: 15.97 EUR
 currency: EUR
-price: 15.08
+price: 15.97
 comparePrice: 26.0 EUR
-prodname: 'Under Armour UA HG Armour Shorty Pantalón Corto  Mujer  Gris  Charcoal Light Heather/Anthracite/Metallic Silver 020   L'
+prodname: 'Under Armour Heatgear Armour Shorty  Mallas de Deporte de Mujer Mujer  Negro  Charcoal Light Heather/Anthracite/Metallic Silver   L'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Under Armour'
 buyurl: 'https://www.amazon.es/dp/B071VMWGFN/?tag=tolees-21'
-descuento: '42.00'
-average: '20.54'
+descuento: '38.58'
+average: '18.255'
 ---
 
-Está [Under Armour UA HG Armour Shorty Pantalón Corto  Mujer  Gris  Charcoal Light Heather/Anthracite/Metallic Silver 020   L](https://www.amazon.es/dp/B071VMWGFN/?tag=tolees-21) con 42.00 de descuento por 15.08 EUR (original: 26.0 EUR) en el siguiente enlace!
+Está [Under Armour Heatgear Armour Shorty  Mallas de Deporte de Mujer Mujer  Negro  Charcoal Light Heather/Anthracite/Metallic Silver   L](https://www.amazon.es/dp/B071VMWGFN/?tag=tolees-21) con 38.58 de descuento por 15.97 EUR (original: 26.0 EUR) en el siguiente enlace!
 
-[![Under Armour UA HG Armour Shorty Pantaló](https://m.media-amazon.com/images/I/317qq3U+KEL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B071VMWGFN/?tag=tolees-21)
+[![Under Armour Heatgear Armour Shorty  Mal](https://m.media-amazon.com/images/I/31892mwjjJL._SL200_.jpg)](https://www.amazon.es/dp/B071VMWGFN/?tag=tolees-21)
 
 ℹ️:
 
+- Material que capilariza el sudor y se seca rápidamente
+- Confección con tejido elástico en 4 direcciones que permite una mayor movilidad
+- Tejido HeatGear ultraligero que ofrece una protección superior sin añadir peso
+- Cinturilla elástica de tejido jacquard ultrasuave que llega a las caderas para una adaptación perfecta
+- Costuras planas ergonómicas que proporcionan un ajuste cómodo y sin roces
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B071VMWGFN/?tag=tolees-21)

@@ -28,11 +28,11 @@ En este momento está [ASUS TUF Gaming A15 FA506IV-HN337 - Portátil de 15.6" Fu
 
 🔎:
 
-- Procesador AMD Ryzen 7 4800H APU (8 Núcleos, 16 Subprocesos, Caché: 12MB Level 2&3, 2.90GHz hasta 4.20GHz, 64-bit)
-- Tarjeta gráfica NVIDIA GeForce RTX 2060 6GB GDDR6 VRAM
-- Pantalla de 15.6" FullHD (1920x1080) 144Hz
-- Sin sistema operativo
-- Almacenamiento de 1TB SSD M.2 PCIe NVMe
 - Memoria RAM 16GB (8GB*2) DDR4 3200MHz
+- Almacenamiento de 1TB SSD M.2 PCIe NVMe
+- Sin sistema operativo
+- Tarjeta gráfica NVIDIA GeForce RTX 2060 6GB GDDR6 VRAM
+- Procesador AMD Ryzen 7 4800H APU (8 Núcleos, 16 Subprocesos, Caché: 12MB Level 2&3, 2.90GHz hasta 4.20GHz, 64-bit)
+- Pantalla de 15.6" FullHD (1920x1080) 144Hz
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08DNKB9K3/?tag=tolees-21)
