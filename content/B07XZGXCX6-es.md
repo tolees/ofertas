@@ -28,9 +28,9 @@ Está [MSI Optix G32C4 - Monitor Gaming Curvo 32" FullHd 165Hz  1920x1080  1ms d
 
 ℹ️:
 
+- Product for demanding players.
 - Perfect quality
 - Full HD 1920 x 1080 pixels
 - Exceptional diving
-- Product for demanding players.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07XZGXCX6/?tag=tolees-21)
