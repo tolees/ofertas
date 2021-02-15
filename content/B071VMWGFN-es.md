@@ -28,10 +28,10 @@ Está [Under Armour Heatgear Armour Shorty  Mallas de Deporte de Mujer Mujer  Ne
 
 ℹ️:
 
-- Material que capilariza el sudor y se seca rápidamente
-- Confección con tejido elástico en 4 direcciones que permite una mayor movilidad
-- Tejido HeatGear ultraligero que ofrece una protección superior sin añadir peso
 - Cinturilla elástica de tejido jacquard ultrasuave que llega a las caderas para una adaptación perfecta
+- Confección con tejido elástico en 4 direcciones que permite una mayor movilidad
+- Material que capilariza el sudor y se seca rápidamente
+- Tejido HeatGear ultraligero que ofrece una protección superior sin añadir peso
 - Costuras planas ergonómicas que proporcionan un ajuste cómodo y sin roces
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B071VMWGFN/?tag=tolees-21)

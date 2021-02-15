@@ -28,10 +28,10 @@ En este momento está [Colon Total Power Gel Caps Vanish - Detergente para lavad
 
 🔎:
 
-- Descubre el resto de productos de la marca Colon para una colada óptima
 - Cápsulas monodosis fáciles de utilizar y de rápida disolución
-- Limpieza activa para una ropa limpia, sin manchas y con frescor extra
 - Detergente para la lavadora en formato cápsulas apto para ropa blanca y de color
+- Limpieza activa para una ropa limpia, sin manchas y con frescor extra
 - Con el poder quitamanchas de Vanish para una limpieza profunda que elimina las manchas de tu ropa
+- Descubre el resto de productos de la marca Colon para una colada óptima
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01N29OD3T/?tag=tolees-21)

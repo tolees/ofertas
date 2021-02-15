@@ -28,8 +28,8 @@ Tienes [Philips Avance HR2752/90 - Exprimidor  85 W  Ultrasilencioso  Sistema An
 
 ℹ️:
 
-- Patas antideslizantes
 - Evita el goteo
+- Patas antideslizantes
 - Flujo directo
 - Negro mate; parte superior: negro brillante
 - Motor ultra silencioso

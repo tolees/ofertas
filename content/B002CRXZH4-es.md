@@ -28,10 +28,10 @@ Tienes [Lékué - Estuche de vapor con bandeja  3-4 personas  Capacidad: 1400 ml
 
 🔎:
 
-- Opción ecológica: Los microondas son energéticamente eficientes; la cocción y el recalentado en el microondas puede ahorrar el 80% de la energía que usa el horno
-- La cocción en el microondas o en el horno es más nutritiva que en la cocina tradicional (fritos y hervidos)
+- Seguro: las asas se mantienen frías y, además, pesa poco
 - El estuche de vapor Lékué te permite cocinar de una de las formas más sanas y fáciles con una gran variedad de alimentos manteniendo todos los nutrientes
 - La bandeja permite que: Las grasas y líquidos se escurran durante la descongelación o el proceso de cocción; hierbas o condimentos, vino u otros ingredientes pueden colocarse debajo de la bandeja para aromatizar los alimentos
-- Seguro: las asas se mantienen frías y, además, pesa poco
+- Opción ecológica: Los microondas son energéticamente eficientes; la cocción y el recalentado en el microondas puede ahorrar el 80% de la energía que usa el horno
+- La cocción en el microondas o en el horno es más nutritiva que en la cocina tradicional (fritos y hervidos)
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B002CRXZH4/?tag=tolees-21)
