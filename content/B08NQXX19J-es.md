@@ -28,10 +28,10 @@ Tienes [Tirma Crema de Guayaba 400 Gramos](https://www.amazon.es/dp/B08NQXX19J/?
 
 🔎:
 
-- Presentada en una barra de 400g
-- Ingredientes: Pulpa de guayaba, azúcar, gelificante (pectina) y corrector de acidez (ácido cítrico)
-- Instrucciones de conservación: Se recomienda almacenar en un ambiente fresco, seco y sin exposición directa a la luz solar. Las temperaturas no deben superar los 30°C durante largo tiempo
 - Saborea el paraíso con este producto hecho en Gran Canaria y entregado a la comodidad de tu puerta
+- Ingredientes: Pulpa de guayaba, azúcar, gelificante (pectina) y corrector de acidez (ácido cítrico)
 - Una sabrosa pasta de guayaba para acompañar una multitud de platos
+- Instrucciones de conservación: Se recomienda almacenar en un ambiente fresco, seco y sin exposición directa a la luz solar. Las temperaturas no deben superar los 30°C durante largo tiempo
+- Presentada en una barra de 400g
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08NQXX19J/?tag=tolees-21)
