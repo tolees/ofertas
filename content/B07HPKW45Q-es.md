@@ -28,9 +28,9 @@ Tienes [El Potro Ride Juego de maletas Rosa 55/70/80 cms Rígida ABS Cierre comb
 
 ℹ️:
 
-- Cuatro ruedas dobles de giro multidireccional para un desplazamiento cómodo, un rodaje suave y una maniobrabilidad sin esfuerzo.
 - Maleta mediana y grande extensibles hasta 6cm más para ampliar su capacidad.
 - Práctico interior con un compartimento y un bolsillo con cremallera en uno de los lados y gomas elásticas de sujeción en el otro.
+- Cuatro ruedas dobles de giro multidireccional para un desplazamiento cómodo, un rodaje suave y una maniobrabilidad sin esfuerzo.
 - Juego de maletas compuesto por una maleta de cabina de 36 x 55 x 20 cm con 36L y 2,7 kg, una maleta mediana de 49 x 69 x 28 cm de 78L y 4,1 kg, y una maleta grande 54 x 79 x 31cm de 110L y 4,8 kg. Fabricadas en ABS, un material rígido y ligero.
 - Cierre de combinación lateral para viajar seguro y proteger tus efectos personales.
 

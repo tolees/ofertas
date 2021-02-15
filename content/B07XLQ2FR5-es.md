@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 36.57 % en Pack Harry Potter - Colección Completa G'
-date: 2021-02-13 11:32:27
+title: 'Descuento del 39.44 % en Pack Harry Potter - Colección Completa G'
+date: 2021-02-15 18:20:39
 image: 'https://m.media-amazon.com/images/I/51ZFDbhfTZL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: ring
 slug: 'B07XLQ2FR5-es Pack Harry Potter - Colección Completa Golden Steelbook...'
 sku: 'B07XLQ2FR5-es'
 tags: [  ]
-actualPrice: 32.49 EUR
+actualPrice: 31.02 EUR
 currency: EUR
-price: 32.49
+price: 31.02
 comparePrice: 51.22 EUR
 prodname: 'Pack Harry Potter - Colección Completa Golden Steelbook 2019 Bd [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XLQ2FR5/?tag=tolees-21'
-descuento: '36.57'
-average: '34.7596571428574'
+descuento: '39.44'
+average: '34.6925139664807'
 ---
 
-Tienes [Pack Harry Potter - Colección Completa Golden Steelbook 2019 Bd [Blu-ray]](https://www.amazon.es/dp/B07XLQ2FR5/?tag=tolees-21) con un 36.57 % de descuento con precio de oferta de 32.49 EUR (original: 51.22 EUR) en el siguiente enlace!
+Tienes [Pack Harry Potter - Colección Completa Golden Steelbook 2019 Bd [Blu-ray]](https://www.amazon.es/dp/B07XLQ2FR5/?tag=tolees-21) con un 39.44 % de descuento con precio de oferta de 31.02 EUR (original: 51.22 EUR) en el siguiente enlace!
 
 [![Pack Harry Potter - Colección Completa G](https://m.media-amazon.com/images/I/51ZFDbhfTZL._SL200_.jpg)](https://www.amazon.es/dp/B07XLQ2FR5/?tag=tolees-21)
 

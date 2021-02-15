@@ -28,8 +28,8 @@ Está [NIKE Smoke Grey Pink Glow Photon Dust White  Running Shoe  Revolution 5 P
 
 ℹ️:
 
-- Plantilla blanda
 - La suave suela intermedia de espuma proporciona una sensación suave y estable.
+- Plantilla blanda
 - Forro blando.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08CXQ6SRJ/?tag=tolees-21)

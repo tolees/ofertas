@@ -28,10 +28,10 @@ Ahora mismo tienes [Hugo BOSS Reloj Analógico para Hombre de Cuarzo con Correa 
 
 🔎:
 
+- Esfera azul oscuro
+- Grosor de la caja de 7,5 mm, Diámetro de la caja: 42 mm
+- 3 ATM de resistencia al agua
 - Tres manecillas / Función de fecha
 - Correa marrón de piel lisa
-- Esfera azul oscuro
-- 3 ATM de resistencia al agua
-- Grosor de la caja de 7,5 mm, Diámetro de la caja: 42 mm
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VJSQQVJ/?tag=tolees-21)
