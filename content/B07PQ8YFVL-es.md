@@ -28,10 +28,10 @@ En este momento está [Black+Decker BXJB1200E Batidora de Vaso  1200 W  Acero In
 
 🔎:
 
-- 3 programas; para pulverizar el hielo en cuestión de segundos el programa hielo; para unos smoothies con texturas perfectamente homogéneas, el programa smoothie; para los alimentos que mas se resistan y un batido extremadamente rápido, turbo
-- Fácil limpieza; jarra y cuchillas totalmente desmontables y aptas para el lavavajillas, de manera que la limpieza del aparato es sencilla y cómoda
-- Diseño elegante y robusto; en acabados de acero inoxidable antihuellas y tonos mate, el producto lucirá en cualquier cocina, con cualquier mobiliario; batidora robusta y resistente
 - Potente: con un poderoso motor de 1200 w capaz de procesar cualquier alimento
+- 3 programas; para pulverizar el hielo en cuestión de segundos el programa hielo; para unos smoothies con texturas perfectamente homogéneas, el programa smoothie; para los alimentos que mas se resistan y un batido extremadamente rápido, turbo
+- Diseño elegante y robusto; en acabados de acero inoxidable antihuellas y tonos mate, el producto lucirá en cualquier cocina, con cualquier mobiliario; batidora robusta y resistente
+- Fácil limpieza; jarra y cuchillas totalmente desmontables y aptas para el lavavajillas, de manera que la limpieza del aparato es sencilla y cómoda
 - Completa: con jarra de 1.5l de cristal graduada; pies antideslizantes; cierre de seguridad; tapa con boca de llenado y vaso medidor; y cuchillas en acero inoxidable de 6 hojas para triturar cualquier tipo de alimento, se convierte en un batidora completa y bien equipada
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07PQ8YFVL/?tag=tolees-21)

@@ -28,10 +28,10 @@ Está [Medisana BS 444 Connect Báscula Analítica Digital de 180 kg  Báscula P
 
 ℹ️:
 
-- Con muchas funciones: Puede elegir entre las unidades kg, lb o st. La báscula reconoce automáticamente hasta 8 usuarios en cuanto se suben a la báscula descalzos
-- Nota: Solo usar descalzo y pisando los 4 electrodos. Solo usar sobre suelo plano y duro. Los primeros resultados pueden variar, ya que la báscula necesita calibrarse.
 - Aplicación VitaDock+: Para el control a largo plazo, los valores corporales medidos se pueden transferir por Bluetooth a la app VitaDock+ donde se guardan y analizan
-- Diseño moderno: La superficie de alto brillo en blanco puro y los electrodos de acero inox. de alta calidad le confieren un diseño moderno. La gran pantalla LCD facilita la lectura
 - Análisis corporal: La báscula mide el peso, la grasa corporal, el agua corporal, la masa muscular y el peso óseo, además calcula el IMC y analiza las necesidades calóricas
+- Nota: Solo usar descalzo y pisando los 4 electrodos. Solo usar sobre suelo plano y duro. Los primeros resultados pueden variar, ya que la báscula necesita calibrarse.
+- Con muchas funciones: Puede elegir entre las unidades kg, lb o st. La báscula reconoce automáticamente hasta 8 usuarios en cuanto se suben a la báscula descalzos
+- Diseño moderno: La superficie de alto brillo en blanco puro y los electrodos de acero inox. de alta calidad le confieren un diseño moderno. La gran pantalla LCD facilita la lectura
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01DPJSOT6/?tag=tolees-21)

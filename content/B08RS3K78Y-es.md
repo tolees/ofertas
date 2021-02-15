@@ -30,8 +30,8 @@ En este momento está [ADAGG Etiquetas engomadas del corazón del Amor  Hawkoch 
 
 - Diseño especial: con formas de amor, colores brillantes, diferentes patrones, llenos de elementos de amor, también puedes hacer que las manualidades escriban palabras en la superficie para expresar tu amor.
 - Amplia gama de aplicaciones: adecuada para proyectos de tareas infantiles, para sellar sobres o para tiendas para envolver bolsas para clientes.
-- Pegatinas decorativas con forma de amor: no solo adecuadas para el día de San Valentín, sino también para la decoración de la oficina en casa.
 - Fácil de usar: también se puede utilizar como recordatorio de calendario para completar listas de tareas breves, se puede eliminar limpiamente de la mayoría de las superficies.
 - Práctico: puede escribir nombres o texto corto en cada pegatina de corazón, útil para bolsas de regalo o bolsas de dulces, hermoso y práctico.
+- Pegatinas decorativas con forma de amor: no solo adecuadas para el día de San Valentín, sino también para la decoración de la oficina en casa.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08RS3K78Y/?tag=tolees-21)

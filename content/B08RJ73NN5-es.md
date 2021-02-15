@@ -29,8 +29,8 @@ Tienes [Nihlsfen Unidad de Memoria de Disco U de Alta Velocidad Profesional  Mem
 ℹ️:
 
 - 5.Diseño de llave de cadena o puede usar correa, fácil de llevar.
-- 3.Compatible con USB 1.0 / 1.1 / 2.0, para satisfacer sus diferentes necesidades.
 - 2. Lee 12 MB / sy escribe 8 MB / s. Admite 480 Mbps de alta velocidad.
+- 3.Compatible con USB 1.0 / 1.1 / 2.0, para satisfacer sus diferentes necesidades.
 - Unidad flash USB plegable de 1,4 GB.
 - 4.No se requieren controladores. Bajo consumo de energía.
 
