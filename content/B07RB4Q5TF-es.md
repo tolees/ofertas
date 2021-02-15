@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 47.73 % en Marvel - Vengadores: Endgame [DVD]'
-date: 2021-02-13 19:39:39
+date: 2021-02-15 20:21:46
 image: 'https://m.media-amazon.com/images/I/51ud1JVwWoL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Marvel'
 buyurl: 'https://www.amazon.es/dp/B07RB4Q5TF/?tag=tolees-21'
 descuento: '47.73'
-average: '11.4941071428572'
+average: '11.4845614035088'
 ---
 
 Tienes [Marvel - Vengadores: Endgame [DVD]](https://www.amazon.es/dp/B07RB4Q5TF/?tag=tolees-21) con un 47.73 % de descuento con precio de oferta de 10.95 EUR (original: 20.95 EUR) en el siguiente enlace!

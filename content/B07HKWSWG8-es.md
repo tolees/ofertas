@@ -28,10 +28,10 @@ En este momento está [Hercules DJControl Starlight - Controlador de DJ USB port
 
 🔎:
 
-- El controlador de dj ideal para introducirte en el arte del dj, con serato dj lite incluido
-- Compacto y fácil de llevar a donde quieras
 - Controla la retroiluminación en la base: efectos rgb y estroboscópico
-- Todas las herramientas esenciales: graves/filtro, modos hot cue, bucle, fx, sampler, jog wheels con detección de presión, etc
 - Tarjeta de sonido incluida para pre escuchar las salidas de auriculares y altavoces
+- Todas las herramientas esenciales: graves/filtro, modos hot cue, bucle, fx, sampler, jog wheels con detección de presión, etc
+- Compacto y fácil de llevar a donde quieras
+- El controlador de dj ideal para introducirte en el arte del dj, con serato dj lite incluido
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07HKWSWG8/?tag=tolees-21)
