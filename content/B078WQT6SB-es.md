@@ -28,9 +28,9 @@ Está [Samsung EVO M.2 - Disco Estado Solido SSD  1 TB  550 megabytes/s  Color N
 
 ℹ️:
 
+- Dispone de interfaz M.2
+- Escritura secuencial: 520MB/s
 - Velocidad de transferencia de datos: 550 MB por segundo
 - Lectura secuencial: 550MB/s
-- Escritura secuencial: 520MB/s
-- Dispone de interfaz M.2
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B078WQT6SB/?tag=tolees-21)
