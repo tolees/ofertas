@@ -1,12 +1,13 @@
 ---
 layout: post
 title: 'Tucano-Bolsa para Ordenador  Hombre y Mu al 35.81 % de descuento'
-date: 2021-01-20 04:18:44
+date: 2021-02-15 22:10:52
 image: 'https://m.media-amazon.com/images/I/41Yio23TGML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B003Z12NIS-es Tucano-Bolsa para Ordenador Hombre y Mujer con Bolsillo...'
+sku: 'B003Z12NIS-es'
 tags: [  ]
 actualPrice: 19.9 EUR
 currency: EUR
@@ -15,6 +16,7 @@ comparePrice: 31.0 EUR
 prodname: 'Tucano-Bolsa para Ordenador  Hombre y Mujer con Bolsillo Para Ordenador Portátil de 11.6 Pulgadas  iPad y Tableta Universal. Bolsa de Oficina y Universidad'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Tucano'
 buyurl: 'https://www.amazon.es/dp/B003Z12NIS/?tag=tolees-21'
 descuento: '35.81'
 average: '19.9'
@@ -28,8 +30,8 @@ Ahora mismo tienes [Tucano-Bolsa para Ordenador  Hombre y Mujer con Bolsillo Par
 
 - Completely foam-padded compartment to protect laptop equipment
 - Shoulder strap with easy-grip, shock absorbing design
-- External pockets for quick access to accessories
 - Shoulder strap with swivel clips prevent twisting
+- External pockets for quick access to accessories
 - Anti-scratch protection
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B003Z12NIS/?tag=tolees-21)

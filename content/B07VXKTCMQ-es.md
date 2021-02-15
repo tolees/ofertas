@@ -28,12 +28,12 @@ Ahora mismo tienes [Tommy Hilfiger TJM Stretch Oxford Shirt Camisa  Blanco  Whit
 
 🔎:
 
-- Parche de bandera Tommy Jeans en el pecho
-- Marca Tommy Jeans
-- Corte entallado
-- Puños con dos botones
 - Tela tejida
+- Marca Tommy Jeans
 - Algodón Oxford elástico
+- Corte entallado
+- Parche de bandera Tommy Jeans en el pecho
+- Puños con dos botones
 - Cuello abotonado
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VXKTCMQ/?tag=tolees-21)

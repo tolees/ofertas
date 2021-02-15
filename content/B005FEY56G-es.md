@@ -28,10 +28,10 @@ Está [Casio Reloj de Pulsera AQ-S800WD-1EVEF](https://www.amazon.es/dp/B005FEY5
 
 ℹ️:
 
-- Correa de acero inoxidable con cierre desplegable
 - Resistente al agua hasta 10 bar / 100 metros
-- Cristal mineral que protege de daños externos
+- Correa de acero inoxidable con cierre desplegable
 - Luz LED para iluminar la esfera del reloj
 - Resistente al agua hasta 10 bar / 100 metros
+- Cristal mineral que protege de daños externos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B005FEY56G/?tag=tolees-21)

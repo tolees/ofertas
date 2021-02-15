@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bourjois Brow Palette Kit para cejas Ton al 71.40 % de descuento'
-date: 2020-09-01 22:32:22
+date: 2021-02-15 22:12:59
 image: 'https://m.media-amazon.com/images/I/414bYN1bNVL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ comparePrice: 10.49 EUR
 prodname: 'Bourjois Brow Palette Kit para cejas Tono 2 Brunette - 37 gr.'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Bourjois'
 buyurl: 'https://www.amazon.es/dp/B06XD7HNHR/?tag=tolees-21'
 descuento: '71.40'
 average: '3.0'
@@ -28,5 +28,10 @@ Ahora mismo tienes [Bourjois Brow Palette Kit para cejas Tono 2 Brunette - 37 gr
 
 🔎:
 
+- Aplicador de doble punta con una brocha y un cepillo
+- El kit perfecto para unas cejas naturales
+- Paleta de cejas 3 en 1 para un diseño y definición fácil de tus cejas
+- Define y esculpe con la cera, rellena e intensifca con el polvo y amplia la mirada con el iluminador
+- Hasta 16 horas de duración sin retoques
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B06XD7HNHR/?tag=tolees-21)
