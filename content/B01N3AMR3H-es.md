@@ -28,10 +28,10 @@ En este momento está [Crock-Pot CSC028X-01 Olla de Cocción  3.5 litros  Acero 
 
 🔎:
 
+- Recipiente y tapa aptos para usar en el horno y en el lavavajillas
 - Acabado en blanco; fácil desmontaje para facilitar limpieza
 - 3.5 litros de capacidad, ideal para 3 ó 4 raciones
-- Selector manual, 2 niveles de potencia (Alta y Baja), y función de mantener caliente
 - Utensilios incluidos
-- Recipiente y tapa aptos para usar en el horno y en el lavavajillas
+- Selector manual, 2 niveles de potencia (Alta y Baja), y función de mantener caliente
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01N3AMR3H/?tag=tolees-21)

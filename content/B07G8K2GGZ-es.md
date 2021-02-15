@@ -28,10 +28,10 @@ Ahora mismo tienes [George Foreman Compact – Grill Eléctrico  Plancha Grill d
 
 🔎:
 
-- Luz indicadora cuando el grill está listo para cocinar
 - Pie trasero ajustable para cocinar en superficie plana o con inclinación, en plano es óptimo para bocadillos y paninis, con inclinación es óptima para carnes
-- Grill eléctrico de 1200 vatios de potencial para cocinar hasta 3 porciones, carcasa superior de acero biselado y asa de acero
-- El grill se puede guardar en vertical, incluso con la bandeja para el goteo con recogecable
 - Placas con revestimiento antiadherente de fácil limpieza, bandeja para el goteo Perfect-Fit
+- El grill se puede guardar en vertical, incluso con la bandeja para el goteo con recogecable
+- Luz indicadora cuando el grill está listo para cocinar
+- Grill eléctrico de 1200 vatios de potencial para cocinar hasta 3 porciones, carcasa superior de acero biselado y asa de acero
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07G8K2GGZ/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s The Jacket Chaqueta vaquera  Blue al 39.18 % de rebaja'
-date: 2021-02-14 11:39:21
+date: 2021-02-15 11:49:25
 image: 'https://m.media-amazon.com/images/I/4151TUW3VAL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B07S2S5VX9/?tag=tolees-21'
 descuento: '39.18'
-average: '62.8617647058824'
+average: '63.9278947368422'
 ---
 
 Tienes [Levi s The Jacket Chaqueta vaquera  Blue  Moon Lit Trucker 0466   M para Hombre](https://www.amazon.es/dp/B07S2S5VX9/?tag=tolees-21) con precio final de  72.99 EUR (original: 120.0 EUR) (39.18 %  de rebaja) aqui!

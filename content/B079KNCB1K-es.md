@@ -29,9 +29,9 @@ Está [Remington Power Advanced F9200 - Afeitadora de Láminas  Cuchillas de Tit
 ℹ️:
 
 - Uso con o sin cable; autonomía de hasta 120 minutos y tiempo de recarga de 2 horas; batería de litio
-- Totalmente lavable; dispone de función turbo, función de carga rápida e indicador LED de tres estados
 - Láminas y cabezal de recorte dobles y flexibles para una mayor cobertura de afeitado
 - El cabezal pivotante es ajustable, para así llegar a pelos rebeldes y conseguir un mayor detalle
 - Incluye neceser de viaje, base de carga, protector de cabezales y cepillo para la limpieza
+- Totalmente lavable; dispone de función turbo, función de carga rápida e indicador LED de tres estados
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B079KNCB1K/?tag=tolees-21)

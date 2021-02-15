@@ -29,9 +29,9 @@ Tienes [Funko- Pop Star Wars The Rise of Skywalker-Rey Disney Figura Coleccionab
 ℹ️:
 
 - Descúbre otras figuras de la colección disney star wars y colecciónalas todas
-- Disney star wars
-- De la colección star wars the rise of skywalker, rey como figura de vinilo pop de funko
 - Rey
+- Disney star wars
 - La figura mide 9 cm y se envía en una caja ilustrada con ventana
+- De la colección star wars the rise of skywalker, rey como figura de vinilo pop de funko
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07QR6Q35M/?tag=tolees-21)

@@ -28,10 +28,10 @@ En este momento está [Princess 183028 Freidora eléctrica doble  Zona Fría  po
 
 🔎:
 
-- Las zonas frías evitan que se quemen las migas y el filtro mantiene el aceite limpio
 - Potencia efectiva de 2 x 1800 W para que la freidora se caliente rápidamente
-- Ofrezca a toda la familia patatas fritas y aperitivos gracias al volumen de 2 x 3 litros
-- Fácil de limpiar gracias a las piezas que se pueden lavar en el lavavajillas
 - Temperatura regulable hasta 190 ºC; permite seleccionar diferentes temperaturas según los alimentos: Se recomienda pescado y verduras a 170ºC y patatas y alimentos congelados a 190ºC
+- Ofrezca a toda la familia patatas fritas y aperitivos gracias al volumen de 2 x 3 litros
+- Las zonas frías evitan que se quemen las migas y el filtro mantiene el aceite limpio
+- Fácil de limpiar gracias a las piezas que se pueden lavar en el lavavajillas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00JRC3AAO/?tag=tolees-21)

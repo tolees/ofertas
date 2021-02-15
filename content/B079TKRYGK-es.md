@@ -28,10 +28,10 @@ Tienes [Russell Hobbs Desire - Licuadora y Exprimidor Eléctrico  550 W  Plásti
 
 🔎:
 
-- Exprimidor de zumo de 550 vatios con boca extragrande de 75 milímetros para introducir frutas enteras
-- Dispone de una jarra de zumo de 750 mililitros con boquilla de precisión y tapa de filtrado de espuma, que se guarda en el depósito de pulpa de 2 litros para ahorrar espacio
 - Piezas lavables en el lavavajillas, libre de BPA
-- Cuchilla cortadora/colador de acero inoxidable extraíble y de fácil limpieza y 2 velocidades para frutas más firme y para pulpa más blanda
+- Exprimidor de zumo de 550 vatios con boca extragrande de 75 milímetros para introducir frutas enteras
 - Brazo con bloqueo de seguridad y pies de goma con ventosa para una mayor estabilidad
+- Dispone de una jarra de zumo de 750 mililitros con boquilla de precisión y tapa de filtrado de espuma, que se guarda en el depósito de pulpa de 2 litros para ahorrar espacio
+- Cuchilla cortadora/colador de acero inoxidable extraíble y de fácil limpieza y 2 velocidades para frutas más firme y para pulpa más blanda
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B079TKRYGK/?tag=tolees-21)

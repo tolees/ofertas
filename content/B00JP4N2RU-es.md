@@ -28,10 +28,10 @@ Ahora mismo tienes [JOCCA Mesa Auxiliar](https://www.amazon.es/dp/B00JP4N2RU/?ta
 
 🔎:
 
-- 52 cm de largo – 39 cm de ancho
-- 70 cm de alto (Max.)
 - Soporta hasta 25 kg
+- 70 cm de alto (Max.)
 - 6 niveles de altura
+- 52 cm de largo – 39 cm de ancho
 - 6 niveles de altura y 3 ángulos de ajuste para la utilizar para cualquier actividad
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00JP4N2RU/?tag=tolees-21)

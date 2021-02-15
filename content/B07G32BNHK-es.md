@@ -28,10 +28,10 @@ Ahora mismo tienes [Chicco Miinimo2 Silla de paseo ultracompacta y ligera  solo 
 
 🔎:
 
-- Ultracompacta y ligera
+- Capota parasol extensible
 - Plegado de libro con una sola mano
 - Fácil de transportar: bandolera + bolsa
 - Respaldo reclinable en 4 posiciones
-- Capota parasol extensible
+- Ultracompacta y ligera
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07G32BNHK/?tag=tolees-21)

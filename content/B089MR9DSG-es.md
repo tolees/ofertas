@@ -28,10 +28,10 @@ Tienes [Durex Lubricante Original Base Agua - 250 ml](https://www.amazon.es/dp/B
 
 🔎:
 
-- ORIGINAL: Añade el lubricante H2O a tus relaciones para llevarlas a otra dimensión de manera natural
-- COMPATIBLE CON PRESERVATIVOS: Este lubricante puede usarse con preservativos de látex, poliisoporeno y poliuretano
 - SUAVE Y LIGERO: Suaviza tus relaciones con este lubricante de base acuosa
-- ADECUADO PARA SEXO ORAL, VAGINAL O ANAL: Gracias a su textura suave y ligera, podrás usarlo en cualquier ocasión
+- ORIGINAL: Añade el lubricante H2O a tus relaciones para llevarlas a otra dimensión de manera natural
 - BASE AGUA: No es graso y puede lavarse fácilmente; para disfrutar de un sexo fluido
+- ADECUADO PARA SEXO ORAL, VAGINAL O ANAL: Gracias a su textura suave y ligera, podrás usarlo en cualquier ocasión
+- COMPATIBLE CON PRESERVATIVOS: Este lubricante puede usarse con preservativos de látex, poliisoporeno y poliuretano
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B089MR9DSG/?tag=tolees-21)

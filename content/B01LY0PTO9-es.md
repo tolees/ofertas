@@ -28,9 +28,9 @@ Tienes [Linksys WRT3200ACM-EU - Router Wi-Fi Gigabit con Código Abierto.](https
 
 🔎:
 
-- CPU de doble núcleo a 1,8 GHz, 256 MB de memoria flash y 512 MB de memoria RAM
-- Puertos eSATA, USB 3.0 y USB 2.0
-- Compatible con software de código abierto (OpenWRT y DD-WRT)
 - Tri-Stream 160 para doblar el ancho de banda a 160 MHz en todos los flujos espaciales
+- CPU de doble núcleo a 1,8 GHz, 256 MB de memoria flash y 512 MB de memoria RAM
+- Compatible con software de código abierto (OpenWRT y DD-WRT)
+- Puertos eSATA, USB 3.0 y USB 2.0
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01LY0PTO9/?tag=tolees-21)

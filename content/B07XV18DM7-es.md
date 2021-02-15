@@ -28,10 +28,10 @@ Ahora mismo tienes [SteelSeries Sensei Ten  Ratón de Juego  Sensor Óptico True
 
 🔎:
 
-- Tilt tracking for advanced stabilization during intense gameplay
-- Guaranteed crisp and consistent for 60 million clicks. Polling Rate: 1000Hz 1 ms
-- All-new TrueMove Pro sensor with the best tracking on any surface
-- The iconic ambidextrous shape of the Sensei returns
 - Hyper durable build to withstand the most intense wear and tear
+- Guaranteed crisp and consistent for 60 million clicks. Polling Rate: 1000Hz 1 ms
+- The iconic ambidextrous shape of the Sensei returns
+- All-new TrueMove Pro sensor with the best tracking on any surface
+- Tilt tracking for advanced stabilization during intense gameplay
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07XV18DM7/?tag=tolees-21)

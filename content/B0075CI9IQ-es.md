@@ -28,12 +28,12 @@ Tienes [Daga - Almohadilla L2  Lujo Doble  110W  46X34  Autoestop  Programa Conf
 
 🔎:
 
-- Niveles de temperatura: 4
-- Dimensiones(ancho x largo): 34 x 46 cm
-- Potencia: 60 W
-- Tipo de indicador: luz piloto
-- Tipo de funda: lavable
 - Material de la funda: algodón y plástico
+- Dimensiones(ancho x largo): 34 x 46 cm
+- Tipo de indicador: luz piloto
+- Potencia: 60 W
+- Niveles de temperatura: 4
 - Alimentación: red
+- Tipo de funda: lavable
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0075CI9IQ/?tag=tolees-21)
