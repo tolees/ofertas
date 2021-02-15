@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'realme 6 – Smartphone de 6.5”  8 GB RAM  al 28.67 % de descuento'
-date: 2021-02-04 15:58:56
+date: 2021-02-15 13:40:11
 image: 'https://m.media-amazon.com/images/I/41nO2KESlkL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'realme'
 buyurl: 'https://www.amazon.es/dp/B085FF4RD7/?tag=tolees-21'
 descuento: '28.67'
-average: '236.181020408162'
+average: '235.437399999999'
 ---
 
 Ahora mismo tienes [realme 6 – Smartphone de 6.5”  8 GB RAM + 128 GB ROM  Procesador OctaCore  Cuádruple Cámara AI 64MP  Dual Sim  Color Comet Blue](https://www.amazon.es/dp/B085FF4RD7/?tag=tolees-21) a 199.0 EUR (original: 279.0 EUR) (28.67 %  de descuento) en el siguiente enlace!
@@ -28,9 +28,9 @@ Ahora mismo tienes [realme 6 – Smartphone de 6.5”  8 GB RAM + 128 GB ROM  Pr
 
 🔎:
 
-- Procesador: Mediatek Helio G90T 2.05Ghz
 - Cámara: Cuádruple, 64MP+8MP +2MP+2MP
-- Pantalla: 6.5", 1080 x 2400 pixels
+- Procesador: Mediatek Helio G90T 2.05Ghz
 - Batería: 4300 mAh
+- Pantalla: 6.5", 1080 x 2400 pixels
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B085FF4RD7/?tag=tolees-21)

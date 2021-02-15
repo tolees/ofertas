@@ -28,10 +28,10 @@ Tienes [BaByliss C2000E - Smooth and Wave Moldeador de Pelo 2 en 1 Alisa y Ondul
 
 🔎:
 
-- Selector dirección onda
+- Rizador 100% Automático
+- Plancha de pelo 2 en 1
 - 3 ajustes de temperatura
 - Alisa y ondula el cabello
-- Plancha de pelo 2 en 1
-- Rizador 100% Automático
+- Selector dirección onda
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07MBV6QB9/?tag=tolees-21)
