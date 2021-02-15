@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 26.61 % en 20th Century Fox Home Entertainment Espa'
-date: 2021-01-24 22:17:43
+date: 2021-02-14 23:49:19
 image: 'https://m.media-amazon.com/images/I/51WKuRxF4kL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ comparePrice: 12.25 EUR
 prodname: '20th Century Fox Home Entertainment España  S.A. - Sonrisas Y Lagrimas - Blu-Ray [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
+brand: '20th Century Fox Home Entertainment España, S.A.'
 buyurl: 'https://www.amazon.es/dp/B00SHRZPSA/?tag=tolees-21'
 descuento: '26.61'
 average: '8.99'
