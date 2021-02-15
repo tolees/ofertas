@@ -28,9 +28,9 @@ Tienes [Superga 2750 COTU Classic Sneakers  Zapatillas Unisex Adulto  Negro S  4
 
 🔎:
 
-- Ojales en relieve Superga
-- Superga Tab en el lateral y el talón
 - Suela de goma vulcanizada.
+- Ojales en relieve Superga
 - Algodón transpirable.
+- Superga Tab en el lateral y el talón
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B001PH5S9K/?tag=tolees-21)

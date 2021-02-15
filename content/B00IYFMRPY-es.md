@@ -28,9 +28,9 @@ Tienes [Princess 112380 Deshidratador  245 W  Default no Selection Value  negro]
 
 ℹ️:
 
-- Termostato regulable, pies anti-deslizantes, luces piloto
 - 6 niveles, capas desmontables, tapa extraíble
-- Voltaje: 220-240 V, potencia: 245 W
 - Deshidrata fruta, verduras, hierbas y pescado
+- Voltaje: 220-240 V, potencia: 245 W
+- Termostato regulable, pies anti-deslizantes, luces piloto
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00IYFMRPY/?tag=tolees-21)

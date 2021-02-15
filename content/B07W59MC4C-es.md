@@ -28,8 +28,8 @@ Tienes [TOUS Kaos Mini Sport  Bandolera Women s  Black  U](https://www.amazon.es
 
 🔎:
 
-- Certificado autenticidad tous
 - Bandolera flat km sport negro-gris
 - Tous
+- Certificado autenticidad tous
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07W59MC4C/?tag=tolees-21)

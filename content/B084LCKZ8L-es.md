@@ -28,10 +28,10 @@ En este momento está [ELMER S - Elmer’s Kit Slime Con colores Cambiantes que 
 
 🔎:
 
-- Se puede lavar con agua y jabón, lo cual facilita la limpieza y la hace más llevadera, con una fórmula especialmente diseñada para niños (producto no apto para menores de tres años)
-- El líquido mágico Elmers es una solución todo en uno que transforma el pegamento Elmers en un slime irresistiblemente divertido; basta con añadir un poco de líquido mágico al mismo tiempo para conseguir la sensación deseada
-- Contemple con admiración cómo cambian de color las creaciones de slime a la luz del día
-- Con este kit completo, podrá crear un slime fascinante que cambia de color mágicamente al entrar en contacto con la luz solar
 - Contenido del kit: 1 frasco de pegamento que cambia de color entre azul y morado (147 ml), 1 frasco de pegamento que cambia de color entre amarillo y rojo (147 ml) y 2 frascos de líquido mágico (68 ml cada uno)
+- Se puede lavar con agua y jabón, lo cual facilita la limpieza y la hace más llevadera, con una fórmula especialmente diseñada para niños (producto no apto para menores de tres años)
+- Contemple con admiración cómo cambian de color las creaciones de slime a la luz del día
+- El líquido mágico Elmers es una solución todo en uno que transforma el pegamento Elmers en un slime irresistiblemente divertido; basta con añadir un poco de líquido mágico al mismo tiempo para conseguir la sensación deseada
+- Con este kit completo, podrá crear un slime fascinante que cambia de color mágicamente al entrar en contacto con la luz solar
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B084LCKZ8L/?tag=tolees-21)

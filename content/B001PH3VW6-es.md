@@ -29,9 +29,9 @@ Está [Superga 2750 COTU Classic  Zapatillas Unisex Adulto  Negro S  42 EU](http
 ℹ️:
 
 - plano
+- Goma
+- Sin forro
 - Cordones
 - lona
-- Sin forro
-- Goma
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B001PH3VW6/?tag=tolees-21)
