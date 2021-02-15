@@ -28,8 +28,8 @@ En este momento está [NIKE W NSW Legasee Lggng Swoosh Sport Trousers  Mujer  Bl
 
 🔎:
 
-- Slim fit
 - Elastic waistband
 - Elastic fabric
+- Slim fit
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07VF63C8C/?tag=tolees-21)

@@ -28,8 +28,8 @@ En este momento está [Marvel Spider-Man Super Web Slinger](https://www.amazon.e
 
 🔎:
 
-- Dispara agua o líquido de telaraña Spidey
-- El guante es de talla única y cuenta con diseño de Spiderman
 - Imagina las batallas de Spidey
+- El guante es de talla única y cuenta con diseño de Spiderman
+- Dispara agua o líquido de telaraña Spidey
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07928DFMT/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Juego De Tronos - Funko Rock Candy Lady  al 65.12 % de descuento'
-date: 2021-02-14 15:48:25
+date: 2021-02-15 21:37:16
 image: 'https://m.media-amazon.com/images/I/51vkWZsDcvL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Funko'
 buyurl: 'https://www.amazon.es/dp/B07HCQCX1S/?tag=tolees-21'
 descuento: '65.12'
-average: '7.95'
+average: '7.77272727272728'
 ---
 
 Está [Juego De Tronos - Funko Rock Candy Lady Sansa](https://www.amazon.es/dp/B07HCQCX1S/?tag=tolees-21) con 65.12 de descuento por 6.0 EUR (original: 17.2 EUR) en el siguiente enlace!
