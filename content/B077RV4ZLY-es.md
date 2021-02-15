@@ -28,8 +28,8 @@ Tienes [Western Digital - WD Elements Desktop - Disco duro externo de sobremesa 
 
 🔎:
 
+- Fácil uso
 - Compatible Windows
 - Un plus de capacidad para tus archivos
-- Fácil uso
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B077RV4ZLY/?tag=tolees-21)

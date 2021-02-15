@@ -28,9 +28,9 @@ Tienes [L Oreal Paris Elvive - L Óreal Paris Elvive Nutri Gloss  Champú - 370m
 
 ℹ️:
 
-- Bote de 370 ml
 - El cabello capta y refleja mejor la luz
-- Nutre la fibra sin apelmazar el cabello
 - Pensado para cabellos largos, apagados
+- Bote de 370 ml
+- Nutre la fibra sin apelmazar el cabello
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01LNOPGF0/?tag=tolees-21)

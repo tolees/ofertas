@@ -28,9 +28,9 @@ Está [Friskies - Alimento complementario para perros  175 g](https://www.amazon
 
 ℹ️:
 
-- Golosina trenzada con sabor a queso y aroma bacon
 - Premios blandos
-- El embalaje puede ser diferente, pero el contenido es el mismo.
 - Perros
+- Golosina trenzada con sabor a queso y aroma bacon
+- El embalaje puede ser diferente, pero el contenido es el mismo.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00O4BAQE6/?tag=tolees-21)

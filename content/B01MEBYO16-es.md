@@ -28,8 +28,8 @@ Está [Umbro Loyal Pantalones  Hombre  Azul Marino Oscuro  S](https://www.amazon
 
 ℹ️:
 
-- Pertenece al catalogo de Team (Equipo) de Umbro
-- Cintura elástica con cordón ajustable; bajos del Pantalón rectos
 - Bolsillos laterales, sin cremallera; bordado de Umbro en lado izquierdo
+- Cintura elástica con cordón ajustable; bajos del Pantalón rectos
+- Pertenece al catalogo de Team (Equipo) de Umbro
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01MEBYO16/?tag=tolees-21)

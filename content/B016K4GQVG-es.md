@@ -28,9 +28,9 @@ Tienes [UBIQUITI Networks - Ubiquiti UAP-AC-LITE - Punto de acceso dual radio  B
 
 🔎:
 
-- Punto +F16408:I16426de acceso
-- Wi-Fi estándares 802.11 a / b / g / n / ac
 - BLANCO
+- Wi-Fi estándares 802.11 a / b / g / n / ac
+- Punto +F16408:I16426de acceso
 - Seguridad inalámbrica WEP, WPA-PSK, WPA-TKIP,
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B016K4GQVG/?tag=tolees-21)

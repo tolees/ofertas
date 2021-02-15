@@ -28,12 +28,12 @@ Tienes [Bionaire Purificador de aire BAP1700 BAP1700-I  70 W  3 Velocidades  Gri
 
 ℹ️:
 
-- Potencia: 65 W, bajo consumo de energía
-- Funcionamiento silencioso, nivel de sonido 56 db; modo ahorro de energía, permite su uso por la noche
-- Purificador de aire adecuado para estancias grandes, CADR 170 m3/h
 - Temporizador hasta 8 horas, tres velocidades y modo automático
+- Potencia: 65 W, bajo consumo de energía
 - Ionizador que libera iones en el aire filtrado, que se unen a partículas tales como humo, polvo o polen, para formar partículas más grandes que el filtro puede atrapar con más facilidad
-- Sensor de calidad del aire; capacidad de filtrado de aire: polvo: 110; humo: 110; polen: 110
+- Funcionamiento silencioso, nivel de sonido 56 db; modo ahorro de energía, permite su uso por la noche
 - Elimina hasta el 99% de las partículas en el aire, de tamaño hasta 2 micras gracias al doble nivel de filtrado: tipo HEPA de larga duración + prefiltro lavable; indicador luminoso de estado del filtro
+- Sensor de calidad del aire; capacidad de filtrado de aire: polvo: 110; humo: 110; polen: 110
+- Purificador de aire adecuado para estancias grandes, CADR 170 m3/h
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0038KY5JG/?tag=tolees-21)
