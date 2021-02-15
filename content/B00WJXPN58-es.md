@@ -28,8 +28,8 @@ En este momento está [Lee LF0450FZ  Cinturón Para Hombre  Marrón  Dark Cognac
 
 🔎:
 
-- Cierre con hebilla
-- Cinturón para hombre
 - Tiene el logotipo de la marca en relieve en la punta
+- Cinturón para hombre
+- Cierre con hebilla
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00WJXPN58/?tag=tolees-21)
