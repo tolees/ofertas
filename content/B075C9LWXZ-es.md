@@ -28,10 +28,10 @@ Tienes [Seiko Reloj Cronógrafo para Hombre de Cuarzo con Correa en Cuero SSB277
 
 🔎:
 
-- WR 100mt
-- Negro y Negro
-- Cuarzo
 - Casual
 - Cronógrafo en Piel para Hombre
+- Negro y Negro
+- Cuarzo
+- WR 100mt
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B075C9LWXZ/?tag=tolees-21)

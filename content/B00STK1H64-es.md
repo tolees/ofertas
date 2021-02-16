@@ -28,10 +28,10 @@ Tienes [Lotus Reloj Análogo clásico para niñas de Cuarzo con Correa en Cuero 
 
 🔎:
 
-- Sumergible: 5 bares
 - Correa: cuero blanco/rosa
 - Caja: acero inoxidable plateado
-- Diámetro de la caja: 23 mm
+- Sumergible: 5 bares
 - Esfera plateada con números arábigos rosados y manecillas plateadas
+- Diámetro de la caja: 23 mm
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00STK1H64/?tag=tolees-21)

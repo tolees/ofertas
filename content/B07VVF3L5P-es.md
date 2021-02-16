@@ -28,9 +28,9 @@ Tienes [Lotus Reloj de Vestir 18737/1](https://www.amazon.es/dp/B07VVF3L5P/?tag=
 
 ℹ️:
 
-- - Material de la Carcasa: Acero inoxidable
 - - Color de la caja: Plata
 - - Cristal: Cristal Mineral
+- - Material de la Carcasa: Acero inoxidable
 - Carcasa
 - - Forma de la Carcasa: Redondo
 

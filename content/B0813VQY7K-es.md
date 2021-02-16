@@ -28,8 +28,8 @@ Ahora mismo tienes [adidas Originals Superstar  Zapatillas Deportivas Hombre  Fo
 
 🔎:
 
-- Cordones de zapatos
 - Zapatilla clásica de cuero
+- Cordones de zapatos
 - Parte superior de cuero
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0813VQY7K/?tag=tolees-21)

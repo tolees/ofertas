@@ -28,10 +28,10 @@ Está [KT Alienz Pistola Espacial con luz y Sonido](https://www.amazon.es/dp/B01
 
 ℹ️:
 
-- Cuenta con luces y sonidos reales. ¡Que comience la batalla espacial.
-- No apto para niños menores de 3 años de edad.
-- Alienz Pistola Espacial con luz y sonido. Pilas de tamaño AA incluidas.
 - Este es un divertido fingir Juguete para los niños, ya que pueden dejar que su imaginación vuele.
+- No apto para niños menores de 3 años de edad.
 - La pistola es de aproximadamente 23 cm de altura y 12 cm de ancho.
+- Alienz Pistola Espacial con luz y sonido. Pilas de tamaño AA incluidas.
+- Cuenta con luces y sonidos reales. ¡Que comience la batalla espacial.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01L0AC2D6/?tag=tolees-21)

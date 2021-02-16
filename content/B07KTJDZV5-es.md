@@ -28,10 +28,10 @@ Tienes [Scuderia Ferrari Reloj de pulsera Analógico Para Unisex Niños de Cuarz
 
 ℹ️:
 
-- Grosor de la caja de 8,5 mm
 - Esfera negra con detalles de acero inoxidable
 - Tres manecillas
 - Correa de silicona negra con detalles en rojo
 - 3 ATM de resistencia al agua
+- Grosor de la caja de 8,5 mm
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07KTJDZV5/?tag=tolees-21)

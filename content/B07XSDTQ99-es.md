@@ -28,10 +28,10 @@ Tienes [Ufesa PV1500C Activa - Plancha de Vapor 2200W  Golpe de Vapor Máx 100gr
 
 🔎:
 
-- Spray pulverizador y antigoteo, permite el planchado vertical y en seco; dispone de sistema 2 antical con la autolimpieza y el golpe antical
-- Plancha de vapor con 2200w de potencía; tiene un depósito con capacidad de 280ml para un golpe vapor de 100gr y vapor constante de 25gr/min, y dosificación de vapor constante tanto en posición horizontal como en vertical
 - La base es de cerámica para un deslizamiento fácil
+- Spray pulverizador y antigoteo, permite el planchado vertical y en seco; dispone de sistema 2 antical con la autolimpieza y el golpe antical
 - Viene con vaso de llenado
 - Dispone de cable largo de 1,8m y clide fijación para poder guardarlo cómodamente en el talón diseñado para ello
+- Plancha de vapor con 2200w de potencía; tiene un depósito con capacidad de 280ml para un golpe vapor de 100gr y vapor constante de 25gr/min, y dosificación de vapor constante tanto en posición horizontal como en vertical
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07XSDTQ99/?tag=tolees-21)
