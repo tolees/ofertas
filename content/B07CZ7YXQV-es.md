@@ -28,12 +28,12 @@ Ahora mismo tienes [Salomon XA Pro 3D CSWP Zapatillas Impermeables de Deporte Un
 
 🔎:
 
-- Material exterior: Sintético
-- Material de la suela: Goma
 - Revestimiento: Sintético
+- Composición: Sintético
 - Tipo de tacón: Plano
 - Anchura del zapato: Normal
+- Material de la suela: Goma
+- Material exterior: Sintético
 - Cierre: Cordones rápidos
-- Composición: Sintético
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07CZ7YXQV/?tag=tolees-21)

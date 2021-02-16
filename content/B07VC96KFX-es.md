@@ -29,7 +29,7 @@ Está [Hackett London Delave Linen Hopsack Chaqueta  Rosa  325pink 325   Medium 
 ℹ️:
 
 - Manga larga
-- 100% lino
 - Forma del cuello: Kent
+- 100% lino
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07VC96KFX/?tag=tolees-21)
