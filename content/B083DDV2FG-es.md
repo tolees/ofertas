@@ -28,10 +28,10 @@ Ahora mismo tienes [PINPOXE - Delineador de ojos  Delineador líquido de ojos  D
 
 🔎:
 
-- [PARA PRINCIPIANTES Y LENTES DE CONTACTO] - Este delineador líquido de precisión es una buena opción para principiantes en maquillaje, es flexible y fácil de usar. Y su fórmula suave es amigable para los usuarios de lentes de contacto!
-- [SUGERENCIA SUAVE]: diseño controlado automáticamente con la punta del lápiz delineador de ojos, súper suave y flexible, fácil de colorear, se puede deslizar suavemente sin que se acumule demasiada tinta en el párpado
-- [DURABLE / IMPERMEABLE] - Aplique nuestro delineador de tinta a prueba de agua y de larga duración por la mañana. Dura todo el día y verás que el maquillaje de tus ojos está tan limpio como hace diez horas.
 - [SIN OJO DE RACCOON] - Alguna vez te has sentido incómodo como ojos de mapache? Nuestro delineador a prueba de manchas, a prueba de manchas y resistente al agua te mantiene alejado de la situación embarazosa.
 - [FÁCIL ELIMINAR]: nuestra exclusiva fórmula para delineador de ojos, profundamente pigmentada e impermeable, mantendrá su maquillaje de ojos todo el día. Si vas a casa por la noche, es mejor que te quites el maquillaje con un removedor.
+- [DURABLE / IMPERMEABLE] - Aplique nuestro delineador de tinta a prueba de agua y de larga duración por la mañana. Dura todo el día y verás que el maquillaje de tus ojos está tan limpio como hace diez horas.
+- [PARA PRINCIPIANTES Y LENTES DE CONTACTO] - Este delineador líquido de precisión es una buena opción para principiantes en maquillaje, es flexible y fácil de usar. Y su fórmula suave es amigable para los usuarios de lentes de contacto!
+- [SUGERENCIA SUAVE]: diseño controlado automáticamente con la punta del lápiz delineador de ojos, súper suave y flexible, fácil de colorear, se puede deslizar suavemente sin que se acumule demasiada tinta en el párpado
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B083DDV2FG/?tag=tolees-21)

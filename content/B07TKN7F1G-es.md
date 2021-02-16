@@ -28,8 +28,8 @@ Está [Clarks Sift Lace  Zapatillas Mujer  Blanco  White Combi White Combi   41.
 
 ℹ️:
 
-- Exterior: piel
-- Interior: textil
 - Suela: goma
+- Interior: textil
+- Exterior: piel
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07TKN7F1G/?tag=tolees-21)

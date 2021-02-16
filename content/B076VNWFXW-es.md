@@ -28,7 +28,7 @@ Está [G-STAR RAW 3301 1/2 Pantalones Cortos  Azul  Medium Aged 071   36  Talla 
 
 ℹ️:
 
-- Construcción de 5 bolsillos.
 - Tejido vaquero ligero.
+- Construcción de 5 bolsillos.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B076VNWFXW/?tag=tolees-21)

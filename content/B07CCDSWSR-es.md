@@ -28,10 +28,10 @@ Ahora mismo tienes [Rimmel London Brow This Way Fill & Sculpt Lápiz de Cejas To
 
 🔎:
 
-- Difumina y peina 2 en 1
-- A prueba de roces hasta 12 horas
-- Fórmula suave y cremosa
-- Aplicación precisa gracias a su exclusiva punta triangular
 - Rellena, define y esculpe tus cejas
+- Fórmula suave y cremosa
+- Difumina y peina 2 en 1
+- Aplicación precisa gracias a su exclusiva punta triangular
+- A prueba de roces hasta 12 horas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07CCDSWSR/?tag=tolees-21)
