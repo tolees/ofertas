@@ -28,9 +28,9 @@ Está [Calvin Klein Reloj Analógico para Hombre de Automático con Correa en Ac
 
 ℹ️:
 
-- - Forma de la Carcasa: Redondo
-- - Cristal: Cristal Zafiro
 - - Color de la caja: Plata
+- - Cristal: Cristal Zafiro
+- - Forma de la Carcasa: Redondo
 - - Material de la Carcasa: Acero inoxidable
 - Carcasa
 
