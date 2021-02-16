@@ -28,9 +28,9 @@ Ahora mismo tienes [Nixon Reloj Analógico para Mujer de Cuarzo con Correa en Ni
 
 🔎:
 
-- Esfera:
 - Mecanismo: cuarzo japonés Miyota de 3 agujas
 - Caja: acetato Mazzucchelli de 31 mm, 100 M , 10 ATM, bisel fijo de acetato artesanal, cristal mineral endurecido
 - Correa: acetato Mazzucchelli hecha a mano de 16 mm, 3 eslabones, doble cierre a presión de acero inoxidable microajustable
+- Esfera:
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07B4KS2FP/?tag=tolees-21)
