@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Westinghouse Ceiling Fans Vegas Ventilad con un 26.34 % de descuento'
-date: 2020-08-21 15:12:39
+date: 2021-02-16 15:09:28
 image: 'https://m.media-amazon.com/images/I/31abKAiRdgL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,10 +16,10 @@ comparePrice: 76.28 EUR
 prodname: 'Westinghouse Ceiling Fans Vegas Ventilador de Techo  Metal  Acabado en Blanco con aspas Reversibles en Blanco/Pino blanquedado'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Westinghouse Ceiling Fans'
 buyurl: 'https://www.amazon.es/dp/B003LXB3GS/?tag=tolees-21'
 descuento: '26.34'
-average: '54.2652380952381'
+average: '54.4326086956522'
 ---
 
 En este momento está [Westinghouse Ceiling Fans Vegas Ventilador de Techo  Metal  Acabado en Blanco con aspas Reversibles en Blanco/Pino blanquedado](https://www.amazon.es/dp/B003LXB3GS/?tag=tolees-21) a 56.19 EUR (original: 76.28 EUR) (26.34 %  de descuento) en el siguiente enlace!
@@ -28,5 +28,10 @@ En este momento está [Westinghouse Ceiling Fans Vegas Ventilador de Techo  Meta
 
 🔎:
 
+- El vidrio mate del kit de iluminación ofrece un tono perfecto y crea un ambiente acogedor.
+- Cuatro aspas reversibles le ofrecen la opción de elegir entre dos acabados: blanco limpio o pino blanqueado. El kit de iluminación con pantalla de vidrio mate es compatible con bombillas con casquillo E27, 60W máx. (no incluida), se recomienda usar con la bombilla LED Westinghouse 37128
+- Ventilador de techo tradicional de 105 cm con acabado blanco, ideal para habitaciones de hasta 20 m2
+- El motor de alta calidad ofrece un potente movimiento de aire y un funcionamiento silencioso, función de giro inverso para uso en invierno / verano
+- Instalar con o sin la varilla de extensión, incluye manual de instrucciones ilustrado, garantía limitada de 10 años para el motor
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B003LXB3GS/?tag=tolees-21)
