@@ -28,10 +28,10 @@ Tienes [ADAGG Juego de Regalo de aceites Esenciales  lámpara portátil de Fraga
 
 🔎:
 
-- Estilo / color: blanco / rojo / rosa
-- Consumo de energía: 1 W
-- Tamaño: 9.3 * 9.3 * 17.2cm / 3.66 * 3.66 * 6.77 "
 - Material: ABS + PP + PET
+- Consumo de energía: 1 W
+- Estilo / color: blanco / rojo / rosa
+- Tamaño: 9.3 * 9.3 * 17.2cm / 3.66 * 3.66 * 6.77 "
 - Voltaje de entrada: DC5V
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08R7PP4YK/?tag=tolees-21)

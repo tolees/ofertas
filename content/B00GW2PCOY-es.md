@@ -28,9 +28,9 @@ Ahora mismo tienes [Cacique Añejo Ron - 700 ml](https://www.amazon.es/dp/B00GW2
 
 🔎:
 
-- Beautiful round and sweet flavoured rum
 - Rich and creamy ideally served with an orange slice
-- A golden aged rum
 - Made of sugar cane molasses
+- Beautiful round and sweet flavoured rum
+- A golden aged rum
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00GW2PCOY/?tag=tolees-21)

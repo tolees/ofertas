@@ -28,10 +28,10 @@ Tienes [TACKLIFE Discos de Lija 125mm  100PCS de 40  60  80  100  150  180  240 
 
 🔎:
 
-- ➤GANCHO Y BUCLE DURABLE: Gancho y bucle durable, soporte de gancho y lazo para un reemplazo rápido de lijas y preperforado con 8 agujeros para la extracción de polvo
-- ➤10 GRANOS POPULARES: Viene con 100 papeles de lija, cada grano en 40, 60, 80, 100, 150, 180, 240, 320, 400, 800 hay 10 piezas, casi satisfacerán a sus todas demandas de pulido
-- ➤APLICACIÓN AMPLIA: Adecuadas en los materiales como metal, metaloide, madera, caucho, cuero, plástico, piedra, vidrio etc; Las aplicacioes específicas son en carpintería, pared, piso, piedra, superficie del automóvil, materiales decorativos pulidos
 - ➤LIJADORA APLICABLE: Es adecuado para la lijadora orbital de 125mm de Tacklife PRS01A, Tacklife PRS02A, Ryobi de 125mm, Bosch PEX 220 A, DeWalt DWE6423-QS, Makita BO5030, Makita BO5031, Makita BO5041 etc
+- ➤APLICACIÓN AMPLIA: Adecuadas en los materiales como metal, metaloide, madera, caucho, cuero, plástico, piedra, vidrio etc; Las aplicacioes específicas son en carpintería, pared, piso, piedra, superficie del automóvil, materiales decorativos pulidos
 - ➤MATERIAL DE ABRASIVO CALCINADO: Los granos fabricados de Óxido de Aluminio duradero (Abrasivo Calcinado) son resistentes al desgaste diario y el sistema de unión de resina de alta resistencia aumenta la vida útil
+- ➤10 GRANOS POPULARES: Viene con 100 papeles de lija, cada grano en 40, 60, 80, 100, 150, 180, 240, 320, 400, 800 hay 10 piezas, casi satisfacerán a sus todas demandas de pulido
+- ➤GANCHO Y BUCLE DURABLE: Gancho y bucle durable, soporte de gancho y lazo para un reemplazo rápido de lijas y preperforado con 8 agujeros para la extracción de polvo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07JCPJDS9/?tag=tolees-21)
