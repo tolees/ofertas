@@ -28,10 +28,10 @@ Ahora mismo tienes [Rimmel London Maxi Blush Colorete Tono 6 Exposed - 9 g](http
 
 🔎:
 
-- Colorete pigmentado para marcar el pómulo
-- Textura suave que se funde fácilmente con la piel
 - Efecto recién aplicado durante todo el día
 - Larga duración
+- Textura suave que se funde fácilmente con la piel
 - Fórmula ligera
+- Colorete pigmentado para marcar el pómulo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07D8VQG87/?tag=tolees-21)

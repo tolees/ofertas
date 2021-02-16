@@ -29,8 +29,8 @@ Tienes [Salter Glass - Báscula de baño analizadora  180 kg  color negro](https
 🔎:
 
 - Incorpora tecnología bia (análisis de bio impedancia); gracias a la tecnología bia podrá conocer exactamente tu estado físico y salud
-- También incorpora modo bmi calculando peso, grasa, porcentaje de agua corporal, masa muscular y masa ósea
 - Peso máximo 180 kg
 - Báscula de baño analizadora línea glass; función de memoria para 8 usuarios
+- También incorpora modo bmi calculando peso, grasa, porcentaje de agua corporal, masa muscular y masa ósea
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00KG61R4Q/?tag=tolees-21)
