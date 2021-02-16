@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cacique Añejo Ron - 700 ml al 30.21 % de descuento'
-date: 2021-02-07 16:56:11
+date: 2021-02-16 19:09:36
 image: 'https://m.media-amazon.com/images/I/31ixKaHzzmL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Cacique'
 buyurl: 'https://www.amazon.es/dp/B00GW2PCOY/?tag=tolees-21'
 descuento: '30.21'
-average: '10.705'
+average: '10.662'
 ---
 
 Ahora mismo tienes [Cacique Añejo Ron - 700 ml](https://www.amazon.es/dp/B00GW2PCOY/?tag=tolees-21) a 10.49 EUR (original: 15.03 EUR) (30.21 %  de descuento) en el siguiente enlace!
@@ -28,9 +28,9 @@ Ahora mismo tienes [Cacique Añejo Ron - 700 ml](https://www.amazon.es/dp/B00GW2
 
 🔎:
 
-- El Ron Cacique es un Añejo superior
-- El clima d entorno selvático idóneo para elaboración del Ron, hace tenga sabor único, equilibrado personalidad
-- Disfrútalo en vaso alto, hielo cola
-- Elaborado de forma artesanal y con las mejores materias primas que la naturaleza puede dar: agua pura manantial mejor caña azúcar
+- Beautiful round and sweet flavoured rum
+- Rich and creamy ideally served with an orange slice
+- A golden aged rum
+- Made of sugar cane molasses
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00GW2PCOY/?tag=tolees-21)

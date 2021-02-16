@@ -28,10 +28,10 @@ Ahora mismo tienes [KARACTERMANIA - Harry Potter Accio-Mochila HS](https://www.a
 
 🔎:
 
-- Dimensiones: 44 x 30 x 20cm
 - Asas acolchadas ajustables
-- Mochila urbana con trasera acolchada y transpirable, adaptable a carro
-- Puerto usb para cargar el móvil mediante power bank (no incluida)
 - Forro interior con bolsillo acolchado para dispositivos electrónicos
+- Puerto usb para cargar el móvil mediante power bank (no incluida)
+- Dimensiones: 44 x 30 x 20cm
+- Mochila urbana con trasera acolchada y transpirable, adaptable a carro
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07JWKKHKM/?tag=tolees-21)
