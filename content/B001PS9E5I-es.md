@@ -28,10 +28,10 @@ Tienes [TP-Link TL-PoE150S Gigabit Ethernet PoE Inyector  Plug-and-Play  2 puert
 
 ℹ️:
 
+- Puede llevar la red a aquellos puntos en los que no existe suministro eléctrico y poder utilizar dispositivos tales como puntos de acceso y cámaras o teléfonos IP.
+- Soporta Gigabit, apoyo a velocidad gigabit
+- Cumple con el estádar IEEE 802.3af y puede funcionar con todos los equipos PoE o adaptadores de recepción PoE compatibles con la norma IEEE 802.3af tales como el modelo TL-POE10R de TP-LINK u otros dispositivos equivalentes.
 - Determina de manera automática los requerimientos de potencia
 - Soporte Plug-and-Play,no requiere configuración
-- Soporta Gigabit, apoyo a velocidad gigabit
-- Puede llevar la red a aquellos puntos en los que no existe suministro eléctrico y poder utilizar dispositivos tales como puntos de acceso y cámaras o teléfonos IP.
-- Cumple con el estádar IEEE 802.3af y puede funcionar con todos los equipos PoE o adaptadores de recepción PoE compatibles con la norma IEEE 802.3af tales como el modelo TL-POE10R de TP-LINK u otros dispositivos equivalentes.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B001PS9E5I/?tag=tolees-21)

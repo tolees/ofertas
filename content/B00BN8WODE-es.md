@@ -28,10 +28,10 @@ En este momento está [Chicco- Big & Small Juego Libro 1-2-3  00072376000000 ](h
 
 🔎:
 
+- Con plastico blando para morder
+- Efecto de crujido
 - Con enganche para fijar al carro
 - Libro textil ilustrado
-- Efecto de crujido
-- Con plastico blando para morder
 - Se puede lavar a máquina
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00BN8WODE/?tag=tolees-21)

@@ -28,10 +28,10 @@ En este momento está [Barbie-FRH73 Barbie Quiero Ser Superchef  Muñeca Rubia c
 
 🔎:
 
-- Kitchen with multiple role play areas feature a cooker/oven with working sounds and lights, sandwich maker, frying machine, mini-fridge and veggie food moulds
+- Includes a Barbie career chef doll who comes with a blue dress, polka-dot apron and white shoes
 - Additional utensils included: Cookware, cooking and dining accessories and five colours of plasticise
+- Kitchen with multiple role play areas feature a cooker/oven with working sounds and lights, sandwich maker, frying machine, mini-fridge and veggie food moulds
 - A world of possibilities: combine this product with other Barbie dolls and accessories (sold separately)
 - Barbie doll playset offers endless storytelling possibilities for all kids and young foodies
-- Includes a Barbie career chef doll who comes with a blue dress, polka-dot apron and white shoes
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B079JFTL73/?tag=tolees-21)

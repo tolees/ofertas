@@ -29,10 +29,10 @@ Ahora mismo tienes [Hoover H-FREE 100 HF122RH  Aspiradora escoba sin cable  Sist
 🔎:
 
 - Optimum tank capacity of 0.9L: easy to empty, no contact with dust and no need to empty every cleaning session
-- Optimal visibility: Motorized main brush with front LED lights, increases visibility in dark corners and achieves a deep and effective cleaning
 - 2 continuous power modes (no need to pull the trigger): standard and turbo for deep cleaning. Without bag
-- Removable lithium battery with 40min autonomy: Long battery life, rechargeable on the product or directly on the plug independently
 - Vacuum cleaner for all types of surfaces and homes XXL: hard floors, parquet, carpets, carpets and furniture
+- Optimal visibility: Motorized main brush with front LED lights, increases visibility in dark corners and achieves a deep and effective cleaning
+- Removable lithium battery with 40min autonomy: Long battery life, rechargeable on the product or directly on the plug independently
 - Accessories always available: Stored on board in the vacuum cleaner, always at your fingertips when you need them
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VJGQFJK/?tag=tolees-21)

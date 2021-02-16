@@ -28,10 +28,10 @@ Está [DURAGADGET Cable De Audio para Portátil Acer Nitro 5 | AN515-52  Acer Pr
 
 ℹ️:
 
-- Conexión de 3.5mm que le permitirá conectar su portátil a su altavoz
-- Material de alta calidad
-- También lo puede usar con reproductores mp3
-- Clavija bañada en oro y aluminio
 - Conexiones bañado en oro y cobre para una mejor condución y calidad de sonido
+- También lo puede usar con reproductores mp3
+- Material de alta calidad
+- Clavija bañada en oro y aluminio
+- Conexión de 3.5mm que le permitirá conectar su portátil a su altavoz
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07P6RQDRN/?tag=tolees-21)

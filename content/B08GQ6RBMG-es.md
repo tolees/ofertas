@@ -28,10 +28,10 @@ Está [NANOOK Soporte de Pared para TV  de 19 a 43 Soporte de Pared  Televisore 
 
 ℹ️:
 
-- MONTAJE DE PARED PARA TV DE ALTA CALIDAD: Alta calidad adecuado para Samsung, LG, Panasonic, Sony, Philips, Grundig, Telefunken, TCL, Hisense, Sharp, Metz, AOC, Changhong, Toshiba, Haier
-- ÁNGULO DE VISTA ÓPTIMO: Este soporte para TV se puede girar hasta +/- 90 grados (izquierda y derecha) con una inclinación de 5° hacia arriba y 12° hacia abajo
-- VESA: Este soporte de pared universal para TV es adecuado para orificios VESA estándar: 100x100, 200x100 y 200x200
-- FÁCIL INSTALACIÓN: este soporte de pared para TV plana es fácil de instalar con los materiales de montaje proporcionados
 - COMPATIBILIDAD UNIVERSAL: Adecuado para televisores LCD, LED, QLED y OLED con un tamaño de pulgada diagonal de: 19"/48cm, 24"/61cm, 32"/81cm, 37"/94cm, 40"/102cm y 43"/109cm
+- FÁCIL INSTALACIÓN: este soporte de pared para TV plana es fácil de instalar con los materiales de montaje proporcionados
+- ÁNGULO DE VISTA ÓPTIMO: Este soporte para TV se puede girar hasta +/- 90 grados (izquierda y derecha) con una inclinación de 5° hacia arriba y 12° hacia abajo
+- MONTAJE DE PARED PARA TV DE ALTA CALIDAD: Alta calidad adecuado para Samsung, LG, Panasonic, Sony, Philips, Grundig, Telefunken, TCL, Hisense, Sharp, Metz, AOC, Changhong, Toshiba, Haier
+- VESA: Este soporte de pared universal para TV es adecuado para orificios VESA estándar: 100x100, 200x100 y 200x200
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08GQ6RBMG/?tag=tolees-21)
