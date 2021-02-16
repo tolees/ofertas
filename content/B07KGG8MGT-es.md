@@ -28,10 +28,10 @@ En este momento está [Ideal casa - Set Tetera con Taza  Alicia en el País De L
 
 🔎:
 
-- Tetera: 517.54 cl. / Taza: 280,95 cl
 - Material: dolomita; no apto para lavavajillas ni para microondas
+- Producto con licencia oficial; tetera: 19 x 9.5 x 18.5 cm; / 387 gr; taza: 11.5 x 8 x 11 cm; / 220 gr
 - Otras: Calcas diferentes en cada lado de la tetera y taza
 - Decoración: calca completa y detalles pintados a mano
-- Producto con licencia oficial; tetera: 19 x 9.5 x 18.5 cm; / 387 gr; taza: 11.5 x 8 x 11 cm; / 220 gr
+- Tetera: 517.54 cl. / Taza: 280,95 cl
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07KGG8MGT/?tag=tolees-21)

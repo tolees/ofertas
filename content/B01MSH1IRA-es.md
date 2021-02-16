@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s 502 Taper Jeans  Nightshine  34W  al 50.50 % de descuento'
-date: 2021-02-11 17:04:31
+date: 2021-02-15 23:56:44
 image: 'https://m.media-amazon.com/images/I/31iwUgPNNEL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Está [Levi s 502 Taper Jeans  Nightshine  34W / 30L para Hombre](https://www.am
 
 ℹ️:
 
-- Se asientan debajo de la cintura
 - Con ajuste estándar en el muslo
+- Se asientan debajo de la cintura
 - Diseño de cinco bolsillos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01MSH1IRA/?tag=tolees-21)

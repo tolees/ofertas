@@ -29,10 +29,10 @@ Ahora mismo tienes [NIKE NK Brsla M Duff  9.0  60L  Gym Bag  Unisex Adulto  Blac
 🔎:
 
 - Tipo de deporte: Bolsas Ejercicio
-- Tipo de fábrica: 100% Polyester
+- Double handles and detachable shoulder strap
 - Dimensions 71.1 cm L x 27.9 cm B x 33 cm H
+- Tipo de fábrica: 100% Polyester
 - Training bag
 - NIKE es un nombre de marca reconocido
-- Double handles and detachable shoulder strap
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07KR17QWZ/?tag=tolees-21)

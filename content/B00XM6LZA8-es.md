@@ -28,8 +28,8 @@ En este momento está [Bic Cristal Fun - Bolígrafo  color morado](https://www.a
 
 🔎:
 
-- Marca Bic
-- Nombre del modelo 942147
 - Con un diseño moderno y elegante
+- Nombre del modelo 942147
+- Marca Bic
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00XM6LZA8/?tag=tolees-21)

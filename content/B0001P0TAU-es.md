@@ -29,7 +29,7 @@ Tienes [Stanley 1-42-476 - Nivel  60cm](https://www.amazon.es/dp/B0001P0TAU/?tag
 ℹ️:
 
 - Precisión: +/- 2 mm/m
-- Nivel perfilado de 60cm con cuerpo en material sintético ABS con una altísima resistencia a la corrosión
 - Tres burbujas: 1 horizontal, 1 vertical, 1 inclinada a 45°
+- Nivel perfilado de 60cm con cuerpo en material sintético ABS con una altísima resistencia a la corrosión
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0001P0TAU/?tag=tolees-21)

@@ -28,9 +28,9 @@ Tienes [Parrot MKi9200 - Manos Libres](https://www.amazon.es/dp/B001IA3SZ0/?tag=
 
 ℹ️:
 
-- Aparatos compatibles iPod/iPhone, USB
-- Bluetooth v2.0 + EDR
 - Con reconocimiento de voz
 - Micrófono doble externo
+- Aparatos compatibles iPod/iPhone, USB
+- Bluetooth v2.0 + EDR
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B001IA3SZ0/?tag=tolees-21)

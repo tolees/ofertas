@@ -28,9 +28,9 @@ Está [Madal Bal Sal - 500 gr](https://www.amazon.es/dp/B00V6AXPSC/?tag=tolees-2
 
 ℹ️:
 
-- Seleccionada y elaborada a mano
-- fácil de usar
-- Es una sal no refinada, sin blanquear
 - No contiene antiapelmazantes. Ni contaminantes medioambientales
+- Seleccionada y elaborada a mano
+- Es una sal no refinada, sin blanquear
+- fácil de usar
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00V6AXPSC/?tag=tolees-21)

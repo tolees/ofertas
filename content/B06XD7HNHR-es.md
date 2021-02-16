@@ -28,9 +28,9 @@ Ahora mismo tienes [Bourjois Brow Palette Kit para cejas Tono 2 Brunette - 37 gr
 
 🔎:
 
-- Aplicador de doble punta con una brocha y un cepillo
-- El kit perfecto para unas cejas naturales
 - Paleta de cejas 3 en 1 para un diseño y definición fácil de tus cejas
+- El kit perfecto para unas cejas naturales
+- Aplicador de doble punta con una brocha y un cepillo
 - Define y esculpe con la cera, rellena e intensifca con el polvo y amplia la mirada con el iluminador
 - Hasta 16 horas de duración sin retoques
 
