@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips Daily HD2637/90 - Tostador 950 W al 39.25 % de rebaja'
-date: 2021-02-15 10:11:21
+date: 2021-02-16 11:11:07
 image: 'https://m.media-amazon.com/images/I/417qaaaIOKL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Philips'
 buyurl: 'https://www.amazon.es/dp/B01J5FFW9Y/?tag=tolees-21'
 descuento: '39.25'
-average: '26.736'
+average: '26.2114285714286'
 ---
 
 Tienes [Philips Daily HD2637/90 - Tostador 950 W  Doble Ranura  Color Negro  Inox](https://www.amazon.es/dp/B01J5FFW9Y/?tag=tolees-21) con precio final de  24.9 EUR (original: 40.99 EUR) (39.25 %  de rebaja) aqui!
@@ -29,8 +29,8 @@ Tienes [Philips Daily HD2637/90 - Tostador 950 W  Doble Ranura  Color Negro  Ino
 🔎:
 
 - Funcion descongelar
+- Calentador de bollos integrado
 - Ranura extra grande, 10% más ancha
 - Potencia 950 W
-- Calentador de bollos integrado
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01J5FFW9Y/?tag=tolees-21)

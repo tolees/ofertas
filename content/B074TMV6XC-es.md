@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Isabel Sardinilla en Tomate - Paquete de al 30.77 % de descuento'
-date: 2021-02-13 08:24:34
+date: 2021-02-16 11:39:55
 image: 'https://m.media-amazon.com/images/I/51gg2wP2uyL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Está [Isabel Sardinilla en Tomate - Paquete de 24 x 81 gr - Total: 1944 gr](htt
 
 ℹ️:
 
+- Fuente de omega 3
 - Ricas y jugosa forma de comer pescado
 - Lo mejor del mar
-- Fuente de omega 3
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B074TMV6XC/?tag=tolees-21)

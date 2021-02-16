@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Crock-Pot CSC028X-01 Olla de Cocción  3. con un 45.53 % de descuento'
-date: 2021-02-15 10:24:23
+date: 2021-02-16 11:51:30
 image: 'https://m.media-amazon.com/images/I/41i+-G6Ee0L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Crock-Pot'
 buyurl: 'https://www.amazon.es/dp/B01N3AMR3H/?tag=tolees-21'
 descuento: '45.53'
-average: '36.5666666666667'
+average: '33.9'
 ---
 
 En este momento está [Crock-Pot CSC028X-01 Olla de Cocción  3.5 litros  Acero inoxidable 18/8  2 Velocidades  Gris](https://www.amazon.es/dp/B01N3AMR3H/?tag=tolees-21) a 29.9 EUR (original: 54.89 EUR) (45.53 %  de descuento) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [Crock-Pot CSC028X-01 Olla de Cocción  3.5 litros  Acero 
 
 🔎:
 
-- Recipiente y tapa aptos para usar en el horno y en el lavavajillas
-- Acabado en blanco; fácil desmontaje para facilitar limpieza
 - 3.5 litros de capacidad, ideal para 3 ó 4 raciones
 - Utensilios incluidos
 - Selector manual, 2 niveles de potencia (Alta y Baja), y función de mantener caliente
+- Recipiente y tapa aptos para usar en el horno y en el lavavajillas
+- Acabado en blanco; fácil desmontaje para facilitar limpieza
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01N3AMR3H/?tag=tolees-21)

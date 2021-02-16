@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Compex Fit 3.0 Electroestimulador  Unise al 30.30 % de descuento'
-date: 2020-09-30 19:06:36
+date: 2021-02-16 09:53:30
 image: 'https://m.media-amazon.com/images/I/41Z797TG84L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,10 +16,10 @@ comparePrice: 429.0 EUR
 prodname: 'Compex Fit 3.0 Electroestimulador  Unisex  Azul'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Compex'
 buyurl: 'https://www.amazon.es/dp/B00NAJRQ6E/?tag=tolees-21'
 descuento: '30.30'
-average: '312.3333333333333'
+average: '307.0'
 ---
 
 Está [Compex Fit 3.0 Electroestimulador  Unisex  Azul](https://www.amazon.es/dp/B00NAJRQ6E/?tag=tolees-21) con 30.30 de descuento por 299.0 EUR (original: 429.0 EUR) en el siguiente enlace!
@@ -28,5 +28,10 @@ Está [Compex Fit 3.0 Electroestimulador  Unisex  Azul](https://www.amazon.es/dp
 
 ℹ️:
 
+- Fit 3.0 ofrece programas de masaje para aficionados al fitness que practican su actividad 3 veces por semana
+- Tecnología con cables
+- Tecnología Mi: Mi-Scan
+- Aumenta o recupera la fuerza, el tono muscular y alivia el dolor
+- Programas: Anti-dolor (8), recuperación (2), rehabilitación (1)y fitness (9)
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00NAJRQ6E/?tag=tolees-21)
