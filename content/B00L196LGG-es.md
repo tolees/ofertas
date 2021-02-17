@@ -29,8 +29,8 @@ Está [Philips S9711/31 - Afeitadora  Negro  Cromo  Carga  Battery/Mains  Ión d
 ℹ️:
 
 - Sistema SmartClean Plus
-- Cabezales ContourDetect 8 direcciones
 - Sistema de cuchillas V-Track PRO
 - Perfilador de barba SmartClick
+- Cabezales ContourDetect 8 direcciones
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00L196LGG/?tag=tolees-21)

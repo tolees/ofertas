@@ -28,10 +28,10 @@ Tienes [Pekatherm UP205 - Calientacamas Doble de Poliéster  160 x 140 cm | Cali
 
 🔎:
 
-- Protección contra el sobrecalentamiento
-- 2 niveles de temperatura. Control electrónico de temperatura
-- Potencia: 2x60W. Hilo térmico de alta seguridad
 - Dos reguladores de temperatura no separables. Alimentación: 230V~/50Hz. 100% Poliéster, lavar a mano
+- Potencia: 2x60W. Hilo térmico de alta seguridad
+- 2 niveles de temperatura. Control electrónico de temperatura
 - Mejora la calidad del sueño. Familia de calientacamas diseñados como un producto de primer precio sin descuidar la calidad de los materiales ni la seguridad
+- Protección contra el sobrecalentamiento
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07549RJCC/?tag=tolees-21)

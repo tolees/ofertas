@@ -1,32 +1,39 @@
 ---
 layout: post
-title: 'Descuento del 34.23 % en Soy Luna- Disney  Altavoz Portátil   Lex'
-date: 2020-06-29 18:36:01
+title: 'Descuento del 34.53 % en LEXIBOOK- Disney Soy Luna-Reproductor Ra'
+date: 2021-02-17 09:31:28
 image: 'https://m.media-amazon.com/images/I/51oO8njog0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FS3SO10-es Soy Luna- Disney Altavoz Portátil Lexibook RCD102SL...'
+slug: 'B01FS3SO10-es LEXIBOOK- Disney Soy Luna-Reproductor Radio CD Altavoz...'
 sku: 'B01FS3SO10-es'
 tags: [  ]
-actualPrice: 32.88 EUR
+actualPrice: 32.73 EUR
 currency: EUR
-price: 32.88
+price: 32.73
 comparePrice: 49.99 EUR
-prodname: 'Soy Luna- Disney  Altavoz Portátil   Lexibook RCD102SL  Reproductor de CD para niños  Boombox Auriculares  Conector AUX-IN  Radio FM  niña  CA o con Pilas  Rosa/Amarillo  Color'
+prodname: 'LEXIBOOK- Disney Soy Luna-Reproductor Radio CD  Altavoz Portátil  Rosa RCD102SL FM  AUX IN  Color'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'LEXIBOOK'
 buyurl: 'https://www.amazon.es/dp/B01FS3SO10/?tag=tolees-21'
-descuento: '34.23'
-average: '27.619999999999997'
+descuento: '34.53'
+average: '28.8975'
 ---
 
-Tienes [Soy Luna- Disney  Altavoz Portátil   Lexibook RCD102SL  Reproductor de CD para niños  Boombox Auriculares  Conector AUX-IN  Radio FM  niña  CA o con Pilas  Rosa/Amarillo  Color](https://www.amazon.es/dp/B01FS3SO10/?tag=tolees-21) con un 34.23 % de descuento con precio de oferta de 32.88 EUR (original: 49.99 EUR) en el siguiente enlace!
+Tienes [LEXIBOOK- Disney Soy Luna-Reproductor Radio CD  Altavoz Portátil  Rosa RCD102SL FM  AUX IN  Color](https://www.amazon.es/dp/B01FS3SO10/?tag=tolees-21) con un 34.53 % de descuento con precio de oferta de 32.73 EUR (original: 49.99 EUR) en el siguiente enlace!
 
-[![Soy Luna- Disney  Altavoz Portátil   Lex](https://m.media-amazon.com/images/I/51oO8njog0L._SL200_.jpg)](https://www.amazon.es/dp/B01FS3SO10/?tag=tolees-21)
+[![LEXIBOOK- Disney Soy Luna-Reproductor Ra](https://m.media-amazon.com/images/I/51oO8njog0L._SL200_.jpg)](https://www.amazon.es/dp/B01FS3SO10/?tag=tolees-21)
 
 ℹ️:
 
+- Infantil.
+- Alimentacio AC o 6 Pilas de tipo C/LR14 (no incluido).
+- Tomas de entrada de audio de 3,5 mm.
+- Potencia de salida 2 x 0.8W.
+- Diseño Soy Luna.
+- Lector de CD de carga superior.
+- Radio CD Portátil
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01FS3SO10/?tag=tolees-21)

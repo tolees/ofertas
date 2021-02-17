@@ -28,8 +28,8 @@ Está [adidas CORE18 TR Top Sudadera  Hombre  Power Red/White  2XL](https://www.
 
 ℹ️:
 
-- Chaqueta de entrenamiento para hombre
 - Con el logotipo de Adidas bordado en el pecho
+- Chaqueta de entrenamiento para hombre
 - Tiene cierre con cremallera hasta el pecho
 - Con tecnología Climalite que elimina el sudor
 
