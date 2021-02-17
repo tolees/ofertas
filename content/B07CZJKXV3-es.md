@@ -29,7 +29,7 @@ En este momento está [Salomon RX Moc 4.0 W  Calzado de recuperación Mujer  Neg
 🔎:
 
 - Shoes sport shoes sport mujer
-- Calzado salomon
 - Rx moc 4.0 w (l40674100)
+- Calzado salomon
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07CZJKXV3/?tag=tolees-21)
