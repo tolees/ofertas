@@ -29,9 +29,9 @@ Ahora mismo tienes [Goula- El jardín de Bunny - Juego de mesa preescolar a part
 🔎:
 
 - Habilidades que desarrolla: la habilidad manual ojo-mano, la precisión y el equilibrio
-- Contenido: 1 conejito balaza de madera, 6 hortalizas de madera, 1 dado de madera de colores y instrucciones
 - Divertido juego de equilibrios; dos modos de juego: cooperativo, todos intentan colocar las piezas sin que caigan y competitivo donde juegan individualmente
 - Uso de madera certificada; maderas utilizadas de plantaciones controladas protegiendo y conservando nuestros bosques
 - Número de jugadores: de 1 a 4
+- Contenido: 1 conejito balaza de madera, 6 hortalizas de madera, 1 dado de madera de colores y instrucciones
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07PGK7ZMX/?tag=tolees-21)

@@ -28,8 +28,8 @@ Está [Salomon RX Moc 4.0 W  Calzado de recuperación Mujer  Negro/Morado  Black
 
 ℹ️:
 
-- Shoes sport shoes sport mujer
-- Rx moc 4.0 w (l40674100)
 - Calzado salomon
+- Rx moc 4.0 w (l40674100)
+- Shoes sport shoes sport mujer
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07CZ9QVW6/?tag=tolees-21)

@@ -28,7 +28,7 @@ Ahora mismo tienes [adidas Continental 80  Zapatillas de Gimnasia Hombre  Blanco
 
 🔎:
 
-- Material interior: sintético.
 - Material exterior: piel Full Grain.
+- Material interior: sintético.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07JZVKGNB/?tag=tolees-21)

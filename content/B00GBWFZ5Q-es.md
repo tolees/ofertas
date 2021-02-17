@@ -28,16 +28,16 @@ Tienes [Hama Classic - Linterna  Linterna con cinta para cabeza  Negro  IP54  1 
 
 ℹ️:
 
-- Tipo de batería: AAA Micro
-- Descripción del producto: Hama Classic
-- Color: Negro
-- Profundidad: 3,22 cm
-- Ancho: 3,22 cm
-- Tipo de la linterna : Venda
-- La vida de la lámpara: 30000h
-- Número de productos incluidos : 1 piezas
-- Tipo de la lámpara: LED
 - Altura: 11,8 cm
+- La vida de la lámpara: 30000h
+- Tipo de la lámpara: LED
+- Número de productos incluidos : 1 piezas
+- Ancho: 3,22 cm
+- Profundidad: 3,22 cm
+- Color: Negro
 - Potencia de lámpara : 1W
+- Tipo de la linterna : Venda
+- Descripción del producto: Hama Classic
+- Tipo de batería: AAA Micro
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00GBWFZ5Q/?tag=tolees-21)

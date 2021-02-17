@@ -28,10 +28,10 @@ Tienes [SanDisk Extreme - Tarjeta de memoria microSDXC de 400 GB con adaptador S
 
 🔎:
 
-- Fabricadas para ser usadas en condiciones difíciles y sometidas a ensayos en dichas condiciones, resistentes a temperatura, agua, golpes y rayos X
-- Categoría A2 para una carga y un rendimiento de la aplicación más rápidos
-- Hasta 160 MB/s de velocidad de lectura y 90 MB/s de velocidad de escritura para disparar y transferir rápido
 - Compatibilidad 4K UHD con UHS Speed Class 3 (U3) y Video Speed Class 30 (V30)
+- Fabricadas para ser usadas en condiciones difíciles y sometidas a ensayos en dichas condiciones, resistentes a temperatura, agua, golpes y rayos X
+- Hasta 160 MB/s de velocidad de lectura y 90 MB/s de velocidad de escritura para disparar y transferir rápido
 - Ideal para smartphones y tabletas Android, cámaras de acción y drones
+- Categoría A2 para una carga y un rendimiento de la aplicación más rápidos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07FCQRN9K/?tag=tolees-21)

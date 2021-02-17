@@ -28,9 +28,9 @@ En este momento está [Colgate Max White Expert Complete  Pasta de Dientes  blan
 
 🔎:
 
-- Clínicamente probado para revertir años de amarilleamiento
 - Siéntate cómodo con aliento fresco
 - Salud bucodental completa
+- Clínicamente probado para revertir años de amarilleamiento
 - Contiene un sistema de iluminadores ópticos con efecto temporal, para dientes más blancos al instante
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08FBVCPMZ/?tag=tolees-21)

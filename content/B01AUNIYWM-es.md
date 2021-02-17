@@ -28,10 +28,10 @@ Está [AUKEY Lámpara de Mesa  Regulable Lámpara de Noche de Atmósfera con Sen
 
 ℹ️:
 
-- Base de control táctil de 360°: Control total para encender o apagar la lámpara fácilmente y para cambiar los modos de luz, brillo o color. Ahora el control táctil es incluso más sensible y funciona sin problemas en superficies metálicas.
 - Contenido: Lámpara LED con control táctil AUKEY LT-T6, Adaptador de corriente, Manual de instrucciones
-- Iluminación ajustable: Simplemente toca la base de control táctil para cambiar entre los tres posibles niveles de brillo de luz blanca cálida: suave, moderada y brillante. Se trata de una luz cómoda para descansar y relajarse y que también es ideal para leer en un entorno luminoso.
 - Pantalla colorida: Elige un ciclo automático de una amplia selección de colores del espectro de colores rojo-verde-azul o elige y haz una pausa en tu color favorito. Escoge un color atrevido para una fiesta o un color más suave para relajarte.
+- Base de control táctil de 360°: Control total para encender o apagar la lámpara fácilmente y para cambiar los modos de luz, brillo o color. Ahora el control táctil es incluso más sensible y funciona sin problemas en superficies metálicas.
 - Lámpara mejorada: una nueva versión de la clásica lámpara LT-T6 con un diseño moderno mejorado y un control táctil aún más suave
+- Iluminación ajustable: Simplemente toca la base de control táctil para cambiar entre los tres posibles niveles de brillo de luz blanca cálida: suave, moderada y brillante. Se trata de una luz cómoda para descansar y relajarse y que también es ideal para leer en un entorno luminoso.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01AUNIYWM/?tag=tolees-21)

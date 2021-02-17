@@ -28,10 +28,10 @@ Tienes [Educa- Encuentro de Dinosaurios Puzzle  500 Piezas  Multicolor  15969 ](
 
 ℹ️:
 
+- Incluye la cola especial FIX PUZZLE para poder colgar el puzzle una vez finalizado el montaje
+- Serie Genuine
 - Número de piezas: 500, medida aproximada una vez montado: 48 x 34
 - Alta calidad de materiales y encaje óptimo de las piezas; producto respetuoso con el medioambiente
 - Edad recomendada: a partir de 10 años
-- Incluye la cola especial FIX PUZZLE para poder colgar el puzzle una vez finalizado el montaje
-- Serie Genuine
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00I5N0FDG/?tag=tolees-21)

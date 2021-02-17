@@ -28,7 +28,7 @@ Está [Skechers Graceful-Get Connected  Zapatillas Mujer  Multicolor  GYCL Black
 
 ℹ️:
 
-- Suela flexible
 - Peso ligero
+- Suela flexible
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B076TBLYSB/?tag=tolees-21)

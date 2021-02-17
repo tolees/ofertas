@@ -28,9 +28,9 @@ Tienes [Maybelline New York SuperStay Matte Ink  Pintalabios Mate de Larga Durac
 
 🔎:
 
-- Sella el mate con su cobertura total que no transfiere, Fórmula enriquecida con una alta concentración de pigmentos para un color intenso y vibrante
-- Contenido: 1x Pintalabios Superstay Matte Ink Maybelline New-York, Tono 20 - Pioneer, Rojo Oscuro, Cantidad: 5 ml
 - Pintalabios líquido de acabado mate terciopelo con hasta 16 horas de duración gracias a su tecnología de tinta elástica
+- Contenido: 1x Pintalabios Superstay Matte Ink Maybelline New-York, Tono 20 - Pioneer, Rojo Oscuro, Cantidad: 5 ml
+- Sella el mate con su cobertura total que no transfiere, Fórmula enriquecida con una alta concentración de pigmentos para un color intenso y vibrante
 - Disponible en más de 20 tonos, Sin olor y testado dermatológicamente
 - Su aplicador en forma de flecha permite un trazado preciso y sin excesos para una cobertura perfecta sin retoques, Desmaquillar con un desmaquillante bifásico waterproof
 

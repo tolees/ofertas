@@ -28,8 +28,8 @@ Está [Nike Cortez Basic M2Z2  Zapatillas para Correr Hombre  Iron Grey White Ba
 
 ℹ️:
 
-- Amortiguación
 - Ligera
 - Zapatillas deportivas
+- Amortiguación
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08CXQ76CK/?tag=tolees-21)

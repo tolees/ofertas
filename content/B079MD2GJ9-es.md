@@ -28,11 +28,11 @@ Tienes [Salomon XA Pro 3D CSWP Zapatillas Impermeables de Deporte Unisex Niños]
 
 🔎:
 
-- Tipo de tacón: Plano
 - Material de la suela: Sintético
+- Composición: Sintético
 - Material exterior: Cuero sintético
 - Revestimiento: Sintético
 - Cierre: Cordones rápidos
-- Composición: Sintético
+- Tipo de tacón: Plano
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B079MD2GJ9/?tag=tolees-21)
