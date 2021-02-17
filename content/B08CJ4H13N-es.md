@@ -29,11 +29,11 @@ En este momento está [Element Blazin Chest - Sudadera para Hombre Sudadera  Hom
 🔎:
 
 - Tipo de fábrica: 60% Poliéster 40% Algodón
-- Tejido: tejido suave cepillado de algodón y poliéster
 - Cuello redondo
+- Pequeño estampado en el pecho
+- 60% poliéster, 40% algodón
 - Corte: corte normal
 - Blazin chest - sudadera para hombre
-- 60% poliéster, 40% algodón
-- Pequeño estampado en el pecho
+- Tejido: tejido suave cepillado de algodón y poliéster
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CJ4H13N/?tag=tolees-21)
