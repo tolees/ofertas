@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SuperThings- Juguete  Multicolor  Magic  al 54.00 % de rebaja'
-date: 2021-02-11 23:50:43
+date: 2021-02-17 18:45:35
 image: 'https://m.media-amazon.com/images/I/41EK5xA3aLL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SuperThings'
 buyurl: 'https://www.amazon.es/dp/B08NVW5M4Y/?tag=tolees-21'
 descuento: '54.00'
-average: '3.98999999999999'
+average: '3.92333333333332'
 ---
 
 Tienes [SuperThings- Juguete  Multicolor  Magic Box PST7D812IN00 ](https://www.amazon.es/dp/B08NVW5M4Y/?tag=tolees-21) con precio final de  2.99 EUR (original: 6.5 EUR) (54.00 %  de rebaja) aqui!

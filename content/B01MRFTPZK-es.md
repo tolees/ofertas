@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s 502 Taper Jeans  Nightshine  28W  al 50.50 % de descuento'
-date: 2021-02-15 20:33:48
+date: 2021-02-17 17:23:34
 image: 'https://m.media-amazon.com/images/I/31iwUgPNNEL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B01MRFTPZK/?tag=tolees-21'
 descuento: '50.50'
-average: '55.0597368421052'
+average: '54.9171794871794'
 ---
 
 Está [Levi s 502 Taper Jeans  Nightshine  28W / 32L para Hombre](https://www.amazon.es/dp/B01MRFTPZK/?tag=tolees-21) con 50.50 de descuento por 49.5 EUR (original: 100.0 EUR) en el siguiente enlace!

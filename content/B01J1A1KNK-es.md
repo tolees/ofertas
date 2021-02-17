@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rimmel London Scandaleyes Reloaded Másca al 29.49 % de descuento'
-date: 2021-02-04 18:18:33
+date: 2021-02-17 17:42:31
 image: 'https://m.media-amazon.com/images/I/31WHj-78aRL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Rimmel London'
 buyurl: 'https://www.amazon.es/dp/B01J1A1KNK/?tag=tolees-21'
 descuento: '29.49'
-average: '3.58866666666667'
+average: '3.5825'
 ---
 
 Está [Rimmel London Scandaleyes Reloaded Máscara de Pestañas Tono 001 Black - 12 ml](https://www.amazon.es/dp/B01J1A1KNK/?tag=tolees-21) con 29.49 de descuento por 3.49 EUR (original: 4.95 EUR) en el siguiente enlace!
@@ -29,9 +29,9 @@ Está [Rimmel London Scandaleyes Reloaded Máscara de Pestañas Tono 001 Black -
 ℹ️:
 
 - Fácil de desmaquillar con agua templada
-- Nuevo cepillo cónico para dar máxima densidad a tus pestañas
-- Volumen instantáneo y duración extrema
 - Hasta 24 horas de impacto
 - Captura todas las pestañas para dar un volumen escandaloso
+- Nuevo cepillo cónico para dar máxima densidad a tus pestañas
+- Volumen instantáneo y duración extrema
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01J1A1KNK/?tag=tolees-21)
