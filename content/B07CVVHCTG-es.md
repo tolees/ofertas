@@ -28,9 +28,9 @@ Ahora mismo tienes [Samsung MUF-32BE4/EU 32GB 3.0  3.1 Gen 1  Conector USB Tipo 
 
 🔎:
 
-- Garantía del fabricante: 5 años en venta y envío a través de Amazon. com. en venta y envío por un tercero se aplican las del éste.
-- Fuerte potencia – hasta 200 MB/s con USB 3.1 interfaz (compatible con versiones anteriores a USB 3.0 y 2.0)
-- Alta fiabilidad a 5 años de garantía de fabricante reducida
 - Caja metálica de alta calidad en el diseño ergonómico
+- Garantía del fabricante: 5 años en venta y envío a través de Amazon. com. en venta y envío por un tercero se aplican las del éste.
+- Alta fiabilidad a 5 años de garantía de fabricante reducida
+- Fuerte potencia – hasta 200 MB/s con USB 3.1 interfaz (compatible con versiones anteriores a USB 3.0 y 2.0)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07CVVHCTG/?tag=tolees-21)

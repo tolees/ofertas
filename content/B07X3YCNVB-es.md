@@ -28,10 +28,10 @@ En este momento está [Fisher-Price - Imaginext DC Figura Batman Batwing  Mattel
 
 🔎:
 
-- Aprieta el gatillo para desplegar las alas y lanzar un proyectil, aprieta el botón para lanzar más proyectiles
 - Batman surca los cielos con el Batwing, un avión de juguete con alas de tejido
+- La figura de Batman cabe en la cabina para «dirigir» la acción
 - Para niños de 3 a 8 años
 - Incluye un Batwing, una figura de Batman y 4 proyectiles en forma de disco
-- La figura de Batman cabe en la cabina para «dirigir» la acción
+- Aprieta el gatillo para desplegar las alas y lanzar un proyectil, aprieta el botón para lanzar más proyectiles
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07X3YCNVB/?tag=tolees-21)

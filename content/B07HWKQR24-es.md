@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Krom KENON - NXKROMKENON - raton gaming  al 31.77 % de rebaja'
-date: 2021-02-15 09:16:22
+date: 2021-02-17 16:15:56
 image: 'https://m.media-amazon.com/images/I/217jUeyTZAL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Krom'
 buyurl: 'https://www.amazon.es/dp/B07HWKQR24/?tag=tolees-21'
 descuento: '31.77'
-average: '17.846'
+average: '17.7033333333333'
 ---
 
 Tienes [Krom KENON - NXKROMKENON - raton gaming RGB lighting 4000 DPI  color Negro](https://www.amazon.es/dp/B07HWKQR24/?tag=tolees-21) con precio final de  16.99 EUR (original: 24.9 EUR) (31.77 %  de rebaja) aqui!
@@ -28,8 +28,8 @@ Tienes [Krom KENON - NXKROMKENON - raton gaming RGB lighting 4000 DPI  color Neg
 
 🔎:
 
-- Iluminación rgb configurable, 8 botones configurables
 - 5 niveles dpi ajustables (1000 – 4000)
 - Sensor óptico avago a3050, software programable
+- Iluminación rgb configurable, 8 botones configurables
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07HWKQR24/?tag=tolees-21)

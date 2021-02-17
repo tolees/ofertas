@@ -29,9 +29,9 @@ Ahora mismo tienes [Fellowes 99715 - Dispensador 100 toallitas limpiadoras super
 🔎:
 
 - Limpian cualquier tipo de superficie metal, plástico, incluyendo teclados, impresoras, mesas de trabajo (no apto para superficies de cristal y LCD/TFT)
-- Contiene 100 toallitas pre-humedecidas para limpieza de superficies
 - Contenido mínimo de alcohol, menos del 1%
-- Toallitas biodegradables. Respetuoso con el medio ambiente
 - Propiedades anti-estáticas que ayudan a eliminar el polvo
+- Contiene 100 toallitas pre-humedecidas para limpieza de superficies
+- Toallitas biodegradables. Respetuoso con el medio ambiente
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00017IJQE/?tag=tolees-21)

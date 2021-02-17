@@ -28,11 +28,11 @@ Ahora mismo tienes [Helly Hansen Swift 4.0 Jacket Chaqueta  Hombre  Black  M](ht
 
 🔎:
 
+- Cara: 100% poliéster/ espalda: 100% poliuretano, cara: 100% poliéster/ espalda: 100% poliuretano
 - Life pocket incorporado que preserva la batería del teléfono en ambientes fríos - 2 veces más caliente que el bolsillo de una chaqueta de esquí normal
 - Tejido elástico de 4 vías que ofrece máxima libertad de movimiento
-- Cara: 100% poliéster/ espalda: 100% poliuretano, cara: 100% poliéster/ espalda: 100% poliuretano
 - It o you a Jacket for Man fun DAYS on groomers o in the Side country with All needed ski features such AS ski Pass pocket, powder skirt and a Stash pocket
-- Helly Tech Performance: altamente impermeable y extra transpirable
 - La compra de la chaqueta o el pantalón de esquí de Helly Hansen incluye un día de esquí en determinadas estaciones europeas
+- Helly Tech Performance: altamente impermeable y extra transpirable
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0887NRNHG/?tag=tolees-21)
