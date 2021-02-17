@@ -28,10 +28,10 @@ Ahora mismo tienes [Candy CID633C  Placa inducción  60cm ancho  3 zonas de cocc
 
 🔎:
 
-- Placa con múltiples funciones: temporizador, bloqueo de seguridad, indicador de calor residual, alerta de sobrecalentamiento o derrames y pausa.
-- 9 niveles de potencia, con mandos de control centrales y con potencia total nominal de 7,1kw.
 - Medidas encimera | Medidas integración (alto x ancho): 52 x 59cm | 49 x 56cm.
-- Fácil de limpiar: la encimera se enfría rápidamente, permitiendo una limpieza cómoda y segura y evitando que la suciedad se incruste.
 - Encimera de inducción de 60cm de ancho con 3 zonas de cocción: 1 paellero con doble corona de 180-290mm y 2 zonas de 180mm de diámetro.
+- 9 niveles de potencia, con mandos de control centrales y con potencia total nominal de 7,1kw.
+- Fácil de limpiar: la encimera se enfría rápidamente, permitiendo una limpieza cómoda y segura y evitando que la suciedad se incruste.
+- Placa con múltiples funciones: temporizador, bloqueo de seguridad, indicador de calor residual, alerta de sobrecalentamiento o derrames y pausa.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07JLVJNHP/?tag=tolees-21)

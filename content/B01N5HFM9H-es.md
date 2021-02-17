@@ -28,8 +28,8 @@ Tienes [Lacoste Carnaby EVO BL 1 SPM  Zapatillas Hombre  Azul  Navy   47 EU](htt
 
 🔎:
 
-- Empeine de piel y material sintético
 - Forro de material textil
+- Empeine de piel y material sintético
 - Suela de goma
 - Cocodrilo verde clásico
 - Forro de malla y diseño de suela de inspiración deportiva

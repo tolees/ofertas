@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Biomecanics 151157-2  Zapatillas de Esta al 30.00 % de descuento'
-date: 2021-02-15 17:45:48
+date: 2021-02-17 19:10:26
 image: 'https://m.media-amazon.com/images/I/31be3Ye2TaL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Biomecanics'
 buyurl: 'https://www.amazon.es/dp/B07LBF6MQQ/?tag=tolees-21'
 descuento: '30.00'
-average: '35.6744444444446'
+average: '35.8563636363638'
 ---
 
 Está [Biomecanics 151157-2  Zapatillas de Estar por casa Unisex niños  Blanco  Blanco  Sauvage  Colores   21 EU](https://www.amazon.es/dp/B07LBF6MQQ/?tag=tolees-21) con 30.00 de descuento por 34.23 EUR (original: 48.9 EUR) en el siguiente enlace!
