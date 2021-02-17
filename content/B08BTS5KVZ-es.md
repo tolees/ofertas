@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 36.38 % en ASUS ROG Zephyrus M15 GU502LW-HN071T - P'
-date: 2021-02-15 10:36:42
+date: 2021-02-17 00:29:37
 image: 'https://m.media-amazon.com/images/I/411iU2N4+HL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -29,8 +29,8 @@ Tienes [ASUS ROG Zephyrus M15 GU502LW-HN071T - Portátil Gaming de 15.6" FHD 144
 ℹ️:
 
 - Teclado con inspiración de sobremesa combina la iluminación RGB de teclas independiente con las teclas de función para una identificación más sencilla
+- Pantalla de 144 Hz con validación Pantone y sonido de alta fidelidad DA ESS Sabre para un realismo sin igual
 - Pantalla de 15.6" FullHD (1920x1080) 144Hz
 - Portátil ultrafino con un procesador Intel de 10a generación y gráfica GeForce RTX 2070
-- Pantalla de 144 Hz con validación Pantone y sonido de alta fidelidad DA ESS Sabre para un realismo sin igual
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08BTS5KVZ/?tag=tolees-21)
