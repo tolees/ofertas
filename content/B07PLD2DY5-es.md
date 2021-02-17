@@ -28,10 +28,10 @@ Tienes [Spontex - Guantes Finos Mosaik  40 Unidades  Alta Resistencia  Talla 7 M
 
 ℹ️:
 
+- Apto para personas alérgicas al látex
 - Las puntas están texturizadas para mejorar la sensación al tacto
-- Talla 7: mediana
 - Combina eficacia y diseño: son un 50% más resistentes e incluyen 3 colores distintos (azul, lila y verde)
 - Guantes desechables de nitrilo
-- Apto para personas alérgicas al látex
+- Talla 7: mediana
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07PLD2DY5/?tag=tolees-21)
