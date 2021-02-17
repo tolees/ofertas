@@ -28,10 +28,10 @@ Ahora mismo tienes [Police Reloj de Pulsera PL.15529JSTB/02](https://www.amazon.
 
 🔎:
 
-- Pulsera: Piel Negro
-- Color de la esfera: Negro
+- Material de la esfera: Mineral
 - Material de la caja: Acero inoxidable
 - Cierre: Hebilla
-- Material de la esfera: Mineral
+- Color de la esfera: Negro
+- Pulsera: Piel Negro
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07DWHLF7G/?tag=tolees-21)

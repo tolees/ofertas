@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rimmel London Lasting Finish Barra De La al 54.18 % de descuento'
-date: 2021-02-04 18:18:50
+date: 2021-02-17 08:21:56
 image: 'https://m.media-amazon.com/images/I/31Tm0MEk3gL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Está [Rimmel London Lasting Finish Barra De Labios Tono 077 Asia - 18 gr](https
 
 ℹ️:
 
+- Fórmula suave y cremosa para un uso cómodo durante todo el día
+- Tecnología Color Protect para proteger el color
 - Colores intensos que llaman la atención
 - Color intenso hasta 8 horas
-- Fórmula suave y cremosa para un uso cómodo durante todo el día
 - Color duradero y labio sedoso
-- Tecnología Color Protect para proteger el color
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0047X6QEA/?tag=tolees-21)

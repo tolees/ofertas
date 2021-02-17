@@ -28,7 +28,7 @@ Tienes [Ray-Ban - Rayban Justin RB4165 - Gafas de sol Unisex  Negro  Rojo 622/6Q
 
 ℹ️:
 
-- Negro (Rojo 622/6Q)
 - Justin RB4165
+- Negro (Rojo 622/6Q)
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00S4QIFO0/?tag=tolees-21)
