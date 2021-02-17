@@ -29,9 +29,9 @@ En este momento está [PIKOLINOS Sandalia tacón de Piel Melilla W4G](https://ww
 🔎:
 
 - Inner: Leather
-- Upper: Leather
-- Sole: Synthetic
-- Shoe fastening: Zipper
 - Material: Leather
+- Upper: Leather
+- Shoe fastening: Zipper
+- Sole: Synthetic
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07VWK38MC/?tag=tolees-21)

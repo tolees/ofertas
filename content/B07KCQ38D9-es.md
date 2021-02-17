@@ -29,8 +29,8 @@ Tienes [Adidas T19 KN SHO M Pantalones Cortos de Deporte  Hombre  Black/White  X
 🔎:
 
 - Para el aficionado a la natación que busca comodidad y estilo.
-- Bloques de color y detalles de adidas engomados en contraste.
-- Cordón interior en la cintura.
 - Climalite anti-humidity fabric
+- Cordón interior en la cintura.
+- Bloques de color y detalles de adidas engomados en contraste.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07KCQ38D9/?tag=tolees-21)
