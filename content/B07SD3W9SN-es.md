@@ -28,9 +28,9 @@ Tienes [Adidas Strutter  Zapatillas Deportivas Fitness y Ejercicio Hombre  Rojo 
 
 🔎:
 
-- Suela de goma; forro textil
-- Plantilla ligera de EVA Adibouncy
-- Parte superior de piel lisa
 - Cierre de cordones
+- Parte superior de piel lisa
+- Plantilla ligera de EVA Adibouncy
+- Suela de goma; forro textil
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07SD3W9SN/?tag=tolees-21)

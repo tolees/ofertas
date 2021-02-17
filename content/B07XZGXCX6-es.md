@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MSI Optix G32C4 - Monitor Gaming Curvo 3 al 30.30 % de descuento'
-date: 2021-02-15 00:38:40
+date: 2021-02-17 11:34:21
 image: 'https://m.media-amazon.com/images/I/51yMzo7Gm0L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'MSI'
 buyurl: 'https://www.amazon.es/dp/B07XZGXCX6/?tag=tolees-21'
 descuento: '30.30'
-average: '268.259333333333'
+average: '265.465789473685'
 ---
 
 Está [MSI Optix G32C4 - Monitor Gaming Curvo 32" FullHd 165Hz  1920x1080  1ms de respuesta  ratio 16:9  brillo 250nits  AMD FreeSync  negro](https://www.amazon.es/dp/B07XZGXCX6/?tag=tolees-21) con 30.30 de descuento por 229.99 EUR (original: 329.99 EUR) en el siguiente enlace!
@@ -28,9 +28,11 @@ Está [MSI Optix G32C4 - Monitor Gaming Curvo 32" FullHd 165Hz  1920x1080  1ms d
 
 ℹ️:
 
-- Product for demanding players.
-- Perfect quality
-- Full HD 1920 x 1080 pixels
-- Exceptional diving
+- Tiempo de respuesta de 1 ms: elimine el desgarro de la pantalla y las velocidades de fotogramas entrecortadas.
+- Amplia gama de colores: los colores y detalles del juego se verán más realistas y refinados, para llevar la inmersión del juego a sus límites.
+- Antiparpadeo y menos luz azul: juego aún más prolongado y evita fatiga y fatiga visual.
+- AMD FreeSync: evita el desgarro de la pantalla.
+- Pantalla de juego curvo (1500R): la mejor inmersión en el juego.
+- Frecuencia de actualización de 165Hz: juegos realmente suaves.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07XZGXCX6/?tag=tolees-21)

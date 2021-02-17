@@ -28,9 +28,9 @@ En este momento está [HP 25x - Monitor Gaming de 24.5   Full HD  1920x1080  TN 
 
 🔎:
 
-- Pantalla TN FHD con respuesta 1ms y actualización de 144Hz
-- Con el modo Low Blue Light rebajarás el nivel de esfuerzo para la vista
 - 100 mm de ajuste de altura para que tu pantalla esté siempre en la posición más cómoda
+- Con el modo Low Blue Light rebajarás el nivel de esfuerzo para la vista
 - Pantalla con micro-borde
+- Pantalla TN FHD con respuesta 1ms y actualización de 144Hz
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07F6J5D3D/?tag=tolees-21)

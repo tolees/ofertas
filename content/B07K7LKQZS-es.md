@@ -28,8 +28,8 @@ Ahora mismo tienes [adidas TIRO19 TR TOPY Sudadera  Unisex niños  Bold Blue/Dar
 
 🔎:
 
+- Adidas logo
 - Soft fabric
 - Regular fit
-- Adidas logo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07K7LKQZS/?tag=tolees-21)
