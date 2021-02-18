@@ -28,9 +28,9 @@ Está [Geographical Norway Chaqueta NIÑA Anson Azul Marino 10](https://www.amaz
 
 ℹ️:
 
-- Media cremallera
 - Modelo: Anson
-- Estilo: Sport
 - Capucha fija
+- Estilo: Sport
+- Media cremallera
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B081CFKVQB/?tag=tolees-21)

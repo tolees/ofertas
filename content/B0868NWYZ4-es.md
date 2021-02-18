@@ -28,10 +28,10 @@ Tienes [Suhctup Transparente Funda Compatible con Xiaomi Redmi Note 3 Carcasa Pr
 
 🔎:
 
-- ✿ Fácil acceso a todos los botones y características. Recortes precisos para altavoces, cámara y otros puertos. Las tapas que tienen los botones, permiten pulsaciones sensibles, y muy precisas. puede acceder fácilmente a todos los botones de la cubierta protectora de su Xiaomi Redmi Note 3.
-- ✿ Fácil acceso a todos los botones y características. Recortes precisos para altavoces, cámara y otros puertos. Las tapas que tienen los botones, permiten pulsaciones sensibles, y muy precisas. puede acceder fácilmente a todos los botones de la cubierta protectora de su Xiaomi Redmi Note 3.
-- ✿ Funda iPhone 11 Silicona Suave borde de la pantalla elevado 0.6 mm, borde de la cámara elevado 1 mm. Los biseles elevados protegen la cámara trasera y el borde de la pantalla.
-- ✿ Xiaomi Redmi Note 3 Carcasa Protectora de TPU Hecho de material de capa de protección ambiental TPU impermeable de primera clase, rasguña resistente y antideslizante y suciedad-resistente; También mantiene las burbujas de aire y las manchas alejadas.
 - ✿ Xiaomi Redmi Note 3 Cárcasa Silicona Transparente con Floral Diseño, le da a tu smartphone una apariencia nueva y atractiva, muestra el diseño original y el toque del teléfono en su mayor medida.
+- ✿ Fácil acceso a todos los botones y características. Recortes precisos para altavoces, cámara y otros puertos. Las tapas que tienen los botones, permiten pulsaciones sensibles, y muy precisas. puede acceder fácilmente a todos los botones de la cubierta protectora de su Xiaomi Redmi Note 3.
+- ✿ Fácil acceso a todos los botones y características. Recortes precisos para altavoces, cámara y otros puertos. Las tapas que tienen los botones, permiten pulsaciones sensibles, y muy precisas. puede acceder fácilmente a todos los botones de la cubierta protectora de su Xiaomi Redmi Note 3.
+- ✿ Xiaomi Redmi Note 3 Carcasa Protectora de TPU Hecho de material de capa de protección ambiental TPU impermeable de primera clase, rasguña resistente y antideslizante y suciedad-resistente; También mantiene las burbujas de aire y las manchas alejadas.
+- ✿ Funda iPhone 11 Silicona Suave borde de la pantalla elevado 0.6 mm, borde de la cámara elevado 1 mm. Los biseles elevados protegen la cámara trasera y el borde de la pantalla.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0868NWYZ4/?tag=tolees-21)

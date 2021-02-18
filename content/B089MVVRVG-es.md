@@ -28,9 +28,9 @@ Tienes [Meridiem Games - Oddworld Munch s Oddysee](https://www.amazon.es/dp/B089
 
 🔎:
 
-- Use unique abilities and psychic powers to have others do the dirty work for you
-- Dont forget to drink soda to unleash your hidden power
 - Meet a dozen of loopy races and rally them to your cause
+- Use unique abilities and psychic powers to have others do the dirty work for you
 - Switch between Munch or Abe and explore the realms of Oddworld!
+- Dont forget to drink soda to unleash your hidden power
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B089MVVRVG/?tag=tolees-21)

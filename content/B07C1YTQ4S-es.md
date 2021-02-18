@@ -30,8 +30,8 @@ Tienes [CLUSE Reloj Analógico para Mujer de Cuarzo con Correa en Cuero CL30056]
 
 - Resistente al agua a 3 atmósferas/30 metros/100 pies: sin agua y sin salpicaduras, pero no sumergir.
 - Carcasa de piel blanca con esfera blanca.
-- Resistente al agua.
-- Get all the comfort of leather with this leather band
 - Movimiento de cuarzo japonés con pantalla analógica y esfera de cristal mineral.
+- Get all the comfort of leather with this leather band
+- Resistente al agua.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07C1YTQ4S/?tag=tolees-21)

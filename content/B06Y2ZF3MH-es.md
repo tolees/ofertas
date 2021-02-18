@@ -28,10 +28,10 @@ En este momento está [Joma Olimpia Pantalones Cortos  Hombre  Marino  XS](https
 
 🔎:
 
-- Bolsillo interior.
-- Bermudas de surf.
-- Tecnología Dry MX.
 - Bajo regulable con cordón de ajuste.
+- Tecnología Dry MX.
 - Corte láser en la parte de abajo.
+- Bermudas de surf.
+- Bolsillo interior.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B06Y2ZF3MH/?tag=tolees-21)

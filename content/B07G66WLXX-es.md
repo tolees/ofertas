@@ -28,10 +28,10 @@ Está [Fossil Reloj Analogico para Mujer de Cuarzo con Correa en Piel ES4484](ht
 
 ℹ️:
 
+- Resistente al agua: 5 ATM
 - Ancho de la correa: 16mm; Circunferencia de la correa: 175+/- 5mm
+- Material de la correa: Piel
 - Se presenta en caja de regalo Fossil
 - Grosor de la caja: 9mm; Tamaño de la caja: 35mm
-- Material de la correa: Piel
-- Resistente al agua: 5 ATM
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07G66WLXX/?tag=tolees-21)

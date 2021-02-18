@@ -28,10 +28,10 @@ Tienes [Pyrex Prepware Set de 3 Jarras Medidoras con Extrema Resistencia a los C
 
 ℹ️:
 
-- Tamaño pequeño: 0.25 l, tamaño medio: 0.5 l, tamaño grande: 1 l
-- Fácil de verter gracias a su pico vertedor
-- Vidrio borosilicato: resistencia a altas temperaturas
 - Apto para microondas y lavavajillas
+- Tamaño pequeño: 0.25 l, tamaño medio: 0.5 l, tamaño grande: 1 l
+- Vidrio borosilicato: resistencia a altas temperaturas
+- Fácil de verter gracias a su pico vertedor
 - Escala de medidas impresas
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B076H7XL5B/?tag=tolees-21)

@@ -28,10 +28,10 @@ En este momento está [Tesura Games - For the King - Signature Edition](https://
 
 🔎:
 
-- Certificado firmado
-- 2 pins
-- BSO
 - Guía + Bestiario
+- Certificado firmado
+- BSO
 - 1 llavero
+- 2 pins
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07RCZJ8MP/?tag=tolees-21)

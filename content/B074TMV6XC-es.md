@@ -29,7 +29,7 @@ Está [Isabel Sardinilla en Tomate - Paquete de 24 x 81 gr - Total: 1944 gr](htt
 ℹ️:
 
 - Lo mejor del mar
-- Fuente de omega 3
 - Ricas y jugosa forma de comer pescado
+- Fuente de omega 3
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B074TMV6XC/?tag=tolees-21)
