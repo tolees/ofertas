@@ -29,9 +29,9 @@ Tienes [Maybelline New York  Máscara de Pestañas Volumen  Lash Sensational  Bl
 🔎:
 
 - Aplica la máscara desde la raíz hacia los extremos para extender las pestañas al máximo, Repite para un mayor impacto
+- Contenido: 1 x máscara de pestañas Maybelline New York Lash Sensational, Tono: Black, Cantidad: 9,5 ml
 - Efecto abanico para un volumen extraoscuro sin acartonar hasta en las pestañas más finas, Pestañas desplegadas y sin grumos
 - Cepillo curvo de silicona con 10 capas de cerdas para distribuir la fórmula fluida enriquecida con pigmentos negros intensos, Probada oftalmológicamente en ojos sensibles y en usuarios de lentes de contacto
-- Contenido: 1 x máscara de pestañas Maybelline New York Lash Sensational, Tono: Black, Cantidad: 9,5 ml
 - Máscara de pestañas volumen de color negro intenso para unas pestañas multiplicadas de un extremo del ojo al otro
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00X9XKHDU/?tag=tolees-21)

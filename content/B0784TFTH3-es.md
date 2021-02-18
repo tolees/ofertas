@@ -28,10 +28,10 @@ En este momento está [Puma Liga Baselayer Short Tight Pantalones Cortos  Hombre
 
 🔎:
 
-- Diseño ligero
 - Tejido de elastano para una elasticidad duradera
-- Corte ajustado
 - Material de compresión para mejorar el rendimiento
 - DryCELL: material altamente funcional que evacúa el sudor
+- Diseño ligero
+- Corte ajustado
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0784TFTH3/?tag=tolees-21)

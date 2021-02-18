@@ -28,9 +28,9 @@ Ahora mismo tienes [Kipling Cindy  Carteras para Mujer  Negro  Carbon Metallic  
 
 🔎:
 
-- Material exterior: Sintético
-- Composición: 100% Poliamida
 - Cierre: Cremallera
 - Revestimiento: Sintético
+- Composición: 100% Poliamida
+- Material exterior: Sintético
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07TXWLGB7/?tag=tolees-21)

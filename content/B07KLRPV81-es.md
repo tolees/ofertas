@@ -28,10 +28,10 @@ Está [Fantasy Flight Games- Keyforge: La Llamada de los Arcontes - Español  KF
 
 ℹ️:
 
-- Cada mazo es único, no existen dos copias iguales en el mundo
-- Más rápido y dinámico que otros juegos de cartas
-- Con una compra mínima puedes jugar competitivamente.
-- Richard Garfield: Un nombre, una garantía
 - Apto tanto para nuevos jugadores como para jugadores veteranos
+- Con una compra mínima puedes jugar competitivamente.
+- Cada mazo es único, no existen dos copias iguales en el mundo
+- Richard Garfield: Un nombre, una garantía
+- Más rápido y dinámico que otros juegos de cartas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07KLRPV81/?tag=tolees-21)

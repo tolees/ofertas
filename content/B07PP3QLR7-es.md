@@ -28,9 +28,9 @@ Ahora mismo tienes [Toy Partner- Nerf Gafas elite  Color azunaranja y azul  1153
 
 🔎:
 
-- Disponibles en azul y naranjas
 - Fabricado en España
 - Gafas para protegerse y tienen una correa ajustable para una fácil y rápida sujeción
 - Gafas con cristales de colores
+- Disponibles en azul y naranjas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07PP3QLR7/?tag=tolees-21)

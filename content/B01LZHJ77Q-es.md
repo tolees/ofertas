@@ -28,8 +28,8 @@ Ahora mismo tienes [Western Digital My Book Disco Duro Externo de Sobremesa de 4
 
 🔎:
 
+- Protección mediante contraseña con cifrado de hardware
 - Connexion USB 3.0, compatible con USB 2.0
 - Hasta 8 TB de capacidad
-- Protección mediante contraseña con cifrado de hardware
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01LZHJ77Q/?tag=tolees-21)

@@ -28,8 +28,8 @@ Está [ABYstyle - DC COMICS - Llavero - Logo Batman](https://www.amazon.es/dp/B0
 
 ℹ️:
 
-- Los llaveros ABYstyle se presentan en un bonito paquete
-- Material: PVC
 - Dimensiones: 5,2 x 3,5 cm
+- Material: PVC
+- Los llaveros ABYstyle se presentan en un bonito paquete
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B013EO0MZ6/?tag=tolees-21)

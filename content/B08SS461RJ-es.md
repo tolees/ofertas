@@ -28,9 +28,9 @@ Está [Garnier Fructis Hair Food Mascarilla Sandía Revitalizante  390 Ml 390 ml
 
 ℹ️:
 
+- Ligero como un acondicionador, intensivo como una mascarilla y eficaz como un tratamiento, pelo intensamente hidratado, vivo y suave 
+- Ligero como un acondicionador, intensivo como una mascarilla y eficaz como un tratamiento 
 - Pelo intensamente nutrido, suave y sin apelmazar
 - 390 ml
-- Ligero como un acondicionador, intensivo como una mascarilla y eficaz como un tratamiento 
-- Ligero como un acondicionador, intensivo como una mascarilla y eficaz como un tratamiento, pelo intensamente hidratado, vivo y suave 
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08SS461RJ/?tag=tolees-21)

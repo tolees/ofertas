@@ -28,8 +28,8 @@ En este momento está [adidas Run IT tee 3S M Camiseta de Manga Corta  Hombre  W
 
 🔎:
 
-- Soft fabric
-- Regular fit
 - Adidas logo
+- Regular fit
+- Soft fabric
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07FLJ8Z3F/?tag=tolees-21)

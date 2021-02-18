@@ -28,8 +28,8 @@ Tienes [Lékué - Molde bizcocho Savarín Hondo/Bundt 22 cm](https://www.amazon.
 
 🔎:
 
-- Light, flexible, non-stick and easy to unmold.
 - Platinum silicone 100%
+- Light, flexible, non-stick and easy to unmold.
 - Reinforced interior structure so, in spite of their flexibility, they are very stable, making them easier to carry
 - diameter of 22 cm and capacity 2400 ml.
 

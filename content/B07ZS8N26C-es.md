@@ -28,8 +28,8 @@ Está [NIKE M NP Top LS Tight Long Sleeved t-Shirt  Hombre  Game Royal/Black  S]
 
 ℹ️:
 
-- Crew-neck design
 - Regular fit
+- Crew-neck design
 - Dri-Fit Technology
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07ZS8N26C/?tag=tolees-21)

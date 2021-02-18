@@ -28,8 +28,8 @@ Tienes [NIKE ATM M NK tee Evergreen Crest T-Shirt  Hombre  Obsidian  L](https://
 
 🔎:
 
-- Regular fit
-- Ribbed crew neck
 - Dri-Fit Technology
+- Ribbed crew neck
+- Regular fit
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08F4YJKSK/?tag=tolees-21)
