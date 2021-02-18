@@ -29,9 +29,9 @@ En este momento está [DIGITUS Professional - Estantería para fijación permane
 🔎:
 
 - Montaje o desmontaje sencillo y rápido
-- Capacidad de carga 15 kg
-- Color gris (RAL 7035)
 - Ideal para componentes instalables que no sean de 483 mm (19")
+- Color gris (RAL 7035)
 - Diseño fino que solo requiere 1 unidad rack
+- Capacidad de carga 15 kg
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B003AOYLOE/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sharp HT-SB110 - Barra de sonido cine en al 32.57 % de descuento'
-date: 2021-02-16 11:07:47
+date: 2021-02-17 23:18:33
 image: 'https://m.media-amazon.com/images/I/21fOl4xcNdL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sharp'
 buyurl: 'https://www.amazon.es/dp/B079R2KQNH/?tag=tolees-21'
 descuento: '32.57'
-average: '62.0609756097561'
+average: '61.8716279069767'
 ---
 
 Ahora mismo tienes [Sharp HT-SB110 - Barra de sonido cine en casa  Bluetooth  HDMI  ARC/CEC  90 W de potencia  80 cm  color negro](https://www.amazon.es/dp/B079R2KQNH/?tag=tolees-21) a 57.99 EUR (original: 86.0 EUR) (32.57 %  de descuento) en el siguiente enlace!
@@ -28,10 +28,12 @@ Ahora mismo tienes [Sharp HT-SB110 - Barra de sonido cine en casa  Bluetooth  HD
 
 🔎:
 
-- This universal soundbar is compatible with any Television that has a HDMI, Digital Optical Audio (S/PDIF) or 3.5mm auxiliary (aux) connection. It can be used on a table/stand/TV unit or wall mounted
-- Bluetooth-in functionality allows you to wirelessly stream audio content from your Smart TV, tablet, smartphone/mobile (or other Bluetooth enabled smart device) to play through the soundbar speakers
-- The soundbar system can be easily operated with the supplied remote control, buttons on the unit itself or you can even use the TV remote when connected with the convenient HDMI ARC/CEC functionality
-- A slim, low profile of just 6cm allows the sound bar to fit neatly underneath the screen of most TVs and monitors without obscuring the picture
-- At 80cm wide the HT-SB110 is ideal for medium TVs with a screen size of 40-43" (but would work just as well for 32-55" TVs); perfect for the living room/lounge, kitchen diner or even a bedroom
+- Consumo de electricidad: 30 W
+- Perfecto para la sala de estar, la cocina, el comedor o incluso el dormitorio; se adapta a la pantalla de la mayoría de los televisores y monitores gracias a su perfil bajo y delgado (6 cm)
+- Fácil manejo gracias a los botones en el propio dispositivo o al mando a distancia suministrado, pero también puede contralar la barra de sonido con el propio mando a distancia de la mayoría de las televisiones utilizando la conexión HDMI gracias a la tecnología ARC/CEC
+- Función Bluetooth: reproduzca contenido de audio desde su Smartphone, Smart TV o Tablet
+- Potencia máxima de salida total: 90 W
+- Potente Bluetooth Soundbar System: experiencia de entretenimiento para juegos o cine en casa con su TV; ideal para televisores y pantallas de tamaño mediano de 40-43" o superior
+- Se puede conectar a cualquier TV con HDMI, audio óptico digital o salida auxiliar de 3.5 mm; montaje en pared o de sobremesa; rendimiento potente gracias a la potencia de 90 W
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B079R2KQNH/?tag=tolees-21)

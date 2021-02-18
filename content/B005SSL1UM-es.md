@@ -28,8 +28,8 @@ Está [Victoria Inglesa Bicolor  Zapatillas para Hombre  Azul  Turquoise   36 EU
 
 ℹ️:
 
-- País de fabricación: España
 - 1 unidad.
+- País de fabricación: España
 - Textil, tela, lona, goma, braguitas.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B005SSL1UM/?tag=tolees-21)

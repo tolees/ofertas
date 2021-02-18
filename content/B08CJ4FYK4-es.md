@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Element Wolfeboro Stark - Chaqueta resis al 81.48 % de rebaja'
-date: 2021-02-16 22:30:53
+title: 'Element Wolfeboro Stark - Chaqueta resis al 82.89 % de rebaja'
+date: 2021-02-17 23:37:06
 image: 'https://m.media-amazon.com/images/I/41CdkJIUb4L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -9,29 +9,29 @@ author: ring
 slug: 'B08CJ4FYK4-es Element Wolfeboro Stark - Chaqueta resistente al agua para...'
 sku: 'B08CJ4FYK4-es'
 tags: [  ]
-actualPrice: 27.78 EUR
+actualPrice: 25.67 EUR
 currency: EUR
-price: 27.78
+price: 25.67
 comparePrice: 150.0 EUR
 prodname: 'Element Wolfeboro Stark - Chaqueta resistente al agua para Hombre Chaqueta Parka  Hombre  Forest Night  XS'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Element'
 buyurl: 'https://www.amazon.es/dp/B08CJ4FYK4/?tag=tolees-21'
-descuento: '81.48'
-average: '27.78'
+descuento: '82.89'
+average: '26.725'
 ---
 
-Tienes [Element Wolfeboro Stark - Chaqueta resistente al agua para Hombre Chaqueta Parka  Hombre  Forest Night  XS](https://www.amazon.es/dp/B08CJ4FYK4/?tag=tolees-21) con precio final de  27.78 EUR (original: 150.0 EUR) (81.48 %  de rebaja) aqui!
+Tienes [Element Wolfeboro Stark - Chaqueta resistente al agua para Hombre Chaqueta Parka  Hombre  Forest Night  XS](https://www.amazon.es/dp/B08CJ4FYK4/?tag=tolees-21) con precio final de  25.67 EUR (original: 150.0 EUR) (82.89 %  de rebaja) aqui!
 
 [![Element Wolfeboro Stark - Chaqueta resis](https://m.media-amazon.com/images/I/41CdkJIUb4L._SL200_.jpg)](https://www.amazon.es/dp/B08CJ4FYK4/?tag=tolees-21)
 
 🔎:
 
-- Forro con sherpa natural y acolchado de rombos; tratamiento duradero que repele el agua (DWR)
 - Cintura ajustable con cordón ajustable; marca exterior; detalles con la marca Wolfeboro
 - Bolsillos ribeteados en el pecho; bolsillos para las manos con solapas y cierres automáticos
-- Cremallera metálica vista en la parte central delantera; capucha con visera
+- Forro con sherpa natural y acolchado de rombos; tratamiento duradero que repele el agua (DWR)
 - Lona mezcla de algodón y poliéster reciclado REPREVE; revestimiento transparente de PU 1000mm
+- Cremallera metálica vista en la parte central delantera; capucha con visera
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08CJ4FYK4/?tag=tolees-21)

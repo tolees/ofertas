@@ -29,8 +29,8 @@ Ahora mismo tienes [Fisher Space Original Astronaut Retractable Pen](https://www
 🔎:
 
 - Se puede escribir en todas las condiciones, incluso bajo el agua
-- Transbordador espacial plumas son todos de metal, de 8 mm de diámetro
 - Incluye caja
 - Mecanismo con el botón secundario
+- Transbordador espacial plumas son todos de metal, de 8 mm de diámetro
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0015ZP2AC/?tag=tolees-21)
