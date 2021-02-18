@@ -28,9 +28,9 @@ Está [Urban Classics Tall tee Camiseta  Gris  Dark Shadow   M para Hombre](http
 
 ℹ️:
 
-- La camiseta para hombre es de 100% algodón para la máxima comodidad (excepción gris 60% algodón, 40% poliéster y gris 90% algodón, 10% poliéster)
 - Cómodo cuello redondo para mayor comodidad
 - Como el nombre ya verrät significa que esta camiseta tiene un corte algo más largo
+- La camiseta para hombre es de 100% algodón para la máxima comodidad (excepción gris 60% algodón, 40% poliéster y gris 90% algodón, 10% poliéster)
 - Camiseta monocromática para hombres con corte de gran tamaño – el elemento esencial para un llamativo look streetwear
 - Disponible en muchos colores llamativos y cubiertos en los tamaños desde la talla media hasta la 6x
 

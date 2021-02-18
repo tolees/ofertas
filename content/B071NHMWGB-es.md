@@ -28,8 +28,8 @@ Está [Game of Thrones Figura BRAN Stark  Funko 12332 ](https://www.amazon.es/dp
 
 ℹ️:
 
-- Material 100% vinyl
 - El personaje se une a la colección de Game of Thrones
 - Cada personaje mide alrededor de 9 cm de altura
+- Material 100% vinyl
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B071NHMWGB/?tag=tolees-21)
