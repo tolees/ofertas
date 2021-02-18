@@ -29,8 +29,8 @@ Tienes [Croci C5055219 Correa Flexi Design  Tapes 5 m](https://www.amazon.es/dp/
 ℹ️:
 
 - Tamaño s
-- Longitud 5 metros
 - Amarillo
+- Longitud 5 metros
 - Obturador del rodillo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00VOAXQME/?tag=tolees-21)

@@ -28,8 +28,8 @@ Está [Puma Nova 90 s Bloc Wn s  Zapatillas para Mujer  Blanco White/Pale Pink  
 
 ℹ️:
 
-- Color: BLANCO
 - Designer: PUMA
+- Color: BLANCO
 - Artículo: 369486-03
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07DCDJC1T/?tag=tolees-21)

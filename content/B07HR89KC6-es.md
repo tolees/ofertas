@@ -28,10 +28,10 @@ Está [Luz Nocturna Infantil  2 Pack  OMERIL Luz Noche con Luz Sensor  Luz Quita
 
 ℹ️:
 
-- 💡 Conveniencia y Seguridad: Conéctelo fácilmente a cualquier toma de corriente estándar, sin ningún interruptor, fácil de usar. La luz nocturna LED está hecha de material especial para PC, resistente al fuego y resistente a impactos, duradero y seguro.
-- 💡 2 Pack - Luz Nocturna con Sensor de Luz: La luz del sensor se enciende automáticamente cuando la luz ambiental es débil. 👉 Adopta el sensor de fotocélula y No necesita pilas o switch.(Plug-und-Play)
-- 💡 Aplicación Amplia: Ideal para habitaciones de niños o bebés, guarderías, sala de estar, baño, pasillo, escaleras, aterrizaje, cocina, garaje en el sótano y cualquier lugar en la noche para dar una luz.
 - 💡 Luz Blanca y Suave: Ayuda a eliminar el miedo a la oscuridad. No afectará la calidad del sueño por lo que son perfectos para dormir e iluminarse como una señal.
 - 💡 Luz de Noche Económica: Usando perlas de lámpara LED, funcionamiento de 60,000 horas con menos consumo de energía(aproximadamente 0.2~0.5 W) y más brillante. ✅Sin necesidad de reemplazo, garantía de 24 meses.
+- 💡 Aplicación Amplia: Ideal para habitaciones de niños o bebés, guarderías, sala de estar, baño, pasillo, escaleras, aterrizaje, cocina, garaje en el sótano y cualquier lugar en la noche para dar una luz.
+- 💡 Conveniencia y Seguridad: Conéctelo fácilmente a cualquier toma de corriente estándar, sin ningún interruptor, fácil de usar. La luz nocturna LED está hecha de material especial para PC, resistente al fuego y resistente a impactos, duradero y seguro.
+- 💡 2 Pack - Luz Nocturna con Sensor de Luz: La luz del sensor se enciende automáticamente cuando la luz ambiental es débil. 👉 Adopta el sensor de fotocélula y No necesita pilas o switch.(Plug-und-Play)
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07HR89KC6/?tag=tolees-21)

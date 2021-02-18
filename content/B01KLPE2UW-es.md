@@ -28,14 +28,14 @@ Ahora mismo tienes [Lacor 24135-Plancha Grill Lisa Eco Piedra 33 x 25 cm-Negro  
 
 🔎:
 
-- Compatibilidad: todo tipo de cocinas
-- Diseñada para uso doméstico y rendimiento profesional
 - Fácil de manejar por las asas ergonómicas extraibles de silicona de alta resistencia (180ºC) y termo aislantes
 - Fabricada en aluminio fundido de gran calidad y espesor
-- Apta para el lavavajillas
+- Diseñada para uso doméstico y rendimiento profesional
 - Distribución homogénea del calor que permite una cocción rápida y uniforme, sin apenas utilizar aceite
+- Apta para el lavavajillas
+- Area de coccion: 33 x 25 cm
+- Compatibilidad: todo tipo de cocinas
 - Dimensiones totales (asa incluidas): 46 x 27.5 x 6 cm
 - Recubrimiento antiadherente TRIcapa de máxima calidad y ecológico, libre de PFOA
-- Area de coccion: 33 x 25 cm
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01KLPE2UW/?tag=tolees-21)
