@@ -28,10 +28,10 @@ Tienes [Element Wolfeboro Stark - Chaqueta resistente al agua para Hombre Chaque
 
 🔎:
 
-- Cintura ajustable con cordón ajustable; marca exterior; detalles con la marca Wolfeboro
-- Cremallera metálica vista en la parte central delantera; capucha con visera
 - Bolsillos ribeteados en el pecho; bolsillos para las manos con solapas y cierres automáticos
-- Lona mezcla de algodón y poliéster reciclado REPREVE; revestimiento transparente de PU 1000mm
+- Cremallera metálica vista en la parte central delantera; capucha con visera
+- Cintura ajustable con cordón ajustable; marca exterior; detalles con la marca Wolfeboro
 - Forro con sherpa natural y acolchado de rombos; tratamiento duradero que repele el agua (DWR)
+- Lona mezcla de algodón y poliéster reciclado REPREVE; revestimiento transparente de PU 1000mm
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08CJ4FYK4/?tag=tolees-21)

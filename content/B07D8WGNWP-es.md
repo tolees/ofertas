@@ -28,10 +28,10 @@ En este momento está [Rimmel London Scandaleyes Reloaded Máscara de Pestañas 
 
 🔎:
 
+- Volumen al instante con el lado en forma de ala
 - Fórmula ultra ligera para construir volumen capa tras capa
 - Eleva tus pestañas de lado a lado
 - Libera tu wow
 - Define y alarga con el lado curvo
-- Volumen al instante con el lado en forma de ala
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07D8WGNWP/?tag=tolees-21)

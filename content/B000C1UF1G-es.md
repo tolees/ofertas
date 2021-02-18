@@ -28,8 +28,8 @@ Está [Armani-Emporio Emporio Ella Agua de perfume Vaporizador 100 ml](https://w
 
 ℹ️:
 
-- Contiene 100 ml.
 - Este producto está indicado para mujeres.
+- Contiene 100 ml.
 - Las notas olfativas principales de este producto son especiado y floral.
 - De la marca Armani-emporio.
 

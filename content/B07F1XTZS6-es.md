@@ -28,8 +28,8 @@ Está [Element Alder Jacket  Hombre  Flint Black  XS](https://www.amazon.es/dp/B
 
 ℹ️:
 
-- Mens Wear
 - Wolfeboro
 - Jacket
+- Mens Wear
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07F1XTZS6/?tag=tolees-21)

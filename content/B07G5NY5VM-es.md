@@ -31,7 +31,7 @@ Tienes [Max Factor  Base de maquillaje  Tono: 65 Rose Beige  Pieles Claras  - 30
 - Disfruta de una base de maquillaje durante horas
 - Su complejo hidratante a base de glicerina y ácido hialurónico evita la aparición de arrugas y la pérdida de elasticidad
 - La base de maquillaje Radiant Lift te aporta hidratación y deja una piel visiblemente radiante durante horas
-- Déjate sorprender por la comodidad de llevarla cada día gracias a la película flexible que deja sobre tu piel
 - Protege tu piel de las agresiones del sol con SPF 30
+- Déjate sorprender por la comodidad de llevarla cada día gracias a la película flexible que deja sobre tu piel
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07G5NY5VM/?tag=tolees-21)
