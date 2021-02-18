@@ -28,8 +28,8 @@ Ahora mismo tienes [Soria Natural - Fostprint Complemento Energético con Amino�
 
 🔎:
 
-- Alimento natural con una elevada concentración en aminoácidos, proteínas, fosfolípidos, minerales y vitaminas
 - Sin gluten
+- Alimento natural con una elevada concentración en aminoácidos, proteínas, fosfolípidos, minerales y vitaminas
 - Energía natural al instante. Rico en aminoácidos, proteínas, minerales y vitaminas
 - fácil de usar
 

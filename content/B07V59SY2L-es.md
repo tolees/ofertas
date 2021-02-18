@@ -29,9 +29,9 @@ Ahora mismo tienes [Tommy Hilfiger Reloj Analógico para Mujer de Cuarzo con Cor
 🔎:
 
 - 3 ATM de resistencia al agua
-- Diámetro de la caja: 38 mm
-- Correa de silicona azul marino
-- Esfera azul marina con efecto de rayo de sol
 - Dos manecillas
+- Correa de silicona azul marino
+- Diámetro de la caja: 38 mm
+- Esfera azul marina con efecto de rayo de sol
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07V59SY2L/?tag=tolees-21)
