@@ -29,8 +29,8 @@ Tienes [Sabrent Concentrador de USB 2.0 con 4 salidas  interuptores de potencia 
 ℹ️:
 
 - Compatible hacia abajo con USB 1.1
+- 4 LEDs por puerto. Elegante acabado negro. Los 4 puertos en un lado para minimizar el lío de cables.
 - Ampliar conectando 4 dispositivos USB 2.0 o 1.1 con cualquier USB 2.0 disponible
 - Es compatible con USB 2.0 de velocidad de transferencia hasta 480 Mbps. Compatible hacia abajo con dispositivos y servidores 1.1
-- 4 LEDs por puerto. Elegante acabado negro. Los 4 puertos en un lado para minimizar el lío de cables.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00BWF5U0M/?tag=tolees-21)

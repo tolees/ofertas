@@ -29,9 +29,9 @@ Ahora mismo tienes [Nikon - Nikkon D7500 - Cámara réflex Digital de 20.9 MP  P
 🔎:
 
 - Apta para la noche, increíble sensibilidad lumínica
-- Mantenga la cámara conectada a su dispositivo inteligente con SnapBridge
-- Pantalla abatible vertical y controles táctiles
 - Metraje de vídeo 4K/UHD
 - Mantenga la imagen definida, precisión de AF extrema
+- Mantenga la cámara conectada a su dispositivo inteligente con SnapBridge
+- Pantalla abatible vertical y controles táctiles
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B06ZYCS62R/?tag=tolees-21)

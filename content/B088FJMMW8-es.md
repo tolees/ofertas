@@ -28,9 +28,9 @@ En este momento está [Hurley M Essential Henley S/S Camiseta  Hombre  Obsidian]
 
 🔎:
 
-- Construcción del hombro hacia adelante con acabado en puntada
-- Tapeta de un solo botón
-- Tejido de punto 140 gr
 - 50% algodón, 50% poliéster
+- Tejido de punto 140 gr
+- Tapeta de un solo botón
+- Construcción del hombro hacia adelante con acabado en puntada
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B088FJMMW8/?tag=tolees-21)

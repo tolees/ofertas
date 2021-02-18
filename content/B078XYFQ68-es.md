@@ -28,10 +28,10 @@ En este momento está [THQ Nordic - The Raven Remastered](https://www.amazon.es/
 
 🔎:
 
-- Un clásico de novela policíaca de KING Art, los creadores de The Book of Unwritten Tales-series
-- Experimenta una historia de un crimen intrigante a través de los ojos de distintos personajes
-- Animaciones completamente remasterizados, luz y pelo en resolución HD
 - Voces de doblaje de alta calidad de personajes peculiares
+- Animaciones completamente remasterizados, luz y pelo en resolución HD
+- Un clásico de novela policíaca de KING Art, los creadores de The Book of Unwritten Tales-series
 - Ubicaciones de clásicas muertes misteriosas, desde un tren en los Alpes Suizos hasta el majestuoso crucero y el Museo del Cairo
+- Experimenta una historia de un crimen intrigante a través de los ojos de distintos personajes
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B078XYFQ68/?tag=tolees-21)

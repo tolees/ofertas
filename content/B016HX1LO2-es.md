@@ -29,9 +29,9 @@ Ahora mismo tienes [Lotus 18140/2 - Reloj de cuarzo para mujer  con correa de ac
 🔎:
 
 - - Forma de la Carcasa: Redondo
+- - Color de la caja: Oro
 - - Material de la Carcasa: Acero Inoxidable (bruñido)
 - - Cristal: Cristal Mineral
-- - Color de la caja: Oro
 - Carcasa
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B016HX1LO2/?tag=tolees-21)
