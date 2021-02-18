@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Somat Abrillantador Aditivo Lavavajillas al 25.77 % de descuento'
-date: 2021-02-17 12:00:43
+date: 2021-02-18 12:44:20
 image: 'https://m.media-amazon.com/images/I/41zgd5T7RrL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Somat'
 buyurl: 'https://www.amazon.es/dp/B00X9V1SHG/?tag=tolees-21'
 descuento: '25.77'
-average: '2.48402597402597'
+average: '2.48615384615384'
 ---
 
 Está [Somat Abrillantador Aditivo Lavavajillas - 0.5 L](https://www.amazon.es/dp/B00X9V1SHG/?tag=tolees-21) con 25.77 de descuento por 2.65 EUR (original: 3.57 EUR) en el siguiente enlace!
@@ -29,8 +29,8 @@ Está [Somat Abrillantador Aditivo Lavavajillas - 0.5 L](https://www.amazon.es/d
 ℹ️:
 
 - Extra secado, especialmente en plásticos.
-- Protege contra la cal.
 - Previene marcas de agua.
+- Protege contra la cal.
 - Garantiza un brillo radiante de la cristalería y vajilla.
 - Ayuda a un secado más rápido de tu vajilla y cristalería.
 

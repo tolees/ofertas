@@ -28,8 +28,8 @@ En este momento está [Nihlsfen Soporte para LCD pequeño Soporte de TV de 14-32
 
 🔎:
 
-- 2. Adecuado para su uso en una variedad de lugares, incluidos el hogar y la empresa.
 - 1. Adecuado para soporte colgante de LCD, LED y LCD de computadora.
+- 2. Adecuado para su uso en una variedad de lugares, incluidos el hogar y la empresa.
 - 4. Estructura de estampado de acero de alta resistencia combinada con un diseño aerodinámico.
 - 3. Es fácil de instalar funciones.
 

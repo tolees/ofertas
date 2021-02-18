@@ -28,10 +28,10 @@ Está [Lékué Kit iniciación Repostería Essential Moldes  Silicona](https://w
 
 ℹ️:
 
-- 2 moldes de silicona platino esenciales en la cocina para la preparación de una gran variedad de pasteles: molde rectangular de 24 cm y molde redondo de 24 cm
 - Kit de 3 productos para iniciarte en la repostería
-- Moldes flexibles, estables, antiadherentes y muy fáciles de desmoldar.
 - Material: 100% silicona platino
 - Espátula de silicona, higiénica y muy funcional
+- Moldes flexibles, estables, antiadherentes y muy fáciles de desmoldar.
+- 2 moldes de silicona platino esenciales en la cocina para la preparación de una gran variedad de pasteles: molde rectangular de 24 cm y molde redondo de 24 cm
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08LHB1XSS/?tag=tolees-21)
