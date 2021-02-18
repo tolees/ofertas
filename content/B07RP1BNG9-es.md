@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'UBI Soft - Ghost Recon - Figura Nomad Br al 75.15 % de rebaja'
-date: 2021-02-16 20:33:44
+date: 2021-02-18 08:55:36
 image: 'https://m.media-amazon.com/images/I/61q2obwvMWL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'UBI Soft'
 buyurl: 'https://www.amazon.es/dp/B07RP1BNG9/?tag=tolees-21'
 descuento: '75.15'
-average: '23.4319298245615'
+average: '23.1427118644069'
 ---
 
 Tienes [UBI Soft - Ghost Recon - Figura Nomad Breakpoint](https://www.amazon.es/dp/B07RP1BNG9/?tag=tolees-21) con precio final de  14.9 EUR (original: 59.95 EUR) (75.15 %  de rebaja) aqui!
@@ -28,8 +28,8 @@ Tienes [UBI Soft - Ghost Recon - Figura Nomad Breakpoint](https://www.amazon.es/
 
 🔎:
 
-- Height: 23 cm
 - Material: PVC
+- Height: 23 cm
 - Detailed holster, handgun, bag pack & rifle
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07RP1BNG9/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Ecovacs OZMO Slim10 - Robot Aspirador 4  al 26.21 % de rebaja'
-date: 2020-07-21 08:15:30
+title: 'Ecovacs OZMO Slim10 - Robot Aspirador 4  al 46.52 % de rebaja'
+date: 2021-02-18 08:57:13
 image: 'https://m.media-amazon.com/images/I/41UrsmYLoOL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -9,24 +9,29 @@ author: ring
 slug: 'B07GJZC89P-es Ecovacs OZMO Slim10 - Robot Aspirador 4 en 1: barre aspira...'
 sku: 'B07GJZC89P-es'
 tags: [  ]
-actualPrice: 168.99 EUR
+actualPrice: 159.9 EUR
 currency: EUR
-price: 168.99
-comparePrice: 229.0 EUR
+price: 159.9
+comparePrice: 299.0 EUR
 prodname: 'Ecovacs OZMO Slim10 - Robot Aspirador 4 en 1: barre  aspira  pasa mopa y friega  navegación inteligente  control por App  Wifi  4 modos de limpieza  diseño ultrafino  suelo duro  Gris'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'ECOVACS'
 buyurl: 'https://www.amazon.es/dp/B07GJZC89P/?tag=tolees-21'
-descuento: '26.21'
-average: '192.392'
+descuento: '46.52'
+average: '186.976666666667'
 ---
 
-Tienes [Ecovacs OZMO Slim10 - Robot Aspirador 4 en 1: barre  aspira  pasa mopa y friega  navegación inteligente  control por App  Wifi  4 modos de limpieza  diseño ultrafino  suelo duro  Gris](https://www.amazon.es/dp/B07GJZC89P/?tag=tolees-21) con precio final de  168.99 EUR (original: 229.0 EUR) (26.21 %  de rebaja) aqui!
+Tienes [Ecovacs OZMO Slim10 - Robot Aspirador 4 en 1: barre  aspira  pasa mopa y friega  navegación inteligente  control por App  Wifi  4 modos de limpieza  diseño ultrafino  suelo duro  Gris](https://www.amazon.es/dp/B07GJZC89P/?tag=tolees-21) con precio final de  159.9 EUR (original: 299.0 EUR) (46.52 %  de rebaja) aqui!
 
 [![Ecovacs OZMO Slim10 - Robot Aspirador 4 ](https://m.media-amazon.com/images/I/41UrsmYLoOL._SL200_.jpg)](https://www.amazon.es/dp/B07GJZC89P/?tag=tolees-21)
 
 🔎:
 
+- Tecnología de detección de obstáculos para evitar y proteger sus muebles - con los sensores anticolisión y su suave protección contra impactos, no tendrá que estar pendiente de él
+- Contenido del envío: 1x Robot aspirador DEEBOT OZMO Slim10/1x Estación de carga/1x Tanque de agua/1x Mando a distancia/Paño de limpieza/2x Filtro de polvo fino/4x Cepillos laterales
+- Adiós aspiradora, hola tiempo libre: para la limpieza de alfombras superficies duras y todo tipo de suelos/con el modo Máx, la potencia se duplica para la zonas con más suciedad
+- La potente batería de litio de 26000mAh ofrece un tiempo de uso de hasta 100 min/modalidad autocarga: el robot vuelve automáticamente a la estación de carga cuando el nivel de batería es bajo
+- Barre, aspira y friega de una sola vez: todo con la nueva tecnología OZMO - combina una fuerte potencia de aspiración junto con la última tecnología - la limpieza como usted quiera
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07GJZC89P/?tag=tolees-21)

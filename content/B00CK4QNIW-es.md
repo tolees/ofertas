@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lékué - Molde bizcocho Savarín Hondo/Bun al 32.04 % de rebaja'
-date: 2021-02-09 20:06:41
+date: 2021-02-18 08:57:20
 image: 'https://m.media-amazon.com/images/I/315fA2IkzJL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [Lékué - Molde bizcocho Savarín Hondo/Bundt 22 cm](https://www.amazon.
 
 🔎:
 
-- Facil desmoldado por su flexibilidad y las propiedades antiadherentes de la silicona
-- Facil limpieza por su antiadherencia
-- Silicona platino 100%, resiste 220 ºC
-- Se puede usar en lavavajillas
+- Light, flexible, non-stick and easy to unmold.
+- Platinum silicone 100%
+- Reinforced interior structure so, in spite of their flexibility, they are very stable, making them easier to carry
+- diameter of 22 cm and capacity 2400 ml.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00CK4QNIW/?tag=tolees-21)
