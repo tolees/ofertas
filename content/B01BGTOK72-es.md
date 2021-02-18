@@ -29,8 +29,8 @@ Ahora mismo tienes [G-STAR RAW Bronson Slim Chino Pantalones  Negro  black 5126-
 🔎:
 
 - Tiro bajo en la parte delantera y tiro regular en la parte trasera
-- Presentan un corte ajustado con cinturilla ajustada
 - Pantalones chinos G-Star para hombre
 - Se estrechan del muslo al dobladillo
+- Presentan un corte ajustado con cinturilla ajustada
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01BGTOK72/?tag=tolees-21)

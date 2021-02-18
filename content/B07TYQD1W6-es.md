@@ -28,9 +28,9 @@ Está [Funko- Pop Disney: Onward-Dad Collectible Toy  Multicolor  45585 ](https:
 
 ℹ️:
 
-- Figure stands 9cm and comes in a window display box
-- Funko pop is the 2018 toy of the year and peoples choice award winner
 - From onward, dad, as a stylized pop vinyl from funko
+- Funko pop is the 2018 toy of the year and peoples choice award winner
+- Figure stands 9cm and comes in a window display box
 - Check out the other disney figures from funko collect them all
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07TYQD1W6/?tag=tolees-21)
