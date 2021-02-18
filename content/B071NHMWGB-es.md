@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Game of Thrones Figura BRAN Stark  Funko al 40.03 % de descuento'
-date: 2021-02-16 11:18:12
+date: 2021-02-18 15:18:09
 image: 'https://m.media-amazon.com/images/I/41WIVKU35nL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Está [Game of Thrones Figura BRAN Stark  Funko 12332 ](https://www.amazon.es/dp
 
 ℹ️:
 
+- Material 100% vinyl
 - El personaje se une a la colección de Game of Thrones
 - Cada personaje mide alrededor de 9 cm de altura
-- Material 100% vinyl
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B071NHMWGB/?tag=tolees-21)

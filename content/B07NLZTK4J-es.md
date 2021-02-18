@@ -1,34 +1,35 @@
 ---
 layout: post
-title: 'Nike Revolution 5  Running Shoe Unisex-C al 40.01 % de rebaja'
-date: 2021-01-22 12:15:10
+title: 'Nike Revolution 5  Running Shoe  Black/W al 25.72 % de rebaja'
+date: 2021-02-18 15:14:43
 image: 'https://m.media-amazon.com/images/I/4134hXg9vkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NLZTK4J-es Nike Revolution 5 Running Shoe Unisex-Child...'
+slug: 'B07NLZTK4J-es Nike Revolution 5 Running Shoe Black/White/Anthracite 27.5 EU'
 sku: 'B07NLZTK4J-es'
 tags: [  ]
-actualPrice: 20.99 EUR
+actualPrice: 25.99 EUR
 currency: EUR
-price: 20.99
+price: 25.99
 comparePrice: 34.99 EUR
-prodname: 'Nike Revolution 5  Running Shoe Unisex-Child  Black/White/Anthracite  27.5 EU'
+prodname: 'Nike Revolution 5  Running Shoe  Black/White/Anthracite  27.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: 'NIKE'
 buyurl: 'https://www.amazon.es/dp/B07NLZTK4J/?tag=tolees-21'
-descuento: '40.01'
-average: '22.82'
+descuento: '25.72'
+average: '23.8766666666667'
 ---
 
-Tienes [Nike Revolution 5  Running Shoe Unisex-Child  Black/White/Anthracite  27.5 EU](https://www.amazon.es/dp/B07NLZTK4J/?tag=tolees-21) con precio final de  20.99 EUR (original: 34.99 EUR) (40.01 %  de rebaja) aqui!
+Tienes [Nike Revolution 5  Running Shoe  Black/White/Anthracite  27.5 EU](https://www.amazon.es/dp/B07NLZTK4J/?tag=tolees-21) con precio final de  25.99 EUR (original: 34.99 EUR) (25.72 %  de rebaja) aqui!
 
-[![Nike Revolution 5  Running Shoe Unisex-C](https://m.media-amazon.com/images/I/4134hXg9vkL._SL200_.jpg)](https://www.amazon.es/dp/B07NLZTK4J/?tag=tolees-21)
+[![Nike Revolution 5  Running Shoe  Black/W](https://m.media-amazon.com/images/I/4134hXg9vkL._SL200_.jpg)](https://www.amazon.es/dp/B07NLZTK4J/?tag=tolees-21)
 
 🔎:
 
-- Plantilla blanda
 - La suave suela intermedia de espuma proporciona una sensación suave y estable.
+- Plantilla blanda
 - Forro blando.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07NLZTK4J/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.01 % en Edge Entertainment- Breaking Bad  Multic'
-date: 2021-01-21 12:13:25
+date: 2021-02-18 15:50:39
 image: 'https://m.media-amazon.com/images/I/414AzTuOKML._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,9 +16,10 @@ comparePrice: 39.95 EUR
 prodname: 'Edge Entertainment- Breaking Bad  Multicolor  EEESBB01 '
 country: 'es'
 flag: '🇪🇸'
+brand: 'Edge Entertainment'
 buyurl: 'https://www.amazon.es/dp/B07CMDRM5K/?tag=tolees-21'
 descuento: '50.01'
-average: '27.525263157894734'
+average: '26.8057142857143'
 ---
 
 Tienes [Edge Entertainment- Breaking Bad  Multicolor  EEESBB01 ](https://www.amazon.es/dp/B07CMDRM5K/?tag=tolees-21) con un 50.01 % de descuento con precio de oferta de 19.97 EUR (original: 39.95 EUR) en el siguiente enlace!

@@ -28,9 +28,9 @@ En este momento está [Arena antifog Spray&Swim Goggle Accessories  Adultos Unis
 
 🔎:
 
-- Aplicación fácil, rápida y eficaz, sin necesidad de aclarado o espera
-- Innovador spray seguro para los ojos para renovar la película antivaho
 - Contenido: 35.ml, suficiente para unas 150 aplicaciones
 - Evita que las gafas se empañen
+- Aplicación fácil, rápida y eficaz, sin necesidad de aclarado o espera
+- Innovador spray seguro para los ojos para renovar la película antivaho
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0788ZQMPH/?tag=tolees-21)
