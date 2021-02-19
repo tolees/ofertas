@@ -28,9 +28,9 @@ Está [Superga 2750 COTU Classic Sneakers  Zapatillas Unisex Adulto  Ivory  38 E
 
 ℹ️:
 
-- Suela de goma vulcanizada
-- Ojales en relieve Superga.
 - Algodón totalmente transpirable.
 - Superga Tab en el lateral y el talón
+- Ojales en relieve Superga.
+- Suela de goma vulcanizada
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00HVTCM36/?tag=tolees-21)
