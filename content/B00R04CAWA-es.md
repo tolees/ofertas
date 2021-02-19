@@ -28,10 +28,10 @@ Tienes [Philips HD7462/20 Cafetera goteo  10-15 tazas  1000 W  14 Cups  plástic
 
 🔎:
 
-- Cafetera de filtro en plástico negro y metal
-- Sistema anti-goteo para interrumpir el proceso de preparación cuando desees
-- Desconexión automática
 - Capacidad de 1,2 l para 10 - 15 tazas
 - Innovador indicador de nivel de agua
+- Cafetera de filtro en plástico negro y metal
+- Desconexión automática
+- Sistema anti-goteo para interrumpir el proceso de preparación cuando desees
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00R04CAWA/?tag=tolees-21)

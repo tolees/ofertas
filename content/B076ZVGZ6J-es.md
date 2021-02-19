@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Smartwares Extintor de Polvo Seco  1 KG  al 25.21 % de descuento'
-date: 2021-02-17 09:24:23
+date: 2021-02-19 09:27:54
 image: 'https://m.media-amazon.com/images/I/41CErDPmwyL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Smartwares'
 buyurl: 'https://www.amazon.es/dp/B076ZVGZ6J/?tag=tolees-21'
 descuento: '25.21'
-average: '16.844'
+average: '16.6211764705882'
 ---
 
 Está [Smartwares Extintor de Polvo Seco  1 KG  Resistencia al Fuego ABC](https://www.amazon.es/dp/B076ZVGZ6J/?tag=tolees-21) con 25.21 de descuento por 14.95 EUR (original: 19.99 EUR) en el siguiente enlace!
@@ -28,12 +28,12 @@ Está [Smartwares Extintor de Polvo Seco  1 KG  Resistencia al Fuego ABC](https:
 
 ℹ️:
 
-- Uso apto en oficinas, hogar, barcos, caravanas o coches
-- El extintor de polvo seco tiene una fuerte capacidad de extinción e incluye materiales de montaje
-- Extintor en idiomas Italiano, Portugués y Español
-- Certificado BSI
-- Adecuado para usarlo tanto en casa como fuera
-- El extintor tiene una capacidad de 1 kg con resistencia al fuego 8A, 34B, C; Resistencia al fuego ABC
 - Incluye soporte para pared
+- Certificado BSI
+- Extintor en idiomas Italiano, Portugués y Español
+- El extintor de polvo seco tiene una fuerte capacidad de extinción e incluye materiales de montaje
+- El extintor tiene una capacidad de 1 kg con resistencia al fuego 8A, 34B, C; Resistencia al fuego ABC
+- Adecuado para usarlo tanto en casa como fuera
+- Uso apto en oficinas, hogar, barcos, caravanas o coches
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B076ZVGZ6J/?tag=tolees-21)
