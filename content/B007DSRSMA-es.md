@@ -28,10 +28,10 @@ Ahora mismo tienes [Casio Reloj de Pulsera DW-5600BB-1ER](https://www.amazon.es/
 
 🔎:
 
-- Reloj CASIO para los Hombres con un movimiento del Quartz, Cronómetro, Cuenta atrás, Alarma, Luz
-- Resistente al agua: 20 bar-Peso: 52 g
-- Diámetro de la caja: 35x42 mm, Grueso: 12 mm,Color de la caja: Negro y Color del Dial: Negro
-- El reloj viene en una caja de regalo con una garantía de 2 años
 - Correa de alta calidad de Plástico Negro 22 cm de longitud y 22 mm de ancho con un cierre Fibbia
+- El reloj viene en una caja de regalo con una garantía de 2 años
+- Diámetro de la caja: 35x42 mm, Grueso: 12 mm,Color de la caja: Negro y Color del Dial: Negro
+- Resistente al agua: 20 bar-Peso: 52 g
+- Reloj CASIO para los Hombres con un movimiento del Quartz, Cronómetro, Cuenta atrás, Alarma, Luz
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B007DSRSMA/?tag=tolees-21)

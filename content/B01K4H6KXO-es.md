@@ -28,9 +28,9 @@ Está [JBM 52978 Piezas con vasos hexagonales en estuche  Negro  Set de 108](htt
 
 ℹ️:
 
-- Vasos hexagonales
-- 108 piezas
 - Herramientas de 1/2" y 1/4"
 - Cromado
+- Vasos hexagonales
+- 108 piezas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01K4H6KXO/?tag=tolees-21)

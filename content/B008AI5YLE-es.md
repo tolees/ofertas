@@ -28,10 +28,10 @@ Tienes [Obire - Cardo Mariano 400 mg. 60 capsulas](https://www.amazon.es/dp/B008
 
 ℹ️:
 
-- No contiene lactosa.
-- Envase para 30 días de uso.
-- Sin excipientes.
 - Complemento alimenticios a base de plantas naturales.
+- Envase para 30 días de uso.
+- No contiene lactosa.
 - El Cardo Mariano es un hepatoprotector favorece la estimulación de la secreción de la bilis, recomendado en digestiones lentas. Facilita la digestión de las grasas.
+- Sin excipientes.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B008AI5YLE/?tag=tolees-21)
