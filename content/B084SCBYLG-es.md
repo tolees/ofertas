@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Gioseppo Aleskin  Zapatillas Mujer  Negr al 46.64 % de rebaja'
-date: 2021-01-24 23:45:38
+title: 'Gioseppo Aleskin  Zapatillas Mujer  Negr al 60.04 % de rebaja'
+date: 2021-02-19 16:02:58
 image: 'https://m.media-amazon.com/images/I/41G6c4zt0GL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -9,19 +9,20 @@ author: ring
 slug: 'B084SCBYLG-es Gioseppo Aleskin Zapatillas Mujer Negro 41 EU'
 sku: 'B084SCBYLG-es'
 tags: [  ]
-actualPrice: 39.99 EUR
+actualPrice: 29.95 EUR
 currency: EUR
-price: 39.99
+price: 29.95
 comparePrice: 74.95 EUR
 prodname: 'Gioseppo Aleskin  Zapatillas Mujer  Negro  41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: 'GIOSEPPO'
 buyurl: 'https://www.amazon.es/dp/B084SCBYLG/?tag=tolees-21'
-descuento: '46.64'
-average: '39.99'
+descuento: '60.04'
+average: '34.97'
 ---
 
-Tienes [Gioseppo Aleskin  Zapatillas Mujer  Negro  41 EU](https://www.amazon.es/dp/B084SCBYLG/?tag=tolees-21) con precio final de  39.99 EUR (original: 74.95 EUR) (46.64 %  de rebaja) aqui!
+Tienes [Gioseppo Aleskin  Zapatillas Mujer  Negro  41 EU](https://www.amazon.es/dp/B084SCBYLG/?tag=tolees-21) con precio final de  29.95 EUR (original: 74.95 EUR) (60.04 %  de rebaja) aqui!
 
 [![Gioseppo Aleskin  Zapatillas Mujer  Negr](https://m.media-amazon.com/images/I/41G6c4zt0GL._SL200_.jpg)](https://www.amazon.es/dp/B084SCBYLG/?tag=tolees-21)
 

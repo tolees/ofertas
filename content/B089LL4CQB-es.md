@@ -28,9 +28,9 @@ Tienes [Dettol Gel hidroalcoholico higienizante de manos - 200 ml x 6](https://w
 
 🔎:
 
+- Aplicar una pequeña cantidad sobre la palma de las manos y frotar hasta su completa absorción
+- Gel higienizante a base de alcohol: 70%
 - Gel higienizante para el lavado de manos sin agua
 - Formato 200 ml
-- Gel higienizante a base de alcohol: 70%
-- Aplicar una pequeña cantidad sobre la palma de las manos y frotar hasta su completa absorción
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B089LL4CQB/?tag=tolees-21)

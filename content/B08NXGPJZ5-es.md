@@ -28,10 +28,10 @@ Tienes [GiftPot Kit de fabricación de Velas  Juego de Regalo de Bricolaje  hoju
 
 ℹ️:
 
-- 【JUEGO COMPLETO】 Todo lo que necesita para crear sus propias velas está en este kit: 4 x 120 g de hojuelas de cera de abejas, 1 x Jarra para derretir, 1 x Cuchara de acero inoxidable, 2 x Portavelas para mechas，8 x Latas de velas, 50 x Mechas de velas, 56 x Pegatinas de mechas de velas,
-- 【REGALOS PERFECTOS】 Juego perfecto para cumpleaños, Navidad, aniversarios, días de la madre y el padre u otras vacaciones.
 - 【100% SATISFACCIÓN】 Reembolso completo y devolución si tiene algún problema después de recibir los artículos. Solo contáctanos y nos encargaremos de ello.
 - 【Copos de cera de abejas NATURALES】 Hecho de cera de abejas 100% natural, limpiador de quemaduras, sin humo negro, más lento y más uniforme.
 - 【FÁCIL DE HACER】 Perfecto para principiantes. Se tarda aproximadamente 1 minuto en derretir las hojuelas de cera de abejas. Puedes hacer velas fácilmente con la guía dentro del juego.
+- 【JUEGO COMPLETO】 Todo lo que necesita para crear sus propias velas está en este kit: 4 x 120 g de hojuelas de cera de abejas, 1 x Jarra para derretir, 1 x Cuchara de acero inoxidable, 2 x Portavelas para mechas，8 x Latas de velas, 50 x Mechas de velas, 56 x Pegatinas de mechas de velas,
+- 【REGALOS PERFECTOS】 Juego perfecto para cumpleaños, Navidad, aniversarios, días de la madre y el padre u otras vacaciones.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08NXGPJZ5/?tag=tolees-21)

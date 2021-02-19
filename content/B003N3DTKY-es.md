@@ -28,9 +28,9 @@ En este momento está [Startech.com DP2MDPMF6IN - Cable de 15 cm Adaptador Displ
 
 🔎:
 
-- Longitud de 15 cm
 - Fácil de usar y de instalar
 - Conector de fijación moldeado para asegurar el cable contra desconexiones accidentales
+- Longitud de 15 cm
 - Con protección contra tirones
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B003N3DTKY/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cars3 DXV32 Coche Personajes al 33.47 % de descuento'
-date: 2021-02-17 08:30:42
+date: 2021-02-19 16:21:27
 image: 'https://m.media-amazon.com/images/I/51Ldqp23niL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Cars3'
 buyurl: 'https://www.amazon.es/dp/B077K1ZMXD/?tag=tolees-21'
 descuento: '33.47'
-average: '14.5966666666667'
+average: '15.118'
 ---
 
 Está [Cars3 DXV32 Coche Personajes](https://www.amazon.es/dp/B077K1ZMXD/?tag=tolees-21) con 33.47 de descuento por 15.9 EUR (original: 23.9 EUR) en el siguiente enlace!
