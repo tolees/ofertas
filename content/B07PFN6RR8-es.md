@@ -28,10 +28,10 @@ En este momento está [Columbia Street Elite Petate convertible  Color: Gris  Co
 
 🔎:
 
-- Contenido: 1 x Columbia Street Elite Petate convertible, Color: Gris (Cool Grey), Art. No. 1832482
 - Bolsa de viaje que se puede usar como mochila, llevarla como un bolso de cuero o colgarla sobre el hombro
-- La capacidad total es de 36 litros, con un asa para facilitar el transporte
 - Bolsillo interno para zapatos y ropa, cremallera reflectante y resistente al agua
+- Contenido: 1 x Columbia Street Elite Petate convertible, Color: Gris (Cool Grey), Art. No. 1832482
 - Resistente al agua, el sistema de amarre multipunto mantiene todo en su lugar
+- La capacidad total es de 36 litros, con un asa para facilitar el transporte
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07PFN6RR8/?tag=tolees-21)

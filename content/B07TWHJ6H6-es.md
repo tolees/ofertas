@@ -30,7 +30,7 @@ Está [Funko- Pop Marvel: Endgame-Gamer Korg Figura Coleccionable  Multicolor  4
 
 - Figure stands 9cm and comes in a window display box
 - From endgame, gamer korg, as a stylized pop vinyl from funko
-- Funko pop is the 2018 toy of the year and peoples choice award winner
 - Check out the other disney marvel figures from funko collect them all
+- Funko pop is the 2018 toy of the year and peoples choice award winner
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07TWHJ6H6/?tag=tolees-21)

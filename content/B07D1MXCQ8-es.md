@@ -28,10 +28,10 @@ En este momento está [LaCabine - La Cabine Ampollas Botox - Ácido hialurónico
 
 🔎:
 
-- Sérum Ácido Hialurónico: Atrae y retiene el agua de la piel, actuando sobre el contorno de ojos, frente, comisuras labiales y todo tipo de arrugas del rostro
-- Efecto botox: restaura la firmeza de la cara, con un efecto tensor no invasivo, gracias a sus ingredientes naturales
-- Antiarrugas: reduce la apariencia de las líneas de expresión y la edad, actuando sobre todo tipo de arrugas, dejando la piel tersa
-- Resultados duraderos en el tiempo: prevención del envejecimiento con su uso habitual
 - Reafirmante efecto instantáneo: piel más suave y lisa para una apariencia rejuvenecida en poco tiempo; usa las ampollas y notarás como la piel queda tersa y suave rápidamente
+- Sérum Ácido Hialurónico: Atrae y retiene el agua de la piel, actuando sobre el contorno de ojos, frente, comisuras labiales y todo tipo de arrugas del rostro
+- Antiarrugas: reduce la apariencia de las líneas de expresión y la edad, actuando sobre todo tipo de arrugas, dejando la piel tersa
+- Efecto botox: restaura la firmeza de la cara, con un efecto tensor no invasivo, gracias a sus ingredientes naturales
+- Resultados duraderos en el tiempo: prevención del envejecimiento con su uso habitual
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07D1MXCQ8/?tag=tolees-21)

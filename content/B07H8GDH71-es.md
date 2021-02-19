@@ -28,10 +28,10 @@ Está [Beurer HT 15 - Peine Lendrera Eléctrico Anti-Piojos  con Corriente Eléc
 
 ℹ️:
 
-- Uses gentle electrical impulses to detect and kill lice
-- Easy to use, chemical-free head lice and nit killer
-- No need for expensive and harsh shampoos or nit and head lice treatment
 - Can also be used on pets for fleas
 - Fine comb teeth easily sweep away dead nits (louse eggs)
+- No need for expensive and harsh shampoos or nit and head lice treatment
+- Uses gentle electrical impulses to detect and kill lice
+- Easy to use, chemical-free head lice and nit killer
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07H8GDH71/?tag=tolees-21)

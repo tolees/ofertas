@@ -28,9 +28,9 @@ Ahora mismo tienes [Evax Fina y Segura Super/Maxi Compresas - 13 Unidades](https
 
 🔎:
 
-- Más fina para mayor comodidad
-- Núcleo superabsorbente para que te sientas protegida todo el día
-- Tecnología no olor para controlar el olor
 - Calidad evax
+- Núcleo superabsorbente para que te sientas protegida todo el día
+- Más fina para mayor comodidad
+- Tecnología no olor para controlar el olor
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07H6ZM7BC/?tag=tolees-21)
