@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsonite Spectrolite 2.0 - Mochila para al 30.00 % de rebaja'
-date: 2021-02-09 00:55:17
+date: 2021-02-19 15:26:00
 image: 'https://m.media-amazon.com/images/I/31gJQ7wRgTL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Samsonite'
 buyurl: 'https://www.amazon.es/dp/B076CSB4HT/?tag=tolees-21'
 descuento: '30.00'
-average: '131.988484848484'
+average: '131.446285714285'
 ---
 
 Tienes [Samsonite Spectrolite 2.0 - Mochila para portátil 17.3 pulgadas  28.5/32.5 L  Negro  50.5 x 36 x 30 cm](https://www.amazon.es/dp/B076CSB4HT/?tag=tolees-21) con precio final de  122.5 EUR (original: 175.0 EUR) (30.00 %  de rebaja) aqui!

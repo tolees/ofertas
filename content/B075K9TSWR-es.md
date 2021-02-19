@@ -28,7 +28,7 @@ Tienes [New Balance Hombre 574v2-core Trainers Zapatillas  Negro  Triple Black  
 
 🔎:
 
-- Material exterior: Cuero
 - Revestimiento: Sintético
+- Material exterior: Cuero
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B075K9TSWR/?tag=tolees-21)

@@ -28,11 +28,11 @@ Está [Tristar FR-6980 Freidora Crispy Mini - Freidora sin aceite de diseño com
 
 ℹ️:
 
-- Resultado extracrujiente incluso sin usar aceite
 - Segura de usar con un asa fría al tacto, protección contra sobrecalentamiento y base antideslizante
 - Diseño compacto para que la freidora no ocupe demasiado espacio en casa o en la caravana
-- ¡Atención! Dimensiones del producto: 25 x 25 x 30 cm, volumen 2 l
-- Adecuada para freír, hornear, asar y preparar a la parrilla gracias a la convección de aire de alta velocidad
+- Resultado extracrujiente incluso sin usar aceite
 - Fácil de controlar con un panel de control analógico con dial giratorio para tiempo y temperatura
+- Adecuada para freír, hornear, asar y preparar a la parrilla gracias a la convección de aire de alta velocidad
+- ¡Atención! Dimensiones del producto: 25 x 25 x 30 cm, volumen 2 l
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B077ZF6NMJ/?tag=tolees-21)

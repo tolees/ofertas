@@ -28,8 +28,8 @@ En este momento está [Startech.com DP2MDPMF6IN - Cable de 15 cm Adaptador Displ
 
 🔎:
 
-- Fácil de usar y de instalar
 - Longitud de 15 cm
+- Fácil de usar y de instalar
 - Conector de fijación moldeado para asegurar el cable contra desconexiones accidentales
 - Con protección contra tirones
 

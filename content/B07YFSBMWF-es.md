@@ -28,10 +28,10 @@ Ahora mismo tienes [NEUMA - MARTISAN Cejillas Guitarra Capo para Guitarra Eléct
 
 🔎:
 
-- Grado superior: hecho de aluminio de grado aeronáutico, el capo garantiza peso ligero y durabilidad al mismo tiempo.
-- Simple y rápido: perfecto para guitarras eléctricas y acústicas, ukelele, banjo, guitarras populares y mandolina. Lanzamientos y reposiciones fácilmente.
 - Garantía de por vida: ¡disfrute de nuestro servicio de por vida! Cualquier problema por favor contáctenos.
+- Grado superior: hecho de aluminio de grado aeronáutico, el capo garantiza peso ligero y durabilidad al mismo tiempo.
 - Piensa por ti: agregado con una alfombra de silicona suave, el capo nunca dañará el instrumento. El diseño de resorte oculto evita cortar sus manos. Protege tanto tu instrumento como tu cuerpo.
+- Simple y rápido: perfecto para guitarras eléctricas y acústicas, ukelele, banjo, guitarras populares y mandolina. Lanzamientos y reposiciones fácilmente.
 - Rendimiento profesional: equipado con un resorte fuerte, el capo ajustará la presión de acuerdo con el instrumento y se sujetará firmemente en su lugar. Asegurarse de que no haya zumbidos.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07YFSBMWF/?tag=tolees-21)
