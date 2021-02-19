@@ -28,9 +28,9 @@ En este momento está [Chicco- Pelota transformable  00009374000000 ](https://ww
 
 🔎:
 
-- Ideal para bebés
 - Desarrolla la creatividad
 - Rueda como una pelota
+- Ideal para bebés
 - 10 piezas de colores a encajar
 - Transformable en diferentes figuras
 

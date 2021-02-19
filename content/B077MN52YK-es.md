@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tenda U3 Mini Adaptador Inalámbrico USB  al 25.29 % de descuento'
-date: 2021-02-17 08:43:07
+date: 2021-02-19 22:39:38
 image: 'https://m.media-amazon.com/images/I/31ibcbt8TAL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Tenda'
 buyurl: 'https://www.amazon.es/dp/B077MN52YK/?tag=tolees-21'
 descuento: '25.29'
-average: '7.015'
+average: '7.03'
 ---
 
 Ahora mismo tienes [Tenda U3 Mini Adaptador Inalámbrico USB  300 Mbps Velocidad De Wi-Fi  Mini Diseño  Botón WPS  WPA/Wpa2  Windows10/8 1/8/7/Xp  Mac Os X 10 7-10 11  Linux   Negro](https://www.amazon.es/dp/B077MN52YK/?tag=tolees-21) a 7.09 EUR (original: 9.49 EUR) (25.29 %  de descuento) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [Tenda U3 Mini Adaptador Inalámbrico USB  300 Mbps Velocidad
 
 🔎:
 
-- Tasa de transferencia (máx): 300Mbit/s
-- Interfaz de host: USB
-- Tecnología de conectividad: Wireless
-- Interno: N
 - Interfaz: WLAN
+- Interfaz de host: USB
+- Interno: N
+- Tasa de transferencia (máx): 300Mbit/s
+- Tecnología de conectividad: Wireless
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B077MN52YK/?tag=tolees-21)

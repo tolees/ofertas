@@ -28,9 +28,9 @@ Está [RC2 Corporation - CRC 30143-AA - Deco Paint Deco Imprimación Universal  
 
 ℹ️:
 
-- No contiene metales: sin plomo, cadmio ni cromo
 - Proporciona una superficie lisa y firme ideal para la aplicación posterior de cualquier tipo de pintura
-- Spray de imprimación de secado rápido, fácil de usar y aplicar
 - CRC 30143-AA - DECO IMPRIMACIÓN UNIVERSAL. Imprimación anterior al pintado de superficies metálicas 200 ml
+- No contiene metales: sin plomo, cadmio ni cromo
+- Spray de imprimación de secado rápido, fácil de usar y aplicar
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00U1J1NOC/?tag=tolees-21)

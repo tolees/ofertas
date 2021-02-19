@@ -29,8 +29,8 @@ En este momento está [Salomon Quest Prime GTX  Zapatillas de Senderismo Hombre 
 🔎:
 
 - Cierre: Cordones
-- Anchura del zapato: D
-- Composición: 100% textil
 - Material exterior: Sintético
+- Composición: 100% textil
+- Anchura del zapato: D
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B078SVFRXY/?tag=tolees-21)

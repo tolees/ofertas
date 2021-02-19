@@ -28,8 +28,8 @@ Tienes [Hurley M Have Fun Hat Gorra  Hombre  Black  1SIZE](https://www.amazon.es
 
 🔎:
 
-- Cierre de plástico para un ajuste personalizado
 - Visera plana estructurada
 - 60% poliéster, 40% algodón
+- Cierre de plástico para un ajuste personalizado
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B088MZHZX9/?tag=tolees-21)

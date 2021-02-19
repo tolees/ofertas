@@ -28,10 +28,10 @@ Ahora mismo tienes [Grohe Tempesta 100 - Teleducha 2 chorros  color cromo  Ref.2
 
 🔎:
 
-- Botón de seguridad en los 38 ° C
 - Cuerpo de GROHE CoolTouch. Sin riesgo de quemaduras en toda la superficie del termostato
-- Ahorro de agua hasta en un 50% con el botón GROHE EcoJoy
-- Mangos ergonómicos. buen agarre incluso con las manos jabonosas
 - Disponible para instalación en la bañera y ducha
+- Mangos ergonómicos. buen agarre incluso con las manos jabonosas
+- Botón de seguridad en los 38 ° C
+- Ahorro de agua hasta en un 50% con el botón GROHE EcoJoy
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B075RCN2YW/?tag=tolees-21)

@@ -28,8 +28,8 @@ En este momento está [Mondo Toys - Mondo - Pelota de Espuma Blanda  140 mm  078
 
 🔎:
 
-- Es de espuma
-- Pelota infantil blanda
 - Ideal para los más pequeños de la casa
+- Pelota infantil blanda
+- Es de espuma
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0036D8LYA/?tag=tolees-21)

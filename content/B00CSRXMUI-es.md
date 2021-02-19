@@ -28,9 +28,9 @@ Tienes [WOLFCRAFT 7980010 punzón Cromado  para marcar el Punto de Taladro Pack 
 
 ℹ️:
 
+- Con una punta y cabeza de impacto inducida templada
+- Viene envuelto en una bolsa de plástico en la tarjeta
 - Apto para marcado en piedra, chapa y acero
 - Vástago moleteado superficie cromada
-- Viene envuelto en una bolsa de plástico en la tarjeta
-- Con una punta y cabeza de impacto inducida templada
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00CSRXMUI/?tag=tolees-21)

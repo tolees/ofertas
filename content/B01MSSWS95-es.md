@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 28.71 % en Adidas Vs Pace  Zapatillas para Hombre  '
-date: 2021-02-17 11:49:49
+date: 2021-02-19 22:28:06
 image: 'https://m.media-amazon.com/images/I/41AoqevxXQL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,10 @@ Tienes [Adidas Vs Pace  Zapatillas para Hombre  Negro  Core Black/Footwear White
 
 ℹ️:
 
-- Tirador de tela en el talón con detalle de las 3 bandas.
-- Cómodo forro textil.
-- Cómodo forro textil.
-- 3 bandas de piel sintética en el lateral externo y perforadas en el interior.
+- Closure: Laces
+- Outsole: Vulcanised rubber
+- Lining: Textile
+- Upper: Synthetic
+- Heel tab
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01MSSWS95/?tag=tolees-21)
