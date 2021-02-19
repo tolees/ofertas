@@ -28,10 +28,10 @@ En este momento está [Russell Hobbs Adventure - Hervidor de Agua Eléctrico  24
 
 🔎:
 
-- Incluye boquilla de precisión, indicador interno de nivel de agua, filtro extraíble y lavable y tapa de fácil apertura
-- Hierve una taza de agua en tan solo 50 segundos, ahorrando hasta un 70 % de electricidad
 - Zona de ebullición rápida con indicador de 1, 2 o 3 tazas
 - 2.400 vatios de potencia. Capacidad de 1,7 litros y base de 360º con recogecable
+- Hierve una taza de agua en tan solo 50 segundos, ahorrando hasta un 70 % de electricidad
+- Incluye boquilla de precisión, indicador interno de nivel de agua, filtro extraíble y lavable y tapa de fácil apertura
 - Hervidor de acero inoxidable pulido
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B078XXVZNY/?tag=tolees-21)

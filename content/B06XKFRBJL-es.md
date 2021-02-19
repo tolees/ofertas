@@ -28,10 +28,10 @@ Está [Pepe Jeans Spike Jeans  Negro  Black Used   30W / 34L para Hombre](https:
 
 ℹ️:
 
-- Doble bolsillo trasero
+- Tejido denim medio
 - Fit regular
 - Pierna recta
 - Vaqueros con tiro medio
-- Tejido denim medio
+- Doble bolsillo trasero
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06XKFRBJL/?tag=tolees-21)

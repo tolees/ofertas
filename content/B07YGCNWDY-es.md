@@ -29,9 +29,9 @@ Ahora mismo tienes [Deportivas Mujer MTNG | Deportivas Dasha 69362 | MTNG Mujer 
 🔎:
 
 - Material principal Sintetico
-- Altura Tacón Bajo (de 1 A 3 cm)
 - Material de la suela De goma
-- Tipo de cierre Cremallera
 - Tipo de tacón Plano
+- Tipo de cierre Cremallera
+- Altura Tacón Bajo (de 1 A 3 cm)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07YGCNWDY/?tag=tolees-21)

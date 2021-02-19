@@ -28,10 +28,10 @@ Está [PUMA Classics Wide Leg Pants Chándal  Mujer  White  S](https://www.amazo
 
 ℹ️:
 
-- Bolsillos laterales
 - Poliéster 100 %
+- Cinturilla elástica con cordón exterior para adaptar el ajuste
+- Bolsillos laterales
 - Corte holgado
 - Logotipo PUMA Archive bordado en la parte izquierda de la cadera
-- Cinturilla elástica con cordón exterior para adaptar el ajuste
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B086PB5LG6/?tag=tolees-21)

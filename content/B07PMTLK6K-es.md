@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Under Armour Tech Corto  Hombre  Marrón  al 74.48 % de descuento'
-date: 2021-02-17 09:12:54
+title: 'Under Armour Tech Corto  Hombre  Marrón  al 76.96 % de descuento'
+date: 2021-02-19 10:55:00
 image: 'https://m.media-amazon.com/images/I/31RIM7P-FuL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: ring
 slug: 'B07PMTLK6K-es Under Armour Tech Corto Hombre Marrón 30'
 sku: 'B07PMTLK6K-es'
 tags: [  ]
-actualPrice: 12.76 EUR
+actualPrice: 11.52 EUR
 currency: EUR
-price: 12.76
+price: 11.52
 comparePrice: 50.0 EUR
 prodname: 'Under Armour Tech Corto  Hombre  Marrón  30'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Under Armour'
 buyurl: 'https://www.amazon.es/dp/B07PMTLK6K/?tag=tolees-21'
-descuento: '74.48'
-average: '11.192'
+descuento: '76.96'
+average: '11.2857142857143'
 ---
 
-Está [Under Armour Tech Corto  Hombre  Marrón  30](https://www.amazon.es/dp/B07PMTLK6K/?tag=tolees-21) con 74.48 de descuento por 12.76 EUR (original: 50.0 EUR) en el siguiente enlace!
+Está [Under Armour Tech Corto  Hombre  Marrón  30](https://www.amazon.es/dp/B07PMTLK6K/?tag=tolees-21) con 76.96 de descuento por 11.52 EUR (original: 50.0 EUR) en el siguiente enlace!
 
 [![Under Armour Tech Corto  Hombre  Marrón ](https://m.media-amazon.com/images/I/31RIM7P-FuL._SL200_.jpg)](https://www.amazon.es/dp/B07PMTLK6K/?tag=tolees-21)
 

@@ -28,8 +28,8 @@ Tienes [adidas Am 3S Mesh Bra Sports  Mujer  Legacy Blue/Green Tint  M](https://
 
 🔎:
 
+- Sports bra
 - Great freedom of movement
 - Stretch fabric
-- Sports bra
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B089Z9LVPT/?tag=tolees-21)
