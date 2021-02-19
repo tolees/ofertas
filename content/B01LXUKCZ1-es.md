@@ -28,8 +28,8 @@ Está [Mercurio Distribuciones-Juego de Habilidad con Tema Divertido. Gran Inten
 
 ℹ️:
 
+- Un juego loco con factor todos a la vez
 - Divertido y desternillante
 - Juego de habilidad y rapidez
-- Un juego loco con factor todos a la vez
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01LXUKCZ1/?tag=tolees-21)

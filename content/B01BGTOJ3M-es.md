@@ -28,9 +28,9 @@ En este momento está [G-STAR RAW Bronson Slim Chino Pantalones  Azul  mazarine 
 
 🔎:
 
-- Tiro bajo en la parte delantera y tiro regular en la parte trasera
 - Presentan un corte ajustado con cinturilla ajustada
-- Se estrechan del muslo al dobladillo
+- Tiro bajo en la parte delantera y tiro regular en la parte trasera
 - Pantalones chinos G-Star para hombre
+- Se estrechan del muslo al dobladillo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01BGTOJ3M/?tag=tolees-21)

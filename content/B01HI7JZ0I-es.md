@@ -28,8 +28,8 @@ Tienes [Fjallraven - Fjällräven Re-Kånken Mini - Mochila  Unisex Adulto  Rosa
 
 ℹ️:
 
-- Mini mochila
 - Dos bolsillos laterales y un bolsillo con cremallera en el frontal
+- Mini mochila
 - Tipo de deporte: Camping y Outdoor
 - Edición especial Kånken mini fabricada íntegramente en poliéster Reciclado de botellas de plástico
 

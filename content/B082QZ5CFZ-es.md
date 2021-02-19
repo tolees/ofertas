@@ -28,10 +28,10 @@ Tienes [ukuu - Telefono Movils para Mayores  gsm Pantalla de 2 3 Pulgadas con Te
 
 ℹ️:
 
-- ☎ HAC: Compatible con audífonos (HAC), ideal para personas con problemas de audición, este teléfono móvil para mayores viene con un cable USB y una estación de carga (sin enchufe del cargador) para cargar el dispositivo cuando sea necesario.
-- ☎Telefono movil para mayores: tiene botones grandes para marcar fácilmente, una fuente grande para una mejor visualización y un potente altavoz para ajustar el volumen.Funciones con Cámara, bluetooth, linterna, despertador, calculadora y radio FM.
-- ☎ Pantalla grande de 2,3 pulgadas: pasos para configurar el idioma - Menu 〈Settings 〈Phone settings 〈Languages ​​〈Español, English, Français, Italiano, Deutsch.Hay manual de instrucciones en español.
-- ☎ Batería a largo plazo: tiene una potente batería de 1000 mAh y un tiempo de espera prolongado. Puede permanecer durante 260 horas (10 días) o hablar continuamente durante 300 minutos con dos tarjetas SIM, lo que puede ahorrarle dinero, especialmente en el extranjero.Además, se pueden almacenar hasta 11 números como marcaciones rápidas.
 - ☎ Botón SOS: Ukuu telefono inalambrico incluye el botón SOS, que le permite enviar rápidamente información de ayuda y llamar automáticamente a 5 contactos de emergencia para hacer una transmisión y mensajes SOS.
+- ☎ Batería a largo plazo: tiene una potente batería de 1000 mAh y un tiempo de espera prolongado. Puede permanecer durante 260 horas (10 días) o hablar continuamente durante 300 minutos con dos tarjetas SIM, lo que puede ahorrarle dinero, especialmente en el extranjero.Además, se pueden almacenar hasta 11 números como marcaciones rápidas.
+- ☎Telefono movil para mayores: tiene botones grandes para marcar fácilmente, una fuente grande para una mejor visualización y un potente altavoz para ajustar el volumen.Funciones con Cámara, bluetooth, linterna, despertador, calculadora y radio FM.
+- ☎ HAC: Compatible con audífonos (HAC), ideal para personas con problemas de audición, este teléfono móvil para mayores viene con un cable USB y una estación de carga (sin enchufe del cargador) para cargar el dispositivo cuando sea necesario.
+- ☎ Pantalla grande de 2,3 pulgadas: pasos para configurar el idioma - Menu 〈Settings 〈Phone settings 〈Languages ​​〈Español, English, Français, Italiano, Deutsch.Hay manual de instrucciones en español.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B082QZ5CFZ/?tag=tolees-21)

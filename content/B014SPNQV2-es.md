@@ -29,8 +29,8 @@ Ahora mismo tienes [Hoover MBC500UV Ultra Vortex - Aspiradora de Mano  Ciclónic
 🔎:
 
 - Múltiples funciones incluidas: Aspiración, bateador y lámpara uv
-- Depósito de fácil extracción y vaciado higiénico: 0.3 l
 - Aspiradora de mano: para aspirar colchones, cojines, almohadas, sofás y pelos de animales
+- Depósito de fácil extracción y vaciado higiénico: 0.3 l
 - Recomendada para hogares con alergias: Sello de aprobación por la Fundación Británica de Alergia
 - Muy ligera: sólo 2.2 kgs
 
