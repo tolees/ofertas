@@ -28,10 +28,10 @@ Ahora mismo tienes [Scuderia Ferrari Reloj Analógico para Hombre de Cuarzo con 
 
 🔎:
 
-- Movimiento cronógrafo
 - Grosor de la caja de 11,75 mm; Diámetro de la caja: 44 mm
-- 5 ATM de resistencia al agua
 - Esfera con textura tipo fibra de carbono
+- Movimiento cronógrafo
+- 5 ATM de resistencia al agua
 - Pulsera con chapado iónico negro
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B084K6ZRJ7/?tag=tolees-21)

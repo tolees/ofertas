@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CAMEO - Space Battleship Yamato [Blu-ray al 26.61 % de descuento'
-date: 2021-02-18 00:13:59
+date: 2021-02-19 00:39:34
 image: 'https://m.media-amazon.com/images/I/51Hazhv4JML._SL200_.jpg'
 comments: true
 category: ofertas
