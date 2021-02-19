@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung Galaxy A31 - Smartphone 6.4" Sup al 33.44 % de descuento'
-date: 2021-02-18 06:18:36
+date: 2021-02-19 07:03:42
 image: 'https://m.media-amazon.com/images/I/31ac3zelphL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SAMSUNG'
 buyurl: 'https://www.amazon.es/dp/B08GPC6LNW/?tag=tolees-21'
 descuento: '33.44'
-average: '219.928311688311'
+average: '219.398481012657'
 ---
 
 Está [Samsung Galaxy A31 - Smartphone 6.4" Super AMOLED  teléfono 4GB RAM  128GB ROM   Color Negro [Versión española]](https://www.amazon.es/dp/B08GPC6LNW/?tag=tolees-21) con 33.44 de descuento por 199.0 EUR (original: 299.0 EUR) en el siguiente enlace!
