@@ -28,9 +28,9 @@ Está [ESSIE VAO TOP COAT Gel Setter](https://www.amazon.es/dp/B07D9J11YN/?tag=t
 
 ℹ️:
 
-- Cuenta con nutrir las uñas y les ofrece un acabado brillante
-- Mejora la resistencia de las uñas contra la rotura mecánica
 - Su pincel diseñado para una fácil aplicación
+- Cuenta con nutrir las uñas y les ofrece un acabado brillante
 - Esmalte de uñas capa superior con brillo
+- Mejora la resistencia de las uñas contra la rotura mecánica
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07D9J11YN/?tag=tolees-21)

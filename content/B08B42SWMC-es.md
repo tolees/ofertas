@@ -28,10 +28,10 @@ Ahora mismo tienes [So Sand DIY- Arena mágica  Canal Toys SDD 016 ](https://www
 
 🔎:
 
+- Crea tu propia arena mágica satisfactoria.
+- ¡El estudio sensorial de arena definitiva!
+- Forma, corte, aplasta y aplasta.
 - Creativo, divertido, relajante. ¡Descubre ASMR!
 - Incluye arena y herramientas, horas de diversión.
-- Forma, corte, aplasta y aplasta.
-- ¡El estudio sensorial de arena definitiva!
-- Crea tu propia arena mágica satisfactoria.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08B42SWMC/?tag=tolees-21)

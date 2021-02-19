@@ -28,10 +28,10 @@ Tienes [MAYJAM Aceites Esenciales de Sándalo 100 ml  100% Aceites Esenciales Na
 
 ℹ️:
 
-- ❤【BOTELLAS DE ALTA CALIDAD】: Utilizamos botellas de alta calidad con un revestimiento de color uv para proteger los aceites esenciales contra la luz solar y la degradación.
 - ❤【LA MÁS ALTA CALIDAD GARANTIZADA, EL ACEITE DE Sándalo MÁS Fresco】 - Lo que distingue a los Aceites Esenciales MAYJAM es su pureza y concentración incomparables. Naturales, sin adulterantes ni diluciones, sus aceites aportan el máximo beneficio posible y son intransigentes.
-- ❤【NO SEA VÍCTIMA PARA OBTENER ACEITE DILUIDO DE Sándalo BARATO】 - La mayoría de la competencia diluye su aceite con un aceite portador barato o incluso con otros productos químicos potencialmente peligrosos. Nuestro aceite de menta se prueba de forma rutinaria para determinar su pureza y otras cualidades únicas para garantizar que está comprando el aceite más puro disponible.
 - ❤【MAYJAM PROPORCIONA LOS ACEITES ESENCIALES DE LA MÁS ALTA CALIDAD】 - Si no está 100% satisfecho con nuestros aceites, simplemente contáctenos para un reembolso completo o reemplazo.
+- ❤【BOTELLAS DE ALTA CALIDAD】: Utilizamos botellas de alta calidad con un revestimiento de color uv para proteger los aceites esenciales contra la luz solar y la degradación.
+- ❤【NO SEA VÍCTIMA PARA OBTENER ACEITE DILUIDO DE Sándalo BARATO】 - La mayoría de la competencia diluye su aceite con un aceite portador barato o incluso con otros productos químicos potencialmente peligrosos. Nuestro aceite de menta se prueba de forma rutinaria para determinar su pureza y otras cualidades únicas para garantizar que está comprando el aceite más puro disponible.
 - ❤【PERFECTO PARA SU DIFUSOR, ACEITES CORPORALES Y MÁS】 - Simplemente agregue unas gotas a su difusor favorito, o haga un limpiador totalmente natural. ¡También es ideal para hacer lociones, cremas, bombas de baño, exfoliantes, velas y mucho más!
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08TRGW145/?tag=tolees-21)

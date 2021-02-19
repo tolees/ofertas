@@ -28,8 +28,8 @@ Está [Atletico de Madrid- Pelotas   Mondo Toys MD-1025 ](https://www.amazon.es/
 
 ℹ️:
 
-- Licencia 100% original
-- Tipología pelotas
 - Producto oficial atlético de madrid
+- Tipología pelotas
+- Licencia 100% original
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07DHVNSY1/?tag=tolees-21)
