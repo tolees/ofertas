@@ -28,10 +28,10 @@ Tienes [ATI Srl  AZIENDA TERAP.ITAL.  - Easypill Gato Easypill Cat - Píldoras E
 
 ℹ️:
 
+- Each individually wrapped Easypill Cat putty contains enough pill pockets to cover at least 10 tablets
 - Avoids the risk of injury to you or your pet when forcing tablets down their throat using a cat pill popper
 - Easypill Cat Putty 4 x 10 gram makes it easier to give pills to your cat as the delicious chicken flavoured treat hides the tablet completely
 - Just wrap the medication in the Easypill Cat putty and give to your pet youll be surprised how easily they take it and the difference it will make to you
-- Each individually wrapped Easypill Cat putty contains enough pill pockets to cover at least 10 tablets
 - Avoids the stress of restraining your cat and force feeding it a tablet. Great alternative to a cat pill popper.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00NMKUIKC/?tag=tolees-21)

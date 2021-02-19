@@ -28,10 +28,10 @@ En este momento está [Delia - Corrector de cejas con queratina marrón 7 ml](ht
 
 🔎:
 
-- Creates perfectly defined eyebrows providing a perfect finish of the eye makeup by 4in1 effect.
 - 2. Can be used to comb the brows and remove excess powder/foundation from the eyebrow area.
-- 4. Strengthens and nourishes.
 - 3. Perfect for optical filling in the gaps.
+- 4. Strengthens and nourishes.
+- Creates perfectly defined eyebrows providing a perfect finish of the eye makeup by 4in1 effect.
 - 1. Darkens and has a gentle colouring effect.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00ZCKE8TM/?tag=tolees-21)

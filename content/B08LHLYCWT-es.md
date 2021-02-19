@@ -28,8 +28,8 @@ En este momento está [Xiaomi Mi LCD Writing Tablet 13.5"](https://www.amazon.es
 
 🔎:
 
-- Sin radiación y peligro para los niños.
-- Batería de larga duración.
 - Interruptor de bloqueo.
+- Batería de larga duración.
+- Sin radiación y peligro para los niños.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08LHLYCWT/?tag=tolees-21)

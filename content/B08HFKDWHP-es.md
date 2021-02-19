@@ -28,10 +28,10 @@ En este momento está [Barbie Tienda de mascotas Muñeca con establecimiento de 
 
 🔎:
 
-- Este conjunto se puede transformar en segundos; gira el mostrador para revelar una pila en la que Barbie puede bañar y peinar a su perrito.
 - Ayuda a Barbie a comprar lo que sus mascotas necesitan o adopta a un nuevo compañero. Las otras mascotas son un gatito, un hámster y una tortuga.
 - Este conjunto incluye una estantería y almacenamiento para los accesorios, incluidos premios, juguetes y herramientas de peluquería.
 - El conjunto de tienda de mascotas de Barbie es el sueño de toda amante de los animales, con 4 mascotas, una estación de peluquería, un mostrador y más de 20 piezas de juego temáticas.
+- Este conjunto se puede transformar en segundos; gira el mostrador para revelar una pila en la que Barbie puede bañar y peinar a su perrito.
 - Para activar la función de cambio de color del perrito, utiliza la esponja incluida y agua fría o caliente para ver cómo se limpia o se ensucia de nuevo. ​
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08HFKDWHP/?tag=tolees-21)

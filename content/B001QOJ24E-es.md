@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s 501 Original  Vaqueros  Onewash   al 36.12 % de rebaja'
-date: 2021-02-18 11:49:53
+date: 2021-02-19 12:03:34
 image: 'https://m.media-amazon.com/images/I/41u6V9BHazL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B001QOJ24E/?tag=tolees-21'
 descuento: '36.12'
-average: '60.1499999999999'
+average: '60.090224719101'
 ---
 
 Tienes [Levi s 501 Original  Vaqueros  Onewash  33W / 30L para Hombre](https://www.amazon.es/dp/B001QOJ24E/?tag=tolees-21) con precio final de  57.49 EUR (original: 90.0 EUR) (36.12 %  de rebaja) aqui!

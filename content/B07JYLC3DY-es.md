@@ -28,8 +28,8 @@ En este momento está [adidas Handball Spezial  Zapatillas de Gimnasia Hombre  N
 
 🔎:
 
+- Cordones de zapatos
 - Corte regular
 - La parte superior de cuero de nubuck de cerdo
-- Cordones de zapatos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07JYLC3DY/?tag=tolees-21)

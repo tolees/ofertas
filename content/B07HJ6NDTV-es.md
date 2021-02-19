@@ -29,9 +29,9 @@ Está [Funko- Pop Vinyl: Animation: Rick & Morty: Unity Rick and Morty Figura de
 ℹ️:
 
 - Funko POP Vinilo
-- Animación: Rick Morty
-- Unidad
 - Figura de vinilo
+- Animación: Rick Morty
 - Licencia Oficial
+- Unidad
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07HJ6NDTV/?tag=tolees-21)

@@ -28,8 +28,8 @@ Tienes [adidas Handball Spezial  Zapatillas de Gimnasia Hombre  Negro  Core Blac
 
 🔎:
 
+- Cordones de zapatos
 - Corte regular
 - La parte superior de cuero de nubuck de cerdo
-- Cordones de zapatos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07JYLQFQ4/?tag=tolees-21)

@@ -29,9 +29,9 @@ En este momento está [adidas Pro Tokyo Trunk Bañador  Hombre  rossen/Negro  3]
 🔎:
 
 - Diseño ajustado
-- Bañador de entrenamiento y competición
-- Ajuste de compresión
 - Cintura elástica con cordón interior
+- Ajuste de compresión
 - Punto 55% poliéster reciclado / 45% poliéster
+- Bañador de entrenamiento y competición
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CPKH78X/?tag=tolees-21)
