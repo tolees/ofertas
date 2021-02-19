@@ -28,10 +28,10 @@ Tienes [Señorío de los Llanos Crianza - Vino Tinto D.O Valdepeñas - Pack de 6
 
 ℹ️:
 
-- Maridaje: Señorío de los Llanos Crianza es un vino muy versátil; perfecto con carnes rojas o blancas, como filetes o pollo
 - Consumo: Recomendamos servir Señorío de los Llanos Crianza a una temperatura de 16-18ºC; se recomienda decantar o descorchar este vino una hora antes de su consumo
-- Aroma: En nariz es varietal, con aromas a frutos rojos que destacan sobre notas especiadas y a vainilla
+- Maridaje: Señorío de los Llanos Crianza es un vino muy versátil; perfecto con carnes rojas o blancas, como filetes o pollo
 - Apariencia: Brillante color rubí con ribete ligeramente más claro
+- Aroma: En nariz es varietal, con aromas a frutos rojos que destacan sobre notas especiadas y a vainilla
 - Tipo de uva: Estas características del terreno junto a un clima seco y soleado contribuyen de forma decisiva al buen desarrollo y madurez de la uva
 - Gusto: En el paladar es limpio, con un claro sabor afrutado y un final tostado, adquirido gracias al contacto con la madera de la barrica
 

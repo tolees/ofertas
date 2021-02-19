@@ -28,10 +28,10 @@ Ahora mismo tienes [Eastpak Doggy Bag Riñonera  27 cm  3 L  Verde  Crafty Moss 
 
 🔎:
 
-- Alto: 18 cm, Ancho: 27 cm, Fondo: 9 cm
-- Parte de nuestra auténtica gama 100 % en poliéster
-- Amplio bolsillo frontal y bolsillo trasero oculto con cremallera
-- Riñonera con un amplio compartimento individual y cierre con cremallera
 - Llévalo como quieras con el cinturón ajustable
+- Parte de nuestra auténtica gama 100 % en poliéster
+- Riñonera con un amplio compartimento individual y cierre con cremallera
+- Alto: 18 cm, Ancho: 27 cm, Fondo: 9 cm
+- Amplio bolsillo frontal y bolsillo trasero oculto con cremallera
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07KXXVWWJ/?tag=tolees-21)

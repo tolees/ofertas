@@ -28,9 +28,9 @@ Está [PUMA Ftblnxt Pro Jacket Sudadera  Hombre  Black/Shocking Orange  M](https
 
 ℹ️:
 
-- Ofrece una comodidad óptima
 - El material absorbe el calor y se seca rápidamente
-- Diseñada para actividades deportivas
 - Tiene dos bolsillos laterales con cremallera
+- Ofrece una comodidad óptima
+- Diseñada para actividades deportivas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B086P4T1HW/?tag=tolees-21)

@@ -28,8 +28,8 @@ Tienes [Funko- Pop Rocks: Freddie Mercury King Figura Coleccionable  Multicolor 
 
 🔎:
 
+- La figura mide 9 cm y se envía en una caja ilustrada con ventana
 - Descúbre otras figuras de la colección rocks y colecciónalas todas
 - De la colección queen, freddie mercury king como figura de vinilo pop de funko
-- La figura mide 9 cm y se envía en una caja ilustrada con ventana
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B083MCJD4M/?tag=tolees-21)

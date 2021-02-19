@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bra Prior - Set de 3 Sartenes  Aluminio  al 31.46 % de descuento'
-date: 2021-02-18 15:30:19
+date: 2021-02-19 17:10:27
 image: 'https://m.media-amazon.com/images/I/41qHM8GCnsL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'BRA'
 buyurl: 'https://www.amazon.es/dp/B00PLS482W/?tag=tolees-21'
 descuento: '31.46'
-average: '41.4569565217391'
+average: '42.4724'
 ---
 
 Ahora mismo tienes [Bra Prior - Set de 3 Sartenes  Aluminio Fundido Antiadherente  Incluye dos Salvamanteles Safe Verdes  Aptas para Todo Tipo de Cocinas Incluida Inducción  18-22-26 cm](https://www.amazon.es/dp/B00PLS482W/?tag=tolees-21) a 54.15 EUR (original: 79.0 EUR) (31.46 %  de descuento) en el siguiente enlace!
