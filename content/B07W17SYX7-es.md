@@ -28,8 +28,8 @@ Ahora mismo tienes [Burton Retro Mountain Camiseta  Hombre  Dress Blue  XS](http
 
 🔎:
 
-- Tipo de deporte: Athletic Sports Apparel
 - ALA
 - Tipo de fábrica: 100 % Algodón Organico
+- Tipo de deporte: Athletic Sports Apparel
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07W17SYX7/?tag=tolees-21)

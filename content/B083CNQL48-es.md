@@ -28,8 +28,8 @@ En este momento está [adidas W Winners Tank Top  Mujer  Black Melange  S](https
 
 🔎:
 
-- Breathable fabric
 - Regular fit
+- Breathable fabric
 - Great freedom of movement
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B083CNQL48/?tag=tolees-21)
