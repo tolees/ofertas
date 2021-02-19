@@ -29,9 +29,9 @@ Ahora mismo tienes [Western Digital - WD My Passport disco duro portátil](https
 🔎:
 
 - Password protection
+- Innovative style with refined metal cover
 - Usb-c ready, USB 3.0 compatible
 - Up to 5TB of capacity
-- Innovative style with refined metal cover
 - Wd Discovery software for drive management
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07WZYM7RQ/?tag=tolees-21)
