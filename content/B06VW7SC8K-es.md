@@ -29,7 +29,7 @@ En este momento está [Timberland Bradstreet Leather Sensorflex  Botas Chukka pa
 🔎:
 
 - See product description below for more information.
-- Brand New and Genuine. We are an authorised seller of Timberland.
 - Timberland Brown Bradstreet Chukka Le Boots
+- Brand New and Genuine. We are an authorised seller of Timberland.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B06VW7SC8K/?tag=tolees-21)

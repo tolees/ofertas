@@ -28,8 +28,8 @@ Tienes [adidas TIRO19 TR TOPY Sweatshirt  Unisex niños  Black/White  176](https
 
 ℹ️:
 
-- Regular fit
 - Adidas logo
 - Soft fabric
+- Regular fit
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07K7GS5FL/?tag=tolees-21)

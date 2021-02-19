@@ -29,8 +29,8 @@ Tienes [D-Link DUB-1340 - Hub USB de 4 Puertos](https://www.amazon.es/dp/B004MGC
 🔎:
 
 - Incluye cable USB 3.0 y cable de alimentación
+- Proporciona cuatro puertos USB 3.0 adicionales a su PC o Mac
 - Proporciona velocidades de datos de hasta 5 Gbit/s
 - Compatible con USB 1.1 y USB 2.0
-- Proporciona cuatro puertos USB 3.0 adicionales a su PC o Mac
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B004MGCOKM/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Handball Spezial  Zapatillas de G con un 60.03 % de descuento'
-date: 2021-02-18 10:46:59
+date: 2021-02-19 11:40:33
 image: 'https://m.media-amazon.com/images/I/31Mzt84PWnL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ En este momento está [adidas Handball Spezial  Zapatillas de Gimnasia Hombre  N
 
 🔎:
 
-- Cordones de zapatos
 - Corte regular
 - La parte superior de cuero de nubuck de cerdo
+- Cordones de zapatos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07JYLC3DY/?tag=tolees-21)

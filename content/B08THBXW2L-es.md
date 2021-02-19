@@ -28,10 +28,10 @@ Ahora mismo tienes [LolaPix - Cojin con Foto Personalizado San Valentin. Regalos
 
 🔎:
 
-- Cojin con Foto impreso por sublimación. Impresión integrada que forma parte del tejido. A diferencia de otras técnicas, la imagen no se percibe al tacto y no pierde color con el paso del tiempo.
 - Cojín Personalizado confeccionado a mano en España. Apto para lavadora y plancha.
 - Tamaño del Cojin con Foto: 30x30cm, 35x35cm, 40x40cm, 45x45cm, 50x50cm, 55x55cm, 60x60cm y 65x65cm.
 - Cojin con Foto con Relleno Incluido. Cojín desenfundable con cremallera en el lateral.
+- Cojin con Foto impreso por sublimación. Impresión integrada que forma parte del tejido. A diferencia de otras técnicas, la imagen no se percibe al tacto y no pierde color con el paso del tiempo.
 - Cojin con Foto apto para lavadora y plancha. Impreso hasta la costura por las dos caras. No deja margenes blancos sin impresión. Tejido de satén de 170gr muy suave. Máxima resistencia al frote y al lavado.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08THBXW2L/?tag=tolees-21)

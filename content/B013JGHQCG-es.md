@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony ICF-P36 - Radio analógico portátil  con un 36.39 % de descuento'
-date: 2021-02-18 00:40:41
+date: 2021-02-19 11:59:57
 image: 'https://m.media-amazon.com/images/I/410ntuL7NVL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B013JGHQCG/?tag=tolees-21'
 descuento: '36.39'
-average: '21.3485714285714'
+average: '21.3362068965517'
 ---
 
 En este momento está [Sony ICF-P36 - Radio analógico portátil FM/AM  negro  13.15 x 6.95 x 4.35 cm](https://www.amazon.es/dp/B013JGHQCG/?tag=tolees-21) a 20.99 EUR (original: 33.0 EUR) (36.39 %  de descuento) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [Sony ICF-P36 - Radio analógico portátil FM/AM  negro  1
 
 🔎:
 
+- Funciona con 2 pilas AA
 - Indicadores de estado de carga y sintonización LED
 - Correa de mano integrada para una mayor portabilidad
-- Sintonizador de radio AM/FM integrado
 - Toma de auriculares dedicada para una escucha personal
-- Funciona con 2 pilas AA
+- Sintonizador de radio AM/FM integrado
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B013JGHQCG/?tag=tolees-21)

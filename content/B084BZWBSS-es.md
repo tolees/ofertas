@@ -28,9 +28,9 @@ Tienes [PUMA teamFINAL Indoor Jersey Camiseta  Hombre  Puma White/Puma Black  S]
 
 🔎:
 
+- Logotipo del felino PUMA en la parte derecha del pecho
 - Cuello de pico
 - 100 % poliéster
-- Logotipo del felino PUMA en la parte derecha del pecho
 - Estampados gráficos por toda la prenda
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B084BZWBSS/?tag=tolees-21)

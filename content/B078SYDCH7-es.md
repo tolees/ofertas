@@ -28,8 +28,8 @@ Ahora mismo tienes [Salomon Quest Prime GTX  Zapatillas de Senderismo Hombre  Gr
 
 🔎:
 
-- Botas de montaña montañismo, alpinismo y trekking hombre
 - Shoes quest 4d 3 gtx phantom k/quiet s (364267)
+- Botas de montaña montañismo, alpinismo y trekking hombre
 - Calzado salomon
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B078SYDCH7/?tag=tolees-21)

@@ -28,8 +28,8 @@ Ahora mismo tienes [Tacens Anima AK0 - Teclado profesional  membrana  pulsación
 
 🔎:
 
-- Compatible con Windows/Mac/Linux, conector USB 2.0
-- Teclado profesional de membrana con pulsación optimizada de alto rendimiento; Cable 1.3; USB;Alámbrico
 - Diseño ecológico y tamaño y peso optimizados
+- Teclado profesional de membrana con pulsación optimizada de alto rendimiento; Cable 1.3; USB;Alámbrico
+- Compatible con Windows/Mac/Linux, conector USB 2.0
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07HYRVF67/?tag=tolees-21)

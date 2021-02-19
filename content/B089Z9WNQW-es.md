@@ -28,8 +28,8 @@ Tienes [adidas W BOS OH HD IN Hooded Sweat  Mujer  Black  1X](https://www.amazon
 
 🔎:
 
-- Training
 - Adidas
+- Training
 - Sportware
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B089Z9WNQW/?tag=tolees-21)
