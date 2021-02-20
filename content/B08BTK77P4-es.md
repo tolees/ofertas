@@ -28,11 +28,11 @@ Tienes [ASUS ROG Strix SCAR 15 G532LWS-HF113T - Portátil Gaming de 15.6" FullHD
 
 🔎:
 
-- Sistema operativo: Windows 10 Home
+- Procesador Intel Core i7-10875H
 - Tarjeta gráfica GeForce NVIDIA RTX2070 Super 8 GB GDDR6
 - Pantalla de 15.6" FullHD ( (1920x1080) de 300Hz
-- Procesador Intel Core i7-10875H
 - Memoria RAM de 32GB
+- Sistema operativo: Windows 10 Home
 - Almacenamiento de 1TB de SSD
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08BTK77P4/?tag=tolees-21)

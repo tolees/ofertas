@@ -28,11 +28,11 @@ Está [Linksys LGS116P-EU - Unmanaged Switch Gigabit PoE+ de Escritorio para Emp
 
 ℹ️:
 
-- Rendimiento Gigabit para minimizar los tiempos de transferencia
 - Cumple con el estándar EEE (Energy Efficient Ethernet) 802.3az
+- Función de optimización del rendimiento QoS (Calidad del Servicio)
 - 8 puertos Gigabit Ethernet de autodetección
 - Funciones de ahorro energético
-- Función de optimización del rendimiento QoS (Calidad del Servicio)
 - Conexión sencilla Plug & Play
+- Rendimiento Gigabit para minimizar los tiempos de transferencia
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00GECC11O/?tag=tolees-21)

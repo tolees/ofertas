@@ -28,8 +28,8 @@ Está [Adidas Tensaur C  Zapatillas de Running  Multicolor  Azuosc/Ftwbla/Rojact
 
 ℹ️:
 
+- Cierres de velcro
 - Empeine de piel
 - Zapatillas deportivas
-- Cierres de velcro
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07QCC76HS/?tag=tolees-21)

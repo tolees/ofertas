@@ -28,10 +28,10 @@ Tienes [TP-LinkTL-SG1008P - 8 Port Gigabit Ethernet PoE Desktop Switch  55W 4-Po
 
 ℹ️:
 
-- Switch gigabit de 8 puertos: 8 puertos RJ45 de negociación automática gigabit de 10/100/1000 Mbps óptimamente expanden la capacidad de la red
-- Trabajando con compatible con IEEE 8023af de PDS, expande su red de casa y oficina
-- Optimización del tráfico, soporte 8021p, DSCP QoS y función de indagación IGMP
-- Con cuatro puertos PoE, transfiere los datos y poder en un solo cable
 - Plug and play, no requiere configuración
+- Trabajando con compatible con IEEE 8023af de PDS, expande su red de casa y oficina
+- Con cuatro puertos PoE, transfiere los datos y poder en un solo cable
+- Switch gigabit de 8 puertos: 8 puertos RJ45 de negociación automática gigabit de 10/100/1000 Mbps óptimamente expanden la capacidad de la red
+- Optimización del tráfico, soporte 8021p, DSCP QoS y función de indagación IGMP
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00BP0SSAS/?tag=tolees-21)

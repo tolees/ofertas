@@ -28,10 +28,10 @@ En este momento está [Garnier Bio Serum Facial de Noche Multi-Reparador con Ace
 
 🔎:
 
-- Serum facial de noche a base de aceite esencial de semillas de Cannabis Sativa y Vitamia E para reparar los signos de la piel estresada
 - Contenido: 1 x Serum Facial de Noche Multi-Reparador con Semillas de Cáñamo Garnier Bio, 30 ml
 - Formulada con aceite esencial de semillas de Cannabis Sativa con propiedades calmantes, Apto para pieles sensibles, Testado dermatológicamente
 - Aplicar unas gotas por la noche sobre el rostro limpio dando toquecitos con los dedos, Evitar el contorno de los ojos
 - Repara, restaura y protege la función barrera de la piel para mantener su hidratación, Calma, nutre y rellena las líneas de expresión
+- Serum facial de noche a base de aceite esencial de semillas de Cannabis Sativa y Vitamia E para reparar los signos de la piel estresada
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08G9BNZ63/?tag=tolees-21)

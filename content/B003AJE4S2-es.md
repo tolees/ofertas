@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Makita HM0871C Herramienta  24 V  Negro  al 39.40 % de descuento'
-date: 2021-02-04 21:04:31
+date: 2021-02-20 11:45:45
 image: 'https://m.media-amazon.com/images/I/31sL5iknBbL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Ahora mismo tienes [Makita HM0871C Herramienta  24 V  Negro  Azul](https://www.a
 
 🔎:
 
-- con el sistema AVT - antivibración
-- Martillo
-- ideal para demoliciones en pared para la realización de rozas y ocasionalmente para pequeñas demoliciones en suelo
-- Inserción SDS-MAX de una sola acción con 12 posiciones diferentes de cincelado, Nuevo martillo demoledor de la clase 5 kg, Nuevo porta-escobillas con muelle en espiral que hace la misma presión tanto al comienzo como al final de la vida de la escobilla. Evita así que introduzca polvo entre la escobilla y el inducido, Escobillas de desconexión automática, Potencia 1100 W, Velocidad en vacío 1100 - 2650 rpm, Energía de impacto 12 J, Peso 5 1 kg, Tubo de grasa, Empuñadura lateral
 - HM 0871 C
+- ideal para demoliciones en pared para la realización de rozas y ocasionalmente para pequeñas demoliciones en suelo
+- con el sistema AVT - antivibración
+- Inserción SDS-MAX de una sola acción con 12 posiciones diferentes de cincelado, Nuevo martillo demoledor de la clase 5 kg, Nuevo porta-escobillas con muelle en espiral que hace la misma presión tanto al comienzo como al final de la vida de la escobilla. Evita así que introduzca polvo entre la escobilla y el inducido, Escobillas de desconexión automática, Potencia 1100 W, Velocidad en vacío 1100 - 2650 rpm, Energía de impacto 12 J, Peso 5 1 kg, Tubo de grasa, Empuñadura lateral
+- Martillo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B003AJE4S2/?tag=tolees-21)

@@ -28,10 +28,10 @@ Ahora mismo tienes [BRITA MAXTRA+ – Pack 6 filtros para el agua  Cartuchos f
 
 🔎:
 
-- Cada filtro tiene una capacidad de filtrado de 100L, recomendamos sustituirlo aproximadamente cada 4 semanas
 - El filtro BRITA te permite preparar el té y el café con un aroma completo y ofrece una protección óptima de tu cafetera o tetera; agua buena para un sabor intenso
-- El filtro de agua BRITA ofrece un excelente sabor: reduce las sustancias que alteran el sabor y el olor del agua como el cloro y la cal, disfruta de un vaso de agua fresca
 - 6 Filtros de calidad alemana: BRITA es una empresa familiar que ofrece soluciones de filtrado en todo el mundo, los filtros para el agua potable cumplen con los estándares de calidad, libre de BPA
+- Cada filtro tiene una capacidad de filtrado de 100L, recomendamos sustituirlo aproximadamente cada 4 semanas
+- El filtro de agua BRITA ofrece un excelente sabor: reduce las sustancias que alteran el sabor y el olor del agua como el cloro y la cal, disfruta de un vaso de agua fresca
 - Sostenible: Reduce el plástico de un solo uso bebiendo agua filtrada BRITA y ayúdanos a cuidar del medio ambiente
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B009LB7VOW/?tag=tolees-21)

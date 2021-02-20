@@ -28,9 +28,9 @@ Tienes [BaByliss Pro Digital 6000E - Secador de pelo profesional  motor digital 
 
 🔎:
 
-- Temperatura constante de 70° C: protege el cabello + función iónica
 - Múltiples configuraciones velocidad/temperatura + función turbo + botón aire frío
-- Incluye difusor y 2 boquillas ultra finas (4 x 75 mm & 6 x 90 mm) para más precisión
 - Secador de pelo más ligero y silencioso
+- Incluye difusor y 2 boquillas ultra finas (4 x 75 mm & 6 x 90 mm) para más precisión
+- Temperatura constante de 70° C: protege el cabello + función iónica
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00X9SQB4E/?tag=tolees-21)

@@ -28,10 +28,10 @@ En este momento está [PUMA Carina L  Zapatillas Mujer  Blanco White/White/Silve
 
 🔎:
 
-- Etiqueta de Puma tejida en la lengua
-- Tipo de tela: sintético
 - Capa de Puma Formstrip en los laterales
-- Cierre de encaje completo
 - Entresuela de plataforma de goma texturizada
+- Cierre de encaje completo
+- Tipo de tela: sintético
+- Etiqueta de Puma tejida en la lengua
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07JH2YBH3/?tag=tolees-21)

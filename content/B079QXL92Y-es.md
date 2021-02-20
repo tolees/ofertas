@@ -28,10 +28,10 @@ Ahora mismo tienes [B Blesiya Cucharadita De Bambú Matcha Polvo Cucharadita Tea
 
 🔎:
 
-- Cada cucharada sostiene 1/4 a 1/2 cucharadita de polvo matcha, ideal para una a dos onzas de té, que transmite la cantidad justa de matcha de la lata a la copa de preparado
-- Esta cuchara de té está hecho de bambú, duradero y ecológico
 - La primicia matcha bambú es perfecto para preparar el té verde matcha por el antiguo arte de la ceremonia del té japonesa
-- Use esto para levante con una pala en polvo matcha en su tazón, 1-3 cucharadas colmadas, dependiendo de qué tan fuerte que les guste
 - La primicia es la auténtica forma de medir el matcha para la elaboración de la cerveza
+- Esta cuchara de té está hecho de bambú, duradero y ecológico
+- Use esto para levante con una pala en polvo matcha en su tazón, 1-3 cucharadas colmadas, dependiendo de qué tan fuerte que les guste
+- Cada cucharada sostiene 1/4 a 1/2 cucharadita de polvo matcha, ideal para una a dos onzas de té, que transmite la cantidad justa de matcha de la lata a la copa de preparado
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B079QXL92Y/?tag=tolees-21)
