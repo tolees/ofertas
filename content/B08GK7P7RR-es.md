@@ -28,10 +28,10 @@ Ahora mismo tienes [5MP Cámara Domo Exterior WiFi Impermeable  Aottom 5X Zoom A
 
 🔎:
 
-- 【Detección de movimiento y notificaciones instantáneas】: Con el sensor de movimiento y las notificaciones instantáneas, vigilar su hogar nunca ha sido tan fácil. Puede recibir una alerta cuando se entrega un paquete o estar listo para disuadir a los visitantes no deseados gracias a los sistemas de alarma integrados.
 - 【Vista en vivo y audio bidireccional】: ¿Estás lejos y has dejado a tu amigo de 4 patas solo en casa? Cuando esté en movimiento, puede asegurarse de que su cachorro esté cómodo y pueda escuchar su voz gracias a la visualización en vivo y las funciones de audio bidireccional.
 - 【IP66 Resistente al polvo y al agua】: ya sea que llueva o haga sol, nuestra cámara para exteriores cumple con el estándar IP65 contra la exposición al agua y al polvo, lo que permite que este producto se utilice en monitoreo en interiores y en exteriores, como el medio ambiente. garaje y patio etc.
-- 【5MP 5X ZOOM】: imagen HD de 5MP Capture cada detalle gracias a la resolución. Vea claramente lo que está sucediendo en su hogar en cualquier momento, donde sea que esté Duerma tranquilo y deje que la cámara wifi vigile la casa por usted Puede ampliar la lente 5X y ver los rincones muy detallados de su hogar con claridad Además, la lente enfoca automáticamente. Visión nocturna para grabar imágenes claras en condiciones de poca luz hasta 40 metros de distancia.
+- 【Detección de movimiento y notificaciones instantáneas】: Con el sensor de movimiento y las notificaciones instantáneas, vigilar su hogar nunca ha sido tan fácil. Puede recibir una alerta cuando se entrega un paquete o estar listo para disuadir a los visitantes no deseados gracias a los sistemas de alarma integrados.
 - 【Grabación en tarjeta SD】: Puede conectar la tarjeta SD para grabar si es necesario. Puede admitir una tarjeta SD Max 128G, pero esta cámara wifi no incluye la tarjeta SD en su interior.
+- 【5MP 5X ZOOM】: imagen HD de 5MP Capture cada detalle gracias a la resolución. Vea claramente lo que está sucediendo en su hogar en cualquier momento, donde sea que esté Duerma tranquilo y deje que la cámara wifi vigile la casa por usted Puede ampliar la lente 5X y ver los rincones muy detallados de su hogar con claridad Además, la lente enfoca automáticamente. Visión nocturna para grabar imágenes claras en condiciones de poca luz hasta 40 metros de distancia.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08GK7P7RR/?tag=tolees-21)

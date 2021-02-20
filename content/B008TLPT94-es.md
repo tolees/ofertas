@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fox - Titanic -2012 [DVD] al 32.58 % de rebaja'
-date: 2021-02-18 22:28:06
+date: 2021-02-19 23:02:16
 image: 'https://m.media-amazon.com/images/I/51WfU5UDoML._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Fox'
 buyurl: 'https://www.amazon.es/dp/B008TLPT94/?tag=tolees-21'
 descuento: '32.58'
-average: '9.34087719298245'
+average: '9.27813559322033'
 ---
 
 Tienes [Fox - Titanic -2012 [DVD]](https://www.amazon.es/dp/B008TLPT94/?tag=tolees-21) con precio final de  7.49 EUR (original: 11.11 EUR) (32.58 %  de rebaja) aqui!

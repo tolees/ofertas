@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jata LD85B Limador de Durezas Contiene D al 54.82 % de descuento'
-date: 2021-02-17 23:24:08
+date: 2021-02-19 23:21:51
 image: 'https://m.media-amazon.com/images/I/319I6SLHfjL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Está [Jata LD85B Limador de Durezas Contiene Dos Rodillos Limadores de Rotació
 
 ℹ️:
 
-- Lavable
-- Cabezal extraíble para fácil limpieza
-- Rotación suave y eficaz
-- Interruptor de encendido
-- Protegido contra proyecciones de agua (IPX4)
+- Smooth and effective rotation
+- Protected against water projections (IPX4)
+- Ignition Switch
+- Washable
+- Removable head for easy cleaning
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00QAIRD6K/?tag=tolees-21)
