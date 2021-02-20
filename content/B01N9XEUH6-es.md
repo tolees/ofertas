@@ -28,10 +28,10 @@ Está [Philips Daily HD2581/00 -Tostador 830 W  Doble Ranura  Color Blanco](http
 
 ℹ️:
 
-- 8 ajustes diferentes de tostado
 - Rejilla para calentar bollitos
-- 2 ranuras grandes para diferentes tipos de pan
 - Rejilla extraíble de restos de pan
 - Botón para cancelar el tostado cuando se desee
+- 2 ranuras grandes para diferentes tipos de pan
+- 8 ajustes diferentes de tostado
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01N9XEUH6/?tag=tolees-21)

@@ -28,9 +28,9 @@ Ahora mismo tienes [Wolfcraft 4141000 Cúter de cuchillas separables estándar c
 
 🔎:
 
-- Tiene una tapa extraíble para romper con seguridad los segmentos de la hoja
-- Para alfombras, PVC, plásticos blandos, madera fina, láminas, papeles pintados, cartones, espumas
 - Dispone de un cuerpo de plástico robusto
+- Para alfombras, PVC, plásticos blandos, madera fina, láminas, papeles pintados, cartones, espumas
 - Con una guía de metal rígida para la cuchilla, corredera bloqueable
+- Tiene una tapa extraíble para romper con seguridad los segmentos de la hoja
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B002OHIC52/?tag=tolees-21)

@@ -28,10 +28,10 @@ Tienes [Meliconi Vinyl - Kit de Limpieza Profesional para Todo Tipos de Discos  
 
 🔎:
 
-- Cepillo de doble uso para limpieza de vinilos
-- Solución de limpieza 45 ml (altamente volátil, ideal para vinilos)
 - Fibra de carbono elimina las cargas electrostáticas
+- Cepillo de doble uso para limpieza de vinilos
 - Terciopelo suave elimina la suciedad y el polvo
+- Solución de limpieza 45 ml (altamente volátil, ideal para vinilos)
 - Compatible con pantallas LCD y teclados
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07899MDCL/?tag=tolees-21)

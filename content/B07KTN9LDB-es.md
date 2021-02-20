@@ -28,7 +28,7 @@ Tienes [Days of Wonder- The River  Multicolor  Asmodee ](https://www.amazon.es/d
 
 🔎:
 
-- Juego de mesa
 - Juego de tablero
+- Juego de mesa
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07KTN9LDB/?tag=tolees-21)

@@ -29,9 +29,9 @@ Tienes [Lavadora carga frontal - Haier HW120-BD14889U1 12kg  1400rpm  WiFi  Dire
 ℹ️:
 
 - Función vapor y tratamiento antibacterias: Elimina las manchas de suciedad más difíciles y el 99,8% de las bacterias de tu lavadora
-- Servicio Amazon Dash: la lavadora pide automáticamente detergente y suavizante a Amazon antes que te quedes sin ellos!
-- Motor con garantía de por vida (clase A+++ -50%): motor Direct Motion, conectado directamente al tambor, duradero, silencioso y con el mínimo consumo
-- Clase energética A+++ -50%, ahorra hasta un 50% respecto la clase A+++
 - Capacidad de lavado XXL: 12 kg, en dimensiones convencionales 60cm
+- Motor con garantía de por vida (clase A+++ -50%): motor Direct Motion, conectado directamente al tambor, duradero, silencioso y con el mínimo consumo
+- Servicio Amazon Dash: la lavadora pide automáticamente detergente y suavizante a Amazon antes que te quedes sin ellos!
+- Clase energética A+++ -50%, ahorra hasta un 50% respecto la clase A+++
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07WNJKND5/?tag=tolees-21)

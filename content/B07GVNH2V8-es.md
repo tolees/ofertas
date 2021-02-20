@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-LINK AC2200 Deco M9 Plus  3-pack  - A con un 25.00 % de descuento'
-date: 2021-02-06 12:57:49
+date: 2021-02-20 10:05:14
 image: 'https://m.media-amazon.com/images/I/31MjSyqmAnL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.es/dp/B07GVNH2V8/?tag=tolees-21'
 descuento: '25.00'
-average: '299.825'
+average: '299.832857142857'
 ---
 
 En este momento está [TP-LINK AC2200 Deco M9 Plus  3-pack  - Amplificador wifi Super Mesh inteligente sin interrupciones  Tri-band hasta 600m² Hub Smart IoT  Zigbee  2 Gigabit  MU-MIMO](https://www.amazon.es/dp/B07GVNH2V8/?tag=tolees-21) a 299.99 EUR (original: 399.99 EUR) (25.00 %  de descuento) en el siguiente enlace!
@@ -28,9 +28,11 @@ En este momento está [TP-LINK AC2200 Deco M9 Plus  3-pack  - Amplificador wifi 
 
 🔎:
 
-- Wireless Routers
-- TP-LINK Deco M9 Plus wireless router Tri-band (2.4 GHz / 5 GHz / 5 GHz) Gigabit Ethernet White
-- 6935364081553
-- DECO M9 PLUS(3-PACK)
+- Soporte técnico gratuito – tp-link españa proporciona soporte técnico local gratuito para usuarios en españa, puede encontrar información de contacto en el sitio web tp-link.es
+- Todo en 1 - router inalámbrico + extensores de wifi + dispositivo de control parental + caja de seguridad + smart hub = deco m9 plus
+- Tp-link homecaretm - 3 años de homecare gratuito implementado por trend micro (valor 320) protege todos los dispositivos conectados a tu red de las más de 100.000 nuevas amenazas de seguridad que aparecen diariamente
+- Todo poderoso en smart home - soportan incluso wi-fi、bluetooth 4.2、zigbee ha1.2 que puede gestionar el tráfico incluso en redes muy saturadas, proporcionando conexiones sin retardo a más de 100 dispositivos
+- Wi-fi sin interrupciones - todo a través de un único ssid (nombre de red); tres bandas inalámbricas separadas proporcionan conexiones rápidas y estables con velocidades de hasta 2134mbps, mientras con la tecnología de mu-mimo
+- Cobertura completa- tres decos trabajan juntos para crear una red wifi transparente en cada habitación, ocho antenas internas por cada deco, pack de 3 cubren hasta 600²
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07GVNH2V8/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Adidas Tensaur C  Zapatillas de Running  al 63.24 % de descuento'
-date: 2021-02-12 20:46:38
+date: 2021-02-20 10:14:35
 image: 'https://m.media-amazon.com/images/I/41nd8xVb4dL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B07QCC76HS/?tag=tolees-21'
 descuento: '63.24'
-average: '16.32'
+average: '14.9925'
 ---
 
 Está [Adidas Tensaur C  Zapatillas de Running  Multicolor  Azuosc/Ftwbla/Rojact 000   34 EU](https://www.amazon.es/dp/B07QCC76HS/?tag=tolees-21) con 63.24 de descuento por 11.01 EUR (original: 29.95 EUR) en el siguiente enlace!
@@ -28,8 +28,8 @@ Está [Adidas Tensaur C  Zapatillas de Running  Multicolor  Azuosc/Ftwbla/Rojact
 
 ℹ️:
 
+- Empeine de piel
 - Zapatillas deportivas
 - Cierres de velcro
-- Empeine de piel
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07QCC76HS/?tag=tolees-21)

@@ -28,8 +28,8 @@ Tienes [Matrix - Biolage  Sérum SmoothProof para Cabello Encrespado y Rebelde -
 
 ℹ️:
 
+- Tipo de producto: Cuidado capilar -Genero: Unisex
 - Peso / Volumen: 89 ml
 - Productos de belleza y cuidado personal
-- Tipo de producto: Cuidado capilar -Genero: Unisex
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00FKYK0IS/?tag=tolees-21)

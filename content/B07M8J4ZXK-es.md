@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Philips L OR LM8012/60 Barista - Cafeter al 40.99 % de rebaja'
-date: 2021-02-11 09:45:28
+title: 'Philips L OR LM8012/60 Barista - Cafeter al 31.09 % de rebaja'
+date: 2021-02-20 10:17:59
 image: 'https://m.media-amazon.com/images/I/41XfFXaPAcL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -9,30 +9,30 @@ author: ring
 slug: 'B07M8J4ZXK-es Philips L OR LM8012/60 Barista - Cafetera compatible con...'
 sku: 'B07M8J4ZXK-es'
 tags: [  ]
-actualPrice: 59.0 EUR
+actualPrice: 68.9 EUR
 currency: EUR
-price: 59.0
+price: 68.9
 comparePrice: 99.99 EUR
 prodname: 'Philips L OR LM8012/60 Barista - Cafetera compatible con cápsula individual/doble  19 bares presión  depósito 1L  color negro'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Philips LOr'
 buyurl: 'https://www.amazon.es/dp/B07M8J4ZXK/?tag=tolees-21'
-descuento: '40.99'
-average: '57.1764444444445'
+descuento: '31.09'
+average: '57.4313043478262'
 ---
 
-Tienes [Philips L OR LM8012/60 Barista - Cafetera compatible con cápsula individual/doble  19 bares presión  depósito 1L  color negro](https://www.amazon.es/dp/B07M8J4ZXK/?tag=tolees-21) con precio final de  59.0 EUR (original: 99.99 EUR) (40.99 %  de rebaja) aqui!
+Tienes [Philips L OR LM8012/60 Barista - Cafetera compatible con cápsula individual/doble  19 bares presión  depósito 1L  color negro](https://www.amazon.es/dp/B07M8J4ZXK/?tag=tolees-21) con precio final de  68.9 EUR (original: 99.99 EUR) (31.09 %  de rebaja) aqui!
 
 [![Philips L OR LM8012/60 Barista - Cafeter](https://m.media-amazon.com/images/I/41XfFXaPAcL._SL200_.jpg)](https://www.amazon.es/dp/B07M8J4ZXK/?tag=tolees-21)
 
 🔎:
 
-- Crea y personaliza tu café favorito con el menú completo de cafés: ristretto, espresso, lungo y más
-- NOTA! Cápsulas compatibles: La cafetera LOR Barista está pensada para funcionar con cápsulas LOR Espresso y cápsulas doble espresso LOR Barista, así como con cápsulas Nespresso* y cápsulas de aluminio de marcas de café fabricadas por Jacobs Douwe Egberts, como Douwe Egberts, JACOBS, Jacqmotte, Jacques Vabre, Grand Mère, LOR, Marcilla, Moccona, Saimaza y Senseo. *marca de un tercero sin relación alguna con JACOBS DOUWE EGBERTS y/o PHILIPS
+- Prepara 2 cafés a la vez o 1 café doble en una taza
 - La tecnología de reconocimiento de cápsulas detecta automáticamente el tamaño y tipo de cápsula
+- NOTA! Cápsulas compatibles: La cafetera LOR Barista está pensada para funcionar con cápsulas LOR Espresso y cápsulas doble espresso LOR Barista, así como con cápsulas Nespresso* y cápsulas de aluminio de marcas de café fabricadas por Jacobs Douwe Egberts, como Douwe Egberts, JACOBS, Jacqmotte, Jacques Vabre, Grand Mère, LOR, Marcilla, Moccona, Saimaza y Senseo. *marca de un tercero sin relación alguna con JACOBS DOUWE EGBERTS y/o PHILIPS
+- Crea y personaliza tu café favorito con el menú completo de cafés: ristretto, espresso, lungo y más
 - 19 bares de presión para garantizar la extracción perfecta del café, como el de tu cafetería favorita
 - Exclusiva cafetera de cápsulas lor barista
-- Prepara 2 cafés a la vez o 1 café doble en una taza
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07M8J4ZXK/?tag=tolees-21)

@@ -28,7 +28,7 @@ En este momento está [Meridiem Games - Gungrave VR The Loaded Coffin Edition](h
 
 🔎:
 
-- PlayStation VR Headset
 - PlayStation 4 Camera
+- PlayStation VR Headset
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07FY31G3D/?tag=tolees-21)

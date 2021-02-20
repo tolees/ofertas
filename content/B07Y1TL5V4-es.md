@@ -29,8 +29,8 @@ Tienes [Nike Court Borough Low 2  Zapatillas  Blanco  White/White-White   32 EU]
 🔎:
 
 - Suave de Llevar
-- Importado
-- De la marca Nike
 - Cordones de Zapatos
+- De la marca Nike
+- Importado
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07Y1TL5V4/?tag=tolees-21)

@@ -28,9 +28,9 @@ Tienes [PURLINE Hervidor de Cristal de 1 7L y 2200W con indicador led con Colore
 
 ℹ️:
 
-- Asa ergonómica de tacto frío para un uso más cómodo y seguro.
 - Cambia de color según la temperatura del agua.Verde (60º), Azul oscuro (70º), Amarillo (80º), Rosa (90º), Rojo (100º)
 - Jarra de cristal de 1,7L de capacidad y 2200 W de potencia.
 - Apagado automático al empezar a hervir.
+- Asa ergonómica de tacto frío para un uso más cómodo y seguro.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08HVBXGS5/?tag=tolees-21)
