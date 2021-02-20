@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Cosmoplast Apósitos Impermeables - 20 Un al 26.53 % de rebaja'
-date: 2020-08-12 14:50:16
+title: 'Cosmoplast Apósitos Impermeables - 20 Un al 59.18 % de rebaja'
+date: 2021-02-20 09:16:39
 image: 'https://m.media-amazon.com/images/I/41sPdrpG9RL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -9,24 +9,27 @@ author: ring
 slug: 'B01H5VLQ9A-es Cosmoplast Apósitos Impermeables - 20 Unidades'
 sku: 'B01H5VLQ9A-es'
 tags: [  ]
-actualPrice: 1.8 EUR
+actualPrice: 1.0 EUR
 currency: EUR
-price: 1.8
+price: 1.0
 comparePrice: 2.45 EUR
 prodname: 'Cosmoplast Apósitos Impermeables - 20 Unidades'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'COSMOPLAST'
 buyurl: 'https://www.amazon.es/dp/B01H5VLQ9A/?tag=tolees-21'
-descuento: '26.53'
-average: '1.8'
+descuento: '59.18'
+average: '1.48'
 ---
 
-Tienes [Cosmoplast Apósitos Impermeables - 20 Unidades](https://www.amazon.es/dp/B01H5VLQ9A/?tag=tolees-21) con precio final de  1.8 EUR (original: 2.45 EUR) (26.53 %  de rebaja) aqui!
+Tienes [Cosmoplast Apósitos Impermeables - 20 Unidades](https://www.amazon.es/dp/B01H5VLQ9A/?tag=tolees-21) con precio final de  1.0 EUR (original: 2.45 EUR) (59.18 %  de rebaja) aqui!
 
 [![Cosmoplast Apósitos Impermeables - 20 Un](https://m.media-amazon.com/images/I/41sPdrpG9RL._SL200_.jpg)](https://www.amazon.es/dp/B01H5VLQ9A/?tag=tolees-21)
 
 🔎:
 
+- Parafarmacia: Parafarmacia
+- Género: Unisex Adulto
+- Marca: Cosmoplast
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01H5VLQ9A/?tag=tolees-21)

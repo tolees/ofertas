@@ -28,10 +28,10 @@ Ahora mismo tienes [ASUS VG278QR - Monitor de Gaming de 27"  Full-HD 1920x1080  
 
 🔎:
 
-- 0,5 ms* de tiempo de respuesta para una mayor fluidez y ASUS Extreme Low Motion Blur (ELMB) para que las escenas borrosas cobren nitidez
-- Certificado como compatible con G-SYNC, ofrece una experiencia de juego sin interrupciones al habilitar el VRR (tasa de actualización variable) de forma predeterminada
-- La tecnología GameFast Input minimiza el retardo entre el equipo y el monitor
 - Botón ASUS GamePlus para acceder a mejoras exclusivas y GameVisual para optimizar la imagen
+- 0,5 ms* de tiempo de respuesta para una mayor fluidez y ASUS Extreme Low Motion Blur (ELMB) para que las escenas borrosas cobren nitidez
+- La tecnología GameFast Input minimiza el retardo entre el equipo y el monitor
+- Certificado como compatible con G-SYNC, ofrece una experiencia de juego sin interrupciones al habilitar el VRR (tasa de actualización variable) de forma predeterminada
 - Monitor de gaming Full HD de 27” con 144 Hz de refresco y Adaptive-Sync para gráficos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07KKBDQCL/?tag=tolees-21)

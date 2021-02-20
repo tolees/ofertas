@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Days of Wonder- The River  Multicolor  A al 30.01 % de rebaja'
-date: 2021-02-13 09:50:22
+date: 2021-02-20 09:21:27
 image: 'https://m.media-amazon.com/images/I/51HilRikYaL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ Tienes [Days of Wonder- The River  Multicolor  Asmodee ](https://www.amazon.es/d
 
 🔎:
 
-- Juego de tablero
 - Juego de mesa
+- Juego de tablero
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07KTN9LDB/?tag=tolees-21)
