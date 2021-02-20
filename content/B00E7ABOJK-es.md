@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Passport 70Cl. Scotch Whisky - Whisky Bl al 33.27 % de descuento'
-date: 2021-02-17 18:01:35
+date: 2021-02-20 15:49:10
 image: 'https://m.media-amazon.com/images/I/31uzhxqt0yL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Passport 70Cl. Scotch Whisky'
 buyurl: 'https://www.amazon.es/dp/B00E7ABOJK/?tag=tolees-21'
 descuento: '33.27'
-average: '7.06222222222222'
+average: '7.05090909090909'
 ---
 
 Ahora mismo tienes [Passport 70Cl. Scotch Whisky - Whisky Blended Scotch Passport 70 cl](https://www.amazon.es/dp/B00E7ABOJK/?tag=tolees-21) a 7.0 EUR (original: 10.49 EUR) (33.27 %  de descuento) en el siguiente enlace!
@@ -28,9 +28,9 @@ Ahora mismo tienes [Passport 70Cl. Scotch Whisky - Whisky Blended Scotch Passpor
 
 🔎:
 
-- Contenido de alcohol: 40% alcohol
 - Una frescura mentolada
-- Tiene un comienzo suave y aterciopelado
 - Ofrece un final afrutado y cremoso
+- Contenido de alcohol: 40% alcohol
+- Tiene un comienzo suave y aterciopelado
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00E7ABOJK/?tag=tolees-21)

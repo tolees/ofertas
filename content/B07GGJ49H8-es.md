@@ -28,8 +28,8 @@ En este momento está [Pepe Jeans Art T-Shirt  Gris  Grey Marl 933   11-12 Anos 
 
 🔎:
 
-- Fit regular
 - Logo estampado con purpurina
+- Fit regular
 - Cuello redondo
 - Camiseta manga corta tejido suave
 

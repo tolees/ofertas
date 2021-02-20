@@ -28,10 +28,10 @@ Ahora mismo tienes [Antifaz para dormir  de espuma viscoelástica HOMMINI con co
 
 🔎:
 
-- 🌙100% Satifaction Guarantee: HOMMINI Unconditional Lifetime Promise. We are Professionally producing comfortable , top-quality, different-style eye masks. If there are any unsatisfied points, we would offer replacement or full refund.
-- 🌙Adjustable strap: The soft adjustable strap wont tangle hair, flexible and durable to surround your head comfortably .To form the most comfortable fit in any sleep position.
 - 🌙100% total blackout: Velvet eye patch total blackout at any time any place,offer you a Mid-nights environment. Put on it and enjoy your "good night" whether at home, in a hotel or on the plane.
 - 🌙Additional Earplugs and Carry Pouch: Earplugs can help you reduce the noise, work together with our sleep mask to creat a comfortable and quiet relex environment.The carry pouch can store the mask and earplugs and take anywhere and anytime in your bag.
+- 🌙Adjustable strap: The soft adjustable strap wont tangle hair, flexible and durable to surround your head comfortably .To form the most comfortable fit in any sleep position.
 - 🌙Comfort & skin-friendly: Made from breathable memory foam, 100% skin friendly natural lightweight breathable, the eye mask matches to the face naturally and comfortably, no pressure on the eyes.
+- 🌙100% Satifaction Guarantee: HOMMINI Unconditional Lifetime Promise. We are Professionally producing comfortable , top-quality, different-style eye masks. If there are any unsatisfied points, we would offer replacement or full refund.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07JN557KT/?tag=tolees-21)
