@@ -29,9 +29,9 @@ Está [Fellowes I-Spire Series - Soporte Elevador Ajustable para portátil  Ajus
 ℹ️:
 
 - El elevador para portátil I-Spire Series ofrece 7 ajustes de altura. Además permite plegarse, proporcionando una solución portátil ergonómica ideal para trabajar en la oficina o mientras se viaja.
-- Certificado por FIRA International Ltd para cumplir con los requisitos ergonómicos establecidos en la legislación europea de salud y seguridad: EN ISO 9241-5
 - Su diseño moderno y limpio evita que tu ordenador portátil se sobrecaliente y complementa tu espacio de trabajo de manera ideal
 - Trabaja con comodidad y estilo con el soporte para portátil I-Spire Series de Fellowes, que presenta un diseño contemporáneo y elegante
+- Certificado por FIRA International Ltd para cumplir con los requisitos ergonómicos establecidos en la legislación europea de salud y seguridad: EN ISO 9241-5
 - Coloca tu pantalla a la altura de visualización más cómoda con este soporte para ordenador portátil I-Spire Series, que cuenta con patas plegables para optimizar el posicionamiento de la pantalla de cualquier portátil de hasta 17 pulgadas
 - El soporte para portátil I-Spire eleva la pantalla de tu ordenador portátil al nivel de los ojos y coloca la pantalla a una altura de visualización más confortable gracias a simples ajustes. Esto alivia el estrés que se ejerce sobre los hombros, el cuello y los ojos
 
