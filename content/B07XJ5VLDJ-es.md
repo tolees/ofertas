@@ -28,8 +28,8 @@ Tienes [Clarks Marie Sail  Mocasn Mujer  Piel Negra  37.5 EU](https://www.amazon
 
 ℹ️:
 
+- Suela: goma
 - Interior: textil
 - Exterior: piel
-- Suela: goma
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07XJ5VLDJ/?tag=tolees-21)

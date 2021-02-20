@@ -28,10 +28,10 @@ Tienes [L Oreal Paris Make-up Designer - Labial líquido mate Les Macarons](http
 
 ℹ️:
 
-- Pintalabios líquido mate permanente
-- Pintalabios de larga duración, 16 H de color y suavidad
 - Disponible en 8 tonos mate
 - Su fórmula combina la tecnología de pigmentos mate intensos para un acabado ultra mate
+- Pintalabios de larga duración, 16 H de color y suavidad
 - Gel con polímeros elásticos para 16 H de confort, sin resecar
+- Pintalabios líquido mate permanente
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07QGZ55PB/?tag=tolees-21)

@@ -28,8 +28,8 @@ Tienes [Semillas Batlle - Semillas Hortícolas - Zanahoria Chantenay de Corazón
 
 ℹ️:
 
+- Variedad medio larga de raíz cónica, punta ligeramente redondeada, muy azucarada y gustosa. Apreciadísima para mercado
 - Recolección: Aproximadamente a los 3 ó 4 meses de su siembra
 - Directamente, a voleo, o en líneas. Aclarar las plantas a 10 cm de distancia. Forma de cultivo: Se siembra todo el año, con preferencia de Febrero a Mayo, de asiento, a voleo o en líneas equidistantes unos 40 cm
-- Variedad medio larga de raíz cónica, punta ligeramente redondeada, muy azucarada y gustosa. Apreciadísima para mercado
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00WI5UDQG/?tag=tolees-21)

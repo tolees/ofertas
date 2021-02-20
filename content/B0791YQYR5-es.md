@@ -28,10 +28,10 @@ Tienes [Tommy Hilfiger Core Tommy Regular Polo  Schwarz  Flag Black 032   XX-Lar
 
 ℹ️:
 
-- cuello de polo
-- Tommy Hilfiger bordado en el pecho
-- Puro algodn
-- tapeta Threebutton
 - Marca cinta decorativa en la parte posterior del cuello
+- cuello de polo
+- tapeta Threebutton
+- Puro algodn
+- Tommy Hilfiger bordado en el pecho
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0791YQYR5/?tag=tolees-21)

@@ -28,10 +28,10 @@ Está [Teka - Microondas Mecánico  Modelo MW 225  Grill  20 litros  5 Niveles d
 
 ℹ️:
 
-- Plato giratorio 25.5 cm
-- Panel de mandos mecánico; temporizador de 0 a 35 minutos
 - Cinco niveles de potencía, 700 W salida
-- Interior pintado
 - Dimensiones Alto x Ancho x Profundo (cm): 25.8 x 44 x 34
+- Panel de mandos mecánico; temporizador de 0 a 35 minutos
+- Plato giratorio 25.5 cm
+- Interior pintado
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B011EOWGRK/?tag=tolees-21)

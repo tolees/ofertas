@@ -28,10 +28,10 @@ Ahora mismo tienes [L Oreal Paris Make-up Designer - L Oréal Paris - Les Macaro
 
 🔎:
 
+- Pintalabios de larga duración, 16 H de color y suavidad
+- Gel con polímeros elásticos para 16 H de confort, sin resecar
+- Pintalabios líquido mate permanente
 - Disponible en 8 tonos mate
 - Su fórmula combina la tecnología de pigmentos mate intensos para un acabado ultra mate
-- Gel con polímeros elásticos para 16 H de confort, sin resecar
-- Pintalabios de larga duración, 16 H de color y suavidad
-- Pintalabios líquido mate permanente
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07PY2RQZV/?tag=tolees-21)

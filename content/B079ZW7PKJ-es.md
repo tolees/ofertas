@@ -28,11 +28,11 @@ Ahora mismo tienes [Casio Reloj Digital para Hombre de Cuarzo con Correa en Resi
 
 🔎:
 
-- Reloj analógico digital de la colección G-Schock de CASIO - GBA-800-9AER
-- 56 años de garantía
-- Una vez configurado, el calendario automático siempre muestra la fecha correcta.
-- La función Bluetooth se puede utilizar después de la descarga de la Casio "G-SHOCK Conectado" de la aplicación
-- Diseño deportivo e innovador para hombre
 - adecuado para sumergirse en el agua: El reloj ha sido sometido a una prueba de resistencia al agua de hasta 20 bar.
+- Reloj analógico digital de la colección G-Schock de CASIO - GBA-800-9AER
+- Diseño deportivo e innovador para hombre
+- 56 años de garantía
+- La función Bluetooth se puede utilizar después de la descarga de la Casio "G-SHOCK Conectado" de la aplicación
+- Una vez configurado, el calendario automático siempre muestra la fecha correcta.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B079ZW7PKJ/?tag=tolees-21)

@@ -28,8 +28,8 @@ Tienes [Semillas Batlle - Semillas Hortícolas - Tomate Marmande VR tipo RAF - B
 
 ℹ️:
 
+- Forma de cultivo: Se siembra de Noviembre a Febrero en cama caliente y se trasplanta cuando las plantitas tienen 3 ó 4 hojas al marco de 60 x 40 cm
 - Extremadamente precoz y fructífero de gran aprecio y cultivo para Cosecha temprana. Mata de crecimiento indeterminado pero no excesivamente alta. Frutos aplastados y acostillados de buen tamaño, color rojo claro, piel fina y pulpa jugosa
 - Recolección: Puede empezar a cosecharse en Mayo, según cultivo y clima
-- Forma de cultivo: Se siembra de Noviembre a Febrero en cama caliente y se trasplanta cuando las plantitas tienen 3 ó 4 hojas al marco de 60 x 40 cm
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00ID4TXN0/?tag=tolees-21)
