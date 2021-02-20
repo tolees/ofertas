@@ -29,7 +29,7 @@ Ahora mismo tienes [Semillas Batlle - Semillas Hortícolas - Melón Rochet Sel. 
 🔎:
 
 - Buena precocidad, frutos tamaño mediano de corteza color verde y piel lisa
-- Carne apretada y muy dulce
 - Gran calidad
+- Carne apretada y muy dulce
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00WI49CS2/?tag=tolees-21)

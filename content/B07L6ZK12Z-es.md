@@ -28,10 +28,10 @@ Ahora mismo tienes [Ksix - Auriculares Inalámbricos Go&Play Unlimited  hasta 20
 
 🔎:
 
-- Charging case
-- Up to 20H of music
-- Passive Noise Cancellation
-- Ergonomic design
 - Built-in micro to hold calls
+- Up to 20H of music
+- Charging case
+- Ergonomic design
+- Passive Noise Cancellation
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07L6ZK12Z/?tag=tolees-21)

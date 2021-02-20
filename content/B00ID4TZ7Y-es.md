@@ -28,11 +28,11 @@ Ahora mismo tienes [Semillas Batlle - Semillas Hortícolas - Berenjena larga neg
 
 🔎:
 
-- Cosecha: a partir de 150 Días
 - Larga y estrecha de 20/30 cm y 3/4 de ancho. Es un cultivo exigente en luz y temperaturas agradables
+- Es una planta exigente en suelos, profundos y bien drenados, aunque aguanta los terrenos fuertes
+- Cosecha: a partir de 150 Días
 - Siembra: de Diciembre
 a Abril
-- Es una planta exigente en suelos, profundos y bien drenados, aunque aguanta los terrenos fuertes
 - Forma de cultivo: Enn semillero, después de trasplantar cuando las plantas tengan unos 12 cm. En un marco de 60x80 cm
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00ID4TZ7Y/?tag=tolees-21)

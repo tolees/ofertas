@@ -28,9 +28,9 @@ Tienes [Semillas Batlle - Semillas Hortícolas - Lechuga Romana larga verde clar
 
 🔎:
 
-- Es una variedad tipo romana de buen porte. Hojas quebradizas de color verde, cogollo muy apretado, sabor dulce y superior calidad. Apta para cultivar en Primavera
 - La Siembra se efectúa en semillero, trasplantándose al marco de 30 x 40 cm cuando las plantitas alcanzan el enraizamiento y tamaño conveniente. Recolección: A los 3 ó 4 meses de su Siembra según clima y época
-- Siembra: todo el año / de Febrero a Junio Cosecha: a partir de 2 / 4 meses
 - Forma de cultivo: Admite la Siembra todo el año en climas cálidos y suaves, pero con preferencia de Diciembre-Abril
+- Siembra: todo el año / de Febrero a Junio Cosecha: a partir de 2 / 4 meses
+- Es una variedad tipo romana de buen porte. Hojas quebradizas de color verde, cogollo muy apretado, sabor dulce y superior calidad. Apta para cultivar en Primavera
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00WI5RY4A/?tag=tolees-21)

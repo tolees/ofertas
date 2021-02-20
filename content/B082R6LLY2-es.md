@@ -28,10 +28,10 @@ Ahora mismo tienes [NIKE MD Valiant  TDV   Sneaker  Black/White  22 EU](https://
 
 🔎:
 
-- Nombre de departamento: Bebé-Niños
-- Importado
-- Suave de Llevar
 - Cordones de Zapatos
+- Importado
+- Nombre de departamento: Bebé-Niños
+- Suave de Llevar
 - Estilo más adecuado para: male
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B082R6LLY2/?tag=tolees-21)

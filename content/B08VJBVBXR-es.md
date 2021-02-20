@@ -28,10 +28,10 @@ En este momento está [GEMVIE Gorro de Béisbol para Bebe Niño Verano Protector
 
 🔎:
 
-- [Clasico Estilo]: El diseno de rayas es muy clasico ,el gorro puede plegar fácil perfecto que puede llevar en la playa,la piscina ,el casual dia , excursión ,viaje de cámping,no ocupar el espacio de su bolsa
-- [Ajustable Elástica]:La Banda elástica que en la parte trasera del sombrero bebe puede ajustar su el tamaño para adaptarse a la circunferencia de la cabeza del bebé.
-- [Protector el sol ]: Cuando está en el agua o ara las últimas horas del día en la playa ,la visera del gorrito de sol puede proteger su cara delicada
 - [La Talla Varios]: El tamano del gorro niño desde 44cm hasta 50cm ( se recomenda 0-6meses, 1-6años, el exacto dato están debajo)
+- [Protector el sol ]: Cuando está en el agua o ara las últimas horas del día en la playa ,la visera del gorrito de sol puede proteger su cara delicada
+- [Ajustable Elástica]:La Banda elástica que en la parte trasera del sombrero bebe puede ajustar su el tamaño para adaptarse a la circunferencia de la cabeza del bebé.
 - [100% Algódon] Hecho de 100% algódon de ese gorrito,La ala ancha puede proteger contra el sol (upf50+) , bien transpirable,sueva,cocido y ligero.
+- [Clasico Estilo]: El diseno de rayas es muy clasico ,el gorro puede plegar fácil perfecto que puede llevar en la playa,la piscina ,el casual dia , excursión ,viaje de cámping,no ocupar el espacio de su bolsa
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08VJBVBXR/?tag=tolees-21)

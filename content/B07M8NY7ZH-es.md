@@ -28,10 +28,10 @@ Ahora mismo tienes [Gb Gold Pockit + All-Terrain 619000215 Silla de Paseo  6 mes
 
 🔎:
 
-- Silla de paseo todoterreno robusta y de gran calidad para niños desde los 6 meses hasta los 22 kg, 4 años aprox. con plegado compacto de l:34 x an:20 x al:42 cm
-- Confort óptimo para grandes y pequeños: ruedas dobles todoterreno delante, giratorias y bloqueables y detrás, cómoda y fácil de empujar con una mano, respaldo regulable, plegado sencillo con dos asas
-- Contenido: 1 gb silla de paseo pockit+ all terrain, chasis de aluminio, funda de poliéster, dimensiones, lxanxal: 71 x 45 x 102 cm, plegado, lxanxal: 34 x 20 x 42 cm, peso: 5.6 kg, color: velvet black
 - Utilizable como travel system 3 en 1 con los adaptadores, por separado tanto para el capazo cot to go y los portabebés de la línea gold de gb, como para todos los portabebés cybex
+- Contenido: 1 gb silla de paseo pockit+ all terrain, chasis de aluminio, funda de poliéster, dimensiones, lxanxal: 71 x 45 x 102 cm, plegado, lxanxal: 34 x 20 x 42 cm, peso: 5.6 kg, color: velvet black
 - Protección contra el sol y el mal tiempo gracias a la capota extensible con upf50+, funda lavable a máquina hasta 30°c, accesorios no incluidos: plástico para lluvia, adaptador para portabebés
+- Confort óptimo para grandes y pequeños: ruedas dobles todoterreno delante, giratorias y bloqueables y detrás, cómoda y fácil de empujar con una mano, respaldo regulable, plegado sencillo con dos asas
+- Silla de paseo todoterreno robusta y de gran calidad para niños desde los 6 meses hasta los 22 kg, 4 años aprox. con plegado compacto de l:34 x an:20 x al:42 cm
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07M8NY7ZH/?tag=tolees-21)

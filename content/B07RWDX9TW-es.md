@@ -28,10 +28,10 @@ Tienes [SteelSeries Apex 7 - Teclado mecánico para Gaming  Smart Display OLED  
 
 🔎:
 
-- Personalización inigualable, con 16.8 millones de colores de iluminación por tecla
-- Aleación de aluminio aeronáutico irrompible, fabricada para durar toda la vida
-- El Smart Display OLED muestra los perfiles, la info del juego y mensajes Discord
 - La distribución de teclado de este producto es americano QWERTY (US)
+- Personalización inigualable, con 16.8 millones de colores de iluminación por tecla
 - Interruptores mecánicos duraderos para gaming con 50 millones de pulsaciones garantizadas.
+- El Smart Display OLED muestra los perfiles, la info del juego y mensajes Discord
+- Aleación de aluminio aeronáutico irrompible, fabricada para durar toda la vida
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07RWDX9TW/?tag=tolees-21)

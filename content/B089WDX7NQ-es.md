@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MSI GL65 Leopard 10SFSK-280XES - Ordenad al 27.89 % de descuento'
-date: 2021-02-17 23:33:32
+date: 2021-02-20 17:02:27
 image: 'https://m.media-amazon.com/images/I/41QWVZgNskL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'MSI'
 buyurl: 'https://www.amazon.es/dp/B089WDX7NQ/?tag=tolees-21'
 descuento: '27.89'
-average: '1449.38076923076'
+average: '1438.79533333332'
 ---
 
 Ahora mismo tienes [MSI GL65 Leopard 10SFSK-280XES - Ordenador portátil Gaming de 15.6" FullHD 144Hz  Intel Core i7-10750H 16GB RAM 1TB SSD Nvidia RTX2070-8GB Super  Sin sistema operativo  negro - Teclado QWERTY Español](https://www.amazon.es/dp/B089WDX7NQ/?tag=tolees-21) a 1369.99 EUR (original: 1899.99 EUR) (27.89 %  de descuento) en el siguiente enlace!
@@ -28,11 +28,11 @@ Ahora mismo tienes [MSI GL65 Leopard 10SFSK-280XES - Ordenador portátil Gaming 
 
 🔎:
 
-- Tarjeta gráfica Nvidia RTX 2070 Super de 8 GB GDDR6
 - Almacenamiento 1TB NVMe PCIe SSD
-- Sin sistema operativo
 - Pantalla 15.6" FHD (1920*1080), IPS-Level 144Hz 45%NTSC Thin Bezel
 - Procesador Intel Core i7-10750H (6 núcleos, 12 MB Cache, 2.6 GHz hasta 5.0 GHz)
+- Sin sistema operativo
 - Memoria RAM de 16 GB, DDR IV 8GB*2 (2666MHz)
+- Tarjeta gráfica Nvidia RTX 2070 Super de 8 GB GDDR6
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B089WDX7NQ/?tag=tolees-21)
