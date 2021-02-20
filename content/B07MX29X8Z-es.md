@@ -28,8 +28,8 @@ En este momento está [Ubisoft Spain - Far Cry New Dawn](https://www.amazon.es/d
 
 🔎:
 
-- Personajes inolvidables enfrentados a una implacable doble amenaza
 - Lucha por sobrevivir en un impactante mundo posapocalíptico
+- Personajes inolvidables enfrentados a una implacable doble amenaza
 - Haz crecer la comunidad de supervivientes y construye su cuartel
 - Pelea por los recursos en el condado de hope, y mucho más allá
 

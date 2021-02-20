@@ -28,12 +28,12 @@ En este momento está [Polar M200 - Reloj de Running con GPS y Frecuencia cardí
 
 🔎:
 
-- Entrenamiento: vea todos sus datos de entrenamiento y siga su progreso. Analice rápidamente en la aplicación y en profundidad en el servicio web. Agregue todos sus deportes, planifique sus entrenamientos y configure un programa de entrenamiento para un evento de carrera.
-- FlowSync es compatible con ordenadores con Mac OS X 10.6 o posteriores y con Windows XP, 7, 8, 10
-- Comentarios motivadores de sus entrenamientos: Training Benefit brinda comentarios motivadores inmediatamente después del entrenamiento que describen el efecto de la sesión. Disponible en Polar Flow.
-- Objetivos de entrenamiento individuales: crea tus propios objetivos y sincronízalos con tu reloj. Luego te guía a través de tu entrenamiento.
-- Peso de 44 g; Grosor de 12 mm; Tamaño de pantalla diámetro de área visible de 26 mm, 1342 píxeles
 - Punto de quema de calorías: las calorías inteligentes le indican exactamente cuántas calorías ha quemado en función de su peso, altura, edad, sexo, su frecuencia cardíaca máxima individual (FC máx.) Y qué tan duro está entrenando.
 - Actividad y sueño: haga un seguimiento de su actividad y sueño diarios, vea sus resúmenes diarios, semanales y mensuales y conozca los beneficios para la salud de sus elecciones diarias.
+- FlowSync es compatible con ordenadores con Mac OS X 10.6 o posteriores y con Windows XP, 7, 8, 10
+- Entrenamiento: vea todos sus datos de entrenamiento y siga su progreso. Analice rápidamente en la aplicación y en profundidad en el servicio web. Agregue todos sus deportes, planifique sus entrenamientos y configure un programa de entrenamiento para un evento de carrera.
+- Peso de 44 g; Grosor de 12 mm; Tamaño de pantalla diámetro de área visible de 26 mm, 1342 píxeles
+- Comentarios motivadores de sus entrenamientos: Training Benefit brinda comentarios motivadores inmediatamente después del entrenamiento que describen el efecto de la sesión. Disponible en Polar Flow.
+- Objetivos de entrenamiento individuales: crea tus propios objetivos y sincronízalos con tu reloj. Luego te guía a través de tu entrenamiento.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B073WFBW23/?tag=tolees-21)

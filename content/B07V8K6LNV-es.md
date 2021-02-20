@@ -28,10 +28,10 @@ Está [BOSS Prime Polo  Azul  Bright Blue 435   Large para Hombre](https://www.a
 
 ℹ️:
 
+- No usar lejía
+- Lavar en frío a 30 ºC
+- Planchado a baja temperatura nivel 1
 - No secar en la secadora
 - No limpiar en seco
-- Planchado a baja temperatura nivel 1
-- Lavar en frío a 30 ºC
-- No usar lejía
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07V8K6LNV/?tag=tolees-21)

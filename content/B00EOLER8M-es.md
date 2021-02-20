@@ -28,11 +28,11 @@ En este momento está [Smint Tin Fresa  Caramelo Comprimido Sin Azúcar - 12 uni
 
 🔎:
 
+- Ideal para llevar siempre contigo y para cualquier ocasión: antes de una cita o reunión, después de una comida o un café, en el coche o en su escritorio.
+- Caramelo comprimido Smint Tin sin azúcar con sabor a Fresa. El producto contiene 12x35 gr. de caramelos comprimidos en una lata moderna y práctica.
 - Si hay algo que caracteriza a Smint Tin es el golpe de frescor duradero de sus potentes caramelos comprimidos en formato triangular bicapa.
 - Descubre más sobre este y otros productos de Smint más abajo.
-- Disfruta de un frescor duradero con un delicioso sabor, en una lata moderna y práctica. Smint es un producto sin azúcar y sin gluten.
-- Ideal para llevar siempre contigo y para cualquier ocasión: antes de una cita o reunión, después de una comida o un café, en el coche o en su escritorio.
 - El envase práctico cabe en cualquier bolso o bolsillo del pantalón; fácil de usar y listo para darte ese golpe de frescor y sabor que necesitas.
-- Caramelo comprimido Smint Tin sin azúcar con sabor a Fresa. El producto contiene 12x35 gr. de caramelos comprimidos en una lata moderna y práctica.
+- Disfruta de un frescor duradero con un delicioso sabor, en una lata moderna y práctica. Smint es un producto sin azúcar y sin gluten.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00EOLER8M/?tag=tolees-21)
