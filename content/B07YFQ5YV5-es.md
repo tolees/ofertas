@@ -28,8 +28,8 @@ Tienes [NIKE Court Borough Low 2  Zapatillas  Blanco  White/White-White   33 EU]
 
 ℹ️:
 
-- Suave de Llevar
 - Cordones de Zapatos
+- Suave de Llevar
 - Importado
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07YFQ5YV5/?tag=tolees-21)

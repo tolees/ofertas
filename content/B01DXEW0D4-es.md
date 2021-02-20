@@ -28,10 +28,10 @@ Tienes [Ariete 1389 Cafetera espresso vintage  900 W  2 Cups  plástico  Verde](
 
 🔎:
 
-- Porta filtro dual para café en polvo y ESE pods
 - Maxi Cappuccino
 - Potencia: 900 W
-- Porta filtro con filtro de 2 tazas para café molido
 - Cuerpo metálico
+- Porta filtro dual para café en polvo y ESE pods
+- Porta filtro con filtro de 2 tazas para café molido
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01DXEW0D4/?tag=tolees-21)

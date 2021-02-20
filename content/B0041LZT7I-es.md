@@ -28,10 +28,10 @@ Ahora mismo tienes [OMRON Healthcare Flex Temp Smart - Termómetro  color blanco
 
 🔎:
 
-- Termómetro digital para fiebre para uso oral, axilar o rectal
-- Le permite revisar la lectura anterior tomada y tiene batería intercambiable
-- Punta flexible para mayor comodidad mientras se realiza una medición
 - Medición rápida de 10 segundos cuando la medición se toma por vía rectal
+- Le permite revisar la lectura anterior tomada y tiene batería intercambiable
+- Termómetro digital para fiebre para uso oral, axilar o rectal
 - Muestra las lecturas en grados Celsius o Fahrenheit
+- Punta flexible para mayor comodidad mientras se realiza una medición
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0041LZT7I/?tag=tolees-21)
