@@ -28,8 +28,8 @@ Ahora mismo tienes [Kipling Creativity S  Cartera para Mujer  Multicolor  Urban 
 
 🔎:
 
+- Ligero, duradero y siempre práctico.
 - Repelente al agua.
 - Logotipo de Kipling.
-- Ligero, duradero y siempre práctico.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07TVPYZKM/?tag=tolees-21)

@@ -28,10 +28,10 @@ Ahora mismo tienes [HelpCuisine® 250 pcs Bolsas de Papel Papel Bolsas de té va
 
 🔎:
 
-- 1. Los infusores HelpCuisne están hechos de tela inodora que absorbe el agua, lo que garantiza una buena filtración, no contamina ni altera los sabores de las bebidas infundidas. La infusión es inmediata, sin peligro de fugas gracias al material termo-resistente.
 - 4. 250 piezas por paquete con dimensiones de 7 cm x 9 cm; Ideal para disfrutar de tus mezclas favoritas en cualquier momento del día.
-- 2. Delgadas pero fuertes, pueden rellenarse con hojas de té, café, hierbas, infusiones, etc.
+- 1. Los infusores HelpCuisne están hechos de tela inodora que absorbe el agua, lo que garantiza una buena filtración, no contamina ni altera los sabores de las bebidas infundidas. La infusión es inmediata, sin peligro de fugas gracias al material termo-resistente.
 - 3. Fácil de usar: simplemente inserte su mezcla de hierbas favorita en la bolsa abierta para tirar y atar. Después de usarlos, puedes desecharlos usando el cable. Ligero y cómodo de llevar en su bolso, puede disfrutar de una taza de té donde quiera que esté.
 - 5. Tejido inodoro, seguro y compatible con el medio ambiente, que se degrada después de su eliminación. Adecuado para cualquier taza o recipiente.
+- 2. Delgadas pero fuertes, pueden rellenarse con hojas de té, café, hierbas, infusiones, etc.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07NWKTGQZ/?tag=tolees-21)
