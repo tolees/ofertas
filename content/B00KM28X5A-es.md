@@ -28,10 +28,10 @@ Tienes [Semillas Batlle - Semillas Hortícolas - Bróculi verde Calabrese - Batl
 
 ℹ️:
 
-- Pella globosa, de sabor dulce y gustosa. Escoger parcelas fértiles de textura media y que drenen bien
 - Cosecha: a partir de 150 Días
+- Siembra: de Mayo a Agosto
 - Forma de cultivo: en semillero trasplantando cuando las plantas alcancen los 12 cm en un marco de 80x50 cm
 - Condiciones de germinación: 6-10 Días Tempura suelo: 6ºC
-- Siembra: de Mayo a Agosto
+- Pella globosa, de sabor dulce y gustosa. Escoger parcelas fértiles de textura media y que drenen bien
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00KM28X5A/?tag=tolees-21)

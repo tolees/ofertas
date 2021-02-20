@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony CMTSBT20.CEL - Sistema de Audio  12 al 34.62 % de rebaja'
-date: 2021-02-16 18:33:11
+date: 2021-02-20 16:52:54
 image: 'https://m.media-amazon.com/images/I/41XvrRi71oL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B01E6R6S4E/?tag=tolees-21'
 descuento: '34.62'
-average: '90.8759375000002'
+average: '90.5297058823532'
 ---
 
 Tienes [Sony CMTSBT20.CEL - Sistema de Audio  12 W  CD  FM  Radio  USB  Bluetooth   Negro](https://www.amazon.es/dp/B01E6R6S4E/?tag=tolees-21) con precio final de  84.99 EUR (original: 130.0 EUR) (34.62 %  de rebaja) aqui!
@@ -28,10 +28,10 @@ Tienes [Sony CMTSBT20.CEL - Sistema de Audio  12 W  CD  FM  Radio  USB  Bluetoot
 
 🔎:
 
-- Mega Bass para un sonido dinámico
-- Reproducción multimedia y carga mediante USB y Walkman
 - Sintonizador de radio FM integrado
-- Conectividad Bluetooth con NFC de un solo toque
+- Mega Bass para un sonido dinámico
 - Potencia total de 12 W
+- Reproducción multimedia y carga mediante USB y Walkman
+- Conectividad Bluetooth con NFC de un solo toque
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01E6R6S4E/?tag=tolees-21)

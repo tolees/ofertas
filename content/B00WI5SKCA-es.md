@@ -28,8 +28,8 @@ Tienes [Semillas Batlle - Semillas Leguminosas - Garbanzo Badil - Batlle](https:
 
 ℹ️:
 
-- Sobre
 - En líneas de 40-70 cm y empleándose una dosis de unos 100 Kg/ha
 - Variedad seleccionada por su producción y calidad, con baja absorción de agua en la cocción, baja dureza del grano y piel fina
+- Sobre
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00WI5SKCA/?tag=tolees-21)

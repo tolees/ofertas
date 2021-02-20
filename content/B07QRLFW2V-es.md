@@ -28,11 +28,11 @@ Ahora mismo tienes [Rexona Invisible Aqua Antitranspirante Aerosol para Mujer An
 
 🔎:
 
-- No pienses nunca más en manchar ese vestido que te encanta, o en encontrar marcas en tu ropa de deporte favorita: esta fórmula protege tu ropa y tu piel
-- Protección contra el sudor y el mal olor, mantiene tus axilas secas sin resecar tu piel, porque está formulado sin nada de alcohol
-- Siente la agradable sensación de frescura y limpieza en tu piel, con una fragancia suave y ligera que te acompañará hasta 48 horas
-- Y recuerda: el desodorante Rexona no te abandona
 - Muévete, baila, salta; la tecnología MotionSense te ayuda a llevar el ritmo que te gusta, escoge Rexona Invisible Aqua y úsalo como tu desodorante
 - Gracias a su fórmula antimanchas, el desodorante antitranspirante Rexona Invisible Aqua en aerosol te protege a tí contra el sudor y a tu ropa contra las manchas
+- Siente la agradable sensación de frescura y limpieza en tu piel, con una fragancia suave y ligera que te acompañará hasta 48 horas
+- Y recuerda: el desodorante Rexona no te abandona
+- No pienses nunca más en manchar ese vestido que te encanta, o en encontrar marcas en tu ropa de deporte favorita: esta fórmula protege tu ropa y tu piel
+- Protección contra el sudor y el mal olor, mantiene tus axilas secas sin resecar tu piel, porque está formulado sin nada de alcohol
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07QRLFW2V/?tag=tolees-21)

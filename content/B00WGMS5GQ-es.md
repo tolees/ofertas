@@ -28,10 +28,10 @@ Tienes [Star Wars 599386031 - Careta de Stormtrooper](https://www.amazon.es/dp/B
 
 ℹ️:
 
-- Producto con licencia oficial
-- Star Wars Máscara - Stormtrooper
 - Peso 25g Alto 0.2cm Ancho 22cm Largo 36cm
+- Producto con licencia oficial
 - estampado Tarjeta Cara Máscara Con Ojos AGUJEROS Y Elástico INCLUIDO Listo Para Vestir
 - ESTE Artículo para Grande Letra
+- Star Wars Máscara - Stormtrooper
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00WGMS5GQ/?tag=tolees-21)

@@ -28,8 +28,8 @@ Ahora mismo tienes [Semillas Batlle - Semillas Hortícolas - Tomate de Colgar - 
 
 🔎:
 
-- Forma de cultivo: En semillero, trasplantar cuando la planta tenga 3-4 hojas
 - CARACTERÍSTICAS: De mata alta, precoz, frutos de unos 80 gr, reunidos en racimos que permite ser colgados. Excelente calidad para hacer “pan con tomate” por su piel fina y mucha pulpa
+- Forma de cultivo: En semillero, trasplantar cuando la planta tenga 3-4 hojas
 - Siembra: de Febrero a Mayo. Cosecha: a partir de 4/5 meses
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00KM2B97Y/?tag=tolees-21)
