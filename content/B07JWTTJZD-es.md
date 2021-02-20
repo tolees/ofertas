@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bohemian Rhapsody Blu-Ray [Blu-ray] al 36.51 % de descuento'
-date: 2021-02-19 03:58:56
+date: 2021-02-20 04:30:31
 image: 'https://m.media-amazon.com/images/I/417j5pZJXpL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JWTTJZD/?tag=tolees-21'
 descuento: '36.51'
-average: '15.128125'
+average: '15.0906140350877'
 ---
 
 Ahora mismo tienes [Bohemian Rhapsody Blu-Ray [Blu-ray]](https://www.amazon.es/dp/B07JWTTJZD/?tag=tolees-21) a 12.99 EUR (original: 20.46 EUR) (36.51 %  de descuento) en el siguiente enlace!

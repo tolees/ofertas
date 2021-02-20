@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Disney - Up  3D  [Blu-ray] al 42.34 % de descuento'
-date: 2021-02-16 02:33:13
+date: 2021-02-20 04:23:42
 image: 'https://m.media-amazon.com/images/I/51Rhjezr7KL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Disney'
 buyurl: 'https://www.amazon.es/dp/B006XAE1BU/?tag=tolees-21'
 descuento: '42.34'
-average: '11.19'
+average: '11.7042857142857'
 ---
 
 Está [Disney - Up  3D  [Blu-ray]](https://www.amazon.es/dp/B006XAE1BU/?tag=tolees-21) con 42.34 de descuento por 12.99 EUR (original: 22.53 EUR) en el siguiente enlace!
