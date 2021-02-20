@@ -28,10 +28,10 @@ Tienes [Quiksilver MAGICALL  Messenger/Shoulder para Hombre  negro  Einheitsgrö
 
 🔎:
 
+- Dimensiones: 19 x 15 x 6 cm
+- Correas: correa de hombro ajustable
 - Etiqueta frontal
 - Tejido: poliéster reciclado 600D/150D
-- Correas: correa de hombro ajustable
-- Dimensiones: 19 x 15 x 6 cm
 - Compartimentos/compartimento principal con cremallera/bolsillo frontal con cremallera
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0835Y4SHC/?tag=tolees-21)

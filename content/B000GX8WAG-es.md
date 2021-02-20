@@ -28,10 +28,10 @@ En este momento está [Invicta 9204 Pro Diver Reloj Unisex acero inoxidable Cuar
 
 🔎:
 
+- Resistencia a la presión de agua de 20 bares. Tipo de Corona: empujar.
 - 2 años de garantía Invicta
-- Este modelo es parte de la colección Invicta Pro Diver
 - Este modelo funciona con un movimiento de Cuarzo preciso
 - El Invicta 9204 tiene una caja de acier inoxydable de 37 milímetros con una esfera azul
-- Resistencia a la presión de agua de 20 bares. Tipo de Corona: empujar.
+- Este modelo es parte de la colección Invicta Pro Diver
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B000GX8WAG/?tag=tolees-21)
