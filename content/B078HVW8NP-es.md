@@ -28,10 +28,10 @@ En este momento está [505 Games - Payday 2](https://www.amazon.es/dp/B078HVW8NP
 
 🔎:
 
+- Uso de la pantalla tactil en los menús.
+- Robar bancos
 - Cooperativo para 4 personas
 - Multijugador local CRIME. NET Local Play, puedes invitar a los amigos que estén en tu misma red local.
-- Uso de la pantalla tactil en los menús.
 - Personaje exclusivo llamado Joy, con sus propias armas y máscara.
-- Robar bancos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B078HVW8NP/?tag=tolees-21)

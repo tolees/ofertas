@@ -29,9 +29,9 @@ Ahora mismo tienes [luosh Filtro ionizador Negativo de hidrógeno PH de Barra de
 🔎:
 
 - ❤ Promover el metabolismo humano y mejorar la inmunidad humana.
-- ❤ Rompe las moléculas de agua para una mejor absorción de nutrientes y minerales a través de la ósmosis inversa, oxigenando el cuerpo y aumentando la tasa metabólica.
-- ❤ El alto poder de disolución del agua alcalina se une a las toxinas de nuestro cuerpo, lo que permite una eliminación eficiente de los desechos.
-- ❤ Protege el hígado de los efectos nocivos del alcohol y la nicotina.
 - ❤ Potente antioxidante: lectura de ORP por debajo de -200 mV en aproximadamente 3-5 minutos
+- ❤ Rompe las moléculas de agua para una mejor absorción de nutrientes y minerales a través de la ósmosis inversa, oxigenando el cuerpo y aumentando la tasa metabólica.
+- ❤ Protege el hígado de los efectos nocivos del alcohol y la nicotina.
+- ❤ El alto poder de disolución del agua alcalina se une a las toxinas de nuestro cuerpo, lo que permite una eliminación eficiente de los desechos.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08L7ZV3S2/?tag=tolees-21)

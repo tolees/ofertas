@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Colegiales Niña Pablosky Negro 334510 33 con un 28.49 % de descuento'
-date: 2021-02-19 12:04:52
+date: 2021-02-20 22:31:53
 image: 'https://m.media-amazon.com/images/I/31NS80ngEML._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Pablosky'
 buyurl: 'https://www.amazon.es/dp/B07QB8JS3N/?tag=tolees-21'
 descuento: '28.49'
-average: '34.6476923076923'
+average: '34.582962962963'
 ---
 
 En este momento está [Colegiales Niña Pablosky Negro 334510 33](https://www.amazon.es/dp/B07QB8JS3N/?tag=tolees-21) a 32.9 EUR (original: 46.01 EUR) (28.49 %  de descuento) en el siguiente enlace!
