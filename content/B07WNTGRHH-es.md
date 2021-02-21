@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SAXTEL - Carcasa inferior del portátil R al 32.21 % de descuento'
-date: 2021-01-24 14:45:28
+date: 2021-02-21 05:51:09
 image: 'https://m.media-amazon.com/images/I/41GnvrWT8-L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ comparePrice: 19.65 EUR
 prodname: 'SAXTEL - Carcasa inferior del portátil Reemplazar la cubierta G50 45 Reconstruir Durable G50 70 Ligero Negro Accesorios G50 30 G50 80 Repuesto para Lenovo G50'
 country: 'es'
 flag: '🇪🇸'
+brand: 'SAXTEL'
 buyurl: 'https://www.amazon.es/dp/B07WNTGRHH/?tag=tolees-21'
 descuento: '32.21'
 average: '13.32'
@@ -27,10 +28,10 @@ Ahora mismo tienes [SAXTEL - Carcasa inferior del portátil Reemplazar la cubier
 
 🔎:
 
+- Reconstruir la apariencia de su computadora portátil
 - Color: negro
 - Reemplaza el número de pieza: AP0TH000400
-- Paquete incluido: 1 x caja inferior
 - Montaje: para Lenovo G50-80 G50-70 G50-30 G50-45 serise laptop
-- Reconstruir la apariencia de su computadora portátil
+- Paquete incluido: 1 x caja inferior
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07WNTGRHH/?tag=tolees-21)
