@@ -28,10 +28,10 @@ Ahora mismo tienes [Solgar Fórmula VM-75-60 Tabletas](https://www.amazon.es/dp/
 
 🔎:
 
+- Fórmula única de hierro quelado (bisglicinato de hierro) formulado para conseguir una máxima absorción sin producir irritación gastrointestinal ni estreñimiento
+- No contiene levadura, trigo ni derivados lácteos. Sin conservantes ni aromatizantes artificiales. Apto para veganos
 - Complemento alimenticio multivitamínico y mineral con aminoácidos en una base herbaria, rico en antioxidantes.
 - Sin azúcares ni sal. Sin gluten
-- No contiene levadura, trigo ni derivados lácteos. Sin conservantes ni aromatizantes artificiales. Apto para veganos
 - Certificación Halal. Certificación Kosher Parve
-- Fórmula única de hierro quelado (bisglicinato de hierro) formulado para conseguir una máxima absorción sin producir irritación gastrointestinal ni estreñimiento
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B001ATI12Y/?tag=tolees-21)

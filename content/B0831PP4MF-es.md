@@ -28,10 +28,10 @@ Tienes [Canadian Peak Sudadera DE Hombre Galapagos Turquesa L](https://www.amazo
 
 🔎:
 
-- Puños ajustables
-- Bordados de la marca
-- Cuello con cremallera
 - Bolsillo canguro
+- Bordados de la marca
 - Capucha
+- Cuello con cremallera
+- Puños ajustables
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0831PP4MF/?tag=tolees-21)
