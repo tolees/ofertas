@@ -30,8 +30,8 @@ Ahora mismo tienes [Sony PS-LX310BT - Tocadiscos  Conectividad Bluetooth  admite
 
 - Dos velocidades de funcionamiento: 33 y 45 rpm
 - Brazo tonal con nuevo diseño para una reproducción clara y detallada
-- Admite salidas de línea y fono gracias al ecualizador fonográfico integrado
 - Conectividad Bluetooth sencilla
+- Admite salidas de línea y fono gracias al ecualizador fonográfico integrado
 - Reproducción automática en un paso para un funcionamiento sencillo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07MFBCCQG/?tag=tolees-21)

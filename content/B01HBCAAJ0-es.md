@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 42.92 % en Ludonova-Flick Em Up Tierra de Forajidos'
-date: 2021-01-31 12:26:16
+date: 2021-02-21 10:39:44
 image: 'https://m.media-amazon.com/images/I/41iWZZ8nzQL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [Ludonova-Flick Em Up Tierra de Forajidos  color  LDNV90001    color/mode
 
 ℹ️:
 
-- Idioma principal español publicado, inglés
-- Flick ´em up! un sorprendente juego de habilidad, de 2 a 10 jugadores, donde las figuras en 3D de vaqueros, cactus, barriles, etc... convertirán tu mesa en un turbulento y despiadado lejano oeste
 - Flick ´em up! Tierra de Forajidos te brindará un fascinante viaje a través del salvaje oeste que no olvidarás fácilmente
+- Flick ´em up! un sorprendente juego de habilidad, de 2 a 10 jugadores, donde las figuras en 3D de vaqueros, cactus, barriles, etc... convertirán tu mesa en un turbulento y despiadado lejano oeste
 - 10 escenarios diferentes donde se sucederán atracos, secuestros, duelos y otros muchos retos a los que enfrentarse, este inmersivo juego pondrá toda la acción de los Western en la punta de tu dedo
+- Idioma principal español publicado, inglés
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01HBCAAJ0/?tag=tolees-21)
