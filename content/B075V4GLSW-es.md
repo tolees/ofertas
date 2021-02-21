@@ -28,10 +28,10 @@ Tienes [Muvit I/O MIOCRU001 - Control Remoto Universal Inteligente IR/RF/WiFi  h
 
 🔎:
 
-- El dispositivo se conecta por WiFi con el router del hogar permitiendo controlar los dispositivos desde cualquier punto del mundo
 - Permite controlar todos los dispositivos de una habitación del hogar que funcionan por infrarrojos
-- Almacena hasta 15 programas de temporización
 - Se configura automáticamente presionando un botón con cualquier dispositivo IR
+- El dispositivo se conecta por WiFi con el router del hogar permitiendo controlar los dispositivos desde cualquier punto del mundo
 - Actualización automática de nuevos dispositivos IR
+- Almacena hasta 15 programas de temporización
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B075V4GLSW/?tag=tolees-21)

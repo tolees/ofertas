@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NIVEA crema de manos calmante alos vera  al 60.36 % de rebaja'
-date: 2021-02-12 14:12:04
+date: 2021-02-21 08:48:01
 image: 'https://m.media-amazon.com/images/I/31gKigDa+cL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [NIVEA crema de manos calmante alos vera tubo 100 ml](https://www.amazon.
 
 🔎:
 
-- Producto nuevo
 - NIVEA CREMA MANOS A.VERA 100 ml
 - Producto de alta calidad
+- Producto nuevo
 - NIVEA es un nombre de marca reconocido
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07HQ9PJZY/?tag=tolees-21)
