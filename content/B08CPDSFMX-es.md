@@ -28,10 +28,10 @@ En este momento está [Adidas Real Madrid Temporada 2020/21 Chaqueta Cortaviento
 
 🔎:
 
-- Ropa deportiva fabricada con materiales de primera calidad que se adaptan a cualquier actividad deportiva
+- Chaqueta REAL AW JKT GRICIN
 - Los productos deportivos de la marca Adidas están diseñados para que disfrutes de tu deporte favorito sin preocuparte de nada más que rendir al máximo
 - Chaqueta para practicar Tiempo libre y sportwear de Hombre
+- Ropa deportiva fabricada con materiales de primera calidad que se adaptan a cualquier actividad deportiva
 - Ropa deportiva Multicolor de la marca Adidas
-- Chaqueta REAL AW JKT GRICIN
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CPDSFMX/?tag=tolees-21)

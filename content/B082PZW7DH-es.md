@@ -28,9 +28,9 @@ Ahora mismo tienes [Mr. Wonderful Botiquín De Viaje para Que Nada Borre Esa Son
 
 🔎:
 
-- No lavar ni planchar. Limpiar con un paño húmedo.
 - No incluye ningún producto en el interior.
 - Botiquín de viaje con un mensaje motivador en español.
+- No lavar ni planchar. Limpiar con un paño húmedo.
 - Elaborado con PU y EVA.
 - Cuenta con cierre de cremallera y bolsillos de red en su interior.
 
