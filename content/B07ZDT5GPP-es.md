@@ -29,11 +29,11 @@ Tienes [Tommy Hilfiger Mujer TH ESS Hilfiger C-nk Sweatshirt Suéter Not Applica
 ℹ️:
 
 - Logo de Tommy Hilfiger bordado en el puño
-- Puro algodón
 - Cuello, puños y bajo de punto elástico
-- Cuello redondo
 - Corte amplio
-- Detalles distintivos de Tommy Hilfiger
+- Cuello redondo
 - Logo de Tommy Hilfiger bordado en el pecho
+- Detalles distintivos de Tommy Hilfiger
+- Puro algodón
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07ZDT5GPP/?tag=tolees-21)
