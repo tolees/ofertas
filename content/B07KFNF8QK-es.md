@@ -2,7 +2,7 @@
 layout: post
 title: 'Cuckool-5 test de embarazo ultrasensible con un 61.53 % de descuento'
 date: 2020-08-24 09:35:06
-image: 'https://m.media-amazon.com/images/I/41jeo39NmfL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41jeo39NmfL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.69'
 
 En este momento está [Cuckool-5 test de embarazo ultrasensibles  10mIU/ml  5 HCG](https://www.amazon.es/dp/B07KFNF8QK/?tag=tolees-21) a 7.69 EUR (original: 19.99 EUR) (61.53 %  de descuento) en el siguiente enlace!
 
-[![Cuckool-5 test de embarazo ultrasensible](https://m.media-amazon.com/images/I/41jeo39NmfL._SL200_.jpg)](https://www.amazon.es/dp/B07KFNF8QK/?tag=tolees-21)
+[![Cuckool-5 test de embarazo ultrasensible](https://m.media-amazon.com/images/I/41jeo39NmfL._SL400_.jpg)](https://www.amazon.es/dp/B07KFNF8QK/?tag=tolees-21)
 
 🔎:
 

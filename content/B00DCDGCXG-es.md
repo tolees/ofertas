@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 28.67 % en Caterpillar Colorado  Botas Hombre  Beig'
 date: 2020-05-14 06:49:26
-image: 'https://m.media-amazon.com/images/I/51SLDqyXMaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51SLDqyXMaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '70.29666666666667'
 
 Tienes [Caterpillar Colorado  Botas Hombre  Beige  Honey Mariner   45 EU](https://www.amazon.es/dp/B00DCDGCXG/?tag=tolees-21) con un 28.67 % de descuento con precio de oferta de 73.47 EUR (original: 103.0 EUR) en el siguiente enlace!
 
-[![Caterpillar Colorado  Botas Hombre  Beig](https://m.media-amazon.com/images/I/51SLDqyXMaL._SL200_.jpg)](https://www.amazon.es/dp/B00DCDGCXG/?tag=tolees-21)
+[![Caterpillar Colorado  Botas Hombre  Beig](https://m.media-amazon.com/images/I/51SLDqyXMaL._SL400_.jpg)](https://www.amazon.es/dp/B00DCDGCXG/?tag=tolees-21)
 
 ℹ️:
 

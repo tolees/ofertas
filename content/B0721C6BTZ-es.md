@@ -2,7 +2,7 @@
 layout: post
 title: 'Dishonored: La Muerte Del Forastero al 25.00 % de descuento'
 date: 2020-06-25 10:37:22
-image: 'https://m.media-amazon.com/images/I/51vVZ45VDJL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51vVZ45VDJL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.163333333333332'
 
 Está [Dishonored: La Muerte Del Forastero](https://www.amazon.es/dp/B0721C6BTZ/?tag=tolees-21) con 25.00 de descuento por 11.25 EUR (original: 15.0 EUR) en el siguiente enlace!
 
-[![Dishonored: La Muerte Del Forastero](https://m.media-amazon.com/images/I/51vVZ45VDJL._SL200_.jpg)](https://www.amazon.es/dp/B0721C6BTZ/?tag=tolees-21)
+[![Dishonored: La Muerte Del Forastero](https://m.media-amazon.com/images/I/51vVZ45VDJL._SL400_.jpg)](https://www.amazon.es/dp/B0721C6BTZ/?tag=tolees-21)
 
 ℹ️:
 

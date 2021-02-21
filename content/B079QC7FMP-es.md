@@ -2,7 +2,7 @@
 layout: post
 title: 'Corsair HS60 Surround 7.1 - Auriculares  al 25.00 % de descuento'
 date: 2020-02-17 08:15:44
-image: 'https://m.media-amazon.com/images/I/41SqkVbfLkL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41SqkVbfLkL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '57.49'
 
 Ahora mismo tienes [Corsair HS60 Surround 7.1 - Auriculares Gaming con micrófono Desmontable  para PC/PS4/Xbox/Switch/móvil   Blanco](https://www.amazon.es/dp/B079QC7FMP/?tag=tolees-21) a 59.99 EUR (original: 79.99 EUR) (25.00 %  de descuento) en el siguiente enlace!
 
-[![Corsair HS60 Surround 7.1 - Auriculares ](https://m.media-amazon.com/images/I/41SqkVbfLkL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B079QC7FMP/?tag=tolees-21)
+[![Corsair HS60 Surround 7.1 - Auriculares ](https://m.media-amazon.com/images/I/41SqkVbfLkL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B079QC7FMP/?tag=tolees-21)
 
 🔎:
 

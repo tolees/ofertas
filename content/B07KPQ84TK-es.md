@@ -2,7 +2,7 @@
 layout: post
 title: 'GANT The Original Pique SS Rugger Polo   al 28.60 % de rebaja'
 date: 2020-01-22 03:05:34
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41zuHOksddL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41zuHOksddL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '36.7'
 
 Tienes [GANT The Original Pique SS Rugger Polo  Rojo  Purpur 542   Medium para Hombre](https://www.amazon.es/dp/B07KPQ84TK/?tag=tolees-21) con precio final de  34.95 EUR (original: 48.95 EUR) (28.60 %  de rebaja) aqui!
 
-[![GANT The Original Pique SS Rugger Polo  ](https://images-eu.ssl-images-amazon.com/images/I/41zuHOksddL._SL200_.jpg)](https://www.amazon.es/dp/B07KPQ84TK/?tag=tolees-21)
+[![GANT The Original Pique SS Rugger Polo  ](https://images-eu.ssl-images-amazon.com/images/I/41zuHOksddL._SL400_.jpg)](https://www.amazon.es/dp/B07KPQ84TK/?tag=tolees-21)
 
 🔎:
 

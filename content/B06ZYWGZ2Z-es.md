@@ -2,7 +2,7 @@
 layout: post
 title: 'Distinct 2 Pares Negro Mallas Malla de C al 44.80 % de descuento'
 date: 2020-05-11 19:46:15
-image: 'https://m.media-amazon.com/images/I/518tvTGVg+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/518tvTGVg+L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.08'
 
 Ahora mismo tienes [Distinct 2 Pares Negro Mallas Malla de Calcetines Cortos](https://www.amazon.es/dp/B06ZYWGZ2Z/?tag=tolees-21) a 3.08 EUR (original: 5.58 EUR) (44.80 %  de descuento) en el siguiente enlace!
 
-[![Distinct 2 Pares Negro Mallas Malla de C](https://m.media-amazon.com/images/I/518tvTGVg+L._SL200_.jpg)](https://www.amazon.es/dp/B06ZYWGZ2Z/?tag=tolees-21)
+[![Distinct 2 Pares Negro Mallas Malla de C](https://m.media-amazon.com/images/I/518tvTGVg+L._SL400_.jpg)](https://www.amazon.es/dp/B06ZYWGZ2Z/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Kelme - Zapatillas Trueno Sala con un 50.01 % de descuento'
 date: 2020-04-28 17:08:40
-image: 'https://m.media-amazon.com/images/I/21tcHLRvcWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21tcHLRvcWL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '27.47'
 
 En este momento está [Kelme - Zapatillas Trueno Sala](https://www.amazon.es/dp/B07JYD8WGF/?tag=tolees-21) a 27.47 EUR (original: 54.95 EUR) (50.01 %  de descuento) en el siguiente enlace!
 
-[![Kelme - Zapatillas Trueno Sala](https://m.media-amazon.com/images/I/21tcHLRvcWL._SL200_.jpg)](https://www.amazon.es/dp/B07JYD8WGF/?tag=tolees-21)
+[![Kelme - Zapatillas Trueno Sala](https://m.media-amazon.com/images/I/21tcHLRvcWL._SL400_.jpg)](https://www.amazon.es/dp/B07JYD8WGF/?tag=tolees-21)
 
 🔎:
 

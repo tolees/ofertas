@@ -2,7 +2,7 @@
 layout: post
 title: 'D-Link DAP-1610 - Repetidor WiFi AC1200  al 40.01 % de rebaja'
 date: 2020-09-21 11:10:48
-image: 'https://m.media-amazon.com/images/I/31VNFeVSi3L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31VNFeVSi3L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.785555555555558'
 
 Tienes [D-Link DAP-1610 - Repetidor WiFi AC1200  1200 Mbps  Puerto de Red 10/100 Mbps  botón WPS  Antenas externas   Blanco](https://www.amazon.es/dp/B078PKX4QK/?tag=tolees-21) con precio final de  23.99 EUR (original: 39.99 EUR) (40.01 %  de rebaja) aqui!
 
-[![D-Link DAP-1610 - Repetidor WiFi AC1200 ](https://m.media-amazon.com/images/I/31VNFeVSi3L._SL200_.jpg)](https://www.amazon.es/dp/B078PKX4QK/?tag=tolees-21)
+[![D-Link DAP-1610 - Repetidor WiFi AC1200 ](https://m.media-amazon.com/images/I/31VNFeVSi3L._SL400_.jpg)](https://www.amazon.es/dp/B078PKX4QK/?tag=tolees-21)
 
 🔎:
 

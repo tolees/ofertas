@@ -2,7 +2,7 @@
 layout: post
 title: 'Amazon - Funda protectora para Kindle  7 al 30.81 % de descuento'
 date: 2020-04-14 17:01:01
-image: 'https://m.media-amazon.com/images/I/31XgzyxnVVL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31XgzyxnVVL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.75'
 
 Ahora mismo tienes [Amazon - Funda protectora para Kindle  7ª generación - modelo de 2014   Rojo cayena](https://www.amazon.es/dp/B00KRM6OY2/?tag=tolees-21) a 20.75 EUR (original: 29.99 EUR) (30.81 %  de descuento) en el siguiente enlace!
 
-[![Amazon - Funda protectora para Kindle  7](https://m.media-amazon.com/images/I/31XgzyxnVVL._SL200_.jpg)](https://www.amazon.es/dp/B00KRM6OY2/?tag=tolees-21)
+[![Amazon - Funda protectora para Kindle  7](https://m.media-amazon.com/images/I/31XgzyxnVVL._SL400_.jpg)](https://www.amazon.es/dp/B00KRM6OY2/?tag=tolees-21)
 
 🔎:
 

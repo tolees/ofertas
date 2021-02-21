@@ -2,7 +2,7 @@
 layout: post
 title: '1 conector coaxial SMA macho RF para cab al 39.64 % de rebaja'
 date: 2020-04-20 08:32:10
-image: 'https://m.media-amazon.com/images/I/31XRIf2tIBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31XRIf2tIBL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.02'
 
 Tienes [1 conector coaxial SMA macho RF para cable RG402.141" recto chapado en oro](https://www.amazon.es/dp/B083QYX7R9/?tag=tolees-21) con precio final de  1.02 EUR (original: 1.69 EUR) (39.64 %  de rebaja) aqui!
 
-[![1 conector coaxial SMA macho RF para cab](https://m.media-amazon.com/images/I/31XRIf2tIBL._SL200_.jpg)](https://www.amazon.es/dp/B083QYX7R9/?tag=tolees-21)
+[![1 conector coaxial SMA macho RF para cab](https://m.media-amazon.com/images/I/31XRIf2tIBL._SL400_.jpg)](https://www.amazon.es/dp/B083QYX7R9/?tag=tolees-21)
 
 🔎:
 

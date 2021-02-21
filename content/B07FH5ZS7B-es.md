@@ -2,7 +2,7 @@
 layout: post
 title: 'Element Dusk II Beanie A Gorro  Hombre   al 50.05 % de descuento'
 date: 2020-03-17 11:23:12
-image: 'https://m.media-amazon.com/images/I/41teyyqA9XL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41teyyqA9XL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.99'
 
 Ahora mismo tienes [Element Dusk II Beanie A Gorro  Hombre  Rojo  Napa Red   Talla Única](https://www.amazon.es/dp/B07FH5ZS7B/?tag=tolees-21) a 9.99 EUR (original: 20.0 EUR) (50.05 %  de descuento) en el siguiente enlace!
 
-[![Element Dusk II Beanie A Gorro  Hombre  ](https://m.media-amazon.com/images/I/41teyyqA9XL._SL200_.jpg)](https://www.amazon.es/dp/B07FH5ZS7B/?tag=tolees-21)
+[![Element Dusk II Beanie A Gorro  Hombre  ](https://m.media-amazon.com/images/I/41teyyqA9XL._SL400_.jpg)](https://www.amazon.es/dp/B07FH5ZS7B/?tag=tolees-21)
 
 🔎:
 

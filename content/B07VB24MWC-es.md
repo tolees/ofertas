@@ -2,7 +2,7 @@
 layout: post
 title: 'LUDOS Comfy Almohadillas de Espuma Visco al 50.15 % de rebaja'
 date: 2020-05-13 17:46:18
-image: 'https://m.media-amazon.com/images/I/41qVtEKgK8L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41qVtEKgK8L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.97'
 
 Tienes [LUDOS Comfy Almohadillas de Espuma Viscoelástica para Auriculares  12 Almohadillas de Nueva Generación  Lavables  Duraderas y Muy Resistentes  4 9 mm](https://www.amazon.es/dp/B07VB24MWC/?tag=tolees-21) con precio final de  9.97 EUR (original: 20.0 EUR) (50.15 %  de rebaja) aqui!
 
-[![LUDOS Comfy Almohadillas de Espuma Visco](https://m.media-amazon.com/images/I/41qVtEKgK8L._SL200_.jpg)](https://www.amazon.es/dp/B07VB24MWC/?tag=tolees-21)
+[![LUDOS Comfy Almohadillas de Espuma Visco](https://m.media-amazon.com/images/I/41qVtEKgK8L._SL400_.jpg)](https://www.amazon.es/dp/B07VB24MWC/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Helly Hansen Calshot Trunk Bañador  Homb con un 41.28 % de descuento'
 date: 2020-06-26 09:45:19
-image: 'https://m.media-amazon.com/images/I/41gEd3Ro9rL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41gEd3Ro9rL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.49'
 
 En este momento está [Helly Hansen Calshot Trunk Bañador  Hombre  Royal Blue  M](https://www.amazon.es/dp/B07ZV35S3D/?tag=tolees-21) a 23.49 EUR (original: 40.0 EUR) (41.28 %  de descuento) en el siguiente enlace!
 
-[![Helly Hansen Calshot Trunk Bañador  Homb](https://m.media-amazon.com/images/I/41gEd3Ro9rL._SL200_.jpg)](https://www.amazon.es/dp/B07ZV35S3D/?tag=tolees-21)
+[![Helly Hansen Calshot Trunk Bañador  Homb](https://m.media-amazon.com/images/I/41gEd3Ro9rL._SL400_.jpg)](https://www.amazon.es/dp/B07ZV35S3D/?tag=tolees-21)
 
 🔎:
 

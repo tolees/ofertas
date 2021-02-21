@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas X 19.2 FG  Zapatillas de Fútbol p al 47.95 % de rebaja'
 date: 2020-03-05 16:38:48
-image: 'https://m.media-amazon.com/images/I/417f3+-yJ-L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/417f3+-yJ-L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '67.64'
 
 Tienes [adidas X 19.2 FG  Zapatillas de Fútbol para Hombre  Verde  Legacy Green/Solar Orange/Chalk White Legacy Green/Solar Orange/Chalk White   40 2/3 EU](https://www.amazon.es/dp/B07SWT3X79/?tag=tolees-21) con precio final de  67.64 EUR (original: 129.95 EUR) (47.95 %  de rebaja) aqui!
 
-[![adidas X 19.2 FG  Zapatillas de Fútbol p](https://m.media-amazon.com/images/I/417f3+-yJ-L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07SWT3X79/?tag=tolees-21)
+[![adidas X 19.2 FG  Zapatillas de Fútbol p](https://m.media-amazon.com/images/I/417f3+-yJ-L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07SWT3X79/?tag=tolees-21)
 
 🔎:
 

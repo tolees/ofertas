@@ -2,7 +2,7 @@
 layout: post
 title: 'Hackett London Slim Fit Logo Polo  Azul  al 55.61 % de rebaja'
 date: 2020-08-01 12:03:04
-image: 'https://m.media-amazon.com/images/I/313QfoEFMhL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/313QfoEFMhL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '40.114999999999995'
 
 Tienes [Hackett London Slim Fit Logo Polo  Azul  5dinavy/Blue 5di   Medium para Hombre](https://www.amazon.es/dp/B07VHDKQH4/?tag=tolees-21) con precio final de  37.73 EUR (original: 85.0 EUR) (55.61 %  de rebaja) aqui!
 
-[![Hackett London Slim Fit Logo Polo  Azul ](https://m.media-amazon.com/images/I/313QfoEFMhL._SL200_.jpg)](https://www.amazon.es/dp/B07VHDKQH4/?tag=tolees-21)
+[![Hackett London Slim Fit Logo Polo  Azul ](https://m.media-amazon.com/images/I/313QfoEFMhL._SL400_.jpg)](https://www.amazon.es/dp/B07VHDKQH4/?tag=tolees-21)
 
 🔎:
 

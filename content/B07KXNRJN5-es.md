@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 30.00 % en TOUS Anillo Mujer vermeil rosado  baño r'
 date: 2020-06-22 10:24:49
-image: 'https://m.media-amazon.com/images/I/31rJTfunGRL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31rJTfunGRL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '58.86666666666667'
 
 Tienes [TOUS Anillo Mujer vermeil rosado  baño rosa de oro 18kt  talla 11 5](https://www.amazon.es/dp/B07KXNRJN5/?tag=tolees-21) con un 30.00 % de descuento con precio de oferta de 55.3 EUR (original: 79.0 EUR) en el siguiente enlace!
 
-[![TOUS Anillo Mujer vermeil rosado  baño r](https://m.media-amazon.com/images/I/31rJTfunGRL._SL200_.jpg)](https://www.amazon.es/dp/B07KXNRJN5/?tag=tolees-21)
+[![TOUS Anillo Mujer vermeil rosado  baño r](https://m.media-amazon.com/images/I/31rJTfunGRL._SL400_.jpg)](https://www.amazon.es/dp/B07KXNRJN5/?tag=tolees-21)
 
 ℹ️:
 

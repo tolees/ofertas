@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 74.65 % en DIM Generous Sujetador  Beige  New Skin '
 date: 2020-02-19 12:42:56
-image: 'https://m.media-amazon.com/images/I/41norz5v4+L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41norz5v4+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.5'
 
 Tienes [DIM Generous Sujetador  Beige  New Skin   90D para Mujer](https://www.amazon.es/dp/B01C45XNBQ/?tag=tolees-21) con un 74.65 % de descuento con precio de oferta de 9.0 EUR (original: 35.5 EUR) en el siguiente enlace!
 
-[![DIM Generous Sujetador  Beige  New Skin ](https://m.media-amazon.com/images/I/41norz5v4+L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01C45XNBQ/?tag=tolees-21)
+[![DIM Generous Sujetador  Beige  New Skin ](https://m.media-amazon.com/images/I/41norz5v4+L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01C45XNBQ/?tag=tolees-21)
 
 ℹ️:
 

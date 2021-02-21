@@ -2,7 +2,7 @@
 layout: post
 title: 'NIKE M CFD Pant FLC TM Club19 Pantalones con un 37.78 % de descuento'
 date: 2020-09-27 09:42:20
-image: 'https://m.media-amazon.com/images/I/41qHQy4FudL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41qHQy4FudL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '28.0'
 
 En este momento está [NIKE M CFD Pant FLC TM Club19 Pantalones de Deporte  Hombre  Charcoal Heathr/White/White  2XL](https://www.amazon.es/dp/B07N4MQC8F/?tag=tolees-21) a 28.0 EUR (original: 45.0 EUR) (37.78 %  de descuento) en el siguiente enlace!
 
-[![NIKE M CFD Pant FLC TM Club19 Pantalones](https://m.media-amazon.com/images/I/41qHQy4FudL._SL200_.jpg)](https://www.amazon.es/dp/B07N4MQC8F/?tag=tolees-21)
+[![NIKE M CFD Pant FLC TM Club19 Pantalones](https://m.media-amazon.com/images/I/41qHQy4FudL._SL400_.jpg)](https://www.amazon.es/dp/B07N4MQC8F/?tag=tolees-21)
 
 🔎:
 

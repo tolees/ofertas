@@ -2,7 +2,7 @@
 layout: post
 title: 'Saucony Jazz 21  Zapatillas De Running p al 58.36 % de descuento'
 date: 2020-05-18 11:06:05
-image: 'https://m.media-amazon.com/images/I/417mL8RjqTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/417mL8RjqTL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '49.95'
 
 Está [Saucony Jazz 21  Zapatillas De Running para Hombre  Azul Aguamarina  42 EU](https://www.amazon.es/dp/B07T6KVDW6/?tag=tolees-21) con 58.36 de descuento por 49.95 EUR (original: 119.95 EUR) en el siguiente enlace!
 
-[![Saucony Jazz 21  Zapatillas De Running p](https://m.media-amazon.com/images/I/417mL8RjqTL._SL200_.jpg)](https://www.amazon.es/dp/B07T6KVDW6/?tag=tolees-21)
+[![Saucony Jazz 21  Zapatillas De Running p](https://m.media-amazon.com/images/I/417mL8RjqTL._SL400_.jpg)](https://www.amazon.es/dp/B07T6KVDW6/?tag=tolees-21)
 
 ℹ️:
 

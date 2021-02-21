@@ -2,7 +2,7 @@
 layout: post
 title: 'Adidas LITE RACER CLN I  Zapatillas de d con un 31.36 % de descuento'
 date: 2020-06-15 11:35:53
-image: 'https://m.media-amazon.com/images/I/41Hul2gXU+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Hul2gXU+L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.99'
 
 En este momento está [Adidas LITE RACER CLN I  Zapatillas de deporte Unisex niños  Blanco  Bb7053 Blanco   21 EU](https://www.amazon.es/dp/B07D8ZF78X/?tag=tolees-21) a 23.99 EUR (original: 34.95 EUR) (31.36 %  de descuento) en el siguiente enlace!
 
-[![Adidas LITE RACER CLN I  Zapatillas de d](https://m.media-amazon.com/images/I/41Hul2gXU+L._SL200_.jpg)](https://www.amazon.es/dp/B07D8ZF78X/?tag=tolees-21)
+[![Adidas LITE RACER CLN I  Zapatillas de d](https://m.media-amazon.com/images/I/41Hul2gXU+L._SL400_.jpg)](https://www.amazon.es/dp/B07D8ZF78X/?tag=tolees-21)
 
 🔎:
 

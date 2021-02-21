@@ -2,7 +2,7 @@
 layout: post
 title: 'JACK & JONES JFWORCA Leather 19 STS  Chu al 56.83 % de descuento'
 date: 2020-08-28 14:57:55
-image: 'https://m.media-amazon.com/images/I/31pGBlFOmuL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31pGBlFOmuL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '43.17'
 
 Ahora mismo tienes [JACK & JONES JFWORCA Leather 19 STS  Chukka Boots para Hombre  Marrón Cognac Cognac   40 EU](https://www.amazon.es/dp/B07R7BHBYS/?tag=tolees-21) a 43.17 EUR (original: 99.99 EUR) (56.83 %  de descuento) en el siguiente enlace!
 
-[![JACK & JONES JFWORCA Leather 19 STS  Chu](https://m.media-amazon.com/images/I/31pGBlFOmuL._SL200_.jpg)](https://www.amazon.es/dp/B07R7BHBYS/?tag=tolees-21)
+[![JACK & JONES JFWORCA Leather 19 STS  Chu](https://m.media-amazon.com/images/I/31pGBlFOmuL._SL400_.jpg)](https://www.amazon.es/dp/B07R7BHBYS/?tag=tolees-21)
 
 🔎:
 

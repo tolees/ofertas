@@ -2,7 +2,7 @@
 layout: post
 title: 'Gin The Botanical s - Ginebra - Botella  al 35.26 % de rebaja'
 date: 2020-10-11 15:33:42
-image: 'https://m.media-amazon.com/images/I/31l16R1eLTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31l16R1eLTL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '25.943333333333335'
 
 Tienes [Gin The Botanical s - Ginebra - Botella 70 cl](https://www.amazon.es/dp/B009T4BUX4/?tag=tolees-21) con precio final de  23.45 EUR (original: 36.22 EUR) (35.26 %  de rebaja) aqui!
 
-[![Gin The Botanical s - Ginebra - Botella ](https://m.media-amazon.com/images/I/31l16R1eLTL._SL200_.jpg)](https://www.amazon.es/dp/B009T4BUX4/?tag=tolees-21)
+[![Gin The Botanical s - Ginebra - Botella ](https://m.media-amazon.com/images/I/31l16R1eLTL._SL400_.jpg)](https://www.amazon.es/dp/B009T4BUX4/?tag=tolees-21)
 
 🔎:
 

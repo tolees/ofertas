@@ -2,7 +2,7 @@
 layout: post
 title: 'find. Zapatillas Clásicas con Cordones p al 54.77 % de descuento'
 date: 2020-05-01 06:11:20
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31Ec1aSgDjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Ec1aSgDjL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.1'
 
 Está [find. Zapatillas Clásicas con Cordones para Hombre  Azul  Navy   43 EU](https://www.amazon.es/dp/B072FM1MLN/?tag=tolees-21) con 54.77 de descuento por 8.1 EUR (original: 17.91 EUR) en el siguiente enlace!
 
-[![find. Zapatillas Clásicas con Cordones p](https://images-eu.ssl-images-amazon.com/images/I/31Ec1aSgDjL._SL200_.jpg)](https://www.amazon.es/dp/B072FM1MLN/?tag=tolees-21)
+[![find. Zapatillas Clásicas con Cordones p](https://images-eu.ssl-images-amazon.com/images/I/31Ec1aSgDjL._SL400_.jpg)](https://www.amazon.es/dp/B072FM1MLN/?tag=tolees-21)
 
 ℹ️:
 

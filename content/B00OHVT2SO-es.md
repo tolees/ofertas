@@ -2,7 +2,7 @@
 layout: post
 title: 'Marshall Mode EQ - Auriculares in-ear  c al 36.72 % de descuento'
 date: 2020-10-09 12:15:02
-image: 'https://m.media-amazon.com/images/I/31EYC5PtiaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31EYC5PtiaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '45.70428571428572'
 
 Ahora mismo tienes [Marshall Mode EQ - Auriculares in-ear  color negro](https://www.amazon.es/dp/B00OHVT2SO/?tag=tolees-21) a 49.99 EUR (original: 79.0 EUR) (36.72 %  de descuento) en el siguiente enlace!
 
-[![Marshall Mode EQ - Auriculares in-ear  c](https://m.media-amazon.com/images/I/31EYC5PtiaL._SL200_.jpg)](https://www.amazon.es/dp/B00OHVT2SO/?tag=tolees-21)
+[![Marshall Mode EQ - Auriculares in-ear  c](https://m.media-amazon.com/images/I/31EYC5PtiaL._SL400_.jpg)](https://www.amazon.es/dp/B00OHVT2SO/?tag=tolees-21)
 
 🔎:
 

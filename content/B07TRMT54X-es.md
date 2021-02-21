@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s Graphic Sport Capucha  Blanco  Ho al 60.68 % de rebaja'
 date: 2020-08-24 12:08:27
-image: 'https://m.media-amazon.com/images/I/31HImJA3cgL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31HImJA3cgL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.49'
 
 Tienes [Levi s Graphic Sport Capucha  Blanco  Hoodie Filled Brw T2 White+ 0119   L para Mujer](https://www.amazon.es/dp/B07TRMT54X/?tag=tolees-21) con precio final de  29.49 EUR (original: 75.0 EUR) (60.68 %  de rebaja) aqui!
 
-[![Levi s Graphic Sport Capucha  Blanco  Ho](https://m.media-amazon.com/images/I/31HImJA3cgL._SL200_.jpg)](https://www.amazon.es/dp/B07TRMT54X/?tag=tolees-21)
+[![Levi s Graphic Sport Capucha  Blanco  Ho](https://m.media-amazon.com/images/I/31HImJA3cgL._SL400_.jpg)](https://www.amazon.es/dp/B07TRMT54X/?tag=tolees-21)
 
 🔎:
 

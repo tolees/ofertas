@@ -2,7 +2,7 @@
 layout: post
 title: 'Mr. Tronic 20m Cable de Red Plano Ethern al 25.02 % de descuento'
 date: 2020-02-19 00:51:00
-image: 'https://m.media-amazon.com/images/I/41WpXRjcLeL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41WpXRjcLeL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.99'
 
 Ahora mismo tienes [Mr. Tronic 20m Cable de Red Plano Ethernet Latiguillo | CAT6  AWG24  CCA  UTP  RJ45  20 Metros  Blanco ](https://www.amazon.es/dp/B07SRXTXDW/?tag=tolees-21) a 11.99 EUR (original: 15.99 EUR) (25.02 %  de descuento) en el siguiente enlace!
 
-[![Mr. Tronic 20m Cable de Red Plano Ethern](https://m.media-amazon.com/images/I/41WpXRjcLeL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07SRXTXDW/?tag=tolees-21)
+[![Mr. Tronic 20m Cable de Red Plano Ethern](https://m.media-amazon.com/images/I/41WpXRjcLeL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07SRXTXDW/?tag=tolees-21)
 
 🔎:
 

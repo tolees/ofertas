@@ -2,7 +2,7 @@
 layout: post
 title: 'Adidas N-5923 J Zapatillas de Gimnasia U con un 49.19 % de descuento'
 date: 2020-05-17 08:36:43
-image: 'https://m.media-amazon.com/images/I/41jZJcUHk5L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41jZJcUHk5L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '34.26333333333333'
 
 En este momento está [Adidas N-5923 J Zapatillas de Gimnasia Unisex Niños  Azul  Legend Marine/Ftwr White/Legend Marine Legend Marine/Ftwr White/Legend Marine   38 2/3 EU](https://www.amazon.es/dp/B07K13VF3N/?tag=tolees-21) a 33.0 EUR (original: 64.95 EUR) (49.19 %  de descuento) en el siguiente enlace!
 
-[![Adidas N-5923 J Zapatillas de Gimnasia U](https://m.media-amazon.com/images/I/41jZJcUHk5L._SL200_.jpg)](https://www.amazon.es/dp/B07K13VF3N/?tag=tolees-21)
+[![Adidas N-5923 J Zapatillas de Gimnasia U](https://m.media-amazon.com/images/I/41jZJcUHk5L._SL400_.jpg)](https://www.amazon.es/dp/B07K13VF3N/?tag=tolees-21)
 
 🔎:
 

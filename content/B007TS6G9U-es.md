@@ -2,7 +2,7 @@
 layout: post
 title: 'Arcos Universal - Taco de 5 cuchillos y  al 26.18 % de rebaja'
 date: 2020-05-27 21:13:25
-image: 'https://m.media-amazon.com/images/I/41ej1Fq6VEL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ej1Fq6VEL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '112.39'
 
 Tienes [Arcos Universal - Taco de 5 cuchillos y tijera  6pzs ](https://www.amazon.es/dp/B007TS6G9U/?tag=tolees-21) con precio final de  112.39 EUR (original: 152.24 EUR) (26.18 %  de rebaja) aqui!
 
-[![Arcos Universal - Taco de 5 cuchillos y ](https://m.media-amazon.com/images/I/41ej1Fq6VEL._SL200_.jpg)](https://www.amazon.es/dp/B007TS6G9U/?tag=tolees-21)
+[![Arcos Universal - Taco de 5 cuchillos y ](https://m.media-amazon.com/images/I/41ej1Fq6VEL._SL400_.jpg)](https://www.amazon.es/dp/B007TS6G9U/?tag=tolees-21)
 
 🔎:
 

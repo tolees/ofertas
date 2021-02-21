@@ -2,7 +2,7 @@
 layout: post
 title: 'Autan Family Care Aerosol  Repelente de  con un 29.90 % de descuento'
 date: 2020-08-27 15:38:29
-image: 'https://m.media-amazon.com/images/I/41qejj3ChvL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41qejj3ChvL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.990833333333334'
 
 En este momento está [Autan Family Care Aerosol  Repelente de Mosquitos e Insectos - 100 ml](https://www.amazon.es/dp/B07PTSDW3B/?tag=tolees-21) a 4.9 EUR (original: 6.99 EUR) (29.90 %  de descuento) en el siguiente enlace!
 
-[![Autan Family Care Aerosol  Repelente de ](https://m.media-amazon.com/images/I/41qejj3ChvL._SL200_.jpg)](https://www.amazon.es/dp/B07PTSDW3B/?tag=tolees-21)
+[![Autan Family Care Aerosol  Repelente de ](https://m.media-amazon.com/images/I/41qejj3ChvL._SL400_.jpg)](https://www.amazon.es/dp/B07PTSDW3B/?tag=tolees-21)
 
 🔎:
 

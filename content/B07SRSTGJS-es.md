@@ -2,7 +2,7 @@
 layout: post
 title: 'DC Shoes Switch  Zapatillas de Skateboar al 47.16 % de descuento'
 date: 2020-06-30 19:58:34
-image: 'https://m.media-amazon.com/images/I/311KwQTmFEL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/311KwQTmFEL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '36.99'
 
 Ahora mismo tienes [DC Shoes Switch  Zapatillas de Skateboard para Hombre  Negro  Black/Battleship/Black Kbk   46.5 EU](https://www.amazon.es/dp/B07SRSTGJS/?tag=tolees-21) a 36.99 EUR (original: 70.0 EUR) (47.16 %  de descuento) en el siguiente enlace!
 
-[![DC Shoes Switch  Zapatillas de Skateboar](https://m.media-amazon.com/images/I/311KwQTmFEL._SL200_.jpg)](https://www.amazon.es/dp/B07SRSTGJS/?tag=tolees-21)
+[![DC Shoes Switch  Zapatillas de Skateboar](https://m.media-amazon.com/images/I/311KwQTmFEL._SL400_.jpg)](https://www.amazon.es/dp/B07SRSTGJS/?tag=tolees-21)
 
 🔎:
 

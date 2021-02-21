@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 25.47 % en Orbegozo CM 2360 - Crepera eléctrica  su'
 date: 2020-04-25 14:57:25
-image: 'https://m.media-amazon.com/images/I/31PXq5P76xL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31PXq5P76xL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.75'
 
 Tienes [Orbegozo CM 2360 - Crepera eléctrica  superficie antiadherente de 30 cm de diámetro   temperatura regulable  1000 W de potencia](https://www.amazon.es/dp/B01LLH5BNQ/?tag=tolees-21) con un 25.47 % de descuento con precio de oferta de 19.75 EUR (original: 26.5 EUR) en el siguiente enlace!
 
-[![Orbegozo CM 2360 - Crepera eléctrica  su](https://m.media-amazon.com/images/I/31PXq5P76xL._SL200_.jpg)](https://www.amazon.es/dp/B01LLH5BNQ/?tag=tolees-21)
+[![Orbegozo CM 2360 - Crepera eléctrica  su](https://m.media-amazon.com/images/I/31PXq5P76xL._SL400_.jpg)](https://www.amazon.es/dp/B01LLH5BNQ/?tag=tolees-21)
 
 ℹ️:
 

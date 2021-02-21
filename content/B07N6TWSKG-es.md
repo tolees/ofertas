@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger Fashion Mix Sneaker  Zapa al 27.99 % de descuento'
 date: 2020-03-29 10:33:35
-image: 'https://m.media-amazon.com/images/I/41YbElI74eL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41YbElI74eL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '35.09'
 
 Está [Tommy Hilfiger Fashion Mix Sneaker  Zapatillas para Hombre  White Ybs  44 EU](https://www.amazon.es/dp/B07N6TWSKG/?tag=tolees-21) con 27.99 de descuento por 29.22 EUR (original: 40.58 EUR) en el siguiente enlace!
 
-[![Tommy Hilfiger Fashion Mix Sneaker  Zapa](https://m.media-amazon.com/images/I/41YbElI74eL._SL200_.jpg)](https://www.amazon.es/dp/B07N6TWSKG/?tag=tolees-21)
+[![Tommy Hilfiger Fashion Mix Sneaker  Zapa](https://m.media-amazon.com/images/I/41YbElI74eL._SL400_.jpg)](https://www.amazon.es/dp/B07N6TWSKG/?tag=tolees-21)
 
 ℹ️:
 

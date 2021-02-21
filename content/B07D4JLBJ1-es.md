@@ -2,7 +2,7 @@
 layout: post
 title: 'S&R Disco de corte 125 mm para Metal y H al 40.47 % de descuento'
 date: 2020-05-23 13:16:05
-image: 'https://m.media-amazon.com/images/I/61WQshbhqqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61WQshbhqqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.99'
 
 Está [S&R Disco de corte 125 mm para Metal y Hierro 125 x2  0x22  23 mm A30 S-BF para uso profesional. Juego de 25 discos 125 metal para amoladora angular.](https://www.amazon.es/dp/B07D4JLBJ1/?tag=tolees-21) con 40.47 de descuento por 18.99 EUR (original: 31.9 EUR) en el siguiente enlace!
 
-[![S&R Disco de corte 125 mm para Metal y H](https://m.media-amazon.com/images/I/61WQshbhqqL._SL200_.jpg)](https://www.amazon.es/dp/B07D4JLBJ1/?tag=tolees-21)
+[![S&R Disco de corte 125 mm para Metal y H](https://m.media-amazon.com/images/I/61WQshbhqqL._SL400_.jpg)](https://www.amazon.es/dp/B07D4JLBJ1/?tag=tolees-21)
 
 ℹ️:
 

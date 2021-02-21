@@ -2,7 +2,7 @@
 layout: post
 title: 'Bourjois Velvet The Lipstick Barra De La con un 70.55 % de descuento'
 date: 2020-03-18 12:03:30
-image: 'https://m.media-amazon.com/images/I/31J2cBiXmaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31J2cBiXmaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.93'
 
 En este momento está [Bourjois Velvet The Lipstick Barra De Labios Tono 023 Taupe of Paris - 23 gr](https://www.amazon.es/dp/B07GSD3PFX/?tag=tolees-21) a 2.93 EUR (original: 9.95 EUR) (70.55 %  de descuento) en el siguiente enlace!
 
-[![Bourjois Velvet The Lipstick Barra De La](https://m.media-amazon.com/images/I/31J2cBiXmaL._SL200_.jpg)](https://www.amazon.es/dp/B07GSD3PFX/?tag=tolees-21)
+[![Bourjois Velvet The Lipstick Barra De La](https://m.media-amazon.com/images/I/31J2cBiXmaL._SL400_.jpg)](https://www.amazon.es/dp/B07GSD3PFX/?tag=tolees-21)
 
 🔎:
 

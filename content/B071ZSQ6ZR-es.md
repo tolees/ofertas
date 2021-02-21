@@ -2,7 +2,7 @@
 layout: post
 title: 'Reebok Club C 85  Zapatillas para Mujer  al 37.25 % de descuento'
 date: 2020-05-19 00:54:47
-image: 'https://m.media-amazon.com/images/I/41y40cx0Z+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41y40cx0Z+L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '50.17'
 
 Está [Reebok Club C 85  Zapatillas para Mujer  Blanco  White/Light Grey 0   40 EU](https://www.amazon.es/dp/B071ZSQ6ZR/?tag=tolees-21) con 37.25 de descuento por 50.17 EUR (original: 79.95 EUR) en el siguiente enlace!
 
-[![Reebok Club C 85  Zapatillas para Mujer ](https://m.media-amazon.com/images/I/41y40cx0Z+L._SL200_.jpg)](https://www.amazon.es/dp/B071ZSQ6ZR/?tag=tolees-21)
+[![Reebok Club C 85  Zapatillas para Mujer ](https://m.media-amazon.com/images/I/41y40cx0Z+L._SL400_.jpg)](https://www.amazon.es/dp/B071ZSQ6ZR/?tag=tolees-21)
 
 ℹ️:
 

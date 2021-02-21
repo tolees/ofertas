@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 39.30 % en Neutrogena Bálsamo Nariz y Labios Repara'
 date: 2020-06-14 19:10:42
-image: 'https://m.media-amazon.com/images/I/41m94GtveOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41m94GtveOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.652'
 
 Tienes [Neutrogena Bálsamo Nariz y Labios Reparación Intensa - 15 ml.](https://www.amazon.es/dp/B00M75MEXW/?tag=tolees-21) con un 39.30 % de descuento con precio de oferta de 4.34 EUR (original: 7.15 EUR) en el siguiente enlace!
 
-[![Neutrogena Bálsamo Nariz y Labios Repara](https://m.media-amazon.com/images/I/41m94GtveOL._SL200_.jpg)](https://www.amazon.es/dp/B00M75MEXW/?tag=tolees-21)
+[![Neutrogena Bálsamo Nariz y Labios Repara](https://m.media-amazon.com/images/I/41m94GtveOL._SL400_.jpg)](https://www.amazon.es/dp/B00M75MEXW/?tag=tolees-21)
 
 ℹ️:
 

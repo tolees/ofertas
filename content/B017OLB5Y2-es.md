@@ -2,7 +2,7 @@
 layout: post
 title: 'Schwarzkopf Professional BC Excellium Be al 31.63 % de descuento'
 date: 2020-02-22 04:57:05
-image: 'https://m.media-amazon.com/images/I/312JTNKxXGL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/312JTNKxXGL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.7'
 
 Ahora mismo tienes [Schwarzkopf Professional BC Excellium Beautifying Shampoo Champú - 200 ml](https://www.amazon.es/dp/B017OLB5Y2/?tag=tolees-21) a 6.7 EUR (original: 9.8 EUR) (31.63 %  de descuento) en el siguiente enlace!
 
-[![Schwarzkopf Professional BC Excellium Be](https://m.media-amazon.com/images/I/312JTNKxXGL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B017OLB5Y2/?tag=tolees-21)
+[![Schwarzkopf Professional BC Excellium Be](https://m.media-amazon.com/images/I/312JTNKxXGL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B017OLB5Y2/?tag=tolees-21)
 
 🔎:
 

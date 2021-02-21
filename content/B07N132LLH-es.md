@@ -2,7 +2,7 @@
 layout: post
 title: 'Skechers Go Run Fast  Sneaker Donna    N al 30.03 % de descuento'
 date: 2020-01-28 08:04:57
-image: 'https://m.media-amazon.com/images/I/41rB4HPOLXL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41rB4HPOLXL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '41.95'
 
 Ahora mismo tienes [Skechers Go Run Fast  Sneaker Donna    Navy Textile/Coral Trim Nvcl  39 EU](https://www.amazon.es/dp/B07N132LLH/?tag=tolees-21) a 41.95 EUR (original: 59.95 EUR) (30.03 %  de descuento) en el siguiente enlace!
 
-[![Skechers Go Run Fast  Sneaker Donna    N](https://m.media-amazon.com/images/I/41rB4HPOLXL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07N132LLH/?tag=tolees-21)
+[![Skechers Go Run Fast  Sneaker Donna    N](https://m.media-amazon.com/images/I/41rB4HPOLXL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07N132LLH/?tag=tolees-21)
 
 🔎:
 

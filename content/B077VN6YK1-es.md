@@ -2,7 +2,7 @@
 layout: post
 title: 'Victoria Basket Lona Dos Velcros  Zapati al 67.22 % de descuento'
 date: 2020-02-15 07:04:28
-image: 'https://m.media-amazon.com/images/I/41k6AhnQXCL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41k6AhnQXCL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.8'
 
 Está [Victoria Basket Lona Dos Velcros  Zapatillas Unisex Niños  Gris  Zinc   22 EU](https://www.amazon.es/dp/B077VN6YK1/?tag=tolees-21) con 67.22 de descuento por 9.8 EUR (original: 29.9 EUR) en el siguiente enlace!
 
-[![Victoria Basket Lona Dos Velcros  Zapati](https://m.media-amazon.com/images/I/41k6AhnQXCL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B077VN6YK1/?tag=tolees-21)
+[![Victoria Basket Lona Dos Velcros  Zapati](https://m.media-amazon.com/images/I/41k6AhnQXCL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B077VN6YK1/?tag=tolees-21)
 
 ℹ️:
 

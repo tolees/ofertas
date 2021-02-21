@@ -2,7 +2,7 @@
 layout: post
 title: 'HP Q7553X - Cartucho de tóner al 55.30 % de descuento'
 date: 2020-01-14 03:30:14
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51J-gybvPEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51J-gybvPEL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '105.0'
 
 Ahora mismo tienes [HP Q7553X - Cartucho de tóner](https://www.amazon.es/dp/B000JGG7HA/?tag=tolees-21) a 105 EUR (original: 234.9 EUR) (55.30 %  de descuento) en el siguiente enlace!
 
-[![HP Q7553X - Cartucho de tóner](https://images-eu.ssl-images-amazon.com/images/I/51J-gybvPEL._SL200_.jpg)](https://www.amazon.es/dp/B000JGG7HA/?tag=tolees-21)
+[![HP Q7553X - Cartucho de tóner](https://images-eu.ssl-images-amazon.com/images/I/51J-gybvPEL._SL400_.jpg)](https://www.amazon.es/dp/B000JGG7HA/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'RioRiva Calcetines de colores envueltos  al 41.21 % de descuento'
 date: 2020-06-13 21:31:13
-image: 'https://m.media-amazon.com/images/I/51AFllT8vnL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51AFllT8vnL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.59'
 
 Está [RioRiva Calcetines de colores envueltos para regalo para hombres en 90% algodón  bonito diseño en media pantorrilla  estilo colorido](https://www.amazon.es/dp/B07HMLTG6K/?tag=tolees-21) con 41.21 de descuento por 19.99 EUR (original: 34.0 EUR) en el siguiente enlace!
 
-[![RioRiva Calcetines de colores envueltos ](https://m.media-amazon.com/images/I/51AFllT8vnL._SL200_.jpg)](https://www.amazon.es/dp/B07HMLTG6K/?tag=tolees-21)
+[![RioRiva Calcetines de colores envueltos ](https://m.media-amazon.com/images/I/51AFllT8vnL._SL400_.jpg)](https://www.amazon.es/dp/B07HMLTG6K/?tag=tolees-21)
 
 ℹ️:
 

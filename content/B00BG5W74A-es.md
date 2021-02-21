@@ -2,7 +2,7 @@
 layout: post
 title: 'Bosch ErgoMixx MSM66150 - Batidora de ma al 50.83 % de rebaja'
 date: 2020-06-06 19:06:27
-image: 'https://m.media-amazon.com/images/I/41VSx9lzSFL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41VSx9lzSFL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '38.3'
 
 Tienes [Bosch ErgoMixx MSM66150 - Batidora de mano  600 W  con vaso de mezclas  picador y varilla batidora  color blanco y gris](https://www.amazon.es/dp/B00BG5W74A/?tag=tolees-21) con precio final de  38.3 EUR (original: 77.9 EUR) (50.83 %  de rebaja) aqui!
 
-[![Bosch ErgoMixx MSM66150 - Batidora de ma](https://m.media-amazon.com/images/I/41VSx9lzSFL._SL200_.jpg)](https://www.amazon.es/dp/B00BG5W74A/?tag=tolees-21)
+[![Bosch ErgoMixx MSM66150 - Batidora de ma](https://m.media-amazon.com/images/I/41VSx9lzSFL._SL400_.jpg)](https://www.amazon.es/dp/B00BG5W74A/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 53.61 % en Dunlop Fusion Elite Amarilla 2019'
 date: 2020-06-28 22:32:58
-image: 'https://m.media-amazon.com/images/I/41Ik7q7-pXL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Ik7q7-pXL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '64.95'
 
 Tienes [Dunlop Fusion Elite Amarilla 2019](https://www.amazon.es/dp/B085RXRMGL/?tag=tolees-21) con un 53.61 % de descuento con precio de oferta de 64.95 EUR (original: 140.0 EUR) en el siguiente enlace!
 
-[![Dunlop Fusion Elite Amarilla 2019](https://m.media-amazon.com/images/I/41Ik7q7-pXL._SL200_.jpg)](https://www.amazon.es/dp/B085RXRMGL/?tag=tolees-21)
+[![Dunlop Fusion Elite Amarilla 2019](https://m.media-amazon.com/images/I/41Ik7q7-pXL._SL400_.jpg)](https://www.amazon.es/dp/B085RXRMGL/?tag=tolees-21)
 
 ℹ️:
 

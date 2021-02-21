@@ -2,7 +2,7 @@
 layout: post
 title: 'Hackett London Archive Colour Block Polo al 77.60 % de descuento'
 date: 2020-01-16 09:26:17
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31XNSJ2fCXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31XNSJ2fCXL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '26.88'
 
 Ahora mismo tienes [Hackett London Archive Colour Block Polo  Multicolor  Red/Navy 2a2   Small para Hombre](https://www.amazon.es/dp/B07JC7WCGR/?tag=tolees-21) a 26.88 EUR (original: 120 EUR) (77.60 %  de descuento) en el siguiente enlace!
 
-[![Hackett London Archive Colour Block Polo](https://images-eu.ssl-images-amazon.com/images/I/31XNSJ2fCXL._SL200_.jpg)](https://www.amazon.es/dp/B07JC7WCGR/?tag=tolees-21)
+[![Hackett London Archive Colour Block Polo](https://images-eu.ssl-images-amazon.com/images/I/31XNSJ2fCXL._SL400_.jpg)](https://www.amazon.es/dp/B07JC7WCGR/?tag=tolees-21)
 
 🔎:
 

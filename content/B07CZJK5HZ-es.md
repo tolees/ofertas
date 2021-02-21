@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 48.60 % en Under Armour Tech 6in 2 Pack Ropa Interi'
 date: 2020-06-24 06:03:16
-image: 'https://m.media-amazon.com/images/I/419Oi8TvauL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/419Oi8TvauL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.32333333333333'
 
 Tienes [Under Armour Tech 6in 2 Pack Ropa Interior  Hombre  Azul  Academy/Mod Gray Light Heather 409   M](https://www.amazon.es/dp/B07CZJK5HZ/?tag=tolees-21) con un 48.60 % de descuento con precio de oferta de 17.99 EUR (original: 35.0 EUR) en el siguiente enlace!
 
-[![Under Armour Tech 6in 2 Pack Ropa Interi](https://m.media-amazon.com/images/I/419Oi8TvauL._SL200_.jpg)](https://www.amazon.es/dp/B07CZJK5HZ/?tag=tolees-21)
+[![Under Armour Tech 6in 2 Pack Ropa Interi](https://m.media-amazon.com/images/I/419Oi8TvauL._SL400_.jpg)](https://www.amazon.es/dp/B07CZJK5HZ/?tag=tolees-21)
 
 ℹ️:
 

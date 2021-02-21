@@ -2,7 +2,7 @@
 layout: post
 title: 'Philips D4702B/34 - Pack de 2 Teléfonos  al 30.90 % de descuento'
 date: 2020-06-14 21:10:36
-image: 'https://m.media-amazon.com/images/I/31xtTTxj-KL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31xtTTxj-KL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '48.36'
 
 Ahora mismo tienes [Philips D4702B/34 - Pack de 2 Teléfonos Fijos Inalámbricos  Retroiluminación  HQ-Sound  16 Horas  Contacto 2 Números  Manos Libres  My Sound  Modo Privado  Despertador  Indicador Evento  Eco+  Negro](https://www.amazon.es/dp/B07YLDHLDP/?tag=tolees-21) a 48.36 EUR (original: 69.99 EUR) (30.90 %  de descuento) en el siguiente enlace!
 
-[![Philips D4702B/34 - Pack de 2 Teléfonos ](https://m.media-amazon.com/images/I/31xtTTxj-KL._SL200_.jpg)](https://www.amazon.es/dp/B07YLDHLDP/?tag=tolees-21)
+[![Philips D4702B/34 - Pack de 2 Teléfonos ](https://m.media-amazon.com/images/I/31xtTTxj-KL._SL400_.jpg)](https://www.amazon.es/dp/B07YLDHLDP/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 50.51 % en OFERTAS DEL DÍA - 180 Cosmetics - El paq'
 date: 2020-01-22 19:07:14
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51fEIxJ6nBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51fEIxJ6nBL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.29'
 
 Tienes [OFERTAS DEL DÍA - 180 Cosmetics - El paquete "potenciador de vitamina C" - Pure Hyaluronic Acid Serum + Vitamin C + Pure Hyaluronic Acid Serum + Vitamin C FORTE. ¡DOS PRODUCTOS ASOMBROSOS A UN PRECIO INCREÍBLE!](https://www.amazon.es/dp/B00NNIBJVA/?tag=tolees-21) con un 50.51 % de descuento con precio de oferta de 29.29 EUR (original: 59.18 EUR) en el siguiente enlace!
 
-[![OFERTAS DEL DÍA - 180 Cosmetics - El paq](https://images-eu.ssl-images-amazon.com/images/I/51fEIxJ6nBL._SL200_.jpg)](https://www.amazon.es/dp/B00NNIBJVA/?tag=tolees-21)
+[![OFERTAS DEL DÍA - 180 Cosmetics - El paq](https://images-eu.ssl-images-amazon.com/images/I/51fEIxJ6nBL._SL400_.jpg)](https://www.amazon.es/dp/B00NNIBJVA/?tag=tolees-21)
 
 ℹ️:
 

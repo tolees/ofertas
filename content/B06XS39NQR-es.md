@@ -2,7 +2,7 @@
 layout: post
 title: 'L Oreal Paris Elvive Champú para Cabello al 30.51 % de rebaja'
 date: 2020-02-17 19:12:57
-image: 'https://m.media-amazon.com/images/I/414B1n-O-0L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/414B1n-O-0L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.85'
 
 Tienes [L Oreal Paris Elvive Champú para Cabello Seco - 400 ml](https://www.amazon.es/dp/B06XS39NQR/?tag=tolees-21) con precio final de  3.85 EUR (original: 5.54 EUR) (30.51 %  de rebaja) aqui!
 
-[![L Oreal Paris Elvive Champú para Cabello](https://m.media-amazon.com/images/I/414B1n-O-0L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B06XS39NQR/?tag=tolees-21)
+[![L Oreal Paris Elvive Champú para Cabello](https://m.media-amazon.com/images/I/414B1n-O-0L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B06XS39NQR/?tag=tolees-21)
 
 🔎:
 

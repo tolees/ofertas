@@ -2,7 +2,7 @@
 layout: post
 title: 'Finocam - Agenda Curso 2020-2021 Cuarto- al 30.00 % de descuento'
 date: 2020-09-25 10:33:45
-image: 'https://m.media-amazon.com/images/I/41uETrGe7yL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41uETrGe7yL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.2'
 
 Está [Finocam - Agenda Curso 2020-2021 Cuarto-155x217 Semana Vista Apaisada Cabeza Blanco Español](https://www.amazon.es/dp/B085QZY81G/?tag=tolees-21) con 30.00 de descuento por 11.2 EUR (original: 16.0 EUR) en el siguiente enlace!
 
-[![Finocam - Agenda Curso 2020-2021 Cuarto-](https://m.media-amazon.com/images/I/41uETrGe7yL._SL200_.jpg)](https://www.amazon.es/dp/B085QZY81G/?tag=tolees-21)
+[![Finocam - Agenda Curso 2020-2021 Cuarto-](https://m.media-amazon.com/images/I/41uETrGe7yL._SL400_.jpg)](https://www.amazon.es/dp/B085QZY81G/?tag=tolees-21)
 
 ℹ️:
 

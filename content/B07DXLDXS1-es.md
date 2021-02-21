@@ -2,7 +2,7 @@
 layout: post
 title: 'Wella Invigo Brilliance Shampoo Coarse   al 31.72 % de descuento'
 date: 2020-04-10 09:02:14
-image: 'https://m.media-amazon.com/images/I/31XkFuroL3L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31XkFuroL3L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.16'
 
 Está [Wella Invigo Brilliance Shampoo Coarse  500 ml](https://www.amazon.es/dp/B07DXLDXS1/?tag=tolees-21) con 31.72 de descuento por 8.16 EUR (original: 11.95 EUR) en el siguiente enlace!
 
-[![Wella Invigo Brilliance Shampoo Coarse  ](https://m.media-amazon.com/images/I/31XkFuroL3L._SL200_.jpg)](https://www.amazon.es/dp/B07DXLDXS1/?tag=tolees-21)
+[![Wella Invigo Brilliance Shampoo Coarse  ](https://m.media-amazon.com/images/I/31XkFuroL3L._SL400_.jpg)](https://www.amazon.es/dp/B07DXLDXS1/?tag=tolees-21)
 
 ℹ️:
 

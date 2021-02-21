@@ -2,7 +2,7 @@
 layout: post
 title: 'BIC Marking marcadores permanentes punta al 64.66 % de descuento'
 date: 2020-07-24 09:11:54
-image: 'https://m.media-amazon.com/images/I/51abKvngsOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51abKvngsOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.53'
 
 Está [BIC Marking marcadores permanentes punta media Cónica – Oro y Plata  Blíster de 2 unidades](https://www.amazon.es/dp/B009NBP4M6/?tag=tolees-21) con 64.66 de descuento por 1.0 EUR (original: 2.83 EUR) en el siguiente enlace!
 
-[![BIC Marking marcadores permanentes punta](https://m.media-amazon.com/images/I/51abKvngsOL._SL200_.jpg)](https://www.amazon.es/dp/B009NBP4M6/?tag=tolees-21)
+[![BIC Marking marcadores permanentes punta](https://m.media-amazon.com/images/I/51abKvngsOL._SL400_.jpg)](https://www.amazon.es/dp/B009NBP4M6/?tag=tolees-21)
 
 ℹ️:
 

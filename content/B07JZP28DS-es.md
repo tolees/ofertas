@@ -2,7 +2,7 @@
 layout: post
 title: 'Leggings de yoga para mujer  cintura alt con un 50.02 % de descuento'
 date: 2020-04-21 08:32:36
-image: 'https://m.media-amazon.com/images/I/415cGHX2+cL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/415cGHX2+cL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.99'
 
 En este momento está [Leggings de yoga para mujer  cintura alta  bolsillos para control de barriga  pantalones de entrenamiento  pantalones casuales.  Mujer  Pantaloni cropped  azul marino  xx-large](https://www.amazon.es/dp/B07JZP28DS/?tag=tolees-21) a 14.99 EUR (original: 29.99 EUR) (50.02 %  de descuento) en el siguiente enlace!
 
-[![Leggings de yoga para mujer  cintura alt](https://m.media-amazon.com/images/I/415cGHX2+cL._SL200_.jpg)](https://www.amazon.es/dp/B07JZP28DS/?tag=tolees-21)
+[![Leggings de yoga para mujer  cintura alt](https://m.media-amazon.com/images/I/415cGHX2+cL._SL400_.jpg)](https://www.amazon.es/dp/B07JZP28DS/?tag=tolees-21)
 
 🔎:
 

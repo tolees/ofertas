@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s 502 Regular Taper Jeans  Azul  Pr al 26.83 % de descuento'
 date: 2020-06-24 08:34:05
-image: 'https://m.media-amazon.com/images/I/41WjiOVeQqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41WjiOVeQqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '43.54333333333333'
 
 Está [Levi s 502 Regular Taper Jeans  Azul  Prewash 95977 0181   32W / 32L para Hombre](https://www.amazon.es/dp/B07D6ZZLQ1/?tag=tolees-21) con 26.83 de descuento por 44.37 EUR (original: 60.64 EUR) en el siguiente enlace!
 
-[![Levi s 502 Regular Taper Jeans  Azul  Pr](https://m.media-amazon.com/images/I/41WjiOVeQqL._SL200_.jpg)](https://www.amazon.es/dp/B07D6ZZLQ1/?tag=tolees-21)
+[![Levi s 502 Regular Taper Jeans  Azul  Pr](https://m.media-amazon.com/images/I/41WjiOVeQqL._SL400_.jpg)](https://www.amazon.es/dp/B07D6ZZLQ1/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour Rival Parte Superior del Ca con un 30.06 % de descuento'
 date: 2020-07-16 10:54:48
-image: 'https://m.media-amazon.com/images/I/41GZ-AMZaEL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41GZ-AMZaEL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '28.881999999999998'
 
 En este momento está [Under Armour Rival Parte Superior del Calentamiento  Mujer  Negro  MD](https://www.amazon.es/dp/B07L14GYV8/?tag=tolees-21) a 34.97 EUR (original: 50.0 EUR) (30.06 %  de descuento) en el siguiente enlace!
 
-[![Under Armour Rival Parte Superior del Ca](https://m.media-amazon.com/images/I/41GZ-AMZaEL._SL200_.jpg)](https://www.amazon.es/dp/B07L14GYV8/?tag=tolees-21)
+[![Under Armour Rival Parte Superior del Ca](https://m.media-amazon.com/images/I/41GZ-AMZaEL._SL400_.jpg)](https://www.amazon.es/dp/B07L14GYV8/?tag=tolees-21)
 
 🔎:
 

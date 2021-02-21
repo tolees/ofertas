@@ -2,7 +2,7 @@
 layout: post
 title: 'L CARNITINA Liquida 3000 mg.Suplemento D con un 71.64 % de descuento'
 date: 2020-01-21 11:07:32
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51N-kyWuAtL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51N-kyWuAtL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.76'
 
 En este momento está [L CARNITINA Liquida 3000 mg.Suplemento Deportivo L-Carnitina Natural-Quemagrasas Líquido-Alta Absorción-Mejor Rendimiento.20 Viales-Facil Apertura-No se Rompen.Certificado VEGANO. N2 Natural Nutrition](https://www.amazon.es/dp/B078SBC9K8/?tag=tolees-21) a 12.76 EUR (original: 45 EUR) (71.64 %  de descuento) en el siguiente enlace!
 
-[![L CARNITINA Liquida 3000 mg.Suplemento D](https://images-eu.ssl-images-amazon.com/images/I/51N-kyWuAtL._SL200_.jpg)](https://www.amazon.es/dp/B078SBC9K8/?tag=tolees-21)
+[![L CARNITINA Liquida 3000 mg.Suplemento D](https://images-eu.ssl-images-amazon.com/images/I/51N-kyWuAtL._SL400_.jpg)](https://www.amazon.es/dp/B078SBC9K8/?tag=tolees-21)
 
 🔎:
 

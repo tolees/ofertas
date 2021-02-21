@@ -2,7 +2,7 @@
 layout: post
 title: 'Adidas YATRA  Zapatillas de Deporte para al 49.99 % de descuento'
 date: 2020-01-15 12:07:21
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41vUuMu23tL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41vUuMu23tL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '27.48'
 
 Ahora mismo tienes [Adidas YATRA  Zapatillas de Deporte para Mujer  Multicolor  Multicolor 000   36 EU](https://www.amazon.es/dp/B07MW3FY2C/?tag=tolees-21) a 27.48 EUR (original: 54.95 EUR) (49.99 %  de descuento) en el siguiente enlace!
 
-[![Adidas YATRA  Zapatillas de Deporte para](https://images-eu.ssl-images-amazon.com/images/I/41vUuMu23tL._SL200_.jpg)](https://www.amazon.es/dp/B07MW3FY2C/?tag=tolees-21)
+[![Adidas YATRA  Zapatillas de Deporte para](https://images-eu.ssl-images-amazon.com/images/I/41vUuMu23tL._SL400_.jpg)](https://www.amazon.es/dp/B07MW3FY2C/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 36.81 % en Agenda 2020 con Vista Semanal – Planific'
 date: 2020-08-16 12:05:42
-image: 'https://m.media-amazon.com/images/I/51ABUWIvyRL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51ABUWIvyRL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.15'
 
 Tienes [Agenda 2020 con Vista Semanal – Planificador 2020 Semana Vista – Diario Espiral que Inspira Productividad - Tapa Blanda  Intervalos de 30 minutos - Calendario Semanal A4 – 21 x 28cm  en Español](https://www.amazon.es/dp/B07S1GX5GL/?tag=tolees-21) con un 36.81 % de descuento con precio de oferta de 18.95 EUR (original: 29.99 EUR) en el siguiente enlace!
 
-[![Agenda 2020 con Vista Semanal – Planific](https://m.media-amazon.com/images/I/51ABUWIvyRL._SL200_.jpg)](https://www.amazon.es/dp/B07S1GX5GL/?tag=tolees-21)
+[![Agenda 2020 con Vista Semanal – Planific](https://m.media-amazon.com/images/I/51ABUWIvyRL._SL400_.jpg)](https://www.amazon.es/dp/B07S1GX5GL/?tag=tolees-21)
 
 ℹ️:
 

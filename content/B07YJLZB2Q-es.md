@@ -2,7 +2,7 @@
 layout: post
 title: 'FORMIZON Equilibrar Juego de Matemáticas al 36.68 % de descuento'
 date: 2020-07-21 14:58:10
-image: 'https://m.media-amazon.com/images/I/51-3ISlPBkL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51-3ISlPBkL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.99'
 
 Ahora mismo tienes [FORMIZON Equilibrar Juego de Matemáticas  Juguete Animal Balanza  Juguete Educativo Niños Balanza de Equilibrio Números Tarjetas  Juego Divertido Regalo Educativo para Niñas Niños  Monos ](https://www.amazon.es/dp/B07YJLZB2Q/?tag=tolees-21) a 18.99 EUR (original: 29.99 EUR) (36.68 %  de descuento) en el siguiente enlace!
 
-[![FORMIZON Equilibrar Juego de Matemáticas](https://m.media-amazon.com/images/I/51-3ISlPBkL._SL200_.jpg)](https://www.amazon.es/dp/B07YJLZB2Q/?tag=tolees-21)
+[![FORMIZON Equilibrar Juego de Matemáticas](https://m.media-amazon.com/images/I/51-3ISlPBkL._SL400_.jpg)](https://www.amazon.es/dp/B07YJLZB2Q/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Pantene Mascarilla Repara y Protege- 300 con un 28.23 % de descuento'
 date: 2020-08-13 12:38:34
-image: 'https://m.media-amazon.com/images/I/51Y4jFfVbZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Y4jFfVbZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.94'
 
 En este momento está [Pantene Mascarilla Repara y Protege- 300 ml](https://www.amazon.es/dp/B00XA0CWF8/?tag=tolees-21) a 3.94 EUR (original: 5.49 EUR) (28.23 %  de descuento) en el siguiente enlace!
 
-[![Pantene Mascarilla Repara y Protege- 300](https://m.media-amazon.com/images/I/51Y4jFfVbZL._SL200_.jpg)](https://www.amazon.es/dp/B00XA0CWF8/?tag=tolees-21)
+[![Pantene Mascarilla Repara y Protege- 300](https://m.media-amazon.com/images/I/51Y4jFfVbZL._SL400_.jpg)](https://www.amazon.es/dp/B00XA0CWF8/?tag=tolees-21)
 
 🔎:
 

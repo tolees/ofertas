@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas Estro 19 JSY T-Shirt  Niños  Whit al 39.87 % de rebaja'
 date: 2020-05-03 11:09:33
-image: 'https://images-eu.ssl-images-amazon.com/images/I/318jnQORnvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/318jnQORnvL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.99'
 
 Tienes [adidas Estro 19 JSY T-Shirt  Niños  White  L](https://www.amazon.es/dp/B07K1BT4MK/?tag=tolees-21) con precio final de  8.99 EUR (original: 14.95 EUR) (39.87 %  de rebaja) aqui!
 
-[![adidas Estro 19 JSY T-Shirt  Niños  Whit](https://images-eu.ssl-images-amazon.com/images/I/318jnQORnvL._SL200_.jpg)](https://www.amazon.es/dp/B07K1BT4MK/?tag=tolees-21)
+[![adidas Estro 19 JSY T-Shirt  Niños  Whit](https://images-eu.ssl-images-amazon.com/images/I/318jnQORnvL._SL400_.jpg)](https://www.amazon.es/dp/B07K1BT4MK/?tag=tolees-21)
 
 🔎:
 

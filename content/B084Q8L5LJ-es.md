@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 31.95 % en Formulaone Borradores de ajedrez y Damas'
 date: 2020-09-03 08:45:58
-image: 'https://m.media-amazon.com/images/I/41QTQbk+d4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41QTQbk+d4L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.13'
 
 Tienes [Formulaone Borradores de ajedrez y Damas de Madera Natural y Pieza de ajedrez de Backgammon para niños Juego de Mesa Aprendizaje Camping con Disco — Madera y Negro](https://www.amazon.es/dp/B084Q8L5LJ/?tag=tolees-21) con un 31.95 % de descuento con precio de oferta de 2.13 EUR (original: 3.13 EUR) en el siguiente enlace!
 
-[![Formulaone Borradores de ajedrez y Damas](https://m.media-amazon.com/images/I/41QTQbk+d4L._SL200_.jpg)](https://www.amazon.es/dp/B084Q8L5LJ/?tag=tolees-21)
+[![Formulaone Borradores de ajedrez y Damas](https://m.media-amazon.com/images/I/41QTQbk+d4L._SL400_.jpg)](https://www.amazon.es/dp/B084Q8L5LJ/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'KHOMO Funda iPad Air 1 - Carcasa Gris Pr al 43.69 % de descuento'
 date: 2020-07-04 08:03:20
-image: 'https://m.media-amazon.com/images/I/51pVq6G1wwL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51pVq6G1wwL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.13'
 
 Ahora mismo tienes [KHOMO Funda iPad Air 1 - Carcasa Gris Protectora Ultra Delgada y Ligéra con Smart Cover y Soporte para Apple iPad Air 1 - Italic Grey](https://www.amazon.es/dp/B01AS1ZAD2/?tag=tolees-21) a 10.13 EUR (original: 17.99 EUR) (43.69 %  de descuento) en el siguiente enlace!
 
-[![KHOMO Funda iPad Air 1 - Carcasa Gris Pr](https://m.media-amazon.com/images/I/51pVq6G1wwL._SL200_.jpg)](https://www.amazon.es/dp/B01AS1ZAD2/?tag=tolees-21)
+[![KHOMO Funda iPad Air 1 - Carcasa Gris Pr](https://m.media-amazon.com/images/I/51pVq6G1wwL._SL400_.jpg)](https://www.amazon.es/dp/B01AS1ZAD2/?tag=tolees-21)
 
 🔎:
 

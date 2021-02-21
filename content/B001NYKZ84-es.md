@@ -2,7 +2,7 @@
 layout: post
 title: 'Reebok Classic Leather Zapatillas  Mujer al 51.65 % de rebaja'
 date: 2020-01-13 10:24:02
-image: 'https://images-eu.ssl-images-amazon.com/images/I/412t5r87ogL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412t5r87ogL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '49.82333333333334'
 
 Tienes [Reebok Classic Leather Zapatillas  Mujer  Negro  Int / Black   38 EU](https://www.amazon.es/dp/B001NYKZ84/?tag=tolees-21) con precio final de  43.49 EUR (original: 89.95 EUR) (51.65 %  de rebaja) aqui!
 
-[![Reebok Classic Leather Zapatillas  Mujer](https://images-eu.ssl-images-amazon.com/images/I/412t5r87ogL._SL200_.jpg)](https://www.amazon.es/dp/B001NYKZ84/?tag=tolees-21)
+[![Reebok Classic Leather Zapatillas  Mujer](https://images-eu.ssl-images-amazon.com/images/I/412t5r87ogL._SL400_.jpg)](https://www.amazon.es/dp/B001NYKZ84/?tag=tolees-21)
 
 🔎:
 

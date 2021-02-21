@@ -2,7 +2,7 @@
 layout: post
 title: 'Nike W Nk Dry Acdmy18 Top SS T-Shirt  Mu al 35.46 % de descuento'
 date: 2020-01-07 10:55:02
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31iTqUgGMEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31iTqUgGMEL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.1'
 
 Está [Nike W Nk Dry Acdmy18 Top SS T-Shirt  Mujer  University Red/Gym Red/ White   L](https://www.amazon.es/dp/B0797MV1XZ/?tag=tolees-21) con 35.46 de descuento por 8.1 EUR (original: 12.55 EUR) en el siguiente enlace!
 
-[![Nike W Nk Dry Acdmy18 Top SS T-Shirt  Mu](https://images-eu.ssl-images-amazon.com/images/I/31iTqUgGMEL._SL200_.jpg)](https://www.amazon.es/dp/B0797MV1XZ/?tag=tolees-21)
+[![Nike W Nk Dry Acdmy18 Top SS T-Shirt  Mu](https://images-eu.ssl-images-amazon.com/images/I/31iTqUgGMEL._SL400_.jpg)](https://www.amazon.es/dp/B0797MV1XZ/?tag=tolees-21)
 
 ℹ️:
 

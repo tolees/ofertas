@@ -2,7 +2,7 @@
 layout: post
 title: 'Bulova Reloj de Pulsera 96C133 al 31.22 % de descuento'
 date: 2020-04-27 21:34:17
-image: 'https://m.media-amazon.com/images/I/41hQ+wjU1aL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41hQ+wjU1aL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '145.62'
 
 Está [Bulova Reloj de Pulsera 96C133](https://www.amazon.es/dp/B07DTGR6QR/?tag=tolees-21) con 31.22 de descuento por 136.87 EUR (original: 199.0 EUR) en el siguiente enlace!
 
-[![Bulova Reloj de Pulsera 96C133](https://m.media-amazon.com/images/I/41hQ+wjU1aL._SL200_.jpg)](https://www.amazon.es/dp/B07DTGR6QR/?tag=tolees-21)
+[![Bulova Reloj de Pulsera 96C133](https://m.media-amazon.com/images/I/41hQ+wjU1aL._SL400_.jpg)](https://www.amazon.es/dp/B07DTGR6QR/?tag=tolees-21)
 
 ℹ️:
 

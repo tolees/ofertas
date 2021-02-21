@@ -2,7 +2,7 @@
 layout: post
 title: 'HUAWEI 02452312 - Cargador de Coche Dual al 33.46 % de rebaja'
 date: 2020-03-21 20:26:45
-image: 'https://m.media-amazon.com/images/I/417yxnwj2IL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/417yxnwj2IL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.98'
 
 Tienes [HUAWEI 02452312 - Cargador de Coche Dual USB  Super Charge 2A o 4.5A + 1A ](https://www.amazon.es/dp/B06XQTYRC4/?tag=tolees-21) con precio final de  13.98 EUR (original: 21.01 EUR) (33.46 %  de rebaja) aqui!
 
-[![HUAWEI 02452312 - Cargador de Coche Dual](https://m.media-amazon.com/images/I/417yxnwj2IL._SL200_.jpg)](https://www.amazon.es/dp/B06XQTYRC4/?tag=tolees-21)
+[![HUAWEI 02452312 - Cargador de Coche Dual](https://m.media-amazon.com/images/I/417yxnwj2IL._SL400_.jpg)](https://www.amazon.es/dp/B06XQTYRC4/?tag=tolees-21)
 
 🔎:
 

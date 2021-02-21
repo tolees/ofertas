@@ -2,7 +2,7 @@
 layout: post
 title: 'Adidas Falcon W  Zapatillas de Gimnasia  al 47.22 % de descuento'
 date: 2020-04-28 20:22:09
-image: 'https://m.media-amazon.com/images/I/4141NKjZMWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/4141NKjZMWL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '50.71333333333333'
 
 Ahora mismo tienes [Adidas Falcon W  Zapatillas de Gimnasia para Mujer  Multicolor  Black Cblack/Cblack/Ftwwht   39 1/3 EU](https://www.amazon.es/dp/B07DP7QPJS/?tag=tolees-21) a 52.75 EUR (original: 99.95 EUR) (47.22 %  de descuento) en el siguiente enlace!
 
-[![Adidas Falcon W  Zapatillas de Gimnasia ](https://m.media-amazon.com/images/I/4141NKjZMWL._SL200_.jpg)](https://www.amazon.es/dp/B07DP7QPJS/?tag=tolees-21)
+[![Adidas Falcon W  Zapatillas de Gimnasia ](https://m.media-amazon.com/images/I/4141NKjZMWL._SL400_.jpg)](https://www.amazon.es/dp/B07DP7QPJS/?tag=tolees-21)
 
 🔎:
 

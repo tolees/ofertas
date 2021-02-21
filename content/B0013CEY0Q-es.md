@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 32.85 % en Fellowes Memory Foam - Reposamuñecas par'
 date: 2020-02-22 03:54:41
-image: 'https://m.media-amazon.com/images/I/316bki97KzL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/316bki97KzL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.68'
 
 Tienes [Fellowes Memory Foam - Reposamuñecas para teclado  negro](https://www.amazon.es/dp/B0013CEY0Q/?tag=tolees-21) con un 32.85 % de descuento con precio de oferta de 13.49 EUR (original: 20.09 EUR) en el siguiente enlace!
 
-[![Fellowes Memory Foam - Reposamuñecas par](https://m.media-amazon.com/images/I/316bki97KzL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B0013CEY0Q/?tag=tolees-21)
+[![Fellowes Memory Foam - Reposamuñecas par](https://m.media-amazon.com/images/I/316bki97KzL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B0013CEY0Q/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'CUADERNO DE DIBUJO ZenART B5  18x24 cm   con un 44.09 % de descuento'
 date: 2020-10-06 17:45:40
-image: 'https://m.media-amazon.com/images/I/51bfwLB0tCL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51bfwLB0tCL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.95'
 
 En este momento está [CUADERNO DE DIBUJO ZenART B5  18x24 cm  – Cubierta de Cuero Durable  160 Páginas en Blanco de Papel Liso de Marfil Libres de Ácido 120 gsm  Bolsillo Interno  2 Marcadores y Banda Elástica](https://www.amazon.es/dp/B074GK8TLZ/?tag=tolees-21) a 13.95 EUR (original: 24.95 EUR) (44.09 %  de descuento) en el siguiente enlace!
 
-[![CUADERNO DE DIBUJO ZenART B5  18x24 cm  ](https://m.media-amazon.com/images/I/51bfwLB0tCL._SL200_.jpg)](https://www.amazon.es/dp/B074GK8TLZ/?tag=tolees-21)
+[![CUADERNO DE DIBUJO ZenART B5  18x24 cm  ](https://m.media-amazon.com/images/I/51bfwLB0tCL._SL400_.jpg)](https://www.amazon.es/dp/B074GK8TLZ/?tag=tolees-21)
 
 🔎:
 

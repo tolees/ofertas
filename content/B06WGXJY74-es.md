@@ -2,7 +2,7 @@
 layout: post
 title: 'Bosch TAT7203 Tostador Compacto de Acero al 28.58 % de rebaja'
 date: 2020-07-23 11:37:07
-image: 'https://m.media-amazon.com/images/I/31U8C8O7E+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31U8C8O7E+L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '49.99'
 
 Tienes [Bosch TAT7203 Tostador Compacto de Acero Inoxidable  2 Ranuras  1050 W  Color Negro Grafito](https://www.amazon.es/dp/B06WGXJY74/?tag=tolees-21) con precio final de  49.99 EUR (original: 69.99 EUR) (28.58 %  de rebaja) aqui!
 
-[![Bosch TAT7203 Tostador Compacto de Acero](https://m.media-amazon.com/images/I/31U8C8O7E+L._SL200_.jpg)](https://www.amazon.es/dp/B06WGXJY74/?tag=tolees-21)
+[![Bosch TAT7203 Tostador Compacto de Acero](https://m.media-amazon.com/images/I/31U8C8O7E+L._SL400_.jpg)](https://www.amazon.es/dp/B06WGXJY74/?tag=tolees-21)
 
 🔎:
 

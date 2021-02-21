@@ -2,7 +2,7 @@
 layout: post
 title: 'PUMA Basket Classic LFS  Zapatillas Unis con un 50.03 % de descuento'
 date: 2020-07-26 10:54:17
-image: 'https://m.media-amazon.com/images/I/41aDMu6NEdL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41aDMu6NEdL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '46.48555555555556'
 
 En este momento está [PUMA Basket Classic LFS  Zapatillas Unisex Adultos  White-Bridal Rose  42 EU](https://www.amazon.es/dp/B07KFXYW83/?tag=tolees-21) a 42.45 EUR (original: 84.95 EUR) (50.03 %  de descuento) en el siguiente enlace!
 
-[![PUMA Basket Classic LFS  Zapatillas Unis](https://m.media-amazon.com/images/I/41aDMu6NEdL._SL200_.jpg)](https://www.amazon.es/dp/B07KFXYW83/?tag=tolees-21)
+[![PUMA Basket Classic LFS  Zapatillas Unis](https://m.media-amazon.com/images/I/41aDMu6NEdL._SL400_.jpg)](https://www.amazon.es/dp/B07KFXYW83/?tag=tolees-21)
 
 🔎:
 

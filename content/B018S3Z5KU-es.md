@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 32.30 % en Hill s HPD Feline Metabolic - 4 kg'
 date: 2020-01-14 18:59:37
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41O9wfjdCSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41O9wfjdCSL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '32.99'
 
 Tienes [Hill s HPD Feline Metabolic - 4 kg](https://www.amazon.es/dp/B018S3Z5KU/?tag=tolees-21) con un 32.30 % de descuento con precio de oferta de 31.99 EUR (original: 47.25 EUR) en el siguiente enlace!
 
-[![Hill s HPD Feline Metabolic - 4 kg](https://images-eu.ssl-images-amazon.com/images/I/41O9wfjdCSL._SL200_.jpg)](https://www.amazon.es/dp/B018S3Z5KU/?tag=tolees-21)
+[![Hill s HPD Feline Metabolic - 4 kg](https://images-eu.ssl-images-amazon.com/images/I/41O9wfjdCSL._SL400_.jpg)](https://www.amazon.es/dp/B018S3Z5KU/?tag=tolees-21)
 
 ℹ️:
 

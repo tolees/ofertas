@@ -2,7 +2,7 @@
 layout: post
 title: '100 hojas 4x6in Papel fotográfico para i con un 69.06 % de descuento'
 date: 2020-05-12 13:31:25
-image: 'https://m.media-amazon.com/images/I/415khw8hjDL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/415khw8hjDL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.32'
 
 En este momento está [100 hojas 4x6in Papel fotográfico para impresión láser a ambos lados  adecuado para imprimir fotos/invitaciones/tarjetas postales/tarjetas de índice/cartulina/stock de portadas](https://www.amazon.es/dp/B07HNV8KGZ/?tag=tolees-21) a 7.32 EUR (original: 23.66 EUR) (69.06 %  de descuento) en el siguiente enlace!
 
-[![100 hojas 4x6in Papel fotográfico para i](https://m.media-amazon.com/images/I/415khw8hjDL._SL200_.jpg)](https://www.amazon.es/dp/B07HNV8KGZ/?tag=tolees-21)
+[![100 hojas 4x6in Papel fotográfico para i](https://m.media-amazon.com/images/I/415khw8hjDL._SL400_.jpg)](https://www.amazon.es/dp/B07HNV8KGZ/?tag=tolees-21)
 
 🔎:
 

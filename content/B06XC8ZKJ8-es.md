@@ -2,7 +2,7 @@
 layout: post
 title: 'Nobleza - Rascador para Gatos de cartón. con un 38.72 % de descuento'
 date: 2020-03-27 10:53:33
-image: 'https://m.media-amazon.com/images/I/51vNbRVqltL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51vNbRVqltL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.99'
 
 En este momento está [Nobleza - Rascador para Gatos de cartón. Soporte de Descanso con Forma de Gato con Catnip.](https://www.amazon.es/dp/B06XC8ZKJ8/?tag=tolees-21) a 18.99 EUR (original: 30.99 EUR) (38.72 %  de descuento) en el siguiente enlace!
 
-[![Nobleza - Rascador para Gatos de cartón.](https://m.media-amazon.com/images/I/51vNbRVqltL._SL200_.jpg)](https://www.amazon.es/dp/B06XC8ZKJ8/?tag=tolees-21)
+[![Nobleza - Rascador para Gatos de cartón.](https://m.media-amazon.com/images/I/51vNbRVqltL._SL400_.jpg)](https://www.amazon.es/dp/B06XC8ZKJ8/?tag=tolees-21)
 
 🔎:
 

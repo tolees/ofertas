@@ -2,7 +2,7 @@
 layout: post
 title: 'Asics Gel-Odyssey  Zapatillas de Cross p al 44.04 % de rebaja'
 date: 2020-02-04 12:06:03
-image: 'https://m.media-amazon.com/images/I/419GyxU7SrL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/419GyxU7SrL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '55.96'
 
 Tienes [Asics Gel-Odyssey  Zapatillas de Cross para Hombre  Negro Black 001  42.5 EU](https://www.amazon.es/dp/B07J9QLYQJ/?tag=tolees-21) con precio final de  55.96 EUR (original: 100.0 EUR) (44.04 %  de rebaja) aqui!
 
-[![Asics Gel-Odyssey  Zapatillas de Cross p](https://m.media-amazon.com/images/I/419GyxU7SrL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07J9QLYQJ/?tag=tolees-21)
+[![Asics Gel-Odyssey  Zapatillas de Cross p](https://m.media-amazon.com/images/I/419GyxU7SrL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07J9QLYQJ/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Max Factor 12057 Masterpiece MAX Máscara al 35.75 % de descuento'
 date: 2020-04-05 15:54:32
-image: 'https://m.media-amazon.com/images/I/317+fbIls-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/317+fbIls-L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.345'
 
 Está [Max Factor 12057 Masterpiece MAX Máscara de Pestañas - 7 ml](https://www.amazon.es/dp/B000ORS6SM/?tag=tolees-21) con 35.75 de descuento por 6.99 EUR (original: 10.88 EUR) en el siguiente enlace!
 
-[![Max Factor 12057 Masterpiece MAX Máscara](https://m.media-amazon.com/images/I/317+fbIls-L._SL200_.jpg)](https://www.amazon.es/dp/B000ORS6SM/?tag=tolees-21)
+[![Max Factor 12057 Masterpiece MAX Máscara](https://m.media-amazon.com/images/I/317+fbIls-L._SL400_.jpg)](https://www.amazon.es/dp/B000ORS6SM/?tag=tolees-21)
 
 ℹ️:
 

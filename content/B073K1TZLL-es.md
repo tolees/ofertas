@@ -2,7 +2,7 @@
 layout: post
 title: 'Reebok Royal Complete  Zapatillas para H al 49.78 % de descuento'
 date: 2020-05-09 08:59:40
-image: 'https://m.media-amazon.com/images/I/41NDXcJdgWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41NDXcJdgWL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '28.47'
 
 Está [Reebok Royal Complete  Zapatillas para Hombre  Negro  Black Bs7343   44.5 EU](https://www.amazon.es/dp/B073K1TZLL/?tag=tolees-21) con 49.78 de descuento por 24.98 EUR (original: 49.74 EUR) en el siguiente enlace!
 
-[![Reebok Royal Complete  Zapatillas para H](https://m.media-amazon.com/images/I/41NDXcJdgWL._SL200_.jpg)](https://www.amazon.es/dp/B073K1TZLL/?tag=tolees-21)
+[![Reebok Royal Complete  Zapatillas para H](https://m.media-amazon.com/images/I/41NDXcJdgWL._SL400_.jpg)](https://www.amazon.es/dp/B073K1TZLL/?tag=tolees-21)
 
 ℹ️:
 

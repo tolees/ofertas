@@ -2,7 +2,7 @@
 layout: post
 title: 'Import - 8Bitdo Zero Gamepad FC con un 35.02 % de descuento'
 date: 2020-02-15 23:24:08
-image: 'https://m.media-amazon.com/images/I/41AvmoozGqL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41AvmoozGqL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.99'
 
 En este momento está [Import - 8Bitdo Zero Gamepad FC](https://www.amazon.es/dp/B01JI58TRI/?tag=tolees-21) a 12.99 EUR (original: 19.99 EUR) (35.02 %  de descuento) en el siguiente enlace!
 
-[![Import - 8Bitdo Zero Gamepad FC](https://m.media-amazon.com/images/I/41AvmoozGqL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01JI58TRI/?tag=tolees-21)
+[![Import - 8Bitdo Zero Gamepad FC](https://m.media-amazon.com/images/I/41AvmoozGqL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01JI58TRI/?tag=tolees-21)
 
 🔎:
 

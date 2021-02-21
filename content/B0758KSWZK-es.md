@@ -2,7 +2,7 @@
 layout: post
 title: 'Star Wars: The Last Jedi  Digi Limitada  con un 44.64 % de descuento'
 date: 2020-04-13 18:03:10
-image: 'https://m.media-amazon.com/images/I/41vv12lsHVL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41vv12lsHVL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.87'
 
 En este momento está [Star Wars: The Last Jedi  Digi Limitada ](https://www.amazon.es/dp/B0758KSWZK/?tag=tolees-21) a 3.87 EUR (original: 6.99 EUR) (44.64 %  de descuento) en el siguiente enlace!
 
-[![Star Wars: The Last Jedi  Digi Limitada ](https://m.media-amazon.com/images/I/41vv12lsHVL._SL200_.jpg)](https://www.amazon.es/dp/B0758KSWZK/?tag=tolees-21)
+[![Star Wars: The Last Jedi  Digi Limitada ](https://m.media-amazon.com/images/I/41vv12lsHVL._SL400_.jpg)](https://www.amazon.es/dp/B0758KSWZK/?tag=tolees-21)
 
 🔎:
 

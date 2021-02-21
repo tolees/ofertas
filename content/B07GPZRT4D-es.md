@@ -2,7 +2,7 @@
 layout: post
 title: 'Subnautica al 32.37 % de rebaja'
 date: 2020-06-05 08:46:45
-image: 'https://m.media-amazon.com/images/I/516JFVhL+hL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/516JFVhL+hL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.756666666666668'
 
 Tienes [Subnautica](https://www.amazon.es/dp/B07GPZRT4D/?tag=tolees-21) con precio final de  16.9 EUR (original: 24.99 EUR) (32.37 %  de rebaja) aqui!
 
-[![Subnautica](https://m.media-amazon.com/images/I/516JFVhL+hL._SL200_.jpg)](https://www.amazon.es/dp/B07GPZRT4D/?tag=tolees-21)
+[![Subnautica](https://m.media-amazon.com/images/I/516JFVhL+hL._SL400_.jpg)](https://www.amazon.es/dp/B07GPZRT4D/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Termómetro para Bebé  Vigorun Termómetro al 45.01 % de descuento'
 date: 2020-01-21 22:47:51
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41f2U4vsPwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41f2U4vsPwL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.99'
 
 Está [Termómetro para Bebé  Vigorun Termómetro de Frente y Oídos Termómetro Digital Infrarrojo Medical con 1s Lectura Instantánea Precisa  Modo de Silencio  Alarma de Fiebre  para Bebés Adultos](https://www.amazon.es/dp/B07RK13T6D/?tag=tolees-21) con 45.01 de descuento por 21.99 EUR (original: 39.99 EUR) en el siguiente enlace!
 
-[![Termómetro para Bebé  Vigorun Termómetro](https://images-eu.ssl-images-amazon.com/images/I/41f2U4vsPwL._SL200_.jpg)](https://www.amazon.es/dp/B07RK13T6D/?tag=tolees-21)
+[![Termómetro para Bebé  Vigorun Termómetro](https://images-eu.ssl-images-amazon.com/images/I/41f2U4vsPwL._SL400_.jpg)](https://www.amazon.es/dp/B07RK13T6D/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Underground Toys- Moldes para Galletas S con un 27.62 % de descuento'
 date: 2020-06-02 07:56:51
-image: 'https://m.media-amazon.com/images/I/51UqRN8PHAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51UqRN8PHAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.65'
 
 En este momento está [Underground Toys- Moldes para Galletas Star Wars  Color Blanco  Rojo y Azul  4x1.5x6 cm  SW02785 ](https://www.amazon.es/dp/B01M7V8GJY/?tag=tolees-21) a 8.65 EUR (original: 11.95 EUR) (27.62 %  de descuento) en el siguiente enlace!
 
-[![Underground Toys- Moldes para Galletas S](https://m.media-amazon.com/images/I/51UqRN8PHAL._SL200_.jpg)](https://www.amazon.es/dp/B01M7V8GJY/?tag=tolees-21)
+[![Underground Toys- Moldes para Galletas S](https://m.media-amazon.com/images/I/51UqRN8PHAL._SL400_.jpg)](https://www.amazon.es/dp/B01M7V8GJY/?tag=tolees-21)
 
 🔎:
 

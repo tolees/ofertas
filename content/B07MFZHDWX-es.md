@@ -2,7 +2,7 @@
 layout: post
 title: 'GANT Hampton  Botas Chelsea para Mujer   al 44.35 % de descuento'
 date: 2020-02-05 00:29:13
-image: 'https://m.media-amazon.com/images/I/31RfQkmeZoL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31RfQkmeZoL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '77.88'
 
 Ahora mismo tienes [GANT Hampton  Botas Chelsea para Mujer  Marrón  Dark Brown G46   42 EU](https://www.amazon.es/dp/B07MFZHDWX/?tag=tolees-21) a 77.88 EUR (original: 139.95 EUR) (44.35 %  de descuento) en el siguiente enlace!
 
-[![GANT Hampton  Botas Chelsea para Mujer  ](https://m.media-amazon.com/images/I/31RfQkmeZoL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07MFZHDWX/?tag=tolees-21)
+[![GANT Hampton  Botas Chelsea para Mujer  ](https://m.media-amazon.com/images/I/31RfQkmeZoL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07MFZHDWX/?tag=tolees-21)
 
 🔎:
 

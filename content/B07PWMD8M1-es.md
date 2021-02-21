@@ -2,7 +2,7 @@
 layout: post
 title: 'Kelme - Zapatillas Precision Elite 2.0 al 53.92 % de descuento'
 date: 2020-05-06 11:28:44
-image: 'https://m.media-amazon.com/images/I/31eG4unlb9L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31eG4unlb9L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.96'
 
 Está [Kelme - Zapatillas Precision Elite 2.0](https://www.amazon.es/dp/B07PWMD8M1/?tag=tolees-21) con 53.92 de descuento por 23.96 EUR (original: 52.0 EUR) en el siguiente enlace!
 
-[![Kelme - Zapatillas Precision Elite 2.0](https://m.media-amazon.com/images/I/31eG4unlb9L._SL200_.jpg)](https://www.amazon.es/dp/B07PWMD8M1/?tag=tolees-21)
+[![Kelme - Zapatillas Precision Elite 2.0](https://m.media-amazon.com/images/I/31eG4unlb9L._SL400_.jpg)](https://www.amazon.es/dp/B07PWMD8M1/?tag=tolees-21)
 
 ℹ️:
 

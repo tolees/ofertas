@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 47.85 % en Rimmel London Soft Khol Kajal Eyeliner P'
 date: 2020-03-11 14:05:03
-image: 'https://m.media-amazon.com/images/I/2168jMxS2pL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/2168jMxS2pL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.06'
 
 Tienes [Rimmel London Soft Khol Kajal Eyeliner Pencil Liners Tono 071 Pure White - 4 gr](https://www.amazon.es/dp/B000P20JWW/?tag=tolees-21) con un 47.85 % de descuento con precio de oferta de 2.06 EUR (original: 3.95 EUR) en el siguiente enlace!
 
-[![Rimmel London Soft Khol Kajal Eyeliner P](https://m.media-amazon.com/images/I/2168jMxS2pL._SL200_.jpg)](https://www.amazon.es/dp/B000P20JWW/?tag=tolees-21)
+[![Rimmel London Soft Khol Kajal Eyeliner P](https://m.media-amazon.com/images/I/2168jMxS2pL._SL400_.jpg)](https://www.amazon.es/dp/B000P20JWW/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Garnier Coloración Color Sensation Nº2.1 al 50.00 % de rebaja'
 date: 2020-06-22 11:49:09
-image: 'https://m.media-amazon.com/images/I/51DbWAfjbXL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51DbWAfjbXL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.81'
 
 Tienes [Garnier Coloración Color Sensation Nº2.1 Negro Azulado - 200 ml](https://www.amazon.es/dp/B01K7SH2Q4/?tag=tolees-21) con precio final de  1.81 EUR (original: 3.62 EUR) (50.00 %  de rebaja) aqui!
 
-[![Garnier Coloración Color Sensation Nº2.1](https://m.media-amazon.com/images/I/51DbWAfjbXL._SL200_.jpg)](https://www.amazon.es/dp/B01K7SH2Q4/?tag=tolees-21)
+[![Garnier Coloración Color Sensation Nº2.1](https://m.media-amazon.com/images/I/51DbWAfjbXL._SL400_.jpg)](https://www.amazon.es/dp/B01K7SH2Q4/?tag=tolees-21)
 
 🔎:
 

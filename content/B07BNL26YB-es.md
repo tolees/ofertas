@@ -2,7 +2,7 @@
 layout: post
 title: 'deAO Juego de Herramientas y Accessorios al 55.03 % de descuento'
 date: 2020-01-20 16:19:30
-image: 'https://images-eu.ssl-images-amazon.com/images/I/513D69SqjPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/513D69SqjPL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.09'
 
 Está [deAO Juego de Herramientas y Accessorios Taller de Bricolaje Play Set Infantil Conjunto de Herramientas  28 Piezas en Total ](https://www.amazon.es/dp/B07BNL26YB/?tag=tolees-21) con 55.03 de descuento por 8.09 EUR (original: 17.99 EUR) en el siguiente enlace!
 
-[![deAO Juego de Herramientas y Accessorios](https://images-eu.ssl-images-amazon.com/images/I/513D69SqjPL._SL200_.jpg)](https://www.amazon.es/dp/B07BNL26YB/?tag=tolees-21)
+[![deAO Juego de Herramientas y Accessorios](https://images-eu.ssl-images-amazon.com/images/I/513D69SqjPL._SL400_.jpg)](https://www.amazon.es/dp/B07BNL26YB/?tag=tolees-21)
 
 ℹ️:
 

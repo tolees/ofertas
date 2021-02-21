@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 53.58 % en PAMEX - Cubo Galvanizado 5L con Abridor'
 date: 2020-03-28 23:58:48
-image: 'https://m.media-amazon.com/images/I/41IIqEtJI9L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41IIqEtJI9L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.69'
 
 Tienes [PAMEX - Cubo Galvanizado 5L con Abridor](https://www.amazon.es/dp/B07FVW93S5/?tag=tolees-21) con un 53.58 % de descuento con precio de oferta de 3.69 EUR (original: 7.95 EUR) en el siguiente enlace!
 
-[![PAMEX - Cubo Galvanizado 5L con Abridor](https://m.media-amazon.com/images/I/41IIqEtJI9L._SL200_.jpg)](https://www.amazon.es/dp/B07FVW93S5/?tag=tolees-21)
+[![PAMEX - Cubo Galvanizado 5L con Abridor](https://m.media-amazon.com/images/I/41IIqEtJI9L._SL400_.jpg)](https://www.amazon.es/dp/B07FVW93S5/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour UA Qualifier Heatgear Tight con un 43.22 % de descuento'
 date: 2020-01-23 15:33:06
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31WxgWKRtRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31WxgWKRtRL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '36.91'
 
 En este momento está [Under Armour UA Qualifier Heatgear Tight Leggings  Hombre  Negro  Black/Black/Reflective 001   M](https://www.amazon.es/dp/B07KR7KD48/?tag=tolees-21) a 36.91 EUR (original: 65 EUR) (43.22 %  de descuento) en el siguiente enlace!
 
-[![Under Armour UA Qualifier Heatgear Tight](https://images-eu.ssl-images-amazon.com/images/I/31WxgWKRtRL._SL200_.jpg)](https://www.amazon.es/dp/B07KR7KD48/?tag=tolees-21)
+[![Under Armour UA Qualifier Heatgear Tight](https://images-eu.ssl-images-amazon.com/images/I/31WxgWKRtRL._SL400_.jpg)](https://www.amazon.es/dp/B07KR7KD48/?tag=tolees-21)
 
 🔎:
 

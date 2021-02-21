@@ -2,7 +2,7 @@
 layout: post
 title: 'Luengo - Garbanzo Blanco Lechoso En Paqu al 28.00 % de descuento'
 date: 2020-01-03 11:05:09
-image: 'None._SL200_'
+image: 'None._SL400_'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.32'
 
 Está [Luengo - Garbanzo Blanco Lechoso En Paquetes De 1 Kg - [Pack de 2]](https://www.amazon.es/dp/B01MRENW1V/?tag=tolees-21) con 28.00 de descuento por 4.32 EUR (original: 6 EUR) en el siguiente enlace!
 
-[![Luengo - Garbanzo Blanco Lechoso En Paqu](None._SL200_)](https://www.amazon.es/dp/B01MRENW1V/?tag=tolees-21)
+[![Luengo - Garbanzo Blanco Lechoso En Paqu](None._SL400_)](https://www.amazon.es/dp/B01MRENW1V/?tag=tolees-21)
 
 ℹ️:
 

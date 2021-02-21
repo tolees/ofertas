@@ -2,7 +2,7 @@
 layout: post
 title: 'Samsung CLT-M4072S/ELS - Tóner  1000 pág con un 48.77 % de descuento'
 date: 2020-04-05 04:01:40
-image: 'https://m.media-amazon.com/images/I/41Ax3i4DwXL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Ax3i4DwXL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '32.57'
 
 En este momento está [Samsung CLT-M4072S/ELS - Tóner  1000 páginas   magenta](https://www.amazon.es/dp/B003QPOAPC/?tag=tolees-21) a 32.8 EUR (original: 64.02 EUR) (48.77 %  de descuento) en el siguiente enlace!
 
-[![Samsung CLT-M4072S/ELS - Tóner  1000 pág](https://m.media-amazon.com/images/I/41Ax3i4DwXL._SL200_.jpg)](https://www.amazon.es/dp/B003QPOAPC/?tag=tolees-21)
+[![Samsung CLT-M4072S/ELS - Tóner  1000 pág](https://m.media-amazon.com/images/I/41Ax3i4DwXL._SL400_.jpg)](https://www.amazon.es/dp/B003QPOAPC/?tag=tolees-21)
 
 🔎:
 

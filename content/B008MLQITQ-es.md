@@ -2,7 +2,7 @@
 layout: post
 title: 'Converse All Star Hi - Zapatillas unisex con un 44.41 % de descuento'
 date: 2020-08-27 00:10:31
-image: 'https://m.media-amazon.com/images/I/311DeEGYTVL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/311DeEGYTVL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '32.8'
 
 En este momento está [Converse All Star Hi - Zapatillas unisex  Negro  Black   35 EU](https://www.amazon.es/dp/B008MLQITQ/?tag=tolees-21) a 32.8 EUR (original: 59.0 EUR) (44.41 %  de descuento) en el siguiente enlace!
 
-[![Converse All Star Hi - Zapatillas unisex](https://m.media-amazon.com/images/I/311DeEGYTVL._SL200_.jpg)](https://www.amazon.es/dp/B008MLQITQ/?tag=tolees-21)
+[![Converse All Star Hi - Zapatillas unisex](https://m.media-amazon.com/images/I/311DeEGYTVL._SL400_.jpg)](https://www.amazon.es/dp/B008MLQITQ/?tag=tolees-21)
 
 🔎:
 

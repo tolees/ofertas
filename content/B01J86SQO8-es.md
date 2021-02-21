@@ -2,7 +2,7 @@
 layout: post
 title: 'Everlast Locker - Pantalones cortos de b con un 37.52 % de descuento'
 date: 2020-04-22 15:08:00
-image: 'https://m.media-amazon.com/images/I/31btfXe006L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31btfXe006L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.99'
 
 En este momento está [Everlast Locker - Pantalones cortos de baloncesto para hombre  Todo el año  Hombre  color negro/rojo  tamaño XS](https://www.amazon.es/dp/B01J86SQO8/?tag=tolees-21) a 14.99 EUR (original: 23.99 EUR) (37.52 %  de descuento) en el siguiente enlace!
 
-[![Everlast Locker - Pantalones cortos de b](https://m.media-amazon.com/images/I/31btfXe006L._SL200_.jpg)](https://www.amazon.es/dp/B01J86SQO8/?tag=tolees-21)
+[![Everlast Locker - Pantalones cortos de b](https://m.media-amazon.com/images/I/31btfXe006L._SL400_.jpg)](https://www.amazon.es/dp/B01J86SQO8/?tag=tolees-21)
 
 🔎:
 

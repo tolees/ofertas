@@ -2,7 +2,7 @@
 layout: post
 title: 'Daniel Wellington Reloj Analógico para M al 28.72 % de descuento'
 date: 2020-06-04 22:07:16
-image: 'https://m.media-amazon.com/images/I/31wqtuAEbdL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31wqtuAEbdL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '72.0'
 
 Ahora mismo tienes [Daniel Wellington Reloj Analógico para Mujer de Cuarzo japonés Correa de la OTAN DW00100313](https://www.amazon.es/dp/B07TRLWQGY/?tag=tolees-21) a 72.0 EUR (original: 101.01 EUR) (28.72 %  de descuento) en el siguiente enlace!
 
-[![Daniel Wellington Reloj Analógico para M](https://m.media-amazon.com/images/I/31wqtuAEbdL._SL200_.jpg)](https://www.amazon.es/dp/B07TRLWQGY/?tag=tolees-21)
+[![Daniel Wellington Reloj Analógico para M](https://m.media-amazon.com/images/I/31wqtuAEbdL._SL400_.jpg)](https://www.amazon.es/dp/B07TRLWQGY/?tag=tolees-21)
 
 🔎:
 

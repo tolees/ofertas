@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 71.35 % en Old Spice Original Desodorante En Barra '
 date: 2020-05-25 19:08:03
-image: 'https://m.media-amazon.com/images/I/41n0KjTTHUL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41n0KjTTHUL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.0'
 
 Tienes [Old Spice Original Desodorante En Barra Para Hombres 50 ml](https://www.amazon.es/dp/B01LWVUM5V/?tag=tolees-21) con un 71.35 % de descuento con precio de oferta de 1.0 EUR (original: 3.49 EUR) en el siguiente enlace!
 
-[![Old Spice Original Desodorante En Barra ](https://m.media-amazon.com/images/I/41n0KjTTHUL._SL200_.jpg)](https://www.amazon.es/dp/B01LWVUM5V/?tag=tolees-21)
+[![Old Spice Original Desodorante En Barra ](https://m.media-amazon.com/images/I/41n0KjTTHUL._SL400_.jpg)](https://www.amazon.es/dp/B01LWVUM5V/?tag=tolees-21)
 
 ℹ️:
 

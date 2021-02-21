@@ -2,7 +2,7 @@
 layout: post
 title: 'Zapatillas de Running para Unisex Niños  al 36.96 % de rebaja'
 date: 2020-09-18 10:11:44
-image: 'https://m.media-amazon.com/images/I/51ns-V6WBnL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51ns-V6WBnL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '28.99'
 
 Tienes [Zapatillas de Running para Unisex Niños Gimnasia Ligero Running Atletismo Sneakers Niñas Rojo Negro  32 EU](https://www.amazon.es/dp/B083FCMVK4/?tag=tolees-21) con precio final de  28.99 EUR (original: 45.99 EUR) (36.96 %  de rebaja) aqui!
 
-[![Zapatillas de Running para Unisex Niños ](https://m.media-amazon.com/images/I/51ns-V6WBnL._SL200_.jpg)](https://www.amazon.es/dp/B083FCMVK4/?tag=tolees-21)
+[![Zapatillas de Running para Unisex Niños ](https://m.media-amazon.com/images/I/51ns-V6WBnL._SL400_.jpg)](https://www.amazon.es/dp/B083FCMVK4/?tag=tolees-21)
 
 🔎:
 

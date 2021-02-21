@@ -2,7 +2,7 @@
 layout: post
 title: 'Taurus Vac600 Envasadora al vacío  Acero con un 28.06 % de descuento'
 date: 2020-05-29 02:52:11
-image: 'https://m.media-amazon.com/images/I/418c74fW0TL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/418c74fW0TL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '68.99'
 
 En este momento está [Taurus Vac600 Envasadora al vacío  Acero Inoxidable](https://www.amazon.es/dp/B07YB5HV8L/?tag=tolees-21) a 68.99 EUR (original: 95.9 EUR) (28.06 %  de descuento) en el siguiente enlace!
 
-[![Taurus Vac600 Envasadora al vacío  Acero](https://m.media-amazon.com/images/I/418c74fW0TL._SL200_.jpg)](https://www.amazon.es/dp/B07YB5HV8L/?tag=tolees-21)
+[![Taurus Vac600 Envasadora al vacío  Acero](https://m.media-amazon.com/images/I/418c74fW0TL._SL400_.jpg)](https://www.amazon.es/dp/B07YB5HV8L/?tag=tolees-21)
 
 🔎:
 

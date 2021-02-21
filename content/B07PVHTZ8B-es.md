@@ -2,7 +2,7 @@
 layout: post
 title: '5200mAh 593553-001 Batería del ordenador con un 30.78 % de descuento'
 date: 2020-07-17 14:30:55
-image: 'https://m.media-amazon.com/images/I/41iZU9uQdVL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41iZU9uQdVL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.99'
 
 En este momento está [5200mAh 593553-001 Batería del ordenador portátil para HP Pavilion DV6-3000 DV6-4000 DV6-6000 DV7-4000 DV7-5000 DV7-6000  G4 G6 G7 G4-1000 G6-1000 COMPAQ Presario CQ32 CQ42 CQ56 CQ62 CQ72 593554-001](https://www.amazon.es/dp/B07PVHTZ8B/?tag=tolees-21) a 17.99 EUR (original: 25.99 EUR) (30.78 %  de descuento) en el siguiente enlace!
 
-[![5200mAh 593553-001 Batería del ordenador](https://m.media-amazon.com/images/I/41iZU9uQdVL._SL200_.jpg)](https://www.amazon.es/dp/B07PVHTZ8B/?tag=tolees-21)
+[![5200mAh 593553-001 Batería del ordenador](https://m.media-amazon.com/images/I/41iZU9uQdVL._SL400_.jpg)](https://www.amazon.es/dp/B07PVHTZ8B/?tag=tolees-21)
 
 🔎:
 

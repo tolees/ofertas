@@ -2,7 +2,7 @@
 layout: post
 title: 'VSADEY Crema Antiarrugas Facial para Día al 53.87 % de descuento'
 date: 2020-01-01 20:33:56
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51tsHPrcLwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51tsHPrcLwL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.935'
 
 Está [VSADEY Crema Antiarrugas Facial para Día y Noche 2.5% Retinol Crema Hidratante Facial Mujer  Retinol Serum Acido Hialuronico para Mujer y Hombre de ojos Crema con Retinol 50 ml](https://www.amazon.es/dp/B07GB1V7H1/?tag=tolees-21) con 53.87 de descuento por 11.99 EUR (original: 25.99 EUR) en el siguiente enlace!
 
-[![VSADEY Crema Antiarrugas Facial para Día](https://images-eu.ssl-images-amazon.com/images/I/51tsHPrcLwL._SL200_.jpg)](https://www.amazon.es/dp/B07GB1V7H1/?tag=tolees-21)
+[![VSADEY Crema Antiarrugas Facial para Día](https://images-eu.ssl-images-amazon.com/images/I/51tsHPrcLwL._SL400_.jpg)](https://www.amazon.es/dp/B07GB1V7H1/?tag=tolees-21)
 
 ℹ️:
 

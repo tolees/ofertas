@@ -2,7 +2,7 @@
 layout: post
 title: 'Rubie s- Avengers Disfraz  Multicolor  s con un 42.01 % de descuento'
 date: 2020-05-26 20:02:48
-image: 'https://m.media-amazon.com/images/I/41P5+j-LeFL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41P5+j-LeFL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '31.896666666666665'
 
 En este momento está [Rubie s- Avengers Disfraz  Multicolor  small  700672 S ](https://www.amazon.es/dp/B07L8SRZSJ/?tag=tolees-21) a 31.89 EUR (original: 54.99 EUR) (42.01 %  de descuento) en el siguiente enlace!
 
-[![Rubie s- Avengers Disfraz  Multicolor  s](https://m.media-amazon.com/images/I/41P5+j-LeFL._SL200_.jpg)](https://www.amazon.es/dp/B07L8SRZSJ/?tag=tolees-21)
+[![Rubie s- Avengers Disfraz  Multicolor  s](https://m.media-amazon.com/images/I/41P5+j-LeFL._SL400_.jpg)](https://www.amazon.es/dp/B07L8SRZSJ/?tag=tolees-21)
 
 🔎:
 

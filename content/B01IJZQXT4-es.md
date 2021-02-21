@@ -2,7 +2,7 @@
 layout: post
 title: 'Philips SB300B/00 - Altavoz Bluetooth po al 51.01 % de rebaja'
 date: 2020-03-16 20:12:39
-image: 'https://m.media-amazon.com/images/I/51A4Aq08QLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51A4Aq08QLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '26.413333333333334'
 
 Tienes [Philips SB300B/00 - Altavoz Bluetooth portátil inalámbrico  Luces LED  a Prueba de Agua IPX7 y Golpes  LED Multicolor   Negro](https://www.amazon.es/dp/B01IJZQXT4/?tag=tolees-21) con precio final de  24.49 EUR (original: 49.99 EUR) (51.01 %  de rebaja) aqui!
 
-[![Philips SB300B/00 - Altavoz Bluetooth po](https://m.media-amazon.com/images/I/51A4Aq08QLL._SL200_.jpg)](https://www.amazon.es/dp/B01IJZQXT4/?tag=tolees-21)
+[![Philips SB300B/00 - Altavoz Bluetooth po](https://m.media-amazon.com/images/I/51A4Aq08QLL._SL400_.jpg)](https://www.amazon.es/dp/B01IJZQXT4/?tag=tolees-21)
 
 🔎:
 

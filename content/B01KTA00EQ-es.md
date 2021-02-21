@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 54.11 % en Reloj Orla Kiely - Mujer OK2137'
 date: 2020-06-07 17:05:41
-image: 'https://m.media-amazon.com/images/I/410nHNje0WL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/410nHNje0WL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '49.99'
 
 Tienes [Reloj Orla Kiely - Mujer OK2137](https://www.amazon.es/dp/B01KTA00EQ/?tag=tolees-21) con un 54.11 % de descuento con precio de oferta de 49.99 EUR (original: 108.93 EUR) en el siguiente enlace!
 
-[![Reloj Orla Kiely - Mujer OK2137](https://m.media-amazon.com/images/I/410nHNje0WL._SL200_.jpg)](https://www.amazon.es/dp/B01KTA00EQ/?tag=tolees-21)
+[![Reloj Orla Kiely - Mujer OK2137](https://m.media-amazon.com/images/I/410nHNje0WL._SL400_.jpg)](https://www.amazon.es/dp/B01KTA00EQ/?tag=tolees-21)
 
 ℹ️:
 

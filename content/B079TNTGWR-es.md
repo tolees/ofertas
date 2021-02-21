@@ -2,7 +2,7 @@
 layout: post
 title: 'Funko Pop!- Pop Marvel: X-Men-Colossus F al 45.30 % de rebaja'
 date: 2020-04-27 20:05:16
-image: 'https://m.media-amazon.com/images/I/41Jm8smXgVL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Jm8smXgVL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.891428571428571'
 
 Tienes [Funko Pop!- Pop Marvel: X-Men-Colossus Figura de Vinilo  Multicolor  30863 ](https://www.amazon.es/dp/B079TNTGWR/?tag=tolees-21) con precio final de  8.2 EUR (original: 14.99 EUR) (45.30 %  de rebaja) aqui!
 
-[![Funko Pop!- Pop Marvel: X-Men-Colossus F](https://m.media-amazon.com/images/I/41Jm8smXgVL._SL200_.jpg)](https://www.amazon.es/dp/B079TNTGWR/?tag=tolees-21)
+[![Funko Pop!- Pop Marvel: X-Men-Colossus F](https://m.media-amazon.com/images/I/41Jm8smXgVL._SL400_.jpg)](https://www.amazon.es/dp/B079TNTGWR/?tag=tolees-21)
 
 🔎:
 

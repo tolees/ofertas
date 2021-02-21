@@ -2,7 +2,7 @@
 layout: post
 title: 'Schleich - Quad con remolque y ranger -  al 49.98 % de rebaja'
 date: 2020-08-05 07:22:03
-image: 'https://m.media-amazon.com/images/I/51G++waDhVL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51G++waDhVL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.0'
 
 Tienes [Schleich - Quad con remolque y ranger - Con múltiples Funciones - Set con Figuras y Accesorios](https://www.amazon.es/dp/B06W9GCQHV/?tag=tolees-21) con precio final de  15.0 EUR (original: 29.99 EUR) (49.98 %  de rebaja) aqui!
 
-[![Schleich - Quad con remolque y ranger - ](https://m.media-amazon.com/images/I/51G++waDhVL._SL200_.jpg)](https://www.amazon.es/dp/B06W9GCQHV/?tag=tolees-21)
+[![Schleich - Quad con remolque y ranger - ](https://m.media-amazon.com/images/I/51G++waDhVL._SL400_.jpg)](https://www.amazon.es/dp/B06W9GCQHV/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'LTDNB HDMI Adaptador Digital AV Compatib al 48.69 % de descuento'
 date: 2020-04-01 17:01:58
-image: 'https://m.media-amazon.com/images/I/31T5Bzv7BSL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31T5Bzv7BSL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.99'
 
 Ahora mismo tienes [LTDNB HDMI Adaptador Digital AV Compatible con Phone XS/X MAX/XR/X/8/7 /6/5 Series/Pad Air/Mini/Pro/Pod Touch](https://www.amazon.es/dp/B07NVKJQMG/?tag=tolees-21) a 17.99 EUR (original: 35.06 EUR) (48.69 %  de descuento) en el siguiente enlace!
 
-[![LTDNB HDMI Adaptador Digital AV Compatib](https://m.media-amazon.com/images/I/31T5Bzv7BSL._SL200_.jpg)](https://www.amazon.es/dp/B07NVKJQMG/?tag=tolees-21)
+[![LTDNB HDMI Adaptador Digital AV Compatib](https://m.media-amazon.com/images/I/31T5Bzv7BSL._SL400_.jpg)](https://www.amazon.es/dp/B07NVKJQMG/?tag=tolees-21)
 
 🔎:
 

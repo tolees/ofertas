@@ -2,7 +2,7 @@
 layout: post
 title: 'Pepe Jeans James Pantalones  Azul  Bluei al 40.50 % de descuento'
 date: 2020-04-15 21:01:20
-image: 'https://m.media-amazon.com/images/I/41ML2MMp6aL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ML2MMp6aL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '53.49'
 
 Está [Pepe Jeans James Pantalones  Azul  Blueing 565   W32/L30 para Hombre](https://www.amazon.es/dp/B07NCBM1HV/?tag=tolees-21) con 40.50 de descuento por 53.49 EUR (original: 89.9 EUR) en el siguiente enlace!
 
-[![Pepe Jeans James Pantalones  Azul  Bluei](https://m.media-amazon.com/images/I/41ML2MMp6aL._SL200_.jpg)](https://www.amazon.es/dp/B07NCBM1HV/?tag=tolees-21)
+[![Pepe Jeans James Pantalones  Azul  Bluei](https://m.media-amazon.com/images/I/41ML2MMp6aL._SL400_.jpg)](https://www.amazon.es/dp/B07NCBM1HV/?tag=tolees-21)
 
 ℹ️:
 

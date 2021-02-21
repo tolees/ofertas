@@ -2,7 +2,7 @@
 layout: post
 title: 'Kärcher 1.633-510.0 - Limpiador Eléctric al 33.34 % de descuento'
 date: 2020-10-09 06:50:16
-image: 'https://m.media-amazon.com/images/I/41RO6wogbKL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41RO6wogbKL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '64.556'
 
 Está [Kärcher 1.633-510.0 - Limpiador Eléctrico Ventana WV 6 Plus  100 min de autonomía](https://www.amazon.es/dp/B07L6RCYZM/?tag=tolees-21) con 33.34 de descuento por 59.99 EUR (original: 89.99 EUR) en el siguiente enlace!
 
-[![Kärcher 1.633-510.0 - Limpiador Eléctric](https://m.media-amazon.com/images/I/41RO6wogbKL._SL200_.jpg)](https://www.amazon.es/dp/B07L6RCYZM/?tag=tolees-21)
+[![Kärcher 1.633-510.0 - Limpiador Eléctric](https://m.media-amazon.com/images/I/41RO6wogbKL._SL400_.jpg)](https://www.amazon.es/dp/B07L6RCYZM/?tag=tolees-21)
 
 ℹ️:
 

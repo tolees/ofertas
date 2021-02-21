@@ -2,7 +2,7 @@
 layout: post
 title: 'Ratón inalámbrico de 2.4GHz Ratón Inteli al 73.60 % de descuento'
 date: 2020-09-19 13:32:34
-image: 'https://m.media-amazon.com/images/I/31x8q5MvspL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31x8q5MvspL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.98'
 
 Ahora mismo tienes [Ratón inalámbrico de 2.4GHz Ratón Inteligente portátil para Juegos Ratón óptico para Juegos Ratón Receptor USB para PC Computadora portátil-Naranja](https://www.amazon.es/dp/B082SWGQSH/?tag=tolees-21) a 1.98 EUR (original: 7.5 EUR) (73.60 %  de descuento) en el siguiente enlace!
 
-[![Ratón inalámbrico de 2.4GHz Ratón Inteli](https://m.media-amazon.com/images/I/31x8q5MvspL._SL200_.jpg)](https://www.amazon.es/dp/B082SWGQSH/?tag=tolees-21)
+[![Ratón inalámbrico de 2.4GHz Ratón Inteli](https://m.media-amazon.com/images/I/31x8q5MvspL._SL400_.jpg)](https://www.amazon.es/dp/B082SWGQSH/?tag=tolees-21)
 
 🔎:
 

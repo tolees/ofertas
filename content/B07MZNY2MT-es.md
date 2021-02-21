@@ -2,7 +2,7 @@
 layout: post
 title: 'Funko- Pop Figura de Vinilo: Disney: Lit al 46.11 % de descuento'
 date: 2020-06-04 19:35:46
-image: 'https://m.media-amazon.com/images/I/411BCm-kxJL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/411BCm-kxJL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.373333333333335'
 
 Ahora mismo tienes [Funko- Pop Figura de Vinilo: Disney: Little Mermaid-Prince Eric Coleccionable  Multicolor  Talla única  40106 ](https://www.amazon.es/dp/B07MZNY2MT/?tag=tolees-21) a 9.0 EUR (original: 16.7 EUR) (46.11 %  de descuento) en el siguiente enlace!
 
-[![Funko- Pop Figura de Vinilo: Disney: Lit](https://m.media-amazon.com/images/I/411BCm-kxJL._SL200_.jpg)](https://www.amazon.es/dp/B07MZNY2MT/?tag=tolees-21)
+[![Funko- Pop Figura de Vinilo: Disney: Lit](https://m.media-amazon.com/images/I/411BCm-kxJL._SL400_.jpg)](https://www.amazon.es/dp/B07MZNY2MT/?tag=tolees-21)
 
 🔎:
 

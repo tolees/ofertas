@@ -2,7 +2,7 @@
 layout: post
 title: 'Columbia Street Elite Bolsa de Viaje Con al 55.01 % de descuento'
 date: 2020-06-25 17:30:29
-image: 'https://m.media-amazon.com/images/I/41Kb4v3c3OL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Kb4v3c3OL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '35.656666666666666'
 
 Ahora mismo tienes [Columbia Street Elite Bolsa de Viaje Convertible  Unisex Adulto  Gris  Shark   O/S](https://www.amazon.es/dp/B07KTVBXPM/?tag=tolees-21) a 35.99 EUR (original: 79.99 EUR) (55.01 %  de descuento) en el siguiente enlace!
 
-[![Columbia Street Elite Bolsa de Viaje Con](https://m.media-amazon.com/images/I/41Kb4v3c3OL._SL200_.jpg)](https://www.amazon.es/dp/B07KTVBXPM/?tag=tolees-21)
+[![Columbia Street Elite Bolsa de Viaje Con](https://m.media-amazon.com/images/I/41Kb4v3c3OL._SL400_.jpg)](https://www.amazon.es/dp/B07KTVBXPM/?tag=tolees-21)
 
 🔎:
 

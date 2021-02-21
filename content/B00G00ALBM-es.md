@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 43.78 % en Komono Reloj Analógico de Cuarzo Unisex '
 date: 2020-06-29 13:31:05
-image: 'https://m.media-amazon.com/images/I/41B77yp1F9L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41B77yp1F9L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '44.95'
 
 Tienes [Komono Reloj Analógico de Cuarzo Unisex con Correa de Cuero – KOM-W2000](https://www.amazon.es/dp/B00G00ALBM/?tag=tolees-21) con un 43.78 % de descuento con precio de oferta de 44.95 EUR (original: 79.95 EUR) en el siguiente enlace!
 
-[![Komono Reloj Analógico de Cuarzo Unisex ](https://m.media-amazon.com/images/I/41B77yp1F9L._SL200_.jpg)](https://www.amazon.es/dp/B00G00ALBM/?tag=tolees-21)
+[![Komono Reloj Analógico de Cuarzo Unisex ](https://m.media-amazon.com/images/I/41B77yp1F9L._SL400_.jpg)](https://www.amazon.es/dp/B00G00ALBM/?tag=tolees-21)
 
 ℹ️:
 

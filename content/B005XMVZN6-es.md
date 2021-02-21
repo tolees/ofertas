@@ -2,7 +2,7 @@
 layout: post
 title: 'DIM Generous Sujetador  Blanco  95C para al 74.65 % de descuento'
 date: 2020-06-29 19:01:16
-image: 'https://m.media-amazon.com/images/I/31oReIYzhwL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31oReIYzhwL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.0'
 
 Está [DIM Generous Sujetador  Blanco  95C para Mujer](https://www.amazon.es/dp/B005XMVZN6/?tag=tolees-21) con 74.65 de descuento por 9.0 EUR (original: 35.5 EUR) en el siguiente enlace!
 
-[![DIM Generous Sujetador  Blanco  95C para](https://m.media-amazon.com/images/I/31oReIYzhwL._SL200_.jpg)](https://www.amazon.es/dp/B005XMVZN6/?tag=tolees-21)
+[![DIM Generous Sujetador  Blanco  95C para](https://m.media-amazon.com/images/I/31oReIYzhwL._SL400_.jpg)](https://www.amazon.es/dp/B005XMVZN6/?tag=tolees-21)
 
 ℹ️:
 

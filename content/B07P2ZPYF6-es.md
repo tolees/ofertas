@@ -2,7 +2,7 @@
 layout: post
 title: 'Head Club Lucy W Camisetas  Mujer  Magen al 38.98 % de descuento'
 date: 2020-01-03 16:52:22
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41aB0yusArL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41aB0yusArL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.49'
 
 Está [Head Club Lucy W Camisetas  Mujer  Magenta/Dark Blue  Extra-Small](https://www.amazon.es/dp/B07P2ZPYF6/?tag=tolees-21) con 38.98 de descuento por 12.49 EUR (original: 20.47 EUR) en el siguiente enlace!
 
-[![Head Club Lucy W Camisetas  Mujer  Magen](https://images-eu.ssl-images-amazon.com/images/I/41aB0yusArL._SL200_.jpg)](https://www.amazon.es/dp/B07P2ZPYF6/?tag=tolees-21)
+[![Head Club Lucy W Camisetas  Mujer  Magen](https://images-eu.ssl-images-amazon.com/images/I/41aB0yusArL._SL400_.jpg)](https://www.amazon.es/dp/B07P2ZPYF6/?tag=tolees-21)
 
 ℹ️:
 

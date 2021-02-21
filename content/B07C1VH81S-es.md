@@ -2,7 +2,7 @@
 layout: post
 title: 'Plameca - Plan 21 Garcinia Activ 60 Cáps al 27.68 % de descuento'
 date: 2020-07-29 18:32:35
-image: 'https://m.media-amazon.com/images/I/41TZI+OoyqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41TZI+OoyqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.27'
 
 Está [Plameca - Plan 21 Garcinia Activ 60 Cápsulas](https://www.amazon.es/dp/B07C1VH81S/?tag=tolees-21) con 27.68 de descuento por 10.27 EUR (original: 14.2 EUR) en el siguiente enlace!
 
-[![Plameca - Plan 21 Garcinia Activ 60 Cáps](https://m.media-amazon.com/images/I/41TZI+OoyqL._SL200_.jpg)](https://www.amazon.es/dp/B07C1VH81S/?tag=tolees-21)
+[![Plameca - Plan 21 Garcinia Activ 60 Cáps](https://m.media-amazon.com/images/I/41TZI+OoyqL._SL400_.jpg)](https://www.amazon.es/dp/B07C1VH81S/?tag=tolees-21)
 
 ℹ️:
 

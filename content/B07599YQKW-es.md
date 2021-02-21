@@ -2,7 +2,7 @@
 layout: post
 title: 'Funko Pop!- James Bond Sean Connery Figu al 43.16 % de rebaja'
 date: 2020-02-10 12:37:25
-image: 'https://m.media-amazon.com/images/I/41y+ZhuB4TL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41y+ZhuB4TL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.833333333333334'
 
 Tienes [Funko Pop!- James Bond Sean Connery Figura de Vinilo  24704 ](https://www.amazon.es/dp/B07599YQKW/?tag=tolees-21) con precio final de  8.52 EUR (original: 14.99 EUR) (43.16 %  de rebaja) aqui!
 
-[![Funko Pop!- James Bond Sean Connery Figu](https://m.media-amazon.com/images/I/41y+ZhuB4TL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07599YQKW/?tag=tolees-21)
+[![Funko Pop!- James Bond Sean Connery Figu](https://m.media-amazon.com/images/I/41y+ZhuB4TL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07599YQKW/?tag=tolees-21)
 
 🔎:
 

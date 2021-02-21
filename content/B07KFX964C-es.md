@@ -2,7 +2,7 @@
 layout: post
 title: 'PUMA TARRENZ SB PURETEX  Zapatillas Unis al 32.02 % de rebaja'
 date: 2020-10-07 07:13:04
-image: 'https://m.media-amazon.com/images/I/31vTb+dfOLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31vTb+dfOLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '61.15'
 
 Tienes [PUMA TARRENZ SB PURETEX  Zapatillas Unisex Adulto  Black Black  42.5 EU](https://www.amazon.es/dp/B07KFX964C/?tag=tolees-21) con precio final de  61.15 EUR (original: 89.95 EUR) (32.02 %  de rebaja) aqui!
 
-[![PUMA TARRENZ SB PURETEX  Zapatillas Unis](https://m.media-amazon.com/images/I/31vTb+dfOLL._SL200_.jpg)](https://www.amazon.es/dp/B07KFX964C/?tag=tolees-21)
+[![PUMA TARRENZ SB PURETEX  Zapatillas Unis](https://m.media-amazon.com/images/I/31vTb+dfOLL._SL400_.jpg)](https://www.amazon.es/dp/B07KFX964C/?tag=tolees-21)
 
 🔎:
 

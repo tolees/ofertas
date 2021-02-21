@@ -2,7 +2,7 @@
 layout: post
 title: 'Piccalilly - Body para bebé  algodón org con un 42.53 % de descuento'
 date: 2020-05-11 07:40:36
-image: 'https://m.media-amazon.com/images/I/51m8HAiitBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51m8HAiitBL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.23'
 
 En este momento está [Piccalilly - Body para bebé  algodón orgánico Suave  Unisex  diseño de Elefante   Color Rojo Rojo Rosso 24 Meses](https://www.amazon.es/dp/B07XYDJ6Q8/?tag=tolees-21) a 9.23 EUR (original: 16.06 EUR) (42.53 %  de descuento) en el siguiente enlace!
 
-[![Piccalilly - Body para bebé  algodón org](https://m.media-amazon.com/images/I/51m8HAiitBL._SL200_.jpg)](https://www.amazon.es/dp/B07XYDJ6Q8/?tag=tolees-21)
+[![Piccalilly - Body para bebé  algodón org](https://m.media-amazon.com/images/I/51m8HAiitBL._SL400_.jpg)](https://www.amazon.es/dp/B07XYDJ6Q8/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'LEDKIA LIGHTING Pack Placas LED Circular al 26.55 % de rebaja'
 date: 2020-07-13 10:42:44
-image: 'https://m.media-amazon.com/images/I/31q4DrloTYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31q4DrloTYL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.736666666666666'
 
 Tienes [LEDKIA LIGHTING Pack Placas LED Circular SuperSlim 18W  2 un  Blanco Cálido 2800K - 3200K](https://www.amazon.es/dp/B01H0OH4HA/?tag=tolees-21) con precio final de  12.45 EUR (original: 16.95 EUR) (26.55 %  de rebaja) aqui!
 
-[![LEDKIA LIGHTING Pack Placas LED Circular](https://m.media-amazon.com/images/I/31q4DrloTYL._SL200_.jpg)](https://www.amazon.es/dp/B01H0OH4HA/?tag=tolees-21)
+[![LEDKIA LIGHTING Pack Placas LED Circular](https://m.media-amazon.com/images/I/31q4DrloTYL._SL400_.jpg)](https://www.amazon.es/dp/B01H0OH4HA/?tag=tolees-21)
 
 🔎:
 

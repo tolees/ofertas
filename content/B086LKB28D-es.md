@@ -2,7 +2,7 @@
 layout: post
 title: 'Fundas Amazon Kindle 2019 10ma Generació con un 54.68 % de descuento'
 date: 2020-04-14 09:02:07
-image: 'https://m.media-amazon.com/images/I/510emlDHedL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/510emlDHedL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.59'
 
 En este momento está [Fundas Amazon Kindle 2019 10ma Generación Flip Pintado Carcasa Cuero PC 360° Proteccion Ultra-Delgado Magnética Automático Despertar o Dormir Función Estuche para Kindle 2019  Patrón 03 ](https://www.amazon.es/dp/B086LKB28D/?tag=tolees-21) a 13.59 EUR (original: 29.99 EUR) (54.68 %  de descuento) en el siguiente enlace!
 
-[![Fundas Amazon Kindle 2019 10ma Generació](https://m.media-amazon.com/images/I/510emlDHedL._SL200_.jpg)](https://www.amazon.es/dp/B086LKB28D/?tag=tolees-21)
+[![Fundas Amazon Kindle 2019 10ma Generació](https://m.media-amazon.com/images/I/510emlDHedL._SL400_.jpg)](https://www.amazon.es/dp/B086LKB28D/?tag=tolees-21)
 
 🔎:
 

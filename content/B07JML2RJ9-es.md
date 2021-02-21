@@ -2,7 +2,7 @@
 layout: post
 title: 'Ever-Pretty A-línea Vestito de Gala Cuel al 25.00 % de rebaja'
 date: 2020-08-31 02:33:20
-image: 'https://m.media-amazon.com/images/I/31OnmoANyTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31OnmoANyTL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '54.99'
 
 Tienes [Ever-Pretty A-línea Vestito de Gala Cuello Redondo sin Mangas Encaje Gasa para Mujer Azul Marino 42](https://www.amazon.es/dp/B07JML2RJ9/?tag=tolees-21) con precio final de  59.99 EUR (original: 79.99 EUR) (25.00 %  de rebaja) aqui!
 
-[![Ever-Pretty A-línea Vestito de Gala Cuel](https://m.media-amazon.com/images/I/31OnmoANyTL._SL200_.jpg)](https://www.amazon.es/dp/B07JML2RJ9/?tag=tolees-21)
+[![Ever-Pretty A-línea Vestito de Gala Cuel](https://m.media-amazon.com/images/I/31OnmoANyTL._SL400_.jpg)](https://www.amazon.es/dp/B07JML2RJ9/?tag=tolees-21)
 
 🔎:
 

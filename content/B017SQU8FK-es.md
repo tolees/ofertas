@@ -2,7 +2,7 @@
 layout: post
 title: 'Salomon Speedcross 4 GTX W  Zapatillas d con un 46.66 % de descuento'
 date: 2020-01-08 19:53:28
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41vbzOZG26L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41vbzOZG26L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '79.985'
 
 En este momento está [Salomon Speedcross 4 GTX W  Zapatillas de Trail Running para Mujer  Negro  Black/Black/Metallic Bubble Blue   40 EU](https://www.amazon.es/dp/B017SQU8FK/?tag=tolees-21) a 79.99 EUR (original: 149.95 EUR) (46.66 %  de descuento) en el siguiente enlace!
 
-[![Salomon Speedcross 4 GTX W  Zapatillas d](https://images-eu.ssl-images-amazon.com/images/I/41vbzOZG26L._SL200_.jpg)](https://www.amazon.es/dp/B017SQU8FK/?tag=tolees-21)
+[![Salomon Speedcross 4 GTX W  Zapatillas d](https://images-eu.ssl-images-amazon.com/images/I/41vbzOZG26L._SL400_.jpg)](https://www.amazon.es/dp/B017SQU8FK/?tag=tolees-21)
 
 🔎:
 

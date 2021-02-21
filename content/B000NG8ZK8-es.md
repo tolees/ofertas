@@ -2,7 +2,7 @@
 layout: post
 title: 'Casio Collection Despetador TQ140  Blanc con un 33.33 % de descuento'
 date: 2020-08-19 13:07:08
-image: 'https://m.media-amazon.com/images/I/51sp7pNu5EL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51sp7pNu5EL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.0'
 
 En este momento está [Casio Collection Despetador TQ140  Blanco](https://www.amazon.es/dp/B000NG8ZK8/?tag=tolees-21) a 8.0 EUR (original: 12.0 EUR) (33.33 %  de descuento) en el siguiente enlace!
 
-[![Casio Collection Despetador TQ140  Blanc](https://m.media-amazon.com/images/I/51sp7pNu5EL._SL200_.jpg)](https://www.amazon.es/dp/B000NG8ZK8/?tag=tolees-21)
+[![Casio Collection Despetador TQ140  Blanc](https://m.media-amazon.com/images/I/51sp7pNu5EL._SL400_.jpg)](https://www.amazon.es/dp/B000NG8ZK8/?tag=tolees-21)
 
 🔎:
 

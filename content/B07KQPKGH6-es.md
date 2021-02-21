@@ -2,7 +2,7 @@
 layout: post
 title: 'Kerastase 57977 Blond Bain Lumiere  250  al 31.40 % de descuento'
 date: 2020-01-12 23:08:45
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41eIA0OOBhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41eIA0OOBhL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.85'
 
 Está [Kerastase 57977 Blond Bain Lumiere  250 ml](https://www.amazon.es/dp/B07KQPKGH6/?tag=tolees-21) con 31.40 de descuento por 17.7 EUR (original: 25.8 EUR) en el siguiente enlace!
 
-[![Kerastase 57977 Blond Bain Lumiere  250 ](https://images-eu.ssl-images-amazon.com/images/I/41eIA0OOBhL._SL200_.jpg)](https://www.amazon.es/dp/B07KQPKGH6/?tag=tolees-21)
+[![Kerastase 57977 Blond Bain Lumiere  250 ](https://images-eu.ssl-images-amazon.com/images/I/41eIA0OOBhL._SL400_.jpg)](https://www.amazon.es/dp/B07KQPKGH6/?tag=tolees-21)
 
 ℹ️:
 

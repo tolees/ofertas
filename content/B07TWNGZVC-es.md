@@ -2,7 +2,7 @@
 layout: post
 title: 'Lacoste Rc2012 Cinturón  Beige  Fog D47  al 29.16 % de descuento'
 date: 2020-06-14 14:46:15
-image: 'https://m.media-amazon.com/images/I/41Jg1s6HbNL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Jg1s6HbNL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '31.88'
 
 Ahora mismo tienes [Lacoste Rc2012 Cinturón  Beige  Fog D47   95  tamaño del fabricante: 110  para Hombre](https://www.amazon.es/dp/B07TWNGZVC/?tag=tolees-21) a 31.88 EUR (original: 45.0 EUR) (29.16 %  de descuento) en el siguiente enlace!
 
-[![Lacoste Rc2012 Cinturón  Beige  Fog D47 ](https://m.media-amazon.com/images/I/41Jg1s6HbNL._SL200_.jpg)](https://www.amazon.es/dp/B07TWNGZVC/?tag=tolees-21)
+[![Lacoste Rc2012 Cinturón  Beige  Fog D47 ](https://m.media-amazon.com/images/I/41Jg1s6HbNL._SL400_.jpg)](https://www.amazon.es/dp/B07TWNGZVC/?tag=tolees-21)
 
 🔎:
 

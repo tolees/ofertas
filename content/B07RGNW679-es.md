@@ -2,7 +2,7 @@
 layout: post
 title: 'New Balance Draft  Zapatillas de Running al 42.97 % de rebaja'
 date: 2020-03-21 02:02:24
-image: 'https://m.media-amazon.com/images/I/41Pxi4mdqzL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Pxi4mdqzL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '34.22'
 
 Tienes [New Balance Draft  Zapatillas de Running para Hombre  Gris  Grey Lg1   40 EU](https://www.amazon.es/dp/B07RGNW679/?tag=tolees-21) con precio final de  34.22 EUR (original: 60.0 EUR) (42.97 %  de rebaja) aqui!
 
-[![New Balance Draft  Zapatillas de Running](https://m.media-amazon.com/images/I/41Pxi4mdqzL._SL200_.jpg)](https://www.amazon.es/dp/B07RGNW679/?tag=tolees-21)
+[![New Balance Draft  Zapatillas de Running](https://m.media-amazon.com/images/I/41Pxi4mdqzL._SL400_.jpg)](https://www.amazon.es/dp/B07RGNW679/?tag=tolees-21)
 
 🔎:
 

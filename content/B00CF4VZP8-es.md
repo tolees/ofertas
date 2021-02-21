@@ -2,7 +2,7 @@
 layout: post
 title: 'Nike W React Element 55  Zapatillas de R con un 49.64 % de descuento'
 date: 2020-08-10 00:05:52
-image: 'https://m.media-amazon.com/images/I/41Zpm2eMPcL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Zpm2eMPcL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '65.47'
 
 En este momento está [Nike W React Element 55  Zapatillas de Running para Mujer  Negro  Black/White 003   38 EU](https://www.amazon.es/dp/B00CF4VZP8/?tag=tolees-21) a 65.47 EUR (original: 130.0 EUR) (49.64 %  de descuento) en el siguiente enlace!
 
-[![Nike W React Element 55  Zapatillas de R](https://m.media-amazon.com/images/I/41Zpm2eMPcL._SL200_.jpg)](https://www.amazon.es/dp/B00CF4VZP8/?tag=tolees-21)
+[![Nike W React Element 55  Zapatillas de R](https://m.media-amazon.com/images/I/41Zpm2eMPcL._SL400_.jpg)](https://www.amazon.es/dp/B00CF4VZP8/?tag=tolees-21)
 
 🔎:
 

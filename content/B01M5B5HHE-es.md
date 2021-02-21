@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 40.54 % en Scottex Sensitive Papel Higiénico - 18 r'
 date: 2020-02-06 13:42:50
-image: 'https://m.media-amazon.com/images/I/51B7eZrUc7L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51B7eZrUc7L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.675000000000001'
 
 Tienes [Scottex Sensitive Papel Higiénico - 18 rollos](https://www.amazon.es/dp/B01M5B5HHE/?tag=tolees-21) con un 40.54 % de descuento con precio de oferta de 5.94 EUR (original: 9.99 EUR) en el siguiente enlace!
 
-[![Scottex Sensitive Papel Higiénico - 18 r](https://m.media-amazon.com/images/I/51B7eZrUc7L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01M5B5HHE/?tag=tolees-21)
+[![Scottex Sensitive Papel Higiénico - 18 r](https://m.media-amazon.com/images/I/51B7eZrUc7L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01M5B5HHE/?tag=tolees-21)
 
 ℹ️:
 

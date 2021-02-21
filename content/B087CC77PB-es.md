@@ -2,7 +2,7 @@
 layout: post
 title: 'Dungeons 3 - Complete Collection al 66.99 % de descuento'
 date: 2020-09-08 14:20:26
-image: 'https://m.media-amazon.com/images/I/513s5P0A1BL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/513s5P0A1BL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.974'
 
 Ahora mismo tienes [Dungeons 3 - Complete Collection](https://www.amazon.es/dp/B087CC77PB/?tag=tolees-21) a 13.2 EUR (original: 39.99 EUR) (66.99 %  de descuento) en el siguiente enlace!
 
-[![Dungeons 3 - Complete Collection](https://m.media-amazon.com/images/I/513s5P0A1BL._SL200_.jpg)](https://www.amazon.es/dp/B087CC77PB/?tag=tolees-21)
+[![Dungeons 3 - Complete Collection](https://m.media-amazon.com/images/I/513s5P0A1BL._SL400_.jpg)](https://www.amazon.es/dp/B087CC77PB/?tag=tolees-21)
 
 🔎:
 

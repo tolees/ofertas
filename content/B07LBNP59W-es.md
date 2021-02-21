@@ -2,7 +2,7 @@
 layout: post
 title: 'Kappa Memni  Zapatillas para Mujer  Blac al 69.81 % de rebaja'
 date: 2020-01-27 11:25:39
-image: 'https://m.media-amazon.com/images/I/317MaKsvNlL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/317MaKsvNlL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.175'
 
 Tienes [Kappa Memni  Zapatillas para Mujer  Black White 1110  36 EU](https://www.amazon.es/dp/B07LBNP59W/?tag=tolees-21) con precio final de  10.55 EUR (original: 34.95 EUR) (69.81 %  de rebaja) aqui!
 
-[![Kappa Memni  Zapatillas para Mujer  Blac](https://m.media-amazon.com/images/I/317MaKsvNlL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07LBNP59W/?tag=tolees-21)
+[![Kappa Memni  Zapatillas para Mujer  Blac](https://m.media-amazon.com/images/I/317MaKsvNlL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07LBNP59W/?tag=tolees-21)
 
 🔎:
 

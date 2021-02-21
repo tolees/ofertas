@@ -2,7 +2,7 @@
 layout: post
 title: 'Emuca - Barra de armario abatible  perch al 43.03 % de rebaja'
 date: 2020-10-01 18:15:12
-image: 'https://m.media-amazon.com/images/I/31JOXgsdENL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31JOXgsdENL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '35.67'
 
 Tienes [Emuca - Barra de armario abatible  perchero basculante  colgador abatible para armario  anchura regulable 830-1150mm  acabado color moka](https://www.amazon.es/dp/B01N4SBAAS/?tag=tolees-21) con precio final de  30.65 EUR (original: 53.8 EUR) (43.03 %  de rebaja) aqui!
 
-[![Emuca - Barra de armario abatible  perch](https://m.media-amazon.com/images/I/31JOXgsdENL._SL200_.jpg)](https://www.amazon.es/dp/B01N4SBAAS/?tag=tolees-21)
+[![Emuca - Barra de armario abatible  perch](https://m.media-amazon.com/images/I/31JOXgsdENL._SL400_.jpg)](https://www.amazon.es/dp/B01N4SBAAS/?tag=tolees-21)
 
 🔎:
 

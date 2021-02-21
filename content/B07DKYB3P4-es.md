@@ -2,7 +2,7 @@
 layout: post
 title: 'Tritton - Auricular Gaming Tritton Kunai al 40.51 % de rebaja'
 date: 2020-08-29 14:26:01
-image: 'https://m.media-amazon.com/images/I/41EeNavPxeL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41EeNavPxeL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '35.69'
 
 Tienes [Tritton - Auricular Gaming Tritton Kunai Pro 7.1 Dirac 2020  Mac OS X ](https://www.amazon.es/dp/B07DKYB3P4/?tag=tolees-21) con precio final de  35.69 EUR (original: 59.99 EUR) (40.51 %  de rebaja) aqui!
 
-[![Tritton - Auricular Gaming Tritton Kunai](https://m.media-amazon.com/images/I/41EeNavPxeL._SL200_.jpg)](https://www.amazon.es/dp/B07DKYB3P4/?tag=tolees-21)
+[![Tritton - Auricular Gaming Tritton Kunai](https://m.media-amazon.com/images/I/41EeNavPxeL._SL400_.jpg)](https://www.amazon.es/dp/B07DKYB3P4/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'iRobot Set - Kit de piezas de repuesto p con un 38.22 % de descuento'
 date: 2020-01-28 17:05:31
-image: 'https://m.media-amazon.com/images/I/41oYXVsiYFL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41oYXVsiYFL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.6'
 
 En este momento está [iRobot Set - Kit de piezas de repuesto para iRobot Roomba 800](https://www.amazon.es/dp/B00QTTEG3S/?tag=tolees-21) a 21.6 EUR (original: 34.96 EUR) (38.22 %  de descuento) en el siguiente enlace!
 
-[![iRobot Set - Kit de piezas de repuesto p](https://m.media-amazon.com/images/I/41oYXVsiYFL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B00QTTEG3S/?tag=tolees-21)
+[![iRobot Set - Kit de piezas de repuesto p](https://m.media-amazon.com/images/I/41oYXVsiYFL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B00QTTEG3S/?tag=tolees-21)
 
 🔎:
 

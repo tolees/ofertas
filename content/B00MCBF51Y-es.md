@@ -2,7 +2,7 @@
 layout: post
 title: 'Seiko Reloj Analógico para Hombre de Ene al 34.96 % de descuento'
 date: 2020-08-16 20:54:49
-image: 'https://m.media-amazon.com/images/I/418i-ojrOTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/418i-ojrOTL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '136.40357142857144'
 
 Está [Seiko Reloj Analógico para Hombre de Energía Solar con Correa en Acero Inoxidable SNE363P1](https://www.amazon.es/dp/B00MCBF51Y/?tag=tolees-21) con 34.96 de descuento por 129.42 EUR (original: 199.0 EUR) en el siguiente enlace!
 
-[![Seiko Reloj Analógico para Hombre de Ene](https://m.media-amazon.com/images/I/418i-ojrOTL._SL200_.jpg)](https://www.amazon.es/dp/B00MCBF51Y/?tag=tolees-21)
+[![Seiko Reloj Analógico para Hombre de Ene](https://m.media-amazon.com/images/I/418i-ojrOTL._SL400_.jpg)](https://www.amazon.es/dp/B00MCBF51Y/?tag=tolees-21)
 
 ℹ️:
 

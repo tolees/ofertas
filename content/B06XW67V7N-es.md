@@ -2,7 +2,7 @@
 layout: post
 title: 'Silencio [DVD] al 42.82 % de descuento'
 date: 2020-08-25 09:17:19
-image: 'https://m.media-amazon.com/images/I/51LPM-He5hL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51LPM-He5hL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.0'
 
 Ahora mismo tienes [Silencio [DVD]](https://www.amazon.es/dp/B06XW67V7N/?tag=tolees-21) a 8.0 EUR (original: 13.99 EUR) (42.82 %  de descuento) en el siguiente enlace!
 
-[![Silencio [DVD]](https://m.media-amazon.com/images/I/51LPM-He5hL._SL200_.jpg)](https://www.amazon.es/dp/B06XW67V7N/?tag=tolees-21)
+[![Silencio [DVD]](https://m.media-amazon.com/images/I/51LPM-He5hL._SL400_.jpg)](https://www.amazon.es/dp/B06XW67V7N/?tag=tolees-21)
 
 🔎:
 

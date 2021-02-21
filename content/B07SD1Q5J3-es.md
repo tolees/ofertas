@@ -2,7 +2,7 @@
 layout: post
 title: 'PUMA ST Activate JR  Zapatillas Unisex n con un 40.33 % de descuento'
 date: 2020-10-01 20:38:17
-image: 'https://m.media-amazon.com/images/I/41zprV9LfaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41zprV9LfaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.605'
 
 En este momento está [PUMA ST Activate JR  Zapatillas Unisex niños  Rosa  Bright Rose/Rosewater   39 EU](https://www.amazon.es/dp/B07SD1Q5J3/?tag=tolees-21) a 23.84 EUR (original: 39.95 EUR) (40.33 %  de descuento) en el siguiente enlace!
 
-[![PUMA ST Activate JR  Zapatillas Unisex n](https://m.media-amazon.com/images/I/41zprV9LfaL._SL200_.jpg)](https://www.amazon.es/dp/B07SD1Q5J3/?tag=tolees-21)
+[![PUMA ST Activate JR  Zapatillas Unisex n](https://m.media-amazon.com/images/I/41zprV9LfaL._SL400_.jpg)](https://www.amazon.es/dp/B07SD1Q5J3/?tag=tolees-21)
 
 🔎:
 

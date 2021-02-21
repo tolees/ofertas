@@ -2,7 +2,7 @@
 layout: post
 title: 'Lee Extreme Motion Skinny Jeans  Azul  B al 48.98 % de rebaja'
 date: 2020-06-27 16:04:55
-image: 'https://m.media-amazon.com/images/I/41E4ddQ7UvL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41E4ddQ7UvL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '35.69'
 
 Tienes [Lee Extreme Motion Skinny Jeans  Azul  Blue Prodigy AB   33W / 30L para Hombre](https://www.amazon.es/dp/B07VFQ179M/?tag=tolees-21) con precio final de  35.69 EUR (original: 69.95 EUR) (48.98 %  de rebaja) aqui!
 
-[![Lee Extreme Motion Skinny Jeans  Azul  B](https://m.media-amazon.com/images/I/41E4ddQ7UvL._SL200_.jpg)](https://www.amazon.es/dp/B07VFQ179M/?tag=tolees-21)
+[![Lee Extreme Motion Skinny Jeans  Azul  B](https://m.media-amazon.com/images/I/41E4ddQ7UvL._SL400_.jpg)](https://www.amazon.es/dp/B07VFQ179M/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 29.98 % en CMP Rigel - Zapatillas de senderismo Muj'
 date: 2020-03-16 09:25:45
-image: 'https://m.media-amazon.com/images/I/51D8XwIt9UL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51D8XwIt9UL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '55.98'
 
 Tienes [CMP Rigel - Zapatillas de senderismo Mujer  Gris  Grey-Fuxia-Ice 103Q   41 UE](https://www.amazon.es/dp/B0160YHQDS/?tag=tolees-21) con un 29.98 % de descuento con precio de oferta de 55.98 EUR (original: 79.95 EUR) en el siguiente enlace!
 
-[![CMP Rigel - Zapatillas de senderismo Muj](https://m.media-amazon.com/images/I/51D8XwIt9UL._SL200_.jpg)](https://www.amazon.es/dp/B0160YHQDS/?tag=tolees-21)
+[![CMP Rigel - Zapatillas de senderismo Muj](https://m.media-amazon.com/images/I/51D8XwIt9UL._SL400_.jpg)](https://www.amazon.es/dp/B0160YHQDS/?tag=tolees-21)
 
 ℹ️:
 

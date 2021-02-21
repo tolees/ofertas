@@ -2,7 +2,7 @@
 layout: post
 title: 'Curren hombres reloj de cuarzo analógico al 40.15 % de descuento'
 date: 2020-04-08 22:05:27
-image: 'https://m.media-amazon.com/images/I/51rPjkPYOkL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51rPjkPYOkL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.89'
 
 Está [Curren hombres reloj de cuarzo analógico  reloj de pulsera de estilo militar multifunción  resistente al agua  con correa de cuero y pantalla de fecha 8301  Coffee ](https://www.amazon.es/dp/B077L5X1WQ/?tag=tolees-21) con 40.15 de descuento por 17.89 EUR (original: 29.89 EUR) en el siguiente enlace!
 
-[![Curren hombres reloj de cuarzo analógico](https://m.media-amazon.com/images/I/51rPjkPYOkL._SL200_.jpg)](https://www.amazon.es/dp/B077L5X1WQ/?tag=tolees-21)
+[![Curren hombres reloj de cuarzo analógico](https://m.media-amazon.com/images/I/51rPjkPYOkL._SL400_.jpg)](https://www.amazon.es/dp/B077L5X1WQ/?tag=tolees-21)
 
 ℹ️:
 

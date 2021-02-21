@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas Duramo 9 C  Zapatillas de Running al 39.90 % de descuento'
 date: 2020-03-31 17:47:39
-image: 'https://m.media-amazon.com/images/I/41Q8JeN1jhL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Q8JeN1jhL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.015'
 
 Ahora mismo tienes [adidas Duramo 9 C  Zapatillas de Running Unisex Niños  Negro  Core Black/FTWR White/Core Black Core Black/FTWR White/Core Black   28 EU](https://www.amazon.es/dp/B07KTX62QW/?tag=tolees-21) a 24.01 EUR (original: 39.95 EUR) (39.90 %  de descuento) en el siguiente enlace!
 
-[![adidas Duramo 9 C  Zapatillas de Running](https://m.media-amazon.com/images/I/41Q8JeN1jhL._SL200_.jpg)](https://www.amazon.es/dp/B07KTX62QW/?tag=tolees-21)
+[![adidas Duramo 9 C  Zapatillas de Running](https://m.media-amazon.com/images/I/41Q8JeN1jhL._SL400_.jpg)](https://www.amazon.es/dp/B07KTX62QW/?tag=tolees-21)
 
 🔎:
 

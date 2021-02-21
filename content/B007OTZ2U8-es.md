@@ -2,7 +2,7 @@
 layout: post
 title: 'Sierra Reposado  Tequila  70 cl - 700 ml con un 28.47 % de descuento'
 date: 2020-07-07 12:43:27
-image: 'https://m.media-amazon.com/images/I/51btrBAI-0L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51btrBAI-0L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.73'
 
 En este momento está [Sierra Reposado  Tequila  70 cl - 700 ml](https://www.amazon.es/dp/B007OTZ2U8/?tag=tolees-21) a 10.73 EUR (original: 15.0 EUR) (28.47 %  de descuento) en el siguiente enlace!
 
-[![Sierra Reposado  Tequila  70 cl - 700 ml](https://m.media-amazon.com/images/I/51btrBAI-0L._SL200_.jpg)](https://www.amazon.es/dp/B007OTZ2U8/?tag=tolees-21)
+[![Sierra Reposado  Tequila  70 cl - 700 ml](https://m.media-amazon.com/images/I/51btrBAI-0L._SL400_.jpg)](https://www.amazon.es/dp/B007OTZ2U8/?tag=tolees-21)
 
 🔎:
 

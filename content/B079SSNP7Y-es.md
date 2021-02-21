@@ -2,7 +2,7 @@
 layout: post
 title: 'Kappa SALCITO TKS Chándal  Hombre  Negro al 27.62 % de descuento'
 date: 2020-09-01 12:10:27
-image: 'https://m.media-amazon.com/images/I/31Zc4bYJXcL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Zc4bYJXcL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '27.49'
 
 Ahora mismo tienes [Kappa SALCITO TKS Chándal  Hombre  Negro/Amarillo  M](https://www.amazon.es/dp/B079SSNP7Y/?tag=tolees-21) a 27.49 EUR (original: 37.98 EUR) (27.62 %  de descuento) en el siguiente enlace!
 
-[![Kappa SALCITO TKS Chándal  Hombre  Negro](https://m.media-amazon.com/images/I/31Zc4bYJXcL._SL200_.jpg)](https://www.amazon.es/dp/B079SSNP7Y/?tag=tolees-21)
+[![Kappa SALCITO TKS Chándal  Hombre  Negro](https://m.media-amazon.com/images/I/31Zc4bYJXcL._SL400_.jpg)](https://www.amazon.es/dp/B079SSNP7Y/?tag=tolees-21)
 
 🔎:
 

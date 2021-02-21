@@ -2,7 +2,7 @@
 layout: post
 title: 'Pop Animation: Rick & Moty - Kirkland Me al 56.68 % de descuento'
 date: 2020-08-15 13:00:08
-image: 'https://m.media-amazon.com/images/I/31zVFNWaV9L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31zVFNWaV9L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.239999999999999'
 
 Ahora mismo tienes [Pop Animation: Rick & Moty - Kirkland Meeseeks](https://www.amazon.es/dp/B07SPVSJFZ/?tag=tolees-21) a 6.91 EUR (original: 15.95 EUR) (56.68 %  de descuento) en el siguiente enlace!
 
-[![Pop Animation: Rick & Moty - Kirkland Me](https://m.media-amazon.com/images/I/31zVFNWaV9L._SL200_.jpg)](https://www.amazon.es/dp/B07SPVSJFZ/?tag=tolees-21)
+[![Pop Animation: Rick & Moty - Kirkland Me](https://m.media-amazon.com/images/I/31zVFNWaV9L._SL400_.jpg)](https://www.amazon.es/dp/B07SPVSJFZ/?tag=tolees-21)
 
 🔎:
 

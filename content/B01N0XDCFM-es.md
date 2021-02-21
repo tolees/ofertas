@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 43.30 % en PDP Pixel Pals Luigi - #4 Figuras colecc'
 date: 2020-07-28 09:33:05
-image: 'https://m.media-amazon.com/images/I/41HN5mRtWEL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41HN5mRtWEL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.7725'
 
 Tienes [PDP Pixel Pals Luigi - #4 Figuras coleccionables Adultos - FiFiguras de acción y colleccionables  Figuras coleccionables  Multicolor  Videojuego  Adultos  Luigi  14 año s  ](https://www.amazon.es/dp/B01N0XDCFM/?tag=tolees-21) con un 43.30 % de descuento con precio de oferta de 8.5 EUR (original: 14.99 EUR) en el siguiente enlace!
 
-[![PDP Pixel Pals Luigi - #4 Figuras colecc](https://m.media-amazon.com/images/I/41HN5mRtWEL._SL200_.jpg)](https://www.amazon.es/dp/B01N0XDCFM/?tag=tolees-21)
+[![PDP Pixel Pals Luigi - #4 Figuras colecc](https://m.media-amazon.com/images/I/41HN5mRtWEL._SL400_.jpg)](https://www.amazon.es/dp/B01N0XDCFM/?tag=tolees-21)
 
 ℹ️:
 

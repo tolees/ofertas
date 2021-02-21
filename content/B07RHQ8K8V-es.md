@@ -2,7 +2,7 @@
 layout: post
 title: 'Columbia Vitesse  Zapatillas de Deporte  con un 53.83 % de descuento'
 date: 2020-07-12 05:17:13
-image: 'https://m.media-amazon.com/images/I/413MH4G+AfL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/413MH4G+AfL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '49.324999999999996'
 
 En este momento está [Columbia Vitesse  Zapatillas de Deporte para Mujer  Rojo  Juicy/White 608   37 EU](https://www.amazon.es/dp/B07RHQ8K8V/?tag=tolees-21) a 50.78 EUR (original: 109.99 EUR) (53.83 %  de descuento) en el siguiente enlace!
 
-[![Columbia Vitesse  Zapatillas de Deporte ](https://m.media-amazon.com/images/I/413MH4G+AfL._SL200_.jpg)](https://www.amazon.es/dp/B07RHQ8K8V/?tag=tolees-21)
+[![Columbia Vitesse  Zapatillas de Deporte ](https://m.media-amazon.com/images/I/413MH4G+AfL._SL400_.jpg)](https://www.amazon.es/dp/B07RHQ8K8V/?tag=tolees-21)
 
 🔎:
 

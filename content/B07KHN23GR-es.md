@@ -2,7 +2,7 @@
 layout: post
 title: 'UniqueMe Funda Huawei Mate 20 X  Ultra [ con un 85.78 % de descuento'
 date: 2020-04-11 18:35:28
-image: 'https://m.media-amazon.com/images/I/51cEhfW8fzL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51cEhfW8fzL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.99'
 
 En este momento está [UniqueMe Funda Huawei Mate 20 X  Ultra [Slim Thin] TPU Funda Protectora TPU de Silicona Suave para Mate 20 X - Transparente](https://www.amazon.es/dp/B07KHN23GR/?tag=tolees-21) a 1.99 EUR (original: 13.99 EUR) (85.78 %  de descuento) en el siguiente enlace!
 
-[![UniqueMe Funda Huawei Mate 20 X  Ultra [](https://m.media-amazon.com/images/I/51cEhfW8fzL._SL200_.jpg)](https://www.amazon.es/dp/B07KHN23GR/?tag=tolees-21)
+[![UniqueMe Funda Huawei Mate 20 X  Ultra [](https://m.media-amazon.com/images/I/51cEhfW8fzL._SL400_.jpg)](https://www.amazon.es/dp/B07KHN23GR/?tag=tolees-21)
 
 🔎:
 

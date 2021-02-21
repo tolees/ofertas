@@ -2,7 +2,7 @@
 layout: post
 title: 'Guirnalda de Luces LED Decorativas 10 Me al 50.03 % de rebaja'
 date: 2020-07-28 07:58:20
-image: 'https://m.media-amazon.com/images/I/61Y5U2KjDyL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61Y5U2KjDyL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.99'
 
 Tienes [Guirnalda de Luces LED Decorativas 10 Metros 100 LEDs Blanco Cálido con Control Remoto  USB  para Habitacion Interior](https://www.amazon.es/dp/B08539FSXM/?tag=tolees-21) con precio final de  8.99 EUR (original: 17.99 EUR) (50.03 %  de rebaja) aqui!
 
-[![Guirnalda de Luces LED Decorativas 10 Me](https://m.media-amazon.com/images/I/61Y5U2KjDyL._SL200_.jpg)](https://www.amazon.es/dp/B08539FSXM/?tag=tolees-21)
+[![Guirnalda de Luces LED Decorativas 10 Me](https://m.media-amazon.com/images/I/61Y5U2KjDyL._SL400_.jpg)](https://www.amazon.es/dp/B08539FSXM/?tag=tolees-21)
 
 🔎:
 

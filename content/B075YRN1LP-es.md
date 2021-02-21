@@ -2,7 +2,7 @@
 layout: post
 title: 'BRTLX 5W G45 Bombilla LED Mini Globo Bla al 40.02 % de descuento'
 date: 2020-08-03 20:21:45
-image: 'https://m.media-amazon.com/images/I/41uSVoIE2-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41uSVoIE2-L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.99'
 
 Está [BRTLX 5W G45 Bombilla LED Mini Globo Blanco Frio 6000K E14 Incandescente Equivalente a 45 Ángulo de haz 220Grados 400Lm No Regulable 4 Unidades](https://www.amazon.es/dp/B075YRN1LP/?tag=tolees-21) con 40.02 de descuento por 11.99 EUR (original: 19.99 EUR) en el siguiente enlace!
 
-[![BRTLX 5W G45 Bombilla LED Mini Globo Bla](https://m.media-amazon.com/images/I/41uSVoIE2-L._SL200_.jpg)](https://www.amazon.es/dp/B075YRN1LP/?tag=tolees-21)
+[![BRTLX 5W G45 Bombilla LED Mini Globo Bla](https://m.media-amazon.com/images/I/41uSVoIE2-L._SL400_.jpg)](https://www.amazon.es/dp/B075YRN1LP/?tag=tolees-21)
 
 ℹ️:
 

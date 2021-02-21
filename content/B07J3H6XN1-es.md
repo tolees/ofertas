@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour Golf Headline 3.0 C Gorra c al 47.55 % de descuento'
 date: 2020-06-25 10:24:56
-image: 'https://m.media-amazon.com/images/I/41IWlvx4ZGL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41IWlvx4ZGL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.49'
 
 Está [Under Armour Golf Headline 3.0 C Gorra con Logo Frontal  Hombre  Gris  Gray 012   L/XL](https://www.amazon.es/dp/B07J3H6XN1/?tag=tolees-21) con 47.55 de descuento por 10.49 EUR (original: 20.0 EUR) en el siguiente enlace!
 
-[![Under Armour Golf Headline 3.0 C Gorra c](https://m.media-amazon.com/images/I/41IWlvx4ZGL._SL200_.jpg)](https://www.amazon.es/dp/B07J3H6XN1/?tag=tolees-21)
+[![Under Armour Golf Headline 3.0 C Gorra c](https://m.media-amazon.com/images/I/41IWlvx4ZGL._SL400_.jpg)](https://www.amazon.es/dp/B07J3H6XN1/?tag=tolees-21)
 
 ℹ️:
 

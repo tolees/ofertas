@@ -2,7 +2,7 @@
 layout: post
 title: 'IXROAD 4K 30fps Cámara Deportiva Acción  con un 45.00 % de descuento'
 date: 2020-07-07 08:32:38
-image: 'https://m.media-amazon.com/images/I/51rg8b4z43L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51rg8b4z43L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '65.99'
 
 En este momento está [IXROAD 4K 30fps Cámara Deportiva Acción 16MP WiFi Action CAM Videocámara Acuática Sumergible con Pantalla Táctil Corrección Distorsión Time Lapse Slow Motion 2 Baterías y Accesorios](https://www.amazon.es/dp/B07TBFV6D3/?tag=tolees-21) a 65.99 EUR (original: 119.99 EUR) (45.00 %  de descuento) en el siguiente enlace!
 
-[![IXROAD 4K 30fps Cámara Deportiva Acción ](https://m.media-amazon.com/images/I/51rg8b4z43L._SL200_.jpg)](https://www.amazon.es/dp/B07TBFV6D3/?tag=tolees-21)
+[![IXROAD 4K 30fps Cámara Deportiva Acción ](https://m.media-amazon.com/images/I/51rg8b4z43L._SL400_.jpg)](https://www.amazon.es/dp/B07TBFV6D3/?tag=tolees-21)
 
 🔎:
 

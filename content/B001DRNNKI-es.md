@@ -2,7 +2,7 @@
 layout: post
 title: 'MANN-FILTER CUK 2939 Habitáculo  Filtro  al 45.97 % de descuento'
 date: 2020-07-04 19:02:03
-image: 'https://m.media-amazon.com/images/I/31RI5EJZ5KL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31RI5EJZ5KL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.509999999999998'
 
 Está [MANN-FILTER CUK 2939 Habitáculo  Filtro antipolen con carbón Activo  para automóviles](https://www.amazon.es/dp/B001DRNNKI/?tag=tolees-21) con 45.97 de descuento por 11.12 EUR (original: 20.58 EUR) en el siguiente enlace!
 
-[![MANN-FILTER CUK 2939 Habitáculo  Filtro ](https://m.media-amazon.com/images/I/31RI5EJZ5KL._SL200_.jpg)](https://www.amazon.es/dp/B001DRNNKI/?tag=tolees-21)
+[![MANN-FILTER CUK 2939 Habitáculo  Filtro ](https://m.media-amazon.com/images/I/31RI5EJZ5KL._SL400_.jpg)](https://www.amazon.es/dp/B001DRNNKI/?tag=tolees-21)
 
 ℹ️:
 

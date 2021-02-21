@@ -2,7 +2,7 @@
 layout: post
 title: 'Buffalo Chai  Zapatillas Altas para Muje al 47.45 % de descuento'
 date: 2020-06-01 14:28:35
-image: 'https://m.media-amazon.com/images/I/41tuTnof+FL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41tuTnof+FL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '52.5'
 
 Está [Buffalo Chai  Zapatillas Altas para Mujer  Beige  Beige 000   40 EU](https://www.amazon.es/dp/B07T1LXP6Z/?tag=tolees-21) con 47.45 de descuento por 52.5 EUR (original: 99.9 EUR) en el siguiente enlace!
 
-[![Buffalo Chai  Zapatillas Altas para Muje](https://m.media-amazon.com/images/I/41tuTnof+FL._SL200_.jpg)](https://www.amazon.es/dp/B07T1LXP6Z/?tag=tolees-21)
+[![Buffalo Chai  Zapatillas Altas para Muje](https://m.media-amazon.com/images/I/41tuTnof+FL._SL400_.jpg)](https://www.amazon.es/dp/B07T1LXP6Z/?tag=tolees-21)
 
 ℹ️:
 

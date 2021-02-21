@@ -2,7 +2,7 @@
 layout: post
 title: 'Clarks Un Elda Mid  Botas Slouch para Mu al 82.53 % de rebaja'
 date: 2020-04-28 22:49:39
-image: 'https://m.media-amazon.com/images/I/31J5j+cYa4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31J5j+cYa4L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '30.334'
 
 Tienes [Clarks Un Elda Mid  Botas Slouch para Mujer  Negro  Black Combi Black Combi   35.5 EU](https://www.amazon.es/dp/B07N1JMZV9/?tag=tolees-21) con precio final de  26.21 EUR (original: 150.0 EUR) (82.53 %  de rebaja) aqui!
 
-[![Clarks Un Elda Mid  Botas Slouch para Mu](https://m.media-amazon.com/images/I/31J5j+cYa4L._SL200_.jpg)](https://www.amazon.es/dp/B07N1JMZV9/?tag=tolees-21)
+[![Clarks Un Elda Mid  Botas Slouch para Mu](https://m.media-amazon.com/images/I/31J5j+cYa4L._SL400_.jpg)](https://www.amazon.es/dp/B07N1JMZV9/?tag=tolees-21)
 
 🔎:
 

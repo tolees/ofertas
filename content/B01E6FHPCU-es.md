@@ -2,7 +2,7 @@
 layout: post
 title: 'Somfy 2400961 Kit de Alimentación Solar  al 50.55 % de descuento'
 date: 2020-09-25 13:59:53
-image: 'https://m.media-amazon.com/images/I/4126q4o-oDL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/4126q4o-oDL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '309.78999999999996'
 
 Está [Somfy 2400961 Kit de Alimentación Solar  Gris](https://www.amazon.es/dp/B01E6FHPCU/?tag=tolees-21) con 50.55 de descuento por 241.8 EUR (original: 489.0 EUR) en el siguiente enlace!
 
-[![Somfy 2400961 Kit de Alimentación Solar ](https://m.media-amazon.com/images/I/4126q4o-oDL._SL200_.jpg)](https://www.amazon.es/dp/B01E6FHPCU/?tag=tolees-21)
+[![Somfy 2400961 Kit de Alimentación Solar ](https://m.media-amazon.com/images/I/4126q4o-oDL._SL400_.jpg)](https://www.amazon.es/dp/B01E6FHPCU/?tag=tolees-21)
 
 ℹ️:
 

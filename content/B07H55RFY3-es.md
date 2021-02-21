@@ -2,7 +2,7 @@
 layout: post
 title: 'X-TIGER Hombres de Bicicleta Manga corta con un 30.75 % de descuento'
 date: 2020-05-09 17:05:04
-image: 'https://m.media-amazon.com/images/I/419li5B3OHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/419li5B3OHL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '32.49'
 
 En este momento está [X-TIGER Hombres de Bicicleta Manga corta Shorts Top Maillots con 5D Acolchado Gel MTB Ciclismo Pantalones Cortos  verde XL ](https://www.amazon.es/dp/B07H55RFY3/?tag=tolees-21) a 32.49 EUR (original: 46.92 EUR) (30.75 %  de descuento) en el siguiente enlace!
 
-[![X-TIGER Hombres de Bicicleta Manga corta](https://m.media-amazon.com/images/I/419li5B3OHL._SL200_.jpg)](https://www.amazon.es/dp/B07H55RFY3/?tag=tolees-21)
+[![X-TIGER Hombres de Bicicleta Manga corta](https://m.media-amazon.com/images/I/419li5B3OHL._SL400_.jpg)](https://www.amazon.es/dp/B07H55RFY3/?tag=tolees-21)
 
 🔎:
 

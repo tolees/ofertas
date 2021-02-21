@@ -2,7 +2,7 @@
 layout: post
 title: 'Nike MD Runner 2  Zapatillas para Niños  al 50.12 % de rebaja'
 date: 2020-06-22 21:53:09
-image: 'https://m.media-amazon.com/images/I/41cZL11zwgL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41cZL11zwgL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.95'
 
 Tienes [Nike MD Runner 2  Zapatillas para Niños  Multicolor Negro 000  33.5 EU](https://www.amazon.es/dp/B016EPNKM4/?tag=tolees-21) con precio final de  19.95 EUR (original: 40.0 EUR) (50.12 %  de rebaja) aqui!
 
-[![Nike MD Runner 2  Zapatillas para Niños ](https://m.media-amazon.com/images/I/41cZL11zwgL._SL200_.jpg)](https://www.amazon.es/dp/B016EPNKM4/?tag=tolees-21)
+[![Nike MD Runner 2  Zapatillas para Niños ](https://m.media-amazon.com/images/I/41cZL11zwgL._SL400_.jpg)](https://www.amazon.es/dp/B016EPNKM4/?tag=tolees-21)
 
 🔎:
 

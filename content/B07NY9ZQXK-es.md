@@ -2,7 +2,7 @@
 layout: post
 title: 'Skechers Heston-Regano  Botas Clasicas p al 40.03 % de rebaja'
 date: 2020-01-14 18:43:16
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31PG%2BkEkXGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31PG%2BkEkXGL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '44.95'
 
 Tienes [Skechers Heston-Regano  Botas Clasicas para Hombre  Marrón  Dark Brown Leather CDB   42.5 EU](https://www.amazon.es/dp/B07NY9ZQXK/?tag=tolees-21) con precio final de  44.95 EUR (original: 74.95 EUR) (40.03 %  de rebaja) aqui!
 
-[![Skechers Heston-Regano  Botas Clasicas p](https://images-eu.ssl-images-amazon.com/images/I/31PG%2BkEkXGL._SL200_.jpg)](https://www.amazon.es/dp/B07NY9ZQXK/?tag=tolees-21)
+[![Skechers Heston-Regano  Botas Clasicas p](https://images-eu.ssl-images-amazon.com/images/I/31PG%2BkEkXGL._SL400_.jpg)](https://www.amazon.es/dp/B07NY9ZQXK/?tag=tolees-21)
 
 🔎:
 

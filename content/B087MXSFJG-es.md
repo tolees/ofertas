@@ -2,7 +2,7 @@
 layout: post
 title: '50 colores 100 colores punto de cruz hil al 40.00 % de descuento'
 date: 2020-06-20 12:45:23
-image: 'https://m.media-amazon.com/images/I/51VQBdQ07gL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51VQBdQ07gL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.66'
 
 Ahora mismo tienes [50 colores 100 colores punto de cruz hilo poliéster algodón bordado hilo arco iris color bordado a mano hilo trenzado](https://www.amazon.es/dp/B087MXSFJG/?tag=tolees-21) a 3.66 EUR (original: 6.1 EUR) (40.00 %  de descuento) en el siguiente enlace!
 
-[![50 colores 100 colores punto de cruz hil](https://m.media-amazon.com/images/I/51VQBdQ07gL._SL200_.jpg)](https://www.amazon.es/dp/B087MXSFJG/?tag=tolees-21)
+[![50 colores 100 colores punto de cruz hil](https://m.media-amazon.com/images/I/51VQBdQ07gL._SL400_.jpg)](https://www.amazon.es/dp/B087MXSFJG/?tag=tolees-21)
 
 🔎:
 

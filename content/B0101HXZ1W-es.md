@@ -2,7 +2,7 @@
 layout: post
 title: 'Bote 3 unidades Pelotas Nox al 28.78 % de descuento'
 date: 2020-05-09 18:03:34
-image: 'https://m.media-amazon.com/images/I/41YDCUrM-ZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41YDCUrM-ZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.95'
 
 Está [Bote 3 unidades Pelotas Nox](https://www.amazon.es/dp/B0101HXZ1W/?tag=tolees-21) con 28.78 de descuento por 4.95 EUR (original: 6.95 EUR) en el siguiente enlace!
 
-[![Bote 3 unidades Pelotas Nox](https://m.media-amazon.com/images/I/41YDCUrM-ZL._SL200_.jpg)](https://www.amazon.es/dp/B0101HXZ1W/?tag=tolees-21)
+[![Bote 3 unidades Pelotas Nox](https://m.media-amazon.com/images/I/41YDCUrM-ZL._SL400_.jpg)](https://www.amazon.es/dp/B0101HXZ1W/?tag=tolees-21)
 
 ℹ️:
 

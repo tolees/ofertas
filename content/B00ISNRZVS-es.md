@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 70.82 % en Taurus 999.185 Recambio Envasadora'
 date: 2020-05-10 09:46:22
-image: 'https://m.media-amazon.com/images/I/41eotjJ-waL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41eotjJ-waL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.0'
 
 Tienes [Taurus 999.185 Recambio Envasadora](https://www.amazon.es/dp/B00ISNRZVS/?tag=tolees-21) con un 70.82 % de descuento con precio de oferta de 7.0 EUR (original: 23.99 EUR) en el siguiente enlace!
 
-[![Taurus 999.185 Recambio Envasadora](https://m.media-amazon.com/images/I/41eotjJ-waL._SL200_.jpg)](https://www.amazon.es/dp/B00ISNRZVS/?tag=tolees-21)
+[![Taurus 999.185 Recambio Envasadora](https://m.media-amazon.com/images/I/41eotjJ-waL._SL400_.jpg)](https://www.amazon.es/dp/B00ISNRZVS/?tag=tolees-21)
 
 ℹ️:
 

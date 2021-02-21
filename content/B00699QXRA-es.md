@@ -2,7 +2,7 @@
 layout: post
 title: 'INJUSA Triciclo Infantil Body Sport Evol al 32.21 % de rebaja'
 date: 2020-03-25 08:03:16
-image: 'https://m.media-amazon.com/images/I/414DP9sQmYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/414DP9sQmYL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '67.78'
 
 Tienes [INJUSA Triciclo Infantil Body Sport Evolutivo de Color Rosa  12m+  3252 ](https://www.amazon.es/dp/B00699QXRA/?tag=tolees-21) con precio final de  67.78 EUR (original: 99.99 EUR) (32.21 %  de rebaja) aqui!
 
-[![INJUSA Triciclo Infantil Body Sport Evol](https://m.media-amazon.com/images/I/414DP9sQmYL._SL200_.jpg)](https://www.amazon.es/dp/B00699QXRA/?tag=tolees-21)
+[![INJUSA Triciclo Infantil Body Sport Evol](https://m.media-amazon.com/images/I/414DP9sQmYL._SL400_.jpg)](https://www.amazon.es/dp/B00699QXRA/?tag=tolees-21)
 
 🔎:
 

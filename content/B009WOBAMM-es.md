@@ -2,7 +2,7 @@
 layout: post
 title: 'Lee Luke Jeans  Clean Black  38W / 34L p al 63.65 % de rebaja'
 date: 2020-06-27 20:36:11
-image: 'https://m.media-amazon.com/images/I/31T-DCpbVuL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31T-DCpbVuL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '34.46333333333333'
 
 Tienes [Lee Luke Jeans  Clean Black  38W / 34L para Hombre](https://www.amazon.es/dp/B009WOBAMM/?tag=tolees-21) con precio final de  32.7 EUR (original: 89.95 EUR) (63.65 %  de rebaja) aqui!
 
-[![Lee Luke Jeans  Clean Black  38W / 34L p](https://m.media-amazon.com/images/I/31T-DCpbVuL._SL200_.jpg)](https://www.amazon.es/dp/B009WOBAMM/?tag=tolees-21)
+[![Lee Luke Jeans  Clean Black  38W / 34L p](https://m.media-amazon.com/images/I/31T-DCpbVuL._SL400_.jpg)](https://www.amazon.es/dp/B009WOBAMM/?tag=tolees-21)
 
 🔎:
 

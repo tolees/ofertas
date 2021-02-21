@@ -2,7 +2,7 @@
 layout: post
 title: 'TRESemmé Laca Extra Fuerte - 400 ml al 53.91 % de descuento'
 date: 2020-02-18 09:54:02
-image: 'https://m.media-amazon.com/images/I/31gRoTBKMuL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31gRoTBKMuL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.3'
 
 Está [TRESemmé Laca Extra Fuerte - 400 ml](https://www.amazon.es/dp/B01MQYD2L1/?tag=tolees-21) con 53.91 de descuento por 2.3 EUR (original: 4.99 EUR) en el siguiente enlace!
 
-[![TRESemmé Laca Extra Fuerte - 400 ml](https://m.media-amazon.com/images/I/31gRoTBKMuL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01MQYD2L1/?tag=tolees-21)
+[![TRESemmé Laca Extra Fuerte - 400 ml](https://m.media-amazon.com/images/I/31gRoTBKMuL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01MQYD2L1/?tag=tolees-21)
 
 ℹ️:
 

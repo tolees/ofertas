@@ -2,7 +2,7 @@
 layout: post
 title: 'Superdry Zip Hood Capucha  Gris  Collect al 77.78 % de rebaja'
 date: 2020-08-09 19:10:32
-image: 'https://m.media-amazon.com/images/I/415Pr3Zu-KL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/415Pr3Zu-KL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.77'
 
 Tienes [Superdry Zip Hood Capucha  Gris  Collective Dark Grey Grit 9ss   S para Hombre](https://www.amazon.es/dp/B07TNRKC4J/?tag=tolees-21) con precio final de  17.77 EUR (original: 79.99 EUR) (77.78 %  de rebaja) aqui!
 
-[![Superdry Zip Hood Capucha  Gris  Collect](https://m.media-amazon.com/images/I/415Pr3Zu-KL._SL200_.jpg)](https://www.amazon.es/dp/B07TNRKC4J/?tag=tolees-21)
+[![Superdry Zip Hood Capucha  Gris  Collect](https://m.media-amazon.com/images/I/415Pr3Zu-KL._SL400_.jpg)](https://www.amazon.es/dp/B07TNRKC4J/?tag=tolees-21)
 
 🔎:
 

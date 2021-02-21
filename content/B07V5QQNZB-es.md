@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 60.55 % en Tommy Hilfiger Modern Corporate Leather '
 date: 2020-08-03 19:03:07
-image: 'https://m.media-amazon.com/images/I/31vwaPx3sAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31vwaPx3sAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '53.23'
 
 Tienes [Tommy Hilfiger Modern Corporate Leather Runner  Zapatillas para Hombre  Blanco  White Ybs   42 EU](https://www.amazon.es/dp/B07V5QQNZB/?tag=tolees-21) con un 60.55 % de descuento con precio de oferta de 49.27 EUR (original: 124.9 EUR) en el siguiente enlace!
 
-[![Tommy Hilfiger Modern Corporate Leather ](https://m.media-amazon.com/images/I/31vwaPx3sAL._SL200_.jpg)](https://www.amazon.es/dp/B07V5QQNZB/?tag=tolees-21)
+[![Tommy Hilfiger Modern Corporate Leather ](https://m.media-amazon.com/images/I/31vwaPx3sAL._SL400_.jpg)](https://www.amazon.es/dp/B07V5QQNZB/?tag=tolees-21)
 
 ℹ️:
 

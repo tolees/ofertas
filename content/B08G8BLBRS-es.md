@@ -2,7 +2,7 @@
 layout: post
 title: 'Lechnical Termómetros infrarrojos con un 65.07 % de descuento'
 date: 2020-08-29 19:15:36
-image: 'https://m.media-amazon.com/images/I/31DcgkSIuqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31DcgkSIuqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.78'
 
 En este momento está [Lechnical Termómetros infrarrojos](https://www.amazon.es/dp/B08G8BLBRS/?tag=tolees-21) a 6.98 EUR (original: 19.98 EUR) (65.07 %  de descuento) en el siguiente enlace!
 
-[![Lechnical Termómetros infrarrojos](https://m.media-amazon.com/images/I/31DcgkSIuqL._SL200_.jpg)](https://www.amazon.es/dp/B08G8BLBRS/?tag=tolees-21)
+[![Lechnical Termómetros infrarrojos](https://m.media-amazon.com/images/I/31DcgkSIuqL._SL400_.jpg)](https://www.amazon.es/dp/B08G8BLBRS/?tag=tolees-21)
 
 🔎:
 

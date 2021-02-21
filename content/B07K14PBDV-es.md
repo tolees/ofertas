@@ -2,7 +2,7 @@
 layout: post
 title: 'Lee Malone Jeans  Blue Drop Em  28W / 30 al 67.50 % de rebaja'
 date: 2020-04-30 07:20:50
-image: 'https://m.media-amazon.com/images/I/41stim4gb+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41stim4gb+L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '44.58'
 
 Tienes [Lee Malone Jeans  Blue Drop Em  28W / 30L para Hombre](https://www.amazon.es/dp/B07K14PBDV/?tag=tolees-21) con precio final de  32.48 EUR (original: 99.95 EUR) (67.50 %  de rebaja) aqui!
 
-[![Lee Malone Jeans  Blue Drop Em  28W / 30](https://m.media-amazon.com/images/I/41stim4gb+L._SL200_.jpg)](https://www.amazon.es/dp/B07K14PBDV/?tag=tolees-21)
+[![Lee Malone Jeans  Blue Drop Em  28W / 30](https://m.media-amazon.com/images/I/41stim4gb+L._SL400_.jpg)](https://www.amazon.es/dp/B07K14PBDV/?tag=tolees-21)
 
 🔎:
 

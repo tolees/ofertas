@@ -2,7 +2,7 @@
 layout: post
 title: 'Ingenuity Jungle Journey - Columpio port al 27.97 % de descuento'
 date: 2020-04-30 14:39:23
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41mOr4o%2BICL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41mOr4o%2BICL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '82.8'
 
 Ahora mismo tienes [Ingenuity Jungle Journey - Columpio portátil  unisex](https://www.amazon.es/dp/B01EUN9XD2/?tag=tolees-21) a 82.8 EUR (original: 114.95 EUR) (27.97 %  de descuento) en el siguiente enlace!
 
-[![Ingenuity Jungle Journey - Columpio port](https://images-eu.ssl-images-amazon.com/images/I/41mOr4o%2BICL._SL200_.jpg)](https://www.amazon.es/dp/B01EUN9XD2/?tag=tolees-21)
+[![Ingenuity Jungle Journey - Columpio port](https://images-eu.ssl-images-amazon.com/images/I/41mOr4o%2BICL._SL400_.jpg)](https://www.amazon.es/dp/B01EUN9XD2/?tag=tolees-21)
 
 🔎:
 

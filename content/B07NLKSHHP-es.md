@@ -2,7 +2,7 @@
 layout: post
 title: 'Versace Jeans CouturePortafoglioMujerCar al 33.95 % de descuento'
 date: 2020-02-26 10:13:21
-image: 'https://m.media-amazon.com/images/I/41o8dp5vAVL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41o8dp5vAVL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '128.13'
 
 Ahora mismo tienes [Versace Jeans CouturePortafoglioMujerCarterasRojo  Rosso  2 5x12x20 centimeters  W x H x L ](https://www.amazon.es/dp/B07NLKSHHP/?tag=tolees-21) a 128.13 EUR (original: 194.0 EUR) (33.95 %  de descuento) en el siguiente enlace!
 
-[![Versace Jeans CouturePortafoglioMujerCar](https://m.media-amazon.com/images/I/41o8dp5vAVL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07NLKSHHP/?tag=tolees-21)
+[![Versace Jeans CouturePortafoglioMujerCar](https://m.media-amazon.com/images/I/41o8dp5vAVL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07NLKSHHP/?tag=tolees-21)
 
 🔎:
 

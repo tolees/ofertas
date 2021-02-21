@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 32.51 % en adidas Originals Superstar  Zapatillas U'
 date: 2020-05-11 07:57:56
-image: 'https://m.media-amazon.com/images/I/31OR+lSelhL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31OR+lSelhL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '54.95666666666666'
 
 Tienes [adidas Originals Superstar  Zapatillas Unisex Adulto  Blanco  Footwear White/Footwear White/Footwear White   45 1/3 EU](https://www.amazon.es/dp/B00PNUHMAI/?tag=tolees-21) con un 32.51 % de descuento con precio de oferta de 67.46 EUR (original: 99.95 EUR) en el siguiente enlace!
 
-[![adidas Originals Superstar  Zapatillas U](https://m.media-amazon.com/images/I/31OR+lSelhL._SL200_.jpg)](https://www.amazon.es/dp/B00PNUHMAI/?tag=tolees-21)
+[![adidas Originals Superstar  Zapatillas U](https://m.media-amazon.com/images/I/31OR+lSelhL._SL400_.jpg)](https://www.amazon.es/dp/B00PNUHMAI/?tag=tolees-21)
 
 ℹ️:
 

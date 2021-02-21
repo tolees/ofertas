@@ -2,7 +2,7 @@
 layout: post
 title: 'Cortador de Verduras  opamoo 3 en 1 Cort con un 52.02 % de descuento'
 date: 2020-07-08 13:27:07
-image: 'https://m.media-amazon.com/images/I/51DF1napTbL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51DF1napTbL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.49'
 
 En este momento está [Cortador de Verduras  opamoo 3 en 1 Cortador en Espiral Manual Rallador de Verduras con 3 Cuchillas Mandolina de Cocina para Pepino Papa Calabaza Calabacín Zanahoria](https://www.amazon.es/dp/B07D1JGWK8/?tag=tolees-21) a 11.99 EUR (original: 24.99 EUR) (52.02 %  de descuento) en el siguiente enlace!
 
-[![Cortador de Verduras  opamoo 3 en 1 Cort](https://m.media-amazon.com/images/I/51DF1napTbL._SL200_.jpg)](https://www.amazon.es/dp/B07D1JGWK8/?tag=tolees-21)
+[![Cortador de Verduras  opamoo 3 en 1 Cort](https://m.media-amazon.com/images/I/51DF1napTbL._SL400_.jpg)](https://www.amazon.es/dp/B07D1JGWK8/?tag=tolees-21)
 
 🔎:
 

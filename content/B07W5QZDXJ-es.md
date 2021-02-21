@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 55.86 % en POP THE OFFICE DWIGHT AS ELF V'
 date: 2020-02-01 12:52:53
-image: 'https://m.media-amazon.com/images/I/41VLxazFoNL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41VLxazFoNL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.96'
 
 Tienes [POP THE OFFICE DWIGHT AS ELF V](https://www.amazon.es/dp/B07W5QZDXJ/?tag=tolees-21) con un 55.86 % de descuento con precio de oferta de 5.27 EUR (original: 11.94 EUR) en el siguiente enlace!
 
-[![POP THE OFFICE DWIGHT AS ELF V](https://m.media-amazon.com/images/I/41VLxazFoNL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07W5QZDXJ/?tag=tolees-21)
+[![POP THE OFFICE DWIGHT AS ELF V](https://m.media-amazon.com/images/I/41VLxazFoNL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07W5QZDXJ/?tag=tolees-21)
 
 ℹ️:
 

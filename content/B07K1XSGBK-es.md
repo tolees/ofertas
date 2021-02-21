@@ -2,7 +2,7 @@
 layout: post
 title: 'CÚRCUMA + MATCHA Té Verde En Polvo - MEJ al 30.02 % de descuento'
 date: 2020-06-28 14:24:07
-image: 'https://m.media-amazon.com/images/I/51g0h4KcOFL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51g0h4KcOFL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.59'
 
 Está [CÚRCUMA + MATCHA Té Verde En Polvo - MEJORES MEZCLAS DE SUPERFOODS  100g  50 tazas   Polvo de Matcha Japonés 100% Puro y Sin Mezclar  137x ANTIOXIDANTES | Aumenta la energía y el metabolismo](https://www.amazon.es/dp/B07K1XSGBK/?tag=tolees-21) con 30.02 de descuento por 12.59 EUR (original: 17.99 EUR) en el siguiente enlace!
 
-[![CÚRCUMA + MATCHA Té Verde En Polvo - MEJ](https://m.media-amazon.com/images/I/51g0h4KcOFL._SL200_.jpg)](https://www.amazon.es/dp/B07K1XSGBK/?tag=tolees-21)
+[![CÚRCUMA + MATCHA Té Verde En Polvo - MEJ](https://m.media-amazon.com/images/I/51g0h4KcOFL._SL400_.jpg)](https://www.amazon.es/dp/B07K1XSGBK/?tag=tolees-21)
 
 ℹ️:
 

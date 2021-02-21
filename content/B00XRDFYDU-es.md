@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 52.96 % en Swiss Military 6-4251.04.007'
 date: 2020-04-25 08:20:45
-image: 'https://m.media-amazon.com/images/I/41f3NjjTpyL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41f3NjjTpyL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '105.0'
 
 Tienes [Swiss Military 6-4251.04.007](https://www.amazon.es/dp/B00XRDFYDU/?tag=tolees-21) con un 52.96 % de descuento con precio de oferta de 105.0 EUR (original: 223.2 EUR) en el siguiente enlace!
 
-[![Swiss Military 6-4251.04.007](https://m.media-amazon.com/images/I/41f3NjjTpyL._SL200_.jpg)](https://www.amazon.es/dp/B00XRDFYDU/?tag=tolees-21)
+[![Swiss Military 6-4251.04.007](https://m.media-amazon.com/images/I/41f3NjjTpyL._SL400_.jpg)](https://www.amazon.es/dp/B00XRDFYDU/?tag=tolees-21)
 
 ℹ️:
 

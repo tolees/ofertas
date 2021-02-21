@@ -2,7 +2,7 @@
 layout: post
 title: 'Neutrogena Cellular Boost Anti-Edad  Cre al 41.81 % de descuento'
 date: 2020-06-09 16:25:07
-image: 'https://m.media-amazon.com/images/I/51A1WULty-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51A1WULty-L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.263333333333332'
 
 Está [Neutrogena Cellular Boost Anti-Edad  Crema De Día Spf 20 Con Vitamina C  Para La Cara Y El Cuello 1 Unidad 50 ml](https://www.amazon.es/dp/B081QHNBJF/?tag=tolees-21) con 41.81 de descuento por 17.4 EUR (original: 29.9 EUR) en el siguiente enlace!
 
-[![Neutrogena Cellular Boost Anti-Edad  Cre](https://m.media-amazon.com/images/I/51A1WULty-L._SL200_.jpg)](https://www.amazon.es/dp/B081QHNBJF/?tag=tolees-21)
+[![Neutrogena Cellular Boost Anti-Edad  Cre](https://m.media-amazon.com/images/I/51A1WULty-L._SL400_.jpg)](https://www.amazon.es/dp/B081QHNBJF/?tag=tolees-21)
 
 ℹ️:
 

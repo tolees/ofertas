@@ -2,7 +2,7 @@
 layout: post
 title: 'Clarks Tri Abby  Zapatillas para Mujer   al 44.89 % de descuento'
 date: 2020-02-03 20:48:57
-image: 'https://m.media-amazon.com/images/I/31UfXBSpP4L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31UfXBSpP4L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '55.08'
 
 Ahora mismo tienes [Clarks Tri Abby  Zapatillas para Mujer  Negro  Black Black   42 EU](https://www.amazon.es/dp/B07N1JX2LZ/?tag=tolees-21) a 55.08 EUR (original: 99.95 EUR) (44.89 %  de descuento) en el siguiente enlace!
 
-[![Clarks Tri Abby  Zapatillas para Mujer  ](https://m.media-amazon.com/images/I/31UfXBSpP4L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07N1JX2LZ/?tag=tolees-21)
+[![Clarks Tri Abby  Zapatillas para Mujer  ](https://m.media-amazon.com/images/I/31UfXBSpP4L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07N1JX2LZ/?tag=tolees-21)
 
 🔎:
 

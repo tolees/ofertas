@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas DX7301 Pantalones Cortos de Depor al 46.37 % de descuento'
 date: 2020-05-27 10:21:05
-image: 'https://m.media-amazon.com/images/I/31twpx8m0cL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31twpx8m0cL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.99'
 
 Ahora mismo tienes [adidas DX7301 Pantalones Cortos de Deporte  Niños  Rojo  Power Red/White   11-12](https://www.amazon.es/dp/B07KCXHVRR/?tag=tolees-21) a 14.99 EUR (original: 27.95 EUR) (46.37 %  de descuento) en el siguiente enlace!
 
-[![adidas DX7301 Pantalones Cortos de Depor](https://m.media-amazon.com/images/I/31twpx8m0cL._SL200_.jpg)](https://www.amazon.es/dp/B07KCXHVRR/?tag=tolees-21)
+[![adidas DX7301 Pantalones Cortos de Depor](https://m.media-amazon.com/images/I/31twpx8m0cL._SL400_.jpg)](https://www.amazon.es/dp/B07KCXHVRR/?tag=tolees-21)
 
 🔎:
 

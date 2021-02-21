@@ -2,7 +2,7 @@
 layout: post
 title: 'Emsa Basic Tapa  Blanco  33 cm con un 38.06 % de descuento'
 date: 2020-05-29 16:25:35
-image: 'https://m.media-amazon.com/images/I/211ByoQsbiL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/211ByoQsbiL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.15'
 
 En este momento está [Emsa Basic Tapa  Blanco  33 cm](https://www.amazon.es/dp/B000V3NBIO/?tag=tolees-21) a 11.15 EUR (original: 18.0 EUR) (38.06 %  de descuento) en el siguiente enlace!
 
-[![Emsa Basic Tapa  Blanco  33 cm](https://m.media-amazon.com/images/I/211ByoQsbiL._SL200_.jpg)](https://www.amazon.es/dp/B000V3NBIO/?tag=tolees-21)
+[![Emsa Basic Tapa  Blanco  33 cm](https://m.media-amazon.com/images/I/211ByoQsbiL._SL400_.jpg)](https://www.amazon.es/dp/B000V3NBIO/?tag=tolees-21)
 
 🔎:
 

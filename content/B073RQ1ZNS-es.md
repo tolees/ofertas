@@ -2,7 +2,7 @@
 layout: post
 title: 'Helly Hansen Crew Gorra  Unisex Adulto   al 41.75 % de descuento'
 date: 2020-01-17 20:38:13
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31EPSGohIJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31EPSGohIJL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.65'
 
 Está [Helly Hansen Crew Gorra  Unisex Adulto  Blanco  Talla Única](https://www.amazon.es/dp/B073RQ1ZNS/?tag=tolees-21) con 41.75 de descuento por 11.65 EUR (original: 20 EUR) en el siguiente enlace!
 
-[![Helly Hansen Crew Gorra  Unisex Adulto  ](https://images-eu.ssl-images-amazon.com/images/I/31EPSGohIJL._SL200_.jpg)](https://www.amazon.es/dp/B073RQ1ZNS/?tag=tolees-21)
+[![Helly Hansen Crew Gorra  Unisex Adulto  ](https://images-eu.ssl-images-amazon.com/images/I/31EPSGohIJL._SL400_.jpg)](https://www.amazon.es/dp/B073RQ1ZNS/?tag=tolees-21)
 
 ℹ️:
 

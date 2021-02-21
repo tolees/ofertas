@@ -2,7 +2,7 @@
 layout: post
 title: 'Dickies New York Short Pantalones Cortos al 81.15 % de descuento'
 date: 2020-01-27 12:21:46
-image: 'https://m.media-amazon.com/images/I/31Qe2fOFT4L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Qe2fOFT4L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.12'
 
 Ahora mismo tienes [Dickies New York Short Pantalones Cortos Deportivos  Beige  Khaki KH    Tamaño del Fabricante:46  para Hombre](https://www.amazon.es/dp/B01MZFZJL7/?tag=tolees-21) a 11.12 EUR (original: 59.0 EUR) (81.15 %  de descuento) en el siguiente enlace!
 
-[![Dickies New York Short Pantalones Cortos](https://m.media-amazon.com/images/I/31Qe2fOFT4L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01MZFZJL7/?tag=tolees-21)
+[![Dickies New York Short Pantalones Cortos](https://m.media-amazon.com/images/I/31Qe2fOFT4L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01MZFZJL7/?tag=tolees-21)
 
 🔎:
 

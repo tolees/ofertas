@@ -2,7 +2,7 @@
 layout: post
 title: 'Reloj Seiko - Hombre SNKE49K1 al 43.43 % de descuento'
 date: 2020-04-22 07:06:38
-image: 'https://m.media-amazon.com/images/I/41blXhRlU9L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41blXhRlU9L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '99.0'
 
 Está [Reloj Seiko - Hombre SNKE49K1](https://www.amazon.es/dp/B001KESHBY/?tag=tolees-21) con 43.43 de descuento por 99.0 EUR (original: 175.0 EUR) en el siguiente enlace!
 
-[![Reloj Seiko - Hombre SNKE49K1](https://m.media-amazon.com/images/I/41blXhRlU9L._SL200_.jpg)](https://www.amazon.es/dp/B001KESHBY/?tag=tolees-21)
+[![Reloj Seiko - Hombre SNKE49K1](https://m.media-amazon.com/images/I/41blXhRlU9L._SL400_.jpg)](https://www.amazon.es/dp/B001KESHBY/?tag=tolees-21)
 
 ℹ️:
 

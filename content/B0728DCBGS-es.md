@@ -2,7 +2,7 @@
 layout: post
 title: 'Reishi Neo Defensas  Complemento Aliment con un 26.92 % de descuento'
 date: 2020-07-23 23:13:43
-image: 'https://m.media-amazon.com/images/I/41iaPakZVxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41iaPakZVxL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.25'
 
 En este momento está [Reishi Neo Defensas  Complemento Alimenticio  30 Cápsulas](https://www.amazon.es/dp/B0728DCBGS/?tag=tolees-21) a 14.25 EUR (original: 19.5 EUR) (26.92 %  de descuento) en el siguiente enlace!
 
-[![Reishi Neo Defensas  Complemento Aliment](https://m.media-amazon.com/images/I/41iaPakZVxL._SL200_.jpg)](https://www.amazon.es/dp/B0728DCBGS/?tag=tolees-21)
+[![Reishi Neo Defensas  Complemento Aliment](https://m.media-amazon.com/images/I/41iaPakZVxL._SL400_.jpg)](https://www.amazon.es/dp/B0728DCBGS/?tag=tolees-21)
 
 🔎:
 

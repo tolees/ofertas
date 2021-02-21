@@ -2,7 +2,7 @@
 layout: post
 title: 'Festina Reloj de Pulsera F20365/3 al 27.56 % de descuento'
 date: 2020-08-16 10:30:43
-image: 'https://m.media-amazon.com/images/I/41u-GGwtrvL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41u-GGwtrvL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '174.41666666666666'
 
 Ahora mismo tienes [Festina Reloj de Pulsera F20365/3](https://www.amazon.es/dp/B07F9FWT77/?tag=tolees-21) a 178.12 EUR (original: 245.88 EUR) (27.56 %  de descuento) en el siguiente enlace!
 
-[![Festina Reloj de Pulsera F20365/3](https://m.media-amazon.com/images/I/41u-GGwtrvL._SL200_.jpg)](https://www.amazon.es/dp/B07F9FWT77/?tag=tolees-21)
+[![Festina Reloj de Pulsera F20365/3](https://m.media-amazon.com/images/I/41u-GGwtrvL._SL400_.jpg)](https://www.amazon.es/dp/B07F9FWT77/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Emsa Superline Jarra medidora  Transpare al 43.18 % de rebaja'
 date: 2020-06-07 01:28:34
-image: 'https://m.media-amazon.com/images/I/51QsKAazYoL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51QsKAazYoL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.25'
 
 Tienes [Emsa Superline Jarra medidora  Transparente  0 5 L](https://www.amazon.es/dp/B000ICP9LA/?tag=tolees-21) con precio final de  6.25 EUR (original: 11.0 EUR) (43.18 %  de rebaja) aqui!
 
-[![Emsa Superline Jarra medidora  Transpare](https://m.media-amazon.com/images/I/51QsKAazYoL._SL200_.jpg)](https://www.amazon.es/dp/B000ICP9LA/?tag=tolees-21)
+[![Emsa Superline Jarra medidora  Transpare](https://m.media-amazon.com/images/I/51QsKAazYoL._SL400_.jpg)](https://www.amazon.es/dp/B000ICP9LA/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'BOSS Prime Polo  Azul  Light/Pastel Blue al 31.38 % de descuento'
 date: 2020-02-28 07:32:14
-image: 'https://m.media-amazon.com/images/I/31AH6K8yduL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31AH6K8yduL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '48.475'
 
 Está [BOSS Prime Polo  Azul  Light/Pastel Blue 456   Large para Hombre](https://www.amazon.es/dp/B07K4RY6JT/?tag=tolees-21) con 31.38 de descuento por 48.0 EUR (original: 69.95 EUR) en el siguiente enlace!
 
-[![BOSS Prime Polo  Azul  Light/Pastel Blue](https://m.media-amazon.com/images/I/31AH6K8yduL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07K4RY6JT/?tag=tolees-21)
+[![BOSS Prime Polo  Azul  Light/Pastel Blue](https://m.media-amazon.com/images/I/31AH6K8yduL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07K4RY6JT/?tag=tolees-21)
 
 ℹ️:
 

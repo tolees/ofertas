@@ -2,7 +2,7 @@
 layout: post
 title: 'Scuderia Ferrari Reloj Cronógrafo para H al 58.49 % de descuento'
 date: 2020-04-10 21:39:16
-image: 'https://m.media-amazon.com/images/I/41uyV7imNXL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41uyV7imNXL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '122.46'
 
 Ahora mismo tienes [Scuderia Ferrari Reloj Cronógrafo para Hombre de Cuarzo con Correa en Cuero 830444](https://www.amazon.es/dp/B073XX9C7Z/?tag=tolees-21) a 122.46 EUR (original: 295.0 EUR) (58.49 %  de descuento) en el siguiente enlace!
 
-[![Scuderia Ferrari Reloj Cronógrafo para H](https://m.media-amazon.com/images/I/41uyV7imNXL._SL200_.jpg)](https://www.amazon.es/dp/B073XX9C7Z/?tag=tolees-21)
+[![Scuderia Ferrari Reloj Cronógrafo para H](https://m.media-amazon.com/images/I/41uyV7imNXL._SL400_.jpg)](https://www.amazon.es/dp/B073XX9C7Z/?tag=tolees-21)
 
 🔎:
 

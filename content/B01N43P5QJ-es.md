@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 50.00 % en Indoor Copa JR'
 date: 2020-03-27 12:27:31
-image: 'https://m.media-amazon.com/images/I/21PxW3-2ttL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21PxW3-2ttL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.633333333333333'
 
 Tienes [Indoor Copa JR](https://www.amazon.es/dp/B01N43P5QJ/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 19.95 EUR (original: 39.9 EUR) en el siguiente enlace!
 
-[![Indoor Copa JR](https://m.media-amazon.com/images/I/21PxW3-2ttL._SL200_.jpg)](https://www.amazon.es/dp/B01N43P5QJ/?tag=tolees-21)
+[![Indoor Copa JR](https://m.media-amazon.com/images/I/21PxW3-2ttL._SL400_.jpg)](https://www.amazon.es/dp/B01N43P5QJ/?tag=tolees-21)
 
 ℹ️:
 

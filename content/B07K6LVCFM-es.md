@@ -2,7 +2,7 @@
 layout: post
 title: 'Asics Gel-Nimbus 21 1011a169-001  Zapati al 26.97 % de descuento'
 date: 2020-01-26 04:34:10
-image: 'https://m.media-amazon.com/images/I/41EybGHr-QL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41EybGHr-QL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '81.99'
 
 Está [Asics Gel-Nimbus 21 1011a169-001  Zapatillas de Entrenamiento para Hombre  Negro  Black 1011a169/001   47 EU](https://www.amazon.es/dp/B07K6LVCFM/?tag=tolees-21) con 26.97 de descuento por 81.99 EUR (original: 112.27 EUR) en el siguiente enlace!
 
-[![Asics Gel-Nimbus 21 1011a169-001  Zapati](https://m.media-amazon.com/images/I/41EybGHr-QL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07K6LVCFM/?tag=tolees-21)
+[![Asics Gel-Nimbus 21 1011a169-001  Zapati](https://m.media-amazon.com/images/I/41EybGHr-QL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07K6LVCFM/?tag=tolees-21)
 
 ℹ️:
 

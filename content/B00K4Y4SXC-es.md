@@ -2,7 +2,7 @@
 layout: post
 title: 'Tomodachi Life al 27.30 % de rebaja'
 date: 2020-04-17 15:32:18
-image: 'https://m.media-amazon.com/images/I/61Xz14zF1YL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61Xz14zF1YL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '30.62'
 
 Tienes [Tomodachi Life](https://www.amazon.es/dp/B00K4Y4SXC/?tag=tolees-21) con precio final de  29.8 EUR (original: 40.99 EUR) (27.30 %  de rebaja) aqui!
 
-[![Tomodachi Life](https://m.media-amazon.com/images/I/61Xz14zF1YL._SL200_.jpg)](https://www.amazon.es/dp/B00K4Y4SXC/?tag=tolees-21)
+[![Tomodachi Life](https://m.media-amazon.com/images/I/61Xz14zF1YL._SL400_.jpg)](https://www.amazon.es/dp/B00K4Y4SXC/?tag=tolees-21)
 
 🔎:
 

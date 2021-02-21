@@ -2,7 +2,7 @@
 layout: post
 title: 'Asics Patriot 10 SP 1012a236-101  Zapati al 29.08 % de descuento'
 date: 2020-03-03 22:46:55
-image: 'https://m.media-amazon.com/images/I/41s6EGUOjNL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41s6EGUOjNL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '37.995000000000005'
 
 Ahora mismo tienes [Asics Patriot 10 SP 1012a236-101  Zapatillas de Running Unisex Niños  Beige  Beige 1012a236/101   37 EU](https://www.amazon.es/dp/B07KPRXB62/?tag=tolees-21) a 39.0 EUR (original: 54.99 EUR) (29.08 %  de descuento) en el siguiente enlace!
 
-[![Asics Patriot 10 SP 1012a236-101  Zapati](https://m.media-amazon.com/images/I/41s6EGUOjNL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07KPRXB62/?tag=tolees-21)
+[![Asics Patriot 10 SP 1012a236-101  Zapati](https://m.media-amazon.com/images/I/41s6EGUOjNL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07KPRXB62/?tag=tolees-21)
 
 🔎:
 

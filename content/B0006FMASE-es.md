@@ -2,7 +2,7 @@
 layout: post
 title: 'Converse Youths Chuck Taylor All Star Hi al 30.67 % de descuento'
 date: 2020-04-12 20:38:24
-image: 'https://m.media-amazon.com/images/I/41I7JAfQEmL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41I7JAfQEmL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '34.63'
 
 Está [Converse Youths Chuck Taylor All Star Hi Zapatillas de tela  Unisex - Infantil  Negro  27](https://www.amazon.es/dp/B0006FMASE/?tag=tolees-21) con 30.67 de descuento por 34.63 EUR (original: 49.95 EUR) en el siguiente enlace!
 
-[![Converse Youths Chuck Taylor All Star Hi](https://m.media-amazon.com/images/I/41I7JAfQEmL._SL200_.jpg)](https://www.amazon.es/dp/B0006FMASE/?tag=tolees-21)
+[![Converse Youths Chuck Taylor All Star Hi](https://m.media-amazon.com/images/I/41I7JAfQEmL._SL400_.jpg)](https://www.amazon.es/dp/B0006FMASE/?tag=tolees-21)
 
 ℹ️:
 

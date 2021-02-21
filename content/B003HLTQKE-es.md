@@ -2,7 +2,7 @@
 layout: post
 title: 'Tabac Tabac Luxury Soap Box Jabón - 150  con un 56.75 % de descuento'
 date: 2020-07-02 14:41:33
-image: 'https://m.media-amazon.com/images/I/41S2SfGXNbL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41S2SfGXNbL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.94'
 
 En este momento está [Tabac Tabac Luxury Soap Box Jabón - 150 gr](https://www.amazon.es/dp/B003HLTQKE/?tag=tolees-21) a 3.94 EUR (original: 9.11 EUR) (56.75 %  de descuento) en el siguiente enlace!
 
-[![Tabac Tabac Luxury Soap Box Jabón - 150 ](https://m.media-amazon.com/images/I/41S2SfGXNbL._SL200_.jpg)](https://www.amazon.es/dp/B003HLTQKE/?tag=tolees-21)
+[![Tabac Tabac Luxury Soap Box Jabón - 150 ](https://m.media-amazon.com/images/I/41S2SfGXNbL._SL400_.jpg)](https://www.amazon.es/dp/B003HLTQKE/?tag=tolees-21)
 
 🔎:
 

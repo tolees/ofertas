@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger - Th Essential Mini Cc Wa al 46.15 % de descuento'
 date: 2020-06-08 07:13:14
-image: 'https://m.media-amazon.com/images/I/51oSglH0qdL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51oSglH0qdL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '26.87'
 
 Está [Tommy Hilfiger - Th Essential Mini Cc Wallet  Carteras Hombre  Negro  Black   1x1x1 cm  W x H L ](https://www.amazon.es/dp/B07V2MSKQ6/?tag=tolees-21) con 46.15 de descuento por 26.87 EUR (original: 49.9 EUR) en el siguiente enlace!
 
-[![Tommy Hilfiger - Th Essential Mini Cc Wa](https://m.media-amazon.com/images/I/51oSglH0qdL._SL200_.jpg)](https://www.amazon.es/dp/B07V2MSKQ6/?tag=tolees-21)
+[![Tommy Hilfiger - Th Essential Mini Cc Wa](https://m.media-amazon.com/images/I/51oSglH0qdL._SL400_.jpg)](https://www.amazon.es/dp/B07V2MSKQ6/?tag=tolees-21)
 
 ℹ️:
 

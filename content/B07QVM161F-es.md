@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour Men s Official Tour 3.0 Gor al 57.97 % de descuento'
 date: 2020-09-25 12:13:06
-image: 'https://m.media-amazon.com/images/I/41UknhSOCaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41UknhSOCaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.315'
 
 Está [Under Armour Men s Official Tour 3.0 Gorra  Hombre  Gris  XL/XXL](https://www.amazon.es/dp/B07QVM161F/?tag=tolees-21) con 57.97 de descuento por 12.61 EUR (original: 30.0 EUR) en el siguiente enlace!
 
-[![Under Armour Men s Official Tour 3.0 Gor](https://m.media-amazon.com/images/I/41UknhSOCaL._SL200_.jpg)](https://www.amazon.es/dp/B07QVM161F/?tag=tolees-21)
+[![Under Armour Men s Official Tour 3.0 Gor](https://m.media-amazon.com/images/I/41UknhSOCaL._SL400_.jpg)](https://www.amazon.es/dp/B07QVM161F/?tag=tolees-21)
 
 ℹ️:
 

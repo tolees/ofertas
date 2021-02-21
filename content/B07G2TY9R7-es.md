@@ -2,7 +2,7 @@
 layout: post
 title: 'SPREEY Colchón Hinchable de aire-Cama de al 44.97 % de descuento'
 date: 2020-02-26 08:15:55
-image: 'https://m.media-amazon.com/images/I/41FKCa6j+GL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41FKCa6j+GL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '55.02'
 
 Ahora mismo tienes [SPREEY Colchón Hinchable de aire-Cama de aire individual portátil:196X97X56cm colchon inflable individual eléctrico personal con bomba eléctrica incorporada bolsa de parche y bolsa de almacenamiento](https://www.amazon.es/dp/B07G2TY9R7/?tag=tolees-21) a 55.02 EUR (original: 99.99 EUR) (44.97 %  de descuento) en el siguiente enlace!
 
-[![SPREEY Colchón Hinchable de aire-Cama de](https://m.media-amazon.com/images/I/41FKCa6j+GL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07G2TY9R7/?tag=tolees-21)
+[![SPREEY Colchón Hinchable de aire-Cama de](https://m.media-amazon.com/images/I/41FKCa6j+GL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07G2TY9R7/?tag=tolees-21)
 
 🔎:
 

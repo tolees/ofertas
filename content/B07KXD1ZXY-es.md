@@ -2,7 +2,7 @@
 layout: post
 title: 'Keter Duotech M Maceta Sequoia  Tamaño M al 26.70 % de descuento'
 date: 2020-06-22 13:25:41
-image: 'https://m.media-amazon.com/images/I/41EdzuiushL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41EdzuiushL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '79.9'
 
 Está [Keter Duotech M Maceta Sequoia  Tamaño M](https://www.amazon.es/dp/B07KXD1ZXY/?tag=tolees-21) con 26.70 de descuento por 79.9 EUR (original: 109.0 EUR) en el siguiente enlace!
 
-[![Keter Duotech M Maceta Sequoia  Tamaño M](https://m.media-amazon.com/images/I/41EdzuiushL._SL200_.jpg)](https://www.amazon.es/dp/B07KXD1ZXY/?tag=tolees-21)
+[![Keter Duotech M Maceta Sequoia  Tamaño M](https://m.media-amazon.com/images/I/41EdzuiushL._SL400_.jpg)](https://www.amazon.es/dp/B07KXD1ZXY/?tag=tolees-21)
 
 ℹ️:
 

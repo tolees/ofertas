@@ -2,7 +2,7 @@
 layout: post
 title: 'Kappa Trust Footwear  Zapatillas Unisex  con un 51.79 % de descuento'
 date: 2020-01-21 23:24:08
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41rrLqMof%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41rrLqMof%2BL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.1825'
 
 En este momento está [Kappa Trust Footwear  Zapatillas Unisex Adulto  Negro-Schwarz  1110 Black/White   41 EU](https://www.amazon.es/dp/B00VUQ8LUO/?tag=tolees-21) a 19.28 EUR (original: 39.99 EUR) (51.79 %  de descuento) en el siguiente enlace!
 
-[![Kappa Trust Footwear  Zapatillas Unisex ](https://images-eu.ssl-images-amazon.com/images/I/41rrLqMof%2BL._SL200_.jpg)](https://www.amazon.es/dp/B00VUQ8LUO/?tag=tolees-21)
+[![Kappa Trust Footwear  Zapatillas Unisex ](https://images-eu.ssl-images-amazon.com/images/I/41rrLqMof%2BL._SL400_.jpg)](https://www.amazon.es/dp/B00VUQ8LUO/?tag=tolees-21)
 
 🔎:
 

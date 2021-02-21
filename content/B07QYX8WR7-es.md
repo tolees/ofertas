@@ -2,7 +2,7 @@
 layout: post
 title: 'Stor Vaso Easy 260 ML | Frozen 2 al 68.27 % de descuento'
 date: 2020-02-25 08:03:04
-image: 'https://m.media-amazon.com/images/I/41+od-stR9L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41+od-stR9L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.78'
 
 Ahora mismo tienes [Stor Vaso Easy 260 ML | Frozen 2](https://www.amazon.es/dp/B07QYX8WR7/?tag=tolees-21) a 1.78 EUR (original: 5.61 EUR) (68.27 %  de descuento) en el siguiente enlace!
 
-[![Stor Vaso Easy 260 ML | Frozen 2](https://m.media-amazon.com/images/I/41+od-stR9L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07QYX8WR7/?tag=tolees-21)
+[![Stor Vaso Easy 260 ML | Frozen 2](https://m.media-amazon.com/images/I/41+od-stR9L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07QYX8WR7/?tag=tolees-21)
 
 🔎:
 

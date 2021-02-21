@@ -2,7 +2,7 @@
 layout: post
 title: 'Adidas Grand Court  Zapatillas de Deport al 28.59 % de descuento'
 date: 2020-04-22 00:59:52
-image: 'https://m.media-amazon.com/images/I/31IbJcPwn4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31IbJcPwn4L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '49.95'
 
 Ahora mismo tienes [Adidas Grand Court  Zapatillas de Deporte para Mujer  Multicolor  Ftwbla/Metpla/Ftwbla 000   38 EU](https://www.amazon.es/dp/B07DND7QCN/?tag=tolees-21) a 49.95 EUR (original: 69.95 EUR) (28.59 %  de descuento) en el siguiente enlace!
 
-[![Adidas Grand Court  Zapatillas de Deport](https://m.media-amazon.com/images/I/31IbJcPwn4L._SL200_.jpg)](https://www.amazon.es/dp/B07DND7QCN/?tag=tolees-21)
+[![Adidas Grand Court  Zapatillas de Deport](https://m.media-amazon.com/images/I/31IbJcPwn4L._SL400_.jpg)](https://www.amazon.es/dp/B07DND7QCN/?tag=tolees-21)
 
 🔎:
 

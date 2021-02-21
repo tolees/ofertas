@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas EQT Gazelle  Zapatillas de Gimnas al 73.28 % de descuento'
 date: 2020-03-29 11:46:41
-image: 'https://m.media-amazon.com/images/I/415Pc82VLhL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/415Pc82VLhL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.38'
 
 Ahora mismo tienes [adidas EQT Gazelle  Zapatillas de Gimnasia para Hombre  Azul  Collegiate Navy/Matte Silver/Ash Grey S18 Collegiate Navy/Matte Silver/Ash Grey S18   44 EU](https://www.amazon.es/dp/B07STFPGNM/?tag=tolees-21) a 29.38 EUR (original: 109.95 EUR) (73.28 %  de descuento) en el siguiente enlace!
 
-[![adidas EQT Gazelle  Zapatillas de Gimnas](https://m.media-amazon.com/images/I/415Pc82VLhL._SL200_.jpg)](https://www.amazon.es/dp/B07STFPGNM/?tag=tolees-21)
+[![adidas EQT Gazelle  Zapatillas de Gimnas](https://m.media-amazon.com/images/I/415Pc82VLhL._SL400_.jpg)](https://www.amazon.es/dp/B07STFPGNM/?tag=tolees-21)
 
 🔎:
 

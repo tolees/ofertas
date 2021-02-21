@@ -2,7 +2,7 @@
 layout: post
 title: 'Asics Gel Quantum 180 5 Sr  Zapatillas d al 49.18 % de rebaja'
 date: 2020-05-31 21:02:42
-image: 'https://m.media-amazon.com/images/I/31VQIE6pT4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31VQIE6pT4L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '71.15'
 
 Tienes [Asics Gel Quantum 180 5 Sr  Zapatillas de Running para Hombre  Negro  Black/Black   42 EU](https://www.amazon.es/dp/B081BG99WV/?tag=tolees-21) con precio final de  71.15 EUR (original: 140.0 EUR) (49.18 %  de rebaja) aqui!
 
-[![Asics Gel Quantum 180 5 Sr  Zapatillas d](https://m.media-amazon.com/images/I/31VQIE6pT4L._SL200_.jpg)](https://www.amazon.es/dp/B081BG99WV/?tag=tolees-21)
+[![Asics Gel Quantum 180 5 Sr  Zapatillas d](https://m.media-amazon.com/images/I/31VQIE6pT4L._SL400_.jpg)](https://www.amazon.es/dp/B081BG99WV/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'A con un 60.03 % de descuento'
 date: 2020-06-24 05:55:46
-image: 'https://m.media-amazon.com/images/I/51a5i++DQGL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51a5i++DQGL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.156666666666668'
 
 En este momento está [A](https://www.amazon.es/dp/B07G6QBQZ3/?tag=tolees-21) a 14.55 EUR (original: 36.4 EUR) (60.03 %  de descuento) en el siguiente enlace!
 
-[![A](https://m.media-amazon.com/images/I/51a5i++DQGL._SL200_.jpg)](https://www.amazon.es/dp/B07G6QBQZ3/?tag=tolees-21)
+[![A](https://m.media-amazon.com/images/I/51a5i++DQGL._SL400_.jpg)](https://www.amazon.es/dp/B07G6QBQZ3/?tag=tolees-21)
 
 🔎:
 

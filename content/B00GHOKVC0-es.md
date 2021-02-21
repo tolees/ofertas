@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 36.81 % en Concordia'
 date: 2020-05-14 07:16:45
-image: 'https://m.media-amazon.com/images/I/51r6wQ7MtWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51r6wQ7MtWL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '28.79'
 
 Tienes [Concordia](https://www.amazon.es/dp/B00GHOKVC0/?tag=tolees-21) con un 36.81 % de descuento con precio de oferta de 28.79 EUR (original: 45.56 EUR) en el siguiente enlace!
 
-[![Concordia](https://m.media-amazon.com/images/I/51r6wQ7MtWL._SL200_.jpg)](https://www.amazon.es/dp/B00GHOKVC0/?tag=tolees-21)
+[![Concordia](https://m.media-amazon.com/images/I/51r6wQ7MtWL._SL400_.jpg)](https://www.amazon.es/dp/B00GHOKVC0/?tag=tolees-21)
 
 ℹ️:
 

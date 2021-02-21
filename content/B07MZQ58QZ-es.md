@@ -2,7 +2,7 @@
 layout: post
 title: 'Funko- Mystery Mini Cajita misteriosa  i con un 49.69 % de descuento'
 date: 2020-03-07 20:02:50
-image: 'https://m.media-amazon.com/images/I/5172TVUQqVL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/5172TVUQqVL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.0'
 
 En este momento está [Funko- Mystery Mini Cajita misteriosa  incluye algún personaje de Juego de Tronos  Multicolor  37701 ](https://www.amazon.es/dp/B07MZQ58QZ/?tag=tolees-21) a 4.0 EUR (original: 7.95 EUR) (49.69 %  de descuento) en el siguiente enlace!
 
-[![Funko- Mystery Mini Cajita misteriosa  i](https://m.media-amazon.com/images/I/5172TVUQqVL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07MZQ58QZ/?tag=tolees-21)
+[![Funko- Mystery Mini Cajita misteriosa  i](https://m.media-amazon.com/images/I/5172TVUQqVL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07MZQ58QZ/?tag=tolees-21)
 
 🔎:
 

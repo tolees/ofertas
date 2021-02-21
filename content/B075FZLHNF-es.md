@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 37.73 % en Alpinestar Eternal Polo de Manga Corta c'
 date: 2020-06-08 15:55:44
-image: 'https://m.media-amazon.com/images/I/31Zakgt9DCL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Zakgt9DCL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '27.99'
 
 Tienes [Alpinestar Eternal Polo de Manga Corta con Logo de Goma en el Pecho  Hombre  Black  L](https://www.amazon.es/dp/B075FZLHNF/?tag=tolees-21) con un 37.73 % de descuento con precio de oferta de 27.99 EUR (original: 44.95 EUR) en el siguiente enlace!
 
-[![Alpinestar Eternal Polo de Manga Corta c](https://m.media-amazon.com/images/I/31Zakgt9DCL._SL200_.jpg)](https://www.amazon.es/dp/B075FZLHNF/?tag=tolees-21)
+[![Alpinestar Eternal Polo de Manga Corta c](https://m.media-amazon.com/images/I/31Zakgt9DCL._SL400_.jpg)](https://www.amazon.es/dp/B075FZLHNF/?tag=tolees-21)
 
 ℹ️:
 

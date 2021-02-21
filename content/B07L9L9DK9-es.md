@@ -2,7 +2,7 @@
 layout: post
 title: 'Lacoste Masters 319 1 SMA  Zapatillas pa al 51.57 % de rebaja'
 date: 2020-02-01 15:41:52
-image: 'https://m.media-amazon.com/images/I/31sByXWVKhL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31sByXWVKhL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '44.685'
 
 Tienes [Lacoste Masters 319 1 SMA  Zapatillas para Hombre  Blanco  Wht/Dk Grn 1r5   43 EU](https://www.amazon.es/dp/B07L9L9DK9/?tag=tolees-21) con precio final de  47.95 EUR (original: 99.0 EUR) (51.57 %  de rebaja) aqui!
 
-[![Lacoste Masters 319 1 SMA  Zapatillas pa](https://m.media-amazon.com/images/I/31sByXWVKhL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07L9L9DK9/?tag=tolees-21)
+[![Lacoste Masters 319 1 SMA  Zapatillas pa](https://m.media-amazon.com/images/I/31sByXWVKhL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07L9L9DK9/?tag=tolees-21)
 
 🔎:
 

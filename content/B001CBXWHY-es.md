@@ -2,7 +2,7 @@
 layout: post
 title: 'Wolfcraft 623777000 5018000-1 Soporte pa al 31.58 % de descuento'
 date: 2020-02-09 14:07:02
-image: 'https://m.media-amazon.com/images/I/413zKOO4REL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/413zKOO4REL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '57.95'
 
 Está [Wolfcraft 623777000 5018000-1 Soporte para Cortar para Amoladora Angular diam. 180 y 230 mm](https://www.amazon.es/dp/B001CBXWHY/?tag=tolees-21) con 31.58 de descuento por 57.95 EUR (original: 84.7 EUR) en el siguiente enlace!
 
-[![Wolfcraft 623777000 5018000-1 Soporte pa](https://m.media-amazon.com/images/I/413zKOO4REL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B001CBXWHY/?tag=tolees-21)
+[![Wolfcraft 623777000 5018000-1 Soporte pa](https://m.media-amazon.com/images/I/413zKOO4REL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B001CBXWHY/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Rocketbook Everlast Smart - Cuaderno reu con un 36.38 % de descuento'
 date: 2020-01-23 22:05:11
-image: 'https://m.media-amazon.com/images/I/41ODGIRqdiL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ODGIRqdiL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '32.695'
 
 En este momento está [Rocketbook Everlast Smart - Cuaderno reutilizable  Negro  Carta A4](https://www.amazon.es/dp/B071Y3MSRK/?tag=tolees-21) a 25.44 EUR (original: 39.99 EUR) (36.38 %  de descuento) en el siguiente enlace!
 
-[![Rocketbook Everlast Smart - Cuaderno reu](https://m.media-amazon.com/images/I/41ODGIRqdiL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B071Y3MSRK/?tag=tolees-21)
+[![Rocketbook Everlast Smart - Cuaderno reu](https://m.media-amazon.com/images/I/41ODGIRqdiL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B071Y3MSRK/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Australian Gold Intensifier Aceite - 237 al 30.04 % de descuento'
 date: 2020-08-06 16:34:30
-image: 'https://m.media-amazon.com/images/I/31DkKTsnu4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31DkKTsnu4L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.36'
 
 Está [Australian Gold Intensifier Aceite - 237 ml](https://www.amazon.es/dp/B004R7JD6E/?tag=tolees-21) con 30.04 de descuento por 8.36 EUR (original: 11.95 EUR) en el siguiente enlace!
 
-[![Australian Gold Intensifier Aceite - 237](https://m.media-amazon.com/images/I/31DkKTsnu4L._SL200_.jpg)](https://www.amazon.es/dp/B004R7JD6E/?tag=tolees-21)
+[![Australian Gold Intensifier Aceite - 237](https://m.media-amazon.com/images/I/31DkKTsnu4L._SL400_.jpg)](https://www.amazon.es/dp/B004R7JD6E/?tag=tolees-21)
 
 ℹ️:
 

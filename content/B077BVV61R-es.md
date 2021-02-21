@@ -2,7 +2,7 @@
 layout: post
 title: 'Papi Max 4 Piezas X Large Baseplate 32x3 al 32.01 % de descuento'
 date: 2020-03-31 05:12:21
-image: 'https://m.media-amazon.com/images/I/51iQyFr-gdL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51iQyFr-gdL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.99'
 
 Está [Papi Max 4 Piezas X Large Baseplate 32x32 Studs 25.4cm X 25.4cm estándar Puntos Ladrillos Minifigures Proyecto Gris Placa de construcción Placa Base Verde Paquete de Paquete de Regalo](https://www.amazon.es/dp/B077BVV61R/?tag=tolees-21) con 32.01 de descuento por 16.99 EUR (original: 24.99 EUR) en el siguiente enlace!
 
-[![Papi Max 4 Piezas X Large Baseplate 32x3](https://m.media-amazon.com/images/I/51iQyFr-gdL._SL200_.jpg)](https://www.amazon.es/dp/B077BVV61R/?tag=tolees-21)
+[![Papi Max 4 Piezas X Large Baseplate 32x3](https://m.media-amazon.com/images/I/51iQyFr-gdL._SL400_.jpg)](https://www.amazon.es/dp/B077BVV61R/?tag=tolees-21)
 
 ℹ️:
 

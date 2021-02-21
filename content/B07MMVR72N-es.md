@@ -2,7 +2,7 @@
 layout: post
 title: 'i-baby Manta Bebé Mantas Infantiles Para al 36.79 % de descuento'
 date: 2020-04-26 07:01:35
-image: 'https://m.media-amazon.com/images/I/51owtOlwquL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51owtOlwquL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.9'
 
 Ahora mismo tienes [i-baby Manta Bebé Mantas Infantiles Para Cuna Cama Infantil Niñas Manta Grande Recién Nacidos 4 Estaciones 1 a 6 años  Punto Blanco  120x150cm ](https://www.amazon.es/dp/B07MMVR72N/?tag=tolees-21) a 18.9 EUR (original: 29.9 EUR) (36.79 %  de descuento) en el siguiente enlace!
 
-[![i-baby Manta Bebé Mantas Infantiles Para](https://m.media-amazon.com/images/I/51owtOlwquL._SL200_.jpg)](https://www.amazon.es/dp/B07MMVR72N/?tag=tolees-21)
+[![i-baby Manta Bebé Mantas Infantiles Para](https://m.media-amazon.com/images/I/51owtOlwquL._SL400_.jpg)](https://www.amazon.es/dp/B07MMVR72N/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Bormioli Bote con Tapa  1.5l con un 65.21 % de descuento'
 date: 2020-08-21 19:27:34
-image: 'https://m.media-amazon.com/images/I/41pUm0WxLhL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41pUm0WxLhL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.8725'
 
 En este momento está [Bormioli Bote con Tapa  1.5l](https://www.amazon.es/dp/B000W08ZUA/?tag=tolees-21) a 3.5 EUR (original: 10.06 EUR) (65.21 %  de descuento) en el siguiente enlace!
 
-[![Bormioli Bote con Tapa  1.5l](https://m.media-amazon.com/images/I/41pUm0WxLhL._SL200_.jpg)](https://www.amazon.es/dp/B000W08ZUA/?tag=tolees-21)
+[![Bormioli Bote con Tapa  1.5l](https://m.media-amazon.com/images/I/41pUm0WxLhL._SL400_.jpg)](https://www.amazon.es/dp/B000W08ZUA/?tag=tolees-21)
 
 🔎:
 

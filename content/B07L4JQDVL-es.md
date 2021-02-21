@@ -2,7 +2,7 @@
 layout: post
 title: 'Philips Batidora de mano ProMix HR2657/9 al 25.90 % de rebaja'
 date: 2020-03-07 14:30:22
-image: 'https://m.media-amazon.com/images/I/31p+GiFuSYL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31p+GiFuSYL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '77.475'
 
 Tienes [Philips Batidora de mano ProMix HR2657/90 varilla  800 W  Acero inoxidable](https://www.amazon.es/dp/B07L4JQDVL/?tag=tolees-21) con precio final de  65.95 EUR (original: 89.0 EUR) (25.90 %  de rebaja) aqui!
 
-[![Philips Batidora de mano ProMix HR2657/9](https://m.media-amazon.com/images/I/31p+GiFuSYL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07L4JQDVL/?tag=tolees-21)
+[![Philips Batidora de mano ProMix HR2657/9](https://m.media-amazon.com/images/I/31p+GiFuSYL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07L4JQDVL/?tag=tolees-21)
 
 🔎:
 

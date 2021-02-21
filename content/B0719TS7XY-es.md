@@ -2,7 +2,7 @@
 layout: post
 title: 'TAZA MICRO 350 ML | AVENGERS GALLERY al 53.90 % de descuento'
 date: 2020-05-08 09:05:31
-image: 'https://m.media-amazon.com/images/I/519dGixq7PL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/519dGixq7PL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.19'
 
 Ahora mismo tienes [TAZA MICRO 350 ML | AVENGERS GALLERY](https://www.amazon.es/dp/B0719TS7XY/?tag=tolees-21) a 3.19 EUR (original: 6.92 EUR) (53.90 %  de descuento) en el siguiente enlace!
 
-[![TAZA MICRO 350 ML | AVENGERS GALLERY](https://m.media-amazon.com/images/I/519dGixq7PL._SL200_.jpg)](https://www.amazon.es/dp/B0719TS7XY/?tag=tolees-21)
+[![TAZA MICRO 350 ML | AVENGERS GALLERY](https://m.media-amazon.com/images/I/519dGixq7PL._SL400_.jpg)](https://www.amazon.es/dp/B0719TS7XY/?tag=tolees-21)
 
 🔎:
 

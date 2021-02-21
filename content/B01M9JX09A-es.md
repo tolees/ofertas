@@ -2,7 +2,7 @@
 layout: post
 title: 'Funko Figurine Marvel - Gardiens De La G al 36.69 % de rebaja'
 date: 2020-02-24 18:26:03
-image: 'https://m.media-amazon.com/images/I/41uN9zsweVL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41uN9zsweVL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.715'
 
 Tienes [Funko Figurine Marvel - Gardiens De La Galaxie 2 - Taserface [Importación Francesa]](https://www.amazon.es/dp/B01M9JX09A/?tag=tolees-21) con precio final de  9.49 EUR (original: 14.99 EUR) (36.69 %  de rebaja) aqui!
 
-[![Funko Figurine Marvel - Gardiens De La G](https://m.media-amazon.com/images/I/41uN9zsweVL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01M9JX09A/?tag=tolees-21)
+[![Funko Figurine Marvel - Gardiens De La G](https://m.media-amazon.com/images/I/41uN9zsweVL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01M9JX09A/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'YAMAMAY® Pyjamas - Ultimi arrivi con un 54.99 % de descuento'
 date: 2020-06-24 11:22:55
-image: 'https://m.media-amazon.com/images/I/41DCMY5PaSL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41DCMY5PaSL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.98'
 
 En este momento está [YAMAMAY® Pyjamas - Ultimi arrivi](https://www.amazon.es/dp/B085YCP8NH/?tag=tolees-21) a 17.98 EUR (original: 39.95 EUR) (54.99 %  de descuento) en el siguiente enlace!
 
-[![YAMAMAY® Pyjamas - Ultimi arrivi](https://m.media-amazon.com/images/I/41DCMY5PaSL._SL200_.jpg)](https://www.amazon.es/dp/B085YCP8NH/?tag=tolees-21)
+[![YAMAMAY® Pyjamas - Ultimi arrivi](https://m.media-amazon.com/images/I/41DCMY5PaSL._SL400_.jpg)](https://www.amazon.es/dp/B085YCP8NH/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Reloj para hombre Tommy Hilfiger 1791308 al 32.19 % de descuento'
 date: 2020-04-08 23:03:58
-image: 'https://m.media-amazon.com/images/I/51NM0Kg08LL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51NM0Kg08LL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '134.95'
 
 Ahora mismo tienes [Reloj para hombre Tommy Hilfiger 1791308.](https://www.amazon.es/dp/B01JLI7HKC/?tag=tolees-21) a 134.95 EUR (original: 199.0 EUR) (32.19 %  de descuento) en el siguiente enlace!
 
-[![Reloj para hombre Tommy Hilfiger 1791308](https://m.media-amazon.com/images/I/51NM0Kg08LL._SL200_.jpg)](https://www.amazon.es/dp/B01JLI7HKC/?tag=tolees-21)
+[![Reloj para hombre Tommy Hilfiger 1791308](https://m.media-amazon.com/images/I/51NM0Kg08LL._SL400_.jpg)](https://www.amazon.es/dp/B01JLI7HKC/?tag=tolees-21)
 
 🔎:
 

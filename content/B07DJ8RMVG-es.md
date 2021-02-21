@@ -2,7 +2,7 @@
 layout: post
 title: 'New Balance 411  Zapatillas de Running p con un 36.82 % de descuento'
 date: 2020-04-02 22:04:59
-image: 'https://m.media-amazon.com/images/I/41QEsZr+uOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41QEsZr+uOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '27.875'
 
 En este momento está [New Balance 411  Zapatillas de Running para Mujer  Negro  Black Silver   41 EU](https://www.amazon.es/dp/B07DJ8RMVG/?tag=tolees-21) a 31.59 EUR (original: 50.0 EUR) (36.82 %  de descuento) en el siguiente enlace!
 
-[![New Balance 411  Zapatillas de Running p](https://m.media-amazon.com/images/I/41QEsZr+uOL._SL200_.jpg)](https://www.amazon.es/dp/B07DJ8RMVG/?tag=tolees-21)
+[![New Balance 411  Zapatillas de Running p](https://m.media-amazon.com/images/I/41QEsZr+uOL._SL400_.jpg)](https://www.amazon.es/dp/B07DJ8RMVG/?tag=tolees-21)
 
 🔎:
 

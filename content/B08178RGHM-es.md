@@ -2,7 +2,7 @@
 layout: post
 title: 'Columbia Tech Shade Hat Gorra  Unisex Ad con un 37.52 % de descuento'
 date: 2020-06-08 09:18:24
-image: 'https://m.media-amazon.com/images/I/315P+TrhHVL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/315P+TrhHVL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.49'
 
 En este momento está [Columbia Tech Shade Hat Gorra  Unisex Adulto  Azul  Carbon   One Size  Adjustable ](https://www.amazon.es/dp/B08178RGHM/?tag=tolees-21) a 12.49 EUR (original: 19.99 EUR) (37.52 %  de descuento) en el siguiente enlace!
 
-[![Columbia Tech Shade Hat Gorra  Unisex Ad](https://m.media-amazon.com/images/I/315P+TrhHVL._SL200_.jpg)](https://www.amazon.es/dp/B08178RGHM/?tag=tolees-21)
+[![Columbia Tech Shade Hat Gorra  Unisex Ad](https://m.media-amazon.com/images/I/315P+TrhHVL._SL400_.jpg)](https://www.amazon.es/dp/B08178RGHM/?tag=tolees-21)
 
 🔎:
 

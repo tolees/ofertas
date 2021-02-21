@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour Favorite Legging WM Ar Legg al 57.89 % de descuento'
 date: 2020-01-22 16:55:41
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31JmUuYxYaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31JmUuYxYaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.092500000000001'
 
 Está [Under Armour Favorite Legging WM Ar Leggings  Mujer  Gris  Pitch Gray Medium Heather/Black 012   XS](https://www.amazon.es/dp/B07CZQ9X31/?tag=tolees-21) con 57.89 de descuento por 14.74 EUR (original: 35 EUR) en el siguiente enlace!
 
-[![Under Armour Favorite Legging WM Ar Legg](https://images-eu.ssl-images-amazon.com/images/I/31JmUuYxYaL._SL200_.jpg)](https://www.amazon.es/dp/B07CZQ9X31/?tag=tolees-21)
+[![Under Armour Favorite Legging WM Ar Legg](https://images-eu.ssl-images-amazon.com/images/I/31JmUuYxYaL._SL400_.jpg)](https://www.amazon.es/dp/B07CZQ9X31/?tag=tolees-21)
 
 ℹ️:
 

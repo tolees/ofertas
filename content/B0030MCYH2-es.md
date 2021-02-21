@@ -2,7 +2,7 @@
 layout: post
 title: 'Ravensburger-Juego de Aprendizaje  ¿Cuan al 37.54 % de descuento'
 date: 2020-09-01 17:50:45
-image: 'https://m.media-amazon.com/images/I/51Zgb75iECL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Zgb75iECL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.18'
 
 Ahora mismo tienes [Ravensburger-Juego de Aprendizaje  ¿Cuanto me Cuesta  24098 ](https://www.amazon.es/dp/B0030MCYH2/?tag=tolees-21) a 11.18 EUR (original: 17.9 EUR) (37.54 %  de descuento) en el siguiente enlace!
 
-[![Ravensburger-Juego de Aprendizaje  ¿Cuan](https://m.media-amazon.com/images/I/51Zgb75iECL._SL200_.jpg)](https://www.amazon.es/dp/B0030MCYH2/?tag=tolees-21)
+[![Ravensburger-Juego de Aprendizaje  ¿Cuan](https://m.media-amazon.com/images/I/51Zgb75iECL._SL400_.jpg)](https://www.amazon.es/dp/B0030MCYH2/?tag=tolees-21)
 
 🔎:
 

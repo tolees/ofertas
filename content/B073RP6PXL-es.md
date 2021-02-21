@@ -2,7 +2,7 @@
 layout: post
 title: 'Helly Hansen Logo Visera  Unisex Adulto  al 44.21 % de descuento'
 date: 2020-09-09 17:03:03
-image: 'https://m.media-amazon.com/images/I/31SMVUkkp8L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31SMVUkkp8L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.38'
 
 Está [Helly Hansen Logo Visera  Unisex Adulto  Blanco  Única](https://www.amazon.es/dp/B073RP6PXL/?tag=tolees-21) con 44.21 de descuento por 12.38 EUR (original: 22.19 EUR) en el siguiente enlace!
 
-[![Helly Hansen Logo Visera  Unisex Adulto ](https://m.media-amazon.com/images/I/31SMVUkkp8L._SL200_.jpg)](https://www.amazon.es/dp/B073RP6PXL/?tag=tolees-21)
+[![Helly Hansen Logo Visera  Unisex Adulto ](https://m.media-amazon.com/images/I/31SMVUkkp8L._SL400_.jpg)](https://www.amazon.es/dp/B073RP6PXL/?tag=tolees-21)
 
 ℹ️:
 

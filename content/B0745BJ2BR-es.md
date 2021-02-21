@@ -2,7 +2,7 @@
 layout: post
 title: 'Brabantia Código Y Bolsas de Basura Form al 30.00 % de descuento'
 date: 2020-08-11 16:08:06
-image: 'https://m.media-amazon.com/images/I/31TqynV5-kL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31TqynV5-kL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.75'
 
 Ahora mismo tienes [Brabantia Código Y Bolsas de Basura Formato Rollo  Blanco  20 L  20 Unidades](https://www.amazon.es/dp/B0745BJ2BR/?tag=tolees-21) a 1.75 EUR (original: 2.5 EUR) (30.00 %  de descuento) en el siguiente enlace!
 
-[![Brabantia Código Y Bolsas de Basura Form](https://m.media-amazon.com/images/I/31TqynV5-kL._SL200_.jpg)](https://www.amazon.es/dp/B0745BJ2BR/?tag=tolees-21)
+[![Brabantia Código Y Bolsas de Basura Form](https://m.media-amazon.com/images/I/31TqynV5-kL._SL400_.jpg)](https://www.amazon.es/dp/B0745BJ2BR/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'AmazonBasics - Auriculares de botón con  con un 70.02 % de descuento'
 date: 2020-02-26 20:20:44
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31SjOrnRIPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31SjOrnRIPL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.19'
 
 En este momento está [AmazonBasics - Auriculares de botón con micrófono  Rojo](https://www.amazon.es/dp/B07HH223KV/?tag=tolees-21) a 5.19 EUR (original: 17.31 EUR) (70.02 %  de descuento) en el siguiente enlace!
 
-[![AmazonBasics - Auriculares de botón con ](https://images-eu.ssl-images-amazon.com/images/I/31SjOrnRIPL._SL200_.jpg)](https://www.amazon.es/dp/B07HH223KV/?tag=tolees-21)
+[![AmazonBasics - Auriculares de botón con ](https://images-eu.ssl-images-amazon.com/images/I/31SjOrnRIPL._SL400_.jpg)](https://www.amazon.es/dp/B07HH223KV/?tag=tolees-21)
 
 🔎:
 

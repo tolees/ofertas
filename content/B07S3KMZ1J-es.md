@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s unbasic  Hoodie Capucha  Multicol al 30.00 % de descuento'
 date: 2020-01-08 13:19:28
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51J8kMHYmxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51J8kMHYmxL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '44.975'
 
 Está [Levi s unbasic  Hoodie Capucha  Multicolor  Dunsmuir Floral Meteorite 0036   XX-Small para Mujer](https://www.amazon.es/dp/B07S3KMZ1J/?tag=tolees-21) con 30.00 de descuento por 52.5 EUR (original: 75 EUR) en el siguiente enlace!
 
-[![Levi s unbasic  Hoodie Capucha  Multicol](https://images-eu.ssl-images-amazon.com/images/I/51J8kMHYmxL._SL200_.jpg)](https://www.amazon.es/dp/B07S3KMZ1J/?tag=tolees-21)
+[![Levi s unbasic  Hoodie Capucha  Multicol](https://images-eu.ssl-images-amazon.com/images/I/51J8kMHYmxL._SL400_.jpg)](https://www.amazon.es/dp/B07S3KMZ1J/?tag=tolees-21)
 
 ℹ️:
 

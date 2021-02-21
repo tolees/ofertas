@@ -2,7 +2,7 @@
 layout: post
 title: 'San Ignacio Cazo  Aluminio Forjado  Gris al 74.20 % de descuento'
 date: 2020-02-02 02:01:07
-image: 'https://m.media-amazon.com/images/I/41aj1+WnrBL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41aj1+WnrBL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.9'
 
 Está [San Ignacio Cazo  Aluminio Forjado  Gris  16 cm](https://www.amazon.es/dp/B01LWMECSJ/?tag=tolees-21) con 74.20 de descuento por 12.9 EUR (original: 50.0 EUR) en el siguiente enlace!
 
-[![San Ignacio Cazo  Aluminio Forjado  Gris](https://m.media-amazon.com/images/I/41aj1+WnrBL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01LWMECSJ/?tag=tolees-21)
+[![San Ignacio Cazo  Aluminio Forjado  Gris](https://m.media-amazon.com/images/I/41aj1+WnrBL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01LWMECSJ/?tag=tolees-21)
 
 ℹ️:
 

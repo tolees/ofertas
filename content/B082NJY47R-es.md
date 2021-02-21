@@ -2,7 +2,7 @@
 layout: post
 title: 'Medidor de Contornos  Careslong 10"/250M al 47.39 % de descuento'
 date: 2020-06-25 13:52:52
-image: 'https://m.media-amazon.com/images/I/51Q5dC08ztL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Q5dC08ztL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.99'
 
 Ahora mismo tienes [Medidor de Contornos  Careslong 10"/250MM Herramienta de Medición de Perfil Irregular  Medidor Contornos para la medición precisa de baldosas en madera laminada Marcado  verde ](https://www.amazon.es/dp/B082NJY47R/?tag=tolees-21) a 9.99 EUR (original: 18.99 EUR) (47.39 %  de descuento) en el siguiente enlace!
 
-[![Medidor de Contornos  Careslong 10"/250M](https://m.media-amazon.com/images/I/51Q5dC08ztL._SL200_.jpg)](https://www.amazon.es/dp/B082NJY47R/?tag=tolees-21)
+[![Medidor de Contornos  Careslong 10"/250M](https://m.media-amazon.com/images/I/51Q5dC08ztL._SL400_.jpg)](https://www.amazon.es/dp/B082NJY47R/?tag=tolees-21)
 
 🔎:
 

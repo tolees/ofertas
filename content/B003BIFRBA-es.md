@@ -2,7 +2,7 @@
 layout: post
 title: 'pjur ORIGINAL - Lubricante de silicona P con un 49.37 % de descuento'
 date: 2020-05-28 17:28:18
-image: 'https://m.media-amazon.com/images/I/41XNI0BYHJL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41XNI0BYHJL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '51.29'
 
 En este momento está [pjur ORIGINAL - Lubricante de silicona Premium - lubricación duradera sin pegarse - cunde mucho  adecuado para preservativos - pack de 1  1x1000ml ](https://www.amazon.es/dp/B003BIFRBA/?tag=tolees-21) a 51.29 EUR (original: 101.3 EUR) (49.37 %  de descuento) en el siguiente enlace!
 
-[![pjur ORIGINAL - Lubricante de silicona P](https://m.media-amazon.com/images/I/41XNI0BYHJL._SL200_.jpg)](https://www.amazon.es/dp/B003BIFRBA/?tag=tolees-21)
+[![pjur ORIGINAL - Lubricante de silicona P](https://m.media-amazon.com/images/I/41XNI0BYHJL._SL400_.jpg)](https://www.amazon.es/dp/B003BIFRBA/?tag=tolees-21)
 
 🔎:
 

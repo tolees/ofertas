@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 40.01 % en Cuéntame Cómo Pasó - Temporadas 6 - 8 [D'
 date: 2020-03-31 05:06:55
-image: 'https://m.media-amazon.com/images/I/41XaBKMMUeL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41XaBKMMUeL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '35.99'
 
 Tienes [Cuéntame Cómo Pasó - Temporadas 6 - 8 [DVD]](https://www.amazon.es/dp/B003Z7RUI0/?tag=tolees-21) con un 40.01 % de descuento con precio de oferta de 35.99 EUR (original: 59.99 EUR) en el siguiente enlace!
 
-[![Cuéntame Cómo Pasó - Temporadas 6 - 8 [D](https://m.media-amazon.com/images/I/41XaBKMMUeL._SL200_.jpg)](https://www.amazon.es/dp/B003Z7RUI0/?tag=tolees-21)
+[![Cuéntame Cómo Pasó - Temporadas 6 - 8 [D](https://m.media-amazon.com/images/I/41XaBKMMUeL._SL400_.jpg)](https://www.amazon.es/dp/B003Z7RUI0/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour Armour Mid Keyhole Graphic  al 48.37 % de rebaja'
 date: 2020-06-25 11:53:40
-image: 'https://m.media-amazon.com/images/I/41Em5MBCx5L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Em5MBCx5L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.49'
 
 Tienes [Under Armour Armour Mid Keyhole Graphic Ropa Mujer para Correr  Sujetador Deportivo Espalda Cruzada Y Logotipo  Negro  M](https://www.amazon.es/dp/B0814SQTFV/?tag=tolees-21) con precio final de  15.49 EUR (original: 30.0 EUR) (48.37 %  de rebaja) aqui!
 
-[![Under Armour Armour Mid Keyhole Graphic ](https://m.media-amazon.com/images/I/41Em5MBCx5L._SL200_.jpg)](https://www.amazon.es/dp/B0814SQTFV/?tag=tolees-21)
+[![Under Armour Armour Mid Keyhole Graphic ](https://m.media-amazon.com/images/I/41Em5MBCx5L._SL400_.jpg)](https://www.amazon.es/dp/B0814SQTFV/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Revlon Ultra HD Pintalabios Matte  #675  al 51.28 % de descuento'
 date: 2020-03-08 05:19:37
-image: 'https://m.media-amazon.com/images/I/21hioytA+NL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21hioytA+NL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.405'
 
 Está [Revlon Ultra HD Pintalabios Matte  #675 Infatuation ](https://www.amazon.es/dp/B01IQKPIFM/?tag=tolees-21) con 51.28 de descuento por 4.36 EUR (original: 8.95 EUR) en el siguiente enlace!
 
-[![Revlon Ultra HD Pintalabios Matte  #675 ](https://m.media-amazon.com/images/I/21hioytA+NL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01IQKPIFM/?tag=tolees-21)
+[![Revlon Ultra HD Pintalabios Matte  #675 ](https://m.media-amazon.com/images/I/21hioytA+NL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01IQKPIFM/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'White Patchwork Quilt  King Size quilts  al 36.80 % de rebaja'
 date: 2020-04-15 00:34:36
-image: 'https://m.media-amazon.com/images/I/51iEvGURtQL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51iEvGURtQL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '237.0'
 
 Tienes [White Patchwork Quilt  King Size quilts for sale  Patchwork Comforter  Soft Throw Blanket House warming gifts  FREE SHIPPING](https://www.amazon.es/dp/B07Q4TMWMJ/?tag=tolees-21) con precio final de  237.0 EUR (original: 375.0 EUR) (36.80 %  de rebaja) aqui!
 
-[![White Patchwork Quilt  King Size quilts ](https://m.media-amazon.com/images/I/51iEvGURtQL._SL200_.jpg)](https://www.amazon.es/dp/B07Q4TMWMJ/?tag=tolees-21)
+[![White Patchwork Quilt  King Size quilts ](https://m.media-amazon.com/images/I/51iEvGURtQL._SL400_.jpg)](https://www.amazon.es/dp/B07Q4TMWMJ/?tag=tolees-21)
 
 🔎:
 

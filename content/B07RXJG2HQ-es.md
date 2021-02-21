@@ -2,7 +2,7 @@
 layout: post
 title: 'New Balance 373v2  Zapatillas para Hombr al 50.04 % de descuento'
 date: 2020-07-02 04:03:53
-image: 'https://m.media-amazon.com/images/I/31uOGop7LvL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31uOGop7LvL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '39.97'
 
 Ahora mismo tienes [New Balance 373v2  Zapatillas para Hombre  Negro  Black/Blue Ab2   39.5 EU](https://www.amazon.es/dp/B07RXJG2HQ/?tag=tolees-21) a 39.97 EUR (original: 80.0 EUR) (50.04 %  de descuento) en el siguiente enlace!
 
-[![New Balance 373v2  Zapatillas para Hombr](https://m.media-amazon.com/images/I/31uOGop7LvL._SL200_.jpg)](https://www.amazon.es/dp/B07RXJG2HQ/?tag=tolees-21)
+[![New Balance 373v2  Zapatillas para Hombr](https://m.media-amazon.com/images/I/31uOGop7LvL._SL400_.jpg)](https://www.amazon.es/dp/B07RXJG2HQ/?tag=tolees-21)
 
 🔎:
 

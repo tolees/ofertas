@@ -2,7 +2,7 @@
 layout: post
 title: 'S&R Disco Diamante 125 mm para corte de  con un 56.55 % de descuento'
 date: 2020-03-16 14:16:04
-image: 'https://m.media-amazon.com/images/I/51ZsUGltiOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51ZsUGltiOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.280000000000001'
 
 En este momento está [S&R Disco Diamante 125 mm para corte de Porcelanico  Cerámica dura  Azulejos  Mármol  Granito  Piedra caliza y otros materiales duros. Calidad Profesional](https://www.amazon.es/dp/B01BYFTIJ8/?tag=tolees-21) a 12.97 EUR (original: 29.85 EUR) (56.55 %  de descuento) en el siguiente enlace!
 
-[![S&R Disco Diamante 125 mm para corte de ](https://m.media-amazon.com/images/I/51ZsUGltiOL._SL200_.jpg)](https://www.amazon.es/dp/B01BYFTIJ8/?tag=tolees-21)
+[![S&R Disco Diamante 125 mm para corte de ](https://m.media-amazon.com/images/I/51ZsUGltiOL._SL400_.jpg)](https://www.amazon.es/dp/B01BYFTIJ8/?tag=tolees-21)
 
 🔎:
 

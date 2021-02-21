@@ -2,7 +2,7 @@
 layout: post
 title: 'Maurer 2160807 Extractor de 2 Brazos  6" con un 72.02 % de descuento'
 date: 2020-03-04 01:33:48
-image: 'https://m.media-amazon.com/images/I/41sYSxE7DzL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41sYSxE7DzL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.27'
 
 En este momento está [Maurer 2160807 Extractor de 2 Brazos  6"](https://www.amazon.es/dp/B00HWRJS8O/?tag=tolees-21) a 6.27 EUR (original: 22.41 EUR) (72.02 %  de descuento) en el siguiente enlace!
 
-[![Maurer 2160807 Extractor de 2 Brazos  6"](https://m.media-amazon.com/images/I/41sYSxE7DzL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B00HWRJS8O/?tag=tolees-21)
+[![Maurer 2160807 Extractor de 2 Brazos  6"](https://m.media-amazon.com/images/I/41sYSxE7DzL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B00HWRJS8O/?tag=tolees-21)
 
 🔎:
 

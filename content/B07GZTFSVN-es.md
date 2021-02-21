@@ -2,7 +2,7 @@
 layout: post
 title: 'RECCI Cubre Colchón 135x190/200 - Cubrec al 25.03 % de descuento'
 date: 2020-07-12 07:13:22
-image: 'https://m.media-amazon.com/images/I/41Fyq0CFeIL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Fyq0CFeIL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '26.99'
 
 Ahora mismo tienes [RECCI Cubre Colchón 135x190/200 - Cubrecolchón Impermeable 135x190/200  100% Bambú Fundas de Colchón  Protector de Colchón  Ultra Suave  Transpirable  Anti-Ácaros  Silencioso [ 135 x 190/200 cm ]](https://www.amazon.es/dp/B07GZTFSVN/?tag=tolees-21) a 26.99 EUR (original: 36.0 EUR) (25.03 %  de descuento) en el siguiente enlace!
 
-[![RECCI Cubre Colchón 135x190/200 - Cubrec](https://m.media-amazon.com/images/I/41Fyq0CFeIL._SL200_.jpg)](https://www.amazon.es/dp/B07GZTFSVN/?tag=tolees-21)
+[![RECCI Cubre Colchón 135x190/200 - Cubrec](https://m.media-amazon.com/images/I/41Fyq0CFeIL._SL400_.jpg)](https://www.amazon.es/dp/B07GZTFSVN/?tag=tolees-21)
 
 🔎:
 

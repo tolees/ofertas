@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour UA W Charged Rogue 2  Zapat al 28.19 % de descuento'
 date: 2020-06-24 10:19:58
-image: 'https://m.media-amazon.com/images/I/41W93YW6cSL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41W93YW6cSL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '34.67'
 
 Ahora mismo tienes [Under Armour UA W Charged Rogue 2  Zapatillas de Running para Mujer  Gris  Halo Gray/Halo Gray/Lipstick   36.5 EU](https://www.amazon.es/dp/B07NNTQRJW/?tag=tolees-21) a 34.67 EUR (original: 48.28 EUR) (28.19 %  de descuento) en el siguiente enlace!
 
-[![Under Armour UA W Charged Rogue 2  Zapat](https://m.media-amazon.com/images/I/41W93YW6cSL._SL200_.jpg)](https://www.amazon.es/dp/B07NNTQRJW/?tag=tolees-21)
+[![Under Armour UA W Charged Rogue 2  Zapat](https://m.media-amazon.com/images/I/41W93YW6cSL._SL400_.jpg)](https://www.amazon.es/dp/B07NNTQRJW/?tag=tolees-21)
 
 🔎:
 

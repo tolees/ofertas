@@ -2,7 +2,7 @@
 layout: post
 title: 'Adidas Grand Court K  Zapatillas de Teni al 29.94 % de descuento'
 date: 2020-04-23 20:50:32
-image: 'https://m.media-amazon.com/images/I/31ww8aSW9sL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31ww8aSW9sL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '27.99'
 
 Ahora mismo tienes [Adidas Grand Court K  Zapatillas de Tenis Unisex niño  Blanc Noir Blanc  34 EU](https://www.amazon.es/dp/B07QD9YN7N/?tag=tolees-21) a 27.99 EUR (original: 39.95 EUR) (29.94 %  de descuento) en el siguiente enlace!
 
-[![Adidas Grand Court K  Zapatillas de Teni](https://m.media-amazon.com/images/I/31ww8aSW9sL._SL200_.jpg)](https://www.amazon.es/dp/B07QD9YN7N/?tag=tolees-21)
+[![Adidas Grand Court K  Zapatillas de Teni](https://m.media-amazon.com/images/I/31ww8aSW9sL._SL400_.jpg)](https://www.amazon.es/dp/B07QD9YN7N/?tag=tolees-21)
 
 🔎:
 

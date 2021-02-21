@@ -2,7 +2,7 @@
 layout: post
 title: 'American Tourister Summerfunk Equipaje d al 43.19 % de descuento'
 date: 2020-09-12 15:02:36
-image: 'https://m.media-amazon.com/images/I/41CXJ+bOh-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41CXJ+bOh-L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '53.97'
 
 Ahora mismo tienes [American Tourister Summerfunk Equipaje de Mano  55 Centimeters  40 litros  Beige](https://www.amazon.es/dp/B07RSXPRPH/?tag=tolees-21) a 53.97 EUR (original: 95.0 EUR) (43.19 %  de descuento) en el siguiente enlace!
 
-[![American Tourister Summerfunk Equipaje d](https://m.media-amazon.com/images/I/41CXJ+bOh-L._SL200_.jpg)](https://www.amazon.es/dp/B07RSXPRPH/?tag=tolees-21)
+[![American Tourister Summerfunk Equipaje d](https://m.media-amazon.com/images/I/41CXJ+bOh-L._SL400_.jpg)](https://www.amazon.es/dp/B07RSXPRPH/?tag=tolees-21)
 
 🔎:
 

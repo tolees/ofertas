@@ -2,7 +2,7 @@
 layout: post
 title: 'PUMA Vista  Zapatillas Unisex Adulto  Ne al 41.48 % de descuento'
 date: 2020-05-07 09:10:48
-image: 'https://m.media-amazon.com/images/I/413JS105IGL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/413JS105IGL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '39.4325'
 
 Está [PUMA Vista  Zapatillas Unisex Adulto  Negro Black White/Charcoal Gray  42 EU](https://www.amazon.es/dp/B07DC1CTTH/?tag=tolees-21) con 41.48 de descuento por 38.01 EUR (original: 64.95 EUR) en el siguiente enlace!
 
-[![PUMA Vista  Zapatillas Unisex Adulto  Ne](https://m.media-amazon.com/images/I/413JS105IGL._SL200_.jpg)](https://www.amazon.es/dp/B07DC1CTTH/?tag=tolees-21)
+[![PUMA Vista  Zapatillas Unisex Adulto  Ne](https://m.media-amazon.com/images/I/413JS105IGL._SL400_.jpg)](https://www.amazon.es/dp/B07DC1CTTH/?tag=tolees-21)
 
 ℹ️:
 

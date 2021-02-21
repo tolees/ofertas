@@ -2,7 +2,7 @@
 layout: post
 title: 'Napapijri EISBERG Polo  Negro  Black 041 con un 60.41 % de descuento'
 date: 2020-01-10 11:08:10
-image: 'https://images-eu.ssl-images-amazon.com/images/I/315mlEUAR5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/315mlEUAR5L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '27.32'
 
 En este momento está [Napapijri EISBERG Polo  Negro  Black 041   S para Hombre](https://www.amazon.es/dp/B07MQVHV28/?tag=tolees-21) a 27.32 EUR (original: 69 EUR) (60.41 %  de descuento) en el siguiente enlace!
 
-[![Napapijri EISBERG Polo  Negro  Black 041](https://images-eu.ssl-images-amazon.com/images/I/315mlEUAR5L._SL200_.jpg)](https://www.amazon.es/dp/B07MQVHV28/?tag=tolees-21)
+[![Napapijri EISBERG Polo  Negro  Black 041](https://images-eu.ssl-images-amazon.com/images/I/315mlEUAR5L._SL400_.jpg)](https://www.amazon.es/dp/B07MQVHV28/?tag=tolees-21)
 
 🔎:
 

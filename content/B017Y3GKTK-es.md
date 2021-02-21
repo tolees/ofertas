@@ -2,7 +2,7 @@
 layout: post
 title: 'Dewalt DWE492S-QS Amoladora 230 mm 2.200 con un 25.76 % de descuento'
 date: 2020-04-15 06:41:25
-image: 'https://m.media-amazon.com/images/I/41lazX0CaAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41lazX0CaAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '107.61'
 
 En este momento está [Dewalt DWE492S-QS Amoladora 230 mm 2.200W 6.500 rpm Arranque suave  2200 W](https://www.amazon.es/dp/B017Y3GKTK/?tag=tolees-21) a 107.61 EUR (original: 144.95 EUR) (25.76 %  de descuento) en el siguiente enlace!
 
-[![Dewalt DWE492S-QS Amoladora 230 mm 2.200](https://m.media-amazon.com/images/I/41lazX0CaAL._SL200_.jpg)](https://www.amazon.es/dp/B017Y3GKTK/?tag=tolees-21)
+[![Dewalt DWE492S-QS Amoladora 230 mm 2.200](https://m.media-amazon.com/images/I/41lazX0CaAL._SL400_.jpg)](https://www.amazon.es/dp/B017Y3GKTK/?tag=tolees-21)
 
 🔎:
 

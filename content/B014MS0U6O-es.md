@@ -2,7 +2,7 @@
 layout: post
 title: 'Original Junta de Cuchillas para Thermom al 60.53 % de descuento'
 date: 2020-09-26 08:53:16
-image: 'https://m.media-amazon.com/images/I/317Vp7uqtAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/317Vp7uqtAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.75'
 
 Está [Original Junta de Cuchillas para Thermomix TM 21/ TM 31](https://www.amazon.es/dp/B014MS0U6O/?tag=tolees-21) con 60.53 de descuento por 3.75 EUR (original: 9.5 EUR) en el siguiente enlace!
 
-[![Original Junta de Cuchillas para Thermom](https://m.media-amazon.com/images/I/317Vp7uqtAL._SL200_.jpg)](https://www.amazon.es/dp/B014MS0U6O/?tag=tolees-21)
+[![Original Junta de Cuchillas para Thermom](https://m.media-amazon.com/images/I/317Vp7uqtAL._SL400_.jpg)](https://www.amazon.es/dp/B014MS0U6O/?tag=tolees-21)
 
 ℹ️:
 

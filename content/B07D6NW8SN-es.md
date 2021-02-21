@@ -2,7 +2,7 @@
 layout: post
 title: 'Kingston SUV500/1920G - Unidad de Disco  con un 41.85 % de descuento'
 date: 2020-08-18 12:34:33
-image: 'https://m.media-amazon.com/images/I/31yw9sFFgGL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31yw9sFFgGL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '274.27'
 
 En este momento está [Kingston SUV500/1920G - Unidad de Disco Duro SSD  1920 GB  SATA3  2.5"](https://www.amazon.es/dp/B07D6NW8SN/?tag=tolees-21) a 246.54 EUR (original: 423.99 EUR) (41.85 %  de descuento) en el siguiente enlace!
 
-[![Kingston SUV500/1920G - Unidad de Disco ](https://m.media-amazon.com/images/I/31yw9sFFgGL._SL200_.jpg)](https://www.amazon.es/dp/B07D6NW8SN/?tag=tolees-21)
+[![Kingston SUV500/1920G - Unidad de Disco ](https://m.media-amazon.com/images/I/31yw9sFFgGL._SL400_.jpg)](https://www.amazon.es/dp/B07D6NW8SN/?tag=tolees-21)
 
 🔎:
 

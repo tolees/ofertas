@@ -2,7 +2,7 @@
 layout: post
 title: 'Columbia Redmond V2 Mid  Botas de Sender al 36.00 % de descuento'
 date: 2020-04-22 01:48:51
-image: 'https://m.media-amazon.com/images/I/41P4GU+WtOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41P4GU+WtOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '63.99'
 
 Ahora mismo tienes [Columbia Redmond V2 Mid  Botas de Senderismo Impermeables para Mujer  Gris  Steam  Daredevi 088   42 EU](https://www.amazon.es/dp/B07JGDB72F/?tag=tolees-21) a 63.99 EUR (original: 99.99 EUR) (36.00 %  de descuento) en el siguiente enlace!
 
-[![Columbia Redmond V2 Mid  Botas de Sender](https://m.media-amazon.com/images/I/41P4GU+WtOL._SL200_.jpg)](https://www.amazon.es/dp/B07JGDB72F/?tag=tolees-21)
+[![Columbia Redmond V2 Mid  Botas de Sender](https://m.media-amazon.com/images/I/41P4GU+WtOL._SL400_.jpg)](https://www.amazon.es/dp/B07JGDB72F/?tag=tolees-21)
 
 🔎:
 

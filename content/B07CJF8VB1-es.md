@@ -2,7 +2,7 @@
 layout: post
 title: 'FIAT500 Rodilleras y Coderas FIAT 500 F5 al 75.22 % de descuento'
 date: 2020-01-10 09:28:07
-image: 'https://images-eu.ssl-images-amazon.com/images/I/416jOBKElKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416jOBKElKL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.98'
 
 Está [FIAT500 Rodilleras y Coderas FIAT 500 F500-PKL-K Color Negro  Talla L  Deportes](https://www.amazon.es/dp/B07CJF8VB1/?tag=tolees-21) con 75.22 de descuento por 1.98 EUR (original: 7.99 EUR) en el siguiente enlace!
 
-[![FIAT500 Rodilleras y Coderas FIAT 500 F5](https://images-eu.ssl-images-amazon.com/images/I/416jOBKElKL._SL200_.jpg)](https://www.amazon.es/dp/B07CJF8VB1/?tag=tolees-21)
+[![FIAT500 Rodilleras y Coderas FIAT 500 F5](https://images-eu.ssl-images-amazon.com/images/I/416jOBKElKL._SL400_.jpg)](https://www.amazon.es/dp/B07CJF8VB1/?tag=tolees-21)
 
 ℹ️:
 

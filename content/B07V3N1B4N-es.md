@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger Modern Corporate Leather  al 44.75 % de rebaja'
 date: 2020-07-29 18:53:53
-image: 'https://m.media-amazon.com/images/I/31E558r+IML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31E558r+IML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '69.01'
 
 Tienes [Tommy Hilfiger Modern Corporate Leather Runner  Zapatillas para Hombre  Azul  Desert Sky Dw5   43 EU](https://www.amazon.es/dp/B07V3N1B4N/?tag=tolees-21) con precio final de  69.01 EUR (original: 124.9 EUR) (44.75 %  de rebaja) aqui!
 
-[![Tommy Hilfiger Modern Corporate Leather ](https://m.media-amazon.com/images/I/31E558r+IML._SL200_.jpg)](https://www.amazon.es/dp/B07V3N1B4N/?tag=tolees-21)
+[![Tommy Hilfiger Modern Corporate Leather ](https://m.media-amazon.com/images/I/31E558r+IML._SL400_.jpg)](https://www.amazon.es/dp/B07V3N1B4N/?tag=tolees-21)
 
 🔎:
 

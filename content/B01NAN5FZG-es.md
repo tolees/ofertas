@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 54.35 % en Máscara exfoliante de lavado contra punt'
 date: 2020-04-28 17:07:50
-image: 'https://m.media-amazon.com/images/I/41LnMmpbbmL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41LnMmpbbmL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.449999999999999'
 
 Tienes [Máscara exfoliante de lavado contra puntos negros  de la marca Pure Active 3 in1](https://www.amazon.es/dp/B01NAN5FZG/?tag=tolees-21) con un 54.35 % de descuento con precio de oferta de 4.2 EUR (original: 9.2 EUR) en el siguiente enlace!
 
-[![Máscara exfoliante de lavado contra punt](https://m.media-amazon.com/images/I/41LnMmpbbmL._SL200_.jpg)](https://www.amazon.es/dp/B01NAN5FZG/?tag=tolees-21)
+[![Máscara exfoliante de lavado contra punt](https://m.media-amazon.com/images/I/41LnMmpbbmL._SL400_.jpg)](https://www.amazon.es/dp/B01NAN5FZG/?tag=tolees-21)
 
 ℹ️:
 

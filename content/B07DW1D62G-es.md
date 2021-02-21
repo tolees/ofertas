@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger Original Basic Polo  Blan al 32.67 % de descuento'
 date: 2020-04-19 19:12:20
-image: 'https://m.media-amazon.com/images/I/31kBxHd0dFL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31kBxHd0dFL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '32.99'
 
 Ahora mismo tienes [Tommy Hilfiger Original Basic Polo  Blanco  Classic White 100   Medium para Mujer](https://www.amazon.es/dp/B07DW1D62G/?tag=tolees-21) a 32.99 EUR (original: 49.0 EUR) (32.67 %  de descuento) en el siguiente enlace!
 
-[![Tommy Hilfiger Original Basic Polo  Blan](https://m.media-amazon.com/images/I/31kBxHd0dFL._SL200_.jpg)](https://www.amazon.es/dp/B07DW1D62G/?tag=tolees-21)
+[![Tommy Hilfiger Original Basic Polo  Blan](https://m.media-amazon.com/images/I/31kBxHd0dFL._SL400_.jpg)](https://www.amazon.es/dp/B07DW1D62G/?tag=tolees-21)
 
 🔎:
 

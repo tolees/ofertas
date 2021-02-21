@@ -2,7 +2,7 @@
 layout: post
 title: 'Yizhet 5 Piezas de Lámpara Super Brillan al 50.06 % de rebaja'
 date: 2020-02-01 17:46:09
-image: 'https://m.media-amazon.com/images/I/513ND96kFSL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/513ND96kFSL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.99'
 
 Tienes [Yizhet 5 Piezas de Lámpara Super Brillante de 6 LEDs UEB Tarjeta de bolsillo Bombilla USB Tipo Llavero Regulador Táctil Ajustable Luz Blanca](https://www.amazon.es/dp/B07D4BBSYR/?tag=tolees-21) con precio final de  7.99 EUR (original: 16.0 EUR) (50.06 %  de rebaja) aqui!
 
-[![Yizhet 5 Piezas de Lámpara Super Brillan](https://m.media-amazon.com/images/I/513ND96kFSL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07D4BBSYR/?tag=tolees-21)
+[![Yizhet 5 Piezas de Lámpara Super Brillan](https://m.media-amazon.com/images/I/513ND96kFSL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07D4BBSYR/?tag=tolees-21)
 
 🔎:
 

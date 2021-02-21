@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 84.10 % en Berghoff Set de Pasta 20 Piezas'
 date: 2020-01-15 20:35:51
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31t4JwzuVqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31t4JwzuVqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.380000000000003'
 
 Tienes [Berghoff Set de Pasta 20 Piezas](https://www.amazon.es/dp/B005UOPX5I/?tag=tolees-21) con un 84.10 % de descuento con precio de oferta de 18.16 EUR (original: 114.24 EUR) en el siguiente enlace!
 
-[![Berghoff Set de Pasta 20 Piezas](https://images-eu.ssl-images-amazon.com/images/I/31t4JwzuVqL._SL200_.jpg)](https://www.amazon.es/dp/B005UOPX5I/?tag=tolees-21)
+[![Berghoff Set de Pasta 20 Piezas](https://images-eu.ssl-images-amazon.com/images/I/31t4JwzuVqL._SL400_.jpg)](https://www.amazon.es/dp/B005UOPX5I/?tag=tolees-21)
 
 ℹ️:
 

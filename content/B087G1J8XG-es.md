@@ -2,7 +2,7 @@
 layout: post
 title: 'TOUS Pulsera Good Vibes Mama de Plata Ve con un 30.30 % de descuento'
 date: 2020-09-15 12:16:32
-image: 'https://m.media-amazon.com/images/I/31EqjNrU0yL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31EqjNrU0yL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '69.0'
 
 En este momento está [TOUS Pulsera Good Vibes Mama de Plata Vermeil y shungitas](https://www.amazon.es/dp/B087G1J8XG/?tag=tolees-21) a 69.0 EUR (original: 99.0 EUR) (30.30 %  de descuento) en el siguiente enlace!
 
-[![TOUS Pulsera Good Vibes Mama de Plata Ve](https://m.media-amazon.com/images/I/31EqjNrU0yL._SL200_.jpg)](https://www.amazon.es/dp/B087G1J8XG/?tag=tolees-21)
+[![TOUS Pulsera Good Vibes Mama de Plata Ve](https://m.media-amazon.com/images/I/31EqjNrU0yL._SL400_.jpg)](https://www.amazon.es/dp/B087G1J8XG/?tag=tolees-21)
 
 🔎:
 

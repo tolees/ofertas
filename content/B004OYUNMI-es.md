@@ -2,7 +2,7 @@
 layout: post
 title: 'Casio G-SHOCK Reloj Analógico-Digital  2 al 54.56 % de rebaja'
 date: 2020-03-21 13:27:38
-image: 'https://m.media-amazon.com/images/I/41rlRGY3nqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41rlRGY3nqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '74.24000000000001'
 
 Tienes [Casio G-SHOCK Reloj Analógico-Digital  20 BAR  Azul/Negro  para Hombre  GA-110-1BER](https://www.amazon.es/dp/B004OYUNMI/?tag=tolees-21) con precio final de  76.8 EUR (original: 169.0 EUR) (54.56 %  de rebaja) aqui!
 
-[![Casio G-SHOCK Reloj Analógico-Digital  2](https://m.media-amazon.com/images/I/41rlRGY3nqL._SL200_.jpg)](https://www.amazon.es/dp/B004OYUNMI/?tag=tolees-21)
+[![Casio G-SHOCK Reloj Analógico-Digital  2](https://m.media-amazon.com/images/I/41rlRGY3nqL._SL400_.jpg)](https://www.amazon.es/dp/B004OYUNMI/?tag=tolees-21)
 
 🔎:
 

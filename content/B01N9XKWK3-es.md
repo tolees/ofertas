@@ -2,7 +2,7 @@
 layout: post
 title: 'Mario Sports Superstars + Tarjeta Amiibo con un 37.98 % de descuento'
 date: 2020-03-22 15:49:09
-image: 'https://m.media-amazon.com/images/I/618-hsEZxPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/618-hsEZxPL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.8'
 
 En este momento está [Mario Sports Superstars + Tarjeta Amiibo - Edición Limitada](https://www.amazon.es/dp/B01N9XKWK3/?tag=tolees-21) a 24.8 EUR (original: 39.99 EUR) (37.98 %  de descuento) en el siguiente enlace!
 
-[![Mario Sports Superstars + Tarjeta Amiibo](https://m.media-amazon.com/images/I/618-hsEZxPL._SL200_.jpg)](https://www.amazon.es/dp/B01N9XKWK3/?tag=tolees-21)
+[![Mario Sports Superstars + Tarjeta Amiibo](https://m.media-amazon.com/images/I/618-hsEZxPL._SL400_.jpg)](https://www.amazon.es/dp/B01N9XKWK3/?tag=tolees-21)
 
 🔎:
 

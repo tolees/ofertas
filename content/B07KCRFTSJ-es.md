@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas T19 M Polo Shirt  Hombre  Team Na al 48.71 % de descuento'
 date: 2020-05-27 17:27:49
-image: 'https://m.media-amazon.com/images/I/31HSRbisaqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31HSRbisaqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.49'
 
 Ahora mismo tienes [adidas T19 M Polo Shirt  Hombre  Team Navy Blue/White  L](https://www.amazon.es/dp/B07KCRFTSJ/?tag=tolees-21) a 20.49 EUR (original: 39.95 EUR) (48.71 %  de descuento) en el siguiente enlace!
 
-[![adidas T19 M Polo Shirt  Hombre  Team Na](https://m.media-amazon.com/images/I/31HSRbisaqL._SL200_.jpg)](https://www.amazon.es/dp/B07KCRFTSJ/?tag=tolees-21)
+[![adidas T19 M Polo Shirt  Hombre  Team Na](https://m.media-amazon.com/images/I/31HSRbisaqL._SL400_.jpg)](https://www.amazon.es/dp/B07KCRFTSJ/?tag=tolees-21)
 
 🔎:
 

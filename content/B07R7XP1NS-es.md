@@ -2,7 +2,7 @@
 layout: post
 title: 'Columbia Buga Conjunto para la Nieve  Ni al 43.33 % de descuento'
 date: 2020-01-13 11:46:51
-image: 'https://images-eu.ssl-images-amazon.com/images/I/514V4sewDWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/514V4sewDWL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '56.66'
 
 Está [Columbia Buga Conjunto para la Nieve  Niños  Mezclar rosa / púrpura  Pink Clover Trees   Talla: M](https://www.amazon.es/dp/B07R7XP1NS/?tag=tolees-21) con 43.33 de descuento por 56.66 EUR (original: 99.99 EUR) en el siguiente enlace!
 
-[![Columbia Buga Conjunto para la Nieve  Ni](https://images-eu.ssl-images-amazon.com/images/I/514V4sewDWL._SL200_.jpg)](https://www.amazon.es/dp/B07R7XP1NS/?tag=tolees-21)
+[![Columbia Buga Conjunto para la Nieve  Ni](https://images-eu.ssl-images-amazon.com/images/I/514V4sewDWL._SL400_.jpg)](https://www.amazon.es/dp/B07R7XP1NS/?tag=tolees-21)
 
 ℹ️:
 

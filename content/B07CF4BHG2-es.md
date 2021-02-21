@@ -2,7 +2,7 @@
 layout: post
 title: 'L Oreal Paris Elvive Color Vive Champú P al 30.17 % de descuento'
 date: 2020-08-19 15:27:43
-image: 'https://m.media-amazon.com/images/I/41425+ojBwL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41425+ojBwL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.12'
 
 Ahora mismo tienes [L Oreal Paris Elvive Color Vive Champú Protector  para el pelo teñido - 285 ml](https://www.amazon.es/dp/B07CF4BHG2/?tag=tolees-21) a 2.06 EUR (original: 2.95 EUR) (30.17 %  de descuento) en el siguiente enlace!
 
-[![L Oreal Paris Elvive Color Vive Champú P](https://m.media-amazon.com/images/I/41425+ojBwL._SL200_.jpg)](https://www.amazon.es/dp/B07CF4BHG2/?tag=tolees-21)
+[![L Oreal Paris Elvive Color Vive Champú P](https://m.media-amazon.com/images/I/41425+ojBwL._SL400_.jpg)](https://www.amazon.es/dp/B07CF4BHG2/?tag=tolees-21)
 
 🔎:
 

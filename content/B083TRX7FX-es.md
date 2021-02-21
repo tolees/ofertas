@@ -2,7 +2,7 @@
 layout: post
 title: 'Crucial Ballistix BL2K8G36C16U4W 3600 MH al 25.88 % de descuento'
 date: 2020-09-27 07:49:36
-image: 'https://m.media-amazon.com/images/I/31ceg-5dP8L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31ceg-5dP8L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '76.22'
 
 Ahora mismo tienes [Crucial Ballistix BL2K8G36C16U4W 3600 MHz  DDR4  DRAM  Memoria Gamer para Ordenadores de sobremesa  16GB  8GB x2   CL16  Blanco](https://www.amazon.es/dp/B083TRX7FX/?tag=tolees-21) a 76.22 EUR (original: 102.84 EUR) (25.88 %  de descuento) en el siguiente enlace!
 
-[![Crucial Ballistix BL2K8G36C16U4W 3600 MH](https://m.media-amazon.com/images/I/31ceg-5dP8L._SL200_.jpg)](https://www.amazon.es/dp/B083TRX7FX/?tag=tolees-21)
+[![Crucial Ballistix BL2K8G36C16U4W 3600 MH](https://m.media-amazon.com/images/I/31ceg-5dP8L._SL400_.jpg)](https://www.amazon.es/dp/B083TRX7FX/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: '2 Linterna LED Acampada portátil luz Int con un 40.99 % de descuento'
 date: 2020-01-26 21:36:04
-image: 'https://m.media-amazon.com/images/I/51TKEn9ayPL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51TKEn9ayPL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.89'
 
 En este momento está [2 Linterna LED Acampada portátil luz Intermitente Exteriores-Brillante Magnética](https://www.amazon.es/dp/B01DJ0J3MS/?tag=tolees-21) a 20.89 EUR (original: 35.4 EUR) (40.99 %  de descuento) en el siguiente enlace!
 
-[![2 Linterna LED Acampada portátil luz Int](https://m.media-amazon.com/images/I/51TKEn9ayPL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01DJ0J3MS/?tag=tolees-21)
+[![2 Linterna LED Acampada portátil luz Int](https://m.media-amazon.com/images/I/51TKEn9ayPL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01DJ0J3MS/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Thumbs Up!- 1001473 Retro Mini Arcade Ma al 36.26 % de descuento'
 date: 2020-09-12 00:31:06
-image: 'https://m.media-amazon.com/images/I/51siIDIeA4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51siIDIeA4L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '25.750434782608693'
 
 Ahora mismo tienes [Thumbs Up!- 1001473 Retro Mini Arcade Machine  Multicolor  OR-240IN1ARC ](https://www.amazon.es/dp/B01KA5K57C/?tag=tolees-21) a 20.39 EUR (original: 31.99 EUR) (36.26 %  de descuento) en el siguiente enlace!
 
-[![Thumbs Up!- 1001473 Retro Mini Arcade Ma](https://m.media-amazon.com/images/I/51siIDIeA4L._SL200_.jpg)](https://www.amazon.es/dp/B01KA5K57C/?tag=tolees-21)
+[![Thumbs Up!- 1001473 Retro Mini Arcade Ma](https://m.media-amazon.com/images/I/51siIDIeA4L._SL400_.jpg)](https://www.amazon.es/dp/B01KA5K57C/?tag=tolees-21)
 
 🔎:
 

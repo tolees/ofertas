@@ -2,7 +2,7 @@
 layout: post
 title: 'Clarks Brixby Shore  Sandalia con Pulser al 31.54 % de descuento'
 date: 2020-05-22 11:05:43
-image: 'https://m.media-amazon.com/images/I/41HmFKWDlLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41HmFKWDlLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '46.53333333333333'
 
 Ahora mismo tienes [Clarks Brixby Shore  Sandalia con Pulsera para Hombre  Marrón  Dark Brown Leather-   45 EU](https://www.amazon.es/dp/B07932GTPM/?tag=tolees-21) a 54.73 EUR (original: 79.95 EUR) (31.54 %  de descuento) en el siguiente enlace!
 
-[![Clarks Brixby Shore  Sandalia con Pulser](https://m.media-amazon.com/images/I/41HmFKWDlLL._SL200_.jpg)](https://www.amazon.es/dp/B07932GTPM/?tag=tolees-21)
+[![Clarks Brixby Shore  Sandalia con Pulser](https://m.media-amazon.com/images/I/41HmFKWDlLL._SL400_.jpg)](https://www.amazon.es/dp/B07932GTPM/?tag=tolees-21)
 
 🔎:
 

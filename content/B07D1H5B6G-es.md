@@ -2,7 +2,7 @@
 layout: post
 title: 'Asics Gel-Quantum 360 Knit 2 T840n-001   al 60.96 % de descuento'
 date: 2020-01-20 11:59:00
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31LTXAfFdXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31LTXAfFdXL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '80'
 
 Está [Asics Gel-Quantum 360 Knit 2 T840n-001  Zapatillas de Entrenamiento para Hombre  Negro  Black/Black 001   48 EU](https://www.amazon.es/dp/B07D1H5B6G/?tag=tolees-21) con 60.96 de descuento por 80 EUR (original: 204.9 EUR) en el siguiente enlace!
 
-[![Asics Gel-Quantum 360 Knit 2 T840n-001  ](https://images-eu.ssl-images-amazon.com/images/I/31LTXAfFdXL._SL200_.jpg)](https://www.amazon.es/dp/B07D1H5B6G/?tag=tolees-21)
+[![Asics Gel-Quantum 360 Knit 2 T840n-001  ](https://images-eu.ssl-images-amazon.com/images/I/31LTXAfFdXL._SL400_.jpg)](https://www.amazon.es/dp/B07D1H5B6G/?tag=tolees-21)
 
 ℹ️:
 

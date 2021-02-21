@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 46.05 % en CREATIVE Sound Blaster X7 USB DAC'
 date: 2020-05-27 17:38:08
-image: 'https://m.media-amazon.com/images/I/414Vqvqx4OL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/414Vqvqx4OL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '299.99'
 
 Tienes [CREATIVE Sound Blaster X7 USB DAC](https://www.amazon.es/dp/B00RABQ0GK/?tag=tolees-21) con un 46.05 % de descuento con precio de oferta de 299.99 EUR (original: 556.1 EUR) en el siguiente enlace!
 
-[![CREATIVE Sound Blaster X7 USB DAC](https://m.media-amazon.com/images/I/414Vqvqx4OL._SL200_.jpg)](https://www.amazon.es/dp/B00RABQ0GK/?tag=tolees-21)
+[![CREATIVE Sound Blaster X7 USB DAC](https://m.media-amazon.com/images/I/414Vqvqx4OL._SL400_.jpg)](https://www.amazon.es/dp/B00RABQ0GK/?tag=tolees-21)
 
 ℹ️:
 

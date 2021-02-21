@@ -2,7 +2,7 @@
 layout: post
 title: 'Optimum Nutrition ON 100% Plant Gold Sta al 44.88 % de descuento'
 date: 2020-05-31 21:03:20
-image: 'https://m.media-amazon.com/images/I/415vi51NWmL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/415vi51NWmL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.65'
 
 Está [Optimum Nutrition ON 100% Plant Gold Standard  Proteina vegana en polvo  para masa muscular y musculacion  fuente de vitamina C y B12  Chocolate  19 porciones  684 g](https://www.amazon.es/dp/B07J4RH1TV/?tag=tolees-21) con 44.88 de descuento por 15.98 EUR (original: 28.99 EUR) en el siguiente enlace!
 
-[![Optimum Nutrition ON 100% Plant Gold Sta](https://m.media-amazon.com/images/I/415vi51NWmL._SL200_.jpg)](https://www.amazon.es/dp/B07J4RH1TV/?tag=tolees-21)
+[![Optimum Nutrition ON 100% Plant Gold Sta](https://m.media-amazon.com/images/I/415vi51NWmL._SL400_.jpg)](https://www.amazon.es/dp/B07J4RH1TV/?tag=tolees-21)
 
 ℹ️:
 

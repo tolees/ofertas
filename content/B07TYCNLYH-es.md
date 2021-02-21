@@ -2,7 +2,7 @@
 layout: post
 title: 'Lee Plain Crew Suéter  Azul  Midnight Na al 55.80 % de descuento'
 date: 2020-08-09 19:16:20
-image: 'https://m.media-amazon.com/images/I/3199LJKFZbL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/3199LJKFZbL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '26.5'
 
 Ahora mismo tienes [Lee Plain Crew Suéter  Azul  Midnight Navy Ma   Medium para Hombre](https://www.amazon.es/dp/B07TYCNLYH/?tag=tolees-21) a 26.5 EUR (original: 59.95 EUR) (55.80 %  de descuento) en el siguiente enlace!
 
-[![Lee Plain Crew Suéter  Azul  Midnight Na](https://m.media-amazon.com/images/I/3199LJKFZbL._SL200_.jpg)](https://www.amazon.es/dp/B07TYCNLYH/?tag=tolees-21)
+[![Lee Plain Crew Suéter  Azul  Midnight Na](https://m.media-amazon.com/images/I/3199LJKFZbL._SL400_.jpg)](https://www.amazon.es/dp/B07TYCNLYH/?tag=tolees-21)
 
 🔎:
 

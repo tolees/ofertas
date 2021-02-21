@@ -2,7 +2,7 @@
 layout: post
 title: 'Columbia Bajada III  Zapatillas de Runni al 36.68 % de descuento'
 date: 2020-04-01 09:05:08
-image: 'https://m.media-amazon.com/images/I/41lyPn0UtQL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41lyPn0UtQL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '75.98'
 
 Ahora mismo tienes [Columbia Bajada III  Zapatillas de Running para Asfalto para Mujer  Azul  Deep Ocean  Red 458   36 EU](https://www.amazon.es/dp/B07KK3KW92/?tag=tolees-21) a 75.98 EUR (original: 119.99 EUR) (36.68 %  de descuento) en el siguiente enlace!
 
-[![Columbia Bajada III  Zapatillas de Runni](https://m.media-amazon.com/images/I/41lyPn0UtQL._SL200_.jpg)](https://www.amazon.es/dp/B07KK3KW92/?tag=tolees-21)
+[![Columbia Bajada III  Zapatillas de Runni](https://m.media-amazon.com/images/I/41lyPn0UtQL._SL400_.jpg)](https://www.amazon.es/dp/B07KK3KW92/?tag=tolees-21)
 
 🔎:
 

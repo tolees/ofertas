@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 44.00 % en Puma Men s MCFC Stadium INT Jacket Track'
 date: 2020-07-10 07:27:10
-image: 'https://m.media-amazon.com/images/I/41Agz3AFopL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Agz3AFopL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '44.77'
 
 Tienes [Puma Men s MCFC Stadium INT Jacket Track Black-Georgia Peach  M](https://www.amazon.es/dp/B07QHL5KHK/?tag=tolees-21) con un 44.00 % de descuento con precio de oferta de 44.77 EUR (original: 79.95 EUR) en el siguiente enlace!
 
-[![Puma Men s MCFC Stadium INT Jacket Track](https://m.media-amazon.com/images/I/41Agz3AFopL._SL200_.jpg)](https://www.amazon.es/dp/B07QHL5KHK/?tag=tolees-21)
+[![Puma Men s MCFC Stadium INT Jacket Track](https://m.media-amazon.com/images/I/41Agz3AFopL._SL400_.jpg)](https://www.amazon.es/dp/B07QHL5KHK/?tag=tolees-21)
 
 ℹ️:
 

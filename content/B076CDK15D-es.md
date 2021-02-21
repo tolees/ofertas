@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 33.33 % en Just Stationery - 24 Fundas de plástico '
 date: 2020-09-22 06:11:00
-image: 'https://m.media-amazon.com/images/I/513AIGTwzOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/513AIGTwzOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.7'
 
 Tienes [Just Stationery - 24 Fundas de plástico transparentes perforadas  Tamaño Único   Transparente ](https://www.amazon.es/dp/B076CDK15D/?tag=tolees-21) con un 33.33 % de descuento con precio de oferta de 2.7 EUR (original: 4.05 EUR) en el siguiente enlace!
 
-[![Just Stationery - 24 Fundas de plástico ](https://m.media-amazon.com/images/I/513AIGTwzOL._SL200_.jpg)](https://www.amazon.es/dp/B076CDK15D/?tag=tolees-21)
+[![Just Stationery - 24 Fundas de plástico ](https://m.media-amazon.com/images/I/513AIGTwzOL._SL400_.jpg)](https://www.amazon.es/dp/B076CDK15D/?tag=tolees-21)
 
 ℹ️:
 

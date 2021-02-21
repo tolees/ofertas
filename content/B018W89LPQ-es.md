@@ -2,7 +2,7 @@
 layout: post
 title: 'Superga 2790-COTROPEW  Zapatillas Mujer  al 56.00 % de rebaja'
 date: 2020-05-18 20:55:26
-image: 'https://m.media-amazon.com/images/I/51MH4tGUT8L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51MH4tGUT8L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '35.70666666666666'
 
 Tienes [Superga 2790-COTROPEW  Zapatillas Mujer  Azul  Marineblau   40 EU  6.5 UK ](https://www.amazon.es/dp/B018W89LPQ/?tag=tolees-21) con precio final de  34.76 EUR (original: 79.0 EUR) (56.00 %  de rebaja) aqui!
 
-[![Superga 2790-COTROPEW  Zapatillas Mujer ](https://m.media-amazon.com/images/I/51MH4tGUT8L._SL200_.jpg)](https://www.amazon.es/dp/B018W89LPQ/?tag=tolees-21)
+[![Superga 2790-COTROPEW  Zapatillas Mujer ](https://m.media-amazon.com/images/I/51MH4tGUT8L._SL400_.jpg)](https://www.amazon.es/dp/B018W89LPQ/?tag=tolees-21)
 
 🔎:
 

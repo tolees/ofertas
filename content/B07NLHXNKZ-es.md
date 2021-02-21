@@ -2,7 +2,7 @@
 layout: post
 title: 'Versace Jeans CoutureBorsaMujerShoppers  al 48.21 % de descuento'
 date: 2020-01-10 16:10:06
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41-JUkiilyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-JUkiilyL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '99.1'
 
 Ahora mismo tienes [Versace Jeans CoutureBorsaMujerShoppers y bolsos de hombroNegro  899+101  42x29x13 centimeters  W x H x L ](https://www.amazon.es/dp/B07NLHXNKZ/?tag=tolees-21) a 83.38 EUR (original: 161 EUR) (48.21 %  de descuento) en el siguiente enlace!
 
-[![Versace Jeans CoutureBorsaMujerShoppers ](https://images-eu.ssl-images-amazon.com/images/I/41-JUkiilyL._SL200_.jpg)](https://www.amazon.es/dp/B07NLHXNKZ/?tag=tolees-21)
+[![Versace Jeans CoutureBorsaMujerShoppers ](https://images-eu.ssl-images-amazon.com/images/I/41-JUkiilyL._SL400_.jpg)](https://www.amazon.es/dp/B07NLHXNKZ/?tag=tolees-21)
 
 🔎:
 

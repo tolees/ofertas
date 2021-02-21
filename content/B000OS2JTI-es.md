@@ -2,7 +2,7 @@
 layout: post
 title: 'Kärcher Presostato electrónico  6.997-35 al 51.89 % de descuento'
 date: 2020-09-13 12:45:42
-image: 'https://m.media-amazon.com/images/I/413jTgMv82L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/413jTgMv82L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '77.44'
 
 Ahora mismo tienes [Kärcher Presostato electrónico  6.997-357.0 ](https://www.amazon.es/dp/B000OS2JTI/?tag=tolees-21) a 77.44 EUR (original: 160.98 EUR) (51.89 %  de descuento) en el siguiente enlace!
 
-[![Kärcher Presostato electrónico  6.997-35](https://m.media-amazon.com/images/I/413jTgMv82L._SL200_.jpg)](https://www.amazon.es/dp/B000OS2JTI/?tag=tolees-21)
+[![Kärcher Presostato electrónico  6.997-35](https://m.media-amazon.com/images/I/413jTgMv82L._SL400_.jpg)](https://www.amazon.es/dp/B000OS2JTI/?tag=tolees-21)
 
 🔎:
 

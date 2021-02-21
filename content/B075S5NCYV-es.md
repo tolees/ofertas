@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 26.26 % en Bosch MSM6S50B ErgoMixx Style Batidora d'
 date: 2020-07-26 15:37:22
-image: 'https://m.media-amazon.com/images/I/411aRkPr3xL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/411aRkPr3xL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '40.879'
 
 Tienes [Bosch MSM6S50B ErgoMixx Style Batidora de mano con accesorios  750 W  color negro](https://www.amazon.es/dp/B075S5NCYV/?tag=tolees-21) con un 26.26 % de descuento con precio de oferta de 39.0 EUR (original: 52.89 EUR) en el siguiente enlace!
 
-[![Bosch MSM6S50B ErgoMixx Style Batidora d](https://m.media-amazon.com/images/I/411aRkPr3xL._SL200_.jpg)](https://www.amazon.es/dp/B075S5NCYV/?tag=tolees-21)
+[![Bosch MSM6S50B ErgoMixx Style Batidora d](https://m.media-amazon.com/images/I/411aRkPr3xL._SL400_.jpg)](https://www.amazon.es/dp/B075S5NCYV/?tag=tolees-21)
 
 ℹ️:
 

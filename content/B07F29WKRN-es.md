@@ -2,7 +2,7 @@
 layout: post
 title: 'NEWHEY Bolsa Deporte Bolsa Gimnasio de V al 33.44 % de rebaja'
 date: 2020-06-15 12:07:50
-image: 'https://m.media-amazon.com/images/I/61I+4bKkQJL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61I+4bKkQJL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '30.637777777777778'
 
 Tienes [NEWHEY Bolsa Deporte Bolsa Gimnasio de Viaje Impermeable Bolsos Deportivos Fin de Semana Travel Duffle Bag para Hombre y Mujer Negro  Gris ](https://www.amazon.es/dp/B07F29WKRN/?tag=tolees-21) con precio final de  29.86 EUR (original: 44.86 EUR) (33.44 %  de rebaja) aqui!
 
-[![NEWHEY Bolsa Deporte Bolsa Gimnasio de V](https://m.media-amazon.com/images/I/61I+4bKkQJL._SL200_.jpg)](https://www.amazon.es/dp/B07F29WKRN/?tag=tolees-21)
+[![NEWHEY Bolsa Deporte Bolsa Gimnasio de V](https://m.media-amazon.com/images/I/61I+4bKkQJL._SL400_.jpg)](https://www.amazon.es/dp/B07F29WKRN/?tag=tolees-21)
 
 🔎:
 

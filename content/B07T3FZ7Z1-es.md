@@ -2,7 +2,7 @@
 layout: post
 title: 'A1SONIC Juego de 2 Fundas de cojín Decor al 28.16 % de descuento'
 date: 2020-05-31 18:15:33
-image: 'https://m.media-amazon.com/images/I/51nIItAZQAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51nIItAZQAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.7'
 
 Está [A1SONIC Juego de 2 Fundas de cojín Decorativas de Seda para sofá  diseño étnico Indio](https://www.amazon.es/dp/B07T3FZ7Z1/?tag=tolees-21) con 28.16 de descuento por 3.7 EUR (original: 5.15 EUR) en el siguiente enlace!
 
-[![A1SONIC Juego de 2 Fundas de cojín Decor](https://m.media-amazon.com/images/I/51nIItAZQAL._SL200_.jpg)](https://www.amazon.es/dp/B07T3FZ7Z1/?tag=tolees-21)
+[![A1SONIC Juego de 2 Fundas de cojín Decor](https://m.media-amazon.com/images/I/51nIItAZQAL._SL400_.jpg)](https://www.amazon.es/dp/B07T3FZ7Z1/?tag=tolees-21)
 
 ℹ️:
 

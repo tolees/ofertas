@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas Club Sw Short 7 Pantalones Cortos al 50.01 % de descuento'
 date: 2020-03-22 17:33:39
-image: 'https://m.media-amazon.com/images/I/41GRlvKX9PL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41GRlvKX9PL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '26.68'
 
 Ahora mismo tienes [adidas Club Sw Short 7 Pantalones Cortos de Deporte  Hombre  White  S](https://www.amazon.es/dp/B07KMPCHBN/?tag=tolees-21) a 19.24 EUR (original: 38.49 EUR) (50.01 %  de descuento) en el siguiente enlace!
 
-[![adidas Club Sw Short 7 Pantalones Cortos](https://m.media-amazon.com/images/I/41GRlvKX9PL._SL200_.jpg)](https://www.amazon.es/dp/B07KMPCHBN/?tag=tolees-21)
+[![adidas Club Sw Short 7 Pantalones Cortos](https://m.media-amazon.com/images/I/41GRlvKX9PL._SL400_.jpg)](https://www.amazon.es/dp/B07KMPCHBN/?tag=tolees-21)
 
 🔎:
 

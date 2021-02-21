@@ -2,7 +2,7 @@
 layout: post
 title: 'Sustratos - Sustrato Vermiculita 5L - Ba al 28.76 % de rebaja'
 date: 2020-09-26 09:12:48
-image: 'https://m.media-amazon.com/images/I/51kIIRgZ3qL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51kIIRgZ3qL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.43'
 
 Tienes [Sustratos - Sustrato Vermiculita 5L - Batlle](https://www.amazon.es/dp/B01C7JN54Y/?tag=tolees-21) con precio final de  3.17 EUR (original: 4.45 EUR) (28.76 %  de rebaja) aqui!
 
-[![Sustratos - Sustrato Vermiculita 5L - Ba](https://m.media-amazon.com/images/I/51kIIRgZ3qL._SL200_.jpg)](https://www.amazon.es/dp/B01C7JN54Y/?tag=tolees-21)
+[![Sustratos - Sustrato Vermiculita 5L - Ba](https://m.media-amazon.com/images/I/51kIIRgZ3qL._SL400_.jpg)](https://www.amazon.es/dp/B01C7JN54Y/?tag=tolees-21)
 
 🔎:
 

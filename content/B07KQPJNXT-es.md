@@ -2,7 +2,7 @@
 layout: post
 title: 'Salomon XA Discovery GTX  Zapatillas de  al 64.48 % de descuento'
 date: 2020-02-05 15:09:05
-image: 'https://m.media-amazon.com/images/I/417Q3xrJwDL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/417Q3xrJwDL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '48.53'
 
 Ahora mismo tienes [Salomon XA Discovery GTX  Zapatillas de Trail Running para Hombre  Verde Trekking Green Lime Green Black  43 1/3 EU](https://www.amazon.es/dp/B07KQPJNXT/?tag=tolees-21) a 46.16 EUR (original: 129.95 EUR) (64.48 %  de descuento) en el siguiente enlace!
 
-[![Salomon XA Discovery GTX  Zapatillas de ](https://m.media-amazon.com/images/I/417Q3xrJwDL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07KQPJNXT/?tag=tolees-21)
+[![Salomon XA Discovery GTX  Zapatillas de ](https://m.media-amazon.com/images/I/417Q3xrJwDL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07KQPJNXT/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'KISME para Espejo Flip Funda Samsung Gal al 36.29 % de descuento'
 date: 2020-05-14 14:03:51
-image: 'https://m.media-amazon.com/images/I/41NULrXee5L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41NULrXee5L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.88'
 
 Ahora mismo tienes [KISME para Espejo Flip Funda Samsung Galaxy A51 Funda Espejo Mirror Cuero Protección con Función Kickstand para Samsung Galaxy A51-Oro Rosa](https://www.amazon.es/dp/B082CVVJGM/?tag=tolees-21) a 5.88 EUR (original: 9.23 EUR) (36.29 %  de descuento) en el siguiente enlace!
 
-[![KISME para Espejo Flip Funda Samsung Gal](https://m.media-amazon.com/images/I/41NULrXee5L._SL200_.jpg)](https://www.amazon.es/dp/B082CVVJGM/?tag=tolees-21)
+[![KISME para Espejo Flip Funda Samsung Gal](https://m.media-amazon.com/images/I/41NULrXee5L._SL400_.jpg)](https://www.amazon.es/dp/B082CVVJGM/?tag=tolees-21)
 
 🔎:
 

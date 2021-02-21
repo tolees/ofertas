@@ -2,7 +2,7 @@
 layout: post
 title: 'Diesel ShoesBoldmessage Bold Back IiHomb al 45.67 % de rebaja'
 date: 2020-09-06 10:59:45
-image: 'https://m.media-amazon.com/images/I/3116b3zWFIL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/3116b3zWFIL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '51.366'
 
 Tienes [Diesel ShoesBoldmessage Bold Back IiHombreMochilasAzul  Blue Nights  10x44x30 centimeters  W x H x L ](https://www.amazon.es/dp/B07RVCRD14/?tag=tolees-21) con precio final de  70.63 EUR (original: 130.0 EUR) (45.67 %  de rebaja) aqui!
 
-[![Diesel ShoesBoldmessage Bold Back IiHomb](https://m.media-amazon.com/images/I/3116b3zWFIL._SL200_.jpg)](https://www.amazon.es/dp/B07RVCRD14/?tag=tolees-21)
+[![Diesel ShoesBoldmessage Bold Back IiHomb](https://m.media-amazon.com/images/I/3116b3zWFIL._SL400_.jpg)](https://www.amazon.es/dp/B07RVCRD14/?tag=tolees-21)
 
 🔎:
 

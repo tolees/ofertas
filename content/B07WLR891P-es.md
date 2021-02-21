@@ -2,7 +2,7 @@
 layout: post
 title: 'Jack & Jones Jorfame Crew Neck Suéter  A al 69.08 % de descuento'
 date: 2020-06-10 03:56:01
-image: 'https://m.media-amazon.com/images/I/41+SBK5G70L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41+SBK5G70L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.82'
 
 Está [Jack & Jones Jorfame Crew Neck Suéter  Azul  Sea Moss Fit: Knit Fit   XXL para Hombre](https://www.amazon.es/dp/B07WLR891P/?tag=tolees-21) con 69.08 de descuento por 10.82 EUR (original: 34.99 EUR) en el siguiente enlace!
 
-[![Jack & Jones Jorfame Crew Neck Suéter  A](https://m.media-amazon.com/images/I/41+SBK5G70L._SL200_.jpg)](https://www.amazon.es/dp/B07WLR891P/?tag=tolees-21)
+[![Jack & Jones Jorfame Crew Neck Suéter  A](https://m.media-amazon.com/images/I/41+SBK5G70L._SL400_.jpg)](https://www.amazon.es/dp/B07WLR891P/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 40.32 % en Lacoste Carnaby EVO Light-WT 1193 SFA  Z'
 date: 2020-02-29 09:20:00
-image: 'https://m.media-amazon.com/images/I/31xleIlZUyL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31xleIlZUyL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '58.46666666666667'
 
 Tienes [Lacoste Carnaby EVO Light-WT 1193 SFA  Zapatillas para Mujer  Blanco  Wht/Slv 108   36 EU](https://www.amazon.es/dp/B07DHTB4L5/?tag=tolees-21) con un 40.32 % de descuento con precio de oferta de 56.7 EUR (original: 95.0 EUR) en el siguiente enlace!
 
-[![Lacoste Carnaby EVO Light-WT 1193 SFA  Z](https://m.media-amazon.com/images/I/31xleIlZUyL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07DHTB4L5/?tag=tolees-21)
+[![Lacoste Carnaby EVO Light-WT 1193 SFA  Z](https://m.media-amazon.com/images/I/31xleIlZUyL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07DHTB4L5/?tag=tolees-21)
 
 ℹ️:
 

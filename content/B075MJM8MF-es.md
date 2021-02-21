@@ -2,7 +2,7 @@
 layout: post
 title: 'Fyasa 706571-t04 disfraz de pollito  gra con un 35.50 % de descuento'
 date: 2020-02-17 16:29:41
-image: 'https://m.media-amazon.com/images/I/31A9rfpb-RL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31A9rfpb-RL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.64'
 
 En este momento está [Fyasa 706571-t04 disfraz de pollito  grande](https://www.amazon.es/dp/B075MJM8MF/?tag=tolees-21) a 18.64 EUR (original: 28.9 EUR) (35.50 %  de descuento) en el siguiente enlace!
 
-[![Fyasa 706571-t04 disfraz de pollito  gra](https://m.media-amazon.com/images/I/31A9rfpb-RL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B075MJM8MF/?tag=tolees-21)
+[![Fyasa 706571-t04 disfraz de pollito  gra](https://m.media-amazon.com/images/I/31A9rfpb-RL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B075MJM8MF/?tag=tolees-21)
 
 🔎:
 

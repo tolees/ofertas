@@ -2,7 +2,7 @@
 layout: post
 title: 'Ponacat Cámara Web Usb Cámara Web con Mi al 44.44 % de descuento'
 date: 2020-06-30 19:34:15
-image: 'https://m.media-amazon.com/images/I/51h8qqaMYNL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51h8qqaMYNL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.38'
 
 Está [Ponacat Cámara Web Usb Cámara Web con Micrófono Monitoreo Remoto de 12Mp de Alta Definición para Computadora Portátil Tabletas de Escritorio](https://www.amazon.es/dp/B089DB26QZ/?tag=tolees-21) con 44.44 de descuento por 14.38 EUR (original: 25.88 EUR) en el siguiente enlace!
 
-[![Ponacat Cámara Web Usb Cámara Web con Mi](https://m.media-amazon.com/images/I/51h8qqaMYNL._SL200_.jpg)](https://www.amazon.es/dp/B089DB26QZ/?tag=tolees-21)
+[![Ponacat Cámara Web Usb Cámara Web con Mi](https://m.media-amazon.com/images/I/51h8qqaMYNL._SL400_.jpg)](https://www.amazon.es/dp/B089DB26QZ/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Reloj - Lancardo - para - LCD17P042 al 66.67 % de rebaja'
 date: 2020-05-05 19:20:53
-image: 'https://m.media-amazon.com/images/I/41U8hwjTNfL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41U8hwjTNfL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.89'
 
 Tienes [Reloj - Lancardo - para - LCD17P042](https://www.amazon.es/dp/B071RCZK4C/?tag=tolees-21) con precio final de  9.89 EUR (original: 29.67 EUR) (66.67 %  de rebaja) aqui!
 
-[![Reloj - Lancardo - para - LCD17P042](https://m.media-amazon.com/images/I/41U8hwjTNfL._SL200_.jpg)](https://www.amazon.es/dp/B071RCZK4C/?tag=tolees-21)
+[![Reloj - Lancardo - para - LCD17P042](https://m.media-amazon.com/images/I/41U8hwjTNfL._SL400_.jpg)](https://www.amazon.es/dp/B071RCZK4C/?tag=tolees-21)
 
 🔎:
 

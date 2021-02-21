@@ -2,7 +2,7 @@
 layout: post
 title: 'Pokémon Crystal - Edición Limitada  Códi con un 28.13 % de descuento'
 date: 2020-01-13 19:05:40
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51BAG37RV6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51BAG37RV6L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.263333333333333'
 
 En este momento está [Pokémon Crystal - Edición Limitada  Código Digital ](https://www.amazon.es/dp/B078HXSXFH/?tag=tolees-21) a 7.18 EUR (original: 9.99 EUR) (28.13 %  de descuento) en el siguiente enlace!
 
-[![Pokémon Crystal - Edición Limitada  Códi](https://images-eu.ssl-images-amazon.com/images/I/51BAG37RV6L._SL200_.jpg)](https://www.amazon.es/dp/B078HXSXFH/?tag=tolees-21)
+[![Pokémon Crystal - Edición Limitada  Códi](https://images-eu.ssl-images-amazon.com/images/I/51BAG37RV6L._SL400_.jpg)](https://www.amazon.es/dp/B078HXSXFH/?tag=tolees-21)
 
 🔎:
 

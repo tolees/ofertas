@@ -2,7 +2,7 @@
 layout: post
 title: 'Catan - Erweiterung Seefahrer: Für 3 - 4 al 71.75 % de descuento'
 date: 2020-08-14 19:57:37
-image: 'https://m.media-amazon.com/images/I/514nwgKxJ1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/514nwgKxJ1L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.279999999999998'
 
 Ahora mismo tienes [Catan - Erweiterung Seefahrer: Für 3 - 4 Spieler ab 10 Jahren](https://www.amazon.es/dp/B00S5R2JJU/?tag=tolees-21) a 21.27 EUR (original: 75.3 EUR) (71.75 %  de descuento) en el siguiente enlace!
 
-[![Catan - Erweiterung Seefahrer: Für 3 - 4](https://m.media-amazon.com/images/I/514nwgKxJ1L._SL200_.jpg)](https://www.amazon.es/dp/B00S5R2JJU/?tag=tolees-21)
+[![Catan - Erweiterung Seefahrer: Für 3 - 4](https://m.media-amazon.com/images/I/514nwgKxJ1L._SL400_.jpg)](https://www.amazon.es/dp/B00S5R2JJU/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Brabantia NewIcon Cubo de Basura con Ped al 34.32 % de descuento'
 date: 2020-08-24 18:18:12
-image: 'https://m.media-amazon.com/images/I/31r5p0rSXjL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31r5p0rSXjL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '28.57'
 
 Está [Brabantia NewIcon Cubo de Basura con Pedal  Acero Inoxidable  Blanco  12 l](https://www.amazon.es/dp/B01LWPI8G1/?tag=tolees-21) con 34.32 de descuento por 28.57 EUR (original: 43.5 EUR) en el siguiente enlace!
 
-[![Brabantia NewIcon Cubo de Basura con Ped](https://m.media-amazon.com/images/I/31r5p0rSXjL._SL200_.jpg)](https://www.amazon.es/dp/B01LWPI8G1/?tag=tolees-21)
+[![Brabantia NewIcon Cubo de Basura con Ped](https://m.media-amazon.com/images/I/31r5p0rSXjL._SL400_.jpg)](https://www.amazon.es/dp/B01LWPI8G1/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Zippy ZY Retro  Zapatillas de Estar por  con un 65.52 % de descuento'
 date: 2020-01-14 11:48:06
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41DvXn05TXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41DvXn05TXL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.02'
 
 En este momento está [Zippy ZY Retro  Zapatillas de Estar por casa para Bebés  Azul  Dress Blue 19-4024 TC 185   22 EU](https://www.amazon.es/dp/B07NGRGS98/?tag=tolees-21) a 6.02 EUR (original: 17.46 EUR) (65.52 %  de descuento) en el siguiente enlace!
 
-[![Zippy ZY Retro  Zapatillas de Estar por ](https://images-eu.ssl-images-amazon.com/images/I/41DvXn05TXL._SL200_.jpg)](https://www.amazon.es/dp/B07NGRGS98/?tag=tolees-21)
+[![Zippy ZY Retro  Zapatillas de Estar por ](https://images-eu.ssl-images-amazon.com/images/I/41DvXn05TXL._SL400_.jpg)](https://www.amazon.es/dp/B07NGRGS98/?tag=tolees-21)
 
 🔎:
 

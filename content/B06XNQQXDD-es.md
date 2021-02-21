@@ -2,7 +2,7 @@
 layout: post
 title: 'Axiom Verge: Multiverse Edition al 25.44 % de descuento'
 date: 2020-06-20 13:50:44
-image: 'https://m.media-amazon.com/images/I/41xdTf27--L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41xdTf27--L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '22.65555555555556'
 
 Está [Axiom Verge: Multiverse Edition](https://www.amazon.es/dp/B06XNQQXDD/?tag=tolees-21) con 25.44 de descuento por 22.36 EUR (original: 29.99 EUR) en el siguiente enlace!
 
-[![Axiom Verge: Multiverse Edition](https://m.media-amazon.com/images/I/41xdTf27--L._SL200_.jpg)](https://www.amazon.es/dp/B06XNQQXDD/?tag=tolees-21)
+[![Axiom Verge: Multiverse Edition](https://m.media-amazon.com/images/I/41xdTf27--L._SL400_.jpg)](https://www.amazon.es/dp/B06XNQQXDD/?tag=tolees-21)
 
 ℹ️:
 

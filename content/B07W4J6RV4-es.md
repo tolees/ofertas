@@ -2,7 +2,7 @@
 layout: post
 title: 'Amazon Essentials Long-Sleeve Lightweigh al 32.51 % de rebaja'
 date: 2020-06-28 14:24:04
-image: 'https://m.media-amazon.com/images/I/41Lv3jhbLvL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Lv3jhbLvL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.33'
 
 Tienes [Amazon Essentials Long-Sleeve Lightweight French Terry Fleece Quarter-Zip Top Outerwear-Jackets  Coral  US L  EU L - XL ](https://www.amazon.es/dp/B07W4J6RV4/?tag=tolees-21) con precio final de  13.33 EUR (original: 19.75 EUR) (32.51 %  de rebaja) aqui!
 
-[![Amazon Essentials Long-Sleeve Lightweigh](https://m.media-amazon.com/images/I/41Lv3jhbLvL._SL200_.jpg)](https://www.amazon.es/dp/B07W4J6RV4/?tag=tolees-21)
+[![Amazon Essentials Long-Sleeve Lightweigh](https://m.media-amazon.com/images/I/41Lv3jhbLvL._SL400_.jpg)](https://www.amazon.es/dp/B07W4J6RV4/?tag=tolees-21)
 
 🔎:
 

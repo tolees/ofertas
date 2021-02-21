@@ -2,7 +2,7 @@
 layout: post
 title: 'Lee Austin Jeans  Negro  Moto Black HL   al 56.60 % de descuento'
 date: 2020-05-25 09:41:05
-image: 'https://m.media-amazon.com/images/I/318tqXSP5FL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/318tqXSP5FL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '43.43333333333334'
 
 Ahora mismo tienes [Lee Austin Jeans  Negro  Moto Black HL   33W / 30L para Hombre](https://www.amazon.es/dp/B07MGXCGKC/?tag=tolees-21) a 43.38 EUR (original: 99.95 EUR) (56.60 %  de descuento) en el siguiente enlace!
 
-[![Lee Austin Jeans  Negro  Moto Black HL  ](https://m.media-amazon.com/images/I/318tqXSP5FL._SL200_.jpg)](https://www.amazon.es/dp/B07MGXCGKC/?tag=tolees-21)
+[![Lee Austin Jeans  Negro  Moto Black HL  ](https://m.media-amazon.com/images/I/318tqXSP5FL._SL400_.jpg)](https://www.amazon.es/dp/B07MGXCGKC/?tag=tolees-21)
 
 🔎:
 

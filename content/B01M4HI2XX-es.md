@@ -2,7 +2,7 @@
 layout: post
 title: 'Lord Mariquita - S al 51.57 % de descuento'
 date: 2020-02-17 16:29:38
-image: 'https://m.media-amazon.com/images/I/41pOJ-O0zIL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41pOJ-O0zIL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.06'
 
 Ahora mismo tienes [Lord Mariquita - S](https://www.amazon.es/dp/B01M4HI2XX/?tag=tolees-21) a 12.06 EUR (original: 24.9 EUR) (51.57 %  de descuento) en el siguiente enlace!
 
-[![Lord Mariquita - S](https://m.media-amazon.com/images/I/41pOJ-O0zIL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01M4HI2XX/?tag=tolees-21)
+[![Lord Mariquita - S](https://m.media-amazon.com/images/I/41pOJ-O0zIL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01M4HI2XX/?tag=tolees-21)
 
 🔎:
 

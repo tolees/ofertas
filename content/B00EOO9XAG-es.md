@@ -2,7 +2,7 @@
 layout: post
 title: 'Calvin Klein Carousel-Thong Bragas  Blan al 39.87 % de rebaja'
 date: 2020-05-24 19:20:09
-image: 'https://m.media-amazon.com/images/I/41KSt1wSZ0L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41KSt1wSZ0L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.309999999999999'
 
 Tienes [Calvin Klein Carousel-Thong Bragas  Blanco  WHITE 100   Medium para Mujer](https://www.amazon.es/dp/B00EOO9XAG/?tag=tolees-21) con precio final de  8.99 EUR (original: 14.95 EUR) (39.87 %  de rebaja) aqui!
 
-[![Calvin Klein Carousel-Thong Bragas  Blan](https://m.media-amazon.com/images/I/41KSt1wSZ0L._SL200_.jpg)](https://www.amazon.es/dp/B00EOO9XAG/?tag=tolees-21)
+[![Calvin Klein Carousel-Thong Bragas  Blan](https://m.media-amazon.com/images/I/41KSt1wSZ0L._SL400_.jpg)](https://www.amazon.es/dp/B00EOO9XAG/?tag=tolees-21)
 
 🔎:
 

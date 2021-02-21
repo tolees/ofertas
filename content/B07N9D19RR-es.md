@@ -2,7 +2,7 @@
 layout: post
 title: 'BOSS Schino-Regular D Pantalones  Azul   al 30.02 % de rebaja'
 date: 2020-01-28 15:29:57
-image: 'https://m.media-amazon.com/images/I/31ufWAXF61L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31ufWAXF61L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '69.95'
 
 Tienes [BOSS Schino-Regular D Pantalones  Azul  Navy 413   32W/32L para Hombre](https://www.amazon.es/dp/B07N9D19RR/?tag=tolees-21) con precio final de  69.95 EUR (original: 99.95 EUR) (30.02 %  de rebaja) aqui!
 
-[![BOSS Schino-Regular D Pantalones  Azul  ](https://m.media-amazon.com/images/I/31ufWAXF61L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07N9D19RR/?tag=tolees-21)
+[![BOSS Schino-Regular D Pantalones  Azul  ](https://m.media-amazon.com/images/I/31ufWAXF61L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07N9D19RR/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'NAME IT Nkmhonk UNB Swe Long Shorts Noos al 34.96 % de descuento'
 date: 2020-04-26 17:05:19
-image: 'https://m.media-amazon.com/images/I/41XOHCySMDL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41XOHCySMDL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.05'
 
 Ahora mismo tienes [NAME IT Nkmhonk UNB Swe Long Shorts Noos Pantalones Cortos  Negro  Black Black   122 para Niños](https://www.amazon.es/dp/B078HDQ5L7/?tag=tolees-21) a 11.05 EUR (original: 16.99 EUR) (34.96 %  de descuento) en el siguiente enlace!
 
-[![NAME IT Nkmhonk UNB Swe Long Shorts Noos](https://m.media-amazon.com/images/I/41XOHCySMDL._SL200_.jpg)](https://www.amazon.es/dp/B078HDQ5L7/?tag=tolees-21)
+[![NAME IT Nkmhonk UNB Swe Long Shorts Noos](https://m.media-amazon.com/images/I/41XOHCySMDL._SL400_.jpg)](https://www.amazon.es/dp/B078HDQ5L7/?tag=tolees-21)
 
 🔎:
 

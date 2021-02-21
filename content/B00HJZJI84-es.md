@@ -2,7 +2,7 @@
 layout: post
 title: 'StarTech.com USB3S2SAT3CB - Adaptador US al 47.70 % de rebaja'
 date: 2020-09-09 19:00:54
-image: 'https://m.media-amazon.com/images/I/419ZyUW0XnL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/419ZyUW0XnL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.553999999999998'
 
 Tienes [StarTech.com USB3S2SAT3CB - Adaptador USB 3.0-2.5" SATA III  Color Negro](https://www.amazon.es/dp/B00HJZJI84/?tag=tolees-21) con precio final de  10.12 EUR (original: 19.35 EUR) (47.70 %  de rebaja) aqui!
 
-[![StarTech.com USB3S2SAT3CB - Adaptador US](https://m.media-amazon.com/images/I/419ZyUW0XnL._SL200_.jpg)](https://www.amazon.es/dp/B00HJZJI84/?tag=tolees-21)
+[![StarTech.com USB3S2SAT3CB - Adaptador US](https://m.media-amazon.com/images/I/419ZyUW0XnL._SL400_.jpg)](https://www.amazon.es/dp/B00HJZJI84/?tag=tolees-21)
 
 🔎:
 

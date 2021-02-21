@@ -2,7 +2,7 @@
 layout: post
 title: 'Yves Saint Laurent YSL Libre EPV  50 ml con un 29.85 % de descuento'
 date: 2020-08-17 07:44:09
-image: 'https://m.media-amazon.com/images/I/41a0dJUsHqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41a0dJUsHqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '39.95'
 
 En este momento está [Yves Saint Laurent YSL Libre EPV  50 ml](https://www.amazon.es/dp/B07X1YHB23/?tag=tolees-21) a 39.95 EUR (original: 56.95 EUR) (29.85 %  de descuento) en el siguiente enlace!
 
-[![Yves Saint Laurent YSL Libre EPV  50 ml](https://m.media-amazon.com/images/I/41a0dJUsHqL._SL200_.jpg)](https://www.amazon.es/dp/B07X1YHB23/?tag=tolees-21)
+[![Yves Saint Laurent YSL Libre EPV  50 ml](https://m.media-amazon.com/images/I/41a0dJUsHqL._SL400_.jpg)](https://www.amazon.es/dp/B07X1YHB23/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Manta personalizada con tu foto. Manta p al 39.00 % de descuento'
 date: 2020-04-24 12:05:16
-image: 'https://m.media-amazon.com/images/I/61nKt3u7rJL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61nKt3u7rJL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '54.29'
 
 Ahora mismo tienes [Manta personalizada con tu foto. Manta polar"King Size" - 150 x 240 cm.](https://www.amazon.es/dp/B00QPOSFZ2/?tag=tolees-21) a 54.29 EUR (original: 89.0 EUR) (39.00 %  de descuento) en el siguiente enlace!
 
-[![Manta personalizada con tu foto. Manta p](https://m.media-amazon.com/images/I/61nKt3u7rJL._SL200_.jpg)](https://www.amazon.es/dp/B00QPOSFZ2/?tag=tolees-21)
+[![Manta personalizada con tu foto. Manta p](https://m.media-amazon.com/images/I/61nKt3u7rJL._SL400_.jpg)](https://www.amazon.es/dp/B00QPOSFZ2/?tag=tolees-21)
 
 🔎:
 

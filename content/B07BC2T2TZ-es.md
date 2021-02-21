@@ -2,7 +2,7 @@
 layout: post
 title: 'Bourjois Fard Joues Duo Blush Colorete T al 43.53 % de descuento'
 date: 2020-10-12 16:56:34
-image: 'https://m.media-amazon.com/images/I/41rrWVVsrzL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41rrWVVsrzL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.8'
 
 Ahora mismo tienes [Bourjois Fard Joues Duo Blush Colorete Tono 2 Roméo et Peachette - 2.4 gr](https://www.amazon.es/dp/B07BC2T2TZ/?tag=tolees-21) a 4.8 EUR (original: 8.5 EUR) (43.53 %  de descuento) en el siguiente enlace!
 
-[![Bourjois Fard Joues Duo Blush Colorete T](https://m.media-amazon.com/images/I/41rrWVVsrzL._SL200_.jpg)](https://www.amazon.es/dp/B07BC2T2TZ/?tag=tolees-21)
+[![Bourjois Fard Joues Duo Blush Colorete T](https://m.media-amazon.com/images/I/41rrWVVsrzL._SL400_.jpg)](https://www.amazon.es/dp/B07BC2T2TZ/?tag=tolees-21)
 
 🔎:
 

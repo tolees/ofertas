@@ -2,7 +2,7 @@
 layout: post
 title: 'Dreamlove Secretplay Triple X Unisex Ple al 52.14 % de rebaja'
 date: 2020-02-23 09:50:10
-image: 'https://m.media-amazon.com/images/I/41ekltI-1AL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ekltI-1AL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.59'
 
 Tienes [Dreamlove Secretplay Triple X Unisex Pleasure Intensificator - 1 Unidad  15 ml](https://www.amazon.es/dp/B07DRDTBM4/?tag=tolees-21) con precio final de  8.59 EUR (original: 17.95 EUR) (52.14 %  de rebaja) aqui!
 
-[![Dreamlove Secretplay Triple X Unisex Ple](https://m.media-amazon.com/images/I/41ekltI-1AL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07DRDTBM4/?tag=tolees-21)
+[![Dreamlove Secretplay Triple X Unisex Ple](https://m.media-amazon.com/images/I/41ekltI-1AL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07DRDTBM4/?tag=tolees-21)
 
 🔎:
 

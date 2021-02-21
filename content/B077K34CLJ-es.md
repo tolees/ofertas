@@ -2,7 +2,7 @@
 layout: post
 title: 'Banda Elástica Kit Bandas de Resistencia al 43.88 % de rebaja'
 date: 2020-03-17 19:03:23
-image: 'https://m.media-amazon.com/images/I/51UpkyDE3-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51UpkyDE3-L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.39'
 
 Tienes [Banda Elástica Kit Bandas de Resistencia  10 / 15uds Cuerdas de Ejercicio Cintas de Látex para Entrenamiento   Color : 10pcs  ](https://www.amazon.es/dp/B077K34CLJ/?tag=tolees-21) con precio final de  13.39 EUR (original: 23.86 EUR) (43.88 %  de rebaja) aqui!
 
-[![Banda Elástica Kit Bandas de Resistencia](https://m.media-amazon.com/images/I/51UpkyDE3-L._SL200_.jpg)](https://www.amazon.es/dp/B077K34CLJ/?tag=tolees-21)
+[![Banda Elástica Kit Bandas de Resistencia](https://m.media-amazon.com/images/I/51UpkyDE3-L._SL400_.jpg)](https://www.amazon.es/dp/B077K34CLJ/?tag=tolees-21)
 
 🔎:
 

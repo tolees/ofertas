@@ -2,7 +2,7 @@
 layout: post
 title: 'Hamaca portátil para acampar - Hamaca de al 42.87 % de rebaja'
 date: 2020-07-10 21:45:40
-image: 'https://m.media-amazon.com/images/I/51rlx0d56lL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51rlx0d56lL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.99'
 
 Tienes [Hamaca portátil para acampar - Hamaca de árbol para exteriores e interior / doble con insecto insecticida  2 correas colgantes  hamacas ligeras de paracaídas de nylon para mochileros  viajes  patio](https://www.amazon.es/dp/B07S7NYLG9/?tag=tolees-21) con precio final de  19.99 EUR (original: 34.99 EUR) (42.87 %  de rebaja) aqui!
 
-[![Hamaca portátil para acampar - Hamaca de](https://m.media-amazon.com/images/I/51rlx0d56lL._SL200_.jpg)](https://www.amazon.es/dp/B07S7NYLG9/?tag=tolees-21)
+[![Hamaca portátil para acampar - Hamaca de](https://m.media-amazon.com/images/I/51rlx0d56lL._SL400_.jpg)](https://www.amazon.es/dp/B07S7NYLG9/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'SanDisk Extreme Go - Memoria flash USB 3 al 37.74 % de descuento'
 date: 2020-07-22 13:58:26
-image: 'https://m.media-amazon.com/images/I/31hbPwe+bEL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31hbPwe+bEL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.12888888888889'
 
 Ahora mismo tienes [SanDisk Extreme Go - Memoria flash USB 3.1 de 64 GB](https://www.amazon.es/dp/B01NARBPI7/?tag=tolees-21) a 18.05 EUR (original: 28.99 EUR) (37.74 %  de descuento) en el siguiente enlace!
 
-[![SanDisk Extreme Go - Memoria flash USB 3](https://m.media-amazon.com/images/I/31hbPwe+bEL._SL200_.jpg)](https://www.amazon.es/dp/B01NARBPI7/?tag=tolees-21)
+[![SanDisk Extreme Go - Memoria flash USB 3](https://m.media-amazon.com/images/I/31hbPwe+bEL._SL400_.jpg)](https://www.amazon.es/dp/B01NARBPI7/?tag=tolees-21)
 
 🔎:
 

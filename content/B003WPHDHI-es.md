@@ -2,7 +2,7 @@
 layout: post
 title: 'Orlane Fermete Sérum Thermo Actif 30 ml con un 48.96 % de descuento'
 date: 2020-03-15 11:40:59
-image: 'https://m.media-amazon.com/images/I/31gWEiC-vDL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31gWEiC-vDL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '87.14500000000001'
 
 En este momento está [Orlane Fermete Sérum Thermo Actif 30 ml](https://www.amazon.es/dp/B003WPHDHI/?tag=tolees-21) a 87.79 EUR (original: 172.0 EUR) (48.96 %  de descuento) en el siguiente enlace!
 
-[![Orlane Fermete Sérum Thermo Actif 30 ml](https://m.media-amazon.com/images/I/31gWEiC-vDL._SL200_.jpg)](https://www.amazon.es/dp/B003WPHDHI/?tag=tolees-21)
+[![Orlane Fermete Sérum Thermo Actif 30 ml](https://m.media-amazon.com/images/I/31gWEiC-vDL._SL400_.jpg)](https://www.amazon.es/dp/B003WPHDHI/?tag=tolees-21)
 
 🔎:
 

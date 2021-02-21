@@ -2,7 +2,7 @@
 layout: post
 title: 'Jack & Jones Jorrafael Sweat Hood Capuch al 67.28 % de descuento'
 date: 2020-05-12 11:34:34
-image: 'https://m.media-amazon.com/images/I/41F-AIazOHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41F-AIazOHL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.895'
 
 Ahora mismo tienes [Jack & Jones Jorrafael Sweat Hood Capucha  Rojo  Brick Redslim/Org   XX-Large para Hombre](https://www.amazon.es/dp/B07VC1K7QC/?tag=tolees-21) a 11.45 EUR (original: 34.99 EUR) (67.28 %  de descuento) en el siguiente enlace!
 
-[![Jack & Jones Jorrafael Sweat Hood Capuch](https://m.media-amazon.com/images/I/41F-AIazOHL._SL200_.jpg)](https://www.amazon.es/dp/B07VC1K7QC/?tag=tolees-21)
+[![Jack & Jones Jorrafael Sweat Hood Capuch](https://m.media-amazon.com/images/I/41F-AIazOHL._SL400_.jpg)](https://www.amazon.es/dp/B07VC1K7QC/?tag=tolees-21)
 
 🔎:
 

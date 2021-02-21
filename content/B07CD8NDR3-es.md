@@ -2,7 +2,7 @@
 layout: post
 title: 'Bullet - Reloj monitor de actividad/podó con un 33.38 % de descuento'
 date: 2020-08-05 15:02:53
-image: 'https://m.media-amazon.com/images/I/41IGE8xW3+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41IGE8xW3+L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.45'
 
 En este momento está [Bullet - Reloj monitor de actividad/podómetro modelo Get-Fit  25.5 x 2.7 x 1.5 cm   Naranja ](https://www.amazon.es/dp/B07CD8NDR3/?tag=tolees-21) a 4.45 EUR (original: 6.68 EUR) (33.38 %  de descuento) en el siguiente enlace!
 
-[![Bullet - Reloj monitor de actividad/podó](https://m.media-amazon.com/images/I/41IGE8xW3+L._SL200_.jpg)](https://www.amazon.es/dp/B07CD8NDR3/?tag=tolees-21)
+[![Bullet - Reloj monitor de actividad/podó](https://m.media-amazon.com/images/I/41IGE8xW3+L._SL400_.jpg)](https://www.amazon.es/dp/B07CD8NDR3/?tag=tolees-21)
 
 🔎:
 

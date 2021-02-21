@@ -2,7 +2,7 @@
 layout: post
 title: 'Biotherm - Bruma Solaire Dry Touch SPF 3 con un 38.58 % de descuento'
 date: 2020-06-27 18:08:56
-image: 'https://m.media-amazon.com/images/I/31t0Wa2nySL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31t0Wa2nySL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.6'
 
 En este momento está [Biotherm - Bruma Solaire Dry Touch SPF 30](https://www.amazon.es/dp/B00J8N83FY/?tag=tolees-21) a 15.6 EUR (original: 25.4 EUR) (38.58 %  de descuento) en el siguiente enlace!
 
-[![Biotherm - Bruma Solaire Dry Touch SPF 3](https://m.media-amazon.com/images/I/31t0Wa2nySL._SL200_.jpg)](https://www.amazon.es/dp/B00J8N83FY/?tag=tolees-21)
+[![Biotherm - Bruma Solaire Dry Touch SPF 3](https://m.media-amazon.com/images/I/31t0Wa2nySL._SL400_.jpg)](https://www.amazon.es/dp/B00J8N83FY/?tag=tolees-21)
 
 🔎:
 

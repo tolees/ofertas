@@ -2,7 +2,7 @@
 layout: post
 title: 'Cepillo para llantas El cepillo de rueda al 41.20 % de descuento'
 date: 2020-05-30 13:03:19
-image: 'https://m.media-amazon.com/images/I/41Jgev3kxoL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Jgev3kxoL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.99'
 
 Está [Cepillo para llantas El cepillo de ruedas de limpia las llantas y los radios de manera óptima  además de quitar el polvo del freno](https://www.amazon.es/dp/B07PYX946C/?tag=tolees-21) con 41.20 de descuento por 9.99 EUR (original: 16.99 EUR) en el siguiente enlace!
 
-[![Cepillo para llantas El cepillo de rueda](https://m.media-amazon.com/images/I/41Jgev3kxoL._SL200_.jpg)](https://www.amazon.es/dp/B07PYX946C/?tag=tolees-21)
+[![Cepillo para llantas El cepillo de rueda](https://m.media-amazon.com/images/I/41Jgev3kxoL._SL400_.jpg)](https://www.amazon.es/dp/B07PYX946C/?tag=tolees-21)
 
 ℹ️:
 

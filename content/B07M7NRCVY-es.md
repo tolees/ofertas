@@ -2,7 +2,7 @@
 layout: post
 title: 'Adidas Fortagym CF Jr  Zapatillas de Com al 49.99 % de descuento'
 date: 2020-06-16 06:39:19
-image: 'https://m.media-amazon.com/images/I/41o7CsvHSfL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41o7CsvHSfL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.98'
 
 Ahora mismo tienes [Adidas Fortagym CF Jr  Zapatillas de Competición Unisex Niños  Multicolor  Magrea/Ftwbla/Semcor 000   33 EU](https://www.amazon.es/dp/B07M7NRCVY/?tag=tolees-21) a 19.98 EUR (original: 39.95 EUR) (49.99 %  de descuento) en el siguiente enlace!
 
-[![Adidas Fortagym CF Jr  Zapatillas de Com](https://m.media-amazon.com/images/I/41o7CsvHSfL._SL200_.jpg)](https://www.amazon.es/dp/B07M7NRCVY/?tag=tolees-21)
+[![Adidas Fortagym CF Jr  Zapatillas de Com](https://m.media-amazon.com/images/I/41o7CsvHSfL._SL400_.jpg)](https://www.amazon.es/dp/B07M7NRCVY/?tag=tolees-21)
 
 🔎:
 

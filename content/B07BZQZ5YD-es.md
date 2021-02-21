@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 50.00 % en Kipling Creativity L  Monederos para Muj'
 date: 2020-09-18 10:04:03
-image: 'https://m.media-amazon.com/images/I/41bhFPBXkAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41bhFPBXkAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.95'
 
 Tienes [Kipling Creativity L  Monederos para Mujer  Azul  True Dazz Navy   15x24x45 cm  W x H x L ](https://www.amazon.es/dp/B07BZQZ5YD/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 14.95 EUR (original: 29.9 EUR) en el siguiente enlace!
 
-[![Kipling Creativity L  Monederos para Muj](https://m.media-amazon.com/images/I/41bhFPBXkAL._SL200_.jpg)](https://www.amazon.es/dp/B07BZQZ5YD/?tag=tolees-21)
+[![Kipling Creativity L  Monederos para Muj](https://m.media-amazon.com/images/I/41bhFPBXkAL._SL400_.jpg)](https://www.amazon.es/dp/B07BZQZ5YD/?tag=tolees-21)
 
 ℹ️:
 

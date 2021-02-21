@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 62.81 % en Bourjois  Sombra de ojos  Tono: 004 Insa'
 date: 2020-03-12 23:08:05
-image: 'https://m.media-amazon.com/images/I/511Xg3vjQnL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/511Xg3vjQnL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.95'
 
 Tienes [Bourjois  Sombra de ojos  Tono: 004 Insaisissa  - 42 gr.](https://www.amazon.es/dp/B07P5FCDHZ/?tag=tolees-21) con un 62.81 % de descuento con precio de oferta de 5.95 EUR (original: 16.0 EUR) en el siguiente enlace!
 
-[![Bourjois  Sombra de ojos  Tono: 004 Insa](https://m.media-amazon.com/images/I/511Xg3vjQnL._SL200_.jpg)](https://www.amazon.es/dp/B07P5FCDHZ/?tag=tolees-21)
+[![Bourjois  Sombra de ojos  Tono: 004 Insa](https://m.media-amazon.com/images/I/511Xg3vjQnL._SL400_.jpg)](https://www.amazon.es/dp/B07P5FCDHZ/?tag=tolees-21)
 
 ℹ️:
 

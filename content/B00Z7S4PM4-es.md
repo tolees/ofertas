@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour Gs Pace  Zapatillas de Runn al 56.68 % de rebaja'
 date: 2020-05-21 09:32:58
-image: 'https://m.media-amazon.com/images/I/31vRcfFRZbL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31vRcfFRZbL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.07'
 
 Tienes [Under Armour Gs Pace  Zapatillas de Running Unisex Adulto  Negro Black  365 EU  4 UK](https://www.amazon.es/dp/B00Z7S4PM4/?tag=tolees-21) con precio final de  15.07 EUR (original: 34.79 EUR) (56.68 %  de rebaja) aqui!
 
-[![Under Armour Gs Pace  Zapatillas de Runn](https://m.media-amazon.com/images/I/31vRcfFRZbL._SL200_.jpg)](https://www.amazon.es/dp/B00Z7S4PM4/?tag=tolees-21)
+[![Under Armour Gs Pace  Zapatillas de Runn](https://m.media-amazon.com/images/I/31vRcfFRZbL._SL400_.jpg)](https://www.amazon.es/dp/B00Z7S4PM4/?tag=tolees-21)
 
 🔎:
 

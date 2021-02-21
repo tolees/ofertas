@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 34.30 % en Plantronics 81960-15 - Auriculares con m'
 date: 2020-07-17 10:02:50
-image: 'https://m.media-amazon.com/images/I/41WxG15xiBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41WxG15xiBL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '22.99'
 
 Tienes [Plantronics 81960-15 - Auriculares con micrófono  Color Negro](https://www.amazon.es/dp/B005VAORIA/?tag=tolees-21) con un 34.30 % de descuento con precio de oferta de 22.99 EUR (original: 34.99 EUR) en el siguiente enlace!
 
-[![Plantronics 81960-15 - Auriculares con m](https://m.media-amazon.com/images/I/41WxG15xiBL._SL200_.jpg)](https://www.amazon.es/dp/B005VAORIA/?tag=tolees-21)
+[![Plantronics 81960-15 - Auriculares con m](https://m.media-amazon.com/images/I/41WxG15xiBL._SL400_.jpg)](https://www.amazon.es/dp/B005VAORIA/?tag=tolees-21)
 
 ℹ️:
 

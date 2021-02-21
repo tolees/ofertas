@@ -2,7 +2,7 @@
 layout: post
 title: 'P Prettyia Cable Adaptador  2 RCA a 2 Ma al 47.78 % de descuento'
 date: 2020-07-11 12:52:17
-image: 'https://m.media-amazon.com/images/I/51lt0ye0tPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51lt0ye0tPL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.59'
 
 Está [P Prettyia Cable Adaptador  2 RCA a 2 Machos RCA  1.5M   Convertidor para Sistema de Equipos](https://www.amazon.es/dp/B07MY6YBKK/?tag=tolees-21) con 47.78 de descuento por 8.59 EUR (original: 16.45 EUR) en el siguiente enlace!
 
-[![P Prettyia Cable Adaptador  2 RCA a 2 Ma](https://m.media-amazon.com/images/I/51lt0ye0tPL._SL200_.jpg)](https://www.amazon.es/dp/B07MY6YBKK/?tag=tolees-21)
+[![P Prettyia Cable Adaptador  2 RCA a 2 Ma](https://m.media-amazon.com/images/I/51lt0ye0tPL._SL400_.jpg)](https://www.amazon.es/dp/B07MY6YBKK/?tag=tolees-21)
 
 ℹ️:
 

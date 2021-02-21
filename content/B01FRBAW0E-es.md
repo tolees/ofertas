@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 25.40 % en Bella Aurora Solar Anti-Manchas Para Pie'
 date: 2020-03-08 12:59:51
-image: 'https://m.media-amazon.com/images/I/41w0-cOb5lL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41w0-cOb5lL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.1'
 
 Tienes [Bella Aurora Solar Anti-Manchas Para Piel Sensible SPF 50+](https://www.amazon.es/dp/B01FRBAW0E/?tag=tolees-21) con un 25.40 % de descuento con precio de oferta de 14.1 EUR (original: 18.9 EUR) en el siguiente enlace!
 
-[![Bella Aurora Solar Anti-Manchas Para Pie](https://m.media-amazon.com/images/I/41w0-cOb5lL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01FRBAW0E/?tag=tolees-21)
+[![Bella Aurora Solar Anti-Manchas Para Pie](https://m.media-amazon.com/images/I/41w0-cOb5lL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01FRBAW0E/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Puma Basket Heart Patent Wn s  Zapatilla al 53.36 % de descuento'
 date: 2020-08-12 17:40:17
-image: 'https://m.media-amazon.com/images/I/416aOlL9FxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/416aOlL9FxL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '41.95'
 
 Ahora mismo tienes [Puma Basket Heart Patent Wn s  Zapatillas para Mujer  Beige  Peach Beige   37 EU](https://www.amazon.es/dp/B077MDY52F/?tag=tolees-21) a 41.95 EUR (original: 89.95 EUR) (53.36 %  de descuento) en el siguiente enlace!
 
-[![Puma Basket Heart Patent Wn s  Zapatilla](https://m.media-amazon.com/images/I/416aOlL9FxL._SL200_.jpg)](https://www.amazon.es/dp/B077MDY52F/?tag=tolees-21)
+[![Puma Basket Heart Patent Wn s  Zapatilla](https://m.media-amazon.com/images/I/416aOlL9FxL._SL400_.jpg)](https://www.amazon.es/dp/B077MDY52F/?tag=tolees-21)
 
 🔎:
 

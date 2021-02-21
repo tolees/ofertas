@@ -2,7 +2,7 @@
 layout: post
 title: 'OtterBox Commuter Lite - Funda de Protec al 48.35 % de rebaja'
 date: 2020-06-11 13:25:00
-image: 'https://m.media-amazon.com/images/I/31-9zlupBfL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31-9zlupBfL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.49'
 
 Tienes [OtterBox Commuter Lite - Funda de Protección para Samsung Galaxy A40 Negra](https://www.amazon.es/dp/B07RNZY3T4/?tag=tolees-21) con precio final de  15.49 EUR (original: 29.99 EUR) (48.35 %  de rebaja) aqui!
 
-[![OtterBox Commuter Lite - Funda de Protec](https://m.media-amazon.com/images/I/31-9zlupBfL._SL200_.jpg)](https://www.amazon.es/dp/B07RNZY3T4/?tag=tolees-21)
+[![OtterBox Commuter Lite - Funda de Protec](https://m.media-amazon.com/images/I/31-9zlupBfL._SL400_.jpg)](https://www.amazon.es/dp/B07RNZY3T4/?tag=tolees-21)
 
 🔎:
 

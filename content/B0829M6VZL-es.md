@@ -2,7 +2,7 @@
 layout: post
 title: 'Moliies USB 2.0 A Hembra A RS232 DB9 Hem al 35.05 % de descuento'
 date: 2020-08-09 10:46:02
-image: 'https://m.media-amazon.com/images/I/31ni07J1-xL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31ni07J1-xL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.15'
 
 Está [Moliies USB 2.0 A Hembra A RS232 DB9 Hembra Convertidor de Adaptador de Cable en Serie Construido con adaptadores confiables FTDI Chipset Negro ](https://www.amazon.es/dp/B0829M6VZL/?tag=tolees-21) con 35.05 de descuento por 2.15 EUR (original: 3.31 EUR) en el siguiente enlace!
 
-[![Moliies USB 2.0 A Hembra A RS232 DB9 Hem](https://m.media-amazon.com/images/I/31ni07J1-xL._SL200_.jpg)](https://www.amazon.es/dp/B0829M6VZL/?tag=tolees-21)
+[![Moliies USB 2.0 A Hembra A RS232 DB9 Hem](https://m.media-amazon.com/images/I/31ni07J1-xL._SL400_.jpg)](https://www.amazon.es/dp/B0829M6VZL/?tag=tolees-21)
 
 ℹ️:
 

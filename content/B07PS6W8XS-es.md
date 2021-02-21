@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour Qualifier Speedpocket Roads con un 84.59 % de descuento'
 date: 2020-06-23 18:03:25
-image: 'https://m.media-amazon.com/images/I/31e58gKMMxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31e58gKMMxL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.87'
 
 En este momento está [Under Armour Qualifier Speedpocket Roadside Runway Crop Legging  Mujer  Negro  XS](https://www.amazon.es/dp/B07PS6W8XS/?tag=tolees-21) a 13.87 EUR (original: 90.0 EUR) (84.59 %  de descuento) en el siguiente enlace!
 
-[![Under Armour Qualifier Speedpocket Roads](https://m.media-amazon.com/images/I/31e58gKMMxL._SL200_.jpg)](https://www.amazon.es/dp/B07PS6W8XS/?tag=tolees-21)
+[![Under Armour Qualifier Speedpocket Roads](https://m.media-amazon.com/images/I/31e58gKMMxL._SL400_.jpg)](https://www.amazon.es/dp/B07PS6W8XS/?tag=tolees-21)
 
 🔎:
 

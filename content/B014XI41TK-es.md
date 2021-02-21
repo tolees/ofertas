@@ -2,7 +2,7 @@
 layout: post
 title: 'Silky - Leggings de uso diario para muje al 25.39 % de descuento'
 date: 2020-02-12 14:53:29
-image: 'https://m.media-amazon.com/images/I/31NWCIkS08L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31NWCIkS08L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.210000000000001'
 
 Está [Silky - Leggings de uso diario para mujer  Mediana  M /Negro ](https://www.amazon.es/dp/B014XI41TK/?tag=tolees-21) con 25.39 de descuento por 6.2 EUR (original: 8.31 EUR) en el siguiente enlace!
 
-[![Silky - Leggings de uso diario para muje](https://m.media-amazon.com/images/I/31NWCIkS08L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B014XI41TK/?tag=tolees-21)
+[![Silky - Leggings de uso diario para muje](https://m.media-amazon.com/images/I/31NWCIkS08L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B014XI41TK/?tag=tolees-21)
 
 ℹ️:
 

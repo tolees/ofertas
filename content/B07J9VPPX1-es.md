@@ -2,7 +2,7 @@
 layout: post
 title: 'Asics Gel-Odyssey  Walking Shoe Womens   al 41.15 % de descuento'
 date: 2020-01-26 05:02:37
-image: 'https://m.media-amazon.com/images/I/31e1XVha1NL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31e1XVha1NL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '48.715'
 
 Está [Asics Gel-Odyssey  Walking Shoe Womens  Black/Black  39 EU](https://www.amazon.es/dp/B07J9VPPX1/?tag=tolees-21) con 41.15 de descuento por 58.85 EUR (original: 100.0 EUR) en el siguiente enlace!
 
-[![Asics Gel-Odyssey  Walking Shoe Womens  ](https://m.media-amazon.com/images/I/31e1XVha1NL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07J9VPPX1/?tag=tolees-21)
+[![Asics Gel-Odyssey  Walking Shoe Womens  ](https://m.media-amazon.com/images/I/31e1XVha1NL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07J9VPPX1/?tag=tolees-21)
 
 ℹ️:
 

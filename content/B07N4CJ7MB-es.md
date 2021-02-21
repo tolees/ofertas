@@ -2,7 +2,7 @@
 layout: post
 title: 'Bourjois  Maquillaje corrector  Tono: 20 al 58.33 % de descuento'
 date: 2020-03-11 14:04:49
-image: 'https://m.media-amazon.com/images/I/31ZJHhsrOTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31ZJHhsrOTL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.446666666666667'
 
 Ahora mismo tienes [Bourjois  Maquillaje corrector  Tono: 200 Rose Vanilla  Pieles Claras  - 32 gr.](https://www.amazon.es/dp/B07N4CJ7MB/?tag=tolees-21) a 7.5 EUR (original: 18.0 EUR) (58.33 %  de descuento) en el siguiente enlace!
 
-[![Bourjois  Maquillaje corrector  Tono: 20](https://m.media-amazon.com/images/I/31ZJHhsrOTL._SL200_.jpg)](https://www.amazon.es/dp/B07N4CJ7MB/?tag=tolees-21)
+[![Bourjois  Maquillaje corrector  Tono: 20](https://m.media-amazon.com/images/I/31ZJHhsrOTL._SL400_.jpg)](https://www.amazon.es/dp/B07N4CJ7MB/?tag=tolees-21)
 
 🔎:
 

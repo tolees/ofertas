@@ -2,7 +2,7 @@
 layout: post
 title: 'BOSS Passenger Polo  Amarillo  Medium Ye al 40.95 % de descuento'
 date: 2020-07-15 18:01:54
-image: 'https://m.media-amazon.com/images/I/41Gw9TR+bAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Gw9TR+bAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '47.21'
 
 Ahora mismo tienes [BOSS Passenger Polo  Amarillo  Medium Yellow 723   Large para Hombre](https://www.amazon.es/dp/B07QLJ99G7/?tag=tolees-21) a 47.21 EUR (original: 79.95 EUR) (40.95 %  de descuento) en el siguiente enlace!
 
-[![BOSS Passenger Polo  Amarillo  Medium Ye](https://m.media-amazon.com/images/I/41Gw9TR+bAL._SL200_.jpg)](https://www.amazon.es/dp/B07QLJ99G7/?tag=tolees-21)
+[![BOSS Passenger Polo  Amarillo  Medium Ye](https://m.media-amazon.com/images/I/41Gw9TR+bAL._SL400_.jpg)](https://www.amazon.es/dp/B07QLJ99G7/?tag=tolees-21)
 
 🔎:
 

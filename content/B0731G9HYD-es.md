@@ -2,7 +2,7 @@
 layout: post
 title: 'modamoda de - cuero italiano de embrague al 26.68 % de rebaja'
 date: 2020-01-02 16:26:18
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51ABZaiiSRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51ABZaiiSRL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.99'
 
 Tienes [modamoda de - cuero italiano de embrague T151 Pequeño Gamuza  Color:camello](https://www.amazon.es/dp/B0731G9HYD/?tag=tolees-21) con precio final de  21.99 EUR (original: 29.99 EUR) (26.68 %  de rebaja) aqui!
 
-[![modamoda de - cuero italiano de embrague](https://images-eu.ssl-images-amazon.com/images/I/51ABZaiiSRL._SL200_.jpg)](https://www.amazon.es/dp/B0731G9HYD/?tag=tolees-21)
+[![modamoda de - cuero italiano de embrague](https://images-eu.ssl-images-amazon.com/images/I/51ABZaiiSRL._SL400_.jpg)](https://www.amazon.es/dp/B0731G9HYD/?tag=tolees-21)
 
 🔎:
 

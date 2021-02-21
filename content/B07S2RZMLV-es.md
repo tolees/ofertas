@@ -2,7 +2,7 @@
 layout: post
 title: 'Rowenta Depiladora WET & DRY ELITE EP800 al 30.01 % de descuento'
 date: 2020-08-25 08:13:14
-image: 'https://m.media-amazon.com/images/I/31BZrmipafL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31BZrmipafL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '38.982'
 
 Ahora mismo tienes [Rowenta Depiladora WET & DRY ELITE EP8002F0 - Sin cable y utilizable bajo el agua  cabezal de 24 pinzas con función masajeadora  autonomía de 40min](https://www.amazon.es/dp/B07S2RZMLV/?tag=tolees-21) a 34.99 EUR (original: 49.99 EUR) (30.01 %  de descuento) en el siguiente enlace!
 
-[![Rowenta Depiladora WET & DRY ELITE EP800](https://m.media-amazon.com/images/I/31BZrmipafL._SL200_.jpg)](https://www.amazon.es/dp/B07S2RZMLV/?tag=tolees-21)
+[![Rowenta Depiladora WET & DRY ELITE EP800](https://m.media-amazon.com/images/I/31BZrmipafL._SL400_.jpg)](https://www.amazon.es/dp/B07S2RZMLV/?tag=tolees-21)
 
 🔎:
 

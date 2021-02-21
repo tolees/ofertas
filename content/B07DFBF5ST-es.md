@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 38.91 % en Funko Vynl Star Wars Darth Vader+Stormtr'
 date: 2020-08-10 07:32:01
-image: 'https://m.media-amazon.com/images/I/41UNZSLeN+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41UNZSLeN+L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.493333333333334'
 
 Tienes [Funko Vynl Star Wars Darth Vader+Stormtrooper](https://www.amazon.es/dp/B07DFBF5ST/?tag=tolees-21) con un 38.91 % de descuento con precio de oferta de 10.08 EUR (original: 16.5 EUR) en el siguiente enlace!
 
-[![Funko Vynl Star Wars Darth Vader+Stormtr](https://m.media-amazon.com/images/I/41UNZSLeN+L._SL200_.jpg)](https://www.amazon.es/dp/B07DFBF5ST/?tag=tolees-21)
+[![Funko Vynl Star Wars Darth Vader+Stormtr](https://m.media-amazon.com/images/I/41UNZSLeN+L._SL400_.jpg)](https://www.amazon.es/dp/B07DFBF5ST/?tag=tolees-21)
 
 ℹ️:
 

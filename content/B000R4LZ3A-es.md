@@ -2,7 +2,7 @@
 layout: post
 title: 'MediaRange MR222 CD de reescritura - CD- con un 28.11 % de descuento'
 date: 2020-02-21 04:57:15
-image: 'https://m.media-amazon.com/images/I/51RMZEXSoXL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51RMZEXSoXL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.91'
 
 En este momento está [MediaRange MR222 CD de reescritura - CD-RW vírgenes  CD-R  900 MB  100 min  Caja para Pastel ](https://www.amazon.es/dp/B000R4LZ3A/?tag=tolees-21) a 13.91 EUR (original: 19.35 EUR) (28.11 %  de descuento) en el siguiente enlace!
 
-[![MediaRange MR222 CD de reescritura - CD-](https://m.media-amazon.com/images/I/51RMZEXSoXL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B000R4LZ3A/?tag=tolees-21)
+[![MediaRange MR222 CD de reescritura - CD-](https://m.media-amazon.com/images/I/51RMZEXSoXL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B000R4LZ3A/?tag=tolees-21)
 
 🔎:
 

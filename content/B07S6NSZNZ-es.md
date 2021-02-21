@@ -2,7 +2,7 @@
 layout: post
 title: 'PUMA Ascend  Zapatillas Unisex-Adulto  N al 62.80 % de descuento'
 date: 2020-08-05 13:39:18
-image: 'https://m.media-amazon.com/images/I/41Y-QMd1oqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Y-QMd1oqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '27.88'
 
 Está [PUMA Ascend  Zapatillas Unisex-Adulto  Negro Black White/High Risk Red 04  36 EU](https://www.amazon.es/dp/B07S6NSZNZ/?tag=tolees-21) con 62.80 de descuento por 27.88 EUR (original: 74.95 EUR) en el siguiente enlace!
 
-[![PUMA Ascend  Zapatillas Unisex-Adulto  N](https://m.media-amazon.com/images/I/41Y-QMd1oqL._SL200_.jpg)](https://www.amazon.es/dp/B07S6NSZNZ/?tag=tolees-21)
+[![PUMA Ascend  Zapatillas Unisex-Adulto  N](https://m.media-amazon.com/images/I/41Y-QMd1oqL._SL400_.jpg)](https://www.amazon.es/dp/B07S6NSZNZ/?tag=tolees-21)
 
 ℹ️:
 

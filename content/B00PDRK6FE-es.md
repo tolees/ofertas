@@ -2,7 +2,7 @@
 layout: post
 title: 'Papel Maché SIO-2 500 g al 49.33 % de descuento'
 date: 2020-04-02 21:09:32
-image: 'https://m.media-amazon.com/images/I/5163KfNdvuL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/5163KfNdvuL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.13'
 
 Está [Papel Maché SIO-2 500 g](https://www.amazon.es/dp/B00PDRK6FE/?tag=tolees-21) con 49.33 de descuento por 4.13 EUR (original: 8.15 EUR) en el siguiente enlace!
 
-[![Papel Maché SIO-2 500 g](https://m.media-amazon.com/images/I/5163KfNdvuL._SL200_.jpg)](https://www.amazon.es/dp/B00PDRK6FE/?tag=tolees-21)
+[![Papel Maché SIO-2 500 g](https://m.media-amazon.com/images/I/5163KfNdvuL._SL400_.jpg)](https://www.amazon.es/dp/B00PDRK6FE/?tag=tolees-21)
 
 ℹ️:
 

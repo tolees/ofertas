@@ -2,7 +2,7 @@
 layout: post
 title: 'Madal Bal Gel Aloe Árbol Te - 200 gr con un 30.46 % de descuento'
 date: 2020-01-16 07:43:12
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41nctBw0NrL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41nctBw0NrL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.916666666666667'
 
 En este momento está [Madal Bal Gel Aloe Árbol Te - 200 gr](https://www.amazon.es/dp/B003VTVRVS/?tag=tolees-21) a 7.51 EUR (original: 10.8 EUR) (30.46 %  de descuento) en el siguiente enlace!
 
-[![Madal Bal Gel Aloe Árbol Te - 200 gr](https://images-eu.ssl-images-amazon.com/images/I/41nctBw0NrL._SL200_.jpg)](https://www.amazon.es/dp/B003VTVRVS/?tag=tolees-21)
+[![Madal Bal Gel Aloe Árbol Te - 200 gr](https://images-eu.ssl-images-amazon.com/images/I/41nctBw0NrL._SL400_.jpg)](https://www.amazon.es/dp/B003VTVRVS/?tag=tolees-21)
 
 🔎:
 

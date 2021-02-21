@@ -2,7 +2,7 @@
 layout: post
 title: 'Guess SG766246 BILLETERAS mujer Rosa TU al 26.17 % de descuento'
 date: 2020-05-12 18:50:06
-image: 'https://m.media-amazon.com/images/I/417mU7RvMKL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/417mU7RvMKL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '43.56'
 
 Ahora mismo tienes [Guess SG766246 BILLETERAS mujer Rosa TU](https://www.amazon.es/dp/B082SXBHCF/?tag=tolees-21) a 43.56 EUR (original: 59.0 EUR) (26.17 %  de descuento) en el siguiente enlace!
 
-[![Guess SG766246 BILLETERAS mujer Rosa TU](https://m.media-amazon.com/images/I/417mU7RvMKL._SL200_.jpg)](https://www.amazon.es/dp/B082SXBHCF/?tag=tolees-21)
+[![Guess SG766246 BILLETERAS mujer Rosa TU](https://m.media-amazon.com/images/I/417mU7RvMKL._SL400_.jpg)](https://www.amazon.es/dp/B082SXBHCF/?tag=tolees-21)
 
 🔎:
 

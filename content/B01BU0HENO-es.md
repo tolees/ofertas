@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 35.52 % en DEWALT DWE4056-QS - Mini Amoladora 115mm'
 date: 2020-04-23 17:08:13
-image: 'https://m.media-amazon.com/images/I/41lSMl66IEL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41lSMl66IEL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '58.515'
 
 Tienes [DEWALT DWE4056-QS - Mini Amoladora 115mm  800W  11.800 rpm](https://www.amazon.es/dp/B01BU0HENO/?tag=tolees-21) con un 35.52 % de descuento con precio de oferta de 58.0 EUR (original: 89.95 EUR) en el siguiente enlace!
 
-[![DEWALT DWE4056-QS - Mini Amoladora 115mm](https://m.media-amazon.com/images/I/41lSMl66IEL._SL200_.jpg)](https://www.amazon.es/dp/B01BU0HENO/?tag=tolees-21)
+[![DEWALT DWE4056-QS - Mini Amoladora 115mm](https://m.media-amazon.com/images/I/41lSMl66IEL._SL400_.jpg)](https://www.amazon.es/dp/B01BU0HENO/?tag=tolees-21)
 
 ℹ️:
 

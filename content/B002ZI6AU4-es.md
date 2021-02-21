@@ -2,7 +2,7 @@
 layout: post
 title: 'Shimano 42A09000 - Llave Ajuste Eje Peda al 26.67 % de rebaja'
 date: 2020-03-13 11:09:24
-image: 'https://m.media-amazon.com/images/I/41tnD33TSaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41tnD33TSaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '0.99'
 
 Tienes [Shimano 42A09000 - Llave Ajuste Eje Pedal Tl-Pd40](https://www.amazon.es/dp/B002ZI6AU4/?tag=tolees-21) con precio final de  0.99 EUR (original: 1.35 EUR) (26.67 %  de rebaja) aqui!
 
-[![Shimano 42A09000 - Llave Ajuste Eje Peda](https://m.media-amazon.com/images/I/41tnD33TSaL._SL200_.jpg)](https://www.amazon.es/dp/B002ZI6AU4/?tag=tolees-21)
+[![Shimano 42A09000 - Llave Ajuste Eje Peda](https://m.media-amazon.com/images/I/41tnD33TSaL._SL400_.jpg)](https://www.amazon.es/dp/B002ZI6AU4/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Swimways 6038062 - Pelota de fútbol Lumi al 59.98 % de descuento'
 date: 2020-01-15 08:36:43
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41AZqqfkwEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41AZqqfkwEL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8'
 
 Está [Swimways 6038062 - Pelota de fútbol Luminosa reactorz  Colores Surtidos](https://www.amazon.es/dp/B06XHN91BB/?tag=tolees-21) con 59.98 de descuento por 8 EUR (original: 19.99 EUR) en el siguiente enlace!
 
-[![Swimways 6038062 - Pelota de fútbol Lumi](https://images-eu.ssl-images-amazon.com/images/I/41AZqqfkwEL._SL200_.jpg)](https://www.amazon.es/dp/B06XHN91BB/?tag=tolees-21)
+[![Swimways 6038062 - Pelota de fútbol Lumi](https://images-eu.ssl-images-amazon.com/images/I/41AZqqfkwEL._SL400_.jpg)](https://www.amazon.es/dp/B06XHN91BB/?tag=tolees-21)
 
 ℹ️:
 

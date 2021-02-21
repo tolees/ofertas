@@ -2,7 +2,7 @@
 layout: post
 title: 'YanBan Cabezal de cepillo de dientes par con un 43.50 % de descuento'
 date: 2020-03-24 11:22:20
-image: 'https://m.media-amazon.com/images/I/51j+IjOTNlL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51j+IjOTNlL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.723333333333333'
 
 En este momento está [YanBan Cabezal de cepillo de dientes para Oral B cabezales de cepillo de dientes de repuesto  compatible con Oral-B  para cepillo de dientes eletrico Braun recargable  Cross and action](https://www.amazon.es/dp/B07H58XJFC/?tag=tolees-21) a 12.99 EUR (original: 22.99 EUR) (43.50 %  de descuento) en el siguiente enlace!
 
-[![YanBan Cabezal de cepillo de dientes par](https://m.media-amazon.com/images/I/51j+IjOTNlL._SL200_.jpg)](https://www.amazon.es/dp/B07H58XJFC/?tag=tolees-21)
+[![YanBan Cabezal de cepillo de dientes par](https://m.media-amazon.com/images/I/51j+IjOTNlL._SL400_.jpg)](https://www.amazon.es/dp/B07H58XJFC/?tag=tolees-21)
 
 🔎:
 

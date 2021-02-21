@@ -2,7 +2,7 @@
 layout: post
 title: 'Asics Gel-Cumulus 21  Running Shoe Mens  al 34.41 % de descuento'
 date: 2020-06-18 18:34:54
-image: 'https://m.media-amazon.com/images/I/31SRpZG24ML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31SRpZG24ML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '98.82'
 
 Ahora mismo tienes [Asics Gel-Cumulus 21  Running Shoe Mens - Black/Black - 46 EU](https://www.amazon.es/dp/B0812GN2RY/?tag=tolees-21) a 91.82 EUR (original: 140.0 EUR) (34.41 %  de descuento) en el siguiente enlace!
 
-[![Asics Gel-Cumulus 21  Running Shoe Mens ](https://m.media-amazon.com/images/I/31SRpZG24ML._SL200_.jpg)](https://www.amazon.es/dp/B0812GN2RY/?tag=tolees-21)
+[![Asics Gel-Cumulus 21  Running Shoe Mens ](https://m.media-amazon.com/images/I/31SRpZG24ML._SL400_.jpg)](https://www.amazon.es/dp/B0812GN2RY/?tag=tolees-21)
 
 🔎:
 

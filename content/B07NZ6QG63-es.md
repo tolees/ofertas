@@ -2,7 +2,7 @@
 layout: post
 title: 'Art Cambridge  Botas Clasicas para Hombr con un 59.28 % de descuento'
 date: 2020-08-30 18:43:58
-image: 'https://m.media-amazon.com/images/I/31qLX9089yL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31qLX9089yL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '52.91'
 
 En este momento está [Art Cambridge  Botas Clasicas para Hombre  Rojo  Burdeos Burdeos   42 EU](https://www.amazon.es/dp/B07NZ6QG63/?tag=tolees-21) a 52.91 EUR (original: 129.95 EUR) (59.28 %  de descuento) en el siguiente enlace!
 
-[![Art Cambridge  Botas Clasicas para Hombr](https://m.media-amazon.com/images/I/31qLX9089yL._SL200_.jpg)](https://www.amazon.es/dp/B07NZ6QG63/?tag=tolees-21)
+[![Art Cambridge  Botas Clasicas para Hombr](https://m.media-amazon.com/images/I/31qLX9089yL._SL400_.jpg)](https://www.amazon.es/dp/B07NZ6QG63/?tag=tolees-21)
 
 🔎:
 

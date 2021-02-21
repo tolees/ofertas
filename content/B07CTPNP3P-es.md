@@ -2,7 +2,7 @@
 layout: post
 title: 'FIND - Camouflaged Pink  Perfilador de l con un 53.36 % de descuento'
 date: 2020-04-05 12:24:18
-image: 'https://m.media-amazon.com/images/I/31M+P-DOEmL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31M+P-DOEmL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.85'
 
 En este momento está [FIND - Camouflaged Pink  Perfilador de labios n.7 + Líquido de labios brillante n.7 ](https://www.amazon.es/dp/B07CTPNP3P/?tag=tolees-21) a 2.85 EUR (original: 6.11 EUR) (53.36 %  de descuento) en el siguiente enlace!
 
-[![FIND - Camouflaged Pink  Perfilador de l](https://m.media-amazon.com/images/I/31M+P-DOEmL._SL200_.jpg)](https://www.amazon.es/dp/B07CTPNP3P/?tag=tolees-21)
+[![FIND - Camouflaged Pink  Perfilador de l](https://m.media-amazon.com/images/I/31M+P-DOEmL._SL400_.jpg)](https://www.amazon.es/dp/B07CTPNP3P/?tag=tolees-21)
 
 🔎:
 

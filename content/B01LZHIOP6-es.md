@@ -2,7 +2,7 @@
 layout: post
 title: 'Wella Eimi Sculpt Force - 28 ml al 57.72 % de descuento'
 date: 2020-07-02 17:15:45
-image: 'https://m.media-amazon.com/images/I/417y1Cy7V4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/417y1Cy7V4L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.52'
 
 Está [Wella Eimi Sculpt Force - 28 ml](https://www.amazon.es/dp/B01LZHIOP6/?tag=tolees-21) con 57.72 de descuento por 2.52 EUR (original: 5.96 EUR) en el siguiente enlace!
 
-[![Wella Eimi Sculpt Force - 28 ml](https://m.media-amazon.com/images/I/417y1Cy7V4L._SL200_.jpg)](https://www.amazon.es/dp/B01LZHIOP6/?tag=tolees-21)
+[![Wella Eimi Sculpt Force - 28 ml](https://m.media-amazon.com/images/I/417y1Cy7V4L._SL400_.jpg)](https://www.amazon.es/dp/B01LZHIOP6/?tag=tolees-21)
 
 ℹ️:
 

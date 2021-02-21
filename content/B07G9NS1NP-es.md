@@ -2,7 +2,7 @@
 layout: post
 title: 'Seiko Reloj analogico para Hombre de Aut al 32.20 % de descuento'
 date: 2020-10-06 23:51:22
-image: 'https://m.media-amazon.com/images/I/415SZ11VUIL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/415SZ11VUIL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '181.06'
 
 Está [Seiko Reloj analogico para Hombre de Automático con Correa en Piel SRPC87K1](https://www.amazon.es/dp/B07G9NS1NP/?tag=tolees-21) con 32.20 de descuento por 189.15 EUR (original: 279.0 EUR) en el siguiente enlace!
 
-[![Seiko Reloj analogico para Hombre de Aut](https://m.media-amazon.com/images/I/415SZ11VUIL._SL200_.jpg)](https://www.amazon.es/dp/B07G9NS1NP/?tag=tolees-21)
+[![Seiko Reloj analogico para Hombre de Aut](https://m.media-amazon.com/images/I/415SZ11VUIL._SL400_.jpg)](https://www.amazon.es/dp/B07G9NS1NP/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Icons Corner PUF TAPIZADO Amarillo 2 TAM al 46.67 % de descuento'
 date: 2020-06-25 16:54:42
-image: 'https://m.media-amazon.com/images/I/317XMf3NAaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/317XMf3NAaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '31.99'
 
 Ahora mismo tienes [Icons Corner PUF TAPIZADO Amarillo 2 TAMAÑOS](https://www.amazon.es/dp/B0851MT2TL/?tag=tolees-21) a 31.99 EUR (original: 59.99 EUR) (46.67 %  de descuento) en el siguiente enlace!
 
-[![Icons Corner PUF TAPIZADO Amarillo 2 TAM](https://m.media-amazon.com/images/I/317XMf3NAaL._SL200_.jpg)](https://www.amazon.es/dp/B0851MT2TL/?tag=tolees-21)
+[![Icons Corner PUF TAPIZADO Amarillo 2 TAM](https://m.media-amazon.com/images/I/317XMf3NAaL._SL400_.jpg)](https://www.amazon.es/dp/B0851MT2TL/?tag=tolees-21)
 
 🔎:
 

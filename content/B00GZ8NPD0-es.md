@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 27.48 % en Goa London Dry Gin  1 x 0.7 l '
 date: 2020-01-06 13:02:01
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41uDz-A1bsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41uDz-A1bsL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.5'
 
 Tienes [Goa London Dry Gin  1 x 0.7 l ](https://www.amazon.es/dp/B00GZ8NPD0/?tag=tolees-21) con un 27.48 % de descuento con precio de oferta de 19.5 EUR (original: 26.89 EUR) en el siguiente enlace!
 
-[![Goa London Dry Gin  1 x 0.7 l ](https://images-eu.ssl-images-amazon.com/images/I/41uDz-A1bsL._SL200_.jpg)](https://www.amazon.es/dp/B00GZ8NPD0/?tag=tolees-21)
+[![Goa London Dry Gin  1 x 0.7 l ](https://images-eu.ssl-images-amazon.com/images/I/41uDz-A1bsL._SL400_.jpg)](https://www.amazon.es/dp/B00GZ8NPD0/?tag=tolees-21)
 
 ℹ️:
 

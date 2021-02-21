@@ -2,7 +2,7 @@
 layout: post
 title: 'Bombilla H4 LED para Moto con Ojos de An al 30.56 % de descuento'
 date: 2020-05-14 06:09:44
-image: 'https://m.media-amazon.com/images/I/51jbEEJfOBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51jbEEJfOBL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.99'
 
 Ahora mismo tienes [Bombilla H4 LED para Moto con Ojos de Angel  6400LM Moto LED Faro DC 12V 1 Lámpara-Azul](https://www.amazon.es/dp/B085PVR97F/?tag=tolees-21) a 24.99 EUR (original: 35.99 EUR) (30.56 %  de descuento) en el siguiente enlace!
 
-[![Bombilla H4 LED para Moto con Ojos de An](https://m.media-amazon.com/images/I/51jbEEJfOBL._SL200_.jpg)](https://www.amazon.es/dp/B085PVR97F/?tag=tolees-21)
+[![Bombilla H4 LED para Moto con Ojos de An](https://m.media-amazon.com/images/I/51jbEEJfOBL._SL400_.jpg)](https://www.amazon.es/dp/B085PVR97F/?tag=tolees-21)
 
 🔎:
 

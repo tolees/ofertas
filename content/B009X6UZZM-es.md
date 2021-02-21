@@ -2,7 +2,7 @@
 layout: post
 title: 'Lexmark 50F2U0E - Tóner  capacidad 20000 al 40.84 % de descuento'
 date: 2020-01-13 19:29:40
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31qSJVYJwZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31qSJVYJwZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '185'
 
 Está [Lexmark 50F2U0E - Tóner  capacidad 20000 páginas](https://www.amazon.es/dp/B009X6UZZM/?tag=tolees-21) con 40.84 de descuento por 185 EUR (original: 312.69 EUR) en el siguiente enlace!
 
-[![Lexmark 50F2U0E - Tóner  capacidad 20000](https://images-eu.ssl-images-amazon.com/images/I/31qSJVYJwZL._SL200_.jpg)](https://www.amazon.es/dp/B009X6UZZM/?tag=tolees-21)
+[![Lexmark 50F2U0E - Tóner  capacidad 20000](https://images-eu.ssl-images-amazon.com/images/I/31qSJVYJwZL._SL400_.jpg)](https://www.amazon.es/dp/B009X6UZZM/?tag=tolees-21)
 
 ℹ️:
 

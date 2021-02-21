@@ -2,7 +2,7 @@
 layout: post
 title: 'Julius-K9 Mini-Mini  40-53 cm  Rojo con un 39.85 % de descuento'
 date: 2020-08-07 10:16:07
-image: 'https://m.media-amazon.com/images/I/512dwwrBnEL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/512dwwrBnEL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.656666666666666'
 
 En este momento está [Julius-K9 Mini-Mini  40-53 cm  Rojo](https://www.amazon.es/dp/B003WLFDJC/?tag=tolees-21) a 18.99 EUR (original: 31.57 EUR) (39.85 %  de descuento) en el siguiente enlace!
 
-[![Julius-K9 Mini-Mini  40-53 cm  Rojo](https://m.media-amazon.com/images/I/512dwwrBnEL._SL200_.jpg)](https://www.amazon.es/dp/B003WLFDJC/?tag=tolees-21)
+[![Julius-K9 Mini-Mini  40-53 cm  Rojo](https://m.media-amazon.com/images/I/512dwwrBnEL._SL400_.jpg)](https://www.amazon.es/dp/B003WLFDJC/?tag=tolees-21)
 
 🔎:
 

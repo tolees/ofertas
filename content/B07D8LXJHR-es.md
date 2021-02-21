@@ -2,7 +2,7 @@
 layout: post
 title: 'Receptor Bluetooth Coche Amplificador Hi con un 45.02 % de descuento'
 date: 2020-01-30 23:27:19
-image: 'https://images-eu.ssl-images-amazon.com/images/I/4157zIA0kPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4157zIA0kPL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.99'
 
 En este momento está [Receptor Bluetooth Coche Amplificador HiFi 4.1 Manos Libres Kits Estéreo per Audio Adaptador con Salida Estéreo DE 3 5 mm Aux Jack para Casa y Sistema de Audio Estéreo de Coche Tarjeta del TF](https://www.amazon.es/dp/B07D8LXJHR/?tag=tolees-21) a 10.99 EUR (original: 19.99 EUR) (45.02 %  de descuento) en el siguiente enlace!
 
-[![Receptor Bluetooth Coche Amplificador Hi](https://images-eu.ssl-images-amazon.com/images/I/4157zIA0kPL._SL200_.jpg)](https://www.amazon.es/dp/B07D8LXJHR/?tag=tolees-21)
+[![Receptor Bluetooth Coche Amplificador Hi](https://images-eu.ssl-images-amazon.com/images/I/4157zIA0kPL._SL400_.jpg)](https://www.amazon.es/dp/B07D8LXJHR/?tag=tolees-21)
 
 🔎:
 

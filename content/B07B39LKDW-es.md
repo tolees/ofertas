@@ -2,7 +2,7 @@
 layout: post
 title: 'Falomir Alfarería Piratas Mesa. Juego Ar al 55.31 % de rebaja'
 date: 2020-04-04 05:19:25
-image: 'https://m.media-amazon.com/images/I/51Fzz+tGJUL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Fzz+tGJUL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.34'
 
 Tienes [Falomir Alfarería Piratas Mesa. Juego Artístico.  28438 ](https://www.amazon.es/dp/B07B39LKDW/?tag=tolees-21) con precio final de  5.34 EUR (original: 11.95 EUR) (55.31 %  de rebaja) aqui!
 
-[![Falomir Alfarería Piratas Mesa. Juego Ar](https://m.media-amazon.com/images/I/51Fzz+tGJUL._SL200_.jpg)](https://www.amazon.es/dp/B07B39LKDW/?tag=tolees-21)
+[![Falomir Alfarería Piratas Mesa. Juego Ar](https://m.media-amazon.com/images/I/51Fzz+tGJUL._SL400_.jpg)](https://www.amazon.es/dp/B07B39LKDW/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'VIKI LYNN Pendientes de perlas 7-8mm  Pe al 57.98 % de rebaja'
 date: 2020-07-25 10:02:44
-image: 'https://m.media-amazon.com/images/I/31e7N3Xu2DL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31e7N3Xu2DL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.55'
 
 Tienes [VIKI LYNN Pendientes de perlas 7-8mm  Pendientes de perlas ](https://www.amazon.es/dp/B075RYX9XX/?tag=tolees-21) con precio final de  10.55 EUR (original: 25.11 EUR) (57.98 %  de rebaja) aqui!
 
-[![VIKI LYNN Pendientes de perlas 7-8mm  Pe](https://m.media-amazon.com/images/I/31e7N3Xu2DL._SL200_.jpg)](https://www.amazon.es/dp/B075RYX9XX/?tag=tolees-21)
+[![VIKI LYNN Pendientes de perlas 7-8mm  Pe](https://m.media-amazon.com/images/I/31e7N3Xu2DL._SL400_.jpg)](https://www.amazon.es/dp/B075RYX9XX/?tag=tolees-21)
 
 🔎:
 

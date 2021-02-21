@@ -2,7 +2,7 @@
 layout: post
 title: 'Caja de luz iluminadora de película de r al 82.67 % de rebaja'
 date: 2020-03-15 18:32:06
-image: 'https://m.media-amazon.com/images/I/31jQ+z1NKEL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31jQ+z1NKEL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.09'
 
 Tienes [Caja de luz iluminadora de película de rayos X LED  Panel de luz de visor de rayos X  Visor de película de dientes AC110-220V Caja de vista LED con abrazadera de chip  EU Plug ](https://www.amazon.es/dp/B07Q4PSDJC/?tag=tolees-21) con precio final de  21.09 EUR (original: 121.69 EUR) (82.67 %  de rebaja) aqui!
 
-[![Caja de luz iluminadora de película de r](https://m.media-amazon.com/images/I/31jQ+z1NKEL._SL200_.jpg)](https://www.amazon.es/dp/B07Q4PSDJC/?tag=tolees-21)
+[![Caja de luz iluminadora de película de r](https://m.media-amazon.com/images/I/31jQ+z1NKEL._SL400_.jpg)](https://www.amazon.es/dp/B07Q4PSDJC/?tag=tolees-21)
 
 🔎:
 

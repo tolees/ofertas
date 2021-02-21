@@ -2,7 +2,7 @@
 layout: post
 title: 'Maybelline New York City Bronzer Polvos  al 30.04 % de rebaja'
 date: 2020-08-09 11:33:23
-image: 'https://m.media-amazon.com/images/I/51CGf69awvL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51CGf69awvL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.59'
 
 Tienes [Maybelline New York City Bronzer Polvos Bronceadores Mate para Pieles Oscuras  Tono 300 Deep Cool](https://www.amazon.es/dp/B07HZGRVM4/?tag=tolees-21) con precio final de  5.59 EUR (original: 7.99 EUR) (30.04 %  de rebaja) aqui!
 
-[![Maybelline New York City Bronzer Polvos ](https://m.media-amazon.com/images/I/51CGf69awvL._SL200_.jpg)](https://www.amazon.es/dp/B07HZGRVM4/?tag=tolees-21)
+[![Maybelline New York City Bronzer Polvos ](https://m.media-amazon.com/images/I/51CGf69awvL._SL400_.jpg)](https://www.amazon.es/dp/B07HZGRVM4/?tag=tolees-21)
 
 🔎:
 

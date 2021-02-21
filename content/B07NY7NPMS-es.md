@@ -2,7 +2,7 @@
 layout: post
 title: 'Superdry Core Sport Shorts Pantalones Co al 64.06 % de descuento'
 date: 2020-03-28 10:52:43
-image: 'https://m.media-amazon.com/images/I/41MAjQN84PL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41MAjQN84PL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.17'
 
 Ahora mismo tienes [Superdry Core Sport Shorts Pantalones Cortos Deportivos  Azul  Navy 11s   48  Talla del Fabricante: X-Small  para Hombre](https://www.amazon.es/dp/B07NY7NPMS/?tag=tolees-21) a 16.17 EUR (original: 44.99 EUR) (64.06 %  de descuento) en el siguiente enlace!
 
-[![Superdry Core Sport Shorts Pantalones Co](https://m.media-amazon.com/images/I/41MAjQN84PL._SL200_.jpg)](https://www.amazon.es/dp/B07NY7NPMS/?tag=tolees-21)
+[![Superdry Core Sport Shorts Pantalones Co](https://m.media-amazon.com/images/I/41MAjQN84PL._SL400_.jpg)](https://www.amazon.es/dp/B07NY7NPMS/?tag=tolees-21)
 
 🔎:
 

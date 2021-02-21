@@ -2,7 +2,7 @@
 layout: post
 title: 'Targus TSS93311EU Pro-tek - Funda para D al 59.91 % de descuento'
 date: 2020-10-01 12:45:53
-image: 'https://m.media-amazon.com/images/I/41yND6lIZoL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41yND6lIZoL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.326666666666666'
 
 Ahora mismo tienes [Targus TSS93311EU Pro-tek - Funda para Dispositivos de 11.6"  Color Plata](https://www.amazon.es/dp/B01GUXUS7U/?tag=tolees-21) a 15.23 EUR (original: 37.99 EUR) (59.91 %  de descuento) en el siguiente enlace!
 
-[![Targus TSS93311EU Pro-tek - Funda para D](https://m.media-amazon.com/images/I/41yND6lIZoL._SL200_.jpg)](https://www.amazon.es/dp/B01GUXUS7U/?tag=tolees-21)
+[![Targus TSS93311EU Pro-tek - Funda para D](https://m.media-amazon.com/images/I/41yND6lIZoL._SL400_.jpg)](https://www.amazon.es/dp/B01GUXUS7U/?tag=tolees-21)
 
 🔎:
 

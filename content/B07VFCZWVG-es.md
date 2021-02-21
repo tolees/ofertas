@@ -2,7 +2,7 @@
 layout: post
 title: 'YAMAMAY® Bañador de Cintura Media para M al 49.97 % de descuento'
 date: 2020-06-24 11:22:47
-image: 'https://m.media-amazon.com/images/I/4189GoCm+qL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/4189GoCm+qL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.48'
 
 Ahora mismo tienes [YAMAMAY® Bañador de Cintura Media para Mujer – Swift](https://www.amazon.es/dp/B07VFCZWVG/?tag=tolees-21) a 8.48 EUR (original: 16.95 EUR) (49.97 %  de descuento) en el siguiente enlace!
 
-[![YAMAMAY® Bañador de Cintura Media para M](https://m.media-amazon.com/images/I/4189GoCm+qL._SL200_.jpg)](https://www.amazon.es/dp/B07VFCZWVG/?tag=tolees-21)
+[![YAMAMAY® Bañador de Cintura Media para M](https://m.media-amazon.com/images/I/4189GoCm+qL._SL400_.jpg)](https://www.amazon.es/dp/B07VFCZWVG/?tag=tolees-21)
 
 🔎:
 

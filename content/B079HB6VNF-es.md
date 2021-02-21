@@ -2,7 +2,7 @@
 layout: post
 title: 'Optimum Nutrition Protein Whipped Bites  al 25.33 % de descuento'
 date: 2020-01-28 12:24:49
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41dlbuXNiVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41dlbuXNiVL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.49'
 
 Está [Optimum Nutrition Protein Whipped Bites barrita proteica  Sabor de Fresa y Crema - Paquete de 12 unidades](https://www.amazon.es/dp/B079HB6VNF/?tag=tolees-21) con 25.33 de descuento por 23.99 EUR (original: 32.13 EUR) en el siguiente enlace!
 
-[![Optimum Nutrition Protein Whipped Bites ](https://images-eu.ssl-images-amazon.com/images/I/41dlbuXNiVL._SL200_.jpg)](https://www.amazon.es/dp/B079HB6VNF/?tag=tolees-21)
+[![Optimum Nutrition Protein Whipped Bites ](https://images-eu.ssl-images-amazon.com/images/I/41dlbuXNiVL._SL400_.jpg)](https://www.amazon.es/dp/B079HB6VNF/?tag=tolees-21)
 
 ℹ️:
 

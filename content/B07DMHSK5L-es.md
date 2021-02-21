@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 40.06 % en Philips Avent SCF043/27-2 - Tetinas natu'
 date: 2020-05-07 16:29:05
-image: 'https://m.media-amazon.com/images/I/31ncdwL5hsL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31ncdwL5hsL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.8375'
 
 Tienes [Philips Avent SCF043/27-2 - Tetinas natural flujo medio  3m+  con 2 agujeros](https://www.amazon.es/dp/B07DMHSK5L/?tag=tolees-21) con un 40.06 % de descuento con precio de oferta de 4.19 EUR (original: 6.99 EUR) en el siguiente enlace!
 
-[![Philips Avent SCF043/27-2 - Tetinas natu](https://m.media-amazon.com/images/I/31ncdwL5hsL._SL200_.jpg)](https://www.amazon.es/dp/B07DMHSK5L/?tag=tolees-21)
+[![Philips Avent SCF043/27-2 - Tetinas natu](https://m.media-amazon.com/images/I/31ncdwL5hsL._SL400_.jpg)](https://www.amazon.es/dp/B07DMHSK5L/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas X_PLR J  Zapatillas Unisex Niños  al 41.26 % de descuento'
 date: 2020-03-31 17:59:16
-image: 'https://m.media-amazon.com/images/I/31PTr0bdw2L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31PTr0bdw2L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '38.15'
 
 Ahora mismo tienes [adidas X_PLR J  Zapatillas Unisex Niños  Blanco  Footwear White/Footwear White/Footwear White 0   35.5 EU](https://www.amazon.es/dp/B078T57KVV/?tag=tolees-21) a 38.15 EUR (original: 64.95 EUR) (41.26 %  de descuento) en el siguiente enlace!
 
-[![adidas X_PLR J  Zapatillas Unisex Niños ](https://m.media-amazon.com/images/I/31PTr0bdw2L._SL200_.jpg)](https://www.amazon.es/dp/B078T57KVV/?tag=tolees-21)
+[![adidas X_PLR J  Zapatillas Unisex Niños ](https://m.media-amazon.com/images/I/31PTr0bdw2L._SL400_.jpg)](https://www.amazon.es/dp/B078T57KVV/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Nemesis Now Boss - Figura Decorativa de  al 67.25 % de descuento'
 date: 2020-02-14 11:40:39
-image: 'https://m.media-amazon.com/images/I/41DY0gn+Y1L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41DY0gn+Y1L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.55'
 
 Ahora mismo tienes [Nemesis Now Boss - Figura Decorativa de Calavera  18 cm  Resina  Talla única   Color Marfil](https://www.amazon.es/dp/B07KYW7DJB/?tag=tolees-21) a 8.55 EUR (original: 26.11 EUR) (67.25 %  de descuento) en el siguiente enlace!
 
-[![Nemesis Now Boss - Figura Decorativa de ](https://m.media-amazon.com/images/I/41DY0gn+Y1L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07KYW7DJB/?tag=tolees-21)
+[![Nemesis Now Boss - Figura Decorativa de ](https://m.media-amazon.com/images/I/41DY0gn+Y1L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07KYW7DJB/?tag=tolees-21)
 
 🔎:
 

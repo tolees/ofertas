@@ -2,7 +2,7 @@
 layout: post
 title: 'Bosch Truvo - Detector digital  3 pilas  al 34.66 % de descuento'
 date: 2020-03-15 01:09:00
-image: 'https://m.media-amazon.com/images/I/31bcRPyxEZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31bcRPyxEZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '45.595'
 
 Ahora mismo tienes [Bosch Truvo - Detector digital  3 pilas AAA  profundidad de detección máx.: 70 mm  estuche ](https://www.amazon.es/dp/B01J1FN7ZE/?tag=tolees-21) a 37.15 EUR (original: 56.86 EUR) (34.66 %  de descuento) en el siguiente enlace!
 
-[![Bosch Truvo - Detector digital  3 pilas ](https://m.media-amazon.com/images/I/31bcRPyxEZL._SL200_.jpg)](https://www.amazon.es/dp/B01J1FN7ZE/?tag=tolees-21)
+[![Bosch Truvo - Detector digital  3 pilas ](https://m.media-amazon.com/images/I/31bcRPyxEZL._SL400_.jpg)](https://www.amazon.es/dp/B01J1FN7ZE/?tag=tolees-21)
 
 🔎:
 

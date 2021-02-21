@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour Tech 9in 2 Pack Ropa Interi con un 52.97 % de descuento'
 date: 2020-03-08 09:34:40
-image: 'https://m.media-amazon.com/images/I/41LQI+uTAuL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41LQI+uTAuL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.475'
 
 En este momento está [Under Armour Tech 9in 2 Pack Ropa Interior  Hombre  Gris  Mod Gray Light Heather/Jet Gray Light Heather 011   S](https://www.amazon.es/dp/B07D5SVYH3/?tag=tolees-21) a 16.46 EUR (original: 35.0 EUR) (52.97 %  de descuento) en el siguiente enlace!
 
-[![Under Armour Tech 9in 2 Pack Ropa Interi](https://m.media-amazon.com/images/I/41LQI+uTAuL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07D5SVYH3/?tag=tolees-21)
+[![Under Armour Tech 9in 2 Pack Ropa Interi](https://m.media-amazon.com/images/I/41LQI+uTAuL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07D5SVYH3/?tag=tolees-21)
 
 🔎:
 

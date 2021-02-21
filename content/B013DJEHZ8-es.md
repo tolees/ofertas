@@ -2,7 +2,7 @@
 layout: post
 title: 'Activision Blizzard Skylanders Superchar con un 62.31 % de descuento'
 date: 2020-05-02 20:18:44
-image: 'https://m.media-amazon.com/images/I/51OZTdvwTAL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51OZTdvwTAL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.61'
 
 En este momento está [Activision Blizzard Skylanders Superchargers - Vehicle Pack : Shield Striker](https://www.amazon.es/dp/B013DJEHZ8/?tag=tolees-21) a 5.65 EUR (original: 14.99 EUR) (62.31 %  de descuento) en el siguiente enlace!
 
-[![Activision Blizzard Skylanders Superchar](https://m.media-amazon.com/images/I/51OZTdvwTAL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B013DJEHZ8/?tag=tolees-21)
+[![Activision Blizzard Skylanders Superchar](https://m.media-amazon.com/images/I/51OZTdvwTAL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B013DJEHZ8/?tag=tolees-21)
 
 🔎:
 

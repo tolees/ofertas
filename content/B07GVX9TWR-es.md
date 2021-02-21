@@ -2,7 +2,7 @@
 layout: post
 title: 'HP 250 - Ratón inalámbrico  Negro al 34.54 % de rebaja'
 date: 2020-08-31 11:01:45
-image: 'https://m.media-amazon.com/images/I/31U-JFbtzaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31U-JFbtzaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.39'
 
 Tienes [HP 250 - Ratón inalámbrico  Negro](https://www.amazon.es/dp/B07GVX9TWR/?tag=tolees-21) con precio final de  11.39 EUR (original: 17.4 EUR) (34.54 %  de rebaja) aqui!
 
-[![HP 250 - Ratón inalámbrico  Negro](https://m.media-amazon.com/images/I/31U-JFbtzaL._SL200_.jpg)](https://www.amazon.es/dp/B07GVX9TWR/?tag=tolees-21)
+[![HP 250 - Ratón inalámbrico  Negro](https://m.media-amazon.com/images/I/31U-JFbtzaL._SL400_.jpg)](https://www.amazon.es/dp/B07GVX9TWR/?tag=tolees-21)
 
 🔎:
 

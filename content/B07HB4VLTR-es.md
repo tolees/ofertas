@@ -2,7 +2,7 @@
 layout: post
 title: 'Figura Pop Dragon Ball: Goku Casual al 35.74 % de rebaja'
 date: 2020-09-23 08:48:36
-image: 'https://m.media-amazon.com/images/I/316E5fmg02L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/316E5fmg02L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.219999999999999'
 
 Tienes [Figura Pop Dragon Ball: Goku Casual](https://www.amazon.es/dp/B07HB4VLTR/?tag=tolees-21) con precio final de  8.99 EUR (original: 13.99 EUR) (35.74 %  de rebaja) aqui!
 
-[![Figura Pop Dragon Ball: Goku Casual](https://m.media-amazon.com/images/I/316E5fmg02L._SL200_.jpg)](https://www.amazon.es/dp/B07HB4VLTR/?tag=tolees-21)
+[![Figura Pop Dragon Ball: Goku Casual](https://m.media-amazon.com/images/I/316E5fmg02L._SL400_.jpg)](https://www.amazon.es/dp/B07HB4VLTR/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 33.12 % en PUMA ESS+ Drapy Pants Chándal  Mujer  Bl'
 date: 2020-10-02 02:09:36
-image: 'https://m.media-amazon.com/images/I/31whO31aQcL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31whO31aQcL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '26.72'
 
 Tienes [PUMA ESS+ Drapy Pants Chándal  Mujer  Black  S](https://www.amazon.es/dp/B07XFX5NCG/?tag=tolees-21) con un 33.12 % de descuento con precio de oferta de 26.72 EUR (original: 39.95 EUR) en el siguiente enlace!
 
-[![PUMA ESS+ Drapy Pants Chándal  Mujer  Bl](https://m.media-amazon.com/images/I/31whO31aQcL._SL200_.jpg)](https://www.amazon.es/dp/B07XFX5NCG/?tag=tolees-21)
+[![PUMA ESS+ Drapy Pants Chándal  Mujer  Bl](https://m.media-amazon.com/images/I/31whO31aQcL._SL400_.jpg)](https://www.amazon.es/dp/B07XFX5NCG/?tag=tolees-21)
 
 ℹ️:
 

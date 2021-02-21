@@ -2,7 +2,7 @@
 layout: post
 title: 'Funko Pop!- Bad Dinosaur Figura de Vinil al 36.97 % de descuento'
 date: 2020-01-26 01:55:47
-image: 'https://m.media-amazon.com/images/I/41x3d85ux+L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41x3d85ux+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.3125'
 
 Está [Funko Pop!- Bad Dinosaur Figura de Vinilo  Multicolor  30984 ](https://www.amazon.es/dp/B079YC41DV/?tag=tolees-21) con 36.97 de descuento por 8.25 EUR (original: 13.09 EUR) en el siguiente enlace!
 
-[![Funko Pop!- Bad Dinosaur Figura de Vinil](https://m.media-amazon.com/images/I/41x3d85ux+L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B079YC41DV/?tag=tolees-21)
+[![Funko Pop!- Bad Dinosaur Figura de Vinil](https://m.media-amazon.com/images/I/41x3d85ux+L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B079YC41DV/?tag=tolees-21)
 
 ℹ️:
 

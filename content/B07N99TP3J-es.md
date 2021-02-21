@@ -2,7 +2,7 @@
 layout: post
 title: 'THE NORTH FACE M Storm Strike 2 WP  Bota con un 60.34 % de descuento'
 date: 2020-07-11 23:49:59
-image: 'https://m.media-amazon.com/images/I/41JpMHqeTeL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41JpMHqeTeL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '43.54777777777778'
 
 En este momento está [THE NORTH FACE M Storm Strike 2 WP  Botas de Senderismo para Hombre  Negro TNF Negro Ébano Gris Ca0  40 EU](https://www.amazon.es/dp/B07N99TP3J/?tag=tolees-21) a 39.66 EUR (original: 100.0 EUR) (60.34 %  de descuento) en el siguiente enlace!
 
-[![THE NORTH FACE M Storm Strike 2 WP  Bota](https://m.media-amazon.com/images/I/41JpMHqeTeL._SL200_.jpg)](https://www.amazon.es/dp/B07N99TP3J/?tag=tolees-21)
+[![THE NORTH FACE M Storm Strike 2 WP  Bota](https://m.media-amazon.com/images/I/41JpMHqeTeL._SL400_.jpg)](https://www.amazon.es/dp/B07N99TP3J/?tag=tolees-21)
 
 🔎:
 

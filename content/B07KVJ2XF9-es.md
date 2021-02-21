@@ -2,7 +2,7 @@
 layout: post
 title: 'Frozen 2 Anna & Kristoff Couple Set al 72.13 % de rebaja'
 date: 2020-09-05 13:12:19
-image: 'https://m.media-amazon.com/images/I/519G1xUmIwL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/519G1xUmIwL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.547500000000003'
 
 Tienes [Frozen 2 Anna & Kristoff Couple Set](https://www.amazon.es/dp/B07KVJ2XF9/?tag=tolees-21) con precio final de  22.29 EUR (original: 79.99 EUR) (72.13 %  de rebaja) aqui!
 
-[![Frozen 2 Anna & Kristoff Couple Set](https://m.media-amazon.com/images/I/519G1xUmIwL._SL200_.jpg)](https://www.amazon.es/dp/B07KVJ2XF9/?tag=tolees-21)
+[![Frozen 2 Anna & Kristoff Couple Set](https://m.media-amazon.com/images/I/519G1xUmIwL._SL400_.jpg)](https://www.amazon.es/dp/B07KVJ2XF9/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Columbia MARAGAL WP  Botas Casual para M al 76.15 % de descuento'
 date: 2020-05-06 16:07:19
-image: 'https://m.media-amazon.com/images/I/41Q3K9D1e5L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Q3K9D1e5L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '28.62'
 
 Está [Columbia MARAGAL WP  Botas Casual para Mujer  Marrón  Espresso MHW  L   36 1/2 EU](https://www.amazon.es/dp/B07JHWD86R/?tag=tolees-21) con 76.15 de descuento por 28.62 EUR (original: 119.99 EUR) en el siguiente enlace!
 
-[![Columbia MARAGAL WP  Botas Casual para M](https://m.media-amazon.com/images/I/41Q3K9D1e5L._SL200_.jpg)](https://www.amazon.es/dp/B07JHWD86R/?tag=tolees-21)
+[![Columbia MARAGAL WP  Botas Casual para M](https://m.media-amazon.com/images/I/41Q3K9D1e5L._SL400_.jpg)](https://www.amazon.es/dp/B07JHWD86R/?tag=tolees-21)
 
 ℹ️:
 

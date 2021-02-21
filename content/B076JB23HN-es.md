@@ -2,7 +2,7 @@
 layout: post
 title: 'Panama Jack Capri Cork  Sandalia con Pul con un 59.72 % de descuento'
 date: 2020-04-19 08:56:18
-image: 'https://m.media-amazon.com/images/I/41Na+4esSXL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Na+4esSXL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '39.88'
 
 En este momento está [Panama Jack Capri Cork  Sandalia con Pulsera para Mujer  Rojo  Rojo B1   40 EU](https://www.amazon.es/dp/B076JB23HN/?tag=tolees-21) a 39.88 EUR (original: 99.0 EUR) (59.72 %  de descuento) en el siguiente enlace!
 
-[![Panama Jack Capri Cork  Sandalia con Pul](https://m.media-amazon.com/images/I/41Na+4esSXL._SL200_.jpg)](https://www.amazon.es/dp/B076JB23HN/?tag=tolees-21)
+[![Panama Jack Capri Cork  Sandalia con Pul](https://m.media-amazon.com/images/I/41Na+4esSXL._SL400_.jpg)](https://www.amazon.es/dp/B076JB23HN/?tag=tolees-21)
 
 🔎:
 

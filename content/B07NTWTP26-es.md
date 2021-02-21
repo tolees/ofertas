@@ -2,7 +2,7 @@
 layout: post
 title: 'Skechers Men s Ultra Flex 2.0 KELMER Tra al 40.82 % de descuento'
 date: 2020-07-20 17:42:03
-image: 'https://m.media-amazon.com/images/I/31hEG722-fL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31hEG722-fL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '38.33166666666666'
 
 Está [Skechers Men s Ultra Flex 2.0 KELMER Trainers  Blue  Black Engineered Mesh/Synthetic/Gray Trim Bkgy   10  45 EU ](https://www.amazon.es/dp/B07NTWTP26/?tag=tolees-21) con 40.82 de descuento por 38.44 EUR (original: 64.95 EUR) en el siguiente enlace!
 
-[![Skechers Men s Ultra Flex 2.0 KELMER Tra](https://m.media-amazon.com/images/I/31hEG722-fL._SL200_.jpg)](https://www.amazon.es/dp/B07NTWTP26/?tag=tolees-21)
+[![Skechers Men s Ultra Flex 2.0 KELMER Tra](https://m.media-amazon.com/images/I/31hEG722-fL._SL400_.jpg)](https://www.amazon.es/dp/B07NTWTP26/?tag=tolees-21)
 
 ℹ️:
 

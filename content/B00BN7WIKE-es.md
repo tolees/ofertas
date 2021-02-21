@@ -2,7 +2,7 @@
 layout: post
 title: 'Giorgi - Gel Fijador No. 3 - Perfect Fix al 45.60 % de descuento'
 date: 2020-04-20 15:31:20
-image: 'https://m.media-amazon.com/images/I/31YUVzyvePL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31YUVzyvePL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.1950000000000003'
 
 Ahora mismo tienes [Giorgi - Gel Fijador No. 3 - Perfect Fix 24h - 150 ml](https://www.amazon.es/dp/B00BN7WIKE/?tag=tolees-21) a 2.35 EUR (original: 4.32 EUR) (45.60 %  de descuento) en el siguiente enlace!
 
-[![Giorgi - Gel Fijador No. 3 - Perfect Fix](https://m.media-amazon.com/images/I/31YUVzyvePL._SL200_.jpg)](https://www.amazon.es/dp/B00BN7WIKE/?tag=tolees-21)
+[![Giorgi - Gel Fijador No. 3 - Perfect Fix](https://m.media-amazon.com/images/I/31YUVzyvePL._SL400_.jpg)](https://www.amazon.es/dp/B00BN7WIKE/?tag=tolees-21)
 
 🔎:
 

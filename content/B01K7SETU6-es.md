@@ -2,7 +2,7 @@
 layout: post
 title: 'Pantene Pro-V Perfect Volume Espuma Lige al 70.93 % de descuento'
 date: 2020-06-08 10:05:05
-image: 'https://m.media-amazon.com/images/I/310lVTosvLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/310lVTosvLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.0'
 
 Está [Pantene Pro-V Perfect Volume Espuma Ligera Nivel de Fijación 3 - 25 cl](https://www.amazon.es/dp/B01K7SETU6/?tag=tolees-21) con 70.93 de descuento por 1.0 EUR (original: 3.44 EUR) en el siguiente enlace!
 
-[![Pantene Pro-V Perfect Volume Espuma Lige](https://m.media-amazon.com/images/I/310lVTosvLL._SL200_.jpg)](https://www.amazon.es/dp/B01K7SETU6/?tag=tolees-21)
+[![Pantene Pro-V Perfect Volume Espuma Lige](https://m.media-amazon.com/images/I/310lVTosvLL._SL400_.jpg)](https://www.amazon.es/dp/B01K7SETU6/?tag=tolees-21)
 
 ℹ️:
 

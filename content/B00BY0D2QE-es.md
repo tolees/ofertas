@@ -2,7 +2,7 @@
 layout: post
 title: 'L Oreal Majirel 6.1   Color Rubio Oscuro al 29.78 % de descuento'
 date: 2020-09-05 14:53:03
-image: 'https://m.media-amazon.com/images/I/21LfA85tm8L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21LfA85tm8L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.2'
 
 Ahora mismo tienes [L Oreal Majirel 6.1   Color Rubio Oscuro Ceniza - 50 ml](https://www.amazon.es/dp/B00BY0D2QE/?tag=tolees-21) a 11.2 EUR (original: 15.95 EUR) (29.78 %  de descuento) en el siguiente enlace!
 
-[![L Oreal Majirel 6.1   Color Rubio Oscuro](https://m.media-amazon.com/images/I/21LfA85tm8L._SL200_.jpg)](https://www.amazon.es/dp/B00BY0D2QE/?tag=tolees-21)
+[![L Oreal Majirel 6.1   Color Rubio Oscuro](https://m.media-amazon.com/images/I/21LfA85tm8L._SL400_.jpg)](https://www.amazon.es/dp/B00BY0D2QE/?tag=tolees-21)
 
 🔎:
 

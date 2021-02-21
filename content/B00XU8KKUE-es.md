@@ -2,7 +2,7 @@
 layout: post
 title: 'Burberry My Burberry Edt Vapo 90 Ml 1 Un con un 48.01 % de descuento'
 date: 2020-02-09 20:34:14
-image: 'https://m.media-amazon.com/images/I/31VzPsWgp-L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31VzPsWgp-L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '50.95'
 
 En este momento está [Burberry My Burberry Edt Vapo 90 Ml 1 Unidad 90 g](https://www.amazon.es/dp/B00XU8KKUE/?tag=tolees-21) a 51.99 EUR (original: 100.0 EUR) (48.01 %  de descuento) en el siguiente enlace!
 
-[![Burberry My Burberry Edt Vapo 90 Ml 1 Un](https://m.media-amazon.com/images/I/31VzPsWgp-L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B00XU8KKUE/?tag=tolees-21)
+[![Burberry My Burberry Edt Vapo 90 Ml 1 Un](https://m.media-amazon.com/images/I/31VzPsWgp-L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B00XU8KKUE/?tag=tolees-21)
 
 🔎:
 

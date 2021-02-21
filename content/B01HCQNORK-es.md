@@ -2,7 +2,7 @@
 layout: post
 title: 'Reebok Royal Cl Jog 2l  Zapatillas para  al 25.56 % de descuento'
 date: 2020-01-08 14:28:10
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31OV34or6lL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31OV34or6lL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '28.965'
 
 Está [Reebok Royal Cl Jog 2l  Zapatillas para Hombre  Blanco  Collegiate Navy 0   47 EU](https://www.amazon.es/dp/B01HCQNORK/?tag=tolees-21) con 25.56 de descuento por 33.46 EUR (original: 44.95 EUR) en el siguiente enlace!
 
-[![Reebok Royal Cl Jog 2l  Zapatillas para ](https://images-eu.ssl-images-amazon.com/images/I/31OV34or6lL._SL200_.jpg)](https://www.amazon.es/dp/B01HCQNORK/?tag=tolees-21)
+[![Reebok Royal Cl Jog 2l  Zapatillas para ](https://images-eu.ssl-images-amazon.com/images/I/31OV34or6lL._SL400_.jpg)](https://www.amazon.es/dp/B01HCQNORK/?tag=tolees-21)
 
 ℹ️:
 

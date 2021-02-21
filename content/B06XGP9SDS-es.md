@@ -2,7 +2,7 @@
 layout: post
 title: 'Stranger Things Llavero de Vinilo Demogo al 35.74 % de rebaja'
 date: 2020-08-18 13:33:04
-image: 'https://m.media-amazon.com/images/I/617gxPea2qL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/617gxPea2qL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.430000000000001'
 
 Tienes [Stranger Things Llavero de Vinilo Demogorgon Open Face  Multicolor  Funko 14228 ](https://www.amazon.es/dp/B06XGP9SDS/?tag=tolees-21) con precio final de  8.99 EUR (original: 13.99 EUR) (35.74 %  de rebaja) aqui!
 
-[![Stranger Things Llavero de Vinilo Demogo](https://m.media-amazon.com/images/I/617gxPea2qL._SL200_.jpg)](https://www.amazon.es/dp/B06XGP9SDS/?tag=tolees-21)
+[![Stranger Things Llavero de Vinilo Demogo](https://m.media-amazon.com/images/I/617gxPea2qL._SL400_.jpg)](https://www.amazon.es/dp/B06XGP9SDS/?tag=tolees-21)
 
 🔎:
 

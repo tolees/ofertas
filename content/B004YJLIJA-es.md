@@ -2,7 +2,7 @@
 layout: post
 title: 'K&N SU-4007 Filtro de Aire Moto al 37.98 % de rebaja'
 date: 2020-05-27 08:43:32
-image: 'https://m.media-amazon.com/images/I/41pHkU3gkkL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41pHkU3gkkL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '52.375'
 
 Tienes [K&N SU-4007 Filtro de Aire Moto](https://www.amazon.es/dp/B004YJLIJA/?tag=tolees-21) con precio final de  54.14 EUR (original: 87.3 EUR) (37.98 %  de rebaja) aqui!
 
-[![K&N SU-4007 Filtro de Aire Moto](https://m.media-amazon.com/images/I/41pHkU3gkkL._SL200_.jpg)](https://www.amazon.es/dp/B004YJLIJA/?tag=tolees-21)
+[![K&N SU-4007 Filtro de Aire Moto](https://m.media-amazon.com/images/I/41pHkU3gkkL._SL400_.jpg)](https://www.amazon.es/dp/B004YJLIJA/?tag=tolees-21)
 
 🔎:
 

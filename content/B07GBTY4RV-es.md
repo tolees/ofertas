@@ -2,7 +2,7 @@
 layout: post
 title: 'Cadena de luces exterior  luz cadena Bom al 35.02 % de rebaja'
 date: 2020-01-15 12:44:09
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51LBeJitMyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51LBeJitMyL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.99'
 
 Tienes [Cadena de luces exterior  luz cadena Bombillas exterior  versión mejorada Luz Jardín  resistente al agua](https://www.amazon.es/dp/B07GBTY4RV/?tag=tolees-21) con precio final de  12.99 EUR (original: 19.99 EUR) (35.02 %  de rebaja) aqui!
 
-[![Cadena de luces exterior  luz cadena Bom](https://images-eu.ssl-images-amazon.com/images/I/51LBeJitMyL._SL200_.jpg)](https://www.amazon.es/dp/B07GBTY4RV/?tag=tolees-21)
+[![Cadena de luces exterior  luz cadena Bom](https://images-eu.ssl-images-amazon.com/images/I/51LBeJitMyL._SL400_.jpg)](https://www.amazon.es/dp/B07GBTY4RV/?tag=tolees-21)
 
 🔎:
 

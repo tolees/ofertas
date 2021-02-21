@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 32.63 % en Crucial MX300 CT275MX300SSD1 - Disco Dur'
 date: 2020-08-07 22:00:15
-image: 'https://m.media-amazon.com/images/I/51YndxZLJmL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51YndxZLJmL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '63.05'
 
 Tienes [Crucial MX300 CT275MX300SSD1 - Disco Duro sólido Interno SSD de 275 GB  3D NAND  SATA  2.5 Pulgadas ](https://www.amazon.es/dp/B01IAGSD5O/?tag=tolees-21) con un 32.63 % de descuento con precio de oferta de 63.05 EUR (original: 93.59 EUR) en el siguiente enlace!
 
-[![Crucial MX300 CT275MX300SSD1 - Disco Dur](https://m.media-amazon.com/images/I/51YndxZLJmL._SL200_.jpg)](https://www.amazon.es/dp/B01IAGSD5O/?tag=tolees-21)
+[![Crucial MX300 CT275MX300SSD1 - Disco Dur](https://m.media-amazon.com/images/I/51YndxZLJmL._SL400_.jpg)](https://www.amazon.es/dp/B01IAGSD5O/?tag=tolees-21)
 
 ℹ️:
 

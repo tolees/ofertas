@@ -2,7 +2,7 @@
 layout: post
 title: 'New Balance 247v2  Entrenadores para Muj al 50.00 % de descuento'
 date: 2020-06-17 16:09:51
-image: 'https://m.media-amazon.com/images/I/41jgcXWqktL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41jgcXWqktL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '55.2'
 
 Ahora mismo tienes [New Balance 247v2  Entrenadores para Mujer  Rosa  Birch Birch   43 EU](https://www.amazon.es/dp/B07DVHVNTD/?tag=tolees-21) a 45.0 EUR (original: 90.0 EUR) (50.00 %  de descuento) en el siguiente enlace!
 
-[![New Balance 247v2  Entrenadores para Muj](https://m.media-amazon.com/images/I/41jgcXWqktL._SL200_.jpg)](https://www.amazon.es/dp/B07DVHVNTD/?tag=tolees-21)
+[![New Balance 247v2  Entrenadores para Muj](https://m.media-amazon.com/images/I/41jgcXWqktL._SL400_.jpg)](https://www.amazon.es/dp/B07DVHVNTD/?tag=tolees-21)
 
 🔎:
 

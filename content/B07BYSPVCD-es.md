@@ -2,7 +2,7 @@
 layout: post
 title: 'GRÜNTEK Tijera Cortasetos de dos manos L al 32.26 % de descuento'
 date: 2020-01-28 12:43:55
-image: 'https://m.media-amazon.com/images/I/41e8QhdAE3L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41e8QhdAE3L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.9'
 
 Ahora mismo tienes [GRÜNTEK Tijera Cortasetos de dos manos LEOPARD 540 mm. Cortarramas y yunque con corte Bypass  Hoja en acer 78mm. Tijeras de podar jadín lígera y poderosa. Garantia a 90 días](https://www.amazon.es/dp/B07BYSPVCD/?tag=tolees-21) a 16.9 EUR (original: 24.95 EUR) (32.26 %  de descuento) en el siguiente enlace!
 
-[![GRÜNTEK Tijera Cortasetos de dos manos L](https://m.media-amazon.com/images/I/41e8QhdAE3L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07BYSPVCD/?tag=tolees-21)
+[![GRÜNTEK Tijera Cortasetos de dos manos L](https://m.media-amazon.com/images/I/41e8QhdAE3L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07BYSPVCD/?tag=tolees-21)
 
 🔎:
 

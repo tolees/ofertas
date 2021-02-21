@@ -2,7 +2,7 @@
 layout: post
 title: 'Nike Pico 5 TDV  Zapatillas Unisex Niños al 50.17 % de descuento'
 date: 2020-08-02 12:10:41
-image: 'https://m.media-amazon.com/images/I/41OHVWgRd6L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41OHVWgRd6L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.95'
 
 Ahora mismo tienes [Nike Pico 5 TDV  Zapatillas Unisex Niños  Multicolor  Platinum Tint/White-Active Fuchsia   26 EU](https://www.amazon.es/dp/B07VN8T2MV/?tag=tolees-21) a 12.95 EUR (original: 25.99 EUR) (50.17 %  de descuento) en el siguiente enlace!
 
-[![Nike Pico 5 TDV  Zapatillas Unisex Niños](https://m.media-amazon.com/images/I/41OHVWgRd6L._SL200_.jpg)](https://www.amazon.es/dp/B07VN8T2MV/?tag=tolees-21)
+[![Nike Pico 5 TDV  Zapatillas Unisex Niños](https://m.media-amazon.com/images/I/41OHVWgRd6L._SL400_.jpg)](https://www.amazon.es/dp/B07VN8T2MV/?tag=tolees-21)
 
 🔎:
 

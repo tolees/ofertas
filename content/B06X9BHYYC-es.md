@@ -2,7 +2,7 @@
 layout: post
 title: 'find.  Zapatillas con Plataforma Mujer   al 53.80 % de rebaja'
 date: 2020-09-29 12:02:00
-image: 'https://m.media-amazon.com/images/I/41x2Y8feTqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41x2Y8feTqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.609999999999999'
 
 Tienes [find.  Zapatillas con Plataforma Mujer  Azul  Light Blue   40 EU](https://www.amazon.es/dp/B06X9BHYYC/?tag=tolees-21) con precio final de  6.26 EUR (original: 13.55 EUR) (53.80 %  de rebaja) aqui!
 
-[![find.  Zapatillas con Plataforma Mujer  ](https://m.media-amazon.com/images/I/41x2Y8feTqL._SL200_.jpg)](https://www.amazon.es/dp/B06X9BHYYC/?tag=tolees-21)
+[![find.  Zapatillas con Plataforma Mujer  ](https://m.media-amazon.com/images/I/41x2Y8feTqL._SL400_.jpg)](https://www.amazon.es/dp/B06X9BHYYC/?tag=tolees-21)
 
 🔎:
 

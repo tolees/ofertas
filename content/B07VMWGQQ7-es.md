@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger AILA Slim Polo SS  Azul   al 48.33 % de descuento'
 date: 2020-09-08 12:48:53
-image: 'https://m.media-amazon.com/images/I/31nFBOMzRrL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31nFBOMzRrL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '39.0'
 
 Ahora mismo tienes [Tommy Hilfiger AILA Slim Polo SS  Azul  Desert Sky Dw5   40  Talla del Fabricante: Large  para Mujer](https://www.amazon.es/dp/B07VMWGQQ7/?tag=tolees-21) a 39.0 EUR (original: 75.48 EUR) (48.33 %  de descuento) en el siguiente enlace!
 
-[![Tommy Hilfiger AILA Slim Polo SS  Azul  ](https://m.media-amazon.com/images/I/31nFBOMzRrL._SL200_.jpg)](https://www.amazon.es/dp/B07VMWGQQ7/?tag=tolees-21)
+[![Tommy Hilfiger AILA Slim Polo SS  Azul  ](https://m.media-amazon.com/images/I/31nFBOMzRrL._SL400_.jpg)](https://www.amazon.es/dp/B07VMWGQQ7/?tag=tolees-21)
 
 🔎:
 

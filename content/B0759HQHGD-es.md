@@ -2,7 +2,7 @@
 layout: post
 title: 'Funko Pop!- Rick & Morty Jerry Figura de al 28.97 % de rebaja'
 date: 2020-07-07 08:44:22
-image: 'https://m.media-amazon.com/images/I/31ZD3yGrfZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31ZD3yGrfZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.98'
 
 Tienes [Funko Pop!- Rick & Morty Jerry Figura de Vinilo  22962 ](https://www.amazon.es/dp/B0759HQHGD/?tag=tolees-21) con precio final de  9.98 EUR (original: 14.05 EUR) (28.97 %  de rebaja) aqui!
 
-[![Funko Pop!- Rick & Morty Jerry Figura de](https://m.media-amazon.com/images/I/31ZD3yGrfZL._SL200_.jpg)](https://www.amazon.es/dp/B0759HQHGD/?tag=tolees-21)
+[![Funko Pop!- Rick & Morty Jerry Figura de](https://m.media-amazon.com/images/I/31ZD3yGrfZL._SL400_.jpg)](https://www.amazon.es/dp/B0759HQHGD/?tag=tolees-21)
 
 🔎:
 

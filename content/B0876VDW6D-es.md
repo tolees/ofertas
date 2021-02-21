@@ -2,7 +2,7 @@
 layout: post
 title: 'Disco Duro Externo 2 TB  klfjskldjflksjd al 73.08 % de descuento'
 date: 2020-05-25 16:32:20
-image: 'https://m.media-amazon.com/images/I/416GufChIhL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/416GufChIhL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '69.99'
 
 Está [Disco Duro Externo 2 TB  klfjskldjflksjdkfd. 2TB Negro ](https://www.amazon.es/dp/B0876VDW6D/?tag=tolees-21) con 73.08 de descuento por 69.99 EUR (original: 260.0 EUR) en el siguiente enlace!
 
-[![Disco Duro Externo 2 TB  klfjskldjflksjd](https://m.media-amazon.com/images/I/416GufChIhL._SL200_.jpg)](https://www.amazon.es/dp/B0876VDW6D/?tag=tolees-21)
+[![Disco Duro Externo 2 TB  klfjskldjflksjd](https://m.media-amazon.com/images/I/416GufChIhL._SL400_.jpg)](https://www.amazon.es/dp/B0876VDW6D/?tag=tolees-21)
 
 ℹ️:
 

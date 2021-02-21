@@ -2,7 +2,7 @@
 layout: post
 title: 'Objetivo Olympus M.Zuiko Digital ED 300  con un 68.45 % de descuento'
 date: 2020-06-21 20:20:50
-image: 'https://m.media-amazon.com/images/I/31qHQHNXDDL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31qHQHNXDDL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1602.9362499999997'
 
 En este momento está [Objetivo Olympus M.Zuiko Digital ED 300 mm F4.0 Pro  teleobjetivo  Adecuado para Todas Las cámaras MFT  Modelos Olympus OM-D & Pen  Serie G de Panasonic   Negro](https://www.amazon.es/dp/B019MYY38O/?tag=tolees-21) a 820.0 EUR (original: 2599.0 EUR) (68.45 %  de descuento) en el siguiente enlace!
 
-[![Objetivo Olympus M.Zuiko Digital ED 300 ](https://m.media-amazon.com/images/I/31qHQHNXDDL._SL200_.jpg)](https://www.amazon.es/dp/B019MYY38O/?tag=tolees-21)
+[![Objetivo Olympus M.Zuiko Digital ED 300 ](https://m.media-amazon.com/images/I/31qHQHNXDDL._SL400_.jpg)](https://www.amazon.es/dp/B019MYY38O/?tag=tolees-21)
 
 🔎:
 

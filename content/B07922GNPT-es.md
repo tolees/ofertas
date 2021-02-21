@@ -2,7 +2,7 @@
 layout: post
 title: 'Mini Surveillance Cámara Portable HD CAM al 47.52 % de descuento'
 date: 2020-04-14 09:26:48
-image: 'https://m.media-amazon.com/images/I/41C3hkhs+rL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41C3hkhs+rL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '26.24'
 
 Ahora mismo tienes [Mini Surveillance Cámara Portable HD CAM Espía HD 1080P Espía Cámara Oculta Portátil Interior Cámara Espía con Detectores de Movimiento  Visión Nocturna por Infrar Rojos Vigilancia](https://www.amazon.es/dp/B07922GNPT/?tag=tolees-21) a 26.49 EUR (original: 50.48 EUR) (47.52 %  de descuento) en el siguiente enlace!
 
-[![Mini Surveillance Cámara Portable HD CAM](https://m.media-amazon.com/images/I/41C3hkhs+rL._SL200_.jpg)](https://www.amazon.es/dp/B07922GNPT/?tag=tolees-21)
+[![Mini Surveillance Cámara Portable HD CAM](https://m.media-amazon.com/images/I/41C3hkhs+rL._SL400_.jpg)](https://www.amazon.es/dp/B07922GNPT/?tag=tolees-21)
 
 🔎:
 

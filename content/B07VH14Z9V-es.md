@@ -2,7 +2,7 @@
 layout: post
 title: 'Pepe Jeans Kenton Sport  Zapatillas para al 40.02 % de rebaja'
 date: 2020-06-26 16:14:05
-image: 'https://m.media-amazon.com/images/I/31aVjhwQE5L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31aVjhwQE5L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '38.99'
 
 Tienes [Pepe Jeans Kenton Sport  Zapatillas para Hombre  Azul Marino 595  43 EU](https://www.amazon.es/dp/B07VH14Z9V/?tag=tolees-21) con precio final de  38.99 EUR (original: 65.0 EUR) (40.02 %  de rebaja) aqui!
 
-[![Pepe Jeans Kenton Sport  Zapatillas para](https://m.media-amazon.com/images/I/31aVjhwQE5L._SL200_.jpg)](https://www.amazon.es/dp/B07VH14Z9V/?tag=tolees-21)
+[![Pepe Jeans Kenton Sport  Zapatillas para](https://m.media-amazon.com/images/I/31aVjhwQE5L._SL400_.jpg)](https://www.amazon.es/dp/B07VH14Z9V/?tag=tolees-21)
 
 🔎:
 

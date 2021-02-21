@@ -2,7 +2,7 @@
 layout: post
 title: 'BRIKSMAX Kit de Iluminación Led para Leg al 56.61 % de descuento'
 date: 2020-03-20 13:25:41
-image: 'https://m.media-amazon.com/images/I/51Ss13zbO4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Ss13zbO4L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '22.99'
 
 Está [BRIKSMAX Kit de Iluminación Led para Lego Hidden Side Camaronero Encallado Compatible con Ladrillos de Construcción Lego Modelo 70419  Juego de Legos no Incluido](https://www.amazon.es/dp/B081RCFQFQ/?tag=tolees-21) con 56.61 de descuento por 22.99 EUR (original: 52.99 EUR) en el siguiente enlace!
 
-[![BRIKSMAX Kit de Iluminación Led para Leg](https://m.media-amazon.com/images/I/51Ss13zbO4L._SL200_.jpg)](https://www.amazon.es/dp/B081RCFQFQ/?tag=tolees-21)
+[![BRIKSMAX Kit de Iluminación Led para Leg](https://m.media-amazon.com/images/I/51Ss13zbO4L._SL400_.jpg)](https://www.amazon.es/dp/B081RCFQFQ/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'DAEN Crema Depilatoria 1 Unidad 430 g al 41.42 % de descuento'
 date: 2020-02-18 16:48:29
-image: 'https://m.media-amazon.com/images/I/414HlZf1dhL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/414HlZf1dhL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.78'
 
 Ahora mismo tienes [DAEN Crema Depilatoria 1 Unidad 430 g](https://www.amazon.es/dp/B01GQ1Y7AU/?tag=tolees-21) a 7.78 EUR (original: 13.28 EUR) (41.42 %  de descuento) en el siguiente enlace!
 
-[![DAEN Crema Depilatoria 1 Unidad 430 g](https://m.media-amazon.com/images/I/414HlZf1dhL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01GQ1Y7AU/?tag=tolees-21)
+[![DAEN Crema Depilatoria 1 Unidad 430 g](https://m.media-amazon.com/images/I/414HlZf1dhL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01GQ1Y7AU/?tag=tolees-21)
 
 🔎:
 

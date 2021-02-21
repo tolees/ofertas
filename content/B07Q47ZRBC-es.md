@@ -2,7 +2,7 @@
 layout: post
 title: 'Black Hawk derribado  4K UHD + BD  [Blu- al 47.94 % de descuento'
 date: 2020-05-23 15:03:50
-image: 'https://m.media-amazon.com/images/I/51jUEQu-6VL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51jUEQu-6VL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.2275'
 
 Ahora mismo tienes [Black Hawk derribado  4K UHD + BD  [Blu-ray]](https://www.amazon.es/dp/B07Q47ZRBC/?tag=tolees-21) a 12.99 EUR (original: 24.95 EUR) (47.94 %  de descuento) en el siguiente enlace!
 
-[![Black Hawk derribado  4K UHD + BD  [Blu-](https://m.media-amazon.com/images/I/51jUEQu-6VL._SL200_.jpg)](https://www.amazon.es/dp/B07Q47ZRBC/?tag=tolees-21)
+[![Black Hawk derribado  4K UHD + BD  [Blu-](https://m.media-amazon.com/images/I/51jUEQu-6VL._SL400_.jpg)](https://www.amazon.es/dp/B07Q47ZRBC/?tag=tolees-21)
 
 🔎:
 

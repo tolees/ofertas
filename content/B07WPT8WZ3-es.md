@@ -2,7 +2,7 @@
 layout: post
 title: 'Weehey Báscula de Cocina eléctrica preci con un 39.23 % de descuento'
 date: 2020-06-08 12:07:06
-image: 'https://m.media-amazon.com/images/I/41tSdnYtCjL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41tSdnYtCjL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.97'
 
 En este momento está [Weehey Báscula de Cocina eléctrica precisa de 5 kg / 1g Báscula de Cocina de Alta precisión Báscula electrónica de Plataforma pequeña Báscula de Alimentos](https://www.amazon.es/dp/B07WPT8WZ3/?tag=tolees-21) a 13.97 EUR (original: 22.99 EUR) (39.23 %  de descuento) en el siguiente enlace!
 
-[![Weehey Báscula de Cocina eléctrica preci](https://m.media-amazon.com/images/I/41tSdnYtCjL._SL200_.jpg)](https://www.amazon.es/dp/B07WPT8WZ3/?tag=tolees-21)
+[![Weehey Báscula de Cocina eléctrica preci](https://m.media-amazon.com/images/I/41tSdnYtCjL._SL400_.jpg)](https://www.amazon.es/dp/B07WPT8WZ3/?tag=tolees-21)
 
 🔎:
 

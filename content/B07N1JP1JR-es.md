@@ -2,7 +2,7 @@
 layout: post
 title: 'Clarks Griffin Plaza  Botas Chelsea para al 61.70 % de descuento'
 date: 2020-09-21 01:31:28
-image: 'https://m.media-amazon.com/images/I/41gAtC9ccaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41gAtC9ccaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '22.917'
 
 Está [Clarks Griffin Plaza  Botas Chelsea para Mujer  Gris Pardo de Serpiente  39.5 EU](https://www.amazon.es/dp/B07N1JP1JR/?tag=tolees-21) con 61.70 de descuento por 26.79 EUR (original: 69.95 EUR) en el siguiente enlace!
 
-[![Clarks Griffin Plaza  Botas Chelsea para](https://m.media-amazon.com/images/I/41gAtC9ccaL._SL200_.jpg)](https://www.amazon.es/dp/B07N1JP1JR/?tag=tolees-21)
+[![Clarks Griffin Plaza  Botas Chelsea para](https://m.media-amazon.com/images/I/41gAtC9ccaL._SL400_.jpg)](https://www.amazon.es/dp/B07N1JP1JR/?tag=tolees-21)
 
 ℹ️:
 

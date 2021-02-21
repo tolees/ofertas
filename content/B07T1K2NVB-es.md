@@ -2,7 +2,7 @@
 layout: post
 title: 'San Ignacio Q2956 Cuchillo multiusos 12. al 46.19 % de descuento'
 date: 2020-02-14 11:29:26
-image: 'https://m.media-amazon.com/images/I/31nX4k5bDwL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31nX4k5bDwL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.99'
 
 Ahora mismo tienes [San Ignacio Q2956 Cuchillo multiusos 12.5cm acer inox TOLEDO  Inoxidable](https://www.amazon.es/dp/B07T1K2NVB/?tag=tolees-21) a 6.99 EUR (original: 12.99 EUR) (46.19 %  de descuento) en el siguiente enlace!
 
-[![San Ignacio Q2956 Cuchillo multiusos 12.](https://m.media-amazon.com/images/I/31nX4k5bDwL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07T1K2NVB/?tag=tolees-21)
+[![San Ignacio Q2956 Cuchillo multiusos 12.](https://m.media-amazon.com/images/I/31nX4k5bDwL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07T1K2NVB/?tag=tolees-21)
 
 🔎:
 

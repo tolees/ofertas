@@ -2,7 +2,7 @@
 layout: post
 title: 'K-Swiss Court Winston  Zapatillas para H al 35.09 % de rebaja'
 date: 2020-06-01 19:09:40
-image: 'https://m.media-amazon.com/images/I/31zoysY8GOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31zoysY8GOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '32.45'
 
 Tienes [K-Swiss Court Winston  Zapatillas para Hombre  Blanco  White/Vapor Blue 142   44.5 EU](https://www.amazon.es/dp/B07TPXW9S4/?tag=tolees-21) con precio final de  32.45 EUR (original: 49.99 EUR) (35.09 %  de rebaja) aqui!
 
-[![K-Swiss Court Winston  Zapatillas para H](https://m.media-amazon.com/images/I/31zoysY8GOL._SL200_.jpg)](https://www.amazon.es/dp/B07TPXW9S4/?tag=tolees-21)
+[![K-Swiss Court Winston  Zapatillas para H](https://m.media-amazon.com/images/I/31zoysY8GOL._SL400_.jpg)](https://www.amazon.es/dp/B07TPXW9S4/?tag=tolees-21)
 
 🔎:
 

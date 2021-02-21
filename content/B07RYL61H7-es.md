@@ -2,7 +2,7 @@
 layout: post
 title: 'New Balance 373v2  Zapatillas para Hombr al 40.02 % de descuento'
 date: 2020-02-08 19:10:14
-image: 'https://m.media-amazon.com/images/I/41pC7BrbKkL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41pC7BrbKkL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '47.98'
 
 Ahora mismo tienes [New Balance 373v2  Zapatillas para Hombre  Marfil  Off AC   44.5 EU](https://www.amazon.es/dp/B07RYL61H7/?tag=tolees-21) a 47.98 EUR (original: 80.0 EUR) (40.02 %  de descuento) en el siguiente enlace!
 
-[![New Balance 373v2  Zapatillas para Hombr](https://m.media-amazon.com/images/I/41pC7BrbKkL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07RYL61H7/?tag=tolees-21)
+[![New Balance 373v2  Zapatillas para Hombr](https://m.media-amazon.com/images/I/41pC7BrbKkL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07RYL61H7/?tag=tolees-21)
 
 🔎:
 

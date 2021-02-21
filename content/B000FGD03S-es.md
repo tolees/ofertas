@@ -2,7 +2,7 @@
 layout: post
 title: 'K&N KN-185 Filro the Aceite Moto con un 43.12 % de descuento'
 date: 2020-05-26 06:24:43
-image: 'https://m.media-amazon.com/images/I/51VEKYVRqTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51VEKYVRqTL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.91'
 
 En este momento está [K&N KN-185 Filro the Aceite Moto](https://www.amazon.es/dp/B000FGD03S/?tag=tolees-21) a 5.91 EUR (original: 10.39 EUR) (43.12 %  de descuento) en el siguiente enlace!
 
-[![K&N KN-185 Filro the Aceite Moto](https://m.media-amazon.com/images/I/51VEKYVRqTL._SL200_.jpg)](https://www.amazon.es/dp/B000FGD03S/?tag=tolees-21)
+[![K&N KN-185 Filro the Aceite Moto](https://m.media-amazon.com/images/I/51VEKYVRqTL._SL400_.jpg)](https://www.amazon.es/dp/B000FGD03S/?tag=tolees-21)
 
 🔎:
 

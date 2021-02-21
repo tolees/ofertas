@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 56.24 % en New Fashion Notebook Gift Box Creative R'
 date: 2020-04-14 16:55:34
-image: 'https://m.media-amazon.com/images/I/618QptCwPGL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/618QptCwPGL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.1'
 
 Tienes [New Fashion Notebook Gift Box Creative Resin Decoration Staionary Set Totoro Notebook and Pen One Piece Notebook Set for Collectors  Totoro set  by Jolly Girl](https://www.amazon.es/dp/B01N0LXNPL/?tag=tolees-21) con un 56.24 % de descuento con precio de oferta de 21.3 EUR (original: 48.68 EUR) en el siguiente enlace!
 
-[![New Fashion Notebook Gift Box Creative R](https://m.media-amazon.com/images/I/618QptCwPGL._SL200_.jpg)](https://www.amazon.es/dp/B01N0LXNPL/?tag=tolees-21)
+[![New Fashion Notebook Gift Box Creative R](https://m.media-amazon.com/images/I/618QptCwPGL._SL400_.jpg)](https://www.amazon.es/dp/B01N0LXNPL/?tag=tolees-21)
 
 ℹ️:
 

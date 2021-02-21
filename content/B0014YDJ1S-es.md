@@ -2,7 +2,7 @@
 layout: post
 title: 'Wilkinson Sword Extra 2 Sensitive - Bols al 33.89 % de descuento'
 date: 2020-09-11 06:52:07
-image: 'https://m.media-amazon.com/images/I/51e+abomSrL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51e+abomSrL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.99'
 
 Está [Wilkinson Sword Extra 2 Sensitive - Bolsa 20 Maquinillas de Afeitar Desechables para Pieles Sensibles](https://www.amazon.es/dp/B0014YDJ1S/?tag=tolees-21) con 33.89 de descuento por 5.99 EUR (original: 9.06 EUR) en el siguiente enlace!
 
-[![Wilkinson Sword Extra 2 Sensitive - Bols](https://m.media-amazon.com/images/I/51e+abomSrL._SL200_.jpg)](https://www.amazon.es/dp/B0014YDJ1S/?tag=tolees-21)
+[![Wilkinson Sword Extra 2 Sensitive - Bols](https://m.media-amazon.com/images/I/51e+abomSrL._SL400_.jpg)](https://www.amazon.es/dp/B0014YDJ1S/?tag=tolees-21)
 
 ℹ️:
 

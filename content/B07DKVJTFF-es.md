@@ -2,7 +2,7 @@
 layout: post
 title: 'Sebago Schooner  Náuticos para Hombre  A al 45.21 % de descuento'
 date: 2020-06-11 11:36:13
-image: 'https://m.media-amazon.com/images/I/31WfzdYDFIL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31WfzdYDFIL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '79.075'
 
 Ahora mismo tienes [Sebago Schooner  Náuticos para Hombre  Azul  Blue Navy/Gum 978   42 EU](https://www.amazon.es/dp/B07DKVJTFF/?tag=tolees-21) a 82.18 EUR (original: 150.0 EUR) (45.21 %  de descuento) en el siguiente enlace!
 
-[![Sebago Schooner  Náuticos para Hombre  A](https://m.media-amazon.com/images/I/31WfzdYDFIL._SL200_.jpg)](https://www.amazon.es/dp/B07DKVJTFF/?tag=tolees-21)
+[![Sebago Schooner  Náuticos para Hombre  A](https://m.media-amazon.com/images/I/31WfzdYDFIL._SL400_.jpg)](https://www.amazon.es/dp/B07DKVJTFF/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Keter -  Conjunto de jardín de 4 plazas  al 36.49 % de descuento'
 date: 2020-05-30 23:18:23
-image: 'https://m.media-amazon.com/images/I/41KOEFASZ9L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41KOEFASZ9L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '198.26666666666665'
 
 Ahora mismo tienes [Keter -  Conjunto de jardín de 4 plazas Corfu  Color marrón](https://www.amazon.es/dp/B00W1WDNR2/?tag=tolees-21) a 189.9 EUR (original: 299.0 EUR) (36.49 %  de descuento) en el siguiente enlace!
 
-[![Keter -  Conjunto de jardín de 4 plazas ](https://m.media-amazon.com/images/I/41KOEFASZ9L._SL200_.jpg)](https://www.amazon.es/dp/B00W1WDNR2/?tag=tolees-21)
+[![Keter -  Conjunto de jardín de 4 plazas ](https://m.media-amazon.com/images/I/41KOEFASZ9L._SL400_.jpg)](https://www.amazon.es/dp/B00W1WDNR2/?tag=tolees-21)
 
 🔎:
 

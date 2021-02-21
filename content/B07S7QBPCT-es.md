@@ -2,7 +2,7 @@
 layout: post
 title: 'PUMA RS 9.8 Grid  Zapatillas Unisex-Adul al 73.39 % de descuento'
 date: 2020-08-06 13:52:23
-image: 'https://m.media-amazon.com/images/I/31WLJYaanGL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31WLJYaanGL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.94'
 
 Ahora mismo tienes [PUMA RS 9.8 Grid  Zapatillas Unisex-Adulto  Blanco White White  42 EU](https://www.amazon.es/dp/B07S7QBPCT/?tag=tolees-21) a 23.94 EUR (original: 89.95 EUR) (73.39 %  de descuento) en el siguiente enlace!
 
-[![PUMA RS 9.8 Grid  Zapatillas Unisex-Adul](https://m.media-amazon.com/images/I/31WLJYaanGL._SL200_.jpg)](https://www.amazon.es/dp/B07S7QBPCT/?tag=tolees-21)
+[![PUMA RS 9.8 Grid  Zapatillas Unisex-Adul](https://m.media-amazon.com/images/I/31WLJYaanGL._SL400_.jpg)](https://www.amazon.es/dp/B07S7QBPCT/?tag=tolees-21)
 
 🔎:
 

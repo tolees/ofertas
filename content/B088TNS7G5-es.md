@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 42.13 % en IDEASY Tableta de Escritura LCD de 8.5 P'
 date: 2020-08-20 17:48:58
-image: 'https://m.media-amazon.com/images/I/51Xuuk4Vc9L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Xuuk4Vc9L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.99'
 
 Tienes [IDEASY Tableta de Escritura LCD de 8.5 Pulgadas  Tableta de Dibujo de un Solo Color  Tablero de Escritura LCD Electrónico para Niños  Escuela  el Hogar y la Oficina  Rosado ](https://www.amazon.es/dp/B088TNS7G5/?tag=tolees-21) con un 42.13 % de descuento con precio de oferta de 10.99 EUR (original: 18.99 EUR) en el siguiente enlace!
 
-[![IDEASY Tableta de Escritura LCD de 8.5 P](https://m.media-amazon.com/images/I/51Xuuk4Vc9L._SL200_.jpg)](https://www.amazon.es/dp/B088TNS7G5/?tag=tolees-21)
+[![IDEASY Tableta de Escritura LCD de 8.5 P](https://m.media-amazon.com/images/I/51Xuuk4Vc9L._SL400_.jpg)](https://www.amazon.es/dp/B088TNS7G5/?tag=tolees-21)
 
 ℹ️:
 

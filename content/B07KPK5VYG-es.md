@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 28.52 % en Pop! Vinilo: Fairy Tail S3: Gajeel'
 date: 2020-09-15 10:31:47
-image: 'https://m.media-amazon.com/images/I/41wmzaw9YlL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41wmzaw9YlL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.325'
 
 Tienes [Pop! Vinilo: Fairy Tail S3: Gajeel](https://www.amazon.es/dp/B07KPK5VYG/?tag=tolees-21) con un 28.52 % de descuento con precio de oferta de 10.0 EUR (original: 13.99 EUR) en el siguiente enlace!
 
-[![Pop! Vinilo: Fairy Tail S3: Gajeel](https://m.media-amazon.com/images/I/41wmzaw9YlL._SL200_.jpg)](https://www.amazon.es/dp/B07KPK5VYG/?tag=tolees-21)
+[![Pop! Vinilo: Fairy Tail S3: Gajeel](https://m.media-amazon.com/images/I/41wmzaw9YlL._SL400_.jpg)](https://www.amazon.es/dp/B07KPK5VYG/?tag=tolees-21)
 
 ℹ️:
 

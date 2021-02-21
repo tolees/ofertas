@@ -2,7 +2,7 @@
 layout: post
 title: 'NZXT Kraken X52 240 mm - Refrigerador lí al 26.80 % de descuento'
 date: 2020-07-07 12:16:18
-image: 'https://m.media-amazon.com/images/I/41rVvZf2yZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41rVvZf2yZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '109.0'
 
 Está [NZXT Kraken X52 240 mm - Refrigerador líquido de CPU RGB todo en uno - Con tecnología CAM - Bomba de alto rendimiento -  Ventilador de radiador Aer P 120 mm  se incluyen 2 ](https://www.amazon.es/dp/B06XYSVXYX/?tag=tolees-21) con 26.80 de descuento por 109.0 EUR (original: 148.9 EUR) en el siguiente enlace!
 
-[![NZXT Kraken X52 240 mm - Refrigerador lí](https://m.media-amazon.com/images/I/41rVvZf2yZL._SL200_.jpg)](https://www.amazon.es/dp/B06XYSVXYX/?tag=tolees-21)
+[![NZXT Kraken X52 240 mm - Refrigerador lí](https://m.media-amazon.com/images/I/41rVvZf2yZL._SL400_.jpg)](https://www.amazon.es/dp/B06XYSVXYX/?tag=tolees-21)
 
 ℹ️:
 

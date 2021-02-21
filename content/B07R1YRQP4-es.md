@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour Men s Train Spacer Mesh Gor al 50.12 % de rebaja'
 date: 2020-04-05 10:55:31
-image: 'https://m.media-amazon.com/images/I/513CFdjSHaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/513CFdjSHaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.97'
 
 Tienes [Under Armour Men s Train Spacer Mesh Gorra  Hombre  Gris  L/XL](https://www.amazon.es/dp/B07R1YRQP4/?tag=tolees-21) con precio final de  12.97 EUR (original: 26.0 EUR) (50.12 %  de rebaja) aqui!
 
-[![Under Armour Men s Train Spacer Mesh Gor](https://m.media-amazon.com/images/I/513CFdjSHaL._SL200_.jpg)](https://www.amazon.es/dp/B07R1YRQP4/?tag=tolees-21)
+[![Under Armour Men s Train Spacer Mesh Gor](https://m.media-amazon.com/images/I/513CFdjSHaL._SL400_.jpg)](https://www.amazon.es/dp/B07R1YRQP4/?tag=tolees-21)
 
 🔎:
 

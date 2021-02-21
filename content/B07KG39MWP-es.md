@@ -2,7 +2,7 @@
 layout: post
 title: 'PUMA Cell Plasmic WN S  Zapatillas Depor al 28.60 % de rebaja'
 date: 2020-06-18 07:53:14
-image: 'https://m.media-amazon.com/images/I/41niST2jOUL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41niST2jOUL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '32.45'
 
 Tienes [PUMA Cell Plasmic WN S  Zapatillas Deportivas para Interior para Mujer  Negro Black White  37 EU](https://www.amazon.es/dp/B07KG39MWP/?tag=tolees-21) con precio final de  32.45 EUR (original: 45.45 EUR) (28.60 %  de rebaja) aqui!
 
-[![PUMA Cell Plasmic WN S  Zapatillas Depor](https://m.media-amazon.com/images/I/41niST2jOUL._SL200_.jpg)](https://www.amazon.es/dp/B07KG39MWP/?tag=tolees-21)
+[![PUMA Cell Plasmic WN S  Zapatillas Depor](https://m.media-amazon.com/images/I/41niST2jOUL._SL400_.jpg)](https://www.amazon.es/dp/B07KG39MWP/?tag=tolees-21)
 
 🔎:
 

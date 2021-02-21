@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 63.42 % en Pepe Jeans Dom suéter   Dulwich 594   Sm'
 date: 2020-03-11 10:37:22
-image: 'https://m.media-amazon.com/images/I/41b60PLSmEL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41b60PLSmEL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.22'
 
 Tienes [Pepe Jeans Dom suéter   Dulwich 594   Small para Hombre](https://www.amazon.es/dp/B07MZPS5BY/?tag=tolees-21) con un 63.42 % de descuento con precio de oferta de 23.78 EUR (original: 65.0 EUR) en el siguiente enlace!
 
-[![Pepe Jeans Dom suéter   Dulwich 594   Sm](https://m.media-amazon.com/images/I/41b60PLSmEL._SL200_.jpg)](https://www.amazon.es/dp/B07MZPS5BY/?tag=tolees-21)
+[![Pepe Jeans Dom suéter   Dulwich 594   Sm](https://m.media-amazon.com/images/I/41b60PLSmEL._SL400_.jpg)](https://www.amazon.es/dp/B07MZPS5BY/?tag=tolees-21)
 
 ℹ️:
 

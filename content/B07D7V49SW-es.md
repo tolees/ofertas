@@ -2,7 +2,7 @@
 layout: post
 title: 'Sika 528149 Sellador acrílico  Blanco  3 al 53.59 % de rebaja'
 date: 2020-09-22 19:08:54
-image: 'https://m.media-amazon.com/images/I/31ZjA0ywv1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31ZjA0ywv1L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.1'
 
 Tienes [Sika 528149 Sellador acrílico  Blanco  300 ml](https://www.amazon.es/dp/B07D7V49SW/?tag=tolees-21) con precio final de  5.1 EUR (original: 10.99 EUR) (53.59 %  de rebaja) aqui!
 
-[![Sika 528149 Sellador acrílico  Blanco  3](https://m.media-amazon.com/images/I/31ZjA0ywv1L._SL200_.jpg)](https://www.amazon.es/dp/B07D7V49SW/?tag=tolees-21)
+[![Sika 528149 Sellador acrílico  Blanco  3](https://m.media-amazon.com/images/I/31ZjA0ywv1L._SL400_.jpg)](https://www.amazon.es/dp/B07D7V49SW/?tag=tolees-21)
 
 🔎:
 

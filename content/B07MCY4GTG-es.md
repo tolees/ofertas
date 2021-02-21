@@ -2,7 +2,7 @@
 layout: post
 title: 'Saucony Triumph ISO 5  Zapatillas de Run al 54.31 % de rebaja'
 date: 2020-05-08 19:10:17
-image: 'https://m.media-amazon.com/images/I/41nRO3dDZpL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41nRO3dDZpL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '79.95'
 
 Tienes [Saucony Triumph ISO 5  Zapatillas de Running para Mujer  Purple/Peach  39 EU](https://www.amazon.es/dp/B07MCY4GTG/?tag=tolees-21) con precio final de  79.95 EUR (original: 175.0 EUR) (54.31 %  de rebaja) aqui!
 
-[![Saucony Triumph ISO 5  Zapatillas de Run](https://m.media-amazon.com/images/I/41nRO3dDZpL._SL200_.jpg)](https://www.amazon.es/dp/B07MCY4GTG/?tag=tolees-21)
+[![Saucony Triumph ISO 5  Zapatillas de Run](https://m.media-amazon.com/images/I/41nRO3dDZpL._SL400_.jpg)](https://www.amazon.es/dp/B07MCY4GTG/?tag=tolees-21)
 
 🔎:
 

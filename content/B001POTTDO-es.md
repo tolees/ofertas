@@ -2,7 +2,7 @@
 layout: post
 title: 'Biofinity - Lentes de contacto esféricas al 33.22 % de descuento'
 date: 2020-08-16 08:01:53
-image: 'https://m.media-amazon.com/images/I/31wr36cDXKL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31wr36cDXKL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.99'
 
 Está [Biofinity - Lentes de contacto esféricas mensuales  R 8.6 / D 14 / -5.25 Diop   Pack de 6 uds.](https://www.amazon.es/dp/B001POTTDO/?tag=tolees-21) con 33.22 de descuento por 17.99 EUR (original: 26.94 EUR) en el siguiente enlace!
 
-[![Biofinity - Lentes de contacto esféricas](https://m.media-amazon.com/images/I/31wr36cDXKL._SL200_.jpg)](https://www.amazon.es/dp/B001POTTDO/?tag=tolees-21)
+[![Biofinity - Lentes de contacto esféricas](https://m.media-amazon.com/images/I/31wr36cDXKL._SL400_.jpg)](https://www.amazon.es/dp/B001POTTDO/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 33.53 % en Panamar NE555 + CD4017 Rojo Azul Doble C'
 date: 2020-08-23 13:09:37
-image: 'https://m.media-amazon.com/images/I/21DxcqHq7AL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21DxcqHq7AL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.28'
 
 Tienes [Panamar NE555 + CD4017 Rojo Azul Doble Color Juego de Tablero de Luces Intermitentes Luz estroboscópica Aprendizaje Kits de Bricolaje Módulo de Suite electrónica - Verde](https://www.amazon.es/dp/B08DMW5JMN/?tag=tolees-21) con un 33.53 % de descuento con precio de oferta de 2.28 EUR (original: 3.43 EUR) en el siguiente enlace!
 
-[![Panamar NE555 + CD4017 Rojo Azul Doble C](https://m.media-amazon.com/images/I/21DxcqHq7AL._SL200_.jpg)](https://www.amazon.es/dp/B08DMW5JMN/?tag=tolees-21)
+[![Panamar NE555 + CD4017 Rojo Azul Doble C](https://m.media-amazon.com/images/I/21DxcqHq7AL._SL400_.jpg)](https://www.amazon.es/dp/B08DMW5JMN/?tag=tolees-21)
 
 ℹ️:
 

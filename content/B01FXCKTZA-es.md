@@ -2,7 +2,7 @@
 layout: post
 title: 'CESTA ORGANIZACION DE COCINA - 2 unidade al 30.56 % de descuento'
 date: 2020-07-03 18:01:35
-image: 'https://m.media-amazon.com/images/I/41WBQTwhPFL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41WBQTwhPFL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.5'
 
 Está [CESTA ORGANIZACION DE COCINA - 2 unidades - INTERKITCHEN©](https://www.amazon.es/dp/B01FXCKTZA/?tag=tolees-21) con 30.56 de descuento por 12.5 EUR (original: 18.0 EUR) en el siguiente enlace!
 
-[![CESTA ORGANIZACION DE COCINA - 2 unidade](https://m.media-amazon.com/images/I/41WBQTwhPFL._SL200_.jpg)](https://www.amazon.es/dp/B01FXCKTZA/?tag=tolees-21)
+[![CESTA ORGANIZACION DE COCINA - 2 unidade](https://m.media-amazon.com/images/I/41WBQTwhPFL._SL400_.jpg)](https://www.amazon.es/dp/B01FXCKTZA/?tag=tolees-21)
 
 ℹ️:
 

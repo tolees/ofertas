@@ -2,7 +2,7 @@
 layout: post
 title: 'Multipower 50g Protein Shake  Sabor Stra al 74.11 % de rebaja'
 date: 2020-05-06 20:14:56
-image: 'https://m.media-amazon.com/images/I/51UlBwUj7QL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51UlBwUj7QL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.93'
 
 Tienes [Multipower 50g Protein Shake  Sabor Strawberry - 12 Unidades](https://www.amazon.es/dp/B079THMPCV/?tag=tolees-21) con precio final de  10.0 EUR (original: 38.62 EUR) (74.11 %  de rebaja) aqui!
 
-[![Multipower 50g Protein Shake  Sabor Stra](https://m.media-amazon.com/images/I/51UlBwUj7QL._SL200_.jpg)](https://www.amazon.es/dp/B079THMPCV/?tag=tolees-21)
+[![Multipower 50g Protein Shake  Sabor Stra](https://m.media-amazon.com/images/I/51UlBwUj7QL._SL400_.jpg)](https://www.amazon.es/dp/B079THMPCV/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'iMagicBox Cife Cubo de Magia  Multicolor al 59.96 % de descuento'
 date: 2020-01-24 08:22:16
-image: 'https://m.media-amazon.com/images/I/51H33OtEX3L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51H33OtEX3L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '25.47'
 
 Está [iMagicBox Cife Cubo de Magia  Multicolor Spain 41419](https://www.amazon.es/dp/B07DD75Q1H/?tag=tolees-21) con 59.96 de descuento por 20.0 EUR (original: 49.95 EUR) en el siguiente enlace!
 
-[![iMagicBox Cife Cubo de Magia  Multicolor](https://m.media-amazon.com/images/I/51H33OtEX3L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07DD75Q1H/?tag=tolees-21)
+[![iMagicBox Cife Cubo de Magia  Multicolor](https://m.media-amazon.com/images/I/51H33OtEX3L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07DD75Q1H/?tag=tolees-21)
 
 ℹ️:
 

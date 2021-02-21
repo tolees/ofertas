@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 44.96 % en POP! Vinilo - Disney: Minnie Mouse'
 date: 2020-01-13 23:29:09
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51Req542dEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Req542dEL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.25'
 
 Tienes [POP! Vinilo - Disney: Minnie Mouse](https://www.amazon.es/dp/B0075CPSHQ/?tag=tolees-21) con un 44.96 % de descuento con precio de oferta de 8.25 EUR (original: 14.99 EUR) en el siguiente enlace!
 
-[![POP! Vinilo - Disney: Minnie Mouse](https://images-eu.ssl-images-amazon.com/images/I/51Req542dEL._SL200_.jpg)](https://www.amazon.es/dp/B0075CPSHQ/?tag=tolees-21)
+[![POP! Vinilo - Disney: Minnie Mouse](https://images-eu.ssl-images-amazon.com/images/I/51Req542dEL._SL400_.jpg)](https://www.amazon.es/dp/B0075CPSHQ/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'K&N RC-4650DR funda para filtro de aire  al 54.59 % de descuento'
 date: 2020-05-06 21:55:21
-image: 'https://m.media-amazon.com/images/I/41Jjh+8c9-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Jjh+8c9-L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '31.69'
 
 Ahora mismo tienes [K&N RC-4650DR funda para filtro de aire Coche y Moto](https://www.amazon.es/dp/B000E7FNNI/?tag=tolees-21) a 31.69 EUR (original: 69.78 EUR) (54.59 %  de descuento) en el siguiente enlace!
 
-[![K&N RC-4650DR funda para filtro de aire ](https://m.media-amazon.com/images/I/41Jjh+8c9-L._SL200_.jpg)](https://www.amazon.es/dp/B000E7FNNI/?tag=tolees-21)
+[![K&N RC-4650DR funda para filtro de aire ](https://m.media-amazon.com/images/I/41Jjh+8c9-L._SL400_.jpg)](https://www.amazon.es/dp/B000E7FNNI/?tag=tolees-21)
 
 🔎:
 

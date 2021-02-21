@@ -2,7 +2,7 @@
 layout: post
 title: 'Funko Pop!- Pennywise w/Crab Legs Figura al 33.62 % de rebaja'
 date: 2020-03-03 12:34:09
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41yIpmCqFuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41yIpmCqFuL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.95'
 
 Tienes [Funko Pop!- Pennywise w/Crab Legs Figura de Vinilo  29526 ](https://www.amazon.es/dp/B0797MYW9S/?tag=tolees-21) con precio final de  9.95 EUR (original: 14.99 EUR) (33.62 %  de rebaja) aqui!
 
-[![Funko Pop!- Pennywise w/Crab Legs Figura](https://images-eu.ssl-images-amazon.com/images/I/41yIpmCqFuL._SL200_.jpg)](https://www.amazon.es/dp/B0797MYW9S/?tag=tolees-21)
+[![Funko Pop!- Pennywise w/Crab Legs Figura](https://images-eu.ssl-images-amazon.com/images/I/41yIpmCqFuL._SL400_.jpg)](https://www.amazon.es/dp/B0797MYW9S/?tag=tolees-21)
 
 🔎:
 

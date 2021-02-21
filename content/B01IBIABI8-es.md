@@ -2,7 +2,7 @@
 layout: post
 title: 'JACK & JONES JJIPAUL JJLEATHER BELT NOOS con un 43.98 % de descuento'
 date: 2020-02-16 08:08:32
-image: 'https://m.media-amazon.com/images/I/41qPzTlrLhL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41qPzTlrLhL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.0'
 
 En este momento está [JACK & JONES JJIPAUL JJLEATHER BELT NOOS  Cinturón Hombre  Marrón  Mocha Bisque   80 cm  Talla del fabricante: 80 ](https://www.amazon.es/dp/B01IBIABI8/?tag=tolees-21) a 14.0 EUR (original: 24.99 EUR) (43.98 %  de descuento) en el siguiente enlace!
 
-[![JACK & JONES JJIPAUL JJLEATHER BELT NOOS](https://m.media-amazon.com/images/I/41qPzTlrLhL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01IBIABI8/?tag=tolees-21)
+[![JACK & JONES JJIPAUL JJLEATHER BELT NOOS](https://m.media-amazon.com/images/I/41qPzTlrLhL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01IBIABI8/?tag=tolees-21)
 
 🔎:
 

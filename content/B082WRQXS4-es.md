@@ -2,7 +2,7 @@
 layout: post
 title: 'Scratch Art Sirena LANMOK 48hojas Papel  al 45.22 % de rebaja'
 date: 2020-04-02 05:07:37
-image: 'https://m.media-amazon.com/images/I/51kh5+cXmvL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51kh5+cXmvL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.95'
 
 Tienes [Scratch Art Sirena LANMOK 48hojas Papel de Rascar Mundo Submarino Manualidades Rascar Animales Marinos para Regalo Cumpleaño Infantile Escuela Clase de Manualidad 12 palitos de Madera y 48Cintas ](https://www.amazon.es/dp/B082WRQXS4/?tag=tolees-21) con precio final de  10.95 EUR (original: 19.99 EUR) (45.22 %  de rebaja) aqui!
 
-[![Scratch Art Sirena LANMOK 48hojas Papel ](https://m.media-amazon.com/images/I/51kh5+cXmvL._SL200_.jpg)](https://www.amazon.es/dp/B082WRQXS4/?tag=tolees-21)
+[![Scratch Art Sirena LANMOK 48hojas Papel ](https://m.media-amazon.com/images/I/51kh5+cXmvL._SL400_.jpg)](https://www.amazon.es/dp/B082WRQXS4/?tag=tolees-21)
 
 🔎:
 

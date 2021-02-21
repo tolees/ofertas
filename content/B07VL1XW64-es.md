@@ -2,7 +2,7 @@
 layout: post
 title: 'TUTUO Adapter para dji Osmo Pocket Adapt al 35.14 % de rebaja'
 date: 2020-02-13 09:58:35
-image: 'https://m.media-amazon.com/images/I/31TNoyCG7tL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31TNoyCG7tL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.99'
 
 Tienes [TUTUO Adapter para dji Osmo Pocket Adaptador de Audio Tipo C de C a 3 5 mm Adaptador de Audio USB para micrófono Externo para grabación y Audio  Negro](https://www.amazon.es/dp/B07VL1XW64/?tag=tolees-21) con precio final de  23.99 EUR (original: 36.99 EUR) (35.14 %  de rebaja) aqui!
 
-[![TUTUO Adapter para dji Osmo Pocket Adapt](https://m.media-amazon.com/images/I/31TNoyCG7tL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07VL1XW64/?tag=tolees-21)
+[![TUTUO Adapter para dji Osmo Pocket Adapt](https://m.media-amazon.com/images/I/31TNoyCG7tL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07VL1XW64/?tag=tolees-21)
 
 🔎:
 

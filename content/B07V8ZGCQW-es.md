@@ -2,7 +2,7 @@
 layout: post
 title: 'L Oreal Paris Men Expert Hydra Sensitive con un 66.10 % de descuento'
 date: 2020-05-25 16:53:49
-image: 'https://m.media-amazon.com/images/I/31sBOthettL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31sBOthettL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.0'
 
 En este momento está [L Oreal Paris Men Expert Hydra Sensitive Gel de Ducha Calmante para Hombre - 300 ml](https://www.amazon.es/dp/B07V8ZGCQW/?tag=tolees-21) a 1.0 EUR (original: 2.95 EUR) (66.10 %  de descuento) en el siguiente enlace!
 
-[![L Oreal Paris Men Expert Hydra Sensitive](https://m.media-amazon.com/images/I/31sBOthettL._SL200_.jpg)](https://www.amazon.es/dp/B07V8ZGCQW/?tag=tolees-21)
+[![L Oreal Paris Men Expert Hydra Sensitive](https://m.media-amazon.com/images/I/31sBOthettL._SL400_.jpg)](https://www.amazon.es/dp/B07V8ZGCQW/?tag=tolees-21)
 
 🔎:
 

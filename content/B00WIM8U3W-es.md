@@ -2,7 +2,7 @@
 layout: post
 title: 'Tratto Video 830201 - Marcadores fluores con un 29.82 % de descuento'
 date: 2020-04-18 01:55:47
-image: 'https://m.media-amazon.com/images/I/31kdJtOoeeL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31kdJtOoeeL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.33'
 
 En este momento está [Tratto Video 830201 - Marcadores fluorescente  color amarillo  pack de 12 unidades](https://www.amazon.es/dp/B00WIM8U3W/?tag=tolees-21) a 6.33 EUR (original: 9.02 EUR) (29.82 %  de descuento) en el siguiente enlace!
 
-[![Tratto Video 830201 - Marcadores fluores](https://m.media-amazon.com/images/I/31kdJtOoeeL._SL200_.jpg)](https://www.amazon.es/dp/B00WIM8U3W/?tag=tolees-21)
+[![Tratto Video 830201 - Marcadores fluores](https://m.media-amazon.com/images/I/31kdJtOoeeL._SL400_.jpg)](https://www.amazon.es/dp/B00WIM8U3W/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'HAMSWAN Termómetro de Frente  Sin Contac al 75.05 % de descuento'
 date: 2020-07-17 17:22:12
-image: 'https://m.media-amazon.com/images/I/31lnM6F2rTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31lnM6F2rTL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '49.89'
 
 Está [HAMSWAN Termómetro de Frente  Sin Contacto  Termómetro Digital Infrarrojos para Bebe  Niños  Adultos](https://www.amazon.es/dp/B01HTBD6KS/?tag=tolees-21) con 75.05 de descuento por 49.89 EUR (original: 199.99 EUR) en el siguiente enlace!
 
-[![HAMSWAN Termómetro de Frente  Sin Contac](https://m.media-amazon.com/images/I/31lnM6F2rTL._SL200_.jpg)](https://www.amazon.es/dp/B01HTBD6KS/?tag=tolees-21)
+[![HAMSWAN Termómetro de Frente  Sin Contac](https://m.media-amazon.com/images/I/31lnM6F2rTL._SL400_.jpg)](https://www.amazon.es/dp/B01HTBD6KS/?tag=tolees-21)
 
 ℹ️:
 

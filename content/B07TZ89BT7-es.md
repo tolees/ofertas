@@ -2,7 +2,7 @@
 layout: post
 title: 'RASPBERRY Fuente DE ALIMENTACION USB-C 5 al 31.86 % de descuento'
 date: 2020-03-10 14:44:40
-image: 'https://m.media-amazon.com/images/I/31pbIPLGnbL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31pbIPLGnbL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.05'
 
 Ahora mismo tienes [RASPBERRY Fuente DE ALIMENTACION USB-C 5.1V 3A - Blanco - para RASPBERRY PI 4  1873421 ](https://www.amazon.es/dp/B07TZ89BT7/?tag=tolees-21) a 10.05 EUR (original: 14.75 EUR) (31.86 %  de descuento) en el siguiente enlace!
 
-[![RASPBERRY Fuente DE ALIMENTACION USB-C 5](https://m.media-amazon.com/images/I/31pbIPLGnbL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07TZ89BT7/?tag=tolees-21)
+[![RASPBERRY Fuente DE ALIMENTACION USB-C 5](https://m.media-amazon.com/images/I/31pbIPLGnbL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07TZ89BT7/?tag=tolees-21)
 
 🔎:
 

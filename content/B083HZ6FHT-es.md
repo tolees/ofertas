@@ -2,7 +2,7 @@
 layout: post
 title: 'Caja del teléfono móvil TPU Blanco Mate  al 58.88 % de descuento'
 date: 2020-08-13 19:02:43
-image: 'https://m.media-amazon.com/images/I/51zVJyAcZOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51zVJyAcZOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.39'
 
 Está [Caja del teléfono móvil TPU Blanco Mate en Relieve lenguaje de Aves Floral Shell Protector para iPhone](https://www.amazon.es/dp/B083HZ6FHT/?tag=tolees-21) con 58.88 de descuento por 1.39 EUR (original: 3.38 EUR) en el siguiente enlace!
 
-[![Caja del teléfono móvil TPU Blanco Mate ](https://m.media-amazon.com/images/I/51zVJyAcZOL._SL200_.jpg)](https://www.amazon.es/dp/B083HZ6FHT/?tag=tolees-21)
+[![Caja del teléfono móvil TPU Blanco Mate ](https://m.media-amazon.com/images/I/51zVJyAcZOL._SL400_.jpg)](https://www.amazon.es/dp/B083HZ6FHT/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas MTS Co Relax Tracksuit  Hombre  A al 49.99 % de descuento'
 date: 2020-01-19 08:54:28
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41fy0y8-xLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41fy0y8-xLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '39.98'
 
 Ahora mismo tienes [adidas MTS Co Relax Tracksuit  Hombre  Active Maroon/Black/White  M/S](https://www.amazon.es/dp/B07SJZGDZR/?tag=tolees-21) a 39.98 EUR (original: 79.95 EUR) (49.99 %  de descuento) en el siguiente enlace!
 
-[![adidas MTS Co Relax Tracksuit  Hombre  A](https://images-eu.ssl-images-amazon.com/images/I/41fy0y8-xLL._SL200_.jpg)](https://www.amazon.es/dp/B07SJZGDZR/?tag=tolees-21)
+[![adidas MTS Co Relax Tracksuit  Hombre  A](https://images-eu.ssl-images-amazon.com/images/I/41fy0y8-xLL._SL400_.jpg)](https://www.amazon.es/dp/B07SJZGDZR/?tag=tolees-21)
 
 🔎:
 

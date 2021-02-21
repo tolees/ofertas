@@ -2,7 +2,7 @@
 layout: post
 title: 'Skechers Summits-Lovely Sky  Zapatillas  al 30.12 % de descuento'
 date: 2020-01-14 07:24:28
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41ljK3nk-rL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ljK3nk-rL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '38.4'
 
 Está [Skechers Summits-Lovely Sky  Zapatillas para Mujer  Negro  Black Knit/Pink Trim BKHP   38.5 EU](https://www.amazon.es/dp/B07NW686MG/?tag=tolees-21) con 30.12 de descuento por 38.4 EUR (original: 54.95 EUR) en el siguiente enlace!
 
-[![Skechers Summits-Lovely Sky  Zapatillas ](https://images-eu.ssl-images-amazon.com/images/I/41ljK3nk-rL._SL200_.jpg)](https://www.amazon.es/dp/B07NW686MG/?tag=tolees-21)
+[![Skechers Summits-Lovely Sky  Zapatillas ](https://images-eu.ssl-images-amazon.com/images/I/41ljK3nk-rL._SL400_.jpg)](https://www.amazon.es/dp/B07NW686MG/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Racketworld Wilson Six Two BLX – Raqueta al 64.29 % de rebaja'
 date: 2020-02-01 09:16:52
-image: 'https://m.media-amazon.com/images/I/41bLptUEQ5L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41bLptUEQ5L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '49.99'
 
 Tienes [Racketworld Wilson Six Two BLX – Raqueta de Tenis + 3 Pelotas de Tenis RRP £120](https://www.amazon.es/dp/B079HZ84HN/?tag=tolees-21) con precio final de  49.99 EUR (original: 140.0 EUR) (64.29 %  de rebaja) aqui!
 
-[![Racketworld Wilson Six Two BLX – Raqueta](https://m.media-amazon.com/images/I/41bLptUEQ5L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B079HZ84HN/?tag=tolees-21)
+[![Racketworld Wilson Six Two BLX – Raqueta](https://m.media-amazon.com/images/I/41bLptUEQ5L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B079HZ84HN/?tag=tolees-21)
 
 🔎:
 

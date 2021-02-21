@@ -2,7 +2,7 @@
 layout: post
 title: 'Mardozon Correa para Xiaomi Mi Band 3/4  al 37.52 % de rebaja'
 date: 2020-06-23 09:02:22
-image: 'https://m.media-amazon.com/images/I/51TLKj+q8EL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51TLKj+q8EL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.99'
 
 Tienes [Mardozon Correa para Xiaomi Mi Band 3/4 Pulseras Reloj Coloridos Silicona Banda Reemplazo para Mi Band 3 Compatible con Mi Smart Band 4](https://www.amazon.es/dp/B0839JQTRW/?tag=tolees-21) con precio final de  9.99 EUR (original: 15.99 EUR) (37.52 %  de rebaja) aqui!
 
-[![Mardozon Correa para Xiaomi Mi Band 3/4 ](https://m.media-amazon.com/images/I/51TLKj+q8EL._SL200_.jpg)](https://www.amazon.es/dp/B0839JQTRW/?tag=tolees-21)
+[![Mardozon Correa para Xiaomi Mi Band 3/4 ](https://m.media-amazon.com/images/I/51TLKj+q8EL._SL400_.jpg)](https://www.amazon.es/dp/B0839JQTRW/?tag=tolees-21)
 
 🔎:
 

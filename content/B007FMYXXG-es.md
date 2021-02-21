@@ -2,7 +2,7 @@
 layout: post
 title: 'BK-5 - Teclado inteligente Roland BK-5 - al 38.54 % de descuento'
 date: 2020-03-15 19:38:31
-image: 'https://m.media-amazon.com/images/I/41k2gtUlaLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41k2gtUlaLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '556.384'
 
 Ahora mismo tienes [BK-5 - Teclado inteligente Roland BK-5 -](https://www.amazon.es/dp/B007FMYXXG/?tag=tolees-21) a 405.0 EUR (original: 659.0 EUR) (38.54 %  de descuento) en el siguiente enlace!
 
-[![BK-5 - Teclado inteligente Roland BK-5 -](https://m.media-amazon.com/images/I/41k2gtUlaLL._SL200_.jpg)](https://www.amazon.es/dp/B007FMYXXG/?tag=tolees-21)
+[![BK-5 - Teclado inteligente Roland BK-5 -](https://m.media-amazon.com/images/I/41k2gtUlaLL._SL400_.jpg)](https://www.amazon.es/dp/B007FMYXXG/?tag=tolees-21)
 
 🔎:
 

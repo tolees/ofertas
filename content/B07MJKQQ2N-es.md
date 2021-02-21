@@ -2,7 +2,7 @@
 layout: post
 title: 'Adidas Advantage K  Zapatillas de Tenis  al 29.94 % de descuento'
 date: 2020-03-07 18:56:56
-image: 'https://m.media-amazon.com/images/I/31CtKOuYSHL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31CtKOuYSHL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '27.99'
 
 Ahora mismo tienes [Adidas Advantage K  Zapatillas de Tenis Unisex niño  Blanc Rose Intense Blanc  28 EU](https://www.amazon.es/dp/B07MJKQQ2N/?tag=tolees-21) a 27.99 EUR (original: 39.95 EUR) (29.94 %  de descuento) en el siguiente enlace!
 
-[![Adidas Advantage K  Zapatillas de Tenis ](https://m.media-amazon.com/images/I/31CtKOuYSHL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07MJKQQ2N/?tag=tolees-21)
+[![Adidas Advantage K  Zapatillas de Tenis ](https://m.media-amazon.com/images/I/31CtKOuYSHL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07MJKQQ2N/?tag=tolees-21)
 
 🔎:
 

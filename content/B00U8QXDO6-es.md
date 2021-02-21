@@ -2,7 +2,7 @@
 layout: post
 title: 'Beter Swing - Lima ergonómica láser al 59.38 % de descuento'
 date: 2020-03-04 12:36:39
-image: 'https://m.media-amazon.com/images/I/21fYWCI93bL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21fYWCI93bL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.95'
 
 Está [Beter Swing - Lima ergonómica láser](https://www.amazon.es/dp/B00U8QXDO6/?tag=tolees-21) con 59.38 de descuento por 1.95 EUR (original: 4.8 EUR) en el siguiente enlace!
 
-[![Beter Swing - Lima ergonómica láser](https://m.media-amazon.com/images/I/21fYWCI93bL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B00U8QXDO6/?tag=tolees-21)
+[![Beter Swing - Lima ergonómica láser](https://m.media-amazon.com/images/I/21fYWCI93bL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B00U8QXDO6/?tag=tolees-21)
 
 ℹ️:
 

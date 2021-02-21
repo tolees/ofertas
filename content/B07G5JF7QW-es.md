@@ -2,7 +2,7 @@
 layout: post
 title: 'Impresora Multifuncional Canon PIXMA TS6 al 35.40 % de descuento'
 date: 2020-01-30 16:29:25
-image: 'https://m.media-amazon.com/images/I/31dLSYYE3mL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31dLSYYE3mL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '73.97'
 
 Ahora mismo tienes [Impresora Multifuncional Canon PIXMA TS6250 Negra Wifi de inyección de tinta](https://www.amazon.es/dp/B07G5JF7QW/?tag=tolees-21) a 83.33 EUR (original: 129.0 EUR) (35.40 %  de descuento) en el siguiente enlace!
 
-[![Impresora Multifuncional Canon PIXMA TS6](https://m.media-amazon.com/images/I/31dLSYYE3mL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07G5JF7QW/?tag=tolees-21)
+[![Impresora Multifuncional Canon PIXMA TS6](https://m.media-amazon.com/images/I/31dLSYYE3mL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07G5JF7QW/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Bluelucon 1 Unidad de paños faciales de  al 80.00 % de descuento'
 date: 2020-09-03 15:02:47
-image: 'https://m.media-amazon.com/images/I/41A9v+VUsmL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41A9v+VUsmL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.89'
 
 Está [Bluelucon 1 Unidad de paños faciales de protección Facial Lavables Reutilizables de Color Impresión con Correa elástica Transpirable a Prueba de Polvo para Mujeres y Hombres](https://www.amazon.es/dp/B08GCS1PVJ/?tag=tolees-21) con 80.00 de descuento por 1.89 EUR (original: 9.45 EUR) en el siguiente enlace!
 
-[![Bluelucon 1 Unidad de paños faciales de ](https://m.media-amazon.com/images/I/41A9v+VUsmL._SL200_.jpg)](https://www.amazon.es/dp/B08GCS1PVJ/?tag=tolees-21)
+[![Bluelucon 1 Unidad de paños faciales de ](https://m.media-amazon.com/images/I/41A9v+VUsmL._SL400_.jpg)](https://www.amazon.es/dp/B08GCS1PVJ/?tag=tolees-21)
 
 ℹ️:
 

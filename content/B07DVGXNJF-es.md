@@ -2,7 +2,7 @@
 layout: post
 title: 'David Walliams Memory Game al 29.05 % de descuento'
 date: 2020-04-16 09:11:48
-image: 'https://m.media-amazon.com/images/I/512tMKkWLGL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/512tMKkWLGL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.62'
 
 Ahora mismo tienes [David Walliams Memory Game](https://www.amazon.es/dp/B07DVGXNJF/?tag=tolees-21) a 8.62 EUR (original: 12.15 EUR) (29.05 %  de descuento) en el siguiente enlace!
 
-[![David Walliams Memory Game](https://m.media-amazon.com/images/I/512tMKkWLGL._SL200_.jpg)](https://www.amazon.es/dp/B07DVGXNJF/?tag=tolees-21)
+[![David Walliams Memory Game](https://m.media-amazon.com/images/I/512tMKkWLGL._SL400_.jpg)](https://www.amazon.es/dp/B07DVGXNJF/?tag=tolees-21)
 
 🔎:
 

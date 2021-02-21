@@ -2,7 +2,7 @@
 layout: post
 title: 'PUMJV|#Puma Vista Zapatillas Unisex adul al 44.57 % de rebaja'
 date: 2020-07-20 00:05:55
-image: 'https://m.media-amazon.com/images/I/41LbmbP1LiL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41LbmbP1LiL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '30.79'
 
 Tienes [PUMJV|#Puma Vista Zapatillas Unisex adulto  Gris  Gray Violet-Puma White-Calypso Coral 09   43 EU  9 UK ](https://www.amazon.es/dp/B07KFXQNC4/?tag=tolees-21) con precio final de  36.0 EUR (original: 64.95 EUR) (44.57 %  de rebaja) aqui!
 
-[![PUMJV|#Puma Vista Zapatillas Unisex adul](https://m.media-amazon.com/images/I/41LbmbP1LiL._SL200_.jpg)](https://www.amazon.es/dp/B07KFXQNC4/?tag=tolees-21)
+[![PUMJV|#Puma Vista Zapatillas Unisex adul](https://m.media-amazon.com/images/I/41LbmbP1LiL._SL400_.jpg)](https://www.amazon.es/dp/B07KFXQNC4/?tag=tolees-21)
 
 🔎:
 

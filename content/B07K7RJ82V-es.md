@@ -2,7 +2,7 @@
 layout: post
 title: 'Britax Römer Silla de coche 3 5 años - 1 al 37.82 % de descuento'
 date: 2020-10-07 19:10:29
-image: 'https://m.media-amazon.com/images/I/31Zyik3CeUL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Zyik3CeUL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '136.73'
 
 Ahora mismo tienes [Britax Römer Silla de coche 3 5 años - 12 años  15 - 36 kg  KIDFIX R  ISOFIX  Grupo 2/3  Moonlight Blue](https://www.amazon.es/dp/B07K7RJ82V/?tag=tolees-21) a 136.73 EUR (original: 219.9 EUR) (37.82 %  de descuento) en el siguiente enlace!
 
-[![Britax Römer Silla de coche 3 5 años - 1](https://m.media-amazon.com/images/I/31Zyik3CeUL._SL200_.jpg)](https://www.amazon.es/dp/B07K7RJ82V/?tag=tolees-21)
+[![Britax Römer Silla de coche 3 5 años - 1](https://m.media-amazon.com/images/I/31Zyik3CeUL._SL400_.jpg)](https://www.amazon.es/dp/B07K7RJ82V/?tag=tolees-21)
 
 🔎:
 

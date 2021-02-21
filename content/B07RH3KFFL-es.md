@@ -2,7 +2,7 @@
 layout: post
 title: 'Reebok Nano 9  Zapatillas de Deporte par con un 35.34 % de descuento'
 date: 2020-05-23 05:44:23
-image: 'https://m.media-amazon.com/images/I/413PDjsyXbL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/413PDjsyXbL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '84.02'
 
 En este momento está [Reebok Nano 9  Zapatillas de Deporte para Hombre  Negro  Black/White 0   44 EU](https://www.amazon.es/dp/B07RH3KFFL/?tag=tolees-21) a 84.02 EUR (original: 129.95 EUR) (35.34 %  de descuento) en el siguiente enlace!
 
-[![Reebok Nano 9  Zapatillas de Deporte par](https://m.media-amazon.com/images/I/413PDjsyXbL._SL200_.jpg)](https://www.amazon.es/dp/B07RH3KFFL/?tag=tolees-21)
+[![Reebok Nano 9  Zapatillas de Deporte par](https://m.media-amazon.com/images/I/413PDjsyXbL._SL400_.jpg)](https://www.amazon.es/dp/B07RH3KFFL/?tag=tolees-21)
 
 🔎:
 

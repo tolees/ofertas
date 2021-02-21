@@ -2,7 +2,7 @@
 layout: post
 title: 'BROTECT Protector Pantalla Cristal Compa al 26.39 % de rebaja'
 date: 2020-03-26 20:12:21
-image: 'https://m.media-amazon.com/images/I/41+RHeLBPyL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41+RHeLBPyL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.79'
 
 Tienes [BROTECT Protector Pantalla Cristal Compatible con Doogee S55 Protector Pantalla Vidrio Dureza 9H AirGlass](https://www.amazon.es/dp/B07FLBLT54/?tag=tolees-21) con precio final de  2.79 EUR (original: 3.79 EUR) (26.39 %  de rebaja) aqui!
 
-[![BROTECT Protector Pantalla Cristal Compa](https://m.media-amazon.com/images/I/41+RHeLBPyL._SL200_.jpg)](https://www.amazon.es/dp/B07FLBLT54/?tag=tolees-21)
+[![BROTECT Protector Pantalla Cristal Compa](https://m.media-amazon.com/images/I/41+RHeLBPyL._SL400_.jpg)](https://www.amazon.es/dp/B07FLBLT54/?tag=tolees-21)
 
 🔎:
 

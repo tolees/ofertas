@@ -2,7 +2,7 @@
 layout: post
 title: 'Napapijri Eisberg SS Polo  Azul  Clemati al 50.00 % de descuento'
 date: 2020-01-13 17:05:37
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41XQtvwKt8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41XQtvwKt8L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.5'
 
 Ahora mismo tienes [Napapijri Eisberg SS Polo  Azul  Clematis Blue VB1   Large para Hombre](https://www.amazon.es/dp/B07MVBNV7P/?tag=tolees-21) a 29.5 EUR (original: 59 EUR) (50.00 %  de descuento) en el siguiente enlace!
 
-[![Napapijri Eisberg SS Polo  Azul  Clemati](https://images-eu.ssl-images-amazon.com/images/I/41XQtvwKt8L._SL200_.jpg)](https://www.amazon.es/dp/B07MVBNV7P/?tag=tolees-21)
+[![Napapijri Eisberg SS Polo  Azul  Clemati](https://images-eu.ssl-images-amazon.com/images/I/41XQtvwKt8L._SL400_.jpg)](https://www.amazon.es/dp/B07MVBNV7P/?tag=tolees-21)
 
 🔎:
 

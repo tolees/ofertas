@@ -2,7 +2,7 @@
 layout: post
 title: 'Head 811904 Calcetín  Unisex Adulto  Gri al 58.70 % de descuento'
 date: 2020-08-05 19:40:35
-image: 'https://m.media-amazon.com/images/I/414H0PMf85L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/414H0PMf85L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.99'
 
 Está [Head 811904 Calcetín  Unisex Adulto  Gris  43  46](https://www.amazon.es/dp/B07YDF9P6Y/?tag=tolees-21) con 58.70 de descuento por 8.99 EUR (original: 21.77 EUR) en el siguiente enlace!
 
-[![Head 811904 Calcetín  Unisex Adulto  Gri](https://m.media-amazon.com/images/I/414H0PMf85L._SL200_.jpg)](https://www.amazon.es/dp/B07YDF9P6Y/?tag=tolees-21)
+[![Head 811904 Calcetín  Unisex Adulto  Gri](https://m.media-amazon.com/images/I/414H0PMf85L._SL400_.jpg)](https://www.amazon.es/dp/B07YDF9P6Y/?tag=tolees-21)
 
 ℹ️:
 

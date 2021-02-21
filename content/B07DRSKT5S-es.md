@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 50.01 % en Brooks Mach 18  Zapatillas de Cross para'
 date: 2020-05-06 16:33:41
-image: 'https://m.media-amazon.com/images/I/41680jtTvIL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41680jtTvIL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '34.79'
 
 Tienes [Brooks Mach 18  Zapatillas de Cross para Hombre   Orange/Pink/Black 861   49.5 EU](https://www.amazon.es/dp/B07DRSKT5S/?tag=tolees-21) con un 50.01 % de descuento con precio de oferta de 34.79 EUR (original: 69.59 EUR) en el siguiente enlace!
 
-[![Brooks Mach 18  Zapatillas de Cross para](https://m.media-amazon.com/images/I/41680jtTvIL._SL200_.jpg)](https://www.amazon.es/dp/B07DRSKT5S/?tag=tolees-21)
+[![Brooks Mach 18  Zapatillas de Cross para](https://m.media-amazon.com/images/I/41680jtTvIL._SL400_.jpg)](https://www.amazon.es/dp/B07DRSKT5S/?tag=tolees-21)
 
 ℹ️:
 

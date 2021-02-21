@@ -2,7 +2,7 @@
 layout: post
 title: 'Vans ISO 1.5  Zapatillas Unisex Adulto   con un 66.03 % de descuento'
 date: 2020-03-22 09:57:49
-image: 'https://m.media-amazon.com/images/I/41Vdw104tkL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Vdw104tkL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '34.04285714285714'
 
 En este momento está [Vans ISO 1.5  Zapatillas Unisex Adulto  Azul  Mesh   36.5 EU](https://www.amazon.es/dp/B078W1L8BY/?tag=tolees-21) a 30.57 EUR (original: 90.0 EUR) (66.03 %  de descuento) en el siguiente enlace!
 
-[![Vans ISO 1.5  Zapatillas Unisex Adulto  ](https://m.media-amazon.com/images/I/41Vdw104tkL._SL200_.jpg)](https://www.amazon.es/dp/B078W1L8BY/?tag=tolees-21)
+[![Vans ISO 1.5  Zapatillas Unisex Adulto  ](https://m.media-amazon.com/images/I/41Vdw104tkL._SL400_.jpg)](https://www.amazon.es/dp/B078W1L8BY/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 28.01 % en AGPTEK G02 Mini-Clip Reproductor de MP3 '
 date: 2020-03-05 07:48:25
-image: 'https://m.media-amazon.com/images/I/41vtR7opepL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41vtR7opepL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.32333333333333'
 
 Tienes [AGPTEK G02 Mini-Clip Reproductor de MP3 8 GB de Capacidad con Radio FM una Funda Silicona Incluido   Azul](https://www.amazon.es/dp/B01LYNS5KB/?tag=tolees-21) con un 28.01 % de descuento con precio de oferta de 17.99 EUR (original: 24.99 EUR) en el siguiente enlace!
 
-[![AGPTEK G02 Mini-Clip Reproductor de MP3 ](https://m.media-amazon.com/images/I/41vtR7opepL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01LYNS5KB/?tag=tolees-21)
+[![AGPTEK G02 Mini-Clip Reproductor de MP3 ](https://m.media-amazon.com/images/I/41vtR7opepL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01LYNS5KB/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 35.96 % en JACK & JONES Jjiliam Jjoriginal Am 014 L'
 date: 2020-09-23 12:39:03
-image: 'https://m.media-amazon.com/images/I/311hTaaGjaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/311hTaaGjaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '30.98510204081632'
 
 Tienes [JACK & JONES Jjiliam Jjoriginal Am 014 Lid Noos  Jeans Hombre  Azul  Blue Denim   W32/L30  Talla del fabricante: 32 ](https://www.amazon.es/dp/B01E5MWSXA/?tag=tolees-21) con un 35.96 % de descuento con precio de oferta de 31.99 EUR (original: 49.95 EUR) en el siguiente enlace!
 
-[![JACK & JONES Jjiliam Jjoriginal Am 014 L](https://m.media-amazon.com/images/I/311hTaaGjaL._SL200_.jpg)](https://www.amazon.es/dp/B01E5MWSXA/?tag=tolees-21)
+[![JACK & JONES Jjiliam Jjoriginal Am 014 L](https://m.media-amazon.com/images/I/311hTaaGjaL._SL400_.jpg)](https://www.amazon.es/dp/B01E5MWSXA/?tag=tolees-21)
 
 ℹ️:
 

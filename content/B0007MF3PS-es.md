@@ -2,7 +2,7 @@
 layout: post
 title: 'Converse Chuck Taylor Ct A/S Seasnl Hi Z con un 25.79 % de descuento'
 date: 2020-07-03 18:17:28
-image: 'https://m.media-amazon.com/images/I/41AyxYdONlL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41AyxYdONlL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '51.95'
 
 En este momento está [Converse Chuck Taylor Ct A/S Seasnl Hi Zapatillas Altas Unisex  Gris  Charcoal   46.5 EU](https://www.amazon.es/dp/B0007MF3PS/?tag=tolees-21) a 51.95 EUR (original: 70.0 EUR) (25.79 %  de descuento) en el siguiente enlace!
 
-[![Converse Chuck Taylor Ct A/S Seasnl Hi Z](https://m.media-amazon.com/images/I/41AyxYdONlL._SL200_.jpg)](https://www.amazon.es/dp/B0007MF3PS/?tag=tolees-21)
+[![Converse Chuck Taylor Ct A/S Seasnl Hi Z](https://m.media-amazon.com/images/I/41AyxYdONlL._SL400_.jpg)](https://www.amazon.es/dp/B0007MF3PS/?tag=tolees-21)
 
 🔎:
 

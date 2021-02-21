@@ -2,7 +2,7 @@
 layout: post
 title: 'JACK & JONES Jfwabbott PU  Botas Chelsea al 50.01 % de rebaja'
 date: 2020-06-26 20:00:54
-image: 'https://m.media-amazon.com/images/I/31KLbbWKqHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31KLbbWKqHL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '25.846666666666664'
 
 Tienes [JACK & JONES Jfwabbott PU  Botas Chelsea para Hombre  Negro  Anthracite Anthracite   44 EU](https://www.amazon.es/dp/B07CHLGTD4/?tag=tolees-21) con precio final de  29.99 EUR (original: 59.99 EUR) (50.01 %  de rebaja) aqui!
 
-[![JACK & JONES Jfwabbott PU  Botas Chelsea](https://m.media-amazon.com/images/I/31KLbbWKqHL._SL200_.jpg)](https://www.amazon.es/dp/B07CHLGTD4/?tag=tolees-21)
+[![JACK & JONES Jfwabbott PU  Botas Chelsea](https://m.media-amazon.com/images/I/31KLbbWKqHL._SL400_.jpg)](https://www.amazon.es/dp/B07CHLGTD4/?tag=tolees-21)
 
 🔎:
 

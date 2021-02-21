@@ -2,7 +2,7 @@
 layout: post
 title: 'Jarabe de arce Grado A  Very Dark  Stron al 26.81 % de rebaja'
 date: 2020-06-17 14:17:13
-image: 'https://m.media-amazon.com/images/I/41501BvuOZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41501BvuOZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.6'
 
 Tienes [Jarabe de arce Grado A  Very Dark  Strong taste  - 189ml  250g  - Miel de arce - Sirope de Arce - Original maple syrup](https://www.amazon.es/dp/B07PJL9VHR/?tag=tolees-21) con precio final de  8.6 EUR (original: 11.75 EUR) (26.81 %  de rebaja) aqui!
 
-[![Jarabe de arce Grado A  Very Dark  Stron](https://m.media-amazon.com/images/I/41501BvuOZL._SL200_.jpg)](https://www.amazon.es/dp/B07PJL9VHR/?tag=tolees-21)
+[![Jarabe de arce Grado A  Very Dark  Stron](https://m.media-amazon.com/images/I/41501BvuOZL._SL400_.jpg)](https://www.amazon.es/dp/B07PJL9VHR/?tag=tolees-21)
 
 🔎:
 

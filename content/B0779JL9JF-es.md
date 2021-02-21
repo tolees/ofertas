@@ -2,7 +2,7 @@
 layout: post
 title: 'Pepe Jeans Poppy  Pantalones Cortos Para al 39.92 % de rebaja'
 date: 2020-01-31 23:50:51
-image: 'https://m.media-amazon.com/images/I/31P-1LRGc3L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31P-1LRGc3L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '35.99'
 
 Tienes [Pepe Jeans Poppy  Pantalones Cortos Para Mujer  Azul  Denim Ta2   26W](https://www.amazon.es/dp/B0779JL9JF/?tag=tolees-21) con precio final de  35.99 EUR (original: 59.9 EUR) (39.92 %  de rebaja) aqui!
 
-[![Pepe Jeans Poppy  Pantalones Cortos Para](https://m.media-amazon.com/images/I/31P-1LRGc3L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B0779JL9JF/?tag=tolees-21)
+[![Pepe Jeans Poppy  Pantalones Cortos Para](https://m.media-amazon.com/images/I/31P-1LRGc3L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B0779JL9JF/?tag=tolees-21)
 
 🔎:
 

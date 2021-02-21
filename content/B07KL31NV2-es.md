@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas D2m tee 3s T-Shirt  Hombre  White al 38.66 % de descuento'
 date: 2020-01-10 11:34:50
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41x9pPypg0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41x9pPypg0L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.77'
 
 Ahora mismo tienes [adidas D2m tee 3s T-Shirt  Hombre  White  XL](https://www.amazon.es/dp/B07KL31NV2/?tag=tolees-21) a 13.77 EUR (original: 22.45 EUR) (38.66 %  de descuento) en el siguiente enlace!
 
-[![adidas D2m tee 3s T-Shirt  Hombre  White](https://images-eu.ssl-images-amazon.com/images/I/41x9pPypg0L._SL200_.jpg)](https://www.amazon.es/dp/B07KL31NV2/?tag=tolees-21)
+[![adidas D2m tee 3s T-Shirt  Hombre  White](https://images-eu.ssl-images-amazon.com/images/I/41x9pPypg0L._SL400_.jpg)](https://www.amazon.es/dp/B07KL31NV2/?tag=tolees-21)
 
 🔎:
 

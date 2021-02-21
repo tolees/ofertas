@@ -2,7 +2,7 @@
 layout: post
 title: 'Thomas Sabo Mujer Vermeil Abalorios K033 al 27.82 % de descuento'
 date: 2020-05-08 07:51:15
-image: 'https://m.media-amazon.com/images/I/41NX7i9lQhL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41NX7i9lQhL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '57.02'
 
 Ahora mismo tienes [Thomas Sabo Mujer Vermeil Abalorios K0334-414-7](https://www.amazon.es/dp/B07TY82PGP/?tag=tolees-21) a 57.02 EUR (original: 79.0 EUR) (27.82 %  de descuento) en el siguiente enlace!
 
-[![Thomas Sabo Mujer Vermeil Abalorios K033](https://m.media-amazon.com/images/I/41NX7i9lQhL._SL200_.jpg)](https://www.amazon.es/dp/B07TY82PGP/?tag=tolees-21)
+[![Thomas Sabo Mujer Vermeil Abalorios K033](https://m.media-amazon.com/images/I/41NX7i9lQhL._SL400_.jpg)](https://www.amazon.es/dp/B07TY82PGP/?tag=tolees-21)
 
 🔎:
 

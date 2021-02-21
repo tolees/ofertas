@@ -2,7 +2,7 @@
 layout: post
 title: 'DURAGADGET Funda/Riñonera Rosa Sumergibl al 33.35 % de rebaja'
 date: 2020-07-06 08:31:44
-image: 'https://m.media-amazon.com/images/I/51Fw2x2hJwL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Fw2x2hJwL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.99'
 
 Tienes [DURAGADGET Funda/Riñonera Rosa Sumergible para Canon Powershot ELPH 180/190 IS / 360 HS - ¡Ideal para Playa O Piscina!](https://www.amazon.es/dp/B01BSXWJ9C/?tag=tolees-21) con precio final de  16.99 EUR (original: 25.49 EUR) (33.35 %  de rebaja) aqui!
 
-[![DURAGADGET Funda/Riñonera Rosa Sumergibl](https://m.media-amazon.com/images/I/51Fw2x2hJwL._SL200_.jpg)](https://www.amazon.es/dp/B01BSXWJ9C/?tag=tolees-21)
+[![DURAGADGET Funda/Riñonera Rosa Sumergibl](https://m.media-amazon.com/images/I/51Fw2x2hJwL._SL400_.jpg)](https://www.amazon.es/dp/B01BSXWJ9C/?tag=tolees-21)
 
 🔎:
 

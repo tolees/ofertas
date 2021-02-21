@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 41.77 % en Tanqueray London Dry Gin - 1000 ml'
 date: 2020-07-01 20:18:09
-image: 'https://m.media-amazon.com/images/I/4106pORgAKL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/4106pORgAKL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.976666666666667'
 
 Tienes [Tanqueray London Dry Gin - 1000 ml](https://www.amazon.es/dp/B00XURKIVG/?tag=tolees-21) con un 41.77 % de descuento con precio de oferta de 11.99 EUR (original: 20.59 EUR) en el siguiente enlace!
 
-[![Tanqueray London Dry Gin - 1000 ml](https://m.media-amazon.com/images/I/4106pORgAKL._SL200_.jpg)](https://www.amazon.es/dp/B00XURKIVG/?tag=tolees-21)
+[![Tanqueray London Dry Gin - 1000 ml](https://m.media-amazon.com/images/I/4106pORgAKL._SL400_.jpg)](https://www.amazon.es/dp/B00XURKIVG/?tag=tolees-21)
 
 ℹ️:
 

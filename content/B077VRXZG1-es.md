@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas VL Court 2.0  Zapatillas para Hom al 39.09 % de descuento'
 date: 2020-05-09 19:56:23
-image: 'https://m.media-amazon.com/images/I/41ghIpmBTML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ghIpmBTML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '39.56'
 
 Está [adidas VL Court 2.0  Zapatillas para Hombre  Azul  Collegiate Navy/Footwear White/Footwear White 0   40 EU](https://www.amazon.es/dp/B077VRXZG1/?tag=tolees-21) con 39.09 de descuento por 39.56 EUR (original: 64.95 EUR) en el siguiente enlace!
 
-[![adidas VL Court 2.0  Zapatillas para Hom](https://m.media-amazon.com/images/I/41ghIpmBTML._SL200_.jpg)](https://www.amazon.es/dp/B077VRXZG1/?tag=tolees-21)
+[![adidas VL Court 2.0  Zapatillas para Hom](https://m.media-amazon.com/images/I/41ghIpmBTML._SL400_.jpg)](https://www.amazon.es/dp/B077VRXZG1/?tag=tolees-21)
 
 ℹ️:
 

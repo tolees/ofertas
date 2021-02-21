@@ -2,7 +2,7 @@
 layout: post
 title: 'Sony Action CAM FDR-X1000VR - Videocámar al 25.93 % de descuento'
 date: 2020-04-19 12:34:16
-image: 'https://m.media-amazon.com/images/I/412LxLgvDfL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/412LxLgvDfL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '329.13'
 
 Ahora mismo tienes [Sony Action CAM FDR-X1000VR - Videocámara Deportiva  Video 4K  Resistente a Salpicaduras con WI-FI  NFC  GPS y Kit de Mando a Distancia Live-View   Blanco](https://www.amazon.es/dp/B00RK7OHPK/?tag=tolees-21) a 333.3 EUR (original: 450.0 EUR) (25.93 %  de descuento) en el siguiente enlace!
 
-[![Sony Action CAM FDR-X1000VR - Videocámar](https://m.media-amazon.com/images/I/412LxLgvDfL._SL200_.jpg)](https://www.amazon.es/dp/B00RK7OHPK/?tag=tolees-21)
+[![Sony Action CAM FDR-X1000VR - Videocámar](https://m.media-amazon.com/images/I/412LxLgvDfL._SL400_.jpg)](https://www.amazon.es/dp/B00RK7OHPK/?tag=tolees-21)
 
 🔎:
 

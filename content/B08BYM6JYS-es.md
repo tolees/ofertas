@@ -2,7 +2,7 @@
 layout: post
 title: 'Fantiff Mini cuello portátil masajeador  al 66.24 % de descuento'
 date: 2020-07-06 09:15:53
-image: 'https://m.media-amazon.com/images/I/51eT07oUdfL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51eT07oUdfL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.99'
 
 Está [Fantiff Mini cuello portátil masajeador eléctrico aliviar la fatiga masajeador Masajeadores eléctricos](https://www.amazon.es/dp/B08BYM6JYS/?tag=tolees-21) con 66.24 de descuento por 8.99 EUR (original: 26.63 EUR) en el siguiente enlace!
 
-[![Fantiff Mini cuello portátil masajeador ](https://m.media-amazon.com/images/I/51eT07oUdfL._SL200_.jpg)](https://www.amazon.es/dp/B08BYM6JYS/?tag=tolees-21)
+[![Fantiff Mini cuello portátil masajeador ](https://m.media-amazon.com/images/I/51eT07oUdfL._SL400_.jpg)](https://www.amazon.es/dp/B08BYM6JYS/?tag=tolees-21)
 
 ℹ️:
 

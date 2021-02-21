@@ -2,7 +2,7 @@
 layout: post
 title: 'Navaja de Afeitar de Barbero y Peine Pla al 36.73 % de descuento'
 date: 2020-07-23 07:10:26
-image: 'https://m.media-amazon.com/images/I/516CbSscThL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/516CbSscThL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.95'
 
 Está [Navaja de Afeitar de Barbero y Peine Plantilla Guía de Sapiens - Kit de Afeitado y Cuidado de Contorno de Barba Hombre con 10 Cuchillas Derby  o sea 20 Hojas Simples ](https://www.amazon.es/dp/B077V6SDYY/?tag=tolees-21) con 36.73 de descuento por 18.95 EUR (original: 29.95 EUR) en el siguiente enlace!
 
-[![Navaja de Afeitar de Barbero y Peine Pla](https://m.media-amazon.com/images/I/516CbSscThL._SL200_.jpg)](https://www.amazon.es/dp/B077V6SDYY/?tag=tolees-21)
+[![Navaja de Afeitar de Barbero y Peine Pla](https://m.media-amazon.com/images/I/516CbSscThL._SL400_.jpg)](https://www.amazon.es/dp/B077V6SDYY/?tag=tolees-21)
 
 ℹ️:
 

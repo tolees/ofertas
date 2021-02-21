@@ -2,7 +2,7 @@
 layout: post
 title: 'Superga 2750 COTU Classic  Zapatillas Un al 35.44 % de descuento'
 date: 2020-06-20 17:48:55
-image: 'https://m.media-amazon.com/images/I/31HSaCvbSgL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31HSaCvbSgL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '38.09'
 
 Ahora mismo tienes [Superga 2750 COTU Classic  Zapatillas Unisex  Azul  Blue Graphite J70   49 EU](https://www.amazon.es/dp/B07N1J42JV/?tag=tolees-21) a 38.09 EUR (original: 59.0 EUR) (35.44 %  de descuento) en el siguiente enlace!
 
-[![Superga 2750 COTU Classic  Zapatillas Un](https://m.media-amazon.com/images/I/31HSaCvbSgL._SL200_.jpg)](https://www.amazon.es/dp/B07N1J42JV/?tag=tolees-21)
+[![Superga 2750 COTU Classic  Zapatillas Un](https://m.media-amazon.com/images/I/31HSaCvbSgL._SL400_.jpg)](https://www.amazon.es/dp/B07N1J42JV/?tag=tolees-21)
 
 🔎:
 

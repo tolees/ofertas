@@ -2,7 +2,7 @@
 layout: post
 title: 'Casio G-SHOCK Reloj Digital  Reloj radio al 42.19 % de descuento'
 date: 2020-01-12 14:42:45
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41CKrux0ZKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41CKrux0ZKL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '62.455'
 
 Está [Casio G-SHOCK Reloj Digital  Reloj radiocontrolado y solar  20 BAR  Negro  para Hombre  DW-5600BBMA-1ER](https://www.amazon.es/dp/B07DY11QNL/?tag=tolees-21) con 42.19 de descuento por 57.75 EUR (original: 99.9 EUR) en el siguiente enlace!
 
-[![Casio G-SHOCK Reloj Digital  Reloj radio](https://images-eu.ssl-images-amazon.com/images/I/41CKrux0ZKL._SL200_.jpg)](https://www.amazon.es/dp/B07DY11QNL/?tag=tolees-21)
+[![Casio G-SHOCK Reloj Digital  Reloj radio](https://images-eu.ssl-images-amazon.com/images/I/41CKrux0ZKL._SL400_.jpg)](https://www.amazon.es/dp/B07DY11QNL/?tag=tolees-21)
 
 ℹ️:
 

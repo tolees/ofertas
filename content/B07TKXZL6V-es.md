@@ -2,7 +2,7 @@
 layout: post
 title: 'Vans Ward Suede/Canvas  Zapatillas para  al 56.47 % de descuento'
 date: 2020-03-27 12:45:34
-image: 'https://m.media-amazon.com/images/I/413xVqZyTGL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/413xVqZyTGL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '32.65'
 
 Está [Vans Ward Suede/Canvas  Zapatillas para Hombre  Verde   Otw Scatter  Forest Night/White Syk   42.5 EU](https://www.amazon.es/dp/B07TKXZL6V/?tag=tolees-21) con 56.47 de descuento por 32.65 EUR (original: 75.0 EUR) en el siguiente enlace!
 
-[![Vans Ward Suede/Canvas  Zapatillas para ](https://m.media-amazon.com/images/I/413xVqZyTGL._SL200_.jpg)](https://www.amazon.es/dp/B07TKXZL6V/?tag=tolees-21)
+[![Vans Ward Suede/Canvas  Zapatillas para ](https://m.media-amazon.com/images/I/413xVqZyTGL._SL400_.jpg)](https://www.amazon.es/dp/B07TKXZL6V/?tag=tolees-21)
 
 ℹ️:
 

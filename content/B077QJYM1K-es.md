@@ -2,7 +2,7 @@
 layout: post
 title: 'cuzit Durable modo de reloj para el entr al 65.96 % de descuento'
 date: 2020-07-05 15:32:53
-image: 'https://m.media-amazon.com/images/I/51JgprHDzxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51JgprHDzxL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.59'
 
 Está [cuzit Durable modo de reloj para el entrenamiento regazo tf807 portátil de mano LCD Digital Cronógrafo Temporizador Cronómetro Deportes temporizador de metal con cordón](https://www.amazon.es/dp/B077QJYM1K/?tag=tolees-21) con 65.96 de descuento por 17.59 EUR (original: 51.68 EUR) en el siguiente enlace!
 
-[![cuzit Durable modo de reloj para el entr](https://m.media-amazon.com/images/I/51JgprHDzxL._SL200_.jpg)](https://www.amazon.es/dp/B077QJYM1K/?tag=tolees-21)
+[![cuzit Durable modo de reloj para el entr](https://m.media-amazon.com/images/I/51JgprHDzxL._SL400_.jpg)](https://www.amazon.es/dp/B077QJYM1K/?tag=tolees-21)
 
 ℹ️:
 

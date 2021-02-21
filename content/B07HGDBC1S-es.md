@@ -2,7 +2,7 @@
 layout: post
 title: 'New Balance Numeric Nm255 Black 9 al 50.00 % de descuento'
 date: 2020-03-27 17:48:01
-image: 'https://m.media-amazon.com/images/I/31zC5QuHL4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31zC5QuHL4L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '36.5'
 
 Está [New Balance Numeric Nm255 Black 9](https://www.amazon.es/dp/B07HGDBC1S/?tag=tolees-21) con 50.00 de descuento por 36.5 EUR (original: 73.0 EUR) en el siguiente enlace!
 
-[![New Balance Numeric Nm255 Black 9](https://m.media-amazon.com/images/I/31zC5QuHL4L._SL200_.jpg)](https://www.amazon.es/dp/B07HGDBC1S/?tag=tolees-21)
+[![New Balance Numeric Nm255 Black 9](https://m.media-amazon.com/images/I/31zC5QuHL4L._SL400_.jpg)](https://www.amazon.es/dp/B07HGDBC1S/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 33.77 % en SPC Harmony - Teléfono móvil  Dual SIM  '
 date: 2020-07-19 18:01:19
-image: 'https://m.media-amazon.com/images/I/31uBiTimvCL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31uBiTimvCL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '33.05'
 
 Tienes [SPC Harmony - Teléfono móvil  Dual SIM  Números y letras grandes  3 memorias directas  5 números SOS  cámara de fotos  – Color Negro](https://www.amazon.es/dp/B01H9XR5LC/?tag=tolees-21) con un 33.77 % de descuento con precio de oferta de 33.05 EUR (original: 49.9 EUR) en el siguiente enlace!
 
-[![SPC Harmony - Teléfono móvil  Dual SIM  ](https://m.media-amazon.com/images/I/31uBiTimvCL._SL200_.jpg)](https://www.amazon.es/dp/B01H9XR5LC/?tag=tolees-21)
+[![SPC Harmony - Teléfono móvil  Dual SIM  ](https://m.media-amazon.com/images/I/31uBiTimvCL._SL400_.jpg)](https://www.amazon.es/dp/B01H9XR5LC/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Mocasines Planos cómodos para Mujer - Lo al 61.01 % de descuento'
 date: 2020-05-14 15:36:56
-image: 'https://m.media-amazon.com/images/I/513-y26XGjL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/513-y26XGjL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.89'
 
 Ahora mismo tienes [Mocasines Planos cómodos para Mujer - Los Negros Mocasines de Suela Gruesa para Mujer Son Aptos para Caminar  Trabajar y para la Vida Diaria SH004-BLACK-38](https://www.amazon.es/dp/B07BWKRGYV/?tag=tolees-21) a 17.89 EUR (original: 45.88 EUR) (61.01 %  de descuento) en el siguiente enlace!
 
-[![Mocasines Planos cómodos para Mujer - Lo](https://m.media-amazon.com/images/I/513-y26XGjL._SL200_.jpg)](https://www.amazon.es/dp/B07BWKRGYV/?tag=tolees-21)
+[![Mocasines Planos cómodos para Mujer - Lo](https://m.media-amazon.com/images/I/513-y26XGjL._SL400_.jpg)](https://www.amazon.es/dp/B07BWKRGYV/?tag=tolees-21)
 
 🔎:
 

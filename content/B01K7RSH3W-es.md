@@ -2,7 +2,7 @@
 layout: post
 title: 'Sanex Dermo Extra Control  Desodorante S con un 45.41 % de descuento'
 date: 2020-10-04 06:19:30
-image: 'https://m.media-amazon.com/images/I/31lPyFC8XRL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31lPyFC8XRL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.4650000000000003'
 
 En este momento está [Sanex Dermo Extra Control  Desodorante Spray - 200 ml](https://www.amazon.es/dp/B01K7RSH3W/?tag=tolees-21) a 2.38 EUR (original: 4.36 EUR) (45.41 %  de descuento) en el siguiente enlace!
 
-[![Sanex Dermo Extra Control  Desodorante S](https://m.media-amazon.com/images/I/31lPyFC8XRL._SL200_.jpg)](https://www.amazon.es/dp/B01K7RSH3W/?tag=tolees-21)
+[![Sanex Dermo Extra Control  Desodorante S](https://m.media-amazon.com/images/I/31lPyFC8XRL._SL400_.jpg)](https://www.amazon.es/dp/B01K7RSH3W/?tag=tolees-21)
 
 🔎:
 

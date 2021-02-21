@@ -2,7 +2,7 @@
 layout: post
 title: 'OCDAY 2 DIN Radio Coche con Navegación 7 con un 55.48 % de descuento'
 date: 2020-04-24 10:52:23
-image: 'https://m.media-amazon.com/images/I/515VsEJKWcL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/515VsEJKWcL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '99.99'
 
 En este momento está [OCDAY 2 DIN Radio Coche con Navegación 7 Pulgadas 2 DIN Radio Win CE Sistema Mapa de 8GB Gratis  Mirror Link USB/TF / FM/Am / RDS Radio/Aux in/Control de Volante/Cámara de Marcha atrás de Apoyo](https://www.amazon.es/dp/B07H3SZSZY/?tag=tolees-21) a 99.99 EUR (original: 224.59 EUR) (55.48 %  de descuento) en el siguiente enlace!
 
-[![OCDAY 2 DIN Radio Coche con Navegación 7](https://m.media-amazon.com/images/I/515VsEJKWcL._SL200_.jpg)](https://www.amazon.es/dp/B07H3SZSZY/?tag=tolees-21)
+[![OCDAY 2 DIN Radio Coche con Navegación 7](https://m.media-amazon.com/images/I/515VsEJKWcL._SL400_.jpg)](https://www.amazon.es/dp/B07H3SZSZY/?tag=tolees-21)
 
 🔎:
 

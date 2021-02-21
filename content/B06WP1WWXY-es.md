@@ -2,7 +2,7 @@
 layout: post
 title: 'Seiko  QHP005A  Despertador analógico  M al 27.08 % de descuento'
 date: 2020-10-06 20:43:22
-image: 'https://m.media-amazon.com/images/I/51SvREizCyL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51SvREizCyL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '28.44'
 
 Está [Seiko  QHP005A  Despertador analógico  Marrón](https://www.amazon.es/dp/B06WP1WWXY/?tag=tolees-21) con 27.08 de descuento por 28.44 EUR (original: 39.0 EUR) en el siguiente enlace!
 
-[![Seiko  QHP005A  Despertador analógico  M](https://m.media-amazon.com/images/I/51SvREizCyL._SL200_.jpg)](https://www.amazon.es/dp/B06WP1WWXY/?tag=tolees-21)
+[![Seiko  QHP005A  Despertador analógico  M](https://m.media-amazon.com/images/I/51SvREizCyL._SL400_.jpg)](https://www.amazon.es/dp/B06WP1WWXY/?tag=tolees-21)
 
 ℹ️:
 

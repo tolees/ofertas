@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger Classic Low Tommy Jeans S al 54.11 % de rebaja'
 date: 2020-09-21 19:50:12
-image: 'https://m.media-amazon.com/images/I/31hvhn8S4dL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31hvhn8S4dL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '32.08'
 
 Tienes [Tommy Hilfiger Classic Low Tommy Jeans Sneaker  Zapatillas para Hombre  Azul  Twilight Navy C87   45 EU](https://www.amazon.es/dp/B07V8V9WVF/?tag=tolees-21) con precio final de  32.08 EUR (original: 69.9 EUR) (54.11 %  de rebaja) aqui!
 
-[![Tommy Hilfiger Classic Low Tommy Jeans S](https://m.media-amazon.com/images/I/31hvhn8S4dL._SL200_.jpg)](https://www.amazon.es/dp/B07V8V9WVF/?tag=tolees-21)
+[![Tommy Hilfiger Classic Low Tommy Jeans S](https://m.media-amazon.com/images/I/31hvhn8S4dL._SL400_.jpg)](https://www.amazon.es/dp/B07V8V9WVF/?tag=tolees-21)
 
 🔎:
 

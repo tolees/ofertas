@@ -2,7 +2,7 @@
 layout: post
 title: 'Bosch Home and Garden 06008B2000 Tijeras al 38.84 % de rebaja'
 date: 2020-03-14 12:09:36
-image: 'https://m.media-amazon.com/images/I/41bjFA4Z89L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41bjFA4Z89L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '64.145'
 
 Tienes [Bosch Home and Garden 06008B2000 Tijeras de Podar 3.6 V Integrada  450 Cortes per Carga de Batería  en Blíster  5.4 W](https://www.amazon.es/dp/B077ZLWD4L/?tag=tolees-21) con precio final de  61.15 EUR (original: 99.99 EUR) (38.84 %  de rebaja) aqui!
 
-[![Bosch Home and Garden 06008B2000 Tijeras](https://m.media-amazon.com/images/I/41bjFA4Z89L._SL200_.jpg)](https://www.amazon.es/dp/B077ZLWD4L/?tag=tolees-21)
+[![Bosch Home and Garden 06008B2000 Tijeras](https://m.media-amazon.com/images/I/41bjFA4Z89L._SL400_.jpg)](https://www.amazon.es/dp/B077ZLWD4L/?tag=tolees-21)
 
 🔎:
 

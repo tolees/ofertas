@@ -2,7 +2,7 @@
 layout: post
 title: 'Mr. Wonderful WOA09073ES Taza  Multicolo al 49.96 % de descuento'
 date: 2020-06-11 13:20:27
-image: 'https://m.media-amazon.com/images/I/41o917e43ML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41o917e43ML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.98'
 
 Ahora mismo tienes [Mr. Wonderful WOA09073ES Taza  Multicolor](https://www.amazon.es/dp/B07HKXYKXW/?tag=tolees-21) a 6.98 EUR (original: 13.95 EUR) (49.96 %  de descuento) en el siguiente enlace!
 
-[![Mr. Wonderful WOA09073ES Taza  Multicolo](https://m.media-amazon.com/images/I/41o917e43ML._SL200_.jpg)](https://www.amazon.es/dp/B07HKXYKXW/?tag=tolees-21)
+[![Mr. Wonderful WOA09073ES Taza  Multicolo](https://m.media-amazon.com/images/I/41o917e43ML._SL400_.jpg)](https://www.amazon.es/dp/B07HKXYKXW/?tag=tolees-21)
 
 🔎:
 

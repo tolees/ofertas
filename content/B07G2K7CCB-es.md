@@ -2,7 +2,7 @@
 layout: post
 title: 'Taiko No Tatsujin: Drum n Fun al 37.55 % de descuento'
 date: 2020-04-30 15:16:37
-image: 'https://images-eu.ssl-images-amazon.com/images/I/61BJBsFdn%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61BJBsFdn%2BL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '26.72'
 
 Ahora mismo tienes [Taiko No Tatsujin: Drum n Fun](https://www.amazon.es/dp/B07G2K7CCB/?tag=tolees-21) a 24.95 EUR (original: 39.95 EUR) (37.55 %  de descuento) en el siguiente enlace!
 
-[![Taiko No Tatsujin: Drum n Fun](https://images-eu.ssl-images-amazon.com/images/I/61BJBsFdn%2BL._SL200_.jpg)](https://www.amazon.es/dp/B07G2K7CCB/?tag=tolees-21)
+[![Taiko No Tatsujin: Drum n Fun](https://images-eu.ssl-images-amazon.com/images/I/61BJBsFdn%2BL._SL400_.jpg)](https://www.amazon.es/dp/B07G2K7CCB/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Funko Pop!- Games: Marvel Contest of Cha al 46.63 % de descuento'
 date: 2020-03-16 08:11:13
-image: 'https://m.media-amazon.com/images/I/51-LuTgoDmL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51-LuTgoDmL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.285'
 
 Ahora mismo tienes [Funko Pop!- Games: Marvel Contest of Champions Venompool Figura de Vinilo  26710 ](https://www.amazon.es/dp/B0771RV2MX/?tag=tolees-21) a 8.0 EUR (original: 14.99 EUR) (46.63 %  de descuento) en el siguiente enlace!
 
-[![Funko Pop!- Games: Marvel Contest of Cha](https://m.media-amazon.com/images/I/51-LuTgoDmL._SL200_.jpg)](https://www.amazon.es/dp/B0771RV2MX/?tag=tolees-21)
+[![Funko Pop!- Games: Marvel Contest of Cha](https://m.media-amazon.com/images/I/51-LuTgoDmL._SL400_.jpg)](https://www.amazon.es/dp/B0771RV2MX/?tag=tolees-21)
 
 🔎:
 

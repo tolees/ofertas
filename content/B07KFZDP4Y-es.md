@@ -2,7 +2,7 @@
 layout: post
 title: 'PUMA Caracal  Zapatillas Unisex Adulto   al 65.51 % de rebaja'
 date: 2020-02-14 18:12:02
-image: 'https://m.media-amazon.com/images/I/31BOmG2OINL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31BOmG2OINL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.125'
 
 Tienes [PUMA Caracal  Zapatillas Unisex Adulto  Black White  40 EU](https://www.amazon.es/dp/B07KFZDP4Y/?tag=tolees-21) con precio final de  22.4 EUR (original: 64.95 EUR) (65.51 %  de rebaja) aqui!
 
-[![PUMA Caracal  Zapatillas Unisex Adulto  ](https://m.media-amazon.com/images/I/31BOmG2OINL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07KFZDP4Y/?tag=tolees-21)
+[![PUMA Caracal  Zapatillas Unisex Adulto  ](https://m.media-amazon.com/images/I/31BOmG2OINL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07KFZDP4Y/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Salomon XA Discovery GTX W  Zapatillas d con un 66.11 % de descuento'
 date: 2020-01-11 13:50:15
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41mgt6M8vZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41mgt6M8vZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '44.04'
 
 En este momento está [Salomon XA Discovery GTX W  Zapatillas de Trail Running para Mujer  Rosa  Beet Red/Potent Purple/Calypso Cora   45 1/3 EU](https://www.amazon.es/dp/B07KW9SD3H/?tag=tolees-21) a 44.04 EUR (original: 129.95 EUR) (66.11 %  de descuento) en el siguiente enlace!
 
-[![Salomon XA Discovery GTX W  Zapatillas d](https://images-eu.ssl-images-amazon.com/images/I/41mgt6M8vZL._SL200_.jpg)](https://www.amazon.es/dp/B07KW9SD3H/?tag=tolees-21)
+[![Salomon XA Discovery GTX W  Zapatillas d](https://images-eu.ssl-images-amazon.com/images/I/41mgt6M8vZL._SL400_.jpg)](https://www.amazon.es/dp/B07KW9SD3H/?tag=tolees-21)
 
 🔎:
 

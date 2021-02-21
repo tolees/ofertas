@@ -2,7 +2,7 @@
 layout: post
 title: 'Real Madrid CF- Estuche  Multicolor  SAF al 50.35 % de descuento'
 date: 2020-01-13 08:32:04
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41feywlUrsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41feywlUrsL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.45'
 
 Ahora mismo tienes [Real Madrid CF- Estuche  Multicolor  SAFTA 811954635 ](https://www.amazon.es/dp/B07VJ5C7HJ/?tag=tolees-21) a 6.45 EUR (original: 12.99 EUR) (50.35 %  de descuento) en el siguiente enlace!
 
-[![Real Madrid CF- Estuche  Multicolor  SAF](https://images-eu.ssl-images-amazon.com/images/I/41feywlUrsL._SL200_.jpg)](https://www.amazon.es/dp/B07VJ5C7HJ/?tag=tolees-21)
+[![Real Madrid CF- Estuche  Multicolor  SAF](https://images-eu.ssl-images-amazon.com/images/I/41feywlUrsL._SL400_.jpg)](https://www.amazon.es/dp/B07VJ5C7HJ/?tag=tolees-21)
 
 🔎:
 

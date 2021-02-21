@@ -2,7 +2,7 @@
 layout: post
 title: 'Apple MacBook Air  de 13 pulgadas  Model al 27.35 % de descuento'
 date: 2020-04-08 19:08:22
-image: 'https://m.media-amazon.com/images/I/41QMjy0Qx+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41QMjy0Qx+L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1170.4666666666667'
 
 Ahora mismo tienes [Apple MacBook Air  de 13 pulgadas  Modelo Anterior  8GB RAM  256GB de almacenamiento  - Gris Espacial](https://www.amazon.es/dp/B07V49Y2PS/?tag=tolees-21) a 1089.0 EUR (original: 1499.0 EUR) (27.35 %  de descuento) en el siguiente enlace!
 
-[![Apple MacBook Air  de 13 pulgadas  Model](https://m.media-amazon.com/images/I/41QMjy0Qx+L._SL200_.jpg)](https://www.amazon.es/dp/B07V49Y2PS/?tag=tolees-21)
+[![Apple MacBook Air  de 13 pulgadas  Model](https://m.media-amazon.com/images/I/41QMjy0Qx+L._SL400_.jpg)](https://www.amazon.es/dp/B07V49Y2PS/?tag=tolees-21)
 
 🔎:
 

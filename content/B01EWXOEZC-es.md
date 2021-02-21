@@ -2,7 +2,7 @@
 layout: post
 title: 'Kosma Acero Inoxidable colador profundo  al 47.92 % de descuento'
 date: 2020-04-17 00:38:04
-image: 'https://m.media-amazon.com/images/I/41rBabJ-BSL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41rBabJ-BSL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.89'
 
 Está [Kosma Acero Inoxidable colador profundo manejado Twin   Tamaño- 25 cm Pasta ensalada de verduras de alimentos - tamiz de Sujeción acolchada suave| Color Naranja Base Anti-Skid](https://www.amazon.es/dp/B01EWXOEZC/?tag=tolees-21) con 47.92 de descuento por 9.89 EUR (original: 18.99 EUR) en el siguiente enlace!
 
-[![Kosma Acero Inoxidable colador profundo ](https://m.media-amazon.com/images/I/41rBabJ-BSL._SL200_.jpg)](https://www.amazon.es/dp/B01EWXOEZC/?tag=tolees-21)
+[![Kosma Acero Inoxidable colador profundo ](https://m.media-amazon.com/images/I/41rBabJ-BSL._SL400_.jpg)](https://www.amazon.es/dp/B01EWXOEZC/?tag=tolees-21)
 
 ℹ️:
 

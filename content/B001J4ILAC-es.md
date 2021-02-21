@@ -2,7 +2,7 @@
 layout: post
 title: 'Casio Reloj de Pulsera LW-200D-4AVEF al 51.80 % de rebaja'
 date: 2020-10-06 17:16:09
-image: 'https://m.media-amazon.com/images/I/41E+AjkIMaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41E+AjkIMaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '27.836666666666666'
 
 Tienes [Casio Reloj de Pulsera LW-200D-4AVEF](https://www.amazon.es/dp/B001J4ILAC/?tag=tolees-21) con precio final de  27.03 EUR (original: 56.08 EUR) (51.80 %  de rebaja) aqui!
 
-[![Casio Reloj de Pulsera LW-200D-4AVEF](https://m.media-amazon.com/images/I/41E+AjkIMaL._SL200_.jpg)](https://www.amazon.es/dp/B001J4ILAC/?tag=tolees-21)
+[![Casio Reloj de Pulsera LW-200D-4AVEF](https://m.media-amazon.com/images/I/41E+AjkIMaL._SL400_.jpg)](https://www.amazon.es/dp/B001J4ILAC/?tag=tolees-21)
 
 🔎:
 

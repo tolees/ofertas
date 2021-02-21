@@ -2,7 +2,7 @@
 layout: post
 title: 'TONGJI Vitrina de Acrílico con Luces Com al 50.00 % de rebaja'
 date: 2020-04-16 18:13:55
-image: 'https://m.media-amazon.com/images/I/51D1gb+iThL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51D1gb+iThL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '125.99'
 
 Tienes [TONGJI Vitrina de Acrílico con Luces Compatible con Lego 10266 Ideas - NASA Apollo 11 Lunar Lander  Vitrina A Prueba De Polvo  Modelo No Incluido ](https://www.amazon.es/dp/B083SM9GLN/?tag=tolees-21) con precio final de  125.99 EUR (original: 251.98 EUR) (50.00 %  de rebaja) aqui!
 
-[![TONGJI Vitrina de Acrílico con Luces Com](https://m.media-amazon.com/images/I/51D1gb+iThL._SL200_.jpg)](https://www.amazon.es/dp/B083SM9GLN/?tag=tolees-21)
+[![TONGJI Vitrina de Acrílico con Luces Com](https://m.media-amazon.com/images/I/51D1gb+iThL._SL400_.jpg)](https://www.amazon.es/dp/B083SM9GLN/?tag=tolees-21)
 
 🔎:
 

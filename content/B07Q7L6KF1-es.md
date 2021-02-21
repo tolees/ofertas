@@ -2,7 +2,7 @@
 layout: post
 title: 'Sally Hansen Airbrush Legs Maquillaje pa al 35.12 % de descuento'
 date: 2020-05-31 18:18:53
-image: 'https://m.media-amazon.com/images/I/31ROT2SqIBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31ROT2SqIBL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.7'
 
 Está [Sally Hansen Airbrush Legs Maquillaje para piernas Spray Tono 002 Claro - 130 ml](https://www.amazon.es/dp/B07Q7L6KF1/?tag=tolees-21) con 35.12 de descuento por 9.7 EUR (original: 14.95 EUR) en el siguiente enlace!
 
-[![Sally Hansen Airbrush Legs Maquillaje pa](https://m.media-amazon.com/images/I/31ROT2SqIBL._SL200_.jpg)](https://www.amazon.es/dp/B07Q7L6KF1/?tag=tolees-21)
+[![Sally Hansen Airbrush Legs Maquillaje pa](https://m.media-amazon.com/images/I/31ROT2SqIBL._SL400_.jpg)](https://www.amazon.es/dp/B07Q7L6KF1/?tag=tolees-21)
 
 ℹ️:
 

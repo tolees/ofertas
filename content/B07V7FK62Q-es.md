@@ -2,7 +2,7 @@
 layout: post
 title: 'Diadora Olympia  Zapatillas de Deporte p al 40.44 % de descuento'
 date: 2020-06-10 23:34:41
-image: 'https://m.media-amazon.com/images/I/41xNyTxVH9L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41xNyTxVH9L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '32.76'
 
 Ahora mismo tienes [Diadora Olympia  Zapatillas de Deporte para Hombre  Blanco  White/Black C0351   39 EU](https://www.amazon.es/dp/B07V7FK62Q/?tag=tolees-21) a 32.76 EUR (original: 55.0 EUR) (40.44 %  de descuento) en el siguiente enlace!
 
-[![Diadora Olympia  Zapatillas de Deporte p](https://m.media-amazon.com/images/I/41xNyTxVH9L._SL200_.jpg)](https://www.amazon.es/dp/B07V7FK62Q/?tag=tolees-21)
+[![Diadora Olympia  Zapatillas de Deporte p](https://m.media-amazon.com/images/I/41xNyTxVH9L._SL400_.jpg)](https://www.amazon.es/dp/B07V7FK62Q/?tag=tolees-21)
 
 🔎:
 

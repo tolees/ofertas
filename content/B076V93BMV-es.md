@@ -2,7 +2,7 @@
 layout: post
 title: 'Telémetro Láser 60m Profesional Digital  con un 35.01 % de descuento'
 date: 2020-01-04 21:02:41
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41Gy2Eo1DJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Gy2Eo1DJL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '25.99'
 
 En este momento está [Telémetro Láser 60m Profesional Digital Multifuncional alta Precisión Medida Distancia Surface Volume contra el Polvo con LCD Retroiluminación para Exterior y Interior Tuercas](https://www.amazon.es/dp/B076V93BMV/?tag=tolees-21) a 25.99 EUR (original: 39.99 EUR) (35.01 %  de descuento) en el siguiente enlace!
 
-[![Telémetro Láser 60m Profesional Digital ](https://images-eu.ssl-images-amazon.com/images/I/41Gy2Eo1DJL._SL200_.jpg)](https://www.amazon.es/dp/B076V93BMV/?tag=tolees-21)
+[![Telémetro Láser 60m Profesional Digital ](https://images-eu.ssl-images-amazon.com/images/I/41Gy2Eo1DJL._SL400_.jpg)](https://www.amazon.es/dp/B076V93BMV/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Lámpara de escritorio inteligente iHaper al 44.92 % de descuento'
 date: 2020-01-18 16:51:35
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31CtctppqXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31CtctppqXL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '48.81'
 
 Ahora mismo tienes [Lámpara de escritorio inteligente iHaper DL1: lámpara de mesa LED de 7 W  blanco cálido regulable  ahorro de energía  control de voz Siri  soporte HomeKit  no se requiere concentrador  solo para iOS ](https://www.amazon.es/dp/B07R2JXFVQ/?tag=tolees-21) a 56.99 EUR (original: 103.46 EUR) (44.92 %  de descuento) en el siguiente enlace!
 
-[![Lámpara de escritorio inteligente iHaper](https://images-eu.ssl-images-amazon.com/images/I/31CtctppqXL._SL200_.jpg)](https://www.amazon.es/dp/B07R2JXFVQ/?tag=tolees-21)
+[![Lámpara de escritorio inteligente iHaper](https://images-eu.ssl-images-amazon.com/images/I/31CtctppqXL._SL400_.jpg)](https://www.amazon.es/dp/B07R2JXFVQ/?tag=tolees-21)
 
 🔎:
 

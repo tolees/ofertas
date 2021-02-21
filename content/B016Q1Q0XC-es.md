@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 56.00 % en Maybelline New York Barra de Labios Colo'
 date: 2020-03-20 02:22:12
-image: 'https://m.media-amazon.com/images/I/31iSbiUiH-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31iSbiUiH-L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.4966666666666666'
 
 Tienes [Maybelline New York Barra de Labios Color Drama 110](https://www.amazon.es/dp/B016Q1Q0XC/?tag=tolees-21) con un 56.00 % de descuento con precio de oferta de 2.75 EUR (original: 6.25 EUR) en el siguiente enlace!
 
-[![Maybelline New York Barra de Labios Colo](https://m.media-amazon.com/images/I/31iSbiUiH-L._SL200_.jpg)](https://www.amazon.es/dp/B016Q1Q0XC/?tag=tolees-21)
+[![Maybelline New York Barra de Labios Colo](https://m.media-amazon.com/images/I/31iSbiUiH-L._SL400_.jpg)](https://www.amazon.es/dp/B016Q1Q0XC/?tag=tolees-21)
 
 ℹ️:
 

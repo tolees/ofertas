@@ -2,7 +2,7 @@
 layout: post
 title: 'National Geographic - Telescopio y micro al 28.42 % de descuento'
 date: 2020-01-05 10:07:20
-image: 'https://images-eu.ssl-images-amazon.com/images/I/410DMwo%2BIPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/410DMwo%2BIPL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '69.2'
 
 Ahora mismo tienes [National Geographic - Telescopio y microscopio para Principiantes](https://www.amazon.es/dp/B07NBNDJNJ/?tag=tolees-21) a 69.2 EUR (original: 96.67 EUR) (28.42 %  de descuento) en el siguiente enlace!
 
-[![National Geographic - Telescopio y micro](https://images-eu.ssl-images-amazon.com/images/I/410DMwo%2BIPL._SL200_.jpg)](https://www.amazon.es/dp/B07NBNDJNJ/?tag=tolees-21)
+[![National Geographic - Telescopio y micro](https://images-eu.ssl-images-amazon.com/images/I/410DMwo%2BIPL._SL400_.jpg)](https://www.amazon.es/dp/B07NBNDJNJ/?tag=tolees-21)
 
 🔎:
 

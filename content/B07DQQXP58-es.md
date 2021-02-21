@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas Runr Splt Short Sport Shorts  Hom con un 34.94 % de descuento'
 date: 2020-03-09 14:56:34
-image: 'https://m.media-amazon.com/images/I/31cNJ6LVwIL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31cNJ6LVwIL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '25.99'
 
 En este momento está [adidas Runr Splt Short Sport Shorts  Hombre  Black  M](https://www.amazon.es/dp/B07DQQXP58/?tag=tolees-21) a 25.99 EUR (original: 39.95 EUR) (34.94 %  de descuento) en el siguiente enlace!
 
-[![adidas Runr Splt Short Sport Shorts  Hom](https://m.media-amazon.com/images/I/31cNJ6LVwIL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07DQQXP58/?tag=tolees-21)
+[![adidas Runr Splt Short Sport Shorts  Hom](https://m.media-amazon.com/images/I/31cNJ6LVwIL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07DQQXP58/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'BOSS Long John Thermal+ Pantalones térmi al 59.22 % de descuento'
 date: 2020-04-05 13:16:17
-image: 'https://m.media-amazon.com/images/I/31oGmCvyNDL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31oGmCvyNDL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.655'
 
 Está [BOSS Long John Thermal+ Pantalones térmicos  Negro  Black 1   Large para Hombre](https://www.amazon.es/dp/B07S1XKMJD/?tag=tolees-21) con 59.22 de descuento por 20.37 EUR (original: 49.95 EUR) en el siguiente enlace!
 
-[![BOSS Long John Thermal+ Pantalones térmi](https://m.media-amazon.com/images/I/31oGmCvyNDL._SL200_.jpg)](https://www.amazon.es/dp/B07S1XKMJD/?tag=tolees-21)
+[![BOSS Long John Thermal+ Pantalones térmi](https://m.media-amazon.com/images/I/31oGmCvyNDL._SL400_.jpg)](https://www.amazon.es/dp/B07S1XKMJD/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'La Estrella Café Molido de tueste natura al 37.50 % de descuento'
 date: 2020-05-13 17:02:57
-image: 'https://m.media-amazon.com/images/I/51QYBiCxigL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51QYBiCxigL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.0'
 
 Ahora mismo tienes [La Estrella Café Molido de tueste natural  50%  y torrefacto  50%  - Paquete de 250 gr](https://www.amazon.es/dp/B01K7QMEDW/?tag=tolees-21) a 1.0 EUR (original: 1.6 EUR) (37.50 %  de descuento) en el siguiente enlace!
 
-[![La Estrella Café Molido de tueste natura](https://m.media-amazon.com/images/I/51QYBiCxigL._SL200_.jpg)](https://www.amazon.es/dp/B01K7QMEDW/?tag=tolees-21)
+[![La Estrella Café Molido de tueste natura](https://m.media-amazon.com/images/I/51QYBiCxigL._SL400_.jpg)](https://www.amazon.es/dp/B01K7QMEDW/?tag=tolees-21)
 
 🔎:
 

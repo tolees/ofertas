@@ -2,7 +2,7 @@
 layout: post
 title: 'CARPISA ® Shopper de fantasía con cremal al 49.98 % de descuento'
 date: 2020-06-23 15:31:30
-image: 'https://m.media-amazon.com/images/I/512rktf+jOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/512rktf+jOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.98'
 
 Ahora mismo tienes [CARPISA ® Shopper de fantasía con cremallera - Foresta](https://www.amazon.es/dp/B07XRYRMCZ/?tag=tolees-21) a 12.98 EUR (original: 25.95 EUR) (49.98 %  de descuento) en el siguiente enlace!
 
-[![CARPISA ® Shopper de fantasía con cremal](https://m.media-amazon.com/images/I/512rktf+jOL._SL200_.jpg)](https://www.amazon.es/dp/B07XRYRMCZ/?tag=tolees-21)
+[![CARPISA ® Shopper de fantasía con cremal](https://m.media-amazon.com/images/I/512rktf+jOL._SL400_.jpg)](https://www.amazon.es/dp/B07XRYRMCZ/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'L Óreal Paris Barra de Labios Color Rich con un 41.08 % de descuento'
 date: 2020-01-15 03:23:03
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31Jgz0GSCWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Jgz0GSCWL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.22'
 
 En este momento está [L Óreal Paris Barra de Labios Color Riche Shine  Tono Fucsia 465 Trending](https://www.amazon.es/dp/B078BRFQZB/?tag=tolees-21) a 8.22 EUR (original: 13.95 EUR) (41.08 %  de descuento) en el siguiente enlace!
 
-[![L Óreal Paris Barra de Labios Color Rich](https://images-eu.ssl-images-amazon.com/images/I/31Jgz0GSCWL._SL200_.jpg)](https://www.amazon.es/dp/B078BRFQZB/?tag=tolees-21)
+[![L Óreal Paris Barra de Labios Color Rich](https://images-eu.ssl-images-amazon.com/images/I/31Jgz0GSCWL._SL400_.jpg)](https://www.amazon.es/dp/B078BRFQZB/?tag=tolees-21)
 
 🔎:
 

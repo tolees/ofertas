@@ -2,7 +2,7 @@
 layout: post
 title: 'Salomon Speedcross Bungee K  Zapatillas  al 29.29 % de rebaja'
 date: 2020-09-20 16:22:12
-image: 'https://m.media-amazon.com/images/I/41+r2zv2knL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41+r2zv2knL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '49.49'
 
 Tienes [Salomon Speedcross Bungee K  Zapatillas de Trail Running Unisex Niños  Verde  Green Gables/Icy Morn/Patina Green   29 EU](https://www.amazon.es/dp/B07RFNHY9J/?tag=tolees-21) con precio final de  49.49 EUR (original: 69.99 EUR) (29.29 %  de rebaja) aqui!
 
-[![Salomon Speedcross Bungee K  Zapatillas ](https://m.media-amazon.com/images/I/41+r2zv2knL._SL200_.jpg)](https://www.amazon.es/dp/B07RFNHY9J/?tag=tolees-21)
+[![Salomon Speedcross Bungee K  Zapatillas ](https://m.media-amazon.com/images/I/41+r2zv2knL._SL400_.jpg)](https://www.amazon.es/dp/B07RFNHY9J/?tag=tolees-21)
 
 🔎:
 

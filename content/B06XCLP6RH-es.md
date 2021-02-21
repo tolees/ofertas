@@ -2,7 +2,7 @@
 layout: post
 title: 'DH Sports Grofitness Calcetines de compr al 40.03 % de descuento'
 date: 2020-04-23 11:02:37
-image: 'https://m.media-amazon.com/images/I/41uNP+-BgcL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41uNP+-BgcL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.29'
 
 Está [DH Sports Grofitness Calcetines de compresión para Correr  Baloncesto  fútbol  Ciclismo  Correr  Senderismo  Color 1 par de Aceitunas  tamaño Talla única](https://www.amazon.es/dp/B06XCLP6RH/?tag=tolees-21) con 40.03 de descuento por 10.29 EUR (original: 17.16 EUR) en el siguiente enlace!
 
-[![DH Sports Grofitness Calcetines de compr](https://m.media-amazon.com/images/I/41uNP+-BgcL._SL200_.jpg)](https://www.amazon.es/dp/B06XCLP6RH/?tag=tolees-21)
+[![DH Sports Grofitness Calcetines de compr](https://m.media-amazon.com/images/I/41uNP+-BgcL._SL400_.jpg)](https://www.amazon.es/dp/B06XCLP6RH/?tag=tolees-21)
 
 ℹ️:
 

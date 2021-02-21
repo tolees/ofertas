@@ -2,7 +2,7 @@
 layout: post
 title: 'Maybelline New York The Colossal Go Extr al 34.48 % de descuento'
 date: 2020-02-24 13:41:33
-image: 'https://m.media-amazon.com/images/I/31YccbT3V0L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31YccbT3V0L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.89'
 
 Está [Maybelline New York The Colossal Go Extreme Radical Black Máscara de Pestañas Negra Volumen - 9.5 ml](https://www.amazon.es/dp/B008X1GA6Q/?tag=tolees-21) con 34.48 de descuento por 5.89 EUR (original: 8.99 EUR) en el siguiente enlace!
 
-[![Maybelline New York The Colossal Go Extr](https://m.media-amazon.com/images/I/31YccbT3V0L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B008X1GA6Q/?tag=tolees-21)
+[![Maybelline New York The Colossal Go Extr](https://m.media-amazon.com/images/I/31YccbT3V0L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B008X1GA6Q/?tag=tolees-21)
 
 ℹ️:
 

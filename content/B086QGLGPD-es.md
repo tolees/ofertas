@@ -2,7 +2,7 @@
 layout: post
 title: 'Suhctup Funda Compatible con iPhone XR C al 46.80 % de descuento'
 date: 2020-05-29 08:03:02
-image: 'https://m.media-amazon.com/images/I/41y5VjxrjcL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41y5VjxrjcL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.98'
 
 Está [Suhctup Funda Compatible con iPhone XR Carcasa Transparente Dibujo Diseño Flor [Protección Caídas] Ultra-Delgado Flexible Silicona TPU Estuche Cover para iPhone XR Mandala 4](https://www.amazon.es/dp/B086QGLGPD/?tag=tolees-21) con 46.80 de descuento por 8.98 EUR (original: 16.88 EUR) en el siguiente enlace!
 
-[![Suhctup Funda Compatible con iPhone XR C](https://m.media-amazon.com/images/I/41y5VjxrjcL._SL200_.jpg)](https://www.amazon.es/dp/B086QGLGPD/?tag=tolees-21)
+[![Suhctup Funda Compatible con iPhone XR C](https://m.media-amazon.com/images/I/41y5VjxrjcL._SL400_.jpg)](https://www.amazon.es/dp/B086QGLGPD/?tag=tolees-21)
 
 ℹ️:
 

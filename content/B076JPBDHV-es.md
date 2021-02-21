@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas Trefoil T-Shirt T-Shirt  Hombre   al 33.36 % de descuento'
 date: 2020-02-25 11:03:23
-image: 'https://m.media-amazon.com/images/I/412ThimFlKL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/412ThimFlKL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.96'
 
 Está [adidas Trefoil T-Shirt T-Shirt  Hombre  White  XL](https://www.amazon.es/dp/B076JPBDHV/?tag=tolees-21) con 33.36 de descuento por 19.96 EUR (original: 29.95 EUR) en el siguiente enlace!
 
-[![adidas Trefoil T-Shirt T-Shirt  Hombre  ](https://m.media-amazon.com/images/I/412ThimFlKL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B076JPBDHV/?tag=tolees-21)
+[![adidas Trefoil T-Shirt T-Shirt  Hombre  ](https://m.media-amazon.com/images/I/412ThimFlKL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B076JPBDHV/?tag=tolees-21)
 
 ℹ️:
 

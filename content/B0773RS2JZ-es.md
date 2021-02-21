@@ -2,7 +2,7 @@
 layout: post
 title: 'Beurer BM28 Onpack - Tensiómetro de braz al 33.21 % de descuento'
 date: 2020-08-16 08:54:19
-image: 'https://m.media-amazon.com/images/I/41rffZtV2KL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41rffZtV2KL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '34.90692307692308'
 
 Ahora mismo tienes [Beurer BM28 Onpack - Tensiómetro de brazo con adaptador](https://www.amazon.es/dp/B0773RS2JZ/?tag=tolees-21) a 29.99 EUR (original: 44.9 EUR) (33.21 %  de descuento) en el siguiente enlace!
 
-[![Beurer BM28 Onpack - Tensiómetro de braz](https://m.media-amazon.com/images/I/41rffZtV2KL._SL200_.jpg)](https://www.amazon.es/dp/B0773RS2JZ/?tag=tolees-21)
+[![Beurer BM28 Onpack - Tensiómetro de braz](https://m.media-amazon.com/images/I/41rffZtV2KL._SL400_.jpg)](https://www.amazon.es/dp/B0773RS2JZ/?tag=tolees-21)
 
 🔎:
 

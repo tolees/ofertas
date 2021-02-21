@@ -2,7 +2,7 @@
 layout: post
 title: 'Hello Neighbor: Hide And Seek al 40.08 % de descuento'
 date: 2020-05-26 18:10:49
-image: 'https://m.media-amazon.com/images/I/51bwjFPjWAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51bwjFPjWAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.527142857142858'
 
 Ahora mismo tienes [Hello Neighbor: Hide And Seek](https://www.amazon.es/dp/B07HSRHGHL/?tag=tolees-21) a 14.95 EUR (original: 24.95 EUR) (40.08 %  de descuento) en el siguiente enlace!
 
-[![Hello Neighbor: Hide And Seek](https://m.media-amazon.com/images/I/51bwjFPjWAL._SL200_.jpg)](https://www.amazon.es/dp/B07HSRHGHL/?tag=tolees-21)
+[![Hello Neighbor: Hide And Seek](https://m.media-amazon.com/images/I/51bwjFPjWAL._SL400_.jpg)](https://www.amazon.es/dp/B07HSRHGHL/?tag=tolees-21)
 
 🔎:
 

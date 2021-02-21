@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger Kids Plaque Belt 3.0 Cint al 39.97 % de descuento'
 date: 2020-05-23 16:39:43
-image: 'https://m.media-amazon.com/images/I/41vrfEbTZLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41vrfEbTZLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.95'
 
 Ahora mismo tienes [Tommy Hilfiger Kids Plaque Belt 3.0 Cinturón  Azul  Blue 0Gy   Medium Unisex Adulto](https://www.amazon.es/dp/B07RF2FLYX/?tag=tolees-21) a 17.95 EUR (original: 29.9 EUR) (39.97 %  de descuento) en el siguiente enlace!
 
-[![Tommy Hilfiger Kids Plaque Belt 3.0 Cint](https://m.media-amazon.com/images/I/41vrfEbTZLL._SL200_.jpg)](https://www.amazon.es/dp/B07RF2FLYX/?tag=tolees-21)
+[![Tommy Hilfiger Kids Plaque Belt 3.0 Cint](https://m.media-amazon.com/images/I/41vrfEbTZLL._SL400_.jpg)](https://www.amazon.es/dp/B07RF2FLYX/?tag=tolees-21)
 
 🔎:
 

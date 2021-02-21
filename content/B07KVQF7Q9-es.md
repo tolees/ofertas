@@ -2,7 +2,7 @@
 layout: post
 title: 'FITUEYES Cristal Soporte de Monitor de P al 32.01 % de rebaja'
 date: 2020-08-11 06:30:53
-image: 'https://m.media-amazon.com/images/I/41k+BcY9YiL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41k+BcY9YiL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.99'
 
 Tienes [FITUEYES Cristal Soporte de Monitor de Portátil Elevador de Monitor DT103804GC](https://www.amazon.es/dp/B07KVQF7Q9/?tag=tolees-21) con precio final de  16.99 EUR (original: 24.99 EUR) (32.01 %  de rebaja) aqui!
 
-[![FITUEYES Cristal Soporte de Monitor de P](https://m.media-amazon.com/images/I/41k+BcY9YiL._SL200_.jpg)](https://www.amazon.es/dp/B07KVQF7Q9/?tag=tolees-21)
+[![FITUEYES Cristal Soporte de Monitor de P](https://m.media-amazon.com/images/I/41k+BcY9YiL._SL400_.jpg)](https://www.amazon.es/dp/B07KVQF7Q9/?tag=tolees-21)
 
 🔎:
 

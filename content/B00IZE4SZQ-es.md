@@ -2,7 +2,7 @@
 layout: post
 title: 'Casio Reloj Analógico para Hombre de Cua al 52.79 % de rebaja'
 date: 2020-10-01 13:31:51
-image: 'https://m.media-amazon.com/images/I/51WXpja9NML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51WXpja9NML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.77857142857143'
 
 Tienes [Casio Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable MTP-1183PA-7AEF](https://www.amazon.es/dp/B00IZE4SZQ/?tag=tolees-21) con precio final de  29.9 EUR (original: 63.34 EUR) (52.79 %  de rebaja) aqui!
 
-[![Casio Reloj Analógico para Hombre de Cua](https://m.media-amazon.com/images/I/51WXpja9NML._SL200_.jpg)](https://www.amazon.es/dp/B00IZE4SZQ/?tag=tolees-21)
+[![Casio Reloj Analógico para Hombre de Cua](https://m.media-amazon.com/images/I/51WXpja9NML._SL400_.jpg)](https://www.amazon.es/dp/B00IZE4SZQ/?tag=tolees-21)
 
 🔎:
 

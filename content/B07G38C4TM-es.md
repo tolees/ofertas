@@ -2,7 +2,7 @@
 layout: post
 title: 'Chicco Echo Silla de paseo  ligera y com al 42.02 % de rebaja'
 date: 2020-03-02 09:35:56
-image: 'https://m.media-amazon.com/images/I/419eIpL7eVL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/419eIpL7eVL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '68.17333333333333'
 
 Tienes [Chicco Echo Silla de paseo  ligera y compacta  soporta hasta 22kg  Rosa  Deep Pink ](https://www.amazon.es/dp/B07G38C4TM/?tag=tolees-21) con precio final de  69.0 EUR (original: 119.0 EUR) (42.02 %  de rebaja) aqui!
 
-[![Chicco Echo Silla de paseo  ligera y com](https://m.media-amazon.com/images/I/419eIpL7eVL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07G38C4TM/?tag=tolees-21)
+[![Chicco Echo Silla de paseo  ligera y com](https://m.media-amazon.com/images/I/419eIpL7eVL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07G38C4TM/?tag=tolees-21)
 
 🔎:
 

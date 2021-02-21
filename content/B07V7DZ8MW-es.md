@@ -2,7 +2,7 @@
 layout: post
 title: 'JACK & JONES Jjiace Jjworker WW Pantalon con un 73.73 % de descuento'
 date: 2020-02-19 20:31:18
-image: 'https://m.media-amazon.com/images/I/31RDdBrV9CL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31RDdBrV9CL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.76'
 
 En este momento está [JACK & JONES Jjiace Jjworker WW Pantalones  Verde  Olive Night Olive Night   W34/L30  Talla del Fabricante: 34  para Hombre](https://www.amazon.es/dp/B07V7DZ8MW/?tag=tolees-21) a 15.76 EUR (original: 59.99 EUR) (73.73 %  de descuento) en el siguiente enlace!
 
-[![JACK & JONES Jjiace Jjworker WW Pantalon](https://m.media-amazon.com/images/I/31RDdBrV9CL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07V7DZ8MW/?tag=tolees-21)
+[![JACK & JONES Jjiace Jjworker WW Pantalon](https://m.media-amazon.com/images/I/31RDdBrV9CL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07V7DZ8MW/?tag=tolees-21)
 
 🔎:
 

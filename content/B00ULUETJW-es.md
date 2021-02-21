@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 55.69 % en NIDO DE PAJAROS - INTERHOME©'
 date: 2020-03-19 10:12:39
-image: 'https://m.media-amazon.com/images/I/51zvt+uA5ZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51zvt+uA5ZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.99'
 
 Tienes [NIDO DE PAJAROS - INTERHOME©](https://www.amazon.es/dp/B00ULUETJW/?tag=tolees-21) con un 55.69 % de descuento con precio de oferta de 10.99 EUR (original: 24.8 EUR) en el siguiente enlace!
 
-[![NIDO DE PAJAROS - INTERHOME©](https://m.media-amazon.com/images/I/51zvt+uA5ZL._SL200_.jpg)](https://www.amazon.es/dp/B00ULUETJW/?tag=tolees-21)
+[![NIDO DE PAJAROS - INTERHOME©](https://m.media-amazon.com/images/I/51zvt+uA5ZL._SL400_.jpg)](https://www.amazon.es/dp/B00ULUETJW/?tag=tolees-21)
 
 ℹ️:
 

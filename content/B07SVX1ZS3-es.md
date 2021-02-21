@@ -2,7 +2,7 @@
 layout: post
 title: 'GFF Moderno Cerámica Escultura Einfaches con un 41.61 % de descuento'
 date: 2020-04-16 08:31:52
-image: 'https://m.media-amazon.com/images/I/51isM5jlcqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51isM5jlcqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '75.99'
 
 En este momento está [GFF Moderno Cerámica Escultura Einfaches Wohnzimmer Pers \u0026 ouml; nlichkeit Hauptdekoration Kreativer Weinschrank Kunst Ornamente TV Schrank Handwerk Manualidades Adornos  Tamaño: B ](https://www.amazon.es/dp/B07SVX1ZS3/?tag=tolees-21) a 75.99 EUR (original: 130.14 EUR) (41.61 %  de descuento) en el siguiente enlace!
 
-[![GFF Moderno Cerámica Escultura Einfaches](https://m.media-amazon.com/images/I/51isM5jlcqL._SL200_.jpg)](https://www.amazon.es/dp/B07SVX1ZS3/?tag=tolees-21)
+[![GFF Moderno Cerámica Escultura Einfaches](https://m.media-amazon.com/images/I/51isM5jlcqL._SL400_.jpg)](https://www.amazon.es/dp/B07SVX1ZS3/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'FOGAWA Banda de Cuero Plana Banda de Pie al 31.27 % de descuento'
 date: 2020-04-08 06:06:12
-image: 'https://m.media-amazon.com/images/I/41EuF4A+fXL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41EuF4A+fXL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.99'
 
 Ahora mismo tienes [FOGAWA Banda de Cuero Plana Banda de Piel Correa 20mmx2mm Leather Cord Cintas de Cuero Marrón Tira de Piel para Manualidades Bricolaje Artesanía Hogar Costura Decoración 1metros](https://www.amazon.es/dp/B07XXT7TZR/?tag=tolees-21) a 10.99 EUR (original: 15.99 EUR) (31.27 %  de descuento) en el siguiente enlace!
 
-[![FOGAWA Banda de Cuero Plana Banda de Pie](https://m.media-amazon.com/images/I/41EuF4A+fXL._SL200_.jpg)](https://www.amazon.es/dp/B07XXT7TZR/?tag=tolees-21)
+[![FOGAWA Banda de Cuero Plana Banda de Pie](https://m.media-amazon.com/images/I/41EuF4A+fXL._SL400_.jpg)](https://www.amazon.es/dp/B07XXT7TZR/?tag=tolees-21)
 
 🔎:
 

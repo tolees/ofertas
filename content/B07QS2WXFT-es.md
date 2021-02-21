@@ -2,7 +2,7 @@
 layout: post
 title: 'Vieta Pro Easy - Altavoz inalámbrico  Tr al 40.19 % de descuento'
 date: 2020-08-02 17:50:36
-image: 'https://m.media-amazon.com/images/I/41xVWIF-vsL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41xVWIF-vsL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.92'
 
 Ahora mismo tienes [Vieta Pro Easy - Altavoz inalámbrico  True Wireless Bluetooth  Radio FM  Reproductor USB  auxiliar  micrófono integrado  resistencia al agua IPX6  batería de 12 horas  azul](https://www.amazon.es/dp/B07QS2WXFT/?tag=tolees-21) a 23.92 EUR (original: 39.99 EUR) (40.19 %  de descuento) en el siguiente enlace!
 
-[![Vieta Pro Easy - Altavoz inalámbrico  Tr](https://m.media-amazon.com/images/I/41xVWIF-vsL._SL200_.jpg)](https://www.amazon.es/dp/B07QS2WXFT/?tag=tolees-21)
+[![Vieta Pro Easy - Altavoz inalámbrico  Tr](https://m.media-amazon.com/images/I/41xVWIF-vsL._SL400_.jpg)](https://www.amazon.es/dp/B07QS2WXFT/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Salomon Alphacross  Zapatillas de Trail  al 30.02 % de rebaja'
 date: 2020-07-01 15:55:50
-image: 'https://m.media-amazon.com/images/I/419F-UKMu4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/419F-UKMu4L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '62.95'
 
 Tienes [Salomon Alphacross  Zapatillas de Trail Running para Hombre  Negro  Black/White/Monument   46 EU](https://www.amazon.es/dp/B07KQQWC69/?tag=tolees-21) con precio final de  62.95 EUR (original: 89.95 EUR) (30.02 %  de rebaja) aqui!
 
-[![Salomon Alphacross  Zapatillas de Trail ](https://m.media-amazon.com/images/I/419F-UKMu4L._SL200_.jpg)](https://www.amazon.es/dp/B07KQQWC69/?tag=tolees-21)
+[![Salomon Alphacross  Zapatillas de Trail ](https://m.media-amazon.com/images/I/419F-UKMu4L._SL400_.jpg)](https://www.amazon.es/dp/B07KQQWC69/?tag=tolees-21)
 
 🔎:
 

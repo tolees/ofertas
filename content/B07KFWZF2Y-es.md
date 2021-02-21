@@ -2,7 +2,7 @@
 layout: post
 title: 'PUMA Aeon Heritage Wn s  Zapatillas Depo al 55.03 % de descuento'
 date: 2020-01-08 17:16:25
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31JNvXkQROL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31JNvXkQROL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '35.95'
 
 Ahora mismo tienes [PUMA Aeon Heritage Wn s  Zapatillas Deportivas para Mujer  White-Sulphur  37 EU](https://www.amazon.es/dp/B07KFWZF2Y/?tag=tolees-21) a 35.95 EUR (original: 79.95 EUR) (55.03 %  de descuento) en el siguiente enlace!
 
-[![PUMA Aeon Heritage Wn s  Zapatillas Depo](https://images-eu.ssl-images-amazon.com/images/I/31JNvXkQROL._SL200_.jpg)](https://www.amazon.es/dp/B07KFWZF2Y/?tag=tolees-21)
+[![PUMA Aeon Heritage Wn s  Zapatillas Depo](https://images-eu.ssl-images-amazon.com/images/I/31JNvXkQROL._SL400_.jpg)](https://www.amazon.es/dp/B07KFWZF2Y/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'PUMA Hit Feel It 7/8 Tight Mallas Deport al 50.73 % de descuento'
 date: 2020-01-14 12:08:46
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31juMA%2BN1BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31juMA%2BN1BL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.61'
 
 Está [PUMA Hit Feel It 7/8 Tight Mallas Deporte  Mujer  Black-Bridal Rose-Yellow Alert  S](https://www.amazon.es/dp/B07QD6LH1T/?tag=tolees-21) con 50.73 de descuento por 24.61 EUR (original: 49.95 EUR) en el siguiente enlace!
 
-[![PUMA Hit Feel It 7/8 Tight Mallas Deport](https://images-eu.ssl-images-amazon.com/images/I/31juMA%2BN1BL._SL200_.jpg)](https://www.amazon.es/dp/B07QD6LH1T/?tag=tolees-21)
+[![PUMA Hit Feel It 7/8 Tight Mallas Deport](https://images-eu.ssl-images-amazon.com/images/I/31juMA%2BN1BL._SL400_.jpg)](https://www.amazon.es/dp/B07QD6LH1T/?tag=tolees-21)
 
 ℹ️:
 

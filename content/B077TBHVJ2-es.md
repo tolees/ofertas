@@ -2,7 +2,7 @@
 layout: post
 title: 'BaByliss AS500E – Cepillo de aire con se al 46.90 % de descuento'
 date: 2020-06-06 22:06:56
-image: 'https://m.media-amazon.com/images/I/41ILw2WnCWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ILw2WnCWL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '81.3675'
 
 Ahora mismo tienes [BaByliss AS500E – Cepillo de aire con sensor digital ajusta automáticamente la temperatura según el cabezal  4 cabezales  base cerámica  aerodinámica térmica  iónico  2 velocidades y aire frío](https://www.amazon.es/dp/B077TBHVJ2/?tag=tolees-21) a 76.99 EUR (original: 145.0 EUR) (46.90 %  de descuento) en el siguiente enlace!
 
-[![BaByliss AS500E – Cepillo de aire con se](https://m.media-amazon.com/images/I/41ILw2WnCWL._SL200_.jpg)](https://www.amazon.es/dp/B077TBHVJ2/?tag=tolees-21)
+[![BaByliss AS500E – Cepillo de aire con se](https://m.media-amazon.com/images/I/41ILw2WnCWL._SL400_.jpg)](https://www.amazon.es/dp/B077TBHVJ2/?tag=tolees-21)
 
 🔎:
 

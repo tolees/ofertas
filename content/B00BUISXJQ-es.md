@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 51.71 % en Nioxin Sistema 6 Acondicionador - 300 ml'
 date: 2020-01-23 08:17:57
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31mAhLVzclL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31mAhLVzclL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11'
 
 Tienes [Nioxin Sistema 6 Acondicionador - 300 ml.](https://www.amazon.es/dp/B00BUISXJQ/?tag=tolees-21) con un 51.71 % de descuento con precio de oferta de 11 EUR (original: 22.78 EUR) en el siguiente enlace!
 
-[![Nioxin Sistema 6 Acondicionador - 300 ml](https://images-eu.ssl-images-amazon.com/images/I/31mAhLVzclL._SL200_.jpg)](https://www.amazon.es/dp/B00BUISXJQ/?tag=tolees-21)
+[![Nioxin Sistema 6 Acondicionador - 300 ml](https://images-eu.ssl-images-amazon.com/images/I/31mAhLVzclL._SL400_.jpg)](https://www.amazon.es/dp/B00BUISXJQ/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Star Wars: Battlefront II - Edición está al 62.49 % de rebaja'
 date: 2020-02-08 04:36:20
-image: 'https://m.media-amazon.com/images/I/51RJo7CT+aL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51RJo7CT+aL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.939999999999998'
 
 Tienes [Star Wars: Battlefront II - Edición estándar  La caja contiene un código de descarga - Origin ](https://www.amazon.es/dp/B071CNQWV4/?tag=tolees-21) con precio final de  15.0 EUR (original: 39.99 EUR) (62.49 %  de rebaja) aqui!
 
-[![Star Wars: Battlefront II - Edición está](https://m.media-amazon.com/images/I/51RJo7CT+aL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B071CNQWV4/?tag=tolees-21)
+[![Star Wars: Battlefront II - Edición está](https://m.media-amazon.com/images/I/51RJo7CT+aL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B071CNQWV4/?tag=tolees-21)
 
 🔎:
 

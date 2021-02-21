@@ -2,7 +2,7 @@
 layout: post
 title: 'G-STAR RAW Lynn Mid Waist Skinny  Jeans  al 46.91 % de rebaja'
 date: 2020-01-25 21:21:17
-image: 'https://m.media-amazon.com/images/I/31RgivLvdhL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31RgivLvdhL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '68.99'
 
 Tienes [G-STAR RAW Lynn Mid Waist Skinny  Jeans Ajustados  Azul  lt Aged D008-424   28W / 32L para Mujer](https://www.amazon.es/dp/B01N5DUT19/?tag=tolees-21) con precio final de  68.99 EUR (original: 129.95 EUR) (46.91 %  de rebaja) aqui!
 
-[![G-STAR RAW Lynn Mid Waist Skinny  Jeans ](https://m.media-amazon.com/images/I/31RgivLvdhL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01N5DUT19/?tag=tolees-21)
+[![G-STAR RAW Lynn Mid Waist Skinny  Jeans ](https://m.media-amazon.com/images/I/31RgivLvdhL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01N5DUT19/?tag=tolees-21)
 
 🔎:
 

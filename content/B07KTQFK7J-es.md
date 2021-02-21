@@ -2,7 +2,7 @@
 layout: post
 title: 'Lacoste Reloj de Pulsera 2001065 al 30.00 % de descuento'
 date: 2020-05-12 16:10:26
-image: 'https://m.media-amazon.com/images/I/31nukQVjPCL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31nukQVjPCL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '69.3'
 
 Ahora mismo tienes [Lacoste Reloj de Pulsera 2001065](https://www.amazon.es/dp/B07KTQFK7J/?tag=tolees-21) a 69.3 EUR (original: 99.0 EUR) (30.00 %  de descuento) en el siguiente enlace!
 
-[![Lacoste Reloj de Pulsera 2001065](https://m.media-amazon.com/images/I/31nukQVjPCL._SL200_.jpg)](https://www.amazon.es/dp/B07KTQFK7J/?tag=tolees-21)
+[![Lacoste Reloj de Pulsera 2001065](https://m.media-amazon.com/images/I/31nukQVjPCL._SL400_.jpg)](https://www.amazon.es/dp/B07KTQFK7J/?tag=tolees-21)
 
 🔎:
 

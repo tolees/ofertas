@@ -2,7 +2,7 @@
 layout: post
 title: 'Kipling - Art Nc  Bolsos maletín Mujer   con un 53.72 % de descuento'
 date: 2020-06-04 01:13:29
-image: 'https://m.media-amazon.com/images/I/51unYbdKY2L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51unYbdKY2L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '39.34'
 
 En este momento está [Kipling - Art Nc  Bolsos maletín Mujer  Naranja  Funky Orange Nc   44x27x20 cm  B x H T ](https://www.amazon.es/dp/B07MVHT78V/?tag=tolees-21) a 39.34 EUR (original: 85.0 EUR) (53.72 %  de descuento) en el siguiente enlace!
 
-[![Kipling - Art Nc  Bolsos maletín Mujer  ](https://m.media-amazon.com/images/I/51unYbdKY2L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07MVHT78V/?tag=tolees-21)
+[![Kipling - Art Nc  Bolsos maletín Mujer  ](https://m.media-amazon.com/images/I/51unYbdKY2L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07MVHT78V/?tag=tolees-21)
 
 🔎:
 

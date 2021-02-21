@@ -2,7 +2,7 @@
 layout: post
 title: 'Atrayente de micciones 125 ml educador d al 41.60 % de rebaja'
 date: 2020-04-22 15:32:30
-image: 'https://m.media-amazon.com/images/I/31eLI4xWEBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31eLI4xWEBL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.31'
 
 Tienes [Atrayente de micciones 125 ml educador de perros cachorros](https://www.amazon.es/dp/B019ZSNTXW/?tag=tolees-21) con precio final de  6.95 EUR (original: 11.9 EUR) (41.60 %  de rebaja) aqui!
 
-[![Atrayente de micciones 125 ml educador d](https://m.media-amazon.com/images/I/31eLI4xWEBL._SL200_.jpg)](https://www.amazon.es/dp/B019ZSNTXW/?tag=tolees-21)
+[![Atrayente de micciones 125 ml educador d](https://m.media-amazon.com/images/I/31eLI4xWEBL._SL400_.jpg)](https://www.amazon.es/dp/B019ZSNTXW/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Brabantia Bo Touch Bin Cubo de Basura  1 con un 41.48 % de descuento'
 date: 2020-08-29 15:03:54
-image: 'https://m.media-amazon.com/images/I/31LHSHATtYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31LHSHATtYL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '105.73'
 
 En este momento está [Brabantia Bo Touch Bin Cubo de Basura  11 + 23 litros  Rojo  Passion Red ](https://www.amazon.es/dp/B073ZHCZG3/?tag=tolees-21) a 93.05 EUR (original: 159.0 EUR) (41.48 %  de descuento) en el siguiente enlace!
 
-[![Brabantia Bo Touch Bin Cubo de Basura  1](https://m.media-amazon.com/images/I/31LHSHATtYL._SL200_.jpg)](https://www.amazon.es/dp/B073ZHCZG3/?tag=tolees-21)
+[![Brabantia Bo Touch Bin Cubo de Basura  1](https://m.media-amazon.com/images/I/31LHSHATtYL._SL400_.jpg)](https://www.amazon.es/dp/B073ZHCZG3/?tag=tolees-21)
 
 🔎:
 

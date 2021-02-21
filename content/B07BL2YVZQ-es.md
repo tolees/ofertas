@@ -2,7 +2,7 @@
 layout: post
 title: 'New Balance 220  Zapatillas para Mujer   al 43.81 % de descuento'
 date: 2020-01-16 17:17:17
-image: 'https://images-eu.ssl-images-amazon.com/images/I/319x9zeQusL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/319x9zeQusL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '44.95'
 
 Ahora mismo tienes [New Balance 220  Zapatillas para Mujer  Negro  Black/White Tpb   41.5 EU](https://www.amazon.es/dp/B07BL2YVZQ/?tag=tolees-21) a 44.95 EUR (original: 80 EUR) (43.81 %  de descuento) en el siguiente enlace!
 
-[![New Balance 220  Zapatillas para Mujer  ](https://images-eu.ssl-images-amazon.com/images/I/319x9zeQusL._SL200_.jpg)](https://www.amazon.es/dp/B07BL2YVZQ/?tag=tolees-21)
+[![New Balance 220  Zapatillas para Mujer  ](https://images-eu.ssl-images-amazon.com/images/I/319x9zeQusL._SL400_.jpg)](https://www.amazon.es/dp/B07BL2YVZQ/?tag=tolees-21)
 
 🔎:
 

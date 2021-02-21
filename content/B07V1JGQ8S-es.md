@@ -2,7 +2,7 @@
 layout: post
 title: 'Nike Pico 5  TDV   Gymnastics Shoe Unise con un 44.04 % de descuento'
 date: 2020-08-12 08:03:45
-image: 'https://m.media-amazon.com/images/I/41gudLHa+yL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41gudLHa+yL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.55'
 
 En este momento está [Nike Pico 5  TDV   Gymnastics Shoe Unisex-Baby  Black/Black  26 EU](https://www.amazon.es/dp/B07V1JGQ8S/?tag=tolees-21) a 14.55 EUR (original: 26.0 EUR) (44.04 %  de descuento) en el siguiente enlace!
 
-[![Nike Pico 5  TDV   Gymnastics Shoe Unise](https://m.media-amazon.com/images/I/41gudLHa+yL._SL200_.jpg)](https://www.amazon.es/dp/B07V1JGQ8S/?tag=tolees-21)
+[![Nike Pico 5  TDV   Gymnastics Shoe Unise](https://m.media-amazon.com/images/I/41gudLHa+yL._SL400_.jpg)](https://www.amazon.es/dp/B07V1JGQ8S/?tag=tolees-21)
 
 🔎:
 

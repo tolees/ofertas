@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s 501 High Rise Short Pantalones Co al 40.93 % de rebaja'
 date: 2020-05-29 06:39:15
-image: 'https://m.media-amazon.com/images/I/41KBxTxCcML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41KBxTxCcML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '32.49'
 
 Tienes [Levi s 501 High Rise Short Pantalones Cortos  Azul  Weak In The Knees 0013   W30  Talla del Fabricante: 30  para Mujer](https://www.amazon.es/dp/B07KF4QV9H/?tag=tolees-21) con precio final de  32.49 EUR (original: 55.0 EUR) (40.93 %  de rebaja) aqui!
 
-[![Levi s 501 High Rise Short Pantalones Co](https://m.media-amazon.com/images/I/41KBxTxCcML._SL200_.jpg)](https://www.amazon.es/dp/B07KF4QV9H/?tag=tolees-21)
+[![Levi s 501 High Rise Short Pantalones Co](https://m.media-amazon.com/images/I/41KBxTxCcML._SL400_.jpg)](https://www.amazon.es/dp/B07KF4QV9H/?tag=tolees-21)
 
 🔎:
 

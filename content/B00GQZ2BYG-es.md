@@ -2,7 +2,7 @@
 layout: post
 title: 'Reticare 351P-3500-B - Protector de Ojos al 27.28 % de descuento'
 date: 2020-02-26 16:40:40
-image: 'https://m.media-amazon.com/images/I/41aN7SVPSLL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41aN7SVPSLL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.81'
 
 Ahora mismo tienes [Reticare 351P-3500-B - Protector de Ojos  Universal  High](https://www.amazon.es/dp/B00GQZ2BYG/?tag=tolees-21) a 5.81 EUR (original: 7.99 EUR) (27.28 %  de descuento) en el siguiente enlace!
 
-[![Reticare 351P-3500-B - Protector de Ojos](https://m.media-amazon.com/images/I/41aN7SVPSLL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B00GQZ2BYG/?tag=tolees-21)
+[![Reticare 351P-3500-B - Protector de Ojos](https://m.media-amazon.com/images/I/41aN7SVPSLL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B00GQZ2BYG/?tag=tolees-21)
 
 🔎:
 

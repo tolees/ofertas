@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 28.88 % en Smart ZigBee Outlet Plug para Echo Plus '
 date: 2020-04-21 19:05:31
-image: 'https://m.media-amazon.com/images/I/319bM-3oU7L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/319bM-3oU7L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.95'
 
 Tienes [Smart ZigBee Outlet Plug para Echo Plus y ZigBee Bridge Hub compatibles para controlar las luces normales  luces descendentes de LED Smart Home Automation](https://www.amazon.es/dp/B07GYG5GRP/?tag=tolees-21) con un 28.88 % de descuento con precio de oferta de 19.95 EUR (original: 28.05 EUR) en el siguiente enlace!
 
-[![Smart ZigBee Outlet Plug para Echo Plus ](https://m.media-amazon.com/images/I/319bM-3oU7L._SL200_.jpg)](https://www.amazon.es/dp/B07GYG5GRP/?tag=tolees-21)
+[![Smart ZigBee Outlet Plug para Echo Plus ](https://m.media-amazon.com/images/I/319bM-3oU7L._SL400_.jpg)](https://www.amazon.es/dp/B07GYG5GRP/?tag=tolees-21)
 
 ℹ️:
 

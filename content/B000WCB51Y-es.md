@@ -2,7 +2,7 @@
 layout: post
 title: 'STANLEY 1-93-329 - Cinturón portaherrami al 29.26 % de descuento'
 date: 2020-08-27 15:59:58
-image: 'https://m.media-amazon.com/images/I/51EJyo1-TgL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51EJyo1-TgL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.632'
 
 Está [STANLEY 1-93-329 - Cinturón portaherramientas de Nylon](https://www.amazon.es/dp/B000WCB51Y/?tag=tolees-21) con 29.26 de descuento por 7.64 EUR (original: 10.8 EUR) en el siguiente enlace!
 
-[![STANLEY 1-93-329 - Cinturón portaherrami](https://m.media-amazon.com/images/I/51EJyo1-TgL._SL200_.jpg)](https://www.amazon.es/dp/B000WCB51Y/?tag=tolees-21)
+[![STANLEY 1-93-329 - Cinturón portaherrami](https://m.media-amazon.com/images/I/51EJyo1-TgL._SL400_.jpg)](https://www.amazon.es/dp/B000WCB51Y/?tag=tolees-21)
 
 ℹ️:
 

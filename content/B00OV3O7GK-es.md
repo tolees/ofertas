@@ -2,7 +2,7 @@
 layout: post
 title: 'Sveon SCT022 - Lector de DNI electrónico al 27.16 % de descuento'
 date: 2020-03-27 14:36:31
-image: 'https://m.media-amazon.com/images/I/41Ewg976DmL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Ewg976DmL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.19'
 
 Ahora mismo tienes [Sveon SCT022 - Lector de DNI electrónico](https://www.amazon.es/dp/B00OV3O7GK/?tag=tolees-21) a 10.19 EUR (original: 13.99 EUR) (27.16 %  de descuento) en el siguiente enlace!
 
-[![Sveon SCT022 - Lector de DNI electrónico](https://m.media-amazon.com/images/I/41Ewg976DmL._SL200_.jpg)](https://www.amazon.es/dp/B00OV3O7GK/?tag=tolees-21)
+[![Sveon SCT022 - Lector de DNI electrónico](https://m.media-amazon.com/images/I/41Ewg976DmL._SL400_.jpg)](https://www.amazon.es/dp/B00OV3O7GK/?tag=tolees-21)
 
 🔎:
 

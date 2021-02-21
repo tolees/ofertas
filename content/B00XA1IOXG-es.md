@@ -2,7 +2,7 @@
 layout: post
 title: 'BabyVip - Body para niño y niña  Estilo  al 41.62 % de descuento'
 date: 2020-04-16 18:41:58
-image: 'https://m.media-amazon.com/images/I/21-t0eOMH2L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21-t0eOMH2L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.6'
 
 Está [BabyVip - Body para niño y niña  Estilo Abotonado  100% algodón  Hilo escocés - Blanco - 18-24 Meses](https://www.amazon.es/dp/B00XA1IOXG/?tag=tolees-21) con 41.62 de descuento por 21.6 EUR (original: 37.0 EUR) en el siguiente enlace!
 
-[![BabyVip - Body para niño y niña  Estilo ](https://m.media-amazon.com/images/I/21-t0eOMH2L._SL200_.jpg)](https://www.amazon.es/dp/B00XA1IOXG/?tag=tolees-21)
+[![BabyVip - Body para niño y niña  Estilo ](https://m.media-amazon.com/images/I/21-t0eOMH2L._SL400_.jpg)](https://www.amazon.es/dp/B00XA1IOXG/?tag=tolees-21)
 
 ℹ️:
 

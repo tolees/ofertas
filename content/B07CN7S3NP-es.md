@@ -2,7 +2,7 @@
 layout: post
 title: 'BIC 950615 Velleda – Lote de 2 Surface b con un 29.06 % de descuento'
 date: 2020-08-29 15:04:24
-image: 'https://m.media-amazon.com/images/I/51b2ZOf9QfL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51b2ZOf9QfL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.01'
 
 En este momento está [BIC 950615 Velleda – Lote de 2 Surface borrado en seco borde 19 x 26 cm azul](https://www.amazon.es/dp/B07CN7S3NP/?tag=tolees-21) a 13.01 EUR (original: 18.34 EUR) (29.06 %  de descuento) en el siguiente enlace!
 
-[![BIC 950615 Velleda – Lote de 2 Surface b](https://m.media-amazon.com/images/I/51b2ZOf9QfL._SL200_.jpg)](https://www.amazon.es/dp/B07CN7S3NP/?tag=tolees-21)
+[![BIC 950615 Velleda – Lote de 2 Surface b](https://m.media-amazon.com/images/I/51b2ZOf9QfL._SL400_.jpg)](https://www.amazon.es/dp/B07CN7S3NP/?tag=tolees-21)
 
 🔎:
 

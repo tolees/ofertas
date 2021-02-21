@@ -2,7 +2,7 @@
 layout: post
 title: 'Colgate Max White One Pasta Dentífrica - al 49.49 % de rebaja'
 date: 2020-02-04 14:37:51
-image: 'https://m.media-amazon.com/images/I/41n6kJExqjL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41n6kJExqjL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.49'
 
 Tienes [Colgate Max White One Pasta Dentífrica - 75 ml](https://www.amazon.es/dp/B01LZJQFG9/?tag=tolees-21) con precio final de  1.49 EUR (original: 2.95 EUR) (49.49 %  de rebaja) aqui!
 
-[![Colgate Max White One Pasta Dentífrica -](https://m.media-amazon.com/images/I/41n6kJExqjL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01LZJQFG9/?tag=tolees-21)
+[![Colgate Max White One Pasta Dentífrica -](https://m.media-amazon.com/images/I/41n6kJExqjL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01LZJQFG9/?tag=tolees-21)
 
 🔎:
 

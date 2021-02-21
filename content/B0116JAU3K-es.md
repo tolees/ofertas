@@ -2,7 +2,7 @@
 layout: post
 title: 'Thermaltake Riing 14 LED - Ventilador de con un 50.81 % de descuento'
 date: 2020-02-10 18:39:08
-image: 'https://m.media-amazon.com/images/I/51UKGZxI7TL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51UKGZxI7TL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.28'
 
 En este momento está [Thermaltake Riing 14 LED - Ventilador de 140 mm  Color Naranja](https://www.amazon.es/dp/B0116JAU3K/?tag=tolees-21) a 10.28 EUR (original: 20.9 EUR) (50.81 %  de descuento) en el siguiente enlace!
 
-[![Thermaltake Riing 14 LED - Ventilador de](https://m.media-amazon.com/images/I/51UKGZxI7TL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B0116JAU3K/?tag=tolees-21)
+[![Thermaltake Riing 14 LED - Ventilador de](https://m.media-amazon.com/images/I/51UKGZxI7TL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B0116JAU3K/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Hugo BOSS Reloj de pulsera 1513679 al 28.45 % de descuento'
 date: 2020-10-04 23:03:39
-image: 'https://m.media-amazon.com/images/I/41V0tOcFfxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41V0tOcFfxL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '249.71'
 
 Ahora mismo tienes [Hugo BOSS Reloj de pulsera 1513679](https://www.amazon.es/dp/B07KTPDLMD/?tag=tolees-21) a 249.71 EUR (original: 349.0 EUR) (28.45 %  de descuento) en el siguiente enlace!
 
-[![Hugo BOSS Reloj de pulsera 1513679](https://m.media-amazon.com/images/I/41V0tOcFfxL._SL200_.jpg)](https://www.amazon.es/dp/B07KTPDLMD/?tag=tolees-21)
+[![Hugo BOSS Reloj de pulsera 1513679](https://m.media-amazon.com/images/I/41V0tOcFfxL._SL400_.jpg)](https://www.amazon.es/dp/B07KTPDLMD/?tag=tolees-21)
 
 🔎:
 

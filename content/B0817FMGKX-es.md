@@ -2,7 +2,7 @@
 layout: post
 title: 'Columbia Fast Trek Light Forro Polar con al 61.12 % de descuento'
 date: 2020-06-27 12:39:20
-image: 'https://m.media-amazon.com/images/I/41B6pvVNwfL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41B6pvVNwfL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.49'
 
 Ahora mismo tienes [Columbia Fast Trek Light Forro Polar con Cremallera  Mujer  Naranja  Bright Poppy   M](https://www.amazon.es/dp/B0817FMGKX/?tag=tolees-21) a 17.49 EUR (original: 44.99 EUR) (61.12 %  de descuento) en el siguiente enlace!
 
-[![Columbia Fast Trek Light Forro Polar con](https://m.media-amazon.com/images/I/41B6pvVNwfL._SL200_.jpg)](https://www.amazon.es/dp/B0817FMGKX/?tag=tolees-21)
+[![Columbia Fast Trek Light Forro Polar con](https://m.media-amazon.com/images/I/41B6pvVNwfL._SL400_.jpg)](https://www.amazon.es/dp/B0817FMGKX/?tag=tolees-21)
 
 🔎:
 

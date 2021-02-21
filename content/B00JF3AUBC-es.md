@@ -2,7 +2,7 @@
 layout: post
 title: 'Embutidos Ezequiel  Chorizo Picante Herr con un 43.04 % de descuento'
 date: 2020-04-27 15:19:26
-image: 'https://m.media-amazon.com/images/I/41cvkhFdq4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41cvkhFdq4L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.84'
 
 En este momento está [Embutidos Ezequiel  Chorizo Picante Herradura  500 gramos](https://www.amazon.es/dp/B00JF3AUBC/?tag=tolees-21) a 5.69 EUR (original: 9.99 EUR) (43.04 %  de descuento) en el siguiente enlace!
 
-[![Embutidos Ezequiel  Chorizo Picante Herr](https://m.media-amazon.com/images/I/41cvkhFdq4L._SL200_.jpg)](https://www.amazon.es/dp/B00JF3AUBC/?tag=tolees-21)
+[![Embutidos Ezequiel  Chorizo Picante Herr](https://m.media-amazon.com/images/I/41cvkhFdq4L._SL400_.jpg)](https://www.amazon.es/dp/B00JF3AUBC/?tag=tolees-21)
 
 🔎:
 

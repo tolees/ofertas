@@ -2,7 +2,7 @@
 layout: post
 title: 'American Tourister Bon Air - Equipaje de al 42.31 % de descuento'
 date: 2020-02-20 07:47:13
-image: 'https://m.media-amazon.com/images/I/41iWaCYzpxL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41iWaCYzpxL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '75.0'
 
 Está [American Tourister Bon Air - Equipaje de mano  Rojo  Magma Red   M  66cm-57.5L ](https://www.amazon.es/dp/B076CMDCNR/?tag=tolees-21) con 42.31 de descuento por 75.0 EUR (original: 130.0 EUR) en el siguiente enlace!
 
-[![American Tourister Bon Air - Equipaje de](https://m.media-amazon.com/images/I/41iWaCYzpxL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B076CMDCNR/?tag=tolees-21)
+[![American Tourister Bon Air - Equipaje de](https://m.media-amazon.com/images/I/41iWaCYzpxL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B076CMDCNR/?tag=tolees-21)
 
 ℹ️:
 

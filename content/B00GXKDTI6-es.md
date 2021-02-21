@@ -2,7 +2,7 @@
 layout: post
 title: 'FLOWER - Insecticida Hormigas Jeringa Fl al 41.38 % de descuento'
 date: 2020-07-01 15:25:56
-image: 'https://m.media-amazon.com/images/I/5183tHGoJJL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/5183tHGoJJL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.95'
 
 Está [FLOWER - Insecticida Hormigas Jeringa Flower 10 gr](https://www.amazon.es/dp/B00GXKDTI6/?tag=tolees-21) con 41.38 de descuento por 5.95 EUR (original: 10.15 EUR) en el siguiente enlace!
 
-[![FLOWER - Insecticida Hormigas Jeringa Fl](https://m.media-amazon.com/images/I/5183tHGoJJL._SL200_.jpg)](https://www.amazon.es/dp/B00GXKDTI6/?tag=tolees-21)
+[![FLOWER - Insecticida Hormigas Jeringa Fl](https://m.media-amazon.com/images/I/5183tHGoJJL._SL400_.jpg)](https://www.amazon.es/dp/B00GXKDTI6/?tag=tolees-21)
 
 ℹ️:
 

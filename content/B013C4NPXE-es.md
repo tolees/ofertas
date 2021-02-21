@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas Stan Smith S75104  Zapatillas par al 39.45 % de rebaja'
 date: 2020-01-07 19:36:45
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31uk4ZI6L4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31uk4ZI6L4L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '62.495000000000005'
 
 Tienes [adidas Stan Smith S75104  Zapatillas para Hombre  Blanco  White   44 EU](https://www.amazon.es/dp/B013C4NPXE/?tag=tolees-21) con precio final de  60.54 EUR (original: 99.99 EUR) (39.45 %  de rebaja) aqui!
 
-[![adidas Stan Smith S75104  Zapatillas par](https://images-eu.ssl-images-amazon.com/images/I/31uk4ZI6L4L._SL200_.jpg)](https://www.amazon.es/dp/B013C4NPXE/?tag=tolees-21)
+[![adidas Stan Smith S75104  Zapatillas par](https://images-eu.ssl-images-amazon.com/images/I/31uk4ZI6L4L._SL400_.jpg)](https://www.amazon.es/dp/B013C4NPXE/?tag=tolees-21)
 
 🔎:
 

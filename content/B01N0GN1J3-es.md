@@ -2,7 +2,7 @@
 layout: post
 title: 'Kelme - Zapatillas Indoor Copa con un 50.00 % de descuento'
 date: 2020-04-06 08:18:14
-image: 'https://m.media-amazon.com/images/I/41uixQQB+5L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41uixQQB+5L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '22.954'
 
 En este momento está [Kelme - Zapatillas Indoor Copa](https://www.amazon.es/dp/B01N0GN1J3/?tag=tolees-21) a 24.95 EUR (original: 49.9 EUR) (50.00 %  de descuento) en el siguiente enlace!
 
-[![Kelme - Zapatillas Indoor Copa](https://m.media-amazon.com/images/I/41uixQQB+5L._SL200_.jpg)](https://www.amazon.es/dp/B01N0GN1J3/?tag=tolees-21)
+[![Kelme - Zapatillas Indoor Copa](https://m.media-amazon.com/images/I/41uixQQB+5L._SL400_.jpg)](https://www.amazon.es/dp/B01N0GN1J3/?tag=tolees-21)
 
 🔎:
 

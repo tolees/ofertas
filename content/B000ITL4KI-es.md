@@ -2,7 +2,7 @@
 layout: post
 title: 'Gembird CC-PSU-1 - Cable de alimentación al 33.67 % de rebaja'
 date: 2020-04-04 05:23:50
-image: 'https://m.media-amazon.com/images/I/31H0dWoA7VL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31H0dWoA7VL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.97'
 
 Tienes [Gembird CC-PSU-1 - Cable de alimentación para CD/HDD/DVD  Y > 2x 4Pin Molex](https://www.amazon.es/dp/B000ITL4KI/?tag=tolees-21) con precio final de  1.97 EUR (original: 2.97 EUR) (33.67 %  de rebaja) aqui!
 
-[![Gembird CC-PSU-1 - Cable de alimentación](https://m.media-amazon.com/images/I/31H0dWoA7VL._SL200_.jpg)](https://www.amazon.es/dp/B000ITL4KI/?tag=tolees-21)
+[![Gembird CC-PSU-1 - Cable de alimentación](https://m.media-amazon.com/images/I/31H0dWoA7VL._SL400_.jpg)](https://www.amazon.es/dp/B000ITL4KI/?tag=tolees-21)
 
 🔎:
 

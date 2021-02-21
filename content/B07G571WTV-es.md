@@ -2,7 +2,7 @@
 layout: post
 title: 'Max Factor  Base de maquillaje  Tono: 60 al 71.01 % de descuento'
 date: 2020-09-10 10:50:31
-image: 'https://m.media-amazon.com/images/I/31-GnofEorL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31-GnofEorL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.4125000000000005'
 
 Está [Max Factor  Base de maquillaje  Tono: 60 Sand  Pieles Claras  - 30 ml](https://www.amazon.es/dp/B07G571WTV/?tag=tolees-21) con 71.01 de descuento por 4.9 EUR (original: 16.9 EUR) en el siguiente enlace!
 
-[![Max Factor  Base de maquillaje  Tono: 60](https://m.media-amazon.com/images/I/31-GnofEorL._SL200_.jpg)](https://www.amazon.es/dp/B07G571WTV/?tag=tolees-21)
+[![Max Factor  Base de maquillaje  Tono: 60](https://m.media-amazon.com/images/I/31-GnofEorL._SL400_.jpg)](https://www.amazon.es/dp/B07G571WTV/?tag=tolees-21)
 
 ℹ️:
 

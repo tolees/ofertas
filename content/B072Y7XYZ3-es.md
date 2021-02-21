@@ -2,7 +2,7 @@
 layout: post
 title: 'New Balance Mrl420  Zapatillas de Runnin con un 68.77 % de descuento'
 date: 2020-01-26 12:57:06
-image: 'https://m.media-amazon.com/images/I/41s7Fdlor1L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41s7Fdlor1L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '38.92'
 
 En este momento está [New Balance Mrl420  Zapatillas de Running para Hombre  Negro  Black   44 EU](https://www.amazon.es/dp/B072Y7XYZ3/?tag=tolees-21) a 31.21 EUR (original: 99.95 EUR) (68.77 %  de descuento) en el siguiente enlace!
 
-[![New Balance Mrl420  Zapatillas de Runnin](https://m.media-amazon.com/images/I/41s7Fdlor1L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B072Y7XYZ3/?tag=tolees-21)
+[![New Balance Mrl420  Zapatillas de Runnin](https://m.media-amazon.com/images/I/41s7Fdlor1L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B072Y7XYZ3/?tag=tolees-21)
 
 🔎:
 

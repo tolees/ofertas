@@ -2,7 +2,7 @@
 layout: post
 title: 'Himalaya Herbals  Mascarilla de Almendra con un 40.08 % de descuento'
 date: 2020-06-01 15:05:01
-image: 'https://m.media-amazon.com/images/I/31jLdDP0JaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31jLdDP0JaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.99'
 
 En este momento está [Himalaya Herbals  Mascarilla de Almendra y Pepino  75 ml](https://www.amazon.es/dp/B01D8VRJYM/?tag=tolees-21) a 2.99 EUR (original: 4.99 EUR) (40.08 %  de descuento) en el siguiente enlace!
 
-[![Himalaya Herbals  Mascarilla de Almendra](https://m.media-amazon.com/images/I/31jLdDP0JaL._SL200_.jpg)](https://www.amazon.es/dp/B01D8VRJYM/?tag=tolees-21)
+[![Himalaya Herbals  Mascarilla de Almendra](https://m.media-amazon.com/images/I/31jLdDP0JaL._SL400_.jpg)](https://www.amazon.es/dp/B01D8VRJYM/?tag=tolees-21)
 
 🔎:
 

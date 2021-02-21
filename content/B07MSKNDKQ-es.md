@@ -2,7 +2,7 @@
 layout: post
 title: 'Clarks Un Tread UpGTX  Botas clásicas. p al 46.71 % de descuento'
 date: 2020-07-23 15:21:03
-image: 'https://m.media-amazon.com/images/I/41XqSrxX2eL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41XqSrxX2eL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '70.02'
 
 Ahora mismo tienes [Clarks Un Tread UpGTX  Botas clásicas. para Hombre  Marrón  Dark Brown Lea Dark Brown Lea   44.5 EU](https://www.amazon.es/dp/B07MSKNDKQ/?tag=tolees-21) a 85.27 EUR (original: 160.0 EUR) (46.71 %  de descuento) en el siguiente enlace!
 
-[![Clarks Un Tread UpGTX  Botas clásicas. p](https://m.media-amazon.com/images/I/41XqSrxX2eL._SL200_.jpg)](https://www.amazon.es/dp/B07MSKNDKQ/?tag=tolees-21)
+[![Clarks Un Tread UpGTX  Botas clásicas. p](https://m.media-amazon.com/images/I/41XqSrxX2eL._SL400_.jpg)](https://www.amazon.es/dp/B07MSKNDKQ/?tag=tolees-21)
 
 🔎:
 

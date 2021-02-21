@@ -2,7 +2,7 @@
 layout: post
 title: 'Elbe Socket para Mesa Empotrado con Inte al 45.01 % de descuento'
 date: 2020-01-10 15:06:11
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41by92G1HeL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41by92G1HeL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.99'
 
 Está [Elbe Socket para Mesa Empotrado con Interruptor  Enchufe múltiple de 3 Tomas  Enchufe alemán  Aluminio con Cable de 1 5 m  Apto para Oficina  Estudio y Cocina_EL1803K](https://www.amazon.es/dp/B00KELW06M/?tag=tolees-21) con 45.01 de descuento por 21.99 EUR (original: 39.99 EUR) en el siguiente enlace!
 
-[![Elbe Socket para Mesa Empotrado con Inte](https://images-eu.ssl-images-amazon.com/images/I/41by92G1HeL._SL200_.jpg)](https://www.amazon.es/dp/B00KELW06M/?tag=tolees-21)
+[![Elbe Socket para Mesa Empotrado con Inte](https://images-eu.ssl-images-amazon.com/images/I/41by92G1HeL._SL400_.jpg)](https://www.amazon.es/dp/B00KELW06M/?tag=tolees-21)
 
 ℹ️:
 

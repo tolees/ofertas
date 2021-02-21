@@ -2,7 +2,7 @@
 layout: post
 title: 'Relaxdays Silla Oficina Ergonómica Regul al 37.62 % de descuento'
 date: 2020-05-30 16:15:40
-image: 'https://m.media-amazon.com/images/I/41LK7RG1mKL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41LK7RG1mKL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '49.9'
 
 Ahora mismo tienes [Relaxdays Silla Oficina Ergonómica Regulable  Rosa  102 x 55 x 55 cm](https://www.amazon.es/dp/B07DKGQHNC/?tag=tolees-21) a 49.9 EUR (original: 79.99 EUR) (37.62 %  de descuento) en el siguiente enlace!
 
-[![Relaxdays Silla Oficina Ergonómica Regul](https://m.media-amazon.com/images/I/41LK7RG1mKL._SL200_.jpg)](https://www.amazon.es/dp/B07DKGQHNC/?tag=tolees-21)
+[![Relaxdays Silla Oficina Ergonómica Regul](https://m.media-amazon.com/images/I/41LK7RG1mKL._SL400_.jpg)](https://www.amazon.es/dp/B07DKGQHNC/?tag=tolees-21)
 
 🔎:
 

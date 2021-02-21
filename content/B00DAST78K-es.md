@@ -2,7 +2,7 @@
 layout: post
 title: 'Acer Essential -  Monitor de 19.5"  pant con un 38.33 % de descuento'
 date: 2020-05-28 06:09:39
-image: 'https://m.media-amazon.com/images/I/41K0vMGyMgL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41K0vMGyMgL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '65.398'
 
 En este momento está [Acer Essential -  Monitor de 19.5"  pantalla LED  1600 x 900 píxeles  puerto VGA  16.2o W   color negro](https://www.amazon.es/dp/B00DAST78K/?tag=tolees-21) a 64.0 EUR (original: 103.78 EUR) (38.33 %  de descuento) en el siguiente enlace!
 
-[![Acer Essential -  Monitor de 19.5"  pant](https://m.media-amazon.com/images/I/41K0vMGyMgL._SL200_.jpg)](https://www.amazon.es/dp/B00DAST78K/?tag=tolees-21)
+[![Acer Essential -  Monitor de 19.5"  pant](https://m.media-amazon.com/images/I/41K0vMGyMgL._SL400_.jpg)](https://www.amazon.es/dp/B00DAST78K/?tag=tolees-21)
 
 🔎:
 

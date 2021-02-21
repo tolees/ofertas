@@ -2,7 +2,7 @@
 layout: post
 title: 'dockers Alpha Original Khaki Slim Tapere con un 63.31 % de descuento'
 date: 2020-02-06 15:17:04
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31hdsdoLzSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31hdsdoLzSL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '33.02'
 
 En este momento está [dockers Alpha Original Khaki Slim Tapered-Stretch Twill Pantalones  Safari Beige 0431  28W / 32L para Hombre](https://www.amazon.es/dp/B01MU98WHH/?tag=tolees-21) a 33.02 EUR (original: 90 EUR) (63.31 %  de descuento) en el siguiente enlace!
 
-[![dockers Alpha Original Khaki Slim Tapere](https://images-eu.ssl-images-amazon.com/images/I/31hdsdoLzSL._SL200_.jpg)](https://www.amazon.es/dp/B01MU98WHH/?tag=tolees-21)
+[![dockers Alpha Original Khaki Slim Tapere](https://images-eu.ssl-images-amazon.com/images/I/31hdsdoLzSL._SL400_.jpg)](https://www.amazon.es/dp/B01MU98WHH/?tag=tolees-21)
 
 🔎:
 

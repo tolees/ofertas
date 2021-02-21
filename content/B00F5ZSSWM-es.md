@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 29.77 % en Ferplast Transportín para Perros para au'
 date: 2020-07-30 18:15:47
-image: 'https://m.media-amazon.com/images/I/41T2XDTZuDL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41T2XDTZuDL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '64.39'
 
 Tienes [Ferplast Transportín para Perros para automóvil Atlas Car 80  Rejillas de ventilación  Compartimentos portaobjetos  Alfombrilla de Drenaje incluida  82 x 51 x h 61 cm Gris](https://www.amazon.es/dp/B00F5ZSSWM/?tag=tolees-21) con un 29.77 % de descuento con precio de oferta de 64.39 EUR (original: 91.69 EUR) en el siguiente enlace!
 
-[![Ferplast Transportín para Perros para au](https://m.media-amazon.com/images/I/41T2XDTZuDL._SL200_.jpg)](https://www.amazon.es/dp/B00F5ZSSWM/?tag=tolees-21)
+[![Ferplast Transportín para Perros para au](https://m.media-amazon.com/images/I/41T2XDTZuDL._SL400_.jpg)](https://www.amazon.es/dp/B00F5ZSSWM/?tag=tolees-21)
 
 ℹ️:
 

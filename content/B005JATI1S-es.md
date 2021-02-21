@@ -2,7 +2,7 @@
 layout: post
 title: 'L Oreal Paris - Cil Architecte 4D  Másca al 56.59 % de descuento'
 date: 2020-03-11 22:27:20
-image: 'https://m.media-amazon.com/images/I/31rAP4NTfeL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31rAP4NTfeL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.49'
 
 Está [L Oreal Paris - Cil Architecte 4D  Máscara de Pestañas  Efecto Pestañas Postizas Waterproof](https://www.amazon.es/dp/B005JATI1S/?tag=tolees-21) con 56.59 de descuento por 6.49 EUR (original: 14.95 EUR) en el siguiente enlace!
 
-[![L Oreal Paris - Cil Architecte 4D  Másca](https://m.media-amazon.com/images/I/31rAP4NTfeL._SL200_.jpg)](https://www.amazon.es/dp/B005JATI1S/?tag=tolees-21)
+[![L Oreal Paris - Cil Architecte 4D  Másca](https://m.media-amazon.com/images/I/31rAP4NTfeL._SL400_.jpg)](https://www.amazon.es/dp/B005JATI1S/?tag=tolees-21)
 
 ℹ️:
 

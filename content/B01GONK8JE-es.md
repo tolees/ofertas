@@ -2,7 +2,7 @@
 layout: post
 title: 'Hollister Wave D Edp 100 Vapo Multicolor con un 67.76 % de descuento'
 date: 2020-08-04 20:53:12
-image: 'https://m.media-amazon.com/images/I/41U8WAU4v-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41U8WAU4v-L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.441666666666666'
 
 En este momento está [Hollister Wave D Edp 100 Vapo Multicolor](https://www.amazon.es/dp/B01GONK8JE/?tag=tolees-21) a 16.75 EUR (original: 51.96 EUR) (67.76 %  de descuento) en el siguiente enlace!
 
-[![Hollister Wave D Edp 100 Vapo Multicolor](https://m.media-amazon.com/images/I/41U8WAU4v-L._SL200_.jpg)](https://www.amazon.es/dp/B01GONK8JE/?tag=tolees-21)
+[![Hollister Wave D Edp 100 Vapo Multicolor](https://m.media-amazon.com/images/I/41U8WAU4v-L._SL400_.jpg)](https://www.amazon.es/dp/B01GONK8JE/?tag=tolees-21)
 
 🔎:
 

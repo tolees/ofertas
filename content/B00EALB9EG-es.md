@@ -2,7 +2,7 @@
 layout: post
 title: 'BAUSCH + LOMB - Biotrue® ONEday - Lentes al 51.20 % de rebaja'
 date: 2020-04-01 10:48:19
-image: 'https://m.media-amazon.com/images/I/31Vnh3KlK-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Vnh3KlK-L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.59'
 
 Tienes [BAUSCH + LOMB - Biotrue® ONEday - Lentes de contacto](https://www.amazon.es/dp/B00EALB9EG/?tag=tolees-21) con precio final de  14.59 EUR (original: 29.9 EUR) (51.20 %  de rebaja) aqui!
 
-[![BAUSCH + LOMB - Biotrue® ONEday - Lentes](https://m.media-amazon.com/images/I/31Vnh3KlK-L._SL200_.jpg)](https://www.amazon.es/dp/B00EALB9EG/?tag=tolees-21)
+[![BAUSCH + LOMB - Biotrue® ONEday - Lentes](https://m.media-amazon.com/images/I/31Vnh3KlK-L._SL400_.jpg)](https://www.amazon.es/dp/B00EALB9EG/?tag=tolees-21)
 
 🔎:
 

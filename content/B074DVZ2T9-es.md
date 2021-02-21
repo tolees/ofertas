@@ -2,7 +2,7 @@
 layout: post
 title: 'Reposacabezas para coche  apto para tabl al 28.82 % de rebaja'
 date: 2020-05-31 14:44:51
-image: 'https://m.media-amazon.com/images/I/51Bs+QxpUCL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Bs+QxpUCL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.3'
 
 Tienes [Reposacabezas para coche  apto para tablets de 7 pulgadas  con funda de silicona  de la marca Wanpool](https://www.amazon.es/dp/B074DVZ2T9/?tag=tolees-21) con precio final de  16.3 EUR (original: 22.9 EUR) (28.82 %  de rebaja) aqui!
 
-[![Reposacabezas para coche  apto para tabl](https://m.media-amazon.com/images/I/51Bs+QxpUCL._SL200_.jpg)](https://www.amazon.es/dp/B074DVZ2T9/?tag=tolees-21)
+[![Reposacabezas para coche  apto para tabl](https://m.media-amazon.com/images/I/51Bs+QxpUCL._SL400_.jpg)](https://www.amazon.es/dp/B074DVZ2T9/?tag=tolees-21)
 
 🔎:
 

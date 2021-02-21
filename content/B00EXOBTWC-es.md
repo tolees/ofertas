@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 28.48 % en Beurer MG148 - Aparato de Masaje Shiatsu'
 date: 2020-03-22 16:57:57
-image: 'https://m.media-amazon.com/images/I/41iizGGPQHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41iizGGPQHL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '50.977500000000006'
 
 Tienes [Beurer MG148 - Aparato de Masaje Shiatsu  con función de calor  color marrón](https://www.amazon.es/dp/B00EXOBTWC/?tag=tolees-21) con un 28.48 % de descuento con precio de oferta de 49.99 EUR (original: 69.9 EUR) en el siguiente enlace!
 
-[![Beurer MG148 - Aparato de Masaje Shiatsu](https://m.media-amazon.com/images/I/41iizGGPQHL._SL200_.jpg)](https://www.amazon.es/dp/B00EXOBTWC/?tag=tolees-21)
+[![Beurer MG148 - Aparato de Masaje Shiatsu](https://m.media-amazon.com/images/I/41iizGGPQHL._SL400_.jpg)](https://www.amazon.es/dp/B00EXOBTWC/?tag=tolees-21)
 
 ℹ️:
 

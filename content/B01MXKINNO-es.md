@@ -2,7 +2,7 @@
 layout: post
 title: 'Pulsar Reloj de Pulsera PZ4006X1 al 63.38 % de descuento'
 date: 2020-05-01 14:24:02
-image: 'https://m.media-amazon.com/images/I/51pQzvjuXAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51pQzvjuXAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '70.525'
 
 Está [Pulsar Reloj de Pulsera PZ4006X1](https://www.amazon.es/dp/B01MXKINNO/?tag=tolees-21) con 63.38 de descuento por 65.55 EUR (original: 179.0 EUR) en el siguiente enlace!
 
-[![Pulsar Reloj de Pulsera PZ4006X1](https://m.media-amazon.com/images/I/51pQzvjuXAL._SL200_.jpg)](https://www.amazon.es/dp/B01MXKINNO/?tag=tolees-21)
+[![Pulsar Reloj de Pulsera PZ4006X1](https://m.media-amazon.com/images/I/51pQzvjuXAL._SL400_.jpg)](https://www.amazon.es/dp/B01MXKINNO/?tag=tolees-21)
 
 ℹ️:
 

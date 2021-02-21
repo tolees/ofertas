@@ -2,7 +2,7 @@
 layout: post
 title: 'HP C9363EE 344 Cartucho de Tinta Origina al 40.08 % de rebaja'
 date: 2020-03-05 05:16:55
-image: 'https://m.media-amazon.com/images/I/41rqhSI4u2L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41rqhSI4u2L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '42.99666666666667'
 
 Tienes [HP C9363EE 344 Cartucho de Tinta Original  1 unidad  tricolor  cian  magenta  amarillo ](https://www.amazon.es/dp/B003CL9ZWI/?tag=tolees-21) con precio final de  35.99 EUR (original: 60.06 EUR) (40.08 %  de rebaja) aqui!
 
-[![HP C9363EE 344 Cartucho de Tinta Origina](https://m.media-amazon.com/images/I/41rqhSI4u2L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B003CL9ZWI/?tag=tolees-21)
+[![HP C9363EE 344 Cartucho de Tinta Origina](https://m.media-amazon.com/images/I/41rqhSI4u2L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B003CL9ZWI/?tag=tolees-21)
 
 🔎:
 

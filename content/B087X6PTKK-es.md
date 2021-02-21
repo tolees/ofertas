@@ -2,7 +2,7 @@
 layout: post
 title: 'Suhctup Funda Transparent Compatible par al 47.15 % de descuento'
 date: 2020-06-01 15:02:29
-image: 'https://m.media-amazon.com/images/I/414hVdzvJwL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/414hVdzvJwL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.98'
 
 Está [Suhctup Funda Transparent Compatible para Samsung Galaxy S20 Plus Carcasa Protectora [Antigolpes] Suave Silicona TPU Bumper Cojín de Aire de Cuatro Esquinas Protector Gel para Galaxy S20 Plus A18](https://www.amazon.es/dp/B087X6PTKK/?tag=tolees-21) con 47.15 de descuento por 8.98 EUR (original: 16.99 EUR) en el siguiente enlace!
 
-[![Suhctup Funda Transparent Compatible par](https://m.media-amazon.com/images/I/414hVdzvJwL._SL200_.jpg)](https://www.amazon.es/dp/B087X6PTKK/?tag=tolees-21)
+[![Suhctup Funda Transparent Compatible par](https://m.media-amazon.com/images/I/414hVdzvJwL._SL400_.jpg)](https://www.amazon.es/dp/B087X6PTKK/?tag=tolees-21)
 
 ℹ️:
 

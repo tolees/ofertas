@@ -2,7 +2,7 @@
 layout: post
 title: 'Scitec Nutrition Suplemento Dietético de al 30.91 % de rebaja'
 date: 2020-07-12 15:05:22
-image: 'https://m.media-amazon.com/images/I/41feAmz91YL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41feAmz91YL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.4275'
 
 Tienes [Scitec Nutrition Suplemento Dietético de Creatina - 1000 gr](https://www.amazon.es/dp/B004EPYBSY/?tag=tolees-21) con precio final de  15.13 EUR (original: 21.9 EUR) (30.91 %  de rebaja) aqui!
 
-[![Scitec Nutrition Suplemento Dietético de](https://m.media-amazon.com/images/I/41feAmz91YL._SL200_.jpg)](https://www.amazon.es/dp/B004EPYBSY/?tag=tolees-21)
+[![Scitec Nutrition Suplemento Dietético de](https://m.media-amazon.com/images/I/41feAmz91YL._SL400_.jpg)](https://www.amazon.es/dp/B004EPYBSY/?tag=tolees-21)
 
 🔎:
 

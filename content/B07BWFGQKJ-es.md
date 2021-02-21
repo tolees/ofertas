@@ -2,7 +2,7 @@
 layout: post
 title: 'Scuderia Ferrari Reloj Analógico para Ho al 30.00 % de descuento'
 date: 2020-08-15 12:25:52
-image: 'https://m.media-amazon.com/images/I/41-hWbyfFRL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41-hWbyfFRL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '71.5'
 
 Ahora mismo tienes [Scuderia Ferrari Reloj Analógico para Hombre de Cuarzo con Correa en Silicona 830515](https://www.amazon.es/dp/B07BWFGQKJ/?tag=tolees-21) a 69.3 EUR (original: 99.0 EUR) (30.00 %  de descuento) en el siguiente enlace!
 
-[![Scuderia Ferrari Reloj Analógico para Ho](https://m.media-amazon.com/images/I/41-hWbyfFRL._SL200_.jpg)](https://www.amazon.es/dp/B07BWFGQKJ/?tag=tolees-21)
+[![Scuderia Ferrari Reloj Analógico para Ho](https://m.media-amazon.com/images/I/41-hWbyfFRL._SL400_.jpg)](https://www.amazon.es/dp/B07BWFGQKJ/?tag=tolees-21)
 
 🔎:
 

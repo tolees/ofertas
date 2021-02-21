@@ -2,7 +2,7 @@
 layout: post
 title: 'PUMA X-Ray  Zapatillas Unisex Adulto  Ne con un 52.83 % de descuento'
 date: 2020-10-09 00:47:12
-image: 'https://m.media-amazon.com/images/I/415d6kR8VfL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/415d6kR8VfL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '37.71'
 
 En este momento está [PUMA X-Ray  Zapatillas Unisex Adulto  Negro Black/Dark Shadow  42 EU](https://www.amazon.es/dp/B07SBWLS3D/?tag=tolees-21) a 37.71 EUR (original: 79.95 EUR) (52.83 %  de descuento) en el siguiente enlace!
 
-[![PUMA X-Ray  Zapatillas Unisex Adulto  Ne](https://m.media-amazon.com/images/I/415d6kR8VfL._SL200_.jpg)](https://www.amazon.es/dp/B07SBWLS3D/?tag=tolees-21)
+[![PUMA X-Ray  Zapatillas Unisex Adulto  Ne](https://m.media-amazon.com/images/I/415d6kR8VfL._SL400_.jpg)](https://www.amazon.es/dp/B07SBWLS3D/?tag=tolees-21)
 
 🔎:
 

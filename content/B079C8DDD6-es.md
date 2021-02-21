@@ -2,7 +2,7 @@
 layout: post
 title: 'Paladone lámpara Call of Duty al 50.00 % de descuento'
 date: 2020-01-14 12:46:56
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41c1eyIxdFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41c1eyIxdFL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.295'
 
 Está [Paladone lámpara Call of Duty](https://www.amazon.es/dp/B079C8DDD6/?tag=tolees-21) con 50.00 de descuento por 18.25 EUR (original: 36.5 EUR) en el siguiente enlace!
 
-[![Paladone lámpara Call of Duty](https://images-eu.ssl-images-amazon.com/images/I/41c1eyIxdFL._SL200_.jpg)](https://www.amazon.es/dp/B079C8DDD6/?tag=tolees-21)
+[![Paladone lámpara Call of Duty](https://images-eu.ssl-images-amazon.com/images/I/41c1eyIxdFL._SL400_.jpg)](https://www.amazon.es/dp/B079C8DDD6/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Lee Luke Jeans  Dark Diamond Ft  36W / 3 al 72.56 % de rebaja'
 date: 2020-04-06 15:46:27
-image: 'https://m.media-amazon.com/images/I/41aGlb1J98L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41aGlb1J98L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.68'
 
 Tienes [Lee Luke Jeans  Dark Diamond Ft  36W / 34L para Hombre](https://www.amazon.es/dp/B07JMCYK9P/?tag=tolees-21) con precio final de  24.68 EUR (original: 89.95 EUR) (72.56 %  de rebaja) aqui!
 
-[![Lee Luke Jeans  Dark Diamond Ft  36W / 3](https://m.media-amazon.com/images/I/41aGlb1J98L._SL200_.jpg)](https://www.amazon.es/dp/B07JMCYK9P/?tag=tolees-21)
+[![Lee Luke Jeans  Dark Diamond Ft  36W / 3](https://m.media-amazon.com/images/I/41aGlb1J98L._SL400_.jpg)](https://www.amazon.es/dp/B07JMCYK9P/?tag=tolees-21)
 
 🔎:
 

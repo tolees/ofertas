@@ -2,7 +2,7 @@
 layout: post
 title: 'Vanish Quitamanchas Pretratante alfombra al 49.16 % de descuento'
 date: 2020-07-05 14:02:39
-image: 'https://m.media-amazon.com/images/I/41u0hylol7L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41u0hylol7L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.9633333333333334'
 
 Está [Vanish Quitamanchas Pretratante alfombras y tapicerías spray – 750ml](https://www.amazon.es/dp/B00HLCSDN6/?tag=tolees-21) con 49.16 de descuento por 3.95 EUR (original: 7.77 EUR) en el siguiente enlace!
 
-[![Vanish Quitamanchas Pretratante alfombra](https://m.media-amazon.com/images/I/41u0hylol7L._SL200_.jpg)](https://www.amazon.es/dp/B00HLCSDN6/?tag=tolees-21)
+[![Vanish Quitamanchas Pretratante alfombra](https://m.media-amazon.com/images/I/41u0hylol7L._SL400_.jpg)](https://www.amazon.es/dp/B00HLCSDN6/?tag=tolees-21)
 
 ℹ️:
 

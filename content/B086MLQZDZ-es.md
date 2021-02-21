@@ -2,7 +2,7 @@
 layout: post
 title: 'AUKEH Cargador Surface Pro 36W 12V 2.58A al 36.01 % de descuento'
 date: 2020-08-22 08:01:08
-image: 'https://m.media-amazon.com/images/I/41Yi2ujNyTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Yi2ujNyTL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '22.39'
 
 Está [AUKEH Cargador Surface Pro 36W 12V 2.58A Adaptador de Corriente para Microsoft Surface Pro 3/4/5/6 Surface Go/Laptop/Book con Puerto del USB y Cable Alimentación 1625](https://www.amazon.es/dp/B086MLQZDZ/?tag=tolees-21) con 36.01 de descuento por 22.39 EUR (original: 34.99 EUR) en el siguiente enlace!
 
-[![AUKEH Cargador Surface Pro 36W 12V 2.58A](https://m.media-amazon.com/images/I/41Yi2ujNyTL._SL200_.jpg)](https://www.amazon.es/dp/B086MLQZDZ/?tag=tolees-21)
+[![AUKEH Cargador Surface Pro 36W 12V 2.58A](https://m.media-amazon.com/images/I/41Yi2ujNyTL._SL400_.jpg)](https://www.amazon.es/dp/B086MLQZDZ/?tag=tolees-21)
 
 ℹ️:
 

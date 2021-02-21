@@ -2,7 +2,7 @@
 layout: post
 title: 'Pawhut Escalera de Mascotas Escalera par al 25.72 % de descuento'
 date: 2020-09-11 11:24:51
-image: 'https://m.media-amazon.com/images/I/51gded9UwRL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51gded9UwRL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.79'
 
 Ahora mismo tienes [Pawhut Escalera de Mascotas Escalera para Gatos Perros Escaleras De 3 Pasos Nuevo](https://www.amazon.es/dp/B01AA22ICK/?tag=tolees-21) a 20.79 EUR (original: 27.99 EUR) (25.72 %  de descuento) en el siguiente enlace!
 
-[![Pawhut Escalera de Mascotas Escalera par](https://m.media-amazon.com/images/I/51gded9UwRL._SL200_.jpg)](https://www.amazon.es/dp/B01AA22ICK/?tag=tolees-21)
+[![Pawhut Escalera de Mascotas Escalera par](https://m.media-amazon.com/images/I/51gded9UwRL._SL400_.jpg)](https://www.amazon.es/dp/B01AA22ICK/?tag=tolees-21)
 
 🔎:
 

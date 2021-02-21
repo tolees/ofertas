@@ -2,7 +2,7 @@
 layout: post
 title: 'Columbia Peakfreak Nomad Chukka WP Omni- al 28.18 % de descuento'
 date: 2020-01-17 19:43:26
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41nqjELNHAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41nqjELNHAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '78.99'
 
 Está [Columbia Peakfreak Nomad Chukka WP Omni-Heat  Botas de Senderismo para Hombre  Negro  Black  Golden Rod 010   44.5 EU](https://www.amazon.es/dp/B01EGCX6ZI/?tag=tolees-21) con 28.18 de descuento por 78.99 EUR (original: 109.99 EUR) en el siguiente enlace!
 
-[![Columbia Peakfreak Nomad Chukka WP Omni-](https://images-eu.ssl-images-amazon.com/images/I/41nqjELNHAL._SL200_.jpg)](https://www.amazon.es/dp/B01EGCX6ZI/?tag=tolees-21)
+[![Columbia Peakfreak Nomad Chukka WP Omni-](https://images-eu.ssl-images-amazon.com/images/I/41nqjELNHAL._SL400_.jpg)](https://www.amazon.es/dp/B01EGCX6ZI/?tag=tolees-21)
 
 ℹ️:
 

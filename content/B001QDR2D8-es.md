@@ -2,7 +2,7 @@
 layout: post
 title: 'NECA 49503 Coraline Fashion - Muñeca  Co con un 25.31 % de descuento'
 date: 2020-04-13 17:00:36
-image: 'https://m.media-amazon.com/images/I/314PUv6PBVL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/314PUv6PBVL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.85'
 
 En este momento está [NECA 49503 Coraline Fashion - Muñeca  Color Amarillo  Azul](https://www.amazon.es/dp/B001QDR2D8/?tag=tolees-21) a 23.85 EUR (original: 31.93 EUR) (25.31 %  de descuento) en el siguiente enlace!
 
-[![NECA 49503 Coraline Fashion - Muñeca  Co](https://m.media-amazon.com/images/I/314PUv6PBVL._SL200_.jpg)](https://www.amazon.es/dp/B001QDR2D8/?tag=tolees-21)
+[![NECA 49503 Coraline Fashion - Muñeca  Co](https://m.media-amazon.com/images/I/314PUv6PBVL._SL400_.jpg)](https://www.amazon.es/dp/B001QDR2D8/?tag=tolees-21)
 
 🔎:
 

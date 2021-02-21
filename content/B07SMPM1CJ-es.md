@@ -2,7 +2,7 @@
 layout: post
 title: 'Asics Gel-Nimbus 22  Zapatillas de Runni al 25.80 % de descuento'
 date: 2020-07-16 13:01:18
-image: 'https://m.media-amazon.com/images/I/41Z2mvu8+rL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Z2mvu8+rL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '133.56'
 
 Está [Asics Gel-Nimbus 22  Zapatillas de Running para Hombre  Amarillo  SafetyYellow/Black 751   44 EU](https://www.amazon.es/dp/B07SMPM1CJ/?tag=tolees-21) con 25.80 de descuento por 133.56 EUR (original: 180.0 EUR) en el siguiente enlace!
 
-[![Asics Gel-Nimbus 22  Zapatillas de Runni](https://m.media-amazon.com/images/I/41Z2mvu8+rL._SL200_.jpg)](https://www.amazon.es/dp/B07SMPM1CJ/?tag=tolees-21)
+[![Asics Gel-Nimbus 22  Zapatillas de Runni](https://m.media-amazon.com/images/I/41Z2mvu8+rL._SL400_.jpg)](https://www.amazon.es/dp/B07SMPM1CJ/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger Organic Cotton Silk V Nec con un 71.18 % de descuento'
 date: 2020-10-03 07:24:23
-image: 'https://m.media-amazon.com/images/I/31LKlQ2BRFL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31LKlQ2BRFL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '28.29'
 
 En este momento está [Tommy Hilfiger Organic Cotton Silk V Neck Pantalones  Rosa  Pink Grapefruit Heather TY8   X-Small para Hombre](https://www.amazon.es/dp/B07VRC1M8F/?tag=tolees-21) a 28.29 EUR (original: 98.16 EUR) (71.18 %  de descuento) en el siguiente enlace!
 
-[![Tommy Hilfiger Organic Cotton Silk V Nec](https://m.media-amazon.com/images/I/31LKlQ2BRFL._SL200_.jpg)](https://www.amazon.es/dp/B07VRC1M8F/?tag=tolees-21)
+[![Tommy Hilfiger Organic Cotton Silk V Nec](https://m.media-amazon.com/images/I/31LKlQ2BRFL._SL400_.jpg)](https://www.amazon.es/dp/B07VRC1M8F/?tag=tolees-21)
 
 🔎:
 

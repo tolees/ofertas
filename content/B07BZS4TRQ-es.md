@@ -2,7 +2,7 @@
 layout: post
 title: 'Trueno S al 60.00 % de rebaja'
 date: 2020-01-26 09:13:41
-image: 'https://m.media-amazon.com/images/I/21hW-c8oc4L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21hW-c8oc4L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '27.485'
 
 Tienes [Trueno S](https://www.amazon.es/dp/B07BZS4TRQ/?tag=tolees-21) con precio final de  21.98 EUR (original: 54.95 EUR) (60.00 %  de rebaja) aqui!
 
-[![Trueno S](https://m.media-amazon.com/images/I/21hW-c8oc4L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07BZS4TRQ/?tag=tolees-21)
+[![Trueno S](https://m.media-amazon.com/images/I/21hW-c8oc4L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07BZS4TRQ/?tag=tolees-21)
 
 🔎:
 

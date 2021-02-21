@@ -2,7 +2,7 @@
 layout: post
 title: 'Hugo BOSS - Reloj para hombre - 1513337 con un 39.88 % de descuento'
 date: 2020-08-09 17:49:58
-image: 'https://m.media-amazon.com/images/I/51sEZTwMHLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51sEZTwMHLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '313.88666666666666'
 
 En este momento está [Hugo BOSS - Reloj para hombre - 1513337](https://www.amazon.es/dp/B01B528QGQ/?tag=tolees-21) a 297.58 EUR (original: 495.0 EUR) (39.88 %  de descuento) en el siguiente enlace!
 
-[![Hugo BOSS - Reloj para hombre - 1513337](https://m.media-amazon.com/images/I/51sEZTwMHLL._SL200_.jpg)](https://www.amazon.es/dp/B01B528QGQ/?tag=tolees-21)
+[![Hugo BOSS - Reloj para hombre - 1513337](https://m.media-amazon.com/images/I/51sEZTwMHLL._SL400_.jpg)](https://www.amazon.es/dp/B01B528QGQ/?tag=tolees-21)
 
 🔎:
 

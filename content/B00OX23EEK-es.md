@@ -2,7 +2,7 @@
 layout: post
 title: 'Adidas - Gel de ducha para hombre con un 40.19 % de descuento'
 date: 2020-02-08 11:26:01
-image: 'https://m.media-amazon.com/images/I/41bcrMePLZL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41bcrMePLZL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.718'
 
 En este momento está [Adidas - Gel de ducha para hombre](https://www.amazon.es/dp/B00OX23EEK/?tag=tolees-21) a 7.5 EUR (original: 12.54 EUR) (40.19 %  de descuento) en el siguiente enlace!
 
-[![Adidas - Gel de ducha para hombre](https://m.media-amazon.com/images/I/41bcrMePLZL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B00OX23EEK/?tag=tolees-21)
+[![Adidas - Gel de ducha para hombre](https://m.media-amazon.com/images/I/41bcrMePLZL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B00OX23EEK/?tag=tolees-21)
 
 🔎:
 

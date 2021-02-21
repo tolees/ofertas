@@ -2,7 +2,7 @@
 layout: post
 title: 'Skylanders SuperCharges - Figura High Vo con un 37.91 % de descuento'
 date: 2020-01-24 17:04:45
-image: 'https://m.media-amazon.com/images/I/51Ls7AGzxiL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Ls7AGzxiL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.01'
 
 En este momento está [Skylanders SuperCharges - Figura High Volt  Driver ](https://www.amazon.es/dp/B013DJDX3K/?tag=tolees-21) a 8.01 EUR (original: 12.9 EUR) (37.91 %  de descuento) en el siguiente enlace!
 
-[![Skylanders SuperCharges - Figura High Vo](https://m.media-amazon.com/images/I/51Ls7AGzxiL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B013DJDX3K/?tag=tolees-21)
+[![Skylanders SuperCharges - Figura High Vo](https://m.media-amazon.com/images/I/51Ls7AGzxiL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B013DJDX3K/?tag=tolees-21)
 
 🔎:
 

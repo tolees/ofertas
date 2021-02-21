@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 47.40 % en Playskool Sesame Street Collector Pack 5'
 date: 2020-07-31 10:13:36
-image: 'https://m.media-amazon.com/images/I/51JsEkKcvLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51JsEkKcvLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.95'
 
 Tienes [Playskool Sesame Street Collector Pack 5 Figures by Sesame Street](https://www.amazon.es/dp/B01C5TFNPA/?tag=tolees-21) con un 47.40 % de descuento con precio de oferta de 12.95 EUR (original: 24.62 EUR) en el siguiente enlace!
 
-[![Playskool Sesame Street Collector Pack 5](https://m.media-amazon.com/images/I/51JsEkKcvLL._SL200_.jpg)](https://www.amazon.es/dp/B01C5TFNPA/?tag=tolees-21)
+[![Playskool Sesame Street Collector Pack 5](https://m.media-amazon.com/images/I/51JsEkKcvLL._SL400_.jpg)](https://www.amazon.es/dp/B01C5TFNPA/?tag=tolees-21)
 
 ℹ️:
 

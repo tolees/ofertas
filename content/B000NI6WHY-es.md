@@ -2,7 +2,7 @@
 layout: post
 title: 'Solgar Omega 3 Triple concentración  Apo al 45.61 % de descuento'
 date: 2020-03-16 01:51:11
-image: 'https://m.media-amazon.com/images/I/41ZCEHFaKFL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ZCEHFaKFL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '42.765'
 
 Está [Solgar Omega 3 Triple concentración  Apoyo al Cuidado del Corazón  Aceite de Pescado Concentrado de Aguas Frías que aporta EPA y DHA  100 Cápsulas](https://www.amazon.es/dp/B000NI6WHY/?tag=tolees-21) con 45.61 de descuento por 35.6 EUR (original: 65.45 EUR) en el siguiente enlace!
 
-[![Solgar Omega 3 Triple concentración  Apo](https://m.media-amazon.com/images/I/41ZCEHFaKFL._SL200_.jpg)](https://www.amazon.es/dp/B000NI6WHY/?tag=tolees-21)
+[![Solgar Omega 3 Triple concentración  Apo](https://m.media-amazon.com/images/I/41ZCEHFaKFL._SL400_.jpg)](https://www.amazon.es/dp/B000NI6WHY/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'XINFULUK Ratón óptico inalámbrico de 2 4 con un 40.00 % de descuento'
 date: 2020-09-17 08:32:54
-image: 'https://m.media-amazon.com/images/I/41P1lunn5bL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41P1lunn5bL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.47'
 
 En este momento está [XINFULUK Ratón óptico inalámbrico de 2 4 GHz para Juegos y Receptor USB para computadora portátil Pc - Gris](https://www.amazon.es/dp/B08DJ7MX8J/?tag=tolees-21) a 1.47 EUR (original: 2.45 EUR) (40.00 %  de descuento) en el siguiente enlace!
 
-[![XINFULUK Ratón óptico inalámbrico de 2 4](https://m.media-amazon.com/images/I/41P1lunn5bL._SL200_.jpg)](https://www.amazon.es/dp/B08DJ7MX8J/?tag=tolees-21)
+[![XINFULUK Ratón óptico inalámbrico de 2 4](https://m.media-amazon.com/images/I/41P1lunn5bL._SL400_.jpg)](https://www.amazon.es/dp/B08DJ7MX8J/?tag=tolees-21)
 
 🔎:
 

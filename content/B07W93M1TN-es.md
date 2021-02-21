@@ -2,7 +2,7 @@
 layout: post
 title: 'Jack & Jones Jorpannel Crew Neck. Suéter al 76.45 % de descuento'
 date: 2020-06-01 11:38:01
-image: 'https://m.media-amazon.com/images/I/415sCsoBdWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/415sCsoBdWL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.69'
 
 Está [Jack & Jones Jorpannel Crew Neck. Suéter  Azul  Navy Blazer Fit: Knit Fit   XXL para Hombre](https://www.amazon.es/dp/B07W93M1TN/?tag=tolees-21) con 76.45 de descuento por 8.24 EUR (original: 34.99 EUR) en el siguiente enlace!
 
-[![Jack & Jones Jorpannel Crew Neck. Suéter](https://m.media-amazon.com/images/I/415sCsoBdWL._SL200_.jpg)](https://www.amazon.es/dp/B07W93M1TN/?tag=tolees-21)
+[![Jack & Jones Jorpannel Crew Neck. Suéter](https://m.media-amazon.com/images/I/415sCsoBdWL._SL400_.jpg)](https://www.amazon.es/dp/B07W93M1TN/?tag=tolees-21)
 
 ℹ️:
 

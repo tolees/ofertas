@@ -2,7 +2,7 @@
 layout: post
 title: 'MASERATI Reloj Analógico para Hombre de  al 35.57 % de rebaja'
 date: 2020-09-09 10:00:33
-image: 'https://m.media-amazon.com/images/I/51Id1IAvCAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Id1IAvCAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '251.35'
 
 Tienes [MASERATI Reloj Analógico para Hombre de Automático con Correa en Acero Inoxidable R8823118006](https://www.amazon.es/dp/B078WCC24N/?tag=tolees-21) con precio final de  244.18 EUR (original: 379.0 EUR) (35.57 %  de rebaja) aqui!
 
-[![MASERATI Reloj Analógico para Hombre de ](https://m.media-amazon.com/images/I/51Id1IAvCAL._SL200_.jpg)](https://www.amazon.es/dp/B078WCC24N/?tag=tolees-21)
+[![MASERATI Reloj Analógico para Hombre de ](https://m.media-amazon.com/images/I/51Id1IAvCAL._SL400_.jpg)](https://www.amazon.es/dp/B078WCC24N/?tag=tolees-21)
 
 🔎:
 

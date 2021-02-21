@@ -2,7 +2,7 @@
 layout: post
 title: 'Reebok EX-O-FIT High Zapatillas altas  H al 26.44 % de descuento'
 date: 2020-04-23 21:07:23
-image: 'https://m.media-amazon.com/images/I/311k-mUQ9iL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/311k-mUQ9iL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '57.43'
 
 Ahora mismo tienes [Reebok EX-O-FIT High Zapatillas altas  Hombre  Blanco  Int-White   39](https://www.amazon.es/dp/B003V42IDE/?tag=tolees-21) a 62.49 EUR (original: 84.95 EUR) (26.44 %  de descuento) en el siguiente enlace!
 
-[![Reebok EX-O-FIT High Zapatillas altas  H](https://m.media-amazon.com/images/I/311k-mUQ9iL._SL200_.jpg)](https://www.amazon.es/dp/B003V42IDE/?tag=tolees-21)
+[![Reebok EX-O-FIT High Zapatillas altas  H](https://m.media-amazon.com/images/I/311k-mUQ9iL._SL400_.jpg)](https://www.amazon.es/dp/B003V42IDE/?tag=tolees-21)
 
 🔎:
 

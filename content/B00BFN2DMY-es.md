@@ -2,7 +2,7 @@
 layout: post
 title: 'Casio Reloj de Pulsera BG-6903-1ER al 61.89 % de descuento'
 date: 2020-02-24 04:44:43
-image: 'https://m.media-amazon.com/images/I/41T1CiShlsL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41T1CiShlsL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '52.23'
 
 Ahora mismo tienes [Casio Reloj de Pulsera BG-6903-1ER](https://www.amazon.es/dp/B00BFN2DMY/?tag=tolees-21) a 52.23 EUR (original: 137.05 EUR) (61.89 %  de descuento) en el siguiente enlace!
 
-[![Casio Reloj de Pulsera BG-6903-1ER](https://m.media-amazon.com/images/I/41T1CiShlsL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B00BFN2DMY/?tag=tolees-21)
+[![Casio Reloj de Pulsera BG-6903-1ER](https://m.media-amazon.com/images/I/41T1CiShlsL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B00BFN2DMY/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'COMPRESSPORT R2 V2 Perneras  Hombre  Neg con un 57.17 % de descuento'
 date: 2020-03-16 20:40:17
-image: 'https://m.media-amazon.com/images/I/41nXhUcGXrL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41nXhUcGXrL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.49'
 
 En este momento está [COMPRESSPORT R2 V2 Perneras  Hombre  Negro  Tz](https://www.amazon.es/dp/B01E8YZLSE/?tag=tolees-21) a 14.99 EUR (original: 35.0 EUR) (57.17 %  de descuento) en el siguiente enlace!
 
-[![COMPRESSPORT R2 V2 Perneras  Hombre  Neg](https://m.media-amazon.com/images/I/41nXhUcGXrL._SL200_.jpg)](https://www.amazon.es/dp/B01E8YZLSE/?tag=tolees-21)
+[![COMPRESSPORT R2 V2 Perneras  Hombre  Neg](https://m.media-amazon.com/images/I/41nXhUcGXrL._SL400_.jpg)](https://www.amazon.es/dp/B01E8YZLSE/?tag=tolees-21)
 
 🔎:
 

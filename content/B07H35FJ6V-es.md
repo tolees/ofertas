@@ -2,7 +2,7 @@
 layout: post
 title: 'Caseflex CS000002AP - Carcasa de gel tra al 50.40 % de descuento'
 date: 2020-06-12 13:45:30
-image: 'https://m.media-amazon.com/images/I/51ikrRAKoXL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51ikrRAKoXL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.85'
 
 Está [Caseflex CS000002AP - Carcasa de gel transparente para iPhone XS  transparente](https://www.amazon.es/dp/B07H35FJ6V/?tag=tolees-21) con 50.40 de descuento por 6.85 EUR (original: 13.81 EUR) en el siguiente enlace!
 
-[![Caseflex CS000002AP - Carcasa de gel tra](https://m.media-amazon.com/images/I/51ikrRAKoXL._SL200_.jpg)](https://www.amazon.es/dp/B07H35FJ6V/?tag=tolees-21)
+[![Caseflex CS000002AP - Carcasa de gel tra](https://m.media-amazon.com/images/I/51ikrRAKoXL._SL400_.jpg)](https://www.amazon.es/dp/B07H35FJ6V/?tag=tolees-21)
 
 ℹ️:
 

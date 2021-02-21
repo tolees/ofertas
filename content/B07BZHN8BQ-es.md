@@ -2,7 +2,7 @@
 layout: post
 title: 'Visconti - SHIELD 707 - Cartera - Cuero  con un 34.66 % de descuento'
 date: 2020-05-31 15:34:50
-image: 'https://m.media-amazon.com/images/I/41ghYj7D07L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ghYj7D07L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.95'
 
 En este momento está [Visconti - SHIELD 707 - Cartera - Cuero Hunter  Azul - RFID ](https://www.amazon.es/dp/B07BZHN8BQ/?tag=tolees-21) a 18.95 EUR (original: 29.0 EUR) (34.66 %  de descuento) en el siguiente enlace!
 
-[![Visconti - SHIELD 707 - Cartera - Cuero ](https://m.media-amazon.com/images/I/41ghYj7D07L._SL200_.jpg)](https://www.amazon.es/dp/B07BZHN8BQ/?tag=tolees-21)
+[![Visconti - SHIELD 707 - Cartera - Cuero ](https://m.media-amazon.com/images/I/41ghYj7D07L._SL400_.jpg)](https://www.amazon.es/dp/B07BZHN8BQ/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Weider Vegan Diet Meal Choco 540 Gr. Sut al 53.12 % de rebaja'
 date: 2020-08-03 07:43:41
-image: 'https://m.media-amazon.com/images/I/51ke3iVaokL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51ke3iVaokL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.95'
 
 Tienes [Weider Vegan Diet Meal Choco 540 Gr. Sutituto de comida 100% vegano.Sin gluten. Ideal para dieta](https://www.amazon.es/dp/B079VSSRKK/?tag=tolees-21) con precio final de  11.95 EUR (original: 25.49 EUR) (53.12 %  de rebaja) aqui!
 
-[![Weider Vegan Diet Meal Choco 540 Gr. Sut](https://m.media-amazon.com/images/I/51ke3iVaokL._SL200_.jpg)](https://www.amazon.es/dp/B079VSSRKK/?tag=tolees-21)
+[![Weider Vegan Diet Meal Choco 540 Gr. Sut](https://m.media-amazon.com/images/I/51ke3iVaokL._SL400_.jpg)](https://www.amazon.es/dp/B079VSSRKK/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'TACKLIFE Carrete de Manguera de Aire  En al 29.77 % de descuento'
 date: 2020-08-27 23:15:11
-image: 'https://m.media-amazon.com/images/I/517HOHogRLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/517HOHogRLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '58.99'
 
 Ahora mismo tienes [TACKLIFE Carrete de Manguera de Aire  Enrollador de Manguera de Aire 15m+1.5m  Manguera 3/8"  2 Juegos de Tornillos  Rotación de 180 °  Soporte de Pared  Presión Máxima 24 Bar-GAHR2A](https://www.amazon.es/dp/B07BZ81VR2/?tag=tolees-21) a 58.99 EUR (original: 83.99 EUR) (29.77 %  de descuento) en el siguiente enlace!
 
-[![TACKLIFE Carrete de Manguera de Aire  En](https://m.media-amazon.com/images/I/517HOHogRLL._SL200_.jpg)](https://www.amazon.es/dp/B07BZ81VR2/?tag=tolees-21)
+[![TACKLIFE Carrete de Manguera de Aire  En](https://m.media-amazon.com/images/I/517HOHogRLL._SL400_.jpg)](https://www.amazon.es/dp/B07BZ81VR2/?tag=tolees-21)
 
 🔎:
 

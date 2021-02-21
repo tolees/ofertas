@@ -2,7 +2,7 @@
 layout: post
 title: 'Adidas by Nixon Reloj Mujer de Digital c al 37.18 % de descuento'
 date: 2020-09-07 16:01:07
-image: 'https://m.media-amazon.com/images/I/41SEb9R1YUL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41SEb9R1YUL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '81.0'
 
 Ahora mismo tienes [Adidas by Nixon Reloj Mujer de Digital con Correa en Acero Inoxidable Z01-513-00](https://www.amazon.es/dp/B079PSTC97/?tag=tolees-21) a 81.0 EUR (original: 128.94 EUR) (37.18 %  de descuento) en el siguiente enlace!
 
-[![Adidas by Nixon Reloj Mujer de Digital c](https://m.media-amazon.com/images/I/41SEb9R1YUL._SL200_.jpg)](https://www.amazon.es/dp/B079PSTC97/?tag=tolees-21)
+[![Adidas by Nixon Reloj Mujer de Digital c](https://m.media-amazon.com/images/I/41SEb9R1YUL._SL400_.jpg)](https://www.amazon.es/dp/B079PSTC97/?tag=tolees-21)
 
 🔎:
 

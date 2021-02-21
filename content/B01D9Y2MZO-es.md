@@ -2,7 +2,7 @@
 layout: post
 title: 'Clarins Solaire Lait Fondant Auto-Bronza al 38.42 % de descuento'
 date: 2020-03-08 19:42:50
-image: 'https://m.media-amazon.com/images/I/31H1AuXbhVL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31H1AuXbhVL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.55'
 
 Ahora mismo tienes [Clarins Solaire Lait Fondant Auto-Bronzant Hydratation 24H 125 Ml 1 Unidad 1300 g](https://www.amazon.es/dp/B01D9Y2MZO/?tag=tolees-21) a 17.55 EUR (original: 28.5 EUR) (38.42 %  de descuento) en el siguiente enlace!
 
-[![Clarins Solaire Lait Fondant Auto-Bronza](https://m.media-amazon.com/images/I/31H1AuXbhVL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01D9Y2MZO/?tag=tolees-21)
+[![Clarins Solaire Lait Fondant Auto-Bronza](https://m.media-amazon.com/images/I/31H1AuXbhVL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01D9Y2MZO/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 32.91 % en Aliens Boxset Steelbook Blu-Ray [Blu-ray'
 date: 2020-05-23 22:08:47
-image: 'https://m.media-amazon.com/images/I/51RflozHi4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51RflozHi4L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '30.92'
 
 Tienes [Aliens Boxset Steelbook Blu-Ray [Blu-ray]](https://www.amazon.es/dp/B073LJT75R/?tag=tolees-21) con un 32.91 % de descuento con precio de oferta de 30.92 EUR (original: 46.09 EUR) en el siguiente enlace!
 
-[![Aliens Boxset Steelbook Blu-Ray [Blu-ray](https://m.media-amazon.com/images/I/51RflozHi4L._SL200_.jpg)](https://www.amazon.es/dp/B073LJT75R/?tag=tolees-21)
+[![Aliens Boxset Steelbook Blu-Ray [Blu-ray](https://m.media-amazon.com/images/I/51RflozHi4L._SL400_.jpg)](https://www.amazon.es/dp/B073LJT75R/?tag=tolees-21)
 
 ℹ️:
 

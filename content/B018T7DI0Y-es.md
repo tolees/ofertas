@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 31.51 % en LUNA mini 2 de FOREO es el limpiador fac'
 date: 2020-04-27 18:08:35
-image: 'https://m.media-amazon.com/images/I/51x0SYVxDXL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51x0SYVxDXL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '91.075'
 
 Tienes [LUNA mini 2 de FOREO es el limpiador facial con modo anti-edad. Un cepillo facial sónico de silicona  para todo tipo de piel |Sunflower Yellow| Recargable a través USB](https://www.amazon.es/dp/B018T7DI0Y/?tag=tolees-21) con un 31.51 % de descuento con precio de oferta de 95.2 EUR (original: 139.0 EUR) en el siguiente enlace!
 
-[![LUNA mini 2 de FOREO es el limpiador fac](https://m.media-amazon.com/images/I/51x0SYVxDXL._SL200_.jpg)](https://www.amazon.es/dp/B018T7DI0Y/?tag=tolees-21)
+[![LUNA mini 2 de FOREO es el limpiador fac](https://m.media-amazon.com/images/I/51x0SYVxDXL._SL400_.jpg)](https://www.amazon.es/dp/B018T7DI0Y/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Gigaset E260 - Teléfono inalámbrico tecl al 25.66 % de descuento'
 date: 2020-01-27 19:48:43
-image: 'https://m.media-amazon.com/images/I/41dK2NlE4sL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41dK2NlE4sL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '32.28'
 
 Está [Gigaset E260 - Teléfono inalámbrico teclas grandes  Pantalla 1 8" Alto contraste  Números grandes  Agenda 120 contactos  Compatible con audifonos  Color Blanco](https://www.amazon.es/dp/B073TB1FHC/?tag=tolees-21) con 25.66 de descuento por 29.66 EUR (original: 39.9 EUR) en el siguiente enlace!
 
-[![Gigaset E260 - Teléfono inalámbrico tecl](https://m.media-amazon.com/images/I/41dK2NlE4sL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B073TB1FHC/?tag=tolees-21)
+[![Gigaset E260 - Teléfono inalámbrico tecl](https://m.media-amazon.com/images/I/41dK2NlE4sL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B073TB1FHC/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Fruit of the Loom- Polo de Manga Corta P al 33.36 % de rebaja'
 date: 2020-03-08 16:07:18
-image: 'https://m.media-amazon.com/images/I/31aTEkOnZ9L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31aTEkOnZ9L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.533333333333333'
 
 Tienes [Fruit of the Loom- Polo de Manga Corta Premium Entallado para Mujer  Mediana  M /Rosa Claro ](https://www.amazon.es/dp/B00BGVHHJ4/?tag=tolees-21) con precio final de  8.95 EUR (original: 13.43 EUR) (33.36 %  de rebaja) aqui!
 
-[![Fruit of the Loom- Polo de Manga Corta P](https://m.media-amazon.com/images/I/31aTEkOnZ9L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B00BGVHHJ4/?tag=tolees-21)
+[![Fruit of the Loom- Polo de Manga Corta P](https://m.media-amazon.com/images/I/31aTEkOnZ9L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B00BGVHHJ4/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 58.33 % en The North Face Piqué Polo de Manga Corta'
 date: 2020-03-14 14:12:52
-image: 'https://m.media-amazon.com/images/I/31lgxMpBaJL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31lgxMpBaJL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '27.5'
 
 Tienes [The North Face Piqué Polo de Manga Corta  Hombre  Azul  Urban Navy   S](https://www.amazon.es/dp/B01MZDK5SD/?tag=tolees-21) con un 58.33 % de descuento con precio de oferta de 25.0 EUR (original: 60.0 EUR) en el siguiente enlace!
 
-[![The North Face Piqué Polo de Manga Corta](https://m.media-amazon.com/images/I/31lgxMpBaJL._SL200_.jpg)](https://www.amazon.es/dp/B01MZDK5SD/?tag=tolees-21)
+[![The North Face Piqué Polo de Manga Corta](https://m.media-amazon.com/images/I/31lgxMpBaJL._SL400_.jpg)](https://www.amazon.es/dp/B01MZDK5SD/?tag=tolees-21)
 
 ℹ️:
 

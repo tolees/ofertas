@@ -2,7 +2,7 @@
 layout: post
 title: 'Aquatic Planet - Pilares Romanos de Coli al 39.95 % de rebaja'
 date: 2020-10-05 19:24:13
-image: 'https://m.media-amazon.com/images/I/61Lj9hRptjL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61Lj9hRptjL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.51'
 
 Tienes [Aquatic Planet - Pilares Romanos de Coliseo  gladiadores  Adorno para Acuario  decoración de peceras](https://www.amazon.es/dp/B084CVLBNZ/?tag=tolees-21) con precio final de  19.51 EUR (original: 32.49 EUR) (39.95 %  de rebaja) aqui!
 
-[![Aquatic Planet - Pilares Romanos de Coli](https://m.media-amazon.com/images/I/61Lj9hRptjL._SL200_.jpg)](https://www.amazon.es/dp/B084CVLBNZ/?tag=tolees-21)
+[![Aquatic Planet - Pilares Romanos de Coli](https://m.media-amazon.com/images/I/61Lj9hRptjL._SL400_.jpg)](https://www.amazon.es/dp/B084CVLBNZ/?tag=tolees-21)
 
 🔎:
 

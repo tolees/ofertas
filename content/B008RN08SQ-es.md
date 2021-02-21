@@ -2,7 +2,7 @@
 layout: post
 title: 'Bosch Professional GKS 18 V-LI Sierra ci con un 30.42 % de descuento'
 date: 2020-09-04 18:58:09
-image: 'https://m.media-amazon.com/images/I/41ewCZ3fiQL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ewCZ3fiQL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '178.29749999999999'
 
 En este momento está [Bosch Professional GKS 18 V-LI Sierra circular  disco diámetro 165 mm  sin batería  en L-BOXX](https://www.amazon.es/dp/B008RN08SQ/?tag=tolees-21) a 192.8 EUR (original: 277.09 EUR) (30.42 %  de descuento) en el siguiente enlace!
 
-[![Bosch Professional GKS 18 V-LI Sierra ci](https://m.media-amazon.com/images/I/41ewCZ3fiQL._SL200_.jpg)](https://www.amazon.es/dp/B008RN08SQ/?tag=tolees-21)
+[![Bosch Professional GKS 18 V-LI Sierra ci](https://m.media-amazon.com/images/I/41ewCZ3fiQL._SL400_.jpg)](https://www.amazon.es/dp/B008RN08SQ/?tag=tolees-21)
 
 🔎:
 

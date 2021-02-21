@@ -2,7 +2,7 @@
 layout: post
 title: 'COMTEX hombres de color blanco reloj con al 97.60 % de descuento'
 date: 2020-06-02 07:31:20
-image: 'https://m.media-amazon.com/images/I/51+ZH9vxcdL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51+ZH9vxcdL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.271249999999998'
 
 Está [COMTEX hombres de color blanco reloj con pulsera de acero inoxidable](https://www.amazon.es/dp/B072V6K1VS/?tag=tolees-21) con 97.60 de descuento por 12.62 EUR (original: 525.83 EUR) en el siguiente enlace!
 
-[![COMTEX hombres de color blanco reloj con](https://m.media-amazon.com/images/I/51+ZH9vxcdL._SL200_.jpg)](https://www.amazon.es/dp/B072V6K1VS/?tag=tolees-21)
+[![COMTEX hombres de color blanco reloj con](https://m.media-amazon.com/images/I/51+ZH9vxcdL._SL400_.jpg)](https://www.amazon.es/dp/B072V6K1VS/?tag=tolees-21)
 
 ℹ️:
 

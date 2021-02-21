@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 39.15 % en Schramm® Paquete de 4 Vasos con Tapa  as'
 date: 2020-07-30 12:55:26
-image: 'https://m.media-amazon.com/images/I/51UIOZQf+iL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51UIOZQf+iL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.376000000000001'
 
 Tienes [Schramm® Paquete de 4 Vasos con Tapa  asa y Pajita Vasos de Cristal con Pajita para Beber cóctel de Cristal 500ml Jarra para Beber Vintage Retro Garden Terrace](https://www.amazon.es/dp/B01K955KGY/?tag=tolees-21) con un 39.15 % de descuento con precio de oferta de 11.5 EUR (original: 18.9 EUR) en el siguiente enlace!
 
-[![Schramm® Paquete de 4 Vasos con Tapa  as](https://m.media-amazon.com/images/I/51UIOZQf+iL._SL200_.jpg)](https://www.amazon.es/dp/B01K955KGY/?tag=tolees-21)
+[![Schramm® Paquete de 4 Vasos con Tapa  as](https://m.media-amazon.com/images/I/51UIOZQf+iL._SL400_.jpg)](https://www.amazon.es/dp/B01K955KGY/?tag=tolees-21)
 
 ℹ️:
 

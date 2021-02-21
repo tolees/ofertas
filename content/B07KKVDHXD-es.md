@@ -2,7 +2,7 @@
 layout: post
 title: 'Nike M CFD Pant FLC TM Club19 Sport - Pa al 30.04 % de descuento'
 date: 2020-10-04 08:05:01
-image: 'https://m.media-amazon.com/images/I/31-SQ-lWRSL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31-SQ-lWRSL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '33.519999999999996'
 
 Ahora mismo tienes [Nike M CFD Pant FLC TM Club19 Sport - Pantalones  Hombre  Black/White  L](https://www.amazon.es/dp/B07KKVDHXD/?tag=tolees-21) a 27.04 EUR (original: 38.65 EUR) (30.04 %  de descuento) en el siguiente enlace!
 
-[![Nike M CFD Pant FLC TM Club19 Sport - Pa](https://m.media-amazon.com/images/I/31-SQ-lWRSL._SL200_.jpg)](https://www.amazon.es/dp/B07KKVDHXD/?tag=tolees-21)
+[![Nike M CFD Pant FLC TM Club19 Sport - Pa](https://m.media-amazon.com/images/I/31-SQ-lWRSL._SL400_.jpg)](https://www.amazon.es/dp/B07KKVDHXD/?tag=tolees-21)
 
 🔎:
 

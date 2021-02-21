@@ -2,7 +2,7 @@
 layout: post
 title: 'TACKLIFE-GLB01A-DC Aspirador-soplador con un 51.04 % de descuento'
 date: 2020-01-11 14:21:01
-image: 'https://images-eu.ssl-images-amazon.com/images/I/416g0dIXKNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416g0dIXKNL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '141.99'
 
 En este momento está [TACKLIFE-GLB01A-DC Aspirador-soplador](https://www.amazon.es/dp/B07D7V8QLR/?tag=tolees-21) a 141.99 EUR (original: 289.99 EUR) (51.04 %  de descuento) en el siguiente enlace!
 
-[![TACKLIFE-GLB01A-DC Aspirador-soplador](https://images-eu.ssl-images-amazon.com/images/I/416g0dIXKNL._SL200_.jpg)](https://www.amazon.es/dp/B07D7V8QLR/?tag=tolees-21)
+[![TACKLIFE-GLB01A-DC Aspirador-soplador](https://images-eu.ssl-images-amazon.com/images/I/416g0dIXKNL._SL400_.jpg)](https://www.amazon.es/dp/B07D7V8QLR/?tag=tolees-21)
 
 🔎:
 

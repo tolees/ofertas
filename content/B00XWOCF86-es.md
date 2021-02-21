@@ -2,7 +2,7 @@
 layout: post
 title: 'Nike Court Royale  Zapatillas Hombre  Bl al 27.27 % de descuento'
 date: 2020-02-26 19:13:25
-image: 'https://m.media-amazon.com/images/I/31qM6QZ3GqL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31qM6QZ3GqL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '40.0'
 
 Está [Nike Court Royale  Zapatillas Hombre  Blanco  White/White   44 EU](https://www.amazon.es/dp/B00XWOCF86/?tag=tolees-21) con 27.27 de descuento por 40.0 EUR (original: 55.0 EUR) en el siguiente enlace!
 
-[![Nike Court Royale  Zapatillas Hombre  Bl](https://m.media-amazon.com/images/I/31qM6QZ3GqL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B00XWOCF86/?tag=tolees-21)
+[![Nike Court Royale  Zapatillas Hombre  Bl](https://m.media-amazon.com/images/I/31qM6QZ3GqL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B00XWOCF86/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Bourjois Velvet The Lipstick Barra De La al 66.13 % de descuento'
 date: 2020-04-02 21:43:48
-image: 'https://m.media-amazon.com/images/I/31BvBWEKesL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31BvBWEKesL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.575'
 
 Ahora mismo tienes [Bourjois Velvet The Lipstick Barra De Labios Tono 021 Grande Roux - 23 gr](https://www.amazon.es/dp/B07GSCXXCF/?tag=tolees-21) a 3.37 EUR (original: 9.95 EUR) (66.13 %  de descuento) en el siguiente enlace!
 
-[![Bourjois Velvet The Lipstick Barra De La](https://m.media-amazon.com/images/I/31BvBWEKesL._SL200_.jpg)](https://www.amazon.es/dp/B07GSCXXCF/?tag=tolees-21)
+[![Bourjois Velvet The Lipstick Barra De La](https://m.media-amazon.com/images/I/31BvBWEKesL._SL400_.jpg)](https://www.amazon.es/dp/B07GSCXXCF/?tag=tolees-21)
 
 🔎:
 

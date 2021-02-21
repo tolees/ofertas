@@ -2,7 +2,7 @@
 layout: post
 title: 'Tela algodon para coser 7 PCS  DIY Flora al 40.17 % de descuento'
 date: 2020-07-27 23:43:13
-image: 'https://m.media-amazon.com/images/I/51ihQ5zKoKL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51ihQ5zKoKL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.15'
 
 Está [Tela algodon para coser 7 PCS  DIY Floral Telas Patchwork Material Cuadrados con Cuerda Elástica Puente de la Nariz Clip Tira  Tela por metros Manualidades para costura de acolchado de Scrapbooking](https://www.amazon.es/dp/B088NK8M6F/?tag=tolees-21) con 40.17 de descuento por 7.15 EUR (original: 11.95 EUR) en el siguiente enlace!
 
-[![Tela algodon para coser 7 PCS  DIY Flora](https://m.media-amazon.com/images/I/51ihQ5zKoKL._SL200_.jpg)](https://www.amazon.es/dp/B088NK8M6F/?tag=tolees-21)
+[![Tela algodon para coser 7 PCS  DIY Flora](https://m.media-amazon.com/images/I/51ihQ5zKoKL._SL400_.jpg)](https://www.amazon.es/dp/B088NK8M6F/?tag=tolees-21)
 
 ℹ️:
 

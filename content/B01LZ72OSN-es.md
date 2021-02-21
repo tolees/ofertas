@@ -2,7 +2,7 @@
 layout: post
 title: 'Eagle Flight al 49.96 % de descuento'
 date: 2020-08-29 11:58:54
-image: 'https://m.media-amazon.com/images/I/512VbRwRYBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/512VbRwRYBL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.235714285714288'
 
 Ahora mismo tienes [Eagle Flight](https://www.amazon.es/dp/B01LZ72OSN/?tag=tolees-21) a 19.99 EUR (original: 39.95 EUR) (49.96 %  de descuento) en el siguiente enlace!
 
-[![Eagle Flight](https://m.media-amazon.com/images/I/512VbRwRYBL._SL200_.jpg)](https://www.amazon.es/dp/B01LZ72OSN/?tag=tolees-21)
+[![Eagle Flight](https://m.media-amazon.com/images/I/512VbRwRYBL._SL400_.jpg)](https://www.amazon.es/dp/B01LZ72OSN/?tag=tolees-21)
 
 🔎:
 

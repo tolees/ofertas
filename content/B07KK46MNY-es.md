@@ -2,7 +2,7 @@
 layout: post
 title: 'Columbia Conspiracy V Outdry  Zapatillas al 79.31 % de descuento'
 date: 2020-03-26 17:43:51
-image: 'https://m.media-amazon.com/images/I/41yixJCoayL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41yixJCoayL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '33.69'
 
 Está [Columbia Conspiracy V Outdry  Zapatillas de Senderismo para Mujer  Negro  Black  Daredevi 013   36 EU](https://www.amazon.es/dp/B07KK46MNY/?tag=tolees-21) con 79.31 de descuento por 24.82 EUR (original: 119.99 EUR) en el siguiente enlace!
 
-[![Columbia Conspiracy V Outdry  Zapatillas](https://m.media-amazon.com/images/I/41yixJCoayL._SL200_.jpg)](https://www.amazon.es/dp/B07KK46MNY/?tag=tolees-21)
+[![Columbia Conspiracy V Outdry  Zapatillas](https://m.media-amazon.com/images/I/41yixJCoayL._SL400_.jpg)](https://www.amazon.es/dp/B07KK46MNY/?tag=tolees-21)
 
 ℹ️:
 

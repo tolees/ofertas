@@ -2,7 +2,7 @@
 layout: post
 title: 'Oral-B 3D White Luxe Brillo Seductor  Pa al 44.86 % de rebaja'
 date: 2020-05-27 15:36:31
-image: 'https://m.media-amazon.com/images/I/41BF1TlgGAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41BF1TlgGAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.120000000000001'
 
 Tienes [Oral-B 3D White Luxe Brillo Seductor  Pasta Dentífrica  75 ml  Paquete de 4](https://www.amazon.es/dp/B079ZHXHZC/?tag=tolees-21) con precio final de  8.8 EUR (original: 15.96 EUR) (44.86 %  de rebaja) aqui!
 
-[![Oral-B 3D White Luxe Brillo Seductor  Pa](https://m.media-amazon.com/images/I/41BF1TlgGAL._SL200_.jpg)](https://www.amazon.es/dp/B079ZHXHZC/?tag=tolees-21)
+[![Oral-B 3D White Luxe Brillo Seductor  Pa](https://m.media-amazon.com/images/I/41BF1TlgGAL._SL400_.jpg)](https://www.amazon.es/dp/B079ZHXHZC/?tag=tolees-21)
 
 🔎:
 

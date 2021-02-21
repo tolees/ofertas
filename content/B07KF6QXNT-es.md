@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s Ex-Boyfriend Trucker Giacca in Je al 64.59 % de descuento'
 date: 2020-01-13 18:52:20
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41B20WrGDsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41B20WrGDsL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '38.95'
 
 Está [Levi s Ex-Boyfriend Trucker Giacca in Jeans  Blu  for Real 0089   X-Small Donna](https://www.amazon.es/dp/B07KF6QXNT/?tag=tolees-21) con 64.59 de descuento por 38.95 EUR (original: 110 EUR) en el siguiente enlace!
 
-[![Levi s Ex-Boyfriend Trucker Giacca in Je](https://images-eu.ssl-images-amazon.com/images/I/41B20WrGDsL._SL200_.jpg)](https://www.amazon.es/dp/B07KF6QXNT/?tag=tolees-21)
+[![Levi s Ex-Boyfriend Trucker Giacca in Je](https://images-eu.ssl-images-amazon.com/images/I/41B20WrGDsL._SL400_.jpg)](https://www.amazon.es/dp/B07KF6QXNT/?tag=tolees-21)
 
 ℹ️:
 

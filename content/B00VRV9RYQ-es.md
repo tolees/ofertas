@@ -2,7 +2,7 @@
 layout: post
 title: 'HENDI Bandejas para comida rápida  grand al 49.31 % de rebaja'
 date: 2020-06-01 15:12:39
-image: 'https://m.media-amazon.com/images/I/41HZiWknmIL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41HZiWknmIL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.42'
 
 Tienes [HENDI Bandejas para comida rápida  grande  - Verde - 350x450x H 20 mm](https://www.amazon.es/dp/B00VRV9RYQ/?tag=tolees-21) con precio final de  4.42 EUR (original: 8.72 EUR) (49.31 %  de rebaja) aqui!
 
-[![HENDI Bandejas para comida rápida  grand](https://m.media-amazon.com/images/I/41HZiWknmIL._SL200_.jpg)](https://www.amazon.es/dp/B00VRV9RYQ/?tag=tolees-21)
+[![HENDI Bandejas para comida rápida  grand](https://m.media-amazon.com/images/I/41HZiWknmIL._SL400_.jpg)](https://www.amazon.es/dp/B00VRV9RYQ/?tag=tolees-21)
 
 🔎:
 

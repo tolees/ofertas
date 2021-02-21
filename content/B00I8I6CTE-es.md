@@ -2,7 +2,7 @@
 layout: post
 title: 'Bomb Cosmetics  Regalo para el cuidado d al 25.37 % de descuento'
 date: 2020-08-14 19:43:22
-image: 'https://m.media-amazon.com/images/I/41Q1PF1ol2L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Q1PF1ol2L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.68'
 
 Está [Bomb Cosmetics  Regalo para el cuidado de la piel  Little Box of Love  6 productos  - 240 gr.](https://www.amazon.es/dp/B00I8I6CTE/?tag=tolees-21) con 25.37 de descuento por 12.68 EUR (original: 16.99 EUR) en el siguiente enlace!
 
-[![Bomb Cosmetics  Regalo para el cuidado d](https://m.media-amazon.com/images/I/41Q1PF1ol2L._SL200_.jpg)](https://www.amazon.es/dp/B00I8I6CTE/?tag=tolees-21)
+[![Bomb Cosmetics  Regalo para el cuidado d](https://m.media-amazon.com/images/I/41Q1PF1ol2L._SL400_.jpg)](https://www.amazon.es/dp/B00I8I6CTE/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Millet Friction - Calzado de senderismo  al 30.01 % de descuento'
 date: 2020-08-29 08:13:47
-image: 'https://m.media-amazon.com/images/I/41D+tYYXfzL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41D+tYYXfzL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '97.95'
 
 Ahora mismo tienes [Millet Friction - Calzado de senderismo para hombre  color antracita  anthracite   talla 40](https://www.amazon.es/dp/B00J7SDTHM/?tag=tolees-21) a 97.95 EUR (original: 139.95 EUR) (30.01 %  de descuento) en el siguiente enlace!
 
-[![Millet Friction - Calzado de senderismo ](https://m.media-amazon.com/images/I/41D+tYYXfzL._SL200_.jpg)](https://www.amazon.es/dp/B00J7SDTHM/?tag=tolees-21)
+[![Millet Friction - Calzado de senderismo ](https://m.media-amazon.com/images/I/41D+tYYXfzL._SL400_.jpg)](https://www.amazon.es/dp/B00J7SDTHM/?tag=tolees-21)
 
 🔎:
 

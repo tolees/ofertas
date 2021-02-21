@@ -2,7 +2,7 @@
 layout: post
 title: 'Versace Jeans CouturePortafoglioMujerCar al 34.94 % de descuento'
 date: 2020-01-14 09:24:22
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41xmQqpOplL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41xmQqpOplL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '66.36'
 
 Ahora mismo tienes [Versace Jeans CouturePortafoglioMujerCarterasMorado  Accademi  0 5x16x25 5 centimeters  W x H x L ](https://www.amazon.es/dp/B07NLK7P2D/?tag=tolees-21) a 66.36 EUR (original: 102 EUR) (34.94 %  de descuento) en el siguiente enlace!
 
-[![Versace Jeans CouturePortafoglioMujerCar](https://images-eu.ssl-images-amazon.com/images/I/41xmQqpOplL._SL200_.jpg)](https://www.amazon.es/dp/B07NLK7P2D/?tag=tolees-21)
+[![Versace Jeans CouturePortafoglioMujerCar](https://images-eu.ssl-images-amazon.com/images/I/41xmQqpOplL._SL400_.jpg)](https://www.amazon.es/dp/B07NLK7P2D/?tag=tolees-21)
 
 🔎:
 

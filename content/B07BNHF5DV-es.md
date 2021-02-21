@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 27.14 % en Plainsur Resina De Poliester Kit De 1 Ki'
 date: 2020-05-30 17:42:41
-image: 'https://m.media-amazon.com/images/I/41RcB3YdhlL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41RcB3YdhlL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.5'
 
 Tienes [Plainsur Resina De Poliester Kit De 1 Kilogramo Cubo](https://www.amazon.es/dp/B07BNHF5DV/?tag=tolees-21) con un 27.14 % de descuento con precio de oferta de 14.5 EUR (original: 19.9 EUR) en el siguiente enlace!
 
-[![Plainsur Resina De Poliester Kit De 1 Ki](https://m.media-amazon.com/images/I/41RcB3YdhlL._SL200_.jpg)](https://www.amazon.es/dp/B07BNHF5DV/?tag=tolees-21)
+[![Plainsur Resina De Poliester Kit De 1 Ki](https://m.media-amazon.com/images/I/41RcB3YdhlL._SL400_.jpg)](https://www.amazon.es/dp/B07BNHF5DV/?tag=tolees-21)
 
 ℹ️:
 

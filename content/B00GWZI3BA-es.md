@@ -2,7 +2,7 @@
 layout: post
 title: 'Orlane B21 Extraordinaire Youth Reset 30 con un 50.78 % de descuento'
 date: 2020-09-10 07:27:43
-image: 'https://m.media-amazon.com/images/I/31HVm3pGYkL._SL500_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31HVm3pGYkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '87.6'
 
 En este momento está [Orlane B21 Extraordinaire Youth Reset 30 ml](https://www.amazon.es/dp/B00GWZI3BA/?tag=tolees-21) a 91.05 EUR (original: 185.0 EUR) (50.78 %  de descuento) en el siguiente enlace!
 
-[![Orlane B21 Extraordinaire Youth Reset 30](https://m.media-amazon.com/images/I/31HVm3pGYkL._SL500_._SL200_.jpg)](https://www.amazon.es/dp/B00GWZI3BA/?tag=tolees-21)
+[![Orlane B21 Extraordinaire Youth Reset 30](https://m.media-amazon.com/images/I/31HVm3pGYkL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B00GWZI3BA/?tag=tolees-21)
 
 🔎:
 

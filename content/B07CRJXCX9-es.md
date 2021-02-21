@@ -2,7 +2,7 @@
 layout: post
 title: 'American Tourister Holiday Heat - Uprigh al 34.88 % de rebaja'
 date: 2020-04-28 09:35:36
-image: 'https://m.media-amazon.com/images/I/41dgGTICzFL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41dgGTICzFL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '51.21'
 
 Tienes [American Tourister Holiday Heat - Upright Equipaje de Mano  55 cm  42 l  Azul  Denim Blue ](https://www.amazon.es/dp/B07CRJXCX9/?tag=tolees-21) con precio final de  48.84 EUR (original: 75.0 EUR) (34.88 %  de rebaja) aqui!
 
-[![American Tourister Holiday Heat - Uprigh](https://m.media-amazon.com/images/I/41dgGTICzFL._SL200_.jpg)](https://www.amazon.es/dp/B07CRJXCX9/?tag=tolees-21)
+[![American Tourister Holiday Heat - Uprigh](https://m.media-amazon.com/images/I/41dgGTICzFL._SL400_.jpg)](https://www.amazon.es/dp/B07CRJXCX9/?tag=tolees-21)
 
 🔎:
 

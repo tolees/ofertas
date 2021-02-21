@@ -2,7 +2,7 @@
 layout: post
 title: 'Pepe Jeans London Koko Sandy  Zapatillas al 25.49 % de descuento'
 date: 2020-02-12 15:58:04
-image: 'https://m.media-amazon.com/images/I/41PkR9eQD2L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41PkR9eQD2L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '34.63'
 
 Ahora mismo tienes [Pepe Jeans London Koko Sandy  Zapatillas para Mujer  Smoke 926  39 EU](https://www.amazon.es/dp/B07MZQBTQV/?tag=tolees-21) a 34.63 EUR (original: 46.48 EUR) (25.49 %  de descuento) en el siguiente enlace!
 
-[![Pepe Jeans London Koko Sandy  Zapatillas](https://m.media-amazon.com/images/I/41PkR9eQD2L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07MZQBTQV/?tag=tolees-21)
+[![Pepe Jeans London Koko Sandy  Zapatillas](https://m.media-amazon.com/images/I/41PkR9eQD2L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07MZQBTQV/?tag=tolees-21)
 
 🔎:
 

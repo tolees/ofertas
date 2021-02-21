@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 28.65 % en Versa 18790381 Perchero de pie con parag'
 date: 2020-03-18 00:50:02
-image: 'https://m.media-amazon.com/images/I/21ilqbcybuL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21ilqbcybuL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '40.15'
 
 Tienes [Versa 18790381 Perchero de pie con paragüero  Metal Lacado  Blanco  185 x 30 x 30 cm](https://www.amazon.es/dp/B00VWWVH0C/?tag=tolees-21) con un 28.65 % de descuento con precio de oferta de 43.59 EUR (original: 61.09 EUR) en el siguiente enlace!
 
-[![Versa 18790381 Perchero de pie con parag](https://m.media-amazon.com/images/I/21ilqbcybuL._SL200_.jpg)](https://www.amazon.es/dp/B00VWWVH0C/?tag=tolees-21)
+[![Versa 18790381 Perchero de pie con parag](https://m.media-amazon.com/images/I/21ilqbcybuL._SL400_.jpg)](https://www.amazon.es/dp/B00VWWVH0C/?tag=tolees-21)
 
 ℹ️:
 

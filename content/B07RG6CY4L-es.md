@@ -2,7 +2,7 @@
 layout: post
 title: 'Tea Tree Essential Oil 100% puro y natur al 40.05 % de rebaja'
 date: 2020-07-07 17:16:02
-image: 'https://m.media-amazon.com/images/I/41HFQSX9g3L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41HFQSX9g3L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.98'
 
 Tienes [Tea Tree Essential Oil 100% puro y natural grado terapéutico: el mejor paquete de regalo para hombres y mujeres 120ml  4 oz ](https://www.amazon.es/dp/B07RG6CY4L/?tag=tolees-21) con precio final de  17.98 EUR (original: 29.99 EUR) (40.05 %  de rebaja) aqui!
 
-[![Tea Tree Essential Oil 100% puro y natur](https://m.media-amazon.com/images/I/41HFQSX9g3L._SL200_.jpg)](https://www.amazon.es/dp/B07RG6CY4L/?tag=tolees-21)
+[![Tea Tree Essential Oil 100% puro y natur](https://m.media-amazon.com/images/I/41HFQSX9g3L._SL400_.jpg)](https://www.amazon.es/dp/B07RG6CY4L/?tag=tolees-21)
 
 🔎:
 

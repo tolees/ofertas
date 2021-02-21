@@ -2,7 +2,7 @@
 layout: post
 title: 'Eastpak Springer Riñonera  23 cm  2 L  A al 26.54 % de descuento'
 date: 2020-06-20 09:34:04
-image: 'https://m.media-amazon.com/images/I/31ywSiFvnPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31ywSiFvnPL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.0'
 
 Está [Eastpak Springer Riñonera  23 cm  2 L  Azul  Nep Gulf ](https://www.amazon.es/dp/B07WZPDQ86/?tag=tolees-21) con 26.54 de descuento por 16.0 EUR (original: 21.78 EUR) en el siguiente enlace!
 
-[![Eastpak Springer Riñonera  23 cm  2 L  A](https://m.media-amazon.com/images/I/31ywSiFvnPL._SL200_.jpg)](https://www.amazon.es/dp/B07WZPDQ86/?tag=tolees-21)
+[![Eastpak Springer Riñonera  23 cm  2 L  A](https://m.media-amazon.com/images/I/31ywSiFvnPL._SL400_.jpg)](https://www.amazon.es/dp/B07WZPDQ86/?tag=tolees-21)
 
 ℹ️:
 

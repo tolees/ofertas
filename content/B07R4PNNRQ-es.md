@@ -2,7 +2,7 @@
 layout: post
 title: 'Lotus Reloj Analógico para Mujer de Cuar al 32.74 % de rebaja'
 date: 2020-08-16 13:32:21
-image: 'https://m.media-amazon.com/images/I/418t-UmHgNL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/418t-UmHgNL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '66.59'
 
 Tienes [Lotus Reloj Analógico para Mujer de Cuarzo con Correa en Cuero 18703/2](https://www.amazon.es/dp/B07R4PNNRQ/?tag=tolees-21) con precio final de  66.59 EUR (original: 99.0 EUR) (32.74 %  de rebaja) aqui!
 
-[![Lotus Reloj Analógico para Mujer de Cuar](https://m.media-amazon.com/images/I/418t-UmHgNL._SL200_.jpg)](https://www.amazon.es/dp/B07R4PNNRQ/?tag=tolees-21)
+[![Lotus Reloj Analógico para Mujer de Cuar](https://m.media-amazon.com/images/I/418t-UmHgNL._SL400_.jpg)](https://www.amazon.es/dp/B07R4PNNRQ/?tag=tolees-21)
 
 🔎:
 

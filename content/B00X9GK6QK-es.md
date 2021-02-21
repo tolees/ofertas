@@ -2,7 +2,7 @@
 layout: post
 title: 'Toshiba TransMemory U301 - Memoria USB d al 37.28 % de descuento'
 date: 2020-07-04 18:16:06
-image: 'https://m.media-amazon.com/images/I/31azuULQTsL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31azuULQTsL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.656666666666666'
 
 Está [Toshiba TransMemory U301 - Memoria USB de 64 GB  color blanco](https://www.amazon.es/dp/B00X9GK6QK/?tag=tolees-21) con 37.28 de descuento por 14.99 EUR (original: 23.9 EUR) en el siguiente enlace!
 
-[![Toshiba TransMemory U301 - Memoria USB d](https://m.media-amazon.com/images/I/31azuULQTsL._SL200_.jpg)](https://www.amazon.es/dp/B00X9GK6QK/?tag=tolees-21)
+[![Toshiba TransMemory U301 - Memoria USB d](https://m.media-amazon.com/images/I/31azuULQTsL._SL400_.jpg)](https://www.amazon.es/dp/B00X9GK6QK/?tag=tolees-21)
 
 ℹ️:
 

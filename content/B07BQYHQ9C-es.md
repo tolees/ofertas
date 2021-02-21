@@ -2,7 +2,7 @@
 layout: post
 title: 'Movimientos para DIY Caja de Música Musi al 33.35 % de rebaja'
 date: 2020-04-15 08:34:55
-image: 'https://m.media-amazon.com/images/I/41O2gHh-VyL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41O2gHh-VyL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.95'
 
 Tienes [Movimientos para DIY Caja de Música Musical Box Partes 2 Pedazos - Memory  para Elisa](https://www.amazon.es/dp/B07BQYHQ9C/?tag=tolees-21) con precio final de  13.95 EUR (original: 20.93 EUR) (33.35 %  de rebaja) aqui!
 
-[![Movimientos para DIY Caja de Música Musi](https://m.media-amazon.com/images/I/41O2gHh-VyL._SL200_.jpg)](https://www.amazon.es/dp/B07BQYHQ9C/?tag=tolees-21)
+[![Movimientos para DIY Caja de Música Musi](https://m.media-amazon.com/images/I/41O2gHh-VyL._SL400_.jpg)](https://www.amazon.es/dp/B07BQYHQ9C/?tag=tolees-21)
 
 🔎:
 

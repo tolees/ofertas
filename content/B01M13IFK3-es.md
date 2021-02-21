@@ -2,7 +2,7 @@
 layout: post
 title: 'Durex Sensitivo Suave Preservativos Fino con un 51.70 % de descuento'
 date: 2020-08-22 18:01:38
-image: 'https://m.media-amazon.com/images/I/410MK-E5lVL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/410MK-E5lVL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.82'
 
 En este momento está [Durex Sensitivo Suave Preservativos Finos y Extralubricados 12 Unidades](https://www.amazon.es/dp/B01M13IFK3/?tag=tolees-21) a 5.82 EUR (original: 12.05 EUR) (51.70 %  de descuento) en el siguiente enlace!
 
-[![Durex Sensitivo Suave Preservativos Fino](https://m.media-amazon.com/images/I/410MK-E5lVL._SL200_.jpg)](https://www.amazon.es/dp/B01M13IFK3/?tag=tolees-21)
+[![Durex Sensitivo Suave Preservativos Fino](https://m.media-amazon.com/images/I/410MK-E5lVL._SL400_.jpg)](https://www.amazon.es/dp/B01M13IFK3/?tag=tolees-21)
 
 🔎:
 

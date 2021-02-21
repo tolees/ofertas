@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour UA W TriBase Reign  Zapatil al 47.51 % de descuento'
 date: 2020-01-23 12:17:09
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31XURd-BdGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31XURd-BdGL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '64.495'
 
 Está [Under Armour UA W TriBase Reign  Zapatillas Deportivas para Interior para Mujer  Negro  Black/White/White  001  001   41 EU](https://www.amazon.es/dp/B07CVDGDG1/?tag=tolees-21) con 47.51 de descuento por 62.99 EUR (original: 120 EUR) en el siguiente enlace!
 
-[![Under Armour UA W TriBase Reign  Zapatil](https://images-eu.ssl-images-amazon.com/images/I/31XURd-BdGL._SL200_.jpg)](https://www.amazon.es/dp/B07CVDGDG1/?tag=tolees-21)
+[![Under Armour UA W TriBase Reign  Zapatil](https://images-eu.ssl-images-amazon.com/images/I/31XURd-BdGL._SL400_.jpg)](https://www.amazon.es/dp/B07CVDGDG1/?tag=tolees-21)
 
 ℹ️:
 

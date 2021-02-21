@@ -2,7 +2,7 @@
 layout: post
 title: 'PUMA St Runner V2 Mesh  Zapatillas Unise al 28.23 % de descuento'
 date: 2020-01-23 10:24:35
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41Fg3dNdsmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Fg3dNdsmL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '39.44'
 
 Está [PUMA St Runner V2 Mesh  Zapatillas Unisex Adulto - Gris  Charcoal Gray  - 46 EU](https://www.amazon.es/dp/B07KFW61MB/?tag=tolees-21) con 28.23 de descuento por 39.44 EUR (original: 54.95 EUR) en el siguiente enlace!
 
-[![PUMA St Runner V2 Mesh  Zapatillas Unise](https://images-eu.ssl-images-amazon.com/images/I/41Fg3dNdsmL._SL200_.jpg)](https://www.amazon.es/dp/B07KFW61MB/?tag=tolees-21)
+[![PUMA St Runner V2 Mesh  Zapatillas Unise](https://images-eu.ssl-images-amazon.com/images/I/41Fg3dNdsmL._SL400_.jpg)](https://www.amazon.es/dp/B07KFW61MB/?tag=tolees-21)
 
 ℹ️:
 

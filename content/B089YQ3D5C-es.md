@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 49.92 % en Luclay Arcilla Polimerica - 48 Colores S'
 date: 2020-07-24 09:55:57
-image: 'https://m.media-amazon.com/images/I/51ZvFbnpsYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51ZvFbnpsYL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '22.99'
 
 Tienes [Luclay Arcilla Polimerica - 48 Colores Segura y No Tóxico Modelado Suave Arcilla Craft Set con Herramientas de Escultura Accesorios y Manuales  los Mejores Regalos para los Niños](https://www.amazon.es/dp/B089YQ3D5C/?tag=tolees-21) con un 49.92 % de descuento con precio de oferta de 22.99 EUR (original: 45.91 EUR) en el siguiente enlace!
 
-[![Luclay Arcilla Polimerica - 48 Colores S](https://m.media-amazon.com/images/I/51ZvFbnpsYL._SL200_.jpg)](https://www.amazon.es/dp/B089YQ3D5C/?tag=tolees-21)
+[![Luclay Arcilla Polimerica - 48 Colores S](https://m.media-amazon.com/images/I/51ZvFbnpsYL._SL400_.jpg)](https://www.amazon.es/dp/B089YQ3D5C/?tag=tolees-21)
 
 ℹ️:
 

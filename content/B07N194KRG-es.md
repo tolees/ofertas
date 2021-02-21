@@ -2,7 +2,7 @@
 layout: post
 title: 'G-STAR RAW 3301 Slim Fit Jeans  Negro  A al 65.03 % de rebaja'
 date: 2020-07-26 15:37:48
-image: 'https://m.media-amazon.com/images/I/41omqBhCSjL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41omqBhCSjL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '41.95'
 
 Tienes [G-STAR RAW 3301 Slim Fit Jeans  Negro  Antic Charcoal   30W / 36L para Hombre](https://www.amazon.es/dp/B07N194KRG/?tag=tolees-21) con precio final de  41.95 EUR (original: 119.95 EUR) (65.03 %  de rebaja) aqui!
 
-[![G-STAR RAW 3301 Slim Fit Jeans  Negro  A](https://m.media-amazon.com/images/I/41omqBhCSjL._SL200_.jpg)](https://www.amazon.es/dp/B07N194KRG/?tag=tolees-21)
+[![G-STAR RAW 3301 Slim Fit Jeans  Negro  A](https://m.media-amazon.com/images/I/41omqBhCSjL._SL400_.jpg)](https://www.amazon.es/dp/B07N194KRG/?tag=tolees-21)
 
 🔎:
 

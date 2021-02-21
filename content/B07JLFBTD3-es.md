@@ -2,7 +2,7 @@
 layout: post
 title: 'Lee Breese Pantalones para Mujer  Negro  con un 89.92 % de descuento'
 date: 2019-12-31 17:05:03
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31vCQoEo2cL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31vCQoEo2cL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.764'
 
 En este momento está [Lee Breese Pantalones para Mujer  Negro  Black Rinse 47   27W / 35L](https://www.amazon.es/dp/B07JLFBTD3/?tag=tolees-21) a 9.07 EUR (original: 89.95 EUR) (89.92 %  de descuento) en el siguiente enlace!
 
-[![Lee Breese Pantalones para Mujer  Negro ](https://images-eu.ssl-images-amazon.com/images/I/31vCQoEo2cL._SL200_.jpg)](https://www.amazon.es/dp/B07JLFBTD3/?tag=tolees-21)
+[![Lee Breese Pantalones para Mujer  Negro ](https://images-eu.ssl-images-amazon.com/images/I/31vCQoEo2cL._SL400_.jpg)](https://www.amazon.es/dp/B07JLFBTD3/?tag=tolees-21)
 
 🔎:
 

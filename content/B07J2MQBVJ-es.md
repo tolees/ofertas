@@ -2,7 +2,7 @@
 layout: post
 title: 'REYLEO al 82.18 % de descuento'
 date: 2020-06-08 19:02:13
-image: 'https://m.media-amazon.com/images/I/41kgFjHpDGL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41kgFjHpDGL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.99'
 
 Ahora mismo tienes [REYLEO](https://www.amazon.es/dp/B07J2MQBVJ/?tag=tolees-21) a 4.99 EUR (original: 28.0 EUR) (82.18 %  de descuento) en el siguiente enlace!
 
-[![REYLEO](https://m.media-amazon.com/images/I/41kgFjHpDGL._SL200_.jpg)](https://www.amazon.es/dp/B07J2MQBVJ/?tag=tolees-21)
+[![REYLEO](https://m.media-amazon.com/images/I/41kgFjHpDGL._SL400_.jpg)](https://www.amazon.es/dp/B07J2MQBVJ/?tag=tolees-21)
 
 🔎:
 

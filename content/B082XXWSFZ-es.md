@@ -2,7 +2,7 @@
 layout: post
 title: 'Orfeld 13" Remachadora de Tuercas  Remac al 30.01 % de descuento'
 date: 2020-05-28 09:45:59
-image: 'https://m.media-amazon.com/images/I/41nAuPMJqoL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41nAuPMJqoL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '41.99'
 
 Ahora mismo tienes [Orfeld 13" Remachadora de Tuercas  Remachadora con M3  M4  M5  M6  M8  M10  M12 Tuerca de Remache  Mango de PVC  Ahorra Energía  Apta para Acero de 2-3 mm de Espesor  Llave Incorporada  7 Mandriles](https://www.amazon.es/dp/B082XXWSFZ/?tag=tolees-21) a 41.99 EUR (original: 59.99 EUR) (30.01 %  de descuento) en el siguiente enlace!
 
-[![Orfeld 13" Remachadora de Tuercas  Remac](https://m.media-amazon.com/images/I/41nAuPMJqoL._SL200_.jpg)](https://www.amazon.es/dp/B082XXWSFZ/?tag=tolees-21)
+[![Orfeld 13" Remachadora de Tuercas  Remac](https://m.media-amazon.com/images/I/41nAuPMJqoL._SL400_.jpg)](https://www.amazon.es/dp/B082XXWSFZ/?tag=tolees-21)
 
 🔎:
 

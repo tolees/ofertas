@@ -2,7 +2,7 @@
 layout: post
 title: 'Funda iPhone XR  Fundas iPhone XR Libro  al 61.13 % de rebaja'
 date: 2020-06-29 20:26:50
-image: 'https://m.media-amazon.com/images/I/51L0oJD7u0L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51L0oJD7u0L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.99'
 
 Tienes [Funda iPhone XR  Fundas iPhone XR Libro  Carcasa iPhoneXR con Cierre Magnético  Tarjetero y Suporte  Capa iPhone XR Plegable Cartera  Flip Phone Cover Case  Tipo Étui Piel Protección. Negro](https://www.amazon.es/dp/B07LGJ9DW4/?tag=tolees-21) con precio final de  13.99 EUR (original: 35.99 EUR) (61.13 %  de rebaja) aqui!
 
-[![Funda iPhone XR  Fundas iPhone XR Libro ](https://m.media-amazon.com/images/I/51L0oJD7u0L._SL200_.jpg)](https://www.amazon.es/dp/B07LGJ9DW4/?tag=tolees-21)
+[![Funda iPhone XR  Fundas iPhone XR Libro ](https://m.media-amazon.com/images/I/51L0oJD7u0L._SL400_.jpg)](https://www.amazon.es/dp/B07LGJ9DW4/?tag=tolees-21)
 
 🔎:
 

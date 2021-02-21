@@ -2,7 +2,7 @@
 layout: post
 title: 'Petusco - Eddie Beige Lona tipo Canvas c al 35.48 % de rebaja'
 date: 2020-05-12 16:10:33
-image: 'https://m.media-amazon.com/images/I/41SGk-FlpuL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41SGk-FlpuL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '100.0'
 
 Tienes [Petusco - Eddie Beige Lona tipo Canvas combinada con Vaqueta](https://www.amazon.es/dp/B07HZ4VKPN/?tag=tolees-21) con precio final de  100.0 EUR (original: 155.0 EUR) (35.48 %  de rebaja) aqui!
 
-[![Petusco - Eddie Beige Lona tipo Canvas c](https://m.media-amazon.com/images/I/41SGk-FlpuL._SL200_.jpg)](https://www.amazon.es/dp/B07HZ4VKPN/?tag=tolees-21)
+[![Petusco - Eddie Beige Lona tipo Canvas c](https://m.media-amazon.com/images/I/41SGk-FlpuL._SL400_.jpg)](https://www.amazon.es/dp/B07HZ4VKPN/?tag=tolees-21)
 
 🔎:
 

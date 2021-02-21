@@ -2,7 +2,7 @@
 layout: post
 title: 'House Of Cards - Temporada 4 [Blu-ray] con un 73.78 % de descuento'
 date: 2020-10-10 05:45:59
-image: 'https://m.media-amazon.com/images/I/51dXkp1eURL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51dXkp1eURL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.95'
 
 En este momento está [House Of Cards - Temporada 4 [Blu-ray]](https://www.amazon.es/dp/B01GK03FYQ/?tag=tolees-21) a 9.95 EUR (original: 37.95 EUR) (73.78 %  de descuento) en el siguiente enlace!
 
-[![House Of Cards - Temporada 4 [Blu-ray]](https://m.media-amazon.com/images/I/51dXkp1eURL._SL200_.jpg)](https://www.amazon.es/dp/B01GK03FYQ/?tag=tolees-21)
+[![House Of Cards - Temporada 4 [Blu-ray]](https://m.media-amazon.com/images/I/51dXkp1eURL._SL400_.jpg)](https://www.amazon.es/dp/B01GK03FYQ/?tag=tolees-21)
 
 🔎:
 

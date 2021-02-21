@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas Duramo Lite 2.0  Zapatillas para  con un 43.57 % de descuento'
 date: 2020-06-14 11:35:45
-image: 'https://m.media-amazon.com/images/I/410rEqnSUpL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/410rEqnSUpL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '30.99'
 
 En este momento está [adidas Duramo Lite 2.0  Zapatillas para Correr para Hombre  Core Black/FTWR White/Glory Red  42 EU](https://www.amazon.es/dp/B0813YSBRY/?tag=tolees-21) a 30.99 EUR (original: 54.92 EUR) (43.57 %  de descuento) en el siguiente enlace!
 
-[![adidas Duramo Lite 2.0  Zapatillas para ](https://m.media-amazon.com/images/I/410rEqnSUpL._SL200_.jpg)](https://www.amazon.es/dp/B0813YSBRY/?tag=tolees-21)
+[![adidas Duramo Lite 2.0  Zapatillas para ](https://m.media-amazon.com/images/I/410rEqnSUpL._SL400_.jpg)](https://www.amazon.es/dp/B0813YSBRY/?tag=tolees-21)
 
 🔎:
 

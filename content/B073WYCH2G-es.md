@@ -2,7 +2,7 @@
 layout: post
 title: 'Rimmel London WonderWing Eyeliner Deline al 43.71 % de descuento'
 date: 2020-03-25 12:54:45
-image: 'https://m.media-amazon.com/images/I/31Yy6EhI4vL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Yy6EhI4vL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.94'
 
 Ahora mismo tienes [Rimmel London WonderWing Eyeliner Delineador de Ojos Tono 1-7 95 gr](https://www.amazon.es/dp/B073WYCH2G/?tag=tolees-21) a 3.94 EUR (original: 7.0 EUR) (43.71 %  de descuento) en el siguiente enlace!
 
-[![Rimmel London WonderWing Eyeliner Deline](https://m.media-amazon.com/images/I/31Yy6EhI4vL._SL200_.jpg)](https://www.amazon.es/dp/B073WYCH2G/?tag=tolees-21)
+[![Rimmel London WonderWing Eyeliner Deline](https://m.media-amazon.com/images/I/31Yy6EhI4vL._SL400_.jpg)](https://www.amazon.es/dp/B073WYCH2G/?tag=tolees-21)
 
 🔎:
 

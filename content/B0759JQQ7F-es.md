@@ -2,7 +2,7 @@
 layout: post
 title: 'Funko Pop!- Rocks Elton John Figura de V al 62.32 % de descuento'
 date: 2020-02-03 19:24:28
-image: 'https://m.media-amazon.com/images/I/41wiq-fIIoL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41wiq-fIIoL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.91'
 
 Ahora mismo tienes [Funko Pop!- Rocks Elton John Figura de Vinilo  25320 ](https://www.amazon.es/dp/B0759JQQ7F/?tag=tolees-21) a 6.01 EUR (original: 15.95 EUR) (62.32 %  de descuento) en el siguiente enlace!
 
-[![Funko Pop!- Rocks Elton John Figura de V](https://m.media-amazon.com/images/I/41wiq-fIIoL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B0759JQQ7F/?tag=tolees-21)
+[![Funko Pop!- Rocks Elton John Figura de V](https://m.media-amazon.com/images/I/41wiq-fIIoL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B0759JQQ7F/?tag=tolees-21)
 
 🔎:
 

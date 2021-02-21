@@ -2,7 +2,7 @@
 layout: post
 title: 'United Colors of Benetton Basic G1 Panta al 53.59 % de rebaja'
 date: 2020-04-16 22:38:42
-image: 'https://m.media-amazon.com/images/I/31LJaoxnDML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31LJaoxnDML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.01'
 
 Tienes [United Colors of Benetton Basic G1 Pantalones  Gris  Grigio Melange 501   82  Talla del Fabricante: 1Y  para Niñas](https://www.amazon.es/dp/B07MRKVXZ4/?tag=tolees-21) con precio final de  6.01 EUR (original: 12.95 EUR) (53.59 %  de rebaja) aqui!
 
-[![United Colors of Benetton Basic G1 Panta](https://m.media-amazon.com/images/I/31LJaoxnDML._SL200_.jpg)](https://www.amazon.es/dp/B07MRKVXZ4/?tag=tolees-21)
+[![United Colors of Benetton Basic G1 Panta](https://m.media-amazon.com/images/I/31LJaoxnDML._SL400_.jpg)](https://www.amazon.es/dp/B07MRKVXZ4/?tag=tolees-21)
 
 🔎:
 

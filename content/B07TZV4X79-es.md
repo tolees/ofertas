@@ -2,7 +2,7 @@
 layout: post
 title: 'TOUS - Pendientes BRIGHT cristal de roca al 53.69 % de rebaja'
 date: 2020-03-02 17:16:18
-image: 'https://m.media-amazon.com/images/I/21XJikuIQZL._SL500_._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21XJikuIQZL._SL500_._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '69.0'
 
 Tienes [TOUS - Pendientes BRIGHT cristal de roca hidrotermal](https://www.amazon.es/dp/B07TZV4X79/?tag=tolees-21) con precio final de  69.0 EUR (original: 149.0 EUR) (53.69 %  de rebaja) aqui!
 
-[![TOUS - Pendientes BRIGHT cristal de roca](https://m.media-amazon.com/images/I/21XJikuIQZL._SL500_._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07TZV4X79/?tag=tolees-21)
+[![TOUS - Pendientes BRIGHT cristal de roca](https://m.media-amazon.com/images/I/21XJikuIQZL._SL500_._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07TZV4X79/?tag=tolees-21)
 
 🔎:
 

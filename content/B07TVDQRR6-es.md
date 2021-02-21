@@ -2,7 +2,7 @@
 layout: post
 title: 'Funko- Pop Movies: Warriors-Cochise The  al 25.54 % de descuento'
 date: 2020-09-02 09:50:32
-image: 'https://m.media-amazon.com/images/I/319NWVQ7v4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/319NWVQ7v4L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.996666666666666'
 
 Está [Funko- Pop Movies: Warriors-Cochise The Collectible Toy  Multicolor  44844 ](https://www.amazon.es/dp/B07TVDQRR6/?tag=tolees-21) con 25.54 de descuento por 10.0 EUR (original: 13.43 EUR) en el siguiente enlace!
 
-[![Funko- Pop Movies: Warriors-Cochise The ](https://m.media-amazon.com/images/I/319NWVQ7v4L._SL200_.jpg)](https://www.amazon.es/dp/B07TVDQRR6/?tag=tolees-21)
+[![Funko- Pop Movies: Warriors-Cochise The ](https://m.media-amazon.com/images/I/319NWVQ7v4L._SL400_.jpg)](https://www.amazon.es/dp/B07TVDQRR6/?tag=tolees-21)
 
 ℹ️:
 

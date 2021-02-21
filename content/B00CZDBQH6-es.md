@@ -2,7 +2,7 @@
 layout: post
 title: 'Spirella 5PCS Set  Negro colección Pingy al 47.85 % de descuento'
 date: 2020-05-16 08:49:42
-image: 'https://m.media-amazon.com/images/I/51qOugtt6IL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51qOugtt6IL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.969999999999999'
 
 Está [Spirella 5PCS Set  Negro colección Pingy  Alfombrilla de Ducha  PVC](https://www.amazon.es/dp/B00CZDBQH6/?tag=tolees-21) con 47.85 de descuento por 11.99 EUR (original: 22.99 EUR) en el siguiente enlace!
 
-[![Spirella 5PCS Set  Negro colección Pingy](https://m.media-amazon.com/images/I/51qOugtt6IL._SL200_.jpg)](https://www.amazon.es/dp/B00CZDBQH6/?tag=tolees-21)
+[![Spirella 5PCS Set  Negro colección Pingy](https://m.media-amazon.com/images/I/51qOugtt6IL._SL400_.jpg)](https://www.amazon.es/dp/B00CZDBQH6/?tag=tolees-21)
 
 ℹ️:
 

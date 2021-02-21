@@ -2,7 +2,7 @@
 layout: post
 title: 'Crucial Ballistix Sport LT BLS16G4D32AES al 25.62 % de descuento'
 date: 2020-02-16 16:10:13
-image: 'https://m.media-amazon.com/images/I/414mOvdWneL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/414mOvdWneL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '71.87333333333333'
 
 Ahora mismo tienes [Crucial Ballistix Sport LT BLS16G4D32AESE 3200 MHz  DDR4  DRAM  Memoria Gamer para ordenadores de sobremesa  16 GB  CL16  Rojo ](https://www.amazon.es/dp/B07MGPK7XC/?tag=tolees-21) a 62.99 EUR (original: 84.69 EUR) (25.62 %  de descuento) en el siguiente enlace!
 
-[![Crucial Ballistix Sport LT BLS16G4D32AES](https://m.media-amazon.com/images/I/414mOvdWneL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07MGPK7XC/?tag=tolees-21)
+[![Crucial Ballistix Sport LT BLS16G4D32AES](https://m.media-amazon.com/images/I/414mOvdWneL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07MGPK7XC/?tag=tolees-21)
 
 🔎:
 

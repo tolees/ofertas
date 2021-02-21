@@ -2,7 +2,7 @@
 layout: post
 title: 'Casio Reloj Mujer de Digital con Correa  con un 37.05 % de descuento'
 date: 2020-10-03 07:25:57
-image: 'https://m.media-amazon.com/images/I/41QwAcIa4UL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41QwAcIa4UL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '48.51'
 
 En este momento está [Casio Reloj Mujer de Digital con Correa en Acero Inoxidable A700WEMG-9AEF](https://www.amazon.es/dp/B07RMZWC18/?tag=tolees-21) a 48.51 EUR (original: 77.06 EUR) (37.05 %  de descuento) en el siguiente enlace!
 
-[![Casio Reloj Mujer de Digital con Correa ](https://m.media-amazon.com/images/I/41QwAcIa4UL._SL200_.jpg)](https://www.amazon.es/dp/B07RMZWC18/?tag=tolees-21)
+[![Casio Reloj Mujer de Digital con Correa ](https://m.media-amazon.com/images/I/41QwAcIa4UL._SL400_.jpg)](https://www.amazon.es/dp/B07RMZWC18/?tag=tolees-21)
 
 🔎:
 

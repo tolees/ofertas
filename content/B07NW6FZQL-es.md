@@ -2,7 +2,7 @@
 layout: post
 title: 'Skechers On-the- Go Joy Botas Altas Muje al 64.18 % de descuento'
 date: 2020-04-01 12:43:43
-image: 'https://m.media-amazon.com/images/I/41xfoYrQ3iL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41xfoYrQ3iL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '30.43'
 
 Está [Skechers On-the- Go Joy Botas Altas Mujer  Dark Taupe Suede Dktp   39 EU  6 UK ](https://www.amazon.es/dp/B07NW6FZQL/?tag=tolees-21) con 64.18 de descuento por 30.43 EUR (original: 84.95 EUR) en el siguiente enlace!
 
-[![Skechers On-the- Go Joy Botas Altas Muje](https://m.media-amazon.com/images/I/41xfoYrQ3iL._SL200_.jpg)](https://www.amazon.es/dp/B07NW6FZQL/?tag=tolees-21)
+[![Skechers On-the- Go Joy Botas Altas Muje](https://m.media-amazon.com/images/I/41xfoYrQ3iL._SL400_.jpg)](https://www.amazon.es/dp/B07NW6FZQL/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Adidas Lite Racer RBN  Zapatillas de Dep al 50.03 % de descuento'
 date: 2020-02-01 11:10:46
-image: 'https://m.media-amazon.com/images/I/41n25T5pdnL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41n25T5pdnL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '32.48'
 
 Ahora mismo tienes [Adidas Lite Racer RBN  Zapatillas de Deporte para Mujer  Blanco  Ftwbla/Ftwbla/Grinat 000   36 1/3 EU](https://www.amazon.es/dp/B07L72ZFVK/?tag=tolees-21) a 32.48 EUR (original: 65.0 EUR) (50.03 %  de descuento) en el siguiente enlace!
 
-[![Adidas Lite Racer RBN  Zapatillas de Dep](https://m.media-amazon.com/images/I/41n25T5pdnL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07L72ZFVK/?tag=tolees-21)
+[![Adidas Lite Racer RBN  Zapatillas de Dep](https://m.media-amazon.com/images/I/41n25T5pdnL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07L72ZFVK/?tag=tolees-21)
 
 🔎:
 

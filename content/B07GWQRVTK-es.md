@@ -2,7 +2,7 @@
 layout: post
 title: 'Alcatel 30.26  Teléfono Móvil  1  Gris M al 25.00 % de descuento'
 date: 2020-05-28 09:44:55
-image: 'https://m.media-amazon.com/images/I/41I4R6rHqzL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41I4R6rHqzL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '44.99'
 
 Ahora mismo tienes [Alcatel 30.26  Teléfono Móvil  1  Gris Metálico](https://www.amazon.es/dp/B07GWQRVTK/?tag=tolees-21) a 44.99 EUR (original: 59.99 EUR) (25.00 %  de descuento) en el siguiente enlace!
 
-[![Alcatel 30.26  Teléfono Móvil  1  Gris M](https://m.media-amazon.com/images/I/41I4R6rHqzL._SL200_.jpg)](https://www.amazon.es/dp/B07GWQRVTK/?tag=tolees-21)
+[![Alcatel 30.26  Teléfono Móvil  1  Gris M](https://m.media-amazon.com/images/I/41I4R6rHqzL._SL400_.jpg)](https://www.amazon.es/dp/B07GWQRVTK/?tag=tolees-21)
 
 🔎:
 

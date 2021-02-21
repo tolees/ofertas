@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas Originals Stan Smith  Zapatillas  al 35.43 % de descuento'
 date: 2020-06-07 13:36:57
-image: 'https://m.media-amazon.com/images/I/31Q1Bp2hZpL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Q1Bp2hZpL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '57.81428571428572'
 
 Ahora mismo tienes [adidas Originals Stan Smith  Zapatillas de Deporte Unisex adulto  Negro  Black/Black/Black   36 2/3 EU](https://www.amazon.es/dp/B00LUIL17C/?tag=tolees-21) a 61.31 EUR (original: 94.95 EUR) (35.43 %  de descuento) en el siguiente enlace!
 
-[![adidas Originals Stan Smith  Zapatillas ](https://m.media-amazon.com/images/I/31Q1Bp2hZpL._SL200_.jpg)](https://www.amazon.es/dp/B00LUIL17C/?tag=tolees-21)
+[![adidas Originals Stan Smith  Zapatillas ](https://m.media-amazon.com/images/I/31Q1Bp2hZpL._SL400_.jpg)](https://www.amazon.es/dp/B00LUIL17C/?tag=tolees-21)
 
 🔎:
 

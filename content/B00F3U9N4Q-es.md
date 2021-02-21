@@ -2,7 +2,7 @@
 layout: post
 title: 'Iron Man 2 [Blu-ray] al 28.97 % de rebaja'
 date: 2020-02-19 10:03:02
-image: 'https://m.media-amazon.com/images/I/51j+f5x+86L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51j+f5x+86L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.075'
 
 Tienes [Iron Man 2 [Blu-ray]](https://www.amazon.es/dp/B00F3U9N4Q/?tag=tolees-21) con precio final de  11.99 EUR (original: 16.88 EUR) (28.97 %  de rebaja) aqui!
 
-[![Iron Man 2 [Blu-ray]](https://m.media-amazon.com/images/I/51j+f5x+86L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B00F3U9N4Q/?tag=tolees-21)
+[![Iron Man 2 [Blu-ray]](https://m.media-amazon.com/images/I/51j+f5x+86L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B00F3U9N4Q/?tag=tolees-21)
 
 🔎:
 

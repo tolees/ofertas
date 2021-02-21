@@ -2,7 +2,7 @@
 layout: post
 title: 'ZoneYan Mini Ventilador USB Portatil  Ve con un 60.02 % de descuento'
 date: 2020-05-28 08:17:23
-image: 'https://m.media-amazon.com/images/I/31uy8opRfUL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31uy8opRfUL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.99'
 
 En este momento está [ZoneYan Mini Ventilador USB Portatil  Ventilador de Mano USB  Personal Hand Fan Batería Recargable  Ventilador con Base Escritorio y 3 Velocidades Ajustable  para Oficina Hogar Viaje](https://www.amazon.es/dp/B087J3MHKJ/?tag=tolees-21) a 11.99 EUR (original: 29.99 EUR) (60.02 %  de descuento) en el siguiente enlace!
 
-[![ZoneYan Mini Ventilador USB Portatil  Ve](https://m.media-amazon.com/images/I/31uy8opRfUL._SL200_.jpg)](https://www.amazon.es/dp/B087J3MHKJ/?tag=tolees-21)
+[![ZoneYan Mini Ventilador USB Portatil  Ve](https://m.media-amazon.com/images/I/31uy8opRfUL._SL400_.jpg)](https://www.amazon.es/dp/B087J3MHKJ/?tag=tolees-21)
 
 🔎:
 

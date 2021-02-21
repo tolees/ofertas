@@ -2,7 +2,7 @@
 layout: post
 title: 'Harry Potter Caja De Selección De Dulces al 40.02 % de rebaja'
 date: 2020-02-20 00:42:44
-image: 'https://m.media-amazon.com/images/I/51ILkeaiJiL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51ILkeaiJiL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.99'
 
 Tienes [Harry Potter Caja De Selección De Dulces Y Chocolates Americanos - Ranas De Chocolate  Jelly Belly Bertie Bott s Grajeas Y Babosas De Gelatina - Cesta Exclusiva Para Burmont s](https://www.amazon.es/dp/B01N7Z9IG9/?tag=tolees-21) con precio final de  11.99 EUR (original: 19.99 EUR) (40.02 %  de rebaja) aqui!
 
-[![Harry Potter Caja De Selección De Dulces](https://m.media-amazon.com/images/I/51ILkeaiJiL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01N7Z9IG9/?tag=tolees-21)
+[![Harry Potter Caja De Selección De Dulces](https://m.media-amazon.com/images/I/51ILkeaiJiL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01N7Z9IG9/?tag=tolees-21)
 
 🔎:
 

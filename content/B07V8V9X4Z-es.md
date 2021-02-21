@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger Wmns Retro Flag Sneaker   al 65.99 % de rebaja'
 date: 2020-09-13 03:06:12
-image: 'https://m.media-amazon.com/images/I/314iXYpVsuL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/314iXYpVsuL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '32.28'
 
 Tienes [Tommy Hilfiger Wmns Retro Flag Sneaker  Zapatillas para Mujer  Rojo  RWB 020   41 EU](https://www.amazon.es/dp/B07V8V9X4Z/?tag=tolees-21) con precio final de  32.28 EUR (original: 94.9 EUR) (65.99 %  de rebaja) aqui!
 
-[![Tommy Hilfiger Wmns Retro Flag Sneaker  ](https://m.media-amazon.com/images/I/314iXYpVsuL._SL200_.jpg)](https://www.amazon.es/dp/B07V8V9X4Z/?tag=tolees-21)
+[![Tommy Hilfiger Wmns Retro Flag Sneaker  ](https://m.media-amazon.com/images/I/314iXYpVsuL._SL400_.jpg)](https://www.amazon.es/dp/B07V8V9X4Z/?tag=tolees-21)
 
 🔎:
 

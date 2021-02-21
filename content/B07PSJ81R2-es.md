@@ -2,7 +2,7 @@
 layout: post
 title: 'Kipling Firefly Up  Mochilas para Mujer  al 31.99 % de descuento'
 date: 2020-08-21 09:01:34
-image: 'https://m.media-amazon.com/images/I/41kzn084ooL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41kzn084ooL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '64.61'
 
 Ahora mismo tienes [Kipling Firefly Up  Mochilas para Mujer  Dorado  Cloud Metal   22x31x14 cm](https://www.amazon.es/dp/B07PSJ81R2/?tag=tolees-21) a 64.61 EUR (original: 95.0 EUR) (31.99 %  de descuento) en el siguiente enlace!
 
-[![Kipling Firefly Up  Mochilas para Mujer ](https://m.media-amazon.com/images/I/41kzn084ooL._SL200_.jpg)](https://www.amazon.es/dp/B07PSJ81R2/?tag=tolees-21)
+[![Kipling Firefly Up  Mochilas para Mujer ](https://m.media-amazon.com/images/I/41kzn084ooL._SL400_.jpg)](https://www.amazon.es/dp/B07PSJ81R2/?tag=tolees-21)
 
 🔎:
 

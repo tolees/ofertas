@@ -2,7 +2,7 @@
 layout: post
 title: 'Baby Jogger BJ2012299 - Kit de capazo al 36.38 % de rebaja'
 date: 2020-04-26 16:05:24
-image: 'https://m.media-amazon.com/images/I/31ZmlYfuyLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31ZmlYfuyLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '115.6925'
 
 Tienes [Baby Jogger BJ2012299 - Kit de capazo](https://www.amazon.es/dp/B06Y14JQW9/?tag=tolees-21) con precio final de  107.51 EUR (original: 169.0 EUR) (36.38 %  de rebaja) aqui!
 
-[![Baby Jogger BJ2012299 - Kit de capazo](https://m.media-amazon.com/images/I/31ZmlYfuyLL._SL200_.jpg)](https://www.amazon.es/dp/B06Y14JQW9/?tag=tolees-21)
+[![Baby Jogger BJ2012299 - Kit de capazo](https://m.media-amazon.com/images/I/31ZmlYfuyLL._SL400_.jpg)](https://www.amazon.es/dp/B06Y14JQW9/?tag=tolees-21)
 
 🔎:
 

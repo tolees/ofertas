@@ -2,7 +2,7 @@
 layout: post
 title: 'Brillante Benefit Legumbres  Chía  Verdu al 25.93 % de descuento'
 date: 2020-07-17 09:43:32
-image: 'https://m.media-amazon.com/images/I/51vum7fIABL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51vum7fIABL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.866666666666667'
 
 Ahora mismo tienes [Brillante Benefit Legumbres  Chía  Verduras  250G - [Pack De 16] - Total 4 Kg](https://www.amazon.es/dp/B07CQ2JL7C/?tag=tolees-21) a 16.0 EUR (original: 21.6 EUR) (25.93 %  de descuento) en el siguiente enlace!
 
-[![Brillante Benefit Legumbres  Chía  Verdu](https://m.media-amazon.com/images/I/51vum7fIABL._SL200_.jpg)](https://www.amazon.es/dp/B07CQ2JL7C/?tag=tolees-21)
+[![Brillante Benefit Legumbres  Chía  Verdu](https://m.media-amazon.com/images/I/51vum7fIABL._SL400_.jpg)](https://www.amazon.es/dp/B07CQ2JL7C/?tag=tolees-21)
 
 🔎:
 

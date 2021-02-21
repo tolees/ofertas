@@ -2,7 +2,7 @@
 layout: post
 title: 'Persona 5 - Royal Phantom Thieves Editio al 33.44 % de descuento'
 date: 2020-08-31 10:29:12
-image: 'https://m.media-amazon.com/images/I/51ViG8ECddL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51ViG8ECddL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '90.33874999999998'
 
 Ahora mismo tienes [Persona 5 - Royal Phantom Thieves Edition](https://www.amazon.es/dp/B082JGWPH2/?tag=tolees-21) a 59.9 EUR (original: 89.99 EUR) (33.44 %  de descuento) en el siguiente enlace!
 
-[![Persona 5 - Royal Phantom Thieves Editio](https://m.media-amazon.com/images/I/51ViG8ECddL._SL200_.jpg)](https://www.amazon.es/dp/B082JGWPH2/?tag=tolees-21)
+[![Persona 5 - Royal Phantom Thieves Editio](https://m.media-amazon.com/images/I/51ViG8ECddL._SL400_.jpg)](https://www.amazon.es/dp/B082JGWPH2/?tag=tolees-21)
 
 🔎:
 

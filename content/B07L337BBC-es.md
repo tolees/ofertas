@@ -2,7 +2,7 @@
 layout: post
 title: 'Asics Patriot 11  Zapatillas de Running  al 28.76 % de descuento'
 date: 2020-09-13 06:12:55
-image: 'https://m.media-amazon.com/images/I/41rjwjyKiJL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41rjwjyKiJL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '42.67666666666667'
 
 Ahora mismo tienes [Asics Patriot 11  Zapatillas de Running para Hombre  Negro  Black/White 001   42 EU](https://www.amazon.es/dp/B07L337BBC/?tag=tolees-21) a 44.52 EUR (original: 62.49 EUR) (28.76 %  de descuento) en el siguiente enlace!
 
-[![Asics Patriot 11  Zapatillas de Running ](https://m.media-amazon.com/images/I/41rjwjyKiJL._SL200_.jpg)](https://www.amazon.es/dp/B07L337BBC/?tag=tolees-21)
+[![Asics Patriot 11  Zapatillas de Running ](https://m.media-amazon.com/images/I/41rjwjyKiJL._SL400_.jpg)](https://www.amazon.es/dp/B07L337BBC/?tag=tolees-21)
 
 🔎:
 

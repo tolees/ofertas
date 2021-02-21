@@ -2,7 +2,7 @@
 layout: post
 title: 'Babolat Custom Damp X2 Amortiguador de v al 26.70 % de descuento'
 date: 2020-01-03 16:26:38
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41iLGh12ZVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41iLGh12ZVL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.49'
 
 Ahora mismo tienes [Babolat Custom Damp X2 Amortiguador de vibración de Tenis  Unisex Adulto  Blanco/Azul  Talla Única](https://www.amazon.es/dp/B017RQ7OUS/?tag=tolees-21) a 5.49 EUR (original: 7.49 EUR) (26.70 %  de descuento) en el siguiente enlace!
 
-[![Babolat Custom Damp X2 Amortiguador de v](https://images-eu.ssl-images-amazon.com/images/I/41iLGh12ZVL._SL200_.jpg)](https://www.amazon.es/dp/B017RQ7OUS/?tag=tolees-21)
+[![Babolat Custom Damp X2 Amortiguador de v](https://images-eu.ssl-images-amazon.com/images/I/41iLGh12ZVL._SL400_.jpg)](https://www.amazon.es/dp/B017RQ7OUS/?tag=tolees-21)
 
 🔎:
 

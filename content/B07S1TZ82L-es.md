@@ -2,7 +2,7 @@
 layout: post
 title: 'OurLeeme Scooter Bolsa de Almacenamiento al 50.00 % de descuento'
 date: 2020-05-17 19:32:04
-image: 'https://m.media-amazon.com/images/I/41+IPOu5IXL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41+IPOu5IXL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.99'
 
 Ahora mismo tienes [OurLeeme Scooter Bolsa de Almacenamiento  Bolsa Delantera de Gran Capacidad Bolsa para Scooter eléctrico Bolsa Colgante para XiaoMi  Pequeño ](https://www.amazon.es/dp/B07S1TZ82L/?tag=tolees-21) a 6.99 EUR (original: 13.98 EUR) (50.00 %  de descuento) en el siguiente enlace!
 
-[![OurLeeme Scooter Bolsa de Almacenamiento](https://m.media-amazon.com/images/I/41+IPOu5IXL._SL200_.jpg)](https://www.amazon.es/dp/B07S1TZ82L/?tag=tolees-21)
+[![OurLeeme Scooter Bolsa de Almacenamiento](https://m.media-amazon.com/images/I/41+IPOu5IXL._SL400_.jpg)](https://www.amazon.es/dp/B07S1TZ82L/?tag=tolees-21)
 
 🔎:
 

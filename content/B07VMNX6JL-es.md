@@ -2,7 +2,7 @@
 layout: post
 title: 'Calvin Klein Medium Drawstring Bañador   al 37.86 % de descuento'
 date: 2020-04-19 09:57:22
-image: 'https://m.media-amazon.com/images/I/41XOye7hgxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41XOye7hgxL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '36.6'
 
 Está [Calvin Klein Medium Drawstring Bañador  Blanco  PVH Classic White YCD   Hombre](https://www.amazon.es/dp/B07VMNX6JL/?tag=tolees-21) con 37.86 de descuento por 36.6 EUR (original: 58.9 EUR) en el siguiente enlace!
 
-[![Calvin Klein Medium Drawstring Bañador  ](https://m.media-amazon.com/images/I/41XOye7hgxL._SL200_.jpg)](https://www.amazon.es/dp/B07VMNX6JL/?tag=tolees-21)
+[![Calvin Klein Medium Drawstring Bañador  ](https://m.media-amazon.com/images/I/41XOye7hgxL._SL400_.jpg)](https://www.amazon.es/dp/B07VMNX6JL/?tag=tolees-21)
 
 ℹ️:
 

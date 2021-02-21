@@ -2,7 +2,7 @@
 layout: post
 title: 'Extractor de la Espinilla - Extractor de al 47.05 % de rebaja'
 date: 2020-02-18 21:36:42
-image: 'https://m.media-amazon.com/images/I/518U4KiLQcL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/518U4KiLQcL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.29'
 
 Tienes [Extractor de la Espinilla - Extractor del Acné  Kit de la Herramienta de la Eliminación de Whitehead Kit para la Piel del Cuidado Facial](https://www.amazon.es/dp/B07K9KWJHS/?tag=tolees-21) con precio final de  5.29 EUR (original: 9.99 EUR) (47.05 %  de rebaja) aqui!
 
-[![Extractor de la Espinilla - Extractor de](https://m.media-amazon.com/images/I/518U4KiLQcL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07K9KWJHS/?tag=tolees-21)
+[![Extractor de la Espinilla - Extractor de](https://m.media-amazon.com/images/I/518U4KiLQcL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07K9KWJHS/?tag=tolees-21)
 
 🔎:
 

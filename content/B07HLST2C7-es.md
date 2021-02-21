@@ -2,7 +2,7 @@
 layout: post
 title: ' LA  Panel LED redondo plano  18W  1600  al 30.51 % de descuento'
 date: 2020-07-27 07:57:45
-image: 'https://m.media-amazon.com/images/I/312XnUxb0uL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/312XnUxb0uL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.29'
 
 Ahora mismo tienes [ LA  Panel LED redondo plano  18W  1600 lumenes reales! driver incluido. Corte standard 200mm.  Blanco Frio  6500K   1 Unidad ](https://www.amazon.es/dp/B07HLST2C7/?tag=tolees-21) a 7.29 EUR (original: 10.49 EUR) (30.51 %  de descuento) en el siguiente enlace!
 
-[![ LA  Panel LED redondo plano  18W  1600 ](https://m.media-amazon.com/images/I/312XnUxb0uL._SL200_.jpg)](https://www.amazon.es/dp/B07HLST2C7/?tag=tolees-21)
+[![ LA  Panel LED redondo plano  18W  1600 ](https://m.media-amazon.com/images/I/312XnUxb0uL._SL400_.jpg)](https://www.amazon.es/dp/B07HLST2C7/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Adidas Terrex EASTRAIL Mid GTX  Zapatill al 28.39 % de descuento'
 date: 2020-06-15 03:00:00
-image: 'https://m.media-amazon.com/images/I/41uyAdmgBdL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41uyAdmgBdL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '85.9'
 
 Está [Adidas Terrex EASTRAIL Mid GTX  Zapatillas de Deporte para Hombre  Gris  Carbon/Negbás/Gricin 000   44 EU](https://www.amazon.es/dp/B07J66YXZY/?tag=tolees-21) con 28.39 de descuento por 85.9 EUR (original: 119.95 EUR) en el siguiente enlace!
 
-[![Adidas Terrex EASTRAIL Mid GTX  Zapatill](https://m.media-amazon.com/images/I/41uyAdmgBdL._SL200_.jpg)](https://www.amazon.es/dp/B07J66YXZY/?tag=tolees-21)
+[![Adidas Terrex EASTRAIL Mid GTX  Zapatill](https://m.media-amazon.com/images/I/41uyAdmgBdL._SL400_.jpg)](https://www.amazon.es/dp/B07J66YXZY/?tag=tolees-21)
 
 ℹ️:
 

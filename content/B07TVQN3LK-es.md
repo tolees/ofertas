@@ -2,7 +2,7 @@
 layout: post
 title: 'Wrangler SS Colourblock Polo  Blanco  Wh con un 77.33 % de descuento'
 date: 2020-08-09 19:16:20
-image: 'https://m.media-amazon.com/images/I/41aO0D1+vGL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41aO0D1+vGL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.19'
 
 En este momento está [Wrangler SS Colourblock Polo  Blanco  White 989   Small para Hombre](https://www.amazon.es/dp/B07TVQN3LK/?tag=tolees-21) a 10.19 EUR (original: 44.95 EUR) (77.33 %  de descuento) en el siguiente enlace!
 
-[![Wrangler SS Colourblock Polo  Blanco  Wh](https://m.media-amazon.com/images/I/41aO0D1+vGL._SL200_.jpg)](https://www.amazon.es/dp/B07TVQN3LK/?tag=tolees-21)
+[![Wrangler SS Colourblock Polo  Blanco  Wh](https://m.media-amazon.com/images/I/41aO0D1+vGL._SL400_.jpg)](https://www.amazon.es/dp/B07TVQN3LK/?tag=tolees-21)
 
 🔎:
 

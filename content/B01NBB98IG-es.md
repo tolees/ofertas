@@ -2,7 +2,7 @@
 layout: post
 title: 'Salomon Speedcross Vario 2 GTX Calzado d con un 56.68 % de descuento'
 date: 2020-07-05 14:46:27
-image: 'https://m.media-amazon.com/images/I/41Ez1OuD8mL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Ez1OuD8mL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '60.65'
 
 En este momento está [Salomon Speedcross Vario 2 GTX Calzado de Trail Running  Hombre  Negro  Phantom/Black/Monument   43 1/3 EU](https://www.amazon.es/dp/B01NBB98IG/?tag=tolees-21) a 60.65 EUR (original: 139.99 EUR) (56.68 %  de descuento) en el siguiente enlace!
 
-[![Salomon Speedcross Vario 2 GTX Calzado d](https://m.media-amazon.com/images/I/41Ez1OuD8mL._SL200_.jpg)](https://www.amazon.es/dp/B01NBB98IG/?tag=tolees-21)
+[![Salomon Speedcross Vario 2 GTX Calzado d](https://m.media-amazon.com/images/I/41Ez1OuD8mL._SL400_.jpg)](https://www.amazon.es/dp/B01NBB98IG/?tag=tolees-21)
 
 🔎:
 

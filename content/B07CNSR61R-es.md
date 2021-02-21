@@ -2,7 +2,7 @@
 layout: post
 title: 'Minar by Homemania Homemania - Escritori al 32.95 % de descuento'
 date: 2020-06-27 07:39:30
-image: 'https://m.media-amazon.com/images/I/51TjKQZoTPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51TjKQZoTPL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '104.84'
 
 Está [Minar by Homemania Homemania - Escritorio Snap  Color Blanco](https://www.amazon.es/dp/B07CNSR61R/?tag=tolees-21) con 32.95 de descuento por 104.84 EUR (original: 156.37 EUR) en el siguiente enlace!
 
-[![Minar by Homemania Homemania - Escritori](https://m.media-amazon.com/images/I/51TjKQZoTPL._SL200_.jpg)](https://www.amazon.es/dp/B07CNSR61R/?tag=tolees-21)
+[![Minar by Homemania Homemania - Escritori](https://m.media-amazon.com/images/I/51TjKQZoTPL._SL400_.jpg)](https://www.amazon.es/dp/B07CNSR61R/?tag=tolees-21)
 
 ℹ️:
 

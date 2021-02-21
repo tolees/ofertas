@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 35.56 % en Columbia Zero Rules Polo con Protección '
 date: 2020-02-01 21:48:34
-image: 'https://m.media-amazon.com/images/I/51OOfbMSfkL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51OOfbMSfkL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '27.075'
 
 Tienes [Columbia Zero Rules Polo con Protección Solar 30  Hombre  Gris  Shark Heather   X-L](https://www.amazon.es/dp/B017WHFR60/?tag=tolees-21) con un 35.56 % de descuento con precio de oferta de 28.99 EUR (original: 44.99 EUR) en el siguiente enlace!
 
-[![Columbia Zero Rules Polo con Protección ](https://m.media-amazon.com/images/I/51OOfbMSfkL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B017WHFR60/?tag=tolees-21)
+[![Columbia Zero Rules Polo con Protección ](https://m.media-amazon.com/images/I/51OOfbMSfkL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B017WHFR60/?tag=tolees-21)
 
 ℹ️:
 

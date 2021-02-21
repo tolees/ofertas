@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 40.16 % en B+W Circular MRC - Filtro polarizador pa'
 date: 2020-03-22 19:31:41
-image: 'https://m.media-amazon.com/images/I/31yeK6bj5SL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31yeK6bj5SL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '60.38'
 
 Tienes [B+W Circular MRC - Filtro polarizador para  58 mm ](https://www.amazon.es/dp/B0000BZL5B/?tag=tolees-21) con un 40.16 % de descuento con precio de oferta de 60.38 EUR (original: 100.91 EUR) en el siguiente enlace!
 
-[![B+W Circular MRC - Filtro polarizador pa](https://m.media-amazon.com/images/I/31yeK6bj5SL._SL200_.jpg)](https://www.amazon.es/dp/B0000BZL5B/?tag=tolees-21)
+[![B+W Circular MRC - Filtro polarizador pa](https://m.media-amazon.com/images/I/31yeK6bj5SL._SL400_.jpg)](https://www.amazon.es/dp/B0000BZL5B/?tag=tolees-21)
 
 ℹ️:
 

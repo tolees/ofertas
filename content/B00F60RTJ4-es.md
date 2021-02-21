@@ -2,7 +2,7 @@
 layout: post
 title: 'Equip 625423 - Cable de Red  0 25 m  Cat al 83.54 % de rebaja'
 date: 2020-01-14 13:30:50
-image: 'https://images-eu.ssl-images-amazon.com/images/I/315KXOlIqyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/315KXOlIqyL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '0.95'
 
 Tienes [Equip 625423 - Cable de Red  0 25 m  Cat6  U/UTP  UTP   RJ-45  RJ-45  Rojo ](https://www.amazon.es/dp/B00F60RTJ4/?tag=tolees-21) con precio final de  0.95 EUR (original: 5.77 EUR) (83.54 %  de rebaja) aqui!
 
-[![Equip 625423 - Cable de Red  0 25 m  Cat](https://images-eu.ssl-images-amazon.com/images/I/315KXOlIqyL._SL200_.jpg)](https://www.amazon.es/dp/B00F60RTJ4/?tag=tolees-21)
+[![Equip 625423 - Cable de Red  0 25 m  Cat](https://images-eu.ssl-images-amazon.com/images/I/315KXOlIqyL._SL400_.jpg)](https://www.amazon.es/dp/B00F60RTJ4/?tag=tolees-21)
 
 🔎:
 

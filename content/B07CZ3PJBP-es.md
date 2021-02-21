@@ -2,7 +2,7 @@
 layout: post
 title: 'Puma Vikky Platform VT  Zapatillas para  con un 64.27 % de descuento'
 date: 2020-01-28 08:29:55
-image: 'https://m.media-amazon.com/images/I/417mBdHFf-L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/417mBdHFf-L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.99'
 
 En este momento está [Puma Vikky Platform VT  Zapatillas para Mujer  Negro Black White  40 EU](https://www.amazon.es/dp/B07CZ3PJBP/?tag=tolees-21) a 24.99 EUR (original: 69.95 EUR) (64.27 %  de descuento) en el siguiente enlace!
 
-[![Puma Vikky Platform VT  Zapatillas para ](https://m.media-amazon.com/images/I/417mBdHFf-L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07CZ3PJBP/?tag=tolees-21)
+[![Puma Vikky Platform VT  Zapatillas para ](https://m.media-amazon.com/images/I/417mBdHFf-L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07CZ3PJBP/?tag=tolees-21)
 
 🔎:
 

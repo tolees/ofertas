@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas Real H Baby Set  Blanco/Azuint  6 al 36.38 % de rebaja'
 date: 2020-05-04 08:23:17
-image: 'https://m.media-amazon.com/images/I/41dLInyfqXL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41dLInyfqXL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '34.99'
 
 Tienes [adidas Real H Baby Set  Blanco/Azuint  68](https://www.amazon.es/dp/B071GTF9WS/?tag=tolees-21) con precio final de  34.99 EUR (original: 55.0 EUR) (36.38 %  de rebaja) aqui!
 
-[![adidas Real H Baby Set  Blanco/Azuint  6](https://m.media-amazon.com/images/I/41dLInyfqXL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B071GTF9WS/?tag=tolees-21)
+[![adidas Real H Baby Set  Blanco/Azuint  6](https://m.media-amazon.com/images/I/41dLInyfqXL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B071GTF9WS/?tag=tolees-21)
 
 🔎:
 

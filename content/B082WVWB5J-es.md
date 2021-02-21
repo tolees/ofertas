@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 31.60 % en Aigostar - Recipientes para envasar al v'
 date: 2020-08-25 15:53:03
-image: 'https://m.media-amazon.com/images/I/51U5rmAjYiL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51U5rmAjYiL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.99'
 
 Tienes [Aigostar - Recipientes para envasar al vacío. Conservación y almacenamiento de alimentos. Pack de 2 unidades de distintos tamaños  material duradero de grado alimentario. Color azul](https://www.amazon.es/dp/B082WVWB5J/?tag=tolees-21) con un 31.60 % de descuento con precio de oferta de 12.99 EUR (original: 18.99 EUR) en el siguiente enlace!
 
-[![Aigostar - Recipientes para envasar al v](https://m.media-amazon.com/images/I/51U5rmAjYiL._SL200_.jpg)](https://www.amazon.es/dp/B082WVWB5J/?tag=tolees-21)
+[![Aigostar - Recipientes para envasar al v](https://m.media-amazon.com/images/I/51U5rmAjYiL._SL400_.jpg)](https://www.amazon.es/dp/B082WVWB5J/?tag=tolees-21)
 
 ℹ️:
 

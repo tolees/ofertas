@@ -2,7 +2,7 @@
 layout: post
 title: 'JAIMIE JACOBS ® Cartera Mágica Flap Boy  al 28.09 % de descuento'
 date: 2020-02-13 15:25:28
-image: 'https://m.media-amazon.com/images/I/41ru01F1CAL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ru01F1CAL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '64.0'
 
 Ahora mismo tienes [JAIMIE JACOBS ® Cartera Mágica Flap Boy Slim  el Original  Magic Wallet con Bloqueo RFID  Protege Tarjetas de Crédito  Tarjetero Hombre Slim  Cuero Auténtico  Marrón Oscuro con Rojo ](https://www.amazon.es/dp/B07BFGB7LX/?tag=tolees-21) a 64.0 EUR (original: 89.0 EUR) (28.09 %  de descuento) en el siguiente enlace!
 
-[![JAIMIE JACOBS ® Cartera Mágica Flap Boy ](https://m.media-amazon.com/images/I/41ru01F1CAL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07BFGB7LX/?tag=tolees-21)
+[![JAIMIE JACOBS ® Cartera Mágica Flap Boy ](https://m.media-amazon.com/images/I/41ru01F1CAL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07BFGB7LX/?tag=tolees-21)
 
 🔎:
 

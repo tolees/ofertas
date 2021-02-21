@@ -2,7 +2,7 @@
 layout: post
 title: 'UGEARS Coche Grand Prix U-9 - Kit de Mon al 37.55 % de descuento'
 date: 2020-05-10 14:13:05
-image: 'https://m.media-amazon.com/images/I/5139bXauE5L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/5139bXauE5L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '22.45'
 
 Ahora mismo tienes [UGEARS Coche Grand Prix U-9 - Kit de Montaje Coche de carreras - 3D Rompecabezas de Madera DIY](https://www.amazon.es/dp/B077RYYYQY/?tag=tolees-21) a 22.45 EUR (original: 35.95 EUR) (37.55 %  de descuento) en el siguiente enlace!
 
-[![UGEARS Coche Grand Prix U-9 - Kit de Mon](https://m.media-amazon.com/images/I/5139bXauE5L._SL200_.jpg)](https://www.amazon.es/dp/B077RYYYQY/?tag=tolees-21)
+[![UGEARS Coche Grand Prix U-9 - Kit de Mon](https://m.media-amazon.com/images/I/5139bXauE5L._SL400_.jpg)](https://www.amazon.es/dp/B077RYYYQY/?tag=tolees-21)
 
 🔎:
 

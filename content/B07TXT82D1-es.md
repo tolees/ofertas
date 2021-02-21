@@ -2,7 +2,7 @@
 layout: post
 title: 'Merrell Moab 2 Lace Waterproof  Zapatill al 59.26 % de descuento'
 date: 2020-08-14 18:07:42
-image: 'https://m.media-amazon.com/images/I/41eof-UGVLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41eof-UGVLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '26.48'
 
 Está [Merrell Moab 2 Lace Waterproof  Zapatillas Deportivas para Interior Unisex Niños  Gris  Grey/Periwinkle   37 EU](https://www.amazon.es/dp/B07TXT82D1/?tag=tolees-21) con 59.26 de descuento por 26.48 EUR (original: 65.0 EUR) en el siguiente enlace!
 
-[![Merrell Moab 2 Lace Waterproof  Zapatill](https://m.media-amazon.com/images/I/41eof-UGVLL._SL200_.jpg)](https://www.amazon.es/dp/B07TXT82D1/?tag=tolees-21)
+[![Merrell Moab 2 Lace Waterproof  Zapatill](https://m.media-amazon.com/images/I/41eof-UGVLL._SL400_.jpg)](https://www.amazon.es/dp/B07TXT82D1/?tag=tolees-21)
 
 ℹ️:
 

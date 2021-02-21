@@ -2,7 +2,7 @@
 layout: post
 title: 'The Binding Of Isaac: Afterbirth al 25.11 % de descuento'
 date: 2020-03-10 15:41:06
-image: 'https://m.media-amazon.com/images/I/51fY1K7fl7L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51fY1K7fl7L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '22.965'
 
 Está [The Binding Of Isaac: Afterbirth](https://www.amazon.es/dp/B071VRG7P1/?tag=tolees-21) con 25.11 de descuento por 29.95 EUR (original: 39.99 EUR) en el siguiente enlace!
 
-[![The Binding Of Isaac: Afterbirth](https://m.media-amazon.com/images/I/51fY1K7fl7L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B071VRG7P1/?tag=tolees-21)
+[![The Binding Of Isaac: Afterbirth](https://m.media-amazon.com/images/I/51fY1K7fl7L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B071VRG7P1/?tag=tolees-21)
 
 ℹ️:
 

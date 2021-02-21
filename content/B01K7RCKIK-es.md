@@ -2,7 +2,7 @@
 layout: post
 title: 'Rexona Desodorante Aerosol Cobalt Blue - al 55.56 % de descuento'
 date: 2020-05-06 12:20:15
-image: 'https://m.media-amazon.com/images/I/41VeFGLz+SL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41VeFGLz+SL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.0'
 
 Ahora mismo tienes [Rexona Desodorante Aerosol Cobalt Blue - 200 ml](https://www.amazon.es/dp/B01K7RCKIK/?tag=tolees-21) a 1.0 EUR (original: 2.25 EUR) (55.56 %  de descuento) en el siguiente enlace!
 
-[![Rexona Desodorante Aerosol Cobalt Blue -](https://m.media-amazon.com/images/I/41VeFGLz+SL._SL200_.jpg)](https://www.amazon.es/dp/B01K7RCKIK/?tag=tolees-21)
+[![Rexona Desodorante Aerosol Cobalt Blue -](https://m.media-amazon.com/images/I/41VeFGLz+SL._SL400_.jpg)](https://www.amazon.es/dp/B01K7RCKIK/?tag=tolees-21)
 
 🔎:
 

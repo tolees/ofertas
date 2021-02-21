@@ -2,7 +2,7 @@
 layout: post
 title: 'WMF 778046380 Vario Cuisine-Batería de C al 50.00 % de descuento'
 date: 2020-06-07 03:49:07
-image: 'https://m.media-amazon.com/images/I/413eW7wHYLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/413eW7wHYLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '224.5'
 
 Está [WMF 778046380 Vario Cuisine-Batería de Cocina de 4 Piezas con termómetro Integrado  Acero Inoxidable  1.9 litros  Cromargan](https://www.amazon.es/dp/B07DCWGX6G/?tag=tolees-21) con 50.00 de descuento por 224.5 EUR (original: 449.0 EUR) en el siguiente enlace!
 
-[![WMF 778046380 Vario Cuisine-Batería de C](https://m.media-amazon.com/images/I/413eW7wHYLL._SL200_.jpg)](https://www.amazon.es/dp/B07DCWGX6G/?tag=tolees-21)
+[![WMF 778046380 Vario Cuisine-Batería de C](https://m.media-amazon.com/images/I/413eW7wHYLL._SL400_.jpg)](https://www.amazon.es/dp/B07DCWGX6G/?tag=tolees-21)
 
 ℹ️:
 

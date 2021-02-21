@@ -2,7 +2,7 @@
 layout: post
 title: 'Vileda VR 101 - Robot aspirador y escoba con un 52.69 % de descuento'
 date: 2020-04-10 08:30:23
-image: 'https://m.media-amazon.com/images/I/51A56jO31dL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51A56jO31dL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '93.44666666666666'
 
 En este momento está [Vileda VR 101 - Robot aspirador y escoba para suelos duros y alfombras de pelo corto  2 programas de limpieza  sensores de desnivel  depósito de suciedad de 0 37 litros  65 decibles  color rojo](https://www.amazon.es/dp/B01KO6JC08/?tag=tolees-21) a 79.95 EUR (original: 169.0 EUR) (52.69 %  de descuento) en el siguiente enlace!
 
-[![Vileda VR 101 - Robot aspirador y escoba](https://m.media-amazon.com/images/I/51A56jO31dL._SL200_.jpg)](https://www.amazon.es/dp/B01KO6JC08/?tag=tolees-21)
+[![Vileda VR 101 - Robot aspirador y escoba](https://m.media-amazon.com/images/I/51A56jO31dL._SL400_.jpg)](https://www.amazon.es/dp/B01KO6JC08/?tag=tolees-21)
 
 🔎:
 

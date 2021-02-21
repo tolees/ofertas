@@ -2,7 +2,7 @@
 layout: post
 title: 'TAIFU - Adaptador de alimentación CA  65 con un 93.51 % de descuento'
 date: 2020-03-21 10:08:19
-image: 'https://m.media-amazon.com/images/I/51i56tVNy2L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51i56tVNy2L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.08'
 
 En este momento está [TAIFU - Adaptador de alimentación CA  65 W  Chargeur Universel 65W](https://www.amazon.es/dp/B07WVXDR8P/?tag=tolees-21) a 5.08 EUR (original: 78.25 EUR) (93.51 %  de descuento) en el siguiente enlace!
 
-[![TAIFU - Adaptador de alimentación CA  65](https://m.media-amazon.com/images/I/51i56tVNy2L._SL200_.jpg)](https://www.amazon.es/dp/B07WVXDR8P/?tag=tolees-21)
+[![TAIFU - Adaptador de alimentación CA  65](https://m.media-amazon.com/images/I/51i56tVNy2L._SL400_.jpg)](https://www.amazon.es/dp/B07WVXDR8P/?tag=tolees-21)
 
 🔎:
 

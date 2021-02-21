@@ -2,7 +2,7 @@
 layout: post
 title: 'Philips Avent SCF349/21 - Pack de 2 chup al 48.24 % de rebaja'
 date: 2020-07-04 17:09:43
-image: 'https://m.media-amazon.com/images/I/51XxpDy9cIL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51XxpDy9cIL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.4'
 
 Tienes [Philips Avent SCF349/21 - Pack de 2 chupetes Ultra Air  tetina extrafirme para 18m+  apta para la piel sensible  con estuche de esterilización  color verde y naranja](https://www.amazon.es/dp/B07TPQCR29/?tag=tolees-21) con precio final de  4.4 EUR (original: 8.5 EUR) (48.24 %  de rebaja) aqui!
 
-[![Philips Avent SCF349/21 - Pack de 2 chup](https://m.media-amazon.com/images/I/51XxpDy9cIL._SL200_.jpg)](https://www.amazon.es/dp/B07TPQCR29/?tag=tolees-21)
+[![Philips Avent SCF349/21 - Pack de 2 chup](https://m.media-amazon.com/images/I/51XxpDy9cIL._SL400_.jpg)](https://www.amazon.es/dp/B07TPQCR29/?tag=tolees-21)
 
 🔎:
 

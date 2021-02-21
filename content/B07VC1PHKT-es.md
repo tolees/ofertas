@@ -2,7 +2,7 @@
 layout: post
 title: 'JACK & JONES Jorrafael Sweat Hood Capuch al 74.68 % de descuento'
 date: 2020-04-20 09:22:37
-image: 'https://m.media-amazon.com/images/I/41EPn+0UyNL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41EPn+0UyNL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.952'
 
 Está [JACK & JONES Jorrafael Sweat Hood Capucha  Azul  Sea Moss Fit: Slim/Org   Small para Hombre](https://www.amazon.es/dp/B07VC1PHKT/?tag=tolees-21) con 74.68 de descuento por 8.86 EUR (original: 34.99 EUR) en el siguiente enlace!
 
-[![JACK & JONES Jorrafael Sweat Hood Capuch](https://m.media-amazon.com/images/I/41EPn+0UyNL._SL200_.jpg)](https://www.amazon.es/dp/B07VC1PHKT/?tag=tolees-21)
+[![JACK & JONES Jorrafael Sweat Hood Capuch](https://m.media-amazon.com/images/I/41EPn+0UyNL._SL400_.jpg)](https://www.amazon.es/dp/B07VC1PHKT/?tag=tolees-21)
 
 ℹ️:
 

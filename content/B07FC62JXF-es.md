@@ -2,7 +2,7 @@
 layout: post
 title: '1 Unidad de Medidor de Presión de Aire p al 44.44 % de descuento'
 date: 2020-04-10 13:02:16
-image: 'https://m.media-amazon.com/images/I/31FPcxcB7ML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31FPcxcB7ML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.527142857142858'
 
 Ahora mismo tienes [1 Unidad de Medidor de Presión de Aire para Pelotas de Fútbol Baloncesto](https://www.amazon.es/dp/B07FC62JXF/?tag=tolees-21) a 14.59 EUR (original: 26.26 EUR) (44.44 %  de descuento) en el siguiente enlace!
 
-[![1 Unidad de Medidor de Presión de Aire p](https://m.media-amazon.com/images/I/31FPcxcB7ML._SL200_.jpg)](https://www.amazon.es/dp/B07FC62JXF/?tag=tolees-21)
+[![1 Unidad de Medidor de Presión de Aire p](https://m.media-amazon.com/images/I/31FPcxcB7ML._SL400_.jpg)](https://www.amazon.es/dp/B07FC62JXF/?tag=tolees-21)
 
 🔎:
 

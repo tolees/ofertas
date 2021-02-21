@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas Santos Sock 18 Calcetines  Unisex al 50.44 % de rebaja'
 date: 2020-09-11 05:34:22
-image: 'https://m.media-amazon.com/images/I/31Ze03uBbUL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Ze03uBbUL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.96'
 
 Tienes [adidas Santos Sock 18 Calcetines  Unisex Adulto  Black/White  4042](https://www.amazon.es/dp/B0779DC4MR/?tag=tolees-21) con precio final de  3.96 EUR (original: 7.99 EUR) (50.44 %  de rebaja) aqui!
 
-[![adidas Santos Sock 18 Calcetines  Unisex](https://m.media-amazon.com/images/I/31Ze03uBbUL._SL200_.jpg)](https://www.amazon.es/dp/B0779DC4MR/?tag=tolees-21)
+[![adidas Santos Sock 18 Calcetines  Unisex](https://m.media-amazon.com/images/I/31Ze03uBbUL._SL400_.jpg)](https://www.amazon.es/dp/B0779DC4MR/?tag=tolees-21)
 
 🔎:
 

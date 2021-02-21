@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 52.92 % en Beter Pur Pedicur - Cortacallos con bisa'
 date: 2020-03-02 22:27:20
-image: 'https://m.media-amazon.com/images/I/21sCHK4V70L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21sCHK4V70L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.99'
 
 Tienes [Beter Pur Pedicur - Cortacallos con bisagra](https://www.amazon.es/dp/B00NGK2A90/?tag=tolees-21) con un 52.92 % de descuento con precio de oferta de 4.99 EUR (original: 10.6 EUR) en el siguiente enlace!
 
-[![Beter Pur Pedicur - Cortacallos con bisa](https://m.media-amazon.com/images/I/21sCHK4V70L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B00NGK2A90/?tag=tolees-21)
+[![Beter Pur Pedicur - Cortacallos con bisa](https://m.media-amazon.com/images/I/21sCHK4V70L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B00NGK2A90/?tag=tolees-21)
 
 ℹ️:
 

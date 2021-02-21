@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 41.65 % en Bosch Professional GAS 35 L SFC+ - Aspir'
 date: 2020-05-28 00:37:56
-image: 'https://m.media-amazon.com/images/I/410cE+loCJL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/410cE+loCJL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '379.32666666666665'
 
 Tienes [Bosch Professional GAS 35 L SFC+ - Aspirador seco/húmedo  1380 W  capacidad 35 l  manguera 3 m  SFC+  254 mbar ](https://www.amazon.es/dp/B00D1ULH0I/?tag=tolees-21) con un 41.65 % de descuento con precio de oferta de 369.99 EUR (original: 634.04 EUR) en el siguiente enlace!
 
-[![Bosch Professional GAS 35 L SFC+ - Aspir](https://m.media-amazon.com/images/I/410cE+loCJL._SL200_.jpg)](https://www.amazon.es/dp/B00D1ULH0I/?tag=tolees-21)
+[![Bosch Professional GAS 35 L SFC+ - Aspir](https://m.media-amazon.com/images/I/410cE+loCJL._SL400_.jpg)](https://www.amazon.es/dp/B00D1ULH0I/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Funko pop Nacho Libre  multicolor  talla con un 54.29 % de descuento'
 date: 2020-09-12 07:10:12
-image: 'https://m.media-amazon.com/images/I/411P6ONIDBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/411P6ONIDBL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.593333333333333'
 
 En este momento está [Funko pop Nacho Libre  multicolor  talla única  36347    color/modelo surtido](https://www.amazon.es/dp/B07H9Z4JP3/?tag=tolees-21) a 7.29 EUR (original: 15.95 EUR) (54.29 %  de descuento) en el siguiente enlace!
 
-[![Funko pop Nacho Libre  multicolor  talla](https://m.media-amazon.com/images/I/411P6ONIDBL._SL200_.jpg)](https://www.amazon.es/dp/B07H9Z4JP3/?tag=tolees-21)
+[![Funko pop Nacho Libre  multicolor  talla](https://m.media-amazon.com/images/I/411P6ONIDBL._SL400_.jpg)](https://www.amazon.es/dp/B07H9Z4JP3/?tag=tolees-21)
 
 🔎:
 

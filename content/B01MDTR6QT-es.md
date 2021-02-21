@@ -2,7 +2,7 @@
 layout: post
 title: 'G-STAR RAW Duko Belt Cinturón  Marrón  D al 34.31 % de descuento'
 date: 2020-07-21 06:30:34
-image: 'https://m.media-amazon.com/images/I/41krBOSMURL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41krBOSMURL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.606666666666666'
 
 Está [G-STAR RAW Duko Belt Cinturón  Marrón  Dk Brown/black Metal 8127   90 para Hombre](https://www.amazon.es/dp/B01MDTR6QT/?tag=tolees-21) con 34.31 de descuento por 22.99 EUR (original: 35.0 EUR) en el siguiente enlace!
 
-[![G-STAR RAW Duko Belt Cinturón  Marrón  D](https://m.media-amazon.com/images/I/41krBOSMURL._SL200_.jpg)](https://www.amazon.es/dp/B01MDTR6QT/?tag=tolees-21)
+[![G-STAR RAW Duko Belt Cinturón  Marrón  D](https://m.media-amazon.com/images/I/41krBOSMURL._SL400_.jpg)](https://www.amazon.es/dp/B01MDTR6QT/?tag=tolees-21)
 
 ℹ️:
 

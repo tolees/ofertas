@@ -2,7 +2,7 @@
 layout: post
 title: 'Casio A178WEA-1AES  Reloj Unisex al 33.59 % de descuento'
 date: 2020-10-02 09:00:30
-image: 'https://m.media-amazon.com/images/I/515J341wvHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/515J341wvHL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.898095238095237'
 
 Está [Casio A178WEA-1AES  Reloj Unisex](https://www.amazon.es/dp/B000MX1YPU/?tag=tolees-21) con 33.59 de descuento por 25.9 EUR (original: 39.0 EUR) en el siguiente enlace!
 
-[![Casio A178WEA-1AES  Reloj Unisex](https://m.media-amazon.com/images/I/515J341wvHL._SL200_.jpg)](https://www.amazon.es/dp/B000MX1YPU/?tag=tolees-21)
+[![Casio A178WEA-1AES  Reloj Unisex](https://m.media-amazon.com/images/I/515J341wvHL._SL400_.jpg)](https://www.amazon.es/dp/B000MX1YPU/?tag=tolees-21)
 
 ℹ️:
 

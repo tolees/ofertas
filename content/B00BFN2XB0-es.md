@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 45.78 % en Casio EDIFICE Reloj en caja sólida de ac'
 date: 2020-04-25 14:25:01
-image: 'https://m.media-amazon.com/images/I/51KvSVmlRgL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51KvSVmlRgL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '69.575'
 
 Tienes [Casio EDIFICE Reloj en caja sólida de acero inoxidable  10 BAR  Negro/Blanco  para Hombre  con Correa de Cuero  EFR-526L-7AVUEF](https://www.amazon.es/dp/B00BFN2XB0/?tag=tolees-21) con un 45.78 % de descuento con precio de oferta de 69.95 EUR (original: 129.0 EUR) en el siguiente enlace!
 
-[![Casio EDIFICE Reloj en caja sólida de ac](https://m.media-amazon.com/images/I/51KvSVmlRgL._SL200_.jpg)](https://www.amazon.es/dp/B00BFN2XB0/?tag=tolees-21)
+[![Casio EDIFICE Reloj en caja sólida de ac](https://m.media-amazon.com/images/I/51KvSVmlRgL._SL400_.jpg)](https://www.amazon.es/dp/B00BFN2XB0/?tag=tolees-21)
 
 ℹ️:
 

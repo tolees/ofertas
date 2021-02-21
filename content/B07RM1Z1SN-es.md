@@ -2,7 +2,7 @@
 layout: post
 title: 'New Balance 997h  Zapatillas para Hombre al 30.57 % de descuento'
 date: 2020-08-26 05:34:20
-image: 'https://m.media-amazon.com/images/I/412s5GScpGL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/412s5GScpGL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '61.24'
 
 Está [New Balance 997h  Zapatillas para Hombre  Azul  Navy Hay   37 EU](https://www.amazon.es/dp/B07RM1Z1SN/?tag=tolees-21) con 30.57 de descuento por 62.49 EUR (original: 90.0 EUR) en el siguiente enlace!
 
-[![New Balance 997h  Zapatillas para Hombre](https://m.media-amazon.com/images/I/412s5GScpGL._SL200_.jpg)](https://www.amazon.es/dp/B07RM1Z1SN/?tag=tolees-21)
+[![New Balance 997h  Zapatillas para Hombre](https://m.media-amazon.com/images/I/412s5GScpGL._SL400_.jpg)](https://www.amazon.es/dp/B07RM1Z1SN/?tag=tolees-21)
 
 ℹ️:
 

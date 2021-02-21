@@ -2,7 +2,7 @@
 layout: post
 title: 'Teclado Wireless Turquesa al 50.02 % de descuento'
 date: 2020-10-03 09:01:52
-image: 'https://m.media-amazon.com/images/I/41-hBEaB4gL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41-hBEaB4gL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.49'
 
 Ahora mismo tienes [Teclado Wireless Turquesa](https://www.amazon.es/dp/B076CPV77C/?tag=tolees-21) a 11.49 EUR (original: 22.99 EUR) (50.02 %  de descuento) en el siguiente enlace!
 
-[![Teclado Wireless Turquesa](https://m.media-amazon.com/images/I/41-hBEaB4gL._SL200_.jpg)](https://www.amazon.es/dp/B076CPV77C/?tag=tolees-21)
+[![Teclado Wireless Turquesa](https://m.media-amazon.com/images/I/41-hBEaB4gL._SL400_.jpg)](https://www.amazon.es/dp/B076CPV77C/?tag=tolees-21)
 
 🔎:
 

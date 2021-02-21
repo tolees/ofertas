@@ -2,7 +2,7 @@
 layout: post
 title: 'New Balance 997H m  Zapatillas para Muje al 63.92 % de descuento'
 date: 2020-06-24 09:14:41
-image: 'https://m.media-amazon.com/images/I/41QpzqNftYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41QpzqNftYL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '36.08'
 
 Está [New Balance 997H m  Zapatillas para Mujer  Negro  Black/Yellow Hai   41.5 EU](https://www.amazon.es/dp/B07RYL4TW6/?tag=tolees-21) con 63.92 de descuento por 36.08 EUR (original: 100.0 EUR) en el siguiente enlace!
 
-[![New Balance 997H m  Zapatillas para Muje](https://m.media-amazon.com/images/I/41QpzqNftYL._SL200_.jpg)](https://www.amazon.es/dp/B07RYL4TW6/?tag=tolees-21)
+[![New Balance 997H m  Zapatillas para Muje](https://m.media-amazon.com/images/I/41QpzqNftYL._SL400_.jpg)](https://www.amazon.es/dp/B07RYL4TW6/?tag=tolees-21)
 
 ℹ️:
 

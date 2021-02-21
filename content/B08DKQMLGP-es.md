@@ -2,7 +2,7 @@
 layout: post
 title: 'HHUIWIND Funda Xiaomi Redmi 9 + Cristal  con un 65.50 % de descuento'
 date: 2020-08-15 11:33:22
-image: 'https://m.media-amazon.com/images/I/51kNyUF14UL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51kNyUF14UL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.9'
 
 En este momento está [HHUIWIND Funda Xiaomi Redmi 9 + Cristal Templado Protector  PU Cuero Flip Folio Carcasa Cover Xiaomi Redmi 9 Protectora Cierre Magnético para Xiaomi Redmi 9 Azul](https://www.amazon.es/dp/B08DKQMLGP/?tag=tolees-21) a 8.9 EUR (original: 25.8 EUR) (65.50 %  de descuento) en el siguiente enlace!
 
-[![HHUIWIND Funda Xiaomi Redmi 9 + Cristal ](https://m.media-amazon.com/images/I/51kNyUF14UL._SL200_.jpg)](https://www.amazon.es/dp/B08DKQMLGP/?tag=tolees-21)
+[![HHUIWIND Funda Xiaomi Redmi 9 + Cristal ](https://m.media-amazon.com/images/I/51kNyUF14UL._SL400_.jpg)](https://www.amazon.es/dp/B08DKQMLGP/?tag=tolees-21)
 
 🔎:
 

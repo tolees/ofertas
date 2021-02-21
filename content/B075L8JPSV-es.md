@@ -2,7 +2,7 @@
 layout: post
 title: 'Memoria USB 2.0 128 MB 10 Piezas Mini Pe con un 32.62 % de descuento'
 date: 2020-06-16 05:00:45
-image: 'https://m.media-amazon.com/images/I/51uKTobSusL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51uKTobSusL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.66'
 
 En este momento está [Memoria USB 2.0 128 MB 10 Piezas Mini Pendrives - Mini Pen Drive Almacenamiento de Datos Externo Unidad Flash USB - Pequeña Capacidad Práctico Metal Portátil USB 2.0 Flash Drive Rojo de Datarm](https://www.amazon.es/dp/B075L8JPSV/?tag=tolees-21) a 20.66 EUR (original: 30.66 EUR) (32.62 %  de descuento) en el siguiente enlace!
 
-[![Memoria USB 2.0 128 MB 10 Piezas Mini Pe](https://m.media-amazon.com/images/I/51uKTobSusL._SL200_.jpg)](https://www.amazon.es/dp/B075L8JPSV/?tag=tolees-21)
+[![Memoria USB 2.0 128 MB 10 Piezas Mini Pe](https://m.media-amazon.com/images/I/51uKTobSusL._SL400_.jpg)](https://www.amazon.es/dp/B075L8JPSV/?tag=tolees-21)
 
 🔎:
 

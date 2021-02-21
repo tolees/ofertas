@@ -2,7 +2,7 @@
 layout: post
 title: 'Charles Wilson Paquete 2 Camisetas Cuell al 66.78 % de descuento'
 date: 2020-07-31 20:40:39
-image: 'https://m.media-amazon.com/images/I/41tgF5Y+waL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41tgF5Y+waL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.95'
 
 Ahora mismo tienes [Charles Wilson Paquete 2 Camisetas Cuello Redondo de Rayas  Large  Blue & Brown ](https://www.amazon.es/dp/B07THKZJ7S/?tag=tolees-21) a 9.95 EUR (original: 29.95 EUR) (66.78 %  de descuento) en el siguiente enlace!
 
-[![Charles Wilson Paquete 2 Camisetas Cuell](https://m.media-amazon.com/images/I/41tgF5Y+waL._SL200_.jpg)](https://www.amazon.es/dp/B07THKZJ7S/?tag=tolees-21)
+[![Charles Wilson Paquete 2 Camisetas Cuell](https://m.media-amazon.com/images/I/41tgF5Y+waL._SL400_.jpg)](https://www.amazon.es/dp/B07THKZJ7S/?tag=tolees-21)
 
 🔎:
 

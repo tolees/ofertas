@@ -2,7 +2,7 @@
 layout: post
 title: 'Smoby Pelota 230 MM LOL 50079 con un 67.47 % de descuento'
 date: 2020-05-31 19:37:15
-image: 'https://m.media-amazon.com/images/I/618DdOnpMAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/618DdOnpMAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.25'
 
 En este momento está [Smoby Pelota 230 MM LOL 50079](https://www.amazon.es/dp/B07Q6PQ8MR/?tag=tolees-21) a 3.25 EUR (original: 9.99 EUR) (67.47 %  de descuento) en el siguiente enlace!
 
-[![Smoby Pelota 230 MM LOL 50079](https://m.media-amazon.com/images/I/618DdOnpMAL._SL200_.jpg)](https://www.amazon.es/dp/B07Q6PQ8MR/?tag=tolees-21)
+[![Smoby Pelota 230 MM LOL 50079](https://m.media-amazon.com/images/I/618DdOnpMAL._SL400_.jpg)](https://www.amazon.es/dp/B07Q6PQ8MR/?tag=tolees-21)
 
 🔎:
 

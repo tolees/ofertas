@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas bolsita  Azul al 50.14 % de descuento'
 date: 2020-07-23 11:12:49
-image: 'https://m.media-amazon.com/images/I/41e5j7QbBQL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41e5j7QbBQL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.75'
 
 Ahora mismo tienes [adidas bolsita  Azul](https://www.amazon.es/dp/B0844MR7HT/?tag=tolees-21) a 8.95 EUR (original: 17.95 EUR) (50.14 %  de descuento) en el siguiente enlace!
 
-[![adidas bolsita  Azul](https://m.media-amazon.com/images/I/41e5j7QbBQL._SL200_.jpg)](https://www.amazon.es/dp/B0844MR7HT/?tag=tolees-21)
+[![adidas bolsita  Azul](https://m.media-amazon.com/images/I/41e5j7QbBQL._SL400_.jpg)](https://www.amazon.es/dp/B0844MR7HT/?tag=tolees-21)
 
 🔎:
 

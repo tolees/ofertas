@@ -2,7 +2,7 @@
 layout: post
 title: 'Kipling Distance S Equipaje de Mano  52  al 54.15 % de descuento'
 date: 2020-07-30 08:01:15
-image: 'https://m.media-amazon.com/images/I/31P7hOqWDRL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31P7hOqWDRL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '55.565000000000005'
 
 Ahora mismo tienes [Kipling Distance S Equipaje de Mano  52 cm  30 Liters  Negro  Lively Black ](https://www.amazon.es/dp/B07V3M7LQZ/?tag=tolees-21) a 68.31 EUR (original: 149.0 EUR) (54.15 %  de descuento) en el siguiente enlace!
 
-[![Kipling Distance S Equipaje de Mano  52 ](https://m.media-amazon.com/images/I/31P7hOqWDRL._SL200_.jpg)](https://www.amazon.es/dp/B07V3M7LQZ/?tag=tolees-21)
+[![Kipling Distance S Equipaje de Mano  52 ](https://m.media-amazon.com/images/I/31P7hOqWDRL._SL400_.jpg)](https://www.amazon.es/dp/B07V3M7LQZ/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Panasonic RP-HTX80BE-C Auriculares Bluet al 40.04 % de rebaja'
 date: 2020-04-19 13:32:22
-image: 'https://m.media-amazon.com/images/I/31vfs1dcWxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31vfs1dcWxL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '51.205'
 
 Tienes [Panasonic RP-HTX80BE-C Auriculares Bluetooth Diadema  24h de Reproducción  Micrófono y Manos Libres  Hi-Fi Sonido  Cascos Inalámbricos  Carga Rápida  Cascos Diadema Premium Móviles  TV  PC   Ocre](https://www.amazon.es/dp/B0784WYQHK/?tag=tolees-21) con precio final de  59.95 EUR (original: 99.99 EUR) (40.04 %  de rebaja) aqui!
 
-[![Panasonic RP-HTX80BE-C Auriculares Bluet](https://m.media-amazon.com/images/I/31vfs1dcWxL._SL200_.jpg)](https://www.amazon.es/dp/B0784WYQHK/?tag=tolees-21)
+[![Panasonic RP-HTX80BE-C Auriculares Bluet](https://m.media-amazon.com/images/I/31vfs1dcWxL._SL400_.jpg)](https://www.amazon.es/dp/B0784WYQHK/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'FITTOO Mallas Pantalones Deportivos Legg al 43.37 % de rebaja'
 date: 2020-04-20 11:02:10
-image: 'https://m.media-amazon.com/images/I/310dKXBs7ZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/310dKXBs7ZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.99'
 
 Tienes [FITTOO Mallas Pantalones Deportivos Leggings Mujer Yoga de Alta Cintura Elásticos y Transpirables para Yoga Running Fitness con Gran Elásticos Morado M](https://www.amazon.es/dp/B081R54FMV/?tag=tolees-21) con precio final de  16.99 EUR (original: 30.0 EUR) (43.37 %  de rebaja) aqui!
 
-[![FITTOO Mallas Pantalones Deportivos Legg](https://m.media-amazon.com/images/I/310dKXBs7ZL._SL200_.jpg)](https://www.amazon.es/dp/B081R54FMV/?tag=tolees-21)
+[![FITTOO Mallas Pantalones Deportivos Legg](https://m.media-amazon.com/images/I/310dKXBs7ZL._SL400_.jpg)](https://www.amazon.es/dp/B081R54FMV/?tag=tolees-21)
 
 🔎:
 

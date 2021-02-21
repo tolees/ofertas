@@ -2,7 +2,7 @@
 layout: post
 title: 'Vans Ward  Zapatillas para Mujer  Rosa   al 45.71 % de descuento'
 date: 2020-02-16 19:17:32
-image: 'https://m.media-amazon.com/images/I/41Dcu7XhVrL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Dcu7XhVrL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '38.0'
 
 Ahora mismo tienes [Vans Ward  Zapatillas para Mujer  Rosa  Canvas/Sepia Rose Oln   40.5 EU](https://www.amazon.es/dp/B07BN587RS/?tag=tolees-21) a 38.0 EUR (original: 70.0 EUR) (45.71 %  de descuento) en el siguiente enlace!
 
-[![Vans Ward  Zapatillas para Mujer  Rosa  ](https://m.media-amazon.com/images/I/41Dcu7XhVrL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07BN587RS/?tag=tolees-21)
+[![Vans Ward  Zapatillas para Mujer  Rosa  ](https://m.media-amazon.com/images/I/41Dcu7XhVrL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07BN587RS/?tag=tolees-21)
 
 🔎:
 

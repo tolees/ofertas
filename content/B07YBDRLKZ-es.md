@@ -2,7 +2,7 @@
 layout: post
 title: 'Cartera Pepe Jeans Fair Vertical con Cie al 28.33 % de descuento'
 date: 2020-06-20 17:37:50
-image: 'https://m.media-amazon.com/images/I/31gOJ42UZmL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31gOJ42UZmL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '27.95'
 
 Ahora mismo tienes [Cartera Pepe Jeans Fair Vertical con Cierre de Clic Negra](https://www.amazon.es/dp/B07YBDRLKZ/?tag=tolees-21) a 27.95 EUR (original: 39.0 EUR) (28.33 %  de descuento) en el siguiente enlace!
 
-[![Cartera Pepe Jeans Fair Vertical con Cie](https://m.media-amazon.com/images/I/31gOJ42UZmL._SL200_.jpg)](https://www.amazon.es/dp/B07YBDRLKZ/?tag=tolees-21)
+[![Cartera Pepe Jeans Fair Vertical con Cie](https://m.media-amazon.com/images/I/31gOJ42UZmL._SL400_.jpg)](https://www.amazon.es/dp/B07YBDRLKZ/?tag=tolees-21)
 
 🔎:
 

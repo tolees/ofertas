@@ -2,7 +2,7 @@
 layout: post
 title: 'XINFULUK Eco-Friendly Kids Baby Write Dr con un 40.00 % de descuento'
 date: 2020-08-31 12:01:12
-image: 'https://m.media-amazon.com/images/I/31lKzz08I3L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31lKzz08I3L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.62'
 
 En este momento está [XINFULUK Eco-Friendly Kids Baby Write Draw Paint Water Magic Doodle Mat Niños Jugar Mat con Magic Pen Painting Multi Color](https://www.amazon.es/dp/B08DL1CD53/?tag=tolees-21) a 1.62 EUR (original: 2.7 EUR) (40.00 %  de descuento) en el siguiente enlace!
 
-[![XINFULUK Eco-Friendly Kids Baby Write Dr](https://m.media-amazon.com/images/I/31lKzz08I3L._SL200_.jpg)](https://www.amazon.es/dp/B08DL1CD53/?tag=tolees-21)
+[![XINFULUK Eco-Friendly Kids Baby Write Dr](https://m.media-amazon.com/images/I/31lKzz08I3L._SL400_.jpg)](https://www.amazon.es/dp/B08DL1CD53/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Lacoste L1312 Polo  Azul  Marine   M  Ta al 49.55 % de descuento'
 date: 2020-02-29 11:05:17
-image: 'https://m.media-amazon.com/images/I/41VDRSQSkeL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41VDRSQSkeL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '49.95'
 
 Está [Lacoste L1312 Polo  Azul  Marine   M  Talla del fabricante: 4  para Hombre](https://www.amazon.es/dp/B00K1WCMJE/?tag=tolees-21) con 49.55 de descuento por 49.95 EUR (original: 99.0 EUR) en el siguiente enlace!
 
-[![Lacoste L1312 Polo  Azul  Marine   M  Ta](https://m.media-amazon.com/images/I/41VDRSQSkeL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B00K1WCMJE/?tag=tolees-21)
+[![Lacoste L1312 Polo  Azul  Marine   M  Ta](https://m.media-amazon.com/images/I/41VDRSQSkeL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B00K1WCMJE/?tag=tolees-21)
 
 ℹ️:
 

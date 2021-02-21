@@ -2,7 +2,7 @@
 layout: post
 title: 'Lacoste PJ2909 Polo  Negro  Noir   14 añ al 42.94 % de descuento'
 date: 2020-03-24 18:40:06
-image: 'https://m.media-amazon.com/images/I/41rkl+-58SL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41rkl+-58SL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '35.95'
 
 Está [Lacoste PJ2909 Polo  Negro  Noir   14 años para Niños](https://www.amazon.es/dp/B01NABHWZF/?tag=tolees-21) con 42.94 de descuento por 35.95 EUR (original: 63.0 EUR) en el siguiente enlace!
 
-[![Lacoste PJ2909 Polo  Negro  Noir   14 añ](https://m.media-amazon.com/images/I/41rkl+-58SL._SL200_.jpg)](https://www.amazon.es/dp/B01NABHWZF/?tag=tolees-21)
+[![Lacoste PJ2909 Polo  Negro  Noir   14 añ](https://m.media-amazon.com/images/I/41rkl+-58SL._SL400_.jpg)](https://www.amazon.es/dp/B01NABHWZF/?tag=tolees-21)
 
 ℹ️:
 

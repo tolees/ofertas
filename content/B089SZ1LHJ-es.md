@@ -2,7 +2,7 @@
 layout: post
 title: 'Melchioni - Mini Nevera de Bar silencios al 25.58 % de descuento'
 date: 2020-09-05 11:37:37
-image: 'https://m.media-amazon.com/images/I/31eybdXmXbL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31eybdXmXbL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '96.74'
 
 Está [Melchioni - Mini Nevera de Bar silencioso  50 L  Nevera pequeña  Nevera portátil de Dormitorio  Baretto Plus  minibar  Talla única Bianco](https://www.amazon.es/dp/B089SZ1LHJ/?tag=tolees-21) con 25.58 de descuento por 96.74 EUR (original: 129.99 EUR) en el siguiente enlace!
 
-[![Melchioni - Mini Nevera de Bar silencios](https://m.media-amazon.com/images/I/31eybdXmXbL._SL200_.jpg)](https://www.amazon.es/dp/B089SZ1LHJ/?tag=tolees-21)
+[![Melchioni - Mini Nevera de Bar silencios](https://m.media-amazon.com/images/I/31eybdXmXbL._SL400_.jpg)](https://www.amazon.es/dp/B089SZ1LHJ/?tag=tolees-21)
 
 ℹ️:
 

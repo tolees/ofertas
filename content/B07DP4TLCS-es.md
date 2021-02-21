@@ -2,7 +2,7 @@
 layout: post
 title: 'Neutrogena Hydro Boost Loción Corporal E al 36.02 % de rebaja'
 date: 2020-06-10 11:48:05
-image: 'https://m.media-amazon.com/images/I/31iRToytSrL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31iRToytSrL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.79'
 
 Tienes [Neutrogena Hydro Boost Loción Corporal En Gel - 750 ml.](https://www.amazon.es/dp/B07DP4TLCS/?tag=tolees-21) con precio final de  12.79 EUR (original: 19.99 EUR) (36.02 %  de rebaja) aqui!
 
-[![Neutrogena Hydro Boost Loción Corporal E](https://m.media-amazon.com/images/I/31iRToytSrL._SL200_.jpg)](https://www.amazon.es/dp/B07DP4TLCS/?tag=tolees-21)
+[![Neutrogena Hydro Boost Loción Corporal E](https://m.media-amazon.com/images/I/31iRToytSrL._SL400_.jpg)](https://www.amazon.es/dp/B07DP4TLCS/?tag=tolees-21)
 
 🔎:
 

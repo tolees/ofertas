@@ -2,7 +2,7 @@
 layout: post
 title: 'DIM Generous Sujetador  Negro  105B para con un 74.65 % de descuento'
 date: 2020-02-12 15:07:32
-image: 'https://m.media-amazon.com/images/I/41VS4brCRcL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41VS4brCRcL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.0'
 
 En este momento está [DIM Generous Sujetador  Negro  105B para Mujer](https://www.amazon.es/dp/B005XMW38C/?tag=tolees-21) a 9.0 EUR (original: 35.5 EUR) (74.65 %  de descuento) en el siguiente enlace!
 
-[![DIM Generous Sujetador  Negro  105B para](https://m.media-amazon.com/images/I/41VS4brCRcL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B005XMW38C/?tag=tolees-21)
+[![DIM Generous Sujetador  Negro  105B para](https://m.media-amazon.com/images/I/41VS4brCRcL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B005XMW38C/?tag=tolees-21)
 
 🔎:
 

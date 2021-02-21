@@ -2,7 +2,7 @@
 layout: post
 title: 'Intex 28602 - Depuradora cartucho tipo H al 44.45 % de descuento'
 date: 2020-08-04 14:00:53
-image: 'https://m.media-amazon.com/images/I/3110qxBwDeL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/3110qxBwDeL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '36.67333333333333'
 
 Está [Intex 28602 - Depuradora cartucho tipo H Krystal Clear 1.250 litros/hora](https://www.amazon.es/dp/B01MQEM6OU/?tag=tolees-21) con 44.45 de descuento por 21.08 EUR (original: 37.95 EUR) en el siguiente enlace!
 
-[![Intex 28602 - Depuradora cartucho tipo H](https://m.media-amazon.com/images/I/3110qxBwDeL._SL200_.jpg)](https://www.amazon.es/dp/B01MQEM6OU/?tag=tolees-21)
+[![Intex 28602 - Depuradora cartucho tipo H](https://m.media-amazon.com/images/I/3110qxBwDeL._SL400_.jpg)](https://www.amazon.es/dp/B01MQEM6OU/?tag=tolees-21)
 
 ℹ️:
 

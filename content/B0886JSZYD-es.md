@@ -2,7 +2,7 @@
 layout: post
 title: '10x Mascarilla KN***95 al 37.75 % de descuento'
 date: 2020-06-19 08:32:24
-image: 'https://m.media-amazon.com/images/I/51u4lmvImvL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51u4lmvImvL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.26'
 
 Está [10x Mascarilla KN***95](https://www.amazon.es/dp/B0886JSZYD/?tag=tolees-21) con 37.75 de descuento por 5.54 EUR (original: 8.9 EUR) en el siguiente enlace!
 
-[![10x Mascarilla KN***95](https://m.media-amazon.com/images/I/51u4lmvImvL._SL200_.jpg)](https://www.amazon.es/dp/B0886JSZYD/?tag=tolees-21)
+[![10x Mascarilla KN***95](https://m.media-amazon.com/images/I/51u4lmvImvL._SL400_.jpg)](https://www.amazon.es/dp/B0886JSZYD/?tag=tolees-21)
 
 ℹ️:
 

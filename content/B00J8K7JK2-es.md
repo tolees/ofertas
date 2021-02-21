@@ -2,7 +2,7 @@
 layout: post
 title: 'Bourjois Velvet Barra de Labios Líquida  al 78.19 % de descuento'
 date: 2020-07-16 22:39:07
-image: 'https://m.media-amazon.com/images/I/41ppjlhgF-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ppjlhgF-L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.1'
 
 Ahora mismo tienes [Bourjois Velvet Barra de Labios Líquida Tono 08 Grand Cru - 27 gr](https://www.amazon.es/dp/B00J8K7JK2/?tag=tolees-21) a 2.1 EUR (original: 9.63 EUR) (78.19 %  de descuento) en el siguiente enlace!
 
-[![Bourjois Velvet Barra de Labios Líquida ](https://m.media-amazon.com/images/I/41ppjlhgF-L._SL200_.jpg)](https://www.amazon.es/dp/B00J8K7JK2/?tag=tolees-21)
+[![Bourjois Velvet Barra de Labios Líquida ](https://m.media-amazon.com/images/I/41ppjlhgF-L._SL400_.jpg)](https://www.amazon.es/dp/B00J8K7JK2/?tag=tolees-21)
 
 🔎:
 

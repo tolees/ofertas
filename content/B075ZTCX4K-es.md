@@ -2,7 +2,7 @@
 layout: post
 title: 'Hugo BOSS Reloj Análogo clásico para Hom al 33.13 % de rebaja'
 date: 2020-08-19 12:18:06
-image: 'https://m.media-amazon.com/images/I/41p6HMyfSFL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41p6HMyfSFL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '191.89166666666665'
 
 Tienes [Hugo BOSS Reloj Análogo clásico para Hombre de Cuarzo con Correa en Tela 1513535](https://www.amazon.es/dp/B075ZTCX4K/?tag=tolees-21) con precio final de  199.95 EUR (original: 299.0 EUR) (33.13 %  de rebaja) aqui!
 
-[![Hugo BOSS Reloj Análogo clásico para Hom](https://m.media-amazon.com/images/I/41p6HMyfSFL._SL200_.jpg)](https://www.amazon.es/dp/B075ZTCX4K/?tag=tolees-21)
+[![Hugo BOSS Reloj Análogo clásico para Hom](https://m.media-amazon.com/images/I/41p6HMyfSFL._SL400_.jpg)](https://www.amazon.es/dp/B075ZTCX4K/?tag=tolees-21)
 
 🔎:
 

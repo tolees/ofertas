@@ -2,7 +2,7 @@
 layout: post
 title: 'New Balance 247v2  Zapatillas para Mujer al 62.11 % de descuento'
 date: 2020-01-03 07:06:35
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41r%2BGsLpxYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41r%2BGsLpxYL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '35.22'
 
 Ahora mismo tienes [New Balance 247v2  Zapatillas para Mujer  Verde  Faded Rosin/Marble Head EB   40.5 EU](https://www.amazon.es/dp/B07DFYMSNF/?tag=tolees-21) a 36 EUR (original: 95 EUR) (62.11 %  de descuento) en el siguiente enlace!
 
-[![New Balance 247v2  Zapatillas para Mujer](https://images-eu.ssl-images-amazon.com/images/I/41r%2BGsLpxYL._SL200_.jpg)](https://www.amazon.es/dp/B07DFYMSNF/?tag=tolees-21)
+[![New Balance 247v2  Zapatillas para Mujer](https://images-eu.ssl-images-amazon.com/images/I/41r%2BGsLpxYL._SL400_.jpg)](https://www.amazon.es/dp/B07DFYMSNF/?tag=tolees-21)
 
 🔎:
 

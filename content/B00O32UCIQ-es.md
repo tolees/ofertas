@@ -2,7 +2,7 @@
 layout: post
 title: 'Bourjois Velvet Barra de Labios Líquida  al 42.89 % de descuento'
 date: 2020-06-23 16:24:53
-image: 'https://m.media-amazon.com/images/I/41kPghP7M7L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41kPghP7M7L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.805'
 
 Ahora mismo tienes [Bourjois Velvet Barra de Labios Líquida Tono 09 Happy Nude Year - 23 gr](https://www.amazon.es/dp/B00O32UCIQ/?tag=tolees-21) a 5.5 EUR (original: 9.63 EUR) (42.89 %  de descuento) en el siguiente enlace!
 
-[![Bourjois Velvet Barra de Labios Líquida ](https://m.media-amazon.com/images/I/41kPghP7M7L._SL200_.jpg)](https://www.amazon.es/dp/B00O32UCIQ/?tag=tolees-21)
+[![Bourjois Velvet Barra de Labios Líquida ](https://m.media-amazon.com/images/I/41kPghP7M7L._SL400_.jpg)](https://www.amazon.es/dp/B00O32UCIQ/?tag=tolees-21)
 
 🔎:
 

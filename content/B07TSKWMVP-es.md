@@ -2,7 +2,7 @@
 layout: post
 title: 'Kipling Creativity S  Cartera para Mujer al 65.14 % de descuento'
 date: 2020-09-01 08:30:52
-image: 'https://m.media-amazon.com/images/I/41X8iAjTHJL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41X8iAjTHJL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.11'
 
 Ahora mismo tienes [Kipling Creativity S  Cartera para Mujer  Negro  Carbon Metallic   14.5x9.5x5 cm](https://www.amazon.es/dp/B07TSKWMVP/?tag=tolees-21) a 10.11 EUR (original: 29.0 EUR) (65.14 %  de descuento) en el siguiente enlace!
 
-[![Kipling Creativity S  Cartera para Mujer](https://m.media-amazon.com/images/I/41X8iAjTHJL._SL200_.jpg)](https://www.amazon.es/dp/B07TSKWMVP/?tag=tolees-21)
+[![Kipling Creativity S  Cartera para Mujer](https://m.media-amazon.com/images/I/41X8iAjTHJL._SL400_.jpg)](https://www.amazon.es/dp/B07TSKWMVP/?tag=tolees-21)
 
 🔎:
 

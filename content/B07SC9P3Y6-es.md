@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s Reddinger  Botas Slouch para Homb al 64.38 % de descuento'
 date: 2020-03-29 15:22:34
-image: 'https://m.media-amazon.com/images/I/41ocMSkLP+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ocMSkLP+L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '47.025000000000006'
 
 Está [Levi s Reddinger  Botas Slouch para Hombre  Negro  R Black 59   39 EU](https://www.amazon.es/dp/B07SC9P3Y6/?tag=tolees-21) con 64.38 de descuento por 46.31 EUR (original: 130.0 EUR) en el siguiente enlace!
 
-[![Levi s Reddinger  Botas Slouch para Homb](https://m.media-amazon.com/images/I/41ocMSkLP+L._SL200_.jpg)](https://www.amazon.es/dp/B07SC9P3Y6/?tag=tolees-21)
+[![Levi s Reddinger  Botas Slouch para Homb](https://m.media-amazon.com/images/I/41ocMSkLP+L._SL400_.jpg)](https://www.amazon.es/dp/B07SC9P3Y6/?tag=tolees-21)
 
 ℹ️:
 

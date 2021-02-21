@@ -2,7 +2,7 @@
 layout: post
 title: 'Mumusuki conservante Cobre Puro PU Er Ag al 36.31 % de rebaja'
 date: 2020-04-17 00:32:12
-image: 'https://m.media-amazon.com/images/I/31jlGdTtnXL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31jlGdTtnXL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.49'
 
 Tienes [Mumusuki conservante Cobre Puro PU Er Aguja de té PU Erh Puer Cuchillo de té Accesorios 1 unid](https://www.amazon.es/dp/B07Z5P9TYQ/?tag=tolees-21) con precio final de  6.49 EUR (original: 10.19 EUR) (36.31 %  de rebaja) aqui!
 
-[![Mumusuki conservante Cobre Puro PU Er Ag](https://m.media-amazon.com/images/I/31jlGdTtnXL._SL200_.jpg)](https://www.amazon.es/dp/B07Z5P9TYQ/?tag=tolees-21)
+[![Mumusuki conservante Cobre Puro PU Er Ag](https://m.media-amazon.com/images/I/31jlGdTtnXL._SL400_.jpg)](https://www.amazon.es/dp/B07Z5P9TYQ/?tag=tolees-21)
 
 🔎:
 

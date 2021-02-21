@@ -2,7 +2,7 @@
 layout: post
 title: 'Hagibis Soporte refrigerador enfriador d con un 25.02 % de descuento'
 date: 2020-07-22 07:31:40
-image: 'https://m.media-amazon.com/images/I/31s+ANzlPbL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31s+ANzlPbL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.99'
 
 En este momento está [Hagibis Soporte refrigerador enfriador de portátil ergonómico y cómodo. Base magnética y redonda para ordenador. Diseño elegante. Para portátiles y ordenadores calientes. Base enfriadora PC.  Plata ](https://www.amazon.es/dp/B088BBTLDQ/?tag=tolees-21) a 11.99 EUR (original: 15.99 EUR) (25.02 %  de descuento) en el siguiente enlace!
 
-[![Hagibis Soporte refrigerador enfriador d](https://m.media-amazon.com/images/I/31s+ANzlPbL._SL200_.jpg)](https://www.amazon.es/dp/B088BBTLDQ/?tag=tolees-21)
+[![Hagibis Soporte refrigerador enfriador d](https://m.media-amazon.com/images/I/31s+ANzlPbL._SL400_.jpg)](https://www.amazon.es/dp/B088BBTLDQ/?tag=tolees-21)
 
 🔎:
 

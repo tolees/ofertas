@@ -2,7 +2,7 @@
 layout: post
 title: 'SimpleLife Maleta Estuche para Equipaje  al 50.00 % de rebaja'
 date: 2020-05-11 18:45:25
-image: 'https://m.media-amazon.com/images/I/215V4uSUDsL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/215V4uSUDsL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.65'
 
 Tienes [SimpleLife Maleta Estuche para Equipaje Manija Correa de Repuesto Manija Repuesto Agarre de Transporte Piezas de Repuesto](https://www.amazon.es/dp/B07W4RCMXQ/?tag=tolees-21) con precio final de  4.65 EUR (original: 9.3 EUR) (50.00 %  de rebaja) aqui!
 
-[![SimpleLife Maleta Estuche para Equipaje ](https://m.media-amazon.com/images/I/215V4uSUDsL._SL200_.jpg)](https://www.amazon.es/dp/B07W4RCMXQ/?tag=tolees-21)
+[![SimpleLife Maleta Estuche para Equipaje ](https://m.media-amazon.com/images/I/215V4uSUDsL._SL400_.jpg)](https://www.amazon.es/dp/B07W4RCMXQ/?tag=tolees-21)
 
 🔎:
 

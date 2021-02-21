@@ -2,7 +2,7 @@
 layout: post
 title: 'Got2b - Espuma Twisted Rizos Perfectos - al 53.20 % de descuento'
 date: 2020-02-09 08:17:31
-image: 'https://m.media-amazon.com/images/I/31j335HeREL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31j335HeREL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.09'
 
 Está [Got2b - Espuma Twisted Rizos Perfectos - 3 unidades de 250ml - Schwarzkopf](https://www.amazon.es/dp/B01BYKU536/?tag=tolees-21) con 53.20 de descuento por 6.95 EUR (original: 14.85 EUR) en el siguiente enlace!
 
-[![Got2b - Espuma Twisted Rizos Perfectos -](https://m.media-amazon.com/images/I/31j335HeREL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01BYKU536/?tag=tolees-21)
+[![Got2b - Espuma Twisted Rizos Perfectos -](https://m.media-amazon.com/images/I/31j335HeREL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01BYKU536/?tag=tolees-21)
 
 ℹ️:
 

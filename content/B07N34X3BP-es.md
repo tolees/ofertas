@@ -2,7 +2,7 @@
 layout: post
 title: 'Emporio Armani Reloj Analógico para Homb con un 40.20 % de descuento'
 date: 2020-04-12 14:31:54
-image: 'https://m.media-amazon.com/images/I/41YAx9wujlL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41YAx9wujlL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '113.52666666666666'
 
 En este momento está [Emporio Armani Reloj Analógico para Hombre de Cuarzo con Correa en Silicona AR11218](https://www.amazon.es/dp/B07N34X3BP/?tag=tolees-21) a 119.0 EUR (original: 199.0 EUR) (40.20 %  de descuento) en el siguiente enlace!
 
-[![Emporio Armani Reloj Analógico para Homb](https://m.media-amazon.com/images/I/41YAx9wujlL._SL200_.jpg)](https://www.amazon.es/dp/B07N34X3BP/?tag=tolees-21)
+[![Emporio Armani Reloj Analógico para Homb](https://m.media-amazon.com/images/I/41YAx9wujlL._SL400_.jpg)](https://www.amazon.es/dp/B07N34X3BP/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Funda iphone 7 Plus/iphone 8 Plus Case u al 53.93 % de descuento'
 date: 2020-08-09 15:50:13
-image: 'https://m.media-amazon.com/images/I/51hfXkfAt8L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51hfXkfAt8L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.98'
 
 Ahora mismo tienes [Funda iphone 7 Plus/iphone 8 Plus Case ultrafino diseño de dibujos lindo TPU Parachoques Anti-Arañazos Anti-huella dactilar a prueba de choque case protectora  Cactus ](https://www.amazon.es/dp/B07HH7H2WG/?tag=tolees-21) a 5.98 EUR (original: 12.98 EUR) (53.93 %  de descuento) en el siguiente enlace!
 
-[![Funda iphone 7 Plus/iphone 8 Plus Case u](https://m.media-amazon.com/images/I/51hfXkfAt8L._SL200_.jpg)](https://www.amazon.es/dp/B07HH7H2WG/?tag=tolees-21)
+[![Funda iphone 7 Plus/iphone 8 Plus Case u](https://m.media-amazon.com/images/I/51hfXkfAt8L._SL400_.jpg)](https://www.amazon.es/dp/B07HH7H2WG/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Morbid: The Seven Acolytes - Signature E con un 42.63 % de descuento'
 date: 2020-09-26 06:50:39
-image: 'https://m.media-amazon.com/images/I/51hIGkBlmmL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51hIGkBlmmL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '34.99'
 
 En este momento está [Morbid: The Seven Acolytes - Signature Edition](https://www.amazon.es/dp/B08J8LZYNH/?tag=tolees-21) a 34.99 EUR (original: 60.99 EUR) (42.63 %  de descuento) en el siguiente enlace!
 
-[![Morbid: The Seven Acolytes - Signature E](https://m.media-amazon.com/images/I/51hIGkBlmmL._SL200_.jpg)](https://www.amazon.es/dp/B08J8LZYNH/?tag=tolees-21)
+[![Morbid: The Seven Acolytes - Signature E](https://m.media-amazon.com/images/I/51hIGkBlmmL._SL400_.jpg)](https://www.amazon.es/dp/B08J8LZYNH/?tag=tolees-21)
 
 🔎:
 

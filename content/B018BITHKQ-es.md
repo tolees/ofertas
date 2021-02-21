@@ -2,7 +2,7 @@
 layout: post
 title: 'COMPRESSPORT Ultraligh Visera  Unisex  N con un 58.36 % de descuento'
 date: 2020-03-13 09:32:44
-image: 'https://m.media-amazon.com/images/I/41Oz2ozIy+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Oz2ozIy+L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.323333333333332'
 
 En este momento está [COMPRESSPORT Ultraligh Visera  Unisex  Negro  S](https://www.amazon.es/dp/B018BITHKQ/?tag=tolees-21) a 9.99 EUR (original: 23.99 EUR) (58.36 %  de descuento) en el siguiente enlace!
 
-[![COMPRESSPORT Ultraligh Visera  Unisex  N](https://m.media-amazon.com/images/I/41Oz2ozIy+L._SL200_.jpg)](https://www.amazon.es/dp/B018BITHKQ/?tag=tolees-21)
+[![COMPRESSPORT Ultraligh Visera  Unisex  N](https://m.media-amazon.com/images/I/41Oz2ozIy+L._SL400_.jpg)](https://www.amazon.es/dp/B018BITHKQ/?tag=tolees-21)
 
 🔎:
 

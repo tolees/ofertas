@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger Sujetador Estilo Bralette con un 25.50 % de descuento'
 date: 2020-04-28 10:06:32
-image: 'https://m.media-amazon.com/images/I/41Zzg4wNOLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Zzg4wNOLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '27.49'
 
 En este momento está [Tommy Hilfiger Sujetador Estilo Bralette  Gris  Grey Heather 004   Small para Mujer](https://www.amazon.es/dp/B0788BQZGB/?tag=tolees-21) a 27.49 EUR (original: 36.9 EUR) (25.50 %  de descuento) en el siguiente enlace!
 
-[![Tommy Hilfiger Sujetador Estilo Bralette](https://m.media-amazon.com/images/I/41Zzg4wNOLL._SL200_.jpg)](https://www.amazon.es/dp/B0788BQZGB/?tag=tolees-21)
+[![Tommy Hilfiger Sujetador Estilo Bralette](https://m.media-amazon.com/images/I/41Zzg4wNOLL._SL400_.jpg)](https://www.amazon.es/dp/B0788BQZGB/?tag=tolees-21)
 
 🔎:
 

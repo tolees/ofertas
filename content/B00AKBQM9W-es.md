@@ -2,7 +2,7 @@
 layout: post
 title: 'NanoCable 10.15.0903 - Cable HDMI a Mini al 31.38 % de rebaja'
 date: 2020-02-14 19:07:52
-image: 'https://m.media-amazon.com/images/I/31N7ZNAdf0L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31N7ZNAdf0L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.79'
 
 Tienes [NanoCable 10.15.0903 - Cable HDMI a Mini HDMI alta velocidad V1.3B  A/M-C/M  macho-macho  negro  3mts](https://www.amazon.es/dp/B00AKBQM9W/?tag=tolees-21) con precio final de  4.79 EUR (original: 6.98 EUR) (31.38 %  de rebaja) aqui!
 
-[![NanoCable 10.15.0903 - Cable HDMI a Mini](https://m.media-amazon.com/images/I/31N7ZNAdf0L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B00AKBQM9W/?tag=tolees-21)
+[![NanoCable 10.15.0903 - Cable HDMI a Mini](https://m.media-amazon.com/images/I/31N7ZNAdf0L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B00AKBQM9W/?tag=tolees-21)
 
 🔎:
 

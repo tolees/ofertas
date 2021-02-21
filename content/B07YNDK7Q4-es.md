@@ -2,7 +2,7 @@
 layout: post
 title: 'Life Is Strange 2 al 65.47 % de rebaja'
 date: 2020-02-10 12:15:38
-image: 'https://m.media-amazon.com/images/I/41wbEDKBffL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41wbEDKBffL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '26.900000000000002'
 
 Tienes [Life Is Strange 2](https://www.amazon.es/dp/B07YNDK7Q4/?tag=tolees-21) con precio final de  13.81 EUR (original: 39.99 EUR) (65.47 %  de rebaja) aqui!
 
-[![Life Is Strange 2](https://m.media-amazon.com/images/I/41wbEDKBffL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07YNDK7Q4/?tag=tolees-21)
+[![Life Is Strange 2](https://m.media-amazon.com/images/I/41wbEDKBffL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07YNDK7Q4/?tag=tolees-21)
 
 🔎:
 

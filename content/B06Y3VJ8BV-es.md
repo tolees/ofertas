@@ -2,7 +2,7 @@
 layout: post
 title: 'RAVPower Cargador de Pared con 4 Puertos con un 40.03 % de descuento'
 date: 2020-08-21 18:23:57
-image: 'https://m.media-amazon.com/images/I/31-TlhLPIvL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31-TlhLPIvL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.418571428571429'
 
 En este momento está [RAVPower Cargador de Pared con 4 Puertos 40W  USB iSmart 2.0  Conector Retráctil  Entrada 100-240V  Salida DC 5V / 8A Máx. en Total y DC 5V / 2 4A máx. por Puerto  - Blanco](https://www.amazon.es/dp/B06Y3VJ8BV/?tag=tolees-21) a 8.99 EUR (original: 14.99 EUR) (40.03 %  de descuento) en el siguiente enlace!
 
-[![RAVPower Cargador de Pared con 4 Puertos](https://m.media-amazon.com/images/I/31-TlhLPIvL._SL200_.jpg)](https://www.amazon.es/dp/B06Y3VJ8BV/?tag=tolees-21)
+[![RAVPower Cargador de Pared con 4 Puertos](https://m.media-amazon.com/images/I/31-TlhLPIvL._SL400_.jpg)](https://www.amazon.es/dp/B06Y3VJ8BV/?tag=tolees-21)
 
 🔎:
 

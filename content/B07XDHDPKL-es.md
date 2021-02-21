@@ -2,7 +2,7 @@
 layout: post
 title: 'Greenworks Optimow 15 Robot cortacésped  al 63.19 % de descuento'
 date: 2020-06-07 23:34:51
-image: 'https://m.media-amazon.com/images/I/41jG7fUoqUL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41jG7fUoqUL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '515.0'
 
 Ahora mismo tienes [Greenworks Optimow 15 Robot cortacésped para 1.500m2](https://www.amazon.es/dp/B07XDHDPKL/?tag=tolees-21) a 515.0 EUR (original: 1399.0 EUR) (63.19 %  de descuento) en el siguiente enlace!
 
-[![Greenworks Optimow 15 Robot cortacésped ](https://m.media-amazon.com/images/I/41jG7fUoqUL._SL200_.jpg)](https://www.amazon.es/dp/B07XDHDPKL/?tag=tolees-21)
+[![Greenworks Optimow 15 Robot cortacésped ](https://m.media-amazon.com/images/I/41jG7fUoqUL._SL400_.jpg)](https://www.amazon.es/dp/B07XDHDPKL/?tag=tolees-21)
 
 🔎:
 

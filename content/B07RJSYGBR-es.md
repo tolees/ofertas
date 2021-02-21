@@ -2,7 +2,7 @@
 layout: post
 title: 'Salomon Tech Lite  Zapatillas de Senderi al 36.25 % de descuento'
 date: 2020-08-17 18:36:20
-image: 'https://m.media-amazon.com/images/I/41YqoISSucL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41YqoISSucL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '61.495000000000005'
 
 Ahora mismo tienes [Salomon Tech Lite  Zapatillas de Senderismo acuáticas para Hombre  Gris  Quiet Shade/Black/Alloy   42 EU](https://www.amazon.es/dp/B07RJSYGBR/?tag=tolees-21) a 50.99 EUR (original: 79.99 EUR) (36.25 %  de descuento) en el siguiente enlace!
 
-[![Salomon Tech Lite  Zapatillas de Senderi](https://m.media-amazon.com/images/I/41YqoISSucL._SL200_.jpg)](https://www.amazon.es/dp/B07RJSYGBR/?tag=tolees-21)
+[![Salomon Tech Lite  Zapatillas de Senderi](https://m.media-amazon.com/images/I/41YqoISSucL._SL400_.jpg)](https://www.amazon.es/dp/B07RJSYGBR/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'FISCHER 038002 - Brida BN 8 8x1168 natur al 78.44 % de rebaja'
 date: 2020-02-17 14:26:15
-image: 'https://m.media-amazon.com/images/I/11vvsjdWnhL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/11vvsjdWnhL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.95'
 
 Tienes [FISCHER 038002 - Brida BN 8 8x1168 natural  Envase de 100 ud. ](https://www.amazon.es/dp/B004MNBB9U/?tag=tolees-21) con precio final de  21.95 EUR (original: 101.8 EUR) (78.44 %  de rebaja) aqui!
 
-[![FISCHER 038002 - Brida BN 8 8x1168 natur](https://m.media-amazon.com/images/I/11vvsjdWnhL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B004MNBB9U/?tag=tolees-21)
+[![FISCHER 038002 - Brida BN 8 8x1168 natur](https://m.media-amazon.com/images/I/11vvsjdWnhL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B004MNBB9U/?tag=tolees-21)
 
 🔎:
 

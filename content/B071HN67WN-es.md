@@ -2,7 +2,7 @@
 layout: post
 title: 'Lacoste Pf7841 Polo  Negro  Noir   34  T al 42.67 % de descuento'
 date: 2020-03-07 09:56:31
-image: 'https://m.media-amazon.com/images/I/41V6M2aT9UL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41V6M2aT9UL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '57.33'
 
 Ahora mismo tienes [Lacoste Pf7841 Polo  Negro  Noir   34  Talla del Fabricante: 34  para Mujer](https://www.amazon.es/dp/B071HN67WN/?tag=tolees-21) a 57.33 EUR (original: 100.0 EUR) (42.67 %  de descuento) en el siguiente enlace!
 
-[![Lacoste Pf7841 Polo  Negro  Noir   34  T](https://m.media-amazon.com/images/I/41V6M2aT9UL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B071HN67WN/?tag=tolees-21)
+[![Lacoste Pf7841 Polo  Negro  Noir   34  T](https://m.media-amazon.com/images/I/41V6M2aT9UL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B071HN67WN/?tag=tolees-21)
 
 🔎:
 

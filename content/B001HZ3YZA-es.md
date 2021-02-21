@@ -2,7 +2,7 @@
 layout: post
 title: 'Grundig MA 5820 - Set de manicura y pedi con un 47.36 % de descuento'
 date: 2020-06-27 08:46:15
-image: 'https://m.media-amazon.com/images/I/21JqjMfCoHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21JqjMfCoHL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '28.19'
 
 En este momento está [Grundig MA 5820 - Set de manicura y pedicura  eléctrico ](https://www.amazon.es/dp/B001HZ3YZA/?tag=tolees-21) a 28.19 EUR (original: 53.55 EUR) (47.36 %  de descuento) en el siguiente enlace!
 
-[![Grundig MA 5820 - Set de manicura y pedi](https://m.media-amazon.com/images/I/21JqjMfCoHL._SL200_.jpg)](https://www.amazon.es/dp/B001HZ3YZA/?tag=tolees-21)
+[![Grundig MA 5820 - Set de manicura y pedi](https://m.media-amazon.com/images/I/21JqjMfCoHL._SL400_.jpg)](https://www.amazon.es/dp/B001HZ3YZA/?tag=tolees-21)
 
 🔎:
 

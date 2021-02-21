@@ -2,7 +2,7 @@
 layout: post
 title: 'Creative Live!CAM Chat HD - Webcam HD mi al 36.81 % de rebaja'
 date: 2020-03-01 17:08:21
-image: 'https://m.media-amazon.com/images/I/31mLSdQzOcL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31mLSdQzOcL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.7'
 
 Tienes [Creative Live!CAM Chat HD - Webcam HD micrófono Incorporado   Negro](https://www.amazon.es/dp/B0043VTBI4/?tag=tolees-21) con precio final de  18.95 EUR (original: 29.99 EUR) (36.81 %  de rebaja) aqui!
 
-[![Creative Live!CAM Chat HD - Webcam HD mi](https://m.media-amazon.com/images/I/31mLSdQzOcL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B0043VTBI4/?tag=tolees-21)
+[![Creative Live!CAM Chat HD - Webcam HD mi](https://m.media-amazon.com/images/I/31mLSdQzOcL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B0043VTBI4/?tag=tolees-21)
 
 🔎:
 

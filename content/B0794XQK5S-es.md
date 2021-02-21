@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 50.00 % en Echo Plus  2.ª generación  - Sonido de a'
 date: 2020-08-31 14:02:11
-image: 'https://m.media-amazon.com/images/I/51yQS0FmRfL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51yQS0FmRfL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '101.03690476190476'
 
 Tienes [Echo Plus  2.ª generación  - Sonido de alta calidad y controlador de Hogar digital integrado  tela de color antracita](https://www.amazon.es/dp/B0794XQK5S/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 74.99 EUR (original: 149.99 EUR) en el siguiente enlace!
 
-[![Echo Plus  2.ª generación  - Sonido de a](https://m.media-amazon.com/images/I/51yQS0FmRfL._SL200_.jpg)](https://www.amazon.es/dp/B0794XQK5S/?tag=tolees-21)
+[![Echo Plus  2.ª generación  - Sonido de a](https://m.media-amazon.com/images/I/51yQS0FmRfL._SL400_.jpg)](https://www.amazon.es/dp/B0794XQK5S/?tag=tolees-21)
 
 ℹ️:
 

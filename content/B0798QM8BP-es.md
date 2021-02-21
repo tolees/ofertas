@@ -2,7 +2,7 @@
 layout: post
 title: 'LG 27UK850-W - Monitor 4K UHD de 68 6 cm con un 52.26 % de descuento'
 date: 2020-01-15 08:07:14
-image: 'https://images-eu.ssl-images-amazon.com/images/I/419i8fJIvhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419i8fJIvhL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '420.735'
 
 En este momento está [LG 27UK850-W - Monitor 4K UHD de 68 6 cm  27"  con Panel IPS  3840 x 2160 píxeles  16:9  350 cd/m²  sRGB >99%  1000:1  5 ms  60 Hz  Color Negro y Blanco](https://www.amazon.es/dp/B0798QM8BP/?tag=tolees-21) a 285.94 EUR (original: 599 EUR) (52.26 %  de descuento) en el siguiente enlace!
 
-[![LG 27UK850-W - Monitor 4K UHD de 68 6 cm](https://images-eu.ssl-images-amazon.com/images/I/419i8fJIvhL._SL200_.jpg)](https://www.amazon.es/dp/B0798QM8BP/?tag=tolees-21)
+[![LG 27UK850-W - Monitor 4K UHD de 68 6 cm](https://images-eu.ssl-images-amazon.com/images/I/419i8fJIvhL._SL400_.jpg)](https://www.amazon.es/dp/B0798QM8BP/?tag=tolees-21)
 
 🔎:
 

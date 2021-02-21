@@ -2,7 +2,7 @@
 layout: post
 title: 'BLEND 20708180 Polo  Rojo  Mineral Red 7 con un 58.30 % de descuento'
 date: 2020-03-12 01:32:03
-image: 'https://m.media-amazon.com/images/I/41nrWThHBfL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41nrWThHBfL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.635'
 
 En este momento está [BLEND 20708180 Polo  Rojo  Mineral Red 73817   X-Large para Hombre](https://www.amazon.es/dp/B07FD95R8N/?tag=tolees-21) a 8.32 EUR (original: 19.95 EUR) (58.30 %  de descuento) en el siguiente enlace!
 
-[![BLEND 20708180 Polo  Rojo  Mineral Red 7](https://m.media-amazon.com/images/I/41nrWThHBfL._SL200_.jpg)](https://www.amazon.es/dp/B07FD95R8N/?tag=tolees-21)
+[![BLEND 20708180 Polo  Rojo  Mineral Red 7](https://m.media-amazon.com/images/I/41nrWThHBfL._SL400_.jpg)](https://www.amazon.es/dp/B07FD95R8N/?tag=tolees-21)
 
 🔎:
 

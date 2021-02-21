@@ -2,7 +2,7 @@
 layout: post
 title: 'San Ignacio PK1790 3 sartenes 20 24 28 c al 52.75 % de descuento'
 date: 2020-05-29 05:04:06
-image: 'https://m.media-amazon.com/images/I/513B5EHmJtL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/513B5EHmJtL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '45.80666666666667'
 
 Ahora mismo tienes [San Ignacio PK1790 3 sartenes 20 24 28 cms  alumino prensado  inducción  Cobre  con Set 4 Cuchillos de Cocina  Acero Inoxidable  Aluminio](https://www.amazon.es/dp/B083T42DFT/?tag=tolees-21) a 42.99 EUR (original: 90.99 EUR) (52.75 %  de descuento) en el siguiente enlace!
 
-[![San Ignacio PK1790 3 sartenes 20 24 28 c](https://m.media-amazon.com/images/I/513B5EHmJtL._SL200_.jpg)](https://www.amazon.es/dp/B083T42DFT/?tag=tolees-21)
+[![San Ignacio PK1790 3 sartenes 20 24 28 c](https://m.media-amazon.com/images/I/513B5EHmJtL._SL400_.jpg)](https://www.amazon.es/dp/B083T42DFT/?tag=tolees-21)
 
 🔎:
 

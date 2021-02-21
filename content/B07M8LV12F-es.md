@@ -2,7 +2,7 @@
 layout: post
 title: 'Wrangler Arizona Pantalones  BLU  Navy 1 al 29.99 % de descuento'
 date: 2020-01-13 11:25:45
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31oFJcJw17L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31oFJcJw17L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '55.97'
 
 Ahora mismo tienes [Wrangler Arizona Pantalones  BLU  Navy 11   40W / 30L para Hombre](https://www.amazon.es/dp/B07M8LV12F/?tag=tolees-21) a 55.97 EUR (original: 79.95 EUR) (29.99 %  de descuento) en el siguiente enlace!
 
-[![Wrangler Arizona Pantalones  BLU  Navy 1](https://images-eu.ssl-images-amazon.com/images/I/31oFJcJw17L._SL200_.jpg)](https://www.amazon.es/dp/B07M8LV12F/?tag=tolees-21)
+[![Wrangler Arizona Pantalones  BLU  Navy 1](https://images-eu.ssl-images-amazon.com/images/I/31oFJcJw17L._SL400_.jpg)](https://www.amazon.es/dp/B07M8LV12F/?tag=tolees-21)
 
 🔎:
 

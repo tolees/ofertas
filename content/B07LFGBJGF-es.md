@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s Modern Hm Hoodie Capucha  Marrón  al 36.67 % de descuento'
 date: 2020-01-12 03:19:44
-image: 'https://images-eu.ssl-images-amazon.com/images/I/4133csUS0LL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4133csUS0LL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '47.5'
 
 Ahora mismo tienes [Levi s Modern Hm Hoodie Capucha  Marrón  Warm Cabernet 0020   Large para Hombre](https://www.amazon.es/dp/B07LFGBJGF/?tag=tolees-21) a 47.5 EUR (original: 75 EUR) (36.67 %  de descuento) en el siguiente enlace!
 
-[![Levi s Modern Hm Hoodie Capucha  Marrón ](https://images-eu.ssl-images-amazon.com/images/I/4133csUS0LL._SL200_.jpg)](https://www.amazon.es/dp/B07LFGBJGF/?tag=tolees-21)
+[![Levi s Modern Hm Hoodie Capucha  Marrón ](https://images-eu.ssl-images-amazon.com/images/I/4133csUS0LL._SL400_.jpg)](https://www.amazon.es/dp/B07LFGBJGF/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'T-shirt Kappa Lucera con un 29.39 % de descuento'
 date: 2020-02-16 18:26:02
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41u8QypTU%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41u8QypTU%2BL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.39'
 
 En este momento está [T-shirt Kappa Lucera](https://www.amazon.es/dp/B0753DGSBK/?tag=tolees-21) a 11.29 EUR (original: 15.99 EUR) (29.39 %  de descuento) en el siguiente enlace!
 
-[![T-shirt Kappa Lucera](https://images-eu.ssl-images-amazon.com/images/I/41u8QypTU%2BL._SL200_.jpg)](https://www.amazon.es/dp/B0753DGSBK/?tag=tolees-21)
+[![T-shirt Kappa Lucera](https://images-eu.ssl-images-amazon.com/images/I/41u8QypTU%2BL._SL400_.jpg)](https://www.amazon.es/dp/B0753DGSBK/?tag=tolees-21)
 
 🔎:
 

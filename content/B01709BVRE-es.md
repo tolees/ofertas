@@ -2,7 +2,7 @@
 layout: post
 title: 'San Ignacio Masterpro Asador  36 x 24 cm al 31.37 % de rebaja'
 date: 2020-05-26 19:46:05
-image: 'https://m.media-amazon.com/images/I/41gQXQ1JbGL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41gQXQ1JbGL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.99'
 
 Tienes [San Ignacio Masterpro Asador  36 x 24 cm  Aluminio  Gris  Plancha 36](https://www.amazon.es/dp/B01709BVRE/?tag=tolees-21) con precio final de  24.99 EUR (original: 36.41 EUR) (31.37 %  de rebaja) aqui!
 
-[![San Ignacio Masterpro Asador  36 x 24 cm](https://m.media-amazon.com/images/I/41gQXQ1JbGL._SL200_.jpg)](https://www.amazon.es/dp/B01709BVRE/?tag=tolees-21)
+[![San Ignacio Masterpro Asador  36 x 24 cm](https://m.media-amazon.com/images/I/41gQXQ1JbGL._SL400_.jpg)](https://www.amazon.es/dp/B01709BVRE/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'New Balance WL574EB  Zapatillas Mujer  N al 40.06 % de rebaja'
 date: 2020-06-09 19:11:58
-image: 'https://m.media-amazon.com/images/I/41uy8MJJsLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41uy8MJJsLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '60.03333333333333'
 
 Tienes [New Balance WL574EB  Zapatillas Mujer  Negro  Black   36.5 EU](https://www.amazon.es/dp/B06XWTZP9R/?tag=tolees-21) con precio final de  53.95 EUR (original: 90.0 EUR) (40.06 %  de rebaja) aqui!
 
-[![New Balance WL574EB  Zapatillas Mujer  N](https://m.media-amazon.com/images/I/41uy8MJJsLL._SL200_.jpg)](https://www.amazon.es/dp/B06XWTZP9R/?tag=tolees-21)
+[![New Balance WL574EB  Zapatillas Mujer  N](https://m.media-amazon.com/images/I/41uy8MJJsLL._SL400_.jpg)](https://www.amazon.es/dp/B06XWTZP9R/?tag=tolees-21)
 
 🔎:
 

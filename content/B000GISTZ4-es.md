@@ -2,7 +2,7 @@
 layout: post
 title: 'Optimum Nutrition ON Gold Standard 100%  al 31.07 % de rebaja'
 date: 2020-05-11 15:30:34
-image: 'https://m.media-amazon.com/images/I/419WVyjvwZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/419WVyjvwZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.575999999999997'
 
 Tienes [Optimum Nutrition ON Gold Standard 100% Whey Proteína en Polvo Suplementos Deportivos con Glutamina y Aminoacidos Micronizados Incluyendo BCAA  Helado de Vainilla  30 Porciones  900 gr](https://www.amazon.es/dp/B000GISTZ4/?tag=tolees-21) con precio final de  24.12 EUR (original: 34.99 EUR) (31.07 %  de rebaja) aqui!
 
-[![Optimum Nutrition ON Gold Standard 100% ](https://m.media-amazon.com/images/I/419WVyjvwZL._SL200_.jpg)](https://www.amazon.es/dp/B000GISTZ4/?tag=tolees-21)
+[![Optimum Nutrition ON Gold Standard 100% ](https://m.media-amazon.com/images/I/419WVyjvwZL._SL400_.jpg)](https://www.amazon.es/dp/B000GISTZ4/?tag=tolees-21)
 
 🔎:
 

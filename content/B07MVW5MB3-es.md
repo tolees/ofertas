@@ -2,7 +2,7 @@
 layout: post
 title: 'HP Z3700 - Ratón inalámbrico 1200 DPI  c con un 36.81 % de descuento'
 date: 2020-10-07 02:00:58
-image: 'https://m.media-amazon.com/images/I/21mgdrLOe+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21mgdrLOe+L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.186136363636367'
 
 En este momento está [HP Z3700 - Ratón inalámbrico 1200 DPI  color mármol](https://www.amazon.es/dp/B07MVW5MB3/?tag=tolees-21) a 15.79 EUR (original: 24.99 EUR) (36.81 %  de descuento) en el siguiente enlace!
 
-[![HP Z3700 - Ratón inalámbrico 1200 DPI  c](https://m.media-amazon.com/images/I/21mgdrLOe+L._SL200_.jpg)](https://www.amazon.es/dp/B07MVW5MB3/?tag=tolees-21)
+[![HP Z3700 - Ratón inalámbrico 1200 DPI  c](https://m.media-amazon.com/images/I/21mgdrLOe+L._SL400_.jpg)](https://www.amazon.es/dp/B07MVW5MB3/?tag=tolees-21)
 
 🔎:
 

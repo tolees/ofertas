@@ -2,7 +2,7 @@
 layout: post
 title: 'STAR TREK Spock Captain Authentic Rank P con un 46.59 % de descuento'
 date: 2020-10-02 16:49:56
-image: 'https://m.media-amazon.com/images/I/41XavKp5vvL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41XavKp5vvL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.95'
 
 En este momento está [STAR TREK Spock Captain Authentic Rank Pin](https://www.amazon.es/dp/B01F8MGYWC/?tag=tolees-21) a 14.95 EUR (original: 27.99 EUR) (46.59 %  de descuento) en el siguiente enlace!
 
-[![STAR TREK Spock Captain Authentic Rank P](https://m.media-amazon.com/images/I/41XavKp5vvL._SL200_.jpg)](https://www.amazon.es/dp/B01F8MGYWC/?tag=tolees-21)
+[![STAR TREK Spock Captain Authentic Rank P](https://m.media-amazon.com/images/I/41XavKp5vvL._SL400_.jpg)](https://www.amazon.es/dp/B01F8MGYWC/?tag=tolees-21)
 
 🔎:
 

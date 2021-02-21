@@ -2,7 +2,7 @@
 layout: post
 title: 'LA Active Calcetines Antideslizantes - P con un 34.11 % de descuento'
 date: 2020-04-15 18:08:26
-image: 'https://m.media-amazon.com/images/I/41io8ic53JL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41io8ic53JL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.49'
 
 En este momento está [LA Active Calcetines Antideslizantes - Para Yoga Pilates Ballet Barre Mujer Hombre Hospital - Crew  Gris y Negro ](https://www.amazon.es/dp/B081XRYXT8/?tag=tolees-21) a 14.49 EUR (original: 21.99 EUR) (34.11 %  de descuento) en el siguiente enlace!
 
-[![LA Active Calcetines Antideslizantes - P](https://m.media-amazon.com/images/I/41io8ic53JL._SL200_.jpg)](https://www.amazon.es/dp/B081XRYXT8/?tag=tolees-21)
+[![LA Active Calcetines Antideslizantes - P](https://m.media-amazon.com/images/I/41io8ic53JL._SL400_.jpg)](https://www.amazon.es/dp/B081XRYXT8/?tag=tolees-21)
 
 🔎:
 

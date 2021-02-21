@@ -2,7 +2,7 @@
 layout: post
 title: 'Columbia Fire Venture L Mid II WP  Botas al 66.53 % de rebaja'
 date: 2020-04-19 03:29:40
-image: 'https://m.media-amazon.com/images/I/41xqIdlXPqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41xqIdlXPqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '31.696666666666665'
 
 Tienes [Columbia Fire Venture L Mid II WP  Botas de Senderismo para Mujer  Negro  Black  Daredevi 010   37 EU](https://www.amazon.es/dp/B07KK49LZF/?tag=tolees-21) con precio final de  40.16 EUR (original: 119.99 EUR) (66.53 %  de rebaja) aqui!
 
-[![Columbia Fire Venture L Mid II WP  Botas](https://m.media-amazon.com/images/I/41xqIdlXPqL._SL200_.jpg)](https://www.amazon.es/dp/B07KK49LZF/?tag=tolees-21)
+[![Columbia Fire Venture L Mid II WP  Botas](https://m.media-amazon.com/images/I/41xqIdlXPqL._SL400_.jpg)](https://www.amazon.es/dp/B07KK49LZF/?tag=tolees-21)
 
 🔎:
 

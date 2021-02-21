@@ -2,7 +2,7 @@
 layout: post
 title: 'Frozen Wind-Bolsa de Deporte al 59.88 % de descuento'
 date: 2020-01-14 14:35:08
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41dwlOaJOeL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41dwlOaJOeL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.95'
 
 Está [Frozen Wind-Bolsa de Deporte](https://www.amazon.es/dp/B07ZTNZ1RK/?tag=tolees-21) con 59.88 de descuento por 9.95 EUR (original: 24.8 EUR) en el siguiente enlace!
 
-[![Frozen Wind-Bolsa de Deporte](https://images-eu.ssl-images-amazon.com/images/I/41dwlOaJOeL._SL200_.jpg)](https://www.amazon.es/dp/B07ZTNZ1RK/?tag=tolees-21)
+[![Frozen Wind-Bolsa de Deporte](https://images-eu.ssl-images-amazon.com/images/I/41dwlOaJOeL._SL400_.jpg)](https://www.amazon.es/dp/B07ZTNZ1RK/?tag=tolees-21)
 
 ℹ️:
 

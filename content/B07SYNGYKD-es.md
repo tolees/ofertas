@@ -2,7 +2,7 @@
 layout: post
 title: 'COOLMAN Herradura Pulsera de Hombre con  al 65.23 % de descuento'
 date: 2020-06-16 13:40:45
-image: 'https://m.media-amazon.com/images/I/41p+EeQviZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41p+EeQviZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.32333333333333'
 
 Ahora mismo tienes [COOLMAN Herradura Pulsera de Hombre con Acero Inoxidable en Cierre Ajustable Negro Brazalete para Hombre 8 5-9"](https://www.amazon.es/dp/B07SYNGYKD/?tag=tolees-21) a 15.99 EUR (original: 45.99 EUR) (65.23 %  de descuento) en el siguiente enlace!
 
-[![COOLMAN Herradura Pulsera de Hombre con ](https://m.media-amazon.com/images/I/41p+EeQviZL._SL200_.jpg)](https://www.amazon.es/dp/B07SYNGYKD/?tag=tolees-21)
+[![COOLMAN Herradura Pulsera de Hombre con ](https://m.media-amazon.com/images/I/41p+EeQviZL._SL400_.jpg)](https://www.amazon.es/dp/B07SYNGYKD/?tag=tolees-21)
 
 🔎:
 

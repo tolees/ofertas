@@ -2,7 +2,7 @@
 layout: post
 title: 'Nike MD Runner 2  PSV   Zapatillas Unise al 50.11 % de descuento'
 date: 2020-08-07 09:38:10
-image: 'https://m.media-amazon.com/images/I/41cZL11zwgL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41cZL11zwgL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.977999999999998'
 
 Está [Nike MD Runner 2  PSV   Zapatillas Unisex Niños  Multicolor Negro 000  32 EU](https://www.amazon.es/dp/B016EPN1GE/?tag=tolees-21) con 50.11 de descuento por 19.95 EUR (original: 39.99 EUR) en el siguiente enlace!
 
-[![Nike MD Runner 2  PSV   Zapatillas Unise](https://m.media-amazon.com/images/I/41cZL11zwgL._SL200_.jpg)](https://www.amazon.es/dp/B016EPN1GE/?tag=tolees-21)
+[![Nike MD Runner 2  PSV   Zapatillas Unise](https://m.media-amazon.com/images/I/41cZL11zwgL._SL400_.jpg)](https://www.amazon.es/dp/B016EPN1GE/?tag=tolees-21)
 
 ℹ️:
 

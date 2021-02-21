@@ -2,7 +2,7 @@
 layout: post
 title: 'ZTE A610 Plus - Smartphone Libre de 5.5" al 28.11 % de rebaja'
 date: 2020-05-27 20:39:01
-image: 'https://m.media-amazon.com/images/I/31eJ78GC4JL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31eJ78GC4JL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '179.0'
 
 Tienes [ZTE A610 Plus - Smartphone Libre de 5.5"  Cámara Principal de 13 MP  Almacenamiento Interno de 32 GB  Color Gris](https://www.amazon.es/dp/B06ZXR4QWM/?tag=tolees-21) con precio final de  179.0 EUR (original: 249.0 EUR) (28.11 %  de rebaja) aqui!
 
-[![ZTE A610 Plus - Smartphone Libre de 5.5"](https://m.media-amazon.com/images/I/31eJ78GC4JL._SL200_.jpg)](https://www.amazon.es/dp/B06ZXR4QWM/?tag=tolees-21)
+[![ZTE A610 Plus - Smartphone Libre de 5.5"](https://m.media-amazon.com/images/I/31eJ78GC4JL._SL400_.jpg)](https://www.amazon.es/dp/B06ZXR4QWM/?tag=tolees-21)
 
 🔎:
 

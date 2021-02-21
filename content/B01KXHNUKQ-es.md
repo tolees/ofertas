@@ -2,7 +2,7 @@
 layout: post
 title: 'Superga 2750-efglu  Zapatillas de Gimnas al 26.67 % de descuento'
 date: 2020-09-30 10:05:12
-image: 'https://m.media-amazon.com/images/I/418RZlSh-JL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/418RZlSh-JL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.87'
 
 Está [Superga 2750-efglu  Zapatillas de Gimnasia Unisex Adulto  Negro  Black 999   44 EU](https://www.amazon.es/dp/B01KXHNUKQ/?tag=tolees-21) con 26.67 de descuento por 12.87 EUR (original: 17.55 EUR) en el siguiente enlace!
 
-[![Superga 2750-efglu  Zapatillas de Gimnas](https://m.media-amazon.com/images/I/418RZlSh-JL._SL200_.jpg)](https://www.amazon.es/dp/B01KXHNUKQ/?tag=tolees-21)
+[![Superga 2750-efglu  Zapatillas de Gimnas](https://m.media-amazon.com/images/I/418RZlSh-JL._SL400_.jpg)](https://www.amazon.es/dp/B01KXHNUKQ/?tag=tolees-21)
 
 ℹ️:
 

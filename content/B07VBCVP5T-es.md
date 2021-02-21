@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 60.19 % en Esprit 099ee2i023 suéter  Azul  Navy 400'
 date: 2020-04-06 15:53:30
-image: 'https://m.media-amazon.com/images/I/31uzg+n3t5L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31uzg+n3t5L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.92'
 
 Tienes [Esprit 099ee2i023 suéter  Azul  Navy 400   Large para Hombre](https://www.amazon.es/dp/B07VBCVP5T/?tag=tolees-21) con un 60.19 % de descuento con precio de oferta de 15.92 EUR (original: 39.99 EUR) en el siguiente enlace!
 
-[![Esprit 099ee2i023 suéter  Azul  Navy 400](https://m.media-amazon.com/images/I/31uzg+n3t5L._SL200_.jpg)](https://www.amazon.es/dp/B07VBCVP5T/?tag=tolees-21)
+[![Esprit 099ee2i023 suéter  Azul  Navy 400](https://m.media-amazon.com/images/I/31uzg+n3t5L._SL400_.jpg)](https://www.amazon.es/dp/B07VBCVP5T/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'GSOTTA Calcetines deportivos 6 paquetes  al 50.08 % de rebaja'
 date: 2020-03-07 08:50:53
-image: 'https://m.media-amazon.com/images/I/513gK8TuDLL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/513gK8TuDLL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.95'
 
 Tienes [GSOTTA Calcetines deportivos 6 paquetes  calcetines para mujeres y hombres  calcetines de algodón transpirables  unisex  medias impermeables con una pretina suave  negro](https://www.amazon.es/dp/B07X4X3C4H/?tag=tolees-21) con precio final de  14.95 EUR (original: 29.95 EUR) (50.08 %  de rebaja) aqui!
 
-[![GSOTTA Calcetines deportivos 6 paquetes ](https://m.media-amazon.com/images/I/513gK8TuDLL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07X4X3C4H/?tag=tolees-21)
+[![GSOTTA Calcetines deportivos 6 paquetes ](https://m.media-amazon.com/images/I/513gK8TuDLL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07X4X3C4H/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 33.61 % en Instant 2610731 - Paquete de 12 temperas'
 date: 2020-06-03 17:08:41
-image: 'https://m.media-amazon.com/images/I/51SSktHdx+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51SSktHdx+L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.285'
 
 Tienes [Instant 2610731 - Paquete de 12 temperas sólidas de colores con trazo grueso](https://www.amazon.es/dp/B005XM2B5C/?tag=tolees-21) con un 33.61 % de descuento con precio de oferta de 3.95 EUR (original: 5.95 EUR) en el siguiente enlace!
 
-[![Instant 2610731 - Paquete de 12 temperas](https://m.media-amazon.com/images/I/51SSktHdx+L._SL200_.jpg)](https://www.amazon.es/dp/B005XM2B5C/?tag=tolees-21)
+[![Instant 2610731 - Paquete de 12 temperas](https://m.media-amazon.com/images/I/51SSktHdx+L._SL400_.jpg)](https://www.amazon.es/dp/B005XM2B5C/?tag=tolees-21)
 
 ℹ️:
 

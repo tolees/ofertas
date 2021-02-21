@@ -2,7 +2,7 @@
 layout: post
 title: 'MEDION X30 RGB - Ordenador de sobremesa  al 38.88 % de descuento'
 date: 2020-05-28 12:40:08
-image: 'https://m.media-amazon.com/images/I/41KzlXg7GIL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41KzlXg7GIL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '597.9585714285714'
 
 Ahora mismo tienes [MEDION X30 RGB - Ordenador de sobremesa gaming  Intel Core i5-9400  16GB RAM  1TB HDD + 256GB SSD  Nvidia GTX1050Ti-4GB  Windows 10  Negro](https://www.amazon.es/dp/B07NDPKHHV/?tag=tolees-21) a 579.99 EUR (original: 949.0 EUR) (38.88 %  de descuento) en el siguiente enlace!
 
-[![MEDION X30 RGB - Ordenador de sobremesa ](https://m.media-amazon.com/images/I/41KzlXg7GIL._SL200_.jpg)](https://www.amazon.es/dp/B07NDPKHHV/?tag=tolees-21)
+[![MEDION X30 RGB - Ordenador de sobremesa ](https://m.media-amazon.com/images/I/41KzlXg7GIL._SL400_.jpg)](https://www.amazon.es/dp/B07NDPKHHV/?tag=tolees-21)
 
 🔎:
 

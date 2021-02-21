@@ -2,7 +2,7 @@
 layout: post
 title: 'Bosch 2607019510 - Set de bolsillo con 1 al 40.47 % de rebaja'
 date: 2020-03-28 23:03:20
-image: 'https://m.media-amazon.com/images/I/41Vy31abNvL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Vy31abNvL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.84'
 
 Tienes [Bosch 2607019510 - Set de bolsillo con 10 unidades para atornillar](https://www.amazon.es/dp/B000P4IRNS/?tag=tolees-21) con precio final de  8.84 EUR (original: 14.85 EUR) (40.47 %  de rebaja) aqui!
 
-[![Bosch 2607019510 - Set de bolsillo con 1](https://m.media-amazon.com/images/I/41Vy31abNvL._SL200_.jpg)](https://www.amazon.es/dp/B000P4IRNS/?tag=tolees-21)
+[![Bosch 2607019510 - Set de bolsillo con 1](https://m.media-amazon.com/images/I/41Vy31abNvL._SL400_.jpg)](https://www.amazon.es/dp/B000P4IRNS/?tag=tolees-21)
 
 🔎:
 

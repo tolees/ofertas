@@ -2,7 +2,7 @@
 layout: post
 title: 'LEABAGS Fort Grant Estuche de auténtico  al 56.62 % de descuento'
 date: 2020-06-28 21:57:23
-image: 'https://m.media-amazon.com/images/I/41EBKC1PejL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41EBKC1PejL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.95'
 
 Ahora mismo tienes [LEABAGS Fort Grant Estuche de auténtico Cuero búfalo en el Estilo Vintage - Rouge](https://www.amazon.es/dp/B07DCSFY47/?tag=tolees-21) a 19.95 EUR (original: 45.99 EUR) (56.62 %  de descuento) en el siguiente enlace!
 
-[![LEABAGS Fort Grant Estuche de auténtico ](https://m.media-amazon.com/images/I/41EBKC1PejL._SL200_.jpg)](https://www.amazon.es/dp/B07DCSFY47/?tag=tolees-21)
+[![LEABAGS Fort Grant Estuche de auténtico ](https://m.media-amazon.com/images/I/41EBKC1PejL._SL400_.jpg)](https://www.amazon.es/dp/B07DCSFY47/?tag=tolees-21)
 
 🔎:
 

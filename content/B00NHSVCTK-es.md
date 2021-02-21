@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 67.03 % en La Martina Miguel Polo  Blanco  Optic Wh'
 date: 2020-01-23 00:28:00
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31%2B5YKF1thL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31%2B5YKF1thL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '32.64'
 
 Tienes [La Martina Miguel Polo  Blanco  Optic White 00001   Medium para Hombre](https://www.amazon.es/dp/B00NHSVCTK/?tag=tolees-21) con un 67.03 % de descuento con precio de oferta de 32.64 EUR (original: 99 EUR) en el siguiente enlace!
 
-[![La Martina Miguel Polo  Blanco  Optic Wh](https://images-eu.ssl-images-amazon.com/images/I/31%2B5YKF1thL._SL200_.jpg)](https://www.amazon.es/dp/B00NHSVCTK/?tag=tolees-21)
+[![La Martina Miguel Polo  Blanco  Optic Wh](https://images-eu.ssl-images-amazon.com/images/I/31%2B5YKF1thL._SL400_.jpg)](https://www.amazon.es/dp/B00NHSVCTK/?tag=tolees-21)
 
 ℹ️:
 

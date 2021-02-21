@@ -2,7 +2,7 @@
 layout: post
 title: 'ISDIN Lambdapil Cápsulas Anticaída del C al 26.79 % de descuento'
 date: 2020-01-26 20:32:41
-image: 'https://m.media-amazon.com/images/I/41EGWjUSGgL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41EGWjUSGgL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '38.8'
 
 Está [ISDIN Lambdapil Cápsulas Anticaída del Cabello  Fortalece el Cabello y Reduce la Caída del Mismo  180 Cápsulas](https://www.amazon.es/dp/B01BN1SAZG/?tag=tolees-21) con 26.79 de descuento por 38.8 EUR (original: 53.0 EUR) en el siguiente enlace!
 
-[![ISDIN Lambdapil Cápsulas Anticaída del C](https://m.media-amazon.com/images/I/41EGWjUSGgL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01BN1SAZG/?tag=tolees-21)
+[![ISDIN Lambdapil Cápsulas Anticaída del C](https://m.media-amazon.com/images/I/41EGWjUSGgL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01BN1SAZG/?tag=tolees-21)
 
 ℹ️:
 

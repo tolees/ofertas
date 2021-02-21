@@ -2,7 +2,7 @@
 layout: post
 title: 'Acrílico Cosmético Lentes De Contacto Lá al 47.88 % de descuento'
 date: 2020-07-09 23:13:02
-image: 'https://m.media-amazon.com/images/I/31Tnqx1L2kL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Tnqx1L2kL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.34'
 
 Está [Acrílico Cosmético Lentes De Contacto Lápiz Labial Mak Up Soporte De Exhibición Almacenamiento En Rack](https://www.amazon.es/dp/B012JI11YY/?tag=tolees-21) con 47.88 de descuento por 18.34 EUR (original: 35.19 EUR) en el siguiente enlace!
 
-[![Acrílico Cosmético Lentes De Contacto Lá](https://m.media-amazon.com/images/I/31Tnqx1L2kL._SL200_.jpg)](https://www.amazon.es/dp/B012JI11YY/?tag=tolees-21)
+[![Acrílico Cosmético Lentes De Contacto Lá](https://m.media-amazon.com/images/I/31Tnqx1L2kL._SL400_.jpg)](https://www.amazon.es/dp/B012JI11YY/?tag=tolees-21)
 
 ℹ️:
 

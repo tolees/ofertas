@@ -2,7 +2,7 @@
 layout: post
 title: 'CARPISA ® Carro pequeño rígido - Tea al 40.00 % de rebaja'
 date: 2020-03-05 23:28:27
-image: 'https://m.media-amazon.com/images/I/31+IsZ9md-L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31+IsZ9md-L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '35.4'
 
 Tienes [CARPISA ® Carro pequeño rígido - Tea](https://www.amazon.es/dp/B07V3T6F9Q/?tag=tolees-21) con precio final de  35.4 EUR (original: 59.0 EUR) (40.00 %  de rebaja) aqui!
 
-[![CARPISA ® Carro pequeño rígido - Tea](https://m.media-amazon.com/images/I/31+IsZ9md-L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07V3T6F9Q/?tag=tolees-21)
+[![CARPISA ® Carro pequeño rígido - Tea](https://m.media-amazon.com/images/I/31+IsZ9md-L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07V3T6F9Q/?tag=tolees-21)
 
 🔎:
 

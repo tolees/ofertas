@@ -2,7 +2,7 @@
 layout: post
 title: 'Lee Breese Pantalones para Mujer  Negro  al 79.77 % de descuento'
 date: 2020-02-26 15:20:32
-image: 'https://m.media-amazon.com/images/I/31NGjxGl8CL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31NGjxGl8CL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.2'
 
 Está [Lee Breese Pantalones para Mujer  Negro  Pitch Raw Hem Lw   27W / 33L](https://www.amazon.es/dp/B07JLR251R/?tag=tolees-21) con 79.77 de descuento por 18.2 EUR (original: 89.95 EUR) en el siguiente enlace!
 
-[![Lee Breese Pantalones para Mujer  Negro ](https://m.media-amazon.com/images/I/31NGjxGl8CL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07JLR251R/?tag=tolees-21)
+[![Lee Breese Pantalones para Mujer  Negro ](https://m.media-amazon.com/images/I/31NGjxGl8CL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07JLR251R/?tag=tolees-21)
 
 ℹ️:
 

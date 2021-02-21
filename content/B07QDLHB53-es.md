@@ -2,7 +2,7 @@
 layout: post
 title: 'Wet n Wild  Máscara - 30 gr. con un 41.35 % de descuento'
 date: 2020-08-15 10:08:59
-image: 'https://m.media-amazon.com/images/I/31r2pFvW0nL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31r2pFvW0nL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.34'
 
 En este momento está [Wet n Wild  Máscara - 30 gr.](https://www.amazon.es/dp/B07QDLHB53/?tag=tolees-21) a 2.34 EUR (original: 3.99 EUR) (41.35 %  de descuento) en el siguiente enlace!
 
-[![Wet n Wild  Máscara - 30 gr.](https://m.media-amazon.com/images/I/31r2pFvW0nL._SL200_.jpg)](https://www.amazon.es/dp/B07QDLHB53/?tag=tolees-21)
+[![Wet n Wild  Máscara - 30 gr.](https://m.media-amazon.com/images/I/31r2pFvW0nL._SL400_.jpg)](https://www.amazon.es/dp/B07QDLHB53/?tag=tolees-21)
 
 🔎:
 

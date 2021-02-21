@@ -2,7 +2,7 @@
 layout: post
 title: 'Pikolin Home - Almohada de fibra con tra al 30.21 % de descuento'
 date: 2020-09-24 08:07:07
-image: 'https://m.media-amazon.com/images/I/213dMi7KmqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/213dMi7KmqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.99'
 
 Está [Pikolin Home - Almohada de fibra con tratamiento aloe vera  firmeza baja  50x80cm  Todas las medidas ](https://www.amazon.es/dp/B01BGQXEJU/?tag=tolees-21) con 30.21 de descuento por 14.99 EUR (original: 21.48 EUR) en el siguiente enlace!
 
-[![Pikolin Home - Almohada de fibra con tra](https://m.media-amazon.com/images/I/213dMi7KmqL._SL200_.jpg)](https://www.amazon.es/dp/B01BGQXEJU/?tag=tolees-21)
+[![Pikolin Home - Almohada de fibra con tra](https://m.media-amazon.com/images/I/213dMi7KmqL._SL400_.jpg)](https://www.amazon.es/dp/B01BGQXEJU/?tag=tolees-21)
 
 ℹ️:
 

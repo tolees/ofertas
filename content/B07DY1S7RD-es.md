@@ -2,7 +2,7 @@
 layout: post
 title: 'Orient Reloj Analógico para Unisex Adult al 58.41 % de descuento'
 date: 2020-01-24 12:13:10
-image: 'https://m.media-amazon.com/images/I/51FVBPJDUnL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51FVBPJDUnL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '149.74'
 
 Ahora mismo tienes [Orient Reloj Analógico para Unisex Adultos de Automático con Correa en Cuero RA-AR0005Y10B](https://www.amazon.es/dp/B07DY1S7RD/?tag=tolees-21) a 149.74 EUR (original: 360.0 EUR) (58.41 %  de descuento) en el siguiente enlace!
 
-[![Orient Reloj Analógico para Unisex Adult](https://m.media-amazon.com/images/I/51FVBPJDUnL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07DY1S7RD/?tag=tolees-21)
+[![Orient Reloj Analógico para Unisex Adult](https://m.media-amazon.com/images/I/51FVBPJDUnL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07DY1S7RD/?tag=tolees-21)
 
 🔎:
 

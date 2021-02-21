@@ -2,7 +2,7 @@
 layout: post
 title: 'Apple iPhone XS Max  de 512GB  - Plata al 30.15 % de rebaja'
 date: 2020-03-03 02:52:22
-image: 'https://m.media-amazon.com/images/I/51lrkZsL3RL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51lrkZsL3RL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1187.878888888889'
 
 Tienes [Apple iPhone XS Max  de 512GB  - Plata](https://www.amazon.es/dp/B07HWMN9ZT/?tag=tolees-21) con precio final de  1089.0 EUR (original: 1559.0 EUR) (30.15 %  de rebaja) aqui!
 
-[![Apple iPhone XS Max  de 512GB  - Plata](https://m.media-amazon.com/images/I/51lrkZsL3RL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07HWMN9ZT/?tag=tolees-21)
+[![Apple iPhone XS Max  de 512GB  - Plata](https://m.media-amazon.com/images/I/51lrkZsL3RL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07HWMN9ZT/?tag=tolees-21)
 
 🔎:
 

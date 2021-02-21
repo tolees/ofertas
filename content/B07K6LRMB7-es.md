@@ -2,7 +2,7 @@
 layout: post
 title: 'Asics Gel-Nimbus 21  Zapatillas de Runni al 40.00 % de descuento'
 date: 2020-03-18 03:24:56
-image: 'https://m.media-amazon.com/images/I/51Mh3oYnx0L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Mh3oYnx0L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '89.245'
 
 Ahora mismo tienes [Asics Gel-Nimbus 21  Zapatillas de Running para Hombre  Azul  Illusion Blue/Black 400   42 EU](https://www.amazon.es/dp/B07K6LRMB7/?tag=tolees-21) a 108.0 EUR (original: 180.0 EUR) (40.00 %  de descuento) en el siguiente enlace!
 
-[![Asics Gel-Nimbus 21  Zapatillas de Runni](https://m.media-amazon.com/images/I/51Mh3oYnx0L._SL200_.jpg)](https://www.amazon.es/dp/B07K6LRMB7/?tag=tolees-21)
+[![Asics Gel-Nimbus 21  Zapatillas de Runni](https://m.media-amazon.com/images/I/51Mh3oYnx0L._SL400_.jpg)](https://www.amazon.es/dp/B07K6LRMB7/?tag=tolees-21)
 
 🔎:
 

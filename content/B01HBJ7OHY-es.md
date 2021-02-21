@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger 1791269 - Reloj análogico al 49.20 % de descuento'
 date: 2020-09-11 21:13:55
-image: 'https://m.media-amazon.com/images/I/51y8HtfmtQL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51y8HtfmtQL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '104.214'
 
 Ahora mismo tienes [Tommy Hilfiger 1791269 - Reloj análogico de cuarzo con correa de cuero para hombre  color marrón/negro](https://www.amazon.es/dp/B01HBJ7OHY/?tag=tolees-21) a 101.1 EUR (original: 199.0 EUR) (49.20 %  de descuento) en el siguiente enlace!
 
-[![Tommy Hilfiger 1791269 - Reloj análogico](https://m.media-amazon.com/images/I/51y8HtfmtQL._SL200_.jpg)](https://www.amazon.es/dp/B01HBJ7OHY/?tag=tolees-21)
+[![Tommy Hilfiger 1791269 - Reloj análogico](https://m.media-amazon.com/images/I/51y8HtfmtQL._SL400_.jpg)](https://www.amazon.es/dp/B01HBJ7OHY/?tag=tolees-21)
 
 🔎:
 

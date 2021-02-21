@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger Iconic Long Lace Sneaker  al 34.91 % de rebaja'
 date: 2020-06-29 10:12:15
-image: 'https://m.media-amazon.com/images/I/31zko06p5LL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31zko06p5LL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '38.99'
 
 Tienes [Tommy Hilfiger Iconic Long Lace Sneaker  Zapatillas para Hombre  Beige  Stone Aep   44 EU](https://www.amazon.es/dp/B07V6TKW4W/?tag=tolees-21) con precio final de  38.99 EUR (original: 59.9 EUR) (34.91 %  de rebaja) aqui!
 
-[![Tommy Hilfiger Iconic Long Lace Sneaker ](https://m.media-amazon.com/images/I/31zko06p5LL._SL200_.jpg)](https://www.amazon.es/dp/B07V6TKW4W/?tag=tolees-21)
+[![Tommy Hilfiger Iconic Long Lace Sneaker ](https://m.media-amazon.com/images/I/31zko06p5LL._SL400_.jpg)](https://www.amazon.es/dp/B07V6TKW4W/?tag=tolees-21)
 
 🔎:
 

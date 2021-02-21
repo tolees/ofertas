@@ -2,7 +2,7 @@
 layout: post
 title: 'AR-Gun Brazalete Deportivo Pack 2 uds va al 52.21 % de rebaja'
 date: 2020-07-23 16:26:04
-image: 'https://m.media-amazon.com/images/I/411XH+18UuL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/411XH+18UuL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.9'
 
 Tienes [AR-Gun Brazalete Deportivo Pack 2 uds valido para Smartphones de hasta 6.8" Compatible con iPhone 11 Pro MAX XS MAX 11 Samsung Galaxy S20 Plus S10 Plus S9 Plus S8 Plus  Negro ](https://www.amazon.es/dp/B084YRC9PL/?tag=tolees-21) con precio final de  11.9 EUR (original: 24.9 EUR) (52.21 %  de rebaja) aqui!
 
-[![AR-Gun Brazalete Deportivo Pack 2 uds va](https://m.media-amazon.com/images/I/411XH+18UuL._SL200_.jpg)](https://www.amazon.es/dp/B084YRC9PL/?tag=tolees-21)
+[![AR-Gun Brazalete Deportivo Pack 2 uds va](https://m.media-amazon.com/images/I/411XH+18UuL._SL400_.jpg)](https://www.amazon.es/dp/B084YRC9PL/?tag=tolees-21)
 
 🔎:
 

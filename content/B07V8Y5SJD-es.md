@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 37.13 % en Tommy Hilfiger - Business Leather Mini C'
 date: 2020-06-14 17:32:20
-image: 'https://m.media-amazon.com/images/I/619BfIH3yzL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/619BfIH3yzL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '31.37'
 
 Tienes [Tommy Hilfiger - Business Leather Mini Cc Wallet  Carteras Hombre  Negro  Black   1x1x1 cm  W x H L ](https://www.amazon.es/dp/B07V8Y5SJD/?tag=tolees-21) con un 37.13 % de descuento con precio de oferta de 31.37 EUR (original: 49.9 EUR) en el siguiente enlace!
 
-[![Tommy Hilfiger - Business Leather Mini C](https://m.media-amazon.com/images/I/619BfIH3yzL._SL200_.jpg)](https://www.amazon.es/dp/B07V8Y5SJD/?tag=tolees-21)
+[![Tommy Hilfiger - Business Leather Mini C](https://m.media-amazon.com/images/I/619BfIH3yzL._SL400_.jpg)](https://www.amazon.es/dp/B07V8Y5SJD/?tag=tolees-21)
 
 ℹ️:
 

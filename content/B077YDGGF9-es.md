@@ -2,7 +2,7 @@
 layout: post
 title: 'HIKARO Pantalones Jogger Hombre  Verde   al 49.98 % de rebaja'
 date: 2020-04-30 21:08:45
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41yKag0b51L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41yKag0b51L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.98'
 
 Tienes [HIKARO Pantalones Jogger Hombre  Verde  Khaki   50  Talla del fabricante: Small ](https://www.amazon.es/dp/B077YDGGF9/?tag=tolees-21) con precio final de  13.98 EUR (original: 27.95 EUR) (49.98 %  de rebaja) aqui!
 
-[![HIKARO Pantalones Jogger Hombre  Verde  ](https://images-eu.ssl-images-amazon.com/images/I/41yKag0b51L._SL200_.jpg)](https://www.amazon.es/dp/B077YDGGF9/?tag=tolees-21)
+[![HIKARO Pantalones Jogger Hombre  Verde  ](https://images-eu.ssl-images-amazon.com/images/I/41yKag0b51L._SL400_.jpg)](https://www.amazon.es/dp/B077YDGGF9/?tag=tolees-21)
 
 🔎:
 

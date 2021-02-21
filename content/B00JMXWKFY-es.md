@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 26.73 % en Brother LT320CL - Bandeja Adicional de 5'
 date: 2020-08-18 08:14:26
-image: 'https://m.media-amazon.com/images/I/41w11IFPnQL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41w11IFPnQL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '171.01'
 
 Tienes [Brother LT320CL - Bandeja Adicional de 500 Hojas](https://www.amazon.es/dp/B00JMXWKFY/?tag=tolees-21) con un 26.73 % de descuento con precio de oferta de 171.01 EUR (original: 233.41 EUR) en el siguiente enlace!
 
-[![Brother LT320CL - Bandeja Adicional de 5](https://m.media-amazon.com/images/I/41w11IFPnQL._SL200_.jpg)](https://www.amazon.es/dp/B00JMXWKFY/?tag=tolees-21)
+[![Brother LT320CL - Bandeja Adicional de 5](https://m.media-amazon.com/images/I/41w11IFPnQL._SL400_.jpg)](https://www.amazon.es/dp/B00JMXWKFY/?tag=tolees-21)
 
 ℹ️:
 

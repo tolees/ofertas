@@ -2,7 +2,7 @@
 layout: post
 title: 'Munich G 3 KID VCO INDOOR 72  Zapatillas al 40.04 % de descuento'
 date: 2020-08-08 10:34:10
-image: 'https://m.media-amazon.com/images/I/41QU9+xDH8L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41QU9+xDH8L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.95'
 
 Ahora mismo tienes [Munich G 3 KID VCO INDOOR 72  Zapatillas Niño  Multicolor  27 EU](https://www.amazon.es/dp/B07VKGKWKX/?tag=tolees-21) a 29.95 EUR (original: 49.95 EUR) (40.04 %  de descuento) en el siguiente enlace!
 
-[![Munich G 3 KID VCO INDOOR 72  Zapatillas](https://m.media-amazon.com/images/I/41QU9+xDH8L._SL200_.jpg)](https://www.amazon.es/dp/B07VKGKWKX/?tag=tolees-21)
+[![Munich G 3 KID VCO INDOOR 72  Zapatillas](https://m.media-amazon.com/images/I/41QU9+xDH8L._SL400_.jpg)](https://www.amazon.es/dp/B07VKGKWKX/?tag=tolees-21)
 
 🔎:
 

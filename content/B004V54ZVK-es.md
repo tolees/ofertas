@@ -2,7 +2,7 @@
 layout: post
 title: 'Absolut Vodka - 1 L al 25.54 % de rebaja'
 date: 2020-08-23 11:08:41
-image: 'https://m.media-amazon.com/images/I/412QgD8TrKL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/412QgD8TrKL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.65'
 
 Tienes [Absolut Vodka - 1 L](https://www.amazon.es/dp/B004V54ZVK/?tag=tolees-21) con precio final de  12.65 EUR (original: 16.99 EUR) (25.54 %  de rebaja) aqui!
 
-[![Absolut Vodka - 1 L](https://m.media-amazon.com/images/I/412QgD8TrKL._SL200_.jpg)](https://www.amazon.es/dp/B004V54ZVK/?tag=tolees-21)
+[![Absolut Vodka - 1 L](https://m.media-amazon.com/images/I/412QgD8TrKL._SL400_.jpg)](https://www.amazon.es/dp/B004V54ZVK/?tag=tolees-21)
 
 🔎:
 

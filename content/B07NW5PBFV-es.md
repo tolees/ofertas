@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 30.02 % en Skechers Women s SOLAR FUSE-BRISK ESCAPE'
 date: 2020-10-11 02:16:29
-image: 'https://m.media-amazon.com/images/I/413S7oG2oLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/413S7oG2oLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '48.95'
 
 Tienes [Skechers Women s SOLAR FUSE-BRISK ESCAPE Trainers  Black  Black Knit Mesh/White Trim BKW   6  39 EU ](https://www.amazon.es/dp/B07NW5PBFV/?tag=tolees-21) con un 30.02 % de descuento con precio de oferta de 48.95 EUR (original: 69.95 EUR) en el siguiente enlace!
 
-[![Skechers Women s SOLAR FUSE-BRISK ESCAPE](https://m.media-amazon.com/images/I/413S7oG2oLL._SL200_.jpg)](https://www.amazon.es/dp/B07NW5PBFV/?tag=tolees-21)
+[![Skechers Women s SOLAR FUSE-BRISK ESCAPE](https://m.media-amazon.com/images/I/413S7oG2oLL._SL400_.jpg)](https://www.amazon.es/dp/B07NW5PBFV/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Crucial CT102464BF186D Memoria RAM de 8  al 38.50 % de descuento'
 date: 2020-09-05 06:50:17
-image: 'https://m.media-amazon.com/images/I/51OtK0L0wLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51OtK0L0wLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '35.275000000000006'
 
 Ahora mismo tienes [Crucial CT102464BF186D Memoria RAM de 8 GB   DDR3  1866 MT/s  PC3-14900  SODIMM  204-Pin ](https://www.amazon.es/dp/B00LTV2BBK/?tag=tolees-21) a 31.99 EUR (original: 52.02 EUR) (38.50 %  de descuento) en el siguiente enlace!
 
-[![Crucial CT102464BF186D Memoria RAM de 8 ](https://m.media-amazon.com/images/I/51OtK0L0wLL._SL200_.jpg)](https://www.amazon.es/dp/B00LTV2BBK/?tag=tolees-21)
+[![Crucial CT102464BF186D Memoria RAM de 8 ](https://m.media-amazon.com/images/I/51OtK0L0wLL._SL400_.jpg)](https://www.amazon.es/dp/B00LTV2BBK/?tag=tolees-21)
 
 🔎:
 

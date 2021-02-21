@@ -2,7 +2,7 @@
 layout: post
 title: 'Darling In The Franxx Serie Completa 24  al 30.21 % de descuento'
 date: 2020-06-19 08:44:51
-image: 'https://m.media-amazon.com/images/I/51XVY13mpPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51XVY13mpPL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '57.656666666666666'
 
 Ahora mismo tienes [Darling In The Franxx Serie Completa 24 Episodios Bd Edición Coleccionistas [Blu-ray]](https://www.amazon.es/dp/B07QKVVKRK/?tag=tolees-21) a 51.99 EUR (original: 74.5 EUR) (30.21 %  de descuento) en el siguiente enlace!
 
-[![Darling In The Franxx Serie Completa 24 ](https://m.media-amazon.com/images/I/51XVY13mpPL._SL200_.jpg)](https://www.amazon.es/dp/B07QKVVKRK/?tag=tolees-21)
+[![Darling In The Franxx Serie Completa 24 ](https://m.media-amazon.com/images/I/51XVY13mpPL._SL400_.jpg)](https://www.amazon.es/dp/B07QKVVKRK/?tag=tolees-21)
 
 🔎:
 

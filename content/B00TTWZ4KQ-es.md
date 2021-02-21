@@ -2,7 +2,7 @@
 layout: post
 title: 'Piz Buin Allergy Protector Solar Facial  al 46.73 % de rebaja'
 date: 2020-09-18 21:30:34
-image: 'https://m.media-amazon.com/images/I/41B2eipMVRL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41B2eipMVRL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.927272727272726'
 
 Tienes [Piz Buin Allergy Protector Solar Facial  SPF 50+ Protección Muy Alta para Pieles Sensibles al Sol – 50 ml](https://www.amazon.es/dp/B00TTWZ4KQ/?tag=tolees-21) con precio final de  8.95 EUR (original: 16.8 EUR) (46.73 %  de rebaja) aqui!
 
-[![Piz Buin Allergy Protector Solar Facial ](https://m.media-amazon.com/images/I/41B2eipMVRL._SL200_.jpg)](https://www.amazon.es/dp/B00TTWZ4KQ/?tag=tolees-21)
+[![Piz Buin Allergy Protector Solar Facial ](https://m.media-amazon.com/images/I/41B2eipMVRL._SL400_.jpg)](https://www.amazon.es/dp/B00TTWZ4KQ/?tag=tolees-21)
 
 🔎:
 

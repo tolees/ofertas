@@ -2,7 +2,7 @@
 layout: post
 title: 'Calvin Klein Unlined Sujetador estilo br al 47.32 % de rebaja'
 date: 2020-06-23 06:11:52
-image: 'https://m.media-amazon.com/images/I/41NrufONuYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41NrufONuYL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.64'
 
 Tienes [Calvin Klein Unlined Sujetador estilo bralette  Azul  Blue Shadow 8Sb   95  Talla del fabricante: Small  para Mujer](https://www.amazon.es/dp/B07LBVKT4K/?tag=tolees-21) con precio final de  15.64 EUR (original: 29.69 EUR) (47.32 %  de rebaja) aqui!
 
-[![Calvin Klein Unlined Sujetador estilo br](https://m.media-amazon.com/images/I/41NrufONuYL._SL200_.jpg)](https://www.amazon.es/dp/B07LBVKT4K/?tag=tolees-21)
+[![Calvin Klein Unlined Sujetador estilo br](https://m.media-amazon.com/images/I/41NrufONuYL._SL400_.jpg)](https://www.amazon.es/dp/B07LBVKT4K/?tag=tolees-21)
 
 🔎:
 

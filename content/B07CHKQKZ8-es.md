@@ -2,7 +2,7 @@
 layout: post
 title: 'JACK & JONES Jfwstoke Nubuck  Botas Clas con un 44.93 % de descuento'
 date: 2020-02-11 10:48:06
-image: 'https://m.media-amazon.com/images/I/41kw1Ed8koL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41kw1Ed8koL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '44.05'
 
 En este momento está [JACK & JONES Jfwstoke Nubuck  Botas Clasicas para Hombre  Marrón  Java Java   40 EU](https://www.amazon.es/dp/B07CHKQKZ8/?tag=tolees-21) a 44.05 EUR (original: 79.99 EUR) (44.93 %  de descuento) en el siguiente enlace!
 
-[![JACK & JONES Jfwstoke Nubuck  Botas Clas](https://m.media-amazon.com/images/I/41kw1Ed8koL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07CHKQKZ8/?tag=tolees-21)
+[![JACK & JONES Jfwstoke Nubuck  Botas Clas](https://m.media-amazon.com/images/I/41kw1Ed8koL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07CHKQKZ8/?tag=tolees-21)
 
 🔎:
 

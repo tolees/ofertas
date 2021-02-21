@@ -2,7 +2,7 @@
 layout: post
 title: 'Henry London Reloj Analógico para Unisex al 56.27 % de descuento'
 date: 2020-04-24 08:27:25
-image: 'https://m.media-amazon.com/images/I/41lEt5-Lu8L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41lEt5-Lu8L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '118.14'
 
 Ahora mismo tienes [Henry London Reloj Analógico para Unisex de Cuarzo con Correa en Cuero 5018479078166](https://www.amazon.es/dp/B014JRT7YO/?tag=tolees-21) a 87.03 EUR (original: 199.0 EUR) (56.27 %  de descuento) en el siguiente enlace!
 
-[![Henry London Reloj Analógico para Unisex](https://m.media-amazon.com/images/I/41lEt5-Lu8L._SL200_.jpg)](https://www.amazon.es/dp/B014JRT7YO/?tag=tolees-21)
+[![Henry London Reloj Analógico para Unisex](https://m.media-amazon.com/images/I/41lEt5-Lu8L._SL400_.jpg)](https://www.amazon.es/dp/B014JRT7YO/?tag=tolees-21)
 
 🔎:
 

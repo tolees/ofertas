@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 33.47 % en Hurley M Phantom One&Only 18  Bañador  H'
 date: 2020-08-30 19:26:20
-image: 'https://m.media-amazon.com/images/I/41-Tcsoii5L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41-Tcsoii5L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.25'
 
 Tienes [Hurley M Phantom One&Only 18  Bañador  Hombre  Pacific Blue  30](https://www.amazon.es/dp/B08385LPNM/?tag=tolees-21) con un 33.47 % de descuento con precio de oferta de 17.25 EUR (original: 25.93 EUR) en el siguiente enlace!
 
-[![Hurley M Phantom One&Only 18  Bañador  H](https://m.media-amazon.com/images/I/41-Tcsoii5L._SL200_.jpg)](https://www.amazon.es/dp/B08385LPNM/?tag=tolees-21)
+[![Hurley M Phantom One&Only 18  Bañador  H](https://m.media-amazon.com/images/I/41-Tcsoii5L._SL400_.jpg)](https://www.amazon.es/dp/B08385LPNM/?tag=tolees-21)
 
 ℹ️:
 

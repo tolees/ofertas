@@ -2,7 +2,7 @@
 layout: post
 title: 'Dewalt Lijadora Rotorbital DWE6423-QS  2 al 28.99 % de descuento'
 date: 2020-05-30 14:10:24
-image: 'https://m.media-amazon.com/images/I/41WODMNBWjL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41WODMNBWjL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '101.32666666666667'
 
 Está [Dewalt Lijadora Rotorbital DWE6423-QS  280 W  230 V  Negro  Amarillo](https://www.amazon.es/dp/B01EYESJUA/?tag=tolees-21) con 28.99 de descuento por 104.99 EUR (original: 147.85 EUR) en el siguiente enlace!
 
-[![Dewalt Lijadora Rotorbital DWE6423-QS  2](https://m.media-amazon.com/images/I/41WODMNBWjL._SL200_.jpg)](https://www.amazon.es/dp/B01EYESJUA/?tag=tolees-21)
+[![Dewalt Lijadora Rotorbital DWE6423-QS  2](https://m.media-amazon.com/images/I/41WODMNBWjL._SL400_.jpg)](https://www.amazon.es/dp/B01EYESJUA/?tag=tolees-21)
 
 ℹ️:
 

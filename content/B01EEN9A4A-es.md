@@ -2,7 +2,7 @@
 layout: post
 title: 'Miniland Baby - Vigilabebé al 25.00 % de rebaja'
 date: 2020-04-24 18:41:08
-image: 'https://m.media-amazon.com/images/I/41l1VMMTQML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41l1VMMTQML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '155.1122222222222'
 
 Tienes [Miniland Baby - Vigilabebé](https://www.amazon.es/dp/B01EEN9A4A/?tag=tolees-21) con precio final de  168.75 EUR (original: 225.0 EUR) (25.00 %  de rebaja) aqui!
 
-[![Miniland Baby - Vigilabebé](https://m.media-amazon.com/images/I/41l1VMMTQML._SL200_.jpg)](https://www.amazon.es/dp/B01EEN9A4A/?tag=tolees-21)
+[![Miniland Baby - Vigilabebé](https://m.media-amazon.com/images/I/41l1VMMTQML._SL400_.jpg)](https://www.amazon.es/dp/B01EEN9A4A/?tag=tolees-21)
 
 🔎:
 

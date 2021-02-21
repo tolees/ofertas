@@ -2,7 +2,7 @@
 layout: post
 title: 'Percetey - Cinturón de natación para niñ al 44.60 % de descuento'
 date: 2020-06-24 01:21:18
-image: 'https://m.media-amazon.com/images/I/519hX1LRzNL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/519hX1LRzNL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.98'
 
 Está [Percetey - Cinturón de natación para niños y adultos  ajustable  cinturón de resistencia sin contracorriente  cinturón acolchado  para entrenamiento](https://www.amazon.es/dp/B07RFJDJ6V/?tag=tolees-21) con 44.60 de descuento por 6.98 EUR (original: 12.6 EUR) en el siguiente enlace!
 
-[![Percetey - Cinturón de natación para niñ](https://m.media-amazon.com/images/I/519hX1LRzNL._SL200_.jpg)](https://www.amazon.es/dp/B07RFJDJ6V/?tag=tolees-21)
+[![Percetey - Cinturón de natación para niñ](https://m.media-amazon.com/images/I/519hX1LRzNL._SL400_.jpg)](https://www.amazon.es/dp/B07RFJDJ6V/?tag=tolees-21)
 
 ℹ️:
 

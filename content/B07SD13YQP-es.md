@@ -2,7 +2,7 @@
 layout: post
 title: 'PUMA Carina L PS  Zapatillas para Niñas  con un 48.86 % de descuento'
 date: 2020-06-26 10:52:59
-image: 'https://m.media-amazon.com/images/I/31S-2aQUZbL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31S-2aQUZbL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.72'
 
 En este momento está [PUMA Carina L PS  Zapatillas para Niñas  Blanco White/Gulf Stream 06  29 EU](https://www.amazon.es/dp/B07SD13YQP/?tag=tolees-21) a 17.72 EUR (original: 34.65 EUR) (48.86 %  de descuento) en el siguiente enlace!
 
-[![PUMA Carina L PS  Zapatillas para Niñas ](https://m.media-amazon.com/images/I/31S-2aQUZbL._SL200_.jpg)](https://www.amazon.es/dp/B07SD13YQP/?tag=tolees-21)
+[![PUMA Carina L PS  Zapatillas para Niñas ](https://m.media-amazon.com/images/I/31S-2aQUZbL._SL400_.jpg)](https://www.amazon.es/dp/B07SD13YQP/?tag=tolees-21)
 
 🔎:
 

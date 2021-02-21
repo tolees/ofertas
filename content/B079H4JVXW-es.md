@@ -2,7 +2,7 @@
 layout: post
 title: 'PUMA Liga Sideline Polo  Hombre  Blanco  al 39.37 % de rebaja'
 date: 2020-04-26 15:33:14
-image: 'https://m.media-amazon.com/images/I/31tNelAMMZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31tNelAMMZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.16'
 
 Tienes [PUMA Liga Sideline Polo  Hombre  Blanco  White/Black   3XL](https://www.amazon.es/dp/B079H4JVXW/?tag=tolees-21) con precio final de  18.16 EUR (original: 29.95 EUR) (39.37 %  de rebaja) aqui!
 
-[![PUMA Liga Sideline Polo  Hombre  Blanco ](https://m.media-amazon.com/images/I/31tNelAMMZL._SL200_.jpg)](https://www.amazon.es/dp/B079H4JVXW/?tag=tolees-21)
+[![PUMA Liga Sideline Polo  Hombre  Blanco ](https://m.media-amazon.com/images/I/31tNelAMMZL._SL400_.jpg)](https://www.amazon.es/dp/B079H4JVXW/?tag=tolees-21)
 
 🔎:
 

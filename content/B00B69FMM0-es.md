@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 33.33 % en Result Esco Army - Gorra de invierno uni'
 date: 2020-09-07 22:50:24
-image: 'https://m.media-amazon.com/images/I/51JRmaAhrqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51JRmaAhrqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.2'
 
 Tienes [Result Esco Army - Gorra de invierno unisex Negro Talla única](https://www.amazon.es/dp/B00B69FMM0/?tag=tolees-21) con un 33.33 % de descuento con precio de oferta de 4.2 EUR (original: 6.3 EUR) en el siguiente enlace!
 
-[![Result Esco Army - Gorra de invierno uni](https://m.media-amazon.com/images/I/51JRmaAhrqL._SL200_.jpg)](https://www.amazon.es/dp/B00B69FMM0/?tag=tolees-21)
+[![Result Esco Army - Gorra de invierno uni](https://m.media-amazon.com/images/I/51JRmaAhrqL._SL400_.jpg)](https://www.amazon.es/dp/B00B69FMM0/?tag=tolees-21)
 
 ℹ️:
 

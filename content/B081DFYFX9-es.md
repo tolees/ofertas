@@ -2,7 +2,7 @@
 layout: post
 title: 'FNBK Funda para iPhone 7 Plus / 8 Plus C al 53.89 % de rebaja'
 date: 2020-05-28 12:40:46
-image: 'https://m.media-amazon.com/images/I/51ltSJgfDkL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51ltSJgfDkL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.99'
 
 Tienes [FNBK Funda para iPhone 7 Plus / 8 Plus Case  Funda Móvil PU en iPhone 7 Plus / 8 Plus  Magnético Carcasa con Soporte y Ranuras para Tarjetas Azul oscuro](https://www.amazon.es/dp/B081DFYFX9/?tag=tolees-21) con precio final de  5.99 EUR (original: 12.99 EUR) (53.89 %  de rebaja) aqui!
 
-[![FNBK Funda para iPhone 7 Plus / 8 Plus C](https://m.media-amazon.com/images/I/51ltSJgfDkL._SL200_.jpg)](https://www.amazon.es/dp/B081DFYFX9/?tag=tolees-21)
+[![FNBK Funda para iPhone 7 Plus / 8 Plus C](https://m.media-amazon.com/images/I/51ltSJgfDkL._SL400_.jpg)](https://www.amazon.es/dp/B081DFYFX9/?tag=tolees-21)
 
 🔎:
 

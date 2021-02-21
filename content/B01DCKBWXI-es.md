@@ -2,7 +2,7 @@
 layout: post
 title: 'VIASOLAR Panel Solar policristalino 50W  al 37.51 % de descuento'
 date: 2020-04-14 13:43:48
-image: 'https://m.media-amazon.com/images/I/41gXwOFbivL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41gXwOFbivL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '49.99'
 
 Está [VIASOLAR Panel Solar policristalino 50W 12V](https://www.amazon.es/dp/B01DCKBWXI/?tag=tolees-21) con 37.51 de descuento por 49.99 EUR (original: 80.0 EUR) en el siguiente enlace!
 
-[![VIASOLAR Panel Solar policristalino 50W ](https://m.media-amazon.com/images/I/41gXwOFbivL._SL200_.jpg)](https://www.amazon.es/dp/B01DCKBWXI/?tag=tolees-21)
+[![VIASOLAR Panel Solar policristalino 50W ](https://m.media-amazon.com/images/I/41gXwOFbivL._SL400_.jpg)](https://www.amazon.es/dp/B01DCKBWXI/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Belkin B2A075-C00 - Funda Estuche para C con un 40.01 % de descuento'
 date: 2020-09-22 21:30:38
-image: 'https://m.media-amazon.com/images/I/51J6H1N158L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51J6H1N158L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.99'
 
 En este momento está [Belkin B2A075-C00 - Funda Estuche para Chromebook de 11"  Color Negro](https://www.amazon.es/dp/B00VVZPO3G/?tag=tolees-21) a 17.99 EUR (original: 29.99 EUR) (40.01 %  de descuento) en el siguiente enlace!
 
-[![Belkin B2A075-C00 - Funda Estuche para C](https://m.media-amazon.com/images/I/51J6H1N158L._SL200_.jpg)](https://www.amazon.es/dp/B00VVZPO3G/?tag=tolees-21)
+[![Belkin B2A075-C00 - Funda Estuche para C](https://m.media-amazon.com/images/I/51J6H1N158L._SL400_.jpg)](https://www.amazon.es/dp/B00VVZPO3G/?tag=tolees-21)
 
 🔎:
 

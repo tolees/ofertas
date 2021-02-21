@@ -2,7 +2,7 @@
 layout: post
 title: '50 PCS 20 mm Abalorios de madera Natural al 38.04 % de rebaja'
 date: 2020-03-31 05:27:15
-image: 'https://m.media-amazon.com/images/I/41H3tI+swxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41H3tI+swxL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.19'
 
 Tienes [50 PCS 20 mm Abalorios de madera Natural redonda sin pintar para joyeía o manualidades](https://www.amazon.es/dp/B01M0Y4WF4/?tag=tolees-21) con precio final de  6.19 EUR (original: 9.99 EUR) (38.04 %  de rebaja) aqui!
 
-[![50 PCS 20 mm Abalorios de madera Natural](https://m.media-amazon.com/images/I/41H3tI+swxL._SL200_.jpg)](https://www.amazon.es/dp/B01M0Y4WF4/?tag=tolees-21)
+[![50 PCS 20 mm Abalorios de madera Natural](https://m.media-amazon.com/images/I/41H3tI+swxL._SL400_.jpg)](https://www.amazon.es/dp/B01M0Y4WF4/?tag=tolees-21)
 
 🔎:
 

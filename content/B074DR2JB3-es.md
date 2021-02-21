@@ -2,7 +2,7 @@
 layout: post
 title: 'AUKEY Regleta con 3 Enchufes con el Cabl con un 36.40 % de descuento'
 date: 2020-03-26 16:38:18
-image: 'https://m.media-amazon.com/images/I/41xGN8QFuVL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41xGN8QFuVL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.59'
 
 En este momento está [AUKEY Regleta con 3 Enchufes con el Cable Eléctrico de 1.5m para Macbook Pro  Smartphone  Lámpara  TV  Tableta  Aparatos Electrodomésticos etc.](https://www.amazon.es/dp/B074DR2JB3/?tag=tolees-21) a 6.99 EUR (original: 10.99 EUR) (36.40 %  de descuento) en el siguiente enlace!
 
-[![AUKEY Regleta con 3 Enchufes con el Cabl](https://m.media-amazon.com/images/I/41xGN8QFuVL._SL200_.jpg)](https://www.amazon.es/dp/B074DR2JB3/?tag=tolees-21)
+[![AUKEY Regleta con 3 Enchufes con el Cabl](https://m.media-amazon.com/images/I/41xGN8QFuVL._SL400_.jpg)](https://www.amazon.es/dp/B074DR2JB3/?tag=tolees-21)
 
 🔎:
 

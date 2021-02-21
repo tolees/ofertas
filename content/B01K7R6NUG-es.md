@@ -2,7 +2,7 @@
 layout: post
 title: 'Granini Zumo Naranja - 1 l al 40.12 % de descuento'
 date: 2020-06-04 20:58:54
-image: 'https://m.media-amazon.com/images/I/41h+F7crdiL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41h+F7crdiL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.0'
 
 Está [Granini Zumo Naranja - 1 l](https://www.amazon.es/dp/B01K7R6NUG/?tag=tolees-21) con 40.12 de descuento por 1.0 EUR (original: 1.67 EUR) en el siguiente enlace!
 
-[![Granini Zumo Naranja - 1 l](https://m.media-amazon.com/images/I/41h+F7crdiL._SL200_.jpg)](https://www.amazon.es/dp/B01K7R6NUG/?tag=tolees-21)
+[![Granini Zumo Naranja - 1 l](https://m.media-amazon.com/images/I/41h+F7crdiL._SL400_.jpg)](https://www.amazon.es/dp/B01K7R6NUG/?tag=tolees-21)
 
 ℹ️:
 

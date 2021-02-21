@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 43.60 % en Joma Cannes II Pantalon Largo Deportivo '
 date: 2020-05-19 20:51:10
-image: 'https://m.media-amazon.com/images/I/315Acguz8RL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/315Acguz8RL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.14'
 
 Tienes [Joma Cannes II Pantalon Largo Deportivo  Hombre  Marino  S](https://www.amazon.es/dp/B07FKN3RG5/?tag=tolees-21) con un 43.60 % de descuento con precio de oferta de 10.14 EUR (original: 17.98 EUR) en el siguiente enlace!
 
-[![Joma Cannes II Pantalon Largo Deportivo ](https://m.media-amazon.com/images/I/315Acguz8RL._SL200_.jpg)](https://www.amazon.es/dp/B07FKN3RG5/?tag=tolees-21)
+[![Joma Cannes II Pantalon Largo Deportivo ](https://m.media-amazon.com/images/I/315Acguz8RL._SL400_.jpg)](https://www.amazon.es/dp/B07FKN3RG5/?tag=tolees-21)
 
 ℹ️:
 

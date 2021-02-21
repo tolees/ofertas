@@ -2,7 +2,7 @@
 layout: post
 title: 'KiplingCity Pack SMujerMochilasVerde  Li al 44.49 % de rebaja'
 date: 2020-07-28 18:03:44
-image: 'https://m.media-amazon.com/images/I/41H6rH0eNhL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41H6rH0eNhL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '49.4'
 
 Tienes [KiplingCity Pack SMujerMochilasVerde  Light Aloe 27x33.5x19 Centimeters  B x H x T ](https://www.amazon.es/dp/B07TVPYMJ9/?tag=tolees-21) con precio final de  49.4 EUR (original: 89.0 EUR) (44.49 %  de rebaja) aqui!
 
-[![KiplingCity Pack SMujerMochilasVerde  Li](https://m.media-amazon.com/images/I/41H6rH0eNhL._SL200_.jpg)](https://www.amazon.es/dp/B07TVPYMJ9/?tag=tolees-21)
+[![KiplingCity Pack SMujerMochilasVerde  Li](https://m.media-amazon.com/images/I/41H6rH0eNhL._SL400_.jpg)](https://www.amazon.es/dp/B07TVPYMJ9/?tag=tolees-21)
 
 🔎:
 

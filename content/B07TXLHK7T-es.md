@@ -2,7 +2,7 @@
 layout: post
 title: 'Funko- Pop Animation: Speed Racer X Coll al 59.00 % de descuento'
 date: 2020-07-06 19:35:53
-image: 'https://m.media-amazon.com/images/I/31RbJG7yl5L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31RbJG7yl5L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.08'
 
 Ahora mismo tienes [Funko- Pop Animation: Speed Racer X Collectible Toy  Multicolor  45100 ](https://www.amazon.es/dp/B07TXLHK7T/?tag=tolees-21) a 6.54 EUR (original: 15.95 EUR) (59.00 %  de descuento) en el siguiente enlace!
 
-[![Funko- Pop Animation: Speed Racer X Coll](https://m.media-amazon.com/images/I/31RbJG7yl5L._SL200_.jpg)](https://www.amazon.es/dp/B07TXLHK7T/?tag=tolees-21)
+[![Funko- Pop Animation: Speed Racer X Coll](https://m.media-amazon.com/images/I/31RbJG7yl5L._SL400_.jpg)](https://www.amazon.es/dp/B07TXLHK7T/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 31.83 % en DECKEY Lámpara de Techo Luz Colgante Kit'
 date: 2020-02-28 19:15:45
-image: 'https://m.media-amazon.com/images/I/31ej0rPwCYL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31ej0rPwCYL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '34.97'
 
 Tienes [DECKEY Lámpara de Techo Luz Colgante Kit de 2 Unidades 1.2M Retro Metal Lámpara E27 para Dormitorio Restaurante Cafetería y Bar Decoración Industrial [Clase de Eficiencia Energética A+]](https://www.amazon.es/dp/B077G7C5BL/?tag=tolees-21) con un 31.83 % de descuento con precio de oferta de 29.99 EUR (original: 43.99 EUR) en el siguiente enlace!
 
-[![DECKEY Lámpara de Techo Luz Colgante Kit](https://m.media-amazon.com/images/I/31ej0rPwCYL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B077G7C5BL/?tag=tolees-21)
+[![DECKEY Lámpara de Techo Luz Colgante Kit](https://m.media-amazon.com/images/I/31ej0rPwCYL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B077G7C5BL/?tag=tolees-21)
 
 ℹ️:
 

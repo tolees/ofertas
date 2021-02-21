@@ -2,7 +2,7 @@
 layout: post
 title: 'Columbia Fast Trek II  forro polar con c con un 28.77 % de descuento'
 date: 2020-02-27 17:07:04
-image: 'https://images-eu.ssl-images-amazon.com/images/I/417FCMM1MdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417FCMM1MdL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '35.61'
 
 En este momento está [Columbia Fast Trek II  forro polar con cremallera completa para hombres](https://www.amazon.es/dp/B07RCNNT3Q/?tag=tolees-21) a 35.61 EUR (original: 49.99 EUR) (28.77 %  de descuento) en el siguiente enlace!
 
-[![Columbia Fast Trek II  forro polar con c](https://images-eu.ssl-images-amazon.com/images/I/417FCMM1MdL._SL200_.jpg)](https://www.amazon.es/dp/B07RCNNT3Q/?tag=tolees-21)
+[![Columbia Fast Trek II  forro polar con c](https://images-eu.ssl-images-amazon.com/images/I/417FCMM1MdL._SL400_.jpg)](https://www.amazon.es/dp/B07RCNNT3Q/?tag=tolees-21)
 
 🔎:
 

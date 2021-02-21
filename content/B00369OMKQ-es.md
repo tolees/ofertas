@@ -2,7 +2,7 @@
 layout: post
 title: 'Mannesmann M53255 - Juego de herramienta al 26.19 % de rebaja'
 date: 2020-04-17 00:33:44
-image: 'https://m.media-amazon.com/images/I/51BgXxIjHlL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51BgXxIjHlL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '122.55'
 
 Tienes [Mannesmann M53255 - Juego de herramientas para roscar de 110 piezas](https://www.amazon.es/dp/B00369OMKQ/?tag=tolees-21) con precio final de  122.16 EUR (original: 165.5 EUR) (26.19 %  de rebaja) aqui!
 
-[![Mannesmann M53255 - Juego de herramienta](https://m.media-amazon.com/images/I/51BgXxIjHlL._SL200_.jpg)](https://www.amazon.es/dp/B00369OMKQ/?tag=tolees-21)
+[![Mannesmann M53255 - Juego de herramienta](https://m.media-amazon.com/images/I/51BgXxIjHlL._SL400_.jpg)](https://www.amazon.es/dp/B00369OMKQ/?tag=tolees-21)
 
 🔎:
 

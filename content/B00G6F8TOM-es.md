@@ -2,7 +2,7 @@
 layout: post
 title: 'Gant Contrast Color Pique - Polo con man con un 43.39 % de descuento'
 date: 2020-03-11 22:37:58
-image: 'https://m.media-amazon.com/images/I/31dz+9iEGOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31dz+9iEGOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '45.57333333333333'
 
 En este momento está [Gant Contrast Color Pique - Polo con manga corta para hombre  Blanco  White   Small](https://www.amazon.es/dp/B00G6F8TOM/?tag=tolees-21) a 45.28 EUR (original: 79.99 EUR) (43.39 %  de descuento) en el siguiente enlace!
 
-[![Gant Contrast Color Pique - Polo con man](https://m.media-amazon.com/images/I/31dz+9iEGOL._SL200_.jpg)](https://www.amazon.es/dp/B00G6F8TOM/?tag=tolees-21)
+[![Gant Contrast Color Pique - Polo con man](https://m.media-amazon.com/images/I/31dz+9iEGOL._SL400_.jpg)](https://www.amazon.es/dp/B00G6F8TOM/?tag=tolees-21)
 
 🔎:
 

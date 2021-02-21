@@ -2,7 +2,7 @@
 layout: post
 title: 'Razer Goliathus Speed Cosmic Extended -  al 37.51 % de descuento'
 date: 2020-02-15 03:20:07
-image: 'https://m.media-amazon.com/images/I/41pyYhNoKFL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41pyYhNoKFL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.99'
 
 Ahora mismo tienes [Razer Goliathus Speed Cosmic Extended - Suave alfombrilla de ratón para juegos](https://www.amazon.es/dp/B01LQ4BM7S/?tag=tolees-21) a 24.99 EUR (original: 39.99 EUR) (37.51 %  de descuento) en el siguiente enlace!
 
-[![Razer Goliathus Speed Cosmic Extended - ](https://m.media-amazon.com/images/I/41pyYhNoKFL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01LQ4BM7S/?tag=tolees-21)
+[![Razer Goliathus Speed Cosmic Extended - ](https://m.media-amazon.com/images/I/41pyYhNoKFL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01LQ4BM7S/?tag=tolees-21)
 
 🔎:
 

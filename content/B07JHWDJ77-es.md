@@ -2,7 +2,7 @@
 layout: post
 title: 'Columbia Ivo Trail  Zapatillas para Homb al 34.11 % de descuento'
 date: 2020-03-16 22:40:19
-image: 'https://m.media-amazon.com/images/I/31+6jZ9xDaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31+6jZ9xDaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '51.665'
 
 Ahora mismo tienes [Columbia Ivo Trail  Zapatillas para Hombre  Negro  Black  Steam 010   42 EU](https://www.amazon.es/dp/B07JHWDJ77/?tag=tolees-21) a 65.88 EUR (original: 99.99 EUR) (34.11 %  de descuento) en el siguiente enlace!
 
-[![Columbia Ivo Trail  Zapatillas para Homb](https://m.media-amazon.com/images/I/31+6jZ9xDaL._SL200_.jpg)](https://www.amazon.es/dp/B07JHWDJ77/?tag=tolees-21)
+[![Columbia Ivo Trail  Zapatillas para Homb](https://m.media-amazon.com/images/I/31+6jZ9xDaL._SL400_.jpg)](https://www.amazon.es/dp/B07JHWDJ77/?tag=tolees-21)
 
 🔎:
 

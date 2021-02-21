@@ -2,7 +2,7 @@
 layout: post
 title: 'Adidas Terrex Free Hiker  Zapatillas de  al 35.01 % de rebaja'
 date: 2020-04-28 17:23:33
-image: 'https://m.media-amazon.com/images/I/41k1e8w-imL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41k1e8w-imL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '129.95'
 
 Tienes [Adidas Terrex Free Hiker  Zapatillas de Deporte para Hombre  Multicolor  Negbás/Grisei/Naract 000   44 2/3 EU](https://www.amazon.es/dp/B07P4WPMNJ/?tag=tolees-21) con precio final de  129.95 EUR (original: 199.95 EUR) (35.01 %  de rebaja) aqui!
 
-[![Adidas Terrex Free Hiker  Zapatillas de ](https://m.media-amazon.com/images/I/41k1e8w-imL._SL200_.jpg)](https://www.amazon.es/dp/B07P4WPMNJ/?tag=tolees-21)
+[![Adidas Terrex Free Hiker  Zapatillas de ](https://m.media-amazon.com/images/I/41k1e8w-imL._SL400_.jpg)](https://www.amazon.es/dp/B07P4WPMNJ/?tag=tolees-21)
 
 🔎:
 

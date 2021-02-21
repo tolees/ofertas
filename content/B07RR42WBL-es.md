@@ -2,7 +2,7 @@
 layout: post
 title: 's.Oliver 03.899.61.5232 suéter  Negro  B al 65.62 % de descuento'
 date: 2020-05-18 11:11:03
-image: 'https://m.media-amazon.com/images/I/41C1xImt5WL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41C1xImt5WL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.31'
 
 Ahora mismo tienes [s.Oliver 03.899.61.5232 suéter  Negro  Black 9999   Small para Hombre](https://www.amazon.es/dp/B07RR42WBL/?tag=tolees-21) a 10.31 EUR (original: 29.99 EUR) (65.62 %  de descuento) en el siguiente enlace!
 
-[![s.Oliver 03.899.61.5232 suéter  Negro  B](https://m.media-amazon.com/images/I/41C1xImt5WL._SL200_.jpg)](https://www.amazon.es/dp/B07RR42WBL/?tag=tolees-21)
+[![s.Oliver 03.899.61.5232 suéter  Negro  B](https://m.media-amazon.com/images/I/41C1xImt5WL._SL400_.jpg)](https://www.amazon.es/dp/B07RR42WBL/?tag=tolees-21)
 
 🔎:
 

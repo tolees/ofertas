@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 48.41 % en Luminarc Set 6 Piezas Modelo Fiesta Comb'
 date: 2020-08-17 14:14:51
-image: 'https://m.media-amazon.com/images/I/41rejufwhXL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41rejufwhXL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.096666666666668'
 
 Tienes [Luminarc Set 6 Piezas Modelo Fiesta Combinados Juegos de cristalería  Vidrio sodo  71 5 cl  26 cm](https://www.amazon.es/dp/B00LFVKUBW/?tag=tolees-21) con un 48.41 % de descuento con precio de oferta de 13.65 EUR (original: 26.46 EUR) en el siguiente enlace!
 
-[![Luminarc Set 6 Piezas Modelo Fiesta Comb](https://m.media-amazon.com/images/I/41rejufwhXL._SL200_.jpg)](https://www.amazon.es/dp/B00LFVKUBW/?tag=tolees-21)
+[![Luminarc Set 6 Piezas Modelo Fiesta Comb](https://m.media-amazon.com/images/I/41rejufwhXL._SL400_.jpg)](https://www.amazon.es/dp/B00LFVKUBW/?tag=tolees-21)
 
 ℹ️:
 

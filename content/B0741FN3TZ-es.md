@@ -2,7 +2,7 @@
 layout: post
 title: 'Orbegozo HU 2016 Humidificador  20 W  Bl con un 37.15 % de descuento'
 date: 2020-05-03 13:16:05
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31EVKv7ptYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31EVKv7ptYL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.47'
 
 En este momento está [Orbegozo HU 2016 Humidificador  20 W  Blanco](https://www.amazon.es/dp/B0741FN3TZ/?tag=tolees-21) a 16.97 EUR (original: 27 EUR) (37.15 %  de descuento) en el siguiente enlace!
 
-[![Orbegozo HU 2016 Humidificador  20 W  Bl](https://images-eu.ssl-images-amazon.com/images/I/31EVKv7ptYL._SL200_.jpg)](https://www.amazon.es/dp/B0741FN3TZ/?tag=tolees-21)
+[![Orbegozo HU 2016 Humidificador  20 W  Bl](https://images-eu.ssl-images-amazon.com/images/I/31EVKv7ptYL._SL400_.jpg)](https://www.amazon.es/dp/B0741FN3TZ/?tag=tolees-21)
 
 🔎:
 

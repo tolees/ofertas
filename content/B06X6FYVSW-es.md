@@ -2,7 +2,7 @@
 layout: post
 title: 'Wire Strippers  Drillpro Alicates Pelaca al 40.00 % de descuento'
 date: 2020-10-11 19:32:23
-image: 'https://m.media-amazon.com/images/I/51XQxUY86oL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51XQxUY86oL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.99'
 
 Está [Wire Strippers  Drillpro Alicates Pelacables Autoajustable Automática Wire Crimpers Profesional Multifuncional Alambre & Cable Crimping Stripping Cutting Pliers Strippers Cutters Rango 0.08-4mm2 Negro](https://www.amazon.es/dp/B06X6FYVSW/?tag=tolees-21) con 40.00 de descuento por 9.99 EUR (original: 16.65 EUR) en el siguiente enlace!
 
-[![Wire Strippers  Drillpro Alicates Pelaca](https://m.media-amazon.com/images/I/51XQxUY86oL._SL200_.jpg)](https://www.amazon.es/dp/B06X6FYVSW/?tag=tolees-21)
+[![Wire Strippers  Drillpro Alicates Pelaca](https://m.media-amazon.com/images/I/51XQxUY86oL._SL400_.jpg)](https://www.amazon.es/dp/B06X6FYVSW/?tag=tolees-21)
 
 ℹ️:
 

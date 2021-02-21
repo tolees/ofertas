@@ -2,7 +2,7 @@
 layout: post
 title: 'UglyDolls: Una Aventura Imperfecta al 58.32 % de descuento'
 date: 2020-10-09 10:52:05
-image: 'https://m.media-amazon.com/images/I/51zg2LSxXRL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51zg2LSxXRL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '22.71'
 
 Está [UglyDolls: Una Aventura Imperfecta](https://www.amazon.es/dp/B07PBVBG1K/?tag=tolees-21) con 58.32 de descuento por 17.5 EUR (original: 41.99 EUR) en el siguiente enlace!
 
-[![UglyDolls: Una Aventura Imperfecta](https://m.media-amazon.com/images/I/51zg2LSxXRL._SL200_.jpg)](https://www.amazon.es/dp/B07PBVBG1K/?tag=tolees-21)
+[![UglyDolls: Una Aventura Imperfecta](https://m.media-amazon.com/images/I/51zg2LSxXRL._SL400_.jpg)](https://www.amazon.es/dp/B07PBVBG1K/?tag=tolees-21)
 
 ℹ️:
 

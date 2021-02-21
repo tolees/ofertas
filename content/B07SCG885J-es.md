@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 30.30 % en Ice-Watch Reloj Analógico 16985'
 date: 2020-06-22 09:28:57
-image: 'https://m.media-amazon.com/images/I/41EivgGYFOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41EivgGYFOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '69.0'
 
 Tienes [Ice-Watch Reloj Analógico 16985](https://www.amazon.es/dp/B07SCG885J/?tag=tolees-21) con un 30.30 % de descuento con precio de oferta de 69.0 EUR (original: 99.0 EUR) en el siguiente enlace!
 
-[![Ice-Watch Reloj Analógico 16985](https://m.media-amazon.com/images/I/41EivgGYFOL._SL200_.jpg)](https://www.amazon.es/dp/B07SCG885J/?tag=tolees-21)
+[![Ice-Watch Reloj Analógico 16985](https://m.media-amazon.com/images/I/41EivgGYFOL._SL400_.jpg)](https://www.amazon.es/dp/B07SCG885J/?tag=tolees-21)
 
 ℹ️:
 

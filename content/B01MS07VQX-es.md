@@ -2,7 +2,7 @@
 layout: post
 title: 'SAMSUNG EF-CA520PPEGWW - Funda para Gala al 68.87 % de descuento'
 date: 2020-07-12 17:03:28
-image: 'https://m.media-amazon.com/images/I/31pNK8Nj-3L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31pNK8Nj-3L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.14'
 
 Ahora mismo tienes [SAMSUNG EF-CA520PPEGWW - Funda para Galaxy A5 2017  Color Rosa](https://www.amazon.es/dp/B01MS07VQX/?tag=tolees-21) a 12.14 EUR (original: 39.0 EUR) (68.87 %  de descuento) en el siguiente enlace!
 
-[![SAMSUNG EF-CA520PPEGWW - Funda para Gala](https://m.media-amazon.com/images/I/31pNK8Nj-3L._SL200_.jpg)](https://www.amazon.es/dp/B01MS07VQX/?tag=tolees-21)
+[![SAMSUNG EF-CA520PPEGWW - Funda para Gala](https://m.media-amazon.com/images/I/31pNK8Nj-3L._SL400_.jpg)](https://www.amazon.es/dp/B01MS07VQX/?tag=tolees-21)
 
 🔎:
 

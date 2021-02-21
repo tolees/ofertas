@@ -2,7 +2,7 @@
 layout: post
 title: 'Bandolera Pepe Jeans Bromley Verde al 28.61 % de descuento'
 date: 2020-01-29 09:16:31
-image: 'https://m.media-amazon.com/images/I/51NnJdaBRoL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51NnJdaBRoL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.665'
 
 Ahora mismo tienes [Bandolera Pepe Jeans Bromley Verde](https://www.amazon.es/dp/B07FYLBSBQ/?tag=tolees-21) a 19.99 EUR (original: 28.0 EUR) (28.61 %  de descuento) en el siguiente enlace!
 
-[![Bandolera Pepe Jeans Bromley Verde](https://m.media-amazon.com/images/I/51NnJdaBRoL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07FYLBSBQ/?tag=tolees-21)
+[![Bandolera Pepe Jeans Bromley Verde](https://m.media-amazon.com/images/I/51NnJdaBRoL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07FYLBSBQ/?tag=tolees-21)
 
 🔎:
 

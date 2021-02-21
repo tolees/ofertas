@@ -2,7 +2,7 @@
 layout: post
 title: 'St. Moriz  Autobronceador corporal  piel al 34.03 % de descuento'
 date: 2020-03-30 00:27:14
-image: 'https://m.media-amazon.com/images/I/31PkYccSoAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31PkYccSoAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.87'
 
 Está [St. Moriz  Autobronceador corporal  piel seca  - 200 ml.](https://www.amazon.es/dp/B01CGKQAIC/?tag=tolees-21) con 34.03 de descuento por 7.87 EUR (original: 11.93 EUR) en el siguiente enlace!
 
-[![St. Moriz  Autobronceador corporal  piel](https://m.media-amazon.com/images/I/31PkYccSoAL._SL200_.jpg)](https://www.amazon.es/dp/B01CGKQAIC/?tag=tolees-21)
+[![St. Moriz  Autobronceador corporal  piel](https://m.media-amazon.com/images/I/31PkYccSoAL._SL400_.jpg)](https://www.amazon.es/dp/B01CGKQAIC/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Moliies Base líquida Taylormade Warm Ski al 47.53 % de rebaja'
 date: 2020-07-09 23:24:05
-image: 'https://m.media-amazon.com/images/I/31BNE9OAFPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31BNE9OAFPL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.52'
 
 Tienes [Moliies Base líquida Taylormade Warm Skin Tone para aclarar el corrector portátil Duradero y no fácil de desvanecer - Color de piel](https://www.amazon.es/dp/B084JCWLVW/?tag=tolees-21) con precio final de  5.52 EUR (original: 10.52 EUR) (47.53 %  de rebaja) aqui!
 
-[![Moliies Base líquida Taylormade Warm Ski](https://m.media-amazon.com/images/I/31BNE9OAFPL._SL200_.jpg)](https://www.amazon.es/dp/B084JCWLVW/?tag=tolees-21)
+[![Moliies Base líquida Taylormade Warm Ski](https://m.media-amazon.com/images/I/31BNE9OAFPL._SL400_.jpg)](https://www.amazon.es/dp/B084JCWLVW/?tag=tolees-21)
 
 🔎:
 

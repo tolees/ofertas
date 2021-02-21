@@ -2,7 +2,7 @@
 layout: post
 title: 'XTI 49684 Deportivas XTI Hombre Deportiv con un 38.04 % de descuento'
 date: 2020-03-05 18:03:07
-image: 'https://m.media-amazon.com/images/I/41fjgYZJUhL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41fjgYZJUhL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '30.95'
 
 En este momento está [XTI 49684 Deportivas XTI Hombre Deportivos Blanco 41](https://www.amazon.es/dp/B084Z4MR3T/?tag=tolees-21) a 30.95 EUR (original: 49.95 EUR) (38.04 %  de descuento) en el siguiente enlace!
 
-[![XTI 49684 Deportivas XTI Hombre Deportiv](https://m.media-amazon.com/images/I/41fjgYZJUhL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B084Z4MR3T/?tag=tolees-21)
+[![XTI 49684 Deportivas XTI Hombre Deportiv](https://m.media-amazon.com/images/I/41fjgYZJUhL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B084Z4MR3T/?tag=tolees-21)
 
 🔎:
 

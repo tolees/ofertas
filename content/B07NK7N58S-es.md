@@ -2,7 +2,7 @@
 layout: post
 title: 'Famgizmo Soporte de Pared para TV 14-37  con un 38.48 % de descuento'
 date: 2020-07-18 17:10:08
-image: 'https://m.media-amazon.com/images/I/41f8P3yq3KL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41f8P3yq3KL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.99'
 
 En este momento está [Famgizmo Soporte de Pared para TV 14-37 Pulgadas 35-94cm   Inclinable y Giratorio  Máx Vesa 200x200mm  Carga 45KG 99lbs   para Televisores de Pantalla Plana LED LCD Plasma 4K 3D ](https://www.amazon.es/dp/B07NK7N58S/?tag=tolees-21) a 15.99 EUR (original: 25.99 EUR) (38.48 %  de descuento) en el siguiente enlace!
 
-[![Famgizmo Soporte de Pared para TV 14-37 ](https://m.media-amazon.com/images/I/41f8P3yq3KL._SL200_.jpg)](https://www.amazon.es/dp/B07NK7N58S/?tag=tolees-21)
+[![Famgizmo Soporte de Pared para TV 14-37 ](https://m.media-amazon.com/images/I/41f8P3yq3KL._SL400_.jpg)](https://www.amazon.es/dp/B07NK7N58S/?tag=tolees-21)
 
 🔎:
 

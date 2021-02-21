@@ -2,7 +2,7 @@
 layout: post
 title: 'Bourjois Boite Ronde Sombra de ojos Tono al 77.78 % de descuento'
 date: 2020-06-06 19:27:41
-image: 'https://m.media-amazon.com/images/I/41HTm+L5hGL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41HTm+L5hGL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.3575'
 
 Ahora mismo tienes [Bourjois Boite Ronde Sombra de ojos Tono 9 Lunaire - 16 gr.](https://www.amazon.es/dp/B01JGFD7SQ/?tag=tolees-21) a 2.0 EUR (original: 9.0 EUR) (77.78 %  de descuento) en el siguiente enlace!
 
-[![Bourjois Boite Ronde Sombra de ojos Tono](https://m.media-amazon.com/images/I/41HTm+L5hGL._SL200_.jpg)](https://www.amazon.es/dp/B01JGFD7SQ/?tag=tolees-21)
+[![Bourjois Boite Ronde Sombra de ojos Tono](https://m.media-amazon.com/images/I/41HTm+L5hGL._SL400_.jpg)](https://www.amazon.es/dp/B01JGFD7SQ/?tag=tolees-21)
 
 🔎:
 

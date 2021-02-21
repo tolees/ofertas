@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 62.75 % en Reflex Nutrition Instant Whey Pro Chocol'
 date: 2020-06-12 09:00:59
-image: 'https://m.media-amazon.com/images/I/41w0iybNDPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41w0iybNDPL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '64.46'
 
 Tienes [Reflex Nutrition Instant Whey Pro Chocolate - 4400 gr](https://www.amazon.es/dp/B00GTRKZHG/?tag=tolees-21) con un 62.75 % de descuento con precio de oferta de 64.46 EUR (original: 173.06 EUR) en el siguiente enlace!
 
-[![Reflex Nutrition Instant Whey Pro Chocol](https://m.media-amazon.com/images/I/41w0iybNDPL._SL200_.jpg)](https://www.amazon.es/dp/B00GTRKZHG/?tag=tolees-21)
+[![Reflex Nutrition Instant Whey Pro Chocol](https://m.media-amazon.com/images/I/41w0iybNDPL._SL400_.jpg)](https://www.amazon.es/dp/B00GTRKZHG/?tag=tolees-21)
 
 ℹ️:
 

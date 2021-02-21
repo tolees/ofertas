@@ -2,7 +2,7 @@
 layout: post
 title: 'Hobaca® E27 Oro Cobre Hierro de lujo Lám al 48.61 % de rebaja'
 date: 2020-09-08 17:56:04
-image: 'https://m.media-amazon.com/images/I/31E6cmWKXkL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31E6cmWKXkL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.77'
 
 Tienes [Hobaca® E27 Oro Cobre Hierro de lujo Lámpara colgante nórdica moderna LED Lámpara colgante Lámparas para las luces del sitio de la cocina de la isla de la cocina](https://www.amazon.es/dp/B07SS4J9KZ/?tag=tolees-21) con precio final de  24.32 EUR (original: 47.32 EUR) (48.61 %  de rebaja) aqui!
 
-[![Hobaca® E27 Oro Cobre Hierro de lujo Lám](https://m.media-amazon.com/images/I/31E6cmWKXkL._SL200_.jpg)](https://www.amazon.es/dp/B07SS4J9KZ/?tag=tolees-21)
+[![Hobaca® E27 Oro Cobre Hierro de lujo Lám](https://m.media-amazon.com/images/I/31E6cmWKXkL._SL400_.jpg)](https://www.amazon.es/dp/B07SS4J9KZ/?tag=tolees-21)
 
 🔎:
 

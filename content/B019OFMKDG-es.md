@@ -2,7 +2,7 @@
 layout: post
 title: 'Lacoste PH4012  Polo Para Hombre  Blanco al 32.64 % de rebaja'
 date: 2020-06-11 06:04:56
-image: 'https://m.media-amazon.com/images/I/31QVyTrKnGL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31QVyTrKnGL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '63.99'
 
 Tienes [Lacoste PH4012  Polo Para Hombre  Blanco  Blanc   X-Small  Talla del fabricante: 2 ](https://www.amazon.es/dp/B019OFMKDG/?tag=tolees-21) con precio final de  63.99 EUR (original: 95.0 EUR) (32.64 %  de rebaja) aqui!
 
-[![Lacoste PH4012  Polo Para Hombre  Blanco](https://m.media-amazon.com/images/I/31QVyTrKnGL._SL200_.jpg)](https://www.amazon.es/dp/B019OFMKDG/?tag=tolees-21)
+[![Lacoste PH4012  Polo Para Hombre  Blanco](https://m.media-amazon.com/images/I/31QVyTrKnGL._SL400_.jpg)](https://www.amazon.es/dp/B019OFMKDG/?tag=tolees-21)
 
 🔎:
 

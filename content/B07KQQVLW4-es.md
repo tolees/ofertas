@@ -2,7 +2,7 @@
 layout: post
 title: 'SALOMON Logo Hoodie M Hombre  Verde  Gre al 33.59 % de rebaja'
 date: 2020-05-13 07:50:38
-image: 'https://m.media-amazon.com/images/I/41IwiLhm2tL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41IwiLhm2tL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '46.49'
 
 Tienes [SALOMON Logo Hoodie M Hombre  Verde  Green Gables   L](https://www.amazon.es/dp/B07KQQVLW4/?tag=tolees-21) con precio final de  46.49 EUR (original: 70.0 EUR) (33.59 %  de rebaja) aqui!
 
-[![SALOMON Logo Hoodie M Hombre  Verde  Gre](https://m.media-amazon.com/images/I/41IwiLhm2tL._SL200_.jpg)](https://www.amazon.es/dp/B07KQQVLW4/?tag=tolees-21)
+[![SALOMON Logo Hoodie M Hombre  Verde  Gre](https://m.media-amazon.com/images/I/41IwiLhm2tL._SL400_.jpg)](https://www.amazon.es/dp/B07KQQVLW4/?tag=tolees-21)
 
 🔎:
 

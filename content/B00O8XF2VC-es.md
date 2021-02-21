@@ -2,7 +2,7 @@
 layout: post
 title: 'Philips Avent SCF751/05 - Vaso con boqui al 45.43 % de descuento'
 date: 2020-05-03 14:02:56
-image: 'https://images-eu.ssl-images-amazon.com/images/I/411IuHJelcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411IuHJelcL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.25'
 
 Ahora mismo tienes [Philips Avent SCF751/05 - Vaso con boquilla blanda  diseño pingüino  para 6 meses  200 ml  color azul](https://www.amazon.es/dp/B00O8XF2VC/?tag=tolees-21) a 5.73 EUR (original: 10.5 EUR) (45.43 %  de descuento) en el siguiente enlace!
 
-[![Philips Avent SCF751/05 - Vaso con boqui](https://images-eu.ssl-images-amazon.com/images/I/411IuHJelcL._SL200_.jpg)](https://www.amazon.es/dp/B00O8XF2VC/?tag=tolees-21)
+[![Philips Avent SCF751/05 - Vaso con boqui](https://images-eu.ssl-images-amazon.com/images/I/411IuHJelcL._SL400_.jpg)](https://www.amazon.es/dp/B00O8XF2VC/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Pala NOX Attraction A.4 al 41.68 % de descuento'
 date: 2020-06-06 14:56:44
-image: 'https://m.media-amazon.com/images/I/51L9+mSQqsL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51L9+mSQqsL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '88.77777777777777'
 
 Ahora mismo tienes [Pala NOX Attraction A.4](https://www.amazon.es/dp/B077PXBQPF/?tag=tolees-21) a 69.95 EUR (original: 119.95 EUR) (41.68 %  de descuento) en el siguiente enlace!
 
-[![Pala NOX Attraction A.4](https://m.media-amazon.com/images/I/51L9+mSQqsL._SL200_.jpg)](https://www.amazon.es/dp/B077PXBQPF/?tag=tolees-21)
+[![Pala NOX Attraction A.4](https://m.media-amazon.com/images/I/51L9+mSQqsL._SL400_.jpg)](https://www.amazon.es/dp/B077PXBQPF/?tag=tolees-21)
 
 🔎:
 

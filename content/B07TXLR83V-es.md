@@ -2,7 +2,7 @@
 layout: post
 title: 'Superga 2750-cotcontrastu  Zapatillas de con un 54.08 % de descuento'
 date: 2020-07-24 12:42:23
-image: 'https://m.media-amazon.com/images/I/31ZeaFjHPyL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31ZeaFjHPyL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.85'
 
 En este momento está [Superga 2750-cotcontrastu  Zapatillas de Gimnasia Unisex Adulto  Blanco  White/Blue Lt Crysta A0a   37 EU](https://www.amazon.es/dp/B07TXLR83V/?tag=tolees-21) a 29.85 EUR (original: 65.0 EUR) (54.08 %  de descuento) en el siguiente enlace!
 
-[![Superga 2750-cotcontrastu  Zapatillas de](https://m.media-amazon.com/images/I/31ZeaFjHPyL._SL200_.jpg)](https://www.amazon.es/dp/B07TXLR83V/?tag=tolees-21)
+[![Superga 2750-cotcontrastu  Zapatillas de](https://m.media-amazon.com/images/I/31ZeaFjHPyL._SL400_.jpg)](https://www.amazon.es/dp/B07TXLR83V/?tag=tolees-21)
 
 🔎:
 

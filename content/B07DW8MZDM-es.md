@@ -2,7 +2,7 @@
 layout: post
 title: 'Salewa WS Speed Beat GTX  Zapatillas de  con un 59.80 % de descuento'
 date: 2020-06-22 18:26:52
-image: 'https://m.media-amazon.com/images/I/412pGswaKAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/412pGswaKAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.46'
 
 En este momento está [Salewa WS Speed Beat GTX  Zapatillas de Running para Asfalto para Mujer  Verde  Shaded Spruce/Fluo Coral 8631   36 EU](https://www.amazon.es/dp/B07DW8MZDM/?tag=tolees-21) a 29.46 EUR (original: 73.28 EUR) (59.80 %  de descuento) en el siguiente enlace!
 
-[![Salewa WS Speed Beat GTX  Zapatillas de ](https://m.media-amazon.com/images/I/412pGswaKAL._SL200_.jpg)](https://www.amazon.es/dp/B07DW8MZDM/?tag=tolees-21)
+[![Salewa WS Speed Beat GTX  Zapatillas de ](https://m.media-amazon.com/images/I/412pGswaKAL._SL400_.jpg)](https://www.amazon.es/dp/B07DW8MZDM/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Rimmel London 1000 Kisses Lipliner Perfi al 28.18 % de rebaja'
 date: 2020-07-21 08:38:09
-image: 'https://m.media-amazon.com/images/I/218WWa0NdML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/218WWa0NdML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.9375'
 
 Tienes [Rimmel London 1000 Kisses Lipliner Perfilador de Labios Tono 047 Cappuccino - 1 2 gr  0.04 oz](https://www.amazon.es/dp/B003LPUWU4/?tag=tolees-21) con precio final de  3.95 EUR (original: 5.5 EUR) (28.18 %  de rebaja) aqui!
 
-[![Rimmel London 1000 Kisses Lipliner Perfi](https://m.media-amazon.com/images/I/218WWa0NdML._SL200_.jpg)](https://www.amazon.es/dp/B003LPUWU4/?tag=tolees-21)
+[![Rimmel London 1000 Kisses Lipliner Perfi](https://m.media-amazon.com/images/I/218WWa0NdML._SL400_.jpg)](https://www.amazon.es/dp/B003LPUWU4/?tag=tolees-21)
 
 🔎:
 

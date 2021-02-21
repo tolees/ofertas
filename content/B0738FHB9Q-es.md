@@ -2,7 +2,7 @@
 layout: post
 title: 'Amazon Essentials Fleece-Outerwear-Jacke al 38.51 % de rebaja'
 date: 2020-10-08 10:02:38
-image: 'https://m.media-amazon.com/images/I/512ofamRTiL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/512ofamRTiL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.91'
 
 Tienes [Amazon Essentials Fleece-Outerwear-Jackets  Jaspeado Gris carbón  S](https://www.amazon.es/dp/B0738FHB9Q/?tag=tolees-21) con precio final de  8.91 EUR (original: 14.49 EUR) (38.51 %  de rebaja) aqui!
 
-[![Amazon Essentials Fleece-Outerwear-Jacke](https://m.media-amazon.com/images/I/512ofamRTiL._SL200_.jpg)](https://www.amazon.es/dp/B0738FHB9Q/?tag=tolees-21)
+[![Amazon Essentials Fleece-Outerwear-Jacke](https://m.media-amazon.com/images/I/512ofamRTiL._SL400_.jpg)](https://www.amazon.es/dp/B0738FHB9Q/?tag=tolees-21)
 
 🔎:
 

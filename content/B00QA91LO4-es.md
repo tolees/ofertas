@@ -2,7 +2,7 @@
 layout: post
 title: 'Sharplace 1 x Emulador USB SFR1M44-U100K al 44.44 % de rebaja'
 date: 2020-01-29 10:55:35
-image: 'https://m.media-amazon.com/images/I/31cGeGr2uSL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31cGeGr2uSL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.516000000000002'
 
 Tienes [Sharplace 1 x Emulador USB SFR1M44-U100K 4 x Tornillo](https://www.amazon.es/dp/B00QA91LO4/?tag=tolees-21) con precio final de  25.18 EUR (original: 45.32 EUR) (44.44 %  de rebaja) aqui!
 
-[![Sharplace 1 x Emulador USB SFR1M44-U100K](https://m.media-amazon.com/images/I/31cGeGr2uSL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B00QA91LO4/?tag=tolees-21)
+[![Sharplace 1 x Emulador USB SFR1M44-U100K](https://m.media-amazon.com/images/I/31cGeGr2uSL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B00QA91LO4/?tag=tolees-21)
 
 🔎:
 

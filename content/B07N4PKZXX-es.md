@@ -2,7 +2,7 @@
 layout: post
 title: 'Superga Classic  Zapatillas Unisex Adult al 69.90 % de rebaja'
 date: 2020-08-23 17:28:55
-image: 'https://m.media-amazon.com/images/I/31gM9G71RuL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31gM9G71RuL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.10333333333333'
 
 Tienes [Superga Classic  Zapatillas Unisex Adulto  Azul  Azure Erica 325   49 EU](https://www.amazon.es/dp/B07N4PKZXX/?tag=tolees-21) con precio final de  17.76 EUR (original: 59.0 EUR) (69.90 %  de rebaja) aqui!
 
-[![Superga Classic  Zapatillas Unisex Adult](https://m.media-amazon.com/images/I/31gM9G71RuL._SL200_.jpg)](https://www.amazon.es/dp/B07N4PKZXX/?tag=tolees-21)
+[![Superga Classic  Zapatillas Unisex Adult](https://m.media-amazon.com/images/I/31gM9G71RuL._SL400_.jpg)](https://www.amazon.es/dp/B07N4PKZXX/?tag=tolees-21)
 
 🔎:
 

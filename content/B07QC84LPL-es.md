@@ -2,7 +2,7 @@
 layout: post
 title: 'PUMA Nu-Tility Knit Pant Chándal  Hombre al 64.57 % de rebaja'
 date: 2020-01-13 09:30:38
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31kgjyxx3AL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31kgjyxx3AL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.47'
 
 Tienes [PUMA Nu-Tility Knit Pant Chándal  Hombre  Black  L](https://www.amazon.es/dp/B07QC84LPL/?tag=tolees-21) con precio final de  19.47 EUR (original: 54.95 EUR) (64.57 %  de rebaja) aqui!
 
-[![PUMA Nu-Tility Knit Pant Chándal  Hombre](https://images-eu.ssl-images-amazon.com/images/I/31kgjyxx3AL._SL200_.jpg)](https://www.amazon.es/dp/B07QC84LPL/?tag=tolees-21)
+[![PUMA Nu-Tility Knit Pant Chándal  Hombre](https://images-eu.ssl-images-amazon.com/images/I/31kgjyxx3AL._SL400_.jpg)](https://www.amazon.es/dp/B07QC84LPL/?tag=tolees-21)
 
 🔎:
 

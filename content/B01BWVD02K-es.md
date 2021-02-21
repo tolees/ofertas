@@ -2,7 +2,7 @@
 layout: post
 title: 'Pasta de dientes blanqueadora Colgate Se al 31.51 % de descuento'
 date: 2020-08-09 11:33:31
-image: 'https://m.media-amazon.com/images/I/41e5rz43yGL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41e5rz43yGL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.5966666666666667'
 
 Ahora mismo tienes [Pasta de dientes blanqueadora Colgate Sensation  dientes más blancos en 14 días 75 ml](https://www.amazon.es/dp/B01BWVD02K/?tag=tolees-21) a 1.5 EUR (original: 2.19 EUR) (31.51 %  de descuento) en el siguiente enlace!
 
-[![Pasta de dientes blanqueadora Colgate Se](https://m.media-amazon.com/images/I/41e5rz43yGL._SL200_.jpg)](https://www.amazon.es/dp/B01BWVD02K/?tag=tolees-21)
+[![Pasta de dientes blanqueadora Colgate Se](https://m.media-amazon.com/images/I/41e5rz43yGL._SL400_.jpg)](https://www.amazon.es/dp/B01BWVD02K/?tag=tolees-21)
 
 🔎:
 

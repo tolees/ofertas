@@ -2,7 +2,7 @@
 layout: post
 title: 'Babyline Caramelo - Saco para silla de p al 50.71 % de descuento'
 date: 2020-08-31 07:27:34
-image: 'https://m.media-amazon.com/images/I/51D8GXgGgdL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51D8GXgGgdL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '48.3'
 
 Está [Babyline Caramelo - Saco para silla de paseo  color rosa](https://www.amazon.es/dp/B01LZQMIYN/?tag=tolees-21) con 50.71 de descuento por 48.3 EUR (original: 98.0 EUR) en el siguiente enlace!
 
-[![Babyline Caramelo - Saco para silla de p](https://m.media-amazon.com/images/I/51D8GXgGgdL._SL200_.jpg)](https://www.amazon.es/dp/B01LZQMIYN/?tag=tolees-21)
+[![Babyline Caramelo - Saco para silla de p](https://m.media-amazon.com/images/I/51D8GXgGgdL._SL400_.jpg)](https://www.amazon.es/dp/B01LZQMIYN/?tag=tolees-21)
 
 ℹ️:
 

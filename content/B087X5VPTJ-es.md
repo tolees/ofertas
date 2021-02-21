@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 47.15 % en Suhctup Funda Transparent Compatible par'
 date: 2020-08-01 12:31:58
-image: 'https://m.media-amazon.com/images/I/31TaCI9LWpL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31TaCI9LWpL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.98'
 
 Tienes [Suhctup Funda Transparent Compatible para Huawei P20 Lite/Nova 3E Carcasa Protectora [Antigolpes] Suave Silicona TPU Bumper Cojín de Aire de Cuatro Esquinas Protector Gel para Huawei P20 Lite A7](https://www.amazon.es/dp/B087X5VPTJ/?tag=tolees-21) con un 47.15 % de descuento con precio de oferta de 8.98 EUR (original: 16.99 EUR) en el siguiente enlace!
 
-[![Suhctup Funda Transparent Compatible par](https://m.media-amazon.com/images/I/31TaCI9LWpL._SL200_.jpg)](https://www.amazon.es/dp/B087X5VPTJ/?tag=tolees-21)
+[![Suhctup Funda Transparent Compatible par](https://m.media-amazon.com/images/I/31TaCI9LWpL._SL400_.jpg)](https://www.amazon.es/dp/B087X5VPTJ/?tag=tolees-21)
 
 ℹ️:
 

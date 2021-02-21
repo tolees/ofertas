@@ -2,7 +2,7 @@
 layout: post
 title: 'Regleta Enchufes Múltiples Base USB - SA al 36.01 % de descuento'
 date: 2020-02-07 08:18:12
-image: 'https://m.media-amazon.com/images/I/41byVzYLbVL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41byVzYLbVL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '31.99'
 
 Está [Regleta Enchufes Múltiples Base USB - SAFEMORE - 11 Enchufes y 2 Puertos de Carga USB con Protección de Sobrecarga Contra Subidas y Picos de Tensión  Interruptor Individual y Cable de Extensión de 2 m](https://www.amazon.es/dp/B07Q5FBKB6/?tag=tolees-21) con 36.01 de descuento por 31.99 EUR (original: 49.99 EUR) en el siguiente enlace!
 
-[![Regleta Enchufes Múltiples Base USB - SA](https://m.media-amazon.com/images/I/41byVzYLbVL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07Q5FBKB6/?tag=tolees-21)
+[![Regleta Enchufes Múltiples Base USB - SA](https://m.media-amazon.com/images/I/41byVzYLbVL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07Q5FBKB6/?tag=tolees-21)
 
 ℹ️:
 

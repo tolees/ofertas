@@ -2,7 +2,7 @@
 layout: post
 title: 'Fallout Wasteland Warfare Institute Core al 49.65 % de rebaja'
 date: 2020-09-18 16:16:54
-image: 'https://m.media-amazon.com/images/I/515YUebK9qL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/515YUebK9qL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.47'
 
 Tienes [Fallout Wasteland Warfare Institute Core Box Juego de miniaturas](https://www.amazon.es/dp/B081B1W4WT/?tag=tolees-21) con precio final de  24.47 EUR (original: 48.6 EUR) (49.65 %  de rebaja) aqui!
 
-[![Fallout Wasteland Warfare Institute Core](https://m.media-amazon.com/images/I/515YUebK9qL._SL200_.jpg)](https://www.amazon.es/dp/B081B1W4WT/?tag=tolees-21)
+[![Fallout Wasteland Warfare Institute Core](https://m.media-amazon.com/images/I/515YUebK9qL._SL400_.jpg)](https://www.amazon.es/dp/B081B1W4WT/?tag=tolees-21)
 
 🔎:
 

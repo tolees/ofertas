@@ -2,7 +2,7 @@
 layout: post
 title: 'PUMA Weave XT WN S  Zapatillas Deportiva con un 47.11 % de descuento'
 date: 2020-05-27 19:13:25
-image: 'https://m.media-amazon.com/images/I/312bKxvBwFL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/312bKxvBwFL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '37.983333333333334'
 
 En este momento está [PUMA Weave XT WN S  Zapatillas Deportivas para Interior para Mujer  Negro Black/Metallic Silver  36 EU](https://www.amazon.es/dp/B07SF2GB3Z/?tag=tolees-21) a 37.0 EUR (original: 69.95 EUR) (47.11 %  de descuento) en el siguiente enlace!
 
-[![PUMA Weave XT WN S  Zapatillas Deportiva](https://m.media-amazon.com/images/I/312bKxvBwFL._SL200_.jpg)](https://www.amazon.es/dp/B07SF2GB3Z/?tag=tolees-21)
+[![PUMA Weave XT WN S  Zapatillas Deportiva](https://m.media-amazon.com/images/I/312bKxvBwFL._SL400_.jpg)](https://www.amazon.es/dp/B07SF2GB3Z/?tag=tolees-21)
 
 🔎:
 

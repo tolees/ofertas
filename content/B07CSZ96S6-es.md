@@ -2,7 +2,7 @@
 layout: post
 title: 'D DOLITY Dados D20 de Acrílico 20 Caras  al 33.36 % de descuento'
 date: 2020-05-30 15:02:56
-image: 'https://m.media-amazon.com/images/I/51FF6dGN2BL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51FF6dGN2BL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.99'
 
 Está [D DOLITY Dados D20 de Acrílico 20 Caras para Juego de rol Juego de Mesa  10 Unids  - Azul Blanco](https://www.amazon.es/dp/B07CSZ96S6/?tag=tolees-21) con 33.36 de descuento por 8.99 EUR (original: 13.49 EUR) en el siguiente enlace!
 
-[![D DOLITY Dados D20 de Acrílico 20 Caras ](https://m.media-amazon.com/images/I/51FF6dGN2BL._SL200_.jpg)](https://www.amazon.es/dp/B07CSZ96S6/?tag=tolees-21)
+[![D DOLITY Dados D20 de Acrílico 20 Caras ](https://m.media-amazon.com/images/I/51FF6dGN2BL._SL400_.jpg)](https://www.amazon.es/dp/B07CSZ96S6/?tag=tolees-21)
 
 ℹ️:
 

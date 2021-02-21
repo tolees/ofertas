@@ -2,7 +2,7 @@
 layout: post
 title: 'Clarks Sillian2.0dusk  Botas Slouch para al 52.48 % de rebaja'
 date: 2020-02-01 10:20:51
-image: 'https://m.media-amazon.com/images/I/311ehT8jz0L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/311ehT8jz0L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '33.24'
 
 Tienes [Clarks Sillian2.0dusk  Botas Slouch para Mujer  Negro Black  35.5 EU](https://www.amazon.es/dp/B07N1JV9XK/?tag=tolees-21) con precio final de  33.24 EUR (original: 69.95 EUR) (52.48 %  de rebaja) aqui!
 
-[![Clarks Sillian2.0dusk  Botas Slouch para](https://m.media-amazon.com/images/I/311ehT8jz0L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07N1JV9XK/?tag=tolees-21)
+[![Clarks Sillian2.0dusk  Botas Slouch para](https://m.media-amazon.com/images/I/311ehT8jz0L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07N1JV9XK/?tag=tolees-21)
 
 🔎:
 

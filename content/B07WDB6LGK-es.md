@@ -2,7 +2,7 @@
 layout: post
 title: 'TACKLIFE Juego de Brocas  ADC01C Taladro al 46.19 % de descuento'
 date: 2020-07-26 20:41:14
-image: 'https://m.media-amazon.com/images/I/41a8EdIFVtL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41a8EdIFVtL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.545'
 
 Está [TACKLIFE Juego de Brocas  ADC01C Taladros Kit Avanzado de 5 Taladros y Cinceles SDS-plus  Favorable a las Cabezales de Taladro de Acero de Alta Resistencia para Taladrado de Hormigón](https://www.amazon.es/dp/B07WDB6LGK/?tag=tolees-21) con 46.19 de descuento por 6.99 EUR (original: 12.99 EUR) en el siguiente enlace!
 
-[![TACKLIFE Juego de Brocas  ADC01C Taladro](https://m.media-amazon.com/images/I/41a8EdIFVtL._SL200_.jpg)](https://www.amazon.es/dp/B07WDB6LGK/?tag=tolees-21)
+[![TACKLIFE Juego de Brocas  ADC01C Taladro](https://m.media-amazon.com/images/I/41a8EdIFVtL._SL400_.jpg)](https://www.amazon.es/dp/B07WDB6LGK/?tag=tolees-21)
 
 ℹ️:
 

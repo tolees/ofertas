@@ -2,7 +2,7 @@
 layout: post
 title: 'Winsor & Newton- Winton Set de 10 Tubos  al 42.95 % de rebaja'
 date: 2020-09-16 11:24:15
-image: 'https://m.media-amazon.com/images/I/41SH-T84pkL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41SH-T84pkL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '27.495'
 
 Tienes [Winsor & Newton- Winton Set de 10 Tubos de 37 ml de óleo  Multicolor  Colart 1490619 ](https://www.amazon.es/dp/B002E9GUZ4/?tag=tolees-21) con precio final de  30.4 EUR (original: 53.29 EUR) (42.95 %  de rebaja) aqui!
 
-[![Winsor & Newton- Winton Set de 10 Tubos ](https://m.media-amazon.com/images/I/41SH-T84pkL._SL200_.jpg)](https://www.amazon.es/dp/B002E9GUZ4/?tag=tolees-21)
+[![Winsor & Newton- Winton Set de 10 Tubos ](https://m.media-amazon.com/images/I/41SH-T84pkL._SL400_.jpg)](https://www.amazon.es/dp/B002E9GUZ4/?tag=tolees-21)
 
 🔎:
 

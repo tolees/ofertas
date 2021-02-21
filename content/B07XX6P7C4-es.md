@@ -2,7 +2,7 @@
 layout: post
 title: 'WESCO Telémetro Láser 40m Telémetro con  al 25.01 % de rebaja'
 date: 2020-07-31 21:37:46
-image: 'https://m.media-amazon.com/images/I/51qw48F3zKL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51qw48F3zKL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.99'
 
 Tienes [WESCO Telémetro Láser 40m Telémetro con Rango Distancia de Medida en M/In/Ft  Auto-Calibración  Modo de Voz y Silencio  Distancia Precisa  Área  Mediciones de Volumen  con Teorema de Pitágoras WS8910](https://www.amazon.es/dp/B07XX6P7C4/?tag=tolees-21) con precio final de  29.99 EUR (original: 39.99 EUR) (25.01 %  de rebaja) aqui!
 
-[![WESCO Telémetro Láser 40m Telémetro con ](https://m.media-amazon.com/images/I/51qw48F3zKL._SL200_.jpg)](https://www.amazon.es/dp/B07XX6P7C4/?tag=tolees-21)
+[![WESCO Telémetro Láser 40m Telémetro con ](https://m.media-amazon.com/images/I/51qw48F3zKL._SL400_.jpg)](https://www.amazon.es/dp/B07XX6P7C4/?tag=tolees-21)
 
 🔎:
 

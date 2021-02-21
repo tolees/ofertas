@@ -2,7 +2,7 @@
 layout: post
 title: 'Michelin Country AT Cubierta  Unisex  Ne con un 27.68 % de descuento'
 date: 2020-05-13 12:11:32
-image: 'https://m.media-amazon.com/images/I/41zjj2f4qEL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41zjj2f4qEL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.496666666666668'
 
 En este momento está [Michelin Country AT Cubierta  Unisex  Negro  26 x 2.00](https://www.amazon.es/dp/B004BFZB18/?tag=tolees-21) a 11.0 EUR (original: 15.21 EUR) (27.68 %  de descuento) en el siguiente enlace!
 
-[![Michelin Country AT Cubierta  Unisex  Ne](https://m.media-amazon.com/images/I/41zjj2f4qEL._SL200_.jpg)](https://www.amazon.es/dp/B004BFZB18/?tag=tolees-21)
+[![Michelin Country AT Cubierta  Unisex  Ne](https://m.media-amazon.com/images/I/41zjj2f4qEL._SL400_.jpg)](https://www.amazon.es/dp/B004BFZB18/?tag=tolees-21)
 
 🔎:
 

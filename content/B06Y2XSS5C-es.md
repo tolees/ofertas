@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 40.13 % en PRIXTON - Soporte para Tablet Coche/Sopo'
 date: 2020-05-29 07:26:33
-image: 'https://m.media-amazon.com/images/I/31i6vS8Z5EL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31i6vS8Z5EL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.95'
 
 Tienes [PRIXTON - Soporte para Tablet Coche/Soporte Universal de Tablet con Adaptador para Colocar en el Reposacabezas  para Tablets de 7-11 Pulgadas](https://www.amazon.es/dp/B06Y2XSS5C/?tag=tolees-21) con un 40.13 % de descuento con precio de oferta de 8.95 EUR (original: 14.95 EUR) en el siguiente enlace!
 
-[![PRIXTON - Soporte para Tablet Coche/Sopo](https://m.media-amazon.com/images/I/31i6vS8Z5EL._SL200_.jpg)](https://www.amazon.es/dp/B06Y2XSS5C/?tag=tolees-21)
+[![PRIXTON - Soporte para Tablet Coche/Sopo](https://m.media-amazon.com/images/I/31i6vS8Z5EL._SL400_.jpg)](https://www.amazon.es/dp/B06Y2XSS5C/?tag=tolees-21)
 
 ℹ️:
 

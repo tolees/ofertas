@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 28.72 % en Grohe Eurocube- Grifo de Bide de Una Pla'
 date: 2020-09-06 12:26:59
-image: 'https://m.media-amazon.com/images/I/41lc3pCVkzL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41lc3pCVkzL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '119.97'
 
 Tienes [Grohe Eurocube- Grifo de Bide de Una Planca  acabado cromado  5.1 cm  tamaño S  Ref. 23138000 ](https://www.amazon.es/dp/B007QBIWG0/?tag=tolees-21) con un 28.72 % de descuento con precio de oferta de 119.97 EUR (original: 168.31 EUR) en el siguiente enlace!
 
-[![Grohe Eurocube- Grifo de Bide de Una Pla](https://m.media-amazon.com/images/I/41lc3pCVkzL._SL200_.jpg)](https://www.amazon.es/dp/B007QBIWG0/?tag=tolees-21)
+[![Grohe Eurocube- Grifo de Bide de Una Pla](https://m.media-amazon.com/images/I/41lc3pCVkzL._SL400_.jpg)](https://www.amazon.es/dp/B007QBIWG0/?tag=tolees-21)
 
 ℹ️:
 

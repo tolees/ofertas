@@ -2,7 +2,7 @@
 layout: post
 title: 'Mr. Wonderful WOA09056ES - Organizador s al 30.10 % de descuento'
 date: 2020-01-13 13:20:27
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31lAJ-C-OzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31lAJ-C-OzL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.45'
 
 Ahora mismo tienes [Mr. Wonderful WOA09056ES - Organizador semanal en formato libreta](https://www.amazon.es/dp/B07C7YWPDR/?tag=tolees-21) a 10.45 EUR (original: 14.95 EUR) (30.10 %  de descuento) en el siguiente enlace!
 
-[![Mr. Wonderful WOA09056ES - Organizador s](https://images-eu.ssl-images-amazon.com/images/I/31lAJ-C-OzL._SL200_.jpg)](https://www.amazon.es/dp/B07C7YWPDR/?tag=tolees-21)
+[![Mr. Wonderful WOA09056ES - Organizador s](https://images-eu.ssl-images-amazon.com/images/I/31lAJ-C-OzL._SL400_.jpg)](https://www.amazon.es/dp/B07C7YWPDR/?tag=tolees-21)
 
 🔎:
 

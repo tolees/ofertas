@@ -2,7 +2,7 @@
 layout: post
 title: 'Fairy Detergente para Lavavajillas 400 g con un 44.97 % de descuento'
 date: 2020-09-17 15:31:44
-image: 'https://m.media-amazon.com/images/I/51IxJipgRZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51IxJipgRZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.99'
 
 En este momento está [Fairy Detergente para Lavavajillas 400 g](https://www.amazon.es/dp/B0758DDZYD/?tag=tolees-21) a 3.99 EUR (original: 7.25 EUR) (44.97 %  de descuento) en el siguiente enlace!
 
-[![Fairy Detergente para Lavavajillas 400 g](https://m.media-amazon.com/images/I/51IxJipgRZL._SL200_.jpg)](https://www.amazon.es/dp/B0758DDZYD/?tag=tolees-21)
+[![Fairy Detergente para Lavavajillas 400 g](https://m.media-amazon.com/images/I/51IxJipgRZL._SL400_.jpg)](https://www.amazon.es/dp/B0758DDZYD/?tag=tolees-21)
 
 🔎:
 

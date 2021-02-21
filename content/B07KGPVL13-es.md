@@ -2,7 +2,7 @@
 layout: post
 title: 'Buff Laelia Gorra Baseball  Mujer  Pale  con un 54.43 % de descuento'
 date: 2020-04-01 16:33:23
-image: 'https://m.media-amazon.com/images/I/31DmzIxS9hL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31DmzIxS9hL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.99'
 
 En este momento está [Buff Laelia Gorra Baseball  Mujer  Pale Peach  Talla única](https://www.amazon.es/dp/B07KGPVL13/?tag=tolees-21) a 11.37 EUR (original: 24.95 EUR) (54.43 %  de descuento) en el siguiente enlace!
 
-[![Buff Laelia Gorra Baseball  Mujer  Pale ](https://m.media-amazon.com/images/I/31DmzIxS9hL._SL200_.jpg)](https://www.amazon.es/dp/B07KGPVL13/?tag=tolees-21)
+[![Buff Laelia Gorra Baseball  Mujer  Pale ](https://m.media-amazon.com/images/I/31DmzIxS9hL._SL400_.jpg)](https://www.amazon.es/dp/B07KGPVL13/?tag=tolees-21)
 
 🔎:
 

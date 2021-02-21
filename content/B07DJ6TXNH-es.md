@@ -2,7 +2,7 @@
 layout: post
 title: 'New Balance 574S v2  Zapatillas para Muj al 51.43 % de descuento'
 date: 2020-04-24 02:51:36
-image: 'https://m.media-amazon.com/images/I/41TS3zKbbrL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41TS3zKbbrL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '46.230000000000004'
 
 Está [New Balance 574S v2  Zapatillas para Mujer  Rosa Cashmere Tea  39 EU](https://www.amazon.es/dp/B07DJ6TXNH/?tag=tolees-21) con 51.43 de descuento por 48.57 EUR (original: 100.0 EUR) en el siguiente enlace!
 
-[![New Balance 574S v2  Zapatillas para Muj](https://m.media-amazon.com/images/I/41TS3zKbbrL._SL200_.jpg)](https://www.amazon.es/dp/B07DJ6TXNH/?tag=tolees-21)
+[![New Balance 574S v2  Zapatillas para Muj](https://m.media-amazon.com/images/I/41TS3zKbbrL._SL400_.jpg)](https://www.amazon.es/dp/B07DJ6TXNH/?tag=tolees-21)
 
 ℹ️:
 

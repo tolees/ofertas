@@ -2,7 +2,7 @@
 layout: post
 title: 'Kipling Firefly Up  Mochilas para Mujer  con un 61.62 % de descuento'
 date: 2020-08-11 08:32:04
-image: 'https://m.media-amazon.com/images/I/41utg7rK+IL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41utg7rK+IL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '36.46'
 
 En este momento está [Kipling Firefly Up  Mochilas para Mujer  Negro  Carbon Metallic   22x31x14 cm](https://www.amazon.es/dp/B07TTPD8GH/?tag=tolees-21) a 36.46 EUR (original: 95.0 EUR) (61.62 %  de descuento) en el siguiente enlace!
 
-[![Kipling Firefly Up  Mochilas para Mujer ](https://m.media-amazon.com/images/I/41utg7rK+IL._SL200_.jpg)](https://www.amazon.es/dp/B07TTPD8GH/?tag=tolees-21)
+[![Kipling Firefly Up  Mochilas para Mujer ](https://m.media-amazon.com/images/I/41utg7rK+IL._SL400_.jpg)](https://www.amazon.es/dp/B07TTPD8GH/?tag=tolees-21)
 
 🔎:
 

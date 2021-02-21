@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour UA GS Charged Rogue 2  Zapa con un 65.88 % de descuento'
 date: 2020-08-27 17:40:42
-image: 'https://m.media-amazon.com/images/I/412q81x1nAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/412q81x1nAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.87'
 
 En este momento está [Under Armour UA GS Charged Rogue 2  Zapatillas para Correr  Calzado Deportivo de Calidad Unisex Adulto  Negro  Black/Halo Gray/White   40 EU](https://www.amazon.es/dp/B07PYYTV8M/?tag=tolees-21) a 23.87 EUR (original: 69.95 EUR) (65.88 %  de descuento) en el siguiente enlace!
 
-[![Under Armour UA GS Charged Rogue 2  Zapa](https://m.media-amazon.com/images/I/412q81x1nAL._SL200_.jpg)](https://www.amazon.es/dp/B07PYYTV8M/?tag=tolees-21)
+[![Under Armour UA GS Charged Rogue 2  Zapa](https://m.media-amazon.com/images/I/412q81x1nAL._SL400_.jpg)](https://www.amazon.es/dp/B07PYYTV8M/?tag=tolees-21)
 
 🔎:
 

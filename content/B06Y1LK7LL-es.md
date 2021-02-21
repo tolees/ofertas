@@ -2,7 +2,7 @@
 layout: post
 title: 'Soporte de aluminio universal Zice para  al 65.22 % de descuento'
 date: 2020-01-23 19:23:54
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41flivCS4HL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41flivCS4HL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.99'
 
 Ahora mismo tienes [Soporte de aluminio universal Zice para proyector  para techo o pared  capacidad de 5 kg  para cámara o mini proyector](https://www.amazon.es/dp/B06Y1LK7LL/?tag=tolees-21) a 9.99 EUR (original: 28.72 EUR) (65.22 %  de descuento) en el siguiente enlace!
 
-[![Soporte de aluminio universal Zice para ](https://images-eu.ssl-images-amazon.com/images/I/41flivCS4HL._SL200_.jpg)](https://www.amazon.es/dp/B06Y1LK7LL/?tag=tolees-21)
+[![Soporte de aluminio universal Zice para ](https://images-eu.ssl-images-amazon.com/images/I/41flivCS4HL._SL400_.jpg)](https://www.amazon.es/dp/B06Y1LK7LL/?tag=tolees-21)
 
 🔎:
 

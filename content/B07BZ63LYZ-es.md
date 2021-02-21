@@ -2,7 +2,7 @@
 layout: post
 title: 'Sotech - Juego de Herramientas de Pinzas con un 29.29 % de descuento'
 date: 2020-05-08 07:14:58
-image: 'https://m.media-amazon.com/images/I/51Ouy-ZPLQL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Ouy-ZPLQL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.69'
 
 En este momento está [Sotech - Juego de Herramientas de Pinzas de Freno  Kit de Herramientas de Reparación de Frenos  con estuche roja  21 Partes  Material: Acero C45  Tamaño de la caja: 31 x 21 5 x 6 cm](https://www.amazon.es/dp/B07BZ63LYZ/?tag=tolees-21) a 29.69 EUR (original: 41.99 EUR) (29.29 %  de descuento) en el siguiente enlace!
 
-[![Sotech - Juego de Herramientas de Pinzas](https://m.media-amazon.com/images/I/51Ouy-ZPLQL._SL200_.jpg)](https://www.amazon.es/dp/B07BZ63LYZ/?tag=tolees-21)
+[![Sotech - Juego de Herramientas de Pinzas](https://m.media-amazon.com/images/I/51Ouy-ZPLQL._SL400_.jpg)](https://www.amazon.es/dp/B07BZ63LYZ/?tag=tolees-21)
 
 🔎:
 

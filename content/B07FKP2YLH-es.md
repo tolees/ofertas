@@ -2,7 +2,7 @@
 layout: post
 title: 'The Gourmet Collection - Mezcla de espec al 77.86 % de descuento'
 date: 2020-04-16 18:27:02
-image: 'https://m.media-amazon.com/images/I/41pJW4E9PSL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41pJW4E9PSL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.99'
 
 Ahora mismo tienes [The Gourmet Collection - Mezcla de especias - Sazonador de Hierbas para Pasta](https://www.amazon.es/dp/B07FKP2YLH/?tag=tolees-21) a 1.99 EUR (original: 8.99 EUR) (77.86 %  de descuento) en el siguiente enlace!
 
-[![The Gourmet Collection - Mezcla de espec](https://m.media-amazon.com/images/I/41pJW4E9PSL._SL200_.jpg)](https://www.amazon.es/dp/B07FKP2YLH/?tag=tolees-21)
+[![The Gourmet Collection - Mezcla de espec](https://m.media-amazon.com/images/I/41pJW4E9PSL._SL400_.jpg)](https://www.amazon.es/dp/B07FKP2YLH/?tag=tolees-21)
 
 🔎:
 

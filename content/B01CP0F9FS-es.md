@@ -2,7 +2,7 @@
 layout: post
 title: 'Guitarra acústica eléctrico mr500e op al 31.70 % de rebaja'
 date: 2020-01-19 11:01:32
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41ggYBsDuKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ggYBsDuKL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '183.72'
 
 Tienes [Guitarra acústica eléctrico mr500e op](https://www.amazon.es/dp/B01CP0F9FS/?tag=tolees-21) con precio final de  183.72 EUR (original: 269 EUR) (31.70 %  de rebaja) aqui!
 
-[![Guitarra acústica eléctrico mr500e op](https://images-eu.ssl-images-amazon.com/images/I/41ggYBsDuKL._SL200_.jpg)](https://www.amazon.es/dp/B01CP0F9FS/?tag=tolees-21)
+[![Guitarra acústica eléctrico mr500e op](https://images-eu.ssl-images-amazon.com/images/I/41ggYBsDuKL._SL400_.jpg)](https://www.amazon.es/dp/B01CP0F9FS/?tag=tolees-21)
 
 🔎:
 

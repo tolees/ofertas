@@ -2,7 +2,7 @@
 layout: post
 title: 'Columbia Backpedal Clime Outdry  Zapatil al 34.64 % de descuento'
 date: 2020-05-26 19:02:46
-image: 'https://m.media-amazon.com/images/I/41ZzQ2BV0yL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ZzQ2BV0yL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '71.89'
 
 Ahora mismo tienes [Columbia Backpedal Clime Outdry  Zapatillas de Cross para Mujer  Negro  Shark  011   39 EU](https://www.amazon.es/dp/B07KK3Z7PR/?tag=tolees-21) a 71.89 EUR (original: 109.99 EUR) (34.64 %  de descuento) en el siguiente enlace!
 
-[![Columbia Backpedal Clime Outdry  Zapatil](https://m.media-amazon.com/images/I/41ZzQ2BV0yL._SL200_.jpg)](https://www.amazon.es/dp/B07KK3Z7PR/?tag=tolees-21)
+[![Columbia Backpedal Clime Outdry  Zapatil](https://m.media-amazon.com/images/I/41ZzQ2BV0yL._SL400_.jpg)](https://www.amazon.es/dp/B07KK3Z7PR/?tag=tolees-21)
 
 🔎:
 

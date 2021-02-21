@@ -2,7 +2,7 @@
 layout: post
 title: 'Cif - Crema de limpieza - 750 ml - [Pack al 28.80 % de descuento'
 date: 2020-03-30 23:33:46
-image: 'https://m.media-amazon.com/images/I/41T0Ir8J-FL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41T0Ir8J-FL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.926666666666668'
 
 Ahora mismo tienes [Cif - Crema de limpieza - 750 ml - [Pack de 7]](https://www.amazon.es/dp/B01M7SF67S/?tag=tolees-21) a 12.46 EUR (original: 17.5 EUR) (28.80 %  de descuento) en el siguiente enlace!
 
-[![Cif - Crema de limpieza - 750 ml - [Pack](https://m.media-amazon.com/images/I/41T0Ir8J-FL._SL200_.jpg)](https://www.amazon.es/dp/B01M7SF67S/?tag=tolees-21)
+[![Cif - Crema de limpieza - 750 ml - [Pack](https://m.media-amazon.com/images/I/41T0Ir8J-FL._SL400_.jpg)](https://www.amazon.es/dp/B01M7SF67S/?tag=tolees-21)
 
 🔎:
 

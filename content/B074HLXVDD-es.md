@@ -2,7 +2,7 @@
 layout: post
 title: 'Funko Pop!- 21804 NBA: Kevin Durant  Mul al 46.63 % de rebaja'
 date: 2020-08-19 17:50:22
-image: 'https://m.media-amazon.com/images/I/41x5bCvSGRL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41x5bCvSGRL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.0'
 
 Tienes [Funko Pop!- 21804 NBA: Kevin Durant  Multicolor](https://www.amazon.es/dp/B074HLXVDD/?tag=tolees-21) con precio final de  8.0 EUR (original: 14.99 EUR) (46.63 %  de rebaja) aqui!
 
-[![Funko Pop!- 21804 NBA: Kevin Durant  Mul](https://m.media-amazon.com/images/I/41x5bCvSGRL._SL200_.jpg)](https://www.amazon.es/dp/B074HLXVDD/?tag=tolees-21)
+[![Funko Pop!- 21804 NBA: Kevin Durant  Mul](https://m.media-amazon.com/images/I/41x5bCvSGRL._SL400_.jpg)](https://www.amazon.es/dp/B074HLXVDD/?tag=tolees-21)
 
 🔎:
 

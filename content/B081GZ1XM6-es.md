@@ -2,7 +2,7 @@
 layout: post
 title: 'int!rend Caja de Regalo | Caja de Sorpre al 25.13 % de descuento'
 date: 2020-06-06 12:49:12
-image: 'https://m.media-amazon.com/images/I/510heNXRWXL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/510heNXRWXL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.9'
 
 Está [int!rend Caja de Regalo | Caja de Sorpresa Personalizada  5 Plantillas con Diferentes Temas  Fotos para cumpleaños  Boda  San Valentín  álbum de Fotos Creativo para Novia o Novio - Bricolaje](https://www.amazon.es/dp/B081GZ1XM6/?tag=tolees-21) con 25.13 de descuento por 14.9 EUR (original: 19.9 EUR) en el siguiente enlace!
 
-[![int!rend Caja de Regalo | Caja de Sorpre](https://m.media-amazon.com/images/I/510heNXRWXL._SL200_.jpg)](https://www.amazon.es/dp/B081GZ1XM6/?tag=tolees-21)
+[![int!rend Caja de Regalo | Caja de Sorpre](https://m.media-amazon.com/images/I/510heNXRWXL._SL400_.jpg)](https://www.amazon.es/dp/B081GZ1XM6/?tag=tolees-21)
 
 ℹ️:
 

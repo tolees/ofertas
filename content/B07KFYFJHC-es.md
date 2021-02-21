@@ -2,7 +2,7 @@
 layout: post
 title: 'PUMA Auriz V Jr  Zapatillas de Balonmano al 36.45 % de descuento'
 date: 2020-04-03 23:01:46
-image: 'https://m.media-amazon.com/images/I/31R6R+XpkzL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31R6R+XpkzL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.91'
 
 Ahora mismo tienes [PUMA Auriz V Jr  Zapatillas de Balonmano Unisex Niños  White-Green Glimmer  38 EU](https://www.amazon.es/dp/B07KFYFJHC/?tag=tolees-21) a 8.91 EUR (original: 14.02 EUR) (36.45 %  de descuento) en el siguiente enlace!
 
-[![PUMA Auriz V Jr  Zapatillas de Balonmano](https://m.media-amazon.com/images/I/31R6R+XpkzL._SL200_.jpg)](https://www.amazon.es/dp/B07KFYFJHC/?tag=tolees-21)
+[![PUMA Auriz V Jr  Zapatillas de Balonmano](https://m.media-amazon.com/images/I/31R6R+XpkzL._SL400_.jpg)](https://www.amazon.es/dp/B07KFYFJHC/?tag=tolees-21)
 
 🔎:
 

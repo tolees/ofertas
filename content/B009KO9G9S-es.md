@@ -2,7 +2,7 @@
 layout: post
 title: 'Joma Champion II - Polo para Hombre  Col al 51.20 % de rebaja'
 date: 2020-07-17 04:48:29
-image: 'https://m.media-amazon.com/images/I/418ojk7l3TL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/418ojk7l3TL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.21'
 
 Tienes [Joma Champion II - Polo para Hombre  Color Rojo/Negro  Talla S](https://www.amazon.es/dp/B009KO9G9S/?tag=tolees-21) con precio final de  8.98 EUR (original: 18.4 EUR) (51.20 %  de rebaja) aqui!
 
-[![Joma Champion II - Polo para Hombre  Col](https://m.media-amazon.com/images/I/418ojk7l3TL._SL200_.jpg)](https://www.amazon.es/dp/B009KO9G9S/?tag=tolees-21)
+[![Joma Champion II - Polo para Hombre  Col](https://m.media-amazon.com/images/I/418ojk7l3TL._SL400_.jpg)](https://www.amazon.es/dp/B009KO9G9S/?tag=tolees-21)
 
 🔎:
 

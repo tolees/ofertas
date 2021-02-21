@@ -2,7 +2,7 @@
 layout: post
 title: 'Shadows Awakening con un 63.99 % de descuento'
 date: 2020-03-09 17:36:01
-image: 'https://m.media-amazon.com/images/I/61zJwQ+dHzL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61zJwQ+dHzL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.0'
 
 En este momento está [Shadows Awakening](https://www.amazon.es/dp/B07FRX55V3/?tag=tolees-21) a 18.0 EUR (original: 49.99 EUR) (63.99 %  de descuento) en el siguiente enlace!
 
-[![Shadows Awakening](https://m.media-amazon.com/images/I/61zJwQ+dHzL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07FRX55V3/?tag=tolees-21)
+[![Shadows Awakening](https://m.media-amazon.com/images/I/61zJwQ+dHzL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07FRX55V3/?tag=tolees-21)
 
 🔎:
 

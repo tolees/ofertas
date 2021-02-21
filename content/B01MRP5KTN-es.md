@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 36.97 % en Guess W0911L1  Reloj de pulsera para muj'
 date: 2020-09-17 04:11:05
-image: 'https://m.media-amazon.com/images/I/31x5bAM9plL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31x5bAM9plL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '62.395999999999994'
 
 Tienes [Guess W0911L1  Reloj de pulsera para mujer  Blanco](https://www.amazon.es/dp/B01MRP5KTN/?tag=tolees-21) con un 36.97 % de descuento con precio de oferta de 62.4 EUR (original: 99.0 EUR) en el siguiente enlace!
 
-[![Guess W0911L1  Reloj de pulsera para muj](https://m.media-amazon.com/images/I/31x5bAM9plL._SL200_.jpg)](https://www.amazon.es/dp/B01MRP5KTN/?tag=tolees-21)
+[![Guess W0911L1  Reloj de pulsera para muj](https://m.media-amazon.com/images/I/31x5bAM9plL._SL400_.jpg)](https://www.amazon.es/dp/B01MRP5KTN/?tag=tolees-21)
 
 ℹ️:
 

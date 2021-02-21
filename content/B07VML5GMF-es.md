@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 53.85 % en Reloj - LIGE - para - LG9852'
 date: 2020-04-19 11:04:29
-image: 'https://m.media-amazon.com/images/I/51gXsOHZTqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51gXsOHZTqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.99'
 
 Tienes [Reloj - LIGE - para - LG9852](https://www.amazon.es/dp/B07VML5GMF/?tag=tolees-21) con un 53.85 % de descuento con precio de oferta de 29.99 EUR (original: 64.99 EUR) en el siguiente enlace!
 
-[![Reloj - LIGE - para - LG9852](https://m.media-amazon.com/images/I/51gXsOHZTqL._SL200_.jpg)](https://www.amazon.es/dp/B07VML5GMF/?tag=tolees-21)
+[![Reloj - LIGE - para - LG9852](https://m.media-amazon.com/images/I/51gXsOHZTqL._SL400_.jpg)](https://www.amazon.es/dp/B07VML5GMF/?tag=tolees-21)
 
 ℹ️:
 

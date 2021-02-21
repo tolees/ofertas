@@ -2,7 +2,7 @@
 layout: post
 title: 'AYIYO - Pantalones cortos de algodón y l con un 41.72 % de descuento'
 date: 2020-08-04 15:45:27
-image: 'https://m.media-amazon.com/images/I/31GXuZcxXML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31GXuZcxXML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.9'
 
 En este momento está [AYIYO - Pantalones cortos de algodón y lino  para bebés de 0 a 3 años Blanco Helado 2-3 Años](https://www.amazon.es/dp/B08CDDYBZK/?tag=tolees-21) a 8.9 EUR (original: 15.27 EUR) (41.72 %  de descuento) en el siguiente enlace!
 
-[![AYIYO - Pantalones cortos de algodón y l](https://m.media-amazon.com/images/I/31GXuZcxXML._SL200_.jpg)](https://www.amazon.es/dp/B08CDDYBZK/?tag=tolees-21)
+[![AYIYO - Pantalones cortos de algodón y l](https://m.media-amazon.com/images/I/31GXuZcxXML._SL400_.jpg)](https://www.amazon.es/dp/B08CDDYBZK/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 33.33 % en Rimmel London Moisture Renew Barra De La'
 date: 2020-08-12 13:18:16
-image: 'https://m.media-amazon.com/images/I/31EB6i42YtL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31EB6i42YtL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.6799999999999997'
 
 Tienes [Rimmel London Moisture Renew Barra De Labios Tono 200 Latino - 19 gr](https://www.amazon.es/dp/B00GB0HJUM/?tag=tolees-21) con un 33.33 % de descuento con precio de oferta de 4.0 EUR (original: 6.0 EUR) en el siguiente enlace!
 
-[![Rimmel London Moisture Renew Barra De La](https://m.media-amazon.com/images/I/31EB6i42YtL._SL200_.jpg)](https://www.amazon.es/dp/B00GB0HJUM/?tag=tolees-21)
+[![Rimmel London Moisture Renew Barra De La](https://m.media-amazon.com/images/I/31EB6i42YtL._SL400_.jpg)](https://www.amazon.es/dp/B00GB0HJUM/?tag=tolees-21)
 
 ℹ️:
 

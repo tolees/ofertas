@@ -2,7 +2,7 @@
 layout: post
 title: 'Mr. Wonderful WOA09851ES  Calendario de  al 49.96 % de rebaja'
 date: 2020-08-24 15:58:48
-image: 'https://m.media-amazon.com/images/I/41m5HCF+sOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41m5HCF+sOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.4270000000000005'
 
 Tienes [Mr. Wonderful WOA09851ES  Calendario de Sobremesa 2020  Talla Única  Multicolor](https://www.amazon.es/dp/B07SRF34BC/?tag=tolees-21) con precio final de  6.48 EUR (original: 12.95 EUR) (49.96 %  de rebaja) aqui!
 
-[![Mr. Wonderful WOA09851ES  Calendario de ](https://m.media-amazon.com/images/I/41m5HCF+sOL._SL200_.jpg)](https://www.amazon.es/dp/B07SRF34BC/?tag=tolees-21)
+[![Mr. Wonderful WOA09851ES  Calendario de ](https://m.media-amazon.com/images/I/41m5HCF+sOL._SL400_.jpg)](https://www.amazon.es/dp/B07SRF34BC/?tag=tolees-21)
 
 🔎:
 

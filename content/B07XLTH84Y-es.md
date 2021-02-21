@@ -2,7 +2,7 @@
 layout: post
 title: 'Old Spice Citron Antitranspirante y Deso al 68.25 % de rebaja'
 date: 2020-05-25 19:08:09
-image: 'https://m.media-amazon.com/images/I/41Vb0l4a8BL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Vb0l4a8BL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.0'
 
 Tienes [Old Spice Citron Antitranspirante y Desodorante en Barra para Hombres - 50 ml](https://www.amazon.es/dp/B07XLTH84Y/?tag=tolees-21) con precio final de  1.0 EUR (original: 3.15 EUR) (68.25 %  de rebaja) aqui!
 
-[![Old Spice Citron Antitranspirante y Deso](https://m.media-amazon.com/images/I/41Vb0l4a8BL._SL200_.jpg)](https://www.amazon.es/dp/B07XLTH84Y/?tag=tolees-21)
+[![Old Spice Citron Antitranspirante y Deso](https://m.media-amazon.com/images/I/41Vb0l4a8BL._SL400_.jpg)](https://www.amazon.es/dp/B07XLTH84Y/?tag=tolees-21)
 
 🔎:
 

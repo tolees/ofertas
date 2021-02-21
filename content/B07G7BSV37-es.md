@@ -2,7 +2,7 @@
 layout: post
 title: 'Manta de muselina para bebé  suave musel al 41.70 % de descuento'
 date: 2020-04-21 09:03:59
-image: 'https://m.media-amazon.com/images/I/51dvrfRisyL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51dvrfRisyL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.99'
 
 Ahora mismo tienes [Manta de muselina para bebé  suave muselina de algodón para niños o niñas  regalo de baby shower Batman Mask](https://www.amazon.es/dp/B07G7BSV37/?tag=tolees-21) a 6.99 EUR (original: 11.99 EUR) (41.70 %  de descuento) en el siguiente enlace!
 
-[![Manta de muselina para bebé  suave musel](https://m.media-amazon.com/images/I/51dvrfRisyL._SL200_.jpg)](https://www.amazon.es/dp/B07G7BSV37/?tag=tolees-21)
+[![Manta de muselina para bebé  suave musel](https://m.media-amazon.com/images/I/51dvrfRisyL._SL400_.jpg)](https://www.amazon.es/dp/B07G7BSV37/?tag=tolees-21)
 
 🔎:
 

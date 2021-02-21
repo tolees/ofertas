@@ -2,7 +2,7 @@
 layout: post
 title: 'Frcolor 3D Slices Nails Art Stickers Rue al 48.18 % de descuento'
 date: 2020-04-16 00:02:15
-image: 'https://m.media-amazon.com/images/I/51MZPz5OlLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51MZPz5OlLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.99'
 
 Está [Frcolor 3D Slices Nails Art Stickers Rueda de arcilla polimérica Nail Art Slice para DIY Slime Crafts Phone Case Scrapbook Decor Color al azar ](https://www.amazon.es/dp/B07L4VVZF1/?tag=tolees-21) con 48.18 de descuento por 1.99 EUR (original: 3.84 EUR) en el siguiente enlace!
 
-[![Frcolor 3D Slices Nails Art Stickers Rue](https://m.media-amazon.com/images/I/51MZPz5OlLL._SL200_.jpg)](https://www.amazon.es/dp/B07L4VVZF1/?tag=tolees-21)
+[![Frcolor 3D Slices Nails Art Stickers Rue](https://m.media-amazon.com/images/I/51MZPz5OlLL._SL400_.jpg)](https://www.amazon.es/dp/B07L4VVZF1/?tag=tolees-21)
 
 ℹ️:
 

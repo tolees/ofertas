@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 62.22 % en 1x2 AgfaPhoto Akku NiMh Micro AAA 900 mA'
 date: 2020-10-07 21:43:12
-image: 'https://m.media-amazon.com/images/I/51t2pPTONFL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51t2pPTONFL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.87'
 
 Tienes [1x2 AgfaPhoto Akku NiMh Micro AAA 900 mAh](https://www.amazon.es/dp/B000WFFXXC/?tag=tolees-21) con un 62.22 % de descuento con precio de oferta de 1.87 EUR (original: 4.95 EUR) en el siguiente enlace!
 
-[![1x2 AgfaPhoto Akku NiMh Micro AAA 900 mA](https://m.media-amazon.com/images/I/51t2pPTONFL._SL200_.jpg)](https://www.amazon.es/dp/B000WFFXXC/?tag=tolees-21)
+[![1x2 AgfaPhoto Akku NiMh Micro AAA 900 mA](https://m.media-amazon.com/images/I/51t2pPTONFL._SL400_.jpg)](https://www.amazon.es/dp/B000WFFXXC/?tag=tolees-21)
 
 ℹ️:
 

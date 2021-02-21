@@ -2,7 +2,7 @@
 layout: post
 title: 'Pepe Jeans Rick suéter  Gris  Light Grey con un 58.12 % de descuento'
 date: 2020-03-18 12:44:59
-image: 'https://m.media-amazon.com/images/I/31vvcu8kA1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31vvcu8kA1L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '31.41'
 
 En este momento está [Pepe Jeans Rick suéter  Gris  Light Grey Marl 913   Talla única  Talla del Fabricante: Small  para Hombre](https://www.amazon.es/dp/B07RT888HJ/?tag=tolees-21) a 31.41 EUR (original: 75.0 EUR) (58.12 %  de descuento) en el siguiente enlace!
 
-[![Pepe Jeans Rick suéter  Gris  Light Grey](https://m.media-amazon.com/images/I/31vvcu8kA1L._SL200_.jpg)](https://www.amazon.es/dp/B07RT888HJ/?tag=tolees-21)
+[![Pepe Jeans Rick suéter  Gris  Light Grey](https://m.media-amazon.com/images/I/31vvcu8kA1L._SL400_.jpg)](https://www.amazon.es/dp/B07RT888HJ/?tag=tolees-21)
 
 🔎:
 

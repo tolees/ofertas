@@ -2,7 +2,7 @@
 layout: post
 title: 'Maybelline New York - Superstay 7 Días   al 91.92 % de rebaja'
 date: 2020-08-08 07:25:30
-image: 'https://m.media-amazon.com/images/I/41s5Kr2Gl4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41s5Kr2Gl4L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.1'
 
 Tienes [Maybelline New York - Superstay 7 Días  Esmalte de Uñas Efecto Gel  Tono 255 Mauve On](https://www.amazon.es/dp/B00X9XEYQQ/?tag=tolees-21) con precio final de  2.1 EUR (original: 25.98 EUR) (91.92 %  de rebaja) aqui!
 
-[![Maybelline New York - Superstay 7 Días  ](https://m.media-amazon.com/images/I/41s5Kr2Gl4L._SL200_.jpg)](https://www.amazon.es/dp/B00X9XEYQQ/?tag=tolees-21)
+[![Maybelline New York - Superstay 7 Días  ](https://m.media-amazon.com/images/I/41s5Kr2Gl4L._SL400_.jpg)](https://www.amazon.es/dp/B00X9XEYQQ/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Rust-Oleum 4081303 Pintura  Grafito  750 al 34.43 % de rebaja'
 date: 2020-05-12 13:26:03
-image: 'https://m.media-amazon.com/images/I/51ASdf3p3RL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51ASdf3p3RL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.99'
 
 Tienes [Rust-Oleum 4081303 Pintura  Grafito  750 ml](https://www.amazon.es/dp/B015NKPVL4/?tag=tolees-21) con precio final de  12.99 EUR (original: 19.81 EUR) (34.43 %  de rebaja) aqui!
 
-[![Rust-Oleum 4081303 Pintura  Grafito  750](https://m.media-amazon.com/images/I/51ASdf3p3RL._SL200_.jpg)](https://www.amazon.es/dp/B015NKPVL4/?tag=tolees-21)
+[![Rust-Oleum 4081303 Pintura  Grafito  750](https://m.media-amazon.com/images/I/51ASdf3p3RL._SL400_.jpg)](https://www.amazon.es/dp/B015NKPVL4/?tag=tolees-21)
 
 🔎:
 

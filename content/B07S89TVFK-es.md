@@ -2,7 +2,7 @@
 layout: post
 title: 'Lee Belt Cinturón  Negro  Black 01   85  al 76.40 % de rebaja'
 date: 2020-08-09 19:16:28
-image: 'https://m.media-amazon.com/images/I/31YicYS6OhL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31YicYS6OhL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.79'
 
 Tienes [Lee Belt Cinturón  Negro  Black 01   85 para Hombre](https://www.amazon.es/dp/B07S89TVFK/?tag=tolees-21) con precio final de  11.79 EUR (original: 49.95 EUR) (76.40 %  de rebaja) aqui!
 
-[![Lee Belt Cinturón  Negro  Black 01   85 ](https://m.media-amazon.com/images/I/31YicYS6OhL._SL200_.jpg)](https://www.amazon.es/dp/B07S89TVFK/?tag=tolees-21)
+[![Lee Belt Cinturón  Negro  Black 01   85 ](https://m.media-amazon.com/images/I/31YicYS6OhL._SL400_.jpg)](https://www.amazon.es/dp/B07S89TVFK/?tag=tolees-21)
 
 🔎:
 

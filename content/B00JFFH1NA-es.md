@@ -2,7 +2,7 @@
 layout: post
 title: 'NK Tostadora Darth Vader 2 rebanadas al 33.32 % de descuento'
 date: 2020-05-10 19:46:10
-image: 'https://m.media-amazon.com/images/I/41mrzaRn05L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41mrzaRn05L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '46.57714285714286'
 
 Está [NK Tostadora Darth Vader 2 rebanadas](https://www.amazon.es/dp/B00JFFH1NA/?tag=tolees-21) con 33.32 de descuento por 42.0 EUR (original: 62.99 EUR) en el siguiente enlace!
 
-[![NK Tostadora Darth Vader 2 rebanadas](https://m.media-amazon.com/images/I/41mrzaRn05L._SL200_.jpg)](https://www.amazon.es/dp/B00JFFH1NA/?tag=tolees-21)
+[![NK Tostadora Darth Vader 2 rebanadas](https://m.media-amazon.com/images/I/41mrzaRn05L._SL400_.jpg)](https://www.amazon.es/dp/B00JFFH1NA/?tag=tolees-21)
 
 ℹ️:
 

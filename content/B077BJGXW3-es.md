@@ -2,7 +2,7 @@
 layout: post
 title: 'Hollywood Star Fashion - Camisas - Sin M con un 72.21 % de descuento'
 date: 2020-02-02 00:01:39
-image: 'https://m.media-amazon.com/images/I/41P4W7aYmFL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41P4W7aYmFL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.99'
 
 En este momento está [Hollywood Star Fashion - Camisas - Sin Mangas - para Mujer Amarillo Amarillo Large](https://www.amazon.es/dp/B077BJGXW3/?tag=tolees-21) a 3.99 EUR (original: 14.36 EUR) (72.21 %  de descuento) en el siguiente enlace!
 
-[![Hollywood Star Fashion - Camisas - Sin M](https://m.media-amazon.com/images/I/41P4W7aYmFL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B077BJGXW3/?tag=tolees-21)
+[![Hollywood Star Fashion - Camisas - Sin M](https://m.media-amazon.com/images/I/41P4W7aYmFL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B077BJGXW3/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Volcom Lido Trunks 16" Boardshorts  Homb al 55.58 % de rebaja'
 date: 2020-03-10 21:50:10
-image: 'https://m.media-amazon.com/images/I/31d1dHm6XdL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31d1dHm6XdL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.28'
 
 Tienes [Volcom Lido Trunks 16" Boardshorts  Hombre  Neon Green  M](https://www.amazon.es/dp/B0759LH9HC/?tag=tolees-21) con precio final de  19.99 EUR (original: 45.0 EUR) (55.58 %  de rebaja) aqui!
 
-[![Volcom Lido Trunks 16" Boardshorts  Homb](https://m.media-amazon.com/images/I/31d1dHm6XdL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B0759LH9HC/?tag=tolees-21)
+[![Volcom Lido Trunks 16" Boardshorts  Homb](https://m.media-amazon.com/images/I/31d1dHm6XdL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B0759LH9HC/?tag=tolees-21)
 
 🔎:
 

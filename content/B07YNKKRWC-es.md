@@ -2,7 +2,7 @@
 layout: post
 title: 'RLTech Funda Carcasa para Teclast P80X   al 70.12 % de descuento'
 date: 2020-06-09 07:39:53
-image: 'https://m.media-amazon.com/images/I/51RIOQQKmxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51RIOQQKmxL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.95'
 
 Ahora mismo tienes [RLTech Funda Carcasa para Teclast P80X  Slim Smart Carcasa Protectora con Soporte Función Cover Case para Teclast P80X 8 Pulgadas  Azul](https://www.amazon.es/dp/B07YNKKRWC/?tag=tolees-21) a 8.95 EUR (original: 29.95 EUR) (70.12 %  de descuento) en el siguiente enlace!
 
-[![RLTech Funda Carcasa para Teclast P80X  ](https://m.media-amazon.com/images/I/51RIOQQKmxL._SL200_.jpg)](https://www.amazon.es/dp/B07YNKKRWC/?tag=tolees-21)
+[![RLTech Funda Carcasa para Teclast P80X  ](https://m.media-amazon.com/images/I/51RIOQQKmxL._SL400_.jpg)](https://www.amazon.es/dp/B07YNKKRWC/?tag=tolees-21)
 
 🔎:
 

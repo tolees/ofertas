@@ -2,7 +2,7 @@
 layout: post
 title: 'Craft Sweatshirt Femme Emotion Crew con un 47.23 % de descuento'
 date: 2020-04-11 16:41:02
-image: 'https://m.media-amazon.com/images/I/31yYU0T6MSL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31yYU0T6MSL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '28.49'
 
 En este momento está [Craft Sweatshirt Femme Emotion Crew](https://www.amazon.es/dp/B07G9M8LB3/?tag=tolees-21) a 28.49 EUR (original: 53.99 EUR) (47.23 %  de descuento) en el siguiente enlace!
 
-[![Craft Sweatshirt Femme Emotion Crew](https://m.media-amazon.com/images/I/31yYU0T6MSL._SL200_.jpg)](https://www.amazon.es/dp/B07G9M8LB3/?tag=tolees-21)
+[![Craft Sweatshirt Femme Emotion Crew](https://m.media-amazon.com/images/I/31yYU0T6MSL._SL400_.jpg)](https://www.amazon.es/dp/B07G9M8LB3/?tag=tolees-21)
 
 🔎:
 

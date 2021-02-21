@@ -2,7 +2,7 @@
 layout: post
 title: 'Juego de 10 brochas de maquillaje de cer al 49.64 % de descuento'
 date: 2020-08-21 16:00:41
-image: 'https://m.media-amazon.com/images/I/41nenEMQlwL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41nenEMQlwL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.99'
 
 Está [Juego de 10 brochas de maquillaje de cerdas sintéticas de primera calidad para base de maquillaje  correctores en polvo  sombras de ojos  brochas de maquillaje profesional  dorado champán ](https://www.amazon.es/dp/B085WR6M6P/?tag=tolees-21) con 49.64 de descuento por 6.99 EUR (original: 13.88 EUR) en el siguiente enlace!
 
-[![Juego de 10 brochas de maquillaje de cer](https://m.media-amazon.com/images/I/41nenEMQlwL._SL200_.jpg)](https://www.amazon.es/dp/B085WR6M6P/?tag=tolees-21)
+[![Juego de 10 brochas de maquillaje de cer](https://m.media-amazon.com/images/I/41nenEMQlwL._SL400_.jpg)](https://www.amazon.es/dp/B085WR6M6P/?tag=tolees-21)
 
 ℹ️:
 

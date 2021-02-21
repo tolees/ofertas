@@ -2,7 +2,7 @@
 layout: post
 title: 'FIND - Effortless Look  Perfilador de la con un 38.22 % de descuento'
 date: 2020-04-05 12:24:19
-image: 'https://m.media-amazon.com/images/I/3191RZdf6FL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/3191RZdf6FL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.78'
 
 En este momento está [FIND - Effortless Look  Perfilador de labios n.1 + Líquido de labios brillante n.1 ](https://www.amazon.es/dp/B07CTN8RTL/?tag=tolees-21) a 2.78 EUR (original: 4.5 EUR) (38.22 %  de descuento) en el siguiente enlace!
 
-[![FIND - Effortless Look  Perfilador de la](https://m.media-amazon.com/images/I/3191RZdf6FL._SL200_.jpg)](https://www.amazon.es/dp/B07CTN8RTL/?tag=tolees-21)
+[![FIND - Effortless Look  Perfilador de la](https://m.media-amazon.com/images/I/3191RZdf6FL._SL400_.jpg)](https://www.amazon.es/dp/B07CTN8RTL/?tag=tolees-21)
 
 🔎:
 

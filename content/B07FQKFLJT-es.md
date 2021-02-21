@@ -2,7 +2,7 @@
 layout: post
 title: 'Kindle  ahora con luz frontal integrada  al 27.78 % de descuento'
 date: 2020-08-11 12:24:13
-image: 'https://m.media-amazon.com/images/I/41mUGDTdUjL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41mUGDTdUjL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '72.49'
 
 Ahora mismo tienes [Kindle  ahora con luz frontal integrada  blanco](https://www.amazon.es/dp/B07FQKFLJT/?tag=tolees-21) a 64.99 EUR (original: 89.99 EUR) (27.78 %  de descuento) en el siguiente enlace!
 
-[![Kindle  ahora con luz frontal integrada ](https://m.media-amazon.com/images/I/41mUGDTdUjL._SL200_.jpg)](https://www.amazon.es/dp/B07FQKFLJT/?tag=tolees-21)
+[![Kindle  ahora con luz frontal integrada ](https://m.media-amazon.com/images/I/41mUGDTdUjL._SL400_.jpg)](https://www.amazon.es/dp/B07FQKFLJT/?tag=tolees-21)
 
 🔎:
 

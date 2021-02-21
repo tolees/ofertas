@@ -2,7 +2,7 @@
 layout: post
 title: 'One Punch Man - Pack de 6 chapas  Talla  al 33.33 % de descuento'
 date: 2020-10-03 10:39:54
-image: 'https://m.media-amazon.com/images/I/41aX6V2Q0rL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41aX6V2Q0rL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.2'
 
 Ahora mismo tienes [One Punch Man - Pack de 6 chapas  Talla Única   Multicolor ](https://www.amazon.es/dp/B07VVLTLLC/?tag=tolees-21) a 3.2 EUR (original: 4.8 EUR) (33.33 %  de descuento) en el siguiente enlace!
 
-[![One Punch Man - Pack de 6 chapas  Talla ](https://m.media-amazon.com/images/I/41aX6V2Q0rL._SL200_.jpg)](https://www.amazon.es/dp/B07VVLTLLC/?tag=tolees-21)
+[![One Punch Man - Pack de 6 chapas  Talla ](https://m.media-amazon.com/images/I/41aX6V2Q0rL._SL400_.jpg)](https://www.amazon.es/dp/B07VVLTLLC/?tag=tolees-21)
 
 🔎:
 

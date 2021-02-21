@@ -2,7 +2,7 @@
 layout: post
 title: 'JACK & JONES Jorflash Crew Neck suéter   con un 50.02 % de descuento'
 date: 2020-01-12 12:10:15
-image: 'https://images-eu.ssl-images-amazon.com/images/I/416dAZWgdZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416dAZWgdZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.99'
 
 En este momento está [JACK & JONES Jorflash Crew Neck suéter  Azul  Sea Mossno Badge Knit Fit   Large para Hombre](https://www.amazon.es/dp/B07VRB2C3L/?tag=tolees-21) a 14.99 EUR (original: 29.99 EUR) (50.02 %  de descuento) en el siguiente enlace!
 
-[![JACK & JONES Jorflash Crew Neck suéter  ](https://images-eu.ssl-images-amazon.com/images/I/416dAZWgdZL._SL200_.jpg)](https://www.amazon.es/dp/B07VRB2C3L/?tag=tolees-21)
+[![JACK & JONES Jorflash Crew Neck suéter  ](https://images-eu.ssl-images-amazon.com/images/I/416dAZWgdZL._SL400_.jpg)](https://www.amazon.es/dp/B07VRB2C3L/?tag=tolees-21)
 
 🔎:
 

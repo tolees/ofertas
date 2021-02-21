@@ -2,7 +2,7 @@
 layout: post
 title: 'MOSNOVO [Transparente Funda iPhone XR co al 56.69 % de rebaja'
 date: 2020-08-27 13:45:43
-image: 'https://m.media-amazon.com/images/I/511P2CtZZKL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/511P2CtZZKL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.99'
 
 Tienes [MOSNOVO [Transparente Funda iPhone XR con Absorción de Choque Resistente para Apple iPhone XR [Sushi]](https://www.amazon.es/dp/B07K8HWPZ9/?tag=tolees-21) con precio final de  12.99 EUR (original: 29.99 EUR) (56.69 %  de rebaja) aqui!
 
-[![MOSNOVO [Transparente Funda iPhone XR co](https://m.media-amazon.com/images/I/511P2CtZZKL._SL200_.jpg)](https://www.amazon.es/dp/B07K8HWPZ9/?tag=tolees-21)
+[![MOSNOVO [Transparente Funda iPhone XR co](https://m.media-amazon.com/images/I/511P2CtZZKL._SL400_.jpg)](https://www.amazon.es/dp/B07K8HWPZ9/?tag=tolees-21)
 
 🔎:
 

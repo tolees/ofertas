@@ -2,7 +2,7 @@
 layout: post
 title: 'JACK & JONES Jjeholmen Sweat Hood Noos C con un 40.02 % de descuento'
 date: 2020-01-31 14:00:29
-image: 'https://m.media-amazon.com/images/I/41DFsWXyDTL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41DFsWXyDTL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.99'
 
 En este momento está [JACK & JONES Jjeholmen Sweat Hood Noos Capucha  Azul  Navy Blazer Reg Fit   Small para Hombre](https://www.amazon.es/dp/B07CFH488S/?tag=tolees-21) a 14.99 EUR (original: 24.99 EUR) (40.02 %  de descuento) en el siguiente enlace!
 
-[![JACK & JONES Jjeholmen Sweat Hood Noos C](https://m.media-amazon.com/images/I/41DFsWXyDTL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07CFH488S/?tag=tolees-21)
+[![JACK & JONES Jjeholmen Sweat Hood Noos C](https://m.media-amazon.com/images/I/41DFsWXyDTL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07CFH488S/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Utawarerumono: Mask Of Deception al 42.01 % de descuento'
 date: 2020-05-07 18:32:05
-image: 'https://m.media-amazon.com/images/I/51MdudlZdaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51MdudlZdaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '28.837999999999997'
 
 Ahora mismo tienes [Utawarerumono: Mask Of Deception](https://www.amazon.es/dp/B01NAWAV7L/?tag=tolees-21) a 28.99 EUR (original: 49.99 EUR) (42.01 %  de descuento) en el siguiente enlace!
 
-[![Utawarerumono: Mask Of Deception](https://m.media-amazon.com/images/I/51MdudlZdaL._SL200_.jpg)](https://www.amazon.es/dp/B01NAWAV7L/?tag=tolees-21)
+[![Utawarerumono: Mask Of Deception](https://m.media-amazon.com/images/I/51MdudlZdaL._SL400_.jpg)](https://www.amazon.es/dp/B01NAWAV7L/?tag=tolees-21)
 
 🔎:
 

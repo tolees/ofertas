@@ -2,7 +2,7 @@
 layout: post
 title: 'XINFULUK Cable USB 2.0 Am-TO-BM de Alta  al 33.60 % de rebaja'
 date: 2020-09-11 12:57:56
-image: 'https://m.media-amazon.com/images/I/41v+tPpYUqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41v+tPpYUqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.66'
 
 Tienes [XINFULUK Cable USB 2.0 Am-TO-BM de Alta Velocidad  Cable A a B Largo  Negro  blindado  impresoras compatibles  escáneres  Disco Duro  transmisión Estable  Negro  1 5 m](https://www.amazon.es/dp/B08FY6FG19/?tag=tolees-21) con precio final de  1.66 EUR (original: 2.5 EUR) (33.60 %  de rebaja) aqui!
 
-[![XINFULUK Cable USB 2.0 Am-TO-BM de Alta ](https://m.media-amazon.com/images/I/41v+tPpYUqL._SL200_.jpg)](https://www.amazon.es/dp/B08FY6FG19/?tag=tolees-21)
+[![XINFULUK Cable USB 2.0 Am-TO-BM de Alta ](https://m.media-amazon.com/images/I/41v+tPpYUqL._SL400_.jpg)](https://www.amazon.es/dp/B08FY6FG19/?tag=tolees-21)
 
 🔎:
 

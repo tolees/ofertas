@@ -2,7 +2,7 @@
 layout: post
 title: 'TATAY Urban Food Roll & Go Bolsa Porta A al 45.45 % de descuento'
 date: 2020-06-20 11:31:47
-image: 'https://m.media-amazon.com/images/I/41mAxJu1ESL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41mAxJu1ESL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.62'
 
 Está [TATAY Urban Food Roll & Go Bolsa Porta Alimentos Isotérmica Enrollable  Tela  Teja  No incluye tapers  6x22x28 cm](https://www.amazon.es/dp/B0721YVYDF/?tag=tolees-21) con 45.45 de descuento por 6.0 EUR (original: 11.0 EUR) en el siguiente enlace!
 
-[![TATAY Urban Food Roll & Go Bolsa Porta A](https://m.media-amazon.com/images/I/41mAxJu1ESL._SL200_.jpg)](https://www.amazon.es/dp/B0721YVYDF/?tag=tolees-21)
+[![TATAY Urban Food Roll & Go Bolsa Porta A](https://m.media-amazon.com/images/I/41mAxJu1ESL._SL400_.jpg)](https://www.amazon.es/dp/B0721YVYDF/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Salomon XA Pro 3D W Zapatillas de trail  al 54.44 % de descuento'
 date: 2020-02-04 08:26:15
-image: 'https://m.media-amazon.com/images/I/41+35Fj-m6L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41+35Fj-m6L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '66.02'
 
 Ahora mismo tienes [Salomon XA Pro 3D W Zapatillas de trail running Mujer  Morado  Potent Purple/Navy Blazer/Bluestone   36 2/3 EU  4 UK ](https://www.amazon.es/dp/B07KWB2PW7/?tag=tolees-21) a 59.21 EUR (original: 129.95 EUR) (54.44 %  de descuento) en el siguiente enlace!
 
-[![Salomon XA Pro 3D W Zapatillas de trail ](https://m.media-amazon.com/images/I/41+35Fj-m6L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07KWB2PW7/?tag=tolees-21)
+[![Salomon XA Pro 3D W Zapatillas de trail ](https://m.media-amazon.com/images/I/41+35Fj-m6L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07KWB2PW7/?tag=tolees-21)
 
 🔎:
 

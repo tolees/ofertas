@@ -2,7 +2,7 @@
 layout: post
 title: 'PUMA Flyer Runner  Zapatillas de Running al 38.96 % de descuento'
 date: 2020-04-03 17:46:01
-image: 'https://m.media-amazon.com/images/I/41aBQKmRTFL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41aBQKmRTFL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '30.49'
 
 Ahora mismo tienes [PUMA Flyer Runner  Zapatillas de Running Unisex Adulto  Negro Black Black White  40.5 EU](https://www.amazon.es/dp/B07DC87SBD/?tag=tolees-21) a 30.49 EUR (original: 49.95 EUR) (38.96 %  de descuento) en el siguiente enlace!
 
-[![PUMA Flyer Runner  Zapatillas de Running](https://m.media-amazon.com/images/I/41aBQKmRTFL._SL200_.jpg)](https://www.amazon.es/dp/B07DC87SBD/?tag=tolees-21)
+[![PUMA Flyer Runner  Zapatillas de Running](https://m.media-amazon.com/images/I/41aBQKmRTFL._SL400_.jpg)](https://www.amazon.es/dp/B07DC87SBD/?tag=tolees-21)
 
 🔎:
 

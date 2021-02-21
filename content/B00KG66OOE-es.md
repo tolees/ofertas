@@ -2,7 +2,7 @@
 layout: post
 title: 'Braun 51B - Recambio para afeitadora elé al 34.03 % de descuento'
 date: 2020-03-03 14:28:49
-image: 'https://m.media-amazon.com/images/I/41SQ3vigTBL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41SQ3vigTBL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.95'
 
 Está [Braun 51B - Recambio para afeitadora eléctrica hombre  compatible con el modelo WaterFlex  color negro](https://www.amazon.es/dp/B00KG66OOE/?tag=tolees-21) con 34.03 de descuento por 23.09 EUR (original: 35.0 EUR) en el siguiente enlace!
 
-[![Braun 51B - Recambio para afeitadora elé](https://m.media-amazon.com/images/I/41SQ3vigTBL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B00KG66OOE/?tag=tolees-21)
+[![Braun 51B - Recambio para afeitadora elé](https://m.media-amazon.com/images/I/41SQ3vigTBL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B00KG66OOE/?tag=tolees-21)
 
 ℹ️:
 

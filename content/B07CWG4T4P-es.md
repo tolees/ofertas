@@ -2,7 +2,7 @@
 layout: post
 title: 'Melatonina 1 8 mg con 5-HTP  Magnesio y  al 37.62 % de rebaja'
 date: 2020-02-22 17:57:31
-image: 'https://m.media-amazon.com/images/I/41tIm3E2asL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41tIm3E2asL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.97'
 
 Tienes [Melatonina 1 8 mg con 5-HTP  Magnesio y Vitamina B6  180 Cápsulas | Ayuda con el insomnio o trastornos del sueño | Vegano  No-GMO  GMP  libre de aditivos  sin Gluten | de Zenement](https://www.amazon.es/dp/B07CWG4T4P/?tag=tolees-21) con precio final de  14.97 EUR (original: 24.0 EUR) (37.62 %  de rebaja) aqui!
 
-[![Melatonina 1 8 mg con 5-HTP  Magnesio y ](https://m.media-amazon.com/images/I/41tIm3E2asL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07CWG4T4P/?tag=tolees-21)
+[![Melatonina 1 8 mg con 5-HTP  Magnesio y ](https://m.media-amazon.com/images/I/41tIm3E2asL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07CWG4T4P/?tag=tolees-21)
 
 🔎:
 

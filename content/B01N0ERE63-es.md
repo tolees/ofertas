@@ -2,7 +2,7 @@
 layout: post
 title: 'Superga con un 83.98 % de descuento'
 date: 2020-06-05 01:45:48
-image: 'https://m.media-amazon.com/images/I/41+K8bGidhL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41+K8bGidhL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.45'
 
 En este momento está [Superga](https://www.amazon.es/dp/B01N0ERE63/?tag=tolees-21) a 9.45 EUR (original: 59.0 EUR) (83.98 %  de descuento) en el siguiente enlace!
 
-[![Superga](https://m.media-amazon.com/images/I/41+K8bGidhL._SL200_.jpg)](https://www.amazon.es/dp/B01N0ERE63/?tag=tolees-21)
+[![Superga](https://m.media-amazon.com/images/I/41+K8bGidhL._SL400_.jpg)](https://www.amazon.es/dp/B01N0ERE63/?tag=tolees-21)
 
 🔎:
 

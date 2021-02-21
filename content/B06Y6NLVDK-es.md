@@ -2,7 +2,7 @@
 layout: post
 title: 'Powerextra Batería Nikon EN EL14 y EN-EL al 49.13 % de descuento'
 date: 2020-02-05 20:00:27
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41F4itLdVpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41F4itLdVpL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '28.99'
 
 Está [Powerextra Batería Nikon EN EL14 y EN-EL14a con Cargador Inteligente Pantalla LCD para Nikon P7000 P7100 P7700 P7800 D3100 D3200 D3300 D5100 D5200 D5300 D5500 DF Cámara](https://www.amazon.es/dp/B06Y6NLVDK/?tag=tolees-21) con 49.13 de descuento por 28.99 EUR (original: 56.99 EUR) en el siguiente enlace!
 
-[![Powerextra Batería Nikon EN EL14 y EN-EL](https://images-eu.ssl-images-amazon.com/images/I/41F4itLdVpL._SL200_.jpg)](https://www.amazon.es/dp/B06Y6NLVDK/?tag=tolees-21)
+[![Powerextra Batería Nikon EN EL14 y EN-EL](https://images-eu.ssl-images-amazon.com/images/I/41F4itLdVpL._SL400_.jpg)](https://www.amazon.es/dp/B06Y6NLVDK/?tag=tolees-21)
 
 ℹ️:
 

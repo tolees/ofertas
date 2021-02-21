@@ -2,7 +2,7 @@
 layout: post
 title: 'Salomon RX Moc 4.0 W  Calzado de recuper al 26.44 % de descuento'
 date: 2020-08-02 03:41:39
-image: 'https://m.media-amazon.com/images/I/41DoOc-pSrL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41DoOc-pSrL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '36.01'
 
 Ahora mismo tienes [Salomon RX Moc 4.0 W  Calzado de recuperación para Mujer  Azul  Meadowbrook/Icy Morn/White   38 EU](https://www.amazon.es/dp/B07RDLQNND/?tag=tolees-21) a 36.01 EUR (original: 48.95 EUR) (26.44 %  de descuento) en el siguiente enlace!
 
-[![Salomon RX Moc 4.0 W  Calzado de recuper](https://m.media-amazon.com/images/I/41DoOc-pSrL._SL200_.jpg)](https://www.amazon.es/dp/B07RDLQNND/?tag=tolees-21)
+[![Salomon RX Moc 4.0 W  Calzado de recuper](https://m.media-amazon.com/images/I/41DoOc-pSrL._SL400_.jpg)](https://www.amazon.es/dp/B07RDLQNND/?tag=tolees-21)
 
 🔎:
 

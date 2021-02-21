@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour Shinguard Sleeves Espinille con un 28.60 % de descuento'
 date: 2020-06-28 09:09:55
-image: 'https://m.media-amazon.com/images/I/4189CgTTVsL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/4189CgTTVsL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.14'
 
 En este momento está [Under Armour Shinguard Sleeves Espinillera  Hombre  Negro  Black/High Vis Yellow 001   L](https://www.amazon.es/dp/B01H8LUN3M/?tag=tolees-21) a 7.14 EUR (original: 10.0 EUR) (28.60 %  de descuento) en el siguiente enlace!
 
-[![Under Armour Shinguard Sleeves Espinille](https://m.media-amazon.com/images/I/4189CgTTVsL._SL200_.jpg)](https://www.amazon.es/dp/B01H8LUN3M/?tag=tolees-21)
+[![Under Armour Shinguard Sleeves Espinille](https://m.media-amazon.com/images/I/4189CgTTVsL._SL400_.jpg)](https://www.amazon.es/dp/B01H8LUN3M/?tag=tolees-21)
 
 🔎:
 

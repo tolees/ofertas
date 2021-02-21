@@ -2,7 +2,7 @@
 layout: post
 title: 'Rodillo Amasar de Madera Rodillo de Coci al 50.03 % de descuento'
 date: 2020-05-15 15:06:24
-image: 'https://m.media-amazon.com/images/I/51wMg3SyHxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51wMg3SyHxL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.99'
 
 Está [Rodillo Amasar de Madera Rodillo de Cocina con SíMbolos de Crismas de Madera Grabado en Relieve  El Mejor para Fondant  Pastas para Tartas Y Pay  Galletas Y Masa para Pasteles  43 CentíMetros](https://www.amazon.es/dp/B081YNYQBS/?tag=tolees-21) con 50.03 de descuento por 9.99 EUR (original: 19.99 EUR) en el siguiente enlace!
 
-[![Rodillo Amasar de Madera Rodillo de Coci](https://m.media-amazon.com/images/I/51wMg3SyHxL._SL200_.jpg)](https://www.amazon.es/dp/B081YNYQBS/?tag=tolees-21)
+[![Rodillo Amasar de Madera Rodillo de Coci](https://m.media-amazon.com/images/I/51wMg3SyHxL._SL400_.jpg)](https://www.amazon.es/dp/B081YNYQBS/?tag=tolees-21)
 
 ℹ️:
 

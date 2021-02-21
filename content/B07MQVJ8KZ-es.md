@@ -2,7 +2,7 @@
 layout: post
 title: 'Napapijri EISBERG Polo  Azul  BLU Marine con un 60.00 % de descuento'
 date: 2020-01-31 23:06:18
-image: 'https://m.media-amazon.com/images/I/31y0JR3mLEL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31y0JR3mLEL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '27.6'
 
 En este momento está [Napapijri EISBERG Polo  Azul  BLU Marine 176   M para Hombre](https://www.amazon.es/dp/B07MQVJ8KZ/?tag=tolees-21) a 27.6 EUR (original: 69.0 EUR) (60.00 %  de descuento) en el siguiente enlace!
 
-[![Napapijri EISBERG Polo  Azul  BLU Marine](https://m.media-amazon.com/images/I/31y0JR3mLEL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07MQVJ8KZ/?tag=tolees-21)
+[![Napapijri EISBERG Polo  Azul  BLU Marine](https://m.media-amazon.com/images/I/31y0JR3mLEL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07MQVJ8KZ/?tag=tolees-21)
 
 🔎:
 

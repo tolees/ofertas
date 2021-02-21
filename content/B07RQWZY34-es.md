@@ -2,7 +2,7 @@
 layout: post
 title: 'MonQi 24 Bolsillos Expandible Clasificad al 64.54 % de rebaja'
 date: 2020-08-21 14:17:23
-image: 'https://m.media-amazon.com/images/I/41zbKNvVQCL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41zbKNvVQCL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.99'
 
 Tienes [MonQi 24 Bolsillos Expandible Clasificadores Carpetas de Acordeón con Capa + 3 * Bolsa de Archivo de cremallera para A4 Documento Expandible Carpetas Archivadoras  Rainbow Carpeta Clasificadora](https://www.amazon.es/dp/B07RQWZY34/?tag=tolees-21) con precio final de  10.99 EUR (original: 30.99 EUR) (64.54 %  de rebaja) aqui!
 
-[![MonQi 24 Bolsillos Expandible Clasificad](https://m.media-amazon.com/images/I/41zbKNvVQCL._SL200_.jpg)](https://www.amazon.es/dp/B07RQWZY34/?tag=tolees-21)
+[![MonQi 24 Bolsillos Expandible Clasificad](https://m.media-amazon.com/images/I/41zbKNvVQCL._SL400_.jpg)](https://www.amazon.es/dp/B07RQWZY34/?tag=tolees-21)
 
 🔎:
 

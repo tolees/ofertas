@@ -2,7 +2,7 @@
 layout: post
 title: 'DC Shoes Switch  Zapatillas de Skateboar al 42.57 % de rebaja'
 date: 2020-06-01 18:08:25
-image: 'https://m.media-amazon.com/images/I/31D0qZrB7yL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31D0qZrB7yL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '40.2'
 
 Tienes [DC Shoes Switch  Zapatillas de Skateboard para Hombre  Negro  White/White/Gum Hwg   45 EU](https://www.amazon.es/dp/B07SRSRVD4/?tag=tolees-21) con precio final de  40.2 EUR (original: 70.0 EUR) (42.57 %  de rebaja) aqui!
 
-[![DC Shoes Switch  Zapatillas de Skateboar](https://m.media-amazon.com/images/I/31D0qZrB7yL._SL200_.jpg)](https://www.amazon.es/dp/B07SRSRVD4/?tag=tolees-21)
+[![DC Shoes Switch  Zapatillas de Skateboar](https://m.media-amazon.com/images/I/31D0qZrB7yL._SL400_.jpg)](https://www.amazon.es/dp/B07SRSRVD4/?tag=tolees-21)
 
 🔎:
 

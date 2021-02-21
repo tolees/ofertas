@@ -2,7 +2,7 @@
 layout: post
 title: 'Stranger Things 13072 Figura de acción   con un 42.73 % de descuento'
 date: 2020-10-08 09:29:38
-image: 'https://m.media-amazon.com/images/I/51Kt5y1EVhL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Kt5y1EVhL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.97'
 
 En este momento está [Stranger Things 13072 Figura de acción  varios   color/modelo surtido](https://www.amazon.es/dp/B07H5JTW3M/?tag=tolees-21) a 14.97 EUR (original: 26.14 EUR) (42.73 %  de descuento) en el siguiente enlace!
 
-[![Stranger Things 13072 Figura de acción  ](https://m.media-amazon.com/images/I/51Kt5y1EVhL._SL200_.jpg)](https://www.amazon.es/dp/B07H5JTW3M/?tag=tolees-21)
+[![Stranger Things 13072 Figura de acción  ](https://m.media-amazon.com/images/I/51Kt5y1EVhL._SL400_.jpg)](https://www.amazon.es/dp/B07H5JTW3M/?tag=tolees-21)
 
 🔎:
 

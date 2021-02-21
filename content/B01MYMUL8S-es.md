@@ -2,7 +2,7 @@
 layout: post
 title: 'Vaultskin Eton Armour - Funda de cuero p con un 60.01 % de descuento'
 date: 2020-09-20 08:22:44
-image: 'https://m.media-amazon.com/images/I/516-Dp0PauL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/516-Dp0PauL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.99'
 
 En este momento está [Vaultskin Eton Armour - Funda de cuero para iPhone 7  cognac ](https://www.amazon.es/dp/B01MYMUL8S/?tag=tolees-21) a 19.99 EUR (original: 49.99 EUR) (60.01 %  de descuento) en el siguiente enlace!
 
-[![Vaultskin Eton Armour - Funda de cuero p](https://m.media-amazon.com/images/I/516-Dp0PauL._SL200_.jpg)](https://www.amazon.es/dp/B01MYMUL8S/?tag=tolees-21)
+[![Vaultskin Eton Armour - Funda de cuero p](https://m.media-amazon.com/images/I/516-Dp0PauL._SL400_.jpg)](https://www.amazon.es/dp/B01MYMUL8S/?tag=tolees-21)
 
 🔎:
 

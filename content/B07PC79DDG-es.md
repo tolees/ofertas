@@ -2,7 +2,7 @@
 layout: post
 title: 'American Tourister Jetglam Spinner S Equ al 43.95 % de rebaja'
 date: 2020-05-30 10:34:37
-image: 'https://m.media-amazon.com/images/I/41glEmAwnXL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41glEmAwnXL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '67.968'
 
 Tienes [American Tourister Jetglam Spinner S Equipaje de Mano  55 cm  35.5 L  Azul  Metallic Blue ](https://www.amazon.es/dp/B07PC79DDG/?tag=tolees-21) con precio final de  64.46 EUR (original: 115.0 EUR) (43.95 %  de rebaja) aqui!
 
-[![American Tourister Jetglam Spinner S Equ](https://m.media-amazon.com/images/I/41glEmAwnXL._SL200_.jpg)](https://www.amazon.es/dp/B07PC79DDG/?tag=tolees-21)
+[![American Tourister Jetglam Spinner S Equ](https://m.media-amazon.com/images/I/41glEmAwnXL._SL400_.jpg)](https://www.amazon.es/dp/B07PC79DDG/?tag=tolees-21)
 
 🔎:
 

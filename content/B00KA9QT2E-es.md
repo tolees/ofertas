@@ -2,7 +2,7 @@
 layout: post
 title: 'Naissance Aceite Vegetal de Rosa Mosquet al 41.20 % de descuento'
 date: 2020-04-26 07:32:20
-image: 'https://m.media-amazon.com/images/I/41RNa3pyrYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41RNa3pyrYL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.99'
 
 Ahora mismo tienes [Naissance Aceite Vegetal de Rosa Mosqueta Rubiginosa n. º 246 – 100ml - Puro  natural  vegano  sin hexano y no OGM - Hidrata y nutre todo tipo de pieles  el cabello y las uñas.](https://www.amazon.es/dp/B00KA9QT2E/?tag=tolees-21) a 9.99 EUR (original: 16.99 EUR) (41.20 %  de descuento) en el siguiente enlace!
 
-[![Naissance Aceite Vegetal de Rosa Mosquet](https://m.media-amazon.com/images/I/41RNa3pyrYL._SL200_.jpg)](https://www.amazon.es/dp/B00KA9QT2E/?tag=tolees-21)
+[![Naissance Aceite Vegetal de Rosa Mosquet](https://m.media-amazon.com/images/I/41RNa3pyrYL._SL400_.jpg)](https://www.amazon.es/dp/B00KA9QT2E/?tag=tolees-21)
 
 🔎:
 

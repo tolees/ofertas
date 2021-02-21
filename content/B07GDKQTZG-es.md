@@ -2,7 +2,7 @@
 layout: post
 title: 'Lámpara de trabajo de inspección con 3 m al 50.03 % de descuento'
 date: 2020-02-02 15:37:53
-image: 'https://m.media-amazon.com/images/I/31xNOfW9oXL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31xNOfW9oXL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.99'
 
 Ahora mismo tienes [Lámpara de trabajo de inspección con 3 modos de iluminación  linterna para camping  mantenimiento de emergencia  luz para el hogar  garaje  taller](https://www.amazon.es/dp/B07GDKQTZG/?tag=tolees-21) a 7.99 EUR (original: 15.99 EUR) (50.03 %  de descuento) en el siguiente enlace!
 
-[![Lámpara de trabajo de inspección con 3 m](https://m.media-amazon.com/images/I/31xNOfW9oXL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07GDKQTZG/?tag=tolees-21)
+[![Lámpara de trabajo de inspección con 3 m](https://m.media-amazon.com/images/I/31xNOfW9oXL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07GDKQTZG/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'JACK & JONES Jorbrandon Sweat Hood Capuc con un 44.89 % de descuento'
 date: 2020-04-24 15:41:02
-image: 'https://m.media-amazon.com/images/I/41MmPbs6emL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41MmPbs6emL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '22.04'
 
 En este momento está [JACK & JONES Jorbrandon Sweat Hood Capucha  Gris  Light Grey Melange Fit: Slim JJ   Medium para Hombre](https://www.amazon.es/dp/B07Y8PCVRG/?tag=tolees-21) a 22.04 EUR (original: 39.99 EUR) (44.89 %  de descuento) en el siguiente enlace!
 
-[![JACK & JONES Jorbrandon Sweat Hood Capuc](https://m.media-amazon.com/images/I/41MmPbs6emL._SL200_.jpg)](https://www.amazon.es/dp/B07Y8PCVRG/?tag=tolees-21)
+[![JACK & JONES Jorbrandon Sweat Hood Capuc](https://m.media-amazon.com/images/I/41MmPbs6emL._SL400_.jpg)](https://www.amazon.es/dp/B07Y8PCVRG/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'LEDKIA LIGHTING Lámpara de Mesa Dayad Bl con un 38.84 % de descuento'
 date: 2020-09-17 11:07:32
-image: 'https://m.media-amazon.com/images/I/31Lzat58HnL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Lzat58HnL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '26.5'
 
 En este momento está [LEDKIA LIGHTING Lámpara de Mesa Dayad Blanco Mate](https://www.amazon.es/dp/B08CZSR3FM/?tag=tolees-21) a 26.5 EUR (original: 43.33 EUR) (38.84 %  de descuento) en el siguiente enlace!
 
-[![LEDKIA LIGHTING Lámpara de Mesa Dayad Bl](https://m.media-amazon.com/images/I/31Lzat58HnL._SL200_.jpg)](https://www.amazon.es/dp/B08CZSR3FM/?tag=tolees-21)
+[![LEDKIA LIGHTING Lámpara de Mesa Dayad Bl](https://m.media-amazon.com/images/I/31Lzat58HnL._SL400_.jpg)](https://www.amazon.es/dp/B08CZSR3FM/?tag=tolees-21)
 
 🔎:
 

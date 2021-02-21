@@ -2,7 +2,7 @@
 layout: post
 title: 'Monix Tempo Duo - Set de ollas a presión con un 32.61 % de descuento'
 date: 2020-09-19 14:38:34
-image: 'https://m.media-amazon.com/images/I/31WULTEDO0L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31WULTEDO0L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '64.84714285714286'
 
 En este momento está [Monix Tempo Duo - Set de ollas a presión 4+7 L incluye cestillo in acero inoxidable 18/10  apta para todo tipo de cocinas incluida inducción](https://www.amazon.es/dp/B087ZPRW8R/?tag=tolees-21) a 63.99 EUR (original: 94.95 EUR) (32.61 %  de descuento) en el siguiente enlace!
 
-[![Monix Tempo Duo - Set de ollas a presión](https://m.media-amazon.com/images/I/31WULTEDO0L._SL200_.jpg)](https://www.amazon.es/dp/B087ZPRW8R/?tag=tolees-21)
+[![Monix Tempo Duo - Set de ollas a presión](https://m.media-amazon.com/images/I/31WULTEDO0L._SL400_.jpg)](https://www.amazon.es/dp/B087ZPRW8R/?tag=tolees-21)
 
 🔎:
 

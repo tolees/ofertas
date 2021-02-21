@@ -2,7 +2,7 @@
 layout: post
 title: 'Carcasa compatible con Samsung Galaxy S1 con un 47.39 % de descuento'
 date: 2020-08-12 16:46:03
-image: 'https://m.media-amazon.com/images/I/41XeR4iOr7L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41XeR4iOr7L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.99'
 
 En este momento está [Carcasa compatible con Samsung Galaxy S10E  funda de silicona suave  antihuellas  resistente a los golpes  ultrafina  transparente  para Samsung Galaxy S10E 7 Talla única](https://www.amazon.es/dp/B07Y51D8XP/?tag=tolees-21) a 9.99 EUR (original: 18.99 EUR) (47.39 %  de descuento) en el siguiente enlace!
 
-[![Carcasa compatible con Samsung Galaxy S1](https://m.media-amazon.com/images/I/41XeR4iOr7L._SL200_.jpg)](https://www.amazon.es/dp/B07Y51D8XP/?tag=tolees-21)
+[![Carcasa compatible con Samsung Galaxy S1](https://m.media-amazon.com/images/I/41XeR4iOr7L._SL400_.jpg)](https://www.amazon.es/dp/B07Y51D8XP/?tag=tolees-21)
 
 🔎:
 

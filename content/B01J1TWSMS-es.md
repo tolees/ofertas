@@ -2,7 +2,7 @@
 layout: post
 title: 'Juego de 5 piezas de para beber sake jap al 38.48 % de descuento'
 date: 2020-01-31 08:55:43
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41MkQxjtCkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41MkQxjtCkL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.99'
 
 Está [Juego de 5 piezas de para beber sake japonés. Pintadas a mano con un diseño de flores de cerezo  de porcelana de cerámica. Artesanía tradicional](https://www.amazon.es/dp/B01J1TWSMS/?tag=tolees-21) con 38.48 de descuento por 15.99 EUR (original: 25.99 EUR) en el siguiente enlace!
 
-[![Juego de 5 piezas de para beber sake jap](https://images-eu.ssl-images-amazon.com/images/I/41MkQxjtCkL._SL200_.jpg)](https://www.amazon.es/dp/B01J1TWSMS/?tag=tolees-21)
+[![Juego de 5 piezas de para beber sake jap](https://images-eu.ssl-images-amazon.com/images/I/41MkQxjtCkL._SL400_.jpg)](https://www.amazon.es/dp/B01J1TWSMS/?tag=tolees-21)
 
 ℹ️:
 

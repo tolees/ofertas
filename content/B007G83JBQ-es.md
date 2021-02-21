@@ -2,7 +2,7 @@
 layout: post
 title: 'T nB Auriculares Diadema HiFi - con Cabl con un 30.31 % de descuento'
 date: 2020-07-18 19:51:09
-image: 'https://m.media-amazon.com/images/I/41bhpWzPa6L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41bhpWzPa6L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.99'
 
 En este momento está [T nB Auriculares Diadema HiFi - con Cable Extra Largo de 8 Metros y Control de Volumen  Ideales para la TV](https://www.amazon.es/dp/B007G83JBQ/?tag=tolees-21) a 8.99 EUR (original: 12.9 EUR) (30.31 %  de descuento) en el siguiente enlace!
 
-[![T nB Auriculares Diadema HiFi - con Cabl](https://m.media-amazon.com/images/I/41bhpWzPa6L._SL200_.jpg)](https://www.amazon.es/dp/B007G83JBQ/?tag=tolees-21)
+[![T nB Auriculares Diadema HiFi - con Cabl](https://m.media-amazon.com/images/I/41bhpWzPa6L._SL400_.jpg)](https://www.amazon.es/dp/B007G83JBQ/?tag=tolees-21)
 
 🔎:
 

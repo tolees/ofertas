@@ -2,7 +2,7 @@
 layout: post
 title: 'Arfbear Mini Pistola de Silicona Calient con un 43.23 % de descuento'
 date: 2020-04-08 06:05:42
-image: 'https://m.media-amazon.com/images/I/41YrVJ-+gTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41YrVJ-+gTL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.89'
 
 En este momento está [Arfbear Mini Pistola de Silicona Caliente  50W con 50 PSC Barras Pegamento Alta Temperatura  Gatillo Flexible  Kit Pistolas Encolar para Proyectos de Bricolaje y Reparaciones Rápidas](https://www.amazon.es/dp/B07RFV7F3S/?tag=tolees-21) a 15.89 EUR (original: 27.99 EUR) (43.23 %  de descuento) en el siguiente enlace!
 
-[![Arfbear Mini Pistola de Silicona Calient](https://m.media-amazon.com/images/I/41YrVJ-+gTL._SL200_.jpg)](https://www.amazon.es/dp/B07RFV7F3S/?tag=tolees-21)
+[![Arfbear Mini Pistola de Silicona Calient](https://m.media-amazon.com/images/I/41YrVJ-+gTL._SL400_.jpg)](https://www.amazon.es/dp/B07RFV7F3S/?tag=tolees-21)
 
 🔎:
 

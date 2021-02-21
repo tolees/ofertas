@@ -2,7 +2,7 @@
 layout: post
 title: 'Antorcha de hormigón con “mecha permanen al 25.04 % de rebaja'
 date: 2020-04-17 00:31:08
-image: 'https://m.media-amazon.com/images/I/41U-TeGFtrL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41U-TeGFtrL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '44.9'
 
 Tienes [Antorcha de hormigón con “mecha permanente”  Tamaño 13x13x13  Antorcha de jardín rellenable  Tiempo de combustión “infinito” gracias al reciclado ecológico de la cera de las velas  Antorcha de mesa](https://www.amazon.es/dp/B0747LQF4T/?tag=tolees-21) con precio final de  44.9 EUR (original: 59.9 EUR) (25.04 %  de rebaja) aqui!
 
-[![Antorcha de hormigón con “mecha permanen](https://m.media-amazon.com/images/I/41U-TeGFtrL._SL200_.jpg)](https://www.amazon.es/dp/B0747LQF4T/?tag=tolees-21)
+[![Antorcha de hormigón con “mecha permanen](https://m.media-amazon.com/images/I/41U-TeGFtrL._SL400_.jpg)](https://www.amazon.es/dp/B0747LQF4T/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'VGROUND LED Linterna XML T6 Portátil e I al 50.03 % de descuento'
 date: 2020-04-03 12:41:09
-image: 'https://m.media-amazon.com/images/I/51uBzI95+iL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51uBzI95+iL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.99'
 
 Está [VGROUND LED Linterna XML T6 Portátil e Impermeable Zoomable Linterna Tácticas Militares ultra brillante de 2000LM para Ciclismo  Camping  Montañismo  Emergencia  2 Paquetes](https://www.amazon.es/dp/B07HT7RS1G/?tag=tolees-21) con 50.03 de descuento por 14.99 EUR (original: 30.0 EUR) en el siguiente enlace!
 
-[![VGROUND LED Linterna XML T6 Portátil e I](https://m.media-amazon.com/images/I/51uBzI95+iL._SL200_.jpg)](https://www.amazon.es/dp/B07HT7RS1G/?tag=tolees-21)
+[![VGROUND LED Linterna XML T6 Portátil e I](https://m.media-amazon.com/images/I/51uBzI95+iL._SL400_.jpg)](https://www.amazon.es/dp/B07HT7RS1G/?tag=tolees-21)
 
 ℹ️:
 

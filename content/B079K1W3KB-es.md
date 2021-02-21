@@ -2,7 +2,7 @@
 layout: post
 title: 'Corsair Carbide 275R - Caja de ordenador con un 38.58 % de descuento'
 date: 2020-07-03 13:07:21
-image: 'https://m.media-amazon.com/images/I/31PKdtklDWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31PKdtklDWL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '67.6'
 
 En este momento está [Corsair Carbide 275R - Caja de ordenador semitorre  para juegos  Torre Media ATX con ventana de vidrio templado   negro](https://www.amazon.es/dp/B079K1W3KB/?tag=tolees-21) a 55.22 EUR (original: 89.9 EUR) (38.58 %  de descuento) en el siguiente enlace!
 
-[![Corsair Carbide 275R - Caja de ordenador](https://m.media-amazon.com/images/I/31PKdtklDWL._SL200_.jpg)](https://www.amazon.es/dp/B079K1W3KB/?tag=tolees-21)
+[![Corsair Carbide 275R - Caja de ordenador](https://m.media-amazon.com/images/I/31PKdtklDWL._SL400_.jpg)](https://www.amazon.es/dp/B079K1W3KB/?tag=tolees-21)
 
 🔎:
 

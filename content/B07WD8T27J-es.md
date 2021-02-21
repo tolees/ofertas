@@ -2,7 +2,7 @@
 layout: post
 title: 'Relaxdays  Marrón  Pasamanos Escalera Re al 53.40 % de descuento'
 date: 2020-08-21 09:01:15
-image: 'https://m.media-amazon.com/images/I/41NLvVhuNrL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41NLvVhuNrL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '69.9'
 
 Ahora mismo tienes [Relaxdays  Marrón  Pasamanos Escalera Redondo para Interior y Exterior Ø 42mm  Aluminio  200 cm  2000 mm](https://www.amazon.es/dp/B07WD8T27J/?tag=tolees-21) a 69.9 EUR (original: 149.99 EUR) (53.40 %  de descuento) en el siguiente enlace!
 
-[![Relaxdays  Marrón  Pasamanos Escalera Re](https://m.media-amazon.com/images/I/41NLvVhuNrL._SL200_.jpg)](https://www.amazon.es/dp/B07WD8T27J/?tag=tolees-21)
+[![Relaxdays  Marrón  Pasamanos Escalera Re](https://m.media-amazon.com/images/I/41NLvVhuNrL._SL400_.jpg)](https://www.amazon.es/dp/B07WD8T27J/?tag=tolees-21)
 
 🔎:
 

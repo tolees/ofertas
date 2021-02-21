@@ -2,7 +2,7 @@
 layout: post
 title: 'BOSS Leaffish Bañador  Rosa  Open Pink 6 al 37.00 % de descuento'
 date: 2020-09-01 14:03:39
-image: 'https://m.media-amazon.com/images/I/51ggjebG-aL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51ggjebG-aL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '27.98'
 
 Ahora mismo tienes [BOSS Leaffish Bañador  Rosa  Open Pink 695   Small para Hombre](https://www.amazon.es/dp/B07TYFFYCC/?tag=tolees-21) a 27.98 EUR (original: 44.41 EUR) (37.00 %  de descuento) en el siguiente enlace!
 
-[![BOSS Leaffish Bañador  Rosa  Open Pink 6](https://m.media-amazon.com/images/I/51ggjebG-aL._SL200_.jpg)](https://www.amazon.es/dp/B07TYFFYCC/?tag=tolees-21)
+[![BOSS Leaffish Bañador  Rosa  Open Pink 6](https://m.media-amazon.com/images/I/51ggjebG-aL._SL400_.jpg)](https://www.amazon.es/dp/B07TYFFYCC/?tag=tolees-21)
 
 🔎:
 

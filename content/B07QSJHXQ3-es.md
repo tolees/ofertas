@@ -2,7 +2,7 @@
 layout: post
 title: 'Nike Downshifter 9  PSV   Zapatillas de  con un 51.20 % de descuento'
 date: 2020-01-04 21:29:33
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41GCUI2Hl7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41GCUI2Hl7L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.52'
 
 En este momento está [Nike Downshifter 9  PSV   Zapatillas de Running Unisex Niños  Negro  Black/Black/Anthracite 001   27.5 EU](https://www.amazon.es/dp/B07QSJHXQ3/?tag=tolees-21) a 19.52 EUR (original: 40 EUR) (51.20 %  de descuento) en el siguiente enlace!
 
-[![Nike Downshifter 9  PSV   Zapatillas de ](https://images-eu.ssl-images-amazon.com/images/I/41GCUI2Hl7L._SL200_.jpg)](https://www.amazon.es/dp/B07QSJHXQ3/?tag=tolees-21)
+[![Nike Downshifter 9  PSV   Zapatillas de ](https://images-eu.ssl-images-amazon.com/images/I/41GCUI2Hl7L._SL400_.jpg)](https://www.amazon.es/dp/B07QSJHXQ3/?tag=tolees-21)
 
 🔎:
 

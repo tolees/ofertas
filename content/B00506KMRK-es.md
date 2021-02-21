@@ -2,7 +2,7 @@
 layout: post
 title: 'Munchkin 12501  Cubo Desechable & Portát al 43.15 % de descuento'
 date: 2020-07-15 06:15:53
-image: 'https://m.media-amazon.com/images/I/210mCRmgCUL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/210mCRmgCUL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.09'
 
 Está [Munchkin 12501  Cubo Desechable & Portátil para Pañales Usados  Contienen Hasta 150 Pañales](https://www.amazon.es/dp/B00506KMRK/?tag=tolees-21) con 43.15 de descuento por 9.09 EUR (original: 15.99 EUR) en el siguiente enlace!
 
-[![Munchkin 12501  Cubo Desechable & Portát](https://m.media-amazon.com/images/I/210mCRmgCUL._SL200_.jpg)](https://www.amazon.es/dp/B00506KMRK/?tag=tolees-21)
+[![Munchkin 12501  Cubo Desechable & Portát](https://m.media-amazon.com/images/I/210mCRmgCUL._SL400_.jpg)](https://www.amazon.es/dp/B00506KMRK/?tag=tolees-21)
 
 ℹ️:
 

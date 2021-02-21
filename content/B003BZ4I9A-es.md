@@ -2,7 +2,7 @@
 layout: post
 title: 'Julius-K9 16IDC - Power Harness al 33.94 % de rebaja'
 date: 2020-01-12 15:02:23
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41pyLkPnzJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41pyLkPnzJL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.19'
 
 Tienes [Julius-K9 16IDC - Power Harness](https://www.amazon.es/dp/B003BZ4I9A/?tag=tolees-21) con precio final de  29.19 EUR (original: 44.19 EUR) (33.94 %  de rebaja) aqui!
 
-[![Julius-K9 16IDC - Power Harness](https://images-eu.ssl-images-amazon.com/images/I/41pyLkPnzJL._SL200_.jpg)](https://www.amazon.es/dp/B003BZ4I9A/?tag=tolees-21)
+[![Julius-K9 16IDC - Power Harness](https://images-eu.ssl-images-amazon.com/images/I/41pyLkPnzJL._SL400_.jpg)](https://www.amazon.es/dp/B003BZ4I9A/?tag=tolees-21)
 
 🔎:
 

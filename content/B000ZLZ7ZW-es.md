@@ -2,7 +2,7 @@
 layout: post
 title: 'Nesti Dante Dei Colli Fiorentini Lavanda al 59.60 % de descuento'
 date: 2020-10-01 19:32:09
-image: 'https://m.media-amazon.com/images/I/51vMVJQG2eL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51vMVJQG2eL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.0'
 
 Ahora mismo tienes [Nesti Dante Dei Colli Fiorentini Lavanda Soap Mydlo toaletowe Lawenda 250g](https://www.amazon.es/dp/B000ZLZ7ZW/?tag=tolees-21) a 2.0 EUR (original: 4.95 EUR) (59.60 %  de descuento) en el siguiente enlace!
 
-[![Nesti Dante Dei Colli Fiorentini Lavanda](https://m.media-amazon.com/images/I/51vMVJQG2eL._SL200_.jpg)](https://www.amazon.es/dp/B000ZLZ7ZW/?tag=tolees-21)
+[![Nesti Dante Dei Colli Fiorentini Lavanda](https://m.media-amazon.com/images/I/51vMVJQG2eL._SL400_.jpg)](https://www.amazon.es/dp/B000ZLZ7ZW/?tag=tolees-21)
 
 🔎:
 

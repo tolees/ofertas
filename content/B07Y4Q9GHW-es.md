@@ -2,7 +2,7 @@
 layout: post
 title: 'Mycartridge 5 Compatibles Epson 603XL 60 al 50.12 % de rebaja'
 date: 2020-07-13 00:19:05
-image: 'https://m.media-amazon.com/images/I/51dDBR1TKGL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51dDBR1TKGL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '22.94'
 
 Tienes [Mycartridge 5 Compatibles Epson 603XL 603 XL Cartuchos de Tinta para Epson Expression Home XP-2100 XP-3100 XP-4100 XP-2105 XP-3105 XP-4105 Workforce WF-2810 WF-2830 WF-2835 WF-2850](https://www.amazon.es/dp/B07Y4Q9GHW/?tag=tolees-21) con precio final de  22.94 EUR (original: 45.99 EUR) (50.12 %  de rebaja) aqui!
 
-[![Mycartridge 5 Compatibles Epson 603XL 60](https://m.media-amazon.com/images/I/51dDBR1TKGL._SL200_.jpg)](https://www.amazon.es/dp/B07Y4Q9GHW/?tag=tolees-21)
+[![Mycartridge 5 Compatibles Epson 603XL 60](https://m.media-amazon.com/images/I/51dDBR1TKGL._SL400_.jpg)](https://www.amazon.es/dp/B07Y4Q9GHW/?tag=tolees-21)
 
 🔎:
 

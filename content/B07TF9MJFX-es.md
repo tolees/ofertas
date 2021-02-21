@@ -2,7 +2,7 @@
 layout: post
 title: 'Skechers Melson Raymon  Zapatillas para  al 39.80 % de rebaja'
 date: 2020-07-23 00:52:28
-image: 'https://m.media-amazon.com/images/I/41tk7pmryzL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41tk7pmryzL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '39.1'
 
 Tienes [Skechers Melson Raymon  Zapatillas para Hombre  Verde  Khaki Canvas Khk   44 EU](https://www.amazon.es/dp/B07TF9MJFX/?tag=tolees-21) con precio final de  39.1 EUR (original: 64.95 EUR) (39.80 %  de rebaja) aqui!
 
-[![Skechers Melson Raymon  Zapatillas para ](https://m.media-amazon.com/images/I/41tk7pmryzL._SL200_.jpg)](https://www.amazon.es/dp/B07TF9MJFX/?tag=tolees-21)
+[![Skechers Melson Raymon  Zapatillas para ](https://m.media-amazon.com/images/I/41tk7pmryzL._SL400_.jpg)](https://www.amazon.es/dp/B07TF9MJFX/?tag=tolees-21)
 
 🔎:
 

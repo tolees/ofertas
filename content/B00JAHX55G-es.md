@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 50.25 % en Assassin s Creed: Unity'
 date: 2020-06-01 08:41:07
-image: 'https://m.media-amazon.com/images/I/51Bju7V8koL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Bju7V8koL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.0525'
 
 Tienes [Assassin s Creed: Unity](https://www.amazon.es/dp/B00JAHX55G/?tag=tolees-21) con un 50.25 % de descuento con precio de oferta de 14.9 EUR (original: 29.95 EUR) en el siguiente enlace!
 
-[![Assassin s Creed: Unity](https://m.media-amazon.com/images/I/51Bju7V8koL._SL200_.jpg)](https://www.amazon.es/dp/B00JAHX55G/?tag=tolees-21)
+[![Assassin s Creed: Unity](https://m.media-amazon.com/images/I/51Bju7V8koL._SL400_.jpg)](https://www.amazon.es/dp/B00JAHX55G/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'PUMA Campus Grip Bag Retro Bolsa Deporte al 33.37 % de rebaja'
 date: 2020-08-06 22:06:43
-image: 'https://m.media-amazon.com/images/I/51thR7tMGeL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51thR7tMGeL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '34.71'
 
 Tienes [PUMA Campus Grip Bag Retro Bolsa Deporte  Adultos Unisex  Black  OSFA](https://www.amazon.es/dp/B07QHKBC4N/?tag=tolees-21) con precio final de  29.95 EUR (original: 44.95 EUR) (33.37 %  de rebaja) aqui!
 
-[![PUMA Campus Grip Bag Retro Bolsa Deporte](https://m.media-amazon.com/images/I/51thR7tMGeL._SL200_.jpg)](https://www.amazon.es/dp/B07QHKBC4N/?tag=tolees-21)
+[![PUMA Campus Grip Bag Retro Bolsa Deporte](https://m.media-amazon.com/images/I/51thR7tMGeL._SL400_.jpg)](https://www.amazon.es/dp/B07QHKBC4N/?tag=tolees-21)
 
 🔎:
 

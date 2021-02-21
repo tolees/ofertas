@@ -2,7 +2,7 @@
 layout: post
 title: 'American Crew Champú Diario 250 ml al 37.29 % de rebaja'
 date: 2020-09-16 10:04:05
-image: 'https://m.media-amazon.com/images/I/31NHQCQCPiL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31NHQCQCPiL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.7025'
 
 Tienes [American Crew Champú Diario 250 ml](https://www.amazon.es/dp/B00P9PUOIY/?tag=tolees-21) con precio final de  9.72 EUR (original: 15.5 EUR) (37.29 %  de rebaja) aqui!
 
-[![American Crew Champú Diario 250 ml](https://m.media-amazon.com/images/I/31NHQCQCPiL._SL200_.jpg)](https://www.amazon.es/dp/B00P9PUOIY/?tag=tolees-21)
+[![American Crew Champú Diario 250 ml](https://m.media-amazon.com/images/I/31NHQCQCPiL._SL400_.jpg)](https://www.amazon.es/dp/B00P9PUOIY/?tag=tolees-21)
 
 🔎:
 

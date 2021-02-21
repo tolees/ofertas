@@ -2,7 +2,7 @@
 layout: post
 title: 'Tojiro Cuchillo Deba Japones - Cuchillos al 29.82 % de descuento'
 date: 2020-08-05 10:08:27
-image: 'https://m.media-amazon.com/images/I/31HaHyTfa2L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31HaHyTfa2L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '103.87'
 
 Está [Tojiro Cuchillo Deba Japones - Cuchillos de Cocina Profesionales - Acero Inoxidable - Cuchillo Chef para Carne Pescado y Verduras - Cuchillo Cebollero Profesional - Para Sushi y Sashimi - 18cm F-1055](https://www.amazon.es/dp/B001TPH6QG/?tag=tolees-21) con 29.82 de descuento por 103.87 EUR (original: 148.0 EUR) en el siguiente enlace!
 
-[![Tojiro Cuchillo Deba Japones - Cuchillos](https://m.media-amazon.com/images/I/31HaHyTfa2L._SL200_.jpg)](https://www.amazon.es/dp/B001TPH6QG/?tag=tolees-21)
+[![Tojiro Cuchillo Deba Japones - Cuchillos](https://m.media-amazon.com/images/I/31HaHyTfa2L._SL400_.jpg)](https://www.amazon.es/dp/B001TPH6QG/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Maleta de cabina rígida 55cm Movom Trafa al 30.09 % de descuento'
 date: 2020-02-10 19:58:58
-image: 'https://m.media-amazon.com/images/I/41JYYdpvT7L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41JYYdpvT7L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '51.965'
 
 Ahora mismo tienes [Maleta de cabina rígida 55cm Movom Trafalgar Amarilla](https://www.amazon.es/dp/B07N292ZRY/?tag=tolees-21) a 48.93 EUR (original: 69.99 EUR) (30.09 %  de descuento) en el siguiente enlace!
 
-[![Maleta de cabina rígida 55cm Movom Trafa](https://m.media-amazon.com/images/I/41JYYdpvT7L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07N292ZRY/?tag=tolees-21)
+[![Maleta de cabina rígida 55cm Movom Trafa](https://m.media-amazon.com/images/I/41JYYdpvT7L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07N292ZRY/?tag=tolees-21)
 
 🔎:
 

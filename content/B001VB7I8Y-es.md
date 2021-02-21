@@ -2,7 +2,7 @@
 layout: post
 title: 'Schmetz - Aguja para máquina de Coser con un 36.96 % de descuento'
 date: 2020-04-14 17:04:29
-image: 'https://m.media-amazon.com/images/I/511z+pOwCjL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/511z+pOwCjL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.35'
 
 En este momento está [Schmetz - Aguja para máquina de Coser](https://www.amazon.es/dp/B001VB7I8Y/?tag=tolees-21) a 4.35 EUR (original: 6.9 EUR) (36.96 %  de descuento) en el siguiente enlace!
 
-[![Schmetz - Aguja para máquina de Coser](https://m.media-amazon.com/images/I/511z+pOwCjL._SL200_.jpg)](https://www.amazon.es/dp/B001VB7I8Y/?tag=tolees-21)
+[![Schmetz - Aguja para máquina de Coser](https://m.media-amazon.com/images/I/511z+pOwCjL._SL400_.jpg)](https://www.amazon.es/dp/B001VB7I8Y/?tag=tolees-21)
 
 🔎:
 

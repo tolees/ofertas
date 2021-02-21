@@ -2,7 +2,7 @@
 layout: post
 title: 'G-STAR RAW 3301 Straight Classic Jeans   al 34.98 % de rebaja'
 date: 2020-10-11 10:31:10
-image: 'https://m.media-amazon.com/images/I/41FsmXSui0L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41FsmXSui0L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '45.05388888888889'
 
 Tienes [G-STAR RAW 3301 Straight Classic Jeans  Azul  Dk Aged 4639-89   28W / 34L para Hombre](https://www.amazon.es/dp/B00VXC99LK/?tag=tolees-21) con precio final de  64.99 EUR (original: 99.95 EUR) (34.98 %  de rebaja) aqui!
 
-[![G-STAR RAW 3301 Straight Classic Jeans  ](https://m.media-amazon.com/images/I/41FsmXSui0L._SL200_.jpg)](https://www.amazon.es/dp/B00VXC99LK/?tag=tolees-21)
+[![G-STAR RAW 3301 Straight Classic Jeans  ](https://m.media-amazon.com/images/I/41FsmXSui0L._SL400_.jpg)](https://www.amazon.es/dp/B00VXC99LK/?tag=tolees-21)
 
 🔎:
 

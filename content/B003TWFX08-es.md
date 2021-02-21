@@ -2,7 +2,7 @@
 layout: post
 title: 'Oregon Scientific RMR391P - Reloj proyec con un 35.46 % de descuento'
 date: 2020-02-08 09:10:43
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41F36n1y60L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41F36n1y60L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '37.86'
 
 En este momento está [Oregon Scientific RMR391P - Reloj proyector despertador con termómetro interior y exterior  fecha  alarma con repetición snooze  negro](https://www.amazon.es/dp/B003TWFX08/?tag=tolees-21) a 38.66 EUR (original: 59.9 EUR) (35.46 %  de descuento) en el siguiente enlace!
 
-[![Oregon Scientific RMR391P - Reloj proyec](https://images-eu.ssl-images-amazon.com/images/I/41F36n1y60L._SL200_.jpg)](https://www.amazon.es/dp/B003TWFX08/?tag=tolees-21)
+[![Oregon Scientific RMR391P - Reloj proyec](https://images-eu.ssl-images-amazon.com/images/I/41F36n1y60L._SL400_.jpg)](https://www.amazon.es/dp/B003TWFX08/?tag=tolees-21)
 
 🔎:
 

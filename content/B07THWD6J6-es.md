@@ -2,7 +2,7 @@
 layout: post
 title: 'Lacoste Mh6270 Pantalones Cortos  Verde  al 30.78 % de descuento'
 date: 2020-07-25 01:56:45
-image: 'https://m.media-amazon.com/images/I/41AMxDn0w9L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41AMxDn0w9L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '44.99'
 
 Está [Lacoste Mh6270 Pantalones Cortos  Verde  Vert/Marine 381   Medium para Hombre](https://www.amazon.es/dp/B07THWD6J6/?tag=tolees-21) con 30.78 de descuento por 44.99 EUR (original: 65.0 EUR) en el siguiente enlace!
 
-[![Lacoste Mh6270 Pantalones Cortos  Verde ](https://m.media-amazon.com/images/I/41AMxDn0w9L._SL200_.jpg)](https://www.amazon.es/dp/B07THWD6J6/?tag=tolees-21)
+[![Lacoste Mh6270 Pantalones Cortos  Verde ](https://m.media-amazon.com/images/I/41AMxDn0w9L._SL400_.jpg)](https://www.amazon.es/dp/B07THWD6J6/?tag=tolees-21)
 
 ℹ️:
 

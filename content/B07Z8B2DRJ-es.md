@@ -2,7 +2,7 @@
 layout: post
 title: 'Middle Moon Pala de Pádel ATILA Carbon 2 al 26.21 % de descuento'
 date: 2020-08-07 06:38:06
-image: 'https://m.media-amazon.com/images/I/41Q7y5iq7cL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Q7y5iq7cL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '109.95'
 
 Ahora mismo tienes [Middle Moon Pala de Pádel ATILA Carbon 24K 2019](https://www.amazon.es/dp/B07Z8B2DRJ/?tag=tolees-21) a 109.95 EUR (original: 149.0 EUR) (26.21 %  de descuento) en el siguiente enlace!
 
-[![Middle Moon Pala de Pádel ATILA Carbon 2](https://m.media-amazon.com/images/I/41Q7y5iq7cL._SL200_.jpg)](https://www.amazon.es/dp/B07Z8B2DRJ/?tag=tolees-21)
+[![Middle Moon Pala de Pádel ATILA Carbon 2](https://m.media-amazon.com/images/I/41Q7y5iq7cL._SL400_.jpg)](https://www.amazon.es/dp/B07Z8B2DRJ/?tag=tolees-21)
 
 🔎:
 

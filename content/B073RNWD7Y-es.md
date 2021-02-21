@@ -2,7 +2,7 @@
 layout: post
 title: 'Columbia Drainmaker IV  Zapatillas Hombr al 37.78 % de descuento'
 date: 2020-09-21 15:51:19
-image: 'https://m.media-amazon.com/images/I/41aq05HDDoL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41aq05HDDoL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '55.99'
 
 Ahora mismo tienes [Columbia Drainmaker IV  Zapatillas Hombres  Black  Black  Lux 010   44 EU](https://www.amazon.es/dp/B073RNWD7Y/?tag=tolees-21) a 55.99 EUR (original: 89.99 EUR) (37.78 %  de descuento) en el siguiente enlace!
 
-[![Columbia Drainmaker IV  Zapatillas Hombr](https://m.media-amazon.com/images/I/41aq05HDDoL._SL200_.jpg)](https://www.amazon.es/dp/B073RNWD7Y/?tag=tolees-21)
+[![Columbia Drainmaker IV  Zapatillas Hombr](https://m.media-amazon.com/images/I/41aq05HDDoL._SL400_.jpg)](https://www.amazon.es/dp/B073RNWD7Y/?tag=tolees-21)
 
 🔎:
 

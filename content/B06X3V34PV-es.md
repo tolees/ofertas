@@ -2,7 +2,7 @@
 layout: post
 title: 'Bosch Professional 2608615065 Bosch 2608 al 52.26 % de rebaja'
 date: 2020-09-11 21:38:43
-image: 'https://m.media-amazon.com/images/I/51ludIhQW+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51ludIhQW+L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.69571428571429'
 
 Tienes [Bosch Professional 2608615065 Bosch 2608615065-Disco de Diamante Standard Universal: 230mm](https://www.amazon.es/dp/B06X3V34PV/?tag=tolees-21) con precio final de  20.46 EUR (original: 42.86 EUR) (52.26 %  de rebaja) aqui!
 
-[![Bosch Professional 2608615065 Bosch 2608](https://m.media-amazon.com/images/I/51ludIhQW+L._SL200_.jpg)](https://www.amazon.es/dp/B06X3V34PV/?tag=tolees-21)
+[![Bosch Professional 2608615065 Bosch 2608](https://m.media-amazon.com/images/I/51ludIhQW+L._SL400_.jpg)](https://www.amazon.es/dp/B06X3V34PV/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Craft Short Progress Longer Shorts Contr al 34.92 % de descuento'
 date: 2020-04-11 16:41:08
-image: 'https://m.media-amazon.com/images/I/41bKUbO9BIL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41bKUbO9BIL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.89'
 
 Está [Craft Short Progress Longer Shorts Contrast](https://www.amazon.es/dp/B07W4XFV1Z/?tag=tolees-21) con 34.92 de descuento por 17.89 EUR (original: 27.49 EUR) en el siguiente enlace!
 
-[![Craft Short Progress Longer Shorts Contr](https://m.media-amazon.com/images/I/41bKUbO9BIL._SL200_.jpg)](https://www.amazon.es/dp/B07W4XFV1Z/?tag=tolees-21)
+[![Craft Short Progress Longer Shorts Contr](https://m.media-amazon.com/images/I/41bKUbO9BIL._SL400_.jpg)](https://www.amazon.es/dp/B07W4XFV1Z/?tag=tolees-21)
 
 ℹ️:
 

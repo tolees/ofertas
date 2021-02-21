@@ -2,7 +2,7 @@
 layout: post
 title: 'Hollister Wave 2 for her eau de perfume  al 62.39 % de descuento'
 date: 2020-07-10 00:33:47
-image: 'https://m.media-amazon.com/images/I/41HIaRT8O+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41HIaRT8O+L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.938333333333336'
 
 Está [Hollister Wave 2 for her eau de perfume spray 100ml](https://www.amazon.es/dp/B0727SRCY6/?tag=tolees-21) con 62.39 de descuento por 17.97 EUR (original: 47.78 EUR) en el siguiente enlace!
 
-[![Hollister Wave 2 for her eau de perfume ](https://m.media-amazon.com/images/I/41HIaRT8O+L._SL200_.jpg)](https://www.amazon.es/dp/B0727SRCY6/?tag=tolees-21)
+[![Hollister Wave 2 for her eau de perfume ](https://m.media-amazon.com/images/I/41HIaRT8O+L._SL400_.jpg)](https://www.amazon.es/dp/B0727SRCY6/?tag=tolees-21)
 
 ℹ️:
 

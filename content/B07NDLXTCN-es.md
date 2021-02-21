@@ -2,7 +2,7 @@
 layout: post
 title: 'Nixon Reloj Hombre de Digital con Correa al 29.67 % de descuento'
 date: 2020-08-05 07:49:32
-image: 'https://m.media-amazon.com/images/I/41r5L9Dg2gL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41r5L9Dg2gL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '112.53'
 
 Ahora mismo tienes [Nixon Reloj Hombre de Digital con Correa en Acero Inoxidable A1266-502-00](https://www.amazon.es/dp/B07NDLXTCN/?tag=tolees-21) a 112.53 EUR (original: 160.0 EUR) (29.67 %  de descuento) en el siguiente enlace!
 
-[![Nixon Reloj Hombre de Digital con Correa](https://m.media-amazon.com/images/I/41r5L9Dg2gL._SL200_.jpg)](https://www.amazon.es/dp/B07NDLXTCN/?tag=tolees-21)
+[![Nixon Reloj Hombre de Digital con Correa](https://m.media-amazon.com/images/I/41r5L9Dg2gL._SL400_.jpg)](https://www.amazon.es/dp/B07NDLXTCN/?tag=tolees-21)
 
 🔎:
 

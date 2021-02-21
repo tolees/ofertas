@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 31.05 % en TianTa Funda iPad Mini 5/4  Heavy Duty T'
 date: 2020-06-15 13:47:07
-image: 'https://m.media-amazon.com/images/I/51VBEJ6DrCL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51VBEJ6DrCL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.99'
 
 Tienes [TianTa Funda iPad Mini 5/4  Heavy Duty Triple Capa a Prueba de Golpes Carcasa Cover con 360 Grados Soporte/Correa  Portalápices y Bandolera para iPad Mini 5th/4th Generation 7.9 Pulgada  Rosa/Azul](https://www.amazon.es/dp/B0895PY5NS/?tag=tolees-21) con un 31.05 % de descuento con precio de oferta de 19.99 EUR (original: 28.99 EUR) en el siguiente enlace!
 
-[![TianTa Funda iPad Mini 5/4  Heavy Duty T](https://m.media-amazon.com/images/I/51VBEJ6DrCL._SL200_.jpg)](https://www.amazon.es/dp/B0895PY5NS/?tag=tolees-21)
+[![TianTa Funda iPad Mini 5/4  Heavy Duty T](https://m.media-amazon.com/images/I/51VBEJ6DrCL._SL400_.jpg)](https://www.amazon.es/dp/B0895PY5NS/?tag=tolees-21)
 
 ℹ️:
 

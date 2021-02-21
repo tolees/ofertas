@@ -2,7 +2,7 @@
 layout: post
 title: 'Deadpool 2 [Blu-ray] al 34.83 % de rebaja'
 date: 2020-09-23 06:17:14
-image: 'https://m.media-amazon.com/images/I/51P0i+GJ8DL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51P0i+GJ8DL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.790000000000001'
 
 Tienes [Deadpool 2 [Blu-ray]](https://www.amazon.es/dp/B07D5CVYR4/?tag=tolees-21) con precio final de  9.99 EUR (original: 15.33 EUR) (34.83 %  de rebaja) aqui!
 
-[![Deadpool 2 [Blu-ray]](https://m.media-amazon.com/images/I/51P0i+GJ8DL._SL200_.jpg)](https://www.amazon.es/dp/B07D5CVYR4/?tag=tolees-21)
+[![Deadpool 2 [Blu-ray]](https://m.media-amazon.com/images/I/51P0i+GJ8DL._SL400_.jpg)](https://www.amazon.es/dp/B07D5CVYR4/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Hayward Tiger Shark QC  Limpiafondos aut al 39.62 % de rebaja'
 date: 2020-06-27 16:31:10
-image: 'https://m.media-amazon.com/images/I/516MA4YwJJL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/516MA4YwJJL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '638.39'
 
 Tienes [Hayward Tiger Shark QC  Limpiafondos automático  Suelo Paredes y línea de flotación   Gris](https://www.amazon.es/dp/B0196ZD9VQ/?tag=tolees-21) con precio final de  480.0 EUR (original: 795.0 EUR) (39.62 %  de rebaja) aqui!
 
-[![Hayward Tiger Shark QC  Limpiafondos aut](https://m.media-amazon.com/images/I/516MA4YwJJL._SL200_.jpg)](https://www.amazon.es/dp/B0196ZD9VQ/?tag=tolees-21)
+[![Hayward Tiger Shark QC  Limpiafondos aut](https://m.media-amazon.com/images/I/516MA4YwJJL._SL400_.jpg)](https://www.amazon.es/dp/B0196ZD9VQ/?tag=tolees-21)
 
 🔎:
 

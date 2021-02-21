@@ -2,7 +2,7 @@
 layout: post
 title: 'JANABEBE Funda para Coche Stokke Xplori  al 38.46 % de rebaja'
 date: 2020-05-26 16:40:39
-image: 'https://m.media-amazon.com/images/I/41i-vnyTMJL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41i-vnyTMJL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.0'
 
 Tienes [JANABEBE Funda para Coche Stokke Xplori y Stokke Crusi  BLUE SPARKLES ](https://www.amazon.es/dp/B077ZXFD14/?tag=tolees-21) con precio final de  24.0 EUR (original: 39.0 EUR) (38.46 %  de rebaja) aqui!
 
-[![JANABEBE Funda para Coche Stokke Xplori ](https://m.media-amazon.com/images/I/41i-vnyTMJL._SL200_.jpg)](https://www.amazon.es/dp/B077ZXFD14/?tag=tolees-21)
+[![JANABEBE Funda para Coche Stokke Xplori ](https://m.media-amazon.com/images/I/41i-vnyTMJL._SL400_.jpg)](https://www.amazon.es/dp/B077ZXFD14/?tag=tolees-21)
 
 🔎:
 

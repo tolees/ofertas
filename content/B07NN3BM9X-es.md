@@ -2,7 +2,7 @@
 layout: post
 title: 'Digimon Data Squad  Vol. 3 [Alemania] [D al 33.88 % de rebaja'
 date: 2020-04-17 05:03:54
-image: 'https://m.media-amazon.com/images/I/51bPvquHshL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51bPvquHshL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.72'
 
 Tienes [Digimon Data Squad  Vol. 3 [Alemania] [DVD]](https://www.amazon.es/dp/B07NN3BM9X/?tag=tolees-21) con precio final de  13.72 EUR (original: 20.75 EUR) (33.88 %  de rebaja) aqui!
 
-[![Digimon Data Squad  Vol. 3 [Alemania] [D](https://m.media-amazon.com/images/I/51bPvquHshL._SL200_.jpg)](https://www.amazon.es/dp/B07NN3BM9X/?tag=tolees-21)
+[![Digimon Data Squad  Vol. 3 [Alemania] [D](https://m.media-amazon.com/images/I/51bPvquHshL._SL400_.jpg)](https://www.amazon.es/dp/B07NN3BM9X/?tag=tolees-21)
 
 🔎:
 

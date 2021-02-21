@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 37.47 % en Buff Solid Gorro Lana Merino Lightweight'
 date: 2020-01-18 22:55:49
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41RgMMmDceL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41RgMMmDceL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.98'
 
 Tienes [Buff Solid Gorro Lana Merino Lightweight  Unisex Adulto  White  Talla Única](https://www.amazon.es/dp/B012GR9HS0/?tag=tolees-21) con un 37.47 % de descuento con precio de oferta de 9.98 EUR (original: 15.96 EUR) en el siguiente enlace!
 
-[![Buff Solid Gorro Lana Merino Lightweight](https://images-eu.ssl-images-amazon.com/images/I/41RgMMmDceL._SL200_.jpg)](https://www.amazon.es/dp/B012GR9HS0/?tag=tolees-21)
+[![Buff Solid Gorro Lana Merino Lightweight](https://images-eu.ssl-images-amazon.com/images/I/41RgMMmDceL._SL400_.jpg)](https://www.amazon.es/dp/B012GR9HS0/?tag=tolees-21)
 
 ℹ️:
 

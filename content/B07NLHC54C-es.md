@@ -2,7 +2,7 @@
 layout: post
 title: 'Versace Jeans CoutureBorsaMujerBolso de  al 59.04 % de rebaja'
 date: 2020-04-07 19:18:19
-image: 'https://m.media-amazon.com/images/I/31vhWGzuk-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31vhWGzuk-L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '108.02'
 
 Tienes [Versace Jeans CoutureBorsaMujerBolso de manoMarrón  Legno  13x20x47 centimeters  W x H x L ](https://www.amazon.es/dp/B07NLHC54C/?tag=tolees-21) con precio final de  82.32 EUR (original: 201.0 EUR) (59.04 %  de rebaja) aqui!
 
-[![Versace Jeans CoutureBorsaMujerBolso de ](https://m.media-amazon.com/images/I/31vhWGzuk-L._SL200_.jpg)](https://www.amazon.es/dp/B07NLHC54C/?tag=tolees-21)
+[![Versace Jeans CoutureBorsaMujerBolso de ](https://m.media-amazon.com/images/I/31vhWGzuk-L._SL400_.jpg)](https://www.amazon.es/dp/B07NLHC54C/?tag=tolees-21)
 
 🔎:
 

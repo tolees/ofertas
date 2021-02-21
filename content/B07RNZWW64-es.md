@@ -2,7 +2,7 @@
 layout: post
 title: 'Madden NFL 20 - Standard  | PC Download  al 66.68 % de rebaja'
 date: 2020-05-06 20:27:00
-image: 'https://m.media-amazon.com/images/I/51xxp505RZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51xxp505RZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '22.79'
 
 Tienes [Madden NFL 20 - Standard  | PC Download - Origin Code](https://www.amazon.es/dp/B07RNZWW64/?tag=tolees-21) con precio final de  19.99 EUR (original: 59.99 EUR) (66.68 %  de rebaja) aqui!
 
-[![Madden NFL 20 - Standard  | PC Download ](https://m.media-amazon.com/images/I/51xxp505RZL._SL200_.jpg)](https://www.amazon.es/dp/B07RNZWW64/?tag=tolees-21)
+[![Madden NFL 20 - Standard  | PC Download ](https://m.media-amazon.com/images/I/51xxp505RZL._SL400_.jpg)](https://www.amazon.es/dp/B07RNZWW64/?tag=tolees-21)
 
 🔎:
 

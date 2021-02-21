@@ -2,7 +2,7 @@
 layout: post
 title: 'SANOFI - VASELINA CUSI 30 G al 68.75 % de descuento'
 date: 2020-03-09 16:02:17
-image: 'https://m.media-amazon.com/images/I/31MwNXWOrIL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31MwNXWOrIL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.25'
 
 Ahora mismo tienes [SANOFI - VASELINA CUSI 30 G](https://www.amazon.es/dp/B00TTWVA72/?tag=tolees-21) a 3.25 EUR (original: 10.4 EUR) (68.75 %  de descuento) en el siguiente enlace!
 
-[![SANOFI - VASELINA CUSI 30 G](https://m.media-amazon.com/images/I/31MwNXWOrIL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B00TTWVA72/?tag=tolees-21)
+[![SANOFI - VASELINA CUSI 30 G](https://m.media-amazon.com/images/I/31MwNXWOrIL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B00TTWVA72/?tag=tolees-21)
 
 🔎:
 

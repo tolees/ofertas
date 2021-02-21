@@ -2,7 +2,7 @@
 layout: post
 title: 'Chupa Chups Sin Azúcar  Caramelo con Pal al 49.75 % de descuento'
 date: 2020-05-27 19:34:33
-image: 'https://m.media-amazon.com/images/I/51qFEIekXtL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51qFEIekXtL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.0'
 
 Ahora mismo tienes [Chupa Chups Sin Azúcar  Caramelo con Palo de Sabores Variados - Bolsa de 6 unidades de 11 gr/ud](https://www.amazon.es/dp/B07X67MLNC/?tag=tolees-21) a 1.0 EUR (original: 1.99 EUR) (49.75 %  de descuento) en el siguiente enlace!
 
-[![Chupa Chups Sin Azúcar  Caramelo con Pal](https://m.media-amazon.com/images/I/51qFEIekXtL._SL200_.jpg)](https://www.amazon.es/dp/B07X67MLNC/?tag=tolees-21)
+[![Chupa Chups Sin Azúcar  Caramelo con Pal](https://m.media-amazon.com/images/I/51qFEIekXtL._SL400_.jpg)](https://www.amazon.es/dp/B07X67MLNC/?tag=tolees-21)
 
 🔎:
 

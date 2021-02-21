@@ -2,7 +2,7 @@
 layout: post
 title: 'Funko- Pop Ride Racer-Speed w/Mach 5 Col con un 69.22 % de descuento'
 date: 2020-08-17 14:53:06
-image: 'https://m.media-amazon.com/images/I/41UMtsvxCZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41UMtsvxCZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.790000000000001'
 
 En este momento está [Funko- Pop Ride Racer-Speed w/Mach 5 Collectible Toy  Multicolor  45098 ](https://www.amazon.es/dp/B07TTD3SCS/?tag=tolees-21) a 11.99 EUR (original: 38.95 EUR) (69.22 %  de descuento) en el siguiente enlace!
 
-[![Funko- Pop Ride Racer-Speed w/Mach 5 Col](https://m.media-amazon.com/images/I/41UMtsvxCZL._SL200_.jpg)](https://www.amazon.es/dp/B07TTD3SCS/?tag=tolees-21)
+[![Funko- Pop Ride Racer-Speed w/Mach 5 Col](https://m.media-amazon.com/images/I/41UMtsvxCZL._SL400_.jpg)](https://www.amazon.es/dp/B07TTD3SCS/?tag=tolees-21)
 
 🔎:
 

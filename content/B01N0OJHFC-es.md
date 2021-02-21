@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 49.99 % en Edgar Allan Poe: La Adaptación al Cine d'
 date: 2020-06-04 10:13:53
-image: 'https://m.media-amazon.com/images/I/51ZFssThKJL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51ZFssThKJL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.0'
 
 Tienes [Edgar Allan Poe: La Adaptación al Cine de sus Relatos de Terror [DVD]](https://www.amazon.es/dp/B01N0OJHFC/?tag=tolees-21) con un 49.99 % de descuento con precio de oferta de 20.0 EUR (original: 39.99 EUR) en el siguiente enlace!
 
-[![Edgar Allan Poe: La Adaptación al Cine d](https://m.media-amazon.com/images/I/51ZFssThKJL._SL200_.jpg)](https://www.amazon.es/dp/B01N0OJHFC/?tag=tolees-21)
+[![Edgar Allan Poe: La Adaptación al Cine d](https://m.media-amazon.com/images/I/51ZFssThKJL._SL400_.jpg)](https://www.amazon.es/dp/B01N0OJHFC/?tag=tolees-21)
 
 ℹ️:
 

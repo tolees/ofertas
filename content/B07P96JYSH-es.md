@@ -2,7 +2,7 @@
 layout: post
 title: 'Pop! Figura de Vinilo: Películas: The Nu al 35.51 % de descuento'
 date: 2020-10-05 12:10:46
-image: 'https://m.media-amazon.com/images/I/418tBDJojxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/418tBDJojxL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.079777777777778'
 
 Está [Pop! Figura de Vinilo: Películas: The Nun - Demonic Nun](https://www.amazon.es/dp/B07P96JYSH/?tag=tolees-21) con 35.51 de descuento por 10.77 EUR (original: 16.7 EUR) en el siguiente enlace!
 
-[![Pop! Figura de Vinilo: Películas: The Nu](https://m.media-amazon.com/images/I/418tBDJojxL._SL200_.jpg)](https://www.amazon.es/dp/B07P96JYSH/?tag=tolees-21)
+[![Pop! Figura de Vinilo: Películas: The Nu](https://m.media-amazon.com/images/I/418tBDJojxL._SL400_.jpg)](https://www.amazon.es/dp/B07P96JYSH/?tag=tolees-21)
 
 ℹ️:
 

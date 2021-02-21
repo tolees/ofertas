@@ -2,7 +2,7 @@
 layout: post
 title: 'Gorra de béisbol para niños Gorra de béi al 52.63 % de descuento'
 date: 2020-08-14 07:31:23
-image: 'https://m.media-amazon.com/images/I/519gleVEMdL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/519gleVEMdL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.89'
 
 Está [Gorra de béisbol para niños Gorra de béisbol Gorra de béisbol Plegable Suave Protección Solar Gorra de Pescador Playa Al Aire Libre](https://www.amazon.es/dp/B07CNWLK1C/?tag=tolees-21) con 52.63 de descuento por 1.89 EUR (original: 3.99 EUR) en el siguiente enlace!
 
-[![Gorra de béisbol para niños Gorra de béi](https://m.media-amazon.com/images/I/519gleVEMdL._SL200_.jpg)](https://www.amazon.es/dp/B07CNWLK1C/?tag=tolees-21)
+[![Gorra de béisbol para niños Gorra de béi](https://m.media-amazon.com/images/I/519gleVEMdL._SL400_.jpg)](https://www.amazon.es/dp/B07CNWLK1C/?tag=tolees-21)
 
 ℹ️:
 

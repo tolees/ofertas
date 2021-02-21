@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 52.75 % en Bourjois Velvet Barra de Labios Líquida '
 date: 2020-05-10 09:43:28
-image: 'https://m.media-amazon.com/images/I/417XiogxUKL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/417XiogxUKL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.55'
 
 Tienes [Bourjois Velvet Barra de Labios Líquida Tono 13 Fu n chsia - 7.7ml](https://www.amazon.es/dp/B015WSEBTA/?tag=tolees-21) con un 52.75 % de descuento con precio de oferta de 4.55 EUR (original: 9.63 EUR) en el siguiente enlace!
 
-[![Bourjois Velvet Barra de Labios Líquida ](https://m.media-amazon.com/images/I/417XiogxUKL._SL200_.jpg)](https://www.amazon.es/dp/B015WSEBTA/?tag=tolees-21)
+[![Bourjois Velvet Barra de Labios Líquida ](https://m.media-amazon.com/images/I/417XiogxUKL._SL400_.jpg)](https://www.amazon.es/dp/B015WSEBTA/?tag=tolees-21)
 
 ℹ️:
 

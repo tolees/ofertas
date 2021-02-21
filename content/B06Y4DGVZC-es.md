@@ -2,7 +2,7 @@
 layout: post
 title: 'DAMN. al 39.11 % de rebaja'
 date: 2020-10-04 18:00:30
-image: 'https://m.media-amazon.com/images/I/51c0HfMGfPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51c0HfMGfPL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.99'
 
 Tienes [DAMN.](https://www.amazon.es/dp/B06Y4DGVZC/?tag=tolees-21) con precio final de  6.99 EUR (original: 11.48 EUR) (39.11 %  de rebaja) aqui!
 
-[![DAMN.](https://m.media-amazon.com/images/I/51c0HfMGfPL._SL200_.jpg)](https://www.amazon.es/dp/B06Y4DGVZC/?tag=tolees-21)
+[![DAMN.](https://m.media-amazon.com/images/I/51c0HfMGfPL._SL400_.jpg)](https://www.amazon.es/dp/B06Y4DGVZC/?tag=tolees-21)
 
 🔎:
 

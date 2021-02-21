@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 28.62 % en Kit Original de Tatuajes con Brillantina'
 date: 2020-04-17 00:35:42
-image: 'https://m.media-amazon.com/images/I/51IyrZ9fAIL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51IyrZ9fAIL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.95'
 
 Tienes [Kit Original de Tatuajes con Brillantina: Tatuajes temporales para niños y Adolescentes con 6 brillantinas Grandes y Plantillas Reutilizables](https://www.amazon.es/dp/B01N4ATC05/?tag=tolees-21) con un 28.62 % de descuento con precio de oferta de 19.95 EUR (original: 27.95 EUR) en el siguiente enlace!
 
-[![Kit Original de Tatuajes con Brillantina](https://m.media-amazon.com/images/I/51IyrZ9fAIL._SL200_.jpg)](https://www.amazon.es/dp/B01N4ATC05/?tag=tolees-21)
+[![Kit Original de Tatuajes con Brillantina](https://m.media-amazon.com/images/I/51IyrZ9fAIL._SL400_.jpg)](https://www.amazon.es/dp/B01N4ATC05/?tag=tolees-21)
 
 ℹ️:
 

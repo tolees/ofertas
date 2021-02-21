@@ -2,7 +2,7 @@
 layout: post
 title: 'Toshiba THN-M203K0160EA Tarjeta de memor al 25.03 % de rebaja'
 date: 2020-03-11 11:07:33
-image: 'https://m.media-amazon.com/images/I/41UCRWsKMOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41UCRWsKMOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.945'
 
 Tienes [Toshiba THN-M203K0160EA Tarjeta de memoria  16 GB  MicroSDXC  Clase 10  UHS-I  100 MB/s  Negro   16gb  Negro](https://www.amazon.es/dp/B078TPK9JF/?tag=tolees-21) con precio final de  5.99 EUR (original: 7.99 EUR) (25.03 %  de rebaja) aqui!
 
-[![Toshiba THN-M203K0160EA Tarjeta de memor](https://m.media-amazon.com/images/I/41UCRWsKMOL._SL200_.jpg)](https://www.amazon.es/dp/B078TPK9JF/?tag=tolees-21)
+[![Toshiba THN-M203K0160EA Tarjeta de memor](https://m.media-amazon.com/images/I/41UCRWsKMOL._SL400_.jpg)](https://www.amazon.es/dp/B078TPK9JF/?tag=tolees-21)
 
 🔎:
 

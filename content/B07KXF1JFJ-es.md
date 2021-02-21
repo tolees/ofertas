@@ -2,7 +2,7 @@
 layout: post
 title: 'Lékué  Juego de cubiertos para llevar  A al 49.22 % de descuento'
 date: 2020-07-08 22:51:20
-image: 'https://m.media-amazon.com/images/I/21wibBa5dtL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21wibBa5dtL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.996666666666666'
 
 Está [Lékué  Juego de cubiertos para llevar  Acero Inoxidable](https://www.amazon.es/dp/B07KXF1JFJ/?tag=tolees-21) con 49.22 de descuento por 6.55 EUR (original: 12.9 EUR) en el siguiente enlace!
 
-[![Lékué  Juego de cubiertos para llevar  A](https://m.media-amazon.com/images/I/21wibBa5dtL._SL200_.jpg)](https://www.amazon.es/dp/B07KXF1JFJ/?tag=tolees-21)
+[![Lékué  Juego de cubiertos para llevar  A](https://m.media-amazon.com/images/I/21wibBa5dtL._SL400_.jpg)](https://www.amazon.es/dp/B07KXF1JFJ/?tag=tolees-21)
 
 ℹ️:
 

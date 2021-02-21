@@ -2,7 +2,7 @@
 layout: post
 title: 'Asics Patriot 10  Zapatillas de Running  al 47.52 % de rebaja'
 date: 2020-01-25 19:11:45
-image: 'https://m.media-amazon.com/images/I/41Qw7ZjrehL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Qw7ZjrehL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '31.49'
 
 Tienes [Asics Patriot 10  Zapatillas de Running para Mujer  Rosa  Baked Pink/Steel Blue 700   39 EU](https://www.amazon.es/dp/B07K74GDK4/?tag=tolees-21) con precio final de  31.49 EUR (original: 60.0 EUR) (47.52 %  de rebaja) aqui!
 
-[![Asics Patriot 10  Zapatillas de Running ](https://m.media-amazon.com/images/I/41Qw7ZjrehL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07K74GDK4/?tag=tolees-21)
+[![Asics Patriot 10  Zapatillas de Running ](https://m.media-amazon.com/images/I/41Qw7ZjrehL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07K74GDK4/?tag=tolees-21)
 
 🔎:
 

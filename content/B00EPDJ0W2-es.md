@@ -2,7 +2,7 @@
 layout: post
 title: 'Oral-B Pro 600 3D White - Cepillo de Die al 50.56 % de descuento'
 date: 2020-09-28 11:24:50
-image: 'https://m.media-amazon.com/images/I/51Eqtql-BsL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Eqtql-BsL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '27.183333333333334'
 
 Ahora mismo tienes [Oral-B Pro 600 3D White - Cepillo de Dientes Eléctrico con Tecnología Braun](https://www.amazon.es/dp/B00EPDJ0W2/?tag=tolees-21) a 25.83 EUR (original: 52.24 EUR) (50.56 %  de descuento) en el siguiente enlace!
 
-[![Oral-B Pro 600 3D White - Cepillo de Die](https://m.media-amazon.com/images/I/51Eqtql-BsL._SL200_.jpg)](https://www.amazon.es/dp/B00EPDJ0W2/?tag=tolees-21)
+[![Oral-B Pro 600 3D White - Cepillo de Die](https://m.media-amazon.com/images/I/51Eqtql-BsL._SL400_.jpg)](https://www.amazon.es/dp/B00EPDJ0W2/?tag=tolees-21)
 
 🔎:
 

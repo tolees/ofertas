@@ -2,7 +2,7 @@
 layout: post
 title: 'KRY Ear Wax Remover - Limpiador de oídos al 28.20 % de descuento'
 date: 2020-06-01 12:40:28
-image: 'https://m.media-amazon.com/images/I/21teFC0Yh5L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21teFC0Yh5L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.86'
 
 Ahora mismo tienes [KRY Ear Wax Remover - Limpiador de oídos en espiral seguro y suave - Herramienta profesional portátil de extracción de orejas Pick Ear](https://www.amazon.es/dp/B088LYQ2ZL/?tag=tolees-21) a 19.86 EUR (original: 27.66 EUR) (28.20 %  de descuento) en el siguiente enlace!
 
-[![KRY Ear Wax Remover - Limpiador de oídos](https://m.media-amazon.com/images/I/21teFC0Yh5L._SL200_.jpg)](https://www.amazon.es/dp/B088LYQ2ZL/?tag=tolees-21)
+[![KRY Ear Wax Remover - Limpiador de oídos](https://m.media-amazon.com/images/I/21teFC0Yh5L._SL400_.jpg)](https://www.amazon.es/dp/B088LYQ2ZL/?tag=tolees-21)
 
 🔎:
 

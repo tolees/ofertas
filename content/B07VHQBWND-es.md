@@ -2,7 +2,7 @@
 layout: post
 title: 'REPLAY M9715 .000.22906 Pantalones de De al 36.25 % de descuento'
 date: 2020-05-27 11:43:55
-image: 'https://m.media-amazon.com/images/I/31XrBmV9ReL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31XrBmV9ReL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '43.99'
 
 Ahora mismo tienes [REPLAY M9715 .000.22906 Pantalones de Deporte  Azul  Blue 085   52  Talla del Fabricante: Medium  para Hombre](https://www.amazon.es/dp/B07VHQBWND/?tag=tolees-21) a 43.99 EUR (original: 69.0 EUR) (36.25 %  de descuento) en el siguiente enlace!
 
-[![REPLAY M9715 .000.22906 Pantalones de De](https://m.media-amazon.com/images/I/31XrBmV9ReL._SL200_.jpg)](https://www.amazon.es/dp/B07VHQBWND/?tag=tolees-21)
+[![REPLAY M9715 .000.22906 Pantalones de De](https://m.media-amazon.com/images/I/31XrBmV9ReL._SL400_.jpg)](https://www.amazon.es/dp/B07VHQBWND/?tag=tolees-21)
 
 🔎:
 

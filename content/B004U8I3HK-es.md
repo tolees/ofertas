@@ -2,7 +2,7 @@
 layout: post
 title: 'Lindy 70421 - Conector acodado Toslink con un 43.88 % de descuento'
 date: 2020-04-23 03:54:51
-image: 'https://m.media-amazon.com/images/I/31GBJ2gKBQL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31GBJ2gKBQL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.9'
 
 En este momento está [Lindy 70421 - Conector acodado Toslink](https://www.amazon.es/dp/B004U8I3HK/?tag=tolees-21) a 3.9 EUR (original: 6.95 EUR) (43.88 %  de descuento) en el siguiente enlace!
 
-[![Lindy 70421 - Conector acodado Toslink](https://m.media-amazon.com/images/I/31GBJ2gKBQL._SL200_.jpg)](https://www.amazon.es/dp/B004U8I3HK/?tag=tolees-21)
+[![Lindy 70421 - Conector acodado Toslink](https://m.media-amazon.com/images/I/31GBJ2gKBQL._SL400_.jpg)](https://www.amazon.es/dp/B004U8I3HK/?tag=tolees-21)
 
 🔎:
 

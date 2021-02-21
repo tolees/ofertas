@@ -2,7 +2,7 @@
 layout: post
 title: 'Lee Extreme Motion Straight Jeans  Azul  al 44.76 % de descuento'
 date: 2020-06-04 01:22:30
-image: 'https://m.media-amazon.com/images/I/416RA5UoULL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/416RA5UoULL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '38.64'
 
 Ahora mismo tienes [Lee Extreme Motion Straight Jeans  Azul  Theo AC   31W / 34L para Hombre](https://www.amazon.es/dp/B07VBGLNMN/?tag=tolees-21) a 38.64 EUR (original: 69.95 EUR) (44.76 %  de descuento) en el siguiente enlace!
 
-[![Lee Extreme Motion Straight Jeans  Azul ](https://m.media-amazon.com/images/I/416RA5UoULL._SL200_.jpg)](https://www.amazon.es/dp/B07VBGLNMN/?tag=tolees-21)
+[![Lee Extreme Motion Straight Jeans  Azul ](https://m.media-amazon.com/images/I/416RA5UoULL._SL400_.jpg)](https://www.amazon.es/dp/B07VBGLNMN/?tag=tolees-21)
 
 🔎:
 

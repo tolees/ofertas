@@ -2,7 +2,7 @@
 layout: post
 title: 'Un Paso Adelante - Serie Completa  25 añ con un 40.00 % de descuento'
 date: 2020-09-28 06:28:01
-image: 'https://m.media-amazon.com/images/I/51mazR5QdLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51mazR5QdLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '71.99'
 
 En este momento está [Un Paso Adelante - Serie Completa  25 años A3  [DVD]](https://www.amazon.es/dp/B0132JQH3E/?tag=tolees-21) a 71.99 EUR (original: 119.99 EUR) (40.00 %  de descuento) en el siguiente enlace!
 
-[![Un Paso Adelante - Serie Completa  25 añ](https://m.media-amazon.com/images/I/51mazR5QdLL._SL200_.jpg)](https://www.amazon.es/dp/B0132JQH3E/?tag=tolees-21)
+[![Un Paso Adelante - Serie Completa  25 añ](https://m.media-amazon.com/images/I/51mazR5QdLL._SL400_.jpg)](https://www.amazon.es/dp/B0132JQH3E/?tag=tolees-21)
 
 🔎:
 

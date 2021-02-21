@@ -2,7 +2,7 @@
 layout: post
 title: 'New Balance 574 Core Plus  Zapatillas pa al 35.17 % de descuento'
 date: 2020-04-22 16:50:34
-image: 'https://m.media-amazon.com/images/I/41reZgHa9QL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41reZgHa9QL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '58.35'
 
 Está [New Balance 574 Core Plus  Zapatillas para Hombre  Gris  Gunmetal/Navy ESD   40 EU  Talla Fabricante: 6.5 UK ](https://www.amazon.es/dp/B0751VKSRF/?tag=tolees-21) con 35.17 de descuento por 58.35 EUR (original: 90.0 EUR) en el siguiente enlace!
 
-[![New Balance 574 Core Plus  Zapatillas pa](https://m.media-amazon.com/images/I/41reZgHa9QL._SL200_.jpg)](https://www.amazon.es/dp/B0751VKSRF/?tag=tolees-21)
+[![New Balance 574 Core Plus  Zapatillas pa](https://m.media-amazon.com/images/I/41reZgHa9QL._SL400_.jpg)](https://www.amazon.es/dp/B0751VKSRF/?tag=tolees-21)
 
 ℹ️:
 

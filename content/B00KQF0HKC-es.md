@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 25.66 % en Baby Dan Slim fit - Barrera de seguridad'
 date: 2020-04-11 04:00:58
-image: 'https://m.media-amazon.com/images/I/41kqFzr5UwL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41kqFzr5UwL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '48.104'
 
 Tienes [Baby Dan Slim fit - Barrera de seguridad](https://www.amazon.es/dp/B00KQF0HKC/?tag=tolees-21) con un 25.66 % de descuento con precio de oferta de 45.08 EUR (original: 60.64 EUR) en el siguiente enlace!
 
-[![Baby Dan Slim fit - Barrera de seguridad](https://m.media-amazon.com/images/I/41kqFzr5UwL._SL200_.jpg)](https://www.amazon.es/dp/B00KQF0HKC/?tag=tolees-21)
+[![Baby Dan Slim fit - Barrera de seguridad](https://m.media-amazon.com/images/I/41kqFzr5UwL._SL400_.jpg)](https://www.amazon.es/dp/B00KQF0HKC/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'New Balance 574v2  Zapatillas para Mujer al 27.79 % de rebaja'
 date: 2020-04-14 01:10:12
-image: 'https://m.media-amazon.com/images/I/410gAP0OvVL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/410gAP0OvVL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '64.99'
 
 Tienes [New Balance 574v2  Zapatillas para Mujer  Gris  Grey/White O A A   36.5 EU](https://www.amazon.es/dp/B07RYL4YBS/?tag=tolees-21) con precio final de  64.99 EUR (original: 90.0 EUR) (27.79 %  de rebaja) aqui!
 
-[![New Balance 574v2  Zapatillas para Mujer](https://m.media-amazon.com/images/I/410gAP0OvVL._SL200_.jpg)](https://www.amazon.es/dp/B07RYL4YBS/?tag=tolees-21)
+[![New Balance 574v2  Zapatillas para Mujer](https://m.media-amazon.com/images/I/410gAP0OvVL._SL400_.jpg)](https://www.amazon.es/dp/B07RYL4YBS/?tag=tolees-21)
 
 🔎:
 

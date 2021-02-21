@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour Streaker 2.0 Racer Tanque   con un 60.26 % de descuento'
 date: 2020-04-13 05:30:41
-image: 'https://m.media-amazon.com/images/I/41nOaZC97rL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41nOaZC97rL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.91'
 
 En este momento está [Under Armour Streaker 2.0 Racer Tanque  Mujer  Negro  Black/Black/Reflective 001   XL](https://www.amazon.es/dp/B07CZ9BBH8/?tag=tolees-21) a 13.91 EUR (original: 35.0 EUR) (60.26 %  de descuento) en el siguiente enlace!
 
-[![Under Armour Streaker 2.0 Racer Tanque  ](https://m.media-amazon.com/images/I/41nOaZC97rL._SL200_.jpg)](https://www.amazon.es/dp/B07CZ9BBH8/?tag=tolees-21)
+[![Under Armour Streaker 2.0 Racer Tanque  ](https://m.media-amazon.com/images/I/41nOaZC97rL._SL400_.jpg)](https://www.amazon.es/dp/B07CZ9BBH8/?tag=tolees-21)
 
 🔎:
 

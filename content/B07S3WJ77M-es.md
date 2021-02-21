@@ -2,7 +2,7 @@
 layout: post
 title: 'New Balance 574v2  Zapatillas para Hombr al 33.34 % de descuento'
 date: 2020-04-12 08:07:22
-image: 'https://m.media-amazon.com/images/I/41UlFIQc5wL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41UlFIQc5wL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '59.99'
 
 Ahora mismo tienes [New Balance 574v2  Zapatillas para Hombre  Azul  Blue/Black Sck   43 EU](https://www.amazon.es/dp/B07S3WJ77M/?tag=tolees-21) a 59.99 EUR (original: 90.0 EUR) (33.34 %  de descuento) en el siguiente enlace!
 
-[![New Balance 574v2  Zapatillas para Hombr](https://m.media-amazon.com/images/I/41UlFIQc5wL._SL200_.jpg)](https://www.amazon.es/dp/B07S3WJ77M/?tag=tolees-21)
+[![New Balance 574v2  Zapatillas para Hombr](https://m.media-amazon.com/images/I/41UlFIQc5wL._SL400_.jpg)](https://www.amazon.es/dp/B07S3WJ77M/?tag=tolees-21)
 
 🔎:
 

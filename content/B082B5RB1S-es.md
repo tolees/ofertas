@@ -2,7 +2,7 @@
 layout: post
 title: '2 Piezas De Perfume Original Para Mujer  al 33.96 % de descuento'
 date: 2020-04-12 16:06:09
-image: 'https://m.media-amazon.com/images/I/41VLxCctIeL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41VLxCctIeL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.19'
 
 Está [2 Piezas De Perfume Original Para Mujer Perfume De Encaje De Fragancia De Flores De Larga Duración 50 Ml Regalo De Vacaciones De Cumpleaños Clásico De Eternidad 02 ](https://www.amazon.es/dp/B082B5RB1S/?tag=tolees-21) con 33.96 de descuento por 10.19 EUR (original: 15.43 EUR) en el siguiente enlace!
 
-[![2 Piezas De Perfume Original Para Mujer ](https://m.media-amazon.com/images/I/41VLxCctIeL._SL200_.jpg)](https://www.amazon.es/dp/B082B5RB1S/?tag=tolees-21)
+[![2 Piezas De Perfume Original Para Mujer ](https://m.media-amazon.com/images/I/41VLxCctIeL._SL400_.jpg)](https://www.amazon.es/dp/B082B5RB1S/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'WOLTU Persiana Enrollable Sin Perforació al 26.86 % de descuento'
 date: 2020-07-08 13:12:21
-image: 'https://m.media-amazon.com/images/I/414Wgq9qCdL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/414Wgq9qCdL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '25.59'
 
 Está [WOLTU Persiana Enrollable Sin Perforación Persiana Enrollable Lateral Translúcida 120x150 cm Blanco VH5524ws](https://www.amazon.es/dp/B017NEDJC6/?tag=tolees-21) con 26.86 de descuento por 25.59 EUR (original: 34.99 EUR) en el siguiente enlace!
 
-[![WOLTU Persiana Enrollable Sin Perforació](https://m.media-amazon.com/images/I/414Wgq9qCdL._SL200_.jpg)](https://www.amazon.es/dp/B017NEDJC6/?tag=tolees-21)
+[![WOLTU Persiana Enrollable Sin Perforació](https://m.media-amazon.com/images/I/414Wgq9qCdL._SL400_.jpg)](https://www.amazon.es/dp/B017NEDJC6/?tag=tolees-21)
 
 ℹ️:
 

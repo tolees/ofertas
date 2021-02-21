@@ -2,7 +2,7 @@
 layout: post
 title: 'Hyundai HYBC5080AV Desbrozadora con Moto al 40.63 % de descuento'
 date: 2020-07-23 15:13:17
-image: 'https://m.media-amazon.com/images/I/31+xRjRaNfL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31+xRjRaNfL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '160.03263157894733'
 
 Ahora mismo tienes [Hyundai HYBC5080AV Desbrozadora con Motor a 2 Tiempos Pro  Azul  182 x 75 x 50 cm](https://www.amazon.es/dp/B071ZMQW97/?tag=tolees-21) a 159.7 EUR (original: 269.0 EUR) (40.63 %  de descuento) en el siguiente enlace!
 
-[![Hyundai HYBC5080AV Desbrozadora con Moto](https://m.media-amazon.com/images/I/31+xRjRaNfL._SL200_.jpg)](https://www.amazon.es/dp/B071ZMQW97/?tag=tolees-21)
+[![Hyundai HYBC5080AV Desbrozadora con Moto](https://m.media-amazon.com/images/I/31+xRjRaNfL._SL400_.jpg)](https://www.amazon.es/dp/B071ZMQW97/?tag=tolees-21)
 
 🔎:
 

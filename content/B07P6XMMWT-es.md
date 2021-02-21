@@ -2,7 +2,7 @@
 layout: post
 title: 'Pop! Bobble: Marvel: Venom S2 - Storm al 26.08 % de descuento'
 date: 2020-05-24 07:21:04
-image: 'https://m.media-amazon.com/images/I/4135WWXfCbL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/4135WWXfCbL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.844999999999999'
 
 Está [Pop! Bobble: Marvel: Venom S2 - Storm](https://www.amazon.es/dp/B07P6XMMWT/?tag=tolees-21) con 26.08 de descuento por 8.22 EUR (original: 11.12 EUR) en el siguiente enlace!
 
-[![Pop! Bobble: Marvel: Venom S2 - Storm](https://m.media-amazon.com/images/I/4135WWXfCbL._SL200_.jpg)](https://www.amazon.es/dp/B07P6XMMWT/?tag=tolees-21)
+[![Pop! Bobble: Marvel: Venom S2 - Storm](https://m.media-amazon.com/images/I/4135WWXfCbL._SL400_.jpg)](https://www.amazon.es/dp/B07P6XMMWT/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Woxter Stinger Hub Red- Hub multipuerto  al 50.05 % de descuento'
 date: 2020-02-14 20:30:20
-image: 'https://m.media-amazon.com/images/I/51umfYrP+LL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51umfYrP+LL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.99'
 
 Está [Woxter Stinger Hub Red- Hub multipuerto retroiluminado  4 Puertos  USB  soporte para teléfono y compartimento para tarjetas SD   Color Rojo](https://www.amazon.es/dp/B01MQQERZE/?tag=tolees-21) con 50.05 de descuento por 4.99 EUR (original: 9.99 EUR) en el siguiente enlace!
 
-[![Woxter Stinger Hub Red- Hub multipuerto ](https://m.media-amazon.com/images/I/51umfYrP+LL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01MQQERZE/?tag=tolees-21)
+[![Woxter Stinger Hub Red- Hub multipuerto ](https://m.media-amazon.com/images/I/51umfYrP+LL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01MQQERZE/?tag=tolees-21)
 
 ℹ️:
 

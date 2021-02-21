@@ -2,7 +2,7 @@
 layout: post
 title: 'Orbegozo WF 0242 Ventilador de pared  40 al 31.05 % de descuento'
 date: 2020-05-30 19:24:28
-image: 'https://m.media-amazon.com/images/I/41PfFN2o8vL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41PfFN2o8vL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '33.620000000000005'
 
 Ahora mismo tienes [Orbegozo WF 0242 Ventilador de pared  40 W  3 Velocidades  Blanco](https://www.amazon.es/dp/B007PRW9S2/?tag=tolees-21) a 33.93 EUR (original: 49.21 EUR) (31.05 %  de descuento) en el siguiente enlace!
 
-[![Orbegozo WF 0242 Ventilador de pared  40](https://m.media-amazon.com/images/I/41PfFN2o8vL._SL200_.jpg)](https://www.amazon.es/dp/B007PRW9S2/?tag=tolees-21)
+[![Orbegozo WF 0242 Ventilador de pared  40](https://m.media-amazon.com/images/I/41PfFN2o8vL._SL400_.jpg)](https://www.amazon.es/dp/B007PRW9S2/?tag=tolees-21)
 
 🔎:
 

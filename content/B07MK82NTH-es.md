@@ -2,7 +2,7 @@
 layout: post
 title: 'Le Coq Sportif Break COCARDE  Zapatillas al 80.36 % de descuento'
 date: 2020-03-19 18:09:53
-image: 'https://m.media-amazon.com/images/I/31Sb7+ibDSL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Sb7+ibDSL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.66'
 
 Ahora mismo tienes [Le Coq Sportif Break COCARDE  Zapatillas Unisex Adulto  Blanco  Optical White/Tricolore Optical White/Tricolore   37 EU](https://www.amazon.es/dp/B07MK82NTH/?tag=tolees-21) a 18.66 EUR (original: 95.0 EUR) (80.36 %  de descuento) en el siguiente enlace!
 
-[![Le Coq Sportif Break COCARDE  Zapatillas](https://m.media-amazon.com/images/I/31Sb7+ibDSL._SL200_.jpg)](https://www.amazon.es/dp/B07MK82NTH/?tag=tolees-21)
+[![Le Coq Sportif Break COCARDE  Zapatillas](https://m.media-amazon.com/images/I/31Sb7+ibDSL._SL400_.jpg)](https://www.amazon.es/dp/B07MK82NTH/?tag=tolees-21)
 
 🔎:
 

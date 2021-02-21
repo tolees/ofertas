@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s Tijuana  Zapatillas para Mujer  N al 43.29 % de descuento'
 date: 2020-05-24 15:02:11
-image: 'https://m.media-amazon.com/images/I/41Y2SpzxvrL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Y2SpzxvrL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '26.835'
 
 Ahora mismo tienes [Levi s Tijuana  Zapatillas para Mujer  Negro  R Black 59   38 EU](https://www.amazon.es/dp/B07SFJBBYT/?tag=tolees-21) a 25.52 EUR (original: 45.0 EUR) (43.29 %  de descuento) en el siguiente enlace!
 
-[![Levi s Tijuana  Zapatillas para Mujer  N](https://m.media-amazon.com/images/I/41Y2SpzxvrL._SL200_.jpg)](https://www.amazon.es/dp/B07SFJBBYT/?tag=tolees-21)
+[![Levi s Tijuana  Zapatillas para Mujer  N](https://m.media-amazon.com/images/I/41Y2SpzxvrL._SL400_.jpg)](https://www.amazon.es/dp/B07SFJBBYT/?tag=tolees-21)
 
 🔎:
 

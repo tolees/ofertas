@@ -2,7 +2,7 @@
 layout: post
 title: 'Lacoste Carnaby EVO 118 6 SPW  Zapatilla al 31.94 % de descuento'
 date: 2020-09-17 06:27:30
-image: 'https://m.media-amazon.com/images/I/31Qc3EAZGtL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Qc3EAZGtL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '67.99'
 
 Ahora mismo tienes [Lacoste Carnaby EVO 118 6 SPW  Zapatillas para Mujer  Blanco  White/Gold   38 EU](https://www.amazon.es/dp/B077DQ3PG7/?tag=tolees-21) a 67.99 EUR (original: 99.9 EUR) (31.94 %  de descuento) en el siguiente enlace!
 
-[![Lacoste Carnaby EVO 118 6 SPW  Zapatilla](https://m.media-amazon.com/images/I/31Qc3EAZGtL._SL200_.jpg)](https://www.amazon.es/dp/B077DQ3PG7/?tag=tolees-21)
+[![Lacoste Carnaby EVO 118 6 SPW  Zapatilla](https://m.media-amazon.com/images/I/31Qc3EAZGtL._SL400_.jpg)](https://www.amazon.es/dp/B077DQ3PG7/?tag=tolees-21)
 
 🔎:
 

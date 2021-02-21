@@ -2,7 +2,7 @@
 layout: post
 title: 'FIND - Free Spirit  Líquido de labios ma al 46.80 % de descuento'
 date: 2020-02-04 15:33:52
-image: 'https://m.media-amazon.com/images/I/41Xya25gnvL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Xya25gnvL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.255'
 
 Está [FIND - Free Spirit  Líquido de labios mate n.1 + Brillo de labios n.1 ](https://www.amazon.es/dp/B07CVBSC96/?tag=tolees-21) con 46.80 de descuento por 2.83 EUR (original: 5.32 EUR) en el siguiente enlace!
 
-[![FIND - Free Spirit  Líquido de labios ma](https://m.media-amazon.com/images/I/41Xya25gnvL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07CVBSC96/?tag=tolees-21)
+[![FIND - Free Spirit  Líquido de labios ma](https://m.media-amazon.com/images/I/41Xya25gnvL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07CVBSC96/?tag=tolees-21)
 
 ℹ️:
 

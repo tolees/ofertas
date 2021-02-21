@@ -2,7 +2,7 @@
 layout: post
 title: 'Yummy Bee Lencería Babydoll Conjunto Rop al 53.17 % de rebaja'
 date: 2020-01-27 22:02:44
-image: 'https://m.media-amazon.com/images/I/41X-dUcEjGL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41X-dUcEjGL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.97'
 
 Tienes [Yummy Bee Lencería Babydoll Conjunto Ropa Interior Noche Dormir Negro Rojo Picardías Talla Grande 36-52  Negro  36 ](https://www.amazon.es/dp/B00SPXMPN4/?tag=tolees-21) con precio final de  14.97 EUR (original: 31.97 EUR) (53.17 %  de rebaja) aqui!
 
-[![Yummy Bee Lencería Babydoll Conjunto Rop](https://m.media-amazon.com/images/I/41X-dUcEjGL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B00SPXMPN4/?tag=tolees-21)
+[![Yummy Bee Lencería Babydoll Conjunto Rop](https://m.media-amazon.com/images/I/41X-dUcEjGL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B00SPXMPN4/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Fila Orbit Low  Zapatillas para Hombre   al 45.34 % de rebaja'
 date: 2020-04-21 22:13:12
-image: 'https://m.media-amazon.com/images/I/31e4RdqGWzL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31e4RdqGWzL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '40.99'
 
 Tienes [Fila Orbit Low  Zapatillas para Hombre  Blanco  White 1010263-98f   43 EU](https://www.amazon.es/dp/B07NSLNB4D/?tag=tolees-21) con precio final de  40.99 EUR (original: 74.99 EUR) (45.34 %  de rebaja) aqui!
 
-[![Fila Orbit Low  Zapatillas para Hombre  ](https://m.media-amazon.com/images/I/31e4RdqGWzL._SL200_.jpg)](https://www.amazon.es/dp/B07NSLNB4D/?tag=tolees-21)
+[![Fila Orbit Low  Zapatillas para Hombre  ](https://m.media-amazon.com/images/I/31e4RdqGWzL._SL400_.jpg)](https://www.amazon.es/dp/B07NSLNB4D/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Promini - Body para bebé con texto en in al 58.08 % de rebaja'
 date: 2020-04-14 16:12:31
-image: 'https://m.media-amazon.com/images/I/41E46PunQPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41E46PunQPL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.76'
 
 Tienes [Promini - Body para bebé con texto en inglés "My Aunt in California Loves Me"](https://www.amazon.es/dp/B086QMJ9FF/?tag=tolees-21) con precio final de  14.76 EUR (original: 35.21 EUR) (58.08 %  de rebaja) aqui!
 
-[![Promini - Body para bebé con texto en in](https://m.media-amazon.com/images/I/41E46PunQPL._SL200_.jpg)](https://www.amazon.es/dp/B086QMJ9FF/?tag=tolees-21)
+[![Promini - Body para bebé con texto en in](https://m.media-amazon.com/images/I/41E46PunQPL._SL400_.jpg)](https://www.amazon.es/dp/B086QMJ9FF/?tag=tolees-21)
 
 🔎:
 

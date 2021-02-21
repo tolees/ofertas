@@ -2,7 +2,7 @@
 layout: post
 title: 'Calcetines Deportivos Quarter Pro 1 Par  con un 50.21 % de descuento'
 date: 2020-05-09 08:29:19
-image: 'https://m.media-amazon.com/images/I/31g7xoe+oFL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31g7xoe+oFL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.95'
 
 En este momento está [Calcetines Deportivos Quarter Pro 1 Par  Negro sólido  EU 43-47 ](https://www.amazon.es/dp/B07L3WPNB3/?tag=tolees-21) a 5.95 EUR (original: 11.95 EUR) (50.21 %  de descuento) en el siguiente enlace!
 
-[![Calcetines Deportivos Quarter Pro 1 Par ](https://m.media-amazon.com/images/I/31g7xoe+oFL._SL200_.jpg)](https://www.amazon.es/dp/B07L3WPNB3/?tag=tolees-21)
+[![Calcetines Deportivos Quarter Pro 1 Par ](https://m.media-amazon.com/images/I/31g7xoe+oFL._SL400_.jpg)](https://www.amazon.es/dp/B07L3WPNB3/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 61.08 % en BAUSCH + LOMB  - SofLens® Toric - Lentes'
 date: 2020-03-11 00:56:53
-image: 'https://m.media-amazon.com/images/I/41cMl+-BHaL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41cMl+-BHaL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.19'
 
 Tienes [BAUSCH + LOMB  - SofLens® Toric - Lentes de contacto para Astigmatismo](https://www.amazon.es/dp/B000UJHIOW/?tag=tolees-21) con un 61.08 % de descuento con precio de oferta de 29.19 EUR (original: 75.0 EUR) en el siguiente enlace!
 
-[![BAUSCH + LOMB  - SofLens® Toric - Lentes](https://m.media-amazon.com/images/I/41cMl+-BHaL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B000UJHIOW/?tag=tolees-21)
+[![BAUSCH + LOMB  - SofLens® Toric - Lentes](https://m.media-amazon.com/images/I/41cMl+-BHaL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B000UJHIOW/?tag=tolees-21)
 
 ℹ️:
 

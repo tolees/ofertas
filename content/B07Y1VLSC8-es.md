@@ -2,7 +2,7 @@
 layout: post
 title: 'Nike Court Borough Low 2  Zapatillas de  con un 25.74 % de descuento'
 date: 2020-08-18 08:35:44
-image: 'https://m.media-amazon.com/images/I/41lCCmn7mlL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41lCCmn7mlL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '25.99'
 
 En este momento está [Nike Court Borough Low 2  Zapatillas de Baloncesto para Niños  Negro  Black/Black/Black 001   31 EU](https://www.amazon.es/dp/B07Y1VLSC8/?tag=tolees-21) a 25.99 EUR (original: 35.0 EUR) (25.74 %  de descuento) en el siguiente enlace!
 
-[![Nike Court Borough Low 2  Zapatillas de ](https://m.media-amazon.com/images/I/41lCCmn7mlL._SL200_.jpg)](https://www.amazon.es/dp/B07Y1VLSC8/?tag=tolees-21)
+[![Nike Court Borough Low 2  Zapatillas de ](https://m.media-amazon.com/images/I/41lCCmn7mlL._SL400_.jpg)](https://www.amazon.es/dp/B07Y1VLSC8/?tag=tolees-21)
 
 🔎:
 

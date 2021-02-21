@@ -2,7 +2,7 @@
 layout: post
 title: 'Asmodee- Raxxon - español  Color  PHRA00 con un 25.41 % de descuento'
 date: 2020-09-16 16:48:06
-image: 'https://m.media-amazon.com/images/I/41b-wnOJ9pL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41b-wnOJ9pL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '27.535'
 
 En este momento está [Asmodee- Raxxon - español  Color  PHRA0001 ](https://www.amazon.es/dp/B07CJRKGS8/?tag=tolees-21) a 29.8 EUR (original: 39.95 EUR) (25.41 %  de descuento) en el siguiente enlace!
 
-[![Asmodee- Raxxon - español  Color  PHRA00](https://m.media-amazon.com/images/I/41b-wnOJ9pL._SL200_.jpg)](https://www.amazon.es/dp/B07CJRKGS8/?tag=tolees-21)
+[![Asmodee- Raxxon - español  Color  PHRA00](https://m.media-amazon.com/images/I/41b-wnOJ9pL._SL400_.jpg)](https://www.amazon.es/dp/B07CJRKGS8/?tag=tolees-21)
 
 🔎:
 

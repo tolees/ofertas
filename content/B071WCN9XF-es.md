@@ -2,7 +2,7 @@
 layout: post
 title: 'Reebok Club C 85 Melted Metals  Zapatill al 70.19 % de rebaja'
 date: 2020-04-22 19:18:07
-image: 'https://m.media-amazon.com/images/I/41Woran6DYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Woran6DYL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '33.44'
 
 Tienes [Reebok Club C 85 Melted Metals  Zapatillas para Mujer  Dorado  Pearl Metallic-Peach/White   37.5 EU](https://www.amazon.es/dp/B071WCN9XF/?tag=tolees-21) con precio final de  26.81 EUR (original: 89.95 EUR) (70.19 %  de rebaja) aqui!
 
-[![Reebok Club C 85 Melted Metals  Zapatill](https://m.media-amazon.com/images/I/41Woran6DYL._SL200_.jpg)](https://www.amazon.es/dp/B071WCN9XF/?tag=tolees-21)
+[![Reebok Club C 85 Melted Metals  Zapatill](https://m.media-amazon.com/images/I/41Woran6DYL._SL400_.jpg)](https://www.amazon.es/dp/B071WCN9XF/?tag=tolees-21)
 
 🔎:
 

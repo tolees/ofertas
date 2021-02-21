@@ -2,7 +2,7 @@
 layout: post
 title: 'Beholder CE al 28.04 % de descuento'
 date: 2020-08-20 08:17:26
-image: 'https://m.media-amazon.com/images/I/419zBcZTnRL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/419zBcZTnRL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.263333333333332'
 
 Está [Beholder CE](https://www.amazon.es/dp/B07XC2P6LT/?tag=tolees-21) con 28.04 de descuento por 25.9 EUR (original: 35.99 EUR) en el siguiente enlace!
 
-[![Beholder CE](https://m.media-amazon.com/images/I/419zBcZTnRL._SL200_.jpg)](https://www.amazon.es/dp/B07XC2P6LT/?tag=tolees-21)
+[![Beholder CE](https://m.media-amazon.com/images/I/419zBcZTnRL._SL400_.jpg)](https://www.amazon.es/dp/B07XC2P6LT/?tag=tolees-21)
 
 ℹ️:
 

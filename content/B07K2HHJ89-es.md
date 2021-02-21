@@ -2,7 +2,7 @@
 layout: post
 title: 'Skip Ultimate Triple Poder Detergente Ca al 48.45 % de rebaja'
 date: 2020-06-08 10:24:06
-image: 'https://m.media-amazon.com/images/I/41X487JlZDL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41X487JlZDL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.15'
 
 Tienes [Skip Ultimate Triple Poder Detergente Capsulas Fragancia Mimosín - 32 Lavados](https://www.amazon.es/dp/B07K2HHJ89/?tag=tolees-21) con precio final de  5.15 EUR (original: 9.99 EUR) (48.45 %  de rebaja) aqui!
 
-[![Skip Ultimate Triple Poder Detergente Ca](https://m.media-amazon.com/images/I/41X487JlZDL._SL200_.jpg)](https://www.amazon.es/dp/B07K2HHJ89/?tag=tolees-21)
+[![Skip Ultimate Triple Poder Detergente Ca](https://m.media-amazon.com/images/I/41X487JlZDL._SL400_.jpg)](https://www.amazon.es/dp/B07K2HHJ89/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Gonher - Fulminantes de 8 Disparos  8/0  al 59.87 % de descuento'
 date: 2020-05-26 17:36:53
-image: 'https://m.media-amazon.com/images/I/516gM2T97AL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/516gM2T97AL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.2'
 
 Está [Gonher - Fulminantes de 8 Disparos  8/0 ](https://www.amazon.es/dp/B001HGXIFA/?tag=tolees-21) con 59.87 de descuento por 1.2 EUR (original: 2.99 EUR) en el siguiente enlace!
 
-[![Gonher - Fulminantes de 8 Disparos  8/0 ](https://m.media-amazon.com/images/I/516gM2T97AL._SL200_.jpg)](https://www.amazon.es/dp/B001HGXIFA/?tag=tolees-21)
+[![Gonher - Fulminantes de 8 Disparos  8/0 ](https://m.media-amazon.com/images/I/516gM2T97AL._SL400_.jpg)](https://www.amazon.es/dp/B001HGXIFA/?tag=tolees-21)
 
 ℹ️:
 

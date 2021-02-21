@@ -2,7 +2,7 @@
 layout: post
 title: 'Promini - Body para bebé con texto en in con un 61.32 % de descuento'
 date: 2020-04-19 13:40:34
-image: 'https://m.media-amazon.com/images/I/41hMIwybKRL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41hMIwybKRL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.62'
 
 En este momento está [Promini - Body para bebé con texto en inglés "I Love Mom and Dad"](https://www.amazon.es/dp/B086QM6XZ8/?tag=tolees-21) a 13.62 EUR (original: 35.21 EUR) (61.32 %  de descuento) en el siguiente enlace!
 
-[![Promini - Body para bebé con texto en in](https://m.media-amazon.com/images/I/41hMIwybKRL._SL200_.jpg)](https://www.amazon.es/dp/B086QM6XZ8/?tag=tolees-21)
+[![Promini - Body para bebé con texto en in](https://m.media-amazon.com/images/I/41hMIwybKRL._SL400_.jpg)](https://www.amazon.es/dp/B086QM6XZ8/?tag=tolees-21)
 
 🔎:
 

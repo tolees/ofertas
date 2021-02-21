@@ -2,7 +2,7 @@
 layout: post
 title: 'Motorola Moto E4 - Smartphone Libre de 5 con un 36.24 % de descuento'
 date: 2020-09-30 05:04:32
-image: 'https://m.media-amazon.com/images/I/31W5424OMiL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31W5424OMiL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '85.3506976744186'
 
 En este momento está [Motorola Moto E4 - Smartphone Libre de 5" HD  2.800 mAh de batería  cámara de 8 MP  2 GB de RAM + 16 GB de Almacenamiento  procesador Quad-Core de 1.3 GHz  Color Gris](https://www.amazon.es/dp/B071ZLNF3W/?tag=tolees-21) a 95.0 EUR (original: 149.0 EUR) (36.24 %  de descuento) en el siguiente enlace!
 
-[![Motorola Moto E4 - Smartphone Libre de 5](https://m.media-amazon.com/images/I/31W5424OMiL._SL200_.jpg)](https://www.amazon.es/dp/B071ZLNF3W/?tag=tolees-21)
+[![Motorola Moto E4 - Smartphone Libre de 5](https://m.media-amazon.com/images/I/31W5424OMiL._SL400_.jpg)](https://www.amazon.es/dp/B071ZLNF3W/?tag=tolees-21)
 
 🔎:
 

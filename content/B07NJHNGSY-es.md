@@ -2,7 +2,7 @@
 layout: post
 title: 'Brabantia Tasty + Espátula repostería de al 30.00 % de descuento'
 date: 2020-06-29 18:04:27
-image: 'https://m.media-amazon.com/images/I/21MpgthEMiL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21MpgthEMiL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.766666666666667'
 
 Ahora mismo tienes [Brabantia Tasty + Espátula repostería de silicona  color fir green](https://www.amazon.es/dp/B07NJHNGSY/?tag=tolees-21) a 4.55 EUR (original: 6.5 EUR) (30.00 %  de descuento) en el siguiente enlace!
 
-[![Brabantia Tasty + Espátula repostería de](https://m.media-amazon.com/images/I/21MpgthEMiL._SL200_.jpg)](https://www.amazon.es/dp/B07NJHNGSY/?tag=tolees-21)
+[![Brabantia Tasty + Espátula repostería de](https://m.media-amazon.com/images/I/21MpgthEMiL._SL400_.jpg)](https://www.amazon.es/dp/B07NJHNGSY/?tag=tolees-21)
 
 🔎:
 

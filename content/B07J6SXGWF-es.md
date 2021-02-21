@@ -2,7 +2,7 @@
 layout: post
 title: 'Funko Rugrats Pop Angelica  Multicolor   al 50.22 % de descuento'
 date: 2020-01-23 18:39:38
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41p9hEYcarL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41p9hEYcarL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.553333333333333'
 
 Está [Funko Rugrats Pop Angelica  Multicolor  35574 ](https://www.amazon.es/dp/B07J6SXGWF/?tag=tolees-21) con 50.22 de descuento por 7.94 EUR (original: 15.95 EUR) en el siguiente enlace!
 
-[![Funko Rugrats Pop Angelica  Multicolor  ](https://images-eu.ssl-images-amazon.com/images/I/41p9hEYcarL._SL200_.jpg)](https://www.amazon.es/dp/B07J6SXGWF/?tag=tolees-21)
+[![Funko Rugrats Pop Angelica  Multicolor  ](https://images-eu.ssl-images-amazon.com/images/I/41p9hEYcarL._SL400_.jpg)](https://www.amazon.es/dp/B07J6SXGWF/?tag=tolees-21)
 
 ℹ️:
 

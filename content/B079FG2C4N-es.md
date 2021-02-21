@@ -2,7 +2,7 @@
 layout: post
 title: 'Tristar VE-5890 – Ventilador de pie  40  al 43.11 % de rebaja'
 date: 2020-09-20 09:08:27
-image: 'https://m.media-amazon.com/images/I/31TWcN7ERIL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31TWcN7ERIL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.842499999999998'
 
 Tienes [Tristar VE-5890 – Ventilador de pie  40 centímetros  color blanco](https://www.amazon.es/dp/B079FG2C4N/?tag=tolees-21) con precio final de  22.75 EUR (original: 39.99 EUR) (43.11 %  de rebaja) aqui!
 
-[![Tristar VE-5890 – Ventilador de pie  40 ](https://m.media-amazon.com/images/I/31TWcN7ERIL._SL200_.jpg)](https://www.amazon.es/dp/B079FG2C4N/?tag=tolees-21)
+[![Tristar VE-5890 – Ventilador de pie  40 ](https://m.media-amazon.com/images/I/31TWcN7ERIL._SL400_.jpg)](https://www.amazon.es/dp/B079FG2C4N/?tag=tolees-21)
 
 🔎:
 

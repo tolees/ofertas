@@ -2,7 +2,7 @@
 layout: post
 title: 'Artesania Cerda Deportiva Suela Ligera A al 28.36 % de descuento'
 date: 2020-04-25 18:04:05
-image: 'https://m.media-amazon.com/images/I/41sUaMcdqLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41sUaMcdqLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '22.89'
 
 Ahora mismo tienes [Artesania Cerda Deportiva Suela Ligera Avengers Capitan America  Zapatillas para Niños  Gris  Gris C13   27 EU](https://www.amazon.es/dp/B07WH77NW7/?tag=tolees-21) a 22.89 EUR (original: 31.95 EUR) (28.36 %  de descuento) en el siguiente enlace!
 
-[![Artesania Cerda Deportiva Suela Ligera A](https://m.media-amazon.com/images/I/41sUaMcdqLL._SL200_.jpg)](https://www.amazon.es/dp/B07WH77NW7/?tag=tolees-21)
+[![Artesania Cerda Deportiva Suela Ligera A](https://m.media-amazon.com/images/I/41sUaMcdqLL._SL400_.jpg)](https://www.amazon.es/dp/B07WH77NW7/?tag=tolees-21)
 
 🔎:
 

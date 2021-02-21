@@ -2,7 +2,7 @@
 layout: post
 title: 'SPC Chilly Radio FM y Am Color Negro con al 50.00 % de descuento'
 date: 2020-09-07 19:25:44
-image: 'https://m.media-amazon.com/images/I/41jUL0QGvmL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41jUL0QGvmL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.95'
 
 Ahora mismo tienes [SPC Chilly Radio FM y Am Color Negro con asa de sujeción](https://www.amazon.es/dp/B07GZQLCVV/?tag=tolees-21) a 8.95 EUR (original: 17.9 EUR) (50.00 %  de descuento) en el siguiente enlace!
 
-[![SPC Chilly Radio FM y Am Color Negro con](https://m.media-amazon.com/images/I/41jUL0QGvmL._SL200_.jpg)](https://www.amazon.es/dp/B07GZQLCVV/?tag=tolees-21)
+[![SPC Chilly Radio FM y Am Color Negro con](https://m.media-amazon.com/images/I/41jUL0QGvmL._SL400_.jpg)](https://www.amazon.es/dp/B07GZQLCVV/?tag=tolees-21)
 
 🔎:
 

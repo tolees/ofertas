@@ -2,7 +2,7 @@
 layout: post
 title: 'Samsonite Happy Sammies Upright Maleta I al 30.00 % de rebaja'
 date: 2020-06-27 11:39:00
-image: 'https://m.media-amazon.com/images/I/41q1txjWD9L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41q1txjWD9L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '66.5'
 
 Tienes [Samsonite Happy Sammies Upright Maleta Infantil 45 cm  24 L Verde  Dino Rex ](https://www.amazon.es/dp/B079Z8B4TJ/?tag=tolees-21) con precio final de  66.5 EUR (original: 95.0 EUR) (30.00 %  de rebaja) aqui!
 
-[![Samsonite Happy Sammies Upright Maleta I](https://m.media-amazon.com/images/I/41q1txjWD9L._SL200_.jpg)](https://www.amazon.es/dp/B079Z8B4TJ/?tag=tolees-21)
+[![Samsonite Happy Sammies Upright Maleta I](https://m.media-amazon.com/images/I/41q1txjWD9L._SL400_.jpg)](https://www.amazon.es/dp/B079Z8B4TJ/?tag=tolees-21)
 
 🔎:
 

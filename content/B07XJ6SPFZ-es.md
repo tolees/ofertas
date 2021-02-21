@@ -2,7 +2,7 @@
 layout: post
 title: 'La Mulana 1 & 2 - Hidden Treasures Editi al 29.36 % de descuento'
 date: 2020-06-13 23:52:16
-image: 'https://m.media-amazon.com/images/I/41zWY3fZJWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41zWY3fZJWL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '51.25666666666667'
 
 Está [La Mulana 1 & 2 - Hidden Treasures Edition](https://www.amazon.es/dp/B07XJ6SPFZ/?tag=tolees-21) con 29.36 de descuento por 43.79 EUR (original: 61.99 EUR) en el siguiente enlace!
 
-[![La Mulana 1 & 2 - Hidden Treasures Editi](https://m.media-amazon.com/images/I/41zWY3fZJWL._SL200_.jpg)](https://www.amazon.es/dp/B07XJ6SPFZ/?tag=tolees-21)
+[![La Mulana 1 & 2 - Hidden Treasures Editi](https://m.media-amazon.com/images/I/41zWY3fZJWL._SL400_.jpg)](https://www.amazon.es/dp/B07XJ6SPFZ/?tag=tolees-21)
 
 ℹ️:
 

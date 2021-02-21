@@ -2,7 +2,7 @@
 layout: post
 title: 'PUMA Carson 2 Knit NM  Zapatillas de Run al 27.13 % de descuento'
 date: 2020-02-25 10:53:56
-image: 'https://m.media-amazon.com/images/I/41P46yPMauL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41P46yPMauL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.53'
 
 Está [PUMA Carson 2 Knit NM  Zapatillas de Running para Hombre  Black White-Yellow Alert  43 EU](https://www.amazon.es/dp/B07KFYF6JS/?tag=tolees-21) con 27.13 de descuento por 19.53 EUR (original: 26.8 EUR) en el siguiente enlace!
 
-[![PUMA Carson 2 Knit NM  Zapatillas de Run](https://m.media-amazon.com/images/I/41P46yPMauL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07KFYF6JS/?tag=tolees-21)
+[![PUMA Carson 2 Knit NM  Zapatillas de Run](https://m.media-amazon.com/images/I/41P46yPMauL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07KFYF6JS/?tag=tolees-21)
 
 ℹ️:
 

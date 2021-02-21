@@ -2,7 +2,7 @@
 layout: post
 title: 'Gigabyte GeForce GV-N208-TAORUSX W-11GC  al 60.00 % de rebaja'
 date: 2020-04-05 11:07:38
-image: 'https://m.media-amazon.com/images/I/41IRnd-+TrL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41IRnd-+TrL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1076.25'
 
 Tienes [Gigabyte GeForce GV-N208-TAORUSX W-11GC - Tarjeta gráfica  3X DisplayPort/3x HDMI/USB-C](https://www.amazon.es/dp/B07L2RH59N/?tag=tolees-21) con precio final de  600.0 EUR (original: 1499.99 EUR) (60.00 %  de rebaja) aqui!
 
-[![Gigabyte GeForce GV-N208-TAORUSX W-11GC ](https://m.media-amazon.com/images/I/41IRnd-+TrL._SL200_.jpg)](https://www.amazon.es/dp/B07L2RH59N/?tag=tolees-21)
+[![Gigabyte GeForce GV-N208-TAORUSX W-11GC ](https://m.media-amazon.com/images/I/41IRnd-+TrL._SL400_.jpg)](https://www.amazon.es/dp/B07L2RH59N/?tag=tolees-21)
 
 🔎:
 

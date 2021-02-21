@@ -2,7 +2,7 @@
 layout: post
 title: 'Funko Pop Movies: Us-Pluto w/Mask Chase  con un 40.10 % de descuento'
 date: 2020-10-02 09:10:22
-image: 'https://m.media-amazon.com/images/I/41rAGmPFoFL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41rAGmPFoFL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.99'
 
 En este momento está [Funko Pop Movies: Us-Pluto w/Mask Chase  Stlyes May Vary  Figura Coleccionable  Multicolor  44315 ](https://www.amazon.es/dp/B07RN8DJRB/?tag=tolees-21) a 5.99 EUR (original: 10.0 EUR) (40.10 %  de descuento) en el siguiente enlace!
 
-[![Funko Pop Movies: Us-Pluto w/Mask Chase ](https://m.media-amazon.com/images/I/41rAGmPFoFL._SL200_.jpg)](https://www.amazon.es/dp/B07RN8DJRB/?tag=tolees-21)
+[![Funko Pop Movies: Us-Pluto w/Mask Chase ](https://m.media-amazon.com/images/I/41rAGmPFoFL._SL400_.jpg)](https://www.amazon.es/dp/B07RN8DJRB/?tag=tolees-21)
 
 🔎:
 

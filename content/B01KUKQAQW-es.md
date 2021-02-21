@@ -2,7 +2,7 @@
 layout: post
 title: 'RioRiva En caja de regalo  los calcetine al 32.38 % de descuento'
 date: 2020-06-13 21:31:05
-image: 'https://m.media-amazon.com/images/I/51JSDSSugvL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51JSDSSugvL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '22.99'
 
 Está [RioRiva En caja de regalo  los calcetines para hombre con pedrería en 90% algodón  bonito diseño en la pantorrilla  estilo colorido](https://www.amazon.es/dp/B01KUKQAQW/?tag=tolees-21) con 32.38 de descuento por 22.99 EUR (original: 34.0 EUR) en el siguiente enlace!
 
-[![RioRiva En caja de regalo  los calcetine](https://m.media-amazon.com/images/I/51JSDSSugvL._SL200_.jpg)](https://www.amazon.es/dp/B01KUKQAQW/?tag=tolees-21)
+[![RioRiva En caja de regalo  los calcetine](https://m.media-amazon.com/images/I/51JSDSSugvL._SL400_.jpg)](https://www.amazon.es/dp/B01KUKQAQW/?tag=tolees-21)
 
 ℹ️:
 

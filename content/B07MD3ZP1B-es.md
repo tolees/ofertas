@@ -2,7 +2,7 @@
 layout: post
 title: 'Skechers GO Walk 5 Qualify  Zapatillas p al 31.38 % de descuento'
 date: 2020-06-16 02:24:49
-image: 'https://m.media-amazon.com/images/I/412h3N0ElnL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/412h3N0ElnL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '42.260000000000005'
 
 Está [Skechers GO Walk 5 Qualify  Zapatillas para Hombre  Azul Navy Textile Synthetic Trim Nvy  50 EU](https://www.amazon.es/dp/B07MD3ZP1B/?tag=tolees-21) con 31.38 de descuento por 48.0 EUR (original: 69.95 EUR) en el siguiente enlace!
 
-[![Skechers GO Walk 5 Qualify  Zapatillas p](https://m.media-amazon.com/images/I/412h3N0ElnL._SL200_.jpg)](https://www.amazon.es/dp/B07MD3ZP1B/?tag=tolees-21)
+[![Skechers GO Walk 5 Qualify  Zapatillas p](https://m.media-amazon.com/images/I/412h3N0ElnL._SL400_.jpg)](https://www.amazon.es/dp/B07MD3ZP1B/?tag=tolees-21)
 
 ℹ️:
 

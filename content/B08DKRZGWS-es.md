@@ -2,7 +2,7 @@
 layout: post
 title: 'Multifunción Pulsera Deportiva Podómetro con un 33.53 % de descuento'
 date: 2020-08-14 08:32:05
-image: 'https://m.media-amazon.com/images/I/318RYRz33rL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/318RYRz33rL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.15'
 
 En este momento está [Multifunción Pulsera Deportiva Podómetro Monitor de Actividad LCD Reloj electrónico Reloj de Pulsera de Silicona Reloj de Salud - Azul](https://www.amazon.es/dp/B08DKRZGWS/?tag=tolees-21) a 1.15 EUR (original: 1.73 EUR) (33.53 %  de descuento) en el siguiente enlace!
 
-[![Multifunción Pulsera Deportiva Podómetro](https://m.media-amazon.com/images/I/318RYRz33rL._SL200_.jpg)](https://www.amazon.es/dp/B08DKRZGWS/?tag=tolees-21)
+[![Multifunción Pulsera Deportiva Podómetro](https://m.media-amazon.com/images/I/318RYRz33rL._SL400_.jpg)](https://www.amazon.es/dp/B08DKRZGWS/?tag=tolees-21)
 
 🔎:
 

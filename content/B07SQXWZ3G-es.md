@@ -2,7 +2,7 @@
 layout: post
 title: 'Lacoste Graduate TRI1 SMA  Zapatillas pa con un 48.61 % de descuento'
 date: 2020-10-12 16:25:19
-image: 'https://m.media-amazon.com/images/I/31V1PwOPTwL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31V1PwOPTwL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '50.88'
 
 En este momento está [Lacoste Graduate TRI1 SMA  Zapatillas para Hombre  Blanco  Wht/Nvy/Red   40.5 EU](https://www.amazon.es/dp/B07SQXWZ3G/?tag=tolees-21) a 50.88 EUR (original: 99.0 EUR) (48.61 %  de descuento) en el siguiente enlace!
 
-[![Lacoste Graduate TRI1 SMA  Zapatillas pa](https://m.media-amazon.com/images/I/31V1PwOPTwL._SL200_.jpg)](https://www.amazon.es/dp/B07SQXWZ3G/?tag=tolees-21)
+[![Lacoste Graduate TRI1 SMA  Zapatillas pa](https://m.media-amazon.com/images/I/31V1PwOPTwL._SL400_.jpg)](https://www.amazon.es/dp/B07SQXWZ3G/?tag=tolees-21)
 
 🔎:
 

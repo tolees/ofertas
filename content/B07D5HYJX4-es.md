@@ -2,7 +2,7 @@
 layout: post
 title: 'Adidas Duramo 9  Zapatillas de Entrenami al 40.53 % de rebaja'
 date: 2020-07-06 09:51:12
-image: 'https://m.media-amazon.com/images/I/41ekdU8xidL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ekdU8xidL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '36.562'
 
 Tienes [Adidas Duramo 9  Zapatillas de Entrenamiento para Hombre  Negro  Core Black/Core Black/Core Black 0   41 1/3 EU](https://www.amazon.es/dp/B07D5HYJX4/?tag=tolees-21) con precio final de  34.19 EUR (original: 57.49 EUR) (40.53 %  de rebaja) aqui!
 
-[![Adidas Duramo 9  Zapatillas de Entrenami](https://m.media-amazon.com/images/I/41ekdU8xidL._SL200_.jpg)](https://www.amazon.es/dp/B07D5HYJX4/?tag=tolees-21)
+[![Adidas Duramo 9  Zapatillas de Entrenami](https://m.media-amazon.com/images/I/41ekdU8xidL._SL400_.jpg)](https://www.amazon.es/dp/B07D5HYJX4/?tag=tolees-21)
 
 🔎:
 

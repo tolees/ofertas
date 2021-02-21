@@ -2,7 +2,7 @@
 layout: post
 title: 'Tacklife RTD37AC - Herramienta multifunc al 35.66 % de descuento'
 date: 2020-07-14 10:32:05
-image: 'https://m.media-amazon.com/images/I/51+mIf8QNlL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51+mIf8QNlL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '35.44'
 
 Ahora mismo tienes [Tacklife RTD37AC - Herramienta multifunción  200 W  herramienta giratoria  40 000 rpm  herramienta multifunción de 6 velocidades de control  uso para bricolaje  corte  rectificación  perforación  grabado y así sucesivamente](https://www.amazon.es/dp/B07WZYPFDT/?tag=tolees-21) a 35.44 EUR (original: 55.08 EUR) (35.66 %  de descuento) en el siguiente enlace!
 
-[![Tacklife RTD37AC - Herramienta multifunc](https://m.media-amazon.com/images/I/51+mIf8QNlL._SL200_.jpg)](https://www.amazon.es/dp/B07WZYPFDT/?tag=tolees-21)
+[![Tacklife RTD37AC - Herramienta multifunc](https://m.media-amazon.com/images/I/51+mIf8QNlL._SL400_.jpg)](https://www.amazon.es/dp/B07WZYPFDT/?tag=tolees-21)
 
 🔎:
 

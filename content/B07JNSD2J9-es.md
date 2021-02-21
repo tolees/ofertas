@@ -2,7 +2,7 @@
 layout: post
 title: 'Jack & Jones Jjimarco Jjbowie Sa Noos Pa al 50.01 % de rebaja'
 date: 2020-08-21 18:25:37
-image: 'https://m.media-amazon.com/images/I/31qm2sTyiwL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31qm2sTyiwL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.99'
 
 Tienes [Jack & Jones Jjimarco Jjbowie Sa Noos Pantalones  Negro  Black Black   44 /L32  Talla del Fabricante: 31  para Hombre](https://www.amazon.es/dp/B07JNSD2J9/?tag=tolees-21) con precio final de  19.99 EUR (original: 39.99 EUR) (50.01 %  de rebaja) aqui!
 
-[![Jack & Jones Jjimarco Jjbowie Sa Noos Pa](https://m.media-amazon.com/images/I/31qm2sTyiwL._SL200_.jpg)](https://www.amazon.es/dp/B07JNSD2J9/?tag=tolees-21)
+[![Jack & Jones Jjimarco Jjbowie Sa Noos Pa](https://m.media-amazon.com/images/I/31qm2sTyiwL._SL400_.jpg)](https://www.amazon.es/dp/B07JNSD2J9/?tag=tolees-21)
 
 🔎:
 

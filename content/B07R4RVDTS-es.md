@@ -2,7 +2,7 @@
 layout: post
 title: '10 unidades de esponja resistente al pol al 91.71 % de rebaja'
 date: 2020-07-28 19:41:26
-image: 'https://m.media-amazon.com/images/I/41-Y79xJmbL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41-Y79xJmbL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.4133333333333336'
 
 Tienes [10 unidades de esponja resistente al polvo lavable reutilizable para tatuar y tatuar](https://www.amazon.es/dp/B07R4RVDTS/?tag=tolees-21) con precio final de  0.29 EUR (original: 3.5 EUR) (91.71 %  de rebaja) aqui!
 
-[![10 unidades de esponja resistente al pol](https://m.media-amazon.com/images/I/41-Y79xJmbL._SL200_.jpg)](https://www.amazon.es/dp/B07R4RVDTS/?tag=tolees-21)
+[![10 unidades de esponja resistente al pol](https://m.media-amazon.com/images/I/41-Y79xJmbL._SL400_.jpg)](https://www.amazon.es/dp/B07R4RVDTS/?tag=tolees-21)
 
 🔎:
 

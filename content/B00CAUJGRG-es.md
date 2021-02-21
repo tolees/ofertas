@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 38.10 % en Estee Lauder 53381 - Desmaquillante'
 date: 2020-05-28 17:08:20
-image: 'https://m.media-amazon.com/images/I/317motHjadL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/317motHjadL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.95'
 
 Tienes [Estee Lauder 53381 - Desmaquillante](https://www.amazon.es/dp/B00CAUJGRG/?tag=tolees-21) con un 38.10 % de descuento con precio de oferta de 17.95 EUR (original: 29.0 EUR) en el siguiente enlace!
 
-[![Estee Lauder 53381 - Desmaquillante](https://m.media-amazon.com/images/I/317motHjadL._SL200_.jpg)](https://www.amazon.es/dp/B00CAUJGRG/?tag=tolees-21)
+[![Estee Lauder 53381 - Desmaquillante](https://m.media-amazon.com/images/I/317motHjadL._SL400_.jpg)](https://www.amazon.es/dp/B00CAUJGRG/?tag=tolees-21)
 
 ℹ️:
 

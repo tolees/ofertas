@@ -2,7 +2,7 @@
 layout: post
 title: 'Mavala Científico K+ Endurecedor de Uñas al 37.34 % de descuento'
 date: 2020-07-01 13:40:53
-image: 'https://m.media-amazon.com/images/I/41Dse+ZzyRL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Dse+ZzyRL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.5'
 
 Está [Mavala Científico K+ Endurecedor de Uñas Tratamiento para Evitar que las Uñas se Rompan o se Separen  5 ml](https://www.amazon.es/dp/B076DJRBFP/?tag=tolees-21) con 37.34 de descuento por 12.5 EUR (original: 19.95 EUR) en el siguiente enlace!
 
-[![Mavala Científico K+ Endurecedor de Uñas](https://m.media-amazon.com/images/I/41Dse+ZzyRL._SL200_.jpg)](https://www.amazon.es/dp/B076DJRBFP/?tag=tolees-21)
+[![Mavala Científico K+ Endurecedor de Uñas](https://m.media-amazon.com/images/I/41Dse+ZzyRL._SL400_.jpg)](https://www.amazon.es/dp/B076DJRBFP/?tag=tolees-21)
 
 ℹ️:
 

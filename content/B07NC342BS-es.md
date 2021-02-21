@@ -2,7 +2,7 @@
 layout: post
 title: 'camel active Houston 488385/2511 Pantalo al 61.46 % de descuento'
 date: 2020-04-01 21:03:49
-image: 'https://m.media-amazon.com/images/I/31xytGTmXKL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31xytGTmXKL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '30.81'
 
 Ahora mismo tienes [camel active Houston 488385/2511 Pantalones  Beige  Beige 23   W35/L34  Talla del Fabricante: 35/34  para Hombre](https://www.amazon.es/dp/B07NC342BS/?tag=tolees-21) a 30.81 EUR (original: 79.95 EUR) (61.46 %  de descuento) en el siguiente enlace!
 
-[![camel active Houston 488385/2511 Pantalo](https://m.media-amazon.com/images/I/31xytGTmXKL._SL200_.jpg)](https://www.amazon.es/dp/B07NC342BS/?tag=tolees-21)
+[![camel active Houston 488385/2511 Pantalo](https://m.media-amazon.com/images/I/31xytGTmXKL._SL400_.jpg)](https://www.amazon.es/dp/B07NC342BS/?tag=tolees-21)
 
 🔎:
 

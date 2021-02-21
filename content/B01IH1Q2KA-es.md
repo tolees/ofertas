@@ -2,7 +2,7 @@
 layout: post
 title: 'BATMAN ANIMATED SERIES al 42.76 % de descuento'
 date: 2020-03-28 20:02:08
-image: 'https://m.media-amazon.com/images/I/41qMOtiUSfL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41qMOtiUSfL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.0'
 
 Ahora mismo tienes [BATMAN ANIMATED SERIES](https://www.amazon.es/dp/B01IH1Q2KA/?tag=tolees-21) a 14.0 EUR (original: 24.46 EUR) (42.76 %  de descuento) en el siguiente enlace!
 
-[![BATMAN ANIMATED SERIES](https://m.media-amazon.com/images/I/41qMOtiUSfL._SL200_.jpg)](https://www.amazon.es/dp/B01IH1Q2KA/?tag=tolees-21)
+[![BATMAN ANIMATED SERIES](https://m.media-amazon.com/images/I/41qMOtiUSfL._SL400_.jpg)](https://www.amazon.es/dp/B01IH1Q2KA/?tag=tolees-21)
 
 🔎:
 

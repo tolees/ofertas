@@ -2,7 +2,7 @@
 layout: post
 title: 'One For All WM2221  Soporte de pared par con un 44.44 % de descuento'
 date: 2020-08-28 08:37:13
-image: 'https://m.media-amazon.com/images/I/41cIGseeNNL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41cIGseeNNL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.44'
 
 En este momento está [One For All WM2221  Soporte de pared para TV de 13 a 40” Inclinable 15° Peso máx. 50kg  Para todo tipo de TVs LED  LCD  Plasma  negro](https://www.amazon.es/dp/B01K47HYE8/?tag=tolees-21) a 9.44 EUR (original: 16.99 EUR) (44.44 %  de descuento) en el siguiente enlace!
 
-[![One For All WM2221  Soporte de pared par](https://m.media-amazon.com/images/I/41cIGseeNNL._SL200_.jpg)](https://www.amazon.es/dp/B01K47HYE8/?tag=tolees-21)
+[![One For All WM2221  Soporte de pared par](https://m.media-amazon.com/images/I/41cIGseeNNL._SL400_.jpg)](https://www.amazon.es/dp/B01K47HYE8/?tag=tolees-21)
 
 🔎:
 

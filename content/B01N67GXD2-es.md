@@ -2,7 +2,7 @@
 layout: post
 title: 'Salomon Speedcross Vario 2  Zapatillas d al 35.98 % de descuento'
 date: 2020-02-12 10:08:32
-image: 'https://images-eu.ssl-images-amazon.com/images/I/411qSPaI6FL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411qSPaI6FL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '73.59'
 
 Ahora mismo tienes [Salomon Speedcross Vario 2  Zapatillas de Trail Running para Hombre  Azul  Navy Blazer/Nautical Blue/Lime Punch   42 EU](https://www.amazon.es/dp/B01N67GXD2/?tag=tolees-21) a 73.59 EUR (original: 114.95 EUR) (35.98 %  de descuento) en el siguiente enlace!
 
-[![Salomon Speedcross Vario 2  Zapatillas d](https://images-eu.ssl-images-amazon.com/images/I/411qSPaI6FL._SL200_.jpg)](https://www.amazon.es/dp/B01N67GXD2/?tag=tolees-21)
+[![Salomon Speedcross Vario 2  Zapatillas d](https://images-eu.ssl-images-amazon.com/images/I/411qSPaI6FL._SL400_.jpg)](https://www.amazon.es/dp/B01N67GXD2/?tag=tolees-21)
 
 🔎:
 

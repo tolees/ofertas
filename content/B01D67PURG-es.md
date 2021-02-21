@@ -2,7 +2,7 @@
 layout: post
 title: 'TRANGO Zayo FI Pantalones Largos  Hombre al 49.75 % de descuento'
 date: 2020-03-14 14:35:07
-image: 'https://m.media-amazon.com/images/I/31OaLWuXSnL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31OaLWuXSnL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '63.726666666666674'
 
 Ahora mismo tienes [TRANGO Zayo FI Pantalones Largos  Hombre  Verde  Cala  / marrón  Asfalto   2XL](https://www.amazon.es/dp/B01D67PURG/?tag=tolees-21) a 48.99 EUR (original: 97.5 EUR) (49.75 %  de descuento) en el siguiente enlace!
 
-[![TRANGO Zayo FI Pantalones Largos  Hombre](https://m.media-amazon.com/images/I/31OaLWuXSnL._SL200_.jpg)](https://www.amazon.es/dp/B01D67PURG/?tag=tolees-21)
+[![TRANGO Zayo FI Pantalones Largos  Hombre](https://m.media-amazon.com/images/I/31OaLWuXSnL._SL400_.jpg)](https://www.amazon.es/dp/B01D67PURG/?tag=tolees-21)
 
 🔎:
 

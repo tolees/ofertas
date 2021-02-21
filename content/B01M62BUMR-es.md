@@ -2,7 +2,7 @@
 layout: post
 title: 'vidaXL Barandilla de Seguridad Cama de N al 64.49 % de descuento'
 date: 2020-05-07 14:10:49
-image: 'https://m.media-amazon.com/images/I/31m3gLbJU4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31m3gLbJU4L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.32'
 
 Ahora mismo tienes [vidaXL Barandilla de Seguridad Cama de Niños Azul Barrera Infantil de Dormir](https://www.amazon.es/dp/B01M62BUMR/?tag=tolees-21) a 8.32 EUR (original: 23.43 EUR) (64.49 %  de descuento) en el siguiente enlace!
 
-[![vidaXL Barandilla de Seguridad Cama de N](https://m.media-amazon.com/images/I/31m3gLbJU4L._SL200_.jpg)](https://www.amazon.es/dp/B01M62BUMR/?tag=tolees-21)
+[![vidaXL Barandilla de Seguridad Cama de N](https://m.media-amazon.com/images/I/31m3gLbJU4L._SL400_.jpg)](https://www.amazon.es/dp/B01M62BUMR/?tag=tolees-21)
 
 🔎:
 

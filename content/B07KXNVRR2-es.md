@@ -2,7 +2,7 @@
 layout: post
 title: 'Frozen 2- Disney Muñeca Princesa Anna co al 64.37 % de descuento'
 date: 2020-10-05 12:25:47
-image: 'https://m.media-amazon.com/images/I/41u3EWw3INL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41u3EWw3INL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '26.265'
 
 Ahora mismo tienes [Frozen 2- Disney Muñeca Princesa Anna con Figuras de Olaf y el Reno Sven de Frozen II Set  Color replicas de la película  Talla Única  Glop Games 207164 ](https://www.amazon.es/dp/B07KXNVRR2/?tag=tolees-21) a 28.5 EUR (original: 79.99 EUR) (64.37 %  de descuento) en el siguiente enlace!
 
-[![Frozen 2- Disney Muñeca Princesa Anna co](https://m.media-amazon.com/images/I/41u3EWw3INL._SL200_.jpg)](https://www.amazon.es/dp/B07KXNVRR2/?tag=tolees-21)
+[![Frozen 2- Disney Muñeca Princesa Anna co](https://m.media-amazon.com/images/I/41u3EWw3INL._SL400_.jpg)](https://www.amazon.es/dp/B07KXNVRR2/?tag=tolees-21)
 
 🔎:
 

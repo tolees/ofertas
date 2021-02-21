@@ -2,7 +2,7 @@
 layout: post
 title: 'Wella Sp Perfect Hair - 150 ml al 39.27 % de rebaja'
 date: 2020-03-11 02:35:14
-image: 'https://m.media-amazon.com/images/I/31u7H90tt0L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31u7H90tt0L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.99'
 
 Tienes [Wella Sp Perfect Hair - 150 ml](https://www.amazon.es/dp/B002SJS99K/?tag=tolees-21) con precio final de  9.99 EUR (original: 16.45 EUR) (39.27 %  de rebaja) aqui!
 
-[![Wella Sp Perfect Hair - 150 ml](https://m.media-amazon.com/images/I/31u7H90tt0L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B002SJS99K/?tag=tolees-21)
+[![Wella Sp Perfect Hair - 150 ml](https://m.media-amazon.com/images/I/31u7H90tt0L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B002SJS99K/?tag=tolees-21)
 
 🔎:
 

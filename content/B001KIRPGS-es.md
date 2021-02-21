@@ -2,7 +2,7 @@
 layout: post
 title: 'Thierry Mugler Angel Body Cream 200 ml al 30.85 % de descuento'
 date: 2020-07-03 09:34:34
-image: 'https://m.media-amazon.com/images/I/31vTrs5aZAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31vTrs5aZAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '44.005'
 
 Está [Thierry Mugler Angel Body Cream 200 ml](https://www.amazon.es/dp/B001KIRPGS/?tag=tolees-21) con 30.85 de descuento por 44.95 EUR (original: 65.0 EUR) en el siguiente enlace!
 
-[![Thierry Mugler Angel Body Cream 200 ml](https://m.media-amazon.com/images/I/31vTrs5aZAL._SL200_.jpg)](https://www.amazon.es/dp/B001KIRPGS/?tag=tolees-21)
+[![Thierry Mugler Angel Body Cream 200 ml](https://m.media-amazon.com/images/I/31vTrs5aZAL._SL400_.jpg)](https://www.amazon.es/dp/B001KIRPGS/?tag=tolees-21)
 
 ℹ️:
 

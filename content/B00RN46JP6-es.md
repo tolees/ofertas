@@ -2,7 +2,7 @@
 layout: post
 title: 'Zefal Piel Armour M  Protectores Adhesiv al 35.68 % de descuento'
 date: 2020-05-20 10:14:49
-image: 'https://m.media-amazon.com/images/I/31PleePe0gL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31PleePe0gL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.485'
 
 Está [Zefal Piel Armour M  Protectores Adhesivos Cuadro  Transparente](https://www.amazon.es/dp/B00RN46JP6/?tag=tolees-21) con 35.68 de descuento por 8.49 EUR (original: 13.2 EUR) en el siguiente enlace!
 
-[![Zefal Piel Armour M  Protectores Adhesiv](https://m.media-amazon.com/images/I/31PleePe0gL._SL200_.jpg)](https://www.amazon.es/dp/B00RN46JP6/?tag=tolees-21)
+[![Zefal Piel Armour M  Protectores Adhesiv](https://m.media-amazon.com/images/I/31PleePe0gL._SL400_.jpg)](https://www.amazon.es/dp/B00RN46JP6/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Merrell Nova Gore-Tex  Zapatillas de Run al 55.76 % de rebaja'
 date: 2020-03-07 17:22:18
-image: 'https://m.media-amazon.com/images/I/414-ajKbnhL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/414-ajKbnhL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '61.93'
 
 Tienes [Merrell Nova Gore-Tex  Zapatillas de Running para Asfalto para Hombre  Azul  Sailor   41 EU](https://www.amazon.es/dp/B07KM9XJZC/?tag=tolees-21) con precio final de  61.93 EUR (original: 140.0 EUR) (55.76 %  de rebaja) aqui!
 
-[![Merrell Nova Gore-Tex  Zapatillas de Run](https://m.media-amazon.com/images/I/414-ajKbnhL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07KM9XJZC/?tag=tolees-21)
+[![Merrell Nova Gore-Tex  Zapatillas de Run](https://m.media-amazon.com/images/I/414-ajKbnhL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07KM9XJZC/?tag=tolees-21)
 
 🔎:
 

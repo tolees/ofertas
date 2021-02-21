@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour Tech 2.0 Tanque  Hombre  Az al 48.12 % de rebaja'
 date: 2020-06-26 16:32:01
-image: 'https://m.media-amazon.com/images/I/41vzJPIRHLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41vzJPIRHLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.823333333333334'
 
 Tienes [Under Armour Tech 2.0 Tanque  Hombre  Azul  MD](https://www.amazon.es/dp/B07SP4K24C/?tag=tolees-21) con precio final de  13.49 EUR (original: 26.0 EUR) (48.12 %  de rebaja) aqui!
 
-[![Under Armour Tech 2.0 Tanque  Hombre  Az](https://m.media-amazon.com/images/I/41vzJPIRHLL._SL200_.jpg)](https://www.amazon.es/dp/B07SP4K24C/?tag=tolees-21)
+[![Under Armour Tech 2.0 Tanque  Hombre  Az](https://m.media-amazon.com/images/I/41vzJPIRHLL._SL400_.jpg)](https://www.amazon.es/dp/B07SP4K24C/?tag=tolees-21)
 
 🔎:
 

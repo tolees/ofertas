@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 51.19 % en Tommy Hilfiger Seasonal Textile Sneaker '
 date: 2020-06-29 07:57:13
-image: 'https://m.media-amazon.com/images/I/31-w8wMxbiL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31-w8wMxbiL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '39.0'
 
 Tienes [Tommy Hilfiger Seasonal Textile Sneaker  Zapatillas para Hombre  Blanco  White Ybs   40 EU](https://www.amazon.es/dp/B07V4N5NZB/?tag=tolees-21) con un 51.19 % de descuento con precio de oferta de 39.0 EUR (original: 79.9 EUR) en el siguiente enlace!
 
-[![Tommy Hilfiger Seasonal Textile Sneaker ](https://m.media-amazon.com/images/I/31-w8wMxbiL._SL200_.jpg)](https://www.amazon.es/dp/B07V4N5NZB/?tag=tolees-21)
+[![Tommy Hilfiger Seasonal Textile Sneaker ](https://m.media-amazon.com/images/I/31-w8wMxbiL._SL400_.jpg)](https://www.amazon.es/dp/B07V4N5NZB/?tag=tolees-21)
 
 ℹ️:
 

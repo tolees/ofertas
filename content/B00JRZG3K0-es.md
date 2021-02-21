@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 58.12 % en Pioneer TS-SW2002D2 Subwoofer de Poca Pr'
 date: 2020-04-07 08:34:57
-image: 'https://m.media-amazon.com/images/I/41G0+8ZfWaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41G0+8ZfWaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '87.42'
 
 Tienes [Pioneer TS-SW2002D2 Subwoofer de Poca Profundidad  Negro](https://www.amazon.es/dp/B00JRZG3K0/?tag=tolees-21) con un 58.12 % de descuento con precio de oferta de 68.68 EUR (original: 164.0 EUR) en el siguiente enlace!
 
-[![Pioneer TS-SW2002D2 Subwoofer de Poca Pr](https://m.media-amazon.com/images/I/41G0+8ZfWaL._SL200_.jpg)](https://www.amazon.es/dp/B00JRZG3K0/?tag=tolees-21)
+[![Pioneer TS-SW2002D2 Subwoofer de Poca Pr](https://m.media-amazon.com/images/I/41G0+8ZfWaL._SL400_.jpg)](https://www.amazon.es/dp/B00JRZG3K0/?tag=tolees-21)
 
 ℹ️:
 

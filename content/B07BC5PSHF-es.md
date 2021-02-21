@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 79.23 % en Bourjois Satin Edition Sombra de Ojos Lí'
 date: 2020-07-11 16:35:11
-image: 'https://m.media-amazon.com/images/I/41lYM4okQWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41lYM4okQWL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.7'
 
 Tienes [Bourjois Satin Edition Sombra de Ojos Líquida Tono 1 Beige seller - 28 gr](https://www.amazon.es/dp/B07BC5PSHF/?tag=tolees-21) con un 79.23 % de descuento con precio de oferta de 2.7 EUR (original: 13.0 EUR) en el siguiente enlace!
 
-[![Bourjois Satin Edition Sombra de Ojos Lí](https://m.media-amazon.com/images/I/41lYM4okQWL._SL200_.jpg)](https://www.amazon.es/dp/B07BC5PSHF/?tag=tolees-21)
+[![Bourjois Satin Edition Sombra de Ojos Lí](https://m.media-amazon.com/images/I/41lYM4okQWL._SL400_.jpg)](https://www.amazon.es/dp/B07BC5PSHF/?tag=tolees-21)
 
 ℹ️:
 

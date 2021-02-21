@@ -2,7 +2,7 @@
 layout: post
 title: 'D DOLITY Altavoz de Graves Rango Complet al 33.35 % de descuento'
 date: 2020-03-19 22:31:52
-image: 'https://m.media-amazon.com/images/I/41yTI9h5mxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41yTI9h5mxL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.31'
 
 Ahora mismo tienes [D DOLITY Altavoz de Graves Rango Completo Altavoz Impermeable Compatible con Reproductores de Medios 25W  78x78x40mm](https://www.amazon.es/dp/B07HCYBG52/?tag=tolees-21) a 10.85 EUR (original: 16.28 EUR) (33.35 %  de descuento) en el siguiente enlace!
 
-[![D DOLITY Altavoz de Graves Rango Complet](https://m.media-amazon.com/images/I/41yTI9h5mxL._SL200_.jpg)](https://www.amazon.es/dp/B07HCYBG52/?tag=tolees-21)
+[![D DOLITY Altavoz de Graves Rango Complet](https://m.media-amazon.com/images/I/41yTI9h5mxL._SL400_.jpg)](https://www.amazon.es/dp/B07HCYBG52/?tag=tolees-21)
 
 🔎:
 

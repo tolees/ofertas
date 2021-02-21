@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas D2m tee 3s T-Shirt  Hombre  Black al 30.02 % de descuento'
 date: 2020-01-10 11:34:38
-image: 'https://images-eu.ssl-images-amazon.com/images/I/4153j8x0kTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4153j8x0kTL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.36'
 
 Está [adidas D2m tee 3s T-Shirt  Hombre  Black  XL](https://www.amazon.es/dp/B07KKW1MQV/?tag=tolees-21) con 30.02 de descuento por 17.46 EUR (original: 24.95 EUR) en el siguiente enlace!
 
-[![adidas D2m tee 3s T-Shirt  Hombre  Black](https://images-eu.ssl-images-amazon.com/images/I/4153j8x0kTL._SL200_.jpg)](https://www.amazon.es/dp/B07KKW1MQV/?tag=tolees-21)
+[![adidas D2m tee 3s T-Shirt  Hombre  Black](https://images-eu.ssl-images-amazon.com/images/I/4153j8x0kTL._SL400_.jpg)](https://www.amazon.es/dp/B07KKW1MQV/?tag=tolees-21)
 
 ℹ️:
 

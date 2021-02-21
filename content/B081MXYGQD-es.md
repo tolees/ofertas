@@ -2,7 +2,7 @@
 layout: post
 title: 'Masajeador 10 Modos de Vibración Silicon al 56.69 % de descuento'
 date: 2020-01-08 20:02:16
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41V25dAWpJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41V25dAWpJL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.99'
 
 Está [Masajeador 10 Modos de Vibración Silicona Masajeador Eléctricos Recargable](https://www.amazon.es/dp/B081MXYGQD/?tag=tolees-21) con 56.69 de descuento por 12.99 EUR (original: 29.99 EUR) en el siguiente enlace!
 
-[![Masajeador 10 Modos de Vibración Silicon](https://images-eu.ssl-images-amazon.com/images/I/41V25dAWpJL._SL200_.jpg)](https://www.amazon.es/dp/B081MXYGQD/?tag=tolees-21)
+[![Masajeador 10 Modos de Vibración Silicon](https://images-eu.ssl-images-amazon.com/images/I/41V25dAWpJL._SL400_.jpg)](https://www.amazon.es/dp/B081MXYGQD/?tag=tolees-21)
 
 ℹ️:
 

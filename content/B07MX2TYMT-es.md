@@ -2,7 +2,7 @@
 layout: post
 title: 'Apple Smart Battery Case  for iPhone XS  al 61.70 % de descuento'
 date: 2020-06-25 18:32:40
-image: 'https://m.media-amazon.com/images/I/21riF2-yr9L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21riF2-yr9L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '71.04666666666667'
 
 Ahora mismo tienes [Apple Smart Battery Case  for iPhone XS MAX  - White](https://www.amazon.es/dp/B07MX2TYMT/?tag=tolees-21) a 57.07 EUR (original: 149.0 EUR) (61.70 %  de descuento) en el siguiente enlace!
 
-[![Apple Smart Battery Case  for iPhone XS ](https://m.media-amazon.com/images/I/21riF2-yr9L._SL200_.jpg)](https://www.amazon.es/dp/B07MX2TYMT/?tag=tolees-21)
+[![Apple Smart Battery Case  for iPhone XS ](https://m.media-amazon.com/images/I/21riF2-yr9L._SL400_.jpg)](https://www.amazon.es/dp/B07MX2TYMT/?tag=tolees-21)
 
 🔎:
 

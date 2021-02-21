@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 39.74 % en WINMI para Huawei Y5p Funda Color Degrad'
 date: 2020-06-20 15:46:05
-image: 'https://m.media-amazon.com/images/I/41fij22aJDL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41fij22aJDL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.02'
 
 Tienes [WINMI para Huawei Y5p Funda Color Degradado Silicona TPU Ultrafina Carcasa Reforzar la Cuatro Esquinas Back Case Cover para Huawei Y5p-Oro Negro](https://www.amazon.es/dp/B08B1WF75Q/?tag=tolees-21) con un 39.74 % de descuento con precio de oferta de 6.02 EUR (original: 9.99 EUR) en el siguiente enlace!
 
-[![WINMI para Huawei Y5p Funda Color Degrad](https://m.media-amazon.com/images/I/41fij22aJDL._SL200_.jpg)](https://www.amazon.es/dp/B08B1WF75Q/?tag=tolees-21)
+[![WINMI para Huawei Y5p Funda Color Degrad](https://m.media-amazon.com/images/I/41fij22aJDL._SL400_.jpg)](https://www.amazon.es/dp/B08B1WF75Q/?tag=tolees-21)
 
 ℹ️:
 

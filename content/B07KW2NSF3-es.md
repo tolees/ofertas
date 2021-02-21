@@ -2,7 +2,7 @@
 layout: post
 title: 'Baseus Cargador de Coche Quick Charge 3. con un 35.02 % de descuento'
 date: 2020-02-09 14:50:47
-image: 'https://m.media-amazon.com/images/I/41nbj3bOXwL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41nbj3bOXwL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.790000000000001'
 
 En este momento está [Baseus Cargador de Coche Quick Charge 3.0 5A 30W Carga Rapida Doble Puertos USB Adaptador para Samsung Galaxy S10E/S9/S8/Note 8 LG G6 Huawei P20/Mate10](https://www.amazon.es/dp/B07KW2NSF3/?tag=tolees-21) a 12.99 EUR (original: 19.99 EUR) (35.02 %  de descuento) en el siguiente enlace!
 
-[![Baseus Cargador de Coche Quick Charge 3.](https://m.media-amazon.com/images/I/41nbj3bOXwL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07KW2NSF3/?tag=tolees-21)
+[![Baseus Cargador de Coche Quick Charge 3.](https://m.media-amazon.com/images/I/41nbj3bOXwL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07KW2NSF3/?tag=tolees-21)
 
 🔎:
 

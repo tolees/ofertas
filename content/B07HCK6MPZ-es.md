@@ -2,7 +2,7 @@
 layout: post
 title: 'Skechers Men s Stamina Cutback Trainers  al 50.03 % de descuento'
 date: 2020-10-04 10:09:24
-image: 'https://m.media-amazon.com/images/I/41bdeAHMEOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41bdeAHMEOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '39.95'
 
 Está [Skechers Men s Stamina Cutback Trainers  Grey  Charcoal Leather/Mesh/Red Trim Ccrd   10  45 EU ](https://www.amazon.es/dp/B07HCK6MPZ/?tag=tolees-21) con 50.03 de descuento por 39.95 EUR (original: 79.95 EUR) en el siguiente enlace!
 
-[![Skechers Men s Stamina Cutback Trainers ](https://m.media-amazon.com/images/I/41bdeAHMEOL._SL200_.jpg)](https://www.amazon.es/dp/B07HCK6MPZ/?tag=tolees-21)
+[![Skechers Men s Stamina Cutback Trainers ](https://m.media-amazon.com/images/I/41bdeAHMEOL._SL400_.jpg)](https://www.amazon.es/dp/B07HCK6MPZ/?tag=tolees-21)
 
 ℹ️:
 

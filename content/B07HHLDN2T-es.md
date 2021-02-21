@@ -2,7 +2,7 @@
 layout: post
 title: 'Cartera Pepe Jeans Burned vertical con c al 44.71 % de descuento'
 date: 2020-03-08 12:53:02
-image: 'https://m.media-amazon.com/images/I/41WGBoaSwIL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41WGBoaSwIL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.01'
 
 Ahora mismo tienes [Cartera Pepe Jeans Burned vertical con cierre de clic Marrón](https://www.amazon.es/dp/B07HHLDN2T/?tag=tolees-21) a 21.01 EUR (original: 38.0 EUR) (44.71 %  de descuento) en el siguiente enlace!
 
-[![Cartera Pepe Jeans Burned vertical con c](https://m.media-amazon.com/images/I/41WGBoaSwIL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07HHLDN2T/?tag=tolees-21)
+[![Cartera Pepe Jeans Burned vertical con c](https://m.media-amazon.com/images/I/41WGBoaSwIL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07HHLDN2T/?tag=tolees-21)
 
 🔎:
 

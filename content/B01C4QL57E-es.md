@@ -2,7 +2,7 @@
 layout: post
 title: 'SanDisk Extreme Pro - Tarjeta de Memoria al 39.23 % de descuento'
 date: 2020-04-13 06:25:44
-image: 'https://m.media-amazon.com/images/I/313D0u9qoRL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/313D0u9qoRL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '71.108'
 
 Ahora mismo tienes [SanDisk Extreme Pro - Tarjeta de Memoria microSDXC de 64 GB  con Lector USB 3.0 hasta 275 MB/s  UHS-II  Clase 10 y U3 ](https://www.amazon.es/dp/B01C4QL57E/?tag=tolees-21) a 63.8 EUR (original: 104.99 EUR) (39.23 %  de descuento) en el siguiente enlace!
 
-[![SanDisk Extreme Pro - Tarjeta de Memoria](https://m.media-amazon.com/images/I/313D0u9qoRL._SL200_.jpg)](https://www.amazon.es/dp/B01C4QL57E/?tag=tolees-21)
+[![SanDisk Extreme Pro - Tarjeta de Memoria](https://m.media-amazon.com/images/I/313D0u9qoRL._SL400_.jpg)](https://www.amazon.es/dp/B01C4QL57E/?tag=tolees-21)
 
 🔎:
 

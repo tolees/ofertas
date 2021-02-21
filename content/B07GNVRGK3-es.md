@@ -2,7 +2,7 @@
 layout: post
 title: 'NIVEA Q10 3en1 Cushion  Perfeccionador F con un 49.97 % de descuento'
 date: 2020-01-14 14:26:39
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51ew7p4XiTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51ew7p4XiTL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.745'
 
 En este momento está [NIVEA Q10 3en1 Cushion  Perfeccionador Facial Hidratante y Antiedad con Protector Facial   Tono 02 Medio - 15 gr](https://www.amazon.es/dp/B07GNVRGK3/?tag=tolees-21) a 8.5 EUR (original: 16.99 EUR) (49.97 %  de descuento) en el siguiente enlace!
 
-[![NIVEA Q10 3en1 Cushion  Perfeccionador F](https://images-eu.ssl-images-amazon.com/images/I/51ew7p4XiTL._SL200_.jpg)](https://www.amazon.es/dp/B07GNVRGK3/?tag=tolees-21)
+[![NIVEA Q10 3en1 Cushion  Perfeccionador F](https://images-eu.ssl-images-amazon.com/images/I/51ew7p4XiTL._SL400_.jpg)](https://www.amazon.es/dp/B07GNVRGK3/?tag=tolees-21)
 
 🔎:
 

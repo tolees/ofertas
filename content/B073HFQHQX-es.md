@@ -2,7 +2,7 @@
 layout: post
 title: 'Cillit Bang Instant Power Limpiador para con un 66.56 % de descuento'
 date: 2020-05-25 16:54:13
-image: 'https://m.media-amazon.com/images/I/41qb0heheEL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41qb0heheEL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.0'
 
 En este momento está [Cillit Bang Instant Power Limpiador para WC Lejía Higienizante - 700 ml](https://www.amazon.es/dp/B073HFQHQX/?tag=tolees-21) a 1.0 EUR (original: 2.99 EUR) (66.56 %  de descuento) en el siguiente enlace!
 
-[![Cillit Bang Instant Power Limpiador para](https://m.media-amazon.com/images/I/41qb0heheEL._SL200_.jpg)](https://www.amazon.es/dp/B073HFQHQX/?tag=tolees-21)
+[![Cillit Bang Instant Power Limpiador para](https://m.media-amazon.com/images/I/41qb0heheEL._SL400_.jpg)](https://www.amazon.es/dp/B073HFQHQX/?tag=tolees-21)
 
 🔎:
 

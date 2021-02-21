@@ -2,7 +2,7 @@
 layout: post
 title: 'Yageshark - Pantalones de deporte para h al 36.91 % de rebaja'
 date: 2020-07-09 03:37:49
-image: 'https://m.media-amazon.com/images/I/31TE1+vw33L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31TE1+vw33L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '25.735'
 
 Tienes [Yageshark - Pantalones de deporte para hombre  de algodón  ajustados marine M](https://www.amazon.es/dp/B07ZPV5PL4/?tag=tolees-21) con precio final de  26.75 EUR (original: 42.4 EUR) (36.91 %  de rebaja) aqui!
 
-[![Yageshark - Pantalones de deporte para h](https://m.media-amazon.com/images/I/31TE1+vw33L._SL200_.jpg)](https://www.amazon.es/dp/B07ZPV5PL4/?tag=tolees-21)
+[![Yageshark - Pantalones de deporte para h](https://m.media-amazon.com/images/I/31TE1+vw33L._SL400_.jpg)](https://www.amazon.es/dp/B07ZPV5PL4/?tag=tolees-21)
 
 🔎:
 

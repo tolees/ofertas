@@ -2,7 +2,7 @@
 layout: post
 title: 'Skechers Women s D LITES 3.0-PROVEN FORC al 40.08 % de rebaja'
 date: 2020-04-27 22:24:16
-image: 'https://m.media-amazon.com/images/I/31EtmDlJHfL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31EtmDlJHfL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '50.9'
 
 Tienes [Skechers Women s D LITES 3.0-PROVEN FORCE Trainers  White  Black Leather/Black & Gray Trim Wht   4  37 EU ](https://www.amazon.es/dp/B07NW9HHTM/?tag=tolees-21) con precio final de  50.9 EUR (original: 84.95 EUR) (40.08 %  de rebaja) aqui!
 
-[![Skechers Women s D LITES 3.0-PROVEN FORC](https://m.media-amazon.com/images/I/31EtmDlJHfL._SL200_.jpg)](https://www.amazon.es/dp/B07NW9HHTM/?tag=tolees-21)
+[![Skechers Women s D LITES 3.0-PROVEN FORC](https://m.media-amazon.com/images/I/31EtmDlJHfL._SL400_.jpg)](https://www.amazon.es/dp/B07NW9HHTM/?tag=tolees-21)
 
 🔎:
 

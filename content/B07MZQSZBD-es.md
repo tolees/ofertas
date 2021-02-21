@@ -2,7 +2,7 @@
 layout: post
 title: 'Pepe Jeans Marissa suéter   Candle 806   al 79.65 % de descuento'
 date: 2020-03-05 19:52:59
-image: 'https://m.media-amazon.com/images/I/41QobnWI64L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41QobnWI64L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.12'
 
 Ahora mismo tienes [Pepe Jeans Marissa suéter   Candle 806   Small para Mujer](https://www.amazon.es/dp/B07MZQSZBD/?tag=tolees-21) a 16.26 EUR (original: 79.9 EUR) (79.65 %  de descuento) en el siguiente enlace!
 
-[![Pepe Jeans Marissa suéter   Candle 806  ](https://m.media-amazon.com/images/I/41QobnWI64L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07MZQSZBD/?tag=tolees-21)
+[![Pepe Jeans Marissa suéter   Candle 806  ](https://m.media-amazon.com/images/I/41QobnWI64L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07MZQSZBD/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Emma & Giovanni - Pullover- Mujer  S/M   con un 28.40 % de descuento'
 date: 2020-01-24 10:38:12
-image: 'https://m.media-amazon.com/images/I/617QiZsI6eL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/617QiZsI6eL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.2'
 
 En este momento está [Emma & Giovanni - Pullover- Mujer  S/M  Burdeos ](https://www.amazon.es/dp/B0748FMJVX/?tag=tolees-21) a 17.9 EUR (original: 25.0 EUR) (28.40 %  de descuento) en el siguiente enlace!
 
-[![Emma & Giovanni - Pullover- Mujer  S/M  ](https://m.media-amazon.com/images/I/617QiZsI6eL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B0748FMJVX/?tag=tolees-21)
+[![Emma & Giovanni - Pullover- Mujer  S/M  ](https://m.media-amazon.com/images/I/617QiZsI6eL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B0748FMJVX/?tag=tolees-21)
 
 🔎:
 

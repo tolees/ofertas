@@ -2,7 +2,7 @@
 layout: post
 title: 'Superdry Hombre Mountain Zip Jacket  Azu al 40.02 % de descuento'
 date: 2020-02-24 13:02:00
-image: 'https://m.media-amazon.com/images/I/51LBc1DuseL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51LBc1DuseL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '61.2'
 
 Ahora mismo tienes [Superdry Hombre Mountain Zip Jacket  Azul  Large](https://www.amazon.es/dp/B07G88LG2B/?tag=tolees-21) a 53.95 EUR (original: 89.95 EUR) (40.02 %  de descuento) en el siguiente enlace!
 
-[![Superdry Hombre Mountain Zip Jacket  Azu](https://m.media-amazon.com/images/I/51LBc1DuseL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07G88LG2B/?tag=tolees-21)
+[![Superdry Hombre Mountain Zip Jacket  Azu](https://m.media-amazon.com/images/I/51LBc1DuseL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07G88LG2B/?tag=tolees-21)
 
 🔎:
 

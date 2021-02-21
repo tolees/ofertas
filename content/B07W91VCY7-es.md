@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger Hombre Slim Layton Pstr C al 70.97 % de descuento'
 date: 2020-08-19 03:26:42
-image: 'https://m.media-amazon.com/images/I/41GyNSIxsVL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41GyNSIxsVL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '34.97'
 
 Ahora mismo tienes [Tommy Hilfiger Hombre Slim Layton Pstr Clute Blue Loose Fit Jeans  Azul  Clute Blue   W34/L30](https://www.amazon.es/dp/B07W91VCY7/?tag=tolees-21) a 34.97 EUR (original: 120.47 EUR) (70.97 %  de descuento) en el siguiente enlace!
 
-[![Tommy Hilfiger Hombre Slim Layton Pstr C](https://m.media-amazon.com/images/I/41GyNSIxsVL._SL200_.jpg)](https://www.amazon.es/dp/B07W91VCY7/?tag=tolees-21)
+[![Tommy Hilfiger Hombre Slim Layton Pstr C](https://m.media-amazon.com/images/I/41GyNSIxsVL._SL400_.jpg)](https://www.amazon.es/dp/B07W91VCY7/?tag=tolees-21)
 
 🔎:
 

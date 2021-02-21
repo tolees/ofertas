@@ -2,7 +2,7 @@
 layout: post
 title: 'S.Oliver Reloj Analógico de Cuarzo para  al 38.25 % de descuento'
 date: 2020-05-26 13:42:42
-image: 'https://m.media-amazon.com/images/I/41LrhU1PUaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41LrhU1PUaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '49.95'
 
 Está [S.Oliver Reloj Analógico de Cuarzo para Mujer con Correa de Cuero – SO-2773-LQ](https://www.amazon.es/dp/B00E0CE3G6/?tag=tolees-21) con 38.25 de descuento por 49.95 EUR (original: 80.89 EUR) en el siguiente enlace!
 
-[![S.Oliver Reloj Analógico de Cuarzo para ](https://m.media-amazon.com/images/I/41LrhU1PUaL._SL200_.jpg)](https://www.amazon.es/dp/B00E0CE3G6/?tag=tolees-21)
+[![S.Oliver Reloj Analógico de Cuarzo para ](https://m.media-amazon.com/images/I/41LrhU1PUaL._SL400_.jpg)](https://www.amazon.es/dp/B00E0CE3G6/?tag=tolees-21)
 
 ℹ️:
 

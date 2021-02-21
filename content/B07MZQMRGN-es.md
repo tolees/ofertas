@@ -2,7 +2,7 @@
 layout: post
 title: 'Pepe Jeans Kim suéter   Black 999   X-Sm al 40.60 % de descuento'
 date: 2020-04-07 07:47:18
-image: 'https://m.media-amazon.com/images/I/41vwzdu5ocL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41vwzdu5ocL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '38.61'
 
 Ahora mismo tienes [Pepe Jeans Kim suéter   Black 999   X-Small para Mujer](https://www.amazon.es/dp/B07MZQMRGN/?tag=tolees-21) a 38.61 EUR (original: 65.0 EUR) (40.60 %  de descuento) en el siguiente enlace!
 
-[![Pepe Jeans Kim suéter   Black 999   X-Sm](https://m.media-amazon.com/images/I/41vwzdu5ocL._SL200_.jpg)](https://www.amazon.es/dp/B07MZQMRGN/?tag=tolees-21)
+[![Pepe Jeans Kim suéter   Black 999   X-Sm](https://m.media-amazon.com/images/I/41vwzdu5ocL._SL400_.jpg)](https://www.amazon.es/dp/B07MZQMRGN/?tag=tolees-21)
 
 🔎:
 

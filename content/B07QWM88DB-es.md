@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour Launch Compression Pantalon con un 51.60 % de descuento'
 date: 2020-05-12 10:39:28
-image: 'https://m.media-amazon.com/images/I/41ZbPe199aL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ZbPe199aL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.21'
 
 En este momento está [Under Armour Launch Compression Pantalones Cortos  Mujer  Negro  LG](https://www.amazon.es/dp/B07QWM88DB/?tag=tolees-21) a 16.94 EUR (original: 35.0 EUR) (51.60 %  de descuento) en el siguiente enlace!
 
-[![Under Armour Launch Compression Pantalon](https://m.media-amazon.com/images/I/41ZbPe199aL._SL200_.jpg)](https://www.amazon.es/dp/B07QWM88DB/?tag=tolees-21)
+[![Under Armour Launch Compression Pantalon](https://m.media-amazon.com/images/I/41ZbPe199aL._SL400_.jpg)](https://www.amazon.es/dp/B07QWM88DB/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'NGSIN Blue - Ratón Portátil con Cable Re al 76.23 % de descuento'
 date: 2020-07-13 00:14:26
-image: 'https://m.media-amazon.com/images/I/41PCH3ug9cL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41PCH3ug9cL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.008'
 
 Ahora mismo tienes [NGSIN Blue - Ratón Portátil con Cable Retráctil  ratón óptico de 1000 dpi. Color Azul](https://www.amazon.es/dp/B01E7WR92S/?tag=tolees-21) a 2.62 EUR (original: 11.02 EUR) (76.23 %  de descuento) en el siguiente enlace!
 
-[![NGSIN Blue - Ratón Portátil con Cable Re](https://m.media-amazon.com/images/I/41PCH3ug9cL._SL200_.jpg)](https://www.amazon.es/dp/B01E7WR92S/?tag=tolees-21)
+[![NGSIN Blue - Ratón Portátil con Cable Re](https://m.media-amazon.com/images/I/41PCH3ug9cL._SL400_.jpg)](https://www.amazon.es/dp/B01E7WR92S/?tag=tolees-21)
 
 🔎:
 

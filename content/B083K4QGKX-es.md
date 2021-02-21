@@ -2,7 +2,7 @@
 layout: post
 title: 'LEADSTAR Templado Protector Pantalla par al 38.38 % de rebaja'
 date: 2020-08-08 08:02:16
-image: 'https://m.media-amazon.com/images/I/41hzKLqXXVL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41hzKLqXXVL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.54'
 
 Tienes [LEADSTAR Templado Protector Pantalla para Samsung Galaxy Tab A 10.1 T510/ T515 2019  Anti-arañazos  9H Dureza  Alta Definición Cristal Templado para SM-T510 / SM-T515](https://www.amazon.es/dp/B083K4QGKX/?tag=tolees-21) con precio final de  5.54 EUR (original: 8.99 EUR) (38.38 %  de rebaja) aqui!
 
-[![LEADSTAR Templado Protector Pantalla par](https://m.media-amazon.com/images/I/41hzKLqXXVL._SL200_.jpg)](https://www.amazon.es/dp/B083K4QGKX/?tag=tolees-21)
+[![LEADSTAR Templado Protector Pantalla par](https://m.media-amazon.com/images/I/41hzKLqXXVL._SL400_.jpg)](https://www.amazon.es/dp/B083K4QGKX/?tag=tolees-21)
 
 🔎:
 

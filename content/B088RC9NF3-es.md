@@ -2,7 +2,7 @@
 layout: post
 title: 'COOAU Cámara Web 1080p HD con micrófono  con un 62.28 % de descuento'
 date: 2020-08-12 09:16:00
-image: 'https://m.media-amazon.com/images/I/41gUI3lOuAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41gUI3lOuAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '37.91307692307692'
 
 En este momento está [COOAU Cámara Web 1080p HD con micrófono con cancelación de Ruido  Webcam  Uso para cámara de Juegos  cámara de Video Conferencia  Video Llamada.Compatible con Windows/Mac/Andriod  Web 1 ](https://www.amazon.es/dp/B088RC9NF3/?tag=tolees-21) a 19.99 EUR (original: 52.99 EUR) (62.28 %  de descuento) en el siguiente enlace!
 
-[![COOAU Cámara Web 1080p HD con micrófono ](https://m.media-amazon.com/images/I/41gUI3lOuAL._SL200_.jpg)](https://www.amazon.es/dp/B088RC9NF3/?tag=tolees-21)
+[![COOAU Cámara Web 1080p HD con micrófono ](https://m.media-amazon.com/images/I/41gUI3lOuAL._SL400_.jpg)](https://www.amazon.es/dp/B088RC9NF3/?tag=tolees-21)
 
 🔎:
 

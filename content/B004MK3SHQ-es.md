@@ -2,7 +2,7 @@
 layout: post
 title: 'Joseph & Joseph Vinilo Tomate - Tabla de con un 49.83 % de descuento'
 date: 2020-10-08 09:03:47
-image: 'https://m.media-amazon.com/images/I/41bUPu6bg3L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41bUPu6bg3L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.99'
 
 En este momento está [Joseph & Joseph Vinilo Tomate - Tabla de cristal](https://www.amazon.es/dp/B004MK3SHQ/?tag=tolees-21) a 11.99 EUR (original: 23.9 EUR) (49.83 %  de descuento) en el siguiente enlace!
 
-[![Joseph & Joseph Vinilo Tomate - Tabla de](https://m.media-amazon.com/images/I/41bUPu6bg3L._SL200_.jpg)](https://www.amazon.es/dp/B004MK3SHQ/?tag=tolees-21)
+[![Joseph & Joseph Vinilo Tomate - Tabla de](https://m.media-amazon.com/images/I/41bUPu6bg3L._SL400_.jpg)](https://www.amazon.es/dp/B004MK3SHQ/?tag=tolees-21)
 
 🔎:
 

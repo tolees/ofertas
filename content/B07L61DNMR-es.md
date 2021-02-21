@@ -2,7 +2,7 @@
 layout: post
 title: 'Tangle Teezer Cepillo fine & fragile min al 27.63 % de descuento'
 date: 2020-08-08 19:44:24
-image: 'https://m.media-amazon.com/images/I/31V46sAovZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31V46sAovZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.99'
 
 Está [Tangle Teezer Cepillo fine & fragile mint & lilac 70 g](https://www.amazon.es/dp/B07L61DNMR/?tag=tolees-21) con 27.63 de descuento por 7.99 EUR (original: 11.04 EUR) en el siguiente enlace!
 
-[![Tangle Teezer Cepillo fine & fragile min](https://m.media-amazon.com/images/I/31V46sAovZL._SL200_.jpg)](https://www.amazon.es/dp/B07L61DNMR/?tag=tolees-21)
+[![Tangle Teezer Cepillo fine & fragile min](https://m.media-amazon.com/images/I/31V46sAovZL._SL400_.jpg)](https://www.amazon.es/dp/B07L61DNMR/?tag=tolees-21)
 
 ℹ️:
 

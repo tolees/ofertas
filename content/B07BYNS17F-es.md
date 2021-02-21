@@ -2,7 +2,7 @@
 layout: post
 title: 'Schwarzkopf Gliss Ultimate Repair - Cham al 39.58 % de descuento'
 date: 2020-08-14 00:40:34
-image: 'https://m.media-amazon.com/images/I/418NekPmgyL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/418NekPmgyL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.74'
 
 Ahora mismo tienes [Schwarzkopf Gliss Ultimate Repair - Champú para cabello muy dañado - 400ml  1 unidad](https://www.amazon.es/dp/B07BYNS17F/?tag=tolees-21) a 1.74 EUR (original: 2.88 EUR) (39.58 %  de descuento) en el siguiente enlace!
 
-[![Schwarzkopf Gliss Ultimate Repair - Cham](https://m.media-amazon.com/images/I/418NekPmgyL._SL200_.jpg)](https://www.amazon.es/dp/B07BYNS17F/?tag=tolees-21)
+[![Schwarzkopf Gliss Ultimate Repair - Cham](https://m.media-amazon.com/images/I/418NekPmgyL._SL400_.jpg)](https://www.amazon.es/dp/B07BYNS17F/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Sushi Striker: The Way Of Sushido al 69.99 % de descuento'
 date: 2020-07-01 08:08:25
-image: 'https://images-eu.ssl-images-amazon.com/images/I/61DWqF8%2BpkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61DWqF8%2BpkL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15'
 
 Está [Sushi Striker: The Way Of Sushido](https://www.amazon.es/dp/B07BF1SYVL/?tag=tolees-21) con 69.99 de descuento por 15 EUR (original: 49.99 EUR) en el siguiente enlace!
 
-[![Sushi Striker: The Way Of Sushido](https://images-eu.ssl-images-amazon.com/images/I/61DWqF8%2BpkL._SL200_.jpg)](https://www.amazon.es/dp/B07BF1SYVL/?tag=tolees-21)
+[![Sushi Striker: The Way Of Sushido](https://images-eu.ssl-images-amazon.com/images/I/61DWqF8%2BpkL._SL400_.jpg)](https://www.amazon.es/dp/B07BF1SYVL/?tag=tolees-21)
 
 ℹ️:
 

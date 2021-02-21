@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 29.97 % en Silverado- Bd [Blu-ray]'
 date: 2020-07-19 22:57:17
-image: 'https://m.media-amazon.com/images/I/61p4mR+ONkL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61p4mR+ONkL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.99'
 
 Tienes [Silverado- Bd [Blu-ray]](https://www.amazon.es/dp/B0055KOAVU/?tag=tolees-21) con un 29.97 % de descuento con precio de oferta de 12.99 EUR (original: 18.55 EUR) en el siguiente enlace!
 
-[![Silverado- Bd [Blu-ray]](https://m.media-amazon.com/images/I/61p4mR+ONkL._SL200_.jpg)](https://www.amazon.es/dp/B0055KOAVU/?tag=tolees-21)
+[![Silverado- Bd [Blu-ray]](https://m.media-amazon.com/images/I/61p4mR+ONkL._SL400_.jpg)](https://www.amazon.es/dp/B0055KOAVU/?tag=tolees-21)
 
 ℹ️:
 

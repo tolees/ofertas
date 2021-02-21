@@ -2,7 +2,7 @@
 layout: post
 title: 'PUMA Basket Heart Patent WN S  Zapatilla al 48.26 % de descuento'
 date: 2020-07-11 23:35:47
-image: 'https://m.media-amazon.com/images/I/414tej-mVxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/414tej-mVxL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '34.4675'
 
 Ahora mismo tienes [PUMA Basket Heart Patent WN S  Zapatillas para Mujer  Gris  Iron Gate/Iron Gate   38 EU](https://www.amazon.es/dp/B07CZ42JPF/?tag=tolees-21) a 46.54 EUR (original: 89.95 EUR) (48.26 %  de descuento) en el siguiente enlace!
 
-[![PUMA Basket Heart Patent WN S  Zapatilla](https://m.media-amazon.com/images/I/414tej-mVxL._SL200_.jpg)](https://www.amazon.es/dp/B07CZ42JPF/?tag=tolees-21)
+[![PUMA Basket Heart Patent WN S  Zapatilla](https://m.media-amazon.com/images/I/414tej-mVxL._SL400_.jpg)](https://www.amazon.es/dp/B07CZ42JPF/?tag=tolees-21)
 
 🔎:
 

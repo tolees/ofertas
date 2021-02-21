@@ -2,7 +2,7 @@
 layout: post
 title: 'Diablo 3 - Ultimate Evil Edition con un 51.26 % de descuento'
 date: 2020-09-11 16:18:52
-image: 'https://m.media-amazon.com/images/I/515OTEHloTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/515OTEHloTL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.06875'
 
 En este momento está [Diablo 3 - Ultimate Evil Edition](https://www.amazon.es/dp/B00KHZW3YO/?tag=tolees-21) a 19.98 EUR (original: 40.99 EUR) (51.26 %  de descuento) en el siguiente enlace!
 
-[![Diablo 3 - Ultimate Evil Edition](https://m.media-amazon.com/images/I/515OTEHloTL._SL200_.jpg)](https://www.amazon.es/dp/B00KHZW3YO/?tag=tolees-21)
+[![Diablo 3 - Ultimate Evil Edition](https://m.media-amazon.com/images/I/515OTEHloTL._SL400_.jpg)](https://www.amazon.es/dp/B00KHZW3YO/?tag=tolees-21)
 
 🔎:
 

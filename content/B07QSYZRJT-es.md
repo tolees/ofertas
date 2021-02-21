@@ -2,7 +2,7 @@
 layout: post
 title: 'Shantae: 1/2 Genie Hero - Ultimate Editi al 32.98 % de descuento'
 date: 2020-06-19 09:44:06
-image: 'https://m.media-amazon.com/images/I/51TwXV3VhwL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51TwXV3VhwL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.75'
 
 Ahora mismo tienes [Shantae: 1/2 Genie Hero - Ultimate Edition](https://www.amazon.es/dp/B07QSYZRJT/?tag=tolees-21) a 20.1 EUR (original: 29.99 EUR) (32.98 %  de descuento) en el siguiente enlace!
 
-[![Shantae: 1/2 Genie Hero - Ultimate Editi](https://m.media-amazon.com/images/I/51TwXV3VhwL._SL200_.jpg)](https://www.amazon.es/dp/B07QSYZRJT/?tag=tolees-21)
+[![Shantae: 1/2 Genie Hero - Ultimate Editi](https://m.media-amazon.com/images/I/51TwXV3VhwL._SL400_.jpg)](https://www.amazon.es/dp/B07QSYZRJT/?tag=tolees-21)
 
 🔎:
 

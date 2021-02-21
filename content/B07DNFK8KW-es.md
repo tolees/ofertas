@@ -2,7 +2,7 @@
 layout: post
 title: 'Calcetines de Tenis Performance Crew 3 P con un 50.10 % de descuento'
 date: 2020-01-13 18:43:20
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51OJt9veLgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51OJt9veLgL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.95'
 
 En este momento está [Calcetines de Tenis Performance Crew 3 Pares  Azul  EU 35-38 ](https://www.amazon.es/dp/B07DNFK8KW/?tag=tolees-21) a 12.95 EUR (original: 25.95 EUR) (50.10 %  de descuento) en el siguiente enlace!
 
-[![Calcetines de Tenis Performance Crew 3 P](https://images-eu.ssl-images-amazon.com/images/I/51OJt9veLgL._SL200_.jpg)](https://www.amazon.es/dp/B07DNFK8KW/?tag=tolees-21)
+[![Calcetines de Tenis Performance Crew 3 P](https://images-eu.ssl-images-amazon.com/images/I/51OJt9veLgL._SL400_.jpg)](https://www.amazon.es/dp/B07DNFK8KW/?tag=tolees-21)
 
 🔎:
 

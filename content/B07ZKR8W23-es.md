@@ -2,7 +2,7 @@
 layout: post
 title: 'Gillette Fusion5 Power Maquinilla Afeita con un 49.98 % de descuento'
 date: 2020-06-05 00:17:17
-image: 'https://m.media-amazon.com/images/I/51YOjlnxZOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51YOjlnxZOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.5'
 
 En este momento está [Gillette Fusion5 Power Maquinilla Afeitar  8 Recambios](https://www.amazon.es/dp/B07ZKR8W23/?tag=tolees-21) a 14.5 EUR (original: 28.99 EUR) (49.98 %  de descuento) en el siguiente enlace!
 
-[![Gillette Fusion5 Power Maquinilla Afeita](https://m.media-amazon.com/images/I/51YOjlnxZOL._SL200_.jpg)](https://www.amazon.es/dp/B07ZKR8W23/?tag=tolees-21)
+[![Gillette Fusion5 Power Maquinilla Afeita](https://m.media-amazon.com/images/I/51YOjlnxZOL._SL400_.jpg)](https://www.amazon.es/dp/B07ZKR8W23/?tag=tolees-21)
 
 🔎:
 

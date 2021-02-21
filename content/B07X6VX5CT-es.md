@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 30.91 % en Eastpak SPRINGER Riñonera  23 cm  2 L  G'
 date: 2020-10-09 06:58:35
-image: 'https://m.media-amazon.com/images/I/41iiN312l2L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41iiN312l2L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.5'
 
 Tienes [Eastpak SPRINGER Riñonera  23 cm  2 L  Gris  Nep Whale ](https://www.amazon.es/dp/B07X6VX5CT/?tag=tolees-21) con un 30.91 % de descuento con precio de oferta de 13.5 EUR (original: 19.54 EUR) en el siguiente enlace!
 
-[![Eastpak SPRINGER Riñonera  23 cm  2 L  G](https://m.media-amazon.com/images/I/41iiN312l2L._SL200_.jpg)](https://www.amazon.es/dp/B07X6VX5CT/?tag=tolees-21)
+[![Eastpak SPRINGER Riñonera  23 cm  2 L  G](https://m.media-amazon.com/images/I/41iiN312l2L._SL400_.jpg)](https://www.amazon.es/dp/B07X6VX5CT/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 34.56 % en Silverline TB05 - Banco de trabajo resis'
 date: 2020-06-01 17:27:59
-image: 'https://m.media-amazon.com/images/I/41MKVlNey1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41MKVlNey1L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '30.65'
 
 Tienes [Silverline TB05 - Banco de trabajo resistente y plegable  150 kg ](https://www.amazon.es/dp/B000LFXHO0/?tag=tolees-21) con un 34.56 % de descuento con precio de oferta de 30.65 EUR (original: 46.84 EUR) en el siguiente enlace!
 
-[![Silverline TB05 - Banco de trabajo resis](https://m.media-amazon.com/images/I/41MKVlNey1L._SL200_.jpg)](https://www.amazon.es/dp/B000LFXHO0/?tag=tolees-21)
+[![Silverline TB05 - Banco de trabajo resis](https://m.media-amazon.com/images/I/41MKVlNey1L._SL400_.jpg)](https://www.amazon.es/dp/B000LFXHO0/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Asics GT-1000 9 GS  Running Shoe Unisex  al 25.00 % de descuento'
 date: 2020-08-27 04:26:09
-image: 'https://m.media-amazon.com/images/I/41EJo8ktNfL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41EJo8ktNfL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '45.0'
 
 Ahora mismo tienes [Asics GT-1000 9 GS  Running Shoe Unisex niños  Directoire Blue/Black  37 EU](https://www.amazon.es/dp/B0812GZNDM/?tag=tolees-21) a 45.0 EUR (original: 60.0 EUR) (25.00 %  de descuento) en el siguiente enlace!
 
-[![Asics GT-1000 9 GS  Running Shoe Unisex ](https://m.media-amazon.com/images/I/41EJo8ktNfL._SL200_.jpg)](https://www.amazon.es/dp/B0812GZNDM/?tag=tolees-21)
+[![Asics GT-1000 9 GS  Running Shoe Unisex ](https://m.media-amazon.com/images/I/41EJo8ktNfL._SL400_.jpg)](https://www.amazon.es/dp/B0812GZNDM/?tag=tolees-21)
 
 🔎:
 

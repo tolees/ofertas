@@ -2,7 +2,7 @@
 layout: post
 title: 'WMF Kult X Mix & Go Keep Cool  Mini licu al 30.77 % de rebaja'
 date: 2020-01-22 21:33:25
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31m%2BMIRc3IL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31m%2BMIRc3IL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '44.99'
 
 Tienes [WMF Kult X Mix & Go Keep Cool  Mini licuadora  300 vatios  0.6 litros](https://www.amazon.es/dp/B012FZAO9E/?tag=tolees-21) con precio final de  44.99 EUR (original: 64.99 EUR) (30.77 %  de rebaja) aqui!
 
-[![WMF Kult X Mix & Go Keep Cool  Mini licu](https://images-eu.ssl-images-amazon.com/images/I/31m%2BMIRc3IL._SL200_.jpg)](https://www.amazon.es/dp/B012FZAO9E/?tag=tolees-21)
+[![WMF Kult X Mix & Go Keep Cool  Mini licu](https://images-eu.ssl-images-amazon.com/images/I/31m%2BMIRc3IL._SL400_.jpg)](https://www.amazon.es/dp/B012FZAO9E/?tag=tolees-21)
 
 🔎:
 

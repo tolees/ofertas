@@ -2,7 +2,7 @@
 layout: post
 title: 'New Balance 574 Core Zapatillas Hombre   al 31.43 % de descuento'
 date: 2020-01-17 08:04:10
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41uDi50WA5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41uDi50WA5L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '59.27666666666667'
 
 Ahora mismo tienes [New Balance 574 Core Zapatillas Hombre  Negro  Black EGK   42 EU  8 UK ](https://www.amazon.es/dp/B06Y2Z4T2G/?tag=tolees-21) a 59.99 EUR (original: 87.49 EUR) (31.43 %  de descuento) en el siguiente enlace!
 
-[![New Balance 574 Core Zapatillas Hombre  ](https://images-eu.ssl-images-amazon.com/images/I/41uDi50WA5L._SL200_.jpg)](https://www.amazon.es/dp/B06Y2Z4T2G/?tag=tolees-21)
+[![New Balance 574 Core Zapatillas Hombre  ](https://images-eu.ssl-images-amazon.com/images/I/41uDi50WA5L._SL400_.jpg)](https://www.amazon.es/dp/B06Y2Z4T2G/?tag=tolees-21)
 
 🔎:
 

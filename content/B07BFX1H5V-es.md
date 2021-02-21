@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 45.79 % en Doble Consolador Double Consolador en co'
 date: 2020-02-13 11:04:14
-image: 'https://m.media-amazon.com/images/I/418mOh4RCgL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/418mOh4RCgL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.9'
 
 Tienes [Doble Consolador Double Consolador en color rosa transparente anal y vaginal perforación Dong Massager](https://www.amazon.es/dp/B07BFX1H5V/?tag=tolees-21) con un 45.79 % de descuento con precio de oferta de 11.9 EUR (original: 21.95 EUR) en el siguiente enlace!
 
-[![Doble Consolador Double Consolador en co](https://m.media-amazon.com/images/I/418mOh4RCgL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07BFX1H5V/?tag=tolees-21)
+[![Doble Consolador Double Consolador en co](https://m.media-amazon.com/images/I/418mOh4RCgL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07BFX1H5V/?tag=tolees-21)
 
 ℹ️:
 

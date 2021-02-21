@@ -2,7 +2,7 @@
 layout: post
 title: 'HP CE278A 78A Cartucho de Tóner Original con un 38.30 % de descuento'
 date: 2020-03-22 09:33:09
-image: 'https://m.media-amazon.com/images/I/41XSzrac-eL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41XSzrac-eL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '75.955'
 
 En este momento está [HP CE278A 78A Cartucho de Tóner Original  1 unidad  negro](https://www.amazon.es/dp/B003BFXFHG/?tag=tolees-21) a 72.91 EUR (original: 118.17 EUR) (38.30 %  de descuento) en el siguiente enlace!
 
-[![HP CE278A 78A Cartucho de Tóner Original](https://m.media-amazon.com/images/I/41XSzrac-eL._SL200_.jpg)](https://www.amazon.es/dp/B003BFXFHG/?tag=tolees-21)
+[![HP CE278A 78A Cartucho de Tóner Original](https://m.media-amazon.com/images/I/41XSzrac-eL._SL400_.jpg)](https://www.amazon.es/dp/B003BFXFHG/?tag=tolees-21)
 
 🔎:
 

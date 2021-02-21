@@ -2,7 +2,7 @@
 layout: post
 title: 'Emuca - Regleta multienchufe retráctil c al 30.85 % de descuento'
 date: 2020-08-31 19:21:18
-image: 'https://m.media-amazon.com/images/I/41UXzKYN2lL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41UXzKYN2lL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.5'
 
 Está [Emuca - Regleta multienchufe retráctil con 3 enchufes schuko EU y 2 Puertos USB  Torre de enchufes Vertical empotrable para encimera de Cocina o Escritorio](https://www.amazon.es/dp/B01GV0PE26/?tag=tolees-21) con 30.85 de descuento por 24.95 EUR (original: 36.08 EUR) en el siguiente enlace!
 
-[![Emuca - Regleta multienchufe retráctil c](https://m.media-amazon.com/images/I/41UXzKYN2lL._SL200_.jpg)](https://www.amazon.es/dp/B01GV0PE26/?tag=tolees-21)
+[![Emuca - Regleta multienchufe retráctil c](https://m.media-amazon.com/images/I/41UXzKYN2lL._SL400_.jpg)](https://www.amazon.es/dp/B01GV0PE26/?tag=tolees-21)
 
 ℹ️:
 

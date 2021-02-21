@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour Tech Mesh 6in 2 Pack Ropa I con un 44.20 % de descuento'
 date: 2020-04-08 16:08:47
-image: 'https://m.media-amazon.com/images/I/41QDKdAXg8L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41QDKdAXg8L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '31.16'
 
 En este momento está [Under Armour Tech Mesh 6in 2 Pack Ropa Interior  Hombre  Naranja  Orange 860   MD](https://www.amazon.es/dp/B07CZG3V38/?tag=tolees-21) a 22.32 EUR (original: 40.0 EUR) (44.20 %  de descuento) en el siguiente enlace!
 
-[![Under Armour Tech Mesh 6in 2 Pack Ropa I](https://m.media-amazon.com/images/I/41QDKdAXg8L._SL200_.jpg)](https://www.amazon.es/dp/B07CZG3V38/?tag=tolees-21)
+[![Under Armour Tech Mesh 6in 2 Pack Ropa I](https://m.media-amazon.com/images/I/41QDKdAXg8L._SL400_.jpg)](https://www.amazon.es/dp/B07CZG3V38/?tag=tolees-21)
 
 🔎:
 

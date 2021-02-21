@@ -2,7 +2,7 @@
 layout: post
 title: 'Palladium Plphoenix F C U  Zapatillas Un al 27.34 % de descuento'
 date: 2020-06-01 05:17:05
-image: 'https://m.media-amazon.com/images/I/31w3DK2olnL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31w3DK2olnL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '43.57333333333333'
 
 Ahora mismo tienes [Palladium Plphoenix F C U  Zapatillas Unisex Adulto  Blanco  Star White/French S97   39 EU](https://www.amazon.es/dp/B07F32KYX7/?tag=tolees-21) a 54.46 EUR (original: 74.95 EUR) (27.34 %  de descuento) en el siguiente enlace!
 
-[![Palladium Plphoenix F C U  Zapatillas Un](https://m.media-amazon.com/images/I/31w3DK2olnL._SL200_.jpg)](https://www.amazon.es/dp/B07F32KYX7/?tag=tolees-21)
+[![Palladium Plphoenix F C U  Zapatillas Un](https://m.media-amazon.com/images/I/31w3DK2olnL._SL400_.jpg)](https://www.amazon.es/dp/B07F32KYX7/?tag=tolees-21)
 
 🔎:
 

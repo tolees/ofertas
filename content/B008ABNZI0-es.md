@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 32.46 % en StarTech.com USB110EXT2 - Extensor de 1 '
 date: 2020-10-02 18:16:38
-image: 'https://m.media-amazon.com/images/I/31IJYbKjgXL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31IJYbKjgXL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '80.04'
 
 Tienes [StarTech.com USB110EXT2 - Extensor de 1 Puerto USB por Cable Ethernet  40 m de Alcance](https://www.amazon.es/dp/B008ABNZI0/?tag=tolees-21) con un 32.46 % de descuento con precio de oferta de 80.04 EUR (original: 118.51 EUR) en el siguiente enlace!
 
-[![StarTech.com USB110EXT2 - Extensor de 1 ](https://m.media-amazon.com/images/I/31IJYbKjgXL._SL200_.jpg)](https://www.amazon.es/dp/B008ABNZI0/?tag=tolees-21)
+[![StarTech.com USB110EXT2 - Extensor de 1 ](https://m.media-amazon.com/images/I/31IJYbKjgXL._SL400_.jpg)](https://www.amazon.es/dp/B008ABNZI0/?tag=tolees-21)
 
 ℹ️:
 

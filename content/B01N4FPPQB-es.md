@@ -2,7 +2,7 @@
 layout: post
 title: 'Lacoste Marice Bl 2 CAM Blk  Zapatillas  al 57.81 % de rebaja'
 date: 2020-05-07 20:19:27
-image: 'https://m.media-amazon.com/images/I/21Gk8MftK4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21Gk8MftK4L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.49'
 
 Tienes [Lacoste Marice Bl 2 CAM Blk  Zapatillas para Hombre  Blanco  Wht 001   43 EU](https://www.amazon.es/dp/B01N4FPPQB/?tag=tolees-21) con precio final de  29.49 EUR (original: 69.9 EUR) (57.81 %  de rebaja) aqui!
 
-[![Lacoste Marice Bl 2 CAM Blk  Zapatillas ](https://m.media-amazon.com/images/I/21Gk8MftK4L._SL200_.jpg)](https://www.amazon.es/dp/B01N4FPPQB/?tag=tolees-21)
+[![Lacoste Marice Bl 2 CAM Blk  Zapatillas ](https://m.media-amazon.com/images/I/21Gk8MftK4L._SL400_.jpg)](https://www.amazon.es/dp/B01N4FPPQB/?tag=tolees-21)
 
 🔎:
 

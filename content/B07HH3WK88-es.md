@@ -2,7 +2,7 @@
 layout: post
 title: 'Amazon Essentials - Camisetas de manga c con un 41.91 % de descuento'
 date: 2020-05-29 10:45:50
-image: 'https://m.media-amazon.com/images/I/51XOuotx2cL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51XOuotx2cL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.83'
 
 En este momento está [Amazon Essentials - Camisetas de manga corta y corte entallado con cuello en V y diseño a rayas para hombre  Negro/Gris jaspeado claro  US M  EU M ](https://www.amazon.es/dp/B07HH3WK88/?tag=tolees-21) a 7.83 EUR (original: 13.48 EUR) (41.91 %  de descuento) en el siguiente enlace!
 
-[![Amazon Essentials - Camisetas de manga c](https://m.media-amazon.com/images/I/51XOuotx2cL._SL200_.jpg)](https://www.amazon.es/dp/B07HH3WK88/?tag=tolees-21)
+[![Amazon Essentials - Camisetas de manga c](https://m.media-amazon.com/images/I/51XOuotx2cL._SL400_.jpg)](https://www.amazon.es/dp/B07HH3WK88/?tag=tolees-21)
 
 🔎:
 

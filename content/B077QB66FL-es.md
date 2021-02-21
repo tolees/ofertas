@@ -2,7 +2,7 @@
 layout: post
 title: 'Sanfor Pomo olla adaptable a magefesa tr al 82.81 % de descuento'
 date: 2020-05-10 11:35:59
-image: 'https://m.media-amazon.com/images/I/31JheMfXCkL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31JheMfXCkL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '0.99'
 
 Está [Sanfor Pomo olla adaptable a magefesa tradicional con tornillo  | Negro | Blister pomo Triangular Convencional para ollas de presion | 8 x 8 x 2 5 cm](https://www.amazon.es/dp/B077QB66FL/?tag=tolees-21) con 82.81 de descuento por 0.99 EUR (original: 5.76 EUR) en el siguiente enlace!
 
-[![Sanfor Pomo olla adaptable a magefesa tr](https://m.media-amazon.com/images/I/31JheMfXCkL._SL200_.jpg)](https://www.amazon.es/dp/B077QB66FL/?tag=tolees-21)
+[![Sanfor Pomo olla adaptable a magefesa tr](https://m.media-amazon.com/images/I/31JheMfXCkL._SL400_.jpg)](https://www.amazon.es/dp/B077QB66FL/?tag=tolees-21)
 
 ℹ️:
 

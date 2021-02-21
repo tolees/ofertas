@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s 502 Regular Taper Jeans  Azul  Ci al 50.45 % de descuento'
 date: 2020-07-16 11:37:49
-image: 'https://m.media-amazon.com/images/I/41nZjFk+v8L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41nZjFk+v8L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '54.5'
 
 Ahora mismo tienes [Levi s 502 Regular Taper Jeans  Azul  City Park 0011   28W / 34L para Hombre](https://www.amazon.es/dp/B01MY8F32N/?tag=tolees-21) a 54.5 EUR (original: 110.0 EUR) (50.45 %  de descuento) en el siguiente enlace!
 
-[![Levi s 502 Regular Taper Jeans  Azul  Ci](https://m.media-amazon.com/images/I/41nZjFk+v8L._SL200_.jpg)](https://www.amazon.es/dp/B01MY8F32N/?tag=tolees-21)
+[![Levi s 502 Regular Taper Jeans  Azul  Ci](https://m.media-amazon.com/images/I/41nZjFk+v8L._SL400_.jpg)](https://www.amazon.es/dp/B01MY8F32N/?tag=tolees-21)
 
 🔎:
 

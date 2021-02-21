@@ -2,7 +2,7 @@
 layout: post
 title: 'TOUS Colgante San Valentín Llave de Plat al 30.00 % de descuento'
 date: 2020-06-22 12:08:42
-image: 'https://m.media-amazon.com/images/I/21jWeNXlCyL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21jWeNXlCyL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '41.3'
 
 Ahora mismo tienes [TOUS Colgante San Valentín Llave de Plata](https://www.amazon.es/dp/B084JFPJ2T/?tag=tolees-21) a 41.3 EUR (original: 59.0 EUR) (30.00 %  de descuento) en el siguiente enlace!
 
-[![TOUS Colgante San Valentín Llave de Plat](https://m.media-amazon.com/images/I/21jWeNXlCyL._SL200_.jpg)](https://www.amazon.es/dp/B084JFPJ2T/?tag=tolees-21)
+[![TOUS Colgante San Valentín Llave de Plat](https://m.media-amazon.com/images/I/21jWeNXlCyL._SL400_.jpg)](https://www.amazon.es/dp/B084JFPJ2T/?tag=tolees-21)
 
 🔎:
 

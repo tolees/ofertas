@@ -2,7 +2,7 @@
 layout: post
 title: 'Alsoar – Repuesto para Samsung A7 2018   al 53.74 % de descuento'
 date: 2020-06-15 09:01:59
-image: 'https://m.media-amazon.com/images/I/31OJgq0GpHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31OJgq0GpHL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.72'
 
 Está [Alsoar – Repuesto para Samsung A7 2018  funda para teléfono móvil Galaxy A7 2018  funda de móvil mate  suave y líquida  protección contra golpes y arañazos  flexible  con protección para Samsung A750](https://www.amazon.es/dp/B07QNN1FZH/?tag=tolees-21) con 53.74 de descuento por 16.72 EUR (original: 36.14 EUR) en el siguiente enlace!
 
-[![Alsoar – Repuesto para Samsung A7 2018  ](https://m.media-amazon.com/images/I/31OJgq0GpHL._SL200_.jpg)](https://www.amazon.es/dp/B07QNN1FZH/?tag=tolees-21)
+[![Alsoar – Repuesto para Samsung A7 2018  ](https://m.media-amazon.com/images/I/31OJgq0GpHL._SL400_.jpg)](https://www.amazon.es/dp/B07QNN1FZH/?tag=tolees-21)
 
 ℹ️:
 

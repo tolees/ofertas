@@ -2,7 +2,7 @@
 layout: post
 title: 'Desigual Blus_Gala    Navy 5000   Medium con un 74.96 % de descuento'
 date: 2020-02-29 20:02:40
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41zT2psUZNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41zT2psUZNL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.01'
 
 En este momento está [Desigual Blus_Gala    Navy 5000   Medium para Mujer](https://www.amazon.es/dp/B079SMC3JC/?tag=tolees-21) a 15.01 EUR (original: 59.95 EUR) (74.96 %  de descuento) en el siguiente enlace!
 
-[![Desigual Blus_Gala    Navy 5000   Medium](https://images-eu.ssl-images-amazon.com/images/I/41zT2psUZNL._SL200_.jpg)](https://www.amazon.es/dp/B079SMC3JC/?tag=tolees-21)
+[![Desigual Blus_Gala    Navy 5000   Medium](https://images-eu.ssl-images-amazon.com/images/I/41zT2psUZNL._SL400_.jpg)](https://www.amazon.es/dp/B079SMC3JC/?tag=tolees-21)
 
 🔎:
 

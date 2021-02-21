@@ -2,7 +2,7 @@
 layout: post
 title: 'RSPCA fleaaway Spot On solución para gat al 50.80 % de descuento'
 date: 2020-05-28 16:56:31
-image: 'https://m.media-amazon.com/images/I/41bhZF6RyKL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41bhZF6RyKL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.76'
 
 Ahora mismo tienes [RSPCA fleaaway Spot On solución para gatos  50 mg](https://www.amazon.es/dp/B00TOGC72U/?tag=tolees-21) a 14.76 EUR (original: 30.0 EUR) (50.80 %  de descuento) en el siguiente enlace!
 
-[![RSPCA fleaaway Spot On solución para gat](https://m.media-amazon.com/images/I/41bhZF6RyKL._SL200_.jpg)](https://www.amazon.es/dp/B00TOGC72U/?tag=tolees-21)
+[![RSPCA fleaaway Spot On solución para gat](https://m.media-amazon.com/images/I/41bhZF6RyKL._SL400_.jpg)](https://www.amazon.es/dp/B00TOGC72U/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Nostalgic-Art - Placa metálica Decorativ al 42.64 % de rebaja'
 date: 2020-09-01 22:47:43
-image: 'https://m.media-amazon.com/images/I/61zFl+OjwTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61zFl+OjwTL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.95'
 
 Tienes [Nostalgic-Art - Placa metálica Decorativa  15 x 20 cm   diseño Cuba Libre](https://www.amazon.es/dp/B00EUJ8I74/?tag=tolees-21) con precio final de  7.95 EUR (original: 13.86 EUR) (42.64 %  de rebaja) aqui!
 
-[![Nostalgic-Art - Placa metálica Decorativ](https://m.media-amazon.com/images/I/61zFl+OjwTL._SL200_.jpg)](https://www.amazon.es/dp/B00EUJ8I74/?tag=tolees-21)
+[![Nostalgic-Art - Placa metálica Decorativ](https://m.media-amazon.com/images/I/61zFl+OjwTL._SL400_.jpg)](https://www.amazon.es/dp/B00EUJ8I74/?tag=tolees-21)
 
 🔎:
 

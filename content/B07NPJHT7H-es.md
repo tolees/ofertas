@@ -2,7 +2,7 @@
 layout: post
 title: 'Tom Tailor 7985903  Botas Clasicas para  al 30.23 % de descuento'
 date: 2020-02-09 12:57:14
-image: 'https://m.media-amazon.com/images/I/41CQ1nj3j3L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41CQ1nj3j3L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.715'
 
 Ahora mismo tienes [Tom Tailor 7985903  Botas Clasicas para Hombre  Marrón  Brandy 01823   42 EU](https://www.amazon.es/dp/B07NPJHT7H/?tag=tolees-21) a 18.16 EUR (original: 26.03 EUR) (30.23 %  de descuento) en el siguiente enlace!
 
-[![Tom Tailor 7985903  Botas Clasicas para ](https://m.media-amazon.com/images/I/41CQ1nj3j3L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07NPJHT7H/?tag=tolees-21)
+[![Tom Tailor 7985903  Botas Clasicas para ](https://m.media-amazon.com/images/I/41CQ1nj3j3L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07NPJHT7H/?tag=tolees-21)
 
 🔎:
 

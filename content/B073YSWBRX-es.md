@@ -2,7 +2,7 @@
 layout: post
 title: 'Skechers-111 41 con un 38.37 % de descuento'
 date: 2020-04-11 06:35:18
-image: 'https://m.media-amazon.com/images/I/41XgriwZEFL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41XgriwZEFL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '37.95'
 
 En este momento está [Skechers-111 41](https://www.amazon.es/dp/B073YSWBRX/?tag=tolees-21) a 36.95 EUR (original: 59.95 EUR) (38.37 %  de descuento) en el siguiente enlace!
 
-[![Skechers-111 41](https://m.media-amazon.com/images/I/41XgriwZEFL._SL200_.jpg)](https://www.amazon.es/dp/B073YSWBRX/?tag=tolees-21)
+[![Skechers-111 41](https://m.media-amazon.com/images/I/41XgriwZEFL._SL400_.jpg)](https://www.amazon.es/dp/B073YSWBRX/?tag=tolees-21)
 
 🔎:
 

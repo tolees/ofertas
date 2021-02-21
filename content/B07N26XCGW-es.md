@@ -2,7 +2,7 @@
 layout: post
 title: 'Riñonera con bandolera Pepe Jeans Bitmat al 28.98 % de descuento'
 date: 2020-05-26 17:36:47
-image: 'https://m.media-amazon.com/images/I/413-307BXoL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/413-307BXoL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '31.96'
 
 Está [Riñonera con bandolera Pepe Jeans Bitmat Rosa](https://www.amazon.es/dp/B07N26XCGW/?tag=tolees-21) con 28.98 de descuento por 31.96 EUR (original: 45.0 EUR) en el siguiente enlace!
 
-[![Riñonera con bandolera Pepe Jeans Bitmat](https://m.media-amazon.com/images/I/413-307BXoL._SL200_.jpg)](https://www.amazon.es/dp/B07N26XCGW/?tag=tolees-21)
+[![Riñonera con bandolera Pepe Jeans Bitmat](https://m.media-amazon.com/images/I/413-307BXoL._SL400_.jpg)](https://www.amazon.es/dp/B07N26XCGW/?tag=tolees-21)
 
 ℹ️:
 

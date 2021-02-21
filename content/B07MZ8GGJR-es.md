@@ -2,7 +2,7 @@
 layout: post
 title: 'Head Promotion Cap Gorra  Adultos Unisex con un 30.75 % de descuento'
 date: 2020-04-08 18:09:56
-image: 'https://m.media-amazon.com/images/I/41gFrFBz1BL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41gFrFBz1BL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.08'
 
 En este momento está [Head Promotion Cap Gorra  Adultos Unisex  Navy  Talla única](https://www.amazon.es/dp/B07MZ8GGJR/?tag=tolees-21) a 11.08 EUR (original: 16.0 EUR) (30.75 %  de descuento) en el siguiente enlace!
 
-[![Head Promotion Cap Gorra  Adultos Unisex](https://m.media-amazon.com/images/I/41gFrFBz1BL._SL200_.jpg)](https://www.amazon.es/dp/B07MZ8GGJR/?tag=tolees-21)
+[![Head Promotion Cap Gorra  Adultos Unisex](https://m.media-amazon.com/images/I/41gFrFBz1BL._SL400_.jpg)](https://www.amazon.es/dp/B07MZ8GGJR/?tag=tolees-21)
 
 🔎:
 

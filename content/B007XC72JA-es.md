@@ -2,7 +2,7 @@
 layout: post
 title: 'M MOLTO Pupitre Pizarra 2 en 1 al 43.81 % de descuento'
 date: 2020-02-04 10:20:08
-image: 'https://m.media-amazon.com/images/I/51VHpgh2GcL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51VHpgh2GcL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '25.0'
 
 Ahora mismo tienes [M MOLTO Pupitre Pizarra 2 en 1](https://www.amazon.es/dp/B007XC72JA/?tag=tolees-21) a 25.0 EUR (original: 44.49 EUR) (43.81 %  de descuento) en el siguiente enlace!
 
-[![M MOLTO Pupitre Pizarra 2 en 1](https://m.media-amazon.com/images/I/51VHpgh2GcL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B007XC72JA/?tag=tolees-21)
+[![M MOLTO Pupitre Pizarra 2 en 1](https://m.media-amazon.com/images/I/51VHpgh2GcL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B007XC72JA/?tag=tolees-21)
 
 🔎:
 

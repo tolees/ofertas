@@ -2,7 +2,7 @@
 layout: post
 title: 'Terminator Salvation [DVD] con un 37.44 % de descuento'
 date: 2020-05-03 15:03:49
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51erReMLDEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51erReMLDEL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.95'
 
 En este momento está [Terminator Salvation [DVD]](https://www.amazon.es/dp/B0053CASPC/?tag=tolees-21) a 6.95 EUR (original: 11.11 EUR) (37.44 %  de descuento) en el siguiente enlace!
 
-[![Terminator Salvation [DVD]](https://images-eu.ssl-images-amazon.com/images/I/51erReMLDEL._SL200_.jpg)](https://www.amazon.es/dp/B0053CASPC/?tag=tolees-21)
+[![Terminator Salvation [DVD]](https://images-eu.ssl-images-amazon.com/images/I/51erReMLDEL._SL400_.jpg)](https://www.amazon.es/dp/B0053CASPC/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Lenovo T530 - Ordenador sobremesa  Intel con un 42.35 % de descuento'
 date: 2020-08-26 15:39:57
-image: 'https://m.media-amazon.com/images/I/414rWUrLoAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/414rWUrLoAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '627.19'
 
 En este momento está [Lenovo T530 - Ordenador sobremesa  Intel Core i7-8700  8GB RAM  1TB HDD + 128GB SSD  Nvidia GTX1050Ti-4GB  sin sistema operativo  negro](https://www.amazon.es/dp/B07PC5Z5Z8/?tag=tolees-21) a 608.59 EUR (original: 1055.59 EUR) (42.35 %  de descuento) en el siguiente enlace!
 
-[![Lenovo T530 - Ordenador sobremesa  Intel](https://m.media-amazon.com/images/I/414rWUrLoAL._SL200_.jpg)](https://www.amazon.es/dp/B07PC5Z5Z8/?tag=tolees-21)
+[![Lenovo T530 - Ordenador sobremesa  Intel](https://m.media-amazon.com/images/I/414rWUrLoAL._SL400_.jpg)](https://www.amazon.es/dp/B07PC5Z5Z8/?tag=tolees-21)
 
 🔎:
 

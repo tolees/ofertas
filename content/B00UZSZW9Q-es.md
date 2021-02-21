@@ -2,7 +2,7 @@
 layout: post
 title: 'Jako Polyesterjacke Pro Junior Jacke Blu al 56.08 % de rebaja'
 date: 2020-05-24 09:04:28
-image: 'https://m.media-amazon.com/images/I/51vpM0wzNzL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51vpM0wzNzL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.39'
 
 Tienes [Jako Polyesterjacke Pro Junior Jacke Blue-Navy-Citro - 152](https://www.amazon.es/dp/B00UZSZW9Q/?tag=tolees-21) con precio final de  13.39 EUR (original: 30.49 EUR) (56.08 %  de rebaja) aqui!
 
-[![Jako Polyesterjacke Pro Junior Jacke Blu](https://m.media-amazon.com/images/I/51vpM0wzNzL._SL200_.jpg)](https://www.amazon.es/dp/B00UZSZW9Q/?tag=tolees-21)
+[![Jako Polyesterjacke Pro Junior Jacke Blu](https://m.media-amazon.com/images/I/51vpM0wzNzL._SL400_.jpg)](https://www.amazon.es/dp/B00UZSZW9Q/?tag=tolees-21)
 
 🔎:
 

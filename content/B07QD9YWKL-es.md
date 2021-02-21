@@ -2,7 +2,7 @@
 layout: post
 title: 'Adidas Advantage C  Zapatillas de Tenis  al 65.92 % de rebaja'
 date: 2020-05-29 11:10:14
-image: 'https://m.media-amazon.com/images/I/31GVjHbQarL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31GVjHbQarL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.91'
 
 Tienes [Adidas Advantage C  Zapatillas de Tenis Unisex niño  Multicolor  Ftwbla/Verde/Gridos 000   30.5 EU](https://www.amazon.es/dp/B07QD9YWKL/?tag=tolees-21) con precio final de  11.91 EUR (original: 34.95 EUR) (65.92 %  de rebaja) aqui!
 
-[![Adidas Advantage C  Zapatillas de Tenis ](https://m.media-amazon.com/images/I/31GVjHbQarL._SL200_.jpg)](https://www.amazon.es/dp/B07QD9YWKL/?tag=tolees-21)
+[![Adidas Advantage C  Zapatillas de Tenis ](https://m.media-amazon.com/images/I/31GVjHbQarL._SL400_.jpg)](https://www.amazon.es/dp/B07QD9YWKL/?tag=tolees-21)
 
 🔎:
 

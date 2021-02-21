@@ -2,7 +2,7 @@
 layout: post
 title: 'New Balance 373v2  Zapatillas para Mujer al 46.26 % de descuento'
 date: 2020-07-24 09:54:08
-image: 'https://m.media-amazon.com/images/I/41s68d5jyhL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41s68d5jyhL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '42.99'
 
 Ahora mismo tienes [New Balance 373v2  Zapatillas para Mujer  Rosa  Pink Cc2   37.5 EU](https://www.amazon.es/dp/B07S2YYGRR/?tag=tolees-21) a 42.99 EUR (original: 80.0 EUR) (46.26 %  de descuento) en el siguiente enlace!
 
-[![New Balance 373v2  Zapatillas para Mujer](https://m.media-amazon.com/images/I/41s68d5jyhL._SL200_.jpg)](https://www.amazon.es/dp/B07S2YYGRR/?tag=tolees-21)
+[![New Balance 373v2  Zapatillas para Mujer](https://m.media-amazon.com/images/I/41s68d5jyhL._SL400_.jpg)](https://www.amazon.es/dp/B07S2YYGRR/?tag=tolees-21)
 
 🔎:
 

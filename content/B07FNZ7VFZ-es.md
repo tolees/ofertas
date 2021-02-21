@@ -2,7 +2,7 @@
 layout: post
 title: 'ERAY Luz Solar Exterior  Lámpara Solar 1 al 26.01 % de descuento'
 date: 2020-09-23 04:27:49
-image: 'https://m.media-amazon.com/images/I/41BJr5zMdGL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41BJr5zMdGL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '36.982000000000006'
 
 Ahora mismo tienes [ERAY Luz Solar Exterior  Lámpara Solar 100 Leds con Sensor de Movimiento  Panel Solar Separado/ 700 Lúmenes/ IP44 Impermeable/ 2200mAh Batería Recargable  Luz de Seguridad para Jardín  Patio  Camino](https://www.amazon.es/dp/B07FNZ7VFZ/?tag=tolees-21) a 36.99 EUR (original: 49.99 EUR) (26.01 %  de descuento) en el siguiente enlace!
 
-[![ERAY Luz Solar Exterior  Lámpara Solar 1](https://m.media-amazon.com/images/I/41BJr5zMdGL._SL200_.jpg)](https://www.amazon.es/dp/B07FNZ7VFZ/?tag=tolees-21)
+[![ERAY Luz Solar Exterior  Lámpara Solar 1](https://m.media-amazon.com/images/I/41BJr5zMdGL._SL400_.jpg)](https://www.amazon.es/dp/B07FNZ7VFZ/?tag=tolees-21)
 
 🔎:
 

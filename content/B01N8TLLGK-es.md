@@ -2,7 +2,7 @@
 layout: post
 title: 'Lacoste Lerond BL 1 CAM  Zapatillas para con un 43.68 % de descuento'
 date: 2020-04-27 03:33:11
-image: 'https://m.media-amazon.com/images/I/31W8xH9oxgL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31W8xH9oxgL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '46.31'
 
 En este momento está [Lacoste Lerond BL 1 CAM  Zapatillas para Hombre  Azul Nvy 003  46 EU](https://www.amazon.es/dp/B01N8TLLGK/?tag=tolees-21) a 50.63 EUR (original: 89.9 EUR) (43.68 %  de descuento) en el siguiente enlace!
 
-[![Lacoste Lerond BL 1 CAM  Zapatillas para](https://m.media-amazon.com/images/I/31W8xH9oxgL._SL200_.jpg)](https://www.amazon.es/dp/B01N8TLLGK/?tag=tolees-21)
+[![Lacoste Lerond BL 1 CAM  Zapatillas para](https://m.media-amazon.com/images/I/31W8xH9oxgL._SL400_.jpg)](https://www.amazon.es/dp/B01N8TLLGK/?tag=tolees-21)
 
 🔎:
 

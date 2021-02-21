@@ -2,7 +2,7 @@
 layout: post
 title: 'Bosch 3 397 014 313 Escobilla para limpi al 26.35 % de descuento'
 date: 2020-04-18 15:31:49
-image: 'https://m.media-amazon.com/images/I/31ckLQ21O-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31ckLQ21O-L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.66'
 
 Ahora mismo tienes [Bosch 3 397 014 313 Escobilla para limpiaparabrisas](https://www.amazon.es/dp/B07FBVPRMR/?tag=tolees-21) a 21.66 EUR (original: 29.41 EUR) (26.35 %  de descuento) en el siguiente enlace!
 
-[![Bosch 3 397 014 313 Escobilla para limpi](https://m.media-amazon.com/images/I/31ckLQ21O-L._SL200_.jpg)](https://www.amazon.es/dp/B07FBVPRMR/?tag=tolees-21)
+[![Bosch 3 397 014 313 Escobilla para limpi](https://m.media-amazon.com/images/I/31ckLQ21O-L._SL400_.jpg)](https://www.amazon.es/dp/B07FBVPRMR/?tag=tolees-21)
 
 🔎:
 

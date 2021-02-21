@@ -2,7 +2,7 @@
 layout: post
 title: 'Candy GVSW 486T/5S - Lavasecadora 8+6Kgs al 26.25 % de descuento'
 date: 2020-09-21 14:36:23
-image: 'https://m.media-amazon.com/images/I/41Ytv6AVKwL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Ytv6AVKwL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '367.99'
 
 Está [Candy GVSW 486T/5S - Lavasecadora 8+6Kgs  NFC  display digital  certificado WoolMark  15 programas  1400rpm  clase AAA  color blanco](https://www.amazon.es/dp/B07GXBTC6G/?tag=tolees-21) con 26.25 de descuento por 367.99 EUR (original: 499.0 EUR) en el siguiente enlace!
 
-[![Candy GVSW 486T/5S - Lavasecadora 8+6Kgs](https://m.media-amazon.com/images/I/41Ytv6AVKwL._SL200_.jpg)](https://www.amazon.es/dp/B07GXBTC6G/?tag=tolees-21)
+[![Candy GVSW 486T/5S - Lavasecadora 8+6Kgs](https://m.media-amazon.com/images/I/41Ytv6AVKwL._SL400_.jpg)](https://www.amazon.es/dp/B07GXBTC6G/?tag=tolees-21)
 
 ℹ️:
 

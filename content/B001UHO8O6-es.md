@@ -2,7 +2,7 @@
 layout: post
 title: 'Bosch AVR 1100 - Escarificador  cesta co al 27.66 % de descuento'
 date: 2020-05-23 14:54:29
-image: 'https://m.media-amazon.com/images/I/51hWzNt2evL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51hWzNt2evL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '159.15'
 
 Está [Bosch AVR 1100 - Escarificador  cesta colectora  en caja de cartón  1100 W  anchura de corte: 32 cm  capacidad: 50 l ](https://www.amazon.es/dp/B001UHO8O6/?tag=tolees-21) con 27.66 de descuento por 159.15 EUR (original: 219.99 EUR) en el siguiente enlace!
 
-[![Bosch AVR 1100 - Escarificador  cesta co](https://m.media-amazon.com/images/I/51hWzNt2evL._SL200_.jpg)](https://www.amazon.es/dp/B001UHO8O6/?tag=tolees-21)
+[![Bosch AVR 1100 - Escarificador  cesta co](https://m.media-amazon.com/images/I/51hWzNt2evL._SL400_.jpg)](https://www.amazon.es/dp/B001UHO8O6/?tag=tolees-21)
 
 ℹ️:
 

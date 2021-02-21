@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 41.88 % en Victure Camara Deportiva 4k WiFi 16MP Im'
 date: 2020-02-13 21:48:57
-image: 'https://m.media-amazon.com/images/I/51J4fmmPhbL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51J4fmmPhbL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '59.11'
 
 Tienes [Victure Camara Deportiva 4k WiFi 16MP Impermeable Cámara Acción Deporte Acuatica Agua de 30m Pantalla LCD 2.0 Inch 170 Gran Angular 2 Baterías de 1050mAh con Múltiples Accesorios Kit Última versión](https://www.amazon.es/dp/B07FMTHB5N/?tag=tolees-21) con un 41.88 % de descuento con precio de oferta de 59.11 EUR (original: 101.71 EUR) en el siguiente enlace!
 
-[![Victure Camara Deportiva 4k WiFi 16MP Im](https://m.media-amazon.com/images/I/51J4fmmPhbL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07FMTHB5N/?tag=tolees-21)
+[![Victure Camara Deportiva 4k WiFi 16MP Im](https://m.media-amazon.com/images/I/51J4fmmPhbL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07FMTHB5N/?tag=tolees-21)
 
 ℹ️:
 

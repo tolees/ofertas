@@ -2,7 +2,7 @@
 layout: post
 title: 'Dark Souls III - Edición Apocalypse al 27.62 % de descuento'
 date: 2020-03-02 21:21:40
-image: 'https://m.media-amazon.com/images/I/51yQmFqq9WL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51yQmFqq9WL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '55.0'
 
 Ahora mismo tienes [Dark Souls III - Edición Apocalypse](https://www.amazon.es/dp/B013V2OA7M/?tag=tolees-21) a 55.0 EUR (original: 75.99 EUR) (27.62 %  de descuento) en el siguiente enlace!
 
-[![Dark Souls III - Edición Apocalypse](https://m.media-amazon.com/images/I/51yQmFqq9WL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B013V2OA7M/?tag=tolees-21)
+[![Dark Souls III - Edición Apocalypse](https://m.media-amazon.com/images/I/51yQmFqq9WL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B013V2OA7M/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Pack 5 x Bombilla LED esférica 6W  equiv al 38.88 % de rebaja'
 date: 2020-05-03 07:02:12
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41Jd7Zg8UmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Jd7Zg8UmL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.55'
 
 Tienes [Pack 5 x Bombilla LED esférica 6W  equivalente a 40W  Luz neutra  no dimmable  E27  470 Lm  25000 horas de vida](https://www.amazon.es/dp/B01K9VUP54/?tag=tolees-21) con precio final de  8.55 EUR (original: 13.99 EUR) (38.88 %  de rebaja) aqui!
 
-[![Pack 5 x Bombilla LED esférica 6W  equiv](https://images-eu.ssl-images-amazon.com/images/I/41Jd7Zg8UmL._SL200_.jpg)](https://www.amazon.es/dp/B01K9VUP54/?tag=tolees-21)
+[![Pack 5 x Bombilla LED esférica 6W  equiv](https://images-eu.ssl-images-amazon.com/images/I/41Jd7Zg8UmL._SL400_.jpg)](https://www.amazon.es/dp/B01K9VUP54/?tag=tolees-21)
 
 🔎:
 

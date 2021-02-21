@@ -2,7 +2,7 @@
 layout: post
 title: 'The Glenrothes 12 Años Single Malt Whisk al 27.24 % de rebaja'
 date: 2020-05-30 21:13:58
-image: 'https://m.media-amazon.com/images/I/41VpDgnKAfL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41VpDgnKAfL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '32.30799999999999'
 
 Tienes [The Glenrothes 12 Años Single Malt Whisky Escoces  40% - 700 ml](https://www.amazon.es/dp/B07H9WRDWM/?tag=tolees-21) con precio final de  29.91 EUR (original: 41.11 EUR) (27.24 %  de rebaja) aqui!
 
-[![The Glenrothes 12 Años Single Malt Whisk](https://m.media-amazon.com/images/I/41VpDgnKAfL._SL200_.jpg)](https://www.amazon.es/dp/B07H9WRDWM/?tag=tolees-21)
+[![The Glenrothes 12 Años Single Malt Whisk](https://m.media-amazon.com/images/I/41VpDgnKAfL._SL400_.jpg)](https://www.amazon.es/dp/B07H9WRDWM/?tag=tolees-21)
 
 🔎:
 

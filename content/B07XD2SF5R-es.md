@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 46.19 % en COOAU Palo Flotante para Selfie Palo Flo'
 date: 2020-07-23 20:09:54
-image: 'https://m.media-amazon.com/images/I/31NeRchh6VL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31NeRchh6VL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.99'
 
 Tienes [COOAU Palo Flotante para Selfie Palo Flotante de Agarre Palo Impermeable para Selfie](https://www.amazon.es/dp/B07XD2SF5R/?tag=tolees-21) con un 46.19 % de descuento con precio de oferta de 6.99 EUR (original: 12.99 EUR) en el siguiente enlace!
 
-[![COOAU Palo Flotante para Selfie Palo Flo](https://m.media-amazon.com/images/I/31NeRchh6VL._SL200_.jpg)](https://www.amazon.es/dp/B07XD2SF5R/?tag=tolees-21)
+[![COOAU Palo Flotante para Selfie Palo Flo](https://m.media-amazon.com/images/I/31NeRchh6VL._SL400_.jpg)](https://www.amazon.es/dp/B07XD2SF5R/?tag=tolees-21)
 
 ℹ️:
 

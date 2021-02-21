@@ -2,7 +2,7 @@
 layout: post
 title: 'MyGel by Mylee - Esmalte de uñas en gel  al 28.01 % de rebaja'
 date: 2020-03-05 17:56:52
-image: 'https://m.media-amazon.com/images/I/5156I-PIqgL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/5156I-PIqgL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.99'
 
 Tienes [MyGel by Mylee - Esmalte de uñas en gel de 4 x 10 ml  colores + capa superior y base  UV/LED  manicura y pedicura para uso profesional  salón y hogar  de larga duración y fácil de aplicar](https://www.amazon.es/dp/B07N6FN6N4/?tag=tolees-21) con precio final de  17.99 EUR (original: 24.99 EUR) (28.01 %  de rebaja) aqui!
 
-[![MyGel by Mylee - Esmalte de uñas en gel ](https://m.media-amazon.com/images/I/5156I-PIqgL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07N6FN6N4/?tag=tolees-21)
+[![MyGel by Mylee - Esmalte de uñas en gel ](https://m.media-amazon.com/images/I/5156I-PIqgL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07N6FN6N4/?tag=tolees-21)
 
 🔎:
 

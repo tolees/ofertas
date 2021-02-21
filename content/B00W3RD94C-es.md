@@ -2,7 +2,7 @@
 layout: post
 title: 'Joma - Calentador Lycra Record Marino pa al 50.13 % de rebaja'
 date: 2020-07-19 09:58:36
-image: 'https://m.media-amazon.com/images/I/315ow53-zuL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/315ow53-zuL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.375'
 
 Tienes [Joma - Calentador Lycra Record Marino para Hombre](https://www.amazon.es/dp/B00W3RD94C/?tag=tolees-21) con precio final de  9.95 EUR (original: 19.95 EUR) (50.13 %  de rebaja) aqui!
 
-[![Joma - Calentador Lycra Record Marino pa](https://m.media-amazon.com/images/I/315ow53-zuL._SL200_.jpg)](https://www.amazon.es/dp/B00W3RD94C/?tag=tolees-21)
+[![Joma - Calentador Lycra Record Marino pa](https://m.media-amazon.com/images/I/315ow53-zuL._SL400_.jpg)](https://www.amazon.es/dp/B00W3RD94C/?tag=tolees-21)
 
 🔎:
 

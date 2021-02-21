@@ -2,7 +2,7 @@
 layout: post
 title: 'LIPIKAR BAUME AP+ ROCHE POSAY 200 ML al 32.54 % de descuento'
 date: 2020-08-21 13:31:08
-image: 'https://m.media-amazon.com/images/I/41c1eUBzWcL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41c1eUBzWcL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.84'
 
 Está [LIPIKAR BAUME AP+ ROCHE POSAY 200 ML](https://www.amazon.es/dp/B00NNUMI86/?tag=tolees-21) con 32.54 de descuento por 11.84 EUR (original: 17.55 EUR) en el siguiente enlace!
 
-[![LIPIKAR BAUME AP+ ROCHE POSAY 200 ML](https://m.media-amazon.com/images/I/41c1eUBzWcL._SL200_.jpg)](https://www.amazon.es/dp/B00NNUMI86/?tag=tolees-21)
+[![LIPIKAR BAUME AP+ ROCHE POSAY 200 ML](https://m.media-amazon.com/images/I/41c1eUBzWcL._SL400_.jpg)](https://www.amazon.es/dp/B00NNUMI86/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Head & Shoulders Men Ultra Limpieza Prof al 74.03 % de descuento'
 date: 2020-06-15 15:47:34
-image: 'https://m.media-amazon.com/images/I/41Fv2bCbBUL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Fv2bCbBUL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.0'
 
 Está [Head & Shoulders Men Ultra Limpieza Profunda Champú Anticaspa - 300 ml](https://www.amazon.es/dp/B07GYLXZ1F/?tag=tolees-21) con 74.03 de descuento por 1.0 EUR (original: 3.85 EUR) en el siguiente enlace!
 
-[![Head & Shoulders Men Ultra Limpieza Prof](https://m.media-amazon.com/images/I/41Fv2bCbBUL._SL200_.jpg)](https://www.amazon.es/dp/B07GYLXZ1F/?tag=tolees-21)
+[![Head & Shoulders Men Ultra Limpieza Prof](https://m.media-amazon.com/images/I/41Fv2bCbBUL._SL400_.jpg)](https://www.amazon.es/dp/B07GYLXZ1F/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'FITTOO Mallas Leggings Mujer Pantalones  al 43.37 % de descuento'
 date: 2020-01-27 09:24:16
-image: 'https://m.media-amazon.com/images/I/31idVOkly8L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31idVOkly8L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.99'
 
 Está [FITTOO Mallas Leggings Mujer Pantalones Deportivos Yoga Alta Cintura Elásticos y Transpirables #2 Largo-Negro M](https://www.amazon.es/dp/B081RBGX1Y/?tag=tolees-21) con 43.37 de descuento por 16.99 EUR (original: 30.0 EUR) en el siguiente enlace!
 
-[![FITTOO Mallas Leggings Mujer Pantalones ](https://m.media-amazon.com/images/I/31idVOkly8L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B081RBGX1Y/?tag=tolees-21)
+[![FITTOO Mallas Leggings Mujer Pantalones ](https://m.media-amazon.com/images/I/31idVOkly8L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B081RBGX1Y/?tag=tolees-21)
 
 ℹ️:
 

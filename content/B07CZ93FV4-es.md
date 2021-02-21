@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour Armour Heatgear Legging Leg al 31.46 % de rebaja'
 date: 2020-02-20 07:57:16
-image: 'https://m.media-amazon.com/images/I/41va+xWIYcL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41va+xWIYcL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.99'
 
 Tienes [Under Armour Armour Heatgear Legging Leggings  Niños  Negro  Black/Pitch Gray 001   L](https://www.amazon.es/dp/B07CZ93FV4/?tag=tolees-21) con precio final de  23.99 EUR (original: 35.0 EUR) (31.46 %  de rebaja) aqui!
 
-[![Under Armour Armour Heatgear Legging Leg](https://m.media-amazon.com/images/I/41va+xWIYcL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07CZ93FV4/?tag=tolees-21)
+[![Under Armour Armour Heatgear Legging Leg](https://m.media-amazon.com/images/I/41va+xWIYcL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07CZ93FV4/?tag=tolees-21)
 
 🔎:
 

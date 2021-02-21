@@ -2,7 +2,7 @@
 layout: post
 title: 'Pop! Vinilo: Fairy Tail S3: Zeref al 28.52 % de descuento'
 date: 2020-09-23 20:41:19
-image: 'https://m.media-amazon.com/images/I/31J2VpiOj6L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31J2VpiOj6L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.416666666666666'
 
 Está [Pop! Vinilo: Fairy Tail S3: Zeref](https://www.amazon.es/dp/B07KPK1MPW/?tag=tolees-21) con 28.52 de descuento por 10.0 EUR (original: 13.99 EUR) en el siguiente enlace!
 
-[![Pop! Vinilo: Fairy Tail S3: Zeref](https://m.media-amazon.com/images/I/31J2VpiOj6L._SL200_.jpg)](https://www.amazon.es/dp/B07KPK1MPW/?tag=tolees-21)
+[![Pop! Vinilo: Fairy Tail S3: Zeref](https://m.media-amazon.com/images/I/31J2VpiOj6L._SL400_.jpg)](https://www.amazon.es/dp/B07KPK1MPW/?tag=tolees-21)
 
 ℹ️:
 

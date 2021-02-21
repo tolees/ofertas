@@ -2,7 +2,7 @@
 layout: post
 title: 'Gebildet 5 piezas 9mm Cúter de Cuchillas al 43.78 % de rebaja'
 date: 2020-03-02 09:52:59
-image: 'https://m.media-amazon.com/images/I/518ExT74zGL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/518ExT74zGL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.99'
 
 Tienes [Gebildet 5 piezas 9mm Cúter de Cuchillas Profesional ángulo de Corte de 60 grados  Snap-Off de Acero de Carbono Cuchillo  Automático de Vinilo Herramientas](https://www.amazon.es/dp/B079DMYWPQ/?tag=tolees-21) con precio final de  8.99 EUR (original: 15.99 EUR) (43.78 %  de rebaja) aqui!
 
-[![Gebildet 5 piezas 9mm Cúter de Cuchillas](https://m.media-amazon.com/images/I/518ExT74zGL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B079DMYWPQ/?tag=tolees-21)
+[![Gebildet 5 piezas 9mm Cúter de Cuchillas](https://m.media-amazon.com/images/I/518ExT74zGL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B079DMYWPQ/?tag=tolees-21)
 
 🔎:
 

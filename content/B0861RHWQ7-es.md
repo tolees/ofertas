@@ -2,7 +2,7 @@
 layout: post
 title: 'GEREE Cámara de seguridad interior 1080P al 36.12 % de descuento'
 date: 2020-07-22 10:14:45
-image: 'https://m.media-amazon.com/images/I/41RTZAD7L5L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41RTZAD7L5L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.44'
 
 Ahora mismo tienes [GEREE Cámara de seguridad interior 1080P Pan/Inclinación/Zoom Cámara Wifi Monitor Bebé con Almacenamiento en la nube  Detección de movimiento  audio bidireccional  visión nocturna IR](https://www.amazon.es/dp/B0861RHWQ7/?tag=tolees-21) a 24.44 EUR (original: 38.26 EUR) (36.12 %  de descuento) en el siguiente enlace!
 
-[![GEREE Cámara de seguridad interior 1080P](https://m.media-amazon.com/images/I/41RTZAD7L5L._SL200_.jpg)](https://www.amazon.es/dp/B0861RHWQ7/?tag=tolees-21)
+[![GEREE Cámara de seguridad interior 1080P](https://m.media-amazon.com/images/I/41RTZAD7L5L._SL400_.jpg)](https://www.amazon.es/dp/B0861RHWQ7/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Captain Morgan Private Stock - 1 x 1 l al 64.40 % de descuento'
 date: 2020-01-13 13:45:24
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51JJGuhfoCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51JJGuhfoCL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '43.806666666666665'
 
 Ahora mismo tienes [Captain Morgan Private Stock - 1 x 1 l](https://www.amazon.es/dp/B002NJ97PA/?tag=tolees-21) a 42.01 EUR (original: 117.99 EUR) (64.40 %  de descuento) en el siguiente enlace!
 
-[![Captain Morgan Private Stock - 1 x 1 l](https://images-eu.ssl-images-amazon.com/images/I/51JJGuhfoCL._SL200_.jpg)](https://www.amazon.es/dp/B002NJ97PA/?tag=tolees-21)
+[![Captain Morgan Private Stock - 1 x 1 l](https://images-eu.ssl-images-amazon.com/images/I/51JJGuhfoCL._SL400_.jpg)](https://www.amazon.es/dp/B002NJ97PA/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour Elevated Golf Visera  Mujer al 47.77 % de descuento'
 date: 2020-06-28 13:01:33
-image: 'https://m.media-amazon.com/images/I/31aVwcaoRgL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31aVwcaoRgL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.49'
 
 Está [Under Armour Elevated Golf Visera  Mujer  Blanco  OSFA](https://www.amazon.es/dp/B07YXND6YY/?tag=tolees-21) con 47.77 de descuento por 11.49 EUR (original: 22.0 EUR) en el siguiente enlace!
 
-[![Under Armour Elevated Golf Visera  Mujer](https://m.media-amazon.com/images/I/31aVwcaoRgL._SL200_.jpg)](https://www.amazon.es/dp/B07YXND6YY/?tag=tolees-21)
+[![Under Armour Elevated Golf Visera  Mujer](https://m.media-amazon.com/images/I/31aVwcaoRgL._SL400_.jpg)](https://www.amazon.es/dp/B07YXND6YY/?tag=tolees-21)
 
 ℹ️:
 

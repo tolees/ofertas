@@ -2,7 +2,7 @@
 layout: post
 title: 'Icicles Hand Blown Glass Massager  No. 6 al 26.87 % de descuento'
 date: 2020-06-20 13:01:36
-image: 'https://m.media-amazon.com/images/I/31bwKr+232L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31bwKr+232L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.17'
 
 Ahora mismo tienes [Icicles Hand Blown Glass Massager  No. 62-1 Unidad](https://www.amazon.es/dp/B00I9UDS2K/?tag=tolees-21) a 29.17 EUR (original: 39.89 EUR) (26.87 %  de descuento) en el siguiente enlace!
 
-[![Icicles Hand Blown Glass Massager  No. 6](https://m.media-amazon.com/images/I/31bwKr+232L._SL200_.jpg)](https://www.amazon.es/dp/B00I9UDS2K/?tag=tolees-21)
+[![Icicles Hand Blown Glass Massager  No. 6](https://m.media-amazon.com/images/I/31bwKr+232L._SL400_.jpg)](https://www.amazon.es/dp/B00I9UDS2K/?tag=tolees-21)
 
 🔎:
 

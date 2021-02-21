@@ -2,7 +2,7 @@
 layout: post
 title: 'Seiko Reloj Analógico para Hombre de Cua al 41.36 % de descuento'
 date: 2020-04-15 08:35:41
-image: 'https://m.media-amazon.com/images/I/41x6iycOSIL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41x6iycOSIL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '52.19'
 
 Ahora mismo tienes [Seiko Reloj Analógico para Hombre de Cuarzo con Correa en Cuero PXHA73X1](https://www.amazon.es/dp/B07NBQCJKM/?tag=tolees-21) a 52.19 EUR (original: 89.0 EUR) (41.36 %  de descuento) en el siguiente enlace!
 
-[![Seiko Reloj Analógico para Hombre de Cua](https://m.media-amazon.com/images/I/41x6iycOSIL._SL200_.jpg)](https://www.amazon.es/dp/B07NBQCJKM/?tag=tolees-21)
+[![Seiko Reloj Analógico para Hombre de Cua](https://m.media-amazon.com/images/I/41x6iycOSIL._SL400_.jpg)](https://www.amazon.es/dp/B07NBQCJKM/?tag=tolees-21)
 
 🔎:
 

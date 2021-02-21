@@ -2,7 +2,7 @@
 layout: post
 title: 'El Mal Querer al 46.19 % de descuento'
 date: 2020-02-17 15:42:58
-image: 'https://m.media-amazon.com/images/I/41j7f35Wb1L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41j7f35Wb1L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.99'
 
 Ahora mismo tienes [El Mal Querer](https://www.amazon.es/dp/B07KLPTNYP/?tag=tolees-21) a 6.99 EUR (original: 12.99 EUR) (46.19 %  de descuento) en el siguiente enlace!
 
-[![El Mal Querer](https://m.media-amazon.com/images/I/41j7f35Wb1L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07KLPTNYP/?tag=tolees-21)
+[![El Mal Querer](https://m.media-amazon.com/images/I/41j7f35Wb1L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07KLPTNYP/?tag=tolees-21)
 
 🔎:
 

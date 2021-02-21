@@ -2,7 +2,7 @@
 layout: post
 title: 'Trueno Sala Elite al 50.01 % de descuento'
 date: 2020-02-09 17:44:53
-image: 'https://m.media-amazon.com/images/I/2185kT-p9AL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/2185kT-p9AL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '32.96666666666667'
 
 Ahora mismo tienes [Trueno Sala Elite](https://www.amazon.es/dp/B07YYCDSVV/?tag=tolees-21) a 27.47 EUR (original: 54.95 EUR) (50.01 %  de descuento) en el siguiente enlace!
 
-[![Trueno Sala Elite](https://m.media-amazon.com/images/I/2185kT-p9AL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07YYCDSVV/?tag=tolees-21)
+[![Trueno Sala Elite](https://m.media-amazon.com/images/I/2185kT-p9AL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07YYCDSVV/?tag=tolees-21)
 
 🔎:
 

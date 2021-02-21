@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 71.07 % en Grborn Termómetro electrónico Termómetro'
 date: 2020-10-04 15:57:52
-image: 'https://m.media-amazon.com/images/I/31pO17nyFtL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31pO17nyFtL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.265555555555556'
 
 Tienes [Grborn Termómetro electrónico Termómetro de Mano de Mano Termómetro infrarrojo de Alta precisión Termómetro sin Contacto](https://www.amazon.es/dp/B087NMB1V5/?tag=tolees-21) con un 71.07 % de descuento con precio de oferta de 6.74 EUR (original: 23.3 EUR) en el siguiente enlace!
 
-[![Grborn Termómetro electrónico Termómetro](https://m.media-amazon.com/images/I/31pO17nyFtL._SL200_.jpg)](https://www.amazon.es/dp/B087NMB1V5/?tag=tolees-21)
+[![Grborn Termómetro electrónico Termómetro](https://m.media-amazon.com/images/I/31pO17nyFtL._SL400_.jpg)](https://www.amazon.es/dp/B087NMB1V5/?tag=tolees-21)
 
 ℹ️:
 

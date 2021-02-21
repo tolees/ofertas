@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour UA Charged Rogue 2  Zapatil al 30.48 % de descuento'
 date: 2020-06-24 09:30:13
-image: 'https://m.media-amazon.com/images/I/41VTTkTCKYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41VTTkTCKYL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '34.78'
 
 Está [Under Armour UA Charged Rogue 2  Zapatillas para Correr  Calzado cómodo para Hombre  Gris  Pitch Gray/Halo Gray/Halo Gray   41 EU](https://www.amazon.es/dp/B07PYYT6PH/?tag=tolees-21) con 30.48 de descuento por 34.78 EUR (original: 50.03 EUR) en el siguiente enlace!
 
-[![Under Armour UA Charged Rogue 2  Zapatil](https://m.media-amazon.com/images/I/41VTTkTCKYL._SL200_.jpg)](https://www.amazon.es/dp/B07PYYT6PH/?tag=tolees-21)
+[![Under Armour UA Charged Rogue 2  Zapatil](https://m.media-amazon.com/images/I/41VTTkTCKYL._SL400_.jpg)](https://www.amazon.es/dp/B07PYYT6PH/?tag=tolees-21)
 
 ℹ️:
 

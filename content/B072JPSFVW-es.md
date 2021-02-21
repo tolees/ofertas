@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas Campus  Zapatillas de Deporte par al 34.61 % de descuento'
 date: 2020-02-01 02:15:15
-image: 'https://m.media-amazon.com/images/I/41f0+dikG0L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41f0+dikG0L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '58.82'
 
 Ahora mismo tienes [adidas Campus  Zapatillas de Deporte para Hombre  Azul  Azuosc / Ftwbla / Blatiz   39 1/3 EU](https://www.amazon.es/dp/B072JPSFVW/?tag=tolees-21) a 58.82 EUR (original: 89.95 EUR) (34.61 %  de descuento) en el siguiente enlace!
 
-[![adidas Campus  Zapatillas de Deporte par](https://m.media-amazon.com/images/I/41f0+dikG0L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B072JPSFVW/?tag=tolees-21)
+[![adidas Campus  Zapatillas de Deporte par](https://m.media-amazon.com/images/I/41f0+dikG0L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B072JPSFVW/?tag=tolees-21)
 
 🔎:
 

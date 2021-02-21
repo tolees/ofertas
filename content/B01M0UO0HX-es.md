@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 28.25 % en Sigma F1.4 DG AF HSM Art - Objetivo para'
 date: 2020-04-01 13:13:06
-image: 'https://m.media-amazon.com/images/I/41ANRHk4SjL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ANRHk4SjL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '990.5'
 
 Tienes [Sigma F1.4 DG AF HSM Art - Objetivo para cámara para réflex  85 mm  Color Negro](https://www.amazon.es/dp/B01M0UO0HX/?tag=tolees-21) con un 28.25 % de descuento con precio de oferta de 932.0 EUR (original: 1299.0 EUR) en el siguiente enlace!
 
-[![Sigma F1.4 DG AF HSM Art - Objetivo para](https://m.media-amazon.com/images/I/41ANRHk4SjL._SL200_.jpg)](https://www.amazon.es/dp/B01M0UO0HX/?tag=tolees-21)
+[![Sigma F1.4 DG AF HSM Art - Objetivo para](https://m.media-amazon.com/images/I/41ANRHk4SjL._SL400_.jpg)](https://www.amazon.es/dp/B01M0UO0HX/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'BaByliss BAB663E PRO - Cepillo térmico Ø con un 39.71 % de descuento'
 date: 2020-03-08 11:58:20
-image: 'https://m.media-amazon.com/images/I/21Aa0y2Y69L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21Aa0y2Y69L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '36.335'
 
 En este momento está [BaByliss BAB663E PRO - Cepillo térmico Ø 18 mm](https://www.amazon.es/dp/B0014TLNJ8/?tag=tolees-21) a 35.15 EUR (original: 58.3 EUR) (39.71 %  de descuento) en el siguiente enlace!
 
-[![BaByliss BAB663E PRO - Cepillo térmico Ø](https://m.media-amazon.com/images/I/21Aa0y2Y69L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B0014TLNJ8/?tag=tolees-21)
+[![BaByliss BAB663E PRO - Cepillo térmico Ø](https://m.media-amazon.com/images/I/21Aa0y2Y69L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B0014TLNJ8/?tag=tolees-21)
 
 🔎:
 

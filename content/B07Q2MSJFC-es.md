@@ -2,7 +2,7 @@
 layout: post
 title: 'Pop! Figura De Vinil: Harry Potter: Harr al 40.13 % de descuento'
 date: 2020-09-29 09:07:30
-image: 'https://m.media-amazon.com/images/I/31DWQkjigdL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31DWQkjigdL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.996666666666666'
 
 Ahora mismo tienes [Pop! Figura De Vinil: Harry Potter: Harry Potter - George Weasley  Yule ](https://www.amazon.es/dp/B07Q2MSJFC/?tag=tolees-21) a 8.95 EUR (original: 14.95 EUR) (40.13 %  de descuento) en el siguiente enlace!
 
-[![Pop! Figura De Vinil: Harry Potter: Harr](https://m.media-amazon.com/images/I/31DWQkjigdL._SL200_.jpg)](https://www.amazon.es/dp/B07Q2MSJFC/?tag=tolees-21)
+[![Pop! Figura De Vinil: Harry Potter: Harr](https://m.media-amazon.com/images/I/31DWQkjigdL._SL400_.jpg)](https://www.amazon.es/dp/B07Q2MSJFC/?tag=tolees-21)
 
 🔎:
 

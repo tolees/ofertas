@@ -2,7 +2,7 @@
 layout: post
 title: 'Omino Bianco Detergente Liquido Cuero de al 54.02 % de descuento'
 date: 2020-04-30 08:52:14
-image: 'https://m.media-amazon.com/images/I/41et0vywZNL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41et0vywZNL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.49'
 
 Ahora mismo tienes [Omino Bianco Detergente Liquido Cuero de Marsella](https://www.amazon.es/dp/B01LY0ERQ7/?tag=tolees-21) a 3.49 EUR (original: 7.59 EUR) (54.02 %  de descuento) en el siguiente enlace!
 
-[![Omino Bianco Detergente Liquido Cuero de](https://m.media-amazon.com/images/I/41et0vywZNL._SL200_.jpg)](https://www.amazon.es/dp/B01LY0ERQ7/?tag=tolees-21)
+[![Omino Bianco Detergente Liquido Cuero de](https://m.media-amazon.com/images/I/41et0vywZNL._SL400_.jpg)](https://www.amazon.es/dp/B01LY0ERQ7/?tag=tolees-21)
 
 🔎:
 

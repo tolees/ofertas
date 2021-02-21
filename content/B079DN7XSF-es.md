@@ -2,7 +2,7 @@
 layout: post
 title: 'Ever-Pretty A-línea Vestito de Gala Gasa al 25.00 % de descuento'
 date: 2020-06-02 09:28:31
-image: 'https://m.media-amazon.com/images/I/31dXjQobYaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31dXjQobYaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '59.99'
 
 Ahora mismo tienes [Ever-Pretty A-línea Vestito de Gala Gasa Cuello en V sin Mangas Largo para Mujer Sonrojo 42](https://www.amazon.es/dp/B079DN7XSF/?tag=tolees-21) a 59.99 EUR (original: 79.99 EUR) (25.00 %  de descuento) en el siguiente enlace!
 
-[![Ever-Pretty A-línea Vestito de Gala Gasa](https://m.media-amazon.com/images/I/31dXjQobYaL._SL200_.jpg)](https://www.amazon.es/dp/B079DN7XSF/?tag=tolees-21)
+[![Ever-Pretty A-línea Vestito de Gala Gasa](https://m.media-amazon.com/images/I/31dXjQobYaL._SL400_.jpg)](https://www.amazon.es/dp/B079DN7XSF/?tag=tolees-21)
 
 🔎:
 

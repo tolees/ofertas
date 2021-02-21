@@ -2,7 +2,7 @@
 layout: post
 title: 'HOMYBABY Muselinas Bebe Algodon 120x120  al 25.02 % de rebaja'
 date: 2020-08-26 15:00:43
-image: 'https://m.media-amazon.com/images/I/41XgxRY8xoL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41XgxRY8xoL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.347142857142854'
 
 Tienes [HOMYBABY Muselinas Bebe Algodon 120x120 [1pc] | Muselina Bebe de Algodón Orgánico | Manta Bebe Recien Nacido | Sirve como Toallita o Mantita para Bebe en Carrito  Cuna  Cambiador | Arrullo para Bebes](https://www.amazon.es/dp/B083NZ9PRD/?tag=tolees-21) con precio final de  11.99 EUR (original: 15.99 EUR) (25.02 %  de rebaja) aqui!
 
-[![HOMYBABY Muselinas Bebe Algodon 120x120 ](https://m.media-amazon.com/images/I/41XgxRY8xoL._SL200_.jpg)](https://www.amazon.es/dp/B083NZ9PRD/?tag=tolees-21)
+[![HOMYBABY Muselinas Bebe Algodon 120x120 ](https://m.media-amazon.com/images/I/41XgxRY8xoL._SL400_.jpg)](https://www.amazon.es/dp/B083NZ9PRD/?tag=tolees-21)
 
 🔎:
 

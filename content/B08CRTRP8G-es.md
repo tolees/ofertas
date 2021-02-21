@@ -2,7 +2,7 @@
 layout: post
 title: 'Ocobudbxw 10 Piezas SMA-JB3 Conector RF  con un 50.00 % de descuento'
 date: 2020-10-01 12:31:52
-image: 'https://m.media-amazon.com/images/I/41J6MiahCjL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41J6MiahCjL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.85'
 
 En este momento está [Ocobudbxw 10 Piezas SMA-JB3 Conector RF RP-SMA Macho Jack Centro de Soldadura Semi-rígido para RG402](https://www.amazon.es/dp/B08CRTRP8G/?tag=tolees-21) a 7.85 EUR (original: 15.7 EUR) (50.00 %  de descuento) en el siguiente enlace!
 
-[![Ocobudbxw 10 Piezas SMA-JB3 Conector RF ](https://m.media-amazon.com/images/I/41J6MiahCjL._SL200_.jpg)](https://www.amazon.es/dp/B08CRTRP8G/?tag=tolees-21)
+[![Ocobudbxw 10 Piezas SMA-JB3 Conector RF ](https://m.media-amazon.com/images/I/41J6MiahCjL._SL400_.jpg)](https://www.amazon.es/dp/B08CRTRP8G/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Cable USB-C Tipo C Muelle en Espiral Esp con un 90.00 % de descuento'
 date: 2020-03-16 09:57:44
-image: 'https://m.media-amazon.com/images/I/31zQ8nVtJxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31zQ8nVtJxL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '0.01'
 
 En este momento está [Cable USB-C Tipo C Muelle en Espiral Espiral Tipo-C Cable de extensión Macho Cargador de sincronización de Datos Cable de Carga de Alambre - Negro](https://www.amazon.es/dp/B07YB5XR83/?tag=tolees-21) a 0.01 EUR (original: 0.1 EUR) (90.00 %  de descuento) en el siguiente enlace!
 
-[![Cable USB-C Tipo C Muelle en Espiral Esp](https://m.media-amazon.com/images/I/31zQ8nVtJxL._SL200_.jpg)](https://www.amazon.es/dp/B07YB5XR83/?tag=tolees-21)
+[![Cable USB-C Tipo C Muelle en Espiral Esp](https://m.media-amazon.com/images/I/31zQ8nVtJxL._SL400_.jpg)](https://www.amazon.es/dp/B07YB5XR83/?tag=tolees-21)
 
 🔎:
 

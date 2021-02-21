@@ -2,7 +2,7 @@
 layout: post
 title: 'Cable de programación USB portátil y Lig al 32.01 % de descuento'
 date: 2020-08-18 19:31:16
-image: 'https://m.media-amazon.com/images/I/31VTUeXUjTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31VTUeXUjTL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.38'
 
 Ahora mismo tienes [Cable de programación USB portátil y Ligero para Hytera PD780/PD785/PD788  Color Negro](https://www.amazon.es/dp/B07TVYPBKC/?tag=tolees-21) a 15.38 EUR (original: 22.62 EUR) (32.01 %  de descuento) en el siguiente enlace!
 
-[![Cable de programación USB portátil y Lig](https://m.media-amazon.com/images/I/31VTUeXUjTL._SL200_.jpg)](https://www.amazon.es/dp/B07TVYPBKC/?tag=tolees-21)
+[![Cable de programación USB portátil y Lig](https://m.media-amazon.com/images/I/31VTUeXUjTL._SL400_.jpg)](https://www.amazon.es/dp/B07TVYPBKC/?tag=tolees-21)
 
 🔎:
 

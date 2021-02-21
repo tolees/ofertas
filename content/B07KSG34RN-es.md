@@ -2,7 +2,7 @@
 layout: post
 title: 'WERKFIX Juego de 15 Llaves Fijas Combina al 33.45 % de rebaja'
 date: 2020-02-12 15:50:47
-image: 'https://m.media-amazon.com/images/I/51Nzjjnfp-L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Nzjjnfp-L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.29'
 
 Tienes [WERKFIX Juego de 15 Llaves Fijas Combinadas 6-21 mm](https://www.amazon.es/dp/B07KSG34RN/?tag=tolees-21) con precio final de  17.29 EUR (original: 25.98 EUR) (33.45 %  de rebaja) aqui!
 
-[![WERKFIX Juego de 15 Llaves Fijas Combina](https://m.media-amazon.com/images/I/51Nzjjnfp-L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07KSG34RN/?tag=tolees-21)
+[![WERKFIX Juego de 15 Llaves Fijas Combina](https://m.media-amazon.com/images/I/51Nzjjnfp-L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07KSG34RN/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Pepe Jeans MC Queen Short para Hombre  N al 42.18 % de rebaja'
 date: 2020-04-26 08:58:54
-image: 'https://m.media-amazon.com/images/I/41+C4nPj1LL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41+C4nPj1LL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '28.85'
 
 Tienes [Pepe Jeans MC Queen Short para Hombre  Naranja  Spice 193  W32  Talla del fabricante: 32 ](https://www.amazon.es/dp/B07NDMTWK4/?tag=tolees-21) con precio final de  28.85 EUR (original: 49.9 EUR) (42.18 %  de rebaja) aqui!
 
-[![Pepe Jeans MC Queen Short para Hombre  N](https://m.media-amazon.com/images/I/41+C4nPj1LL._SL200_.jpg)](https://www.amazon.es/dp/B07NDMTWK4/?tag=tolees-21)
+[![Pepe Jeans MC Queen Short para Hombre  N](https://m.media-amazon.com/images/I/41+C4nPj1LL._SL400_.jpg)](https://www.amazon.es/dp/B07NDMTWK4/?tag=tolees-21)
 
 🔎:
 

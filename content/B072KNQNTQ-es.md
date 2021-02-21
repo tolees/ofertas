@@ -2,7 +2,7 @@
 layout: post
 title: 'Speed Magic Cube MF8 2 x 3 x 4 Cube Prof al 35.25 % de descuento'
 date: 2020-08-20 15:02:51
-image: 'https://m.media-amazon.com/images/I/51YIL-l6nUL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51YIL-l6nUL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.7'
 
 Ahora mismo tienes [Speed Magic Cube MF8 2 x 3 x 4 Cube Professional Magic Cube | dingze](https://www.amazon.es/dp/B072KNQNTQ/?tag=tolees-21) a 16.7 EUR (original: 25.79 EUR) (35.25 %  de descuento) en el siguiente enlace!
 
-[![Speed Magic Cube MF8 2 x 3 x 4 Cube Prof](https://m.media-amazon.com/images/I/51YIL-l6nUL._SL200_.jpg)](https://www.amazon.es/dp/B072KNQNTQ/?tag=tolees-21)
+[![Speed Magic Cube MF8 2 x 3 x 4 Cube Prof](https://m.media-amazon.com/images/I/51YIL-l6nUL._SL400_.jpg)](https://www.amazon.es/dp/B072KNQNTQ/?tag=tolees-21)
 
 🔎:
 

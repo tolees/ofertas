@@ -2,7 +2,7 @@
 layout: post
 title: 'find. MDR 40625 vestidos mujer  Verde  G al 62.50 % de descuento'
 date: 2020-01-17 07:01:28
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51bRRxe9GIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51bRRxe9GIL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.0'
 
 Ahora mismo tienes [find. MDR 40625 vestidos mujer  Verde  Green   44  Talla del fabricante: X-Large ](https://www.amazon.es/dp/B077HWQMSY/?tag=tolees-21) a 12 EUR (original: 32 EUR) (62.50 %  de descuento) en el siguiente enlace!
 
-[![find. MDR 40625 vestidos mujer  Verde  G](https://images-eu.ssl-images-amazon.com/images/I/51bRRxe9GIL._SL200_.jpg)](https://www.amazon.es/dp/B077HWQMSY/?tag=tolees-21)
+[![find. MDR 40625 vestidos mujer  Verde  G](https://images-eu.ssl-images-amazon.com/images/I/51bRRxe9GIL._SL400_.jpg)](https://www.amazon.es/dp/B077HWQMSY/?tag=tolees-21)
 
 🔎:
 

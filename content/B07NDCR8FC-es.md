@@ -2,7 +2,7 @@
 layout: post
 title: 'Desigual 19WAYA01 - Cartera para mujer d con un 50.08 % de descuento'
 date: 2020-02-21 19:14:44
-image: 'https://m.media-amazon.com/images/I/41ufQzCATgL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ufQzCATgL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.95'
 
 En este momento está [Desigual 19WAYA01 - Cartera para mujer de Sintético Mujer Rojo Rojo  GRANATE OSCURO 3099  1x15.5x22.5 cm  B x H x T ](https://www.amazon.es/dp/B07NDCR8FC/?tag=tolees-21) a 14.95 EUR (original: 29.95 EUR) (50.08 %  de descuento) en el siguiente enlace!
 
-[![Desigual 19WAYA01 - Cartera para mujer d](https://m.media-amazon.com/images/I/41ufQzCATgL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07NDCR8FC/?tag=tolees-21)
+[![Desigual 19WAYA01 - Cartera para mujer d](https://m.media-amazon.com/images/I/41ufQzCATgL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07NDCR8FC/?tag=tolees-21)
 
 🔎:
 

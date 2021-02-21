@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 60.89 % en Parlux 3200 Compact - Secador de pelo pl'
 date: 2020-09-27 10:09:15
-image: 'https://m.media-amazon.com/images/I/41gRwYWJA-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41gRwYWJA-L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '71.62833333333333'
 
 Tienes [Parlux 3200 Compact - Secador de pelo plus  color negro](https://www.amazon.es/dp/B000GRYX0A/?tag=tolees-21) con un 60.89 % de descuento con precio de oferta de 73.0 EUR (original: 186.66 EUR) en el siguiente enlace!
 
-[![Parlux 3200 Compact - Secador de pelo pl](https://m.media-amazon.com/images/I/41gRwYWJA-L._SL200_.jpg)](https://www.amazon.es/dp/B000GRYX0A/?tag=tolees-21)
+[![Parlux 3200 Compact - Secador de pelo pl](https://m.media-amazon.com/images/I/41gRwYWJA-L._SL400_.jpg)](https://www.amazon.es/dp/B000GRYX0A/?tag=tolees-21)
 
 ℹ️:
 

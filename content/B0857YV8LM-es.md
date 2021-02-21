@@ -2,7 +2,7 @@
 layout: post
 title: 'The Sojourn con un 31.69 % de descuento'
 date: 2020-09-26 09:01:14
-image: 'https://m.media-amazon.com/images/I/51GivTutE7L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51GivTutE7L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.9'
 
 En este momento está [The Sojourn](https://www.amazon.es/dp/B0857YV8LM/?tag=tolees-21) a 23.9 EUR (original: 34.99 EUR) (31.69 %  de descuento) en el siguiente enlace!
 
-[![The Sojourn](https://m.media-amazon.com/images/I/51GivTutE7L._SL200_.jpg)](https://www.amazon.es/dp/B0857YV8LM/?tag=tolees-21)
+[![The Sojourn](https://m.media-amazon.com/images/I/51GivTutE7L._SL400_.jpg)](https://www.amazon.es/dp/B0857YV8LM/?tag=tolees-21)
 
 🔎:
 

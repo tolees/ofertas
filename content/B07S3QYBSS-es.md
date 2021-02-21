@@ -2,7 +2,7 @@
 layout: post
 title: 'koulate Luz De Gabinete Led  2 Piezas De con un 42.81 % de descuento'
 date: 2020-01-02 17:37:25
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31M0Sy41baL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31M0Sy41baL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.39'
 
 En este momento está [koulate Luz De Gabinete Led  2 Piezas De Gabinete Multifuncional Empotrado En El Armario De La Escalera Empotrada En La Pared con Imanes para Pared  Armario  HabitacióN](https://www.amazon.es/dp/B07S3QYBSS/?tag=tolees-21) a 8.39 EUR (original: 14.67 EUR) (42.81 %  de descuento) en el siguiente enlace!
 
-[![koulate Luz De Gabinete Led  2 Piezas De](https://images-eu.ssl-images-amazon.com/images/I/31M0Sy41baL._SL200_.jpg)](https://www.amazon.es/dp/B07S3QYBSS/?tag=tolees-21)
+[![koulate Luz De Gabinete Led  2 Piezas De](https://images-eu.ssl-images-amazon.com/images/I/31M0Sy41baL._SL400_.jpg)](https://www.amazon.es/dp/B07S3QYBSS/?tag=tolees-21)
 
 🔎:
 

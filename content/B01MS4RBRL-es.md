@@ -2,7 +2,7 @@
 layout: post
 title: 'Supportiback® Cojín ortopédico para ciát al 29.31 % de rebaja'
 date: 2020-06-15 00:18:04
-image: 'https://m.media-amazon.com/images/I/41iNwPi3qeL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41iNwPi3qeL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.41909090909091'
 
 Tienes [Supportiback® Cojín ortopédico para ciática  espalda  caderas  articulaciones  alivio de dolores de embarazo y dormir de lado — Diseño ergonómico médico contorneado con espuma de memoria](https://www.amazon.es/dp/B01MS4RBRL/?tag=tolees-21) con precio final de  15.89 EUR (original: 22.48 EUR) (29.31 %  de rebaja) aqui!
 
-[![Supportiback® Cojín ortopédico para ciát](https://m.media-amazon.com/images/I/41iNwPi3qeL._SL200_.jpg)](https://www.amazon.es/dp/B01MS4RBRL/?tag=tolees-21)
+[![Supportiback® Cojín ortopédico para ciát](https://m.media-amazon.com/images/I/41iNwPi3qeL._SL400_.jpg)](https://www.amazon.es/dp/B01MS4RBRL/?tag=tolees-21)
 
 🔎:
 

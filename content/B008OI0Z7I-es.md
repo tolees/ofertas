@@ -2,7 +2,7 @@
 layout: post
 title: 'Atosa-10420 Disfraz Policía  color negro al 30.81 % de descuento'
 date: 2020-02-17 16:29:09
-image: 'https://m.media-amazon.com/images/I/41L7FQ-WtCL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41L7FQ-WtCL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.46'
 
 Ahora mismo tienes [Atosa-10420 Disfraz Policía  color negro  M-L  10420 ](https://www.amazon.es/dp/B008OI0Z7I/?tag=tolees-21) a 14.46 EUR (original: 20.9 EUR) (30.81 %  de descuento) en el siguiente enlace!
 
-[![Atosa-10420 Disfraz Policía  color negro](https://m.media-amazon.com/images/I/41L7FQ-WtCL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B008OI0Z7I/?tag=tolees-21)
+[![Atosa-10420 Disfraz Policía  color negro](https://m.media-amazon.com/images/I/41L7FQ-WtCL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B008OI0Z7I/?tag=tolees-21)
 
 🔎:
 

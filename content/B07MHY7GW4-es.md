@@ -2,7 +2,7 @@
 layout: post
 title: 'Funko-Pocket Keychain: Toy Story: Alien  al 29.74 % de rebaja'
 date: 2020-02-14 23:30:58
-image: 'https://m.media-amazon.com/images/I/51xbeypDHGL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51xbeypDHGL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.52'
 
 Tienes [Funko-Pocket Keychain: Toy Story: Alien Pop Llavero  for Unisex in Standard Made of Vinilo  Multicolor  37055 ](https://www.amazon.es/dp/B07MHY7GW4/?tag=tolees-21) con precio final de  4.3 EUR (original: 6.12 EUR) (29.74 %  de rebaja) aqui!
 
-[![Funko-Pocket Keychain: Toy Story: Alien ](https://m.media-amazon.com/images/I/51xbeypDHGL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07MHY7GW4/?tag=tolees-21)
+[![Funko-Pocket Keychain: Toy Story: Alien ](https://m.media-amazon.com/images/I/51xbeypDHGL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07MHY7GW4/?tag=tolees-21)
 
 🔎:
 

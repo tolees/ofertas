@@ -2,7 +2,7 @@
 layout: post
 title: 'Ballon de hand Kid Hummel Soft al 43.02 % de descuento'
 date: 2020-01-10 09:56:37
-image: 'https://images-eu.ssl-images-amazon.com/images/I/417q0CtOZXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417q0CtOZXL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.39'
 
 Está [Ballon de hand Kid Hummel Soft](https://www.amazon.es/dp/B01JJAT3I6/?tag=tolees-21) con 43.02 de descuento por 11.39 EUR (original: 19.99 EUR) en el siguiente enlace!
 
-[![Ballon de hand Kid Hummel Soft](https://images-eu.ssl-images-amazon.com/images/I/417q0CtOZXL._SL200_.jpg)](https://www.amazon.es/dp/B01JJAT3I6/?tag=tolees-21)
+[![Ballon de hand Kid Hummel Soft](https://images-eu.ssl-images-amazon.com/images/I/417q0CtOZXL._SL400_.jpg)](https://www.amazon.es/dp/B01JJAT3I6/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'PUMA Hybrid Fuego  Zapatillas de Running al 62.56 % de descuento'
 date: 2020-02-04 13:48:06
-image: 'https://m.media-amazon.com/images/I/311DinaNHWL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/311DinaNHWL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.93'
 
 Está [PUMA Hybrid Fuego  Zapatillas de Running para Hombre  Black Black  40.5 EU](https://www.amazon.es/dp/B07KG16JK1/?tag=tolees-21) con 62.56 de descuento por 29.93 EUR (original: 79.95 EUR) en el siguiente enlace!
 
-[![PUMA Hybrid Fuego  Zapatillas de Running](https://m.media-amazon.com/images/I/311DinaNHWL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07KG16JK1/?tag=tolees-21)
+[![PUMA Hybrid Fuego  Zapatillas de Running](https://m.media-amazon.com/images/I/311DinaNHWL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07KG16JK1/?tag=tolees-21)
 
 ℹ️:
 

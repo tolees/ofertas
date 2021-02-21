@@ -2,7 +2,7 @@
 layout: post
 title: 'New Balance ML373  Zapatillas para Hombr al 39.39 % de rebaja'
 date: 2020-04-20 16:32:18
-image: 'https://m.media-amazon.com/images/I/41NK4iPucNL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41NK4iPucNL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '46.695'
 
 Tienes [New Balance ML373  Zapatillas para Hombre  Azul  Navy   42 EU](https://www.amazon.es/dp/B01MEE4FOH/?tag=tolees-21) con precio final de  48.49 EUR (original: 80.0 EUR) (39.39 %  de rebaja) aqui!
 
-[![New Balance ML373  Zapatillas para Hombr](https://m.media-amazon.com/images/I/41NK4iPucNL._SL200_.jpg)](https://www.amazon.es/dp/B01MEE4FOH/?tag=tolees-21)
+[![New Balance ML373  Zapatillas para Hombr](https://m.media-amazon.com/images/I/41NK4iPucNL._SL400_.jpg)](https://www.amazon.es/dp/B01MEE4FOH/?tag=tolees-21)
 
 🔎:
 

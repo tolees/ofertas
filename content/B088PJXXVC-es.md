@@ -2,7 +2,7 @@
 layout: post
 title: 'Doraemon Story Of Seasons con un 52.11 % de descuento'
 date: 2020-10-11 08:10:50
-image: 'https://m.media-amazon.com/images/I/51Yd+BRnOxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Yd+BRnOxL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '42.53'
 
 En este momento está [Doraemon Story Of Seasons](https://www.amazon.es/dp/B088PJXXVC/?tag=tolees-21) a 24.9 EUR (original: 51.99 EUR) (52.11 %  de descuento) en el siguiente enlace!
 
-[![Doraemon Story Of Seasons](https://m.media-amazon.com/images/I/51Yd+BRnOxL._SL200_.jpg)](https://www.amazon.es/dp/B088PJXXVC/?tag=tolees-21)
+[![Doraemon Story Of Seasons](https://m.media-amazon.com/images/I/51Yd+BRnOxL._SL400_.jpg)](https://www.amazon.es/dp/B088PJXXVC/?tag=tolees-21)
 
 🔎:
 

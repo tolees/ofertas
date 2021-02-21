@@ -2,7 +2,7 @@
 layout: post
 title: 'Cressi Rantau Bag Bolsa para Piscina/Dep al 64.21 % de descuento'
 date: 2020-05-27 17:58:48
-image: 'https://m.media-amazon.com/images/I/51HtAbW6DlL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51HtAbW6DlL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '28.59'
 
 Ahora mismo tienes [Cressi Rantau Bag Bolsa para Piscina/Deporte  Adultos Unisex  Azul  55 x 30 x 30](https://www.amazon.es/dp/B07QPHTFVP/?tag=tolees-21) a 17.89 EUR (original: 49.99 EUR) (64.21 %  de descuento) en el siguiente enlace!
 
-[![Cressi Rantau Bag Bolsa para Piscina/Dep](https://m.media-amazon.com/images/I/51HtAbW6DlL._SL200_.jpg)](https://www.amazon.es/dp/B07QPHTFVP/?tag=tolees-21)
+[![Cressi Rantau Bag Bolsa para Piscina/Dep](https://m.media-amazon.com/images/I/51HtAbW6DlL._SL400_.jpg)](https://www.amazon.es/dp/B07QPHTFVP/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Beoplay E4 de Bang & Olufsen - Auricular al 44.22 % de rebaja'
 date: 2020-09-25 08:25:40
-image: 'https://m.media-amazon.com/images/I/31Yw0s189XL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Yw0s189XL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '139.45'
 
 Tienes [Beoplay E4 de Bang & Olufsen - Auriculares con cancelación de ruido activa avanzada](https://www.amazon.es/dp/B0719RCW4P/?tag=tolees-21) con precio final de  139.45 EUR (original: 250.0 EUR) (44.22 %  de rebaja) aqui!
 
-[![Beoplay E4 de Bang & Olufsen - Auricular](https://m.media-amazon.com/images/I/31Yw0s189XL._SL200_.jpg)](https://www.amazon.es/dp/B0719RCW4P/?tag=tolees-21)
+[![Beoplay E4 de Bang & Olufsen - Auricular](https://m.media-amazon.com/images/I/31Yw0s189XL._SL400_.jpg)](https://www.amazon.es/dp/B0719RCW4P/?tag=tolees-21)
 
 🔎:
 

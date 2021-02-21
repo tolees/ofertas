@@ -2,7 +2,7 @@
 layout: post
 title: '1L Botella de Agua con Filtro Infusor de al 48.06 % de rebaja'
 date: 2020-01-12 21:56:10
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51Ui9V2DmzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Ui9V2DmzL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.5'
 
 Tienes [1L Botella de Agua con Filtro Infusor de Fruta  Swonuk Botella Agua Deportiva Portátil BPA-Libre Botella de Agua  Diseño a Prueba de Fugas  para Niños  Adultos  Gimnasio  Escuela  Deporte](https://www.amazon.es/dp/B07THYCD49/?tag=tolees-21) con precio final de  13.5 EUR (original: 25.99 EUR) (48.06 %  de rebaja) aqui!
 
-[![1L Botella de Agua con Filtro Infusor de](https://images-eu.ssl-images-amazon.com/images/I/51Ui9V2DmzL._SL200_.jpg)](https://www.amazon.es/dp/B07THYCD49/?tag=tolees-21)
+[![1L Botella de Agua con Filtro Infusor de](https://images-eu.ssl-images-amazon.com/images/I/51Ui9V2DmzL._SL400_.jpg)](https://www.amazon.es/dp/B07THYCD49/?tag=tolees-21)
 
 🔎:
 

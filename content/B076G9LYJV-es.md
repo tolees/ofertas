@@ -2,7 +2,7 @@
 layout: post
 title: 'Pepe Jeans Sloane PM210564 Pantalones  M al 40.02 % de rebaja'
 date: 2020-04-12 15:30:21
-image: 'https://m.media-amazon.com/images/I/31u2nXhZnGL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31u2nXhZnGL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '38.99'
 
 Tienes [Pepe Jeans Sloane PM210564 Pantalones  Marrón  Stone 836   33W / 32L para Hombre](https://www.amazon.es/dp/B076G9LYJV/?tag=tolees-21) con precio final de  38.99 EUR (original: 65.0 EUR) (40.02 %  de rebaja) aqui!
 
-[![Pepe Jeans Sloane PM210564 Pantalones  M](https://m.media-amazon.com/images/I/31u2nXhZnGL._SL200_.jpg)](https://www.amazon.es/dp/B076G9LYJV/?tag=tolees-21)
+[![Pepe Jeans Sloane PM210564 Pantalones  M](https://m.media-amazon.com/images/I/31u2nXhZnGL._SL400_.jpg)](https://www.amazon.es/dp/B076G9LYJV/?tag=tolees-21)
 
 🔎:
 

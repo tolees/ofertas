@@ -2,7 +2,7 @@
 layout: post
 title: 'Camper Damen Katie Mary Jane Halbschuhe  al 42.74 % de rebaja'
 date: 2020-04-21 01:03:22
-image: 'https://m.media-amazon.com/images/I/31oTI8UpB6L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31oTI8UpB6L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '65.85'
 
 Tienes [Camper Damen Katie Mary Jane Halbschuhe  Schwarz  Black 1   40 EU](https://www.amazon.es/dp/B079KCBM9N/?tag=tolees-21) con precio final de  65.85 EUR (original: 115.0 EUR) (42.74 %  de rebaja) aqui!
 
-[![Camper Damen Katie Mary Jane Halbschuhe ](https://m.media-amazon.com/images/I/31oTI8UpB6L._SL200_.jpg)](https://www.amazon.es/dp/B079KCBM9N/?tag=tolees-21)
+[![Camper Damen Katie Mary Jane Halbschuhe ](https://m.media-amazon.com/images/I/31oTI8UpB6L._SL400_.jpg)](https://www.amazon.es/dp/B079KCBM9N/?tag=tolees-21)
 
 🔎:
 

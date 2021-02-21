@@ -2,7 +2,7 @@
 layout: post
 title: 'Bourjois Healthy Mix Powder Polvos Tono  al 60.10 % de descuento'
 date: 2020-07-22 13:25:01
-image: 'https://m.media-amazon.com/images/I/51xV6Mbu4tL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51xV6Mbu4tL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.89'
 
 Ahora mismo tienes [Bourjois Healthy Mix Powder Polvos Tono 02 Light beige / Beige clair   11 gr](https://www.amazon.es/dp/B077MKJ7HK/?tag=tolees-21) a 3.89 EUR (original: 9.75 EUR) (60.10 %  de descuento) en el siguiente enlace!
 
-[![Bourjois Healthy Mix Powder Polvos Tono ](https://m.media-amazon.com/images/I/51xV6Mbu4tL._SL200_.jpg)](https://www.amazon.es/dp/B077MKJ7HK/?tag=tolees-21)
+[![Bourjois Healthy Mix Powder Polvos Tono ](https://m.media-amazon.com/images/I/51xV6Mbu4tL._SL400_.jpg)](https://www.amazon.es/dp/B077MKJ7HK/?tag=tolees-21)
 
 🔎:
 

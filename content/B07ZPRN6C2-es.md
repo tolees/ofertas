@@ -2,7 +2,7 @@
 layout: post
 title: 'Hurley M Icon Textures Hat Gorra  Hombre al 29.99 % de descuento'
 date: 2020-07-23 09:34:04
-image: 'https://m.media-amazon.com/images/I/41WliTF+6ML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41WliTF+6ML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.97'
 
 Ahora mismo tienes [Hurley M Icon Textures Hat Gorra  Hombre  Deep Royal Blue  S/M](https://www.amazon.es/dp/B07ZPRN6C2/?tag=tolees-21) a 10.97 EUR (original: 15.67 EUR) (29.99 %  de descuento) en el siguiente enlace!
 
-[![Hurley M Icon Textures Hat Gorra  Hombre](https://m.media-amazon.com/images/I/41WliTF+6ML._SL200_.jpg)](https://www.amazon.es/dp/B07ZPRN6C2/?tag=tolees-21)
+[![Hurley M Icon Textures Hat Gorra  Hombre](https://m.media-amazon.com/images/I/41WliTF+6ML._SL400_.jpg)](https://www.amazon.es/dp/B07ZPRN6C2/?tag=tolees-21)
 
 🔎:
 

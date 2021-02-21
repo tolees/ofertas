@@ -2,7 +2,7 @@
 layout: post
 title: 'PopSockets PS04454 - Soporte telescópico al 47.00 % de descuento'
 date: 2020-06-30 16:16:34
-image: 'https://m.media-amazon.com/images/I/411su1M-ltL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/411su1M-ltL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.97'
 
 Está [PopSockets PS04454 - Soporte telescópico para Smartphones y tabletas  Estilo Negro](https://www.amazon.es/dp/B00UY1YTGG/?tag=tolees-21) con 47.00 de descuento por 6.97 EUR (original: 13.15 EUR) en el siguiente enlace!
 
-[![PopSockets PS04454 - Soporte telescópico](https://m.media-amazon.com/images/I/411su1M-ltL._SL200_.jpg)](https://www.amazon.es/dp/B00UY1YTGG/?tag=tolees-21)
+[![PopSockets PS04454 - Soporte telescópico](https://m.media-amazon.com/images/I/411su1M-ltL._SL400_.jpg)](https://www.amazon.es/dp/B00UY1YTGG/?tag=tolees-21)
 
 ℹ️:
 

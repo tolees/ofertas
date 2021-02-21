@@ -2,7 +2,7 @@
 layout: post
 title: 'TACKLIFE Cortabordes Eléctrico  350W Cor al 30.86 % de descuento'
 date: 2020-04-03 15:47:30
-image: 'https://m.media-amazon.com/images/I/41-RO-x8kZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41-RO-x8kZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '42.17'
 
 Ahora mismo tienes [TACKLIFE Cortabordes Eléctrico  350W Cortabordes  Ancho de Corte 25 cm  Asa Giratoria 180°  Fácilmente Plegable & Almacenamiento  Función de Recorte Simple  Tap&Go Sistema de Corte de 2 Hilos- KAGT03A](https://www.amazon.es/dp/B07YCMJQNX/?tag=tolees-21) a 42.17 EUR (original: 60.99 EUR) (30.86 %  de descuento) en el siguiente enlace!
 
-[![TACKLIFE Cortabordes Eléctrico  350W Cor](https://m.media-amazon.com/images/I/41-RO-x8kZL._SL200_.jpg)](https://www.amazon.es/dp/B07YCMJQNX/?tag=tolees-21)
+[![TACKLIFE Cortabordes Eléctrico  350W Cor](https://m.media-amazon.com/images/I/41-RO-x8kZL._SL400_.jpg)](https://www.amazon.es/dp/B07YCMJQNX/?tag=tolees-21)
 
 🔎:
 

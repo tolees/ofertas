@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 28.61 % en Continental Grand Sport Race  Cubierta  '
 date: 2020-04-30 09:13:13
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41jYqhFfFyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41jYqhFfFyL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.49'
 
 Tienes [Continental Grand Sport Race  Cubierta  Unisex  Negro  700 x 25](https://www.amazon.es/dp/B00G9AN10Q/?tag=tolees-21) con un 28.61 % de descuento con precio de oferta de 20.49 EUR (original: 28.7 EUR) en el siguiente enlace!
 
-[![Continental Grand Sport Race  Cubierta  ](https://images-eu.ssl-images-amazon.com/images/I/41jYqhFfFyL._SL200_.jpg)](https://www.amazon.es/dp/B00G9AN10Q/?tag=tolees-21)
+[![Continental Grand Sport Race  Cubierta  ](https://images-eu.ssl-images-amazon.com/images/I/41jYqhFfFyL._SL400_.jpg)](https://www.amazon.es/dp/B00G9AN10Q/?tag=tolees-21)
 
 ℹ️:
 

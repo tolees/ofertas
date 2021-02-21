@@ -2,7 +2,7 @@
 layout: post
 title: 'PUMA Speed SUTAMINA Wns  Zapatillas de R al 74.13 % de descuento'
 date: 2020-03-13 15:11:50
-image: 'https://m.media-amazon.com/images/I/41hQtkvNyeL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41hQtkvNyeL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '25.86'
 
 Ahora mismo tienes [PUMA Speed SUTAMINA Wns  Zapatillas de Running para Mujer  Black-Milky Blue-Pink Alert  36 EU](https://www.amazon.es/dp/B07KFW3X62/?tag=tolees-21) a 25.86 EUR (original: 99.95 EUR) (74.13 %  de descuento) en el siguiente enlace!
 
-[![PUMA Speed SUTAMINA Wns  Zapatillas de R](https://m.media-amazon.com/images/I/41hQtkvNyeL._SL200_.jpg)](https://www.amazon.es/dp/B07KFW3X62/?tag=tolees-21)
+[![PUMA Speed SUTAMINA Wns  Zapatillas de R](https://m.media-amazon.com/images/I/41hQtkvNyeL._SL400_.jpg)](https://www.amazon.es/dp/B07KFW3X62/?tag=tolees-21)
 
 🔎:
 

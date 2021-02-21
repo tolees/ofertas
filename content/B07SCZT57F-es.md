@@ -2,7 +2,7 @@
 layout: post
 title: 'PUMA Cali Wn s  Zapatillas para Mujer  N al 52.81 % de descuento'
 date: 2020-03-24 20:33:07
-image: 'https://m.media-amazon.com/images/I/416nviFWkJL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/416nviFWkJL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '42.45'
 
 Ahora mismo tienes [PUMA Cali Wn s  Zapatillas para Mujer  Negro Black White 18  37 EU](https://www.amazon.es/dp/B07SCZT57F/?tag=tolees-21) a 42.45 EUR (original: 89.95 EUR) (52.81 %  de descuento) en el siguiente enlace!
 
-[![PUMA Cali Wn s  Zapatillas para Mujer  N](https://m.media-amazon.com/images/I/416nviFWkJL._SL200_.jpg)](https://www.amazon.es/dp/B07SCZT57F/?tag=tolees-21)
+[![PUMA Cali Wn s  Zapatillas para Mujer  N](https://m.media-amazon.com/images/I/416nviFWkJL._SL400_.jpg)](https://www.amazon.es/dp/B07SCZT57F/?tag=tolees-21)
 
 🔎:
 

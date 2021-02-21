@@ -2,7 +2,7 @@
 layout: post
 title: 'Coleman - Nevera térmica rígida 16 QT  A al 30.04 % de descuento'
 date: 2020-07-07 07:31:45
-image: 'https://m.media-amazon.com/images/I/416ZSi1rXTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/416ZSi1rXTL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '27.95'
 
 Ahora mismo tienes [Coleman - Nevera térmica rígida 16 QT  Alto Rendimiento  15 L  Capacidad para Enfriar hasta 1 día](https://www.amazon.es/dp/B082MZ2QJX/?tag=tolees-21) a 27.95 EUR (original: 39.95 EUR) (30.04 %  de descuento) en el siguiente enlace!
 
-[![Coleman - Nevera térmica rígida 16 QT  A](https://m.media-amazon.com/images/I/416ZSi1rXTL._SL200_.jpg)](https://www.amazon.es/dp/B082MZ2QJX/?tag=tolees-21)
+[![Coleman - Nevera térmica rígida 16 QT  A](https://m.media-amazon.com/images/I/416ZSi1rXTL._SL400_.jpg)](https://www.amazon.es/dp/B082MZ2QJX/?tag=tolees-21)
 
 🔎:
 

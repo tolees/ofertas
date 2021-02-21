@@ -2,7 +2,7 @@
 layout: post
 title: 'HKT by Hackett Hkt SS Str Rby Polo   Ink al 50.78 % de descuento'
 date: 2020-04-27 16:11:17
-image: 'https://m.media-amazon.com/images/I/41iQsHr9s1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41iQsHr9s1L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '38.88'
 
 Ahora mismo tienes [HKT by Hackett Hkt SS Str Rby Polo   Ink 591   X-Large para Hombre](https://www.amazon.es/dp/B07MSKYLXD/?tag=tolees-21) a 38.88 EUR (original: 79.0 EUR) (50.78 %  de descuento) en el siguiente enlace!
 
-[![HKT by Hackett Hkt SS Str Rby Polo   Ink](https://m.media-amazon.com/images/I/41iQsHr9s1L._SL200_.jpg)](https://www.amazon.es/dp/B07MSKYLXD/?tag=tolees-21)
+[![HKT by Hackett Hkt SS Str Rby Polo   Ink](https://m.media-amazon.com/images/I/41iQsHr9s1L._SL400_.jpg)](https://www.amazon.es/dp/B07MSKYLXD/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Kipling - Creativity S  Monederos Mujer  al 39.69 % de descuento'
 date: 2020-09-24 15:43:20
-image: 'https://m.media-amazon.com/images/I/51SJTcALrhL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51SJTcALrhL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.085'
 
 Está [Kipling - Creativity S  Monederos Mujer  Multicolor  Navy Stick Print   14.5x9.5x5 cm  B x H T ](https://www.amazon.es/dp/B07PQ87N6J/?tag=tolees-21) con 39.69 de descuento por 17.49 EUR (original: 29.0 EUR) en el siguiente enlace!
 
-[![Kipling - Creativity S  Monederos Mujer ](https://m.media-amazon.com/images/I/51SJTcALrhL._SL200_.jpg)](https://www.amazon.es/dp/B07PQ87N6J/?tag=tolees-21)
+[![Kipling - Creativity S  Monederos Mujer ](https://m.media-amazon.com/images/I/51SJTcALrhL._SL400_.jpg)](https://www.amazon.es/dp/B07PQ87N6J/?tag=tolees-21)
 
 ℹ️:
 

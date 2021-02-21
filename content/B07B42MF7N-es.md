@@ -2,7 +2,7 @@
 layout: post
 title: 'Ravensburger-00.016.099 Puzle Shaped Mic al 39.42 % de descuento'
 date: 2020-09-21 14:54:10
-image: 'https://m.media-amazon.com/images/I/61zx3v9vSOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61zx3v9vSOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.56'
 
 Ahora mismo tienes [Ravensburger-00.016.099 Puzle Shaped Mickey  Color Amarillo  00.016.099 ](https://www.amazon.es/dp/B07B42MF7N/?tag=tolees-21) a 21.56 EUR (original: 35.59 EUR) (39.42 %  de descuento) en el siguiente enlace!
 
-[![Ravensburger-00.016.099 Puzle Shaped Mic](https://m.media-amazon.com/images/I/61zx3v9vSOL._SL200_.jpg)](https://www.amazon.es/dp/B07B42MF7N/?tag=tolees-21)
+[![Ravensburger-00.016.099 Puzle Shaped Mic](https://m.media-amazon.com/images/I/61zx3v9vSOL._SL400_.jpg)](https://www.amazon.es/dp/B07B42MF7N/?tag=tolees-21)
 
 🔎:
 

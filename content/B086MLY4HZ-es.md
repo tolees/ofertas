@@ -2,7 +2,7 @@
 layout: post
 title: 'YO-HAPPY Albornoces recién Nacidas  Cuid al 50.00 % de rebaja'
 date: 2020-04-22 09:02:45
-image: 'https://m.media-amazon.com/images/I/31YKwLTWS9L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31YKwLTWS9L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.68'
 
 Tienes [YO-HAPPY Albornoces recién Nacidas  Cuidado del bebé  Suave](https://www.amazon.es/dp/B086MLY4HZ/?tag=tolees-21) con precio final de  11.68 EUR (original: 23.36 EUR) (50.00 %  de rebaja) aqui!
 
-[![YO-HAPPY Albornoces recién Nacidas  Cuid](https://m.media-amazon.com/images/I/31YKwLTWS9L._SL200_.jpg)](https://www.amazon.es/dp/B086MLY4HZ/?tag=tolees-21)
+[![YO-HAPPY Albornoces recién Nacidas  Cuid](https://m.media-amazon.com/images/I/31YKwLTWS9L._SL400_.jpg)](https://www.amazon.es/dp/B086MLY4HZ/?tag=tolees-21)
 
 🔎:
 

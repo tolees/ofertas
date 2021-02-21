@@ -2,7 +2,7 @@
 layout: post
 title: 'Spider-Man: Un Nuevo Universo [DVD] al 47.09 % de descuento'
 date: 2020-05-21 20:01:47
-image: 'https://m.media-amazon.com/images/I/51DApmr3byL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51DApmr3byL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.656666666666666'
 
 Ahora mismo tienes [Spider-Man: Un Nuevo Universo [DVD]](https://www.amazon.es/dp/B07MSYGZT7/?tag=tolees-21) a 8.99 EUR (original: 16.99 EUR) (47.09 %  de descuento) en el siguiente enlace!
 
-[![Spider-Man: Un Nuevo Universo [DVD]](https://m.media-amazon.com/images/I/51DApmr3byL._SL200_.jpg)](https://www.amazon.es/dp/B07MSYGZT7/?tag=tolees-21)
+[![Spider-Man: Un Nuevo Universo [DVD]](https://m.media-amazon.com/images/I/51DApmr3byL._SL400_.jpg)](https://www.amazon.es/dp/B07MSYGZT7/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 30.77 % en Polaroid Originals - 9009 - Nuevo One St'
 date: 2020-09-16 10:42:36
-image: 'https://m.media-amazon.com/images/I/41lIAV5icNL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41lIAV5icNL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '103.683'
 
 Tienes [Polaroid Originals - 9009 - Nuevo One Step 2 ViewFinder - Cámaras Instantáneas i-Type - Negro](https://www.amazon.es/dp/B07C5FVGHZ/?tag=tolees-21) con un 30.77 % de descuento con precio de oferta de 89.99 EUR (original: 129.99 EUR) en el siguiente enlace!
 
-[![Polaroid Originals - 9009 - Nuevo One St](https://m.media-amazon.com/images/I/41lIAV5icNL._SL200_.jpg)](https://www.amazon.es/dp/B07C5FVGHZ/?tag=tolees-21)
+[![Polaroid Originals - 9009 - Nuevo One St](https://m.media-amazon.com/images/I/41lIAV5icNL._SL400_.jpg)](https://www.amazon.es/dp/B07C5FVGHZ/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'LIBERRWAY Tubo Termorretráctil 615 Pieza al 37.52 % de descuento'
 date: 2020-04-17 09:54:50
-image: 'https://m.media-amazon.com/images/I/51H-L6wdj0L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51H-L6wdj0L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.99'
 
 Está [LIBERRWAY Tubo Termorretráctil 615 Piezas 2: 1 Poliolefina Tubo Termoretráctil Envoltura de Alambre 6 Color 8 Tamaño](https://www.amazon.es/dp/B06WP7JK81/?tag=tolees-21) con 37.52 de descuento por 9.99 EUR (original: 15.99 EUR) en el siguiente enlace!
 
-[![LIBERRWAY Tubo Termorretráctil 615 Pieza](https://m.media-amazon.com/images/I/51H-L6wdj0L._SL200_.jpg)](https://www.amazon.es/dp/B06WP7JK81/?tag=tolees-21)
+[![LIBERRWAY Tubo Termorretráctil 615 Pieza](https://m.media-amazon.com/images/I/51H-L6wdj0L._SL400_.jpg)](https://www.amazon.es/dp/B06WP7JK81/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Vans Atwood Canvas  Zapatillas para Homb al 53.86 % de rebaja'
 date: 2020-07-24 13:01:26
-image: 'https://m.media-amazon.com/images/I/31OlYl9uCAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31OlYl9uCAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.99'
 
 Tienes [Vans Atwood Canvas  Zapatillas para Hombre  Rojo  Oxblood/White 8J3   50 EU](https://www.amazon.es/dp/B00CP0K3B4/?tag=tolees-21) con precio final de  29.99 EUR (original: 65.0 EUR) (53.86 %  de rebaja) aqui!
 
-[![Vans Atwood Canvas  Zapatillas para Homb](https://m.media-amazon.com/images/I/31OlYl9uCAL._SL200_.jpg)](https://www.amazon.es/dp/B00CP0K3B4/?tag=tolees-21)
+[![Vans Atwood Canvas  Zapatillas para Homb](https://m.media-amazon.com/images/I/31OlYl9uCAL._SL400_.jpg)](https://www.amazon.es/dp/B00CP0K3B4/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Calcetines de Running para Largas Distan con un 31.09 % de descuento'
 date: 2020-05-14 08:35:55
-image: 'https://m.media-amazon.com/images/I/51+sgd-S1KL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51+sgd-S1KL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.45'
 
 En este momento está [Calcetines de Running para Largas Distancias 3 Par  Negro/Gris  EU 35-38 ](https://www.amazon.es/dp/B07T8J43DR/?tag=tolees-21) a 19.95 EUR (original: 28.95 EUR) (31.09 %  de descuento) en el siguiente enlace!
 
-[![Calcetines de Running para Largas Distan](https://m.media-amazon.com/images/I/51+sgd-S1KL._SL200_.jpg)](https://www.amazon.es/dp/B07T8J43DR/?tag=tolees-21)
+[![Calcetines de Running para Largas Distan](https://m.media-amazon.com/images/I/51+sgd-S1KL._SL400_.jpg)](https://www.amazon.es/dp/B07T8J43DR/?tag=tolees-21)
 
 🔎:
 

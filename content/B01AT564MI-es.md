@@ -2,7 +2,7 @@
 layout: post
 title: 'CrossBoule Heroes Batman vs. Superman al 60.07 % de rebaja'
 date: 2020-01-26 20:03:20
-image: 'https://m.media-amazon.com/images/I/516Fj5DvDbL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/516Fj5DvDbL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.52'
 
 Tienes [CrossBoule Heroes Batman vs. Superman](https://www.amazon.es/dp/B01AT564MI/?tag=tolees-21) con precio final de  8.52 EUR (original: 21.34 EUR) (60.07 %  de rebaja) aqui!
 
-[![CrossBoule Heroes Batman vs. Superman](https://m.media-amazon.com/images/I/516Fj5DvDbL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01AT564MI/?tag=tolees-21)
+[![CrossBoule Heroes Batman vs. Superman](https://m.media-amazon.com/images/I/516Fj5DvDbL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01AT564MI/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'L Oreal Paris Sublime Mousse Coloración  al 42.21 % de descuento'
 date: 2020-02-05 16:06:09
-image: 'https://m.media-amazon.com/images/I/51baVSfJMxL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51baVSfJMxL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.75'
 
 Ahora mismo tienes [L Oreal Paris Sublime Mousse Coloración Permanente 700 Castaño Muy Claro Natural](https://www.amazon.es/dp/B00X9W7ATK/?tag=tolees-21) a 5.75 EUR (original: 9.95 EUR) (42.21 %  de descuento) en el siguiente enlace!
 
-[![L Oreal Paris Sublime Mousse Coloración ](https://m.media-amazon.com/images/I/51baVSfJMxL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B00X9W7ATK/?tag=tolees-21)
+[![L Oreal Paris Sublime Mousse Coloración ](https://m.media-amazon.com/images/I/51baVSfJMxL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B00X9W7ATK/?tag=tolees-21)
 
 🔎:
 

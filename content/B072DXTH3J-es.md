@@ -2,7 +2,7 @@
 layout: post
 title: 'Funko Pop! - David  Rugged  Figura de Vi con un 68.65 % de descuento'
 date: 2020-10-11 16:02:38
-image: 'https://m.media-amazon.com/images/I/519M7d9dH5L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/519M7d9dH5L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.909090909090909'
 
 En este momento está [Funko Pop! - David  Rugged  Figura de Vinilo  seria Alien Covenant  13095 ](https://www.amazon.es/dp/B072DXTH3J/?tag=tolees-21) a 5.0 EUR (original: 15.95 EUR) (68.65 %  de descuento) en el siguiente enlace!
 
-[![Funko Pop! - David  Rugged  Figura de Vi](https://m.media-amazon.com/images/I/519M7d9dH5L._SL200_.jpg)](https://www.amazon.es/dp/B072DXTH3J/?tag=tolees-21)
+[![Funko Pop! - David  Rugged  Figura de Vi](https://m.media-amazon.com/images/I/519M7d9dH5L._SL400_.jpg)](https://www.amazon.es/dp/B072DXTH3J/?tag=tolees-21)
 
 🔎:
 

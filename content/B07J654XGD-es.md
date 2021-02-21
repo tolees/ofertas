@@ -2,7 +2,7 @@
 layout: post
 title: 'Amercian Tourister Aero Racer Spinner al 50.11 % de rebaja'
 date: 2020-04-28 07:17:28
-image: 'https://m.media-amazon.com/images/I/41nQdx7DNML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41nQdx7DNML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '52.38'
 
 Tienes [Amercian Tourister Aero Racer Spinner](https://www.amazon.es/dp/B07J654XGD/?tag=tolees-21) con precio final de  52.38 EUR (original: 105.0 EUR) (50.11 %  de rebaja) aqui!
 
-[![Amercian Tourister Aero Racer Spinner](https://m.media-amazon.com/images/I/41nQdx7DNML._SL200_.jpg)](https://www.amazon.es/dp/B07J654XGD/?tag=tolees-21)
+[![Amercian Tourister Aero Racer Spinner](https://m.media-amazon.com/images/I/41nQdx7DNML._SL400_.jpg)](https://www.amazon.es/dp/B07J654XGD/?tag=tolees-21)
 
 🔎:
 

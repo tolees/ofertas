@@ -2,7 +2,7 @@
 layout: post
 title: 'Clarks Sharon Gracie  Mocasines para Muj con un 49.65 % de descuento'
 date: 2020-04-19 18:31:51
-image: 'https://m.media-amazon.com/images/I/31rvhioyjaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31rvhioyjaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '33.51'
 
 En este momento está [Clarks Sharon Gracie  Mocasines para Mujer  Plateado  Metallic Metallic   39 EU](https://www.amazon.es/dp/B07N1JKD3G/?tag=tolees-21) a 35.22 EUR (original: 69.95 EUR) (49.65 %  de descuento) en el siguiente enlace!
 
-[![Clarks Sharon Gracie  Mocasines para Muj](https://m.media-amazon.com/images/I/31rvhioyjaL._SL200_.jpg)](https://www.amazon.es/dp/B07N1JKD3G/?tag=tolees-21)
+[![Clarks Sharon Gracie  Mocasines para Muj](https://m.media-amazon.com/images/I/31rvhioyjaL._SL400_.jpg)](https://www.amazon.es/dp/B07N1JKD3G/?tag=tolees-21)
 
 🔎:
 

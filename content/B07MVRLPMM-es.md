@@ -2,7 +2,7 @@
 layout: post
 title: 'HP Z3700 - Ratón al 25.01 % de descuento'
 date: 2020-09-17 16:49:34
-image: 'https://m.media-amazon.com/images/I/31WukKY0HsL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31WukKY0HsL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.79'
 
 Ahora mismo tienes [HP Z3700 - Ratón](https://www.amazon.es/dp/B07MVRLPMM/?tag=tolees-21) a 14.99 EUR (original: 19.99 EUR) (25.01 %  de descuento) en el siguiente enlace!
 
-[![HP Z3700 - Ratón](https://m.media-amazon.com/images/I/31WukKY0HsL._SL200_.jpg)](https://www.amazon.es/dp/B07MVRLPMM/?tag=tolees-21)
+[![HP Z3700 - Ratón](https://m.media-amazon.com/images/I/31WukKY0HsL._SL400_.jpg)](https://www.amazon.es/dp/B07MVRLPMM/?tag=tolees-21)
 
 🔎:
 

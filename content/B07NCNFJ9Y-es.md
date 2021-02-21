@@ -2,7 +2,7 @@
 layout: post
 title: 'Riñonera plana Pepe Jeans Raw al 30.43 % de rebaja'
 date: 2020-03-14 14:31:18
-image: 'https://m.media-amazon.com/images/I/41K10kDOcvL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41K10kDOcvL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.0'
 
 Tienes [Riñonera plana Pepe Jeans Raw](https://www.amazon.es/dp/B07NCNFJ9Y/?tag=tolees-21) con precio final de  16.0 EUR (original: 23.0 EUR) (30.43 %  de rebaja) aqui!
 
-[![Riñonera plana Pepe Jeans Raw](https://m.media-amazon.com/images/I/41K10kDOcvL._SL200_.jpg)](https://www.amazon.es/dp/B07NCNFJ9Y/?tag=tolees-21)
+[![Riñonera plana Pepe Jeans Raw](https://m.media-amazon.com/images/I/41K10kDOcvL._SL400_.jpg)](https://www.amazon.es/dp/B07NCNFJ9Y/?tag=tolees-21)
 
 🔎:
 

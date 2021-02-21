@@ -2,7 +2,7 @@
 layout: post
 title: 'U.S. Polo Assn. Cree  Zapatillas de Gimn al 40.00 % de descuento'
 date: 2020-06-01 16:33:47
-image: 'https://m.media-amazon.com/images/I/31zSax+mQtL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31zSax+mQtL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '47.97'
 
 Ahora mismo tienes [U.S. Polo Assn. Cree  Zapatillas de Gimnasia para Hombre  Marrón  Dk BR 028   42 EU](https://www.amazon.es/dp/B07NFHYPPZ/?tag=tolees-21) a 47.97 EUR (original: 79.95 EUR) (40.00 %  de descuento) en el siguiente enlace!
 
-[![U.S. Polo Assn. Cree  Zapatillas de Gimn](https://m.media-amazon.com/images/I/31zSax+mQtL._SL200_.jpg)](https://www.amazon.es/dp/B07NFHYPPZ/?tag=tolees-21)
+[![U.S. Polo Assn. Cree  Zapatillas de Gimn](https://m.media-amazon.com/images/I/31zSax+mQtL._SL400_.jpg)](https://www.amazon.es/dp/B07NFHYPPZ/?tag=tolees-21)
 
 🔎:
 

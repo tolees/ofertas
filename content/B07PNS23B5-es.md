@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 43.64 % en Under Armour Knockout Tanque  Mujer  Neg'
 date: 2020-06-24 07:20:32
-image: 'https://m.media-amazon.com/images/I/41GNRVSQnVL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41GNRVSQnVL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '22.184285714285714'
 
 Tienes [Under Armour Knockout Tanque  Mujer  Negro  SM](https://www.amazon.es/dp/B07PNS23B5/?tag=tolees-21) con un 43.64 % de descuento con precio de oferta de 17.99 EUR (original: 31.92 EUR) en el siguiente enlace!
 
-[![Under Armour Knockout Tanque  Mujer  Neg](https://m.media-amazon.com/images/I/41GNRVSQnVL._SL200_.jpg)](https://www.amazon.es/dp/B07PNS23B5/?tag=tolees-21)
+[![Under Armour Knockout Tanque  Mujer  Neg](https://m.media-amazon.com/images/I/41GNRVSQnVL._SL400_.jpg)](https://www.amazon.es/dp/B07PNS23B5/?tag=tolees-21)
 
 ℹ️:
 

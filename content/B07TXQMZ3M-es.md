@@ -2,7 +2,7 @@
 layout: post
 title: 'Legend COMO-A - Bolsa de Cuero Mujer  co con un 40.90 % de descuento'
 date: 2020-03-01 12:19:45
-image: 'https://m.media-amazon.com/images/I/31c8eGXyIKL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31c8eGXyIKL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '53.18'
 
 En este momento está [Legend COMO-A - Bolsa de Cuero Mujer  color Negro  talla 4x13x19 cm  B x H x T ](https://www.amazon.es/dp/B07TXQMZ3M/?tag=tolees-21) a 53.18 EUR (original: 89.99 EUR) (40.90 %  de descuento) en el siguiente enlace!
 
-[![Legend COMO-A - Bolsa de Cuero Mujer  co](https://m.media-amazon.com/images/I/31c8eGXyIKL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07TXQMZ3M/?tag=tolees-21)
+[![Legend COMO-A - Bolsa de Cuero Mujer  co](https://m.media-amazon.com/images/I/31c8eGXyIKL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07TXQMZ3M/?tag=tolees-21)
 
 🔎:
 

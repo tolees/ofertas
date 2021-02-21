@@ -2,7 +2,7 @@
 layout: post
 title: 'Wella Eimi Laca Extrafuerte - 300 ml al 30.44 % de descuento'
 date: 2020-05-28 17:08:47
-image: 'https://m.media-amazon.com/images/I/31jPCLP8RZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31jPCLP8RZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.61'
 
 Está [Wella Eimi Laca Extrafuerte - 300 ml](https://www.amazon.es/dp/B076JQLFBS/?tag=tolees-21) con 30.44 de descuento por 7.61 EUR (original: 10.94 EUR) en el siguiente enlace!
 
-[![Wella Eimi Laca Extrafuerte - 300 ml](https://m.media-amazon.com/images/I/31jPCLP8RZL._SL200_.jpg)](https://www.amazon.es/dp/B076JQLFBS/?tag=tolees-21)
+[![Wella Eimi Laca Extrafuerte - 300 ml](https://m.media-amazon.com/images/I/31jPCLP8RZL._SL400_.jpg)](https://www.amazon.es/dp/B076JQLFBS/?tag=tolees-21)
 
 ℹ️:
 

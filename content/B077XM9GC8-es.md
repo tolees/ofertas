@@ -2,7 +2,7 @@
 layout: post
 title: 'Funko Pop!- 27032 Games: God of War: Atr con un 39.00 % de descuento'
 date: 2020-07-10 19:32:14
-image: 'https://m.media-amazon.com/images/I/41R3-SyeloL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41R3-SyeloL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.73'
 
 En este momento está [Funko Pop!- 27032 Games: God of War: Atreus  Multicolor](https://www.amazon.es/dp/B077XM9GC8/?tag=tolees-21) a 9.73 EUR (original: 15.95 EUR) (39.00 %  de descuento) en el siguiente enlace!
 
-[![Funko Pop!- 27032 Games: God of War: Atr](https://m.media-amazon.com/images/I/41R3-SyeloL._SL200_.jpg)](https://www.amazon.es/dp/B077XM9GC8/?tag=tolees-21)
+[![Funko Pop!- 27032 Games: God of War: Atr](https://m.media-amazon.com/images/I/41R3-SyeloL._SL400_.jpg)](https://www.amazon.es/dp/B077XM9GC8/?tag=tolees-21)
 
 🔎:
 

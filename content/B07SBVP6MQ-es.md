@@ -2,7 +2,7 @@
 layout: post
 title: 'PUMA Nrgy Neko Retro  Zapatillas de Runn al 42.89 % de descuento'
 date: 2020-04-11 19:19:32
-image: 'https://m.media-amazon.com/images/I/41s8t5UKeaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41s8t5UKeaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '39.95'
 
 Está [PUMA Nrgy Neko Retro  Zapatillas de Running para Hombre  Negro Black White/Green Glimmer 12  39 EU](https://www.amazon.es/dp/B07SBVP6MQ/?tag=tolees-21) con 42.89 de descuento por 39.95 EUR (original: 69.95 EUR) en el siguiente enlace!
 
-[![PUMA Nrgy Neko Retro  Zapatillas de Runn](https://m.media-amazon.com/images/I/41s8t5UKeaL._SL200_.jpg)](https://www.amazon.es/dp/B07SBVP6MQ/?tag=tolees-21)
+[![PUMA Nrgy Neko Retro  Zapatillas de Runn](https://m.media-amazon.com/images/I/41s8t5UKeaL._SL400_.jpg)](https://www.amazon.es/dp/B07SBVP6MQ/?tag=tolees-21)
 
 ℹ️:
 

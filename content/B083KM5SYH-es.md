@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 25.01 % en Scholl Plantillas Gelactiv Profesional M'
 date: 2020-08-06 10:09:17
-image: 'https://m.media-amazon.com/images/I/51rd-mbUguL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51rd-mbUguL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.61'
 
 Tienes [Scholl Plantillas Gelactiv Profesional Mujer + Crema de Pies para Durezas - 2 plantillas  Talla 35.5-40.5  + Crema 60ml](https://www.amazon.es/dp/B083KM5SYH/?tag=tolees-21) con un 25.01 % de descuento con precio de oferta de 16.61 EUR (original: 22.15 EUR) en el siguiente enlace!
 
-[![Scholl Plantillas Gelactiv Profesional M](https://m.media-amazon.com/images/I/51rd-mbUguL._SL200_.jpg)](https://www.amazon.es/dp/B083KM5SYH/?tag=tolees-21)
+[![Scholl Plantillas Gelactiv Profesional M](https://m.media-amazon.com/images/I/51rd-mbUguL._SL400_.jpg)](https://www.amazon.es/dp/B083KM5SYH/?tag=tolees-21)
 
 ℹ️:
 

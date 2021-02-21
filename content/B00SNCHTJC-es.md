@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 40.44 % en Gamdias EREBOS-GMS7510 - Ratón USB Laser'
 date: 2020-07-04 18:40:24
-image: 'https://m.media-amazon.com/images/I/41yz1tewLUL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41yz1tewLUL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '43.45'
 
 Tienes [Gamdias EREBOS-GMS7510 - Ratón USB Laser 8200DPI ambidextro  Multicolor](https://www.amazon.es/dp/B00SNCHTJC/?tag=tolees-21) con un 40.44 % de descuento con precio de oferta de 43.45 EUR (original: 72.95 EUR) en el siguiente enlace!
 
-[![Gamdias EREBOS-GMS7510 - Ratón USB Laser](https://m.media-amazon.com/images/I/41yz1tewLUL._SL200_.jpg)](https://www.amazon.es/dp/B00SNCHTJC/?tag=tolees-21)
+[![Gamdias EREBOS-GMS7510 - Ratón USB Laser](https://m.media-amazon.com/images/I/41yz1tewLUL._SL400_.jpg)](https://www.amazon.es/dp/B00SNCHTJC/?tag=tolees-21)
 
 ℹ️:
 

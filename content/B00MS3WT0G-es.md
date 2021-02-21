@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 42.87 % en Quinny 72409140 - Sombrilla para silla d'
 date: 2020-05-23 16:11:08
-image: 'https://m.media-amazon.com/images/I/31jLue-bYTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31jLue-bYTL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '25.71'
 
 Tienes [Quinny 72409140 - Sombrilla para silla de paseo y cochecito  color gris](https://www.amazon.es/dp/B00MS3WT0G/?tag=tolees-21) con un 42.87 % de descuento con precio de oferta de 25.71 EUR (original: 45.0 EUR) en el siguiente enlace!
 
-[![Quinny 72409140 - Sombrilla para silla d](https://m.media-amazon.com/images/I/31jLue-bYTL._SL200_.jpg)](https://www.amazon.es/dp/B00MS3WT0G/?tag=tolees-21)
+[![Quinny 72409140 - Sombrilla para silla d](https://m.media-amazon.com/images/I/31jLue-bYTL._SL400_.jpg)](https://www.amazon.es/dp/B00MS3WT0G/?tag=tolees-21)
 
 ℹ️:
 

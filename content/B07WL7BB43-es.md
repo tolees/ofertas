@@ -2,7 +2,7 @@
 layout: post
 title: 'Epson Workforce WF-2850 - Impresora Mult con un 49.07 % de descuento'
 date: 2020-10-08 13:34:14
-image: 'https://m.media-amazon.com/images/I/41YpZ8oftaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41YpZ8oftaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '87.49333333333333'
 
 En este momento está [Epson Workforce WF-2850 - Impresora Multifunción Color](https://www.amazon.es/dp/B07WL7BB43/?tag=tolees-21) a 94.9 EUR (original: 186.34 EUR) (49.07 %  de descuento) en el siguiente enlace!
 
-[![Epson Workforce WF-2850 - Impresora Mult](https://m.media-amazon.com/images/I/41YpZ8oftaL._SL200_.jpg)](https://www.amazon.es/dp/B07WL7BB43/?tag=tolees-21)
+[![Epson Workforce WF-2850 - Impresora Mult](https://m.media-amazon.com/images/I/41YpZ8oftaL._SL400_.jpg)](https://www.amazon.es/dp/B07WL7BB43/?tag=tolees-21)
 
 🔎:
 

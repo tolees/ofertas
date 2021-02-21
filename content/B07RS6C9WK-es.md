@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger - Classic Saffiano Bumbag al 59.41 % de rebaja'
 date: 2020-06-15 08:21:36
-image: 'https://m.media-amazon.com/images/I/41k0FwQptiL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41k0FwQptiL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '36.49'
 
 Tienes [Tommy Hilfiger - Classic Saffiano Bumbag  Bolsos bandolera Mujer  Negro  Black   4x0.1x16 cm  W x H L ](https://www.amazon.es/dp/B07RS6C9WK/?tag=tolees-21) con precio final de  36.49 EUR (original: 89.9 EUR) (59.41 %  de rebaja) aqui!
 
-[![Tommy Hilfiger - Classic Saffiano Bumbag](https://m.media-amazon.com/images/I/41k0FwQptiL._SL200_.jpg)](https://www.amazon.es/dp/B07RS6C9WK/?tag=tolees-21)
+[![Tommy Hilfiger - Classic Saffiano Bumbag](https://m.media-amazon.com/images/I/41k0FwQptiL._SL400_.jpg)](https://www.amazon.es/dp/B07RS6C9WK/?tag=tolees-21)
 
 🔎:
 

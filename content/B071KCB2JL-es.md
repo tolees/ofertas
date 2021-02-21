@@ -2,7 +2,7 @@
 layout: post
 title: 'Palette Intense Cream Coloration Intensi al 41.01 % de descuento'
 date: 2020-07-09 19:18:40
-image: 'https://m.media-amazon.com/images/I/51ZZsqGb3UL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51ZZsqGb3UL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.665'
 
 Ahora mismo tienes [Palette Intense Cream Coloration Intensive Coloración del Cabello 4.6 Castaño Marrón - Pack de 3](https://www.amazon.es/dp/B071KCB2JL/?tag=tolees-21) a 6.99 EUR (original: 11.85 EUR) (41.01 %  de descuento) en el siguiente enlace!
 
-[![Palette Intense Cream Coloration Intensi](https://m.media-amazon.com/images/I/51ZZsqGb3UL._SL200_.jpg)](https://www.amazon.es/dp/B071KCB2JL/?tag=tolees-21)
+[![Palette Intense Cream Coloration Intensi](https://m.media-amazon.com/images/I/51ZZsqGb3UL._SL400_.jpg)](https://www.amazon.es/dp/B071KCB2JL/?tag=tolees-21)
 
 🔎:
 

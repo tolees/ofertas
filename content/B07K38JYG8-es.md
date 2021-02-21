@@ -2,7 +2,7 @@
 layout: post
 title: 'Adidas Runfalcon  Zapatillas de Trail Ru con un 49.99 % de descuento'
 date: 2020-01-30 16:25:33
-image: 'https://m.media-amazon.com/images/I/41u+LRQQHtL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41u+LRQQHtL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.98'
 
 En este momento está [Adidas Runfalcon  Zapatillas de Trail Running para Mujer  Negro  Negbás/Ftwbla/Gritre 000   38 EU](https://www.amazon.es/dp/B07K38JYG8/?tag=tolees-21) a 24.98 EUR (original: 49.95 EUR) (49.99 %  de descuento) en el siguiente enlace!
 
-[![Adidas Runfalcon  Zapatillas de Trail Ru](https://m.media-amazon.com/images/I/41u+LRQQHtL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07K38JYG8/?tag=tolees-21)
+[![Adidas Runfalcon  Zapatillas de Trail Ru](https://m.media-amazon.com/images/I/41u+LRQQHtL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07K38JYG8/?tag=tolees-21)
 
 🔎:
 

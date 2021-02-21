@@ -2,7 +2,7 @@
 layout: post
 title: 'Béaba 913385 - Taza de aprendizaje evolu con un 50.00 % de descuento'
 date: 2020-08-01 19:53:16
-image: 'https://m.media-amazon.com/images/I/31irlkj4v0L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31irlkj4v0L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.45'
 
 En este momento está [Béaba 913385 - Taza de aprendizaje evolutiva  3 en 1  blanco y rosa](https://www.amazon.es/dp/B01BMVP3MU/?tag=tolees-21) a 6.45 EUR (original: 12.9 EUR) (50.00 %  de descuento) en el siguiente enlace!
 
-[![Béaba 913385 - Taza de aprendizaje evolu](https://m.media-amazon.com/images/I/31irlkj4v0L._SL200_.jpg)](https://www.amazon.es/dp/B01BMVP3MU/?tag=tolees-21)
+[![Béaba 913385 - Taza de aprendizaje evolu](https://m.media-amazon.com/images/I/31irlkj4v0L._SL400_.jpg)](https://www.amazon.es/dp/B01BMVP3MU/?tag=tolees-21)
 
 🔎:
 

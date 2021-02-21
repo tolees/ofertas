@@ -2,7 +2,7 @@
 layout: post
 title: 'Helly Hansen Scurry V3  Zapatillas para  al 25.52 % de descuento'
 date: 2020-07-19 09:19:56
-image: 'https://m.media-amazon.com/images/I/41k3slaiV2L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41k3slaiV2L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '55.86'
 
 Ahora mismo tienes [Helly Hansen Scurry V3  Zapatillas para Hombre  Turquesa  Deep Lagoon/Off White 497   43 EU](https://www.amazon.es/dp/B07TDGXRYP/?tag=tolees-21) a 55.86 EUR (original: 75.0 EUR) (25.52 %  de descuento) en el siguiente enlace!
 
-[![Helly Hansen Scurry V3  Zapatillas para ](https://m.media-amazon.com/images/I/41k3slaiV2L._SL200_.jpg)](https://www.amazon.es/dp/B07TDGXRYP/?tag=tolees-21)
+[![Helly Hansen Scurry V3  Zapatillas para ](https://m.media-amazon.com/images/I/41k3slaiV2L._SL400_.jpg)](https://www.amazon.es/dp/B07TDGXRYP/?tag=tolees-21)
 
 🔎:
 

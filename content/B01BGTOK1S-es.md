@@ -2,7 +2,7 @@
 layout: post
 title: 'G-Star Raw Bronson  Pantalones Para Homb al 34.98 % de descuento'
 date: 2020-03-19 11:38:06
-image: 'https://m.media-amazon.com/images/I/41ldIJXXyuL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ldIJXXyuL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '43.265'
 
 Está [G-Star Raw Bronson  Pantalones Para Hombre  Negro  D00523   W26/L32](https://www.amazon.es/dp/B01BGTOK1S/?tag=tolees-21) con 34.98 de descuento por 64.99 EUR (original: 99.95 EUR) en el siguiente enlace!
 
-[![G-Star Raw Bronson  Pantalones Para Homb](https://m.media-amazon.com/images/I/41ldIJXXyuL._SL200_.jpg)](https://www.amazon.es/dp/B01BGTOK1S/?tag=tolees-21)
+[![G-Star Raw Bronson  Pantalones Para Homb](https://m.media-amazon.com/images/I/41ldIJXXyuL._SL400_.jpg)](https://www.amazon.es/dp/B01BGTOK1S/?tag=tolees-21)
 
 ℹ️:
 

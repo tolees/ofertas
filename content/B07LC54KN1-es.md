@@ -2,7 +2,7 @@
 layout: post
 title: 'Z-Man Games-Más allá de Baker Street-Esp al 30.64 % de descuento'
 date: 2020-06-25 15:38:58
-image: 'https://m.media-amazon.com/images/I/5133SMa6NkL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/5133SMa6NkL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.28'
 
 Está [Z-Man Games-Más allá de Baker Street-Español  Color  ZM7670ES ](https://www.amazon.es/dp/B07LC54KN1/?tag=tolees-21) con 30.64 de descuento por 20.8 EUR (original: 29.99 EUR) en el siguiente enlace!
 
-[![Z-Man Games-Más allá de Baker Street-Esp](https://m.media-amazon.com/images/I/5133SMa6NkL._SL200_.jpg)](https://www.amazon.es/dp/B07LC54KN1/?tag=tolees-21)
+[![Z-Man Games-Más allá de Baker Street-Esp](https://m.media-amazon.com/images/I/5133SMa6NkL._SL400_.jpg)](https://www.amazon.es/dp/B07LC54KN1/?tag=tolees-21)
 
 ℹ️:
 

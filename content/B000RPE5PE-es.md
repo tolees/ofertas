@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 30.31 % en Trust – Mini Lector de Tarjetas USB Robs'
 date: 2020-02-11 09:53:53
-image: 'https://m.media-amazon.com/images/I/41EjFwjwUTL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41EjFwjwUTL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.75'
 
 Tienes [Trust – Mini Lector de Tarjetas USB Robson  color blanco](https://www.amazon.es/dp/B000RPE5PE/?tag=tolees-21) con un 30.31 % de descuento con precio de oferta de 9.75 EUR (original: 13.99 EUR) en el siguiente enlace!
 
-[![Trust – Mini Lector de Tarjetas USB Robs](https://m.media-amazon.com/images/I/41EjFwjwUTL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B000RPE5PE/?tag=tolees-21)
+[![Trust – Mini Lector de Tarjetas USB Robs](https://m.media-amazon.com/images/I/41EjFwjwUTL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B000RPE5PE/?tag=tolees-21)
 
 ℹ️:
 

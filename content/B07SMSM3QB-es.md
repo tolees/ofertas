@@ -2,7 +2,7 @@
 layout: post
 title: 'Planescape: Torment + Icewind Dale - Enh con un 27.27 % de descuento'
 date: 2020-01-10 21:27:17
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51z8q6u9wqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51z8q6u9wqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '39.685'
 
 En este momento está [Planescape: Torment + Icewind Dale - Enhanced Edition](https://www.amazon.es/dp/B07SMSM3QB/?tag=tolees-21) a 36.36 EUR (original: 49.99 EUR) (27.27 %  de descuento) en el siguiente enlace!
 
-[![Planescape: Torment + Icewind Dale - Enh](https://images-eu.ssl-images-amazon.com/images/I/51z8q6u9wqL._SL200_.jpg)](https://www.amazon.es/dp/B07SMSM3QB/?tag=tolees-21)
+[![Planescape: Torment + Icewind Dale - Enh](https://images-eu.ssl-images-amazon.com/images/I/51z8q6u9wqL._SL400_.jpg)](https://www.amazon.es/dp/B07SMSM3QB/?tag=tolees-21)
 
 🔎:
 

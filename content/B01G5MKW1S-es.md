@@ -2,7 +2,7 @@
 layout: post
 title: 'NANOSTAD Estadio Camp NOU LED Edition  F al 25.11 % de descuento'
 date: 2020-09-27 05:32:03
-image: 'https://m.media-amazon.com/images/I/41A8mRIcKBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41A8mRIcKBL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.95'
 
 Está [NANOSTAD Estadio Camp NOU LED Edition  FC Barcelona  Puzzle 3D  Producto Oficial Licenciado ](https://www.amazon.es/dp/B01G5MKW1S/?tag=tolees-21) con 25.11 de descuento por 29.95 EUR (original: 39.99 EUR) en el siguiente enlace!
 
-[![NANOSTAD Estadio Camp NOU LED Edition  F](https://m.media-amazon.com/images/I/41A8mRIcKBL._SL200_.jpg)](https://www.amazon.es/dp/B01G5MKW1S/?tag=tolees-21)
+[![NANOSTAD Estadio Camp NOU LED Edition  F](https://m.media-amazon.com/images/I/41A8mRIcKBL._SL400_.jpg)](https://www.amazon.es/dp/B01G5MKW1S/?tag=tolees-21)
 
 ℹ️:
 

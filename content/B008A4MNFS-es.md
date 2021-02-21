@@ -2,7 +2,7 @@
 layout: post
 title: 'HELLA 1F8 006 800-321 Faro de carretera  al 30.54 % de rebaja'
 date: 2020-07-30 18:29:53
-image: 'https://m.media-amazon.com/images/I/51w-nv6xk6L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51w-nv6xk6L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '36.37'
 
 Tienes [HELLA 1F8 006 800-321 Faro de carretera - Rallye 3000 - FF/Halógena - H1/W5W - 12V/24V - redondo - Ref. 37 5 - azul - montaje exterior - Lado mont.: izquierda/derecha](https://www.amazon.es/dp/B008A4MNFS/?tag=tolees-21) con precio final de  36.37 EUR (original: 52.36 EUR) (30.54 %  de rebaja) aqui!
 
-[![HELLA 1F8 006 800-321 Faro de carretera ](https://m.media-amazon.com/images/I/51w-nv6xk6L._SL200_.jpg)](https://www.amazon.es/dp/B008A4MNFS/?tag=tolees-21)
+[![HELLA 1F8 006 800-321 Faro de carretera ](https://m.media-amazon.com/images/I/51w-nv6xk6L._SL400_.jpg)](https://www.amazon.es/dp/B008A4MNFS/?tag=tolees-21)
 
 🔎:
 

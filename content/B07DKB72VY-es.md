@@ -2,7 +2,7 @@
 layout: post
 title: 'Kipling - Creativity Xl  Monederos Mujer al 50.00 % de descuento'
 date: 2020-02-06 13:08:49
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41dGIfe7HnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41dGIfe7HnL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.5'
 
 Ahora mismo tienes [Kipling - Creativity Xl  Monederos Mujer  Gris  Metallic Stony ](https://www.amazon.es/dp/B07DKB72VY/?tag=tolees-21) a 21.5 EUR (original: 43 EUR) (50.00 %  de descuento) en el siguiente enlace!
 
-[![Kipling - Creativity Xl  Monederos Mujer](https://images-eu.ssl-images-amazon.com/images/I/41dGIfe7HnL._SL200_.jpg)](https://www.amazon.es/dp/B07DKB72VY/?tag=tolees-21)
+[![Kipling - Creativity Xl  Monederos Mujer](https://images-eu.ssl-images-amazon.com/images/I/41dGIfe7HnL._SL400_.jpg)](https://www.amazon.es/dp/B07DKB72VY/?tag=tolees-21)
 
 🔎:
 

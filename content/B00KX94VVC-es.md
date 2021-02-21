@@ -2,7 +2,7 @@
 layout: post
 title: 'Fossil Joyas para Mujer JA6539791 al 43.59 % de rebaja'
 date: 2020-07-20 07:54:03
-image: 'https://m.media-amazon.com/images/I/41vqXwL6z+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41vqXwL6z+L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '22.0'
 
 Tienes [Fossil Joyas para Mujer JA6539791](https://www.amazon.es/dp/B00KX94VVC/?tag=tolees-21) con precio final de  22.0 EUR (original: 39.0 EUR) (43.59 %  de rebaja) aqui!
 
-[![Fossil Joyas para Mujer JA6539791](https://m.media-amazon.com/images/I/41vqXwL6z+L._SL200_.jpg)](https://www.amazon.es/dp/B00KX94VVC/?tag=tolees-21)
+[![Fossil Joyas para Mujer JA6539791](https://m.media-amazon.com/images/I/41vqXwL6z+L._SL400_.jpg)](https://www.amazon.es/dp/B00KX94VVC/?tag=tolees-21)
 
 🔎:
 

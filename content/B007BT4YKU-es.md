@@ -2,7 +2,7 @@
 layout: post
 title: 'Nike Core Items 3.0 Bolsa de Hombro  Neg al 50.20 % de rebaja'
 date: 2020-01-16 12:50:04
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51g3Z3iJrhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51g3Z3iJrhL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.369999999999997'
 
 Tienes [Nike Core Items 3.0 Bolsa de Hombro  Negro  Black/Black/Black   Talla única](https://www.amazon.es/dp/B007BT4YKU/?tag=tolees-21) con precio final de  12.45 EUR (original: 25 EUR) (50.20 %  de rebaja) aqui!
 
-[![Nike Core Items 3.0 Bolsa de Hombro  Neg](https://images-eu.ssl-images-amazon.com/images/I/51g3Z3iJrhL._SL200_.jpg)](https://www.amazon.es/dp/B007BT4YKU/?tag=tolees-21)
+[![Nike Core Items 3.0 Bolsa de Hombro  Neg](https://images-eu.ssl-images-amazon.com/images/I/51g3Z3iJrhL._SL400_.jpg)](https://www.amazon.es/dp/B007BT4YKU/?tag=tolees-21)
 
 🔎:
 

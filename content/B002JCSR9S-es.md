@@ -2,7 +2,7 @@
 layout: post
 title: 'Crocs Crocband Jaunt Women  Mujer Bota   al 53.33 % de rebaja'
 date: 2020-02-18 06:05:40
-image: 'https://m.media-amazon.com/images/I/314GwAb4NQL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/314GwAb4NQL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.33'
 
 Tienes [Crocs Crocband Jaunt Women  Mujer Bota  Negro  Black   34-35 EU](https://www.amazon.es/dp/B002JCSR9S/?tag=tolees-21) con precio final de  23.33 EUR (original: 49.99 EUR) (53.33 %  de rebaja) aqui!
 
-[![Crocs Crocband Jaunt Women  Mujer Bota  ](https://m.media-amazon.com/images/I/314GwAb4NQL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B002JCSR9S/?tag=tolees-21)
+[![Crocs Crocband Jaunt Women  Mujer Bota  ](https://m.media-amazon.com/images/I/314GwAb4NQL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B002JCSR9S/?tag=tolees-21)
 
 🔎:
 

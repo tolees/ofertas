@@ -2,7 +2,7 @@
 layout: post
 title: 'DIM Generous Sujetador  Blanco  105D par al 74.65 % de rebaja'
 date: 2020-02-24 21:26:03
-image: 'https://m.media-amazon.com/images/I/31oReIYzhwL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31oReIYzhwL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.0'
 
 Tienes [DIM Generous Sujetador  Blanco  105D para Mujer](https://www.amazon.es/dp/B005XMVVJ4/?tag=tolees-21) con precio final de  9.0 EUR (original: 35.5 EUR) (74.65 %  de rebaja) aqui!
 
-[![DIM Generous Sujetador  Blanco  105D par](https://m.media-amazon.com/images/I/31oReIYzhwL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B005XMVVJ4/?tag=tolees-21)
+[![DIM Generous Sujetador  Blanco  105D par](https://m.media-amazon.com/images/I/31oReIYzhwL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B005XMVVJ4/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Athletic Club B-04-AC Botella Aluminio   al 32.22 % de descuento'
 date: 2020-03-18 20:13:25
-image: 'https://m.media-amazon.com/images/I/31R5cJXpFDL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31R5cJXpFDL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.7'
 
 Ahora mismo tienes [Athletic Club B-04-AC Botella Aluminio  500 ml](https://www.amazon.es/dp/B07HMZL2J7/?tag=tolees-21) a 7.7 EUR (original: 11.36 EUR) (32.22 %  de descuento) en el siguiente enlace!
 
-[![Athletic Club B-04-AC Botella Aluminio  ](https://m.media-amazon.com/images/I/31R5cJXpFDL._SL200_.jpg)](https://www.amazon.es/dp/B07HMZL2J7/?tag=tolees-21)
+[![Athletic Club B-04-AC Botella Aluminio  ](https://m.media-amazon.com/images/I/31R5cJXpFDL._SL400_.jpg)](https://www.amazon.es/dp/B07HMZL2J7/?tag=tolees-21)
 
 🔎:
 

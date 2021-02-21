@@ -2,7 +2,7 @@
 layout: post
 title: 'Camin Sidra Natural de 6º - Paquete de 6 al 36.68 % de rebaja'
 date: 2020-03-08 11:29:38
-image: 'https://m.media-amazon.com/images/I/41e+tiGjn9L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41e+tiGjn9L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.72'
 
 Tienes [Camin Sidra Natural de 6º - Paquete de 6 botellas de 70 - Total 420 cl](https://www.amazon.es/dp/B07B59HS9C/?tag=tolees-21) con precio final de  12.72 EUR (original: 20.09 EUR) (36.68 %  de rebaja) aqui!
 
-[![Camin Sidra Natural de 6º - Paquete de 6](https://m.media-amazon.com/images/I/41e+tiGjn9L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07B59HS9C/?tag=tolees-21)
+[![Camin Sidra Natural de 6º - Paquete de 6](https://m.media-amazon.com/images/I/41e+tiGjn9L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07B59HS9C/?tag=tolees-21)
 
 🔎:
 

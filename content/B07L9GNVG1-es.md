@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour Accelerate Off-Pitch Pant P al 80.19 % de descuento'
 date: 2020-06-24 06:34:32
-image: 'https://m.media-amazon.com/images/I/31cJPEAmbNL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31cJPEAmbNL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.87'
 
 Está [Under Armour Accelerate Off-Pitch Pant Pantalones  Hombre  Negro  Black/Black/Metallic Black 001   XXL](https://www.amazon.es/dp/B07L9GNVG1/?tag=tolees-21) con 80.19 de descuento por 13.87 EUR (original: 70.0 EUR) en el siguiente enlace!
 
-[![Under Armour Accelerate Off-Pitch Pant P](https://m.media-amazon.com/images/I/31cJPEAmbNL._SL200_.jpg)](https://www.amazon.es/dp/B07L9GNVG1/?tag=tolees-21)
+[![Under Armour Accelerate Off-Pitch Pant P](https://m.media-amazon.com/images/I/31cJPEAmbNL._SL400_.jpg)](https://www.amazon.es/dp/B07L9GNVG1/?tag=tolees-21)
 
 ℹ️:
 

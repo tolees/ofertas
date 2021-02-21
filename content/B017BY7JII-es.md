@@ -2,7 +2,7 @@
 layout: post
 title: 'PURE RESVERATROL ANTI-OX 60 CAPS al 35.02 % de descuento'
 date: 2020-09-23 16:59:28
-image: 'https://m.media-amazon.com/images/I/51Fww2YvJVL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Fww2YvJVL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.53'
 
 Ahora mismo tienes [PURE RESVERATROL ANTI-OX 60 CAPS](https://www.amazon.es/dp/B017BY7JII/?tag=tolees-21) a 15.53 EUR (original: 23.9 EUR) (35.02 %  de descuento) en el siguiente enlace!
 
-[![PURE RESVERATROL ANTI-OX 60 CAPS](https://m.media-amazon.com/images/I/51Fww2YvJVL._SL200_.jpg)](https://www.amazon.es/dp/B017BY7JII/?tag=tolees-21)
+[![PURE RESVERATROL ANTI-OX 60 CAPS](https://m.media-amazon.com/images/I/51Fww2YvJVL._SL400_.jpg)](https://www.amazon.es/dp/B017BY7JII/?tag=tolees-21)
 
 🔎:
 

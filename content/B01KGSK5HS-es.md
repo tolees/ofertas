@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 38.29 % en Prada Linea Rossa - Desodorante spray l '
 date: 2020-03-16 20:39:44
-image: 'https://m.media-amazon.com/images/I/31oRXd+9b9L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31oRXd+9b9L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '37.91'
 
 Tienes [Prada Linea Rossa - Desodorante spray l homme prada](https://www.amazon.es/dp/B01KGSK5HS/?tag=tolees-21) con un 38.29 % de descuento con precio de oferta de 37.91 EUR (original: 61.43 EUR) en el siguiente enlace!
 
-[![Prada Linea Rossa - Desodorante spray l ](https://m.media-amazon.com/images/I/31oRXd+9b9L._SL200_.jpg)](https://www.amazon.es/dp/B01KGSK5HS/?tag=tolees-21)
+[![Prada Linea Rossa - Desodorante spray l ](https://m.media-amazon.com/images/I/31oRXd+9b9L._SL400_.jpg)](https://www.amazon.es/dp/B01KGSK5HS/?tag=tolees-21)
 
 ℹ️:
 

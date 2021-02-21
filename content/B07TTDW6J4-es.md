@@ -2,7 +2,7 @@
 layout: post
 title: 'Gant Leisha  Zapatillas para Mujer  Amar al 50.03 % de rebaja'
 date: 2020-09-29 20:24:50
-image: 'https://m.media-amazon.com/images/I/41G+Uvt1RPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41G+Uvt1RPL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '39.95'
 
 Tienes [Gant Leisha  Zapatillas para Mujer  Amarillo  Light Yellow G301   40 EU](https://www.amazon.es/dp/B07TTDW6J4/?tag=tolees-21) con precio final de  39.95 EUR (original: 79.95 EUR) (50.03 %  de rebaja) aqui!
 
-[![Gant Leisha  Zapatillas para Mujer  Amar](https://m.media-amazon.com/images/I/41G+Uvt1RPL._SL200_.jpg)](https://www.amazon.es/dp/B07TTDW6J4/?tag=tolees-21)
+[![Gant Leisha  Zapatillas para Mujer  Amar](https://m.media-amazon.com/images/I/41G+Uvt1RPL._SL400_.jpg)](https://www.amazon.es/dp/B07TTDW6J4/?tag=tolees-21)
 
 🔎:
 

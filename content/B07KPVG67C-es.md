@@ -2,7 +2,7 @@
 layout: post
 title: 'Tccmebius Externo Caja de disco duro Ada al 38.22 % de descuento'
 date: 2020-04-24 17:46:12
-image: 'https://m.media-amazon.com/images/I/417Gp9dFw4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/417Gp9dFw4L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.49'
 
 Ahora mismo tienes [Tccmebius Externo Caja de disco duro Adaptador USB 3.0 a SATA para 2.5 pulgadas 9.5mm 7mm SATA III HDD SSD Hasta 2TB  Sin herramientas  Soporte UASP y Función de sueño automático  TCC-S9 ](https://www.amazon.es/dp/B07KPVG67C/?tag=tolees-21) a 10.99 EUR (original: 17.79 EUR) (38.22 %  de descuento) en el siguiente enlace!
 
-[![Tccmebius Externo Caja de disco duro Ada](https://m.media-amazon.com/images/I/417Gp9dFw4L._SL200_.jpg)](https://www.amazon.es/dp/B07KPVG67C/?tag=tolees-21)
+[![Tccmebius Externo Caja de disco duro Ada](https://m.media-amazon.com/images/I/417Gp9dFw4L._SL400_.jpg)](https://www.amazon.es/dp/B07KPVG67C/?tag=tolees-21)
 
 🔎:
 

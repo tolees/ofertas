@@ -2,7 +2,7 @@
 layout: post
 title: 'FIFA 20 - Edición Legacy con un 60.97 % de descuento'
 date: 2020-08-24 14:35:45
-image: 'https://m.media-amazon.com/images/I/518rtYnBs4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/518rtYnBs4L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '28.59153846153846'
 
 En este momento está [FIFA 20 - Edición Legacy](https://www.amazon.es/dp/B07SXN53JY/?tag=tolees-21) a 19.9 EUR (original: 50.99 EUR) (60.97 %  de descuento) en el siguiente enlace!
 
-[![FIFA 20 - Edición Legacy](https://m.media-amazon.com/images/I/518rtYnBs4L._SL200_.jpg)](https://www.amazon.es/dp/B07SXN53JY/?tag=tolees-21)
+[![FIFA 20 - Edición Legacy](https://m.media-amazon.com/images/I/518rtYnBs4L._SL400_.jpg)](https://www.amazon.es/dp/B07SXN53JY/?tag=tolees-21)
 
 🔎:
 

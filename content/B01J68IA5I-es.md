@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 26.18 % en [casa.pro] Set de 2 tumbonas plegables 1'
 date: 2020-03-20 14:02:17
-image: 'https://m.media-amazon.com/images/I/41y7gtpPwmL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41y7gtpPwmL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '59.89'
 
 Tienes [[casa.pro] Set de 2 tumbonas plegables 190cm beige con parasol hamaca de acero para playa  jardín y piscina](https://www.amazon.es/dp/B01J68IA5I/?tag=tolees-21) con un 26.18 % de descuento con precio de oferta de 59.79 EUR (original: 80.99 EUR) en el siguiente enlace!
 
-[![[casa.pro] Set de 2 tumbonas plegables 1](https://m.media-amazon.com/images/I/41y7gtpPwmL._SL200_.jpg)](https://www.amazon.es/dp/B01J68IA5I/?tag=tolees-21)
+[![[casa.pro] Set de 2 tumbonas plegables 1](https://m.media-amazon.com/images/I/41y7gtpPwmL._SL400_.jpg)](https://www.amazon.es/dp/B01J68IA5I/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Flamenco Sala al 40.00 % de rebaja'
 date: 2020-02-27 16:33:27
-image: 'https://m.media-amazon.com/images/I/21P9yiwiVLL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21P9yiwiVLL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '32.475'
 
 Tienes [Flamenco Sala](https://www.amazon.es/dp/B07C5B54RH/?tag=tolees-21) con precio final de  38.97 EUR (original: 64.95 EUR) (40.00 %  de rebaja) aqui!
 
-[![Flamenco Sala](https://m.media-amazon.com/images/I/21P9yiwiVLL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07C5B54RH/?tag=tolees-21)
+[![Flamenco Sala](https://m.media-amazon.com/images/I/21P9yiwiVLL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07C5B54RH/?tag=tolees-21)
 
 🔎:
 

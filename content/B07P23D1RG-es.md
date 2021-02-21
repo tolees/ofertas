@@ -2,7 +2,7 @@
 layout: post
 title: 'Skechers Elite Flex  Zapatillas para Hom al 53.32 % de descuento'
 date: 2020-06-22 07:12:03
-image: 'https://m.media-amazon.com/images/I/41UyCVZ9Q5L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41UyCVZ9Q5L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '46.66'
 
 Está [Skechers Elite Flex  Zapatillas para Hombre  Azul  Navy Premium Wool/Synthetic/Metal/Trim Nvy   42.5 EU](https://www.amazon.es/dp/B07P23D1RG/?tag=tolees-21) con 53.32 de descuento por 46.66 EUR (original: 99.95 EUR) en el siguiente enlace!
 
-[![Skechers Elite Flex  Zapatillas para Hom](https://m.media-amazon.com/images/I/41UyCVZ9Q5L._SL200_.jpg)](https://www.amazon.es/dp/B07P23D1RG/?tag=tolees-21)
+[![Skechers Elite Flex  Zapatillas para Hom](https://m.media-amazon.com/images/I/41UyCVZ9Q5L._SL400_.jpg)](https://www.amazon.es/dp/B07P23D1RG/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'FMPC Carcasa con Cuerda Samsung Galaxy A al 70.23 % de descuento'
 date: 2020-06-10 16:34:04
-image: 'https://m.media-amazon.com/images/I/41dh1v03xlL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41dh1v03xlL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.9'
 
 Está [FMPC Carcasa con Cuerda Samsung Galaxy A50  Cristal TPU Silicona Transparente Ultrafina de movil Case con Colgante Funda Protector Airbag [Moda y Practico] Anti-rasguños Antichoque](https://www.amazon.es/dp/B085CCZ6KB/?tag=tolees-21) con 70.23 de descuento por 8.9 EUR (original: 29.9 EUR) en el siguiente enlace!
 
-[![FMPC Carcasa con Cuerda Samsung Galaxy A](https://m.media-amazon.com/images/I/41dh1v03xlL._SL200_.jpg)](https://www.amazon.es/dp/B085CCZ6KB/?tag=tolees-21)
+[![FMPC Carcasa con Cuerda Samsung Galaxy A](https://m.media-amazon.com/images/I/41dh1v03xlL._SL400_.jpg)](https://www.amazon.es/dp/B085CCZ6KB/?tag=tolees-21)
 
 ℹ️:
 

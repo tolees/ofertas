@@ -2,7 +2,7 @@
 layout: post
 title: 'Van&Fancy NA cobre White Cubic Zirconia al 56.08 % de rebaja'
 date: 2020-05-31 08:53:20
-image: 'https://m.media-amazon.com/images/I/41mEtY2jh-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41mEtY2jh-L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.3'
 
 Tienes [Van&Fancy NA cobre White Cubic Zirconia](https://www.amazon.es/dp/B07YFS9ZYX/?tag=tolees-21) con precio final de  10.3 EUR (original: 23.45 EUR) (56.08 %  de rebaja) aqui!
 
-[![Van&Fancy NA cobre White Cubic Zirconia](https://m.media-amazon.com/images/I/41mEtY2jh-L._SL200_.jpg)](https://www.amazon.es/dp/B07YFS9ZYX/?tag=tolees-21)
+[![Van&Fancy NA cobre White Cubic Zirconia](https://m.media-amazon.com/images/I/41mEtY2jh-L._SL400_.jpg)](https://www.amazon.es/dp/B07YFS9ZYX/?tag=tolees-21)
 
 🔎:
 

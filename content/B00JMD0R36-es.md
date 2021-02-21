@@ -2,7 +2,7 @@
 layout: post
 title: 'Canson 400787 - Papel Vegetal  12 Hojas al 43.68 % de descuento'
 date: 2020-04-05 17:52:16
-image: 'https://m.media-amazon.com/images/I/41xUPXK4VWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41xUPXK4VWL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.5'
 
 Está [Canson 400787 - Papel Vegetal  12 Hojas](https://www.amazon.es/dp/B00JMD0R36/?tag=tolees-21) con 43.68 de descuento por 4.5 EUR (original: 7.99 EUR) en el siguiente enlace!
 
-[![Canson 400787 - Papel Vegetal  12 Hojas](https://m.media-amazon.com/images/I/41xUPXK4VWL._SL200_.jpg)](https://www.amazon.es/dp/B00JMD0R36/?tag=tolees-21)
+[![Canson 400787 - Papel Vegetal  12 Hojas](https://m.media-amazon.com/images/I/41xUPXK4VWL._SL400_.jpg)](https://www.amazon.es/dp/B00JMD0R36/?tag=tolees-21)
 
 ℹ️:
 

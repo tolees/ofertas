@@ -2,7 +2,7 @@
 layout: post
 title: 'Maca Peruana Extracto Concentrado 4000 m al 42.64 % de descuento'
 date: 2020-05-18 06:38:33
-image: 'https://m.media-amazon.com/images/I/51nMQaRFmSL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51nMQaRFmSL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.62'
 
 Está [Maca Peruana Extracto Concentrado 4000 mg | 120 cápsulas vegetales | Incrementa los niveles de energía  la vitalidad y el rendimiento atlético  y ayuda al sistema inmunológico y al equilibrio hormonal](https://www.amazon.es/dp/B07JH16KPK/?tag=tolees-21) con 42.64 de descuento por 12.62 EUR (original: 22.0 EUR) en el siguiente enlace!
 
-[![Maca Peruana Extracto Concentrado 4000 m](https://m.media-amazon.com/images/I/51nMQaRFmSL._SL200_.jpg)](https://www.amazon.es/dp/B07JH16KPK/?tag=tolees-21)
+[![Maca Peruana Extracto Concentrado 4000 m](https://m.media-amazon.com/images/I/51nMQaRFmSL._SL400_.jpg)](https://www.amazon.es/dp/B07JH16KPK/?tag=tolees-21)
 
 ℹ️:
 

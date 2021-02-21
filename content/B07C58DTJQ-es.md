@@ -2,7 +2,7 @@
 layout: post
 title: 'Precision Kids con un 56.43 % de descuento'
 date: 2020-04-13 17:21:25
-image: 'https://m.media-amazon.com/images/I/21Nwl-d6eZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21Nwl-d6eZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '25.71'
 
 En este momento está [Precision Kids](https://www.amazon.es/dp/B07C58DTJQ/?tag=tolees-21) a 20.0 EUR (original: 45.9 EUR) (56.43 %  de descuento) en el siguiente enlace!
 
-[![Precision Kids](https://m.media-amazon.com/images/I/21Nwl-d6eZL._SL200_.jpg)](https://www.amazon.es/dp/B07C58DTJQ/?tag=tolees-21)
+[![Precision Kids](https://m.media-amazon.com/images/I/21Nwl-d6eZL._SL400_.jpg)](https://www.amazon.es/dp/B07C58DTJQ/?tag=tolees-21)
 
 🔎:
 

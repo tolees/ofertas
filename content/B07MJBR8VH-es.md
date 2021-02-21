@@ -2,7 +2,7 @@
 layout: post
 title: 'Hackett Lambswool V suéter   Navy 595    con un 26.32 % de descuento'
 date: 2020-03-20 13:34:15
-image: 'https://m.media-amazon.com/images/I/31FVgXwgIxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31FVgXwgIxL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.78'
 
 En este momento está [Hackett Lambswool V suéter   Navy 595   Small para Hombre](https://www.amazon.es/dp/B07MJBR8VH/?tag=tolees-21) a 24.78 EUR (original: 33.63 EUR) (26.32 %  de descuento) en el siguiente enlace!
 
-[![Hackett Lambswool V suéter   Navy 595   ](https://m.media-amazon.com/images/I/31FVgXwgIxL._SL200_.jpg)](https://www.amazon.es/dp/B07MJBR8VH/?tag=tolees-21)
+[![Hackett Lambswool V suéter   Navy 595   ](https://m.media-amazon.com/images/I/31FVgXwgIxL._SL400_.jpg)](https://www.amazon.es/dp/B07MJBR8VH/?tag=tolees-21)
 
 🔎:
 

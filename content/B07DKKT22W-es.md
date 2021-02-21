@@ -2,7 +2,7 @@
 layout: post
 title: 'Kipling - Arto S  Bolsos bandolera Mujer al 53.61 % de descuento'
 date: 2020-01-29 12:15:23
-image: 'https://m.media-amazon.com/images/I/51jY3Dp4-oL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51jY3Dp4-oL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '34.335'
 
 Ahora mismo tienes [Kipling - Arto S  Bolsos bandolera Mujer  Rojo  Active Red ](https://www.amazon.es/dp/B07DKKT22W/?tag=tolees-21) a 27.37 EUR (original: 59.0 EUR) (53.61 %  de descuento) en el siguiente enlace!
 
-[![Kipling - Arto S  Bolsos bandolera Mujer](https://m.media-amazon.com/images/I/51jY3Dp4-oL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07DKKT22W/?tag=tolees-21)
+[![Kipling - Arto S  Bolsos bandolera Mujer](https://m.media-amazon.com/images/I/51jY3Dp4-oL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07DKKT22W/?tag=tolees-21)
 
 🔎:
 

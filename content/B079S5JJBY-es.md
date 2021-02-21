@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 35.29 % en Martina Home Ribera Cubre Chaise Longue '
 date: 2020-08-31 20:28:26
-image: 'https://m.media-amazon.com/images/I/4103SwoqqVL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/4103SwoqqVL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '31.01'
 
 Tienes [Martina Home Ribera Cubre Chaise Longue  Brazo Izquierdo  Tela  Rojo  240 CM](https://www.amazon.es/dp/B079S5JJBY/?tag=tolees-21) con un 35.29 % de descuento con precio de oferta de 31.01 EUR (original: 47.92 EUR) en el siguiente enlace!
 
-[![Martina Home Ribera Cubre Chaise Longue ](https://m.media-amazon.com/images/I/4103SwoqqVL._SL200_.jpg)](https://www.amazon.es/dp/B079S5JJBY/?tag=tolees-21)
+[![Martina Home Ribera Cubre Chaise Longue ](https://m.media-amazon.com/images/I/4103SwoqqVL._SL400_.jpg)](https://www.amazon.es/dp/B079S5JJBY/?tag=tolees-21)
 
 ℹ️:
 

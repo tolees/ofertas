@@ -2,7 +2,7 @@
 layout: post
 title: 'LK Protector de Pantalla para Xiaomi Not al 25.02 % de rebaja'
 date: 2020-08-18 10:12:55
-image: 'https://m.media-amazon.com/images/I/51bMkQa92fL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51bMkQa92fL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.99'
 
 Tienes [LK Protector de Pantalla para Xiaomi Note 10 Lite Protector Pantalla [3 Piezas] [Admite la función de Huella Digital] [Película Protectora de TPU][Alta Definición y Sensibilidad]](https://www.amazon.es/dp/B088KDQP4K/?tag=tolees-21) con precio final de  8.99 EUR (original: 11.99 EUR) (25.02 %  de rebaja) aqui!
 
-[![LK Protector de Pantalla para Xiaomi Not](https://m.media-amazon.com/images/I/51bMkQa92fL._SL200_.jpg)](https://www.amazon.es/dp/B088KDQP4K/?tag=tolees-21)
+[![LK Protector de Pantalla para Xiaomi Not](https://m.media-amazon.com/images/I/51bMkQa92fL._SL400_.jpg)](https://www.amazon.es/dp/B088KDQP4K/?tag=tolees-21)
 
 🔎:
 

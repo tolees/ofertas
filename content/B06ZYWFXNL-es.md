@@ -2,7 +2,7 @@
 layout: post
 title: 'Speedo Teamster 35L Mochilas y Bolsas  U al 50.71 % de descuento'
 date: 2020-07-12 18:51:18
-image: 'https://m.media-amazon.com/images/I/51fwka3uhVL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51fwka3uhVL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '45.39666666666666'
 
 Está [Speedo Teamster 35L Mochilas y Bolsas  Unisex Adulto  navy/red/white  M](https://www.amazon.es/dp/B06ZYWFXNL/?tag=tolees-21) con 50.71 de descuento por 40.37 EUR (original: 81.9 EUR) en el siguiente enlace!
 
-[![Speedo Teamster 35L Mochilas y Bolsas  U](https://m.media-amazon.com/images/I/51fwka3uhVL._SL200_.jpg)](https://www.amazon.es/dp/B06ZYWFXNL/?tag=tolees-21)
+[![Speedo Teamster 35L Mochilas y Bolsas  U](https://m.media-amazon.com/images/I/51fwka3uhVL._SL400_.jpg)](https://www.amazon.es/dp/B06ZYWFXNL/?tag=tolees-21)
 
 ℹ️:
 

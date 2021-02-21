@@ -2,7 +2,7 @@
 layout: post
 title: 'Proyector  WiMiUS 5500 Lúmenes Proyector al 44.97 % de rebaja'
 date: 2020-07-26 10:28:31
-image: 'https://m.media-amazon.com/images/I/41Pr7N4C7GL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Pr7N4C7GL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '93.73333333333332'
 
 Tienes [Proyector  WiMiUS 5500 Lúmenes Proyector Portátil Full HD Soporta 1080P Proyector Cine en casa 720P Nativo con Audio Hi-Fi Pantalla 200 " Mini Video Proyector LED 60000 Horas HDMI/VGA/AV/ TF/USB](https://www.amazon.es/dp/B082KMQ9HL/?tag=tolees-21) con precio final de  88.05 EUR (original: 159.99 EUR) (44.97 %  de rebaja) aqui!
 
-[![Proyector  WiMiUS 5500 Lúmenes Proyector](https://m.media-amazon.com/images/I/41Pr7N4C7GL._SL200_.jpg)](https://www.amazon.es/dp/B082KMQ9HL/?tag=tolees-21)
+[![Proyector  WiMiUS 5500 Lúmenes Proyector](https://m.media-amazon.com/images/I/41Pr7N4C7GL._SL400_.jpg)](https://www.amazon.es/dp/B082KMQ9HL/?tag=tolees-21)
 
 🔎:
 

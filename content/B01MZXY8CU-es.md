@@ -2,7 +2,7 @@
 layout: post
 title: 'Puma Basket Heart Patent  Zapatillas par con un 47.42 % de descuento'
 date: 2020-02-07 18:54:31
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41SthdniBHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41SthdniBHL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '47.3'
 
 En este momento está [Puma Basket Heart Patent  Zapatillas para Mujer  Negro Black  38.5 EU](https://www.amazon.es/dp/B01MZXY8CU/?tag=tolees-21) a 47.3 EUR (original: 89.95 EUR) (47.42 %  de descuento) en el siguiente enlace!
 
-[![Puma Basket Heart Patent  Zapatillas par](https://images-eu.ssl-images-amazon.com/images/I/41SthdniBHL._SL200_.jpg)](https://www.amazon.es/dp/B01MZXY8CU/?tag=tolees-21)
+[![Puma Basket Heart Patent  Zapatillas par](https://images-eu.ssl-images-amazon.com/images/I/41SthdniBHL._SL400_.jpg)](https://www.amazon.es/dp/B01MZXY8CU/?tag=tolees-21)
 
 🔎:
 

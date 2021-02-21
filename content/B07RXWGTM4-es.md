@@ -2,7 +2,7 @@
 layout: post
 title: 'Diesel ShoesDiscover-me OderzoHombreCart al 72.30 % de rebaja'
 date: 2020-07-28 08:50:34
-image: 'https://m.media-amazon.com/images/I/417XkHIOWOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/417XkHIOWOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.39'
 
 Tienes [Diesel ShoesDiscover-me OderzoHombreCarterasAzul  Blue Nights  1x22x18 centimeters  W x H x L ](https://www.amazon.es/dp/B07RXWGTM4/?tag=tolees-21) con precio final de  19.39 EUR (original: 70.0 EUR) (72.30 %  de rebaja) aqui!
 
-[![Diesel ShoesDiscover-me OderzoHombreCart](https://m.media-amazon.com/images/I/417XkHIOWOL._SL200_.jpg)](https://www.amazon.es/dp/B07RXWGTM4/?tag=tolees-21)
+[![Diesel ShoesDiscover-me OderzoHombreCart](https://m.media-amazon.com/images/I/417XkHIOWOL._SL400_.jpg)](https://www.amazon.es/dp/B07RXWGTM4/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Bourjois Velvet Barra de Labios Líquida  al 89.62 % de descuento'
 date: 2020-09-21 12:00:32
-image: 'https://m.media-amazon.com/images/I/41x2qfiQ6eL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41x2qfiQ6eL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.203333333333333'
 
 Está [Bourjois Velvet Barra de Labios Líquida Tono 32 Trop brunché - 28 gr  29101273032 ](https://www.amazon.es/dp/B079CFV6XH/?tag=tolees-21) con 89.62 de descuento por 1.0 EUR (original: 9.63 EUR) en el siguiente enlace!
 
-[![Bourjois Velvet Barra de Labios Líquida ](https://m.media-amazon.com/images/I/41x2qfiQ6eL._SL200_.jpg)](https://www.amazon.es/dp/B079CFV6XH/?tag=tolees-21)
+[![Bourjois Velvet Barra de Labios Líquida ](https://m.media-amazon.com/images/I/41x2qfiQ6eL._SL400_.jpg)](https://www.amazon.es/dp/B079CFV6XH/?tag=tolees-21)
 
 ℹ️:
 

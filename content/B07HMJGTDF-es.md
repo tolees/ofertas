@@ -2,7 +2,7 @@
 layout: post
 title: 'Nike W Air Zoom Structure 22  Zapatillas al 42.14 % de descuento'
 date: 2020-01-20 17:59:47
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41h1RofyTkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41h1RofyTkL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '68.8'
 
 Ahora mismo tienes [Nike W Air Zoom Structure 22  Zapatillas de Running para Mujer  Negro  Black/White/Gridiron 002   41 EU](https://www.amazon.es/dp/B07HMJGTDF/?tag=tolees-21) a 68.8 EUR (original: 118.91 EUR) (42.14 %  de descuento) en el siguiente enlace!
 
-[![Nike W Air Zoom Structure 22  Zapatillas](https://images-eu.ssl-images-amazon.com/images/I/41h1RofyTkL._SL200_.jpg)](https://www.amazon.es/dp/B07HMJGTDF/?tag=tolees-21)
+[![Nike W Air Zoom Structure 22  Zapatillas](https://images-eu.ssl-images-amazon.com/images/I/41h1RofyTkL._SL400_.jpg)](https://www.amazon.es/dp/B07HMJGTDF/?tag=tolees-21)
 
 🔎:
 

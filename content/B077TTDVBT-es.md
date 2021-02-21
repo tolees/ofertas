@@ -2,7 +2,7 @@
 layout: post
 title: 'Reebok Work N Cushion 3.0  Zapatillas pa al 40.00 % de descuento'
 date: 2020-01-16 00:33:43
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41jJHgf4XfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41jJHgf4XfL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '27.575'
 
 Ahora mismo tienes [Reebok Work N Cushion 3.0  Zapatillas para Mujer  Negro  Black 0   37.5 EU](https://www.amazon.es/dp/B077TTDVBT/?tag=tolees-21) a 29.97 EUR (original: 49.95 EUR) (40.00 %  de descuento) en el siguiente enlace!
 
-[![Reebok Work N Cushion 3.0  Zapatillas pa](https://images-eu.ssl-images-amazon.com/images/I/41jJHgf4XfL._SL200_.jpg)](https://www.amazon.es/dp/B077TTDVBT/?tag=tolees-21)
+[![Reebok Work N Cushion 3.0  Zapatillas pa](https://images-eu.ssl-images-amazon.com/images/I/41jJHgf4XfL._SL400_.jpg)](https://www.amazon.es/dp/B077TTDVBT/?tag=tolees-21)
 
 🔎:
 

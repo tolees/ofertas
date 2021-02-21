@@ -2,7 +2,7 @@
 layout: post
 title: 'HP 304 - Cartucho de tóner Original HP 3 al 59.03 % de descuento'
 date: 2020-02-22 15:07:32
-image: 'https://m.media-amazon.com/images/I/41Wib+cdRSL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Wib+cdRSL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '75.0'
 
 Está [HP 304 - Cartucho de tóner Original HP 304A Amarillo para HP Color LaserJet CP2025  CM2320mfp](https://www.amazon.es/dp/B001DXKGKM/?tag=tolees-21) con 59.03 de descuento por 75.0 EUR (original: 183.07 EUR) en el siguiente enlace!
 
-[![HP 304 - Cartucho de tóner Original HP 3](https://m.media-amazon.com/images/I/41Wib+cdRSL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B001DXKGKM/?tag=tolees-21)
+[![HP 304 - Cartucho de tóner Original HP 3](https://m.media-amazon.com/images/I/41Wib+cdRSL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B001DXKGKM/?tag=tolees-21)
 
 ℹ️:
 

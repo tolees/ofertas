@@ -2,7 +2,7 @@
 layout: post
 title: 'Columbia Fairbanks Omni-Heat  Bota de In al 36.16 % de descuento'
 date: 2020-08-31 12:02:56
-image: 'https://m.media-amazon.com/images/I/41Vw7RW3fzL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Vw7RW3fzL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '81.32666666666667'
 
 Está [Columbia Fairbanks Omni-Heat  Bota de Invierno para Hombre  Negro  Black  Rusty   43 1/2 EU](https://www.amazon.es/dp/B01MQWI1CQ/?tag=tolees-21) con 36.16 de descuento por 82.99 EUR (original: 129.99 EUR) en el siguiente enlace!
 
-[![Columbia Fairbanks Omni-Heat  Bota de In](https://m.media-amazon.com/images/I/41Vw7RW3fzL._SL200_.jpg)](https://www.amazon.es/dp/B01MQWI1CQ/?tag=tolees-21)
+[![Columbia Fairbanks Omni-Heat  Bota de In](https://m.media-amazon.com/images/I/41Vw7RW3fzL._SL400_.jpg)](https://www.amazon.es/dp/B01MQWI1CQ/?tag=tolees-21)
 
 ℹ️:
 

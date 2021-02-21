@@ -2,7 +2,7 @@
 layout: post
 title: 'Pnakqil Funda Xiaomi Redmi Note 8T Trans al 33.37 % de descuento'
 date: 2020-05-28 09:34:25
-image: 'https://m.media-amazon.com/images/I/51CCYM-Is4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51CCYM-Is4L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.99'
 
 Ahora mismo tienes [Pnakqil Funda Xiaomi Redmi Note 8T Transparente Silicona con Dibujos Carcasa Ultrafina Suave Gel TPU Piel Bumper [Antigolpes] Protectora Case Cover para Xiaomi Redmi Note8T  Flor Blanca](https://www.amazon.es/dp/B0825LRWD7/?tag=tolees-21) a 5.99 EUR (original: 8.99 EUR) (33.37 %  de descuento) en el siguiente enlace!
 
-[![Pnakqil Funda Xiaomi Redmi Note 8T Trans](https://m.media-amazon.com/images/I/51CCYM-Is4L._SL200_.jpg)](https://www.amazon.es/dp/B0825LRWD7/?tag=tolees-21)
+[![Pnakqil Funda Xiaomi Redmi Note 8T Trans](https://m.media-amazon.com/images/I/51CCYM-Is4L._SL400_.jpg)](https://www.amazon.es/dp/B0825LRWD7/?tag=tolees-21)
 
 🔎:
 

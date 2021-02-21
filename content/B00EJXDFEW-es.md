@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 46.54 % en Skagen Reloj de Pulsera SKW2076'
 date: 2020-04-08 18:41:39
-image: 'https://m.media-amazon.com/images/I/4174wOAr75L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/4174wOAr75L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '86.3'
 
 Tienes [Skagen Reloj de Pulsera SKW2076](https://www.amazon.es/dp/B00EJXDFEW/?tag=tolees-21) con un 46.54 % de descuento con precio de oferta de 85.0 EUR (original: 159.0 EUR) en el siguiente enlace!
 
-[![Skagen Reloj de Pulsera SKW2076](https://m.media-amazon.com/images/I/4174wOAr75L._SL200_.jpg)](https://www.amazon.es/dp/B00EJXDFEW/?tag=tolees-21)
+[![Skagen Reloj de Pulsera SKW2076](https://m.media-amazon.com/images/I/4174wOAr75L._SL400_.jpg)](https://www.amazon.es/dp/B00EJXDFEW/?tag=tolees-21)
 
 ℹ️:
 

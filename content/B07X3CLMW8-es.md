@@ -2,7 +2,7 @@
 layout: post
 title: 'Leathlux Funda Xiaomi Redmi Note 8 Pro + con un 25.02 % de descuento'
 date: 2020-05-28 08:55:42
-image: 'https://m.media-amazon.com/images/I/41FVJAZNSTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41FVJAZNSTL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.99'
 
 En este momento está [Leathlux Funda Xiaomi Redmi Note 8 Pro + 2 x Protector de Pantalla Xiaomi Redmi Note 8 Pro  Transparente TPU Silicona Funda + Cristal Vidrio Templado Protector de Pantalla y Carcasas Redmi Note 8 Pro](https://www.amazon.es/dp/B07X3CLMW8/?tag=tolees-21) a 8.99 EUR (original: 11.99 EUR) (25.02 %  de descuento) en el siguiente enlace!
 
-[![Leathlux Funda Xiaomi Redmi Note 8 Pro +](https://m.media-amazon.com/images/I/41FVJAZNSTL._SL200_.jpg)](https://www.amazon.es/dp/B07X3CLMW8/?tag=tolees-21)
+[![Leathlux Funda Xiaomi Redmi Note 8 Pro +](https://m.media-amazon.com/images/I/41FVJAZNSTL._SL400_.jpg)](https://www.amazon.es/dp/B07X3CLMW8/?tag=tolees-21)
 
 🔎:
 

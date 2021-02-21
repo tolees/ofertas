@@ -2,7 +2,7 @@
 layout: post
 title: 'Victoria S Secret  Brillo corporal - 0.2 al 94.44 % de descuento'
 date: 2020-03-14 22:30:29
-image: 'https://m.media-amazon.com/images/I/316uwSXlMAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/316uwSXlMAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.0'
 
 Está [Victoria S Secret  Brillo corporal - 0.25 l](https://www.amazon.es/dp/B00AGIVI16/?tag=tolees-21) con 94.44 de descuento por 1.0 EUR (original: 18.0 EUR) en el siguiente enlace!
 
-[![Victoria S Secret  Brillo corporal - 0.2](https://m.media-amazon.com/images/I/316uwSXlMAL._SL200_.jpg)](https://www.amazon.es/dp/B00AGIVI16/?tag=tolees-21)
+[![Victoria S Secret  Brillo corporal - 0.2](https://m.media-amazon.com/images/I/316uwSXlMAL._SL400_.jpg)](https://www.amazon.es/dp/B00AGIVI16/?tag=tolees-21)
 
 ℹ️:
 

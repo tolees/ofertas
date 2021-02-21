@@ -2,7 +2,7 @@
 layout: post
 title: 'AIRENA USB Bluetooth Nano Adaptador Stic al 47.09 % de descuento'
 date: 2020-09-01 09:35:24
-image: 'https://m.media-amazon.com/images/I/41-jSNHm9wL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41-jSNHm9wL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.823333333333334'
 
 Está [AIRENA USB Bluetooth Nano Adaptador Stick Dongle para PC con Windows 10  8  7  XP  Vista | Plug & Play | Insertar & Uno chlaten  admite BT Auriculares  Altavoces  Ratones  Teclado  etc.](https://www.amazon.es/dp/B078JNSW1G/?tag=tolees-21) con 47.09 de descuento por 8.99 EUR (original: 16.99 EUR) en el siguiente enlace!
 
-[![AIRENA USB Bluetooth Nano Adaptador Stic](https://m.media-amazon.com/images/I/41-jSNHm9wL._SL200_.jpg)](https://www.amazon.es/dp/B078JNSW1G/?tag=tolees-21)
+[![AIRENA USB Bluetooth Nano Adaptador Stic](https://m.media-amazon.com/images/I/41-jSNHm9wL._SL400_.jpg)](https://www.amazon.es/dp/B078JNSW1G/?tag=tolees-21)
 
 ℹ️:
 

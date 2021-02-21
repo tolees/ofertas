@@ -2,7 +2,7 @@
 layout: post
 title: 'Merrell Zapatillas J73703 Smooth Black al 34.74 % de descuento'
 date: 2020-08-01 03:08:08
-image: 'https://m.media-amazon.com/images/I/411qL92+BEL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/411qL92+BEL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '86.82333333333334'
 
 Está [Merrell Zapatillas J73703 Smooth Black](https://www.amazon.es/dp/B001FQIXDO/?tag=tolees-21) con 34.74 de descuento por 88.1 EUR (original: 135.0 EUR) en el siguiente enlace!
 
-[![Merrell Zapatillas J73703 Smooth Black](https://m.media-amazon.com/images/I/411qL92+BEL._SL200_.jpg)](https://www.amazon.es/dp/B001FQIXDO/?tag=tolees-21)
+[![Merrell Zapatillas J73703 Smooth Black](https://m.media-amazon.com/images/I/411qL92+BEL._SL400_.jpg)](https://www.amazon.es/dp/B001FQIXDO/?tag=tolees-21)
 
 ℹ️:
 

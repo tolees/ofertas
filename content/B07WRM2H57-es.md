@@ -2,7 +2,7 @@
 layout: post
 title: 'The Yakuza Remastered Collection al 25.59 % de descuento'
 date: 2020-07-15 19:07:35
-image: 'https://m.media-amazon.com/images/I/31ogAKH943L._SL500_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31ogAKH943L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '51.82363636363637'
 
 Ahora mismo tienes [The Yakuza Remastered Collection](https://www.amazon.es/dp/B07WRM2H57/?tag=tolees-21) a 44.64 EUR (original: 59.99 EUR) (25.59 %  de descuento) en el siguiente enlace!
 
-[![The Yakuza Remastered Collection](https://m.media-amazon.com/images/I/31ogAKH943L._SL500_._SL200_.jpg)](https://www.amazon.es/dp/B07WRM2H57/?tag=tolees-21)
+[![The Yakuza Remastered Collection](https://m.media-amazon.com/images/I/31ogAKH943L._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07WRM2H57/?tag=tolees-21)
 
 🔎:
 

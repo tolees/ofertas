@@ -2,7 +2,7 @@
 layout: post
 title: 'didisky 2 unidades LED linterna  5 modos con un 45.48 % de descuento'
 date: 2020-08-17 20:01:17
-image: 'https://m.media-amazon.com/images/I/51x9O5lPoQL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51x9O5lPoQL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.967777777777778'
 
 En este momento está [didisky 2 unidades LED linterna  5 modos enfoque ajustable de bolsillo CREE linterna LED  IP65  resistente al agua  3 x AAA Pilas no incluidas ](https://www.amazon.es/dp/B073TVCGLC/?tag=tolees-21) a 11.99 EUR (original: 21.99 EUR) (45.48 %  de descuento) en el siguiente enlace!
 
-[![didisky 2 unidades LED linterna  5 modos](https://m.media-amazon.com/images/I/51x9O5lPoQL._SL200_.jpg)](https://www.amazon.es/dp/B073TVCGLC/?tag=tolees-21)
+[![didisky 2 unidades LED linterna  5 modos](https://m.media-amazon.com/images/I/51x9O5lPoQL._SL400_.jpg)](https://www.amazon.es/dp/B073TVCGLC/?tag=tolees-21)
 
 🔎:
 

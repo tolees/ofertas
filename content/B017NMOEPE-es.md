@@ -2,7 +2,7 @@
 layout: post
 title: 'VS Venta-stock Consola/Mueble recibidor  al 46.03 % de descuento'
 date: 2020-07-19 14:12:12
-image: 'https://m.media-amazon.com/images/I/41IczGJgkvL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41IczGJgkvL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '128.99'
 
 Ahora mismo tienes [VS Venta-stock Consola/Mueble recibidor de 3C en Color Blanco con Patas de Madera Maciza](https://www.amazon.es/dp/B017NMOEPE/?tag=tolees-21) a 128.99 EUR (original: 239.0 EUR) (46.03 %  de descuento) en el siguiente enlace!
 
-[![VS Venta-stock Consola/Mueble recibidor ](https://m.media-amazon.com/images/I/41IczGJgkvL._SL200_.jpg)](https://www.amazon.es/dp/B017NMOEPE/?tag=tolees-21)
+[![VS Venta-stock Consola/Mueble recibidor ](https://m.media-amazon.com/images/I/41IczGJgkvL._SL400_.jpg)](https://www.amazon.es/dp/B017NMOEPE/?tag=tolees-21)
 
 🔎:
 

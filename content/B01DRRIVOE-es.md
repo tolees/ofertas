@@ -2,7 +2,7 @@
 layout: post
 title: 'Quantum Abacus Juego de Mesa magnético   al 33.35 % de descuento'
 date: 2020-06-09 13:03:05
-image: 'https://m.media-amazon.com/images/I/41pUajeDceL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41pUajeDceL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.99'
 
 Está [Quantum Abacus Juego de Mesa magnético  tamaño Compacto de Viaje : Ajedrez - Piezas magnéticas  Tablero Plegable  20x20x2cm  Mod. SC5477  DE ](https://www.amazon.es/dp/B01DRRIVOE/?tag=tolees-21) con 33.35 de descuento por 11.99 EUR (original: 17.99 EUR) en el siguiente enlace!
 
-[![Quantum Abacus Juego de Mesa magnético  ](https://m.media-amazon.com/images/I/41pUajeDceL._SL200_.jpg)](https://www.amazon.es/dp/B01DRRIVOE/?tag=tolees-21)
+[![Quantum Abacus Juego de Mesa magnético  ](https://m.media-amazon.com/images/I/41pUajeDceL._SL400_.jpg)](https://www.amazon.es/dp/B01DRRIVOE/?tag=tolees-21)
 
 ℹ️:
 

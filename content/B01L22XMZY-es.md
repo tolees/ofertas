@@ -2,7 +2,7 @@
 layout: post
 title: 'EVOWHEY PROTEIN 2.0  Chocolate  2Kg  al 38.09 % de descuento'
 date: 2020-09-09 17:35:47
-image: 'https://m.media-amazon.com/images/I/41shvluVolL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41shvluVolL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.75'
 
 Ahora mismo tienes [EVOWHEY PROTEIN 2.0  Chocolate  2Kg ](https://www.amazon.es/dp/B01L22XMZY/?tag=tolees-21) a 19.75 EUR (original: 31.9 EUR) (38.09 %  de descuento) en el siguiente enlace!
 
-[![EVOWHEY PROTEIN 2.0  Chocolate  2Kg ](https://m.media-amazon.com/images/I/41shvluVolL._SL200_.jpg)](https://www.amazon.es/dp/B01L22XMZY/?tag=tolees-21)
+[![EVOWHEY PROTEIN 2.0  Chocolate  2Kg ](https://m.media-amazon.com/images/I/41shvluVolL._SL400_.jpg)](https://www.amazon.es/dp/B01L22XMZY/?tag=tolees-21)
 
 🔎:
 

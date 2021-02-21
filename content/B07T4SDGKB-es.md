@@ -2,7 +2,7 @@
 layout: post
 title: 'Nike Women s Revolution 4 Running Shoe   al 35.10 % de rebaja'
 date: 2020-01-15 11:28:51
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41797%2BD2YwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41797%2BD2YwL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '32.45'
 
 Tienes [Nike Women s Revolution 4 Running Shoe  Mujer  Azul  Half Blue/Black/Wolf Grey/White 407   38 EU](https://www.amazon.es/dp/B07T4SDGKB/?tag=tolees-21) con precio final de  32.45 EUR (original: 50 EUR) (35.10 %  de rebaja) aqui!
 
-[![Nike Women s Revolution 4 Running Shoe  ](https://images-eu.ssl-images-amazon.com/images/I/41797%2BD2YwL._SL200_.jpg)](https://www.amazon.es/dp/B07T4SDGKB/?tag=tolees-21)
+[![Nike Women s Revolution 4 Running Shoe  ](https://images-eu.ssl-images-amazon.com/images/I/41797%2BD2YwL._SL400_.jpg)](https://www.amazon.es/dp/B07T4SDGKB/?tag=tolees-21)
 
 🔎:
 

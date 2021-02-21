@@ -2,7 +2,7 @@
 layout: post
 title: 'Gant Hightown  Zapatillas para Hombre  R al 35.02 % de rebaja'
 date: 2020-07-08 07:09:23
-image: 'https://m.media-amazon.com/images/I/41eWWlYjDxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41eWWlYjDxL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '64.95'
 
 Tienes [Gant Hightown  Zapatillas para Hombre  Rojo  Bright Red G518   44 EU](https://www.amazon.es/dp/B07TTDW9PN/?tag=tolees-21) con precio final de  64.95 EUR (original: 99.95 EUR) (35.02 %  de rebaja) aqui!
 
-[![Gant Hightown  Zapatillas para Hombre  R](https://m.media-amazon.com/images/I/41eWWlYjDxL._SL200_.jpg)](https://www.amazon.es/dp/B07TTDW9PN/?tag=tolees-21)
+[![Gant Hightown  Zapatillas para Hombre  R](https://m.media-amazon.com/images/I/41eWWlYjDxL._SL400_.jpg)](https://www.amazon.es/dp/B07TTDW9PN/?tag=tolees-21)
 
 🔎:
 

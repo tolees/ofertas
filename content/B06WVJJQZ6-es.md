@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas Crazymove Studio  Zapatillas de D al 88.31 % de descuento'
 date: 2020-07-19 09:32:32
-image: 'https://m.media-amazon.com/images/I/41cnDJo5+IL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41cnDJo5+IL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.01'
 
 Está [adidas Crazymove Studio  Zapatillas de Deporte Interior para Mujer  Azul  Utiblu/Cblack/Ftwwht   41 EU](https://www.amazon.es/dp/B06WVJJQZ6/?tag=tolees-21) con 88.31 de descuento por 7.01 EUR (original: 59.95 EUR) en el siguiente enlace!
 
-[![adidas Crazymove Studio  Zapatillas de D](https://m.media-amazon.com/images/I/41cnDJo5+IL._SL200_.jpg)](https://www.amazon.es/dp/B06WVJJQZ6/?tag=tolees-21)
+[![adidas Crazymove Studio  Zapatillas de D](https://m.media-amazon.com/images/I/41cnDJo5+IL._SL400_.jpg)](https://www.amazon.es/dp/B06WVJJQZ6/?tag=tolees-21)
 
 ℹ️:
 

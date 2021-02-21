@@ -2,7 +2,7 @@
 layout: post
 title: 'Buffalo Fierce P1  Zapatillas Altas para al 43.16 % de descuento'
 date: 2020-04-10 17:39:41
-image: 'https://m.media-amazon.com/images/I/412JTSDP89L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/412JTSDP89L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '56.78'
 
 Está [Buffalo Fierce P1  Zapatillas Altas para Mujer  Multicolor  Multi 000   41 EU](https://www.amazon.es/dp/B07T1LTCNG/?tag=tolees-21) con 43.16 de descuento por 56.78 EUR (original: 99.9 EUR) en el siguiente enlace!
 
-[![Buffalo Fierce P1  Zapatillas Altas para](https://m.media-amazon.com/images/I/412JTSDP89L._SL200_.jpg)](https://www.amazon.es/dp/B07T1LTCNG/?tag=tolees-21)
+[![Buffalo Fierce P1  Zapatillas Altas para](https://m.media-amazon.com/images/I/412JTSDP89L._SL400_.jpg)](https://www.amazon.es/dp/B07T1LTCNG/?tag=tolees-21)
 
 ℹ️:
 

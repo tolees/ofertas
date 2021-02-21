@@ -2,7 +2,7 @@
 layout: post
 title: 'JEEUE 4PCS TV Antena Macho Coaxial Enchu al 72.63 % de descuento'
 date: 2020-02-19 14:02:49
-image: 'https://m.media-amazon.com/images/I/51JEwWv026L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51JEwWv026L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.99'
 
 Ahora mismo tienes [JEEUE 4PCS TV Antena Macho Coaxial Enchufe a Enchufe F Conector Adaptador en ángulo recto de 90 grados](https://www.amazon.es/dp/B07Y4B87CG/?tag=tolees-21) a 6.99 EUR (original: 25.54 EUR) (72.63 %  de descuento) en el siguiente enlace!
 
-[![JEEUE 4PCS TV Antena Macho Coaxial Enchu](https://m.media-amazon.com/images/I/51JEwWv026L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07Y4B87CG/?tag=tolees-21)
+[![JEEUE 4PCS TV Antena Macho Coaxial Enchu](https://m.media-amazon.com/images/I/51JEwWv026L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07Y4B87CG/?tag=tolees-21)
 
 🔎:
 

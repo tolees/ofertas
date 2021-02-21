@@ -2,7 +2,7 @@
 layout: post
 title: 'Fitbit Versa Lite - Reloj Deportivo Smar al 40.01 % de rebaja'
 date: 2020-08-03 10:35:29
-image: 'https://m.media-amazon.com/images/I/31sz2cuIuxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31sz2cuIuxL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '105.695'
 
 Tienes [Fitbit Versa Lite - Reloj Deportivo Smartwatch  Adultos Unisex  Blanco/Plata Aluminio  Talla única](https://www.amazon.es/dp/B07MFZ9MHM/?tag=tolees-21) con precio final de  95.96 EUR (original: 159.95 EUR) (40.01 %  de rebaja) aqui!
 
-[![Fitbit Versa Lite - Reloj Deportivo Smar](https://m.media-amazon.com/images/I/31sz2cuIuxL._SL200_.jpg)](https://www.amazon.es/dp/B07MFZ9MHM/?tag=tolees-21)
+[![Fitbit Versa Lite - Reloj Deportivo Smar](https://m.media-amazon.com/images/I/31sz2cuIuxL._SL400_.jpg)](https://www.amazon.es/dp/B07MFZ9MHM/?tag=tolees-21)
 
 🔎:
 

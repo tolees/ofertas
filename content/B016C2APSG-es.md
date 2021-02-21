@@ -2,7 +2,7 @@
 layout: post
 title: 'Maybelline New York - Lash Sensational I al 30.00 % de descuento'
 date: 2020-10-09 21:24:07
-image: 'https://m.media-amazon.com/images/I/31cDoazj2rL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31cDoazj2rL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.295'
 
 Ahora mismo tienes [Maybelline New York - Lash Sensational Intense Black  Máscara de Pestañas  Tono Negro Intenso - 9 5 ml](https://www.amazon.es/dp/B016C2APSG/?tag=tolees-21) a 4.69 EUR (original: 6.7 EUR) (30.00 %  de descuento) en el siguiente enlace!
 
-[![Maybelline New York - Lash Sensational I](https://m.media-amazon.com/images/I/31cDoazj2rL._SL200_.jpg)](https://www.amazon.es/dp/B016C2APSG/?tag=tolees-21)
+[![Maybelline New York - Lash Sensational I](https://m.media-amazon.com/images/I/31cDoazj2rL._SL400_.jpg)](https://www.amazon.es/dp/B016C2APSG/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'COFIT Cubierta de Volante de Cuero de Mi al 45.18 % de descuento'
 date: 2020-10-06 00:00:57
-image: 'https://m.media-amazon.com/images/I/51xFJ6A+7oL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51xFJ6A+7oL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.99'
 
 Ahora mismo tienes [COFIT Cubierta de Volante de Cuero de Microfibra Negro y Beige S 35.5-36cm](https://www.amazon.es/dp/B07T1WC42S/?tag=tolees-21) a 16.99 EUR (original: 30.99 EUR) (45.18 %  de descuento) en el siguiente enlace!
 
-[![COFIT Cubierta de Volante de Cuero de Mi](https://m.media-amazon.com/images/I/51xFJ6A+7oL._SL200_.jpg)](https://www.amazon.es/dp/B07T1WC42S/?tag=tolees-21)
+[![COFIT Cubierta de Volante de Cuero de Mi](https://m.media-amazon.com/images/I/51xFJ6A+7oL._SL400_.jpg)](https://www.amazon.es/dp/B07T1WC42S/?tag=tolees-21)
 
 🔎:
 

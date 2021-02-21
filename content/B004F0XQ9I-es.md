@@ -2,7 +2,7 @@
 layout: post
 title: 'Cressi Light Aletas  Unisex-Youth  Blanc al 26.33 % de rebaja'
 date: 2020-04-08 10:12:45
-image: 'https://m.media-amazon.com/images/I/4135mqqLlJL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/4135mqqLlJL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.99'
 
 Tienes [Cressi Light Aletas  Unisex-Youth  Blanco  43/44](https://www.amazon.es/dp/B004F0XQ9I/?tag=tolees-21) con precio final de  13.99 EUR (original: 18.99 EUR) (26.33 %  de rebaja) aqui!
 
-[![Cressi Light Aletas  Unisex-Youth  Blanc](https://m.media-amazon.com/images/I/4135mqqLlJL._SL200_.jpg)](https://www.amazon.es/dp/B004F0XQ9I/?tag=tolees-21)
+[![Cressi Light Aletas  Unisex-Youth  Blanc](https://m.media-amazon.com/images/I/4135mqqLlJL._SL400_.jpg)](https://www.amazon.es/dp/B004F0XQ9I/?tag=tolees-21)
 
 🔎:
 

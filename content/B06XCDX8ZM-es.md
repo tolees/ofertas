@@ -2,7 +2,7 @@
 layout: post
 title: 'STANLEY FATMAX FMST1-80149 - Bolsa para  con un 35.06 % de descuento'
 date: 2020-05-03 12:06:07
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41QYY-otlNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41QYY-otlNL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '32.44'
 
 En este momento está [STANLEY FATMAX FMST1-80149 - Bolsa para ordenador y herramientas FatMax](https://www.amazon.es/dp/B06XCDX8ZM/?tag=tolees-21) a 32.44 EUR (original: 49.95 EUR) (35.06 %  de descuento) en el siguiente enlace!
 
-[![STANLEY FATMAX FMST1-80149 - Bolsa para ](https://images-eu.ssl-images-amazon.com/images/I/41QYY-otlNL._SL200_.jpg)](https://www.amazon.es/dp/B06XCDX8ZM/?tag=tolees-21)
+[![STANLEY FATMAX FMST1-80149 - Bolsa para ](https://images-eu.ssl-images-amazon.com/images/I/41QYY-otlNL._SL400_.jpg)](https://www.amazon.es/dp/B06XCDX8ZM/?tag=tolees-21)
 
 🔎:
 

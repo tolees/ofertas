@@ -2,7 +2,7 @@
 layout: post
 title: 'MaNMaNing Protección 3 Capas Transpirabl al 40.08 % de descuento'
 date: 2020-09-24 11:27:51
-image: 'https://m.media-amazon.com/images/I/41zMdZkF+2L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41zMdZkF+2L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.99'
 
 Está [MaNMaNing Protección 3 Capas Transpirables con Elástico para Los Oídos Pack 20 unidades Adulto 20200710-MANING-SZ20  Azul ](https://www.amazon.es/dp/B08CRK76BP/?tag=tolees-21) con 40.08 de descuento por 2.99 EUR (original: 4.99 EUR) en el siguiente enlace!
 
-[![MaNMaNing Protección 3 Capas Transpirabl](https://m.media-amazon.com/images/I/41zMdZkF+2L._SL200_.jpg)](https://www.amazon.es/dp/B08CRK76BP/?tag=tolees-21)
+[![MaNMaNing Protección 3 Capas Transpirabl](https://m.media-amazon.com/images/I/41zMdZkF+2L._SL400_.jpg)](https://www.amazon.es/dp/B08CRK76BP/?tag=tolees-21)
 
 ℹ️:
 

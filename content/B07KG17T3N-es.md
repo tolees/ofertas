@@ -2,7 +2,7 @@
 layout: post
 title: 'PUMA NRGY Comet  Zapatillas de Running U con un 32.05 % de descuento'
 date: 2020-01-22 14:47:38
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31Ho5nBVflL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Ho5nBVflL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.485'
 
 En este momento está [PUMA NRGY Comet  Zapatillas de Running Unisex Adulto  Glacier Gray  46 EU](https://www.amazon.es/dp/B07KG17T3N/?tag=tolees-21) a 33.99 EUR (original: 50.02 EUR) (32.05 %  de descuento) en el siguiente enlace!
 
-[![PUMA NRGY Comet  Zapatillas de Running U](https://images-eu.ssl-images-amazon.com/images/I/31Ho5nBVflL._SL200_.jpg)](https://www.amazon.es/dp/B07KG17T3N/?tag=tolees-21)
+[![PUMA NRGY Comet  Zapatillas de Running U](https://images-eu.ssl-images-amazon.com/images/I/31Ho5nBVflL._SL400_.jpg)](https://www.amazon.es/dp/B07KG17T3N/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'New Balance MA33  Zapatillas Deportivas  con un 56.27 % de descuento'
 date: 2020-06-24 08:25:25
-image: 'https://m.media-amazon.com/images/I/41LJWZ9mCgL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41LJWZ9mCgL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '26.24'
 
 En este momento está [New Balance MA33  Zapatillas Deportivas para Interior para Hombre  Negro  Black Cm1   42 EU](https://www.amazon.es/dp/B07S3V5H8H/?tag=tolees-21) a 26.24 EUR (original: 60.0 EUR) (56.27 %  de descuento) en el siguiente enlace!
 
-[![New Balance MA33  Zapatillas Deportivas ](https://m.media-amazon.com/images/I/41LJWZ9mCgL._SL200_.jpg)](https://www.amazon.es/dp/B07S3V5H8H/?tag=tolees-21)
+[![New Balance MA33  Zapatillas Deportivas ](https://m.media-amazon.com/images/I/41LJWZ9mCgL._SL400_.jpg)](https://www.amazon.es/dp/B07S3V5H8H/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Lotus Reloj Cronógrafo para Hombre de Cu al 30.13 % de rebaja'
 date: 2020-01-16 20:58:54
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51G7tEmUvxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51G7tEmUvxL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '109.025'
 
 Tienes [Lotus Reloj Cronógrafo para Hombre de Cuarzo con Correa en Acero Inoxidable 10138/3](https://www.amazon.es/dp/B07QR7Y9WV/?tag=tolees-21) con precio final de  104.11 EUR (original: 149 EUR) (30.13 %  de rebaja) aqui!
 
-[![Lotus Reloj Cronógrafo para Hombre de Cu](https://images-eu.ssl-images-amazon.com/images/I/51G7tEmUvxL._SL200_.jpg)](https://www.amazon.es/dp/B07QR7Y9WV/?tag=tolees-21)
+[![Lotus Reloj Cronógrafo para Hombre de Cu](https://images-eu.ssl-images-amazon.com/images/I/51G7tEmUvxL._SL400_.jpg)](https://www.amazon.es/dp/B07QR7Y9WV/?tag=tolees-21)
 
 🔎:
 

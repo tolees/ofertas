@@ -2,7 +2,7 @@
 layout: post
 title: '50W Focos LED Exterior  Yuanline Floodli al 50.03 % de descuento'
 date: 2020-06-22 22:32:59
-image: 'https://m.media-amazon.com/images/I/41DhqW2EhnL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41DhqW2EhnL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.99'
 
 Está [50W Focos LED Exterior  Yuanline Floodlight IP65 Iluminación de Exterior para Jardín  Terraza  Camino  Estadio  Blanco Cálido [Clase de eficiencia energética A+]](https://www.amazon.es/dp/B07KS26BY6/?tag=tolees-21) con 50.03 de descuento por 9.99 EUR (original: 19.99 EUR) en el siguiente enlace!
 
-[![50W Focos LED Exterior  Yuanline Floodli](https://m.media-amazon.com/images/I/41DhqW2EhnL._SL200_.jpg)](https://www.amazon.es/dp/B07KS26BY6/?tag=tolees-21)
+[![50W Focos LED Exterior  Yuanline Floodli](https://m.media-amazon.com/images/I/41DhqW2EhnL._SL400_.jpg)](https://www.amazon.es/dp/B07KS26BY6/?tag=tolees-21)
 
 ℹ️:
 

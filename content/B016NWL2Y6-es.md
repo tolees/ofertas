@@ -2,7 +2,7 @@
 layout: post
 title: 'Victoria s Secret Secret Charm Fragrance al 94.47 % de descuento'
 date: 2020-03-14 22:31:35
-image: 'https://m.media-amazon.com/images/I/317CeS1O0KL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/317CeS1O0KL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.0'
 
 Está [Victoria s Secret Secret Charm Fragrance Mist 250 ml - 250 ml](https://www.amazon.es/dp/B016NWL2Y6/?tag=tolees-21) con 94.47 de descuento por 1.0 EUR (original: 18.07 EUR) en el siguiente enlace!
 
-[![Victoria s Secret Secret Charm Fragrance](https://m.media-amazon.com/images/I/317CeS1O0KL._SL200_.jpg)](https://www.amazon.es/dp/B016NWL2Y6/?tag=tolees-21)
+[![Victoria s Secret Secret Charm Fragrance](https://m.media-amazon.com/images/I/317CeS1O0KL._SL400_.jpg)](https://www.amazon.es/dp/B016NWL2Y6/?tag=tolees-21)
 
 ℹ️:
 

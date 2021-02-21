@@ -2,7 +2,7 @@
 layout: post
 title: 'QHOHQ Funda Samsung Galaxy A51 4G  No 5G con un 45.86 % de descuento'
 date: 2020-07-20 11:30:30
-image: 'https://m.media-amazon.com/images/I/41+7zReG4wL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41+7zReG4wL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.95'
 
 En este momento está [QHOHQ Funda Samsung Galaxy A51 4G  No 5G +2 Pack Cristal Templado Protector de Pantalla Samsung Galaxy A51 4G  Ultra Fina Silicona Transparente TPU Cases Anti-Caíd](https://www.amazon.es/dp/B083LJTNV3/?tag=tolees-21) a 5.95 EUR (original: 10.99 EUR) (45.86 %  de descuento) en el siguiente enlace!
 
-[![QHOHQ Funda Samsung Galaxy A51 4G  No 5G](https://m.media-amazon.com/images/I/41+7zReG4wL._SL200_.jpg)](https://www.amazon.es/dp/B083LJTNV3/?tag=tolees-21)
+[![QHOHQ Funda Samsung Galaxy A51 4G  No 5G](https://m.media-amazon.com/images/I/41+7zReG4wL._SL400_.jpg)](https://www.amazon.es/dp/B083LJTNV3/?tag=tolees-21)
 
 🔎:
 

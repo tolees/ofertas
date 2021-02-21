@@ -2,7 +2,7 @@
 layout: post
 title: 'Alcatel 1S - Smartphone de 5.5"  Octacor con un 31.49 % de descuento'
 date: 2020-07-10 00:03:53
-image: 'https://m.media-amazon.com/images/I/31SjBi06OUL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31SjBi06OUL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '98.58666666666666'
 
 En este momento está [Alcatel 1S - Smartphone de 5.5"  Octacore  RAM de 4 GB  memoria interna de 64 GB  ampliable micro SD  cámara trasera 16+2 MP  frontal 8 MP ](https://www.amazon.es/dp/B07TY3QJVN/?tag=tolees-21) a 89.0 EUR (original: 129.9 EUR) (31.49 %  de descuento) en el siguiente enlace!
 
-[![Alcatel 1S - Smartphone de 5.5"  Octacor](https://m.media-amazon.com/images/I/31SjBi06OUL._SL200_.jpg)](https://www.amazon.es/dp/B07TY3QJVN/?tag=tolees-21)
+[![Alcatel 1S - Smartphone de 5.5"  Octacor](https://m.media-amazon.com/images/I/31SjBi06OUL._SL400_.jpg)](https://www.amazon.es/dp/B07TY3QJVN/?tag=tolees-21)
 
 🔎:
 

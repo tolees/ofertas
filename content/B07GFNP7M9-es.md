@@ -2,7 +2,7 @@
 layout: post
 title: 'Sombras De Guerra Definitive Edition al 66.72 % de rebaja'
 date: 2020-09-30 22:20:27
-image: 'https://m.media-amazon.com/images/I/51VlYOPyvKL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51VlYOPyvKL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.283333333333335'
 
 Tienes [Sombras De Guerra Definitive Edition](https://www.amazon.es/dp/B07GFNP7M9/?tag=tolees-21) con precio final de  19.95 EUR (original: 59.95 EUR) (66.72 %  de rebaja) aqui!
 
-[![Sombras De Guerra Definitive Edition](https://m.media-amazon.com/images/I/51VlYOPyvKL._SL200_.jpg)](https://www.amazon.es/dp/B07GFNP7M9/?tag=tolees-21)
+[![Sombras De Guerra Definitive Edition](https://m.media-amazon.com/images/I/51VlYOPyvKL._SL400_.jpg)](https://www.amazon.es/dp/B07GFNP7M9/?tag=tolees-21)
 
 🔎:
 

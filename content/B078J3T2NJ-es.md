@@ -2,7 +2,7 @@
 layout: post
 title: 'Maybelline New York Master Chrome - Polv al 25.92 % de descuento'
 date: 2020-02-25 20:01:25
-image: 'https://m.media-amazon.com/images/I/518ySTwuh1L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/518ySTwuh1L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.66'
 
 Ahora mismo tienes [Maybelline New York Master Chrome - Polvos Iluminadores Metalizados  Tono 100 Molten Gold](https://www.amazon.es/dp/B078J3T2NJ/?tag=tolees-21) a 6.66 EUR (original: 8.99 EUR) (25.92 %  de descuento) en el siguiente enlace!
 
-[![Maybelline New York Master Chrome - Polv](https://m.media-amazon.com/images/I/518ySTwuh1L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B078J3T2NJ/?tag=tolees-21)
+[![Maybelline New York Master Chrome - Polv](https://m.media-amazon.com/images/I/518ySTwuh1L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B078J3T2NJ/?tag=tolees-21)
 
 🔎:
 

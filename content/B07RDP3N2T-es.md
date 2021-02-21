@@ -2,7 +2,7 @@
 layout: post
 title: 'New Balance Draft  Zapatillas para Corre al 38.20 % de descuento'
 date: 2020-06-25 06:05:43
-image: 'https://m.media-amazon.com/images/I/41xZGFnl7cL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41xZGFnl7cL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '37.08'
 
 Ahora mismo tienes [New Balance Draft  Zapatillas para Correr de Carretera para Mujer  Bali Blue  36 EU](https://www.amazon.es/dp/B07RDP3N2T/?tag=tolees-21) a 37.08 EUR (original: 60.0 EUR) (38.20 %  de descuento) en el siguiente enlace!
 
-[![New Balance Draft  Zapatillas para Corre](https://m.media-amazon.com/images/I/41xZGFnl7cL._SL200_.jpg)](https://www.amazon.es/dp/B07RDP3N2T/?tag=tolees-21)
+[![New Balance Draft  Zapatillas para Corre](https://m.media-amazon.com/images/I/41xZGFnl7cL._SL400_.jpg)](https://www.amazon.es/dp/B07RDP3N2T/?tag=tolees-21)
 
 🔎:
 

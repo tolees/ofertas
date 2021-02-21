@@ -2,7 +2,7 @@
 layout: post
 title: 'Revlon ColorStay Base de Maquillaje piel al 51.35 % de rebaja'
 date: 2020-09-24 13:48:21
-image: 'https://m.media-amazon.com/images/I/41D7NYwab+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41D7NYwab+L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.3'
 
 Tienes [Revlon ColorStay Base de Maquillaje piel mixto/graso FPS15  #320 True Beige  30ml](https://www.amazon.es/dp/B00VX6U99W/?tag=tolees-21) con precio final de  6.3 EUR (original: 12.95 EUR) (51.35 %  de rebaja) aqui!
 
-[![Revlon ColorStay Base de Maquillaje piel](https://m.media-amazon.com/images/I/41D7NYwab+L._SL200_.jpg)](https://www.amazon.es/dp/B00VX6U99W/?tag=tolees-21)
+[![Revlon ColorStay Base de Maquillaje piel](https://m.media-amazon.com/images/I/41D7NYwab+L._SL400_.jpg)](https://www.amazon.es/dp/B00VX6U99W/?tag=tolees-21)
 
 🔎:
 

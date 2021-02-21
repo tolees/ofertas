@@ -2,7 +2,7 @@
 layout: post
 title: 'Disney Star Wars Stormtrooper by Ubtech  al 76.59 % de rebaja'
 date: 2020-05-29 11:04:29
-image: 'https://m.media-amazon.com/images/I/41rq5KVMIML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41rq5KVMIML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '72.95484375000001'
 
 Tienes [Disney Star Wars Stormtrooper by Ubtech - Robot inteligente First Order Stormtrooper con Companion App](https://www.amazon.es/dp/B076HX4SQR/?tag=tolees-21) con precio final de  81.95 EUR (original: 349.99 EUR) (76.59 %  de rebaja) aqui!
 
-[![Disney Star Wars Stormtrooper by Ubtech ](https://m.media-amazon.com/images/I/41rq5KVMIML._SL200_.jpg)](https://www.amazon.es/dp/B076HX4SQR/?tag=tolees-21)
+[![Disney Star Wars Stormtrooper by Ubtech ](https://m.media-amazon.com/images/I/41rq5KVMIML._SL400_.jpg)](https://www.amazon.es/dp/B076HX4SQR/?tag=tolees-21)
 
 🔎:
 

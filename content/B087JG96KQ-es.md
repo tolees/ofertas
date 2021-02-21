@@ -2,7 +2,7 @@
 layout: post
 title: 'Sawera Generador de Ozono portátil O3 Ge al 34.89 % de descuento'
 date: 2020-05-13 01:35:13
-image: 'https://m.media-amazon.com/images/I/51rUfwwxd6L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51rUfwwxd6L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '55.99'
 
 Está [Sawera Generador de Ozono portátil O3 Generador de Ozono purificador de Aire Ozono Máquina de Ozono + Acero Inoxidable](https://www.amazon.es/dp/B087JG96KQ/?tag=tolees-21) con 34.89 de descuento por 55.99 EUR (original: 85.99 EUR) en el siguiente enlace!
 
-[![Sawera Generador de Ozono portátil O3 Ge](https://m.media-amazon.com/images/I/51rUfwwxd6L._SL200_.jpg)](https://www.amazon.es/dp/B087JG96KQ/?tag=tolees-21)
+[![Sawera Generador de Ozono portátil O3 Ge](https://m.media-amazon.com/images/I/51rUfwwxd6L._SL400_.jpg)](https://www.amazon.es/dp/B087JG96KQ/?tag=tolees-21)
 
 ℹ️:
 

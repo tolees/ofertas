@@ -2,7 +2,7 @@
 layout: post
 title: 'Sony ILCE-5100L - Cámara EVIL de 24.3 MP al 47.14 % de descuento'
 date: 2020-10-07 09:23:44
-image: 'https://m.media-amazon.com/images/I/51hKen+vrXL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51hKen+vrXL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '431.0319999999999'
 
 Está [Sony ILCE-5100L - Cámara EVIL de 24.3 MP  pantalla 3"  estabilizador óptico  vídeo Full HD  Negro](https://www.amazon.es/dp/B00MTZI376/?tag=tolees-21) con 47.14 de descuento por 369.99 EUR (original: 700.0 EUR) en el siguiente enlace!
 
-[![Sony ILCE-5100L - Cámara EVIL de 24.3 MP](https://m.media-amazon.com/images/I/51hKen+vrXL._SL200_.jpg)](https://www.amazon.es/dp/B00MTZI376/?tag=tolees-21)
+[![Sony ILCE-5100L - Cámara EVIL de 24.3 MP](https://m.media-amazon.com/images/I/51hKen+vrXL._SL400_.jpg)](https://www.amazon.es/dp/B00MTZI376/?tag=tolees-21)
 
 ℹ️:
 

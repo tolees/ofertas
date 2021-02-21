@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 50.06 % en Calcetines de Algodón 6 Pares  Multicolo'
 date: 2020-01-14 11:29:39
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41MesOTt9IL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41MesOTt9IL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.95'
 
 Tienes [Calcetines de Algodón 6 Pares  Multicolor: 4 x negro  2 x gris  EU 43-47 ](https://www.amazon.es/dp/B07N8X1W5X/?tag=tolees-21) con un 50.06 % de descuento con precio de oferta de 19.95 EUR (original: 39.95 EUR) en el siguiente enlace!
 
-[![Calcetines de Algodón 6 Pares  Multicolo](https://images-eu.ssl-images-amazon.com/images/I/41MesOTt9IL._SL200_.jpg)](https://www.amazon.es/dp/B07N8X1W5X/?tag=tolees-21)
+[![Calcetines de Algodón 6 Pares  Multicolo](https://images-eu.ssl-images-amazon.com/images/I/41MesOTt9IL._SL400_.jpg)](https://www.amazon.es/dp/B07N8X1W5X/?tag=tolees-21)
 
 ℹ️:
 

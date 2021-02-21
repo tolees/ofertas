@@ -2,7 +2,7 @@
 layout: post
 title: 'Eva Lopez Botas Cowboy Piel Napa Mujer N con un 54.40 % de descuento'
 date: 2020-01-27 18:47:42
-image: 'https://m.media-amazon.com/images/I/41DZ4edGYjL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41DZ4edGYjL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '82.99'
 
 En este momento está [Eva Lopez Botas Cowboy Piel Napa Mujer Negro](https://www.amazon.es/dp/B07Z5CN2V8/?tag=tolees-21) a 82.99 EUR (original: 182.0 EUR) (54.40 %  de descuento) en el siguiente enlace!
 
-[![Eva Lopez Botas Cowboy Piel Napa Mujer N](https://m.media-amazon.com/images/I/41DZ4edGYjL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07Z5CN2V8/?tag=tolees-21)
+[![Eva Lopez Botas Cowboy Piel Napa Mujer N](https://m.media-amazon.com/images/I/41DZ4edGYjL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07Z5CN2V8/?tag=tolees-21)
 
 🔎:
 

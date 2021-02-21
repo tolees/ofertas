@@ -2,7 +2,7 @@
 layout: post
 title: 'Soulcalibur VI - Edición Coleccionista al 52.63 % de descuento'
 date: 2020-05-24 18:39:16
-image: 'https://m.media-amazon.com/images/I/51ZQrBeM+pL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51ZQrBeM+pL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '77.03333333333333'
 
 Ahora mismo tienes [Soulcalibur VI - Edición Coleccionista](https://www.amazon.es/dp/B07DPWVZFB/?tag=tolees-21) a 71.05 EUR (original: 149.99 EUR) (52.63 %  de descuento) en el siguiente enlace!
 
-[![Soulcalibur VI - Edición Coleccionista](https://m.media-amazon.com/images/I/51ZQrBeM+pL._SL200_.jpg)](https://www.amazon.es/dp/B07DPWVZFB/?tag=tolees-21)
+[![Soulcalibur VI - Edición Coleccionista](https://m.media-amazon.com/images/I/51ZQrBeM+pL._SL400_.jpg)](https://www.amazon.es/dp/B07DPWVZFB/?tag=tolees-21)
 
 🔎:
 

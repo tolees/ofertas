@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 60.17 % en Under Armour Metallic Woven FZ Parte Sup'
 date: 2020-01-14 07:41:56
-image: 'https://images-eu.ssl-images-amazon.com/images/I/417fGQ5xx7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417fGQ5xx7L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '25.89'
 
 Tienes [Under Armour Metallic Woven FZ Parte Superior del Calentamiento  Mujer  púrpura  XS](https://www.amazon.es/dp/B07QWND5YW/?tag=tolees-21) con un 60.17 % de descuento con precio de oferta de 25.89 EUR (original: 65 EUR) en el siguiente enlace!
 
-[![Under Armour Metallic Woven FZ Parte Sup](https://images-eu.ssl-images-amazon.com/images/I/417fGQ5xx7L._SL200_.jpg)](https://www.amazon.es/dp/B07QWND5YW/?tag=tolees-21)
+[![Under Armour Metallic Woven FZ Parte Sup](https://images-eu.ssl-images-amazon.com/images/I/417fGQ5xx7L._SL400_.jpg)](https://www.amazon.es/dp/B07QWND5YW/?tag=tolees-21)
 
 ℹ️:
 

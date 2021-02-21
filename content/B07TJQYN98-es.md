@@ -2,7 +2,7 @@
 layout: post
 title: 'secador de uñas 36W Anself 36 W Lámpara  con un 39.04 % de descuento'
 date: 2020-01-13 17:06:46
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31LIxKA82GL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31LIxKA82GL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.99'
 
 En este momento está [secador de uñas 36W Anself 36 W Lámpara de uñas Inteligente de LED/UV con Pantalla LCD 3 Temporizadores Secadora de Uñas con Carga USB](https://www.amazon.es/dp/B07TJQYN98/?tag=tolees-21) a 14.99 EUR (original: 24.59 EUR) (39.04 %  de descuento) en el siguiente enlace!
 
-[![secador de uñas 36W Anself 36 W Lámpara ](https://images-eu.ssl-images-amazon.com/images/I/31LIxKA82GL._SL200_.jpg)](https://www.amazon.es/dp/B07TJQYN98/?tag=tolees-21)
+[![secador de uñas 36W Anself 36 W Lámpara ](https://images-eu.ssl-images-amazon.com/images/I/31LIxKA82GL._SL400_.jpg)](https://www.amazon.es/dp/B07TJQYN98/?tag=tolees-21)
 
 🔎:
 

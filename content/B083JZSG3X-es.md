@@ -2,7 +2,7 @@
 layout: post
 title: 'Linterna LED 2500 Lumen  Yizhet Super Br con un 30.05 % de descuento'
 date: 2020-03-18 21:12:08
-image: 'https://m.media-amazon.com/images/I/41EexW7WowL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41EexW7WowL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.99'
 
 En este momento está [Linterna LED 2500 Lumen  Yizhet Super Brillante LED Flashlight a Prueba de Agua con 5 Modo Recargable USB Táctica Linterna de Mano de Enfoque Ajustable Portátil para Cámping Senderismo Escalada](https://www.amazon.es/dp/B083JZSG3X/?tag=tolees-21) a 13.99 EUR (original: 20.0 EUR) (30.05 %  de descuento) en el siguiente enlace!
 
-[![Linterna LED 2500 Lumen  Yizhet Super Br](https://m.media-amazon.com/images/I/41EexW7WowL._SL200_.jpg)](https://www.amazon.es/dp/B083JZSG3X/?tag=tolees-21)
+[![Linterna LED 2500 Lumen  Yizhet Super Br](https://m.media-amazon.com/images/I/41EexW7WowL._SL400_.jpg)](https://www.amazon.es/dp/B083JZSG3X/?tag=tolees-21)
 
 🔎:
 

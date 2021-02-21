@@ -2,7 +2,7 @@
 layout: post
 title: 'Aladdin - Algodón Limpia Metales  75 g al 32.70 % de descuento'
 date: 2020-10-10 07:14:57
-image: 'https://m.media-amazon.com/images/I/51wcYsoENhL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51wcYsoENhL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.49'
 
 Está [Aladdin - Algodón Limpia Metales  75 g](https://www.amazon.es/dp/B00U2R1FEG/?tag=tolees-21) con 32.70 de descuento por 2.49 EUR (original: 3.7 EUR) en el siguiente enlace!
 
-[![Aladdin - Algodón Limpia Metales  75 g](https://m.media-amazon.com/images/I/51wcYsoENhL._SL200_.jpg)](https://www.amazon.es/dp/B00U2R1FEG/?tag=tolees-21)
+[![Aladdin - Algodón Limpia Metales  75 g](https://m.media-amazon.com/images/I/51wcYsoENhL._SL400_.jpg)](https://www.amazon.es/dp/B00U2R1FEG/?tag=tolees-21)
 
 ℹ️:
 

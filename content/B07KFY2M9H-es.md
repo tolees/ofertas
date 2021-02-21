@@ -2,7 +2,7 @@
 layout: post
 title: 'PUMA Source Mid Buzzer  Zapatillas Altas al 69.60 % de rebaja'
 date: 2020-01-06 11:09:55
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41gRp2075NL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41gRp2075NL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '36.46'
 
 Tienes [PUMA Source Mid Buzzer  Zapatillas Altas Unisex Adulto  Black-Nrgy Red-Blue Turquoise  45 EU](https://www.amazon.es/dp/B07KFY2M9H/?tag=tolees-21) con precio final de  36.46 EUR (original: 119.95 EUR) (69.60 %  de rebaja) aqui!
 
-[![PUMA Source Mid Buzzer  Zapatillas Altas](https://images-eu.ssl-images-amazon.com/images/I/41gRp2075NL._SL200_.jpg)](https://www.amazon.es/dp/B07KFY2M9H/?tag=tolees-21)
+[![PUMA Source Mid Buzzer  Zapatillas Altas](https://images-eu.ssl-images-amazon.com/images/I/41gRp2075NL._SL400_.jpg)](https://www.amazon.es/dp/B07KFY2M9H/?tag=tolees-21)
 
 🔎:
 

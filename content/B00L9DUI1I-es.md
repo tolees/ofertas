@@ -2,7 +2,7 @@
 layout: post
 title: 'DC Shoes TRASE TX Zapatillas Hombre  Neg al 46.15 % de descuento'
 date: 2020-04-08 04:36:31
-image: 'https://m.media-amazon.com/images/I/31oJCESHFFL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31oJCESHFFL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '36.995000000000005'
 
 Está [DC Shoes TRASE TX Zapatillas Hombre  Negro  Black/Gum   42.5 EU](https://www.amazon.es/dp/B00L9DUI1I/?tag=tolees-21) con 46.15 de descuento por 35.0 EUR (original: 65.0 EUR) en el siguiente enlace!
 
-[![DC Shoes TRASE TX Zapatillas Hombre  Neg](https://m.media-amazon.com/images/I/31oJCESHFFL._SL200_.jpg)](https://www.amazon.es/dp/B00L9DUI1I/?tag=tolees-21)
+[![DC Shoes TRASE TX Zapatillas Hombre  Neg](https://m.media-amazon.com/images/I/31oJCESHFFL._SL400_.jpg)](https://www.amazon.es/dp/B00L9DUI1I/?tag=tolees-21)
 
 ℹ️:
 

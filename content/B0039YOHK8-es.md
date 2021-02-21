@@ -2,7 +2,7 @@
 layout: post
 title: 'Casio Reloj de Pulsera MTP-1303PD-7AVEF con un 31.96 % de descuento'
 date: 2020-07-20 18:16:08
-image: 'https://m.media-amazon.com/images/I/41SiCzSkNbL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41SiCzSkNbL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '31.31181818181818'
 
 En este momento está [Casio Reloj de Pulsera MTP-1303PD-7AVEF](https://www.amazon.es/dp/B0039YOHK8/?tag=tolees-21) a 30.55 EUR (original: 44.9 EUR) (31.96 %  de descuento) en el siguiente enlace!
 
-[![Casio Reloj de Pulsera MTP-1303PD-7AVEF](https://m.media-amazon.com/images/I/41SiCzSkNbL._SL200_.jpg)](https://www.amazon.es/dp/B0039YOHK8/?tag=tolees-21)
+[![Casio Reloj de Pulsera MTP-1303PD-7AVEF](https://m.media-amazon.com/images/I/41SiCzSkNbL._SL400_.jpg)](https://www.amazon.es/dp/B0039YOHK8/?tag=tolees-21)
 
 🔎:
 

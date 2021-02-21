@@ -2,7 +2,7 @@
 layout: post
 title: 'Shark Tiburón Nano homenaje cascos de mo al 39.52 % de descuento'
 date: 2020-05-26 21:21:00
-image: 'https://m.media-amazon.com/images/I/517zjpei2mL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/517zjpei2mL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '143.51'
 
 Está [Shark Tiburón Nano homenaje cascos de motocicleta  color negro/morado  talla M](https://www.amazon.es/dp/B077F6RQZD/?tag=tolees-21) con 39.52 de descuento por 143.51 EUR (original: 237.29 EUR) en el siguiente enlace!
 
-[![Shark Tiburón Nano homenaje cascos de mo](https://m.media-amazon.com/images/I/517zjpei2mL._SL200_.jpg)](https://www.amazon.es/dp/B077F6RQZD/?tag=tolees-21)
+[![Shark Tiburón Nano homenaje cascos de mo](https://m.media-amazon.com/images/I/517zjpei2mL._SL400_.jpg)](https://www.amazon.es/dp/B077F6RQZD/?tag=tolees-21)
 
 ℹ️:
 

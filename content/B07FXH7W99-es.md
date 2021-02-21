@@ -2,7 +2,7 @@
 layout: post
 title: 'Vans Filmore Decon  Zapatillas para Homb al 33.73 % de rebaja'
 date: 2020-06-26 09:24:23
-image: 'https://m.media-amazon.com/images/I/41MGMShQtIL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41MGMShQtIL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '28.61'
 
 Tienes [Vans Filmore Decon  Zapatillas para Hombre  Rojo  Canvas  Port Royale/White 8j7   42](https://www.amazon.es/dp/B07FXH7W99/?tag=tolees-21) con precio final de  28.61 EUR (original: 43.17 EUR) (33.73 %  de rebaja) aqui!
 
-[![Vans Filmore Decon  Zapatillas para Homb](https://m.media-amazon.com/images/I/41MGMShQtIL._SL200_.jpg)](https://www.amazon.es/dp/B07FXH7W99/?tag=tolees-21)
+[![Vans Filmore Decon  Zapatillas para Homb](https://m.media-amazon.com/images/I/41MGMShQtIL._SL400_.jpg)](https://www.amazon.es/dp/B07FXH7W99/?tag=tolees-21)
 
 🔎:
 

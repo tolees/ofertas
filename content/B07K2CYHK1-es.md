@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas Superstar J Zapatillas de Gimnasi al 53.57 % de descuento'
 date: 2020-01-31 22:19:22
-image: 'https://m.media-amazon.com/images/I/41pYeYuphnL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41pYeYuphnL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '32.48'
 
 Está [adidas Superstar J Zapatillas de Gimnasia Unisex Niños  Blanco  Ftwr White/Ftwr White/Legend Marine   36 2/3 EU  4 UK ](https://www.amazon.es/dp/B07K2CYHK1/?tag=tolees-21) con 53.57 de descuento por 32.48 EUR (original: 69.95 EUR) en el siguiente enlace!
 
-[![adidas Superstar J Zapatillas de Gimnasi](https://m.media-amazon.com/images/I/41pYeYuphnL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07K2CYHK1/?tag=tolees-21)
+[![adidas Superstar J Zapatillas de Gimnasi](https://m.media-amazon.com/images/I/41pYeYuphnL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07K2CYHK1/?tag=tolees-21)
 
 ℹ️:
 

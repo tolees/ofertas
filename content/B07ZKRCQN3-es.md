@@ -2,7 +2,7 @@
 layout: post
 title: 'Gillette Mach3 Recambio De Maquinilla De con un 50.00 % de descuento'
 date: 2020-06-06 21:20:55
-image: 'https://m.media-amazon.com/images/I/51Iec1Z3mTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Iec1Z3mTL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.97'
 
 En este momento está [Gillette Mach3 Recambio De Maquinilla De Afeitar Para Hombre 8 Recambios](https://www.amazon.es/dp/B07ZKRCQN3/?tag=tolees-21) a 7.97 EUR (original: 15.94 EUR) (50.00 %  de descuento) en el siguiente enlace!
 
-[![Gillette Mach3 Recambio De Maquinilla De](https://m.media-amazon.com/images/I/51Iec1Z3mTL._SL200_.jpg)](https://www.amazon.es/dp/B07ZKRCQN3/?tag=tolees-21)
+[![Gillette Mach3 Recambio De Maquinilla De](https://m.media-amazon.com/images/I/51Iec1Z3mTL._SL400_.jpg)](https://www.amazon.es/dp/B07ZKRCQN3/?tag=tolees-21)
 
 🔎:
 

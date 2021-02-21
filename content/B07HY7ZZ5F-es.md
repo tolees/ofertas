@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 44.27 % en Mando a Distancia para Toshiba LCD / 3D '
 date: 2020-07-18 08:01:28
-image: 'https://m.media-amazon.com/images/I/413pw3aYf2L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/413pw3aYf2L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.84'
 
 Tienes [Mando a Distancia para Toshiba LCD / 3D / LED TV](https://www.amazon.es/dp/B07HY7ZZ5F/?tag=tolees-21) con un 44.27 % de descuento con precio de oferta de 5.84 EUR (original: 10.48 EUR) en el siguiente enlace!
 
-[![Mando a Distancia para Toshiba LCD / 3D ](https://m.media-amazon.com/images/I/413pw3aYf2L._SL200_.jpg)](https://www.amazon.es/dp/B07HY7ZZ5F/?tag=tolees-21)
+[![Mando a Distancia para Toshiba LCD / 3D ](https://m.media-amazon.com/images/I/413pw3aYf2L._SL400_.jpg)](https://www.amazon.es/dp/B07HY7ZZ5F/?tag=tolees-21)
 
 ℹ️:
 

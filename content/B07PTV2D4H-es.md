@@ -2,7 +2,7 @@
 layout: post
 title: 'Carrera- Go DTM Championship Circuito Co al 41.40 % de rebaja'
 date: 2020-04-27 18:07:05
-image: 'https://m.media-amazon.com/images/I/61UlnDtohkL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61UlnDtohkL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '45.0'
 
 Tienes [Carrera- Go DTM Championship Circuito Completo de Coches  Multicolor  Stadlbauer 20062503 ](https://www.amazon.es/dp/B07PTV2D4H/?tag=tolees-21) con precio final de  45.0 EUR (original: 76.79 EUR) (41.40 %  de rebaja) aqui!
 
-[![Carrera- Go DTM Championship Circuito Co](https://m.media-amazon.com/images/I/61UlnDtohkL._SL200_.jpg)](https://www.amazon.es/dp/B07PTV2D4H/?tag=tolees-21)
+[![Carrera- Go DTM Championship Circuito Co](https://m.media-amazon.com/images/I/61UlnDtohkL._SL400_.jpg)](https://www.amazon.es/dp/B07PTV2D4H/?tag=tolees-21)
 
 🔎:
 

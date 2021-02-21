@@ -2,7 +2,7 @@
 layout: post
 title: 'Lacoste Courtline 319 1 Us Cfa  Zapatill al 77.84 % de descuento'
 date: 2020-01-23 17:19:53
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31h7k5gg7vL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31h7k5gg7vL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '31.75'
 
 Está [Lacoste Courtline 319 1 Us Cfa  Zapatillas para Mujer  Blanco  White/Light Blue 1t3   42 EU](https://www.amazon.es/dp/B07L9W1YRR/?tag=tolees-21) con 77.84 de descuento por 29.91 EUR (original: 135 EUR) en el siguiente enlace!
 
-[![Lacoste Courtline 319 1 Us Cfa  Zapatill](https://images-eu.ssl-images-amazon.com/images/I/31h7k5gg7vL._SL200_.jpg)](https://www.amazon.es/dp/B07L9W1YRR/?tag=tolees-21)
+[![Lacoste Courtline 319 1 Us Cfa  Zapatill](https://images-eu.ssl-images-amazon.com/images/I/31h7k5gg7vL._SL400_.jpg)](https://www.amazon.es/dp/B07L9W1YRR/?tag=tolees-21)
 
 ℹ️:
 

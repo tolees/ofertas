@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour UA Qualifier Half Zip Parte al 65.72 % de descuento'
 date: 2020-03-08 07:41:20
-image: 'https://m.media-amazon.com/images/I/31saGVFxhgL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31saGVFxhgL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.407500000000002'
 
 Está [Under Armour UA Qualifier Half Zip Parte Superior del Calentamiento  Mujer  Negro  Black/Black/Reflective 001   L](https://www.amazon.es/dp/B07CZJKH71/?tag=tolees-21) con 65.72 de descuento por 22.28 EUR (original: 65.0 EUR) en el siguiente enlace!
 
-[![Under Armour UA Qualifier Half Zip Parte](https://m.media-amazon.com/images/I/31saGVFxhgL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07CZJKH71/?tag=tolees-21)
+[![Under Armour UA Qualifier Half Zip Parte](https://m.media-amazon.com/images/I/31saGVFxhgL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07CZJKH71/?tag=tolees-21)
 
 ℹ️:
 

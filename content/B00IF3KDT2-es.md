@@ -2,7 +2,7 @@
 layout: post
 title: 'Casio WAVE CEPTOR Reloj Radiocontrolado  al 36.30 % de descuento'
 date: 2020-05-16 15:37:27
-image: 'https://m.media-amazon.com/images/I/41D1PK+pkRL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41D1PK+pkRL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '254.15'
 
 Ahora mismo tienes [Casio WAVE CEPTOR Reloj Radiocontrolado y solar  Cristal de zafiro Caja de titanio macizo  Negro  para Hombre  con Correa de Titanio macizo  LCW-M170TD-1AER](https://www.amazon.es/dp/B00IF3KDT2/?tag=tolees-21) a 254.15 EUR (original: 399.0 EUR) (36.30 %  de descuento) en el siguiente enlace!
 
-[![Casio WAVE CEPTOR Reloj Radiocontrolado ](https://m.media-amazon.com/images/I/41D1PK+pkRL._SL200_.jpg)](https://www.amazon.es/dp/B00IF3KDT2/?tag=tolees-21)
+[![Casio WAVE CEPTOR Reloj Radiocontrolado ](https://m.media-amazon.com/images/I/41D1PK+pkRL._SL400_.jpg)](https://www.amazon.es/dp/B00IF3KDT2/?tag=tolees-21)
 
 🔎:
 

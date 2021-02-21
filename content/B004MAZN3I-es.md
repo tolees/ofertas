@@ -2,7 +2,7 @@
 layout: post
 title: 'Seiko Reloj con Correa de Acero para Hom con un 40.85 % de descuento'
 date: 2020-03-20 06:08:35
-image: 'https://m.media-amazon.com/images/I/51gG0lvUx9L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51gG0lvUx9L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '90.3'
 
 En este momento está [Seiko Reloj con Correa de Acero para Hombre SNKK27K1](https://www.amazon.es/dp/B004MAZN3I/?tag=tolees-21) a 94.05 EUR (original: 159.0 EUR) (40.85 %  de descuento) en el siguiente enlace!
 
-[![Seiko Reloj con Correa de Acero para Hom](https://m.media-amazon.com/images/I/51gG0lvUx9L._SL200_.jpg)](https://www.amazon.es/dp/B004MAZN3I/?tag=tolees-21)
+[![Seiko Reloj con Correa de Acero para Hom](https://m.media-amazon.com/images/I/51gG0lvUx9L._SL400_.jpg)](https://www.amazon.es/dp/B004MAZN3I/?tag=tolees-21)
 
 🔎:
 

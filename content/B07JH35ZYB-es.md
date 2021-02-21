@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 55.04 % en Columbia Fire Venture S II Mid WP  Botas'
 date: 2020-02-04 17:52:01
-image: 'https://m.media-amazon.com/images/I/4138PGFwdEL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/4138PGFwdEL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '53.95'
 
 Tienes [Columbia Fire Venture S II Mid WP  Botas de Senderismo Impermeables para Mujer  Beige  Elk  Beet 286   40.5 EU](https://www.amazon.es/dp/B07JH35ZYB/?tag=tolees-21) con un 55.04 % de descuento con precio de oferta de 53.95 EUR (original: 119.99 EUR) en el siguiente enlace!
 
-[![Columbia Fire Venture S II Mid WP  Botas](https://m.media-amazon.com/images/I/4138PGFwdEL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07JH35ZYB/?tag=tolees-21)
+[![Columbia Fire Venture S II Mid WP  Botas](https://m.media-amazon.com/images/I/4138PGFwdEL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07JH35ZYB/?tag=tolees-21)
 
 ℹ️:
 

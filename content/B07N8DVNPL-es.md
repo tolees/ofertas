@@ -2,7 +2,7 @@
 layout: post
 title: 'Orient Reloj Analógico para Hombre de Au con un 51.84 % de descuento'
 date: 2020-08-23 17:55:56
-image: 'https://m.media-amazon.com/images/I/41bNsAAi84L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41bNsAAi84L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '101.88250000000001'
 
 En este momento está [Orient Reloj Analógico para Hombre de Automático con Correa en Acero Inoxidable FAB0B001D9](https://www.amazon.es/dp/B07N8DVNPL/?tag=tolees-21) a 91.51 EUR (original: 190.0 EUR) (51.84 %  de descuento) en el siguiente enlace!
 
-[![Orient Reloj Analógico para Hombre de Au](https://m.media-amazon.com/images/I/41bNsAAi84L._SL200_.jpg)](https://www.amazon.es/dp/B07N8DVNPL/?tag=tolees-21)
+[![Orient Reloj Analógico para Hombre de Au](https://m.media-amazon.com/images/I/41bNsAAi84L._SL400_.jpg)](https://www.amazon.es/dp/B07N8DVNPL/?tag=tolees-21)
 
 🔎:
 

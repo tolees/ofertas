@@ -2,7 +2,7 @@
 layout: post
 title: 'Asmodee- Colt Express: Bandits Pack Djan al 33.39 % de rebaja'
 date: 2020-09-23 17:35:57
-image: 'https://m.media-amazon.com/images/I/51UhPDWXIAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51UhPDWXIAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.99'
 
 Tienes [Asmodee- Colt Express: Bandits Pack Django Expansion en Castellano  Color  LUCOEX07NA ](https://www.amazon.es/dp/B07FV4NWCK/?tag=tolees-21) con precio final de  3.99 EUR (original: 5.99 EUR) (33.39 %  de rebaja) aqui!
 
-[![Asmodee- Colt Express: Bandits Pack Djan](https://m.media-amazon.com/images/I/51UhPDWXIAL._SL200_.jpg)](https://www.amazon.es/dp/B07FV4NWCK/?tag=tolees-21)
+[![Asmodee- Colt Express: Bandits Pack Djan](https://m.media-amazon.com/images/I/51UhPDWXIAL._SL400_.jpg)](https://www.amazon.es/dp/B07FV4NWCK/?tag=tolees-21)
 
 🔎:
 

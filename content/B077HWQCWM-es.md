@@ -2,7 +2,7 @@
 layout: post
 title: 'FM London Vest Top and Leggings Conjunto al 50.03 % de descuento'
 date: 2020-03-26 14:03:57
-image: 'https://m.media-amazon.com/images/I/31d7SYWG9LL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31d7SYWG9LL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.99'
 
 Ahora mismo tienes [FM London Vest Top and Leggings Conjunto Ropa Deportiva  Negro  Black   única  Talla del Fabricante: 8-14  para Mujer](https://www.amazon.es/dp/B077HWQCWM/?tag=tolees-21) a 9.99 EUR (original: 19.99 EUR) (50.03 %  de descuento) en el siguiente enlace!
 
-[![FM London Vest Top and Leggings Conjunto](https://m.media-amazon.com/images/I/31d7SYWG9LL._SL200_.jpg)](https://www.amazon.es/dp/B077HWQCWM/?tag=tolees-21)
+[![FM London Vest Top and Leggings Conjunto](https://m.media-amazon.com/images/I/31d7SYWG9LL._SL400_.jpg)](https://www.amazon.es/dp/B077HWQCWM/?tag=tolees-21)
 
 🔎:
 

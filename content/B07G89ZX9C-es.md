@@ -2,7 +2,7 @@
 layout: post
 title: 'Giorgi Sublime Cream Antiencrespamiento  al 34.44 % de rebaja'
 date: 2020-04-30 11:31:49
-image: 'https://m.media-amazon.com/images/I/31t3AaquLDL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31t3AaquLDL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.8866666666666667'
 
 Tienes [Giorgi Sublime Cream Antiencrespamiento Melena Bajo Control 150 Ml - 150 Mililitros](https://www.amazon.es/dp/B07G89ZX9C/?tag=tolees-21) con precio final de  2.36 EUR (original: 3.6 EUR) (34.44 %  de rebaja) aqui!
 
-[![Giorgi Sublime Cream Antiencrespamiento ](https://m.media-amazon.com/images/I/31t3AaquLDL._SL200_.jpg)](https://www.amazon.es/dp/B07G89ZX9C/?tag=tolees-21)
+[![Giorgi Sublime Cream Antiencrespamiento ](https://m.media-amazon.com/images/I/31t3AaquLDL._SL400_.jpg)](https://www.amazon.es/dp/B07G89ZX9C/?tag=tolees-21)
 
 🔎:
 

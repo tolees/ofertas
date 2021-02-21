@@ -2,7 +2,7 @@
 layout: post
 title: 'Vitamaze® Vitamina B Complex con 180 tab al 28.94 % de descuento'
 date: 2020-02-09 21:50:32
-image: 'https://m.media-amazon.com/images/I/41elRPLPp8L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41elRPLPp8L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.77'
 
 Está [Vitamaze® Vitamina B Complex con 180 tabletas veganas de dosis alta del para 6 meses de suministro B1  B2  B3  B5  B6  B7  B9  B12 Hecho en Alemania sin estearato de magnesio](https://www.amazon.es/dp/B01N6EMPXO/?tag=tolees-21) con 28.94 de descuento por 12.77 EUR (original: 17.97 EUR) en el siguiente enlace!
 
-[![Vitamaze® Vitamina B Complex con 180 tab](https://m.media-amazon.com/images/I/41elRPLPp8L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01N6EMPXO/?tag=tolees-21)
+[![Vitamaze® Vitamina B Complex con 180 tab](https://m.media-amazon.com/images/I/41elRPLPp8L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01N6EMPXO/?tag=tolees-21)
 
 ℹ️:
 

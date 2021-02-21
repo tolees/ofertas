@@ -2,7 +2,7 @@
 layout: post
 title: 'fascinations- Darth Vader s Tie Fighter  al 39.22 % de descuento'
 date: 2020-04-17 07:36:52
-image: 'https://m.media-amazon.com/images/I/419zhCmyOaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/419zhCmyOaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.27'
 
 Está [fascinations- Darth Vader s Tie Fighter Maqueta metálica 3D Star Wars  Color Plata  MMS253 ](https://www.amazon.es/dp/B00GY9A2N6/?tag=tolees-21) con 39.22 de descuento por 10.85 EUR (original: 17.85 EUR) en el siguiente enlace!
 
-[![fascinations- Darth Vader s Tie Fighter ](https://m.media-amazon.com/images/I/419zhCmyOaL._SL200_.jpg)](https://www.amazon.es/dp/B00GY9A2N6/?tag=tolees-21)
+[![fascinations- Darth Vader s Tie Fighter ](https://m.media-amazon.com/images/I/419zhCmyOaL._SL400_.jpg)](https://www.amazon.es/dp/B00GY9A2N6/?tag=tolees-21)
 
 ℹ️:
 

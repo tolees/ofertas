@@ -2,7 +2,7 @@
 layout: post
 title: 'Brabantia Cubo de Basura con Pedal  Inox al 34.13 % de rebaja'
 date: 2020-08-24 15:31:21
-image: 'https://m.media-amazon.com/images/I/31OKGWiQ6XL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31OKGWiQ6XL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '50.666666666666664'
 
 Tienes [Brabantia Cubo de Basura con Pedal  Inoxidable  Acero Brillante  30 l](https://www.amazon.es/dp/B01LXCYTR4/?tag=tolees-21) con precio final de  49.4 EUR (original: 75.0 EUR) (34.13 %  de rebaja) aqui!
 
-[![Brabantia Cubo de Basura con Pedal  Inox](https://m.media-amazon.com/images/I/31OKGWiQ6XL._SL200_.jpg)](https://www.amazon.es/dp/B01LXCYTR4/?tag=tolees-21)
+[![Brabantia Cubo de Basura con Pedal  Inox](https://m.media-amazon.com/images/I/31OKGWiQ6XL._SL400_.jpg)](https://www.amazon.es/dp/B01LXCYTR4/?tag=tolees-21)
 
 🔎:
 

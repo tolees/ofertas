@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 30.51 % en Lowepro Torba Apex 120 AW Black'
 date: 2020-10-06 08:25:36
-image: 'https://m.media-amazon.com/images/I/41eFs2xHLsL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41eFs2xHLsL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '31.2'
 
 Tienes [Lowepro Torba Apex 120 AW Black](https://www.amazon.es/dp/B000KZD75A/?tag=tolees-21) con un 30.51 % de descuento con precio de oferta de 31.2 EUR (original: 44.9 EUR) en el siguiente enlace!
 
-[![Lowepro Torba Apex 120 AW Black](https://m.media-amazon.com/images/I/41eFs2xHLsL._SL200_.jpg)](https://www.amazon.es/dp/B000KZD75A/?tag=tolees-21)
+[![Lowepro Torba Apex 120 AW Black](https://m.media-amazon.com/images/I/41eFs2xHLsL._SL400_.jpg)](https://www.amazon.es/dp/B000KZD75A/?tag=tolees-21)
 
 ℹ️:
 

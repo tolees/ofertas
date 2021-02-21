@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour Sportstyle Wind Parte Super al 28.15 % de descuento'
 date: 2020-04-01 06:10:07
-image: 'https://m.media-amazon.com/images/I/319-LLFcubL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/319-LLFcubL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '43.11'
 
 Ahora mismo tienes [Under Armour Sportstyle Wind Parte Superior del Calentamiento  Hombre  Negro  MD](https://www.amazon.es/dp/B07CZPSYRX/?tag=tolees-21) a 43.11 EUR (original: 60.0 EUR) (28.15 %  de descuento) en el siguiente enlace!
 
-[![Under Armour Sportstyle Wind Parte Super](https://m.media-amazon.com/images/I/319-LLFcubL._SL200_.jpg)](https://www.amazon.es/dp/B07CZPSYRX/?tag=tolees-21)
+[![Under Armour Sportstyle Wind Parte Super](https://m.media-amazon.com/images/I/319-LLFcubL._SL400_.jpg)](https://www.amazon.es/dp/B07CZPSYRX/?tag=tolees-21)
 
 🔎:
 

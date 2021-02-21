@@ -2,7 +2,7 @@
 layout: post
 title: 'Corsair M65 Pro RGB - Ratón óptico para  al 35.72 % de descuento'
 date: 2020-02-16 11:16:24
-image: 'https://m.media-amazon.com/images/I/31Ljx348WEL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Ljx348WEL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '54.120000000000005'
 
 Está [Corsair M65 Pro RGB - Ratón óptico para Juegos  retroiluminación RGB Multicolore  12000 dpi  con Cable   Color Blanco](https://www.amazon.es/dp/B01ELUFKTU/?tag=tolees-21) con 35.72 de descuento por 44.99 EUR (original: 69.99 EUR) en el siguiente enlace!
 
-[![Corsair M65 Pro RGB - Ratón óptico para ](https://m.media-amazon.com/images/I/31Ljx348WEL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01ELUFKTU/?tag=tolees-21)
+[![Corsair M65 Pro RGB - Ratón óptico para ](https://m.media-amazon.com/images/I/31Ljx348WEL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01ELUFKTU/?tag=tolees-21)
 
 ℹ️:
 

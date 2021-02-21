@@ -2,7 +2,7 @@
 layout: post
 title: 'Disney Frozen - Cuerda de Saltar  Smoby  al 40.38 % de descuento'
 date: 2020-01-23 18:12:40
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41AaBvhViiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41AaBvhViiL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.0565'
 
 Está [Disney Frozen - Cuerda de Saltar  Smoby 27244 ](https://www.amazon.es/dp/B00X5RP6HW/?tag=tolees-21) con 40.38 de descuento por 14.9 EUR (original: 24.99 EUR) en el siguiente enlace!
 
-[![Disney Frozen - Cuerda de Saltar  Smoby ](https://images-eu.ssl-images-amazon.com/images/I/41AaBvhViiL._SL200_.jpg)](https://www.amazon.es/dp/B00X5RP6HW/?tag=tolees-21)
+[![Disney Frozen - Cuerda de Saltar  Smoby ](https://images-eu.ssl-images-amazon.com/images/I/41AaBvhViiL._SL400_.jpg)](https://www.amazon.es/dp/B00X5RP6HW/?tag=tolees-21)
 
 ℹ️:
 

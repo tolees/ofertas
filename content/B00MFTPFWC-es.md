@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 51.50 % en Jimmy Choo Man Agua de toilette con vapo'
 date: 2020-08-27 19:03:16
-image: 'https://m.media-amazon.com/images/I/31B3ELcXqWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31B3ELcXqWL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '26.95'
 
 Tienes [Jimmy Choo Man Agua de toilette con vaporizador - 50 ml](https://www.amazon.es/dp/B00MFTPFWC/?tag=tolees-21) con un 51.50 % de descuento con precio de oferta de 27.16 EUR (original: 56.0 EUR) en el siguiente enlace!
 
-[![Jimmy Choo Man Agua de toilette con vapo](https://m.media-amazon.com/images/I/31B3ELcXqWL._SL200_.jpg)](https://www.amazon.es/dp/B00MFTPFWC/?tag=tolees-21)
+[![Jimmy Choo Man Agua de toilette con vapo](https://m.media-amazon.com/images/I/31B3ELcXqWL._SL400_.jpg)](https://www.amazon.es/dp/B00MFTPFWC/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'HUNTER Comida Acero Inoxidable al 64.34 % de descuento'
 date: 2020-05-28 19:50:45
-image: 'https://m.media-amazon.com/images/I/41yUf2qhIaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41yUf2qhIaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.99'
 
 Está [HUNTER Comida Acero Inoxidable](https://www.amazon.es/dp/B001PTDGAG/?tag=tolees-21) con 64.34 de descuento por 6.99 EUR (original: 19.6 EUR) en el siguiente enlace!
 
-[![HUNTER Comida Acero Inoxidable](https://m.media-amazon.com/images/I/41yUf2qhIaL._SL200_.jpg)](https://www.amazon.es/dp/B001PTDGAG/?tag=tolees-21)
+[![HUNTER Comida Acero Inoxidable](https://m.media-amazon.com/images/I/41yUf2qhIaL._SL400_.jpg)](https://www.amazon.es/dp/B001PTDGAG/?tag=tolees-21)
 
 ℹ️:
 

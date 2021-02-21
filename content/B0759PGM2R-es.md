@@ -2,7 +2,7 @@
 layout: post
 title: 'Clarks Brixby Cove  Sandalia con Pulsera al 45.03 % de descuento'
 date: 2020-08-11 08:16:16
-image: 'https://m.media-amazon.com/images/I/4184ZBTKlPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/4184ZBTKlPL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '43.95'
 
 Ahora mismo tienes [Clarks Brixby Cove  Sandalia con Pulsera para Hombre  Marrón  Dark Brown Leather-   39.5 EU](https://www.amazon.es/dp/B0759PGM2R/?tag=tolees-21) a 43.95 EUR (original: 79.95 EUR) (45.03 %  de descuento) en el siguiente enlace!
 
-[![Clarks Brixby Cove  Sandalia con Pulsera](https://m.media-amazon.com/images/I/4184ZBTKlPL._SL200_.jpg)](https://www.amazon.es/dp/B0759PGM2R/?tag=tolees-21)
+[![Clarks Brixby Cove  Sandalia con Pulsera](https://m.media-amazon.com/images/I/4184ZBTKlPL._SL400_.jpg)](https://www.amazon.es/dp/B0759PGM2R/?tag=tolees-21)
 
 🔎:
 

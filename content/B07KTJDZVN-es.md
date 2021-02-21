@@ -2,7 +2,7 @@
 layout: post
 title: 'Scuderia Ferrari Reloj de Pulsera 830597 al 47.96 % de descuento'
 date: 2020-05-03 10:18:18
-image: 'https://m.media-amazon.com/images/I/41kV1iXfsFL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41kV1iXfsFL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '142.22666666666666'
 
 Ahora mismo tienes [Scuderia Ferrari Reloj de Pulsera 830597](https://www.amazon.es/dp/B07KTJDZVN/?tag=tolees-21) a 127.51 EUR (original: 245.0 EUR) (47.96 %  de descuento) en el siguiente enlace!
 
-[![Scuderia Ferrari Reloj de Pulsera 830597](https://m.media-amazon.com/images/I/41kV1iXfsFL._SL200_.jpg)](https://www.amazon.es/dp/B07KTJDZVN/?tag=tolees-21)
+[![Scuderia Ferrari Reloj de Pulsera 830597](https://m.media-amazon.com/images/I/41kV1iXfsFL._SL400_.jpg)](https://www.amazon.es/dp/B07KTJDZVN/?tag=tolees-21)
 
 🔎:
 

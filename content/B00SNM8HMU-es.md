@@ -2,7 +2,7 @@
 layout: post
 title: 'Samsung BT-EPLN915UB - Cargador de coche con un 73.58 % de descuento'
 date: 2020-02-09 00:29:38
-image: 'https://m.media-amazon.com/images/I/31lgkibsONL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31lgkibsONL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.9'
 
 En este momento está [Samsung BT-EPLN915UB - Cargador de coche con Micro USB  2A  color negro- Versión española](https://www.amazon.es/dp/B00SNM8HMU/?tag=tolees-21) a 7.9 EUR (original: 29.9 EUR) (73.58 %  de descuento) en el siguiente enlace!
 
-[![Samsung BT-EPLN915UB - Cargador de coche](https://m.media-amazon.com/images/I/31lgkibsONL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B00SNM8HMU/?tag=tolees-21)
+[![Samsung BT-EPLN915UB - Cargador de coche](https://m.media-amazon.com/images/I/31lgkibsONL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B00SNM8HMU/?tag=tolees-21)
 
 🔎:
 

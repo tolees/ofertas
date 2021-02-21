@@ -2,7 +2,7 @@
 layout: post
 title: 'HYMY Funda para LG K40S Smartphone + 2 x al 46.19 % de rebaja'
 date: 2020-05-23 17:32:42
-image: 'https://m.media-amazon.com/images/I/516p4rJLeyL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/516p4rJLeyL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.88'
 
 Tienes [HYMY Funda para LG K40S Smartphone + 2 x Cristal Templado - Transparente Tapa TPU Silicona [Refuerzo de Cuatro Esquinas  Absorción de Golpes] Caso Carcasa para LG K40S  6.1" ](https://www.amazon.es/dp/B07ZM9D4TK/?tag=tolees-21) con precio final de  3.88 EUR (original: 7.21 EUR) (46.19 %  de rebaja) aqui!
 
-[![HYMY Funda para LG K40S Smartphone + 2 x](https://m.media-amazon.com/images/I/516p4rJLeyL._SL200_.jpg)](https://www.amazon.es/dp/B07ZM9D4TK/?tag=tolees-21)
+[![HYMY Funda para LG K40S Smartphone + 2 x](https://m.media-amazon.com/images/I/516p4rJLeyL._SL400_.jpg)](https://www.amazon.es/dp/B07ZM9D4TK/?tag=tolees-21)
 
 🔎:
 

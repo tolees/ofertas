@@ -2,7 +2,7 @@
 layout: post
 title: 'Creation Station - Lote de limpiapipas   al 36.90 % de rebaja'
 date: 2020-04-18 01:24:36
-image: 'https://m.media-amazon.com/images/I/51iurbwwGjL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51iurbwwGjL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.19'
 
 Tienes [Creation Station - Lote de limpiapipas  tamaño Jumbo   Colores Surtidos](https://www.amazon.es/dp/B004D3UPB4/?tag=tolees-21) con precio final de  4.19 EUR (original: 6.64 EUR) (36.90 %  de rebaja) aqui!
 
-[![Creation Station - Lote de limpiapipas  ](https://m.media-amazon.com/images/I/51iurbwwGjL._SL200_.jpg)](https://www.amazon.es/dp/B004D3UPB4/?tag=tolees-21)
+[![Creation Station - Lote de limpiapipas  ](https://m.media-amazon.com/images/I/51iurbwwGjL._SL400_.jpg)](https://www.amazon.es/dp/B004D3UPB4/?tag=tolees-21)
 
 🔎:
 

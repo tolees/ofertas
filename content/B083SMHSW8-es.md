@@ -2,7 +2,7 @@
 layout: post
 title: 'Cinta Métrica Láser 2 En 1  Meterk Telém con un 43.15 % de descuento'
 date: 2020-06-11 05:45:39
-image: 'https://m.media-amazon.com/images/I/41AjxsdyO3L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41AjxsdyO3L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '32.97'
 
 En este momento está [Cinta Métrica Láser 2 En 1  Meterk Telémetro láser 131.2Ft/40M y de Cinta Métrica 16.5Ft/5M  Medidor de Distancia Láser Digital LED Medición de Distancia  Área/Volumen/Pitágoras.](https://www.amazon.es/dp/B083SMHSW8/?tag=tolees-21) a 32.97 EUR (original: 57.99 EUR) (43.15 %  de descuento) en el siguiente enlace!
 
-[![Cinta Métrica Láser 2 En 1  Meterk Telém](https://m.media-amazon.com/images/I/41AjxsdyO3L._SL200_.jpg)](https://www.amazon.es/dp/B083SMHSW8/?tag=tolees-21)
+[![Cinta Métrica Láser 2 En 1  Meterk Telém](https://m.media-amazon.com/images/I/41AjxsdyO3L._SL400_.jpg)](https://www.amazon.es/dp/B083SMHSW8/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Ramón Bilbao Vino Viñedos de Altura - 75 al 31.66 % de descuento'
 date: 2020-05-09 11:53:31
-image: 'https://m.media-amazon.com/images/I/31RpyyQEuOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31RpyyQEuOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.49'
 
 Ahora mismo tienes [Ramón Bilbao Vino Viñedos de Altura - 750 ml](https://www.amazon.es/dp/B00O39RE7Q/?tag=tolees-21) a 10.49 EUR (original: 15.35 EUR) (31.66 %  de descuento) en el siguiente enlace!
 
-[![Ramón Bilbao Vino Viñedos de Altura - 75](https://m.media-amazon.com/images/I/31RpyyQEuOL._SL200_.jpg)](https://www.amazon.es/dp/B00O39RE7Q/?tag=tolees-21)
+[![Ramón Bilbao Vino Viñedos de Altura - 75](https://m.media-amazon.com/images/I/31RpyyQEuOL._SL400_.jpg)](https://www.amazon.es/dp/B00O39RE7Q/?tag=tolees-21)
 
 🔎:
 

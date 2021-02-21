@@ -2,7 +2,7 @@
 layout: post
 title: 'Tarjetero Pepe Jeans Half vertical Azul al 46.95 % de descuento'
 date: 2020-07-12 17:01:03
-image: 'https://m.media-amazon.com/images/I/4176PY6S25L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/4176PY6S25L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '26.52'
 
 Ahora mismo tienes [Tarjetero Pepe Jeans Half vertical Azul](https://www.amazon.es/dp/B07YVKWWCN/?tag=tolees-21) a 26.52 EUR (original: 49.99 EUR) (46.95 %  de descuento) en el siguiente enlace!
 
-[![Tarjetero Pepe Jeans Half vertical Azul](https://m.media-amazon.com/images/I/4176PY6S25L._SL200_.jpg)](https://www.amazon.es/dp/B07YVKWWCN/?tag=tolees-21)
+[![Tarjetero Pepe Jeans Half vertical Azul](https://m.media-amazon.com/images/I/4176PY6S25L._SL400_.jpg)](https://www.amazon.es/dp/B07YVKWWCN/?tag=tolees-21)
 
 🔎:
 

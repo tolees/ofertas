@@ -2,7 +2,7 @@
 layout: post
 title: 'L Oreal Paris Colorista Fader - Champú B al 96.86 % de descuento'
 date: 2020-10-02 10:12:09
-image: 'https://m.media-amazon.com/images/I/31XMcfaewrL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31XMcfaewrL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '0.5'
 
 Está [L Oreal Paris Colorista Fader - Champú Borrador del color Washout](https://www.amazon.es/dp/B01MZFKHXN/?tag=tolees-21) con 96.86 de descuento por 0.25 EUR (original: 7.95 EUR) en el siguiente enlace!
 
-[![L Oreal Paris Colorista Fader - Champú B](https://m.media-amazon.com/images/I/31XMcfaewrL._SL200_.jpg)](https://www.amazon.es/dp/B01MZFKHXN/?tag=tolees-21)
+[![L Oreal Paris Colorista Fader - Champú B](https://m.media-amazon.com/images/I/31XMcfaewrL._SL400_.jpg)](https://www.amazon.es/dp/B01MZFKHXN/?tag=tolees-21)
 
 ℹ️:
 

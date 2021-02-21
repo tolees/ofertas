@@ -2,7 +2,7 @@
 layout: post
 title: 'Panasonic SC-UA3E-K 300W Negro Sistema d al 40.13 % de descuento'
 date: 2020-03-30 12:32:08
-image: 'https://m.media-amazon.com/images/I/41ys9FI893L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ys9FI893L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '177.77'
 
 Ahora mismo tienes [Panasonic SC-UA3E-K 300W Negro Sistema de Audio para el hogar - Microcadena  Negro  300 W  13 cm  4 cm  FM  CD CD-R CD-RW ](https://www.amazon.es/dp/B073PZS7TL/?tag=tolees-21) a 97.67 EUR (original: 163.15 EUR) (40.13 %  de descuento) en el siguiente enlace!
 
-[![Panasonic SC-UA3E-K 300W Negro Sistema d](https://m.media-amazon.com/images/I/41ys9FI893L._SL200_.jpg)](https://www.amazon.es/dp/B073PZS7TL/?tag=tolees-21)
+[![Panasonic SC-UA3E-K 300W Negro Sistema d](https://m.media-amazon.com/images/I/41ys9FI893L._SL400_.jpg)](https://www.amazon.es/dp/B073PZS7TL/?tag=tolees-21)
 
 🔎:
 

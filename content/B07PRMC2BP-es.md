@@ -2,7 +2,7 @@
 layout: post
 title: 'Bourjois Velvet The Pencil - Pintalabios al 69.10 % de descuento'
 date: 2020-02-27 12:14:48
-image: 'https://m.media-amazon.com/images/I/31df7qVT4bL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31df7qVT4bL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.69'
 
 Ahora mismo tienes [Bourjois Velvet The Pencil - Pintalabios Tono 4 Amou-rose  3g](https://www.amazon.es/dp/B07PRMC2BP/?tag=tolees-21) a 3.69 EUR (original: 11.94 EUR) (69.10 %  de descuento) en el siguiente enlace!
 
-[![Bourjois Velvet The Pencil - Pintalabios](https://m.media-amazon.com/images/I/31df7qVT4bL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07PRMC2BP/?tag=tolees-21)
+[![Bourjois Velvet The Pencil - Pintalabios](https://m.media-amazon.com/images/I/31df7qVT4bL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07PRMC2BP/?tag=tolees-21)
 
 🔎:
 

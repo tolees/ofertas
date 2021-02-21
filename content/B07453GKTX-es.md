@@ -2,7 +2,7 @@
 layout: post
 title: 'TY- Beanie Boo s Mandy Poodle  caniche   con un 46.19 % de descuento'
 date: 2020-08-22 00:15:23
-image: 'https://m.media-amazon.com/images/I/51PRcf4+xsL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51PRcf4+xsL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.99'
 
 En este momento está [TY- Beanie Boo s Mandy Poodle  caniche  Color azul  23 cm  United Labels Ibérica 37263TY    color/modelo surtido](https://www.amazon.es/dp/B07453GKTX/?tag=tolees-21) a 6.99 EUR (original: 12.99 EUR) (46.19 %  de descuento) en el siguiente enlace!
 
-[![TY- Beanie Boo s Mandy Poodle  caniche  ](https://m.media-amazon.com/images/I/51PRcf4+xsL._SL200_.jpg)](https://www.amazon.es/dp/B07453GKTX/?tag=tolees-21)
+[![TY- Beanie Boo s Mandy Poodle  caniche  ](https://m.media-amazon.com/images/I/51PRcf4+xsL._SL400_.jpg)](https://www.amazon.es/dp/B07453GKTX/?tag=tolees-21)
 
 🔎:
 

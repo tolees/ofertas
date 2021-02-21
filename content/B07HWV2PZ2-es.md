@@ -2,7 +2,7 @@
 layout: post
 title: 'Real Madrid FC Body Niños - Producto Ofi al 31.85 % de descuento'
 date: 2020-06-21 07:49:01
-image: 'https://m.media-amazon.com/images/I/41cZREWkVgL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41cZREWkVgL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.89'
 
 Ahora mismo tienes [Real Madrid FC Body Niños - Producto Oficial Primera equipación 2018/2019  1 Mes ](https://www.amazon.es/dp/B07HWV2PZ2/?tag=tolees-21) a 10.89 EUR (original: 15.98 EUR) (31.85 %  de descuento) en el siguiente enlace!
 
-[![Real Madrid FC Body Niños - Producto Ofi](https://m.media-amazon.com/images/I/41cZREWkVgL._SL200_.jpg)](https://www.amazon.es/dp/B07HWV2PZ2/?tag=tolees-21)
+[![Real Madrid FC Body Niños - Producto Ofi](https://m.media-amazon.com/images/I/41cZREWkVgL._SL400_.jpg)](https://www.amazon.es/dp/B07HWV2PZ2/?tag=tolees-21)
 
 🔎:
 

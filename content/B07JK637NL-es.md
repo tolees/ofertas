@@ -2,7 +2,7 @@
 layout: post
 title: 'TAZA CERAMICA 3D 450 ML | PUÑO HULK al 55.17 % de descuento'
 date: 2020-03-10 09:33:31
-image: 'https://m.media-amazon.com/images/I/41qMihljT5L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41qMihljT5L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.99'
 
 Ahora mismo tienes [TAZA CERAMICA 3D 450 ML | PUÑO HULK](https://www.amazon.es/dp/B07JK637NL/?tag=tolees-21) a 3.99 EUR (original: 8.9 EUR) (55.17 %  de descuento) en el siguiente enlace!
 
-[![TAZA CERAMICA 3D 450 ML | PUÑO HULK](https://m.media-amazon.com/images/I/41qMihljT5L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07JK637NL/?tag=tolees-21)
+[![TAZA CERAMICA 3D 450 ML | PUÑO HULK](https://m.media-amazon.com/images/I/41qMihljT5L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07JK637NL/?tag=tolees-21)
 
 🔎:
 

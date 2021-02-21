@@ -2,7 +2,7 @@
 layout: post
 title: 'Mini Maquina de Coser Portatil de Mano H al 80.01 % de descuento'
 date: 2020-01-24 11:50:35
-image: 'https://m.media-amazon.com/images/I/51UfIhaaYqL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51UfIhaaYqL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.99'
 
 Ahora mismo tienes [Mini Maquina de Coser Portatil de Mano Herramienta de Herramienta de Puntada Rápida para Tela Ropa o Tela de Niños con Bobina Adicional  Aguja y Enhebrador Uso de Viaje y Casa  batería no incluida ](https://www.amazon.es/dp/B07TS7BCKS/?tag=tolees-21) a 19.99 EUR (original: 99.99 EUR) (80.01 %  de descuento) en el siguiente enlace!
 
-[![Mini Maquina de Coser Portatil de Mano H](https://m.media-amazon.com/images/I/51UfIhaaYqL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07TS7BCKS/?tag=tolees-21)
+[![Mini Maquina de Coser Portatil de Mano H](https://m.media-amazon.com/images/I/51UfIhaaYqL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07TS7BCKS/?tag=tolees-21)
 
 🔎:
 

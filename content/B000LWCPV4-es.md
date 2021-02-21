@@ -2,7 +2,7 @@
 layout: post
 title: 'Snazaroo - Pintura facial y corporal  18 al 33.94 % de rebaja'
 date: 2020-02-19 12:17:48
-image: 'https://images-eu.ssl-images-amazon.com/images/I/514TMgEkeuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/514TMgEkeuL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.75'
 
 Tienes [Snazaroo - Pintura facial y corporal  18 ml  color negro](https://www.amazon.es/dp/B000LWCPV4/?tag=tolees-21) con precio final de  4.75 EUR (original: 7.19 EUR) (33.94 %  de rebaja) aqui!
 
-[![Snazaroo - Pintura facial y corporal  18](https://images-eu.ssl-images-amazon.com/images/I/514TMgEkeuL._SL200_.jpg)](https://www.amazon.es/dp/B000LWCPV4/?tag=tolees-21)
+[![Snazaroo - Pintura facial y corporal  18](https://images-eu.ssl-images-amazon.com/images/I/514TMgEkeuL._SL400_.jpg)](https://www.amazon.es/dp/B000LWCPV4/?tag=tolees-21)
 
 🔎:
 

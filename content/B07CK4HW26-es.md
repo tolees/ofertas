@@ -2,7 +2,7 @@
 layout: post
 title: 'Nike Perfume Nike Woman Pink Edt 30 mili al 69.21 % de descuento'
 date: 2020-03-17 13:46:20
-image: 'https://m.media-amazon.com/images/I/41L+O-1mEfL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41L+O-1mEfL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.9'
 
 Está [Nike Perfume Nike Woman Pink Edt 30 mililitros - 30 ml](https://www.amazon.es/dp/B07CK4HW26/?tag=tolees-21) con 69.21 de descuento por 2.9 EUR (original: 9.42 EUR) en el siguiente enlace!
 
-[![Nike Perfume Nike Woman Pink Edt 30 mili](https://m.media-amazon.com/images/I/41L+O-1mEfL._SL200_.jpg)](https://www.amazon.es/dp/B07CK4HW26/?tag=tolees-21)
+[![Nike Perfume Nike Woman Pink Edt 30 mili](https://m.media-amazon.com/images/I/41L+O-1mEfL._SL400_.jpg)](https://www.amazon.es/dp/B07CK4HW26/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'find. Botas Efecto Ante para Mujer  Gris al 60.00 % de descuento'
 date: 2020-01-11 17:12:47
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31cyodwL24L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31cyodwL24L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.5'
 
 Ahora mismo tienes [find. Botas Efecto Ante para Mujer  Gris  Grey   36 EU](https://www.amazon.es/dp/B072MTMKVN/?tag=tolees-21) a 19.5 EUR (original: 48.75 EUR) (60.00 %  de descuento) en el siguiente enlace!
 
-[![find. Botas Efecto Ante para Mujer  Gris](https://images-eu.ssl-images-amazon.com/images/I/31cyodwL24L._SL200_.jpg)](https://www.amazon.es/dp/B072MTMKVN/?tag=tolees-21)
+[![find. Botas Efecto Ante para Mujer  Gris](https://images-eu.ssl-images-amazon.com/images/I/31cyodwL24L._SL400_.jpg)](https://www.amazon.es/dp/B072MTMKVN/?tag=tolees-21)
 
 🔎:
 

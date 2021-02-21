@@ -2,7 +2,7 @@
 layout: post
 title: 'PUMA Liga Casuals Polo  Hombre  Verde  P con un 42.05 % de descuento'
 date: 2020-04-20 09:28:13
-image: 'https://m.media-amazon.com/images/I/41hGF4pOKqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41hGF4pOKqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.46'
 
 En este momento está [PUMA Liga Casuals Polo  Hombre  Verde  Pepper Green/White   M](https://www.amazon.es/dp/B078T63SJP/?tag=tolees-21) a 8.71 EUR (original: 15.03 EUR) (42.05 %  de descuento) en el siguiente enlace!
 
-[![PUMA Liga Casuals Polo  Hombre  Verde  P](https://m.media-amazon.com/images/I/41hGF4pOKqL._SL200_.jpg)](https://www.amazon.es/dp/B078T63SJP/?tag=tolees-21)
+[![PUMA Liga Casuals Polo  Hombre  Verde  P](https://m.media-amazon.com/images/I/41hGF4pOKqL._SL400_.jpg)](https://www.amazon.es/dp/B078T63SJP/?tag=tolees-21)
 
 🔎:
 

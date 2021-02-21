@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 57.27 % en Dickies New York Short  Pantalones Corto'
 date: 2020-02-26 12:37:33
-image: 'https://m.media-amazon.com/images/I/41cenNXc9xL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41cenNXc9xL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '25.21'
 
 Tienes [Dickies New York Short  Pantalones Cortos para Hombre  Multicolor  Camouflage   44 W](https://www.amazon.es/dp/B01NBF50NB/?tag=tolees-21) con un 57.27 % de descuento con precio de oferta de 25.21 EUR (original: 59.0 EUR) en el siguiente enlace!
 
-[![Dickies New York Short  Pantalones Corto](https://m.media-amazon.com/images/I/41cenNXc9xL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01NBF50NB/?tag=tolees-21)
+[![Dickies New York Short  Pantalones Corto](https://m.media-amazon.com/images/I/41cenNXc9xL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01NBF50NB/?tag=tolees-21)
 
 ℹ️:
 

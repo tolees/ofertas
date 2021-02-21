@@ -2,7 +2,7 @@
 layout: post
 title: 'MWPO Cortinas de Cuentas Azules Cuerdas  al 44.45 % de descuento'
 date: 2020-04-19 14:02:49
-image: 'https://m.media-amazon.com/images/I/51zb8G8m+aL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51zb8G8m+aL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '184.99'
 
 Está [MWPO Cortinas de Cuentas Azules Cuerdas Colgantes de plástico Puerta Divisor de la habitación Decoración Panel Pantalla Entrada Puerta Balcón  Personalizable  Tamaño: 120x200cm-160 Hilos ](https://www.amazon.es/dp/B08766WSXN/?tag=tolees-21) con 44.45 de descuento por 184.99 EUR (original: 332.99 EUR) en el siguiente enlace!
 
-[![MWPO Cortinas de Cuentas Azules Cuerdas ](https://m.media-amazon.com/images/I/51zb8G8m+aL._SL200_.jpg)](https://www.amazon.es/dp/B08766WSXN/?tag=tolees-21)
+[![MWPO Cortinas de Cuentas Azules Cuerdas ](https://m.media-amazon.com/images/I/51zb8G8m+aL._SL400_.jpg)](https://www.amazon.es/dp/B08766WSXN/?tag=tolees-21)
 
 ℹ️:
 

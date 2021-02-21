@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger Tjw Tommy Classics tee Ro al 51.72 % de rebaja'
 date: 2020-07-07 15:17:20
-image: 'https://m.media-amazon.com/images/I/41vtAjNOQ5L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41vtAjNOQ5L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.99'
 
 Tienes [Tommy Hilfiger Tjw Tommy Classics tee Ropa Deportiva de Punto  Gris  Pale Grey Htr PPP   38  Talla del Fabricante: Medium  para Mujer](https://www.amazon.es/dp/B07VQW4BHG/?tag=tolees-21) con precio final de  14.0 EUR (original: 29.0 EUR) (51.72 %  de rebaja) aqui!
 
-[![Tommy Hilfiger Tjw Tommy Classics tee Ro](https://m.media-amazon.com/images/I/41vtAjNOQ5L._SL200_.jpg)](https://www.amazon.es/dp/B07VQW4BHG/?tag=tolees-21)
+[![Tommy Hilfiger Tjw Tommy Classics tee Ro](https://m.media-amazon.com/images/I/41vtAjNOQ5L._SL400_.jpg)](https://www.amazon.es/dp/B07VQW4BHG/?tag=tolees-21)
 
 🔎:
 

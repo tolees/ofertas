@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 27.37 % en Cubo de profesional piramidal 3x3.'
 date: 2020-01-16 11:56:09
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51vWmvHCe6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51vWmvHCe6L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.5'
 
 Tienes [Cubo de profesional piramidal 3x3.](https://www.amazon.es/dp/B0771T5CKW/?tag=tolees-21) con un 27.37 % de descuento con precio de oferta de 6.5 EUR (original: 8.95 EUR) en el siguiente enlace!
 
-[![Cubo de profesional piramidal 3x3.](https://images-eu.ssl-images-amazon.com/images/I/51vWmvHCe6L._SL200_.jpg)](https://www.amazon.es/dp/B0771T5CKW/?tag=tolees-21)
+[![Cubo de profesional piramidal 3x3.](https://images-eu.ssl-images-amazon.com/images/I/51vWmvHCe6L._SL400_.jpg)](https://www.amazon.es/dp/B0771T5CKW/?tag=tolees-21)
 
 ℹ️:
 

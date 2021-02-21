@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 46.63 % en Lampa 60158 Cinta Tensor con trinquete'
 date: 2020-03-20 09:04:00
-image: 'https://m.media-amazon.com/images/I/414qIn8vcsL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/414qIn8vcsL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.86'
 
 Tienes [Lampa 60158 Cinta Tensor con trinquete](https://www.amazon.es/dp/B01LETDY80/?tag=tolees-21) con un 46.63 % de descuento con precio de oferta de 8.86 EUR (original: 16.6 EUR) en el siguiente enlace!
 
-[![Lampa 60158 Cinta Tensor con trinquete](https://m.media-amazon.com/images/I/414qIn8vcsL._SL200_.jpg)](https://www.amazon.es/dp/B01LETDY80/?tag=tolees-21)
+[![Lampa 60158 Cinta Tensor con trinquete](https://m.media-amazon.com/images/I/414qIn8vcsL._SL400_.jpg)](https://www.amazon.es/dp/B01LETDY80/?tag=tolees-21)
 
 ℹ️:
 

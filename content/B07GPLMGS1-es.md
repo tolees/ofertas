@@ -2,7 +2,7 @@
 layout: post
 title: 'Skechers Status 2.0 Lorano  Náuticos par al 29.99 % de descuento'
 date: 2020-07-01 15:00:57
-image: 'https://m.media-amazon.com/images/I/41T8cyxalZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41T8cyxalZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '45.47'
 
 Está [Skechers Status 2.0 Lorano  Náuticos para Hombre  Negro  Black Canvas Black   45 EU](https://www.amazon.es/dp/B07GPLMGS1/?tag=tolees-21) con 29.99 de descuento por 45.47 EUR (original: 64.95 EUR) en el siguiente enlace!
 
-[![Skechers Status 2.0 Lorano  Náuticos par](https://m.media-amazon.com/images/I/41T8cyxalZL._SL200_.jpg)](https://www.amazon.es/dp/B07GPLMGS1/?tag=tolees-21)
+[![Skechers Status 2.0 Lorano  Náuticos par](https://m.media-amazon.com/images/I/41T8cyxalZL._SL400_.jpg)](https://www.amazon.es/dp/B07GPLMGS1/?tag=tolees-21)
 
 ℹ️:
 

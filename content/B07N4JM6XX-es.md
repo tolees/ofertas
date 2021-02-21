@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s Woods W  Zapatillas para Mujer  B al 30.02 % de descuento'
 date: 2020-08-04 13:47:44
-image: 'https://m.media-amazon.com/images/I/31jcXUNGQFL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31jcXUNGQFL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '41.99'
 
 Está [Levi s Woods W  Zapatillas para Mujer  Blanco  B White 50   39 EU](https://www.amazon.es/dp/B07N4JM6XX/?tag=tolees-21) con 30.02 de descuento por 41.99 EUR (original: 60.0 EUR) en el siguiente enlace!
 
-[![Levi s Woods W  Zapatillas para Mujer  B](https://m.media-amazon.com/images/I/31jcXUNGQFL._SL200_.jpg)](https://www.amazon.es/dp/B07N4JM6XX/?tag=tolees-21)
+[![Levi s Woods W  Zapatillas para Mujer  B](https://m.media-amazon.com/images/I/31jcXUNGQFL._SL400_.jpg)](https://www.amazon.es/dp/B07N4JM6XX/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'New Balance Fresh Faom Cruz v2 Hygge Pac con un 67.66 % de descuento'
 date: 2020-02-11 11:47:02
-image: 'https://m.media-amazon.com/images/I/515wEe8QysL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/515wEe8QysL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '34.26'
 
 En este momento está [New Balance Fresh Faom Cruz v2 Hygge Pack  Zapatillas para Mujer  Verde  Camp Smoke/Vintage Cedar/Faded Birch Hg2   41.5 EU](https://www.amazon.es/dp/B07DJ3JGFM/?tag=tolees-21) a 30.72 EUR (original: 95.0 EUR) (67.66 %  de descuento) en el siguiente enlace!
 
-[![New Balance Fresh Faom Cruz v2 Hygge Pac](https://m.media-amazon.com/images/I/515wEe8QysL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07DJ3JGFM/?tag=tolees-21)
+[![New Balance Fresh Faom Cruz v2 Hygge Pac](https://m.media-amazon.com/images/I/515wEe8QysL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07DJ3JGFM/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'BRIKSMAX Kit de Iluminación Led para Res al 57.15 % de descuento'
 date: 2020-03-09 10:39:22
-image: 'https://m.media-amazon.com/images/I/51gBCLIU-gL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51gBCLIU-gL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.99'
 
 Ahora mismo tienes [BRIKSMAX Kit de Iluminación Led para Restaurante Paris-Compatible con Ladrillos de Construcción Lego Modelo 10243-Juego de Legos no Incluido](https://www.amazon.es/dp/B07LCDLLJD/?tag=tolees-21) a 29.99 EUR (original: 69.99 EUR) (57.15 %  de descuento) en el siguiente enlace!
 
-[![BRIKSMAX Kit de Iluminación Led para Res](https://m.media-amazon.com/images/I/51gBCLIU-gL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07LCDLLJD/?tag=tolees-21)
+[![BRIKSMAX Kit de Iluminación Led para Res](https://m.media-amazon.com/images/I/51gBCLIU-gL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07LCDLLJD/?tag=tolees-21)
 
 🔎:
 

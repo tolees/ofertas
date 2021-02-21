@@ -2,7 +2,7 @@
 layout: post
 title: 'Casio Reloj Analógico-Digital para Hombr al 49.49 % de descuento'
 date: 2020-09-28 16:44:07
-image: 'https://m.media-amazon.com/images/I/41R0cnSHfTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41R0cnSHfTL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '96.0'
 
 Ahora mismo tienes [Casio Reloj Analógico-Digital para Hombre de Cuarzo con Correa en Resina Sport-Laufuhren CHF-100-2AVER](https://www.amazon.es/dp/B000NG7YKU/?tag=tolees-21) a 96.0 EUR (original: 190.08 EUR) (49.49 %  de descuento) en el siguiente enlace!
 
-[![Casio Reloj Analógico-Digital para Hombr](https://m.media-amazon.com/images/I/41R0cnSHfTL._SL200_.jpg)](https://www.amazon.es/dp/B000NG7YKU/?tag=tolees-21)
+[![Casio Reloj Analógico-Digital para Hombr](https://m.media-amazon.com/images/I/41R0cnSHfTL._SL400_.jpg)](https://www.amazon.es/dp/B000NG7YKU/?tag=tolees-21)
 
 🔎:
 

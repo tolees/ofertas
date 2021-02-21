@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas T19 WOV Pnt W Pantalones de Depor al 44.40 % de descuento'
 date: 2020-05-27 16:29:56
-image: 'https://m.media-amazon.com/images/I/31H2lN9Bs1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31H2lN9Bs1L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.99'
 
 Ahora mismo tienes [adidas T19 WOV Pnt W Pantalones de Deporte  Mujer  Black/White  2XS](https://www.amazon.es/dp/B07KCMSYRV/?tag=tolees-21) a 24.99 EUR (original: 44.95 EUR) (44.40 %  de descuento) en el siguiente enlace!
 
-[![adidas T19 WOV Pnt W Pantalones de Depor](https://m.media-amazon.com/images/I/31H2lN9Bs1L._SL200_.jpg)](https://www.amazon.es/dp/B07KCMSYRV/?tag=tolees-21)
+[![adidas T19 WOV Pnt W Pantalones de Depor](https://m.media-amazon.com/images/I/31H2lN9Bs1L._SL400_.jpg)](https://www.amazon.es/dp/B07KCMSYRV/?tag=tolees-21)
 
 🔎:
 

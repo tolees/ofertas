@@ -2,7 +2,7 @@
 layout: post
 title: 'Arcos 610600 - Afilador con mango al 49.07 % de rebaja'
 date: 2020-08-20 17:20:26
-image: 'https://m.media-amazon.com/images/I/31x+xovCC2L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31x+xovCC2L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.317499999999999'
 
 Tienes [Arcos 610600 - Afilador con mango](https://www.amazon.es/dp/B00I9XTLSC/?tag=tolees-21) con precio final de  8.5 EUR (original: 16.69 EUR) (49.07 %  de rebaja) aqui!
 
-[![Arcos 610600 - Afilador con mango](https://m.media-amazon.com/images/I/31x+xovCC2L._SL200_.jpg)](https://www.amazon.es/dp/B00I9XTLSC/?tag=tolees-21)
+[![Arcos 610600 - Afilador con mango](https://m.media-amazon.com/images/I/31x+xovCC2L._SL400_.jpg)](https://www.amazon.es/dp/B00I9XTLSC/?tag=tolees-21)
 
 🔎:
 

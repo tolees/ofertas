@@ -2,7 +2,7 @@
 layout: post
 title: 'Ladrón de Manzanas Cider Frutos Rojos -  al 32.98 % de descuento'
 date: 2020-02-01 08:50:41
-image: 'https://m.media-amazon.com/images/I/41xEYid5KnL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41xEYid5KnL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.28'
 
 Está [Ladrón de Manzanas Cider Frutos Rojos - 4 Packs de 6 Botellas x 250 ml - Total: 6 L](https://www.amazon.es/dp/B07B11FKCP/?tag=tolees-21) con 32.98 de descuento por 15.28 EUR (original: 22.8 EUR) en el siguiente enlace!
 
-[![Ladrón de Manzanas Cider Frutos Rojos - ](https://m.media-amazon.com/images/I/41xEYid5KnL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07B11FKCP/?tag=tolees-21)
+[![Ladrón de Manzanas Cider Frutos Rojos - ](https://m.media-amazon.com/images/I/41xEYid5KnL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07B11FKCP/?tag=tolees-21)
 
 ℹ️:
 

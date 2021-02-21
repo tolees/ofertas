@@ -2,7 +2,7 @@
 layout: post
 title: 'Asics Gel-Kayano 25  Zapatillas de Runni al 30.57 % de descuento'
 date: 2020-10-12 00:35:52
-image: 'https://m.media-amazon.com/images/I/41mKn4R63FL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41mKn4R63FL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '124.98'
 
 Está [Asics Gel-Kayano 25  Zapatillas de Running para Hombre  Negro  Black/Glacier Grey 003   42 EU](https://www.amazon.es/dp/B07J5TP6SH/?tag=tolees-21) con 30.57 de descuento por 124.98 EUR (original: 180.0 EUR) en el siguiente enlace!
 
-[![Asics Gel-Kayano 25  Zapatillas de Runni](https://m.media-amazon.com/images/I/41mKn4R63FL._SL200_.jpg)](https://www.amazon.es/dp/B07J5TP6SH/?tag=tolees-21)
+[![Asics Gel-Kayano 25  Zapatillas de Runni](https://m.media-amazon.com/images/I/41mKn4R63FL._SL400_.jpg)](https://www.amazon.es/dp/B07J5TP6SH/?tag=tolees-21)
 
 ℹ️:
 

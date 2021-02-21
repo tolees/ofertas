@@ -2,7 +2,7 @@
 layout: post
 title: 'Columbia Drainmaker™ IV  Zapatillas para con un 38.93 % de descuento'
 date: 2020-04-16 18:50:48
-image: 'https://m.media-amazon.com/images/I/41IbvDkX35L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41IbvDkX35L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '53.868'
 
 En este momento está [Columbia Drainmaker™ IV  Zapatillas para Mujer  Rojo  Graphite  Red Coral   37 EU](https://www.amazon.es/dp/B07FGCHL8V/?tag=tolees-21) a 54.96 EUR (original: 89.99 EUR) (38.93 %  de descuento) en el siguiente enlace!
 
-[![Columbia Drainmaker™ IV  Zapatillas para](https://m.media-amazon.com/images/I/41IbvDkX35L._SL200_.jpg)](https://www.amazon.es/dp/B07FGCHL8V/?tag=tolees-21)
+[![Columbia Drainmaker™ IV  Zapatillas para](https://m.media-amazon.com/images/I/41IbvDkX35L._SL400_.jpg)](https://www.amazon.es/dp/B07FGCHL8V/?tag=tolees-21)
 
 🔎:
 

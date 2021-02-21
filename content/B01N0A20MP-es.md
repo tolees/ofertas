@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 36.31 % en Kyocera TK5240Y - Cartucho de tóner'
 date: 2020-03-07 07:48:35
-image: 'https://m.media-amazon.com/images/I/31N6qx6q+VL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31N6qx6q+VL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '83.405'
 
 Tienes [Kyocera TK5240Y - Cartucho de tóner](https://www.amazon.es/dp/B01N0A20MP/?tag=tolees-21) con un 36.31 % de descuento con precio de oferta de 65.0 EUR (original: 102.06 EUR) en el siguiente enlace!
 
-[![Kyocera TK5240Y - Cartucho de tóner](https://m.media-amazon.com/images/I/31N6qx6q+VL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01N0A20MP/?tag=tolees-21)
+[![Kyocera TK5240Y - Cartucho de tóner](https://m.media-amazon.com/images/I/31N6qx6q+VL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01N0A20MP/?tag=tolees-21)
 
 ℹ️:
 

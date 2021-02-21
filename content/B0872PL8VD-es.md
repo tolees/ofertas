@@ -2,7 +2,7 @@
 layout: post
 title: 'Funda Transparente Compatible para Huawe con un 52.73 % de descuento'
 date: 2020-04-15 20:40:24
-image: 'https://m.media-amazon.com/images/I/41VeL3aa8KL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41VeL3aa8KL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.98'
 
 En este momento está [Funda Transparente Compatible para Huawei P Smart 2019 Carcasa Suave Silicona TPU Gel Dibujos Animal Ultra Fina Anti Choques y Anti Arañazos Clear Bumper Case Cover para Huawei P Smart 2019 A8](https://www.amazon.es/dp/B0872PL8VD/?tag=tolees-21) a 7.98 EUR (original: 16.88 EUR) (52.73 %  de descuento) en el siguiente enlace!
 
-[![Funda Transparente Compatible para Huawe](https://m.media-amazon.com/images/I/41VeL3aa8KL._SL200_.jpg)](https://www.amazon.es/dp/B0872PL8VD/?tag=tolees-21)
+[![Funda Transparente Compatible para Huawe](https://m.media-amazon.com/images/I/41VeL3aa8KL._SL400_.jpg)](https://www.amazon.es/dp/B0872PL8VD/?tag=tolees-21)
 
 🔎:
 

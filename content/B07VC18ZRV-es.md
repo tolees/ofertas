@@ -2,7 +2,7 @@
 layout: post
 title: 'JACK & JONES Jcobase Sweat Hood Capucha  con un 65.12 % de descuento'
 date: 2020-04-04 10:52:19
-image: 'https://m.media-amazon.com/images/I/41+YdrPoVmL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41+YdrPoVmL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.95'
 
 En este momento está [JACK & JONES Jcobase Sweat Hood Capucha  Gris  Light Grey Melange Light Grey Melange   Medium para Hombre](https://www.amazon.es/dp/B07VC18ZRV/?tag=tolees-21) a 13.95 EUR (original: 39.99 EUR) (65.12 %  de descuento) en el siguiente enlace!
 
-[![JACK & JONES Jcobase Sweat Hood Capucha ](https://m.media-amazon.com/images/I/41+YdrPoVmL._SL200_.jpg)](https://www.amazon.es/dp/B07VC18ZRV/?tag=tolees-21)
+[![JACK & JONES Jcobase Sweat Hood Capucha ](https://m.media-amazon.com/images/I/41+YdrPoVmL._SL400_.jpg)](https://www.amazon.es/dp/B07VC18ZRV/?tag=tolees-21)
 
 🔎:
 

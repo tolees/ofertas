@@ -2,7 +2,7 @@
 layout: post
 title: 'Call Of Duty WWII con un 59.64 % de descuento'
 date: 2020-05-05 07:54:40
-image: 'https://m.media-amazon.com/images/I/61TavA4DOhL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61TavA4DOhL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '31.975'
 
 En este momento está [Call Of Duty WWII](https://www.amazon.es/dp/B0718WXRRX/?tag=tolees-21) a 28.25 EUR (original: 69.99 EUR) (59.64 %  de descuento) en el siguiente enlace!
 
-[![Call Of Duty WWII](https://m.media-amazon.com/images/I/61TavA4DOhL._SL200_.jpg)](https://www.amazon.es/dp/B0718WXRRX/?tag=tolees-21)
+[![Call Of Duty WWII](https://m.media-amazon.com/images/I/61TavA4DOhL._SL400_.jpg)](https://www.amazon.es/dp/B0718WXRRX/?tag=tolees-21)
 
 🔎:
 

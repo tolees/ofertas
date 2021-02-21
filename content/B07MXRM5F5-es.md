@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 48.55 % en Cazo Amercook Terracotta con tapa 20 cm'
 date: 2020-09-13 05:14:04
-image: 'https://m.media-amazon.com/images/I/316VoE1fZVL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/316VoE1fZVL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.5'
 
 Tienes [Cazo Amercook Terracotta con tapa 20 cm](https://www.amazon.es/dp/B07MXRM5F5/?tag=tolees-21) con un 48.55 % de descuento con precio de oferta de 19.5 EUR (original: 37.9 EUR) en el siguiente enlace!
 
-[![Cazo Amercook Terracotta con tapa 20 cm](https://m.media-amazon.com/images/I/316VoE1fZVL._SL200_.jpg)](https://www.amazon.es/dp/B07MXRM5F5/?tag=tolees-21)
+[![Cazo Amercook Terracotta con tapa 20 cm](https://m.media-amazon.com/images/I/316VoE1fZVL._SL400_.jpg)](https://www.amazon.es/dp/B07MXRM5F5/?tag=tolees-21)
 
 ℹ️:
 

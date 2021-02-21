@@ -2,7 +2,7 @@
 layout: post
 title: 'Goda Goda eléctrica Soldador feinlöt pis al 94.58 % de descuento'
 date: 2020-01-29 19:50:39
-image: 'https://m.media-amazon.com/images/I/51kTlD1az3L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51kTlD1az3L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.99'
 
 Está [Goda Goda eléctrica Soldador feinlöt pistón 220 V 60 W Eu Temperatura Regulable Soldadura lötwerkzeug con 5 stücketipps](https://www.amazon.es/dp/B07F1W51GK/?tag=tolees-21) con 94.58 de descuento por 2.99 EUR (original: 55.15 EUR) en el siguiente enlace!
 
-[![Goda Goda eléctrica Soldador feinlöt pis](https://m.media-amazon.com/images/I/51kTlD1az3L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07F1W51GK/?tag=tolees-21)
+[![Goda Goda eléctrica Soldador feinlöt pis](https://m.media-amazon.com/images/I/51kTlD1az3L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07F1W51GK/?tag=tolees-21)
 
 ℹ️:
 

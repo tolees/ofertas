@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 27.04 % en SHIMANO DEORE 9V. Shadow Cambio  Multico'
 date: 2020-02-15 14:21:20
-image: 'https://m.media-amazon.com/images/I/510rA7GUCJL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/510rA7GUCJL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '33.49'
 
 Tienes [SHIMANO DEORE 9V. Shadow Cambio  Multicolor  Talla Única](https://www.amazon.es/dp/B00CLQIMEM/?tag=tolees-21) con un 27.04 % de descuento con precio de oferta de 33.49 EUR (original: 45.9 EUR) en el siguiente enlace!
 
-[![SHIMANO DEORE 9V. Shadow Cambio  Multico](https://m.media-amazon.com/images/I/510rA7GUCJL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B00CLQIMEM/?tag=tolees-21)
+[![SHIMANO DEORE 9V. Shadow Cambio  Multico](https://m.media-amazon.com/images/I/510rA7GUCJL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B00CLQIMEM/?tag=tolees-21)
 
 ℹ️:
 

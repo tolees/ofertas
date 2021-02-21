@@ -2,7 +2,7 @@
 layout: post
 title: 'Hurley M DRI-FIT Breathe 19  Bermudas  H al 48.24 % de descuento'
 date: 2020-01-29 17:14:53
-image: 'https://m.media-amazon.com/images/I/41TO4PDTdLL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41TO4PDTdLL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '28.47'
 
 Ahora mismo tienes [Hurley M DRI-FIT Breathe 19  Bermudas  Hombre  Negro  31](https://www.amazon.es/dp/B076FHTW27/?tag=tolees-21) a 28.47 EUR (original: 55.0 EUR) (48.24 %  de descuento) en el siguiente enlace!
 
-[![Hurley M DRI-FIT Breathe 19  Bermudas  H](https://m.media-amazon.com/images/I/41TO4PDTdLL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B076FHTW27/?tag=tolees-21)
+[![Hurley M DRI-FIT Breathe 19  Bermudas  H](https://m.media-amazon.com/images/I/41TO4PDTdLL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B076FHTW27/?tag=tolees-21)
 
 🔎:
 

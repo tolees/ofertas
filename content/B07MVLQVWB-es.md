@@ -2,7 +2,7 @@
 layout: post
 title: 'Napapijri Eils SS Polo  Azul  Clematis B al 50.00 % de descuento'
 date: 2020-02-09 18:57:13
-image: 'https://m.media-amazon.com/images/I/41MDXvUWocL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41MDXvUWocL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.5'
 
 Ahora mismo tienes [Napapijri Eils SS Polo  Azul  Clematis Blue VB1   Large para Hombre](https://www.amazon.es/dp/B07MVLQVWB/?tag=tolees-21) a 29.5 EUR (original: 59.0 EUR) (50.00 %  de descuento) en el siguiente enlace!
 
-[![Napapijri Eils SS Polo  Azul  Clematis B](https://m.media-amazon.com/images/I/41MDXvUWocL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07MVLQVWB/?tag=tolees-21)
+[![Napapijri Eils SS Polo  Azul  Clematis B](https://m.media-amazon.com/images/I/41MDXvUWocL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07MVLQVWB/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Gant Classic Leather Belt Cinturón  Marr con un 65.65 % de descuento'
 date: 2020-04-05 16:14:41
-image: 'https://m.media-amazon.com/images/I/41yNdQQ2JLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41yNdQQ2JLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '26.05'
 
 En este momento está [Gant Classic Leather Belt Cinturón  Marrón  Dark Brown   120  Talla del fabricante: 105  para Hombre](https://www.amazon.es/dp/B01N9K78JC/?tag=tolees-21) a 27.48 EUR (original: 79.99 EUR) (65.65 %  de descuento) en el siguiente enlace!
 
-[![Gant Classic Leather Belt Cinturón  Marr](https://m.media-amazon.com/images/I/41yNdQQ2JLL._SL200_.jpg)](https://www.amazon.es/dp/B01N9K78JC/?tag=tolees-21)
+[![Gant Classic Leather Belt Cinturón  Marr](https://m.media-amazon.com/images/I/41yNdQQ2JLL._SL400_.jpg)](https://www.amazon.es/dp/B01N9K78JC/?tag=tolees-21)
 
 🔎:
 

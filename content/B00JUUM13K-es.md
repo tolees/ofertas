@@ -2,7 +2,7 @@
 layout: post
 title: 'MyProtein Flavdrops Saborizante Natural  con un 43.16 % de descuento'
 date: 2020-03-16 04:01:13
-image: 'https://m.media-amazon.com/images/I/31OjDQjhT9L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31OjDQjhT9L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.98'
 
 En este momento está [MyProtein Flavdrops Saborizante Natural  Sabor Caramelo - 50 ml](https://www.amazon.es/dp/B00JUUM13K/?tag=tolees-21) a 5.98 EUR (original: 10.52 EUR) (43.16 %  de descuento) en el siguiente enlace!
 
-[![MyProtein Flavdrops Saborizante Natural ](https://m.media-amazon.com/images/I/31OjDQjhT9L._SL200_.jpg)](https://www.amazon.es/dp/B00JUUM13K/?tag=tolees-21)
+[![MyProtein Flavdrops Saborizante Natural ](https://m.media-amazon.com/images/I/31OjDQjhT9L._SL400_.jpg)](https://www.amazon.es/dp/B00JUUM13K/?tag=tolees-21)
 
 🔎:
 

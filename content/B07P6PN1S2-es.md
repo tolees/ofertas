@@ -2,7 +2,7 @@
 layout: post
 title: 'Lemnoi Cámaras A3 y Fuente de Alimentaci al 46.28 % de descuento'
 date: 2020-06-28 16:32:02
-image: 'https://m.media-amazon.com/images/I/41HvTJH8W8L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41HvTJH8W8L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '81.51'
 
 Ahora mismo tienes [Lemnoi Cámaras A3 y Fuente de Alimentación del Panel Solar](https://www.amazon.es/dp/B07P6PN1S2/?tag=tolees-21) a 81.51 EUR (original: 151.72 EUR) (46.28 %  de descuento) en el siguiente enlace!
 
-[![Lemnoi Cámaras A3 y Fuente de Alimentaci](https://m.media-amazon.com/images/I/41HvTJH8W8L._SL200_.jpg)](https://www.amazon.es/dp/B07P6PN1S2/?tag=tolees-21)
+[![Lemnoi Cámaras A3 y Fuente de Alimentaci](https://m.media-amazon.com/images/I/41HvTJH8W8L._SL400_.jpg)](https://www.amazon.es/dp/B07P6PN1S2/?tag=tolees-21)
 
 🔎:
 

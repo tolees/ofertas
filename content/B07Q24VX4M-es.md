@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour UA W Charged Impulse  Zapat al 51.01 % de rebaja'
 date: 2020-06-25 03:16:20
-image: 'https://m.media-amazon.com/images/I/41F1qEAnTTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41F1qEAnTTL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '34.27'
 
 Tienes [Under Armour UA W Charged Impulse  Zapatillas de Running para Mujer  Blanco  White/Halo Gray/Mod Gray   37.5 EU](https://www.amazon.es/dp/B07Q24VX4M/?tag=tolees-21) con precio final de  34.27 EUR (original: 69.95 EUR) (51.01 %  de rebaja) aqui!
 
-[![Under Armour UA W Charged Impulse  Zapat](https://m.media-amazon.com/images/I/41F1qEAnTTL._SL200_.jpg)](https://www.amazon.es/dp/B07Q24VX4M/?tag=tolees-21)
+[![Under Armour UA W Charged Impulse  Zapat](https://m.media-amazon.com/images/I/41F1qEAnTTL._SL400_.jpg)](https://www.amazon.es/dp/B07Q24VX4M/?tag=tolees-21)
 
 🔎:
 

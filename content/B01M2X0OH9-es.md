@@ -2,7 +2,7 @@
 layout: post
 title: 'Scholl Velvet Smooth Diamond Crystals -  al 69.52 % de rebaja'
 date: 2020-06-08 13:39:15
-image: 'https://m.media-amazon.com/images/I/51qewDOXRCL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51qewDOXRCL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.520000000000001'
 
 Tienes [Scholl Velvet Smooth Diamond Crystals - Lima electrónica de uñas  color rosa](https://www.amazon.es/dp/B01M2X0OH9/?tag=tolees-21) con precio final de  10.0 EUR (original: 32.81 EUR) (69.52 %  de rebaja) aqui!
 
-[![Scholl Velvet Smooth Diamond Crystals - ](https://m.media-amazon.com/images/I/51qewDOXRCL._SL200_.jpg)](https://www.amazon.es/dp/B01M2X0OH9/?tag=tolees-21)
+[![Scholl Velvet Smooth Diamond Crystals - ](https://m.media-amazon.com/images/I/51qewDOXRCL._SL400_.jpg)](https://www.amazon.es/dp/B01M2X0OH9/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'AOQUSSQOA Mujer Trajes de baño de una Pi al 48.79 % de descuento'
 date: 2020-08-12 14:48:51
-image: 'https://m.media-amazon.com/images/I/41Th+f-Y5OL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Th+f-Y5OL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.99'
 
 Está [AOQUSSQOA Mujer Trajes de baño de una Pieza con Volantes Trajes de baño con Cuello en V Monokinis Trajes de baño Estilo cambiante Traje de baño de Playa  EU 46-48  XL   Raya Verde ](https://www.amazon.es/dp/B07WP41YK6/?tag=tolees-21) con 48.79 de descuento por 20.99 EUR (original: 40.99 EUR) en el siguiente enlace!
 
-[![AOQUSSQOA Mujer Trajes de baño de una Pi](https://m.media-amazon.com/images/I/41Th+f-Y5OL._SL200_.jpg)](https://www.amazon.es/dp/B07WP41YK6/?tag=tolees-21)
+[![AOQUSSQOA Mujer Trajes de baño de una Pi](https://m.media-amazon.com/images/I/41Th+f-Y5OL._SL400_.jpg)](https://www.amazon.es/dp/B07WP41YK6/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 74.18 % en Millet LD AMURI  Zapatillas de Senderism'
 date: 2020-01-31 07:41:08
-image: 'https://m.media-amazon.com/images/I/41u-7RTwZRL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41u-7RTwZRL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '36.14'
 
 Tienes [Millet LD AMURI  Zapatillas de Senderismo para Mujer  Multicolor  Tarmac/Hibiscus 000   41 1/3 EU](https://www.amazon.es/dp/B079VYD5F5/?tag=tolees-21) con un 74.18 % de descuento con precio de oferta de 36.14 EUR (original: 139.95 EUR) en el siguiente enlace!
 
-[![Millet LD AMURI  Zapatillas de Senderism](https://m.media-amazon.com/images/I/41u-7RTwZRL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B079VYD5F5/?tag=tolees-21)
+[![Millet LD AMURI  Zapatillas de Senderism](https://m.media-amazon.com/images/I/41u-7RTwZRL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B079VYD5F5/?tag=tolees-21)
 
 ℹ️:
 

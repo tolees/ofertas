@@ -2,7 +2,7 @@
 layout: post
 title: 'ENKEEO - 23x103.5cm Longboard  Monopatín al 27.15 % de descuento'
 date: 2020-01-22 16:38:00
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41MOGCfnaRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41MOGCfnaRL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '50.99'
 
 Está [ENKEEO - 23x103.5cm Longboard  Monopatín con Rodamiento de ABEC-11 y 9 Capas Flexible de Arce  Tabla Completa  Cielo Misterioso ](https://www.amazon.es/dp/B076CDZCPQ/?tag=tolees-21) con 27.15 de descuento por 50.99 EUR (original: 69.99 EUR) en el siguiente enlace!
 
-[![ENKEEO - 23x103.5cm Longboard  Monopatín](https://images-eu.ssl-images-amazon.com/images/I/41MOGCfnaRL._SL200_.jpg)](https://www.amazon.es/dp/B076CDZCPQ/?tag=tolees-21)
+[![ENKEEO - 23x103.5cm Longboard  Monopatín](https://images-eu.ssl-images-amazon.com/images/I/41MOGCfnaRL._SL400_.jpg)](https://www.amazon.es/dp/B076CDZCPQ/?tag=tolees-21)
 
 ℹ️:
 

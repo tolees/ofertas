@@ -2,7 +2,7 @@
 layout: post
 title: 'NATURALIA - Colchón Cuna Baby Memory vis al 44.44 % de rebaja'
 date: 2020-05-26 06:27:34
-image: 'https://m.media-amazon.com/images/I/31FlmWYvBiL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31FlmWYvBiL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '50.0'
 
 Tienes [NATURALIA - Colchón Cuna Baby Memory visco  Talla 117x57cm  Color Blanco/Gris](https://www.amazon.es/dp/B00HWTEN14/?tag=tolees-21) con precio final de  50.0 EUR (original: 90.0 EUR) (44.44 %  de rebaja) aqui!
 
-[![NATURALIA - Colchón Cuna Baby Memory vis](https://m.media-amazon.com/images/I/31FlmWYvBiL._SL200_.jpg)](https://www.amazon.es/dp/B00HWTEN14/?tag=tolees-21)
+[![NATURALIA - Colchón Cuna Baby Memory vis](https://m.media-amazon.com/images/I/31FlmWYvBiL._SL400_.jpg)](https://www.amazon.es/dp/B00HWTEN14/?tag=tolees-21)
 
 🔎:
 

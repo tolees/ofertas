@@ -2,7 +2,7 @@
 layout: post
 title: 'Agger 1PC 800ml Gel Duradero Bolas Carga al 48.79 % de descuento'
 date: 2020-04-27 12:35:18
-image: 'https://m.media-amazon.com/images/I/41aJHqO-BPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41aJHqO-BPL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.08'
 
 Ahora mismo tienes [Agger 1PC 800ml Gel Duradero Bolas Cargando Botellas con Cuentas de plástico 10000PCS 7-8mm](https://www.amazon.es/dp/B087JR3FP2/?tag=tolees-21) a 5.08 EUR (original: 9.92 EUR) (48.79 %  de descuento) en el siguiente enlace!
 
-[![Agger 1PC 800ml Gel Duradero Bolas Carga](https://m.media-amazon.com/images/I/41aJHqO-BPL._SL200_.jpg)](https://www.amazon.es/dp/B087JR3FP2/?tag=tolees-21)
+[![Agger 1PC 800ml Gel Duradero Bolas Carga](https://m.media-amazon.com/images/I/41aJHqO-BPL._SL400_.jpg)](https://www.amazon.es/dp/B087JR3FP2/?tag=tolees-21)
 
 🔎:
 

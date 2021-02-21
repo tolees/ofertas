@@ -2,7 +2,7 @@
 layout: post
 title: 'Habitdesign - Mesa de Centro elevable Sa al 32.22 % de descuento'
 date: 2020-08-05 11:33:50
-image: 'https://m.media-amazon.com/images/I/41blGHeH5iL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41blGHeH5iL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '64.0'
 
 Está [Habitdesign - Mesa de Centro elevable Salon Comedor  Acabado en Color Gris Ceniza  Medidas: 100 x 50 x 43 cm.](https://www.amazon.es/dp/B00CHH1DPU/?tag=tolees-21) con 32.22 de descuento por 64.0 EUR (original: 94.42 EUR) en el siguiente enlace!
 
-[![Habitdesign - Mesa de Centro elevable Sa](https://m.media-amazon.com/images/I/41blGHeH5iL._SL200_.jpg)](https://www.amazon.es/dp/B00CHH1DPU/?tag=tolees-21)
+[![Habitdesign - Mesa de Centro elevable Sa](https://m.media-amazon.com/images/I/41blGHeH5iL._SL400_.jpg)](https://www.amazon.es/dp/B00CHH1DPU/?tag=tolees-21)
 
 ℹ️:
 

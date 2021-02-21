@@ -2,7 +2,7 @@
 layout: post
 title: 'Qwinto con un 69.65 % de descuento'
 date: 2020-08-24 09:39:03
-image: 'https://m.media-amazon.com/images/I/51Rtsn7abYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Rtsn7abYL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.319999999999999'
 
 En este momento está [Qwinto](https://www.amazon.es/dp/B0151S3USO/?tag=tolees-21) a 6.37 EUR (original: 20.99 EUR) (69.65 %  de descuento) en el siguiente enlace!
 
-[![Qwinto](https://m.media-amazon.com/images/I/51Rtsn7abYL._SL200_.jpg)](https://www.amazon.es/dp/B0151S3USO/?tag=tolees-21)
+[![Qwinto](https://m.media-amazon.com/images/I/51Rtsn7abYL._SL400_.jpg)](https://www.amazon.es/dp/B0151S3USO/?tag=tolees-21)
 
 🔎:
 

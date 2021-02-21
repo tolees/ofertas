@@ -2,7 +2,7 @@
 layout: post
 title: 'Diset Soy Luna - Decora con Tachuelas  J con un 50.14 % de descuento'
 date: 2020-07-12 18:45:57
-image: 'https://m.media-amazon.com/images/I/61q06BI4zLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61q06BI4zLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.46'
 
 En este momento está [Diset Soy Luna - Decora con Tachuelas  Juego de Arte y Manualidades  S.A 46594](https://www.amazon.es/dp/B01G3R8NCU/?tag=tolees-21) a 14.46 EUR (original: 29.0 EUR) (50.14 %  de descuento) en el siguiente enlace!
 
-[![Diset Soy Luna - Decora con Tachuelas  J](https://m.media-amazon.com/images/I/61q06BI4zLL._SL200_.jpg)](https://www.amazon.es/dp/B01G3R8NCU/?tag=tolees-21)
+[![Diset Soy Luna - Decora con Tachuelas  J](https://m.media-amazon.com/images/I/61q06BI4zLL._SL400_.jpg)](https://www.amazon.es/dp/B01G3R8NCU/?tag=tolees-21)
 
 🔎:
 

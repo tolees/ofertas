@@ -2,7 +2,7 @@
 layout: post
 title: 'Adidas Deerupt Runner C  Zapatillas de D al 30.03 % de rebaja'
 date: 2020-06-22 19:21:48
-image: 'https://m.media-amazon.com/images/I/41BHThgtMqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41BHThgtMqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '41.95'
 
 Tienes [Adidas Deerupt Runner C  Zapatillas de Deporte Unisex niño  Negro  Negro 000   33 EU](https://www.amazon.es/dp/B07NJH4RMB/?tag=tolees-21) con precio final de  41.95 EUR (original: 59.95 EUR) (30.03 %  de rebaja) aqui!
 
-[![Adidas Deerupt Runner C  Zapatillas de D](https://m.media-amazon.com/images/I/41BHThgtMqL._SL200_.jpg)](https://www.amazon.es/dp/B07NJH4RMB/?tag=tolees-21)
+[![Adidas Deerupt Runner C  Zapatillas de D](https://m.media-amazon.com/images/I/41BHThgtMqL._SL400_.jpg)](https://www.amazon.es/dp/B07NJH4RMB/?tag=tolees-21)
 
 🔎:
 

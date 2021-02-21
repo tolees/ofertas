@@ -2,7 +2,7 @@
 layout: post
 title: 'Craft Lightcraft Shineball S-XL Set lámp al 32.14 % de descuento'
 date: 2020-04-14 08:46:12
-image: 'https://m.media-amazon.com/images/I/41JfhAfVY0L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41JfhAfVY0L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '189.99'
 
 Ahora mismo tienes [Craft Lightcraft Shineball S-XL Set lámparas Esfera Decoracion Jardin Bola iluminacion Nocturna Exteriores  4 Unidades luz de Diferentes tamaños  Resistente  Incluye Fijaciones ](https://www.amazon.es/dp/B06Y2H3DM7/?tag=tolees-21) a 189.99 EUR (original: 279.99 EUR) (32.14 %  de descuento) en el siguiente enlace!
 
-[![Craft Lightcraft Shineball S-XL Set lámp](https://m.media-amazon.com/images/I/41JfhAfVY0L._SL200_.jpg)](https://www.amazon.es/dp/B06Y2H3DM7/?tag=tolees-21)
+[![Craft Lightcraft Shineball S-XL Set lámp](https://m.media-amazon.com/images/I/41JfhAfVY0L._SL400_.jpg)](https://www.amazon.es/dp/B06Y2H3DM7/?tag=tolees-21)
 
 🔎:
 

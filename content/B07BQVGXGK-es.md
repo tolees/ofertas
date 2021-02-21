@@ -2,7 +2,7 @@
 layout: post
 title: 'Maytronics 9995670-ASSY - Cuadro aliment al 43.17 % de descuento'
 date: 2020-07-04 09:31:44
-image: 'https://m.media-amazon.com/images/I/41pqgecjbOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41pqgecjbOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '121.18'
 
 Ahora mismo tienes [Maytronics 9995670-ASSY - Cuadro alimentacion basico para robot piscina Dolphin](https://www.amazon.es/dp/B07BQVGXGK/?tag=tolees-21) a 83.54 EUR (original: 147.0 EUR) (43.17 %  de descuento) en el siguiente enlace!
 
-[![Maytronics 9995670-ASSY - Cuadro aliment](https://m.media-amazon.com/images/I/41pqgecjbOL._SL200_.jpg)](https://www.amazon.es/dp/B07BQVGXGK/?tag=tolees-21)
+[![Maytronics 9995670-ASSY - Cuadro aliment](https://m.media-amazon.com/images/I/41pqgecjbOL._SL400_.jpg)](https://www.amazon.es/dp/B07BQVGXGK/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 42.06 % en abril et nature bain shampoo Color 250 m'
 date: 2020-03-19 18:59:11
-image: 'https://m.media-amazon.com/images/I/41aedX-pDFL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41aedX-pDFL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.2'
 
 Tienes [abril et nature bain shampoo Color 250 ml.](https://www.amazon.es/dp/B00PIOQRZU/?tag=tolees-21) con un 42.06 % de descuento con precio de oferta de 6.2 EUR (original: 10.7 EUR) en el siguiente enlace!
 
-[![abril et nature bain shampoo Color 250 m](https://m.media-amazon.com/images/I/41aedX-pDFL._SL200_.jpg)](https://www.amazon.es/dp/B00PIOQRZU/?tag=tolees-21)
+[![abril et nature bain shampoo Color 250 m](https://m.media-amazon.com/images/I/41aedX-pDFL._SL400_.jpg)](https://www.amazon.es/dp/B00PIOQRZU/?tag=tolees-21)
 
 ℹ️:
 

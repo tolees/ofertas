@@ -2,7 +2,7 @@
 layout: post
 title: 'Puma Persist Xt Knit Zapatillas Deportiv al 35.86 % de descuento'
 date: 2020-03-21 08:01:29
-image: 'https://m.media-amazon.com/images/I/410cmRHcOBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/410cmRHcOBL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '38.45'
 
 Está [Puma Persist Xt Knit Zapatillas Deportivas para Interior Hombre   Puma Black-Puma White 03   39 EU  6 UK ](https://www.amazon.es/dp/B07KG1GTXJ/?tag=tolees-21) con 35.86 de descuento por 38.45 EUR (original: 59.95 EUR) en el siguiente enlace!
 
-[![Puma Persist Xt Knit Zapatillas Deportiv](https://m.media-amazon.com/images/I/410cmRHcOBL._SL200_.jpg)](https://www.amazon.es/dp/B07KG1GTXJ/?tag=tolees-21)
+[![Puma Persist Xt Knit Zapatillas Deportiv](https://m.media-amazon.com/images/I/410cmRHcOBL._SL400_.jpg)](https://www.amazon.es/dp/B07KG1GTXJ/?tag=tolees-21)
 
 ℹ️:
 

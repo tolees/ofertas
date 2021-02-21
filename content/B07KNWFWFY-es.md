@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas Fit 2pc 3s Traje de Baño  Mujer   al 47.78 % de descuento'
 date: 2020-06-16 09:33:40
-image: 'https://m.media-amazon.com/images/I/41IPM7PXF1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41IPM7PXF1L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.86'
 
 Ahora mismo tienes [adidas Fit 2pc 3s Traje de Baño  Mujer  Negro  Black   32](https://www.amazon.es/dp/B07KNWFWFY/?tag=tolees-21) a 20.86 EUR (original: 39.95 EUR) (47.78 %  de descuento) en el siguiente enlace!
 
-[![adidas Fit 2pc 3s Traje de Baño  Mujer  ](https://m.media-amazon.com/images/I/41IPM7PXF1L._SL200_.jpg)](https://www.amazon.es/dp/B07KNWFWFY/?tag=tolees-21)
+[![adidas Fit 2pc 3s Traje de Baño  Mujer  ](https://m.media-amazon.com/images/I/41IPM7PXF1L._SL400_.jpg)](https://www.amazon.es/dp/B07KNWFWFY/?tag=tolees-21)
 
 🔎:
 

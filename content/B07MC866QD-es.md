@@ -2,7 +2,7 @@
 layout: post
 title: 'Real Madrid RD-121-RM Despertador Campan al 49.94 % de descuento'
 date: 2020-03-01 09:48:27
-image: 'https://m.media-amazon.com/images/I/418VozKb54L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/418VozKb54L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.48'
 
 Está [Real Madrid RD-121-RM Despertador Campanas](https://www.amazon.es/dp/B07MC866QD/?tag=tolees-21) con 49.94 de descuento por 4.48 EUR (original: 8.95 EUR) en el siguiente enlace!
 
-[![Real Madrid RD-121-RM Despertador Campan](https://m.media-amazon.com/images/I/418VozKb54L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07MC866QD/?tag=tolees-21)
+[![Real Madrid RD-121-RM Despertador Campan](https://m.media-amazon.com/images/I/418VozKb54L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07MC866QD/?tag=tolees-21)
 
 ℹ️:
 

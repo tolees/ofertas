@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 32.58 % en Estee Lauder Mascarilla Facial Advanced '
 date: 2020-03-18 04:18:01
-image: 'https://m.media-amazon.com/images/I/41zZf+jVJWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41zZf+jVJWL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '79.0225'
 
 Tienes [Estee Lauder Mascarilla Facial Advanced Night Repair 4 Sheets](https://www.amazon.es/dp/B01AZAXID0/?tag=tolees-21) con un 32.58 % de descuento con precio de oferta de 84.84 EUR (original: 125.84 EUR) en el siguiente enlace!
 
-[![Estee Lauder Mascarilla Facial Advanced ](https://m.media-amazon.com/images/I/41zZf+jVJWL._SL200_.jpg)](https://www.amazon.es/dp/B01AZAXID0/?tag=tolees-21)
+[![Estee Lauder Mascarilla Facial Advanced ](https://m.media-amazon.com/images/I/41zZf+jVJWL._SL400_.jpg)](https://www.amazon.es/dp/B01AZAXID0/?tag=tolees-21)
 
 ℹ️:
 

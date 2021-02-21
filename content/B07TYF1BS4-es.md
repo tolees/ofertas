@@ -2,7 +2,7 @@
 layout: post
 title: 'D&D Quality Puff Almacenaje Plegable  As al 56.99 % de rebaja'
 date: 2020-03-25 23:01:27
-image: 'https://m.media-amazon.com/images/I/51emH3gn3DL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51emH3gn3DL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.9'
 
 Tienes [D&D Quality Puff Almacenaje Plegable  Asiento Acolchado  38 x 38 x 38 cm - Exterior Suave Piel Sintética - Caja Almacenamiento Cuadrada  BUHOS ](https://www.amazon.es/dp/B07TYF1BS4/?tag=tolees-21) con precio final de  12.9 EUR (original: 29.99 EUR) (56.99 %  de rebaja) aqui!
 
-[![D&D Quality Puff Almacenaje Plegable  As](https://m.media-amazon.com/images/I/51emH3gn3DL._SL200_.jpg)](https://www.amazon.es/dp/B07TYF1BS4/?tag=tolees-21)
+[![D&D Quality Puff Almacenaje Plegable  As](https://m.media-amazon.com/images/I/51emH3gn3DL._SL400_.jpg)](https://www.amazon.es/dp/B07TYF1BS4/?tag=tolees-21)
 
 🔎:
 

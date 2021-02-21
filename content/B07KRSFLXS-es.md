@@ -2,7 +2,7 @@
 layout: post
 title: 'Columbia Sun Ridge Polo  Hombre  Azul  B al 54.39 % de descuento'
 date: 2020-05-22 23:19:02
-image: 'https://m.media-amazon.com/images/I/315Dw1QRMfL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/315Dw1QRMfL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.061666666666667'
 
 Ahora mismo tienes [Columbia Sun Ridge Polo  Hombre  Azul  Blue Sky   S](https://www.amazon.es/dp/B07KRSFLXS/?tag=tolees-21) a 22.8 EUR (original: 49.99 EUR) (54.39 %  de descuento) en el siguiente enlace!
 
-[![Columbia Sun Ridge Polo  Hombre  Azul  B](https://m.media-amazon.com/images/I/315Dw1QRMfL._SL200_.jpg)](https://www.amazon.es/dp/B07KRSFLXS/?tag=tolees-21)
+[![Columbia Sun Ridge Polo  Hombre  Azul  B](https://m.media-amazon.com/images/I/315Dw1QRMfL._SL400_.jpg)](https://www.amazon.es/dp/B07KRSFLXS/?tag=tolees-21)
 
 🔎:
 

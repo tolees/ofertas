@@ -2,7 +2,7 @@
 layout: post
 title: 'TOUCHBeauty TB-1059 - Pinzas LED de prec al 35.34 % de descuento'
 date: 2020-06-17 19:17:05
-image: 'https://m.media-amazon.com/images/I/41h6hW96ySL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41h6hW96ySL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.98'
 
 Ahora mismo tienes [TOUCHBeauty TB-1059 - Pinzas LED de precisión para cejas con espejo](https://www.amazon.es/dp/B07B7KWDLW/?tag=tolees-21) a 10.98 EUR (original: 16.98 EUR) (35.34 %  de descuento) en el siguiente enlace!
 
-[![TOUCHBeauty TB-1059 - Pinzas LED de prec](https://m.media-amazon.com/images/I/41h6hW96ySL._SL200_.jpg)](https://www.amazon.es/dp/B07B7KWDLW/?tag=tolees-21)
+[![TOUCHBeauty TB-1059 - Pinzas LED de prec](https://m.media-amazon.com/images/I/41h6hW96ySL._SL400_.jpg)](https://www.amazon.es/dp/B07B7KWDLW/?tag=tolees-21)
 
 🔎:
 

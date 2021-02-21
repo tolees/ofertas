@@ -2,7 +2,7 @@
 layout: post
 title: 'Reebok Club C 85  Zapatillas Deportivas  con un 35.02 % de descuento'
 date: 2020-07-10 17:00:05
-image: 'https://m.media-amazon.com/images/I/41mKVIdKqYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41mKVIdKqYL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '53.95'
 
 En este momento está [Reebok Club C 85  Zapatillas Deportivas para Interior Hombre  Blanco  Int / White / Green   40.5 EU](https://www.amazon.es/dp/B01MS3NXZG/?tag=tolees-21) a 51.95 EUR (original: 79.95 EUR) (35.02 %  de descuento) en el siguiente enlace!
 
-[![Reebok Club C 85  Zapatillas Deportivas ](https://m.media-amazon.com/images/I/41mKVIdKqYL._SL200_.jpg)](https://www.amazon.es/dp/B01MS3NXZG/?tag=tolees-21)
+[![Reebok Club C 85  Zapatillas Deportivas ](https://m.media-amazon.com/images/I/41mKVIdKqYL._SL400_.jpg)](https://www.amazon.es/dp/B01MS3NXZG/?tag=tolees-21)
 
 🔎:
 

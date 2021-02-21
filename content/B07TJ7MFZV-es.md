@@ -2,7 +2,7 @@
 layout: post
 title: 'SAMSUNG LED View Cover Note 10+ Black al 28.51 % de descuento'
 date: 2020-07-10 08:01:21
-image: 'https://m.media-amazon.com/images/I/31o8V2oICvL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31o8V2oICvL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '48.49'
 
 Ahora mismo tienes [SAMSUNG LED View Cover Note 10+ Black](https://www.amazon.es/dp/B07TJ7MFZV/?tag=tolees-21) a 48.49 EUR (original: 67.83 EUR) (28.51 %  de descuento) en el siguiente enlace!
 
-[![SAMSUNG LED View Cover Note 10+ Black](https://m.media-amazon.com/images/I/31o8V2oICvL._SL200_.jpg)](https://www.amazon.es/dp/B07TJ7MFZV/?tag=tolees-21)
+[![SAMSUNG LED View Cover Note 10+ Black](https://m.media-amazon.com/images/I/31o8V2oICvL._SL400_.jpg)](https://www.amazon.es/dp/B07TJ7MFZV/?tag=tolees-21)
 
 🔎:
 

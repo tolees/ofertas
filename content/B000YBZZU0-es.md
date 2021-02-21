@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 36.50 % en Fellowes Gel Crystals - Reposamuñecas fl'
 date: 2020-05-21 07:37:42
-image: 'https://m.media-amazon.com/images/I/31MpR2+sPvL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31MpR2+sPvL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.867272727272727'
 
 Tienes [Fellowes Gel Crystals - Reposamuñecas flexible  negro](https://www.amazon.es/dp/B000YBZZU0/?tag=tolees-21) con un 36.50 % de descuento con precio de oferta de 8.68 EUR (original: 13.67 EUR) en el siguiente enlace!
 
-[![Fellowes Gel Crystals - Reposamuñecas fl](https://m.media-amazon.com/images/I/31MpR2+sPvL._SL200_.jpg)](https://www.amazon.es/dp/B000YBZZU0/?tag=tolees-21)
+[![Fellowes Gel Crystals - Reposamuñecas fl](https://m.media-amazon.com/images/I/31MpR2+sPvL._SL400_.jpg)](https://www.amazon.es/dp/B000YBZZU0/?tag=tolees-21)
 
 ℹ️:
 

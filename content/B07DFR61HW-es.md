@@ -2,7 +2,7 @@
 layout: post
 title: 'New Balance X-90 h  Zapatillas para Homb al 29.15 % de descuento'
 date: 2020-06-25 06:51:56
-image: 'https://m.media-amazon.com/images/I/31viTMD+3lL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31viTMD+3lL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '71.05'
 
 Está [New Balance X-90 h  Zapatillas para Hombre  Azul  Pigment/Limeade NV   44.5 EU](https://www.amazon.es/dp/B07DFR61HW/?tag=tolees-21) con 29.15 de descuento por 71.05 EUR (original: 100.28 EUR) en el siguiente enlace!
 
-[![New Balance X-90 h  Zapatillas para Homb](https://m.media-amazon.com/images/I/31viTMD+3lL._SL200_.jpg)](https://www.amazon.es/dp/B07DFR61HW/?tag=tolees-21)
+[![New Balance X-90 h  Zapatillas para Homb](https://m.media-amazon.com/images/I/31viTMD+3lL._SL400_.jpg)](https://www.amazon.es/dp/B07DFR61HW/?tag=tolees-21)
 
 ℹ️:
 

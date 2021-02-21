@@ -2,7 +2,7 @@
 layout: post
 title: 'Cooler CPU Pure Wing 2 92mm BL045 con un 37.57 % de descuento'
 date: 2020-01-17 21:02:35
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41S50iUAIVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41S50iUAIVL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.49'
 
 En este momento está [Cooler CPU Pure Wing 2 92mm BL045](https://www.amazon.es/dp/B00IOIKG68/?tag=tolees-21) a 8.49 EUR (original: 13.6 EUR) (37.57 %  de descuento) en el siguiente enlace!
 
-[![Cooler CPU Pure Wing 2 92mm BL045](https://images-eu.ssl-images-amazon.com/images/I/41S50iUAIVL._SL200_.jpg)](https://www.amazon.es/dp/B00IOIKG68/?tag=tolees-21)
+[![Cooler CPU Pure Wing 2 92mm BL045](https://images-eu.ssl-images-amazon.com/images/I/41S50iUAIVL._SL400_.jpg)](https://www.amazon.es/dp/B00IOIKG68/?tag=tolees-21)
 
 🔎:
 

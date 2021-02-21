@@ -2,7 +2,7 @@
 layout: post
 title: 'Han Rondo - Organizador de escritorio  9 al 29.30 % de rebaja'
 date: 2020-08-20 13:14:05
-image: 'https://m.media-amazon.com/images/I/31hwwR-e7rL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31hwwR-e7rL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.47'
 
 Tienes [Han Rondo - Organizador de escritorio  9 compartimentos  1140 x 109 x 140 mm   color blanco](https://www.amazon.es/dp/B005HF4GKS/?tag=tolees-21) con precio final de  8.47 EUR (original: 11.98 EUR) (29.30 %  de rebaja) aqui!
 
-[![Han Rondo - Organizador de escritorio  9](https://m.media-amazon.com/images/I/31hwwR-e7rL._SL200_.jpg)](https://www.amazon.es/dp/B005HF4GKS/?tag=tolees-21)
+[![Han Rondo - Organizador de escritorio  9](https://m.media-amazon.com/images/I/31hwwR-e7rL._SL400_.jpg)](https://www.amazon.es/dp/B005HF4GKS/?tag=tolees-21)
 
 🔎:
 

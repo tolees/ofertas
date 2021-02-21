@@ -2,7 +2,7 @@
 layout: post
 title: 'HyperX Predator HX430C15PB3A/16 Memoria  al 44.62 % de descuento'
 date: 2020-08-13 06:34:36
-image: 'https://m.media-amazon.com/images/I/31nOA1ul5uL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31nOA1ul5uL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '73.65'
 
 Está [HyperX Predator HX430C15PB3A/16 Memoria 3000MHz DDR4 CL15 DIMM XMP 16GB RGB](https://www.amazon.es/dp/B07MVZ6MJK/?tag=tolees-21) con 44.62 de descuento por 73.65 EUR (original: 132.99 EUR) en el siguiente enlace!
 
-[![HyperX Predator HX430C15PB3A/16 Memoria ](https://m.media-amazon.com/images/I/31nOA1ul5uL._SL200_.jpg)](https://www.amazon.es/dp/B07MVZ6MJK/?tag=tolees-21)
+[![HyperX Predator HX430C15PB3A/16 Memoria ](https://m.media-amazon.com/images/I/31nOA1ul5uL._SL400_.jpg)](https://www.amazon.es/dp/B07MVZ6MJK/?tag=tolees-21)
 
 ℹ️:
 

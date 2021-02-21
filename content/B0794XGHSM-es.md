@@ -2,7 +2,7 @@
 layout: post
 title: 'PUMA Liga Sideline Polo T-Shirt  Hombre  al 40.77 % de rebaja'
 date: 2020-09-18 10:59:30
-image: 'https://m.media-amazon.com/images/I/31IKAwtf1bL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31IKAwtf1bL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.74'
 
 Tienes [PUMA Liga Sideline Polo T-Shirt  Hombre  Pepper Green White  S](https://www.amazon.es/dp/B0794XGHSM/?tag=tolees-21) con precio final de  17.74 EUR (original: 29.95 EUR) (40.77 %  de rebaja) aqui!
 
-[![PUMA Liga Sideline Polo T-Shirt  Hombre ](https://m.media-amazon.com/images/I/31IKAwtf1bL._SL200_.jpg)](https://www.amazon.es/dp/B0794XGHSM/?tag=tolees-21)
+[![PUMA Liga Sideline Polo T-Shirt  Hombre ](https://m.media-amazon.com/images/I/31IKAwtf1bL._SL400_.jpg)](https://www.amazon.es/dp/B0794XGHSM/?tag=tolees-21)
 
 🔎:
 

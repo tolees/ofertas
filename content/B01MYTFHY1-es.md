@@ -2,7 +2,7 @@
 layout: post
 title: 'Reloj Gusset Pocket Zeiger Steampunk Esq al 68.76 % de descuento'
 date: 2020-05-07 18:06:19
-image: 'https://m.media-amazon.com/images/I/51xjZwG4qmL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51xjZwG4qmL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.99'
 
 Está [Reloj Gusset Pocket Zeiger Steampunk Esqueleto Mecánico Cobre Estilo Gusset Retro Colgante Reloj de Bolsillo w351](https://www.amazon.es/dp/B01MYTFHY1/?tag=tolees-21) con 68.76 de descuento por 24.99 EUR (original: 79.99 EUR) en el siguiente enlace!
 
-[![Reloj Gusset Pocket Zeiger Steampunk Esq](https://m.media-amazon.com/images/I/51xjZwG4qmL._SL200_.jpg)](https://www.amazon.es/dp/B01MYTFHY1/?tag=tolees-21)
+[![Reloj Gusset Pocket Zeiger Steampunk Esq](https://m.media-amazon.com/images/I/51xjZwG4qmL._SL400_.jpg)](https://www.amazon.es/dp/B01MYTFHY1/?tag=tolees-21)
 
 ℹ️:
 

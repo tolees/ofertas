@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour UA W Ripple 2.0  Zapatillas al 61.82 % de rebaja'
 date: 2020-02-27 17:48:07
-image: 'https://m.media-amazon.com/images/I/41ZURvu-YYL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ZURvu-YYL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.82'
 
 Tienes [Under Armour UA W Ripple 2.0  Zapatillas de Running para Mujer  Azul  Blue Heights/White  400   44.5 EU](https://www.amazon.es/dp/B07HKP11T9/?tag=tolees-21) con precio final de  24.82 EUR (original: 65.0 EUR) (61.82 %  de rebaja) aqui!
 
-[![Under Armour UA W Ripple 2.0  Zapatillas](https://m.media-amazon.com/images/I/41ZURvu-YYL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07HKP11T9/?tag=tolees-21)
+[![Under Armour UA W Ripple 2.0  Zapatillas](https://m.media-amazon.com/images/I/41ZURvu-YYL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07HKP11T9/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Fdit Deriva Lazos pulir taladrar Cortes  al 71.23 % de descuento'
 date: 2020-02-17 12:33:11
-image: 'https://m.media-amazon.com/images/I/41e+lMnfgsL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41e+lMnfgsL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.19'
 
 Está [Fdit Deriva Lazos pulir taladrar Cortes Herramientas de Grabado Uso Doméstico DIY Modelo para Joyas Metal Cristal  Medium](https://www.amazon.es/dp/B07GR6KL6M/?tag=tolees-21) con 71.23 de descuento por 7.19 EUR (original: 24.99 EUR) en el siguiente enlace!
 
-[![Fdit Deriva Lazos pulir taladrar Cortes ](https://m.media-amazon.com/images/I/41e+lMnfgsL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07GR6KL6M/?tag=tolees-21)
+[![Fdit Deriva Lazos pulir taladrar Cortes ](https://m.media-amazon.com/images/I/41e+lMnfgsL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07GR6KL6M/?tag=tolees-21)
 
 ℹ️:
 

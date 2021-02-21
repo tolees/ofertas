@@ -2,7 +2,7 @@
 layout: post
 title: 'Trust Siano - Ratón inalámbrico Bluetoot al 31.02 % de descuento'
 date: 2020-07-19 12:10:33
-image: 'https://m.media-amazon.com/images/I/419cUSIZjyL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/419cUSIZjyL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.286666666666667'
 
 Está [Trust Siano - Ratón inalámbrico Bluetooth  Negro y Gris](https://www.amazon.es/dp/B00TKE3EO6/?tag=tolees-21) con 31.02 de descuento por 13.79 EUR (original: 19.99 EUR) en el siguiente enlace!
 
-[![Trust Siano - Ratón inalámbrico Bluetoot](https://m.media-amazon.com/images/I/419cUSIZjyL._SL200_.jpg)](https://www.amazon.es/dp/B00TKE3EO6/?tag=tolees-21)
+[![Trust Siano - Ratón inalámbrico Bluetoot](https://m.media-amazon.com/images/I/419cUSIZjyL._SL400_.jpg)](https://www.amazon.es/dp/B00TKE3EO6/?tag=tolees-21)
 
 ℹ️:
 

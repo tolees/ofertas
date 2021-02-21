@@ -2,7 +2,7 @@
 layout: post
 title: 'Kipling ART ON WHEELS M - Maleta  41 lit al 52.90 % de descuento'
 date: 2020-01-17 09:38:06
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41eWo0woCQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41eWo0woCQL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '65.47'
 
 Está [Kipling ART ON WHEELS M - Maleta  41 liters  Negro  BLACK INDIGO ](https://www.amazon.es/dp/B07N1HRMKN/?tag=tolees-21) con 52.90 de descuento por 65.47 EUR (original: 139 EUR) en el siguiente enlace!
 
-[![Kipling ART ON WHEELS M - Maleta  41 lit](https://images-eu.ssl-images-amazon.com/images/I/41eWo0woCQL._SL200_.jpg)](https://www.amazon.es/dp/B07N1HRMKN/?tag=tolees-21)
+[![Kipling ART ON WHEELS M - Maleta  41 lit](https://images-eu.ssl-images-amazon.com/images/I/41eWo0woCQL._SL400_.jpg)](https://www.amazon.es/dp/B07N1HRMKN/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Reloj Hugo Boss para Hombre 1513493 al 56.91 % de descuento'
 date: 2020-04-09 06:01:49
-image: 'https://m.media-amazon.com/images/I/51GL24F-cRL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51GL24F-cRL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '178.155'
 
 Ahora mismo tienes [Reloj Hugo Boss para Hombre 1513493](https://www.amazon.es/dp/B06XSG7BV7/?tag=tolees-21) a 150.4 EUR (original: 349.0 EUR) (56.91 %  de descuento) en el siguiente enlace!
 
-[![Reloj Hugo Boss para Hombre 1513493](https://m.media-amazon.com/images/I/51GL24F-cRL._SL200_.jpg)](https://www.amazon.es/dp/B06XSG7BV7/?tag=tolees-21)
+[![Reloj Hugo Boss para Hombre 1513493](https://m.media-amazon.com/images/I/51GL24F-cRL._SL400_.jpg)](https://www.amazon.es/dp/B06XSG7BV7/?tag=tolees-21)
 
 🔎:
 

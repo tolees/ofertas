@@ -2,7 +2,7 @@
 layout: post
 title: 'Chanson Mujeres 1 Unidad 300 g al 43.88 % de descuento'
 date: 2020-02-16 18:23:13
-image: 'https://m.media-amazon.com/images/I/41KWvCyc27L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41KWvCyc27L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.45'
 
 Está [Chanson Mujeres 1 Unidad 300 g](https://www.amazon.es/dp/B075QZ7CF1/?tag=tolees-21) con 43.88 de descuento por 9.95 EUR (original: 17.73 EUR) en el siguiente enlace!
 
-[![Chanson Mujeres 1 Unidad 300 g](https://m.media-amazon.com/images/I/41KWvCyc27L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B075QZ7CF1/?tag=tolees-21)
+[![Chanson Mujeres 1 Unidad 300 g](https://m.media-amazon.com/images/I/41KWvCyc27L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B075QZ7CF1/?tag=tolees-21)
 
 ℹ️:
 

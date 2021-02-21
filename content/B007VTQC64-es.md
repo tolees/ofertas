@@ -2,7 +2,7 @@
 layout: post
 title: 'Scotch 700/YEL Aplicador de Cinta Transf al 30.83 % de rebaja'
 date: 2020-10-12 20:21:27
-image: 'https://m.media-amazon.com/images/I/41fvf7hNXLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41fvf7hNXLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.99'
 
 Tienes [Scotch 700/YEL Aplicador de Cinta Transferidora](https://www.amazon.es/dp/B007VTQC64/?tag=tolees-21) con precio final de  19.99 EUR (original: 28.9 EUR) (30.83 %  de rebaja) aqui!
 
-[![Scotch 700/YEL Aplicador de Cinta Transf](https://m.media-amazon.com/images/I/41fvf7hNXLL._SL200_.jpg)](https://www.amazon.es/dp/B007VTQC64/?tag=tolees-21)
+[![Scotch 700/YEL Aplicador de Cinta Transf](https://m.media-amazon.com/images/I/41fvf7hNXLL._SL400_.jpg)](https://www.amazon.es/dp/B007VTQC64/?tag=tolees-21)
 
 🔎:
 

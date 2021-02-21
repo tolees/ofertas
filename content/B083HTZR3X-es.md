@@ -2,7 +2,7 @@
 layout: post
 title: 'K9CK Luces LED para Ideas La casa del ár con un 50.00 % de descuento'
 date: 2020-01-17 03:07:30
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51QqUsD3BUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51QqUsD3BUL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '59.99'
 
 En este momento está [K9CK Luces LED para Ideas La casa del árbol 21318  Kit de Iluminación Luz Compatible con Bloques de construcción  NO Incluido en el Modelo ](https://www.amazon.es/dp/B083HTZR3X/?tag=tolees-21) a 59.99 EUR (original: 119.98 EUR) (50.00 %  de descuento) en el siguiente enlace!
 
-[![K9CK Luces LED para Ideas La casa del ár](https://images-eu.ssl-images-amazon.com/images/I/51QqUsD3BUL._SL200_.jpg)](https://www.amazon.es/dp/B083HTZR3X/?tag=tolees-21)
+[![K9CK Luces LED para Ideas La casa del ár](https://images-eu.ssl-images-amazon.com/images/I/51QqUsD3BUL._SL400_.jpg)](https://www.amazon.es/dp/B083HTZR3X/?tag=tolees-21)
 
 🔎:
 

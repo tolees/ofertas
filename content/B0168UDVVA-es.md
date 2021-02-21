@@ -2,7 +2,7 @@
 layout: post
 title: 'Clint Eastwood - Pack 10 [Blu-ray] con un 35.03 % de descuento'
 date: 2020-02-01 01:14:42
-image: 'https://images-eu.ssl-images-amazon.com/images/I/517OwTpj9ZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/517OwTpj9ZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.69'
 
 En este momento está [Clint Eastwood - Pack 10 [Blu-ray]](https://www.amazon.es/dp/B0168UDVVA/?tag=tolees-21) a 24.69 EUR (original: 38 EUR) (35.03 %  de descuento) en el siguiente enlace!
 
-[![Clint Eastwood - Pack 10 [Blu-ray]](https://images-eu.ssl-images-amazon.com/images/I/517OwTpj9ZL._SL200_.jpg)](https://www.amazon.es/dp/B0168UDVVA/?tag=tolees-21)
+[![Clint Eastwood - Pack 10 [Blu-ray]](https://images-eu.ssl-images-amazon.com/images/I/517OwTpj9ZL._SL400_.jpg)](https://www.amazon.es/dp/B0168UDVVA/?tag=tolees-21)
 
 🔎:
 

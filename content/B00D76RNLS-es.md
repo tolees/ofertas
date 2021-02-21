@@ -2,7 +2,7 @@
 layout: post
 title: 'Manfrotto MTPIXI-B - Minitrípode Pixi  p al 46.63 % de descuento'
 date: 2020-08-22 13:07:58
-image: 'https://m.media-amazon.com/images/I/31ISCXijEvL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31ISCXijEvL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.489999999999998'
 
 Está [Manfrotto MTPIXI-B - Minitrípode Pixi  para Cámaras CSC DSLR de Nivel de Entrada  Material Adapto  Negro](https://www.amazon.es/dp/B00D76RNLS/?tag=tolees-21) con 46.63 de descuento por 13.76 EUR (original: 25.78 EUR) en el siguiente enlace!
 
-[![Manfrotto MTPIXI-B - Minitrípode Pixi  p](https://m.media-amazon.com/images/I/31ISCXijEvL._SL200_.jpg)](https://www.amazon.es/dp/B00D76RNLS/?tag=tolees-21)
+[![Manfrotto MTPIXI-B - Minitrípode Pixi  p](https://m.media-amazon.com/images/I/31ISCXijEvL._SL400_.jpg)](https://www.amazon.es/dp/B00D76RNLS/?tag=tolees-21)
 
 ℹ️:
 

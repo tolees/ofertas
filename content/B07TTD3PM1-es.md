@@ -2,7 +2,7 @@
 layout: post
 title: 'Funko- Pop Disney: Onward-Manticore Coll al 47.63 % de descuento'
 date: 2020-08-20 16:43:06
-image: 'https://m.media-amazon.com/images/I/41dujJbcx1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41dujJbcx1L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.916666666666668'
 
 Está [Funko- Pop Disney: Onward-Manticore Collectible Toy  Multicolor  45586 ](https://www.amazon.es/dp/B07TTD3PM1/?tag=tolees-21) con 47.63 de descuento por 7.83 EUR (original: 14.95 EUR) en el siguiente enlace!
 
-[![Funko- Pop Disney: Onward-Manticore Coll](https://m.media-amazon.com/images/I/41dujJbcx1L._SL200_.jpg)](https://www.amazon.es/dp/B07TTD3PM1/?tag=tolees-21)
+[![Funko- Pop Disney: Onward-Manticore Coll](https://m.media-amazon.com/images/I/41dujJbcx1L._SL400_.jpg)](https://www.amazon.es/dp/B07TTD3PM1/?tag=tolees-21)
 
 ℹ️:
 

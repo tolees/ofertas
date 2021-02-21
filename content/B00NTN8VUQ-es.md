@@ -2,7 +2,7 @@
 layout: post
 title: 'Diesel Reloj Hombre de Analogico con Cor con un 27.26 % de descuento'
 date: 2020-04-23 08:54:01
-image: 'https://m.media-amazon.com/images/I/51Tm5+9O0SL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Tm5+9O0SL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '134.48'
 
 En este momento está [Diesel Reloj Hombre de Analogico con Correa en Cuero DZ4343](https://www.amazon.es/dp/B00NTN8VUQ/?tag=tolees-21) a 134.48 EUR (original: 184.88 EUR) (27.26 %  de descuento) en el siguiente enlace!
 
-[![Diesel Reloj Hombre de Analogico con Cor](https://m.media-amazon.com/images/I/51Tm5+9O0SL._SL200_.jpg)](https://www.amazon.es/dp/B00NTN8VUQ/?tag=tolees-21)
+[![Diesel Reloj Hombre de Analogico con Cor](https://m.media-amazon.com/images/I/51Tm5+9O0SL._SL400_.jpg)](https://www.amazon.es/dp/B00NTN8VUQ/?tag=tolees-21)
 
 🔎:
 

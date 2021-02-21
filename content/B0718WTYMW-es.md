@@ -2,7 +2,7 @@
 layout: post
 title: 'Rimmel London Stay Matte  Pintalabios To con un 67.86 % de descuento'
 date: 2020-07-16 15:49:38
-image: 'https://m.media-amazon.com/images/I/31NQ3666JAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31NQ3666JAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.578571428571428'
 
 En este momento está [Rimmel London Stay Matte  Pintalabios Tono 800 Midnight  5.5 ml](https://www.amazon.es/dp/B0718WTYMW/?tag=tolees-21) a 2.25 EUR (original: 7.0 EUR) (67.86 %  de descuento) en el siguiente enlace!
 
-[![Rimmel London Stay Matte  Pintalabios To](https://m.media-amazon.com/images/I/31NQ3666JAL._SL200_.jpg)](https://www.amazon.es/dp/B0718WTYMW/?tag=tolees-21)
+[![Rimmel London Stay Matte  Pintalabios To](https://m.media-amazon.com/images/I/31NQ3666JAL._SL400_.jpg)](https://www.amazon.es/dp/B0718WTYMW/?tag=tolees-21)
 
 🔎:
 

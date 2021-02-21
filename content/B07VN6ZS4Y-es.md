@@ -2,7 +2,7 @@
 layout: post
 title: 'YAMAMAY® Slip Traje de baño brasileño -  al 49.97 % de rebaja'
 date: 2020-06-24 09:04:40
-image: 'https://m.media-amazon.com/images/I/41uunyZIbUL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41uunyZIbUL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.48'
 
 Tienes [YAMAMAY® Slip Traje de baño brasileño - Mirage](https://www.amazon.es/dp/B07VN6ZS4Y/?tag=tolees-21) con precio final de  8.48 EUR (original: 16.95 EUR) (49.97 %  de rebaja) aqui!
 
-[![YAMAMAY® Slip Traje de baño brasileño - ](https://m.media-amazon.com/images/I/41uunyZIbUL._SL200_.jpg)](https://www.amazon.es/dp/B07VN6ZS4Y/?tag=tolees-21)
+[![YAMAMAY® Slip Traje de baño brasileño - ](https://m.media-amazon.com/images/I/41uunyZIbUL._SL400_.jpg)](https://www.amazon.es/dp/B07VN6ZS4Y/?tag=tolees-21)
 
 🔎:
 

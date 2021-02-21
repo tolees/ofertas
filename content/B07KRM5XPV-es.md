@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 40.00 % en New Balance 373 Zapatillas Hombre  Marró'
 date: 2020-01-14 13:17:35
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41pBxxfZYML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41pBxxfZYML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '47.9'
 
 Tienes [New Balance 373 Zapatillas Hombre  Marrón  Brown   41 EU](https://www.amazon.es/dp/B07KRM5XPV/?tag=tolees-21) con un 40.00 % de descuento con precio de oferta de 51 EUR (original: 85 EUR) en el siguiente enlace!
 
-[![New Balance 373 Zapatillas Hombre  Marró](https://images-eu.ssl-images-amazon.com/images/I/41pBxxfZYML._SL200_.jpg)](https://www.amazon.es/dp/B07KRM5XPV/?tag=tolees-21)
+[![New Balance 373 Zapatillas Hombre  Marró](https://images-eu.ssl-images-amazon.com/images/I/41pBxxfZYML._SL400_.jpg)](https://www.amazon.es/dp/B07KRM5XPV/?tag=tolees-21)
 
 ℹ️:
 

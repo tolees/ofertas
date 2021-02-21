@@ -2,7 +2,7 @@
 layout: post
 title: 'Neutrogena Reparación Intensa Loción Cor con un 61.57 % de descuento'
 date: 2020-09-09 13:43:19
-image: 'https://m.media-amazon.com/images/I/41S8IiwYbnL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41S8IiwYbnL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.55923076923077'
 
 En este momento está [Neutrogena Reparación Intensa Loción Corporal para Piel Muy Seca - 750 ml](https://www.amazon.es/dp/B00L98KWZK/?tag=tolees-21) a 8.3 EUR (original: 21.6 EUR) (61.57 %  de descuento) en el siguiente enlace!
 
-[![Neutrogena Reparación Intensa Loción Cor](https://m.media-amazon.com/images/I/41S8IiwYbnL._SL200_.jpg)](https://www.amazon.es/dp/B00L98KWZK/?tag=tolees-21)
+[![Neutrogena Reparación Intensa Loción Cor](https://m.media-amazon.com/images/I/41S8IiwYbnL._SL400_.jpg)](https://www.amazon.es/dp/B00L98KWZK/?tag=tolees-21)
 
 🔎:
 

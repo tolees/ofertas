@@ -2,7 +2,7 @@
 layout: post
 title: 'Di4 Aspirojet Duo Limpiacristales 2 en 1 al 30.91 % de descuento'
 date: 2020-09-06 13:42:11
-image: 'https://m.media-amazon.com/images/I/41W7BePuF7L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41W7BePuF7L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '42.24'
 
 Está [Di4 Aspirojet Duo Limpiacristales 2 en 1 Exclusivo Cabezal Flexible- Accesorios](https://www.amazon.es/dp/B06XZ1KJNR/?tag=tolees-21) con 30.91 de descuento por 37.99 EUR (original: 54.99 EUR) en el siguiente enlace!
 
-[![Di4 Aspirojet Duo Limpiacristales 2 en 1](https://m.media-amazon.com/images/I/41W7BePuF7L._SL200_.jpg)](https://www.amazon.es/dp/B06XZ1KJNR/?tag=tolees-21)
+[![Di4 Aspirojet Duo Limpiacristales 2 en 1](https://m.media-amazon.com/images/I/41W7BePuF7L._SL400_.jpg)](https://www.amazon.es/dp/B06XZ1KJNR/?tag=tolees-21)
 
 ℹ️:
 

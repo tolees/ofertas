@@ -2,7 +2,7 @@
 layout: post
 title: 'Skechers Go Walk 5  Zapatillas sin Cordo al 50.58 % de rebaja'
 date: 2020-08-04 05:04:01
-image: 'https://m.media-amazon.com/images/I/41r9grik8IL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41r9grik8IL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '36.58'
 
 Tienes [Skechers Go Walk 5  Zapatillas sin Cordones para Hombre  Azul  Navy Textile/Synthetic/Gray Trim Nvgy   39.5 EU](https://www.amazon.es/dp/B07TSQ8K4Z/?tag=tolees-21) con precio final de  34.57 EUR (original: 69.95 EUR) (50.58 %  de rebaja) aqui!
 
-[![Skechers Go Walk 5  Zapatillas sin Cordo](https://m.media-amazon.com/images/I/41r9grik8IL._SL200_.jpg)](https://www.amazon.es/dp/B07TSQ8K4Z/?tag=tolees-21)
+[![Skechers Go Walk 5  Zapatillas sin Cordo](https://m.media-amazon.com/images/I/41r9grik8IL._SL400_.jpg)](https://www.amazon.es/dp/B07TSQ8K4Z/?tag=tolees-21)
 
 🔎:
 

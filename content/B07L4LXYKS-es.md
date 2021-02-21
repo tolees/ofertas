@@ -2,7 +2,7 @@
 layout: post
 title: '60 x 85cm Almohadilla Térmica Eléctrica  al 26.42 % de rebaja'
 date: 2020-04-03 16:32:33
-image: 'https://m.media-amazon.com/images/I/41pqc8W1g8L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41pqc8W1g8L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '39.49'
 
 Tienes [60 x 85cm Almohadilla Térmica Eléctrica para la Espalda  Hombros y Cuello Calentado con Tecnología de Calentamiento Rápido con 5 Niveles de Temperatura - Apagado Automático - Azul oscuro](https://www.amazon.es/dp/B07L4LXYKS/?tag=tolees-21) con precio final de  38.99 EUR (original: 52.99 EUR) (26.42 %  de rebaja) aqui!
 
-[![60 x 85cm Almohadilla Térmica Eléctrica ](https://m.media-amazon.com/images/I/41pqc8W1g8L._SL200_.jpg)](https://www.amazon.es/dp/B07L4LXYKS/?tag=tolees-21)
+[![60 x 85cm Almohadilla Térmica Eléctrica ](https://m.media-amazon.com/images/I/41pqc8W1g8L._SL400_.jpg)](https://www.amazon.es/dp/B07L4LXYKS/?tag=tolees-21)
 
 🔎:
 

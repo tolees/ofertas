@@ -2,7 +2,7 @@
 layout: post
 title: 'New Balance Vazee Coast  Zapatillas de R al 70.53 % de rebaja'
 date: 2020-02-01 02:30:48
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41yvrioWsBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41yvrioWsBL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '26.52'
 
 Tienes [New Balance Vazee Coast  Zapatillas de Running para Mujer  Azul  Teal 443   37 EU](https://www.amazon.es/dp/B019CVMIN4/?tag=tolees-21) con precio final de  26.52 EUR (original: 90 EUR) (70.53 %  de rebaja) aqui!
 
-[![New Balance Vazee Coast  Zapatillas de R](https://images-eu.ssl-images-amazon.com/images/I/41yvrioWsBL._SL200_.jpg)](https://www.amazon.es/dp/B019CVMIN4/?tag=tolees-21)
+[![New Balance Vazee Coast  Zapatillas de R](https://images-eu.ssl-images-amazon.com/images/I/41yvrioWsBL._SL400_.jpg)](https://www.amazon.es/dp/B019CVMIN4/?tag=tolees-21)
 
 🔎:
 

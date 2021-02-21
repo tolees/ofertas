@@ -2,7 +2,7 @@
 layout: post
 title: 'Superdry Classic Lite Micro Sports Polo  al 52.29 % de descuento'
 date: 2020-04-07 16:04:06
-image: 'https://m.media-amazon.com/images/I/31eMoATCOPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31eMoATCOPL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.85'
 
 Ahora mismo tienes [Superdry Classic Lite Micro Sports Polo  Rojo  Rouge Red Wa7   Small para Hombre](https://www.amazon.es/dp/B07P4J7ZMP/?tag=tolees-21) a 23.85 EUR (original: 49.99 EUR) (52.29 %  de descuento) en el siguiente enlace!
 
-[![Superdry Classic Lite Micro Sports Polo ](https://m.media-amazon.com/images/I/31eMoATCOPL._SL200_.jpg)](https://www.amazon.es/dp/B07P4J7ZMP/?tag=tolees-21)
+[![Superdry Classic Lite Micro Sports Polo ](https://m.media-amazon.com/images/I/31eMoATCOPL._SL400_.jpg)](https://www.amazon.es/dp/B07P4J7ZMP/?tag=tolees-21)
 
 🔎:
 

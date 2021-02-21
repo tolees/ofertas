@@ -2,7 +2,7 @@
 layout: post
 title: 'ISDIN BodySenses Loción Corporal  Gama R con un 25.54 % de descuento'
 date: 2020-07-17 19:04:46
-image: 'https://m.media-amazon.com/images/I/312aoGAJWqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/312aoGAJWqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.11'
 
 En este momento está [ISDIN BodySenses Loción Corporal  Gama Refrescante con Flor de Edelweiss Alpina  Hidrata tu piel de sensaciones - 500ml](https://www.amazon.es/dp/B07X8YPLDR/?tag=tolees-21) a 14.11 EUR (original: 18.95 EUR) (25.54 %  de descuento) en el siguiente enlace!
 
-[![ISDIN BodySenses Loción Corporal  Gama R](https://m.media-amazon.com/images/I/312aoGAJWqL._SL200_.jpg)](https://www.amazon.es/dp/B07X8YPLDR/?tag=tolees-21)
+[![ISDIN BodySenses Loción Corporal  Gama R](https://m.media-amazon.com/images/I/312aoGAJWqL._SL400_.jpg)](https://www.amazon.es/dp/B07X8YPLDR/?tag=tolees-21)
 
 🔎:
 

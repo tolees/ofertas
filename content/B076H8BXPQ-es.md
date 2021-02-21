@@ -2,7 +2,7 @@
 layout: post
 title: 'Tuc Tuc 05789 - Trona con un 31.89 % de descuento'
 date: 2020-08-13 18:35:01
-image: 'https://m.media-amazon.com/images/I/41jC8SKIKVL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41jC8SKIKVL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '36.1'
 
 En este momento está [Tuc Tuc 05789 - Trona](https://www.amazon.es/dp/B076H8BXPQ/?tag=tolees-21) a 36.1 EUR (original: 53.0 EUR) (31.89 %  de descuento) en el siguiente enlace!
 
-[![Tuc Tuc 05789 - Trona](https://m.media-amazon.com/images/I/41jC8SKIKVL._SL200_.jpg)](https://www.amazon.es/dp/B076H8BXPQ/?tag=tolees-21)
+[![Tuc Tuc 05789 - Trona](https://m.media-amazon.com/images/I/41jC8SKIKVL._SL400_.jpg)](https://www.amazon.es/dp/B076H8BXPQ/?tag=tolees-21)
 
 🔎:
 

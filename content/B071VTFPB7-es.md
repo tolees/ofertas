@@ -2,7 +2,7 @@
 layout: post
 title: 'Vintage Rectangle Mantel de lino de algo al 29.72 % de descuento'
 date: 2020-05-06 09:06:28
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51amIqh0rLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51amIqh0rLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.99'
 
 Ahora mismo tienes [Vintage Rectangle Mantel de lino de algodón  Yanyi Brand Wood Stripe Mantel de mesa para el restaurante del hotel de casa Restaurante  calor y humedad Resistencia90*90cm 35*35inch ](https://www.amazon.es/dp/B071VTFPB7/?tag=tolees-21) a 11.99 EUR (original: 17.06 EUR) (29.72 %  de descuento) en el siguiente enlace!
 
-[![Vintage Rectangle Mantel de lino de algo](https://images-eu.ssl-images-amazon.com/images/I/51amIqh0rLL._SL200_.jpg)](https://www.amazon.es/dp/B071VTFPB7/?tag=tolees-21)
+[![Vintage Rectangle Mantel de lino de algo](https://images-eu.ssl-images-amazon.com/images/I/51amIqh0rLL._SL400_.jpg)](https://www.amazon.es/dp/B071VTFPB7/?tag=tolees-21)
 
 🔎:
 

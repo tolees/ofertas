@@ -2,7 +2,7 @@
 layout: post
 title: 'PIKOLINOS Sandalia Plana de Piel Alcudia al 55.54 % de descuento'
 date: 2020-01-11 07:49:02
-image: 'https://images-eu.ssl-images-amazon.com/images/I/311k6DCd29L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/311k6DCd29L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '30.68'
 
 Ahora mismo tienes [PIKOLINOS Sandalia Plana de Piel Alcudia 816](https://www.amazon.es/dp/B07MM27WHQ/?tag=tolees-21) a 30.68 EUR (original: 69 EUR) (55.54 %  de descuento) en el siguiente enlace!
 
-[![PIKOLINOS Sandalia Plana de Piel Alcudia](https://images-eu.ssl-images-amazon.com/images/I/311k6DCd29L._SL200_.jpg)](https://www.amazon.es/dp/B07MM27WHQ/?tag=tolees-21)
+[![PIKOLINOS Sandalia Plana de Piel Alcudia](https://images-eu.ssl-images-amazon.com/images/I/311k6DCd29L._SL400_.jpg)](https://www.amazon.es/dp/B07MM27WHQ/?tag=tolees-21)
 
 🔎:
 

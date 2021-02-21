@@ -2,7 +2,7 @@
 layout: post
 title: 'HKSMAN - Adaptador de Conector RCA Macho al 57.93 % de rebaja'
 date: 2020-05-13 12:05:37
-image: 'https://m.media-amazon.com/images/I/51-e8eHrooL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51-e8eHrooL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.99'
 
 Tienes [HKSMAN - Adaptador de Conector RCA Macho de Audio y vídeo en línea Chapado en Oro  Enchufe RCA sin Soldadura  Negro y Rojo 4 Pcs](https://www.amazon.es/dp/B07KG7B4MC/?tag=tolees-21) con precio final de  7.99 EUR (original: 18.99 EUR) (57.93 %  de rebaja) aqui!
 
-[![HKSMAN - Adaptador de Conector RCA Macho](https://m.media-amazon.com/images/I/51-e8eHrooL._SL200_.jpg)](https://www.amazon.es/dp/B07KG7B4MC/?tag=tolees-21)
+[![HKSMAN - Adaptador de Conector RCA Macho](https://m.media-amazon.com/images/I/51-e8eHrooL._SL400_.jpg)](https://www.amazon.es/dp/B07KG7B4MC/?tag=tolees-21)
 
 🔎:
 

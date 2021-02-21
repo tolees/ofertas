@@ -2,7 +2,7 @@
 layout: post
 title: 'Vegetalia  Jengibre seco en polvo  - 80  al 25.08 % de descuento'
 date: 2020-05-27 17:44:38
-image: 'https://m.media-amazon.com/images/I/51BO5zLToEL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51BO5zLToEL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.21'
 
 Está [Vegetalia  Jengibre seco en polvo  - 80 gr.](https://www.amazon.es/dp/B071VSTHGF/?tag=tolees-21) con 25.08 de descuento por 2.21 EUR (original: 2.95 EUR) en el siguiente enlace!
 
-[![Vegetalia  Jengibre seco en polvo  - 80 ](https://m.media-amazon.com/images/I/51BO5zLToEL._SL200_.jpg)](https://www.amazon.es/dp/B071VSTHGF/?tag=tolees-21)
+[![Vegetalia  Jengibre seco en polvo  - 80 ](https://m.media-amazon.com/images/I/51BO5zLToEL._SL400_.jpg)](https://www.amazon.es/dp/B071VSTHGF/?tag=tolees-21)
 
 ℹ️:
 

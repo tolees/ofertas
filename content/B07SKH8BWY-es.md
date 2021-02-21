@@ -2,7 +2,7 @@
 layout: post
 title: 'Adidas Tensaur C  Zapatillas de Running  con un 66.58 % de descuento'
 date: 2020-10-10 05:19:56
-image: 'https://m.media-amazon.com/images/I/31yY7Se9MgL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31yY7Se9MgL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.01'
 
 En este momento está [Adidas Tensaur C  Zapatillas de Running Unisex niño  Noir Noir Gris Foncã  29 EU](https://www.amazon.es/dp/B07SKH8BWY/?tag=tolees-21) a 10.01 EUR (original: 29.95 EUR) (66.58 %  de descuento) en el siguiente enlace!
 
-[![Adidas Tensaur C  Zapatillas de Running ](https://m.media-amazon.com/images/I/31yY7Se9MgL._SL200_.jpg)](https://www.amazon.es/dp/B07SKH8BWY/?tag=tolees-21)
+[![Adidas Tensaur C  Zapatillas de Running ](https://m.media-amazon.com/images/I/31yY7Se9MgL._SL400_.jpg)](https://www.amazon.es/dp/B07SKH8BWY/?tag=tolees-21)
 
 🔎:
 

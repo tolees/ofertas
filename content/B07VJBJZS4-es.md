@@ -2,7 +2,7 @@
 layout: post
 title: 'edc by Esprit 099cc1b048 Pantalones  Neg al 66.68 % de rebaja'
 date: 2020-01-19 17:08:19
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41wzWROyKEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41wzWROyKEL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.99'
 
 Tienes [edc by Esprit 099cc1b048 Pantalones  Negro  Black 001   W38/L30  Talla del Fabricante: 38/30  para Mujer](https://www.amazon.es/dp/B07VJBJZS4/?tag=tolees-21) con precio final de  19.99 EUR (original: 59.99 EUR) (66.68 %  de rebaja) aqui!
 
-[![edc by Esprit 099cc1b048 Pantalones  Neg](https://images-eu.ssl-images-amazon.com/images/I/41wzWROyKEL._SL200_.jpg)](https://www.amazon.es/dp/B07VJBJZS4/?tag=tolees-21)
+[![edc by Esprit 099cc1b048 Pantalones  Neg](https://images-eu.ssl-images-amazon.com/images/I/41wzWROyKEL._SL400_.jpg)](https://www.amazon.es/dp/B07VJBJZS4/?tag=tolees-21)
 
 🔎:
 

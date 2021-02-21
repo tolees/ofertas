@@ -2,7 +2,7 @@
 layout: post
 title: 'JACK & JONES Jcomondo Sweat Hood Capucha con un 40.15 % de descuento'
 date: 2020-01-12 18:35:54
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41D11vyOaJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41D11vyOaJL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.04'
 
 En este momento está [JACK & JONES Jcomondo Sweat Hood Capucha  Gris Light Grey Melange  Medium para Hombre](https://www.amazon.es/dp/B07RMR38L8/?tag=tolees-21) a 17.95 EUR (original: 29.99 EUR) (40.15 %  de descuento) en el siguiente enlace!
 
-[![JACK & JONES Jcomondo Sweat Hood Capucha](https://images-eu.ssl-images-amazon.com/images/I/41D11vyOaJL._SL200_.jpg)](https://www.amazon.es/dp/B07RMR38L8/?tag=tolees-21)
+[![JACK & JONES Jcomondo Sweat Hood Capucha](https://images-eu.ssl-images-amazon.com/images/I/41D11vyOaJL._SL400_.jpg)](https://www.amazon.es/dp/B07RMR38L8/?tag=tolees-21)
 
 🔎:
 

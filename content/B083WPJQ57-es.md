@@ -2,7 +2,7 @@
 layout: post
 title: 'IKOHS FLOWIND - Ventilador de Techo con  al 33.14 % de descuento'
 date: 2020-09-06 14:41:32
-image: 'https://m.media-amazon.com/images/I/21wOhJVA-vL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21wOhJVA-vL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '173.8'
 
 Ahora mismo tienes [IKOHS FLOWIND - Ventilador de Techo con Luz  Diseño Exclusivo  Silencioso  Potente  5 Aspas  Mando a Distancia  132 cm de Diámetro  3 Velocidades Temporizador  Aspas de Madera  Motor AC  88W  Blanco ](https://www.amazon.es/dp/B083WPJQ57/?tag=tolees-21) a 173.8 EUR (original: 259.95 EUR) (33.14 %  de descuento) en el siguiente enlace!
 
-[![IKOHS FLOWIND - Ventilador de Techo con ](https://m.media-amazon.com/images/I/21wOhJVA-vL._SL200_.jpg)](https://www.amazon.es/dp/B083WPJQ57/?tag=tolees-21)
+[![IKOHS FLOWIND - Ventilador de Techo con ](https://m.media-amazon.com/images/I/21wOhJVA-vL._SL400_.jpg)](https://www.amazon.es/dp/B083WPJQ57/?tag=tolees-21)
 
 🔎:
 

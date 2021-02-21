@@ -2,7 +2,7 @@
 layout: post
 title: 'Sisbelt Forte Complemento Alimenticio co al 28.57 % de descuento'
 date: 2020-09-24 05:35:13
-image: 'https://m.media-amazon.com/images/I/31ixAAH+SCL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31ixAAH+SCL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.56'
 
 Ahora mismo tienes [Sisbelt Forte Complemento Alimenticio con Berenjena y Alcachofa - 225 ml](https://www.amazon.es/dp/B078HFPFC7/?tag=tolees-21) a 17.68 EUR (original: 24.75 EUR) (28.57 %  de descuento) en el siguiente enlace!
 
-[![Sisbelt Forte Complemento Alimenticio co](https://m.media-amazon.com/images/I/31ixAAH+SCL._SL200_.jpg)](https://www.amazon.es/dp/B078HFPFC7/?tag=tolees-21)
+[![Sisbelt Forte Complemento Alimenticio co](https://m.media-amazon.com/images/I/31ixAAH+SCL._SL400_.jpg)](https://www.amazon.es/dp/B078HFPFC7/?tag=tolees-21)
 
 🔎:
 

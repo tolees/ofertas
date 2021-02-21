@@ -2,7 +2,7 @@
 layout: post
 title: 'DIM Generous Sujetador  Negro  100E para al 68.91 % de descuento'
 date: 2020-06-17 07:10:40
-image: 'https://m.media-amazon.com/images/I/41VS4brCRcL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41VS4brCRcL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.75'
 
 Ahora mismo tienes [DIM Generous Sujetador  Negro  100E para Mujer](https://www.amazon.es/dp/B005XMW2WY/?tag=tolees-21) a 9.0 EUR (original: 28.95 EUR) (68.91 %  de descuento) en el siguiente enlace!
 
-[![DIM Generous Sujetador  Negro  100E para](https://m.media-amazon.com/images/I/41VS4brCRcL._SL200_.jpg)](https://www.amazon.es/dp/B005XMW2WY/?tag=tolees-21)
+[![DIM Generous Sujetador  Negro  100E para](https://m.media-amazon.com/images/I/41VS4brCRcL._SL400_.jpg)](https://www.amazon.es/dp/B005XMW2WY/?tag=tolees-21)
 
 🔎:
 

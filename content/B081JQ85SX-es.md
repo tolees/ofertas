@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 29.91 % en Justdodo Neopreno DSLR Lente de la cámar'
 date: 2020-09-16 18:31:30
-image: 'https://m.media-amazon.com/images/I/31jKK7rgt4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31jKK7rgt4L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.32'
 
 Tienes [Justdodo Neopreno DSLR Lente de la cámara Protector Suave Bolsa Bolsa Funda Acolchada Impermeable para Canon para Nikon para Sony - Negro y Rojo 2XL](https://www.amazon.es/dp/B081JQ85SX/?tag=tolees-21) con un 29.91 % de descuento con precio de oferta de 2.32 EUR (original: 3.31 EUR) en el siguiente enlace!
 
-[![Justdodo Neopreno DSLR Lente de la cámar](https://m.media-amazon.com/images/I/31jKK7rgt4L._SL200_.jpg)](https://www.amazon.es/dp/B081JQ85SX/?tag=tolees-21)
+[![Justdodo Neopreno DSLR Lente de la cámar](https://m.media-amazon.com/images/I/31jKK7rgt4L._SL400_.jpg)](https://www.amazon.es/dp/B081JQ85SX/?tag=tolees-21)
 
 ℹ️:
 

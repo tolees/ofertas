@@ -2,7 +2,7 @@
 layout: post
 title: 'TOUCHBeauty - Cepillo limpiador cara y C al 66.68 % de descuento'
 date: 2020-02-07 08:56:14
-image: 'https://m.media-amazon.com/images/I/51t+V143znL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51t+V143znL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.98'
 
 Está [TOUCHBeauty - Cepillo limpiador cara y Calentador sónico recargable impermeable al agua para limpiar los poros en profundidad y exfoliación dulce ag-1788 gris](https://www.amazon.es/dp/B07CZFY6XM/?tag=tolees-21) con 66.68 de descuento por 29.98 EUR (original: 89.98 EUR) en el siguiente enlace!
 
-[![TOUCHBeauty - Cepillo limpiador cara y C](https://m.media-amazon.com/images/I/51t+V143znL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07CZFY6XM/?tag=tolees-21)
+[![TOUCHBeauty - Cepillo limpiador cara y C](https://m.media-amazon.com/images/I/51t+V143znL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07CZFY6XM/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Adidas Daily 2.0  Zapatillas para Hombre con un 44.41 % de descuento'
 date: 2020-03-28 21:36:40
-image: 'https://m.media-amazon.com/images/I/31obzrNo1vL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31obzrNo1vL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '34.74'
 
 En este momento está [Adidas Daily 2.0  Zapatillas para Hombre  Negro  Black F34468   46 2/3 EU](https://www.amazon.es/dp/B07MVQNHK3/?tag=tolees-21) a 34.74 EUR (original: 62.49 EUR) (44.41 %  de descuento) en el siguiente enlace!
 
-[![Adidas Daily 2.0  Zapatillas para Hombre](https://m.media-amazon.com/images/I/31obzrNo1vL._SL200_.jpg)](https://www.amazon.es/dp/B07MVQNHK3/?tag=tolees-21)
+[![Adidas Daily 2.0  Zapatillas para Hombre](https://m.media-amazon.com/images/I/31obzrNo1vL._SL400_.jpg)](https://www.amazon.es/dp/B07MVQNHK3/?tag=tolees-21)
 
 🔎:
 

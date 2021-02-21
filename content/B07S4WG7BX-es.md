@@ -2,7 +2,7 @@
 layout: post
 title: 'New Balance 997H h  Zapatillas para Homb al 52.40 % de descuento'
 date: 2020-08-20 21:29:55
-image: 'https://m.media-amazon.com/images/I/31-YduzNLJL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31-YduzNLJL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '42.84'
 
 Ahora mismo tienes [New Balance 997H h  Zapatillas para Hombre  Marfil  Off Hbp   40 EU](https://www.amazon.es/dp/B07S4WG7BX/?tag=tolees-21) a 42.84 EUR (original: 90.0 EUR) (52.40 %  de descuento) en el siguiente enlace!
 
-[![New Balance 997H h  Zapatillas para Homb](https://m.media-amazon.com/images/I/31-YduzNLJL._SL200_.jpg)](https://www.amazon.es/dp/B07S4WG7BX/?tag=tolees-21)
+[![New Balance 997H h  Zapatillas para Homb](https://m.media-amazon.com/images/I/31-YduzNLJL._SL400_.jpg)](https://www.amazon.es/dp/B07S4WG7BX/?tag=tolees-21)
 
 🔎:
 

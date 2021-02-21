@@ -2,7 +2,7 @@
 layout: post
 title: 'Sevilla GS-21-S Set de Desayuno al 33.31 % de descuento'
 date: 2020-03-06 17:10:03
-image: 'https://m.media-amazon.com/images/I/41k6osOvBsL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41k6osOvBsL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.99'
 
 Está [Sevilla GS-21-S Set de Desayuno](https://www.amazon.es/dp/B01N571JLS/?tag=tolees-21) con 33.31 de descuento por 9.99 EUR (original: 14.98 EUR) en el siguiente enlace!
 
-[![Sevilla GS-21-S Set de Desayuno](https://m.media-amazon.com/images/I/41k6osOvBsL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01N571JLS/?tag=tolees-21)
+[![Sevilla GS-21-S Set de Desayuno](https://m.media-amazon.com/images/I/41k6osOvBsL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01N571JLS/?tag=tolees-21)
 
 ℹ️:
 

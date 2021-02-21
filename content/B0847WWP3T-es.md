@@ -2,7 +2,7 @@
 layout: post
 title: 'Oddworld: Stranger s Wrath HD con un 29.18 % de descuento'
 date: 2020-07-06 09:09:33
-image: 'https://m.media-amazon.com/images/I/51lpllS2aCL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51lpllS2aCL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.115'
 
 En este momento está [Oddworld: Stranger s Wrath HD](https://www.amazon.es/dp/B0847WWP3T/?tag=tolees-21) a 21.24 EUR (original: 29.99 EUR) (29.18 %  de descuento) en el siguiente enlace!
 
-[![Oddworld: Stranger s Wrath HD](https://m.media-amazon.com/images/I/51lpllS2aCL._SL200_.jpg)](https://www.amazon.es/dp/B0847WWP3T/?tag=tolees-21)
+[![Oddworld: Stranger s Wrath HD](https://m.media-amazon.com/images/I/51lpllS2aCL._SL400_.jpg)](https://www.amazon.es/dp/B0847WWP3T/?tag=tolees-21)
 
 🔎:
 

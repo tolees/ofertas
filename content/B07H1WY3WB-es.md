@@ -2,7 +2,7 @@
 layout: post
 title: 'Rizador Pelo Profesional 6 en 1  Plancha con un 65.13 % de descuento'
 date: 2020-07-20 14:15:05
-image: 'https://m.media-amazon.com/images/I/41pwltlw1+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41pwltlw1+L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '34.99'
 
 En este momento está [Rizador Pelo Profesional 6 en 1  Plancha Pelo Curling Iron Juego de varillas de hierro curling negro con turmalina de cerámica Barril de hierro con guante resistente al calor](https://www.amazon.es/dp/B07H1WY3WB/?tag=tolees-21) a 34.99 EUR (original: 100.34 EUR) (65.13 %  de descuento) en el siguiente enlace!
 
-[![Rizador Pelo Profesional 6 en 1  Plancha](https://m.media-amazon.com/images/I/41pwltlw1+L._SL200_.jpg)](https://www.amazon.es/dp/B07H1WY3WB/?tag=tolees-21)
+[![Rizador Pelo Profesional 6 en 1  Plancha](https://m.media-amazon.com/images/I/41pwltlw1+L._SL400_.jpg)](https://www.amazon.es/dp/B07H1WY3WB/?tag=tolees-21)
 
 🔎:
 

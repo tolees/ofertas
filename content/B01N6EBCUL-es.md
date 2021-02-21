@@ -2,7 +2,7 @@
 layout: post
 title: 'Columbia Childrens FirecampTM Sledder II al 66.01 % de descuento'
 date: 2020-01-07 21:13:42
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41E0hcdUAKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41E0hcdUAKL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.39'
 
 Está [Columbia Childrens FirecampTM Sledder II WP  Zapatillas de Senderismo  Impermeable para Niños  Azul  Collegiate Navy  Ginkgo   25 EU](https://www.amazon.es/dp/B01N6EBCUL/?tag=tolees-21) con 66.01 de descuento por 20.39 EUR (original: 59.99 EUR) en el siguiente enlace!
 
-[![Columbia Childrens FirecampTM Sledder II](https://images-eu.ssl-images-amazon.com/images/I/41E0hcdUAKL._SL200_.jpg)](https://www.amazon.es/dp/B01N6EBCUL/?tag=tolees-21)
+[![Columbia Childrens FirecampTM Sledder II](https://images-eu.ssl-images-amazon.com/images/I/41E0hcdUAKL._SL400_.jpg)](https://www.amazon.es/dp/B01N6EBCUL/?tag=tolees-21)
 
 ℹ️:
 

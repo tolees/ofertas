@@ -2,7 +2,7 @@
 layout: post
 title: 'NASUM Mini Ventilador  USB Ventilador Po con un 64.26 % de descuento'
 date: 2020-09-25 17:51:04
-image: 'https://m.media-amazon.com/images/I/41W2plZG1TL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41W2plZG1TL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.55375'
 
 En este momento está [NASUM Mini Ventilador  USB Ventilador Portatil Batería Recargable con 3 Modos de Velocidad  Ventilador de Mano para Oficinas Casas Coches al Aire Libre Rosado ](https://www.amazon.es/dp/B07PFJ38KV/?tag=tolees-21) a 5.0 EUR (original: 13.99 EUR) (64.26 %  de descuento) en el siguiente enlace!
 
-[![NASUM Mini Ventilador  USB Ventilador Po](https://m.media-amazon.com/images/I/41W2plZG1TL._SL200_.jpg)](https://www.amazon.es/dp/B07PFJ38KV/?tag=tolees-21)
+[![NASUM Mini Ventilador  USB Ventilador Po](https://m.media-amazon.com/images/I/41W2plZG1TL._SL400_.jpg)](https://www.amazon.es/dp/B07PFJ38KV/?tag=tolees-21)
 
 🔎:
 

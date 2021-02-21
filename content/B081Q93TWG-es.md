@@ -2,7 +2,7 @@
 layout: post
 title: 'WANSENDA Memoria USB Tipo C 512GB  Unida con un 51.27 % de descuento'
 date: 2020-09-21 14:22:22
-image: 'https://m.media-amazon.com/images/I/41O53fVzVmL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41O53fVzVmL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '73.09'
 
 En este momento está [WANSENDA Memoria USB Tipo C 512GB  Unidad Flash USB 3.0 de Doble Puerto & USB C OTG Memory Stick Pendrive para Dispositivos Tipo C Android/Mac/PC](https://www.amazon.es/dp/B081Q93TWG/?tag=tolees-21) a 73.09 EUR (original: 150.0 EUR) (51.27 %  de descuento) en el siguiente enlace!
 
-[![WANSENDA Memoria USB Tipo C 512GB  Unida](https://m.media-amazon.com/images/I/41O53fVzVmL._SL200_.jpg)](https://www.amazon.es/dp/B081Q93TWG/?tag=tolees-21)
+[![WANSENDA Memoria USB Tipo C 512GB  Unida](https://m.media-amazon.com/images/I/41O53fVzVmL._SL400_.jpg)](https://www.amazon.es/dp/B081Q93TWG/?tag=tolees-21)
 
 🔎:
 

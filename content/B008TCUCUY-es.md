@@ -2,7 +2,7 @@
 layout: post
 title: 'Intocable [DVD] con un 49.75 % de descuento'
 date: 2020-10-11 13:09:18
-image: 'https://m.media-amazon.com/images/I/51VIRK7ndhL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51VIRK7ndhL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.99'
 
 En este momento está [Intocable [DVD]](https://www.amazon.es/dp/B008TCUCUY/?tag=tolees-21) a 2.99 EUR (original: 5.95 EUR) (49.75 %  de descuento) en el siguiente enlace!
 
-[![Intocable [DVD]](https://m.media-amazon.com/images/I/51VIRK7ndhL._SL200_.jpg)](https://www.amazon.es/dp/B008TCUCUY/?tag=tolees-21)
+[![Intocable [DVD]](https://m.media-amazon.com/images/I/51VIRK7ndhL._SL400_.jpg)](https://www.amazon.es/dp/B008TCUCUY/?tag=tolees-21)
 
 🔎:
 

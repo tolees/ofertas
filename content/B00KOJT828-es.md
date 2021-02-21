@@ -2,7 +2,7 @@
 layout: post
 title: 'Columbia Peakfreak Nomad  Botas de Sende con un 37.04 % de descuento'
 date: 2020-05-07 18:09:41
-image: 'https://m.media-amazon.com/images/I/41iFsf8lSZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41iFsf8lSZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '62.95'
 
 En este momento está [Columbia Peakfreak Nomad  Botas de Senderismo para Hombre  Negro  Black  Caramel 010   43 EU](https://www.amazon.es/dp/B00KOJT828/?tag=tolees-21) a 62.95 EUR (original: 99.99 EUR) (37.04 %  de descuento) en el siguiente enlace!
 
-[![Columbia Peakfreak Nomad  Botas de Sende](https://m.media-amazon.com/images/I/41iFsf8lSZL._SL200_.jpg)](https://www.amazon.es/dp/B00KOJT828/?tag=tolees-21)
+[![Columbia Peakfreak Nomad  Botas de Sende](https://m.media-amazon.com/images/I/41iFsf8lSZL._SL400_.jpg)](https://www.amazon.es/dp/B00KOJT828/?tag=tolees-21)
 
 🔎:
 

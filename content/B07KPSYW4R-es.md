@@ -2,7 +2,7 @@
 layout: post
 title: 'Pop! Vinilo: Spider-Man Far from Home: M al 33.85 % de rebaja'
 date: 2020-08-05 10:39:43
-image: 'https://m.media-amazon.com/images/I/51A+prC+1PL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51A+prC+1PL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.84'
 
 Tienes [Pop! Vinilo: Spider-Man Far from Home: Molten Man](https://www.amazon.es/dp/B07KPSYW4R/?tag=tolees-21) con precio final de  9.89 EUR (original: 14.95 EUR) (33.85 %  de rebaja) aqui!
 
-[![Pop! Vinilo: Spider-Man Far from Home: M](https://m.media-amazon.com/images/I/51A+prC+1PL._SL200_.jpg)](https://www.amazon.es/dp/B07KPSYW4R/?tag=tolees-21)
+[![Pop! Vinilo: Spider-Man Far from Home: M](https://m.media-amazon.com/images/I/51A+prC+1PL._SL400_.jpg)](https://www.amazon.es/dp/B07KPSYW4R/?tag=tolees-21)
 
 🔎:
 

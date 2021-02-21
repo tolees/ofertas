@@ -2,7 +2,7 @@
 layout: post
 title: 'Ibergrif M11050 Roma  Grifo Baño Clásico al 27.78 % de descuento'
 date: 2020-09-22 08:39:54
-image: 'https://m.media-amazon.com/images/I/41V7X1I9n+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41V7X1I9n+L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.66'
 
 Está [Ibergrif M11050 Roma  Grifo Baño Clásico  Mezclador Monomando para Lavabo  Cromo  Plata](https://www.amazon.es/dp/B081HDNDNR/?tag=tolees-21) con 27.78 de descuento por 21.66 EUR (original: 29.99 EUR) en el siguiente enlace!
 
-[![Ibergrif M11050 Roma  Grifo Baño Clásico](https://m.media-amazon.com/images/I/41V7X1I9n+L._SL200_.jpg)](https://www.amazon.es/dp/B081HDNDNR/?tag=tolees-21)
+[![Ibergrif M11050 Roma  Grifo Baño Clásico](https://m.media-amazon.com/images/I/41V7X1I9n+L._SL400_.jpg)](https://www.amazon.es/dp/B081HDNDNR/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'LG CineBeam HF65LSR - Proyector TV de Ti al 26.48 % de descuento'
 date: 2020-01-19 13:20:59
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31dXIq-i72L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31dXIq-i72L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '785.8766666666667'
 
 Ahora mismo tienes [LG CineBeam HF65LSR - Proyector TV de Tiro Corto  hasta 100"  Fuente LED  1.000 lúmenes  Resolución 1920 x 1080  Color Blanco](https://www.amazon.es/dp/B07NGXNSXD/?tag=tolees-21) a 807.99 EUR (original: 1099 EUR) (26.48 %  de descuento) en el siguiente enlace!
 
-[![LG CineBeam HF65LSR - Proyector TV de Ti](https://images-eu.ssl-images-amazon.com/images/I/31dXIq-i72L._SL200_.jpg)](https://www.amazon.es/dp/B07NGXNSXD/?tag=tolees-21)
+[![LG CineBeam HF65LSR - Proyector TV de Ti](https://images-eu.ssl-images-amazon.com/images/I/31dXIq-i72L._SL400_.jpg)](https://www.amazon.es/dp/B07NGXNSXD/?tag=tolees-21)
 
 🔎:
 

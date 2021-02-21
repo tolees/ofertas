@@ -2,7 +2,7 @@
 layout: post
 title: 'Color&Geometry Alfombrilla de Cocina de  al 25.01 % de descuento'
 date: 2020-08-20 21:42:49
-image: 'https://m.media-amazon.com/images/I/41Mn2mQ+4RL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Mn2mQ+4RL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.99'
 
 Ahora mismo tienes [Color&Geometry Alfombrilla de Cocina de 2 Piezas  Alfombra Antideslizante  PVC Lavable y Resistente al Aceite  45 x 75 cm + 45 x 150 cm  Rojo óxido ](https://www.amazon.es/dp/B086SWLM97/?tag=tolees-21) a 29.99 EUR (original: 39.99 EUR) (25.01 %  de descuento) en el siguiente enlace!
 
-[![Color&Geometry Alfombrilla de Cocina de ](https://m.media-amazon.com/images/I/41Mn2mQ+4RL._SL200_.jpg)](https://www.amazon.es/dp/B086SWLM97/?tag=tolees-21)
+[![Color&Geometry Alfombrilla de Cocina de ](https://m.media-amazon.com/images/I/41Mn2mQ+4RL._SL400_.jpg)](https://www.amazon.es/dp/B086SWLM97/?tag=tolees-21)
 
 🔎:
 

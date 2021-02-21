@@ -2,7 +2,7 @@
 layout: post
 title: 'Samsung Silicone Cover  funda oficial pa al 58.90 % de descuento'
 date: 2020-08-20 15:02:44
-image: 'https://m.media-amazon.com/images/I/21JzR7kkIQL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21JzR7kkIQL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.29'
 
 Está [Samsung Silicone Cover  funda oficial para Samsung Galaxy 10e  color negro](https://www.amazon.es/dp/B07NC1TKYV/?tag=tolees-21) con 58.90 de descuento por 12.29 EUR (original: 29.9 EUR) en el siguiente enlace!
 
-[![Samsung Silicone Cover  funda oficial pa](https://m.media-amazon.com/images/I/21JzR7kkIQL._SL200_.jpg)](https://www.amazon.es/dp/B07NC1TKYV/?tag=tolees-21)
+[![Samsung Silicone Cover  funda oficial pa](https://m.media-amazon.com/images/I/21JzR7kkIQL._SL400_.jpg)](https://www.amazon.es/dp/B07NC1TKYV/?tag=tolees-21)
 
 ℹ️:
 

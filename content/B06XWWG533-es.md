@@ -2,7 +2,7 @@
 layout: post
 title: 'Activision - Figura Sim Sensei Tidepool con un 48.09 % de descuento'
 date: 2020-02-04 11:46:48
-image: 'https://m.media-amazon.com/images/I/51dIkWRJMOL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51dIkWRJMOL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.206666666666667'
 
 En este momento está [Activision - Figura Sim Sensei Tidepool](https://www.amazon.es/dp/B06XWWG533/?tag=tolees-21) a 8.82 EUR (original: 16.99 EUR) (48.09 %  de descuento) en el siguiente enlace!
 
-[![Activision - Figura Sim Sensei Tidepool](https://m.media-amazon.com/images/I/51dIkWRJMOL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B06XWWG533/?tag=tolees-21)
+[![Activision - Figura Sim Sensei Tidepool](https://m.media-amazon.com/images/I/51dIkWRJMOL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B06XWWG533/?tag=tolees-21)
 
 🔎:
 

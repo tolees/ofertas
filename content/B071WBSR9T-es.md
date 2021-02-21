@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour UA Raid TR  Zapatillas de D al 27.44 % de rebaja'
 date: 2020-05-01 15:20:33
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZnwoJmtFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZnwoJmtFL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '50.79'
 
 Tienes [Under Armour UA Raid TR  Zapatillas de Deporte para Hombre  Negro  Black/White/Pierce 005   47.5 EU](https://www.amazon.es/dp/B071WBSR9T/?tag=tolees-21) con precio final de  50.79 EUR (original: 70 EUR) (27.44 %  de rebaja) aqui!
 
-[![Under Armour UA Raid TR  Zapatillas de D](https://images-eu.ssl-images-amazon.com/images/I/41ZnwoJmtFL._SL200_.jpg)](https://www.amazon.es/dp/B071WBSR9T/?tag=tolees-21)
+[![Under Armour UA Raid TR  Zapatillas de D](https://images-eu.ssl-images-amazon.com/images/I/41ZnwoJmtFL._SL400_.jpg)](https://www.amazon.es/dp/B071WBSR9T/?tag=tolees-21)
 
 🔎:
 

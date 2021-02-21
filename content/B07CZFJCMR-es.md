@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour Performance 2.0 Polo  Hombr al 41.02 % de descuento'
 date: 2020-03-25 07:37:32
-image: 'https://m.media-amazon.com/images/I/41wk58ZRaEL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41wk58ZRaEL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.284999999999997'
 
 Ahora mismo tienes [Under Armour Performance 2.0 Polo  Hombre  Negro  Black/Pitch Gray 001   L](https://www.amazon.es/dp/B07CZFJCMR/?tag=tolees-21) a 32.44 EUR (original: 55.0 EUR) (41.02 %  de descuento) en el siguiente enlace!
 
-[![Under Armour Performance 2.0 Polo  Hombr](https://m.media-amazon.com/images/I/41wk58ZRaEL._SL200_.jpg)](https://www.amazon.es/dp/B07CZFJCMR/?tag=tolees-21)
+[![Under Armour Performance 2.0 Polo  Hombr](https://m.media-amazon.com/images/I/41wk58ZRaEL._SL400_.jpg)](https://www.amazon.es/dp/B07CZFJCMR/?tag=tolees-21)
 
 🔎:
 

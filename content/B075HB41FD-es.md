@@ -2,7 +2,7 @@
 layout: post
 title: 'Master Of Puppets Remastered 2016 al 49.31 % de descuento'
 date: 2020-10-08 18:03:49
-image: 'https://m.media-amazon.com/images/I/5124tOpT8XL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/5124tOpT8XL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.245000000000001'
 
 Está [Master Of Puppets Remastered 2016](https://www.amazon.es/dp/B075HB41FD/?tag=tolees-21) con 49.31 de descuento por 6.99 EUR (original: 13.79 EUR) en el siguiente enlace!
 
-[![Master Of Puppets Remastered 2016](https://m.media-amazon.com/images/I/5124tOpT8XL._SL200_.jpg)](https://www.amazon.es/dp/B075HB41FD/?tag=tolees-21)
+[![Master Of Puppets Remastered 2016](https://m.media-amazon.com/images/I/5124tOpT8XL._SL400_.jpg)](https://www.amazon.es/dp/B075HB41FD/?tag=tolees-21)
 
 ℹ️:
 

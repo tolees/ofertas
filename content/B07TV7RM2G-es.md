@@ -2,7 +2,7 @@
 layout: post
 title: 'Cat Footwear Quadrate  Botas Clasicas pa al 59.17 % de descuento'
 date: 2020-06-23 21:05:37
-image: 'https://m.media-amazon.com/images/I/41XWnp5TPqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41XWnp5TPqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '46.95'
 
 Ahora mismo tienes [Cat Footwear Quadrate  Botas Clasicas para Hombre  Gris  Gunmetal Grey   41 EU](https://www.amazon.es/dp/B07TV7RM2G/?tag=tolees-21) a 46.95 EUR (original: 115.0 EUR) (59.17 %  de descuento) en el siguiente enlace!
 
-[![Cat Footwear Quadrate  Botas Clasicas pa](https://m.media-amazon.com/images/I/41XWnp5TPqL._SL200_.jpg)](https://www.amazon.es/dp/B07TV7RM2G/?tag=tolees-21)
+[![Cat Footwear Quadrate  Botas Clasicas pa](https://m.media-amazon.com/images/I/41XWnp5TPqL._SL400_.jpg)](https://www.amazon.es/dp/B07TV7RM2G/?tag=tolees-21)
 
 🔎:
 

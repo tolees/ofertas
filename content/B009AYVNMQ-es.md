@@ -2,7 +2,7 @@
 layout: post
 title: 'Toshiba MQ01ABD0100 - Disco duro interno al 25.55 % de rebaja'
 date: 2020-08-18 14:16:04
-image: 'https://m.media-amazon.com/images/I/41MExZzbSRL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41MExZzbSRL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '53.254615384615384'
 
 Tienes [Toshiba MQ01ABD0100 - Disco duro interno  2 5"  1TB](https://www.amazon.es/dp/B009AYVNMQ/?tag=tolees-21) con precio final de  54.95 EUR (original: 73.81 EUR) (25.55 %  de rebaja) aqui!
 
-[![Toshiba MQ01ABD0100 - Disco duro interno](https://m.media-amazon.com/images/I/41MExZzbSRL._SL200_.jpg)](https://www.amazon.es/dp/B009AYVNMQ/?tag=tolees-21)
+[![Toshiba MQ01ABD0100 - Disco duro interno](https://m.media-amazon.com/images/I/41MExZzbSRL._SL400_.jpg)](https://www.amazon.es/dp/B009AYVNMQ/?tag=tolees-21)
 
 🔎:
 

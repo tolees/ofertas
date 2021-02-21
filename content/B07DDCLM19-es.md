@@ -2,7 +2,7 @@
 layout: post
 title: 'BlueXP 100 Unidades Botón de Mariposa Pi al 47.09 % de rebaja'
 date: 2020-04-03 13:19:31
-image: 'https://m.media-amazon.com/images/I/613b17rGveL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/613b17rGveL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.99'
 
 Tienes [BlueXP 100 Unidades Botón de Mariposa Pintado de Madera Colores Variados Hebilla de 2 Agujeros para Decoración de Manualidades](https://www.amazon.es/dp/B07DDCLM19/?tag=tolees-21) con precio final de  8.99 EUR (original: 16.99 EUR) (47.09 %  de rebaja) aqui!
 
-[![BlueXP 100 Unidades Botón de Mariposa Pi](https://m.media-amazon.com/images/I/613b17rGveL._SL200_.jpg)](https://www.amazon.es/dp/B07DDCLM19/?tag=tolees-21)
+[![BlueXP 100 Unidades Botón de Mariposa Pi](https://m.media-amazon.com/images/I/613b17rGveL._SL400_.jpg)](https://www.amazon.es/dp/B07DDCLM19/?tag=tolees-21)
 
 🔎:
 

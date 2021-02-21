@@ -2,7 +2,7 @@
 layout: post
 title: 'AUSONIA - 72007 ABRELATAS PROFESIONAL DE con un 33.09 % de descuento'
 date: 2020-03-04 13:16:44
-image: 'https://m.media-amazon.com/images/I/31bgKC3y8BL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31bgKC3y8BL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '93.0'
 
 En este momento está [AUSONIA - 72007 ABRELATAS PROFESIONAL DE MESA](https://www.amazon.es/dp/B00KW9LF8U/?tag=tolees-21) a 93.0 EUR (original: 139.0 EUR) (33.09 %  de descuento) en el siguiente enlace!
 
-[![AUSONIA - 72007 ABRELATAS PROFESIONAL DE](https://m.media-amazon.com/images/I/31bgKC3y8BL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B00KW9LF8U/?tag=tolees-21)
+[![AUSONIA - 72007 ABRELATAS PROFESIONAL DE](https://m.media-amazon.com/images/I/31bgKC3y8BL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B00KW9LF8U/?tag=tolees-21)
 
 🔎:
 

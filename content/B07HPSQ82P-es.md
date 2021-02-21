@@ -2,7 +2,7 @@
 layout: post
 title: 'find. Kitten Heel Sling Back Mary Jane   al 28.08 % de descuento'
 date: 2020-08-07 01:02:51
-image: 'https://m.media-amazon.com/images/I/21mzu754uJL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21mzu754uJL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.53'
 
 Ahora mismo tienes [find. Kitten Heel Sling Back Mary Jane  Negro Black  39 EU](https://www.amazon.es/dp/B07HPSQ82P/?tag=tolees-21) a 8.53 EUR (original: 11.86 EUR) (28.08 %  de descuento) en el siguiente enlace!
 
-[![find. Kitten Heel Sling Back Mary Jane  ](https://m.media-amazon.com/images/I/21mzu754uJL._SL200_.jpg)](https://www.amazon.es/dp/B07HPSQ82P/?tag=tolees-21)
+[![find. Kitten Heel Sling Back Mary Jane  ](https://m.media-amazon.com/images/I/21mzu754uJL._SL400_.jpg)](https://www.amazon.es/dp/B07HPSQ82P/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Ingersoll Men s The Grafton Quartz Watch al 71.32 % de descuento'
 date: 2020-02-02 09:40:59
-image: 'https://m.media-amazon.com/images/I/51HXWq1ZaSL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51HXWq1ZaSL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '103.24000000000001'
 
 Está [Ingersoll Men s The Grafton Quartz Watch with Grey Dial and Black Leather Strap I00601](https://www.amazon.es/dp/B01JG1JYMS/?tag=tolees-21) con 71.32 de descuento por 103.23 EUR (original: 360.0 EUR) en el siguiente enlace!
 
-[![Ingersoll Men s The Grafton Quartz Watch](https://m.media-amazon.com/images/I/51HXWq1ZaSL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01JG1JYMS/?tag=tolees-21)
+[![Ingersoll Men s The Grafton Quartz Watch](https://m.media-amazon.com/images/I/51HXWq1ZaSL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01JG1JYMS/?tag=tolees-21)
 
 ℹ️:
 

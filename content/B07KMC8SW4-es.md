@@ -2,7 +2,7 @@
 layout: post
 title: 'Merrell Vapor Glove 4  Zapatillas Deport al 42.38 % de rebaja'
 date: 2020-04-17 18:02:03
-image: 'https://m.media-amazon.com/images/I/31fEMx-X9dL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31fEMx-X9dL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '51.925'
 
 Tienes [Merrell Vapor Glove 4  Zapatillas Deportivas para Interior para Hombre  Gris  Granite   47 EU](https://www.amazon.es/dp/B07KMC8SW4/?tag=tolees-21) con precio final de  57.62 EUR (original: 100.0 EUR) (42.38 %  de rebaja) aqui!
 
-[![Merrell Vapor Glove 4  Zapatillas Deport](https://m.media-amazon.com/images/I/31fEMx-X9dL._SL200_.jpg)](https://www.amazon.es/dp/B07KMC8SW4/?tag=tolees-21)
+[![Merrell Vapor Glove 4  Zapatillas Deport](https://m.media-amazon.com/images/I/31fEMx-X9dL._SL400_.jpg)](https://www.amazon.es/dp/B07KMC8SW4/?tag=tolees-21)
 
 🔎:
 

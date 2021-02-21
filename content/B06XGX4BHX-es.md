@@ -2,7 +2,7 @@
 layout: post
 title: 'Funko Pop! - Vivec Figura de Vinilo  ser al 33.62 % de rebaja'
 date: 2020-10-06 06:02:08
-image: 'https://m.media-amazon.com/images/I/41hV0uLqmgL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41hV0uLqmgL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.31'
 
 Tienes [Funko Pop! - Vivec Figura de Vinilo  seria The Elder Scrolls Online  ESO  Morrowind  14332 ](https://www.amazon.es/dp/B06XGX4BHX/?tag=tolees-21) con precio final de  9.95 EUR (original: 14.99 EUR) (33.62 %  de rebaja) aqui!
 
-[![Funko Pop! - Vivec Figura de Vinilo  ser](https://m.media-amazon.com/images/I/41hV0uLqmgL._SL200_.jpg)](https://www.amazon.es/dp/B06XGX4BHX/?tag=tolees-21)
+[![Funko Pop! - Vivec Figura de Vinilo  ser](https://m.media-amazon.com/images/I/41hV0uLqmgL._SL400_.jpg)](https://www.amazon.es/dp/B06XGX4BHX/?tag=tolees-21)
 
 🔎:
 

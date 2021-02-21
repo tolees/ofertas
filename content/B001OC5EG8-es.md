@@ -2,7 +2,7 @@
 layout: post
 title: 'Ecco Helsinki  Mocasines para Hombre  Ne con un 32.35 % de descuento'
 date: 2020-04-28 20:06:44
-image: 'https://m.media-amazon.com/images/I/4169SXp52ML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/4169SXp52ML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '87.95'
 
 En este momento está [Ecco Helsinki  Mocasines para Hombre  Negro  BLACK101   39 EU](https://www.amazon.es/dp/B001OC5EG8/?tag=tolees-21) a 87.95 EUR (original: 130.0 EUR) (32.35 %  de descuento) en el siguiente enlace!
 
-[![Ecco Helsinki  Mocasines para Hombre  Ne](https://m.media-amazon.com/images/I/4169SXp52ML._SL200_.jpg)](https://www.amazon.es/dp/B001OC5EG8/?tag=tolees-21)
+[![Ecco Helsinki  Mocasines para Hombre  Ne](https://m.media-amazon.com/images/I/4169SXp52ML._SL400_.jpg)](https://www.amazon.es/dp/B001OC5EG8/?tag=tolees-21)
 
 🔎:
 

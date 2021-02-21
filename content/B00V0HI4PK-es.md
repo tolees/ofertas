@@ -2,7 +2,7 @@
 layout: post
 title: 'Cargador rápido modular Samsung – 2 ampe al 26.62 % de rebaja'
 date: 2020-06-23 12:22:30
-image: 'https://m.media-amazon.com/images/I/41bo85lkNtL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41bo85lkNtL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.99'
 
 Tienes [Cargador rápido modular Samsung – 2 amperios con cable de datos micro USB/cable de carga para modelos Samsung Modelos con puerto de carga micro USB](https://www.amazon.es/dp/B00V0HI4PK/?tag=tolees-21) con precio final de  11.0 EUR (original: 14.99 EUR) (26.62 %  de rebaja) aqui!
 
-[![Cargador rápido modular Samsung – 2 ampe](https://m.media-amazon.com/images/I/41bo85lkNtL._SL200_.jpg)](https://www.amazon.es/dp/B00V0HI4PK/?tag=tolees-21)
+[![Cargador rápido modular Samsung – 2 ampe](https://m.media-amazon.com/images/I/41bo85lkNtL._SL400_.jpg)](https://www.amazon.es/dp/B00V0HI4PK/?tag=tolees-21)
 
 🔎:
 

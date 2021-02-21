@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 44.21 % en Batman V Superman - Dawn Of Justice  Blu'
 date: 2020-05-01 15:03:26
-image: 'https://m.media-amazon.com/images/I/518UTC22GjL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/518UTC22GjL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.995'
 
 Tienes [Batman V Superman - Dawn Of Justice  Blu-Ray 4K Ultra HD+Blu-Ray+Copia Digitale  [Italia] [Blu-ray]](https://www.amazon.es/dp/B01EYSS25S/?tag=tolees-21) con un 44.21 % de descuento con precio de oferta de 8.87 EUR (original: 15.9 EUR) en el siguiente enlace!
 
-[![Batman V Superman - Dawn Of Justice  Blu](https://m.media-amazon.com/images/I/518UTC22GjL._SL200_.jpg)](https://www.amazon.es/dp/B01EYSS25S/?tag=tolees-21)
+[![Batman V Superman - Dawn Of Justice  Blu](https://m.media-amazon.com/images/I/518UTC22GjL._SL400_.jpg)](https://www.amazon.es/dp/B01EYSS25S/?tag=tolees-21)
 
 ℹ️:
 

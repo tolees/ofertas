@@ -2,7 +2,7 @@
 layout: post
 title: 'Bering Classic - Reloj analógico de caba al 47.74 % de descuento'
 date: 2020-03-01 21:28:39
-image: 'https://m.media-amazon.com/images/I/41evihWwnWL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41evihWwnWL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '110.03666666666668'
 
 Está [Bering Classic - Reloj analógico de caballero de cuarzo con correa de acero inoxidable negra - sumergible a 50 metros](https://www.amazon.es/dp/B004GEF6LO/?tag=tolees-21) con 47.74 de descuento por 104.0 EUR (original: 199.0 EUR) en el siguiente enlace!
 
-[![Bering Classic - Reloj analógico de caba](https://m.media-amazon.com/images/I/41evihWwnWL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B004GEF6LO/?tag=tolees-21)
+[![Bering Classic - Reloj analógico de caba](https://m.media-amazon.com/images/I/41evihWwnWL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B004GEF6LO/?tag=tolees-21)
 
 ℹ️:
 

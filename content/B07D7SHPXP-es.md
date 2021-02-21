@@ -2,7 +2,7 @@
 layout: post
 title: 'Caja para Relojes de Madera Estuche para al 25.90 % de descuento'
 date: 2020-01-25 16:07:16
-image: 'https://m.media-amazon.com/images/I/51hUsB+BrcL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51hUsB+BrcL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.29'
 
 Ahora mismo tienes [Caja para Relojes de Madera Estuche para Relojes y joyeros  6 ](https://www.amazon.es/dp/B07D7SHPXP/?tag=tolees-21) a 12.59 EUR (original: 16.99 EUR) (25.90 %  de descuento) en el siguiente enlace!
 
-[![Caja para Relojes de Madera Estuche para](https://m.media-amazon.com/images/I/51hUsB+BrcL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07D7SHPXP/?tag=tolees-21)
+[![Caja para Relojes de Madera Estuche para](https://m.media-amazon.com/images/I/51hUsB+BrcL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07D7SHPXP/?tag=tolees-21)
 
 🔎:
 

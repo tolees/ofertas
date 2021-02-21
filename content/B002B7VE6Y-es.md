@@ -2,7 +2,7 @@
 layout: post
 title: 'Plantronics - Aps-11 - accesorio para au al 52.73 % de descuento'
 date: 2020-03-01 13:29:10
-image: 'https://m.media-amazon.com/images/I/41sTBjH70wL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41sTBjH70wL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.49'
 
 Está [Plantronics - Aps-11 - accesorio para auriculares](https://www.amazon.es/dp/B002B7VE6Y/?tag=tolees-21) con 52.73 de descuento por 17.49 EUR (original: 37.0 EUR) en el siguiente enlace!
 
-[![Plantronics - Aps-11 - accesorio para au](https://m.media-amazon.com/images/I/41sTBjH70wL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B002B7VE6Y/?tag=tolees-21)
+[![Plantronics - Aps-11 - accesorio para au](https://m.media-amazon.com/images/I/41sTBjH70wL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B002B7VE6Y/?tag=tolees-21)
 
 ℹ️:
 

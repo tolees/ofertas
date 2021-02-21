@@ -2,7 +2,7 @@
 layout: post
 title: 'Columbia IVO Trail Breeze  Zapatillas De al 64.22 % de descuento'
 date: 2020-07-12 08:48:34
-image: 'https://m.media-amazon.com/images/I/41Vp5kLcf4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Vp5kLcf4L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '35.78'
 
 Está [Columbia IVO Trail Breeze  Zapatillas Deportivas para Mujer  Gris  Earl Grey  Juicy 025   37.5 EU](https://www.amazon.es/dp/B07RDM94K6/?tag=tolees-21) con 64.22 de descuento por 35.78 EUR (original: 99.99 EUR) en el siguiente enlace!
 
-[![Columbia IVO Trail Breeze  Zapatillas De](https://m.media-amazon.com/images/I/41Vp5kLcf4L._SL200_.jpg)](https://www.amazon.es/dp/B07RDM94K6/?tag=tolees-21)
+[![Columbia IVO Trail Breeze  Zapatillas De](https://m.media-amazon.com/images/I/41Vp5kLcf4L._SL400_.jpg)](https://www.amazon.es/dp/B07RDM94K6/?tag=tolees-21)
 
 ℹ️:
 

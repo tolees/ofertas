@@ -2,7 +2,7 @@
 layout: post
 title: 'Filtros reemplazables unisex de 5 capas  al 39.74 % de descuento'
 date: 2020-05-16 16:21:27
-image: 'https://m.media-amazon.com/images/I/41RpNI0ndSL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41RpNI0ndSL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.59'
 
 Ahora mismo tienes [Filtros reemplazables unisex de 5 capas  antipolvo y niebla  filtro de carbón activado  almohadillas de algodón para exteriores](https://www.amazon.es/dp/B0872TGHHV/?tag=tolees-21) a 8.43 EUR (original: 13.99 EUR) (39.74 %  de descuento) en el siguiente enlace!
 
-[![Filtros reemplazables unisex de 5 capas ](https://m.media-amazon.com/images/I/41RpNI0ndSL._SL200_.jpg)](https://www.amazon.es/dp/B0872TGHHV/?tag=tolees-21)
+[![Filtros reemplazables unisex de 5 capas ](https://m.media-amazon.com/images/I/41RpNI0ndSL._SL400_.jpg)](https://www.amazon.es/dp/B0872TGHHV/?tag=tolees-21)
 
 🔎:
 

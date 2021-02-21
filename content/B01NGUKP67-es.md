@@ -2,7 +2,7 @@
 layout: post
 title: 'G-STAR RAW Rovic Mid Waist Skinny Pantal al 50.01 % de descuento'
 date: 2020-02-03 20:26:01
-image: 'https://m.media-amazon.com/images/I/41o2971JLBL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41o2971JLBL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '49.97'
 
 Ahora mismo tienes [G-STAR RAW Rovic Mid Waist Skinny Pantalones  Verde  Forest Night 5126-5163   27W / 34L para Mujer](https://www.amazon.es/dp/B01NGUKP67/?tag=tolees-21) a 49.97 EUR (original: 99.95 EUR) (50.01 %  de descuento) en el siguiente enlace!
 
-[![G-STAR RAW Rovic Mid Waist Skinny Pantal](https://m.media-amazon.com/images/I/41o2971JLBL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01NGUKP67/?tag=tolees-21)
+[![G-STAR RAW Rovic Mid Waist Skinny Pantal](https://m.media-amazon.com/images/I/41o2971JLBL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01NGUKP67/?tag=tolees-21)
 
 🔎:
 

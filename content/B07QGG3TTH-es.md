@@ -2,7 +2,7 @@
 layout: post
 title: 'Pablosky 064554  Botas para Bebés  Gris  con un 71.06 % de descuento'
 date: 2020-04-13 14:57:12
-image: 'https://m.media-amazon.com/images/I/41RnCSeywoL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41RnCSeywoL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.75'
 
 En este momento está [Pablosky 064554  Botas para Bebés  Gris  Gris Gris   22 EU](https://www.amazon.es/dp/B07QGG3TTH/?tag=tolees-21) a 14.75 EUR (original: 50.96 EUR) (71.06 %  de descuento) en el siguiente enlace!
 
-[![Pablosky 064554  Botas para Bebés  Gris ](https://m.media-amazon.com/images/I/41RnCSeywoL._SL200_.jpg)](https://www.amazon.es/dp/B07QGG3TTH/?tag=tolees-21)
+[![Pablosky 064554  Botas para Bebés  Gris ](https://m.media-amazon.com/images/I/41RnCSeywoL._SL400_.jpg)](https://www.amazon.es/dp/B07QGG3TTH/?tag=tolees-21)
 
 🔎:
 

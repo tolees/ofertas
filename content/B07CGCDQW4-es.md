@@ -2,7 +2,7 @@
 layout: post
 title: 'JBL Xtreme 2 - Altavoz BT portátil resis al 26.12 % de rebaja'
 date: 2020-05-12 08:05:06
-image: 'https://m.media-amazon.com/images/I/51HkpZCCFNL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51HkpZCCFNL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '183.2'
 
 Tienes [JBL Xtreme 2 - Altavoz BT portátil resistente al agua  IPX7  con manos libres  JBL Connect+  Color verde](https://www.amazon.es/dp/B07CGCDQW4/?tag=tolees-21) con precio final de  183.2 EUR (original: 247.98 EUR) (26.12 %  de rebaja) aqui!
 
-[![JBL Xtreme 2 - Altavoz BT portátil resis](https://m.media-amazon.com/images/I/51HkpZCCFNL._SL200_.jpg)](https://www.amazon.es/dp/B07CGCDQW4/?tag=tolees-21)
+[![JBL Xtreme 2 - Altavoz BT portátil resis](https://m.media-amazon.com/images/I/51HkpZCCFNL._SL400_.jpg)](https://www.amazon.es/dp/B07CGCDQW4/?tag=tolees-21)
 
 🔎:
 

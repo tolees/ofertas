@@ -2,7 +2,7 @@
 layout: post
 title: 'Kickers Tyl  Botas Slouch para Mujer  Ma al 74.04 % de rebaja'
 date: 2020-02-19 09:38:12
-image: 'https://m.media-amazon.com/images/I/31SnfiaJNHL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31SnfiaJNHL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '27.276666666666664'
 
 Tienes [Kickers Tyl  Botas Slouch para Mujer  Marrón  Camel 114   36 EU](https://www.amazon.es/dp/B07MS9NRLN/?tag=tolees-21) con precio final de  25.7 EUR (original: 99.0 EUR) (74.04 %  de rebaja) aqui!
 
-[![Kickers Tyl  Botas Slouch para Mujer  Ma](https://m.media-amazon.com/images/I/31SnfiaJNHL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07MS9NRLN/?tag=tolees-21)
+[![Kickers Tyl  Botas Slouch para Mujer  Ma](https://m.media-amazon.com/images/I/31SnfiaJNHL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07MS9NRLN/?tag=tolees-21)
 
 🔎:
 

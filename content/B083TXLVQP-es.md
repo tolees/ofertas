@@ -2,7 +2,7 @@
 layout: post
 title: 'memumi Delgado para Samsung Galaxy S20 6 con un 46.28 % de descuento'
 date: 2020-06-15 11:53:40
-image: 'https://m.media-amazon.com/images/I/41u7fJL+zxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41u7fJL+zxL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.77'
 
 En este momento está [memumi Delgado para Samsung Galaxy S20 6.2" Funda Mate Protectora Carcasa para Samsung Galaxy S20 Fundas Translúcido [[0.3mm Súper Ligero y Delgado] con Anti-arañazos  S20 Blanco Mate ](https://www.amazon.es/dp/B083TXLVQP/?tag=tolees-21) a 12.77 EUR (original: 23.77 EUR) (46.28 %  de descuento) en el siguiente enlace!
 
-[![memumi Delgado para Samsung Galaxy S20 6](https://m.media-amazon.com/images/I/41u7fJL+zxL._SL200_.jpg)](https://www.amazon.es/dp/B083TXLVQP/?tag=tolees-21)
+[![memumi Delgado para Samsung Galaxy S20 6](https://m.media-amazon.com/images/I/41u7fJL+zxL._SL400_.jpg)](https://www.amazon.es/dp/B083TXLVQP/?tag=tolees-21)
 
 🔎:
 

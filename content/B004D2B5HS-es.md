@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 35.71 % en Eastpak Talky Riñonera  23 cm  2 L  Gris'
 date: 2020-02-23 01:46:18
-image: 'https://m.media-amazon.com/images/I/41G0585imOL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41G0585imOL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.0'
 
 Tienes [Eastpak Talky Riñonera  23 cm  2 L  Gris  Sunday Grey ](https://www.amazon.es/dp/B004D2B5HS/?tag=tolees-21) con un 35.71 % de descuento con precio de oferta de 18.0 EUR (original: 28.0 EUR) en el siguiente enlace!
 
-[![Eastpak Talky Riñonera  23 cm  2 L  Gris](https://m.media-amazon.com/images/I/41G0585imOL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B004D2B5HS/?tag=tolees-21)
+[![Eastpak Talky Riñonera  23 cm  2 L  Gris](https://m.media-amazon.com/images/I/41G0585imOL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B004D2B5HS/?tag=tolees-21)
 
 ℹ️:
 

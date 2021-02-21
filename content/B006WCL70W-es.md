@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 25.06 % en Grohe Eurocube  - Parte exterior llave d'
 date: 2020-04-02 09:21:39
-image: 'https://m.media-amazon.com/images/I/41uYjd1yOQL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41uYjd1yOQL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '43.75'
 
 Tienes [Grohe Eurocube  - Parte exterior llave de paso  Color cromo  Ref. 19910000 ](https://www.amazon.es/dp/B006WCL70W/?tag=tolees-21) con un 25.06 % de descuento con precio de oferta de 43.75 EUR (original: 58.38 EUR) en el siguiente enlace!
 
-[![Grohe Eurocube  - Parte exterior llave d](https://m.media-amazon.com/images/I/41uYjd1yOQL._SL200_.jpg)](https://www.amazon.es/dp/B006WCL70W/?tag=tolees-21)
+[![Grohe Eurocube  - Parte exterior llave d](https://m.media-amazon.com/images/I/41uYjd1yOQL._SL400_.jpg)](https://www.amazon.es/dp/B006WCL70W/?tag=tolees-21)
 
 ℹ️:
 

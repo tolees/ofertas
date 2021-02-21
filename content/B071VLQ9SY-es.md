@@ -2,7 +2,7 @@
 layout: post
 title: 'Bourjois Velvet Barra de Labios Líquida  al 51.71 % de rebaja'
 date: 2020-01-26 17:01:55
-image: 'https://m.media-amazon.com/images/I/41DwRe3QD5L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41DwRe3QD5L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.65'
 
 Tienes [Bourjois Velvet Barra de Labios Líquida Tono 21 Saperliprunette ! - 28 gr.](https://www.amazon.es/dp/B071VLQ9SY/?tag=tolees-21) con precio final de  4.65 EUR (original: 9.63 EUR) (51.71 %  de rebaja) aqui!
 
-[![Bourjois Velvet Barra de Labios Líquida ](https://m.media-amazon.com/images/I/41DwRe3QD5L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B071VLQ9SY/?tag=tolees-21)
+[![Bourjois Velvet Barra de Labios Líquida ](https://m.media-amazon.com/images/I/41DwRe3QD5L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B071VLQ9SY/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'K&N KN-113 Filtro de aceite Oil Filter P al 38.85 % de descuento'
 date: 2020-05-30 21:23:36
-image: 'https://m.media-amazon.com/images/I/41UWvfe9+tL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41UWvfe9+tL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.43'
 
 Ahora mismo tienes [K&N KN-113 Filtro de aceite Oil Filter Powersport Cartridge Moto](https://www.amazon.es/dp/B000E2ARGG/?tag=tolees-21) a 5.43 EUR (original: 8.88 EUR) (38.85 %  de descuento) en el siguiente enlace!
 
-[![K&N KN-113 Filtro de aceite Oil Filter P](https://m.media-amazon.com/images/I/41UWvfe9+tL._SL200_.jpg)](https://www.amazon.es/dp/B000E2ARGG/?tag=tolees-21)
+[![K&N KN-113 Filtro de aceite Oil Filter P](https://m.media-amazon.com/images/I/41UWvfe9+tL._SL400_.jpg)](https://www.amazon.es/dp/B000E2ARGG/?tag=tolees-21)
 
 🔎:
 

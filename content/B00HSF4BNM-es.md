@@ -2,7 +2,7 @@
 layout: post
 title: 'KUHN RIKON Molinillo con Palanca Rojo  C al 34.64 % de rebaja'
 date: 2020-03-17 08:23:44
-image: 'https://m.media-amazon.com/images/I/31-qOsmGEvL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31-qOsmGEvL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.17'
 
 Tienes [KUHN RIKON Molinillo con Palanca Rojo  Centimeters](https://www.amazon.es/dp/B00HSF4BNM/?tag=tolees-21) con precio final de  13.17 EUR (original: 20.15 EUR) (34.64 %  de rebaja) aqui!
 
-[![KUHN RIKON Molinillo con Palanca Rojo  C](https://m.media-amazon.com/images/I/31-qOsmGEvL._SL200_.jpg)](https://www.amazon.es/dp/B00HSF4BNM/?tag=tolees-21)
+[![KUHN RIKON Molinillo con Palanca Rojo  C](https://m.media-amazon.com/images/I/31-qOsmGEvL._SL400_.jpg)](https://www.amazon.es/dp/B00HSF4BNM/?tag=tolees-21)
 
 🔎:
 

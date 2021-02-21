@@ -2,7 +2,7 @@
 layout: post
 title: 'ASUS ROG Strix G731GU-EV038T  Portátil G con un 25.00 % de descuento'
 date: 2020-02-06 12:18:47
-image: 'https://m.media-amazon.com/images/I/41rohrfqlrL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41rohrfqlrL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1239.0425'
 
 En este momento está [ASUS ROG Strix G731GU-EV038T  Portátil Gaming de 17.3" FullHD Intel Core i7-9750H  16GB RAM  256 SSD + 1TB HDD  GTX 1660 6GB  Windows 10  Metal Negro - Teclado QWERTY Español](https://www.amazon.es/dp/B07S43WLCY/?tag=tolees-21) a 1199.99 EUR (original: 1599.99 EUR) (25.00 %  de descuento) en el siguiente enlace!
 
-[![ASUS ROG Strix G731GU-EV038T  Portátil G](https://m.media-amazon.com/images/I/41rohrfqlrL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07S43WLCY/?tag=tolees-21)
+[![ASUS ROG Strix G731GU-EV038T  Portátil G](https://m.media-amazon.com/images/I/41rohrfqlrL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07S43WLCY/?tag=tolees-21)
 
 🔎:
 

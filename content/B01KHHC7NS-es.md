@@ -2,7 +2,7 @@
 layout: post
 title: 'Yamaha MusicCast WX-010 - Altavoz Amplif al 56.41 % de descuento'
 date: 2020-03-24 06:09:55
-image: 'https://m.media-amazon.com/images/I/415NkrLHdKL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/415NkrLHdKL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '95.14166666666667'
 
 Ahora mismo tienes [Yamaha MusicCast WX-010 - Altavoz Amplificado en Red  Inalámbrico  WiFi  Bluetooth  Color Blanco](https://www.amazon.es/dp/B01KHHC7NS/?tag=tolees-21) a 73.66 EUR (original: 169.0 EUR) (56.41 %  de descuento) en el siguiente enlace!
 
-[![Yamaha MusicCast WX-010 - Altavoz Amplif](https://m.media-amazon.com/images/I/415NkrLHdKL._SL200_.jpg)](https://www.amazon.es/dp/B01KHHC7NS/?tag=tolees-21)
+[![Yamaha MusicCast WX-010 - Altavoz Amplif](https://m.media-amazon.com/images/I/415NkrLHdKL._SL400_.jpg)](https://www.amazon.es/dp/B01KHHC7NS/?tag=tolees-21)
 
 🔎:
 

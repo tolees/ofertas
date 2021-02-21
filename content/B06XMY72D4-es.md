@@ -2,7 +2,7 @@
 layout: post
 title: 'BSN  Suplemento Dietético en Polvo "Synt al 41.00 % de rebaja'
 date: 2020-08-26 16:54:43
-image: 'https://m.media-amazon.com/images/I/51pSzejCg8L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51pSzejCg8L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '40.07'
 
 Tienes [BSN  Suplemento Dietético en Polvo "Syntha 6"   Sabor de Fresa - 2.26 kg](https://www.amazon.es/dp/B06XMY72D4/?tag=tolees-21) con precio final de  40.07 EUR (original: 67.92 EUR) (41.00 %  de rebaja) aqui!
 
-[![BSN  Suplemento Dietético en Polvo "Synt](https://m.media-amazon.com/images/I/51pSzejCg8L._SL200_.jpg)](https://www.amazon.es/dp/B06XMY72D4/?tag=tolees-21)
+[![BSN  Suplemento Dietético en Polvo "Synt](https://m.media-amazon.com/images/I/51pSzejCg8L._SL400_.jpg)](https://www.amazon.es/dp/B06XMY72D4/?tag=tolees-21)
 
 🔎:
 

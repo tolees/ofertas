@@ -2,7 +2,7 @@
 layout: post
 title: 'Iberitos - 216 Monodosis de Humus Crema  al 62.65 % de descuento'
 date: 2020-08-22 18:51:16
-image: 'https://m.media-amazon.com/images/I/51SOPE+i5bL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51SOPE+i5bL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.52'
 
 Ahora mismo tienes [Iberitos - 216 Monodosis de Humus Crema de Garbanzos - 22 Gramos](https://www.amazon.es/dp/B074XKH12D/?tag=tolees-21) a 14.52 EUR (original: 38.88 EUR) (62.65 %  de descuento) en el siguiente enlace!
 
-[![Iberitos - 216 Monodosis de Humus Crema ](https://m.media-amazon.com/images/I/51SOPE+i5bL._SL200_.jpg)](https://www.amazon.es/dp/B074XKH12D/?tag=tolees-21)
+[![Iberitos - 216 Monodosis de Humus Crema ](https://m.media-amazon.com/images/I/51SOPE+i5bL._SL400_.jpg)](https://www.amazon.es/dp/B074XKH12D/?tag=tolees-21)
 
 🔎:
 

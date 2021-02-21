@@ -2,7 +2,7 @@
 layout: post
 title: 'Rimmel London Exaggerate Automatic Lipli al 62.64 % de rebaja'
 date: 2020-03-23 16:20:10
-image: 'https://m.media-amazon.com/images/I/31N6jC6p8IL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31N6jC6p8IL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.26'
 
 Tienes [Rimmel London Exaggerate Automatic Lipliner. Perfilador de Labios Tono 018 Addiction - 3 9 gr](https://www.amazon.es/dp/B001V9LAWG/?tag=tolees-21) con precio final de  2.26 EUR (original: 6.05 EUR) (62.64 %  de rebaja) aqui!
 
-[![Rimmel London Exaggerate Automatic Lipli](https://m.media-amazon.com/images/I/31N6jC6p8IL._SL200_.jpg)](https://www.amazon.es/dp/B001V9LAWG/?tag=tolees-21)
+[![Rimmel London Exaggerate Automatic Lipli](https://m.media-amazon.com/images/I/31N6jC6p8IL._SL400_.jpg)](https://www.amazon.es/dp/B001V9LAWG/?tag=tolees-21)
 
 🔎:
 

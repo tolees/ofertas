@@ -2,7 +2,7 @@
 layout: post
 title: 'Moussel Classique Gel Moussant 900 Ml -  al 40.84 % de descuento'
 date: 2020-01-12 06:56:32
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41Ej1wAqGOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Ej1wAqGOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.1'
 
 Ahora mismo tienes [Moussel Classique Gel Moussant 900 Ml - 900 ml](https://www.amazon.es/dp/B076QJ2JVW/?tag=tolees-21) a 4.1 EUR (original: 6.93 EUR) (40.84 %  de descuento) en el siguiente enlace!
 
-[![Moussel Classique Gel Moussant 900 Ml - ](https://images-eu.ssl-images-amazon.com/images/I/41Ej1wAqGOL._SL200_.jpg)](https://www.amazon.es/dp/B076QJ2JVW/?tag=tolees-21)
+[![Moussel Classique Gel Moussant 900 Ml - ](https://images-eu.ssl-images-amazon.com/images/I/41Ej1wAqGOL._SL400_.jpg)](https://www.amazon.es/dp/B076QJ2JVW/?tag=tolees-21)
 
 🔎:
 

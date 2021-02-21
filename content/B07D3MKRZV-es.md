@@ -2,7 +2,7 @@
 layout: post
 title: 'Science4you - La Ciencia del Slime - Bri con un 42.94 % de descuento'
 date: 2020-05-28 11:45:41
-image: 'https://m.media-amazon.com/images/I/51ChxDDJ+PL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51ChxDDJ+PL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.53625'
 
 En este momento está [Science4you - La Ciencia del Slime - Brilla en la Oscuridad  609518 ](https://www.amazon.es/dp/B07D3MKRZV/?tag=tolees-21) a 5.7 EUR (original: 9.99 EUR) (42.94 %  de descuento) en el siguiente enlace!
 
-[![Science4you - La Ciencia del Slime - Bri](https://m.media-amazon.com/images/I/51ChxDDJ+PL._SL200_.jpg)](https://www.amazon.es/dp/B07D3MKRZV/?tag=tolees-21)
+[![Science4you - La Ciencia del Slime - Bri](https://m.media-amazon.com/images/I/51ChxDDJ+PL._SL400_.jpg)](https://www.amazon.es/dp/B07D3MKRZV/?tag=tolees-21)
 
 🔎:
 

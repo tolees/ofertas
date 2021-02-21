@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas Galaxy 4  Zapatillas de Entrenami al 50.05 % de rebaja'
 date: 2020-08-08 12:21:52
-image: 'https://m.media-amazon.com/images/I/31zChAfLIIL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31zChAfLIIL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '28.296666666666667'
 
 Tienes [adidas Galaxy 4  Zapatillas de Entrenamiento para Hombre  Negro  Core Black/Core Black/Footwear White 0   42 2/3 EU](https://www.amazon.es/dp/B07M5B24CX/?tag=tolees-21) con precio final de  24.95 EUR (original: 49.95 EUR) (50.05 %  de rebaja) aqui!
 
-[![adidas Galaxy 4  Zapatillas de Entrenami](https://m.media-amazon.com/images/I/31zChAfLIIL._SL200_.jpg)](https://www.amazon.es/dp/B07M5B24CX/?tag=tolees-21)
+[![adidas Galaxy 4  Zapatillas de Entrenami](https://m.media-amazon.com/images/I/31zChAfLIIL._SL400_.jpg)](https://www.amazon.es/dp/B07M5B24CX/?tag=tolees-21)
 
 🔎:
 

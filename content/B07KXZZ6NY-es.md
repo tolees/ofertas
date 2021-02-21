@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Colgate Triple Acción Extra Fresh  Pasta al 63.35 % de descuento'
-date: 2021-02-11 04:44:50
-image: 'https://m.media-amazon.com/images/I/41PiyYeRjbL._SL200_.jpg'
+date: 2021-02-21 22:07:04
+image: 'https://m.media-amazon.com/images/I/41PiyYeRjbL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -19,12 +19,12 @@ flag: '🇪🇸'
 brand: 'COLGATE'
 buyurl: 'https://www.amazon.es/dp/B07KXZZ6NY/?tag=tolees-21'
 descuento: '63.35'
-average: '1.50865671641789'
+average: '1.50758620689653'
 ---
 
 Está [Colgate Triple Acción Extra Fresh  Pasta de Dientes  blanqueador y frescor - 1 ud x 75 ml](https://www.amazon.es/dp/B07KXZZ6NY/?tag=tolees-21) con 63.35 de descuento por 1.4 EUR (original: 3.82 EUR) en el siguiente enlace!
 
-[![Colgate Triple Acción Extra Fresh  Pasta](https://m.media-amazon.com/images/I/41PiyYeRjbL._SL200_.jpg)](https://www.amazon.es/dp/B07KXZZ6NY/?tag=tolees-21)
+[![Colgate Triple Acción Extra Fresh  Pasta](https://m.media-amazon.com/images/I/41PiyYeRjbL._SL400_.jpg)](https://www.amazon.es/dp/B07KXZZ6NY/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'S R SUNRISE SRSB-3027 SRSB3027-Soporte c con un 58.70 % de descuento'
 date: 2020-07-25 19:17:57
-image: 'https://m.media-amazon.com/images/I/41WGqj4JieL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41WGqj4JieL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.0'
 
 En este momento está [S R SUNRISE SRSB-3027 SRSB3027-Soporte cuadrado para alcachofa de ducha  latón cromado   Color plateado](https://www.amazon.es/dp/B014MI5EN8/?tag=tolees-21) a 19.0 EUR (original: 46.0 EUR) (58.70 %  de descuento) en el siguiente enlace!
 
-[![S R SUNRISE SRSB-3027 SRSB3027-Soporte c](https://m.media-amazon.com/images/I/41WGqj4JieL._SL200_.jpg)](https://www.amazon.es/dp/B014MI5EN8/?tag=tolees-21)
+[![S R SUNRISE SRSB-3027 SRSB3027-Soporte c](https://m.media-amazon.com/images/I/41WGqj4JieL._SL400_.jpg)](https://www.amazon.es/dp/B014MI5EN8/?tag=tolees-21)
 
 🔎:
 

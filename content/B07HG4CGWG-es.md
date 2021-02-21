@@ -2,7 +2,7 @@
 layout: post
 title: 'New Balance 247v2  Zapatillas para Hombr al 54.84 % de rebaja'
 date: 2020-06-08 07:43:34
-image: 'https://m.media-amazon.com/images/I/41FS+B8ShkL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41FS+B8ShkL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '46.29'
 
 Tienes [New Balance 247v2  Zapatillas para Hombre  Negro  Black Black   36 EU](https://www.amazon.es/dp/B07HG4CGWG/?tag=tolees-21) con precio final de  40.64 EUR (original: 90.0 EUR) (54.84 %  de rebaja) aqui!
 
-[![New Balance 247v2  Zapatillas para Hombr](https://m.media-amazon.com/images/I/41FS+B8ShkL._SL200_.jpg)](https://www.amazon.es/dp/B07HG4CGWG/?tag=tolees-21)
+[![New Balance 247v2  Zapatillas para Hombr](https://m.media-amazon.com/images/I/41FS+B8ShkL._SL400_.jpg)](https://www.amazon.es/dp/B07HG4CGWG/?tag=tolees-21)
 
 🔎:
 

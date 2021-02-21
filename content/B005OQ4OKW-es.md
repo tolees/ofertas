@@ -2,7 +2,7 @@
 layout: post
 title: 'Hudora 71655 All Stars - Canasta de Balo al 28.76 % de rebaja'
 date: 2020-04-27 09:27:23
-image: 'https://m.media-amazon.com/images/I/31GZ5NEKnQL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31GZ5NEKnQL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '49.52125'
 
 Tienes [Hudora 71655 All Stars - Canasta de Baloncesto con Soporte](https://www.amazon.es/dp/B005OQ4OKW/?tag=tolees-21) con precio final de  47.12 EUR (original: 66.14 EUR) (28.76 %  de rebaja) aqui!
 
-[![Hudora 71655 All Stars - Canasta de Balo](https://m.media-amazon.com/images/I/31GZ5NEKnQL._SL200_.jpg)](https://www.amazon.es/dp/B005OQ4OKW/?tag=tolees-21)
+[![Hudora 71655 All Stars - Canasta de Balo](https://m.media-amazon.com/images/I/31GZ5NEKnQL._SL400_.jpg)](https://www.amazon.es/dp/B005OQ4OKW/?tag=tolees-21)
 
 🔎:
 

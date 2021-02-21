@@ -2,7 +2,7 @@
 layout: post
 title: 'GOZAR Carcasa De Aluminio Duro De Metal  al 30.22 % de descuento'
 date: 2020-08-01 15:31:00
-image: 'https://m.media-amazon.com/images/I/31pwv2PDHRL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31pwv2PDHRL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.69'
 
 Ahora mismo tienes [GOZAR Carcasa De Aluminio Duro De Metal Multicolor Carcasa para 3Ds XL Ll - Rojo](https://www.amazon.es/dp/B07MYWKHL7/?tag=tolees-21) a 7.69 EUR (original: 11.02 EUR) (30.22 %  de descuento) en el siguiente enlace!
 
-[![GOZAR Carcasa De Aluminio Duro De Metal ](https://m.media-amazon.com/images/I/31pwv2PDHRL._SL200_.jpg)](https://www.amazon.es/dp/B07MYWKHL7/?tag=tolees-21)
+[![GOZAR Carcasa De Aluminio Duro De Metal ](https://m.media-amazon.com/images/I/31pwv2PDHRL._SL400_.jpg)](https://www.amazon.es/dp/B07MYWKHL7/?tag=tolees-21)
 
 🔎:
 

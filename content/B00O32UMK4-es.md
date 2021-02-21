@@ -2,7 +2,7 @@
 layout: post
 title: 'Bourjois Contour Edition Perfilador de L al 46.67 % de rebaja'
 date: 2020-02-01 03:46:13
-image: 'https://m.media-amazon.com/images/I/31SOPongeIL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31SOPongeIL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.54'
 
 Tienes [Bourjois Contour Edition Perfilador de Labios Tono 03 Alerte rose - 4 gr.](https://www.amazon.es/dp/B00O32UMK4/?tag=tolees-21) con precio final de  3.6 EUR (original: 6.75 EUR) (46.67 %  de rebaja) aqui!
 
-[![Bourjois Contour Edition Perfilador de L](https://m.media-amazon.com/images/I/31SOPongeIL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B00O32UMK4/?tag=tolees-21)
+[![Bourjois Contour Edition Perfilador de L](https://m.media-amazon.com/images/I/31SOPongeIL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B00O32UMK4/?tag=tolees-21)
 
 🔎:
 

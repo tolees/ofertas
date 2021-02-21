@@ -2,7 +2,7 @@
 layout: post
 title: 'Filomatic Filo2 Maquinilla de Afeitar -  al 35.67 % de rebaja'
 date: 2020-08-14 08:38:51
-image: 'https://m.media-amazon.com/images/I/31RfiOHs6VL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31RfiOHs6VL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.58'
 
 Tienes [Filomatic Filo2 Maquinilla de Afeitar - 30 Unidades](https://www.amazon.es/dp/B075VBNB4B/?tag=tolees-21) con precio final de  11.58 EUR (original: 18.0 EUR) (35.67 %  de rebaja) aqui!
 
-[![Filomatic Filo2 Maquinilla de Afeitar - ](https://m.media-amazon.com/images/I/31RfiOHs6VL._SL200_.jpg)](https://www.amazon.es/dp/B075VBNB4B/?tag=tolees-21)
+[![Filomatic Filo2 Maquinilla de Afeitar - ](https://m.media-amazon.com/images/I/31RfiOHs6VL._SL400_.jpg)](https://www.amazon.es/dp/B075VBNB4B/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 34.92 % en Philips Bombilla LED Vela E14  4 W equiv'
 date: 2020-06-07 10:40:02
-image: 'https://m.media-amazon.com/images/I/31Ok5Ls5bFL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Ok5Ls5bFL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.2'
 
 Tienes [Philips Bombilla LED Vela E14  4 W equivalentes a 25 W  luz blanca cálida](https://www.amazon.es/dp/B010UQIPQY/?tag=tolees-21) con un 34.92 % de descuento con precio de oferta de 5.2 EUR (original: 7.99 EUR) en el siguiente enlace!
 
-[![Philips Bombilla LED Vela E14  4 W equiv](https://m.media-amazon.com/images/I/31Ok5Ls5bFL._SL200_.jpg)](https://www.amazon.es/dp/B010UQIPQY/?tag=tolees-21)
+[![Philips Bombilla LED Vela E14  4 W equiv](https://m.media-amazon.com/images/I/31Ok5Ls5bFL._SL400_.jpg)](https://www.amazon.es/dp/B010UQIPQY/?tag=tolees-21)
 
 ℹ️:
 

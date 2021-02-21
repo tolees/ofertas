@@ -2,7 +2,7 @@
 layout: post
 title: 'SD toys - Mug Game of Thrones - Targarye al 61.39 % de descuento'
 date: 2020-07-03 06:36:03
-image: 'https://m.media-amazon.com/images/I/41a+Sx1jHiL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41a+Sx1jHiL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.0'
 
 Está [SD toys - Mug Game of Thrones - Targaryen Verre Noir Logo Rotatif - 8436546897552](https://www.amazon.es/dp/B01LQKEEOK/?tag=tolees-21) con 61.39 de descuento por 5.0 EUR (original: 12.95 EUR) en el siguiente enlace!
 
-[![SD toys - Mug Game of Thrones - Targarye](https://m.media-amazon.com/images/I/41a+Sx1jHiL._SL200_.jpg)](https://www.amazon.es/dp/B01LQKEEOK/?tag=tolees-21)
+[![SD toys - Mug Game of Thrones - Targarye](https://m.media-amazon.com/images/I/41a+Sx1jHiL._SL400_.jpg)](https://www.amazon.es/dp/B01LQKEEOK/?tag=tolees-21)
 
 ℹ️:
 

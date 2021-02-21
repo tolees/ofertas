@@ -2,7 +2,7 @@
 layout: post
 title: 'Oacvien Transmisor Bluetooth Receptor 5. con un 55.01 % de descuento'
 date: 2020-02-26 20:12:54
-image: 'https://m.media-amazon.com/images/I/41nqqpIvxtL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41nqqpIvxtL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.03347826086956'
 
 En este momento está [Oacvien Transmisor Bluetooth Receptor 5.0  2 en 1 Adaptador Bluetooth Inalámbrico Portátil  RCA & 3.5mm AUX  Baja Latencia Audio Estéreo para TV  PC  Audio  Música Inalámbrico en Coche](https://www.amazon.es/dp/B082MB7HJ8/?tag=tolees-21) a 17.99 EUR (original: 39.99 EUR) (55.01 %  de descuento) en el siguiente enlace!
 
-[![Oacvien Transmisor Bluetooth Receptor 5.](https://m.media-amazon.com/images/I/41nqqpIvxtL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B082MB7HJ8/?tag=tolees-21)
+[![Oacvien Transmisor Bluetooth Receptor 5.](https://m.media-amazon.com/images/I/41nqqpIvxtL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B082MB7HJ8/?tag=tolees-21)
 
 🔎:
 

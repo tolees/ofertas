@@ -2,7 +2,7 @@
 layout: post
 title: 'American Tourister - Bon Air - Spinner M al 42.31 % de rebaja'
 date: 2020-02-20 07:46:20
-image: 'https://m.media-amazon.com/images/I/31TYOQncPyL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31TYOQncPyL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '75.0'
 
 Tienes [American Tourister - Bon Air - Spinner Maleta 66 cm  58 L  Azul  Deep Turquoise ](https://www.amazon.es/dp/B01C04DFYQ/?tag=tolees-21) con precio final de  75.0 EUR (original: 130.0 EUR) (42.31 %  de rebaja) aqui!
 
-[![American Tourister - Bon Air - Spinner M](https://m.media-amazon.com/images/I/31TYOQncPyL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01C04DFYQ/?tag=tolees-21)
+[![American Tourister - Bon Air - Spinner M](https://m.media-amazon.com/images/I/31TYOQncPyL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01C04DFYQ/?tag=tolees-21)
 
 🔎:
 

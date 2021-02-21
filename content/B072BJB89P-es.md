@@ -2,7 +2,7 @@
 layout: post
 title: 'American Crew Espuma de Afeitar 300 ml al 40.48 % de rebaja'
 date: 2020-08-02 22:28:11
-image: 'https://m.media-amazon.com/images/I/31Qa4KgU64L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Qa4KgU64L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.312'
 
 Tienes [American Crew Espuma de Afeitar 300 ml](https://www.amazon.es/dp/B072BJB89P/?tag=tolees-21) con precio final de  6.91 EUR (original: 11.61 EUR) (40.48 %  de rebaja) aqui!
 
-[![American Crew Espuma de Afeitar 300 ml](https://m.media-amazon.com/images/I/31Qa4KgU64L._SL200_.jpg)](https://www.amazon.es/dp/B072BJB89P/?tag=tolees-21)
+[![American Crew Espuma de Afeitar 300 ml](https://m.media-amazon.com/images/I/31Qa4KgU64L._SL400_.jpg)](https://www.amazon.es/dp/B072BJB89P/?tag=tolees-21)
 
 🔎:
 

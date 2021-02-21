@@ -2,7 +2,7 @@
 layout: post
 title: 'BGS 50855 | Caja de ingletes de plástico al 39.19 % de rebaja'
 date: 2020-08-07 13:12:28
-image: 'https://m.media-amazon.com/images/I/31YoqfjVzyL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31YoqfjVzyL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.64'
 
 Tienes [BGS 50855 | Caja de ingletes de plástico | 245 x 67 x 48 mm](https://www.amazon.es/dp/B004VRBGQK/?tag=tolees-21) con precio final de  6.64 EUR (original: 10.92 EUR) (39.19 %  de rebaja) aqui!
 
-[![BGS 50855 | Caja de ingletes de plástico](https://m.media-amazon.com/images/I/31YoqfjVzyL._SL200_.jpg)](https://www.amazon.es/dp/B004VRBGQK/?tag=tolees-21)
+[![BGS 50855 | Caja de ingletes de plástico](https://m.media-amazon.com/images/I/31YoqfjVzyL._SL400_.jpg)](https://www.amazon.es/dp/B004VRBGQK/?tag=tolees-21)
 
 🔎:
 

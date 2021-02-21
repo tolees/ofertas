@@ -2,7 +2,7 @@
 layout: post
 title: 'Agatha Ruiz de la Prada Bufanda Fular Pa al 49.98 % de rebaja'
 date: 2020-06-28 21:06:39
-image: 'https://m.media-amazon.com/images/I/41PnimBMYDL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41PnimBMYDL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.48'
 
 Tienes [Agatha Ruiz de la Prada Bufanda Fular Pashmina Pareo Verde y Azul con nubes grandes](https://www.amazon.es/dp/B085RGD9VG/?tag=tolees-21) con precio final de  11.48 EUR (original: 22.95 EUR) (49.98 %  de rebaja) aqui!
 
-[![Agatha Ruiz de la Prada Bufanda Fular Pa](https://m.media-amazon.com/images/I/41PnimBMYDL._SL200_.jpg)](https://www.amazon.es/dp/B085RGD9VG/?tag=tolees-21)
+[![Agatha Ruiz de la Prada Bufanda Fular Pa](https://m.media-amazon.com/images/I/41PnimBMYDL._SL400_.jpg)](https://www.amazon.es/dp/B085RGD9VG/?tag=tolees-21)
 
 🔎:
 

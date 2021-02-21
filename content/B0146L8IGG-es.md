@@ -2,7 +2,7 @@
 layout: post
 title: 'Dolce & Gabbana The One Essence De Parfu con un 47.49 % de descuento'
 date: 2020-03-15 07:06:22
-image: 'https://m.media-amazon.com/images/I/41VRJ3HTZzL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41VRJ3HTZzL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '64.7525'
 
 En este momento está [Dolce & Gabbana The One Essence De Parfum  65ml](https://www.amazon.es/dp/B0146L8IGG/?tag=tolees-21) a 65.1 EUR (original: 123.98 EUR) (47.49 %  de descuento) en el siguiente enlace!
 
-[![Dolce & Gabbana The One Essence De Parfu](https://m.media-amazon.com/images/I/41VRJ3HTZzL._SL200_.jpg)](https://www.amazon.es/dp/B0146L8IGG/?tag=tolees-21)
+[![Dolce & Gabbana The One Essence De Parfu](https://m.media-amazon.com/images/I/41VRJ3HTZzL._SL400_.jpg)](https://www.amazon.es/dp/B0146L8IGG/?tag=tolees-21)
 
 🔎:
 

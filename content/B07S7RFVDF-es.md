@@ -2,7 +2,7 @@
 layout: post
 title: 'PUMA STEPFLEEX 2 SL VE V INF  Zapatillas al 28.26 % de descuento'
 date: 2020-09-20 15:24:30
-image: 'https://m.media-amazon.com/images/I/41O2sgeDZsL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41O2sgeDZsL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.9'
 
 Ahora mismo tienes [PUMA STEPFLEEX 2 SL VE V INF  Zapatillas Unisex niños  Azul  Peacoat White/Firecracker   20 EU](https://www.amazon.es/dp/B07S7RFVDF/?tag=tolees-21) a 17.9 EUR (original: 24.95 EUR) (28.26 %  de descuento) en el siguiente enlace!
 
-[![PUMA STEPFLEEX 2 SL VE V INF  Zapatillas](https://m.media-amazon.com/images/I/41O2sgeDZsL._SL200_.jpg)](https://www.amazon.es/dp/B07S7RFVDF/?tag=tolees-21)
+[![PUMA STEPFLEEX 2 SL VE V INF  Zapatillas](https://m.media-amazon.com/images/I/41O2sgeDZsL._SL400_.jpg)](https://www.amazon.es/dp/B07S7RFVDF/?tag=tolees-21)
 
 🔎:
 

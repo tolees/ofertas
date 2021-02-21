@@ -2,7 +2,7 @@
 layout: post
 title: 'Ellexir - Sillas de Comedor de plástico  al 54.75 % de descuento'
 date: 2020-06-07 18:14:10
-image: 'https://m.media-amazon.com/images/I/41k0K5tKJ8L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41k0K5tKJ8L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '56.99'
 
 Ahora mismo tienes [Ellexir - Sillas de Comedor de plástico con Patas de Madera  plástico  Blanco  4](https://www.amazon.es/dp/B07QRGXW2Q/?tag=tolees-21) a 56.99 EUR (original: 125.95 EUR) (54.75 %  de descuento) en el siguiente enlace!
 
-[![Ellexir - Sillas de Comedor de plástico ](https://m.media-amazon.com/images/I/41k0K5tKJ8L._SL200_.jpg)](https://www.amazon.es/dp/B07QRGXW2Q/?tag=tolees-21)
+[![Ellexir - Sillas de Comedor de plástico ](https://m.media-amazon.com/images/I/41k0K5tKJ8L._SL400_.jpg)](https://www.amazon.es/dp/B07QRGXW2Q/?tag=tolees-21)
 
 🔎:
 

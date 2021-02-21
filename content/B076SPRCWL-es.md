@@ -2,7 +2,7 @@
 layout: post
 title: 'Pendientes de color Naranja de Calabaza  al 52.02 % de descuento'
 date: 2020-05-20 07:03:50
-image: 'https://m.media-amazon.com/images/I/41S+94M6KmL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41S+94M6KmL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.99'
 
 Está [Pendientes de color Naranja de Calabaza para Su Estilo](https://www.amazon.es/dp/B076SPRCWL/?tag=tolees-21) con 52.02 de descuento por 11.99 EUR (original: 24.99 EUR) en el siguiente enlace!
 
-[![Pendientes de color Naranja de Calabaza ](https://m.media-amazon.com/images/I/41S+94M6KmL._SL200_.jpg)](https://www.amazon.es/dp/B076SPRCWL/?tag=tolees-21)
+[![Pendientes de color Naranja de Calabaza ](https://m.media-amazon.com/images/I/41S+94M6KmL._SL400_.jpg)](https://www.amazon.es/dp/B076SPRCWL/?tag=tolees-21)
 
 ℹ️:
 

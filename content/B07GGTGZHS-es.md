@@ -2,7 +2,7 @@
 layout: post
 title: 'We Happy Few al 50.23 % de descuento'
 date: 2020-08-21 17:12:20
-image: 'https://m.media-amazon.com/images/I/51ABCmd-fLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51ABCmd-fLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.744545454545454'
 
 Ahora mismo tienes [We Happy Few](https://www.amazon.es/dp/B07GGTGZHS/?tag=tolees-21) a 9.95 EUR (original: 19.99 EUR) (50.23 %  de descuento) en el siguiente enlace!
 
-[![We Happy Few](https://m.media-amazon.com/images/I/51ABCmd-fLL._SL200_.jpg)](https://www.amazon.es/dp/B07GGTGZHS/?tag=tolees-21)
+[![We Happy Few](https://m.media-amazon.com/images/I/51ABCmd-fLL._SL400_.jpg)](https://www.amazon.es/dp/B07GGTGZHS/?tag=tolees-21)
 
 🔎:
 

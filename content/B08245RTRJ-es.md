@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 65.23 % en CARRERA Sneakers Hombre Lona Blanco 44 E'
 date: 2020-05-15 00:13:16
-image: 'https://m.media-amazon.com/images/I/31lzRCOuQ4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31lzRCOuQ4L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.99'
 
 Tienes [CARRERA Sneakers Hombre Lona Blanco 44 EU](https://www.amazon.es/dp/B08245RTRJ/?tag=tolees-21) con un 65.23 % de descuento con precio de oferta de 23.99 EUR (original: 69.0 EUR) en el siguiente enlace!
 
-[![CARRERA Sneakers Hombre Lona Blanco 44 E](https://m.media-amazon.com/images/I/31lzRCOuQ4L._SL200_.jpg)](https://www.amazon.es/dp/B08245RTRJ/?tag=tolees-21)
+[![CARRERA Sneakers Hombre Lona Blanco 44 E](https://m.media-amazon.com/images/I/31lzRCOuQ4L._SL400_.jpg)](https://www.amazon.es/dp/B08245RTRJ/?tag=tolees-21)
 
 ℹ️:
 

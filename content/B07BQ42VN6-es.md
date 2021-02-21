@@ -2,7 +2,7 @@
 layout: post
 title: 'Moussel -  Gel Ducha Clasico  900 ml  al 36.09 % de descuento'
 date: 2020-06-13 14:23:04
-image: 'https://m.media-amazon.com/images/I/41H3T997YOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41H3T997YOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.7099999999999995'
 
 Está [Moussel -  Gel Ducha Clasico  900 ml ](https://www.amazon.es/dp/B07BQ42VN6/?tag=tolees-21) con 36.09 de descuento por 2.55 EUR (original: 3.99 EUR) en el siguiente enlace!
 
-[![Moussel -  Gel Ducha Clasico  900 ml ](https://m.media-amazon.com/images/I/41H3T997YOL._SL200_.jpg)](https://www.amazon.es/dp/B07BQ42VN6/?tag=tolees-21)
+[![Moussel -  Gel Ducha Clasico  900 ml ](https://m.media-amazon.com/images/I/41H3T997YOL._SL400_.jpg)](https://www.amazon.es/dp/B07BQ42VN6/?tag=tolees-21)
 
 ℹ️:
 

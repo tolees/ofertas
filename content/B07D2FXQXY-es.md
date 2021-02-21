@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s 502 Regular Taper Jeans  Azul  He al 37.04 % de descuento'
 date: 2020-07-18 13:10:12
-image: 'https://m.media-amazon.com/images/I/31BETwGItzL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31BETwGItzL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '69.26'
 
 Ahora mismo tienes [Levi s 502 Regular Taper Jeans  Azul  Headed South 0279   31W / 34L para Hombre](https://www.amazon.es/dp/B07D2FXQXY/?tag=tolees-21) a 69.26 EUR (original: 110.0 EUR) (37.04 %  de descuento) en el siguiente enlace!
 
-[![Levi s 502 Regular Taper Jeans  Azul  He](https://m.media-amazon.com/images/I/31BETwGItzL._SL200_.jpg)](https://www.amazon.es/dp/B07D2FXQXY/?tag=tolees-21)
+[![Levi s 502 Regular Taper Jeans  Azul  He](https://m.media-amazon.com/images/I/31BETwGItzL._SL400_.jpg)](https://www.amazon.es/dp/B07D2FXQXY/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Einhell GC-ET 3023 - Recortabordes eléct al 41.88 % de rebaja'
 date: 2020-02-07 15:33:55
-image: 'https://m.media-amazon.com/images/I/31CA7HG3w9L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31CA7HG3w9L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.5'
 
 Tienes [Einhell GC-ET 3023 - Recortabordes eléctrico  300W  230V  corte de hilo único  ancho de corte: 23cm   ref.3402050 ](https://www.amazon.es/dp/B00HT94CVS/?tag=tolees-21) con precio final de  14.5 EUR (original: 24.95 EUR) (41.88 %  de rebaja) aqui!
 
-[![Einhell GC-ET 3023 - Recortabordes eléct](https://m.media-amazon.com/images/I/31CA7HG3w9L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B00HT94CVS/?tag=tolees-21)
+[![Einhell GC-ET 3023 - Recortabordes eléct](https://m.media-amazon.com/images/I/31CA7HG3w9L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B00HT94CVS/?tag=tolees-21)
 
 🔎:
 

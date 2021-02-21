@@ -2,7 +2,7 @@
 layout: post
 title: 'Eristoff Vodka Pack 3 x 1000 ml - Total: al 25.20 % de descuento'
 date: 2020-03-24 00:16:46
-image: 'https://m.media-amazon.com/images/I/21lyyF71oyL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21lyyF71oyL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.596666666666668'
 
 Ahora mismo tienes [Eristoff Vodka Pack 3 x 1000 ml - Total: 3L](https://www.amazon.es/dp/B07SSDQNGL/?tag=tolees-21) a 17.93 EUR (original: 23.97 EUR) (25.20 %  de descuento) en el siguiente enlace!
 
-[![Eristoff Vodka Pack 3 x 1000 ml - Total:](https://m.media-amazon.com/images/I/21lyyF71oyL._SL200_.jpg)](https://www.amazon.es/dp/B07SSDQNGL/?tag=tolees-21)
+[![Eristoff Vodka Pack 3 x 1000 ml - Total:](https://m.media-amazon.com/images/I/21lyyF71oyL._SL400_.jpg)](https://www.amazon.es/dp/B07SSDQNGL/?tag=tolees-21)
 
 🔎:
 

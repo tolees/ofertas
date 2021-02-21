@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s Tumbled Belt Cinturón  Marrón  Me al 50.00 % de descuento'
 date: 2020-02-18 11:23:24
-image: 'https://m.media-amazon.com/images/I/41YHgQSOMDL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41YHgQSOMDL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '27.5'
 
 Ahora mismo tienes [Levi s Tumbled Belt Cinturón  Marrón  Medium Brown 27   100 para Hombre](https://www.amazon.es/dp/B07RH2TY57/?tag=tolees-21) a 27.5 EUR (original: 55.0 EUR) (50.00 %  de descuento) en el siguiente enlace!
 
-[![Levi s Tumbled Belt Cinturón  Marrón  Me](https://m.media-amazon.com/images/I/41YHgQSOMDL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07RH2TY57/?tag=tolees-21)
+[![Levi s Tumbled Belt Cinturón  Marrón  Me](https://m.media-amazon.com/images/I/41YHgQSOMDL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07RH2TY57/?tag=tolees-21)
 
 🔎:
 

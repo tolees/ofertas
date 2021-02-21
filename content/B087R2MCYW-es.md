@@ -2,7 +2,7 @@
 layout: post
 title: 'Aokey - Repelente ultrasónico de plagas  al 43.58 % de descuento'
 date: 2020-08-31 10:05:00
-image: 'https://m.media-amazon.com/images/I/519kymXsSZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/519kymXsSZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.48'
 
 Ahora mismo tienes [Aokey - Repelente ultrasónico de plagas  repelente de insectos  control de plagas ultrasónico  control de plagas electrónico  apto para varios insectos  negro](https://www.amazon.es/dp/B087R2MCYW/?tag=tolees-21) a 12.48 EUR (original: 22.12 EUR) (43.58 %  de descuento) en el siguiente enlace!
 
-[![Aokey - Repelente ultrasónico de plagas ](https://m.media-amazon.com/images/I/519kymXsSZL._SL200_.jpg)](https://www.amazon.es/dp/B087R2MCYW/?tag=tolees-21)
+[![Aokey - Repelente ultrasónico de plagas ](https://m.media-amazon.com/images/I/519kymXsSZL._SL400_.jpg)](https://www.amazon.es/dp/B087R2MCYW/?tag=tolees-21)
 
 🔎:
 

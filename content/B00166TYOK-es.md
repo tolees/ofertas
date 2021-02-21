@@ -2,7 +2,7 @@
 layout: post
 title: 'HP 824A - Tambor de imágenes Laserjet pa al 35.88 % de descuento'
 date: 2020-04-17 04:17:55
-image: 'https://m.media-amazon.com/images/I/51pCkNmkHAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51pCkNmkHAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '183.32'
 
 Está [HP 824A - Tambor de imágenes Laserjet para Laserjet CP6015  CM6030mfp y CM6040mfp  Color Magenta](https://www.amazon.es/dp/B00166TYOK/?tag=tolees-21) con 35.88 de descuento por 183.32 EUR (original: 285.9 EUR) en el siguiente enlace!
 
-[![HP 824A - Tambor de imágenes Laserjet pa](https://m.media-amazon.com/images/I/51pCkNmkHAL._SL200_.jpg)](https://www.amazon.es/dp/B00166TYOK/?tag=tolees-21)
+[![HP 824A - Tambor de imágenes Laserjet pa](https://m.media-amazon.com/images/I/51pCkNmkHAL._SL400_.jpg)](https://www.amazon.es/dp/B00166TYOK/?tag=tolees-21)
 
 ℹ️:
 

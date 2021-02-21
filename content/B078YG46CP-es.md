@@ -2,7 +2,7 @@
 layout: post
 title: 'Lorus Reloj Digital para Unisex de Cuarz al 44.94 % de descuento'
 date: 2020-05-18 22:00:59
-image: 'https://m.media-amazon.com/images/I/51dTfNNnltL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51dTfNNnltL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.175333333333336'
 
 Está [Lorus Reloj Digital para Unisex de Cuarzo con Correa en Silicona R2393LX9](https://www.amazon.es/dp/B078YG46CP/?tag=tolees-21) con 44.94 de descuento por 18.67 EUR (original: 33.91 EUR) en el siguiente enlace!
 
-[![Lorus Reloj Digital para Unisex de Cuarz](https://m.media-amazon.com/images/I/51dTfNNnltL._SL200_.jpg)](https://www.amazon.es/dp/B078YG46CP/?tag=tolees-21)
+[![Lorus Reloj Digital para Unisex de Cuarz](https://m.media-amazon.com/images/I/51dTfNNnltL._SL400_.jpg)](https://www.amazon.es/dp/B078YG46CP/?tag=tolees-21)
 
 ℹ️:
 

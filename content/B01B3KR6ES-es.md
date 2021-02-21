@@ -2,7 +2,7 @@
 layout: post
 title: 'DIM Generous Minimizer Sujetador Reducto al 50.00 % de descuento'
 date: 2020-01-05 13:04:12
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41sN3wp3ajL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41sN3wp3ajL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16'
 
 Está [DIM Generous Minimizer Sujetador Reductor  Beige  New Skin   90C para Mujer](https://www.amazon.es/dp/B01B3KR6ES/?tag=tolees-21) con 50.00 de descuento por 16 EUR (original: 32 EUR) en el siguiente enlace!
 
-[![DIM Generous Minimizer Sujetador Reducto](https://images-eu.ssl-images-amazon.com/images/I/41sN3wp3ajL._SL200_.jpg)](https://www.amazon.es/dp/B01B3KR6ES/?tag=tolees-21)
+[![DIM Generous Minimizer Sujetador Reducto](https://images-eu.ssl-images-amazon.com/images/I/41sN3wp3ajL._SL400_.jpg)](https://www.amazon.es/dp/B01B3KR6ES/?tag=tolees-21)
 
 ℹ️:
 

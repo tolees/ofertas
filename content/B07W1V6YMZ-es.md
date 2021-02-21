@@ -2,7 +2,7 @@
 layout: post
 title: 'Skechers Skech-Air Stratus Super Galaxy  al 55.96 % de descuento'
 date: 2020-09-07 23:04:08
-image: 'https://m.media-amazon.com/images/I/41Q7j2D5xML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Q7j2D5xML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '37.41'
 
 Está [Skechers Skech-Air Stratus Super Galaxy  Zapatillas para Mujer  Beige Natural Mesh Negro Hot Melt Rojo Leopard Ntbk  38 EU](https://www.amazon.es/dp/B07W1V6YMZ/?tag=tolees-21) con 55.96 de descuento por 37.41 EUR (original: 84.95 EUR) en el siguiente enlace!
 
-[![Skechers Skech-Air Stratus Super Galaxy ](https://m.media-amazon.com/images/I/41Q7j2D5xML._SL200_.jpg)](https://www.amazon.es/dp/B07W1V6YMZ/?tag=tolees-21)
+[![Skechers Skech-Air Stratus Super Galaxy ](https://m.media-amazon.com/images/I/41Q7j2D5xML._SL400_.jpg)](https://www.amazon.es/dp/B07W1V6YMZ/?tag=tolees-21)
 
 ℹ️:
 

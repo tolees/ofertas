@@ -2,7 +2,7 @@
 layout: post
 title: 'Atornillador Eléctrico  Jellas Destornil al 27.29 % de rebaja'
 date: 2020-08-09 19:20:50
-image: 'https://m.media-amazon.com/images/I/51gnEo5mdOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51gnEo5mdOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.99'
 
 Tienes [Atornillador Eléctrico  Jellas Destornillador Eléctrico Carga Rápida 2000 mAh 3 6 V Iones de Iitio con Mango Ajustable  10+1 Engranajes de Torque  Bloqueo Automático  LED luz  USB y 40PCS Accesorios](https://www.amazon.es/dp/B07RLNYDX4/?tag=tolees-21) con precio final de  15.99 EUR (original: 21.99 EUR) (27.29 %  de rebaja) aqui!
 
-[![Atornillador Eléctrico  Jellas Destornil](https://m.media-amazon.com/images/I/51gnEo5mdOL._SL200_.jpg)](https://www.amazon.es/dp/B07RLNYDX4/?tag=tolees-21)
+[![Atornillador Eléctrico  Jellas Destornil](https://m.media-amazon.com/images/I/51gnEo5mdOL._SL400_.jpg)](https://www.amazon.es/dp/B07RLNYDX4/?tag=tolees-21)
 
 🔎:
 

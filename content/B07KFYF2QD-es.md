@@ -2,7 +2,7 @@
 layout: post
 title: 'PUMA Carina L  Zapatillas para Mujer  Wh al 30.94 % de descuento'
 date: 2020-01-07 11:34:57
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31%2B0843BIWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31%2B0843BIWL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '41.4'
 
 Ahora mismo tienes [PUMA Carina L  Zapatillas para Mujer  White-Gum  40 EU](https://www.amazon.es/dp/B07KFYF2QD/?tag=tolees-21) a 41.4 EUR (original: 59.95 EUR) (30.94 %  de descuento) en el siguiente enlace!
 
-[![PUMA Carina L  Zapatillas para Mujer  Wh](https://images-eu.ssl-images-amazon.com/images/I/31%2B0843BIWL._SL200_.jpg)](https://www.amazon.es/dp/B07KFYF2QD/?tag=tolees-21)
+[![PUMA Carina L  Zapatillas para Mujer  Wh](https://images-eu.ssl-images-amazon.com/images/I/31%2B0843BIWL._SL400_.jpg)](https://www.amazon.es/dp/B07KFYF2QD/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 26.62 % en ASICS Chaussures Roadhawk FF 2'
 date: 2020-01-27 09:28:01
-image: 'https://m.media-amazon.com/images/I/413EjDu-bfL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/413EjDu-bfL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '68.99'
 
 Tienes [ASICS Chaussures Roadhawk FF 2](https://www.amazon.es/dp/B07L32FVW5/?tag=tolees-21) con un 26.62 % de descuento con precio de oferta de 90.99 EUR (original: 123.99 EUR) en el siguiente enlace!
 
-[![ASICS Chaussures Roadhawk FF 2](https://m.media-amazon.com/images/I/413EjDu-bfL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07L32FVW5/?tag=tolees-21)
+[![ASICS Chaussures Roadhawk FF 2](https://m.media-amazon.com/images/I/413EjDu-bfL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07L32FVW5/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas NMD_r1  Zapatillas de Gimnasia pa al 50.00 % de descuento'
 date: 2020-01-19 12:49:24
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31-rn91VjYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31-rn91VjYL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '69.97'
 
 Está [adidas NMD_r1  Zapatillas de Gimnasia para Hombre  Blanco  FTWR White/FTWR White/Vapour Pink FTWR White/FTWR White/Vapour Pink   42 EU](https://www.amazon.es/dp/B07STFQ6GM/?tag=tolees-21) con 50.00 de descuento por 69.97 EUR (original: 139.95 EUR) en el siguiente enlace!
 
-[![adidas NMD_r1  Zapatillas de Gimnasia pa](https://images-eu.ssl-images-amazon.com/images/I/31-rn91VjYL._SL200_.jpg)](https://www.amazon.es/dp/B07STFQ6GM/?tag=tolees-21)
+[![adidas NMD_r1  Zapatillas de Gimnasia pa](https://images-eu.ssl-images-amazon.com/images/I/31-rn91VjYL._SL400_.jpg)](https://www.amazon.es/dp/B07STFQ6GM/?tag=tolees-21)
 
 ℹ️:
 

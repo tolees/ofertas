@@ -2,7 +2,7 @@
 layout: post
 title: 'Citizen Reloj Analógico para Hombre de C al 26.50 % de descuento'
 date: 2020-08-15 14:55:50
-image: 'https://m.media-amazon.com/images/I/51-djFUbSeL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51-djFUbSeL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '167.88571428571427'
 
 Está [Citizen Reloj Analógico para Hombre de Cuarzo con Correa en Titanio BM7430-89L](https://www.amazon.es/dp/B07DB1JC6B/?tag=tolees-21) con 26.50 de descuento por 168.31 EUR (original: 229.0 EUR) en el siguiente enlace!
 
-[![Citizen Reloj Analógico para Hombre de C](https://m.media-amazon.com/images/I/51-djFUbSeL._SL200_.jpg)](https://www.amazon.es/dp/B07DB1JC6B/?tag=tolees-21)
+[![Citizen Reloj Analógico para Hombre de C](https://m.media-amazon.com/images/I/51-djFUbSeL._SL400_.jpg)](https://www.amazon.es/dp/B07DB1JC6B/?tag=tolees-21)
 
 ℹ️:
 

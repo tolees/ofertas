@@ -2,7 +2,7 @@
 layout: post
 title: 'The Kinks Are The Village Green Preserva al 36.85 % de descuento'
 date: 2020-01-20 04:37:50
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51wQ70prfoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51wQ70prfoL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.73'
 
 Ahora mismo tienes [The Kinks Are The Village Green Preservation Society](https://www.amazon.es/dp/B07GGPT67K/?tag=tolees-21) a 10.73 EUR (original: 16.99 EUR) (36.85 %  de descuento) en el siguiente enlace!
 
-[![The Kinks Are The Village Green Preserva](https://images-eu.ssl-images-amazon.com/images/I/51wQ70prfoL._SL200_.jpg)](https://www.amazon.es/dp/B07GGPT67K/?tag=tolees-21)
+[![The Kinks Are The Village Green Preserva](https://images-eu.ssl-images-amazon.com/images/I/51wQ70prfoL._SL400_.jpg)](https://www.amazon.es/dp/B07GGPT67K/?tag=tolees-21)
 
 🔎:
 

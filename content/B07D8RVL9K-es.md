@@ -2,7 +2,7 @@
 layout: post
 title: 'Famhome - Cinturón elástico de cintura p al 83.53 % de rebaja'
 date: 2020-01-12 01:42:40
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41EyY48bu8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41EyY48bu8L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.576666666666666'
 
 Tienes [Famhome - Cinturón elástico de cintura para mujer  estilo vintage Dorado Bright Belt-beige 90](https://www.amazon.es/dp/B07D8RVL9K/?tag=tolees-21) con precio final de  13.01 EUR (original: 78.99 EUR) (83.53 %  de rebaja) aqui!
 
-[![Famhome - Cinturón elástico de cintura p](https://images-eu.ssl-images-amazon.com/images/I/41EyY48bu8L._SL200_.jpg)](https://www.amazon.es/dp/B07D8RVL9K/?tag=tolees-21)
+[![Famhome - Cinturón elástico de cintura p](https://images-eu.ssl-images-amazon.com/images/I/41EyY48bu8L._SL400_.jpg)](https://www.amazon.es/dp/B07D8RVL9K/?tag=tolees-21)
 
 🔎:
 

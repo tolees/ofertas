@@ -2,7 +2,7 @@
 layout: post
 title: 'VARON DANDY colonia masaje botella 1 lt al 37.88 % de descuento'
 date: 2020-09-01 21:45:33
-image: 'https://m.media-amazon.com/images/I/310y6FNOVaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/310y6FNOVaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.4159999999999995'
 
 Ahora mismo tienes [VARON DANDY colonia masaje botella 1 lt](https://www.amazon.es/dp/B00BN7ZY7S/?tag=tolees-21) a 5.87 EUR (original: 9.45 EUR) (37.88 %  de descuento) en el siguiente enlace!
 
-[![VARON DANDY colonia masaje botella 1 lt](https://m.media-amazon.com/images/I/310y6FNOVaL._SL200_.jpg)](https://www.amazon.es/dp/B00BN7ZY7S/?tag=tolees-21)
+[![VARON DANDY colonia masaje botella 1 lt](https://m.media-amazon.com/images/I/310y6FNOVaL._SL400_.jpg)](https://www.amazon.es/dp/B00BN7ZY7S/?tag=tolees-21)
 
 🔎:
 

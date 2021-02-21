@@ -2,7 +2,7 @@
 layout: post
 title: 'Dispensador Automático de Jabón o hidroa con un 37.50 % de descuento'
 date: 2020-08-15 11:15:56
-image: 'https://m.media-amazon.com/images/I/317RvkypCUL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/317RvkypCUL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.0'
 
 En este momento está [Dispensador Automático de Jabón o hidroalcoholico  Sensor de Movimiento por Infrarrojos  Base Impermeable  Interruptor Ajustable](https://www.amazon.es/dp/B088RKFM8H/?tag=tolees-21) a 15.0 EUR (original: 24.0 EUR) (37.50 %  de descuento) en el siguiente enlace!
 
-[![Dispensador Automático de Jabón o hidroa](https://m.media-amazon.com/images/I/317RvkypCUL._SL200_.jpg)](https://www.amazon.es/dp/B088RKFM8H/?tag=tolees-21)
+[![Dispensador Automático de Jabón o hidroa](https://m.media-amazon.com/images/I/317RvkypCUL._SL400_.jpg)](https://www.amazon.es/dp/B088RKFM8H/?tag=tolees-21)
 
 🔎:
 

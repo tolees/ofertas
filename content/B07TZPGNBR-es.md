@@ -2,7 +2,7 @@
 layout: post
 title: 'BRIKSMAX Kit de Iluminación Led para Leg al 61.01 % de descuento'
 date: 2020-04-07 13:27:40
-image: 'https://m.media-amazon.com/images/I/41UYfQp1jBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41UYfQp1jBL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '38.99'
 
 Ahora mismo tienes [BRIKSMAX Kit de Iluminación Led para Lego Star Wars Kylo Ren s Tie Fighter  Compatible con Ladrillos de Construcción Lego Modelo 75179  Juego de Legos no Incluido](https://www.amazon.es/dp/B07TZPGNBR/?tag=tolees-21) a 38.99 EUR (original: 99.99 EUR) (61.01 %  de descuento) en el siguiente enlace!
 
-[![BRIKSMAX Kit de Iluminación Led para Leg](https://m.media-amazon.com/images/I/41UYfQp1jBL._SL200_.jpg)](https://www.amazon.es/dp/B07TZPGNBR/?tag=tolees-21)
+[![BRIKSMAX Kit de Iluminación Led para Leg](https://m.media-amazon.com/images/I/41UYfQp1jBL._SL400_.jpg)](https://www.amazon.es/dp/B07TZPGNBR/?tag=tolees-21)
 
 🔎:
 

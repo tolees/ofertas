@@ -2,7 +2,7 @@
 layout: post
 title: 'Mars Gaming MKHA1 - Teclado gaming para  al 35.92 % de descuento'
 date: 2020-10-11 09:32:50
-image: 'https://m.media-amazon.com/images/I/41H3OCIN-ZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41H3OCIN-ZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.094999999999999'
 
 Ahora mismo tienes [Mars Gaming MKHA1 - Teclado gaming para PC  respuesta ultra-rápida  iluminación LED blanca  anti-ghosting  teposamuñecas extraíbles  teclas elevadas y extraíbles  base metálica  USB oro   color negro](https://www.amazon.es/dp/B00XBO3O2S/?tag=tolees-21) a 8.49 EUR (original: 13.25 EUR) (35.92 %  de descuento) en el siguiente enlace!
 
-[![Mars Gaming MKHA1 - Teclado gaming para ](https://m.media-amazon.com/images/I/41H3OCIN-ZL._SL200_.jpg)](https://www.amazon.es/dp/B00XBO3O2S/?tag=tolees-21)
+[![Mars Gaming MKHA1 - Teclado gaming para ](https://m.media-amazon.com/images/I/41H3OCIN-ZL._SL400_.jpg)](https://www.amazon.es/dp/B00XBO3O2S/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'PUMA Liga Striped Maillot  Hombre  Elect al 66.49 % de rebaja'
 date: 2020-05-31 16:09:18
-image: 'https://m.media-amazon.com/images/I/415fVtUKdRL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/415fVtUKdRL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.36'
 
 Tienes [PUMA Liga Striped Maillot  Hombre  Electric Blue Lemonade/White  XXL](https://www.amazon.es/dp/B077SW4VNQ/?tag=tolees-21) con precio final de  8.36 EUR (original: 24.95 EUR) (66.49 %  de rebaja) aqui!
 
-[![PUMA Liga Striped Maillot  Hombre  Elect](https://m.media-amazon.com/images/I/415fVtUKdRL._SL200_.jpg)](https://www.amazon.es/dp/B077SW4VNQ/?tag=tolees-21)
+[![PUMA Liga Striped Maillot  Hombre  Elect](https://m.media-amazon.com/images/I/415fVtUKdRL._SL400_.jpg)](https://www.amazon.es/dp/B077SW4VNQ/?tag=tolees-21)
 
 🔎:
 

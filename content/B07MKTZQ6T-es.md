@@ -2,7 +2,7 @@
 layout: post
 title: 'Geestock - Riñonera Rojo Red Medium al 32.36 % de descuento'
 date: 2020-07-27 13:24:04
-image: 'https://m.media-amazon.com/images/I/41+hR9xLBkL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41+hR9xLBkL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.91'
 
 Está [Geestock - Riñonera Rojo Red Medium](https://www.amazon.es/dp/B07MKTZQ6T/?tag=tolees-21) con 32.36 de descuento por 10.91 EUR (original: 16.13 EUR) en el siguiente enlace!
 
-[![Geestock - Riñonera Rojo Red Medium](https://m.media-amazon.com/images/I/41+hR9xLBkL._SL200_.jpg)](https://www.amazon.es/dp/B07MKTZQ6T/?tag=tolees-21)
+[![Geestock - Riñonera Rojo Red Medium](https://m.media-amazon.com/images/I/41+hR9xLBkL._SL400_.jpg)](https://www.amazon.es/dp/B07MKTZQ6T/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Bourjois Contour Edition Perfilador de L al 82.22 % de descuento'
 date: 2020-07-25 08:27:32
-image: 'https://m.media-amazon.com/images/I/31SGAYVo0+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31SGAYVo0+L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.1333333333333333'
 
 Ahora mismo tienes [Bourjois Contour Edition Perfilador de Labios Tono 01 Nude wave - 4 gr.](https://www.amazon.es/dp/B00O32UOBQ/?tag=tolees-21) a 1.2 EUR (original: 6.75 EUR) (82.22 %  de descuento) en el siguiente enlace!
 
-[![Bourjois Contour Edition Perfilador de L](https://m.media-amazon.com/images/I/31SGAYVo0+L._SL200_.jpg)](https://www.amazon.es/dp/B00O32UOBQ/?tag=tolees-21)
+[![Bourjois Contour Edition Perfilador de L](https://m.media-amazon.com/images/I/31SGAYVo0+L._SL400_.jpg)](https://www.amazon.es/dp/B00O32UOBQ/?tag=tolees-21)
 
 🔎:
 

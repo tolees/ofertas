@@ -2,7 +2,7 @@
 layout: post
 title: '3pcs Estuche portátil Guarda mascarilla. al 68.46 % de descuento'
 date: 2020-09-08 10:20:40
-image: 'https://m.media-amazon.com/images/I/412ApTsK7DL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/412ApTsK7DL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.35'
 
 Está [3pcs Estuche portátil Guarda mascarilla. Bolsa/Caja de Almacenamiento de mascarillas Antipolvo para la prevención de la contaminación. 3 Piezas  no Incluye mascarilla.](https://www.amazon.es/dp/B08BTH476T/?tag=tolees-21) con 68.46 de descuento por 2.35 EUR (original: 7.45 EUR) en el siguiente enlace!
 
-[![3pcs Estuche portátil Guarda mascarilla.](https://m.media-amazon.com/images/I/412ApTsK7DL._SL200_.jpg)](https://www.amazon.es/dp/B08BTH476T/?tag=tolees-21)
+[![3pcs Estuche portátil Guarda mascarilla.](https://m.media-amazon.com/images/I/412ApTsK7DL._SL400_.jpg)](https://www.amazon.es/dp/B08BTH476T/?tag=tolees-21)
 
 ℹ️:
 

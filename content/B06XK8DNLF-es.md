@@ -2,7 +2,7 @@
 layout: post
 title: 'find. Alpargata Destalonada de Ante Muje con un 61.81 % de descuento'
 date: 2020-05-07 09:04:24
-image: 'https://m.media-amazon.com/images/I/31MXIvhl0iL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31MXIvhl0iL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.8'
 
 En este momento está [find. Alpargata Destalonada de Ante Mujer  Amarillo  Yellow   38 EU](https://www.amazon.es/dp/B06XK8DNLF/?tag=tolees-21) a 10.8 EUR (original: 28.28 EUR) (61.81 %  de descuento) en el siguiente enlace!
 
-[![find. Alpargata Destalonada de Ante Muje](https://m.media-amazon.com/images/I/31MXIvhl0iL._SL200_.jpg)](https://www.amazon.es/dp/B06XK8DNLF/?tag=tolees-21)
+[![find. Alpargata Destalonada de Ante Muje](https://m.media-amazon.com/images/I/31MXIvhl0iL._SL400_.jpg)](https://www.amazon.es/dp/B06XK8DNLF/?tag=tolees-21)
 
 🔎:
 

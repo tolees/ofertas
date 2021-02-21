@@ -2,7 +2,7 @@
 layout: post
 title: 'Grupo Erik Editores   Poster Breaking Ba con un 67.20 % de descuento'
 date: 2020-08-03 13:58:11
-image: 'https://m.media-amazon.com/images/I/51wfStDIwlL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51wfStDIwlL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.64'
 
 En este momento está [Grupo Erik Editores   Poster Breaking Bad- I Am The One Who Knocks](https://www.amazon.es/dp/B00ED2BFW8/?tag=tolees-21) a 4.28 EUR (original: 13.05 EUR) (67.20 %  de descuento) en el siguiente enlace!
 
-[![Grupo Erik Editores   Poster Breaking Ba](https://m.media-amazon.com/images/I/51wfStDIwlL._SL200_.jpg)](https://www.amazon.es/dp/B00ED2BFW8/?tag=tolees-21)
+[![Grupo Erik Editores   Poster Breaking Ba](https://m.media-amazon.com/images/I/51wfStDIwlL._SL400_.jpg)](https://www.amazon.es/dp/B00ED2BFW8/?tag=tolees-21)
 
 🔎:
 

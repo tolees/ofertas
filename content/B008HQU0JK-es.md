@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 64.01 % en Tommee Tippee Closer to Nature - Sacalec'
 date: 2020-10-10 11:23:40
-image: 'https://m.media-amazon.com/images/I/31qReD753wL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31qReD753wL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '50.04666666666667'
 
 Tienes [Tommee Tippee Closer to Nature - Sacaleches eléctrico](https://www.amazon.es/dp/B008HQU0JK/?tag=tolees-21) con un 64.01 % de descuento con precio de oferta de 44.99 EUR (original: 125.0 EUR) en el siguiente enlace!
 
-[![Tommee Tippee Closer to Nature - Sacalec](https://m.media-amazon.com/images/I/31qReD753wL._SL200_.jpg)](https://www.amazon.es/dp/B008HQU0JK/?tag=tolees-21)
+[![Tommee Tippee Closer to Nature - Sacalec](https://m.media-amazon.com/images/I/31qReD753wL._SL400_.jpg)](https://www.amazon.es/dp/B008HQU0JK/?tag=tolees-21)
 
 ℹ️:
 

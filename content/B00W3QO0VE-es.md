@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 33.45 % en Nokia Lumia 640 XL - Smartphone 5.7"  3G'
 date: 2020-05-20 23:35:33
-image: 'https://m.media-amazon.com/images/I/41Qe4wpbWzL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Qe4wpbWzL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '134.11878787878794'
 
 Tienes [Nokia Lumia 640 XL - Smartphone 5.7"  3G  Qualcomm MSM8926 Snapdragon 400  1 GB de RAM  Dual SIM  color negro](https://www.amazon.es/dp/B00W3QO0VE/?tag=tolees-21) con un 33.45 % de descuento con precio de oferta de 132.43 EUR (original: 199.0 EUR) en el siguiente enlace!
 
-[![Nokia Lumia 640 XL - Smartphone 5.7"  3G](https://m.media-amazon.com/images/I/41Qe4wpbWzL._SL200_.jpg)](https://www.amazon.es/dp/B00W3QO0VE/?tag=tolees-21)
+[![Nokia Lumia 640 XL - Smartphone 5.7"  3G](https://m.media-amazon.com/images/I/41Qe4wpbWzL._SL400_.jpg)](https://www.amazon.es/dp/B00W3QO0VE/?tag=tolees-21)
 
 ℹ️:
 

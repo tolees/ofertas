@@ -2,7 +2,7 @@
 layout: post
 title: 'Béaba 913400 - Cuchara y tenedor ergonóm al 52.05 % de descuento'
 date: 2020-01-18 11:30:51
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41-xaih-APL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-xaih-APL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.31'
 
 Está [Béaba 913400 - Cuchara y tenedor ergonómicos de aprendizaje  para niños segunda edad](https://www.amazon.es/dp/B019FKF6NG/?tag=tolees-21) con 52.05 de descuento por 3.98 EUR (original: 8.3 EUR) en el siguiente enlace!
 
-[![Béaba 913400 - Cuchara y tenedor ergonóm](https://images-eu.ssl-images-amazon.com/images/I/41-xaih-APL._SL200_.jpg)](https://www.amazon.es/dp/B019FKF6NG/?tag=tolees-21)
+[![Béaba 913400 - Cuchara y tenedor ergonóm](https://images-eu.ssl-images-amazon.com/images/I/41-xaih-APL._SL400_.jpg)](https://www.amazon.es/dp/B019FKF6NG/?tag=tolees-21)
 
 ℹ️:
 

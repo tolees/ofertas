@@ -2,7 +2,7 @@
 layout: post
 title: 'Korres Crema De Manos Hidratante  Almend al 28.28 % de descuento'
 date: 2020-10-06 10:59:29
-image: 'https://m.media-amazon.com/images/I/415VfShmsBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/415VfShmsBL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.1'
 
 Ahora mismo tienes [Korres Crema De Manos Hidratante  Almendra y Caléndula  - 75 ml.](https://www.amazon.es/dp/B007JIN77O/?tag=tolees-21) a 7.1 EUR (original: 9.9 EUR) (28.28 %  de descuento) en el siguiente enlace!
 
-[![Korres Crema De Manos Hidratante  Almend](https://m.media-amazon.com/images/I/415VfShmsBL._SL200_.jpg)](https://www.amazon.es/dp/B007JIN77O/?tag=tolees-21)
+[![Korres Crema De Manos Hidratante  Almend](https://m.media-amazon.com/images/I/415VfShmsBL._SL400_.jpg)](https://www.amazon.es/dp/B007JIN77O/?tag=tolees-21)
 
 🔎:
 

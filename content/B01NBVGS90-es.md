@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 38.08 % en Eucerin Family Pack Ph5 Oleogel de Ducha'
 date: 2020-10-01 17:48:31
-image: 'https://m.media-amazon.com/images/I/41-McPcIlOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41-McPcIlOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.41'
 
 Tienes [Eucerin Family Pack Ph5 Oleogel de Ducha 1000 ml y oleogel 400 ml  4005800177668 ](https://www.amazon.es/dp/B01NBVGS90/?tag=tolees-21) con un 38.08 % de descuento con precio de oferta de 16.41 EUR (original: 26.5 EUR) en el siguiente enlace!
 
-[![Eucerin Family Pack Ph5 Oleogel de Ducha](https://m.media-amazon.com/images/I/41-McPcIlOL._SL200_.jpg)](https://www.amazon.es/dp/B01NBVGS90/?tag=tolees-21)
+[![Eucerin Family Pack Ph5 Oleogel de Ducha](https://m.media-amazon.com/images/I/41-McPcIlOL._SL400_.jpg)](https://www.amazon.es/dp/B01NBVGS90/?tag=tolees-21)
 
 ℹ️:
 

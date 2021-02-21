@@ -2,7 +2,7 @@
 layout: post
 title: 'Hakeeta Mini USB portátil Barra de Sonid al 35.50 % de descuento'
 date: 2020-10-11 23:35:55
-image: 'https://m.media-amazon.com/images/I/51oYjvDvTtL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51oYjvDvTtL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.99'
 
 Está [Hakeeta Mini USB portátil Barra de Sonido con Cable Reproductor de música Bass Surround Altavoz Soundbox con Conector de Audio de 3.5 mm para computadora de Escritorio  Laptop  TV Blanco ](https://www.amazon.es/dp/B07QH1Q6WL/?tag=tolees-21) con 35.50 de descuento por 19.99 EUR (original: 30.99 EUR) en el siguiente enlace!
 
-[![Hakeeta Mini USB portátil Barra de Sonid](https://m.media-amazon.com/images/I/51oYjvDvTtL._SL200_.jpg)](https://www.amazon.es/dp/B07QH1Q6WL/?tag=tolees-21)
+[![Hakeeta Mini USB portátil Barra de Sonid](https://m.media-amazon.com/images/I/51oYjvDvTtL._SL400_.jpg)](https://www.amazon.es/dp/B07QH1Q6WL/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Taladro Atornillador 20V  LOMVUM Taladro al 61.11 % de descuento'
 date: 2020-10-02 05:27:07
-image: 'https://m.media-amazon.com/images/I/51Him0JyXEL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Him0JyXEL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '69.99'
 
 Ahora mismo tienes [Taladro Atornillador 20V  LOMVUM Taladro con Percusión de Función  2 * 2 0Ah Batería de Litio Maxima Torsión 33N.m  Luz LED  1h Carga Rápida  27 Accesorios](https://www.amazon.es/dp/B07FQFLWV7/?tag=tolees-21) a 69.99 EUR (original: 179.99 EUR) (61.11 %  de descuento) en el siguiente enlace!
 
-[![Taladro Atornillador 20V  LOMVUM Taladro](https://m.media-amazon.com/images/I/51Him0JyXEL._SL200_.jpg)](https://www.amazon.es/dp/B07FQFLWV7/?tag=tolees-21)
+[![Taladro Atornillador 20V  LOMVUM Taladro](https://m.media-amazon.com/images/I/51Him0JyXEL._SL400_.jpg)](https://www.amazon.es/dp/B07FQFLWV7/?tag=tolees-21)
 
 🔎:
 

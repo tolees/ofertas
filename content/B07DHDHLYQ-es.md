@@ -2,7 +2,7 @@
 layout: post
 title: 'AVerMedia Live Gamer Ultra  Capturadora  al 28.01 % de descuento'
 date: 2020-04-09 08:52:30
-image: 'https://m.media-amazon.com/images/I/41fyq5DaqxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41fyq5DaqxL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '179.9'
 
 Ahora mismo tienes [AVerMedia Live Gamer Ultra  Capturadora de vídeo y de streaming USB3.1  pass-through 4 KP60 hdr  muy débil latence  ENREGISTRE hasta 120 fps  gc553 ](https://www.amazon.es/dp/B07DHDHLYQ/?tag=tolees-21) a 179.9 EUR (original: 249.9 EUR) (28.01 %  de descuento) en el siguiente enlace!
 
-[![AVerMedia Live Gamer Ultra  Capturadora ](https://m.media-amazon.com/images/I/41fyq5DaqxL._SL200_.jpg)](https://www.amazon.es/dp/B07DHDHLYQ/?tag=tolees-21)
+[![AVerMedia Live Gamer Ultra  Capturadora ](https://m.media-amazon.com/images/I/41fyq5DaqxL._SL400_.jpg)](https://www.amazon.es/dp/B07DHDHLYQ/?tag=tolees-21)
 
 🔎:
 

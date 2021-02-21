@@ -2,7 +2,7 @@
 layout: post
 title: 'Super Impulse Llavero Tiny Arcade Dig Du con un 49.87 % de descuento'
 date: 2020-01-23 12:38:41
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31LUCbFmuCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31LUCbFmuCL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.0'
 
 En este momento está [Super Impulse Llavero Tiny Arcade Dig Dug  Multicolor  0854941007495 ](https://www.amazon.es/dp/B07B658BLP/?tag=tolees-21) a 10 EUR (original: 19.95 EUR) (49.87 %  de descuento) en el siguiente enlace!
 
-[![Super Impulse Llavero Tiny Arcade Dig Du](https://images-eu.ssl-images-amazon.com/images/I/31LUCbFmuCL._SL200_.jpg)](https://www.amazon.es/dp/B07B658BLP/?tag=tolees-21)
+[![Super Impulse Llavero Tiny Arcade Dig Du](https://images-eu.ssl-images-amazon.com/images/I/31LUCbFmuCL._SL400_.jpg)](https://www.amazon.es/dp/B07B658BLP/?tag=tolees-21)
 
 🔎:
 

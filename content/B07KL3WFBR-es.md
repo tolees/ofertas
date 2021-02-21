@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas W E PLN Pant Sport Trousers  Muje con un 42.55 % de descuento'
 date: 2020-09-23 21:33:52
-image: 'https://m.media-amazon.com/images/I/31jO8TwTFFL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31jO8TwTFFL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '22.95'
 
 En este momento está [adidas W E PLN Pant Sport Trousers  Mujer  Medium Grey Heather  S](https://www.amazon.es/dp/B07KL3WFBR/?tag=tolees-21) a 22.95 EUR (original: 39.95 EUR) (42.55 %  de descuento) en el siguiente enlace!
 
-[![adidas W E PLN Pant Sport Trousers  Muje](https://m.media-amazon.com/images/I/31jO8TwTFFL._SL200_.jpg)](https://www.amazon.es/dp/B07KL3WFBR/?tag=tolees-21)
+[![adidas W E PLN Pant Sport Trousers  Muje](https://m.media-amazon.com/images/I/31jO8TwTFFL._SL400_.jpg)](https://www.amazon.es/dp/B07KL3WFBR/?tag=tolees-21)
 
 🔎:
 

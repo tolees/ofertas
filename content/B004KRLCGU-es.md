@@ -2,7 +2,7 @@
 layout: post
 title: 'Nixon Reloj Analógico para Hombre de Cua al 44.85 % de rebaja'
 date: 2020-02-11 21:15:19
-image: 'https://m.media-amazon.com/images/I/51KonD9ylUL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51KonD9ylUL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '103.39333333333333'
 
 Tienes [Nixon Reloj Analógico para Hombre de Cuarzo con Correa en Cuero A105-001-00](https://www.amazon.es/dp/B004KRLCGU/?tag=tolees-21) con precio final de  93.75 EUR (original: 170.0 EUR) (44.85 %  de rebaja) aqui!
 
-[![Nixon Reloj Analógico para Hombre de Cua](https://m.media-amazon.com/images/I/51KonD9ylUL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B004KRLCGU/?tag=tolees-21)
+[![Nixon Reloj Analógico para Hombre de Cua](https://m.media-amazon.com/images/I/51KonD9ylUL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B004KRLCGU/?tag=tolees-21)
 
 🔎:
 

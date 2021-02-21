@@ -2,7 +2,7 @@
 layout: post
 title: 'PUMA LIGA Shorts Pants  Hombre  White Bl con un 31.87 % de descuento'
 date: 2020-06-02 09:24:32
-image: 'https://m.media-amazon.com/images/I/31DZUW0P7aL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31DZUW0P7aL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.23'
 
 En este momento está [PUMA LIGA Shorts Pants  Hombre  White Black  M](https://www.amazon.es/dp/B0797Q8ZNT/?tag=tolees-21) a 12.23 EUR (original: 17.95 EUR) (31.87 %  de descuento) en el siguiente enlace!
 
-[![PUMA LIGA Shorts Pants  Hombre  White Bl](https://m.media-amazon.com/images/I/31DZUW0P7aL._SL200_.jpg)](https://www.amazon.es/dp/B0797Q8ZNT/?tag=tolees-21)
+[![PUMA LIGA Shorts Pants  Hombre  White Bl](https://m.media-amazon.com/images/I/31DZUW0P7aL._SL400_.jpg)](https://www.amazon.es/dp/B0797Q8ZNT/?tag=tolees-21)
 
 🔎:
 

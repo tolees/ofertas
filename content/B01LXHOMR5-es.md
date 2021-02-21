@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 25.84 % en Bosch Professional GSS 18V-10 Orbital  P'
 date: 2020-06-17 03:47:42
-image: 'https://m.media-amazon.com/images/I/41xXA0FNocL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41xXA0FNocL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '124.65'
 
 Tienes [Bosch Professional GSS 18V-10 Orbital  Plato lijador 113 x 101 mm  microfiltro  sin batería  en L-BOXX  18 V  Azul](https://www.amazon.es/dp/B01LXHOMR5/?tag=tolees-21) con un 25.84 % de descuento con precio de oferta de 119.99 EUR (original: 161.8 EUR) en el siguiente enlace!
 
-[![Bosch Professional GSS 18V-10 Orbital  P](https://m.media-amazon.com/images/I/41xXA0FNocL._SL200_.jpg)](https://www.amazon.es/dp/B01LXHOMR5/?tag=tolees-21)
+[![Bosch Professional GSS 18V-10 Orbital  P](https://m.media-amazon.com/images/I/41xXA0FNocL._SL400_.jpg)](https://www.amazon.es/dp/B01LXHOMR5/?tag=tolees-21)
 
 ℹ️:
 

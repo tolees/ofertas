@@ -2,7 +2,7 @@
 layout: post
 title: 'Roxy - Licra - Mujer - M - Blanco al 27.26 % de descuento'
 date: 2020-08-06 08:02:12
-image: 'https://m.media-amazon.com/images/I/41h17TUxBAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41h17TUxBAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.555'
 
 Está [Roxy - Licra - Mujer - M - Blanco](https://www.amazon.es/dp/B0825PKS6F/?tag=tolees-21) con 27.26 de descuento por 14.54 EUR (original: 19.99 EUR) en el siguiente enlace!
 
-[![Roxy - Licra - Mujer - M - Blanco](https://m.media-amazon.com/images/I/41h17TUxBAL._SL200_.jpg)](https://www.amazon.es/dp/B0825PKS6F/?tag=tolees-21)
+[![Roxy - Licra - Mujer - M - Blanco](https://m.media-amazon.com/images/I/41h17TUxBAL._SL400_.jpg)](https://www.amazon.es/dp/B0825PKS6F/?tag=tolees-21)
 
 ℹ️:
 

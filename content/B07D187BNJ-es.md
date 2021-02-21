@@ -2,7 +2,7 @@
 layout: post
 title: 'Timex Reloj Analógico para Hombre de Cua al 26.05 % de descuento'
 date: 2020-02-04 23:07:26
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41-T2B6E7VL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-T2B6E7VL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '80.63799999999999'
 
 Ahora mismo tienes [Timex Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable TW2R46700](https://www.amazon.es/dp/B07D187BNJ/?tag=tolees-21) a 80.61 EUR (original: 109 EUR) (26.05 %  de descuento) en el siguiente enlace!
 
-[![Timex Reloj Analógico para Hombre de Cua](https://images-eu.ssl-images-amazon.com/images/I/41-T2B6E7VL._SL200_.jpg)](https://www.amazon.es/dp/B07D187BNJ/?tag=tolees-21)
+[![Timex Reloj Analógico para Hombre de Cua](https://images-eu.ssl-images-amazon.com/images/I/41-T2B6E7VL._SL400_.jpg)](https://www.amazon.es/dp/B07D187BNJ/?tag=tolees-21)
 
 🔎:
 

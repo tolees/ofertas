@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 40.00 % en Sandalia Plataforma para Mujer'
 date: 2020-09-27 15:38:26
-image: 'https://m.media-amazon.com/images/I/31xpE+wpvuL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31xpE+wpvuL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '41.4'
 
 Tienes [Sandalia Plataforma para Mujer](https://www.amazon.es/dp/B08C5FFZZ5/?tag=tolees-21) con un 40.00 % de descuento con precio de oferta de 41.4 EUR (original: 69.0 EUR) en el siguiente enlace!
 
-[![Sandalia Plataforma para Mujer](https://m.media-amazon.com/images/I/31xpE+wpvuL._SL200_.jpg)](https://www.amazon.es/dp/B08C5FFZZ5/?tag=tolees-21)
+[![Sandalia Plataforma para Mujer](https://m.media-amazon.com/images/I/31xpE+wpvuL._SL400_.jpg)](https://www.amazon.es/dp/B08C5FFZZ5/?tag=tolees-21)
 
 ℹ️:
 

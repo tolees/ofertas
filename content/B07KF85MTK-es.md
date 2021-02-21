@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 38.75 % en Levi s Housemark Polo  Azul  Sodalite Bl'
 date: 2020-02-27 08:31:17
-image: 'https://m.media-amazon.com/images/I/31NSv63bSrL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31NSv63bSrL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.483333333333334'
 
 Tienes [Levi s Housemark Polo  Azul  Sodalite Blue 0092   Medium para Hombre](https://www.amazon.es/dp/B07KF85MTK/?tag=tolees-21) con un 38.75 % de descuento con precio de oferta de 24.5 EUR (original: 40.0 EUR) en el siguiente enlace!
 
-[![Levi s Housemark Polo  Azul  Sodalite Bl](https://m.media-amazon.com/images/I/31NSv63bSrL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07KF85MTK/?tag=tolees-21)
+[![Levi s Housemark Polo  Azul  Sodalite Bl](https://m.media-amazon.com/images/I/31NSv63bSrL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07KF85MTK/?tag=tolees-21)
 
 ℹ️:
 

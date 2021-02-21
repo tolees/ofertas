@@ -2,7 +2,7 @@
 layout: post
 title: 'Valentino Rossi Vr46 Classic-Sol e Luna  al 30.04 % de rebaja'
 date: 2020-02-09 14:20:04
-image: 'https://m.media-amazon.com/images/I/41P1RMf76QL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41P1RMf76QL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '52.4'
 
 Tienes [Valentino Rossi Vr46 Classic-Sol e Luna  Hoodie Hombre  Azul  S](https://www.amazon.es/dp/B07NW89VTL/?tag=tolees-21) con precio final de  52.4 EUR (original: 74.9 EUR) (30.04 %  de rebaja) aqui!
 
-[![Valentino Rossi Vr46 Classic-Sol e Luna ](https://m.media-amazon.com/images/I/41P1RMf76QL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07NW89VTL/?tag=tolees-21)
+[![Valentino Rossi Vr46 Classic-Sol e Luna ](https://m.media-amazon.com/images/I/41P1RMf76QL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07NW89VTL/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 43.11 % en Kensington 56146 Reposapiés Ergonómico A'
 date: 2020-02-20 17:09:42
-image: 'https://m.media-amazon.com/images/I/41QeV9fTxiL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41QeV9fTxiL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '45.36333333333334'
 
 Tienes [Kensington 56146 Reposapiés Ergonómico Ajustable SoleMate Plus  Mejora la Postura y Alivia Dolores Relacionados con la Ciática y otros Problemas Ortopédicos  Negro/Gris](https://www.amazon.es/dp/B000JTMOVA/?tag=tolees-21) con un 43.11 % de descuento con precio de oferta de 36.97 EUR (original: 64.99 EUR) en el siguiente enlace!
 
-[![Kensington 56146 Reposapiés Ergonómico A](https://m.media-amazon.com/images/I/41QeV9fTxiL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B000JTMOVA/?tag=tolees-21)
+[![Kensington 56146 Reposapiés Ergonómico A](https://m.media-amazon.com/images/I/41QeV9fTxiL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B000JTMOVA/?tag=tolees-21)
 
 ℹ️:
 

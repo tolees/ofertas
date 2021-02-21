@@ -2,7 +2,7 @@
 layout: post
 title: 'Taladro Percutor  Meterk 850W Taladro El al 35.01 % de descuento'
 date: 2020-09-12 09:09:09
-image: 'https://m.media-amazon.com/images/I/41f4rpMYblL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41f4rpMYblL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '39.55521739130435'
 
 Está [Taladro Percutor  Meterk 850W Taladro Eléctrico de 3000 RPM  Martillo Taladro 2 Funciones en 1  con Mango Auxiliar Giratorio de 360°  Regulador de Profundidad y Portabrocas Sin llave](https://www.amazon.es/dp/B07J5CK31F/?tag=tolees-21) con 35.01 de descuento por 38.99 EUR (original: 59.99 EUR) en el siguiente enlace!
 
-[![Taladro Percutor  Meterk 850W Taladro El](https://m.media-amazon.com/images/I/41f4rpMYblL._SL200_.jpg)](https://www.amazon.es/dp/B07J5CK31F/?tag=tolees-21)
+[![Taladro Percutor  Meterk 850W Taladro El](https://m.media-amazon.com/images/I/41f4rpMYblL._SL400_.jpg)](https://www.amazon.es/dp/B07J5CK31F/?tag=tolees-21)
 
 ℹ️:
 

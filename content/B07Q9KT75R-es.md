@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 25.93 % en casa pura Alfombras de Goma Escaleras - '
 date: 2020-08-06 20:10:48
-image: 'https://m.media-amazon.com/images/I/51DzYILf1RL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51DzYILf1RL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '39.32333333333334'
 
 Tienes [casa pura Alfombras de Goma Escaleras - Peldaños de Goma | Santiago - 5pz | 100% Impermeables | Antideslizantes  Resistencia UV | Excelente adherencia  Negra 25x75 cm ](https://www.amazon.es/dp/B07Q9KT75R/?tag=tolees-21) con un 25.93 % de descuento con precio de oferta de 39.99 EUR (original: 53.99 EUR) en el siguiente enlace!
 
-[![casa pura Alfombras de Goma Escaleras - ](https://m.media-amazon.com/images/I/51DzYILf1RL._SL200_.jpg)](https://www.amazon.es/dp/B07Q9KT75R/?tag=tolees-21)
+[![casa pura Alfombras de Goma Escaleras - ](https://m.media-amazon.com/images/I/51DzYILf1RL._SL400_.jpg)](https://www.amazon.es/dp/B07Q9KT75R/?tag=tolees-21)
 
 ℹ️:
 

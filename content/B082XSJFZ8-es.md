@@ -2,7 +2,7 @@
 layout: post
 title: 'Foto láser digital Tacómetro Sin contact con un 33.49 % de descuento'
 date: 2020-05-23 14:45:22
-image: 'https://m.media-amazon.com/images/I/41jrInLUzYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41jrInLUzYL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.4'
 
 En este momento está [Foto láser digital Tacómetro Sin contacto RPM Tacómetro Tacómetro láser digital Velocímetro Indicador de velocidad Motor](https://www.amazon.es/dp/B082XSJFZ8/?tag=tolees-21) a 11.4 EUR (original: 17.14 EUR) (33.49 %  de descuento) en el siguiente enlace!
 
-[![Foto láser digital Tacómetro Sin contact](https://m.media-amazon.com/images/I/41jrInLUzYL._SL200_.jpg)](https://www.amazon.es/dp/B082XSJFZ8/?tag=tolees-21)
+[![Foto láser digital Tacómetro Sin contact](https://m.media-amazon.com/images/I/41jrInLUzYL._SL400_.jpg)](https://www.amazon.es/dp/B082XSJFZ8/?tag=tolees-21)
 
 🔎:
 

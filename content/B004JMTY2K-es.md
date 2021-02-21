@@ -2,7 +2,7 @@
 layout: post
 title: 'Bosch AHM 38 G - Cortacésped manual al 35.54 % de descuento'
 date: 2020-05-21 13:37:32
-image: 'https://m.media-amazon.com/images/I/41pbmvu4gwL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41pbmvu4gwL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '68.88666666666667'
 
 Ahora mismo tienes [Bosch AHM 38 G - Cortacésped manual](https://www.amazon.es/dp/B004JMTY2K/?tag=tolees-21) a 64.45 EUR (original: 99.99 EUR) (35.54 %  de descuento) en el siguiente enlace!
 
-[![Bosch AHM 38 G - Cortacésped manual](https://m.media-amazon.com/images/I/41pbmvu4gwL._SL200_.jpg)](https://www.amazon.es/dp/B004JMTY2K/?tag=tolees-21)
+[![Bosch AHM 38 G - Cortacésped manual](https://m.media-amazon.com/images/I/41pbmvu4gwL._SL400_.jpg)](https://www.amazon.es/dp/B004JMTY2K/?tag=tolees-21)
 
 🔎:
 

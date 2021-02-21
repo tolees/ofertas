@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 37.18 % en ETEPON Multímetro Digital  6000 Cuentas '
 date: 2020-07-22 11:36:02
-image: 'https://m.media-amazon.com/images/I/51c5wtHVlKL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51c5wtHVlKL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '28.89'
 
 Tienes [ETEPON Multímetro Digital  6000 Cuentas para Mide Voltaje  Corriente  Resistencia  Continuidad  Frecuencia  Capacitancia  Temperatura  Diodos de Prueba  Transistores](https://www.amazon.es/dp/B07QJ5SZWV/?tag=tolees-21) con un 37.18 % de descuento con precio de oferta de 28.89 EUR (original: 45.99 EUR) en el siguiente enlace!
 
-[![ETEPON Multímetro Digital  6000 Cuentas ](https://m.media-amazon.com/images/I/51c5wtHVlKL._SL200_.jpg)](https://www.amazon.es/dp/B07QJ5SZWV/?tag=tolees-21)
+[![ETEPON Multímetro Digital  6000 Cuentas ](https://m.media-amazon.com/images/I/51c5wtHVlKL._SL400_.jpg)](https://www.amazon.es/dp/B07QJ5SZWV/?tag=tolees-21)
 
 ℹ️:
 

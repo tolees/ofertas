@@ -2,7 +2,7 @@
 layout: post
 title: 'L Oréal Magic Retouch Precision Rubio al 53.84 % de descuento'
 date: 2020-10-05 11:44:30
-image: 'https://m.media-amazon.com/images/I/416gUzoaXhL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/416gUzoaXhL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.67'
 
 Está [L Oréal Magic Retouch Precision Rubio](https://www.amazon.es/dp/B07G39L1CK/?tag=tolees-21) con 53.84 de descuento por 3.67 EUR (original: 7.95 EUR) en el siguiente enlace!
 
-[![L Oréal Magic Retouch Precision Rubio](https://m.media-amazon.com/images/I/416gUzoaXhL._SL200_.jpg)](https://www.amazon.es/dp/B07G39L1CK/?tag=tolees-21)
+[![L Oréal Magic Retouch Precision Rubio](https://m.media-amazon.com/images/I/416gUzoaXhL._SL400_.jpg)](https://www.amazon.es/dp/B07G39L1CK/?tag=tolees-21)
 
 ℹ️:
 

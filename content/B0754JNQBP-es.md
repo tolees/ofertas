@@ -2,7 +2,7 @@
 layout: post
 title: 'AMD Ryzen Threadripper 1900X Box sTR4 -  al 44.41 % de rebaja'
 date: 2020-03-19 12:34:02
-image: 'https://m.media-amazon.com/images/I/51MAMyC6GzL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51MAMyC6GzL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '235.04666666666668'
 
 Tienes [AMD Ryzen Threadripper 1900X Box sTR4 - Microprocesador  Color Negro](https://www.amazon.es/dp/B0754JNQBP/?tag=tolees-21) con precio final de  183.43 EUR (original: 329.99 EUR) (44.41 %  de rebaja) aqui!
 
-[![AMD Ryzen Threadripper 1900X Box sTR4 - ](https://m.media-amazon.com/images/I/51MAMyC6GzL._SL200_.jpg)](https://www.amazon.es/dp/B0754JNQBP/?tag=tolees-21)
+[![AMD Ryzen Threadripper 1900X Box sTR4 - ](https://m.media-amazon.com/images/I/51MAMyC6GzL._SL400_.jpg)](https://www.amazon.es/dp/B0754JNQBP/?tag=tolees-21)
 
 🔎:
 

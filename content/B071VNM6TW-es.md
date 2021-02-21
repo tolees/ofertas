@@ -2,7 +2,7 @@
 layout: post
 title: 'Asics Gel-Pulse 9 G-TX T7d9n-3390  Zapat al 50.47 % de descuento'
 date: 2020-01-26 06:08:16
-image: 'https://m.media-amazon.com/images/I/41-7FlxNWJL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41-7FlxNWJL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '60.769999999999996'
 
 Está [Asics Gel-Pulse 9 G-TX T7d9n-3390  Zapatillas de Entrenamiento para Mujer  Morado  Purple T7d9n/3390   37.5 EU](https://www.amazon.es/dp/B071VNM6TW/?tag=tolees-21) con 50.47 de descuento por 61.91 EUR (original: 124.99 EUR) en el siguiente enlace!
 
-[![Asics Gel-Pulse 9 G-TX T7d9n-3390  Zapat](https://m.media-amazon.com/images/I/41-7FlxNWJL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B071VNM6TW/?tag=tolees-21)
+[![Asics Gel-Pulse 9 G-TX T7d9n-3390  Zapat](https://m.media-amazon.com/images/I/41-7FlxNWJL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B071VNM6TW/?tag=tolees-21)
 
 ℹ️:
 

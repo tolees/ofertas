@@ -2,7 +2,7 @@
 layout: post
 title: 'Wrangler High Rise Skinny Jeans  Negro   con un 40.02 % de descuento'
 date: 2020-07-02 14:55:59
-image: 'https://m.media-amazon.com/images/I/31oiJM9RH8L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31oiJM9RH8L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '53.95'
 
 En este momento está [Wrangler High Rise Skinny Jeans  Negro  Black Sea 45a   28W / 34L para Mujer](https://www.amazon.es/dp/B07TXXBV8H/?tag=tolees-21) a 53.95 EUR (original: 89.95 EUR) (40.02 %  de descuento) en el siguiente enlace!
 
-[![Wrangler High Rise Skinny Jeans  Negro  ](https://m.media-amazon.com/images/I/31oiJM9RH8L._SL200_.jpg)](https://www.amazon.es/dp/B07TXXBV8H/?tag=tolees-21)
+[![Wrangler High Rise Skinny Jeans  Negro  ](https://m.media-amazon.com/images/I/31oiJM9RH8L._SL400_.jpg)](https://www.amazon.es/dp/B07TXXBV8H/?tag=tolees-21)
 
 🔎:
 

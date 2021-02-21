@@ -2,7 +2,7 @@
 layout: post
 title: 'Diesel Reloj Analogico para Hombre de Cu al 49.10 % de descuento'
 date: 2020-08-26 20:33:10
-image: 'https://m.media-amazon.com/images/I/41rZnMyIQvL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41rZnMyIQvL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '142.01333333333332'
 
 Está [Diesel Reloj Analogico para Hombre de Cuarzo con Correa en Acero Inoxidable DZ4485](https://www.amazon.es/dp/B07CHNQG6H/?tag=tolees-21) con 49.10 de descuento por 142.02 EUR (original: 279.0 EUR) en el siguiente enlace!
 
-[![Diesel Reloj Analogico para Hombre de Cu](https://m.media-amazon.com/images/I/41rZnMyIQvL._SL200_.jpg)](https://www.amazon.es/dp/B07CHNQG6H/?tag=tolees-21)
+[![Diesel Reloj Analogico para Hombre de Cu](https://m.media-amazon.com/images/I/41rZnMyIQvL._SL400_.jpg)](https://www.amazon.es/dp/B07CHNQG6H/?tag=tolees-21)
 
 ℹ️:
 

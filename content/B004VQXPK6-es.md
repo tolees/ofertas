@@ -2,7 +2,7 @@
 layout: post
 title: 'Kitchen Craft - Papelera a Pedal para Co al 33.73 % de descuento'
 date: 2020-09-12 21:56:22
-image: 'https://m.media-amazon.com/images/I/31xx-LIS7UL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31xx-LIS7UL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.52'
 
 Está [Kitchen Craft - Papelera a Pedal para Compost  3 L ](https://www.amazon.es/dp/B004VQXPK6/?tag=tolees-21) con 33.73 de descuento por 14.52 EUR (original: 21.91 EUR) en el siguiente enlace!
 
-[![Kitchen Craft - Papelera a Pedal para Co](https://m.media-amazon.com/images/I/31xx-LIS7UL._SL200_.jpg)](https://www.amazon.es/dp/B004VQXPK6/?tag=tolees-21)
+[![Kitchen Craft - Papelera a Pedal para Co](https://m.media-amazon.com/images/I/31xx-LIS7UL._SL400_.jpg)](https://www.amazon.es/dp/B004VQXPK6/?tag=tolees-21)
 
 ℹ️:
 

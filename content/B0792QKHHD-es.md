@@ -2,7 +2,7 @@
 layout: post
 title: 'HOMCOM Coberizo de Madera de Jardín Case al 32.79 % de descuento'
 date: 2020-08-24 14:34:19
-image: 'https://m.media-amazon.com/images/I/41P04t6TwAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41P04t6TwAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '144.49'
 
 Ahora mismo tienes [HOMCOM Coberizo de Madera de Jardín Caseta para Herramientas 190x79x49 cm Armario de Madera Maciza de Almacenamiento en Patio Gabinete Terraza](https://www.amazon.es/dp/B0792QKHHD/?tag=tolees-21) a 144.49 EUR (original: 214.99 EUR) (32.79 %  de descuento) en el siguiente enlace!
 
-[![HOMCOM Coberizo de Madera de Jardín Case](https://m.media-amazon.com/images/I/41P04t6TwAL._SL200_.jpg)](https://www.amazon.es/dp/B0792QKHHD/?tag=tolees-21)
+[![HOMCOM Coberizo de Madera de Jardín Case](https://m.media-amazon.com/images/I/41P04t6TwAL._SL400_.jpg)](https://www.amazon.es/dp/B0792QKHHD/?tag=tolees-21)
 
 🔎:
 

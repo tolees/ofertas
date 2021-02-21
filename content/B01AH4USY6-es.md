@@ -2,7 +2,7 @@
 layout: post
 title: 'Cruzado Azul - M/L al 44.01 % de descuento'
 date: 2020-02-20 12:39:32
-image: 'https://m.media-amazon.com/images/I/31gxvSh02dL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31gxvSh02dL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.18'
 
 Está [Cruzado Azul - M/L](https://www.amazon.es/dp/B01AH4USY6/?tag=tolees-21) con 44.01 de descuento por 16.18 EUR (original: 28.9 EUR) en el siguiente enlace!
 
-[![Cruzado Azul - M/L](https://m.media-amazon.com/images/I/31gxvSh02dL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01AH4USY6/?tag=tolees-21)
+[![Cruzado Azul - M/L](https://m.media-amazon.com/images/I/31gxvSh02dL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01AH4USY6/?tag=tolees-21)
 
 ℹ️:
 

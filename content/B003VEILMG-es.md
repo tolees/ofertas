@@ -2,7 +2,7 @@
 layout: post
 title: 'Bosch Professional Bosch GSR 12V-15 Prof con un 39.87 % de descuento'
 date: 2020-04-27 16:05:09
-image: 'https://m.media-amazon.com/images/I/411+pnQw0wL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/411+pnQw0wL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '66.98'
 
 En este momento está [Bosch Professional Bosch GSR 12V-15 Professional-Atornillador batería ni Cargador  12V /0601868101  230 W  12 V  Negro  Azul  Rojo  Plata](https://www.amazon.es/dp/B003VEILMG/?tag=tolees-21) a 64.75 EUR (original: 107.69 EUR) (39.87 %  de descuento) en el siguiente enlace!
 
-[![Bosch Professional Bosch GSR 12V-15 Prof](https://m.media-amazon.com/images/I/411+pnQw0wL._SL200_.jpg)](https://www.amazon.es/dp/B003VEILMG/?tag=tolees-21)
+[![Bosch Professional Bosch GSR 12V-15 Prof](https://m.media-amazon.com/images/I/411+pnQw0wL._SL400_.jpg)](https://www.amazon.es/dp/B003VEILMG/?tag=tolees-21)
 
 🔎:
 

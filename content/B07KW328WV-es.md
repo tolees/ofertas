@@ -2,7 +2,7 @@
 layout: post
 title: 'RFIVER 2 Taburetes Altos de Bar Cafe en  con un 50.00 % de descuento'
 date: 2020-04-21 12:10:10
-image: 'https://m.media-amazon.com/images/I/41vsdJVA+fL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41vsdJVA+fL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '119.99'
 
 En este momento está [RFIVER 2 Taburetes Altos de Bar Cafe en Cuero para Comedor Salón Cocina Marrón Vintage BS1004](https://www.amazon.es/dp/B07KW328WV/?tag=tolees-21) a 119.99 EUR (original: 239.99 EUR) (50.00 %  de descuento) en el siguiente enlace!
 
-[![RFIVER 2 Taburetes Altos de Bar Cafe en ](https://m.media-amazon.com/images/I/41vsdJVA+fL._SL200_.jpg)](https://www.amazon.es/dp/B07KW328WV/?tag=tolees-21)
+[![RFIVER 2 Taburetes Altos de Bar Cafe en ](https://m.media-amazon.com/images/I/41vsdJVA+fL._SL400_.jpg)](https://www.amazon.es/dp/B07KW328WV/?tag=tolees-21)
 
 🔎:
 

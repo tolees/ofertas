@@ -2,7 +2,7 @@
 layout: post
 title: 'NYK1 Champu Sin Sulfatos Y Acondicionado al 25.01 % de descuento'
 date: 2020-06-15 08:12:06
-image: 'https://m.media-amazon.com/images/I/41IYbWUlMML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41IYbWUlMML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.970000000000002'
 
 Ahora mismo tienes [NYK1 Champu Sin Sulfatos Y Acondicionador - Champu Sin Sulfatos Ni Parabenos ni Siliconas  500ml x2  Post Keratina Alisado Brasileño Tratamiento Keratina Y Un Cabello De Colores Champu Sin Sal](https://www.amazon.es/dp/B01LLT7AKG/?tag=tolees-21) a 29.96 EUR (original: 39.95 EUR) (25.01 %  de descuento) en el siguiente enlace!
 
-[![NYK1 Champu Sin Sulfatos Y Acondicionado](https://m.media-amazon.com/images/I/41IYbWUlMML._SL200_.jpg)](https://www.amazon.es/dp/B01LLT7AKG/?tag=tolees-21)
+[![NYK1 Champu Sin Sulfatos Y Acondicionado](https://m.media-amazon.com/images/I/41IYbWUlMML._SL400_.jpg)](https://www.amazon.es/dp/B01LLT7AKG/?tag=tolees-21)
 
 🔎:
 

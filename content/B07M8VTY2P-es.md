@@ -2,7 +2,7 @@
 layout: post
 title: 'Morph Adulto Iluminarse Screaming Payaso al 29.50 % de descuento'
 date: 2020-10-08 17:41:52
-image: 'https://m.media-amazon.com/images/I/31bC2985lyL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31bC2985lyL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.95'
 
 Ahora mismo tienes [Morph Adulto Iluminarse Screaming Payaso del Demonio Hallowen LED Media máscara](https://www.amazon.es/dp/B07M8VTY2P/?tag=tolees-21) a 11.95 EUR (original: 16.95 EUR) (29.50 %  de descuento) en el siguiente enlace!
 
-[![Morph Adulto Iluminarse Screaming Payaso](https://m.media-amazon.com/images/I/31bC2985lyL._SL200_.jpg)](https://www.amazon.es/dp/B07M8VTY2P/?tag=tolees-21)
+[![Morph Adulto Iluminarse Screaming Payaso](https://m.media-amazon.com/images/I/31bC2985lyL._SL400_.jpg)](https://www.amazon.es/dp/B07M8VTY2P/?tag=tolees-21)
 
 🔎:
 

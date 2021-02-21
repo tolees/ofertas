@@ -2,7 +2,7 @@
 layout: post
 title: 'Metronic 477144 - Radio CD-mp3 y Reprodu al 34.01 % de descuento'
 date: 2020-08-29 12:33:45
-image: 'https://m.media-amazon.com/images/I/511wj0FZrYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/511wj0FZrYL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '35.48166666666667'
 
 Ahora mismo tienes [Metronic 477144 - Radio CD-mp3 y Reproductor de CD portátil con Toma USB/SD  Radio FM  con Salida Jack 3.5mm  3w  Jungle Blanco/Verde.](https://www.amazon.es/dp/B076DFY62W/?tag=tolees-21) a 29.69 EUR (original: 44.99 EUR) (34.01 %  de descuento) en el siguiente enlace!
 
-[![Metronic 477144 - Radio CD-mp3 y Reprodu](https://m.media-amazon.com/images/I/511wj0FZrYL._SL200_.jpg)](https://www.amazon.es/dp/B076DFY62W/?tag=tolees-21)
+[![Metronic 477144 - Radio CD-mp3 y Reprodu](https://m.media-amazon.com/images/I/511wj0FZrYL._SL400_.jpg)](https://www.amazon.es/dp/B076DFY62W/?tag=tolees-21)
 
 🔎:
 

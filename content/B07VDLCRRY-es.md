@@ -2,7 +2,7 @@
 layout: post
 title: '00119 XuanPad al 75.45 % de descuento'
 date: 2020-03-10 11:52:59
-image: 'https://m.media-amazon.com/images/I/41d3O9hUiCL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41d3O9hUiCL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '45.66'
 
 Ahora mismo tienes [00119 XuanPad](https://www.amazon.es/dp/B07VDLCRRY/?tag=tolees-21) a 45.66 EUR (original: 186.0 EUR) (75.45 %  de descuento) en el siguiente enlace!
 
-[![00119 XuanPad](https://m.media-amazon.com/images/I/41d3O9hUiCL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07VDLCRRY/?tag=tolees-21)
+[![00119 XuanPad](https://m.media-amazon.com/images/I/41d3O9hUiCL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07VDLCRRY/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Dormio Zafiro - Colchón viscoelástico  B al 44.84 % de descuento'
 date: 2020-04-03 07:02:46
-image: 'https://m.media-amazon.com/images/I/31CVSnuHxKL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31CVSnuHxKL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '79.59'
 
 Está [Dormio Zafiro - Colchón viscoelástico  Blanco  105 x 200 x 21 cm](https://www.amazon.es/dp/B016AFQG1K/?tag=tolees-21) con 44.84 de descuento por 79.59 EUR (original: 144.3 EUR) en el siguiente enlace!
 
-[![Dormio Zafiro - Colchón viscoelástico  B](https://m.media-amazon.com/images/I/31CVSnuHxKL._SL200_.jpg)](https://www.amazon.es/dp/B016AFQG1K/?tag=tolees-21)
+[![Dormio Zafiro - Colchón viscoelástico  B](https://m.media-amazon.com/images/I/31CVSnuHxKL._SL400_.jpg)](https://www.amazon.es/dp/B016AFQG1K/?tag=tolees-21)
 
 ℹ️:
 

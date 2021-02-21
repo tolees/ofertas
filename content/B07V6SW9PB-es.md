@@ -2,7 +2,7 @@
 layout: post
 title: 'Kipling Travel Doc Wrist Cartera para Pa al 30.00 % de rebaja'
 date: 2020-09-24 11:28:36
-image: 'https://m.media-amazon.com/images/I/51hFeJbtCJL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51hFeJbtCJL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.425'
 
 Tienes [Kipling Travel Doc Wrist Cartera para Pasaporte  23 cm  1 Liters  Negro  Charcoal ](https://www.amazon.es/dp/B07V6SW9PB/?tag=tolees-21) con precio final de  27.3 EUR (original: 39.0 EUR) (30.00 %  de rebaja) aqui!
 
-[![Kipling Travel Doc Wrist Cartera para Pa](https://m.media-amazon.com/images/I/51hFeJbtCJL._SL200_.jpg)](https://www.amazon.es/dp/B07V6SW9PB/?tag=tolees-21)
+[![Kipling Travel Doc Wrist Cartera para Pa](https://m.media-amazon.com/images/I/51hFeJbtCJL._SL400_.jpg)](https://www.amazon.es/dp/B07V6SW9PB/?tag=tolees-21)
 
 🔎:
 

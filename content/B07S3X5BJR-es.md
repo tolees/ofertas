@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 63.82 % en New Balance Fresh Foam Tempo m  Zapatill'
 date: 2020-09-08 00:47:24
-image: 'https://m.media-amazon.com/images/I/41eCazETwYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41eCazETwYL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '44.485'
 
 Tienes [New Balance Fresh Foam Tempo m  Zapatillas de Running para Mujer  Negro  Black B   42.5 EU](https://www.amazon.es/dp/B07S3X5BJR/?tag=tolees-21) con un 63.82 % de descuento con precio de oferta de 47.03 EUR (original: 130.0 EUR) en el siguiente enlace!
 
-[![New Balance Fresh Foam Tempo m  Zapatill](https://m.media-amazon.com/images/I/41eCazETwYL._SL200_.jpg)](https://www.amazon.es/dp/B07S3X5BJR/?tag=tolees-21)
+[![New Balance Fresh Foam Tempo m  Zapatill](https://m.media-amazon.com/images/I/41eCazETwYL._SL400_.jpg)](https://www.amazon.es/dp/B07S3X5BJR/?tag=tolees-21)
 
 ℹ️:
 

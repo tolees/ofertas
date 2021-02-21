@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 48.34 % en Iams refrigerios para gatos liofilizados'
 date: 2020-02-01 12:25:21
-image: 'https://m.media-amazon.com/images/I/41yB0Mv4S8L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41yB0Mv4S8L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.77'
 
 Tienes [Iams refrigerios para gatos liofilizados  sin granos  paquete de 4X25 g](https://www.amazon.es/dp/B07TZ3JZL5/?tag=tolees-21) con un 48.34 % de descuento con precio de oferta de 7.77 EUR (original: 15.04 EUR) en el siguiente enlace!
 
-[![Iams refrigerios para gatos liofilizados](https://m.media-amazon.com/images/I/41yB0Mv4S8L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07TZ3JZL5/?tag=tolees-21)
+[![Iams refrigerios para gatos liofilizados](https://m.media-amazon.com/images/I/41yB0Mv4S8L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07TZ3JZL5/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Aomekie Correa de hombro con cuello de c con un 35.02 % de descuento'
 date: 2020-05-10 15:03:51
-image: 'https://m.media-amazon.com/images/I/41ICgL5EHqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ICgL5EHqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.99'
 
 En este momento está [Aomekie Correa de hombro con cuello de cámara  correa de hombro doble](https://www.amazon.es/dp/B07L3VCT8G/?tag=tolees-21) a 12.99 EUR (original: 19.99 EUR) (35.02 %  de descuento) en el siguiente enlace!
 
-[![Aomekie Correa de hombro con cuello de c](https://m.media-amazon.com/images/I/41ICgL5EHqL._SL200_.jpg)](https://www.amazon.es/dp/B07L3VCT8G/?tag=tolees-21)
+[![Aomekie Correa de hombro con cuello de c](https://m.media-amazon.com/images/I/41ICgL5EHqL._SL400_.jpg)](https://www.amazon.es/dp/B07L3VCT8G/?tag=tolees-21)
 
 🔎:
 

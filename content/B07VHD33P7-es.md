@@ -2,7 +2,7 @@
 layout: post
 title: 'Teslagrad - Value Pack al 51.24 % de descuento'
 date: 2020-01-21 18:07:47
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51q4F1GKSkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51q4F1GKSkL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '38.848'
 
 Ahora mismo tienes [Teslagrad - Value Pack](https://www.amazon.es/dp/B07VHD33P7/?tag=tolees-21) a 28.49 EUR (original: 58.43 EUR) (51.24 %  de descuento) en el siguiente enlace!
 
-[![Teslagrad - Value Pack](https://images-eu.ssl-images-amazon.com/images/I/51q4F1GKSkL._SL200_.jpg)](https://www.amazon.es/dp/B07VHD33P7/?tag=tolees-21)
+[![Teslagrad - Value Pack](https://images-eu.ssl-images-amazon.com/images/I/51q4F1GKSkL._SL400_.jpg)](https://www.amazon.es/dp/B07VHD33P7/?tag=tolees-21)
 
 🔎:
 

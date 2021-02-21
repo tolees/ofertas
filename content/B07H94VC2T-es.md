@@ -2,7 +2,7 @@
 layout: post
 title: 'YAZILIND Encaje Flor Halloween Masquerad al 55.46 % de descuento'
 date: 2020-07-03 14:32:59
-image: 'https://m.media-amazon.com/images/I/51D+TF106ZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51D+TF106ZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.49'
 
 Ahora mismo tienes [YAZILIND Encaje Flor Halloween Masquerade Disfraces Fiesta máscara Mardi Gras Noche Prom Fiesta máscaras  Amarillo 1 ](https://www.amazon.es/dp/B07H94VC2T/?tag=tolees-21) a 2.49 EUR (original: 5.59 EUR) (55.46 %  de descuento) en el siguiente enlace!
 
-[![YAZILIND Encaje Flor Halloween Masquerad](https://m.media-amazon.com/images/I/51D+TF106ZL._SL200_.jpg)](https://www.amazon.es/dp/B07H94VC2T/?tag=tolees-21)
+[![YAZILIND Encaje Flor Halloween Masquerad](https://m.media-amazon.com/images/I/51D+TF106ZL._SL400_.jpg)](https://www.amazon.es/dp/B07H94VC2T/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Superdry Applique Ziphood Capucha  Rosa  con un 58.70 % de descuento'
 date: 2020-03-22 10:20:04
-image: 'https://m.media-amazon.com/images/I/41t-soB8nfL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41t-soB8nfL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '37.17'
 
 En este momento está [Superdry Applique Ziphood Capucha  Rosa  Smoke Rose L6y   X-Small para Mujer](https://www.amazon.es/dp/B07NZ2D3BV/?tag=tolees-21) a 37.17 EUR (original: 89.99 EUR) (58.70 %  de descuento) en el siguiente enlace!
 
-[![Superdry Applique Ziphood Capucha  Rosa ](https://m.media-amazon.com/images/I/41t-soB8nfL._SL200_.jpg)](https://www.amazon.es/dp/B07NZ2D3BV/?tag=tolees-21)
+[![Superdry Applique Ziphood Capucha  Rosa ](https://m.media-amazon.com/images/I/41t-soB8nfL._SL400_.jpg)](https://www.amazon.es/dp/B07NZ2D3BV/?tag=tolees-21)
 
 🔎:
 

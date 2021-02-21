@@ -2,7 +2,7 @@
 layout: post
 title: 'Funko 30697 Pop! Vinilo: alquimista metá al 37.88 % de descuento'
 date: 2020-02-23 17:35:32
-image: 'https://m.media-amazon.com/images/I/41pVXiq7WLL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41pVXiq7WLL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.38'
 
 Está [Funko 30697 Pop! Vinilo: alquimista metálico Completo: Ed  Multi](https://www.amazon.es/dp/B07DFCXD1H/?tag=tolees-21) con 37.88 de descuento por 9.38 EUR (original: 15.1 EUR) en el siguiente enlace!
 
-[![Funko 30697 Pop! Vinilo: alquimista metá](https://m.media-amazon.com/images/I/41pVXiq7WLL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07DFCXD1H/?tag=tolees-21)
+[![Funko 30697 Pop! Vinilo: alquimista metá](https://m.media-amazon.com/images/I/41pVXiq7WLL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07DFCXD1H/?tag=tolees-21)
 
 ℹ️:
 

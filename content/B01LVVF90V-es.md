@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 29.39 % en Apple iPhone 7 - Smartphone de 4.7"  32 '
 date: 2020-05-09 16:57:48
-image: 'https://m.media-amazon.com/images/I/41sKWFz7+5L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41sKWFz7+5L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '350.13000000000005'
 
 Tienes [Apple iPhone 7 - Smartphone de 4.7"  32 GB  oro rosa](https://www.amazon.es/dp/B01LVVF90V/?tag=tolees-21) con un 29.39 % de descuento con precio de oferta de 309.99 EUR (original: 439.0 EUR) en el siguiente enlace!
 
-[![Apple iPhone 7 - Smartphone de 4.7"  32 ](https://m.media-amazon.com/images/I/41sKWFz7+5L._SL200_.jpg)](https://www.amazon.es/dp/B01LVVF90V/?tag=tolees-21)
+[![Apple iPhone 7 - Smartphone de 4.7"  32 ](https://m.media-amazon.com/images/I/41sKWFz7+5L._SL400_.jpg)](https://www.amazon.es/dp/B01LVVF90V/?tag=tolees-21)
 
 ℹ️:
 

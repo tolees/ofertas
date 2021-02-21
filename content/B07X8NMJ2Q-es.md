@@ -2,7 +2,7 @@
 layout: post
 title: 'GGMM Base de batería para Dot de 3ª gene al 32.01 % de descuento'
 date: 2020-05-24 11:10:04
-image: 'https://m.media-amazon.com/images/I/51uc1LpW4wL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51uc1LpW4wL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '32.32333333333334'
 
 Ahora mismo tienes [GGMM Base de batería para Dot de 3ª generación y Altavoces Inteligentes  blanco](https://www.amazon.es/dp/B07X8NMJ2Q/?tag=tolees-21) a 33.99 EUR (original: 49.99 EUR) (32.01 %  de descuento) en el siguiente enlace!
 
-[![GGMM Base de batería para Dot de 3ª gene](https://m.media-amazon.com/images/I/51uc1LpW4wL._SL200_.jpg)](https://www.amazon.es/dp/B07X8NMJ2Q/?tag=tolees-21)
+[![GGMM Base de batería para Dot de 3ª gene](https://m.media-amazon.com/images/I/51uc1LpW4wL._SL400_.jpg)](https://www.amazon.es/dp/B07X8NMJ2Q/?tag=tolees-21)
 
 🔎:
 

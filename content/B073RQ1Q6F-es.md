@@ -2,7 +2,7 @@
 layout: post
 title: 'Helly Hansen Classic Duffel Bag Bolsa De al 50.00 % de descuento'
 date: 2020-05-08 06:29:23
-image: 'https://m.media-amazon.com/images/I/41mkGezwdGL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41mkGezwdGL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '54.134'
 
 Está [Helly Hansen Classic Duffel Bag Bolsa Deportiva versátil y Duradera  Unisex Adulto  Negro  M  70 litros ](https://www.amazon.es/dp/B073RQ1Q6F/?tag=tolees-21) con 50.00 de descuento por 50.0 EUR (original: 100.0 EUR) en el siguiente enlace!
 
-[![Helly Hansen Classic Duffel Bag Bolsa De](https://m.media-amazon.com/images/I/41mkGezwdGL._SL200_.jpg)](https://www.amazon.es/dp/B073RQ1Q6F/?tag=tolees-21)
+[![Helly Hansen Classic Duffel Bag Bolsa De](https://m.media-amazon.com/images/I/41mkGezwdGL._SL400_.jpg)](https://www.amazon.es/dp/B073RQ1Q6F/?tag=tolees-21)
 
 ℹ️:
 

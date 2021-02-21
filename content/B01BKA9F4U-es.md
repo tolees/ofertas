@@ -2,7 +2,7 @@
 layout: post
 title: 'Festina Reloj Analógico para Unisex de C al 56.16 % de rebaja'
 date: 2020-04-01 15:06:41
-image: 'https://m.media-amazon.com/images/I/41e0rAAjOXL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41e0rAAjOXL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '55.22'
 
 Tienes [Festina Reloj Analógico para Unisex de Cuarzo con Correa en Acero Inoxidable F16907/2](https://www.amazon.es/dp/B01BKA9F4U/?tag=tolees-21) con precio final de  34.63 EUR (original: 79.0 EUR) (56.16 %  de rebaja) aqui!
 
-[![Festina Reloj Analógico para Unisex de C](https://m.media-amazon.com/images/I/41e0rAAjOXL._SL200_.jpg)](https://www.amazon.es/dp/B01BKA9F4U/?tag=tolees-21)
+[![Festina Reloj Analógico para Unisex de C](https://m.media-amazon.com/images/I/41e0rAAjOXL._SL400_.jpg)](https://www.amazon.es/dp/B01BKA9F4U/?tag=tolees-21)
 
 🔎:
 

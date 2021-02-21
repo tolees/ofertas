@@ -2,7 +2,7 @@
 layout: post
 title: 'Crocs Crocband Rain Boot Kids  Botas de  al 55.16 % de rebaja'
 date: 2020-02-15 10:02:35
-image: 'https://m.media-amazon.com/images/I/31YxPpLUElL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31YxPpLUElL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.69'
 
 Tienes [Crocs Crocband Rain Boot Kids  Botas de Agua Unisex Niños  Amarillo  Yellow/Navy 734   27/28 EU](https://www.amazon.es/dp/B07JG4CLLL/?tag=tolees-21) con precio final de  15.69 EUR (original: 34.99 EUR) (55.16 %  de rebaja) aqui!
 
-[![Crocs Crocband Rain Boot Kids  Botas de ](https://m.media-amazon.com/images/I/31YxPpLUElL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07JG4CLLL/?tag=tolees-21)
+[![Crocs Crocband Rain Boot Kids  Botas de ](https://m.media-amazon.com/images/I/31YxPpLUElL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07JG4CLLL/?tag=tolees-21)
 
 🔎:
 

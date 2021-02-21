@@ -2,7 +2,7 @@
 layout: post
 title: 'SALVADO AVENA 500 gr al 37.23 % de descuento'
 date: 2020-09-07 18:43:35
-image: 'https://m.media-amazon.com/images/I/41GN0UQrXcL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41GN0UQrXcL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.45'
 
 Ahora mismo tienes [SALVADO AVENA 500 gr](https://www.amazon.es/dp/B00DN9L7RK/?tag=tolees-21) a 1.45 EUR (original: 2.31 EUR) (37.23 %  de descuento) en el siguiente enlace!
 
-[![SALVADO AVENA 500 gr](https://m.media-amazon.com/images/I/41GN0UQrXcL._SL200_.jpg)](https://www.amazon.es/dp/B00DN9L7RK/?tag=tolees-21)
+[![SALVADO AVENA 500 gr](https://m.media-amazon.com/images/I/41GN0UQrXcL._SL400_.jpg)](https://www.amazon.es/dp/B00DN9L7RK/?tag=tolees-21)
 
 🔎:
 

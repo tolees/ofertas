@@ -2,7 +2,7 @@
 layout: post
 title: 'perfk Enrutador Móvil 4g  Punto de Acces al 38.10 % de descuento'
 date: 2020-05-27 11:02:45
-image: 'https://m.media-amazon.com/images/I/41CNhQSFC7L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41CNhQSFC7L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '47.34'
 
 Ahora mismo tienes [perfk Enrutador Móvil 4g  Punto de Acceso Móvil WiFi para Viajes 2000mah - LTE CAT4 - Azul](https://www.amazon.es/dp/B07X7Z87BM/?tag=tolees-21) a 47.34 EUR (original: 76.48 EUR) (38.10 %  de descuento) en el siguiente enlace!
 
-[![perfk Enrutador Móvil 4g  Punto de Acces](https://m.media-amazon.com/images/I/41CNhQSFC7L._SL200_.jpg)](https://www.amazon.es/dp/B07X7Z87BM/?tag=tolees-21)
+[![perfk Enrutador Móvil 4g  Punto de Acces](https://m.media-amazon.com/images/I/41CNhQSFC7L._SL400_.jpg)](https://www.amazon.es/dp/B07X7Z87BM/?tag=tolees-21)
 
 🔎:
 

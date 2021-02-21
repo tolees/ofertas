@@ -2,7 +2,7 @@
 layout: post
 title: 'Capitán América -Riñonera TPU al 55.95 % de rebaja'
 date: 2020-01-16 16:14:45
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41pOetwWVVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41pOetwWVVL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.25'
 
 Tienes [Capitán América -Riñonera TPU](https://www.amazon.es/dp/B0811ZHX9L/?tag=tolees-21) con precio final de  8.25 EUR (original: 18.73 EUR) (55.95 %  de rebaja) aqui!
 
-[![Capitán América -Riñonera TPU](https://images-eu.ssl-images-amazon.com/images/I/41pOetwWVVL._SL200_.jpg)](https://www.amazon.es/dp/B0811ZHX9L/?tag=tolees-21)
+[![Capitán América -Riñonera TPU](https://images-eu.ssl-images-amazon.com/images/I/41pOetwWVVL._SL400_.jpg)](https://www.amazon.es/dp/B0811ZHX9L/?tag=tolees-21)
 
 🔎:
 

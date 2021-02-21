@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 35.96 % en Msi DS B1 Ratón  Black'
 date: 2020-09-28 20:02:43
-image: 'https://m.media-amazon.com/images/I/41L1FpG0+8L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41L1FpG0+8L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.59909090909091'
 
 Tienes [Msi DS B1 Ratón  Black](https://www.amazon.es/dp/B016OBVI0E/?tag=tolees-21) con un 35.96 % de descuento con precio de oferta de 17.86 EUR (original: 27.89 EUR) en el siguiente enlace!
 
-[![Msi DS B1 Ratón  Black](https://m.media-amazon.com/images/I/41L1FpG0+8L._SL200_.jpg)](https://www.amazon.es/dp/B016OBVI0E/?tag=tolees-21)
+[![Msi DS B1 Ratón  Black](https://m.media-amazon.com/images/I/41L1FpG0+8L._SL400_.jpg)](https://www.amazon.es/dp/B016OBVI0E/?tag=tolees-21)
 
 ℹ️:
 

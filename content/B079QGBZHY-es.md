@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s 502 Regular Taper Jeans  Azul  St al 47.93 % de rebaja'
 date: 2020-06-23 08:44:06
-image: 'https://m.media-amazon.com/images/I/41P7nV9YP9L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41P7nV9YP9L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '47.55833333333334'
 
 Tienes [Levi s 502 Regular Taper Jeans  Azul  Stonewash 95978 0182   31W / 32L para Hombre](https://www.amazon.es/dp/B079QGBZHY/?tag=tolees-21) con precio final de  46.86 EUR (original: 90.0 EUR) (47.93 %  de rebaja) aqui!
 
-[![Levi s 502 Regular Taper Jeans  Azul  St](https://m.media-amazon.com/images/I/41P7nV9YP9L._SL200_.jpg)](https://www.amazon.es/dp/B079QGBZHY/?tag=tolees-21)
+[![Levi s 502 Regular Taper Jeans  Azul  St](https://m.media-amazon.com/images/I/41P7nV9YP9L._SL400_.jpg)](https://www.amazon.es/dp/B079QGBZHY/?tag=tolees-21)
 
 🔎:
 

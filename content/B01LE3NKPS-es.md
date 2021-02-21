@@ -2,7 +2,7 @@
 layout: post
 title: 'Testosterol 250 - 30 caps by MEGABOL con un 29.63 % de descuento'
 date: 2020-07-04 17:06:47
-image: 'https://m.media-amazon.com/images/I/319RSt0bNpL._SL500_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/319RSt0bNpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.15'
 
 En este momento está [Testosterol 250 - 30 caps by MEGABOL](https://www.amazon.es/dp/B01LE3NKPS/?tag=tolees-21) a 6.15 EUR (original: 8.74 EUR) (29.63 %  de descuento) en el siguiente enlace!
 
-[![Testosterol 250 - 30 caps by MEGABOL](https://m.media-amazon.com/images/I/319RSt0bNpL._SL500_._SL200_.jpg)](https://www.amazon.es/dp/B01LE3NKPS/?tag=tolees-21)
+[![Testosterol 250 - 30 caps by MEGABOL](https://m.media-amazon.com/images/I/319RSt0bNpL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B01LE3NKPS/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Adidas Terrex AX3 GTX W  Zapatillas de D con un 41.68 % de descuento'
 date: 2020-01-23 19:53:08
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41zxx4cDDkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41zxx4cDDkL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '69.95'
 
 En este momento está [Adidas Terrex AX3 GTX W  Zapatillas de Deporte para Mujer  Gris  Grey/Core Black/Clear Mint 0   37 1/3 EU](https://www.amazon.es/dp/B07L4ZT3H8/?tag=tolees-21) a 69.95 EUR (original: 119.95 EUR) (41.68 %  de descuento) en el siguiente enlace!
 
-[![Adidas Terrex AX3 GTX W  Zapatillas de D](https://images-eu.ssl-images-amazon.com/images/I/41zxx4cDDkL._SL200_.jpg)](https://www.amazon.es/dp/B07L4ZT3H8/?tag=tolees-21)
+[![Adidas Terrex AX3 GTX W  Zapatillas de D](https://images-eu.ssl-images-amazon.com/images/I/41zxx4cDDkL._SL400_.jpg)](https://www.amazon.es/dp/B07L4ZT3H8/?tag=tolees-21)
 
 🔎:
 

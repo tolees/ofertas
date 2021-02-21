@@ -2,7 +2,7 @@
 layout: post
 title: 'Maybelline New York Super Stay 24H Barra al 31.10 % de descuento'
 date: 2020-01-12 02:48:47
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31hvSoBC8fL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31hvSoBC8fL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.7'
 
 Está [Maybelline New York Super Stay 24H Barra de Labios 353 - 1 Barra de Labios](https://www.amazon.es/dp/B01N6H5Z6O/?tag=tolees-21) con 31.10 de descuento por 8.95 EUR (original: 12.99 EUR) en el siguiente enlace!
 
-[![Maybelline New York Super Stay 24H Barra](https://images-eu.ssl-images-amazon.com/images/I/31hvSoBC8fL._SL200_.jpg)](https://www.amazon.es/dp/B01N6H5Z6O/?tag=tolees-21)
+[![Maybelline New York Super Stay 24H Barra](https://images-eu.ssl-images-amazon.com/images/I/31hvSoBC8fL._SL400_.jpg)](https://www.amazon.es/dp/B01N6H5Z6O/?tag=tolees-21)
 
 ℹ️:
 

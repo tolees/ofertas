@@ -2,7 +2,7 @@
 layout: post
 title: 'Havaianas Origine Slim  Alpargatas para  al 80.81 % de descuento'
 date: 2020-02-03 22:37:39
-image: 'https://m.media-amazon.com/images/I/31JpLdSLoVL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31JpLdSLoVL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.89'
 
 Está [Havaianas Origine Slim  Alpargatas para Mujer  Negro  Black   35 EU  33 Brazilian ](https://www.amazon.es/dp/B01L41ACNS/?tag=tolees-21) con 80.81 de descuento por 6.89 EUR (original: 35.9 EUR) en el siguiente enlace!
 
-[![Havaianas Origine Slim  Alpargatas para ](https://m.media-amazon.com/images/I/31JpLdSLoVL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01L41ACNS/?tag=tolees-21)
+[![Havaianas Origine Slim  Alpargatas para ](https://m.media-amazon.com/images/I/31JpLdSLoVL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01L41ACNS/?tag=tolees-21)
 
 ℹ️:
 

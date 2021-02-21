@@ -2,7 +2,7 @@
 layout: post
 title: 'Bourjois Rouge Fabuleux Barra De Labios  al 53.45 % de rebaja'
 date: 2020-02-23 05:33:29
-image: 'https://m.media-amazon.com/images/I/31x0FWrhoiL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31x0FWrhoiL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.75'
 
 Tienes [Bourjois Rouge Fabuleux Barra De Labios  Tono 010 Scarlet it be  Gama rojos  - 23 gr.](https://www.amazon.es/dp/B07H91CGG9/?tag=tolees-21) con precio final de  6.75 EUR (original: 14.5 EUR) (53.45 %  de rebaja) aqui!
 
-[![Bourjois Rouge Fabuleux Barra De Labios ](https://m.media-amazon.com/images/I/31x0FWrhoiL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07H91CGG9/?tag=tolees-21)
+[![Bourjois Rouge Fabuleux Barra De Labios ](https://m.media-amazon.com/images/I/31x0FWrhoiL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07H91CGG9/?tag=tolees-21)
 
 🔎:
 

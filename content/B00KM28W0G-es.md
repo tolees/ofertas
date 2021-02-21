@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 29.29 % en Semillas Hortícolas - Berenjena redonda '
 date: 2020-10-07 11:09:25
-image: 'https://m.media-amazon.com/images/I/51wX0rI0zaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51wX0rI0zaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '0.99'
 
 Tienes [Semillas Hortícolas - Berenjena redonda negra Black Beauty - Batlle](https://www.amazon.es/dp/B00KM28W0G/?tag=tolees-21) con un 29.29 % de descuento con precio de oferta de 0.99 EUR (original: 1.4 EUR) en el siguiente enlace!
 
-[![Semillas Hortícolas - Berenjena redonda ](https://m.media-amazon.com/images/I/51wX0rI0zaL._SL200_.jpg)](https://www.amazon.es/dp/B00KM28W0G/?tag=tolees-21)
+[![Semillas Hortícolas - Berenjena redonda ](https://m.media-amazon.com/images/I/51wX0rI0zaL._SL400_.jpg)](https://www.amazon.es/dp/B00KM28W0G/?tag=tolees-21)
 
 ℹ️:
 

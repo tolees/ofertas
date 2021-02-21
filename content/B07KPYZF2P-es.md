@@ -2,7 +2,7 @@
 layout: post
 title: 'AXT SHADE Toldo Vela de Sombra Rectangul al 32.51 % de descuento'
 date: 2020-03-04 19:11:28
-image: 'https://m.media-amazon.com/images/I/51EpaA4GO8L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51EpaA4GO8L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '26.99'
 
 Ahora mismo tienes [AXT SHADE Toldo Vela de Sombra Rectangular 2 x 3 m  protección Rayos UV Impermeable para Patio  Exteriores  Jardín  Color Crema](https://www.amazon.es/dp/B07KPYZF2P/?tag=tolees-21) a 26.99 EUR (original: 39.99 EUR) (32.51 %  de descuento) en el siguiente enlace!
 
-[![AXT SHADE Toldo Vela de Sombra Rectangul](https://m.media-amazon.com/images/I/51EpaA4GO8L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07KPYZF2P/?tag=tolees-21)
+[![AXT SHADE Toldo Vela de Sombra Rectangul](https://m.media-amazon.com/images/I/51EpaA4GO8L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07KPYZF2P/?tag=tolees-21)
 
 🔎:
 

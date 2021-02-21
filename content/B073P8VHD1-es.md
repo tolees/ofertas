@@ -2,7 +2,7 @@
 layout: post
 title: 'FIRENZE ARTEGIANI.Bolso Tote de Mujer Pi al 64.29 % de descuento'
 date: 2020-10-07 18:12:10
-image: 'https://m.media-amazon.com/images/I/51azoHBGMgL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51azoHBGMgL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '49.99'
 
 Está [FIRENZE ARTEGIANI.Bolso Tote de Mujer Piel auténtica.Bolso Mujer Cuero Genuino Piel Acabado Grabado Serpiente y Lacado. Made IN Italy. Vera Pelle Italiana. 36x23x15 cm. Color: Marron](https://www.amazon.es/dp/B073P8VHD1/?tag=tolees-21) con 64.29 de descuento por 49.99 EUR (original: 140.0 EUR) en el siguiente enlace!
 
-[![FIRENZE ARTEGIANI.Bolso Tote de Mujer Pi](https://m.media-amazon.com/images/I/51azoHBGMgL._SL200_.jpg)](https://www.amazon.es/dp/B073P8VHD1/?tag=tolees-21)
+[![FIRENZE ARTEGIANI.Bolso Tote de Mujer Pi](https://m.media-amazon.com/images/I/51azoHBGMgL._SL400_.jpg)](https://www.amazon.es/dp/B073P8VHD1/?tag=tolees-21)
 
 ℹ️:
 

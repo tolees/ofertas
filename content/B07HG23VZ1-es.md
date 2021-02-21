@@ -2,7 +2,7 @@
 layout: post
 title: 'New Balance Cm997hv1  Zapatillas para Ho al 40.57 % de descuento'
 date: 2020-04-02 19:29:50
-image: 'https://m.media-amazon.com/images/I/41XVrTdLAOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41XVrTdLAOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '54.102500000000006'
 
 Está [New Balance Cm997hv1  Zapatillas para Hombre  Gris  Grey Grey   44 EU](https://www.amazon.es/dp/B07HG23VZ1/?tag=tolees-21) con 40.57 de descuento por 53.49 EUR (original: 90.0 EUR) en el siguiente enlace!
 
-[![New Balance Cm997hv1  Zapatillas para Ho](https://m.media-amazon.com/images/I/41XVrTdLAOL._SL200_.jpg)](https://www.amazon.es/dp/B07HG23VZ1/?tag=tolees-21)
+[![New Balance Cm997hv1  Zapatillas para Ho](https://m.media-amazon.com/images/I/41XVrTdLAOL._SL400_.jpg)](https://www.amazon.es/dp/B07HG23VZ1/?tag=tolees-21)
 
 ℹ️:
 

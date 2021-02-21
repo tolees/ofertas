@@ -2,7 +2,7 @@
 layout: post
 title: 'PraNaturals Manteca de Karité Hidratante al 35.02 % de descuento'
 date: 2020-05-31 08:04:54
-image: 'https://m.media-amazon.com/images/I/51k77FntSLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51k77FntSLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.49'
 
 Está [PraNaturals Manteca de Karité Hidratante 100% Orgánica 300ml  Protección UV para Todo Tipo de Piel - Reduce el Acné  Cicatrices  Estrías  Celulitis  Eczemas y Piel Seca - Hidrata y Repara Cabello](https://www.amazon.es/dp/B072MMS86H/?tag=tolees-21) con 35.02 de descuento por 12.99 EUR (original: 19.99 EUR) en el siguiente enlace!
 
-[![PraNaturals Manteca de Karité Hidratante](https://m.media-amazon.com/images/I/51k77FntSLL._SL200_.jpg)](https://www.amazon.es/dp/B072MMS86H/?tag=tolees-21)
+[![PraNaturals Manteca de Karité Hidratante](https://m.media-amazon.com/images/I/51k77FntSLL._SL400_.jpg)](https://www.amazon.es/dp/B072MMS86H/?tag=tolees-21)
 
 ℹ️:
 

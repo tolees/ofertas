@@ -2,7 +2,7 @@
 layout: post
 title: 'JACK & JONES Jjipaul Jjflake AKM 542 Oli con un 41.01 % de descuento'
 date: 2020-02-29 14:27:15
-image: 'https://m.media-amazon.com/images/I/41XQUNfdloL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41XQUNfdloL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.49'
 
 En este momento está [JACK & JONES Jjipaul Jjflake AKM 542 Olive Night Noos Pantalones  Verde  W32/L30  Talla del Fabricante: 32  para Hombre](https://www.amazon.es/dp/B07C28HBDF/?tag=tolees-21) a 29.49 EUR (original: 49.99 EUR) (41.01 %  de descuento) en el siguiente enlace!
 
-[![JACK & JONES Jjipaul Jjflake AKM 542 Oli](https://m.media-amazon.com/images/I/41XQUNfdloL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07C28HBDF/?tag=tolees-21)
+[![JACK & JONES Jjipaul Jjflake AKM 542 Oli](https://m.media-amazon.com/images/I/41XQUNfdloL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07C28HBDF/?tag=tolees-21)
 
 🔎:
 

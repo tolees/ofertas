@@ -2,7 +2,7 @@
 layout: post
 title: 'Lee Malone Jeans  True Blue Hq  30W / 34 al 56.41 % de rebaja'
 date: 2020-06-28 11:17:31
-image: 'https://m.media-amazon.com/images/I/41aSjsLA0LL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41aSjsLA0LL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '22.35'
 
 Tienes [Lee Malone Jeans  True Blue Hq  30W / 34L para Hombre](https://www.amazon.es/dp/B07M9QR9FJ/?tag=tolees-21) con precio final de  22.35 EUR (original: 51.27 EUR) (56.41 %  de rebaja) aqui!
 
-[![Lee Malone Jeans  True Blue Hq  30W / 34](https://m.media-amazon.com/images/I/41aSjsLA0LL._SL200_.jpg)](https://www.amazon.es/dp/B07M9QR9FJ/?tag=tolees-21)
+[![Lee Malone Jeans  True Blue Hq  30W / 34](https://m.media-amazon.com/images/I/41aSjsLA0LL._SL400_.jpg)](https://www.amazon.es/dp/B07M9QR9FJ/?tag=tolees-21)
 
 🔎:
 

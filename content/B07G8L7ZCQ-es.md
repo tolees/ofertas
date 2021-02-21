@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas Real 3 Y Kit Conjunto  Unisex niñ al 25.24 % de descuento'
 date: 2020-04-27 10:55:21
-image: 'https://m.media-amazon.com/images/I/415qN7W-bVL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/415qN7W-bVL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '44.66'
 
 Ahora mismo tienes [adidas Real 3 Y Kit Conjunto  Unisex niños  Multicolor  Correa/rojviv   128](https://www.amazon.es/dp/B07G8L7ZCQ/?tag=tolees-21) a 44.85 EUR (original: 59.99 EUR) (25.24 %  de descuento) en el siguiente enlace!
 
-[![adidas Real 3 Y Kit Conjunto  Unisex niñ](https://m.media-amazon.com/images/I/415qN7W-bVL._SL200_.jpg)](https://www.amazon.es/dp/B07G8L7ZCQ/?tag=tolees-21)
+[![adidas Real 3 Y Kit Conjunto  Unisex niñ](https://m.media-amazon.com/images/I/415qN7W-bVL._SL400_.jpg)](https://www.amazon.es/dp/B07G8L7ZCQ/?tag=tolees-21)
 
 🔎:
 

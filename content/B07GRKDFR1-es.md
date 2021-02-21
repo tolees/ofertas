@@ -2,7 +2,7 @@
 layout: post
 title: 'The Division 2: Dark Zone - Collector s  al 66.71 % de descuento'
 date: 2020-01-27 10:38:40
-image: 'https://m.media-amazon.com/images/I/51te4eVbn5L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51te4eVbn5L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '63.92666666666666'
 
 Está [The Division 2: Dark Zone - Collector s Edition](https://www.amazon.es/dp/B07GRKDFR1/?tag=tolees-21) con 66.71 de descuento por 39.95 EUR (original: 119.99 EUR) en el siguiente enlace!
 
-[![The Division 2: Dark Zone - Collector s ](https://m.media-amazon.com/images/I/51te4eVbn5L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07GRKDFR1/?tag=tolees-21)
+[![The Division 2: Dark Zone - Collector s ](https://m.media-amazon.com/images/I/51te4eVbn5L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07GRKDFR1/?tag=tolees-21)
 
 ℹ️:
 

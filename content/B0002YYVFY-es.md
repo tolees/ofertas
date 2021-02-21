@@ -2,7 +2,7 @@
 layout: post
 title: 'Wolfcraft 2425000 2425000-1 portabroca c al 47.42 % de descuento'
 date: 2020-09-23 15:15:11
-image: 'https://m.media-amazon.com/images/I/41IQXV1RhBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41IQXV1RhBL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.47'
 
 Ahora mismo tienes [Wolfcraft 2425000 2425000-1 portabroca con depósito y Tope de Profundidad](https://www.amazon.es/dp/B0002YYVFY/?tag=tolees-21) a 3.47 EUR (original: 6.6 EUR) (47.42 %  de descuento) en el siguiente enlace!
 
-[![Wolfcraft 2425000 2425000-1 portabroca c](https://m.media-amazon.com/images/I/41IQXV1RhBL._SL200_.jpg)](https://www.amazon.es/dp/B0002YYVFY/?tag=tolees-21)
+[![Wolfcraft 2425000 2425000-1 portabroca c](https://m.media-amazon.com/images/I/41IQXV1RhBL._SL400_.jpg)](https://www.amazon.es/dp/B0002YYVFY/?tag=tolees-21)
 
 🔎:
 

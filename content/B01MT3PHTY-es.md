@@ -2,7 +2,7 @@
 layout: post
 title: 'FLORA GUARD 6.5inch Micro Punta de Hoja  con un 55.29 % de descuento'
 date: 2020-03-04 18:44:10
-image: 'https://m.media-amazon.com/images/I/41-x+UvP-qL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41-x+UvP-qL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.24'
 
 En este momento está [FLORA GUARD 6.5inch Micro Punta de Hoja Recortadora de jardineria poda SNIP Tijeras de podar con Mano de Acero Inoxidable?Orange?](https://www.amazon.es/dp/B01MT3PHTY/?tag=tolees-21) a 8.49 EUR (original: 18.99 EUR) (55.29 %  de descuento) en el siguiente enlace!
 
-[![FLORA GUARD 6.5inch Micro Punta de Hoja ](https://m.media-amazon.com/images/I/41-x+UvP-qL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01MT3PHTY/?tag=tolees-21)
+[![FLORA GUARD 6.5inch Micro Punta de Hoja ](https://m.media-amazon.com/images/I/41-x+UvP-qL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01MT3PHTY/?tag=tolees-21)
 
 🔎:
 

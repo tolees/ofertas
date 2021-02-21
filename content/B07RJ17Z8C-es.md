@@ -2,7 +2,7 @@
 layout: post
 title: 'Nike Renew Lucent  PS   Zapatillas Unise con un 56.42 % de descuento'
 date: 2020-04-17 16:44:52
-image: 'https://m.media-amazon.com/images/I/41nFttbrDFL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41nFttbrDFL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.31'
 
 En este momento está [Nike Renew Lucent  PS   Zapatillas Unisex Niños  Negro  Black/White 001   30 EU](https://www.amazon.es/dp/B07RJ17Z8C/?tag=tolees-21) a 23.31 EUR (original: 53.49 EUR) (56.42 %  de descuento) en el siguiente enlace!
 
-[![Nike Renew Lucent  PS   Zapatillas Unise](https://m.media-amazon.com/images/I/41nFttbrDFL._SL200_.jpg)](https://www.amazon.es/dp/B07RJ17Z8C/?tag=tolees-21)
+[![Nike Renew Lucent  PS   Zapatillas Unise](https://m.media-amazon.com/images/I/41nFttbrDFL._SL400_.jpg)](https://www.amazon.es/dp/B07RJ17Z8C/?tag=tolees-21)
 
 🔎:
 

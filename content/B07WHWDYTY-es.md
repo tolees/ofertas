@@ -2,7 +2,7 @@
 layout: post
 title: 'MYMISS San Valentín Regalos pendientes m al 74.01 % de descuento'
 date: 2020-03-24 17:37:23
-image: 'https://m.media-amazon.com/images/I/51FIA89fUIL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51FIA89fUIL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '25.99'
 
 Ahora mismo tienes [MYMISS San Valentín Regalos pendientes mujer plata zirconia perlas negra joyas pendientes regalos san valentin mujer boda niñas novia regalo para mujer madre e hija profesora](https://www.amazon.es/dp/B07WHWDYTY/?tag=tolees-21) a 25.99 EUR (original: 99.99 EUR) (74.01 %  de descuento) en el siguiente enlace!
 
-[![MYMISS San Valentín Regalos pendientes m](https://m.media-amazon.com/images/I/51FIA89fUIL._SL200_.jpg)](https://www.amazon.es/dp/B07WHWDYTY/?tag=tolees-21)
+[![MYMISS San Valentín Regalos pendientes m](https://m.media-amazon.com/images/I/51FIA89fUIL._SL400_.jpg)](https://www.amazon.es/dp/B07WHWDYTY/?tag=tolees-21)
 
 🔎:
 

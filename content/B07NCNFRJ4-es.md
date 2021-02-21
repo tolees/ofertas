@@ -2,7 +2,7 @@
 layout: post
 title: 'Bandolera Pepe Jeans Raw cruzada para ho al 30.05 % de rebaja'
 date: 2020-06-11 00:32:19
-image: 'https://m.media-amazon.com/images/I/41nS9XitFZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41nS9XitFZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.918'
 
 Tienes [Bandolera Pepe Jeans Raw cruzada para hombre](https://www.amazon.es/dp/B07NCNFRJ4/?tag=tolees-21) con precio final de  20.95 EUR (original: 29.95 EUR) (30.05 %  de rebaja) aqui!
 
-[![Bandolera Pepe Jeans Raw cruzada para ho](https://m.media-amazon.com/images/I/41nS9XitFZL._SL200_.jpg)](https://www.amazon.es/dp/B07NCNFRJ4/?tag=tolees-21)
+[![Bandolera Pepe Jeans Raw cruzada para ho](https://m.media-amazon.com/images/I/41nS9XitFZL._SL400_.jpg)](https://www.amazon.es/dp/B07NCNFRJ4/?tag=tolees-21)
 
 🔎:
 

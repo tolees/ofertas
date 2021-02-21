@@ -2,7 +2,7 @@
 layout: post
 title: 'CMP Hamal  Sandalia con Pulsera Unisex N al 63.58 % de rebaja'
 date: 2020-01-15 01:12:12
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41DWOruCPkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41DWOruCPkL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.45'
 
 Tienes [CMP Hamal  Sandalia con Pulsera Unisex Niños  Rosa  Geranio-Bamboo 14hc   29 EU](https://www.amazon.es/dp/B07K79PBFC/?tag=tolees-21) con precio final de  9.45 EUR (original: 25.95 EUR) (63.58 %  de rebaja) aqui!
 
-[![CMP Hamal  Sandalia con Pulsera Unisex N](https://images-eu.ssl-images-amazon.com/images/I/41DWOruCPkL._SL200_.jpg)](https://www.amazon.es/dp/B07K79PBFC/?tag=tolees-21)
+[![CMP Hamal  Sandalia con Pulsera Unisex N](https://images-eu.ssl-images-amazon.com/images/I/41DWOruCPkL._SL400_.jpg)](https://www.amazon.es/dp/B07K79PBFC/?tag=tolees-21)
 
 🔎:
 

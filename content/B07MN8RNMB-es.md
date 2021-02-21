@@ -2,7 +2,7 @@
 layout: post
 title: 'Lenovo Legion Y910-17ISK - Ordenador por con un 44.25 % de descuento'
 date: 2020-05-24 07:37:46
-image: 'https://m.media-amazon.com/images/I/41ZZUJ65UFL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ZZUJ65UFL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1711.7927272727272'
 
 En este momento está [Lenovo Legion Y910-17ISK - Ordenador portátil gaming de 17 3" FullHD  Intel Core i7-6820HK  24GB RAM  1TB HDD + 256GB SSD  Nvidia GTX0170-8GB  Windows 10  Negro - Teclado QWERTY español](https://www.amazon.es/dp/B07MN8RNMB/?tag=tolees-21) a 1499.0 EUR (original: 2689.0 EUR) (44.25 %  de descuento) en el siguiente enlace!
 
-[![Lenovo Legion Y910-17ISK - Ordenador por](https://m.media-amazon.com/images/I/41ZZUJ65UFL._SL200_.jpg)](https://www.amazon.es/dp/B07MN8RNMB/?tag=tolees-21)
+[![Lenovo Legion Y910-17ISK - Ordenador por](https://m.media-amazon.com/images/I/41ZZUJ65UFL._SL400_.jpg)](https://www.amazon.es/dp/B07MN8RNMB/?tag=tolees-21)
 
 🔎:
 

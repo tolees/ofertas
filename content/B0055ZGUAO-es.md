@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 43.57 % en Jata 756 Balanza electrónica  Cristal te'
 date: 2020-04-29 07:41:39
-image: 'https://m.media-amazon.com/images/I/41nr6u8SONL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41nr6u8SONL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.0'
 
 Tienes [Jata 756 Balanza electrónica  Cristal temperit  Plateado/Negro](https://www.amazon.es/dp/B0055ZGUAO/?tag=tolees-21) con un 43.57 % de descuento con precio de oferta de 18.0 EUR (original: 31.9 EUR) en el siguiente enlace!
 
-[![Jata 756 Balanza electrónica  Cristal te](https://m.media-amazon.com/images/I/41nr6u8SONL._SL200_.jpg)](https://www.amazon.es/dp/B0055ZGUAO/?tag=tolees-21)
+[![Jata 756 Balanza electrónica  Cristal te](https://m.media-amazon.com/images/I/41nr6u8SONL._SL400_.jpg)](https://www.amazon.es/dp/B0055ZGUAO/?tag=tolees-21)
 
 ℹ️:
 

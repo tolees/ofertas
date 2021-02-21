@@ -2,7 +2,7 @@
 layout: post
 title: 'KATELUO 250Pcs Natural Palitos de madera con un 30.79 % de descuento'
 date: 2020-04-16 09:07:19
-image: 'https://m.media-amazon.com/images/I/414yPzrgrOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/414yPzrgrOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.99'
 
 En este momento está [KATELUO 250Pcs Natural Palitos de madera Popsicle  Gran para manualidades caseras y DIY de postre Making.](https://www.amazon.es/dp/B07QK7YZ3X/?tag=tolees-21) a 8.99 EUR (original: 12.99 EUR) (30.79 %  de descuento) en el siguiente enlace!
 
-[![KATELUO 250Pcs Natural Palitos de madera](https://m.media-amazon.com/images/I/414yPzrgrOL._SL200_.jpg)](https://www.amazon.es/dp/B07QK7YZ3X/?tag=tolees-21)
+[![KATELUO 250Pcs Natural Palitos de madera](https://m.media-amazon.com/images/I/414yPzrgrOL._SL400_.jpg)](https://www.amazon.es/dp/B07QK7YZ3X/?tag=tolees-21)
 
 🔎:
 

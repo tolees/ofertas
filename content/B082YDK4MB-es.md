@@ -2,7 +2,7 @@
 layout: post
 title: 'Vidal & Vidal Brazalete Rosado Original al 50.00 % de rebaja'
 date: 2020-02-11 13:36:37
-image: 'https://m.media-amazon.com/images/I/41unePbj+7L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41unePbj+7L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '32.0'
 
 Tienes [Vidal & Vidal Brazalete Rosado Original](https://www.amazon.es/dp/B082YDK4MB/?tag=tolees-21) con precio final de  32.0 EUR (original: 64.0 EUR) (50.00 %  de rebaja) aqui!
 
-[![Vidal & Vidal Brazalete Rosado Original](https://m.media-amazon.com/images/I/41unePbj+7L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B082YDK4MB/?tag=tolees-21)
+[![Vidal & Vidal Brazalete Rosado Original](https://m.media-amazon.com/images/I/41unePbj+7L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B082YDK4MB/?tag=tolees-21)
 
 🔎:
 

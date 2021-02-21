@@ -2,7 +2,7 @@
 layout: post
 title: 'Lancaster  Gel y jabón - 250 gr. al 62.28 % de descuento'
 date: 2020-05-30 14:12:58
-image: 'https://m.media-amazon.com/images/I/31Y9pn3B8dL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Y9pn3B8dL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.98'
 
 Está [Lancaster  Gel y jabón - 250 gr.](https://www.amazon.es/dp/B00BGNIL1K/?tag=tolees-21) con 62.28 de descuento por 2.98 EUR (original: 7.9 EUR) en el siguiente enlace!
 
-[![Lancaster  Gel y jabón - 250 gr.](https://m.media-amazon.com/images/I/31Y9pn3B8dL._SL200_.jpg)](https://www.amazon.es/dp/B00BGNIL1K/?tag=tolees-21)
+[![Lancaster  Gel y jabón - 250 gr.](https://m.media-amazon.com/images/I/31Y9pn3B8dL._SL400_.jpg)](https://www.amazon.es/dp/B00BGNIL1K/?tag=tolees-21)
 
 ℹ️:
 

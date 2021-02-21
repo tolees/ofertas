@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s LEVIS FOOTWEAR AND ACCESSORIES Ca al 40.88 % de descuento'
 date: 2020-05-07 16:25:08
-image: 'https://m.media-amazon.com/images/I/41QbPClZVeL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41QbPClZVeL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.65'
 
 Ahora mismo tienes [Levi s LEVIS FOOTWEAR AND ACCESSORIES Calypso Cinturón  Beige  Écru 21   80 para Mujer](https://www.amazon.es/dp/B07SQRTQXG/?tag=tolees-21) a 23.65 EUR (original: 40.0 EUR) (40.88 %  de descuento) en el siguiente enlace!
 
-[![Levi s LEVIS FOOTWEAR AND ACCESSORIES Ca](https://m.media-amazon.com/images/I/41QbPClZVeL._SL200_.jpg)](https://www.amazon.es/dp/B07SQRTQXG/?tag=tolees-21)
+[![Levi s LEVIS FOOTWEAR AND ACCESSORIES Ca](https://m.media-amazon.com/images/I/41QbPClZVeL._SL400_.jpg)](https://www.amazon.es/dp/B07SQRTQXG/?tag=tolees-21)
 
 🔎:
 

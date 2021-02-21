@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 39.94 % en Reebok Classic Leather  Zapatillas de Tr'
 date: 2020-04-10 10:17:14
-image: 'https://m.media-amazon.com/images/I/31p3O5qfXZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31p3O5qfXZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.712'
 
 Tienes [Reebok Classic Leather  Zapatillas de Trail Running para Niños  Blanco  White 0   30.5 EU](https://www.amazon.es/dp/B01NCOWB0L/?tag=tolees-21) con un 39.94 % de descuento con precio de oferta de 30.0 EUR (original: 49.95 EUR) en el siguiente enlace!
 
-[![Reebok Classic Leather  Zapatillas de Tr](https://m.media-amazon.com/images/I/31p3O5qfXZL._SL200_.jpg)](https://www.amazon.es/dp/B01NCOWB0L/?tag=tolees-21)
+[![Reebok Classic Leather  Zapatillas de Tr](https://m.media-amazon.com/images/I/31p3O5qfXZL._SL400_.jpg)](https://www.amazon.es/dp/B01NCOWB0L/?tag=tolees-21)
 
 ℹ️:
 

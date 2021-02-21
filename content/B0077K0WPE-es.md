@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 83.48 % en Tamiya 40-Foot Container - Scale Model A'
 date: 2020-01-03 09:43:34
-image: 'https://images-eu.ssl-images-amazon.com/images/I/410vhcOY21L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/410vhcOY21L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '81.32'
 
 Tienes [Tamiya 40-Foot Container - Scale Model Accessories  Azul ](https://www.amazon.es/dp/B0077K0WPE/?tag=tolees-21) con un 83.48 % de descuento con precio de oferta de 81.32 EUR (original: 492.15 EUR) en el siguiente enlace!
 
-[![Tamiya 40-Foot Container - Scale Model A](https://images-eu.ssl-images-amazon.com/images/I/410vhcOY21L._SL200_.jpg)](https://www.amazon.es/dp/B0077K0WPE/?tag=tolees-21)
+[![Tamiya 40-Foot Container - Scale Model A](https://images-eu.ssl-images-amazon.com/images/I/410vhcOY21L._SL400_.jpg)](https://www.amazon.es/dp/B0077K0WPE/?tag=tolees-21)
 
 ℹ️:
 

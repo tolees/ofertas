@@ -2,7 +2,7 @@
 layout: post
 title: 'Superdry OL Elite Joggers Pantalones de  al 48.58 % de descuento'
 date: 2020-05-06 13:41:00
-image: 'https://m.media-amazon.com/images/I/31nAkS4JPML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31nAkS4JPML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '35.99'
 
 Está [Superdry OL Elite Joggers Pantalones de Deporte  Negro  Black 02a   XS  Talla del Fabricante:8  para Mujer](https://www.amazon.es/dp/B07P2BD1NW/?tag=tolees-21) con 48.58 de descuento por 35.99 EUR (original: 69.99 EUR) en el siguiente enlace!
 
-[![Superdry OL Elite Joggers Pantalones de ](https://m.media-amazon.com/images/I/31nAkS4JPML._SL200_.jpg)](https://www.amazon.es/dp/B07P2BD1NW/?tag=tolees-21)
+[![Superdry OL Elite Joggers Pantalones de ](https://m.media-amazon.com/images/I/31nAkS4JPML._SL400_.jpg)](https://www.amazon.es/dp/B07P2BD1NW/?tag=tolees-21)
 
 ℹ️:
 

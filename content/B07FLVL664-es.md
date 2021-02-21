@@ -2,7 +2,7 @@
 layout: post
 title: 'RioRiva En calcetines para hombre de env al 41.21 % de rebaja'
 date: 2020-06-13 21:31:10
-image: 'https://m.media-amazon.com/images/I/51Bf5NFvgRL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Bf5NFvgRL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.99'
 
 Tienes [RioRiva En calcetines para hombre de envoltura de regalos con rayas de algodón 90%  bonito diseño de media pantorrilla  estilo colorido](https://www.amazon.es/dp/B07FLVL664/?tag=tolees-21) con precio final de  19.99 EUR (original: 34.0 EUR) (41.21 %  de rebaja) aqui!
 
-[![RioRiva En calcetines para hombre de env](https://m.media-amazon.com/images/I/51Bf5NFvgRL._SL200_.jpg)](https://www.amazon.es/dp/B07FLVL664/?tag=tolees-21)
+[![RioRiva En calcetines para hombre de env](https://m.media-amazon.com/images/I/51Bf5NFvgRL._SL400_.jpg)](https://www.amazon.es/dp/B07FLVL664/?tag=tolees-21)
 
 🔎:
 

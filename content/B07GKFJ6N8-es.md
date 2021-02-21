@@ -2,7 +2,7 @@
 layout: post
 title: 'Buff New Obsession Tubular Original  Uni con un 58.33 % de descuento'
 date: 2020-01-31 06:19:18
-image: 'https://m.media-amazon.com/images/I/41xrk8iSm7L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41xrk8iSm7L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.48'
 
 En este momento está [Buff New Obsession Tubular Original  Unisex Adulto  Multi  Talla única](https://www.amazon.es/dp/B07GKFJ6N8/?tag=tolees-21) a 7.48 EUR (original: 17.95 EUR) (58.33 %  de descuento) en el siguiente enlace!
 
-[![Buff New Obsession Tubular Original  Uni](https://m.media-amazon.com/images/I/41xrk8iSm7L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07GKFJ6N8/?tag=tolees-21)
+[![Buff New Obsession Tubular Original  Uni](https://m.media-amazon.com/images/I/41xrk8iSm7L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07GKFJ6N8/?tag=tolees-21)
 
 🔎:
 

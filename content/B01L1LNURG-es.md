@@ -2,7 +2,7 @@
 layout: post
 title: 'Tefal Fry Delight FX100015 - Freidora si al 38.20 % de descuento'
 date: 2020-07-27 22:06:18
-image: 'https://m.media-amazon.com/images/I/41tF10YAeDL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41tF10YAeDL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '95.23'
 
 Está [Tefal Fry Delight FX100015 - Freidora sin Aceite de 1400 W  4 Modos de Cocción  para Freir  Grill  Asar y Hornear  Temporizador 30 Min  Cocina Sana  para hasta 800 Gramos de Alimento  Evita Mal Olor](https://www.amazon.es/dp/B01L1LNURG/?tag=tolees-21) con 38.20 de descuento por 92.69 EUR (original: 149.99 EUR) en el siguiente enlace!
 
-[![Tefal Fry Delight FX100015 - Freidora si](https://m.media-amazon.com/images/I/41tF10YAeDL._SL200_.jpg)](https://www.amazon.es/dp/B01L1LNURG/?tag=tolees-21)
+[![Tefal Fry Delight FX100015 - Freidora si](https://m.media-amazon.com/images/I/41tF10YAeDL._SL400_.jpg)](https://www.amazon.es/dp/B01L1LNURG/?tag=tolees-21)
 
 ℹ️:
 

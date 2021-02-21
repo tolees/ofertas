@@ -2,7 +2,7 @@
 layout: post
 title: 'Godagoda T244D - Juego de 5 hojas de sie al 99.67 % de descuento'
 date: 2020-01-20 18:52:17
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51DQ1%2BPRTEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51DQ1%2BPRTEL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '0.1'
 
 Está [Godagoda T244D - Juego de 5 hojas de sierra para sierra de cortar de aleación de acero para hoja de madera](https://www.amazon.es/dp/B07F74M1JM/?tag=tolees-21) con 99.67 de descuento por 0.1 EUR (original: 30.23 EUR) en el siguiente enlace!
 
-[![Godagoda T244D - Juego de 5 hojas de sie](https://images-eu.ssl-images-amazon.com/images/I/51DQ1%2BPRTEL._SL200_.jpg)](https://www.amazon.es/dp/B07F74M1JM/?tag=tolees-21)
+[![Godagoda T244D - Juego de 5 hojas de sie](https://images-eu.ssl-images-amazon.com/images/I/51DQ1%2BPRTEL._SL400_.jpg)](https://www.amazon.es/dp/B07F74M1JM/?tag=tolees-21)
 
 ℹ️:
 

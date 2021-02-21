@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger Short Sleeve Slim Polo de con un 46.21 % de descuento'
 date: 2020-07-23 18:23:12
-image: 'https://m.media-amazon.com/images/I/41lqUmDok4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41lqUmDok4L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.0'
 
 En este momento está [Tommy Hilfiger Short Sleeve Slim Polo de Manga Corta  Gris  Light Gris Heather P01   36  Talla del Fabricante: Small  para Mujer](https://www.amazon.es/dp/B07VT3BFKK/?tag=tolees-21) a 29.0 EUR (original: 53.91 EUR) (46.21 %  de descuento) en el siguiente enlace!
 
-[![Tommy Hilfiger Short Sleeve Slim Polo de](https://m.media-amazon.com/images/I/41lqUmDok4L._SL200_.jpg)](https://www.amazon.es/dp/B07VT3BFKK/?tag=tolees-21)
+[![Tommy Hilfiger Short Sleeve Slim Polo de](https://m.media-amazon.com/images/I/41lqUmDok4L._SL400_.jpg)](https://www.amazon.es/dp/B07VT3BFKK/?tag=tolees-21)
 
 🔎:
 

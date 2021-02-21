@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas Altarun CF K  Zapatillas de Runni al 65.92 % de descuento'
 date: 2020-04-14 18:32:47
-image: 'https://m.media-amazon.com/images/I/41G5OXk5EXL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41G5OXk5EXL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.91'
 
 Ahora mismo tienes [adidas Altarun CF K  Zapatillas de Running Unisex Niños  Multicolor  Legend Ink/Blue/Active Orange G27235   32 EU](https://www.amazon.es/dp/B07RDQBRPZ/?tag=tolees-21) a 11.91 EUR (original: 34.95 EUR) (65.92 %  de descuento) en el siguiente enlace!
 
-[![adidas Altarun CF K  Zapatillas de Runni](https://m.media-amazon.com/images/I/41G5OXk5EXL._SL200_.jpg)](https://www.amazon.es/dp/B07RDQBRPZ/?tag=tolees-21)
+[![adidas Altarun CF K  Zapatillas de Runni](https://m.media-amazon.com/images/I/41G5OXk5EXL._SL400_.jpg)](https://www.amazon.es/dp/B07RDQBRPZ/?tag=tolees-21)
 
 🔎:
 

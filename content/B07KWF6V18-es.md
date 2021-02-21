@@ -2,7 +2,7 @@
 layout: post
 title: 'Helly Hansen Tokyo Hoodie  Hombre  White con un 56.43 % de descuento'
 date: 2020-03-02 04:43:05
-image: 'https://m.media-amazon.com/images/I/31-nHXSivHL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31-nHXSivHL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '35.7'
 
 En este momento está [Helly Hansen Tokyo Hoodie  Hombre  White  2XL](https://www.amazon.es/dp/B07KWF6V18/?tag=tolees-21) a 30.5 EUR (original: 70.0 EUR) (56.43 %  de descuento) en el siguiente enlace!
 
-[![Helly Hansen Tokyo Hoodie  Hombre  White](https://m.media-amazon.com/images/I/31-nHXSivHL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07KWF6V18/?tag=tolees-21)
+[![Helly Hansen Tokyo Hoodie  Hombre  White](https://m.media-amazon.com/images/I/31-nHXSivHL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07KWF6V18/?tag=tolees-21)
 
 🔎:
 

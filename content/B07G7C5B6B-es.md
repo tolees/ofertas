@@ -2,7 +2,7 @@
 layout: post
 title: 'MSI WT75 8SM-011ES - Ordenador portátil  al 40.00 % de descuento'
 date: 2020-05-11 11:21:44
-image: 'https://m.media-amazon.com/images/I/41o5t2DjdrL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41o5t2DjdrL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2918.6949999999997'
 
 Está [MSI WT75 8SM-011ES - Ordenador portátil de 17.3" UHD  Intel Core i7-8700  32 GB RAM  512GB SDD + 1TB HDD  Nvidia Quadro P5200-16GB   Windows 10 Pro  Negro - Teclado QWERTY Español](https://www.amazon.es/dp/B07G7C5B6B/?tag=tolees-21) con 40.00 de descuento por 2999.99 EUR (original: 4999.99 EUR) en el siguiente enlace!
 
-[![MSI WT75 8SM-011ES - Ordenador portátil ](https://m.media-amazon.com/images/I/41o5t2DjdrL._SL200_.jpg)](https://www.amazon.es/dp/B07G7C5B6B/?tag=tolees-21)
+[![MSI WT75 8SM-011ES - Ordenador portátil ](https://m.media-amazon.com/images/I/41o5t2DjdrL._SL400_.jpg)](https://www.amazon.es/dp/B07G7C5B6B/?tag=tolees-21)
 
 ℹ️:
 

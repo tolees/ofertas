@@ -2,7 +2,7 @@
 layout: post
 title: 'Taladro Atornillador  FLOUREON Taladro I al 63.08 % de descuento'
 date: 2020-07-10 06:36:21
-image: 'https://m.media-amazon.com/images/I/51XeEv8Rr1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51XeEv8Rr1L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '47.96500000000001'
 
 Está [Taladro Atornillador  FLOUREON Taladro Inalambrico Professional 21V  Taladro Eléctrico sin Cable con Batería 1.5Ah de Litio  Conjunto de Accesorios para Taladro](https://www.amazon.es/dp/B07M83RFW1/?tag=tolees-21) con 63.08 de descuento por 47.99 EUR (original: 129.99 EUR) en el siguiente enlace!
 
-[![Taladro Atornillador  FLOUREON Taladro I](https://m.media-amazon.com/images/I/51XeEv8Rr1L._SL200_.jpg)](https://www.amazon.es/dp/B07M83RFW1/?tag=tolees-21)
+[![Taladro Atornillador  FLOUREON Taladro I](https://m.media-amazon.com/images/I/51XeEv8Rr1L._SL400_.jpg)](https://www.amazon.es/dp/B07M83RFW1/?tag=tolees-21)
 
 ℹ️:
 

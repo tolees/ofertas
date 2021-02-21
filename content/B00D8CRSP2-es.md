@@ -2,7 +2,7 @@
 layout: post
 title: 'Picadora de Hielo A Mano O X Mojito Gran al 35.85 % de descuento'
 date: 2020-08-13 19:01:49
-image: 'https://m.media-amazon.com/images/I/41hAFpC1nWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41hAFpC1nWL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.25'
 
 Ahora mismo tienes [Picadora de Hielo A Mano O X Mojito Granizados Made In Italy!!](https://www.amazon.es/dp/B00D8CRSP2/?tag=tolees-21) a 18.25 EUR (original: 28.45 EUR) (35.85 %  de descuento) en el siguiente enlace!
 
-[![Picadora de Hielo A Mano O X Mojito Gran](https://m.media-amazon.com/images/I/41hAFpC1nWL._SL200_.jpg)](https://www.amazon.es/dp/B00D8CRSP2/?tag=tolees-21)
+[![Picadora de Hielo A Mano O X Mojito Gran](https://m.media-amazon.com/images/I/41hAFpC1nWL._SL400_.jpg)](https://www.amazon.es/dp/B00D8CRSP2/?tag=tolees-21)
 
 🔎:
 

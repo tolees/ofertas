@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 54.75 % en Funko Pop!- Pocket Keychain: Marvel: Ave'
 date: 2020-03-22 21:15:39
-image: 'https://m.media-amazon.com/images/I/41qcjDzRP2L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41qcjDzRP2L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.043750000000001'
 
 Tienes [Funko Pop!- Pocket Keychain: Marvel: Avengers AOU: Captain America  5224 ](https://www.amazon.es/dp/B00SVYERQK/?tag=tolees-21) con un 54.75 % de descuento con precio de oferta de 6.33 EUR (original: 13.99 EUR) en el siguiente enlace!
 
-[![Funko Pop!- Pocket Keychain: Marvel: Ave](https://m.media-amazon.com/images/I/41qcjDzRP2L._SL200_.jpg)](https://www.amazon.es/dp/B00SVYERQK/?tag=tolees-21)
+[![Funko Pop!- Pocket Keychain: Marvel: Ave](https://m.media-amazon.com/images/I/41qcjDzRP2L._SL400_.jpg)](https://www.amazon.es/dp/B00SVYERQK/?tag=tolees-21)
 
 ℹ️:
 

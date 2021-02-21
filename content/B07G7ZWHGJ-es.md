@@ -2,7 +2,7 @@
 layout: post
 title: 'New Balance FuelCell Propel m  Zapatilla al 34.81 % de descuento'
 date: 2020-06-24 12:04:59
-image: 'https://m.media-amazon.com/images/I/41UdOz78vdL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41UdOz78vdL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '58.76'
 
 Ahora mismo tienes [New Balance FuelCell Propel m  Zapatillas de Running para Mujer  Negro  Black Black   36.5 EU](https://www.amazon.es/dp/B07G7ZWHGJ/?tag=tolees-21) a 58.76 EUR (original: 90.14 EUR) (34.81 %  de descuento) en el siguiente enlace!
 
-[![New Balance FuelCell Propel m  Zapatilla](https://m.media-amazon.com/images/I/41UdOz78vdL._SL200_.jpg)](https://www.amazon.es/dp/B07G7ZWHGJ/?tag=tolees-21)
+[![New Balance FuelCell Propel m  Zapatilla](https://m.media-amazon.com/images/I/41UdOz78vdL._SL400_.jpg)](https://www.amazon.es/dp/B07G7ZWHGJ/?tag=tolees-21)
 
 🔎:
 

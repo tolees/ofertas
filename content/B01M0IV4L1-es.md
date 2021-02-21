@@ -2,7 +2,7 @@
 layout: post
 title: 'L Oreal Paris Casting Crème Gloss Tropic al 29.63 % de descuento'
 date: 2020-02-14 17:54:02
-image: 'https://m.media-amazon.com/images/I/41ZbhcHW3bL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ZbhcHW3bL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.75'
 
 Está [L Oreal Paris Casting Crème Gloss Tropical Spray Aclarado Progresivo 125 ml](https://www.amazon.es/dp/B01M0IV4L1/?tag=tolees-21) con 29.63 de descuento por 4.75 EUR (original: 6.75 EUR) en el siguiente enlace!
 
-[![L Oreal Paris Casting Crème Gloss Tropic](https://m.media-amazon.com/images/I/41ZbhcHW3bL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01M0IV4L1/?tag=tolees-21)
+[![L Oreal Paris Casting Crème Gloss Tropic](https://m.media-amazon.com/images/I/41ZbhcHW3bL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01M0IV4L1/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Habitación infantil Lámpara de pared Dor al 54.97 % de descuento'
 date: 2020-04-26 08:44:48
-image: 'https://m.media-amazon.com/images/I/41+FCeH3ZjL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41+FCeH3ZjL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '28.88'
 
 Está [Habitación infantil Lámpara de pared Dormitorio nórdico Lámpara de pared Creativo Simple de dibujos animados Lectura linda Lámpara de cabecera  Rosa](https://www.amazon.es/dp/B07RNCW1SJ/?tag=tolees-21) con 54.97 de descuento por 28.88 EUR (original: 64.14 EUR) en el siguiente enlace!
 
-[![Habitación infantil Lámpara de pared Dor](https://m.media-amazon.com/images/I/41+FCeH3ZjL._SL200_.jpg)](https://www.amazon.es/dp/B07RNCW1SJ/?tag=tolees-21)
+[![Habitación infantil Lámpara de pared Dor](https://m.media-amazon.com/images/I/41+FCeH3ZjL._SL400_.jpg)](https://www.amazon.es/dp/B07RNCW1SJ/?tag=tolees-21)
 
 ℹ️:
 

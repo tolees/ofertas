@@ -2,7 +2,7 @@
 layout: post
 title: 'New Balance W1400V6  Zapatillas de Runni al 71.70 % de descuento'
 date: 2020-01-11 10:06:14
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41SGRmHQmyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41SGRmHQmyL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '32.54'
 
 Ahora mismo tienes [New Balance W1400V6  Zapatillas de Running para Mujer  Negro Black/Pink  36 EU](https://www.amazon.es/dp/B077SCQJXH/?tag=tolees-21) a 32.54 EUR (original: 115 EUR) (71.70 %  de descuento) en el siguiente enlace!
 
-[![New Balance W1400V6  Zapatillas de Runni](https://images-eu.ssl-images-amazon.com/images/I/41SGRmHQmyL._SL200_.jpg)](https://www.amazon.es/dp/B077SCQJXH/?tag=tolees-21)
+[![New Balance W1400V6  Zapatillas de Runni](https://images-eu.ssl-images-amazon.com/images/I/41SGRmHQmyL._SL400_.jpg)](https://www.amazon.es/dp/B077SCQJXH/?tag=tolees-21)
 
 🔎:
 

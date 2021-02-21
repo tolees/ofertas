@@ -2,7 +2,7 @@
 layout: post
 title: 'Mr. Tronic 30m Cable de Red Ethernet Lat al 40.03 % de descuento'
 date: 2020-01-06 06:03:07
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51KwlqN0-DL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51KwlqN0-DL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.99'
 
 Ahora mismo tienes [Mr. Tronic 30m Cable de Red Ethernet Latiguillo | CAT6  AWG24  CCA  UTP  RJ45  30 Metros  Negro ](https://www.amazon.es/dp/B07XFQFFL7/?tag=tolees-21) a 17.99 EUR (original: 30 EUR) (40.03 %  de descuento) en el siguiente enlace!
 
-[![Mr. Tronic 30m Cable de Red Ethernet Lat](https://images-eu.ssl-images-amazon.com/images/I/51KwlqN0-DL._SL200_.jpg)](https://www.amazon.es/dp/B07XFQFFL7/?tag=tolees-21)
+[![Mr. Tronic 30m Cable de Red Ethernet Lat](https://images-eu.ssl-images-amazon.com/images/I/51KwlqN0-DL._SL400_.jpg)](https://www.amazon.es/dp/B07XFQFFL7/?tag=tolees-21)
 
 🔎:
 

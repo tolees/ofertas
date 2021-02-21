@@ -2,7 +2,7 @@
 layout: post
 title: 'Asics Gel-Bondi  Zapatillas de Running p al 60.36 % de rebaja'
 date: 2020-01-14 05:53:55
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41wNboNT1mL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41wNboNT1mL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '36.769999999999996'
 
 Tienes [Asics Gel-Bondi  Zapatillas de Running para Hombre  Negro  Black/Black 001   46.5 EU](https://www.amazon.es/dp/B07S2SJ19Z/?tag=tolees-21) con precio final de  34.68 EUR (original: 87.49 EUR) (60.36 %  de rebaja) aqui!
 
-[![Asics Gel-Bondi  Zapatillas de Running p](https://images-eu.ssl-images-amazon.com/images/I/41wNboNT1mL._SL200_.jpg)](https://www.amazon.es/dp/B07S2SJ19Z/?tag=tolees-21)
+[![Asics Gel-Bondi  Zapatillas de Running p](https://images-eu.ssl-images-amazon.com/images/I/41wNboNT1mL._SL400_.jpg)](https://www.amazon.es/dp/B07S2SJ19Z/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Agua Brava 492-040191 Colonia - 200 ml al 42.64 % de descuento'
 date: 2020-05-01 14:42:24
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51VM-plpsiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51VM-plpsiL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.75'
 
 Está [Agua Brava 492-040191 Colonia - 200 ml](https://www.amazon.es/dp/B00D6JQUFQ/?tag=tolees-21) con 42.64 de descuento por 16.75 EUR (original: 29.2 EUR) en el siguiente enlace!
 
-[![Agua Brava 492-040191 Colonia - 200 ml](https://images-eu.ssl-images-amazon.com/images/I/51VM-plpsiL._SL200_.jpg)](https://www.amazon.es/dp/B00D6JQUFQ/?tag=tolees-21)
+[![Agua Brava 492-040191 Colonia - 200 ml](https://images-eu.ssl-images-amazon.com/images/I/51VM-plpsiL._SL400_.jpg)](https://www.amazon.es/dp/B00D6JQUFQ/?tag=tolees-21)
 
 ℹ️:
 

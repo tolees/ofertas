@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 50.03 % en Wera 05057122001 Surtido de puntas'
 date: 2020-08-06 19:01:09
-image: 'https://m.media-amazon.com/images/I/41-J6lowf1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41-J6lowf1L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '37.45'
 
 Tienes [Wera 05057122001 Surtido de puntas](https://www.amazon.es/dp/B000VCZXPO/?tag=tolees-21) con un 50.03 % de descuento con precio de oferta de 37.45 EUR (original: 74.95 EUR) en el siguiente enlace!
 
-[![Wera 05057122001 Surtido de puntas](https://m.media-amazon.com/images/I/41-J6lowf1L._SL200_.jpg)](https://www.amazon.es/dp/B000VCZXPO/?tag=tolees-21)
+[![Wera 05057122001 Surtido de puntas](https://m.media-amazon.com/images/I/41-J6lowf1L._SL400_.jpg)](https://www.amazon.es/dp/B000VCZXPO/?tag=tolees-21)
 
 ℹ️:
 

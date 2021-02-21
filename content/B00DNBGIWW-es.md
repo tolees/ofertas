@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 72.13 % en SELECT Trainigsjacke Ultimate Trainingsj'
 date: 2020-08-08 15:45:44
-image: 'https://m.media-amazon.com/images/I/41t+Nuk0CgL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41t+Nuk0CgL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.49'
 
 Tienes [SELECT Trainigsjacke Ultimate Trainingsjacke - Soft Shell para niño  Color Azul  Talla 10 años  140 cm ](https://www.amazon.es/dp/B00DNBGIWW/?tag=tolees-21) con un 72.13 % de descuento con precio de oferta de 14.49 EUR (original: 51.99 EUR) en el siguiente enlace!
 
-[![SELECT Trainigsjacke Ultimate Trainingsj](https://m.media-amazon.com/images/I/41t+Nuk0CgL._SL200_.jpg)](https://www.amazon.es/dp/B00DNBGIWW/?tag=tolees-21)
+[![SELECT Trainigsjacke Ultimate Trainingsj](https://m.media-amazon.com/images/I/41t+Nuk0CgL._SL400_.jpg)](https://www.amazon.es/dp/B00DNBGIWW/?tag=tolees-21)
 
 ℹ️:
 

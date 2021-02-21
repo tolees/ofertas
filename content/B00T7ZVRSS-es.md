@@ -2,7 +2,7 @@
 layout: post
 title: 'Des Nems Sauce Grabuge al 78.64 % de descuento'
 date: 2020-04-14 17:00:04
-image: 'https://m.media-amazon.com/images/I/61BQF9wUfpL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61BQF9wUfpL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.99'
 
 Ahora mismo tienes [Des Nems Sauce Grabuge](https://www.amazon.es/dp/B00T7ZVRSS/?tag=tolees-21) a 2.99 EUR (original: 14.0 EUR) (78.64 %  de descuento) en el siguiente enlace!
 
-[![Des Nems Sauce Grabuge](https://m.media-amazon.com/images/I/61BQF9wUfpL._SL200_.jpg)](https://www.amazon.es/dp/B00T7ZVRSS/?tag=tolees-21)
+[![Des Nems Sauce Grabuge](https://m.media-amazon.com/images/I/61BQF9wUfpL._SL400_.jpg)](https://www.amazon.es/dp/B00T7ZVRSS/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'PUMA Aeon Play Wn s  Zapatillas para Muj al 35.04 % de rebaja'
 date: 2020-04-26 21:25:34
-image: 'https://m.media-amazon.com/images/I/41DL2Dx1g1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41DL2Dx1g1L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '22.775'
 
 Tienes [PUMA Aeon Play Wn s  Zapatillas para Mujer  Black  37 EU](https://www.amazon.es/dp/B07KFY7GD9/?tag=tolees-21) con precio final de  22.15 EUR (original: 34.1 EUR) (35.04 %  de rebaja) aqui!
 
-[![PUMA Aeon Play Wn s  Zapatillas para Muj](https://m.media-amazon.com/images/I/41DL2Dx1g1L._SL200_.jpg)](https://www.amazon.es/dp/B07KFY7GD9/?tag=tolees-21)
+[![PUMA Aeon Play Wn s  Zapatillas para Muj](https://m.media-amazon.com/images/I/41DL2Dx1g1L._SL400_.jpg)](https://www.amazon.es/dp/B07KFY7GD9/?tag=tolees-21)
 
 🔎:
 

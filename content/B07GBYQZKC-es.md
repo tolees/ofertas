@@ -2,7 +2,7 @@
 layout: post
 title: 'Craft Pro Control Compression Tight Unis al 31.49 % de descuento'
 date: 2020-04-12 08:25:00
-image: 'https://m.media-amazon.com/images/I/31dE4ewmR7L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31dE4ewmR7L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '36.99'
 
 Ahora mismo tienes [Craft Pro Control Compression Tight Unisex Black Size : M](https://www.amazon.es/dp/B07GBYQZKC/?tag=tolees-21) a 36.99 EUR (original: 53.99 EUR) (31.49 %  de descuento) en el siguiente enlace!
 
-[![Craft Pro Control Compression Tight Unis](https://m.media-amazon.com/images/I/31dE4ewmR7L._SL200_.jpg)](https://www.amazon.es/dp/B07GBYQZKC/?tag=tolees-21)
+[![Craft Pro Control Compression Tight Unis](https://m.media-amazon.com/images/I/31dE4ewmR7L._SL400_.jpg)](https://www.amazon.es/dp/B07GBYQZKC/?tag=tolees-21)
 
 🔎:
 

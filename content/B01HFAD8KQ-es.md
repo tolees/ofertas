@@ -2,7 +2,7 @@
 layout: post
 title: 'Merrell Moab 2 GTX  Zapatillas de Sender con un 50.04 % de descuento'
 date: 2020-08-22 18:54:05
-image: 'https://m.media-amazon.com/images/I/41Q2ZjInd1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Q2ZjInd1L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '64.95'
 
 En este momento está [Merrell Moab 2 GTX  Zapatillas de Senderismo para Hombre  Gris  Beluga   41 EU](https://www.amazon.es/dp/B01HFAD8KQ/?tag=tolees-21) a 64.95 EUR (original: 130.0 EUR) (50.04 %  de descuento) en el siguiente enlace!
 
-[![Merrell Moab 2 GTX  Zapatillas de Sender](https://m.media-amazon.com/images/I/41Q2ZjInd1L._SL200_.jpg)](https://www.amazon.es/dp/B01HFAD8KQ/?tag=tolees-21)
+[![Merrell Moab 2 GTX  Zapatillas de Sender](https://m.media-amazon.com/images/I/41Q2ZjInd1L._SL400_.jpg)](https://www.amazon.es/dp/B01HFAD8KQ/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 65.93 % en DC Heathrow M Zapatillas  Hombre  Negro '
 date: 2020-01-23 16:37:25
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31saZnxc2oL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31saZnxc2oL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '28.4025'
 
 Tienes [DC Heathrow M Zapatillas  Hombre  Negro  Black   40 EU  6.5 UK ](https://www.amazon.es/dp/B01M2VG0FM/?tag=tolees-21) con un 65.93 % de descuento con precio de oferta de 28.96 EUR (original: 85 EUR) en el siguiente enlace!
 
-[![DC Heathrow M Zapatillas  Hombre  Negro ](https://images-eu.ssl-images-amazon.com/images/I/31saZnxc2oL._SL200_.jpg)](https://www.amazon.es/dp/B01M2VG0FM/?tag=tolees-21)
+[![DC Heathrow M Zapatillas  Hombre  Negro ](https://images-eu.ssl-images-amazon.com/images/I/31saZnxc2oL._SL400_.jpg)](https://www.amazon.es/dp/B01M2VG0FM/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Funda Transparente Compatible para Samsu al 52.73 % de descuento'
 date: 2020-05-12 11:03:27
-image: 'https://m.media-amazon.com/images/I/512x6n9+z5L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/512x6n9+z5L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.98'
 
 Ahora mismo tienes [Funda Transparente Compatible para Samsung Galaxy A30s Carcasa Suave Silicona TPU Gel Dibujos Animal Ultra Fina Anti Choques y Anti Arañazos Clear Bumper Case Cover para Samsung Galaxy A30s A7](https://www.amazon.es/dp/B0872NTBGK/?tag=tolees-21) a 7.98 EUR (original: 16.88 EUR) (52.73 %  de descuento) en el siguiente enlace!
 
-[![Funda Transparente Compatible para Samsu](https://m.media-amazon.com/images/I/512x6n9+z5L._SL200_.jpg)](https://www.amazon.es/dp/B0872NTBGK/?tag=tolees-21)
+[![Funda Transparente Compatible para Samsu](https://m.media-amazon.com/images/I/512x6n9+z5L._SL400_.jpg)](https://www.amazon.es/dp/B0872NTBGK/?tag=tolees-21)
 
 🔎:
 

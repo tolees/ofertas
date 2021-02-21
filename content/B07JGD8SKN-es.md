@@ -2,7 +2,7 @@
 layout: post
 title: 'Columbia Nikiski  Botas Bajas para Mujer con un 65.42 % de descuento'
 date: 2020-02-01 19:22:24
-image: 'https://m.media-amazon.com/images/I/41uRO8LQ-AL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41uRO8LQ-AL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '106.10499999999999'
 
 En este momento está [Columbia Nikiski  Botas Bajas para Mujer  Beige  Elk  Lagoon   36 EU](https://www.amazon.es/dp/B07JGD8SKN/?tag=tolees-21) a 44.95 EUR (original: 129.99 EUR) (65.42 %  de descuento) en el siguiente enlace!
 
-[![Columbia Nikiski  Botas Bajas para Mujer](https://m.media-amazon.com/images/I/41uRO8LQ-AL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07JGD8SKN/?tag=tolees-21)
+[![Columbia Nikiski  Botas Bajas para Mujer](https://m.media-amazon.com/images/I/41uRO8LQ-AL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07JGD8SKN/?tag=tolees-21)
 
 🔎:
 

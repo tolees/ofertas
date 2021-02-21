@@ -2,7 +2,7 @@
 layout: post
 title: 'Fossil Reloj Analogico para Hombre de Cu al 26.12 % de descuento'
 date: 2020-06-15 20:04:52
-image: 'https://m.media-amazon.com/images/I/41D3tUqOOeL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41D3tUqOOeL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '139.86'
 
 Ahora mismo tienes [Fossil Reloj Analogico para Hombre de Cuarzo con Correa en Cuero FTW1206](https://www.amazon.es/dp/B074GD22JW/?tag=tolees-21) a 132.25 EUR (original: 179.0 EUR) (26.12 %  de descuento) en el siguiente enlace!
 
-[![Fossil Reloj Analogico para Hombre de Cu](https://m.media-amazon.com/images/I/41D3tUqOOeL._SL200_.jpg)](https://www.amazon.es/dp/B074GD22JW/?tag=tolees-21)
+[![Fossil Reloj Analogico para Hombre de Cu](https://m.media-amazon.com/images/I/41D3tUqOOeL._SL400_.jpg)](https://www.amazon.es/dp/B074GD22JW/?tag=tolees-21)
 
 🔎:
 

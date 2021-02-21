@@ -2,7 +2,7 @@
 layout: post
 title: 'Omega PCS71906OG05G - Altavoces  color v al 26.94 % de descuento'
 date: 2020-06-18 15:37:39
-image: 'https://m.media-amazon.com/images/I/4115tSqpHqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/4115tSqpHqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.9399999999999995'
 
 Ahora mismo tienes [Omega PCS71906OG05G - Altavoces  color verde](https://www.amazon.es/dp/B017ENMZRQ/?tag=tolees-21) a 7.43 EUR (original: 10.17 EUR) (26.94 %  de descuento) en el siguiente enlace!
 
-[![Omega PCS71906OG05G - Altavoces  color v](https://m.media-amazon.com/images/I/4115tSqpHqL._SL200_.jpg)](https://www.amazon.es/dp/B017ENMZRQ/?tag=tolees-21)
+[![Omega PCS71906OG05G - Altavoces  color v](https://m.media-amazon.com/images/I/4115tSqpHqL._SL400_.jpg)](https://www.amazon.es/dp/B017ENMZRQ/?tag=tolees-21)
 
 🔎:
 

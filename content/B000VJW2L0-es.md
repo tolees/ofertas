@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 45.70 % en Eukanuba Working & Endurance - Comida se'
 date: 2020-09-23 16:15:05
-image: 'https://m.media-amazon.com/images/I/4125fmQyCBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/4125fmQyCBL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '33.99'
 
 Tienes [Eukanuba Working & Endurance - Comida seca para perros adultos  para perros de trabajo con altas necesidades de energía y nutrientes  para un pico de energía sostenido  15 kg](https://www.amazon.es/dp/B000VJW2L0/?tag=tolees-21) con un 45.70 % de descuento con precio de oferta de 33.99 EUR (original: 62.6 EUR) en el siguiente enlace!
 
-[![Eukanuba Working & Endurance - Comida se](https://m.media-amazon.com/images/I/4125fmQyCBL._SL200_.jpg)](https://www.amazon.es/dp/B000VJW2L0/?tag=tolees-21)
+[![Eukanuba Working & Endurance - Comida se](https://m.media-amazon.com/images/I/4125fmQyCBL._SL400_.jpg)](https://www.amazon.es/dp/B000VJW2L0/?tag=tolees-21)
 
 ℹ️:
 

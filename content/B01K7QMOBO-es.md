@@ -2,7 +2,7 @@
 layout: post
 title: 'Dodot Toallitas Básico de Recambio - 54  al 34.09 % de descuento'
 date: 2020-06-25 12:47:43
-image: 'https://m.media-amazon.com/images/I/41ag1+rVHeL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ag1+rVHeL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '0.8746153846153845'
 
 Ahora mismo tienes [Dodot Toallitas Básico de Recambio - 54 Unidades](https://www.amazon.es/dp/B01K7QMOBO/?tag=tolees-21) a 0.87 EUR (original: 1.32 EUR) (34.09 %  de descuento) en el siguiente enlace!
 
-[![Dodot Toallitas Básico de Recambio - 54 ](https://m.media-amazon.com/images/I/41ag1+rVHeL._SL200_.jpg)](https://www.amazon.es/dp/B01K7QMOBO/?tag=tolees-21)
+[![Dodot Toallitas Básico de Recambio - 54 ](https://m.media-amazon.com/images/I/41ag1+rVHeL._SL400_.jpg)](https://www.amazon.es/dp/B01K7QMOBO/?tag=tolees-21)
 
 🔎:
 

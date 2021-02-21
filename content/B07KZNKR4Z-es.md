@@ -2,7 +2,7 @@
 layout: post
 title: 'Alex Perry Regalo Día de la Madre pulser al 74.01 % de rebaja'
 date: 2020-04-14 10:07:51
-image: 'https://m.media-amazon.com/images/I/418D8iXH+EL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/418D8iXH+EL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '25.99'
 
 Tienes [Alex Perry Regalo Día de la Madre pulseras mujer pulsera plata mujer pulseras mejores amigas mujer joyas para mujer bisuteria mujer joyeria mujer regalos originales para mujer](https://www.amazon.es/dp/B07KZNKR4Z/?tag=tolees-21) con precio final de  25.99 EUR (original: 99.99 EUR) (74.01 %  de rebaja) aqui!
 
-[![Alex Perry Regalo Día de la Madre pulser](https://m.media-amazon.com/images/I/418D8iXH+EL._SL200_.jpg)](https://www.amazon.es/dp/B07KZNKR4Z/?tag=tolees-21)
+[![Alex Perry Regalo Día de la Madre pulser](https://m.media-amazon.com/images/I/418D8iXH+EL._SL400_.jpg)](https://www.amazon.es/dp/B07KZNKR4Z/?tag=tolees-21)
 
 🔎:
 

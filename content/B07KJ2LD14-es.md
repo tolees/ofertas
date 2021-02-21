@@ -2,7 +2,7 @@
 layout: post
 title: 'UniqueMe Funda para Huawei Mate 20 Pro   al 85.78 % de rebaja'
 date: 2020-04-11 18:34:28
-image: 'https://m.media-amazon.com/images/I/51nzWPdEOWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51nzWPdEOWL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.99'
 
 Tienes [UniqueMe Funda para Huawei Mate 20 Pro  Ultra [Slim Thin] TPU Funda Protectora TPU de Silicona Suave para Mate 20 Pro - Negro](https://www.amazon.es/dp/B07KJ2LD14/?tag=tolees-21) con precio final de  1.99 EUR (original: 13.99 EUR) (85.78 %  de rebaja) aqui!
 
-[![UniqueMe Funda para Huawei Mate 20 Pro  ](https://m.media-amazon.com/images/I/51nzWPdEOWL._SL200_.jpg)](https://www.amazon.es/dp/B07KJ2LD14/?tag=tolees-21)
+[![UniqueMe Funda para Huawei Mate 20 Pro  ](https://m.media-amazon.com/images/I/51nzWPdEOWL._SL400_.jpg)](https://www.amazon.es/dp/B07KJ2LD14/?tag=tolees-21)
 
 🔎:
 

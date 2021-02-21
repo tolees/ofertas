@@ -2,7 +2,7 @@
 layout: post
 title: 'Pop! Modern Family - Figura de Vinilo Ja al 68.65 % de descuento'
 date: 2020-06-02 07:11:52
-image: 'https://m.media-amazon.com/images/I/41awPEC0RNL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41awPEC0RNL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.0'
 
 Ahora mismo tienes [Pop! Modern Family - Figura de Vinilo Jay](https://www.amazon.es/dp/B07HBKP847/?tag=tolees-21) a 5.0 EUR (original: 15.95 EUR) (68.65 %  de descuento) en el siguiente enlace!
 
-[![Pop! Modern Family - Figura de Vinilo Ja](https://m.media-amazon.com/images/I/41awPEC0RNL._SL200_.jpg)](https://www.amazon.es/dp/B07HBKP847/?tag=tolees-21)
+[![Pop! Modern Family - Figura de Vinilo Ja](https://m.media-amazon.com/images/I/41awPEC0RNL._SL400_.jpg)](https://www.amazon.es/dp/B07HBKP847/?tag=tolees-21)
 
 🔎:
 

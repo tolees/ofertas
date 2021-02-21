@@ -2,7 +2,7 @@
 layout: post
 title: 'Cuna portátil  Capazos Cuna de Viaje tel al 39.23 % de rebaja'
 date: 2020-02-27 19:15:35
-image: 'https://m.media-amazon.com/images/I/51VJvBWdoFL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51VJvBWdoFL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.29'
 
 Tienes [Cuna portátil  Capazos Cuna de Viaje tela Oxford Plegable Multi-bolsillo Bolsa de viaje reutilizable de gran tamaño de asas para bebés recién nacidos Dark Blue ](https://www.amazon.es/dp/B07QB2T9QS/?tag=tolees-21) con precio final de  20.29 EUR (original: 33.39 EUR) (39.23 %  de rebaja) aqui!
 
-[![Cuna portátil  Capazos Cuna de Viaje tel](https://m.media-amazon.com/images/I/51VJvBWdoFL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07QB2T9QS/?tag=tolees-21)
+[![Cuna portátil  Capazos Cuna de Viaje tel](https://m.media-amazon.com/images/I/51VJvBWdoFL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07QB2T9QS/?tag=tolees-21)
 
 🔎:
 

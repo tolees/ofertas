@@ -2,7 +2,7 @@
 layout: post
 title: 'AROMASENSES VELON 7 POTENCIAS al 37.80 % de rebaja'
 date: 2020-02-28 09:06:12
-image: 'https://m.media-amazon.com/images/I/31anSiOJENL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31anSiOJENL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.5'
 
 Tienes [AROMASENSES VELON 7 POTENCIAS](https://www.amazon.es/dp/B07JY9DNJR/?tag=tolees-21) con precio final de  6.5 EUR (original: 10.45 EUR) (37.80 %  de rebaja) aqui!
 
-[![AROMASENSES VELON 7 POTENCIAS](https://m.media-amazon.com/images/I/31anSiOJENL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07JY9DNJR/?tag=tolees-21)
+[![AROMASENSES VELON 7 POTENCIAS](https://m.media-amazon.com/images/I/31anSiOJENL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07JY9DNJR/?tag=tolees-21)
 
 🔎:
 

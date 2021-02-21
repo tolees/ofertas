@@ -2,7 +2,7 @@
 layout: post
 title: 'Tristar KA-5087 Radiador eléctrico – Ace con un 37.12 % de descuento'
 date: 2020-05-10 18:08:44
-image: 'https://m.media-amazon.com/images/I/41AvrnZ-+NL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41AvrnZ-+NL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '33.95666666666666'
 
 En este momento está [Tristar KA-5087 Radiador eléctrico – Aceite – 7 cuerpos – 1500 W](https://www.amazon.es/dp/B075KJR43Q/?tag=tolees-21) a 31.41 EUR (original: 49.95 EUR) (37.12 %  de descuento) en el siguiente enlace!
 
-[![Tristar KA-5087 Radiador eléctrico – Ace](https://m.media-amazon.com/images/I/41AvrnZ-+NL._SL200_.jpg)](https://www.amazon.es/dp/B075KJR43Q/?tag=tolees-21)
+[![Tristar KA-5087 Radiador eléctrico – Ace](https://m.media-amazon.com/images/I/41AvrnZ-+NL._SL400_.jpg)](https://www.amazon.es/dp/B075KJR43Q/?tag=tolees-21)
 
 🔎:
 

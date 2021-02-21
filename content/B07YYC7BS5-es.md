@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 40.00 % en Trueno Sala'
 date: 2020-02-05 12:26:07
-image: 'https://m.media-amazon.com/images/I/21sNS4G+mNL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21sNS4G+mNL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '33.266666666666666'
 
 Tienes [Trueno Sala](https://www.amazon.es/dp/B07YYC7BS5/?tag=tolees-21) con un 40.00 % de descuento con precio de oferta de 29.94 EUR (original: 49.9 EUR) en el siguiente enlace!
 
-[![Trueno Sala](https://m.media-amazon.com/images/I/21sNS4G+mNL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07YYC7BS5/?tag=tolees-21)
+[![Trueno Sala](https://m.media-amazon.com/images/I/21sNS4G+mNL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07YYC7BS5/?tag=tolees-21)
 
 ℹ️:
 

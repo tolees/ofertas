@@ -2,7 +2,7 @@
 layout: post
 title: 'Dek - Zapatillas ultraligeras de cordone al 65.81 % de descuento'
 date: 2020-05-16 08:40:09
-image: 'https://m.media-amazon.com/images/I/51hmjr5OvgL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51hmjr5OvgL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.95'
 
 Ahora mismo tienes [Dek - Zapatillas ultraligeras de cordones modelo Zeus para niños  34 EU/Gris ](https://www.amazon.es/dp/B01MUPKDF2/?tag=tolees-21) a 6.95 EUR (original: 20.33 EUR) (65.81 %  de descuento) en el siguiente enlace!
 
-[![Dek - Zapatillas ultraligeras de cordone](https://m.media-amazon.com/images/I/51hmjr5OvgL._SL200_.jpg)](https://www.amazon.es/dp/B01MUPKDF2/?tag=tolees-21)
+[![Dek - Zapatillas ultraligeras de cordone](https://m.media-amazon.com/images/I/51hmjr5OvgL._SL400_.jpg)](https://www.amazon.es/dp/B01MUPKDF2/?tag=tolees-21)
 
 🔎:
 

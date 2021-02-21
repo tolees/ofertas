@@ -2,7 +2,7 @@
 layout: post
 title: 'PUMA RS 9.8 Cosmic  Zapatillas Unisex Ad al 55.99 % de rebaja'
 date: 2020-02-19 06:37:26
-image: 'https://m.media-amazon.com/images/I/41piRPtMH0L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41piRPtMH0L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '39.59'
 
 Tienes [PUMA RS 9.8 Cosmic  Zapatillas Unisex Adulto  White-Peacoat  43 EU](https://www.amazon.es/dp/B07KFZ46N9/?tag=tolees-21) con precio final de  39.59 EUR (original: 89.95 EUR) (55.99 %  de rebaja) aqui!
 
-[![PUMA RS 9.8 Cosmic  Zapatillas Unisex Ad](https://m.media-amazon.com/images/I/41piRPtMH0L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07KFZ46N9/?tag=tolees-21)
+[![PUMA RS 9.8 Cosmic  Zapatillas Unisex Ad](https://m.media-amazon.com/images/I/41piRPtMH0L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07KFZ46N9/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'G-STAR RAW Bronson Low Waist Boyfriend C con un 89.92 % de descuento'
 date: 2020-01-21 11:29:56
-image: 'https://images-eu.ssl-images-amazon.com/images/I/3169UKXhN5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/3169UKXhN5L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.74'
 
 En este momento está [G-STAR RAW Bronson Low Waist Boyfriend Chino Pantalones  Negro  rinsed pressed 6960-7410   30W / 34L para Mujer](https://www.amazon.es/dp/B01HZUQL8C/?tag=tolees-21) a 11.14 EUR (original: 110.56 EUR) (89.92 %  de descuento) en el siguiente enlace!
 
-[![G-STAR RAW Bronson Low Waist Boyfriend C](https://images-eu.ssl-images-amazon.com/images/I/3169UKXhN5L._SL200_.jpg)](https://www.amazon.es/dp/B01HZUQL8C/?tag=tolees-21)
+[![G-STAR RAW Bronson Low Waist Boyfriend C](https://images-eu.ssl-images-amazon.com/images/I/3169UKXhN5L._SL400_.jpg)](https://www.amazon.es/dp/B01HZUQL8C/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: '1 Par 7/8" Motocicleta Perillas Motocicl con un 61.59 % de descuento'
 date: 2020-10-09 18:58:37
-image: 'https://m.media-amazon.com/images/I/51I2-AQDzeL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51I2-AQDzeL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.99'
 
 En este momento está [1 Par 7/8" Motocicleta Perillas Motocicleta Universal Puño Acoples de Manillar Moto Manillar Aluminio  5 ](https://www.amazon.es/dp/B0757D8PXQ/?tag=tolees-21) a 4.99 EUR (original: 12.99 EUR) (61.59 %  de descuento) en el siguiente enlace!
 
-[![1 Par 7/8" Motocicleta Perillas Motocicl](https://m.media-amazon.com/images/I/51I2-AQDzeL._SL200_.jpg)](https://www.amazon.es/dp/B0757D8PXQ/?tag=tolees-21)
+[![1 Par 7/8" Motocicleta Perillas Motocicl](https://m.media-amazon.com/images/I/51I2-AQDzeL._SL400_.jpg)](https://www.amazon.es/dp/B0757D8PXQ/?tag=tolees-21)
 
 🔎:
 

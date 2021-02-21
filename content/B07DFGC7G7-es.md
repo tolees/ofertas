@@ -2,7 +2,7 @@
 layout: post
 title: 'Funko Mortal Engines - Figura de Vinilo  al 68.65 % de descuento'
 date: 2020-09-18 10:57:18
-image: 'https://m.media-amazon.com/images/I/41McYWcXEmL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41McYWcXEmL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.12'
 
 Ahora mismo tienes [Funko Mortal Engines - Figura de Vinilo Thaddeus Valentine](https://www.amazon.es/dp/B07DFGC7G7/?tag=tolees-21) a 5.0 EUR (original: 15.95 EUR) (68.65 %  de descuento) en el siguiente enlace!
 
-[![Funko Mortal Engines - Figura de Vinilo ](https://m.media-amazon.com/images/I/41McYWcXEmL._SL200_.jpg)](https://www.amazon.es/dp/B07DFGC7G7/?tag=tolees-21)
+[![Funko Mortal Engines - Figura de Vinilo ](https://m.media-amazon.com/images/I/41McYWcXEmL._SL400_.jpg)](https://www.amazon.es/dp/B07DFGC7G7/?tag=tolees-21)
 
 🔎:
 

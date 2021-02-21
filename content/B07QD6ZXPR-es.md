@@ -2,7 +2,7 @@
 layout: post
 title: 'Pablosky 590821  Botas Slouch para Niños al 75.88 % de descuento'
 date: 2020-02-23 11:48:57
-image: 'https://m.media-amazon.com/images/I/41dtA7DdpWL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41dtA7DdpWL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.41'
 
 Está [Pablosky 590821  Botas Slouch para Niños  Azul  Azul Azul   21 EU](https://www.amazon.es/dp/B07QD6ZXPR/?tag=tolees-21) con 75.88 de descuento por 9.41 EUR (original: 39.02 EUR) en el siguiente enlace!
 
-[![Pablosky 590821  Botas Slouch para Niños](https://m.media-amazon.com/images/I/41dtA7DdpWL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07QD6ZXPR/?tag=tolees-21)
+[![Pablosky 590821  Botas Slouch para Niños](https://m.media-amazon.com/images/I/41dtA7DdpWL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07QD6ZXPR/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Corax Games Tudor juego de tablero al 39.90 % de descuento'
 date: 2020-08-10 19:44:00
-image: 'https://m.media-amazon.com/images/I/61omWWEr7uL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61omWWEr7uL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '36.01'
 
 Está [Corax Games Tudor juego de tablero](https://www.amazon.es/dp/B0816QFMN6/?tag=tolees-21) con 39.90 de descuento por 36.01 EUR (original: 59.92 EUR) en el siguiente enlace!
 
-[![Corax Games Tudor juego de tablero](https://m.media-amazon.com/images/I/61omWWEr7uL._SL200_.jpg)](https://www.amazon.es/dp/B0816QFMN6/?tag=tolees-21)
+[![Corax Games Tudor juego de tablero](https://m.media-amazon.com/images/I/61omWWEr7uL._SL400_.jpg)](https://www.amazon.es/dp/B0816QFMN6/?tag=tolees-21)
 
 ℹ️:
 

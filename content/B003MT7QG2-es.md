@@ -2,7 +2,7 @@
 layout: post
 title: 'Papel de Armenia rosas  12 uds al 97.41 % de descuento'
 date: 2020-03-10 14:57:13
-image: 'https://m.media-amazon.com/images/I/41hTRv0ajQL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41hTRv0ajQL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.7300000000000004'
 
 Ahora mismo tienes [Papel de Armenia rosas  12 uds](https://www.amazon.es/dp/B003MT7QG2/?tag=tolees-21) a 3.56 EUR (original: 137.5 EUR) (97.41 %  de descuento) en el siguiente enlace!
 
-[![Papel de Armenia rosas  12 uds](https://m.media-amazon.com/images/I/41hTRv0ajQL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B003MT7QG2/?tag=tolees-21)
+[![Papel de Armenia rosas  12 uds](https://m.media-amazon.com/images/I/41hTRv0ajQL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B003MT7QG2/?tag=tolees-21)
 
 🔎:
 

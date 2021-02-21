@@ -2,7 +2,7 @@
 layout: post
 title: 'Scottex - Toallitas Íntimas - 16 packs d con un 41.39 % de descuento'
 date: 2020-06-06 21:07:55
-image: 'https://m.media-amazon.com/images/I/51Sgny6KbGL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Sgny6KbGL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.158888888888892'
 
 En este momento está [Scottex - Toallitas Íntimas - 16 packs de 25 toallitas - Total: 400 unidades](https://www.amazon.es/dp/B07CY6X8X8/?tag=tolees-21) a 18.75 EUR (original: 31.99 EUR) (41.39 %  de descuento) en el siguiente enlace!
 
-[![Scottex - Toallitas Íntimas - 16 packs d](https://m.media-amazon.com/images/I/51Sgny6KbGL._SL200_.jpg)](https://www.amazon.es/dp/B07CY6X8X8/?tag=tolees-21)
+[![Scottex - Toallitas Íntimas - 16 packs d](https://m.media-amazon.com/images/I/51Sgny6KbGL._SL400_.jpg)](https://www.amazon.es/dp/B07CY6X8X8/?tag=tolees-21)
 
 🔎:
 

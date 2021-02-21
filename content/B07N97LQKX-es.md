@@ -2,7 +2,7 @@
 layout: post
 title: 'BOSS Prime Polo  Azul  Medium Blue 428   al 58.54 % de descuento'
 date: 2020-02-27 15:36:37
-image: 'https://m.media-amazon.com/images/I/31uXQkNcppL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31uXQkNcppL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.0'
 
 Ahora mismo tienes [BOSS Prime Polo  Azul  Medium Blue 428   XX-Large para Hombre](https://www.amazon.es/dp/B07N97LQKX/?tag=tolees-21) a 29.0 EUR (original: 69.95 EUR) (58.54 %  de descuento) en el siguiente enlace!
 
-[![BOSS Prime Polo  Azul  Medium Blue 428  ](https://m.media-amazon.com/images/I/31uXQkNcppL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07N97LQKX/?tag=tolees-21)
+[![BOSS Prime Polo  Azul  Medium Blue 428  ](https://m.media-amazon.com/images/I/31uXQkNcppL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07N97LQKX/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Maleta de cabina Pepe Jeans Olaia rosa r con un 27.27 % de descuento'
 date: 2020-02-12 19:45:34
-image: 'https://m.media-amazon.com/images/I/41hFPNwtVCL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41hFPNwtVCL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '80.0'
 
 En este momento está [Maleta de cabina Pepe Jeans Olaia rosa rígida 55cm](https://www.amazon.es/dp/B07F92HZB3/?tag=tolees-21) a 80.0 EUR (original: 110.0 EUR) (27.27 %  de descuento) en el siguiente enlace!
 
-[![Maleta de cabina Pepe Jeans Olaia rosa r](https://m.media-amazon.com/images/I/41hFPNwtVCL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07F92HZB3/?tag=tolees-21)
+[![Maleta de cabina Pepe Jeans Olaia rosa r](https://m.media-amazon.com/images/I/41hFPNwtVCL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07F92HZB3/?tag=tolees-21)
 
 🔎:
 

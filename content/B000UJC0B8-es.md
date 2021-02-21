@@ -2,7 +2,7 @@
 layout: post
 title: 'BAUSCH + LOMB  - SofLens® 38 - Lentes de con un 71.06 % de descuento'
 date: 2020-03-06 22:04:17
-image: 'https://m.media-amazon.com/images/I/415CfaqtslL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/415CfaqtslL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.95'
 
 En este momento está [BAUSCH + LOMB  - SofLens® 38 - Lentes de contacto - Pack de 6](https://www.amazon.es/dp/B000UJC0B8/?tag=tolees-21) a 13.95 EUR (original: 48.2 EUR) (71.06 %  de descuento) en el siguiente enlace!
 
-[![BAUSCH + LOMB  - SofLens® 38 - Lentes de](https://m.media-amazon.com/images/I/415CfaqtslL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B000UJC0B8/?tag=tolees-21)
+[![BAUSCH + LOMB  - SofLens® 38 - Lentes de](https://m.media-amazon.com/images/I/415CfaqtslL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B000UJC0B8/?tag=tolees-21)
 
 🔎:
 

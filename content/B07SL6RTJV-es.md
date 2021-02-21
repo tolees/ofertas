@@ -2,7 +2,7 @@
 layout: post
 title: 'Lacoste 739SFA003421G  Zapatillas para M al 46.44 % de descuento'
 date: 2020-06-30 10:03:50
-image: 'https://m.media-amazon.com/images/I/31ZTAeyfKXL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31ZTAeyfKXL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '58.38'
 
 Está [Lacoste 739SFA003421G  Zapatillas para Mujer  Blanco  37 EU](https://www.amazon.es/dp/B07SL6RTJV/?tag=tolees-21) con 46.44 de descuento por 58.38 EUR (original: 109.0 EUR) en el siguiente enlace!
 
-[![Lacoste 739SFA003421G  Zapatillas para M](https://m.media-amazon.com/images/I/31ZTAeyfKXL._SL200_.jpg)](https://www.amazon.es/dp/B07SL6RTJV/?tag=tolees-21)
+[![Lacoste 739SFA003421G  Zapatillas para M](https://m.media-amazon.com/images/I/31ZTAeyfKXL._SL400_.jpg)](https://www.amazon.es/dp/B07SL6RTJV/?tag=tolees-21)
 
 ℹ️:
 

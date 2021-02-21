@@ -2,7 +2,7 @@
 layout: post
 title: 'Cartulinas Colores al 32.28 % de rebaja'
 date: 2020-04-01 10:51:44
-image: 'https://m.media-amazon.com/images/I/41wSSKzPgcL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41wSSKzPgcL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.0'
 
 Tienes [Cartulinas Colores](https://www.amazon.es/dp/B0191TGYG4/?tag=tolees-21) con precio final de  3.0 EUR (original: 4.43 EUR) (32.28 %  de rebaja) aqui!
 
-[![Cartulinas Colores](https://m.media-amazon.com/images/I/41wSSKzPgcL._SL200_.jpg)](https://www.amazon.es/dp/B0191TGYG4/?tag=tolees-21)
+[![Cartulinas Colores](https://m.media-amazon.com/images/I/41wSSKzPgcL._SL400_.jpg)](https://www.amazon.es/dp/B0191TGYG4/?tag=tolees-21)
 
 🔎:
 

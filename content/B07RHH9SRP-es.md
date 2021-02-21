@@ -2,7 +2,7 @@
 layout: post
 title: 'Funme USB Mini Ventilador de Escritorio  al 47.32 % de rebaja'
 date: 2020-09-16 11:35:30
-image: 'https://m.media-amazon.com/images/I/41ckrmLyJFL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ckrmLyJFL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.223333333333333'
 
 Tienes [Funme USB Mini Ventilador de Escritorio Ventilador Silencioso de Dos Táctil Ventilador para Hogar Oficina - Negro](https://www.amazon.es/dp/B07RHH9SRP/?tag=tolees-21) con precio final de  5.79 EUR (original: 10.99 EUR) (47.32 %  de rebaja) aqui!
 
-[![Funme USB Mini Ventilador de Escritorio ](https://m.media-amazon.com/images/I/41ckrmLyJFL._SL200_.jpg)](https://www.amazon.es/dp/B07RHH9SRP/?tag=tolees-21)
+[![Funme USB Mini Ventilador de Escritorio ](https://m.media-amazon.com/images/I/41ckrmLyJFL._SL400_.jpg)](https://www.amazon.es/dp/B07RHH9SRP/?tag=tolees-21)
 
 🔎:
 

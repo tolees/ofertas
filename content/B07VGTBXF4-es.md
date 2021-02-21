@@ -2,7 +2,7 @@
 layout: post
 title: 'Lee Extreme Motion Short Pantalones Cort al 59.94 % de rebaja'
 date: 2020-08-02 17:25:32
-image: 'https://m.media-amazon.com/images/I/41Radyyv37L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Radyyv37L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.01'
 
 Tienes [Lee Extreme Motion Short Pantalones Cortos  Azul  Navy 09   54  Talla del Fabricante: 31  para Hombre](https://www.amazon.es/dp/B07VGTBXF4/?tag=tolees-21) con precio final de  20.01 EUR (original: 49.95 EUR) (59.94 %  de rebaja) aqui!
 
-[![Lee Extreme Motion Short Pantalones Cort](https://m.media-amazon.com/images/I/41Radyyv37L._SL200_.jpg)](https://www.amazon.es/dp/B07VGTBXF4/?tag=tolees-21)
+[![Lee Extreme Motion Short Pantalones Cort](https://m.media-amazon.com/images/I/41Radyyv37L._SL400_.jpg)](https://www.amazon.es/dp/B07VGTBXF4/?tag=tolees-21)
 
 🔎:
 

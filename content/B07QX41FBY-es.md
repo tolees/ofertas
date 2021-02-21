@@ -2,7 +2,7 @@
 layout: post
 title: 'MP3 BENJIE 16GB MP3 Bluetooth 1.5" Repro al 50.01 % de descuento'
 date: 2020-05-10 09:06:19
-image: 'https://m.media-amazon.com/images/I/411zibt6KrL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/411zibt6KrL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '32.99'
 
 Está [MP3 BENJIE 16GB MP3 Bluetooth 1.5" Reproductor de MP3 Pantalla Táctil Completa HiFi Sin Pérdida de Sonido MP3 Running  FM Radio  Grabadora de Voz con Auriculares para Amantes del Deporte y la Música](https://www.amazon.es/dp/B07QX41FBY/?tag=tolees-21) con 50.01 de descuento por 32.99 EUR (original: 65.99 EUR) en el siguiente enlace!
 
-[![MP3 BENJIE 16GB MP3 Bluetooth 1.5" Repro](https://m.media-amazon.com/images/I/411zibt6KrL._SL200_.jpg)](https://www.amazon.es/dp/B07QX41FBY/?tag=tolees-21)
+[![MP3 BENJIE 16GB MP3 Bluetooth 1.5" Repro](https://m.media-amazon.com/images/I/411zibt6KrL._SL400_.jpg)](https://www.amazon.es/dp/B07QX41FBY/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Australian Gold Crema Hidratante Extensi con un 27.02 % de descuento'
 date: 2020-08-13 13:03:53
-image: 'https://m.media-amazon.com/images/I/41VkePXc99L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41VkePXc99L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.37'
 
 En este momento está [Australian Gold Crema Hidratante Extensiva - 227 ml](https://www.amazon.es/dp/B002S3XA8G/?tag=tolees-21) a 12.37 EUR (original: 16.95 EUR) (27.02 %  de descuento) en el siguiente enlace!
 
-[![Australian Gold Crema Hidratante Extensi](https://m.media-amazon.com/images/I/41VkePXc99L._SL200_.jpg)](https://www.amazon.es/dp/B002S3XA8G/?tag=tolees-21)
+[![Australian Gold Crema Hidratante Extensi](https://m.media-amazon.com/images/I/41VkePXc99L._SL400_.jpg)](https://www.amazon.es/dp/B002S3XA8G/?tag=tolees-21)
 
 🔎:
 

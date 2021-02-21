@@ -2,7 +2,7 @@
 layout: post
 title: 'Slabo 2 x Protector de Pantalla blindado al 37.55 % de descuento'
 date: 2020-08-13 13:31:19
-image: 'https://m.media-amazon.com/images/I/41m0BApPopL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41m0BApPopL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.99'
 
 Está [Slabo 2 x Protector de Pantalla blindado para Realme 6 Pro Shockproof A Prueba de Golpes](https://www.amazon.es/dp/B088BXPS1W/?tag=tolees-21) con 37.55 de descuento por 4.99 EUR (original: 7.99 EUR) en el siguiente enlace!
 
-[![Slabo 2 x Protector de Pantalla blindado](https://m.media-amazon.com/images/I/41m0BApPopL._SL200_.jpg)](https://www.amazon.es/dp/B088BXPS1W/?tag=tolees-21)
+[![Slabo 2 x Protector de Pantalla blindado](https://m.media-amazon.com/images/I/41m0BApPopL._SL400_.jpg)](https://www.amazon.es/dp/B088BXPS1W/?tag=tolees-21)
 
 ℹ️:
 

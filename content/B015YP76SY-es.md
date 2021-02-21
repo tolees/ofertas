@@ -2,7 +2,7 @@
 layout: post
 title: 'Beurer ME90-BT - Cardiómetro con Bluetoo al 59.80 % de descuento'
 date: 2020-07-08 13:19:38
-image: 'https://m.media-amazon.com/images/I/41P-fX2rnSL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41P-fX2rnSL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '79.99'
 
 Está [Beurer ME90-BT - Cardiómetro con Bluetooth  compatible con App"Cardio Expert"  color blanco](https://www.amazon.es/dp/B015YP76SY/?tag=tolees-21) con 59.80 de descuento por 79.99 EUR (original: 199.0 EUR) en el siguiente enlace!
 
-[![Beurer ME90-BT - Cardiómetro con Bluetoo](https://m.media-amazon.com/images/I/41P-fX2rnSL._SL200_.jpg)](https://www.amazon.es/dp/B015YP76SY/?tag=tolees-21)
+[![Beurer ME90-BT - Cardiómetro con Bluetoo](https://m.media-amazon.com/images/I/41P-fX2rnSL._SL400_.jpg)](https://www.amazon.es/dp/B015YP76SY/?tag=tolees-21)
 
 ℹ️:
 

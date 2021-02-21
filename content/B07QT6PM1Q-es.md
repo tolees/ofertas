@@ -2,7 +2,7 @@
 layout: post
 title: 'Asics Gel-Fujitrabuco 7  Zapatillas de E al 54.29 % de descuento'
 date: 2020-01-25 11:15:08
-image: 'https://m.media-amazon.com/images/I/41AWdugbLNL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41AWdugbLNL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '63.99'
 
 Está [Asics Gel-Fujitrabuco 7  Zapatillas de Entrenamiento para Hombre  Azul  Blue Expanse/Electric Blue 400   48 EU](https://www.amazon.es/dp/B07QT6PM1Q/?tag=tolees-21) con 54.29 de descuento por 63.99 EUR (original: 140.0 EUR) en el siguiente enlace!
 
-[![Asics Gel-Fujitrabuco 7  Zapatillas de E](https://m.media-amazon.com/images/I/41AWdugbLNL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07QT6PM1Q/?tag=tolees-21)
+[![Asics Gel-Fujitrabuco 7  Zapatillas de E](https://m.media-amazon.com/images/I/41AWdugbLNL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07QT6PM1Q/?tag=tolees-21)
 
 ℹ️:
 

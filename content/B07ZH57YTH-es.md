@@ -2,7 +2,7 @@
 layout: post
 title: 'L Oréal Brilliant Signature 311 Be Brill al 49.96 % de descuento'
 date: 2020-08-05 13:55:33
-image: 'https://m.media-amazon.com/images/I/31KKOiWJT-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31KKOiWJT-L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.98'
 
 Ahora mismo tienes [L Oréal Brilliant Signature 311 Be Brilliant Brillo Duradero Rojo 30 g](https://www.amazon.es/dp/B07ZH57YTH/?tag=tolees-21) a 6.98 EUR (original: 13.95 EUR) (49.96 %  de descuento) en el siguiente enlace!
 
-[![L Oréal Brilliant Signature 311 Be Brill](https://m.media-amazon.com/images/I/31KKOiWJT-L._SL200_.jpg)](https://www.amazon.es/dp/B07ZH57YTH/?tag=tolees-21)
+[![L Oréal Brilliant Signature 311 Be Brill](https://m.media-amazon.com/images/I/31KKOiWJT-L._SL400_.jpg)](https://www.amazon.es/dp/B07ZH57YTH/?tag=tolees-21)
 
 🔎:
 

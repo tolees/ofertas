@@ -2,7 +2,7 @@
 layout: post
 title: 'Singer HZB-12/A - Máquina de hielos  plá al 36.40 % de rebaja'
 date: 2020-08-13 07:33:24
-image: 'https://m.media-amazon.com/images/I/41aiR+rwbOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41aiR+rwbOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '159.0'
 
 Tienes [Singer HZB-12/A - Máquina de hielos  plástico  Color Rojo](https://www.amazon.es/dp/B01M5E9QYE/?tag=tolees-21) con precio final de  159.0 EUR (original: 249.99 EUR) (36.40 %  de rebaja) aqui!
 
-[![Singer HZB-12/A - Máquina de hielos  plá](https://m.media-amazon.com/images/I/41aiR+rwbOL._SL200_.jpg)](https://www.amazon.es/dp/B01M5E9QYE/?tag=tolees-21)
+[![Singer HZB-12/A - Máquina de hielos  plá](https://m.media-amazon.com/images/I/41aiR+rwbOL._SL400_.jpg)](https://www.amazon.es/dp/B01M5E9QYE/?tag=tolees-21)
 
 🔎:
 

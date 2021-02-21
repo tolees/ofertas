@@ -2,7 +2,7 @@
 layout: post
 title: 'Los SIMS 4 y Perros y Gatos Colección con un 40.01 % de descuento'
 date: 2020-05-18 09:32:50
-image: 'https://m.media-amazon.com/images/I/51wqTIV9nuL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51wqTIV9nuL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '30.325454545454544'
 
 En este momento está [Los SIMS 4 y Perros y Gatos Colección](https://www.amazon.es/dp/B07J6QNX3F/?tag=tolees-21) a 29.99 EUR (original: 49.99 EUR) (40.01 %  de descuento) en el siguiente enlace!
 
-[![Los SIMS 4 y Perros y Gatos Colección](https://m.media-amazon.com/images/I/51wqTIV9nuL._SL200_.jpg)](https://www.amazon.es/dp/B07J6QNX3F/?tag=tolees-21)
+[![Los SIMS 4 y Perros y Gatos Colección](https://m.media-amazon.com/images/I/51wqTIV9nuL._SL400_.jpg)](https://www.amazon.es/dp/B07J6QNX3F/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Case Logic QHDC101K - Estuche compacto p con un 46.98 % de descuento'
 date: 2020-06-16 13:01:29
-image: 'https://m.media-amazon.com/images/I/51VtD-nX5mL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51VtD-nX5mL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.9'
 
 En este momento está [Case Logic QHDC101K - Estuche compacto para disco duro  color negro](https://www.amazon.es/dp/B003WUBIZQ/?tag=tolees-21) a 7.9 EUR (original: 14.9 EUR) (46.98 %  de descuento) en el siguiente enlace!
 
-[![Case Logic QHDC101K - Estuche compacto p](https://m.media-amazon.com/images/I/51VtD-nX5mL._SL200_.jpg)](https://www.amazon.es/dp/B003WUBIZQ/?tag=tolees-21)
+[![Case Logic QHDC101K - Estuche compacto p](https://m.media-amazon.com/images/I/51VtD-nX5mL._SL400_.jpg)](https://www.amazon.es/dp/B003WUBIZQ/?tag=tolees-21)
 
 🔎:
 

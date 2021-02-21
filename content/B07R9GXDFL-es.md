@@ -2,7 +2,7 @@
 layout: post
 title: 'Amazon Essentials French Terry Jogger Sw al 31.33 % de rebaja'
 date: 2020-04-12 18:44:12
-image: 'https://m.media-amazon.com/images/I/31w7b5j5l1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31w7b5j5l1L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.5'
 
 Tienes [Amazon Essentials French Terry Jogger Sweatpant Athletic-Pants  Marino  US XXL  EU 3XL-4XL ](https://www.amazon.es/dp/B07R9GXDFL/?tag=tolees-21) con precio final de  10.5 EUR (original: 15.29 EUR) (31.33 %  de rebaja) aqui!
 
-[![Amazon Essentials French Terry Jogger Sw](https://m.media-amazon.com/images/I/31w7b5j5l1L._SL200_.jpg)](https://www.amazon.es/dp/B07R9GXDFL/?tag=tolees-21)
+[![Amazon Essentials French Terry Jogger Sw](https://m.media-amazon.com/images/I/31w7b5j5l1L._SL400_.jpg)](https://www.amazon.es/dp/B07R9GXDFL/?tag=tolees-21)
 
 🔎:
 

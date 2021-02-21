@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 40.83 % en Mical Profesional Bolsas de Basura  Gran'
 date: 2020-05-25 19:10:30
-image: 'https://m.media-amazon.com/images/I/41ukgP97KZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ukgP97KZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.0'
 
 Tienes [Mical Profesional Bolsas de Basura  Gran tamaño 85 x 110 cm - 10 unidades](https://www.amazon.es/dp/B01MUE8K60/?tag=tolees-21) con un 40.83 % de descuento con precio de oferta de 1.0 EUR (original: 1.69 EUR) en el siguiente enlace!
 
-[![Mical Profesional Bolsas de Basura  Gran](https://m.media-amazon.com/images/I/41ukgP97KZL._SL200_.jpg)](https://www.amazon.es/dp/B01MUE8K60/?tag=tolees-21)
+[![Mical Profesional Bolsas de Basura  Gran](https://m.media-amazon.com/images/I/41ukgP97KZL._SL400_.jpg)](https://www.amazon.es/dp/B01MUE8K60/?tag=tolees-21)
 
 ℹ️:
 

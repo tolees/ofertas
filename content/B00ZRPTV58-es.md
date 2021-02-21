@@ -2,7 +2,7 @@
 layout: post
 title: 'Astor Perfect Stay 16H Barra de Labios d con un 34.76 % de descuento'
 date: 2020-05-27 10:29:33
-image: 'https://m.media-amazon.com/images/I/3148hkq0vcL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/3148hkq0vcL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.1'
 
 En este momento está [Astor Perfect Stay 16H Barra de Labios de Larga Duración Tono 235 I´ll Stay Nude - 18 gr](https://www.amazon.es/dp/B00ZRPTV58/?tag=tolees-21) a 6.1 EUR (original: 9.35 EUR) (34.76 %  de descuento) en el siguiente enlace!
 
-[![Astor Perfect Stay 16H Barra de Labios d](https://m.media-amazon.com/images/I/3148hkq0vcL._SL200_.jpg)](https://www.amazon.es/dp/B00ZRPTV58/?tag=tolees-21)
+[![Astor Perfect Stay 16H Barra de Labios d](https://m.media-amazon.com/images/I/3148hkq0vcL._SL400_.jpg)](https://www.amazon.es/dp/B00ZRPTV58/?tag=tolees-21)
 
 🔎:
 

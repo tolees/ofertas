@@ -2,7 +2,7 @@
 layout: post
 title: 'Farmacell 302  Negro  M/L  Mini Pantalon al 30.98 % de rebaja'
 date: 2020-06-25 16:18:30
-image: 'https://m.media-amazon.com/images/I/31NdUznSiLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31NdUznSiLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.15'
 
 Tienes [Farmacell 302  Negro  M/L  Mini Pantalon Corto masajeador  Moldeador y con Efecto Push-up en los gluteos](https://www.amazon.es/dp/B0058E9ANQ/?tag=tolees-21) con precio final de  15.15 EUR (original: 21.95 EUR) (30.98 %  de rebaja) aqui!
 
-[![Farmacell 302  Negro  M/L  Mini Pantalon](https://m.media-amazon.com/images/I/31NdUznSiLL._SL200_.jpg)](https://www.amazon.es/dp/B0058E9ANQ/?tag=tolees-21)
+[![Farmacell 302  Negro  M/L  Mini Pantalon](https://m.media-amazon.com/images/I/31NdUznSiLL._SL400_.jpg)](https://www.amazon.es/dp/B0058E9ANQ/?tag=tolees-21)
 
 🔎:
 

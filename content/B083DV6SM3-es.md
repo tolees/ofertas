@@ -2,7 +2,7 @@
 layout: post
 title: 'Potente acabado de manga 8x48mm - Plata  con un 33.54 % de descuento'
 date: 2020-05-27 18:04:58
-image: 'https://m.media-amazon.com/images/I/41NTALdLSNL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41NTALdLSNL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.07'
 
 En este momento está [Potente acabado de manga 8x48mm - Plata 8x48mm](https://www.amazon.es/dp/B083DV6SM3/?tag=tolees-21) a 1.07 EUR (original: 1.61 EUR) (33.54 %  de descuento) en el siguiente enlace!
 
-[![Potente acabado de manga 8x48mm - Plata ](https://m.media-amazon.com/images/I/41NTALdLSNL._SL200_.jpg)](https://www.amazon.es/dp/B083DV6SM3/?tag=tolees-21)
+[![Potente acabado de manga 8x48mm - Plata ](https://m.media-amazon.com/images/I/41NTALdLSNL._SL400_.jpg)](https://www.amazon.es/dp/B083DV6SM3/?tag=tolees-21)
 
 🔎:
 

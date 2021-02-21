@@ -2,7 +2,7 @@
 layout: post
 title: 'Daily Ritual Denim Cutoff Short-Base A s al 34.86 % de descuento'
 date: 2020-08-30 19:33:40
-image: 'https://m.media-amazon.com/images/I/31HLPpFiqkL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31HLPpFiqkL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.52'
 
 Está [Daily Ritual Denim Cutoff Short-Base A shorts  Azul Oscuro  28](https://www.amazon.es/dp/B07J21B1FY/?tag=tolees-21) con 34.86 de descuento por 8.52 EUR (original: 13.08 EUR) en el siguiente enlace!
 
-[![Daily Ritual Denim Cutoff Short-Base A s](https://m.media-amazon.com/images/I/31HLPpFiqkL._SL200_.jpg)](https://www.amazon.es/dp/B07J21B1FY/?tag=tolees-21)
+[![Daily Ritual Denim Cutoff Short-Base A s](https://m.media-amazon.com/images/I/31HLPpFiqkL._SL400_.jpg)](https://www.amazon.es/dp/B07J21B1FY/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 36.59 % en Mass Effect: Andrómeda'
 date: 2020-04-27 16:36:17
-image: 'https://m.media-amazon.com/images/I/51b+RAmmokL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51b+RAmmokL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.945'
 
 Tienes [Mass Effect: Andrómeda](https://www.amazon.es/dp/B00ZIVYOVM/?tag=tolees-21) con un 36.59 % de descuento con precio de oferta de 18.99 EUR (original: 29.95 EUR) en el siguiente enlace!
 
-[![Mass Effect: Andrómeda](https://m.media-amazon.com/images/I/51b+RAmmokL._SL200_.jpg)](https://www.amazon.es/dp/B00ZIVYOVM/?tag=tolees-21)
+[![Mass Effect: Andrómeda](https://m.media-amazon.com/images/I/51b+RAmmokL._SL400_.jpg)](https://www.amazon.es/dp/B00ZIVYOVM/?tag=tolees-21)
 
 ℹ️:
 

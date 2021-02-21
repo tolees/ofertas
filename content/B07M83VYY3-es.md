@@ -2,7 +2,7 @@
 layout: post
 title: 'Napapijri TALY 2 LS Polo  Azul  French B con un 60.00 % de descuento'
 date: 2020-03-29 16:29:41
-image: 'https://m.media-amazon.com/images/I/41oNa+G3cSL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41oNa+G3cSL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '31.6'
 
 En este momento está [Napapijri TALY 2 LS Polo  Azul  French Blue Bb7   XXXL para Hombre](https://www.amazon.es/dp/B07M83VYY3/?tag=tolees-21) a 31.6 EUR (original: 79.0 EUR) (60.00 %  de descuento) en el siguiente enlace!
 
-[![Napapijri TALY 2 LS Polo  Azul  French B](https://m.media-amazon.com/images/I/41oNa+G3cSL._SL200_.jpg)](https://www.amazon.es/dp/B07M83VYY3/?tag=tolees-21)
+[![Napapijri TALY 2 LS Polo  Azul  French B](https://m.media-amazon.com/images/I/41oNa+G3cSL._SL400_.jpg)](https://www.amazon.es/dp/B07M83VYY3/?tag=tolees-21)
 
 🔎:
 

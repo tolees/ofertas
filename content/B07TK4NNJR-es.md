@@ -2,7 +2,7 @@
 layout: post
 title: 'find. Alto HS01 Mocasines  Azul  Navy Na al 57.45 % de rebaja'
 date: 2020-08-08 04:48:34
-image: 'https://m.media-amazon.com/images/I/31zNylNVoHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31zNylNVoHL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.21'
 
 Tienes [find. Alto HS01 Mocasines  Azul  Navy Navy   46.5](https://www.amazon.es/dp/B07TK4NNJR/?tag=tolees-21) con precio final de  24.21 EUR (original: 56.9 EUR) (57.45 %  de rebaja) aqui!
 
-[![find. Alto HS01 Mocasines  Azul  Navy Na](https://m.media-amazon.com/images/I/31zNylNVoHL._SL200_.jpg)](https://www.amazon.es/dp/B07TK4NNJR/?tag=tolees-21)
+[![find. Alto HS01 Mocasines  Azul  Navy Na](https://m.media-amazon.com/images/I/31zNylNVoHL._SL400_.jpg)](https://www.amazon.es/dp/B07TK4NNJR/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'New Balance Fresh Foam 1080v9  Zapatilla al 45.45 % de descuento'
 date: 2020-01-16 07:11:19
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41nMiqOMlXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41nMiqOMlXL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '92.73'
 
 Ahora mismo tienes [New Balance Fresh Foam 1080v9  Zapatillas de Running para Mujer  Azul  Air/Vintage Indigo   40 EU](https://www.amazon.es/dp/B07BL177XK/?tag=tolees-21) a 92.73 EUR (original: 170 EUR) (45.45 %  de descuento) en el siguiente enlace!
 
-[![New Balance Fresh Foam 1080v9  Zapatilla](https://images-eu.ssl-images-amazon.com/images/I/41nMiqOMlXL._SL200_.jpg)](https://www.amazon.es/dp/B07BL177XK/?tag=tolees-21)
+[![New Balance Fresh Foam 1080v9  Zapatilla](https://images-eu.ssl-images-amazon.com/images/I/41nMiqOMlXL._SL400_.jpg)](https://www.amazon.es/dp/B07BL177XK/?tag=tolees-21)
 
 🔎:
 

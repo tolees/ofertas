@@ -2,7 +2,7 @@
 layout: post
 title: 'Manta de Bebé Terciopelo Tacto Seda o Vi al 40.10 % de descuento'
 date: 2020-04-16 18:56:00
-image: 'https://m.media-amazon.com/images/I/311baivTNAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/311baivTNAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.95'
 
 Está [Manta de Bebé Terciopelo Tacto Seda o Visón 440gr/m2  80x130  TOPITOS Azul ](https://www.amazon.es/dp/B07K8NGF1P/?tag=tolees-21) con 40.10 de descuento por 11.95 EUR (original: 19.95 EUR) en el siguiente enlace!
 
-[![Manta de Bebé Terciopelo Tacto Seda o Vi](https://m.media-amazon.com/images/I/311baivTNAL._SL200_.jpg)](https://www.amazon.es/dp/B07K8NGF1P/?tag=tolees-21)
+[![Manta de Bebé Terciopelo Tacto Seda o Vi](https://m.media-amazon.com/images/I/311baivTNAL._SL400_.jpg)](https://www.amazon.es/dp/B07K8NGF1P/?tag=tolees-21)
 
 ℹ️:
 

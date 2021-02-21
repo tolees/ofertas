@@ -2,7 +2,7 @@
 layout: post
 title: 'Montse Interiors  S.L. Cuadrante o Cojín al 41.30 % de rebaja'
 date: 2020-01-23 18:37:28
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31XTAuMN6mL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31XTAuMN6mL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.95'
 
 Tienes [Montse Interiors  S.L. Cuadrante o Cojín Decoración Terciopelo 45x45 + Relleno  Capri Verde ](https://www.amazon.es/dp/B07XQBB9RX/?tag=tolees-21) con precio final de  9.95 EUR (original: 16.95 EUR) (41.30 %  de rebaja) aqui!
 
-[![Montse Interiors  S.L. Cuadrante o Cojín](https://images-eu.ssl-images-amazon.com/images/I/31XTAuMN6mL._SL200_.jpg)](https://www.amazon.es/dp/B07XQBB9RX/?tag=tolees-21)
+[![Montse Interiors  S.L. Cuadrante o Cojín](https://images-eu.ssl-images-amazon.com/images/I/31XTAuMN6mL._SL400_.jpg)](https://www.amazon.es/dp/B07XQBB9RX/?tag=tolees-21)
 
 🔎:
 

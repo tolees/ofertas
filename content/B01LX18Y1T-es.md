@@ -2,7 +2,7 @@
 layout: post
 title: 'Marvel Daredevil Mini Bust al 31.72 % de descuento'
 date: 2020-07-11 14:38:35
-image: 'https://m.media-amazon.com/images/I/412do90sfHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/412do90sfHL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '82.00999999999999'
 
 Está [Marvel Daredevil Mini Bust](https://www.amazon.es/dp/B01LX18Y1T/?tag=tolees-21) con 31.72 de descuento por 87.03 EUR (original: 127.46 EUR) en el siguiente enlace!
 
-[![Marvel Daredevil Mini Bust](https://m.media-amazon.com/images/I/412do90sfHL._SL200_.jpg)](https://www.amazon.es/dp/B01LX18Y1T/?tag=tolees-21)
+[![Marvel Daredevil Mini Bust](https://m.media-amazon.com/images/I/412do90sfHL._SL400_.jpg)](https://www.amazon.es/dp/B01LX18Y1T/?tag=tolees-21)
 
 ℹ️:
 

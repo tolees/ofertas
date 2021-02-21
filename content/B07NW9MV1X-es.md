@@ -2,7 +2,7 @@
 layout: post
 title: 'Skechers Solar Fuse-brisk Escape Zapatil al 30.09 % de descuento'
 date: 2020-07-09 06:07:19
-image: 'https://m.media-amazon.com/images/I/413S7oG2oLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/413S7oG2oLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '48.9'
 
 Está [Skechers Solar Fuse-brisk Escape Zapatillas Mujer  Black Leather/Mesh/Pink Trim Bkw   35 EU](https://www.amazon.es/dp/B07NW9MV1X/?tag=tolees-21) con 30.09 de descuento por 48.9 EUR (original: 69.95 EUR) en el siguiente enlace!
 
-[![Skechers Solar Fuse-brisk Escape Zapatil](https://m.media-amazon.com/images/I/413S7oG2oLL._SL200_.jpg)](https://www.amazon.es/dp/B07NW9MV1X/?tag=tolees-21)
+[![Skechers Solar Fuse-brisk Escape Zapatil](https://m.media-amazon.com/images/I/413S7oG2oLL._SL400_.jpg)](https://www.amazon.es/dp/B07NW9MV1X/?tag=tolees-21)
 
 ℹ️:
 

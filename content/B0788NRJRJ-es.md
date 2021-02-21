@@ -2,7 +2,7 @@
 layout: post
 title: 'Salomon Quest 4D 3 GTX W  Botas de Sende con un 27.00 % de descuento'
 date: 2020-10-11 16:24:38
-image: 'https://m.media-amazon.com/images/I/51ZeiP15wpL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51ZeiP15wpL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '145.99'
 
 En este momento está [Salomon Quest 4D 3 GTX W  Botas de Senderismo para Mujer  Multicolor  Lead/Stormy Weather/Bird of Paradis 000   36 2/3 EU](https://www.amazon.es/dp/B0788NRJRJ/?tag=tolees-21) a 145.99 EUR (original: 199.99 EUR) (27.00 %  de descuento) en el siguiente enlace!
 
-[![Salomon Quest 4D 3 GTX W  Botas de Sende](https://m.media-amazon.com/images/I/51ZeiP15wpL._SL200_.jpg)](https://www.amazon.es/dp/B0788NRJRJ/?tag=tolees-21)
+[![Salomon Quest 4D 3 GTX W  Botas de Sende](https://m.media-amazon.com/images/I/51ZeiP15wpL._SL400_.jpg)](https://www.amazon.es/dp/B0788NRJRJ/?tag=tolees-21)
 
 🔎:
 

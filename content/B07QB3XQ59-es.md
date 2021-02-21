@@ -2,7 +2,7 @@
 layout: post
 title: 'MTNG Attitude 69861  Zapatillas para Muj al 33.69 % de rebaja'
 date: 2020-07-22 21:56:31
-image: 'https://m.media-amazon.com/images/I/31EnlgLfKoL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31EnlgLfKoL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.56'
 
 Tienes [MTNG Attitude 69861  Zapatillas para Mujer  Beige  Soft Taupe C27824   36 EU](https://www.amazon.es/dp/B07QB3XQ59/?tag=tolees-21) con precio final de  19.86 EUR (original: 29.95 EUR) (33.69 %  de rebaja) aqui!
 
-[![MTNG Attitude 69861  Zapatillas para Muj](https://m.media-amazon.com/images/I/31EnlgLfKoL._SL200_.jpg)](https://www.amazon.es/dp/B07QB3XQ59/?tag=tolees-21)
+[![MTNG Attitude 69861  Zapatillas para Muj](https://m.media-amazon.com/images/I/31EnlgLfKoL._SL400_.jpg)](https://www.amazon.es/dp/B07QB3XQ59/?tag=tolees-21)
 
 🔎:
 

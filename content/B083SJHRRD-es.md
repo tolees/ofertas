@@ -2,7 +2,7 @@
 layout: post
 title: 'Home Fleek - Envases de Vidrio para Alim con un 50.76 % de descuento'
 date: 2020-02-20 12:42:21
-image: 'https://m.media-amazon.com/images/I/41uHeFaJPQL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41uHeFaJPQL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.2'
 
 En este momento está [Home Fleek - Envases de Vidrio para Alimentos | 6 Piezas | 3 Envases + 3 Tapas | Herméticos | Sin BPA | Verde | Cuadrado](https://www.amazon.es/dp/B083SJHRRD/?tag=tolees-21) a 19.2 EUR (original: 38.99 EUR) (50.76 %  de descuento) en el siguiente enlace!
 
-[![Home Fleek - Envases de Vidrio para Alim](https://m.media-amazon.com/images/I/41uHeFaJPQL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B083SJHRRD/?tag=tolees-21)
+[![Home Fleek - Envases de Vidrio para Alim](https://m.media-amazon.com/images/I/41uHeFaJPQL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B083SJHRRD/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Rimmel Nail Polish SuperGel Kate 82 Purp con un 70.00 % de descuento'
 date: 2020-07-17 10:41:32
-image: 'https://m.media-amazon.com/images/I/31juwu9z3GL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31juwu9z3GL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.45'
 
 En este momento está [Rimmel Nail Polish SuperGel Kate 82 Purple Splash Żelowy lakier do paznokci 12ml](https://www.amazon.es/dp/B06W9NPHP3/?tag=tolees-21) a 0.9 EUR (original: 3.0 EUR) (70.00 %  de descuento) en el siguiente enlace!
 
-[![Rimmel Nail Polish SuperGel Kate 82 Purp](https://m.media-amazon.com/images/I/31juwu9z3GL._SL200_.jpg)](https://www.amazon.es/dp/B06W9NPHP3/?tag=tolees-21)
+[![Rimmel Nail Polish SuperGel Kate 82 Purp](https://m.media-amazon.com/images/I/31juwu9z3GL._SL400_.jpg)](https://www.amazon.es/dp/B06W9NPHP3/?tag=tolees-21)
 
 🔎:
 

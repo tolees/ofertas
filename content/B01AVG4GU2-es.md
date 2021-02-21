@@ -2,7 +2,7 @@
 layout: post
 title: 'Master Series Caña Espada de Energía Elé al 55.43 % de descuento'
 date: 2020-03-06 09:06:13
-image: 'https://m.media-amazon.com/images/I/31rBPnyVMCL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31rBPnyVMCL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.03'
 
 Ahora mismo tienes [Master Series Caña Espada de Energía Eléctrico - 1 Unidad](https://www.amazon.es/dp/B01AVG4GU2/?tag=tolees-21) a 20.03 EUR (original: 44.94 EUR) (55.43 %  de descuento) en el siguiente enlace!
 
-[![Master Series Caña Espada de Energía Elé](https://m.media-amazon.com/images/I/31rBPnyVMCL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01AVG4GU2/?tag=tolees-21)
+[![Master Series Caña Espada de Energía Elé](https://m.media-amazon.com/images/I/31rBPnyVMCL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01AVG4GU2/?tag=tolees-21)
 
 🔎:
 

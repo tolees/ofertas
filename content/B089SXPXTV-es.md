@@ -2,7 +2,7 @@
 layout: post
 title: 'Faux Gemstones Naturales Colgante de Rei al 33.48 % de rebaja'
 date: 2020-07-08 16:27:33
-image: 'https://m.media-amazon.com/images/I/21E3cGhlL+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21E3cGhlL+L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.94'
 
 Tienes [Faux Gemstones Naturales Colgante de Reiki Puntiagudo Hexagonal sin Cadena](https://www.amazon.es/dp/B089SXPXTV/?tag=tolees-21) con precio final de  2.94 EUR (original: 4.42 EUR) (33.48 %  de rebaja) aqui!
 
-[![Faux Gemstones Naturales Colgante de Rei](https://m.media-amazon.com/images/I/21E3cGhlL+L._SL200_.jpg)](https://www.amazon.es/dp/B089SXPXTV/?tag=tolees-21)
+[![Faux Gemstones Naturales Colgante de Rei](https://m.media-amazon.com/images/I/21E3cGhlL+L._SL400_.jpg)](https://www.amazon.es/dp/B089SXPXTV/?tag=tolees-21)
 
 🔎:
 

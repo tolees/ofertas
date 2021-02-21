@@ -2,7 +2,7 @@
 layout: post
 title: 'HP CE250XD - Pack 2 cartuchos de tóner al 34.05 % de rebaja'
 date: 2020-03-27 16:13:13
-image: 'https://m.media-amazon.com/images/I/51AQMh5j2vL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51AQMh5j2vL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '299.99'
 
 Tienes [HP CE250XD - Pack 2 cartuchos de tóner](https://www.amazon.es/dp/B0085MR4AY/?tag=tolees-21) con precio final de  299.99 EUR (original: 454.9 EUR) (34.05 %  de rebaja) aqui!
 
-[![HP CE250XD - Pack 2 cartuchos de tóner](https://m.media-amazon.com/images/I/51AQMh5j2vL._SL200_.jpg)](https://www.amazon.es/dp/B0085MR4AY/?tag=tolees-21)
+[![HP CE250XD - Pack 2 cartuchos de tóner](https://m.media-amazon.com/images/I/51AQMh5j2vL._SL400_.jpg)](https://www.amazon.es/dp/B0085MR4AY/?tag=tolees-21)
 
 🔎:
 

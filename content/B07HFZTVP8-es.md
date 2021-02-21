@@ -2,7 +2,7 @@
 layout: post
 title: 'New Balance 420  Zapatillas para Mujer   con un 75.61 % de descuento'
 date: 2020-02-12 21:24:37
-image: 'https://m.media-amazon.com/images/I/41gl2UtLPjL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41gl2UtLPjL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.175'
 
 En este momento está [New Balance 420  Zapatillas para Mujer  Rosa  Pink Pink   43 EU](https://www.amazon.es/dp/B07HFZTVP8/?tag=tolees-21) a 19.51 EUR (original: 80.0 EUR) (75.61 %  de descuento) en el siguiente enlace!
 
-[![New Balance 420  Zapatillas para Mujer  ](https://m.media-amazon.com/images/I/41gl2UtLPjL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07HFZTVP8/?tag=tolees-21)
+[![New Balance 420  Zapatillas para Mujer  ](https://m.media-amazon.com/images/I/41gl2UtLPjL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07HFZTVP8/?tag=tolees-21)
 
 🔎:
 

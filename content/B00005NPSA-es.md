@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 59.31 % en Varta CR2430 - Pack de 1 pila  Litio  3V'
 date: 2020-03-27 22:42:56
-image: 'https://m.media-amazon.com/images/I/51i8zEVx7YL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51i8zEVx7YL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.18'
 
 Tienes [Varta CR2430 - Pack de 1 pila  Litio  3V  300 mAh ](https://www.amazon.es/dp/B00005NPSA/?tag=tolees-21) con un 59.31 % de descuento con precio de oferta de 1.18 EUR (original: 2.9 EUR) en el siguiente enlace!
 
-[![Varta CR2430 - Pack de 1 pila  Litio  3V](https://m.media-amazon.com/images/I/51i8zEVx7YL._SL200_.jpg)](https://www.amazon.es/dp/B00005NPSA/?tag=tolees-21)
+[![Varta CR2430 - Pack de 1 pila  Litio  3V](https://m.media-amazon.com/images/I/51i8zEVx7YL._SL400_.jpg)](https://www.amazon.es/dp/B00005NPSA/?tag=tolees-21)
 
 ℹ️:
 

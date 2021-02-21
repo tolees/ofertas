@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 34.21 % en Alclap. 1 0 m gris'
 date: 2020-05-16 07:31:45
-image: 'https://m.media-amazon.com/images/I/410vyPy8gbL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/410vyPy8gbL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.42'
 
 Tienes [Alclap. 1 0 m gris](https://www.amazon.es/dp/B07Y1Q2L5M/?tag=tolees-21) con un 34.21 % de descuento con precio de oferta de 16.42 EUR (original: 24.96 EUR) en el siguiente enlace!
 
-[![Alclap. 1 0 m gris](https://m.media-amazon.com/images/I/410vyPy8gbL._SL200_.jpg)](https://www.amazon.es/dp/B07Y1Q2L5M/?tag=tolees-21)
+[![Alclap. 1 0 m gris](https://m.media-amazon.com/images/I/410vyPy8gbL._SL400_.jpg)](https://www.amazon.es/dp/B07Y1Q2L5M/?tag=tolees-21)
 
 ℹ️:
 

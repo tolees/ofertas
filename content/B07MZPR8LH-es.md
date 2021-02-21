@@ -2,7 +2,7 @@
 layout: post
 title: 'Pop! Vinilo: Dragonball Z S6: Radditz con un 33.88 % de descuento'
 date: 2020-10-10 15:03:08
-image: 'https://m.media-amazon.com/images/I/41zeX4kWzrL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41zeX4kWzrL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.25125'
 
 En este momento está [Pop! Vinilo: Dragonball Z S6: Radditz](https://www.amazon.es/dp/B07MZPR8LH/?tag=tolees-21) a 9.25 EUR (original: 13.99 EUR) (33.88 %  de descuento) en el siguiente enlace!
 
-[![Pop! Vinilo: Dragonball Z S6: Radditz](https://m.media-amazon.com/images/I/41zeX4kWzrL._SL200_.jpg)](https://www.amazon.es/dp/B07MZPR8LH/?tag=tolees-21)
+[![Pop! Vinilo: Dragonball Z S6: Radditz](https://m.media-amazon.com/images/I/41zeX4kWzrL._SL400_.jpg)](https://www.amazon.es/dp/B07MZPR8LH/?tag=tolees-21)
 
 🔎:
 

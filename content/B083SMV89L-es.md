@@ -2,7 +2,7 @@
 layout: post
 title: 'Pulsera de Actividad Inteligente  IP67 I al 60.62 % de rebaja'
 date: 2020-08-05 16:26:30
-image: 'https://m.media-amazon.com/images/I/51Fu-gysZpL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Fu-gysZpL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '38.99'
 
 Tienes [Pulsera de Actividad Inteligente  IP67 Impermeable Reloj Inteligente Pulsera Actividad Inteligente para Deporte  Reloj de Fitness con Podómetro Smartwatch-BL29](https://www.amazon.es/dp/B083SMV89L/?tag=tolees-21) con precio final de  38.99 EUR (original: 99.0 EUR) (60.62 %  de rebaja) aqui!
 
-[![Pulsera de Actividad Inteligente  IP67 I](https://m.media-amazon.com/images/I/51Fu-gysZpL._SL200_.jpg)](https://www.amazon.es/dp/B083SMV89L/?tag=tolees-21)
+[![Pulsera de Actividad Inteligente  IP67 I](https://m.media-amazon.com/images/I/51Fu-gysZpL._SL400_.jpg)](https://www.amazon.es/dp/B083SMV89L/?tag=tolees-21)
 
 🔎:
 

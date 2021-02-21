@@ -2,7 +2,7 @@
 layout: post
 title: 'Tamaris 1-1-26096-23  Botas Altas para M al 77.29 % de descuento'
 date: 2020-05-14 10:50:20
-image: 'https://m.media-amazon.com/images/I/41s5CTZQ63L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41s5CTZQ63L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.16'
 
 Ahora mismo tienes [Tamaris 1-1-26096-23  Botas Altas para Mujer  Marrón  Rust 444   39 EU](https://www.amazon.es/dp/B07NJH5YB2/?tag=tolees-21) a 18.16 EUR (original: 79.95 EUR) (77.29 %  de descuento) en el siguiente enlace!
 
-[![Tamaris 1-1-26096-23  Botas Altas para M](https://m.media-amazon.com/images/I/41s5CTZQ63L._SL200_.jpg)](https://www.amazon.es/dp/B07NJH5YB2/?tag=tolees-21)
+[![Tamaris 1-1-26096-23  Botas Altas para M](https://m.media-amazon.com/images/I/41s5CTZQ63L._SL400_.jpg)](https://www.amazon.es/dp/B07NJH5YB2/?tag=tolees-21)
 
 🔎:
 

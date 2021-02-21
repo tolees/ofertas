@@ -2,7 +2,7 @@
 layout: post
 title: 'Amzdeal Mesa de Luz Dibujo A3  Tablero d al 30.00 % de descuento'
 date: 2020-08-31 23:37:29
-image: 'https://m.media-amazon.com/images/I/51sYH6eNrxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51sYH6eNrxL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '48.99'
 
 Está [Amzdeal Mesa de Luz Dibujo A3  Tablero de Luz con Brillo Ajustable  Tableta de Luz de Carga USB para Trazar Dibujos  Dibujo  Animación](https://www.amazon.es/dp/B07S46HWRX/?tag=tolees-21) con 30.00 de descuento por 48.99 EUR (original: 69.99 EUR) en el siguiente enlace!
 
-[![Amzdeal Mesa de Luz Dibujo A3  Tablero d](https://m.media-amazon.com/images/I/51sYH6eNrxL._SL200_.jpg)](https://www.amazon.es/dp/B07S46HWRX/?tag=tolees-21)
+[![Amzdeal Mesa de Luz Dibujo A3  Tablero d](https://m.media-amazon.com/images/I/51sYH6eNrxL._SL400_.jpg)](https://www.amazon.es/dp/B07S46HWRX/?tag=tolees-21)
 
 ℹ️:
 

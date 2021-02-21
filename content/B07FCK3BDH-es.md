@@ -2,7 +2,7 @@
 layout: post
 title: 'OurLeeme Cepillos para uñas  Nail Art Es con un 50.75 % de descuento'
 date: 2020-10-07 19:15:59
-image: 'https://m.media-amazon.com/images/I/41eerpSaOuL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41eerpSaOuL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.95'
 
 En este momento está [OurLeeme Cepillos para uñas  Nail Art Esponja Cepillo Cabeza 6 UNIDS Reutilizable Nail Art UV Gel Blooming Dotting Pintura Cepillo Esponja Cabezas de repuesto](https://www.amazon.es/dp/B07FCK3BDH/?tag=tolees-21) a 2.95 EUR (original: 5.99 EUR) (50.75 %  de descuento) en el siguiente enlace!
 
-[![OurLeeme Cepillos para uñas  Nail Art Es](https://m.media-amazon.com/images/I/41eerpSaOuL._SL200_.jpg)](https://www.amazon.es/dp/B07FCK3BDH/?tag=tolees-21)
+[![OurLeeme Cepillos para uñas  Nail Art Es](https://m.media-amazon.com/images/I/41eerpSaOuL._SL400_.jpg)](https://www.amazon.es/dp/B07FCK3BDH/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Targus THZ66103GL Fit N Grip - Funda Uni al 48.67 % de descuento'
 date: 2020-06-19 20:59:32
-image: 'https://m.media-amazon.com/images/I/41Wzv8XMX-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Wzv8XMX-L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.6'
 
 Ahora mismo tienes [Targus THZ66103GL Fit N Grip - Funda Universal para Tablets 9 y 10"  Color Rojo](https://www.amazon.es/dp/B01I1H27OK/?tag=tolees-21) a 11.6 EUR (original: 22.6 EUR) (48.67 %  de descuento) en el siguiente enlace!
 
-[![Targus THZ66103GL Fit N Grip - Funda Uni](https://m.media-amazon.com/images/I/41Wzv8XMX-L._SL200_.jpg)](https://www.amazon.es/dp/B01I1H27OK/?tag=tolees-21)
+[![Targus THZ66103GL Fit N Grip - Funda Uni](https://m.media-amazon.com/images/I/41Wzv8XMX-L._SL400_.jpg)](https://www.amazon.es/dp/B01I1H27OK/?tag=tolees-21)
 
 🔎:
 

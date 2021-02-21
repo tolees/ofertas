@@ -2,7 +2,7 @@
 layout: post
 title: 'Gillette Piel Sensible - Gel de Afeitado con un 56.33 % de descuento'
 date: 2020-05-07 16:19:16
-image: 'https://m.media-amazon.com/images/I/31GlV+HkG6L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31GlV+HkG6L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.05'
 
 En este momento está [Gillette Piel Sensible - Gel de Afeitado para Hombre 200 ml](https://www.amazon.es/dp/B01K7S3INK/?tag=tolees-21) a 1.0 EUR (original: 2.29 EUR) (56.33 %  de descuento) en el siguiente enlace!
 
-[![Gillette Piel Sensible - Gel de Afeitado](https://m.media-amazon.com/images/I/31GlV+HkG6L._SL200_.jpg)](https://www.amazon.es/dp/B01K7S3INK/?tag=tolees-21)
+[![Gillette Piel Sensible - Gel de Afeitado](https://m.media-amazon.com/images/I/31GlV+HkG6L._SL400_.jpg)](https://www.amazon.es/dp/B01K7S3INK/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 54.85 % en Castellanisimos C00102 Mocasines Piel Fl'
 date: 2020-02-13 15:37:59
-image: 'https://m.media-amazon.com/images/I/41AwJMmnKjL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41AwJMmnKjL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '69.99'
 
 Tienes [Castellanisimos C00102 Mocasines Piel Florentic Borlas Hombre Hecho en España Cómodo y Elegante](https://www.amazon.es/dp/B01LAO0YSM/?tag=tolees-21) con un 54.85 % de descuento con precio de oferta de 69.99 EUR (original: 155.0 EUR) en el siguiente enlace!
 
-[![Castellanisimos C00102 Mocasines Piel Fl](https://m.media-amazon.com/images/I/41AwJMmnKjL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01LAO0YSM/?tag=tolees-21)
+[![Castellanisimos C00102 Mocasines Piel Fl](https://m.media-amazon.com/images/I/41AwJMmnKjL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01LAO0YSM/?tag=tolees-21)
 
 ℹ️:
 

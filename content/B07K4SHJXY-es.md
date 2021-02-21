@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas Falcon W  Sneaker Womens  Core Bl al 46.61 % de rebaja'
 date: 2020-09-07 00:48:12
-image: 'https://m.media-amazon.com/images/I/31xJ5sfD3qL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31xJ5sfD3qL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '53.36'
 
 Tienes [adidas Falcon W  Sneaker Womens  Core Black/Core Black/Grey  42 EU](https://www.amazon.es/dp/B07K4SHJXY/?tag=tolees-21) con precio final de  53.36 EUR (original: 99.95 EUR) (46.61 %  de rebaja) aqui!
 
-[![adidas Falcon W  Sneaker Womens  Core Bl](https://m.media-amazon.com/images/I/31xJ5sfD3qL._SL200_.jpg)](https://www.amazon.es/dp/B07K4SHJXY/?tag=tolees-21)
+[![adidas Falcon W  Sneaker Womens  Core Bl](https://m.media-amazon.com/images/I/31xJ5sfD3qL._SL400_.jpg)](https://www.amazon.es/dp/B07K4SHJXY/?tag=tolees-21)
 
 🔎:
 

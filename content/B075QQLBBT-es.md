@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 32.03 % en GORE WEAR C3 Cubrezapato para ciclismo u'
 date: 2020-02-01 12:09:12
-image: 'https://m.media-amazon.com/images/I/412sQ+kSx4L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/412sQ+kSx4L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '33.95'
 
 Tienes [GORE WEAR C3 Cubrezapato para ciclismo unisex Partial GORE WINDSTOPPER  Talla: 45-47  Color: amarillo neón/negro](https://www.amazon.es/dp/B075QQLBBT/?tag=tolees-21) con un 32.03 % de descuento con precio de oferta de 33.95 EUR (original: 49.95 EUR) en el siguiente enlace!
 
-[![GORE WEAR C3 Cubrezapato para ciclismo u](https://m.media-amazon.com/images/I/412sQ+kSx4L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B075QQLBBT/?tag=tolees-21)
+[![GORE WEAR C3 Cubrezapato para ciclismo u](https://m.media-amazon.com/images/I/412sQ+kSx4L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B075QQLBBT/?tag=tolees-21)
 
 ℹ️:
 

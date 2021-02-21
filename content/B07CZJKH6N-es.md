@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour Boxerjocks 15 cm Ropa Inter al 51.28 % de descuento'
 date: 2020-06-22 10:40:57
-image: 'https://m.media-amazon.com/images/I/41mRV-IaEdL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41mRV-IaEdL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.656666666666666'
 
 Está [Under Armour Boxerjocks 15 cm Ropa Interior Elástica  3 Unidades  Hombre  Rojo  Red 600   M](https://www.amazon.es/dp/B07CZJKH6N/?tag=tolees-21) con 51.28 de descuento por 19.49 EUR (original: 40.0 EUR) en el siguiente enlace!
 
-[![Under Armour Boxerjocks 15 cm Ropa Inter](https://m.media-amazon.com/images/I/41mRV-IaEdL._SL200_.jpg)](https://www.amazon.es/dp/B07CZJKH6N/?tag=tolees-21)
+[![Under Armour Boxerjocks 15 cm Ropa Inter](https://m.media-amazon.com/images/I/41mRV-IaEdL._SL400_.jpg)](https://www.amazon.es/dp/B07CZJKH6N/?tag=tolees-21)
 
 ℹ️:
 

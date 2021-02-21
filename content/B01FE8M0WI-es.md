@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 26.01 % en Gardena 08905-20 Tijera de jardín  Diáme'
 date: 2020-08-31 10:01:41
-image: 'https://m.media-amazon.com/images/I/318ft5DnguL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/318ft5DnguL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '22.16'
 
 Tienes [Gardena 08905-20 Tijera de jardín  Diámetro máx de corte-Ø: 24mm  S-XL ](https://www.amazon.es/dp/B01FE8M0WI/?tag=tolees-21) con un 26.01 % de descuento con precio de oferta de 22.16 EUR (original: 29.95 EUR) en el siguiente enlace!
 
-[![Gardena 08905-20 Tijera de jardín  Diáme](https://m.media-amazon.com/images/I/318ft5DnguL._SL200_.jpg)](https://www.amazon.es/dp/B01FE8M0WI/?tag=tolees-21)
+[![Gardena 08905-20 Tijera de jardín  Diáme](https://m.media-amazon.com/images/I/318ft5DnguL._SL400_.jpg)](https://www.amazon.es/dp/B01FE8M0WI/?tag=tolees-21)
 
 ℹ️:
 

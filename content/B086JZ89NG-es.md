@@ -2,7 +2,7 @@
 layout: post
 title: 'TRUUA 50pcs Papel Pintura colador Embudo al 52.69 % de rebaja'
 date: 2020-05-09 17:33:35
-image: 'https://m.media-amazon.com/images/I/41ccHcvcrkL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ccHcvcrkL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.22'
 
 Tienes [TRUUA 50pcs Papel Pintura colador Embudo de Filtro de Nylon  Malla Blanca cónico   9.5x16cm ](https://www.amazon.es/dp/B086JZ89NG/?tag=tolees-21) con precio final de  7.22 EUR (original: 15.26 EUR) (52.69 %  de rebaja) aqui!
 
-[![TRUUA 50pcs Papel Pintura colador Embudo](https://m.media-amazon.com/images/I/41ccHcvcrkL._SL200_.jpg)](https://www.amazon.es/dp/B086JZ89NG/?tag=tolees-21)
+[![TRUUA 50pcs Papel Pintura colador Embudo](https://m.media-amazon.com/images/I/41ccHcvcrkL._SL400_.jpg)](https://www.amazon.es/dp/B086JZ89NG/?tag=tolees-21)
 
 🔎:
 

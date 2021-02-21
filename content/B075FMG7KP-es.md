@@ -2,7 +2,7 @@
 layout: post
 title: 'Funria m-312 - Exprimidor manual de limó al 46.45 % de descuento'
 date: 2020-06-06 00:44:56
-image: 'https://m.media-amazon.com/images/I/419pxMszlYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/419pxMszlYL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.59'
 
 Ahora mismo tienes [Funria m-312 - Exprimidor manual de limón  exprimidor de cítricos  naranja  sin BPA  apto para lavavajillas](https://www.amazon.es/dp/B075FMG7KP/?tag=tolees-21) a 14.99 EUR (original: 27.99 EUR) (46.45 %  de descuento) en el siguiente enlace!
 
-[![Funria m-312 - Exprimidor manual de limó](https://m.media-amazon.com/images/I/419pxMszlYL._SL200_.jpg)](https://www.amazon.es/dp/B075FMG7KP/?tag=tolees-21)
+[![Funria m-312 - Exprimidor manual de limó](https://m.media-amazon.com/images/I/419pxMszlYL._SL400_.jpg)](https://www.amazon.es/dp/B075FMG7KP/?tag=tolees-21)
 
 🔎:
 

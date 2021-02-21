@@ -2,7 +2,7 @@
 layout: post
 title: 'Wanme Correas Compatible con Xiaomi Mi B al 30.04 % de rebaja'
 date: 2020-08-29 04:05:25
-image: 'https://m.media-amazon.com/images/I/51ufUBrzLHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51ufUBrzLHL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.29'
 
 Tienes [Wanme Correas Compatible con Xiaomi Mi Band 5 Pulsera Reloj Silicona Banda Original para Xiaomi Mi Smart Band 5 Recambio Pulsera Correa  6 Pack ](https://www.amazon.es/dp/B08FYG4NZY/?tag=tolees-21) con precio final de  4.89 EUR (original: 6.99 EUR) (30.04 %  de rebaja) aqui!
 
-[![Wanme Correas Compatible con Xiaomi Mi B](https://m.media-amazon.com/images/I/51ufUBrzLHL._SL200_.jpg)](https://www.amazon.es/dp/B08FYG4NZY/?tag=tolees-21)
+[![Wanme Correas Compatible con Xiaomi Mi B](https://m.media-amazon.com/images/I/51ufUBrzLHL._SL400_.jpg)](https://www.amazon.es/dp/B08FYG4NZY/?tag=tolees-21)
 
 🔎:
 

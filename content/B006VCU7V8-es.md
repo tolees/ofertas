@@ -2,7 +2,7 @@
 layout: post
 title: 'Lancaster Suractif Volume Contorno Day C con un 50.74 % de descuento'
 date: 2020-02-04 15:29:58
-image: 'https://m.media-amazon.com/images/I/41vk5KM9VzL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41vk5KM9VzL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '41.230000000000004'
 
 En este momento está [Lancaster Suractif Volume Contorno Day Cream 50 ml](https://www.amazon.es/dp/B006VCU7V8/?tag=tolees-21) a 39.31 EUR (original: 79.8 EUR) (50.74 %  de descuento) en el siguiente enlace!
 
-[![Lancaster Suractif Volume Contorno Day C](https://m.media-amazon.com/images/I/41vk5KM9VzL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B006VCU7V8/?tag=tolees-21)
+[![Lancaster Suractif Volume Contorno Day C](https://m.media-amazon.com/images/I/41vk5KM9VzL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B006VCU7V8/?tag=tolees-21)
 
 🔎:
 

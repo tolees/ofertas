@@ -2,7 +2,7 @@
 layout: post
 title: 'NZI 150262G860 Capital Visor Graphics Bl al 32.59 % de descuento'
 date: 2020-04-24 13:57:43
-image: 'https://m.media-amazon.com/images/I/5191SbGqNYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/5191SbGqNYL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '43.33'
 
 Está [NZI 150262G860 Capital Visor Graphics Bloom Casco de Moto  Talla M 57-58 ](https://www.amazon.es/dp/B01DVUOLFA/?tag=tolees-21) con 32.59 de descuento por 43.33 EUR (original: 64.28 EUR) en el siguiente enlace!
 
-[![NZI 150262G860 Capital Visor Graphics Bl](https://m.media-amazon.com/images/I/5191SbGqNYL._SL200_.jpg)](https://www.amazon.es/dp/B01DVUOLFA/?tag=tolees-21)
+[![NZI 150262G860 Capital Visor Graphics Bl](https://m.media-amazon.com/images/I/5191SbGqNYL._SL400_.jpg)](https://www.amazon.es/dp/B01DVUOLFA/?tag=tolees-21)
 
 ℹ️:
 

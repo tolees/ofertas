@@ -2,7 +2,7 @@
 layout: post
 title: 'Garfield Kart Furious Racing con un 38.61 % de descuento'
 date: 2020-01-10 18:02:39
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51cuccV2NhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51cuccV2NhL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '25.735'
 
 En este momento está [Garfield Kart Furious Racing](https://www.amazon.es/dp/B07WDVZZ3M/?tag=tolees-21) a 21.48 EUR (original: 34.99 EUR) (38.61 %  de descuento) en el siguiente enlace!
 
-[![Garfield Kart Furious Racing](https://images-eu.ssl-images-amazon.com/images/I/51cuccV2NhL._SL200_.jpg)](https://www.amazon.es/dp/B07WDVZZ3M/?tag=tolees-21)
+[![Garfield Kart Furious Racing](https://images-eu.ssl-images-amazon.com/images/I/51cuccV2NhL._SL400_.jpg)](https://www.amazon.es/dp/B07WDVZZ3M/?tag=tolees-21)
 
 🔎:
 

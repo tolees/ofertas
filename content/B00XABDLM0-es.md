@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 34.42 % en Haribo - Pasta Basta Cola - Geles dulces'
 date: 2020-07-06 07:48:23
-image: 'https://m.media-amazon.com/images/I/414-bhsO38L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/414-bhsO38L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.336666666666666'
 
 Tienes [Haribo - Pasta Basta Cola - Geles dulces - 200 unidades](https://www.amazon.es/dp/B00XABDLM0/?tag=tolees-21) con un 34.42 % de descuento con precio de oferta de 8.69 EUR (original: 13.25 EUR) en el siguiente enlace!
 
-[![Haribo - Pasta Basta Cola - Geles dulces](https://m.media-amazon.com/images/I/414-bhsO38L._SL200_.jpg)](https://www.amazon.es/dp/B00XABDLM0/?tag=tolees-21)
+[![Haribo - Pasta Basta Cola - Geles dulces](https://m.media-amazon.com/images/I/414-bhsO38L._SL400_.jpg)](https://www.amazon.es/dp/B00XABDLM0/?tag=tolees-21)
 
 ℹ️:
 

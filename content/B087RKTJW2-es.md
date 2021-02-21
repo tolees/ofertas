@@ -2,7 +2,7 @@
 layout: post
 title: 'Paquete de 100 Unidades – se suministra  al 25.68 % de descuento'
 date: 2020-05-17 13:37:14
-image: 'https://m.media-amazon.com/images/I/51ZZCxca4UL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51ZZCxca4UL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '27.12'
 
 Ahora mismo tienes [Paquete de 100 Unidades – se suministra en Bolsa sellada de fábrica  Azul](https://www.amazon.es/dp/B087RKTJW2/?tag=tolees-21) a 27.12 EUR (original: 36.49 EUR) (25.68 %  de descuento) en el siguiente enlace!
 
-[![Paquete de 100 Unidades – se suministra ](https://m.media-amazon.com/images/I/51ZZCxca4UL._SL200_.jpg)](https://www.amazon.es/dp/B087RKTJW2/?tag=tolees-21)
+[![Paquete de 100 Unidades – se suministra ](https://m.media-amazon.com/images/I/51ZZCxca4UL._SL400_.jpg)](https://www.amazon.es/dp/B087RKTJW2/?tag=tolees-21)
 
 🔎:
 

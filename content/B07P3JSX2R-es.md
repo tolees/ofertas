@@ -2,7 +2,7 @@
 layout: post
 title: 'Superdry Storm Hybrid Ziphood Capucha  G al 48.34 % de descuento'
 date: 2020-04-09 09:36:26
-image: 'https://m.media-amazon.com/images/I/41jN-HpI5RL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41jN-HpI5RL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '61.99'
 
 Ahora mismo tienes [Superdry Storm Hybrid Ziphood Capucha  Gris  Silver Heather Marl Udd   Medium para Hombre](https://www.amazon.es/dp/B07P3JSX2R/?tag=tolees-21) a 61.99 EUR (original: 119.99 EUR) (48.34 %  de descuento) en el siguiente enlace!
 
-[![Superdry Storm Hybrid Ziphood Capucha  G](https://m.media-amazon.com/images/I/41jN-HpI5RL._SL200_.jpg)](https://www.amazon.es/dp/B07P3JSX2R/?tag=tolees-21)
+[![Superdry Storm Hybrid Ziphood Capucha  G](https://m.media-amazon.com/images/I/41jN-HpI5RL._SL400_.jpg)](https://www.amazon.es/dp/B07P3JSX2R/?tag=tolees-21)
 
 🔎:
 

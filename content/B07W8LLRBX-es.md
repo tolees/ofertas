@@ -2,7 +2,7 @@
 layout: post
 title: 'Le llamaban Trinidad  1 y 2  [Blu-ray] con un 40.03 % de descuento'
 date: 2020-09-29 07:23:52
-image: 'https://m.media-amazon.com/images/I/514VgDHkjJL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/514VgDHkjJL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.79'
 
 En este momento está [Le llamaban Trinidad  1 y 2  [Blu-ray]](https://www.amazon.es/dp/B07W8LLRBX/?tag=tolees-21) a 7.19 EUR (original: 11.99 EUR) (40.03 %  de descuento) en el siguiente enlace!
 
-[![Le llamaban Trinidad  1 y 2  [Blu-ray]](https://m.media-amazon.com/images/I/514VgDHkjJL._SL200_.jpg)](https://www.amazon.es/dp/B07W8LLRBX/?tag=tolees-21)
+[![Le llamaban Trinidad  1 y 2  [Blu-ray]](https://m.media-amazon.com/images/I/514VgDHkjJL._SL400_.jpg)](https://www.amazon.es/dp/B07W8LLRBX/?tag=tolees-21)
 
 🔎:
 

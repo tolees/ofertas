@@ -2,7 +2,7 @@
 layout: post
 title: 'Kappa Klasen  Zapatillas Unisex Adulto   al 63.49 % de descuento'
 date: 2020-01-01 15:30:12
-image: 'https://images-eu.ssl-images-amazon.com/images/I/411c3wEOtbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411c3wEOtbL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.11'
 
 Está [Kappa Klasen  Zapatillas Unisex Adulto  Coral/White 2910  36 EU](https://www.amazon.es/dp/B07LBNP1NW/?tag=tolees-21) con 63.49 de descuento por 12.76 EUR (original: 34.95 EUR) en el siguiente enlace!
 
-[![Kappa Klasen  Zapatillas Unisex Adulto  ](https://images-eu.ssl-images-amazon.com/images/I/411c3wEOtbL._SL200_.jpg)](https://www.amazon.es/dp/B07LBNP1NW/?tag=tolees-21)
+[![Kappa Klasen  Zapatillas Unisex Adulto  ](https://images-eu.ssl-images-amazon.com/images/I/411c3wEOtbL._SL400_.jpg)](https://www.amazon.es/dp/B07LBNP1NW/?tag=tolees-21)
 
 ℹ️:
 

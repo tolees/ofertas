@@ -2,7 +2,7 @@
 layout: post
 title: 'New Balance Fresh Foam LAZR v2 Hypoknit  con un 37.00 % de descuento'
 date: 2020-07-07 07:45:43
-image: 'https://m.media-amazon.com/images/I/31UIQrPelLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31UIQrPelLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '70.82'
 
 En este momento está [New Balance Fresh Foam LAZR v2 Hypoknit  Zapatillas para Hombre  Negro  Black/Neon Emerald Lb2   41.5 EU](https://www.amazon.es/dp/B07BL2F3HK/?tag=tolees-21) a 75.6 EUR (original: 120.0 EUR) (37.00 %  de descuento) en el siguiente enlace!
 
-[![New Balance Fresh Foam LAZR v2 Hypoknit ](https://m.media-amazon.com/images/I/31UIQrPelLL._SL200_.jpg)](https://www.amazon.es/dp/B07BL2F3HK/?tag=tolees-21)
+[![New Balance Fresh Foam LAZR v2 Hypoknit ](https://m.media-amazon.com/images/I/31UIQrPelLL._SL400_.jpg)](https://www.amazon.es/dp/B07BL2F3HK/?tag=tolees-21)
 
 🔎:
 

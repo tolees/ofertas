@@ -2,7 +2,7 @@
 layout: post
 title: 'PowerBar PowerGel Hydro Cola 24x67ml - G al 33.99 % de descuento'
 date: 2020-10-01 08:56:15
-image: 'https://m.media-amazon.com/images/I/51sSXZ8EFuL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51sSXZ8EFuL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '33.504285714285714'
 
 Está [PowerBar PowerGel Hydro Cola 24x67ml - Gel Energético de Alto Carbono + C2MAX Magnesio y Sodio + 100mg Cafeína](https://www.amazon.es/dp/B07MBGL8Z6/?tag=tolees-21) con 33.99 de descuento por 32.97 EUR (original: 49.95 EUR) en el siguiente enlace!
 
-[![PowerBar PowerGel Hydro Cola 24x67ml - G](https://m.media-amazon.com/images/I/51sSXZ8EFuL._SL200_.jpg)](https://www.amazon.es/dp/B07MBGL8Z6/?tag=tolees-21)
+[![PowerBar PowerGel Hydro Cola 24x67ml - G](https://m.media-amazon.com/images/I/51sSXZ8EFuL._SL400_.jpg)](https://www.amazon.es/dp/B07MBGL8Z6/?tag=tolees-21)
 
 ℹ️:
 

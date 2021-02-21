@@ -2,7 +2,7 @@
 layout: post
 title: 'Diyife Báscula Digital de Cocina  0.01g/ al 55.82 % de rebaja'
 date: 2020-09-30 17:37:22
-image: 'https://m.media-amazon.com/images/I/41J0WA7v+sL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41J0WA7v+sL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.27'
 
 Tienes [Diyife Báscula Digital de Cocina  0.01g/500g Báscula Electrónica de Cocción de Alimentos con Pantalla LCD Báscula de Pesaje de Plataforma de Acero Inoxidable Báscula para Hornear y Cocinar](https://www.amazon.es/dp/B082VT2X4L/?tag=tolees-21) con precio final de  11.04 EUR (original: 24.99 EUR) (55.82 %  de rebaja) aqui!
 
-[![Diyife Báscula Digital de Cocina  0.01g/](https://m.media-amazon.com/images/I/41J0WA7v+sL._SL200_.jpg)](https://www.amazon.es/dp/B082VT2X4L/?tag=tolees-21)
+[![Diyife Báscula Digital de Cocina  0.01g/](https://m.media-amazon.com/images/I/41J0WA7v+sL._SL400_.jpg)](https://www.amazon.es/dp/B082VT2X4L/?tag=tolees-21)
 
 🔎:
 

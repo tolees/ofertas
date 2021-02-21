@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas Adilette Aqua  Zapatillas de Depo al 32.73 % de descuento'
 date: 2020-05-13 14:07:04
-image: 'https://m.media-amazon.com/images/I/317Jq-VWeZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/317Jq-VWeZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.42'
 
 Está [adidas Adilette Aqua  Zapatillas de Deporte Unisex niño  Multicolor  Multicolor 000   36.5 EU](https://www.amazon.es/dp/B07K2LHK1C/?tag=tolees-21) con 32.73 de descuento por 13.42 EUR (original: 19.95 EUR) en el siguiente enlace!
 
-[![adidas Adilette Aqua  Zapatillas de Depo](https://m.media-amazon.com/images/I/317Jq-VWeZL._SL200_.jpg)](https://www.amazon.es/dp/B07K2LHK1C/?tag=tolees-21)
+[![adidas Adilette Aqua  Zapatillas de Depo](https://m.media-amazon.com/images/I/317Jq-VWeZL._SL400_.jpg)](https://www.amazon.es/dp/B07K2LHK1C/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Kidear Ropa Interior Kids Series de Algo al 40.00 % de descuento'
 date: 2020-03-20 17:48:15
-image: 'https://m.media-amazon.com/images/I/51QYGQkNkkL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51QYGQkNkkL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.99'
 
 Ahora mismo tienes [Kidear Ropa Interior Kids Series de Algodón Suave Calzoncillos Surtidos de niños pequeños Paquete de 6   Estilo8  4-5 Años ](https://www.amazon.es/dp/B07TRM837W/?tag=tolees-21) a 15.99 EUR (original: 26.65 EUR) (40.00 %  de descuento) en el siguiente enlace!
 
-[![Kidear Ropa Interior Kids Series de Algo](https://m.media-amazon.com/images/I/51QYGQkNkkL._SL200_.jpg)](https://www.amazon.es/dp/B07TRM837W/?tag=tolees-21)
+[![Kidear Ropa Interior Kids Series de Algo](https://m.media-amazon.com/images/I/51QYGQkNkkL._SL400_.jpg)](https://www.amazon.es/dp/B07TRM837W/?tag=tolees-21)
 
 🔎:
 

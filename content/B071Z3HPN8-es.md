@@ -2,7 +2,7 @@
 layout: post
 title: 'Asics B756Y 1990  Zapatillas de Deporte  con un 54.38 % de descuento'
 date: 2020-09-25 20:28:04
-image: 'https://m.media-amazon.com/images/I/41UBkD5N4lL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41UBkD5N4lL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '30.79'
 
 En este momento está [Asics B756Y 1990  Zapatillas de Deporte Unisex Adulto  Blanco  White   40.5 EU](https://www.amazon.es/dp/B071Z3HPN8/?tag=tolees-21) a 30.79 EUR (original: 67.49 EUR) (54.38 %  de descuento) en el siguiente enlace!
 
-[![Asics B756Y 1990  Zapatillas de Deporte ](https://m.media-amazon.com/images/I/41UBkD5N4lL._SL200_.jpg)](https://www.amazon.es/dp/B071Z3HPN8/?tag=tolees-21)
+[![Asics B756Y 1990  Zapatillas de Deporte ](https://m.media-amazon.com/images/I/41UBkD5N4lL._SL400_.jpg)](https://www.amazon.es/dp/B071Z3HPN8/?tag=tolees-21)
 
 🔎:
 

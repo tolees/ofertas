@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 53.46 % en Wet Brush-pro Pink Floral'
 date: 2020-06-28 12:04:06
-image: 'https://m.media-amazon.com/images/I/41uRaS1zJBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41uRaS1zJBL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.385000000000001'
 
 Tienes [Wet Brush-pro Pink Floral](https://www.amazon.es/dp/B01KZP7ZH0/?tag=tolees-21) con un 53.46 % de descuento con precio de oferta de 6.66 EUR (original: 14.31 EUR) en el siguiente enlace!
 
-[![Wet Brush-pro Pink Floral](https://m.media-amazon.com/images/I/41uRaS1zJBL._SL200_.jpg)](https://www.amazon.es/dp/B01KZP7ZH0/?tag=tolees-21)
+[![Wet Brush-pro Pink Floral](https://m.media-amazon.com/images/I/41uRaS1zJBL._SL400_.jpg)](https://www.amazon.es/dp/B01KZP7ZH0/?tag=tolees-21)
 
 ℹ️:
 

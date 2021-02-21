@@ -2,7 +2,7 @@
 layout: post
 title: 'Case Logic LAPS111BRK - Funda para Orden al 45.02 % de descuento'
 date: 2020-07-23 12:58:42
-image: 'https://m.media-amazon.com/images/I/51z8JyCTyqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51z8JyCTyqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.99'
 
 Ahora mismo tienes [Case Logic LAPS111BRK - Funda para Ordenador portátil de 11"  Color Naranja](https://www.amazon.es/dp/B06Y2JVDCH/?tag=tolees-21) a 10.99 EUR (original: 19.99 EUR) (45.02 %  de descuento) en el siguiente enlace!
 
-[![Case Logic LAPS111BRK - Funda para Orden](https://m.media-amazon.com/images/I/51z8JyCTyqL._SL200_.jpg)](https://www.amazon.es/dp/B06Y2JVDCH/?tag=tolees-21)
+[![Case Logic LAPS111BRK - Funda para Orden](https://m.media-amazon.com/images/I/51z8JyCTyqL._SL400_.jpg)](https://www.amazon.es/dp/B06Y2JVDCH/?tag=tolees-21)
 
 🔎:
 

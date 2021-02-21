@@ -2,7 +2,7 @@
 layout: post
 title: 'Charles Wilson Paquete de 3 Camisetas Sl al 60.10 % de descuento'
 date: 2020-08-03 18:46:44
-image: 'https://m.media-amazon.com/images/I/41ZuqsL5XPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ZuqsL5XPL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.95'
 
 Ahora mismo tienes [Charles Wilson Paquete de 3 Camisetas Slub con Cuello Redondo  Large  Essentials ](https://www.amazon.es/dp/B07TQSJK2C/?tag=tolees-21) a 11.95 EUR (original: 29.95 EUR) (60.10 %  de descuento) en el siguiente enlace!
 
-[![Charles Wilson Paquete de 3 Camisetas Sl](https://m.media-amazon.com/images/I/41ZuqsL5XPL._SL200_.jpg)](https://www.amazon.es/dp/B07TQSJK2C/?tag=tolees-21)
+[![Charles Wilson Paquete de 3 Camisetas Sl](https://m.media-amazon.com/images/I/41ZuqsL5XPL._SL400_.jpg)](https://www.amazon.es/dp/B07TQSJK2C/?tag=tolees-21)
 
 🔎:
 

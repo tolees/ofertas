@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 30.00 % en Nike Wmns Legend React 2  Zapatillas de '
 date: 2020-01-29 10:48:33
-image: 'https://m.media-amazon.com/images/I/41aJ1G67ymL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41aJ1G67ymL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '42.0'
 
 Tienes [Nike Wmns Legend React 2  Zapatillas de Running para Mujer  Rojo  Lt Redwood/Mtlc Red Bronze/Crimson Tint/Platinum Tint 800   39 EU](https://www.amazon.es/dp/B07LGBQ5VS/?tag=tolees-21) con un 30.00 % de descuento con precio de oferta de 42.0 EUR (original: 60.0 EUR) en el siguiente enlace!
 
-[![Nike Wmns Legend React 2  Zapatillas de ](https://m.media-amazon.com/images/I/41aJ1G67ymL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07LGBQ5VS/?tag=tolees-21)
+[![Nike Wmns Legend React 2  Zapatillas de ](https://m.media-amazon.com/images/I/41aJ1G67ymL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07LGBQ5VS/?tag=tolees-21)
 
 ℹ️:
 

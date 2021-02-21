@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 38.49 % en Medidor de Contornos para Suelo 120MM He'
 date: 2020-04-07 22:01:36
-image: 'https://m.media-amazon.com/images/I/5145pFW+fzL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/5145pFW+fzL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.99'
 
 Tienes [Medidor de Contornos para Suelo 120MM Herramienta de Medición de Perfil Irregular Medidor de Forma y Contorno Duplicador de Contorno para Medición Precisa de Baldosas en Madera Laminada Marcado](https://www.amazon.es/dp/B07WZFC7J5/?tag=tolees-21) con un 38.49 % de descuento con precio de oferta de 7.99 EUR (original: 12.99 EUR) en el siguiente enlace!
 
-[![Medidor de Contornos para Suelo 120MM He](https://m.media-amazon.com/images/I/5145pFW+fzL._SL200_.jpg)](https://www.amazon.es/dp/B07WZFC7J5/?tag=tolees-21)
+[![Medidor de Contornos para Suelo 120MM He](https://m.media-amazon.com/images/I/5145pFW+fzL._SL400_.jpg)](https://www.amazon.es/dp/B07WZFC7J5/?tag=tolees-21)
 
 ℹ️:
 

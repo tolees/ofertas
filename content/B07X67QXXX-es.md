@@ -2,7 +2,7 @@
 layout: post
 title: 'Mini Chupa Chups Caramelo con Palo de Sa al 29.15 % de descuento'
 date: 2020-06-30 16:20:07
-image: 'https://m.media-amazon.com/images/I/413RHmDiKOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/413RHmDiKOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.1500000000000001'
 
 Ahora mismo tienes [Mini Chupa Chups Caramelo con Palo de Sabores Variados - Bolsa de 20 unidades de 6 gr/ud](https://www.amazon.es/dp/B07X67QXXX/?tag=tolees-21) a 1.41 EUR (original: 1.99 EUR) (29.15 %  de descuento) en el siguiente enlace!
 
-[![Mini Chupa Chups Caramelo con Palo de Sa](https://m.media-amazon.com/images/I/413RHmDiKOL._SL200_.jpg)](https://www.amazon.es/dp/B07X67QXXX/?tag=tolees-21)
+[![Mini Chupa Chups Caramelo con Palo de Sa](https://m.media-amazon.com/images/I/413RHmDiKOL._SL400_.jpg)](https://www.amazon.es/dp/B07X67QXXX/?tag=tolees-21)
 
 🔎:
 

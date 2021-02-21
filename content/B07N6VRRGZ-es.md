@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger Core Leather Lace Up Shoe al 44.01 % de descuento'
 date: 2020-09-26 16:55:00
-image: 'https://m.media-amazon.com/images/I/31drfyHVfiL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31drfyHVfiL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '75.53'
 
 Está [Tommy Hilfiger Core Leather Lace Up Shoe  Mocasines para Hombre  Marrón  Natural Cognac Gtu   40 EU](https://www.amazon.es/dp/B07N6VRRGZ/?tag=tolees-21) con 44.01 de descuento por 75.53 EUR (original: 134.9 EUR) en el siguiente enlace!
 
-[![Tommy Hilfiger Core Leather Lace Up Shoe](https://m.media-amazon.com/images/I/31drfyHVfiL._SL200_.jpg)](https://www.amazon.es/dp/B07N6VRRGZ/?tag=tolees-21)
+[![Tommy Hilfiger Core Leather Lace Up Shoe](https://m.media-amazon.com/images/I/31drfyHVfiL._SL400_.jpg)](https://www.amazon.es/dp/B07N6VRRGZ/?tag=tolees-21)
 
 ℹ️:
 

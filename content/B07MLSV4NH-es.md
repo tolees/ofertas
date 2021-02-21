@@ -2,7 +2,7 @@
 layout: post
 title: 'Clarks Ronnie Top  Botas Chelsea para Ho al 59.16 % de rebaja'
 date: 2020-01-23 20:27:57
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31xhBCuJU4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31xhBCuJU4L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '49.01'
 
 Tienes [Clarks Ronnie Top  Botas Chelsea para Hombre  Marrón  British Tan Lea British Tan Lea   42.5 EU](https://www.amazon.es/dp/B07MLSV4NH/?tag=tolees-21) con precio final de  49.01 EUR (original: 120 EUR) (59.16 %  de rebaja) aqui!
 
-[![Clarks Ronnie Top  Botas Chelsea para Ho](https://images-eu.ssl-images-amazon.com/images/I/31xhBCuJU4L._SL200_.jpg)](https://www.amazon.es/dp/B07MLSV4NH/?tag=tolees-21)
+[![Clarks Ronnie Top  Botas Chelsea para Ho](https://images-eu.ssl-images-amazon.com/images/I/31xhBCuJU4L._SL400_.jpg)](https://www.amazon.es/dp/B07MLSV4NH/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Asics Patriot 10  Zapatillas de Running  al 45.08 % de rebaja'
 date: 2020-05-05 09:43:36
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41t6E15mGdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41t6E15mGdL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '32.95'
 
 Tienes [Asics Patriot 10  Zapatillas de Running para Hombre  Azul  Imperial/White 402   42.5 EU](https://www.amazon.es/dp/B07K74KWKS/?tag=tolees-21) con precio final de  32.95 EUR (original: 60 EUR) (45.08 %  de rebaja) aqui!
 
-[![Asics Patriot 10  Zapatillas de Running ](https://images-eu.ssl-images-amazon.com/images/I/41t6E15mGdL._SL200_.jpg)](https://www.amazon.es/dp/B07K74KWKS/?tag=tolees-21)
+[![Asics Patriot 10  Zapatillas de Running ](https://images-eu.ssl-images-amazon.com/images/I/41t6E15mGdL._SL400_.jpg)](https://www.amazon.es/dp/B07K74KWKS/?tag=tolees-21)
 
 🔎:
 

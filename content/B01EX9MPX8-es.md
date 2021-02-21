@@ -2,7 +2,7 @@
 layout: post
 title: 'LEDKIA LIGHTING Plafón LED Cuadrado 24W  con un 27.32 % de descuento'
 date: 2020-05-31 07:02:36
-image: 'https://m.media-amazon.com/images/I/21rOG39da4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21rOG39da4L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.86'
 
 En este momento está [LEDKIA LIGHTING Plafón LED Cuadrado 24W Blanco Cálido 2800K - 3200K](https://www.amazon.es/dp/B01EX9MPX8/?tag=tolees-21) a 13.86 EUR (original: 19.07 EUR) (27.32 %  de descuento) en el siguiente enlace!
 
-[![LEDKIA LIGHTING Plafón LED Cuadrado 24W ](https://m.media-amazon.com/images/I/21rOG39da4L._SL200_.jpg)](https://www.amazon.es/dp/B01EX9MPX8/?tag=tolees-21)
+[![LEDKIA LIGHTING Plafón LED Cuadrado 24W ](https://m.media-amazon.com/images/I/21rOG39da4L._SL400_.jpg)](https://www.amazon.es/dp/B01EX9MPX8/?tag=tolees-21)
 
 🔎:
 

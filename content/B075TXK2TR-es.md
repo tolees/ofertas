@@ -2,7 +2,7 @@
 layout: post
 title: 'MLG Tools Trampa para Ratas. XXL * 6 Uni al 31.30 % de descuento'
 date: 2020-04-16 09:16:56
-image: 'https://m.media-amazon.com/images/I/51LngHzT6WL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51LngHzT6WL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.99'
 
 Ahora mismo tienes [MLG Tools Trampa para Ratas. XXL * 6 Unidades faciles de reutilizar. Captura inmediatamente las ratas de su hogar y oficina  XXL * 6 ](https://www.amazon.es/dp/B075TXK2TR/?tag=tolees-21) a 16.99 EUR (original: 24.73 EUR) (31.30 %  de descuento) en el siguiente enlace!
 
-[![MLG Tools Trampa para Ratas. XXL * 6 Uni](https://m.media-amazon.com/images/I/51LngHzT6WL._SL200_.jpg)](https://www.amazon.es/dp/B075TXK2TR/?tag=tolees-21)
+[![MLG Tools Trampa para Ratas. XXL * 6 Uni](https://m.media-amazon.com/images/I/51LngHzT6WL._SL400_.jpg)](https://www.amazon.es/dp/B075TXK2TR/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Vans Filmore Decon  Zapatillas para Muje al 61.98 % de rebaja'
 date: 2020-02-02 12:30:00
-image: 'https://m.media-amazon.com/images/I/31W7fcTumYL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31W7fcTumYL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.71'
 
 Tienes [Vans Filmore Decon  Zapatillas para Mujer  Rosa   Suede  Lilac Snow/True White Xof   36 EU](https://www.amazon.es/dp/B07MZR4QGG/?tag=tolees-21) con precio final de  24.71 EUR (original: 65.0 EUR) (61.98 %  de rebaja) aqui!
 
-[![Vans Filmore Decon  Zapatillas para Muje](https://m.media-amazon.com/images/I/31W7fcTumYL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07MZR4QGG/?tag=tolees-21)
+[![Vans Filmore Decon  Zapatillas para Muje](https://m.media-amazon.com/images/I/31W7fcTumYL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07MZR4QGG/?tag=tolees-21)
 
 🔎:
 

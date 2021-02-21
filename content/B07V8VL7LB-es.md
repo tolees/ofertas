@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger Corporate Material Mix Ru al 50.47 % de descuento'
 date: 2020-08-04 09:24:37
-image: 'https://m.media-amazon.com/images/I/41ujZGEmksL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ujZGEmksL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '47.0'
 
 Ahora mismo tienes [Tommy Hilfiger Corporate Material Mix Runner  Zapatillas para Hombre  Negro  Black Bds   42 EU](https://www.amazon.es/dp/B07V8VL7LB/?tag=tolees-21) a 47.0 EUR (original: 94.9 EUR) (50.47 %  de descuento) en el siguiente enlace!
 
-[![Tommy Hilfiger Corporate Material Mix Ru](https://m.media-amazon.com/images/I/41ujZGEmksL._SL200_.jpg)](https://www.amazon.es/dp/B07V8VL7LB/?tag=tolees-21)
+[![Tommy Hilfiger Corporate Material Mix Ru](https://m.media-amazon.com/images/I/41ujZGEmksL._SL400_.jpg)](https://www.amazon.es/dp/B07V8VL7LB/?tag=tolees-21)
 
 🔎:
 

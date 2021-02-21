@@ -2,7 +2,7 @@
 layout: post
 title: 'Lacoste Reloj Análogo clásico para Hombr al 36.11 % de descuento'
 date: 2020-05-14 14:26:35
-image: 'https://m.media-amazon.com/images/I/41VE66Pvh6L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41VE66Pvh6L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '63.25'
 
 Ahora mismo tienes [Lacoste Reloj Análogo clásico para Hombre de Cuarzo con Correa en Silicona 2010937](https://www.amazon.es/dp/B073XCY3Y2/?tag=tolees-21) a 63.25 EUR (original: 99.0 EUR) (36.11 %  de descuento) en el siguiente enlace!
 
-[![Lacoste Reloj Análogo clásico para Hombr](https://m.media-amazon.com/images/I/41VE66Pvh6L._SL200_.jpg)](https://www.amazon.es/dp/B073XCY3Y2/?tag=tolees-21)
+[![Lacoste Reloj Análogo clásico para Hombr](https://m.media-amazon.com/images/I/41VE66Pvh6L._SL400_.jpg)](https://www.amazon.es/dp/B073XCY3Y2/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Canon MAXIFY MB2750 - Impresora de inyec al 57.11 % de descuento'
 date: 2020-05-04 12:57:30
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZQe1Ks30L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZQe1Ks30L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '128.67'
 
 Está [Canon MAXIFY MB2750 - Impresora de inyección de tinta  2 cassettes de 250 hojas  pantalla táctil TFT  15 5 ipm en color y 24 ipm en blanco y negro ](https://www.amazon.es/dp/B01HMGYF46/?tag=tolees-21) con 57.11 de descuento por 128.67 EUR (original: 300 EUR) en el siguiente enlace!
 
-[![Canon MAXIFY MB2750 - Impresora de inyec](https://images-eu.ssl-images-amazon.com/images/I/41ZQe1Ks30L._SL200_.jpg)](https://www.amazon.es/dp/B01HMGYF46/?tag=tolees-21)
+[![Canon MAXIFY MB2750 - Impresora de inyec](https://images-eu.ssl-images-amazon.com/images/I/41ZQe1Ks30L._SL400_.jpg)](https://www.amazon.es/dp/B01HMGYF46/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas Tsubasa TRN Soccer Ball  Men s  W al 26.20 % de rebaja'
 date: 2020-04-19 10:29:26
-image: 'https://m.media-amazon.com/images/I/512h+AloVYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/512h+AloVYL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.46'
 
 Tienes [adidas Tsubasa TRN Soccer Ball  Men s  White/Solar Red/Glory Blue/Black  3](https://www.amazon.es/dp/B081TN9XDL/?tag=tolees-21) con precio final de  17.46 EUR (original: 23.66 EUR) (26.20 %  de rebaja) aqui!
 
-[![adidas Tsubasa TRN Soccer Ball  Men s  W](https://m.media-amazon.com/images/I/512h+AloVYL._SL200_.jpg)](https://www.amazon.es/dp/B081TN9XDL/?tag=tolees-21)
+[![adidas Tsubasa TRN Soccer Ball  Men s  W](https://m.media-amazon.com/images/I/512h+AloVYL._SL400_.jpg)](https://www.amazon.es/dp/B081TN9XDL/?tag=tolees-21)
 
 🔎:
 

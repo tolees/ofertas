@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 48.18 % en Bresser Optics - Estación Meterológica B'
 date: 2020-01-06 13:05:15
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41Fypy1XohL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Fypy1XohL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '77.21'
 
 Tienes [Bresser Optics - Estación Meterológica Bresser 5 En 1 Comfort con Pantalla De Color Negro](https://www.amazon.es/dp/B075GQX5QY/?tag=tolees-21) con un 48.18 % de descuento con precio de oferta de 77.21 EUR (original: 149 EUR) en el siguiente enlace!
 
-[![Bresser Optics - Estación Meterológica B](https://images-eu.ssl-images-amazon.com/images/I/41Fypy1XohL._SL200_.jpg)](https://www.amazon.es/dp/B075GQX5QY/?tag=tolees-21)
+[![Bresser Optics - Estación Meterológica B](https://images-eu.ssl-images-amazon.com/images/I/41Fypy1XohL._SL400_.jpg)](https://www.amazon.es/dp/B075GQX5QY/?tag=tolees-21)
 
 ℹ️:
 

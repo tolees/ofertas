@@ -2,7 +2,7 @@
 layout: post
 title: 'Cepillo Alisador de Pelo 3 en 1  3 cabez al 64.47 % de rebaja'
 date: 2020-01-22 08:55:34
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41BxibEBCfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41BxibEBCfL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.69'
 
 Tienes [Cepillo Alisador de Pelo 3 en 1  3 cabezales  Cepillo Secador Rizador de Aire Electrico Cepillo Pelo con Tecnología Iónica](https://www.amazon.es/dp/B07G9F3W4S/?tag=tolees-21) con precio final de  8.69 EUR (original: 24.46 EUR) (64.47 %  de rebaja) aqui!
 
-[![Cepillo Alisador de Pelo 3 en 1  3 cabez](https://images-eu.ssl-images-amazon.com/images/I/41BxibEBCfL._SL200_.jpg)](https://www.amazon.es/dp/B07G9F3W4S/?tag=tolees-21)
+[![Cepillo Alisador de Pelo 3 en 1  3 cabez](https://images-eu.ssl-images-amazon.com/images/I/41BxibEBCfL._SL400_.jpg)](https://www.amazon.es/dp/B07G9F3W4S/?tag=tolees-21)
 
 🔎:
 

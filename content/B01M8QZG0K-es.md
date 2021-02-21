@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 48.03 % en Alfa Costurero Creativity Box  Goma  Azu'
 date: 2020-04-20 08:34:31
-image: 'https://m.media-amazon.com/images/I/41mKV93hvAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41mKV93hvAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.105'
 
 Tienes [Alfa Costurero Creativity Box  Goma  Azul  29x12.5x29 cm](https://www.amazon.es/dp/B01M8QZG0K/?tag=tolees-21) con un 48.03 % de descuento con precio de oferta de 11.9 EUR (original: 22.9 EUR) en el siguiente enlace!
 
-[![Alfa Costurero Creativity Box  Goma  Azu](https://m.media-amazon.com/images/I/41mKV93hvAL._SL200_.jpg)](https://www.amazon.es/dp/B01M8QZG0K/?tag=tolees-21)
+[![Alfa Costurero Creativity Box  Goma  Azu](https://m.media-amazon.com/images/I/41mKV93hvAL._SL400_.jpg)](https://www.amazon.es/dp/B01M8QZG0K/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Salomon AGILE 500 BELT set Riñonera con un 40.00 % de descuento'
 date: 2020-02-12 10:14:18
-image: 'https://m.media-amazon.com/images/I/41TA8tzienL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41TA8tzienL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '28.21'
 
 En este momento está [Salomon AGILE 500 BELT set Riñonera](https://www.amazon.es/dp/B07F6SYJ8L/?tag=tolees-21) a 30.0 EUR (original: 50.0 EUR) (40.00 %  de descuento) en el siguiente enlace!
 
-[![Salomon AGILE 500 BELT set Riñonera](https://m.media-amazon.com/images/I/41TA8tzienL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07F6SYJ8L/?tag=tolees-21)
+[![Salomon AGILE 500 BELT set Riñonera](https://m.media-amazon.com/images/I/41TA8tzienL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07F6SYJ8L/?tag=tolees-21)
 
 🔎:
 

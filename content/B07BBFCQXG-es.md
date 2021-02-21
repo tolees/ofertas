@@ -2,7 +2,7 @@
 layout: post
 title: 'Versus by Versace Reloj Analogico para H al 30.42 % de descuento'
 date: 2020-07-30 20:30:24
-image: 'https://m.media-amazon.com/images/I/51QHZknQWOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51QHZknQWOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '194.432'
 
 Ahora mismo tienes [Versus by Versace Reloj Analogico para Hombre de Cuarzo con Correa en Acero Inoxidable VSP762618](https://www.amazon.es/dp/B07BBFCQXG/?tag=tolees-21) a 187.87 EUR (original: 270.0 EUR) (30.42 %  de descuento) en el siguiente enlace!
 
-[![Versus by Versace Reloj Analogico para H](https://m.media-amazon.com/images/I/51QHZknQWOL._SL200_.jpg)](https://www.amazon.es/dp/B07BBFCQXG/?tag=tolees-21)
+[![Versus by Versace Reloj Analogico para H](https://m.media-amazon.com/images/I/51QHZknQWOL._SL400_.jpg)](https://www.amazon.es/dp/B07BBFCQXG/?tag=tolees-21)
 
 🔎:
 

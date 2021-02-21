@@ -2,7 +2,7 @@
 layout: post
 title: 'Falomir Parchís Magnético  Juego de Mesa al 33.39 % de descuento'
 date: 2020-08-16 11:54:05
-image: 'https://m.media-amazon.com/images/I/516+mboghwL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/516+mboghwL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.99'
 
 Está [Falomir Parchís Magnético  Juego de Mesa  Clásicos  16 x 16 cm  27902 ](https://www.amazon.es/dp/B01LWY1UEQ/?tag=tolees-21) con 33.39 de descuento por 3.99 EUR (original: 5.99 EUR) en el siguiente enlace!
 
-[![Falomir Parchís Magnético  Juego de Mesa](https://m.media-amazon.com/images/I/516+mboghwL._SL200_.jpg)](https://www.amazon.es/dp/B01LWY1UEQ/?tag=tolees-21)
+[![Falomir Parchís Magnético  Juego de Mesa](https://m.media-amazon.com/images/I/516+mboghwL._SL400_.jpg)](https://www.amazon.es/dp/B01LWY1UEQ/?tag=tolees-21)
 
 ℹ️:
 

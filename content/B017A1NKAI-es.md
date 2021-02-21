@@ -2,7 +2,7 @@
 layout: post
 title: 'Mercurio Distribuciones- Juego de Estrat al 41.08 % de descuento'
 date: 2020-02-23 20:16:51
-image: 'https://m.media-amazon.com/images/I/51hDSI5dFrL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51hDSI5dFrL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '32.4'
 
 Está [Mercurio Distribuciones- Juego de Estrategia  A0036 ](https://www.amazon.es/dp/B017A1NKAI/?tag=tolees-21) con 41.08 de descuento por 32.4 EUR (original: 54.99 EUR) en el siguiente enlace!
 
-[![Mercurio Distribuciones- Juego de Estrat](https://m.media-amazon.com/images/I/51hDSI5dFrL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B017A1NKAI/?tag=tolees-21)
+[![Mercurio Distribuciones- Juego de Estrat](https://m.media-amazon.com/images/I/51hDSI5dFrL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B017A1NKAI/?tag=tolees-21)
 
 ℹ️:
 

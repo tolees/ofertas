@@ -2,7 +2,7 @@
 layout: post
 title: 'EXZACT Pro – Escala Súper Delgada Analiz al 50.03 % de rebaja'
 date: 2020-03-19 22:29:23
-image: 'https://m.media-amazon.com/images/I/31jVhvPlaTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31jVhvPlaTL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.99'
 
 Tienes [EXZACT Pro – Escala Súper Delgada Analizador Corporal Electrónico/ Analizador Corporal / Báscula Personal Electronica / Báscula de Baño Digital - 1.7 cm Espesor - Grasa Corporal / Hidratación / Músculos Corporal/ Hueso - 150 kg / 330 lb  Pro Blanco ](https://www.amazon.es/dp/B011PXRL34/?tag=tolees-21) con precio final de  9.99 EUR (original: 19.99 EUR) (50.03 %  de rebaja) aqui!
 
-[![EXZACT Pro – Escala Súper Delgada Analiz](https://m.media-amazon.com/images/I/31jVhvPlaTL._SL200_.jpg)](https://www.amazon.es/dp/B011PXRL34/?tag=tolees-21)
+[![EXZACT Pro – Escala Súper Delgada Analiz](https://m.media-amazon.com/images/I/31jVhvPlaTL._SL400_.jpg)](https://www.amazon.es/dp/B011PXRL34/?tag=tolees-21)
 
 🔎:
 

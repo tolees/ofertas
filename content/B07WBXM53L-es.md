@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger Hilfiger Slim Polo  Azul  con un 49.84 % de descuento'
 date: 2020-08-23 14:03:42
-image: 'https://m.media-amazon.com/images/I/41sPiqPQGVL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41sPiqPQGVL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '41.255'
 
 En este momento está [Tommy Hilfiger Hilfiger Slim Polo  Azul  Blue Ink   Large  Talla del Fabricante:  para Hombre](https://www.amazon.es/dp/B07WBXM53L/?tag=tolees-21) a 38.45 EUR (original: 76.66 EUR) (49.84 %  de descuento) en el siguiente enlace!
 
-[![Tommy Hilfiger Hilfiger Slim Polo  Azul ](https://m.media-amazon.com/images/I/41sPiqPQGVL._SL200_.jpg)](https://www.amazon.es/dp/B07WBXM53L/?tag=tolees-21)
+[![Tommy Hilfiger Hilfiger Slim Polo  Azul ](https://m.media-amazon.com/images/I/41sPiqPQGVL._SL400_.jpg)](https://www.amazon.es/dp/B07WBXM53L/?tag=tolees-21)
 
 🔎:
 

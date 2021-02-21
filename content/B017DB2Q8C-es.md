@@ -2,7 +2,7 @@
 layout: post
 title: 'L Oréal Paris Infalible Gel Laca de Uñas con un 34.53 % de descuento'
 date: 2020-01-02 02:13:51
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31QbP2CJeNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31QbP2CJeNL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.86'
 
 En este momento está [L Oréal Paris Infalible Gel Laca de Uñas  Tono 042](https://www.amazon.es/dp/B017DB2Q8C/?tag=tolees-21) a 5.86 EUR (original: 8.95 EUR) (34.53 %  de descuento) en el siguiente enlace!
 
-[![L Oréal Paris Infalible Gel Laca de Uñas](https://images-eu.ssl-images-amazon.com/images/I/31QbP2CJeNL._SL200_.jpg)](https://www.amazon.es/dp/B017DB2Q8C/?tag=tolees-21)
+[![L Oréal Paris Infalible Gel Laca de Uñas](https://images-eu.ssl-images-amazon.com/images/I/31QbP2CJeNL._SL400_.jpg)](https://www.amazon.es/dp/B017DB2Q8C/?tag=tolees-21)
 
 🔎:
 

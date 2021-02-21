@@ -2,7 +2,7 @@
 layout: post
 title: 'Puma Modern Soleil SL  Zapatillas para M al 60.62 % de descuento'
 date: 2020-02-12 19:32:40
-image: 'https://m.media-amazon.com/images/I/31crac3dpaL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31crac3dpaL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.21'
 
 Está [Puma Modern Soleil SL  Zapatillas para Mujer  Negro  39 EU](https://www.amazon.es/dp/B011V1AEV6/?tag=tolees-21) con 60.62 de descuento por 19.69 EUR (original: 50.0 EUR) en el siguiente enlace!
 
-[![Puma Modern Soleil SL  Zapatillas para M](https://m.media-amazon.com/images/I/31crac3dpaL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B011V1AEV6/?tag=tolees-21)
+[![Puma Modern Soleil SL  Zapatillas para M](https://m.media-amazon.com/images/I/31crac3dpaL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B011V1AEV6/?tag=tolees-21)
 
 ℹ️:
 

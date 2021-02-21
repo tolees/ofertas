@@ -2,7 +2,7 @@
 layout: post
 title: 'BOSS Prime Polo  Azul  Dark Blue 402   X al 40.03 % de descuento'
 date: 2020-01-27 16:15:38
-image: 'https://m.media-amazon.com/images/I/31ubovWWPgL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31ubovWWPgL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '41.95'
 
 Ahora mismo tienes [BOSS Prime Polo  Azul  Dark Blue 402   XX-Large para Hombre](https://www.amazon.es/dp/B0758FYY2Q/?tag=tolees-21) a 41.95 EUR (original: 69.95 EUR) (40.03 %  de descuento) en el siguiente enlace!
 
-[![BOSS Prime Polo  Azul  Dark Blue 402   X](https://m.media-amazon.com/images/I/31ubovWWPgL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B0758FYY2Q/?tag=tolees-21)
+[![BOSS Prime Polo  Azul  Dark Blue 402   X](https://m.media-amazon.com/images/I/31ubovWWPgL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B0758FYY2Q/?tag=tolees-21)
 
 🔎:
 

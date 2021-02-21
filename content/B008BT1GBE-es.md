@@ -2,7 +2,7 @@
 layout: post
 title: 'Philips 12258LLECOS2 LongLife EcoVision  al 36.59 % de descuento'
 date: 2020-06-28 09:27:45
-image: 'https://m.media-amazon.com/images/I/41OpPvZFjdL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41OpPvZFjdL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.608'
 
 Está [Philips 12258LLECOS2 LongLife EcoVision - Bombillas para faros delanteros  H1  2 unidades ](https://www.amazon.es/dp/B008BT1GBE/?tag=tolees-21) con 36.59 de descuento por 11.16 EUR (original: 17.6 EUR) en el siguiente enlace!
 
-[![Philips 12258LLECOS2 LongLife EcoVision ](https://m.media-amazon.com/images/I/41OpPvZFjdL._SL200_.jpg)](https://www.amazon.es/dp/B008BT1GBE/?tag=tolees-21)
+[![Philips 12258LLECOS2 LongLife EcoVision ](https://m.media-amazon.com/images/I/41OpPvZFjdL._SL400_.jpg)](https://www.amazon.es/dp/B008BT1GBE/?tag=tolees-21)
 
 ℹ️:
 

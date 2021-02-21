@@ -2,7 +2,7 @@
 layout: post
 title: 'Nuby ID91164  Set De Recipientes Herméti al 32.53 % de descuento'
 date: 2020-08-23 13:13:10
-image: 'https://m.media-amazon.com/images/I/21sn+TOBJ5L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21sn+TOBJ5L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.06'
 
 Ahora mismo tienes [Nuby ID91164  Set De Recipientes Herméticos  Multicolor  300 ml  Pack de 6](https://www.amazon.es/dp/B000JVXUF2/?tag=tolees-21) a 6.74 EUR (original: 9.99 EUR) (32.53 %  de descuento) en el siguiente enlace!
 
-[![Nuby ID91164  Set De Recipientes Herméti](https://m.media-amazon.com/images/I/21sn+TOBJ5L._SL200_.jpg)](https://www.amazon.es/dp/B000JVXUF2/?tag=tolees-21)
+[![Nuby ID91164  Set De Recipientes Herméti](https://m.media-amazon.com/images/I/21sn+TOBJ5L._SL400_.jpg)](https://www.amazon.es/dp/B000JVXUF2/?tag=tolees-21)
 
 🔎:
 

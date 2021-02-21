@@ -2,7 +2,7 @@
 layout: post
 title: 'Meliconi Speak Pro - Auricular DJ estére con un 61.05 % de descuento'
 date: 2020-09-07 08:33:17
-image: 'https://m.media-amazon.com/images/I/41GNw3XHxFL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41GNw3XHxFL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.510000000000002'
 
 En este momento está [Meliconi Speak Pro - Auricular DJ estéreo  Color Negro](https://www.amazon.es/dp/B01MRX0VI8/?tag=tolees-21) a 11.68 EUR (original: 29.99 EUR) (61.05 %  de descuento) en el siguiente enlace!
 
-[![Meliconi Speak Pro - Auricular DJ estére](https://m.media-amazon.com/images/I/41GNw3XHxFL._SL200_.jpg)](https://www.amazon.es/dp/B01MRX0VI8/?tag=tolees-21)
+[![Meliconi Speak Pro - Auricular DJ estére](https://m.media-amazon.com/images/I/41GNw3XHxFL._SL400_.jpg)](https://www.amazon.es/dp/B01MRX0VI8/?tag=tolees-21)
 
 🔎:
 

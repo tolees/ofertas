@@ -2,7 +2,7 @@
 layout: post
 title: 'Superdry Label Ziphood suéter  Gris  Fli al 37.55 % de descuento'
 date: 2020-02-05 12:30:41
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41AX6HqfjOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41AX6HqfjOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '49.95'
 
 Está [Superdry Label Ziphood suéter  Gris  Flint Grey Grit Xje   X-Small para Hombre](https://www.amazon.es/dp/B07FLC9F6J/?tag=tolees-21) con 37.55 de descuento por 49.95 EUR (original: 79.99 EUR) en el siguiente enlace!
 
-[![Superdry Label Ziphood suéter  Gris  Fli](https://images-eu.ssl-images-amazon.com/images/I/41AX6HqfjOL._SL200_.jpg)](https://www.amazon.es/dp/B07FLC9F6J/?tag=tolees-21)
+[![Superdry Label Ziphood suéter  Gris  Fli](https://images-eu.ssl-images-amazon.com/images/I/41AX6HqfjOL._SL400_.jpg)](https://www.amazon.es/dp/B07FLC9F6J/?tag=tolees-21)
 
 ℹ️:
 

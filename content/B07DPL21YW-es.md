@@ -2,7 +2,7 @@
 layout: post
 title: 'Puma Active Wovens Pantalones Cortos  Mu al 39.92 % de descuento'
 date: 2020-06-15 07:46:28
-image: 'https://m.media-amazon.com/images/I/31AM2hEsyBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31AM2hEsyBL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.99'
 
 Está [Puma Active Wovens Pantalones Cortos  Mujer  Negro Black  M](https://www.amazon.es/dp/B07DPL21YW/?tag=tolees-21) con 39.92 de descuento por 14.99 EUR (original: 24.95 EUR) en el siguiente enlace!
 
-[![Puma Active Wovens Pantalones Cortos  Mu](https://m.media-amazon.com/images/I/31AM2hEsyBL._SL200_.jpg)](https://www.amazon.es/dp/B07DPL21YW/?tag=tolees-21)
+[![Puma Active Wovens Pantalones Cortos  Mu](https://m.media-amazon.com/images/I/31AM2hEsyBL._SL400_.jpg)](https://www.amazon.es/dp/B07DPL21YW/?tag=tolees-21)
 
 ℹ️:
 

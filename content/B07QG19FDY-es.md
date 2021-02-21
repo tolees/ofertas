@@ -2,7 +2,7 @@
 layout: post
 title: 'Advance Veterinary Diets Weight Balance  al 34.77 % de rebaja'
 date: 2020-03-03 10:33:25
-image: 'https://m.media-amazon.com/images/I/41RIrKI88qL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41RIrKI88qL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.97'
 
 Tienes [Advance Veterinary Diets Weight Balance - Pienso para gatos con tendencia a la obesidad - 3 kg](https://www.amazon.es/dp/B07QG19FDY/?tag=tolees-21) con precio final de  11.97 EUR (original: 18.35 EUR) (34.77 %  de rebaja) aqui!
 
-[![Advance Veterinary Diets Weight Balance ](https://m.media-amazon.com/images/I/41RIrKI88qL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07QG19FDY/?tag=tolees-21)
+[![Advance Veterinary Diets Weight Balance ](https://m.media-amazon.com/images/I/41RIrKI88qL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07QG19FDY/?tag=tolees-21)
 
 🔎:
 

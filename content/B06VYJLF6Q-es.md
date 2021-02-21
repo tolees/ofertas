@@ -2,7 +2,7 @@
 layout: post
 title: 'INTEY Plastificador A4 / A5 / A6 : Funci al 42.67 % de descuento'
 date: 2020-05-19 18:15:59
-image: 'https://m.media-amazon.com/images/I/51x4GFua5bL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51x4GFua5bL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '25.935'
 
 Está [INTEY Plastificador A4 / A5 / A6 : Función ABS / 3 minutos Velocidad de calentamiento rápida Laminador Laminado en Frío / Caliente para Oficina / Escuela / hogar [Incluye 10 películas laminadas PCS]](https://www.amazon.es/dp/B06VYJLF6Q/?tag=tolees-21) con 42.67 de descuento por 26.63 EUR (original: 46.45 EUR) en el siguiente enlace!
 
-[![INTEY Plastificador A4 / A5 / A6 : Funci](https://m.media-amazon.com/images/I/51x4GFua5bL._SL200_.jpg)](https://www.amazon.es/dp/B06VYJLF6Q/?tag=tolees-21)
+[![INTEY Plastificador A4 / A5 / A6 : Funci](https://m.media-amazon.com/images/I/51x4GFua5bL._SL400_.jpg)](https://www.amazon.es/dp/B06VYJLF6Q/?tag=tolees-21)
 
 ℹ️:
 

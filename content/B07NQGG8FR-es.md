@@ -2,7 +2,7 @@
 layout: post
 title: 'New Balance 574v2 Core  Zapatillas para  con un 29.35 % de descuento'
 date: 2020-08-12 12:34:14
-image: 'https://m.media-amazon.com/images/I/51xtZct0PUL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51xtZct0PUL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '61.81'
 
 En este momento está [New Balance 574v2 Core  Zapatillas para Mujer  Azul  Navy   37 EU](https://www.amazon.es/dp/B07NQGG8FR/?tag=tolees-21) a 61.81 EUR (original: 87.49 EUR) (29.35 %  de descuento) en el siguiente enlace!
 
-[![New Balance 574v2 Core  Zapatillas para ](https://m.media-amazon.com/images/I/51xtZct0PUL._SL200_.jpg)](https://www.amazon.es/dp/B07NQGG8FR/?tag=tolees-21)
+[![New Balance 574v2 Core  Zapatillas para ](https://m.media-amazon.com/images/I/51xtZct0PUL._SL400_.jpg)](https://www.amazon.es/dp/B07NQGG8FR/?tag=tolees-21)
 
 🔎:
 

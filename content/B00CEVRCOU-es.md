@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 25.65 % en Vanguard Endeavor XF 80A - Catalejo en á'
 date: 2020-04-19 20:25:39
-image: 'https://m.media-amazon.com/images/I/41qVKaTupEL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41qVKaTupEL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '296.65'
 
 Tienes [Vanguard Endeavor XF 80A - Catalejo en ángulo  Zoom de 20-60x  Ocular ](https://www.amazon.es/dp/B00CEVRCOU/?tag=tolees-21) con un 25.65 % de descuento con precio de oferta de 296.65 EUR (original: 399.0 EUR) en el siguiente enlace!
 
-[![Vanguard Endeavor XF 80A - Catalejo en á](https://m.media-amazon.com/images/I/41qVKaTupEL._SL200_.jpg)](https://www.amazon.es/dp/B00CEVRCOU/?tag=tolees-21)
+[![Vanguard Endeavor XF 80A - Catalejo en á](https://m.media-amazon.com/images/I/41qVKaTupEL._SL400_.jpg)](https://www.amazon.es/dp/B00CEVRCOU/?tag=tolees-21)
 
 ℹ️:
 

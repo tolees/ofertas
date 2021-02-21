@@ -2,7 +2,7 @@
 layout: post
 title: 'Superdry Core Logo Tag Hood Capucha  Bla con un 61.77 % de descuento'
 date: 2020-07-09 20:51:35
-image: 'https://m.media-amazon.com/images/I/31mjbhjPKVL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31mjbhjPKVL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '30.58'
 
 En este momento está [Superdry Core Logo Tag Hood Capucha  Blanco  Optic 01c   L para Hombre](https://www.amazon.es/dp/B07TQTW78Z/?tag=tolees-21) a 30.58 EUR (original: 79.99 EUR) (61.77 %  de descuento) en el siguiente enlace!
 
-[![Superdry Core Logo Tag Hood Capucha  Bla](https://m.media-amazon.com/images/I/31mjbhjPKVL._SL200_.jpg)](https://www.amazon.es/dp/B07TQTW78Z/?tag=tolees-21)
+[![Superdry Core Logo Tag Hood Capucha  Bla](https://m.media-amazon.com/images/I/31mjbhjPKVL._SL400_.jpg)](https://www.amazon.es/dp/B07TQTW78Z/?tag=tolees-21)
 
 🔎:
 

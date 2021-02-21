@@ -2,7 +2,7 @@
 layout: post
 title: 'MONTEMAGGI - Mueble de planchado con tab al 32.35 % de descuento'
 date: 2020-07-12 11:12:32
-image: 'https://m.media-amazon.com/images/I/41qOY8AFsXL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41qOY8AFsXL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '115.0'
 
 Ahora mismo tienes [MONTEMAGGI - Mueble de planchado con tabla y 3 cestas de mimbre. De 54 x 36 x 86 cm](https://www.amazon.es/dp/B01N0F8UM7/?tag=tolees-21) a 115.0 EUR (original: 170.0 EUR) (32.35 %  de descuento) en el siguiente enlace!
 
-[![MONTEMAGGI - Mueble de planchado con tab](https://m.media-amazon.com/images/I/41qOY8AFsXL._SL200_.jpg)](https://www.amazon.es/dp/B01N0F8UM7/?tag=tolees-21)
+[![MONTEMAGGI - Mueble de planchado con tab](https://m.media-amazon.com/images/I/41qOY8AFsXL._SL400_.jpg)](https://www.amazon.es/dp/B01N0F8UM7/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'UnitedheartES Banco de energía Caja de b con un 78.45 % de descuento'
 date: 2020-07-18 10:02:51
-image: 'https://m.media-amazon.com/images/I/41GrOReyYeL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41GrOReyYeL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.47'
 
 En este momento está [UnitedheartES Banco de energía Caja de batería Cargador de teléfono Estuche 4 Secciones Digital 2.5A Cargador rápido Pantalla Digital](https://www.amazon.es/dp/B083HZ3PGM/?tag=tolees-21) a 2.47 EUR (original: 11.46 EUR) (78.45 %  de descuento) en el siguiente enlace!
 
-[![UnitedheartES Banco de energía Caja de b](https://m.media-amazon.com/images/I/41GrOReyYeL._SL200_.jpg)](https://www.amazon.es/dp/B083HZ3PGM/?tag=tolees-21)
+[![UnitedheartES Banco de energía Caja de b](https://m.media-amazon.com/images/I/41GrOReyYeL._SL400_.jpg)](https://www.amazon.es/dp/B083HZ3PGM/?tag=tolees-21)
 
 🔎:
 

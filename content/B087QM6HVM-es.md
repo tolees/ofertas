@@ -2,7 +2,7 @@
 layout: post
 title: 'Dani - Estragón hoja - Pack 12 x 8g al 36.39 % de descuento'
 date: 2020-09-17 16:42:46
-image: 'https://m.media-amazon.com/images/I/41EsRkWw-CL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41EsRkWw-CL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.03'
 
 Está [Dani - Estragón hoja - Pack 12 x 8g](https://www.amazon.es/dp/B087QM6HVM/?tag=tolees-21) con 36.39 de descuento por 6.03 EUR (original: 9.48 EUR) en el siguiente enlace!
 
-[![Dani - Estragón hoja - Pack 12 x 8g](https://m.media-amazon.com/images/I/41EsRkWw-CL._SL200_.jpg)](https://www.amazon.es/dp/B087QM6HVM/?tag=tolees-21)
+[![Dani - Estragón hoja - Pack 12 x 8g](https://m.media-amazon.com/images/I/41EsRkWw-CL._SL400_.jpg)](https://www.amazon.es/dp/B087QM6HVM/?tag=tolees-21)
 
 ℹ️:
 

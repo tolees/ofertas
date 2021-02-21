@@ -2,7 +2,7 @@
 layout: post
 title: 'La Pajarita Cera Incolora / Solida Natur con un 53.47 % de descuento'
 date: 2020-09-24 09:42:53
-image: 'https://m.media-amazon.com/images/I/31rS6bDXKhL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31rS6bDXKhL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.95'
 
 En este momento está [La Pajarita Cera Incolora / Solida Natural 100ML Especial Chalk Paint](https://www.amazon.es/dp/B01FB0B3EK/?tag=tolees-21) a 3.95 EUR (original: 8.49 EUR) (53.47 %  de descuento) en el siguiente enlace!
 
-[![La Pajarita Cera Incolora / Solida Natur](https://m.media-amazon.com/images/I/31rS6bDXKhL._SL200_.jpg)](https://www.amazon.es/dp/B01FB0B3EK/?tag=tolees-21)
+[![La Pajarita Cera Incolora / Solida Natur](https://m.media-amazon.com/images/I/31rS6bDXKhL._SL400_.jpg)](https://www.amazon.es/dp/B01FB0B3EK/?tag=tolees-21)
 
 🔎:
 

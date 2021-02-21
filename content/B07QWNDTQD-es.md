@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour Sportstyle Terry Logo Parte al 42.97 % de descuento'
 date: 2020-06-15 10:44:30
-image: 'https://m.media-amazon.com/images/I/418A8MRRBLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/418A8MRRBLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '34.22'
 
 Ahora mismo tienes [Under Armour Sportstyle Terry Logo Parte Superior del Calentamiento  Hombre  Azul  XL](https://www.amazon.es/dp/B07QWNDTQD/?tag=tolees-21) a 34.22 EUR (original: 60.0 EUR) (42.97 %  de descuento) en el siguiente enlace!
 
-[![Under Armour Sportstyle Terry Logo Parte](https://m.media-amazon.com/images/I/418A8MRRBLL._SL200_.jpg)](https://www.amazon.es/dp/B07QWNDTQD/?tag=tolees-21)
+[![Under Armour Sportstyle Terry Logo Parte](https://m.media-amazon.com/images/I/418A8MRRBLL._SL400_.jpg)](https://www.amazon.es/dp/B07QWNDTQD/?tag=tolees-21)
 
 🔎:
 

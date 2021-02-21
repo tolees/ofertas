@@ -2,7 +2,7 @@
 layout: post
 title: 'New Balance Yc373v1  Zapatillas para Niñ al 60.12 % de descuento'
 date: 2020-02-23 11:47:18
-image: 'https://m.media-amazon.com/images/I/41Y3u6GVO9L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Y3u6GVO9L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.94'
 
 Ahora mismo tienes [New Balance Yc373v1  Zapatillas para Niñas  Dorado  Classic Gold Classic Gold   28 EU](https://www.amazon.es/dp/B07KRL2HXH/?tag=tolees-21) a 19.94 EUR (original: 50.0 EUR) (60.12 %  de descuento) en el siguiente enlace!
 
-[![New Balance Yc373v1  Zapatillas para Niñ](https://m.media-amazon.com/images/I/41Y3u6GVO9L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07KRL2HXH/?tag=tolees-21)
+[![New Balance Yc373v1  Zapatillas para Niñ](https://m.media-amazon.com/images/I/41Y3u6GVO9L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07KRL2HXH/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Nike Tanjun  Zapatillas de Running para  al 30.88 % de rebaja'
 date: 2020-02-07 13:18:35
-image: 'https://m.media-amazon.com/images/I/312mkRpPx5L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/312mkRpPx5L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '45.62'
 
 Tienes [Nike Tanjun  Zapatillas de Running para Hombre  Negro  Black/Black-Anthracite 001   42.5 EU](https://www.amazon.es/dp/B00XWNW8S4/?tag=tolees-21) con precio final de  45.62 EUR (original: 66.0 EUR) (30.88 %  de rebaja) aqui!
 
-[![Nike Tanjun  Zapatillas de Running para ](https://m.media-amazon.com/images/I/312mkRpPx5L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B00XWNW8S4/?tag=tolees-21)
+[![Nike Tanjun  Zapatillas de Running para ](https://m.media-amazon.com/images/I/312mkRpPx5L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B00XWNW8S4/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Taladro Percutor  LOMVUM 810W Taladro El al 76.88 % de descuento'
 date: 2020-03-06 11:56:38
-image: 'https://m.media-amazon.com/images/I/41BeRTsqTcL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41BeRTsqTcL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '36.99'
 
 Ahora mismo tienes [Taladro Percutor  LOMVUM 810W Taladro Eléctrico 3000RPM  Martillo Taladro 2 Funciones en 1  Portabroca de 13mm  Motor de Cobre Puro  WD3181](https://www.amazon.es/dp/B07QKM32DJ/?tag=tolees-21) a 36.99 EUR (original: 159.99 EUR) (76.88 %  de descuento) en el siguiente enlace!
 
-[![Taladro Percutor  LOMVUM 810W Taladro El](https://m.media-amazon.com/images/I/41BeRTsqTcL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07QKM32DJ/?tag=tolees-21)
+[![Taladro Percutor  LOMVUM 810W Taladro El](https://m.media-amazon.com/images/I/41BeRTsqTcL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07QKM32DJ/?tag=tolees-21)
 
 🔎:
 

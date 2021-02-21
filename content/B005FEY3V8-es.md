@@ -2,7 +2,7 @@
 layout: post
 title: 'Casio Reloj de pulsera A158WEA-1EF con un 54.75 % de descuento'
 date: 2020-09-27 18:03:51
-image: 'https://m.media-amazon.com/images/I/41UDs-xfZXL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41UDs-xfZXL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '25.95'
 
 En este momento está [Casio Reloj de pulsera A158WEA-1EF](https://www.amazon.es/dp/B005FEY3V8/?tag=tolees-21) a 28.0 EUR (original: 61.88 EUR) (54.75 %  de descuento) en el siguiente enlace!
 
-[![Casio Reloj de pulsera A158WEA-1EF](https://m.media-amazon.com/images/I/41UDs-xfZXL._SL200_.jpg)](https://www.amazon.es/dp/B005FEY3V8/?tag=tolees-21)
+[![Casio Reloj de pulsera A158WEA-1EF](https://m.media-amazon.com/images/I/41UDs-xfZXL._SL400_.jpg)](https://www.amazon.es/dp/B005FEY3V8/?tag=tolees-21)
 
 🔎:
 

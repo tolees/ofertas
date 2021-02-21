@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour Undeniable 4.0 Duffle SM Bo al 30.03 % de rebaja'
 date: 2020-08-08 12:19:35
-image: 'https://m.media-amazon.com/images/I/412RthR4uTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/412RthR4uTL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '27.99'
 
 Tienes [Under Armour Undeniable 4.0 Duffle SM Bolsa De Deportes  Bolsa De Entrenamiento Unisex Negro OSFA](https://www.amazon.es/dp/B07JB1LB64/?tag=tolees-21) con precio final de  27.99 EUR (original: 40.0 EUR) (30.03 %  de rebaja) aqui!
 
-[![Under Armour Undeniable 4.0 Duffle SM Bo](https://m.media-amazon.com/images/I/412RthR4uTL._SL200_.jpg)](https://www.amazon.es/dp/B07JB1LB64/?tag=tolees-21)
+[![Under Armour Undeniable 4.0 Duffle SM Bo](https://m.media-amazon.com/images/I/412RthR4uTL._SL400_.jpg)](https://www.amazon.es/dp/B07JB1LB64/?tag=tolees-21)
 
 🔎:
 

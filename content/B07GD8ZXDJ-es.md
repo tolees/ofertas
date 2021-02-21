@@ -2,7 +2,7 @@
 layout: post
 title: 'Emporio Armani Smartwatch ART5007 con un 39.14 % de descuento'
 date: 2020-09-24 18:48:08
-image: 'https://m.media-amazon.com/images/I/411UTR-UdpL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/411UTR-UdpL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '258.32'
 
 En este momento está [Emporio Armani Smartwatch ART5007](https://www.amazon.es/dp/B07GD8ZXDJ/?tag=tolees-21) a 255.0 EUR (original: 419.0 EUR) (39.14 %  de descuento) en el siguiente enlace!
 
-[![Emporio Armani Smartwatch ART5007](https://m.media-amazon.com/images/I/411UTR-UdpL._SL200_.jpg)](https://www.amazon.es/dp/B07GD8ZXDJ/?tag=tolees-21)
+[![Emporio Armani Smartwatch ART5007](https://m.media-amazon.com/images/I/411UTR-UdpL._SL400_.jpg)](https://www.amazon.es/dp/B07GD8ZXDJ/?tag=tolees-21)
 
 🔎:
 

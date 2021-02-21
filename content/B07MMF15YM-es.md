@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 33.79 % en Cerdá 2200004037 Toalla Polyester Mickey'
 date: 2020-06-01 08:05:26
-image: 'https://m.media-amazon.com/images/I/41mAcFFgKUL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41mAcFFgKUL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.0'
 
 Tienes [Cerdá 2200004037 Toalla Polyester Mickey  Negro  70x140cm](https://www.amazon.es/dp/B07MMF15YM/?tag=tolees-21) con un 33.79 % de descuento con precio de oferta de 14.5 EUR (original: 21.9 EUR) en el siguiente enlace!
 
-[![Cerdá 2200004037 Toalla Polyester Mickey](https://m.media-amazon.com/images/I/41mAcFFgKUL._SL200_.jpg)](https://www.amazon.es/dp/B07MMF15YM/?tag=tolees-21)
+[![Cerdá 2200004037 Toalla Polyester Mickey](https://m.media-amazon.com/images/I/41mAcFFgKUL._SL400_.jpg)](https://www.amazon.es/dp/B07MMF15YM/?tag=tolees-21)
 
 ℹ️:
 

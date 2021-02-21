@@ -2,7 +2,7 @@
 layout: post
 title: 'Osprey Tempest 20 Women s Hiking Pack -  al 28.38 % de descuento'
 date: 2020-04-16 07:08:26
-image: 'https://m.media-amazon.com/images/I/41gYDhOJv0L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41gYDhOJv0L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '85.94'
 
 Ahora mismo tienes [Osprey Tempest 20 Women s Hiking Pack - Mystic Magenta  WS/WM ](https://www.amazon.es/dp/B01IQI7HL2/?tag=tolees-21) a 85.94 EUR (original: 120.0 EUR) (28.38 %  de descuento) en el siguiente enlace!
 
-[![Osprey Tempest 20 Women s Hiking Pack - ](https://m.media-amazon.com/images/I/41gYDhOJv0L._SL200_.jpg)](https://www.amazon.es/dp/B01IQI7HL2/?tag=tolees-21)
+[![Osprey Tempest 20 Women s Hiking Pack - ](https://m.media-amazon.com/images/I/41gYDhOJv0L._SL400_.jpg)](https://www.amazon.es/dp/B01IQI7HL2/?tag=tolees-21)
 
 🔎:
 

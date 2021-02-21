@@ -2,7 +2,7 @@
 layout: post
 title: 'Nike Revolution 5  Zapatillas de Running con un 40.18 % de descuento'
 date: 2020-05-02 18:40:52
-image: 'https://m.media-amazon.com/images/I/319sjrwx7VL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/319sjrwx7VL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '32.9'
 
 En este momento está [Nike Revolution 5  Zapatillas de Running para Hombre  Multicolor Black White Anthracite 002  44.5 EU](https://www.amazon.es/dp/B07NLV8LPZ/?tag=tolees-21) a 32.9 EUR (original: 55.0 EUR) (40.18 %  de descuento) en el siguiente enlace!
 
-[![Nike Revolution 5  Zapatillas de Running](https://m.media-amazon.com/images/I/319sjrwx7VL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07NLV8LPZ/?tag=tolees-21)
+[![Nike Revolution 5  Zapatillas de Running](https://m.media-amazon.com/images/I/319sjrwx7VL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07NLV8LPZ/?tag=tolees-21)
 
 🔎:
 

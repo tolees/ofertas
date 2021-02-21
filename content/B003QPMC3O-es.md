@@ -2,7 +2,7 @@
 layout: post
 title: 'Samsung  CLT-C4072S/ELS Tóner Láser Cian con un 34.41 % de descuento'
 date: 2020-01-17 15:11:48
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41mcRgnyPxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41mcRgnyPxL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '41.99'
 
 En este momento está [Samsung  CLT-C4072S/ELS Tóner Láser Cian 1.000 Páginas](https://www.amazon.es/dp/B003QPMC3O/?tag=tolees-21) a 41.99 EUR (original: 64.02 EUR) (34.41 %  de descuento) en el siguiente enlace!
 
-[![Samsung  CLT-C4072S/ELS Tóner Láser Cian](https://images-eu.ssl-images-amazon.com/images/I/41mcRgnyPxL._SL200_.jpg)](https://www.amazon.es/dp/B003QPMC3O/?tag=tolees-21)
+[![Samsung  CLT-C4072S/ELS Tóner Láser Cian](https://images-eu.ssl-images-amazon.com/images/I/41mcRgnyPxL._SL400_.jpg)](https://www.amazon.es/dp/B003QPMC3O/?tag=tolees-21)
 
 🔎:
 

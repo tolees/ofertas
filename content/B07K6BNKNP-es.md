@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas CONDIVO18 SHO Pantalones Cortos d al 40.55 % de descuento'
 date: 2020-05-29 07:26:00
-image: 'https://m.media-amazon.com/images/I/31-DHGr0iaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31-DHGr0iaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.75'
 
 Está [adidas CONDIVO18 SHO Pantalones Cortos de Deporte  Hombre  Collegiate Gold/Black  S](https://www.amazon.es/dp/B07K6BNKNP/?tag=tolees-21) con 40.55 de descuento por 23.75 EUR (original: 39.95 EUR) en el siguiente enlace!
 
-[![adidas CONDIVO18 SHO Pantalones Cortos d](https://m.media-amazon.com/images/I/31-DHGr0iaL._SL200_.jpg)](https://www.amazon.es/dp/B07K6BNKNP/?tag=tolees-21)
+[![adidas CONDIVO18 SHO Pantalones Cortos d](https://m.media-amazon.com/images/I/31-DHGr0iaL._SL400_.jpg)](https://www.amazon.es/dp/B07K6BNKNP/?tag=tolees-21)
 
 ℹ️:
 

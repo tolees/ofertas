@@ -2,7 +2,7 @@
 layout: post
 title: 'Columbia Urban Uplift - Bolsa Cruzada  U al 54.10 % de descuento'
 date: 2020-03-30 14:38:50
-image: 'https://m.media-amazon.com/images/I/51B6ikAPifL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51B6ikAPifL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.520000000000001'
 
 Ahora mismo tienes [Columbia Urban Uplift - Bolsa Cruzada  Unisex Adulto  Mountain  O/S](https://www.amazon.es/dp/B07KTV6S37/?tag=tolees-21) a 11.47 EUR (original: 24.99 EUR) (54.10 %  de descuento) en el siguiente enlace!
 
-[![Columbia Urban Uplift - Bolsa Cruzada  U](https://m.media-amazon.com/images/I/51B6ikAPifL._SL200_.jpg)](https://www.amazon.es/dp/B07KTV6S37/?tag=tolees-21)
+[![Columbia Urban Uplift - Bolsa Cruzada  U](https://m.media-amazon.com/images/I/51B6ikAPifL._SL400_.jpg)](https://www.amazon.es/dp/B07KTV6S37/?tag=tolees-21)
 
 🔎:
 

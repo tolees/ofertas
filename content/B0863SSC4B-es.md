@@ -2,7 +2,7 @@
 layout: post
 title: 'Suhctup Transparente Funda Compatible co al 60.65 % de rebaja'
 date: 2020-05-09 16:02:03
-image: 'https://m.media-amazon.com/images/I/41yy-TpSopL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41yy-TpSopL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.98'
 
 Tienes [Suhctup Transparente Funda Compatible con Huawei Nova 3E Cárcasa Silicona Ultra Fina Flor Diseño Anti-Arañazos Antigolpes Bumper TPU Resistente Case Cover para Huawei Nova 3E 2 ](https://www.amazon.es/dp/B0863SSC4B/?tag=tolees-21) con precio final de  7.98 EUR (original: 20.28 EUR) (60.65 %  de rebaja) aqui!
 
-[![Suhctup Transparente Funda Compatible co](https://m.media-amazon.com/images/I/41yy-TpSopL._SL200_.jpg)](https://www.amazon.es/dp/B0863SSC4B/?tag=tolees-21)
+[![Suhctup Transparente Funda Compatible co](https://m.media-amazon.com/images/I/41yy-TpSopL._SL400_.jpg)](https://www.amazon.es/dp/B0863SSC4B/?tag=tolees-21)
 
 🔎:
 

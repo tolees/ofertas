@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s Plus Size Pl 501 Original Short P al 50.00 % de rebaja'
 date: 2020-07-15 06:29:07
-image: 'https://m.media-amazon.com/images/I/31ln10f4bcL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31ln10f4bcL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '27.5'
 
 Tienes [Levi s Plus Size Pl 501 Original Short Pantalones Cortos  Gris  Eat Your Words Plus 0002   Talla Única  Talla del Fabricante: 18  para Mujer](https://www.amazon.es/dp/B07TRMSYM4/?tag=tolees-21) con precio final de  27.5 EUR (original: 55.0 EUR) (50.00 %  de rebaja) aqui!
 
-[![Levi s Plus Size Pl 501 Original Short P](https://m.media-amazon.com/images/I/31ln10f4bcL._SL200_.jpg)](https://www.amazon.es/dp/B07TRMSYM4/?tag=tolees-21)
+[![Levi s Plus Size Pl 501 Original Short P](https://m.media-amazon.com/images/I/31ln10f4bcL._SL400_.jpg)](https://www.amazon.es/dp/B07TRMSYM4/?tag=tolees-21)
 
 🔎:
 

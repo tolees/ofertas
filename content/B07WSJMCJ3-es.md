@@ -2,7 +2,7 @@
 layout: post
 title: 'MODAUTO Soporte de Videojuego  Soporte d con un 40.02 % de descuento'
 date: 2020-07-10 01:07:15
-image: 'https://m.media-amazon.com/images/I/418lN+JsmxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/418lN+JsmxL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '119.95'
 
 En este momento está [MODAUTO Soporte de Videojuego  Soporte de Juego de Carreras  Accesorio de Controlar de Juego  con Soporte de Volante y Cambios  Compatible con Logitech G29/G27  Modelo B  Negro](https://www.amazon.es/dp/B07WSJMCJ3/?tag=tolees-21) a 119.95 EUR (original: 200.0 EUR) (40.02 %  de descuento) en el siguiente enlace!
 
-[![MODAUTO Soporte de Videojuego  Soporte d](https://m.media-amazon.com/images/I/418lN+JsmxL._SL200_.jpg)](https://www.amazon.es/dp/B07WSJMCJ3/?tag=tolees-21)
+[![MODAUTO Soporte de Videojuego  Soporte d](https://m.media-amazon.com/images/I/418lN+JsmxL._SL400_.jpg)](https://www.amazon.es/dp/B07WSJMCJ3/?tag=tolees-21)
 
 🔎:
 

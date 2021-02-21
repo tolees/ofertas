@@ -2,7 +2,7 @@
 layout: post
 title: 'Vans Ward Suede/Canvas  Zapatillas para  al 58.85 % de descuento'
 date: 2020-03-28 19:41:03
-image: 'https://m.media-amazon.com/images/I/413bGCYqydL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/413bGCYqydL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '34.120000000000005'
 
 Ahora mismo tienes [Vans Ward Suede/Canvas  Zapatillas para Hombre  Azul   Outdoor  Dress Blue/White Syn   44 EU](https://www.amazon.es/dp/B07TN2LZTQ/?tag=tolees-21) a 32.92 EUR (original: 80.0 EUR) (58.85 %  de descuento) en el siguiente enlace!
 
-[![Vans Ward Suede/Canvas  Zapatillas para ](https://m.media-amazon.com/images/I/413bGCYqydL._SL200_.jpg)](https://www.amazon.es/dp/B07TN2LZTQ/?tag=tolees-21)
+[![Vans Ward Suede/Canvas  Zapatillas para ](https://m.media-amazon.com/images/I/413bGCYqydL._SL400_.jpg)](https://www.amazon.es/dp/B07TN2LZTQ/?tag=tolees-21)
 
 🔎:
 

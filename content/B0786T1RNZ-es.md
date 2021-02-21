@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas Nitrocharge ATTK Rojo al 76.62 % de descuento'
 date: 2020-03-13 11:28:52
-image: 'https://m.media-amazon.com/images/I/411YIw1zz5L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/411YIw1zz5L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '74.85'
 
 Está [adidas Nitrocharge ATTK Rojo](https://www.amazon.es/dp/B0786T1RNZ/?tag=tolees-21) con 76.62 de descuento por 74.8 EUR (original: 320.0 EUR) en el siguiente enlace!
 
-[![adidas Nitrocharge ATTK Rojo](https://m.media-amazon.com/images/I/411YIw1zz5L._SL200_.jpg)](https://www.amazon.es/dp/B0786T1RNZ/?tag=tolees-21)
+[![adidas Nitrocharge ATTK Rojo](https://m.media-amazon.com/images/I/411YIw1zz5L._SL400_.jpg)](https://www.amazon.es/dp/B0786T1RNZ/?tag=tolees-21)
 
 ℹ️:
 

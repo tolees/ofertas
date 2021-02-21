@@ -2,7 +2,7 @@
 layout: post
 title: 'Primux Ioxbook - Portatil 1402MC 14.1" N al 28.18 % de descuento'
 date: 2020-01-10 08:52:56
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51EYWYUKp8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51EYWYUKp8L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '164.46'
 
 Está [Primux Ioxbook - Portatil 1402MC 14.1" N3350 4G 120GB SSD + 32GB EMMC W10H Minecraft](https://www.amazon.es/dp/B07QMW1JQQ/?tag=tolees-21) con 28.18 de descuento por 164.46 EUR (original: 229 EUR) en el siguiente enlace!
 
-[![Primux Ioxbook - Portatil 1402MC 14.1" N](https://images-eu.ssl-images-amazon.com/images/I/51EYWYUKp8L._SL200_.jpg)](https://www.amazon.es/dp/B07QMW1JQQ/?tag=tolees-21)
+[![Primux Ioxbook - Portatil 1402MC 14.1" N](https://images-eu.ssl-images-amazon.com/images/I/51EYWYUKp8L._SL400_.jpg)](https://www.amazon.es/dp/B07QMW1JQQ/?tag=tolees-21)
 
 ℹ️:
 

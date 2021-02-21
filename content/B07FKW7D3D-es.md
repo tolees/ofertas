@@ -2,7 +2,7 @@
 layout: post
 title: 'Nikon COOLPIX P1000 - Cámara compacta ti con un 25.45 % de descuento'
 date: 2020-05-11 16:54:33
-image: 'https://m.media-amazon.com/images/I/41vQoJQBEUL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41vQoJQBEUL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '809.5333333333333'
 
 En este momento está [Nikon COOLPIX P1000 - Cámara compacta tipo Bridge  16 MP  pantalla de 3.2 "  color negro](https://www.amazon.es/dp/B07FKW7D3D/?tag=tolees-21) a 782.0 EUR (original: 1049.0 EUR) (25.45 %  de descuento) en el siguiente enlace!
 
-[![Nikon COOLPIX P1000 - Cámara compacta ti](https://m.media-amazon.com/images/I/41vQoJQBEUL._SL200_.jpg)](https://www.amazon.es/dp/B07FKW7D3D/?tag=tolees-21)
+[![Nikon COOLPIX P1000 - Cámara compacta ti](https://m.media-amazon.com/images/I/41vQoJQBEUL._SL400_.jpg)](https://www.amazon.es/dp/B07FKW7D3D/?tag=tolees-21)
 
 🔎:
 

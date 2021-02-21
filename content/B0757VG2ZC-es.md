@@ -2,7 +2,7 @@
 layout: post
 title: 'Licwshi 450lm La luz solar 24 LED de una al 57.92 % de descuento'
 date: 2020-01-13 17:50:53
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31eKlVuo7DL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31eKlVuo7DL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '27.99'
 
 Ahora mismo tienes [Licwshi 450lm La luz solar 24 LED de una aleación de aluminio  impermeable al aire libre  radar de sensores de movimiento  aplicable en el porche  el jardín  el patio  el garaje  1 Pack ](https://www.amazon.es/dp/B0757VG2ZC/?tag=tolees-21) a 27.99 EUR (original: 66.52 EUR) (57.92 %  de descuento) en el siguiente enlace!
 
-[![Licwshi 450lm La luz solar 24 LED de una](https://images-eu.ssl-images-amazon.com/images/I/31eKlVuo7DL._SL200_.jpg)](https://www.amazon.es/dp/B0757VG2ZC/?tag=tolees-21)
+[![Licwshi 450lm La luz solar 24 LED de una](https://images-eu.ssl-images-amazon.com/images/I/31eKlVuo7DL._SL400_.jpg)](https://www.amazon.es/dp/B0757VG2ZC/?tag=tolees-21)
 
 🔎:
 

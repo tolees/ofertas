@@ -2,7 +2,7 @@
 layout: post
 title: 'TOPBATHY 2pcs de acero inoxidable fregad con un 50.00 % de descuento'
 date: 2020-09-08 13:31:11
-image: 'https://m.media-amazon.com/images/I/315+K5SDFDL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/315+K5SDFDL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.99'
 
 En este momento está [TOPBATHY 2pcs de acero inoxidable fregadero filtros de alcantarilla fregadero colador desagüe de basura filtro de malla alcantarilla colector de pelo para baño de cocina](https://www.amazon.es/dp/B07YCG288G/?tag=tolees-21) a 3.99 EUR (original: 7.98 EUR) (50.00 %  de descuento) en el siguiente enlace!
 
-[![TOPBATHY 2pcs de acero inoxidable fregad](https://m.media-amazon.com/images/I/315+K5SDFDL._SL200_.jpg)](https://www.amazon.es/dp/B07YCG288G/?tag=tolees-21)
+[![TOPBATHY 2pcs de acero inoxidable fregad](https://m.media-amazon.com/images/I/315+K5SDFDL._SL400_.jpg)](https://www.amazon.es/dp/B07YCG288G/?tag=tolees-21)
 
 🔎:
 

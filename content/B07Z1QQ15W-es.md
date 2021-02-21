@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 48.00 % en NAPATEK Lámpara Escritorio LED  Lámpara '
 date: 2020-05-03 11:04:55
-image: 'https://m.media-amazon.com/images/I/41R13wDSXpL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41R13wDSXpL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '51.99'
 
 Tienes [NAPATEK Lámpara Escritorio LED  Lámpara De Mesa Para Cuidado De Los Ojos Con Cargador Inalámbrico  Aleación De Aluminio Lámpara De Luz Natural De Brillo Multinivel Con Control  Plateado](https://www.amazon.es/dp/B07Z1QQ15W/?tag=tolees-21) con un 48.00 % de descuento con precio de oferta de 51.99 EUR (original: 99.99 EUR) en el siguiente enlace!
 
-[![NAPATEK Lámpara Escritorio LED  Lámpara ](https://m.media-amazon.com/images/I/41R13wDSXpL._SL200_.jpg)](https://www.amazon.es/dp/B07Z1QQ15W/?tag=tolees-21)
+[![NAPATEK Lámpara Escritorio LED  Lámpara ](https://m.media-amazon.com/images/I/41R13wDSXpL._SL400_.jpg)](https://www.amazon.es/dp/B07Z1QQ15W/?tag=tolees-21)
 
 ℹ️:
 

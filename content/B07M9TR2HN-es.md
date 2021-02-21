@@ -2,7 +2,7 @@
 layout: post
 title: 'Yutwo Funda Huawei Honor 7s Estuche Prot al 71.62 % de descuento'
 date: 2020-05-26 08:03:05
-image: 'https://m.media-amazon.com/images/I/41eETMP8FRL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41eETMP8FRL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.07'
 
 Ahora mismo tienes [Yutwo Funda Huawei Honor 7s Estuche Protector de 360 Grados para Teléfono Transparente Funda Silicona TPU Gel y PC rígida 360 °Protección Anti Choque Full Body [No Dots] - Transparente](https://www.amazon.es/dp/B07M9TR2HN/?tag=tolees-21) a 1.07 EUR (original: 3.77 EUR) (71.62 %  de descuento) en el siguiente enlace!
 
-[![Yutwo Funda Huawei Honor 7s Estuche Prot](https://m.media-amazon.com/images/I/41eETMP8FRL._SL200_.jpg)](https://www.amazon.es/dp/B07M9TR2HN/?tag=tolees-21)
+[![Yutwo Funda Huawei Honor 7s Estuche Prot](https://m.media-amazon.com/images/I/41eETMP8FRL._SL400_.jpg)](https://www.amazon.es/dp/B07M9TR2HN/?tag=tolees-21)
 
 🔎:
 

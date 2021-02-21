@@ -2,7 +2,7 @@
 layout: post
 title: 'Lay s Gourmet Patatas Fritas con Sal - 1 al 53.27 % de descuento'
 date: 2020-06-11 15:54:54
-image: 'https://m.media-amazon.com/images/I/41TnLxCeRrL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41TnLxCeRrL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.35'
 
 Está [Lay s Gourmet Patatas Fritas con Sal - 180 g](https://www.amazon.es/dp/B01LCTLADI/?tag=tolees-21) con 53.27 de descuento por 1.0 EUR (original: 2.14 EUR) en el siguiente enlace!
 
-[![Lay s Gourmet Patatas Fritas con Sal - 1](https://m.media-amazon.com/images/I/41TnLxCeRrL._SL200_.jpg)](https://www.amazon.es/dp/B01LCTLADI/?tag=tolees-21)
+[![Lay s Gourmet Patatas Fritas con Sal - 1](https://m.media-amazon.com/images/I/41TnLxCeRrL._SL400_.jpg)](https://www.amazon.es/dp/B01LCTLADI/?tag=tolees-21)
 
 ℹ️:
 

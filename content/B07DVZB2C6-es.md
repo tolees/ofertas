@@ -2,7 +2,7 @@
 layout: post
 title: 'Columbia Caldorado III  Zapatillas de Ru al 51.14 % de descuento'
 date: 2020-07-02 09:04:16
-image: 'https://m.media-amazon.com/images/I/41k-fwBl+DL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41k-fwBl+DL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '49.362857142857145'
 
 Está [Columbia Caldorado III  Zapatillas de Running para Asfalto para Hombre  Gris  Ti Grey Steel 033   40 EU](https://www.amazon.es/dp/B07DVZB2C6/?tag=tolees-21) con 51.14 de descuento por 63.51 EUR (original: 129.99 EUR) en el siguiente enlace!
 
-[![Columbia Caldorado III  Zapatillas de Ru](https://m.media-amazon.com/images/I/41k-fwBl+DL._SL200_.jpg)](https://www.amazon.es/dp/B07DVZB2C6/?tag=tolees-21)
+[![Columbia Caldorado III  Zapatillas de Ru](https://m.media-amazon.com/images/I/41k-fwBl+DL._SL400_.jpg)](https://www.amazon.es/dp/B07DVZB2C6/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'OPTOMA TECHNOLOGY EH461 - Proyector Full con un 33.03 % de descuento'
 date: 2020-07-04 10:30:33
-image: 'https://m.media-amazon.com/images/I/31yj9tejnML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31yj9tejnML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '926.7579999999999'
 
 En este momento está [OPTOMA TECHNOLOGY EH461 - Proyector Full HD 1080p  5000 lúmenes  20000:1 Contraste  Formato 16:9  Blanco](https://www.amazon.es/dp/B078HKFZFX/?tag=tolees-21) a 869.9 EUR (original: 1299.0 EUR) (33.03 %  de descuento) en el siguiente enlace!
 
-[![OPTOMA TECHNOLOGY EH461 - Proyector Full](https://m.media-amazon.com/images/I/31yj9tejnML._SL200_.jpg)](https://www.amazon.es/dp/B078HKFZFX/?tag=tolees-21)
+[![OPTOMA TECHNOLOGY EH461 - Proyector Full](https://m.media-amazon.com/images/I/31yj9tejnML._SL400_.jpg)](https://www.amazon.es/dp/B078HKFZFX/?tag=tolees-21)
 
 🔎:
 

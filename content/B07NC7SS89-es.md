@@ -2,7 +2,7 @@
 layout: post
 title: 'Pepe Jeans Drifter Pantalones  Verde  Da al 43.73 % de rebaja'
 date: 2020-07-07 12:25:50
-image: 'https://m.media-amazon.com/images/I/31G1eYYAAJL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31G1eYYAAJL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '47.885000000000005'
 
 Tienes [Pepe Jeans Drifter Pantalones  Verde  Dark Olive 768   W31/L30 para Mujer](https://www.amazon.es/dp/B07NC7SS89/?tag=tolees-21) con precio final de  53.46 EUR (original: 95.0 EUR) (43.73 %  de rebaja) aqui!
 
-[![Pepe Jeans Drifter Pantalones  Verde  Da](https://m.media-amazon.com/images/I/31G1eYYAAJL._SL200_.jpg)](https://www.amazon.es/dp/B07NC7SS89/?tag=tolees-21)
+[![Pepe Jeans Drifter Pantalones  Verde  Da](https://m.media-amazon.com/images/I/31G1eYYAAJL._SL400_.jpg)](https://www.amazon.es/dp/B07NC7SS89/?tag=tolees-21)
 
 🔎:
 

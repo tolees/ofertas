@@ -2,7 +2,7 @@
 layout: post
 title: 'Max Power Digital Funda para Xiaomi Mi 9 con un 39.58 % de descuento'
 date: 2020-05-27 18:38:20
-image: 'https://m.media-amazon.com/images/I/41AkmnejdJL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41AkmnejdJL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.25'
 
 En este momento está [Max Power Digital Funda para Xiaomi Mi 9  6.39"  con Soporte - Carcasa híbrida antigolpes Resistente  Xiaomi Mi 9  Azul ](https://www.amazon.es/dp/B07VJB88HW/?tag=tolees-21) a 7.25 EUR (original: 12.0 EUR) (39.58 %  de descuento) en el siguiente enlace!
 
-[![Max Power Digital Funda para Xiaomi Mi 9](https://m.media-amazon.com/images/I/41AkmnejdJL._SL200_.jpg)](https://www.amazon.es/dp/B07VJB88HW/?tag=tolees-21)
+[![Max Power Digital Funda para Xiaomi Mi 9](https://m.media-amazon.com/images/I/41AkmnejdJL._SL400_.jpg)](https://www.amazon.es/dp/B07VJB88HW/?tag=tolees-21)
 
 🔎:
 

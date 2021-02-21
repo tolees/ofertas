@@ -2,7 +2,7 @@
 layout: post
 title: 'Merrell Choprock Shandal  Zapatillas Imp al 62.09 % de descuento'
 date: 2020-08-04 17:33:35
-image: 'https://m.media-amazon.com/images/I/51ytZrV88RL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51ytZrV88RL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '45.49'
 
 Está [Merrell Choprock Shandal  Zapatillas Impermeables para Hombre  Azul  Navy   44.5 EU](https://www.amazon.es/dp/B0016VLM1I/?tag=tolees-21) con 62.09 de descuento por 45.49 EUR (original: 120.0 EUR) en el siguiente enlace!
 
-[![Merrell Choprock Shandal  Zapatillas Imp](https://m.media-amazon.com/images/I/51ytZrV88RL._SL200_.jpg)](https://www.amazon.es/dp/B0016VLM1I/?tag=tolees-21)
+[![Merrell Choprock Shandal  Zapatillas Imp](https://m.media-amazon.com/images/I/51ytZrV88RL._SL400_.jpg)](https://www.amazon.es/dp/B0016VLM1I/?tag=tolees-21)
 
 ℹ️:
 

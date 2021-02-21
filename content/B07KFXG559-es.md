@@ -2,7 +2,7 @@
 layout: post
 title: 'PUMA Vikky v2 Mid WTR  Zapatillas Altas  al 75.47 % de rebaja'
 date: 2020-03-09 11:47:58
-image: 'https://m.media-amazon.com/images/I/41LHb2N8reL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41LHb2N8reL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.16'
 
 Tienes [PUMA Vikky v2 Mid WTR  Zapatillas Altas para Mujer  Overcast-Rose Gold White  37 EU](https://www.amazon.es/dp/B07KFXG559/?tag=tolees-21) con precio final de  17.16 EUR (original: 69.95 EUR) (75.47 %  de rebaja) aqui!
 
-[![PUMA Vikky v2 Mid WTR  Zapatillas Altas ](https://m.media-amazon.com/images/I/41LHb2N8reL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07KFXG559/?tag=tolees-21)
+[![PUMA Vikky v2 Mid WTR  Zapatillas Altas ](https://m.media-amazon.com/images/I/41LHb2N8reL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07KFXG559/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Festina Hombre Reloj F20205/4 al 54.06 % de descuento'
 date: 2020-10-06 11:52:25
-image: 'https://m.media-amazon.com/images/I/41DxbecMzzL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41DxbecMzzL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '50.08'
 
 Ahora mismo tienes [Festina Hombre Reloj F20205/4](https://www.amazon.es/dp/B01N2BJRBJ/?tag=tolees-21) a 50.08 EUR (original: 109.0 EUR) (54.06 %  de descuento) en el siguiente enlace!
 
-[![Festina Hombre Reloj F20205/4](https://m.media-amazon.com/images/I/41DxbecMzzL._SL200_.jpg)](https://www.amazon.es/dp/B01N2BJRBJ/?tag=tolees-21)
+[![Festina Hombre Reloj F20205/4](https://m.media-amazon.com/images/I/41DxbecMzzL._SL400_.jpg)](https://www.amazon.es/dp/B01N2BJRBJ/?tag=tolees-21)
 
 🔎:
 

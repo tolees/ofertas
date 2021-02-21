@@ -2,7 +2,7 @@
 layout: post
 title: 'Oihxse Funda Huawei P Smart 2019/Honor 1 al 33.39 % de descuento'
 date: 2020-07-09 23:05:39
-image: 'https://m.media-amazon.com/images/I/41OSxHybElL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41OSxHybElL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.98'
 
 Está [Oihxse Funda Huawei P Smart 2019/Honor 10 Lite  Ultra Delgado Transparente TPU Silicona Case Suave Claro Elegante Creativa Patrón Bumper Carcasa Anti-Arañazos Anti-Choque Protección Caso Cover  A6 ](https://www.amazon.es/dp/B0858ZVXR1/?tag=tolees-21) con 33.39 de descuento por 7.98 EUR (original: 11.98 EUR) en el siguiente enlace!
 
-[![Oihxse Funda Huawei P Smart 2019/Honor 1](https://m.media-amazon.com/images/I/41OSxHybElL._SL200_.jpg)](https://www.amazon.es/dp/B0858ZVXR1/?tag=tolees-21)
+[![Oihxse Funda Huawei P Smart 2019/Honor 1](https://m.media-amazon.com/images/I/41OSxHybElL._SL400_.jpg)](https://www.amazon.es/dp/B0858ZVXR1/?tag=tolees-21)
 
 ℹ️:
 

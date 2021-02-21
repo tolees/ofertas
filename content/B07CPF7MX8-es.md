@@ -2,7 +2,7 @@
 layout: post
 title: 'Cincuenta Sombras De Grey - Películas 1- con un 31.80 % de descuento'
 date: 2020-09-13 02:56:08
-image: 'https://m.media-amazon.com/images/I/51wc1dxr+EL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51wc1dxr+EL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '25.34'
 
 En este momento está [Cincuenta Sombras De Grey - Películas 1-3 [Blu-ray]](https://www.amazon.es/dp/B07CPF7MX8/?tag=tolees-21) a 24.9 EUR (original: 36.51 EUR) (31.80 %  de descuento) en el siguiente enlace!
 
-[![Cincuenta Sombras De Grey - Películas 1-](https://m.media-amazon.com/images/I/51wc1dxr+EL._SL200_.jpg)](https://www.amazon.es/dp/B07CPF7MX8/?tag=tolees-21)
+[![Cincuenta Sombras De Grey - Películas 1-](https://m.media-amazon.com/images/I/51wc1dxr+EL._SL400_.jpg)](https://www.amazon.es/dp/B07CPF7MX8/?tag=tolees-21)
 
 🔎:
 

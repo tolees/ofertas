@@ -2,7 +2,7 @@
 layout: post
 title: 'Occitop - Juego de 85 cuentas para manua con un 33.32 % de descuento'
 date: 2020-05-25 09:46:13
-image: 'https://m.media-amazon.com/images/I/415Kh01AOwL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/415Kh01AOwL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.93'
 
 En este momento está [Occitop - Juego de 85 cuentas para manualidades  collares  pulseras  joyería](https://www.amazon.es/dp/B07MV63BQG/?tag=tolees-21) a 16.93 EUR (original: 25.39 EUR) (33.32 %  de descuento) en el siguiente enlace!
 
-[![Occitop - Juego de 85 cuentas para manua](https://m.media-amazon.com/images/I/415Kh01AOwL._SL200_.jpg)](https://www.amazon.es/dp/B07MV63BQG/?tag=tolees-21)
+[![Occitop - Juego de 85 cuentas para manua](https://m.media-amazon.com/images/I/415Kh01AOwL._SL400_.jpg)](https://www.amazon.es/dp/B07MV63BQG/?tag=tolees-21)
 
 🔎:
 

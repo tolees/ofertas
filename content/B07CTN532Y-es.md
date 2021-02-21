@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour UA HOVR Sonic 2  Zapatillas al 36.53 % de descuento'
 date: 2020-06-21 12:02:04
-image: 'https://m.media-amazon.com/images/I/31FUbkLKnML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31FUbkLKnML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '76.16'
 
 Ahora mismo tienes [Under Armour UA HOVR Sonic 2  Zapatillas de Running para Hombre  Blanco  Onyx White/Mod Gray/Mod Gray 101   42 EU](https://www.amazon.es/dp/B07CTN532Y/?tag=tolees-21) a 76.16 EUR (original: 120.0 EUR) (36.53 %  de descuento) en el siguiente enlace!
 
-[![Under Armour UA HOVR Sonic 2  Zapatillas](https://m.media-amazon.com/images/I/31FUbkLKnML._SL200_.jpg)](https://www.amazon.es/dp/B07CTN532Y/?tag=tolees-21)
+[![Under Armour UA HOVR Sonic 2  Zapatillas](https://m.media-amazon.com/images/I/31FUbkLKnML._SL400_.jpg)](https://www.amazon.es/dp/B07CTN532Y/?tag=tolees-21)
 
 🔎:
 

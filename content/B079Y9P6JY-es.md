@@ -2,7 +2,7 @@
 layout: post
 title: 'Funko Pop!- Disney: The Incredibles 2 Fi al 34.42 % de descuento'
 date: 2020-08-01 16:48:36
-image: 'https://m.media-amazon.com/images/I/41tZcffXpAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41tZcffXpAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.89'
 
 Está [Funko Pop!- Disney: The Incredibles 2 Figura de Vinilo  29208 ](https://www.amazon.es/dp/B079Y9P6JY/?tag=tolees-21) con 34.42 de descuento por 10.46 EUR (original: 15.95 EUR) en el siguiente enlace!
 
-[![Funko Pop!- Disney: The Incredibles 2 Fi](https://m.media-amazon.com/images/I/41tZcffXpAL._SL200_.jpg)](https://www.amazon.es/dp/B079Y9P6JY/?tag=tolees-21)
+[![Funko Pop!- Disney: The Incredibles 2 Fi](https://m.media-amazon.com/images/I/41tZcffXpAL._SL400_.jpg)](https://www.amazon.es/dp/B079Y9P6JY/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Superdry Jacob Henley suéter  Gris  Conc al 50.56 % de rebaja'
 date: 2020-09-06 19:33:42
-image: 'https://m.media-amazon.com/images/I/41Vq764o+YL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Vq764o+YL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '44.49'
 
 Tienes [Superdry Jacob Henley suéter  Gris  Concrete Twist THU   XS para Hombre](https://www.amazon.es/dp/B07P4JCSXJ/?tag=tolees-21) con precio final de  44.49 EUR (original: 89.99 EUR) (50.56 %  de rebaja) aqui!
 
-[![Superdry Jacob Henley suéter  Gris  Conc](https://m.media-amazon.com/images/I/41Vq764o+YL._SL200_.jpg)](https://www.amazon.es/dp/B07P4JCSXJ/?tag=tolees-21)
+[![Superdry Jacob Henley suéter  Gris  Conc](https://m.media-amazon.com/images/I/41Vq764o+YL._SL400_.jpg)](https://www.amazon.es/dp/B07P4JCSXJ/?tag=tolees-21)
 
 🔎:
 

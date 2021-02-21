@@ -2,7 +2,7 @@
 layout: post
 title: 'Smatree Funda protectora para tableta de al 34.77 % de descuento'
 date: 2020-08-15 08:01:20
-image: 'https://m.media-amazon.com/images/I/41ihenS3WgL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ihenS3WgL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.04'
 
 Está [Smatree Funda protectora para tableta de 11 5 pulgadas  funda protectora rígida para iPad Pro de 11 "/ iPad Air de 10 5" / Samsung Galaxy Tab S4 / Lenovo Ideapad D330 de 10 1 "/ iPad Mini de 7 9"  azul ](https://www.amazon.es/dp/B07X4YB11D/?tag=tolees-21) con 34.77 de descuento por 13.04 EUR (original: 19.99 EUR) en el siguiente enlace!
 
-[![Smatree Funda protectora para tableta de](https://m.media-amazon.com/images/I/41ihenS3WgL._SL200_.jpg)](https://www.amazon.es/dp/B07X4YB11D/?tag=tolees-21)
+[![Smatree Funda protectora para tableta de](https://m.media-amazon.com/images/I/41ihenS3WgL._SL400_.jpg)](https://www.amazon.es/dp/B07X4YB11D/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Victoria Basket Lona Piso Negro  Zapatil al 38.20 % de rebaja'
 date: 2020-05-08 16:07:19
-image: 'https://m.media-amazon.com/images/I/41RN0L9xqsL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41RN0L9xqsL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '30.183333333333334'
 
 Tienes [Victoria Basket Lona Piso Negro  Zapatillas Unisex Adulto  Negro  36](https://www.amazon.es/dp/B01MZBIVE9/?tag=tolees-21) con precio final de  30.28 EUR (original: 49.0 EUR) (38.20 %  de rebaja) aqui!
 
-[![Victoria Basket Lona Piso Negro  Zapatil](https://m.media-amazon.com/images/I/41RN0L9xqsL._SL200_.jpg)](https://www.amazon.es/dp/B01MZBIVE9/?tag=tolees-21)
+[![Victoria Basket Lona Piso Negro  Zapatil](https://m.media-amazon.com/images/I/41RN0L9xqsL._SL400_.jpg)](https://www.amazon.es/dp/B01MZBIVE9/?tag=tolees-21)
 
 🔎:
 

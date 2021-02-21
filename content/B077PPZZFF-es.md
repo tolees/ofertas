@@ -2,7 +2,7 @@
 layout: post
 title: 'Disfraz de Cowboy a hombros de Caballo p al 42.03 % de descuento'
 date: 2020-02-20 12:40:05
-image: 'https://m.media-amazon.com/images/I/41IhsDCcsYL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41IhsDCcsYL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '27.19'
 
 Ahora mismo tienes [Disfraz de Cowboy a hombros de Caballo para adultos](https://www.amazon.es/dp/B077PPZZFF/?tag=tolees-21) a 27.19 EUR (original: 46.9 EUR) (42.03 %  de descuento) en el siguiente enlace!
 
-[![Disfraz de Cowboy a hombros de Caballo p](https://m.media-amazon.com/images/I/41IhsDCcsYL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B077PPZZFF/?tag=tolees-21)
+[![Disfraz de Cowboy a hombros de Caballo p](https://m.media-amazon.com/images/I/41IhsDCcsYL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B077PPZZFF/?tag=tolees-21)
 
 🔎:
 

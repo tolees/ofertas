@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger Short Sleeve Slim Polo de con un 55.33 % de descuento'
 date: 2020-07-04 02:30:41
-image: 'https://m.media-amazon.com/images/I/41dpd0-Ta8L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41dpd0-Ta8L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.08'
 
 En este momento está [Tommy Hilfiger Short Sleeve Slim Polo de Manga Corta  Amarillo  Sunny Zek   32  Talla del Fabricante: XX-Small  para Mujer](https://www.amazon.es/dp/B07VR3PZRF/?tag=tolees-21) a 24.08 EUR (original: 53.91 EUR) (55.33 %  de descuento) en el siguiente enlace!
 
-[![Tommy Hilfiger Short Sleeve Slim Polo de](https://m.media-amazon.com/images/I/41dpd0-Ta8L._SL200_.jpg)](https://www.amazon.es/dp/B07VR3PZRF/?tag=tolees-21)
+[![Tommy Hilfiger Short Sleeve Slim Polo de](https://m.media-amazon.com/images/I/41dpd0-Ta8L._SL400_.jpg)](https://www.amazon.es/dp/B07VR3PZRF/?tag=tolees-21)
 
 🔎:
 

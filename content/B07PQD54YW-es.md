@@ -2,7 +2,7 @@
 layout: post
 title: 'Relaxdays  Verde-Marrón  80 cm de Altura al 39.47 % de rebaja'
 date: 2020-08-20 14:12:01
-image: 'https://m.media-amazon.com/images/I/41gFijEAZ-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41gFijEAZ-L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.1'
 
 Tienes [Relaxdays  Verde-Marrón  80 cm de Altura Palmera Hinchable para Fiesta Piscina  PVC  Adultos Unisex](https://www.amazon.es/dp/B07PQD54YW/?tag=tolees-21) con precio final de  12.1 EUR (original: 19.99 EUR) (39.47 %  de rebaja) aqui!
 
-[![Relaxdays  Verde-Marrón  80 cm de Altura](https://m.media-amazon.com/images/I/41gFijEAZ-L._SL200_.jpg)](https://www.amazon.es/dp/B07PQD54YW/?tag=tolees-21)
+[![Relaxdays  Verde-Marrón  80 cm de Altura](https://m.media-amazon.com/images/I/41gFijEAZ-L._SL400_.jpg)](https://www.amazon.es/dp/B07PQD54YW/?tag=tolees-21)
 
 🔎:
 

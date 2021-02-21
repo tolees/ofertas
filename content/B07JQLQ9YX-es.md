@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour Cinch Printed Tote Bolsa De al 27.52 % de rebaja'
 date: 2020-01-19 08:23:32
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41krPfou9nL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41krPfou9nL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '28.99'
 
 Tienes [Under Armour Cinch Printed Tote Bolsa Deportiva  Mujer  Verde  OSFA](https://www.amazon.es/dp/B07JQLQ9YX/?tag=tolees-21) con precio final de  28.99 EUR (original: 40 EUR) (27.52 %  de rebaja) aqui!
 
-[![Under Armour Cinch Printed Tote Bolsa De](https://images-eu.ssl-images-amazon.com/images/I/41krPfou9nL._SL200_.jpg)](https://www.amazon.es/dp/B07JQLQ9YX/?tag=tolees-21)
+[![Under Armour Cinch Printed Tote Bolsa De](https://images-eu.ssl-images-amazon.com/images/I/41krPfou9nL._SL400_.jpg)](https://www.amazon.es/dp/B07JQLQ9YX/?tag=tolees-21)
 
 🔎:
 

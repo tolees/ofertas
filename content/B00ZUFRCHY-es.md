@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 40.07 % en Sony Cyber-Shot DSC-RX10 II - Cámara com'
 date: 2020-09-18 18:43:25
-image: 'https://m.media-amazon.com/images/I/41PINbX-2EL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41PINbX-2EL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '839.0'
 
 Tienes [Sony Cyber-Shot DSC-RX10 II - Cámara compacta de 20.2 MP y Sensor de 1" Exmor RS con 20 MP  Negro](https://www.amazon.es/dp/B00ZUFRCHY/?tag=tolees-21) con un 40.07 % de descuento con precio de oferta de 839.0 EUR (original: 1400.0 EUR) en el siguiente enlace!
 
-[![Sony Cyber-Shot DSC-RX10 II - Cámara com](https://m.media-amazon.com/images/I/41PINbX-2EL._SL200_.jpg)](https://www.amazon.es/dp/B00ZUFRCHY/?tag=tolees-21)
+[![Sony Cyber-Shot DSC-RX10 II - Cámara com](https://m.media-amazon.com/images/I/41PINbX-2EL._SL400_.jpg)](https://www.amazon.es/dp/B00ZUFRCHY/?tag=tolees-21)
 
 ℹ️:
 

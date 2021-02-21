@@ -2,7 +2,7 @@
 layout: post
 title: 'Haioo Mini Ventilador USB Portátil y Sil al 30.79 % de descuento'
 date: 2020-08-04 21:45:27
-image: 'https://m.media-amazon.com/images/I/41RnhK2uHxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41RnhK2uHxL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.99'
 
 Ahora mismo tienes [Haioo Mini Ventilador USB Portátil y Silencioso Rotación 360º Ventilador PC de Mesa para Oficina/Viajar/Acampada  Negro ](https://www.amazon.es/dp/B089QSJ9G7/?tag=tolees-21) a 8.99 EUR (original: 12.99 EUR) (30.79 %  de descuento) en el siguiente enlace!
 
-[![Haioo Mini Ventilador USB Portátil y Sil](https://m.media-amazon.com/images/I/41RnhK2uHxL._SL200_.jpg)](https://www.amazon.es/dp/B089QSJ9G7/?tag=tolees-21)
+[![Haioo Mini Ventilador USB Portátil y Sil](https://m.media-amazon.com/images/I/41RnhK2uHxL._SL400_.jpg)](https://www.amazon.es/dp/B089QSJ9G7/?tag=tolees-21)
 
 🔎:
 

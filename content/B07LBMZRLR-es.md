@@ -2,7 +2,7 @@
 layout: post
 title: 'Kappa Cammy Kids  Botas Unisex Niños  Gr al 56.96 % de descuento'
 date: 2020-02-08 19:48:34
-image: 'https://m.media-amazon.com/images/I/41yqNahaBBL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41yqNahaBBL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.89'
 
 Ahora mismo tienes [Kappa Cammy Kids  Botas Unisex Niños  Grey/Pink 1622  29 EU](https://www.amazon.es/dp/B07LBMZRLR/?tag=tolees-21) a 12.89 EUR (original: 29.95 EUR) (56.96 %  de descuento) en el siguiente enlace!
 
-[![Kappa Cammy Kids  Botas Unisex Niños  Gr](https://m.media-amazon.com/images/I/41yqNahaBBL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07LBMZRLR/?tag=tolees-21)
+[![Kappa Cammy Kids  Botas Unisex Niños  Gr](https://m.media-amazon.com/images/I/41yqNahaBBL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07LBMZRLR/?tag=tolees-21)
 
 🔎:
 

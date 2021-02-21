@@ -2,7 +2,7 @@
 layout: post
 title: 'Sisley Loción Tónica Floral sin alcohol  al 37.69 % de descuento'
 date: 2020-05-01 09:29:56
-image: 'https://m.media-amazon.com/images/I/312xgvheKFL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/312xgvheKFL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '48.6'
 
 Ahora mismo tienes [Sisley Loción Tónica Floral sin alcohol  piel seca / sensible - 250 ml](https://www.amazon.es/dp/B002AMUGQY/?tag=tolees-21) a 48.6 EUR (original: 78.0 EUR) (37.69 %  de descuento) en el siguiente enlace!
 
-[![Sisley Loción Tónica Floral sin alcohol ](https://m.media-amazon.com/images/I/312xgvheKFL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B002AMUGQY/?tag=tolees-21)
+[![Sisley Loción Tónica Floral sin alcohol ](https://m.media-amazon.com/images/I/312xgvheKFL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B002AMUGQY/?tag=tolees-21)
 
 🔎:
 

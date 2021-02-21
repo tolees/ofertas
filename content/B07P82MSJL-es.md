@@ -2,7 +2,7 @@
 layout: post
 title: 'Pop! Figura de Vinilo: Harry Potter S7 - al 35.05 % de descuento'
 date: 2020-08-26 11:30:45
-image: 'https://m.media-amazon.com/images/I/41Iea5r1p9L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Iea5r1p9L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.486470588235292'
 
 Ahora mismo tienes [Pop! Figura de Vinilo: Harry Potter S7 - Viktor Krum  Yule ](https://www.amazon.es/dp/B07P82MSJL/?tag=tolees-21) a 9.71 EUR (original: 14.95 EUR) (35.05 %  de descuento) en el siguiente enlace!
 
-[![Pop! Figura de Vinilo: Harry Potter S7 -](https://m.media-amazon.com/images/I/41Iea5r1p9L._SL200_.jpg)](https://www.amazon.es/dp/B07P82MSJL/?tag=tolees-21)
+[![Pop! Figura de Vinilo: Harry Potter S7 -](https://m.media-amazon.com/images/I/41Iea5r1p9L._SL400_.jpg)](https://www.amazon.es/dp/B07P82MSJL/?tag=tolees-21)
 
 🔎:
 

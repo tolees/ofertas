@@ -2,7 +2,7 @@
 layout: post
 title: 'El precio del poder  4K UHD + BD  [Blu-r al 50.02 % de rebaja'
 date: 2020-05-18 07:46:44
-image: 'https://m.media-amazon.com/images/I/51dFnlPw7PL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51dFnlPw7PL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.993333333333334'
 
 Tienes [El precio del poder  4K UHD + BD  [Blu-ray]](https://www.amazon.es/dp/B07X2M34FS/?tag=tolees-21) con precio final de  12.99 EUR (original: 25.99 EUR) (50.02 %  de rebaja) aqui!
 
-[![El precio del poder  4K UHD + BD  [Blu-r](https://m.media-amazon.com/images/I/51dFnlPw7PL._SL200_.jpg)](https://www.amazon.es/dp/B07X2M34FS/?tag=tolees-21)
+[![El precio del poder  4K UHD + BD  [Blu-r](https://m.media-amazon.com/images/I/51dFnlPw7PL._SL400_.jpg)](https://www.amazon.es/dp/B07X2M34FS/?tag=tolees-21)
 
 🔎:
 

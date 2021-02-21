@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 48.05 % en PUMA Tarrenz SB Puretex  Zapatillas Unis'
 date: 2020-03-24 21:22:04
-image: 'https://m.media-amazon.com/images/I/41Rg90Vb5yL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Rg90Vb5yL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '46.73'
 
 Tienes [PUMA Tarrenz SB Puretex  Zapatillas Unisex Adulto  Black Black  40 EU](https://www.amazon.es/dp/B07KFXG55Q/?tag=tolees-21) con un 48.05 % de descuento con precio de oferta de 46.73 EUR (original: 89.95 EUR) en el siguiente enlace!
 
-[![PUMA Tarrenz SB Puretex  Zapatillas Unis](https://m.media-amazon.com/images/I/41Rg90Vb5yL._SL200_.jpg)](https://www.amazon.es/dp/B07KFXG55Q/?tag=tolees-21)
+[![PUMA Tarrenz SB Puretex  Zapatillas Unis](https://m.media-amazon.com/images/I/41Rg90Vb5yL._SL400_.jpg)](https://www.amazon.es/dp/B07KFXG55Q/?tag=tolees-21)
 
 ℹ️:
 

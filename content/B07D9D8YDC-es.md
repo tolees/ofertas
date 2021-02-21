@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas RUN80S  Zapatillas para Hombre  G con un 56.29 % de descuento'
 date: 2020-03-08 11:47:15
-image: 'https://m.media-amazon.com/images/I/41vx1luynpL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41vx1luynpL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '34.95'
 
 En este momento está [adidas RUN80S  Zapatillas para Hombre  Gris  Grey/Grey/Hi-Res Aqua 0   44 2/3 EU](https://www.amazon.es/dp/B07D9D8YDC/?tag=tolees-21) a 34.95 EUR (original: 79.95 EUR) (56.29 %  de descuento) en el siguiente enlace!
 
-[![adidas RUN80S  Zapatillas para Hombre  G](https://m.media-amazon.com/images/I/41vx1luynpL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07D9D8YDC/?tag=tolees-21)
+[![adidas RUN80S  Zapatillas para Hombre  G](https://m.media-amazon.com/images/I/41vx1luynpL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07D9D8YDC/?tag=tolees-21)
 
 🔎:
 

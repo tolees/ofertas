@@ -2,7 +2,7 @@
 layout: post
 title: 'DIM Generous Invisible Sujetador  Negro  al 53.67 % de descuento'
 date: 2020-05-21 03:50:48
-image: 'https://m.media-amazon.com/images/I/41omeGmEAJL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41omeGmEAJL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.56'
 
 Ahora mismo tienes [DIM Generous Invisible Sujetador  Negro  100.D para Mujer](https://www.amazon.es/dp/B005XMJ7XQ/?tag=tolees-21) a 17.56 EUR (original: 37.9 EUR) (53.67 %  de descuento) en el siguiente enlace!
 
-[![DIM Generous Invisible Sujetador  Negro ](https://m.media-amazon.com/images/I/41omeGmEAJL._SL200_.jpg)](https://www.amazon.es/dp/B005XMJ7XQ/?tag=tolees-21)
+[![DIM Generous Invisible Sujetador  Negro ](https://m.media-amazon.com/images/I/41omeGmEAJL._SL400_.jpg)](https://www.amazon.es/dp/B005XMJ7XQ/?tag=tolees-21)
 
 🔎:
 

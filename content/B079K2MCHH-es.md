@@ -2,7 +2,7 @@
 layout: post
 title: 'Rimmel London Match Perfection Foundatio al 44.60 % de descuento'
 date: 2020-06-24 12:31:45
-image: 'https://m.media-amazon.com/images/I/31F4l9W9YdL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31F4l9W9YdL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.0'
 
 Ahora mismo tienes [Rimmel London Match Perfection Foundation Base de Maquillaje Tono 501 Noisette - 123 gr](https://www.amazon.es/dp/B079K2MCHH/?tag=tolees-21) a 4.0 EUR (original: 7.22 EUR) (44.60 %  de descuento) en el siguiente enlace!
 
-[![Rimmel London Match Perfection Foundatio](https://m.media-amazon.com/images/I/31F4l9W9YdL._SL200_.jpg)](https://www.amazon.es/dp/B079K2MCHH/?tag=tolees-21)
+[![Rimmel London Match Perfection Foundatio](https://m.media-amazon.com/images/I/31F4l9W9YdL._SL400_.jpg)](https://www.amazon.es/dp/B079K2MCHH/?tag=tolees-21)
 
 🔎:
 

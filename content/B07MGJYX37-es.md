@@ -2,7 +2,7 @@
 layout: post
 title: 'The North Face Mallas en Mezcla de algod al 50.00 % de descuento'
 date: 2020-03-18 19:29:14
-image: 'https://m.media-amazon.com/images/I/41YrTN6YxZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41YrTN6YxZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.5'
 
 Ahora mismo tienes [The North Face Mallas en Mezcla de algodón con Logotipo Grande  Niñas  TNF Medium Grey Heather  XL](https://www.amazon.es/dp/B07MGJYX37/?tag=tolees-21) a 12.5 EUR (original: 25.0 EUR) (50.00 %  de descuento) en el siguiente enlace!
 
-[![The North Face Mallas en Mezcla de algod](https://m.media-amazon.com/images/I/41YrTN6YxZL._SL200_.jpg)](https://www.amazon.es/dp/B07MGJYX37/?tag=tolees-21)
+[![The North Face Mallas en Mezcla de algod](https://m.media-amazon.com/images/I/41YrTN6YxZL._SL400_.jpg)](https://www.amazon.es/dp/B07MGJYX37/?tag=tolees-21)
 
 🔎:
 

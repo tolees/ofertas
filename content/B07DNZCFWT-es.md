@@ -2,7 +2,7 @@
 layout: post
 title: 'Termómetro Digital Frente y Oído  4 in 1 al 46.83 % de descuento'
 date: 2020-01-22 14:53:57
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31hoMOlMXNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31hoMOlMXNL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.95'
 
 Ahora mismo tienes [Termómetro Digital Frente y Oído  4 in 1 Termómetro Infrarrojo Médico Alta Precisión Para Bebe Niños y Adultos Alarma De Fiebre Temperatura Ambiente](https://www.amazon.es/dp/B07DNZCFWT/?tag=tolees-21) a 15.95 EUR (original: 30 EUR) (46.83 %  de descuento) en el siguiente enlace!
 
-[![Termómetro Digital Frente y Oído  4 in 1](https://images-eu.ssl-images-amazon.com/images/I/31hoMOlMXNL._SL200_.jpg)](https://www.amazon.es/dp/B07DNZCFWT/?tag=tolees-21)
+[![Termómetro Digital Frente y Oído  4 in 1](https://images-eu.ssl-images-amazon.com/images/I/31hoMOlMXNL._SL400_.jpg)](https://www.amazon.es/dp/B07DNZCFWT/?tag=tolees-21)
 
 🔎:
 

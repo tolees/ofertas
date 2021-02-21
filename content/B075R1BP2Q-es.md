@@ -2,7 +2,7 @@
 layout: post
 title: 'LANGE RSJ 60 Botas de Esquí  Niños  Azul al 40.00 % de descuento'
 date: 2020-10-07 18:56:41
-image: 'https://m.media-amazon.com/images/I/41935wYsinL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41935wYsinL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '75.0'
 
 Ahora mismo tienes [LANGE RSJ 60 Botas de Esquí  Niños  Azul  Power   19.5](https://www.amazon.es/dp/B075R1BP2Q/?tag=tolees-21) a 75.0 EUR (original: 125.0 EUR) (40.00 %  de descuento) en el siguiente enlace!
 
-[![LANGE RSJ 60 Botas de Esquí  Niños  Azul](https://m.media-amazon.com/images/I/41935wYsinL._SL200_.jpg)](https://www.amazon.es/dp/B075R1BP2Q/?tag=tolees-21)
+[![LANGE RSJ 60 Botas de Esquí  Niños  Azul](https://m.media-amazon.com/images/I/41935wYsinL._SL400_.jpg)](https://www.amazon.es/dp/B075R1BP2Q/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Wild Stylers by Tecni.art - Depolish - P al 39.28 % de rebaja'
 date: 2020-01-27 08:54:19
-image: 'https://m.media-amazon.com/images/I/31YD7qoS1bL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31YD7qoS1bL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.08'
 
 Tienes [Wild Stylers by Tecni.art - Depolish - Pasta desestructurante  efecto mate - 100 ml](https://www.amazon.es/dp/B00IHX4OTK/?tag=tolees-21) con precio final de  7.08 EUR (original: 11.66 EUR) (39.28 %  de rebaja) aqui!
 
-[![Wild Stylers by Tecni.art - Depolish - P](https://m.media-amazon.com/images/I/31YD7qoS1bL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B00IHX4OTK/?tag=tolees-21)
+[![Wild Stylers by Tecni.art - Depolish - P](https://m.media-amazon.com/images/I/31YD7qoS1bL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B00IHX4OTK/?tag=tolees-21)
 
 🔎:
 

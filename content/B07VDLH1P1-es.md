@@ -2,7 +2,7 @@
 layout: post
 title: 'Vans Filmore Decon  Sneaker para Hombre  al 30.00 % de descuento'
 date: 2020-10-11 18:34:26
-image: 'https://m.media-amazon.com/images/I/41-HKmyHTzL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41-HKmyHTzL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '38.5'
 
 Está [Vans Filmore Decon  Sneaker para Hombre  Multicolor   Canvas  Black/Port Royale W7Q   40 EU](https://www.amazon.es/dp/B07VDLH1P1/?tag=tolees-21) con 30.00 de descuento por 38.5 EUR (original: 55.0 EUR) en el siguiente enlace!
 
-[![Vans Filmore Decon  Sneaker para Hombre ](https://m.media-amazon.com/images/I/41-HKmyHTzL._SL200_.jpg)](https://www.amazon.es/dp/B07VDLH1P1/?tag=tolees-21)
+[![Vans Filmore Decon  Sneaker para Hombre ](https://m.media-amazon.com/images/I/41-HKmyHTzL._SL400_.jpg)](https://www.amazon.es/dp/B07VDLH1P1/?tag=tolees-21)
 
 ℹ️:
 

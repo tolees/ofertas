@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour Blitzing II - Gorra  Hombre al 47.55 % de descuento'
 date: 2020-06-24 01:41:32
-image: 'https://m.media-amazon.com/images/I/41cE-10gcaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41cE-10gcaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.989999999999998'
 
 Ahora mismo tienes [Under Armour Blitzing II - Gorra  Hombre  Azul  Midnight Navy/White 417   L/XL](https://www.amazon.es/dp/B07KGY62NZ/?tag=tolees-21) a 10.49 EUR (original: 20.0 EUR) (47.55 %  de descuento) en el siguiente enlace!
 
-[![Under Armour Blitzing II - Gorra  Hombre](https://m.media-amazon.com/images/I/41cE-10gcaL._SL200_.jpg)](https://www.amazon.es/dp/B07KGY62NZ/?tag=tolees-21)
+[![Under Armour Blitzing II - Gorra  Hombre](https://m.media-amazon.com/images/I/41cE-10gcaL._SL400_.jpg)](https://www.amazon.es/dp/B07KGY62NZ/?tag=tolees-21)
 
 🔎:
 

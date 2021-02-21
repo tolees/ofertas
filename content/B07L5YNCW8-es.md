@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas Terrex Skychaser LT GTX  Zapatill con un 62.28 % de descuento'
 date: 2020-03-31 18:07:58
-image: 'https://m.media-amazon.com/images/I/413alKZhJFL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/413alKZhJFL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '56.56'
 
 En este momento está [adidas Terrex Skychaser LT GTX  Zapatillas de Cross para Hombre  Negro  Carbon/Core Black/Grey Four F17 Carbon/Core Black/Grey Four F17   48 EU](https://www.amazon.es/dp/B07L5YNCW8/?tag=tolees-21) a 56.56 EUR (original: 149.95 EUR) (62.28 %  de descuento) en el siguiente enlace!
 
-[![adidas Terrex Skychaser LT GTX  Zapatill](https://m.media-amazon.com/images/I/413alKZhJFL._SL200_.jpg)](https://www.amazon.es/dp/B07L5YNCW8/?tag=tolees-21)
+[![adidas Terrex Skychaser LT GTX  Zapatill](https://m.media-amazon.com/images/I/413alKZhJFL._SL400_.jpg)](https://www.amazon.es/dp/B07L5YNCW8/?tag=tolees-21)
 
 🔎:
 

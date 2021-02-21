@@ -2,7 +2,7 @@
 layout: post
 title: 'HORIZON ZERO DAWN - ORIGINAL SOUNDTRACK al 34.88 % de descuento'
 date: 2020-08-16 08:50:32
-image: 'https://m.media-amazon.com/images/I/51xqIcQamKL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51xqIcQamKL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.89'
 
 Ahora mismo tienes [HORIZON ZERO DAWN - ORIGINAL SOUNDTRACK](https://www.amazon.es/dp/B077PQ7JCY/?tag=tolees-21) a 11.76 EUR (original: 18.06 EUR) (34.88 %  de descuento) en el siguiente enlace!
 
-[![HORIZON ZERO DAWN - ORIGINAL SOUNDTRACK](https://m.media-amazon.com/images/I/51xqIcQamKL._SL200_.jpg)](https://www.amazon.es/dp/B077PQ7JCY/?tag=tolees-21)
+[![HORIZON ZERO DAWN - ORIGINAL SOUNDTRACK](https://m.media-amazon.com/images/I/51xqIcQamKL._SL400_.jpg)](https://www.amazon.es/dp/B077PQ7JCY/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Repavar Revitalizante Agua Micelar 300Ml al 47.31 % de descuento'
 date: 2020-02-04 13:54:53
-image: 'https://m.media-amazon.com/images/I/31yw55nzGSL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31yw55nzGSL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.51'
 
 Está [Repavar Revitalizante Agua Micelar 300Ml. 300 ml](https://www.amazon.es/dp/B0778M1FDX/?tag=tolees-21) con 47.31 de descuento por 4.51 EUR (original: 8.56 EUR) en el siguiente enlace!
 
-[![Repavar Revitalizante Agua Micelar 300Ml](https://m.media-amazon.com/images/I/31yw55nzGSL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B0778M1FDX/?tag=tolees-21)
+[![Repavar Revitalizante Agua Micelar 300Ml](https://m.media-amazon.com/images/I/31yw55nzGSL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B0778M1FDX/?tag=tolees-21)
 
 ℹ️:
 

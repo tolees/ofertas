@@ -2,7 +2,7 @@
 layout: post
 title: 'Olivia Burton Reloj Analógico para Mujer al 49.57 % de descuento'
 date: 2020-02-12 20:02:28
-image: 'https://m.media-amazon.com/images/I/41ZAoAuZlTL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ZAoAuZlTL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '74.8'
 
 Ahora mismo tienes [Olivia Burton Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable OB16GD14](https://www.amazon.es/dp/B07KJRKQWD/?tag=tolees-21) a 69.6 EUR (original: 138.0 EUR) (49.57 %  de descuento) en el siguiente enlace!
 
-[![Olivia Burton Reloj Analógico para Mujer](https://m.media-amazon.com/images/I/41ZAoAuZlTL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07KJRKQWD/?tag=tolees-21)
+[![Olivia Burton Reloj Analógico para Mujer](https://m.media-amazon.com/images/I/41ZAoAuZlTL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07KJRKQWD/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 52.01 % en Superdry Poolside Pique Polo  Rojo  Roug'
 date: 2020-10-02 13:13:37
-image: 'https://m.media-amazon.com/images/I/41QRBXl-BFL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41QRBXl-BFL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.775'
 
 Tienes [Superdry Poolside Pique Polo  Rojo  Rouge Red Twist Y6p   M para Hombre](https://www.amazon.es/dp/B07NY3PY85/?tag=tolees-21) con un 52.01 % de descuento con precio de oferta de 23.99 EUR (original: 49.99 EUR) en el siguiente enlace!
 
-[![Superdry Poolside Pique Polo  Rojo  Roug](https://m.media-amazon.com/images/I/41QRBXl-BFL._SL200_.jpg)](https://www.amazon.es/dp/B07NY3PY85/?tag=tolees-21)
+[![Superdry Poolside Pique Polo  Rojo  Roug](https://m.media-amazon.com/images/I/41QRBXl-BFL._SL400_.jpg)](https://www.amazon.es/dp/B07NY3PY85/?tag=tolees-21)
 
 ℹ️:
 

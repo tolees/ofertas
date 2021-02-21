@@ -2,7 +2,7 @@
 layout: post
 title: 'Volcom Rockout Skinny Vintage Black 7 al 64.59 % de rebaja'
 date: 2020-10-09 19:14:23
-image: 'https://m.media-amazon.com/images/I/41nrAOVArkL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41nrAOVArkL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '36.25000000000001'
 
 Tienes [Volcom Rockout Skinny Vintage Black 7](https://www.amazon.es/dp/B072MWDZH9/?tag=tolees-21) con precio final de  31.85 EUR (original: 89.95 EUR) (64.59 %  de rebaja) aqui!
 
-[![Volcom Rockout Skinny Vintage Black 7](https://m.media-amazon.com/images/I/41nrAOVArkL._SL200_.jpg)](https://www.amazon.es/dp/B072MWDZH9/?tag=tolees-21)
+[![Volcom Rockout Skinny Vintage Black 7](https://m.media-amazon.com/images/I/41nrAOVArkL._SL400_.jpg)](https://www.amazon.es/dp/B072MWDZH9/?tag=tolees-21)
 
 🔎:
 

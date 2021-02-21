@@ -2,7 +2,7 @@
 layout: post
 title: 'Dockers by Gerli 45sn006  Botas Militar  al 33.71 % de rebaja'
 date: 2020-03-17 08:50:15
-image: 'https://m.media-amazon.com/images/I/41RHEGuuWWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41RHEGuuWWL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.19'
 
 Tienes [Dockers by Gerli 45sn006  Botas Militar para Hombre  Amarillo  Golden Tan 910   41 EU](https://www.amazon.es/dp/B07Q8T4BCQ/?tag=tolees-21) con precio final de  17.19 EUR (original: 25.93 EUR) (33.71 %  de rebaja) aqui!
 
-[![Dockers by Gerli 45sn006  Botas Militar ](https://m.media-amazon.com/images/I/41RHEGuuWWL._SL200_.jpg)](https://www.amazon.es/dp/B07Q8T4BCQ/?tag=tolees-21)
+[![Dockers by Gerli 45sn006  Botas Militar ](https://m.media-amazon.com/images/I/41RHEGuuWWL._SL400_.jpg)](https://www.amazon.es/dp/B07Q8T4BCQ/?tag=tolees-21)
 
 🔎:
 

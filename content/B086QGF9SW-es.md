@@ -2,7 +2,7 @@
 layout: post
 title: 'Suhctup Funda Compatible con Huawei Hono al 46.80 % de rebaja'
 date: 2020-05-19 07:40:27
-image: 'https://m.media-amazon.com/images/I/41CKoCHoJaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41CKoCHoJaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.98'
 
 Tienes [Suhctup Funda Compatible con Huawei Honor 9i Carcasa Transparente Dibujo Diseño Flor [Protección Caídas] Ultra-Delgado Flexible Silicona TPU Estuche Cover para Huawei Honor 9i Mandala 3](https://www.amazon.es/dp/B086QGF9SW/?tag=tolees-21) con precio final de  8.98 EUR (original: 16.88 EUR) (46.80 %  de rebaja) aqui!
 
-[![Suhctup Funda Compatible con Huawei Hono](https://m.media-amazon.com/images/I/41CKoCHoJaL._SL200_.jpg)](https://www.amazon.es/dp/B086QGF9SW/?tag=tolees-21)
+[![Suhctup Funda Compatible con Huawei Hono](https://m.media-amazon.com/images/I/41CKoCHoJaL._SL400_.jpg)](https://www.amazon.es/dp/B086QGF9SW/?tag=tolees-21)
 
 🔎:
 

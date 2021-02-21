@@ -2,7 +2,7 @@
 layout: post
 title: 'Cortapelos y afeitadora hombrel 6-en-1   al 42.86 % de descuento'
 date: 2020-07-06 18:21:11
-image: 'https://m.media-amazon.com/images/I/51hFPx6-kwL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51hFPx6-kwL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '39.99'
 
 Ahora mismo tienes [Cortapelos y afeitadora hombrel 6-en-1  juego de cortapelos multifuncion para hombre profesional  afeitadora eléctrica  fácil de quitar el cabello  el pelo de la nariz y el pelo extra en el cuerpo](https://www.amazon.es/dp/B07VCBWT7R/?tag=tolees-21) a 39.99 EUR (original: 69.99 EUR) (42.86 %  de descuento) en el siguiente enlace!
 
-[![Cortapelos y afeitadora hombrel 6-en-1  ](https://m.media-amazon.com/images/I/51hFPx6-kwL._SL200_.jpg)](https://www.amazon.es/dp/B07VCBWT7R/?tag=tolees-21)
+[![Cortapelos y afeitadora hombrel 6-en-1  ](https://m.media-amazon.com/images/I/51hFPx6-kwL._SL400_.jpg)](https://www.amazon.es/dp/B07VCBWT7R/?tag=tolees-21)
 
 🔎:
 

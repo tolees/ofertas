@@ -2,7 +2,7 @@
 layout: post
 title: 'ETNAB|#Etnies Jameson 2 Eco  Zapatillas  al 57.77 % de descuento'
 date: 2020-03-14 08:15:50
-image: 'https://m.media-amazon.com/images/I/31r5ZbIe-pL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31r5ZbIe-pL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '31.67'
 
 Ahora mismo tienes [ETNAB|#Etnies Jameson 2 Eco  Zapatillas de Skateboard para Hombre  069/Dark Grey/White/Gum 069  4.5 EU](https://www.amazon.es/dp/B07LCCZLQP/?tag=tolees-21) a 31.67 EUR (original: 75.0 EUR) (57.77 %  de descuento) en el siguiente enlace!
 
-[![ETNAB|#Etnies Jameson 2 Eco  Zapatillas ](https://m.media-amazon.com/images/I/31r5ZbIe-pL._SL200_.jpg)](https://www.amazon.es/dp/B07LCCZLQP/?tag=tolees-21)
+[![ETNAB|#Etnies Jameson 2 Eco  Zapatillas ](https://m.media-amazon.com/images/I/31r5ZbIe-pL._SL400_.jpg)](https://www.amazon.es/dp/B07LCCZLQP/?tag=tolees-21)
 
 🔎:
 

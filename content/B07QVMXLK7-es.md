@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour UA Heatgear Crew Calcetines al 26.75 % de descuento'
 date: 2020-06-22 21:32:58
-image: 'https://m.media-amazon.com/images/I/41Iv3ticilL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Iv3ticilL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.79'
 
 Ahora mismo tienes [Under Armour UA Heatgear Crew Calcetines  Unisex  Blanco  XL](https://www.amazon.es/dp/B07QVMXLK7/?tag=tolees-21) a 8.79 EUR (original: 12.0 EUR) (26.75 %  de descuento) en el siguiente enlace!
 
-[![Under Armour UA Heatgear Crew Calcetines](https://m.media-amazon.com/images/I/41Iv3ticilL._SL200_.jpg)](https://www.amazon.es/dp/B07QVMXLK7/?tag=tolees-21)
+[![Under Armour UA Heatgear Crew Calcetines](https://m.media-amazon.com/images/I/41Iv3ticilL._SL400_.jpg)](https://www.amazon.es/dp/B07QVMXLK7/?tag=tolees-21)
 
 🔎:
 

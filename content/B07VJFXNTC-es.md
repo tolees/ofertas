@@ -2,7 +2,7 @@
 layout: post
 title: 'ieGeek Cámara de Vigilancia WiFi Interio al 52.01 % de descuento'
 date: 2020-08-06 08:46:15
-image: 'https://m.media-amazon.com/images/I/31Gl5Kd3wQL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Gl5Kd3wQL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '32.81352941176471'
 
 Ahora mismo tienes [ieGeek Cámara de Vigilancia WiFi Interior  Cámara IP WiFi 1080P HD  Detección Humana  Grabacion Continua  Audio de 2 Vías  FHD  Sensor de Movimiento  Vigilabebes Audio  Monitor para Bebe/Perros](https://www.amazon.es/dp/B07VJFXNTC/?tag=tolees-21) a 23.99 EUR (original: 49.99 EUR) (52.01 %  de descuento) en el siguiente enlace!
 
-[![ieGeek Cámara de Vigilancia WiFi Interio](https://m.media-amazon.com/images/I/31Gl5Kd3wQL._SL200_.jpg)](https://www.amazon.es/dp/B07VJFXNTC/?tag=tolees-21)
+[![ieGeek Cámara de Vigilancia WiFi Interio](https://m.media-amazon.com/images/I/31Gl5Kd3wQL._SL400_.jpg)](https://www.amazon.es/dp/B07VJFXNTC/?tag=tolees-21)
 
 🔎:
 

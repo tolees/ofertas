@@ -2,7 +2,7 @@
 layout: post
 title: 'G-Star RAW Rovulc Mid Wmn  Zapatillas pa al 44.42 % de rebaja'
 date: 2020-04-26 20:11:18
-image: 'https://m.media-amazon.com/images/I/41xMVGmJyhL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41xMVGmJyhL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '45.269999999999996'
 
 Tienes [G-Star RAW Rovulc Mid Wmn  Zapatillas para Mujer  Blanco  White 110   37 EU](https://www.amazon.es/dp/B077HX4NDC/?tag=tolees-21) con precio final de  49.99 EUR (original: 89.95 EUR) (44.42 %  de rebaja) aqui!
 
-[![G-Star RAW Rovulc Mid Wmn  Zapatillas pa](https://m.media-amazon.com/images/I/41xMVGmJyhL._SL200_.jpg)](https://www.amazon.es/dp/B077HX4NDC/?tag=tolees-21)
+[![G-Star RAW Rovulc Mid Wmn  Zapatillas pa](https://m.media-amazon.com/images/I/41xMVGmJyhL._SL400_.jpg)](https://www.amazon.es/dp/B077HX4NDC/?tag=tolees-21)
 
 🔎:
 

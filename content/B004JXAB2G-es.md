@@ -2,7 +2,7 @@
 layout: post
 title: 'Pilot 1108/12  Cartucho de Tinta  Paquet al 29.18 % de descuento'
 date: 2020-01-20 00:53:53
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51lk2NYaP0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51lk2NYaP0L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.3'
 
 Ahora mismo tienes [Pilot 1108/12  Cartucho de Tinta  Paquete de 12  Multicolor](https://www.amazon.es/dp/B004JXAB2G/?tag=tolees-21) a 3.3 EUR (original: 4.66 EUR) (29.18 %  de descuento) en el siguiente enlace!
 
-[![Pilot 1108/12  Cartucho de Tinta  Paquet](https://images-eu.ssl-images-amazon.com/images/I/51lk2NYaP0L._SL200_.jpg)](https://www.amazon.es/dp/B004JXAB2G/?tag=tolees-21)
+[![Pilot 1108/12  Cartucho de Tinta  Paquet](https://images-eu.ssl-images-amazon.com/images/I/51lk2NYaP0L._SL400_.jpg)](https://www.amazon.es/dp/B004JXAB2G/?tag=tolees-21)
 
 🔎:
 

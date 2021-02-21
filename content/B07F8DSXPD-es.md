@@ -2,7 +2,7 @@
 layout: post
 title: 'Mono/Pelele de manga larga para bebé  3- con un 67.40 % de descuento'
 date: 2020-05-13 17:43:05
-image: 'https://m.media-amazon.com/images/I/31HlflfR+pL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31HlflfR+pL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.95'
 
 En este momento está [Mono/Pelele de manga larga para bebé  3-6 Meses   Azul ](https://www.amazon.es/dp/B07F8DSXPD/?tag=tolees-21) a 2.95 EUR (original: 9.05 EUR) (67.40 %  de descuento) en el siguiente enlace!
 
-[![Mono/Pelele de manga larga para bebé  3-](https://m.media-amazon.com/images/I/31HlflfR+pL._SL200_.jpg)](https://www.amazon.es/dp/B07F8DSXPD/?tag=tolees-21)
+[![Mono/Pelele de manga larga para bebé  3-](https://m.media-amazon.com/images/I/31HlflfR+pL._SL400_.jpg)](https://www.amazon.es/dp/B07F8DSXPD/?tag=tolees-21)
 
 🔎:
 

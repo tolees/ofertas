@@ -2,7 +2,7 @@
 layout: post
 title: 'Luces LED Armario Tomshine 6PCS RGBW Lám al 35.73 % de descuento'
 date: 2020-07-13 14:14:20
-image: 'https://m.media-amazon.com/images/I/41FoSpePtjL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41FoSpePtjL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.99'
 
 Está [Luces LED Armario Tomshine 6PCS RGBW Lámpara de Armario 10 Brillo Regulable/3 Iluminación Modo Luz Nocturna con Pilas con 2 Control Remoto Para Vitrina Cocina Garaje[Clase Eficiencia Energética A++]](https://www.amazon.es/dp/B07W41XGTT/?tag=tolees-21) con 35.73 de descuento por 17.99 EUR (original: 27.99 EUR) en el siguiente enlace!
 
-[![Luces LED Armario Tomshine 6PCS RGBW Lám](https://m.media-amazon.com/images/I/41FoSpePtjL._SL200_.jpg)](https://www.amazon.es/dp/B07W41XGTT/?tag=tolees-21)
+[![Luces LED Armario Tomshine 6PCS RGBW Lám](https://m.media-amazon.com/images/I/41FoSpePtjL._SL400_.jpg)](https://www.amazon.es/dp/B07W41XGTT/?tag=tolees-21)
 
 ℹ️:
 

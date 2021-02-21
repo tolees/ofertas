@@ -2,7 +2,7 @@
 layout: post
 title: 'Crucial Ballistix Tactical Tracer BLT2K8 al 27.91 % de descuento'
 date: 2020-02-05 10:16:52
-image: 'https://m.media-amazon.com/images/I/41655fYf-7L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41655fYf-7L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '97.86'
 
 Ahora mismo tienes [Crucial Ballistix Tactical Tracer BLT2K8G4D32AET4K RGB  3200 MHz  DDR4  DRAM  Memoria Gamer Kit para ordenadores de sobremesa  16GB  8GBx2   CL16](https://www.amazon.es/dp/B07WMMG2TG/?tag=tolees-21) a 81.99 EUR (original: 113.73 EUR) (27.91 %  de descuento) en el siguiente enlace!
 
-[![Crucial Ballistix Tactical Tracer BLT2K8](https://m.media-amazon.com/images/I/41655fYf-7L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07WMMG2TG/?tag=tolees-21)
+[![Crucial Ballistix Tactical Tracer BLT2K8](https://m.media-amazon.com/images/I/41655fYf-7L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07WMMG2TG/?tag=tolees-21)
 
 🔎:
 

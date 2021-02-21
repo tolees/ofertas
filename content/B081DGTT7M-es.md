@@ -2,7 +2,7 @@
 layout: post
 title: 'FNBK Funda para iPhone 11 Pro Max Case   al 53.89 % de descuento'
 date: 2020-05-28 07:02:13
-image: 'https://m.media-amazon.com/images/I/511T4Txfi2L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/511T4Txfi2L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.99'
 
 Ahora mismo tienes [FNBK Funda para iPhone 11 Pro Max Case  Funda Móvil PU en iPhone 11 Pro Max  Magnético Carcasa con Soporte y Ranuras para Tarjetas Marrón](https://www.amazon.es/dp/B081DGTT7M/?tag=tolees-21) a 5.99 EUR (original: 12.99 EUR) (53.89 %  de descuento) en el siguiente enlace!
 
-[![FNBK Funda para iPhone 11 Pro Max Case  ](https://m.media-amazon.com/images/I/511T4Txfi2L._SL200_.jpg)](https://www.amazon.es/dp/B081DGTT7M/?tag=tolees-21)
+[![FNBK Funda para iPhone 11 Pro Max Case  ](https://m.media-amazon.com/images/I/511T4Txfi2L._SL400_.jpg)](https://www.amazon.es/dp/B081DGTT7M/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour Favorite Legging WM Ar Legg al 29.09 % de rebaja'
 date: 2020-02-02 19:43:13
-image: 'https://m.media-amazon.com/images/I/31Bfu2nVVsL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Bfu2nVVsL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '28.155'
 
 Tienes [Under Armour Favorite Legging WM Ar Leggings  Mujer  Negro  Black/Onyx White 001   L](https://www.amazon.es/dp/B07CZFP4LK/?tag=tolees-21) con precio final de  24.82 EUR (original: 35.0 EUR) (29.09 %  de rebaja) aqui!
 
-[![Under Armour Favorite Legging WM Ar Legg](https://m.media-amazon.com/images/I/31Bfu2nVVsL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07CZFP4LK/?tag=tolees-21)
+[![Under Armour Favorite Legging WM Ar Legg](https://m.media-amazon.com/images/I/31Bfu2nVVsL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07CZFP4LK/?tag=tolees-21)
 
 🔎:
 

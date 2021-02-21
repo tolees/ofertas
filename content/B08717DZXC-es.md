@@ -2,7 +2,7 @@
 layout: post
 title: 'B Blesiya Cargador Inalámbrico Qi Pad 10 al 44.44 % de descuento'
 date: 2020-08-26 12:01:41
-image: 'https://m.media-amazon.com/images/I/31LCQ+cyt8L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31LCQ+cyt8L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.99'
 
 Ahora mismo tienes [B Blesiya Cargador Inalámbrico Qi Pad 10W Base De Carga Rápida para Samsung Huawei - Blanco](https://www.amazon.es/dp/B08717DZXC/?tag=tolees-21) a 9.99 EUR (original: 17.98 EUR) (44.44 %  de descuento) en el siguiente enlace!
 
-[![B Blesiya Cargador Inalámbrico Qi Pad 10](https://m.media-amazon.com/images/I/31LCQ+cyt8L._SL200_.jpg)](https://www.amazon.es/dp/B08717DZXC/?tag=tolees-21)
+[![B Blesiya Cargador Inalámbrico Qi Pad 10](https://m.media-amazon.com/images/I/31LCQ+cyt8L._SL400_.jpg)](https://www.amazon.es/dp/B08717DZXC/?tag=tolees-21)
 
 🔎:
 

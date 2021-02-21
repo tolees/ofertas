@@ -2,7 +2,7 @@
 layout: post
 title: 'Pajoma - Velas de té sin Perfume  100 Un con un 29.97 % de descuento'
 date: 2020-05-21 15:32:29
-image: 'https://m.media-amazon.com/images/I/41TrMJ9sq0L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41TrMJ9sq0L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.756666666666668'
 
 En este momento está [Pajoma - Velas de té sin Perfume  100 Unidades  Tiempo de combustión: 8 Horas. Velas de té Gastro.](https://www.amazon.es/dp/B076DSBQD3/?tag=tolees-21) a 17.99 EUR (original: 25.69 EUR) (29.97 %  de descuento) en el siguiente enlace!
 
-[![Pajoma - Velas de té sin Perfume  100 Un](https://m.media-amazon.com/images/I/41TrMJ9sq0L._SL200_.jpg)](https://www.amazon.es/dp/B076DSBQD3/?tag=tolees-21)
+[![Pajoma - Velas de té sin Perfume  100 Un](https://m.media-amazon.com/images/I/41TrMJ9sq0L._SL400_.jpg)](https://www.amazon.es/dp/B076DSBQD3/?tag=tolees-21)
 
 🔎:
 

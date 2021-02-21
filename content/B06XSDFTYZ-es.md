@@ -2,7 +2,7 @@
 layout: post
 title: 'find. Utility_DC3086P Pantalones  Grau   al 60.44 % de descuento'
 date: 2020-02-24 17:53:18
-image: 'https://m.media-amazon.com/images/I/41I8wXlzXuL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41I8wXlzXuL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.73'
 
 Está [find. Utility_DC3086P Pantalones  Grau  Grey   38  Talla del fabricante: Small ](https://www.amazon.es/dp/B06XSDFTYZ/?tag=tolees-21) con 60.44 de descuento por 6.73 EUR (original: 17.01 EUR) en el siguiente enlace!
 
-[![find. Utility_DC3086P Pantalones  Grau  ](https://m.media-amazon.com/images/I/41I8wXlzXuL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B06XSDFTYZ/?tag=tolees-21)
+[![find. Utility_DC3086P Pantalones  Grau  ](https://m.media-amazon.com/images/I/41I8wXlzXuL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B06XSDFTYZ/?tag=tolees-21)
 
 ℹ️:
 

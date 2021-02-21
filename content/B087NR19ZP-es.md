@@ -2,7 +2,7 @@
 layout: post
 title: 'Mascarilla 20PCS Pañuelos de Protección  al 59.85 % de rebaja'
 date: 2020-05-27 06:30:13
-image: 'https://m.media-amazon.com/images/I/41lE31a2ebL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41lE31a2ebL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.99'
 
 Tienes [Mascarilla 20PCS Pañuelos de Protección Personal](https://www.amazon.es/dp/B087NR19ZP/?tag=tolees-21) con precio final de  9.99 EUR (original: 24.88 EUR) (59.85 %  de rebaja) aqui!
 
-[![Mascarilla 20PCS Pañuelos de Protección ](https://m.media-amazon.com/images/I/41lE31a2ebL._SL200_.jpg)](https://www.amazon.es/dp/B087NR19ZP/?tag=tolees-21)
+[![Mascarilla 20PCS Pañuelos de Protección ](https://m.media-amazon.com/images/I/41lE31a2ebL._SL400_.jpg)](https://www.amazon.es/dp/B087NR19ZP/?tag=tolees-21)
 
 🔎:
 

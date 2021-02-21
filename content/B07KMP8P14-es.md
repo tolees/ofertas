@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas E 3s Chelsea Pantalones Cortos de al 61.75 % de rebaja'
 date: 2020-06-28 00:43:12
-image: 'https://m.media-amazon.com/images/I/41kZbHi5cbL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41kZbHi5cbL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.69'
 
 Tienes [adidas E 3s Chelsea Pantalones Cortos de Deporte  Hombre  Legend Ink/White  2XL](https://www.amazon.es/dp/B07KMP8P14/?tag=tolees-21) con precio final de  10.69 EUR (original: 27.95 EUR) (61.75 %  de rebaja) aqui!
 
-[![adidas E 3s Chelsea Pantalones Cortos de](https://m.media-amazon.com/images/I/41kZbHi5cbL._SL200_.jpg)](https://www.amazon.es/dp/B07KMP8P14/?tag=tolees-21)
+[![adidas E 3s Chelsea Pantalones Cortos de](https://m.media-amazon.com/images/I/41kZbHi5cbL._SL400_.jpg)](https://www.amazon.es/dp/B07KMP8P14/?tag=tolees-21)
 
 🔎:
 

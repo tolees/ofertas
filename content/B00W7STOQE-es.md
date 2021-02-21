@@ -2,7 +2,7 @@
 layout: post
 title: 'ROC KEOPS - Desodorante Roll On  Piel No al 37.10 % de descuento'
 date: 2020-03-02 09:16:50
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41AOheZHYqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41AOheZHYqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.8'
 
 Ahora mismo tienes [ROC KEOPS - Desodorante Roll On  Piel Normal  30 ml  x2 ](https://www.amazon.es/dp/B00W7STOQE/?tag=tolees-21) a 8.8 EUR (original: 13.99 EUR) (37.10 %  de descuento) en el siguiente enlace!
 
-[![ROC KEOPS - Desodorante Roll On  Piel No](https://images-eu.ssl-images-amazon.com/images/I/41AOheZHYqL._SL200_.jpg)](https://www.amazon.es/dp/B00W7STOQE/?tag=tolees-21)
+[![ROC KEOPS - Desodorante Roll On  Piel No](https://images-eu.ssl-images-amazon.com/images/I/41AOheZHYqL._SL400_.jpg)](https://www.amazon.es/dp/B00W7STOQE/?tag=tolees-21)
 
 🔎:
 

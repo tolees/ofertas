@@ -2,7 +2,7 @@
 layout: post
 title: 'Clinique 35520 - Barra de labios al 40.00 % de descuento'
 date: 2020-05-28 17:08:31
-image: 'https://m.media-amazon.com/images/I/31F3EajZh5L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31F3EajZh5L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.6'
 
 Ahora mismo tienes [Clinique 35520 - Barra de labios](https://www.amazon.es/dp/B004H5ME7Q/?tag=tolees-21) a 12.6 EUR (original: 21.0 EUR) (40.00 %  de descuento) en el siguiente enlace!
 
-[![Clinique 35520 - Barra de labios](https://m.media-amazon.com/images/I/31F3EajZh5L._SL200_.jpg)](https://www.amazon.es/dp/B004H5ME7Q/?tag=tolees-21)
+[![Clinique 35520 - Barra de labios](https://m.media-amazon.com/images/I/31F3EajZh5L._SL400_.jpg)](https://www.amazon.es/dp/B004H5ME7Q/?tag=tolees-21)
 
 🔎:
 

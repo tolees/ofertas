@@ -2,7 +2,7 @@
 layout: post
 title: 'Floïd Floïd After Shave Loción 150 ml al 41.67 % de rebaja'
 date: 2020-07-16 15:28:53
-image: 'https://m.media-amazon.com/images/I/41HEAT6x6QL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41HEAT6x6QL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.25'
 
 Tienes [Floïd Floïd After Shave Loción 150 ml](https://www.amazon.es/dp/B00NE3T4XE/?tag=tolees-21) con precio final de  5.25 EUR (original: 9.0 EUR) (41.67 %  de rebaja) aqui!
 
-[![Floïd Floïd After Shave Loción 150 ml](https://m.media-amazon.com/images/I/41HEAT6x6QL._SL200_.jpg)](https://www.amazon.es/dp/B00NE3T4XE/?tag=tolees-21)
+[![Floïd Floïd After Shave Loción 150 ml](https://m.media-amazon.com/images/I/41HEAT6x6QL._SL400_.jpg)](https://www.amazon.es/dp/B00NE3T4XE/?tag=tolees-21)
 
 🔎:
 

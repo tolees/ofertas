@@ -2,7 +2,7 @@
 layout: post
 title: 'White Shark GP de 2028 PC USB Game Pad R al 57.21 % de descuento'
 date: 2020-01-14 17:38:41
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41o3H6xULUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41o3H6xULUL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.77'
 
 Ahora mismo tienes [White Shark GP de 2028 PC USB Game Pad Rojo](https://www.amazon.es/dp/B072R6QSV2/?tag=tolees-21) a 10.77 EUR (original: 25.17 EUR) (57.21 %  de descuento) en el siguiente enlace!
 
-[![White Shark GP de 2028 PC USB Game Pad R](https://images-eu.ssl-images-amazon.com/images/I/41o3H6xULUL._SL200_.jpg)](https://www.amazon.es/dp/B072R6QSV2/?tag=tolees-21)
+[![White Shark GP de 2028 PC USB Game Pad R](https://images-eu.ssl-images-amazon.com/images/I/41o3H6xULUL._SL400_.jpg)](https://www.amazon.es/dp/B072R6QSV2/?tag=tolees-21)
 
 🔎:
 

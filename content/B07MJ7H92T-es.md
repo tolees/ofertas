@@ -2,7 +2,7 @@
 layout: post
 title: 'Clarks Cotrell Easy  Mocasines para Homb al 29.66 % de descuento'
 date: 2020-05-08 19:00:06
-image: 'https://m.media-amazon.com/images/I/31Vzes2UbkL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Vzes2UbkL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '38.211999999999996'
 
 Ahora mismo tienes [Clarks Cotrell Easy  Mocasines para Hombre  Azul  Navy Combi Navy Combi   43 EU](https://www.amazon.es/dp/B07MJ7H92T/?tag=tolees-21) a 56.24 EUR (original: 79.95 EUR) (29.66 %  de descuento) en el siguiente enlace!
 
-[![Clarks Cotrell Easy  Mocasines para Homb](https://m.media-amazon.com/images/I/31Vzes2UbkL._SL200_.jpg)](https://www.amazon.es/dp/B07MJ7H92T/?tag=tolees-21)
+[![Clarks Cotrell Easy  Mocasines para Homb](https://m.media-amazon.com/images/I/31Vzes2UbkL._SL400_.jpg)](https://www.amazon.es/dp/B07MJ7H92T/?tag=tolees-21)
 
 🔎:
 

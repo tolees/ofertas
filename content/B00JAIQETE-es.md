@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 35.19 % en GreenBlue GB104 - Programador eléctrico '
 date: 2020-05-25 16:54:19
-image: 'https://m.media-amazon.com/images/I/41FqeNzmOlL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41FqeNzmOlL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.76'
 
 Tienes [GreenBlue GB104 - Programador eléctrico digital diario semanal tipo carril DIN 16A 250V 240 programas  1 ](https://www.amazon.es/dp/B00JAIQETE/?tag=tolees-21) con un 35.19 % de descuento con precio de oferta de 13.76 EUR (original: 21.23 EUR) en el siguiente enlace!
 
-[![GreenBlue GB104 - Programador eléctrico ](https://m.media-amazon.com/images/I/41FqeNzmOlL._SL200_.jpg)](https://www.amazon.es/dp/B00JAIQETE/?tag=tolees-21)
+[![GreenBlue GB104 - Programador eléctrico ](https://m.media-amazon.com/images/I/41FqeNzmOlL._SL400_.jpg)](https://www.amazon.es/dp/B00JAIQETE/?tag=tolees-21)
 
 ℹ️:
 

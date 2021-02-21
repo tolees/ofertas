@@ -2,7 +2,7 @@
 layout: post
 title: 'New Balance 500  Zapatillas para Hombre  al 37.43 % de descuento'
 date: 2020-03-04 07:38:30
-image: 'https://m.media-amazon.com/images/I/41Djsxr2NML._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Djsxr2NML._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '46.93'
 
 Ahora mismo tienes [New Balance 500  Zapatillas para Hombre  Gris  Grey TRS   42 EU](https://www.amazon.es/dp/B07S3WJ7KY/?tag=tolees-21) a 46.93 EUR (original: 75.0 EUR) (37.43 %  de descuento) en el siguiente enlace!
 
-[![New Balance 500  Zapatillas para Hombre ](https://m.media-amazon.com/images/I/41Djsxr2NML._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07S3WJ7KY/?tag=tolees-21)
+[![New Balance 500  Zapatillas para Hombre ](https://m.media-amazon.com/images/I/41Djsxr2NML._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07S3WJ7KY/?tag=tolees-21)
 
 🔎:
 

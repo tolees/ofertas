@@ -2,7 +2,7 @@
 layout: post
 title: 'LIGHTAILING Conjunto de Luces  Technic C al 62.51 % de descuento'
 date: 2020-04-18 03:29:50
-image: 'https://m.media-amazon.com/images/I/51+qpkCvq4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51+qpkCvq4L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.99'
 
 Ahora mismo tienes [LIGHTAILING Conjunto de Luces  Technic Chevrolet Corvette ZR1  Modelo de Construcción de Bloques - Kit de luz LED Compatible con Lego 42093  NO Incluido en el Modelo ](https://www.amazon.es/dp/B07TF7PNFM/?tag=tolees-21) a 29.99 EUR (original: 80.0 EUR) (62.51 %  de descuento) en el siguiente enlace!
 
-[![LIGHTAILING Conjunto de Luces  Technic C](https://m.media-amazon.com/images/I/51+qpkCvq4L._SL200_.jpg)](https://www.amazon.es/dp/B07TF7PNFM/?tag=tolees-21)
+[![LIGHTAILING Conjunto de Luces  Technic C](https://m.media-amazon.com/images/I/51+qpkCvq4L._SL400_.jpg)](https://www.amazon.es/dp/B07TF7PNFM/?tag=tolees-21)
 
 🔎:
 

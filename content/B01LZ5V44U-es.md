@@ -2,7 +2,7 @@
 layout: post
 title: 'Timotei Champú Fresco Y Puro - 400 ml al 62.26 % de rebaja'
 date: 2020-05-25 16:54:07
-image: 'https://m.media-amazon.com/images/I/31PHhy5RzNL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31PHhy5RzNL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.0'
 
 Tienes [Timotei Champú Fresco Y Puro - 400 ml](https://www.amazon.es/dp/B01LZ5V44U/?tag=tolees-21) con precio final de  1.0 EUR (original: 2.65 EUR) (62.26 %  de rebaja) aqui!
 
-[![Timotei Champú Fresco Y Puro - 400 ml](https://m.media-amazon.com/images/I/31PHhy5RzNL._SL200_.jpg)](https://www.amazon.es/dp/B01LZ5V44U/?tag=tolees-21)
+[![Timotei Champú Fresco Y Puro - 400 ml](https://m.media-amazon.com/images/I/31PHhy5RzNL._SL400_.jpg)](https://www.amazon.es/dp/B01LZ5V44U/?tag=tolees-21)
 
 🔎:
 

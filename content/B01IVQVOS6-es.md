@@ -2,7 +2,7 @@
 layout: post
 title: 'One For All WM4411 - Soporte de pared pa al 42.38 % de descuento'
 date: 2020-02-05 11:20:57
-image: 'https://m.media-amazon.com/images/I/41TUA8e8JQL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41TUA8e8JQL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.4'
 
 Está [One For All WM4411 - Soporte de pared para TV de 32 a 60”  fijo  peso máx. 100kg  negro](https://www.amazon.es/dp/B01IVQVOS6/?tag=tolees-21) con 42.38 de descuento por 14.4 EUR (original: 24.99 EUR) en el siguiente enlace!
 
-[![One For All WM4411 - Soporte de pared pa](https://m.media-amazon.com/images/I/41TUA8e8JQL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01IVQVOS6/?tag=tolees-21)
+[![One For All WM4411 - Soporte de pared pa](https://m.media-amazon.com/images/I/41TUA8e8JQL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01IVQVOS6/?tag=tolees-21)
 
 ℹ️:
 

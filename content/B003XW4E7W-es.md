@@ -2,7 +2,7 @@
 layout: post
 title: 'HP CE323A 128A Cartucho de Tóner Origina al 29.15 % de descuento'
 date: 2020-03-05 09:46:22
-image: 'https://m.media-amazon.com/images/I/41s7EafMz3L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41s7EafMz3L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '62.99'
 
 Ahora mismo tienes [HP CE323A 128A Cartucho de Tóner Original  1 unidad  magenta](https://www.amazon.es/dp/B003XW4E7W/?tag=tolees-21) a 62.99 EUR (original: 88.9 EUR) (29.15 %  de descuento) en el siguiente enlace!
 
-[![HP CE323A 128A Cartucho de Tóner Origina](https://m.media-amazon.com/images/I/41s7EafMz3L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B003XW4E7W/?tag=tolees-21)
+[![HP CE323A 128A Cartucho de Tóner Origina](https://m.media-amazon.com/images/I/41s7EafMz3L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B003XW4E7W/?tag=tolees-21)
 
 🔎:
 

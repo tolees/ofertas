@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger New Aly Belt  Cinturón Ho con un 44.89 % de descuento'
 date: 2020-02-13 09:56:02
-image: 'https://m.media-amazon.com/images/I/41Cq7-nz3YL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Cq7-nz3YL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.99'
 
 En este momento está [Tommy Hilfiger New Aly Belt  Cinturón Hombre  Marrón  TESTA DI MORO-EUR   95 UK ](https://www.amazon.es/dp/B018LLLUUS/?tag=tolees-21) a 21.99 EUR (original: 39.9 EUR) (44.89 %  de descuento) en el siguiente enlace!
 
-[![Tommy Hilfiger New Aly Belt  Cinturón Ho](https://m.media-amazon.com/images/I/41Cq7-nz3YL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B018LLLUUS/?tag=tolees-21)
+[![Tommy Hilfiger New Aly Belt  Cinturón Ho](https://m.media-amazon.com/images/I/41Cq7-nz3YL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B018LLLUUS/?tag=tolees-21)
 
 🔎:
 

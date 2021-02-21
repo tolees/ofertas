@@ -2,7 +2,7 @@
 layout: post
 title: 'DIGITNOW! 16MP Cámaras de Caza 1080P FHD al 33.75 % de descuento'
 date: 2020-07-27 11:32:23
-image: 'https://m.media-amazon.com/images/I/51Z6KcZKyoL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Z6KcZKyoL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '52.99'
 
 Ahora mismo tienes [DIGITNOW! 16MP Cámaras de Caza 1080P FHD Impermeable Gran Angular de 120° y 42pcs IR LED Infrarrojo Visión Nocturna con hasta 80FT/25m Sendero Juego Camera  Cazar Vigilancia de la Fauna](https://www.amazon.es/dp/B081JM7KZH/?tag=tolees-21) a 52.99 EUR (original: 79.99 EUR) (33.75 %  de descuento) en el siguiente enlace!
 
-[![DIGITNOW! 16MP Cámaras de Caza 1080P FHD](https://m.media-amazon.com/images/I/51Z6KcZKyoL._SL200_.jpg)](https://www.amazon.es/dp/B081JM7KZH/?tag=tolees-21)
+[![DIGITNOW! 16MP Cámaras de Caza 1080P FHD](https://m.media-amazon.com/images/I/51Z6KcZKyoL._SL400_.jpg)](https://www.amazon.es/dp/B081JM7KZH/?tag=tolees-21)
 
 🔎:
 

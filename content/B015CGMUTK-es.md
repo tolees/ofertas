@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 29.97 % en Calvin Klein Bari SLIM FIT FTC-Camisa Ho'
 date: 2020-01-03 15:26:15
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31GafUas7GL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31GafUas7GL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '48.95'
 
 Tienes [Calvin Klein Bari SLIM FIT FTC-Camisa Hombre  Blanco  WHITE 100   Tamaño del collar: 39 cm](https://www.amazon.es/dp/B015CGMUTK/?tag=tolees-21) con un 29.97 % de descuento con precio de oferta de 48.95 EUR (original: 69.9 EUR) en el siguiente enlace!
 
-[![Calvin Klein Bari SLIM FIT FTC-Camisa Ho](https://images-eu.ssl-images-amazon.com/images/I/31GafUas7GL._SL200_.jpg)](https://www.amazon.es/dp/B015CGMUTK/?tag=tolees-21)
+[![Calvin Klein Bari SLIM FIT FTC-Camisa Ho](https://images-eu.ssl-images-amazon.com/images/I/31GafUas7GL._SL400_.jpg)](https://www.amazon.es/dp/B015CGMUTK/?tag=tolees-21)
 
 ℹ️:
 

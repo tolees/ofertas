@@ -2,7 +2,7 @@
 layout: post
 title: 'Pepe Jeans Rick suéter  Verde  Hunter Gr al 50.68 % de rebaja'
 date: 2020-09-28 08:51:39
-image: 'https://m.media-amazon.com/images/I/41zjJO-LKML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41zjJO-LKML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '36.943333333333335'
 
 Tienes [Pepe Jeans Rick suéter  Verde  Hunter Green 781   Talla única  Talla del Fabricante: Medium  para Hombre](https://www.amazon.es/dp/B07RT8B4CS/?tag=tolees-21) con precio final de  36.99 EUR (original: 75.0 EUR) (50.68 %  de rebaja) aqui!
 
-[![Pepe Jeans Rick suéter  Verde  Hunter Gr](https://m.media-amazon.com/images/I/41zjJO-LKML._SL200_.jpg)](https://www.amazon.es/dp/B07RT8B4CS/?tag=tolees-21)
+[![Pepe Jeans Rick suéter  Verde  Hunter Gr](https://m.media-amazon.com/images/I/41zjJO-LKML._SL400_.jpg)](https://www.amazon.es/dp/B07RT8B4CS/?tag=tolees-21)
 
 🔎:
 

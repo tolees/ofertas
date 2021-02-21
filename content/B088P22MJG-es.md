@@ -2,7 +2,7 @@
 layout: post
 title: 'Slabo Lámina de Vidrio Premium para Amaz al 45.50 % de descuento'
 date: 2020-05-31 19:32:12
-image: 'https://m.media-amazon.com/images/I/51IIwq3B7HL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51IIwq3B7HL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.99'
 
 Ahora mismo tienes [Slabo Lámina de Vidrio Premium para Amazon Fire HD 8 Tablet  2020  | HD 8 Plus Tablet  2020  Protectora Protector de Pantalla Templado Tempered Glass Claro dureza 9H](https://www.amazon.es/dp/B088P22MJG/?tag=tolees-21) a 5.99 EUR (original: 10.99 EUR) (45.50 %  de descuento) en el siguiente enlace!
 
-[![Slabo Lámina de Vidrio Premium para Amaz](https://m.media-amazon.com/images/I/51IIwq3B7HL._SL200_.jpg)](https://www.amazon.es/dp/B088P22MJG/?tag=tolees-21)
+[![Slabo Lámina de Vidrio Premium para Amaz](https://m.media-amazon.com/images/I/51IIwq3B7HL._SL400_.jpg)](https://www.amazon.es/dp/B088P22MJG/?tag=tolees-21)
 
 🔎:
 

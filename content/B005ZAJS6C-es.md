@@ -2,7 +2,7 @@
 layout: post
 title: 'Feplast Jaula para hámsteres FAVOLA  par al 34.19 % de descuento'
 date: 2020-08-21 09:17:02
-image: 'https://m.media-amazon.com/images/I/51pDXLF-kcL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51pDXLF-kcL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '56.1'
 
 Está [Feplast Jaula para hámsteres FAVOLA  para pequeños roedores  Plástico Robusto y Metal  Dos Pisos  Accesorios incluidos 60 x 36 5 x h 30 cm Negro](https://www.amazon.es/dp/B005ZAJS6C/?tag=tolees-21) con 34.19 de descuento por 56.1 EUR (original: 85.25 EUR) en el siguiente enlace!
 
-[![Feplast Jaula para hámsteres FAVOLA  par](https://m.media-amazon.com/images/I/51pDXLF-kcL._SL200_.jpg)](https://www.amazon.es/dp/B005ZAJS6C/?tag=tolees-21)
+[![Feplast Jaula para hámsteres FAVOLA  par](https://m.media-amazon.com/images/I/51pDXLF-kcL._SL400_.jpg)](https://www.amazon.es/dp/B005ZAJS6C/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 41.10 % en Taurus VB 02 Ventilador climatizador  ne'
 date: 2020-09-23 14:24:28
-image: 'https://m.media-amazon.com/images/I/41-gAaJn2uL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41-gAaJn2uL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '129.0'
 
 Tienes [Taurus VB 02 Ventilador climatizador  nebulizador  90 W  0 Decibeles  Acero](https://www.amazon.es/dp/B00WJDRMWK/?tag=tolees-21) con un 41.10 % de descuento con precio de oferta de 129.0 EUR (original: 219.0 EUR) en el siguiente enlace!
 
-[![Taurus VB 02 Ventilador climatizador  ne](https://m.media-amazon.com/images/I/41-gAaJn2uL._SL200_.jpg)](https://www.amazon.es/dp/B00WJDRMWK/?tag=tolees-21)
+[![Taurus VB 02 Ventilador climatizador  ne](https://m.media-amazon.com/images/I/41-gAaJn2uL._SL400_.jpg)](https://www.amazon.es/dp/B00WJDRMWK/?tag=tolees-21)
 
 ℹ️:
 

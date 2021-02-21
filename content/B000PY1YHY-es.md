@@ -2,7 +2,7 @@
 layout: post
 title: 'Guerlain - Desodorante Spray Habit Rouge al 35.75 % de descuento'
 date: 2020-03-24 09:36:20
-image: 'https://m.media-amazon.com/images/I/316cbnvCPXL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/316cbnvCPXL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '22.525'
 
 Está [Guerlain - Desodorante Spray Habit Rouge](https://www.amazon.es/dp/B000PY1YHY/?tag=tolees-21) con 35.75 de descuento por 21.78 EUR (original: 33.9 EUR) en el siguiente enlace!
 
-[![Guerlain - Desodorante Spray Habit Rouge](https://m.media-amazon.com/images/I/316cbnvCPXL._SL200_.jpg)](https://www.amazon.es/dp/B000PY1YHY/?tag=tolees-21)
+[![Guerlain - Desodorante Spray Habit Rouge](https://m.media-amazon.com/images/I/316cbnvCPXL._SL400_.jpg)](https://www.amazon.es/dp/B000PY1YHY/?tag=tolees-21)
 
 ℹ️:
 

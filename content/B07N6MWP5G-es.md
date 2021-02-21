@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 46.03 % en DUNLOP Sting 360 2.0 2019  Adultos Unise'
 date: 2020-01-20 12:08:47
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41L2soAr2aL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41L2soAr2aL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '43.18'
 
 Tienes [DUNLOP Sting 360 2.0 2019  Adultos Unisex  Multicolor  Talla Unica](https://www.amazon.es/dp/B07N6MWP5G/?tag=tolees-21) con un 46.03 % de descuento con precio de oferta de 43.18 EUR (original: 80 EUR) en el siguiente enlace!
 
-[![DUNLOP Sting 360 2.0 2019  Adultos Unise](https://images-eu.ssl-images-amazon.com/images/I/41L2soAr2aL._SL200_.jpg)](https://www.amazon.es/dp/B07N6MWP5G/?tag=tolees-21)
+[![DUNLOP Sting 360 2.0 2019  Adultos Unise](https://images-eu.ssl-images-amazon.com/images/I/41L2soAr2aL._SL400_.jpg)](https://www.amazon.es/dp/B07N6MWP5G/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Lacoste HH9553 Pantalones  Azul  Marine  al 46.96 % de descuento'
 date: 2020-06-14 18:29:15
-image: 'https://m.media-amazon.com/images/I/31h5r4ONvnL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31h5r4ONvnL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '44.48900000000001'
 
 Está [Lacoste HH9553 Pantalones  Azul  Marine   36  Talla del Fabricante: 36/34  para Hombre](https://www.amazon.es/dp/B07GB3QVB6/?tag=tolees-21) con 46.96 de descuento por 53.04 EUR (original: 100.0 EUR) en el siguiente enlace!
 
-[![Lacoste HH9553 Pantalones  Azul  Marine ](https://m.media-amazon.com/images/I/31h5r4ONvnL._SL200_.jpg)](https://www.amazon.es/dp/B07GB3QVB6/?tag=tolees-21)
+[![Lacoste HH9553 Pantalones  Azul  Marine ](https://m.media-amazon.com/images/I/31h5r4ONvnL._SL400_.jpg)](https://www.amazon.es/dp/B07GB3QVB6/?tag=tolees-21)
 
 ℹ️:
 

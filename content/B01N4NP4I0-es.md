@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 26.68 % en POP! Vinilo - Twin Peaks: Bob'
 date: 2020-01-17 18:24:34
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41WnS8YEESL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41WnS8YEESL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.99'
 
 Tienes [POP! Vinilo - Twin Peaks: Bob](https://www.amazon.es/dp/B01N4NP4I0/?tag=tolees-21) con un 26.68 % de descuento con precio de oferta de 10.99 EUR (original: 14.99 EUR) en el siguiente enlace!
 
-[![POP! Vinilo - Twin Peaks: Bob](https://images-eu.ssl-images-amazon.com/images/I/41WnS8YEESL._SL200_.jpg)](https://www.amazon.es/dp/B01N4NP4I0/?tag=tolees-21)
+[![POP! Vinilo - Twin Peaks: Bob](https://images-eu.ssl-images-amazon.com/images/I/41WnS8YEESL._SL400_.jpg)](https://www.amazon.es/dp/B01N4NP4I0/?tag=tolees-21)
 
 ℹ️:
 

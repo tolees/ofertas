@@ -2,7 +2,7 @@
 layout: post
 title: 'PUMA Jaab XT Wn s  Zapatillas Deportivas al 50.03 % de rebaja'
 date: 2020-02-07 20:51:17
-image: 'https://m.media-amazon.com/images/I/41H0tvR1hrL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41H0tvR1hrL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '39.95'
 
 Tienes [PUMA Jaab XT Wn s  Zapatillas Deportivas para Interior para Mujer  Black White  38.5 EU](https://www.amazon.es/dp/B07KFZ819G/?tag=tolees-21) con precio final de  39.95 EUR (original: 79.95 EUR) (50.03 %  de rebaja) aqui!
 
-[![PUMA Jaab XT Wn s  Zapatillas Deportivas](https://m.media-amazon.com/images/I/41H0tvR1hrL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07KFZ819G/?tag=tolees-21)
+[![PUMA Jaab XT Wn s  Zapatillas Deportivas](https://m.media-amazon.com/images/I/41H0tvR1hrL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07KFZ819G/?tag=tolees-21)
 
 🔎:
 

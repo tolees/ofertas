@@ -2,7 +2,7 @@
 layout: post
 title: 'Hauck Stop N Safe 2 puerta de seguridad  al 38.96 % de descuento'
 date: 2020-09-15 10:11:57
-image: 'https://m.media-amazon.com/images/I/41UAvS9wKmL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41UAvS9wKmL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '48.0'
 
 Ahora mismo tienes [Hauck Stop N Safe 2 puerta de seguridad incluido extensión de 21cm  puerta de seguridad para escaleras  96 – 101 cm  ampliación con extensiones a 122cm  con apertura a ambos lados  hierro  plata](https://www.amazon.es/dp/B07XC92F2X/?tag=tolees-21) a 48.0 EUR (original: 78.64 EUR) (38.96 %  de descuento) en el siguiente enlace!
 
-[![Hauck Stop N Safe 2 puerta de seguridad ](https://m.media-amazon.com/images/I/41UAvS9wKmL._SL200_.jpg)](https://www.amazon.es/dp/B07XC92F2X/?tag=tolees-21)
+[![Hauck Stop N Safe 2 puerta de seguridad ](https://m.media-amazon.com/images/I/41UAvS9wKmL._SL400_.jpg)](https://www.amazon.es/dp/B07XC92F2X/?tag=tolees-21)
 
 🔎:
 

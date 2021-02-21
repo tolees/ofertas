@@ -2,7 +2,7 @@
 layout: post
 title: 'New Balance M1400V6  Zapatillas de Runni al 40.00 % de descuento'
 date: 2020-01-02 18:11:52
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41Id5wSGwbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Id5wSGwbL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '69'
 
 Ahora mismo tienes [New Balance M1400V6  Zapatillas de Running para Hombre  Negro  Black/Green Black/Green   42 EU](https://www.amazon.es/dp/B07DVHVNSV/?tag=tolees-21) a 69 EUR (original: 115 EUR) (40.00 %  de descuento) en el siguiente enlace!
 
-[![New Balance M1400V6  Zapatillas de Runni](https://images-eu.ssl-images-amazon.com/images/I/41Id5wSGwbL._SL200_.jpg)](https://www.amazon.es/dp/B07DVHVNSV/?tag=tolees-21)
+[![New Balance M1400V6  Zapatillas de Runni](https://images-eu.ssl-images-amazon.com/images/I/41Id5wSGwbL._SL400_.jpg)](https://www.amazon.es/dp/B07DVHVNSV/?tag=tolees-21)
 
 🔎:
 

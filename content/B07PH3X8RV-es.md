@@ -2,7 +2,7 @@
 layout: post
 title: 'Betacaroteno [25.000 ui] 180 Cápsulas co con un 25.01 % de descuento'
 date: 2020-02-10 08:07:23
-image: 'https://m.media-amazon.com/images/I/518QsLgyDWL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/518QsLgyDWL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.99'
 
 En este momento está [Betacaroteno [25.000 ui] 180 Cápsulas con Patentado Lyc-O-Beta - Con Aceite de Oliva Extra Virgen - Apoyo Natural Para el Bronceado  la Salud de los Ojos  la Piel  y el Sistema Inmunológico](https://www.amazon.es/dp/B07PH3X8RV/?tag=tolees-21) a 14.99 EUR (original: 19.99 EUR) (25.01 %  de descuento) en el siguiente enlace!
 
-[![Betacaroteno [25.000 ui] 180 Cápsulas co](https://m.media-amazon.com/images/I/518QsLgyDWL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07PH3X8RV/?tag=tolees-21)
+[![Betacaroteno [25.000 ui] 180 Cápsulas co](https://m.media-amazon.com/images/I/518QsLgyDWL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07PH3X8RV/?tag=tolees-21)
 
 🔎:
 

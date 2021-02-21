@@ -2,7 +2,7 @@
 layout: post
 title: 'G-STAR RAW Rackam Core Low  Zapatillas p al 56.48 % de descuento'
 date: 2020-06-02 06:26:45
-image: 'https://m.media-amazon.com/images/I/31qd4AOC+zL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31qd4AOC+zL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '33.095'
 
 Ahora mismo tienes [G-STAR RAW Rackam Core Low  Zapatillas para Hombre  Multicolor  Black/White A940-964   45 EU](https://www.amazon.es/dp/B07VTWTKQN/?tag=tolees-21) a 43.5 EUR (original: 99.95 EUR) (56.48 %  de descuento) en el siguiente enlace!
 
-[![G-STAR RAW Rackam Core Low  Zapatillas p](https://m.media-amazon.com/images/I/31qd4AOC+zL._SL200_.jpg)](https://www.amazon.es/dp/B07VTWTKQN/?tag=tolees-21)
+[![G-STAR RAW Rackam Core Low  Zapatillas p](https://m.media-amazon.com/images/I/31qd4AOC+zL._SL400_.jpg)](https://www.amazon.es/dp/B07VTWTKQN/?tag=tolees-21)
 
 🔎:
 

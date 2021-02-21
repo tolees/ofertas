@@ -2,7 +2,7 @@
 layout: post
 title: 'Merrell Trail Glove 5  Zapatillas Deport al 40.00 % de rebaja'
 date: 2020-04-28 11:34:19
-image: 'https://m.media-amazon.com/images/I/41uBu9V-D3L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41uBu9V-D3L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '69.59'
 
 Tienes [Merrell Trail Glove 5  Zapatillas Deportivas para Interior para Hombre  Azul  Sailor Blue   43.5 EU](https://www.amazon.es/dp/B07KM9ZCSQ/?tag=tolees-21) con precio final de  69.59 EUR (original: 115.99 EUR) (40.00 %  de rebaja) aqui!
 
-[![Merrell Trail Glove 5  Zapatillas Deport](https://m.media-amazon.com/images/I/41uBu9V-D3L._SL200_.jpg)](https://www.amazon.es/dp/B07KM9ZCSQ/?tag=tolees-21)
+[![Merrell Trail Glove 5  Zapatillas Deport](https://m.media-amazon.com/images/I/41uBu9V-D3L._SL400_.jpg)](https://www.amazon.es/dp/B07KM9ZCSQ/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Relaxdays 10022959 Cubo de Basura Empotr al 27.75 % de descuento'
 date: 2020-08-04 08:16:22
-image: 'https://m.media-amazon.com/images/I/3131DWJWxuL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/3131DWJWxuL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '35.8'
 
 Ahora mismo tienes [Relaxdays 10022959 Cubo de Basura Empotrable  con Tapa  Higiénico  Residuos Orgánicos  Acero  29.5 x 26.5 cm  Plateado/Negro](https://www.amazon.es/dp/B07FPP7GXJ/?tag=tolees-21) a 36.12 EUR (original: 49.99 EUR) (27.75 %  de descuento) en el siguiente enlace!
 
-[![Relaxdays 10022959 Cubo de Basura Empotr](https://m.media-amazon.com/images/I/3131DWJWxuL._SL200_.jpg)](https://www.amazon.es/dp/B07FPP7GXJ/?tag=tolees-21)
+[![Relaxdays 10022959 Cubo de Basura Empotr](https://m.media-amazon.com/images/I/3131DWJWxuL._SL400_.jpg)](https://www.amazon.es/dp/B07FPP7GXJ/?tag=tolees-21)
 
 🔎:
 

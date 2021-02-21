@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour Qualifier Coldgear Tight Le al 48.90 % de descuento'
 date: 2020-02-05 08:12:32
-image: 'https://m.media-amazon.com/images/I/412bbZuivXL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/412bbZuivXL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '45.99'
 
 Está [Under Armour Qualifier Coldgear Tight Legging  Hombre  Negro  XL](https://www.amazon.es/dp/B07L9HLNM1/?tag=tolees-21) con 48.90 de descuento por 45.99 EUR (original: 90.0 EUR) en el siguiente enlace!
 
-[![Under Armour Qualifier Coldgear Tight Le](https://m.media-amazon.com/images/I/412bbZuivXL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07L9HLNM1/?tag=tolees-21)
+[![Under Armour Qualifier Coldgear Tight Le](https://m.media-amazon.com/images/I/412bbZuivXL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07L9HLNM1/?tag=tolees-21)
 
 ℹ️:
 

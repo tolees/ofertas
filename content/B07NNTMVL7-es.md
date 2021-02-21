@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour UA W Charged Bandit 5  Zapa al 28.75 % de descuento'
 date: 2020-06-24 14:40:03
-image: 'https://m.media-amazon.com/images/I/31AY46ZruPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31AY46ZruPL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '43.27'
 
 Ahora mismo tienes [Under Armour UA W Charged Bandit 5  Zapatillas de Running para Mujer  Gris  Halo Gray/Purple Haze/White   38 EU](https://www.amazon.es/dp/B07NNTMVL7/?tag=tolees-21) a 43.27 EUR (original: 60.73 EUR) (28.75 %  de descuento) en el siguiente enlace!
 
-[![Under Armour UA W Charged Bandit 5  Zapa](https://m.media-amazon.com/images/I/31AY46ZruPL._SL200_.jpg)](https://www.amazon.es/dp/B07NNTMVL7/?tag=tolees-21)
+[![Under Armour UA W Charged Bandit 5  Zapa](https://m.media-amazon.com/images/I/31AY46ZruPL._SL400_.jpg)](https://www.amazon.es/dp/B07NNTMVL7/?tag=tolees-21)
 
 🔎:
 

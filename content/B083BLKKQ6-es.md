@@ -2,7 +2,7 @@
 layout: post
 title: 'AGPTEK 18Pcs Discos Desmaquillantes Reut al 37.52 % de descuento'
 date: 2020-10-12 08:30:47
-image: 'https://m.media-amazon.com/images/I/41TzscXt4VL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41TzscXt4VL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.99'
 
 Está [AGPTEK 18Pcs Discos Desmaquillantes Reutilizables con 4 Pcs Bastoncillo de Algodón Reutilizable  Bolsa de Lavado  Aptos para todo Tipo de Pieles](https://www.amazon.es/dp/B083BLKKQ6/?tag=tolees-21) con 37.52 de descuento por 9.99 EUR (original: 15.99 EUR) en el siguiente enlace!
 
-[![AGPTEK 18Pcs Discos Desmaquillantes Reut](https://m.media-amazon.com/images/I/41TzscXt4VL._SL200_.jpg)](https://www.amazon.es/dp/B083BLKKQ6/?tag=tolees-21)
+[![AGPTEK 18Pcs Discos Desmaquillantes Reut](https://m.media-amazon.com/images/I/41TzscXt4VL._SL400_.jpg)](https://www.amazon.es/dp/B083BLKKQ6/?tag=tolees-21)
 
 ℹ️:
 

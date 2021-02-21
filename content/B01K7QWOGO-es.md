@@ -2,7 +2,7 @@
 layout: post
 title: 'Vernel Cielo Azul Suavizante Concentrado al 65.03 % de descuento'
 date: 2020-06-22 16:15:09
-image: 'https://m.media-amazon.com/images/I/41SacZPZ+AL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41SacZPZ+AL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.88875'
 
 Ahora mismo tienes [Vernel Cielo Azul Suavizante Concentrado - 57 Dosis](https://www.amazon.es/dp/B01K7QWOGO/?tag=tolees-21) a 1.0 EUR (original: 2.86 EUR) (65.03 %  de descuento) en el siguiente enlace!
 
-[![Vernel Cielo Azul Suavizante Concentrado](https://m.media-amazon.com/images/I/41SacZPZ+AL._SL200_.jpg)](https://www.amazon.es/dp/B01K7QWOGO/?tag=tolees-21)
+[![Vernel Cielo Azul Suavizante Concentrado](https://m.media-amazon.com/images/I/41SacZPZ+AL._SL400_.jpg)](https://www.amazon.es/dp/B01K7QWOGO/?tag=tolees-21)
 
 🔎:
 

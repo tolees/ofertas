@@ -2,7 +2,7 @@
 layout: post
 title: 'auna Ultrasonic BT Boombox - Bluetooth h al 38.57 % de descuento'
 date: 2020-02-03 20:46:22
-image: 'https://m.media-amazon.com/images/I/4139+iFs1mL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/4139+iFs1mL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '85.99'
 
 Ahora mismo tienes [auna Ultrasonic BT Boombox - Bluetooth hasta 10 m   Puerto USB   Entrada AUX   Potencia: 2 x 20 W   Pantalla LCD   Función Karaoke   Micrófono Incluido   Negro](https://www.amazon.es/dp/B07GWYHHJQ/?tag=tolees-21) a 85.99 EUR (original: 139.99 EUR) (38.57 %  de descuento) en el siguiente enlace!
 
-[![auna Ultrasonic BT Boombox - Bluetooth h](https://m.media-amazon.com/images/I/4139+iFs1mL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07GWYHHJQ/?tag=tolees-21)
+[![auna Ultrasonic BT Boombox - Bluetooth h](https://m.media-amazon.com/images/I/4139+iFs1mL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07GWYHHJQ/?tag=tolees-21)
 
 🔎:
 

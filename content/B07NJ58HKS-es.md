@@ -2,7 +2,7 @@
 layout: post
 title: 'Casio Reloj Analógico para Mujer de Cuar con un 65.76 % de descuento'
 date: 2020-10-11 19:39:44
-image: 'https://m.media-amazon.com/images/I/41MT4ERLAML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41MT4ERLAML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '38.74666666666666'
 
 En este momento está [Casio Reloj Analógico para Mujer de Cuarzo con Correa en Cuero LTS-100GL-7AVEF](https://www.amazon.es/dp/B07NJ58HKS/?tag=tolees-21) a 30.78 EUR (original: 89.9 EUR) (65.76 %  de descuento) en el siguiente enlace!
 
-[![Casio Reloj Analógico para Mujer de Cuar](https://m.media-amazon.com/images/I/41MT4ERLAML._SL200_.jpg)](https://www.amazon.es/dp/B07NJ58HKS/?tag=tolees-21)
+[![Casio Reloj Analógico para Mujer de Cuar](https://m.media-amazon.com/images/I/41MT4ERLAML._SL400_.jpg)](https://www.amazon.es/dp/B07NJ58HKS/?tag=tolees-21)
 
 🔎:
 

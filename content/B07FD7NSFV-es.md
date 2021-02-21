@@ -2,7 +2,7 @@
 layout: post
 title: 'Starlink Co-Op Pack al 50.25 % de descuento'
 date: 2020-07-08 23:20:06
-image: 'https://m.media-amazon.com/images/I/51X15wK0OqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51X15wK0OqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.616666666666666'
 
 Ahora mismo tienes [Starlink Co-Op Pack](https://www.amazon.es/dp/B07FD7NSFV/?tag=tolees-21) a 4.95 EUR (original: 9.95 EUR) (50.25 %  de descuento) en el siguiente enlace!
 
-[![Starlink Co-Op Pack](https://m.media-amazon.com/images/I/51X15wK0OqL._SL200_.jpg)](https://www.amazon.es/dp/B07FD7NSFV/?tag=tolees-21)
+[![Starlink Co-Op Pack](https://m.media-amazon.com/images/I/51X15wK0OqL._SL400_.jpg)](https://www.amazon.es/dp/B07FD7NSFV/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Casio Reloj de Pulsera W-S210H-1AVEF con un 28.52 % de descuento'
 date: 2020-06-06 22:30:43
-image: 'https://m.media-amazon.com/images/I/41p23zIzOZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41p23zIzOZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '35.67'
 
 En este momento está [Casio Reloj de Pulsera W-S210H-1AVEF](https://www.amazon.es/dp/B003ZUXTUU/?tag=tolees-21) a 35.67 EUR (original: 49.9 EUR) (28.52 %  de descuento) en el siguiente enlace!
 
-[![Casio Reloj de Pulsera W-S210H-1AVEF](https://m.media-amazon.com/images/I/41p23zIzOZL._SL200_.jpg)](https://www.amazon.es/dp/B003ZUXTUU/?tag=tolees-21)
+[![Casio Reloj de Pulsera W-S210H-1AVEF](https://m.media-amazon.com/images/I/41p23zIzOZL._SL400_.jpg)](https://www.amazon.es/dp/B003ZUXTUU/?tag=tolees-21)
 
 🔎:
 

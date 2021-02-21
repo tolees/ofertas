@@ -2,7 +2,7 @@
 layout: post
 title: 'Funko Pop! Animated Spider-Man - Keychai al 28.06 % de descuento'
 date: 2020-08-04 11:03:05
-image: 'https://m.media-amazon.com/images/I/51Cz5uFS7IL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Cz5uFS7IL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.0'
 
 Ahora mismo tienes [Funko Pop! Animated Spider-Man - Keychain Miles Morales](https://www.amazon.es/dp/B07DFBJRBK/?tag=tolees-21) a 5.0 EUR (original: 6.95 EUR) (28.06 %  de descuento) en el siguiente enlace!
 
-[![Funko Pop! Animated Spider-Man - Keychai](https://m.media-amazon.com/images/I/51Cz5uFS7IL._SL200_.jpg)](https://www.amazon.es/dp/B07DFBJRBK/?tag=tolees-21)
+[![Funko Pop! Animated Spider-Man - Keychai](https://m.media-amazon.com/images/I/51Cz5uFS7IL._SL400_.jpg)](https://www.amazon.es/dp/B07DFBJRBK/?tag=tolees-21)
 
 🔎:
 

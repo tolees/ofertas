@@ -2,7 +2,7 @@
 layout: post
 title: 'Haberdashery Online Kit Mascarilla higié al 32.01 % de descuento'
 date: 2020-09-18 09:01:55
-image: 'https://m.media-amazon.com/images/I/414e5HyeiML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/414e5HyeiML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.99'
 
 Está [Haberdashery Online Kit Mascarilla higiénica textil reutilizable + 50 etiquetas con nombre personalizable  Escudo ](https://www.amazon.es/dp/B08D5XYDN1/?tag=tolees-21) con 32.01 de descuento por 16.99 EUR (original: 24.99 EUR) en el siguiente enlace!
 
-[![Haberdashery Online Kit Mascarilla higié](https://m.media-amazon.com/images/I/414e5HyeiML._SL200_.jpg)](https://www.amazon.es/dp/B08D5XYDN1/?tag=tolees-21)
+[![Haberdashery Online Kit Mascarilla higié](https://m.media-amazon.com/images/I/414e5HyeiML._SL400_.jpg)](https://www.amazon.es/dp/B08D5XYDN1/?tag=tolees-21)
 
 ℹ️:
 

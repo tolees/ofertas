@@ -2,7 +2,7 @@
 layout: post
 title: 'FOSITAN TL-160S LED Video Light 160 LED  con un 57.15 % de descuento'
 date: 2020-04-11 08:52:18
-image: 'https://m.media-amazon.com/images/I/51eSoHh2-8L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51eSoHh2-8L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.99'
 
 En este momento está [FOSITAN TL-160S LED Video Light 160 LED 3200K 5500K Ultra Brillante Panel con Batería Recargable NP-F550 para Canon Nikon Pentax Panasonic Sony Samsung Olympus](https://www.amazon.es/dp/B071H8DYKL/?tag=tolees-21) a 29.99 EUR (original: 69.99 EUR) (57.15 %  de descuento) en el siguiente enlace!
 
-[![FOSITAN TL-160S LED Video Light 160 LED ](https://m.media-amazon.com/images/I/51eSoHh2-8L._SL200_.jpg)](https://www.amazon.es/dp/B071H8DYKL/?tag=tolees-21)
+[![FOSITAN TL-160S LED Video Light 160 LED ](https://m.media-amazon.com/images/I/51eSoHh2-8L._SL400_.jpg)](https://www.amazon.es/dp/B071H8DYKL/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Medela Top sujetador extración de leche  con un 36.73 % de descuento'
 date: 2020-03-13 11:01:43
-image: 'https://m.media-amazon.com/images/I/31QnQUqOQKL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31QnQUqOQKL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '27.25'
 
 En este momento está [Medela Top sujetador extración de leche manos libres  talla L](https://www.amazon.es/dp/B008KII8EE/?tag=tolees-21) a 27.25 EUR (original: 43.07 EUR) (36.73 %  de descuento) en el siguiente enlace!
 
-[![Medela Top sujetador extración de leche ](https://m.media-amazon.com/images/I/31QnQUqOQKL._SL200_.jpg)](https://www.amazon.es/dp/B008KII8EE/?tag=tolees-21)
+[![Medela Top sujetador extración de leche ](https://m.media-amazon.com/images/I/31QnQUqOQKL._SL400_.jpg)](https://www.amazon.es/dp/B008KII8EE/?tag=tolees-21)
 
 🔎:
 

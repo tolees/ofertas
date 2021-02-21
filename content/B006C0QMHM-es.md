@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 37.53 % en Spidi Z140-016 Warrior EVO Protección de'
 date: 2020-10-01 06:25:11
-image: 'https://m.media-amazon.com/images/I/518TnJaAO6L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/518TnJaAO6L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '74.9'
 
 Tienes [Spidi Z140-016 Warrior EVO Protección de Espalda para Moto  Color Negro](https://www.amazon.es/dp/B006C0QMHM/?tag=tolees-21) con un 37.53 % de descuento con precio de oferta de 74.9 EUR (original: 119.9 EUR) en el siguiente enlace!
 
-[![Spidi Z140-016 Warrior EVO Protección de](https://m.media-amazon.com/images/I/518TnJaAO6L._SL200_.jpg)](https://www.amazon.es/dp/B006C0QMHM/?tag=tolees-21)
+[![Spidi Z140-016 Warrior EVO Protección de](https://m.media-amazon.com/images/I/518TnJaAO6L._SL400_.jpg)](https://www.amazon.es/dp/B006C0QMHM/?tag=tolees-21)
 
 ℹ️:
 

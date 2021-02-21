@@ -2,7 +2,7 @@
 layout: post
 title: 'Reebok FLEXAGON FIT  Zapatillas de Depor al 66.28 % de descuento'
 date: 2020-02-02 12:09:17
-image: 'https://m.media-amazon.com/images/I/41xEiptXHEL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41xEiptXHEL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '28.066666666666666'
 
 Ahora mismo tienes [Reebok FLEXAGON FIT  Zapatillas de Deporte para Mujer  Negro  Black/White/True Grey 0   40 EU](https://www.amazon.es/dp/B07L1TC27G/?tag=tolees-21) a 23.59 EUR (original: 69.95 EUR) (66.28 %  de descuento) en el siguiente enlace!
 
-[![Reebok FLEXAGON FIT  Zapatillas de Depor](https://m.media-amazon.com/images/I/41xEiptXHEL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07L1TC27G/?tag=tolees-21)
+[![Reebok FLEXAGON FIT  Zapatillas de Depor](https://m.media-amazon.com/images/I/41xEiptXHEL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07L1TC27G/?tag=tolees-21)
 
 🔎:
 

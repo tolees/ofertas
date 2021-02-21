@@ -2,7 +2,7 @@
 layout: post
 title: 'Pipedream Basix Works Slim - Dildo Clási al 54.24 % de descuento'
 date: 2020-07-09 22:21:56
-image: 'https://m.media-amazon.com/images/I/31umB-HidBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31umB-HidBL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.313333333333333'
 
 Ahora mismo tienes [Pipedream Basix Works Slim - Dildo Clásico  Trasparente  20 cm](https://www.amazon.es/dp/B002UVAHRS/?tag=tolees-21) a 4.32 EUR (original: 9.44 EUR) (54.24 %  de descuento) en el siguiente enlace!
 
-[![Pipedream Basix Works Slim - Dildo Clási](https://m.media-amazon.com/images/I/31umB-HidBL._SL200_.jpg)](https://www.amazon.es/dp/B002UVAHRS/?tag=tolees-21)
+[![Pipedream Basix Works Slim - Dildo Clási](https://m.media-amazon.com/images/I/31umB-HidBL._SL400_.jpg)](https://www.amazon.es/dp/B002UVAHRS/?tag=tolees-21)
 
 🔎:
 

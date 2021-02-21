@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 44.24 % en Citizen Reloj Analógico para Mujer de Cu'
 date: 2020-05-30 12:05:10
-image: 'https://m.media-amazon.com/images/I/41d8zSbAIOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41d8zSbAIOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '66.05749999999999'
 
 Tienes [Citizen Reloj Analógico para Mujer de Cuarzo con Correa en Cuero FE1083-02A](https://www.amazon.es/dp/B00R7PSD5U/?tag=tolees-21) con un 44.24 % de descuento con precio de oferta de 66.36 EUR (original: 119.0 EUR) en el siguiente enlace!
 
-[![Citizen Reloj Analógico para Mujer de Cu](https://m.media-amazon.com/images/I/41d8zSbAIOL._SL200_.jpg)](https://www.amazon.es/dp/B00R7PSD5U/?tag=tolees-21)
+[![Citizen Reloj Analógico para Mujer de Cu](https://m.media-amazon.com/images/I/41d8zSbAIOL._SL400_.jpg)](https://www.amazon.es/dp/B00R7PSD5U/?tag=tolees-21)
 
 ℹ️:
 

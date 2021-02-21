@@ -2,7 +2,7 @@
 layout: post
 title: 'Anita Maternity Still-BH Miss Cotton - S al 30.03 % de descuento'
 date: 2020-01-12 10:26:00
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51AReeonCjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51AReeonCjL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '41.95'
 
 Ahora mismo tienes [Anita Maternity Still-BH Miss Cotton - Sujetador Mujer  Blanco  pearl white 671   95DD](https://www.amazon.es/dp/B0148LS7DS/?tag=tolees-21) a 41.95 EUR (original: 59.95 EUR) (30.03 %  de descuento) en el siguiente enlace!
 
-[![Anita Maternity Still-BH Miss Cotton - S](https://images-eu.ssl-images-amazon.com/images/I/51AReeonCjL._SL200_.jpg)](https://www.amazon.es/dp/B0148LS7DS/?tag=tolees-21)
+[![Anita Maternity Still-BH Miss Cotton - S](https://images-eu.ssl-images-amazon.com/images/I/51AReeonCjL._SL400_.jpg)](https://www.amazon.es/dp/B0148LS7DS/?tag=tolees-21)
 
 🔎:
 

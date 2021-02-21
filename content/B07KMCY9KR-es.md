@@ -2,7 +2,7 @@
 layout: post
 title: 'MOISO SEBS Plantillas Alivio de Pies Dol al 38.35 % de rebaja'
 date: 2020-05-08 15:55:11
-image: 'https://m.media-amazon.com/images/I/51h+GVixXxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51h+GVixXxL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.99'
 
 Tienes [MOISO SEBS Plantillas Alivio de Pies Dolorosos Soles de Zapato Insertos Cojín para Trabajo  ocio y Cómodo](https://www.amazon.es/dp/B07KMCY9KR/?tag=tolees-21) con precio final de  11.99 EUR (original: 19.45 EUR) (38.35 %  de rebaja) aqui!
 
-[![MOISO SEBS Plantillas Alivio de Pies Dol](https://m.media-amazon.com/images/I/51h+GVixXxL._SL200_.jpg)](https://www.amazon.es/dp/B07KMCY9KR/?tag=tolees-21)
+[![MOISO SEBS Plantillas Alivio de Pies Dol](https://m.media-amazon.com/images/I/51h+GVixXxL._SL400_.jpg)](https://www.amazon.es/dp/B07KMCY9KR/?tag=tolees-21)
 
 🔎:
 

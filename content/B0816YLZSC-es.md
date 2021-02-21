@@ -2,7 +2,7 @@
 layout: post
 title: 'Klarstein Beerlager 88 Nevera para bebid al 41.48 % de descuento'
 date: 2020-07-09 18:02:28
-image: 'https://m.media-amazon.com/images/I/41lryAp4heL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41lryAp4heL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '394.99'
 
 Está [Klarstein Beerlager 88 Nevera para bebidas - 88 litros  33 botellas  Eficiencia energética clase A  altura 86 5 cm  puerta de vidrio y acero inoxidable  temperatura: 0-10 °C  control táctil  Negro](https://www.amazon.es/dp/B0816YLZSC/?tag=tolees-21) con 41.48 de descuento por 394.99 EUR (original: 674.99 EUR) en el siguiente enlace!
 
-[![Klarstein Beerlager 88 Nevera para bebid](https://m.media-amazon.com/images/I/41lryAp4heL._SL200_.jpg)](https://www.amazon.es/dp/B0816YLZSC/?tag=tolees-21)
+[![Klarstein Beerlager 88 Nevera para bebid](https://m.media-amazon.com/images/I/41lryAp4heL._SL400_.jpg)](https://www.amazon.es/dp/B0816YLZSC/?tag=tolees-21)
 
 ℹ️:
 

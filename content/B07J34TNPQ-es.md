@@ -2,7 +2,7 @@
 layout: post
 title: 'Funko- Pop Bobble Marvel Studios 10: Doc al 46.74 % de rebaja'
 date: 2020-04-10 16:28:44
-image: 'https://m.media-amazon.com/images/I/51kUnGpAA5L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51kUnGpAA5L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.624285714285715'
 
 Tienes [Funko- Pop Bobble Marvel Studios 10: Doctor Strange  Chrome  Figura Coleccionable  Multicolor  38481 ](https://www.amazon.es/dp/B07J34TNPQ/?tag=tolees-21) con precio final de  9.56 EUR (original: 17.95 EUR) (46.74 %  de rebaja) aqui!
 
-[![Funko- Pop Bobble Marvel Studios 10: Doc](https://m.media-amazon.com/images/I/51kUnGpAA5L._SL200_.jpg)](https://www.amazon.es/dp/B07J34TNPQ/?tag=tolees-21)
+[![Funko- Pop Bobble Marvel Studios 10: Doc](https://m.media-amazon.com/images/I/51kUnGpAA5L._SL400_.jpg)](https://www.amazon.es/dp/B07J34TNPQ/?tag=tolees-21)
 
 🔎:
 

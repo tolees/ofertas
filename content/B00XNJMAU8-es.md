@@ -2,7 +2,7 @@
 layout: post
 title: 'Aigostar - Regleta con 5 enchufes y 1 5  con un 38.91 % de descuento'
 date: 2020-06-16 14:01:40
-image: 'https://m.media-amazon.com/images/I/41Vl0+tXwsL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Vl0+tXwsL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.39'
 
 En este momento está [Aigostar - Regleta con 5 enchufes y 1 5 metros con interruptor](https://www.amazon.es/dp/B00XNJMAU8/?tag=tolees-21) a 10.99 EUR (original: 17.99 EUR) (38.91 %  de descuento) en el siguiente enlace!
 
-[![Aigostar - Regleta con 5 enchufes y 1 5 ](https://m.media-amazon.com/images/I/41Vl0+tXwsL._SL200_.jpg)](https://www.amazon.es/dp/B00XNJMAU8/?tag=tolees-21)
+[![Aigostar - Regleta con 5 enchufes y 1 5 ](https://m.media-amazon.com/images/I/41Vl0+tXwsL._SL400_.jpg)](https://www.amazon.es/dp/B00XNJMAU8/?tag=tolees-21)
 
 🔎:
 

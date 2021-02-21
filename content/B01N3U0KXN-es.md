@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 55.91 % en Auna Melodia Radio Dab Bluetooth  minica'
 date: 2020-01-21 00:49:48
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41bdmsw2fFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41bdmsw2fFL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '96.99'
 
 Tienes [Auna Melodia Radio Dab Bluetooth  minicadena con Reproductor de CD  Dab+/FM  Alarma  AUX  Elegante diseño  Mando a Distancia  - Blanco](https://www.amazon.es/dp/B01N3U0KXN/?tag=tolees-21) con un 55.91 % de descuento con precio de oferta de 96.99 EUR (original: 219.99 EUR) en el siguiente enlace!
 
-[![Auna Melodia Radio Dab Bluetooth  minica](https://images-eu.ssl-images-amazon.com/images/I/41bdmsw2fFL._SL200_.jpg)](https://www.amazon.es/dp/B01N3U0KXN/?tag=tolees-21)
+[![Auna Melodia Radio Dab Bluetooth  minica](https://images-eu.ssl-images-amazon.com/images/I/41bdmsw2fFL._SL400_.jpg)](https://www.amazon.es/dp/B01N3U0KXN/?tag=tolees-21)
 
 ℹ️:
 

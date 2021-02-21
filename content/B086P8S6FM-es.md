@@ -2,7 +2,7 @@
 layout: post
 title: 'POMILE HD cámara web  computadora portát al 32.15 % de descuento'
 date: 2020-07-10 08:19:51
-image: 'https://m.media-amazon.com/images/I/411zpsEmasL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/411zpsEmasL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.99'
 
 Está [POMILE HD cámara web  computadora portátil USB PC cámara web con micrófono con clip de 360 grados para computadora de escritorio PC portátil Skype negro](https://www.amazon.es/dp/B086P8S6FM/?tag=tolees-21) con 32.15 de descuento por 18.99 EUR (original: 27.99 EUR) en el siguiente enlace!
 
-[![POMILE HD cámara web  computadora portát](https://m.media-amazon.com/images/I/411zpsEmasL._SL200_.jpg)](https://www.amazon.es/dp/B086P8S6FM/?tag=tolees-21)
+[![POMILE HD cámara web  computadora portát](https://m.media-amazon.com/images/I/411zpsEmasL._SL400_.jpg)](https://www.amazon.es/dp/B086P8S6FM/?tag=tolees-21)
 
 ℹ️:
 

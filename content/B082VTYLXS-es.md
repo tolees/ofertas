@@ -2,7 +2,7 @@
 layout: post
 title: 'BIOTERRA Harina Almendra Ecológica Españ al 34.75 % de descuento'
 date: 2020-10-12 08:26:39
-image: 'https://m.media-amazon.com/images/I/31EhQE6baRL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31EhQE6baRL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.98'
 
 Ahora mismo tienes [BIOTERRA Harina Almendra Ecológica Española  Sin Gluten  Sin Piel 200g](https://www.amazon.es/dp/B082VTYLXS/?tag=tolees-21) a 3.98 EUR (original: 6.1 EUR) (34.75 %  de descuento) en el siguiente enlace!
 
-[![BIOTERRA Harina Almendra Ecológica Españ](https://m.media-amazon.com/images/I/31EhQE6baRL._SL200_.jpg)](https://www.amazon.es/dp/B082VTYLXS/?tag=tolees-21)
+[![BIOTERRA Harina Almendra Ecológica Españ](https://m.media-amazon.com/images/I/31EhQE6baRL._SL400_.jpg)](https://www.amazon.es/dp/B082VTYLXS/?tag=tolees-21)
 
 🔎:
 

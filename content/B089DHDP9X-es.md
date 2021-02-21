@@ -2,7 +2,7 @@
 layout: post
 title: 'Sandalia Plana para Mujer  Nude  37 EU al 40.00 % de rebaja'
 date: 2020-09-27 17:50:20
-image: 'https://m.media-amazon.com/images/I/3192xtaKHGL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/3192xtaKHGL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '32.4'
 
 Tienes [Sandalia Plana para Mujer  Nude  37 EU](https://www.amazon.es/dp/B089DHDP9X/?tag=tolees-21) con precio final de  32.4 EUR (original: 54.0 EUR) (40.00 %  de rebaja) aqui!
 
-[![Sandalia Plana para Mujer  Nude  37 EU](https://m.media-amazon.com/images/I/3192xtaKHGL._SL200_.jpg)](https://www.amazon.es/dp/B089DHDP9X/?tag=tolees-21)
+[![Sandalia Plana para Mujer  Nude  37 EU](https://m.media-amazon.com/images/I/3192xtaKHGL._SL400_.jpg)](https://www.amazon.es/dp/B089DHDP9X/?tag=tolees-21)
 
 🔎:
 

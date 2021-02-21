@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 30.79 % en Silverline 245017 - Alicates'
 date: 2020-02-22 11:48:36
-image: 'https://m.media-amazon.com/images/I/51l2k66pDcL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51l2k66pDcL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.310000000000002'
 
 Tienes [Silverline 245017 - Alicates](https://www.amazon.es/dp/B000LFXB50/?tag=tolees-21) con un 30.79 % de descuento con precio de oferta de 18.34 EUR (original: 26.5 EUR) en el siguiente enlace!
 
-[![Silverline 245017 - Alicates](https://m.media-amazon.com/images/I/51l2k66pDcL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B000LFXB50/?tag=tolees-21)
+[![Silverline 245017 - Alicates](https://m.media-amazon.com/images/I/51l2k66pDcL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B000LFXB50/?tag=tolees-21)
 
 ℹ️:
 

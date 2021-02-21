@@ -2,7 +2,7 @@
 layout: post
 title: 'Bébé Confort MILOFIX - Silla de auto de  al 49.70 % de rebaja'
 date: 2020-03-28 22:43:24
-image: 'https://m.media-amazon.com/images/I/41X14aTczTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41X14aTczTL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '172.28'
 
 Tienes [Bébé Confort MILOFIX - Silla de auto de 0 a 4 años  R44/04  0-18 kg  gr 0+/1  color azul  Nomad Blue ](https://www.amazon.es/dp/B01LRS29SO/?tag=tolees-21) con precio final de  175.56 EUR (original: 349.0 EUR) (49.70 %  de rebaja) aqui!
 
-[![Bébé Confort MILOFIX - Silla de auto de ](https://m.media-amazon.com/images/I/41X14aTczTL._SL200_.jpg)](https://www.amazon.es/dp/B01LRS29SO/?tag=tolees-21)
+[![Bébé Confort MILOFIX - Silla de auto de ](https://m.media-amazon.com/images/I/41X14aTczTL._SL400_.jpg)](https://www.amazon.es/dp/B01LRS29SO/?tag=tolees-21)
 
 🔎:
 

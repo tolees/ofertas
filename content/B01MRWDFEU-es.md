@@ -2,7 +2,7 @@
 layout: post
 title: 'Pendientes Azul Marino Tradicionales y E al 28.01 % de descuento'
 date: 2020-10-01 15:34:54
-image: 'https://m.media-amazon.com/images/I/41VFDAI4BTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41VFDAI4BTL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.656666666666663'
 
 Está [Pendientes Azul Marino Tradicionales y Elegantes para Mujeres en Caja de Regalo](https://www.amazon.es/dp/B01MRWDFEU/?tag=tolees-21) con 28.01 de descuento por 17.99 EUR (original: 24.99 EUR) en el siguiente enlace!
 
-[![Pendientes Azul Marino Tradicionales y E](https://m.media-amazon.com/images/I/41VFDAI4BTL._SL200_.jpg)](https://www.amazon.es/dp/B01MRWDFEU/?tag=tolees-21)
+[![Pendientes Azul Marino Tradicionales y E](https://m.media-amazon.com/images/I/41VFDAI4BTL._SL400_.jpg)](https://www.amazon.es/dp/B01MRWDFEU/?tag=tolees-21)
 
 ℹ️:
 

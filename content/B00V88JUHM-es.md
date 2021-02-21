@@ -2,7 +2,7 @@
 layout: post
 title: 'PARFUMS SAPHIR Agua de Mayo - Eau de Par con un 29.10 % de descuento'
 date: 2020-05-31 16:02:48
-image: 'https://m.media-amazon.com/images/I/31I10xA61pL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31I10xA61pL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.190000000000001'
 
 En este momento está [PARFUMS SAPHIR Agua de Mayo - Eau de Parfum con vaporizador para Hombre - 200 ml](https://www.amazon.es/dp/B00V88JUHM/?tag=tolees-21) a 10.6 EUR (original: 14.95 EUR) (29.10 %  de descuento) en el siguiente enlace!
 
-[![PARFUMS SAPHIR Agua de Mayo - Eau de Par](https://m.media-amazon.com/images/I/31I10xA61pL._SL200_.jpg)](https://www.amazon.es/dp/B00V88JUHM/?tag=tolees-21)
+[![PARFUMS SAPHIR Agua de Mayo - Eau de Par](https://m.media-amazon.com/images/I/31I10xA61pL._SL400_.jpg)](https://www.amazon.es/dp/B00V88JUHM/?tag=tolees-21)
 
 🔎:
 

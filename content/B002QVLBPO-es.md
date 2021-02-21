@@ -2,7 +2,7 @@
 layout: post
 title: 'ARCTIC F9 PWM PST – 99 mm Ventilador de  al 25.53 % de descuento'
 date: 2020-08-17 17:01:37
-image: 'https://m.media-amazon.com/images/I/41elgeIB0CL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41elgeIB0CL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.95'
 
 Ahora mismo tienes [ARCTIC F9 PWM PST – 99 mm Ventilador de Caja para CPU con PWM Sharing Technology  PST   Motor Trifásico Muy Silencioso  Computadora  150-1800 RPM – Gris/Blanco](https://www.amazon.es/dp/B002QVLBPO/?tag=tolees-21) a 5.95 EUR (original: 7.99 EUR) (25.53 %  de descuento) en el siguiente enlace!
 
-[![ARCTIC F9 PWM PST – 99 mm Ventilador de ](https://m.media-amazon.com/images/I/41elgeIB0CL._SL200_.jpg)](https://www.amazon.es/dp/B002QVLBPO/?tag=tolees-21)
+[![ARCTIC F9 PWM PST – 99 mm Ventilador de ](https://m.media-amazon.com/images/I/41elgeIB0CL._SL400_.jpg)](https://www.amazon.es/dp/B002QVLBPO/?tag=tolees-21)
 
 🔎:
 

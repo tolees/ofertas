@@ -2,7 +2,7 @@
 layout: post
 title: 'Clarks Cloud Air T  Zapatillas Altas par al 70.35 % de rebaja'
 date: 2020-01-06 10:28:20
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41muLzZRaeL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41muLzZRaeL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.766666666666667'
 
 Tienes [Clarks Cloud Air T  Zapatillas Altas para Niños  Azul Navy Leather  22.5 EU](https://www.amazon.es/dp/B07FNFPQP9/?tag=tolees-21) con precio final de  16.29 EUR (original: 54.95 EUR) (70.35 %  de rebaja) aqui!
 
-[![Clarks Cloud Air T  Zapatillas Altas par](https://images-eu.ssl-images-amazon.com/images/I/41muLzZRaeL._SL200_.jpg)](https://www.amazon.es/dp/B07FNFPQP9/?tag=tolees-21)
+[![Clarks Cloud Air T  Zapatillas Altas par](https://images-eu.ssl-images-amazon.com/images/I/41muLzZRaeL._SL400_.jpg)](https://www.amazon.es/dp/B07FNFPQP9/?tag=tolees-21)
 
 🔎:
 

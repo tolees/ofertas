@@ -2,7 +2,7 @@
 layout: post
 title: 'L Oreal París - Barra de Labios Color Ri al 36.62 % de rebaja'
 date: 2020-03-11 04:10:58
-image: 'https://m.media-amazon.com/images/I/31t9TOMQaUL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31t9TOMQaUL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.046666666666667'
 
 Tienes [L Oreal París - Barra de Labios Color Riche 238](https://www.amazon.es/dp/B00X9WVVJU/?tag=tolees-21) con precio final de  8.24 EUR (original: 13.0 EUR) (36.62 %  de rebaja) aqui!
 
-[![L Oreal París - Barra de Labios Color Ri](https://m.media-amazon.com/images/I/31t9TOMQaUL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B00X9WVVJU/?tag=tolees-21)
+[![L Oreal París - Barra de Labios Color Ri](https://m.media-amazon.com/images/I/31t9TOMQaUL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B00X9WVVJU/?tag=tolees-21)
 
 🔎:
 

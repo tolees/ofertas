@@ -2,7 +2,7 @@
 layout: post
 title: 'Star Ibaby - Parque de bebés plegable  c al 26.62 % de descuento'
 date: 2020-01-16 09:39:27
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51vyzLl4GkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51vyzLl4GkL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '79.95'
 
 Ahora mismo tienes [Star Ibaby - Parque de bebés plegable  color natural](https://www.amazon.es/dp/B07FZJBVDV/?tag=tolees-21) a 79.95 EUR (original: 108.95 EUR) (26.62 %  de descuento) en el siguiente enlace!
 
-[![Star Ibaby - Parque de bebés plegable  c](https://images-eu.ssl-images-amazon.com/images/I/51vyzLl4GkL._SL200_.jpg)](https://www.amazon.es/dp/B07FZJBVDV/?tag=tolees-21)
+[![Star Ibaby - Parque de bebés plegable  c](https://images-eu.ssl-images-amazon.com/images/I/51vyzLl4GkL._SL400_.jpg)](https://www.amazon.es/dp/B07FZJBVDV/?tag=tolees-21)
 
 🔎:
 

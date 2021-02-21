@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas Stan Smith  Sneaker Mens  Blanco  con un 40.02 % de descuento'
 date: 2020-10-09 17:56:26
-image: 'https://m.media-amazon.com/images/I/41wH7bLw7WL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41wH7bLw7WL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '59.95'
 
 En este momento está [adidas Stan Smith  Sneaker Mens  Blanco  Footwear White/Footwear White/Collegiate Green 0   41 1/3 EU](https://www.amazon.es/dp/B0773YVS3Y/?tag=tolees-21) a 59.95 EUR (original: 99.95 EUR) (40.02 %  de descuento) en el siguiente enlace!
 
-[![adidas Stan Smith  Sneaker Mens  Blanco ](https://m.media-amazon.com/images/I/41wH7bLw7WL._SL200_.jpg)](https://www.amazon.es/dp/B0773YVS3Y/?tag=tolees-21)
+[![adidas Stan Smith  Sneaker Mens  Blanco ](https://m.media-amazon.com/images/I/41wH7bLw7WL._SL400_.jpg)](https://www.amazon.es/dp/B0773YVS3Y/?tag=tolees-21)
 
 🔎:
 

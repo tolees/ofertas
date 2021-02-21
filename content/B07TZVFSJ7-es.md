@@ -2,7 +2,7 @@
 layout: post
 title: 'Merrell Vapor Glove 3 Luna Leather  Zapa al 34.17 % de descuento'
 date: 2020-05-13 10:45:23
-image: 'https://m.media-amazon.com/images/I/31YQY4j-4FL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31YQY4j-4FL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '78.99'
 
 Ahora mismo tienes [Merrell Vapor Glove 3 Luna Leather  Zapatillas Deportivas para Interior para Hombre  Azul  Navy   46 EU](https://www.amazon.es/dp/B07TZVFSJ7/?tag=tolees-21) a 78.99 EUR (original: 120.0 EUR) (34.17 %  de descuento) en el siguiente enlace!
 
-[![Merrell Vapor Glove 3 Luna Leather  Zapa](https://m.media-amazon.com/images/I/31YQY4j-4FL._SL200_.jpg)](https://www.amazon.es/dp/B07TZVFSJ7/?tag=tolees-21)
+[![Merrell Vapor Glove 3 Luna Leather  Zapa](https://m.media-amazon.com/images/I/31YQY4j-4FL._SL400_.jpg)](https://www.amazon.es/dp/B07TZVFSJ7/?tag=tolees-21)
 
 🔎:
 

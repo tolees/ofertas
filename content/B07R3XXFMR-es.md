@@ -2,7 +2,7 @@
 layout: post
 title: 'Angel Schlesser Eau Fraiche Citrus Pomel con un 50.00 % de descuento'
 date: 2020-02-02 14:19:43
-image: 'https://m.media-amazon.com/images/I/31vrXnFrJ2L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31vrXnFrJ2L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.95'
 
 En este momento está [Angel Schlesser Eau Fraiche Citrus Pomelo Edt Vapo 150 Ml - 150 ml.](https://www.amazon.es/dp/B07R3XXFMR/?tag=tolees-21) a 14.95 EUR (original: 29.9 EUR) (50.00 %  de descuento) en el siguiente enlace!
 
-[![Angel Schlesser Eau Fraiche Citrus Pomel](https://m.media-amazon.com/images/I/31vrXnFrJ2L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07R3XXFMR/?tag=tolees-21)
+[![Angel Schlesser Eau Fraiche Citrus Pomel](https://m.media-amazon.com/images/I/31vrXnFrJ2L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07R3XXFMR/?tag=tolees-21)
 
 🔎:
 

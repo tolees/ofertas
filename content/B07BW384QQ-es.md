@@ -2,7 +2,7 @@
 layout: post
 title: 'seQoya - Yosemite | Reloj de Madera con  al 75.09 % de rebaja'
 date: 2020-04-16 09:32:46
-image: 'https://m.media-amazon.com/images/I/41oeHLtg5fL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41oeHLtg5fL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.95'
 
 Tienes [seQoya - Yosemite | Reloj de Madera con Esfera de Madera y Correa de Piel ecológica simulando Madera Estampada | Reloj Hombre y Mujer | Diseño único y Original](https://www.amazon.es/dp/B07BW384QQ/?tag=tolees-21) con precio final de  9.95 EUR (original: 39.95 EUR) (75.09 %  de rebaja) aqui!
 
-[![seQoya - Yosemite | Reloj de Madera con ](https://m.media-amazon.com/images/I/41oeHLtg5fL._SL200_.jpg)](https://www.amazon.es/dp/B07BW384QQ/?tag=tolees-21)
+[![seQoya - Yosemite | Reloj de Madera con ](https://m.media-amazon.com/images/I/41oeHLtg5fL._SL400_.jpg)](https://www.amazon.es/dp/B07BW384QQ/?tag=tolees-21)
 
 🔎:
 

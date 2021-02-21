@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas Adilette Aqua K  Zapatillas de De con un 71.36 % de descuento'
 date: 2020-04-07 10:32:36
-image: 'https://m.media-amazon.com/images/I/31sJFH0pQ1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31sJFH0pQ1L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.01'
 
 En este momento está [adidas Adilette Aqua K  Zapatillas de Deporte Unisex Niños  Negro  Negbás/Ftwbla/Negbás 000   32 EU](https://www.amazon.es/dp/B07KSXLKW8/?tag=tolees-21) a 5.01 EUR (original: 17.49 EUR) (71.36 %  de descuento) en el siguiente enlace!
 
-[![adidas Adilette Aqua K  Zapatillas de De](https://m.media-amazon.com/images/I/31sJFH0pQ1L._SL200_.jpg)](https://www.amazon.es/dp/B07KSXLKW8/?tag=tolees-21)
+[![adidas Adilette Aqua K  Zapatillas de De](https://m.media-amazon.com/images/I/31sJFH0pQ1L._SL400_.jpg)](https://www.amazon.es/dp/B07KSXLKW8/?tag=tolees-21)
 
 🔎:
 

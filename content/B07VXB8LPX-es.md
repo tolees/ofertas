@@ -2,7 +2,7 @@
 layout: post
 title: 'Plastimyr 5970077  Bañera con Cajones y  con un 41.73 % de descuento'
 date: 2020-05-15 20:45:59
-image: 'https://m.media-amazon.com/images/I/31PmXvgT8WL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31PmXvgT8WL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '110.18333333333334'
 
 En este momento está [Plastimyr 5970077  Bañera con Cajones y Cambiador  de 0 a 12 meses  Blanco/Gris  82 × 53 × 107 cm](https://www.amazon.es/dp/B07VXB8LPX/?tag=tolees-21) a 112.15 EUR (original: 192.45 EUR) (41.73 %  de descuento) en el siguiente enlace!
 
-[![Plastimyr 5970077  Bañera con Cajones y ](https://m.media-amazon.com/images/I/31PmXvgT8WL._SL200_.jpg)](https://www.amazon.es/dp/B07VXB8LPX/?tag=tolees-21)
+[![Plastimyr 5970077  Bañera con Cajones y ](https://m.media-amazon.com/images/I/31PmXvgT8WL._SL400_.jpg)](https://www.amazon.es/dp/B07VXB8LPX/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Jack & Jones Jjelogo Sweat Hood 2 Col 19 al 36.68 % de descuento'
 date: 2020-05-25 15:33:11
-image: 'https://m.media-amazon.com/images/I/41f-eI7W62L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41f-eI7W62L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.99'
 
 Está [Jack & Jones Jjelogo Sweat Hood 2 Col 19/20 Noos Capucha  Amarillo  Gelb   Small para Hombre](https://www.amazon.es/dp/B07YZQRWS6/?tag=tolees-21) con 36.68 de descuento por 18.99 EUR (original: 29.99 EUR) en el siguiente enlace!
 
-[![Jack & Jones Jjelogo Sweat Hood 2 Col 19](https://m.media-amazon.com/images/I/41f-eI7W62L._SL200_.jpg)](https://www.amazon.es/dp/B07YZQRWS6/?tag=tolees-21)
+[![Jack & Jones Jjelogo Sweat Hood 2 Col 19](https://m.media-amazon.com/images/I/41f-eI7W62L._SL400_.jpg)](https://www.amazon.es/dp/B07YZQRWS6/?tag=tolees-21)
 
 ℹ️:
 

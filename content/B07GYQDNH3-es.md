@@ -2,7 +2,7 @@
 layout: post
 title: 'HICKIES Cordones Elásticos No-Tie 2.0 Pe con un 25.08 % de descuento'
 date: 2020-07-19 12:42:14
-image: 'https://m.media-amazon.com/images/I/41-fon5PYGL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41-fon5PYGL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.2'
 
 En este momento está [HICKIES Cordones Elásticos No-Tie 2.0 Performance - Taupe Tan](https://www.amazon.es/dp/B07GYQDNH3/?tag=tolees-21) a 11.2 EUR (original: 14.95 EUR) (25.08 %  de descuento) en el siguiente enlace!
 
-[![HICKIES Cordones Elásticos No-Tie 2.0 Pe](https://m.media-amazon.com/images/I/41-fon5PYGL._SL200_.jpg)](https://www.amazon.es/dp/B07GYQDNH3/?tag=tolees-21)
+[![HICKIES Cordones Elásticos No-Tie 2.0 Pe](https://m.media-amazon.com/images/I/41-fon5PYGL._SL400_.jpg)](https://www.amazon.es/dp/B07GYQDNH3/?tag=tolees-21)
 
 🔎:
 

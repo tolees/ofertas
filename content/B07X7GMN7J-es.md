@@ -2,7 +2,7 @@
 layout: post
 title: 'SELECTED HOMME 16049517 Polo  Verde  Hem al 46.90 % de descuento'
 date: 2020-03-13 20:05:42
-image: 'https://m.media-amazon.com/images/I/31L-1s9ws2L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31L-1s9ws2L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.27'
 
 Ahora mismo tienes [SELECTED HOMME 16049517 Polo  Verde  Hemlock Hemlock   M para Hombre](https://www.amazon.es/dp/B07X7GMN7J/?tag=tolees-21) a 13.27 EUR (original: 24.99 EUR) (46.90 %  de descuento) en el siguiente enlace!
 
-[![SELECTED HOMME 16049517 Polo  Verde  Hem](https://m.media-amazon.com/images/I/31L-1s9ws2L._SL200_.jpg)](https://www.amazon.es/dp/B07X7GMN7J/?tag=tolees-21)
+[![SELECTED HOMME 16049517 Polo  Verde  Hem](https://m.media-amazon.com/images/I/31L-1s9ws2L._SL400_.jpg)](https://www.amazon.es/dp/B07X7GMN7J/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'QHOHQ Funda para Samsung Galaxy A50S  A5 al 30.43 % de rebaja'
 date: 2020-07-12 19:59:42
-image: 'https://m.media-amazon.com/images/I/41-35zF64JL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41-35zF64JL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.95'
 
 Tienes [QHOHQ Funda para Samsung Galaxy A50S  A50  A30S  Cases Silicona Thin Slim TPU Anti-caída Cuatro Esquinas-Transparente](https://www.amazon.es/dp/B07XQJ4JJP/?tag=tolees-21) con precio final de  6.95 EUR (original: 9.99 EUR) (30.43 %  de rebaja) aqui!
 
-[![QHOHQ Funda para Samsung Galaxy A50S  A5](https://m.media-amazon.com/images/I/41-35zF64JL._SL200_.jpg)](https://www.amazon.es/dp/B07XQJ4JJP/?tag=tolees-21)
+[![QHOHQ Funda para Samsung Galaxy A50S  A5](https://m.media-amazon.com/images/I/41-35zF64JL._SL400_.jpg)](https://www.amazon.es/dp/B07XQJ4JJP/?tag=tolees-21)
 
 🔎:
 

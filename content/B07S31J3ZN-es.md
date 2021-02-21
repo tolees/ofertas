@@ -2,7 +2,7 @@
 layout: post
 title: 'BOSS Starfish Bañador para Hombre  Negro con un 37.64 % de descuento'
 date: 2020-05-20 10:55:55
-image: 'https://m.media-amazon.com/images/I/41IXjcWWMuL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41IXjcWWMuL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '31.15'
 
 En este momento está [BOSS Starfish Bañador para Hombre  Negro  Black   Medium](https://www.amazon.es/dp/B07S31J3ZN/?tag=tolees-21) a 31.15 EUR (original: 49.95 EUR) (37.64 %  de descuento) en el siguiente enlace!
 
-[![BOSS Starfish Bañador para Hombre  Negro](https://m.media-amazon.com/images/I/41IXjcWWMuL._SL200_.jpg)](https://www.amazon.es/dp/B07S31J3ZN/?tag=tolees-21)
+[![BOSS Starfish Bañador para Hombre  Negro](https://m.media-amazon.com/images/I/41IXjcWWMuL._SL400_.jpg)](https://www.amazon.es/dp/B07S31J3ZN/?tag=tolees-21)
 
 🔎:
 

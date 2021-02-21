@@ -2,7 +2,7 @@
 layout: post
 title: 'Victure Cámara Deportiva 4k WiFi Camara  con un 40.01 % de descuento'
 date: 2020-01-16 11:40:34
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51fbchUA2kL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51fbchUA2kL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '43.115'
 
 En este momento está [Victure Cámara Deportiva 4k WiFi Camara Acción Deporte Acuatica Sumergible 30m Pantalla LCD 2.0 Inch Videocámara Multifuncional Foto de Ráfaga 2 Baterías de 1050mAh con Accesorios Kit](https://www.amazon.es/dp/B078SQLHRF/?tag=tolees-21) a 29.99 EUR (original: 49.99 EUR) (40.01 %  de descuento) en el siguiente enlace!
 
-[![Victure Cámara Deportiva 4k WiFi Camara ](https://images-eu.ssl-images-amazon.com/images/I/51fbchUA2kL._SL200_.jpg)](https://www.amazon.es/dp/B078SQLHRF/?tag=tolees-21)
+[![Victure Cámara Deportiva 4k WiFi Camara ](https://images-eu.ssl-images-amazon.com/images/I/51fbchUA2kL._SL400_.jpg)](https://www.amazon.es/dp/B078SQLHRF/?tag=tolees-21)
 
 🔎:
 

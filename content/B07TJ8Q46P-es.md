@@ -2,7 +2,7 @@
 layout: post
 title: 'Legami - Agenda de 12 meses/semanal - Ag al 28.83 % de descuento'
 date: 2020-02-01 08:49:55
-image: 'https://m.media-amazon.com/images/I/418T4-J3qsL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/418T4-J3qsL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.75'
 
 Está [Legami - Agenda de 12 meses/semanal - Agenda 2020 de espiral Edición Limitada  color Wonderful SMALL](https://www.amazon.es/dp/B07TJ8Q46P/?tag=tolees-21) con 28.83 de descuento por 3.95 EUR (original: 5.55 EUR) en el siguiente enlace!
 
-[![Legami - Agenda de 12 meses/semanal - Ag](https://m.media-amazon.com/images/I/418T4-J3qsL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07TJ8Q46P/?tag=tolees-21)
+[![Legami - Agenda de 12 meses/semanal - Ag](https://m.media-amazon.com/images/I/418T4-J3qsL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07TJ8Q46P/?tag=tolees-21)
 
 ℹ️:
 

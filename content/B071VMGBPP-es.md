@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour Armour Mid Crossback Heathe al 68.86 % de descuento'
 date: 2020-02-18 10:39:32
-image: 'https://m.media-amazon.com/images/I/41aEMkCrG-L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41aEMkCrG-L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.9'
 
 Está [Under Armour Armour Mid Crossback Heather Sujetador Deportivo  Mujer  Gris  LG](https://www.amazon.es/dp/B071VMGBPP/?tag=tolees-21) con 68.86 de descuento por 10.9 EUR (original: 35.0 EUR) en el siguiente enlace!
 
-[![Under Armour Armour Mid Crossback Heathe](https://m.media-amazon.com/images/I/41aEMkCrG-L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B071VMGBPP/?tag=tolees-21)
+[![Under Armour Armour Mid Crossback Heathe](https://m.media-amazon.com/images/I/41aEMkCrG-L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B071VMGBPP/?tag=tolees-21)
 
 ℹ️:
 

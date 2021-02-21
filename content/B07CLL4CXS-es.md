@@ -2,7 +2,7 @@
 layout: post
 title: 'Puig  Agua Fresca - 200 ml al 29.79 % de rebaja'
 date: 2020-02-22 09:06:41
-image: 'https://m.media-amazon.com/images/I/41OPJ2eYWsL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41OPJ2eYWsL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.235'
 
 Tienes [Puig  Agua Fresca - 200 ml](https://www.amazon.es/dp/B07CLL4CXS/?tag=tolees-21) con precio final de  10.18 EUR (original: 14.5 EUR) (29.79 %  de rebaja) aqui!
 
-[![Puig  Agua Fresca - 200 ml](https://m.media-amazon.com/images/I/41OPJ2eYWsL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07CLL4CXS/?tag=tolees-21)
+[![Puig  Agua Fresca - 200 ml](https://m.media-amazon.com/images/I/41OPJ2eYWsL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07CLL4CXS/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'YAMAMAY® Bañador brasileño – Essentials con un 49.96 % de descuento'
 date: 2020-06-24 10:14:37
-image: 'https://m.media-amazon.com/images/I/4146Ho+hcbL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/4146Ho+hcbL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.48'
 
 En este momento está [YAMAMAY® Bañador brasileño – Essentials](https://www.amazon.es/dp/B07VD9W8JV/?tag=tolees-21) a 6.48 EUR (original: 12.95 EUR) (49.96 %  de descuento) en el siguiente enlace!
 
-[![YAMAMAY® Bañador brasileño – Essentials](https://m.media-amazon.com/images/I/4146Ho+hcbL._SL200_.jpg)](https://www.amazon.es/dp/B07VD9W8JV/?tag=tolees-21)
+[![YAMAMAY® Bañador brasileño – Essentials](https://m.media-amazon.com/images/I/4146Ho+hcbL._SL400_.jpg)](https://www.amazon.es/dp/B07VD9W8JV/?tag=tolees-21)
 
 🔎:
 

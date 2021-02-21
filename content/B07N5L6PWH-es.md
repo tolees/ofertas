@@ -2,7 +2,7 @@
 layout: post
 title: 'Banpresto Blood of Saiyans Dragon Ball E al 31.09 % de descuento'
 date: 2020-06-08 14:47:58
-image: 'https://m.media-amazon.com/images/I/41vq+4YQECL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41vq+4YQECL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '25.0'
 
 Está [Banpresto Blood of Saiyans Dragon Ball Estatua Super Saiyan Son Goku  Multicolor  85145 ](https://www.amazon.es/dp/B07N5L6PWH/?tag=tolees-21) con 31.09 de descuento por 25.0 EUR (original: 36.28 EUR) en el siguiente enlace!
 
-[![Banpresto Blood of Saiyans Dragon Ball E](https://m.media-amazon.com/images/I/41vq+4YQECL._SL200_.jpg)](https://www.amazon.es/dp/B07N5L6PWH/?tag=tolees-21)
+[![Banpresto Blood of Saiyans Dragon Ball E](https://m.media-amazon.com/images/I/41vq+4YQECL._SL400_.jpg)](https://www.amazon.es/dp/B07N5L6PWH/?tag=tolees-21)
 
 ℹ️:
 

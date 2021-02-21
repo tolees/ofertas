@@ -2,7 +2,7 @@
 layout: post
 title: 'FIXKIT Silla Oficina Ergonómica Giratori al 26.32 % de descuento'
 date: 2020-08-11 23:11:35
-image: 'https://m.media-amazon.com/images/I/410s2JRpuXL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/410s2JRpuXL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '140.49'
 
 Está [FIXKIT Silla Oficina Ergonómica Giratoria 360°  Silla de Escritorio de Malla con Altura  Reposabrazos y Apoyabrazos Ajustables  Transpirable  Carga Máx.150Kg - Negro/Grisáceo  Negro ](https://www.amazon.es/dp/B07FYRKXR6/?tag=tolees-21) con 26.32 de descuento por 139.99 EUR (original: 189.99 EUR) en el siguiente enlace!
 
-[![FIXKIT Silla Oficina Ergonómica Giratori](https://m.media-amazon.com/images/I/410s2JRpuXL._SL200_.jpg)](https://www.amazon.es/dp/B07FYRKXR6/?tag=tolees-21)
+[![FIXKIT Silla Oficina Ergonómica Giratori](https://m.media-amazon.com/images/I/410s2JRpuXL._SL400_.jpg)](https://www.amazon.es/dp/B07FYRKXR6/?tag=tolees-21)
 
 ℹ️:
 

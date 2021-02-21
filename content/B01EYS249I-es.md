@@ -2,7 +2,7 @@
 layout: post
 title: 'Zuru - Bunch O Balloons Set globos 3 man al 54.19 % de rebaja'
 date: 2020-06-15 08:02:08
-image: 'https://m.media-amazon.com/images/I/51XTzC-vqqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51XTzC-vqqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.096'
 
 Tienes [Zuru - Bunch O Balloons Set globos 3 manojos x 35 globos  42717    color/modelo surtido](https://www.amazon.es/dp/B01EYS249I/?tag=tolees-21) con precio final de  3.5 EUR (original: 7.64 EUR) (54.19 %  de rebaja) aqui!
 
-[![Zuru - Bunch O Balloons Set globos 3 man](https://m.media-amazon.com/images/I/51XTzC-vqqL._SL200_.jpg)](https://www.amazon.es/dp/B01EYS249I/?tag=tolees-21)
+[![Zuru - Bunch O Balloons Set globos 3 man](https://m.media-amazon.com/images/I/51XTzC-vqqL._SL400_.jpg)](https://www.amazon.es/dp/B01EYS249I/?tag=tolees-21)
 
 🔎:
 

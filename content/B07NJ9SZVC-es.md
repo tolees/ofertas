@@ -2,7 +2,7 @@
 layout: post
 title: 'MERRELL Fluxion GTX  Zapatillas Tiempo L al 60.01 % de rebaja'
 date: 2020-04-02 22:26:57
-image: 'https://m.media-amazon.com/images/I/51NoRpZmneL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51NoRpZmneL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '45.59'
 
 Tienes [MERRELL Fluxion GTX  Zapatillas Tiempo Libre y Senderismo Hombre  Black/Granite  Multicolor ](https://www.amazon.es/dp/B07NJ9SZVC/?tag=tolees-21) con precio final de  45.59 EUR (original: 113.99 EUR) (60.01 %  de rebaja) aqui!
 
-[![MERRELL Fluxion GTX  Zapatillas Tiempo L](https://m.media-amazon.com/images/I/51NoRpZmneL._SL200_.jpg)](https://www.amazon.es/dp/B07NJ9SZVC/?tag=tolees-21)
+[![MERRELL Fluxion GTX  Zapatillas Tiempo L](https://m.media-amazon.com/images/I/51NoRpZmneL._SL400_.jpg)](https://www.amazon.es/dp/B07NJ9SZVC/?tag=tolees-21)
 
 🔎:
 

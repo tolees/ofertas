@@ -2,7 +2,7 @@
 layout: post
 title: 'LKXHarleya Baby Anniversary Monthly Mile al 40.62 % de descuento'
 date: 2020-05-11 12:02:00
-image: 'https://m.media-amazon.com/images/I/41LJTe95mBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41LJTe95mBL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.54'
 
 Ahora mismo tienes [LKXHarleya Baby Anniversary Monthly Milestone Blanket Age Blanket Baby Mantas Newborn Photo Prop](https://www.amazon.es/dp/B07GJJBRWH/?tag=tolees-21) a 17.54 EUR (original: 29.54 EUR) (40.62 %  de descuento) en el siguiente enlace!
 
-[![LKXHarleya Baby Anniversary Monthly Mile](https://m.media-amazon.com/images/I/41LJTe95mBL._SL200_.jpg)](https://www.amazon.es/dp/B07GJJBRWH/?tag=tolees-21)
+[![LKXHarleya Baby Anniversary Monthly Mile](https://m.media-amazon.com/images/I/41LJTe95mBL._SL400_.jpg)](https://www.amazon.es/dp/B07GJJBRWH/?tag=tolees-21)
 
 🔎:
 

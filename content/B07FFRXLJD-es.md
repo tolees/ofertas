@@ -2,7 +2,7 @@
 layout: post
 title: 'Venta caliente Superior Tikuanyin Oolong al 49.97 % de descuento'
 date: 2020-04-14 09:00:07
-image: 'https://m.media-amazon.com/images/I/51oJPgc3hJL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51oJPgc3hJL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.27'
 
 Ahora mismo tienes [Venta caliente Superior Tikuanyin Oolong Tea Gift Package Chinese Organic Green Tea Anxi Tie Guan Yin adelgaza el té en caja Green Food](https://www.amazon.es/dp/B07FFRXLJD/?tag=tolees-21) a 8.27 EUR (original: 16.53 EUR) (49.97 %  de descuento) en el siguiente enlace!
 
-[![Venta caliente Superior Tikuanyin Oolong](https://m.media-amazon.com/images/I/51oJPgc3hJL._SL200_.jpg)](https://www.amazon.es/dp/B07FFRXLJD/?tag=tolees-21)
+[![Venta caliente Superior Tikuanyin Oolong](https://m.media-amazon.com/images/I/51oJPgc3hJL._SL400_.jpg)](https://www.amazon.es/dp/B07FFRXLJD/?tag=tolees-21)
 
 🔎:
 

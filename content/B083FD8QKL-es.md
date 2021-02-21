@@ -2,7 +2,7 @@
 layout: post
 title: 'Videocámara Camara de Video Ultra HD 2.7 con un 50.05 % de descuento'
 date: 2020-04-17 00:40:30
-image: 'https://m.media-amazon.com/images/I/51VS2yX8wLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51VS2yX8wLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '99.89'
 
 En este momento está [Videocámara Camara de Video Ultra HD 2.7K 30MP 18X Zoom Digital Videocamara Cámara con Micrófono y Control Remoto Cámara de Video con Pantalla Táctil de 3.0 Pulgadas](https://www.amazon.es/dp/B083FD8QKL/?tag=tolees-21) a 99.89 EUR (original: 199.99 EUR) (50.05 %  de descuento) en el siguiente enlace!
 
-[![Videocámara Camara de Video Ultra HD 2.7](https://m.media-amazon.com/images/I/51VS2yX8wLL._SL200_.jpg)](https://www.amazon.es/dp/B083FD8QKL/?tag=tolees-21)
+[![Videocámara Camara de Video Ultra HD 2.7](https://m.media-amazon.com/images/I/51VS2yX8wLL._SL400_.jpg)](https://www.amazon.es/dp/B083FD8QKL/?tag=tolees-21)
 
 🔎:
 

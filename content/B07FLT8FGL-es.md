@@ -2,7 +2,7 @@
 layout: post
 title: 'Wrangler Texas Contrast Hombre Jeans  Az con un 33.82 % de descuento'
 date: 2020-06-28 22:13:00
-image: 'https://m.media-amazon.com/images/I/31LvwZh2Y-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31LvwZh2Y-L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '52.91'
 
 En este momento está [Wrangler Texas Contrast Hombre Jeans  Azul  Blue Black 002   44W / 30L](https://www.amazon.es/dp/B07FLT8FGL/?tag=tolees-21) a 52.91 EUR (original: 79.95 EUR) (33.82 %  de descuento) en el siguiente enlace!
 
-[![Wrangler Texas Contrast Hombre Jeans  Az](https://m.media-amazon.com/images/I/31LvwZh2Y-L._SL200_.jpg)](https://www.amazon.es/dp/B07FLT8FGL/?tag=tolees-21)
+[![Wrangler Texas Contrast Hombre Jeans  Az](https://m.media-amazon.com/images/I/31LvwZh2Y-L._SL400_.jpg)](https://www.amazon.es/dp/B07FLT8FGL/?tag=tolees-21)
 
 🔎:
 

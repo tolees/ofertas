@@ -2,7 +2,7 @@
 layout: post
 title: 'Termometro Infrarrojos ℃ y ℉ Conmutable  al 25.01 % de descuento'
 date: 2020-09-18 13:13:34
-image: 'https://m.media-amazon.com/images/I/41d89CNUniL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41d89CNUniL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.99'
 
 Está [Termometro Infrarrojos ℃ y ℉ Conmutable Termometro Sin Contacto medico termometro para Niños  Adultos Termometro Infrarrojos Sin Contacto](https://www.amazon.es/dp/B08HD1PBXB/?tag=tolees-21) con 25.01 de descuento por 14.99 EUR (original: 19.99 EUR) en el siguiente enlace!
 
-[![Termometro Infrarrojos ℃ y ℉ Conmutable ](https://m.media-amazon.com/images/I/41d89CNUniL._SL200_.jpg)](https://www.amazon.es/dp/B08HD1PBXB/?tag=tolees-21)
+[![Termometro Infrarrojos ℃ y ℉ Conmutable ](https://m.media-amazon.com/images/I/41d89CNUniL._SL400_.jpg)](https://www.amazon.es/dp/B08HD1PBXB/?tag=tolees-21)
 
 ℹ️:
 

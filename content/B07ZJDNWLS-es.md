@@ -2,7 +2,7 @@
 layout: post
 title: 'Carpeta de Conferencia de Cuero A4 Porta al 55.10 % de descuento'
 date: 2020-05-30 14:49:06
-image: 'https://m.media-amazon.com/images/I/51hTdBe6F1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51hTdBe6F1L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.95'
 
 Ahora mismo tienes [Carpeta de Conferencia de Cuero A4 Portafolio con Cuaderno  Carpeta de Negocios para Ipad  Computadora Portátil  Ideal para Entrevistas  Viajes de Negocios  Oficina  Carpeta de Contrato de Venta](https://www.amazon.es/dp/B07ZJDNWLS/?tag=tolees-21) a 17.95 EUR (original: 39.98 EUR) (55.10 %  de descuento) en el siguiente enlace!
 
-[![Carpeta de Conferencia de Cuero A4 Porta](https://m.media-amazon.com/images/I/51hTdBe6F1L._SL200_.jpg)](https://www.amazon.es/dp/B07ZJDNWLS/?tag=tolees-21)
+[![Carpeta de Conferencia de Cuero A4 Porta](https://m.media-amazon.com/images/I/51hTdBe6F1L._SL400_.jpg)](https://www.amazon.es/dp/B07ZJDNWLS/?tag=tolees-21)
 
 🔎:
 

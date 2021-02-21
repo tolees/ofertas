@@ -2,7 +2,7 @@
 layout: post
 title: 'Salomon RX Moc 4.0  Calzado de recuperac al 29.30 % de rebaja'
 date: 2020-09-01 19:18:51
-image: 'https://m.media-amazon.com/images/I/41v59gEz08L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41v59gEz08L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '52.64333333333333'
 
 Tienes [Salomon RX Moc 4.0  Calzado de recuperación para Hombre  Azul  Poseidon/White/Taos Taupe   40 EU](https://www.amazon.es/dp/B07CZ7H84S/?tag=tolees-21) con precio final de  52.99 EUR (original: 74.95 EUR) (29.30 %  de rebaja) aqui!
 
-[![Salomon RX Moc 4.0  Calzado de recuperac](https://m.media-amazon.com/images/I/41v59gEz08L._SL200_.jpg)](https://www.amazon.es/dp/B07CZ7H84S/?tag=tolees-21)
+[![Salomon RX Moc 4.0  Calzado de recuperac](https://m.media-amazon.com/images/I/41v59gEz08L._SL400_.jpg)](https://www.amazon.es/dp/B07CZ7H84S/?tag=tolees-21)
 
 🔎:
 

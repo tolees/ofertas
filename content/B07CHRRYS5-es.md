@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 40.00 % en Mr. Wonderful WOA09019ES - Set de Libret'
 date: 2020-08-30 10:55:19
-image: 'https://m.media-amazon.com/images/I/41T+bON+tIL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41T+bON+tIL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.17'
 
 Tienes [Mr. Wonderful WOA09019ES - Set de Libretas + Boli](https://www.amazon.es/dp/B07CHRRYS5/?tag=tolees-21) con un 40.00 % de descuento con precio de oferta de 10.17 EUR (original: 16.95 EUR) en el siguiente enlace!
 
-[![Mr. Wonderful WOA09019ES - Set de Libret](https://m.media-amazon.com/images/I/41T+bON+tIL._SL200_.jpg)](https://www.amazon.es/dp/B07CHRRYS5/?tag=tolees-21)
+[![Mr. Wonderful WOA09019ES - Set de Libret](https://m.media-amazon.com/images/I/41T+bON+tIL._SL400_.jpg)](https://www.amazon.es/dp/B07CHRRYS5/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Lepfun SS154/SS155 Tobilleras Deportivas al 50.02 % de rebaja'
 date: 2020-07-11 09:45:24
-image: 'https://m.media-amazon.com/images/I/51UK-HK7Z7L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51UK-HK7Z7L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.99'
 
 Tienes [Lepfun SS154/SS155 Tobilleras Deportivas de Compresión Tobillera Estabilizadora para Esguince de Tobillo Fascitis Plantar  Soporte de Tobillos Tobillera Proteccion  L/XL  SS155 Black ](https://www.amazon.es/dp/B07T9CJRPM/?tag=tolees-21) con precio final de  13.99 EUR (original: 27.99 EUR) (50.02 %  de rebaja) aqui!
 
-[![Lepfun SS154/SS155 Tobilleras Deportivas](https://m.media-amazon.com/images/I/51UK-HK7Z7L._SL200_.jpg)](https://www.amazon.es/dp/B07T9CJRPM/?tag=tolees-21)
+[![Lepfun SS154/SS155 Tobilleras Deportivas](https://m.media-amazon.com/images/I/51UK-HK7Z7L._SL400_.jpg)](https://www.amazon.es/dp/B07T9CJRPM/?tag=tolees-21)
 
 🔎:
 

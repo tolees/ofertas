@@ -2,7 +2,7 @@
 layout: post
 title: 'Puma Vikky Stacked L  Zapatillas para Mu con un 54.92 % de descuento'
 date: 2020-04-04 11:48:50
-image: 'https://m.media-amazon.com/images/I/41pAjsKJpxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41pAjsKJpxL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.3'
 
 En este momento está [Puma Vikky Stacked L  Zapatillas para Mujer  Black White  40 EU](https://www.amazon.es/dp/B07TB1LY83/?tag=tolees-21) a 29.3 EUR (original: 65.0 EUR) (54.92 %  de descuento) en el siguiente enlace!
 
-[![Puma Vikky Stacked L  Zapatillas para Mu](https://m.media-amazon.com/images/I/41pAjsKJpxL._SL200_.jpg)](https://www.amazon.es/dp/B07TB1LY83/?tag=tolees-21)
+[![Puma Vikky Stacked L  Zapatillas para Mu](https://m.media-amazon.com/images/I/41pAjsKJpxL._SL400_.jpg)](https://www.amazon.es/dp/B07TB1LY83/?tag=tolees-21)
 
 🔎:
 

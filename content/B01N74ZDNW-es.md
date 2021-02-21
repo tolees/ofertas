@@ -2,7 +2,7 @@
 layout: post
 title: 'Deyard Kit de Accesorios para GoPro Hero al 50.33 % de rebaja'
 date: 2020-09-16 16:56:58
-image: 'https://m.media-amazon.com/images/I/41sM24spldL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41sM24spldL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.496666666666666'
 
 Tienes [Deyard Kit de Accesorios para GoPro Hero 7 Sólo negro  Hero  2018   GoPro Hero 6 y Hero 5 Action Camera  25 artículos en 1  con Carcasa pequeña a Prueba de Golpes](https://www.amazon.es/dp/B01N74ZDNW/?tag=tolees-21) con precio final de  12.91 EUR (original: 25.99 EUR) (50.33 %  de rebaja) aqui!
 
-[![Deyard Kit de Accesorios para GoPro Hero](https://m.media-amazon.com/images/I/41sM24spldL._SL200_.jpg)](https://www.amazon.es/dp/B01N74ZDNW/?tag=tolees-21)
+[![Deyard Kit de Accesorios para GoPro Hero](https://m.media-amazon.com/images/I/41sM24spldL._SL400_.jpg)](https://www.amazon.es/dp/B01N74ZDNW/?tag=tolees-21)
 
 🔎:
 

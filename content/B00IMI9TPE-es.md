@@ -2,7 +2,7 @@
 layout: post
 title: 'Atosa - Disfraz de rambo para mujer  tal al 30.83 % de rebaja'
 date: 2020-02-18 08:31:57
-image: 'https://m.media-amazon.com/images/I/41GySgffRpL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41GySgffRpL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.45'
 
 Tienes [Atosa - Disfraz de rambo para mujer  talla XL  22937 ](https://www.amazon.es/dp/B00IMI9TPE/?tag=tolees-21) con precio final de  21.45 EUR (original: 31.01 EUR) (30.83 %  de rebaja) aqui!
 
-[![Atosa - Disfraz de rambo para mujer  tal](https://m.media-amazon.com/images/I/41GySgffRpL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B00IMI9TPE/?tag=tolees-21)
+[![Atosa - Disfraz de rambo para mujer  tal](https://m.media-amazon.com/images/I/41GySgffRpL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B00IMI9TPE/?tag=tolees-21)
 
 🔎:
 

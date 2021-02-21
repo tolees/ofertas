@@ -2,7 +2,7 @@
 layout: post
 title: 'Superga 2802-cotw  Zapatillas de Gimnasi al 80.80 % de descuento'
 date: 2020-09-30 07:23:18
-image: 'https://m.media-amazon.com/images/I/31yS4NLWYsL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31yS4NLWYsL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.83'
 
 Ahora mismo tienes [Superga 2802-cotw  Zapatillas de Gimnasia para Mujer  Blanco  White 901   35 EU](https://www.amazon.es/dp/B07HQWKMTD/?tag=tolees-21) a 14.4 EUR (original: 75.0 EUR) (80.80 %  de descuento) en el siguiente enlace!
 
-[![Superga 2802-cotw  Zapatillas de Gimnasi](https://m.media-amazon.com/images/I/31yS4NLWYsL._SL200_.jpg)](https://www.amazon.es/dp/B07HQWKMTD/?tag=tolees-21)
+[![Superga 2802-cotw  Zapatillas de Gimnasi](https://m.media-amazon.com/images/I/31yS4NLWYsL._SL400_.jpg)](https://www.amazon.es/dp/B07HQWKMTD/?tag=tolees-21)
 
 🔎:
 

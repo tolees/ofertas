@@ -2,7 +2,7 @@
 layout: post
 title: 'Somat Todo en 1 Pastillas Lavavajillas - con un 49.97 % de descuento'
 date: 2020-06-12 16:55:57
-image: 'https://m.media-amazon.com/images/I/51-WyHlfJwL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51-WyHlfJwL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.86'
 
 En este momento está [Somat Todo en 1 Pastillas Lavavajillas - 70 Dosis](https://www.amazon.es/dp/B07B5DDBP8/?tag=tolees-21) a 7.86 EUR (original: 15.71 EUR) (49.97 %  de descuento) en el siguiente enlace!
 
-[![Somat Todo en 1 Pastillas Lavavajillas -](https://m.media-amazon.com/images/I/51-WyHlfJwL._SL200_.jpg)](https://www.amazon.es/dp/B07B5DDBP8/?tag=tolees-21)
+[![Somat Todo en 1 Pastillas Lavavajillas -](https://m.media-amazon.com/images/I/51-WyHlfJwL._SL400_.jpg)](https://www.amazon.es/dp/B07B5DDBP8/?tag=tolees-21)
 
 🔎:
 

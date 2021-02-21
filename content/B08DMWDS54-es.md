@@ -2,7 +2,7 @@
 layout: post
 title: 'Panamar S485 a TTL Módulo TTL a RS485 Co al 33.62 % de rebaja'
 date: 2020-09-01 11:01:33
-image: 'https://m.media-amazon.com/images/I/51zt54dHyPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51zt54dHyPL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.52'
 
 Tienes [Panamar S485 a TTL Módulo TTL a RS485 Convertidor de señal 3V 5.5V Puerto Serie Aislado de un Solo Chip Módulo de Grado Industrial UART - Azul](https://www.amazon.es/dp/B08DMWDS54/?tag=tolees-21) con precio final de  1.52 EUR (original: 2.29 EUR) (33.62 %  de rebaja) aqui!
 
-[![Panamar S485 a TTL Módulo TTL a RS485 Co](https://m.media-amazon.com/images/I/51zt54dHyPL._SL200_.jpg)](https://www.amazon.es/dp/B08DMWDS54/?tag=tolees-21)
+[![Panamar S485 a TTL Módulo TTL a RS485 Co](https://m.media-amazon.com/images/I/51zt54dHyPL._SL400_.jpg)](https://www.amazon.es/dp/B08DMWDS54/?tag=tolees-21)
 
 🔎:
 

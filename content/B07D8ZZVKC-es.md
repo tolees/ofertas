@@ -2,7 +2,7 @@
 layout: post
 title: 'Asmuse Multi Efecto Pedal Guitarra Eléct con un 62.79 % de descuento'
 date: 2020-05-25 07:04:31
-image: 'https://m.media-amazon.com/images/I/51ETIKKl-ZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51ETIKKl-ZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '79.99'
 
 En este momento está [Asmuse Multi Efecto Pedal Guitarra Eléctrica MG100 Procesador de Pedalera Multiefectos Guitarra para Bajo Principiante Looper EQ Mezclador Instrumento con Adaptador de Energía  Enchufe de la UE ](https://www.amazon.es/dp/B07D8ZZVKC/?tag=tolees-21) a 79.99 EUR (original: 214.99 EUR) (62.79 %  de descuento) en el siguiente enlace!
 
-[![Asmuse Multi Efecto Pedal Guitarra Eléct](https://m.media-amazon.com/images/I/51ETIKKl-ZL._SL200_.jpg)](https://www.amazon.es/dp/B07D8ZZVKC/?tag=tolees-21)
+[![Asmuse Multi Efecto Pedal Guitarra Eléct](https://m.media-amazon.com/images/I/51ETIKKl-ZL._SL400_.jpg)](https://www.amazon.es/dp/B07D8ZZVKC/?tag=tolees-21)
 
 🔎:
 

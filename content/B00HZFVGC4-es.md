@@ -2,7 +2,7 @@
 layout: post
 title: 'SHIMANO Adaptador SM-RTAD05 Center-Lock  al 38.71 % de rebaja'
 date: 2020-02-08 04:06:25
-image: 'https://m.media-amazon.com/images/I/51jYJW1xxLL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51jYJW1xxLL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.0'
 
 Tienes [SHIMANO Adaptador SM-RTAD05 Center-Lock / 6 Agujeros 2016 Accesorios Frenos de Disco](https://www.amazon.es/dp/B00HZFVGC4/?tag=tolees-21) con precio final de  13.0 EUR (original: 21.21 EUR) (38.71 %  de rebaja) aqui!
 
-[![SHIMANO Adaptador SM-RTAD05 Center-Lock ](https://m.media-amazon.com/images/I/51jYJW1xxLL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B00HZFVGC4/?tag=tolees-21)
+[![SHIMANO Adaptador SM-RTAD05 Center-Lock ](https://m.media-amazon.com/images/I/51jYJW1xxLL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B00HZFVGC4/?tag=tolees-21)
 
 🔎:
 

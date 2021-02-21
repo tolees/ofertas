@@ -2,7 +2,7 @@
 layout: post
 title: 'MLG Tools Trampas para Ratón  Paquete de al 41.20 % de descuento'
 date: 2020-04-08 06:10:49
-image: 'https://m.media-amazon.com/images/I/51uUhlLG0BL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51uUhlLG0BL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.99'
 
 Está [MLG Tools Trampas para Ratón  Paquete de 6 Trampas Cargado de Resortes para Matar Ratones  Trampas Rápidas y Reutilizables](https://www.amazon.es/dp/B01AXFQRDK/?tag=tolees-21) con 41.20 de descuento por 9.99 EUR (original: 16.99 EUR) en el siguiente enlace!
 
-[![MLG Tools Trampas para Ratón  Paquete de](https://m.media-amazon.com/images/I/51uUhlLG0BL._SL200_.jpg)](https://www.amazon.es/dp/B01AXFQRDK/?tag=tolees-21)
+[![MLG Tools Trampas para Ratón  Paquete de](https://m.media-amazon.com/images/I/51uUhlLG0BL._SL400_.jpg)](https://www.amazon.es/dp/B01AXFQRDK/?tag=tolees-21)
 
 ℹ️:
 

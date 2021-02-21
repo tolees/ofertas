@@ -2,7 +2,7 @@
 layout: post
 title: 'Morpilot Multímetro Digital  Verdadero R al 48.99 % de descuento'
 date: 2020-01-03 16:46:41
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51YEKyE2QUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51YEKyE2QUL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.99'
 
 Está [Morpilot Multímetro Digital  Verdadero RMS 6000 Cuenta Multímetro Avanzado  Mide Voltaje AC/DC  corriente AC/DC  Resistencia  Continuidad  Capacitancia  Frecuencia  Diodos  Temperatura  Azul 2 ](https://www.amazon.es/dp/B081GJJJVM/?tag=tolees-21) con 48.99 de descuento por 24.99 EUR (original: 48.99 EUR) en el siguiente enlace!
 
-[![Morpilot Multímetro Digital  Verdadero R](https://images-eu.ssl-images-amazon.com/images/I/51YEKyE2QUL._SL200_.jpg)](https://www.amazon.es/dp/B081GJJJVM/?tag=tolees-21)
+[![Morpilot Multímetro Digital  Verdadero R](https://images-eu.ssl-images-amazon.com/images/I/51YEKyE2QUL._SL400_.jpg)](https://www.amazon.es/dp/B081GJJJVM/?tag=tolees-21)
 
 ℹ️:
 

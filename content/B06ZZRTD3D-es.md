@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger M2285Axwell 11C1  Zapatil con un 35.45 % de descuento'
 date: 2020-05-22 11:07:20
-image: 'https://m.media-amazon.com/images/I/41xswluIufL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41xswluIufL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '64.82333333333332'
 
 En este momento está [Tommy Hilfiger M2285Axwell 11C1  Zapatillas para Hombre  Azul  Midnight   44 EU](https://www.amazon.es/dp/B06ZZRTD3D/?tag=tolees-21) a 64.49 EUR (original: 99.9 EUR) (35.45 %  de descuento) en el siguiente enlace!
 
-[![Tommy Hilfiger M2285Axwell 11C1  Zapatil](https://m.media-amazon.com/images/I/41xswluIufL._SL200_.jpg)](https://www.amazon.es/dp/B06ZZRTD3D/?tag=tolees-21)
+[![Tommy Hilfiger M2285Axwell 11C1  Zapatil](https://m.media-amazon.com/images/I/41xswluIufL._SL400_.jpg)](https://www.amazon.es/dp/B06ZZRTD3D/?tag=tolees-21)
 
 🔎:
 

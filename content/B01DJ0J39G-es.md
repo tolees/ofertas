@@ -2,7 +2,7 @@
 layout: post
 title: 'EMPO El Apoyo de Abrazadera de Rodilla C al 40.51 % de rebaja'
 date: 2020-01-11 17:16:00
-image: 'https://images-eu.ssl-images-amazon.com/images/I/510EYmrP8xL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/510EYmrP8xL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.6'
 
 Tienes [EMPO El Apoyo de Abrazadera de Rodilla Carreras - Totalmente Ajustable  Unisex - Neopreno Buena Compresión Deportiva con el diseño Anti resbalón único y Fuerte](https://www.amazon.es/dp/B01DJ0J39G/?tag=tolees-21) con precio final de  11.6 EUR (original: 19.5 EUR) (40.51 %  de rebaja) aqui!
 
-[![EMPO El Apoyo de Abrazadera de Rodilla C](https://images-eu.ssl-images-amazon.com/images/I/510EYmrP8xL._SL200_.jpg)](https://www.amazon.es/dp/B01DJ0J39G/?tag=tolees-21)
+[![EMPO El Apoyo de Abrazadera de Rodilla C](https://images-eu.ssl-images-amazon.com/images/I/510EYmrP8xL._SL400_.jpg)](https://www.amazon.es/dp/B01DJ0J39G/?tag=tolees-21)
 
 🔎:
 

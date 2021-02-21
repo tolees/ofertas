@@ -2,7 +2,7 @@
 layout: post
 title: 'TRUUA 30 Hojas de Papel Blanco del arroz con un 55.31 % de descuento'
 date: 2020-09-07 19:45:52
-image: 'https://m.media-amazon.com/images/I/31leXaRyYnL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31leXaRyYnL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.63'
 
 En este momento está [TRUUA 30 Hojas de Papel Blanco del arroz de la caligrafía China y la Pintura de Papel Xuan de la caligrafía Dibujo](https://www.amazon.es/dp/B08BLMCNH3/?tag=tolees-21) a 4.63 EUR (original: 10.36 EUR) (55.31 %  de descuento) en el siguiente enlace!
 
-[![TRUUA 30 Hojas de Papel Blanco del arroz](https://m.media-amazon.com/images/I/31leXaRyYnL._SL200_.jpg)](https://www.amazon.es/dp/B08BLMCNH3/?tag=tolees-21)
+[![TRUUA 30 Hojas de Papel Blanco del arroz](https://m.media-amazon.com/images/I/31leXaRyYnL._SL400_.jpg)](https://www.amazon.es/dp/B08BLMCNH3/?tag=tolees-21)
 
 🔎:
 

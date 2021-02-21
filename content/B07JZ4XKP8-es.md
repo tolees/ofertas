@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas N-5923  Zapatillas de Gimnasia pa con un 67.40 % de descuento'
 date: 2020-01-22 06:02:37
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41vUDNsrFHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41vUDNsrFHL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '38.065'
 
 En este momento está [adidas N-5923  Zapatillas de Gimnasia para Hombre  Gris  Grey Six/Core Black/Ftwr White   42 EU](https://www.amazon.es/dp/B07JZ4XKP8/?tag=tolees-21) a 29.32 EUR (original: 89.95 EUR) (67.40 %  de descuento) en el siguiente enlace!
 
-[![adidas N-5923  Zapatillas de Gimnasia pa](https://images-eu.ssl-images-amazon.com/images/I/41vUDNsrFHL._SL200_.jpg)](https://www.amazon.es/dp/B07JZ4XKP8/?tag=tolees-21)
+[![adidas N-5923  Zapatillas de Gimnasia pa](https://images-eu.ssl-images-amazon.com/images/I/41vUDNsrFHL._SL400_.jpg)](https://www.amazon.es/dp/B07JZ4XKP8/?tag=tolees-21)
 
 🔎:
 

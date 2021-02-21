@@ -2,7 +2,7 @@
 layout: post
 title: 'Bourjois Velvet The Pencil - Pintalabios con un 67.25 % de descuento'
 date: 2020-05-11 18:16:58
-image: 'https://m.media-amazon.com/images/I/31e+6dQz0RL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31e+6dQz0RL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.91'
 
 En este momento está [Bourjois Velvet The Pencil - Pintalabios Tono 11 Red Vin tage  3g](https://www.amazon.es/dp/B07PM83TNW/?tag=tolees-21) a 3.91 EUR (original: 11.94 EUR) (67.25 %  de descuento) en el siguiente enlace!
 
-[![Bourjois Velvet The Pencil - Pintalabios](https://m.media-amazon.com/images/I/31e+6dQz0RL._SL200_.jpg)](https://www.amazon.es/dp/B07PM83TNW/?tag=tolees-21)
+[![Bourjois Velvet The Pencil - Pintalabios](https://m.media-amazon.com/images/I/31e+6dQz0RL._SL400_.jpg)](https://www.amazon.es/dp/B07PM83TNW/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Revlon ColorSilk Tinte de Cabello Perman con un 45.85 % de descuento'
 date: 2020-09-25 16:04:26
-image: 'https://m.media-amazon.com/images/I/41jdpNqTJdL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41jdpNqTJdL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.4185714285714286'
 
 En este momento está [Revlon ColorSilk Tinte de Cabello Permanente Tono #61 Rubio Oscuro](https://www.amazon.es/dp/B004X8GL8K/?tag=tolees-21) a 1.89 EUR (original: 3.49 EUR) (45.85 %  de descuento) en el siguiente enlace!
 
-[![Revlon ColorSilk Tinte de Cabello Perman](https://m.media-amazon.com/images/I/41jdpNqTJdL._SL200_.jpg)](https://www.amazon.es/dp/B004X8GL8K/?tag=tolees-21)
+[![Revlon ColorSilk Tinte de Cabello Perman](https://m.media-amazon.com/images/I/41jdpNqTJdL._SL400_.jpg)](https://www.amazon.es/dp/B004X8GL8K/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Rubie s 700594 - Disfraz de Captain Marv al 27.31 % de descuento'
 date: 2020-10-05 14:18:45
-image: 'https://m.media-amazon.com/images/I/41JAJC10JYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41JAJC10JYL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.506666666666668'
 
 Está [Rubie s 700594 - Disfraz de Captain Marvel   Multicolor  medium](https://www.amazon.es/dp/B07GM251HH/?tag=tolees-21) con 27.31 de descuento por 21.8 EUR (original: 29.99 EUR) en el siguiente enlace!
 
-[![Rubie s 700594 - Disfraz de Captain Marv](https://m.media-amazon.com/images/I/41JAJC10JYL._SL200_.jpg)](https://www.amazon.es/dp/B07GM251HH/?tag=tolees-21)
+[![Rubie s 700594 - Disfraz de Captain Marv](https://m.media-amazon.com/images/I/41JAJC10JYL._SL400_.jpg)](https://www.amazon.es/dp/B07GM251HH/?tag=tolees-21)
 
 ℹ️:
 

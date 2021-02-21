@@ -2,7 +2,7 @@
 layout: post
 title: 'Kappa Modus II  Zapatillas Unisex Adulto con un 63.22 % de descuento'
 date: 2020-01-30 10:06:40
-image: 'https://m.media-amazon.com/images/I/41QWXUip6lL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41QWXUip6lL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.71'
 
 En este momento está [Kappa Modus II  Zapatillas Unisex Adulto  Black 1111  37 EU](https://www.amazon.es/dp/B07LBM263Y/?tag=tolees-21) a 14.71 EUR (original: 39.99 EUR) (63.22 %  de descuento) en el siguiente enlace!
 
-[![Kappa Modus II  Zapatillas Unisex Adulto](https://m.media-amazon.com/images/I/41QWXUip6lL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07LBM263Y/?tag=tolees-21)
+[![Kappa Modus II  Zapatillas Unisex Adulto](https://m.media-amazon.com/images/I/41QWXUip6lL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07LBM263Y/?tag=tolees-21)
 
 🔎:
 

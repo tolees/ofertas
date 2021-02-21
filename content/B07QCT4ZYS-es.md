@@ -2,7 +2,7 @@
 layout: post
 title: 'NGS Matrix Kit Teclado + RATÓN INALÁMBRI al 58.80 % de rebaja'
 date: 2020-02-15 14:03:18
-image: 'https://m.media-amazon.com/images/I/41YVIBlVF4L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41YVIBlVF4L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.32'
 
 Tienes [NGS Matrix Kit Teclado + RATÓN INALÁMBRICOS Ultra Plano Teclas SILENCIOSAS QWERTY Español](https://www.amazon.es/dp/B07QCT4ZYS/?tag=tolees-21) con precio final de  12.32 EUR (original: 29.9 EUR) (58.80 %  de rebaja) aqui!
 
-[![NGS Matrix Kit Teclado + RATÓN INALÁMBRI](https://m.media-amazon.com/images/I/41YVIBlVF4L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07QCT4ZYS/?tag=tolees-21)
+[![NGS Matrix Kit Teclado + RATÓN INALÁMBRI](https://m.media-amazon.com/images/I/41YVIBlVF4L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07QCT4ZYS/?tag=tolees-21)
 
 🔎:
 

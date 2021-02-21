@@ -2,7 +2,7 @@
 layout: post
 title: 'Adidas Duramo 9 K  Zapatillas de Deporte al 37.69 % de descuento'
 date: 2020-05-12 05:56:31
-image: 'https://m.media-amazon.com/images/I/51QvGy2qngL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51QvGy2qngL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '28.01'
 
 Ahora mismo tienes [Adidas Duramo 9 K  Zapatillas de Deporte Unisex Adulto  Azul  Azul/Ftwbla/Negbás 000   39 1/3 EU](https://www.amazon.es/dp/B07DRSYVJM/?tag=tolees-21) a 28.01 EUR (original: 44.95 EUR) (37.69 %  de descuento) en el siguiente enlace!
 
-[![Adidas Duramo 9 K  Zapatillas de Deporte](https://m.media-amazon.com/images/I/51QvGy2qngL._SL200_.jpg)](https://www.amazon.es/dp/B07DRSYVJM/?tag=tolees-21)
+[![Adidas Duramo 9 K  Zapatillas de Deporte](https://m.media-amazon.com/images/I/51QvGy2qngL._SL400_.jpg)](https://www.amazon.es/dp/B07DRSYVJM/?tag=tolees-21)
 
 🔎:
 

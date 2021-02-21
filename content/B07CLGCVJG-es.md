@@ -2,7 +2,7 @@
 layout: post
 title: 'COSORI Mantenedor de Café Caliente de Ac al 25.01 % de descuento'
 date: 2020-04-14 09:46:53
-image: 'https://m.media-amazon.com/images/I/41BZC-CIwNL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41BZC-CIwNL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.99'
 
 Ahora mismo tienes [COSORI Mantenedor de Café Caliente de Acero Inoxidable para Oficina y Hogar  Pantalla LED  Accesorios para Café  Té  Agua  Cacao  Leche  24 Vatios](https://www.amazon.es/dp/B07CLGCVJG/?tag=tolees-21) a 29.99 EUR (original: 39.99 EUR) (25.01 %  de descuento) en el siguiente enlace!
 
-[![COSORI Mantenedor de Café Caliente de Ac](https://m.media-amazon.com/images/I/41BZC-CIwNL._SL200_.jpg)](https://www.amazon.es/dp/B07CLGCVJG/?tag=tolees-21)
+[![COSORI Mantenedor de Café Caliente de Ac](https://m.media-amazon.com/images/I/41BZC-CIwNL._SL400_.jpg)](https://www.amazon.es/dp/B07CLGCVJG/?tag=tolees-21)
 
 🔎:
 

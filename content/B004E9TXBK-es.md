@@ -2,7 +2,7 @@
 layout: post
 title: 'GANT Solid Pique SS Rugger  Polo para Ho al 33.59 % de rebaja'
 date: 2020-09-27 15:43:15
-image: 'https://m.media-amazon.com/images/I/41zGfk-0ZvL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41zGfk-0ZvL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '46.48'
 
 Tienes [GANT Solid Pique SS Rugger  Polo para Hombre  Negro  Black   48  Talla del Fabricante: M ](https://www.amazon.es/dp/B004E9TXBK/?tag=tolees-21) con precio final de  46.48 EUR (original: 69.99 EUR) (33.59 %  de rebaja) aqui!
 
-[![GANT Solid Pique SS Rugger  Polo para Ho](https://m.media-amazon.com/images/I/41zGfk-0ZvL._SL200_.jpg)](https://www.amazon.es/dp/B004E9TXBK/?tag=tolees-21)
+[![GANT Solid Pique SS Rugger  Polo para Ho](https://m.media-amazon.com/images/I/41zGfk-0ZvL._SL400_.jpg)](https://www.amazon.es/dp/B004E9TXBK/?tag=tolees-21)
 
 🔎:
 

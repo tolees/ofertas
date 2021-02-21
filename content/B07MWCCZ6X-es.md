@@ -2,7 +2,7 @@
 layout: post
 title: 'Funko Pickle Rick Bottle Opener  Polypro al 56.83 % de descuento'
 date: 2020-03-15 15:16:08
-image: 'https://m.media-amazon.com/images/I/41B92yQrgzL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41B92yQrgzL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.95'
 
 Está [Funko Pickle Rick Bottle Opener  Polypropelene  Multicolor  One Size](https://www.amazon.es/dp/B07MWCCZ6X/?tag=tolees-21) con 56.83 de descuento por 6.95 EUR (original: 16.1 EUR) en el siguiente enlace!
 
-[![Funko Pickle Rick Bottle Opener  Polypro](https://m.media-amazon.com/images/I/41B92yQrgzL._SL200_.jpg)](https://www.amazon.es/dp/B07MWCCZ6X/?tag=tolees-21)
+[![Funko Pickle Rick Bottle Opener  Polypro](https://m.media-amazon.com/images/I/41B92yQrgzL._SL400_.jpg)](https://www.amazon.es/dp/B07MWCCZ6X/?tag=tolees-21)
 
 ℹ️:
 

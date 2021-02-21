@@ -2,7 +2,7 @@
 layout: post
 title: 'Azzaro Wanted Girl Edp Vapo 80 ml - 80 m al 29.50 % de descuento'
 date: 2020-03-27 16:31:38
-image: 'https://m.media-amazon.com/images/I/410MsTeEslL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/410MsTeEslL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '87.5325'
 
 Ahora mismo tienes [Azzaro Wanted Girl Edp Vapo 80 ml - 80 ml](https://www.amazon.es/dp/B07S8LYZ67/?tag=tolees-21) a 72.62 EUR (original: 103.0 EUR) (29.50 %  de descuento) en el siguiente enlace!
 
-[![Azzaro Wanted Girl Edp Vapo 80 ml - 80 m](https://m.media-amazon.com/images/I/410MsTeEslL._SL200_.jpg)](https://www.amazon.es/dp/B07S8LYZ67/?tag=tolees-21)
+[![Azzaro Wanted Girl Edp Vapo 80 ml - 80 m](https://m.media-amazon.com/images/I/410MsTeEslL._SL400_.jpg)](https://www.amazon.es/dp/B07S8LYZ67/?tag=tolees-21)
 
 🔎:
 

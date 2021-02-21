@@ -2,7 +2,7 @@
 layout: post
 title: 'Leifheit 24055 Sterling - Cuchara para S al 49.53 % de rebaja'
 date: 2020-05-14 05:10:16
-image: 'https://m.media-amazon.com/images/I/21dEIrHc9+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21dEIrHc9+L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.29'
 
 Tienes [Leifheit 24055 Sterling - Cuchara para Servir  de Metal](https://www.amazon.es/dp/B004JU0EE4/?tag=tolees-21) con precio final de  4.29 EUR (original: 8.5 EUR) (49.53 %  de rebaja) aqui!
 
-[![Leifheit 24055 Sterling - Cuchara para S](https://m.media-amazon.com/images/I/21dEIrHc9+L._SL200_.jpg)](https://www.amazon.es/dp/B004JU0EE4/?tag=tolees-21)
+[![Leifheit 24055 Sterling - Cuchara para S](https://m.media-amazon.com/images/I/21dEIrHc9+L._SL400_.jpg)](https://www.amazon.es/dp/B004JU0EE4/?tag=tolees-21)
 
 🔎:
 

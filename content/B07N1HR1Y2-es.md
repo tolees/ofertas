@@ -2,7 +2,7 @@
 layout: post
 title: 'Clarks Un Elda Hi  Botas Slouch para Muj al 81.01 % de descuento'
 date: 2020-08-22 19:22:02
-image: 'https://m.media-amazon.com/images/I/31P6qn5oHPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31P6qn5oHPL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '34.19'
 
 Ahora mismo tienes [Clarks Un Elda Hi  Botas Slouch para Mujer  Negro  Black Combi Black Combi   39 EU](https://www.amazon.es/dp/B07N1HR1Y2/?tag=tolees-21) a 34.19 EUR (original: 180.0 EUR) (81.01 %  de descuento) en el siguiente enlace!
 
-[![Clarks Un Elda Hi  Botas Slouch para Muj](https://m.media-amazon.com/images/I/31P6qn5oHPL._SL200_.jpg)](https://www.amazon.es/dp/B07N1HR1Y2/?tag=tolees-21)
+[![Clarks Un Elda Hi  Botas Slouch para Muj](https://m.media-amazon.com/images/I/31P6qn5oHPL._SL400_.jpg)](https://www.amazon.es/dp/B07N1HR1Y2/?tag=tolees-21)
 
 🔎:
 

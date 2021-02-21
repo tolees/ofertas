@@ -2,7 +2,7 @@
 layout: post
 title: 'Linterna LED Recargable 3500mAh  Lintern al 36.86 % de rebaja'
 date: 2020-07-27 06:23:27
-image: 'https://m.media-amazon.com/images/I/41Krd+GkbvL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Krd+GkbvL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.323333333333334'
 
 Tienes [Linterna LED Recargable 3500mAh  Linterna Tactica Impermeable IPX-6 con 5 Modos Super Brillante 800LM 6000K Zoom Ajustable T6 LED y Luz Lateral COB para Inspecciones  Camping  Ciclismo  trekking](https://www.amazon.es/dp/B07JF8T64D/?tag=tolees-21) con precio final de  11.99 EUR (original: 18.99 EUR) (36.86 %  de rebaja) aqui!
 
-[![Linterna LED Recargable 3500mAh  Lintern](https://m.media-amazon.com/images/I/41Krd+GkbvL._SL200_.jpg)](https://www.amazon.es/dp/B07JF8T64D/?tag=tolees-21)
+[![Linterna LED Recargable 3500mAh  Lintern](https://m.media-amazon.com/images/I/41Krd+GkbvL._SL400_.jpg)](https://www.amazon.es/dp/B07JF8T64D/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'A.S. Création cenefa autoadhesivo Stick  con un 30.98 % de descuento'
 date: 2020-04-16 23:15:32
-image: 'https://m.media-amazon.com/images/I/416NTS0u9oL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/416NTS0u9oL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.465'
 
 En este momento está [A.S. Création cenefa autoadhesivo Stick Ups lila 5 00 m x 0 10 m 901224](https://www.amazon.es/dp/B0093ZOYOG/?tag=tolees-21) a 10.18 EUR (original: 14.75 EUR) (30.98 %  de descuento) en el siguiente enlace!
 
-[![A.S. Création cenefa autoadhesivo Stick ](https://m.media-amazon.com/images/I/416NTS0u9oL._SL200_.jpg)](https://www.amazon.es/dp/B0093ZOYOG/?tag=tolees-21)
+[![A.S. Création cenefa autoadhesivo Stick ](https://m.media-amazon.com/images/I/416NTS0u9oL._SL400_.jpg)](https://www.amazon.es/dp/B0093ZOYOG/?tag=tolees-21)
 
 🔎:
 

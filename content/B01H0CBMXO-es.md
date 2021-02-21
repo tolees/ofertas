@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 25.06 % en Electronic Arts - Titanfall 2'
 date: 2020-01-23 21:20:58
-image: 'https://m.media-amazon.com/images/I/519WICB2qJL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/519WICB2qJL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.95'
 
 Tienes [Electronic Arts - Titanfall 2](https://www.amazon.es/dp/B01H0CBMXO/?tag=tolees-21) con un 25.06 % de descuento con precio de oferta de 14.95 EUR (original: 19.95 EUR) en el siguiente enlace!
 
-[![Electronic Arts - Titanfall 2](https://m.media-amazon.com/images/I/519WICB2qJL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01H0CBMXO/?tag=tolees-21)
+[![Electronic Arts - Titanfall 2](https://m.media-amazon.com/images/I/519WICB2qJL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01H0CBMXO/?tag=tolees-21)
 
 ℹ️:
 

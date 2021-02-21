@@ -2,7 +2,7 @@
 layout: post
 title: 'Hackett Garment Dyed Jeans Pantalones    al 82.67 % de descuento'
 date: 2020-03-08 13:12:04
-image: 'https://m.media-amazon.com/images/I/31WNyT84ceL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31WNyT84ceL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '22.53'
 
 Ahora mismo tienes [Hackett Garment Dyed Jeans Pantalones   Off White 803   38W / 34L para Hombre](https://www.amazon.es/dp/B07J6QX77V/?tag=tolees-21) a 22.53 EUR (original: 130.0 EUR) (82.67 %  de descuento) en el siguiente enlace!
 
-[![Hackett Garment Dyed Jeans Pantalones   ](https://m.media-amazon.com/images/I/31WNyT84ceL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07J6QX77V/?tag=tolees-21)
+[![Hackett Garment Dyed Jeans Pantalones   ](https://m.media-amazon.com/images/I/31WNyT84ceL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07J6QX77V/?tag=tolees-21)
 
 🔎:
 

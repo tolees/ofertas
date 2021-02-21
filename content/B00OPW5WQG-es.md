@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 77.53 % en San Ignacio Profesional Chef - Sartén  2'
 date: 2020-09-30 11:00:55
-image: 'https://m.media-amazon.com/images/I/311Cez7HOPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/311Cez7HOPL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.660000000000002'
 
 Tienes [San Ignacio Profesional Chef - Sartén  24 x 5 cm](https://www.amazon.es/dp/B00OPW5WQG/?tag=tolees-21) con un 77.53 % de descuento con precio de oferta de 8.99 EUR (original: 40.0 EUR) en el siguiente enlace!
 
-[![San Ignacio Profesional Chef - Sartén  2](https://m.media-amazon.com/images/I/311Cez7HOPL._SL200_.jpg)](https://www.amazon.es/dp/B00OPW5WQG/?tag=tolees-21)
+[![San Ignacio Profesional Chef - Sartén  2](https://m.media-amazon.com/images/I/311Cez7HOPL._SL400_.jpg)](https://www.amazon.es/dp/B00OPW5WQG/?tag=tolees-21)
 
 ℹ️:
 

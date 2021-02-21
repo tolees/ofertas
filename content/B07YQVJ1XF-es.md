@@ -2,7 +2,7 @@
 layout: post
 title: 'NOKOER Protector de Lente de Cámara para al 44.49 % de descuento'
 date: 2020-06-02 01:15:11
-image: 'https://m.media-amazon.com/images/I/415uuoVpOAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/415uuoVpOAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.99'
 
 Está [NOKOER Protector de Lente de Cámara para Xiaomi Redmi Note 8 Pro  [2 Pack] Anillo Protector Metálico para la Cámara [Compatible con Funda] Anti-Arañazos Anti-Caídas - Negro](https://www.amazon.es/dp/B07YQVJ1XF/?tag=tolees-21) con 44.49 de descuento por 4.99 EUR (original: 8.99 EUR) en el siguiente enlace!
 
-[![NOKOER Protector de Lente de Cámara para](https://m.media-amazon.com/images/I/415uuoVpOAL._SL200_.jpg)](https://www.amazon.es/dp/B07YQVJ1XF/?tag=tolees-21)
+[![NOKOER Protector de Lente de Cámara para](https://m.media-amazon.com/images/I/415uuoVpOAL._SL400_.jpg)](https://www.amazon.es/dp/B07YQVJ1XF/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 56.06 % en Daniel Wellington - Reloj analógico para'
 date: 2020-08-13 19:03:55
-image: 'https://m.media-amazon.com/images/I/41wmyjVQi1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41wmyjVQi1L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '79.8475'
 
 Tienes [Daniel Wellington - Reloj analógico para caballero correa de cuero negro  dial blanco](https://www.amazon.es/dp/B00BKQT85G/?tag=tolees-21) con un 56.06 % de descuento con precio de oferta de 78.66 EUR (original: 179.0 EUR) en el siguiente enlace!
 
-[![Daniel Wellington - Reloj analógico para](https://m.media-amazon.com/images/I/41wmyjVQi1L._SL200_.jpg)](https://www.amazon.es/dp/B00BKQT85G/?tag=tolees-21)
+[![Daniel Wellington - Reloj analógico para](https://m.media-amazon.com/images/I/41wmyjVQi1L._SL400_.jpg)](https://www.amazon.es/dp/B00BKQT85G/?tag=tolees-21)
 
 ℹ️:
 

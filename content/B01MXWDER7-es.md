@@ -2,7 +2,7 @@
 layout: post
 title: 'Captain Morgan Ron & Cola - 250 ml al 25.13 % de descuento'
 date: 2020-04-26 17:13:05
-image: 'https://m.media-amazon.com/images/I/41nbYwSGtPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41nbYwSGtPL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.49'
 
 Ahora mismo tienes [Captain Morgan Ron & Cola - 250 ml](https://www.amazon.es/dp/B01MXWDER7/?tag=tolees-21) a 1.49 EUR (original: 1.99 EUR) (25.13 %  de descuento) en el siguiente enlace!
 
-[![Captain Morgan Ron & Cola - 250 ml](https://m.media-amazon.com/images/I/41nbYwSGtPL._SL200_.jpg)](https://www.amazon.es/dp/B01MXWDER7/?tag=tolees-21)
+[![Captain Morgan Ron & Cola - 250 ml](https://m.media-amazon.com/images/I/41nbYwSGtPL._SL400_.jpg)](https://www.amazon.es/dp/B01MXWDER7/?tag=tolees-21)
 
 🔎:
 

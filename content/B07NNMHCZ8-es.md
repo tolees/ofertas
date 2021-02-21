@@ -2,7 +2,7 @@
 layout: post
 title: 'DFNT - Spray contra Insectos  250 ml  Id con un 30.15 % de descuento'
 date: 2020-08-18 22:59:23
-image: 'https://m.media-amazon.com/images/I/31g09IT3tUL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31g09IT3tUL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.9'
 
 En este momento está [DFNT - Spray contra Insectos  250 ml  Ideal para protección contra Insectos  con Efecto prolongado  Alternativa a la Trampa contra Insectos en Caso de infestación aguda de parásitos](https://www.amazon.es/dp/B07NNMHCZ8/?tag=tolees-21) a 13.9 EUR (original: 19.9 EUR) (30.15 %  de descuento) en el siguiente enlace!
 
-[![DFNT - Spray contra Insectos  250 ml  Id](https://m.media-amazon.com/images/I/31g09IT3tUL._SL200_.jpg)](https://www.amazon.es/dp/B07NNMHCZ8/?tag=tolees-21)
+[![DFNT - Spray contra Insectos  250 ml  Id](https://m.media-amazon.com/images/I/31g09IT3tUL._SL400_.jpg)](https://www.amazon.es/dp/B07NNMHCZ8/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 51.00 % en DeLonghi EO12012W Horno de sobremesa con'
 date: 2020-08-15 19:41:24
-image: 'https://m.media-amazon.com/images/I/41fv3PEbZDL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41fv3PEbZDL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '54.75875'
 
 Tienes [DeLonghi EO12012W Horno de sobremesa con temporizador de apagado automático  Mecánico  1400 W  12 L  3 funciones  blanco](https://www.amazon.es/dp/B00EUWJHUS/?tag=tolees-21) con un 51.00 % de descuento con precio de oferta de 48.51 EUR (original: 99.0 EUR) en el siguiente enlace!
 
-[![DeLonghi EO12012W Horno de sobremesa con](https://m.media-amazon.com/images/I/41fv3PEbZDL._SL200_.jpg)](https://www.amazon.es/dp/B00EUWJHUS/?tag=tolees-21)
+[![DeLonghi EO12012W Horno de sobremesa con](https://m.media-amazon.com/images/I/41fv3PEbZDL._SL400_.jpg)](https://www.amazon.es/dp/B00EUWJHUS/?tag=tolees-21)
 
 ℹ️:
 

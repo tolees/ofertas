@@ -2,7 +2,7 @@
 layout: post
 title: 'Buff Crystal Cinta UV  Unisex Adulto  Mu al 49.95 % de rebaja'
 date: 2020-01-20 18:40:02
-image: 'https://images-eu.ssl-images-amazon.com/images/I/414%2B3qzGV9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/414%2B3qzGV9L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.48'
 
 Tienes [Buff Crystal Cinta UV  Unisex Adulto  Multi  Talla única](https://www.amazon.es/dp/B07TCHT2D4/?tag=tolees-21) con precio final de  5.48 EUR (original: 10.95 EUR) (49.95 %  de rebaja) aqui!
 
-[![Buff Crystal Cinta UV  Unisex Adulto  Mu](https://images-eu.ssl-images-amazon.com/images/I/414%2B3qzGV9L._SL200_.jpg)](https://www.amazon.es/dp/B07TCHT2D4/?tag=tolees-21)
+[![Buff Crystal Cinta UV  Unisex Adulto  Mu](https://images-eu.ssl-images-amazon.com/images/I/414%2B3qzGV9L._SL400_.jpg)](https://www.amazon.es/dp/B07TCHT2D4/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Mr. Robot - Temporada 3 [Blu-ray] al 61.70 % de descuento'
 date: 2020-05-22 14:40:16
-image: 'https://m.media-amazon.com/images/I/51Rn-YHWq8L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Rn-YHWq8L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.95'
 
 Está [Mr. Robot - Temporada 3 [Blu-ray]](https://www.amazon.es/dp/B07BQCQHW6/?tag=tolees-21) con 61.70 de descuento por 9.95 EUR (original: 25.98 EUR) en el siguiente enlace!
 
-[![Mr. Robot - Temporada 3 [Blu-ray]](https://m.media-amazon.com/images/I/51Rn-YHWq8L._SL200_.jpg)](https://www.amazon.es/dp/B07BQCQHW6/?tag=tolees-21)
+[![Mr. Robot - Temporada 3 [Blu-ray]](https://m.media-amazon.com/images/I/51Rn-YHWq8L._SL400_.jpg)](https://www.amazon.es/dp/B07BQCQHW6/?tag=tolees-21)
 
 ℹ️:
 

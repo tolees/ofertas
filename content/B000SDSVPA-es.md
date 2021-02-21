@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 87.32 % en Moldex MOL6401 - Tapón para los oídos  p'
 date: 2020-04-28 18:56:46
-image: 'https://m.media-amazon.com/images/I/41vATfUwI-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41vATfUwI-L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.68'
 
 Tienes [Moldex MOL6401 - Tapón para los oídos  pack de 50 ](https://www.amazon.es/dp/B000SDSVPA/?tag=tolees-21) con un 87.32 % de descuento con precio de oferta de 8.68 EUR (original: 68.45 EUR) en el siguiente enlace!
 
-[![Moldex MOL6401 - Tapón para los oídos  p](https://m.media-amazon.com/images/I/41vATfUwI-L._SL200_.jpg)](https://www.amazon.es/dp/B000SDSVPA/?tag=tolees-21)
+[![Moldex MOL6401 - Tapón para los oídos  p](https://m.media-amazon.com/images/I/41vATfUwI-L._SL400_.jpg)](https://www.amazon.es/dp/B000SDSVPA/?tag=tolees-21)
 
 ℹ️:
 

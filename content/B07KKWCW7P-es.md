@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas D2m tee 3s T-Shirt  Hombre  Grey  al 50.02 % de descuento'
 date: 2020-01-20 10:06:16
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41xvzDR66qL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41xvzDR66qL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.47'
 
 Ahora mismo tienes [adidas D2m tee 3s T-Shirt  Hombre  Grey Six  2XL](https://www.amazon.es/dp/B07KKWCW7P/?tag=tolees-21) a 12.47 EUR (original: 24.95 EUR) (50.02 %  de descuento) en el siguiente enlace!
 
-[![adidas D2m tee 3s T-Shirt  Hombre  Grey ](https://images-eu.ssl-images-amazon.com/images/I/41xvzDR66qL._SL200_.jpg)](https://www.amazon.es/dp/B07KKWCW7P/?tag=tolees-21)
+[![adidas D2m tee 3s T-Shirt  Hombre  Grey ](https://images-eu.ssl-images-amazon.com/images/I/41xvzDR66qL._SL400_.jpg)](https://www.amazon.es/dp/B07KKWCW7P/?tag=tolees-21)
 
 🔎:
 

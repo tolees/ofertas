@@ -2,7 +2,7 @@
 layout: post
 title: 'CD16 Smart Fashion Pantalla en Color Mon al 31.99 % de descuento'
 date: 2020-08-10 09:32:39
-image: 'https://m.media-amazon.com/images/I/41r0u1B+HBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41r0u1B+HBL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.39'
 
 Ahora mismo tienes [CD16 Smart Fashion Pantalla en Color Monitorización del Ritmo cardíaco Contador de Pasos Cámara Deportiva Reloj Inteligente - Negro](https://www.amazon.es/dp/B07ZCHSHPK/?tag=tolees-21) a 17.39 EUR (original: 25.57 EUR) (31.99 %  de descuento) en el siguiente enlace!
 
-[![CD16 Smart Fashion Pantalla en Color Mon](https://m.media-amazon.com/images/I/41r0u1B+HBL._SL200_.jpg)](https://www.amazon.es/dp/B07ZCHSHPK/?tag=tolees-21)
+[![CD16 Smart Fashion Pantalla en Color Mon](https://m.media-amazon.com/images/I/41r0u1B+HBL._SL400_.jpg)](https://www.amazon.es/dp/B07ZCHSHPK/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'LNIEGE 1PC plástico 800ml Gel Bolas Carg al 49.09 % de descuento'
 date: 2020-05-11 13:35:44
-image: 'https://m.media-amazon.com/images/I/31A7DXscpxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31A7DXscpxL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.05'
 
 Ahora mismo tienes [LNIEGE 1PC plástico 800ml Gel Bolas Carga de Botellas de plástico con Perlas de 7-8m m 10000PCS](https://www.amazon.es/dp/B087JK7PH7/?tag=tolees-21) a 5.05 EUR (original: 9.92 EUR) (49.09 %  de descuento) en el siguiente enlace!
 
-[![LNIEGE 1PC plástico 800ml Gel Bolas Carg](https://m.media-amazon.com/images/I/31A7DXscpxL._SL200_.jpg)](https://www.amazon.es/dp/B087JK7PH7/?tag=tolees-21)
+[![LNIEGE 1PC plástico 800ml Gel Bolas Carg](https://m.media-amazon.com/images/I/31A7DXscpxL._SL400_.jpg)](https://www.amazon.es/dp/B087JK7PH7/?tag=tolees-21)
 
 🔎:
 

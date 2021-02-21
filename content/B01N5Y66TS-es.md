@@ -2,7 +2,7 @@
 layout: post
 title: 'Ymea Menopausia Sofoconfort 24h cápsulas al 50.13 % de descuento'
 date: 2020-02-06 17:30:40
-image: 'https://m.media-amazon.com/images/I/51AliOSZKCL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51AliOSZKCL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.399999999999999'
 
 Está [Ymea Menopausia Sofoconfort 24h cápsulas](https://www.amazon.es/dp/B01N5Y66TS/?tag=tolees-21) con 50.13 de descuento por 9.95 EUR (original: 19.95 EUR) en el siguiente enlace!
 
-[![Ymea Menopausia Sofoconfort 24h cápsulas](https://m.media-amazon.com/images/I/51AliOSZKCL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01N5Y66TS/?tag=tolees-21)
+[![Ymea Menopausia Sofoconfort 24h cápsulas](https://m.media-amazon.com/images/I/51AliOSZKCL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01N5Y66TS/?tag=tolees-21)
 
 ℹ️:
 

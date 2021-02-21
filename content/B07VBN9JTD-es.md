@@ -2,7 +2,7 @@
 layout: post
 title: 'Pepe Jeans Adams Logo  Zapatillas para M al 56.28 % de rebaja'
 date: 2020-07-18 12:49:33
-image: 'https://m.media-amazon.com/images/I/31kOi3VyeSL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31kOi3VyeSL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '39.3'
 
 Tienes [Pepe Jeans Adams Logo  Zapatillas para Mujer  Color Blanco 800  40 EU](https://www.amazon.es/dp/B07VBN9JTD/?tag=tolees-21) con precio final de  39.3 EUR (original: 89.9 EUR) (56.28 %  de rebaja) aqui!
 
-[![Pepe Jeans Adams Logo  Zapatillas para M](https://m.media-amazon.com/images/I/31kOi3VyeSL._SL200_.jpg)](https://www.amazon.es/dp/B07VBN9JTD/?tag=tolees-21)
+[![Pepe Jeans Adams Logo  Zapatillas para M](https://m.media-amazon.com/images/I/31kOi3VyeSL._SL400_.jpg)](https://www.amazon.es/dp/B07VBN9JTD/?tag=tolees-21)
 
 🔎:
 

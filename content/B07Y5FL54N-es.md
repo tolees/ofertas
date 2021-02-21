@@ -2,7 +2,7 @@
 layout: post
 title: 'Aprettysunny Tacón Alto Zapato al 51.02 % de rebaja'
 date: 2020-04-14 12:31:44
-image: 'https://m.media-amazon.com/images/I/51ayWgT1hgL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51ayWgT1hgL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.88'
 
 Tienes [Aprettysunny Tacón Alto Zapato](https://www.amazon.es/dp/B07Y5FL54N/?tag=tolees-21) con precio final de  2.88 EUR (original: 5.88 EUR) (51.02 %  de rebaja) aqui!
 
-[![Aprettysunny Tacón Alto Zapato](https://m.media-amazon.com/images/I/51ayWgT1hgL._SL200_.jpg)](https://www.amazon.es/dp/B07Y5FL54N/?tag=tolees-21)
+[![Aprettysunny Tacón Alto Zapato](https://m.media-amazon.com/images/I/51ayWgT1hgL._SL400_.jpg)](https://www.amazon.es/dp/B07Y5FL54N/?tag=tolees-21)
 
 🔎:
 

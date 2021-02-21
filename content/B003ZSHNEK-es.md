@@ -2,7 +2,7 @@
 layout: post
 title: 'Nikon AF-S 24-120mm F4 ED VR - Objetivo  con un 25.02 % de descuento'
 date: 2020-07-20 09:30:50
-image: 'https://m.media-amazon.com/images/I/51FGOp7uOQL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51FGOp7uOQL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '841.6225000000001'
 
 En este momento está [Nikon AF-S 24-120mm F4 ED VR - Objetivo para Nikon  distancia focal 36-180mm  apertura f/4  zoom óptico 5x estabilizador  color negro - Versión Europea](https://www.amazon.es/dp/B003ZSHNEK/?tag=tolees-21) a 899.0 EUR (original: 1199.0 EUR) (25.02 %  de descuento) en el siguiente enlace!
 
-[![Nikon AF-S 24-120mm F4 ED VR - Objetivo ](https://m.media-amazon.com/images/I/51FGOp7uOQL._SL200_.jpg)](https://www.amazon.es/dp/B003ZSHNEK/?tag=tolees-21)
+[![Nikon AF-S 24-120mm F4 ED VR - Objetivo ](https://m.media-amazon.com/images/I/51FGOp7uOQL._SL400_.jpg)](https://www.amazon.es/dp/B003ZSHNEK/?tag=tolees-21)
 
 🔎:
 

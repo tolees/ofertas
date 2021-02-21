@@ -2,7 +2,7 @@
 layout: post
 title: 'Artema - Taburete Redondo 70cm. con un 25.41 % de descuento'
 date: 2020-07-05 13:49:44
-image: 'https://m.media-amazon.com/images/I/41Xfz7GOlPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Xfz7GOlPL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.0'
 
 En este momento está [Artema - Taburete Redondo 70cm.](https://www.amazon.es/dp/B019H3SNRW/?tag=tolees-21) a 15.0 EUR (original: 20.11 EUR) (25.41 %  de descuento) en el siguiente enlace!
 
-[![Artema - Taburete Redondo 70cm.](https://m.media-amazon.com/images/I/41Xfz7GOlPL._SL200_.jpg)](https://www.amazon.es/dp/B019H3SNRW/?tag=tolees-21)
+[![Artema - Taburete Redondo 70cm.](https://m.media-amazon.com/images/I/41Xfz7GOlPL._SL400_.jpg)](https://www.amazon.es/dp/B019H3SNRW/?tag=tolees-21)
 
 🔎:
 

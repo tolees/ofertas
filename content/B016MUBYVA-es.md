@@ -2,7 +2,7 @@
 layout: post
 title: 'Los Vengadores  Temporada 6 Vol 1    The al 40.07 % de descuento'
 date: 2020-04-07 20:02:42
-image: 'https://m.media-amazon.com/images/I/51vHSZFvZHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51vHSZFvZHL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.95'
 
 Está [Los Vengadores  Temporada 6 Vol 1    The Avengers TV [DVD]](https://www.amazon.es/dp/B016MUBYVA/?tag=tolees-21) con 40.07 de descuento por 17.95 EUR (original: 29.95 EUR) en el siguiente enlace!
 
-[![Los Vengadores  Temporada 6 Vol 1    The](https://m.media-amazon.com/images/I/51vHSZFvZHL._SL200_.jpg)](https://www.amazon.es/dp/B016MUBYVA/?tag=tolees-21)
+[![Los Vengadores  Temporada 6 Vol 1    The](https://m.media-amazon.com/images/I/51vHSZFvZHL._SL400_.jpg)](https://www.amazon.es/dp/B016MUBYVA/?tag=tolees-21)
 
 ℹ️:
 

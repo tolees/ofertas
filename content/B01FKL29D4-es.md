@@ -2,7 +2,7 @@
 layout: post
 title: 'Revlon Ultra HD Pintalabios Matte  #650  al 51.62 % de rebaja'
 date: 2020-04-10 20:04:09
-image: 'https://m.media-amazon.com/images/I/31n77Rpk-mL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31n77Rpk-mL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.035'
 
 Tienes [Revlon Ultra HD Pintalabios Matte  #650 Spark ](https://www.amazon.es/dp/B01FKL29D4/?tag=tolees-21) con precio final de  4.33 EUR (original: 8.95 EUR) (51.62 %  de rebaja) aqui!
 
-[![Revlon Ultra HD Pintalabios Matte  #650 ](https://m.media-amazon.com/images/I/31n77Rpk-mL._SL200_.jpg)](https://www.amazon.es/dp/B01FKL29D4/?tag=tolees-21)
+[![Revlon Ultra HD Pintalabios Matte  #650 ](https://m.media-amazon.com/images/I/31n77Rpk-mL._SL400_.jpg)](https://www.amazon.es/dp/B01FKL29D4/?tag=tolees-21)
 
 🔎:
 

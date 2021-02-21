@@ -2,7 +2,7 @@
 layout: post
 title: 'Funko- Pop Disney: Onward-Ian w/Staff Co con un 32.97 % de descuento'
 date: 2020-03-05 11:47:51
-image: 'https://m.media-amazon.com/images/I/41oVzNGfVNL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41oVzNGfVNL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.35'
 
 En este momento está [Funko- Pop Disney: Onward-Ian w/Staff Collectible Toy  Multicolor  45584 ](https://www.amazon.es/dp/B07TTD3PLW/?tag=tolees-21) a 10.35 EUR (original: 15.44 EUR) (32.97 %  de descuento) en el siguiente enlace!
 
-[![Funko- Pop Disney: Onward-Ian w/Staff Co](https://m.media-amazon.com/images/I/41oVzNGfVNL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07TTD3PLW/?tag=tolees-21)
+[![Funko- Pop Disney: Onward-Ian w/Staff Co](https://m.media-amazon.com/images/I/41oVzNGfVNL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07TTD3PLW/?tag=tolees-21)
 
 🔎:
 

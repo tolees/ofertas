@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 50.69 % en ikeepi 100 unidades desechables Mund-Nas'
 date: 2020-06-16 12:38:28
-image: 'https://m.media-amazon.com/images/I/41WFxb6RniL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41WFxb6RniL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.95'
 
 Tienes [ikeepi 100 unidades desechables Mund-Nasen-Schutz 3-lagig Staubschutz Vliesstoff Schutzfilter confortable  100 unidades  1](https://www.amazon.es/dp/B087M4B5RS/?tag=tolees-21) con un 50.69 % de descuento con precio de oferta de 7.9 EUR (original: 16.02 EUR) en el siguiente enlace!
 
-[![ikeepi 100 unidades desechables Mund-Nas](https://m.media-amazon.com/images/I/41WFxb6RniL._SL200_.jpg)](https://www.amazon.es/dp/B087M4B5RS/?tag=tolees-21)
+[![ikeepi 100 unidades desechables Mund-Nas](https://m.media-amazon.com/images/I/41WFxb6RniL._SL400_.jpg)](https://www.amazon.es/dp/B087M4B5RS/?tag=tolees-21)
 
 ℹ️:
 

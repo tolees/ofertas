@@ -2,7 +2,7 @@
 layout: post
 title: 'La Toja Selection - Pack Regalo Mujer -  al 42.45 % de descuento'
 date: 2020-10-10 13:48:46
-image: 'https://m.media-amazon.com/images/I/41H5JR19FhL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41H5JR19FhL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.33'
 
 Está [La Toja Selection - Pack Regalo Mujer - Gel de Baño Esencia de Orquídea 500ml + Gel de Ducha Exfoliante 200ml](https://www.amazon.es/dp/B07K1DVZMY/?tag=tolees-21) con 42.45 de descuento por 4.0 EUR (original: 6.95 EUR) en el siguiente enlace!
 
-[![La Toja Selection - Pack Regalo Mujer - ](https://m.media-amazon.com/images/I/41H5JR19FhL._SL200_.jpg)](https://www.amazon.es/dp/B07K1DVZMY/?tag=tolees-21)
+[![La Toja Selection - Pack Regalo Mujer - ](https://m.media-amazon.com/images/I/41H5JR19FhL._SL400_.jpg)](https://www.amazon.es/dp/B07K1DVZMY/?tag=tolees-21)
 
 ℹ️:
 

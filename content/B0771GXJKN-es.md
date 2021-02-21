@@ -2,7 +2,7 @@
 layout: post
 title: 'Landove Estampado de animales de manga l al 80.58 % de descuento'
 date: 2020-04-14 17:46:56
-image: 'https://m.media-amazon.com/images/I/514UlqwSlNL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/514UlqwSlNL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.99'
 
 Está [Landove Estampado de animales de manga larga para Bebé-Niñas 0 - 3 Meses bebè](https://www.amazon.es/dp/B0771GXJKN/?tag=tolees-21) con 80.58 de descuento por 6.99 EUR (original: 35.99 EUR) en el siguiente enlace!
 
-[![Landove Estampado de animales de manga l](https://m.media-amazon.com/images/I/514UlqwSlNL._SL200_.jpg)](https://www.amazon.es/dp/B0771GXJKN/?tag=tolees-21)
+[![Landove Estampado de animales de manga l](https://m.media-amazon.com/images/I/514UlqwSlNL._SL400_.jpg)](https://www.amazon.es/dp/B0771GXJKN/?tag=tolees-21)
 
 ℹ️:
 

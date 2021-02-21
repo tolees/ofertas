@@ -2,7 +2,7 @@
 layout: post
 title: 'MO Bermuda Algodón Hombre - Azul Oscuro  al 49.97 % de descuento'
 date: 2020-05-09 09:24:27
-image: 'https://m.media-amazon.com/images/I/31ncsreGJtL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31ncsreGJtL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.0'
 
 Ahora mismo tienes [MO Bermuda Algodón Hombre - Azul Oscuro - Talla 48](https://www.amazon.es/dp/B07Q5GNC2S/?tag=tolees-21) a 9.0 EUR (original: 17.99 EUR) (49.97 %  de descuento) en el siguiente enlace!
 
-[![MO Bermuda Algodón Hombre - Azul Oscuro ](https://m.media-amazon.com/images/I/31ncsreGJtL._SL200_.jpg)](https://www.amazon.es/dp/B07Q5GNC2S/?tag=tolees-21)
+[![MO Bermuda Algodón Hombre - Azul Oscuro ](https://m.media-amazon.com/images/I/31ncsreGJtL._SL400_.jpg)](https://www.amazon.es/dp/B07Q5GNC2S/?tag=tolees-21)
 
 🔎:
 

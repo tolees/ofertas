@@ -2,7 +2,7 @@
 layout: post
 title: 'NRS Healthcare M66613 - Asiento para ino al 37.82 % de descuento'
 date: 2020-03-03 10:06:49
-image: 'https://m.media-amazon.com/images/I/41eDg0UgnRL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41eDg0UgnRL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '43.46'
 
 Está [NRS Healthcare M66613 - Asiento para inodoro  altura ajustable](https://www.amazon.es/dp/B00C26OQMI/?tag=tolees-21) con 37.82 de descuento por 42.0 EUR (original: 67.55 EUR) en el siguiente enlace!
 
-[![NRS Healthcare M66613 - Asiento para ino](https://m.media-amazon.com/images/I/41eDg0UgnRL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B00C26OQMI/?tag=tolees-21)
+[![NRS Healthcare M66613 - Asiento para ino](https://m.media-amazon.com/images/I/41eDg0UgnRL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B00C26OQMI/?tag=tolees-21)
 
 ℹ️:
 

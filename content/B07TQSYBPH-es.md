@@ -2,7 +2,7 @@
 layout: post
 title: 'Unidad de Estado Sólido Lexar NS100 2 5" al 29.09 % de descuento'
 date: 2020-10-05 22:10:32
-image: 'https://m.media-amazon.com/images/I/4175AZN37OL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/4175AZN37OL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '53.73478260869567'
 
 Ahora mismo tienes [Unidad de Estado Sólido Lexar NS100 2 5" 512GB SATA III  6Gb/s ](https://www.amazon.es/dp/B07TQSYBPH/?tag=tolees-21) a 52.59 EUR (original: 74.16 EUR) (29.09 %  de descuento) en el siguiente enlace!
 
-[![Unidad de Estado Sólido Lexar NS100 2 5"](https://m.media-amazon.com/images/I/4175AZN37OL._SL200_.jpg)](https://www.amazon.es/dp/B07TQSYBPH/?tag=tolees-21)
+[![Unidad de Estado Sólido Lexar NS100 2 5"](https://m.media-amazon.com/images/I/4175AZN37OL._SL400_.jpg)](https://www.amazon.es/dp/B07TQSYBPH/?tag=tolees-21)
 
 🔎:
 

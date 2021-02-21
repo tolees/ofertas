@@ -2,7 +2,7 @@
 layout: post
 title: 'RUNCCI Kit Conectores Tiras LED RGB 5050 al 41.61 % de rebaja'
 date: 2020-03-05 12:02:41
-image: 'https://m.media-amazon.com/images/I/41qBNCUASLL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41qBNCUASLL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.92'
 
 Tienes [RUNCCI Kit Conectores Tiras LED RGB 5050 con Cable Divisor LED de 4 Pines  led 5050 extensión Cable  Puente de Tira a Tira de LED  Conectores en Forma de L  Conectores Gapless](https://www.amazon.es/dp/B07SG4N9R4/?tag=tolees-21) con precio final de  9.92 EUR (original: 16.99 EUR) (41.61 %  de rebaja) aqui!
 
-[![RUNCCI Kit Conectores Tiras LED RGB 5050](https://m.media-amazon.com/images/I/41qBNCUASLL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07SG4N9R4/?tag=tolees-21)
+[![RUNCCI Kit Conectores Tiras LED RGB 5050](https://m.media-amazon.com/images/I/41qBNCUASLL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07SG4N9R4/?tag=tolees-21)
 
 🔎:
 

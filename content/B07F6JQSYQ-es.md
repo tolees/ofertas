@@ -2,7 +2,7 @@
 layout: post
 title: 'Sorel Glacy Short  Botas para Mujer  Neg al 60.00 % de descuento'
 date: 2020-02-23 09:24:54
-image: 'https://m.media-amazon.com/images/I/31+AyIVI15L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31+AyIVI15L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '48.0'
 
 Está [Sorel Glacy Short  Botas para Mujer  Negro  Black/Shark 010   36.5 EU](https://www.amazon.es/dp/B07F6JQSYQ/?tag=tolees-21) con 60.00 de descuento por 48.0 EUR (original: 119.99 EUR) en el siguiente enlace!
 
-[![Sorel Glacy Short  Botas para Mujer  Neg](https://m.media-amazon.com/images/I/31+AyIVI15L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07F6JQSYQ/?tag=tolees-21)
+[![Sorel Glacy Short  Botas para Mujer  Neg](https://m.media-amazon.com/images/I/31+AyIVI15L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07F6JQSYQ/?tag=tolees-21)
 
 ℹ️:
 

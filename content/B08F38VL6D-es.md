@@ -2,7 +2,7 @@
 layout: post
 title: 'Oumakiku Botellas de Spray Botellas de V al 38.49 % de descuento'
 date: 2020-08-23 22:21:00
-image: 'https://m.media-amazon.com/images/I/51WzuchQCKL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51WzuchQCKL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.99'
 
 Está [Oumakiku Botellas de Spray Botellas de Viaje Spray de Niebla Fina Transparente Set Contenedores de Líquido Transparente Recargables para Perfume Loción de Maquillaje Cosmético 6 Piezas 50 ml 100 ml](https://www.amazon.es/dp/B08F38VL6D/?tag=tolees-21) con 38.49 de descuento por 7.99 EUR (original: 12.99 EUR) en el siguiente enlace!
 
-[![Oumakiku Botellas de Spray Botellas de V](https://m.media-amazon.com/images/I/51WzuchQCKL._SL200_.jpg)](https://www.amazon.es/dp/B08F38VL6D/?tag=tolees-21)
+[![Oumakiku Botellas de Spray Botellas de V](https://m.media-amazon.com/images/I/51WzuchQCKL._SL400_.jpg)](https://www.amazon.es/dp/B08F38VL6D/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Trixie 13171 - Rejilla Seguridad para Co al 44.81 % de rebaja'
 date: 2020-07-28 08:43:13
-image: 'https://m.media-amazon.com/images/I/31-w6CoAp3L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31-w6CoAp3L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '53.184'
 
 Tienes [Trixie 13171 - Rejilla Seguridad para Coche  Ancho: 96–163 cm  Altura: 34–48 cm  Plata/Negro](https://www.amazon.es/dp/B00DMSA9SU/?tag=tolees-21) con precio final de  56.85 EUR (original: 103.0 EUR) (44.81 %  de rebaja) aqui!
 
-[![Trixie 13171 - Rejilla Seguridad para Co](https://m.media-amazon.com/images/I/31-w6CoAp3L._SL200_.jpg)](https://www.amazon.es/dp/B00DMSA9SU/?tag=tolees-21)
+[![Trixie 13171 - Rejilla Seguridad para Co](https://m.media-amazon.com/images/I/31-w6CoAp3L._SL400_.jpg)](https://www.amazon.es/dp/B00DMSA9SU/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 30.00 % en Samsonite 73349/1549 Cosmolite Spinner -'
 date: 2020-02-16 18:18:20
-image: 'https://m.media-amazon.com/images/I/41LV6ijDrCL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41LV6ijDrCL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '335.25'
 
 Tienes [Samsonite 73349/1549 Cosmolite Spinner - Equipaje de Mano  Azul  Midnight Blue   S  55 cm-36 L ](https://www.amazon.es/dp/B01BBXN5PG/?tag=tolees-21) con un 30.00 % de descuento con precio de oferta de 315.0 EUR (original: 450.0 EUR) en el siguiente enlace!
 
-[![Samsonite 73349/1549 Cosmolite Spinner -](https://m.media-amazon.com/images/I/41LV6ijDrCL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01BBXN5PG/?tag=tolees-21)
+[![Samsonite 73349/1549 Cosmolite Spinner -](https://m.media-amazon.com/images/I/41LV6ijDrCL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01BBXN5PG/?tag=tolees-21)
 
 ℹ️:
 

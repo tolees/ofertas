@@ -2,7 +2,7 @@
 layout: post
 title: 'Lacoste Rc2012 Cinturón  Azul  Legion Bl con un 47.18 % de descuento'
 date: 2020-03-29 12:01:56
-image: 'https://m.media-amazon.com/images/I/41DdLzax5rL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41DdLzax5rL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.77'
 
 En este momento está [Lacoste Rc2012 Cinturón  Azul  Legion Blue 725   85  tamaño del fabricante: 100  para Hombre](https://www.amazon.es/dp/B07TYW76B8/?tag=tolees-21) a 23.77 EUR (original: 45.0 EUR) (47.18 %  de descuento) en el siguiente enlace!
 
-[![Lacoste Rc2012 Cinturón  Azul  Legion Bl](https://m.media-amazon.com/images/I/41DdLzax5rL._SL200_.jpg)](https://www.amazon.es/dp/B07TYW76B8/?tag=tolees-21)
+[![Lacoste Rc2012 Cinturón  Azul  Legion Bl](https://m.media-amazon.com/images/I/41DdLzax5rL._SL400_.jpg)](https://www.amazon.es/dp/B07TYW76B8/?tag=tolees-21)
 
 🔎:
 

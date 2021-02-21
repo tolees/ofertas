@@ -2,7 +2,7 @@
 layout: post
 title: 'Buffalo Corin  Zapatillas Altas para Muj al 29.93 % de descuento'
 date: 2020-05-13 09:55:32
-image: 'https://m.media-amazon.com/images/I/419kAdVdpdL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/419kAdVdpdL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '70.0'
 
 Ahora mismo tienes [Buffalo Corin  Zapatillas Altas para Mujer  Blanco  White 000   36 EU](https://www.amazon.es/dp/B07JN2GXWM/?tag=tolees-21) a 70.0 EUR (original: 99.9 EUR) (29.93 %  de descuento) en el siguiente enlace!
 
-[![Buffalo Corin  Zapatillas Altas para Muj](https://m.media-amazon.com/images/I/419kAdVdpdL._SL200_.jpg)](https://www.amazon.es/dp/B07JN2GXWM/?tag=tolees-21)
+[![Buffalo Corin  Zapatillas Altas para Muj](https://m.media-amazon.com/images/I/419kAdVdpdL._SL400_.jpg)](https://www.amazon.es/dp/B07JN2GXWM/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Mizuno Wave Rider 23  Zapatillas de Runn al 53.16 % de descuento'
 date: 2020-02-07 21:20:50
-image: 'https://m.media-amazon.com/images/I/41e-OjqjvvL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41e-OjqjvvL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '66.79'
 
 Ahora mismo tienes [Mizuno Wave Rider 23  Zapatillas de Running para Mujer  Rosa  Hibiscus/VaporBlue/AstralAura 3   37 EU](https://www.amazon.es/dp/B07N35SYF7/?tag=tolees-21) a 66.79 EUR (original: 142.59 EUR) (53.16 %  de descuento) en el siguiente enlace!
 
-[![Mizuno Wave Rider 23  Zapatillas de Runn](https://m.media-amazon.com/images/I/41e-OjqjvvL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07N35SYF7/?tag=tolees-21)
+[![Mizuno Wave Rider 23  Zapatillas de Runn](https://m.media-amazon.com/images/I/41e-OjqjvvL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07N35SYF7/?tag=tolees-21)
 
 🔎:
 

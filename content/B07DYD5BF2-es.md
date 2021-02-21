@@ -2,7 +2,7 @@
 layout: post
 title: 'Merrell Waterpro Maipo 2  Zapatillas Imp al 38.01 % de descuento'
 date: 2020-04-08 03:02:24
-image: 'https://m.media-amazon.com/images/I/41zxMRnYUbL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41zxMRnYUbL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '61.99'
 
 Ahora mismo tienes [Merrell Waterpro Maipo 2  Zapatillas Impermeables para Mujer  Azul  Navy/Smoke   39 EU](https://www.amazon.es/dp/B07DYD5BF2/?tag=tolees-21) a 61.99 EUR (original: 100.0 EUR) (38.01 %  de descuento) en el siguiente enlace!
 
-[![Merrell Waterpro Maipo 2  Zapatillas Imp](https://m.media-amazon.com/images/I/41zxMRnYUbL._SL200_.jpg)](https://www.amazon.es/dp/B07DYD5BF2/?tag=tolees-21)
+[![Merrell Waterpro Maipo 2  Zapatillas Imp](https://m.media-amazon.com/images/I/41zxMRnYUbL._SL400_.jpg)](https://www.amazon.es/dp/B07DYD5BF2/?tag=tolees-21)
 
 🔎:
 

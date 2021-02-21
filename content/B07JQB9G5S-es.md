@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 58.62 % en Tommy Hilfiger Patch Cap Gorra de béisbo'
 date: 2020-03-30 20:41:35
-image: 'https://m.media-amazon.com/images/I/31-kl26szGL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31-kl26szGL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.245'
 
 Tienes [Tommy Hilfiger Patch Cap Gorra de béisbol  Azul  Talla única  Talla del Fabricante:  para Mujer](https://www.amazon.es/dp/B07JQB9G5S/?tag=tolees-21) con un 58.62 % de descuento con precio de oferta de 16.51 EUR (original: 39.9 EUR) en el siguiente enlace!
 
-[![Tommy Hilfiger Patch Cap Gorra de béisbo](https://m.media-amazon.com/images/I/31-kl26szGL._SL200_.jpg)](https://www.amazon.es/dp/B07JQB9G5S/?tag=tolees-21)
+[![Tommy Hilfiger Patch Cap Gorra de béisbo](https://m.media-amazon.com/images/I/31-kl26szGL._SL400_.jpg)](https://www.amazon.es/dp/B07JQB9G5S/?tag=tolees-21)
 
 ℹ️:
 

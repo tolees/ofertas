@@ -2,7 +2,7 @@
 layout: post
 title: 'Oxford School - Recambio para cuaderno   al 31.66 % de descuento'
 date: 2020-03-26 19:32:25
-image: 'https://m.media-amazon.com/images/I/51AZQ-QVddL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51AZQ-QVddL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.165'
 
 Ahora mismo tienes [Oxford School - Recambio para cuaderno  A4  5 x 5 cm  color multicolor](https://www.amazon.es/dp/B07C1NKXM7/?tag=tolees-21) a 5.46 EUR (original: 7.99 EUR) (31.66 %  de descuento) en el siguiente enlace!
 
-[![Oxford School - Recambio para cuaderno  ](https://m.media-amazon.com/images/I/51AZQ-QVddL._SL200_.jpg)](https://www.amazon.es/dp/B07C1NKXM7/?tag=tolees-21)
+[![Oxford School - Recambio para cuaderno  ](https://m.media-amazon.com/images/I/51AZQ-QVddL._SL400_.jpg)](https://www.amazon.es/dp/B07C1NKXM7/?tag=tolees-21)
 
 🔎:
 

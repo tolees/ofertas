@@ -2,7 +2,7 @@
 layout: post
 title: 'Epson Workforce WF-2630WF - Impresora mu al 45.95 % de rebaja'
 date: 2020-01-28 19:40:48
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51qYJAY4jlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51qYJAY4jlL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '59.99'
 
 Tienes [Epson Workforce WF-2630WF - Impresora multifunción de Tinta  WiFi  Pantalla LCD Monocroma retroiluminada de 5 6 cm   Color Negro  Ya Disponible en Amazon Dash Replenishment](https://www.amazon.es/dp/B00MCDJ4UK/?tag=tolees-21) con precio final de  59.99 EUR (original: 110.99 EUR) (45.95 %  de rebaja) aqui!
 
-[![Epson Workforce WF-2630WF - Impresora mu](https://images-eu.ssl-images-amazon.com/images/I/51qYJAY4jlL._SL200_.jpg)](https://www.amazon.es/dp/B00MCDJ4UK/?tag=tolees-21)
+[![Epson Workforce WF-2630WF - Impresora mu](https://images-eu.ssl-images-amazon.com/images/I/51qYJAY4jlL._SL400_.jpg)](https://www.amazon.es/dp/B00MCDJ4UK/?tag=tolees-21)
 
 🔎:
 

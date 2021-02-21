@@ -2,7 +2,7 @@
 layout: post
 title: 'Magic Studio Matte Vs Metallic Lip Color con un 37.33 % de descuento'
 date: 2020-02-06 11:47:13
-image: 'https://m.media-amazon.com/images/I/41tCV9QTdsL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41tCV9QTdsL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.95'
 
 En este momento está [Magic Studio Matte Vs Metallic Lip Colors  Talla Única  Pack de 1](https://www.amazon.es/dp/B07Y8PDZRG/?tag=tolees-21) a 6.95 EUR (original: 11.09 EUR) (37.33 %  de descuento) en el siguiente enlace!
 
-[![Magic Studio Matte Vs Metallic Lip Color](https://m.media-amazon.com/images/I/41tCV9QTdsL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07Y8PDZRG/?tag=tolees-21)
+[![Magic Studio Matte Vs Metallic Lip Color](https://m.media-amazon.com/images/I/41tCV9QTdsL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07Y8PDZRG/?tag=tolees-21)
 
 🔎:
 

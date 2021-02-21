@@ -2,7 +2,7 @@
 layout: post
 title: 'Superga Damen 2790 Lamew Sneaker  Grau   al 51.27 % de rebaja'
 date: 2020-03-16 16:37:53
-image: 'https://m.media-amazon.com/images/I/41hBOkTOzXL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41hBOkTOzXL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '31.36'
 
 Tienes [Superga Damen 2790 Lamew Sneaker  Grau  Grey   39](https://www.amazon.es/dp/B0721NJ9CG/?tag=tolees-21) con precio final de  41.42 EUR (original: 85.0 EUR) (51.27 %  de rebaja) aqui!
 
-[![Superga Damen 2790 Lamew Sneaker  Grau  ](https://m.media-amazon.com/images/I/41hBOkTOzXL._SL200_.jpg)](https://www.amazon.es/dp/B0721NJ9CG/?tag=tolees-21)
+[![Superga Damen 2790 Lamew Sneaker  Grau  ](https://m.media-amazon.com/images/I/41hBOkTOzXL._SL400_.jpg)](https://www.amazon.es/dp/B0721NJ9CG/?tag=tolees-21)
 
 🔎:
 

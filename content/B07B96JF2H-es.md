@@ -2,7 +2,7 @@
 layout: post
 title: 'Purina Gourmet Gold Doble Placer comida  al 43.95 % de descuento'
 date: 2020-01-29 23:10:18
-image: 'https://m.media-amazon.com/images/I/51T329IIjcL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51T329IIjcL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '41.28'
 
 Ahora mismo tienes [Purina Gourmet Gold Doble Placer comida para gatos Surtido sabores 8 x [12 x 85 g]](https://www.amazon.es/dp/B07B96JF2H/?tag=tolees-21) a 41.28 EUR (original: 73.65 EUR) (43.95 %  de descuento) en el siguiente enlace!
 
-[![Purina Gourmet Gold Doble Placer comida ](https://m.media-amazon.com/images/I/51T329IIjcL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07B96JF2H/?tag=tolees-21)
+[![Purina Gourmet Gold Doble Placer comida ](https://m.media-amazon.com/images/I/51T329IIjcL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07B96JF2H/?tag=tolees-21)
 
 🔎:
 

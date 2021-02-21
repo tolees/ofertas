@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 55.01 % en H2D Professional - Cepillo desenredante '
 date: 2020-03-26 13:30:42
-image: 'https://m.media-amazon.com/images/I/316GYBBiVfL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/316GYBBiVfL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.89'
 
 Tienes [H2D Professional - Cepillo desenredante para desenredar el cabello H2D-Tangle](https://www.amazon.es/dp/B00J3QZ20U/?tag=tolees-21) con un 55.01 % de descuento con precio de oferta de 4.89 EUR (original: 10.87 EUR) en el siguiente enlace!
 
-[![H2D Professional - Cepillo desenredante ](https://m.media-amazon.com/images/I/316GYBBiVfL._SL200_.jpg)](https://www.amazon.es/dp/B00J3QZ20U/?tag=tolees-21)
+[![H2D Professional - Cepillo desenredante ](https://m.media-amazon.com/images/I/316GYBBiVfL._SL400_.jpg)](https://www.amazon.es/dp/B00J3QZ20U/?tag=tolees-21)
 
 ℹ️:
 

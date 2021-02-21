@@ -2,7 +2,7 @@
 layout: post
 title: 'FIND - Sunset Beauty - Trío de sombras d al 55.83 % de descuento'
 date: 2020-04-15 08:45:56
-image: 'https://m.media-amazon.com/images/I/31FcSYVJByL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31FcSYVJByL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.65'
 
 Está [FIND - Sunset Beauty - Trío de sombras de ojos  n.13  n.14  n.15 ](https://www.amazon.es/dp/B07CTM8Y6V/?tag=tolees-21) con 55.83 de descuento por 2.65 EUR (original: 6.0 EUR) en el siguiente enlace!
 
-[![FIND - Sunset Beauty - Trío de sombras d](https://m.media-amazon.com/images/I/31FcSYVJByL._SL200_.jpg)](https://www.amazon.es/dp/B07CTM8Y6V/?tag=tolees-21)
+[![FIND - Sunset Beauty - Trío de sombras d](https://m.media-amazon.com/images/I/31FcSYVJByL._SL400_.jpg)](https://www.amazon.es/dp/B07CTM8Y6V/?tag=tolees-21)
 
 ℹ️:
 

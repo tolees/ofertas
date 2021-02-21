@@ -2,7 +2,7 @@
 layout: post
 title: 'Philips HP6548/01 - Set con depiladora   al 49.99 % de descuento'
 date: 2020-04-12 11:04:19
-image: 'https://m.media-amazon.com/images/I/41D0UTYKIQL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41D0UTYKIQL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.14166666666667'
 
 Ahora mismo tienes [Philips HP6548/01 - Set con depiladora  perfilador y bolsa para guardar](https://www.amazon.es/dp/B01BSO6Q7W/?tag=tolees-21) a 22.5 EUR (original: 44.99 EUR) (49.99 %  de descuento) en el siguiente enlace!
 
-[![Philips HP6548/01 - Set con depiladora  ](https://m.media-amazon.com/images/I/41D0UTYKIQL._SL200_.jpg)](https://www.amazon.es/dp/B01BSO6Q7W/?tag=tolees-21)
+[![Philips HP6548/01 - Set con depiladora  ](https://m.media-amazon.com/images/I/41D0UTYKIQL._SL400_.jpg)](https://www.amazon.es/dp/B01BSO6Q7W/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Barras Luminosas  Hieha 200 Piezas Glow  al 56.42 % de descuento'
 date: 2020-02-23 14:05:13
-image: 'https://m.media-amazon.com/images/I/61Xt1PjmwpL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61Xt1PjmwpL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.49'
 
 Ahora mismo tienes [Barras Luminosas  Hieha 200 Piezas Glow Sticks para Fiesta 20cm 7 Colores con Conectores Varitas Luminosas Fluorescentes Kits para Crear Gafas/Pulseras/Collares/Flores/Pendientes](https://www.amazon.es/dp/B07YXJPGJV/?tag=tolees-21) a 16.99 EUR (original: 38.99 EUR) (56.42 %  de descuento) en el siguiente enlace!
 
-[![Barras Luminosas  Hieha 200 Piezas Glow ](https://m.media-amazon.com/images/I/61Xt1PjmwpL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07YXJPGJV/?tag=tolees-21)
+[![Barras Luminosas  Hieha 200 Piezas Glow ](https://m.media-amazon.com/images/I/61Xt1PjmwpL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07YXJPGJV/?tag=tolees-21)
 
 🔎:
 

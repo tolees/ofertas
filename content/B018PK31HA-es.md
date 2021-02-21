@@ -2,7 +2,7 @@
 layout: post
 title: 'Seiko Reloj Analógico para Mujer de Cuar al 53.46 % de descuento'
 date: 2020-07-09 05:29:35
-image: 'https://m.media-amazon.com/images/I/41Fl9J6cOlL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Fl9J6cOlL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '46.07'
 
 Está [Seiko Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable PN8002X1](https://www.amazon.es/dp/B018PK31HA/?tag=tolees-21) con 53.46 de descuento por 46.07 EUR (original: 99.0 EUR) en el siguiente enlace!
 
-[![Seiko Reloj Analógico para Mujer de Cuar](https://m.media-amazon.com/images/I/41Fl9J6cOlL._SL200_.jpg)](https://www.amazon.es/dp/B018PK31HA/?tag=tolees-21)
+[![Seiko Reloj Analógico para Mujer de Cuar](https://m.media-amazon.com/images/I/41Fl9J6cOlL._SL400_.jpg)](https://www.amazon.es/dp/B018PK31HA/?tag=tolees-21)
 
 ℹ️:
 

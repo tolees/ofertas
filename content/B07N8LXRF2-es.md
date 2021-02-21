@@ -2,7 +2,7 @@
 layout: post
 title: 'Izod Performance Pique Polo  Azul  True  al 50.27 % de descuento'
 date: 2020-01-22 19:26:54
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31ixo1D-E8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31ixo1D-E8L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.87'
 
 Ahora mismo tienes [Izod Performance Pique Polo  Azul  True Blue 426   L para Hombre](https://www.amazon.es/dp/B07N8LXRF2/?tag=tolees-21) a 14.87 EUR (original: 29.9 EUR) (50.27 %  de descuento) en el siguiente enlace!
 
-[![Izod Performance Pique Polo  Azul  True ](https://images-eu.ssl-images-amazon.com/images/I/31ixo1D-E8L._SL200_.jpg)](https://www.amazon.es/dp/B07N8LXRF2/?tag=tolees-21)
+[![Izod Performance Pique Polo  Azul  True ](https://images-eu.ssl-images-amazon.com/images/I/31ixo1D-E8L._SL400_.jpg)](https://www.amazon.es/dp/B07N8LXRF2/?tag=tolees-21)
 
 🔎:
 

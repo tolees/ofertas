@@ -2,7 +2,7 @@
 layout: post
 title: 'Rexona Desodorante Active Pro+ Original  al 66.56 % de rebaja'
 date: 2020-05-27 19:32:58
-image: 'https://m.media-amazon.com/images/I/31y4XDbO6SL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31y4XDbO6SL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.1466666666666665'
 
 Tienes [Rexona Desodorante Active Pro+ Original Mujer - 200 ml](https://www.amazon.es/dp/B07BQDD74G/?tag=tolees-21) con precio final de  1.0 EUR (original: 2.99 EUR) (66.56 %  de rebaja) aqui!
 
-[![Rexona Desodorante Active Pro+ Original ](https://m.media-amazon.com/images/I/31y4XDbO6SL._SL200_.jpg)](https://www.amazon.es/dp/B07BQDD74G/?tag=tolees-21)
+[![Rexona Desodorante Active Pro+ Original ](https://m.media-amazon.com/images/I/31y4XDbO6SL._SL400_.jpg)](https://www.amazon.es/dp/B07BQDD74G/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'HELLA 9XW 178 878-191 Limpiaparabrisas con un 47.79 % de descuento'
 date: 2020-03-19 11:36:57
-image: 'https://m.media-amazon.com/images/I/31NCwxnYhJL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31NCwxnYhJL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.3'
 
 En este momento está [HELLA 9XW 178 878-191 Limpiaparabrisas](https://www.amazon.es/dp/B00F3ZG8P8/?tag=tolees-21) a 1.3 EUR (original: 2.49 EUR) (47.79 %  de descuento) en el siguiente enlace!
 
-[![HELLA 9XW 178 878-191 Limpiaparabrisas](https://m.media-amazon.com/images/I/31NCwxnYhJL._SL200_.jpg)](https://www.amazon.es/dp/B00F3ZG8P8/?tag=tolees-21)
+[![HELLA 9XW 178 878-191 Limpiaparabrisas](https://m.media-amazon.com/images/I/31NCwxnYhJL._SL400_.jpg)](https://www.amazon.es/dp/B00F3ZG8P8/?tag=tolees-21)
 
 🔎:
 

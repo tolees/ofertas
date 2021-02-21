@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 27.77 % en Philips 62093470 Iluminación de interior'
 date: 2020-05-24 17:05:39
-image: 'https://m.media-amazon.com/images/I/31ipm4Upx2L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31ipm4Upx2L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.46'
 
 Tienes [Philips 62093470 Iluminación de interior G24d-2 2  18 W  Blanco Neutro](https://www.amazon.es/dp/B000KPS20K/?tag=tolees-21) con un 27.77 % de descuento con precio de oferta de 3.46 EUR (original: 4.79 EUR) en el siguiente enlace!
 
-[![Philips 62093470 Iluminación de interior](https://m.media-amazon.com/images/I/31ipm4Upx2L._SL200_.jpg)](https://www.amazon.es/dp/B000KPS20K/?tag=tolees-21)
+[![Philips 62093470 Iluminación de interior](https://m.media-amazon.com/images/I/31ipm4Upx2L._SL400_.jpg)](https://www.amazon.es/dp/B000KPS20K/?tag=tolees-21)
 
 ℹ️:
 

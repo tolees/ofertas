@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas Stan Smith  Zapatillas Unisex Niñ al 77.96 % de descuento'
 date: 2020-07-01 13:31:20
-image: 'https://m.media-amazon.com/images/I/417ZWIMyvuL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/417ZWIMyvuL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.01'
 
 Está [adidas Stan Smith  Zapatillas Unisex Niños  Blanco  Footwear White/Footwear White/Green 0   25 EU](https://www.amazon.es/dp/B06WP261BR/?tag=tolees-21) con 77.96 de descuento por 11.01 EUR (original: 49.95 EUR) en el siguiente enlace!
 
-[![adidas Stan Smith  Zapatillas Unisex Niñ](https://m.media-amazon.com/images/I/417ZWIMyvuL._SL200_.jpg)](https://www.amazon.es/dp/B06WP261BR/?tag=tolees-21)
+[![adidas Stan Smith  Zapatillas Unisex Niñ](https://m.media-amazon.com/images/I/417ZWIMyvuL._SL400_.jpg)](https://www.amazon.es/dp/B06WP261BR/?tag=tolees-21)
 
 ℹ️:
 

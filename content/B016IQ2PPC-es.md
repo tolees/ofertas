@@ -2,7 +2,7 @@
 layout: post
 title: 'Tienda de campaña Vinson Altus al 30.50 % de descuento'
 date: 2020-08-04 12:40:45
-image: 'https://m.media-amazon.com/images/I/31cgrLPrIOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31cgrLPrIOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '229.99'
 
 Ahora mismo tienes [Tienda de campaña Vinson Altus](https://www.amazon.es/dp/B016IQ2PPC/?tag=tolees-21) a 229.99 EUR (original: 330.9 EUR) (30.50 %  de descuento) en el siguiente enlace!
 
-[![Tienda de campaña Vinson Altus](https://m.media-amazon.com/images/I/31cgrLPrIOL._SL200_.jpg)](https://www.amazon.es/dp/B016IQ2PPC/?tag=tolees-21)
+[![Tienda de campaña Vinson Altus](https://m.media-amazon.com/images/I/31cgrLPrIOL._SL400_.jpg)](https://www.amazon.es/dp/B016IQ2PPC/?tag=tolees-21)
 
 🔎:
 

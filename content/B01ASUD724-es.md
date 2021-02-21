@@ -2,7 +2,7 @@
 layout: post
 title: 'Melissa & Doug- On The Farm Juego con Pe al 36.91 % de rebaja'
 date: 2020-04-21 15:32:19
-image: 'https://m.media-amazon.com/images/I/51O+jZ8bM2L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51O+jZ8bM2L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.735'
 
 Tienes [Melissa & Doug- On The Farm Juego con Pegatines Reutilizables  Multicolor  19408 ](https://www.amazon.es/dp/B01ASUD724/?tag=tolees-21) con precio final de  4.41 EUR (original: 6.99 EUR) (36.91 %  de rebaja) aqui!
 
-[![Melissa & Doug- On The Farm Juego con Pe](https://m.media-amazon.com/images/I/51O+jZ8bM2L._SL200_.jpg)](https://www.amazon.es/dp/B01ASUD724/?tag=tolees-21)
+[![Melissa & Doug- On The Farm Juego con Pe](https://m.media-amazon.com/images/I/51O+jZ8bM2L._SL400_.jpg)](https://www.amazon.es/dp/B01ASUD724/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 38.10 % en Set de colorear. Frozen'
 date: 2020-01-16 06:22:23
-image: 'https://images-eu.ssl-images-amazon.com/images/I/61rtTcBbjWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61rtTcBbjWL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.47'
 
 Tienes [Set de colorear. Frozen](https://www.amazon.es/dp/B01HHLM5GG/?tag=tolees-21) con un 38.10 % de descuento con precio de oferta de 2.47 EUR (original: 3.99 EUR) en el siguiente enlace!
 
-[![Set de colorear. Frozen](https://images-eu.ssl-images-amazon.com/images/I/61rtTcBbjWL._SL200_.jpg)](https://www.amazon.es/dp/B01HHLM5GG/?tag=tolees-21)
+[![Set de colorear. Frozen](https://images-eu.ssl-images-amazon.com/images/I/61rtTcBbjWL._SL400_.jpg)](https://www.amazon.es/dp/B01HHLM5GG/?tag=tolees-21)
 
 ℹ️:
 

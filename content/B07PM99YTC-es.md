@@ -2,7 +2,7 @@
 layout: post
 title: 'BRIKSMAX Kit de Iluminación Led para Min al 50.01 % de rebaja'
 date: 2020-04-07 13:24:52
-image: 'https://m.media-amazon.com/images/I/41FRJ09Y8dL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41FRJ09Y8dL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.99'
 
 Tienes [BRIKSMAX Kit de Iluminación Led para Mini Cooper-Compatible con Ladrillos de Construcción Lego Modelo 10242-Juego de Legos no Incluido](https://www.amazon.es/dp/B07PM99YTC/?tag=tolees-21) con precio final de  29.99 EUR (original: 59.99 EUR) (50.01 %  de rebaja) aqui!
 
-[![BRIKSMAX Kit de Iluminación Led para Min](https://m.media-amazon.com/images/I/41FRJ09Y8dL._SL200_.jpg)](https://www.amazon.es/dp/B07PM99YTC/?tag=tolees-21)
+[![BRIKSMAX Kit de Iluminación Led para Min](https://m.media-amazon.com/images/I/41FRJ09Y8dL._SL400_.jpg)](https://www.amazon.es/dp/B07PM99YTC/?tag=tolees-21)
 
 🔎:
 

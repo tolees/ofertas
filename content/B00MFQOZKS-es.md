@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 74.98 % en Tectonic - Reloj Analógico de Cuarzo Uni'
 date: 2020-01-28 08:43:18
-image: 'https://m.media-amazon.com/images/I/41q7YnYvmNL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41q7YnYvmNL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.99'
 
 Tienes [Tectonic - Reloj Analógico de Cuarzo Unisex  Correa de Cuero Color Negro](https://www.amazon.es/dp/B00MFQOZKS/?tag=tolees-21) con un 74.98 % de descuento con precio de oferta de 24.99 EUR (original: 99.9 EUR) en el siguiente enlace!
 
-[![Tectonic - Reloj Analógico de Cuarzo Uni](https://m.media-amazon.com/images/I/41q7YnYvmNL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B00MFQOZKS/?tag=tolees-21)
+[![Tectonic - Reloj Analógico de Cuarzo Uni](https://m.media-amazon.com/images/I/41q7YnYvmNL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B00MFQOZKS/?tag=tolees-21)
 
 ℹ️:
 

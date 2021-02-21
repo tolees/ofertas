@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 70.23 % en FMPC Carcasa con Cuerda Samsung Galaxy J'
 date: 2020-07-01 18:35:00
-image: 'https://m.media-amazon.com/images/I/41nyFeZnkqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41nyFeZnkqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.9'
 
 Tienes [FMPC Carcasa con Cuerda Samsung Galaxy J6 Plus  Cristal TPU Silicona Transparente Ultrafina de movil Case con Colgante Funda Protector Airbag [Moda y Practico] Anti-rasguños Antichoque](https://www.amazon.es/dp/B085CDBZH5/?tag=tolees-21) con un 70.23 % de descuento con precio de oferta de 8.9 EUR (original: 29.9 EUR) en el siguiente enlace!
 
-[![FMPC Carcasa con Cuerda Samsung Galaxy J](https://m.media-amazon.com/images/I/41nyFeZnkqL._SL200_.jpg)](https://www.amazon.es/dp/B085CDBZH5/?tag=tolees-21)
+[![FMPC Carcasa con Cuerda Samsung Galaxy J](https://m.media-amazon.com/images/I/41nyFeZnkqL._SL400_.jpg)](https://www.amazon.es/dp/B085CDBZH5/?tag=tolees-21)
 
 ℹ️:
 

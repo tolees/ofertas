@@ -2,7 +2,7 @@
 layout: post
 title: 'Clevefun - Cable USB C  1 m  2 unidades  al 31.99 % de rebaja'
 date: 2020-10-03 14:20:28
-image: 'https://m.media-amazon.com/images/I/41qHJxuvh8L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41qHJxuvh8L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.8'
 
 Tienes [Clevefun - Cable USB C  1 m  2 unidades  nailon resistente  USB C  3 A  para Samsung Galaxy A41  A51  A71  A40  A50  A70  S10  S9  S8 Plus  S10e  S10 lite  Xiaomi Moto y Sony](https://www.amazon.es/dp/B089Y2RHR9/?tag=tolees-21) con precio final de  9.8 EUR (original: 14.41 EUR) (31.99 %  de rebaja) aqui!
 
-[![Clevefun - Cable USB C  1 m  2 unidades ](https://m.media-amazon.com/images/I/41qHJxuvh8L._SL200_.jpg)](https://www.amazon.es/dp/B089Y2RHR9/?tag=tolees-21)
+[![Clevefun - Cable USB C  1 m  2 unidades ](https://m.media-amazon.com/images/I/41qHJxuvh8L._SL400_.jpg)](https://www.amazon.es/dp/B089Y2RHR9/?tag=tolees-21)
 
 🔎:
 

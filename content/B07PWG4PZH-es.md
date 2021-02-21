@@ -2,7 +2,7 @@
 layout: post
 title: 'Aceite de Ricino Orgánico Presionado en  al 68.81 % de rebaja'
 date: 2020-09-21 13:24:46
-image: 'https://m.media-amazon.com/images/I/519hJJaQiML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/519hJJaQiML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.48'
 
 Tienes [Aceite de Ricino Orgánico Presionado en Frío Eclat - Aceite de Jojoba Orgánico 100% Puro con Cepillo Aplicador sin Rellenos ni Aditivos para un Aceite de Ricino](https://www.amazon.es/dp/B07PWG4PZH/?tag=tolees-21) con precio final de  7.48 EUR (original: 23.98 EUR) (68.81 %  de rebaja) aqui!
 
-[![Aceite de Ricino Orgánico Presionado en ](https://m.media-amazon.com/images/I/519hJJaQiML._SL200_.jpg)](https://www.amazon.es/dp/B07PWG4PZH/?tag=tolees-21)
+[![Aceite de Ricino Orgánico Presionado en ](https://m.media-amazon.com/images/I/519hJJaQiML._SL400_.jpg)](https://www.amazon.es/dp/B07PWG4PZH/?tag=tolees-21)
 
 🔎:
 

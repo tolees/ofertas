@@ -2,7 +2,7 @@
 layout: post
 title: 'Nike SB Portmore II Solar  Zapatillas de al 50.77 % de descuento'
 date: 2020-09-12 12:24:12
-image: 'https://m.media-amazon.com/images/I/41u396PIq5L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41u396PIq5L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '34.95'
 
 Ahora mismo tienes [Nike SB Portmore II Solar  Zapatillas de Skateboard para Hombre  Negro  Black/Dk Grey/Gum Lt Brown 009   36 1/2 EU](https://www.amazon.es/dp/B01K3IM5Y2/?tag=tolees-21) a 34.95 EUR (original: 71.0 EUR) (50.77 %  de descuento) en el siguiente enlace!
 
-[![Nike SB Portmore II Solar  Zapatillas de](https://m.media-amazon.com/images/I/41u396PIq5L._SL200_.jpg)](https://www.amazon.es/dp/B01K3IM5Y2/?tag=tolees-21)
+[![Nike SB Portmore II Solar  Zapatillas de](https://m.media-amazon.com/images/I/41u396PIq5L._SL400_.jpg)](https://www.amazon.es/dp/B01K3IM5Y2/?tag=tolees-21)
 
 🔎:
 

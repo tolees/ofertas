@@ -2,7 +2,7 @@
 layout: post
 title: 'Ghd 60950 - Cepillo de pelo al 31.29 % de descuento'
 date: 2020-05-25 09:12:17
-image: 'https://m.media-amazon.com/images/I/41Xdo2yPnHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Xdo2yPnHL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.76375'
 
 Ahora mismo tienes [Ghd 60950 - Cepillo de pelo](https://www.amazon.es/dp/B00JR24JM2/?tag=tolees-21) a 19.24 EUR (original: 28.0 EUR) (31.29 %  de descuento) en el siguiente enlace!
 
-[![Ghd 60950 - Cepillo de pelo](https://m.media-amazon.com/images/I/41Xdo2yPnHL._SL200_.jpg)](https://www.amazon.es/dp/B00JR24JM2/?tag=tolees-21)
+[![Ghd 60950 - Cepillo de pelo](https://m.media-amazon.com/images/I/41Xdo2yPnHL._SL400_.jpg)](https://www.amazon.es/dp/B00JR24JM2/?tag=tolees-21)
 
 🔎:
 

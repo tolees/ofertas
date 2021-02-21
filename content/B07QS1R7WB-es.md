@@ -2,7 +2,7 @@
 layout: post
 title: 'EACLL GU10 Bases para Lámparas  Casquill al 40.54 % de descuento'
 date: 2020-10-05 13:50:57
-image: 'https://m.media-amazon.com/images/I/41JBiLaifWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41JBiLaifWL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.465'
 
 Ahora mismo tienes [EACLL GU10 Bases para Lámparas  Casquillo Portalámparas Zócalo de Cerámica  Con Cable de Silicona de Calidad  Conector Para LED GU10 y Bombilla Halógena  Pack de 10](https://www.amazon.es/dp/B07QS1R7WB/?tag=tolees-21) a 5.94 EUR (original: 9.99 EUR) (40.54 %  de descuento) en el siguiente enlace!
 
-[![EACLL GU10 Bases para Lámparas  Casquill](https://m.media-amazon.com/images/I/41JBiLaifWL._SL200_.jpg)](https://www.amazon.es/dp/B07QS1R7WB/?tag=tolees-21)
+[![EACLL GU10 Bases para Lámparas  Casquill](https://m.media-amazon.com/images/I/41JBiLaifWL._SL400_.jpg)](https://www.amazon.es/dp/B07QS1R7WB/?tag=tolees-21)
 
 🔎:
 

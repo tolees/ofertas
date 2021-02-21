@@ -2,7 +2,7 @@
 layout: post
 title: 'GP-PRO GB10L-B 12V 11Ah GEL Batería de a al 36.41 % de rebaja'
 date: 2020-08-07 07:06:38
-image: 'https://m.media-amazon.com/images/I/41XMBg-RA8L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41XMBg-RA8L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '52.21'
 
 Tienes [GP-PRO GB10L-B 12V 11Ah GEL Batería de arranque  compatible con YB10L-B / YB10L-B2   Sin necesidad de mantenimiento/Sellado  Scooters y Motos Acumulador](https://www.amazon.es/dp/B07NS4NHTT/?tag=tolees-21) con precio final de  52.21 EUR (original: 82.11 EUR) (36.41 %  de rebaja) aqui!
 
-[![GP-PRO GB10L-B 12V 11Ah GEL Batería de a](https://m.media-amazon.com/images/I/41XMBg-RA8L._SL200_.jpg)](https://www.amazon.es/dp/B07NS4NHTT/?tag=tolees-21)
+[![GP-PRO GB10L-B 12V 11Ah GEL Batería de a](https://m.media-amazon.com/images/I/41XMBg-RA8L._SL400_.jpg)](https://www.amazon.es/dp/B07NS4NHTT/?tag=tolees-21)
 
 🔎:
 

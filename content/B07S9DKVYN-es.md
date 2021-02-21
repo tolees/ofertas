@@ -2,7 +2,7 @@
 layout: post
 title: 'Lee Rider Tonal Jeans  Moto Worn  36W /  al 66.23 % de rebaja'
 date: 2020-09-18 06:09:29
-image: 'https://m.media-amazon.com/images/I/41Gro7rTcaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Gro7rTcaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '45.35'
 
 Tienes [Lee Rider Tonal Jeans  Moto Worn  36W / 34L para Hombre](https://www.amazon.es/dp/B07S9DKVYN/?tag=tolees-21) con precio final de  33.75 EUR (original: 99.95 EUR) (66.23 %  de rebaja) aqui!
 
-[![Lee Rider Tonal Jeans  Moto Worn  36W / ](https://m.media-amazon.com/images/I/41Gro7rTcaL._SL200_.jpg)](https://www.amazon.es/dp/B07S9DKVYN/?tag=tolees-21)
+[![Lee Rider Tonal Jeans  Moto Worn  36W / ](https://m.media-amazon.com/images/I/41Gro7rTcaL._SL400_.jpg)](https://www.amazon.es/dp/B07S9DKVYN/?tag=tolees-21)
 
 🔎:
 

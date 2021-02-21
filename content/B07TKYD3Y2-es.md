@@ -2,7 +2,7 @@
 layout: post
 title: 'The North Face B Glacier Full Zip H Unis al 31.50 % de descuento'
 date: 2020-01-31 20:39:06
-image: 'https://m.media-amazon.com/images/I/31qW7uDy0+L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31qW7uDy0+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '34.25'
 
 Ahora mismo tienes [The North Face B Glacier Full Zip H Unisex Niños  TNF Blue  L](https://www.amazon.es/dp/B07TKYD3Y2/?tag=tolees-21) a 34.25 EUR (original: 50.0 EUR) (31.50 %  de descuento) en el siguiente enlace!
 
-[![The North Face B Glacier Full Zip H Unis](https://m.media-amazon.com/images/I/31qW7uDy0+L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07TKYD3Y2/?tag=tolees-21)
+[![The North Face B Glacier Full Zip H Unis](https://m.media-amazon.com/images/I/31qW7uDy0+L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07TKYD3Y2/?tag=tolees-21)
 
 🔎:
 

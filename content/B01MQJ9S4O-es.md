@@ -2,7 +2,7 @@
 layout: post
 title: 'Haba 302347 Terra - Fútbol Infantil al 44.40 % de rebaja'
 date: 2020-01-20 16:02:11
-image: 'https://images-eu.ssl-images-amazon.com/images/I/5185m5EhTHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/5185m5EhTHL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.9'
 
 Tienes [Haba 302347 Terra - Fútbol Infantil](https://www.amazon.es/dp/B01MQJ9S4O/?tag=tolees-21) con precio final de  13.9 EUR (original: 25 EUR) (44.40 %  de rebaja) aqui!
 
-[![Haba 302347 Terra - Fútbol Infantil](https://images-eu.ssl-images-amazon.com/images/I/5185m5EhTHL._SL200_.jpg)](https://www.amazon.es/dp/B01MQJ9S4O/?tag=tolees-21)
+[![Haba 302347 Terra - Fútbol Infantil](https://images-eu.ssl-images-amazon.com/images/I/5185m5EhTHL._SL400_.jpg)](https://www.amazon.es/dp/B01MQJ9S4O/?tag=tolees-21)
 
 🔎:
 

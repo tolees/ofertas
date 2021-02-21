@@ -2,7 +2,7 @@
 layout: post
 title: 'Cecotec 04225 Secador de pelo Bamba Ioni al 30.93 % de rebaja'
 date: 2020-07-02 09:02:04
-image: 'https://m.media-amazon.com/images/I/41a9C4xH2QL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41a9C4xH2QL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '69.0'
 
 Tienes [Cecotec 04225 Secador de pelo Bamba IoniCare 6000 RockStar Vision  motor Digital Brushless  2000 W  5 ajustes de temperatura  color gris](https://www.amazon.es/dp/B082MKQ4BW/?tag=tolees-21) con precio final de  69.0 EUR (original: 99.9 EUR) (30.93 %  de rebaja) aqui!
 
-[![Cecotec 04225 Secador de pelo Bamba Ioni](https://m.media-amazon.com/images/I/41a9C4xH2QL._SL200_.jpg)](https://www.amazon.es/dp/B082MKQ4BW/?tag=tolees-21)
+[![Cecotec 04225 Secador de pelo Bamba Ioni](https://m.media-amazon.com/images/I/41a9C4xH2QL._SL400_.jpg)](https://www.amazon.es/dp/B082MKQ4BW/?tag=tolees-21)
 
 🔎:
 

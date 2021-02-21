@@ -2,7 +2,7 @@
 layout: post
 title: 'Armani Exchange Reloj Hombre de Digital  al 40.00 % de descuento'
 date: 2020-05-25 12:26:08
-image: 'https://m.media-amazon.com/images/I/41xmEednpxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41xmEednpxL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '179.4'
 
 Ahora mismo tienes [Armani Exchange Reloj Hombre de Digital con Correa en Acero Inoxidable AXT2000](https://www.amazon.es/dp/B07FFKX7JC/?tag=tolees-21) a 179.4 EUR (original: 299.0 EUR) (40.00 %  de descuento) en el siguiente enlace!
 
-[![Armani Exchange Reloj Hombre de Digital ](https://m.media-amazon.com/images/I/41xmEednpxL._SL200_.jpg)](https://www.amazon.es/dp/B07FFKX7JC/?tag=tolees-21)
+[![Armani Exchange Reloj Hombre de Digital ](https://m.media-amazon.com/images/I/41xmEednpxL._SL400_.jpg)](https://www.amazon.es/dp/B07FFKX7JC/?tag=tolees-21)
 
 🔎:
 

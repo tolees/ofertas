@@ -2,7 +2,7 @@
 layout: post
 title: 'Leepesx Termómetro infrarrojo digital Me al 34.51 % de descuento'
 date: 2020-07-20 19:43:15
-image: 'https://m.media-amazon.com/images/I/41cB8THeiML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41cB8THeiML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.12'
 
 Ahora mismo tienes [Leepesx Termómetro infrarrojo digital Medidor de temperatura Objeto Dispositivo de medición de temperatura sin contacto 4 Modos de configuración 99 Memorias ℃ y ℉ Conmutable](https://www.amazon.es/dp/B087RH7VGB/?tag=tolees-21) a 11.48 EUR (original: 17.53 EUR) (34.51 %  de descuento) en el siguiente enlace!
 
-[![Leepesx Termómetro infrarrojo digital Me](https://m.media-amazon.com/images/I/41cB8THeiML._SL200_.jpg)](https://www.amazon.es/dp/B087RH7VGB/?tag=tolees-21)
+[![Leepesx Termómetro infrarrojo digital Me](https://m.media-amazon.com/images/I/41cB8THeiML._SL400_.jpg)](https://www.amazon.es/dp/B087RH7VGB/?tag=tolees-21)
 
 🔎:
 

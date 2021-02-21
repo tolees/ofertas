@@ -2,7 +2,7 @@
 layout: post
 title: 'Lepfun P3000 1 pcs Correa Protector Depo al 30.02 % de descuento'
 date: 2020-01-21 11:42:36
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51U-ygUSi-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51U-ygUSi-L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.99'
 
 Está [Lepfun P3000 1 pcs Correa Protector Deportiva Ajustable de Rodilla para Gimnasio Bádminton Baloncesto deporte al aire - Negro  Small/Medium ](https://www.amazon.es/dp/B06XKDTWSC/?tag=tolees-21) con 30.02 de descuento por 13.99 EUR (original: 19.99 EUR) en el siguiente enlace!
 
-[![Lepfun P3000 1 pcs Correa Protector Depo](https://images-eu.ssl-images-amazon.com/images/I/51U-ygUSi-L._SL200_.jpg)](https://www.amazon.es/dp/B06XKDTWSC/?tag=tolees-21)
+[![Lepfun P3000 1 pcs Correa Protector Depo](https://images-eu.ssl-images-amazon.com/images/I/51U-ygUSi-L._SL400_.jpg)](https://www.amazon.es/dp/B06XKDTWSC/?tag=tolees-21)
 
 ℹ️:
 

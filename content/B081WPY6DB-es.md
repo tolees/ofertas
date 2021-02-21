@@ -2,7 +2,7 @@
 layout: post
 title: 'El Ministerio del Tiempo - Temporadas 1  al 34.99 % de descuento'
 date: 2020-03-04 11:58:59
-image: 'https://m.media-amazon.com/images/I/51neKgzlreL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51neKgzlreL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '37.32'
 
 Está [El Ministerio del Tiempo - Temporadas 1 a 3 [Blu-ray]](https://www.amazon.es/dp/B081WPY6DB/?tag=tolees-21) con 34.99 de descuento por 37.32 EUR (original: 57.41 EUR) en el siguiente enlace!
 
-[![El Ministerio del Tiempo - Temporadas 1 ](https://m.media-amazon.com/images/I/51neKgzlreL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B081WPY6DB/?tag=tolees-21)
+[![El Ministerio del Tiempo - Temporadas 1 ](https://m.media-amazon.com/images/I/51neKgzlreL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B081WPY6DB/?tag=tolees-21)
 
 ℹ️:
 

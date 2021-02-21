@@ -2,7 +2,7 @@
 layout: post
 title: 'Fujifilm X-T30 Cuerpo  cámara de Objetiv al 31.61 % de descuento'
 date: 2020-02-29 07:39:03
-image: 'https://m.media-amazon.com/images/I/41UTM653wAL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41UTM653wAL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '704.1'
 
 Ahora mismo tienes [Fujifilm X-T30 Cuerpo  cámara de Objetivo Intercambiable  Color Plata](https://www.amazon.es/dp/B07NLT3QV7/?tag=tolees-21) a 649.0 EUR (original: 949.0 EUR) (31.61 %  de descuento) en el siguiente enlace!
 
-[![Fujifilm X-T30 Cuerpo  cámara de Objetiv](https://m.media-amazon.com/images/I/41UTM653wAL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07NLT3QV7/?tag=tolees-21)
+[![Fujifilm X-T30 Cuerpo  cámara de Objetiv](https://m.media-amazon.com/images/I/41UTM653wAL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07NLT3QV7/?tag=tolees-21)
 
 🔎:
 

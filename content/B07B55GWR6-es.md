@@ -2,7 +2,7 @@
 layout: post
 title: 'Gabol Maleta Unisex  Azul  50 cm al 55.26 % de descuento'
 date: 2020-03-17 18:03:06
-image: 'https://m.media-amazon.com/images/I/41ZHTqBoCML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ZHTqBoCML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '33.11'
 
 Está [Gabol Maleta Unisex  Azul  50 cm](https://www.amazon.es/dp/B07B55GWR6/?tag=tolees-21) con 55.26 de descuento por 33.11 EUR (original: 74.0 EUR) en el siguiente enlace!
 
-[![Gabol Maleta Unisex  Azul  50 cm](https://m.media-amazon.com/images/I/41ZHTqBoCML._SL200_.jpg)](https://www.amazon.es/dp/B07B55GWR6/?tag=tolees-21)
+[![Gabol Maleta Unisex  Azul  50 cm](https://m.media-amazon.com/images/I/41ZHTqBoCML._SL400_.jpg)](https://www.amazon.es/dp/B07B55GWR6/?tag=tolees-21)
 
 ℹ️:
 

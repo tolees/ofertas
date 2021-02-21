@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger Bralette Corsetto  Negro  al 36.49 % de rebaja'
 date: 2020-06-23 05:46:40
-image: 'https://m.media-amazon.com/images/I/415+eGbu68L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/415+eGbu68L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.704285714285714'
 
 Tienes [Tommy Hilfiger Bralette Corsetto  Negro  BLACK 990   34  talla del fabricante: SM  para Mujer](https://www.amazon.es/dp/B00UT2NX4Y/?tag=tolees-21) con precio final de  18.99 EUR (original: 29.9 EUR) (36.49 %  de rebaja) aqui!
 
-[![Tommy Hilfiger Bralette Corsetto  Negro ](https://m.media-amazon.com/images/I/415+eGbu68L._SL200_.jpg)](https://www.amazon.es/dp/B00UT2NX4Y/?tag=tolees-21)
+[![Tommy Hilfiger Bralette Corsetto  Negro ](https://m.media-amazon.com/images/I/415+eGbu68L._SL400_.jpg)](https://www.amazon.es/dp/B00UT2NX4Y/?tag=tolees-21)
 
 🔎:
 

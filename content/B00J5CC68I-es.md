@@ -2,7 +2,7 @@
 layout: post
 title: 'The London Nº1 Ginebra - 1000 ml con un 36.99 % de descuento'
 date: 2020-08-20 07:08:43
-image: 'https://m.media-amazon.com/images/I/31pI9dMtUkL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31pI9dMtUkL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '25.935'
 
 En este momento está [The London Nº1 Ginebra - 1000 ml](https://www.amazon.es/dp/B00J5CC68I/?tag=tolees-21) a 23.0 EUR (original: 36.5 EUR) (36.99 %  de descuento) en el siguiente enlace!
 
-[![The London Nº1 Ginebra - 1000 ml](https://m.media-amazon.com/images/I/31pI9dMtUkL._SL200_.jpg)](https://www.amazon.es/dp/B00J5CC68I/?tag=tolees-21)
+[![The London Nº1 Ginebra - 1000 ml](https://m.media-amazon.com/images/I/31pI9dMtUkL._SL400_.jpg)](https://www.amazon.es/dp/B00J5CC68I/?tag=tolees-21)
 
 🔎:
 

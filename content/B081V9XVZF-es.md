@@ -2,7 +2,7 @@
 layout: post
 title: 'Disfraz Familiar Carnaval Trajes Super M al 75.02 % de rebaja'
 date: 2020-01-22 14:42:53
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51Rh5dcaw2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Rh5dcaw2L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.99'
 
 Tienes [Disfraz Familiar Carnaval Trajes Super Mario Luigi para Niños Adultos Disfraces Fiesta de Carnaval de Halloween Cosplay Sombrero + Ropa + Barba 3 Piezas](https://www.amazon.es/dp/B081V9XVZF/?tag=tolees-21) con precio final de  8.99 EUR (original: 35.99 EUR) (75.02 %  de rebaja) aqui!
 
-[![Disfraz Familiar Carnaval Trajes Super M](https://images-eu.ssl-images-amazon.com/images/I/51Rh5dcaw2L._SL200_.jpg)](https://www.amazon.es/dp/B081V9XVZF/?tag=tolees-21)
+[![Disfraz Familiar Carnaval Trajes Super M](https://images-eu.ssl-images-amazon.com/images/I/51Rh5dcaw2L._SL400_.jpg)](https://www.amazon.es/dp/B081V9XVZF/?tag=tolees-21)
 
 🔎:
 

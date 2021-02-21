@@ -2,7 +2,7 @@
 layout: post
 title: 'IMC Toys- GOLOSINI S Juguete  Color vari al 62.51 % de descuento'
 date: 2020-08-22 18:16:34
-image: 'https://m.media-amazon.com/images/I/51v8dkPcLML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51v8dkPcLML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.558'
 
 Ahora mismo tienes [IMC Toys- GOLOSINI S Juguete  Color variado  Talla unica  China 1    color/modelo surtido](https://www.amazon.es/dp/B07NGVPTWZ/?tag=tolees-21) a 9.37 EUR (original: 24.99 EUR) (62.51 %  de descuento) en el siguiente enlace!
 
-[![IMC Toys- GOLOSINI S Juguete  Color vari](https://m.media-amazon.com/images/I/51v8dkPcLML._SL200_.jpg)](https://www.amazon.es/dp/B07NGVPTWZ/?tag=tolees-21)
+[![IMC Toys- GOLOSINI S Juguete  Color vari](https://m.media-amazon.com/images/I/51v8dkPcLML._SL400_.jpg)](https://www.amazon.es/dp/B07NGVPTWZ/?tag=tolees-21)
 
 🔎:
 

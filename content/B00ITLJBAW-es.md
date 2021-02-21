@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 76.30 % en Quasar FOBOS - Ratón  Óptico  USB  3200 '
 date: 2020-07-11 21:09:05
-image: 'https://m.media-amazon.com/images/I/314ID+MJKoL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/314ID+MJKoL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.36'
 
 Tienes [Quasar FOBOS - Ratón  Óptico  USB  3200 DPI  Negro ](https://www.amazon.es/dp/B00ITLJBAW/?tag=tolees-21) con un 76.30 % de descuento con precio de oferta de 3.36 EUR (original: 14.18 EUR) en el siguiente enlace!
 
-[![Quasar FOBOS - Ratón  Óptico  USB  3200 ](https://m.media-amazon.com/images/I/314ID+MJKoL._SL200_.jpg)](https://www.amazon.es/dp/B00ITLJBAW/?tag=tolees-21)
+[![Quasar FOBOS - Ratón  Óptico  USB  3200 ](https://m.media-amazon.com/images/I/314ID+MJKoL._SL400_.jpg)](https://www.amazon.es/dp/B00ITLJBAW/?tag=tolees-21)
 
 ℹ️:
 

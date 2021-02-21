@@ -2,7 +2,7 @@
 layout: post
 title: 'K&N AL-1004 Filtro de Aire para Aprilia  al 37.03 % de descuento'
 date: 2020-05-22 20:42:33
-image: 'https://m.media-amazon.com/images/I/41GzXSkqb2L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41GzXSkqb2L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '63.93'
 
 Ahora mismo tienes [K&N AL-1004 Filtro de Aire para Aprilia RSV MILLE 2004 RSV 1000 05-12 Moto](https://www.amazon.es/dp/B000E2CRUA/?tag=tolees-21) a 63.93 EUR (original: 101.53 EUR) (37.03 %  de descuento) en el siguiente enlace!
 
-[![K&N AL-1004 Filtro de Aire para Aprilia ](https://m.media-amazon.com/images/I/41GzXSkqb2L._SL200_.jpg)](https://www.amazon.es/dp/B000E2CRUA/?tag=tolees-21)
+[![K&N AL-1004 Filtro de Aire para Aprilia ](https://m.media-amazon.com/images/I/41GzXSkqb2L._SL400_.jpg)](https://www.amazon.es/dp/B000E2CRUA/?tag=tolees-21)
 
 🔎:
 

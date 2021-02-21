@@ -2,7 +2,7 @@
 layout: post
 title: 'Dell 470-13630 - Cable DisplayPort a VGA al 54.96 % de rebaja'
 date: 2020-04-22 10:48:44
-image: 'https://m.media-amazon.com/images/I/31QdgSeGb5L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31QdgSeGb5L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.9'
 
 Tienes [Dell 470-13630 - Cable DisplayPort a VGA  Negro](https://www.amazon.es/dp/B00GK5Z1E4/?tag=tolees-21) con precio final de  10.9 EUR (original: 24.2 EUR) (54.96 %  de rebaja) aqui!
 
-[![Dell 470-13630 - Cable DisplayPort a VGA](https://m.media-amazon.com/images/I/31QdgSeGb5L._SL200_.jpg)](https://www.amazon.es/dp/B00GK5Z1E4/?tag=tolees-21)
+[![Dell 470-13630 - Cable DisplayPort a VGA](https://m.media-amazon.com/images/I/31QdgSeGb5L._SL400_.jpg)](https://www.amazon.es/dp/B00GK5Z1E4/?tag=tolees-21)
 
 🔎:
 

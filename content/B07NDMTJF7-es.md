@@ -2,7 +2,7 @@
 layout: post
 title: 'G-STAR RAW Drego Belt Cinturón  Multicol al 65.65 % de descuento'
 date: 2020-03-28 17:20:13
-image: 'https://m.media-amazon.com/images/I/41Uw5aVka-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Uw5aVka-L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.7'
 
 Ahora mismo tienes [G-STAR RAW Drego Belt Cinturón  Multicolor  Natural/Antic Silver A067   120 para Hombre](https://www.amazon.es/dp/B07NDMTJF7/?tag=tolees-21) a 20.59 EUR (original: 59.95 EUR) (65.65 %  de descuento) en el siguiente enlace!
 
-[![G-STAR RAW Drego Belt Cinturón  Multicol](https://m.media-amazon.com/images/I/41Uw5aVka-L._SL200_.jpg)](https://www.amazon.es/dp/B07NDMTJF7/?tag=tolees-21)
+[![G-STAR RAW Drego Belt Cinturón  Multicol](https://m.media-amazon.com/images/I/41Uw5aVka-L._SL400_.jpg)](https://www.amazon.es/dp/B07NDMTJF7/?tag=tolees-21)
 
 🔎:
 

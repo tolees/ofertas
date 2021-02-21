@@ -2,7 +2,7 @@
 layout: post
 title: 'Funko- Pop Figura de Vinilo: Música Morr con un 31.54 % de descuento'
 date: 2020-05-04 07:29:26
-image: 'https://m.media-amazon.com/images/I/41JoEWuyIqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41JoEWuyIqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.501666666666667'
 
 En este momento está [Funko- Pop Figura de Vinilo: Música Morrissey Coleccionable  Multicolor  40091 ](https://www.amazon.es/dp/B07MZRZH88/?tag=tolees-21) a 8.27 EUR (original: 12.08 EUR) (31.54 %  de descuento) en el siguiente enlace!
 
-[![Funko- Pop Figura de Vinilo: Música Morr](https://m.media-amazon.com/images/I/41JoEWuyIqL._SL200_.jpg)](https://www.amazon.es/dp/B07MZRZH88/?tag=tolees-21)
+[![Funko- Pop Figura de Vinilo: Música Morr](https://m.media-amazon.com/images/I/41JoEWuyIqL._SL400_.jpg)](https://www.amazon.es/dp/B07MZRZH88/?tag=tolees-21)
 
 🔎:
 

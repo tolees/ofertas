@@ -2,7 +2,7 @@
 layout: post
 title: 'Le Coq Sportif COURTSTAR Sport  Zapatill al 31.13 % de descuento'
 date: 2020-02-01 11:45:40
-image: 'https://m.media-amazon.com/images/I/31MAootnxeL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31MAootnxeL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '31.21'
 
 Ahora mismo tienes [Le Coq Sportif COURTSTAR Sport  Zapatillas para Hombre  Blanco  Optical White/Evergreen Optical White/Evergreen   43 EU](https://www.amazon.es/dp/B07MNGYKKD/?tag=tolees-21) a 31.21 EUR (original: 45.32 EUR) (31.13 %  de descuento) en el siguiente enlace!
 
-[![Le Coq Sportif COURTSTAR Sport  Zapatill](https://m.media-amazon.com/images/I/31MAootnxeL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07MNGYKKD/?tag=tolees-21)
+[![Le Coq Sportif COURTSTAR Sport  Zapatill](https://m.media-amazon.com/images/I/31MAootnxeL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07MNGYKKD/?tag=tolees-21)
 
 🔎:
 

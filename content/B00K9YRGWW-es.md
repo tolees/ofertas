@@ -2,7 +2,7 @@
 layout: post
 title: 'Original Album Classics. 5cd Slipcase al 36.32 % de rebaja'
 date: 2020-09-18 05:58:06
-image: 'https://m.media-amazon.com/images/I/41wFPAu3rbL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41wFPAu3rbL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.4'
 
 Tienes [Original Album Classics. 5cd Slipcase](https://www.amazon.es/dp/B00K9YRGWW/?tag=tolees-21) con precio final de  8.4 EUR (original: 13.19 EUR) (36.32 %  de rebaja) aqui!
 
-[![Original Album Classics. 5cd Slipcase](https://m.media-amazon.com/images/I/41wFPAu3rbL._SL200_.jpg)](https://www.amazon.es/dp/B00K9YRGWW/?tag=tolees-21)
+[![Original Album Classics. 5cd Slipcase](https://m.media-amazon.com/images/I/41wFPAu3rbL._SL400_.jpg)](https://www.amazon.es/dp/B00K9YRGWW/?tag=tolees-21)
 
 🔎:
 

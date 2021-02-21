@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 55.12 % en Funko 3014 - Game Of Thrones  Tyrion Lan'
 date: 2020-03-07 02:29:35
-image: 'https://m.media-amazon.com/images/I/51fyfow3GHL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51fyfow3GHL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.72'
 
 Tienes [Funko 3014 - Game Of Thrones  Tyrion Lannister  figura de vinilo  10 cm](https://www.amazon.es/dp/B009B10BHQ/?tag=tolees-21) con un 55.12 % de descuento con precio de oferta de 6.71 EUR (original: 14.95 EUR) en el siguiente enlace!
 
-[![Funko 3014 - Game Of Thrones  Tyrion Lan](https://m.media-amazon.com/images/I/51fyfow3GHL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B009B10BHQ/?tag=tolees-21)
+[![Funko 3014 - Game Of Thrones  Tyrion Lan](https://m.media-amazon.com/images/I/51fyfow3GHL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B009B10BHQ/?tag=tolees-21)
 
 ℹ️:
 

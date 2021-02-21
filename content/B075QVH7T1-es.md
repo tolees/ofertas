@@ -2,7 +2,7 @@
 layout: post
 title: 'Figura Vinyl Cuphead al 36.99 % de descuento'
 date: 2020-06-21 16:20:01
-image: 'https://m.media-amazon.com/images/I/31r-ksIu+ZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31r-ksIu+ZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.866666666666665'
 
 Está [Figura Vinyl Cuphead](https://www.amazon.es/dp/B075QVH7T1/?tag=tolees-21) con 36.99 de descuento por 8.79 EUR (original: 13.95 EUR) en el siguiente enlace!
 
-[![Figura Vinyl Cuphead](https://m.media-amazon.com/images/I/31r-ksIu+ZL._SL200_.jpg)](https://www.amazon.es/dp/B075QVH7T1/?tag=tolees-21)
+[![Figura Vinyl Cuphead](https://m.media-amazon.com/images/I/31r-ksIu+ZL._SL400_.jpg)](https://www.amazon.es/dp/B075QVH7T1/?tag=tolees-21)
 
 ℹ️:
 

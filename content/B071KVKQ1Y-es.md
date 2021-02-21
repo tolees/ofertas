@@ -2,7 +2,7 @@
 layout: post
 title: 'Linksys EA8300 - Router Wi-Fi AC2200 Tri al 25.90 % de descuento'
 date: 2020-07-26 18:43:12
-image: 'https://m.media-amazon.com/images/I/41wU2U-A7zL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41wU2U-A7zL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '112.12444444444444'
 
 Está [Linksys EA8300 - Router Wi-Fi AC2200 Tri-Banda MAX-Stream  MU-MIMO  4 Antenas  Beamforming  4 x Gigabit Ethernet  1 x USB 3.0  Color Negro](https://www.amazon.es/dp/B071KVKQ1Y/?tag=tolees-21) con 25.90 de descuento por 111.15 EUR (original: 149.99 EUR) en el siguiente enlace!
 
-[![Linksys EA8300 - Router Wi-Fi AC2200 Tri](https://m.media-amazon.com/images/I/41wU2U-A7zL._SL200_.jpg)](https://www.amazon.es/dp/B071KVKQ1Y/?tag=tolees-21)
+[![Linksys EA8300 - Router Wi-Fi AC2200 Tri](https://m.media-amazon.com/images/I/41wU2U-A7zL._SL400_.jpg)](https://www.amazon.es/dp/B071KVKQ1Y/?tag=tolees-21)
 
 ℹ️:
 

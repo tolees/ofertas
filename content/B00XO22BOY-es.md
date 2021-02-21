@@ -2,7 +2,7 @@
 layout: post
 title: 'Zentrum Gastrocap con Aloe Vera  Propóle al 52.10 % de descuento'
 date: 2020-03-16 13:49:53
-image: 'https://m.media-amazon.com/images/I/41mU8ePexfL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41mU8ePexfL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.0'
 
 Ahora mismo tienes [Zentrum Gastrocap con Aloe Vera  Propóleo y Papaina - 30 Cápsulas](https://www.amazon.es/dp/B00XO22BOY/?tag=tolees-21) a 4.0 EUR (original: 8.35 EUR) (52.10 %  de descuento) en el siguiente enlace!
 
-[![Zentrum Gastrocap con Aloe Vera  Propóle](https://m.media-amazon.com/images/I/41mU8ePexfL._SL200_.jpg)](https://www.amazon.es/dp/B00XO22BOY/?tag=tolees-21)
+[![Zentrum Gastrocap con Aloe Vera  Propóle](https://m.media-amazon.com/images/I/41mU8ePexfL._SL400_.jpg)](https://www.amazon.es/dp/B00XO22BOY/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 36.24 % en Salomon XA Pro 3D GTX  Zapatillas de Tra'
 date: 2020-01-23 12:36:10
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41uDZf3fYnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41uDZf3fYnL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '101.02'
 
 Tienes [Salomon XA Pro 3D GTX  Zapatillas de Trail Running para Hombre  Negro/Lima  Black/Lime Green/White   43 1/3 EU](https://www.amazon.es/dp/B07CZJD5YQ/?tag=tolees-21) con un 36.24 % de descuento con precio de oferta de 101.99 EUR (original: 159.95 EUR) en el siguiente enlace!
 
-[![Salomon XA Pro 3D GTX  Zapatillas de Tra](https://images-eu.ssl-images-amazon.com/images/I/41uDZf3fYnL._SL200_.jpg)](https://www.amazon.es/dp/B07CZJD5YQ/?tag=tolees-21)
+[![Salomon XA Pro 3D GTX  Zapatillas de Tra](https://images-eu.ssl-images-amazon.com/images/I/41uDZf3fYnL._SL400_.jpg)](https://www.amazon.es/dp/B07CZJD5YQ/?tag=tolees-21)
 
 ℹ️:
 

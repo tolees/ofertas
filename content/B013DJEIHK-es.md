@@ -2,7 +2,7 @@
 layout: post
 title: 'Skylanders SuperCharges - Figura Shark T con un 25.53 % de descuento'
 date: 2020-03-27 15:46:02
-image: 'https://m.media-amazon.com/images/I/51bOPBJLKQL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51bOPBJLKQL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.545'
 
 En este momento está [Skylanders SuperCharges - Figura Shark Tank  Vehicle ](https://www.amazon.es/dp/B013DJEIHK/?tag=tolees-21) a 5.95 EUR (original: 7.99 EUR) (25.53 %  de descuento) en el siguiente enlace!
 
-[![Skylanders SuperCharges - Figura Shark T](https://m.media-amazon.com/images/I/51bOPBJLKQL._SL200_.jpg)](https://www.amazon.es/dp/B013DJEIHK/?tag=tolees-21)
+[![Skylanders SuperCharges - Figura Shark T](https://m.media-amazon.com/images/I/51bOPBJLKQL._SL400_.jpg)](https://www.amazon.es/dp/B013DJEIHK/?tag=tolees-21)
 
 🔎:
 

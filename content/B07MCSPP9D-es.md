@@ -2,7 +2,7 @@
 layout: post
 title: 'Napapijri DAIN C Suéter  Gris  Dark Grey al 84.78 % de rebaja'
 date: 2020-04-04 16:43:14
-image: 'https://m.media-amazon.com/images/I/41h4syxp6gL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41h4syxp6gL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.15'
 
 Tienes [Napapijri DAIN C Suéter  Gris  Dark Grey Mel 197   S para Hombre](https://www.amazon.es/dp/B07MCSPP9D/?tag=tolees-21) con precio final de  21.15 EUR (original: 139.0 EUR) (84.78 %  de rebaja) aqui!
 
-[![Napapijri DAIN C Suéter  Gris  Dark Grey](https://m.media-amazon.com/images/I/41h4syxp6gL._SL200_.jpg)](https://www.amazon.es/dp/B07MCSPP9D/?tag=tolees-21)
+[![Napapijri DAIN C Suéter  Gris  Dark Grey](https://m.media-amazon.com/images/I/41h4syxp6gL._SL400_.jpg)](https://www.amazon.es/dp/B07MCSPP9D/?tag=tolees-21)
 
 🔎:
 

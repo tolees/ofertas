@@ -2,7 +2,7 @@
 layout: post
 title: 'White Day: A Labyrinth Named School al 46.42 % de descuento'
 date: 2020-04-06 16:31:26
-image: 'https://m.media-amazon.com/images/I/51b2WkLR-WL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51b2WkLR-WL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.07'
 
 Ahora mismo tienes [White Day: A Labyrinth Named School](https://www.amazon.es/dp/B072JW7YLZ/?tag=tolees-21) a 16.07 EUR (original: 29.99 EUR) (46.42 %  de descuento) en el siguiente enlace!
 
-[![White Day: A Labyrinth Named School](https://m.media-amazon.com/images/I/51b2WkLR-WL._SL200_.jpg)](https://www.amazon.es/dp/B072JW7YLZ/?tag=tolees-21)
+[![White Day: A Labyrinth Named School](https://m.media-amazon.com/images/I/51b2WkLR-WL._SL400_.jpg)](https://www.amazon.es/dp/B072JW7YLZ/?tag=tolees-21)
 
 🔎:
 

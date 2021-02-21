@@ -2,7 +2,7 @@
 layout: post
 title: 'Sisley Masque Crema À La Rose Noire 60 m al 43.38 % de descuento'
 date: 2020-04-14 20:27:57
-image: 'https://m.media-amazon.com/images/I/41MVDt5nteL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41MVDt5nteL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '67.95'
 
 Ahora mismo tienes [Sisley Masque Crema À La Rose Noire 60 ml](https://www.amazon.es/dp/B0074O7LHK/?tag=tolees-21) a 67.95 EUR (original: 120.0 EUR) (43.38 %  de descuento) en el siguiente enlace!
 
-[![Sisley Masque Crema À La Rose Noire 60 m](https://m.media-amazon.com/images/I/41MVDt5nteL._SL200_.jpg)](https://www.amazon.es/dp/B0074O7LHK/?tag=tolees-21)
+[![Sisley Masque Crema À La Rose Noire 60 m](https://m.media-amazon.com/images/I/41MVDt5nteL._SL400_.jpg)](https://www.amazon.es/dp/B0074O7LHK/?tag=tolees-21)
 
 🔎:
 

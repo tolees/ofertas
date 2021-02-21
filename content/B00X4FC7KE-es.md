@@ -2,7 +2,7 @@
 layout: post
 title: 'Capicua - Preparado graso Especial para  al 26.83 % de descuento'
 date: 2020-05-10 10:38:24
-image: 'https://m.media-amazon.com/images/I/41UgOR4jbRL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41UgOR4jbRL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.076666666666668'
 
 Ahora mismo tienes [Capicua - Preparado graso Especial para cocinar - 5 litros](https://www.amazon.es/dp/B00X4FC7KE/?tag=tolees-21) a 8.89 EUR (original: 12.15 EUR) (26.83 %  de descuento) en el siguiente enlace!
 
-[![Capicua - Preparado graso Especial para ](https://m.media-amazon.com/images/I/41UgOR4jbRL._SL200_.jpg)](https://www.amazon.es/dp/B00X4FC7KE/?tag=tolees-21)
+[![Capicua - Preparado graso Especial para ](https://m.media-amazon.com/images/I/41UgOR4jbRL._SL400_.jpg)](https://www.amazon.es/dp/B00X4FC7KE/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Super Mario Cuello Redondo Carta Impresi con un 60.00 % de descuento'
 date: 2020-08-16 13:46:05
-image: 'https://m.media-amazon.com/images/I/318mH6UUV-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/318mH6UUV-L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.94'
 
 En este momento está [Super Mario Cuello Redondo Carta ImpresiÓN Manga Corta T-Shirt Sencillas Ocasionales Camisetas Adecuado para niños y niñas](https://www.amazon.es/dp/B07PN82G3D/?tag=tolees-21) a 9.94 EUR (original: 24.85 EUR) (60.00 %  de descuento) en el siguiente enlace!
 
-[![Super Mario Cuello Redondo Carta Impresi](https://m.media-amazon.com/images/I/318mH6UUV-L._SL200_.jpg)](https://www.amazon.es/dp/B07PN82G3D/?tag=tolees-21)
+[![Super Mario Cuello Redondo Carta Impresi](https://m.media-amazon.com/images/I/318mH6UUV-L._SL400_.jpg)](https://www.amazon.es/dp/B07PN82G3D/?tag=tolees-21)
 
 🔎:
 

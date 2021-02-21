@@ -2,7 +2,7 @@
 layout: post
 title: 'Preciva CT480300 Crimpadora Terminales E al 29.04 % de rebaja'
 date: 2020-08-24 07:57:34
-image: 'https://m.media-amazon.com/images/I/51Nzj1W1sqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Nzj1W1sqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.656666666666666'
 
 Tienes [Preciva CT480300 Crimpadora Terminales Electricos  0.5-1.5 mm² de Trinquete Ajustable con 300 Terminal Para Conector de Cable](https://www.amazon.es/dp/B07H4LCNKT/?tag=tolees-21) con precio final de  21.99 EUR (original: 30.99 EUR) (29.04 %  de rebaja) aqui!
 
-[![Preciva CT480300 Crimpadora Terminales E](https://m.media-amazon.com/images/I/51Nzj1W1sqL._SL200_.jpg)](https://www.amazon.es/dp/B07H4LCNKT/?tag=tolees-21)
+[![Preciva CT480300 Crimpadora Terminales E](https://m.media-amazon.com/images/I/51Nzj1W1sqL._SL400_.jpg)](https://www.amazon.es/dp/B07H4LCNKT/?tag=tolees-21)
 
 🔎:
 

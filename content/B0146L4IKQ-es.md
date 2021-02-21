@@ -2,7 +2,7 @@
 layout: post
 title: 'Clinique Smart Night - Crema antiarrugas al 35.14 % de rebaja'
 date: 2020-09-25 14:33:20
-image: 'https://m.media-amazon.com/images/I/411ejgqjcAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/411ejgqjcAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '47.35'
 
 Tienes [Clinique Smart Night - Crema antiarrugas  50 ml](https://www.amazon.es/dp/B0146L4IKQ/?tag=tolees-21) con precio final de  47.35 EUR (original: 73.0 EUR) (35.14 %  de rebaja) aqui!
 
-[![Clinique Smart Night - Crema antiarrugas](https://m.media-amazon.com/images/I/411ejgqjcAL._SL200_.jpg)](https://www.amazon.es/dp/B0146L4IKQ/?tag=tolees-21)
+[![Clinique Smart Night - Crema antiarrugas](https://m.media-amazon.com/images/I/411ejgqjcAL._SL400_.jpg)](https://www.amazon.es/dp/B0146L4IKQ/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'COMVIP - Calcetines hasta la rodilla - L al 37.79 % de descuento'
 date: 2020-05-16 13:03:28
-image: 'https://m.media-amazon.com/images/I/313ytyQmxUL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/313ytyQmxUL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.89'
 
 Ahora mismo tienes [COMVIP - Calcetines hasta la rodilla - Liso - para hombre  Hombre  color Style3 White Black  tamaño Talla única](https://www.amazon.es/dp/B07H26S7NJ/?tag=tolees-21) a 8.89 EUR (original: 14.29 EUR) (37.79 %  de descuento) en el siguiente enlace!
 
-[![COMVIP - Calcetines hasta la rodilla - L](https://m.media-amazon.com/images/I/313ytyQmxUL._SL200_.jpg)](https://www.amazon.es/dp/B07H26S7NJ/?tag=tolees-21)
+[![COMVIP - Calcetines hasta la rodilla - L](https://m.media-amazon.com/images/I/313ytyQmxUL._SL400_.jpg)](https://www.amazon.es/dp/B07H26S7NJ/?tag=tolees-21)
 
 🔎:
 

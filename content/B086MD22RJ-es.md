@@ -2,7 +2,7 @@
 layout: post
 title: '20 máscara de uso civil desechable 3 cap al 31.27 % de descuento'
 date: 2020-04-16 20:03:12
-image: 'https://m.media-amazon.com/images/I/51ZE43JMpxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51ZE43JMpxL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.42'
 
 Ahora mismo tienes [20 máscara de uso civil desechable 3 capas de máscara protectora ordinaria Ventilación segura](https://www.amazon.es/dp/B086MD22RJ/?tag=tolees-21) a 14.42 EUR (original: 20.98 EUR) (31.27 %  de descuento) en el siguiente enlace!
 
-[![20 máscara de uso civil desechable 3 cap](https://m.media-amazon.com/images/I/51ZE43JMpxL._SL200_.jpg)](https://www.amazon.es/dp/B086MD22RJ/?tag=tolees-21)
+[![20 máscara de uso civil desechable 3 cap](https://m.media-amazon.com/images/I/51ZE43JMpxL._SL400_.jpg)](https://www.amazon.es/dp/B086MD22RJ/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Badger Protector solar para bebé SP30 |  al 26.61 % de descuento'
 date: 2020-05-21 16:02:08
-image: 'https://m.media-amazon.com/images/I/41grGp0eDIL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41grGp0eDIL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.703333333333333'
 
 Ahora mismo tienes [Badger Protector solar para bebé SP30 | 1 x 87 ml](https://www.amazon.es/dp/B075TBP7QS/?tag=tolees-21) a 14.78 EUR (original: 20.14 EUR) (26.61 %  de descuento) en el siguiente enlace!
 
-[![Badger Protector solar para bebé SP30 | ](https://m.media-amazon.com/images/I/41grGp0eDIL._SL200_.jpg)](https://www.amazon.es/dp/B075TBP7QS/?tag=tolees-21)
+[![Badger Protector solar para bebé SP30 | ](https://m.media-amazon.com/images/I/41grGp0eDIL._SL400_.jpg)](https://www.amazon.es/dp/B075TBP7QS/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Funko Pop Figura De Vinil TV: Mad Men-Ro con un 28.50 % de descuento'
 date: 2020-04-06 17:14:57
-image: 'https://m.media-amazon.com/images/I/31ckDyRrSVL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31ckDyRrSVL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.15'
 
 En este momento está [Funko Pop Figura De Vinil TV: Mad Men-Roger Coleccionable  Multicolor  Talla única  43406 ](https://www.amazon.es/dp/B07QDP23LX/?tag=tolees-21) a 7.15 EUR (original: 10.0 EUR) (28.50 %  de descuento) en el siguiente enlace!
 
-[![Funko Pop Figura De Vinil TV: Mad Men-Ro](https://m.media-amazon.com/images/I/31ckDyRrSVL._SL200_.jpg)](https://www.amazon.es/dp/B07QDP23LX/?tag=tolees-21)
+[![Funko Pop Figura De Vinil TV: Mad Men-Ro](https://m.media-amazon.com/images/I/31ckDyRrSVL._SL400_.jpg)](https://www.amazon.es/dp/B07QDP23LX/?tag=tolees-21)
 
 🔎:
 

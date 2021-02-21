@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 71.62 % en L Oréal Paris Barra de Labios Color Rich'
 date: 2020-03-30 12:33:00
-image: 'https://m.media-amazon.com/images/I/3190x79fj-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/3190x79fj-L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.8166666666666655'
 
 Tienes [L Oréal Paris Barra de Labios Color Riche Accords Naturels 231 Sépia](https://www.amazon.es/dp/B00BN7XJ5M/?tag=tolees-21) con un 71.62 % de descuento con precio de oferta de 3.69 EUR (original: 13.0 EUR) en el siguiente enlace!
 
-[![L Oréal Paris Barra de Labios Color Rich](https://m.media-amazon.com/images/I/3190x79fj-L._SL200_.jpg)](https://www.amazon.es/dp/B00BN7XJ5M/?tag=tolees-21)
+[![L Oréal Paris Barra de Labios Color Rich](https://m.media-amazon.com/images/I/3190x79fj-L._SL400_.jpg)](https://www.amazon.es/dp/B00BN7XJ5M/?tag=tolees-21)
 
 ℹ️:
 

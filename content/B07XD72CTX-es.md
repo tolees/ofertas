@@ -2,7 +2,7 @@
 layout: post
 title: 'Bedsure Bombilla Inteligente WiFi 2-Pack al 26.32 % de descuento'
 date: 2020-04-08 10:55:59
-image: 'https://m.media-amazon.com/images/I/41Frx5TLyUL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Frx5TLyUL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '30.240000000000002'
 
 Ahora mismo tienes [Bedsure Bombilla Inteligente WiFi 2-Pack  - Bombilla RGB E27 10W  con Luz Frías/Cálidas 2700K-6500K - Led Regulable con 160 Millones de Colores](https://www.amazon.es/dp/B07XD72CTX/?tag=tolees-21) a 27.99 EUR (original: 37.99 EUR) (26.32 %  de descuento) en el siguiente enlace!
 
-[![Bedsure Bombilla Inteligente WiFi 2-Pack](https://m.media-amazon.com/images/I/41Frx5TLyUL._SL200_.jpg)](https://www.amazon.es/dp/B07XD72CTX/?tag=tolees-21)
+[![Bedsure Bombilla Inteligente WiFi 2-Pack](https://m.media-amazon.com/images/I/41Frx5TLyUL._SL400_.jpg)](https://www.amazon.es/dp/B07XD72CTX/?tag=tolees-21)
 
 🔎:
 

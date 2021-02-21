@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s Limit  Bufanda Unisex adulto  Neg al 45.83 % de descuento'
 date: 2020-04-21 15:21:31
-image: 'https://m.media-amazon.com/images/I/31CZjcvhmpL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31CZjcvhmpL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.296666666666667'
 
 Ahora mismo tienes [Levi s Limit  Bufanda Unisex adulto  Negro  Black   Talla única](https://www.amazon.es/dp/B00D2LRUAM/?tag=tolees-21) a 16.25 EUR (original: 30.0 EUR) (45.83 %  de descuento) en el siguiente enlace!
 
-[![Levi s Limit  Bufanda Unisex adulto  Neg](https://m.media-amazon.com/images/I/31CZjcvhmpL._SL200_.jpg)](https://www.amazon.es/dp/B00D2LRUAM/?tag=tolees-21)
+[![Levi s Limit  Bufanda Unisex adulto  Neg](https://m.media-amazon.com/images/I/31CZjcvhmpL._SL400_.jpg)](https://www.amazon.es/dp/B00D2LRUAM/?tag=tolees-21)
 
 🔎:
 

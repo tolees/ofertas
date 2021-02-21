@@ -2,7 +2,7 @@
 layout: post
 title: 'Essie Esmalte de Uñas  Tono: 015 Sugar D al 59.92 % de rebaja'
 date: 2020-08-13 10:58:46
-image: 'https://m.media-amazon.com/images/I/31fql30LZ5L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31fql30LZ5L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.26'
 
 Tienes [Essie Esmalte de Uñas  Tono: 015 Sugar Daddy](https://www.amazon.es/dp/B009AQWIDM/?tag=tolees-21) con precio final de  4.79 EUR (original: 11.95 EUR) (59.92 %  de rebaja) aqui!
 
-[![Essie Esmalte de Uñas  Tono: 015 Sugar D](https://m.media-amazon.com/images/I/31fql30LZ5L._SL200_.jpg)](https://www.amazon.es/dp/B009AQWIDM/?tag=tolees-21)
+[![Essie Esmalte de Uñas  Tono: 015 Sugar D](https://m.media-amazon.com/images/I/31fql30LZ5L._SL400_.jpg)](https://www.amazon.es/dp/B009AQWIDM/?tag=tolees-21)
 
 🔎:
 

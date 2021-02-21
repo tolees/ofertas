@@ -2,7 +2,7 @@
 layout: post
 title: 'Lacoste Courtline 319 1 Us CMA  Zapatill al 56.66 % de rebaja'
 date: 2020-03-13 09:18:31
-image: 'https://m.media-amazon.com/images/I/31veB+pSDPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31veB+pSDPL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '58.51'
 
 Tienes [Lacoste Courtline 319 1 Us CMA  Zapatillas para Hombre  Blanco  White/Black 147   47 EU](https://www.amazon.es/dp/B07L9SJVCV/?tag=tolees-21) con precio final de  58.51 EUR (original: 135.0 EUR) (56.66 %  de rebaja) aqui!
 
-[![Lacoste Courtline 319 1 Us CMA  Zapatill](https://m.media-amazon.com/images/I/31veB+pSDPL._SL200_.jpg)](https://www.amazon.es/dp/B07L9SJVCV/?tag=tolees-21)
+[![Lacoste Courtline 319 1 Us CMA  Zapatill](https://m.media-amazon.com/images/I/31veB+pSDPL._SL400_.jpg)](https://www.amazon.es/dp/B07L9SJVCV/?tag=tolees-21)
 
 🔎:
 

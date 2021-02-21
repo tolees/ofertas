@@ -2,7 +2,7 @@
 layout: post
 title: 'Pasito a Pasito Canastilla Total - Bolsa al 47.85 % de descuento'
 date: 2020-03-12 21:27:43
-image: 'https://m.media-amazon.com/images/I/31HizPBADIL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31HizPBADIL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '36.45'
 
 Ahora mismo tienes [Pasito a Pasito Canastilla Total - Bolsa  unisex  color blanco](https://www.amazon.es/dp/B07CFWBKKB/?tag=tolees-21) a 36.45 EUR (original: 69.9 EUR) (47.85 %  de descuento) en el siguiente enlace!
 
-[![Pasito a Pasito Canastilla Total - Bolsa](https://m.media-amazon.com/images/I/31HizPBADIL._SL200_.jpg)](https://www.amazon.es/dp/B07CFWBKKB/?tag=tolees-21)
+[![Pasito a Pasito Canastilla Total - Bolsa](https://m.media-amazon.com/images/I/31HizPBADIL._SL400_.jpg)](https://www.amazon.es/dp/B07CFWBKKB/?tag=tolees-21)
 
 🔎:
 

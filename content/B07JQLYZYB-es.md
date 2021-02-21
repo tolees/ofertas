@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour UA Spieth Washed Cotton Cap al 48.39 % de descuento'
 date: 2020-09-27 10:46:11
-image: 'https://m.media-amazon.com/images/I/41RFjv9911L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41RFjv9911L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.221666666666666'
 
 Ahora mismo tienes [Under Armour UA Spieth Washed Cotton Cap Algodón  Gorra para Hombre  Negro  OSFA](https://www.amazon.es/dp/B07JQLYZYB/?tag=tolees-21) a 14.45 EUR (original: 28.0 EUR) (48.39 %  de descuento) en el siguiente enlace!
 
-[![Under Armour UA Spieth Washed Cotton Cap](https://m.media-amazon.com/images/I/41RFjv9911L._SL200_.jpg)](https://www.amazon.es/dp/B07JQLYZYB/?tag=tolees-21)
+[![Under Armour UA Spieth Washed Cotton Cap](https://m.media-amazon.com/images/I/41RFjv9911L._SL400_.jpg)](https://www.amazon.es/dp/B07JQLYZYB/?tag=tolees-21)
 
 🔎:
 

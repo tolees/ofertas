@@ -2,7 +2,7 @@
 layout: post
 title: 'Radio de Transistor portátil pequeña  L- con un 26.70 % de descuento'
 date: 2020-09-30 16:41:55
-image: 'https://m.media-amazon.com/images/I/51M+JNogeXL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51M+JNogeXL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.99'
 
 En este momento está [Radio de Transistor portátil pequeña  L-218 Radio Am/FM Digital de Bolsillo con Tarjeta Micro TF Reproductor de MP3 de Entrada Auxiliar de Disco USB  por PRUNUS Dorado ](https://www.amazon.es/dp/B01N23OZCR/?tag=tolees-21) a 21.99 EUR (original: 30.0 EUR) (26.70 %  de descuento) en el siguiente enlace!
 
-[![Radio de Transistor portátil pequeña  L-](https://m.media-amazon.com/images/I/51M+JNogeXL._SL200_.jpg)](https://www.amazon.es/dp/B01N23OZCR/?tag=tolees-21)
+[![Radio de Transistor portátil pequeña  L-](https://m.media-amazon.com/images/I/51M+JNogeXL._SL400_.jpg)](https://www.amazon.es/dp/B01N23OZCR/?tag=tolees-21)
 
 🔎:
 

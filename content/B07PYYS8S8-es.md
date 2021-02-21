@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour UA W Charged Pursuit 2  Zap con un 29.99 % de descuento'
 date: 2020-06-24 08:43:30
-image: 'https://m.media-amazon.com/images/I/41nQAEGnyPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41nQAEGnyPL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '41.97'
 
 En este momento está [Under Armour UA W Charged Pursuit 2  Zapatillas de Running para Mujer  Negro  Black/White/White   39 EU](https://www.amazon.es/dp/B07PYYS8S8/?tag=tolees-21) a 41.97 EUR (original: 59.95 EUR) (29.99 %  de descuento) en el siguiente enlace!
 
-[![Under Armour UA W Charged Pursuit 2  Zap](https://m.media-amazon.com/images/I/41nQAEGnyPL._SL200_.jpg)](https://www.amazon.es/dp/B07PYYS8S8/?tag=tolees-21)
+[![Under Armour UA W Charged Pursuit 2  Zap](https://m.media-amazon.com/images/I/41nQAEGnyPL._SL400_.jpg)](https://www.amazon.es/dp/B07PYYS8S8/?tag=tolees-21)
 
 🔎:
 

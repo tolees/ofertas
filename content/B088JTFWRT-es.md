@@ -2,7 +2,7 @@
 layout: post
 title: 'First - Lote de 50 máscaras de protecció con un 71.94 % de descuento'
 date: 2020-05-28 17:21:31
-image: 'https://m.media-amazon.com/images/I/41oFvNzdMIL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41oFvNzdMIL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.0'
 
 En este momento está [First - Lote de 50 máscaras de protección para la boca  3 capas  vellón ](https://www.amazon.es/dp/B088JTFWRT/?tag=tolees-21) a 11.0 EUR (original: 39.2 EUR) (71.94 %  de descuento) en el siguiente enlace!
 
-[![First - Lote de 50 máscaras de protecció](https://m.media-amazon.com/images/I/41oFvNzdMIL._SL200_.jpg)](https://www.amazon.es/dp/B088JTFWRT/?tag=tolees-21)
+[![First - Lote de 50 máscaras de protecció](https://m.media-amazon.com/images/I/41oFvNzdMIL._SL400_.jpg)](https://www.amazon.es/dp/B088JTFWRT/?tag=tolees-21)
 
 🔎:
 

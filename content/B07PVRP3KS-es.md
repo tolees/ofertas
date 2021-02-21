@@ -2,7 +2,7 @@
 layout: post
 title: 'MOSISO Tote Bolsa para Mujer  hasta 15.6 con un 27.62 % de descuento'
 date: 2020-06-20 08:02:57
-image: 'https://m.media-amazon.com/images/I/41xI7-wb+yL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41xI7-wb+yL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '35.46'
 
 En este momento está [MOSISO Tote Bolsa para Mujer  hasta 15.6 Pulgadas   Resistente al Agua PU de Cuero de Gran Capacidad con 3 Compartimentos de Capa Trabajo de Maletín de Hombro de Viaje  Azul Marino](https://www.amazon.es/dp/B07PVRP3KS/?tag=tolees-21) a 35.46 EUR (original: 48.99 EUR) (27.62 %  de descuento) en el siguiente enlace!
 
-[![MOSISO Tote Bolsa para Mujer  hasta 15.6](https://m.media-amazon.com/images/I/41xI7-wb+yL._SL200_.jpg)](https://www.amazon.es/dp/B07PVRP3KS/?tag=tolees-21)
+[![MOSISO Tote Bolsa para Mujer  hasta 15.6](https://m.media-amazon.com/images/I/41xI7-wb+yL._SL400_.jpg)](https://www.amazon.es/dp/B07PVRP3KS/?tag=tolees-21)
 
 🔎:
 

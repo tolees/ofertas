@@ -2,7 +2,7 @@
 layout: post
 title: 'Nurana Cosmetics  Crema diurna facial co al 47.55 % de descuento'
 date: 2020-03-20 22:42:54
-image: 'https://m.media-amazon.com/images/I/411dPyHAkAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/411dPyHAkAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.71'
 
 Ahora mismo tienes [Nurana Cosmetics  Crema diurna facial con factor de protección 50- 50 ml.](https://www.amazon.es/dp/B071CFLJ27/?tag=tolees-21) a 4.71 EUR (original: 8.98 EUR) (47.55 %  de descuento) en el siguiente enlace!
 
-[![Nurana Cosmetics  Crema diurna facial co](https://m.media-amazon.com/images/I/411dPyHAkAL._SL200_.jpg)](https://www.amazon.es/dp/B071CFLJ27/?tag=tolees-21)
+[![Nurana Cosmetics  Crema diurna facial co](https://m.media-amazon.com/images/I/411dPyHAkAL._SL400_.jpg)](https://www.amazon.es/dp/B071CFLJ27/?tag=tolees-21)
 
 🔎:
 

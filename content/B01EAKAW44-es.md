@@ -2,7 +2,7 @@
 layout: post
 title: 'Toshiba EXCERIA M302-EA - Tarjeta de mem al 40.40 % de rebaja'
 date: 2020-07-13 18:50:58
-image: 'https://m.media-amazon.com/images/I/412ozDpOg-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/412ozDpOg-L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.726363636363637'
 
 Tienes [Toshiba EXCERIA M302-EA - Tarjeta de memoria MicroSDXC de 64GB  UHS-I  Clase 10 ](https://www.amazon.es/dp/B01EAKAW44/?tag=tolees-21) con precio final de  14.84 EUR (original: 24.9 EUR) (40.40 %  de rebaja) aqui!
 
-[![Toshiba EXCERIA M302-EA - Tarjeta de mem](https://m.media-amazon.com/images/I/412ozDpOg-L._SL200_.jpg)](https://www.amazon.es/dp/B01EAKAW44/?tag=tolees-21)
+[![Toshiba EXCERIA M302-EA - Tarjeta de mem](https://m.media-amazon.com/images/I/412ozDpOg-L._SL400_.jpg)](https://www.amazon.es/dp/B01EAKAW44/?tag=tolees-21)
 
 🔎:
 

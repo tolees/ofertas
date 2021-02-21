@@ -2,7 +2,7 @@
 layout: post
 title: 'Quid 7691001 - Tabla para cortar  31 x 2 al 43.18 % de descuento'
 date: 2020-04-04 10:49:37
-image: 'https://m.media-amazon.com/images/I/21gm5lquVjL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21gm5lquVjL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.75'
 
 Está [Quid 7691001 - Tabla para cortar  31 x 21 x 1 cm  color blanco](https://www.amazon.es/dp/B01LLQEYBC/?tag=tolees-21) con 43.18 de descuento por 3.75 EUR (original: 6.6 EUR) en el siguiente enlace!
 
-[![Quid 7691001 - Tabla para cortar  31 x 2](https://m.media-amazon.com/images/I/21gm5lquVjL._SL200_.jpg)](https://www.amazon.es/dp/B01LLQEYBC/?tag=tolees-21)
+[![Quid 7691001 - Tabla para cortar  31 x 2](https://m.media-amazon.com/images/I/21gm5lquVjL._SL400_.jpg)](https://www.amazon.es/dp/B01LLQEYBC/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Aprilis 8 Bombas de Baño Productos de Ba al 44.92 % de rebaja'
 date: 2020-07-22 14:45:38
-image: 'https://m.media-amazon.com/images/I/51dYZylsN3L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51dYZylsN3L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.69'
 
 Tienes [Aprilis 8 Bombas de Baño Productos de Baño Imprescindibles  Baño de Burbujas  Sales de Baño](https://www.amazon.es/dp/B079JS6CN4/?tag=tolees-21) con precio final de  18.69 EUR (original: 33.93 EUR) (44.92 %  de rebaja) aqui!
 
-[![Aprilis 8 Bombas de Baño Productos de Ba](https://m.media-amazon.com/images/I/51dYZylsN3L._SL200_.jpg)](https://www.amazon.es/dp/B079JS6CN4/?tag=tolees-21)
+[![Aprilis 8 Bombas de Baño Productos de Ba](https://m.media-amazon.com/images/I/51dYZylsN3L._SL400_.jpg)](https://www.amazon.es/dp/B079JS6CN4/?tag=tolees-21)
 
 🔎:
 

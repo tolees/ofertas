@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour Men s UA Launch SW 15cm Sho al 63.73 % de rebaja'
 date: 2020-06-25 13:33:33
-image: 'https://m.media-amazon.com/images/I/41T-FBfkYWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41T-FBfkYWL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.51'
 
 Tienes [Under Armour Men s UA Launch SW 15cm Shorts Pantalones Cortos Deportivos para Hombre  Gris  Gray   S](https://www.amazon.es/dp/B07CZJ6Z9T/?tag=tolees-21) con precio final de  14.51 EUR (original: 40.0 EUR) (63.73 %  de rebaja) aqui!
 
-[![Under Armour Men s UA Launch SW 15cm Sho](https://m.media-amazon.com/images/I/41T-FBfkYWL._SL200_.jpg)](https://www.amazon.es/dp/B07CZJ6Z9T/?tag=tolees-21)
+[![Under Armour Men s UA Launch SW 15cm Sho](https://m.media-amazon.com/images/I/41T-FBfkYWL._SL400_.jpg)](https://www.amazon.es/dp/B07CZJ6Z9T/?tag=tolees-21)
 
 🔎:
 

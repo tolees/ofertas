@@ -2,7 +2,7 @@
 layout: post
 title: 'G-STAR RAW Feldspar High Waist Straight  al 89.05 % de descuento'
 date: 2020-01-16 13:18:26
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31Vk6HATvrL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Vk6HATvrL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.33'
 
 Está [G-STAR RAW Feldspar High Waist Straight Cargo Pantalones  Azul  Mazarine Blue B067-4213   34W / 34L para Mujer](https://www.amazon.es/dp/B07JWX4BJ6/?tag=tolees-21) con 89.05 de descuento por 15.33 EUR (original: 139.95 EUR) en el siguiente enlace!
 
-[![G-STAR RAW Feldspar High Waist Straight ](https://images-eu.ssl-images-amazon.com/images/I/31Vk6HATvrL._SL200_.jpg)](https://www.amazon.es/dp/B07JWX4BJ6/?tag=tolees-21)
+[![G-STAR RAW Feldspar High Waist Straight ](https://images-eu.ssl-images-amazon.com/images/I/31Vk6HATvrL._SL400_.jpg)](https://www.amazon.es/dp/B07JWX4BJ6/?tag=tolees-21)
 
 ℹ️:
 

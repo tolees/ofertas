@@ -2,7 +2,7 @@
 layout: post
 title: 'Salomon XA Pro 3D  Zapatillas de trail r con un 50.02 % de descuento'
 date: 2020-08-09 08:49:18
-image: 'https://m.media-amazon.com/images/I/41fSQD6TWWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41fSQD6TWWL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '64.95'
 
 En este momento está [Salomon XA Pro 3D  Zapatillas de trail running para Hombre  Negro  Black/Magnet/Quiet Shade   46 EU](https://www.amazon.es/dp/B01HD6T03G/?tag=tolees-21) a 64.95 EUR (original: 129.95 EUR) (50.02 %  de descuento) en el siguiente enlace!
 
-[![Salomon XA Pro 3D  Zapatillas de trail r](https://m.media-amazon.com/images/I/41fSQD6TWWL._SL200_.jpg)](https://www.amazon.es/dp/B01HD6T03G/?tag=tolees-21)
+[![Salomon XA Pro 3D  Zapatillas de trail r](https://m.media-amazon.com/images/I/41fSQD6TWWL._SL400_.jpg)](https://www.amazon.es/dp/B01HD6T03G/?tag=tolees-21)
 
 🔎:
 

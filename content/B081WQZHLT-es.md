@@ -2,7 +2,7 @@
 layout: post
 title: 'Agenda Esther Gili 2020 Fondo Marino al 38.19 % de descuento'
 date: 2020-02-03 11:05:25
-image: 'https://m.media-amazon.com/images/I/51Y+r2if4rL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Y+r2if4rL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.95'
 
 Está [Agenda Esther Gili 2020 Fondo Marino](https://www.amazon.es/dp/B081WQZHLT/?tag=tolees-21) con 38.19 de descuento por 12.95 EUR (original: 20.95 EUR) en el siguiente enlace!
 
-[![Agenda Esther Gili 2020 Fondo Marino](https://m.media-amazon.com/images/I/51Y+r2if4rL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B081WQZHLT/?tag=tolees-21)
+[![Agenda Esther Gili 2020 Fondo Marino](https://m.media-amazon.com/images/I/51Y+r2if4rL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B081WQZHLT/?tag=tolees-21)
 
 ℹ️:
 

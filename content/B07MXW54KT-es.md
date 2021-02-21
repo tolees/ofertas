@@ -2,7 +2,7 @@
 layout: post
 title: 'GLOBE Motley  Zapatillas de Skateboard p al 65.40 % de rebaja'
 date: 2020-03-30 19:58:03
-image: 'https://m.media-amazon.com/images/I/31YF8BroYPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31YF8BroYPL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.325'
 
 Tienes [GLOBE Motley  Zapatillas de Skateboard para Hombre  Negro  Black Suede/Toffee 20462   42 EU](https://www.amazon.es/dp/B07MXW54KT/?tag=tolees-21) con precio final de  22.47 EUR (original: 64.95 EUR) (65.40 %  de rebaja) aqui!
 
-[![GLOBE Motley  Zapatillas de Skateboard p](https://m.media-amazon.com/images/I/31YF8BroYPL._SL200_.jpg)](https://www.amazon.es/dp/B07MXW54KT/?tag=tolees-21)
+[![GLOBE Motley  Zapatillas de Skateboard p](https://m.media-amazon.com/images/I/31YF8BroYPL._SL400_.jpg)](https://www.amazon.es/dp/B07MXW54KT/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Bresser FlipMe Despertador radio control al 72.57 % de rebaja'
 date: 2020-02-20 16:42:24
-image: 'https://m.media-amazon.com/images/I/41ZKQ+3JBEL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ZKQ+3JBEL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.97'
 
 Tienes [Bresser FlipMe Despertador radio controlado - blanco](https://www.amazon.es/dp/B017B9KBWO/?tag=tolees-21) con precio final de  10.97 EUR (original: 39.99 EUR) (72.57 %  de rebaja) aqui!
 
-[![Bresser FlipMe Despertador radio control](https://m.media-amazon.com/images/I/41ZKQ+3JBEL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B017B9KBWO/?tag=tolees-21)
+[![Bresser FlipMe Despertador radio control](https://m.media-amazon.com/images/I/41ZKQ+3JBEL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B017B9KBWO/?tag=tolees-21)
 
 🔎:
 

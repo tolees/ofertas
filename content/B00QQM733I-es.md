@@ -2,7 +2,7 @@
 layout: post
 title: 'Munchkin - Espejo musical con luz Day &  con un 25.01 % de descuento'
 date: 2020-05-12 11:05:40
-image: 'https://m.media-amazon.com/images/I/416V+nsEfrL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/416V+nsEfrL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '28.49'
 
 En este momento está [Munchkin - Espejo musical con luz Day & Night](https://www.amazon.es/dp/B00QQM733I/?tag=tolees-21) a 28.49 EUR (original: 37.99 EUR) (25.01 %  de descuento) en el siguiente enlace!
 
-[![Munchkin - Espejo musical con luz Day & ](https://m.media-amazon.com/images/I/416V+nsEfrL._SL200_.jpg)](https://www.amazon.es/dp/B00QQM733I/?tag=tolees-21)
+[![Munchkin - Espejo musical con luz Day & ](https://m.media-amazon.com/images/I/416V+nsEfrL._SL400_.jpg)](https://www.amazon.es/dp/B00QQM733I/?tag=tolees-21)
 
 🔎:
 

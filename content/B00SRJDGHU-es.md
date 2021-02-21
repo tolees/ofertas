@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 33.27 % en Asics Mexico 66  Zapatillas de Deporte U'
 date: 2020-01-12 20:29:49
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41QGS2vt36L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41QGS2vt36L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '67.6'
 
 Tienes [Asics Mexico 66  Zapatillas de Deporte Unisex Adulto  Blanco  White/Dark Blue 0152   37.5 EU](https://www.amazon.es/dp/B00SRJDGHU/?tag=tolees-21) con un 33.27 % de descuento con precio de oferta de 67.6 EUR (original: 101.3 EUR) en el siguiente enlace!
 
-[![Asics Mexico 66  Zapatillas de Deporte U](https://images-eu.ssl-images-amazon.com/images/I/41QGS2vt36L._SL200_.jpg)](https://www.amazon.es/dp/B00SRJDGHU/?tag=tolees-21)
+[![Asics Mexico 66  Zapatillas de Deporte U](https://images-eu.ssl-images-amazon.com/images/I/41QGS2vt36L._SL400_.jpg)](https://www.amazon.es/dp/B00SRJDGHU/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Pala De Padel Adidas Faster Pink 1 9 con un 64.13 % de descuento'
 date: 2020-04-16 11:35:45
-image: 'https://m.media-amazon.com/images/I/41G7jLzHEkL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41G7jLzHEkL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '69.94'
 
 En este momento está [Pala De Padel Adidas Faster Pink 1 9](https://www.amazon.es/dp/B07N88DGC3/?tag=tolees-21) a 69.95 EUR (original: 195.0 EUR) (64.13 %  de descuento) en el siguiente enlace!
 
-[![Pala De Padel Adidas Faster Pink 1 9](https://m.media-amazon.com/images/I/41G7jLzHEkL._SL200_.jpg)](https://www.amazon.es/dp/B07N88DGC3/?tag=tolees-21)
+[![Pala De Padel Adidas Faster Pink 1 9](https://m.media-amazon.com/images/I/41G7jLzHEkL._SL400_.jpg)](https://www.amazon.es/dp/B07N88DGC3/?tag=tolees-21)
 
 🔎:
 

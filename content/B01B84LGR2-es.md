@@ -2,7 +2,7 @@
 layout: post
 title: 'Sweat Corporate Polyester junior al 55.02 % de descuento'
 date: 2020-02-27 13:28:20
-image: 'https://m.media-amazon.com/images/I/41gYhW6xEEL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41gYhW6xEEL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.09'
 
 Ahora mismo tienes [Sweat Corporate Polyester junior](https://www.amazon.es/dp/B01B84LGR2/?tag=tolees-21) a 16.19 EUR (original: 35.99 EUR) (55.02 %  de descuento) en el siguiente enlace!
 
-[![Sweat Corporate Polyester junior](https://m.media-amazon.com/images/I/41gYhW6xEEL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01B84LGR2/?tag=tolees-21)
+[![Sweat Corporate Polyester junior](https://m.media-amazon.com/images/I/41gYhW6xEEL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01B84LGR2/?tag=tolees-21)
 
 🔎:
 

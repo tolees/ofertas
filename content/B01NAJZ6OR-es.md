@@ -2,7 +2,7 @@
 layout: post
 title: 'Bourjois Healthy Mix Concealer Corrector al 54.21 % de descuento'
 date: 2020-09-13 13:03:55
-image: 'https://m.media-amazon.com/images/I/319AFkF6xpL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/319AFkF6xpL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.655'
 
 Está [Bourjois Healthy Mix Concealer Corrector Tono 53 Dark - 29 gr.](https://www.amazon.es/dp/B01NAJZ6OR/?tag=tolees-21) con 54.21 de descuento por 4.35 EUR (original: 9.5 EUR) en el siguiente enlace!
 
-[![Bourjois Healthy Mix Concealer Corrector](https://m.media-amazon.com/images/I/319AFkF6xpL._SL200_.jpg)](https://www.amazon.es/dp/B01NAJZ6OR/?tag=tolees-21)
+[![Bourjois Healthy Mix Concealer Corrector](https://m.media-amazon.com/images/I/319AFkF6xpL._SL400_.jpg)](https://www.amazon.es/dp/B01NAJZ6OR/?tag=tolees-21)
 
 ℹ️:
 

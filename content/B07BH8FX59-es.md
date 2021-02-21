@@ -2,7 +2,7 @@
 layout: post
 title: 'Knorr Pot Plato Preparado de Pasta Boloñ al 37.11 % de rebaja'
 date: 2020-06-16 14:33:17
-image: 'https://m.media-amazon.com/images/I/41JjMTRAenL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41JjMTRAenL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.342'
 
 Tienes [Knorr Pot Plato Preparado de Pasta Boloñesa - 68 gr](https://www.amazon.es/dp/B07BH8FX59/?tag=tolees-21) con precio final de  1.0 EUR (original: 1.59 EUR) (37.11 %  de rebaja) aqui!
 
-[![Knorr Pot Plato Preparado de Pasta Boloñ](https://m.media-amazon.com/images/I/41JjMTRAenL._SL200_.jpg)](https://www.amazon.es/dp/B07BH8FX59/?tag=tolees-21)
+[![Knorr Pot Plato Preparado de Pasta Boloñ](https://m.media-amazon.com/images/I/41JjMTRAenL._SL400_.jpg)](https://www.amazon.es/dp/B07BH8FX59/?tag=tolees-21)
 
 🔎:
 

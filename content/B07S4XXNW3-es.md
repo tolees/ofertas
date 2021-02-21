@@ -2,7 +2,7 @@
 layout: post
 title: 'New Balance 373v2  Zapatillas para Mujer con un 73.91 % de descuento'
 date: 2020-07-12 23:24:59
-image: 'https://m.media-amazon.com/images/I/41yhAqW+CvL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41yhAqW+CvL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.87'
 
 En este momento está [New Balance 373v2  Zapatillas para Mujer  Dorado  Gold Ga2   35 EU](https://www.amazon.es/dp/B07S4XXNW3/?tag=tolees-21) a 20.87 EUR (original: 80.0 EUR) (73.91 %  de descuento) en el siguiente enlace!
 
-[![New Balance 373v2  Zapatillas para Mujer](https://m.media-amazon.com/images/I/41yhAqW+CvL._SL200_.jpg)](https://www.amazon.es/dp/B07S4XXNW3/?tag=tolees-21)
+[![New Balance 373v2  Zapatillas para Mujer](https://m.media-amazon.com/images/I/41yhAqW+CvL._SL400_.jpg)](https://www.amazon.es/dp/B07S4XXNW3/?tag=tolees-21)
 
 🔎:
 

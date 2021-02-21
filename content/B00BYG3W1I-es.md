@@ -2,7 +2,7 @@
 layout: post
 title: 'Nike T-Lite 11  Zapatillas de Cross Trai al 34.20 % de descuento'
 date: 2020-06-23 16:54:55
-image: 'https://m.media-amazon.com/images/I/41QIUyOjCWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41QIUyOjCWL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '32.9'
 
 Está [Nike T-Lite 11  Zapatillas de Cross Training para Hombre  Blanco  White/Black/Obsidian   46 EU](https://www.amazon.es/dp/B00BYG3W1I/?tag=tolees-21) con 34.20 de descuento por 32.9 EUR (original: 50.0 EUR) en el siguiente enlace!
 
-[![Nike T-Lite 11  Zapatillas de Cross Trai](https://m.media-amazon.com/images/I/41QIUyOjCWL._SL200_.jpg)](https://www.amazon.es/dp/B00BYG3W1I/?tag=tolees-21)
+[![Nike T-Lite 11  Zapatillas de Cross Trai](https://m.media-amazon.com/images/I/41QIUyOjCWL._SL400_.jpg)](https://www.amazon.es/dp/B00BYG3W1I/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Hurley M Phtm Block Party 18  Bañador  H al 48.48 % de rebaja'
 date: 2020-09-04 17:08:30
-image: 'https://m.media-amazon.com/images/I/41ciaAkPh2L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ciaAkPh2L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '33.49'
 
 Tienes [Hurley M Phtm Block Party 18  Bañador  Hombre  Iron Grey  36](https://www.amazon.es/dp/B07ZNTLM14/?tag=tolees-21) con precio final de  33.49 EUR (original: 65.0 EUR) (48.48 %  de rebaja) aqui!
 
-[![Hurley M Phtm Block Party 18  Bañador  H](https://m.media-amazon.com/images/I/41ciaAkPh2L._SL200_.jpg)](https://www.amazon.es/dp/B07ZNTLM14/?tag=tolees-21)
+[![Hurley M Phtm Block Party 18  Bañador  H](https://m.media-amazon.com/images/I/41ciaAkPh2L._SL400_.jpg)](https://www.amazon.es/dp/B07ZNTLM14/?tag=tolees-21)
 
 🔎:
 

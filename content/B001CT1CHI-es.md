@@ -2,7 +2,7 @@
 layout: post
 title: 'SHIMANO 1Mm M970/770/600 Zapatas  Unisex al 33.33 % de descuento'
 date: 2020-02-12 23:10:28
-image: 'https://m.media-amazon.com/images/I/31mH11qvtsL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31mH11qvtsL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.5'
 
 Está [SHIMANO 1Mm M970/770/600 Zapatas  Unisex  Multicolor  Talla Única](https://www.amazon.es/dp/B001CT1CHI/?tag=tolees-21) con 33.33 de descuento por 2.5 EUR (original: 3.75 EUR) en el siguiente enlace!
 
-[![SHIMANO 1Mm M970/770/600 Zapatas  Unisex](https://m.media-amazon.com/images/I/31mH11qvtsL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B001CT1CHI/?tag=tolees-21)
+[![SHIMANO 1Mm M970/770/600 Zapatas  Unisex](https://m.media-amazon.com/images/I/31mH11qvtsL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B001CT1CHI/?tag=tolees-21)
 
 ℹ️:
 

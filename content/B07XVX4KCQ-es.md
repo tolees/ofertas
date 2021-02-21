@@ -2,7 +2,7 @@
 layout: post
 title: 'Pantene 3 Minute Miracle Suave y Liso  P al 71.43 % de rebaja'
 date: 2020-05-26 07:31:45
-image: 'https://m.media-amazon.com/images/I/41MakkG15nL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41MakkG15nL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.0'
 
 Tienes [Pantene 3 Minute Miracle Suave y Liso  Pelo Apagado y Encrespado - 200 ml](https://www.amazon.es/dp/B07XVX4KCQ/?tag=tolees-21) con precio final de  1.0 EUR (original: 3.5 EUR) (71.43 %  de rebaja) aqui!
 
-[![Pantene 3 Minute Miracle Suave y Liso  P](https://m.media-amazon.com/images/I/41MakkG15nL._SL200_.jpg)](https://www.amazon.es/dp/B07XVX4KCQ/?tag=tolees-21)
+[![Pantene 3 Minute Miracle Suave y Liso  P](https://m.media-amazon.com/images/I/41MakkG15nL._SL400_.jpg)](https://www.amazon.es/dp/B07XVX4KCQ/?tag=tolees-21)
 
 🔎:
 

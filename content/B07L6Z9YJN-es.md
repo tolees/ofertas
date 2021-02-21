@@ -2,7 +2,7 @@
 layout: post
 title: 'FitFlop Anni Flex  Zapatillas sin Cordon al 71.32 % de rebaja'
 date: 2020-04-16 06:53:34
-image: 'https://m.media-amazon.com/images/I/31M7e3KxJlL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31M7e3KxJlL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '25.81'
 
 Tienes [FitFlop Anni Flex  Zapatillas sin Cordones para Mujer  Blanco  Urban White 194   36 EU](https://www.amazon.es/dp/B07L6Z9YJN/?tag=tolees-21) con precio final de  25.81 EUR (original: 90.0 EUR) (71.32 %  de rebaja) aqui!
 
-[![FitFlop Anni Flex  Zapatillas sin Cordon](https://m.media-amazon.com/images/I/31M7e3KxJlL._SL200_.jpg)](https://www.amazon.es/dp/B07L6Z9YJN/?tag=tolees-21)
+[![FitFlop Anni Flex  Zapatillas sin Cordon](https://m.media-amazon.com/images/I/31M7e3KxJlL._SL400_.jpg)](https://www.amazon.es/dp/B07L6Z9YJN/?tag=tolees-21)
 
 🔎:
 

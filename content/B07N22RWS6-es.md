@@ -2,7 +2,7 @@
 layout: post
 title: 'Lee Luke Jeans  Moto Grey Hga  44W / 32L al 30.53 % de descuento'
 date: 2020-05-29 13:09:19
-image: 'https://m.media-amazon.com/images/I/31M9FtRgnBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31M9FtRgnBL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '62.49'
 
 Está [Lee Luke Jeans  Moto Grey Hga  44W / 32L para Hombre](https://www.amazon.es/dp/B07N22RWS6/?tag=tolees-21) con 30.53 de descuento por 62.49 EUR (original: 89.95 EUR) en el siguiente enlace!
 
-[![Lee Luke Jeans  Moto Grey Hga  44W / 32L](https://m.media-amazon.com/images/I/31M9FtRgnBL._SL200_.jpg)](https://www.amazon.es/dp/B07N22RWS6/?tag=tolees-21)
+[![Lee Luke Jeans  Moto Grey Hga  44W / 32L](https://m.media-amazon.com/images/I/31M9FtRgnBL._SL400_.jpg)](https://www.amazon.es/dp/B07N22RWS6/?tag=tolees-21)
 
 ℹ️:
 

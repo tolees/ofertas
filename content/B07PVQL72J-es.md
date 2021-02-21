@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour UA HOVR Sonic 3  Zapatillas al 46.34 % de descuento'
 date: 2020-05-16 10:23:05
-image: 'https://m.media-amazon.com/images/I/513TEwOfelL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/513TEwOfelL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '64.36'
 
 Ahora mismo tienes [Under Armour UA HOVR Sonic 3  Zapatillas Ligeras para Correr  de Alto Rendimiento para Hombre  Azul  Water/Spackle Blue/Orange Spark  400  400   42 EU](https://www.amazon.es/dp/B07PVQL72J/?tag=tolees-21) a 64.36 EUR (original: 119.95 EUR) (46.34 %  de descuento) en el siguiente enlace!
 
-[![Under Armour UA HOVR Sonic 3  Zapatillas](https://m.media-amazon.com/images/I/513TEwOfelL._SL200_.jpg)](https://www.amazon.es/dp/B07PVQL72J/?tag=tolees-21)
+[![Under Armour UA HOVR Sonic 3  Zapatillas](https://m.media-amazon.com/images/I/513TEwOfelL._SL400_.jpg)](https://www.amazon.es/dp/B07PVQL72J/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Inazuma Eleven Go: Luz al 66.33 % de rebaja'
 date: 2020-03-30 18:48:27
-image: 'https://m.media-amazon.com/images/I/61YXXdKp0yL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61YXXdKp0yL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '31.875'
 
 Tienes [Inazuma Eleven Go: Luz](https://www.amazon.es/dp/B00K4Y4SVY/?tag=tolees-21) con precio final de  13.8 EUR (original: 40.99 EUR) (66.33 %  de rebaja) aqui!
 
-[![Inazuma Eleven Go: Luz](https://m.media-amazon.com/images/I/61YXXdKp0yL._SL200_.jpg)](https://www.amazon.es/dp/B00K4Y4SVY/?tag=tolees-21)
+[![Inazuma Eleven Go: Luz](https://m.media-amazon.com/images/I/61YXXdKp0yL._SL400_.jpg)](https://www.amazon.es/dp/B00K4Y4SVY/?tag=tolees-21)
 
 🔎:
 

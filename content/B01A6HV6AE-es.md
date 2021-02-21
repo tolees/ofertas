@@ -2,7 +2,7 @@
 layout: post
 title: 'MR. SIGA Dual Action Scrubbing Sponge  P al 35.02 % de descuento'
 date: 2020-04-07 21:56:27
-image: 'https://m.media-amazon.com/images/I/51AZ+Zd+IaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51AZ+Zd+IaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.99'
 
 Está [MR. SIGA Dual Action Scrubbing Sponge  Pack of 6  Size:17x10x2.3cm](https://www.amazon.es/dp/B01A6HV6AE/?tag=tolees-21) con 35.02 de descuento por 12.99 EUR (original: 19.99 EUR) en el siguiente enlace!
 
-[![MR. SIGA Dual Action Scrubbing Sponge  P](https://m.media-amazon.com/images/I/51AZ+Zd+IaL._SL200_.jpg)](https://www.amazon.es/dp/B01A6HV6AE/?tag=tolees-21)
+[![MR. SIGA Dual Action Scrubbing Sponge  P](https://m.media-amazon.com/images/I/51AZ+Zd+IaL._SL400_.jpg)](https://www.amazon.es/dp/B01A6HV6AE/?tag=tolees-21)
 
 ℹ️:
 

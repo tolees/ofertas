@@ -2,7 +2,7 @@
 layout: post
 title: 'Yizhet 7/8" 22 mm Espejos de manillar de al 40.57 % de descuento'
 date: 2020-05-24 14:12:58
-image: 'https://m.media-amazon.com/images/I/417uE+RWj6L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/417uE+RWj6L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.99'
 
 Está [Yizhet 7/8" 22 mm Espejos de manillar de la motocicleta Espejo retrovisor de la moto de CNC aluminio universal Se  Rojo ](https://www.amazon.es/dp/B07SHGGL1D/?tag=tolees-21) con 40.57 de descuento por 21.99 EUR (original: 37.0 EUR) en el siguiente enlace!
 
-[![Yizhet 7/8" 22 mm Espejos de manillar de](https://m.media-amazon.com/images/I/417uE+RWj6L._SL200_.jpg)](https://www.amazon.es/dp/B07SHGGL1D/?tag=tolees-21)
+[![Yizhet 7/8" 22 mm Espejos de manillar de](https://m.media-amazon.com/images/I/417uE+RWj6L._SL400_.jpg)](https://www.amazon.es/dp/B07SHGGL1D/?tag=tolees-21)
 
 ℹ️:
 

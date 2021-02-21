@@ -2,7 +2,7 @@
 layout: post
 title: 'Smiffy S 37809 Spray Sangre Con Atomizad al 34.16 % de rebaja'
 date: 2020-03-08 18:24:16
-image: 'https://m.media-amazon.com/images/I/31ZSqe1oFHL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31ZSqe1oFHL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.99'
 
 Tienes [Smiffy S 37809 Spray Sangre Con Atomizador De Bombeo  Rojo](https://www.amazon.es/dp/B007E9VJGO/?tag=tolees-21) con precio final de  3.99 EUR (original: 6.06 EUR) (34.16 %  de rebaja) aqui!
 
-[![Smiffy S 37809 Spray Sangre Con Atomizad](https://m.media-amazon.com/images/I/31ZSqe1oFHL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B007E9VJGO/?tag=tolees-21)
+[![Smiffy S 37809 Spray Sangre Con Atomizad](https://m.media-amazon.com/images/I/31ZSqe1oFHL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B007E9VJGO/?tag=tolees-21)
 
 🔎:
 

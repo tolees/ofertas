@@ -2,7 +2,7 @@
 layout: post
 title: 'Revlon Super Lustrous Brillo Labial  #24 al 74.97 % de descuento'
 date: 2020-04-13 19:17:43
-image: 'https://m.media-amazon.com/images/I/3134JO3UTSL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/3134JO3UTSL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.3692857142857147'
 
 Ahora mismo tienes [Revlon Super Lustrous Brillo Labial  #243 Sizzling Coral ](https://www.amazon.es/dp/B00VRAJU12/?tag=tolees-21) a 1.99 EUR (original: 7.95 EUR) (74.97 %  de descuento) en el siguiente enlace!
 
-[![Revlon Super Lustrous Brillo Labial  #24](https://m.media-amazon.com/images/I/3134JO3UTSL._SL200_.jpg)](https://www.amazon.es/dp/B00VRAJU12/?tag=tolees-21)
+[![Revlon Super Lustrous Brillo Labial  #24](https://m.media-amazon.com/images/I/3134JO3UTSL._SL400_.jpg)](https://www.amazon.es/dp/B00VRAJU12/?tag=tolees-21)
 
 🔎:
 

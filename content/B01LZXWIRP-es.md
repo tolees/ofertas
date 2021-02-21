@@ -2,7 +2,7 @@
 layout: post
 title: 'Tribe Star Wars - Cable USB Lightning pa al 50.23 % de descuento'
 date: 2020-03-08 20:02:08
-image: 'https://m.media-amazon.com/images/I/41S+3CJ5lIL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41S+3CJ5lIL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.95'
 
 Está [Tribe Star Wars - Cable USB Lightning para Apple iPhone  120 cm  diseño Stormtrooper](https://www.amazon.es/dp/B01LZXWIRP/?tag=tolees-21) con 50.23 de descuento por 9.95 EUR (original: 19.99 EUR) en el siguiente enlace!
 
-[![Tribe Star Wars - Cable USB Lightning pa](https://m.media-amazon.com/images/I/41S+3CJ5lIL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01LZXWIRP/?tag=tolees-21)
+[![Tribe Star Wars - Cable USB Lightning pa](https://m.media-amazon.com/images/I/41S+3CJ5lIL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01LZXWIRP/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Mc Haus GROTTA - Mesa Comedor Extensible al 29.48 % de rebaja'
 date: 2020-09-06 13:45:24
-image: 'https://m.media-amazon.com/images/I/41d1-qKqcWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41d1-qKqcWL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '99.99'
 
 Tienes [Mc Haus GROTTA - Mesa Comedor Extensible Madera salón  Mesa Cocina diseño Nórdico y patas de madera Natural 140/190x90x78cm](https://www.amazon.es/dp/B084S9GMC4/?tag=tolees-21) con precio final de  99.99 EUR (original: 141.79 EUR) (29.48 %  de rebaja) aqui!
 
-[![Mc Haus GROTTA - Mesa Comedor Extensible](https://m.media-amazon.com/images/I/41d1-qKqcWL._SL200_.jpg)](https://www.amazon.es/dp/B084S9GMC4/?tag=tolees-21)
+[![Mc Haus GROTTA - Mesa Comedor Extensible](https://m.media-amazon.com/images/I/41d1-qKqcWL._SL400_.jpg)](https://www.amazon.es/dp/B084S9GMC4/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Arganour Jojoba Oil 100% Pure Aceite Cor al 38.70 % de rebaja'
 date: 2020-04-17 16:24:53
-image: 'https://m.media-amazon.com/images/I/51RqoHnLJmL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51RqoHnLJmL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.13'
 
 Tienes [Arganour Jojoba Oil 100% Pure Aceite Corporal - 50 ml](https://www.amazon.es/dp/B01I2Z9ITI/?tag=tolees-21) con precio final de  6.13 EUR (original: 10.0 EUR) (38.70 %  de rebaja) aqui!
 
-[![Arganour Jojoba Oil 100% Pure Aceite Cor](https://m.media-amazon.com/images/I/51RqoHnLJmL._SL200_.jpg)](https://www.amazon.es/dp/B01I2Z9ITI/?tag=tolees-21)
+[![Arganour Jojoba Oil 100% Pure Aceite Cor](https://m.media-amazon.com/images/I/51RqoHnLJmL._SL400_.jpg)](https://www.amazon.es/dp/B01I2Z9ITI/?tag=tolees-21)
 
 🔎:
 

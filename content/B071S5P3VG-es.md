@@ -2,7 +2,7 @@
 layout: post
 title: 'Asics Kanmei Zapatillas Para Correr - AW con un 60.01 % de descuento'
 date: 2020-01-27 07:44:12
-image: 'https://m.media-amazon.com/images/I/41Mux2CBAKL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Mux2CBAKL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.99'
 
 En este momento está [Asics Kanmei Zapatillas Para Correr - AW17-47](https://www.amazon.es/dp/B071S5P3VG/?tag=tolees-21) a 23.99 EUR (original: 59.99 EUR) (60.01 %  de descuento) en el siguiente enlace!
 
-[![Asics Kanmei Zapatillas Para Correr - AW](https://m.media-amazon.com/images/I/41Mux2CBAKL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B071S5P3VG/?tag=tolees-21)
+[![Asics Kanmei Zapatillas Para Correr - AW](https://m.media-amazon.com/images/I/41Mux2CBAKL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B071S5P3VG/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Fournier- Nº 1-40 Cartas Set de baraja E al 26.34 % de descuento'
 date: 2020-04-15 08:31:36
-image: 'https://m.media-amazon.com/images/I/51hQWLkV8YL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51hQWLkV8YL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.9'
 
 Está [Fournier- Nº 1-40 Cartas Set de baraja Española y tapete con Reglamento de Mus y Tute   F36790 ](https://www.amazon.es/dp/B00GCF7AT6/?tag=tolees-21) con 26.34 de descuento por 5.9 EUR (original: 8.01 EUR) en el siguiente enlace!
 
-[![Fournier- Nº 1-40 Cartas Set de baraja E](https://m.media-amazon.com/images/I/51hQWLkV8YL._SL200_.jpg)](https://www.amazon.es/dp/B00GCF7AT6/?tag=tolees-21)
+[![Fournier- Nº 1-40 Cartas Set de baraja E](https://m.media-amazon.com/images/I/51hQWLkV8YL._SL400_.jpg)](https://www.amazon.es/dp/B00GCF7AT6/?tag=tolees-21)
 
 ℹ️:
 

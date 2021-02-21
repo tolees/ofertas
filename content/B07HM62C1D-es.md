@@ -2,7 +2,7 @@
 layout: post
 title: 'Easton Marlowe 6 PR Calcetines Estampado al 76.69 % de descuento'
 date: 2020-06-30 10:45:10
-image: 'https://m.media-amazon.com/images/I/51M9CEYwtRL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51M9CEYwtRL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.79'
 
 Está [Easton Marlowe 6 PR Calcetines Estampados Hombre Argyle - 6pk #2-10  argyle - azul  39-42 EU shoe size](https://www.amazon.es/dp/B07HM62C1D/?tag=tolees-21) con 76.69 de descuento por 6.99 EUR (original: 29.99 EUR) en el siguiente enlace!
 
-[![Easton Marlowe 6 PR Calcetines Estampado](https://m.media-amazon.com/images/I/51M9CEYwtRL._SL200_.jpg)](https://www.amazon.es/dp/B07HM62C1D/?tag=tolees-21)
+[![Easton Marlowe 6 PR Calcetines Estampado](https://m.media-amazon.com/images/I/51M9CEYwtRL._SL400_.jpg)](https://www.amazon.es/dp/B07HM62C1D/?tag=tolees-21)
 
 ℹ️:
 

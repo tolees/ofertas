@@ -2,7 +2,7 @@
 layout: post
 title: 'AmazonBasics – Cable USB 2.0 A a micro U al 28.23 % de rebaja'
 date: 2020-05-29 05:50:00
-image: 'https://m.media-amazon.com/images/I/41FQfe5cDZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41FQfe5cDZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.55'
 
 Tienes [AmazonBasics – Cable USB 2.0 A a micro USB B con trenzado doble | 0 9 m  Rojo](https://www.amazon.es/dp/B074VD54TS/?tag=tolees-21) con precio final de  4.55 EUR (original: 6.34 EUR) (28.23 %  de rebaja) aqui!
 
-[![AmazonBasics – Cable USB 2.0 A a micro U](https://m.media-amazon.com/images/I/41FQfe5cDZL._SL200_.jpg)](https://www.amazon.es/dp/B074VD54TS/?tag=tolees-21)
+[![AmazonBasics – Cable USB 2.0 A a micro U](https://m.media-amazon.com/images/I/41FQfe5cDZL._SL400_.jpg)](https://www.amazon.es/dp/B074VD54TS/?tag=tolees-21)
 
 🔎:
 

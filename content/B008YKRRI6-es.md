@@ -2,7 +2,7 @@
 layout: post
 title: 'Beethoven: Symphonies & Overtures al 26.25 % de descuento'
 date: 2020-09-24 09:42:25
-image: 'https://m.media-amazon.com/images/I/51Q8riEfDJL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Q8riEfDJL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.4'
 
 Está [Beethoven: Symphonies & Overtures](https://www.amazon.es/dp/B008YKRRI6/?tag=tolees-21) con 26.25 de descuento por 18.4 EUR (original: 24.95 EUR) en el siguiente enlace!
 
-[![Beethoven: Symphonies & Overtures](https://m.media-amazon.com/images/I/51Q8riEfDJL._SL200_.jpg)](https://www.amazon.es/dp/B008YKRRI6/?tag=tolees-21)
+[![Beethoven: Symphonies & Overtures](https://m.media-amazon.com/images/I/51Q8riEfDJL._SL400_.jpg)](https://www.amazon.es/dp/B008YKRRI6/?tag=tolees-21)
 
 ℹ️:
 

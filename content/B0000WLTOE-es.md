@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 43.65 % en Dickies Original 874 Work Pants  Pantalo'
 date: 2020-02-17 12:25:46
-image: 'https://m.media-amazon.com/images/I/31CBGWI+jGL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31CBGWI+jGL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '30.99'
 
 Tienes [Dickies Original 874 Work Pants  Pantalones Para Hombre  Gris  Charcoal Grey   w34/l34](https://www.amazon.es/dp/B0000WLTOE/?tag=tolees-21) con un 43.65 % de descuento con precio de oferta de 30.99 EUR (original: 55.0 EUR) en el siguiente enlace!
 
-[![Dickies Original 874 Work Pants  Pantalo](https://m.media-amazon.com/images/I/31CBGWI+jGL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B0000WLTOE/?tag=tolees-21)
+[![Dickies Original 874 Work Pants  Pantalo](https://m.media-amazon.com/images/I/31CBGWI+jGL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B0000WLTOE/?tag=tolees-21)
 
 ℹ️:
 

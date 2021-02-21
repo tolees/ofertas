@@ -2,7 +2,7 @@
 layout: post
 title: 'Baoblaze Commlite Ct-g430cr Receptor de  al 44.44 % de descuento'
 date: 2020-03-13 10:21:32
-image: 'https://m.media-amazon.com/images/I/41lIHakdlOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41lIHakdlOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.0075'
 
 Ahora mismo tienes [Baoblaze Commlite Ct-g430cr Receptor de Disparo de Flash de Estudio Multifuncional para Canon](https://www.amazon.es/dp/B07KCGBHGY/?tag=tolees-21) a 17.65 EUR (original: 31.77 EUR) (44.44 %  de descuento) en el siguiente enlace!
 
-[![Baoblaze Commlite Ct-g430cr Receptor de ](https://m.media-amazon.com/images/I/41lIHakdlOL._SL200_.jpg)](https://www.amazon.es/dp/B07KCGBHGY/?tag=tolees-21)
+[![Baoblaze Commlite Ct-g430cr Receptor de ](https://m.media-amazon.com/images/I/41lIHakdlOL._SL400_.jpg)](https://www.amazon.es/dp/B07KCGBHGY/?tag=tolees-21)
 
 🔎:
 

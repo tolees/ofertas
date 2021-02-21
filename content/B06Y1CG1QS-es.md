@@ -2,7 +2,7 @@
 layout: post
 title: 'Wrangler HIGH RISE SKINNY Pantalones  Ne al 31.91 % de descuento'
 date: 2020-10-10 13:14:37
-image: 'https://m.media-amazon.com/images/I/31wUmm+9-YL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31wUmm+9-YL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '54.44'
 
 Está [Wrangler HIGH RISE SKINNY Pantalones  Negro  Rinsewash 023   31W / 30L para Mujer](https://www.amazon.es/dp/B06Y1CG1QS/?tag=tolees-21) con 31.91 de descuento por 54.44 EUR (original: 79.95 EUR) en el siguiente enlace!
 
-[![Wrangler HIGH RISE SKINNY Pantalones  Ne](https://m.media-amazon.com/images/I/31wUmm+9-YL._SL200_.jpg)](https://www.amazon.es/dp/B06Y1CG1QS/?tag=tolees-21)
+[![Wrangler HIGH RISE SKINNY Pantalones  Ne](https://m.media-amazon.com/images/I/31wUmm+9-YL._SL400_.jpg)](https://www.amazon.es/dp/B06Y1CG1QS/?tag=tolees-21)
 
 ℹ️:
 

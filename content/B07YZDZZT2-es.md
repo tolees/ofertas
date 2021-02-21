@@ -2,7 +2,7 @@
 layout: post
 title: 'Femometer Pastillero Semanal 3 Tomas 7 D al 50.03 % de descuento'
 date: 2020-04-24 07:01:28
-image: 'https://m.media-amazon.com/images/I/41tEmHTmMlL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41tEmHTmMlL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.99'
 
 Ahora mismo tienes [Femometer Pastillero Semanal 3 Tomas 7 Dias 21 compartimentos   Dispensador diario de medicación  Con Estuche de Cuero para](https://www.amazon.es/dp/B07YZDZZT2/?tag=tolees-21) a 9.99 EUR (original: 19.99 EUR) (50.03 %  de descuento) en el siguiente enlace!
 
-[![Femometer Pastillero Semanal 3 Tomas 7 D](https://m.media-amazon.com/images/I/41tEmHTmMlL._SL200_.jpg)](https://www.amazon.es/dp/B07YZDZZT2/?tag=tolees-21)
+[![Femometer Pastillero Semanal 3 Tomas 7 D](https://m.media-amazon.com/images/I/41tEmHTmMlL._SL400_.jpg)](https://www.amazon.es/dp/B07YZDZZT2/?tag=tolees-21)
 
 🔎:
 

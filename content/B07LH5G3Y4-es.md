@@ -2,7 +2,7 @@
 layout: post
 title: 'Intex 57506NP - Set 3 posavasos Unicorni al 29.82 % de rebaja'
 date: 2020-05-30 15:29:42
-image: 'https://m.media-amazon.com/images/I/41Qi2-8lENL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Qi2-8lENL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.99'
 
 Tienes [Intex 57506NP - Set 3 posavasos Unicornio  12 x 20 cm](https://www.amazon.es/dp/B07LH5G3Y4/?tag=tolees-21) con precio final de  6.99 EUR (original: 9.96 EUR) (29.82 %  de rebaja) aqui!
 
-[![Intex 57506NP - Set 3 posavasos Unicorni](https://m.media-amazon.com/images/I/41Qi2-8lENL._SL200_.jpg)](https://www.amazon.es/dp/B07LH5G3Y4/?tag=tolees-21)
+[![Intex 57506NP - Set 3 posavasos Unicorni](https://m.media-amazon.com/images/I/41Qi2-8lENL._SL400_.jpg)](https://www.amazon.es/dp/B07LH5G3Y4/?tag=tolees-21)
 
 🔎:
 

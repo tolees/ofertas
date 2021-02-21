@@ -2,7 +2,7 @@
 layout: post
 title: 'Funda compatible con Huawei Mate 20 Lite con un 47.39 % de descuento'
 date: 2020-05-23 16:02:44
-image: 'https://m.media-amazon.com/images/I/41DvhMO6tOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41DvhMO6tOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.99'
 
 En este momento está [Funda compatible con Huawei Mate 20 Lite  ultrafina  suave  flexible  de silicona TPU  con diseño de mármol  antigolpes  color amarillo 8 Talla única](https://www.amazon.es/dp/B07YW5YH3N/?tag=tolees-21) a 9.99 EUR (original: 18.99 EUR) (47.39 %  de descuento) en el siguiente enlace!
 
-[![Funda compatible con Huawei Mate 20 Lite](https://m.media-amazon.com/images/I/41DvhMO6tOL._SL200_.jpg)](https://www.amazon.es/dp/B07YW5YH3N/?tag=tolees-21)
+[![Funda compatible con Huawei Mate 20 Lite](https://m.media-amazon.com/images/I/41DvhMO6tOL._SL400_.jpg)](https://www.amazon.es/dp/B07YW5YH3N/?tag=tolees-21)
 
 🔎:
 

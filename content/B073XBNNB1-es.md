@@ -2,7 +2,7 @@
 layout: post
 title: 'Rebel Heart Tour [Blu-ray] al 38.26 % de descuento'
 date: 2020-02-08 04:36:13
-image: 'https://m.media-amazon.com/images/I/51LbVRCyi+L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51LbVRCyi+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.99'
 
 Está [Rebel Heart Tour [Blu-ray]](https://www.amazon.es/dp/B073XBNNB1/?tag=tolees-21) con 38.26 de descuento por 11.99 EUR (original: 19.42 EUR) en el siguiente enlace!
 
-[![Rebel Heart Tour [Blu-ray]](https://m.media-amazon.com/images/I/51LbVRCyi+L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B073XBNNB1/?tag=tolees-21)
+[![Rebel Heart Tour [Blu-ray]](https://m.media-amazon.com/images/I/51LbVRCyi+L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B073XBNNB1/?tag=tolees-21)
 
 ℹ️:
 

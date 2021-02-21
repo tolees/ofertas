@@ -2,7 +2,7 @@
 layout: post
 title: 'HP 24f - Monitor de 24"  FHD  1920 x 108 al 29.25 % de rebaja'
 date: 2020-04-13 09:26:20
-image: 'https://m.media-amazon.com/images/I/41VhGAKP3NL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41VhGAKP3NL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '123.428'
 
 Tienes [HP 24f - Monitor de 24"  FHD  1920 x 1080 pixeles  Tiempo de Respuesta de 5 ms  1 x HDMI  1 x VGA  16:9   Negro y Blanco](https://www.amazon.es/dp/B07CP9DN99/?tag=tolees-21) con precio final de  126.65 EUR (original: 179.0 EUR) (29.25 %  de rebaja) aqui!
 
-[![HP 24f - Monitor de 24"  FHD  1920 x 108](https://m.media-amazon.com/images/I/41VhGAKP3NL._SL200_.jpg)](https://www.amazon.es/dp/B07CP9DN99/?tag=tolees-21)
+[![HP 24f - Monitor de 24"  FHD  1920 x 108](https://m.media-amazon.com/images/I/41VhGAKP3NL._SL400_.jpg)](https://www.amazon.es/dp/B07CP9DN99/?tag=tolees-21)
 
 🔎:
 

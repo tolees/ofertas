@@ -2,7 +2,7 @@
 layout: post
 title: 'Geographical Norway Polar Hombre Upload  al 30.00 % de rebaja'
 date: 2020-01-10 07:56:34
-image: 'https://images-eu.ssl-images-amazon.com/images/I/410hM0GaxJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/410hM0GaxJL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '27.3'
 
 Tienes [Geographical Norway Polar Hombre Upload Taupe M](https://www.amazon.es/dp/B081CDJ4KQ/?tag=tolees-21) con precio final de  27.3 EUR (original: 39 EUR) (30.00 %  de rebaja) aqui!
 
-[![Geographical Norway Polar Hombre Upload ](https://images-eu.ssl-images-amazon.com/images/I/410hM0GaxJL._SL200_.jpg)](https://www.amazon.es/dp/B081CDJ4KQ/?tag=tolees-21)
+[![Geographical Norway Polar Hombre Upload ](https://images-eu.ssl-images-amazon.com/images/I/410hM0GaxJL._SL400_.jpg)](https://www.amazon.es/dp/B081CDJ4KQ/?tag=tolees-21)
 
 🔎:
 

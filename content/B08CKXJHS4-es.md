@@ -2,7 +2,7 @@
 layout: post
 title: 'Hogar Lavado portátil Lavado de artefact al 33.52 % de rebaja'
 date: 2020-07-11 22:39:42
-image: 'https://m.media-amazon.com/images/I/418sd3icOkL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/418sd3icOkL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.97'
 
 Tienes [Hogar Lavado portátil Lavado de artefactos de cara Instrumento de limpieza eléctrica de silicona Cepillo de lavado a prueba de agua - Multicolor](https://www.amazon.es/dp/B08CKXJHS4/?tag=tolees-21) con precio final de  5.97 EUR (original: 8.98 EUR) (33.52 %  de rebaja) aqui!
 
-[![Hogar Lavado portátil Lavado de artefact](https://m.media-amazon.com/images/I/418sd3icOkL._SL200_.jpg)](https://www.amazon.es/dp/B08CKXJHS4/?tag=tolees-21)
+[![Hogar Lavado portátil Lavado de artefact](https://m.media-amazon.com/images/I/418sd3icOkL._SL400_.jpg)](https://www.amazon.es/dp/B08CKXJHS4/?tag=tolees-21)
 
 🔎:
 

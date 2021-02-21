@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 43.82 % en Scitec Nutrition Hot Blood 3.0 Complejo '
 date: 2020-04-26 08:41:08
-image: 'https://m.media-amazon.com/images/I/51LlGh9phyL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51LlGh9phyL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.235'
 
 Tienes [Scitec Nutrition Hot Blood 3.0 Complejo estimulante de pre-entrenamieto  sabor guaraná - 300 g](https://www.amazon.es/dp/B00QUFDQSW/?tag=tolees-21) con un 43.82 % de descuento con precio de oferta de 10.27 EUR (original: 18.28 EUR) en el siguiente enlace!
 
-[![Scitec Nutrition Hot Blood 3.0 Complejo ](https://m.media-amazon.com/images/I/51LlGh9phyL._SL200_.jpg)](https://www.amazon.es/dp/B00QUFDQSW/?tag=tolees-21)
+[![Scitec Nutrition Hot Blood 3.0 Complejo ](https://m.media-amazon.com/images/I/51LlGh9phyL._SL400_.jpg)](https://www.amazon.es/dp/B00QUFDQSW/?tag=tolees-21)
 
 ℹ️:
 

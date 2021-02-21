@@ -2,7 +2,7 @@
 layout: post
 title: 'Sierra Circular  TECCPO 3500RPM 480W Min al 50.02 % de rebaja'
 date: 2020-08-13 10:52:48
-image: 'https://m.media-amazon.com/images/I/51Bx1fAVoYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Bx1fAVoYL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '47.696'
 
 Tienes [Sierra Circular  TECCPO 3500RPM 480W Mini Sierra Circular  Guía Láser  3 Cuchillas Ø 85 mm  Profundidad de Corte: 27 mm  Cortar Madera  Plastica  Metal Blando y Azulejos -TAPS22P](https://www.amazon.es/dp/B07FPS5VL4/?tag=tolees-21) con precio final de  49.98 EUR (original: 99.99 EUR) (50.02 %  de rebaja) aqui!
 
-[![Sierra Circular  TECCPO 3500RPM 480W Min](https://m.media-amazon.com/images/I/51Bx1fAVoYL._SL200_.jpg)](https://www.amazon.es/dp/B07FPS5VL4/?tag=tolees-21)
+[![Sierra Circular  TECCPO 3500RPM 480W Min](https://m.media-amazon.com/images/I/51Bx1fAVoYL._SL400_.jpg)](https://www.amazon.es/dp/B07FPS5VL4/?tag=tolees-21)
 
 🔎:
 

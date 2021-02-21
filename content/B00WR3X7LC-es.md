@@ -2,7 +2,7 @@
 layout: post
 title: 'Skechers Equalizer Double Play  Men s Fi al 29.22 % de descuento'
 date: 2020-09-12 17:10:11
-image: 'https://m.media-amazon.com/images/I/41D17PSKALL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41D17PSKALL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '42.75333333333333'
 
 Ahora mismo tienes [Skechers Equalizer Double Play  Men s Fitness Shoes Blue  Navy  10 UK 45 EU](https://www.amazon.es/dp/B00WR3X7LC/?tag=tolees-21) a 45.97 EUR (original: 64.95 EUR) (29.22 %  de descuento) en el siguiente enlace!
 
-[![Skechers Equalizer Double Play  Men s Fi](https://m.media-amazon.com/images/I/41D17PSKALL._SL200_.jpg)](https://www.amazon.es/dp/B00WR3X7LC/?tag=tolees-21)
+[![Skechers Equalizer Double Play  Men s Fi](https://m.media-amazon.com/images/I/41D17PSKALL._SL400_.jpg)](https://www.amazon.es/dp/B00WR3X7LC/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 25.96 % en Pimms Licores - 1000 ml'
 date: 2020-10-02 17:55:27
-image: 'https://m.media-amazon.com/images/I/31dTz+khT2L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31dTz+khT2L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.188'
 
 Tienes [Pimms Licores - 1000 ml](https://www.amazon.es/dp/B001QMCBN0/?tag=tolees-21) con un 25.96 % de descuento con precio de oferta de 16.8 EUR (original: 22.69 EUR) en el siguiente enlace!
 
-[![Pimms Licores - 1000 ml](https://m.media-amazon.com/images/I/31dTz+khT2L._SL200_.jpg)](https://www.amazon.es/dp/B001QMCBN0/?tag=tolees-21)
+[![Pimms Licores - 1000 ml](https://m.media-amazon.com/images/I/31dTz+khT2L._SL400_.jpg)](https://www.amazon.es/dp/B001QMCBN0/?tag=tolees-21)
 
 ℹ️:
 

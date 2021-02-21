@@ -2,7 +2,7 @@
 layout: post
 title: 'FOREO UFO mini - Tratamiento de Mascaril al 59.63 % de descuento'
 date: 2020-08-06 13:25:46
-image: 'https://m.media-amazon.com/images/I/51bY1yyvLoL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51bY1yyvLoL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '72.27'
 
 Ahora mismo tienes [FOREO UFO mini - Tratamiento de Mascarilla Inteligente  Color Fuchsia](https://www.amazon.es/dp/B07CZKZL92/?tag=tolees-21) a 72.27 EUR (original: 179.0 EUR) (59.63 %  de descuento) en el siguiente enlace!
 
-[![FOREO UFO mini - Tratamiento de Mascaril](https://m.media-amazon.com/images/I/51bY1yyvLoL._SL200_.jpg)](https://www.amazon.es/dp/B07CZKZL92/?tag=tolees-21)
+[![FOREO UFO mini - Tratamiento de Mascaril](https://m.media-amazon.com/images/I/51bY1yyvLoL._SL400_.jpg)](https://www.amazon.es/dp/B07CZKZL92/?tag=tolees-21)
 
 🔎:
 

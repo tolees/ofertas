@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 46.80 % en Cecotec Rollos Gofrados Set de 2 Rollos '
 date: 2020-06-01 08:05:16
-image: 'https://m.media-amazon.com/images/I/41kvDGMinTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41kvDGMinTL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.99'
 
 Tienes [Cecotec Rollos Gofrados Set de 2 Rollos Grandes 28 x 600 cm. Superficie gofrada  BPA Free](https://www.amazon.es/dp/B076PLKV5W/?tag=tolees-21) con un 46.80 % de descuento con precio de oferta de 8.99 EUR (original: 16.9 EUR) en el siguiente enlace!
 
-[![Cecotec Rollos Gofrados Set de 2 Rollos ](https://m.media-amazon.com/images/I/41kvDGMinTL._SL200_.jpg)](https://www.amazon.es/dp/B076PLKV5W/?tag=tolees-21)
+[![Cecotec Rollos Gofrados Set de 2 Rollos ](https://m.media-amazon.com/images/I/41kvDGMinTL._SL400_.jpg)](https://www.amazon.es/dp/B076PLKV5W/?tag=tolees-21)
 
 ℹ️:
 

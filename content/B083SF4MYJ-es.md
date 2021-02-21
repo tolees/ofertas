@@ -2,7 +2,7 @@
 layout: post
 title: 'Funda Universal para Tableta portátil Fu al 35.04 % de rebaja'
 date: 2020-09-21 15:46:21
-image: 'https://m.media-amazon.com/images/I/31CqW74b4pL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31CqW74b4pL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.78'
 
 Tienes [Funda Universal para Tableta portátil Funda Ultra Suave Impermeable a Prueba de Golpes Funda Protectora a Prueba de Golpes para PC portátil - Negro - 9"](https://www.amazon.es/dp/B083SF4MYJ/?tag=tolees-21) con precio final de  1.78 EUR (original: 2.74 EUR) (35.04 %  de rebaja) aqui!
 
-[![Funda Universal para Tableta portátil Fu](https://m.media-amazon.com/images/I/31CqW74b4pL._SL200_.jpg)](https://www.amazon.es/dp/B083SF4MYJ/?tag=tolees-21)
+[![Funda Universal para Tableta portátil Fu](https://m.media-amazon.com/images/I/31CqW74b4pL._SL400_.jpg)](https://www.amazon.es/dp/B083SF4MYJ/?tag=tolees-21)
 
 🔎:
 

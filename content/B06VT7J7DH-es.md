@@ -2,7 +2,7 @@
 layout: post
 title: 'EDIMAX RG21S INALAMBRICO ENRUTADOR AC260 al 34.71 % de descuento'
 date: 2020-05-27 21:38:51
-image: 'https://m.media-amazon.com/images/I/41pVj-w0uSL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41pVj-w0uSL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '127.79'
 
 Ahora mismo tienes [EDIMAX RG21S INALAMBRICO ENRUTADOR AC2600 2.4/5 GHz  Dual Band  GIGABIT Negro](https://www.amazon.es/dp/B06VT7J7DH/?tag=tolees-21) a 127.79 EUR (original: 195.74 EUR) (34.71 %  de descuento) en el siguiente enlace!
 
-[![EDIMAX RG21S INALAMBRICO ENRUTADOR AC260](https://m.media-amazon.com/images/I/41pVj-w0uSL._SL200_.jpg)](https://www.amazon.es/dp/B06VT7J7DH/?tag=tolees-21)
+[![EDIMAX RG21S INALAMBRICO ENRUTADOR AC260](https://m.media-amazon.com/images/I/41pVj-w0uSL._SL400_.jpg)](https://www.amazon.es/dp/B06VT7J7DH/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Columbia Redmond V2  Zapatillas de Sende al 35.63 % de descuento'
 date: 2020-06-11 05:55:24
-image: 'https://m.media-amazon.com/images/I/41TowwiLg9L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41TowwiLg9L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '51.49'
 
 Ahora mismo tienes [Columbia Redmond V2  Zapatillas de Senderismo para Hombre  Marrón  Saddle/Canyon Gold 269   43 EU](https://www.amazon.es/dp/B07JHCH537/?tag=tolees-21) a 51.49 EUR (original: 79.99 EUR) (35.63 %  de descuento) en el siguiente enlace!
 
-[![Columbia Redmond V2  Zapatillas de Sende](https://m.media-amazon.com/images/I/41TowwiLg9L._SL200_.jpg)](https://www.amazon.es/dp/B07JHCH537/?tag=tolees-21)
+[![Columbia Redmond V2  Zapatillas de Sende](https://m.media-amazon.com/images/I/41TowwiLg9L._SL400_.jpg)](https://www.amazon.es/dp/B07JHCH537/?tag=tolees-21)
 
 🔎:
 

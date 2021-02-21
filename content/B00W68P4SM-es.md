@@ -2,7 +2,7 @@
 layout: post
 title: 'Dickies Slim Fit Work Pant Pantalones  N al 29.84 % de rebaja'
 date: 2020-04-27 10:55:53
-image: 'https://m.media-amazon.com/images/I/31k+f9TdyDL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31k+f9TdyDL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '38.59'
 
 Tienes [Dickies Slim Fit Work Pant Pantalones  Negro  Black BK    Tamaño del Fabricante:40/34  para Hombre](https://www.amazon.es/dp/B00W68P4SM/?tag=tolees-21) con precio final de  38.59 EUR (original: 55.0 EUR) (29.84 %  de rebaja) aqui!
 
-[![Dickies Slim Fit Work Pant Pantalones  N](https://m.media-amazon.com/images/I/31k+f9TdyDL._SL200_.jpg)](https://www.amazon.es/dp/B00W68P4SM/?tag=tolees-21)
+[![Dickies Slim Fit Work Pant Pantalones  N](https://m.media-amazon.com/images/I/31k+f9TdyDL._SL400_.jpg)](https://www.amazon.es/dp/B00W68P4SM/?tag=tolees-21)
 
 🔎:
 

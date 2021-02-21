@@ -2,7 +2,7 @@
 layout: post
 title: 'MYCARBON Escala del Equipaje Pesa Maleta al 30.40 % de descuento'
 date: 2020-01-02 09:13:39
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41faEXrbMcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41faEXrbMcL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.54'
 
 Ahora mismo tienes [MYCARBON Escala del Equipaje Pesa Maletas Báscula Digital Portátil Bascula para Maletas de Viaje Pantalla LCD Retroiluminada para Leer Tare Function Balanzas de Equipaje Rojo](https://www.amazon.es/dp/B077RWSMHV/?tag=tolees-21) a 11.54 EUR (original: 16.58 EUR) (30.40 %  de descuento) en el siguiente enlace!
 
-[![MYCARBON Escala del Equipaje Pesa Maleta](https://images-eu.ssl-images-amazon.com/images/I/41faEXrbMcL._SL200_.jpg)](https://www.amazon.es/dp/B077RWSMHV/?tag=tolees-21)
+[![MYCARBON Escala del Equipaje Pesa Maleta](https://images-eu.ssl-images-amazon.com/images/I/41faEXrbMcL._SL400_.jpg)](https://www.amazon.es/dp/B077RWSMHV/?tag=tolees-21)
 
 🔎:
 

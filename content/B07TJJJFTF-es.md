@@ -2,7 +2,7 @@
 layout: post
 title: 'Nike U Nk H86 Cap Metal Swoosh Hat  Unis al 50.15 % de descuento'
 date: 2020-08-06 11:50:07
-image: 'https://m.media-amazon.com/images/I/31df9xdqq6L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31df9xdqq6L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.45'
 
 Ahora mismo tienes [Nike U Nk H86 Cap Metal Swoosh Hat  Unisex Adulto  Team Orange  MISC](https://www.amazon.es/dp/B07TJJJFTF/?tag=tolees-21) a 8.45 EUR (original: 16.95 EUR) (50.15 %  de descuento) en el siguiente enlace!
 
-[![Nike U Nk H86 Cap Metal Swoosh Hat  Unis](https://m.media-amazon.com/images/I/31df9xdqq6L._SL200_.jpg)](https://www.amazon.es/dp/B07TJJJFTF/?tag=tolees-21)
+[![Nike U Nk H86 Cap Metal Swoosh Hat  Unis](https://m.media-amazon.com/images/I/31df9xdqq6L._SL400_.jpg)](https://www.amazon.es/dp/B07TJJJFTF/?tag=tolees-21)
 
 🔎:
 

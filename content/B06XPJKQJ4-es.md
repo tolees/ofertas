@@ -2,7 +2,7 @@
 layout: post
 title: 'IEFIEL Vestidos de Princesa Fiesta Bauti al 50.05 % de rebaja'
 date: 2020-07-03 05:41:00
-image: 'https://m.media-amazon.com/images/I/517rG2aHOWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/517rG2aHOWL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.99'
 
 Tienes [IEFIEL Vestidos de Princesa Fiesta Bautizo Tutú con Braga Interior Disfraces para Bebés Niñas  12 Meses a 8 Años  Rojo 3 Años](https://www.amazon.es/dp/B06XPJKQJ4/?tag=tolees-21) con precio final de  10.99 EUR (original: 22.0 EUR) (50.05 %  de rebaja) aqui!
 
-[![IEFIEL Vestidos de Princesa Fiesta Bauti](https://m.media-amazon.com/images/I/517rG2aHOWL._SL200_.jpg)](https://www.amazon.es/dp/B06XPJKQJ4/?tag=tolees-21)
+[![IEFIEL Vestidos de Princesa Fiesta Bauti](https://m.media-amazon.com/images/I/517rG2aHOWL._SL400_.jpg)](https://www.amazon.es/dp/B06XPJKQJ4/?tag=tolees-21)
 
 🔎:
 

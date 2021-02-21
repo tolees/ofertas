@@ -2,7 +2,7 @@
 layout: post
 title: 'PUMA Nova 2 Wn s  Zapatillas Deportivas  al 58.84 % de descuento'
 date: 2020-05-15 03:53:20
-image: 'https://m.media-amazon.com/images/I/31Q919yZ4sL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Q919yZ4sL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '36.772'
 
 Ahora mismo tienes [PUMA Nova 2 Wn s  Zapatillas Deportivas para Mujer  Negro Black-Heather  36 EU](https://www.amazon.es/dp/B07KG7RSDK/?tag=tolees-21) a 37.02 EUR (original: 89.95 EUR) (58.84 %  de descuento) en el siguiente enlace!
 
-[![PUMA Nova 2 Wn s  Zapatillas Deportivas ](https://m.media-amazon.com/images/I/31Q919yZ4sL._SL200_.jpg)](https://www.amazon.es/dp/B07KG7RSDK/?tag=tolees-21)
+[![PUMA Nova 2 Wn s  Zapatillas Deportivas ](https://m.media-amazon.com/images/I/31Q919yZ4sL._SL400_.jpg)](https://www.amazon.es/dp/B07KG7RSDK/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Corsair Dominator Platinum - Módulo de M al 37.15 % de descuento'
 date: 2020-09-14 02:39:18
-image: 'https://m.media-amazon.com/images/I/51QXBU+1CRL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51QXBU+1CRL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '211.65'
 
 Ahora mismo tienes [Corsair Dominator Platinum - Módulo de Memoria XMP 2.0 de Alto Rendimiento de 32 GB  2 x 16 GB  DDR4  3200 MHz  C16 ](https://www.amazon.es/dp/B01BGZEWO2/?tag=tolees-21) a 199.0 EUR (original: 316.64 EUR) (37.15 %  de descuento) en el siguiente enlace!
 
-[![Corsair Dominator Platinum - Módulo de M](https://m.media-amazon.com/images/I/51QXBU+1CRL._SL200_.jpg)](https://www.amazon.es/dp/B01BGZEWO2/?tag=tolees-21)
+[![Corsair Dominator Platinum - Módulo de M](https://m.media-amazon.com/images/I/51QXBU+1CRL._SL400_.jpg)](https://www.amazon.es/dp/B01BGZEWO2/?tag=tolees-21)
 
 🔎:
 

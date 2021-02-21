@@ -2,7 +2,7 @@
 layout: post
 title: 'BOSS Schino-Regular Short Pantalones Cor al 54.21 % de rebaja'
 date: 2020-10-06 19:55:48
-image: 'https://m.media-amazon.com/images/I/41-qaBXXm7L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41-qaBXXm7L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '41.19'
 
 Tienes [BOSS Schino-Regular Short Pantalones Cortos  Beige  Medium Beige 263   W31  Talla del Fabricante: 31  para Hombre](https://www.amazon.es/dp/B07KGNFF74/?tag=tolees-21) con precio final de  41.19 EUR (original: 89.95 EUR) (54.21 %  de rebaja) aqui!
 
-[![BOSS Schino-Regular Short Pantalones Cor](https://m.media-amazon.com/images/I/41-qaBXXm7L._SL200_.jpg)](https://www.amazon.es/dp/B07KGNFF74/?tag=tolees-21)
+[![BOSS Schino-Regular Short Pantalones Cor](https://m.media-amazon.com/images/I/41-qaBXXm7L._SL400_.jpg)](https://www.amazon.es/dp/B07KGNFF74/?tag=tolees-21)
 
 🔎:
 

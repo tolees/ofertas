@@ -2,7 +2,7 @@
 layout: post
 title: 'Bourjois Contour Clubbing; Delineador de al 53.85 % de descuento'
 date: 2020-06-29 13:44:56
-image: 'https://m.media-amazon.com/images/I/312Hg9cHrGL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/312Hg9cHrGL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.37'
 
 Está [Bourjois Contour Clubbing; Delineador de Ojos. Tono 61 Denim pulse - 5 gr.](https://www.amazon.es/dp/B01GRF6HLM/?tag=tolees-21) con 53.85 de descuento por 3.0 EUR (original: 6.5 EUR) en el siguiente enlace!
 
-[![Bourjois Contour Clubbing; Delineador de](https://m.media-amazon.com/images/I/312Hg9cHrGL._SL200_.jpg)](https://www.amazon.es/dp/B01GRF6HLM/?tag=tolees-21)
+[![Bourjois Contour Clubbing; Delineador de](https://m.media-amazon.com/images/I/312Hg9cHrGL._SL400_.jpg)](https://www.amazon.es/dp/B01GRF6HLM/?tag=tolees-21)
 
 ℹ️:
 

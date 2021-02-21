@@ -2,7 +2,7 @@
 layout: post
 title: 'Star Wars - Figura de The Mandalorian 15 al 29.19 % de descuento'
 date: 2020-03-19 17:03:57
-image: 'https://m.media-amazon.com/images/I/41y1ZKgUSQL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41y1ZKgUSQL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.99'
 
 Ahora mismo tienes [Star Wars - Figura de The Mandalorian 15 cm Jawa de Black Series  E7943EL2 ](https://www.amazon.es/dp/B07RXVBVGM/?tag=tolees-21) a 15.99 EUR (original: 22.58 EUR) (29.19 %  de descuento) en el siguiente enlace!
 
-[![Star Wars - Figura de The Mandalorian 15](https://m.media-amazon.com/images/I/41y1ZKgUSQL._SL200_.jpg)](https://www.amazon.es/dp/B07RXVBVGM/?tag=tolees-21)
+[![Star Wars - Figura de The Mandalorian 15](https://m.media-amazon.com/images/I/41y1ZKgUSQL._SL400_.jpg)](https://www.amazon.es/dp/B07RXVBVGM/?tag=tolees-21)
 
 🔎:
 

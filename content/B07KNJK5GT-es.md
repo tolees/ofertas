@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 28.18 % en MILAGRITO DESENGRASANTE MULTIUSOS LOTE A'
 date: 2020-06-18 10:22:08
-image: 'https://m.media-amazon.com/images/I/51WSKW2+WbL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51WSKW2+WbL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.48'
 
 Tienes [MILAGRITO DESENGRASANTE MULTIUSOS LOTE AHORRO](https://www.amazon.es/dp/B07KNJK5GT/?tag=tolees-21) con un 28.18 % de descuento con precio de oferta de 9.48 EUR (original: 13.2 EUR) en el siguiente enlace!
 
-[![MILAGRITO DESENGRASANTE MULTIUSOS LOTE A](https://m.media-amazon.com/images/I/51WSKW2+WbL._SL200_.jpg)](https://www.amazon.es/dp/B07KNJK5GT/?tag=tolees-21)
+[![MILAGRITO DESENGRASANTE MULTIUSOS LOTE A](https://m.media-amazon.com/images/I/51WSKW2+WbL._SL400_.jpg)](https://www.amazon.es/dp/B07KNJK5GT/?tag=tolees-21)
 
 ℹ️:
 

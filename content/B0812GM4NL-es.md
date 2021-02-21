@@ -2,7 +2,7 @@
 layout: post
 title: 'Asics Gel-Nimbus 22 Lite - Show  Running al 30.28 % de rebaja'
 date: 2020-08-12 18:00:17
-image: 'https://m.media-amazon.com/images/I/413odfWNXGL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/413odfWNXGL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '90.47'
 
 Tienes [Asics Gel-Nimbus 22 Lite - Show  Running Shoe Womens  Sheet Rock/Sheet Rock  40 EU](https://www.amazon.es/dp/B0812GM4NL/?tag=tolees-21) con precio final de  90.47 EUR (original: 129.77 EUR) (30.28 %  de rebaja) aqui!
 
-[![Asics Gel-Nimbus 22 Lite - Show  Running](https://m.media-amazon.com/images/I/413odfWNXGL._SL200_.jpg)](https://www.amazon.es/dp/B0812GM4NL/?tag=tolees-21)
+[![Asics Gel-Nimbus 22 Lite - Show  Running](https://m.media-amazon.com/images/I/413odfWNXGL._SL400_.jpg)](https://www.amazon.es/dp/B0812GM4NL/?tag=tolees-21)
 
 🔎:
 

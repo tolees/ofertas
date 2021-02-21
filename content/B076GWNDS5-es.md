@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 38.44 % en Oxímetro de Pulso Dedo Pulsioxímetro JUM'
 date: 2020-02-27 09:35:59
-image: 'https://m.media-amazon.com/images/I/4113971uDtL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/4113971uDtL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.69'
 
 Tienes [Oxímetro de Pulso Dedo Pulsioxímetro JUMPER para Saturación de Oxígeno en la Sangre y Medición de la Frecuencia del Pulso  Elegante Morado ](https://www.amazon.es/dp/B076GWNDS5/?tag=tolees-21) con un 38.44 % de descuento con precio de oferta de 11.69 EUR (original: 18.99 EUR) en el siguiente enlace!
 
-[![Oxímetro de Pulso Dedo Pulsioxímetro JUM](https://m.media-amazon.com/images/I/4113971uDtL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B076GWNDS5/?tag=tolees-21)
+[![Oxímetro de Pulso Dedo Pulsioxímetro JUM](https://m.media-amazon.com/images/I/4113971uDtL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B076GWNDS5/?tag=tolees-21)
 
 ℹ️:
 

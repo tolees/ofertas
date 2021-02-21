@@ -2,7 +2,7 @@
 layout: post
 title: 'Cosstars Unisex 3D Digital Estampado Gim al 50.04 % de rebaja'
 date: 2020-04-25 23:21:00
-image: 'https://m.media-amazon.com/images/I/41vUBiBLVuL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41vUBiBLVuL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.98'
 
 Tienes [Cosstars Unisex 3D Digital Estampado Gimnasia del Deporte Que Activan los Pantalones Ocasionales Sweatpants Pants](https://www.amazon.es/dp/B0779CKMM9/?tag=tolees-21) con precio final de  19.98 EUR (original: 39.99 EUR) (50.04 %  de rebaja) aqui!
 
-[![Cosstars Unisex 3D Digital Estampado Gim](https://m.media-amazon.com/images/I/41vUBiBLVuL._SL200_.jpg)](https://www.amazon.es/dp/B0779CKMM9/?tag=tolees-21)
+[![Cosstars Unisex 3D Digital Estampado Gim](https://m.media-amazon.com/images/I/41vUBiBLVuL._SL400_.jpg)](https://www.amazon.es/dp/B0779CKMM9/?tag=tolees-21)
 
 🔎:
 

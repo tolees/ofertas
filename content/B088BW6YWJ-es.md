@@ -2,7 +2,7 @@
 layout: post
 title: 'Dasket 35x25cm 30 Hojas de Papel de arro al 40.02 % de descuento'
 date: 2020-06-17 09:45:25
-image: 'https://m.media-amazon.com/images/I/31nqWXb2gNL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31nqWXb2gNL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.35'
 
 Está [Dasket 35x25cm 30 Hojas de Papel de arroz Duradero Xuan Pintura Libro Blanco](https://www.amazon.es/dp/B088BW6YWJ/?tag=tolees-21) con 40.02 de descuento por 5.35 EUR (original: 8.92 EUR) en el siguiente enlace!
 
-[![Dasket 35x25cm 30 Hojas de Papel de arro](https://m.media-amazon.com/images/I/31nqWXb2gNL._SL200_.jpg)](https://www.amazon.es/dp/B088BW6YWJ/?tag=tolees-21)
+[![Dasket 35x25cm 30 Hojas de Papel de arro](https://m.media-amazon.com/images/I/31nqWXb2gNL._SL400_.jpg)](https://www.amazon.es/dp/B088BW6YWJ/?tag=tolees-21)
 
 ℹ️:
 

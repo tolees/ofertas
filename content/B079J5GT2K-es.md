@@ -2,7 +2,7 @@
 layout: post
 title: 'Asics Roadhawk FF 2  Zapatillas de Entre al 61.91 % de descuento'
 date: 2020-02-13 08:35:11
-image: 'https://m.media-amazon.com/images/I/41CB+DW4mdL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41CB+DW4mdL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '75.95'
 
 Ahora mismo tienes [Asics Roadhawk FF 2  Zapatillas de Entrenamiento para Hombre  Azul  Race Blue/White 400   42.5 EU](https://www.amazon.es/dp/B079J5GT2K/?tag=tolees-21) a 47.99 EUR (original: 125.99 EUR) (61.91 %  de descuento) en el siguiente enlace!
 
-[![Asics Roadhawk FF 2  Zapatillas de Entre](https://m.media-amazon.com/images/I/41CB+DW4mdL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B079J5GT2K/?tag=tolees-21)
+[![Asics Roadhawk FF 2  Zapatillas de Entre](https://m.media-amazon.com/images/I/41CB+DW4mdL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B079J5GT2K/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Jeans Mujer Mid Rise  Nora Jeans   al 30.01 % de rebaja'
 date: 2020-07-21 14:37:34
-image: 'https://m.media-amazon.com/images/I/41rjceMVm8L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41rjceMVm8L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '66.49'
 
 Tienes [Tommy Jeans Mujer Mid Rise  Nora Jeans  Niceville Mid Stretch 916  W26/L32](https://www.amazon.es/dp/B07774VGRN/?tag=tolees-21) con precio final de  66.49 EUR (original: 95.0 EUR) (30.01 %  de rebaja) aqui!
 
-[![Tommy Jeans Mujer Mid Rise  Nora Jeans  ](https://m.media-amazon.com/images/I/41rjceMVm8L._SL200_.jpg)](https://www.amazon.es/dp/B07774VGRN/?tag=tolees-21)
+[![Tommy Jeans Mujer Mid Rise  Nora Jeans  ](https://m.media-amazon.com/images/I/41rjceMVm8L._SL400_.jpg)](https://www.amazon.es/dp/B07774VGRN/?tag=tolees-21)
 
 🔎:
 

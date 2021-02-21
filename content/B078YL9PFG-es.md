@@ -2,7 +2,7 @@
 layout: post
 title: 'Hyrule Warriors - Edición definitiva al 33.41 % de rebaja'
 date: 2020-10-04 08:22:20
-image: 'https://m.media-amazon.com/images/I/61TotqNlcdL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61TotqNlcdL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '39.95'
 
 Tienes [Hyrule Warriors - Edición definitiva](https://www.amazon.es/dp/B078YL9PFG/?tag=tolees-21) con precio final de  39.95 EUR (original: 59.99 EUR) (33.41 %  de rebaja) aqui!
 
-[![Hyrule Warriors - Edición definitiva](https://m.media-amazon.com/images/I/61TotqNlcdL._SL200_.jpg)](https://www.amazon.es/dp/B078YL9PFG/?tag=tolees-21)
+[![Hyrule Warriors - Edición definitiva](https://m.media-amazon.com/images/I/61TotqNlcdL._SL400_.jpg)](https://www.amazon.es/dp/B078YL9PFG/?tag=tolees-21)
 
 🔎:
 

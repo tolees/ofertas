@@ -2,7 +2,7 @@
 layout: post
 title: 'Palette Intense Cream Coloration Intensi al 40.73 % de descuento'
 date: 2020-10-05 07:39:39
-image: 'https://m.media-amazon.com/images/I/51Knq-I+82L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Knq-I+82L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.89'
 
 Está [Palette Intense Cream Coloration Intensive Coloración del Cabello 8.55 Rubio Dorado Miel - Pack de 3](https://www.amazon.es/dp/B071KCB1JS/?tag=tolees-21) con 40.73 de descuento por 4.89 EUR (original: 8.25 EUR) en el siguiente enlace!
 
-[![Palette Intense Cream Coloration Intensi](https://m.media-amazon.com/images/I/51Knq-I+82L._SL200_.jpg)](https://www.amazon.es/dp/B071KCB1JS/?tag=tolees-21)
+[![Palette Intense Cream Coloration Intensi](https://m.media-amazon.com/images/I/51Knq-I+82L._SL400_.jpg)](https://www.amazon.es/dp/B071KCB1JS/?tag=tolees-21)
 
 ℹ️:
 

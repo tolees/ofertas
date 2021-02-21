@@ -2,7 +2,7 @@
 layout: post
 title: 'Superdry International Chino Short Panta al 57.93 % de descuento'
 date: 2020-07-17 04:48:53
-image: 'https://m.media-amazon.com/images/I/31PbZQAnOSL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31PbZQAnOSL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '26.299999999999997'
 
 Está [Superdry International Chino Short Pantalones Cortos  Beige  Sand Dollar Q2x   52  Talla del Fabricante: 32  para Hombre](https://www.amazon.es/dp/B07TPVCSS1/?tag=tolees-21) con 57.93 de descuento por 25.24 EUR (original: 59.99 EUR) en el siguiente enlace!
 
-[![Superdry International Chino Short Panta](https://m.media-amazon.com/images/I/31PbZQAnOSL._SL200_.jpg)](https://www.amazon.es/dp/B07TPVCSS1/?tag=tolees-21)
+[![Superdry International Chino Short Panta](https://m.media-amazon.com/images/I/31PbZQAnOSL._SL400_.jpg)](https://www.amazon.es/dp/B07TPVCSS1/?tag=tolees-21)
 
 ℹ️:
 

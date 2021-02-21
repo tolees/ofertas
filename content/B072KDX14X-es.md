@@ -2,7 +2,7 @@
 layout: post
 title: 'Far Cry 5 - The Father Edition al 46.74 % de rebaja'
 date: 2020-01-29 17:16:05
-image: 'https://m.media-amazon.com/images/I/51G81vB5ehL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51G81vB5ehL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '66.94'
 
 Tienes [Far Cry 5 - The Father Edition](https://www.amazon.es/dp/B072KDX14X/?tag=tolees-21) con precio final de  63.89 EUR (original: 119.95 EUR) (46.74 %  de rebaja) aqui!
 
-[![Far Cry 5 - The Father Edition](https://m.media-amazon.com/images/I/51G81vB5ehL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B072KDX14X/?tag=tolees-21)
+[![Far Cry 5 - The Father Edition](https://m.media-amazon.com/images/I/51G81vB5ehL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B072KDX14X/?tag=tolees-21)
 
 🔎:
 

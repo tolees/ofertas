@@ -2,7 +2,7 @@
 layout: post
 title: 'Lutsine Xeramance  Emulsión Reestructura con un 34.79 % de descuento'
 date: 2020-01-19 09:58:22
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41a0JbG136L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41a0JbG136L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.95'
 
 En este momento está [Lutsine Xeramance  Emulsión Reestructurante para Piel Muy Seca y Atópica  400 ml](https://www.amazon.es/dp/B00D3HZSUO/?tag=tolees-21) a 21.95 EUR (original: 33.66 EUR) (34.79 %  de descuento) en el siguiente enlace!
 
-[![Lutsine Xeramance  Emulsión Reestructura](https://images-eu.ssl-images-amazon.com/images/I/41a0JbG136L._SL200_.jpg)](https://www.amazon.es/dp/B00D3HZSUO/?tag=tolees-21)
+[![Lutsine Xeramance  Emulsión Reestructura](https://images-eu.ssl-images-amazon.com/images/I/41a0JbG136L._SL400_.jpg)](https://www.amazon.es/dp/B00D3HZSUO/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 35.00 % en Tommy Hilfiger Causal Tommy Jeans Sneake'
 date: 2020-08-13 14:07:14
-image: 'https://m.media-amazon.com/images/I/41rkl5gXHVL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41rkl5gXHVL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '38.19'
 
 Tienes [Tommy Hilfiger Causal Tommy Jeans Sneaker  Zapatillas para Hombre  Blanco  White Ybs   42 EU](https://www.amazon.es/dp/B07V8VL95N/?tag=tolees-21) con un 35.00 % de descuento con precio de oferta de 38.19 EUR (original: 58.75 EUR) en el siguiente enlace!
 
-[![Tommy Hilfiger Causal Tommy Jeans Sneake](https://m.media-amazon.com/images/I/41rkl5gXHVL._SL200_.jpg)](https://www.amazon.es/dp/B07V8VL95N/?tag=tolees-21)
+[![Tommy Hilfiger Causal Tommy Jeans Sneake](https://m.media-amazon.com/images/I/41rkl5gXHVL._SL400_.jpg)](https://www.amazon.es/dp/B07V8VL95N/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Panasonic Lumix DC-TZ80 - Cámara Compact con un 36.48 % de descuento'
 date: 2020-09-17 11:07:07
-image: 'https://m.media-amazon.com/images/I/416W81eHIHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/416W81eHIHL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '252.7925'
 
 En este momento está [Panasonic Lumix DC-TZ80 - Cámara Compacta de 18 1 MP  Super Zoom  Objetivo F3.3-F6.4 de 24-720mm  Estabilizador Híbrido  Zoom de 30X  4K  WiFi  Raw   Color Plata](https://www.amazon.es/dp/B01B03ADXE/?tag=tolees-21) a 285.76 EUR (original: 449.9 EUR) (36.48 %  de descuento) en el siguiente enlace!
 
-[![Panasonic Lumix DC-TZ80 - Cámara Compact](https://m.media-amazon.com/images/I/416W81eHIHL._SL200_.jpg)](https://www.amazon.es/dp/B01B03ADXE/?tag=tolees-21)
+[![Panasonic Lumix DC-TZ80 - Cámara Compact](https://m.media-amazon.com/images/I/416W81eHIHL._SL400_.jpg)](https://www.amazon.es/dp/B01B03ADXE/?tag=tolees-21)
 
 🔎:
 

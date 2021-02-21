@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour Zinger SL Polo  Mujer  Azul al 35.07 % de descuento'
 date: 2020-02-29 11:10:15
-image: 'https://m.media-amazon.com/images/I/31UVK41XO2L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31UVK41XO2L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.46'
 
 Ahora mismo tienes [Under Armour Zinger SL Polo  Mujer  Azul  Dust/Dust/Dust 416   L](https://www.amazon.es/dp/B07DP2MVXN/?tag=tolees-21) a 9.46 EUR (original: 14.57 EUR) (35.07 %  de descuento) en el siguiente enlace!
 
-[![Under Armour Zinger SL Polo  Mujer  Azul](https://m.media-amazon.com/images/I/31UVK41XO2L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07DP2MVXN/?tag=tolees-21)
+[![Under Armour Zinger SL Polo  Mujer  Azul](https://m.media-amazon.com/images/I/31UVK41XO2L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07DP2MVXN/?tag=tolees-21)
 
 🔎:
 

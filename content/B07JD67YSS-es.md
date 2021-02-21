@@ -2,7 +2,7 @@
 layout: post
 title: 'G-STAR RAW Rebel Cinturón  Multicolor  S al 71.83 % de descuento'
 date: 2020-03-31 16:28:27
-image: 'https://m.media-amazon.com/images/I/41MOkhAJwML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41MOkhAJwML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.562'
 
 Ahora mismo tienes [G-STAR RAW Rebel Cinturón  Multicolor  Sage/Antic Silver A542   120 para Hombre](https://www.amazon.es/dp/B07JD67YSS/?tag=tolees-21) a 16.89 EUR (original: 59.95 EUR) (71.83 %  de descuento) en el siguiente enlace!
 
-[![G-STAR RAW Rebel Cinturón  Multicolor  S](https://m.media-amazon.com/images/I/41MOkhAJwML._SL200_.jpg)](https://www.amazon.es/dp/B07JD67YSS/?tag=tolees-21)
+[![G-STAR RAW Rebel Cinturón  Multicolor  S](https://m.media-amazon.com/images/I/41MOkhAJwML._SL400_.jpg)](https://www.amazon.es/dp/B07JD67YSS/?tag=tolees-21)
 
 🔎:
 

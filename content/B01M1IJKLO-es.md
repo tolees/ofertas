@@ -2,7 +2,7 @@
 layout: post
 title: 'Trust GXT 105 - Ratón Gaming con 6 Boton al 25.41 % de descuento'
 date: 2020-03-11 08:25:31
-image: 'https://m.media-amazon.com/images/I/41w0xWr1MPL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41w0xWr1MPL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.956666666666667'
 
 Está [Trust GXT 105 - Ratón Gaming con 6 Botones e iluminación LED  Negro](https://www.amazon.es/dp/B01M1IJKLO/?tag=tolees-21) con 25.41 de descuento por 14.91 EUR (original: 19.99 EUR) en el siguiente enlace!
 
-[![Trust GXT 105 - Ratón Gaming con 6 Boton](https://m.media-amazon.com/images/I/41w0xWr1MPL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01M1IJKLO/?tag=tolees-21)
+[![Trust GXT 105 - Ratón Gaming con 6 Boton](https://m.media-amazon.com/images/I/41w0xWr1MPL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01M1IJKLO/?tag=tolees-21)
 
 ℹ️:
 

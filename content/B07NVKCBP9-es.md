@@ -2,7 +2,7 @@
 layout: post
 title: 'Zer one Ventilador de refrigeración de l al 43.37 % de rebaja'
 date: 2020-04-14 09:09:11
-image: 'https://m.media-amazon.com/images/I/41CbOs-H+aL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41CbOs-H+aL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.890000000000001'
 
 Tienes [Zer one Ventilador de refrigeración de la CPU  portátil de bajo Ruido Ventilador de la CPU Disipación rápida del Calor Laptop Ventilador de refrigeración de la CPU para portátil HP EliteBook](https://www.amazon.es/dp/B07NVKCBP9/?tag=tolees-21) con precio final de  6.79 EUR (original: 11.99 EUR) (43.37 %  de rebaja) aqui!
 
-[![Zer one Ventilador de refrigeración de l](https://m.media-amazon.com/images/I/41CbOs-H+aL._SL200_.jpg)](https://www.amazon.es/dp/B07NVKCBP9/?tag=tolees-21)
+[![Zer one Ventilador de refrigeración de l](https://m.media-amazon.com/images/I/41CbOs-H+aL._SL400_.jpg)](https://www.amazon.es/dp/B07NVKCBP9/?tag=tolees-21)
 
 🔎:
 

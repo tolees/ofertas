@@ -2,7 +2,7 @@
 layout: post
 title: 'pjur AQUA - Lubricante Premium acuoso -  al 70.59 % de descuento'
 date: 2020-03-15 02:10:39
-image: 'https://m.media-amazon.com/images/I/31G8fYayndL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31G8fYayndL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.13'
 
 Está [pjur AQUA - Lubricante Premium acuoso - Excelentes propiedades lubricantes  hidrata y no se pega - para juguetes sexuales - pack de 1  1x30ml ](https://www.amazon.es/dp/B000S5W1FO/?tag=tolees-21) con 70.59 de descuento por 1.9 EUR (original: 6.46 EUR) en el siguiente enlace!
 
-[![pjur AQUA - Lubricante Premium acuoso - ](https://m.media-amazon.com/images/I/31G8fYayndL._SL200_.jpg)](https://www.amazon.es/dp/B000S5W1FO/?tag=tolees-21)
+[![pjur AQUA - Lubricante Premium acuoso - ](https://m.media-amazon.com/images/I/31G8fYayndL._SL400_.jpg)](https://www.amazon.es/dp/B000S5W1FO/?tag=tolees-21)
 
 ℹ️:
 

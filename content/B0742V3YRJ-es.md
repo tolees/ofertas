@@ -2,7 +2,7 @@
 layout: post
 title: 'Russell Hobbs Colours Plus - Hervidor de con un 26.69 % de descuento'
 date: 2020-01-15 11:55:26
-image: 'https://images-eu.ssl-images-amazon.com/images/I/411CcCmTBZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411CcCmTBZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '32.98'
 
 En este momento está [Russell Hobbs Colours Plus - Hervidor de Agua Eléctrico  2400 W  1 7l  Acero Inoxidable  Azul Cielo  - ref. 20417-70](https://www.amazon.es/dp/B0742V3YRJ/?tag=tolees-21) a 32.98 EUR (original: 44.99 EUR) (26.69 %  de descuento) en el siguiente enlace!
 
-[![Russell Hobbs Colours Plus - Hervidor de](https://images-eu.ssl-images-amazon.com/images/I/411CcCmTBZL._SL200_.jpg)](https://www.amazon.es/dp/B0742V3YRJ/?tag=tolees-21)
+[![Russell Hobbs Colours Plus - Hervidor de](https://images-eu.ssl-images-amazon.com/images/I/411CcCmTBZL._SL400_.jpg)](https://www.amazon.es/dp/B0742V3YRJ/?tag=tolees-21)
 
 🔎:
 

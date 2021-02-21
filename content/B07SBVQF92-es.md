@@ -2,7 +2,7 @@
 layout: post
 title: 'PUMA Flyer Modern  Zapatillas de Running al 35.06 % de descuento'
 date: 2020-06-24 11:22:26
-image: 'https://m.media-amazon.com/images/I/411EPp+05OL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/411EPp+05OL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '32.51'
 
 Ahora mismo tienes [PUMA Flyer Modern  Zapatillas de Running Unisex-Adulto  Negro Black White 04  43 EU](https://www.amazon.es/dp/B07SBVQF92/?tag=tolees-21) a 32.51 EUR (original: 50.06 EUR) (35.06 %  de descuento) en el siguiente enlace!
 
-[![PUMA Flyer Modern  Zapatillas de Running](https://m.media-amazon.com/images/I/411EPp+05OL._SL200_.jpg)](https://www.amazon.es/dp/B07SBVQF92/?tag=tolees-21)
+[![PUMA Flyer Modern  Zapatillas de Running](https://m.media-amazon.com/images/I/411EPp+05OL._SL400_.jpg)](https://www.amazon.es/dp/B07SBVQF92/?tag=tolees-21)
 
 🔎:
 

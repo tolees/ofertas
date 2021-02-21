@@ -2,7 +2,7 @@
 layout: post
 title: 'Hurley M Asylum Volley 17  Bermudas  Hom al 64.54 % de descuento'
 date: 2020-08-27 07:07:44
-image: 'https://m.media-amazon.com/images/I/51-o1uwzDUL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51-o1uwzDUL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.73'
 
 Ahora mismo tienes [Hurley M Asylum Volley 17  Bermudas  Hombre  Armory Navy  L](https://www.amazon.es/dp/B07QQTVFSN/?tag=tolees-21) a 17.73 EUR (original: 50.0 EUR) (64.54 %  de descuento) en el siguiente enlace!
 
-[![Hurley M Asylum Volley 17  Bermudas  Hom](https://m.media-amazon.com/images/I/51-o1uwzDUL._SL200_.jpg)](https://www.amazon.es/dp/B07QQTVFSN/?tag=tolees-21)
+[![Hurley M Asylum Volley 17  Bermudas  Hom](https://m.media-amazon.com/images/I/51-o1uwzDUL._SL400_.jpg)](https://www.amazon.es/dp/B07QQTVFSN/?tag=tolees-21)
 
 🔎:
 

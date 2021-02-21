@@ -2,7 +2,7 @@
 layout: post
 title: 'Auxmir Cortina Mosquitera Magnética para al 35.25 % de descuento'
 date: 2020-08-07 18:36:07
-image: 'https://m.media-amazon.com/images/I/51KunxIMw3L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51KunxIMw3L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.59'
 
 Ahora mismo tienes [Auxmir Cortina Mosquitera Magnética para Puertas  100x220cm  con Malla Super Fina para Dejar Pasar el Aire Fresco  Cierre Automaticamente Evita Paso de Insectos  negro](https://www.amazon.es/dp/B078NVMW47/?tag=tolees-21) a 13.59 EUR (original: 20.99 EUR) (35.25 %  de descuento) en el siguiente enlace!
 
-[![Auxmir Cortina Mosquitera Magnética para](https://m.media-amazon.com/images/I/51KunxIMw3L._SL200_.jpg)](https://www.amazon.es/dp/B078NVMW47/?tag=tolees-21)
+[![Auxmir Cortina Mosquitera Magnética para](https://m.media-amazon.com/images/I/51KunxIMw3L._SL400_.jpg)](https://www.amazon.es/dp/B078NVMW47/?tag=tolees-21)
 
 🔎:
 

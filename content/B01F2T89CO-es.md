@@ -2,7 +2,7 @@
 layout: post
 title: 'Reebok Royal Glide  Zapatillas de deport al 28.42 % de rebaja'
 date: 2020-04-26 04:50:36
-image: 'https://m.media-amazon.com/images/I/41GHk3ESbPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41GHk3ESbPL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '53.24'
 
 Tienes [Reebok Royal Glide  Zapatillas de deporte  Hombre  Blanco   White / Steel / Reebok Royal   43 EU](https://www.amazon.es/dp/B01F2T89CO/?tag=tolees-21) con precio final de  46.49 EUR (original: 64.95 EUR) (28.42 %  de rebaja) aqui!
 
-[![Reebok Royal Glide  Zapatillas de deport](https://m.media-amazon.com/images/I/41GHk3ESbPL._SL200_.jpg)](https://www.amazon.es/dp/B01F2T89CO/?tag=tolees-21)
+[![Reebok Royal Glide  Zapatillas de deport](https://m.media-amazon.com/images/I/41GHk3ESbPL._SL400_.jpg)](https://www.amazon.es/dp/B01F2T89CO/?tag=tolees-21)
 
 🔎:
 

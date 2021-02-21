@@ -2,7 +2,7 @@
 layout: post
 title: 'LEDMO tiras led 12V Blanco 6000K 300led  con un 44.02 % de descuento'
 date: 2020-03-02 10:22:21
-image: 'https://m.media-amazon.com/images/I/41e1w8Qt1OL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41e1w8Qt1OL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.74'
 
 En este momento está [LEDMO tiras led 12V Blanco 6000K 300led 5m tira led exterior SMD5630 6000LM IP65 Impermeable CRI80 cinta led](https://www.amazon.es/dp/B01M198QES/?tag=tolees-21) a 13.99 EUR (original: 24.99 EUR) (44.02 %  de descuento) en el siguiente enlace!
 
-[![LEDMO tiras led 12V Blanco 6000K 300led ](https://m.media-amazon.com/images/I/41e1w8Qt1OL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01M198QES/?tag=tolees-21)
+[![LEDMO tiras led 12V Blanco 6000K 300led ](https://m.media-amazon.com/images/I/41e1w8Qt1OL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01M198QES/?tag=tolees-21)
 
 🔎:
 

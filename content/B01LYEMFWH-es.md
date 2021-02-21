@@ -2,7 +2,7 @@
 layout: post
 title: 'Victor Toallitas Perfumadas - 10 Unidade al 58.36 % de descuento'
 date: 2020-02-18 19:52:28
-image: 'https://m.media-amazon.com/images/I/41SXRTtJgJL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41SXRTtJgJL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.09'
 
 Está [Victor Toallitas Perfumadas - 10 Unidades](https://www.amazon.es/dp/B01LYEMFWH/?tag=tolees-21) con 58.36 de descuento por 3.09 EUR (original: 7.42 EUR) en el siguiente enlace!
 
-[![Victor Toallitas Perfumadas - 10 Unidade](https://m.media-amazon.com/images/I/41SXRTtJgJL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01LYEMFWH/?tag=tolees-21)
+[![Victor Toallitas Perfumadas - 10 Unidade](https://m.media-amazon.com/images/I/41SXRTtJgJL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01LYEMFWH/?tag=tolees-21)
 
 ℹ️:
 

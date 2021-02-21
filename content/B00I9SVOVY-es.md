@@ -2,7 +2,7 @@
 layout: post
 title: 'The Big Bang Theory SDTWRN02581 - Taza d al 61.30 % de rebaja'
 date: 2020-01-17 09:41:37
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41U7Bm%2BWMrL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41U7Bm%2BWMrL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.95'
 
 Tienes [The Big Bang Theory SDTWRN02581 - Taza de cerámica con diseño"Bazinga"  color azul  SD Toys SDTWRN02581  - Taza Bazinga Big Bang Theory](https://www.amazon.es/dp/B00I9SVOVY/?tag=tolees-21) con precio final de  9.95 EUR (original: 25.71 EUR) (61.30 %  de rebaja) aqui!
 
-[![The Big Bang Theory SDTWRN02581 - Taza d](https://images-eu.ssl-images-amazon.com/images/I/41U7Bm%2BWMrL._SL200_.jpg)](https://www.amazon.es/dp/B00I9SVOVY/?tag=tolees-21)
+[![The Big Bang Theory SDTWRN02581 - Taza d](https://images-eu.ssl-images-amazon.com/images/I/41U7Bm%2BWMrL._SL400_.jpg)](https://www.amazon.es/dp/B00I9SVOVY/?tag=tolees-21)
 
 🔎:
 

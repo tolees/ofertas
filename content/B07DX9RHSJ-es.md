@@ -2,7 +2,7 @@
 layout: post
 title: 'Greylags Calcetines Prima Calidad deport al 46.14 % de rebaja'
 date: 2020-03-08 12:34:38
-image: 'https://m.media-amazon.com/images/I/41fOGSXstSL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41fOGSXstSL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.225'
 
 Tienes [Greylags Calcetines Prima Calidad deportiva Respirable Reinforced Sneaker Calcetines | Hombres y mujeres | 80% Algodón | Certificado Oeko-Tex Standard 100 | Paquete de 6](https://www.amazon.es/dp/B07DX9RHSJ/?tag=tolees-21) con precio final de  13.46 EUR (original: 24.99 EUR) (46.14 %  de rebaja) aqui!
 
-[![Greylags Calcetines Prima Calidad deport](https://m.media-amazon.com/images/I/41fOGSXstSL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07DX9RHSJ/?tag=tolees-21)
+[![Greylags Calcetines Prima Calidad deport](https://m.media-amazon.com/images/I/41fOGSXstSL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07DX9RHSJ/?tag=tolees-21)
 
 🔎:
 

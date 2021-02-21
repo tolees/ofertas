@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger - Soft Turnlock Cc Holder al 50.18 % de rebaja'
 date: 2020-07-08 16:17:53
-image: 'https://m.media-amazon.com/images/I/51o22RbgjdL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51o22RbgjdL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.86'
 
 Tienes [Tommy Hilfiger - Soft Turnlock Cc Holder  Carteras Mujer  Marrón  Tobacco   1x1x1 cm  W x H L ](https://www.amazon.es/dp/B07V4RRTJJ/?tag=tolees-21) con precio final de  24.86 EUR (original: 49.9 EUR) (50.18 %  de rebaja) aqui!
 
-[![Tommy Hilfiger - Soft Turnlock Cc Holder](https://m.media-amazon.com/images/I/51o22RbgjdL._SL200_.jpg)](https://www.amazon.es/dp/B07V4RRTJJ/?tag=tolees-21)
+[![Tommy Hilfiger - Soft Turnlock Cc Holder](https://m.media-amazon.com/images/I/51o22RbgjdL._SL400_.jpg)](https://www.amazon.es/dp/B07V4RRTJJ/?tag=tolees-21)
 
 🔎:
 

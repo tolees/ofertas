@@ -2,7 +2,7 @@
 layout: post
 title: 'Dewalt DT2294-QZ Juego de 10 hojas de si con un 34.66 % de descuento'
 date: 2020-04-02 07:39:56
-image: 'https://m.media-amazon.com/images/I/51mv29MtPdL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51mv29MtPdL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.37'
 
 En este momento está [Dewalt DT2294-QZ Juego de 10 hojas de sierra calar con 5 para madera y 5 para metal](https://www.amazon.es/dp/B0013LJWHW/?tag=tolees-21) a 11.37 EUR (original: 17.4 EUR) (34.66 %  de descuento) en el siguiente enlace!
 
-[![Dewalt DT2294-QZ Juego de 10 hojas de si](https://m.media-amazon.com/images/I/51mv29MtPdL._SL200_.jpg)](https://www.amazon.es/dp/B0013LJWHW/?tag=tolees-21)
+[![Dewalt DT2294-QZ Juego de 10 hojas de si](https://m.media-amazon.com/images/I/51mv29MtPdL._SL400_.jpg)](https://www.amazon.es/dp/B0013LJWHW/?tag=tolees-21)
 
 🔎:
 

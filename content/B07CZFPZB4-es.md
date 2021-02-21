@@ -2,7 +2,7 @@
 layout: post
 title: 'Salomon XA Pro 3D J  Zapatillas de Trail al 30.72 % de rebaja'
 date: 2020-06-19 19:38:35
-image: 'https://m.media-amazon.com/images/I/41ywXm8uOmL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ywXm8uOmL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '83.47'
 
 Tienes [Salomon XA Pro 3D J  Zapatillas de Trail Running Unisex Niños  Rojo/Naranja  Cerise/Dubarry/Peach Amber   39 EU](https://www.amazon.es/dp/B07CZFPZB4/?tag=tolees-21) con precio final de  45.0 EUR (original: 64.95 EUR) (30.72 %  de rebaja) aqui!
 
-[![Salomon XA Pro 3D J  Zapatillas de Trail](https://m.media-amazon.com/images/I/41ywXm8uOmL._SL200_.jpg)](https://www.amazon.es/dp/B07CZFPZB4/?tag=tolees-21)
+[![Salomon XA Pro 3D J  Zapatillas de Trail](https://m.media-amazon.com/images/I/41ywXm8uOmL._SL400_.jpg)](https://www.amazon.es/dp/B07CZFPZB4/?tag=tolees-21)
 
 🔎:
 

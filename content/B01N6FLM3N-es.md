@@ -2,7 +2,7 @@
 layout: post
 title: 'Motorola MBP 481 - Vigilabebés vídeo con con un 40.99 % de descuento'
 date: 2020-05-29 14:34:41
-image: 'https://m.media-amazon.com/images/I/41Zj21bpjHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Zj21bpjHL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '59.0'
 
 En este momento está [Motorola MBP 481 - Vigilabebés vídeo con pantalla LCD a color de 2.0"  modo eco y visión nocturna  color blanco](https://www.amazon.es/dp/B01N6FLM3N/?tag=tolees-21) a 59.0 EUR (original: 99.99 EUR) (40.99 %  de descuento) en el siguiente enlace!
 
-[![Motorola MBP 481 - Vigilabebés vídeo con](https://m.media-amazon.com/images/I/41Zj21bpjHL._SL200_.jpg)](https://www.amazon.es/dp/B01N6FLM3N/?tag=tolees-21)
+[![Motorola MBP 481 - Vigilabebés vídeo con](https://m.media-amazon.com/images/I/41Zj21bpjHL._SL400_.jpg)](https://www.amazon.es/dp/B01N6FLM3N/?tag=tolees-21)
 
 🔎:
 

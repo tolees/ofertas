@@ -2,7 +2,7 @@
 layout: post
 title: '10 Unids Lavado Facial Soplo Limpiador d al 33.36 % de descuento'
 date: 2020-05-20 13:40:43
-image: 'https://m.media-amazon.com/images/I/41zVeNlWk+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41zVeNlWk+L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.99'
 
 Ahora mismo tienes [10 Unids Lavado Facial Soplo Limpiador de Cara Esponjas de Limpieza y Cuidado de Piel - Amarillo](https://www.amazon.es/dp/B07KK12JXL/?tag=tolees-21) a 8.99 EUR (original: 13.49 EUR) (33.36 %  de descuento) en el siguiente enlace!
 
-[![10 Unids Lavado Facial Soplo Limpiador d](https://m.media-amazon.com/images/I/41zVeNlWk+L._SL200_.jpg)](https://www.amazon.es/dp/B07KK12JXL/?tag=tolees-21)
+[![10 Unids Lavado Facial Soplo Limpiador d](https://m.media-amazon.com/images/I/41zVeNlWk+L._SL400_.jpg)](https://www.amazon.es/dp/B07KK12JXL/?tag=tolees-21)
 
 🔎:
 

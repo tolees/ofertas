@@ -2,7 +2,7 @@
 layout: post
 title: 'Integral INMSDX128G-100/90V30 Ultimapro  al 28.59 % de descuento'
 date: 2020-05-27 13:58:13
-image: 'https://m.media-amazon.com/images/I/41NANB99TvL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41NANB99TvL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.99'
 
 Ahora mismo tienes [Integral INMSDX128G-100/90V30 Ultimapro Micro SDXC Class 10 UHS-I U3 - microSDXC](https://www.amazon.es/dp/B07FC7W32H/?tag=tolees-21) a 14.99 EUR (original: 20.99 EUR) (28.59 %  de descuento) en el siguiente enlace!
 
-[![Integral INMSDX128G-100/90V30 Ultimapro ](https://m.media-amazon.com/images/I/41NANB99TvL._SL200_.jpg)](https://www.amazon.es/dp/B07FC7W32H/?tag=tolees-21)
+[![Integral INMSDX128G-100/90V30 Ultimapro ](https://m.media-amazon.com/images/I/41NANB99TvL._SL400_.jpg)](https://www.amazon.es/dp/B07FC7W32H/?tag=tolees-21)
 
 🔎:
 

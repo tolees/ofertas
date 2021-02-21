@@ -2,7 +2,7 @@
 layout: post
 title: 'COMVIP Mujer cobre al 37.57 % de descuento'
 date: 2020-05-22 15:39:26
-image: 'https://m.media-amazon.com/images/I/31ImNeJQEjL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31ImNeJQEjL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.49'
 
 Ahora mismo tienes [COMVIP Mujer cobre](https://www.amazon.es/dp/B07D57HBYB/?tag=tolees-21) a 3.49 EUR (original: 5.59 EUR) (37.57 %  de descuento) en el siguiente enlace!
 
-[![COMVIP Mujer cobre](https://m.media-amazon.com/images/I/31ImNeJQEjL._SL200_.jpg)](https://www.amazon.es/dp/B07D57HBYB/?tag=tolees-21)
+[![COMVIP Mujer cobre](https://m.media-amazon.com/images/I/31ImNeJQEjL._SL400_.jpg)](https://www.amazon.es/dp/B07D57HBYB/?tag=tolees-21)
 
 🔎:
 

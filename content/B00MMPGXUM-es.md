@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 32.17 % en Vittoria MTB Lite-Box Camara  Unisex Adu'
 date: 2020-06-06 03:08:55
-image: 'https://m.media-amazon.com/images/I/41KidXCK2NL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41KidXCK2NL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.85'
 
 Tienes [Vittoria MTB Lite-Box Camara  Unisex Adulto  Negro  26 x 1.95/2.125](https://www.amazon.es/dp/B00MMPGXUM/?tag=tolees-21) con un 32.17 % de descuento con precio de oferta de 4.85 EUR (original: 7.15 EUR) en el siguiente enlace!
 
-[![Vittoria MTB Lite-Box Camara  Unisex Adu](https://m.media-amazon.com/images/I/41KidXCK2NL._SL200_.jpg)](https://www.amazon.es/dp/B00MMPGXUM/?tag=tolees-21)
+[![Vittoria MTB Lite-Box Camara  Unisex Adu](https://m.media-amazon.com/images/I/41KidXCK2NL._SL400_.jpg)](https://www.amazon.es/dp/B00MMPGXUM/?tag=tolees-21)
 
 ℹ️:
 

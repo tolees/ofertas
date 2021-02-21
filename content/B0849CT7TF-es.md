@@ -2,7 +2,7 @@
 layout: post
 title: 'Captain Tsubasa: Rise Of New Champions al 35.49 % de descuento'
 date: 2020-08-20 08:17:36
-image: 'https://m.media-amazon.com/images/I/51rQPLTh2HL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51rQPLTh2HL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '50.64769230769231'
 
 Ahora mismo tienes [Captain Tsubasa: Rise Of New Champions](https://www.amazon.es/dp/B0849CT7TF/?tag=tolees-21) a 39.99 EUR (original: 61.99 EUR) (35.49 %  de descuento) en el siguiente enlace!
 
-[![Captain Tsubasa: Rise Of New Champions](https://m.media-amazon.com/images/I/51rQPLTh2HL._SL200_.jpg)](https://www.amazon.es/dp/B0849CT7TF/?tag=tolees-21)
+[![Captain Tsubasa: Rise Of New Champions](https://m.media-amazon.com/images/I/51rQPLTh2HL._SL400_.jpg)](https://www.amazon.es/dp/B0849CT7TF/?tag=tolees-21)
 
 🔎:
 

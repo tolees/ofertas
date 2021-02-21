@@ -2,7 +2,7 @@
 layout: post
 title: 'Pop! My Hero Academia - Figura de Vinilo al 46.39 % de descuento'
 date: 2020-02-11 14:29:52
-image: 'https://m.media-amazon.com/images/I/416bagfBvNL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/416bagfBvNL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.55'
 
 Está [Pop! My Hero Academia - Figura de Vinilo 5 Star Deku](https://www.amazon.es/dp/B07N5RWF46/?tag=tolees-21) con 46.39 de descuento por 8.55 EUR (original: 15.95 EUR) en el siguiente enlace!
 
-[![Pop! My Hero Academia - Figura de Vinilo](https://m.media-amazon.com/images/I/416bagfBvNL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07N5RWF46/?tag=tolees-21)
+[![Pop! My Hero Academia - Figura de Vinilo](https://m.media-amazon.com/images/I/416bagfBvNL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07N5RWF46/?tag=tolees-21)
 
 ℹ️:
 

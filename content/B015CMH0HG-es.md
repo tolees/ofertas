@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 66.50 % en Rimmel London 3 The Only One Lipstick Ba'
 date: 2020-01-09 06:01:22
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31dw8ABib5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31dw8ABib5L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.01'
 
 Tienes [Rimmel London 3 The Only One Lipstick Barra De Labios Mate Tono 810 - 19 gr](https://www.amazon.es/dp/B015CMH0HG/?tag=tolees-21) con un 66.50 % de descuento con precio de oferta de 2.01 EUR (original: 6 EUR) en el siguiente enlace!
 
-[![Rimmel London 3 The Only One Lipstick Ba](https://images-eu.ssl-images-amazon.com/images/I/31dw8ABib5L._SL200_.jpg)](https://www.amazon.es/dp/B015CMH0HG/?tag=tolees-21)
+[![Rimmel London 3 The Only One Lipstick Ba](https://images-eu.ssl-images-amazon.com/images/I/31dw8ABib5L._SL400_.jpg)](https://www.amazon.es/dp/B015CMH0HG/?tag=tolees-21)
 
 ℹ️:
 

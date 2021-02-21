@@ -2,7 +2,7 @@
 layout: post
 title: 'Trust Sura - Ratón óptico inalámbrico  N con un 38.91 % de descuento'
 date: 2020-07-16 17:09:52
-image: 'https://m.media-amazon.com/images/I/41zI-ez3r1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41zI-ez3r1L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.49'
 
 En este momento está [Trust Sura - Ratón óptico inalámbrico  Negro y Gris](https://www.amazon.es/dp/B00K3HEYWK/?tag=tolees-21) a 10.99 EUR (original: 17.99 EUR) (38.91 %  de descuento) en el siguiente enlace!
 
-[![Trust Sura - Ratón óptico inalámbrico  N](https://m.media-amazon.com/images/I/41zI-ez3r1L._SL200_.jpg)](https://www.amazon.es/dp/B00K3HEYWK/?tag=tolees-21)
+[![Trust Sura - Ratón óptico inalámbrico  N](https://m.media-amazon.com/images/I/41zI-ez3r1L._SL400_.jpg)](https://www.amazon.es/dp/B00K3HEYWK/?tag=tolees-21)
 
 🔎:
 

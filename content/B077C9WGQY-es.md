@@ -2,7 +2,7 @@
 layout: post
 title: 'Converse Taylor Chuck 70 Hi  Sneaker Uni al 28.30 % de rebaja'
 date: 2020-09-08 08:10:30
-image: 'https://m.media-amazon.com/images/I/21pGZtISjYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21pGZtISjYL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '63.14'
 
 Tienes [Converse Taylor Chuck 70 Hi  Sneaker Unisex-Adult  Parchment/Garnet/Egret  41 EU](https://www.amazon.es/dp/B077C9WGQY/?tag=tolees-21) con precio final de  64.53 EUR (original: 90.0 EUR) (28.30 %  de rebaja) aqui!
 
-[![Converse Taylor Chuck 70 Hi  Sneaker Uni](https://m.media-amazon.com/images/I/21pGZtISjYL._SL200_.jpg)](https://www.amazon.es/dp/B077C9WGQY/?tag=tolees-21)
+[![Converse Taylor Chuck 70 Hi  Sneaker Uni](https://m.media-amazon.com/images/I/21pGZtISjYL._SL400_.jpg)](https://www.amazon.es/dp/B077C9WGQY/?tag=tolees-21)
 
 🔎:
 

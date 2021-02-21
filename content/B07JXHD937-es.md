@@ -2,7 +2,7 @@
 layout: post
 title: 'Wrangler 5 Pocket Short Pantalones Corto al 32.67 % de descuento'
 date: 2020-03-19 12:11:29
-image: 'https://m.media-amazon.com/images/I/416Ejj-VnhL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/416Ejj-VnhL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.615'
 
 Ahora mismo tienes [Wrangler 5 Pocket Short Pantalones Cortos  Verde  Lagoon 42c   W29 para Hombre](https://www.amazon.es/dp/B07JXHD937/?tag=tolees-21) a 5.75 EUR (original: 8.54 EUR) (32.67 %  de descuento) en el siguiente enlace!
 
-[![Wrangler 5 Pocket Short Pantalones Corto](https://m.media-amazon.com/images/I/416Ejj-VnhL._SL200_.jpg)](https://www.amazon.es/dp/B07JXHD937/?tag=tolees-21)
+[![Wrangler 5 Pocket Short Pantalones Corto](https://m.media-amazon.com/images/I/416Ejj-VnhL._SL400_.jpg)](https://www.amazon.es/dp/B07JXHD937/?tag=tolees-21)
 
 🔎:
 

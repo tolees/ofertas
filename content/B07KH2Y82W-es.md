@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour EU Cotton Fleece Jogger Pan al 36.66 % de descuento'
 date: 2020-02-23 08:08:12
-image: 'https://m.media-amazon.com/images/I/318skubWoLL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/318skubWoLL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '22.17'
 
 Ahora mismo tienes [Under Armour EU Cotton Fleece Jogger Pantalones  Niños  Negro  Black/White 002   XS](https://www.amazon.es/dp/B07KH2Y82W/?tag=tolees-21) a 22.17 EUR (original: 35.0 EUR) (36.66 %  de descuento) en el siguiente enlace!
 
-[![Under Armour EU Cotton Fleece Jogger Pan](https://m.media-amazon.com/images/I/318skubWoLL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07KH2Y82W/?tag=tolees-21)
+[![Under Armour EU Cotton Fleece Jogger Pan](https://m.media-amazon.com/images/I/318skubWoLL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07KH2Y82W/?tag=tolees-21)
 
 🔎:
 

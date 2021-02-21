@@ -2,7 +2,7 @@
 layout: post
 title: 'Rexona Roll-On Tropical Desodorante para al 45.65 % de descuento'
 date: 2020-05-08 08:29:44
-image: 'https://m.media-amazon.com/images/I/31SvYOFli7L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31SvYOFli7L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.0'
 
 Ahora mismo tienes [Rexona Roll-On Tropical Desodorante para Mujer - 50 ml](https://www.amazon.es/dp/B0756GVZJ7/?tag=tolees-21) a 1.0 EUR (original: 1.84 EUR) (45.65 %  de descuento) en el siguiente enlace!
 
-[![Rexona Roll-On Tropical Desodorante para](https://m.media-amazon.com/images/I/31SvYOFli7L._SL200_.jpg)](https://www.amazon.es/dp/B0756GVZJ7/?tag=tolees-21)
+[![Rexona Roll-On Tropical Desodorante para](https://m.media-amazon.com/images/I/31SvYOFli7L._SL400_.jpg)](https://www.amazon.es/dp/B0756GVZJ7/?tag=tolees-21)
 
 🔎:
 

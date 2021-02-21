@@ -2,7 +2,7 @@
 layout: post
 title: 'Klarstein Infinity Storm - Ventilador de con un 25.00 % de descuento'
 date: 2020-06-18 15:16:00
-image: 'https://m.media-amazon.com/images/I/31zIqgZEomL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31zIqgZEomL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '59.99'
 
 En este momento está [Klarstein Infinity Storm - Ventilador de pie  40 cm  16"   55 W  3600 m³/h  3 Modos  6 velocidades  5 aspas  Oscilación de 85°  Variofresh  Anti vuelco  Incluye Mando a Distancia  Negro](https://www.amazon.es/dp/B07D9NY73N/?tag=tolees-21) a 59.99 EUR (original: 79.99 EUR) (25.00 %  de descuento) en el siguiente enlace!
 
-[![Klarstein Infinity Storm - Ventilador de](https://m.media-amazon.com/images/I/31zIqgZEomL._SL200_.jpg)](https://www.amazon.es/dp/B07D9NY73N/?tag=tolees-21)
+[![Klarstein Infinity Storm - Ventilador de](https://m.media-amazon.com/images/I/31zIqgZEomL._SL400_.jpg)](https://www.amazon.es/dp/B07D9NY73N/?tag=tolees-21)
 
 🔎:
 

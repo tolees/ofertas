@@ -2,7 +2,7 @@
 layout: post
 title: 'Atashi Fresh & Pure - Bruma Oxigenante M al 32.00 % de descuento'
 date: 2020-06-05 11:02:46
-image: 'https://m.media-amazon.com/images/I/316M42ej4RL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/316M42ej4RL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.96'
 
 Ahora mismo tienes [Atashi Fresh & Pure - Bruma Oxigenante Matificante | Refresca  Hidrata  Calma y Equilibra la piel | Rápida absorción | 60ml](https://www.amazon.es/dp/B0851HX7NS/?tag=tolees-21) a 14.96 EUR (original: 22.0 EUR) (32.00 %  de descuento) en el siguiente enlace!
 
-[![Atashi Fresh & Pure - Bruma Oxigenante M](https://m.media-amazon.com/images/I/316M42ej4RL._SL200_.jpg)](https://www.amazon.es/dp/B0851HX7NS/?tag=tolees-21)
+[![Atashi Fresh & Pure - Bruma Oxigenante M](https://m.media-amazon.com/images/I/316M42ej4RL._SL400_.jpg)](https://www.amazon.es/dp/B0851HX7NS/?tag=tolees-21)
 
 🔎:
 

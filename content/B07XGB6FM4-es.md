@@ -2,7 +2,7 @@
 layout: post
 title: 'ERIK - Calendario de pared 2020 Marvel A al 49.95 % de rebaja'
 date: 2020-04-23 20:06:54
-image: 'https://m.media-amazon.com/images/I/6130HdBCk2L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/6130HdBCk2L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.0'
 
 Tienes [ERIK - Calendario de pared 2020 Marvel Avengers  30 x 30 cm  incluye póster de regalo ](https://www.amazon.es/dp/B07XGB6FM4/?tag=tolees-21) con precio final de  5.0 EUR (original: 9.99 EUR) (49.95 %  de rebaja) aqui!
 
-[![ERIK - Calendario de pared 2020 Marvel A](https://m.media-amazon.com/images/I/6130HdBCk2L._SL200_.jpg)](https://www.amazon.es/dp/B07XGB6FM4/?tag=tolees-21)
+[![ERIK - Calendario de pared 2020 Marvel A](https://m.media-amazon.com/images/I/6130HdBCk2L._SL400_.jpg)](https://www.amazon.es/dp/B07XGB6FM4/?tag=tolees-21)
 
 🔎:
 

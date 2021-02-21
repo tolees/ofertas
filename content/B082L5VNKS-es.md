@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 32.14 % en Neutrogena Spot Controlling Acne Crema H'
 date: 2020-06-10 16:04:40
-image: 'https://m.media-amazon.com/images/I/41f8jJwr+hL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41f8jJwr+hL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.45'
 
 Tienes [Neutrogena Spot Controlling Acne Crema Hidratante Oil Free - 50 ml](https://www.amazon.es/dp/B082L5VNKS/?tag=tolees-21) con un 32.14 % de descuento con precio de oferta de 10.45 EUR (original: 15.4 EUR) en el siguiente enlace!
 
-[![Neutrogena Spot Controlling Acne Crema H](https://m.media-amazon.com/images/I/41f8jJwr+hL._SL200_.jpg)](https://www.amazon.es/dp/B082L5VNKS/?tag=tolees-21)
+[![Neutrogena Spot Controlling Acne Crema H](https://m.media-amazon.com/images/I/41f8jJwr+hL._SL400_.jpg)](https://www.amazon.es/dp/B082L5VNKS/?tag=tolees-21)
 
 ℹ️:
 

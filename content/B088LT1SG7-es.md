@@ -2,7 +2,7 @@
 layout: post
 title: 'qingqingR Estuche dispensador automático al 50.00 % de descuento'
 date: 2020-05-28 19:02:53
-image: 'https://m.media-amazon.com/images/I/51suNCZkrzL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51suNCZkrzL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.85'
 
 Ahora mismo tienes [qingqingR Estuche dispensador automático de bastoncillos de algodón con bastoncillos de algodón Decoración del hogar del Hotel](https://www.amazon.es/dp/B088LT1SG7/?tag=tolees-21) a 10.85 EUR (original: 21.7 EUR) (50.00 %  de descuento) en el siguiente enlace!
 
-[![qingqingR Estuche dispensador automático](https://m.media-amazon.com/images/I/51suNCZkrzL._SL200_.jpg)](https://www.amazon.es/dp/B088LT1SG7/?tag=tolees-21)
+[![qingqingR Estuche dispensador automático](https://m.media-amazon.com/images/I/51suNCZkrzL._SL400_.jpg)](https://www.amazon.es/dp/B088LT1SG7/?tag=tolees-21)
 
 🔎:
 

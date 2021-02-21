@@ -2,7 +2,7 @@
 layout: post
 title: 'San Ignacio Q2996 Sarten cuadrada 24x24x al 31.38 % de descuento'
 date: 2020-09-27 11:09:18
-image: 'https://m.media-amazon.com/images/I/41WmfGCsRyL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41WmfGCsRyL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '28.59333333333333'
 
 Está [San Ignacio Q2996 Sarten cuadrada 24x24x9.5cm con t aluminio prensado inducción optimum copper](https://www.amazon.es/dp/B07PV1FSDF/?tag=tolees-21) con 31.38 de descuento por 19.9 EUR (original: 29.0 EUR) en el siguiente enlace!
 
-[![San Ignacio Q2996 Sarten cuadrada 24x24x](https://m.media-amazon.com/images/I/41WmfGCsRyL._SL200_.jpg)](https://www.amazon.es/dp/B07PV1FSDF/?tag=tolees-21)
+[![San Ignacio Q2996 Sarten cuadrada 24x24x](https://m.media-amazon.com/images/I/41WmfGCsRyL._SL400_.jpg)](https://www.amazon.es/dp/B07PV1FSDF/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Tamaris 1-1-25283-23  Botas Militar para al 59.00 % de descuento'
 date: 2020-06-29 11:18:58
-image: 'https://m.media-amazon.com/images/I/41mmzCf41ML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41mmzCf41ML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '33.555'
 
 Ahora mismo tienes [Tamaris 1-1-25283-23  Botas Militar para Mujer  Marrón  Nut 440   36 EU](https://www.amazon.es/dp/B07NJJBRDQ/?tag=tolees-21) a 31.14 EUR (original: 75.95 EUR) (59.00 %  de descuento) en el siguiente enlace!
 
-[![Tamaris 1-1-25283-23  Botas Militar para](https://m.media-amazon.com/images/I/41mmzCf41ML._SL200_.jpg)](https://www.amazon.es/dp/B07NJJBRDQ/?tag=tolees-21)
+[![Tamaris 1-1-25283-23  Botas Militar para](https://m.media-amazon.com/images/I/41mmzCf41ML._SL400_.jpg)](https://www.amazon.es/dp/B07NJJBRDQ/?tag=tolees-21)
 
 🔎:
 

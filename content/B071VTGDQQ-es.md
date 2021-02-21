@@ -2,7 +2,7 @@
 layout: post
 title: 'Star Wars-Funko SW-EP8 Figura de Vinilo  al 34.78 % de descuento'
 date: 2020-05-25 13:04:14
-image: 'https://m.media-amazon.com/images/I/410GnpJHtjL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/410GnpJHtjL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.419999999999999'
 
 Está [Star Wars-Funko SW-EP8 Figura de Vinilo Pop 10: B Character  Episodio 8  Multicolor  Standard 14751](https://www.amazon.es/dp/B071VTGDQQ/?tag=tolees-21) con 34.78 de descuento por 9.75 EUR (original: 14.95 EUR) en el siguiente enlace!
 
-[![Star Wars-Funko SW-EP8 Figura de Vinilo ](https://m.media-amazon.com/images/I/410GnpJHtjL._SL200_.jpg)](https://www.amazon.es/dp/B071VTGDQQ/?tag=tolees-21)
+[![Star Wars-Funko SW-EP8 Figura de Vinilo ](https://m.media-amazon.com/images/I/410GnpJHtjL._SL400_.jpg)](https://www.amazon.es/dp/B071VTGDQQ/?tag=tolees-21)
 
 ℹ️:
 

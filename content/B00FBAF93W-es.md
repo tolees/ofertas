@@ -2,7 +2,7 @@
 layout: post
 title: 'Lacoste L1230  Polo de Manga Corta para  con un 31.50 % de descuento'
 date: 2020-08-07 17:53:13
-image: 'https://m.media-amazon.com/images/I/41s0iY9AZvL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41s0iY9AZvL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '51.95'
 
 En este momento está [Lacoste L1230  Polo de Manga Corta para Hombre  Azul  Marine   M  Talla del fabricante: 4 ](https://www.amazon.es/dp/B00FBAF93W/?tag=tolees-21) a 47.95 EUR (original: 70.0 EUR) (31.50 %  de descuento) en el siguiente enlace!
 
-[![Lacoste L1230  Polo de Manga Corta para ](https://m.media-amazon.com/images/I/41s0iY9AZvL._SL200_.jpg)](https://www.amazon.es/dp/B00FBAF93W/?tag=tolees-21)
+[![Lacoste L1230  Polo de Manga Corta para ](https://m.media-amazon.com/images/I/41s0iY9AZvL._SL400_.jpg)](https://www.amazon.es/dp/B00FBAF93W/?tag=tolees-21)
 
 🔎:
 

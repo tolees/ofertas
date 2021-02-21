@@ -2,7 +2,7 @@
 layout: post
 title: 'VERSACE JEANS COUTURE Pantaloni Sportivi con un 40.96 % de descuento'
 date: 2020-05-12 19:41:23
-image: 'https://m.media-amazon.com/images/I/31nVoWlR5HL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31nVoWlR5HL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '109.99'
 
 En este momento está [VERSACE JEANS COUTURE Pantaloni Sportivi Pantalones de Deporte  Negro  Negro 899   40  Talla del Fabricante: Large  para Mujer](https://www.amazon.es/dp/B07NLTR3HK/?tag=tolees-21) a 109.99 EUR (original: 186.3 EUR) (40.96 %  de descuento) en el siguiente enlace!
 
-[![VERSACE JEANS COUTURE Pantaloni Sportivi](https://m.media-amazon.com/images/I/31nVoWlR5HL._SL200_.jpg)](https://www.amazon.es/dp/B07NLTR3HK/?tag=tolees-21)
+[![VERSACE JEANS COUTURE Pantaloni Sportivi](https://m.media-amazon.com/images/I/31nVoWlR5HL._SL400_.jpg)](https://www.amazon.es/dp/B07NLTR3HK/?tag=tolees-21)
 
 🔎:
 

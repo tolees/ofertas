@@ -2,7 +2,7 @@
 layout: post
 title: 'Witcher 3: Wild Hunt - Game of The Year. al 50.11 % de descuento'
 date: 2020-03-16 17:37:43
-image: 'https://m.media-amazon.com/images/I/61CAbPZ6jNL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61CAbPZ6jNL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.95'
 
 Está [Witcher 3: Wild Hunt - Game of The Year. Versión inglesa](https://www.amazon.es/dp/B01JYW2F1G/?tag=tolees-21) con 50.11 de descuento por 19.95 EUR (original: 39.99 EUR) en el siguiente enlace!
 
-[![Witcher 3: Wild Hunt - Game of The Year.](https://m.media-amazon.com/images/I/61CAbPZ6jNL._SL200_.jpg)](https://www.amazon.es/dp/B01JYW2F1G/?tag=tolees-21)
+[![Witcher 3: Wild Hunt - Game of The Year.](https://m.media-amazon.com/images/I/61CAbPZ6jNL._SL400_.jpg)](https://www.amazon.es/dp/B01JYW2F1G/?tag=tolees-21)
 
 ℹ️:
 

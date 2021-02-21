@@ -2,7 +2,7 @@
 layout: post
 title: 'Puma Defy TZ Wn s  Zapatillas de Deporte al 63.99 % de descuento'
 date: 2020-02-07 18:32:47
-image: 'https://m.media-amazon.com/images/I/412JSVOysDL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/412JSVOysDL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '35.99'
 
 Ahora mismo tienes [Puma Defy TZ Wn s  Zapatillas de Deporte para Mujer  Verde White-Blazing Yellow  39 EU](https://www.amazon.es/dp/B07DCC4G7D/?tag=tolees-21) a 35.99 EUR (original: 99.95 EUR) (63.99 %  de descuento) en el siguiente enlace!
 
-[![Puma Defy TZ Wn s  Zapatillas de Deporte](https://m.media-amazon.com/images/I/412JSVOysDL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07DCC4G7D/?tag=tolees-21)
+[![Puma Defy TZ Wn s  Zapatillas de Deporte](https://m.media-amazon.com/images/I/412JSVOysDL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07DCC4G7D/?tag=tolees-21)
 
 🔎:
 

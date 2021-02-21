@@ -2,7 +2,7 @@
 layout: post
 title: 'G-STAR RAW 5620 Elwood 3D Slim Jeans  Az al 67.60 % de descuento'
 date: 2020-03-13 22:01:39
-image: 'https://m.media-amazon.com/images/I/41gbM0MUXWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41gbM0MUXWL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '32.68'
 
 Ahora mismo tienes [G-STAR RAW 5620 Elwood 3D Slim Jeans  Azul  medium aged 9118-071   40W / 38L para Hombre](https://www.amazon.es/dp/B0752NWFFT/?tag=tolees-21) a 38.86 EUR (original: 119.95 EUR) (67.60 %  de descuento) en el siguiente enlace!
 
-[![G-STAR RAW 5620 Elwood 3D Slim Jeans  Az](https://m.media-amazon.com/images/I/41gbM0MUXWL._SL200_.jpg)](https://www.amazon.es/dp/B0752NWFFT/?tag=tolees-21)
+[![G-STAR RAW 5620 Elwood 3D Slim Jeans  Az](https://m.media-amazon.com/images/I/41gbM0MUXWL._SL400_.jpg)](https://www.amazon.es/dp/B0752NWFFT/?tag=tolees-21)
 
 🔎:
 

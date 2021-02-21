@@ -2,7 +2,7 @@
 layout: post
 title: 'WinWonder Kit de Arcilla de Modelado 24  con un 37.55 % de descuento'
 date: 2020-04-04 05:20:04
-image: 'https://m.media-amazon.com/images/I/51j-DPO0YGL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51j-DPO0YGL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.9'
 
 En este momento está [WinWonder Kit de Arcilla de Modelado 24 Colores de Arcilla de Bricolaje Secado al Aire Arcilla Mágica Ultraligera con Herramientas de Modelado no Pegajosas Gran Regalo para Niños y Adultos](https://www.amazon.es/dp/B07YB1RZ8R/?tag=tolees-21) a 24.9 EUR (original: 39.87 EUR) (37.55 %  de descuento) en el siguiente enlace!
 
-[![WinWonder Kit de Arcilla de Modelado 24 ](https://m.media-amazon.com/images/I/51j-DPO0YGL._SL200_.jpg)](https://www.amazon.es/dp/B07YB1RZ8R/?tag=tolees-21)
+[![WinWonder Kit de Arcilla de Modelado 24 ](https://m.media-amazon.com/images/I/51j-DPO0YGL._SL400_.jpg)](https://www.amazon.es/dp/B07YB1RZ8R/?tag=tolees-21)
 
 🔎:
 

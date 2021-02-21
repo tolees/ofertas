@@ -2,7 +2,7 @@
 layout: post
 title: 'Wolfenstein II: The New Colossus al 31.86 % de descuento'
 date: 2020-02-25 23:48:31
-image: 'https://m.media-amazon.com/images/I/51RUfjcb-3L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51RUfjcb-3L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '36.92666666666667'
 
 Está [Wolfenstein II: The New Colossus](https://www.amazon.es/dp/B07CMH5BP1/?tag=tolees-21) con 31.86 de descuento por 40.88 EUR (original: 59.99 EUR) en el siguiente enlace!
 
-[![Wolfenstein II: The New Colossus](https://m.media-amazon.com/images/I/51RUfjcb-3L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07CMH5BP1/?tag=tolees-21)
+[![Wolfenstein II: The New Colossus](https://m.media-amazon.com/images/I/51RUfjcb-3L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07CMH5BP1/?tag=tolees-21)
 
 ℹ️:
 

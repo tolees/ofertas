@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger New Danny Belt Cinturón   al 37.66 % de descuento'
 date: 2020-06-30 17:02:14
-image: 'https://m.media-amazon.com/images/I/41rVe6SX6WL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41rVe6SX6WL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '25.993333333333332'
 
 Está [Tommy Hilfiger New Danny Belt Cinturón  Azul  NIGHT SKY 421   85 cm para Mujer](https://www.amazon.es/dp/B018LLP9O6/?tag=tolees-21) con 37.66 de descuento por 27.99 EUR (original: 44.9 EUR) en el siguiente enlace!
 
-[![Tommy Hilfiger New Danny Belt Cinturón  ](https://m.media-amazon.com/images/I/41rVe6SX6WL._SL200_.jpg)](https://www.amazon.es/dp/B018LLP9O6/?tag=tolees-21)
+[![Tommy Hilfiger New Danny Belt Cinturón  ](https://m.media-amazon.com/images/I/41rVe6SX6WL._SL400_.jpg)](https://www.amazon.es/dp/B018LLP9O6/?tag=tolees-21)
 
 ℹ️:
 

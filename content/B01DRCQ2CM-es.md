@@ -2,7 +2,7 @@
 layout: post
 title: 'Operación Soldados de Juguete DVD 1991 T al 49.75 % de descuento'
 date: 2020-09-20 20:10:44
-image: 'https://m.media-amazon.com/images/I/51ZlEAdxRlL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51ZlEAdxRlL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.996666666666667'
 
 Ahora mismo tienes [Operación Soldados de Juguete DVD 1991 Toy Soldiers](https://www.amazon.es/dp/B01DRCQ2CM/?tag=tolees-21) a 5.0 EUR (original: 9.95 EUR) (49.75 %  de descuento) en el siguiente enlace!
 
-[![Operación Soldados de Juguete DVD 1991 T](https://m.media-amazon.com/images/I/51ZlEAdxRlL._SL200_.jpg)](https://www.amazon.es/dp/B01DRCQ2CM/?tag=tolees-21)
+[![Operación Soldados de Juguete DVD 1991 T](https://m.media-amazon.com/images/I/51ZlEAdxRlL._SL400_.jpg)](https://www.amazon.es/dp/B01DRCQ2CM/?tag=tolees-21)
 
 🔎:
 

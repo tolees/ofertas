@@ -2,7 +2,7 @@
 layout: post
 title: 'American Tourister- Funshine spinner 4 r al 25.16 % de descuento'
 date: 2020-05-25 09:55:10
-image: 'https://m.media-amazon.com/images/I/411dPFJH-AL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/411dPFJH-AL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '63.31'
 
 Está [American Tourister- Funshine spinner 4 ruedas  55/20 equipaje de mano  azul  orion blue   S  55cm-36L ](https://www.amazon.es/dp/B01CZUVM36/?tag=tolees-21) con 25.16 de descuento por 59.12 EUR (original: 79.0 EUR) en el siguiente enlace!
 
-[![American Tourister- Funshine spinner 4 r](https://m.media-amazon.com/images/I/411dPFJH-AL._SL200_.jpg)](https://www.amazon.es/dp/B01CZUVM36/?tag=tolees-21)
+[![American Tourister- Funshine spinner 4 r](https://m.media-amazon.com/images/I/411dPFJH-AL._SL400_.jpg)](https://www.amazon.es/dp/B01CZUVM36/?tag=tolees-21)
 
 ℹ️:
 

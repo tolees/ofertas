@@ -2,7 +2,7 @@
 layout: post
 title: 'Funda de Gel de sílice Funda de Silicona al 49.26 % de rebaja'
 date: 2020-09-11 12:01:09
-image: 'https://m.media-amazon.com/images/I/31ExvsWRtDL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31ExvsWRtDL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.03'
 
 Tienes [Funda de Gel de sílice Funda de Silicona con Tapa para teléfono OSMO Pocket con Accesorio para cámara de Cuerda Manual](https://www.amazon.es/dp/B089NSF4BY/?tag=tolees-21) con precio final de  1.03 EUR (original: 2.03 EUR) (49.26 %  de rebaja) aqui!
 
-[![Funda de Gel de sílice Funda de Silicona](https://m.media-amazon.com/images/I/31ExvsWRtDL._SL200_.jpg)](https://www.amazon.es/dp/B089NSF4BY/?tag=tolees-21)
+[![Funda de Gel de sílice Funda de Silicona](https://m.media-amazon.com/images/I/31ExvsWRtDL._SL400_.jpg)](https://www.amazon.es/dp/B089NSF4BY/?tag=tolees-21)
 
 🔎:
 

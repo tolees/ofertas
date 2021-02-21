@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger - Poppy Small Tote  Bolso al 40.06 % de rebaja'
 date: 2020-07-01 05:39:58
-image: 'https://m.media-amazon.com/images/I/41+BU1h4loL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41+BU1h4loL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '41.9'
 
 Tienes [Tommy Hilfiger - Poppy Small Tote  Bolsos totes Mujer  Rojo  Barbados Cherry   1x1x1 cm  W x H L ](https://www.amazon.es/dp/B07V4RSLHN/?tag=tolees-21) con precio final de  41.9 EUR (original: 69.9 EUR) (40.06 %  de rebaja) aqui!
 
-[![Tommy Hilfiger - Poppy Small Tote  Bolso](https://m.media-amazon.com/images/I/41+BU1h4loL._SL200_.jpg)](https://www.amazon.es/dp/B07V4RSLHN/?tag=tolees-21)
+[![Tommy Hilfiger - Poppy Small Tote  Bolso](https://m.media-amazon.com/images/I/41+BU1h4loL._SL400_.jpg)](https://www.amazon.es/dp/B07V4RSLHN/?tag=tolees-21)
 
 🔎:
 

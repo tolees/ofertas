@@ -2,7 +2,7 @@
 layout: post
 title: 'AUKEY Quick Charge 2.0 Bateria Externa 2 al 33.34 % de descuento'
 date: 2020-07-13 12:48:08
-image: 'https://m.media-amazon.com/images/I/31ZmqutnzxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31ZmqutnzxL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '31.27'
 
 Ahora mismo tienes [AUKEY Quick Charge 2.0 Bateria Externa 20000mAh Cargador Portatil para Nexus 6P/ 5X  iPhone XS/XS MAX/ 8/7/ 6s  Samsung S9/ S9+  iPad y más](https://www.amazon.es/dp/B07KFH672P/?tag=tolees-21) a 31.99 EUR (original: 47.99 EUR) (33.34 %  de descuento) en el siguiente enlace!
 
-[![AUKEY Quick Charge 2.0 Bateria Externa 2](https://m.media-amazon.com/images/I/31ZmqutnzxL._SL200_.jpg)](https://www.amazon.es/dp/B07KFH672P/?tag=tolees-21)
+[![AUKEY Quick Charge 2.0 Bateria Externa 2](https://m.media-amazon.com/images/I/31ZmqutnzxL._SL400_.jpg)](https://www.amazon.es/dp/B07KFH672P/?tag=tolees-21)
 
 🔎:
 

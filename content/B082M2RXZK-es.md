@@ -2,7 +2,7 @@
 layout: post
 title: 'Aigital Transmisor Receptor Bluetooth 5. al 28.88 % de descuento'
 date: 2020-08-10 21:28:19
-image: 'https://m.media-amazon.com/images/I/41ueR+wM62L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ueR+wM62L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.973333333333333'
 
 Ahora mismo tienes [Aigital Transmisor Receptor Bluetooth 5.0  2 en 1 Adaptador Bluetooth de Audio Soporte aptX Baja latencia en Modo TX  Adaptador RX  Jack Jack 3 5mm para TV PC MP3/MP4 Tablet Altavoz Estéreo](https://www.amazon.es/dp/B082M2RXZK/?tag=tolees-21) a 16.99 EUR (original: 23.89 EUR) (28.88 %  de descuento) en el siguiente enlace!
 
-[![Aigital Transmisor Receptor Bluetooth 5.](https://m.media-amazon.com/images/I/41ueR+wM62L._SL200_.jpg)](https://www.amazon.es/dp/B082M2RXZK/?tag=tolees-21)
+[![Aigital Transmisor Receptor Bluetooth 5.](https://m.media-amazon.com/images/I/41ueR+wM62L._SL400_.jpg)](https://www.amazon.es/dp/B082M2RXZK/?tag=tolees-21)
 
 🔎:
 

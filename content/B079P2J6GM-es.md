@@ -2,7 +2,7 @@
 layout: post
 title: 'Fitbit Ionic Adidas Edition   El Smartwa al 43.95 % de descuento'
 date: 2020-10-06 15:37:37
-image: 'https://m.media-amazon.com/images/I/41QtgHYdVdL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41QtgHYdVdL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '225.79166666666666'
 
 Está [Fitbit Ionic Adidas Edition   El Smartwatch Deportivo  Azul  Tinta  / Gris  Hielo ](https://www.amazon.es/dp/B079P2J6GM/?tag=tolees-21) con 43.95 de descuento por 184.95 EUR (original: 329.95 EUR) en el siguiente enlace!
 
-[![Fitbit Ionic Adidas Edition   El Smartwa](https://m.media-amazon.com/images/I/41QtgHYdVdL._SL200_.jpg)](https://www.amazon.es/dp/B079P2J6GM/?tag=tolees-21)
+[![Fitbit Ionic Adidas Edition   El Smartwa](https://m.media-amazon.com/images/I/41QtgHYdVdL._SL400_.jpg)](https://www.amazon.es/dp/B079P2J6GM/?tag=tolees-21)
 
 ℹ️:
 

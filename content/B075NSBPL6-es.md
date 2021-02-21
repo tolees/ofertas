@@ -2,7 +2,7 @@
 layout: post
 title: 'Trangoworld Trx2 Stretch Pro Pullover  H al 49.19 % de descuento'
 date: 2020-01-10 17:16:04
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31q5bE3XmlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31q5bE3XmlL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '64.99'
 
 Está [Trangoworld Trx2 Stretch Pro Pullover  Hombre  Naranja Intenso/Calabaza  L](https://www.amazon.es/dp/B075NSBPL6/?tag=tolees-21) con 49.19 de descuento por 64.99 EUR (original: 127.9 EUR) en el siguiente enlace!
 
-[![Trangoworld Trx2 Stretch Pro Pullover  H](https://images-eu.ssl-images-amazon.com/images/I/31q5bE3XmlL._SL200_.jpg)](https://www.amazon.es/dp/B075NSBPL6/?tag=tolees-21)
+[![Trangoworld Trx2 Stretch Pro Pullover  H](https://images-eu.ssl-images-amazon.com/images/I/31q5bE3XmlL._SL400_.jpg)](https://www.amazon.es/dp/B075NSBPL6/?tag=tolees-21)
 
 ℹ️:
 

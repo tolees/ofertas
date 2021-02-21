@@ -2,7 +2,7 @@
 layout: post
 title: 'Real Madrid CF- Bolsa deporte  Color neg al 41.33 % de rebaja'
 date: 2020-05-28 10:37:56
-image: 'https://m.media-amazon.com/images/I/41IANZUwkWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41IANZUwkWL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '28.67'
 
 Tienes [Real Madrid CF- Bolsa deporte  Color negro  Safta 711924553 ](https://www.amazon.es/dp/B07MVLC24Y/?tag=tolees-21) con precio final de  28.67 EUR (original: 48.87 EUR) (41.33 %  de rebaja) aqui!
 
-[![Real Madrid CF- Bolsa deporte  Color neg](https://m.media-amazon.com/images/I/41IANZUwkWL._SL200_.jpg)](https://www.amazon.es/dp/B07MVLC24Y/?tag=tolees-21)
+[![Real Madrid CF- Bolsa deporte  Color neg](https://m.media-amazon.com/images/I/41IANZUwkWL._SL400_.jpg)](https://www.amazon.es/dp/B07MVLC24Y/?tag=tolees-21)
 
 🔎:
 

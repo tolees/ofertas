@@ -2,7 +2,7 @@
 layout: post
 title: 'Helly Hansen Copenhagen Slip-on  Zapatil al 38.10 % de descuento'
 date: 2020-07-21 00:38:28
-image: 'https://m.media-amazon.com/images/I/419xLs7fTRL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/419xLs7fTRL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '37.14'
 
 Está [Helly Hansen Copenhagen Slip-on  Zapatillas sin Cordones para Hombre  Azul  Navy/Grey Fog/Off White 597   40.5 EU](https://www.amazon.es/dp/B07RFND1BC/?tag=tolees-21) con 38.10 de descuento por 37.14 EUR (original: 60.0 EUR) en el siguiente enlace!
 
-[![Helly Hansen Copenhagen Slip-on  Zapatil](https://m.media-amazon.com/images/I/419xLs7fTRL._SL200_.jpg)](https://www.amazon.es/dp/B07RFND1BC/?tag=tolees-21)
+[![Helly Hansen Copenhagen Slip-on  Zapatil](https://m.media-amazon.com/images/I/419xLs7fTRL._SL400_.jpg)](https://www.amazon.es/dp/B07RFND1BC/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Nike Md Runner 2 - Zapatillas de correr  con un 49.99 % de descuento'
 date: 2020-07-21 08:16:06
-image: 'https://m.media-amazon.com/images/I/41sUnx-QWIL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41sUnx-QWIL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '47.629999999999995'
 
 En este momento está [Nike Md Runner 2 - Zapatillas de correr para Hombre  Negro  Negro/Blanco/Gris oscuro   45 EU](https://www.amazon.es/dp/B00PYDTR3Y/?tag=tolees-21) a 32.5 EUR (original: 64.99 EUR) (49.99 %  de descuento) en el siguiente enlace!
 
-[![Nike Md Runner 2 - Zapatillas de correr ](https://m.media-amazon.com/images/I/41sUnx-QWIL._SL200_.jpg)](https://www.amazon.es/dp/B00PYDTR3Y/?tag=tolees-21)
+[![Nike Md Runner 2 - Zapatillas de correr ](https://m.media-amazon.com/images/I/41sUnx-QWIL._SL400_.jpg)](https://www.amazon.es/dp/B00PYDTR3Y/?tag=tolees-21)
 
 🔎:
 

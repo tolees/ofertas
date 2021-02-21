@@ -2,7 +2,7 @@
 layout: post
 title: 'Pendrive 2 GB 10 Piezas Memorias USB 2.0 al 27.64 % de rebaja'
 date: 2020-07-15 23:45:16
-image: 'https://m.media-amazon.com/images/I/411hxTk5eKL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/411hxTk5eKL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '36.66'
 
 Tienes [Pendrive 2 GB 10 Piezas Memorias USB 2.0 - Portátil 2GB Pen Drive 10 Unidades Flash Drives Multicolor Pulsera Unidad USB - FEBNISCTE Práctico Económico Llaves USB Regalo para Niño Hija Hijo Familia](https://www.amazon.es/dp/B00P2JIHZ4/?tag=tolees-21) con precio final de  36.66 EUR (original: 50.66 EUR) (27.64 %  de rebaja) aqui!
 
-[![Pendrive 2 GB 10 Piezas Memorias USB 2.0](https://m.media-amazon.com/images/I/411hxTk5eKL._SL200_.jpg)](https://www.amazon.es/dp/B00P2JIHZ4/?tag=tolees-21)
+[![Pendrive 2 GB 10 Piezas Memorias USB 2.0](https://m.media-amazon.com/images/I/411hxTk5eKL._SL400_.jpg)](https://www.amazon.es/dp/B00P2JIHZ4/?tag=tolees-21)
 
 🔎:
 

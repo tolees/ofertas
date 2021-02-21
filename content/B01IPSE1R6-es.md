@@ -2,7 +2,7 @@
 layout: post
 title: 'The Walking Dead - Temporada 6 [Blu-ray] al 70.90 % de descuento'
 date: 2020-09-28 05:03:26
-image: 'https://m.media-amazon.com/images/I/51OIe0K38+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51OIe0K38+L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.056666666666665'
 
 Está [The Walking Dead - Temporada 6 [Blu-ray]](https://www.amazon.es/dp/B01IPSE1R6/?tag=tolees-21) con 70.90 de descuento por 13.59 EUR (original: 46.7 EUR) en el siguiente enlace!
 
-[![The Walking Dead - Temporada 6 [Blu-ray]](https://m.media-amazon.com/images/I/51OIe0K38+L._SL200_.jpg)](https://www.amazon.es/dp/B01IPSE1R6/?tag=tolees-21)
+[![The Walking Dead - Temporada 6 [Blu-ray]](https://m.media-amazon.com/images/I/51OIe0K38+L._SL400_.jpg)](https://www.amazon.es/dp/B01IPSE1R6/?tag=tolees-21)
 
 ℹ️:
 

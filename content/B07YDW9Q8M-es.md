@@ -2,7 +2,7 @@
 layout: post
 title: 'Pikolin Veza  colchón de muelles ensacad con un 36.15 % de descuento'
 date: 2020-06-18 13:39:21
-image: 'https://m.media-amazon.com/images/I/411WANHJUTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/411WANHJUTL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '405.44'
 
 En este momento está [Pikolin Veza  colchón de muelles ensacados y viscoelástica premium  90x190  firmeza media-alta  colchones confort y calidad máxima](https://www.amazon.es/dp/B07YDW9Q8M/?tag=tolees-21) a 405.44 EUR (original: 635.0 EUR) (36.15 %  de descuento) en el siguiente enlace!
 
-[![Pikolin Veza  colchón de muelles ensacad](https://m.media-amazon.com/images/I/411WANHJUTL._SL200_.jpg)](https://www.amazon.es/dp/B07YDW9Q8M/?tag=tolees-21)
+[![Pikolin Veza  colchón de muelles ensacad](https://m.media-amazon.com/images/I/411WANHJUTL._SL400_.jpg)](https://www.amazon.es/dp/B07YDW9Q8M/?tag=tolees-21)
 
 🔎:
 

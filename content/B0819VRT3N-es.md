@@ -2,7 +2,7 @@
 layout: post
 title: 'Guess jeans HWSM74 76180 logo city con un 29.00 % de descuento'
 date: 2020-05-23 09:50:30
-image: 'https://m.media-amazon.com/images/I/41PGs2bXKXL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41PGs2bXKXL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '81.65'
 
 En este momento está [Guess jeans HWSM74 76180 logo city](https://www.amazon.es/dp/B0819VRT3N/?tag=tolees-21) a 81.65 EUR (original: 115.0 EUR) (29.00 %  de descuento) en el siguiente enlace!
 
-[![Guess jeans HWSM74 76180 logo city](https://m.media-amazon.com/images/I/41PGs2bXKXL._SL200_.jpg)](https://www.amazon.es/dp/B0819VRT3N/?tag=tolees-21)
+[![Guess jeans HWSM74 76180 logo city](https://m.media-amazon.com/images/I/41PGs2bXKXL._SL400_.jpg)](https://www.amazon.es/dp/B0819VRT3N/?tag=tolees-21)
 
 🔎:
 

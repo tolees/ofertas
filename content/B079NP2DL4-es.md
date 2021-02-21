@@ -2,7 +2,7 @@
 layout: post
 title: 'Macallan Triple Cask 15 Años Single Malt al 52.37 % de rebaja'
 date: 2020-04-25 10:20:56
-image: 'https://m.media-amazon.com/images/I/41J2o9+GFHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41J2o9+GFHL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '47.15'
 
 Tienes [Macallan Triple Cask 15 Años Single Malt Whisky Escoces  43% - 700 ml](https://www.amazon.es/dp/B079NP2DL4/?tag=tolees-21) con precio final de  47.15 EUR (original: 99.0 EUR) (52.37 %  de rebaja) aqui!
 
-[![Macallan Triple Cask 15 Años Single Malt](https://m.media-amazon.com/images/I/41J2o9+GFHL._SL200_.jpg)](https://www.amazon.es/dp/B079NP2DL4/?tag=tolees-21)
+[![Macallan Triple Cask 15 Años Single Malt](https://m.media-amazon.com/images/I/41J2o9+GFHL._SL400_.jpg)](https://www.amazon.es/dp/B079NP2DL4/?tag=tolees-21)
 
 🔎:
 

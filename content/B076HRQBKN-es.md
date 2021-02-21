@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas CORE18 tee T-Shirt  Hombre  Black al 30.38 % de descuento'
 date: 2020-09-21 08:22:35
-image: 'https://m.media-amazon.com/images/I/41NjdbtVPiL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41NjdbtVPiL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.254000000000001'
 
 Está [adidas CORE18 tee T-Shirt  Hombre  Black/White  XS](https://www.amazon.es/dp/B076HRQBKN/?tag=tolees-21) con 30.38 de descuento por 13.89 EUR (original: 19.95 EUR) en el siguiente enlace!
 
-[![adidas CORE18 tee T-Shirt  Hombre  Black](https://m.media-amazon.com/images/I/41NjdbtVPiL._SL200_.jpg)](https://www.amazon.es/dp/B076HRQBKN/?tag=tolees-21)
+[![adidas CORE18 tee T-Shirt  Hombre  Black](https://m.media-amazon.com/images/I/41NjdbtVPiL._SL400_.jpg)](https://www.amazon.es/dp/B076HRQBKN/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Smile 111720640199 - Bolsa para ordenado con un 46.78 % de descuento'
 date: 2020-08-28 06:48:19
-image: 'https://m.media-amazon.com/images/I/416sPrpJgKL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/416sPrpJgKL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.6125'
 
 En este momento está [Smile 111720640199 - Bolsa para ordenadores portátiles de hasta 15.6’’   Negro y blanco     ](https://www.amazon.es/dp/B078HDHNXT/?tag=tolees-21) a 15.96 EUR (original: 29.99 EUR) (46.78 %  de descuento) en el siguiente enlace!
 
-[![Smile 111720640199 - Bolsa para ordenado](https://m.media-amazon.com/images/I/416sPrpJgKL._SL200_.jpg)](https://www.amazon.es/dp/B078HDHNXT/?tag=tolees-21)
+[![Smile 111720640199 - Bolsa para ordenado](https://m.media-amazon.com/images/I/416sPrpJgKL._SL400_.jpg)](https://www.amazon.es/dp/B078HDHNXT/?tag=tolees-21)
 
 🔎:
 

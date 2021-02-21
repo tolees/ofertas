@@ -2,7 +2,7 @@
 layout: post
 title: 'Love MoschinoJc4001pp1aMujerBolsos totes al 52.80 % de descuento'
 date: 2020-07-03 16:31:16
-image: 'https://m.media-amazon.com/images/I/415dzMaudLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/415dzMaudLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '115.8690909090909'
 
 Está [Love MoschinoJc4001pp1aMujerBolsos totesNegro  Negro 11x25x39 centimeters  W x H x L ](https://www.amazon.es/dp/B07RZYS1CV/?tag=tolees-21) con 52.80 de descuento por 101.95 EUR (original: 216.0 EUR) en el siguiente enlace!
 
-[![Love MoschinoJc4001pp1aMujerBolsos totes](https://m.media-amazon.com/images/I/415dzMaudLL._SL200_.jpg)](https://www.amazon.es/dp/B07RZYS1CV/?tag=tolees-21)
+[![Love MoschinoJc4001pp1aMujerBolsos totes](https://m.media-amazon.com/images/I/415dzMaudLL._SL400_.jpg)](https://www.amazon.es/dp/B07RZYS1CV/?tag=tolees-21)
 
 ℹ️:
 

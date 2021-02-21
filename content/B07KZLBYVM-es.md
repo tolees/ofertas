@@ -2,7 +2,7 @@
 layout: post
 title: 'KESOTO 1/12 Cama de Madera en Miniatura  al 44.45 % de descuento'
 date: 2020-01-29 11:55:56
-image: 'https://m.media-amazon.com/images/I/41BNzzziyJL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41BNzzziyJL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.58'
 
 Ahora mismo tienes [KESOTO 1/12 Cama de Madera en Miniatura Muebles para Dormitorio de Muñecas](https://www.amazon.es/dp/B07KZLBYVM/?tag=tolees-21) a 12.76 EUR (original: 22.97 EUR) (44.45 %  de descuento) en el siguiente enlace!
 
-[![KESOTO 1/12 Cama de Madera en Miniatura ](https://m.media-amazon.com/images/I/41BNzzziyJL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07KZLBYVM/?tag=tolees-21)
+[![KESOTO 1/12 Cama de Madera en Miniatura ](https://m.media-amazon.com/images/I/41BNzzziyJL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07KZLBYVM/?tag=tolees-21)
 
 🔎:
 

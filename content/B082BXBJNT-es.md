@@ -2,7 +2,7 @@
 layout: post
 title: 'En Tus Planes al 30.23 % de descuento'
 date: 2020-07-12 13:11:01
-image: 'https://m.media-amazon.com/images/I/51pcGm6H5aL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51pcGm6H5aL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.0'
 
 Ahora mismo tienes [En Tus Planes](https://www.amazon.es/dp/B082BXBJNT/?tag=tolees-21) a 9.0 EUR (original: 12.9 EUR) (30.23 %  de descuento) en el siguiente enlace!
 
-[![En Tus Planes](https://m.media-amazon.com/images/I/51pcGm6H5aL._SL200_.jpg)](https://www.amazon.es/dp/B082BXBJNT/?tag=tolees-21)
+[![En Tus Planes](https://m.media-amazon.com/images/I/51pcGm6H5aL._SL400_.jpg)](https://www.amazon.es/dp/B082BXBJNT/?tag=tolees-21)
 
 🔎:
 

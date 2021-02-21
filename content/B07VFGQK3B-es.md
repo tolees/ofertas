@@ -2,7 +2,7 @@
 layout: post
 title: 'EXTRASTAR Repetidor WiFi 300Mbps Extenso con un 40.97 % de descuento'
 date: 2020-09-04 18:25:19
-image: 'https://m.media-amazon.com/images/I/31JAer6YcsL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31JAer6YcsL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.582857142857142'
 
 En este momento está [EXTRASTAR Repetidor WiFi 300Mbps Extensor de Red WiFi Amplificador Enrutador Inalámbrico 2.4G   Puerto LAN/WAN Ethernet  2 Antenas con Enchufe ](https://www.amazon.es/dp/B07VFGQK3B/?tag=tolees-21) a 10.62 EUR (original: 17.99 EUR) (40.97 %  de descuento) en el siguiente enlace!
 
-[![EXTRASTAR Repetidor WiFi 300Mbps Extenso](https://m.media-amazon.com/images/I/31JAer6YcsL._SL200_.jpg)](https://www.amazon.es/dp/B07VFGQK3B/?tag=tolees-21)
+[![EXTRASTAR Repetidor WiFi 300Mbps Extenso](https://m.media-amazon.com/images/I/31JAer6YcsL._SL400_.jpg)](https://www.amazon.es/dp/B07VFGQK3B/?tag=tolees-21)
 
 🔎:
 

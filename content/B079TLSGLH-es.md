@@ -2,7 +2,7 @@
 layout: post
 title: 'Columbia Silver Ridge II Pantalones de S al 60.01 % de rebaja'
 date: 2020-06-26 09:10:28
-image: 'https://m.media-amazon.com/images/I/31G+0YcBVSL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31G+0YcBVSL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.99'
 
 Tienes [Columbia Silver Ridge II Pantalones de Senderismo Convertible  Hombre  Marrón  Tusk   W34/L30](https://www.amazon.es/dp/B079TLSGLH/?tag=tolees-21) con precio final de  29.99 EUR (original: 74.99 EUR) (60.01 %  de rebaja) aqui!
 
-[![Columbia Silver Ridge II Pantalones de S](https://m.media-amazon.com/images/I/31G+0YcBVSL._SL200_.jpg)](https://www.amazon.es/dp/B079TLSGLH/?tag=tolees-21)
+[![Columbia Silver Ridge II Pantalones de S](https://m.media-amazon.com/images/I/31G+0YcBVSL._SL400_.jpg)](https://www.amazon.es/dp/B079TLSGLH/?tag=tolees-21)
 
 🔎:
 

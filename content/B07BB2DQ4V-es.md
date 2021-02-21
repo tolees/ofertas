@@ -2,7 +2,7 @@
 layout: post
 title: 'Beper BT.150Y - Máquina para Hot-Dog al 47.70 % de rebaja'
 date: 2020-06-07 15:24:24
-image: 'https://m.media-amazon.com/images/I/41zRA1cbDUL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41zRA1cbDUL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.84'
 
 Tienes [Beper BT.150Y - Máquina para Hot-Dog](https://www.amazon.es/dp/B07BB2DQ4V/?tag=tolees-21) con precio final de  17.84 EUR (original: 34.11 EUR) (47.70 %  de rebaja) aqui!
 
-[![Beper BT.150Y - Máquina para Hot-Dog](https://m.media-amazon.com/images/I/41zRA1cbDUL._SL200_.jpg)](https://www.amazon.es/dp/B07BB2DQ4V/?tag=tolees-21)
+[![Beper BT.150Y - Máquina para Hot-Dog](https://m.media-amazon.com/images/I/41zRA1cbDUL._SL400_.jpg)](https://www.amazon.es/dp/B07BB2DQ4V/?tag=tolees-21)
 
 🔎:
 

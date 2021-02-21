@@ -2,7 +2,7 @@
 layout: post
 title: 'AirSMall Ganchos de Extensiones Herramie al 50.02 % de descuento'
 date: 2020-04-14 08:55:36
-image: 'https://m.media-amazon.com/images/I/51wmBFoqQqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51wmBFoqQqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.99'
 
 Está [AirSMall Ganchos de Extensiones Herramientas para Extensiones de Pelo  8 Clip de Peluca  1 Alicate  1 Peine de Cola de Rata  2 Gancho de Ganchillo y Muchos Microanillos para Extensiones de Cabello](https://www.amazon.es/dp/B0854FRXB6/?tag=tolees-21) con 50.02 de descuento por 12.99 EUR (original: 25.99 EUR) en el siguiente enlace!
 
-[![AirSMall Ganchos de Extensiones Herramie](https://m.media-amazon.com/images/I/51wmBFoqQqL._SL200_.jpg)](https://www.amazon.es/dp/B0854FRXB6/?tag=tolees-21)
+[![AirSMall Ganchos de Extensiones Herramie](https://m.media-amazon.com/images/I/51wmBFoqQqL._SL400_.jpg)](https://www.amazon.es/dp/B0854FRXB6/?tag=tolees-21)
 
 ℹ️:
 

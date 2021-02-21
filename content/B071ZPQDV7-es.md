@@ -2,7 +2,7 @@
 layout: post
 title: 'Marvel VS Capcom Infinite al 43.52 % de descuento'
 date: 2020-05-12 20:01:47
-image: 'https://m.media-amazon.com/images/I/512YtGpVEFL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/512YtGpVEFL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '33.88'
 
 Ahora mismo tienes [Marvel VS Capcom Infinite](https://www.amazon.es/dp/B071ZPQDV7/?tag=tolees-21) a 33.88 EUR (original: 59.99 EUR) (43.52 %  de descuento) en el siguiente enlace!
 
-[![Marvel VS Capcom Infinite](https://m.media-amazon.com/images/I/512YtGpVEFL._SL200_.jpg)](https://www.amazon.es/dp/B071ZPQDV7/?tag=tolees-21)
+[![Marvel VS Capcom Infinite](https://m.media-amazon.com/images/I/512YtGpVEFL._SL400_.jpg)](https://www.amazon.es/dp/B071ZPQDV7/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Oliceydress DS0010 Vestidos de Noche  Ne al 33.30 % de rebaja'
 date: 2020-09-30 14:22:31
-image: 'https://m.media-amazon.com/images/I/414PIRMV3zL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/414PIRMV3zL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.97'
 
 Tienes [Oliceydress DS0010 Vestidos de Noche  Negro  Black   XXS](https://www.amazon.es/dp/B07ZG2V4NN/?tag=tolees-21) con precio final de  5.97 EUR (original: 8.95 EUR) (33.30 %  de rebaja) aqui!
 
-[![Oliceydress DS0010 Vestidos de Noche  Ne](https://m.media-amazon.com/images/I/414PIRMV3zL._SL200_.jpg)](https://www.amazon.es/dp/B07ZG2V4NN/?tag=tolees-21)
+[![Oliceydress DS0010 Vestidos de Noche  Ne](https://m.media-amazon.com/images/I/414PIRMV3zL._SL400_.jpg)](https://www.amazon.es/dp/B07ZG2V4NN/?tag=tolees-21)
 
 🔎:
 

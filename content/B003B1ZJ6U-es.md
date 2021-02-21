@@ -2,7 +2,7 @@
 layout: post
 title: 'Lacor 61940 - Botella biberón 400 ml  co al 51.95 % de descuento'
 date: 2020-05-22 23:01:11
-image: 'https://m.media-amazon.com/images/I/21jXxb+DwML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21jXxb+DwML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.8'
 
 Está [Lacor 61940 - Botella biberón 400 ml  color blanco](https://www.amazon.es/dp/B003B1ZJ6U/?tag=tolees-21) con 51.95 de descuento por 4.8 EUR (original: 9.99 EUR) en el siguiente enlace!
 
-[![Lacor 61940 - Botella biberón 400 ml  co](https://m.media-amazon.com/images/I/21jXxb+DwML._SL200_.jpg)](https://www.amazon.es/dp/B003B1ZJ6U/?tag=tolees-21)
+[![Lacor 61940 - Botella biberón 400 ml  co](https://m.media-amazon.com/images/I/21jXxb+DwML._SL400_.jpg)](https://www.amazon.es/dp/B003B1ZJ6U/?tag=tolees-21)
 
 ℹ️:
 

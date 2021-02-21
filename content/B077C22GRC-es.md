@@ -2,7 +2,7 @@
 layout: post
 title: 'Tous Baby- Oso Musical  Color Celeste  T al 50.00 % de descuento'
 date: 2020-09-27 16:31:41
-image: 'https://m.media-amazon.com/images/I/314FAe17e9L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/314FAe17e9L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.5'
 
 Ahora mismo tienes [Tous Baby- Oso Musical  Color Celeste  T.Bear-603 00067 0/36M ](https://www.amazon.es/dp/B077C22GRC/?tag=tolees-21) a 14.5 EUR (original: 29.0 EUR) (50.00 %  de descuento) en el siguiente enlace!
 
-[![Tous Baby- Oso Musical  Color Celeste  T](https://m.media-amazon.com/images/I/314FAe17e9L._SL200_.jpg)](https://www.amazon.es/dp/B077C22GRC/?tag=tolees-21)
+[![Tous Baby- Oso Musical  Color Celeste  T](https://m.media-amazon.com/images/I/314FAe17e9L._SL400_.jpg)](https://www.amazon.es/dp/B077C22GRC/?tag=tolees-21)
 
 🔎:
 

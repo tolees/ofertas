@@ -2,7 +2,7 @@
 layout: post
 title: 'KROM Knout XL RGB - NXKROMKNTXLRGB - Alf al 31.77 % de rebaja'
 date: 2020-03-13 22:27:12
-image: 'https://m.media-amazon.com/images/I/31crR0V6t5L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31crR0V6t5L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.99'
 
 Tienes [KROM Knout XL RGB - NXKROMKNTXLRGB - Alfombrilla Gaming XL  RGB  Color Negro](https://www.amazon.es/dp/B081B9V9PF/?tag=tolees-21) con precio final de  16.99 EUR (original: 24.9 EUR) (31.77 %  de rebaja) aqui!
 
-[![KROM Knout XL RGB - NXKROMKNTXLRGB - Alf](https://m.media-amazon.com/images/I/31crR0V6t5L._SL200_.jpg)](https://www.amazon.es/dp/B081B9V9PF/?tag=tolees-21)
+[![KROM Knout XL RGB - NXKROMKNTXLRGB - Alf](https://m.media-amazon.com/images/I/31crR0V6t5L._SL400_.jpg)](https://www.amazon.es/dp/B081B9V9PF/?tag=tolees-21)
 
 🔎:
 

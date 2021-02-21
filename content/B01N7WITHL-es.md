@@ -2,7 +2,7 @@
 layout: post
 title: 'Nautica Reloj de Pulsera NAPPRH001 al 32.97 % de descuento'
 date: 2020-03-28 15:49:07
-image: 'https://m.media-amazon.com/images/I/41D2ltOeWFL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41D2ltOeWFL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '232.515'
 
 Ahora mismo tienes [Nautica Reloj de Pulsera NAPPRH001](https://www.amazon.es/dp/B01N7WITHL/?tag=tolees-21) a 267.45 EUR (original: 399.0 EUR) (32.97 %  de descuento) en el siguiente enlace!
 
-[![Nautica Reloj de Pulsera NAPPRH001](https://m.media-amazon.com/images/I/41D2ltOeWFL._SL200_.jpg)](https://www.amazon.es/dp/B01N7WITHL/?tag=tolees-21)
+[![Nautica Reloj de Pulsera NAPPRH001](https://m.media-amazon.com/images/I/41D2ltOeWFL._SL400_.jpg)](https://www.amazon.es/dp/B01N7WITHL/?tag=tolees-21)
 
 🔎:
 

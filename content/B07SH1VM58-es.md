@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s Woodward L  Zapatillas para Hombr con un 34.17 % de descuento'
 date: 2020-06-23 00:57:11
-image: 'https://m.media-amazon.com/images/I/31QfYQE+JFL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31QfYQE+JFL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '31.860000000000003'
 
 En este momento está [Levi s Woodward L  Zapatillas para Hombre  Blanco  R White 51   46 EU](https://www.amazon.es/dp/B07SH1VM58/?tag=tolees-21) a 30.77 EUR (original: 46.74 EUR) (34.17 %  de descuento) en el siguiente enlace!
 
-[![Levi s Woodward L  Zapatillas para Hombr](https://m.media-amazon.com/images/I/31QfYQE+JFL._SL200_.jpg)](https://www.amazon.es/dp/B07SH1VM58/?tag=tolees-21)
+[![Levi s Woodward L  Zapatillas para Hombr](https://m.media-amazon.com/images/I/31QfYQE+JFL._SL400_.jpg)](https://www.amazon.es/dp/B07SH1VM58/?tag=tolees-21)
 
 🔎:
 

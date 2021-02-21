@@ -2,7 +2,7 @@
 layout: post
 title: 'iAmotus Ratón Inalámbrico Recargable  2. con un 26.68 % de descuento'
 date: 2020-08-08 19:47:07
-image: 'https://m.media-amazon.com/images/I/41UDJdofUfL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41UDJdofUfL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.066923076923077'
 
 En este momento está [iAmotus Ratón Inalámbrico Recargable  2.4G Ratón Óptico Silencioso Click Mini con 3 Niveles de dpi y Nano USB Receptor Ergonómico Mouse para Windows/Linux/Vista/PC/Mac  Computadora  Portátil  PC](https://www.amazon.es/dp/B07NKDXDH3/?tag=tolees-21) a 10.99 EUR (original: 14.99 EUR) (26.68 %  de descuento) en el siguiente enlace!
 
-[![iAmotus Ratón Inalámbrico Recargable  2.](https://m.media-amazon.com/images/I/41UDJdofUfL._SL200_.jpg)](https://www.amazon.es/dp/B07NKDXDH3/?tag=tolees-21)
+[![iAmotus Ratón Inalámbrico Recargable  2.](https://m.media-amazon.com/images/I/41UDJdofUfL._SL400_.jpg)](https://www.amazon.es/dp/B07NKDXDH3/?tag=tolees-21)
 
 🔎:
 

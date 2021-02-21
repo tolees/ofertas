@@ -2,7 +2,7 @@
 layout: post
 title: 'Pantene Pro-V Prevención Caída Champú pa con un 35.29 % de descuento'
 date: 2020-04-26 16:16:01
-image: 'https://m.media-amazon.com/images/I/41cK6Ulka3L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41cK6Ulka3L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.99'
 
 En este momento está [Pantene Pro-V Prevención Caída Champú para el Cabello con Tendencia a la Rotura - 360 ml](https://www.amazon.es/dp/B01LCTXY3C/?tag=tolees-21) a 1.98 EUR (original: 3.06 EUR) (35.29 %  de descuento) en el siguiente enlace!
 
-[![Pantene Pro-V Prevención Caída Champú pa](https://m.media-amazon.com/images/I/41cK6Ulka3L._SL200_.jpg)](https://www.amazon.es/dp/B01LCTXY3C/?tag=tolees-21)
+[![Pantene Pro-V Prevención Caída Champú pa](https://m.media-amazon.com/images/I/41cK6Ulka3L._SL400_.jpg)](https://www.amazon.es/dp/B01LCTXY3C/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 48.63 % en Sisley Phyto-Teint Expert #3-Natural 30 '
 date: 2020-03-20 08:51:20
-image: 'https://m.media-amazon.com/images/I/31vDcF1GQKL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31vDcF1GQKL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '50.34'
 
 Tienes [Sisley Phyto-Teint Expert #3-Natural 30 ml](https://www.amazon.es/dp/B00MV2G5CM/?tag=tolees-21) con un 48.63 % de descuento con precio de oferta de 50.34 EUR (original: 98.0 EUR) en el siguiente enlace!
 
-[![Sisley Phyto-Teint Expert #3-Natural 30 ](https://m.media-amazon.com/images/I/31vDcF1GQKL._SL200_.jpg)](https://www.amazon.es/dp/B00MV2G5CM/?tag=tolees-21)
+[![Sisley Phyto-Teint Expert #3-Natural 30 ](https://m.media-amazon.com/images/I/31vDcF1GQKL._SL400_.jpg)](https://www.amazon.es/dp/B00MV2G5CM/?tag=tolees-21)
 
 ℹ️:
 

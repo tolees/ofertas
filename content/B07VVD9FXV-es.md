@@ -2,7 +2,7 @@
 layout: post
 title: 'PIKOLINOS Sandalia Plana de Piel MARAZUL al 54.75 % de rebaja'
 date: 2020-08-25 00:00:14
-image: 'https://m.media-amazon.com/images/I/41ie6l8qhxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ie6l8qhxL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '40.7'
 
 Tienes [PIKOLINOS Sandalia Plana de Piel MARAZUL W3F](https://www.amazon.es/dp/B07VVD9FXV/?tag=tolees-21) con precio final de  40.7 EUR (original: 89.95 EUR) (54.75 %  de rebaja) aqui!
 
-[![PIKOLINOS Sandalia Plana de Piel MARAZUL](https://m.media-amazon.com/images/I/41ie6l8qhxL._SL200_.jpg)](https://www.amazon.es/dp/B07VVD9FXV/?tag=tolees-21)
+[![PIKOLINOS Sandalia Plana de Piel MARAZUL](https://m.media-amazon.com/images/I/41ie6l8qhxL._SL400_.jpg)](https://www.amazon.es/dp/B07VVD9FXV/?tag=tolees-21)
 
 🔎:
 

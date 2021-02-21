@@ -2,7 +2,7 @@
 layout: post
 title: 'Hewlett Packard CF543X - Tóner  color Ma con un 30.60 % de descuento'
 date: 2020-04-29 13:10:12
-image: 'https://m.media-amazon.com/images/I/41U3c7AajRL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41U3c7AajRL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '85.99'
 
 En este momento está [Hewlett Packard CF543X - Tóner  color Magenta](https://www.amazon.es/dp/B075QCC3XZ/?tag=tolees-21) a 85.99 EUR (original: 123.9 EUR) (30.60 %  de descuento) en el siguiente enlace!
 
-[![Hewlett Packard CF543X - Tóner  color Ma](https://m.media-amazon.com/images/I/41U3c7AajRL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B075QCC3XZ/?tag=tolees-21)
+[![Hewlett Packard CF543X - Tóner  color Ma](https://m.media-amazon.com/images/I/41U3c7AajRL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B075QCC3XZ/?tag=tolees-21)
 
 🔎:
 

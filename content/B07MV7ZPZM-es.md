@@ -2,7 +2,7 @@
 layout: post
 title: 'perfk Soporte de Carga Inalámbrica Qi He al 36.51 % de descuento'
 date: 2020-07-10 23:37:17
-image: 'https://m.media-amazon.com/images/I/31FEV+JfoFL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31FEV+JfoFL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.76'
 
 Ahora mismo tienes [perfk Soporte de Carga Inalámbrica Qi Herramientas Moviles Intelligentes](https://www.amazon.es/dp/B07MV7ZPZM/?tag=tolees-21) a 18.76 EUR (original: 29.55 EUR) (36.51 %  de descuento) en el siguiente enlace!
 
-[![perfk Soporte de Carga Inalámbrica Qi He](https://m.media-amazon.com/images/I/31FEV+JfoFL._SL200_.jpg)](https://www.amazon.es/dp/B07MV7ZPZM/?tag=tolees-21)
+[![perfk Soporte de Carga Inalámbrica Qi He](https://m.media-amazon.com/images/I/31FEV+JfoFL._SL400_.jpg)](https://www.amazon.es/dp/B07MV7ZPZM/?tag=tolees-21)
 
 🔎:
 

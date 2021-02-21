@@ -2,7 +2,7 @@
 layout: post
 title: 'Oihxse Funda para OPPO Realme 3/Realme 3 al 27.32 % de descuento'
 date: 2020-05-12 12:05:28
-image: 'https://m.media-amazon.com/images/I/41kjVbZ4fhL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41kjVbZ4fhL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.98'
 
 Está [Oihxse Funda para OPPO Realme 3/Realme 3i Transparente  Estuche con OPPO Realme 3/Realme 3i Ultra-Delgado Silicona TPU Suave Protectora Carcasa Océano Animal Serie Bumper  C1 ](https://www.amazon.es/dp/B086MCPNBT/?tag=tolees-21) con 27.32 de descuento por 7.98 EUR (original: 10.98 EUR) en el siguiente enlace!
 
-[![Oihxse Funda para OPPO Realme 3/Realme 3](https://m.media-amazon.com/images/I/41kjVbZ4fhL._SL200_.jpg)](https://www.amazon.es/dp/B086MCPNBT/?tag=tolees-21)
+[![Oihxse Funda para OPPO Realme 3/Realme 3](https://m.media-amazon.com/images/I/41kjVbZ4fhL._SL400_.jpg)](https://www.amazon.es/dp/B086MCPNBT/?tag=tolees-21)
 
 ℹ️:
 

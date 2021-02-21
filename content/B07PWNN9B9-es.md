@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour UA TriBase Thrive  Zapatill al 38.91 % de rebaja'
 date: 2020-06-29 01:22:40
-image: 'https://m.media-amazon.com/images/I/41Q3xQjaIdL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Q3xQjaIdL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '54.95'
 
 Tienes [Under Armour UA TriBase Thrive  Zapatillas Deportivas para Interior para Hombre  Negro  Black/Versa Blue/Pitch Gray   44 EU](https://www.amazon.es/dp/B07PWNN9B9/?tag=tolees-21) con precio final de  54.95 EUR (original: 89.95 EUR) (38.91 %  de rebaja) aqui!
 
-[![Under Armour UA TriBase Thrive  Zapatill](https://m.media-amazon.com/images/I/41Q3xQjaIdL._SL200_.jpg)](https://www.amazon.es/dp/B07PWNN9B9/?tag=tolees-21)
+[![Under Armour UA TriBase Thrive  Zapatill](https://m.media-amazon.com/images/I/41Q3xQjaIdL._SL400_.jpg)](https://www.amazon.es/dp/B07PWNN9B9/?tag=tolees-21)
 
 🔎:
 

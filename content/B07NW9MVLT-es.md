@@ -2,7 +2,7 @@
 layout: post
 title: 'Skechers On-the-go Joy Botas Altas Mujer al 59.95 % de rebaja'
 date: 2020-02-18 13:23:15
-image: 'https://m.media-amazon.com/images/I/41c6tUCXNkL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41c6tUCXNkL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '34.02'
 
 Tienes [Skechers On-the-go Joy Botas Altas Mujer  Marrón  Chocolate Suede/Textile Chocolate   37.5 EU  4.5 UK ](https://www.amazon.es/dp/B07NW9MVLT/?tag=tolees-21) con precio final de  34.02 EUR (original: 84.95 EUR) (59.95 %  de rebaja) aqui!
 
-[![Skechers On-the-go Joy Botas Altas Mujer](https://m.media-amazon.com/images/I/41c6tUCXNkL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07NW9MVLT/?tag=tolees-21)
+[![Skechers On-the-go Joy Botas Altas Mujer](https://m.media-amazon.com/images/I/41c6tUCXNkL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07NW9MVLT/?tag=tolees-21)
 
 🔎:
 

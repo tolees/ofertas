@@ -2,7 +2,7 @@
 layout: post
 title: 'Fini Tronc - Marshmallow Bicolor - Espum al 41.05 % de descuento'
 date: 2020-09-10 17:17:25
-image: 'https://m.media-amazon.com/images/I/51KtogGp2RL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51KtogGp2RL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.5'
 
 Ahora mismo tienes [Fini Tronc - Marshmallow Bicolor - Espumas Dulces - 125 piezas](https://www.amazon.es/dp/B00XAQ7MSO/?tag=tolees-21) a 5.7 EUR (original: 9.67 EUR) (41.05 %  de descuento) en el siguiente enlace!
 
-[![Fini Tronc - Marshmallow Bicolor - Espum](https://m.media-amazon.com/images/I/51KtogGp2RL._SL200_.jpg)](https://www.amazon.es/dp/B00XAQ7MSO/?tag=tolees-21)
+[![Fini Tronc - Marshmallow Bicolor - Espum](https://m.media-amazon.com/images/I/51KtogGp2RL._SL400_.jpg)](https://www.amazon.es/dp/B00XAQ7MSO/?tag=tolees-21)
 
 🔎:
 

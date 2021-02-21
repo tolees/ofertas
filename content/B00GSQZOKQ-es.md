@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 43.94 % en VICTORY ENDURANCE Beta Alanine 90 Caps'
 date: 2020-02-28 09:31:49
-image: 'https://m.media-amazon.com/images/I/51DkSpfqBsL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51DkSpfqBsL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.170000000000002'
 
 Tienes [VICTORY ENDURANCE Beta Alanine 90 Caps](https://www.amazon.es/dp/B00GSQZOKQ/?tag=tolees-21) con un 43.94 % de descuento con precio de oferta de 9.81 EUR (original: 17.5 EUR) en el siguiente enlace!
 
-[![VICTORY ENDURANCE Beta Alanine 90 Caps](https://m.media-amazon.com/images/I/51DkSpfqBsL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B00GSQZOKQ/?tag=tolees-21)
+[![VICTORY ENDURANCE Beta Alanine 90 Caps](https://m.media-amazon.com/images/I/51DkSpfqBsL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B00GSQZOKQ/?tag=tolees-21)
 
 ℹ️:
 

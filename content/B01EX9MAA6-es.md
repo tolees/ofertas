@@ -2,7 +2,7 @@
 layout: post
 title: 'LEDKIA LIGHTING Lámpara Colgante Jagger  al 27.13 % de descuento'
 date: 2020-07-18 06:11:17
-image: 'https://m.media-amazon.com/images/I/31DDvxO7--L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31DDvxO7--L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '35.83'
 
 Está [LEDKIA LIGHTING Lámpara Colgante Jagger Negro](https://www.amazon.es/dp/B01EX9MAA6/?tag=tolees-21) con 27.13 de descuento por 35.83 EUR (original: 49.17 EUR) en el siguiente enlace!
 
-[![LEDKIA LIGHTING Lámpara Colgante Jagger ](https://m.media-amazon.com/images/I/31DDvxO7--L._SL200_.jpg)](https://www.amazon.es/dp/B01EX9MAA6/?tag=tolees-21)
+[![LEDKIA LIGHTING Lámpara Colgante Jagger ](https://m.media-amazon.com/images/I/31DDvxO7--L._SL400_.jpg)](https://www.amazon.es/dp/B01EX9MAA6/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'LEORX Candy Bottle Gift Box Baby Shower  al 45.02 % de rebaja'
 date: 2020-05-07 12:00:40
-image: 'https://m.media-amazon.com/images/I/51wBq-8Z2DL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51wBq-8Z2DL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.99'
 
 Tienes [LEORX Candy Bottle Gift Box Baby Shower Favors 12pcs  Blue ](https://www.amazon.es/dp/B01CU54IDM/?tag=tolees-21) con precio final de  8.99 EUR (original: 16.35 EUR) (45.02 %  de rebaja) aqui!
 
-[![LEORX Candy Bottle Gift Box Baby Shower ](https://m.media-amazon.com/images/I/51wBq-8Z2DL._SL200_.jpg)](https://www.amazon.es/dp/B01CU54IDM/?tag=tolees-21)
+[![LEORX Candy Bottle Gift Box Baby Shower ](https://m.media-amazon.com/images/I/51wBq-8Z2DL._SL400_.jpg)](https://www.amazon.es/dp/B01CU54IDM/?tag=tolees-21)
 
 🔎:
 

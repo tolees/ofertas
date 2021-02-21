@@ -2,7 +2,7 @@
 layout: post
 title: 'Marvel Character World Disney Comics - J al 32.00 % de descuento'
 date: 2020-09-25 15:08:59
-image: 'https://m.media-amazon.com/images/I/612TKP5vjnL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/612TKP5vjnL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '30.39'
 
 Está [Marvel Character World Disney Comics - Juego de Funda de edredón Doble  Reversible  Multicolor](https://www.amazon.es/dp/B00DEICO1I/?tag=tolees-21) con 32.00 de descuento por 30.39 EUR (original: 44.69 EUR) en el siguiente enlace!
 
-[![Marvel Character World Disney Comics - J](https://m.media-amazon.com/images/I/612TKP5vjnL._SL200_.jpg)](https://www.amazon.es/dp/B00DEICO1I/?tag=tolees-21)
+[![Marvel Character World Disney Comics - J](https://m.media-amazon.com/images/I/612TKP5vjnL._SL400_.jpg)](https://www.amazon.es/dp/B00DEICO1I/?tag=tolees-21)
 
 ℹ️:
 

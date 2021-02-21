@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger Organic Cotton Silk V Nec al 76.44 % de rebaja'
 date: 2020-09-02 05:34:47
-image: 'https://m.media-amazon.com/images/I/31HiRSBSJDL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31HiRSBSJDL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.13'
 
 Tienes [Tommy Hilfiger Organic Cotton Silk V Neck Pantalones  Azul  Sail Blue Heather DVC   Small para Hombre](https://www.amazon.es/dp/B07VT9LTML/?tag=tolees-21) con precio final de  23.13 EUR (original: 98.16 EUR) (76.44 %  de rebaja) aqui!
 
-[![Tommy Hilfiger Organic Cotton Silk V Nec](https://m.media-amazon.com/images/I/31HiRSBSJDL._SL200_.jpg)](https://www.amazon.es/dp/B07VT9LTML/?tag=tolees-21)
+[![Tommy Hilfiger Organic Cotton Silk V Nec](https://m.media-amazon.com/images/I/31HiRSBSJDL._SL400_.jpg)](https://www.amazon.es/dp/B07VT9LTML/?tag=tolees-21)
 
 🔎:
 

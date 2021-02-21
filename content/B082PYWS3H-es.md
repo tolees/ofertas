@@ -2,7 +2,7 @@
 layout: post
 title: 'Samsung A71 - Carcasa de silicona  color con un 58.90 % de descuento'
 date: 2020-08-20 18:01:10
-image: 'https://m.media-amazon.com/images/I/21ZXEr2Nw7L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21ZXEr2Nw7L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.29'
 
 En este momento está [Samsung A71 - Carcasa de silicona  color Negro](https://www.amazon.es/dp/B082PYWS3H/?tag=tolees-21) a 12.29 EUR (original: 29.9 EUR) (58.90 %  de descuento) en el siguiente enlace!
 
-[![Samsung A71 - Carcasa de silicona  color](https://m.media-amazon.com/images/I/21ZXEr2Nw7L._SL200_.jpg)](https://www.amazon.es/dp/B082PYWS3H/?tag=tolees-21)
+[![Samsung A71 - Carcasa de silicona  color](https://m.media-amazon.com/images/I/21ZXEr2Nw7L._SL400_.jpg)](https://www.amazon.es/dp/B082PYWS3H/?tag=tolees-21)
 
 🔎:
 

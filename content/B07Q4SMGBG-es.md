@@ -2,7 +2,7 @@
 layout: post
 title: 'Aceite Esencial Puros，Ato Bea 6 * 10ml 1 al 35.02 % de rebaja'
 date: 2020-07-29 08:46:35
-image: 'https://m.media-amazon.com/images/I/51YEW7n+v3L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51YEW7n+v3L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.99'
 
 Tienes [Aceite Esencial Puros，Ato Bea 6 * 10ml 100% Aceites Esenciales Naturales Lavanda  Hierba de Limón  Menta  Eucalipto  Árbol de té  Naranja Dulceaceites Esenciales Para Humidificador](https://www.amazon.es/dp/B07Q4SMGBG/?tag=tolees-21) con precio final de  12.99 EUR (original: 19.99 EUR) (35.02 %  de rebaja) aqui!
 
-[![Aceite Esencial Puros，Ato Bea 6 * 10ml 1](https://m.media-amazon.com/images/I/51YEW7n+v3L._SL200_.jpg)](https://www.amazon.es/dp/B07Q4SMGBG/?tag=tolees-21)
+[![Aceite Esencial Puros，Ato Bea 6 * 10ml 1](https://m.media-amazon.com/images/I/51YEW7n+v3L._SL400_.jpg)](https://www.amazon.es/dp/B07Q4SMGBG/?tag=tolees-21)
 
 🔎:
 

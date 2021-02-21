@@ -2,7 +2,7 @@
 layout: post
 title: 'JVC HA-SR185-W-E - Auriculares de diadem al 32.05 % de descuento'
 date: 2020-03-10 07:02:37
-image: 'https://m.media-amazon.com/images/I/31x1pkF7g1L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31x1pkF7g1L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.440000000000001'
 
 Ahora mismo tienes [JVC HA-SR185-W-E - Auriculares de diadema  con controlador de llamada ](https://www.amazon.es/dp/B00OG0ORR2/?tag=tolees-21) a 16.98 EUR (original: 24.99 EUR) (32.05 %  de descuento) en el siguiente enlace!
 
-[![JVC HA-SR185-W-E - Auriculares de diadem](https://m.media-amazon.com/images/I/31x1pkF7g1L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B00OG0ORR2/?tag=tolees-21)
+[![JVC HA-SR185-W-E - Auriculares de diadem](https://m.media-amazon.com/images/I/31x1pkF7g1L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B00OG0ORR2/?tag=tolees-21)
 
 🔎:
 

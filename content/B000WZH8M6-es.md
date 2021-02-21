@@ -2,7 +2,7 @@
 layout: post
 title: 'Clinique -Mild With Dish Jabón Facial  1 al 38.89 % de descuento'
 date: 2020-08-28 08:36:00
-image: 'https://m.media-amazon.com/images/I/31sEkX4BVQL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31sEkX4BVQL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.483333333333333'
 
 Está [Clinique -Mild With Dish Jabón Facial  100 g](https://www.amazon.es/dp/B000WZH8M6/?tag=tolees-21) con 38.89 de descuento por 13.75 EUR (original: 22.5 EUR) en el siguiente enlace!
 
-[![Clinique -Mild With Dish Jabón Facial  1](https://m.media-amazon.com/images/I/31sEkX4BVQL._SL200_.jpg)](https://www.amazon.es/dp/B000WZH8M6/?tag=tolees-21)
+[![Clinique -Mild With Dish Jabón Facial  1](https://m.media-amazon.com/images/I/31sEkX4BVQL._SL400_.jpg)](https://www.amazon.es/dp/B000WZH8M6/?tag=tolees-21)
 
 ℹ️:
 

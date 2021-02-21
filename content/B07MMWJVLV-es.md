@@ -2,7 +2,7 @@
 layout: post
 title: 'Wrangler High Rise Skinny Jeans  Azul  B al 84.39 % de descuento'
 date: 2020-04-27 19:29:21
-image: 'https://m.media-amazon.com/images/I/31LPifAIO6L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31LPifAIO6L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.100000000000001'
 
 Ahora mismo tienes [Wrangler High Rise Skinny Jeans  Azul  Blue Black 51l   26W / 32L para Mujer](https://www.amazon.es/dp/B07MMWJVLV/?tag=tolees-21) a 12.48 EUR (original: 79.95 EUR) (84.39 %  de descuento) en el siguiente enlace!
 
-[![Wrangler High Rise Skinny Jeans  Azul  B](https://m.media-amazon.com/images/I/31LPifAIO6L._SL200_.jpg)](https://www.amazon.es/dp/B07MMWJVLV/?tag=tolees-21)
+[![Wrangler High Rise Skinny Jeans  Azul  B](https://m.media-amazon.com/images/I/31LPifAIO6L._SL400_.jpg)](https://www.amazon.es/dp/B07MMWJVLV/?tag=tolees-21)
 
 🔎:
 

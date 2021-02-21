@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger Hombre Slim Bleecker Pstr al 80.29 % de descuento'
 date: 2020-09-12 11:34:24
-image: 'https://m.media-amazon.com/images/I/41hUYa4DHkL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41hUYa4DHkL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.74'
 
 Está [Tommy Hilfiger Hombre Slim Bleecker Pstr Crane Blue Loose Fit Jeans  Azul  Crane Blue   W31/L34](https://www.amazon.es/dp/B07W91TVHK/?tag=tolees-21) con 80.29 de descuento por 23.74 EUR (original: 120.47 EUR) en el siguiente enlace!
 
-[![Tommy Hilfiger Hombre Slim Bleecker Pstr](https://m.media-amazon.com/images/I/41hUYa4DHkL._SL200_.jpg)](https://www.amazon.es/dp/B07W91TVHK/?tag=tolees-21)
+[![Tommy Hilfiger Hombre Slim Bleecker Pstr](https://m.media-amazon.com/images/I/41hUYa4DHkL._SL400_.jpg)](https://www.amazon.es/dp/B07W91TVHK/?tag=tolees-21)
 
 ℹ️:
 

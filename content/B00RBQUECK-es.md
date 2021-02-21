@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 39.22 % en Biotherm Sun Crème Solaire Fondante Anti'
 date: 2020-06-13 15:29:27
-image: 'https://m.media-amazon.com/images/I/4188oWzPdzL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/4188oWzPdzL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.5'
 
 Tienes [Biotherm Sun Crème Solaire Fondante Anti Age Visage SPF50 Protector Solar - 50 ml](https://www.amazon.es/dp/B00RBQUECK/?tag=tolees-21) con un 39.22 % de descuento con precio de oferta de 15.5 EUR (original: 25.5 EUR) en el siguiente enlace!
 
-[![Biotherm Sun Crème Solaire Fondante Anti](https://m.media-amazon.com/images/I/4188oWzPdzL._SL200_.jpg)](https://www.amazon.es/dp/B00RBQUECK/?tag=tolees-21)
+[![Biotherm Sun Crème Solaire Fondante Anti](https://m.media-amazon.com/images/I/4188oWzPdzL._SL400_.jpg)](https://www.amazon.es/dp/B00RBQUECK/?tag=tolees-21)
 
 ℹ️:
 

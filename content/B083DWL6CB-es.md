@@ -2,7 +2,7 @@
 layout: post
 title: 'Caja para pilas ignífuga  bolsa de trans al 43.47 % de descuento'
 date: 2020-07-18 12:44:13
-image: 'https://m.media-amazon.com/images/I/61umSBgAIZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61umSBgAIZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '33.980000000000004'
 
 Está [Caja para pilas ignífuga  bolsa de transporte con probador  mantiene 216 pilas de diferentes tamaños para AAA  AA  9 V  C y D  tamaño y comprobador  sin pilas ](https://www.amazon.es/dp/B083DWL6CB/?tag=tolees-21) con 43.47 de descuento por 33.9 EUR (original: 59.97 EUR) en el siguiente enlace!
 
-[![Caja para pilas ignífuga  bolsa de trans](https://m.media-amazon.com/images/I/61umSBgAIZL._SL200_.jpg)](https://www.amazon.es/dp/B083DWL6CB/?tag=tolees-21)
+[![Caja para pilas ignífuga  bolsa de trans](https://m.media-amazon.com/images/I/61umSBgAIZL._SL400_.jpg)](https://www.amazon.es/dp/B083DWL6CB/?tag=tolees-21)
 
 ℹ️:
 

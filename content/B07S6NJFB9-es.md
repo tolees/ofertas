@@ -2,7 +2,7 @@
 layout: post
 title: 'PUMA NRGY Neko Knit  Zapatillas de Runni al 43.84 % de rebaja'
 date: 2020-05-31 06:26:07
-image: 'https://m.media-amazon.com/images/I/41rZ9OFgPEL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41rZ9OFgPEL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '42.09'
 
 Tienes [PUMA NRGY Neko Knit  Zapatillas de Running para Hombre  Azul  Dark Denim/Castlerock   46 EU](https://www.amazon.es/dp/B07S6NJFB9/?tag=tolees-21) con precio final de  42.09 EUR (original: 74.95 EUR) (43.84 %  de rebaja) aqui!
 
-[![PUMA NRGY Neko Knit  Zapatillas de Runni](https://m.media-amazon.com/images/I/41rZ9OFgPEL._SL200_.jpg)](https://www.amazon.es/dp/B07S6NJFB9/?tag=tolees-21)
+[![PUMA NRGY Neko Knit  Zapatillas de Runni](https://m.media-amazon.com/images/I/41rZ9OFgPEL._SL400_.jpg)](https://www.amazon.es/dp/B07S6NJFB9/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Trust Gaming GXT 140 Manx - Ratón Gaming al 33.34 % de descuento'
 date: 2020-08-05 20:05:53
-image: 'https://m.media-amazon.com/images/I/41gaJ0C+HcL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41gaJ0C+HcL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.99'
 
 Ahora mismo tienes [Trust Gaming GXT 140 Manx - Ratón Gaming inalámbrico Iluminado con batería Recargable  Negro](https://www.amazon.es/dp/B077PLZGLN/?tag=tolees-21) a 29.99 EUR (original: 44.99 EUR) (33.34 %  de descuento) en el siguiente enlace!
 
-[![Trust Gaming GXT 140 Manx - Ratón Gaming](https://m.media-amazon.com/images/I/41gaJ0C+HcL._SL200_.jpg)](https://www.amazon.es/dp/B077PLZGLN/?tag=tolees-21)
+[![Trust Gaming GXT 140 Manx - Ratón Gaming](https://m.media-amazon.com/images/I/41gaJ0C+HcL._SL400_.jpg)](https://www.amazon.es/dp/B077PLZGLN/?tag=tolees-21)
 
 🔎:
 

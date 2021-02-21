@@ -2,7 +2,7 @@
 layout: post
 title: 'Game Of Thrones Póster  Multicolor  61 x al 83.54 % de descuento'
 date: 2020-05-27 20:02:09
-image: 'https://m.media-amazon.com/images/I/514GpJWisYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/514GpJWisYL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.66'
 
 Ahora mismo tienes [Game Of Thrones Póster  Multicolor  61 x 91.5cm](https://www.amazon.es/dp/B07QLJLVJJ/?tag=tolees-21) a 4.66 EUR (original: 28.31 EUR) (83.54 %  de descuento) en el siguiente enlace!
 
-[![Game Of Thrones Póster  Multicolor  61 x](https://m.media-amazon.com/images/I/514GpJWisYL._SL200_.jpg)](https://www.amazon.es/dp/B07QLJLVJJ/?tag=tolees-21)
+[![Game Of Thrones Póster  Multicolor  61 x](https://m.media-amazon.com/images/I/514GpJWisYL._SL400_.jpg)](https://www.amazon.es/dp/B07QLJLVJJ/?tag=tolees-21)
 
 🔎:
 

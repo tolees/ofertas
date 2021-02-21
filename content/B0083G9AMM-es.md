@@ -2,7 +2,7 @@
 layout: post
 title: 'MOTOGP MESSENGER BOLSA CASCO: MOTOGP al 33.21 % de rebaja'
 date: 2020-05-22 23:31:04
-image: 'https://m.media-amazon.com/images/I/510inFVLkvL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/510inFVLkvL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.69'
 
 Tienes [MOTOGP MESSENGER BOLSA CASCO: MOTOGP](https://www.amazon.es/dp/B0083G9AMM/?tag=tolees-21) con precio final de  16.69 EUR (original: 24.99 EUR) (33.21 %  de rebaja) aqui!
 
-[![MOTOGP MESSENGER BOLSA CASCO: MOTOGP](https://m.media-amazon.com/images/I/510inFVLkvL._SL200_.jpg)](https://www.amazon.es/dp/B0083G9AMM/?tag=tolees-21)
+[![MOTOGP MESSENGER BOLSA CASCO: MOTOGP](https://m.media-amazon.com/images/I/510inFVLkvL._SL400_.jpg)](https://www.amazon.es/dp/B0083G9AMM/?tag=tolees-21)
 
 🔎:
 

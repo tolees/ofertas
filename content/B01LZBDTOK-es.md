@@ -2,7 +2,7 @@
 layout: post
 title: 'MyCat Arena para Gatos - 5 Kg al 27.01 % de descuento'
 date: 2020-06-01 11:51:59
-image: 'https://m.media-amazon.com/images/I/410z4zuO09L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/410z4zuO09L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.21'
 
 Está [MyCat Arena para Gatos - 5 Kg](https://www.amazon.es/dp/B01LZBDTOK/?tag=tolees-21) con 27.01 de descuento por 1.0 EUR (original: 1.37 EUR) en el siguiente enlace!
 
-[![MyCat Arena para Gatos - 5 Kg](https://m.media-amazon.com/images/I/410z4zuO09L._SL200_.jpg)](https://www.amazon.es/dp/B01LZBDTOK/?tag=tolees-21)
+[![MyCat Arena para Gatos - 5 Kg](https://m.media-amazon.com/images/I/410z4zuO09L._SL400_.jpg)](https://www.amazon.es/dp/B01LZBDTOK/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'CMP Ahto  Náuticos Unisex Niños  Gris  A al 75.77 % de descuento'
 date: 2020-03-12 19:57:40
-image: 'https://m.media-amazon.com/images/I/413Nzwx8GgL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/413Nzwx8GgL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.68'
 
 Ahora mismo tienes [CMP Ahto  Náuticos Unisex Niños  Gris  Antracite U423   25 EU](https://www.amazon.es/dp/B07BWWPYPP/?tag=tolees-21) a 9.68 EUR (original: 39.95 EUR) (75.77 %  de descuento) en el siguiente enlace!
 
-[![CMP Ahto  Náuticos Unisex Niños  Gris  A](https://m.media-amazon.com/images/I/413Nzwx8GgL._SL200_.jpg)](https://www.amazon.es/dp/B07BWWPYPP/?tag=tolees-21)
+[![CMP Ahto  Náuticos Unisex Niños  Gris  A](https://m.media-amazon.com/images/I/413Nzwx8GgL._SL400_.jpg)](https://www.amazon.es/dp/B07BWWPYPP/?tag=tolees-21)
 
 🔎:
 

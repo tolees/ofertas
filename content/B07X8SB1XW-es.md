@@ -2,7 +2,7 @@
 layout: post
 title: 'UCMDA Funda para Huawei Mate 30 Lite con al 73.75 % de descuento'
 date: 2020-03-10 17:32:52
-image: 'https://m.media-amazon.com/images/I/41injgfW2oL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41injgfW2oL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.99'
 
 Está [UCMDA Funda para Huawei Mate 30 Lite con Protector de Pantalla  Fundas Transparente Suave TPU Carcasa para Huawei Mate 30 Lite con Cristal Templado](https://www.amazon.es/dp/B07X8SB1XW/?tag=tolees-21) con 73.75 de descuento por 6.99 EUR (original: 26.63 EUR) en el siguiente enlace!
 
-[![UCMDA Funda para Huawei Mate 30 Lite con](https://m.media-amazon.com/images/I/41injgfW2oL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07X8SB1XW/?tag=tolees-21)
+[![UCMDA Funda para Huawei Mate 30 Lite con](https://m.media-amazon.com/images/I/41injgfW2oL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07X8SB1XW/?tag=tolees-21)
 
 ℹ️:
 

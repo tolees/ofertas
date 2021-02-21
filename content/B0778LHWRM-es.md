@@ -2,7 +2,7 @@
 layout: post
 title: 'WAVLINK Tipo-A USB 3.0 a 4 Puertos de US con un 25.02 % de descuento'
 date: 2020-07-08 13:49:18
-image: 'https://m.media-amazon.com/images/I/51SnKj4pulL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51SnKj4pulL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.99'
 
 En este momento está [WAVLINK Tipo-A USB 3.0 a 4 Puertos de USB 3.0 Hub Alta Velocidad Soporta Hot Swapping Diseño de Aluminio  Azul ](https://www.amazon.es/dp/B0778LHWRM/?tag=tolees-21) a 11.99 EUR (original: 15.99 EUR) (25.02 %  de descuento) en el siguiente enlace!
 
-[![WAVLINK Tipo-A USB 3.0 a 4 Puertos de US](https://m.media-amazon.com/images/I/51SnKj4pulL._SL200_.jpg)](https://www.amazon.es/dp/B0778LHWRM/?tag=tolees-21)
+[![WAVLINK Tipo-A USB 3.0 a 4 Puertos de US](https://m.media-amazon.com/images/I/51SnKj4pulL._SL400_.jpg)](https://www.amazon.es/dp/B0778LHWRM/?tag=tolees-21)
 
 🔎:
 

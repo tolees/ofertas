@@ -2,7 +2,7 @@
 layout: post
 title: 'Superdry Classic Superstate S/s Polo  Gr al 47.88 % de rebaja'
 date: 2020-07-22 21:56:40
-image: 'https://m.media-amazon.com/images/I/41jw3fATCkL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41jw3fATCkL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.32'
 
 Tienes [Superdry Classic Superstate S/s Polo  Gris  Flint Grey Grit Xje   L para Hombre](https://www.amazon.es/dp/B07TJGJ944/?tag=tolees-21) con precio final de  28.66 EUR (original: 54.99 EUR) (47.88 %  de rebaja) aqui!
 
-[![Superdry Classic Superstate S/s Polo  Gr](https://m.media-amazon.com/images/I/41jw3fATCkL._SL200_.jpg)](https://www.amazon.es/dp/B07TJGJ944/?tag=tolees-21)
+[![Superdry Classic Superstate S/s Polo  Gr](https://m.media-amazon.com/images/I/41jw3fATCkL._SL400_.jpg)](https://www.amazon.es/dp/B07TJGJ944/?tag=tolees-21)
 
 🔎:
 

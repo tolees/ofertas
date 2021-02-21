@@ -2,7 +2,7 @@
 layout: post
 title: 'BOSS Prime Polo  Rojo  Bright Red 622    al 44.25 % de descuento'
 date: 2020-02-19 17:55:56
-image: 'https://m.media-amazon.com/images/I/31jjMXE3v-L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31jjMXE3v-L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '33.585'
 
 Está [BOSS Prime Polo  Rojo  Bright Red 622   Medium para Hombre](https://www.amazon.es/dp/B07N96L6GL/?tag=tolees-21) con 44.25 de descuento por 39.0 EUR (original: 69.95 EUR) en el siguiente enlace!
 
-[![BOSS Prime Polo  Rojo  Bright Red 622   ](https://m.media-amazon.com/images/I/31jjMXE3v-L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07N96L6GL/?tag=tolees-21)
+[![BOSS Prime Polo  Rojo  Bright Red 622   ](https://m.media-amazon.com/images/I/31jjMXE3v-L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07N96L6GL/?tag=tolees-21)
 
 ℹ️:
 

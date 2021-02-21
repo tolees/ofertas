@@ -2,7 +2,7 @@
 layout: post
 title: 'Lacoste Ziane BL 1 CFA  Zapatillas para  al 65.65 % de descuento'
 date: 2020-05-06 20:12:52
-image: 'https://m.media-amazon.com/images/I/319qzq6OI9L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/319qzq6OI9L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '31.58'
 
 Está [Lacoste Ziane BL 1 CFA  Zapatillas para Mujer  Azul  Navy   36 EU](https://www.amazon.es/dp/B07DHYTQV1/?tag=tolees-21) con 65.65 de descuento por 27.14 EUR (original: 79.0 EUR) en el siguiente enlace!
 
-[![Lacoste Ziane BL 1 CFA  Zapatillas para ](https://m.media-amazon.com/images/I/319qzq6OI9L._SL200_.jpg)](https://www.amazon.es/dp/B07DHYTQV1/?tag=tolees-21)
+[![Lacoste Ziane BL 1 CFA  Zapatillas para ](https://m.media-amazon.com/images/I/319qzq6OI9L._SL400_.jpg)](https://www.amazon.es/dp/B07DHYTQV1/?tag=tolees-21)
 
 ℹ️:
 

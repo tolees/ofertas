@@ -2,7 +2,7 @@
 layout: post
 title: 'Columbia Five Forks Mid  Botas de Sender al 65.80 % de rebaja'
 date: 2020-04-03 09:19:05
-image: 'https://m.media-amazon.com/images/I/41RaCl-nabL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41RaCl-nabL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '41.04'
 
 Tienes [Columbia Five Forks Mid  Botas de Senderismo Impermeables para Hombre  Gris  Dark Grey  Flam 089   45 EU](https://www.amazon.es/dp/B07JHW99LT/?tag=tolees-21) con precio final de  41.04 EUR (original: 119.99 EUR) (65.80 %  de rebaja) aqui!
 
-[![Columbia Five Forks Mid  Botas de Sender](https://m.media-amazon.com/images/I/41RaCl-nabL._SL200_.jpg)](https://www.amazon.es/dp/B07JHW99LT/?tag=tolees-21)
+[![Columbia Five Forks Mid  Botas de Sender](https://m.media-amazon.com/images/I/41RaCl-nabL._SL400_.jpg)](https://www.amazon.es/dp/B07JHW99LT/?tag=tolees-21)
 
 🔎:
 

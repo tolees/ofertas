@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas Entrada 18 JSY T-Shirt  Hombre  B al 29.30 % de rebaja'
 date: 2020-06-02 07:35:34
-image: 'https://m.media-amazon.com/images/I/41DaTydCbeL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41DaTydCbeL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.77'
 
 Tienes [adidas Entrada 18 JSY T-Shirt  Hombre  Bold Blue/White  2XL](https://www.amazon.es/dp/B0779DFRFG/?tag=tolees-21) con precio final de  7.77 EUR (original: 10.99 EUR) (29.30 %  de rebaja) aqui!
 
-[![adidas Entrada 18 JSY T-Shirt  Hombre  B](https://m.media-amazon.com/images/I/41DaTydCbeL._SL200_.jpg)](https://www.amazon.es/dp/B0779DFRFG/?tag=tolees-21)
+[![adidas Entrada 18 JSY T-Shirt  Hombre  B](https://m.media-amazon.com/images/I/41DaTydCbeL._SL400_.jpg)](https://www.amazon.es/dp/B0779DFRFG/?tag=tolees-21)
 
 🔎:
 

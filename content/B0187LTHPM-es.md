@@ -2,7 +2,7 @@
 layout: post
 title: 'Ksix BXSW01 - SmartWatch  1.44"  TFT  Bl al 42.58 % de descuento'
 date: 2020-09-21 16:44:07
-image: 'https://m.media-amazon.com/images/I/41oZ0AYI45L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41oZ0AYI45L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.768'
 
 Ahora mismo tienes [Ksix BXSW01 - SmartWatch  1.44"  TFT  Bluetooth   color negro](https://www.amazon.es/dp/B0187LTHPM/?tag=tolees-21) a 22.91 EUR (original: 39.9 EUR) (42.58 %  de descuento) en el siguiente enlace!
 
-[![Ksix BXSW01 - SmartWatch  1.44"  TFT  Bl](https://m.media-amazon.com/images/I/41oZ0AYI45L._SL200_.jpg)](https://www.amazon.es/dp/B0187LTHPM/?tag=tolees-21)
+[![Ksix BXSW01 - SmartWatch  1.44"  TFT  Bl](https://m.media-amazon.com/images/I/41oZ0AYI45L._SL400_.jpg)](https://www.amazon.es/dp/B0187LTHPM/?tag=tolees-21)
 
 🔎:
 

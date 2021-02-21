@@ -2,7 +2,7 @@
 layout: post
 title: 'Bourjois City Radiance Base de Maquillaj al 43.10 % de rebaja'
 date: 2020-01-11 23:10:12
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31G6wf31cUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31G6wf31cUL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.8'
 
 Tienes [Bourjois City Radiance Base de Maquillaje Tono 03 Light Beige  - 51 gr.](https://www.amazon.es/dp/B01CLMHDK4/?tag=tolees-21) con precio final de  6.8 EUR (original: 11.95 EUR) (43.10 %  de rebaja) aqui!
 
-[![Bourjois City Radiance Base de Maquillaj](https://images-eu.ssl-images-amazon.com/images/I/31G6wf31cUL._SL200_.jpg)](https://www.amazon.es/dp/B01CLMHDK4/?tag=tolees-21)
+[![Bourjois City Radiance Base de Maquillaj](https://images-eu.ssl-images-amazon.com/images/I/31G6wf31cUL._SL400_.jpg)](https://www.amazon.es/dp/B01CLMHDK4/?tag=tolees-21)
 
 🔎:
 

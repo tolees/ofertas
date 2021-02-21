@@ -2,7 +2,7 @@
 layout: post
 title: 'ABUS 55971 Antirrobo Disco Moto  Rojo  M con un 37.13 % de descuento'
 date: 2020-07-01 08:18:21
-image: 'https://m.media-amazon.com/images/I/41r6hNcUGRL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41r6hNcUGRL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.99'
 
 En este momento está [ABUS 55971 Antirrobo Disco Moto  Rojo  Medium](https://www.amazon.es/dp/B008ZEKQWA/?tag=tolees-21) a 24.99 EUR (original: 39.75 EUR) (37.13 %  de descuento) en el siguiente enlace!
 
-[![ABUS 55971 Antirrobo Disco Moto  Rojo  M](https://m.media-amazon.com/images/I/41r6hNcUGRL._SL200_.jpg)](https://www.amazon.es/dp/B008ZEKQWA/?tag=tolees-21)
+[![ABUS 55971 Antirrobo Disco Moto  Rojo  M](https://m.media-amazon.com/images/I/41r6hNcUGRL._SL400_.jpg)](https://www.amazon.es/dp/B008ZEKQWA/?tag=tolees-21)
 
 🔎:
 

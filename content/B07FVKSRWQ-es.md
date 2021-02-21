@@ -2,7 +2,7 @@
 layout: post
 title: 'Lotus Reloj para de Cuarzo con Correa en al 43.75 % de descuento'
 date: 2020-09-21 21:14:29
-image: 'https://m.media-amazon.com/images/I/51k9OY4KOqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51k9OY4KOqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '90.27666666666666'
 
 Ahora mismo tienes [Lotus Reloj para de Cuarzo con Correa en Acero Inoxidable 18620/1](https://www.amazon.es/dp/B07FVKSRWQ/?tag=tolees-21) a 78.19 EUR (original: 139.0 EUR) (43.75 %  de descuento) en el siguiente enlace!
 
-[![Lotus Reloj para de Cuarzo con Correa en](https://m.media-amazon.com/images/I/51k9OY4KOqL._SL200_.jpg)](https://www.amazon.es/dp/B07FVKSRWQ/?tag=tolees-21)
+[![Lotus Reloj para de Cuarzo con Correa en](https://m.media-amazon.com/images/I/51k9OY4KOqL._SL400_.jpg)](https://www.amazon.es/dp/B07FVKSRWQ/?tag=tolees-21)
 
 🔎:
 

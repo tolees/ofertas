@@ -2,7 +2,7 @@
 layout: post
 title: 'Apple Funda Smart Cover  para el iPad  - al 32.02 % de descuento'
 date: 2020-09-10 21:33:21
-image: 'https://m.media-amazon.com/images/I/31XiBak6UzL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31XiBak6UzL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '33.765'
 
 Está [Apple Funda Smart Cover  para el iPad  - Gris carbón](https://www.amazon.es/dp/B06XS7G71Y/?tag=tolees-21) con 32.02 de descuento por 30.59 EUR (original: 45.0 EUR) en el siguiente enlace!
 
-[![Apple Funda Smart Cover  para el iPad  -](https://m.media-amazon.com/images/I/31XiBak6UzL._SL200_.jpg)](https://www.amazon.es/dp/B06XS7G71Y/?tag=tolees-21)
+[![Apple Funda Smart Cover  para el iPad  -](https://m.media-amazon.com/images/I/31XiBak6UzL._SL400_.jpg)](https://www.amazon.es/dp/B06XS7G71Y/?tag=tolees-21)
 
 ℹ️:
 

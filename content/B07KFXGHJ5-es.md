@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 62.75 % en PUMA ST Activate Jr  Zapatillas Unisex N'
 date: 2020-01-18 14:12:43
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41zP3car4uL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41zP3car4uL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.88'
 
 Tienes [PUMA ST Activate Jr  Zapatillas Unisex Niños  Calypso Coral White  37 EU](https://www.amazon.es/dp/B07KFXGHJ5/?tag=tolees-21) con un 62.75 % de descuento con precio de oferta de 14.88 EUR (original: 39.95 EUR) en el siguiente enlace!
 
-[![PUMA ST Activate Jr  Zapatillas Unisex N](https://images-eu.ssl-images-amazon.com/images/I/41zP3car4uL._SL200_.jpg)](https://www.amazon.es/dp/B07KFXGHJ5/?tag=tolees-21)
+[![PUMA ST Activate Jr  Zapatillas Unisex N](https://images-eu.ssl-images-amazon.com/images/I/41zP3car4uL._SL400_.jpg)](https://www.amazon.es/dp/B07KFXGHJ5/?tag=tolees-21)
 
 ℹ️:
 

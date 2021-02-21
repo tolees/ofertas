@@ -2,7 +2,7 @@
 layout: post
 title: 'Pepe Jeans Sloane Pantalones   Beige 844 con un 54.31 % de descuento'
 date: 2020-09-20 11:39:52
-image: 'https://m.media-amazon.com/images/I/31VCtNOlcfL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31VCtNOlcfL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '25.836000000000002'
 
 En este momento está [Pepe Jeans Sloane Pantalones   Beige 844   W28/L32 para Hombre](https://www.amazon.es/dp/B07MZQ47Z3/?tag=tolees-21) a 29.7 EUR (original: 65.0 EUR) (54.31 %  de descuento) en el siguiente enlace!
 
-[![Pepe Jeans Sloane Pantalones   Beige 844](https://m.media-amazon.com/images/I/31VCtNOlcfL._SL200_.jpg)](https://www.amazon.es/dp/B07MZQ47Z3/?tag=tolees-21)
+[![Pepe Jeans Sloane Pantalones   Beige 844](https://m.media-amazon.com/images/I/31VCtNOlcfL._SL400_.jpg)](https://www.amazon.es/dp/B07MZQ47Z3/?tag=tolees-21)
 
 🔎:
 

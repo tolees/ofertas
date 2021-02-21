@@ -2,7 +2,7 @@
 layout: post
 title: 'Adidas Lite Racer Inf  Zapatillas de Est al 50.02 % de rebaja'
 date: 2020-01-29 13:48:05
-image: 'https://m.media-amazon.com/images/I/41hIIOn0QhL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41hIIOn0QhL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.97'
 
 Tienes [Adidas Lite Racer Inf  Zapatillas de Estar por casa Bebé Unisex  Azul  Azuosc/Ftwbla/Negbás 000   21 EU](https://www.amazon.es/dp/B07GRHR9JW/?tag=tolees-21) con precio final de  14.97 EUR (original: 29.95 EUR) (50.02 %  de rebaja) aqui!
 
-[![Adidas Lite Racer Inf  Zapatillas de Est](https://m.media-amazon.com/images/I/41hIIOn0QhL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07GRHR9JW/?tag=tolees-21)
+[![Adidas Lite Racer Inf  Zapatillas de Est](https://m.media-amazon.com/images/I/41hIIOn0QhL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07GRHR9JW/?tag=tolees-21)
 
 🔎:
 

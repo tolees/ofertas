@@ -2,7 +2,7 @@
 layout: post
 title: 'Targus TSS865EU City Gear - Maletín para al 40.03 % de rebaja'
 date: 2020-01-13 00:09:57
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41eNq0fuZtL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41eNq0fuZtL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.99'
 
 Tienes [Targus TSS865EU City Gear - Maletín para portátiles y tabletas de 10" a 11.6"  color negro](https://www.amazon.es/dp/B012VKX9K4/?tag=tolees-21) con precio final de  17.99 EUR (original: 30 EUR) (40.03 %  de rebaja) aqui!
 
-[![Targus TSS865EU City Gear - Maletín para](https://images-eu.ssl-images-amazon.com/images/I/41eNq0fuZtL._SL200_.jpg)](https://www.amazon.es/dp/B012VKX9K4/?tag=tolees-21)
+[![Targus TSS865EU City Gear - Maletín para](https://images-eu.ssl-images-amazon.com/images/I/41eNq0fuZtL._SL400_.jpg)](https://www.amazon.es/dp/B012VKX9K4/?tag=tolees-21)
 
 🔎:
 

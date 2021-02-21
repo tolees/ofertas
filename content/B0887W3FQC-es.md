@@ -2,7 +2,7 @@
 layout: post
 title: 'LNIEGE Por Rod del Carril de Soporte zóc con un 31.58 % de descuento'
 date: 2020-10-03 16:33:18
-image: 'https://m.media-amazon.com/images/I/31FfdqJqn6L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31FfdqJqn6L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.72'
 
 En este momento está [LNIEGE Por Rod del Carril de Soporte zócalo 2pcs Montaje de Techo Armario de Tubo Soporte](https://www.amazon.es/dp/B0887W3FQC/?tag=tolees-21) a 5.72 EUR (original: 8.36 EUR) (31.58 %  de descuento) en el siguiente enlace!
 
-[![LNIEGE Por Rod del Carril de Soporte zóc](https://m.media-amazon.com/images/I/31FfdqJqn6L._SL200_.jpg)](https://www.amazon.es/dp/B0887W3FQC/?tag=tolees-21)
+[![LNIEGE Por Rod del Carril de Soporte zóc](https://m.media-amazon.com/images/I/31FfdqJqn6L._SL400_.jpg)](https://www.amazon.es/dp/B0887W3FQC/?tag=tolees-21)
 
 🔎:
 

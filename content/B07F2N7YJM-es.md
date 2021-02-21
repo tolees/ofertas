@@ -2,7 +2,7 @@
 layout: post
 title: 'Amazon Essentials - Pantalones deportivo al 42.90 % de descuento'
 date: 2020-05-17 08:58:47
-image: 'https://m.media-amazon.com/images/I/31ylWHAP43L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31ylWHAP43L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.27'
 
 Ahora mismo tienes [Amazon Essentials - Pantalones deportivos ajustados para hombre  Gris oscuro  US M  EU M ](https://www.amazon.es/dp/B07F2N7YJM/?tag=tolees-21) a 12.27 EUR (original: 21.49 EUR) (42.90 %  de descuento) en el siguiente enlace!
 
-[![Amazon Essentials - Pantalones deportivo](https://m.media-amazon.com/images/I/31ylWHAP43L._SL200_.jpg)](https://www.amazon.es/dp/B07F2N7YJM/?tag=tolees-21)
+[![Amazon Essentials - Pantalones deportivo](https://m.media-amazon.com/images/I/31ylWHAP43L._SL400_.jpg)](https://www.amazon.es/dp/B07F2N7YJM/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 30.01 % en Máscara de calavera sangrienta adulto Ha'
 date: 2020-02-17 10:47:15
-image: 'https://m.media-amazon.com/images/I/51WA9tnN1+L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51WA9tnN1+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '42.84'
 
 Tienes [Máscara de calavera sangrienta adulto Halloweeen](https://www.amazon.es/dp/B00FQBXKLY/?tag=tolees-21) con un 30.01 % de descuento con precio de oferta de 30.09 EUR (original: 42.99 EUR) en el siguiente enlace!
 
-[![Máscara de calavera sangrienta adulto Ha](https://m.media-amazon.com/images/I/51WA9tnN1+L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B00FQBXKLY/?tag=tolees-21)
+[![Máscara de calavera sangrienta adulto Ha](https://m.media-amazon.com/images/I/51WA9tnN1+L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B00FQBXKLY/?tag=tolees-21)
 
 ℹ️:
 

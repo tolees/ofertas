@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 92.57 % en HP Q7582A - Cartucho de tóner'
 date: 2020-02-23 01:35:30
-image: 'https://m.media-amazon.com/images/I/418hhPQgePL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/418hhPQgePL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.03'
 
 Tienes [HP Q7582A - Cartucho de tóner](https://www.amazon.es/dp/B000BN0TTI/?tag=tolees-21) con un 92.57 % de descuento con precio de oferta de 19.99 EUR (original: 268.9 EUR) en el siguiente enlace!
 
-[![HP Q7582A - Cartucho de tóner](https://m.media-amazon.com/images/I/418hhPQgePL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B000BN0TTI/?tag=tolees-21)
+[![HP Q7582A - Cartucho de tóner](https://m.media-amazon.com/images/I/418hhPQgePL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B000BN0TTI/?tag=tolees-21)
 
 ℹ️:
 

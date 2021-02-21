@@ -2,7 +2,7 @@
 layout: post
 title: 'Funko Little Shop of Horrors - Figura de al 39.87 % de descuento'
 date: 2020-06-11 05:04:08
-image: 'https://m.media-amazon.com/images/I/41uWtbWDAUL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41uWtbWDAUL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.093333333333333'
 
 Ahora mismo tienes [Funko Little Shop of Horrors - Figura de Vinilo Orin Scivello D.D.S.](https://www.amazon.es/dp/B07DFDYSQQ/?tag=tolees-21) a 9.59 EUR (original: 15.95 EUR) (39.87 %  de descuento) en el siguiente enlace!
 
-[![Funko Little Shop of Horrors - Figura de](https://m.media-amazon.com/images/I/41uWtbWDAUL._SL200_.jpg)](https://www.amazon.es/dp/B07DFDYSQQ/?tag=tolees-21)
+[![Funko Little Shop of Horrors - Figura de](https://m.media-amazon.com/images/I/41uWtbWDAUL._SL400_.jpg)](https://www.amazon.es/dp/B07DFDYSQQ/?tag=tolees-21)
 
 🔎:
 

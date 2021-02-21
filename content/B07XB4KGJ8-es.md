@@ -2,7 +2,7 @@
 layout: post
 title: 'FENICAL Gorro quirúrgico Ajustable Perro con un 29.32 % de descuento'
 date: 2020-05-07 10:29:28
-image: 'https://m.media-amazon.com/images/I/41T4piOkKHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41T4piOkKHL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.57'
 
 En este momento está [FENICAL Gorro quirúrgico Ajustable Perro Impreso médico Enfermera Bouffant Sombrero Gorro de cirugía Absorbente de Sudor](https://www.amazon.es/dp/B07XB4KGJ8/?tag=tolees-21) a 6.99 EUR (original: 9.89 EUR) (29.32 %  de descuento) en el siguiente enlace!
 
-[![FENICAL Gorro quirúrgico Ajustable Perro](https://m.media-amazon.com/images/I/41T4piOkKHL._SL200_.jpg)](https://www.amazon.es/dp/B07XB4KGJ8/?tag=tolees-21)
+[![FENICAL Gorro quirúrgico Ajustable Perro](https://m.media-amazon.com/images/I/41T4piOkKHL._SL400_.jpg)](https://www.amazon.es/dp/B07XB4KGJ8/?tag=tolees-21)
 
 🔎:
 

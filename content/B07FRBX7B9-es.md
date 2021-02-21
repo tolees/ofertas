@@ -2,7 +2,7 @@
 layout: post
 title: 'Clarks Triactive Up  Zapatillas para Hom al 49.66 % de rebaja'
 date: 2020-02-08 10:52:49
-image: 'https://m.media-amazon.com/images/I/41rVCkFoubL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41rVCkFoubL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '52.075'
 
 Tienes [Clarks Triactive Up  Zapatillas para Hombre  Verde  Olive Combination-   44.5 EU](https://www.amazon.es/dp/B07FRBX7B9/?tag=tolees-21) con precio final de  60.41 EUR (original: 120.0 EUR) (49.66 %  de rebaja) aqui!
 
-[![Clarks Triactive Up  Zapatillas para Hom](https://m.media-amazon.com/images/I/41rVCkFoubL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07FRBX7B9/?tag=tolees-21)
+[![Clarks Triactive Up  Zapatillas para Hom](https://m.media-amazon.com/images/I/41rVCkFoubL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07FRBX7B9/?tag=tolees-21)
 
 🔎:
 

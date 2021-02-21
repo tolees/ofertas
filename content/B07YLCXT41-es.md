@@ -2,7 +2,7 @@
 layout: post
 title: 'Warriors Orochi 4 Ultimate al 53.09 % de descuento'
 date: 2020-05-11 18:34:28
-image: 'https://m.media-amazon.com/images/I/51ShbGxzG4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51ShbGxzG4L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '34.02071428571429'
 
 Está [Warriors Orochi 4 Ultimate](https://www.amazon.es/dp/B07YLCXT41/?tag=tolees-21) con 53.09 de descuento por 32.83 EUR (original: 69.99 EUR) en el siguiente enlace!
 
-[![Warriors Orochi 4 Ultimate](https://m.media-amazon.com/images/I/51ShbGxzG4L._SL200_.jpg)](https://www.amazon.es/dp/B07YLCXT41/?tag=tolees-21)
+[![Warriors Orochi 4 Ultimate](https://m.media-amazon.com/images/I/51ShbGxzG4L._SL400_.jpg)](https://www.amazon.es/dp/B07YLCXT41/?tag=tolees-21)
 
 ℹ️:
 

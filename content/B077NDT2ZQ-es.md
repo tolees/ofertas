@@ -2,7 +2,7 @@
 layout: post
 title: 'Maybelline New York - Superstay Matte In al 60.86 % de descuento'
 date: 2020-07-18 08:18:56
-image: 'https://m.media-amazon.com/images/I/31zYxc6ydlL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31zYxc6ydlL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.245'
 
 Ahora mismo tienes [Maybelline New York - Superstay Matte Ink  Pintalabios Mate de Larga Duración  Tono 60 Poet](https://www.amazon.es/dp/B077NDT2ZQ/?tag=tolees-21) a 3.91 EUR (original: 9.99 EUR) (60.86 %  de descuento) en el siguiente enlace!
 
-[![Maybelline New York - Superstay Matte In](https://m.media-amazon.com/images/I/31zYxc6ydlL._SL200_.jpg)](https://www.amazon.es/dp/B077NDT2ZQ/?tag=tolees-21)
+[![Maybelline New York - Superstay Matte In](https://m.media-amazon.com/images/I/31zYxc6ydlL._SL400_.jpg)](https://www.amazon.es/dp/B077NDT2ZQ/?tag=tolees-21)
 
 🔎:
 

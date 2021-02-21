@@ -2,7 +2,7 @@
 layout: post
 title: 'Funko Pop!- 889698299138 Atomic Blonde F al 40.03 % de descuento'
 date: 2020-09-28 09:35:36
-image: 'https://m.media-amazon.com/images/I/41i+5USYgQL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41i+5USYgQL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.99'
 
 Ahora mismo tienes [Funko Pop!- 889698299138 Atomic Blonde Figura de vinilo  Multicolor  29913    color/modelo surtido](https://www.amazon.es/dp/B0797MYW7T/?tag=tolees-21) a 8.99 EUR (original: 14.99 EUR) (40.03 %  de descuento) en el siguiente enlace!
 
-[![Funko Pop!- 889698299138 Atomic Blonde F](https://m.media-amazon.com/images/I/41i+5USYgQL._SL200_.jpg)](https://www.amazon.es/dp/B0797MYW7T/?tag=tolees-21)
+[![Funko Pop!- 889698299138 Atomic Blonde F](https://m.media-amazon.com/images/I/41i+5USYgQL._SL400_.jpg)](https://www.amazon.es/dp/B0797MYW7T/?tag=tolees-21)
 
 🔎:
 

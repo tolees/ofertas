@@ -2,7 +2,7 @@
 layout: post
 title: 'Bella Aurora Splendor 10 Crema Facial Hi al 35.09 % de descuento'
 date: 2020-06-25 05:23:47
-image: 'https://m.media-amazon.com/images/I/418QOS3gqlL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/418QOS3gqlL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.73'
 
 Está [Bella Aurora Splendor 10 Crema Facial Hidratante Anti-Edad Mujer Día Tratamiento Anti-Arrugas para la Cara Sin Parabenos  50 ml](https://www.amazon.es/dp/B076MTNJCR/?tag=tolees-21) con 35.09 de descuento por 23.95 EUR (original: 36.9 EUR) en el siguiente enlace!
 
-[![Bella Aurora Splendor 10 Crema Facial Hi](https://m.media-amazon.com/images/I/418QOS3gqlL._SL200_.jpg)](https://www.amazon.es/dp/B076MTNJCR/?tag=tolees-21)
+[![Bella Aurora Splendor 10 Crema Facial Hi](https://m.media-amazon.com/images/I/418QOS3gqlL._SL400_.jpg)](https://www.amazon.es/dp/B076MTNJCR/?tag=tolees-21)
 
 ℹ️:
 

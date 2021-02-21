@@ -2,7 +2,7 @@
 layout: post
 title: 'Calvin Klein - Ck Signature Ep Mini 6cc  con un 59.50 % de descuento'
 date: 2020-06-17 09:31:45
-image: 'https://m.media-amazon.com/images/I/51hOgxEpqTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51hOgxEpqTL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '28.31'
 
 En este momento está [Calvin Klein - Ck Signature Ep Mini 6cc W/Coin  Carteras Hombre  Negro  Blackwhite Black   1x1x1 cm  W x H L ](https://www.amazon.es/dp/B07V8XFR8C/?tag=tolees-21) a 28.31 EUR (original: 69.9 EUR) (59.50 %  de descuento) en el siguiente enlace!
 
-[![Calvin Klein - Ck Signature Ep Mini 6cc ](https://m.media-amazon.com/images/I/51hOgxEpqTL._SL200_.jpg)](https://www.amazon.es/dp/B07V8XFR8C/?tag=tolees-21)
+[![Calvin Klein - Ck Signature Ep Mini 6cc ](https://m.media-amazon.com/images/I/51hOgxEpqTL._SL400_.jpg)](https://www.amazon.es/dp/B07V8XFR8C/?tag=tolees-21)
 
 🔎:
 

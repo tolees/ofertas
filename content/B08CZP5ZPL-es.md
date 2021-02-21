@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 49.85 % en BAITITON MSATA III Disco Duro sólido Int'
 date: 2020-08-15 23:26:04
-image: 'https://m.media-amazon.com/images/I/41dcXBAPdaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41dcXBAPdaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '31.59'
 
 Tienes [BAITITON MSATA III Disco Duro sólido Interno de Estado sólido 256GB SSD](https://www.amazon.es/dp/B08CZP5ZPL/?tag=tolees-21) con un 49.85 % de descuento con precio de oferta de 31.59 EUR (original: 62.99 EUR) en el siguiente enlace!
 
-[![BAITITON MSATA III Disco Duro sólido Int](https://m.media-amazon.com/images/I/41dcXBAPdaL._SL200_.jpg)](https://www.amazon.es/dp/B08CZP5ZPL/?tag=tolees-21)
+[![BAITITON MSATA III Disco Duro sólido Int](https://m.media-amazon.com/images/I/41dcXBAPdaL._SL400_.jpg)](https://www.amazon.es/dp/B08CZP5ZPL/?tag=tolees-21)
 
 ℹ️:
 

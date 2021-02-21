@@ -2,7 +2,7 @@
 layout: post
 title: 'Gliss - Champú Reparación Total para Cab al 28.18 % de descuento'
 date: 2020-09-20 16:52:21
-image: 'https://m.media-amazon.com/images/I/41SRQzzKCQL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41SRQzzKCQL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.95'
 
 Ahora mismo tienes [Gliss - Champú Reparación Total para Cabellos Secos - 650ml - Schwarzkopf](https://www.amazon.es/dp/B07YQDK7NF/?tag=tolees-21) a 3.95 EUR (original: 5.5 EUR) (28.18 %  de descuento) en el siguiente enlace!
 
-[![Gliss - Champú Reparación Total para Cab](https://m.media-amazon.com/images/I/41SRQzzKCQL._SL200_.jpg)](https://www.amazon.es/dp/B07YQDK7NF/?tag=tolees-21)
+[![Gliss - Champú Reparación Total para Cab](https://m.media-amazon.com/images/I/41SRQzzKCQL._SL400_.jpg)](https://www.amazon.es/dp/B07YQDK7NF/?tag=tolees-21)
 
 🔎:
 

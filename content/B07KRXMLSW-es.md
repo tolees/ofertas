@@ -2,7 +2,7 @@
 layout: post
 title: 'Columbia Sun Ridge Polo  Hombre  Verde   al 39.01 % de descuento'
 date: 2020-04-16 18:49:58
-image: 'https://m.media-amazon.com/images/I/41sVemqBoSL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41sVemqBoSL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.945'
 
 Ahora mismo tienes [Columbia Sun Ridge Polo  Hombre  Verde  Cypress   M](https://www.amazon.es/dp/B07KRXMLSW/?tag=tolees-21) a 30.49 EUR (original: 49.99 EUR) (39.01 %  de descuento) en el siguiente enlace!
 
-[![Columbia Sun Ridge Polo  Hombre  Verde  ](https://m.media-amazon.com/images/I/41sVemqBoSL._SL200_.jpg)](https://www.amazon.es/dp/B07KRXMLSW/?tag=tolees-21)
+[![Columbia Sun Ridge Polo  Hombre  Verde  ](https://m.media-amazon.com/images/I/41sVemqBoSL._SL400_.jpg)](https://www.amazon.es/dp/B07KRXMLSW/?tag=tolees-21)
 
 🔎:
 

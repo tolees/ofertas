@@ -2,7 +2,7 @@
 layout: post
 title: 'Philips Smart Pro Compact FC8776/01 - Ro al 63.34 % de descuento'
 date: 2020-03-12 12:33:04
-image: 'https://m.media-amazon.com/images/I/41P8X2keVML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41P8X2keVML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '238.99499999999998'
 
 Está [Philips Smart Pro Compact FC8776/01 - Robot Aspirador  4 Modos de Limpieza  Alto Rendimiento en Suelos Duros  Sensores Infrarojos y Anticaida  120 min Autonomia  Diseño Slim](https://www.amazon.es/dp/B01AUBJTDW/?tag=tolees-21) con 63.34 de descuento por 139.32 EUR (original: 379.99 EUR) en el siguiente enlace!
 
-[![Philips Smart Pro Compact FC8776/01 - Ro](https://m.media-amazon.com/images/I/41P8X2keVML._SL200_.jpg)](https://www.amazon.es/dp/B01AUBJTDW/?tag=tolees-21)
+[![Philips Smart Pro Compact FC8776/01 - Ro](https://m.media-amazon.com/images/I/41P8X2keVML._SL400_.jpg)](https://www.amazon.es/dp/B01AUBJTDW/?tag=tolees-21)
 
 ℹ️:
 

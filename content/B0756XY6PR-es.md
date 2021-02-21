@@ -2,7 +2,7 @@
 layout: post
 title: 'Reloj - Menton Ezil - Para  - MEWAEU9333 al 44.72 % de descuento'
 date: 2020-05-31 22:30:41
-image: 'https://m.media-amazon.com/images/I/51X5ZmlwlFL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51X5ZmlwlFL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '22.10818181818182'
 
 Está [Reloj - Menton Ezil - Para  - MEWAEU9333](https://www.amazon.es/dp/B0756XY6PR/?tag=tolees-21) con 44.72 de descuento por 25.98 EUR (original: 47.0 EUR) en el siguiente enlace!
 
-[![Reloj - Menton Ezil - Para  - MEWAEU9333](https://m.media-amazon.com/images/I/51X5ZmlwlFL._SL200_.jpg)](https://www.amazon.es/dp/B0756XY6PR/?tag=tolees-21)
+[![Reloj - Menton Ezil - Para  - MEWAEU9333](https://m.media-amazon.com/images/I/51X5ZmlwlFL._SL400_.jpg)](https://www.amazon.es/dp/B0756XY6PR/?tag=tolees-21)
 
 ℹ️:
 

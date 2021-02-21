@@ -2,7 +2,7 @@
 layout: post
 title: 'Lacoste Ampthill 319 1 CMA  Zapatillas p al 51.17 % de descuento'
 date: 2020-01-14 19:29:40
-image: 'https://images-eu.ssl-images-amazon.com/images/I/317ZDlYPnzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/317ZDlYPnzL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '45.49'
 
 Ahora mismo tienes [Lacoste Ampthill 319 1 CMA  Zapatillas para Hombre  Negro  Black/Offwhite 454   46 EU](https://www.amazon.es/dp/B07L9L9N2K/?tag=tolees-21) a 45.49 EUR (original: 93.16 EUR) (51.17 %  de descuento) en el siguiente enlace!
 
-[![Lacoste Ampthill 319 1 CMA  Zapatillas p](https://images-eu.ssl-images-amazon.com/images/I/317ZDlYPnzL._SL200_.jpg)](https://www.amazon.es/dp/B07L9L9N2K/?tag=tolees-21)
+[![Lacoste Ampthill 319 1 CMA  Zapatillas p](https://images-eu.ssl-images-amazon.com/images/I/317ZDlYPnzL._SL400_.jpg)](https://www.amazon.es/dp/B07L9L9N2K/?tag=tolees-21)
 
 🔎:
 

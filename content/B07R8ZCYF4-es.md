@@ -2,7 +2,7 @@
 layout: post
 title: 'Hisense H32BE5000 - TV LED 32  HD  2 HDM al 27.38 % de rebaja'
 date: 2020-04-17 12:04:04
-image: 'https://m.media-amazon.com/images/I/51GTKiFsacL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51GTKiFsacL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '129.99'
 
 Tienes [Hisense H32BE5000 - TV LED 32  HD  2 HDMI  1 USB  Salida Óptica  Audio DD+  Negro](https://www.amazon.es/dp/B07R8ZCYF4/?tag=tolees-21) con precio final de  129.99 EUR (original: 179.0 EUR) (27.38 %  de rebaja) aqui!
 
-[![Hisense H32BE5000 - TV LED 32  HD  2 HDM](https://m.media-amazon.com/images/I/51GTKiFsacL._SL200_.jpg)](https://www.amazon.es/dp/B07R8ZCYF4/?tag=tolees-21)
+[![Hisense H32BE5000 - TV LED 32  HD  2 HDM](https://m.media-amazon.com/images/I/51GTKiFsacL._SL400_.jpg)](https://www.amazon.es/dp/B07R8ZCYF4/?tag=tolees-21)
 
 🔎:
 

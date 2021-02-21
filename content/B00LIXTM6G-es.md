@@ -2,7 +2,7 @@
 layout: post
 title: 'Smokies Hombres Zapato de Novia Charlie  al 40.04 % de descuento'
 date: 2020-01-10 18:15:29
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31uyRJ0BeBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31uyRJ0BeBL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.95'
 
 Está [Smokies Hombres Zapato de Novia Charlie sintético  41 EU  Negro ](https://www.amazon.es/dp/B00LIXTM6G/?tag=tolees-21) con 40.04 de descuento por 29.95 EUR (original: 49.95 EUR) en el siguiente enlace!
 
-[![Smokies Hombres Zapato de Novia Charlie ](https://images-eu.ssl-images-amazon.com/images/I/31uyRJ0BeBL._SL200_.jpg)](https://www.amazon.es/dp/B00LIXTM6G/?tag=tolees-21)
+[![Smokies Hombres Zapato de Novia Charlie ](https://images-eu.ssl-images-amazon.com/images/I/31uyRJ0BeBL._SL400_.jpg)](https://www.amazon.es/dp/B00LIXTM6G/?tag=tolees-21)
 
 ℹ️:
 

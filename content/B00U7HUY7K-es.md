@@ -2,7 +2,7 @@
 layout: post
 title: 'Smile Pin Up Style - Bolsa reversible pa al 42.66 % de descuento'
 date: 2020-01-21 16:33:42
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51j95yJ5exL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51j95yJ5exL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.903333333333332'
 
 Ahora mismo tienes [Smile Pin Up Style - Bolsa reversible para cámara réflex  DSLR   mirrorless  compacta  Multicolor  tamaño S](https://www.amazon.es/dp/B00U7HUY7K/?tag=tolees-21) a 22.88 EUR (original: 39.9 EUR) (42.66 %  de descuento) en el siguiente enlace!
 
-[![Smile Pin Up Style - Bolsa reversible pa](https://images-eu.ssl-images-amazon.com/images/I/51j95yJ5exL._SL200_.jpg)](https://www.amazon.es/dp/B00U7HUY7K/?tag=tolees-21)
+[![Smile Pin Up Style - Bolsa reversible pa](https://images-eu.ssl-images-amazon.com/images/I/51j95yJ5exL._SL400_.jpg)](https://www.amazon.es/dp/B00U7HUY7K/?tag=tolees-21)
 
 🔎:
 

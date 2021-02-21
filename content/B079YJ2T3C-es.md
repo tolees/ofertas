@@ -2,7 +2,7 @@
 layout: post
 title: 'Westinghouse Lighting One-Light Indoor P con un 29.49 % de descuento'
 date: 2020-10-05 18:02:35
-image: 'https://m.media-amazon.com/images/I/21KVHxtMGtL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21KVHxtMGtL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '43.942'
 
 En este momento está [Westinghouse Lighting One-Light Indoor Pendant Lámpara de Techo Integrado  Negro](https://www.amazon.es/dp/B079YJ2T3C/?tag=tolees-21) a 42.77 EUR (original: 60.66 EUR) (29.49 %  de descuento) en el siguiente enlace!
 
-[![Westinghouse Lighting One-Light Indoor P](https://m.media-amazon.com/images/I/21KVHxtMGtL._SL200_.jpg)](https://www.amazon.es/dp/B079YJ2T3C/?tag=tolees-21)
+[![Westinghouse Lighting One-Light Indoor P](https://m.media-amazon.com/images/I/21KVHxtMGtL._SL400_.jpg)](https://www.amazon.es/dp/B079YJ2T3C/?tag=tolees-21)
 
 🔎:
 

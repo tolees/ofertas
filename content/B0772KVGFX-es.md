@@ -2,7 +2,7 @@
 layout: post
 title: 'Funko Pop! - Ready Player One Sorrento F al 29.92 % de descuento'
 date: 2020-09-01 13:25:40
-image: 'https://m.media-amazon.com/images/I/41cHKioqXBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41cHKioqXBL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.176'
 
 Ahora mismo tienes [Funko Pop! - Ready Player One Sorrento Figura de Vinilo 22055](https://www.amazon.es/dp/B0772KVGFX/?tag=tolees-21) a 5.95 EUR (original: 8.49 EUR) (29.92 %  de descuento) en el siguiente enlace!
 
-[![Funko Pop! - Ready Player One Sorrento F](https://m.media-amazon.com/images/I/41cHKioqXBL._SL200_.jpg)](https://www.amazon.es/dp/B0772KVGFX/?tag=tolees-21)
+[![Funko Pop! - Ready Player One Sorrento F](https://m.media-amazon.com/images/I/41cHKioqXBL._SL400_.jpg)](https://www.amazon.es/dp/B0772KVGFX/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Polaroid Originals - 4671 - Película Neg al 25.28 % de descuento'
 date: 2020-07-21 06:03:48
-image: 'https://m.media-amazon.com/images/I/41Tqg1paTtL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Tqg1paTtL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.19'
 
 Está [Polaroid Originals - 4671 - Película Negro y Blanco para cámara 600 - Marco Clásico Blanco](https://www.amazon.es/dp/B075GY3ZD1/?tag=tolees-21) con 25.28 de descuento por 14.19 EUR (original: 18.99 EUR) en el siguiente enlace!
 
-[![Polaroid Originals - 4671 - Película Neg](https://m.media-amazon.com/images/I/41Tqg1paTtL._SL200_.jpg)](https://www.amazon.es/dp/B075GY3ZD1/?tag=tolees-21)
+[![Polaroid Originals - 4671 - Película Neg](https://m.media-amazon.com/images/I/41Tqg1paTtL._SL400_.jpg)](https://www.amazon.es/dp/B075GY3ZD1/?tag=tolees-21)
 
 ℹ️:
 

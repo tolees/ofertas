@@ -2,7 +2,7 @@
 layout: post
 title: 'Samadoyo taza de té de cristal de borosi con un 25.01 % de descuento'
 date: 2020-09-06 10:06:11
-image: 'https://m.media-amazon.com/images/I/51Cdc-i-xLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Cdc-i-xLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.99'
 
 En este momento está [Samadoyo taza de té de cristal de borosilicato de alta calidad con de calidad alimentaria sus # 304 infusor filtro  té taza para café de té o té bolsa  resistente al calor  500 ml  LFGB Test.](https://www.amazon.es/dp/B01N4C3HB3/?tag=tolees-21) a 14.99 EUR (original: 19.99 EUR) (25.01 %  de descuento) en el siguiente enlace!
 
-[![Samadoyo taza de té de cristal de borosi](https://m.media-amazon.com/images/I/51Cdc-i-xLL._SL200_.jpg)](https://www.amazon.es/dp/B01N4C3HB3/?tag=tolees-21)
+[![Samadoyo taza de té de cristal de borosi](https://m.media-amazon.com/images/I/51Cdc-i-xLL._SL400_.jpg)](https://www.amazon.es/dp/B01N4C3HB3/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'JACK & JONES Jjimarco Jjenzo WW 420 Noos al 30.01 % de rebaja'
 date: 2020-02-26 15:55:34
-image: 'https://m.media-amazon.com/images/I/31B2a5cCvaL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31B2a5cCvaL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.99'
 
 Tienes [JACK & JONES Jjimarco Jjenzo WW 420 Noos Pantalones  Azul  Navy Blazer   W33/L32  Talla del Fabricante: 33  para Hombre](https://www.amazon.es/dp/B01N0SJ54E/?tag=tolees-21) con precio final de  20.99 EUR (original: 29.99 EUR) (30.01 %  de rebaja) aqui!
 
-[![JACK & JONES Jjimarco Jjenzo WW 420 Noos](https://m.media-amazon.com/images/I/31B2a5cCvaL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01N0SJ54E/?tag=tolees-21)
+[![JACK & JONES Jjimarco Jjenzo WW 420 Noos](https://m.media-amazon.com/images/I/31B2a5cCvaL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01N0SJ54E/?tag=tolees-21)
 
 🔎:
 

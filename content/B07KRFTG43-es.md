@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas Essential Linear Medias  Mujer  N con un 35.87 % de descuento'
 date: 2020-05-04 07:58:54
-image: 'https://images-eu.ssl-images-amazon.com/images/I/318bT4vtcPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/318bT4vtcPL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.95'
 
 En este momento está [adidas Essential Linear Medias  Mujer  Negro/Blanco  L](https://www.amazon.es/dp/B07KRFTG43/?tag=tolees-21) a 17.95 EUR (original: 27.99 EUR) (35.87 %  de descuento) en el siguiente enlace!
 
-[![adidas Essential Linear Medias  Mujer  N](https://images-eu.ssl-images-amazon.com/images/I/318bT4vtcPL._SL200_.jpg)](https://www.amazon.es/dp/B07KRFTG43/?tag=tolees-21)
+[![adidas Essential Linear Medias  Mujer  N](https://images-eu.ssl-images-amazon.com/images/I/318bT4vtcPL._SL400_.jpg)](https://www.amazon.es/dp/B07KRFTG43/?tag=tolees-21)
 
 🔎:
 

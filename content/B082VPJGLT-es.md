@@ -2,7 +2,7 @@
 layout: post
 title: 'Nivea Men Deep Control - Exfoliante anti al 36.91 % de descuento'
 date: 2020-07-31 18:44:07
-image: 'https://m.media-amazon.com/images/I/415j+hbje0L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/415j+hbje0L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.05'
 
 Ahora mismo tienes [Nivea Men Deep Control - Exfoliante antiespinillas y gel de lavado  75 ml](https://www.amazon.es/dp/B082VPJGLT/?tag=tolees-21) a 6.05 EUR (original: 9.59 EUR) (36.91 %  de descuento) en el siguiente enlace!
 
-[![Nivea Men Deep Control - Exfoliante anti](https://m.media-amazon.com/images/I/415j+hbje0L._SL200_.jpg)](https://www.amazon.es/dp/B082VPJGLT/?tag=tolees-21)
+[![Nivea Men Deep Control - Exfoliante anti](https://m.media-amazon.com/images/I/415j+hbje0L._SL400_.jpg)](https://www.amazon.es/dp/B082VPJGLT/?tag=tolees-21)
 
 🔎:
 

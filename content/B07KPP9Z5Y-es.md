@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 42.69 % en Ban presto- The Battle Dragon Ball Estat'
 date: 2020-06-08 14:36:14
-image: 'https://m.media-amazon.com/images/I/413dtHpdvbL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/413dtHpdvbL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '27.496666666666666'
 
 Tienes [Ban presto- The Battle Dragon Ball Estatua Androide 18  Multicolor  BANP82731 ](https://www.amazon.es/dp/B07KPP9Z5Y/?tag=tolees-21) con un 42.69 % de descuento con precio de oferta de 20.0 EUR (original: 34.9 EUR) en el siguiente enlace!
 
-[![Ban presto- The Battle Dragon Ball Estat](https://m.media-amazon.com/images/I/413dtHpdvbL._SL200_.jpg)](https://www.amazon.es/dp/B07KPP9Z5Y/?tag=tolees-21)
+[![Ban presto- The Battle Dragon Ball Estat](https://m.media-amazon.com/images/I/413dtHpdvbL._SL400_.jpg)](https://www.amazon.es/dp/B07KPP9Z5Y/?tag=tolees-21)
 
 ℹ️:
 

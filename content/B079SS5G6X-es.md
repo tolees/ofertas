@@ -2,7 +2,7 @@
 layout: post
 title: 'Desigual Sweat Daniela suéter   Negro 20 al 47.84 % de descuento'
 date: 2020-04-21 18:03:05
-image: 'https://m.media-amazon.com/images/I/41tfdPUX+lL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41tfdPUX+lL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '37.67'
 
 Está [Desigual Sweat Daniela suéter   Negro 2000   Large para Mujer](https://www.amazon.es/dp/B079SS5G6X/?tag=tolees-21) con 47.84 de descuento por 41.7 EUR (original: 79.95 EUR) en el siguiente enlace!
 
-[![Desigual Sweat Daniela suéter   Negro 20](https://m.media-amazon.com/images/I/41tfdPUX+lL._SL200_.jpg)](https://www.amazon.es/dp/B079SS5G6X/?tag=tolees-21)
+[![Desigual Sweat Daniela suéter   Negro 20](https://m.media-amazon.com/images/I/41tfdPUX+lL._SL400_.jpg)](https://www.amazon.es/dp/B079SS5G6X/?tag=tolees-21)
 
 ℹ️:
 

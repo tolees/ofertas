@@ -2,7 +2,7 @@
 layout: post
 title: 'AIORNIY - 1/5/10 mascarillas para polvo  al 42.64 % de descuento'
 date: 2020-07-18 14:18:59
-image: 'https://m.media-amazon.com/images/I/41vXtQ1Hq3L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41vXtQ1Hq3L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.56'
 
 Está [AIORNIY - 1/5/10 mascarillas para polvo  resistentes al viento  niebla de contaminación Blanco 5-teilig](https://www.amazon.es/dp/B086TVXGLD/?tag=tolees-21) con 42.64 de descuento por 4.56 EUR (original: 7.95 EUR) en el siguiente enlace!
 
-[![AIORNIY - 1/5/10 mascarillas para polvo ](https://m.media-amazon.com/images/I/41vXtQ1Hq3L._SL200_.jpg)](https://www.amazon.es/dp/B086TVXGLD/?tag=tolees-21)
+[![AIORNIY - 1/5/10 mascarillas para polvo ](https://m.media-amazon.com/images/I/41vXtQ1Hq3L._SL400_.jpg)](https://www.amazon.es/dp/B086TVXGLD/?tag=tolees-21)
 
 ℹ️:
 

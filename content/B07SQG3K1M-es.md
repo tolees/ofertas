@@ -2,7 +2,7 @@
 layout: post
 title: 'Winning Moves-Juego de Mesa de una Pieza al 43.03 % de descuento'
 date: 2020-09-06 19:55:07
-image: 'https://m.media-amazon.com/images/I/61+q2tFWqaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61+q2tFWqaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '33.42666666666666'
 
 Está [Winning Moves-Juego de Mesa de una Pieza  Color  036948 ](https://www.amazon.es/dp/B07SQG3K1M/?tag=tolees-21) con 43.03 de descuento por 33.64 EUR (original: 59.05 EUR) en el siguiente enlace!
 
-[![Winning Moves-Juego de Mesa de una Pieza](https://m.media-amazon.com/images/I/61+q2tFWqaL._SL200_.jpg)](https://www.amazon.es/dp/B07SQG3K1M/?tag=tolees-21)
+[![Winning Moves-Juego de Mesa de una Pieza](https://m.media-amazon.com/images/I/61+q2tFWqaL._SL400_.jpg)](https://www.amazon.es/dp/B07SQG3K1M/?tag=tolees-21)
 
 ℹ️:
 

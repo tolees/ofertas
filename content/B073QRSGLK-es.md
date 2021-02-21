@@ -2,7 +2,7 @@
 layout: post
 title: 'Mimosín Creaciones Flor de Lirio y Lima  con un 33.17 % de descuento'
 date: 2020-07-24 14:39:37
-image: 'https://m.media-amazon.com/images/I/411nKpCkTiL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/411nKpCkTiL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.815714285714282'
 
 En este momento está [Mimosín Creaciones Flor de Lirio y Lima Suavizante Concentrado para 58 lavados - 9 Suavizantes](https://www.amazon.es/dp/B073QRSGLK/?tag=tolees-21) a 20.99 EUR (original: 31.41 EUR) (33.17 %  de descuento) en el siguiente enlace!
 
-[![Mimosín Creaciones Flor de Lirio y Lima ](https://m.media-amazon.com/images/I/411nKpCkTiL._SL200_.jpg)](https://www.amazon.es/dp/B073QRSGLK/?tag=tolees-21)
+[![Mimosín Creaciones Flor de Lirio y Lima ](https://m.media-amazon.com/images/I/411nKpCkTiL._SL400_.jpg)](https://www.amazon.es/dp/B073QRSGLK/?tag=tolees-21)
 
 🔎:
 

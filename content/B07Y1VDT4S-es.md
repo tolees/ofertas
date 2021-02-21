@@ -2,7 +2,7 @@
 layout: post
 title: 'TATAY Urban Food Roll&Go Denim Blue - Bo al 43.50 % de rebaja'
 date: 2020-03-22 22:46:18
-image: 'https://m.media-amazon.com/images/I/41yjylzahtL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41yjylzahtL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.99'
 
 Tienes [TATAY Urban Food Roll&Go Denim Blue - Bolsa térmica porta alimentos enrollable con 2 tápers herméticos incluidos  4.2 l  tela  color tejano con tapers a juego  22 x 11 x 22.5 cm](https://www.amazon.es/dp/B07Y1VDT4S/?tag=tolees-21) con precio final de  12.99 EUR (original: 22.99 EUR) (43.50 %  de rebaja) aqui!
 
-[![TATAY Urban Food Roll&Go Denim Blue - Bo](https://m.media-amazon.com/images/I/41yjylzahtL._SL200_.jpg)](https://www.amazon.es/dp/B07Y1VDT4S/?tag=tolees-21)
+[![TATAY Urban Food Roll&Go Denim Blue - Bo](https://m.media-amazon.com/images/I/41yjylzahtL._SL400_.jpg)](https://www.amazon.es/dp/B07Y1VDT4S/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 41.02 % en Solgar Comprimidos Masticables Sublingua'
 date: 2020-03-18 01:04:37
-image: 'https://m.media-amazon.com/images/I/41gFZtGnuwL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41gFZtGnuwL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '25.744999999999997'
 
 Tienes [Solgar Comprimidos Masticables Sublinguales Vitamina B 12 1.000 mcg  Equilibrio psicológico  Reduce el Cansancio  Sabor Cereza Natural  Apto para Veganos  250 Tabletas](https://www.amazon.es/dp/B00020IAPA/?tag=tolees-21) con un 41.02 % de descuento con precio de oferta de 21.5 EUR (original: 36.45 EUR) en el siguiente enlace!
 
-[![Solgar Comprimidos Masticables Sublingua](https://m.media-amazon.com/images/I/41gFZtGnuwL._SL200_.jpg)](https://www.amazon.es/dp/B00020IAPA/?tag=tolees-21)
+[![Solgar Comprimidos Masticables Sublingua](https://m.media-amazon.com/images/I/41gFZtGnuwL._SL400_.jpg)](https://www.amazon.es/dp/B00020IAPA/?tag=tolees-21)
 
 ℹ️:
 

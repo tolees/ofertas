@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 45.02 % en TK.DILIGARM Look At You Becoming A Medic'
 date: 2020-04-14 09:05:55
-image: 'https://m.media-amazon.com/images/I/41gJEBZKS+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41gJEBZKS+L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.99'
 
 Tienes [TK.DILIGARM Look At You Becoming A Medical Coder and Shit Coffee Mug  Programmer Mug - Funny Programming Gift for Men and Women - Gag Coffee Cup for Computer Coding - Best Themed Gift Idea for Coders](https://www.amazon.es/dp/B07MKL65JN/?tag=tolees-21) con un 45.02 % de descuento con precio de oferta de 10.99 EUR (original: 19.99 EUR) en el siguiente enlace!
 
-[![TK.DILIGARM Look At You Becoming A Medic](https://m.media-amazon.com/images/I/41gJEBZKS+L._SL200_.jpg)](https://www.amazon.es/dp/B07MKL65JN/?tag=tolees-21)
+[![TK.DILIGARM Look At You Becoming A Medic](https://m.media-amazon.com/images/I/41gJEBZKS+L._SL400_.jpg)](https://www.amazon.es/dp/B07MKL65JN/?tag=tolees-21)
 
 ℹ️:
 

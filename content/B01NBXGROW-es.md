@@ -2,7 +2,7 @@
 layout: post
 title: 'Garmin DriveSmart 51 Western EU LMT-D -  al 50.14 % de descuento'
 date: 2020-08-28 15:13:24
-image: 'https://m.media-amazon.com/images/I/516Me+gH6lL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/516Me+gH6lL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '114.68'
 
 Está [Garmin DriveSmart 51 Western EU LMT-D - Navegador GPS con mapas de por Vida y tráfico Digital  Pantalla de 5"  Mapa Oeste Europa ](https://www.amazon.es/dp/B01NBXGROW/?tag=tolees-21) con 50.14 de descuento por 114.68 EUR (original: 229.99 EUR) en el siguiente enlace!
 
-[![Garmin DriveSmart 51 Western EU LMT-D - ](https://m.media-amazon.com/images/I/516Me+gH6lL._SL200_.jpg)](https://www.amazon.es/dp/B01NBXGROW/?tag=tolees-21)
+[![Garmin DriveSmart 51 Western EU LMT-D - ](https://m.media-amazon.com/images/I/516Me+gH6lL._SL400_.jpg)](https://www.amazon.es/dp/B01NBXGROW/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 48.47 % en Nike MD Runner 2  Zapatillas para Hombre'
 date: 2020-08-18 06:38:20
-image: 'https://m.media-amazon.com/images/I/419G6zWttPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/419G6zWttPL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '56.732'
 
 Tienes [Nike MD Runner 2  Zapatillas para Hombre  Midnight Navy/White/Wolf Grey  47 EU](https://www.amazon.es/dp/B00PYDWYSY/?tag=tolees-21) con un 48.47 % de descuento con precio de oferta de 33.49 EUR (original: 64.99 EUR) en el siguiente enlace!
 
-[![Nike MD Runner 2  Zapatillas para Hombre](https://m.media-amazon.com/images/I/419G6zWttPL._SL200_.jpg)](https://www.amazon.es/dp/B00PYDWYSY/?tag=tolees-21)
+[![Nike MD Runner 2  Zapatillas para Hombre](https://m.media-amazon.com/images/I/419G6zWttPL._SL400_.jpg)](https://www.amazon.es/dp/B00PYDWYSY/?tag=tolees-21)
 
 ℹ️:
 

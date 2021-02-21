@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 36.81 % en Vitamina C 1200 mg y Zinc 40 mg - 120 Cá'
 date: 2020-07-04 13:24:29
-image: 'https://m.media-amazon.com/images/I/51zwwx9+3nL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51zwwx9+3nL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.215999999999998'
 
 Tienes [Vitamina C 1200 mg y Zinc 40 mg - 120 Cápsulas Vegetarianas - Mantener un Sistema Inmunológico Saludable - 2 Cápsulas al día - Hecho en UK por Nutravita](https://www.amazon.es/dp/B0778QHR5S/?tag=tolees-21) con un 36.81 % de descuento con precio de oferta de 18.95 EUR (original: 29.99 EUR) en el siguiente enlace!
 
-[![Vitamina C 1200 mg y Zinc 40 mg - 120 Cá](https://m.media-amazon.com/images/I/51zwwx9+3nL._SL200_.jpg)](https://www.amazon.es/dp/B0778QHR5S/?tag=tolees-21)
+[![Vitamina C 1200 mg y Zinc 40 mg - 120 Cá](https://m.media-amazon.com/images/I/51zwwx9+3nL._SL400_.jpg)](https://www.amazon.es/dp/B0778QHR5S/?tag=tolees-21)
 
 ℹ️:
 

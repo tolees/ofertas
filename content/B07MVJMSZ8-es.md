@@ -2,7 +2,7 @@
 layout: post
 title: 'Napapijri Semiury 2 Gorro de Punto  Gris con un 30.00 % de descuento'
 date: 2020-01-20 18:06:45
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41pcLkHLEzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41pcLkHLEzL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.4'
 
 En este momento está [Napapijri Semiury 2 Gorro de Punto  Gris  Dark Grey Mel 197   Única  Talla del Fabricante: OS  para Hombre](https://www.amazon.es/dp/B07MVJMSZ8/?tag=tolees-21) a 29.4 EUR (original: 42 EUR) (30.00 %  de descuento) en el siguiente enlace!
 
-[![Napapijri Semiury 2 Gorro de Punto  Gris](https://images-eu.ssl-images-amazon.com/images/I/41pcLkHLEzL._SL200_.jpg)](https://www.amazon.es/dp/B07MVJMSZ8/?tag=tolees-21)
+[![Napapijri Semiury 2 Gorro de Punto  Gris](https://images-eu.ssl-images-amazon.com/images/I/41pcLkHLEzL._SL400_.jpg)](https://www.amazon.es/dp/B07MVJMSZ8/?tag=tolees-21)
 
 🔎:
 

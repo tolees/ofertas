@@ -2,7 +2,7 @@
 layout: post
 title: 'Bosch Mixxo MSM6B150 - Batidora de mano  al 33.91 % de descuento'
 date: 2020-04-29 10:51:41
-image: 'https://m.media-amazon.com/images/I/31MQgqwh3DL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31MQgqwh3DL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.136666666666667'
 
 Ahora mismo tienes [Bosch Mixxo MSM6B150 - Batidora de mano  300 W  velocidad Turbo  cúpula con cuchilla de acero inoxidable  con vaso de mezclas  color blanco](https://www.amazon.es/dp/B000T7URXY/?tag=tolees-21) a 25.71 EUR (original: 38.9 EUR) (33.91 %  de descuento) en el siguiente enlace!
 
-[![Bosch Mixxo MSM6B150 - Batidora de mano ](https://m.media-amazon.com/images/I/31MQgqwh3DL._SL200_.jpg)](https://www.amazon.es/dp/B000T7URXY/?tag=tolees-21)
+[![Bosch Mixxo MSM6B150 - Batidora de mano ](https://m.media-amazon.com/images/I/31MQgqwh3DL._SL400_.jpg)](https://www.amazon.es/dp/B000T7URXY/?tag=tolees-21)
 
 🔎:
 

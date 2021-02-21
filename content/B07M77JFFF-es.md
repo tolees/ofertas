@@ -2,7 +2,7 @@
 layout: post
 title: 'BANDAI- Severus Snape Figura 12 CM Harry al 28.57 % de descuento'
 date: 2020-07-04 10:55:23
-image: 'https://m.media-amazon.com/images/I/31OqH4k6c5L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31OqH4k6c5L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '25.0'
 
 Ahora mismo tienes [BANDAI- Severus Snape Figura 12 CM Harry Potter SH FIGUARTS Series  BAS55563 ](https://www.amazon.es/dp/B07M77JFFF/?tag=tolees-21) a 25.0 EUR (original: 35.0 EUR) (28.57 %  de descuento) en el siguiente enlace!
 
-[![BANDAI- Severus Snape Figura 12 CM Harry](https://m.media-amazon.com/images/I/31OqH4k6c5L._SL200_.jpg)](https://www.amazon.es/dp/B07M77JFFF/?tag=tolees-21)
+[![BANDAI- Severus Snape Figura 12 CM Harry](https://m.media-amazon.com/images/I/31OqH4k6c5L._SL400_.jpg)](https://www.amazon.es/dp/B07M77JFFF/?tag=tolees-21)
 
 🔎:
 

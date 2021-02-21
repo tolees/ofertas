@@ -2,7 +2,7 @@
 layout: post
 title: 'Columbia Youth Gorra Ajustable para jóve al 53.08 % de descuento'
 date: 2020-09-20 11:20:43
-image: 'https://m.media-amazon.com/images/I/41c71k5ccdL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41c71k5ccdL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.38'
 
 Ahora mismo tienes [Columbia Youth Gorra Ajustable para jóvenes  Unisex niños  Gris  City Grey   One Size  Adjustable ](https://www.amazon.es/dp/B07RHWCKLR/?tag=tolees-21) a 9.38 EUR (original: 19.99 EUR) (53.08 %  de descuento) en el siguiente enlace!
 
-[![Columbia Youth Gorra Ajustable para jóve](https://m.media-amazon.com/images/I/41c71k5ccdL._SL200_.jpg)](https://www.amazon.es/dp/B07RHWCKLR/?tag=tolees-21)
+[![Columbia Youth Gorra Ajustable para jóve](https://m.media-amazon.com/images/I/41c71k5ccdL._SL400_.jpg)](https://www.amazon.es/dp/B07RHWCKLR/?tag=tolees-21)
 
 🔎:
 

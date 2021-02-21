@@ -2,7 +2,7 @@
 layout: post
 title: 'Nike Force 1  PS   Zapatillas de Balonce al 42.82 % de descuento'
 date: 2020-04-27 11:22:07
-image: 'https://m.media-amazon.com/images/I/41HRyzyMJkL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41HRyzyMJkL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '31.45'
 
 Está [Nike Force 1  PS   Zapatillas de Baloncesto para Niños  Negro  Black/Black/Black 009   28 EU](https://www.amazon.es/dp/B001E06IGA/?tag=tolees-21) con 42.82 de descuento por 31.45 EUR (original: 55.0 EUR) en el siguiente enlace!
 
-[![Nike Force 1  PS   Zapatillas de Balonce](https://m.media-amazon.com/images/I/41HRyzyMJkL._SL200_.jpg)](https://www.amazon.es/dp/B001E06IGA/?tag=tolees-21)
+[![Nike Force 1  PS   Zapatillas de Balonce](https://m.media-amazon.com/images/I/41HRyzyMJkL._SL400_.jpg)](https://www.amazon.es/dp/B001E06IGA/?tag=tolees-21)
 
 ℹ️:
 

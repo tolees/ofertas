@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 42.97 % en MARTINELLI Zapato de Vestir de Piel Lenn'
 date: 2020-03-15 22:01:00
-image: 'https://m.media-amazon.com/images/I/31DCydy+BpL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31DCydy+BpL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '57.0'
 
 Tienes [MARTINELLI Zapato de Vestir de Piel Lenny 1384](https://www.amazon.es/dp/B07PSPNNH5/?tag=tolees-21) con un 42.97 % de descuento con precio de oferta de 57.0 EUR (original: 99.95 EUR) en el siguiente enlace!
 
-[![MARTINELLI Zapato de Vestir de Piel Lenn](https://m.media-amazon.com/images/I/31DCydy+BpL._SL200_.jpg)](https://www.amazon.es/dp/B07PSPNNH5/?tag=tolees-21)
+[![MARTINELLI Zapato de Vestir de Piel Lenn](https://m.media-amazon.com/images/I/31DCydy+BpL._SL400_.jpg)](https://www.amazon.es/dp/B07PSPNNH5/?tag=tolees-21)
 
 ℹ️:
 

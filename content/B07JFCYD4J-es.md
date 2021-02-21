@@ -2,7 +2,7 @@
 layout: post
 title: 'towinle 3 m 20 leds luz cadena marroquí  al 40.01 % de rebaja'
 date: 2020-01-15 11:05:51
-image: 'https://images-eu.ssl-images-amazon.com/images/I/515IQ0Z-eBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/515IQ0Z-eBL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.17'
 
 Tienes [towinle 3 m 20 leds luz cadena marroquí LED Luz Blanco Cálido bolas con motivos orientales Plata LED cadena funciona con pilas](https://www.amazon.es/dp/B07JFCYD4J/?tag=tolees-21) con precio final de  14.17 EUR (original: 23.62 EUR) (40.01 %  de rebaja) aqui!
 
-[![towinle 3 m 20 leds luz cadena marroquí ](https://images-eu.ssl-images-amazon.com/images/I/515IQ0Z-eBL._SL200_.jpg)](https://www.amazon.es/dp/B07JFCYD4J/?tag=tolees-21)
+[![towinle 3 m 20 leds luz cadena marroquí ](https://images-eu.ssl-images-amazon.com/images/I/515IQ0Z-eBL._SL400_.jpg)](https://www.amazon.es/dp/B07JFCYD4J/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Crazy pawn- Juego de Mesa Dentro del Lab al 34.03 % de descuento'
 date: 2020-09-04 10:35:14
-image: 'https://m.media-amazon.com/images/I/61tB4VVSMhL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61tB4VVSMhL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '37.355555555555554'
 
 Ahora mismo tienes [Crazy pawn- Juego de Mesa Dentro del Laberinto  Multicolor  8436564810168 ](https://www.amazon.es/dp/B077ZCHV7S/?tag=tolees-21) a 32.95 EUR (original: 49.95 EUR) (34.03 %  de descuento) en el siguiente enlace!
 
-[![Crazy pawn- Juego de Mesa Dentro del Lab](https://m.media-amazon.com/images/I/61tB4VVSMhL._SL200_.jpg)](https://www.amazon.es/dp/B077ZCHV7S/?tag=tolees-21)
+[![Crazy pawn- Juego de Mesa Dentro del Lab](https://m.media-amazon.com/images/I/61tB4VVSMhL._SL400_.jpg)](https://www.amazon.es/dp/B077ZCHV7S/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Nike W NP Shrt 3in Pantalones Cortos  Mu al 29.10 % de descuento'
 date: 2020-02-18 14:20:58
-image: 'https://m.media-amazon.com/images/I/31hJeS+ZDfL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31hJeS+ZDfL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.47'
 
 Ahora mismo tienes [Nike W NP Shrt 3in Pantalones Cortos  Mujer  Negro  Black/Black/White   S](https://www.amazon.es/dp/B07FKKF87L/?tag=tolees-21) a 19.49 EUR (original: 27.49 EUR) (29.10 %  de descuento) en el siguiente enlace!
 
-[![Nike W NP Shrt 3in Pantalones Cortos  Mu](https://m.media-amazon.com/images/I/31hJeS+ZDfL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07FKKF87L/?tag=tolees-21)
+[![Nike W NP Shrt 3in Pantalones Cortos  Mu](https://m.media-amazon.com/images/I/31hJeS+ZDfL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07FKKF87L/?tag=tolees-21)
 
 🔎:
 

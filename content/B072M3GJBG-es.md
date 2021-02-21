@@ -2,7 +2,7 @@
 layout: post
 title: 'Silver HT 17119 - Adaptador tipo-C GN30H con un 90.02 % de descuento'
 date: 2020-04-17 10:01:55
-image: 'https://m.media-amazon.com/images/I/31OWrZ3vHZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31OWrZ3vHZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '46.239999999999995'
 
 En este momento está [Silver HT 17119 - Adaptador tipo-C GN30H a Ethernet y HUB 5 en 1  color gris oscuro](https://www.amazon.es/dp/B072M3GJBG/?tag=tolees-21) a 9.98 EUR (original: 99.99 EUR) (90.02 %  de descuento) en el siguiente enlace!
 
-[![Silver HT 17119 - Adaptador tipo-C GN30H](https://m.media-amazon.com/images/I/31OWrZ3vHZL._SL200_.jpg)](https://www.amazon.es/dp/B072M3GJBG/?tag=tolees-21)
+[![Silver HT 17119 - Adaptador tipo-C GN30H](https://m.media-amazon.com/images/I/31OWrZ3vHZL._SL400_.jpg)](https://www.amazon.es/dp/B072M3GJBG/?tag=tolees-21)
 
 🔎:
 

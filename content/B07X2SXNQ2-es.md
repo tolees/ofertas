@@ -2,7 +2,7 @@
 layout: post
 title: 'Eastpak SPRINGER Riñonera  23 cm  2 L  V al 33.33 % de descuento'
 date: 2020-07-23 18:34:15
-image: 'https://m.media-amazon.com/images/I/41RRBtXtCIL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41RRBtXtCIL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.2'
 
 Ahora mismo tienes [Eastpak SPRINGER Riñonera  23 cm  2 L  Verde  Meshknit Green ](https://www.amazon.es/dp/B07X2SXNQ2/?tag=tolees-21) a 16.2 EUR (original: 24.3 EUR) (33.33 %  de descuento) en el siguiente enlace!
 
-[![Eastpak SPRINGER Riñonera  23 cm  2 L  V](https://m.media-amazon.com/images/I/41RRBtXtCIL._SL200_.jpg)](https://www.amazon.es/dp/B07X2SXNQ2/?tag=tolees-21)
+[![Eastpak SPRINGER Riñonera  23 cm  2 L  V](https://m.media-amazon.com/images/I/41RRBtXtCIL._SL400_.jpg)](https://www.amazon.es/dp/B07X2SXNQ2/?tag=tolees-21)
 
 🔎:
 

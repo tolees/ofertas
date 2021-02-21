@@ -2,7 +2,7 @@
 layout: post
 title: 'MASTER LOCK Caja fuerte para llaves [Med con un 27.07 % de descuento'
 date: 2020-09-30 16:19:35
-image: 'https://m.media-amazon.com/images/I/41uaevSXixL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41uaevSXixL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.196'
 
 En este momento está [MASTER LOCK Caja fuerte para llaves [Mediana] [Montaje mural] - 5401EURD - Caja de seguridad](https://www.amazon.es/dp/B000JTIX3S/?tag=tolees-21) a 25.95 EUR (original: 35.58 EUR) (27.07 %  de descuento) en el siguiente enlace!
 
-[![MASTER LOCK Caja fuerte para llaves [Med](https://m.media-amazon.com/images/I/41uaevSXixL._SL200_.jpg)](https://www.amazon.es/dp/B000JTIX3S/?tag=tolees-21)
+[![MASTER LOCK Caja fuerte para llaves [Med](https://m.media-amazon.com/images/I/41uaevSXixL._SL400_.jpg)](https://www.amazon.es/dp/B000JTIX3S/?tag=tolees-21)
 
 🔎:
 

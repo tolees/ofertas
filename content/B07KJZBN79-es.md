@@ -2,7 +2,7 @@
 layout: post
 title: 'Toyvian Scratch Draw  10 unids Papel de  al 38.86 % de rebaja'
 date: 2020-07-13 10:50:16
-image: 'https://m.media-amazon.com/images/I/51JARLqDQKL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51JARLqDQKL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.26'
 
 Tienes [Toyvian Scratch Draw  10 unids Papel de rascar Arte Scratch Papel Scratch tableros Negro para niños](https://www.amazon.es/dp/B07KJZBN79/?tag=tolees-21) con precio final de  8.26 EUR (original: 13.51 EUR) (38.86 %  de rebaja) aqui!
 
-[![Toyvian Scratch Draw  10 unids Papel de ](https://m.media-amazon.com/images/I/51JARLqDQKL._SL200_.jpg)](https://www.amazon.es/dp/B07KJZBN79/?tag=tolees-21)
+[![Toyvian Scratch Draw  10 unids Papel de ](https://m.media-amazon.com/images/I/51JARLqDQKL._SL400_.jpg)](https://www.amazon.es/dp/B07KJZBN79/?tag=tolees-21)
 
 🔎:
 

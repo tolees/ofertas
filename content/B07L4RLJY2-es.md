@@ -2,7 +2,7 @@
 layout: post
 title: 'Rubies - Disfraz Oficial de Los Vengador al 29.00 % de descuento'
 date: 2020-03-18 22:00:59
-image: 'https://m.media-amazon.com/images/I/416txjSf3rL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/416txjSf3rL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '46.85'
 
 Ahora mismo tienes [Rubies - Disfraz Oficial de Los Vengadores Endgame Thanos  para Hombre Adulto](https://www.amazon.es/dp/B07L4RLJY2/?tag=tolees-21) a 46.85 EUR (original: 65.99 EUR) (29.00 %  de descuento) en el siguiente enlace!
 
-[![Rubies - Disfraz Oficial de Los Vengador](https://m.media-amazon.com/images/I/416txjSf3rL._SL200_.jpg)](https://www.amazon.es/dp/B07L4RLJY2/?tag=tolees-21)
+[![Rubies - Disfraz Oficial de Los Vengador](https://m.media-amazon.com/images/I/416txjSf3rL._SL400_.jpg)](https://www.amazon.es/dp/B07L4RLJY2/?tag=tolees-21)
 
 🔎:
 

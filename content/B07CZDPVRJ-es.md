@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour UA Tech Mesh Short Pantalon al 52.80 % de descuento'
 date: 2020-09-17 08:50:20
-image: 'https://m.media-amazon.com/images/I/31N3QZKJ--L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31N3QZKJ--L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.98'
 
 Ahora mismo tienes [Under Armour UA Tech Mesh Short Pantalones Cortos  Hombre  Azul  Royal/Steel 400   S](https://www.amazon.es/dp/B07CZDPVRJ/?tag=tolees-21) a 14.16 EUR (original: 30.0 EUR) (52.80 %  de descuento) en el siguiente enlace!
 
-[![Under Armour UA Tech Mesh Short Pantalon](https://m.media-amazon.com/images/I/31N3QZKJ--L._SL200_.jpg)](https://www.amazon.es/dp/B07CZDPVRJ/?tag=tolees-21)
+[![Under Armour UA Tech Mesh Short Pantalon](https://m.media-amazon.com/images/I/31N3QZKJ--L._SL400_.jpg)](https://www.amazon.es/dp/B07CZDPVRJ/?tag=tolees-21)
 
 🔎:
 

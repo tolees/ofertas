@@ -2,7 +2,7 @@
 layout: post
 title: 'High Peak Bermuda Tarp Grau Tienda  Gris al 25.05 % de rebaja'
 date: 2020-03-16 09:18:23
-image: 'https://m.media-amazon.com/images/I/31kOlcmHddL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31kOlcmHddL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.2'
 
 Tienes [High Peak Bermuda Tarp Grau Tienda  Gris  360 x 360 x 360 cm](https://www.amazon.es/dp/B00OQB4MGC/?tag=tolees-21) con precio final de  15.2 EUR (original: 20.28 EUR) (25.05 %  de rebaja) aqui!
 
-[![High Peak Bermuda Tarp Grau Tienda  Gris](https://m.media-amazon.com/images/I/31kOlcmHddL._SL200_.jpg)](https://www.amazon.es/dp/B00OQB4MGC/?tag=tolees-21)
+[![High Peak Bermuda Tarp Grau Tienda  Gris](https://m.media-amazon.com/images/I/31kOlcmHddL._SL400_.jpg)](https://www.amazon.es/dp/B00OQB4MGC/?tag=tolees-21)
 
 🔎:
 

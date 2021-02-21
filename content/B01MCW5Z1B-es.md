@@ -2,7 +2,7 @@
 layout: post
 title: 'ECO-WORTHY 3.5 G 220 V Generador De Ozon al 99.94 % de descuento'
 date: 2020-04-24 12:19:15
-image: 'https://m.media-amazon.com/images/I/419GWBY1MAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/419GWBY1MAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '0.11'
 
 Está [ECO-WORTHY 3.5 G 220 V Generador De Ozono Industriales - Purificador De Aire Ozono Purificador De Aire](https://www.amazon.es/dp/B01MCW5Z1B/?tag=tolees-21) con 99.94 de descuento por 0.11 EUR (original: 184.99 EUR) en el siguiente enlace!
 
-[![ECO-WORTHY 3.5 G 220 V Generador De Ozon](https://m.media-amazon.com/images/I/419GWBY1MAL._SL200_.jpg)](https://www.amazon.es/dp/B01MCW5Z1B/?tag=tolees-21)
+[![ECO-WORTHY 3.5 G 220 V Generador De Ozon](https://m.media-amazon.com/images/I/419GWBY1MAL._SL400_.jpg)](https://www.amazon.es/dp/B01MCW5Z1B/?tag=tolees-21)
 
 ℹ️:
 

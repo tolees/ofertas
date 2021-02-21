@@ -2,7 +2,7 @@
 layout: post
 title: 'ORICO Aluminio Aleación USB C a HDMI Ada al 68.84 % de rebaja'
 date: 2020-06-14 22:05:04
-image: 'https://m.media-amazon.com/images/I/31T2YUqn4CL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31T2YUqn4CL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.99'
 
 Tienes [ORICO Aluminio Aleación USB C a HDMI Adaptador y 3-Puertos USB-A 3.0 y USB C Hub  4K * 30 fps para el Nuevo Macbook  Pixel  Yoga 900  Lumia 950 y más  Plata ](https://www.amazon.es/dp/B07C8H4HCK/?tag=tolees-21) con precio final de  20.99 EUR (original: 67.37 EUR) (68.84 %  de rebaja) aqui!
 
-[![ORICO Aluminio Aleación USB C a HDMI Ada](https://m.media-amazon.com/images/I/31T2YUqn4CL._SL200_.jpg)](https://www.amazon.es/dp/B07C8H4HCK/?tag=tolees-21)
+[![ORICO Aluminio Aleación USB C a HDMI Ada](https://m.media-amazon.com/images/I/31T2YUqn4CL._SL400_.jpg)](https://www.amazon.es/dp/B07C8H4HCK/?tag=tolees-21)
 
 🔎:
 

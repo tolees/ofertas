@@ -2,7 +2,7 @@
 layout: post
 title: 'Crema para las pecas  Crema de eliminaci con un 65.38 % de descuento'
 date: 2020-05-13 10:11:20
-image: 'https://m.media-amazon.com/images/I/41eQrYLNrNL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41eQrYLNrNL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.69'
 
 En este momento está [Crema para las pecas  Crema de eliminación de pecas  Crema hidratante blanqueadora antiarrugas para el cuidado de la piel  Control del aceite Nutritiva Reparación Eliminación de manchas](https://www.amazon.es/dp/B07RTXLRR8/?tag=tolees-21) a 3.69 EUR (original: 10.66 EUR) (65.38 %  de descuento) en el siguiente enlace!
 
-[![Crema para las pecas  Crema de eliminaci](https://m.media-amazon.com/images/I/41eQrYLNrNL._SL200_.jpg)](https://www.amazon.es/dp/B07RTXLRR8/?tag=tolees-21)
+[![Crema para las pecas  Crema de eliminaci](https://m.media-amazon.com/images/I/41eQrYLNrNL._SL400_.jpg)](https://www.amazon.es/dp/B07RTXLRR8/?tag=tolees-21)
 
 🔎:
 

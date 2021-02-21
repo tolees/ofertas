@@ -2,7 +2,7 @@
 layout: post
 title: 'Onitsuka Tiger Mexico 66  Zapatillas de  con un 40.53 % de descuento'
 date: 2020-05-31 09:45:46
-image: 'https://m.media-amazon.com/images/I/31PxrFL+cVL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31PxrFL+cVL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '53.52'
 
 En este momento está [Onitsuka Tiger Mexico 66  Zapatillas de Entrenamiento Unisex Adulto  Negro  Black/Black   40 EU](https://www.amazon.es/dp/B01HROI3FK/?tag=tolees-21) a 53.52 EUR (original: 90.0 EUR) (40.53 %  de descuento) en el siguiente enlace!
 
-[![Onitsuka Tiger Mexico 66  Zapatillas de ](https://m.media-amazon.com/images/I/31PxrFL+cVL._SL200_.jpg)](https://www.amazon.es/dp/B01HROI3FK/?tag=tolees-21)
+[![Onitsuka Tiger Mexico 66  Zapatillas de ](https://m.media-amazon.com/images/I/31PxrFL+cVL._SL400_.jpg)](https://www.amazon.es/dp/B01HROI3FK/?tag=tolees-21)
 
 🔎:
 

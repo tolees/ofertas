@@ -2,7 +2,7 @@
 layout: post
 title: 'Inibsa Alcogel 100 ml - Gel hidroalcóhol con un 50.08 % de descuento'
 date: 2020-10-06 14:49:39
-image: 'https://m.media-amazon.com/images/I/41W4afVd4PL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41W4afVd4PL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.0600000000000005'
 
 En este momento está [Inibsa Alcogel 100 ml - Gel hidroalcóholico manos 70%. Sin enjuagar. No pegajoso. Contiene glicerina que hidrata la piel - Gel de manos para una limpieza profunda - 1 unidad](https://www.amazon.es/dp/B087V58KHV/?tag=tolees-21) a 2.99 EUR (original: 5.99 EUR) (50.08 %  de descuento) en el siguiente enlace!
 
-[![Inibsa Alcogel 100 ml - Gel hidroalcóhol](https://m.media-amazon.com/images/I/41W4afVd4PL._SL200_.jpg)](https://www.amazon.es/dp/B087V58KHV/?tag=tolees-21)
+[![Inibsa Alcogel 100 ml - Gel hidroalcóhol](https://m.media-amazon.com/images/I/41W4afVd4PL._SL400_.jpg)](https://www.amazon.es/dp/B087V58KHV/?tag=tolees-21)
 
 🔎:
 

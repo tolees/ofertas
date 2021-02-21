@@ -2,7 +2,7 @@
 layout: post
 title: 'Energy Sistem Music Box 7+ Altavoz portá al 35.77 % de rebaja'
 date: 2020-03-19 18:01:58
-image: 'https://m.media-amazon.com/images/I/51S70NAzK2L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51S70NAzK2L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '44.62333333333333'
 
 Tienes [Energy Sistem Music Box 7+ Altavoz portátil con Bluetooth  20 W  Manos Libres  Entrada de Audio y batería Recargable  - Plata](https://www.amazon.es/dp/B07GR6K7K4/?tag=tolees-21) con precio final de  44.9 EUR (original: 69.9 EUR) (35.77 %  de rebaja) aqui!
 
-[![Energy Sistem Music Box 7+ Altavoz portá](https://m.media-amazon.com/images/I/51S70NAzK2L._SL200_.jpg)](https://www.amazon.es/dp/B07GR6K7K4/?tag=tolees-21)
+[![Energy Sistem Music Box 7+ Altavoz portá](https://m.media-amazon.com/images/I/51S70NAzK2L._SL400_.jpg)](https://www.amazon.es/dp/B07GR6K7K4/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger Cozy 3D  Zapatillas Bajas al 31.73 % de descuento'
 date: 2020-06-07 22:09:06
-image: 'https://m.media-amazon.com/images/I/41FfNMGsrCL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41FfNMGsrCL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.119999999999997'
 
 Ahora mismo tienes [Tommy Hilfiger Cozy 3D  Zapatillas Bajas para Mujer  Azul  Desert Sky Dw5   35/36 EU](https://www.amazon.es/dp/B07RJKPCPM/?tag=tolees-21) a 27.24 EUR (original: 39.9 EUR) (31.73 %  de descuento) en el siguiente enlace!
 
-[![Tommy Hilfiger Cozy 3D  Zapatillas Bajas](https://m.media-amazon.com/images/I/41FfNMGsrCL._SL200_.jpg)](https://www.amazon.es/dp/B07RJKPCPM/?tag=tolees-21)
+[![Tommy Hilfiger Cozy 3D  Zapatillas Bajas](https://m.media-amazon.com/images/I/41FfNMGsrCL._SL400_.jpg)](https://www.amazon.es/dp/B07RJKPCPM/?tag=tolees-21)
 
 🔎:
 

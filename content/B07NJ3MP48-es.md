@@ -2,7 +2,7 @@
 layout: post
 title: 'Salomon PROLOG 25 BAG Bolsa con un 50.02 % de descuento'
 date: 2020-05-19 23:35:20
-image: 'https://m.media-amazon.com/images/I/41isGigN37L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41isGigN37L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '28.187499999999996'
 
 En este momento está [Salomon PROLOG 25 BAG Bolsa](https://www.amazon.es/dp/B07NJ3MP48/?tag=tolees-21) a 24.99 EUR (original: 50.0 EUR) (50.02 %  de descuento) en el siguiente enlace!
 
-[![Salomon PROLOG 25 BAG Bolsa](https://m.media-amazon.com/images/I/41isGigN37L._SL200_.jpg)](https://www.amazon.es/dp/B07NJ3MP48/?tag=tolees-21)
+[![Salomon PROLOG 25 BAG Bolsa](https://m.media-amazon.com/images/I/41isGigN37L._SL400_.jpg)](https://www.amazon.es/dp/B07NJ3MP48/?tag=tolees-21)
 
 🔎:
 

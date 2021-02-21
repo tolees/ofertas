@@ -2,7 +2,7 @@
 layout: post
 title: 'Michael Kors Reloj analogico para Mujer  con un 29.42 % de descuento'
 date: 2020-07-21 17:13:43
-image: 'https://m.media-amazon.com/images/I/51BRzUIxItL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51BRzUIxItL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '133.17666666666668'
 
 En este momento está [Michael Kors Reloj analogico para Mujer de Cuarzo con Correa en Acero Inoxidable SO-1643-LQ](https://www.amazon.es/dp/B002PJ9P8M/?tag=tolees-21) a 129.0 EUR (original: 182.76 EUR) (29.42 %  de descuento) en el siguiente enlace!
 
-[![Michael Kors Reloj analogico para Mujer ](https://m.media-amazon.com/images/I/51BRzUIxItL._SL200_.jpg)](https://www.amazon.es/dp/B002PJ9P8M/?tag=tolees-21)
+[![Michael Kors Reloj analogico para Mujer ](https://m.media-amazon.com/images/I/51BRzUIxItL._SL400_.jpg)](https://www.amazon.es/dp/B002PJ9P8M/?tag=tolees-21)
 
 🔎:
 

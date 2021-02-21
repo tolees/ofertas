@@ -2,7 +2,7 @@
 layout: post
 title: 'Nike Wmns Free RN 5.0  Zapatillas de Atl al 47.04 % de descuento'
 date: 2020-05-15 08:24:01
-image: 'https://m.media-amazon.com/images/I/31J9HlrB9iL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31J9HlrB9iL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '58.26'
 
 Ahora mismo tienes [Nike Wmns Free RN 5.0  Zapatillas de Atletismo para Mujer  Multicolor  Black/White/Anthracite/Volt 000   37.5 EU](https://www.amazon.es/dp/B07HB6ZCZ7/?tag=tolees-21) a 58.26 EUR (original: 110.0 EUR) (47.04 %  de descuento) en el siguiente enlace!
 
-[![Nike Wmns Free RN 5.0  Zapatillas de Atl](https://m.media-amazon.com/images/I/31J9HlrB9iL._SL200_.jpg)](https://www.amazon.es/dp/B07HB6ZCZ7/?tag=tolees-21)
+[![Nike Wmns Free RN 5.0  Zapatillas de Atl](https://m.media-amazon.com/images/I/31J9HlrB9iL._SL400_.jpg)](https://www.amazon.es/dp/B07HB6ZCZ7/?tag=tolees-21)
 
 🔎:
 

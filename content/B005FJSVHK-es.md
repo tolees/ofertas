@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 27.90 % en Epson C13T70124010 - Cartucho de tinta  '
 date: 2020-04-12 16:18:48
-image: 'https://m.media-amazon.com/images/I/41K1a0FpKlL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41K1a0FpKlL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '42.71'
 
 Tienes [Epson C13T70124010 - Cartucho de tinta  cian  Ya disponible en Amazon Dash Replenishment](https://www.amazon.es/dp/B005FJSVHK/?tag=tolees-21) con un 27.90 % de descuento con precio de oferta de 41.3 EUR (original: 57.28 EUR) en el siguiente enlace!
 
-[![Epson C13T70124010 - Cartucho de tinta  ](https://m.media-amazon.com/images/I/41K1a0FpKlL._SL200_.jpg)](https://www.amazon.es/dp/B005FJSVHK/?tag=tolees-21)
+[![Epson C13T70124010 - Cartucho de tinta  ](https://m.media-amazon.com/images/I/41K1a0FpKlL._SL400_.jpg)](https://www.amazon.es/dp/B005FJSVHK/?tag=tolees-21)
 
 ℹ️:
 

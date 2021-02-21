@@ -2,7 +2,7 @@
 layout: post
 title: 'BBC micro: bit go al 25.77 % de descuento'
 date: 2020-09-29 06:03:48
-image: 'https://m.media-amazon.com/images/I/41FSksjNYPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41FSksjNYPL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.105833333333333'
 
 Ahora mismo tienes [BBC micro: bit go](https://www.amazon.es/dp/B01G8X7VM2/?tag=tolees-21) a 15.67 EUR (original: 21.11 EUR) (25.77 %  de descuento) en el siguiente enlace!
 
-[![BBC micro: bit go](https://m.media-amazon.com/images/I/41FSksjNYPL._SL200_.jpg)](https://www.amazon.es/dp/B01G8X7VM2/?tag=tolees-21)
+[![BBC micro: bit go](https://m.media-amazon.com/images/I/41FSksjNYPL._SL400_.jpg)](https://www.amazon.es/dp/B01G8X7VM2/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 34.48 % en Reebok Classic Leather - Zapatillas de c'
 date: 2020-07-14 03:23:11
-image: 'https://m.media-amazon.com/images/I/41fL8zQKIML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41fL8zQKIML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '60.18'
 
 Tienes [Reebok Classic Leather - Zapatillas de cuero para hombre  color negro  int-black   talla 42](https://www.amazon.es/dp/B00R5CEYNK/?tag=tolees-21) con un 34.48 % de descuento con precio de oferta de 57.32 EUR (original: 87.49 EUR) en el siguiente enlace!
 
-[![Reebok Classic Leather - Zapatillas de c](https://m.media-amazon.com/images/I/41fL8zQKIML._SL200_.jpg)](https://www.amazon.es/dp/B00R5CEYNK/?tag=tolees-21)
+[![Reebok Classic Leather - Zapatillas de c](https://m.media-amazon.com/images/I/41fL8zQKIML._SL400_.jpg)](https://www.amazon.es/dp/B00R5CEYNK/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour UA Ripple 2.0  Zapatillas d con un 43.75 % de descuento'
 date: 2020-03-12 19:58:37
-image: 'https://m.media-amazon.com/images/I/41dK43YnV0L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41dK43YnV0L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '33.05'
 
 En este momento está [Under Armour UA Ripple 2.0  Zapatillas de Running para Hombre  Negro  Black/White/Black  002  002   47.5 EU](https://www.amazon.es/dp/B07HKK3XGX/?tag=tolees-21) a 36.56 EUR (original: 65.0 EUR) (43.75 %  de descuento) en el siguiente enlace!
 
-[![Under Armour UA Ripple 2.0  Zapatillas d](https://m.media-amazon.com/images/I/41dK43YnV0L._SL200_.jpg)](https://www.amazon.es/dp/B07HKK3XGX/?tag=tolees-21)
+[![Under Armour UA Ripple 2.0  Zapatillas d](https://m.media-amazon.com/images/I/41dK43YnV0L._SL400_.jpg)](https://www.amazon.es/dp/B07HKK3XGX/?tag=tolees-21)
 
 🔎:
 

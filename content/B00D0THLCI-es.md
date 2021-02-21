@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 52.97 % en Max Factor Colour Elixir Lipstick 730 Fl'
 date: 2020-03-25 12:54:39
-image: 'https://m.media-amazon.com/images/I/3101QXzTWEL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/3101QXzTWEL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.01'
 
 Tienes [Max Factor Colour Elixir Lipstick 730 Flushed Fuchsia Pomadka nawilżająca do ust](https://www.amazon.es/dp/B00D0THLCI/?tag=tolees-21) con un 52.97 % de descuento con precio de oferta de 3.01 EUR (original: 6.4 EUR) en el siguiente enlace!
 
-[![Max Factor Colour Elixir Lipstick 730 Fl](https://m.media-amazon.com/images/I/3101QXzTWEL._SL200_.jpg)](https://www.amazon.es/dp/B00D0THLCI/?tag=tolees-21)
+[![Max Factor Colour Elixir Lipstick 730 Fl](https://m.media-amazon.com/images/I/3101QXzTWEL._SL400_.jpg)](https://www.amazon.es/dp/B00D0THLCI/?tag=tolees-21)
 
 ℹ️:
 

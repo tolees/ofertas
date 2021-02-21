@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 65.92 % en adidas Altasport CF K  Zapatillas de Dep'
 date: 2020-07-13 00:59:26
-image: 'https://m.media-amazon.com/images/I/31om7fonPwL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31om7fonPwL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.91'
 
 Tienes [adidas Altasport CF K  Zapatillas de Deporte Unisex Niños  Negro  Core Black/Core Black/Core Black 0   28 EU](https://www.amazon.es/dp/B07JZ5VJLB/?tag=tolees-21) con un 65.92 % de descuento con precio de oferta de 11.91 EUR (original: 34.95 EUR) en el siguiente enlace!
 
-[![adidas Altasport CF K  Zapatillas de Dep](https://m.media-amazon.com/images/I/31om7fonPwL._SL200_.jpg)](https://www.amazon.es/dp/B07JZ5VJLB/?tag=tolees-21)
+[![adidas Altasport CF K  Zapatillas de Dep](https://m.media-amazon.com/images/I/31om7fonPwL._SL400_.jpg)](https://www.amazon.es/dp/B07JZ5VJLB/?tag=tolees-21)
 
 ℹ️:
 

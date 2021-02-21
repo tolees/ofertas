@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 26.47 % en Funko- Pop TV: La Casa de Papel-Helsinki'
 date: 2020-04-18 03:28:13
-image: 'https://m.media-amazon.com/images/I/31EO7QvJ2sL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31EO7QvJ2sL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.87'
 
 Tienes [Funko- Pop TV: La Casa de Papel-Helsinki Collectible Figure  Multicolor  44194 ](https://www.amazon.es/dp/B07SPVN75K/?tag=tolees-21) con un 26.47 % de descuento con precio de oferta de 7.78 EUR (original: 10.58 EUR) en el siguiente enlace!
 
-[![Funko- Pop TV: La Casa de Papel-Helsinki](https://m.media-amazon.com/images/I/31EO7QvJ2sL._SL200_.jpg)](https://www.amazon.es/dp/B07SPVN75K/?tag=tolees-21)
+[![Funko- Pop TV: La Casa de Papel-Helsinki](https://m.media-amazon.com/images/I/31EO7QvJ2sL._SL400_.jpg)](https://www.amazon.es/dp/B07SPVN75K/?tag=tolees-21)
 
 ℹ️:
 

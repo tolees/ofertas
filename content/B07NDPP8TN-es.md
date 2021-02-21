@@ -2,7 +2,7 @@
 layout: post
 title: 'G-STAR RAW Xpo Raincoat Impermeable  Azu con un 85.81 % de descuento'
 date: 2020-02-04 19:19:05
-image: 'https://m.media-amazon.com/images/I/414NpqQ1lLL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/414NpqQ1lLL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '25.54'
 
 En este momento está [G-STAR RAW Xpo Raincoat Impermeable  Azul  Mazarine Blue 4213   XX-Small para Hombre](https://www.amazon.es/dp/B07NDPP8TN/?tag=tolees-21) a 25.54 EUR (original: 179.95 EUR) (85.81 %  de descuento) en el siguiente enlace!
 
-[![G-STAR RAW Xpo Raincoat Impermeable  Azu](https://m.media-amazon.com/images/I/414NpqQ1lLL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07NDPP8TN/?tag=tolees-21)
+[![G-STAR RAW Xpo Raincoat Impermeable  Azu](https://m.media-amazon.com/images/I/414NpqQ1lLL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07NDPP8TN/?tag=tolees-21)
 
 🔎:
 

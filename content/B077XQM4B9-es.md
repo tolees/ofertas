@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour Recovery Travel Track Jacke al 81.20 % de rebaja'
 date: 2020-01-23 13:47:01
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BnNIHpI0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BnNIHpI0L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.8'
 
 Tienes [Under Armour Recovery Travel Track Jacket Parte Superior del Calentamiento  Hombre  Negro  Black/Metallic Silver 001   S](https://www.amazon.es/dp/B077XQM4B9/?tag=tolees-21) con precio final de  18.8 EUR (original: 99.99 EUR) (81.20 %  de rebaja) aqui!
 
-[![Under Armour Recovery Travel Track Jacke](https://images-eu.ssl-images-amazon.com/images/I/31%2BnNIHpI0L._SL200_.jpg)](https://www.amazon.es/dp/B077XQM4B9/?tag=tolees-21)
+[![Under Armour Recovery Travel Track Jacke](https://images-eu.ssl-images-amazon.com/images/I/31%2BnNIHpI0L._SL400_.jpg)](https://www.amazon.es/dp/B077XQM4B9/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'BLEND 20708180 Polo  Marrón  Sand Brown  con un 56.94 % de descuento'
 date: 2020-02-29 02:05:40
-image: 'https://m.media-amazon.com/images/I/41FtM6Pau4L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41FtM6Pau4L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.77'
 
 En este momento está [BLEND 20708180 Polo  Marrón  Sand Brown 75107   X-Large para Hombre](https://www.amazon.es/dp/B07FDDW3ST/?tag=tolees-21) a 8.59 EUR (original: 19.95 EUR) (56.94 %  de descuento) en el siguiente enlace!
 
-[![BLEND 20708180 Polo  Marrón  Sand Brown ](https://m.media-amazon.com/images/I/41FtM6Pau4L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07FDDW3ST/?tag=tolees-21)
+[![BLEND 20708180 Polo  Marrón  Sand Brown ](https://m.media-amazon.com/images/I/41FtM6Pau4L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07FDDW3ST/?tag=tolees-21)
 
 🔎:
 

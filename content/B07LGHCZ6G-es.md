@@ -2,7 +2,7 @@
 layout: post
 title: 'Nike Jordan CLC99 - Gorra  Unisex Adulto al 44.15 % de descuento'
 date: 2020-02-03 20:28:51
-image: 'https://m.media-amazon.com/images/I/3195d2IQvVL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/3195d2IQvVL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.75'
 
 Está [Nike Jordan CLC99 - Gorra  Unisex Adulto  Black/White  MISC](https://www.amazon.es/dp/B07LGHCZ6G/?tag=tolees-21) con 44.15 de descuento por 16.75 EUR (original: 29.99 EUR) en el siguiente enlace!
 
-[![Nike Jordan CLC99 - Gorra  Unisex Adulto](https://m.media-amazon.com/images/I/3195d2IQvVL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07LGHCZ6G/?tag=tolees-21)
+[![Nike Jordan CLC99 - Gorra  Unisex Adulto](https://m.media-amazon.com/images/I/3195d2IQvVL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07LGHCZ6G/?tag=tolees-21)
 
 ℹ️:
 

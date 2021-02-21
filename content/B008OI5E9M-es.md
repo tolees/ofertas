@@ -2,7 +2,7 @@
 layout: post
 title: 'Atosa - Disfraz de vikingo para hombre   al 50.67 % de rebaja'
 date: 2020-02-17 16:29:08
-image: 'https://m.media-amazon.com/images/I/41rQv9WYBLL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41rQv9WYBLL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.27'
 
 Tienes [Atosa - Disfraz de vikingo para hombre  talla 50-52  8422259101321 ](https://www.amazon.es/dp/B008OI5E9M/?tag=tolees-21) con precio final de  13.27 EUR (original: 26.9 EUR) (50.67 %  de rebaja) aqui!
 
-[![Atosa - Disfraz de vikingo para hombre  ](https://m.media-amazon.com/images/I/41rQv9WYBLL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B008OI5E9M/?tag=tolees-21)
+[![Atosa - Disfraz de vikingo para hombre  ](https://m.media-amazon.com/images/I/41rQv9WYBLL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B008OI5E9M/?tag=tolees-21)
 
 🔎:
 

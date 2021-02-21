@@ -2,7 +2,7 @@
 layout: post
 title: 'Mondial A10 Placa de Calefacción  1500 W al 36.89 % de descuento'
 date: 2020-02-07 06:20:58
-image: 'https://m.media-amazon.com/images/I/41g1uDmOsKL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41g1uDmOsKL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '62.0125'
 
 Está [Mondial A10 Placa de Calefacción  1500 W  Gris](https://www.amazon.es/dp/B076QBHTZL/?tag=tolees-21) con 36.89 de descuento por 53.58 EUR (original: 84.9 EUR) en el siguiente enlace!
 
-[![Mondial A10 Placa de Calefacción  1500 W](https://m.media-amazon.com/images/I/41g1uDmOsKL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B076QBHTZL/?tag=tolees-21)
+[![Mondial A10 Placa de Calefacción  1500 W](https://m.media-amazon.com/images/I/41g1uDmOsKL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B076QBHTZL/?tag=tolees-21)
 
 ℹ️:
 

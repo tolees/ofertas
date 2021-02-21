@@ -2,7 +2,7 @@
 layout: post
 title: 'Stanley 1-51-937 Martillo de carpintero con un 31.92 % de descuento'
 date: 2020-01-23 10:42:45
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41zLQBDk18L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41zLQBDk18L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.95'
 
 En este momento está [Stanley 1-51-937 Martillo de carpintero](https://www.amazon.es/dp/B000VCZU8O/?tag=tolees-21) a 29.95 EUR (original: 43.99 EUR) (31.92 %  de descuento) en el siguiente enlace!
 
-[![Stanley 1-51-937 Martillo de carpintero](https://images-eu.ssl-images-amazon.com/images/I/41zLQBDk18L._SL200_.jpg)](https://www.amazon.es/dp/B000VCZU8O/?tag=tolees-21)
+[![Stanley 1-51-937 Martillo de carpintero](https://images-eu.ssl-images-amazon.com/images/I/41zLQBDk18L._SL400_.jpg)](https://www.amazon.es/dp/B000VCZU8O/?tag=tolees-21)
 
 🔎:
 

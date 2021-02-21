@@ -2,7 +2,7 @@
 layout: post
 title: 'Doact Corrector de Postura  Corrector de con un 56.03 % de descuento'
 date: 2020-02-17 13:15:44
-image: 'https://m.media-amazon.com/images/I/41vLuBPED1L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41vLuBPED1L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.389999999999999'
 
 En este momento está [Doact Corrector de Postura  Corrector de Postura Espalda con Hombreras Blandas y Cinturones Elásticos Ajustables para Niños y Adolescentes Cifosis  Jorobado  L ](https://www.amazon.es/dp/B07K24LL3T/?tag=tolees-21) a 8.79 EUR (original: 19.99 EUR) (56.03 %  de descuento) en el siguiente enlace!
 
-[![Doact Corrector de Postura  Corrector de](https://m.media-amazon.com/images/I/41vLuBPED1L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07K24LL3T/?tag=tolees-21)
+[![Doact Corrector de Postura  Corrector de](https://m.media-amazon.com/images/I/41vLuBPED1L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07K24LL3T/?tag=tolees-21)
 
 🔎:
 

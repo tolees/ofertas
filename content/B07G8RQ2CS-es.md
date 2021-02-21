@@ -2,7 +2,7 @@
 layout: post
 title: 'Saucony Guide ISO 2  Zapatillas de Runni al 51.79 % de descuento'
 date: 2020-01-13 14:15:48
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41YhIaY-siL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41YhIaY-siL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '69.9'
 
 Ahora mismo tienes [Saucony Guide ISO 2  Zapatillas de Running para Hombre  Naranja  Blue/Orange 36   42 EU](https://www.amazon.es/dp/B07G8RQ2CS/?tag=tolees-21) a 69.9 EUR (original: 145 EUR) (51.79 %  de descuento) en el siguiente enlace!
 
-[![Saucony Guide ISO 2  Zapatillas de Runni](https://images-eu.ssl-images-amazon.com/images/I/41YhIaY-siL._SL200_.jpg)](https://www.amazon.es/dp/B07G8RQ2CS/?tag=tolees-21)
+[![Saucony Guide ISO 2  Zapatillas de Runni](https://images-eu.ssl-images-amazon.com/images/I/41YhIaY-siL._SL400_.jpg)](https://www.amazon.es/dp/B07G8RQ2CS/?tag=tolees-21)
 
 🔎:
 

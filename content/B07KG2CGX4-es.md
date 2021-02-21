@@ -2,7 +2,7 @@
 layout: post
 title: 'PUMA Smash V2  Zapatillas Unisex Adulto  al 30.03 % de rebaja'
 date: 2020-10-10 14:11:21
-image: 'https://m.media-amazon.com/images/I/41-YNrLa--L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41-YNrLa--L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '42.13333333333333'
 
 Tienes [PUMA Smash V2  Zapatillas Unisex Adulto  Gris  Castlerock Black White   43 EU](https://www.amazon.es/dp/B07KG2CGX4/?tag=tolees-21) con precio final de  38.45 EUR (original: 54.95 EUR) (30.03 %  de rebaja) aqui!
 
-[![PUMA Smash V2  Zapatillas Unisex Adulto ](https://m.media-amazon.com/images/I/41-YNrLa--L._SL200_.jpg)](https://www.amazon.es/dp/B07KG2CGX4/?tag=tolees-21)
+[![PUMA Smash V2  Zapatillas Unisex Adulto ](https://m.media-amazon.com/images/I/41-YNrLa--L._SL400_.jpg)](https://www.amazon.es/dp/B07KG2CGX4/?tag=tolees-21)
 
 🔎:
 

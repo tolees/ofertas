@@ -2,7 +2,7 @@
 layout: post
 title: 'Funko Pop Pusheen Mermaid  Multicolor  F al 35.50 % de rebaja'
 date: 2020-01-10 18:49:18
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41hqNZDGSVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41hqNZDGSVL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.25'
 
 Tienes [Funko Pop Pusheen Mermaid  Multicolor  FK34105 ](https://www.amazon.es/dp/B07DFDTK9V/?tag=tolees-21) con precio final de  8.25 EUR (original: 12.79 EUR) (35.50 %  de rebaja) aqui!
 
-[![Funko Pop Pusheen Mermaid  Multicolor  F](https://images-eu.ssl-images-amazon.com/images/I/41hqNZDGSVL._SL200_.jpg)](https://www.amazon.es/dp/B07DFDTK9V/?tag=tolees-21)
+[![Funko Pop Pusheen Mermaid  Multicolor  F](https://images-eu.ssl-images-amazon.com/images/I/41hqNZDGSVL._SL400_.jpg)](https://www.amazon.es/dp/B07DFDTK9V/?tag=tolees-21)
 
 🔎:
 

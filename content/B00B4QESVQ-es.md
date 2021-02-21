@@ -2,7 +2,7 @@
 layout: post
 title: 'HGST Travelstar 7K1000 1TB - Disco Duro  al 36.41 % de rebaja'
 date: 2020-09-22 09:18:49
-image: 'https://m.media-amazon.com/images/I/51W8+WuxJjL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51W8+WuxJjL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '51.26'
 
 Tienes [HGST Travelstar 7K1000 1TB - Disco Duro Interno de 1 TB  Serial ATA III  1000 GB  2.5"   Negro y Plateado](https://www.amazon.es/dp/B00B4QESVQ/?tag=tolees-21) con precio final de  51.26 EUR (original: 80.61 EUR) (36.41 %  de rebaja) aqui!
 
-[![HGST Travelstar 7K1000 1TB - Disco Duro ](https://m.media-amazon.com/images/I/51W8+WuxJjL._SL200_.jpg)](https://www.amazon.es/dp/B00B4QESVQ/?tag=tolees-21)
+[![HGST Travelstar 7K1000 1TB - Disco Duro ](https://m.media-amazon.com/images/I/51W8+WuxJjL._SL400_.jpg)](https://www.amazon.es/dp/B00B4QESVQ/?tag=tolees-21)
 
 🔎:
 

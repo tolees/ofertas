@@ -2,7 +2,7 @@
 layout: post
 title: 'Reloj Viceroy Hombre 42367-16 Colección  al 33.76 % de descuento'
 date: 2020-10-03 04:21:10
-image: 'https://m.media-amazon.com/images/I/41JrBG9t8WL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41JrBG9t8WL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '92.07'
 
 Ahora mismo tienes [Reloj Viceroy Hombre 42367-16 Colección Antonio Banderas](https://www.amazon.es/dp/B07K4GMP2W/?tag=tolees-21) a 92.07 EUR (original: 139.0 EUR) (33.76 %  de descuento) en el siguiente enlace!
 
-[![Reloj Viceroy Hombre 42367-16 Colección ](https://m.media-amazon.com/images/I/41JrBG9t8WL._SL200_.jpg)](https://www.amazon.es/dp/B07K4GMP2W/?tag=tolees-21)
+[![Reloj Viceroy Hombre 42367-16 Colección ](https://m.media-amazon.com/images/I/41JrBG9t8WL._SL400_.jpg)](https://www.amazon.es/dp/B07K4GMP2W/?tag=tolees-21)
 
 🔎:
 

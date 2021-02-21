@@ -2,7 +2,7 @@
 layout: post
 title: 'PUMA Vikky V2  Zapatillas para Mujer  Ne al 60.20 % de descuento'
 date: 2020-06-28 07:35:52
-image: 'https://m.media-amazon.com/images/I/31V6uZEgTCL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31V6uZEgTCL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.186666666666667'
 
 Ahora mismo tienes [PUMA Vikky V2  Zapatillas para Mujer  Negro Black White Silver  36 EU](https://www.amazon.es/dp/B07DBWXNVH/?tag=tolees-21) a 21.87 EUR (original: 54.95 EUR) (60.20 %  de descuento) en el siguiente enlace!
 
-[![PUMA Vikky V2  Zapatillas para Mujer  Ne](https://m.media-amazon.com/images/I/31V6uZEgTCL._SL200_.jpg)](https://www.amazon.es/dp/B07DBWXNVH/?tag=tolees-21)
+[![PUMA Vikky V2  Zapatillas para Mujer  Ne](https://m.media-amazon.com/images/I/31V6uZEgTCL._SL400_.jpg)](https://www.amazon.es/dp/B07DBWXNVH/?tag=tolees-21)
 
 🔎:
 

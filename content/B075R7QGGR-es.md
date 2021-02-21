@@ -2,7 +2,7 @@
 layout: post
 title: 'New Balance Fresh Foam Cruz v2  Zapatill al 40.00 % de descuento'
 date: 2020-01-23 15:57:23
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41XjlE6ZQmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41XjlE6ZQmL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '57'
 
 Ahora mismo tienes [New Balance Fresh Foam Cruz v2  Zapatillas para Mujer  Rosa  Conch Shell/Dark Oxide Na2   37.5 EU](https://www.amazon.es/dp/B075R7QGGR/?tag=tolees-21) a 57 EUR (original: 95 EUR) (40.00 %  de descuento) en el siguiente enlace!
 
-[![New Balance Fresh Foam Cruz v2  Zapatill](https://images-eu.ssl-images-amazon.com/images/I/41XjlE6ZQmL._SL200_.jpg)](https://www.amazon.es/dp/B075R7QGGR/?tag=tolees-21)
+[![New Balance Fresh Foam Cruz v2  Zapatill](https://images-eu.ssl-images-amazon.com/images/I/41XjlE6ZQmL._SL400_.jpg)](https://www.amazon.es/dp/B075R7QGGR/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'One For All URC1912 - Mando a Distancia  al 36.38 % de rebaja'
 date: 2020-09-07 18:53:45
-image: 'https://m.media-amazon.com/images/I/31PrjriAIhL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31PrjriAIhL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.183333333333332'
 
 Tienes [One For All URC1912 - Mando a Distancia de reemplazo para Televisores Sony – Control Remoto Universal para Todo Tipo de TVs de la Marca Sony](https://www.amazon.es/dp/B00Z9YXDTW/?tag=tolees-21) con precio final de  13.99 EUR (original: 21.99 EUR) (36.38 %  de rebaja) aqui!
 
-[![One For All URC1912 - Mando a Distancia ](https://m.media-amazon.com/images/I/31PrjriAIhL._SL200_.jpg)](https://www.amazon.es/dp/B00Z9YXDTW/?tag=tolees-21)
+[![One For All URC1912 - Mando a Distancia ](https://m.media-amazon.com/images/I/31PrjriAIhL._SL400_.jpg)](https://www.amazon.es/dp/B00Z9YXDTW/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'NMBC Cojín de Asiento de Coche con Cuent al 40.12 % de descuento'
 date: 2020-05-14 17:02:05
-image: 'https://m.media-amazon.com/images/I/61LRFNAyopL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61LRFNAyopL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '72.99'
 
 Ahora mismo tienes [NMBC Cojín de Asiento de Coche con Cuentas de Madera 1 con Masaje Cojín Lumbar Asiento de Coche Transpirable Protector de cojín de Asiento de coche-48x98 cm A](https://www.amazon.es/dp/B0872LNKWG/?tag=tolees-21) a 72.99 EUR (original: 121.9 EUR) (40.12 %  de descuento) en el siguiente enlace!
 
-[![NMBC Cojín de Asiento de Coche con Cuent](https://m.media-amazon.com/images/I/61LRFNAyopL._SL200_.jpg)](https://www.amazon.es/dp/B0872LNKWG/?tag=tolees-21)
+[![NMBC Cojín de Asiento de Coche con Cuent](https://m.media-amazon.com/images/I/61LRFNAyopL._SL400_.jpg)](https://www.amazon.es/dp/B0872LNKWG/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Philips Pro HPS920/00 - Secador profesio con un 41.87 % de descuento'
 date: 2020-06-20 14:34:53
-image: 'https://m.media-amazon.com/images/I/316vS5DpU7L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/316vS5DpU7L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '49.99'
 
 En este momento está [Philips Pro HPS920/00 - Secador profesional  2300 W  6 ajustes de potencia  2 boquillas concentradoras  color negro](https://www.amazon.es/dp/B00ECBUK58/?tag=tolees-21) a 49.99 EUR (original: 85.99 EUR) (41.87 %  de descuento) en el siguiente enlace!
 
-[![Philips Pro HPS920/00 - Secador profesio](https://m.media-amazon.com/images/I/316vS5DpU7L._SL200_.jpg)](https://www.amazon.es/dp/B00ECBUK58/?tag=tolees-21)
+[![Philips Pro HPS920/00 - Secador profesio](https://m.media-amazon.com/images/I/316vS5DpU7L._SL400_.jpg)](https://www.amazon.es/dp/B00ECBUK58/?tag=tolees-21)
 
 🔎:
 

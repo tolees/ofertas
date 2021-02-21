@@ -2,7 +2,7 @@
 layout: post
 title: 'Orlane  Maquillaje corrector - 200 gr. con un 28.20 % de descuento'
 date: 2020-03-01 00:53:11
-image: 'https://m.media-amazon.com/images/I/31aT8D0PwHL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31aT8D0PwHL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.95'
 
 En este momento está [Orlane  Maquillaje corrector - 200 gr.](https://www.amazon.es/dp/B01ELHQDP8/?tag=tolees-21) a 17.95 EUR (original: 25.0 EUR) (28.20 %  de descuento) en el siguiente enlace!
 
-[![Orlane  Maquillaje corrector - 200 gr.](https://m.media-amazon.com/images/I/31aT8D0PwHL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01ELHQDP8/?tag=tolees-21)
+[![Orlane  Maquillaje corrector - 200 gr.](https://m.media-amazon.com/images/I/31aT8D0PwHL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01ELHQDP8/?tag=tolees-21)
 
 🔎:
 

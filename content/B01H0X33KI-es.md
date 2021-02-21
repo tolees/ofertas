@@ -2,7 +2,7 @@
 layout: post
 title: 'Steep con un 53.26 % de descuento'
 date: 2020-05-24 20:19:52
-image: 'https://m.media-amazon.com/images/I/51m5rcGaHpL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51m5rcGaHpL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.530000000000001'
 
 En este momento está [Steep](https://www.amazon.es/dp/B01H0X33KI/?tag=tolees-21) a 14.0 EUR (original: 29.95 EUR) (53.26 %  de descuento) en el siguiente enlace!
 
-[![Steep](https://m.media-amazon.com/images/I/51m5rcGaHpL._SL200_.jpg)](https://www.amazon.es/dp/B01H0X33KI/?tag=tolees-21)
+[![Steep](https://m.media-amazon.com/images/I/51m5rcGaHpL._SL400_.jpg)](https://www.amazon.es/dp/B01H0X33KI/?tag=tolees-21)
 
 🔎:
 

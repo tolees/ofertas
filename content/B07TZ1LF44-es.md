@@ -2,7 +2,7 @@
 layout: post
 title: 'Kipling Creativity S  Cartera para Mujer al 40.00 % de rebaja'
 date: 2020-06-21 15:08:49
-image: 'https://m.media-amazon.com/images/I/41UblSz5FAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41UblSz5FAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.4'
 
 Tienes [Kipling Creativity S  Cartera para Mujer  Verde  Light Aloe   14.5x9.5x5 cm](https://www.amazon.es/dp/B07TZ1LF44/?tag=tolees-21) con precio final de  14.4 EUR (original: 24.0 EUR) (40.00 %  de rebaja) aqui!
 
-[![Kipling Creativity S  Cartera para Mujer](https://m.media-amazon.com/images/I/41UblSz5FAL._SL200_.jpg)](https://www.amazon.es/dp/B07TZ1LF44/?tag=tolees-21)
+[![Kipling Creativity S  Cartera para Mujer](https://m.media-amazon.com/images/I/41UblSz5FAL._SL400_.jpg)](https://www.amazon.es/dp/B07TZ1LF44/?tag=tolees-21)
 
 🔎:
 

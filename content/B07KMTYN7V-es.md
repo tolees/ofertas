@@ -2,7 +2,7 @@
 layout: post
 title: 'Craghoppers  Niñas Neopolitan Hybrid  Un al 37.97 % de descuento'
 date: 2020-07-15 11:46:18
-image: 'https://m.media-amazon.com/images/I/41ZT60EihiL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ZT60EihiL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '26.2'
 
 Ahora mismo tienes [Craghoppers  Niñas Neopolitan Hybrid  Unisex niños  color Rosa marina.  tamaño 9-10](https://www.amazon.es/dp/B07KMTYN7V/?tag=tolees-21) a 26.2 EUR (original: 42.24 EUR) (37.97 %  de descuento) en el siguiente enlace!
 
-[![Craghoppers  Niñas Neopolitan Hybrid  Un](https://m.media-amazon.com/images/I/41ZT60EihiL._SL200_.jpg)](https://www.amazon.es/dp/B07KMTYN7V/?tag=tolees-21)
+[![Craghoppers  Niñas Neopolitan Hybrid  Un](https://m.media-amazon.com/images/I/41ZT60EihiL._SL400_.jpg)](https://www.amazon.es/dp/B07KMTYN7V/?tag=tolees-21)
 
 🔎:
 

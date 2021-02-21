@@ -2,7 +2,7 @@
 layout: post
 title: 'LEXIBOOK Powerman: el Robot Educativo In al 40.01 % de descuento'
 date: 2020-10-05 15:03:07
-image: 'https://m.media-amazon.com/images/I/51Mft-mxk0L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Mft-mxk0L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '34.40857142857143'
 
 Ahora mismo tienes [LEXIBOOK Powerman: el Robot Educativo Inteligente para Jugar y Aprender  Baila  Canta  Cuenta Chistes  Mando a distanc Distancia  Color Blanco  ROB50ES ](https://www.amazon.es/dp/B07HXH7DYD/?tag=tolees-21) a 29.99 EUR (original: 49.99 EUR) (40.01 %  de descuento) en el siguiente enlace!
 
-[![LEXIBOOK Powerman: el Robot Educativo In](https://m.media-amazon.com/images/I/51Mft-mxk0L._SL200_.jpg)](https://www.amazon.es/dp/B07HXH7DYD/?tag=tolees-21)
+[![LEXIBOOK Powerman: el Robot Educativo In](https://m.media-amazon.com/images/I/51Mft-mxk0L._SL400_.jpg)](https://www.amazon.es/dp/B07HXH7DYD/?tag=tolees-21)
 
 🔎:
 

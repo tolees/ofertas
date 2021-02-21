@@ -2,7 +2,7 @@
 layout: post
 title: 'SALOMON Speed Pro 1 Par de Calcetines To al 52.21 % de descuento'
 date: 2020-03-10 07:56:53
-image: 'https://m.media-amazon.com/images/I/31AMKrqzkyL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31AMKrqzkyL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.960000000000001'
 
 Ahora mismo tienes [SALOMON Speed Pro 1 Par de Calcetines Tobilleros  Unisex Adulto  Gris Claro/Turquesa  Waterfall   M  39-41 ](https://www.amazon.es/dp/B07KP2H3H7/?tag=tolees-21) a 6.69 EUR (original: 14.0 EUR) (52.21 %  de descuento) en el siguiente enlace!
 
-[![SALOMON Speed Pro 1 Par de Calcetines To](https://m.media-amazon.com/images/I/31AMKrqzkyL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07KP2H3H7/?tag=tolees-21)
+[![SALOMON Speed Pro 1 Par de Calcetines To](https://m.media-amazon.com/images/I/31AMKrqzkyL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07KP2H3H7/?tag=tolees-21)
 
 🔎:
 

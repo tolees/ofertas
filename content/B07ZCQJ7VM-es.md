@@ -2,7 +2,7 @@
 layout: post
 title: 'ESR Cargador Inalámbrico Rápido  7.5W Ca al 30.02 % de descuento'
 date: 2020-07-29 19:31:01
-image: 'https://m.media-amazon.com/images/I/41kklFmDPKL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41kklFmDPKL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.99'
 
 Ahora mismo tienes [ESR Cargador Inalámbrico Rápido  7.5W Carga rápida para iPhone SE/11/11 Pro/11 Pro MAX/XS MAX/XS/XR  10W para Galaxy S20/S20+/S10/S10+/S10e/S9+/S9/S8+/S8  5W AirPods Pro  Cubierta Silicona Desmontable](https://www.amazon.es/dp/B07ZCQJ7VM/?tag=tolees-21) a 13.99 EUR (original: 19.99 EUR) (30.02 %  de descuento) en el siguiente enlace!
 
-[![ESR Cargador Inalámbrico Rápido  7.5W Ca](https://m.media-amazon.com/images/I/41kklFmDPKL._SL200_.jpg)](https://www.amazon.es/dp/B07ZCQJ7VM/?tag=tolees-21)
+[![ESR Cargador Inalámbrico Rápido  7.5W Ca](https://m.media-amazon.com/images/I/41kklFmDPKL._SL400_.jpg)](https://www.amazon.es/dp/B07ZCQJ7VM/?tag=tolees-21)
 
 🔎:
 

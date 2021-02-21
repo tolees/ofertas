@@ -2,7 +2,7 @@
 layout: post
 title: 'Microondas Cocina rápida Tejido de polié al 31.20 % de descuento'
 date: 2020-05-14 12:33:58
-image: 'https://m.media-amazon.com/images/I/51Ad2pjCmZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Ad2pjCmZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.41'
 
 Está [Microondas Cocina rápida Tejido de poliéster Lavable Bolsa de Fibra Cocción de Papas Hornear Capacidad para hasta 4 Papas - Rojo](https://www.amazon.es/dp/B086ZHMHGN/?tag=tolees-21) con 31.20 de descuento por 4.41 EUR (original: 6.41 EUR) en el siguiente enlace!
 
-[![Microondas Cocina rápida Tejido de polié](https://m.media-amazon.com/images/I/51Ad2pjCmZL._SL200_.jpg)](https://www.amazon.es/dp/B086ZHMHGN/?tag=tolees-21)
+[![Microondas Cocina rápida Tejido de polié](https://m.media-amazon.com/images/I/51Ad2pjCmZL._SL400_.jpg)](https://www.amazon.es/dp/B086ZHMHGN/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Yamaha EZ-220 - Teclado digital portátil al 29.02 % de descuento'
 date: 2020-01-19 15:53:17
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41wymb7hu1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41wymb7hu1L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '166.8'
 
 Ahora mismo tienes [Yamaha EZ-220 - Teclado digital portátil de iniciación  con 61 teclas retroiluminadas sensibles a la pulsación y392 voces de alta calidad incorporadas  color negro](https://www.amazon.es/dp/B0081G2SBO/?tag=tolees-21) a 166.8 EUR (original: 235 EUR) (29.02 %  de descuento) en el siguiente enlace!
 
-[![Yamaha EZ-220 - Teclado digital portátil](https://images-eu.ssl-images-amazon.com/images/I/41wymb7hu1L._SL200_.jpg)](https://www.amazon.es/dp/B0081G2SBO/?tag=tolees-21)
+[![Yamaha EZ-220 - Teclado digital portátil](https://images-eu.ssl-images-amazon.com/images/I/41wymb7hu1L._SL400_.jpg)](https://www.amazon.es/dp/B0081G2SBO/?tag=tolees-21)
 
 🔎:
 

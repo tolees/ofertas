@@ -2,7 +2,7 @@
 layout: post
 title: 'YuhooTech Cámara Trasera Lente Pantalla  al 79.29 % de descuento'
 date: 2020-06-24 17:33:02
-image: 'https://m.media-amazon.com/images/I/41aJT2HarqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41aJT2HarqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.22'
 
 Está [YuhooTech Cámara Trasera Lente Pantalla para Huawei P20 Pro  Protector de Pantalla Cámara Cristal Vidrio Templado Premium-1 Pack](https://www.amazon.es/dp/B07NV86WDH/?tag=tolees-21) con 79.29 de descuento por 1.22 EUR (original: 5.89 EUR) en el siguiente enlace!
 
-[![YuhooTech Cámara Trasera Lente Pantalla ](https://m.media-amazon.com/images/I/41aJT2HarqL._SL200_.jpg)](https://www.amazon.es/dp/B07NV86WDH/?tag=tolees-21)
+[![YuhooTech Cámara Trasera Lente Pantalla ](https://m.media-amazon.com/images/I/41aJT2HarqL._SL400_.jpg)](https://www.amazon.es/dp/B07NV86WDH/?tag=tolees-21)
 
 ℹ️:
 

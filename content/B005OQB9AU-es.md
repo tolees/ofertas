@@ -2,7 +2,7 @@
 layout: post
 title: 'IMC Toys - Pilla Ratón  43-7413  al 44.33 % de rebaja'
 date: 2020-03-26 17:07:43
-image: 'https://m.media-amazon.com/images/I/61lvAKs7tXL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61lvAKs7tXL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.784999999999997'
 
 Tienes [IMC Toys - Pilla Ratón  43-7413 ](https://www.amazon.es/dp/B005OQB9AU/?tag=tolees-21) con precio final de  21.15 EUR (original: 37.99 EUR) (44.33 %  de rebaja) aqui!
 
-[![IMC Toys - Pilla Ratón  43-7413 ](https://m.media-amazon.com/images/I/61lvAKs7tXL._SL200_.jpg)](https://www.amazon.es/dp/B005OQB9AU/?tag=tolees-21)
+[![IMC Toys - Pilla Ratón  43-7413 ](https://m.media-amazon.com/images/I/61lvAKs7tXL._SL400_.jpg)](https://www.amazon.es/dp/B005OQB9AU/?tag=tolees-21)
 
 🔎:
 

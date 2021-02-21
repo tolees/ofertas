@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger Core Corporate Leather Sn al 50.00 % de descuento'
 date: 2020-06-12 15:31:41
-image: 'https://m.media-amazon.com/images/I/41hRTaUmOWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41hRTaUmOWL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '49.95'
 
 Está [Tommy Hilfiger Core Corporate Leather Sneaker  Zapatillas para Hombre  Azul  Desert Sky Dw5   40 EU](https://www.amazon.es/dp/B07V2J2SJ1/?tag=tolees-21) con 50.00 de descuento por 49.95 EUR (original: 99.9 EUR) en el siguiente enlace!
 
-[![Tommy Hilfiger Core Corporate Leather Sn](https://m.media-amazon.com/images/I/41hRTaUmOWL._SL200_.jpg)](https://www.amazon.es/dp/B07V2J2SJ1/?tag=tolees-21)
+[![Tommy Hilfiger Core Corporate Leather Sn](https://m.media-amazon.com/images/I/41hRTaUmOWL._SL400_.jpg)](https://www.amazon.es/dp/B07V2J2SJ1/?tag=tolees-21)
 
 ℹ️:
 

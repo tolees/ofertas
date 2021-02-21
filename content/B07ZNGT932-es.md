@@ -2,7 +2,7 @@
 layout: post
 title: 'BSEED Interruptor de luz Interruptor de  al 44.44 % de descuento'
 date: 2020-09-02 12:01:59
-image: 'https://m.media-amazon.com/images/I/31Cmb-wOyGL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Cmb-wOyGL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.65'
 
 Ahora mismo tienes [BSEED Interruptor de luz Interruptor de pared con Botón Pulsador Cruzado 1 Gang 3 Vías Panel de Vidrio 10A sin Tornillos Interruptor de Palanca Conmutable Blanco](https://www.amazon.es/dp/B07ZNGT932/?tag=tolees-21) a 8.4 EUR (original: 15.12 EUR) (44.44 %  de descuento) en el siguiente enlace!
 
-[![BSEED Interruptor de luz Interruptor de ](https://m.media-amazon.com/images/I/31Cmb-wOyGL._SL200_.jpg)](https://www.amazon.es/dp/B07ZNGT932/?tag=tolees-21)
+[![BSEED Interruptor de luz Interruptor de ](https://m.media-amazon.com/images/I/31Cmb-wOyGL._SL400_.jpg)](https://www.amazon.es/dp/B07ZNGT932/?tag=tolees-21)
 
 🔎:
 

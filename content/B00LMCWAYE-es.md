@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 44.37 % en Joseph Joseph Palm Scrub Cepillo Dispens'
 date: 2020-08-22 11:09:19
-image: 'https://m.media-amazon.com/images/I/41aue4gJeuL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41aue4gJeuL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.313333333333334'
 
 Tienes [Joseph Joseph Palm Scrub Cepillo Dispensador  Verde  8.8x9.5x13.5 cm](https://www.amazon.es/dp/B00LMCWAYE/?tag=tolees-21) con un 44.37 % de descuento con precio de oferta de 8.89 EUR (original: 15.98 EUR) en el siguiente enlace!
 
-[![Joseph Joseph Palm Scrub Cepillo Dispens](https://m.media-amazon.com/images/I/41aue4gJeuL._SL200_.jpg)](https://www.amazon.es/dp/B00LMCWAYE/?tag=tolees-21)
+[![Joseph Joseph Palm Scrub Cepillo Dispens](https://m.media-amazon.com/images/I/41aue4gJeuL._SL400_.jpg)](https://www.amazon.es/dp/B00LMCWAYE/?tag=tolees-21)
 
 ℹ️:
 

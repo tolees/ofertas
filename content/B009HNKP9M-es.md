@@ -2,7 +2,7 @@
 layout: post
 title: 'Rayen 6061 - Funda para aire acondiciona al 30.94 % de rebaja'
 date: 2020-08-18 14:18:58
-image: 'https://m.media-amazon.com/images/I/31dVc6mBxUL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31dVc6mBxUL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.1175'
 
 Tienes [Rayen 6061 - Funda para aire acondicionado  con doble sistema de ajuste  90 x 55 x 30 cm](https://www.amazon.es/dp/B009HNKP9M/?tag=tolees-21) con precio final de  8.75 EUR (original: 12.67 EUR) (30.94 %  de rebaja) aqui!
 
-[![Rayen 6061 - Funda para aire acondiciona](https://m.media-amazon.com/images/I/31dVc6mBxUL._SL200_.jpg)](https://www.amazon.es/dp/B009HNKP9M/?tag=tolees-21)
+[![Rayen 6061 - Funda para aire acondiciona](https://m.media-amazon.com/images/I/31dVc6mBxUL._SL400_.jpg)](https://www.amazon.es/dp/B009HNKP9M/?tag=tolees-21)
 
 🔎:
 

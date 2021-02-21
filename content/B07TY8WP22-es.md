@@ -2,7 +2,7 @@
 layout: post
 title: 'L Oréal Paris Rouge Signature 203 I Magn al 47.31 % de descuento'
 date: 2020-02-25 21:03:19
-image: 'https://m.media-amazon.com/images/I/31qzLXOuo4L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31qzLXOuo4L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.35'
 
 Ahora mismo tienes [L Oréal Paris Rouge Signature 203 I Magnetize Pintalabios Metálico Permanente Rojo](https://www.amazon.es/dp/B07TY8WP22/?tag=tolees-21) a 7.35 EUR (original: 13.95 EUR) (47.31 %  de descuento) en el siguiente enlace!
 
-[![L Oréal Paris Rouge Signature 203 I Magn](https://m.media-amazon.com/images/I/31qzLXOuo4L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07TY8WP22/?tag=tolees-21)
+[![L Oréal Paris Rouge Signature 203 I Magn](https://m.media-amazon.com/images/I/31qzLXOuo4L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07TY8WP22/?tag=tolees-21)
 
 🔎:
 

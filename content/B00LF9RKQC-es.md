@@ -2,7 +2,7 @@
 layout: post
 title: 'Brabantia 380020 - Pincel de repostería  al 33.79 % de rebaja'
 date: 2020-10-06 23:57:33
-image: 'https://m.media-amazon.com/images/I/31vqZwfVnbL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31vqZwfVnbL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.756666666666667'
 
 Tienes [Brabantia 380020 - Pincel de repostería Grande  Acero y Silicona  Color Gris y Negro](https://www.amazon.es/dp/B00LF9RKQC/?tag=tolees-21) con precio final de  6.29 EUR (original: 9.5 EUR) (33.79 %  de rebaja) aqui!
 
-[![Brabantia 380020 - Pincel de repostería ](https://m.media-amazon.com/images/I/31vqZwfVnbL._SL200_.jpg)](https://www.amazon.es/dp/B00LF9RKQC/?tag=tolees-21)
+[![Brabantia 380020 - Pincel de repostería ](https://m.media-amazon.com/images/I/31vqZwfVnbL._SL400_.jpg)](https://www.amazon.es/dp/B00LF9RKQC/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Merrell Moab 2 Vent  Zapatillas de Sende con un 34.55 % de descuento'
 date: 2020-05-21 08:46:36
-image: 'https://m.media-amazon.com/images/I/41NuqqP8-cL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41NuqqP8-cL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '71.99'
 
 En este momento está [Merrell Moab 2 Vent  Zapatillas de Senderismo para Hombre  Gris  Boulder   43 EU](https://www.amazon.es/dp/B07TYY4T3W/?tag=tolees-21) a 71.99 EUR (original: 110.0 EUR) (34.55 %  de descuento) en el siguiente enlace!
 
-[![Merrell Moab 2 Vent  Zapatillas de Sende](https://m.media-amazon.com/images/I/41NuqqP8-cL._SL200_.jpg)](https://www.amazon.es/dp/B07TYY4T3W/?tag=tolees-21)
+[![Merrell Moab 2 Vent  Zapatillas de Sende](https://m.media-amazon.com/images/I/41NuqqP8-cL._SL400_.jpg)](https://www.amazon.es/dp/B07TYY4T3W/?tag=tolees-21)
 
 🔎:
 

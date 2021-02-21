@@ -2,7 +2,7 @@
 layout: post
 title: 'FOSITAN Anillo de Luz LED 55W 5500K 18"  al 59.50 % de descuento'
 date: 2020-04-16 00:24:36
-image: 'https://m.media-amazon.com/images/I/41xIuQ0-QLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41xIuQ0-QLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '80.99'
 
 Está [FOSITAN Anillo de Luz LED 55W 5500K 18" Exterior de Iluminación de Anillo de Foto de Cámara LED de Regulable con 2M Soporte de Luz and Receptor Bluetooth para Estudio de Vlogging de Youtube Video](https://www.amazon.es/dp/B075Q5P6FD/?tag=tolees-21) con 59.50 de descuento por 80.99 EUR (original: 199.99 EUR) en el siguiente enlace!
 
-[![FOSITAN Anillo de Luz LED 55W 5500K 18" ](https://m.media-amazon.com/images/I/41xIuQ0-QLL._SL200_.jpg)](https://www.amazon.es/dp/B075Q5P6FD/?tag=tolees-21)
+[![FOSITAN Anillo de Luz LED 55W 5500K 18" ](https://m.media-amazon.com/images/I/41xIuQ0-QLL._SL400_.jpg)](https://www.amazon.es/dp/B075Q5P6FD/?tag=tolees-21)
 
 ℹ️:
 

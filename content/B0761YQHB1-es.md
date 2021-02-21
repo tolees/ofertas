@@ -2,7 +2,7 @@
 layout: post
 title: 'Iridium Labs Cerberus Suplemento - 60 Cá al 49.29 % de descuento'
 date: 2020-07-02 13:22:36
-image: 'https://m.media-amazon.com/images/I/41+rcfYsaAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41+rcfYsaAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.75'
 
 Está [Iridium Labs Cerberus Suplemento - 60 Cápsulas](https://www.amazon.es/dp/B0761YQHB1/?tag=tolees-21) con 49.29 de descuento por 17.75 EUR (original: 35.0 EUR) en el siguiente enlace!
 
-[![Iridium Labs Cerberus Suplemento - 60 Cá](https://m.media-amazon.com/images/I/41+rcfYsaAL._SL200_.jpg)](https://www.amazon.es/dp/B0761YQHB1/?tag=tolees-21)
+[![Iridium Labs Cerberus Suplemento - 60 Cá](https://m.media-amazon.com/images/I/41+rcfYsaAL._SL400_.jpg)](https://www.amazon.es/dp/B0761YQHB1/?tag=tolees-21)
 
 ℹ️:
 

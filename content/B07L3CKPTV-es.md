@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger Lightweight Leather Sneak con un 33.83 % de descuento'
 date: 2020-10-11 06:16:03
-image: 'https://m.media-amazon.com/images/I/31A4NYf0Z0L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31A4NYf0Z0L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '59.49'
 
 En este momento está [Tommy Hilfiger Lightweight Leather Sneaker  Zapatillas para Mujer  Rojo  RWB 020   39 EU](https://www.amazon.es/dp/B07L3CKPTV/?tag=tolees-21) a 59.49 EUR (original: 89.9 EUR) (33.83 %  de descuento) en el siguiente enlace!
 
-[![Tommy Hilfiger Lightweight Leather Sneak](https://m.media-amazon.com/images/I/31A4NYf0Z0L._SL200_.jpg)](https://www.amazon.es/dp/B07L3CKPTV/?tag=tolees-21)
+[![Tommy Hilfiger Lightweight Leather Sneak](https://m.media-amazon.com/images/I/31A4NYf0Z0L._SL400_.jpg)](https://www.amazon.es/dp/B07L3CKPTV/?tag=tolees-21)
 
 🔎:
 

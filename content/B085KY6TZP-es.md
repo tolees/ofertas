@@ -2,7 +2,7 @@
 layout: post
 title: 'Máscara ffp2  Máscara para Exteriores  M al 46.19 % de descuento'
 date: 2020-03-14 21:30:19
-image: 'https://m.media-amazon.com/images/I/31wcrf0M-wL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31wcrf0M-wL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.99'
 
 Está [Máscara ffp2  Máscara para Exteriores  Máscara anticontaminación Anti Pm2.5  Prevención con Capas de válvula FFP2 Filtro de Smog  Polvo  frío  1 ](https://www.amazon.es/dp/B085KY6TZP/?tag=tolees-21) con 46.19 de descuento por 6.99 EUR (original: 12.99 EUR) en el siguiente enlace!
 
-[![Máscara ffp2  Máscara para Exteriores  M](https://m.media-amazon.com/images/I/31wcrf0M-wL._SL200_.jpg)](https://www.amazon.es/dp/B085KY6TZP/?tag=tolees-21)
+[![Máscara ffp2  Máscara para Exteriores  M](https://m.media-amazon.com/images/I/31wcrf0M-wL._SL400_.jpg)](https://www.amazon.es/dp/B085KY6TZP/?tag=tolees-21)
 
 ℹ️:
 

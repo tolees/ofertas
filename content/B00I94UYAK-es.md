@@ -2,7 +2,7 @@
 layout: post
 title: 'Trio Lighting 603900302 Lámpara de techo al 62.75 % de rebaja'
 date: 2020-06-03 20:12:36
-image: 'https://m.media-amazon.com/images/I/31L4CJCaKjL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31L4CJCaKjL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '61.87'
 
 Tienes [Trio Lighting 603900302 Lámpara de techo Stoffschirm Schwarz  Negro  50 cm](https://www.amazon.es/dp/B00I94UYAK/?tag=tolees-21) con precio final de  61.87 EUR (original: 166.1 EUR) (62.75 %  de rebaja) aqui!
 
-[![Trio Lighting 603900302 Lámpara de techo](https://m.media-amazon.com/images/I/31L4CJCaKjL._SL200_.jpg)](https://www.amazon.es/dp/B00I94UYAK/?tag=tolees-21)
+[![Trio Lighting 603900302 Lámpara de techo](https://m.media-amazon.com/images/I/31L4CJCaKjL._SL400_.jpg)](https://www.amazon.es/dp/B00I94UYAK/?tag=tolees-21)
 
 🔎:
 

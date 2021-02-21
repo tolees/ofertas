@@ -2,7 +2,7 @@
 layout: post
 title: 'Peter Thomas Roth Peter Thomas Roth Mega al 82.10 % de descuento'
 date: 2020-01-09 12:26:37
-image: 'https://images-eu.ssl-images-amazon.com/images/I/4105NshHwVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4105NshHwVL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.805'
 
 Está [Peter Thomas Roth Peter Thomas Roth Mega Rich Conditioner  8 Fluid Ounce Tapones para los oídos 2 Centimeters Negro  Black ](https://www.amazon.es/dp/B005WKFS6E/?tag=tolees-21) con 82.10 de descuento por 17.72 EUR (original: 99 EUR) en el siguiente enlace!
 
-[![Peter Thomas Roth Peter Thomas Roth Mega](https://images-eu.ssl-images-amazon.com/images/I/4105NshHwVL._SL200_.jpg)](https://www.amazon.es/dp/B005WKFS6E/?tag=tolees-21)
+[![Peter Thomas Roth Peter Thomas Roth Mega](https://images-eu.ssl-images-amazon.com/images/I/4105NshHwVL._SL400_.jpg)](https://www.amazon.es/dp/B005WKFS6E/?tag=tolees-21)
 
 ℹ️:
 

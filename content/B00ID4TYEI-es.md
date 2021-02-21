@@ -2,7 +2,7 @@
 layout: post
 title: 'Semillas Hortícolas - Zanahoria Nantesa  al 29.29 % de rebaja'
 date: 2020-10-02 07:44:19
-image: 'https://m.media-amazon.com/images/I/514rh+uVjyL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/514rh+uVjyL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '0.99'
 
 Tienes [Semillas Hortícolas - Zanahoria Nantesa 5 sel. Cilindro - Batlle](https://www.amazon.es/dp/B00ID4TYEI/?tag=tolees-21) con precio final de  0.99 EUR (original: 1.4 EUR) (29.29 %  de rebaja) aqui!
 
-[![Semillas Hortícolas - Zanahoria Nantesa ](https://m.media-amazon.com/images/I/514rh+uVjyL._SL200_.jpg)](https://www.amazon.es/dp/B00ID4TYEI/?tag=tolees-21)
+[![Semillas Hortícolas - Zanahoria Nantesa ](https://m.media-amazon.com/images/I/514rh+uVjyL._SL400_.jpg)](https://www.amazon.es/dp/B00ID4TYEI/?tag=tolees-21)
 
 🔎:
 

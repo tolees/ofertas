@@ -2,7 +2,7 @@
 layout: post
 title: 'Pop! Bobble: Avengers Endgame: Hulk al 33.36 % de descuento'
 date: 2020-09-10 07:12:49
-image: 'https://m.media-amazon.com/images/I/41DZtMw+5vL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41DZtMw+5vL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.855806451612906'
 
 Ahora mismo tienes [Pop! Bobble: Avengers Endgame: Hulk](https://www.amazon.es/dp/B07KPTNZRN/?tag=tolees-21) a 9.99 EUR (original: 14.99 EUR) (33.36 %  de descuento) en el siguiente enlace!
 
-[![Pop! Bobble: Avengers Endgame: Hulk](https://m.media-amazon.com/images/I/41DZtMw+5vL._SL200_.jpg)](https://www.amazon.es/dp/B07KPTNZRN/?tag=tolees-21)
+[![Pop! Bobble: Avengers Endgame: Hulk](https://m.media-amazon.com/images/I/41DZtMw+5vL._SL400_.jpg)](https://www.amazon.es/dp/B07KPTNZRN/?tag=tolees-21)
 
 🔎:
 

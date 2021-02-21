@@ -2,7 +2,7 @@
 layout: post
 title: 'ZARRS Pegatina de Espuma Brillo 100 Pack al 30.03 % de descuento'
 date: 2020-04-06 13:23:37
-image: 'https://m.media-amazon.com/images/I/51wxd6fFUYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51wxd6fFUYL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.39'
 
 Ahora mismo tienes [ZARRS Pegatina de Espuma Brillo 100 Pack Pegatina de Estrella Autoadhesiva Brillante Pegatinas para Manualidades Scrapbooking Niños Colores Variados EVA 4 Sets](https://www.amazon.es/dp/B07KX2CXGG/?tag=tolees-21) a 8.39 EUR (original: 11.99 EUR) (30.03 %  de descuento) en el siguiente enlace!
 
-[![ZARRS Pegatina de Espuma Brillo 100 Pack](https://m.media-amazon.com/images/I/51wxd6fFUYL._SL200_.jpg)](https://www.amazon.es/dp/B07KX2CXGG/?tag=tolees-21)
+[![ZARRS Pegatina de Espuma Brillo 100 Pack](https://m.media-amazon.com/images/I/51wxd6fFUYL._SL400_.jpg)](https://www.amazon.es/dp/B07KX2CXGG/?tag=tolees-21)
 
 🔎:
 

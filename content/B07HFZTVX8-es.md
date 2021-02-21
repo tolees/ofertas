@@ -2,7 +2,7 @@
 layout: post
 title: 'New Balance Hombre U420 Sneaker  Vino ti con un 48.11 % de descuento'
 date: 2020-01-21 08:55:47
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31moLaLf8RL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31moLaLf8RL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '41.51'
 
 En este momento está [New Balance Hombre U420 Sneaker  Vino tinto   38.5 EU](https://www.amazon.es/dp/B07HFZTVX8/?tag=tolees-21) a 41.51 EUR (original: 80 EUR) (48.11 %  de descuento) en el siguiente enlace!
 
-[![New Balance Hombre U420 Sneaker  Vino ti](https://images-eu.ssl-images-amazon.com/images/I/31moLaLf8RL._SL200_.jpg)](https://www.amazon.es/dp/B07HFZTVX8/?tag=tolees-21)
+[![New Balance Hombre U420 Sneaker  Vino ti](https://images-eu.ssl-images-amazon.com/images/I/31moLaLf8RL._SL400_.jpg)](https://www.amazon.es/dp/B07HFZTVX8/?tag=tolees-21)
 
 🔎:
 

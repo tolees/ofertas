@@ -2,7 +2,7 @@
 layout: post
 title: 'Salomon Trailster GTX W  Zapatillas de T con un 65.12 % de descuento'
 date: 2020-01-18 07:36:38
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41lXyrLZyRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41lXyrLZyRL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '41.84'
 
 En este momento está [Salomon Trailster GTX W  Zapatillas de Trail Running para Mujer  Rosa  Cerise/Potent Purple/Heather   42 EU](https://www.amazon.es/dp/B07KQP48YK/?tag=tolees-21) a 41.84 EUR (original: 119.95 EUR) (65.12 %  de descuento) en el siguiente enlace!
 
-[![Salomon Trailster GTX W  Zapatillas de T](https://images-eu.ssl-images-amazon.com/images/I/41lXyrLZyRL._SL200_.jpg)](https://www.amazon.es/dp/B07KQP48YK/?tag=tolees-21)
+[![Salomon Trailster GTX W  Zapatillas de T](https://images-eu.ssl-images-amazon.com/images/I/41lXyrLZyRL._SL400_.jpg)](https://www.amazon.es/dp/B07KQP48YK/?tag=tolees-21)
 
 🔎:
 

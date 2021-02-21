@@ -2,7 +2,7 @@
 layout: post
 title: 'Nike Pico 5  Gymnastics Shoe Unisex-Chil al 50.03 % de rebaja'
 date: 2020-08-24 19:20:34
-image: 'https://m.media-amazon.com/images/I/4110wVGScwL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/4110wVGScwL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.99'
 
 Tienes [Nike Pico 5  Gymnastics Shoe Unisex-Child  Deep Royal Blue/White  38.5 EU](https://www.amazon.es/dp/B07V1Z5L9K/?tag=tolees-21) con precio final de  19.99 EUR (original: 40.0 EUR) (50.03 %  de rebaja) aqui!
 
-[![Nike Pico 5  Gymnastics Shoe Unisex-Chil](https://m.media-amazon.com/images/I/4110wVGScwL._SL200_.jpg)](https://www.amazon.es/dp/B07V1Z5L9K/?tag=tolees-21)
+[![Nike Pico 5  Gymnastics Shoe Unisex-Chil](https://m.media-amazon.com/images/I/4110wVGScwL._SL400_.jpg)](https://www.amazon.es/dp/B07V1Z5L9K/?tag=tolees-21)
 
 🔎:
 

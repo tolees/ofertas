@@ -2,7 +2,7 @@
 layout: post
 title: 'Apple Watch Correa Loop Deportiva  40 mm al 30.63 % de descuento'
 date: 2020-09-12 13:54:45
-image: 'https://m.media-amazon.com/images/I/31+lCLaTnPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31+lCLaTnPL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '36.47'
 
 Está [Apple Watch Correa Loop Deportiva  40 mm  - Gris Hierro](https://www.amazon.es/dp/B07XS6BN1H/?tag=tolees-21) con 30.63 de descuento por 33.99 EUR (original: 49.0 EUR) en el siguiente enlace!
 
-[![Apple Watch Correa Loop Deportiva  40 mm](https://m.media-amazon.com/images/I/31+lCLaTnPL._SL200_.jpg)](https://www.amazon.es/dp/B07XS6BN1H/?tag=tolees-21)
+[![Apple Watch Correa Loop Deportiva  40 mm](https://m.media-amazon.com/images/I/31+lCLaTnPL._SL400_.jpg)](https://www.amazon.es/dp/B07XS6BN1H/?tag=tolees-21)
 
 ℹ️:
 

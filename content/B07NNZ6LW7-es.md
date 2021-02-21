@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas Stan Smith  Zapatillas de Gimnasi al 31.50 % de descuento'
 date: 2020-03-25 20:34:30
-image: 'https://m.media-amazon.com/images/I/31x6FKyz0qL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31x6FKyz0qL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '68.49'
 
 Ahora mismo tienes [adidas Stan Smith  Zapatillas de Gimnasia para Hombre  Blanco  Ftwrwhite/Core White/Green Ftwrwhite/Core White/Green   42 EU](https://www.amazon.es/dp/B07NNZ6LW7/?tag=tolees-21) a 68.49 EUR (original: 99.99 EUR) (31.50 %  de descuento) en el siguiente enlace!
 
-[![adidas Stan Smith  Zapatillas de Gimnasi](https://m.media-amazon.com/images/I/31x6FKyz0qL._SL200_.jpg)](https://www.amazon.es/dp/B07NNZ6LW7/?tag=tolees-21)
+[![adidas Stan Smith  Zapatillas de Gimnasi](https://m.media-amazon.com/images/I/31x6FKyz0qL._SL400_.jpg)](https://www.amazon.es/dp/B07NNZ6LW7/?tag=tolees-21)
 
 🔎:
 

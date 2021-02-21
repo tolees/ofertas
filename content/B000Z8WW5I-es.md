@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 52.81 % en Solgar Fórmula Antioxidante Avanzada  Pr'
 date: 2020-05-06 20:33:20
-image: 'https://m.media-amazon.com/images/I/41F+LRt1L4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41F+LRt1L4L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '32.3'
 
 Tienes [Solgar Fórmula Antioxidante Avanzada  Protege a las Células Contra el Daño Oxidativo Diario  120 cápsulas Vegetales](https://www.amazon.es/dp/B000Z8WW5I/?tag=tolees-21) con un 52.81 % de descuento con precio de oferta de 32.3 EUR (original: 68.45 EUR) en el siguiente enlace!
 
-[![Solgar Fórmula Antioxidante Avanzada  Pr](https://m.media-amazon.com/images/I/41F+LRt1L4L._SL200_.jpg)](https://www.amazon.es/dp/B000Z8WW5I/?tag=tolees-21)
+[![Solgar Fórmula Antioxidante Avanzada  Pr](https://m.media-amazon.com/images/I/41F+LRt1L4L._SL400_.jpg)](https://www.amazon.es/dp/B000Z8WW5I/?tag=tolees-21)
 
 ℹ️:
 

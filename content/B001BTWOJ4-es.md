@@ -2,7 +2,7 @@
 layout: post
 title: 'Fellowes Gel con Canal Health-V - Alfomb al 51.91 % de rebaja'
 date: 2020-04-14 10:02:18
-image: 'https://m.media-amazon.com/images/I/41usc8liVnL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41usc8liVnL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.99'
 
 Tienes [Fellowes Gel con Canal Health-V - Alfombrilla con reposamuñecas para ratón  Azul](https://www.amazon.es/dp/B001BTWOJ4/?tag=tolees-21) con precio final de  11.99 EUR (original: 24.93 EUR) (51.91 %  de rebaja) aqui!
 
-[![Fellowes Gel con Canal Health-V - Alfomb](https://m.media-amazon.com/images/I/41usc8liVnL._SL200_.jpg)](https://www.amazon.es/dp/B001BTWOJ4/?tag=tolees-21)
+[![Fellowes Gel con Canal Health-V - Alfomb](https://m.media-amazon.com/images/I/41usc8liVnL._SL400_.jpg)](https://www.amazon.es/dp/B001BTWOJ4/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Beholder CE - Collector s Edition al 54.82 % de descuento'
 date: 2020-08-18 19:51:42
-image: 'https://m.media-amazon.com/images/I/41L9vnLfQWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41L9vnLfQWL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '26.57181818181818'
 
 Está [Beholder CE - Collector s Edition](https://www.amazon.es/dp/B07TWMFJZ1/?tag=tolees-21) con 54.82 de descuento por 18.52 EUR (original: 40.99 EUR) en el siguiente enlace!
 
-[![Beholder CE - Collector s Edition](https://m.media-amazon.com/images/I/41L9vnLfQWL._SL200_.jpg)](https://www.amazon.es/dp/B07TWMFJZ1/?tag=tolees-21)
+[![Beholder CE - Collector s Edition](https://m.media-amazon.com/images/I/41L9vnLfQWL._SL400_.jpg)](https://www.amazon.es/dp/B07TWMFJZ1/?tag=tolees-21)
 
 ℹ️:
 

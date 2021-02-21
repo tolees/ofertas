@@ -2,7 +2,7 @@
 layout: post
 title: 'Asics Gel-Lyte PS  Zapatillas Unisex Niñ al 71.20 % de rebaja'
 date: 2020-03-12 19:57:47
-image: 'https://m.media-amazon.com/images/I/31+2qHFkNPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31+2qHFkNPL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.273999999999997'
 
 Tienes [Asics Gel-Lyte PS  Zapatillas Unisex Niños  Negro  Black/Black 001   30 EU](https://www.amazon.es/dp/B07CZB2PN9/?tag=tolees-21) con precio final de  20.52 EUR (original: 71.24 EUR) (71.20 %  de rebaja) aqui!
 
-[![Asics Gel-Lyte PS  Zapatillas Unisex Niñ](https://m.media-amazon.com/images/I/31+2qHFkNPL._SL200_.jpg)](https://www.amazon.es/dp/B07CZB2PN9/?tag=tolees-21)
+[![Asics Gel-Lyte PS  Zapatillas Unisex Niñ](https://m.media-amazon.com/images/I/31+2qHFkNPL._SL400_.jpg)](https://www.amazon.es/dp/B07CZB2PN9/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Beurer MG850 - Bastón de Masaje intenso  al 27.49 % de descuento'
 date: 2020-06-01 19:13:32
-image: 'https://m.media-amazon.com/images/I/31Wzby78sVL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Wzby78sVL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '160.885'
 
 Ahora mismo tienes [Beurer MG850 - Bastón de Masaje intenso con 2 intensidades  reequilibrador de fa scia  color nogal](https://www.amazon.es/dp/B01MYEYR2B/?tag=tolees-21) a 144.99 EUR (original: 199.95 EUR) (27.49 %  de descuento) en el siguiente enlace!
 
-[![Beurer MG850 - Bastón de Masaje intenso ](https://m.media-amazon.com/images/I/31Wzby78sVL._SL200_.jpg)](https://www.amazon.es/dp/B01MYEYR2B/?tag=tolees-21)
+[![Beurer MG850 - Bastón de Masaje intenso ](https://m.media-amazon.com/images/I/31Wzby78sVL._SL400_.jpg)](https://www.amazon.es/dp/B01MYEYR2B/?tag=tolees-21)
 
 🔎:
 

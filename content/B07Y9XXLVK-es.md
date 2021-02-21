@@ -2,7 +2,7 @@
 layout: post
 title: 'María Barceló Sneaker Alta Piel Rosa Muj al 56.14 % de rebaja'
 date: 2020-02-02 18:05:12
-image: 'https://m.media-amazon.com/images/I/41umAm9r4JL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41umAm9r4JL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '67.99'
 
 Tienes [María Barceló Sneaker Alta Piel Rosa Mujer María Barceló](https://www.amazon.es/dp/B07Y9XXLVK/?tag=tolees-21) con precio final de  67.99 EUR (original: 155.0 EUR) (56.14 %  de rebaja) aqui!
 
-[![María Barceló Sneaker Alta Piel Rosa Muj](https://m.media-amazon.com/images/I/41umAm9r4JL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07Y9XXLVK/?tag=tolees-21)
+[![María Barceló Sneaker Alta Piel Rosa Muj](https://m.media-amazon.com/images/I/41umAm9r4JL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07Y9XXLVK/?tag=tolees-21)
 
 🔎:
 

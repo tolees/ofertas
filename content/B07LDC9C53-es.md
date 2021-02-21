@@ -2,7 +2,7 @@
 layout: post
 title: 'Un Tranvia Llamado Deseo Blu-Ray  - Col  con un 26.83 % de descuento'
 date: 2020-01-14 11:32:33
-image: 'https://images-eu.ssl-images-amazon.com/images/I/514qN9CZ8ML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/514qN9CZ8ML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.2'
 
 En este momento está [Un Tranvia Llamado Deseo Blu-Ray  - Col Oscars [Blu-ray]](https://www.amazon.es/dp/B07LDC9C53/?tag=tolees-21) a 10.2 EUR (original: 13.94 EUR) (26.83 %  de descuento) en el siguiente enlace!
 
-[![Un Tranvia Llamado Deseo Blu-Ray  - Col ](https://images-eu.ssl-images-amazon.com/images/I/514qN9CZ8ML._SL200_.jpg)](https://www.amazon.es/dp/B07LDC9C53/?tag=tolees-21)
+[![Un Tranvia Llamado Deseo Blu-Ray  - Col ](https://images-eu.ssl-images-amazon.com/images/I/514qN9CZ8ML._SL400_.jpg)](https://www.amazon.es/dp/B07LDC9C53/?tag=tolees-21)
 
 🔎:
 

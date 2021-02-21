@@ -2,7 +2,7 @@
 layout: post
 title: 'MOSOTECH Microfono Solapa  Omnidireccion al 37.65 % de rebaja'
 date: 2020-08-08 07:56:24
-image: 'https://m.media-amazon.com/images/I/41KqjVAqEpL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41KqjVAqEpL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.383333333333335'
 
 Tienes [MOSOTECH Microfono Solapa  Omnidireccional Lavalier Microfono de Condensador con 2m  79"  Cable de Extensión  Micro para Movil  Grabación Entrevista/Videoconferencia/Podcast/Dicción de Voz/Phone](https://www.amazon.es/dp/B07YD9ZSNJ/?tag=tolees-21) con precio final de  9.34 EUR (original: 14.98 EUR) (37.65 %  de rebaja) aqui!
 
-[![MOSOTECH Microfono Solapa  Omnidireccion](https://m.media-amazon.com/images/I/41KqjVAqEpL._SL200_.jpg)](https://www.amazon.es/dp/B07YD9ZSNJ/?tag=tolees-21)
+[![MOSOTECH Microfono Solapa  Omnidireccion](https://m.media-amazon.com/images/I/41KqjVAqEpL._SL400_.jpg)](https://www.amazon.es/dp/B07YD9ZSNJ/?tag=tolees-21)
 
 🔎:
 

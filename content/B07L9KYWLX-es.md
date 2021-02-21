@@ -2,7 +2,7 @@
 layout: post
 title: 'Caja de Paternina Banda Azul Crianza D.O al 29.76 % de rebaja'
 date: 2020-02-11 08:38:25
-image: 'https://m.media-amazon.com/images/I/51+vu7jzEkL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51+vu7jzEkL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.13'
 
 Tienes [Caja de Paternina Banda Azul Crianza D.O. Rioja Vino tinto - 6 botellas x 750 ml.](https://www.amazon.es/dp/B07L9KYWLX/?tag=tolees-21) con precio final de  23.13 EUR (original: 32.93 EUR) (29.76 %  de rebaja) aqui!
 
-[![Caja de Paternina Banda Azul Crianza D.O](https://m.media-amazon.com/images/I/51+vu7jzEkL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07L9KYWLX/?tag=tolees-21)
+[![Caja de Paternina Banda Azul Crianza D.O](https://m.media-amazon.com/images/I/51+vu7jzEkL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07L9KYWLX/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Severin HV 7165  Aspiradora Manual y de  al 33.74 % de rebaja'
 date: 2020-05-29 10:32:20
-image: 'https://m.media-amazon.com/images/I/31RGgUxFvdL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31RGgUxFvdL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '198.75'
 
 Tienes [Severin HV 7165  Aspiradora Manual y de Mango con Cepillo eléctrico y Motor Digital  Batería de Iones de Litio de 22.2 V  S´Power topspin Li 30  Gris/Rojo](https://www.amazon.es/dp/B07CT4QHCM/?tag=tolees-21) con precio final de  198.75 EUR (original: 299.95 EUR) (33.74 %  de rebaja) aqui!
 
-[![Severin HV 7165  Aspiradora Manual y de ](https://m.media-amazon.com/images/I/31RGgUxFvdL._SL200_.jpg)](https://www.amazon.es/dp/B07CT4QHCM/?tag=tolees-21)
+[![Severin HV 7165  Aspiradora Manual y de ](https://m.media-amazon.com/images/I/31RGgUxFvdL._SL400_.jpg)](https://www.amazon.es/dp/B07CT4QHCM/?tag=tolees-21)
 
 🔎:
 

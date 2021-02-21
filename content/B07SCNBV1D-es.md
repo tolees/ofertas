@@ -2,7 +2,7 @@
 layout: post
 title: 'Newdora Almohada de Viaje Viscoelástica  al 46.70 % de descuento'
 date: 2020-10-06 18:46:58
-image: 'https://m.media-amazon.com/images/I/51SmQYHTLmL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51SmQYHTLmL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.600000000000001'
 
 Está [Newdora Almohada de Viaje Viscoelástica de Espuma de Memoria  Almohada de Cuello  Almohadas de Acampada  Almohada Ortopédica Cervica  Soporte de Cuello  con Máscara de Ojos y Tapones  Gris Oscuro](https://www.amazon.es/dp/B07SCNBV1D/?tag=tolees-21) con 46.70 de descuento por 7.99 EUR (original: 14.99 EUR) en el siguiente enlace!
 
-[![Newdora Almohada de Viaje Viscoelástica ](https://m.media-amazon.com/images/I/51SmQYHTLmL._SL200_.jpg)](https://www.amazon.es/dp/B07SCNBV1D/?tag=tolees-21)
+[![Newdora Almohada de Viaje Viscoelástica ](https://m.media-amazon.com/images/I/51SmQYHTLmL._SL400_.jpg)](https://www.amazon.es/dp/B07SCNBV1D/?tag=tolees-21)
 
 ℹ️:
 

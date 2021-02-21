@@ -2,7 +2,7 @@
 layout: post
 title: 'Sharplace 62 Piezas Modelo Árbol para Pa al 44.44 % de descuento'
 date: 2020-04-06 21:14:43
-image: 'https://m.media-amazon.com/images/I/51O3hIpTVGL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51O3hIpTVGL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.653749999999999'
 
 Ahora mismo tienes [Sharplace 62 Piezas Modelo Árbol para Paisaje Landscape Modelismo Espada Hierba y Palmera](https://www.amazon.es/dp/B078SVV5D7/?tag=tolees-21) a 17.2 EUR (original: 30.96 EUR) (44.44 %  de descuento) en el siguiente enlace!
 
-[![Sharplace 62 Piezas Modelo Árbol para Pa](https://m.media-amazon.com/images/I/51O3hIpTVGL._SL200_.jpg)](https://www.amazon.es/dp/B078SVV5D7/?tag=tolees-21)
+[![Sharplace 62 Piezas Modelo Árbol para Pa](https://m.media-amazon.com/images/I/51O3hIpTVGL._SL400_.jpg)](https://www.amazon.es/dp/B078SVV5D7/?tag=tolees-21)
 
 🔎:
 

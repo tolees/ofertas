@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 30.57 % en Beaphar pipetas repelentes  Perro pequeñ'
 date: 2020-05-21 17:14:31
-image: 'https://m.media-amazon.com/images/I/51X80SggPDL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51X80SggPDL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.279'
 
 Tienes [Beaphar pipetas repelentes  Perro pequeño  3 Unidades](https://www.amazon.es/dp/B00O4BC6D0/?tag=tolees-21) con un 30.57 % de descuento con precio de oferta de 7.79 EUR (original: 11.22 EUR) en el siguiente enlace!
 
-[![Beaphar pipetas repelentes  Perro pequeñ](https://m.media-amazon.com/images/I/51X80SggPDL._SL200_.jpg)](https://www.amazon.es/dp/B00O4BC6D0/?tag=tolees-21)
+[![Beaphar pipetas repelentes  Perro pequeñ](https://m.media-amazon.com/images/I/51X80SggPDL._SL400_.jpg)](https://www.amazon.es/dp/B00O4BC6D0/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'XP-Pen G430S Tableta Gráfica 4x3 Pulgada al 50.00 % de rebaja'
 date: 2020-02-15 02:17:02
-image: 'https://m.media-amazon.com/images/I/41I6V6yjaiL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41I6V6yjaiL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.99'
 
 Tienes [XP-Pen G430S Tableta Gráfica 4x3 Pulgadas Tableta de Dibujo](https://www.amazon.es/dp/B01F4PGHGQ/?tag=tolees-21) con precio final de  24.99 EUR (original: 49.98 EUR) (50.00 %  de rebaja) aqui!
 
-[![XP-Pen G430S Tableta Gráfica 4x3 Pulgada](https://m.media-amazon.com/images/I/41I6V6yjaiL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01F4PGHGQ/?tag=tolees-21)
+[![XP-Pen G430S Tableta Gráfica 4x3 Pulgada](https://m.media-amazon.com/images/I/41I6V6yjaiL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01F4PGHGQ/?tag=tolees-21)
 
 🔎:
 

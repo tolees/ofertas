@@ -2,7 +2,7 @@
 layout: post
 title: 'ETEKCITY EK7017 Báscula Digital para Coc con un 40.01 % de descuento'
 date: 2020-04-08 05:57:08
-image: 'https://m.media-amazon.com/images/I/41u032xT5qL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41u032xT5qL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.99'
 
 En este momento está [ETEKCITY EK7017 Báscula Digital para Cocina con Pantalla Táctil  Balanza de Alimentos Multifuncional  5 kg / 11 lbs  Acero Inoxidable de Grado Alimenticio 304  Plata  Baterías Incluidas ](https://www.amazon.es/dp/B07C2QV3QZ/?tag=tolees-21) a 17.99 EUR (original: 29.99 EUR) (40.01 %  de descuento) en el siguiente enlace!
 
-[![ETEKCITY EK7017 Báscula Digital para Coc](https://m.media-amazon.com/images/I/41u032xT5qL._SL200_.jpg)](https://www.amazon.es/dp/B07C2QV3QZ/?tag=tolees-21)
+[![ETEKCITY EK7017 Báscula Digital para Coc](https://m.media-amazon.com/images/I/41u032xT5qL._SL400_.jpg)](https://www.amazon.es/dp/B07C2QV3QZ/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'JACK & JONES Jjeholmen Sweat Crew Neck N al 30.02 % de descuento'
 date: 2020-04-02 10:31:11
-image: 'https://m.media-amazon.com/images/I/41Fd7F0AZGL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Fd7F0AZGL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.79'
 
 Ahora mismo tienes [JACK & JONES Jjeholmen Sweat Crew Neck Noos  Suéter para Hombre  Rojo  Port Royale   Small](https://www.amazon.es/dp/B07F14N2FS/?tag=tolees-21) a 13.99 EUR (original: 19.99 EUR) (30.02 %  de descuento) en el siguiente enlace!
 
-[![JACK & JONES Jjeholmen Sweat Crew Neck N](https://m.media-amazon.com/images/I/41Fd7F0AZGL._SL200_.jpg)](https://www.amazon.es/dp/B07F14N2FS/?tag=tolees-21)
+[![JACK & JONES Jjeholmen Sweat Crew Neck N](https://m.media-amazon.com/images/I/41Fd7F0AZGL._SL400_.jpg)](https://www.amazon.es/dp/B07F14N2FS/?tag=tolees-21)
 
 🔎:
 

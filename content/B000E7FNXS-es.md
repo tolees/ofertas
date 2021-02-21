@@ -2,7 +2,7 @@
 layout: post
 title: 'K&N RC-0982 filtro cromado universal Coc al 49.49 % de descuento'
 date: 2020-05-25 09:36:17
-image: 'https://m.media-amazon.com/images/I/41BkUwiCzIL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41BkUwiCzIL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '81.84'
 
 Ahora mismo tienes [K&N RC-0982 filtro cromado universal Coche y Moto](https://www.amazon.es/dp/B000E7FNXS/?tag=tolees-21) a 81.84 EUR (original: 162.02 EUR) (49.49 %  de descuento) en el siguiente enlace!
 
-[![K&N RC-0982 filtro cromado universal Coc](https://m.media-amazon.com/images/I/41BkUwiCzIL._SL200_.jpg)](https://www.amazon.es/dp/B000E7FNXS/?tag=tolees-21)
+[![K&N RC-0982 filtro cromado universal Coc](https://m.media-amazon.com/images/I/41BkUwiCzIL._SL400_.jpg)](https://www.amazon.es/dp/B000E7FNXS/?tag=tolees-21)
 
 🔎:
 

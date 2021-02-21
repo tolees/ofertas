@@ -2,7 +2,7 @@
 layout: post
 title: 'K-Speed Turf con un 60.00 % de descuento'
 date: 2020-01-18 16:16:47
-image: 'https://images-eu.ssl-images-amazon.com/images/I/212UFFmqyEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/212UFFmqyEL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.58'
 
 En este momento está [K-Speed Turf](https://www.amazon.es/dp/B07CVXH53S/?tag=tolees-21) a 15.58 EUR (original: 38.95 EUR) (60.00 %  de descuento) en el siguiente enlace!
 
-[![K-Speed Turf](https://images-eu.ssl-images-amazon.com/images/I/212UFFmqyEL._SL200_.jpg)](https://www.amazon.es/dp/B07CVXH53S/?tag=tolees-21)
+[![K-Speed Turf](https://images-eu.ssl-images-amazon.com/images/I/212UFFmqyEL._SL400_.jpg)](https://www.amazon.es/dp/B07CVXH53S/?tag=tolees-21)
 
 🔎:
 

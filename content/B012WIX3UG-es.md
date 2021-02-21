@@ -2,7 +2,7 @@
 layout: post
 title: '151Y12 - Aceitera Cristal Tapon Corcho 1 con un 47.90 % de descuento'
 date: 2020-02-02 20:16:23
-image: 'https://m.media-amazon.com/images/I/21vVnRU4F4L._SL500_._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21vVnRU4F4L._SL500_._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.6'
 
 En este momento está [151Y12 - Aceitera Cristal Tapon Corcho 1/2L](https://www.amazon.es/dp/B012WIX3UG/?tag=tolees-21) a 3.6 EUR (original: 6.91 EUR) (47.90 %  de descuento) en el siguiente enlace!
 
-[![151Y12 - Aceitera Cristal Tapon Corcho 1](https://m.media-amazon.com/images/I/21vVnRU4F4L._SL500_._AC_._SL200_.jpg)](https://www.amazon.es/dp/B012WIX3UG/?tag=tolees-21)
+[![151Y12 - Aceitera Cristal Tapon Corcho 1](https://m.media-amazon.com/images/I/21vVnRU4F4L._SL500_._AC_._SL400_.jpg)](https://www.amazon.es/dp/B012WIX3UG/?tag=tolees-21)
 
 🔎:
 

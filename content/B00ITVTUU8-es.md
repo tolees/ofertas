@@ -2,7 +2,7 @@
 layout: post
 title: 'PALMERA IR0897334W con un 35.09 % de descuento'
 date: 2020-07-04 17:17:44
-image: 'https://m.media-amazon.com/images/I/31iujNA7goL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31iujNA7goL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.07'
 
 En este momento está [PALMERA IR0897334W](https://www.amazon.es/dp/B00ITVTUU8/?tag=tolees-21) a 19.07 EUR (original: 29.38 EUR) (35.09 %  de descuento) en el siguiente enlace!
 
-[![PALMERA IR0897334W](https://m.media-amazon.com/images/I/31iujNA7goL._SL200_.jpg)](https://www.amazon.es/dp/B00ITVTUU8/?tag=tolees-21)
+[![PALMERA IR0897334W](https://m.media-amazon.com/images/I/31iujNA7goL._SL400_.jpg)](https://www.amazon.es/dp/B00ITVTUU8/?tag=tolees-21)
 
 🔎:
 

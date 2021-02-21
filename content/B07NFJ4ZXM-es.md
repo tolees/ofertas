@@ -2,7 +2,7 @@
 layout: post
 title: 'U.S. Polo Assn. Wilde2  Zapatillas de Gi al 39.37 % de rebaja'
 date: 2020-06-01 16:04:47
-image: 'https://m.media-amazon.com/images/I/41g7gYSMOxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41g7gYSMOxL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '53.96'
 
 Tienes [U.S. Polo Assn. Wilde2  Zapatillas de Gimnasia para Hombre  Negro  Black 003   42 EU](https://www.amazon.es/dp/B07NFJ4ZXM/?tag=tolees-21) con precio final de  53.96 EUR (original: 89.0 EUR) (39.37 %  de rebaja) aqui!
 
-[![U.S. Polo Assn. Wilde2  Zapatillas de Gi](https://m.media-amazon.com/images/I/41g7gYSMOxL._SL200_.jpg)](https://www.amazon.es/dp/B07NFJ4ZXM/?tag=tolees-21)
+[![U.S. Polo Assn. Wilde2  Zapatillas de Gi](https://m.media-amazon.com/images/I/41g7gYSMOxL._SL400_.jpg)](https://www.amazon.es/dp/B07NFJ4ZXM/?tag=tolees-21)
 
 🔎:
 

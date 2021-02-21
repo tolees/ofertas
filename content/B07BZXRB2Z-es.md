@@ -2,7 +2,7 @@
 layout: post
 title: 'Fleet & Foster - Zapatillas Deportivas C al 33.33 % de descuento'
 date: 2020-05-10 15:05:22
-image: 'https://m.media-amazon.com/images/I/41vvNjQqXkL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41vvNjQqXkL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '22.2'
 
 Ahora mismo tienes [Fleet & Foster - Zapatillas Deportivas Canary Summer para Mujer señora  39 EU   Gris ](https://www.amazon.es/dp/B07BZXRB2Z/?tag=tolees-21) a 22.2 EUR (original: 33.3 EUR) (33.33 %  de descuento) en el siguiente enlace!
 
-[![Fleet & Foster - Zapatillas Deportivas C](https://m.media-amazon.com/images/I/41vvNjQqXkL._SL200_.jpg)](https://www.amazon.es/dp/B07BZXRB2Z/?tag=tolees-21)
+[![Fleet & Foster - Zapatillas Deportivas C](https://m.media-amazon.com/images/I/41vvNjQqXkL._SL400_.jpg)](https://www.amazon.es/dp/B07BZXRB2Z/?tag=tolees-21)
 
 🔎:
 

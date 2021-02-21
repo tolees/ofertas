@@ -2,7 +2,7 @@
 layout: post
 title: 'TerraMaster F2-210 NAS 2 bahías Quad Cor al 30.82 % de descuento'
 date: 2020-03-04 14:56:01
-image: 'https://m.media-amazon.com/images/I/41fVq02XIPL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41fVq02XIPL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '159.99'
 
 Está [TerraMaster F2-210 NAS 2 bahías Quad Core Multimedia de Almacenamiento en la Nube Personal  Sin Discos ](https://www.amazon.es/dp/B07PWDTBJ6/?tag=tolees-21) con 30.82 de descuento por 159.99 EUR (original: 231.28 EUR) en el siguiente enlace!
 
-[![TerraMaster F2-210 NAS 2 bahías Quad Cor](https://m.media-amazon.com/images/I/41fVq02XIPL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07PWDTBJ6/?tag=tolees-21)
+[![TerraMaster F2-210 NAS 2 bahías Quad Cor](https://m.media-amazon.com/images/I/41fVq02XIPL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07PWDTBJ6/?tag=tolees-21)
 
 ℹ️:
 

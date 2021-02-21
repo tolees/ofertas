@@ -2,7 +2,7 @@
 layout: post
 title: 'CHICTRY Cola de Sirena Mujer para Nadar  con un 34.11 % de descuento'
 date: 2020-03-05 22:35:28
-image: 'https://m.media-amazon.com/images/I/41aVZiGko6L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41aVZiGko6L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.49'
 
 En este momento está [CHICTRY Cola de Sirena Mujer para Nadar Bañador Ropa de Baño Mermaid Tail Disfraz de Sirena Adulto Cosplay Swimwear Azul Medium](https://www.amazon.es/dp/B07F8TLKLY/?tag=tolees-21) a 14.49 EUR (original: 21.99 EUR) (34.11 %  de descuento) en el siguiente enlace!
 
-[![CHICTRY Cola de Sirena Mujer para Nadar ](https://m.media-amazon.com/images/I/41aVZiGko6L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07F8TLKLY/?tag=tolees-21)
+[![CHICTRY Cola de Sirena Mujer para Nadar ](https://m.media-amazon.com/images/I/41aVZiGko6L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07F8TLKLY/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Casio Reloj para Hombre MTD-1053D-2AVES con un 30.57 % de descuento'
 date: 2020-07-13 11:15:23
-image: 'https://m.media-amazon.com/images/I/51d5tqUEZyL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51d5tqUEZyL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '49.99'
 
 En este momento está [Casio Reloj para Hombre MTD-1053D-2AVES](https://www.amazon.es/dp/B003ZUXWDO/?tag=tolees-21) a 49.99 EUR (original: 72.0 EUR) (30.57 %  de descuento) en el siguiente enlace!
 
-[![Casio Reloj para Hombre MTD-1053D-2AVES](https://m.media-amazon.com/images/I/51d5tqUEZyL._SL200_.jpg)](https://www.amazon.es/dp/B003ZUXWDO/?tag=tolees-21)
+[![Casio Reloj para Hombre MTD-1053D-2AVES](https://m.media-amazon.com/images/I/51d5tqUEZyL._SL400_.jpg)](https://www.amazon.es/dp/B003ZUXWDO/?tag=tolees-21)
 
 🔎:
 

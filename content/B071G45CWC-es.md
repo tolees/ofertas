@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 55.84 % en Reloj Calvin Klein - Mujer K8E2M111'
 date: 2020-09-02 09:14:01
-image: 'https://m.media-amazon.com/images/I/31o4Cmp4azL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31o4Cmp4azL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '109.97'
 
 Tienes [Reloj Calvin Klein - Mujer K8E2M111](https://www.amazon.es/dp/B071G45CWC/?tag=tolees-21) con un 55.84 % de descuento con precio de oferta de 109.97 EUR (original: 249.0 EUR) en el siguiente enlace!
 
-[![Reloj Calvin Klein - Mujer K8E2M111](https://m.media-amazon.com/images/I/31o4Cmp4azL._SL200_.jpg)](https://www.amazon.es/dp/B071G45CWC/?tag=tolees-21)
+[![Reloj Calvin Klein - Mujer K8E2M111](https://m.media-amazon.com/images/I/31o4Cmp4azL._SL400_.jpg)](https://www.amazon.es/dp/B071G45CWC/?tag=tolees-21)
 
 ℹ️:
 

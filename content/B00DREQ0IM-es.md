@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 31.51 % en Bosch Miniamoladora PWS 750-115  con dis'
 date: 2020-07-21 19:56:03
-image: 'https://m.media-amazon.com/images/I/414Jd3HAIHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/414Jd3HAIHL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '49.982000000000006'
 
 Tienes [Bosch Miniamoladora PWS 750-115  con disco de diamante  750 W y Ø 115 mm ](https://www.amazon.es/dp/B00DREQ0IM/?tag=tolees-21) con un 31.51 % de descuento con precio de oferta de 49.99 EUR (original: 72.99 EUR) en el siguiente enlace!
 
-[![Bosch Miniamoladora PWS 750-115  con dis](https://m.media-amazon.com/images/I/414Jd3HAIHL._SL200_.jpg)](https://www.amazon.es/dp/B00DREQ0IM/?tag=tolees-21)
+[![Bosch Miniamoladora PWS 750-115  con dis](https://m.media-amazon.com/images/I/414Jd3HAIHL._SL400_.jpg)](https://www.amazon.es/dp/B00DREQ0IM/?tag=tolees-21)
 
 ℹ️:
 

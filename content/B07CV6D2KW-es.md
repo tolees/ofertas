@@ -2,7 +2,7 @@
 layout: post
 title: 'JACK & JONES JFWALBANY Leather STS  Bike al 38.00 % de descuento'
 date: 2020-08-11 00:49:21
-image: 'https://m.media-amazon.com/images/I/415x-j88YJL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/415x-j88YJL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '62.656666666666666'
 
 Ahora mismo tienes [JACK & JONES JFWALBANY Leather STS  Biker Boots para Hombre  Marrón Brown Stone Brown Stone   42 EU](https://www.amazon.es/dp/B07CV6D2KW/?tag=tolees-21) a 61.99 EUR (original: 99.99 EUR) (38.00 %  de descuento) en el siguiente enlace!
 
-[![JACK & JONES JFWALBANY Leather STS  Bike](https://m.media-amazon.com/images/I/415x-j88YJL._SL200_.jpg)](https://www.amazon.es/dp/B07CV6D2KW/?tag=tolees-21)
+[![JACK & JONES JFWALBANY Leather STS  Bike](https://m.media-amazon.com/images/I/415x-j88YJL._SL400_.jpg)](https://www.amazon.es/dp/B07CV6D2KW/?tag=tolees-21)
 
 🔎:
 

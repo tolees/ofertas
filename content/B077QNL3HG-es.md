@@ -2,7 +2,7 @@
 layout: post
 title: 'New Balance 500 Core  Zapatillas para Ho con un 53.40 % de descuento'
 date: 2020-09-15 07:09:18
-image: 'https://m.media-amazon.com/images/I/41gSN-HyCML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41gSN-HyCML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '34.72'
 
 En este momento está [New Balance 500 Core  Zapatillas para Hombre  Negro Black Silver Black Silver  40 EU](https://www.amazon.es/dp/B077QNL3HG/?tag=tolees-21) a 34.95 EUR (original: 75.0 EUR) (53.40 %  de descuento) en el siguiente enlace!
 
-[![New Balance 500 Core  Zapatillas para Ho](https://m.media-amazon.com/images/I/41gSN-HyCML._SL200_.jpg)](https://www.amazon.es/dp/B077QNL3HG/?tag=tolees-21)
+[![New Balance 500 Core  Zapatillas para Ho](https://m.media-amazon.com/images/I/41gSN-HyCML._SL400_.jpg)](https://www.amazon.es/dp/B077QNL3HG/?tag=tolees-21)
 
 🔎:
 

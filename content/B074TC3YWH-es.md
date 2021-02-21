@@ -2,7 +2,7 @@
 layout: post
 title: '1home Soporte TV con Ruedas  Móvil Carro con un 39.23 % de descuento'
 date: 2020-02-19 14:19:57
-image: 'https://m.media-amazon.com/images/I/41k5haqKxEL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41k5haqKxEL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '82.99'
 
 En este momento está [1home Soporte TV con Ruedas  Móvil Carro de exhibición Trole Portátil  TV Soporte de Suelo para Pantalla Plana 30”-65" Plasm](https://www.amazon.es/dp/B074TC3YWH/?tag=tolees-21) a 78.99 EUR (original: 129.99 EUR) (39.23 %  de descuento) en el siguiente enlace!
 
-[![1home Soporte TV con Ruedas  Móvil Carro](https://m.media-amazon.com/images/I/41k5haqKxEL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B074TC3YWH/?tag=tolees-21)
+[![1home Soporte TV con Ruedas  Móvil Carro](https://m.media-amazon.com/images/I/41k5haqKxEL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B074TC3YWH/?tag=tolees-21)
 
 🔎:
 

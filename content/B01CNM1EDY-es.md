@@ -2,7 +2,7 @@
 layout: post
 title: 'FREETOO Prensa de ajo Prensa profesional al 25.02 % de descuento'
 date: 2020-07-12 15:46:37
-image: 'https://m.media-amazon.com/images/I/51P0cK1zMRL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51P0cK1zMRL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.99'
 
 Está [FREETOO Prensa de ajo Prensa profesional de ajo Práctico Sólido - Fácil limpieza para la cocina](https://www.amazon.es/dp/B01CNM1EDY/?tag=tolees-21) con 25.02 de descuento por 11.99 EUR (original: 15.99 EUR) en el siguiente enlace!
 
-[![FREETOO Prensa de ajo Prensa profesional](https://m.media-amazon.com/images/I/51P0cK1zMRL._SL200_.jpg)](https://www.amazon.es/dp/B01CNM1EDY/?tag=tolees-21)
+[![FREETOO Prensa de ajo Prensa profesional](https://m.media-amazon.com/images/I/51P0cK1zMRL._SL400_.jpg)](https://www.amazon.es/dp/B01CNM1EDY/?tag=tolees-21)
 
 ℹ️:
 

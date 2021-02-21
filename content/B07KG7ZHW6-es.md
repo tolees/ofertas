@@ -2,7 +2,7 @@
 layout: post
 title: 'PUMA Ralph Sampson Mid  Zapatillas Unise al 49.97 % de descuento'
 date: 2020-07-20 07:35:09
-image: 'https://m.media-amazon.com/images/I/41GYtcNTBWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41GYtcNTBWL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '47.019999999999996'
 
 Está [PUMA Ralph Sampson Mid  Zapatillas Unisex Adulto  Blanco White/Gray Violet/Peacoat  40 EU](https://www.amazon.es/dp/B07KG7ZHW6/?tag=tolees-21) con 49.97 de descuento por 45.0 EUR (original: 89.95 EUR) en el siguiente enlace!
 
-[![PUMA Ralph Sampson Mid  Zapatillas Unise](https://m.media-amazon.com/images/I/41GYtcNTBWL._SL200_.jpg)](https://www.amazon.es/dp/B07KG7ZHW6/?tag=tolees-21)
+[![PUMA Ralph Sampson Mid  Zapatillas Unise](https://m.media-amazon.com/images/I/41GYtcNTBWL._SL400_.jpg)](https://www.amazon.es/dp/B07KG7ZHW6/?tag=tolees-21)
 
 ℹ️:
 

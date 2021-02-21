@@ -2,7 +2,7 @@
 layout: post
 title: 'K&N KA-6503 Filtro de Aire Moto con un 46.06 % de descuento'
 date: 2020-04-26 15:36:34
-image: 'https://m.media-amazon.com/images/I/41OtJPM4lJL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41OtJPM4lJL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '62.52'
 
 En este momento está [K&N KA-6503 Filtro de Aire Moto](https://www.amazon.es/dp/B000E28HZE/?tag=tolees-21) a 62.52 EUR (original: 115.9 EUR) (46.06 %  de descuento) en el siguiente enlace!
 
-[![K&N KA-6503 Filtro de Aire Moto](https://m.media-amazon.com/images/I/41OtJPM4lJL._SL200_.jpg)](https://www.amazon.es/dp/B000E28HZE/?tag=tolees-21)
+[![K&N KA-6503 Filtro de Aire Moto](https://m.media-amazon.com/images/I/41OtJPM4lJL._SL400_.jpg)](https://www.amazon.es/dp/B000E28HZE/?tag=tolees-21)
 
 🔎:
 

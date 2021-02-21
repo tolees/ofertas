@@ -2,7 +2,7 @@
 layout: post
 title: 'Digital para bebés  con indicador de Fie al 79.52 % de rebaja'
 date: 2020-09-11 18:16:24
-image: 'https://m.media-amazon.com/images/I/315UBbswjwL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/315UBbswjwL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.643333333333334'
 
 Tienes [Digital para bebés  con indicador de Fiebre para Adultos y niños  Blanco ](https://www.amazon.es/dp/B08H7SG44M/?tag=tolees-21) con precio final de  8.49 EUR (original: 41.45 EUR) (79.52 %  de rebaja) aqui!
 
-[![Digital para bebés  con indicador de Fie](https://m.media-amazon.com/images/I/315UBbswjwL._SL200_.jpg)](https://www.amazon.es/dp/B08H7SG44M/?tag=tolees-21)
+[![Digital para bebés  con indicador de Fie](https://m.media-amazon.com/images/I/315UBbswjwL._SL400_.jpg)](https://www.amazon.es/dp/B08H7SG44M/?tag=tolees-21)
 
 🔎:
 

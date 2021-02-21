@@ -2,7 +2,7 @@
 layout: post
 title: 'KFD - Cargador de 65 W 19 V para ASUS RO al 52.50 % de rebaja'
 date: 2020-03-24 04:58:25
-image: 'https://m.media-amazon.com/images/I/41O3oOZYLpL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41O3oOZYLpL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.8'
 
 Tienes [KFD - Cargador de 65 W 19 V para ASUS ROG Swift PG278Q PG279Q 27 LCD Monitor Toshiba N193 V85 R33030 65W Intel NUC Kit D34010WYK / D54250WYK ASUS](https://www.amazon.es/dp/B07MK1X94N/?tag=tolees-21) con precio final de  19.8 EUR (original: 41.68 EUR) (52.50 %  de rebaja) aqui!
 
-[![KFD - Cargador de 65 W 19 V para ASUS RO](https://m.media-amazon.com/images/I/41O3oOZYLpL._SL200_.jpg)](https://www.amazon.es/dp/B07MK1X94N/?tag=tolees-21)
+[![KFD - Cargador de 65 W 19 V para ASUS RO](https://m.media-amazon.com/images/I/41O3oOZYLpL._SL400_.jpg)](https://www.amazon.es/dp/B07MK1X94N/?tag=tolees-21)
 
 🔎:
 

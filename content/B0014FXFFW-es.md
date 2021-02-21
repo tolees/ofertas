@@ -2,7 +2,7 @@
 layout: post
 title: 'Casio Reloj de Pulsera BEM-116L-1AVEF al 61.96 % de rebaja'
 date: 2020-06-21 15:50:56
-image: 'https://m.media-amazon.com/images/I/51E3fTsPBAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51E3fTsPBAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '45.46'
 
 Tienes [Casio Reloj de Pulsera BEM-116L-1AVEF](https://www.amazon.es/dp/B0014FXFFW/?tag=tolees-21) con precio final de  41.84 EUR (original: 110.0 EUR) (61.96 %  de rebaja) aqui!
 
-[![Casio Reloj de Pulsera BEM-116L-1AVEF](https://m.media-amazon.com/images/I/51E3fTsPBAL._SL200_.jpg)](https://www.amazon.es/dp/B0014FXFFW/?tag=tolees-21)
+[![Casio Reloj de Pulsera BEM-116L-1AVEF](https://m.media-amazon.com/images/I/51E3fTsPBAL._SL400_.jpg)](https://www.amazon.es/dp/B0014FXFFW/?tag=tolees-21)
 
 🔎:
 

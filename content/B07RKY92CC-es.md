@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas Stan Smith  Zapatillas para Hombr al 56.08 % de descuento'
 date: 2020-01-26 12:04:45
-image: 'https://m.media-amazon.com/images/I/31T682vPeJL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31T682vPeJL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '43.9'
 
 Ahora mismo tienes [adidas Stan Smith  Zapatillas para Hombre  Blanco  Footwear White/Core Black/Footwear White 0   41 1/3 EU](https://www.amazon.es/dp/B07RKY92CC/?tag=tolees-21) a 43.9 EUR (original: 99.95 EUR) (56.08 %  de descuento) en el siguiente enlace!
 
-[![adidas Stan Smith  Zapatillas para Hombr](https://m.media-amazon.com/images/I/31T682vPeJL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07RKY92CC/?tag=tolees-21)
+[![adidas Stan Smith  Zapatillas para Hombr](https://m.media-amazon.com/images/I/31T682vPeJL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07RKY92CC/?tag=tolees-21)
 
 🔎:
 

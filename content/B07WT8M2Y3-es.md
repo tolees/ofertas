@@ -2,7 +2,7 @@
 layout: post
 title: 'Samsung Galaxy Watch Active 2 - Smartwat con un 45.43 % de descuento'
 date: 2020-09-04 13:23:47
-image: 'https://m.media-amazon.com/images/I/31uGoMVBSeL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31uGoMVBSeL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '368.8053333333333'
 
 En este momento está [Samsung Galaxy Watch Active 2 - Smartwatch de Acero  40mm  color Plata  LTE [Versión española]](https://www.amazon.es/dp/B07WT8M2Y3/?tag=tolees-21) a 247.11 EUR (original: 452.81 EUR) (45.43 %  de descuento) en el siguiente enlace!
 
-[![Samsung Galaxy Watch Active 2 - Smartwat](https://m.media-amazon.com/images/I/31uGoMVBSeL._SL200_.jpg)](https://www.amazon.es/dp/B07WT8M2Y3/?tag=tolees-21)
+[![Samsung Galaxy Watch Active 2 - Smartwat](https://m.media-amazon.com/images/I/31uGoMVBSeL._SL400_.jpg)](https://www.amazon.es/dp/B07WT8M2Y3/?tag=tolees-21)
 
 🔎:
 

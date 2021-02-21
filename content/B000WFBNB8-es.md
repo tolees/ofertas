@@ -2,7 +2,7 @@
 layout: post
 title: 'Trixie Accesorio para Mascotas  Un tamañ con un 36.43 % de descuento'
 date: 2020-06-01 09:08:22
-image: 'https://m.media-amazon.com/images/I/31IKDwX0HFL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31IKDwX0HFL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.72'
 
 En este momento está [Trixie Accesorio para Mascotas  Un tamaño 112 g](https://www.amazon.es/dp/B000WFBNB8/?tag=tolees-21) a 3.49 EUR (original: 5.49 EUR) (36.43 %  de descuento) en el siguiente enlace!
 
-[![Trixie Accesorio para Mascotas  Un tamañ](https://m.media-amazon.com/images/I/31IKDwX0HFL._SL200_.jpg)](https://www.amazon.es/dp/B000WFBNB8/?tag=tolees-21)
+[![Trixie Accesorio para Mascotas  Un tamañ](https://m.media-amazon.com/images/I/31IKDwX0HFL._SL400_.jpg)](https://www.amazon.es/dp/B000WFBNB8/?tag=tolees-21)
 
 🔎:
 

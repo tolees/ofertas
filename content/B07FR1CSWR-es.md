@@ -2,7 +2,7 @@
 layout: post
 title: 'Clarks Step Urban Mix  Zapatillas para H al 28.52 % de descuento'
 date: 2020-08-22 08:27:53
-image: 'https://m.media-amazon.com/images/I/31JNmDnKrBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31JNmDnKrBL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '47.004'
 
 Está [Clarks Step Urban Mix  Zapatillas para Hombre  Negro Black  39.5 EU](https://www.amazon.es/dp/B07FR1CSWR/?tag=tolees-21) con 28.52 de descuento por 50.0 EUR (original: 69.95 EUR) en el siguiente enlace!
 
-[![Clarks Step Urban Mix  Zapatillas para H](https://m.media-amazon.com/images/I/31JNmDnKrBL._SL200_.jpg)](https://www.amazon.es/dp/B07FR1CSWR/?tag=tolees-21)
+[![Clarks Step Urban Mix  Zapatillas para H](https://m.media-amazon.com/images/I/31JNmDnKrBL._SL400_.jpg)](https://www.amazon.es/dp/B07FR1CSWR/?tag=tolees-21)
 
 ℹ️:
 

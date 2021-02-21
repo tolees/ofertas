@@ -2,7 +2,7 @@
 layout: post
 title: 'FIND - Deep Forest - Trío de sombras de  con un 51.67 % de descuento'
 date: 2020-03-02 20:18:52
-image: 'https://m.media-amazon.com/images/I/31ONGc2JW6L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31ONGc2JW6L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.7'
 
 En este momento está [FIND - Deep Forest - Trío de sombras de ojos  n.10  n.11  n.12 ](https://www.amazon.es/dp/B07CTN98BN/?tag=tolees-21) a 2.9 EUR (original: 6.0 EUR) (51.67 %  de descuento) en el siguiente enlace!
 
-[![FIND - Deep Forest - Trío de sombras de ](https://m.media-amazon.com/images/I/31ONGc2JW6L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07CTN98BN/?tag=tolees-21)
+[![FIND - Deep Forest - Trío de sombras de ](https://m.media-amazon.com/images/I/31ONGc2JW6L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07CTN98BN/?tag=tolees-21)
 
 🔎:
 

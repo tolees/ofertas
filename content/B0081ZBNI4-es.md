@@ -2,7 +2,7 @@
 layout: post
 title: 'StarTech MUY1MFFS - Cable Adaptador esté al 78.25 % de rebaja'
 date: 2020-09-25 08:27:30
-image: 'https://m.media-amazon.com/images/I/41tXKekRcPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41tXKekRcPL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.485'
 
 Tienes [StarTech MUY1MFFS - Cable Adaptador estéreo  2 x 3.5 mm   Negro](https://www.amazon.es/dp/B0081ZBNI4/?tag=tolees-21) con precio final de  1.99 EUR (original: 9.15 EUR) (78.25 %  de rebaja) aqui!
 
-[![StarTech MUY1MFFS - Cable Adaptador esté](https://m.media-amazon.com/images/I/41tXKekRcPL._SL200_.jpg)](https://www.amazon.es/dp/B0081ZBNI4/?tag=tolees-21)
+[![StarTech MUY1MFFS - Cable Adaptador esté](https://m.media-amazon.com/images/I/41tXKekRcPL._SL400_.jpg)](https://www.amazon.es/dp/B0081ZBNI4/?tag=tolees-21)
 
 🔎:
 

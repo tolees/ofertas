@@ -2,7 +2,7 @@
 layout: post
 title: 'KHOMO - Carcasa Trasera Transparente par con un 36.90 % de descuento'
 date: 2020-09-19 08:00:58
-image: 'https://m.media-amazon.com/images/I/51FQVR6VuYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51FQVR6VuYL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.09'
 
 En este momento está [KHOMO - Carcasa Trasera Transparente para iPad de 9 7 Pulgadas  2017 y 2018  – Serie Dual de orimami híbrido  Pantalla Horizontal y Vertical Dorado iPad 9.7 Inch  2017 & 2018 ](https://www.amazon.es/dp/B07D6SV8N3/?tag=tolees-21) a 10.09 EUR (original: 15.99 EUR) (36.90 %  de descuento) en el siguiente enlace!
 
-[![KHOMO - Carcasa Trasera Transparente par](https://m.media-amazon.com/images/I/51FQVR6VuYL._SL200_.jpg)](https://www.amazon.es/dp/B07D6SV8N3/?tag=tolees-21)
+[![KHOMO - Carcasa Trasera Transparente par](https://m.media-amazon.com/images/I/51FQVR6VuYL._SL400_.jpg)](https://www.amazon.es/dp/B07D6SV8N3/?tag=tolees-21)
 
 🔎:
 

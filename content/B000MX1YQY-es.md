@@ -2,7 +2,7 @@
 layout: post
 title: 'Casio Reloj Digital para Unisex de Cuarz al 40.77 % de descuento'
 date: 2020-09-18 13:56:39
-image: 'https://m.media-amazon.com/images/I/41Ghpbcw8kL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Ghpbcw8kL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.945'
 
 Está [Casio Reloj Digital para Unisex de Cuarzo con Correa en Resina DB-36-1AVEF](https://www.amazon.es/dp/B000MX1YQY/?tag=tolees-21) con 40.77 de descuento por 29.99 EUR (original: 50.63 EUR) en el siguiente enlace!
 
-[![Casio Reloj Digital para Unisex de Cuarz](https://m.media-amazon.com/images/I/41Ghpbcw8kL._SL200_.jpg)](https://www.amazon.es/dp/B000MX1YQY/?tag=tolees-21)
+[![Casio Reloj Digital para Unisex de Cuarz](https://m.media-amazon.com/images/I/41Ghpbcw8kL._SL400_.jpg)](https://www.amazon.es/dp/B000MX1YQY/?tag=tolees-21)
 
 ℹ️:
 

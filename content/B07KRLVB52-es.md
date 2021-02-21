@@ -2,7 +2,7 @@
 layout: post
 title: 'New Balance 574v2 Zapatillas Hombre  Roj al 30.00 % de descuento'
 date: 2020-01-15 18:19:12
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41e8JeCO-zL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41e8JeCO-zL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '63'
 
 Ahora mismo tienes [New Balance 574v2 Zapatillas Hombre  Rojo  Red/White Red/White   41.5 EU](https://www.amazon.es/dp/B07KRLVB52/?tag=tolees-21) a 63 EUR (original: 90 EUR) (30.00 %  de descuento) en el siguiente enlace!
 
-[![New Balance 574v2 Zapatillas Hombre  Roj](https://images-eu.ssl-images-amazon.com/images/I/41e8JeCO-zL._SL200_.jpg)](https://www.amazon.es/dp/B07KRLVB52/?tag=tolees-21)
+[![New Balance 574v2 Zapatillas Hombre  Roj](https://images-eu.ssl-images-amazon.com/images/I/41e8JeCO-zL._SL400_.jpg)](https://www.amazon.es/dp/B07KRLVB52/?tag=tolees-21)
 
 🔎:
 

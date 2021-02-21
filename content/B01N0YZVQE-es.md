@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 40.43 % en Sandisk SDCZ800-128G-G46 Memoria Flash U'
 date: 2020-09-22 16:21:44
-image: 'https://m.media-amazon.com/images/I/41JWDxMXKrL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41JWDxMXKrL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '31.369333333333334'
 
 Tienes [Sandisk SDCZ800-128G-G46 Memoria Flash Usb Sandisk Extreme Go  128 Gb  Negro](https://www.amazon.es/dp/B01N0YZVQE/?tag=tolees-21) con un 40.43 % de descuento con precio de oferta de 27.99 EUR (original: 46.99 EUR) en el siguiente enlace!
 
-[![Sandisk SDCZ800-128G-G46 Memoria Flash U](https://m.media-amazon.com/images/I/41JWDxMXKrL._SL200_.jpg)](https://www.amazon.es/dp/B01N0YZVQE/?tag=tolees-21)
+[![Sandisk SDCZ800-128G-G46 Memoria Flash U](https://m.media-amazon.com/images/I/41JWDxMXKrL._SL400_.jpg)](https://www.amazon.es/dp/B01N0YZVQE/?tag=tolees-21)
 
 ℹ️:
 

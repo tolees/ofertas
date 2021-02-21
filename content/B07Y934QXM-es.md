@@ -2,7 +2,7 @@
 layout: post
 title: 'XTI 57028  Zapatillas para Niñas  Amaril al 33.39 % de rebaja'
 date: 2020-10-03 18:13:31
-image: 'https://m.media-amazon.com/images/I/31MrL1rBX9L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31MrL1rBX9L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.95'
 
 Tienes [XTI 57028  Zapatillas para Niñas  Amarillo  Amarillo Amarillo   32 EU](https://www.amazon.es/dp/B07Y934QXM/?tag=tolees-21) con precio final de  19.95 EUR (original: 29.95 EUR) (33.39 %  de rebaja) aqui!
 
-[![XTI 57028  Zapatillas para Niñas  Amaril](https://m.media-amazon.com/images/I/31MrL1rBX9L._SL200_.jpg)](https://www.amazon.es/dp/B07Y934QXM/?tag=tolees-21)
+[![XTI 57028  Zapatillas para Niñas  Amaril](https://m.media-amazon.com/images/I/31MrL1rBX9L._SL400_.jpg)](https://www.amazon.es/dp/B07Y934QXM/?tag=tolees-21)
 
 🔎:
 

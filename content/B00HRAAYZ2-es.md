@@ -2,7 +2,7 @@
 layout: post
 title: 'PUMA Basket Classic LFS  Zapatillas para al 67.10 % de descuento'
 date: 2020-07-21 12:19:14
-image: 'https://m.media-amazon.com/images/I/311K8hQCtlL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/311K8hQCtlL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '27.95'
 
 Ahora mismo tienes [PUMA Basket Classic LFS  Zapatillas para Hombre  Negro  Black/Team Gold   42 EU](https://www.amazon.es/dp/B00HRAAYZ2/?tag=tolees-21) a 27.95 EUR (original: 84.95 EUR) (67.10 %  de descuento) en el siguiente enlace!
 
-[![PUMA Basket Classic LFS  Zapatillas para](https://m.media-amazon.com/images/I/311K8hQCtlL._SL200_.jpg)](https://www.amazon.es/dp/B00HRAAYZ2/?tag=tolees-21)
+[![PUMA Basket Classic LFS  Zapatillas para](https://m.media-amazon.com/images/I/311K8hQCtlL._SL400_.jpg)](https://www.amazon.es/dp/B00HRAAYZ2/?tag=tolees-21)
 
 🔎:
 

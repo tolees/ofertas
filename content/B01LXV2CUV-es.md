@@ -2,7 +2,7 @@
 layout: post
 title: 'Vernel Aromaterapia Secretos de Bienesta al 60.94 % de descuento'
 date: 2020-06-15 15:47:33
-image: 'https://m.media-amazon.com/images/I/516egnVH6gL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/516egnVH6gL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.0'
 
 Ahora mismo tienes [Vernel Aromaterapia Secretos de Bienestar Suavizante Concentrado Aceite de Argán y Jazmín - 1311 ml](https://www.amazon.es/dp/B01LXV2CUV/?tag=tolees-21) a 1.0 EUR (original: 2.56 EUR) (60.94 %  de descuento) en el siguiente enlace!
 
-[![Vernel Aromaterapia Secretos de Bienesta](https://m.media-amazon.com/images/I/516egnVH6gL._SL200_.jpg)](https://www.amazon.es/dp/B01LXV2CUV/?tag=tolees-21)
+[![Vernel Aromaterapia Secretos de Bienesta](https://m.media-amazon.com/images/I/516egnVH6gL._SL400_.jpg)](https://www.amazon.es/dp/B01LXV2CUV/?tag=tolees-21)
 
 🔎:
 

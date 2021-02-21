@@ -2,7 +2,7 @@
 layout: post
 title: 'Fossil Smartwatch FTW4012 al 44.01 % de descuento'
 date: 2020-05-06 14:27:48
-image: 'https://m.media-amazon.com/images/I/41Ue13xt63L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Ue13xt63L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '183.9975'
 
 Ahora mismo tienes [Fossil Smartwatch FTW4012](https://www.amazon.es/dp/B07FFMFNBP/?tag=tolees-21) a 167.4 EUR (original: 299.0 EUR) (44.01 %  de descuento) en el siguiente enlace!
 
-[![Fossil Smartwatch FTW4012](https://m.media-amazon.com/images/I/41Ue13xt63L._SL200_.jpg)](https://www.amazon.es/dp/B07FFMFNBP/?tag=tolees-21)
+[![Fossil Smartwatch FTW4012](https://m.media-amazon.com/images/I/41Ue13xt63L._SL400_.jpg)](https://www.amazon.es/dp/B07FFMFNBP/?tag=tolees-21)
 
 🔎:
 

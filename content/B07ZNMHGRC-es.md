@@ -2,7 +2,7 @@
 layout: post
 title: 'Pajitas de silicona reutilizables – paji al 50.03 % de descuento'
 date: 2020-01-30 13:24:29
-image: 'https://m.media-amazon.com/images/I/51DbFKsVnIL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51DbFKsVnIL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.99'
 
 Ahora mismo tienes [Pajitas de silicona reutilizables – pajitas grandes para batidos y zumos en colores inspirados en frutas – Paquete de 8](https://www.amazon.es/dp/B07ZNMHGRC/?tag=tolees-21) a 9.99 EUR (original: 19.99 EUR) (50.03 %  de descuento) en el siguiente enlace!
 
-[![Pajitas de silicona reutilizables – paji](https://m.media-amazon.com/images/I/51DbFKsVnIL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07ZNMHGRC/?tag=tolees-21)
+[![Pajitas de silicona reutilizables – paji](https://m.media-amazon.com/images/I/51DbFKsVnIL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07ZNMHGRC/?tag=tolees-21)
 
 🔎:
 

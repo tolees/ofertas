@@ -2,7 +2,7 @@
 layout: post
 title: 'G-STAR RAW ZED Cinturón  Marrón  Dk Cogn al 63.08 % de descuento'
 date: 2020-02-03 20:14:55
-image: 'https://m.media-amazon.com/images/I/21RAY644GeL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21RAY644GeL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.35'
 
 Está [G-STAR RAW ZED Cinturón  Marrón  Dk Cognac/Antic Silver 8128   110 para Hombre](https://www.amazon.es/dp/B01M74F1TP/?tag=tolees-21) con 63.08 de descuento por 14.75 EUR (original: 39.95 EUR) en el siguiente enlace!
 
-[![G-STAR RAW ZED Cinturón  Marrón  Dk Cogn](https://m.media-amazon.com/images/I/21RAY644GeL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01M74F1TP/?tag=tolees-21)
+[![G-STAR RAW ZED Cinturón  Marrón  Dk Cogn](https://m.media-amazon.com/images/I/21RAY644GeL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01M74F1TP/?tag=tolees-21)
 
 ℹ️:
 

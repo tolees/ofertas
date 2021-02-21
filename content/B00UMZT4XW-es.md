@@ -2,7 +2,7 @@
 layout: post
 title: 'MOLDE ESPELTA BLANCO BLAND BIO al 34.49 % de rebaja'
 date: 2020-05-11 04:42:00
-image: 'https://m.media-amazon.com/images/I/41jTkqPuKeL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41jTkqPuKeL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.71'
 
 Tienes [MOLDE ESPELTA BLANCO BLAND BIO](https://www.amazon.es/dp/B00UMZT4XW/?tag=tolees-21) con precio final de  4.71 EUR (original: 7.19 EUR) (34.49 %  de rebaja) aqui!
 
-[![MOLDE ESPELTA BLANCO BLAND BIO](https://m.media-amazon.com/images/I/41jTkqPuKeL._SL200_.jpg)](https://www.amazon.es/dp/B00UMZT4XW/?tag=tolees-21)
+[![MOLDE ESPELTA BLANCO BLAND BIO](https://m.media-amazon.com/images/I/41jTkqPuKeL._SL400_.jpg)](https://www.amazon.es/dp/B00UMZT4XW/?tag=tolees-21)
 
 🔎:
 

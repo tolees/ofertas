@@ -2,7 +2,7 @@
 layout: post
 title: 'YIY Bandeja de Viaje para Asiento de Coc al 52.61 % de rebaja'
 date: 2020-04-28 17:03:07
-image: 'https://m.media-amazon.com/images/I/4144KcIHgpL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/4144KcIHgpL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.7'
 
 Tienes [YIY Bandeja de Viaje para Asiento de Coche para niños - Bandeja de Viaje y Aprendizaje Impermeable para Comer y Jugar con Bolsillos Laterales de Malla](https://www.amazon.es/dp/B07L1W4DTH/?tag=tolees-21) con precio final de  14.7 EUR (original: 31.02 EUR) (52.61 %  de rebaja) aqui!
 
-[![YIY Bandeja de Viaje para Asiento de Coc](https://m.media-amazon.com/images/I/4144KcIHgpL._SL200_.jpg)](https://www.amazon.es/dp/B07L1W4DTH/?tag=tolees-21)
+[![YIY Bandeja de Viaje para Asiento de Coc](https://m.media-amazon.com/images/I/4144KcIHgpL._SL400_.jpg)](https://www.amazon.es/dp/B07L1W4DTH/?tag=tolees-21)
 
 🔎:
 

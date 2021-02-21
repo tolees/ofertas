@@ -2,7 +2,7 @@
 layout: post
 title: 'Syoss Espuma Keratin - 250 ml al 60.00 % de descuento'
 date: 2020-06-01 11:51:48
-image: 'https://m.media-amazon.com/images/I/31QDs0Q5u7L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31QDs0Q5u7L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.0'
 
 Ahora mismo tienes [Syoss Espuma Keratin - 250 ml](https://www.amazon.es/dp/B07TT7MCQY/?tag=tolees-21) a 1.0 EUR (original: 2.5 EUR) (60.00 %  de descuento) en el siguiente enlace!
 
-[![Syoss Espuma Keratin - 250 ml](https://m.media-amazon.com/images/I/31QDs0Q5u7L._SL200_.jpg)](https://www.amazon.es/dp/B07TT7MCQY/?tag=tolees-21)
+[![Syoss Espuma Keratin - 250 ml](https://m.media-amazon.com/images/I/31QDs0Q5u7L._SL400_.jpg)](https://www.amazon.es/dp/B07TT7MCQY/?tag=tolees-21)
 
 🔎:
 

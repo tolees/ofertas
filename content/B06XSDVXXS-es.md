@@ -2,7 +2,7 @@
 layout: post
 title: 'New Balance Wxnrgv1  Zapatillas Deportiv al 63.64 % de descuento'
 date: 2020-02-09 11:10:55
-image: 'https://m.media-amazon.com/images/I/41GXfDhx1pL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41GXfDhx1pL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '28.884999999999998'
 
 Está [New Balance Wxnrgv1  Zapatillas Deportivas para Interior para Mujer  Gris  Light Grey   37.5 EU](https://www.amazon.es/dp/B06XSDVXXS/?tag=tolees-21) con 63.64 de descuento por 25.45 EUR (original: 70.0 EUR) en el siguiente enlace!
 
-[![New Balance Wxnrgv1  Zapatillas Deportiv](https://m.media-amazon.com/images/I/41GXfDhx1pL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B06XSDVXXS/?tag=tolees-21)
+[![New Balance Wxnrgv1  Zapatillas Deportiv](https://m.media-amazon.com/images/I/41GXfDhx1pL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B06XSDVXXS/?tag=tolees-21)
 
 ℹ️:
 

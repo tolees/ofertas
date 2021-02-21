@@ -2,7 +2,7 @@
 layout: post
 title: 'Hackett London Coral Swim Trim Polo  Ama al 60.00 % de rebaja'
 date: 2020-08-25 08:03:56
-image: 'https://m.media-amazon.com/images/I/41aXmwWxyuL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41aXmwWxyuL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '38.0'
 
 Tienes [Hackett London Coral Swim Trim Polo  Amarillo  022fresh Yellow 022   X-Large para Hombre](https://www.amazon.es/dp/B07VKXH4KC/?tag=tolees-21) con precio final de  38.0 EUR (original: 95.0 EUR) (60.00 %  de rebaja) aqui!
 
-[![Hackett London Coral Swim Trim Polo  Ama](https://m.media-amazon.com/images/I/41aXmwWxyuL._SL200_.jpg)](https://www.amazon.es/dp/B07VKXH4KC/?tag=tolees-21)
+[![Hackett London Coral Swim Trim Polo  Ama](https://m.media-amazon.com/images/I/41aXmwWxyuL._SL400_.jpg)](https://www.amazon.es/dp/B07VKXH4KC/?tag=tolees-21)
 
 🔎:
 

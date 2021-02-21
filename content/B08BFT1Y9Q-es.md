@@ -2,7 +2,7 @@
 layout: post
 title: 'RE Anillo de Luz LED 6 Pulgadas con Sopo al 66.01 % de rebaja'
 date: 2020-08-23 09:55:31
-image: 'https://m.media-amazon.com/images/I/41pt8G57FrL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41pt8G57FrL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.99'
 
 Tienes [RE Anillo de Luz LED 6 Pulgadas con Soporte de Móvil Ajustable 360 Rotación  3 Colores Modos y 10 Brillos Niveles Aro de Luz para Movil Selfie o TikTok Youtube Video  Instagram Facebook o Maquillajes](https://www.amazon.es/dp/B08BFT1Y9Q/?tag=tolees-21) con precio final de  16.99 EUR (original: 49.99 EUR) (66.01 %  de rebaja) aqui!
 
-[![RE Anillo de Luz LED 6 Pulgadas con Sopo](https://m.media-amazon.com/images/I/41pt8G57FrL._SL200_.jpg)](https://www.amazon.es/dp/B08BFT1Y9Q/?tag=tolees-21)
+[![RE Anillo de Luz LED 6 Pulgadas con Sopo](https://m.media-amazon.com/images/I/41pt8G57FrL._SL400_.jpg)](https://www.amazon.es/dp/B08BFT1Y9Q/?tag=tolees-21)
 
 🔎:
 

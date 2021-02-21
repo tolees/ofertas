@@ -2,7 +2,7 @@
 layout: post
 title: 'Trust Urban - Palo para Selfie  Bluetoot con un 60.03 % de descuento'
 date: 2020-09-11 16:45:32
-image: 'https://m.media-amazon.com/images/I/31Evg6n8ENL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Evg6n8ENL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.99'
 
 En este momento está [Trust Urban - Palo para Selfie  Bluetooth  plegable   negro](https://www.amazon.es/dp/B019M0AY3Q/?tag=tolees-21) a 7.99 EUR (original: 19.99 EUR) (60.03 %  de descuento) en el siguiente enlace!
 
-[![Trust Urban - Palo para Selfie  Bluetoot](https://m.media-amazon.com/images/I/31Evg6n8ENL._SL200_.jpg)](https://www.amazon.es/dp/B019M0AY3Q/?tag=tolees-21)
+[![Trust Urban - Palo para Selfie  Bluetoot](https://m.media-amazon.com/images/I/31Evg6n8ENL._SL400_.jpg)](https://www.amazon.es/dp/B019M0AY3Q/?tag=tolees-21)
 
 🔎:
 

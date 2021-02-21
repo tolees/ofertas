@@ -2,7 +2,7 @@
 layout: post
 title: 'GLOBE Sabre  Zapatillas de Skateboard pa con un 34.52 % de descuento'
 date: 2020-08-09 08:17:12
-image: 'https://m.media-amazon.com/images/I/41p1qcAafpL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41p1qcAafpL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '57.54'
 
 En este momento está [GLOBE Sabre  Zapatillas de Skateboard para Hombre  Multicolor  Grey/Black Split 14316   37 EU](https://www.amazon.es/dp/B07W5T8QYP/?tag=tolees-21) a 72.0 EUR (original: 109.95 EUR) (34.52 %  de descuento) en el siguiente enlace!
 
-[![GLOBE Sabre  Zapatillas de Skateboard pa](https://m.media-amazon.com/images/I/41p1qcAafpL._SL200_.jpg)](https://www.amazon.es/dp/B07W5T8QYP/?tag=tolees-21)
+[![GLOBE Sabre  Zapatillas de Skateboard pa](https://m.media-amazon.com/images/I/41p1qcAafpL._SL400_.jpg)](https://www.amazon.es/dp/B07W5T8QYP/?tag=tolees-21)
 
 🔎:
 

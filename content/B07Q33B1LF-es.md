@@ -2,7 +2,7 @@
 layout: post
 title: 'Philips PRO6305BK/00 - Auriculares intra al 52.11 % de descuento'
 date: 2020-06-28 21:01:22
-image: 'https://m.media-amazon.com/images/I/31UdrfSKaFL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31UdrfSKaFL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.94'
 
 Está [Philips PRO6305BK/00 - Auriculares intrauditivos  1.2 m  12.2 mm  Neodimio  32 g  Negro](https://www.amazon.es/dp/B07Q33B1LF/?tag=tolees-21) con 52.11 de descuento por 23.94 EUR (original: 49.99 EUR) en el siguiente enlace!
 
-[![Philips PRO6305BK/00 - Auriculares intra](https://m.media-amazon.com/images/I/31UdrfSKaFL._SL200_.jpg)](https://www.amazon.es/dp/B07Q33B1LF/?tag=tolees-21)
+[![Philips PRO6305BK/00 - Auriculares intra](https://m.media-amazon.com/images/I/31UdrfSKaFL._SL400_.jpg)](https://www.amazon.es/dp/B07Q33B1LF/?tag=tolees-21)
 
 ℹ️:
 

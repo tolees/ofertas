@@ -2,7 +2,7 @@
 layout: post
 title: 'Joma Marsella Camisetas Equip. M/c  Homb al 33.44 % de descuento'
 date: 2020-01-08 18:14:53
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31GEq-f26ML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31GEq-f26ML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.470000000000001'
 
 Ahora mismo tienes [Joma Marsella Camisetas Equip. M/c  Hombre  Blanco  2XL](https://www.amazon.es/dp/B07FKLQQRW/?tag=tolees-21) a 5.99 EUR (original: 9 EUR) (33.44 %  de descuento) en el siguiente enlace!
 
-[![Joma Marsella Camisetas Equip. M/c  Homb](https://images-eu.ssl-images-amazon.com/images/I/31GEq-f26ML._SL200_.jpg)](https://www.amazon.es/dp/B07FKLQQRW/?tag=tolees-21)
+[![Joma Marsella Camisetas Equip. M/c  Homb](https://images-eu.ssl-images-amazon.com/images/I/31GEq-f26ML._SL400_.jpg)](https://www.amazon.es/dp/B07FKLQQRW/?tag=tolees-21)
 
 🔎:
 

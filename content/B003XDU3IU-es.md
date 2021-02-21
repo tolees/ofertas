@@ -2,7 +2,7 @@
 layout: post
 title: 'Vans Herren Classic T-Shirt  Weiß  WHITE con un 30.17 % de descuento'
 date: 2020-07-09 18:55:04
-image: 'https://m.media-amazon.com/images/I/31DKELaiCsL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31DKELaiCsL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.413333333333334'
 
 En este momento está [Vans Herren Classic T-Shirt  Weiß  WHITE-BLACK YB2   XL](https://www.amazon.es/dp/B003XDU3IU/?tag=tolees-21) a 20.95 EUR (original: 30.0 EUR) (30.17 %  de descuento) en el siguiente enlace!
 
-[![Vans Herren Classic T-Shirt  Weiß  WHITE](https://m.media-amazon.com/images/I/31DKELaiCsL._SL200_.jpg)](https://www.amazon.es/dp/B003XDU3IU/?tag=tolees-21)
+[![Vans Herren Classic T-Shirt  Weiß  WHITE](https://m.media-amazon.com/images/I/31DKELaiCsL._SL400_.jpg)](https://www.amazon.es/dp/B003XDU3IU/?tag=tolees-21)
 
 🔎:
 

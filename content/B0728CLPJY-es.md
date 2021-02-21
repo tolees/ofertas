@@ -2,7 +2,7 @@
 layout: post
 title: 'BB-9E App-Enabled Droid con Droid Traine con un 50.01 % de descuento'
 date: 2020-02-02 16:29:24
-image: 'https://m.media-amazon.com/images/I/415TU+VreeL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/415TU+VreeL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '74.98'
 
 En este momento está [BB-9E App-Enabled Droid con Droid Trainer de Sphero](https://www.amazon.es/dp/B0728CLPJY/?tag=tolees-21) a 74.98 EUR (original: 149.99 EUR) (50.01 %  de descuento) en el siguiente enlace!
 
-[![BB-9E App-Enabled Droid con Droid Traine](https://m.media-amazon.com/images/I/415TU+VreeL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B0728CLPJY/?tag=tolees-21)
+[![BB-9E App-Enabled Droid con Droid Traine](https://m.media-amazon.com/images/I/415TU+VreeL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B0728CLPJY/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'CableDeconn HDMI to 3RCA Cable  HDMI to  al 55.01 % de descuento'
 date: 2020-04-14 00:31:32
-image: 'https://m.media-amazon.com/images/I/41UXrbc6tNL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41UXrbc6tNL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.99'
 
 Está [CableDeconn HDMI to 3RCA Cable  HDMI to 3RCA AV Composite Video Audio Converter Adapter For Amazon Fire TV Sticks HD Player PC Laptop HDTV etc](https://www.amazon.es/dp/B07FZ6Y46Z/?tag=tolees-21) con 55.01 de descuento por 17.99 EUR (original: 39.99 EUR) en el siguiente enlace!
 
-[![CableDeconn HDMI to 3RCA Cable  HDMI to ](https://m.media-amazon.com/images/I/41UXrbc6tNL._SL200_.jpg)](https://www.amazon.es/dp/B07FZ6Y46Z/?tag=tolees-21)
+[![CableDeconn HDMI to 3RCA Cable  HDMI to ](https://m.media-amazon.com/images/I/41UXrbc6tNL._SL400_.jpg)](https://www.amazon.es/dp/B07FZ6Y46Z/?tag=tolees-21)
 
 ℹ️:
 

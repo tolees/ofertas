@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 28.99 % en Bourjois Poudre De Java Polvos Tono  3.5'
 date: 2020-04-03 16:22:22
-image: 'https://m.media-amazon.com/images/I/51QA-JiiVJL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51QA-JiiVJL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.74'
 
 Tienes [Bourjois Poudre De Java Polvos Tono  3.5gr](https://www.amazon.es/dp/B00EUZUNJO/?tag=tolees-21) con un 28.99 % de descuento con precio de oferta de 7.74 EUR (original: 10.9 EUR) en el siguiente enlace!
 
-[![Bourjois Poudre De Java Polvos Tono  3.5](https://m.media-amazon.com/images/I/51QA-JiiVJL._SL200_.jpg)](https://www.amazon.es/dp/B00EUZUNJO/?tag=tolees-21)
+[![Bourjois Poudre De Java Polvos Tono  3.5](https://m.media-amazon.com/images/I/51QA-JiiVJL._SL400_.jpg)](https://www.amazon.es/dp/B00EUZUNJO/?tag=tolees-21)
 
 ℹ️:
 

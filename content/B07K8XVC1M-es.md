@@ -2,7 +2,7 @@
 layout: post
 title: 'Crocs Classic Slipper  Zapatillas Bajas  al 48.75 % de descuento'
 date: 2020-04-10 14:12:10
-image: 'https://m.media-amazon.com/images/I/21VD-jhz4qL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21VD-jhz4qL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.37'
 
 Está [Crocs Classic Slipper  Zapatillas Bajas Unisex Adulto  Azul  Mineral Blue/Mineral Blue 4jz   42/43 EU](https://www.amazon.es/dp/B07K8XVC1M/?tag=tolees-21) con 48.75 de descuento por 15.37 EUR (original: 29.99 EUR) en el siguiente enlace!
 
-[![Crocs Classic Slipper  Zapatillas Bajas ](https://m.media-amazon.com/images/I/21VD-jhz4qL._SL200_.jpg)](https://www.amazon.es/dp/B07K8XVC1M/?tag=tolees-21)
+[![Crocs Classic Slipper  Zapatillas Bajas ](https://m.media-amazon.com/images/I/21VD-jhz4qL._SL400_.jpg)](https://www.amazon.es/dp/B07K8XVC1M/?tag=tolees-21)
 
 ℹ️:
 

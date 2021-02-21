@@ -2,7 +2,7 @@
 layout: post
 title: 'Dek Kids - Zapatillas Unisex de tela de  al 34.45 % de descuento'
 date: 2020-05-13 08:05:36
-image: 'https://m.media-amazon.com/images/I/41bKSdk4efL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41bKSdk4efL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.2'
 
 Está [Dek Kids - Zapatillas Unisex de tela de cordones para niños/jóvenes  34 EU/Negro ](https://www.amazon.es/dp/B01ACTOHXY/?tag=tolees-21) con 34.45 de descuento por 8.2 EUR (original: 12.51 EUR) en el siguiente enlace!
 
-[![Dek Kids - Zapatillas Unisex de tela de ](https://m.media-amazon.com/images/I/41bKSdk4efL._SL200_.jpg)](https://www.amazon.es/dp/B01ACTOHXY/?tag=tolees-21)
+[![Dek Kids - Zapatillas Unisex de tela de ](https://m.media-amazon.com/images/I/41bKSdk4efL._SL400_.jpg)](https://www.amazon.es/dp/B01ACTOHXY/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'OtterBox Defender - Funda de protección  al 25.00 % de rebaja'
 date: 2020-05-27 09:44:03
-image: 'https://m.media-amazon.com/images/I/41eN9YwBcWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41eN9YwBcWL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '67.49'
 
 Tienes [OtterBox Defender - Funda de protección triple capa para Apple iPad Pro 10.5"  negro](https://www.amazon.es/dp/B00Z7T6F4Y/?tag=tolees-21) con precio final de  67.49 EUR (original: 89.99 EUR) (25.00 %  de rebaja) aqui!
 
-[![OtterBox Defender - Funda de protección ](https://m.media-amazon.com/images/I/41eN9YwBcWL._SL200_.jpg)](https://www.amazon.es/dp/B00Z7T6F4Y/?tag=tolees-21)
+[![OtterBox Defender - Funda de protección ](https://m.media-amazon.com/images/I/41eN9YwBcWL._SL400_.jpg)](https://www.amazon.es/dp/B00Z7T6F4Y/?tag=tolees-21)
 
 🔎:
 

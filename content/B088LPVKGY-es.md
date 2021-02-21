@@ -2,7 +2,7 @@
 layout: post
 title: 'PU Funda de Cuero para teléfono Riñonera con un 40.00 % de descuento'
 date: 2020-07-16 11:05:35
-image: 'https://m.media-amazon.com/images/I/41CcsI8jMzL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41CcsI8jMzL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.47'
 
 En este momento está [PU Funda de Cuero para teléfono Riñonera Cinturón Clip para Hombre Cintura Colgante Bolsa de Almacenamiento Macho Portátil Sólido para Hombre Bolsa para teléfono al Aire Libre](https://www.amazon.es/dp/B088LPVKGY/?tag=tolees-21) a 1.47 EUR (original: 2.45 EUR) (40.00 %  de descuento) en el siguiente enlace!
 
-[![PU Funda de Cuero para teléfono Riñonera](https://m.media-amazon.com/images/I/41CcsI8jMzL._SL200_.jpg)](https://www.amazon.es/dp/B088LPVKGY/?tag=tolees-21)
+[![PU Funda de Cuero para teléfono Riñonera](https://m.media-amazon.com/images/I/41CcsI8jMzL._SL400_.jpg)](https://www.amazon.es/dp/B088LPVKGY/?tag=tolees-21)
 
 🔎:
 

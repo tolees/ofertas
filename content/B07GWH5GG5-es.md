@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 50.03 % en SUPORE Vivosmart HR Activity Tracker Cor'
 date: 2020-08-25 08:03:01
-image: 'https://m.media-amazon.com/images/I/41AjRI3p2PL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41AjRI3p2PL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.99'
 
 Tienes [SUPORE Vivosmart HR Activity Tracker Correa de Reloj de Repuesto  Accesorios Correa de Reloj de Silicona Suave Ajustable Reemplazo diseñado para Vivosmart HR Smart Sport Reloj](https://www.amazon.es/dp/B07GWH5GG5/?tag=tolees-21) con un 50.03 % de descuento con precio de oferta de 9.99 EUR (original: 19.99 EUR) en el siguiente enlace!
 
-[![SUPORE Vivosmart HR Activity Tracker Cor](https://m.media-amazon.com/images/I/41AjRI3p2PL._SL200_.jpg)](https://www.amazon.es/dp/B07GWH5GG5/?tag=tolees-21)
+[![SUPORE Vivosmart HR Activity Tracker Cor](https://m.media-amazon.com/images/I/41AjRI3p2PL._SL400_.jpg)](https://www.amazon.es/dp/B07GWH5GG5/?tag=tolees-21)
 
 ℹ️:
 

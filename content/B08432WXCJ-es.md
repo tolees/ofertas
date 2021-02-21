@@ -2,7 +2,7 @@
 layout: post
 title: 'Baby Dove - Loción para bebés Noche Tran al 66.56 % de descuento'
 date: 2020-05-25 19:10:22
-image: 'https://m.media-amazon.com/images/I/41GaTPW-loL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41GaTPW-loL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.0'
 
 Ahora mismo tienes [Baby Dove - Loción para bebés Noche Tranquilas  400ml](https://www.amazon.es/dp/B08432WXCJ/?tag=tolees-21) a 1.0 EUR (original: 2.99 EUR) (66.56 %  de descuento) en el siguiente enlace!
 
-[![Baby Dove - Loción para bebés Noche Tran](https://m.media-amazon.com/images/I/41GaTPW-loL._SL200_.jpg)](https://www.amazon.es/dp/B08432WXCJ/?tag=tolees-21)
+[![Baby Dove - Loción para bebés Noche Tran](https://m.media-amazon.com/images/I/41GaTPW-loL._SL400_.jpg)](https://www.amazon.es/dp/B08432WXCJ/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'AI: SOMNIUM FILES COLLECTOR EDITION con un 44.49 % de descuento'
 date: 2020-08-21 09:17:54
-image: 'https://m.media-amazon.com/images/I/51+b7XHoSiL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51+b7XHoSiL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '56.85333333333334'
 
 En este momento está [AI: SOMNIUM FILES COLLECTOR EDITION](https://www.amazon.es/dp/B07VVDBGD8/?tag=tolees-21) a 49.95 EUR (original: 89.99 EUR) (44.49 %  de descuento) en el siguiente enlace!
 
-[![AI: SOMNIUM FILES COLLECTOR EDITION](https://m.media-amazon.com/images/I/51+b7XHoSiL._SL200_.jpg)](https://www.amazon.es/dp/B07VVDBGD8/?tag=tolees-21)
+[![AI: SOMNIUM FILES COLLECTOR EDITION](https://m.media-amazon.com/images/I/51+b7XHoSiL._SL400_.jpg)](https://www.amazon.es/dp/B07VVDBGD8/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Sunburst Snacks Sunburst cacahuetes tost al 28.78 % de descuento'
 date: 2020-04-17 00:32:57
-image: 'https://m.media-amazon.com/images/I/41GZcukH9UL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41GZcukH9UL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.78'
 
 Ahora mismo tienes [Sunburst Snacks Sunburst cacahuetes tostados y salados mar  no transgénica y no aromatizantes  aditivos ni conservantes  500 g](https://www.amazon.es/dp/B00I7P2REM/?tag=tolees-21) a 6.78 EUR (original: 9.52 EUR) (28.78 %  de descuento) en el siguiente enlace!
 
-[![Sunburst Snacks Sunburst cacahuetes tost](https://m.media-amazon.com/images/I/41GZcukH9UL._SL200_.jpg)](https://www.amazon.es/dp/B00I7P2REM/?tag=tolees-21)
+[![Sunburst Snacks Sunburst cacahuetes tost](https://m.media-amazon.com/images/I/41GZcukH9UL._SL400_.jpg)](https://www.amazon.es/dp/B00I7P2REM/?tag=tolees-21)
 
 🔎:
 

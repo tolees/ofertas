@@ -2,7 +2,7 @@
 layout: post
 title: 'Linksys RE6500-EJ - Extensor de Red Wi-F al 31.00 % de descuento'
 date: 2020-04-10 17:27:20
-image: 'https://m.media-amazon.com/images/I/31OJpEJwetL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31OJpEJwetL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '66.435'
 
 Ahora mismo tienes [Linksys RE6500-EJ - Extensor de Red Wi-Fi AC1200  N300 + AC867 Mbps  Cross-Band  4 Puertos Gigabit Ethernet  Doble Banda 2 4 + 5 GHz  Audio por Streaming  compatibilidad Universal   Negro](https://www.amazon.es/dp/B00M6NAG12/?tag=tolees-21) a 68.99 EUR (original: 99.99 EUR) (31.00 %  de descuento) en el siguiente enlace!
 
-[![Linksys RE6500-EJ - Extensor de Red Wi-F](https://m.media-amazon.com/images/I/31OJpEJwetL._SL200_.jpg)](https://www.amazon.es/dp/B00M6NAG12/?tag=tolees-21)
+[![Linksys RE6500-EJ - Extensor de Red Wi-F](https://m.media-amazon.com/images/I/31OJpEJwetL._SL400_.jpg)](https://www.amazon.es/dp/B00M6NAG12/?tag=tolees-21)
 
 🔎:
 

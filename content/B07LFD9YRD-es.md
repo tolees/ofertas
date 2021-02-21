@@ -2,7 +2,7 @@
 layout: post
 title: 'SWIM ELITE Gorro Piscina - Gorro Natació al 30.72 % de rebaja'
 date: 2020-06-14 11:35:09
-image: 'https://m.media-amazon.com/images/I/51djsbphjXL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51djsbphjXL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.85'
 
 Tienes [SWIM ELITE Gorro Piscina - Gorro Natación Mujer y Hombre - Gorro Natación Pelo Largo y Dreadlocks  Turq  XL ](https://www.amazon.es/dp/B07LFD9YRD/?tag=tolees-21) con precio final de  13.85 EUR (original: 19.99 EUR) (30.72 %  de rebaja) aqui!
 
-[![SWIM ELITE Gorro Piscina - Gorro Natació](https://m.media-amazon.com/images/I/51djsbphjXL._SL200_.jpg)](https://www.amazon.es/dp/B07LFD9YRD/?tag=tolees-21)
+[![SWIM ELITE Gorro Piscina - Gorro Natació](https://m.media-amazon.com/images/I/51djsbphjXL._SL400_.jpg)](https://www.amazon.es/dp/B07LFD9YRD/?tag=tolees-21)
 
 🔎:
 

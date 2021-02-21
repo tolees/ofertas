@@ -2,7 +2,7 @@
 layout: post
 title: 'Scholl Lima Electrónica de Pies Rosa y 2 al 33.98 % de descuento'
 date: 2020-04-25 07:31:40
-image: 'https://m.media-amazon.com/images/I/5164gKLN2IL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/5164gKLN2IL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.243846153846153'
 
 Está [Scholl Lima Electrónica de Pies Rosa y 2 Pintauñas de Color Rojo y Transparente - Pack Regalo](https://www.amazon.es/dp/B076PM1GSK/?tag=tolees-21) con 33.98 de descuento por 28.0 EUR (original: 42.41 EUR) en el siguiente enlace!
 
-[![Scholl Lima Electrónica de Pies Rosa y 2](https://m.media-amazon.com/images/I/5164gKLN2IL._SL200_.jpg)](https://www.amazon.es/dp/B076PM1GSK/?tag=tolees-21)
+[![Scholl Lima Electrónica de Pies Rosa y 2](https://m.media-amazon.com/images/I/5164gKLN2IL._SL400_.jpg)](https://www.amazon.es/dp/B076PM1GSK/?tag=tolees-21)
 
 ℹ️:
 

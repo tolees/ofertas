@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 27.09 % en Babymoov A012374  Doomoo Nid New Generat'
 date: 2020-01-21 14:39:41
-image: 'https://images-eu.ssl-images-amazon.com/images/I/415Czsz1NRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/415Czsz1NRL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '111.0'
 
 Tienes [Babymoov A012374  Doomoo Nid New Generation - Hamaca  diseño Natural  60 x 50 x 42 cm](https://www.amazon.es/dp/B01MFANV70/?tag=tolees-21) con un 27.09 % de descuento con precio de oferta de 102 EUR (original: 139.9 EUR) en el siguiente enlace!
 
-[![Babymoov A012374  Doomoo Nid New Generat](https://images-eu.ssl-images-amazon.com/images/I/415Czsz1NRL._SL200_.jpg)](https://www.amazon.es/dp/B01MFANV70/?tag=tolees-21)
+[![Babymoov A012374  Doomoo Nid New Generat](https://images-eu.ssl-images-amazon.com/images/I/415Czsz1NRL._SL400_.jpg)](https://www.amazon.es/dp/B01MFANV70/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 55.02 % en Osram Dulux L - Lámpara 36w/840 lumilux '
 date: 2020-09-02 09:18:08
-image: 'https://m.media-amazon.com/images/I/31Qw6d8B-xL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Qw6d8B-xL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.96'
 
 Tienes [Osram Dulux L - Lámpara 36w/840 lumilux 2g11](https://www.amazon.es/dp/B000ONJIEC/?tag=tolees-21) con un 55.02 % de descuento con precio de oferta de 5.96 EUR (original: 13.25 EUR) en el siguiente enlace!
 
-[![Osram Dulux L - Lámpara 36w/840 lumilux ](https://m.media-amazon.com/images/I/31Qw6d8B-xL._SL200_.jpg)](https://www.amazon.es/dp/B000ONJIEC/?tag=tolees-21)
+[![Osram Dulux L - Lámpara 36w/840 lumilux ](https://m.media-amazon.com/images/I/31Qw6d8B-xL._SL400_.jpg)](https://www.amazon.es/dp/B000ONJIEC/?tag=tolees-21)
 
 ℹ️:
 

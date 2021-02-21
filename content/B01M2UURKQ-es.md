@@ -2,7 +2,7 @@
 layout: post
 title: 'Amzdeal Caja de Fotografía Caja de Luz P al 25.00 % de descuento'
 date: 2020-08-28 02:38:09
-image: 'https://m.media-amazon.com/images/I/518D0A3juML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/518D0A3juML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '58.70666666666666'
 
 Ahora mismo tienes [Amzdeal Caja de Fotografía Caja de Luz Portátil 50 x 50 x 50 cm para Hacer Fotos con 3 Fondos Blanco/Negro/Naranja + 2 Tiras de LED y Bolsa de Transporte Nueva versión](https://www.amazon.es/dp/B01M2UURKQ/?tag=tolees-21) a 59.99 EUR (original: 79.99 EUR) (25.00 %  de descuento) en el siguiente enlace!
 
-[![Amzdeal Caja de Fotografía Caja de Luz P](https://m.media-amazon.com/images/I/518D0A3juML._SL200_.jpg)](https://www.amazon.es/dp/B01M2UURKQ/?tag=tolees-21)
+[![Amzdeal Caja de Fotografía Caja de Luz P](https://m.media-amazon.com/images/I/518D0A3juML._SL400_.jpg)](https://www.amazon.es/dp/B01M2UURKQ/?tag=tolees-21)
 
 🔎:
 

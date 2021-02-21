@@ -2,7 +2,7 @@
 layout: post
 title: 'WOSAWE - Pantalones deportivos para homb al 48.07 % de descuento'
 date: 2020-06-23 08:03:20
-image: 'https://m.media-amazon.com/images/I/31uyJgIRdGL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31uyJgIRdGL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '32.43'
 
 Está [WOSAWE - Pantalones deportivos para hombre de secado rápido  Hombre  azul  US M Asiático XL ](https://www.amazon.es/dp/B07GXCMD1Z/?tag=tolees-21) con 48.07 de descuento por 32.43 EUR (original: 62.45 EUR) en el siguiente enlace!
 
-[![WOSAWE - Pantalones deportivos para homb](https://m.media-amazon.com/images/I/31uyJgIRdGL._SL200_.jpg)](https://www.amazon.es/dp/B07GXCMD1Z/?tag=tolees-21)
+[![WOSAWE - Pantalones deportivos para homb](https://m.media-amazon.com/images/I/31uyJgIRdGL._SL400_.jpg)](https://www.amazon.es/dp/B07GXCMD1Z/?tag=tolees-21)
 
 ℹ️:
 

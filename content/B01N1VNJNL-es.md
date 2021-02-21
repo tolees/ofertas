@@ -2,7 +2,7 @@
 layout: post
 title: 'Maybelline New York - Fit Me  Base de Ma al 43.49 % de descuento'
 date: 2020-03-23 16:20:13
-image: 'https://m.media-amazon.com/images/I/31VWClQPIxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31VWClQPIxL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.95'
 
 Está [Maybelline New York - Fit Me  Base de Maquillaje Mate Afina Poros  Tono 360 Mocha - 30 ml](https://www.amazon.es/dp/B01N1VNJNL/?tag=tolees-21) con 43.49 de descuento por 3.95 EUR (original: 6.99 EUR) en el siguiente enlace!
 
-[![Maybelline New York - Fit Me  Base de Ma](https://m.media-amazon.com/images/I/31VWClQPIxL._SL200_.jpg)](https://www.amazon.es/dp/B01N1VNJNL/?tag=tolees-21)
+[![Maybelline New York - Fit Me  Base de Ma](https://m.media-amazon.com/images/I/31VWClQPIxL._SL400_.jpg)](https://www.amazon.es/dp/B01N1VNJNL/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'FITTOO Pantalones Deportivos Mujer Yoga  al 40.05 % de rebaja'
 date: 2020-04-02 10:32:51
-image: 'https://m.media-amazon.com/images/I/41+Qsvh6n+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41+Qsvh6n+L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.99'
 
 Tienes [FITTOO Pantalones Deportivos Mujer Yoga Leggings de Alta Cintura Elásticos y Transpirables para Running Fitness490](https://www.amazon.es/dp/B07DJQT894/?tag=tolees-21) con precio final de  11.99 EUR (original: 20.0 EUR) (40.05 %  de rebaja) aqui!
 
-[![FITTOO Pantalones Deportivos Mujer Yoga ](https://m.media-amazon.com/images/I/41+Qsvh6n+L._SL200_.jpg)](https://www.amazon.es/dp/B07DJQT894/?tag=tolees-21)
+[![FITTOO Pantalones Deportivos Mujer Yoga ](https://m.media-amazon.com/images/I/41+Qsvh6n+L._SL400_.jpg)](https://www.amazon.es/dp/B07DJQT894/?tag=tolees-21)
 
 🔎:
 

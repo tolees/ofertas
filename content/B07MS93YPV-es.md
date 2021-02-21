@@ -2,7 +2,7 @@
 layout: post
 title: 'Kickers Hobbytwo  Botas Slouch para Muje con un 80.83 % de descuento'
 date: 2020-02-10 14:38:03
-image: 'https://m.media-amazon.com/images/I/31bxVUjFZSL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31bxVUjFZSL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '22.04'
 
 En este momento está [Kickers Hobbytwo  Botas Slouch para Mujer   Gris Taupe 123   36 EU](https://www.amazon.es/dp/B07MS93YPV/?tag=tolees-21) a 22.04 EUR (original: 115.0 EUR) (80.83 %  de descuento) en el siguiente enlace!
 
-[![Kickers Hobbytwo  Botas Slouch para Muje](https://m.media-amazon.com/images/I/31bxVUjFZSL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07MS93YPV/?tag=tolees-21)
+[![Kickers Hobbytwo  Botas Slouch para Muje](https://m.media-amazon.com/images/I/31bxVUjFZSL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07MS93YPV/?tag=tolees-21)
 
 🔎:
 

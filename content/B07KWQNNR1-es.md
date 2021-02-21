@@ -2,7 +2,7 @@
 layout: post
 title: 'Helly Hansen Tokyo Hoodie  Hombre  Grey  al 35.72 % de descuento'
 date: 2020-04-09 13:38:11
-image: 'https://m.media-amazon.com/images/I/31g3fLEVf6L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31g3fLEVf6L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '44.99'
 
 Está [Helly Hansen Tokyo Hoodie  Hombre  Grey Mélange  M](https://www.amazon.es/dp/B07KWQNNR1/?tag=tolees-21) con 35.72 de descuento por 44.99 EUR (original: 69.99 EUR) en el siguiente enlace!
 
-[![Helly Hansen Tokyo Hoodie  Hombre  Grey ](https://m.media-amazon.com/images/I/31g3fLEVf6L._SL200_.jpg)](https://www.amazon.es/dp/B07KWQNNR1/?tag=tolees-21)
+[![Helly Hansen Tokyo Hoodie  Hombre  Grey ](https://m.media-amazon.com/images/I/31g3fLEVf6L._SL400_.jpg)](https://www.amazon.es/dp/B07KWQNNR1/?tag=tolees-21)
 
 ℹ️:
 

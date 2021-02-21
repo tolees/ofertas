@@ -2,7 +2,7 @@
 layout: post
 title: 'Black Diamond Astro 175 Lampe Frontale   al 39.35 % de rebaja'
 date: 2020-09-05 21:59:58
-image: 'https://m.media-amazon.com/images/I/31SRVGorTGL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31SRVGorTGL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.13'
 
 Tienes [Black Diamond Astro 175 Lampe Frontale  Unisex Adulto  Verde  Dark Olive   Talla única](https://www.amazon.es/dp/B07MRH7V4L/?tag=tolees-21) con precio final de  12.13 EUR (original: 20.0 EUR) (39.35 %  de rebaja) aqui!
 
-[![Black Diamond Astro 175 Lampe Frontale  ](https://m.media-amazon.com/images/I/31SRVGorTGL._SL200_.jpg)](https://www.amazon.es/dp/B07MRH7V4L/?tag=tolees-21)
+[![Black Diamond Astro 175 Lampe Frontale  ](https://m.media-amazon.com/images/I/31SRVGorTGL._SL400_.jpg)](https://www.amazon.es/dp/B07MRH7V4L/?tag=tolees-21)
 
 🔎:
 

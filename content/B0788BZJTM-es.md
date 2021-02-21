@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger Sujetador Estilo Bralette con un 29.95 % de descuento'
 date: 2020-05-07 15:20:44
-image: 'https://m.media-amazon.com/images/I/41raA6sX68L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41raA6sX68L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '25.23'
 
 En este momento está [Tommy Hilfiger Sujetador Estilo Bralette  Blanco  White 100   Small para Mujer](https://www.amazon.es/dp/B0788BZJTM/?tag=tolees-21) a 25.85 EUR (original: 36.9 EUR) (29.95 %  de descuento) en el siguiente enlace!
 
-[![Tommy Hilfiger Sujetador Estilo Bralette](https://m.media-amazon.com/images/I/41raA6sX68L._SL200_.jpg)](https://www.amazon.es/dp/B0788BZJTM/?tag=tolees-21)
+[![Tommy Hilfiger Sujetador Estilo Bralette](https://m.media-amazon.com/images/I/41raA6sX68L._SL400_.jpg)](https://www.amazon.es/dp/B0788BZJTM/?tag=tolees-21)
 
 🔎:
 

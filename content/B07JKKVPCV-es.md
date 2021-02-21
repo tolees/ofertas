@@ -2,7 +2,7 @@
 layout: post
 title: 'IK Multimedia iKlip 3 - Soporte de micró al 29.55 % de descuento'
 date: 2020-06-12 05:30:47
-image: 'https://m.media-amazon.com/images/I/41hmEL8UEQL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41hmEL8UEQL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '42.97'
 
 Ahora mismo tienes [IK Multimedia iKlip 3 - Soporte de micrófono Universal para iPad y tabletas  flexible  resistente  portátil](https://www.amazon.es/dp/B07JKKVPCV/?tag=tolees-21) a 42.97 EUR (original: 60.99 EUR) (29.55 %  de descuento) en el siguiente enlace!
 
-[![IK Multimedia iKlip 3 - Soporte de micró](https://m.media-amazon.com/images/I/41hmEL8UEQL._SL200_.jpg)](https://www.amazon.es/dp/B07JKKVPCV/?tag=tolees-21)
+[![IK Multimedia iKlip 3 - Soporte de micró](https://m.media-amazon.com/images/I/41hmEL8UEQL._SL400_.jpg)](https://www.amazon.es/dp/B07JKKVPCV/?tag=tolees-21)
 
 🔎:
 

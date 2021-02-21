@@ -2,7 +2,7 @@
 layout: post
 title: 'Colector de leche materna de NatureBond. al 65.02 % de descuento'
 date: 2020-08-27 16:34:44
-image: 'https://m.media-amazon.com/images/I/41c+U+CH8PL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41c+U+CH8PL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.99'
 
 Ahora mismo tienes [Colector de leche materna de NatureBond. Extractor de leche silicona  con tapa todo en uno  bolsa de transporte  sellado al vacío  de Sin BPA. 100% silicona de grado alimenticio](https://www.amazon.es/dp/B01LZ2ZVCY/?tag=tolees-21) a 13.99 EUR (original: 39.99 EUR) (65.02 %  de descuento) en el siguiente enlace!
 
-[![Colector de leche materna de NatureBond.](https://m.media-amazon.com/images/I/41c+U+CH8PL._SL200_.jpg)](https://www.amazon.es/dp/B01LZ2ZVCY/?tag=tolees-21)
+[![Colector de leche materna de NatureBond.](https://m.media-amazon.com/images/I/41c+U+CH8PL._SL400_.jpg)](https://www.amazon.es/dp/B01LZ2ZVCY/?tag=tolees-21)
 
 🔎:
 

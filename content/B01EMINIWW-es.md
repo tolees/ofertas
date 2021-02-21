@@ -2,7 +2,7 @@
 layout: post
 title: 'Anker Powerline USB-C auf USB C 2.0 Kabe al 60.03 % de descuento'
 date: 2020-10-08 09:32:36
-image: 'https://m.media-amazon.com/images/I/41m00hH8VcL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41m00hH8VcL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.99'
 
 Está [Anker Powerline USB-C auf USB C 2.0 Kabel 1.8 m für USB Type-C Geräte: Galaxy S8  S8+  Google Pixel  Nexus 6P  Huawei Matebook  MacBook und weitere  Schwarz ](https://www.amazon.es/dp/B01EMINIWW/?tag=tolees-21) con 60.03 de descuento por 7.99 EUR (original: 19.99 EUR) en el siguiente enlace!
 
-[![Anker Powerline USB-C auf USB C 2.0 Kabe](https://m.media-amazon.com/images/I/41m00hH8VcL._SL200_.jpg)](https://www.amazon.es/dp/B01EMINIWW/?tag=tolees-21)
+[![Anker Powerline USB-C auf USB C 2.0 Kabe](https://m.media-amazon.com/images/I/41m00hH8VcL._SL400_.jpg)](https://www.amazon.es/dp/B01EMINIWW/?tag=tolees-21)
 
 ℹ️:
 

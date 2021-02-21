@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 43.27 % en Car&Gus Disfraz de Samba para Mujer'
 date: 2020-02-17 16:29:44
-image: 'https://m.media-amazon.com/images/I/31jESTQWXiL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31jESTQWXiL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.26'
 
 Tienes [Car&Gus Disfraz de Samba para Mujer](https://www.amazon.es/dp/B01N5HQWNI/?tag=tolees-21) con un 43.27 % de descuento con precio de oferta de 15.26 EUR (original: 26.9 EUR) en el siguiente enlace!
 
-[![Car&Gus Disfraz de Samba para Mujer](https://m.media-amazon.com/images/I/31jESTQWXiL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01N5HQWNI/?tag=tolees-21)
+[![Car&Gus Disfraz de Samba para Mujer](https://m.media-amazon.com/images/I/31jESTQWXiL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01N5HQWNI/?tag=tolees-21)
 
 ℹ️:
 

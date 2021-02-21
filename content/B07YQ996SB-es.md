@@ -2,7 +2,7 @@
 layout: post
 title: 'L Oréal Men Expert  gel de lavado de car al 33.27 % de descuento'
 date: 2020-08-02 14:55:26
-image: 'https://m.media-amazon.com/images/I/41y2KDxH+tL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41y2KDxH+tL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.26'
 
 Está [L Oréal Men Expert  gel de lavado de carbón puro  contra las impurezas de la piel de los hombres  grano  espinillas  piel grasa y grasa   2 x 100 ml ](https://www.amazon.es/dp/B07YQ996SB/?tag=tolees-21) con 33.27 de descuento por 7.26 EUR (original: 10.88 EUR) en el siguiente enlace!
 
-[![L Oréal Men Expert  gel de lavado de car](https://m.media-amazon.com/images/I/41y2KDxH+tL._SL200_.jpg)](https://www.amazon.es/dp/B07YQ996SB/?tag=tolees-21)
+[![L Oréal Men Expert  gel de lavado de car](https://m.media-amazon.com/images/I/41y2KDxH+tL._SL400_.jpg)](https://www.amazon.es/dp/B07YQ996SB/?tag=tolees-21)
 
 ℹ️:
 

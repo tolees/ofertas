@@ -2,7 +2,7 @@
 layout: post
 title: 'Urban Classics Ladies 3-Tone Tape Leggin con un 47.65 % de descuento'
 date: 2020-01-17 08:05:31
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41gLiw%2BjVoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41gLiw%2BjVoL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.16'
 
 En este momento está [Urban Classics Ladies 3-Tone Tape Leggings  Multicolor  Black/firered/White/Navy 01320   36 Talla del Fabricante: X-Small  para Mujer](https://www.amazon.es/dp/B078KHPHKG/?tag=tolees-21) a 11.16 EUR (original: 21.32 EUR) (47.65 %  de descuento) en el siguiente enlace!
 
-[![Urban Classics Ladies 3-Tone Tape Leggin](https://images-eu.ssl-images-amazon.com/images/I/41gLiw%2BjVoL._SL200_.jpg)](https://www.amazon.es/dp/B078KHPHKG/?tag=tolees-21)
+[![Urban Classics Ladies 3-Tone Tape Leggin](https://images-eu.ssl-images-amazon.com/images/I/41gLiw%2BjVoL._SL400_.jpg)](https://www.amazon.es/dp/B078KHPHKG/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Salcar 10m Guirnalda de luces solares  4 al 43.35 % de descuento'
 date: 2020-02-07 13:07:52
-image: 'https://m.media-amazon.com/images/I/51XUnl8MrvL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51XUnl8MrvL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.99'
 
 Ahora mismo tienes [Salcar 10m Guirnalda de luces solares  40 luces LED Bola Cristal para jardín  patio  exteriores  impermeable  para interiores y exteriores - Blanco Cálido](https://www.amazon.es/dp/B07NQ2GLMW/?tag=tolees-21) a 16.99 EUR (original: 29.99 EUR) (43.35 %  de descuento) en el siguiente enlace!
 
-[![Salcar 10m Guirnalda de luces solares  4](https://m.media-amazon.com/images/I/51XUnl8MrvL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07NQ2GLMW/?tag=tolees-21)
+[![Salcar 10m Guirnalda de luces solares  4](https://m.media-amazon.com/images/I/51XUnl8MrvL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07NQ2GLMW/?tag=tolees-21)
 
 🔎:
 

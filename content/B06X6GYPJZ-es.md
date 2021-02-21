@@ -2,7 +2,7 @@
 layout: post
 title: 'Spalding NBA Rookie Gear out 83-419Z Bal al 28.27 % de descuento'
 date: 2020-02-20 11:58:49
-image: 'https://m.media-amazon.com/images/I/51LSJApS9LL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51LSJApS9LL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.476666666666667'
 
 Está [Spalding NBA Rookie Gear out 83-419Z Balón de Baloncesto  Unisex niños  5](https://www.amazon.es/dp/B06X6GYPJZ/?tag=tolees-21) con 28.27 de descuento por 16.49 EUR (original: 22.99 EUR) en el siguiente enlace!
 
-[![Spalding NBA Rookie Gear out 83-419Z Bal](https://m.media-amazon.com/images/I/51LSJApS9LL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B06X6GYPJZ/?tag=tolees-21)
+[![Spalding NBA Rookie Gear out 83-419Z Bal](https://m.media-amazon.com/images/I/51LSJApS9LL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B06X6GYPJZ/?tag=tolees-21)
 
 ℹ️:
 

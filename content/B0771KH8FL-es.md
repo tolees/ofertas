@@ -2,7 +2,7 @@
 layout: post
 title: 'Eastpak Tranverz S Maleta  51 cm  42 L   con un 46.15 % de descuento'
 date: 2020-04-25 18:02:46
-image: 'https://m.media-amazon.com/images/I/31jhn2+umXL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31jhn2+umXL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '71.09'
 
 En este momento está [Eastpak Tranverz S Maleta  51 cm  42 L  Negro  Black ](https://www.amazon.es/dp/B0771KH8FL/?tag=tolees-21) a 70.0 EUR (original: 130.0 EUR) (46.15 %  de descuento) en el siguiente enlace!
 
-[![Eastpak Tranverz S Maleta  51 cm  42 L  ](https://m.media-amazon.com/images/I/31jhn2+umXL._SL200_.jpg)](https://www.amazon.es/dp/B0771KH8FL/?tag=tolees-21)
+[![Eastpak Tranverz S Maleta  51 cm  42 L  ](https://m.media-amazon.com/images/I/31jhn2+umXL._SL400_.jpg)](https://www.amazon.es/dp/B0771KH8FL/?tag=tolees-21)
 
 🔎:
 

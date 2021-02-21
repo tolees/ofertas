@@ -2,7 +2,7 @@
 layout: post
 title: 'Rucae - Juego de tornillos para ordenado al 56.76 % de descuento'
 date: 2020-08-17 03:58:30
-image: 'https://m.media-amazon.com/images/I/51VGufjLkIL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51VGufjLkIL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.99'
 
 Está [Rucae - Juego de tornillos para ordenador portátil  500 piezas  para IBM HP  Dell  Samsung  Sony  Toshiba Gateway  Acer Lenovo](https://www.amazon.es/dp/B082V8V6RX/?tag=tolees-21) con 56.76 de descuento por 8.99 EUR (original: 20.79 EUR) en el siguiente enlace!
 
-[![Rucae - Juego de tornillos para ordenado](https://m.media-amazon.com/images/I/51VGufjLkIL._SL200_.jpg)](https://www.amazon.es/dp/B082V8V6RX/?tag=tolees-21)
+[![Rucae - Juego de tornillos para ordenado](https://m.media-amazon.com/images/I/51VGufjLkIL._SL400_.jpg)](https://www.amazon.es/dp/B082V8V6RX/?tag=tolees-21)
 
 ℹ️:
 

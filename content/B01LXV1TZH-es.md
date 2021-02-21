@@ -2,7 +2,7 @@
 layout: post
 title: 'Nestlé KiKat Mini Chocolate con Leche -  al 53.49 % de descuento'
 date: 2020-06-22 16:42:04
-image: 'https://m.media-amazon.com/images/I/51IteG2LUDL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51IteG2LUDL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.3775'
 
 Está [Nestlé KiKat Mini Chocolate con Leche - Barritas de chocolate - Snack de chocolate 200 gr](https://www.amazon.es/dp/B01LXV1TZH/?tag=tolees-21) con 53.49 de descuento por 1.0 EUR (original: 2.15 EUR) en el siguiente enlace!
 
-[![Nestlé KiKat Mini Chocolate con Leche - ](https://m.media-amazon.com/images/I/51IteG2LUDL._SL200_.jpg)](https://www.amazon.es/dp/B01LXV1TZH/?tag=tolees-21)
+[![Nestlé KiKat Mini Chocolate con Leche - ](https://m.media-amazon.com/images/I/51IteG2LUDL._SL400_.jpg)](https://www.amazon.es/dp/B01LXV1TZH/?tag=tolees-21)
 
 ℹ️:
 

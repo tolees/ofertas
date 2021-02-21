@@ -2,7 +2,7 @@
 layout: post
 title: 'Jack & Jones Jjiaruba Jjswimshorts AKM A al 40.18 % de descuento'
 date: 2020-07-14 10:40:17
-image: 'https://m.media-amazon.com/images/I/41oMTblYA3L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41oMTblYA3L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.99'
 
 Está [Jack & Jones Jjiaruba Jjswimshorts AKM Animal STS Bañador para Hombre  Brook Green  S](https://www.amazon.es/dp/B0864KF6GR/?tag=tolees-21) con 40.18 de descuento por 9.99 EUR (original: 16.7 EUR) en el siguiente enlace!
 
-[![Jack & Jones Jjiaruba Jjswimshorts AKM A](https://m.media-amazon.com/images/I/41oMTblYA3L._SL200_.jpg)](https://www.amazon.es/dp/B0864KF6GR/?tag=tolees-21)
+[![Jack & Jones Jjiaruba Jjswimshorts AKM A](https://m.media-amazon.com/images/I/41oMTblYA3L._SL400_.jpg)](https://www.amazon.es/dp/B0864KF6GR/?tag=tolees-21)
 
 ℹ️:
 

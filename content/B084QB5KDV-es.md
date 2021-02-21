@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 49.75 % en Correa de Repuesto de Silicona Anti-pérd'
 date: 2020-09-06 10:45:56
-image: 'https://m.media-amazon.com/images/I/31PmaRXVPqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31PmaRXVPqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.01'
 
 Tienes [Correa de Repuesto de Silicona Anti-pérdida de Dos Colores Correa de muñeca Wristband Smartwatch Pulsera Band para Xiaomi Mi Band 3 — Negro + Blanco](https://www.amazon.es/dp/B084QB5KDV/?tag=tolees-21) con un 49.75 % de descuento con precio de oferta de 1.01 EUR (original: 2.01 EUR) en el siguiente enlace!
 
-[![Correa de Repuesto de Silicona Anti-pérd](https://m.media-amazon.com/images/I/31PmaRXVPqL._SL200_.jpg)](https://www.amazon.es/dp/B084QB5KDV/?tag=tolees-21)
+[![Correa de Repuesto de Silicona Anti-pérd](https://m.media-amazon.com/images/I/31PmaRXVPqL._SL400_.jpg)](https://www.amazon.es/dp/B084QB5KDV/?tag=tolees-21)
 
 ℹ️:
 

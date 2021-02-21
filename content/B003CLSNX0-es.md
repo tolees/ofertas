@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 37.50 % en FoodSaver FSR2802 Rollos de Envasado al '
 date: 2020-08-31 14:07:01
-image: 'https://m.media-amazon.com/images/I/41Pjq74bDbL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Pjq74bDbL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.533333333333333'
 
 Tienes [FoodSaver FSR2802 Rollos de Envasado al Vacío FoodSaver  2 Rollos de 5.5 Metros](https://www.amazon.es/dp/B003CLSNX0/?tag=tolees-21) con un 37.50 % de descuento con precio de oferta de 8.75 EUR (original: 14.0 EUR) en el siguiente enlace!
 
-[![FoodSaver FSR2802 Rollos de Envasado al ](https://m.media-amazon.com/images/I/41Pjq74bDbL._SL200_.jpg)](https://www.amazon.es/dp/B003CLSNX0/?tag=tolees-21)
+[![FoodSaver FSR2802 Rollos de Envasado al ](https://m.media-amazon.com/images/I/41Pjq74bDbL._SL400_.jpg)](https://www.amazon.es/dp/B003CLSNX0/?tag=tolees-21)
 
 ℹ️:
 

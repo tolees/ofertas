@@ -2,7 +2,7 @@
 layout: post
 title: 'Bourjois Velvet The Pencil - Pintalabios al 65.33 % de descuento'
 date: 2020-07-01 18:37:20
-image: 'https://m.media-amazon.com/images/I/31Ec-ubGXqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Ec-ubGXqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.14'
 
 Ahora mismo tienes [Bourjois Velvet The Pencil - Pintalabios Tono 15 Rouge ES-Carmin  3g](https://www.amazon.es/dp/B07PN6D7LX/?tag=tolees-21) a 4.14 EUR (original: 11.94 EUR) (65.33 %  de descuento) en el siguiente enlace!
 
-[![Bourjois Velvet The Pencil - Pintalabios](https://m.media-amazon.com/images/I/31Ec-ubGXqL._SL200_.jpg)](https://www.amazon.es/dp/B07PN6D7LX/?tag=tolees-21)
+[![Bourjois Velvet The Pencil - Pintalabios](https://m.media-amazon.com/images/I/31Ec-ubGXqL._SL400_.jpg)](https://www.amazon.es/dp/B07PN6D7LX/?tag=tolees-21)
 
 🔎:
 

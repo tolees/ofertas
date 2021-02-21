@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 66.10 % en Garnier Fructis Acondicionador Adios Dañ'
 date: 2020-05-25 16:53:34
-image: 'https://m.media-amazon.com/images/I/41T+mnKn1DL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41T+mnKn1DL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.0'
 
 Tienes [Garnier Fructis Acondicionador Adios Daños - 250 ml](https://www.amazon.es/dp/B073VLL5KH/?tag=tolees-21) con un 66.10 % de descuento con precio de oferta de 1.0 EUR (original: 2.95 EUR) en el siguiente enlace!
 
-[![Garnier Fructis Acondicionador Adios Dañ](https://m.media-amazon.com/images/I/41T+mnKn1DL._SL200_.jpg)](https://www.amazon.es/dp/B073VLL5KH/?tag=tolees-21)
+[![Garnier Fructis Acondicionador Adios Dañ](https://m.media-amazon.com/images/I/41T+mnKn1DL._SL400_.jpg)](https://www.amazon.es/dp/B073VLL5KH/?tag=tolees-21)
 
 ℹ️:
 

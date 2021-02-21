@@ -2,7 +2,7 @@
 layout: post
 title: 'HifloFiltro HFA3615 Filtro para Moto con un 29.37 % de descuento'
 date: 2020-10-04 08:51:22
-image: 'https://m.media-amazon.com/images/I/41F-rscMFQL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41F-rscMFQL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.48'
 
 En este momento está [HifloFiltro HFA3615 Filtro para Moto](https://www.amazon.es/dp/B004ZGAA28/?tag=tolees-21) a 12.48 EUR (original: 17.67 EUR) (29.37 %  de descuento) en el siguiente enlace!
 
-[![HifloFiltro HFA3615 Filtro para Moto](https://m.media-amazon.com/images/I/41F-rscMFQL._SL200_.jpg)](https://www.amazon.es/dp/B004ZGAA28/?tag=tolees-21)
+[![HifloFiltro HFA3615 Filtro para Moto](https://m.media-amazon.com/images/I/41F-rscMFQL._SL400_.jpg)](https://www.amazon.es/dp/B004ZGAA28/?tag=tolees-21)
 
 🔎:
 

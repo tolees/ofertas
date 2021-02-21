@@ -2,7 +2,7 @@
 layout: post
 title: 'Cybex Silla de coche grupo 2/3  Solution al 28.58 % de descuento'
 date: 2020-09-26 17:51:08
-image: 'https://m.media-amazon.com/images/I/41uUJP1ifPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41uUJP1ifPL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '151.95799999999997'
 
 Ahora mismo tienes [Cybex Silla de coche grupo 2/3  Solution M-Fix SL  Para coches con y sin Isofix  Grupo 2/3  15-36 kg   Desde los 3 hasta los 12 años  Gris  Gray Rabbit ](https://www.amazon.es/dp/B073H8F2GS/?tag=tolees-21) a 149.95 EUR (original: 209.95 EUR) (28.58 %  de descuento) en el siguiente enlace!
 
-[![Cybex Silla de coche grupo 2/3  Solution](https://m.media-amazon.com/images/I/41uUJP1ifPL._SL200_.jpg)](https://www.amazon.es/dp/B073H8F2GS/?tag=tolees-21)
+[![Cybex Silla de coche grupo 2/3  Solution](https://m.media-amazon.com/images/I/41uUJP1ifPL._SL400_.jpg)](https://www.amazon.es/dp/B073H8F2GS/?tag=tolees-21)
 
 🔎:
 

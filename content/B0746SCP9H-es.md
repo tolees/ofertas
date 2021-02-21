@@ -2,7 +2,7 @@
 layout: post
 title: 'L Oréal Paris Make-up designer Accord Pa al 36.67 % de rebaja'
 date: 2019-12-31 15:43:00
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31UV2uOlPhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31UV2uOlPhL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.5'
 
 Tienes [L Oréal Paris Make-up designer Accord Parfait Base maquillaje acabado natural Tono de piel bronceado 8R Noisette 30 ml](https://www.amazon.es/dp/B0746SCP9H/?tag=tolees-21) con precio final de  9.5 EUR (original: 15 EUR) (36.67 %  de rebaja) aqui!
 
-[![L Oréal Paris Make-up designer Accord Pa](https://images-eu.ssl-images-amazon.com/images/I/31UV2uOlPhL._SL200_.jpg)](https://www.amazon.es/dp/B0746SCP9H/?tag=tolees-21)
+[![L Oréal Paris Make-up designer Accord Pa](https://images-eu.ssl-images-amazon.com/images/I/31UV2uOlPhL._SL400_.jpg)](https://www.amazon.es/dp/B0746SCP9H/?tag=tolees-21)
 
 🔎:
 

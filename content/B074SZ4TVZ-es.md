@@ -2,7 +2,7 @@
 layout: post
 title: 'URBN CHEF Queensway - 6 Vasos de Whiskey al 47.72 % de rebaja'
 date: 2020-07-18 11:53:25
-image: 'https://m.media-amazon.com/images/I/61vjuuR2l+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61vjuuR2l+L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.33'
 
 Tienes [URBN CHEF Queensway - 6 Vasos de Whiskey en un Paquete de Regalo](https://www.amazon.es/dp/B074SZ4TVZ/?tag=tolees-21) con precio final de  11.33 EUR (original: 21.67 EUR) (47.72 %  de rebaja) aqui!
 
-[![URBN CHEF Queensway - 6 Vasos de Whiskey](https://m.media-amazon.com/images/I/61vjuuR2l+L._SL200_.jpg)](https://www.amazon.es/dp/B074SZ4TVZ/?tag=tolees-21)
+[![URBN CHEF Queensway - 6 Vasos de Whiskey](https://m.media-amazon.com/images/I/61vjuuR2l+L._SL400_.jpg)](https://www.amazon.es/dp/B074SZ4TVZ/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'CTEK MXS 5.0 Cargador de Batería Totalme al 27.78 % de rebaja'
 date: 2020-05-23 14:15:33
-image: 'https://m.media-amazon.com/images/I/51MqEYxY8ZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51MqEYxY8ZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '67.18199999999999'
 
 Tienes [CTEK MXS 5.0 Cargador de Batería Totalmente Automático  Carga  Mantiene y Reacondiciona las Baterías de Coche y Moto  12V  5 Amp – Toma EU](https://www.amazon.es/dp/B00DEID79G/?tag=tolees-21) con precio final de  64.99 EUR (original: 89.99 EUR) (27.78 %  de rebaja) aqui!
 
-[![CTEK MXS 5.0 Cargador de Batería Totalme](https://m.media-amazon.com/images/I/51MqEYxY8ZL._SL200_.jpg)](https://www.amazon.es/dp/B00DEID79G/?tag=tolees-21)
+[![CTEK MXS 5.0 Cargador de Batería Totalme](https://m.media-amazon.com/images/I/51MqEYxY8ZL._SL400_.jpg)](https://www.amazon.es/dp/B00DEID79G/?tag=tolees-21)
 
 🔎:
 

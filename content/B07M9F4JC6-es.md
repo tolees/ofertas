@@ -2,7 +2,7 @@
 layout: post
 title: 'Cojín Almohada LED Estrella  laamei Felp al 67.03 % de descuento'
 date: 2020-04-21 14:40:42
-image: 'https://m.media-amazon.com/images/I/31f4CIzkLEL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31f4CIzkLEL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.59'
 
 Está [Cojín Almohada LED Estrella  laamei Felpa Juguetes Muñecas Decorativo con Forma de Estrella Luminoso Almohadas Cojines Infantiles Luz Nocturna para Ñiños y Niñas](https://www.amazon.es/dp/B07M9F4JC6/?tag=tolees-21) con 67.03 de descuento por 6.59 EUR (original: 19.99 EUR) en el siguiente enlace!
 
-[![Cojín Almohada LED Estrella  laamei Felp](https://m.media-amazon.com/images/I/31f4CIzkLEL._SL200_.jpg)](https://www.amazon.es/dp/B07M9F4JC6/?tag=tolees-21)
+[![Cojín Almohada LED Estrella  laamei Felp](https://m.media-amazon.com/images/I/31f4CIzkLEL._SL400_.jpg)](https://www.amazon.es/dp/B07M9F4JC6/?tag=tolees-21)
 
 ℹ️:
 

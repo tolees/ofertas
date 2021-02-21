@@ -2,7 +2,7 @@
 layout: post
 title: 'Superga 2730-Cotu  Zapatillas de Gimnasi con un 28.72 % de descuento'
 date: 2020-10-11 18:54:45
-image: 'https://m.media-amazon.com/images/I/41Te7cPdqEL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Te7cPdqEL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '49.305'
 
 En este momento está [Superga 2730-Cotu  Zapatillas de Gimnasio para Mujer  Grigio Grey Seashell G04  37 EU](https://www.amazon.es/dp/B077XX2Q3W/?tag=tolees-21) a 49.18 EUR (original: 69.0 EUR) (28.72 %  de descuento) en el siguiente enlace!
 
-[![Superga 2730-Cotu  Zapatillas de Gimnasi](https://m.media-amazon.com/images/I/41Te7cPdqEL._SL200_.jpg)](https://www.amazon.es/dp/B077XX2Q3W/?tag=tolees-21)
+[![Superga 2730-Cotu  Zapatillas de Gimnasi](https://m.media-amazon.com/images/I/41Te7cPdqEL._SL400_.jpg)](https://www.amazon.es/dp/B077XX2Q3W/?tag=tolees-21)
 
 🔎:
 

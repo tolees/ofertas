@@ -2,7 +2,7 @@
 layout: post
 title: 'Lékué Protection - Pinza para Cocina  Si al 32.95 % de descuento'
 date: 2020-02-12 16:03:57
-image: 'https://m.media-amazon.com/images/I/31O6+bBjxYL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31O6+bBjxYL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.99'
 
 Está [Lékué Protection - Pinza para Cocina  Silicona  Color Rojo/Negro](https://www.amazon.es/dp/B005PQOOP6/?tag=tolees-21) con 32.95 de descuento por 9.99 EUR (original: 14.9 EUR) en el siguiente enlace!
 
-[![Lékué Protection - Pinza para Cocina  Si](https://m.media-amazon.com/images/I/31O6+bBjxYL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B005PQOOP6/?tag=tolees-21)
+[![Lékué Protection - Pinza para Cocina  Si](https://m.media-amazon.com/images/I/31O6+bBjxYL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B005PQOOP6/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour Qualifier Camo Half Zip Par con un 44.64 % de descuento'
 date: 2020-01-23 17:55:18
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31ck-NC05RL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31ck-NC05RL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '41.52'
 
 En este momento está [Under Armour Qualifier Camo Half Zip Parte Superior del Calentamiento  Mujer  Multicolor  LG](https://www.amazon.es/dp/B07L9HZXM8/?tag=tolees-21) a 41.52 EUR (original: 75 EUR) (44.64 %  de descuento) en el siguiente enlace!
 
-[![Under Armour Qualifier Camo Half Zip Par](https://images-eu.ssl-images-amazon.com/images/I/31ck-NC05RL._SL200_.jpg)](https://www.amazon.es/dp/B07L9HZXM8/?tag=tolees-21)
+[![Under Armour Qualifier Camo Half Zip Par](https://images-eu.ssl-images-amazon.com/images/I/31ck-NC05RL._SL400_.jpg)](https://www.amazon.es/dp/B07L9HZXM8/?tag=tolees-21)
 
 🔎:
 

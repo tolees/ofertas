@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 30.00 % en Emma & Giovanni - Pullover - Top - Mujer'
 date: 2020-02-23 08:19:29
-image: 'https://m.media-amazon.com/images/I/51vW1A04uIL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51vW1A04uIL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.9'
 
 Tienes [Emma & Giovanni - Pullover - Top - Mujer  XL/XXL  Verde ](https://www.amazon.es/dp/B07HP6GC85/?tag=tolees-21) con un 30.00 % de descuento con precio de oferta de 25.9 EUR (original: 37.0 EUR) en el siguiente enlace!
 
-[![Emma & Giovanni - Pullover - Top - Mujer](https://m.media-amazon.com/images/I/51vW1A04uIL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07HP6GC85/?tag=tolees-21)
+[![Emma & Giovanni - Pullover - Top - Mujer](https://m.media-amazon.com/images/I/51vW1A04uIL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07HP6GC85/?tag=tolees-21)
 
 ℹ️:
 

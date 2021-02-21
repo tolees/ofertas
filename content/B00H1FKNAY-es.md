@@ -2,7 +2,7 @@
 layout: post
 title: 'Cayro - Tablero Parchís 4-6 con Accesori al 33.26 % de descuento'
 date: 2020-05-14 22:19:48
-image: 'https://m.media-amazon.com/images/I/41NORvJv-OL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41NORvJv-OL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.48'
 
 Está [Cayro - Tablero Parchís 4-6 con Accesorios  40 x 40 cm  T134/A ](https://www.amazon.es/dp/B00H1FKNAY/?tag=tolees-21) con 33.26 de descuento por 11.48 EUR (original: 17.2 EUR) en el siguiente enlace!
 
-[![Cayro - Tablero Parchís 4-6 con Accesori](https://m.media-amazon.com/images/I/41NORvJv-OL._SL200_.jpg)](https://www.amazon.es/dp/B00H1FKNAY/?tag=tolees-21)
+[![Cayro - Tablero Parchís 4-6 con Accesori](https://m.media-amazon.com/images/I/41NORvJv-OL._SL400_.jpg)](https://www.amazon.es/dp/B00H1FKNAY/?tag=tolees-21)
 
 ℹ️:
 

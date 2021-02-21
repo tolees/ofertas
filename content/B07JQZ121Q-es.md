@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas Terrex Eastrail GTX  Track and Fi al 31.48 % de descuento'
 date: 2020-09-23 16:51:07
-image: 'https://m.media-amazon.com/images/I/41gXQeJ0qAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41gXQeJ0qAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '68.49'
 
 Está [adidas Terrex Eastrail GTX  Track and Field Shoe Mens  Carbon/Core Black/Grey  39 EU](https://www.amazon.es/dp/B07JQZ121Q/?tag=tolees-21) con 31.48 de descuento por 68.49 EUR (original: 99.95 EUR) en el siguiente enlace!
 
-[![adidas Terrex Eastrail GTX  Track and Fi](https://m.media-amazon.com/images/I/41gXQeJ0qAL._SL200_.jpg)](https://www.amazon.es/dp/B07JQZ121Q/?tag=tolees-21)
+[![adidas Terrex Eastrail GTX  Track and Fi](https://m.media-amazon.com/images/I/41gXQeJ0qAL._SL400_.jpg)](https://www.amazon.es/dp/B07JQZ121Q/?tag=tolees-21)
 
 ℹ️:
 

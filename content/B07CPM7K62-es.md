@@ -2,7 +2,7 @@
 layout: post
 title: 'Jimmy Choo  Agua fresca - 100 ml. al 58.04 % de descuento'
 date: 2020-07-07 19:52:09
-image: 'https://m.media-amazon.com/images/I/31LHR2WL6UL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31LHR2WL6UL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '38.21777777777778'
 
 Ahora mismo tienes [Jimmy Choo  Agua fresca - 100 ml.](https://www.amazon.es/dp/B07CPM7K62/?tag=tolees-21) a 37.13 EUR (original: 88.49 EUR) (58.04 %  de descuento) en el siguiente enlace!
 
-[![Jimmy Choo  Agua fresca - 100 ml.](https://m.media-amazon.com/images/I/31LHR2WL6UL._SL200_.jpg)](https://www.amazon.es/dp/B07CPM7K62/?tag=tolees-21)
+[![Jimmy Choo  Agua fresca - 100 ml.](https://m.media-amazon.com/images/I/31LHR2WL6UL._SL400_.jpg)](https://www.amazon.es/dp/B07CPM7K62/?tag=tolees-21)
 
 🔎:
 

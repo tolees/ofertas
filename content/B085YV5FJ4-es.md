@@ -2,7 +2,7 @@
 layout: post
 title: 'Death Stranding  Código Digital  al 36.78 % de rebaja'
 date: 2020-09-04 06:13:22
-image: 'https://m.media-amazon.com/images/I/41JoZuBZuoL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41JoZuBZuoL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '58.839999999999996'
 
 Tienes [Death Stranding  Código Digital ](https://www.amazon.es/dp/B085YV5FJ4/?tag=tolees-21) con precio final de  45.37 EUR (original: 71.77 EUR) (36.78 %  de rebaja) aqui!
 
-[![Death Stranding  Código Digital ](https://m.media-amazon.com/images/I/41JoZuBZuoL._SL200_.jpg)](https://www.amazon.es/dp/B085YV5FJ4/?tag=tolees-21)
+[![Death Stranding  Código Digital ](https://m.media-amazon.com/images/I/41JoZuBZuoL._SL400_.jpg)](https://www.amazon.es/dp/B085YV5FJ4/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Wedo 212200 Taburete con Ruedas  Blanco al 29.84 % de descuento'
 date: 2020-04-10 11:48:29
-image: 'https://m.media-amazon.com/images/I/41ltMap9-fL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ltMap9-fL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '26.87'
 
 Ahora mismo tienes [Wedo 212200 Taburete con Ruedas  Blanco](https://www.amazon.es/dp/B000KJPC2M/?tag=tolees-21) a 26.87 EUR (original: 38.3 EUR) (29.84 %  de descuento) en el siguiente enlace!
 
-[![Wedo 212200 Taburete con Ruedas  Blanco](https://m.media-amazon.com/images/I/41ltMap9-fL._SL200_.jpg)](https://www.amazon.es/dp/B000KJPC2M/?tag=tolees-21)
+[![Wedo 212200 Taburete con Ruedas  Blanco](https://m.media-amazon.com/images/I/41ltMap9-fL._SL400_.jpg)](https://www.amazon.es/dp/B000KJPC2M/?tag=tolees-21)
 
 🔎:
 

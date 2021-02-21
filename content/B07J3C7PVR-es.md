@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour Coldgear Armour Legging  Mu al 45.24 % de descuento'
 date: 2020-03-10 09:35:01
-image: 'https://m.media-amazon.com/images/I/31poPeBZrCL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31poPeBZrCL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '27.95'
 
 Ahora mismo tienes [Under Armour Coldgear Armour Legging  Mujer  Negro  XS](https://www.amazon.es/dp/B07J3C7PVR/?tag=tolees-21) a 27.38 EUR (original: 50.0 EUR) (45.24 %  de descuento) en el siguiente enlace!
 
-[![Under Armour Coldgear Armour Legging  Mu](https://m.media-amazon.com/images/I/31poPeBZrCL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07J3C7PVR/?tag=tolees-21)
+[![Under Armour Coldgear Armour Legging  Mu](https://m.media-amazon.com/images/I/31poPeBZrCL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07J3C7PVR/?tag=tolees-21)
 
 🔎:
 

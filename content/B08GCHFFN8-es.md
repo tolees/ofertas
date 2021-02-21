@@ -2,7 +2,7 @@
 layout: post
 title: 'MERIGLARE 10g UV Resina Cristal Claro Ul con un 37.48 % de descuento'
 date: 2020-09-06 08:01:25
-image: 'https://m.media-amazon.com/images/I/31CG7ka13jL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31CG7ka13jL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.99'
 
 En este momento está [MERIGLARE 10g UV Resina Cristal Claro Ultravioleta curado Resina epoxi para DIY joyería Hacer hallazgos DIY  artesanía-Duro Tipo Pegamento Hecho a Mano Resina](https://www.amazon.es/dp/B08GCHFFN8/?tag=tolees-21) a 6.99 EUR (original: 11.18 EUR) (37.48 %  de descuento) en el siguiente enlace!
 
-[![MERIGLARE 10g UV Resina Cristal Claro Ul](https://m.media-amazon.com/images/I/31CG7ka13jL._SL200_.jpg)](https://www.amazon.es/dp/B08GCHFFN8/?tag=tolees-21)
+[![MERIGLARE 10g UV Resina Cristal Claro Ul](https://m.media-amazon.com/images/I/31CG7ka13jL._SL400_.jpg)](https://www.amazon.es/dp/B08GCHFFN8/?tag=tolees-21)
 
 🔎:
 

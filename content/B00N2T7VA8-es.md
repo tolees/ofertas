@@ -2,7 +2,7 @@
 layout: post
 title: 'Sikasil Pool  Sellante silicona neutra p con un 49.84 % de descuento'
 date: 2020-06-18 08:31:10
-image: 'https://m.media-amazon.com/images/I/41WVkW-c1uL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41WVkW-c1uL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.19'
 
 En este momento está [Sikasil Pool  Sellante silicona neutra para sellados en piscinas  Blanco  300ml](https://www.amazon.es/dp/B00N2T7VA8/?tag=tolees-21) a 9.19 EUR (original: 18.32 EUR) (49.84 %  de descuento) en el siguiente enlace!
 
-[![Sikasil Pool  Sellante silicona neutra p](https://m.media-amazon.com/images/I/41WVkW-c1uL._SL200_.jpg)](https://www.amazon.es/dp/B00N2T7VA8/?tag=tolees-21)
+[![Sikasil Pool  Sellante silicona neutra p](https://m.media-amazon.com/images/I/41WVkW-c1uL._SL400_.jpg)](https://www.amazon.es/dp/B00N2T7VA8/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Errea Maillot Junior Heat al 65.63 % de rebaja'
 date: 2020-06-26 10:00:47
-image: 'https://m.media-amazon.com/images/I/41FnX5pQwsL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41FnX5pQwsL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.075714285714286'
 
 Tienes [Errea Maillot Junior Heat](https://www.amazon.es/dp/B01NCVIW9I/?tag=tolees-21) con precio final de  14.09 EUR (original: 40.99 EUR) (65.63 %  de rebaja) aqui!
 
-[![Errea Maillot Junior Heat](https://m.media-amazon.com/images/I/41FnX5pQwsL._SL200_.jpg)](https://www.amazon.es/dp/B01NCVIW9I/?tag=tolees-21)
+[![Errea Maillot Junior Heat](https://m.media-amazon.com/images/I/41FnX5pQwsL._SL400_.jpg)](https://www.amazon.es/dp/B01NCVIW9I/?tag=tolees-21)
 
 🔎:
 

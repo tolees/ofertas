@@ -2,7 +2,7 @@
 layout: post
 title: 'Oihxse Transparente Funda para Xiaomi Re al 27.39 % de descuento'
 date: 2020-05-10 17:35:28
-image: 'https://m.media-amazon.com/images/I/415bJ62l0kL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/415bJ62l0kL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.98'
 
 Ahora mismo tienes [Oihxse Transparente Funda para Xiaomi Redmi 6A Ultrafina Silicona Suave TPU Carcasa Interesante Perro Patrón Flexible Protectora Estuche Antigolpes Anti-Choque  A4 ](https://www.amazon.es/dp/B086GS67XL/?tag=tolees-21) a 7.98 EUR (original: 10.99 EUR) (27.39 %  de descuento) en el siguiente enlace!
 
-[![Oihxse Transparente Funda para Xiaomi Re](https://m.media-amazon.com/images/I/415bJ62l0kL._SL200_.jpg)](https://www.amazon.es/dp/B086GS67XL/?tag=tolees-21)
+[![Oihxse Transparente Funda para Xiaomi Re](https://m.media-amazon.com/images/I/415bJ62l0kL._SL400_.jpg)](https://www.amazon.es/dp/B086GS67XL/?tag=tolees-21)
 
 🔎:
 

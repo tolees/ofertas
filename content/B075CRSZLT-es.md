@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 28.54 % en El Padrino 1-3  Edición 2017  [Blu-ray]'
 date: 2020-09-07 06:24:13
-image: 'https://m.media-amazon.com/images/I/41DnWI2BODL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41DnWI2BODL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '22.31'
 
 Tienes [El Padrino 1-3  Edición 2017  [Blu-ray]](https://www.amazon.es/dp/B075CRSZLT/?tag=tolees-21) con un 28.54 % de descuento con precio de oferta de 22.31 EUR (original: 31.22 EUR) en el siguiente enlace!
 
-[![El Padrino 1-3  Edición 2017  [Blu-ray]](https://m.media-amazon.com/images/I/41DnWI2BODL._SL200_.jpg)](https://www.amazon.es/dp/B075CRSZLT/?tag=tolees-21)
+[![El Padrino 1-3  Edición 2017  [Blu-ray]](https://m.media-amazon.com/images/I/41DnWI2BODL._SL400_.jpg)](https://www.amazon.es/dp/B075CRSZLT/?tag=tolees-21)
 
 ℹ️:
 

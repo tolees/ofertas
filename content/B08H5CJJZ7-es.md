@@ -2,7 +2,7 @@
 layout: post
 title: 'i12-TWS Auriculares inalámbricos Bluetoo al 40.01 % de descuento'
 date: 2020-09-11 08:57:45
-image: 'https://m.media-amazon.com/images/I/31yiB5OrW0L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31yiB5OrW0L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.99'
 
 Ahora mismo tienes [i12-TWS Auriculares inalámbricos Bluetooth 5.0  Toque Inteligente  Auriculares estéreo intrauditivos  emparejamiento emergente automático  Compatible con Todos los teléfonos Inteligentes - Blanco](https://www.amazon.es/dp/B08H5CJJZ7/?tag=tolees-21) a 29.99 EUR (original: 49.99 EUR) (40.01 %  de descuento) en el siguiente enlace!
 
-[![i12-TWS Auriculares inalámbricos Bluetoo](https://m.media-amazon.com/images/I/31yiB5OrW0L._SL200_.jpg)](https://www.amazon.es/dp/B08H5CJJZ7/?tag=tolees-21)
+[![i12-TWS Auriculares inalámbricos Bluetoo](https://m.media-amazon.com/images/I/31yiB5OrW0L._SL400_.jpg)](https://www.amazon.es/dp/B08H5CJJZ7/?tag=tolees-21)
 
 🔎:
 

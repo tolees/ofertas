@@ -2,7 +2,7 @@
 layout: post
 title: 'Alicates multiherramientas 12 en 1 plega al 64.28 % de descuento'
 date: 2020-01-16 09:40:48
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41ParTw9QEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ParTw9QEL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.99'
 
 Está [Alicates multiherramientas 12 en 1 plegables portátiles con funda de nailon para exteriores](https://www.amazon.es/dp/B07GPF6RLN/?tag=tolees-21) con 64.28 de descuento por 8.99 EUR (original: 25.17 EUR) en el siguiente enlace!
 
-[![Alicates multiherramientas 12 en 1 plega](https://images-eu.ssl-images-amazon.com/images/I/41ParTw9QEL._SL200_.jpg)](https://www.amazon.es/dp/B07GPF6RLN/?tag=tolees-21)
+[![Alicates multiherramientas 12 en 1 plega](https://images-eu.ssl-images-amazon.com/images/I/41ParTw9QEL._SL400_.jpg)](https://www.amazon.es/dp/B07GPF6RLN/?tag=tolees-21)
 
 ℹ️:
 

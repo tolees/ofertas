@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 29.54 % en Tom Ford FT0766 03A Black FT0766 Butterf'
 date: 2020-05-30 12:03:49
-image: 'https://m.media-amazon.com/images/I/318zS9ShLHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/318zS9ShLHL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '229.0'
 
 Tienes [Tom Ford FT0766 03A Black FT0766 Butterfly Sunglasses Lens Category 3 Size 63mm](https://www.amazon.es/dp/B082BFF65R/?tag=tolees-21) con un 29.54 % de descuento con precio de oferta de 229.0 EUR (original: 325.0 EUR) en el siguiente enlace!
 
-[![Tom Ford FT0766 03A Black FT0766 Butterf](https://m.media-amazon.com/images/I/318zS9ShLHL._SL200_.jpg)](https://www.amazon.es/dp/B082BFF65R/?tag=tolees-21)
+[![Tom Ford FT0766 03A Black FT0766 Butterf](https://m.media-amazon.com/images/I/318zS9ShLHL._SL400_.jpg)](https://www.amazon.es/dp/B082BFF65R/?tag=tolees-21)
 
 ℹ️:
 

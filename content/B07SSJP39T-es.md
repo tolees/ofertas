@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas Terrex Agravic Flow W  Zapatillas al 72.58 % de rebaja'
 date: 2020-04-17 06:51:02
-image: 'https://m.media-amazon.com/images/I/418tsB5QbYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/418tsB5QbYL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '38.37'
 
 Tienes [adidas Terrex Agravic Flow W  Zapatillas de Cross para Mujer  Gris  Ash Grey S18/Core Black/Glow Green Ash Grey S18/Core Black/Glow Green   44 2/3 EU](https://www.amazon.es/dp/B07SSJP39T/?tag=tolees-21) con precio final de  38.37 EUR (original: 139.95 EUR) (72.58 %  de rebaja) aqui!
 
-[![adidas Terrex Agravic Flow W  Zapatillas](https://m.media-amazon.com/images/I/418tsB5QbYL._SL200_.jpg)](https://www.amazon.es/dp/B07SSJP39T/?tag=tolees-21)
+[![adidas Terrex Agravic Flow W  Zapatillas](https://m.media-amazon.com/images/I/418tsB5QbYL._SL400_.jpg)](https://www.amazon.es/dp/B07SSJP39T/?tag=tolees-21)
 
 🔎:
 

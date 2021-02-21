@@ -2,7 +2,7 @@
 layout: post
 title: 'NUK 10256342 - Dosificador de leche en p al 50.70 % de rebaja'
 date: 2020-09-10 12:08:31
-image: 'https://m.media-amazon.com/images/I/3197hKbUTjL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/3197hKbUTjL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.323333333333333'
 
 Tienes [NUK 10256342 - Dosificador de leche en polvo  3 compartimentos  sin BPA   color azul y blanco translúcido](https://www.amazon.es/dp/B00E4T3R9Y/?tag=tolees-21) con precio final de  5.99 EUR (original: 12.15 EUR) (50.70 %  de rebaja) aqui!
 
-[![NUK 10256342 - Dosificador de leche en p](https://m.media-amazon.com/images/I/3197hKbUTjL._SL200_.jpg)](https://www.amazon.es/dp/B00E4T3R9Y/?tag=tolees-21)
+[![NUK 10256342 - Dosificador de leche en p](https://m.media-amazon.com/images/I/3197hKbUTjL._SL400_.jpg)](https://www.amazon.es/dp/B00E4T3R9Y/?tag=tolees-21)
 
 🔎:
 

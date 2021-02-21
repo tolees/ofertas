@@ -2,7 +2,7 @@
 layout: post
 title: 'Logitech Spotlight Presentador Inalámbri al 40.35 % de descuento'
 date: 2020-09-23 18:36:24
-image: 'https://m.media-amazon.com/images/I/313mJNo5jyL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/313mJNo5jyL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '80.53'
 
 Está [Logitech Spotlight Presentador Inalámbrico  2.4 GHz y Bluetooth  Receptor USB  Puntero Láser Digital  Distancia de 30 Metros  Cronometro  PC/Mac/Android/iOS  Dorado/Blanco](https://www.amazon.es/dp/B06VTVGSDW/?tag=tolees-21) con 40.35 de descuento por 80.53 EUR (original: 135.0 EUR) en el siguiente enlace!
 
-[![Logitech Spotlight Presentador Inalámbri](https://m.media-amazon.com/images/I/313mJNo5jyL._SL200_.jpg)](https://www.amazon.es/dp/B06VTVGSDW/?tag=tolees-21)
+[![Logitech Spotlight Presentador Inalámbri](https://m.media-amazon.com/images/I/313mJNo5jyL._SL400_.jpg)](https://www.amazon.es/dp/B06VTVGSDW/?tag=tolees-21)
 
 ℹ️:
 

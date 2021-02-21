@@ -2,7 +2,7 @@
 layout: post
 title: 'CARPISA ® Almohada de Viaje - Go al 49.97 % de rebaja'
 date: 2020-06-23 15:52:37
-image: 'https://m.media-amazon.com/images/I/31V7QNxyRnL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31V7QNxyRnL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.98'
 
 Tienes [CARPISA ® Almohada de Viaje - Go](https://www.amazon.es/dp/B07V9TBFQJ/?tag=tolees-21) con precio final de  7.98 EUR (original: 15.95 EUR) (49.97 %  de rebaja) aqui!
 
-[![CARPISA ® Almohada de Viaje - Go](https://m.media-amazon.com/images/I/31V7QNxyRnL._SL200_.jpg)](https://www.amazon.es/dp/B07V9TBFQJ/?tag=tolees-21)
+[![CARPISA ® Almohada de Viaje - Go](https://m.media-amazon.com/images/I/31V7QNxyRnL._SL400_.jpg)](https://www.amazon.es/dp/B07V9TBFQJ/?tag=tolees-21)
 
 🔎:
 

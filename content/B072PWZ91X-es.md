@@ -2,7 +2,7 @@
 layout: post
 title: 'Blasjø® Juego de 3 espátulas de silicona al 52.51 % de descuento'
 date: 2020-05-24 19:32:40
-image: 'https://m.media-amazon.com/images/I/31-paNrFdqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31-paNrFdqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.989999999999998'
 
 Está [Blasjø® Juego de 3 espátulas de silicona de cocina con revestimiento antiadherente – núcleo de acero  negro .](https://www.amazon.es/dp/B072PWZ91X/?tag=tolees-21) con 52.51 de descuento por 18.99 EUR (original: 39.99 EUR) en el siguiente enlace!
 
-[![Blasjø® Juego de 3 espátulas de silicona](https://m.media-amazon.com/images/I/31-paNrFdqL._SL200_.jpg)](https://www.amazon.es/dp/B072PWZ91X/?tag=tolees-21)
+[![Blasjø® Juego de 3 espátulas de silicona](https://m.media-amazon.com/images/I/31-paNrFdqL._SL400_.jpg)](https://www.amazon.es/dp/B072PWZ91X/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'iMiMi - Tabla de planchar de pared para  con un 40.74 % de descuento'
 date: 2020-08-09 08:32:07
-image: 'https://m.media-amazon.com/images/I/318FWXSiWlL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/318FWXSiWlL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.99'
 
 En este momento está [iMiMi - Tabla de planchar de pared para puerta o pared  diseño de hierro](https://www.amazon.es/dp/B088ZTJZRH/?tag=tolees-21) a 17.99 EUR (original: 30.36 EUR) (40.74 %  de descuento) en el siguiente enlace!
 
-[![iMiMi - Tabla de planchar de pared para ](https://m.media-amazon.com/images/I/318FWXSiWlL._SL200_.jpg)](https://www.amazon.es/dp/B088ZTJZRH/?tag=tolees-21)
+[![iMiMi - Tabla de planchar de pared para ](https://m.media-amazon.com/images/I/318FWXSiWlL._SL400_.jpg)](https://www.amazon.es/dp/B088ZTJZRH/?tag=tolees-21)
 
 🔎:
 

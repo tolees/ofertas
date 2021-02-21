@@ -2,7 +2,7 @@
 layout: post
 title: 'Eucerin Filtro solar corporal - 200 ml al 60.46 % de descuento'
 date: 2020-01-21 01:08:20
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31GWRdjVnzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31GWRdjVnzL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.71'
 
 Ahora mismo tienes [Eucerin Filtro solar corporal - 200 ml](https://www.amazon.es/dp/B07FB2CYGH/?tag=tolees-21) a 6.71 EUR (original: 16.97 EUR) (60.46 %  de descuento) en el siguiente enlace!
 
-[![Eucerin Filtro solar corporal - 200 ml](https://images-eu.ssl-images-amazon.com/images/I/31GWRdjVnzL._SL200_.jpg)](https://www.amazon.es/dp/B07FB2CYGH/?tag=tolees-21)
+[![Eucerin Filtro solar corporal - 200 ml](https://images-eu.ssl-images-amazon.com/images/I/31GWRdjVnzL._SL400_.jpg)](https://www.amazon.es/dp/B07FB2CYGH/?tag=tolees-21)
 
 🔎:
 

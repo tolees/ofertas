@@ -2,7 +2,7 @@
 layout: post
 title: 'FITTOO Mallas Leggings Mujer Yoga de Alt al 58.99 % de descuento'
 date: 2020-03-01 09:50:05
-image: 'https://m.media-amazon.com/images/I/31GmaNZCx4L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31GmaNZCx4L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.99'
 
 Ahora mismo tienes [FITTOO Mallas Leggings Mujer Yoga de Alta Cintura Elásticos y Transpirables para Yoga Running Fitness790 Negro S](https://www.amazon.es/dp/B07DJPDZ2D/?tag=tolees-21) a 15.99 EUR (original: 38.99 EUR) (58.99 %  de descuento) en el siguiente enlace!
 
-[![FITTOO Mallas Leggings Mujer Yoga de Alt](https://m.media-amazon.com/images/I/31GmaNZCx4L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07DJPDZ2D/?tag=tolees-21)
+[![FITTOO Mallas Leggings Mujer Yoga de Alt](https://m.media-amazon.com/images/I/31GmaNZCx4L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07DJPDZ2D/?tag=tolees-21)
 
 🔎:
 

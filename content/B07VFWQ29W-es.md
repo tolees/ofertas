@@ -2,7 +2,7 @@
 layout: post
 title: 'Pepe Jeans Malibu Summer  Zapatillas par al 45.68 % de rebaja'
 date: 2020-07-19 08:43:10
-image: 'https://m.media-amazon.com/images/I/31hFdEYnrSL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31hFdEYnrSL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '37.97'
 
 Tienes [Pepe Jeans Malibu Summer  Zapatillas para Hombre  Verde Caqui Green 765  43 EU](https://www.amazon.es/dp/B07VFWQ29W/?tag=tolees-21) con precio final de  37.97 EUR (original: 69.9 EUR) (45.68 %  de rebaja) aqui!
 
-[![Pepe Jeans Malibu Summer  Zapatillas par](https://m.media-amazon.com/images/I/31hFdEYnrSL._SL200_.jpg)](https://www.amazon.es/dp/B07VFWQ29W/?tag=tolees-21)
+[![Pepe Jeans Malibu Summer  Zapatillas par](https://m.media-amazon.com/images/I/31hFdEYnrSL._SL400_.jpg)](https://www.amazon.es/dp/B07VFWQ29W/?tag=tolees-21)
 
 🔎:
 

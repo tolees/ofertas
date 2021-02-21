@@ -2,7 +2,7 @@
 layout: post
 title: 'Sony WHCH400H - Auriculares inalámbricos al 45.00 % de descuento'
 date: 2020-05-27 07:03:38
-image: 'https://m.media-amazon.com/images/I/41WuWT3Q5ZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41WuWT3Q5ZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '26.0'
 
 Ahora mismo tienes [Sony WHCH400H - Auriculares inalámbricos  Bluetooth  NFC  micro para llamadas con manos libres  óptimo para trabajar en casa   Negro](https://www.amazon.es/dp/B078VGN9T7/?tag=tolees-21) a 27.5 EUR (original: 50.0 EUR) (45.00 %  de descuento) en el siguiente enlace!
 
-[![Sony WHCH400H - Auriculares inalámbricos](https://m.media-amazon.com/images/I/41WuWT3Q5ZL._SL200_.jpg)](https://www.amazon.es/dp/B078VGN9T7/?tag=tolees-21)
+[![Sony WHCH400H - Auriculares inalámbricos](https://m.media-amazon.com/images/I/41WuWT3Q5ZL._SL400_.jpg)](https://www.amazon.es/dp/B078VGN9T7/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'CARPISA ® Cartera mujer con cierre de cl al 49.97 % de rebaja'
 date: 2020-06-23 14:13:27
-image: 'https://m.media-amazon.com/images/I/21rQtaME5VL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21rQtaME5VL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.98'
 
 Tienes [CARPISA ® Cartera mujer con cierre de clip - Soya Wallet](https://www.amazon.es/dp/B07VFBKR9L/?tag=tolees-21) con precio final de  9.98 EUR (original: 19.95 EUR) (49.97 %  de rebaja) aqui!
 
-[![CARPISA ® Cartera mujer con cierre de cl](https://m.media-amazon.com/images/I/21rQtaME5VL._SL200_.jpg)](https://www.amazon.es/dp/B07VFBKR9L/?tag=tolees-21)
+[![CARPISA ® Cartera mujer con cierre de cl](https://m.media-amazon.com/images/I/21rQtaME5VL._SL400_.jpg)](https://www.amazon.es/dp/B07VFBKR9L/?tag=tolees-21)
 
 🔎:
 

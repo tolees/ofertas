@@ -2,7 +2,7 @@
 layout: post
 title: 'Victoria Botin Basket Autoclave  Zapatil al 53.21 % de descuento'
 date: 2020-09-17 11:10:14
-image: 'https://m.media-amazon.com/images/I/4110KI5ciiL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/4110KI5ciiL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.99'
 
 Está [Victoria Botin Basket Autoclave  Zapatillas Altas Unisex Adulto  Noir Negro 10  38 EU](https://www.amazon.es/dp/B01CDIYCBY/?tag=tolees-21) con 53.21 de descuento por 13.99 EUR (original: 29.9 EUR) en el siguiente enlace!
 
-[![Victoria Botin Basket Autoclave  Zapatil](https://m.media-amazon.com/images/I/4110KI5ciiL._SL200_.jpg)](https://www.amazon.es/dp/B01CDIYCBY/?tag=tolees-21)
+[![Victoria Botin Basket Autoclave  Zapatil](https://m.media-amazon.com/images/I/4110KI5ciiL._SL400_.jpg)](https://www.amazon.es/dp/B01CDIYCBY/?tag=tolees-21)
 
 ℹ️:
 

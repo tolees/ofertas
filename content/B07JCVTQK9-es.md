@@ -2,7 +2,7 @@
 layout: post
 title: 'CATWALK COLLECTION - Pequeña Mensajero/B al 39.47 % de rebaja'
 date: 2020-07-20 13:01:37
-image: 'https://m.media-amazon.com/images/I/51yZGOqHYWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51yZGOqHYWL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '39.95'
 
 Tienes [CATWALK COLLECTION - Pequeña Mensajero/Bolso Bandolera/Cuerpo Cruzado - iPhone/Kindle - SABINE - Cuero Desgastado - Azul](https://www.amazon.es/dp/B07JCVTQK9/?tag=tolees-21) con precio final de  39.95 EUR (original: 66.0 EUR) (39.47 %  de rebaja) aqui!
 
-[![CATWALK COLLECTION - Pequeña Mensajero/B](https://m.media-amazon.com/images/I/51yZGOqHYWL._SL200_.jpg)](https://www.amazon.es/dp/B07JCVTQK9/?tag=tolees-21)
+[![CATWALK COLLECTION - Pequeña Mensajero/B](https://m.media-amazon.com/images/I/51yZGOqHYWL._SL400_.jpg)](https://www.amazon.es/dp/B07JCVTQK9/?tag=tolees-21)
 
 🔎:
 

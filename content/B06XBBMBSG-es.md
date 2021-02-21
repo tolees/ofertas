@@ -2,7 +2,7 @@
 layout: post
 title: 'Coche de Carreras Juguete Desmontable Ju al 28.20 % de descuento'
 date: 2020-08-16 14:10:24
-image: 'https://m.media-amazon.com/images/I/51LPs4NWw1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51LPs4NWw1L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.98'
 
 Está [Coche de Carreras Juguete Desmontable Juguetes Educativos de Construcción con Kit Desmontar y Ensamblar Coche Desmontable Niño 3 4 5 Años](https://www.amazon.es/dp/B06XBBMBSG/?tag=tolees-21) con 28.20 de descuento por 13.98 EUR (original: 19.47 EUR) en el siguiente enlace!
 
-[![Coche de Carreras Juguete Desmontable Ju](https://m.media-amazon.com/images/I/51LPs4NWw1L._SL200_.jpg)](https://www.amazon.es/dp/B06XBBMBSG/?tag=tolees-21)
+[![Coche de Carreras Juguete Desmontable Ju](https://m.media-amazon.com/images/I/51LPs4NWw1L._SL400_.jpg)](https://www.amazon.es/dp/B06XBBMBSG/?tag=tolees-21)
 
 ℹ️:
 

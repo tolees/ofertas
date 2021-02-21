@@ -2,7 +2,7 @@
 layout: post
 title: 'Stargazer  Sombra de ojos  Negro   Pack  al 60.87 % de descuento'
 date: 2020-03-06 19:22:11
-image: 'https://m.media-amazon.com/images/I/41PLUbqf0gL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41PLUbqf0gL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.05'
 
 Ahora mismo tienes [Stargazer  Sombra de ojos  Negro   Pack of 2 x 3.5gr  7 gr ](https://www.amazon.es/dp/B0025T2IZO/?tag=tolees-21) a 4.07 EUR (original: 10.4 EUR) (60.87 %  de descuento) en el siguiente enlace!
 
-[![Stargazer  Sombra de ojos  Negro   Pack ](https://m.media-amazon.com/images/I/41PLUbqf0gL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B0025T2IZO/?tag=tolees-21)
+[![Stargazer  Sombra de ojos  Negro   Pack ](https://m.media-amazon.com/images/I/41PLUbqf0gL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B0025T2IZO/?tag=tolees-21)
 
 🔎:
 

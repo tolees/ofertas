@@ -2,7 +2,7 @@
 layout: post
 title: 'Taurus Unlimited 25.6 Lithium - Aspirado al 42.35 % de descuento'
 date: 2020-02-10 11:29:52
-image: 'https://m.media-amazon.com/images/I/31um6kMo--L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31um6kMo--L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '64.29666666666667'
 
 Está [Taurus Unlimited 25.6 Lithium - Aspirador escoba 3 en 1](https://www.amazon.es/dp/B016ICEZOK/?tag=tolees-21) con 42.35 de descuento por 49.0 EUR (original: 85.0 EUR) en el siguiente enlace!
 
-[![Taurus Unlimited 25.6 Lithium - Aspirado](https://m.media-amazon.com/images/I/31um6kMo--L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B016ICEZOK/?tag=tolees-21)
+[![Taurus Unlimited 25.6 Lithium - Aspirado](https://m.media-amazon.com/images/I/31um6kMo--L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B016ICEZOK/?tag=tolees-21)
 
 ℹ️:
 

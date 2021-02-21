@@ -2,7 +2,7 @@
 layout: post
 title: 'Bvlgari Omnia Paraiba Edt Vapo 40 Ml 1 U al 52.62 % de descuento'
 date: 2020-02-21 17:45:17
-image: 'https://m.media-amazon.com/images/I/414vYMG6h9L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/414vYMG6h9L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '35.39'
 
 Ahora mismo tienes [Bvlgari Omnia Paraiba Edt Vapo 40 Ml 1 Unidad 0.04 g](https://www.amazon.es/dp/B017XNXKAS/?tag=tolees-21) a 30.8 EUR (original: 65.0 EUR) (52.62 %  de descuento) en el siguiente enlace!
 
-[![Bvlgari Omnia Paraiba Edt Vapo 40 Ml 1 U](https://m.media-amazon.com/images/I/414vYMG6h9L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B017XNXKAS/?tag=tolees-21)
+[![Bvlgari Omnia Paraiba Edt Vapo 40 Ml 1 U](https://m.media-amazon.com/images/I/414vYMG6h9L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B017XNXKAS/?tag=tolees-21)
 
 🔎:
 

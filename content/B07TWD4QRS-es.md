@@ -2,7 +2,7 @@
 layout: post
 title: 'loud + proud Striped Shorts Organic Cott al 45.15 % de rebaja'
 date: 2020-08-14 18:07:10
-image: 'https://m.media-amazon.com/images/I/41IrNt0gzCL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41IrNt0gzCL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.27'
 
 Tienes [loud + proud Striped Shorts Organic Cotton Pantalones Cortos  Verde  Mint Min   62/68 para Bebés](https://www.amazon.es/dp/B07TWD4QRS/?tag=tolees-21) con precio final de  9.27 EUR (original: 16.9 EUR) (45.15 %  de rebaja) aqui!
 
-[![loud + proud Striped Shorts Organic Cott](https://m.media-amazon.com/images/I/41IrNt0gzCL._SL200_.jpg)](https://www.amazon.es/dp/B07TWD4QRS/?tag=tolees-21)
+[![loud + proud Striped Shorts Organic Cott](https://m.media-amazon.com/images/I/41IrNt0gzCL._SL400_.jpg)](https://www.amazon.es/dp/B07TWD4QRS/?tag=tolees-21)
 
 🔎:
 

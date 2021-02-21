@@ -2,7 +2,7 @@
 layout: post
 title: 'Decodificador TDT Terrestre - Leelbox Di al 25.01 % de descuento'
 date: 2020-08-21 20:52:06
-image: 'https://m.media-amazon.com/images/I/41EH+GSmchL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41EH+GSmchL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '25.82333333333333'
 
 Ahora mismo tienes [Decodificador TDT Terrestre - Leelbox Digital TV HD Euroconector Sintonizador Receptor DVB T2 Tuner Full HD / HD Ready / 1080P / H.264 / MPEG / Multimedia  DVB T2  PVR  SCART ](https://www.amazon.es/dp/B07LGT8PZ7/?tag=tolees-21) a 22.49 EUR (original: 29.99 EUR) (25.01 %  de descuento) en el siguiente enlace!
 
-[![Decodificador TDT Terrestre - Leelbox Di](https://m.media-amazon.com/images/I/41EH+GSmchL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07LGT8PZ7/?tag=tolees-21)
+[![Decodificador TDT Terrestre - Leelbox Di](https://m.media-amazon.com/images/I/41EH+GSmchL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07LGT8PZ7/?tag=tolees-21)
 
 🔎:
 

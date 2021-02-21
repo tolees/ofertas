@@ -2,7 +2,7 @@
 layout: post
 title: 'Hackett London Coral Swim Trim Polo  Bla al 60.00 % de descuento'
 date: 2020-09-05 10:32:26
-image: 'https://m.media-amazon.com/images/I/31yipgVDeYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31yipgVDeYL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '38.0'
 
 Ahora mismo tienes [Hackett London Coral Swim Trim Polo  Blanco  800white 800   X-Large para Hombre](https://www.amazon.es/dp/B07VG97HPJ/?tag=tolees-21) a 38.0 EUR (original: 95.0 EUR) (60.00 %  de descuento) en el siguiente enlace!
 
-[![Hackett London Coral Swim Trim Polo  Bla](https://m.media-amazon.com/images/I/31yipgVDeYL._SL200_.jpg)](https://www.amazon.es/dp/B07VG97HPJ/?tag=tolees-21)
+[![Hackett London Coral Swim Trim Polo  Bla](https://m.media-amazon.com/images/I/31yipgVDeYL._SL400_.jpg)](https://www.amazon.es/dp/B07VG97HPJ/?tag=tolees-21)
 
 🔎:
 

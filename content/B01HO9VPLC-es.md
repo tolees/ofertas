@@ -2,7 +2,7 @@
 layout: post
 title: 'Asics Unisex Adults Gel-Kayano Trainer E al 76.10 % de rebaja'
 date: 2020-02-02 18:33:05
-image: 'https://m.media-amazon.com/images/I/41QiGlw3fFL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41QiGlw3fFL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '26.82'
 
 Tienes [Asics Unisex Adults Gel-Kayano Trainer Evo Zapatillas de correr Adultos Unisex  Negro  Black/Black   37 1/2 EU](https://www.amazon.es/dp/B01HO9VPLC/?tag=tolees-21) con precio final de  26.82 EUR (original: 112.24 EUR) (76.10 %  de rebaja) aqui!
 
-[![Asics Unisex Adults Gel-Kayano Trainer E](https://m.media-amazon.com/images/I/41QiGlw3fFL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01HO9VPLC/?tag=tolees-21)
+[![Asics Unisex Adults Gel-Kayano Trainer E](https://m.media-amazon.com/images/I/41QiGlw3fFL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01HO9VPLC/?tag=tolees-21)
 
 🔎:
 

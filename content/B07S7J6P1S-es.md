@@ -2,7 +2,7 @@
 layout: post
 title: 'Festina Hombre F20279/A al 41.89 % de descuento'
 date: 2020-07-28 13:45:47
-image: 'https://m.media-amazon.com/images/I/51n5LctzS8L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51n5LctzS8L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '69.15'
 
 Está [Festina Hombre F20279/A](https://www.amazon.es/dp/B07S7J6P1S/?tag=tolees-21) con 41.89 de descuento por 69.15 EUR (original: 119.0 EUR) en el siguiente enlace!
 
-[![Festina Hombre F20279/A](https://m.media-amazon.com/images/I/51n5LctzS8L._SL200_.jpg)](https://www.amazon.es/dp/B07S7J6P1S/?tag=tolees-21)
+[![Festina Hombre F20279/A](https://m.media-amazon.com/images/I/51n5LctzS8L._SL400_.jpg)](https://www.amazon.es/dp/B07S7J6P1S/?tag=tolees-21)
 
 ℹ️:
 

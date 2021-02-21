@@ -2,7 +2,7 @@
 layout: post
 title: 'Calcetines de Compresión 1 par  Blanco s al 62.58 % de rebaja'
 date: 2020-03-16 17:32:52
-image: 'https://m.media-amazon.com/images/I/31g9bcIMtOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31g9bcIMtOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.95'
 
 Tienes [Calcetines de Compresión 1 par  Blanco sólido  EU 39-42 ](https://www.amazon.es/dp/B07QC1R9VR/?tag=tolees-21) con precio final de  14.95 EUR (original: 39.95 EUR) (62.58 %  de rebaja) aqui!
 
-[![Calcetines de Compresión 1 par  Blanco s](https://m.media-amazon.com/images/I/31g9bcIMtOL._SL200_.jpg)](https://www.amazon.es/dp/B07QC1R9VR/?tag=tolees-21)
+[![Calcetines de Compresión 1 par  Blanco s](https://m.media-amazon.com/images/I/31g9bcIMtOL._SL400_.jpg)](https://www.amazon.es/dp/B07QC1R9VR/?tag=tolees-21)
 
 🔎:
 

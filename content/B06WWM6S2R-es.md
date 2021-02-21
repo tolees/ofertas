@@ -2,7 +2,7 @@
 layout: post
 title: 'Mata insectos sobremesa por absorción co al 34.93 % de descuento'
 date: 2020-06-21 09:33:14
-image: 'https://m.media-amazon.com/images/I/41PNU1yGrvL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41PNU1yGrvL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.9'
 
 Ahora mismo tienes [Mata insectos sobremesa por absorción con ventilador para Exterior ZZAP TRAP EX Purline](https://www.amazon.es/dp/B06WWM6S2R/?tag=tolees-21) a 29.9 EUR (original: 45.95 EUR) (34.93 %  de descuento) en el siguiente enlace!
 
-[![Mata insectos sobremesa por absorción co](https://m.media-amazon.com/images/I/41PNU1yGrvL._SL200_.jpg)](https://www.amazon.es/dp/B06WWM6S2R/?tag=tolees-21)
+[![Mata insectos sobremesa por absorción co](https://m.media-amazon.com/images/I/41PNU1yGrvL._SL400_.jpg)](https://www.amazon.es/dp/B06WWM6S2R/?tag=tolees-21)
 
 🔎:
 

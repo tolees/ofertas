@@ -2,7 +2,7 @@
 layout: post
 title: 'Salomon ALPHACROSS W Zapatillas de trail al 55.96 % de descuento'
 date: 2020-01-09 23:12:12
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41qOdACJb4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41qOdACJb4L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '39.61'
 
 Ahora mismo tienes [Salomon ALPHACROSS W Zapatillas de trail running Mujer  Verde  Burnt Olive/White/Gum1a   42 2/3 EU](https://www.amazon.es/dp/B07KQQTJ7L/?tag=tolees-21) a 39.61 EUR (original: 89.95 EUR) (55.96 %  de descuento) en el siguiente enlace!
 
-[![Salomon ALPHACROSS W Zapatillas de trail](https://images-eu.ssl-images-amazon.com/images/I/41qOdACJb4L._SL200_.jpg)](https://www.amazon.es/dp/B07KQQTJ7L/?tag=tolees-21)
+[![Salomon ALPHACROSS W Zapatillas de trail](https://images-eu.ssl-images-amazon.com/images/I/41qOdACJb4L._SL400_.jpg)](https://www.amazon.es/dp/B07KQQTJ7L/?tag=tolees-21)
 
 🔎:
 

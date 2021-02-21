@@ -2,7 +2,7 @@
 layout: post
 title: 'Jack & Jones Jjehill Knit Crew Neck Noos al 48.76 % de descuento'
 date: 2020-09-07 13:25:37
-image: 'https://m.media-amazon.com/images/I/41nHIzni6fL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41nHIzni6fL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.49'
 
 Está [Jack & Jones Jjehill Knit Crew Neck Noos suéter  Verde  Olive Night Detail: Melange   Large para Hombre](https://www.amazon.es/dp/B07TXB7P66/?tag=tolees-21) con 48.76 de descuento por 20.49 EUR (original: 39.99 EUR) en el siguiente enlace!
 
-[![Jack & Jones Jjehill Knit Crew Neck Noos](https://m.media-amazon.com/images/I/41nHIzni6fL._SL200_.jpg)](https://www.amazon.es/dp/B07TXB7P66/?tag=tolees-21)
+[![Jack & Jones Jjehill Knit Crew Neck Noos](https://m.media-amazon.com/images/I/41nHIzni6fL._SL400_.jpg)](https://www.amazon.es/dp/B07TXB7P66/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Telémetro láser 50m  USB 30mins Carga rá al 50.01 % de descuento'
 date: 2020-04-23 08:46:18
-image: 'https://m.media-amazon.com/images/I/517GV5R86xL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/517GV5R86xL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.09'
 
 Ahora mismo tienes [Telémetro láser 50m  USB 30mins Carga rápida  TECCPO Medidor Láser  Electrónico Ángulo Sensores  99 Datos  2.25   LCD Retroiluminación  Medición de distancia  Área  Volumen  Trípode  IP54  TDLM26P](https://www.amazon.es/dp/B07TSCBCBH/?tag=tolees-21) a 29.99 EUR (original: 59.99 EUR) (50.01 %  de descuento) en el siguiente enlace!
 
-[![Telémetro láser 50m  USB 30mins Carga rá](https://m.media-amazon.com/images/I/517GV5R86xL._SL200_.jpg)](https://www.amazon.es/dp/B07TSCBCBH/?tag=tolees-21)
+[![Telémetro láser 50m  USB 30mins Carga rá](https://m.media-amazon.com/images/I/517GV5R86xL._SL400_.jpg)](https://www.amazon.es/dp/B07TSCBCBH/?tag=tolees-21)
 
 🔎:
 

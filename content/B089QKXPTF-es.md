@@ -2,7 +2,7 @@
 layout: post
 title: 'Kinberry - Cámara para exteriores  versi al 44.99 % de rebaja'
 date: 2020-08-15 14:33:23
-image: 'https://m.media-amazon.com/images/I/41AQUxY-hvL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41AQUxY-hvL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.87'
 
 Tienes [Kinberry - Cámara para exteriores  versión nocturna ](https://www.amazon.es/dp/B089QKXPTF/?tag=tolees-21) con precio final de  15.87 EUR (original: 28.85 EUR) (44.99 %  de rebaja) aqui!
 
-[![Kinberry - Cámara para exteriores  versi](https://m.media-amazon.com/images/I/41AQUxY-hvL._SL200_.jpg)](https://www.amazon.es/dp/B089QKXPTF/?tag=tolees-21)
+[![Kinberry - Cámara para exteriores  versi](https://m.media-amazon.com/images/I/41AQUxY-hvL._SL400_.jpg)](https://www.amazon.es/dp/B089QKXPTF/?tag=tolees-21)
 
 🔎:
 

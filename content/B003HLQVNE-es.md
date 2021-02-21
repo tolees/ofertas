@@ -2,7 +2,7 @@
 layout: post
 title: 'Revlon Esmalte de Uñas 14 7ml  Revlon Re con un 44.29 % de descuento'
 date: 2020-04-08 14:05:25
-image: 'https://m.media-amazon.com/images/I/31Fe90WgR8L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Fe90WgR8L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.975'
 
 En este momento está [Revlon Esmalte de Uñas 14 7ml  Revlon Red ](https://www.amazon.es/dp/B003HLQVNE/?tag=tolees-21) a 1.95 EUR (original: 3.5 EUR) (44.29 %  de descuento) en el siguiente enlace!
 
-[![Revlon Esmalte de Uñas 14 7ml  Revlon Re](https://m.media-amazon.com/images/I/31Fe90WgR8L._SL200_.jpg)](https://www.amazon.es/dp/B003HLQVNE/?tag=tolees-21)
+[![Revlon Esmalte de Uñas 14 7ml  Revlon Re](https://m.media-amazon.com/images/I/31Fe90WgR8L._SL400_.jpg)](https://www.amazon.es/dp/B003HLQVNE/?tag=tolees-21)
 
 🔎:
 

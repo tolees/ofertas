@@ -2,7 +2,7 @@
 layout: post
 title: 'JACK & JONES Jfwtrent PU 19 Noos  Zapati al 55.87 % de descuento'
 date: 2020-04-21 22:34:51
-image: 'https://m.media-amazon.com/images/I/31NSSB7j+WL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31NSSB7j+WL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '22.06'
 
 Ahora mismo tienes [JACK & JONES Jfwtrent PU 19 Noos  Zapatillas para Hombre  Gris  Anthracite Anthracite   40 EU](https://www.amazon.es/dp/B07JHNDVMD/?tag=tolees-21) a 22.06 EUR (original: 49.99 EUR) (55.87 %  de descuento) en el siguiente enlace!
 
-[![JACK & JONES Jfwtrent PU 19 Noos  Zapati](https://m.media-amazon.com/images/I/31NSSB7j+WL._SL200_.jpg)](https://www.amazon.es/dp/B07JHNDVMD/?tag=tolees-21)
+[![JACK & JONES Jfwtrent PU 19 Noos  Zapati](https://m.media-amazon.com/images/I/31NSSB7j+WL._SL400_.jpg)](https://www.amazon.es/dp/B07JHNDVMD/?tag=tolees-21)
 
 🔎:
 

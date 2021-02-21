@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 26.97 % en Saint Seiya Hade Inferno   Eliseos Blu-R'
 date: 2020-01-12 15:31:22
-image: 'https://images-eu.ssl-images-amazon.com/images/I/61ce%2B3FVrmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61ce%2B3FVrmL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.835'
 
 Tienes [Saint Seiya Hade Inferno   Eliseos Blu-Ray [Blu-ray]](https://www.amazon.es/dp/B071RBYD5K/?tag=tolees-21) con un 26.97 % de descuento con precio de oferta de 18.68 EUR (original: 25.58 EUR) en el siguiente enlace!
 
-[![Saint Seiya Hade Inferno   Eliseos Blu-R](https://images-eu.ssl-images-amazon.com/images/I/61ce%2B3FVrmL._SL200_.jpg)](https://www.amazon.es/dp/B071RBYD5K/?tag=tolees-21)
+[![Saint Seiya Hade Inferno   Eliseos Blu-R](https://images-eu.ssl-images-amazon.com/images/I/61ce%2B3FVrmL._SL400_.jpg)](https://www.amazon.es/dp/B071RBYD5K/?tag=tolees-21)
 
 ℹ️:
 

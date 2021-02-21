@@ -2,7 +2,7 @@
 layout: post
 title: 'Rubies - Disfraz oficial de DC Aquaman T con un 32.48 % de descuento'
 date: 2020-03-09 22:01:24
-image: 'https://m.media-amazon.com/images/I/414g6bvNR6L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/414g6bvNR6L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '44.96'
 
 En este momento está [Rubies - Disfraz oficial de DC Aquaman The Movie  disfraz de lujo para adulto](https://www.amazon.es/dp/B07CK8LSQW/?tag=tolees-21) a 44.96 EUR (original: 66.59 EUR) (32.48 %  de descuento) en el siguiente enlace!
 
-[![Rubies - Disfraz oficial de DC Aquaman T](https://m.media-amazon.com/images/I/414g6bvNR6L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07CK8LSQW/?tag=tolees-21)
+[![Rubies - Disfraz oficial de DC Aquaman T](https://m.media-amazon.com/images/I/414g6bvNR6L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07CK8LSQW/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'TRANGO Brood Sn Pant. Pirata  Hombre  Ka al 40.21 % de descuento'
 date: 2020-01-04 22:55:37
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31ANEda2sPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31ANEda2sPL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '42.99'
 
 Está [TRANGO Brood Sn Pant. Pirata  Hombre  Kaki/Marron Oscuro  3XL](https://www.amazon.es/dp/B01D61TPWI/?tag=tolees-21) con 40.21 de descuento por 42.99 EUR (original: 71.9 EUR) en el siguiente enlace!
 
-[![TRANGO Brood Sn Pant. Pirata  Hombre  Ka](https://images-eu.ssl-images-amazon.com/images/I/31ANEda2sPL._SL200_.jpg)](https://www.amazon.es/dp/B01D61TPWI/?tag=tolees-21)
+[![TRANGO Brood Sn Pant. Pirata  Hombre  Ka](https://images-eu.ssl-images-amazon.com/images/I/31ANEda2sPL._SL400_.jpg)](https://www.amazon.es/dp/B01D61TPWI/?tag=tolees-21)
 
 ℹ️:
 

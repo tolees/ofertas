@@ -2,7 +2,7 @@
 layout: post
 title: 'Revlon Ultra HD Gel Pintalabios  Tropica al 72.56 % de descuento'
 date: 2020-08-11 14:33:15
-image: 'https://m.media-amazon.com/images/I/31jLvyySIkL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31jLvyySIkL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.1658333333333335'
 
 Está [Revlon Ultra HD Gel Pintalabios  Tropical ](https://www.amazon.es/dp/B01KHSUUYK/?tag=tolees-21) con 72.56 de descuento por 2.73 EUR (original: 9.95 EUR) en el siguiente enlace!
 
-[![Revlon Ultra HD Gel Pintalabios  Tropica](https://m.media-amazon.com/images/I/31jLvyySIkL._SL200_.jpg)](https://www.amazon.es/dp/B01KHSUUYK/?tag=tolees-21)
+[![Revlon Ultra HD Gel Pintalabios  Tropica](https://m.media-amazon.com/images/I/31jLvyySIkL._SL400_.jpg)](https://www.amazon.es/dp/B01KHSUUYK/?tag=tolees-21)
 
 ℹ️:
 

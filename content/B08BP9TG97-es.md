@@ -2,7 +2,7 @@
 layout: post
 title: 'Fesjoy Mini ventilador portátil de aire  al 47.09 % de descuento'
 date: 2020-08-09 16:31:41
-image: 'https://m.media-amazon.com/images/I/41L3Owe-uOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41L3Owe-uOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '28.646666666666665'
 
 Ahora mismo tienes [Fesjoy Mini ventilador portátil de aire acondicionado  silencioso  humidificador  evaporador  USB  aire acondicionado personal  3 velocidades  LED  noche  oficina  dispositivo de refrigeración](https://www.amazon.es/dp/B08BP9TG97/?tag=tolees-21) a 17.98 EUR (original: 33.98 EUR) (47.09 %  de descuento) en el siguiente enlace!
 
-[![Fesjoy Mini ventilador portátil de aire ](https://m.media-amazon.com/images/I/41L3Owe-uOL._SL200_.jpg)](https://www.amazon.es/dp/B08BP9TG97/?tag=tolees-21)
+[![Fesjoy Mini ventilador portátil de aire ](https://m.media-amazon.com/images/I/41L3Owe-uOL._SL400_.jpg)](https://www.amazon.es/dp/B08BP9TG97/?tag=tolees-21)
 
 🔎:
 

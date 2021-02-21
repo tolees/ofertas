@@ -2,7 +2,7 @@
 layout: post
 title: 'Universal Candy Color 3USB Cargador Trav al 35.02 % de descuento'
 date: 2020-09-08 12:31:09
-image: 'https://m.media-amazon.com/images/I/41NJkAuNh5L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41NJkAuNh5L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.54'
 
 Está [Universal Candy Color 3USB Cargador Travel Wall Charger Adapter Smart Mobile Phone Cargador de Fuente de alimentación para tabletas EU - Negro](https://www.amazon.es/dp/B085CGNFF6/?tag=tolees-21) con 35.02 de descuento por 1.54 EUR (original: 2.37 EUR) en el siguiente enlace!
 
-[![Universal Candy Color 3USB Cargador Trav](https://m.media-amazon.com/images/I/41NJkAuNh5L._SL200_.jpg)](https://www.amazon.es/dp/B085CGNFF6/?tag=tolees-21)
+[![Universal Candy Color 3USB Cargador Trav](https://m.media-amazon.com/images/I/41NJkAuNh5L._SL400_.jpg)](https://www.amazon.es/dp/B085CGNFF6/?tag=tolees-21)
 
 ℹ️:
 

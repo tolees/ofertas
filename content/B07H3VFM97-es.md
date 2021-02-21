@@ -2,7 +2,7 @@
 layout: post
 title: 'Emma & Giovanni - Pullover- Mujer  Beige al 55.52 % de descuento'
 date: 2020-01-18 19:32:43
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51eUM5uTAUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51eUM5uTAUL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.9'
 
 Ahora mismo tienes [Emma & Giovanni - Pullover- Mujer  Beige  M/L ](https://www.amazon.es/dp/B07H3VFM97/?tag=tolees-21) a 12.9 EUR (original: 29 EUR) (55.52 %  de descuento) en el siguiente enlace!
 
-[![Emma & Giovanni - Pullover- Mujer  Beige](https://images-eu.ssl-images-amazon.com/images/I/51eUM5uTAUL._SL200_.jpg)](https://www.amazon.es/dp/B07H3VFM97/?tag=tolees-21)
+[![Emma & Giovanni - Pullover- Mujer  Beige](https://images-eu.ssl-images-amazon.com/images/I/51eUM5uTAUL._SL400_.jpg)](https://www.amazon.es/dp/B07H3VFM97/?tag=tolees-21)
 
 🔎:
 

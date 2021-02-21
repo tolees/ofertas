@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger New Danny Belt Cinturón   al 40.38 % de descuento'
 date: 2020-04-13 15:51:31
-image: 'https://m.media-amazon.com/images/I/51NsICOJ1XL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51NsICOJ1XL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '25.326666666666664'
 
 Ahora mismo tienes [Tommy Hilfiger New Danny Belt Cinturón  Cognac  85 para Mujer](https://www.amazon.es/dp/B00XDYNH2S/?tag=tolees-21) a 26.99 EUR (original: 45.27 EUR) (40.38 %  de descuento) en el siguiente enlace!
 
-[![Tommy Hilfiger New Danny Belt Cinturón  ](https://m.media-amazon.com/images/I/51NsICOJ1XL._SL200_.jpg)](https://www.amazon.es/dp/B00XDYNH2S/?tag=tolees-21)
+[![Tommy Hilfiger New Danny Belt Cinturón  ](https://m.media-amazon.com/images/I/51NsICOJ1XL._SL400_.jpg)](https://www.amazon.es/dp/B00XDYNH2S/?tag=tolees-21)
 
 🔎:
 

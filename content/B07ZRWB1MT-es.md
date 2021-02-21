@@ -2,7 +2,7 @@
 layout: post
 title: 'Los Sims 4 - Días de Universidad  La caj al 51.45 % de descuento'
 date: 2020-02-22 20:30:59
-image: 'https://m.media-amazon.com/images/I/51dAWiErpuL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51dAWiErpuL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.9'
 
 Está [Los Sims 4 - Días de Universidad  La caja contiene un código de descarga - Origin ](https://www.amazon.es/dp/B07ZRWB1MT/?tag=tolees-21) con 51.45 de descuento por 19.9 EUR (original: 40.99 EUR) en el siguiente enlace!
 
-[![Los Sims 4 - Días de Universidad  La caj](https://m.media-amazon.com/images/I/51dAWiErpuL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07ZRWB1MT/?tag=tolees-21)
+[![Los Sims 4 - Días de Universidad  La caj](https://m.media-amazon.com/images/I/51dAWiErpuL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07ZRWB1MT/?tag=tolees-21)
 
 ℹ️:
 

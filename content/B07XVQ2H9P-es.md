@@ -2,7 +2,7 @@
 layout: post
 title: 'Esprit 119EE2I011 Suéter  Azul  Navy 400 al 87.87 % de rebaja'
 date: 2020-05-17 18:26:56
-image: 'https://m.media-amazon.com/images/I/41PhAYyqUjL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41PhAYyqUjL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.125000000000002'
 
 Tienes [Esprit 119EE2I011 Suéter  Azul  Navy 400   M para Hombre](https://www.amazon.es/dp/B07XVQ2H9P/?tag=tolees-21) con precio final de  8.49 EUR (original: 69.99 EUR) (87.87 %  de rebaja) aqui!
 
-[![Esprit 119EE2I011 Suéter  Azul  Navy 400](https://m.media-amazon.com/images/I/41PhAYyqUjL._SL200_.jpg)](https://www.amazon.es/dp/B07XVQ2H9P/?tag=tolees-21)
+[![Esprit 119EE2I011 Suéter  Azul  Navy 400](https://m.media-amazon.com/images/I/41PhAYyqUjL._SL400_.jpg)](https://www.amazon.es/dp/B07XVQ2H9P/?tag=tolees-21)
 
 🔎:
 

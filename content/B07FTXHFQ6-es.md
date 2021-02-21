@@ -2,7 +2,7 @@
 layout: post
 title: 'Pour Moi? Ditto Underwired Bra Sujetador al 30.08 % de descuento'
 date: 2020-01-03 08:25:43
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41frXrRssvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41frXrRssvL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.04'
 
 Está [Pour Moi? Ditto Underwired Bra Sujetador con Aros  Blanco  White White   90F para Mujer](https://www.amazon.es/dp/B07FTXHFQ6/?tag=tolees-21) con 30.08 de descuento por 16.04 EUR (original: 22.94 EUR) en el siguiente enlace!
 
-[![Pour Moi? Ditto Underwired Bra Sujetador](https://images-eu.ssl-images-amazon.com/images/I/41frXrRssvL._SL200_.jpg)](https://www.amazon.es/dp/B07FTXHFQ6/?tag=tolees-21)
+[![Pour Moi? Ditto Underwired Bra Sujetador](https://images-eu.ssl-images-amazon.com/images/I/41frXrRssvL._SL400_.jpg)](https://www.amazon.es/dp/B07FTXHFQ6/?tag=tolees-21)
 
 ℹ️:
 

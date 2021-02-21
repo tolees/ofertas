@@ -2,7 +2,7 @@
 layout: post
 title: 'Jimmy Choo L Eau Perfume - 60 ml al 54.18 % de descuento'
 date: 2020-03-19 08:54:18
-image: 'https://m.media-amazon.com/images/I/41BOQm5gmLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41BOQm5gmLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '31.165000000000003'
 
 Ahora mismo tienes [Jimmy Choo L Eau Perfume - 60 ml](https://www.amazon.es/dp/B01NAZ2VVB/?tag=tolees-21) a 29.96 EUR (original: 65.39 EUR) (54.18 %  de descuento) en el siguiente enlace!
 
-[![Jimmy Choo L Eau Perfume - 60 ml](https://m.media-amazon.com/images/I/41BOQm5gmLL._SL200_.jpg)](https://www.amazon.es/dp/B01NAZ2VVB/?tag=tolees-21)
+[![Jimmy Choo L Eau Perfume - 60 ml](https://m.media-amazon.com/images/I/41BOQm5gmLL._SL400_.jpg)](https://www.amazon.es/dp/B01NAZ2VVB/?tag=tolees-21)
 
 🔎:
 

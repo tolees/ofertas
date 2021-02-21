@@ -2,7 +2,7 @@
 layout: post
 title: 'Vans Classic Patch Trucker - Gorra para  al 50.00 % de descuento'
 date: 2020-05-02 15:34:33
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41MRkwWddqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41MRkwWddqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.5'
 
 Ahora mismo tienes [Vans Classic Patch Trucker - Gorra para hombre  Negro/Blanco  Black/White   Talla única](https://www.amazon.es/dp/B001PGVY62/?tag=tolees-21) a 12.5 EUR (original: 25 EUR) (50.00 %  de descuento) en el siguiente enlace!
 
-[![Vans Classic Patch Trucker - Gorra para ](https://images-eu.ssl-images-amazon.com/images/I/41MRkwWddqL._SL200_.jpg)](https://www.amazon.es/dp/B001PGVY62/?tag=tolees-21)
+[![Vans Classic Patch Trucker - Gorra para ](https://images-eu.ssl-images-amazon.com/images/I/41MRkwWddqL._SL400_.jpg)](https://www.amazon.es/dp/B001PGVY62/?tag=tolees-21)
 
 🔎:
 

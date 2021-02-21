@@ -2,7 +2,7 @@
 layout: post
 title: 'Flexi New Comfort - Cinta   Gris  Talla  al 47.96 % de descuento'
 date: 2020-02-08 15:23:30
-image: 'https://m.media-amazon.com/images/I/31TpVTaw8aL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31TpVTaw8aL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.23'
 
 Ahora mismo tienes [Flexi New Comfort - Cinta   Gris  Talla S](https://www.amazon.es/dp/B01H3K2KCA/?tag=tolees-21) a 12.23 EUR (original: 23.5 EUR) (47.96 %  de descuento) en el siguiente enlace!
 
-[![Flexi New Comfort - Cinta   Gris  Talla ](https://m.media-amazon.com/images/I/31TpVTaw8aL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01H3K2KCA/?tag=tolees-21)
+[![Flexi New Comfort - Cinta   Gris  Talla ](https://m.media-amazon.com/images/I/31TpVTaw8aL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01H3K2KCA/?tag=tolees-21)
 
 🔎:
 

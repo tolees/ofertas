@@ -2,7 +2,7 @@
 layout: post
 title: 'Manfrotto Advanced Tri - Funda para cáma al 32.63 % de descuento'
 date: 2020-04-22 23:01:53
-image: 'https://m.media-amazon.com/images/I/4116ZRY2bwL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/4116ZRY2bwL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '69.12'
 
 Ahora mismo tienes [Manfrotto Advanced Tri - Funda para cámara DSLR  negro](https://www.amazon.es/dp/B00FM2XP2G/?tag=tolees-21) a 69.12 EUR (original: 102.6 EUR) (32.63 %  de descuento) en el siguiente enlace!
 
-[![Manfrotto Advanced Tri - Funda para cáma](https://m.media-amazon.com/images/I/4116ZRY2bwL._SL200_.jpg)](https://www.amazon.es/dp/B00FM2XP2G/?tag=tolees-21)
+[![Manfrotto Advanced Tri - Funda para cáma](https://m.media-amazon.com/images/I/4116ZRY2bwL._SL400_.jpg)](https://www.amazon.es/dp/B00FM2XP2G/?tag=tolees-21)
 
 🔎:
 

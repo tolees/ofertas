@@ -2,7 +2,7 @@
 layout: post
 title: 'Cuna de Viaje Plegable Star Ibaby Sleep  al 31.22 % de rebaja'
 date: 2020-09-12 18:43:47
-image: 'https://m.media-amazon.com/images/I/41RirvrepwL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41RirvrepwL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '62.958'
 
 Tienes [Cuna de Viaje Plegable Star Ibaby Sleep & Play. Doble Altura + Cambiador + Arco de juegos.](https://www.amazon.es/dp/B01MZ5N4XS/?tag=tolees-21) con precio final de  54.99 EUR (original: 79.95 EUR) (31.22 %  de rebaja) aqui!
 
-[![Cuna de Viaje Plegable Star Ibaby Sleep ](https://m.media-amazon.com/images/I/41RirvrepwL._SL200_.jpg)](https://www.amazon.es/dp/B01MZ5N4XS/?tag=tolees-21)
+[![Cuna de Viaje Plegable Star Ibaby Sleep ](https://m.media-amazon.com/images/I/41RirvrepwL._SL400_.jpg)](https://www.amazon.es/dp/B01MZ5N4XS/?tag=tolees-21)
 
 🔎:
 

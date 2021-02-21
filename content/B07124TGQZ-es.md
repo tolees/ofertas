@@ -2,7 +2,7 @@
 layout: post
 title: 'Grohe Nova Cosmopolitan S Escudo - Placa al 28.81 % de rebaja'
 date: 2020-02-15 18:16:44
-image: 'https://m.media-amazon.com/images/I/312dFIVV+sL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/312dFIVV+sL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '64.56'
 
 Tienes [Grohe Nova Cosmopolitan S Escudo - Placa de descarga](https://www.amazon.es/dp/B07124TGQZ/?tag=tolees-21) con precio final de  72.31 EUR (original: 101.58 EUR) (28.81 %  de rebaja) aqui!
 
-[![Grohe Nova Cosmopolitan S Escudo - Placa](https://m.media-amazon.com/images/I/312dFIVV+sL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07124TGQZ/?tag=tolees-21)
+[![Grohe Nova Cosmopolitan S Escudo - Placa](https://m.media-amazon.com/images/I/312dFIVV+sL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07124TGQZ/?tag=tolees-21)
 
 🔎:
 

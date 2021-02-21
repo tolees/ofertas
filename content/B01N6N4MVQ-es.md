@@ -2,7 +2,7 @@
 layout: post
 title: 'SALEWA Cammino 50 BP Accesorio  Unisex A al 35.72 % de rebaja'
 date: 2020-03-16 08:01:10
-image: 'https://m.media-amazon.com/images/I/41tMei89haL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41tMei89haL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '89.99'
 
 Tienes [SALEWA Cammino 50 BP Accesorio  Unisex Adulto  Azul  Talla Única](https://www.amazon.es/dp/B01N6N4MVQ/?tag=tolees-21) con precio final de  89.99 EUR (original: 140.0 EUR) (35.72 %  de rebaja) aqui!
 
-[![SALEWA Cammino 50 BP Accesorio  Unisex A](https://m.media-amazon.com/images/I/41tMei89haL._SL200_.jpg)](https://www.amazon.es/dp/B01N6N4MVQ/?tag=tolees-21)
+[![SALEWA Cammino 50 BP Accesorio  Unisex A](https://m.media-amazon.com/images/I/41tMei89haL._SL400_.jpg)](https://www.amazon.es/dp/B01N6N4MVQ/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Béaba 913426 - Cuchara de aprendizaje se al 50.00 % de rebaja'
 date: 2020-08-17 18:18:52
-image: 'https://m.media-amazon.com/images/I/31Q5sTQOhkL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Q5sTQOhkL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.25'
 
 Tienes [Béaba 913426 - Cuchara de aprendizaje segunda edad](https://www.amazon.es/dp/B079NBQMHJ/?tag=tolees-21) con precio final de  3.25 EUR (original: 6.5 EUR) (50.00 %  de rebaja) aqui!
 
-[![Béaba 913426 - Cuchara de aprendizaje se](https://m.media-amazon.com/images/I/31Q5sTQOhkL._SL200_.jpg)](https://www.amazon.es/dp/B079NBQMHJ/?tag=tolees-21)
+[![Béaba 913426 - Cuchara de aprendizaje se](https://m.media-amazon.com/images/I/31Q5sTQOhkL._SL400_.jpg)](https://www.amazon.es/dp/B079NBQMHJ/?tag=tolees-21)
 
 🔎:
 

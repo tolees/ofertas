@@ -2,7 +2,7 @@
 layout: post
 title: 'GoPro HERO7 Black - Cámara de acción  su al 29.61 % de descuento'
 date: 2020-02-15 09:45:19
-image: 'https://m.media-amazon.com/images/I/31ngLL445gL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31ngLL445gL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '357.08500000000004'
 
 Ahora mismo tienes [GoPro HERO7 Black - Cámara de acción  sumergible hasta 10 m  pantalla táctil  vídeo 4K HD  fotos de 12 MP  transmisión en directo y estabilizador  negro + Kit de accesorios para cámara  color negro](https://www.amazon.es/dp/B07T42DHNJ/?tag=tolees-21) a 347.0 EUR (original: 492.99 EUR) (29.61 %  de descuento) en el siguiente enlace!
 
-[![GoPro HERO7 Black - Cámara de acción  su](https://m.media-amazon.com/images/I/31ngLL445gL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07T42DHNJ/?tag=tolees-21)
+[![GoPro HERO7 Black - Cámara de acción  su](https://m.media-amazon.com/images/I/31ngLL445gL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07T42DHNJ/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Columbia Camden Outdry Chukka  Botas Cas al 50.03 % de rebaja'
 date: 2020-02-13 21:00:46
-image: 'https://m.media-amazon.com/images/I/41jfmjZ+z+L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41jfmjZ+z+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '69.95'
 
 Tienes [Columbia Camden Outdry Chukka  Botas Casual  Impermeable para Hombre  Negro  Black Grey   45 EU](https://www.amazon.es/dp/B07CW7LY44/?tag=tolees-21) con precio final de  69.95 EUR (original: 139.99 EUR) (50.03 %  de rebaja) aqui!
 
-[![Columbia Camden Outdry Chukka  Botas Cas](https://m.media-amazon.com/images/I/41jfmjZ+z+L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07CW7LY44/?tag=tolees-21)
+[![Columbia Camden Outdry Chukka  Botas Cas](https://m.media-amazon.com/images/I/41jfmjZ+z+L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07CW7LY44/?tag=tolees-21)
 
 🔎:
 

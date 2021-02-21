@@ -2,7 +2,7 @@
 layout: post
 title: 'IMC Toys IMC Toys-96073 Lovely Tresse Tr al 30.96 % de rebaja'
 date: 2020-02-13 14:50:32
-image: 'https://m.media-amazon.com/images/I/616sbtLYV9L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/616sbtLYV9L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.87'
 
 Tienes [IMC Toys IMC Toys-96073 Lovely Tresse Trenza-Decora Pelo  Multicolor  Distribución 96073 ](https://www.amazon.es/dp/B06XWWVGN4/?tag=tolees-21) con precio final de  27.61 EUR (original: 39.99 EUR) (30.96 %  de rebaja) aqui!
 
-[![IMC Toys IMC Toys-96073 Lovely Tresse Tr](https://m.media-amazon.com/images/I/616sbtLYV9L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B06XWWVGN4/?tag=tolees-21)
+[![IMC Toys IMC Toys-96073 Lovely Tresse Tr](https://m.media-amazon.com/images/I/616sbtLYV9L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B06XWWVGN4/?tag=tolees-21)
 
 🔎:
 

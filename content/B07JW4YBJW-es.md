@@ -2,7 +2,7 @@
 layout: post
 title: 'Hackett London Aston Martin Racing Tip C al 58.32 % de rebaja'
 date: 2020-03-15 02:03:04
-image: 'https://m.media-amazon.com/images/I/31rDEOty7BL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31rDEOty7BL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '39.6'
 
 Tienes [Hackett London Aston Martin Racing Tip Cllr Polo  Blanco  White 800   Small para Hombre](https://www.amazon.es/dp/B07JW4YBJW/?tag=tolees-21) con precio final de  39.6 EUR (original: 95.0 EUR) (58.32 %  de rebaja) aqui!
 
-[![Hackett London Aston Martin Racing Tip C](https://m.media-amazon.com/images/I/31rDEOty7BL._SL200_.jpg)](https://www.amazon.es/dp/B07JW4YBJW/?tag=tolees-21)
+[![Hackett London Aston Martin Racing Tip C](https://m.media-amazon.com/images/I/31rDEOty7BL._SL400_.jpg)](https://www.amazon.es/dp/B07JW4YBJW/?tag=tolees-21)
 
 🔎:
 

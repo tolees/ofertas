@@ -2,7 +2,7 @@
 layout: post
 title: 'FLYFLY Artículos de Fiestas para Fanátic al 60.04 % de descuento'
 date: 2020-04-11 08:59:37
-image: 'https://m.media-amazon.com/images/I/51tOWhliyKL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51tOWhliyKL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.99'
 
 Está [FLYFLY Artículos de Fiestas para Fanáticos de los Videojuegos Globo Decoraciones para Cumpleaños de Tema de Videojuegos con Globos Pancartas Adornos para Pasteles](https://www.amazon.es/dp/B084TLRQJ1/?tag=tolees-21) con 60.04 de descuento por 17.99 EUR (original: 45.02 EUR) en el siguiente enlace!
 
-[![FLYFLY Artículos de Fiestas para Fanátic](https://m.media-amazon.com/images/I/51tOWhliyKL._SL200_.jpg)](https://www.amazon.es/dp/B084TLRQJ1/?tag=tolees-21)
+[![FLYFLY Artículos de Fiestas para Fanátic](https://m.media-amazon.com/images/I/51tOWhliyKL._SL400_.jpg)](https://www.amazon.es/dp/B084TLRQJ1/?tag=tolees-21)
 
 ℹ️:
 

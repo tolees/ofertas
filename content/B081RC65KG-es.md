@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 61.24 % en BRIKSMAX Kit de Iluminación Led para Leg'
 date: 2020-03-31 21:13:41
-image: 'https://m.media-amazon.com/images/I/41NjXyCYDEL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41NjXyCYDEL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.99'
 
 Tienes [BRIKSMAX Kit de Iluminación Led para Lego Creator Deportivo de Competición Sunset Compatible con Ladrillos de Construcción Lego Modelo 31089  Juego de Legos no Incluido](https://www.amazon.es/dp/B081RC65KG/?tag=tolees-21) con un 61.24 % de descuento con precio de oferta de 18.99 EUR (original: 48.99 EUR) en el siguiente enlace!
 
-[![BRIKSMAX Kit de Iluminación Led para Leg](https://m.media-amazon.com/images/I/41NjXyCYDEL._SL200_.jpg)](https://www.amazon.es/dp/B081RC65KG/?tag=tolees-21)
+[![BRIKSMAX Kit de Iluminación Led para Leg](https://m.media-amazon.com/images/I/41NjXyCYDEL._SL400_.jpg)](https://www.amazon.es/dp/B081RC65KG/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Universal 69-UN-99 - Boquilla para aspir al 35.14 % de rebaja'
 date: 2020-06-17 07:45:25
-image: 'https://m.media-amazon.com/images/I/413RKamEy4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/413RKamEy4L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.173529411764706'
 
 Tienes [Universal 69-UN-99 - Boquilla para aspiradoras](https://www.amazon.es/dp/B00F0Q4GWW/?tag=tolees-21) con precio final de  9.32 EUR (original: 14.37 EUR) (35.14 %  de rebaja) aqui!
 
-[![Universal 69-UN-99 - Boquilla para aspir](https://m.media-amazon.com/images/I/413RKamEy4L._SL200_.jpg)](https://www.amazon.es/dp/B00F0Q4GWW/?tag=tolees-21)
+[![Universal 69-UN-99 - Boquilla para aspir](https://m.media-amazon.com/images/I/413RKamEy4L._SL400_.jpg)](https://www.amazon.es/dp/B00F0Q4GWW/?tag=tolees-21)
 
 🔎:
 

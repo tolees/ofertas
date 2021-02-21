@@ -2,7 +2,7 @@
 layout: post
 title: 'One Piece: Unlimited World - Red Deluxe  al 47.62 % de descuento'
 date: 2020-10-03 08:49:39
-image: 'https://m.media-amazon.com/images/I/51tfU54dedL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51tfU54dedL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.3675'
 
 Ahora mismo tienes [One Piece: Unlimited World - Red Deluxe Edition  Code In A Box ](https://www.amazon.es/dp/B07SMHFVGV/?tag=tolees-21) a 18.85 EUR (original: 35.99 EUR) (47.62 %  de descuento) en el siguiente enlace!
 
-[![One Piece: Unlimited World - Red Deluxe ](https://m.media-amazon.com/images/I/51tfU54dedL._SL200_.jpg)](https://www.amazon.es/dp/B07SMHFVGV/?tag=tolees-21)
+[![One Piece: Unlimited World - Red Deluxe ](https://m.media-amazon.com/images/I/51tfU54dedL._SL400_.jpg)](https://www.amazon.es/dp/B07SMHFVGV/?tag=tolees-21)
 
 🔎:
 

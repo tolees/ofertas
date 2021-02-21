@@ -2,7 +2,7 @@
 layout: post
 title: 'Lacoste Sideline 319 1 Cfa  Zapatillas p al 70.82 % de rebaja'
 date: 2020-02-01 11:57:44
-image: 'https://m.media-amazon.com/images/I/31I2nkJhXGL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31I2nkJhXGL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '28.18'
 
 Tienes [Lacoste Sideline 319 1 Cfa  Zapatillas para Mujer  Blanco  White/Navy 042   37 EU](https://www.amazon.es/dp/B07L9L9DKD/?tag=tolees-21) con precio final de  25.97 EUR (original: 89.0 EUR) (70.82 %  de rebaja) aqui!
 
-[![Lacoste Sideline 319 1 Cfa  Zapatillas p](https://m.media-amazon.com/images/I/31I2nkJhXGL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07L9L9DKD/?tag=tolees-21)
+[![Lacoste Sideline 319 1 Cfa  Zapatillas p](https://m.media-amazon.com/images/I/31I2nkJhXGL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07L9L9DKD/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Essie Esmalte de Uñas 067 Meet Me At Sun al 59.92 % de rebaja'
 date: 2020-08-06 07:30:32
-image: 'https://m.media-amazon.com/images/I/318+Bv6ItHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/318+Bv6ItHL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.26'
 
 Tienes [Essie Esmalte de Uñas 067 Meet Me At Sunset](https://www.amazon.es/dp/B00B4TMBQM/?tag=tolees-21) con precio final de  4.79 EUR (original: 11.95 EUR) (59.92 %  de rebaja) aqui!
 
-[![Essie Esmalte de Uñas 067 Meet Me At Sun](https://m.media-amazon.com/images/I/318+Bv6ItHL._SL200_.jpg)](https://www.amazon.es/dp/B00B4TMBQM/?tag=tolees-21)
+[![Essie Esmalte de Uñas 067 Meet Me At Sun](https://m.media-amazon.com/images/I/318+Bv6ItHL._SL400_.jpg)](https://www.amazon.es/dp/B00B4TMBQM/?tag=tolees-21)
 
 🔎:
 

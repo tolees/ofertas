@@ -2,7 +2,7 @@
 layout: post
 title: 'P Prettyia Mini Combo De Teclado Y Mouse al 44.45 % de descuento'
 date: 2020-05-17 12:03:12
-image: 'https://m.media-amazon.com/images/I/41C8aMNETNL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41C8aMNETNL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '22.06'
 
 Ahora mismo tienes [P Prettyia Mini Combo De Teclado Y Mouse Inalámbricos Super-Slim 2.4G para Computadora De Escritorio - Negro](https://www.amazon.es/dp/B088C1N2VF/?tag=tolees-21) a 22.06 EUR (original: 39.71 EUR) (44.45 %  de descuento) en el siguiente enlace!
 
-[![P Prettyia Mini Combo De Teclado Y Mouse](https://m.media-amazon.com/images/I/41C8aMNETNL._SL200_.jpg)](https://www.amazon.es/dp/B088C1N2VF/?tag=tolees-21)
+[![P Prettyia Mini Combo De Teclado Y Mouse](https://m.media-amazon.com/images/I/41C8aMNETNL._SL400_.jpg)](https://www.amazon.es/dp/B088C1N2VF/?tag=tolees-21)
 
 🔎:
 

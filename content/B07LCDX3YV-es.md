@@ -2,7 +2,7 @@
 layout: post
 title: 'Lenovo Ideapad 330-15ICH - Ordenador Por con un 39.00 % de descuento'
 date: 2020-08-29 07:27:37
-image: 'https://m.media-amazon.com/images/I/41I+bH3iEgL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41I+bH3iEgL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '625.997'
 
 En este momento está [Lenovo Ideapad 330-15ICH - Ordenador Portátil 15.6" FullHD  Intel Core i5-8300H  8GB de RAM  1TB HDD  Nvidia GTX1050-2GB  Windows10  Negro - Teclado QWERTY Español](https://www.amazon.es/dp/B07LCDX3YV/?tag=tolees-21) a 549.0 EUR (original: 899.99 EUR) (39.00 %  de descuento) en el siguiente enlace!
 
-[![Lenovo Ideapad 330-15ICH - Ordenador Por](https://m.media-amazon.com/images/I/41I+bH3iEgL._SL200_.jpg)](https://www.amazon.es/dp/B07LCDX3YV/?tag=tolees-21)
+[![Lenovo Ideapad 330-15ICH - Ordenador Por](https://m.media-amazon.com/images/I/41I+bH3iEgL._SL400_.jpg)](https://www.amazon.es/dp/B07LCDX3YV/?tag=tolees-21)
 
 🔎:
 

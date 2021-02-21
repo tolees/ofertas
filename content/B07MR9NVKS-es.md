@@ -2,7 +2,7 @@
 layout: post
 title: 'Lee Scarlett Jeans  Azul  Dark Ulrich Iy al 79.51 % de rebaja'
 date: 2020-04-01 07:01:23
-image: 'https://m.media-amazon.com/images/I/317Eh0XHhgL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/317Eh0XHhgL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.48'
 
 Tienes [Lee Scarlett Jeans  Azul  Dark Ulrich Iy   29W / 35L para Mujer](https://www.amazon.es/dp/B07MR9NVKS/?tag=tolees-21) con precio final de  20.48 EUR (original: 99.95 EUR) (79.51 %  de rebaja) aqui!
 
-[![Lee Scarlett Jeans  Azul  Dark Ulrich Iy](https://m.media-amazon.com/images/I/317Eh0XHhgL._SL200_.jpg)](https://www.amazon.es/dp/B07MR9NVKS/?tag=tolees-21)
+[![Lee Scarlett Jeans  Azul  Dark Ulrich Iy](https://m.media-amazon.com/images/I/317Eh0XHhgL._SL400_.jpg)](https://www.amazon.es/dp/B07MR9NVKS/?tag=tolees-21)
 
 🔎:
 

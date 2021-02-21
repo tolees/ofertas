@@ -2,7 +2,7 @@
 layout: post
 title: 'Himaly Cortapelos Profesional Hombre Ele con un 57.83 % de descuento'
 date: 2020-01-14 17:06:48
-image: 'https://images-eu.ssl-images-amazon.com/images/I/313-KZoikdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/313-KZoikdL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.74'
 
 En este momento está [Himaly Cortapelos Profesional Hombre Electrónico Corte Pelo Profesional Máquina Cortar Pelo Recortador de Barba Cortadora de Pelo USB Recargable](https://www.amazon.es/dp/B07H3LLNGC/?tag=tolees-21) a 13.49 EUR (original: 31.99 EUR) (57.83 %  de descuento) en el siguiente enlace!
 
-[![Himaly Cortapelos Profesional Hombre Ele](https://images-eu.ssl-images-amazon.com/images/I/313-KZoikdL._SL200_.jpg)](https://www.amazon.es/dp/B07H3LLNGC/?tag=tolees-21)
+[![Himaly Cortapelos Profesional Hombre Ele](https://images-eu.ssl-images-amazon.com/images/I/313-KZoikdL._SL400_.jpg)](https://www.amazon.es/dp/B07H3LLNGC/?tag=tolees-21)
 
 🔎:
 

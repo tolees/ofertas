@@ -2,7 +2,7 @@
 layout: post
 title: 'Deltadore 217 Termostato con un 35.00 % de descuento'
 date: 2020-03-28 18:32:13
-image: 'https://m.media-amazon.com/images/I/41G-wuhKhbL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41G-wuhKhbL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '90.45'
 
 En este momento está [Deltadore 217 Termostato](https://www.amazon.es/dp/B00I46YF8A/?tag=tolees-21) a 90.45 EUR (original: 139.15 EUR) (35.00 %  de descuento) en el siguiente enlace!
 
-[![Deltadore 217 Termostato](https://m.media-amazon.com/images/I/41G-wuhKhbL._SL200_.jpg)](https://www.amazon.es/dp/B00I46YF8A/?tag=tolees-21)
+[![Deltadore 217 Termostato](https://m.media-amazon.com/images/I/41G-wuhKhbL._SL400_.jpg)](https://www.amazon.es/dp/B00I46YF8A/?tag=tolees-21)
 
 🔎:
 

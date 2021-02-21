@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger Medium Drawstring Bañador al 28.23 % de rebaja'
 date: 2020-05-22 16:51:47
-image: 'https://m.media-amazon.com/images/I/41oxGaLYtFL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41oxGaLYtFL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '40.19'
 
 Tienes [Tommy Hilfiger Medium Drawstring Bañador de natación  Rosa  Phlox Pink 658   L para Hombre](https://www.amazon.es/dp/B07LBW19XN/?tag=tolees-21) con precio final de  40.19 EUR (original: 56.0 EUR) (28.23 %  de rebaja) aqui!
 
-[![Tommy Hilfiger Medium Drawstring Bañador](https://m.media-amazon.com/images/I/41oxGaLYtFL._SL200_.jpg)](https://www.amazon.es/dp/B07LBW19XN/?tag=tolees-21)
+[![Tommy Hilfiger Medium Drawstring Bañador](https://m.media-amazon.com/images/I/41oxGaLYtFL._SL400_.jpg)](https://www.amazon.es/dp/B07LBW19XN/?tag=tolees-21)
 
 🔎:
 

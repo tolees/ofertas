@@ -2,7 +2,7 @@
 layout: post
 title: 'WOSTOO Purpurinas Polvo Chunky Glitter P al 43.21 % de rebaja'
 date: 2020-01-29 08:09:45
-image: 'https://m.media-amazon.com/images/I/61pO71YaiWL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61pO71YaiWL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.99'
 
 Tienes [WOSTOO Purpurinas Polvo Chunky Glitter Purpurina para el Rostro  Cara y Cuerpo Maquillaje Glitter Paillette Brillante Decoración para Pelo  Uñas y Mejilla -10 Cajas](https://www.amazon.es/dp/B07HKCXM9S/?tag=tolees-21) con precio final de  9.99 EUR (original: 17.59 EUR) (43.21 %  de rebaja) aqui!
 
-[![WOSTOO Purpurinas Polvo Chunky Glitter P](https://m.media-amazon.com/images/I/61pO71YaiWL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07HKCXM9S/?tag=tolees-21)
+[![WOSTOO Purpurinas Polvo Chunky Glitter P](https://m.media-amazon.com/images/I/61pO71YaiWL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07HKCXM9S/?tag=tolees-21)
 
 🔎:
 

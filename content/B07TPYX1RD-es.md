@@ -2,7 +2,7 @@
 layout: post
 title: 'TUBBZ Oficial Borderlands 3 Mercancías P al 60.31 % de descuento'
 date: 2020-09-21 17:45:18
-image: 'https://m.media-amazon.com/images/I/41beX1KDeqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41beX1KDeqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.933333333333334'
 
 Está [TUBBZ Oficial Borderlands 3 Mercancías Pato psico Carácter Figurita](https://www.amazon.es/dp/B07TPYX1RD/?tag=tolees-21) con 60.31 de descuento por 5.95 EUR (original: 14.99 EUR) en el siguiente enlace!
 
-[![TUBBZ Oficial Borderlands 3 Mercancías P](https://m.media-amazon.com/images/I/41beX1KDeqL._SL200_.jpg)](https://www.amazon.es/dp/B07TPYX1RD/?tag=tolees-21)
+[![TUBBZ Oficial Borderlands 3 Mercancías P](https://m.media-amazon.com/images/I/41beX1KDeqL._SL400_.jpg)](https://www.amazon.es/dp/B07TPYX1RD/?tag=tolees-21)
 
 ℹ️:
 

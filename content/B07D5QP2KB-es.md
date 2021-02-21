@@ -2,7 +2,7 @@
 layout: post
 title: 'PUMA Essentials Logo W Legging Deportivo al 29.90 % de descuento'
 date: 2020-06-08 15:01:31
-image: 'https://m.media-amazon.com/images/I/31AnDjO8IwL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31AnDjO8IwL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.309999999999999'
 
 Ahora mismo tienes [PUMA Essentials Logo W Legging Deportivo de Talle Alto  Mujer  Negro  Cotton Black   L](https://www.amazon.es/dp/B07D5QP2KB/?tag=tolees-21) a 17.49 EUR (original: 24.95 EUR) (29.90 %  de descuento) en el siguiente enlace!
 
-[![PUMA Essentials Logo W Legging Deportivo](https://m.media-amazon.com/images/I/31AnDjO8IwL._SL200_.jpg)](https://www.amazon.es/dp/B07D5QP2KB/?tag=tolees-21)
+[![PUMA Essentials Logo W Legging Deportivo](https://m.media-amazon.com/images/I/31AnDjO8IwL._SL400_.jpg)](https://www.amazon.es/dp/B07D5QP2KB/?tag=tolees-21)
 
 🔎:
 

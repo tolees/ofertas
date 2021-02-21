@@ -2,7 +2,7 @@
 layout: post
 title: 'Lacoste Chaymon 120 4 CMA  Zapatillas pa al 37.62 % de descuento'
 date: 2020-08-16 04:14:57
-image: 'https://m.media-amazon.com/images/I/318VZVDsdAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/318VZVDsdAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '67.99'
 
 Está [Lacoste Chaymon 120 4 CMA  Zapatillas para Hombre  Azul Marino  42 EU](https://www.amazon.es/dp/B07SPXS1QJ/?tag=tolees-21) con 37.62 de descuento por 67.99 EUR (original: 109.0 EUR) en el siguiente enlace!
 
-[![Lacoste Chaymon 120 4 CMA  Zapatillas pa](https://m.media-amazon.com/images/I/318VZVDsdAL._SL200_.jpg)](https://www.amazon.es/dp/B07SPXS1QJ/?tag=tolees-21)
+[![Lacoste Chaymon 120 4 CMA  Zapatillas pa](https://m.media-amazon.com/images/I/318VZVDsdAL._SL400_.jpg)](https://www.amazon.es/dp/B07SPXS1QJ/?tag=tolees-21)
 
 ℹ️:
 

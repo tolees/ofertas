@@ -2,7 +2,7 @@
 layout: post
 title: 'Ty Beanie Boos Twiggy-Búho Rosa 15 cm  3 al 64.98 % de rebaja'
 date: 2020-01-13 11:56:14
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41hD2fBEzGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41hD2fBEzGL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.6'
 
 Tienes [Ty Beanie Boos Twiggy-Búho Rosa 15 cm  37158TY   Color United Labels Ibérica](https://www.amazon.es/dp/B071W29TRB/?tag=tolees-21) con precio final de  5.6 EUR (original: 15.99 EUR) (64.98 %  de rebaja) aqui!
 
-[![Ty Beanie Boos Twiggy-Búho Rosa 15 cm  3](https://images-eu.ssl-images-amazon.com/images/I/41hD2fBEzGL._SL200_.jpg)](https://www.amazon.es/dp/B071W29TRB/?tag=tolees-21)
+[![Ty Beanie Boos Twiggy-Búho Rosa 15 cm  3](https://images-eu.ssl-images-amazon.com/images/I/41hD2fBEzGL._SL400_.jpg)](https://www.amazon.es/dp/B071W29TRB/?tag=tolees-21)
 
 🔎:
 

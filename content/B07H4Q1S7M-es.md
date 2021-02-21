@@ -2,7 +2,7 @@
 layout: post
 title: 'Teccpo - Herramienta multifunción  170 W al 47.19 % de descuento'
 date: 2020-07-23 20:24:14
-image: 'https://m.media-amazon.com/images/I/51SNbi1ywrL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51SNbi1ywrL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '28.395'
 
 Ahora mismo tienes [Teccpo - Herramienta multifunción  170 W  mini herramienta giratoria con 80 accesorios  portabrocas automático  eje flexible  mini Drill con velocidad variable  ideal para manualidades](https://www.amazon.es/dp/B07H4Q1S7M/?tag=tolees-21) a 28.46 EUR (original: 53.89 EUR) (47.19 %  de descuento) en el siguiente enlace!
 
-[![Teccpo - Herramienta multifunción  170 W](https://m.media-amazon.com/images/I/51SNbi1ywrL._SL200_.jpg)](https://www.amazon.es/dp/B07H4Q1S7M/?tag=tolees-21)
+[![Teccpo - Herramienta multifunción  170 W](https://m.media-amazon.com/images/I/51SNbi1ywrL._SL400_.jpg)](https://www.amazon.es/dp/B07H4Q1S7M/?tag=tolees-21)
 
 🔎:
 

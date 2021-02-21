@@ -2,7 +2,7 @@
 layout: post
 title: 'FIND - Sunkissed radiance duo - medio  B al 50.30 % de rebaja'
 date: 2020-02-05 15:43:44
-image: 'https://m.media-amazon.com/images/I/31pK7wXpAUL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31pK7wXpAUL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.16'
 
 Tienes [FIND - Sunkissed radiance duo - medio  Bronceador n.2 + Colorete n.2 ](https://www.amazon.es/dp/B07CTRNRD4/?tag=tolees-21) con precio final de  4.16 EUR (original: 8.37 EUR) (50.30 %  de rebaja) aqui!
 
-[![FIND - Sunkissed radiance duo - medio  B](https://m.media-amazon.com/images/I/31pK7wXpAUL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07CTRNRD4/?tag=tolees-21)
+[![FIND - Sunkissed radiance duo - medio  B](https://m.media-amazon.com/images/I/31pK7wXpAUL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07CTRNRD4/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Funko Capitan Marvel Pop talos  Multicol con un 30.56 % de descuento'
 date: 2020-03-06 10:17:47
-image: 'https://m.media-amazon.com/images/I/41Ym2sLCNGL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Ym2sLCNGL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.8100000000000005'
 
 En este momento está [Funko Capitan Marvel Pop talos  Multicolor  36378 ](https://www.amazon.es/dp/B07HB8HFR8/?tag=tolees-21) a 5.5 EUR (original: 7.92 EUR) (30.56 %  de descuento) en el siguiente enlace!
 
-[![Funko Capitan Marvel Pop talos  Multicol](https://m.media-amazon.com/images/I/41Ym2sLCNGL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07HB8HFR8/?tag=tolees-21)
+[![Funko Capitan Marvel Pop talos  Multicol](https://m.media-amazon.com/images/I/41Ym2sLCNGL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07HB8HFR8/?tag=tolees-21)
 
 🔎:
 

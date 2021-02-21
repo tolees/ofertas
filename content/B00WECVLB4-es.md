@@ -2,7 +2,7 @@
 layout: post
 title: 'Orbegozo PW 1019 Mini ventilador USB de  al 30.38 % de rebaja'
 date: 2020-07-31 08:21:50
-image: 'https://m.media-amazon.com/images/I/51EjiSnJq0L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51EjiSnJq0L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.9'
 
 Tienes [Orbegozo PW 1019 Mini ventilador USB de sobremesa  4 W  Plata](https://www.amazon.es/dp/B00WECVLB4/?tag=tolees-21) con precio final de  9.9 EUR (original: 14.22 EUR) (30.38 %  de rebaja) aqui!
 
-[![Orbegozo PW 1019 Mini ventilador USB de ](https://m.media-amazon.com/images/I/51EjiSnJq0L._SL200_.jpg)](https://www.amazon.es/dp/B00WECVLB4/?tag=tolees-21)
+[![Orbegozo PW 1019 Mini ventilador USB de ](https://m.media-amazon.com/images/I/51EjiSnJq0L._SL400_.jpg)](https://www.amazon.es/dp/B00WECVLB4/?tag=tolees-21)
 
 🔎:
 

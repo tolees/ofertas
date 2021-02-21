@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 30.25 % en Panasonic ER-1411 - Cortapelos profesion'
 date: 2020-05-20 12:13:08
-image: 'https://m.media-amazon.com/images/I/31UtmoF+H4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31UtmoF+H4L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '58.79333333333333'
 
 Tienes [Panasonic ER-1411 - Cortapelos profesional  Versión Importada ](https://www.amazon.es/dp/B00380XNZS/?tag=tolees-21) con un 30.25 % de descuento con precio de oferta de 64.0 EUR (original: 91.75 EUR) en el siguiente enlace!
 
-[![Panasonic ER-1411 - Cortapelos profesion](https://m.media-amazon.com/images/I/31UtmoF+H4L._SL200_.jpg)](https://www.amazon.es/dp/B00380XNZS/?tag=tolees-21)
+[![Panasonic ER-1411 - Cortapelos profesion](https://m.media-amazon.com/images/I/31UtmoF+H4L._SL400_.jpg)](https://www.amazon.es/dp/B00380XNZS/?tag=tolees-21)
 
 ℹ️:
 

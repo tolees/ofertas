@@ -2,7 +2,7 @@
 layout: post
 title: 'SanDisk Memoria Flash USB Ultra de 32 GB con un 39.83 % de descuento'
 date: 2020-08-24 08:35:31
-image: 'https://m.media-amazon.com/images/I/315rFOEnJuL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/315rFOEnJuL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.19'
 
 En este momento está [SanDisk Memoria Flash USB Ultra de 32 GB con USB 3.0 y hasta 100 MB/s de Lectura - Paquete de 2 Unidades Rojo y Azul](https://www.amazon.es/dp/B07S3PCHZP/?tag=tolees-21) a 13.99 EUR (original: 23.25 EUR) (39.83 %  de descuento) en el siguiente enlace!
 
-[![SanDisk Memoria Flash USB Ultra de 32 GB](https://m.media-amazon.com/images/I/315rFOEnJuL._SL200_.jpg)](https://www.amazon.es/dp/B07S3PCHZP/?tag=tolees-21)
+[![SanDisk Memoria Flash USB Ultra de 32 GB](https://m.media-amazon.com/images/I/315rFOEnJuL._SL400_.jpg)](https://www.amazon.es/dp/B07S3PCHZP/?tag=tolees-21)
 
 🔎:
 

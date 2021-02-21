@@ -2,7 +2,7 @@
 layout: post
 title: 'Pikolin Leah  colchón viscoelástico y es al 40.10 % de descuento'
 date: 2020-03-04 18:42:33
-image: 'https://m.media-amazon.com/images/I/41D2T-pgNOL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41D2T-pgNOL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '239.0'
 
 Ahora mismo tienes [Pikolin Leah  colchón viscoelástico y espuma HR gama alta  90x190  firmeza alta  confort visco  calidad máxima  protección higiénica total](https://www.amazon.es/dp/B07YDV2D7S/?tag=tolees-21) a 239.0 EUR (original: 399.0 EUR) (40.10 %  de descuento) en el siguiente enlace!
 
-[![Pikolin Leah  colchón viscoelástico y es](https://m.media-amazon.com/images/I/41D2T-pgNOL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07YDV2D7S/?tag=tolees-21)
+[![Pikolin Leah  colchón viscoelástico y es](https://m.media-amazon.com/images/I/41D2T-pgNOL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07YDV2D7S/?tag=tolees-21)
 
 🔎:
 

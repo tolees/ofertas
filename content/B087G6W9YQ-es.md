@@ -2,7 +2,7 @@
 layout: post
 title: 'Fifet Papel Mano de Scrapbooking Herrami al 44.15 % de rebaja'
 date: 2020-05-21 11:46:31
-image: 'https://m.media-amazon.com/images/I/31KYeulnjjL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31KYeulnjjL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.39'
 
 Tienes [Fifet Papel Mano de Scrapbooking Herramienta de Papel relevadoras x 2  para la Carpeta Plegable](https://www.amazon.es/dp/B087G6W9YQ/?tag=tolees-21) con precio final de  3.39 EUR (original: 6.07 EUR) (44.15 %  de rebaja) aqui!
 
-[![Fifet Papel Mano de Scrapbooking Herrami](https://m.media-amazon.com/images/I/31KYeulnjjL._SL200_.jpg)](https://www.amazon.es/dp/B087G6W9YQ/?tag=tolees-21)
+[![Fifet Papel Mano de Scrapbooking Herrami](https://m.media-amazon.com/images/I/31KYeulnjjL._SL400_.jpg)](https://www.amazon.es/dp/B087G6W9YQ/?tag=tolees-21)
 
 🔎:
 

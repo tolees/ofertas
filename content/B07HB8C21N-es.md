@@ -2,7 +2,7 @@
 layout: post
 title: 'Funko 36341 Bobble Capitán Marvel: POP 1 al 31.72 % de descuento'
 date: 2020-04-14 00:09:48
-image: 'https://m.media-amazon.com/images/I/511dx4Z0XoL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/511dx4Z0XoL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.290833333333332'
 
 Está [Funko 36341 Bobble Capitán Marvel: POP 1  Multi color [Los estilos pueden variar]](https://www.amazon.es/dp/B07HB8C21N/?tag=tolees-21) con 31.72 de descuento por 10.89 EUR (original: 15.95 EUR) en el siguiente enlace!
 
-[![Funko 36341 Bobble Capitán Marvel: POP 1](https://m.media-amazon.com/images/I/511dx4Z0XoL._SL200_.jpg)](https://www.amazon.es/dp/B07HB8C21N/?tag=tolees-21)
+[![Funko 36341 Bobble Capitán Marvel: POP 1](https://m.media-amazon.com/images/I/511dx4Z0XoL._SL400_.jpg)](https://www.amazon.es/dp/B07HB8C21N/?tag=tolees-21)
 
 ℹ️:
 

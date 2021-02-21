@@ -2,7 +2,7 @@
 layout: post
 title: 'Vibram Fivefingers KSO EVO  Zapatillas d al 25.27 % de rebaja'
 date: 2020-08-24 17:46:30
-image: 'https://m.media-amazon.com/images/I/41Kz1s3CAgL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Kz1s3CAgL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '70.99'
 
 Tienes [Vibram Fivefingers KSO EVO  Zapatillas de Deporte para Hombre  Negro  Black/Red Black/Red   43 EU](https://www.amazon.es/dp/B071X8XQH9/?tag=tolees-21) con precio final de  70.99 EUR (original: 95.0 EUR) (25.27 %  de rebaja) aqui!
 
-[![Vibram Fivefingers KSO EVO  Zapatillas d](https://m.media-amazon.com/images/I/41Kz1s3CAgL._SL200_.jpg)](https://www.amazon.es/dp/B071X8XQH9/?tag=tolees-21)
+[![Vibram Fivefingers KSO EVO  Zapatillas d](https://m.media-amazon.com/images/I/41Kz1s3CAgL._SL400_.jpg)](https://www.amazon.es/dp/B071X8XQH9/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Mousehouse Gifts Juguete de Madera con F al 27.79 % de rebaja'
 date: 2020-04-15 00:33:41
-image: 'https://m.media-amazon.com/images/I/41IGlqAu1pL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41IGlqAu1pL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.99'
 
 Tienes [Mousehouse Gifts Juguete de Madera con Figuras de Animales saltadores y Martillo para niños y niñas](https://www.amazon.es/dp/B00NOQ5SA4/?tag=tolees-21) con precio final de  12.99 EUR (original: 17.99 EUR) (27.79 %  de rebaja) aqui!
 
-[![Mousehouse Gifts Juguete de Madera con F](https://m.media-amazon.com/images/I/41IGlqAu1pL._SL200_.jpg)](https://www.amazon.es/dp/B00NOQ5SA4/?tag=tolees-21)
+[![Mousehouse Gifts Juguete de Madera con F](https://m.media-amazon.com/images/I/41IGlqAu1pL._SL400_.jpg)](https://www.amazon.es/dp/B00NOQ5SA4/?tag=tolees-21)
 
 🔎:
 

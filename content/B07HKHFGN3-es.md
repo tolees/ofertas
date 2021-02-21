@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour UA W Charged Escape 3  Zapa con un 71.54 % de descuento'
 date: 2020-02-26 07:29:42
-image: 'https://m.media-amazon.com/images/I/417jVbSB-sL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/417jVbSB-sL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '26.285'
 
 En este momento está [Under Armour UA W Charged Escape 3  Zapatillas de Running para Mujer  Negro  Black/Black/Black  002  002   44.5 EU](https://www.amazon.es/dp/B07HKHFGN3/?tag=tolees-21) a 25.61 EUR (original: 90.0 EUR) (71.54 %  de descuento) en el siguiente enlace!
 
-[![Under Armour UA W Charged Escape 3  Zapa](https://m.media-amazon.com/images/I/417jVbSB-sL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07HKHFGN3/?tag=tolees-21)
+[![Under Armour UA W Charged Escape 3  Zapa](https://m.media-amazon.com/images/I/417jVbSB-sL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07HKHFGN3/?tag=tolees-21)
 
 🔎:
 

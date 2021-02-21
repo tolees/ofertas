@@ -2,7 +2,7 @@
 layout: post
 title: 'Sesderma Repaskin Fotoprotector Solar- 5 con un 50.10 % de descuento'
 date: 2020-03-28 10:51:25
-image: 'https://m.media-amazon.com/images/I/41kIekX-BML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41kIekX-BML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.45'
 
 En este momento está [Sesderma Repaskin Fotoprotector Solar- 50 ML](https://www.amazon.es/dp/B00NGK8VCA/?tag=tolees-21) a 12.45 EUR (original: 24.95 EUR) (50.10 %  de descuento) en el siguiente enlace!
 
-[![Sesderma Repaskin Fotoprotector Solar- 5](https://m.media-amazon.com/images/I/41kIekX-BML._SL200_.jpg)](https://www.amazon.es/dp/B00NGK8VCA/?tag=tolees-21)
+[![Sesderma Repaskin Fotoprotector Solar- 5](https://m.media-amazon.com/images/I/41kIekX-BML._SL400_.jpg)](https://www.amazon.es/dp/B00NGK8VCA/?tag=tolees-21)
 
 🔎:
 

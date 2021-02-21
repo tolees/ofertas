@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 40.10 % en PUMA ICRA Trainer SD Jr  Zapatillas Unis'
 date: 2020-01-21 07:21:51
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41NxxaiJi1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41NxxaiJi1L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.93'
 
 Tienes [PUMA ICRA Trainer SD Jr  Zapatillas Unisex Niños  Peacoat-Gray Violet-Nrgy Yellow White  36 EU](https://www.amazon.es/dp/B07KG6MPR5/?tag=tolees-21) con un 40.10 % de descuento con precio de oferta de 23.93 EUR (original: 39.95 EUR) en el siguiente enlace!
 
-[![PUMA ICRA Trainer SD Jr  Zapatillas Unis](https://images-eu.ssl-images-amazon.com/images/I/41NxxaiJi1L._SL200_.jpg)](https://www.amazon.es/dp/B07KG6MPR5/?tag=tolees-21)
+[![PUMA ICRA Trainer SD Jr  Zapatillas Unis](https://images-eu.ssl-images-amazon.com/images/I/41NxxaiJi1L._SL400_.jpg)](https://www.amazon.es/dp/B07KG6MPR5/?tag=tolees-21)
 
 ℹ️:
 

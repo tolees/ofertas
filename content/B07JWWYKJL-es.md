@@ -2,7 +2,7 @@
 layout: post
 title: 'Columbia Ivo Trail  Zapatillas para Homb al 32.01 % de descuento'
 date: 2020-01-25 19:42:46
-image: 'https://m.media-amazon.com/images/I/41XDlDnFGzL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41XDlDnFGzL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '67.98'
 
 Ahora mismo tienes [Columbia Ivo Trail  Zapatillas para Hombre  Verde  Peatmoss  Rich 213   41 EU](https://www.amazon.es/dp/B07JWWYKJL/?tag=tolees-21) a 67.98 EUR (original: 99.99 EUR) (32.01 %  de descuento) en el siguiente enlace!
 
-[![Columbia Ivo Trail  Zapatillas para Homb](https://m.media-amazon.com/images/I/41XDlDnFGzL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07JWWYKJL/?tag=tolees-21)
+[![Columbia Ivo Trail  Zapatillas para Homb](https://m.media-amazon.com/images/I/41XDlDnFGzL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07JWWYKJL/?tag=tolees-21)
 
 🔎:
 

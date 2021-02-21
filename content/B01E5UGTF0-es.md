@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 34.99 % en Lacoste Sport Carnaby EVO BL 1 SPW  Zapa'
 date: 2020-03-11 09:13:40
-image: 'https://m.media-amazon.com/images/I/31VBS8qfdTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31VBS8qfdTL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '64.98'
 
 Tienes [Lacoste Sport Carnaby EVO BL 1 SPW  Zapatillas para Mujer  Blanco  Wht   41 EU](https://www.amazon.es/dp/B01E5UGTF0/?tag=tolees-21) con un 34.99 % de descuento con precio de oferta de 64.98 EUR (original: 99.95 EUR) en el siguiente enlace!
 
-[![Lacoste Sport Carnaby EVO BL 1 SPW  Zapa](https://m.media-amazon.com/images/I/31VBS8qfdTL._SL200_.jpg)](https://www.amazon.es/dp/B01E5UGTF0/?tag=tolees-21)
+[![Lacoste Sport Carnaby EVO BL 1 SPW  Zapa](https://m.media-amazon.com/images/I/31VBS8qfdTL._SL400_.jpg)](https://www.amazon.es/dp/B01E5UGTF0/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Oral-B Genius 10000N - Cepillo Eléctrico al 63.58 % de descuento'
 date: 2020-01-23 15:18:09
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51dunS7et8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51dunS7et8L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '111.61666666666667'
 
 Ahora mismo tienes [Oral-B Genius 10000N - Cepillo Eléctrico Recargable con Tecnología de Braun  1 Mango Azul Orquídea Conectado con Inteligencia Artificial  2 Cabezales de Recambio y 1 Estuche de Viaje Smart](https://www.amazon.es/dp/B07RQ7CBFD/?tag=tolees-21) a 109.24 EUR (original: 299.95 EUR) (63.58 %  de descuento) en el siguiente enlace!
 
-[![Oral-B Genius 10000N - Cepillo Eléctrico](https://images-eu.ssl-images-amazon.com/images/I/51dunS7et8L._SL200_.jpg)](https://www.amazon.es/dp/B07RQ7CBFD/?tag=tolees-21)
+[![Oral-B Genius 10000N - Cepillo Eléctrico](https://images-eu.ssl-images-amazon.com/images/I/51dunS7et8L._SL400_.jpg)](https://www.amazon.es/dp/B07RQ7CBFD/?tag=tolees-21)
 
 🔎:
 

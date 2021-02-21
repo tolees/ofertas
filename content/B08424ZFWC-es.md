@@ -2,7 +2,7 @@
 layout: post
 title: 'Mini Adaptador USB CSR Dual Mode Wireles al 90.00 % de rebaja'
 date: 2020-03-26 09:53:31
-image: 'https://m.media-amazon.com/images/I/31EXAVymaqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31EXAVymaqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '0.01'
 
 Tienes [Mini Adaptador USB CSR Dual Mode Wireless V4.0 EDR Dongle Transmisor USB para Windows 7 8 10 PC portátil - Negro](https://www.amazon.es/dp/B08424ZFWC/?tag=tolees-21) con precio final de  0.01 EUR (original: 0.1 EUR) (90.00 %  de rebaja) aqui!
 
-[![Mini Adaptador USB CSR Dual Mode Wireles](https://m.media-amazon.com/images/I/31EXAVymaqL._SL200_.jpg)](https://www.amazon.es/dp/B08424ZFWC/?tag=tolees-21)
+[![Mini Adaptador USB CSR Dual Mode Wireles](https://m.media-amazon.com/images/I/31EXAVymaqL._SL400_.jpg)](https://www.amazon.es/dp/B08424ZFWC/?tag=tolees-21)
 
 🔎:
 

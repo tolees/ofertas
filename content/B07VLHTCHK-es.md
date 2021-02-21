@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger Tommy Regular Polo  Faded al 26.67 % de descuento'
 date: 2020-04-12 18:08:25
-image: 'https://m.media-amazon.com/images/I/41W-if3x3GL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41W-if3x3GL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '48.0'
 
 Ahora mismo tienes [Tommy Hilfiger Tommy Regular Polo  Faded Indigo  Medium para Hombre](https://www.amazon.es/dp/B07VLHTCHK/?tag=tolees-21) a 48.0 EUR (original: 65.46 EUR) (26.67 %  de descuento) en el siguiente enlace!
 
-[![Tommy Hilfiger Tommy Regular Polo  Faded](https://m.media-amazon.com/images/I/41W-if3x3GL._SL200_.jpg)](https://www.amazon.es/dp/B07VLHTCHK/?tag=tolees-21)
+[![Tommy Hilfiger Tommy Regular Polo  Faded](https://m.media-amazon.com/images/I/41W-if3x3GL._SL400_.jpg)](https://www.amazon.es/dp/B07VLHTCHK/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Aussie Tratamiento Intensivo 3 Minute Mi con un 55.29 % de descuento'
 date: 2020-06-06 21:50:31
-image: 'https://m.media-amazon.com/images/I/41jFaxxHplL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41jFaxxHplL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.89'
 
 En este momento está [Aussie Tratamiento Intensivo 3 Minute Miracle Hydration - 250 ml](https://www.amazon.es/dp/B07GYMH3QH/?tag=tolees-21) a 3.89 EUR (original: 8.7 EUR) (55.29 %  de descuento) en el siguiente enlace!
 
-[![Aussie Tratamiento Intensivo 3 Minute Mi](https://m.media-amazon.com/images/I/41jFaxxHplL._SL200_.jpg)](https://www.amazon.es/dp/B07GYMH3QH/?tag=tolees-21)
+[![Aussie Tratamiento Intensivo 3 Minute Mi](https://m.media-amazon.com/images/I/41jFaxxHplL._SL400_.jpg)](https://www.amazon.es/dp/B07GYMH3QH/?tag=tolees-21)
 
 🔎:
 

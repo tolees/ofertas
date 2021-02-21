@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger Bralette Sujetador Deport al 39.83 % de descuento'
 date: 2020-04-21 10:03:22
-image: 'https://m.media-amazon.com/images/I/415+eGbu68L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/415+eGbu68L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.99'
 
 Ahora mismo tienes [Tommy Hilfiger Bralette Sujetador Deportivo  Negro  BLACK 990   38  talla del fabricante: LG  para Mujer](https://www.amazon.es/dp/B00UT2NRDG/?tag=tolees-21) a 17.99 EUR (original: 29.9 EUR) (39.83 %  de descuento) en el siguiente enlace!
 
-[![Tommy Hilfiger Bralette Sujetador Deport](https://m.media-amazon.com/images/I/415+eGbu68L._SL200_.jpg)](https://www.amazon.es/dp/B00UT2NRDG/?tag=tolees-21)
+[![Tommy Hilfiger Bralette Sujetador Deport](https://m.media-amazon.com/images/I/415+eGbu68L._SL400_.jpg)](https://www.amazon.es/dp/B00UT2NRDG/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Otterbox Symmetry - Funda Anti caídas Fi al 40.04 % de descuento'
 date: 2020-09-21 13:07:26
-image: 'https://m.media-amazon.com/images/I/41XIt90w-EL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41XIt90w-EL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.98'
 
 Ahora mismo tienes [Otterbox Symmetry - Funda Anti caídas Fina y Elegante para Samsung Galaxy S9+  Color Negro](https://www.amazon.es/dp/B079FPN7H7/?tag=tolees-21) a 23.98 EUR (original: 39.99 EUR) (40.04 %  de descuento) en el siguiente enlace!
 
-[![Otterbox Symmetry - Funda Anti caídas Fi](https://m.media-amazon.com/images/I/41XIt90w-EL._SL200_.jpg)](https://www.amazon.es/dp/B079FPN7H7/?tag=tolees-21)
+[![Otterbox Symmetry - Funda Anti caídas Fi](https://m.media-amazon.com/images/I/41XIt90w-EL._SL400_.jpg)](https://www.amazon.es/dp/B079FPN7H7/?tag=tolees-21)
 
 🔎:
 

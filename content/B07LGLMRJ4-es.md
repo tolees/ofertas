@@ -2,7 +2,7 @@
 layout: post
 title: 'Evax Fina y Segura Super/Maxi Compresas  al 42.86 % de rebaja'
 date: 2020-05-13 23:19:48
-image: 'https://m.media-amazon.com/images/I/51oi+yLksbL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51oi+yLksbL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.1183333333333332'
 
 Tienes [Evax Fina y Segura Super/Maxi Compresas Con Alas - 11 Unidades](https://www.amazon.es/dp/B07LGLMRJ4/?tag=tolees-21) con precio final de  1.0 EUR (original: 1.75 EUR) (42.86 %  de rebaja) aqui!
 
-[![Evax Fina y Segura Super/Maxi Compresas ](https://m.media-amazon.com/images/I/51oi+yLksbL._SL200_.jpg)](https://www.amazon.es/dp/B07LGLMRJ4/?tag=tolees-21)
+[![Evax Fina y Segura Super/Maxi Compresas ](https://m.media-amazon.com/images/I/51oi+yLksbL._SL400_.jpg)](https://www.amazon.es/dp/B07LGLMRJ4/?tag=tolees-21)
 
 🔎:
 

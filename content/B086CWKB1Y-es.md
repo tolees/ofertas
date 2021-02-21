@@ -2,7 +2,7 @@
 layout: post
 title: 'WaYiNg #B006 - Hombre Short Sleeve Motog al 40.64 % de descuento'
 date: 2020-04-14 16:56:56
-image: 'https://m.media-amazon.com/images/I/51LN7JZAMQL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51LN7JZAMQL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.99'
 
 Está [WaYiNg #B006 - Hombre Short Sleeve Motogp Vr46 The Doctor Rossi T-Shirt Cool Funny Gift Present Rucio Medium](https://www.amazon.es/dp/B086CWKB1Y/?tag=tolees-21) con 40.64 de descuento por 18.99 EUR (original: 31.99 EUR) en el siguiente enlace!
 
-[![WaYiNg #B006 - Hombre Short Sleeve Motog](https://m.media-amazon.com/images/I/51LN7JZAMQL._SL200_.jpg)](https://www.amazon.es/dp/B086CWKB1Y/?tag=tolees-21)
+[![WaYiNg #B006 - Hombre Short Sleeve Motog](https://m.media-amazon.com/images/I/51LN7JZAMQL._SL400_.jpg)](https://www.amazon.es/dp/B086CWKB1Y/?tag=tolees-21)
 
 ℹ️:
 

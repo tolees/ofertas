@@ -2,7 +2,7 @@
 layout: post
 title: 'Piscina Ultra Frame al 30.98 % de rebaja'
 date: 2020-06-15 10:46:28
-image: 'https://m.media-amazon.com/images/I/61KvHhPgR-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61KvHhPgR-L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '470.0'
 
 Tienes [Piscina Ultra Frame](https://www.amazon.es/dp/B001BJ4FBO/?tag=tolees-21) con precio final de  470.0 EUR (original: 681.0 EUR) (30.98 %  de rebaja) aqui!
 
-[![Piscina Ultra Frame](https://m.media-amazon.com/images/I/61KvHhPgR-L._SL200_.jpg)](https://www.amazon.es/dp/B001BJ4FBO/?tag=tolees-21)
+[![Piscina Ultra Frame](https://m.media-amazon.com/images/I/61KvHhPgR-L._SL400_.jpg)](https://www.amazon.es/dp/B001BJ4FBO/?tag=tolees-21)
 
 🔎:
 

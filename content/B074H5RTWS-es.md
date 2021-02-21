@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 33.48 % en Nike Y Nk Gmsk-GFX Sports Bag  Unisex ni'
 date: 2020-03-29 10:02:14
-image: 'https://m.media-amazon.com/images/I/41BV+bJfcLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41BV+bJfcLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.98'
 
 Tienes [Nike Y Nk Gmsk-GFX Sports Bag  Unisex niños  Black/Black/ Rush Pink   MISC](https://www.amazon.es/dp/B074H5RTWS/?tag=tolees-21) con un 33.48 % de descuento con precio de oferta de 5.98 EUR (original: 8.99 EUR) en el siguiente enlace!
 
-[![Nike Y Nk Gmsk-GFX Sports Bag  Unisex ni](https://m.media-amazon.com/images/I/41BV+bJfcLL._SL200_.jpg)](https://www.amazon.es/dp/B074H5RTWS/?tag=tolees-21)
+[![Nike Y Nk Gmsk-GFX Sports Bag  Unisex ni](https://m.media-amazon.com/images/I/41BV+bJfcLL._SL400_.jpg)](https://www.amazon.es/dp/B074H5RTWS/?tag=tolees-21)
 
 ℹ️:
 

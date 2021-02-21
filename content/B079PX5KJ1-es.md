@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas Run tee M T-Shirt  Hombre  Black  al 37.80 % de descuento'
 date: 2020-04-28 11:40:32
-image: 'https://m.media-amazon.com/images/I/31Yw46U66QL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Yw46U66QL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.8075'
 
 Está [adidas Run tee M T-Shirt  Hombre  Black  L](https://www.amazon.es/dp/B079PX5KJ1/?tag=tolees-21) con 37.80 de descuento por 15.52 EUR (original: 24.95 EUR) en el siguiente enlace!
 
-[![adidas Run tee M T-Shirt  Hombre  Black ](https://m.media-amazon.com/images/I/31Yw46U66QL._SL200_.jpg)](https://www.amazon.es/dp/B079PX5KJ1/?tag=tolees-21)
+[![adidas Run tee M T-Shirt  Hombre  Black ](https://m.media-amazon.com/images/I/31Yw46U66QL._SL400_.jpg)](https://www.amazon.es/dp/B079PX5KJ1/?tag=tolees-21)
 
 ℹ️:
 

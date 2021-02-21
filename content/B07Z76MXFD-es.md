@@ -2,7 +2,7 @@
 layout: post
 title: 'Pantalla de Proyector de 100 Pulgadas  P al 63.66 % de descuento'
 date: 2020-04-19 17:48:25
-image: 'https://m.media-amazon.com/images/I/51x4QTe48QL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51x4QTe48QL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.435'
 
 Está [Pantalla de Proyector de 100 Pulgadas  Portátil para Interiores y Exteriores  Pantalla de Proyección Plegable 16: 9 en Relación con School Home Cinema 4K](https://www.amazon.es/dp/B07Z76MXFD/?tag=tolees-21) con 63.66 de descuento por 16.88 EUR (original: 46.45 EUR) en el siguiente enlace!
 
-[![Pantalla de Proyector de 100 Pulgadas  P](https://m.media-amazon.com/images/I/51x4QTe48QL._SL200_.jpg)](https://www.amazon.es/dp/B07Z76MXFD/?tag=tolees-21)
+[![Pantalla de Proyector de 100 Pulgadas  P](https://m.media-amazon.com/images/I/51x4QTe48QL._SL400_.jpg)](https://www.amazon.es/dp/B07Z76MXFD/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour UA Rush Tank Tanque  Mujer  al 81.48 % de descuento'
 date: 2020-01-12 07:33:22
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31CXADwpm5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31CXADwpm5L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.68'
 
 Está [Under Armour UA Rush Tank Tanque  Mujer  Gris  Ash Taupe/Black 057   S](https://www.amazon.es/dp/B07KH2XV6J/?tag=tolees-21) con 81.48 de descuento por 9.26 EUR (original: 49.99 EUR) en el siguiente enlace!
 
-[![Under Armour UA Rush Tank Tanque  Mujer ](https://images-eu.ssl-images-amazon.com/images/I/31CXADwpm5L._SL200_.jpg)](https://www.amazon.es/dp/B07KH2XV6J/?tag=tolees-21)
+[![Under Armour UA Rush Tank Tanque  Mujer ](https://images-eu.ssl-images-amazon.com/images/I/31CXADwpm5L._SL400_.jpg)](https://www.amazon.es/dp/B07KH2XV6J/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'PDP - Pixel Pals DC Comics Joker al 33.29 % de descuento'
 date: 2020-01-08 15:36:14
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41peErJ1E-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41peErJ1E-L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.0'
 
 Está [PDP - Pixel Pals DC Comics Joker](https://www.amazon.es/dp/B074K16BMC/?tag=tolees-21) con 33.29 de descuento por 10 EUR (original: 14.99 EUR) en el siguiente enlace!
 
-[![PDP - Pixel Pals DC Comics Joker](https://images-eu.ssl-images-amazon.com/images/I/41peErJ1E-L._SL200_.jpg)](https://www.amazon.es/dp/B074K16BMC/?tag=tolees-21)
+[![PDP - Pixel Pals DC Comics Joker](https://images-eu.ssl-images-amazon.com/images/I/41peErJ1E-L._SL400_.jpg)](https://www.amazon.es/dp/B074K16BMC/?tag=tolees-21)
 
 ℹ️:
 

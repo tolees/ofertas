@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 80.24 % en Kickers Kick Col  Botas Slouch Unisex Ni'
 date: 2020-03-01 21:44:54
-image: 'https://m.media-amazon.com/images/I/41UtImxHrnL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41UtImxHrnL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.8'
 
 Tienes [Kickers Kick Col  Botas Slouch Unisex Niños  Marrón  Camel 114   24 EU](https://www.amazon.es/dp/B07MZMP6L5/?tag=tolees-21) con un 80.24 % de descuento con precio de oferta de 16.8 EUR (original: 85.0 EUR) en el siguiente enlace!
 
-[![Kickers Kick Col  Botas Slouch Unisex Ni](https://m.media-amazon.com/images/I/41UtImxHrnL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07MZMP6L5/?tag=tolees-21)
+[![Kickers Kick Col  Botas Slouch Unisex Ni](https://m.media-amazon.com/images/I/41UtImxHrnL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07MZMP6L5/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Clarks Un Adorn Zip  Mocasines  Negro  B al 31.45 % de rebaja'
 date: 2020-08-30 08:09:52
-image: 'https://m.media-amazon.com/images/I/31CKGLy7WZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31CKGLy7WZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '75.4'
 
 Tienes [Clarks Un Adorn Zip  Mocasines  Negro  Black Combi-   40 EU](https://www.amazon.es/dp/B07FR9MXQZ/?tag=tolees-21) con precio final de  75.4 EUR (original: 110.0 EUR) (31.45 %  de rebaja) aqui!
 
-[![Clarks Un Adorn Zip  Mocasines  Negro  B](https://m.media-amazon.com/images/I/31CKGLy7WZL._SL200_.jpg)](https://www.amazon.es/dp/B07FR9MXQZ/?tag=tolees-21)
+[![Clarks Un Adorn Zip  Mocasines  Negro  B](https://m.media-amazon.com/images/I/31CKGLy7WZL._SL400_.jpg)](https://www.amazon.es/dp/B07FR9MXQZ/?tag=tolees-21)
 
 🔎:
 

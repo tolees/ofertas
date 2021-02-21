@@ -2,7 +2,7 @@
 layout: post
 title: 'Agerul Vinagre de Limpieza 1l al 52.04 % de descuento'
 date: 2020-04-18 03:13:24
-image: 'https://m.media-amazon.com/images/I/41JKUKdD-2L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41JKUKdD-2L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '0.94'
 
 Ahora mismo tienes [Agerul Vinagre de Limpieza 1l](https://www.amazon.es/dp/B07LDXWHD7/?tag=tolees-21) a 0.94 EUR (original: 1.96 EUR) (52.04 %  de descuento) en el siguiente enlace!
 
-[![Agerul Vinagre de Limpieza 1l](https://m.media-amazon.com/images/I/41JKUKdD-2L._SL200_.jpg)](https://www.amazon.es/dp/B07LDXWHD7/?tag=tolees-21)
+[![Agerul Vinagre de Limpieza 1l](https://m.media-amazon.com/images/I/41JKUKdD-2L._SL400_.jpg)](https://www.amazon.es/dp/B07LDXWHD7/?tag=tolees-21)
 
 🔎:
 

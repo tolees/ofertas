@@ -2,7 +2,7 @@
 layout: post
 title: 'find. Arthur HS01 Botas Clasicas  Negro  al 83.69 % de rebaja'
 date: 2020-07-25 07:05:57
-image: 'https://m.media-amazon.com/images/I/31mmmqwNZUL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31mmmqwNZUL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.75'
 
 Tienes [find. Arthur HS01 Botas Clasicas  Negro  Smart Black Smart Black   45](https://www.amazon.es/dp/B07THKWV9W/?tag=tolees-21) con precio final de  10.75 EUR (original: 65.9 EUR) (83.69 %  de rebaja) aqui!
 
-[![find. Arthur HS01 Botas Clasicas  Negro ](https://m.media-amazon.com/images/I/31mmmqwNZUL._SL200_.jpg)](https://www.amazon.es/dp/B07THKWV9W/?tag=tolees-21)
+[![find. Arthur HS01 Botas Clasicas  Negro ](https://m.media-amazon.com/images/I/31mmmqwNZUL._SL400_.jpg)](https://www.amazon.es/dp/B07THKWV9W/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Kärcher WD2 - Aspirador seco y húmedo 10 al 35.88 % de descuento'
 date: 2020-04-29 16:21:40
-image: 'https://m.media-amazon.com/images/I/41SQIO62-1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41SQIO62-1L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '48.455'
 
 Ahora mismo tienes [Kärcher WD2 - Aspirador seco y húmedo 1000 W  depósito plástico de 12 l  versión española [enchufe inglés]](https://www.amazon.es/dp/B00GFLG7OG/?tag=tolees-21) a 44.85 EUR (original: 69.95 EUR) (35.88 %  de descuento) en el siguiente enlace!
 
-[![Kärcher WD2 - Aspirador seco y húmedo 10](https://m.media-amazon.com/images/I/41SQIO62-1L._SL200_.jpg)](https://www.amazon.es/dp/B00GFLG7OG/?tag=tolees-21)
+[![Kärcher WD2 - Aspirador seco y húmedo 10](https://m.media-amazon.com/images/I/41SQIO62-1L._SL400_.jpg)](https://www.amazon.es/dp/B00GFLG7OG/?tag=tolees-21)
 
 🔎:
 

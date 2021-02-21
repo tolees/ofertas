@@ -2,7 +2,7 @@
 layout: post
 title: 'Clarks Blake Jewel  Sandalia con Pulsera con un 30.09 % de descuento'
 date: 2020-07-17 13:57:59
-image: 'https://m.media-amazon.com/images/I/41HKqa1nb9L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41HKqa1nb9L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '48.9'
 
 En este momento está [Clarks Blake Jewel  Sandalia con Pulsera para Mujer  Negro  Black Leather-   37.5 EU](https://www.amazon.es/dp/B07FSK9N23/?tag=tolees-21) a 48.9 EUR (original: 69.95 EUR) (30.09 %  de descuento) en el siguiente enlace!
 
-[![Clarks Blake Jewel  Sandalia con Pulsera](https://m.media-amazon.com/images/I/41HKqa1nb9L._SL200_.jpg)](https://www.amazon.es/dp/B07FSK9N23/?tag=tolees-21)
+[![Clarks Blake Jewel  Sandalia con Pulsera](https://m.media-amazon.com/images/I/41HKqa1nb9L._SL400_.jpg)](https://www.amazon.es/dp/B07FSK9N23/?tag=tolees-21)
 
 🔎:
 

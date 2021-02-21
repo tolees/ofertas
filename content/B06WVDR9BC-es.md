@@ -2,7 +2,7 @@
 layout: post
 title: 'HEY JOE - Genuine Hair Pomade MATT 100 m al 30.61 % de rebaja'
 date: 2020-06-11 06:16:22
-image: 'https://m.media-amazon.com/images/I/61aDpYewKrL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61aDpYewKrL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.469999999999999'
 
 Tienes [HEY JOE - Genuine Hair Pomade MATT 100 ml | Pomada para el cabello MATE FIJACIÓN MEDIA 100 ml](https://www.amazon.es/dp/B06WVDR9BC/?tag=tolees-21) con precio final de  12.49 EUR (original: 18.0 EUR) (30.61 %  de rebaja) aqui!
 
-[![HEY JOE - Genuine Hair Pomade MATT 100 m](https://m.media-amazon.com/images/I/61aDpYewKrL._SL200_.jpg)](https://www.amazon.es/dp/B06WVDR9BC/?tag=tolees-21)
+[![HEY JOE - Genuine Hair Pomade MATT 100 m](https://m.media-amazon.com/images/I/61aDpYewKrL._SL400_.jpg)](https://www.amazon.es/dp/B06WVDR9BC/?tag=tolees-21)
 
 🔎:
 

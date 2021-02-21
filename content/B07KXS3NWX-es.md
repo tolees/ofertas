@@ -2,7 +2,7 @@
 layout: post
 title: 'P Prettyia 1 Juego de Tornillos Accesori con un 44.24 % de descuento'
 date: 2020-07-22 08:11:21
-image: 'https://m.media-amazon.com/images/I/416ARUaTYTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/416ARUaTYTL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.03'
 
 En este momento está [P Prettyia 1 Juego de Tornillos Accesorios de Fotografía Cámaras de Aire Libre Duradero](https://www.amazon.es/dp/B07KXS3NWX/?tag=tolees-21) a 8.03 EUR (original: 14.4 EUR) (44.24 %  de descuento) en el siguiente enlace!
 
-[![P Prettyia 1 Juego de Tornillos Accesori](https://m.media-amazon.com/images/I/416ARUaTYTL._SL200_.jpg)](https://www.amazon.es/dp/B07KXS3NWX/?tag=tolees-21)
+[![P Prettyia 1 Juego de Tornillos Accesori](https://m.media-amazon.com/images/I/416ARUaTYTL._SL400_.jpg)](https://www.amazon.es/dp/B07KXS3NWX/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Rimmel London Magnifeyes Palette Paleta  al 32.00 % de rebaja'
 date: 2020-07-16 22:30:45
-image: 'https://m.media-amazon.com/images/I/41my7WTwBnL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41my7WTwBnL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.9399999999999995'
 
 Tienes [Rimmel London Magnifeyes Palette Paleta de Sombras Jewel Rocks Edition - 14.16 gr](https://www.amazon.es/dp/B07DZW6HF9/?tag=tolees-21) con precio final de  6.8 EUR (original: 10.0 EUR) (32.00 %  de rebaja) aqui!
 
-[![Rimmel London Magnifeyes Palette Paleta ](https://m.media-amazon.com/images/I/41my7WTwBnL._SL200_.jpg)](https://www.amazon.es/dp/B07DZW6HF9/?tag=tolees-21)
+[![Rimmel London Magnifeyes Palette Paleta ](https://m.media-amazon.com/images/I/41my7WTwBnL._SL400_.jpg)](https://www.amazon.es/dp/B07DZW6HF9/?tag=tolees-21)
 
 🔎:
 

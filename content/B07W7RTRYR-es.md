@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger Tommy Tipped Slim Polo  A al 61.44 % de descuento'
 date: 2020-09-02 00:11:47
-image: 'https://m.media-amazon.com/images/I/31xxkWDsgSL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31xxkWDsgSL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.56'
 
 Ahora mismo tienes [Tommy Hilfiger Tommy Tipped Slim Polo  Azul  Pitch Blue   XX-Large  Talla del Fabricante:  para Hombre](https://www.amazon.es/dp/B07W7RTRYR/?tag=tolees-21) a 29.56 EUR (original: 76.66 EUR) (61.44 %  de descuento) en el siguiente enlace!
 
-[![Tommy Hilfiger Tommy Tipped Slim Polo  A](https://m.media-amazon.com/images/I/31xxkWDsgSL._SL200_.jpg)](https://www.amazon.es/dp/B07W7RTRYR/?tag=tolees-21)
+[![Tommy Hilfiger Tommy Tipped Slim Polo  A](https://m.media-amazon.com/images/I/31xxkWDsgSL._SL400_.jpg)](https://www.amazon.es/dp/B07W7RTRYR/?tag=tolees-21)
 
 🔎:
 

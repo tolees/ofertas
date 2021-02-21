@@ -2,7 +2,7 @@
 layout: post
 title: 'Sony MHC-V71D - Sistema Audio  Bluetooth al 38.68 % de rebaja'
 date: 2020-02-09 10:33:21
-image: 'https://m.media-amazon.com/images/I/31T-9R-HQzL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31T-9R-HQzL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '350.91999999999996'
 
 Tienes [Sony MHC-V71D - Sistema Audio  Bluetooth  Luces de Fiesta 360 Grados  Modo Tambor Taiko  Control de Gestos  CD  DVD  USB  Entrada de Audio  HDMI ](https://www.amazon.es/dp/B078WS9RZW/?tag=tolees-21) con precio final de  367.94 EUR (original: 600.0 EUR) (38.68 %  de rebaja) aqui!
 
-[![Sony MHC-V71D - Sistema Audio  Bluetooth](https://m.media-amazon.com/images/I/31T-9R-HQzL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B078WS9RZW/?tag=tolees-21)
+[![Sony MHC-V71D - Sistema Audio  Bluetooth](https://m.media-amazon.com/images/I/31T-9R-HQzL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B078WS9RZW/?tag=tolees-21)
 
 🔎:
 

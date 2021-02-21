@@ -2,7 +2,7 @@
 layout: post
 title: 'LEMCASE Tijeras de Cocina  Scissors Mult con un 35.29 % de descuento'
 date: 2020-04-08 05:56:41
-image: 'https://m.media-amazon.com/images/I/5142TXia0aL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/5142TXia0aL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.0'
 
 En este momento está [LEMCASE Tijeras de Cocina  Scissors Multiuso - Cuchilla de Acero Inoxidable con Cubierta Protectora | Azul](https://www.amazon.es/dp/B07FPDFCZ8/?tag=tolees-21) a 11.0 EUR (original: 17.0 EUR) (35.29 %  de descuento) en el siguiente enlace!
 
-[![LEMCASE Tijeras de Cocina  Scissors Mult](https://m.media-amazon.com/images/I/5142TXia0aL._SL200_.jpg)](https://www.amazon.es/dp/B07FPDFCZ8/?tag=tolees-21)
+[![LEMCASE Tijeras de Cocina  Scissors Mult](https://m.media-amazon.com/images/I/5142TXia0aL._SL400_.jpg)](https://www.amazon.es/dp/B07FPDFCZ8/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 37.16 % en Dremel 628 Juego de Brocas de Precisión '
 date: 2020-03-06 11:02:30
-image: 'https://m.media-amazon.com/images/I/41bgiVYiFJL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41bgiVYiFJL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.316666666666666'
 
 Tienes [Dremel 628 Juego de Brocas de Precisión - Kit de 7 Accesorios para Taladrar  0.8 / 1.2 / 1.6 / 2.0 / 2.4 / 2.8 / 3.2 mm ](https://www.amazon.es/dp/B0002SMO5Y/?tag=tolees-21) con un 37.16 % de descuento con precio de oferta de 5.75 EUR (original: 9.15 EUR) en el siguiente enlace!
 
-[![Dremel 628 Juego de Brocas de Precisión ](https://m.media-amazon.com/images/I/41bgiVYiFJL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B0002SMO5Y/?tag=tolees-21)
+[![Dremel 628 Juego de Brocas de Precisión ](https://m.media-amazon.com/images/I/41bgiVYiFJL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B0002SMO5Y/?tag=tolees-21)
 
 ℹ️:
 

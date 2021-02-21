@@ -2,7 +2,7 @@
 layout: post
 title: 'Red Dead Redemtion 2  La caja contiene c al 36.01 % de rebaja'
 date: 2020-04-07 14:16:16
-image: 'https://m.media-amazon.com/images/I/51WGLDQZgNL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51WGLDQZgNL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '45.626666666666665'
 
 Tienes [Red Dead Redemtion 2  La caja contiene código de descarga ](https://www.amazon.es/dp/B07YXC9KTY/?tag=tolees-21) con precio final de  31.99 EUR (original: 49.99 EUR) (36.01 %  de rebaja) aqui!
 
-[![Red Dead Redemtion 2  La caja contiene c](https://m.media-amazon.com/images/I/51WGLDQZgNL._SL200_.jpg)](https://www.amazon.es/dp/B07YXC9KTY/?tag=tolees-21)
+[![Red Dead Redemtion 2  La caja contiene c](https://m.media-amazon.com/images/I/51WGLDQZgNL._SL400_.jpg)](https://www.amazon.es/dp/B07YXC9KTY/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Hugo BOSS Reloj para hombre  1513477 con con un 57.99 % de descuento'
 date: 2020-06-08 13:56:23
-image: 'https://m.media-amazon.com/images/I/51erg99bNAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51erg99bNAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '191.224'
 
 En este momento está [Hugo BOSS Reloj para hombre  1513477 con pulsera de metal](https://www.amazon.es/dp/B01N3CHZFJ/?tag=tolees-21) a 167.6 EUR (original: 399.0 EUR) (57.99 %  de descuento) en el siguiente enlace!
 
-[![Hugo BOSS Reloj para hombre  1513477 con](https://m.media-amazon.com/images/I/51erg99bNAL._SL200_.jpg)](https://www.amazon.es/dp/B01N3CHZFJ/?tag=tolees-21)
+[![Hugo BOSS Reloj para hombre  1513477 con](https://m.media-amazon.com/images/I/51erg99bNAL._SL400_.jpg)](https://www.amazon.es/dp/B01N3CHZFJ/?tag=tolees-21)
 
 🔎:
 

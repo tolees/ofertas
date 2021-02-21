@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 30.67 % en Vans Old Skool  Zapatillas Unisex Adulto'
 date: 2020-05-06 16:22:48
-image: 'https://m.media-amazon.com/images/I/41IjVKAap1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41IjVKAap1L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '55.99333333333334'
 
 Tienes [Vans Old Skool  Zapatillas Unisex Adulto  Negro  Black/White   44.5](https://www.amazon.es/dp/B000NSIMFE/?tag=tolees-21) con un 30.67 % de descuento con precio de oferta de 51.99 EUR (original: 74.99 EUR) en el siguiente enlace!
 
-[![Vans Old Skool  Zapatillas Unisex Adulto](https://m.media-amazon.com/images/I/41IjVKAap1L._SL200_.jpg)](https://www.amazon.es/dp/B000NSIMFE/?tag=tolees-21)
+[![Vans Old Skool  Zapatillas Unisex Adulto](https://m.media-amazon.com/images/I/41IjVKAap1L._SL400_.jpg)](https://www.amazon.es/dp/B000NSIMFE/?tag=tolees-21)
 
 ℹ️:
 

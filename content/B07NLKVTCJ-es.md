@@ -2,7 +2,7 @@
 layout: post
 title: 'Versace Jeans CoutureMarsupioMujerBolso  al 62.57 % de descuento'
 date: 2020-03-22 03:24:50
-image: 'https://m.media-amazon.com/images/I/41MPfD3NCqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41MPfD3NCqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '101.22999999999999'
 
 Ahora mismo tienes [Versace Jeans CoutureMarsupioMujerBolso de manoAzul  Blu 285  9x15x24 centimeters  W x H x L ](https://www.amazon.es/dp/B07NLKVTCJ/?tag=tolees-21) a 72.61 EUR (original: 194.0 EUR) (62.57 %  de descuento) en el siguiente enlace!
 
-[![Versace Jeans CoutureMarsupioMujerBolso ](https://m.media-amazon.com/images/I/41MPfD3NCqL._SL200_.jpg)](https://www.amazon.es/dp/B07NLKVTCJ/?tag=tolees-21)
+[![Versace Jeans CoutureMarsupioMujerBolso ](https://m.media-amazon.com/images/I/41MPfD3NCqL._SL400_.jpg)](https://www.amazon.es/dp/B07NLKVTCJ/?tag=tolees-21)
 
 🔎:
 

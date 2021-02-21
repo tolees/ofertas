@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 35.45 % en Funko Marvel Comics Figura Pop de Prowle'
 date: 2020-08-01 17:48:49
-image: 'https://m.media-amazon.com/images/I/51HqosWMKyL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51HqosWMKyL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.575'
 
 Tienes [Funko Marvel Comics Figura Pop de Prowler  Color Mulitcolor  33980 ](https://www.amazon.es/dp/B07DF9CH5B/?tag=tolees-21) con un 35.45 % de descuento con precio de oferta de 9.65 EUR (original: 14.95 EUR) en el siguiente enlace!
 
-[![Funko Marvel Comics Figura Pop de Prowle](https://m.media-amazon.com/images/I/51HqosWMKyL._SL200_.jpg)](https://www.amazon.es/dp/B07DF9CH5B/?tag=tolees-21)
+[![Funko Marvel Comics Figura Pop de Prowle](https://m.media-amazon.com/images/I/51HqosWMKyL._SL400_.jpg)](https://www.amazon.es/dp/B07DF9CH5B/?tag=tolees-21)
 
 ℹ️:
 

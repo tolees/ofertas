@@ -2,7 +2,7 @@
 layout: post
 title: 'PUMA Liga Core Chándal  Hombre  Peacoat/ con un 33.18 % de descuento'
 date: 2020-06-24 18:13:36
-image: 'https://m.media-amazon.com/images/I/31pEDFnoVeL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31pEDFnoVeL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.99'
 
 En este momento está [PUMA Liga Core Chándal  Hombre  Peacoat/White  S](https://www.amazon.es/dp/B07968WCDS/?tag=tolees-21) a 9.99 EUR (original: 14.95 EUR) (33.18 %  de descuento) en el siguiente enlace!
 
-[![PUMA Liga Core Chándal  Hombre  Peacoat/](https://m.media-amazon.com/images/I/31pEDFnoVeL._SL200_.jpg)](https://www.amazon.es/dp/B07968WCDS/?tag=tolees-21)
+[![PUMA Liga Core Chándal  Hombre  Peacoat/](https://m.media-amazon.com/images/I/31pEDFnoVeL._SL400_.jpg)](https://www.amazon.es/dp/B07968WCDS/?tag=tolees-21)
 
 🔎:
 

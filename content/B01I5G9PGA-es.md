@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas Real Wallet Cartera  Unisex Adult al 49.75 % de rebaja'
 date: 2020-06-01 13:34:58
-image: 'https://m.media-amazon.com/images/I/51MhFyPtqRL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51MhFyPtqRL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.01'
 
 Tienes [adidas Real Wallet Cartera  Unisex Adulto  Negro/Blanco  Talla Única](https://www.amazon.es/dp/B01I5G9PGA/?tag=tolees-21) con precio final de  1.01 EUR (original: 2.01 EUR) (49.75 %  de rebaja) aqui!
 
-[![adidas Real Wallet Cartera  Unisex Adult](https://m.media-amazon.com/images/I/51MhFyPtqRL._SL200_.jpg)](https://www.amazon.es/dp/B01I5G9PGA/?tag=tolees-21)
+[![adidas Real Wallet Cartera  Unisex Adult](https://m.media-amazon.com/images/I/51MhFyPtqRL._SL400_.jpg)](https://www.amazon.es/dp/B01I5G9PGA/?tag=tolees-21)
 
 🔎:
 

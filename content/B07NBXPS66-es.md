@@ -2,7 +2,7 @@
 layout: post
 title: 'Samsung Leather Cover  funda oficial par al 71.41 % de descuento'
 date: 2020-09-11 08:24:40
-image: 'https://m.media-amazon.com/images/I/21NYXDTuzBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21NYXDTuzBL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '33.516666666666666'
 
 Está [Samsung Leather Cover  funda oficial para Samsung Galaxy 10  color negro](https://www.amazon.es/dp/B07NBXPS66/?tag=tolees-21) con 71.41 de descuento por 14.97 EUR (original: 52.36 EUR) en el siguiente enlace!
 
-[![Samsung Leather Cover  funda oficial par](https://m.media-amazon.com/images/I/21NYXDTuzBL._SL200_.jpg)](https://www.amazon.es/dp/B07NBXPS66/?tag=tolees-21)
+[![Samsung Leather Cover  funda oficial par](https://m.media-amazon.com/images/I/21NYXDTuzBL._SL400_.jpg)](https://www.amazon.es/dp/B07NBXPS66/?tag=tolees-21)
 
 ℹ️:
 

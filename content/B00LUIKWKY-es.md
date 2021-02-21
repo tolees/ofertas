@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 35.97 % en adidas Originals Adidas Stan Smith M2032'
 date: 2020-05-21 23:51:20
-image: 'https://m.media-amazon.com/images/I/31P1xVNf8fL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31P1xVNf8fL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '62.35'
 
 Tienes [adidas Originals Adidas Stan Smith M20324  Zapatillas de Deporte Unisex Adulto  Blanco  Running White Footwear/Running White/Fairway   46 2/3 EU](https://www.amazon.es/dp/B00LUIKWKY/?tag=tolees-21) con un 35.97 % de descuento con precio de oferta de 60.8 EUR (original: 94.95 EUR) en el siguiente enlace!
 
-[![adidas Originals Adidas Stan Smith M2032](https://m.media-amazon.com/images/I/31P1xVNf8fL._SL200_.jpg)](https://www.amazon.es/dp/B00LUIKWKY/?tag=tolees-21)
+[![adidas Originals Adidas Stan Smith M2032](https://m.media-amazon.com/images/I/31P1xVNf8fL._SL400_.jpg)](https://www.amazon.es/dp/B00LUIKWKY/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Springfield 5Ba Slim Basic-c/61 Polo  Ro con un 59.98 % de descuento'
 date: 2020-09-05 18:03:18
-image: 'https://m.media-amazon.com/images/I/41tMXK1O-SL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41tMXK1O-SL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.2'
 
 En este momento está [Springfield 5Ba Slim Basic-c/61 Polo  Rojo  Red 61   M  Tamaño del Fabricante: M  para Hombre](https://www.amazon.es/dp/B07W4WZ1Q3/?tag=tolees-21) a 9.2 EUR (original: 22.99 EUR) (59.98 %  de descuento) en el siguiente enlace!
 
-[![Springfield 5Ba Slim Basic-c/61 Polo  Ro](https://m.media-amazon.com/images/I/41tMXK1O-SL._SL200_.jpg)](https://www.amazon.es/dp/B07W4WZ1Q3/?tag=tolees-21)
+[![Springfield 5Ba Slim Basic-c/61 Polo  Ro](https://m.media-amazon.com/images/I/41tMXK1O-SL._SL400_.jpg)](https://www.amazon.es/dp/B07W4WZ1Q3/?tag=tolees-21)
 
 🔎:
 

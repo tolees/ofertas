@@ -2,7 +2,7 @@
 layout: post
 title: 'PowerPlus POWC4010 - Lijadora Orbital 13 al 30.19 % de descuento'
 date: 2020-10-10 14:42:31
-image: 'https://m.media-amazon.com/images/I/41agwup69PL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41agwup69PL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.95'
 
 Está [PowerPlus POWC4010 - Lijadora Orbital 135W](https://www.amazon.es/dp/B01M1RJDAR/?tag=tolees-21) con 30.19 de descuento por 16.95 EUR (original: 24.28 EUR) en el siguiente enlace!
 
-[![PowerPlus POWC4010 - Lijadora Orbital 13](https://m.media-amazon.com/images/I/41agwup69PL._SL200_.jpg)](https://www.amazon.es/dp/B01M1RJDAR/?tag=tolees-21)
+[![PowerPlus POWC4010 - Lijadora Orbital 13](https://m.media-amazon.com/images/I/41agwup69PL._SL400_.jpg)](https://www.amazon.es/dp/B01M1RJDAR/?tag=tolees-21)
 
 ℹ️:
 

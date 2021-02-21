@@ -2,7 +2,7 @@
 layout: post
 title: 'iVANKY Repetidor HDMI Amplificador HDMI  al 40.03 % de descuento'
 date: 2020-06-19 15:54:12
-image: 'https://m.media-amazon.com/images/I/31qjuRR7-sL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31qjuRR7-sL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.59'
 
 Está [iVANKY Repetidor HDMI Amplificador HDMI 4K @ 60Hz Hembra a Hembra - Gris](https://www.amazon.es/dp/B0872RV6CY/?tag=tolees-21) con 40.03 de descuento por 9.59 EUR (original: 15.99 EUR) en el siguiente enlace!
 
-[![iVANKY Repetidor HDMI Amplificador HDMI ](https://m.media-amazon.com/images/I/31qjuRR7-sL._SL200_.jpg)](https://www.amazon.es/dp/B0872RV6CY/?tag=tolees-21)
+[![iVANKY Repetidor HDMI Amplificador HDMI ](https://m.media-amazon.com/images/I/31qjuRR7-sL._SL400_.jpg)](https://www.amazon.es/dp/B0872RV6CY/?tag=tolees-21)
 
 ℹ️:
 

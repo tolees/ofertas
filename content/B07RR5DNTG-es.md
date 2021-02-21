@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 50.00 % en American Tourister Flylife Equipaje de M'
 date: 2020-02-14 06:59:22
-image: 'https://m.media-amazon.com/images/I/41WAsog+vXL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41WAsog+vXL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '77.5'
 
 Tienes [American Tourister Flylife Equipaje de Mano 67 Centimeters 82.5 Gris  Sky Silver ](https://www.amazon.es/dp/B07RR5DNTG/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 77.5 EUR (original: 155.0 EUR) en el siguiente enlace!
 
-[![American Tourister Flylife Equipaje de M](https://m.media-amazon.com/images/I/41WAsog+vXL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07RR5DNTG/?tag=tolees-21)
+[![American Tourister Flylife Equipaje de M](https://m.media-amazon.com/images/I/41WAsog+vXL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07RR5DNTG/?tag=tolees-21)
 
 ℹ️:
 

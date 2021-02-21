@@ -2,7 +2,7 @@
 layout: post
 title: 'JACK & JONES JORFRANKIE Crew Neck Suéter al 29.94 % de rebaja'
 date: 2020-04-03 13:28:02
-image: 'https://m.media-amazon.com/images/I/41yqPjScnmL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41yqPjScnmL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.86'
 
 Tienes [JACK & JONES JORFRANKIE Crew Neck Suéter  Multicolor  Sea Moss Fit: Knit Fit   M para Hombre](https://www.amazon.es/dp/B07WGNQTG4/?tag=tolees-21) con precio final de  7.3 EUR (original: 10.42 EUR) (29.94 %  de rebaja) aqui!
 
-[![JACK & JONES JORFRANKIE Crew Neck Suéter](https://m.media-amazon.com/images/I/41yqPjScnmL._SL200_.jpg)](https://www.amazon.es/dp/B07WGNQTG4/?tag=tolees-21)
+[![JACK & JONES JORFRANKIE Crew Neck Suéter](https://m.media-amazon.com/images/I/41yqPjScnmL._SL400_.jpg)](https://www.amazon.es/dp/B07WGNQTG4/?tag=tolees-21)
 
 🔎:
 

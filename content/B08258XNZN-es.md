@@ -2,7 +2,7 @@
 layout: post
 title: 'Baker Ross Kits de Costura de Madera Flo con un 48.16 % de descuento'
 date: 2020-04-04 21:09:58
-image: 'https://m.media-amazon.com/images/I/61ftosvJi2L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61ftosvJi2L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.66'
 
 En este momento está [Baker Ross Kits de Costura de Madera Flores  paquete de 4  - Artes y manualidades para niños](https://www.amazon.es/dp/B08258XNZN/?tag=tolees-21) a 4.66 EUR (original: 8.99 EUR) (48.16 %  de descuento) en el siguiente enlace!
 
-[![Baker Ross Kits de Costura de Madera Flo](https://m.media-amazon.com/images/I/61ftosvJi2L._SL200_.jpg)](https://www.amazon.es/dp/B08258XNZN/?tag=tolees-21)
+[![Baker Ross Kits de Costura de Madera Flo](https://m.media-amazon.com/images/I/61ftosvJi2L._SL400_.jpg)](https://www.amazon.es/dp/B08258XNZN/?tag=tolees-21)
 
 🔎:
 

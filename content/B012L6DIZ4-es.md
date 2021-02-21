@@ -2,7 +2,7 @@
 layout: post
 title: 'L Oreal Majirouge Absolu Tinte Permanent al 32.98 % de rebaja'
 date: 2020-03-15 03:20:03
-image: 'https://m.media-amazon.com/images/I/41Q-6puHbBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Q-6puHbBL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.01'
 
 Tienes [L Oreal Majirouge Absolu Tinte Permanente 8.43 - 50 ml](https://www.amazon.es/dp/B012L6DIZ4/?tag=tolees-21) con precio final de  10.69 EUR (original: 15.95 EUR) (32.98 %  de rebaja) aqui!
 
-[![L Oreal Majirouge Absolu Tinte Permanent](https://m.media-amazon.com/images/I/41Q-6puHbBL._SL200_.jpg)](https://www.amazon.es/dp/B012L6DIZ4/?tag=tolees-21)
+[![L Oreal Majirouge Absolu Tinte Permanent](https://m.media-amazon.com/images/I/41Q-6puHbBL._SL400_.jpg)](https://www.amazon.es/dp/B012L6DIZ4/?tag=tolees-21)
 
 🔎:
 

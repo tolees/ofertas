@@ -2,7 +2,7 @@
 layout: post
 title: 'Columbia Klamath Range II Forro Polar co al 33.34 % de descuento'
 date: 2020-10-02 10:15:08
-image: 'https://m.media-amazon.com/images/I/41zmiqZcKeL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41zmiqZcKeL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.99'
 
 Ahora mismo tienes [Columbia Klamath Range II Forro Polar con Media Cremallera  Hombre  Gris  Negro  Nimbus Grey  Shark   XS](https://www.amazon.es/dp/B087RCM2VJ/?tag=tolees-21) a 19.99 EUR (original: 29.99 EUR) (33.34 %  de descuento) en el siguiente enlace!
 
-[![Columbia Klamath Range II Forro Polar co](https://m.media-amazon.com/images/I/41zmiqZcKeL._SL200_.jpg)](https://www.amazon.es/dp/B087RCM2VJ/?tag=tolees-21)
+[![Columbia Klamath Range II Forro Polar co](https://m.media-amazon.com/images/I/41zmiqZcKeL._SL400_.jpg)](https://www.amazon.es/dp/B087RCM2VJ/?tag=tolees-21)
 
 🔎:
 

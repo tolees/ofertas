@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 34.01 % en Beauty Glazed 63 Colores De Sombra De Oj'
 date: 2020-06-17 23:20:23
-image: 'https://m.media-amazon.com/images/I/51-iFzyEN3L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51-iFzyEN3L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.48'
 
 Tienes [Beauty Glazed 63 Colores De Sombra De Ojos Polvo De Sombras De Colores Conjunto De Paleta Paleta De CosméTicos Mate Brillante Sombra De Ojos Profesional Cosmético de Sombra de Ojos Paleta](https://www.amazon.es/dp/B07G7S5TXX/?tag=tolees-21) con un 34.01 % de descuento con precio de oferta de 10.48 EUR (original: 15.88 EUR) en el siguiente enlace!
 
-[![Beauty Glazed 63 Colores De Sombra De Oj](https://m.media-amazon.com/images/I/51-iFzyEN3L._SL200_.jpg)](https://www.amazon.es/dp/B07G7S5TXX/?tag=tolees-21)
+[![Beauty Glazed 63 Colores De Sombra De Oj](https://m.media-amazon.com/images/I/51-iFzyEN3L._SL400_.jpg)](https://www.amazon.es/dp/B07G7S5TXX/?tag=tolees-21)
 
 ℹ️:
 

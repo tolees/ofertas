@@ -2,7 +2,7 @@
 layout: post
 title: 'Bastoncillos para los oídos de bambú y a al 25.03 % de descuento'
 date: 2020-05-11 20:46:49
-image: 'https://m.media-amazon.com/images/I/517l6QSuSvL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/517l6QSuSvL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.99'
 
 Está [Bastoncillos para los oídos de bambú y algodón- 1 unidad  500 count](https://www.amazon.es/dp/B08671HJZW/?tag=tolees-21) con 25.03 de descuento por 5.99 EUR (original: 7.99 EUR) en el siguiente enlace!
 
-[![Bastoncillos para los oídos de bambú y a](https://m.media-amazon.com/images/I/517l6QSuSvL._SL200_.jpg)](https://www.amazon.es/dp/B08671HJZW/?tag=tolees-21)
+[![Bastoncillos para los oídos de bambú y a](https://m.media-amazon.com/images/I/517l6QSuSvL._SL400_.jpg)](https://www.amazon.es/dp/B08671HJZW/?tag=tolees-21)
 
 ℹ️:
 

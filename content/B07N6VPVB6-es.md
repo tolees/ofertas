@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger J Basic Women Knitted Sca al 50.00 % de descuento'
 date: 2020-03-30 20:58:51
-image: 'https://m.media-amazon.com/images/I/31pywDHGwwL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31pywDHGwwL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.5'
 
 Está [Tommy Hilfiger J Basic Women Knitted Scarf Bufanda   Black Bae   Talla única  Talla del fabricante: OS  para Mujer](https://www.amazon.es/dp/B07N6VPVB6/?tag=tolees-21) con 50.00 de descuento por 24.5 EUR (original: 49.0 EUR) en el siguiente enlace!
 
-[![Tommy Hilfiger J Basic Women Knitted Sca](https://m.media-amazon.com/images/I/31pywDHGwwL._SL200_.jpg)](https://www.amazon.es/dp/B07N6VPVB6/?tag=tolees-21)
+[![Tommy Hilfiger J Basic Women Knitted Sca](https://m.media-amazon.com/images/I/31pywDHGwwL._SL400_.jpg)](https://www.amazon.es/dp/B07N6VPVB6/?tag=tolees-21)
 
 ℹ️:
 

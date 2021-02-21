@@ -2,7 +2,7 @@
 layout: post
 title: 'Skechers Go Walk Joy  Zapatillas para Mu al 29.99 % de descuento'
 date: 2020-07-04 18:06:51
-image: 'https://m.media-amazon.com/images/I/31vZ9HaHiXL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31vZ9HaHiXL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '45.47'
 
 Está [Skechers Go Walk Joy  Zapatillas para Mujer  Negro  Black Textile/Pink Trim Bkpk   38 EU](https://www.amazon.es/dp/B07TTNV616/?tag=tolees-21) con 29.99 de descuento por 45.47 EUR (original: 64.95 EUR) en el siguiente enlace!
 
-[![Skechers Go Walk Joy  Zapatillas para Mu](https://m.media-amazon.com/images/I/31vZ9HaHiXL._SL200_.jpg)](https://www.amazon.es/dp/B07TTNV616/?tag=tolees-21)
+[![Skechers Go Walk Joy  Zapatillas para Mu](https://m.media-amazon.com/images/I/31vZ9HaHiXL._SL400_.jpg)](https://www.amazon.es/dp/B07TTNV616/?tag=tolees-21)
 
 ℹ️:
 

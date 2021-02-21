@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 61.08 % en Bausch & Lomb Soflens Tóricas  Lentes de'
 date: 2020-02-12 12:26:40
-image: 'https://m.media-amazon.com/images/I/41cMl+-BHaL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41cMl+-BHaL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.19'
 
 Tienes [Bausch & Lomb Soflens Tóricas  Lentes de Contacto para Astigmatismo - Pack de 6](https://www.amazon.es/dp/B000UJFSHG/?tag=tolees-21) con un 61.08 % de descuento con precio de oferta de 29.19 EUR (original: 75.0 EUR) en el siguiente enlace!
 
-[![Bausch & Lomb Soflens Tóricas  Lentes de](https://m.media-amazon.com/images/I/41cMl+-BHaL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B000UJFSHG/?tag=tolees-21)
+[![Bausch & Lomb Soflens Tóricas  Lentes de](https://m.media-amazon.com/images/I/41cMl+-BHaL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B000UJFSHG/?tag=tolees-21)
 
 ℹ️:
 

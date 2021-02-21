@@ -2,7 +2,7 @@
 layout: post
 title: 'Rimmel London Stay Matte Base de Maquill con un 50.83 % de descuento'
 date: 2020-04-12 18:31:29
-image: 'https://m.media-amazon.com/images/I/31PVET4OSBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31PVET4OSBL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.95'
 
 En este momento está [Rimmel London Stay Matte Base de Maquillaje Tono 300 Sand - 41 545 gr](https://www.amazon.es/dp/B00H3BROXU/?tag=tolees-21) a 2.95 EUR (original: 6.0 EUR) (50.83 %  de descuento) en el siguiente enlace!
 
-[![Rimmel London Stay Matte Base de Maquill](https://m.media-amazon.com/images/I/31PVET4OSBL._SL200_.jpg)](https://www.amazon.es/dp/B00H3BROXU/?tag=tolees-21)
+[![Rimmel London Stay Matte Base de Maquill](https://m.media-amazon.com/images/I/31PVET4OSBL._SL400_.jpg)](https://www.amazon.es/dp/B00H3BROXU/?tag=tolees-21)
 
 🔎:
 

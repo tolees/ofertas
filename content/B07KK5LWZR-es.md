@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 63.71 % en Columbia Caldorado III  Zapatillas de Ru'
 date: 2020-02-28 07:57:27
-image: 'https://m.media-amazon.com/images/I/41SBWAXu01L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41SBWAXu01L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '47.17'
 
 Tienes [Columbia Caldorado III  Zapatillas de Running para Asfalto para Hombre  Azul  Beta  Super Son 445   41.5 EU](https://www.amazon.es/dp/B07KK5LWZR/?tag=tolees-21) con un 63.71 % de descuento con precio de oferta de 47.17 EUR (original: 129.99 EUR) en el siguiente enlace!
 
-[![Columbia Caldorado III  Zapatillas de Ru](https://m.media-amazon.com/images/I/41SBWAXu01L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07KK5LWZR/?tag=tolees-21)
+[![Columbia Caldorado III  Zapatillas de Ru](https://m.media-amazon.com/images/I/41SBWAXu01L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07KK5LWZR/?tag=tolees-21)
 
 ℹ️:
 

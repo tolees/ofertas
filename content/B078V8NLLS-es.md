@@ -2,7 +2,7 @@
 layout: post
 title: '100 Papeles Multicolores de Origami Idea con un 44.43 % de descuento'
 date: 2020-09-04 19:00:53
-image: 'https://m.media-amazon.com/images/I/410ZgqWnv1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/410ZgqWnv1L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.99'
 
 En este momento está [100 Papeles Multicolores de Origami Ideal para Hacer Formas Grúas Flores Conveniente para Artesanías Proyectos de Arte - 10x10cm](https://www.amazon.es/dp/B078V8NLLS/?tag=tolees-21) a 3.99 EUR (original: 7.18 EUR) (44.43 %  de descuento) en el siguiente enlace!
 
-[![100 Papeles Multicolores de Origami Idea](https://m.media-amazon.com/images/I/410ZgqWnv1L._SL200_.jpg)](https://www.amazon.es/dp/B078V8NLLS/?tag=tolees-21)
+[![100 Papeles Multicolores de Origami Idea](https://m.media-amazon.com/images/I/410ZgqWnv1L._SL400_.jpg)](https://www.amazon.es/dp/B078V8NLLS/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'AmazonBasics - Protector de colchón de m con un 69.98 % de descuento'
 date: 2020-01-15 20:40:37
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31u72atH8dL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31u72atH8dL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.8'
 
 En este momento está [AmazonBasics - Protector de colchón de moletón impermeable para cuna 70 x 140 cm](https://www.amazon.es/dp/B00V3HKULS/?tag=tolees-21) a 4.8 EUR (original: 15.99 EUR) (69.98 %  de descuento) en el siguiente enlace!
 
-[![AmazonBasics - Protector de colchón de m](https://images-eu.ssl-images-amazon.com/images/I/31u72atH8dL._SL200_.jpg)](https://www.amazon.es/dp/B00V3HKULS/?tag=tolees-21)
+[![AmazonBasics - Protector de colchón de m](https://images-eu.ssl-images-amazon.com/images/I/31u72atH8dL._SL400_.jpg)](https://www.amazon.es/dp/B00V3HKULS/?tag=tolees-21)
 
 🔎:
 

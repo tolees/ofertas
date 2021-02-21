@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas Copa Mundial  Zapatillas de Fútbo al 30.01 % de descuento'
 date: 2020-06-17 10:15:11
-image: 'https://m.media-amazon.com/images/I/41BIXmO4auL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41BIXmO4auL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '104.95'
 
 Ahora mismo tienes [adidas Copa Mundial  Zapatillas de Fútbol para Hombre  Negro/Blanco  36 EU](https://www.amazon.es/dp/B000OWJJ7O/?tag=tolees-21) a 104.95 EUR (original: 149.95 EUR) (30.01 %  de descuento) en el siguiente enlace!
 
-[![adidas Copa Mundial  Zapatillas de Fútbo](https://m.media-amazon.com/images/I/41BIXmO4auL._SL200_.jpg)](https://www.amazon.es/dp/B000OWJJ7O/?tag=tolees-21)
+[![adidas Copa Mundial  Zapatillas de Fútbo](https://m.media-amazon.com/images/I/41BIXmO4auL._SL400_.jpg)](https://www.amazon.es/dp/B000OWJJ7O/?tag=tolees-21)
 
 🔎:
 

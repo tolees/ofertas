@@ -2,7 +2,7 @@
 layout: post
 title: 'Stanley FatMax Taller de laminado de met al 46.75 % de descuento'
 date: 2020-05-21 21:43:05
-image: 'https://m.media-amazon.com/images/I/41XRms4KvhL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41XRms4KvhL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '110.275'
 
 Ahora mismo tienes [Stanley FatMax Taller de laminado de metal-plástico  1-95-622 - Carro de herramientas  vacío - Caja de herramientas versátil para piezas pequeñas y grandes](https://www.amazon.es/dp/B002STCCMU/?tag=tolees-21) a 96.65 EUR (original: 181.5 EUR) (46.75 %  de descuento) en el siguiente enlace!
 
-[![Stanley FatMax Taller de laminado de met](https://m.media-amazon.com/images/I/41XRms4KvhL._SL200_.jpg)](https://www.amazon.es/dp/B002STCCMU/?tag=tolees-21)
+[![Stanley FatMax Taller de laminado de met](https://m.media-amazon.com/images/I/41XRms4KvhL._SL400_.jpg)](https://www.amazon.es/dp/B002STCCMU/?tag=tolees-21)
 
 🔎:
 

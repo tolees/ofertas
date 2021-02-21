@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 30.02 % en Reloj Komono Moneypenny Royale para Muje'
 date: 2020-08-17 15:37:46
-image: 'https://m.media-amazon.com/images/I/41eSHURRdvL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41eSHURRdvL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '48.95'
 
 Tienes [Reloj Komono Moneypenny Royale para Mujer KOM-W1240](https://www.amazon.es/dp/B00O82EKW0/?tag=tolees-21) con un 30.02 % de descuento con precio de oferta de 48.95 EUR (original: 69.95 EUR) en el siguiente enlace!
 
-[![Reloj Komono Moneypenny Royale para Muje](https://m.media-amazon.com/images/I/41eSHURRdvL._SL200_.jpg)](https://www.amazon.es/dp/B00O82EKW0/?tag=tolees-21)
+[![Reloj Komono Moneypenny Royale para Muje](https://m.media-amazon.com/images/I/41eSHURRdvL._SL400_.jpg)](https://www.amazon.es/dp/B00O82EKW0/?tag=tolees-21)
 
 ℹ️:
 

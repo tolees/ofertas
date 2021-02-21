@@ -2,7 +2,7 @@
 layout: post
 title: 'KN-95 al 41.00 % de descuento'
 date: 2020-05-28 22:19:57
-image: 'https://m.media-amazon.com/images/I/41R1H1aFmxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41R1H1aFmxL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.8'
 
 Ahora mismo tienes [KN-95](https://www.amazon.es/dp/B0872FBXSN/?tag=tolees-21) a 11.8 EUR (original: 20.0 EUR) (41.00 %  de descuento) en el siguiente enlace!
 
-[![KN-95](https://m.media-amazon.com/images/I/41R1H1aFmxL._SL200_.jpg)](https://www.amazon.es/dp/B0872FBXSN/?tag=tolees-21)
+[![KN-95](https://m.media-amazon.com/images/I/41R1H1aFmxL._SL400_.jpg)](https://www.amazon.es/dp/B0872FBXSN/?tag=tolees-21)
 
 🔎:
 

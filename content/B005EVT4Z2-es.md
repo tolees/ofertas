@@ -2,7 +2,7 @@
 layout: post
 title: 'Cars 2 al 49.64 % de descuento'
 date: 2020-09-27 11:38:25
-image: 'https://m.media-amazon.com/images/I/51IZ9dEQgWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51IZ9dEQgWL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.36'
 
 Ahora mismo tienes [Cars 2](https://www.amazon.es/dp/B005EVT4Z2/?tag=tolees-21) a 8.36 EUR (original: 16.6 EUR) (49.64 %  de descuento) en el siguiente enlace!
 
-[![Cars 2](https://m.media-amazon.com/images/I/51IZ9dEQgWL._SL200_.jpg)](https://www.amazon.es/dp/B005EVT4Z2/?tag=tolees-21)
+[![Cars 2](https://m.media-amazon.com/images/I/51IZ9dEQgWL._SL400_.jpg)](https://www.amazon.es/dp/B005EVT4Z2/?tag=tolees-21)
 
 🔎:
 

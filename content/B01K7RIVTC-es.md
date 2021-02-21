@@ -2,7 +2,7 @@
 layout: post
 title: 'Neutrex Oxy Blanco Puro Quitamanchas sin al 39.02 % de descuento'
 date: 2020-05-13 19:33:00
-image: 'https://m.media-amazon.com/images/I/41go8XRiy0L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41go8XRiy0L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.2133333333333332'
 
 Ahora mismo tienes [Neutrex Oxy Blanco Puro Quitamanchas sin lejía 800ml](https://www.amazon.es/dp/B01K7RIVTC/?tag=tolees-21) a 1.0 EUR (original: 1.64 EUR) (39.02 %  de descuento) en el siguiente enlace!
 
-[![Neutrex Oxy Blanco Puro Quitamanchas sin](https://m.media-amazon.com/images/I/41go8XRiy0L._SL200_.jpg)](https://www.amazon.es/dp/B01K7RIVTC/?tag=tolees-21)
+[![Neutrex Oxy Blanco Puro Quitamanchas sin](https://m.media-amazon.com/images/I/41go8XRiy0L._SL400_.jpg)](https://www.amazon.es/dp/B01K7RIVTC/?tag=tolees-21)
 
 🔎:
 

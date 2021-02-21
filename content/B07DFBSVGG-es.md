@@ -2,7 +2,7 @@
 layout: post
 title: 'Pop! Crash Bandicoot - Aku Aku al 25.20 % de descuento'
 date: 2020-06-24 12:46:27
-image: 'https://m.media-amazon.com/images/I/31VwaK8HcTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31VwaK8HcTL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.854444444444443'
 
 Ahora mismo tienes [Pop! Crash Bandicoot - Aku Aku](https://www.amazon.es/dp/B07DFBSVGG/?tag=tolees-21) a 11.93 EUR (original: 15.95 EUR) (25.20 %  de descuento) en el siguiente enlace!
 
-[![Pop! Crash Bandicoot - Aku Aku](https://m.media-amazon.com/images/I/31VwaK8HcTL._SL200_.jpg)](https://www.amazon.es/dp/B07DFBSVGG/?tag=tolees-21)
+[![Pop! Crash Bandicoot - Aku Aku](https://m.media-amazon.com/images/I/31VwaK8HcTL._SL400_.jpg)](https://www.amazon.es/dp/B07DFBSVGG/?tag=tolees-21)
 
 🔎:
 

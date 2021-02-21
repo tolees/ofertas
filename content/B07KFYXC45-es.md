@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 50.86 % en PUMA RS 9.8 Space  Zapatillas Unisex Adu'
 date: 2020-08-10 20:53:59
-image: 'https://m.media-amazon.com/images/I/41v-aOXxskL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41v-aOXxskL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '44.28'
 
 Tienes [PUMA RS 9.8 Space  Zapatillas Unisex Adulto  White-High Risk Red  44.5 EU](https://www.amazon.es/dp/B07KFYXC45/?tag=tolees-21) con un 50.86 % de descuento con precio de oferta de 44.2 EUR (original: 89.95 EUR) en el siguiente enlace!
 
-[![PUMA RS 9.8 Space  Zapatillas Unisex Adu](https://m.media-amazon.com/images/I/41v-aOXxskL._SL200_.jpg)](https://www.amazon.es/dp/B07KFYXC45/?tag=tolees-21)
+[![PUMA RS 9.8 Space  Zapatillas Unisex Adu](https://m.media-amazon.com/images/I/41v-aOXxskL._SL400_.jpg)](https://www.amazon.es/dp/B07KFYXC45/?tag=tolees-21)
 
 ℹ️:
 

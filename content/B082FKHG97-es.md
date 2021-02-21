@@ -2,7 +2,7 @@
 layout: post
 title: 'Nuevos Hombres Mujeres Cabello Champú Cu al 31.86 % de descuento'
 date: 2020-05-28 19:32:49
-image: 'https://m.media-amazon.com/images/I/41KXx3mpmrL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41KXx3mpmrL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.54'
 
 Ahora mismo tienes [Nuevos Hombres Mujeres Cabello Champú Cuero cabelludo Masaje corporal Masajeador Cepillo Peine - Mezclar](https://www.amazon.es/dp/B082FKHG97/?tag=tolees-21) a 1.54 EUR (original: 2.26 EUR) (31.86 %  de descuento) en el siguiente enlace!
 
-[![Nuevos Hombres Mujeres Cabello Champú Cu](https://m.media-amazon.com/images/I/41KXx3mpmrL._SL200_.jpg)](https://www.amazon.es/dp/B082FKHG97/?tag=tolees-21)
+[![Nuevos Hombres Mujeres Cabello Champú Cu](https://m.media-amazon.com/images/I/41KXx3mpmrL._SL400_.jpg)](https://www.amazon.es/dp/B082FKHG97/?tag=tolees-21)
 
 🔎:
 

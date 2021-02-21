@@ -2,7 +2,7 @@
 layout: post
 title: 'Malfy Limón Gin Ginebra Premium - 700 ml al 45.86 % de descuento'
 date: 2020-10-02 10:38:53
-image: 'https://m.media-amazon.com/images/I/41ISAt6FnAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ISAt6FnAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.0'
 
 Está [Malfy Limón Gin Ginebra Premium - 700 ml](https://www.amazon.es/dp/B01E3T6C6Y/?tag=tolees-21) con 45.86 de descuento por 14.0 EUR (original: 25.86 EUR) en el siguiente enlace!
 
-[![Malfy Limón Gin Ginebra Premium - 700 ml](https://m.media-amazon.com/images/I/41ISAt6FnAL._SL200_.jpg)](https://www.amazon.es/dp/B01E3T6C6Y/?tag=tolees-21)
+[![Malfy Limón Gin Ginebra Premium - 700 ml](https://m.media-amazon.com/images/I/41ISAt6FnAL._SL400_.jpg)](https://www.amazon.es/dp/B01E3T6C6Y/?tag=tolees-21)
 
 ℹ️:
 

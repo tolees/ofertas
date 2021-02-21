@@ -2,7 +2,7 @@
 layout: post
 title: 'Rodillo de cocina de acero inoxidable  P al 60.00 % de rebaja'
 date: 2020-04-28 17:46:10
-image: 'https://m.media-amazon.com/images/I/51EahNFWcyL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51EahNFWcyL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.62'
 
 Tienes [Rodillo de cocina de acero inoxidable  Palo de amasar para panadería pastelería  La mejor fudge  tartas  galletas y pasta! by XENBORG](https://www.amazon.es/dp/B07TYPBV14/?tag=tolees-21) con precio final de  10.62 EUR (original: 26.55 EUR) (60.00 %  de rebaja) aqui!
 
-[![Rodillo de cocina de acero inoxidable  P](https://m.media-amazon.com/images/I/51EahNFWcyL._SL200_.jpg)](https://www.amazon.es/dp/B07TYPBV14/?tag=tolees-21)
+[![Rodillo de cocina de acero inoxidable  P](https://m.media-amazon.com/images/I/51EahNFWcyL._SL400_.jpg)](https://www.amazon.es/dp/B07TYPBV14/?tag=tolees-21)
 
 🔎:
 

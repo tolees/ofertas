@@ -2,7 +2,7 @@
 layout: post
 title: 'MUSESHOP Funda para Xiaomi Redmi Note 8  al 38.72 % de rebaja'
 date: 2020-05-28 20:43:44
-image: 'https://m.media-amazon.com/images/I/51YZSJcu3nL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51YZSJcu3nL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.59'
 
 Tienes [MUSESHOP Funda para Xiaomi Redmi Note 8 Pro  Estuche de Cuero Estampado Flor Tótem Libro de Cuero Flip Case  Carcasa PU Leather con TPU Silicona Case Interna Suave Cierre Magnético  Azul](https://www.amazon.es/dp/B07Y9QXKGL/?tag=tolees-21) con precio final de  4.59 EUR (original: 7.49 EUR) (38.72 %  de rebaja) aqui!
 
-[![MUSESHOP Funda para Xiaomi Redmi Note 8 ](https://m.media-amazon.com/images/I/51YZSJcu3nL._SL200_.jpg)](https://www.amazon.es/dp/B07Y9QXKGL/?tag=tolees-21)
+[![MUSESHOP Funda para Xiaomi Redmi Note 8 ](https://m.media-amazon.com/images/I/51YZSJcu3nL._SL400_.jpg)](https://www.amazon.es/dp/B07Y9QXKGL/?tag=tolees-21)
 
 🔎:
 

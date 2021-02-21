@@ -2,7 +2,7 @@
 layout: post
 title: 'JACK & JONES NOS Jcojonah Sweat Hood STS al 58.34 % de rebaja'
 date: 2020-02-10 18:46:37
-image: 'https://m.media-amazon.com/images/I/41-DsJK8f6L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41-DsJK8f6L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.66'
 
 Tienes [JACK & JONES NOS Jcojonah Sweat Hood STS. Capucha  Marrón  Fudge Fudge   Small para Hombre](https://www.amazon.es/dp/B07RWD59LB/?tag=tolees-21) con precio final de  16.66 EUR (original: 39.99 EUR) (58.34 %  de rebaja) aqui!
 
-[![JACK & JONES NOS Jcojonah Sweat Hood STS](https://m.media-amazon.com/images/I/41-DsJK8f6L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07RWD59LB/?tag=tolees-21)
+[![JACK & JONES NOS Jcojonah Sweat Hood STS](https://m.media-amazon.com/images/I/41-DsJK8f6L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07RWD59LB/?tag=tolees-21)
 
 🔎:
 

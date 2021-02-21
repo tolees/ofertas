@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 35.03 % en adidas Gazelle  Zapatillas Unisex Niños '
 date: 2020-06-01 08:39:42
-image: 'https://m.media-amazon.com/images/I/31Wj8kfjejL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Wj8kfjejL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.990000000000002'
 
 Tienes [adidas Gazelle  Zapatillas Unisex Niños  Negro  Core Black/Ftwr White/Gold Metallic   34 EU](https://www.amazon.es/dp/B01N5E9D5V/?tag=tolees-21) con un 35.03 % de descuento con precio de oferta de 35.7 EUR (original: 54.95 EUR) en el siguiente enlace!
 
-[![adidas Gazelle  Zapatillas Unisex Niños ](https://m.media-amazon.com/images/I/31Wj8kfjejL._SL200_.jpg)](https://www.amazon.es/dp/B01N5E9D5V/?tag=tolees-21)
+[![adidas Gazelle  Zapatillas Unisex Niños ](https://m.media-amazon.com/images/I/31Wj8kfjejL._SL400_.jpg)](https://www.amazon.es/dp/B01N5E9D5V/?tag=tolees-21)
 
 ℹ️:
 

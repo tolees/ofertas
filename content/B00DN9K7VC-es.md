@@ -2,7 +2,7 @@
 layout: post
 title: 'Sotya Batido Saciante Chocolate - 700 gr al 26.91 % de descuento'
 date: 2020-08-13 17:33:36
-image: 'https://m.media-amazon.com/images/I/41Sr-V5SXRL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Sr-V5SXRL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.9809090909090905'
 
 Ahora mismo tienes [Sotya Batido Saciante Chocolate - 700 gr](https://www.amazon.es/dp/B00DN9K7VC/?tag=tolees-21) a 8.04 EUR (original: 11.0 EUR) (26.91 %  de descuento) en el siguiente enlace!
 
-[![Sotya Batido Saciante Chocolate - 700 gr](https://m.media-amazon.com/images/I/41Sr-V5SXRL._SL200_.jpg)](https://www.amazon.es/dp/B00DN9K7VC/?tag=tolees-21)
+[![Sotya Batido Saciante Chocolate - 700 gr](https://m.media-amazon.com/images/I/41Sr-V5SXRL._SL400_.jpg)](https://www.amazon.es/dp/B00DN9K7VC/?tag=tolees-21)
 
 🔎:
 

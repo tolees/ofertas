@@ -2,7 +2,7 @@
 layout: post
 title: 'FITTOO Mallas Pantalones Deportivos Muje al 43.37 % de descuento'
 date: 2020-04-14 11:25:53
-image: 'https://m.media-amazon.com/images/I/41JNXom35tL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41JNXom35tL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.99'
 
 Está [FITTOO Mallas Pantalones Deportivos Mujer Elásticos Transpirables para Yoga Running Fitness670](https://www.amazon.es/dp/B07P171KST/?tag=tolees-21) con 43.37 de descuento por 16.99 EUR (original: 30.0 EUR) en el siguiente enlace!
 
-[![FITTOO Mallas Pantalones Deportivos Muje](https://m.media-amazon.com/images/I/41JNXom35tL._SL200_.jpg)](https://www.amazon.es/dp/B07P171KST/?tag=tolees-21)
+[![FITTOO Mallas Pantalones Deportivos Muje](https://m.media-amazon.com/images/I/41JNXom35tL._SL400_.jpg)](https://www.amazon.es/dp/B07P171KST/?tag=tolees-21)
 
 ℹ️:
 

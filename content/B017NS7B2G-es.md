@@ -2,7 +2,7 @@
 layout: post
 title: 'Thermaltake Riing 14 LED RGB - Pack de 3 al 41.50 % de descuento'
 date: 2020-03-30 17:36:22
-image: 'https://m.media-amazon.com/images/I/51IOp7VedHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51IOp7VedHL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '48.99'
 
 Ahora mismo tienes [Thermaltake Riing 14 LED RGB - Pack de 3 Ventiladores  Color Negro](https://www.amazon.es/dp/B017NS7B2G/?tag=tolees-21) a 44.99 EUR (original: 76.9 EUR) (41.50 %  de descuento) en el siguiente enlace!
 
-[![Thermaltake Riing 14 LED RGB - Pack de 3](https://m.media-amazon.com/images/I/51IOp7VedHL._SL200_.jpg)](https://www.amazon.es/dp/B017NS7B2G/?tag=tolees-21)
+[![Thermaltake Riing 14 LED RGB - Pack de 3](https://m.media-amazon.com/images/I/51IOp7VedHL._SL400_.jpg)](https://www.amazon.es/dp/B017NS7B2G/?tag=tolees-21)
 
 🔎:
 

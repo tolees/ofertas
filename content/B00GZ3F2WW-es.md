@@ -2,7 +2,7 @@
 layout: post
 title: 'Fonestar STV-649B - Soporte TV orientabl al 27.46 % de descuento'
 date: 2020-04-03 14:14:20
-image: 'https://m.media-amazon.com/images/I/31rmA3UGKqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31rmA3UGKqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.0'
 
 Ahora mismo tienes [Fonestar STV-649B - Soporte TV orientable brazo articulado](https://www.amazon.es/dp/B00GZ3F2WW/?tag=tolees-21) a 21.0 EUR (original: 28.95 EUR) (27.46 %  de descuento) en el siguiente enlace!
 
-[![Fonestar STV-649B - Soporte TV orientabl](https://m.media-amazon.com/images/I/31rmA3UGKqL._SL200_.jpg)](https://www.amazon.es/dp/B00GZ3F2WW/?tag=tolees-21)
+[![Fonestar STV-649B - Soporte TV orientabl](https://m.media-amazon.com/images/I/31rmA3UGKqL._SL400_.jpg)](https://www.amazon.es/dp/B00GZ3F2WW/?tag=tolees-21)
 
 🔎:
 

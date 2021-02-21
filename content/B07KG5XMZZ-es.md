@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 76.90 % en PUMA King Pro IT  Zapatillas de fútbol U'
 date: 2020-06-21 11:36:52
-image: 'https://m.media-amazon.com/images/I/31Vi4v+qIqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Vi4v+qIqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.09'
 
 Tienes [PUMA King Pro IT  Zapatillas de fútbol Unisex Adulto  Negro Black White  39 EU](https://www.amazon.es/dp/B07KG5XMZZ/?tag=tolees-21) con un 76.90 % de descuento con precio de oferta de 23.09 EUR (original: 99.95 EUR) en el siguiente enlace!
 
-[![PUMA King Pro IT  Zapatillas de fútbol U](https://m.media-amazon.com/images/I/31Vi4v+qIqL._SL200_.jpg)](https://www.amazon.es/dp/B07KG5XMZZ/?tag=tolees-21)
+[![PUMA King Pro IT  Zapatillas de fútbol U](https://m.media-amazon.com/images/I/31Vi4v+qIqL._SL400_.jpg)](https://www.amazon.es/dp/B07KG5XMZZ/?tag=tolees-21)
 
 ℹ️:
 

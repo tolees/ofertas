@@ -2,7 +2,7 @@
 layout: post
 title: 'Osram 64210 Original Line Lámpara Halóge al 46.95 % de descuento'
 date: 2020-05-08 11:24:21
-image: 'https://m.media-amazon.com/images/I/41OeLDVxmeL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41OeLDVxmeL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.0'
 
 Está [Osram 64210 Original Line Lámpara Halógena de Faros  1 Unidad ](https://www.amazon.es/dp/B000UXA6AQ/?tag=tolees-21) con 46.95 de descuento por 2.0 EUR (original: 3.77 EUR) en el siguiente enlace!
 
-[![Osram 64210 Original Line Lámpara Halóge](https://m.media-amazon.com/images/I/41OeLDVxmeL._SL200_.jpg)](https://www.amazon.es/dp/B000UXA6AQ/?tag=tolees-21)
+[![Osram 64210 Original Line Lámpara Halóge](https://m.media-amazon.com/images/I/41OeLDVxmeL._SL400_.jpg)](https://www.amazon.es/dp/B000UXA6AQ/?tag=tolees-21)
 
 ℹ️:
 

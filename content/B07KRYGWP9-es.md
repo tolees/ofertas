@@ -2,7 +2,7 @@
 layout: post
 title: 'Etnies Barge LS  Zapatillas de Skateboar al 29.35 % de rebaja'
 date: 2020-02-17 18:14:58
-image: 'https://m.media-amazon.com/images/I/31TafS0QGuL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31TafS0QGuL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.04'
 
 Tienes [Etnies Barge LS  Zapatillas de Skateboard para Hombre  Negro  Black/Green 985   42 EU](https://www.amazon.es/dp/B07KRYGWP9/?tag=tolees-21) con precio final de  17.04 EUR (original: 24.12 EUR) (29.35 %  de rebaja) aqui!
 
-[![Etnies Barge LS  Zapatillas de Skateboar](https://m.media-amazon.com/images/I/31TafS0QGuL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07KRYGWP9/?tag=tolees-21)
+[![Etnies Barge LS  Zapatillas de Skateboar](https://m.media-amazon.com/images/I/31TafS0QGuL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07KRYGWP9/?tag=tolees-21)
 
 🔎:
 

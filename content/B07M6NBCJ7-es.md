@@ -2,7 +2,7 @@
 layout: post
 title: 'BRIKSMAX Kit de Iluminación Led para Har al 31.75 % de descuento'
 date: 2020-04-08 05:58:51
-image: 'https://m.media-amazon.com/images/I/51aysrXFldL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51aysrXFldL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '37.49'
 
 Ahora mismo tienes [BRIKSMAX Kit de Iluminación Led para Harry Potter-Gran Comedor de Hogwarts-Compatible con Ladrillos de Construcción Lego Modelo 75954-Juego de Legos no Incluido](https://www.amazon.es/dp/B07M6NBCJ7/?tag=tolees-21) a 42.99 EUR (original: 62.99 EUR) (31.75 %  de descuento) en el siguiente enlace!
 
-[![BRIKSMAX Kit de Iluminación Led para Har](https://m.media-amazon.com/images/I/51aysrXFldL._SL200_.jpg)](https://www.amazon.es/dp/B07M6NBCJ7/?tag=tolees-21)
+[![BRIKSMAX Kit de Iluminación Led para Har](https://m.media-amazon.com/images/I/51aysrXFldL._SL400_.jpg)](https://www.amazon.es/dp/B07M6NBCJ7/?tag=tolees-21)
 
 🔎:
 

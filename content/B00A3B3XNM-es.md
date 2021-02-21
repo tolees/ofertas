@@ -2,7 +2,7 @@
 layout: post
 title: 'Essie Esmalte de Uñas 52 Thigh High con un 59.92 % de descuento'
 date: 2020-08-06 20:33:20
-image: 'https://m.media-amazon.com/images/I/312q6RB2qxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/312q6RB2qxL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.79'
 
 En este momento está [Essie Esmalte de Uñas 52 Thigh High](https://www.amazon.es/dp/B00A3B3XNM/?tag=tolees-21) a 4.79 EUR (original: 11.95 EUR) (59.92 %  de descuento) en el siguiente enlace!
 
-[![Essie Esmalte de Uñas 52 Thigh High](https://m.media-amazon.com/images/I/312q6RB2qxL._SL200_.jpg)](https://www.amazon.es/dp/B00A3B3XNM/?tag=tolees-21)
+[![Essie Esmalte de Uñas 52 Thigh High](https://m.media-amazon.com/images/I/312q6RB2qxL._SL400_.jpg)](https://www.amazon.es/dp/B00A3B3XNM/?tag=tolees-21)
 
 🔎:
 

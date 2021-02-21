@@ -2,7 +2,7 @@
 layout: post
 title: 'Everlast 2260 Punching de Pie  Unisex  N al 40.01 % de rebaja'
 date: 2020-10-11 14:28:37
-image: 'https://m.media-amazon.com/images/I/21fmEVDDpTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21fmEVDDpTL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '71.99'
 
 Tienes [Everlast 2260 Punching de Pie  Unisex  Negro  Ajustable hasta 1 65 m de Altura](https://www.amazon.es/dp/B00B49QDGQ/?tag=tolees-21) con precio final de  71.99 EUR (original: 120.0 EUR) (40.01 %  de rebaja) aqui!
 
-[![Everlast 2260 Punching de Pie  Unisex  N](https://m.media-amazon.com/images/I/21fmEVDDpTL._SL200_.jpg)](https://www.amazon.es/dp/B00B49QDGQ/?tag=tolees-21)
+[![Everlast 2260 Punching de Pie  Unisex  N](https://m.media-amazon.com/images/I/21fmEVDDpTL._SL400_.jpg)](https://www.amazon.es/dp/B00B49QDGQ/?tag=tolees-21)
 
 🔎:
 

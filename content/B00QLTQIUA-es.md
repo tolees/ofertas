@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 25.00 % en Rayen Barra Extra de Armario  Acero  Gri'
 date: 2020-05-26 10:20:01
-image: 'https://m.media-amazon.com/images/I/21UZiqBwDsL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21UZiqBwDsL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.0'
 
 Tienes [Rayen Barra Extra de Armario  Acero  Gris  77 x 85 x 2](https://www.amazon.es/dp/B00QLTQIUA/?tag=tolees-21) con un 25.00 % de descuento con precio de oferta de 12.0 EUR (original: 16.0 EUR) en el siguiente enlace!
 
-[![Rayen Barra Extra de Armario  Acero  Gri](https://m.media-amazon.com/images/I/21UZiqBwDsL._SL200_.jpg)](https://www.amazon.es/dp/B00QLTQIUA/?tag=tolees-21)
+[![Rayen Barra Extra de Armario  Acero  Gri](https://m.media-amazon.com/images/I/21UZiqBwDsL._SL400_.jpg)](https://www.amazon.es/dp/B00QLTQIUA/?tag=tolees-21)
 
 ℹ️:
 

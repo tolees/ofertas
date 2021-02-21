@@ -2,7 +2,7 @@
 layout: post
 title: 'Orbegozo ADR 126 – Aire Acondicionado po con un 28.00 % de descuento'
 date: 2020-08-05 05:12:32
-image: 'https://m.media-amazon.com/images/I/31ir-aAaRVL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31ir-aAaRVL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '429.25'
 
 En este momento está [Orbegozo ADR 126 – Aire Acondicionado portátil con Bomba clasificación energética A/A+  frío/Calor   Mando a Distancia  deshumidificador  Pantalla LCD  Blanco](https://www.amazon.es/dp/B07T6JB3ZN/?tag=tolees-21) a 429.25 EUR (original: 596.15 EUR) (28.00 %  de descuento) en el siguiente enlace!
 
-[![Orbegozo ADR 126 – Aire Acondicionado po](https://m.media-amazon.com/images/I/31ir-aAaRVL._SL200_.jpg)](https://www.amazon.es/dp/B07T6JB3ZN/?tag=tolees-21)
+[![Orbegozo ADR 126 – Aire Acondicionado po](https://m.media-amazon.com/images/I/31ir-aAaRVL._SL400_.jpg)](https://www.amazon.es/dp/B07T6JB3ZN/?tag=tolees-21)
 
 🔎:
 

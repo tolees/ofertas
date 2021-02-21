@@ -2,7 +2,7 @@
 layout: post
 title: 'TACKLIFE M1 Compresor Aire Coche  Inflad al 25.01 % de descuento'
 date: 2020-10-04 13:13:10
-image: 'https://m.media-amazon.com/images/I/51C5pdmiPEL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51C5pdmiPEL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.99'
 
 Ahora mismo tienes [TACKLIFE M1 Compresor Aire Coche  Inflador Digital 150PSI  40L/Min  Compresor de Aire 12V  Bomba Electrico con Manómetro  Pantalla LCD  3 Modos de luz LED  Fusible Extra  4 Adaptadores de Boquilla](https://www.amazon.es/dp/B074T7Q2WB/?tag=tolees-21) a 29.99 EUR (original: 39.99 EUR) (25.01 %  de descuento) en el siguiente enlace!
 
-[![TACKLIFE M1 Compresor Aire Coche  Inflad](https://m.media-amazon.com/images/I/51C5pdmiPEL._SL200_.jpg)](https://www.amazon.es/dp/B074T7Q2WB/?tag=tolees-21)
+[![TACKLIFE M1 Compresor Aire Coche  Inflad](https://m.media-amazon.com/images/I/51C5pdmiPEL._SL400_.jpg)](https://www.amazon.es/dp/B074T7Q2WB/?tag=tolees-21)
 
 🔎:
 

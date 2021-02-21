@@ -2,7 +2,7 @@
 layout: post
 title: 'AYAMAYA Newsboy Gorra Gatsby Baker Boy G con un 31.61 % de descuento'
 date: 2020-04-18 10:28:13
-image: 'https://m.media-amazon.com/images/I/51EVXSsRu7L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51EVXSsRu7L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.99'
 
 En este momento está [AYAMAYA Newsboy Gorra Gatsby Baker Boy Gorra Plana de Tweed Ajustable Shelby Caps para Hombres y Mujeres](https://www.amazon.es/dp/B07K88LDCN/?tag=tolees-21) a 23.99 EUR (original: 35.08 EUR) (31.61 %  de descuento) en el siguiente enlace!
 
-[![AYAMAYA Newsboy Gorra Gatsby Baker Boy G](https://m.media-amazon.com/images/I/51EVXSsRu7L._SL200_.jpg)](https://www.amazon.es/dp/B07K88LDCN/?tag=tolees-21)
+[![AYAMAYA Newsboy Gorra Gatsby Baker Boy G](https://m.media-amazon.com/images/I/51EVXSsRu7L._SL400_.jpg)](https://www.amazon.es/dp/B07K88LDCN/?tag=tolees-21)
 
 🔎:
 

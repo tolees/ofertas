@@ -2,7 +2,7 @@
 layout: post
 title: 'FITTOO Leggings Sin Costuras Corte de Ma al 44.15 % de descuento'
 date: 2020-04-15 08:49:57
-image: 'https://m.media-amazon.com/images/I/31HvJrE-+BL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31HvJrE-+BL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.389999999999997'
 
 Ahora mismo tienes [FITTOO Leggings Sin Costuras Corte de Malla Mujer Pantalon Deportivo Alta Cintura Yoga Elásticos Fitness Seamless #1 Rojo Medium](https://www.amazon.es/dp/B07SGHQBWJ/?tag=tolees-21) a 18.99 EUR (original: 34.0 EUR) (44.15 %  de descuento) en el siguiente enlace!
 
-[![FITTOO Leggings Sin Costuras Corte de Ma](https://m.media-amazon.com/images/I/31HvJrE-+BL._SL200_.jpg)](https://www.amazon.es/dp/B07SGHQBWJ/?tag=tolees-21)
+[![FITTOO Leggings Sin Costuras Corte de Ma](https://m.media-amazon.com/images/I/31HvJrE-+BL._SL400_.jpg)](https://www.amazon.es/dp/B07SGHQBWJ/?tag=tolees-21)
 
 🔎:
 

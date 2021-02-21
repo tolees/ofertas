@@ -2,7 +2,7 @@
 layout: post
 title: 'Funko Pop: Fortnite: Raptor  multicolor  con un 33.96 % de descuento'
 date: 2020-10-08 09:52:41
-image: 'https://m.media-amazon.com/images/I/412XgWV2CCL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/412XgWV2CCL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.33'
 
 En este momento está [Funko Pop: Fortnite: Raptor  multicolor  36823    color/modelo surtido](https://www.amazon.es/dp/B07HPZR8DZ/?tag=tolees-21) a 9.9 EUR (original: 14.99 EUR) (33.96 %  de descuento) en el siguiente enlace!
 
-[![Funko Pop: Fortnite: Raptor  multicolor ](https://m.media-amazon.com/images/I/412XgWV2CCL._SL200_.jpg)](https://www.amazon.es/dp/B07HPZR8DZ/?tag=tolees-21)
+[![Funko Pop: Fortnite: Raptor  multicolor ](https://m.media-amazon.com/images/I/412XgWV2CCL._SL400_.jpg)](https://www.amazon.es/dp/B07HPZR8DZ/?tag=tolees-21)
 
 🔎:
 

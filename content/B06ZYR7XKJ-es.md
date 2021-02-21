@@ -2,7 +2,7 @@
 layout: post
 title: 'Saint Seiya Hade Sanctuary Blu-Ray [Blu- al 26.97 % de descuento'
 date: 2020-01-26 09:42:02
-image: 'https://m.media-amazon.com/images/I/61mmPXzBZ6L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61mmPXzBZ6L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.786666666666665'
 
 Ahora mismo tienes [Saint Seiya Hade Sanctuary Blu-Ray [Blu-ray]](https://www.amazon.es/dp/B06ZYR7XKJ/?tag=tolees-21) a 18.68 EUR (original: 25.58 EUR) (26.97 %  de descuento) en el siguiente enlace!
 
-[![Saint Seiya Hade Sanctuary Blu-Ray [Blu-](https://m.media-amazon.com/images/I/61mmPXzBZ6L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B06ZYR7XKJ/?tag=tolees-21)
+[![Saint Seiya Hade Sanctuary Blu-Ray [Blu-](https://m.media-amazon.com/images/I/61mmPXzBZ6L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B06ZYR7XKJ/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Junio1 Cubierta de Techo con Dosel Girat al 38.58 % de rebaja'
 date: 2020-05-27 16:09:36
-image: 'https://m.media-amazon.com/images/I/51A-1L0b5VL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51A-1L0b5VL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '63.239999999999995'
 
 Tienes [Junio1 Cubierta de Techo con Dosel Giratorio para Patio Exterior Jardinería](https://www.amazon.es/dp/B088NC9B9B/?tag=tolees-21) con precio final de  42.99 EUR (original: 69.99 EUR) (38.58 %  de rebaja) aqui!
 
-[![Junio1 Cubierta de Techo con Dosel Girat](https://m.media-amazon.com/images/I/51A-1L0b5VL._SL200_.jpg)](https://www.amazon.es/dp/B088NC9B9B/?tag=tolees-21)
+[![Junio1 Cubierta de Techo con Dosel Girat](https://m.media-amazon.com/images/I/51A-1L0b5VL._SL400_.jpg)](https://www.amazon.es/dp/B088NC9B9B/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Handy Bag Bolsas de Basura 50L  Extra Re al 59.85 % de descuento'
 date: 2020-06-22 11:49:01
-image: 'https://m.media-amazon.com/images/I/51dK1V-izuL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51dK1V-izuL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.1'
 
 Está [Handy Bag Bolsas de Basura 50L  Extra Resistentes  No Gotean  10 Bolsas](https://www.amazon.es/dp/B01LYZHZAJ/?tag=tolees-21) con 59.85 de descuento por 1.1 EUR (original: 2.74 EUR) en el siguiente enlace!
 
-[![Handy Bag Bolsas de Basura 50L  Extra Re](https://m.media-amazon.com/images/I/51dK1V-izuL._SL200_.jpg)](https://www.amazon.es/dp/B01LYZHZAJ/?tag=tolees-21)
+[![Handy Bag Bolsas de Basura 50L  Extra Re](https://m.media-amazon.com/images/I/51dK1V-izuL._SL400_.jpg)](https://www.amazon.es/dp/B01LYZHZAJ/?tag=tolees-21)
 
 ℹ️:
 

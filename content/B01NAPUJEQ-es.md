@@ -2,7 +2,7 @@
 layout: post
 title: 'Reloj para hombre Tommy Hilfiger 1791346 al 40.74 % de descuento'
 date: 2020-05-15 11:32:12
-image: 'https://m.media-amazon.com/images/I/41GHMWq4kUL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41GHMWq4kUL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '108.0425'
 
 Está [Reloj para hombre Tommy Hilfiger 1791346.](https://www.amazon.es/dp/B01NAPUJEQ/?tag=tolees-21) con 40.74 de descuento por 112.0 EUR (original: 189.0 EUR) en el siguiente enlace!
 
-[![Reloj para hombre Tommy Hilfiger 1791346](https://m.media-amazon.com/images/I/41GHMWq4kUL._SL200_.jpg)](https://www.amazon.es/dp/B01NAPUJEQ/?tag=tolees-21)
+[![Reloj para hombre Tommy Hilfiger 1791346](https://m.media-amazon.com/images/I/41GHMWq4kUL._SL400_.jpg)](https://www.amazon.es/dp/B01NAPUJEQ/?tag=tolees-21)
 
 ℹ️:
 

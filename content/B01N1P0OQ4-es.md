@@ -2,7 +2,7 @@
 layout: post
 title: 'B+W 1089607 - Soporte para filtros  100  al 28.90 % de rebaja'
 date: 2020-01-27 23:52:53
-image: 'https://m.media-amazon.com/images/I/419y2jAii+L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/419y2jAii+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '30.11'
 
 Tienes [B+W 1089607 - Soporte para filtros  100 x 100 ](https://www.amazon.es/dp/B01N1P0OQ4/?tag=tolees-21) con precio final de  30.11 EUR (original: 42.35 EUR) (28.90 %  de rebaja) aqui!
 
-[![B+W 1089607 - Soporte para filtros  100 ](https://m.media-amazon.com/images/I/419y2jAii+L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01N1P0OQ4/?tag=tolees-21)
+[![B+W 1089607 - Soporte para filtros  100 ](https://m.media-amazon.com/images/I/419y2jAii+L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01N1P0OQ4/?tag=tolees-21)
 
 🔎:
 

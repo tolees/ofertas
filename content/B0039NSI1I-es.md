@@ -2,7 +2,7 @@
 layout: post
 title: 'Wella Sp Volumize Shampoo Champú - 250 m al 38.85 % de descuento'
 date: 2020-03-27 23:19:13
-image: 'https://m.media-amazon.com/images/I/316Chxykc4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/316Chxykc4L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.379999999999999'
 
 Está [Wella Sp Volumize Shampoo Champú - 250 ml](https://www.amazon.es/dp/B0039NSI1I/?tag=tolees-21) con 38.85 de descuento por 9.98 EUR (original: 16.32 EUR) en el siguiente enlace!
 
-[![Wella Sp Volumize Shampoo Champú - 250 m](https://m.media-amazon.com/images/I/316Chxykc4L._SL200_.jpg)](https://www.amazon.es/dp/B0039NSI1I/?tag=tolees-21)
+[![Wella Sp Volumize Shampoo Champú - 250 m](https://m.media-amazon.com/images/I/316Chxykc4L._SL400_.jpg)](https://www.amazon.es/dp/B0039NSI1I/?tag=tolees-21)
 
 ℹ️:
 

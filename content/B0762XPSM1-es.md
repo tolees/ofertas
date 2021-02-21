@@ -2,7 +2,7 @@
 layout: post
 title: 'Weider Mega Mass 4000 Sabor Chocolate  4 al 41.51 % de descuento'
 date: 2020-07-25 18:43:35
-image: 'https://m.media-amazon.com/images/I/51+BlfTIKgL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51+BlfTIKgL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '39.766666666666666'
 
 Está [Weider Mega Mass 4000 Sabor Chocolate  4000 g . 69% de hidratos.Enriquecido con Vitaminas y Minerales.  Con menos azúcares](https://www.amazon.es/dp/B0762XPSM1/?tag=tolees-21) con 41.51 de descuento por 37.96 EUR (original: 64.9 EUR) en el siguiente enlace!
 
-[![Weider Mega Mass 4000 Sabor Chocolate  4](https://m.media-amazon.com/images/I/51+BlfTIKgL._SL200_.jpg)](https://www.amazon.es/dp/B0762XPSM1/?tag=tolees-21)
+[![Weider Mega Mass 4000 Sabor Chocolate  4](https://m.media-amazon.com/images/I/51+BlfTIKgL._SL400_.jpg)](https://www.amazon.es/dp/B0762XPSM1/?tag=tolees-21)
 
 ℹ️:
 

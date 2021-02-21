@@ -2,7 +2,7 @@
 layout: post
 title: 'HP C9380A - Cabezal de Impresora  Gris y con un 31.79 % de descuento'
 date: 2020-05-30 19:07:17
-image: 'https://m.media-amazon.com/images/I/51KA5ot0yLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51KA5ot0yLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '73.80666666666667'
 
 En este momento está [HP C9380A - Cabezal de Impresora  Gris y Negro fotográfico](https://www.amazon.es/dp/B000PHO8SI/?tag=tolees-21) a 75.99 EUR (original: 111.4 EUR) (31.79 %  de descuento) en el siguiente enlace!
 
-[![HP C9380A - Cabezal de Impresora  Gris y](https://m.media-amazon.com/images/I/51KA5ot0yLL._SL200_.jpg)](https://www.amazon.es/dp/B000PHO8SI/?tag=tolees-21)
+[![HP C9380A - Cabezal de Impresora  Gris y](https://m.media-amazon.com/images/I/51KA5ot0yLL._SL400_.jpg)](https://www.amazon.es/dp/B000PHO8SI/?tag=tolees-21)
 
 🔎:
 

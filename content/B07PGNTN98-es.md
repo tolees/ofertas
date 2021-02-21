@@ -2,7 +2,7 @@
 layout: post
 title: 'New Balance Trail Nitrel  Zapatillas de  con un 30.01 % de descuento'
 date: 2020-01-04 21:47:11
-image: 'https://images-eu.ssl-images-amazon.com/images/I/411ruAlA11L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411ruAlA11L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '52.49'
 
 En este momento está [New Balance Trail Nitrel  Zapatillas de Running para Asfalto para Hombre  Negro  Black/Yellow Black/Yellow   45 EU](https://www.amazon.es/dp/B07PGNTN98/?tag=tolees-21) a 52.49 EUR (original: 75 EUR) (30.01 %  de descuento) en el siguiente enlace!
 
-[![New Balance Trail Nitrel  Zapatillas de ](https://images-eu.ssl-images-amazon.com/images/I/411ruAlA11L._SL200_.jpg)](https://www.amazon.es/dp/B07PGNTN98/?tag=tolees-21)
+[![New Balance Trail Nitrel  Zapatillas de ](https://images-eu.ssl-images-amazon.com/images/I/411ruAlA11L._SL400_.jpg)](https://www.amazon.es/dp/B07PGNTN98/?tag=tolees-21)
 
 🔎:
 

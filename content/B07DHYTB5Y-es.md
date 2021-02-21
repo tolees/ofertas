@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 32.85 % en Lacoste Carnaby EVO BL 2 SUI  Zapatillas'
 date: 2020-04-29 11:14:23
-image: 'https://m.media-amazon.com/images/I/31ZH3ezvdsL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31ZH3ezvdsL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '26.37'
 
 Tienes [Lacoste Carnaby EVO BL 2 SUI  Zapatillas Unisex Niños  Blanco  B53 White/Pink   23 EU](https://www.amazon.es/dp/B07DHYTB5Y/?tag=tolees-21) con un 32.85 % de descuento con precio de oferta de 26.37 EUR (original: 39.27 EUR) en el siguiente enlace!
 
-[![Lacoste Carnaby EVO BL 2 SUI  Zapatillas](https://m.media-amazon.com/images/I/31ZH3ezvdsL._SL200_.jpg)](https://www.amazon.es/dp/B07DHYTB5Y/?tag=tolees-21)
+[![Lacoste Carnaby EVO BL 2 SUI  Zapatillas](https://m.media-amazon.com/images/I/31ZH3ezvdsL._SL400_.jpg)](https://www.amazon.es/dp/B07DHYTB5Y/?tag=tolees-21)
 
 ℹ️:
 

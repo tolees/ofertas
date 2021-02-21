@@ -2,7 +2,7 @@
 layout: post
 title: 'knowing 100MM Blanco Corazón Madera Roda al 50.53 % de rebaja'
 date: 2020-04-04 13:18:24
-image: 'https://m.media-amazon.com/images/I/51ETz97e-KL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51ETz97e-KL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.89'
 
 Tienes [knowing 100MM Blanco Corazón Madera Rodajas Discos para Bricolaje Manualidades Adornos San Valentín Regalo DIY 20pcs](https://www.amazon.es/dp/B076Z6PS9J/?tag=tolees-21) con precio final de  9.89 EUR (original: 19.99 EUR) (50.53 %  de rebaja) aqui!
 
-[![knowing 100MM Blanco Corazón Madera Roda](https://m.media-amazon.com/images/I/51ETz97e-KL._SL200_.jpg)](https://www.amazon.es/dp/B076Z6PS9J/?tag=tolees-21)
+[![knowing 100MM Blanco Corazón Madera Roda](https://m.media-amazon.com/images/I/51ETz97e-KL._SL400_.jpg)](https://www.amazon.es/dp/B076Z6PS9J/?tag=tolees-21)
 
 🔎:
 

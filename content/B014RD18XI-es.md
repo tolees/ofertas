@@ -2,7 +2,7 @@
 layout: post
 title: 'Elten 2062237 - Luis s3 tamaño 49 zapato con un 86.23 % de descuento'
 date: 2020-01-21 13:02:06
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41m-oVyQUqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41m-oVyQUqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.19'
 
 En este momento está [Elten 2062237 - Luis s3 tamaño 49 zapato de seguridad](https://www.amazon.es/dp/B014RD18XI/?tag=tolees-21) a 16.19 EUR (original: 117.54 EUR) (86.23 %  de descuento) en el siguiente enlace!
 
-[![Elten 2062237 - Luis s3 tamaño 49 zapato](https://images-eu.ssl-images-amazon.com/images/I/41m-oVyQUqL._SL200_.jpg)](https://www.amazon.es/dp/B014RD18XI/?tag=tolees-21)
+[![Elten 2062237 - Luis s3 tamaño 49 zapato](https://images-eu.ssl-images-amazon.com/images/I/41m-oVyQUqL._SL400_.jpg)](https://www.amazon.es/dp/B014RD18XI/?tag=tolees-21)
 
 🔎:
 

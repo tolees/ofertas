@@ -2,7 +2,7 @@
 layout: post
 title: 'Disney Pijamas de Manga Corta para niñas con un 25.08 % de descuento'
 date: 2020-08-30 04:26:45
-image: 'https://m.media-amazon.com/images/I/41Iy0UxIkgL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Iy0UxIkgL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.95'
 
 En este momento está [Disney Pijamas de Manga Corta para niñas La Sirenita Naranja 6-7 Años](https://www.amazon.es/dp/B086PZVF3X/?tag=tolees-21) a 11.95 EUR (original: 15.95 EUR) (25.08 %  de descuento) en el siguiente enlace!
 
-[![Disney Pijamas de Manga Corta para niñas](https://m.media-amazon.com/images/I/41Iy0UxIkgL._SL200_.jpg)](https://www.amazon.es/dp/B086PZVF3X/?tag=tolees-21)
+[![Disney Pijamas de Manga Corta para niñas](https://m.media-amazon.com/images/I/41Iy0UxIkgL._SL400_.jpg)](https://www.amazon.es/dp/B086PZVF3X/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Ferilinso Funda para Xiaomi Redmi S3/ Re al 47.09 % de descuento'
 date: 2020-01-11 16:31:22
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51AaBSFPbML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51AaBSFPbML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.656666666666666'
 
 Está [Ferilinso Funda para Xiaomi Redmi S3/ Redmi 7 Funda [Reforzar la versión con Cuatro Esquinas][Funda Protectora de la cámara] Funda Protectora de Silicona de Piel de Goma TPU a Prueba  Transparente ](https://www.amazon.es/dp/B07Q37QM1V/?tag=tolees-21) con 47.09 de descuento por 8.99 EUR (original: 16.99 EUR) en el siguiente enlace!
 
-[![Ferilinso Funda para Xiaomi Redmi S3/ Re](https://images-eu.ssl-images-amazon.com/images/I/51AaBSFPbML._SL200_.jpg)](https://www.amazon.es/dp/B07Q37QM1V/?tag=tolees-21)
+[![Ferilinso Funda para Xiaomi Redmi S3/ Re](https://images-eu.ssl-images-amazon.com/images/I/51AaBSFPbML._SL400_.jpg)](https://www.amazon.es/dp/B07Q37QM1V/?tag=tolees-21)
 
 ℹ️:
 

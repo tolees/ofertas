@@ -2,7 +2,7 @@
 layout: post
 title: 'Hugo Boss Orange 1513408 - Reloj de puls al 51.16 % de descuento'
 date: 2020-07-14 15:31:44
-image: 'https://m.media-amazon.com/images/I/51SJYzsTCfL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51SJYzsTCfL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '69.82'
 
 Está [Hugo Boss Orange 1513408 - Reloj de pulsera para hombre](https://www.amazon.es/dp/B01JLIRWTS/?tag=tolees-21) con 51.16 de descuento por 63.0 EUR (original: 129.0 EUR) en el siguiente enlace!
 
-[![Hugo Boss Orange 1513408 - Reloj de puls](https://m.media-amazon.com/images/I/51SJYzsTCfL._SL200_.jpg)](https://www.amazon.es/dp/B01JLIRWTS/?tag=tolees-21)
+[![Hugo Boss Orange 1513408 - Reloj de puls](https://m.media-amazon.com/images/I/51SJYzsTCfL._SL400_.jpg)](https://www.amazon.es/dp/B01JLIRWTS/?tag=tolees-21)
 
 ℹ️:
 

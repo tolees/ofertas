@@ -2,7 +2,7 @@
 layout: post
 title: 'Instituto Español Piel Sana Crema Corpor al 35.00 % de descuento'
 date: 2020-07-09 19:06:52
-image: 'https://m.media-amazon.com/images/I/51zXKlQrAyL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51zXKlQrAyL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.99'
 
 Está [Instituto Español Piel Sana Crema Corporal Hidratante - 400 ml](https://www.amazon.es/dp/B06ZZQFQKQ/?tag=tolees-21) con 35.00 de descuento por 2.99 EUR (original: 4.6 EUR) en el siguiente enlace!
 
-[![Instituto Español Piel Sana Crema Corpor](https://m.media-amazon.com/images/I/51zXKlQrAyL._SL200_.jpg)](https://www.amazon.es/dp/B06ZZQFQKQ/?tag=tolees-21)
+[![Instituto Español Piel Sana Crema Corpor](https://m.media-amazon.com/images/I/51zXKlQrAyL._SL400_.jpg)](https://www.amazon.es/dp/B06ZZQFQKQ/?tag=tolees-21)
 
 ℹ️:
 

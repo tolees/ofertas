@@ -2,7 +2,7 @@
 layout: post
 title: 'HyperX Impact DDR4 HX432S20IBK2/32 Memor al 50.00 % de rebaja'
 date: 2020-06-05 20:30:52
-image: 'https://m.media-amazon.com/images/I/41Fm712y+8L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Fm712y+8L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '169.94'
 
 Tienes [HyperX Impact DDR4 HX432S20IBK2/32 Memoria RAM 3200MHz CL20 SODIMM 32GB Kit  2x16GB ](https://www.amazon.es/dp/B07BGLKD4M/?tag=tolees-21) con precio final de  139.0 EUR (original: 277.99 EUR) (50.00 %  de rebaja) aqui!
 
-[![HyperX Impact DDR4 HX432S20IBK2/32 Memor](https://m.media-amazon.com/images/I/41Fm712y+8L._SL200_.jpg)](https://www.amazon.es/dp/B07BGLKD4M/?tag=tolees-21)
+[![HyperX Impact DDR4 HX432S20IBK2/32 Memor](https://m.media-amazon.com/images/I/41Fm712y+8L._SL400_.jpg)](https://www.amazon.es/dp/B07BGLKD4M/?tag=tolees-21)
 
 🔎:
 

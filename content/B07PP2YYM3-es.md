@@ -2,7 +2,7 @@
 layout: post
 title: 'Warxin Funda para Huawei P30  Ultra Hybr con un 41.70 % de descuento'
 date: 2020-05-19 19:32:07
-image: 'https://m.media-amazon.com/images/I/41gR4udfriL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41gR4udfriL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.99'
 
 En este momento está [Warxin Funda para Huawei P30  Ultra Hybrid TPU Transparente Funda  Phone Case Cover  Absorcion de Choque Cojín de Esquina Parachoques con Marco Reforzado para Huawei P30](https://www.amazon.es/dp/B07PP2YYM3/?tag=tolees-21) a 6.99 EUR (original: 11.99 EUR) (41.70 %  de descuento) en el siguiente enlace!
 
-[![Warxin Funda para Huawei P30  Ultra Hybr](https://m.media-amazon.com/images/I/41gR4udfriL._SL200_.jpg)](https://www.amazon.es/dp/B07PP2YYM3/?tag=tolees-21)
+[![Warxin Funda para Huawei P30  Ultra Hybr](https://m.media-amazon.com/images/I/41gR4udfriL._SL400_.jpg)](https://www.amazon.es/dp/B07PP2YYM3/?tag=tolees-21)
 
 🔎:
 

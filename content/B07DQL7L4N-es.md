@@ -2,7 +2,7 @@
 layout: post
 title: 'Lámpara Escritorio LED  Lámparas de Mesa al 34.49 % de rebaja'
 date: 2020-07-22 12:38:43
-image: 'https://m.media-amazon.com/images/I/31y8deMSsmL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31y8deMSsmL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.528461538461535'
 
 Tienes [Lámpara Escritorio LED  Lámparas de Mesa USB Regulable Recargable - AUELEK 1800mAh Plegable Luz/Diseño Giratorio/Control Táctil/ 3 Niveles de Brillo/ 5 Temperaturas para Relax  Estudio  Lectura](https://www.amazon.es/dp/B07DQL7L4N/?tag=tolees-21) con precio final de  18.99 EUR (original: 28.99 EUR) (34.49 %  de rebaja) aqui!
 
-[![Lámpara Escritorio LED  Lámparas de Mesa](https://m.media-amazon.com/images/I/31y8deMSsmL._SL200_.jpg)](https://www.amazon.es/dp/B07DQL7L4N/?tag=tolees-21)
+[![Lámpara Escritorio LED  Lámparas de Mesa](https://m.media-amazon.com/images/I/31y8deMSsmL._SL400_.jpg)](https://www.amazon.es/dp/B07DQL7L4N/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Cecotec Barbacoa eléctrica PerfectSteak  al 29.86 % de descuento'
 date: 2020-08-20 07:10:17
-image: 'https://m.media-amazon.com/images/I/51eovvKT--L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51eovvKT--L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '38.34444444444445'
 
 Ahora mismo tienes [Cecotec Barbacoa eléctrica PerfectSteak 4250 Stand con 2400 W  Parrilla de Acero Inoxidable  Soportes con Gran Superficie  3 Niveles de Altura y Panel Cortavientos.](https://www.amazon.es/dp/B07L147KMD/?tag=tolees-21) a 35.0 EUR (original: 49.9 EUR) (29.86 %  de descuento) en el siguiente enlace!
 
-[![Cecotec Barbacoa eléctrica PerfectSteak ](https://m.media-amazon.com/images/I/51eovvKT--L._SL200_.jpg)](https://www.amazon.es/dp/B07L147KMD/?tag=tolees-21)
+[![Cecotec Barbacoa eléctrica PerfectSteak ](https://m.media-amazon.com/images/I/51eovvKT--L._SL400_.jpg)](https://www.amazon.es/dp/B07L147KMD/?tag=tolees-21)
 
 🔎:
 

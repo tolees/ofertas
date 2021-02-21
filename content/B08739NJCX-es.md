@@ -2,7 +2,7 @@
 layout: post
 title: 'Anillo de Luz LED Fotografia de Escritor al 26.33 % de rebaja'
 date: 2020-08-15 10:28:17
-image: 'https://m.media-amazon.com/images/I/51oCkheJ9RL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51oCkheJ9RL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.99'
 
 Tienes [Anillo de Luz LED Fotografia de Escritorio  8" Ring Light con Soporte Giratorio de teléfono  Movil Trípode y Wireless Control Remoto  Aro de Luz para Selfie  Maquillaje  Youtube  TIK Tok etc](https://www.amazon.es/dp/B08739NJCX/?tag=tolees-21) con precio final de  13.99 EUR (original: 18.99 EUR) (26.33 %  de rebaja) aqui!
 
-[![Anillo de Luz LED Fotografia de Escritor](https://m.media-amazon.com/images/I/51oCkheJ9RL._SL200_.jpg)](https://www.amazon.es/dp/B08739NJCX/?tag=tolees-21)
+[![Anillo de Luz LED Fotografia de Escritor](https://m.media-amazon.com/images/I/51oCkheJ9RL._SL400_.jpg)](https://www.amazon.es/dp/B08739NJCX/?tag=tolees-21)
 
 🔎:
 

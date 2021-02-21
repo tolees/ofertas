@@ -2,7 +2,7 @@
 layout: post
 title: 'K&N AL-1010 Filtro de Aire para Aprilia  al 46.78 % de descuento'
 date: 2020-05-06 13:59:41
-image: 'https://m.media-amazon.com/images/I/41rQwX0wvUL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41rQwX0wvUL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '54.69'
 
 Ahora mismo tienes [K&N AL-1010 Filtro de Aire para Aprilia RSV4R FACTORY 2009-2013 Moto](https://www.amazon.es/dp/B006O87VUY/?tag=tolees-21) a 54.69 EUR (original: 102.76 EUR) (46.78 %  de descuento) en el siguiente enlace!
 
-[![K&N AL-1010 Filtro de Aire para Aprilia ](https://m.media-amazon.com/images/I/41rQwX0wvUL._SL200_.jpg)](https://www.amazon.es/dp/B006O87VUY/?tag=tolees-21)
+[![K&N AL-1010 Filtro de Aire para Aprilia ](https://m.media-amazon.com/images/I/41rQwX0wvUL._SL400_.jpg)](https://www.amazon.es/dp/B006O87VUY/?tag=tolees-21)
 
 🔎:
 

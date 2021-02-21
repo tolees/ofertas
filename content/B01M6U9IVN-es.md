@@ -2,7 +2,7 @@
 layout: post
 title: 'Umbro Loyal Pantalones  Hombre  Negro  L al 33.39 % de rebaja'
 date: 2020-01-12 15:03:59
-image: 'https://images-eu.ssl-images-amazon.com/images/I/311J%2Btq2ncL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/311J%2Btq2ncL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.99'
 
 Tienes [Umbro Loyal Pantalones  Hombre  Negro  L](https://www.amazon.es/dp/B01M6U9IVN/?tag=tolees-21) con precio final de  11.99 EUR (original: 18 EUR) (33.39 %  de rebaja) aqui!
 
-[![Umbro Loyal Pantalones  Hombre  Negro  L](https://images-eu.ssl-images-amazon.com/images/I/311J%2Btq2ncL._SL200_.jpg)](https://www.amazon.es/dp/B01M6U9IVN/?tag=tolees-21)
+[![Umbro Loyal Pantalones  Hombre  Negro  L](https://images-eu.ssl-images-amazon.com/images/I/311J%2Btq2ncL._SL400_.jpg)](https://www.amazon.es/dp/B01M6U9IVN/?tag=tolees-21)
 
 🔎:
 

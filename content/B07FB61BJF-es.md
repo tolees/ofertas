@@ -2,7 +2,7 @@
 layout: post
 title: 'Yosoy - Bebida de Avena - Caja de 8 pack al 41.67 % de descuento'
 date: 2020-05-29 08:20:55
-image: 'https://m.media-amazon.com/images/I/4184WHcRzDL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/4184WHcRzDL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.4'
 
 Está [Yosoy - Bebida de Avena - Caja de 8 packs de 3x250ml](https://www.amazon.es/dp/B07FB61BJF/?tag=tolees-21) con 41.67 de descuento por 8.4 EUR (original: 14.4 EUR) en el siguiente enlace!
 
-[![Yosoy - Bebida de Avena - Caja de 8 pack](https://m.media-amazon.com/images/I/4184WHcRzDL._SL200_.jpg)](https://www.amazon.es/dp/B07FB61BJF/?tag=tolees-21)
+[![Yosoy - Bebida de Avena - Caja de 8 pack](https://m.media-amazon.com/images/I/4184WHcRzDL._SL400_.jpg)](https://www.amazon.es/dp/B07FB61BJF/?tag=tolees-21)
 
 ℹ️:
 

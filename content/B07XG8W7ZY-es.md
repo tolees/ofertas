@@ -2,7 +2,7 @@
 layout: post
 title: 'Ferilinso Funda para Xiaomi Redmi Note 8 al 74.66 % de descuento'
 date: 2020-01-16 18:57:45
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41TqvX1tqvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41TqvX1tqvL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.99'
 
 Ahora mismo tienes [Ferilinso Funda para Xiaomi Redmi Note 8 Pro Elegante Armadura híbrida Robusta Funda de Doble Capa de Alta Resistencia para PC Duro Caso para Funda Xiaomi Redmi Note 8 Pro  Negro ](https://www.amazon.es/dp/B07XG8W7ZY/?tag=tolees-21) a 7.99 EUR (original: 31.53 EUR) (74.66 %  de descuento) en el siguiente enlace!
 
-[![Ferilinso Funda para Xiaomi Redmi Note 8](https://images-eu.ssl-images-amazon.com/images/I/41TqvX1tqvL._SL200_.jpg)](https://www.amazon.es/dp/B07XG8W7ZY/?tag=tolees-21)
+[![Ferilinso Funda para Xiaomi Redmi Note 8](https://images-eu.ssl-images-amazon.com/images/I/41TqvX1tqvL._SL400_.jpg)](https://www.amazon.es/dp/B07XG8W7ZY/?tag=tolees-21)
 
 🔎:
 

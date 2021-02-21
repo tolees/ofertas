@@ -2,7 +2,7 @@
 layout: post
 title: 'Funda para teléfono Sports Girl Pattern  al 33.43 % de descuento'
 date: 2020-05-17 12:32:51
-image: 'https://m.media-amazon.com/images/I/41hHqI-z8mL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41hHqI-z8mL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.39'
 
 Ahora mismo tienes [Funda para teléfono Sports Girl Pattern Resistente a los Golpes Protección Suave para teléfonos móviles Accesorios para el hogar del teléfono móvil para el hogar - J6684-Pt](https://www.amazon.es/dp/B083NQF2DP/?tag=tolees-21) a 2.39 EUR (original: 3.59 EUR) (33.43 %  de descuento) en el siguiente enlace!
 
-[![Funda para teléfono Sports Girl Pattern ](https://m.media-amazon.com/images/I/41hHqI-z8mL._SL200_.jpg)](https://www.amazon.es/dp/B083NQF2DP/?tag=tolees-21)
+[![Funda para teléfono Sports Girl Pattern ](https://m.media-amazon.com/images/I/41hHqI-z8mL._SL400_.jpg)](https://www.amazon.es/dp/B083NQF2DP/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Orbegozo HO232 Horno eléctrico de sobrem al 26.86 % de rebaja'
 date: 2020-08-31 17:05:52
-image: 'https://m.media-amazon.com/images/I/41NcqslxvZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41NcqslxvZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '53.6527868852459'
 
 Tienes [Orbegozo HO232 Horno eléctrico de sobremesa  1500 W  23 litros  Gris](https://www.amazon.es/dp/B0079WCPFU/?tag=tolees-21) con precio final de  58.44 EUR (original: 79.9 EUR) (26.86 %  de rebaja) aqui!
 
-[![Orbegozo HO232 Horno eléctrico de sobrem](https://m.media-amazon.com/images/I/41NcqslxvZL._SL200_.jpg)](https://www.amazon.es/dp/B0079WCPFU/?tag=tolees-21)
+[![Orbegozo HO232 Horno eléctrico de sobrem](https://m.media-amazon.com/images/I/41NcqslxvZL._SL400_.jpg)](https://www.amazon.es/dp/B0079WCPFU/?tag=tolees-21)
 
 🔎:
 

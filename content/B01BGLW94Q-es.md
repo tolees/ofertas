@@ -2,7 +2,7 @@
 layout: post
 title: 'Biotherm Aquasource Crème SPF15 Tratamie al 36.48 % de rebaja'
 date: 2020-01-28 06:40:11
-image: 'https://m.media-amazon.com/images/I/31hR336CIEL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31hR336CIEL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.946666666666665'
 
 Tienes [Biotherm Aquasource Crème SPF15 Tratamiento Facial - 50 ml](https://www.amazon.es/dp/B01BGLW94Q/?tag=tolees-21) con precio final de  27.95 EUR (original: 44.0 EUR) (36.48 %  de rebaja) aqui!
 
-[![Biotherm Aquasource Crème SPF15 Tratamie](https://m.media-amazon.com/images/I/31hR336CIEL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01BGLW94Q/?tag=tolees-21)
+[![Biotherm Aquasource Crème SPF15 Tratamie](https://m.media-amazon.com/images/I/31hR336CIEL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01BGLW94Q/?tag=tolees-21)
 
 🔎:
 

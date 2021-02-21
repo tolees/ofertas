@@ -2,7 +2,7 @@
 layout: post
 title: 'Victoria S Secret Hombres 1 Unidad 200 g al 94.48 % de descuento'
 date: 2020-03-14 22:30:28
-image: 'https://m.media-amazon.com/images/I/31+74N67uqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31+74N67uqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.0'
 
 Está [Victoria S Secret Hombres 1 Unidad 200 g](https://www.amazon.es/dp/B016GGPXGW/?tag=tolees-21) con 94.48 de descuento por 1.0 EUR (original: 18.13 EUR) en el siguiente enlace!
 
-[![Victoria S Secret Hombres 1 Unidad 200 g](https://m.media-amazon.com/images/I/31+74N67uqL._SL200_.jpg)](https://www.amazon.es/dp/B016GGPXGW/?tag=tolees-21)
+[![Victoria S Secret Hombres 1 Unidad 200 g](https://m.media-amazon.com/images/I/31+74N67uqL._SL400_.jpg)](https://www.amazon.es/dp/B016GGPXGW/?tag=tolees-21)
 
 ℹ️:
 

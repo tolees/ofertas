@@ -2,7 +2,7 @@
 layout: post
 title: 'BAUSCH + LOMB - Renu® MultiPlus Solución al 41.86 % de descuento'
 date: 2020-07-30 22:21:42
-image: 'https://m.media-amazon.com/images/I/41jLVlBQvPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41jLVlBQvPL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.93'
 
 Está [BAUSCH + LOMB - Renu® MultiPlus Solución de Mantenimiento - Kit viaje Pack 2 botellas x 60 ml](https://www.amazon.es/dp/B07F28DY1W/?tag=tolees-21) con 41.86 de descuento por 5.93 EUR (original: 10.2 EUR) en el siguiente enlace!
 
-[![BAUSCH + LOMB - Renu® MultiPlus Solución](https://m.media-amazon.com/images/I/41jLVlBQvPL._SL200_.jpg)](https://www.amazon.es/dp/B07F28DY1W/?tag=tolees-21)
+[![BAUSCH + LOMB - Renu® MultiPlus Solución](https://m.media-amazon.com/images/I/41jLVlBQvPL._SL400_.jpg)](https://www.amazon.es/dp/B07F28DY1W/?tag=tolees-21)
 
 ℹ️:
 

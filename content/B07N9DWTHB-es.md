@@ -2,7 +2,7 @@
 layout: post
 title: 'Timex Reloj de Pulsera TW2R94100 al 34.52 % de rebaja'
 date: 2020-02-04 23:10:08
-image: 'https://m.media-amazon.com/images/I/314xRlkEvbL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/314xRlkEvbL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '85.52666666666667'
 
 Tienes [Timex Reloj de Pulsera TW2R94100](https://www.amazon.es/dp/B07N9DWTHB/?tag=tolees-21) con precio final de  77.92 EUR (original: 119.0 EUR) (34.52 %  de rebaja) aqui!
 
-[![Timex Reloj de Pulsera TW2R94100](https://m.media-amazon.com/images/I/314xRlkEvbL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07N9DWTHB/?tag=tolees-21)
+[![Timex Reloj de Pulsera TW2R94100](https://m.media-amazon.com/images/I/314xRlkEvbL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07N9DWTHB/?tag=tolees-21)
 
 🔎:
 

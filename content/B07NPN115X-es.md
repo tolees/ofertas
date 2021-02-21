@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 38.00 % en Tommy Hilfiger Corporate Flatform Sneake'
 date: 2020-07-20 09:10:56
-image: 'https://m.media-amazon.com/images/I/314XZNf0+XL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/314XZNf0+XL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '40.135'
 
 Tienes [Tommy Hilfiger Corporate Flatform Sneaker  Zapatillas para Mujer  Azul  Midnight 403 ](https://www.amazon.es/dp/B07NPN115X/?tag=tolees-21) con un 38.00 % de descuento con precio de oferta de 49.54 EUR (original: 79.9 EUR) en el siguiente enlace!
 
-[![Tommy Hilfiger Corporate Flatform Sneake](https://m.media-amazon.com/images/I/314XZNf0+XL._SL200_.jpg)](https://www.amazon.es/dp/B07NPN115X/?tag=tolees-21)
+[![Tommy Hilfiger Corporate Flatform Sneake](https://m.media-amazon.com/images/I/314XZNf0+XL._SL400_.jpg)](https://www.amazon.es/dp/B07NPN115X/?tag=tolees-21)
 
 ℹ️:
 

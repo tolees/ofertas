@@ -2,7 +2,7 @@
 layout: post
 title: 'Atomizador de Aftershave de Botella de A al 44.44 % de rebaja'
 date: 2020-05-12 12:37:16
-image: 'https://m.media-amazon.com/images/I/31Mh3PFBxTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Mh3PFBxTL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.75'
 
 Tienes [Atomizador de Aftershave de Botella de Aerosol de Perfume de Viaje 6ml Rellenable - Dorado](https://www.amazon.es/dp/B07H5LDY9R/?tag=tolees-21) con precio final de  3.75 EUR (original: 6.75 EUR) (44.44 %  de rebaja) aqui!
 
-[![Atomizador de Aftershave de Botella de A](https://m.media-amazon.com/images/I/31Mh3PFBxTL._SL200_.jpg)](https://www.amazon.es/dp/B07H5LDY9R/?tag=tolees-21)
+[![Atomizador de Aftershave de Botella de A](https://m.media-amazon.com/images/I/31Mh3PFBxTL._SL400_.jpg)](https://www.amazon.es/dp/B07H5LDY9R/?tag=tolees-21)
 
 🔎:
 

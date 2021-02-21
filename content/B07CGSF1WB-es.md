@@ -2,7 +2,7 @@
 layout: post
 title: 'L Óreal Paris Les Chocolats Labial Líqui al 52.97 % de descuento'
 date: 2020-04-04 10:54:53
-image: 'https://m.media-amazon.com/images/I/31t7Fh9ryBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31t7Fh9ryBL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.575'
 
 Está [L Óreal Paris Les Chocolats Labial Líquido Mate - Tono Nude rosado 852 Box of Chocolate](https://www.amazon.es/dp/B07CGSF1WB/?tag=tolees-21) con 52.97 de descuento por 5.15 EUR (original: 10.95 EUR) en el siguiente enlace!
 
-[![L Óreal Paris Les Chocolats Labial Líqui](https://m.media-amazon.com/images/I/31t7Fh9ryBL._SL200_.jpg)](https://www.amazon.es/dp/B07CGSF1WB/?tag=tolees-21)
+[![L Óreal Paris Les Chocolats Labial Líqui](https://m.media-amazon.com/images/I/31t7Fh9ryBL._SL400_.jpg)](https://www.amazon.es/dp/B07CGSF1WB/?tag=tolees-21)
 
 ℹ️:
 

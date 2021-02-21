@@ -2,7 +2,7 @@
 layout: post
 title: 'Revlon ColorStay Gel Envy Esmalte de Uña al 74.97 % de descuento'
 date: 2020-08-21 14:36:49
-image: 'https://m.media-amazon.com/images/I/310HpBOXmzL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/310HpBOXmzL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.99'
 
 Está [Revlon ColorStay Gel Envy Esmalte de Uñas de Larga Duración 11 7ml  Roulette Rush ](https://www.amazon.es/dp/B00LUFSUF6/?tag=tolees-21) con 74.97 de descuento por 1.99 EUR (original: 7.95 EUR) en el siguiente enlace!
 
-[![Revlon ColorStay Gel Envy Esmalte de Uña](https://m.media-amazon.com/images/I/310HpBOXmzL._SL200_.jpg)](https://www.amazon.es/dp/B00LUFSUF6/?tag=tolees-21)
+[![Revlon ColorStay Gel Envy Esmalte de Uña](https://m.media-amazon.com/images/I/310HpBOXmzL._SL400_.jpg)](https://www.amazon.es/dp/B00LUFSUF6/?tag=tolees-21)
 
 ℹ️:
 

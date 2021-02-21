@@ -2,7 +2,7 @@
 layout: post
 title: 'Cuca Berberecho Grande - 63 gr con un 25.65 % de descuento'
 date: 2020-04-16 18:06:45
-image: 'https://m.media-amazon.com/images/I/51pJTDYL90L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51pJTDYL90L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.03'
 
 En este momento está [Cuca Berberecho Grande - 63 gr](https://www.amazon.es/dp/B01IDM58TE/?tag=tolees-21) a 6.03 EUR (original: 8.11 EUR) (25.65 %  de descuento) en el siguiente enlace!
 
-[![Cuca Berberecho Grande - 63 gr](https://m.media-amazon.com/images/I/51pJTDYL90L._SL200_.jpg)](https://www.amazon.es/dp/B01IDM58TE/?tag=tolees-21)
+[![Cuca Berberecho Grande - 63 gr](https://m.media-amazon.com/images/I/51pJTDYL90L._SL400_.jpg)](https://www.amazon.es/dp/B01IDM58TE/?tag=tolees-21)
 
 🔎:
 

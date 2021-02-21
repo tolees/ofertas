@@ -2,7 +2,7 @@
 layout: post
 title: 'DOHUI Funda Samsung Galaxy S20 5G UW  2  al 57.14 % de rebaja'
 date: 2020-07-14 20:15:59
-image: 'https://m.media-amazon.com/images/I/41tsK9S3vXL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41tsK9S3vXL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.5'
 
 Tienes [DOHUI Funda Samsung Galaxy S20 5G UW  2 en 1 Robusta Carcasa Híbrida TPU + PC de Doble Capa Anti-arañazos Caso con Soporte para Samsung Galaxy S20 5G UW  Negro ](https://www.amazon.es/dp/B089NYYXPR/?tag=tolees-21) con precio final de  4.5 EUR (original: 10.5 EUR) (57.14 %  de rebaja) aqui!
 
-[![DOHUI Funda Samsung Galaxy S20 5G UW  2 ](https://m.media-amazon.com/images/I/41tsK9S3vXL._SL200_.jpg)](https://www.amazon.es/dp/B089NYYXPR/?tag=tolees-21)
+[![DOHUI Funda Samsung Galaxy S20 5G UW  2 ](https://m.media-amazon.com/images/I/41tsK9S3vXL._SL400_.jpg)](https://www.amazon.es/dp/B089NYYXPR/?tag=tolees-21)
 
 🔎:
 

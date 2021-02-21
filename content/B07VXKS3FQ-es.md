@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger TJM Nos Polo  Azul  Audac con un 60.00 % de descuento'
 date: 2020-08-25 08:06:03
-image: 'https://m.media-amazon.com/images/I/41NEsPAVZtL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41NEsPAVZtL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '22.0'
 
 En este momento está [Tommy Hilfiger TJM Nos Polo  Azul  Audacious Blue Czy   Small para Hombre](https://www.amazon.es/dp/B07VXKS3FQ/?tag=tolees-21) a 22.0 EUR (original: 55.0 EUR) (60.00 %  de descuento) en el siguiente enlace!
 
-[![Tommy Hilfiger TJM Nos Polo  Azul  Audac](https://m.media-amazon.com/images/I/41NEsPAVZtL._SL200_.jpg)](https://www.amazon.es/dp/B07VXKS3FQ/?tag=tolees-21)
+[![Tommy Hilfiger TJM Nos Polo  Azul  Audac](https://m.media-amazon.com/images/I/41NEsPAVZtL._SL400_.jpg)](https://www.amazon.es/dp/B07VXKS3FQ/?tag=tolees-21)
 
 🔎:
 

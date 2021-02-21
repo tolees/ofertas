@@ -2,7 +2,7 @@
 layout: post
 title: 'Adidas Continental 80  Zapatillas de Dep al 50.03 % de descuento'
 date: 2020-09-20 16:47:48
-image: 'https://m.media-amazon.com/images/I/31aR0HHDziL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31aR0HHDziL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '49.95'
 
 Ahora mismo tienes [Adidas Continental 80  Zapatillas de Deporte para Hombre  Negro  Negbás/Escarl/Maruni 000   38 2/3 EU](https://www.amazon.es/dp/B07K2NGGYQ/?tag=tolees-21) a 49.95 EUR (original: 99.95 EUR) (50.03 %  de descuento) en el siguiente enlace!
 
-[![Adidas Continental 80  Zapatillas de Dep](https://m.media-amazon.com/images/I/31aR0HHDziL._SL200_.jpg)](https://www.amazon.es/dp/B07K2NGGYQ/?tag=tolees-21)
+[![Adidas Continental 80  Zapatillas de Dep](https://m.media-amazon.com/images/I/31aR0HHDziL._SL400_.jpg)](https://www.amazon.es/dp/B07K2NGGYQ/?tag=tolees-21)
 
 🔎:
 

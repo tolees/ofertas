@@ -2,7 +2,7 @@
 layout: post
 title: 'Dc Colección 7 Películas  2019  Blu-Ray  al 31.92 % de descuento'
 date: 2020-09-13 18:32:16
-image: 'https://m.media-amazon.com/images/I/51T+KoObu1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51T+KoObu1L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '30.266666666666666'
 
 Ahora mismo tienes [Dc Colección 7 Películas  2019  Blu-Ray [Blu-ray]](https://www.amazon.es/dp/B07W8LHM7X/?tag=tolees-21) a 35.4 EUR (original: 52.0 EUR) (31.92 %  de descuento) en el siguiente enlace!
 
-[![Dc Colección 7 Películas  2019  Blu-Ray ](https://m.media-amazon.com/images/I/51T+KoObu1L._SL200_.jpg)](https://www.amazon.es/dp/B07W8LHM7X/?tag=tolees-21)
+[![Dc Colección 7 Películas  2019  Blu-Ray ](https://m.media-amazon.com/images/I/51T+KoObu1L._SL400_.jpg)](https://www.amazon.es/dp/B07W8LHM7X/?tag=tolees-21)
 
 🔎:
 

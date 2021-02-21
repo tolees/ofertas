@@ -2,7 +2,7 @@
 layout: post
 title: 'Traje de Gasa de Tres Capas de Espesamie al 38.44 % de rebaja'
 date: 2020-05-27 14:33:04
-image: 'https://m.media-amazon.com/images/I/41PcQiKfGdL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41PcQiKfGdL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.32'
 
 Tienes [Traje de Gasa de Tres Capas de Espesamiento a Pprueba de Polvo Protección Facial Desechable  50PCS ](https://www.amazon.es/dp/B088TPPF79/?tag=tolees-21) con precio final de  9.32 EUR (original: 15.14 EUR) (38.44 %  de rebaja) aqui!
 
-[![Traje de Gasa de Tres Capas de Espesamie](https://m.media-amazon.com/images/I/41PcQiKfGdL._SL200_.jpg)](https://www.amazon.es/dp/B088TPPF79/?tag=tolees-21)
+[![Traje de Gasa de Tres Capas de Espesamie](https://m.media-amazon.com/images/I/41PcQiKfGdL._SL400_.jpg)](https://www.amazon.es/dp/B088TPPF79/?tag=tolees-21)
 
 🔎:
 

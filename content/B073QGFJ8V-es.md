@@ -2,7 +2,7 @@
 layout: post
 title: 'FIDECO Docking Station  Aluminio USB 3.0 con un 32.17 % de descuento'
 date: 2020-01-20 04:36:29
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41IbkvgADwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41IbkvgADwL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '35.24'
 
 En este momento está [FIDECO Docking Station  Aluminio USB 3.0 Base de conexión con función de clon Offline y 2 bahias para SATA I/II/III HDD y SSD de 2 5/3 5 Pulgadas  hasta 2X 10TB](https://www.amazon.es/dp/B073QGFJ8V/?tag=tolees-21) a 35.24 EUR (original: 51.95 EUR) (32.17 %  de descuento) en el siguiente enlace!
 
-[![FIDECO Docking Station  Aluminio USB 3.0](https://images-eu.ssl-images-amazon.com/images/I/41IbkvgADwL._SL200_.jpg)](https://www.amazon.es/dp/B073QGFJ8V/?tag=tolees-21)
+[![FIDECO Docking Station  Aluminio USB 3.0](https://images-eu.ssl-images-amazon.com/images/I/41IbkvgADwL._SL400_.jpg)](https://www.amazon.es/dp/B073QGFJ8V/?tag=tolees-21)
 
 🔎:
 

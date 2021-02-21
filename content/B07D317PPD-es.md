@@ -2,7 +2,7 @@
 layout: post
 title: 'Amazfit Pace - Reloj inteligente para co al 34.61 % de descuento'
 date: 2020-10-12 13:08:10
-image: 'https://m.media-amazon.com/images/I/41c2ZX+F9oL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41c2ZX+F9oL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '96.425'
 
 Ahora mismo tienes [Amazfit Pace - Reloj inteligente para correr con GPS](https://www.amazon.es/dp/B07D317PPD/?tag=tolees-21) a 58.85 EUR (original: 90.0 EUR) (34.61 %  de descuento) en el siguiente enlace!
 
-[![Amazfit Pace - Reloj inteligente para co](https://m.media-amazon.com/images/I/41c2ZX+F9oL._SL200_.jpg)](https://www.amazon.es/dp/B07D317PPD/?tag=tolees-21)
+[![Amazfit Pace - Reloj inteligente para co](https://m.media-amazon.com/images/I/41c2ZX+F9oL._SL400_.jpg)](https://www.amazon.es/dp/B07D317PPD/?tag=tolees-21)
 
 🔎:
 

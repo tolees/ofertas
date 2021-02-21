@@ -2,7 +2,7 @@
 layout: post
 title: 'Leotec Hardy Life VERDE con un 31.53 % de descuento'
 date: 2020-10-04 15:41:58
-image: 'https://m.media-amazon.com/images/I/41pavrQobDL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41pavrQobDL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '25.58666666666667'
 
 En este momento está [Leotec Hardy Life VERDE](https://www.amazon.es/dp/B00DZMCX28/?tag=tolees-21) a 27.32 EUR (original: 39.9 EUR) (31.53 %  de descuento) en el siguiente enlace!
 
-[![Leotec Hardy Life VERDE](https://m.media-amazon.com/images/I/41pavrQobDL._SL200_.jpg)](https://www.amazon.es/dp/B00DZMCX28/?tag=tolees-21)
+[![Leotec Hardy Life VERDE](https://m.media-amazon.com/images/I/41pavrQobDL._SL400_.jpg)](https://www.amazon.es/dp/B00DZMCX28/?tag=tolees-21)
 
 🔎:
 

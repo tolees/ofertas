@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger Eton Trifold  Catera para al 28.68 % de rebaja'
 date: 2020-05-07 17:20:14
-image: 'https://m.media-amazon.com/images/I/41FM5Odwj5L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41FM5Odwj5L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '49.85'
 
 Tienes [Tommy Hilfiger Eton Trifold  Catera para Hombre  Black 2  OneSize](https://www.amazon.es/dp/B00X0W9SGW/?tag=tolees-21) con precio final de  49.85 EUR (original: 69.9 EUR) (28.68 %  de rebaja) aqui!
 
-[![Tommy Hilfiger Eton Trifold  Catera para](https://m.media-amazon.com/images/I/41FM5Odwj5L._SL200_.jpg)](https://www.amazon.es/dp/B00X0W9SGW/?tag=tolees-21)
+[![Tommy Hilfiger Eton Trifold  Catera para](https://m.media-amazon.com/images/I/41FM5Odwj5L._SL400_.jpg)](https://www.amazon.es/dp/B00X0W9SGW/?tag=tolees-21)
 
 🔎:
 

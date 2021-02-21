@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 27.39 % en Comodynes Self-Tanning Manopla Autobronc'
 date: 2020-03-31 12:36:00
-image: 'https://m.media-amazon.com/images/I/51en5wl3CxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51en5wl3CxL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.73'
 
 Tienes [Comodynes Self-Tanning Manopla Autobronceadora - 3 Unidades](https://www.amazon.es/dp/B00DATQKGG/?tag=tolees-21) con un 27.39 % de descuento con precio de oferta de 9.73 EUR (original: 13.4 EUR) en el siguiente enlace!
 
-[![Comodynes Self-Tanning Manopla Autobronc](https://m.media-amazon.com/images/I/51en5wl3CxL._SL200_.jpg)](https://www.amazon.es/dp/B00DATQKGG/?tag=tolees-21)
+[![Comodynes Self-Tanning Manopla Autobronc](https://m.media-amazon.com/images/I/51en5wl3CxL._SL400_.jpg)](https://www.amazon.es/dp/B00DATQKGG/?tag=tolees-21)
 
 ℹ️:
 

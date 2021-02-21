@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 44.82 % en Ozone M10 - Ratón  2000 dpi '
 date: 2020-04-09 03:27:30
-image: 'https://m.media-amazon.com/images/I/31W2HNp1mvL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31W2HNp1mvL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.7025'
 
 Tienes [Ozone M10 - Ratón  2000 dpi ](https://www.amazon.es/dp/B01K1DQF40/?tag=tolees-21) con un 44.82 % de descuento con precio de oferta de 13.74 EUR (original: 24.9 EUR) en el siguiente enlace!
 
-[![Ozone M10 - Ratón  2000 dpi ](https://m.media-amazon.com/images/I/31W2HNp1mvL._SL200_.jpg)](https://www.amazon.es/dp/B01K1DQF40/?tag=tolees-21)
+[![Ozone M10 - Ratón  2000 dpi ](https://m.media-amazon.com/images/I/31W2HNp1mvL._SL400_.jpg)](https://www.amazon.es/dp/B01K1DQF40/?tag=tolees-21)
 
 ℹ️:
 

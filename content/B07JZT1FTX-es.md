@@ -2,7 +2,7 @@
 layout: post
 title: 'Cable de Cargador Micro USB Trenzado Dur al 46.82 % de descuento'
 date: 2020-06-24 19:33:03
-image: 'https://m.media-amazon.com/images/I/41d0jaoroLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41d0jaoroLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.18'
 
 Está [Cable de Cargador Micro USB Trenzado Duradero Cable de Carga y sincronización de Datos de Alta Velocidad para Samsung Galaxy S7/S6/S5  HTC One  LG G4/G3 y más  Rojo ](https://www.amazon.es/dp/B07JZT1FTX/?tag=tolees-21) con 46.82 de descuento por 3.18 EUR (original: 5.98 EUR) en el siguiente enlace!
 
-[![Cable de Cargador Micro USB Trenzado Dur](https://m.media-amazon.com/images/I/41d0jaoroLL._SL200_.jpg)](https://www.amazon.es/dp/B07JZT1FTX/?tag=tolees-21)
+[![Cable de Cargador Micro USB Trenzado Dur](https://m.media-amazon.com/images/I/41d0jaoroLL._SL400_.jpg)](https://www.amazon.es/dp/B07JZT1FTX/?tag=tolees-21)
 
 ℹ️:
 

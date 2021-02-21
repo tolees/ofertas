@@ -2,7 +2,7 @@
 layout: post
 title: 'Eastpak Stand + Bolsa de viaje  53 cm  3 al 32.13 % de rebaja'
 date: 2020-09-21 11:45:09
-image: 'https://m.media-amazon.com/images/I/31hytjDoGCL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31hytjDoGCL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '40.72'
 
 Tienes [Eastpak Stand + Bolsa de viaje  53 cm  34 L  Azul  Cloud Navy ](https://www.amazon.es/dp/B07DP3NX4W/?tag=tolees-21) con precio final de  40.72 EUR (original: 60.0 EUR) (32.13 %  de rebaja) aqui!
 
-[![Eastpak Stand + Bolsa de viaje  53 cm  3](https://m.media-amazon.com/images/I/31hytjDoGCL._SL200_.jpg)](https://www.amazon.es/dp/B07DP3NX4W/?tag=tolees-21)
+[![Eastpak Stand + Bolsa de viaje  53 cm  3](https://m.media-amazon.com/images/I/31hytjDoGCL._SL400_.jpg)](https://www.amazon.es/dp/B07DP3NX4W/?tag=tolees-21)
 
 🔎:
 

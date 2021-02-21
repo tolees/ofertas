@@ -2,7 +2,7 @@
 layout: post
 title: 'Joop! Homme After Shave - 75ml con un 56.35 % de descuento'
 date: 2020-03-02 23:30:25
-image: 'https://m.media-amazon.com/images/I/41Hv7lJ9glL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Hv7lJ9glL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.494999999999997'
 
 En este momento está [Joop! Homme After Shave - 75ml](https://www.amazon.es/dp/B000NWGM8O/?tag=tolees-21) a 18.2 EUR (original: 41.7 EUR) (56.35 %  de descuento) en el siguiente enlace!
 
-[![Joop! Homme After Shave - 75ml](https://m.media-amazon.com/images/I/41Hv7lJ9glL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B000NWGM8O/?tag=tolees-21)
+[![Joop! Homme After Shave - 75ml](https://m.media-amazon.com/images/I/41Hv7lJ9glL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B000NWGM8O/?tag=tolees-21)
 
 🔎:
 

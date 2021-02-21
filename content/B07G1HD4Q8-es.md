@@ -2,7 +2,7 @@
 layout: post
 title: 'find. Chunky Leather Botas Chelsea  Negr con un 34.43 % de descuento'
 date: 2020-10-03 23:51:21
-image: 'https://m.media-amazon.com/images/I/41WNsyiTSOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41WNsyiTSOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.49'
 
 En este momento está [find. Chunky Leather Botas Chelsea  Negro Black  36 EU](https://www.amazon.es/dp/B07G1HD4Q8/?tag=tolees-21) a 24.49 EUR (original: 37.35 EUR) (34.43 %  de descuento) en el siguiente enlace!
 
-[![find. Chunky Leather Botas Chelsea  Negr](https://m.media-amazon.com/images/I/41WNsyiTSOL._SL200_.jpg)](https://www.amazon.es/dp/B07G1HD4Q8/?tag=tolees-21)
+[![find. Chunky Leather Botas Chelsea  Negr](https://m.media-amazon.com/images/I/41WNsyiTSOL._SL400_.jpg)](https://www.amazon.es/dp/B07G1HD4Q8/?tag=tolees-21)
 
 🔎:
 

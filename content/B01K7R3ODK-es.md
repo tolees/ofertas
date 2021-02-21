@@ -2,7 +2,7 @@
 layout: post
 title: 'Evax Salvaslip Normal Protegeslips - 50  con un 55.04 % de descuento'
 date: 2020-04-18 02:17:34
-image: 'https://m.media-amazon.com/images/I/51RsEzM3SfL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51RsEzM3SfL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.0966666666666667'
 
 En este momento está [Evax Salvaslip Normal Protegeslips - 50 unidades](https://www.amazon.es/dp/B01K7R3ODK/?tag=tolees-21) a 1.07 EUR (original: 2.38 EUR) (55.04 %  de descuento) en el siguiente enlace!
 
-[![Evax Salvaslip Normal Protegeslips - 50 ](https://m.media-amazon.com/images/I/51RsEzM3SfL._SL200_.jpg)](https://www.amazon.es/dp/B01K7R3ODK/?tag=tolees-21)
+[![Evax Salvaslip Normal Protegeslips - 50 ](https://m.media-amazon.com/images/I/51RsEzM3SfL._SL400_.jpg)](https://www.amazon.es/dp/B01K7R3ODK/?tag=tolees-21)
 
 🔎:
 

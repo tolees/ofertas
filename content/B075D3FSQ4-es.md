@@ -2,7 +2,7 @@
 layout: post
 title: 'Trust GXT 310D Radius - Auriculares Gami al 48.02 % de rebaja'
 date: 2020-06-25 13:04:16
-image: 'https://m.media-amazon.com/images/I/41peqimRWVL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41peqimRWVL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.942'
 
 Tienes [Trust GXT 310D Radius - Auriculares Gaming Multi-Plataforma  Color Camuflaje Desierto](https://www.amazon.es/dp/B075D3FSQ4/?tag=tolees-21) con precio final de  15.59 EUR (original: 29.99 EUR) (48.02 %  de rebaja) aqui!
 
-[![Trust GXT 310D Radius - Auriculares Gami](https://m.media-amazon.com/images/I/41peqimRWVL._SL200_.jpg)](https://www.amazon.es/dp/B075D3FSQ4/?tag=tolees-21)
+[![Trust GXT 310D Radius - Auriculares Gami](https://m.media-amazon.com/images/I/41peqimRWVL._SL400_.jpg)](https://www.amazon.es/dp/B075D3FSQ4/?tag=tolees-21)
 
 🔎:
 

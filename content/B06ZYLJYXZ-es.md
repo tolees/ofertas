@@ -2,7 +2,7 @@
 layout: post
 title: 'Rampow Adaptador Micro USB a Tipo C Alum al 27.81 % de descuento'
 date: 2020-05-25 18:34:46
-image: 'https://m.media-amazon.com/images/I/41CX15aFK5L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41CX15aFK5L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.698'
 
 Está [Rampow Adaptador Micro USB a Tipo C Aluminio Duradero  Adaptador Micro USB C-Garantía de por Vida-Compatible para HTC 10U11LG G6OnePlus 235 Sony Xperia XZ Samsung Galaxy S8/S9 Gris Espacial-2 Unidades](https://www.amazon.es/dp/B06ZYLJYXZ/?tag=tolees-21) con 27.81 de descuento por 6.49 EUR (original: 8.99 EUR) en el siguiente enlace!
 
-[![Rampow Adaptador Micro USB a Tipo C Alum](https://m.media-amazon.com/images/I/41CX15aFK5L._SL200_.jpg)](https://www.amazon.es/dp/B06ZYLJYXZ/?tag=tolees-21)
+[![Rampow Adaptador Micro USB a Tipo C Alum](https://m.media-amazon.com/images/I/41CX15aFK5L._SL400_.jpg)](https://www.amazon.es/dp/B06ZYLJYXZ/?tag=tolees-21)
 
 ℹ️:
 

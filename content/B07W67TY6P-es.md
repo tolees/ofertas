@@ -2,7 +2,7 @@
 layout: post
 title: 'Feline 7.0 al 50.00 % de descuento'
 date: 2020-02-23 09:18:01
-image: 'https://m.media-amazon.com/images/I/31aPWoiiQbL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31aPWoiiQbL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '40.875'
 
 Está [Feline 7.0](https://www.amazon.es/dp/B07W67TY6P/?tag=tolees-21) con 50.00 de descuento por 27.25 EUR (original: 54.5 EUR) en el siguiente enlace!
 
-[![Feline 7.0](https://m.media-amazon.com/images/I/31aPWoiiQbL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07W67TY6P/?tag=tolees-21)
+[![Feline 7.0](https://m.media-amazon.com/images/I/31aPWoiiQbL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07W67TY6P/?tag=tolees-21)
 
 ℹ️:
 

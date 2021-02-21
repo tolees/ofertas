@@ -2,7 +2,7 @@
 layout: post
 title: 'Police 15917JS-03 Reloj de Hombres con un 42.92 % de descuento'
 date: 2020-06-24 05:01:48
-image: 'https://m.media-amazon.com/images/I/411AYr56BQL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/411AYr56BQL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '123.63'
 
 En este momento está [Police 15917JS-03 Reloj de Hombres](https://www.amazon.es/dp/B07RRPQ3WW/?tag=tolees-21) a 123.63 EUR (original: 216.59 EUR) (42.92 %  de descuento) en el siguiente enlace!
 
-[![Police 15917JS-03 Reloj de Hombres](https://m.media-amazon.com/images/I/411AYr56BQL._SL200_.jpg)](https://www.amazon.es/dp/B07RRPQ3WW/?tag=tolees-21)
+[![Police 15917JS-03 Reloj de Hombres](https://m.media-amazon.com/images/I/411AYr56BQL._SL400_.jpg)](https://www.amazon.es/dp/B07RRPQ3WW/?tag=tolees-21)
 
 🔎:
 

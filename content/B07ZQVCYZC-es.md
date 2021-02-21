@@ -2,7 +2,7 @@
 layout: post
 title: 'TRESemmé Botanique Pack Champú + Protect al 62.92 % de descuento'
 date: 2020-06-05 00:37:55
-image: 'https://m.media-amazon.com/images/I/41QZGACRaCL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41QZGACRaCL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.45'
 
 Ahora mismo tienes [TRESemmé Botanique Pack Champú + Protector y Rizador de Cabello](https://www.amazon.es/dp/B07ZQVCYZC/?tag=tolees-21) a 10.45 EUR (original: 28.18 EUR) (62.92 %  de descuento) en el siguiente enlace!
 
-[![TRESemmé Botanique Pack Champú + Protect](https://m.media-amazon.com/images/I/41QZGACRaCL._SL200_.jpg)](https://www.amazon.es/dp/B07ZQVCYZC/?tag=tolees-21)
+[![TRESemmé Botanique Pack Champú + Protect](https://m.media-amazon.com/images/I/41QZGACRaCL._SL400_.jpg)](https://www.amazon.es/dp/B07ZQVCYZC/?tag=tolees-21)
 
 🔎:
 

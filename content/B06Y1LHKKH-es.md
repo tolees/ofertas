@@ -2,7 +2,7 @@
 layout: post
 title: 'Wrangler ARIZONA DENIM PANTS Pantalones  al 43.31 % de descuento'
 date: 2020-08-07 19:45:48
-image: 'https://m.media-amazon.com/images/I/41js63givYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41js63givYL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '50.99'
 
 Está [Wrangler ARIZONA DENIM PANTS Pantalones  Bright Stroke  35W / 34L para Hombre](https://www.amazon.es/dp/B06Y1LHKKH/?tag=tolees-21) con 43.31 de descuento por 50.99 EUR (original: 89.95 EUR) en el siguiente enlace!
 
-[![Wrangler ARIZONA DENIM PANTS Pantalones ](https://m.media-amazon.com/images/I/41js63givYL._SL200_.jpg)](https://www.amazon.es/dp/B06Y1LHKKH/?tag=tolees-21)
+[![Wrangler ARIZONA DENIM PANTS Pantalones ](https://m.media-amazon.com/images/I/41js63givYL._SL400_.jpg)](https://www.amazon.es/dp/B06Y1LHKKH/?tag=tolees-21)
 
 ℹ️:
 

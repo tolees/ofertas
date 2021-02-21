@@ -2,7 +2,7 @@
 layout: post
 title: 'Bourjois Healthy Mix Serum Base de Maqui al 35.27 % de descuento'
 date: 2020-05-31 09:33:40
-image: 'https://m.media-amazon.com/images/I/31jdENrUwnL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31jdENrUwnL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.895714285714286'
 
 Ahora mismo tienes [Bourjois Healthy Mix Serum Base de Maquillaje Tono 53 Light Beige  - 30 ml](https://www.amazon.es/dp/B005IEH67I/?tag=tolees-21) a 8.9 EUR (original: 13.75 EUR) (35.27 %  de descuento) en el siguiente enlace!
 
-[![Bourjois Healthy Mix Serum Base de Maqui](https://m.media-amazon.com/images/I/31jdENrUwnL._SL200_.jpg)](https://www.amazon.es/dp/B005IEH67I/?tag=tolees-21)
+[![Bourjois Healthy Mix Serum Base de Maqui](https://m.media-amazon.com/images/I/31jdENrUwnL._SL400_.jpg)](https://www.amazon.es/dp/B005IEH67I/?tag=tolees-21)
 
 🔎:
 

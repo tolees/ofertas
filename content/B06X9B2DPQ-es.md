@@ -2,7 +2,7 @@
 layout: post
 title: 'Gran Chaparral Temp 1 + 2 [DVD] al 70.00 % de descuento'
 date: 2020-09-08 05:04:15
-image: 'https://m.media-amazon.com/images/I/516aCC0DOgL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/516aCC0DOgL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.0'
 
 Ahora mismo tienes [Gran Chaparral Temp 1 + 2 [DVD]](https://www.amazon.es/dp/B06X9B2DPQ/?tag=tolees-21) a 24.0 EUR (original: 80.0 EUR) (70.00 %  de descuento) en el siguiente enlace!
 
-[![Gran Chaparral Temp 1 + 2 [DVD]](https://m.media-amazon.com/images/I/516aCC0DOgL._SL200_.jpg)](https://www.amazon.es/dp/B06X9B2DPQ/?tag=tolees-21)
+[![Gran Chaparral Temp 1 + 2 [DVD]](https://m.media-amazon.com/images/I/516aCC0DOgL._SL400_.jpg)](https://www.amazon.es/dp/B06X9B2DPQ/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Joma Tokio II Pantalones Cortos  Hombre  al 27.03 % de descuento'
 date: 2020-03-07 10:04:28
-image: 'https://m.media-amazon.com/images/I/41DHpvQMVzL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41DHpvQMVzL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.99'
 
 Está [Joma Tokio II Pantalones Cortos  Hombre  Multicolor  Amarillo/Azul Royal   6XS-5XS](https://www.amazon.es/dp/B06XJCJ51X/?tag=tolees-21) con 27.03 de descuento por 7.99 EUR (original: 10.95 EUR) en el siguiente enlace!
 
-[![Joma Tokio II Pantalones Cortos  Hombre ](https://m.media-amazon.com/images/I/41DHpvQMVzL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B06XJCJ51X/?tag=tolees-21)
+[![Joma Tokio II Pantalones Cortos  Hombre ](https://m.media-amazon.com/images/I/41DHpvQMVzL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B06XJCJ51X/?tag=tolees-21)
 
 ℹ️:
 

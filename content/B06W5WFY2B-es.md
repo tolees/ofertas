@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger Bralette Corsé  Blanco  W al 39.86 % de descuento'
 date: 2020-04-20 07:38:59
-image: 'https://m.media-amazon.com/images/I/41UJ+cognyL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41UJ+cognyL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.99'
 
 Ahora mismo tienes [Tommy Hilfiger Bralette Corsé  Blanco  White 100    Talla del Fabricante: LG  para Mujer](https://www.amazon.es/dp/B06W5WFY2B/?tag=tolees-21) a 20.99 EUR (original: 34.9 EUR) (39.86 %  de descuento) en el siguiente enlace!
 
-[![Tommy Hilfiger Bralette Corsé  Blanco  W](https://m.media-amazon.com/images/I/41UJ+cognyL._SL200_.jpg)](https://www.amazon.es/dp/B06W5WFY2B/?tag=tolees-21)
+[![Tommy Hilfiger Bralette Corsé  Blanco  W](https://m.media-amazon.com/images/I/41UJ+cognyL._SL400_.jpg)](https://www.amazon.es/dp/B06W5WFY2B/?tag=tolees-21)
 
 🔎:
 

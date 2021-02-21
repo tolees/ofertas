@@ -2,7 +2,7 @@
 layout: post
 title: 'Instituto Español Bebe Gel de Baño sin J al 48.74 % de rebaja'
 date: 2020-09-30 09:58:49
-image: 'https://m.media-amazon.com/images/I/41vUxBvoclL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41vUxBvoclL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.49'
 
 Tienes [Instituto Español Bebe Gel de Baño sin Jabón - 500 ml](https://www.amazon.es/dp/B075HLZ9D9/?tag=tolees-21) con precio final de  4.49 EUR (original: 8.76 EUR) (48.74 %  de rebaja) aqui!
 
-[![Instituto Español Bebe Gel de Baño sin J](https://m.media-amazon.com/images/I/41vUxBvoclL._SL200_.jpg)](https://www.amazon.es/dp/B075HLZ9D9/?tag=tolees-21)
+[![Instituto Español Bebe Gel de Baño sin J](https://m.media-amazon.com/images/I/41vUxBvoclL._SL400_.jpg)](https://www.amazon.es/dp/B075HLZ9D9/?tag=tolees-21)
 
 🔎:
 

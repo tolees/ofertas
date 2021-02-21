@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 49.21 % en American Tourister Wavebreaker Barbie - '
 date: 2020-07-03 13:58:37
-image: 'https://m.media-amazon.com/images/I/4111ok40lUL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/4111ok40lUL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '73.42999999999999'
 
 Tienes [American Tourister Wavebreaker Barbie - Spinner M  color negro  Shimmer Power Barbie ](https://www.amazon.es/dp/B07TKHVJ5C/?tag=tolees-21) con un 49.21 % de descuento con precio de oferta de 80.75 EUR (original: 159.0 EUR) en el siguiente enlace!
 
-[![American Tourister Wavebreaker Barbie - ](https://m.media-amazon.com/images/I/4111ok40lUL._SL200_.jpg)](https://www.amazon.es/dp/B07TKHVJ5C/?tag=tolees-21)
+[![American Tourister Wavebreaker Barbie - ](https://m.media-amazon.com/images/I/4111ok40lUL._SL400_.jpg)](https://www.amazon.es/dp/B07TKHVJ5C/?tag=tolees-21)
 
 ℹ️:
 

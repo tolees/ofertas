@@ -2,7 +2,7 @@
 layout: post
 title: 'Energizer - Pilas Recargables Accu Recha al 66.47 % de descuento'
 date: 2020-09-26 22:44:19
-image: 'https://m.media-amazon.com/images/I/41xsLMg-dUL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41xsLMg-dUL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.99'
 
 Ahora mismo tienes [Energizer - Pilas Recargables Accu Recharge Universal](https://www.amazon.es/dp/B07FKKSDFC/?tag=tolees-21) a 3.99 EUR (original: 11.9 EUR) (66.47 %  de descuento) en el siguiente enlace!
 
-[![Energizer - Pilas Recargables Accu Recha](https://m.media-amazon.com/images/I/41xsLMg-dUL._SL200_.jpg)](https://www.amazon.es/dp/B07FKKSDFC/?tag=tolees-21)
+[![Energizer - Pilas Recargables Accu Recha](https://m.media-amazon.com/images/I/41xsLMg-dUL._SL400_.jpg)](https://www.amazon.es/dp/B07FKKSDFC/?tag=tolees-21)
 
 🔎:
 

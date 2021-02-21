@@ -2,7 +2,7 @@
 layout: post
 title: 'SPC Ebon - Auricular Bluetooth  manos li al 49.90 % de descuento'
 date: 2020-04-24 08:11:16
-image: 'https://m.media-amazon.com/images/I/31igneHsC0L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31igneHsC0L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '25.0'
 
 Ahora mismo tienes [SPC Ebon - Auricular Bluetooth  manos libres  IPX5  asistente de voz   – Color Rojo](https://www.amazon.es/dp/B07H2RLNYN/?tag=tolees-21) a 25.0 EUR (original: 49.9 EUR) (49.90 %  de descuento) en el siguiente enlace!
 
-[![SPC Ebon - Auricular Bluetooth  manos li](https://m.media-amazon.com/images/I/31igneHsC0L._SL200_.jpg)](https://www.amazon.es/dp/B07H2RLNYN/?tag=tolees-21)
+[![SPC Ebon - Auricular Bluetooth  manos li](https://m.media-amazon.com/images/I/31igneHsC0L._SL400_.jpg)](https://www.amazon.es/dp/B07H2RLNYN/?tag=tolees-21)
 
 🔎:
 

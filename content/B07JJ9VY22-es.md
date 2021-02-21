@@ -2,7 +2,7 @@
 layout: post
 title: 'Ferilinso Cristal Templado para Huawei M al 64.69 % de descuento'
 date: 2020-03-16 18:27:52
-image: 'https://m.media-amazon.com/images/I/51iCun3ooSL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51iCun3ooSL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.01'
 
 Ahora mismo tienes [Ferilinso Cristal Templado para Huawei Mate 20 X [2 Pack] Protector de Pantalla Screen Protector para Huawei Mate 20 X](https://www.amazon.es/dp/B07JJ9VY22/?tag=tolees-21) a 7.01 EUR (original: 19.85 EUR) (64.69 %  de descuento) en el siguiente enlace!
 
-[![Ferilinso Cristal Templado para Huawei M](https://m.media-amazon.com/images/I/51iCun3ooSL._SL200_.jpg)](https://www.amazon.es/dp/B07JJ9VY22/?tag=tolees-21)
+[![Ferilinso Cristal Templado para Huawei M](https://m.media-amazon.com/images/I/51iCun3ooSL._SL400_.jpg)](https://www.amazon.es/dp/B07JJ9VY22/?tag=tolees-21)
 
 🔎:
 

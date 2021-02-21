@@ -2,7 +2,7 @@
 layout: post
 title: 'AmazonBasics - Aro de fitness y pilates  al 39.21 % de descuento'
 date: 2020-01-12 15:04:49
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41U2C7gVsXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41U2C7gVsXL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.88'
 
 Ahora mismo tienes [AmazonBasics - Aro de fitness y pilates para entrenamiento de resistencia  38 cm  Negro  2 unidades](https://www.amazon.es/dp/B07BZKHRDZ/?tag=tolees-21) a 21.88 EUR (original: 35.99 EUR) (39.21 %  de descuento) en el siguiente enlace!
 
-[![AmazonBasics - Aro de fitness y pilates ](https://images-eu.ssl-images-amazon.com/images/I/41U2C7gVsXL._SL200_.jpg)](https://www.amazon.es/dp/B07BZKHRDZ/?tag=tolees-21)
+[![AmazonBasics - Aro de fitness y pilates ](https://images-eu.ssl-images-amazon.com/images/I/41U2C7gVsXL._SL400_.jpg)](https://www.amazon.es/dp/B07BZKHRDZ/?tag=tolees-21)
 
 🔎:
 

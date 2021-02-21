@@ -2,7 +2,7 @@
 layout: post
 title: 'Kipling Creativity S  Cartera para Mujer al 50.00 % de descuento'
 date: 2020-09-18 11:14:28
-image: 'https://m.media-amazon.com/images/I/41BLEGqX-LL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41BLEGqX-LL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.940000000000001'
 
 Está [Kipling Creativity S  Cartera para Mujer  Multicolor  Speckled   14.5x9.5x5 cm](https://www.amazon.es/dp/B07TXWLGB1/?tag=tolees-21) con 50.00 de descuento por 12.0 EUR (original: 24.0 EUR) en el siguiente enlace!
 
-[![Kipling Creativity S  Cartera para Mujer](https://m.media-amazon.com/images/I/41BLEGqX-LL._SL200_.jpg)](https://www.amazon.es/dp/B07TXWLGB1/?tag=tolees-21)
+[![Kipling Creativity S  Cartera para Mujer](https://m.media-amazon.com/images/I/41BLEGqX-LL._SL400_.jpg)](https://www.amazon.es/dp/B07TXWLGB1/?tag=tolees-21)
 
 ℹ️:
 

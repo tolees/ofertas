@@ -2,7 +2,7 @@
 layout: post
 title: 'SALOMON Compression 1 Par de Calcetines  al 50.44 % de descuento'
 date: 2020-02-23 08:07:32
-image: 'https://m.media-amazon.com/images/I/312OdMoHKsL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/312OdMoHKsL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.39'
 
 Ahora mismo tienes [SALOMON Compression 1 Par de Calcetines compresión  Unisex Adulto  Azul/Negro  Nautical Blue/Black   L  42-44 ](https://www.amazon.es/dp/B07KP27JJD/?tag=tolees-21) a 12.39 EUR (original: 25.0 EUR) (50.44 %  de descuento) en el siguiente enlace!
 
-[![SALOMON Compression 1 Par de Calcetines ](https://m.media-amazon.com/images/I/312OdMoHKsL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07KP27JJD/?tag=tolees-21)
+[![SALOMON Compression 1 Par de Calcetines ](https://m.media-amazon.com/images/I/312OdMoHKsL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07KP27JJD/?tag=tolees-21)
 
 🔎:
 

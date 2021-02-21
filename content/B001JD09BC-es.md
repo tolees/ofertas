@@ -2,7 +2,7 @@
 layout: post
 title: 'Versele-laga A-16570 Prestige Premium Lo al 41.08 % de rebaja'
 date: 2020-05-31 11:58:06
-image: 'https://m.media-amazon.com/images/I/51o46FBPwxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51o46FBPwxL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.15'
 
 Tienes [Versele-laga A-16570 Prestige Premium Loro Africano - 1 kg](https://www.amazon.es/dp/B001JD09BC/?tag=tolees-21) con precio final de  5.15 EUR (original: 8.74 EUR) (41.08 %  de rebaja) aqui!
 
-[![Versele-laga A-16570 Prestige Premium Lo](https://m.media-amazon.com/images/I/51o46FBPwxL._SL200_.jpg)](https://www.amazon.es/dp/B001JD09BC/?tag=tolees-21)
+[![Versele-laga A-16570 Prestige Premium Lo](https://m.media-amazon.com/images/I/51o46FBPwxL._SL400_.jpg)](https://www.amazon.es/dp/B001JD09BC/?tag=tolees-21)
 
 🔎:
 

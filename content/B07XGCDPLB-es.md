@@ -2,7 +2,7 @@
 layout: post
 title: 'Blindecor Lira Estor Enrollable de Doble al 31.30 % de descuento'
 date: 2020-07-16 11:38:14
-image: 'https://m.media-amazon.com/images/I/316wZ-swXoL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/316wZ-swXoL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '31.83'
 
 Ahora mismo tienes [Blindecor Lira Estor Enrollable de Doble Capa  Noche y Día  Gris Antracita  120X180](https://www.amazon.es/dp/B07XGCDPLB/?tag=tolees-21) a 31.83 EUR (original: 46.33 EUR) (31.30 %  de descuento) en el siguiente enlace!
 
-[![Blindecor Lira Estor Enrollable de Doble](https://m.media-amazon.com/images/I/316wZ-swXoL._SL200_.jpg)](https://www.amazon.es/dp/B07XGCDPLB/?tag=tolees-21)
+[![Blindecor Lira Estor Enrollable de Doble](https://m.media-amazon.com/images/I/316wZ-swXoL._SL400_.jpg)](https://www.amazon.es/dp/B07XGCDPLB/?tag=tolees-21)
 
 🔎:
 

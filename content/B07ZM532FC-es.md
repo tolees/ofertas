@@ -2,7 +2,7 @@
 layout: post
 title: 'Repelente ultrasonico  antimosquitos ant al 60.70 % de descuento'
 date: 2020-09-08 15:06:15
-image: 'https://m.media-amazon.com/images/I/41Id2YeoGAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Id2YeoGAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '25.9'
 
 Ahora mismo tienes [Repelente ultrasonico  antimosquitos antimosquitos electrico control de plagas anti cucarachas  moscas  mosquitos  ratones  arañas 100% Inofensivo](https://www.amazon.es/dp/B07ZM532FC/?tag=tolees-21) a 25.9 EUR (original: 65.9 EUR) (60.70 %  de descuento) en el siguiente enlace!
 
-[![Repelente ultrasonico  antimosquitos ant](https://m.media-amazon.com/images/I/41Id2YeoGAL._SL200_.jpg)](https://www.amazon.es/dp/B07ZM532FC/?tag=tolees-21)
+[![Repelente ultrasonico  antimosquitos ant](https://m.media-amazon.com/images/I/41Id2YeoGAL._SL400_.jpg)](https://www.amazon.es/dp/B07ZM532FC/?tag=tolees-21)
 
 🔎:
 

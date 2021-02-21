@@ -2,7 +2,7 @@
 layout: post
 title: 'Dormio Ortopédico - Colchón de Eliocel   al 38.71 % de descuento'
 date: 2020-02-17 00:40:37
-image: 'https://m.media-amazon.com/images/I/41RsJLSZhgL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41RsJLSZhgL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '95.18'
 
 Está [Dormio Ortopédico - Colchón de Eliocel  Blanco  135 x 190 cm](https://www.amazon.es/dp/B016AFQVXS/?tag=tolees-21) con 38.71 de descuento por 97.02 EUR (original: 158.3 EUR) en el siguiente enlace!
 
-[![Dormio Ortopédico - Colchón de Eliocel  ](https://m.media-amazon.com/images/I/41RsJLSZhgL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B016AFQVXS/?tag=tolees-21)
+[![Dormio Ortopédico - Colchón de Eliocel  ](https://m.media-amazon.com/images/I/41RsJLSZhgL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B016AFQVXS/?tag=tolees-21)
 
 ℹ️:
 

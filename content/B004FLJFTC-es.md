@@ -2,7 +2,7 @@
 layout: post
 title: 'Superga 2750 Jvel Classic Zapatillas Uni al 71.67 % de rebaja'
 date: 2020-01-27 10:40:56
-image: 'https://m.media-amazon.com/images/I/41h8asNGShL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41h8asNGShL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.88'
 
 Tienes [Superga 2750 Jvel Classic Zapatillas Unisex Para Niños  Rojo  Red   32 EU](https://www.amazon.es/dp/B004FLJFTC/?tag=tolees-21) con precio final de  13.88 EUR (original: 49.0 EUR) (71.67 %  de rebaja) aqui!
 
-[![Superga 2750 Jvel Classic Zapatillas Uni](https://m.media-amazon.com/images/I/41h8asNGShL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B004FLJFTC/?tag=tolees-21)
+[![Superga 2750 Jvel Classic Zapatillas Uni](https://m.media-amazon.com/images/I/41h8asNGShL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B004FLJFTC/?tag=tolees-21)
 
 🔎:
 

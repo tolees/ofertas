@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 40.02 % en Levi s Original Batwing  Blanco  Hm Patc'
 date: 2020-05-21 06:36:37
-image: 'https://m.media-amazon.com/images/I/31dILJsFibL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31dILJsFibL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.99'
 
 Tienes [Levi s Original Batwing  Blanco  Hm Patch Polo White + 0000   X-Large para Hombre](https://www.amazon.es/dp/B07TLFMP5N/?tag=tolees-21) con un 40.02 % de descuento con precio de oferta de 29.99 EUR (original: 50.0 EUR) en el siguiente enlace!
 
-[![Levi s Original Batwing  Blanco  Hm Patc](https://m.media-amazon.com/images/I/31dILJsFibL._SL200_.jpg)](https://www.amazon.es/dp/B07TLFMP5N/?tag=tolees-21)
+[![Levi s Original Batwing  Blanco  Hm Patc](https://m.media-amazon.com/images/I/31dILJsFibL._SL400_.jpg)](https://www.amazon.es/dp/B07TLFMP5N/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'New Balance Fresh Foam Vero Racer m  Zap al 58.47 % de descuento'
 date: 2020-06-24 14:09:04
-image: 'https://m.media-amazon.com/images/I/41oPKK+js6L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41oPKK+js6L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '35.3'
 
 Ahora mismo tienes [New Balance Fresh Foam Vero Racer m  Zapatillas de Running para Mujer  Negro  Black/Pink Black/Pink   38 EU](https://www.amazon.es/dp/B07KWLSRTX/?tag=tolees-21) a 35.3 EUR (original: 85.0 EUR) (58.47 %  de descuento) en el siguiente enlace!
 
-[![New Balance Fresh Foam Vero Racer m  Zap](https://m.media-amazon.com/images/I/41oPKK+js6L._SL200_.jpg)](https://www.amazon.es/dp/B07KWLSRTX/?tag=tolees-21)
+[![New Balance Fresh Foam Vero Racer m  Zap](https://m.media-amazon.com/images/I/41oPKK+js6L._SL400_.jpg)](https://www.amazon.es/dp/B07KWLSRTX/?tag=tolees-21)
 
 🔎:
 

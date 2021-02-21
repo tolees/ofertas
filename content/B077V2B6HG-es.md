@@ -2,7 +2,7 @@
 layout: post
 title: 'TROTEC Convector Cristal de Diseño TCH 2 al 40.93 % de descuento'
 date: 2020-02-25 05:44:16
-image: 'https://m.media-amazon.com/images/I/31DK3HHHDuL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31DK3HHHDuL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '64.95'
 
 Está [TROTEC Convector Cristal de Diseño TCH 2011 E  2000 W  Calefacto  Radiador  Control Temperatura Automático  2 Niveles de Calor  Mando a Distancia  Pantalla LCD táctil  Vidrio de Seguridad  Negro](https://www.amazon.es/dp/B077V2B6HG/?tag=tolees-21) con 40.93 de descuento por 64.95 EUR (original: 109.95 EUR) en el siguiente enlace!
 
-[![TROTEC Convector Cristal de Diseño TCH 2](https://m.media-amazon.com/images/I/31DK3HHHDuL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B077V2B6HG/?tag=tolees-21)
+[![TROTEC Convector Cristal de Diseño TCH 2](https://m.media-amazon.com/images/I/31DK3HHHDuL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B077V2B6HG/?tag=tolees-21)
 
 ℹ️:
 

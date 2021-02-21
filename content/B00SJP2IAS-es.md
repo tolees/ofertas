@@ -2,7 +2,7 @@
 layout: post
 title: 'Columbia Silver Ridge Short AM4283 Short al 56.10 % de descuento'
 date: 2020-02-26 09:56:31
-image: 'https://m.media-amazon.com/images/I/41qbwy9jXhL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41qbwy9jXhL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '22.119999999999997'
 
 Ahora mismo tienes [Columbia Silver Ridge Short AM4283 Shorts  Hombre  Beige  Tusk   38](https://www.amazon.es/dp/B00SJP2IAS/?tag=tolees-21) a 21.93 EUR (original: 49.95 EUR) (56.10 %  de descuento) en el siguiente enlace!
 
-[![Columbia Silver Ridge Short AM4283 Short](https://m.media-amazon.com/images/I/41qbwy9jXhL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B00SJP2IAS/?tag=tolees-21)
+[![Columbia Silver Ridge Short AM4283 Short](https://m.media-amazon.com/images/I/41qbwy9jXhL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B00SJP2IAS/?tag=tolees-21)
 
 🔎:
 

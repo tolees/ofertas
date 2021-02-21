@@ -2,7 +2,7 @@
 layout: post
 title: 'Arena Classic Gorro de Natación  Unisex  al 28.61 % de rebaja'
 date: 2020-04-20 05:15:56
-image: 'https://m.media-amazon.com/images/I/41-8aCmBH5L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41-8aCmBH5L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.99'
 
 Tienes [Arena Classic Gorro de Natación  Unisex Adulto  Azul  Denim/Silver   Talla Única](https://www.amazon.es/dp/B0079JHHTM/?tag=tolees-21) con precio final de  4.99 EUR (original: 6.99 EUR) (28.61 %  de rebaja) aqui!
 
-[![Arena Classic Gorro de Natación  Unisex ](https://m.media-amazon.com/images/I/41-8aCmBH5L._SL200_.jpg)](https://www.amazon.es/dp/B0079JHHTM/?tag=tolees-21)
+[![Arena Classic Gorro de Natación  Unisex ](https://m.media-amazon.com/images/I/41-8aCmBH5L._SL400_.jpg)](https://www.amazon.es/dp/B0079JHHTM/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Pala de Pádel Piton Attack | Black Crown al 47.85 % de descuento'
 date: 2020-06-30 08:13:34
-image: 'https://m.media-amazon.com/images/I/41edoOYrAwL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41edoOYrAwL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '136.63333333333333'
 
 Está [Pala de Pádel Piton Attack | Black Crown | Nivel: Avanzado  Competición  Profesional | Potencia 90%  Control 90%](https://www.amazon.es/dp/B07P8B6VQZ/?tag=tolees-21) con 47.85 de descuento por 119.95 EUR (original: 230.0 EUR) en el siguiente enlace!
 
-[![Pala de Pádel Piton Attack | Black Crown](https://m.media-amazon.com/images/I/41edoOYrAwL._SL200_.jpg)](https://www.amazon.es/dp/B07P8B6VQZ/?tag=tolees-21)
+[![Pala de Pádel Piton Attack | Black Crown](https://m.media-amazon.com/images/I/41edoOYrAwL._SL400_.jpg)](https://www.amazon.es/dp/B07P8B6VQZ/?tag=tolees-21)
 
 ℹ️:
 

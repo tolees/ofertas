@@ -2,7 +2,7 @@
 layout: post
 title: 'New Balance 997H Core  Zapatillas para H al 40.06 % de rebaja'
 date: 2020-07-06 22:05:07
-image: 'https://m.media-amazon.com/images/I/41Zxph8+IbL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Zxph8+IbL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '53.720000000000006'
 
 Tienes [New Balance 997H Core  Zapatillas para Hombre  Negro  Black/Silver Charcoal   40 EU](https://www.amazon.es/dp/B07BL2PZH4/?tag=tolees-21) con precio final de  53.95 EUR (original: 90.0 EUR) (40.06 %  de rebaja) aqui!
 
-[![New Balance 997H Core  Zapatillas para H](https://m.media-amazon.com/images/I/41Zxph8+IbL._SL200_.jpg)](https://www.amazon.es/dp/B07BL2PZH4/?tag=tolees-21)
+[![New Balance 997H Core  Zapatillas para H](https://m.media-amazon.com/images/I/41Zxph8+IbL._SL400_.jpg)](https://www.amazon.es/dp/B07BL2PZH4/?tag=tolees-21)
 
 🔎:
 

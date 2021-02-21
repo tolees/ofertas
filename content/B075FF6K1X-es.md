@@ -2,7 +2,7 @@
 layout: post
 title: 'Maxi-Cosi CabrioFix Silla de Auto  Recli al 26.49 % de descuento'
 date: 2020-02-28 08:12:37
-image: 'https://m.media-amazon.com/images/I/3112iXl4PPL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/3112iXl4PPL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '107.74666666666667'
 
 Está [Maxi-Cosi CabrioFix Silla de Auto  Reclinable y de Alta Seguridad para Bebe  0-12 Meses  0-13 kg  Color Azul  Nomad Blue ](https://www.amazon.es/dp/B075FF6K1X/?tag=tolees-21) con 26.49 de descuento por 131.59 EUR (original: 179.0 EUR) en el siguiente enlace!
 
-[![Maxi-Cosi CabrioFix Silla de Auto  Recli](https://m.media-amazon.com/images/I/3112iXl4PPL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B075FF6K1X/?tag=tolees-21)
+[![Maxi-Cosi CabrioFix Silla de Auto  Recli](https://m.media-amazon.com/images/I/3112iXl4PPL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B075FF6K1X/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Occitop Mujer Unisex    No metálico al 33.21 % de descuento'
 date: 2020-04-27 07:40:56
-image: 'https://m.media-amazon.com/images/I/317-m-l4qlL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/317-m-l4qlL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.4'
 
 Está [Occitop Mujer Unisex    No metálico](https://www.amazon.es/dp/B07MV66PSS/?tag=tolees-21) con 33.21 de descuento por 7.4 EUR (original: 11.08 EUR) en el siguiente enlace!
 
-[![Occitop Mujer Unisex    No metálico](https://m.media-amazon.com/images/I/317-m-l4qlL._SL200_.jpg)](https://www.amazon.es/dp/B07MV66PSS/?tag=tolees-21)
+[![Occitop Mujer Unisex    No metálico](https://m.media-amazon.com/images/I/317-m-l4qlL._SL400_.jpg)](https://www.amazon.es/dp/B07MV66PSS/?tag=tolees-21)
 
 ℹ️:
 

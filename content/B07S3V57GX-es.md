@@ -2,7 +2,7 @@
 layout: post
 title: 'New Balance 500  Zapatillas Mujer  Rosa  al 42.37 % de descuento'
 date: 2020-07-03 17:44:21
-image: 'https://m.media-amazon.com/images/I/41GlKNTzWUL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41GlKNTzWUL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '43.22'
 
 Ahora mismo tienes [New Balance 500  Zapatillas Mujer  Rosa  Gw500Hha   39 EU](https://www.amazon.es/dp/B07S3V57GX/?tag=tolees-21) a 43.22 EUR (original: 75.0 EUR) (42.37 %  de descuento) en el siguiente enlace!
 
-[![New Balance 500  Zapatillas Mujer  Rosa ](https://m.media-amazon.com/images/I/41GlKNTzWUL._SL200_.jpg)](https://www.amazon.es/dp/B07S3V57GX/?tag=tolees-21)
+[![New Balance 500  Zapatillas Mujer  Rosa ](https://m.media-amazon.com/images/I/41GlKNTzWUL._SL400_.jpg)](https://www.amazon.es/dp/B07S3V57GX/?tag=tolees-21)
 
 🔎:
 

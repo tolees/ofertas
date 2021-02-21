@@ -2,7 +2,7 @@
 layout: post
 title: 'Biosilk  Mascarilla de pelo - 118 ml. al 57.96 % de descuento'
 date: 2020-03-19 00:06:11
-image: 'https://m.media-amazon.com/images/I/41i5M37T7JL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41i5M37T7JL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.7'
 
 Ahora mismo tienes [Biosilk  Mascarilla de pelo - 118 ml.](https://www.amazon.es/dp/B00JO57YZQ/?tag=tolees-21) a 5.7 EUR (original: 13.56 EUR) (57.96 %  de descuento) en el siguiente enlace!
 
-[![Biosilk  Mascarilla de pelo - 118 ml.](https://m.media-amazon.com/images/I/41i5M37T7JL._SL200_.jpg)](https://www.amazon.es/dp/B00JO57YZQ/?tag=tolees-21)
+[![Biosilk  Mascarilla de pelo - 118 ml.](https://m.media-amazon.com/images/I/41i5M37T7JL._SL400_.jpg)](https://www.amazon.es/dp/B00JO57YZQ/?tag=tolees-21)
 
 🔎:
 

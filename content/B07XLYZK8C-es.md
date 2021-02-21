@@ -2,7 +2,7 @@
 layout: post
 title: 'Axe Necesser Ice Chill Bodyspray 150 ml  con un 33.62 % de descuento'
 date: 2020-09-15 15:26:58
-image: 'https://m.media-amazon.com/images/I/41nlKsYJlZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41nlKsYJlZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.95'
 
 En este momento está [Axe Necesser Ice Chill Bodyspray 150 ml + Eau de Toillete 50 ml](https://www.amazon.es/dp/B07XLYZK8C/?tag=tolees-21) a 9.95 EUR (original: 14.99 EUR) (33.62 %  de descuento) en el siguiente enlace!
 
-[![Axe Necesser Ice Chill Bodyspray 150 ml ](https://m.media-amazon.com/images/I/41nlKsYJlZL._SL200_.jpg)](https://www.amazon.es/dp/B07XLYZK8C/?tag=tolees-21)
+[![Axe Necesser Ice Chill Bodyspray 150 ml ](https://m.media-amazon.com/images/I/41nlKsYJlZL._SL400_.jpg)](https://www.amazon.es/dp/B07XLYZK8C/?tag=tolees-21)
 
 🔎:
 

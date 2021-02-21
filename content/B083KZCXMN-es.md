@@ -2,7 +2,7 @@
 layout: post
 title: 'Riñonera Pepe Jeans Sail Pequeña  Negro con un 30.20 % de descuento'
 date: 2020-07-01 08:31:06
-image: 'https://m.media-amazon.com/images/I/41Jg3DOgCcL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Jg3DOgCcL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.45'
 
 En este momento está [Riñonera Pepe Jeans Sail Pequeña  Negro](https://www.amazon.es/dp/B083KZCXMN/?tag=tolees-21) a 17.45 EUR (original: 25.0 EUR) (30.20 %  de descuento) en el siguiente enlace!
 
-[![Riñonera Pepe Jeans Sail Pequeña  Negro](https://m.media-amazon.com/images/I/41Jg3DOgCcL._SL200_.jpg)](https://www.amazon.es/dp/B083KZCXMN/?tag=tolees-21)
+[![Riñonera Pepe Jeans Sail Pequeña  Negro](https://m.media-amazon.com/images/I/41Jg3DOgCcL._SL400_.jpg)](https://www.amazon.es/dp/B083KZCXMN/?tag=tolees-21)
 
 🔎:
 

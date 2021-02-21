@@ -2,7 +2,7 @@
 layout: post
 title: 'Ride 3 al 47.60 % de descuento'
 date: 2020-01-22 21:12:32
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51RBX9TvvXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51RBX9TvvXL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.95'
 
 Ahora mismo tienes [Ride 3](https://www.amazon.es/dp/B07DPG512Q/?tag=tolees-21) a 9.95 EUR (original: 18.99 EUR) (47.60 %  de descuento) en el siguiente enlace!
 
-[![Ride 3](https://images-eu.ssl-images-amazon.com/images/I/51RBX9TvvXL._SL200_.jpg)](https://www.amazon.es/dp/B07DPG512Q/?tag=tolees-21)
+[![Ride 3](https://images-eu.ssl-images-amazon.com/images/I/51RBX9TvvXL._SL400_.jpg)](https://www.amazon.es/dp/B07DPG512Q/?tag=tolees-21)
 
 🔎:
 

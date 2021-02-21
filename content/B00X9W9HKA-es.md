@@ -2,7 +2,7 @@
 layout: post
 title: 'L Oreal Paris Sublime Mousse Coloración  al 29.53 % de rebaja'
 date: 2020-10-06 14:07:51
-image: 'https://m.media-amazon.com/images/I/510ye1+AgDL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/510ye1+AgDL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.243333333333333'
 
 Tienes [L Oreal Paris Sublime Mousse Coloración Permanente 450 Caoba Profundo Cautivador](https://www.amazon.es/dp/B00X9W9HKA/?tag=tolees-21) con precio final de  5.99 EUR (original: 8.5 EUR) (29.53 %  de rebaja) aqui!
 
-[![L Oreal Paris Sublime Mousse Coloración ](https://m.media-amazon.com/images/I/510ye1+AgDL._SL200_.jpg)](https://www.amazon.es/dp/B00X9W9HKA/?tag=tolees-21)
+[![L Oreal Paris Sublime Mousse Coloración ](https://m.media-amazon.com/images/I/510ye1+AgDL._SL400_.jpg)](https://www.amazon.es/dp/B00X9W9HKA/?tag=tolees-21)
 
 🔎:
 

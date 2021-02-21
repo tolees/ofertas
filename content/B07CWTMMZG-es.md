@@ -2,7 +2,7 @@
 layout: post
 title: 'Font Vella Levité Agua Mineral con zumo  al 50.00 % de descuento'
 date: 2020-06-06 18:57:28
-image: 'https://m.media-amazon.com/images/I/41yqAmP7frL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41yqAmP7frL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.1'
 
 Ahora mismo tienes [Font Vella Levité Agua Mineral con zumo de limón - Pack 12 x 50cl](https://www.amazon.es/dp/B07CWTMMZG/?tag=tolees-21) a 5.1 EUR (original: 10.2 EUR) (50.00 %  de descuento) en el siguiente enlace!
 
-[![Font Vella Levité Agua Mineral con zumo ](https://m.media-amazon.com/images/I/41yqAmP7frL._SL200_.jpg)](https://www.amazon.es/dp/B07CWTMMZG/?tag=tolees-21)
+[![Font Vella Levité Agua Mineral con zumo ](https://m.media-amazon.com/images/I/41yqAmP7frL._SL400_.jpg)](https://www.amazon.es/dp/B07CWTMMZG/?tag=tolees-21)
 
 🔎:
 

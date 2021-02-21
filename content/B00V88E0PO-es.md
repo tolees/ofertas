@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 44.78 % en Clarins - Gel contorno de ojos - Antioje'
 date: 2020-07-12 19:05:54
-image: 'https://m.media-amazon.com/images/I/319KT3LpydL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/319KT3LpydL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.95'
 
 Tienes [Clarins - Gel contorno de ojos - Antiojeras  Antibolsas - 20 ml](https://www.amazon.es/dp/B00V88E0PO/?tag=tolees-21) con un 44.78 % de descuento con precio de oferta de 21.95 EUR (original: 39.75 EUR) en el siguiente enlace!
 
-[![Clarins - Gel contorno de ojos - Antioje](https://m.media-amazon.com/images/I/319KT3LpydL._SL200_.jpg)](https://www.amazon.es/dp/B00V88E0PO/?tag=tolees-21)
+[![Clarins - Gel contorno de ojos - Antioje](https://m.media-amazon.com/images/I/319KT3LpydL._SL400_.jpg)](https://www.amazon.es/dp/B00V88E0PO/?tag=tolees-21)
 
 ℹ️:
 

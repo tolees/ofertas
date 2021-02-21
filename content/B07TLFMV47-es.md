@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s Housemark  Multicolor  Hm Patch P al 63.32 % de descuento'
 date: 2020-06-13 17:52:38
-image: 'https://m.media-amazon.com/images/I/41ar9EZia6L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ar9EZia6L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '26.224999999999998'
 
 Ahora mismo tienes [Levi s Housemark  Multicolor  Hm Patch Polo Dress Blues/White/Cre 0114   X-Small para Hombre](https://www.amazon.es/dp/B07TLFMV47/?tag=tolees-21) a 18.34 EUR (original: 50.0 EUR) (63.32 %  de descuento) en el siguiente enlace!
 
-[![Levi s Housemark  Multicolor  Hm Patch P](https://m.media-amazon.com/images/I/41ar9EZia6L._SL200_.jpg)](https://www.amazon.es/dp/B07TLFMV47/?tag=tolees-21)
+[![Levi s Housemark  Multicolor  Hm Patch P](https://m.media-amazon.com/images/I/41ar9EZia6L._SL400_.jpg)](https://www.amazon.es/dp/B07TLFMV47/?tag=tolees-21)
 
 🔎:
 

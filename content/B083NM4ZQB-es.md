@@ -2,7 +2,7 @@
 layout: post
 title: '1 unid profesional salón peluquería tint al 33.33 % de rebaja'
 date: 2020-05-14 10:10:59
-image: 'https://m.media-amazon.com/images/I/31H8ow01CCL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31H8ow01CCL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.0'
 
 Tienes [1 unid profesional salón peluquería tinte crema batidor plástico mezclador de pelo barber agitador cuidado del cabello herramientas de peinado licuadora - negro](https://www.amazon.es/dp/B083NM4ZQB/?tag=tolees-21) con precio final de  1.0 EUR (original: 1.5 EUR) (33.33 %  de rebaja) aqui!
 
-[![1 unid profesional salón peluquería tint](https://m.media-amazon.com/images/I/31H8ow01CCL._SL200_.jpg)](https://www.amazon.es/dp/B083NM4ZQB/?tag=tolees-21)
+[![1 unid profesional salón peluquería tint](https://m.media-amazon.com/images/I/31H8ow01CCL._SL400_.jpg)](https://www.amazon.es/dp/B083NM4ZQB/?tag=tolees-21)
 
 🔎:
 

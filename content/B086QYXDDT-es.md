@@ -2,7 +2,7 @@
 layout: post
 title: 'Lámpara de esterilización UV Lámpara ger al 25.91 % de descuento'
 date: 2020-05-15 11:19:01
-image: 'https://m.media-amazon.com/images/I/41aO36vkgSL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41aO36vkgSL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '22.96'
 
 Está [Lámpara de esterilización UV Lámpara germicida ultravioleta portátil Índice Antibacteriano 99% De Esterilización Lámpara de desinfección germicida de mano para el Hogar Hotel Coche Mascota Viaje Baño](https://www.amazon.es/dp/B086QYXDDT/?tag=tolees-21) con 25.91 de descuento por 22.96 EUR (original: 30.99 EUR) en el siguiente enlace!
 
-[![Lámpara de esterilización UV Lámpara ger](https://m.media-amazon.com/images/I/41aO36vkgSL._SL200_.jpg)](https://www.amazon.es/dp/B086QYXDDT/?tag=tolees-21)
+[![Lámpara de esterilización UV Lámpara ger](https://m.media-amazon.com/images/I/41aO36vkgSL._SL400_.jpg)](https://www.amazon.es/dp/B086QYXDDT/?tag=tolees-21)
 
 ℹ️:
 

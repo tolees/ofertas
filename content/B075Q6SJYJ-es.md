@@ -2,7 +2,7 @@
 layout: post
 title: 'Crosstour Cámara de Coche Dash CAM 1080P al 50.01 % de descuento'
 date: 2020-02-13 17:51:19
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41QklM5sd7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41QklM5sd7L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '39.99'
 
 Está [Crosstour Cámara de Coche Dash CAM 1080P Full HD 170°Ángulo Cámara para Coche G-Sensor Detección de Movimiento Grabación en Bucle HDR con Visión Nocturna CR500](https://www.amazon.es/dp/B075Q6SJYJ/?tag=tolees-21) con 50.01 de descuento por 39.99 EUR (original: 79.99 EUR) en el siguiente enlace!
 
-[![Crosstour Cámara de Coche Dash CAM 1080P](https://images-eu.ssl-images-amazon.com/images/I/41QklM5sd7L._SL200_.jpg)](https://www.amazon.es/dp/B075Q6SJYJ/?tag=tolees-21)
+[![Crosstour Cámara de Coche Dash CAM 1080P](https://images-eu.ssl-images-amazon.com/images/I/41QklM5sd7L._SL400_.jpg)](https://www.amazon.es/dp/B075Q6SJYJ/?tag=tolees-21)
 
 ℹ️:
 

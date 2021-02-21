@@ -2,7 +2,7 @@
 layout: post
 title: 'Salomon Shorts para running  AGILE 7"  t con un 49.20 % de descuento'
 date: 2020-05-08 16:40:10
-image: 'https://m.media-amazon.com/images/I/31ixSrmIJiL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31ixSrmIJiL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.33'
 
 En este momento está [Salomon Shorts para running  AGILE 7"  tafetán  negro  hombre  talla: XS  l40118300](https://www.amazon.es/dp/B0754NMR3V/?tag=tolees-21) a 20.32 EUR (original: 40.0 EUR) (49.20 %  de descuento) en el siguiente enlace!
 
-[![Salomon Shorts para running  AGILE 7"  t](https://m.media-amazon.com/images/I/31ixSrmIJiL._SL200_.jpg)](https://www.amazon.es/dp/B0754NMR3V/?tag=tolees-21)
+[![Salomon Shorts para running  AGILE 7"  t](https://m.media-amazon.com/images/I/31ixSrmIJiL._SL400_.jpg)](https://www.amazon.es/dp/B0754NMR3V/?tag=tolees-21)
 
 🔎:
 

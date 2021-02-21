@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger Organic Cotton Silk Crew  al 55.57 % de descuento'
 date: 2020-09-26 12:35:55
-image: 'https://m.media-amazon.com/images/I/41HIIbds6aL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41HIIbds6aL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '36.495000000000005'
 
 Está [Tommy Hilfiger Organic Cotton Silk Crew Neck Pantalones  Azul  Faded Indigo Heather DVD   Small para Hombre](https://www.amazon.es/dp/B07VRC1DDT/?tag=tolees-21) con 55.57 de descuento por 43.61 EUR (original: 98.16 EUR) en el siguiente enlace!
 
-[![Tommy Hilfiger Organic Cotton Silk Crew ](https://m.media-amazon.com/images/I/41HIIbds6aL._SL200_.jpg)](https://www.amazon.es/dp/B07VRC1DDT/?tag=tolees-21)
+[![Tommy Hilfiger Organic Cotton Silk Crew ](https://m.media-amazon.com/images/I/41HIIbds6aL._SL400_.jpg)](https://www.amazon.es/dp/B07VRC1DDT/?tag=tolees-21)
 
 ℹ️:
 

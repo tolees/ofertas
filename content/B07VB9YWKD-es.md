@@ -2,7 +2,7 @@
 layout: post
 title: 'edc by Esprit 099cc1i020 suéter  Gris  G al 33.34 % de rebaja'
 date: 2020-01-17 14:06:33
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41GJQyjcr8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41GJQyjcr8L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.99'
 
 Tienes [edc by Esprit 099cc1i020 suéter  Gris  Gunmetal 5 019   Medium para Mujer](https://www.amazon.es/dp/B07VB9YWKD/?tag=tolees-21) con precio final de  19.99 EUR (original: 29.99 EUR) (33.34 %  de rebaja) aqui!
 
-[![edc by Esprit 099cc1i020 suéter  Gris  G](https://images-eu.ssl-images-amazon.com/images/I/41GJQyjcr8L._SL200_.jpg)](https://www.amazon.es/dp/B07VB9YWKD/?tag=tolees-21)
+[![edc by Esprit 099cc1i020 suéter  Gris  G](https://images-eu.ssl-images-amazon.com/images/I/41GJQyjcr8L._SL400_.jpg)](https://www.amazon.es/dp/B07VB9YWKD/?tag=tolees-21)
 
 🔎:
 

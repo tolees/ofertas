@@ -2,7 +2,7 @@
 layout: post
 title: 'Sangean DDR3-1BT - Radio DAB  Reloj  dig al 60.00 % de rebaja'
 date: 2020-03-18 11:58:57
-image: 'https://m.media-amazon.com/images/I/41ysPMsk4EL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ysPMsk4EL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '89.55'
 
 Tienes [Sangean DDR3-1BT - Radio DAB  Reloj  digital  DAB+  FM  4 W  76.2 mm  3 "   LCD   color madera y plata  importado ](https://www.amazon.es/dp/B00AN4ZUYE/?tag=tolees-21) con precio final de  79.6 EUR (original: 199.0 EUR) (60.00 %  de rebaja) aqui!
 
-[![Sangean DDR3-1BT - Radio DAB  Reloj  dig](https://m.media-amazon.com/images/I/41ysPMsk4EL._SL200_.jpg)](https://www.amazon.es/dp/B00AN4ZUYE/?tag=tolees-21)
+[![Sangean DDR3-1BT - Radio DAB  Reloj  dig](https://m.media-amazon.com/images/I/41ysPMsk4EL._SL400_.jpg)](https://www.amazon.es/dp/B00AN4ZUYE/?tag=tolees-21)
 
 🔎:
 

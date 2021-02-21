@@ -2,7 +2,7 @@
 layout: post
 title: 'Queta Juego 12 Pinceles para Pintar Arti con un 50.00 % de descuento'
 date: 2020-08-30 19:19:21
-image: 'https://m.media-amazon.com/images/I/51CsS3yzQ8L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51CsS3yzQ8L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.89'
 
 En este momento está [Queta Juego 12 Pinceles para Pintar Artistas Pinceles Acrílicos Sujetan una punta fina y una pluma para óleo  acuarela  acrílico  uñas y modelos  pinceles de detalle ](https://www.amazon.es/dp/B086QRLW8G/?tag=tolees-21) a 12.89 EUR (original: 25.78 EUR) (50.00 %  de descuento) en el siguiente enlace!
 
-[![Queta Juego 12 Pinceles para Pintar Arti](https://m.media-amazon.com/images/I/51CsS3yzQ8L._SL200_.jpg)](https://www.amazon.es/dp/B086QRLW8G/?tag=tolees-21)
+[![Queta Juego 12 Pinceles para Pintar Arti](https://m.media-amazon.com/images/I/51CsS3yzQ8L._SL400_.jpg)](https://www.amazon.es/dp/B086QRLW8G/?tag=tolees-21)
 
 🔎:
 

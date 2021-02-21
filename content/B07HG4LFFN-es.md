@@ -2,7 +2,7 @@
 layout: post
 title: 'New Balance Fresh Foam Vongo  Zapatillas al 58.27 % de rebaja'
 date: 2020-06-07 21:52:58
-image: 'https://m.media-amazon.com/images/I/41dQvWoe27L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41dQvWoe27L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '65.98'
 
 Tienes [New Balance Fresh Foam Vongo  Zapatillas de Running para Hombre  Negro  Black Black   40.5 EU](https://www.amazon.es/dp/B07HG4LFFN/?tag=tolees-21) con precio final de  62.6 EUR (original: 150.0 EUR) (58.27 %  de rebaja) aqui!
 
-[![New Balance Fresh Foam Vongo  Zapatillas](https://m.media-amazon.com/images/I/41dQvWoe27L._SL200_.jpg)](https://www.amazon.es/dp/B07HG4LFFN/?tag=tolees-21)
+[![New Balance Fresh Foam Vongo  Zapatillas](https://m.media-amazon.com/images/I/41dQvWoe27L._SL400_.jpg)](https://www.amazon.es/dp/B07HG4LFFN/?tag=tolees-21)
 
 🔎:
 

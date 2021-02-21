@@ -2,7 +2,7 @@
 layout: post
 title: 'Zombie Army Trilogy - Survivor Edition al 41.26 % de descuento'
 date: 2020-01-20 08:37:32
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51FwQHFCE8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51FwQHFCE8L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.93333333333333'
 
 Ahora mismo tienes [Zombie Army Trilogy - Survivor Edition](https://www.amazon.es/dp/B07R2C9S7G/?tag=tolees-21) a 29.95 EUR (original: 50.99 EUR) (41.26 %  de descuento) en el siguiente enlace!
 
-[![Zombie Army Trilogy - Survivor Edition](https://images-eu.ssl-images-amazon.com/images/I/51FwQHFCE8L._SL200_.jpg)](https://www.amazon.es/dp/B07R2C9S7G/?tag=tolees-21)
+[![Zombie Army Trilogy - Survivor Edition](https://images-eu.ssl-images-amazon.com/images/I/51FwQHFCE8L._SL400_.jpg)](https://www.amazon.es/dp/B07R2C9S7G/?tag=tolees-21)
 
 🔎:
 

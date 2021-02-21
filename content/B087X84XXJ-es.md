@@ -2,7 +2,7 @@
 layout: post
 title: 'Suhctup Funda Transparent Compatible par al 47.15 % de rebaja'
 date: 2020-05-15 13:41:21
-image: 'https://m.media-amazon.com/images/I/41NnPui6viL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41NnPui6viL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.98'
 
 Tienes [Suhctup Funda Transparent Compatible para Galaxy J2 Prime 2017/G530 Carcasa Protectora [Antigolpes] Suave Silicona TPU Bumper Cojín de Aire de Cuatro Esquinas Protector Gel para Galaxy G530 A5](https://www.amazon.es/dp/B087X84XXJ/?tag=tolees-21) con precio final de  8.98 EUR (original: 16.99 EUR) (47.15 %  de rebaja) aqui!
 
-[![Suhctup Funda Transparent Compatible par](https://m.media-amazon.com/images/I/41NnPui6viL._SL200_.jpg)](https://www.amazon.es/dp/B087X84XXJ/?tag=tolees-21)
+[![Suhctup Funda Transparent Compatible par](https://m.media-amazon.com/images/I/41NnPui6viL._SL400_.jpg)](https://www.amazon.es/dp/B087X84XXJ/?tag=tolees-21)
 
 🔎:
 

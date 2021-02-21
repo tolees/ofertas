@@ -2,7 +2,7 @@
 layout: post
 title: 'Reebok CL LTHR 3912 - Zapatillas de cuer al 64.42 % de descuento'
 date: 2020-01-28 18:08:42
-image: 'https://m.media-amazon.com/images/I/412t5r87ogL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/412t5r87ogL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '35.95'
 
 Ahora mismo tienes [Reebok CL LTHR 3912 - Zapatillas de cuero nobuck unisex  Negro  Int / Black   35.5 EU](https://www.amazon.es/dp/B002DPWSDM/?tag=tolees-21) a 32.0 EUR (original: 89.95 EUR) (64.42 %  de descuento) en el siguiente enlace!
 
-[![Reebok CL LTHR 3912 - Zapatillas de cuer](https://m.media-amazon.com/images/I/412t5r87ogL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B002DPWSDM/?tag=tolees-21)
+[![Reebok CL LTHR 3912 - Zapatillas de cuer](https://m.media-amazon.com/images/I/412t5r87ogL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B002DPWSDM/?tag=tolees-21)
 
 🔎:
 

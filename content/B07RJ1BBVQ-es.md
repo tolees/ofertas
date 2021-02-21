@@ -2,7 +2,7 @@
 layout: post
 title: 'Nike Pico 5  PSV   Zapatillas de Tenis U al 63.30 % de descuento'
 date: 2020-04-02 16:34:28
-image: 'https://m.media-amazon.com/images/I/31uLLrVywaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31uLLrVywaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.01'
 
 Está [Nike Pico 5  PSV   Zapatillas de Tenis Unisex Niños  Blanco  White/White/Pure Platinum 100   34 EU](https://www.amazon.es/dp/B07RJ1BBVQ/?tag=tolees-21) con 63.30 de descuento por 11.01 EUR (original: 30.0 EUR) en el siguiente enlace!
 
-[![Nike Pico 5  PSV   Zapatillas de Tenis U](https://m.media-amazon.com/images/I/31uLLrVywaL._SL200_.jpg)](https://www.amazon.es/dp/B07RJ1BBVQ/?tag=tolees-21)
+[![Nike Pico 5  PSV   Zapatillas de Tenis U](https://m.media-amazon.com/images/I/31uLLrVywaL._SL400_.jpg)](https://www.amazon.es/dp/B07RJ1BBVQ/?tag=tolees-21)
 
 ℹ️:
 

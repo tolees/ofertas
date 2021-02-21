@@ -2,7 +2,7 @@
 layout: post
 title: 'Chicco Liteway 3 Silla de paseo plegable al 28.25 % de rebaja'
 date: 2020-05-12 17:09:48
-image: 'https://m.media-amazon.com/images/I/41UX6G1q-EL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41UX6G1q-EL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '150.93200000000002'
 
 Tienes [Chicco Liteway 3 Silla de paseo plegable y multifuncional  Unisex Bambini  Gris  Titanium ](https://www.amazon.es/dp/B07G38C4TD/?tag=tolees-21) con precio final de  149.95 EUR (original: 209.0 EUR) (28.25 %  de rebaja) aqui!
 
-[![Chicco Liteway 3 Silla de paseo plegable](https://m.media-amazon.com/images/I/41UX6G1q-EL._SL200_.jpg)](https://www.amazon.es/dp/B07G38C4TD/?tag=tolees-21)
+[![Chicco Liteway 3 Silla de paseo plegable](https://m.media-amazon.com/images/I/41UX6G1q-EL._SL400_.jpg)](https://www.amazon.es/dp/B07G38C4TD/?tag=tolees-21)
 
 🔎:
 

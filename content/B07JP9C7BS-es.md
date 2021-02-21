@@ -2,7 +2,7 @@
 layout: post
 title: 'Morgan Tshirt Manches Courtes Col V Dent al 64.33 % de descuento'
 date: 2020-04-15 18:08:50
-image: 'https://m.media-amazon.com/images/I/31b1WbRU3AL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31b1WbRU3AL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.7'
 
 Ahora mismo tienes [Morgan Tshirt Manches Courtes Col V Dentelle DMINOL T-Shirt  Negro  Noir Noir   X-Small  Talla del Fabricante: TXS  Women s](https://www.amazon.es/dp/B07JP9C7BS/?tag=tolees-21) a 10.7 EUR (original: 30.0 EUR) (64.33 %  de descuento) en el siguiente enlace!
 
-[![Morgan Tshirt Manches Courtes Col V Dent](https://m.media-amazon.com/images/I/31b1WbRU3AL._SL200_.jpg)](https://www.amazon.es/dp/B07JP9C7BS/?tag=tolees-21)
+[![Morgan Tshirt Manches Courtes Col V Dent](https://m.media-amazon.com/images/I/31b1WbRU3AL._SL400_.jpg)](https://www.amazon.es/dp/B07JP9C7BS/?tag=tolees-21)
 
 🔎:
 

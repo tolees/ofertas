@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 36.56 % en World Rally Championship  WRC 6 '
 date: 2020-05-16 07:55:27
-image: 'https://m.media-amazon.com/images/I/51KbnoP79nL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51KbnoP79nL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '44.4'
 
 Tienes [World Rally Championship  WRC 6 ](https://www.amazon.es/dp/B01KJS5OQC/?tag=tolees-21) con un 36.56 % de descuento con precio de oferta de 44.4 EUR (original: 69.99 EUR) en el siguiente enlace!
 
-[![World Rally Championship  WRC 6 ](https://m.media-amazon.com/images/I/51KbnoP79nL._SL200_.jpg)](https://www.amazon.es/dp/B01KJS5OQC/?tag=tolees-21)
+[![World Rally Championship  WRC 6 ](https://m.media-amazon.com/images/I/51KbnoP79nL._SL400_.jpg)](https://www.amazon.es/dp/B01KJS5OQC/?tag=tolees-21)
 
 ℹ️:
 

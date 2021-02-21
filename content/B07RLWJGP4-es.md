@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas Ultraboost 19 W  Zapatillas de Ru al 53.26 % de rebaja'
 date: 2020-01-15 11:36:33
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41EI-nFyEtL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41EI-nFyEtL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '84.11'
 
 Tienes [adidas Ultraboost 19 W  Zapatillas de Running para Mujer  Negro  Core Black/Core Black/FTWR White Core Black/Core Black/FTWR White   36 2/3 EU](https://www.amazon.es/dp/B07RLWJGP4/?tag=tolees-21) con precio final de  84.11 EUR (original: 179.95 EUR) (53.26 %  de rebaja) aqui!
 
-[![adidas Ultraboost 19 W  Zapatillas de Ru](https://images-eu.ssl-images-amazon.com/images/I/41EI-nFyEtL._SL200_.jpg)](https://www.amazon.es/dp/B07RLWJGP4/?tag=tolees-21)
+[![adidas Ultraboost 19 W  Zapatillas de Ru](https://images-eu.ssl-images-amazon.com/images/I/41EI-nFyEtL._SL400_.jpg)](https://www.amazon.es/dp/B07RLWJGP4/?tag=tolees-21)
 
 🔎:
 

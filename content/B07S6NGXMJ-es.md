@@ -2,7 +2,7 @@
 layout: post
 title: 'PUMA Radiate XT Pattern WN S  Zapatillas al 36.66 % de descuento'
 date: 2020-06-24 10:23:33
-image: 'https://m.media-amazon.com/images/I/31UfbUmCUcL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31UfbUmCUcL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.46'
 
 Está [PUMA Radiate XT Pattern WN S  Zapatillas Deportivas para Interior para Mujer  Negro Black/Green Glimmer  38.5 EU](https://www.amazon.es/dp/B07S6NGXMJ/?tag=tolees-21) con 36.66 de descuento por 23.46 EUR (original: 37.04 EUR) en el siguiente enlace!
 
-[![PUMA Radiate XT Pattern WN S  Zapatillas](https://m.media-amazon.com/images/I/31UfbUmCUcL._SL200_.jpg)](https://www.amazon.es/dp/B07S6NGXMJ/?tag=tolees-21)
+[![PUMA Radiate XT Pattern WN S  Zapatillas](https://m.media-amazon.com/images/I/31UfbUmCUcL._SL400_.jpg)](https://www.amazon.es/dp/B07S6NGXMJ/?tag=tolees-21)
 
 ℹ️:
 

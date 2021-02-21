@@ -2,7 +2,7 @@
 layout: post
 title: 'PUMA ANZARUN Lite  Zapatillas Unisex Adu al 34.23 % de descuento'
 date: 2020-10-05 00:51:25
-image: 'https://m.media-amazon.com/images/I/31iK1bMpNbL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31iK1bMpNbL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '32.85'
 
 Está [PUMA ANZARUN Lite  Zapatillas Unisex Adulto  Negro Black White  42.5 EU](https://www.amazon.es/dp/B07S6NSZWP/?tag=tolees-21) con 34.23 de descuento por 32.85 EUR (original: 49.95 EUR) en el siguiente enlace!
 
-[![PUMA ANZARUN Lite  Zapatillas Unisex Adu](https://m.media-amazon.com/images/I/31iK1bMpNbL._SL200_.jpg)](https://www.amazon.es/dp/B07S6NSZWP/?tag=tolees-21)
+[![PUMA ANZARUN Lite  Zapatillas Unisex Adu](https://m.media-amazon.com/images/I/31iK1bMpNbL._SL400_.jpg)](https://www.amazon.es/dp/B07S6NSZWP/?tag=tolees-21)
 
 ℹ️:
 

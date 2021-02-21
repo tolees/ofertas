@@ -2,7 +2,7 @@
 layout: post
 title: 'Funko Pop Games: PUBG - Hawaiian Shirt G con un 33.30 % de descuento'
 date: 2020-10-03 12:22:02
-image: 'https://m.media-amazon.com/images/I/41rdzmh46WL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41rdzmh46WL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.484999999999999'
 
 En este momento está [Funko Pop Games: PUBG - Hawaiian Shirt Guy  Multicolor  Estándar](https://www.amazon.es/dp/B07SM8C58J/?tag=tolees-21) a 6.67 EUR (original: 10.0 EUR) (33.30 %  de descuento) en el siguiente enlace!
 
-[![Funko Pop Games: PUBG - Hawaiian Shirt G](https://m.media-amazon.com/images/I/41rdzmh46WL._SL200_.jpg)](https://www.amazon.es/dp/B07SM8C58J/?tag=tolees-21)
+[![Funko Pop Games: PUBG - Hawaiian Shirt G](https://m.media-amazon.com/images/I/41rdzmh46WL._SL400_.jpg)](https://www.amazon.es/dp/B07SM8C58J/?tag=tolees-21)
 
 🔎:
 

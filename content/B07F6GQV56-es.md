@@ -2,7 +2,7 @@
 layout: post
 title: 'JACK & JONES Jjeholmen Sweat Crew Neck N al 40.02 % de descuento'
 date: 2020-10-09 09:58:02
-image: 'https://m.media-amazon.com/images/I/31oOBttMEeL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31oOBttMEeL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.2975'
 
 Está [JACK & JONES Jjeholmen Sweat Crew Neck Noos  Suéter para Hombre  Verde  Olive Night   X-Small](https://www.amazon.es/dp/B07F6GQV56/?tag=tolees-21) con 40.02 de descuento por 11.99 EUR (original: 19.99 EUR) en el siguiente enlace!
 
-[![JACK & JONES Jjeholmen Sweat Crew Neck N](https://m.media-amazon.com/images/I/31oOBttMEeL._SL200_.jpg)](https://www.amazon.es/dp/B07F6GQV56/?tag=tolees-21)
+[![JACK & JONES Jjeholmen Sweat Crew Neck N](https://m.media-amazon.com/images/I/31oOBttMEeL._SL400_.jpg)](https://www.amazon.es/dp/B07F6GQV56/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Espirógrafo multifuncional Gobernante ge al 35.03 % de descuento'
 date: 2020-06-18 14:45:50
-image: 'https://m.media-amazon.com/images/I/31YeqhmXqHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31YeqhmXqHL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.19'
 
 Ahora mismo tienes [Espirógrafo multifuncional Gobernante geométrico Niños estudiantes que aprenden a dibujar Dibujo Papelería Útiles de oficina - Amarillo](https://www.amazon.es/dp/B07XQYSMN2/?tag=tolees-21) a 3.19 EUR (original: 4.91 EUR) (35.03 %  de descuento) en el siguiente enlace!
 
-[![Espirógrafo multifuncional Gobernante ge](https://m.media-amazon.com/images/I/31YeqhmXqHL._SL200_.jpg)](https://www.amazon.es/dp/B07XQYSMN2/?tag=tolees-21)
+[![Espirógrafo multifuncional Gobernante ge](https://m.media-amazon.com/images/I/31YeqhmXqHL._SL400_.jpg)](https://www.amazon.es/dp/B07XQYSMN2/?tag=tolees-21)
 
 🔎:
 

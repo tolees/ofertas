@@ -2,7 +2,7 @@
 layout: post
 title: 'Super Sand Giant Gigante  Color Natural  al 29.93 % de rebaja'
 date: 2020-08-17 16:16:29
-image: 'https://m.media-amazon.com/images/I/51dE6T8Uz9L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51dE6T8Uz9L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '35.0'
 
 Tienes [Super Sand Giant Gigante  Color Natural  Goliath 83221 ](https://www.amazon.es/dp/B00J0PG9GK/?tag=tolees-21) con precio final de  35.0 EUR (original: 49.95 EUR) (29.93 %  de rebaja) aqui!
 
-[![Super Sand Giant Gigante  Color Natural ](https://m.media-amazon.com/images/I/51dE6T8Uz9L._SL200_.jpg)](https://www.amazon.es/dp/B00J0PG9GK/?tag=tolees-21)
+[![Super Sand Giant Gigante  Color Natural ](https://m.media-amazon.com/images/I/51dE6T8Uz9L._SL400_.jpg)](https://www.amazon.es/dp/B00J0PG9GK/?tag=tolees-21)
 
 🔎:
 

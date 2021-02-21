@@ -2,7 +2,7 @@
 layout: post
 title: 'Jurassic Park Poster Classic Logo  Multi al 75.45 % de rebaja'
 date: 2020-05-28 09:34:16
-image: 'https://m.media-amazon.com/images/I/513L7EVljEL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/513L7EVljEL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.95'
 
 Tienes [Jurassic Park Poster Classic Logo  Multicolor  61 x 91.5cm](https://www.amazon.es/dp/B07BNV9D9C/?tag=tolees-21) con precio final de  6.95 EUR (original: 28.31 EUR) (75.45 %  de rebaja) aqui!
 
-[![Jurassic Park Poster Classic Logo  Multi](https://m.media-amazon.com/images/I/513L7EVljEL._SL200_.jpg)](https://www.amazon.es/dp/B07BNV9D9C/?tag=tolees-21)
+[![Jurassic Park Poster Classic Logo  Multi](https://m.media-amazon.com/images/I/513L7EVljEL._SL400_.jpg)](https://www.amazon.es/dp/B07BNV9D9C/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Catrice The Modern Matt Collection Palet con un 47.45 % de descuento'
 date: 2020-09-23 07:34:05
-image: 'https://m.media-amazon.com/images/I/41e1DVeFfIL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41e1DVeFfIL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.99'
 
 En este momento está [Catrice The Modern Matt Collection Paleta de Sombras de Ojos  Multi 010 21 g](https://www.amazon.es/dp/B06WW27S3F/?tag=tolees-21) a 2.99 EUR (original: 5.69 EUR) (47.45 %  de descuento) en el siguiente enlace!
 
-[![Catrice The Modern Matt Collection Palet](https://m.media-amazon.com/images/I/41e1DVeFfIL._SL200_.jpg)](https://www.amazon.es/dp/B06WW27S3F/?tag=tolees-21)
+[![Catrice The Modern Matt Collection Palet](https://m.media-amazon.com/images/I/41e1DVeFfIL._SL400_.jpg)](https://www.amazon.es/dp/B06WW27S3F/?tag=tolees-21)
 
 🔎:
 

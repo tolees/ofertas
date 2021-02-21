@@ -2,7 +2,7 @@
 layout: post
 title: 'Spiderman Dark-Carpeta Anillas al 56.30 % de rebaja'
 date: 2020-10-08 21:18:26
-image: 'https://m.media-amazon.com/images/I/41gFdVU7wgL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41gFdVU7wgL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.99'
 
 Tienes [Spiderman Dark-Carpeta Anillas](https://www.amazon.es/dp/B084S6WW9H/?tag=tolees-21) con precio final de  3.99 EUR (original: 9.13 EUR) (56.30 %  de rebaja) aqui!
 
-[![Spiderman Dark-Carpeta Anillas](https://m.media-amazon.com/images/I/41gFdVU7wgL._SL200_.jpg)](https://www.amazon.es/dp/B084S6WW9H/?tag=tolees-21)
+[![Spiderman Dark-Carpeta Anillas](https://m.media-amazon.com/images/I/41gFdVU7wgL._SL400_.jpg)](https://www.amazon.es/dp/B084S6WW9H/?tag=tolees-21)
 
 🔎:
 

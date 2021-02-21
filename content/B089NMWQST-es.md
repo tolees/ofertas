@@ -2,7 +2,7 @@
 layout: post
 title: 'NDANH9896 Teléfono Fijo líneas Simples E al 50.03 % de rebaja'
 date: 2020-06-16 12:31:54
-image: 'https://m.media-amazon.com/images/I/51nV40dyEWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51nV40dyEWL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.99'
 
 Tienes [NDANH9896 Teléfono Fijo líneas Simples Estilo Retro La Tela de Lino Nunca se desvanece 45X45 cm](https://www.amazon.es/dp/B089NMWQST/?tag=tolees-21) con precio final de  9.99 EUR (original: 19.99 EUR) (50.03 %  de rebaja) aqui!
 
-[![NDANH9896 Teléfono Fijo líneas Simples E](https://m.media-amazon.com/images/I/51nV40dyEWL._SL200_.jpg)](https://www.amazon.es/dp/B089NMWQST/?tag=tolees-21)
+[![NDANH9896 Teléfono Fijo líneas Simples E](https://m.media-amazon.com/images/I/51nV40dyEWL._SL400_.jpg)](https://www.amazon.es/dp/B089NMWQST/?tag=tolees-21)
 
 🔎:
 

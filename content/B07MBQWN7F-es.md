@@ -2,7 +2,7 @@
 layout: post
 title: 'Kickers Layton  Botas Clasicas para Homb al 68.72 % de descuento'
 date: 2020-02-13 17:19:04
-image: 'https://m.media-amazon.com/images/I/31FH2Yav5wL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31FH2Yav5wL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '34.09'
 
 Ahora mismo tienes [Kickers Layton  Botas Clasicas para Hombre  Azul  Marine 10   40 EU](https://www.amazon.es/dp/B07MBQWN7F/?tag=tolees-21) a 34.09 EUR (original: 109.0 EUR) (68.72 %  de descuento) en el siguiente enlace!
 
-[![Kickers Layton  Botas Clasicas para Homb](https://m.media-amazon.com/images/I/31FH2Yav5wL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07MBQWN7F/?tag=tolees-21)
+[![Kickers Layton  Botas Clasicas para Homb](https://m.media-amazon.com/images/I/31FH2Yav5wL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07MBQWN7F/?tag=tolees-21)
 
 🔎:
 

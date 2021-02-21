@@ -2,7 +2,7 @@
 layout: post
 title: 'Bestway 52190 - Canasta Hinchable Balonc al 45.43 % de descuento'
 date: 2020-07-07 16:10:59
-image: 'https://m.media-amazon.com/images/I/412Sj1q5mtL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/412Sj1q5mtL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.2925'
 
 Ahora mismo tienes [Bestway 52190 - Canasta Hinchable Baloncesto Game Center Ø61 cm](https://www.amazon.es/dp/B00FO7E07I/?tag=tolees-21) a 4.9 EUR (original: 8.98 EUR) (45.43 %  de descuento) en el siguiente enlace!
 
-[![Bestway 52190 - Canasta Hinchable Balonc](https://m.media-amazon.com/images/I/412Sj1q5mtL._SL200_.jpg)](https://www.amazon.es/dp/B00FO7E07I/?tag=tolees-21)
+[![Bestway 52190 - Canasta Hinchable Balonc](https://m.media-amazon.com/images/I/412Sj1q5mtL._SL400_.jpg)](https://www.amazon.es/dp/B00FO7E07I/?tag=tolees-21)
 
 🔎:
 

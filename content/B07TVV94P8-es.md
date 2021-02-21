@@ -2,7 +2,7 @@
 layout: post
 title: 'TOUS BRIGHT - Pendientes amatista hidrot con un 53.69 % de descuento'
 date: 2020-01-22 11:10:49
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31QZb5QfK0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31QZb5QfK0L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '69.0'
 
 En este momento está [TOUS BRIGHT - Pendientes amatista hidrotermal con base de nácar](https://www.amazon.es/dp/B07TVV94P8/?tag=tolees-21) a 69 EUR (original: 149 EUR) (53.69 %  de descuento) en el siguiente enlace!
 
-[![TOUS BRIGHT - Pendientes amatista hidrot](https://images-eu.ssl-images-amazon.com/images/I/31QZb5QfK0L._SL200_.jpg)](https://www.amazon.es/dp/B07TVV94P8/?tag=tolees-21)
+[![TOUS BRIGHT - Pendientes amatista hidrot](https://images-eu.ssl-images-amazon.com/images/I/31QZb5QfK0L._SL400_.jpg)](https://www.amazon.es/dp/B07TVV94P8/?tag=tolees-21)
 
 🔎:
 

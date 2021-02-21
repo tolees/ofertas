@@ -2,7 +2,7 @@
 layout: post
 title: 'Wahl Detailer Afro - Cortapelos  Negro con un 25.00 % de descuento'
 date: 2020-03-17 18:21:04
-image: 'https://m.media-amazon.com/images/I/41IOcheLzjL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41IOcheLzjL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '60.0'
 
 En este momento está [Wahl Detailer Afro - Cortapelos  Negro](https://www.amazon.es/dp/B07RPVWTR3/?tag=tolees-21) a 60.0 EUR (original: 80.0 EUR) (25.00 %  de descuento) en el siguiente enlace!
 
-[![Wahl Detailer Afro - Cortapelos  Negro](https://m.media-amazon.com/images/I/41IOcheLzjL._SL200_.jpg)](https://www.amazon.es/dp/B07RPVWTR3/?tag=tolees-21)
+[![Wahl Detailer Afro - Cortapelos  Negro](https://m.media-amazon.com/images/I/41IOcheLzjL._SL400_.jpg)](https://www.amazon.es/dp/B07RPVWTR3/?tag=tolees-21)
 
 🔎:
 

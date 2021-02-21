@@ -2,7 +2,7 @@
 layout: post
 title: 'PEKITAS Pack 3 Muselinas Extra Grandes M al 50.00 % de descuento'
 date: 2020-05-15 11:10:37
-image: 'https://m.media-amazon.com/images/I/41c83CNpp8L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41c83CNpp8L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.0'
 
 Está [PEKITAS Pack 3 Muselinas Extra Grandes Mantas de Muselina de 100% Algodón Suave y Sedoso Envolventes transpirables  Pack 3 mantas 115 x 115 cm  45 inches  Colección blanco negro ](https://www.amazon.es/dp/B07DVMNSR6/?tag=tolees-21) con 50.00 de descuento por 15.0 EUR (original: 30.0 EUR) en el siguiente enlace!
 
-[![PEKITAS Pack 3 Muselinas Extra Grandes M](https://m.media-amazon.com/images/I/41c83CNpp8L._SL200_.jpg)](https://www.amazon.es/dp/B07DVMNSR6/?tag=tolees-21)
+[![PEKITAS Pack 3 Muselinas Extra Grandes M](https://m.media-amazon.com/images/I/41c83CNpp8L._SL400_.jpg)](https://www.amazon.es/dp/B07DVMNSR6/?tag=tolees-21)
 
 ℹ️:
 

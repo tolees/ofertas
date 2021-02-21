@@ -2,7 +2,7 @@
 layout: post
 title: 'Jack & Jones JJIRICK JJICON Shorts AMA S al 54.10 % de descuento'
 date: 2020-08-25 10:37:54
-image: 'https://m.media-amazon.com/images/I/41lCElKuNHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41lCElKuNHL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.88'
 
 Está [Jack & Jones JJIRICK JJICON Shorts AMA STS Pantalones Cortos  Verde Oliva  S para Hombre](https://www.amazon.es/dp/B085J86FYW/?tag=tolees-21) con 54.10 de descuento por 11.88 EUR (original: 25.88 EUR) en el siguiente enlace!
 
-[![Jack & Jones JJIRICK JJICON Shorts AMA S](https://m.media-amazon.com/images/I/41lCElKuNHL._SL200_.jpg)](https://www.amazon.es/dp/B085J86FYW/?tag=tolees-21)
+[![Jack & Jones JJIRICK JJICON Shorts AMA S](https://m.media-amazon.com/images/I/41lCElKuNHL._SL400_.jpg)](https://www.amazon.es/dp/B085J86FYW/?tag=tolees-21)
 
 ℹ️:
 

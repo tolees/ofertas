@@ -2,7 +2,7 @@
 layout: post
 title: 'Puma Turin Ii Zapatillas Unisex adulto   al 49.95 % de descuento'
 date: 2020-01-09 22:51:02
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41U6TWsEtDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41U6TWsEtDL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '27.5'
 
 Está [Puma Turin Ii Zapatillas Unisex adulto  Azul  Peacoat-Puma White 5   42 EU  8 UK ](https://www.amazon.es/dp/B07DC1YXTV/?tag=tolees-21) con 49.95 de descuento por 27.5 EUR (original: 54.95 EUR) en el siguiente enlace!
 
-[![Puma Turin Ii Zapatillas Unisex adulto  ](https://images-eu.ssl-images-amazon.com/images/I/41U6TWsEtDL._SL200_.jpg)](https://www.amazon.es/dp/B07DC1YXTV/?tag=tolees-21)
+[![Puma Turin Ii Zapatillas Unisex adulto  ](https://images-eu.ssl-images-amazon.com/images/I/41U6TWsEtDL._SL400_.jpg)](https://www.amazon.es/dp/B07DC1YXTV/?tag=tolees-21)
 
 ℹ️:
 

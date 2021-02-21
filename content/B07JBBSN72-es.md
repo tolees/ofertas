@@ -2,7 +2,7 @@
 layout: post
 title: 'E-Reader Funda para Bq Cervantes 4 Funda al 53.33 % de descuento'
 date: 2020-04-15 00:32:45
-image: 'https://m.media-amazon.com/images/I/41lP0fVtYNL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41lP0fVtYNL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.0'
 
 Ahora mismo tienes [E-Reader Funda para Bq Cervantes 4 Funda Soporte Cuero Case Cover HS](https://www.amazon.es/dp/B07JBBSN72/?tag=tolees-21) a 14.0 EUR (original: 30.0 EUR) (53.33 %  de descuento) en el siguiente enlace!
 
-[![E-Reader Funda para Bq Cervantes 4 Funda](https://m.media-amazon.com/images/I/41lP0fVtYNL._SL200_.jpg)](https://www.amazon.es/dp/B07JBBSN72/?tag=tolees-21)
+[![E-Reader Funda para Bq Cervantes 4 Funda](https://m.media-amazon.com/images/I/41lP0fVtYNL._SL400_.jpg)](https://www.amazon.es/dp/B07JBBSN72/?tag=tolees-21)
 
 🔎:
 

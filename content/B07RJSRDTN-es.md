@@ -2,7 +2,7 @@
 layout: post
 title: 'FIND - Brocha para polvos - n.º 10 al 25.00 % de descuento'
 date: 2020-01-20 08:51:00
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31t0MdEL14L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31t0MdEL14L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.34'
 
 Ahora mismo tienes [FIND - Brocha para polvos - n.º 10](https://www.amazon.es/dp/B07RJSRDTN/?tag=tolees-21) a 5.34 EUR (original: 7.12 EUR) (25.00 %  de descuento) en el siguiente enlace!
 
-[![FIND - Brocha para polvos - n.º 10](https://images-eu.ssl-images-amazon.com/images/I/31t0MdEL14L._SL200_.jpg)](https://www.amazon.es/dp/B07RJSRDTN/?tag=tolees-21)
+[![FIND - Brocha para polvos - n.º 10](https://images-eu.ssl-images-amazon.com/images/I/31t0MdEL14L._SL400_.jpg)](https://www.amazon.es/dp/B07RJSRDTN/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'New Balance 997H m  Zapatillas para Muje al 44.51 % de rebaja'
 date: 2020-06-24 09:14:40
-image: 'https://m.media-amazon.com/images/I/41yAY-lz0jL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41yAY-lz0jL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '49.94'
 
 Tienes [New Balance 997H m  Zapatillas para Mujer  Morado  Purple Haq   40.5 EU](https://www.amazon.es/dp/B07S2SN29S/?tag=tolees-21) con precio final de  49.94 EUR (original: 90.0 EUR) (44.51 %  de rebaja) aqui!
 
-[![New Balance 997H m  Zapatillas para Muje](https://m.media-amazon.com/images/I/41yAY-lz0jL._SL200_.jpg)](https://www.amazon.es/dp/B07S2SN29S/?tag=tolees-21)
+[![New Balance 997H m  Zapatillas para Muje](https://m.media-amazon.com/images/I/41yAY-lz0jL._SL400_.jpg)](https://www.amazon.es/dp/B07S2SN29S/?tag=tolees-21)
 
 🔎:
 

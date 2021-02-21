@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 75.56 % en Lee Luke Corduroy Pantalones  Naranja  P'
 date: 2020-03-10 11:23:36
-image: 'https://m.media-amazon.com/images/I/41PSqpPx48L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41PSqpPx48L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.98'
 
 Tienes [Lee Luke Corduroy Pantalones  Naranja  POTTER S Clay 93   32W / 30L para Hombre](https://www.amazon.es/dp/B07M95DZZN/?tag=tolees-21) con un 75.56 % de descuento con precio de oferta de 21.98 EUR (original: 89.95 EUR) en el siguiente enlace!
 
-[![Lee Luke Corduroy Pantalones  Naranja  P](https://m.media-amazon.com/images/I/41PSqpPx48L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07M95DZZN/?tag=tolees-21)
+[![Lee Luke Corduroy Pantalones  Naranja  P](https://m.media-amazon.com/images/I/41PSqpPx48L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07M95DZZN/?tag=tolees-21)
 
 ℹ️:
 

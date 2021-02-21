@@ -2,7 +2,7 @@
 layout: post
 title: 'HyperX Predator HX432C16PB3AK2/16 Memori al 37.01 % de descuento'
 date: 2020-10-09 13:03:14
-image: 'https://m.media-amazon.com/images/I/41rp9ywIOqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41rp9ywIOqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '106.17333333333333'
 
 Está [HyperX Predator HX432C16PB3AK2/16 Memoria 3200MHz DDR4 CL16 DIMM XMP 16GB  2x8GB  RGB](https://www.amazon.es/dp/B07GL6CLTT/?tag=tolees-21) con 37.01 de descuento por 97.63 EUR (original: 154.99 EUR) en el siguiente enlace!
 
-[![HyperX Predator HX432C16PB3AK2/16 Memori](https://m.media-amazon.com/images/I/41rp9ywIOqL._SL200_.jpg)](https://www.amazon.es/dp/B07GL6CLTT/?tag=tolees-21)
+[![HyperX Predator HX432C16PB3AK2/16 Memori](https://m.media-amazon.com/images/I/41rp9ywIOqL._SL400_.jpg)](https://www.amazon.es/dp/B07GL6CLTT/?tag=tolees-21)
 
 ℹ️:
 

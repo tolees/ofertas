@@ -2,7 +2,7 @@
 layout: post
 title: 'Campeones [DVD] con un 26.22 % de descuento'
 date: 2020-10-04 23:59:07
-image: 'https://m.media-amazon.com/images/I/511ijVCBEDL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/511ijVCBEDL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.635714285714286'
 
 En este momento está [Campeones [DVD]](https://www.amazon.es/dp/B07D3L7BC3/?tag=tolees-21) a 9.99 EUR (original: 13.54 EUR) (26.22 %  de descuento) en el siguiente enlace!
 
-[![Campeones [DVD]](https://m.media-amazon.com/images/I/511ijVCBEDL._SL200_.jpg)](https://www.amazon.es/dp/B07D3L7BC3/?tag=tolees-21)
+[![Campeones [DVD]](https://m.media-amazon.com/images/I/511ijVCBEDL._SL400_.jpg)](https://www.amazon.es/dp/B07D3L7BC3/?tag=tolees-21)
 
 🔎:
 

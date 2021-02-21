@@ -2,7 +2,7 @@
 layout: post
 title: 'Keter Pacific Cool Bar - Mesa nevera par con un 42.27 % de descuento'
 date: 2020-08-25 20:09:37
-image: 'https://m.media-amazon.com/images/I/419tSqF6uxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/419tSqF6uxL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '57.80533333333333'
 
 En este momento está [Keter Pacific Cool Bar - Mesa nevera para jardín  Color Marrón](https://www.amazon.es/dp/B00DQRTZ78/?tag=tolees-21) a 43.27 EUR (original: 74.95 EUR) (42.27 %  de descuento) en el siguiente enlace!
 
-[![Keter Pacific Cool Bar - Mesa nevera par](https://m.media-amazon.com/images/I/419tSqF6uxL._SL200_.jpg)](https://www.amazon.es/dp/B00DQRTZ78/?tag=tolees-21)
+[![Keter Pacific Cool Bar - Mesa nevera par](https://m.media-amazon.com/images/I/419tSqF6uxL._SL400_.jpg)](https://www.amazon.es/dp/B00DQRTZ78/?tag=tolees-21)
 
 🔎:
 

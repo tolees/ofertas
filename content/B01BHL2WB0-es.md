@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 32.19 % en Police 14536JSB/12A - Reloj mecánico par'
 date: 2020-05-05 17:29:04
-image: 'https://m.media-amazon.com/images/I/513mX5yVe8L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/513mX5yVe8L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '134.95'
 
 Tienes [Police 14536JSB/12A - Reloj mecánico para hombre con pantalla analógica de esfera marrón y correa de piel marrón](https://www.amazon.es/dp/B01BHL2WB0/?tag=tolees-21) con un 32.19 % de descuento con precio de oferta de 134.95 EUR (original: 199.0 EUR) en el siguiente enlace!
 
-[![Police 14536JSB/12A - Reloj mecánico par](https://m.media-amazon.com/images/I/513mX5yVe8L._SL200_.jpg)](https://www.amazon.es/dp/B01BHL2WB0/?tag=tolees-21)
+[![Police 14536JSB/12A - Reloj mecánico par](https://m.media-amazon.com/images/I/513mX5yVe8L._SL400_.jpg)](https://www.amazon.es/dp/B01BHL2WB0/?tag=tolees-21)
 
 ℹ️:
 

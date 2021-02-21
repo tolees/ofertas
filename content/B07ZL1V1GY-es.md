@@ -2,7 +2,7 @@
 layout: post
 title: 'Old Spice Bearglove Desodorante En Barra al 72.22 % de descuento'
 date: 2020-05-25 19:10:45
-image: 'https://m.media-amazon.com/images/I/415NAtkHYlL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/415NAtkHYlL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.0'
 
 Está [Old Spice Bearglove Desodorante En Barra Para Hombres 50 ml](https://www.amazon.es/dp/B07ZL1V1GY/?tag=tolees-21) con 72.22 de descuento por 1.0 EUR (original: 3.6 EUR) en el siguiente enlace!
 
-[![Old Spice Bearglove Desodorante En Barra](https://m.media-amazon.com/images/I/415NAtkHYlL._SL200_.jpg)](https://www.amazon.es/dp/B07ZL1V1GY/?tag=tolees-21)
+[![Old Spice Bearglove Desodorante En Barra](https://m.media-amazon.com/images/I/415NAtkHYlL._SL400_.jpg)](https://www.amazon.es/dp/B07ZL1V1GY/?tag=tolees-21)
 
 ℹ️:
 

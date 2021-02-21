@@ -2,7 +2,7 @@
 layout: post
 title: 'PUMA SPIN Ball Balón de Fútbol  Unisex-A al 27.63 % de descuento'
 date: 2020-06-12 08:05:12
-image: 'https://m.media-amazon.com/images/I/61R0BA4PumL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61R0BA4PumL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.99'
 
 Ahora mismo tienes [PUMA SPIN Ball Balón de Fútbol  Unisex-Adult  Black-Ultra Yellow-Orange Alert  3](https://www.amazon.es/dp/B07XJPKKZH/?tag=tolees-21) a 12.99 EUR (original: 17.95 EUR) (27.63 %  de descuento) en el siguiente enlace!
 
-[![PUMA SPIN Ball Balón de Fútbol  Unisex-A](https://m.media-amazon.com/images/I/61R0BA4PumL._SL200_.jpg)](https://www.amazon.es/dp/B07XJPKKZH/?tag=tolees-21)
+[![PUMA SPIN Ball Balón de Fútbol  Unisex-A](https://m.media-amazon.com/images/I/61R0BA4PumL._SL400_.jpg)](https://www.amazon.es/dp/B07XJPKKZH/?tag=tolees-21)
 
 🔎:
 

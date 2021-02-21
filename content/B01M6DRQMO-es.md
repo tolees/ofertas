@@ -2,7 +2,7 @@
 layout: post
 title: 'Jata Hogar 762 Balanza electrónica dieté al 35.45 % de descuento'
 date: 2020-07-18 20:14:11
-image: 'https://m.media-amazon.com/images/I/31e9Vpoa0fL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31e9Vpoa0fL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.75'
 
 Está [Jata Hogar 762 Balanza electrónica dietética  Capacidad 5kg  0 W  5 litros  0 Decibeles  Cristal Blanco](https://www.amazon.es/dp/B01M6DRQMO/?tag=tolees-21) con 35.45 de descuento por 16.75 EUR (original: 25.95 EUR) en el siguiente enlace!
 
-[![Jata Hogar 762 Balanza electrónica dieté](https://m.media-amazon.com/images/I/31e9Vpoa0fL._SL200_.jpg)](https://www.amazon.es/dp/B01M6DRQMO/?tag=tolees-21)
+[![Jata Hogar 762 Balanza electrónica dieté](https://m.media-amazon.com/images/I/31e9Vpoa0fL._SL400_.jpg)](https://www.amazon.es/dp/B01M6DRQMO/?tag=tolees-21)
 
 ℹ️:
 

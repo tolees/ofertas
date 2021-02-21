@@ -2,7 +2,7 @@
 layout: post
 title: 'good01 Big Promotion! Tienda de pintura  al 37.05 % de rebaja'
 date: 2020-09-14 12:00:53
-image: 'https://m.media-amazon.com/images/I/51U7d2V7I5L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51U7d2V7I5L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.99'
 
 Tienes [good01 Big Promotion! Tienda de pintura de diamante  diseño de lobo de tigre y animal de resina para manualidades  Z644](https://www.amazon.es/dp/B07JHK9KHC/?tag=tolees-21) con precio final de  2.99 EUR (original: 4.75 EUR) (37.05 %  de rebaja) aqui!
 
-[![good01 Big Promotion! Tienda de pintura ](https://m.media-amazon.com/images/I/51U7d2V7I5L._SL200_.jpg)](https://www.amazon.es/dp/B07JHK9KHC/?tag=tolees-21)
+[![good01 Big Promotion! Tienda de pintura ](https://m.media-amazon.com/images/I/51U7d2V7I5L._SL400_.jpg)](https://www.amazon.es/dp/B07JHK9KHC/?tag=tolees-21)
 
 🔎:
 

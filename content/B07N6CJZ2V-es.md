@@ -2,7 +2,7 @@
 layout: post
 title: 'Vicloon G4 LED Bombillas  2W Capsule LED al 38.49 % de descuento'
 date: 2020-06-11 15:54:36
-image: 'https://m.media-amazon.com/images/I/41DdA6VuDRL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41DdA6VuDRL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.99'
 
 Ahora mismo tienes [Vicloon G4 LED Bombillas  2W Capsule LED Equivalente a 20W Bombillas Halógenas Blanco cálido DC/AC 12V 3000K 180lm No Regulable - Pack de 5 [Clase de Eficiencia Energética A+]](https://www.amazon.es/dp/B07N6CJZ2V/?tag=tolees-21) a 7.99 EUR (original: 12.99 EUR) (38.49 %  de descuento) en el siguiente enlace!
 
-[![Vicloon G4 LED Bombillas  2W Capsule LED](https://m.media-amazon.com/images/I/41DdA6VuDRL._SL200_.jpg)](https://www.amazon.es/dp/B07N6CJZ2V/?tag=tolees-21)
+[![Vicloon G4 LED Bombillas  2W Capsule LED](https://m.media-amazon.com/images/I/41DdA6VuDRL._SL400_.jpg)](https://www.amazon.es/dp/B07N6CJZ2V/?tag=tolees-21)
 
 🔎:
 

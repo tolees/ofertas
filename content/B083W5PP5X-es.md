@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 30.02 % en Smooce Piedras Luminosas Jardín  Piedras'
 date: 2020-09-04 15:25:41
-image: 'https://m.media-amazon.com/images/I/513iJMyLCyL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/513iJMyLCyL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.99'
 
 Tienes [Smooce Piedras Luminosas Jardín  Piedras Decorativas Guijarros Brillantes  200 Piezas Piedras de jardín para decoración de pasillos al Aire Libre  Decorar Acuario Sendero Patio de césped](https://www.amazon.es/dp/B083W5PP5X/?tag=tolees-21) con un 30.02 % de descuento con precio de oferta de 13.99 EUR (original: 19.99 EUR) en el siguiente enlace!
 
-[![Smooce Piedras Luminosas Jardín  Piedras](https://m.media-amazon.com/images/I/513iJMyLCyL._SL200_.jpg)](https://www.amazon.es/dp/B083W5PP5X/?tag=tolees-21)
+[![Smooce Piedras Luminosas Jardín  Piedras](https://m.media-amazon.com/images/I/513iJMyLCyL._SL400_.jpg)](https://www.amazon.es/dp/B083W5PP5X/?tag=tolees-21)
 
 ℹ️:
 

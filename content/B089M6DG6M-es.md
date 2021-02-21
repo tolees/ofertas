@@ -2,7 +2,7 @@
 layout: post
 title: 'QacQoc Ventilador de Mano USB  Mini Vent al 30.03 % de descuento'
 date: 2020-09-23 22:30:54
-image: 'https://m.media-amazon.com/images/I/31diYDM1qiL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31diYDM1qiL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.252500000000001'
 
 Está [QacQoc Ventilador de Mano USB  Mini Ventilador Portátil Recargable con Carga USB y Base  3 Velocidad para el Hogar  Sueño  Trabajo  Acampada  Viajes](https://www.amazon.es/dp/B089M6DG6M/?tag=tolees-21) con 30.03 de descuento por 6.99 EUR (original: 9.99 EUR) en el siguiente enlace!
 
-[![QacQoc Ventilador de Mano USB  Mini Vent](https://m.media-amazon.com/images/I/31diYDM1qiL._SL200_.jpg)](https://www.amazon.es/dp/B089M6DG6M/?tag=tolees-21)
+[![QacQoc Ventilador de Mano USB  Mini Vent](https://m.media-amazon.com/images/I/31diYDM1qiL._SL400_.jpg)](https://www.amazon.es/dp/B089M6DG6M/?tag=tolees-21)
 
 ℹ️:
 

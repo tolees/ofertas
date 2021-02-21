@@ -2,7 +2,7 @@
 layout: post
 title: 'Havaianas Origine Slim  Bailarinas con C al 75.65 % de descuento'
 date: 2020-02-12 10:26:32
-image: 'https://m.media-amazon.com/images/I/41bC7MTFRWL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41bC7MTFRWL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.74'
 
 Ahora mismo tienes [Havaianas Origine Slim  Bailarinas con Correa de Tobillo para Mujer  Rosa  Ballet Rose   41 EU  39 Brazilian ](https://www.amazon.es/dp/B07CHVRJBG/?tag=tolees-21) a 8.74 EUR (original: 35.9 EUR) (75.65 %  de descuento) en el siguiente enlace!
 
-[![Havaianas Origine Slim  Bailarinas con C](https://m.media-amazon.com/images/I/41bC7MTFRWL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07CHVRJBG/?tag=tolees-21)
+[![Havaianas Origine Slim  Bailarinas con C](https://m.media-amazon.com/images/I/41bC7MTFRWL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07CHVRJBG/?tag=tolees-21)
 
 🔎:
 

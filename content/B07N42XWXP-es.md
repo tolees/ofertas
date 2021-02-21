@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s 501 Original Short Pantalones Cor al 36.38 % de descuento'
 date: 2020-08-27 08:13:58
-image: 'https://m.media-amazon.com/images/I/413qsWqKn5L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/413qsWqKn5L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '34.99'
 
 Ahora mismo tienes [Levi s 501 Original Short Pantalones Cortos  Azul  Silver Lake 0018   W30  Talla del Fabricante: 30  para Mujer](https://www.amazon.es/dp/B07N42XWXP/?tag=tolees-21) a 34.99 EUR (original: 55.0 EUR) (36.38 %  de descuento) en el siguiente enlace!
 
-[![Levi s 501 Original Short Pantalones Cor](https://m.media-amazon.com/images/I/413qsWqKn5L._SL200_.jpg)](https://www.amazon.es/dp/B07N42XWXP/?tag=tolees-21)
+[![Levi s 501 Original Short Pantalones Cor](https://m.media-amazon.com/images/I/413qsWqKn5L._SL400_.jpg)](https://www.amazon.es/dp/B07N42XWXP/?tag=tolees-21)
 
 🔎:
 

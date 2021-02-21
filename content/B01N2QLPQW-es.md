@@ -2,7 +2,7 @@
 layout: post
 title: 'B+W XS-Pro - Filtro  densidad neutra ND  al 42.44 % de descuento'
 date: 2020-09-16 06:15:30
-image: 'https://m.media-amazon.com/images/I/31RDkPBcsgL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31RDkPBcsgL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '68.53'
 
 Ahora mismo tienes [B+W XS-Pro - Filtro  densidad neutra ND 3.0 810  NANO  62 mm ](https://www.amazon.es/dp/B01N2QLPQW/?tag=tolees-21) a 68.53 EUR (original: 119.06 EUR) (42.44 %  de descuento) en el siguiente enlace!
 
-[![B+W XS-Pro - Filtro  densidad neutra ND ](https://m.media-amazon.com/images/I/31RDkPBcsgL._SL200_.jpg)](https://www.amazon.es/dp/B01N2QLPQW/?tag=tolees-21)
+[![B+W XS-Pro - Filtro  densidad neutra ND ](https://m.media-amazon.com/images/I/31RDkPBcsgL._SL400_.jpg)](https://www.amazon.es/dp/B01N2QLPQW/?tag=tolees-21)
 
 🔎:
 

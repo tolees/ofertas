@@ -2,7 +2,7 @@
 layout: post
 title: 'Wd-40 34302 Lubricante  Color unico  200 al 49.03 % de descuento'
 date: 2020-06-12 18:15:52
-image: 'https://m.media-amazon.com/images/I/41yNc6fO4RL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41yNc6fO4RL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.75'
 
 Ahora mismo tienes [Wd-40 34302 Lubricante  Color unico  200ml](https://www.amazon.es/dp/B00ITVUH2S/?tag=tolees-21) a 4.75 EUR (original: 9.32 EUR) (49.03 %  de descuento) en el siguiente enlace!
 
-[![Wd-40 34302 Lubricante  Color unico  200](https://m.media-amazon.com/images/I/41yNc6fO4RL._SL200_.jpg)](https://www.amazon.es/dp/B00ITVUH2S/?tag=tolees-21)
+[![Wd-40 34302 Lubricante  Color unico  200](https://m.media-amazon.com/images/I/41yNc6fO4RL._SL400_.jpg)](https://www.amazon.es/dp/B00ITVUH2S/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Neusky - Aspersor de agua para niños  be al 33.34 % de descuento'
 date: 2020-09-01 16:00:48
-image: 'https://m.media-amazon.com/images/I/61N1rY1HKpL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61N1rY1HKpL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '31.99'
 
 Está [Neusky - Aspersor de agua para niños  bebés y perros en verano](https://www.amazon.es/dp/B07V69QMK1/?tag=tolees-21) con 33.34 de descuento por 31.99 EUR (original: 47.99 EUR) en el siguiente enlace!
 
-[![Neusky - Aspersor de agua para niños  be](https://m.media-amazon.com/images/I/61N1rY1HKpL._SL200_.jpg)](https://www.amazon.es/dp/B07V69QMK1/?tag=tolees-21)
+[![Neusky - Aspersor de agua para niños  be](https://m.media-amazon.com/images/I/61N1rY1HKpL._SL400_.jpg)](https://www.amazon.es/dp/B07V69QMK1/?tag=tolees-21)
 
 ℹ️:
 

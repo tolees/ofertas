@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 53.81 % en Newton Telescopio 130/650 Sph.'
 date: 2020-01-06 17:33:04
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41dub12bPfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41dub12bPfL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '106.2'
 
 Tienes [Newton Telescopio 130/650 Sph.](https://www.amazon.es/dp/B00B9B5VPS/?tag=tolees-21) con un 53.81 % de descuento con precio de oferta de 106.2 EUR (original: 229.9 EUR) en el siguiente enlace!
 
-[![Newton Telescopio 130/650 Sph.](https://images-eu.ssl-images-amazon.com/images/I/41dub12bPfL._SL200_.jpg)](https://www.amazon.es/dp/B00B9B5VPS/?tag=tolees-21)
+[![Newton Telescopio 130/650 Sph.](https://images-eu.ssl-images-amazon.com/images/I/41dub12bPfL._SL400_.jpg)](https://www.amazon.es/dp/B00B9B5VPS/?tag=tolees-21)
 
 ℹ️:
 

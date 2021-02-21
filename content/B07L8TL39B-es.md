@@ -2,7 +2,7 @@
 layout: post
 title: 'RUNCCI-YUN potenciómetro 10k kit de pote al 55.03 % de rebaja'
 date: 2020-07-18 19:02:51
-image: 'https://m.media-amazon.com/images/I/51-EH86yAoL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51-EH86yAoL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.5'
 
 Tienes [RUNCCI-YUN potenciómetro 10k kit de potenciómetro rotativo de cono cónico  eje WH148 3Pin 15mm con tuerca y anillo de hierro y pinzas antiestáticas](https://www.amazon.es/dp/B07L8TL39B/?tag=tolees-21) con precio final de  8.5 EUR (original: 18.9 EUR) (55.03 %  de rebaja) aqui!
 
-[![RUNCCI-YUN potenciómetro 10k kit de pote](https://m.media-amazon.com/images/I/51-EH86yAoL._SL200_.jpg)](https://www.amazon.es/dp/B07L8TL39B/?tag=tolees-21)
+[![RUNCCI-YUN potenciómetro 10k kit de pote](https://m.media-amazon.com/images/I/51-EH86yAoL._SL400_.jpg)](https://www.amazon.es/dp/B07L8TL39B/?tag=tolees-21)
 
 🔎:
 

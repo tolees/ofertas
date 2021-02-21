@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 40.56 % en POP! Vinilo - Games: Street Fighter: Cam'
 date: 2020-09-29 19:18:16
-image: 'https://m.media-amazon.com/images/I/41QCt8+qy2L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41QCt8+qy2L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.48'
 
 Tienes [POP! Vinilo - Games: Street Fighter: Cammy](https://www.amazon.es/dp/B01LEJD10G/?tag=tolees-21) con un 40.56 % de descuento con precio de oferta de 9.48 EUR (original: 15.95 EUR) en el siguiente enlace!
 
-[![POP! Vinilo - Games: Street Fighter: Cam](https://m.media-amazon.com/images/I/41QCt8+qy2L._SL200_.jpg)](https://www.amazon.es/dp/B01LEJD10G/?tag=tolees-21)
+[![POP! Vinilo - Games: Street Fighter: Cam](https://m.media-amazon.com/images/I/41QCt8+qy2L._SL400_.jpg)](https://www.amazon.es/dp/B01LEJD10G/?tag=tolees-21)
 
 ℹ️:
 

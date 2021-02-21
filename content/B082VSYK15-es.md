@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 26.01 % en Haribo Favoritos Pica Caramelos de Goma '
 date: 2020-08-11 09:23:43
-image: 'https://m.media-amazon.com/images/I/51J60RiPMiL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51J60RiPMiL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.83'
 
 Tienes [Haribo Favoritos Pica Caramelos de Goma - 275 gr](https://www.amazon.es/dp/B082VSYK15/?tag=tolees-21) con un 26.01 % de descuento con precio de oferta de 1.65 EUR (original: 2.23 EUR) en el siguiente enlace!
 
-[![Haribo Favoritos Pica Caramelos de Goma ](https://m.media-amazon.com/images/I/51J60RiPMiL._SL200_.jpg)](https://www.amazon.es/dp/B082VSYK15/?tag=tolees-21)
+[![Haribo Favoritos Pica Caramelos de Goma ](https://m.media-amazon.com/images/I/51J60RiPMiL._SL400_.jpg)](https://www.amazon.es/dp/B082VSYK15/?tag=tolees-21)
 
 ℹ️:
 

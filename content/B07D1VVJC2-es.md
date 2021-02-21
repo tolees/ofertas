@@ -2,7 +2,7 @@
 layout: post
 title: 'SELECTED HOMME Slhskinny-Luca T Pants W  al 54.99 % de descuento'
 date: 2020-05-26 13:31:14
-image: 'https://m.media-amazon.com/images/I/41KUup+EoTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41KUup+EoTL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '28.125'
 
 Ahora mismo tienes [SELECTED HOMME Slhskinny-Luca T Pants W Pantalones  Marrón  Tortoise Shell   W34/L32  Talla del Fabricante: 34  para Hombre](https://www.amazon.es/dp/B07D1VVJC2/?tag=tolees-21) a 27.0 EUR (original: 59.99 EUR) (54.99 %  de descuento) en el siguiente enlace!
 
-[![SELECTED HOMME Slhskinny-Luca T Pants W ](https://m.media-amazon.com/images/I/41KUup+EoTL._SL200_.jpg)](https://www.amazon.es/dp/B07D1VVJC2/?tag=tolees-21)
+[![SELECTED HOMME Slhskinny-Luca T Pants W ](https://m.media-amazon.com/images/I/41KUup+EoTL._SL400_.jpg)](https://www.amazon.es/dp/B07D1VVJC2/?tag=tolees-21)
 
 🔎:
 

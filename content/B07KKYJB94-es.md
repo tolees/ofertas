@@ -2,7 +2,7 @@
 layout: post
 title: 'Joseph Joseph M-Poach Escalfador de Huev al 30.15 % de rebaja'
 date: 2020-05-15 20:49:16
-image: 'https://m.media-amazon.com/images/I/31nQWMhLnHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31nQWMhLnHL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.95'
 
 Tienes [Joseph Joseph M-Poach Escalfador de Huevos para microondas  Multicolor](https://www.amazon.es/dp/B07KKYJB94/?tag=tolees-21) con precio final de  6.95 EUR (original: 9.95 EUR) (30.15 %  de rebaja) aqui!
 
-[![Joseph Joseph M-Poach Escalfador de Huev](https://m.media-amazon.com/images/I/31nQWMhLnHL._SL200_.jpg)](https://www.amazon.es/dp/B07KKYJB94/?tag=tolees-21)
+[![Joseph Joseph M-Poach Escalfador de Huev](https://m.media-amazon.com/images/I/31nQWMhLnHL._SL400_.jpg)](https://www.amazon.es/dp/B07KKYJB94/?tag=tolees-21)
 
 🔎:
 

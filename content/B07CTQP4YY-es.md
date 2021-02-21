@@ -2,7 +2,7 @@
 layout: post
 title: 'FIND - Midnight Queen - Paleta de sombra al 57.18 % de rebaja'
 date: 2020-06-19 11:56:59
-image: 'https://m.media-amazon.com/images/I/31keJg8Nb3L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31keJg8Nb3L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.9559999999999995'
 
 Tienes [FIND - Midnight Queen - Paleta de sombras de ojos de 10 tonos n.1](https://www.amazon.es/dp/B07CTQP4YY/?tag=tolees-21) con precio final de  3.64 EUR (original: 8.5 EUR) (57.18 %  de rebaja) aqui!
 
-[![FIND - Midnight Queen - Paleta de sombra](https://m.media-amazon.com/images/I/31keJg8Nb3L._SL200_.jpg)](https://www.amazon.es/dp/B07CTQP4YY/?tag=tolees-21)
+[![FIND - Midnight Queen - Paleta de sombra](https://m.media-amazon.com/images/I/31keJg8Nb3L._SL400_.jpg)](https://www.amazon.es/dp/B07CTQP4YY/?tag=tolees-21)
 
 🔎:
 

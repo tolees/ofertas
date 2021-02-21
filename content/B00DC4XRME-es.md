@@ -2,7 +2,7 @@
 layout: post
 title: 'Superga 2790Cotw Linea Up And Down  Zapa al 27.68 % de rebaja'
 date: 2020-04-19 16:38:53
-image: 'https://m.media-amazon.com/images/I/31ptjnFAnjL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31ptjnFAnjL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '49.9'
 
 Tienes [Superga 2790Cotw Linea Up And Down  Zapatillas Unisex adulto  Blanco  901 White   39.5 EU](https://www.amazon.es/dp/B00DC4XRME/?tag=tolees-21) con precio final de  49.9 EUR (original: 69.0 EUR) (27.68 %  de rebaja) aqui!
 
-[![Superga 2790Cotw Linea Up And Down  Zapa](https://m.media-amazon.com/images/I/31ptjnFAnjL._SL200_.jpg)](https://www.amazon.es/dp/B00DC4XRME/?tag=tolees-21)
+[![Superga 2790Cotw Linea Up And Down  Zapa](https://m.media-amazon.com/images/I/31ptjnFAnjL._SL400_.jpg)](https://www.amazon.es/dp/B00DC4XRME/?tag=tolees-21)
 
 🔎:
 

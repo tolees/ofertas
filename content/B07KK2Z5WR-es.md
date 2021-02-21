@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 75.42 % en Columbia Grixsen Boot WP  Botas Chukka p'
 date: 2020-05-10 16:11:00
-image: 'https://m.media-amazon.com/images/I/41HNHrH0VRL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41HNHrH0VRL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '36.87'
 
 Tienes [Columbia Grixsen Boot WP  Botas Chukka para Hombre  Beige  Elk  Dark Truff 286   48 EU](https://www.amazon.es/dp/B07KK2Z5WR/?tag=tolees-21) con un 75.42 % de descuento con precio de oferta de 36.87 EUR (original: 149.99 EUR) en el siguiente enlace!
 
-[![Columbia Grixsen Boot WP  Botas Chukka p](https://m.media-amazon.com/images/I/41HNHrH0VRL._SL200_.jpg)](https://www.amazon.es/dp/B07KK2Z5WR/?tag=tolees-21)
+[![Columbia Grixsen Boot WP  Botas Chukka p](https://m.media-amazon.com/images/I/41HNHrH0VRL._SL400_.jpg)](https://www.amazon.es/dp/B07KK2Z5WR/?tag=tolees-21)
 
 ℹ️:
 

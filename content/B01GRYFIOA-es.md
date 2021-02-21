@@ -2,7 +2,7 @@
 layout: post
 title: 'LEICKE ULL Fuente de alimentación Univer al 30.02 % de descuento'
 date: 2020-02-08 07:01:58
-image: 'https://m.media-amazon.com/images/I/41ukQuYgslL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ukQuYgslL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.99'
 
 Está [LEICKE ULL Fuente de alimentación Universal Clavija DE 5 5 * 2 5 milímetros  24V 2A | 48W | Clavija 5 5 * 2 5 mm  24V 2A ](https://www.amazon.es/dp/B01GRYFIOA/?tag=tolees-21) con 30.02 de descuento por 13.99 EUR (original: 19.99 EUR) en el siguiente enlace!
 
-[![LEICKE ULL Fuente de alimentación Univer](https://m.media-amazon.com/images/I/41ukQuYgslL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01GRYFIOA/?tag=tolees-21)
+[![LEICKE ULL Fuente de alimentación Univer](https://m.media-amazon.com/images/I/41ukQuYgslL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01GRYFIOA/?tag=tolees-21)
 
 ℹ️:
 

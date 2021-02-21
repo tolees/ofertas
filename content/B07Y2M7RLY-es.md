@@ -2,7 +2,7 @@
 layout: post
 title: 'Bayala the Game al 28.06 % de descuento'
 date: 2020-05-04 11:38:23
-image: 'https://m.media-amazon.com/images/I/51lXrlTTNQL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51lXrlTTNQL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '31.630000000000003'
 
 Ahora mismo tienes [Bayala the Game](https://www.amazon.es/dp/B07Y2M7RLY/?tag=tolees-21) a 28.77 EUR (original: 39.99 EUR) (28.06 %  de descuento) en el siguiente enlace!
 
-[![Bayala the Game](https://m.media-amazon.com/images/I/51lXrlTTNQL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07Y2M7RLY/?tag=tolees-21)
+[![Bayala the Game](https://m.media-amazon.com/images/I/51lXrlTTNQL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07Y2M7RLY/?tag=tolees-21)
 
 🔎:
 

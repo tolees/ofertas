@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s Housemark Polo  Multicolor  Raven al 40.02 % de descuento'
 date: 2020-05-30 19:59:39
-image: 'https://m.media-amazon.com/images/I/41kRRrDIykL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41kRRrDIykL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.99'
 
 Está [Levi s Housemark Polo  Multicolor  Raven Stripe Mineral Black/Fog 0111   Large para Hombre](https://www.amazon.es/dp/B07TLFMTY6/?tag=tolees-21) con 40.02 de descuento por 29.99 EUR (original: 50.0 EUR) en el siguiente enlace!
 
-[![Levi s Housemark Polo  Multicolor  Raven](https://m.media-amazon.com/images/I/41kRRrDIykL._SL200_.jpg)](https://www.amazon.es/dp/B07TLFMTY6/?tag=tolees-21)
+[![Levi s Housemark Polo  Multicolor  Raven](https://m.media-amazon.com/images/I/41kRRrDIykL._SL400_.jpg)](https://www.amazon.es/dp/B07TLFMTY6/?tag=tolees-21)
 
 ℹ️:
 

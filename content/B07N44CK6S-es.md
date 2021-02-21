@@ -2,7 +2,7 @@
 layout: post
 title: 'Desigual Blouse Larson Blusas  Azul  Nav al 30.59 % de descuento'
 date: 2020-05-12 09:24:25
-image: 'https://m.media-amazon.com/images/I/41d78+cstKL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41d78+cstKL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '31.448'
 
 Está [Desigual Blouse Larson Blusas  Azul  Navy 5000   M para Mujer](https://www.amazon.es/dp/B07N44CK6S/?tag=tolees-21) con 30.59 de descuento por 48.55 EUR (original: 69.95 EUR) en el siguiente enlace!
 
-[![Desigual Blouse Larson Blusas  Azul  Nav](https://m.media-amazon.com/images/I/41d78+cstKL._SL200_.jpg)](https://www.amazon.es/dp/B07N44CK6S/?tag=tolees-21)
+[![Desigual Blouse Larson Blusas  Azul  Nav](https://m.media-amazon.com/images/I/41d78+cstKL._SL400_.jpg)](https://www.amazon.es/dp/B07N44CK6S/?tag=tolees-21)
 
 ℹ️:
 

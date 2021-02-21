@@ -2,7 +2,7 @@
 layout: post
 title: 'Rimmel London Stay Satin Liquid Lip Colo con un 61.33 % de descuento'
 date: 2020-07-16 22:29:10
-image: 'https://m.media-amazon.com/images/I/31KHZFXTgNL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31KHZFXTgNL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.42'
 
 En este momento está [Rimmel London Stay Satin Liquid Lip Colour  Pintalabios Tono 500 Redical  Gama Rojos  - 21 gr](https://www.amazon.es/dp/B07D453ZKM/?tag=tolees-21) a 3.48 EUR (original: 9.0 EUR) (61.33 %  de descuento) en el siguiente enlace!
 
-[![Rimmel London Stay Satin Liquid Lip Colo](https://m.media-amazon.com/images/I/31KHZFXTgNL._SL200_.jpg)](https://www.amazon.es/dp/B07D453ZKM/?tag=tolees-21)
+[![Rimmel London Stay Satin Liquid Lip Colo](https://m.media-amazon.com/images/I/31KHZFXTgNL._SL400_.jpg)](https://www.amazon.es/dp/B07D453ZKM/?tag=tolees-21)
 
 🔎:
 

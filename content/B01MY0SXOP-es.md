@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 30.00 % en LANGRIA 2xTaburetes de Bar Manhattan Tap'
 date: 2020-01-17 00:33:48
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41A5Z%2BJyu9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41A5Z%2BJyu9L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '61.935'
 
 Tienes [LANGRIA 2xTaburetes de Bar Manhattan Tapizados en Cuero de Imitación  Base y Barra en Acabado Cromado  Altura Ajustable  para Cocina  Bar  Juego de 2 Taburetes  Negros ](https://www.amazon.es/dp/B01MY0SXOP/?tag=tolees-21) con un 30.00 % de descuento con precio de oferta de 65.88 EUR (original: 94.12 EUR) en el siguiente enlace!
 
-[![LANGRIA 2xTaburetes de Bar Manhattan Tap](https://images-eu.ssl-images-amazon.com/images/I/41A5Z%2BJyu9L._SL200_.jpg)](https://www.amazon.es/dp/B01MY0SXOP/?tag=tolees-21)
+[![LANGRIA 2xTaburetes de Bar Manhattan Tap](https://images-eu.ssl-images-amazon.com/images/I/41A5Z%2BJyu9L._SL400_.jpg)](https://www.amazon.es/dp/B01MY0SXOP/?tag=tolees-21)
 
 ℹ️:
 

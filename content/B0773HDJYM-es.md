@@ -2,7 +2,7 @@
 layout: post
 title: 'AmazonBasics – Cargador USB de pared de  con un 31.76 % de descuento'
 date: 2020-08-13 15:24:42
-image: 'https://m.media-amazon.com/images/I/31ZgWoz6rrL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31ZgWoz6rrL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.99'
 
 En este momento está [AmazonBasics – Cargador USB de pared de dos puertos  2 4 amperios   Blanco](https://www.amazon.es/dp/B0773HDJYM/?tag=tolees-21) a 11.99 EUR (original: 17.57 EUR) (31.76 %  de descuento) en el siguiente enlace!
 
-[![AmazonBasics – Cargador USB de pared de ](https://m.media-amazon.com/images/I/31ZgWoz6rrL._SL200_.jpg)](https://www.amazon.es/dp/B0773HDJYM/?tag=tolees-21)
+[![AmazonBasics – Cargador USB de pared de ](https://m.media-amazon.com/images/I/31ZgWoz6rrL._SL400_.jpg)](https://www.amazon.es/dp/B0773HDJYM/?tag=tolees-21)
 
 🔎:
 

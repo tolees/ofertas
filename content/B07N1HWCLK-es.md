@@ -2,7 +2,7 @@
 layout: post
 title: 'Clarks Step Weltfree  Zapatillas para Mu al 77.20 % de descuento'
 date: 2020-04-22 21:53:16
-image: 'https://m.media-amazon.com/images/I/314fqUASitL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/314fqUASitL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.035999999999998'
 
 Está [Clarks Step Weltfree  Zapatillas para Mujer  Negro  Black Black   38 EU](https://www.amazon.es/dp/B07N1HWCLK/?tag=tolees-21) con 77.20 de descuento por 18.23 EUR (original: 79.95 EUR) en el siguiente enlace!
 
-[![Clarks Step Weltfree  Zapatillas para Mu](https://m.media-amazon.com/images/I/314fqUASitL._SL200_.jpg)](https://www.amazon.es/dp/B07N1HWCLK/?tag=tolees-21)
+[![Clarks Step Weltfree  Zapatillas para Mu](https://m.media-amazon.com/images/I/314fqUASitL._SL400_.jpg)](https://www.amazon.es/dp/B07N1HWCLK/?tag=tolees-21)
 
 ℹ️:
 

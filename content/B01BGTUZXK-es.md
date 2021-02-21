@@ -2,7 +2,7 @@
 layout: post
 title: 'G-STAR RAW Midge Saddle Mid Waist Straig al 80.20 % de descuento'
 date: 2020-06-03 16:58:44
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41AKNyzgCwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41AKNyzgCwL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.79'
 
 Está [G-STAR RAW Midge Saddle Mid Waist Straight Jeans  Azul  Dk Aged 6553-89   23W / 28L para Mujer](https://www.amazon.es/dp/B01BGTUZXK/?tag=tolees-21) con 80.20 de descuento por 19.79 EUR (original: 99.95 EUR) en el siguiente enlace!
 
-[![G-STAR RAW Midge Saddle Mid Waist Straig](https://images-eu.ssl-images-amazon.com/images/I/41AKNyzgCwL._SL200_.jpg)](https://www.amazon.es/dp/B01BGTUZXK/?tag=tolees-21)
+[![G-STAR RAW Midge Saddle Mid Waist Straig](https://images-eu.ssl-images-amazon.com/images/I/41AKNyzgCwL._SL400_.jpg)](https://www.amazon.es/dp/B01BGTUZXK/?tag=tolees-21)
 
 ℹ️:
 

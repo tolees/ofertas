@@ -2,7 +2,7 @@
 layout: post
 title: 'PUMA NRGY Neko Knit  Zapatillas de Entre al 70.06 % de rebaja'
 date: 2020-01-15 22:44:25
-image: 'https://images-eu.ssl-images-amazon.com/images/I/419-g6TNOOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419-g6TNOOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '26.383333333333333'
 
 Tienes [PUMA NRGY Neko Knit  Zapatillas de Entrenamiento para Hombre  Black Black  39 EU](https://www.amazon.es/dp/B079GXDWDL/?tag=tolees-21) con precio final de  22.44 EUR (original: 74.95 EUR) (70.06 %  de rebaja) aqui!
 
-[![PUMA NRGY Neko Knit  Zapatillas de Entre](https://images-eu.ssl-images-amazon.com/images/I/419-g6TNOOL._SL200_.jpg)](https://www.amazon.es/dp/B079GXDWDL/?tag=tolees-21)
+[![PUMA NRGY Neko Knit  Zapatillas de Entre](https://images-eu.ssl-images-amazon.com/images/I/419-g6TNOOL._SL400_.jpg)](https://www.amazon.es/dp/B079GXDWDL/?tag=tolees-21)
 
 🔎:
 

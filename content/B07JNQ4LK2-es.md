@@ -2,7 +2,7 @@
 layout: post
 title: 'Nike M NK ZNL AROSHLD JKT Jacket  Hombre al 62.65 % de descuento'
 date: 2020-01-20 20:39:19
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31-IOyFCPaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31-IOyFCPaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '56.4'
 
 Ahora mismo tienes [Nike M NK ZNL AROSHLD JKT Jacket  Hombre  Reflect Black  L](https://www.amazon.es/dp/B07JNQ4LK2/?tag=tolees-21) a 56.4 EUR (original: 151 EUR) (62.65 %  de descuento) en el siguiente enlace!
 
-[![Nike M NK ZNL AROSHLD JKT Jacket  Hombre](https://images-eu.ssl-images-amazon.com/images/I/31-IOyFCPaL._SL200_.jpg)](https://www.amazon.es/dp/B07JNQ4LK2/?tag=tolees-21)
+[![Nike M NK ZNL AROSHLD JKT Jacket  Hombre](https://images-eu.ssl-images-amazon.com/images/I/31-IOyFCPaL._SL400_.jpg)](https://www.amazon.es/dp/B07JNQ4LK2/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'G-STAR RAW Halite Polo  Gris  Asfalt 995 al 65.85 % de rebaja'
 date: 2020-01-19 12:16:59
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41ts9zo1UkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ts9zo1UkL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.47'
 
 Tienes [G-STAR RAW Halite Polo  Gris  Asfalt 995   Medium para Hombre](https://www.amazon.es/dp/B07NDQ2YZ4/?tag=tolees-21) con precio final de  20.47 EUR (original: 59.95 EUR) (65.85 %  de rebaja) aqui!
 
-[![G-STAR RAW Halite Polo  Gris  Asfalt 995](https://images-eu.ssl-images-amazon.com/images/I/41ts9zo1UkL._SL200_.jpg)](https://www.amazon.es/dp/B07NDQ2YZ4/?tag=tolees-21)
+[![G-STAR RAW Halite Polo  Gris  Asfalt 995](https://images-eu.ssl-images-amazon.com/images/I/41ts9zo1UkL._SL400_.jpg)](https://www.amazon.es/dp/B07NDQ2YZ4/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Matrix  Mousse y espuma - 1 unidad al 42.41 % de descuento'
 date: 2020-03-23 18:34:09
-image: 'https://m.media-amazon.com/images/I/41n9XleJVPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41n9XleJVPL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.04'
 
 Ahora mismo tienes [Matrix  Mousse y espuma - 1 unidad](https://www.amazon.es/dp/B074D7JFDG/?tag=tolees-21) a 8.04 EUR (original: 13.96 EUR) (42.41 %  de descuento) en el siguiente enlace!
 
-[![Matrix  Mousse y espuma - 1 unidad](https://m.media-amazon.com/images/I/41n9XleJVPL._SL200_.jpg)](https://www.amazon.es/dp/B074D7JFDG/?tag=tolees-21)
+[![Matrix  Mousse y espuma - 1 unidad](https://m.media-amazon.com/images/I/41n9XleJVPL._SL400_.jpg)](https://www.amazon.es/dp/B074D7JFDG/?tag=tolees-21)
 
 🔎:
 

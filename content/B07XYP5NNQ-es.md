@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 25.77 % en Olympus OM-D E-M5 Mark III MFT  Sensor d'
 date: 2020-05-15 09:30:27
-image: 'https://m.media-amazon.com/images/I/41ljpW596gL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ljpW596gL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '889.99'
 
 Tienes [Olympus OM-D E-M5 Mark III MFT  Sensor de 20 MPX Estabilizador de Imagen de 5 Ejes Potente Autoenfoque  Visor Electrónico OLED  Vídeo 4K  WLAN  Bluetooth  Plata  Solo Cuerpo](https://www.amazon.es/dp/B07XYP5NNQ/?tag=tolees-21) con un 25.77 % de descuento con precio de oferta de 889.99 EUR (original: 1199.0 EUR) en el siguiente enlace!
 
-[![Olympus OM-D E-M5 Mark III MFT  Sensor d](https://m.media-amazon.com/images/I/41ljpW596gL._SL200_.jpg)](https://www.amazon.es/dp/B07XYP5NNQ/?tag=tolees-21)
+[![Olympus OM-D E-M5 Mark III MFT  Sensor d](https://m.media-amazon.com/images/I/41ljpW596gL._SL400_.jpg)](https://www.amazon.es/dp/B07XYP5NNQ/?tag=tolees-21)
 
 ℹ️:
 

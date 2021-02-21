@@ -2,7 +2,7 @@
 layout: post
 title: 'PUMA Lqdcell Tension  Zapatillas Deporti con un 75.01 % de descuento'
 date: 2020-03-20 21:15:59
-image: 'https://m.media-amazon.com/images/I/41eBO0o1-OL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41eBO0o1-OL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.98'
 
 En este momento está [PUMA Lqdcell Tension  Zapatillas Deportivas para Interior para Hombre  Black White  48.5 EU](https://www.amazon.es/dp/B07KG63WCF/?tag=tolees-21) a 24.98 EUR (original: 99.95 EUR) (75.01 %  de descuento) en el siguiente enlace!
 
-[![PUMA Lqdcell Tension  Zapatillas Deporti](https://m.media-amazon.com/images/I/41eBO0o1-OL._SL200_.jpg)](https://www.amazon.es/dp/B07KG63WCF/?tag=tolees-21)
+[![PUMA Lqdcell Tension  Zapatillas Deporti](https://m.media-amazon.com/images/I/41eBO0o1-OL._SL400_.jpg)](https://www.amazon.es/dp/B07KG63WCF/?tag=tolees-21)
 
 🔎:
 

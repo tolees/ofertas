@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas Saturday Short Pantalones Cortos  al 58.07 % de descuento'
 date: 2020-04-05 12:30:19
-image: 'https://m.media-amazon.com/images/I/31fztM15eqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31fztM15eqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.75'
 
 Ahora mismo tienes [adidas Saturday Short Pantalones Cortos de Deporte  Hombre  Negro  XL/5"](https://www.amazon.es/dp/B07DQPSCWY/?tag=tolees-21) a 16.75 EUR (original: 39.95 EUR) (58.07 %  de descuento) en el siguiente enlace!
 
-[![adidas Saturday Short Pantalones Cortos ](https://m.media-amazon.com/images/I/31fztM15eqL._SL200_.jpg)](https://www.amazon.es/dp/B07DQPSCWY/?tag=tolees-21)
+[![adidas Saturday Short Pantalones Cortos ](https://m.media-amazon.com/images/I/31fztM15eqL._SL400_.jpg)](https://www.amazon.es/dp/B07DQPSCWY/?tag=tolees-21)
 
 🔎:
 

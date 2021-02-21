@@ -2,7 +2,7 @@
 layout: post
 title: 'Azur Lane: Crosswave al 32.99 % de descuento'
 date: 2020-09-06 20:54:57
-image: 'https://m.media-amazon.com/images/I/61yKBk0bKIL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61yKBk0bKIL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '44.78285714285715'
 
 Está [Azur Lane: Crosswave](https://www.amazon.es/dp/B07V1YBCKZ/?tag=tolees-21) con 32.99 de descuento por 40.86 EUR (original: 60.98 EUR) en el siguiente enlace!
 
-[![Azur Lane: Crosswave](https://m.media-amazon.com/images/I/61yKBk0bKIL._SL200_.jpg)](https://www.amazon.es/dp/B07V1YBCKZ/?tag=tolees-21)
+[![Azur Lane: Crosswave](https://m.media-amazon.com/images/I/61yKBk0bKIL._SL400_.jpg)](https://www.amazon.es/dp/B07V1YBCKZ/?tag=tolees-21)
 
 ℹ️:
 

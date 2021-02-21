@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 35.44 % en B+W 1071068 - Filtro polarizador Circula'
 date: 2020-10-04 03:21:58
-image: 'https://m.media-amazon.com/images/I/31nzpgoHRGL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31nzpgoHRGL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '116.88666666666667'
 
 Tienes [B+W 1071068 - Filtro polarizador Circular MRC de 82 mm](https://www.amazon.es/dp/B008EKMPB0/?tag=tolees-21) con un 35.44 % de descuento con precio de oferta de 119.92 EUR (original: 185.74 EUR) en el siguiente enlace!
 
-[![B+W 1071068 - Filtro polarizador Circula](https://m.media-amazon.com/images/I/31nzpgoHRGL._SL200_.jpg)](https://www.amazon.es/dp/B008EKMPB0/?tag=tolees-21)
+[![B+W 1071068 - Filtro polarizador Circula](https://m.media-amazon.com/images/I/31nzpgoHRGL._SL400_.jpg)](https://www.amazon.es/dp/B008EKMPB0/?tag=tolees-21)
 
 ℹ️:
 

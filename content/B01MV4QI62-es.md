@@ -2,7 +2,7 @@
 layout: post
 title: 'Festina Reloj Analógico para Mujer de Cu al 47.86 % de descuento'
 date: 2020-03-24 06:20:41
-image: 'https://m.media-amazon.com/images/I/41ot4x71LAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ot4x71LAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '59.17'
 
 Ahora mismo tienes [Festina Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable F20206/2](https://www.amazon.es/dp/B01MV4QI62/?tag=tolees-21) a 62.05 EUR (original: 119.0 EUR) (47.86 %  de descuento) en el siguiente enlace!
 
-[![Festina Reloj Analógico para Mujer de Cu](https://m.media-amazon.com/images/I/41ot4x71LAL._SL200_.jpg)](https://www.amazon.es/dp/B01MV4QI62/?tag=tolees-21)
+[![Festina Reloj Analógico para Mujer de Cu](https://m.media-amazon.com/images/I/41ot4x71LAL._SL400_.jpg)](https://www.amazon.es/dp/B01MV4QI62/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Kipling Imali  Carteras para Mujer  Verd al 40.00 % de descuento'
 date: 2020-09-06 18:45:55
-image: 'https://m.media-amazon.com/images/I/41WM9-2EM6L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41WM9-2EM6L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '27.0'
 
 Ahora mismo tienes [Kipling Imali  Carteras para Mujer  Verde  Light Aloe   19x10x1 cm](https://www.amazon.es/dp/B07TZ1NK7K/?tag=tolees-21) a 27.0 EUR (original: 45.0 EUR) (40.00 %  de descuento) en el siguiente enlace!
 
-[![Kipling Imali  Carteras para Mujer  Verd](https://m.media-amazon.com/images/I/41WM9-2EM6L._SL200_.jpg)](https://www.amazon.es/dp/B07TZ1NK7K/?tag=tolees-21)
+[![Kipling Imali  Carteras para Mujer  Verd](https://m.media-amazon.com/images/I/41WM9-2EM6L._SL400_.jpg)](https://www.amazon.es/dp/B07TZ1NK7K/?tag=tolees-21)
 
 🔎:
 

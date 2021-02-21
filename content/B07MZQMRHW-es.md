@@ -2,7 +2,7 @@
 layout: post
 title: 'Pepe Jeans Helaia suéter   Écru 814   X- al 67.11 % de descuento'
 date: 2020-05-05 14:16:35
-image: 'https://m.media-amazon.com/images/I/413UOYQlZHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/413UOYQlZHL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '26.060000000000002'
 
 Ahora mismo tienes [Pepe Jeans Helaia suéter   Écru 814   X-Large para Mujer](https://www.amazon.es/dp/B07MZQMRHW/?tag=tolees-21) a 29.57 EUR (original: 89.9 EUR) (67.11 %  de descuento) en el siguiente enlace!
 
-[![Pepe Jeans Helaia suéter   Écru 814   X-](https://m.media-amazon.com/images/I/413UOYQlZHL._SL200_.jpg)](https://www.amazon.es/dp/B07MZQMRHW/?tag=tolees-21)
+[![Pepe Jeans Helaia suéter   Écru 814   X-](https://m.media-amazon.com/images/I/413UOYQlZHL._SL400_.jpg)](https://www.amazon.es/dp/B07MZQMRHW/?tag=tolees-21)
 
 🔎:
 

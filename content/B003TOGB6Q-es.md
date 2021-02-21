@@ -2,7 +2,7 @@
 layout: post
 title: 'BRA Efficient - Cacerola alta con tapa d al 54.58 % de descuento'
 date: 2020-08-22 05:15:40
-image: 'https://m.media-amazon.com/images/I/31jC3EOxHjL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31jC3EOxHjL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '39.995999999999995'
 
 Está [BRA Efficient - Cacerola alta con tapa de cristal y asas de silicona extraíbles  28 cm  apta para todo tipo de cocinas incluida inducción y horno](https://www.amazon.es/dp/B003TOGB6Q/?tag=tolees-21) con 54.58 de descuento por 36.68 EUR (original: 80.75 EUR) en el siguiente enlace!
 
-[![BRA Efficient - Cacerola alta con tapa d](https://m.media-amazon.com/images/I/31jC3EOxHjL._SL200_.jpg)](https://www.amazon.es/dp/B003TOGB6Q/?tag=tolees-21)
+[![BRA Efficient - Cacerola alta con tapa d](https://m.media-amazon.com/images/I/31jC3EOxHjL._SL400_.jpg)](https://www.amazon.es/dp/B003TOGB6Q/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Unidad Flash Lexar JumpDrive S75 USB 3.0 al 30.00 % de descuento'
 date: 2020-05-19 13:11:57
-image: 'https://m.media-amazon.com/images/I/41B4TpEgwuL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41B4TpEgwuL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.32'
 
 Ahora mismo tienes [Unidad Flash Lexar JumpDrive S75 USB 3.0 64 GB [Embalaje ecológico]](https://www.amazon.es/dp/B07F9SV2VW/?tag=tolees-21) a 11.9 EUR (original: 17.0 EUR) (30.00 %  de descuento) en el siguiente enlace!
 
-[![Unidad Flash Lexar JumpDrive S75 USB 3.0](https://m.media-amazon.com/images/I/41B4TpEgwuL._SL200_.jpg)](https://www.amazon.es/dp/B07F9SV2VW/?tag=tolees-21)
+[![Unidad Flash Lexar JumpDrive S75 USB 3.0](https://m.media-amazon.com/images/I/41B4TpEgwuL._SL400_.jpg)](https://www.amazon.es/dp/B07F9SV2VW/?tag=tolees-21)
 
 🔎:
 

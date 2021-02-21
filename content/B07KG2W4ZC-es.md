@@ -2,7 +2,7 @@
 layout: post
 title: 'PUMA Nova 2 Wn s  Zapatillas deportivas  al 54.42 % de rebaja'
 date: 2020-07-08 16:18:44
-image: 'https://m.media-amazon.com/images/I/41TGl1oB3CL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41TGl1oB3CL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '41.0'
 
 Tienes [PUMA Nova 2 Wn s  Zapatillas deportivas para Mujer  Blanco White-Pastel Parchment  37 EU](https://www.amazon.es/dp/B07KG2W4ZC/?tag=tolees-21) con precio final de  41.0 EUR (original: 89.95 EUR) (54.42 %  de rebaja) aqui!
 
-[![PUMA Nova 2 Wn s  Zapatillas deportivas ](https://m.media-amazon.com/images/I/41TGl1oB3CL._SL200_.jpg)](https://www.amazon.es/dp/B07KG2W4ZC/?tag=tolees-21)
+[![PUMA Nova 2 Wn s  Zapatillas deportivas ](https://m.media-amazon.com/images/I/41TGl1oB3CL._SL400_.jpg)](https://www.amazon.es/dp/B07KG2W4ZC/?tag=tolees-21)
 
 🔎:
 

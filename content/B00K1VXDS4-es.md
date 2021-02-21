@@ -2,7 +2,7 @@
 layout: post
 title: 'Reloj Calvin Klein - Mujer K4U23121 al 64.83 % de rebaja'
 date: 2020-07-09 22:40:14
-image: 'https://m.media-amazon.com/images/I/41VGeyXM4zL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41VGeyXM4zL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '79.834'
 
 Tienes [Reloj Calvin Klein - Mujer K4U23121](https://www.amazon.es/dp/B00K1VXDS4/?tag=tolees-21) con precio final de  69.99 EUR (original: 199.0 EUR) (64.83 %  de rebaja) aqui!
 
-[![Reloj Calvin Klein - Mujer K4U23121](https://m.media-amazon.com/images/I/41VGeyXM4zL._SL200_.jpg)](https://www.amazon.es/dp/B00K1VXDS4/?tag=tolees-21)
+[![Reloj Calvin Klein - Mujer K4U23121](https://m.media-amazon.com/images/I/41VGeyXM4zL._SL400_.jpg)](https://www.amazon.es/dp/B00K1VXDS4/?tag=tolees-21)
 
 🔎:
 

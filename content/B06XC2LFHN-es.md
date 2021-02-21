@@ -2,7 +2,7 @@
 layout: post
 title: 'Funko Pop! - Dolores Abernathy Figura de al 33.36 % de descuento'
 date: 2020-04-06 17:06:19
-image: 'https://m.media-amazon.com/images/I/51ir1NNXkjL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51ir1NNXkjL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.79'
 
 Ahora mismo tienes [Funko Pop! - Dolores Abernathy Figura de Vinilo  seria Westworld  13525 ](https://www.amazon.es/dp/B06XC2LFHN/?tag=tolees-21) a 9.99 EUR (original: 14.99 EUR) (33.36 %  de descuento) en el siguiente enlace!
 
-[![Funko Pop! - Dolores Abernathy Figura de](https://m.media-amazon.com/images/I/51ir1NNXkjL._SL200_.jpg)](https://www.amazon.es/dp/B06XC2LFHN/?tag=tolees-21)
+[![Funko Pop! - Dolores Abernathy Figura de](https://m.media-amazon.com/images/I/51ir1NNXkjL._SL400_.jpg)](https://www.amazon.es/dp/B06XC2LFHN/?tag=tolees-21)
 
 🔎:
 

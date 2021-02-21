@@ -2,7 +2,7 @@
 layout: post
 title: 'Zeller 13143 - Cajón multiusos de madera al 40.29 % de rebaja'
 date: 2020-09-13 16:17:36
-image: 'https://m.media-amazon.com/images/I/41X+783Vg+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41X+783Vg+L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.95'
 
 Tienes [Zeller 13143 - Cajón multiusos de madera blanda conífera  40 x 30 x 24 cm](https://www.amazon.es/dp/B003ESIE9E/?tag=tolees-21) con precio final de  8.95 EUR (original: 14.99 EUR) (40.29 %  de rebaja) aqui!
 
-[![Zeller 13143 - Cajón multiusos de madera](https://m.media-amazon.com/images/I/41X+783Vg+L._SL200_.jpg)](https://www.amazon.es/dp/B003ESIE9E/?tag=tolees-21)
+[![Zeller 13143 - Cajón multiusos de madera](https://m.media-amazon.com/images/I/41X+783Vg+L._SL400_.jpg)](https://www.amazon.es/dp/B003ESIE9E/?tag=tolees-21)
 
 🔎:
 

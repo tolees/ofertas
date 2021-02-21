@@ -2,7 +2,7 @@
 layout: post
 title: 'find. MDR 40621 vestidos mujer  Azul  Bl al 62.50 % de descuento'
 date: 2020-01-19 16:14:43
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51cgXz4YRnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51cgXz4YRnL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.4'
 
 Ahora mismo tienes [find. MDR 40621 vestidos mujer  Azul  Blue   42  Talla del fabricante: Large ](https://www.amazon.es/dp/B077HWRCLR/?tag=tolees-21) a 11.4 EUR (original: 30.4 EUR) (62.50 %  de descuento) en el siguiente enlace!
 
-[![find. MDR 40621 vestidos mujer  Azul  Bl](https://images-eu.ssl-images-amazon.com/images/I/51cgXz4YRnL._SL200_.jpg)](https://www.amazon.es/dp/B077HWRCLR/?tag=tolees-21)
+[![find. MDR 40621 vestidos mujer  Azul  Bl](https://images-eu.ssl-images-amazon.com/images/I/51cgXz4YRnL._SL400_.jpg)](https://www.amazon.es/dp/B077HWRCLR/?tag=tolees-21)
 
 🔎:
 

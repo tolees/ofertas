@@ -2,7 +2,7 @@
 layout: post
 title: 'Donna Karan Stories EAU De Parfum Mujere al 47.65 % de rebaja'
 date: 2020-08-01 15:07:03
-image: 'https://m.media-amazon.com/images/I/3112Kws948L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/3112Kws948L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '51.83'
 
 Tienes [Donna Karan Stories EAU De Parfum Mujeres 100 ml - Eau de parfum  Mujeres  100 ml  Aerosol ](https://www.amazon.es/dp/B07F8Q4W4P/?tag=tolees-21) con precio final de  51.83 EUR (original: 99.0 EUR) (47.65 %  de rebaja) aqui!
 
-[![Donna Karan Stories EAU De Parfum Mujere](https://m.media-amazon.com/images/I/3112Kws948L._SL200_.jpg)](https://www.amazon.es/dp/B07F8Q4W4P/?tag=tolees-21)
+[![Donna Karan Stories EAU De Parfum Mujere](https://m.media-amazon.com/images/I/3112Kws948L._SL400_.jpg)](https://www.amazon.es/dp/B07F8Q4W4P/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour UA TAC Patrol Pant II Panta al 52.36 % de descuento'
 date: 2020-03-29 03:59:14
-image: 'https://m.media-amazon.com/images/I/31lO2gZn+SL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31lO2gZn+SL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '40.49'
 
 Ahora mismo tienes [Under Armour UA TAC Patrol Pant II Pantalones  Hombre  Negro  Ultimate Black/Ultimate Black 008   40W / 32L](https://www.amazon.es/dp/B077XKXBWM/?tag=tolees-21) a 40.49 EUR (original: 85.0 EUR) (52.36 %  de descuento) en el siguiente enlace!
 
-[![Under Armour UA TAC Patrol Pant II Panta](https://m.media-amazon.com/images/I/31lO2gZn+SL._SL200_.jpg)](https://www.amazon.es/dp/B077XKXBWM/?tag=tolees-21)
+[![Under Armour UA TAC Patrol Pant II Panta](https://m.media-amazon.com/images/I/31lO2gZn+SL._SL400_.jpg)](https://www.amazon.es/dp/B077XKXBWM/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Imetec Bellissima Face Cleansing Pro Spa al 57.99 % de rebaja'
 date: 2020-04-10 16:27:37
-image: 'https://m.media-amazon.com/images/I/31wayRbF8JL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31wayRbF8JL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '57.489999999999995'
 
 Tienes [Imetec Bellissima Face Cleansing Pro Spazzola para la limpieza del rostro  tecnología sónica para la limpieza del rostro  cabezales intercambiables para un tratamiento facial personalizado](https://www.amazon.es/dp/B00VJSOZE4/?tag=tolees-21) con precio final de  49.99 EUR (original: 119.0 EUR) (57.99 %  de rebaja) aqui!
 
-[![Imetec Bellissima Face Cleansing Pro Spa](https://m.media-amazon.com/images/I/31wayRbF8JL._SL200_.jpg)](https://www.amazon.es/dp/B00VJSOZE4/?tag=tolees-21)
+[![Imetec Bellissima Face Cleansing Pro Spa](https://m.media-amazon.com/images/I/31wayRbF8JL._SL400_.jpg)](https://www.amazon.es/dp/B00VJSOZE4/?tag=tolees-21)
 
 🔎:
 

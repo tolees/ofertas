@@ -2,7 +2,7 @@
 layout: post
 title: 'Diesel UMBX-DAMIENTHREEPACK  Calzoncillo al 50.00 % de descuento'
 date: 2020-07-25 21:08:14
-image: 'https://m.media-amazon.com/images/I/41IuwwZPD1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41IuwwZPD1L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.0'
 
 Ahora mismo tienes [Diesel UMBX-DAMIENTHREEPACK  Calzoncillo para Hombre  Multicolor  Black/Bright White/Dark Grey Mélange E4157/0wawd   S  Pack de 3](https://www.amazon.es/dp/B07S2YRRDF/?tag=tolees-21) a 20.0 EUR (original: 40.0 EUR) (50.00 %  de descuento) en el siguiente enlace!
 
-[![Diesel UMBX-DAMIENTHREEPACK  Calzoncillo](https://m.media-amazon.com/images/I/41IuwwZPD1L._SL200_.jpg)](https://www.amazon.es/dp/B07S2YRRDF/?tag=tolees-21)
+[![Diesel UMBX-DAMIENTHREEPACK  Calzoncillo](https://m.media-amazon.com/images/I/41IuwwZPD1L._SL400_.jpg)](https://www.amazon.es/dp/B07S2YRRDF/?tag=tolees-21)
 
 🔎:
 

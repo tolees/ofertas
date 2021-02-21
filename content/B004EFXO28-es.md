@@ -2,7 +2,7 @@
 layout: post
 title: 'Oral-B Advance Power - Cepillo de diente con un 47.48 % de descuento'
 date: 2020-09-27 18:22:38
-image: 'https://m.media-amazon.com/images/I/419aMnpDN-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/419aMnpDN-L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.7808'
 
 En este momento está [Oral-B Advance Power - Cepillo de dientes con pilas](https://www.amazon.es/dp/B004EFXO28/?tag=tolees-21) a 8.87 EUR (original: 16.89 EUR) (47.48 %  de descuento) en el siguiente enlace!
 
-[![Oral-B Advance Power - Cepillo de diente](https://m.media-amazon.com/images/I/419aMnpDN-L._SL200_.jpg)](https://www.amazon.es/dp/B004EFXO28/?tag=tolees-21)
+[![Oral-B Advance Power - Cepillo de diente](https://m.media-amazon.com/images/I/419aMnpDN-L._SL400_.jpg)](https://www.amazon.es/dp/B004EFXO28/?tag=tolees-21)
 
 🔎:
 

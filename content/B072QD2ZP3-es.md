@@ -2,7 +2,7 @@
 layout: post
 title: 'New Balance Fresh Foam Cruz Sport Pack R con un 38.33 % de descuento'
 date: 2020-06-24 12:36:01
-image: 'https://m.media-amazon.com/images/I/41sAd8Fe24L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41sAd8Fe24L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.49'
 
 En este momento está [New Balance Fresh Foam Cruz Sport Pack Reflective m  Zapatillas de Running para Mujer  Gris  Grey   41 EU](https://www.amazon.es/dp/B072QD2ZP3/?tag=tolees-21) a 29.49 EUR (original: 47.82 EUR) (38.33 %  de descuento) en el siguiente enlace!
 
-[![New Balance Fresh Foam Cruz Sport Pack R](https://m.media-amazon.com/images/I/41sAd8Fe24L._SL200_.jpg)](https://www.amazon.es/dp/B072QD2ZP3/?tag=tolees-21)
+[![New Balance Fresh Foam Cruz Sport Pack R](https://m.media-amazon.com/images/I/41sAd8Fe24L._SL400_.jpg)](https://www.amazon.es/dp/B072QD2ZP3/?tag=tolees-21)
 
 🔎:
 

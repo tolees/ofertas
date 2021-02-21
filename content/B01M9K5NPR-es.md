@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 46.01 % en Mar de plástico - Serie completa [DVD]'
 date: 2020-10-05 14:44:05
-image: 'https://m.media-amazon.com/images/I/41bPpPyy2NL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41bPpPyy2NL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '26.99'
 
 Tienes [Mar de plástico - Serie completa [DVD]](https://www.amazon.es/dp/B01M9K5NPR/?tag=tolees-21) con un 46.01 % de descuento con precio de oferta de 26.99 EUR (original: 49.99 EUR) en el siguiente enlace!
 
-[![Mar de plástico - Serie completa [DVD]](https://m.media-amazon.com/images/I/41bPpPyy2NL._SL200_.jpg)](https://www.amazon.es/dp/B01M9K5NPR/?tag=tolees-21)
+[![Mar de plástico - Serie completa [DVD]](https://m.media-amazon.com/images/I/41bPpPyy2NL._SL400_.jpg)](https://www.amazon.es/dp/B01M9K5NPR/?tag=tolees-21)
 
 ℹ️:
 

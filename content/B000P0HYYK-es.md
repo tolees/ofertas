@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 38.01 % en Grohe Sifon de Lavabo 1 1/4"  acabado cr'
 date: 2020-08-04 13:02:13
-image: 'https://m.media-amazon.com/images/I/417boTEV-PL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/417boTEV-PL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '26.93'
 
 Tienes [Grohe Sifon de Lavabo 1 1/4"  acabado cromado  Ref. 28920000 ](https://www.amazon.es/dp/B000P0HYYK/?tag=tolees-21) con un 38.01 % de descuento con precio de oferta de 26.93 EUR (original: 43.44 EUR) en el siguiente enlace!
 
-[![Grohe Sifon de Lavabo 1 1/4"  acabado cr](https://m.media-amazon.com/images/I/417boTEV-PL._SL200_.jpg)](https://www.amazon.es/dp/B000P0HYYK/?tag=tolees-21)
+[![Grohe Sifon de Lavabo 1 1/4"  acabado cr](https://m.media-amazon.com/images/I/417boTEV-PL._SL400_.jpg)](https://www.amazon.es/dp/B000P0HYYK/?tag=tolees-21)
 
 ℹ️:
 

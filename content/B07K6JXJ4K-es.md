@@ -2,7 +2,7 @@
 layout: post
 title: 'Columbia Snuggly Bunny Mono de esquí Inf al 43.34 % de rebaja'
 date: 2020-04-16 11:36:40
-image: 'https://m.media-amazon.com/images/I/41dUNtbJTFL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41dUNtbJTFL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '35.24'
 
 Tienes [Columbia Snuggly Bunny Mono de esquí Infantil  Bebé-Niños  Azul  Pine Green Critter Block 462   18-24m](https://www.amazon.es/dp/B07K6JXJ4K/?tag=tolees-21) con precio final de  33.99 EUR (original: 59.99 EUR) (43.34 %  de rebaja) aqui!
 
-[![Columbia Snuggly Bunny Mono de esquí Inf](https://m.media-amazon.com/images/I/41dUNtbJTFL._SL200_.jpg)](https://www.amazon.es/dp/B07K6JXJ4K/?tag=tolees-21)
+[![Columbia Snuggly Bunny Mono de esquí Inf](https://m.media-amazon.com/images/I/41dUNtbJTFL._SL400_.jpg)](https://www.amazon.es/dp/B07K6JXJ4K/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Holland Rosso 300 gr al 74.24 % de descuento'
 date: 2020-04-18 02:31:39
-image: 'https://m.media-amazon.com/images/I/51cjCZWBrOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51cjCZWBrOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.79'
 
 Está [Holland Rosso 300 gr](https://www.amazon.es/dp/B06XX1D1YQ/?tag=tolees-21) con 74.24 de descuento por 1.79 EUR (original: 6.95 EUR) en el siguiente enlace!
 
-[![Holland Rosso 300 gr](https://m.media-amazon.com/images/I/51cjCZWBrOL._SL200_.jpg)](https://www.amazon.es/dp/B06XX1D1YQ/?tag=tolees-21)
+[![Holland Rosso 300 gr](https://m.media-amazon.com/images/I/51cjCZWBrOL._SL400_.jpg)](https://www.amazon.es/dp/B06XX1D1YQ/?tag=tolees-21)
 
 ℹ️:
 

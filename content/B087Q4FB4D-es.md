@@ -2,7 +2,7 @@
 layout: post
 title: 'VIDOO 2 Pairs Hurricane 51499 3-Blade 5M al 34.53 % de rebaja'
 date: 2020-06-15 15:02:14
-image: 'https://m.media-amazon.com/images/I/41kdzM7gMLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41kdzM7gMLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.09'
 
 Tienes [VIDOO 2 Pairs Hurricane 51499 3-Blade 5Mm/Popo Propeller CW CCW For RC Drone FPV Racing-Púrpura Claro](https://www.amazon.es/dp/B087Q4FB4D/?tag=tolees-21) con precio final de  7.09 EUR (original: 10.83 EUR) (34.53 %  de rebaja) aqui!
 
-[![VIDOO 2 Pairs Hurricane 51499 3-Blade 5M](https://m.media-amazon.com/images/I/41kdzM7gMLL._SL200_.jpg)](https://www.amazon.es/dp/B087Q4FB4D/?tag=tolees-21)
+[![VIDOO 2 Pairs Hurricane 51499 3-Blade 5M](https://m.media-amazon.com/images/I/41kdzM7gMLL._SL400_.jpg)](https://www.amazon.es/dp/B087Q4FB4D/?tag=tolees-21)
 
 🔎:
 

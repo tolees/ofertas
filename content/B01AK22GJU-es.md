@@ -2,7 +2,7 @@
 layout: post
 title: 'NIKE Swoosh - Diadema para Mujer  Mujer  al 27.27 % de descuento'
 date: 2020-07-16 20:29:52
-image: 'https://m.media-amazon.com/images/I/41Mhtfov80L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Mhtfov80L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.316666666666666'
 
 Ahora mismo tienes [NIKE Swoosh - Diadema para Mujer  Mujer  N.JN.D6.010.OS  Blanco/Negro  Talla única Hombre](https://www.amazon.es/dp/B01AK22GJU/?tag=tolees-21) a 16.0 EUR (original: 22.0 EUR) (27.27 %  de descuento) en el siguiente enlace!
 
-[![NIKE Swoosh - Diadema para Mujer  Mujer ](https://m.media-amazon.com/images/I/41Mhtfov80L._SL200_.jpg)](https://www.amazon.es/dp/B01AK22GJU/?tag=tolees-21)
+[![NIKE Swoosh - Diadema para Mujer  Mujer ](https://m.media-amazon.com/images/I/41Mhtfov80L._SL400_.jpg)](https://www.amazon.es/dp/B01AK22GJU/?tag=tolees-21)
 
 🔎:
 

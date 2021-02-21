@@ -2,7 +2,7 @@
 layout: post
 title: 'Pioneer Se-MJ771BT-W - Auriculares  micr al 45.19 % de rebaja'
 date: 2020-08-11 20:01:43
-image: 'https://m.media-amazon.com/images/I/41GDqqYEPbL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41GDqqYEPbL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '54.8'
 
 Tienes [Pioneer Se-MJ771BT-W - Auriculares  microfono  Bluetooth   Blanco  20 3 x 20 x 9 5 cm](https://www.amazon.es/dp/B015ZO9OVQ/?tag=tolees-21) con precio final de  54.8 EUR (original: 99.99 EUR) (45.19 %  de rebaja) aqui!
 
-[![Pioneer Se-MJ771BT-W - Auriculares  micr](https://m.media-amazon.com/images/I/41GDqqYEPbL._SL200_.jpg)](https://www.amazon.es/dp/B015ZO9OVQ/?tag=tolees-21)
+[![Pioneer Se-MJ771BT-W - Auriculares  micr](https://m.media-amazon.com/images/I/41GDqqYEPbL._SL400_.jpg)](https://www.amazon.es/dp/B015ZO9OVQ/?tag=tolees-21)
 
 🔎:
 

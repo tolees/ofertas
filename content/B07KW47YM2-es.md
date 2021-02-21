@@ -2,7 +2,7 @@
 layout: post
 title: 'Moliies W50L-5DB 802.11 AC 1200M 2.4G /  al 38.99 % de descuento'
 date: 2020-03-15 12:14:23
-image: 'https://m.media-amazon.com/images/I/319mxCpcGZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/319mxCpcGZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.05'
 
 Ahora mismo tienes [Moliies W50L-5DB 802.11 AC 1200M 2.4G / 5.8G Adaptador inalámbrico de Banda Dual USB 3.0 WiFi](https://www.amazon.es/dp/B07KW47YM2/?tag=tolees-21) a 12.05 EUR (original: 19.75 EUR) (38.99 %  de descuento) en el siguiente enlace!
 
-[![Moliies W50L-5DB 802.11 AC 1200M 2.4G / ](https://m.media-amazon.com/images/I/319mxCpcGZL._SL200_.jpg)](https://www.amazon.es/dp/B07KW47YM2/?tag=tolees-21)
+[![Moliies W50L-5DB 802.11 AC 1200M 2.4G / ](https://m.media-amazon.com/images/I/319mxCpcGZL._SL400_.jpg)](https://www.amazon.es/dp/B07KW47YM2/?tag=tolees-21)
 
 🔎:
 

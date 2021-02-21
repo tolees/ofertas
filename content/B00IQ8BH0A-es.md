@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 43.25 % en Astralpool 11390 Floculante en Cartuchos'
 date: 2020-08-24 14:01:03
-image: 'https://m.media-amazon.com/images/I/51VlbVaj4zL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51VlbVaj4zL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.686666666666667'
 
 Tienes [Astralpool 11390 Floculante en Cartuchos para Piscinas  Blanco  10x20x7 cm](https://www.amazon.es/dp/B00IQ8BH0A/?tag=tolees-21) con un 43.25 % de descuento con precio de oferta de 18.84 EUR (original: 33.2 EUR) en el siguiente enlace!
 
-[![Astralpool 11390 Floculante en Cartuchos](https://m.media-amazon.com/images/I/51VlbVaj4zL._SL200_.jpg)](https://www.amazon.es/dp/B00IQ8BH0A/?tag=tolees-21)
+[![Astralpool 11390 Floculante en Cartuchos](https://m.media-amazon.com/images/I/51VlbVaj4zL._SL400_.jpg)](https://www.amazon.es/dp/B00IQ8BH0A/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Sanlebi Light Up Tracing Board  Dibujos  al 29.53 % de descuento'
 date: 2020-07-15 16:52:41
-image: 'https://m.media-amazon.com/images/I/614hZqz4ytL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/614hZqz4ytL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.86'
 
 Ahora mismo tienes [Sanlebi Light Up Tracing Board  Dibujos para Niños Pintura Colorida para Princess Grow Art Set Juguetes de Aprendizaje para Niñas Pequeñas](https://www.amazon.es/dp/B087JMCGHY/?tag=tolees-21) a 23.86 EUR (original: 33.86 EUR) (29.53 %  de descuento) en el siguiente enlace!
 
-[![Sanlebi Light Up Tracing Board  Dibujos ](https://m.media-amazon.com/images/I/614hZqz4ytL._SL200_.jpg)](https://www.amazon.es/dp/B087JMCGHY/?tag=tolees-21)
+[![Sanlebi Light Up Tracing Board  Dibujos ](https://m.media-amazon.com/images/I/614hZqz4ytL._SL400_.jpg)](https://www.amazon.es/dp/B087JMCGHY/?tag=tolees-21)
 
 🔎:
 

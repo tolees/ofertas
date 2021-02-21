@@ -2,7 +2,7 @@
 layout: post
 title: 'Nike Air MAX Graviton  Zapatillas para H al 59.83 % de descuento'
 date: 2020-03-29 14:17:25
-image: 'https://m.media-amazon.com/images/I/4115e1fF79L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/4115e1fF79L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '45.04'
 
 Está [Nike Air MAX Graviton  Zapatillas para Hombre  Negro  Black/White 001   43 EU](https://www.amazon.es/dp/B07PZ1NVDW/?tag=tolees-21) con 59.83 de descuento por 40.17 EUR (original: 99.99 EUR) en el siguiente enlace!
 
-[![Nike Air MAX Graviton  Zapatillas para H](https://m.media-amazon.com/images/I/4115e1fF79L._SL200_.jpg)](https://www.amazon.es/dp/B07PZ1NVDW/?tag=tolees-21)
+[![Nike Air MAX Graviton  Zapatillas para H](https://m.media-amazon.com/images/I/4115e1fF79L._SL400_.jpg)](https://www.amazon.es/dp/B07PZ1NVDW/?tag=tolees-21)
 
 ℹ️:
 

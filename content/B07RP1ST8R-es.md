@@ -2,7 +2,7 @@
 layout: post
 title: 'Xiaomi Mi - Ratón inalámbrico  Color Bla con un 51.00 % de descuento'
 date: 2020-01-11 13:25:11
-image: 'https://images-eu.ssl-images-amazon.com/images/I/211etyxZBiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/211etyxZBiL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.99'
 
 En este momento está [Xiaomi Mi - Ratón inalámbrico  Color Blanco](https://www.amazon.es/dp/B07RP1ST8R/?tag=tolees-21) a 10.99 EUR (original: 22.43 EUR) (51.00 %  de descuento) en el siguiente enlace!
 
-[![Xiaomi Mi - Ratón inalámbrico  Color Bla](https://images-eu.ssl-images-amazon.com/images/I/211etyxZBiL._SL200_.jpg)](https://www.amazon.es/dp/B07RP1ST8R/?tag=tolees-21)
+[![Xiaomi Mi - Ratón inalámbrico  Color Bla](https://images-eu.ssl-images-amazon.com/images/I/211etyxZBiL._SL400_.jpg)](https://www.amazon.es/dp/B07RP1ST8R/?tag=tolees-21)
 
 🔎:
 

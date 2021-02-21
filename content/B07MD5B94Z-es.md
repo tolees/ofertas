@@ -2,7 +2,7 @@
 layout: post
 title: 'Masthome tabla de cortar de bambú con ra al 50.68 % de rebaja'
 date: 2020-09-29 21:37:55
-image: 'https://m.media-amazon.com/images/I/51Ji1pu9joL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Ji1pu9joL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.61'
 
 Tienes [Masthome tabla de cortar de bambú con ranura para jugo y mango  ideal para carne  verduras  frutas - 1 afilador de cuchillos y 1 cuchillo como un regalo [4 piezas]](https://www.amazon.es/dp/B07MD5B94Z/?tag=tolees-21) con precio final de  19.61 EUR (original: 39.76 EUR) (50.68 %  de rebaja) aqui!
 
-[![Masthome tabla de cortar de bambú con ra](https://m.media-amazon.com/images/I/51Ji1pu9joL._SL200_.jpg)](https://www.amazon.es/dp/B07MD5B94Z/?tag=tolees-21)
+[![Masthome tabla de cortar de bambú con ra](https://m.media-amazon.com/images/I/51Ji1pu9joL._SL400_.jpg)](https://www.amazon.es/dp/B07MD5B94Z/?tag=tolees-21)
 
 🔎:
 

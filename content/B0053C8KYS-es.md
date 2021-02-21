@@ -2,7 +2,7 @@
 layout: post
 title: 'Notting Hill [Blu-ray] con un 52.92 % de descuento'
 date: 2020-07-08 04:19:04
-image: 'https://m.media-amazon.com/images/I/51OJPHxGMRL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51OJPHxGMRL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.26'
 
 En este momento está [Notting Hill [Blu-ray]](https://www.amazon.es/dp/B0053C8KYS/?tag=tolees-21) a 7.26 EUR (original: 15.42 EUR) (52.92 %  de descuento) en el siguiente enlace!
 
-[![Notting Hill [Blu-ray]](https://m.media-amazon.com/images/I/51OJPHxGMRL._SL200_.jpg)](https://www.amazon.es/dp/B0053C8KYS/?tag=tolees-21)
+[![Notting Hill [Blu-ray]](https://m.media-amazon.com/images/I/51OJPHxGMRL._SL400_.jpg)](https://www.amazon.es/dp/B0053C8KYS/?tag=tolees-21)
 
 🔎:
 

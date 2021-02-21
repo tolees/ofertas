@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger Indigo Regular LS Polo  A al 57.39 % de descuento'
 date: 2020-01-16 12:08:41
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41QGHBr1u%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41QGHBr1u%2BL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '37.370000000000005'
 
 Ahora mismo tienes [Tommy Hilfiger Indigo Regular LS Polo  Azul  Maritime Blue Heather 430   Small para Hombre](https://www.amazon.es/dp/B07JYFY3Q2/?tag=tolees-21) a 42.57 EUR (original: 99.9 EUR) (57.39 %  de descuento) en el siguiente enlace!
 
-[![Tommy Hilfiger Indigo Regular LS Polo  A](https://images-eu.ssl-images-amazon.com/images/I/41QGHBr1u%2BL._SL200_.jpg)](https://www.amazon.es/dp/B07JYFY3Q2/?tag=tolees-21)
+[![Tommy Hilfiger Indigo Regular LS Polo  A](https://images-eu.ssl-images-amazon.com/images/I/41QGHBr1u%2BL._SL400_.jpg)](https://www.amazon.es/dp/B07JYFY3Q2/?tag=tolees-21)
 
 🔎:
 

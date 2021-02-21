@@ -2,7 +2,7 @@
 layout: post
 title: 'non-brand Mini Space Toys Airplane Rocke al 44.45 % de descuento'
 date: 2020-04-16 00:27:49
-image: 'https://m.media-amazon.com/images/I/4159dZsJQbL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/4159dZsJQbL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.41'
 
 Ahora mismo tienes [non-brand Mini Space Toys Airplane Rocket Car Model Set para Regalos de Cumpleaños de Niños - Estilo 2](https://www.amazon.es/dp/B07PBK3PQ2/?tag=tolees-21) a 14.41 EUR (original: 25.94 EUR) (44.45 %  de descuento) en el siguiente enlace!
 
-[![non-brand Mini Space Toys Airplane Rocke](https://m.media-amazon.com/images/I/4159dZsJQbL._SL200_.jpg)](https://www.amazon.es/dp/B07PBK3PQ2/?tag=tolees-21)
+[![non-brand Mini Space Toys Airplane Rocke](https://m.media-amazon.com/images/I/4159dZsJQbL._SL400_.jpg)](https://www.amazon.es/dp/B07PBK3PQ2/?tag=tolees-21)
 
 🔎:
 

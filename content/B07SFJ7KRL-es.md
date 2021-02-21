@@ -2,7 +2,7 @@
 layout: post
 title: 'Nike Court Royale  Zapatillas de Tenis p al 41.89 % de descuento'
 date: 2020-02-02 21:23:41
-image: 'https://m.media-amazon.com/images/I/315nrtBvECL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/315nrtBvECL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '34.2125'
 
 Ahora mismo tienes [Nike Court Royale  Zapatillas de Tenis para Hombre  Multicolor  Mahogany/Pale Ivory/Dusty Peach 200   44 1/2 EU](https://www.amazon.es/dp/B07SFJ7KRL/?tag=tolees-21) a 31.96 EUR (original: 55.0 EUR) (41.89 %  de descuento) en el siguiente enlace!
 
-[![Nike Court Royale  Zapatillas de Tenis p](https://m.media-amazon.com/images/I/315nrtBvECL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07SFJ7KRL/?tag=tolees-21)
+[![Nike Court Royale  Zapatillas de Tenis p](https://m.media-amazon.com/images/I/315nrtBvECL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07SFJ7KRL/?tag=tolees-21)
 
 🔎:
 

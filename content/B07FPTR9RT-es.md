@@ -2,7 +2,7 @@
 layout: post
 title: 'PUMA Axis  Zapatillas Unisex Adulto  Bla al 55.14 % de rebaja'
 date: 2020-02-03 07:49:42
-image: 'https://m.media-amazon.com/images/I/41NHIfE-RaL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41NHIfE-RaL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '28.82'
 
 Tienes [PUMA Axis  Zapatillas Unisex Adulto  Black White  40.5 EU](https://www.amazon.es/dp/B07FPTR9RT/?tag=tolees-21) con precio final de  24.65 EUR (original: 54.95 EUR) (55.14 %  de rebaja) aqui!
 
-[![PUMA Axis  Zapatillas Unisex Adulto  Bla](https://m.media-amazon.com/images/I/41NHIfE-RaL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07FPTR9RT/?tag=tolees-21)
+[![PUMA Axis  Zapatillas Unisex Adulto  Bla](https://m.media-amazon.com/images/I/41NHIfE-RaL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07FPTR9RT/?tag=tolees-21)
 
 🔎:
 

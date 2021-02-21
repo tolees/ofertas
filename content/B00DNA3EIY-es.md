@@ -2,7 +2,7 @@
 layout: post
 title: 'Terry - Armario plástico exterior  89.7  con un 30.00 % de descuento'
 date: 2020-03-16 12:43:17
-image: 'https://m.media-amazon.com/images/I/41CyY3Jtu0L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41CyY3Jtu0L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '109.65'
 
 En este momento está [Terry - Armario plástico exterior  89.7 x 53.7 x 180 cm](https://www.amazon.es/dp/B00DNA3EIY/?tag=tolees-21) a 90.3 EUR (original: 129.0 EUR) (30.00 %  de descuento) en el siguiente enlace!
 
-[![Terry - Armario plástico exterior  89.7 ](https://m.media-amazon.com/images/I/41CyY3Jtu0L._SL200_.jpg)](https://www.amazon.es/dp/B00DNA3EIY/?tag=tolees-21)
+[![Terry - Armario plástico exterior  89.7 ](https://m.media-amazon.com/images/I/41CyY3Jtu0L._SL400_.jpg)](https://www.amazon.es/dp/B00DNA3EIY/?tag=tolees-21)
 
 🔎:
 

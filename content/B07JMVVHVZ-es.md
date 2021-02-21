@@ -2,7 +2,7 @@
 layout: post
 title: 'Biotina 10.000 mcg  Vitamina B7  | 365 c al 26.73 % de descuento'
 date: 2020-03-09 15:20:57
-image: 'https://m.media-amazon.com/images/I/41m1urcUzLL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41m1urcUzLL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.02'
 
 Ahora mismo tienes [Biotina 10.000 mcg  Vitamina B7  | 365 comprimidos  Suministro anual  | Estimula el crecimiento del cabello  ayuda a mantener la piel y las uñas sanas  y activa el metabolismo | Apto para Veganos.](https://www.amazon.es/dp/B07JMVVHVZ/?tag=tolees-21) a 13.02 EUR (original: 17.77 EUR) (26.73 %  de descuento) en el siguiente enlace!
 
-[![Biotina 10.000 mcg  Vitamina B7  | 365 c](https://m.media-amazon.com/images/I/41m1urcUzLL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07JMVVHVZ/?tag=tolees-21)
+[![Biotina 10.000 mcg  Vitamina B7  | 365 c](https://m.media-amazon.com/images/I/41m1urcUzLL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07JMVVHVZ/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Bayer Sano & Bello Limpiador Dental - 14 con un 29.47 % de descuento'
 date: 2020-05-30 19:33:22
-image: 'https://m.media-amazon.com/images/I/31ufmKNkqyL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31ufmKNkqyL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.99'
 
 En este momento está [Bayer Sano & Bello Limpiador Dental - 140 gr](https://www.amazon.es/dp/B00HR3OXRO/?tag=tolees-21) a 6.99 EUR (original: 9.91 EUR) (29.47 %  de descuento) en el siguiente enlace!
 
-[![Bayer Sano & Bello Limpiador Dental - 14](https://m.media-amazon.com/images/I/31ufmKNkqyL._SL200_.jpg)](https://www.amazon.es/dp/B00HR3OXRO/?tag=tolees-21)
+[![Bayer Sano & Bello Limpiador Dental - 14](https://m.media-amazon.com/images/I/31ufmKNkqyL._SL400_.jpg)](https://www.amazon.es/dp/B00HR3OXRO/?tag=tolees-21)
 
 🔎:
 

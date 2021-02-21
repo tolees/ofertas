@@ -2,7 +2,7 @@
 layout: post
 title: 'Sisley Phyto Corps Confort Extrême 150 m al 40.43 % de descuento'
 date: 2020-07-23 13:55:42
-image: 'https://m.media-amazon.com/images/I/31P93iBtDLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31P93iBtDLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '65.395'
 
 Ahora mismo tienes [Sisley Phyto Corps Confort Extrême 150 ml](https://www.amazon.es/dp/B002AMUGJG/?tag=tolees-21) a 65.83 EUR (original: 110.5 EUR) (40.43 %  de descuento) en el siguiente enlace!
 
-[![Sisley Phyto Corps Confort Extrême 150 m](https://m.media-amazon.com/images/I/31P93iBtDLL._SL200_.jpg)](https://www.amazon.es/dp/B002AMUGJG/?tag=tolees-21)
+[![Sisley Phyto Corps Confort Extrême 150 m](https://m.media-amazon.com/images/I/31P93iBtDLL._SL400_.jpg)](https://www.amazon.es/dp/B002AMUGJG/?tag=tolees-21)
 
 🔎:
 

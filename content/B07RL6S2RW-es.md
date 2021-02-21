@@ -2,7 +2,7 @@
 layout: post
 title: 'Fornite - Quadcrasher 28 cm  Windows  al 35.05 % de descuento'
 date: 2020-08-14 12:08:57
-image: 'https://m.media-amazon.com/images/I/412qzbSIO+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/412qzbSIO+L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.75'
 
 Ahora mismo tienes [Fornite - Quadcrasher 28 cm  Windows ](https://www.amazon.es/dp/B07RL6S2RW/?tag=tolees-21) a 20.75 EUR (original: 31.95 EUR) (35.05 %  de descuento) en el siguiente enlace!
 
-[![Fornite - Quadcrasher 28 cm  Windows ](https://m.media-amazon.com/images/I/412qzbSIO+L._SL200_.jpg)](https://www.amazon.es/dp/B07RL6S2RW/?tag=tolees-21)
+[![Fornite - Quadcrasher 28 cm  Windows ](https://m.media-amazon.com/images/I/412qzbSIO+L._SL400_.jpg)](https://www.amazon.es/dp/B07RL6S2RW/?tag=tolees-21)
 
 🔎:
 

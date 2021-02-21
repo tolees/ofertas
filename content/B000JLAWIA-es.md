@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 38.51 % en Thierry Mugler - A*MEN RUBBER R edt vapo'
 date: 2020-01-13 11:32:27
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BHy6obUjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BHy6obUjL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '45.5'
 
 Tienes [Thierry Mugler - A*MEN RUBBER R edt vapo 100 ml](https://www.amazon.es/dp/B000JLAWIA/?tag=tolees-21) con un 38.51 % de descuento con precio de oferta de 45.5 EUR (original: 74 EUR) en el siguiente enlace!
 
-[![Thierry Mugler - A*MEN RUBBER R edt vapo](https://images-eu.ssl-images-amazon.com/images/I/41%2BHy6obUjL._SL200_.jpg)](https://www.amazon.es/dp/B000JLAWIA/?tag=tolees-21)
+[![Thierry Mugler - A*MEN RUBBER R edt vapo](https://images-eu.ssl-images-amazon.com/images/I/41%2BHy6obUjL._SL400_.jpg)](https://www.amazon.es/dp/B000JLAWIA/?tag=tolees-21)
 
 ℹ️:
 

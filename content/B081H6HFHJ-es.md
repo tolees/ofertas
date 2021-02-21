@@ -2,7 +2,7 @@
 layout: post
 title: 'Finether Dispensador de Jabón Automático al 61.44 % de descuento'
 date: 2020-08-08 09:26:22
-image: 'https://m.media-amazon.com/images/I/31Ldr+-sGzL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Ldr+-sGzL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '26.99'
 
 Está [Finether Dispensador de Jabón Automático Espuma Dispensador Sensor de Jabón sin Contacto 350ml Impermeable para Baño  Cocina  Color Blanco](https://www.amazon.es/dp/B081H6HFHJ/?tag=tolees-21) con 61.44 de descuento por 26.99 EUR (original: 69.99 EUR) en el siguiente enlace!
 
-[![Finether Dispensador de Jabón Automático](https://m.media-amazon.com/images/I/31Ldr+-sGzL._SL200_.jpg)](https://www.amazon.es/dp/B081H6HFHJ/?tag=tolees-21)
+[![Finether Dispensador de Jabón Automático](https://m.media-amazon.com/images/I/31Ldr+-sGzL._SL400_.jpg)](https://www.amazon.es/dp/B081H6HFHJ/?tag=tolees-21)
 
 ℹ️:
 

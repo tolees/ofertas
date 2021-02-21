@@ -2,7 +2,7 @@
 layout: post
 title: 'Contorno de Ojos Antiarrugas | Anti-edad con un 37.51 % de descuento'
 date: 2020-01-16 17:03:55
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41MxRIRrumL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41MxRIRrumL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.99'
 
 En este momento está [Contorno de Ojos Antiarrugas | Anti-edad para ojeras  bolsas  patas de gallo e hinchazón | Reduce líneas de expresión y arrugas | Crema contorno de ojos Mujer y Hombre | Efecto Anti-fatiga y Lifting ](https://www.amazon.es/dp/B0748GG3GN/?tag=tolees-21) a 24.99 EUR (original: 39.99 EUR) (37.51 %  de descuento) en el siguiente enlace!
 
-[![Contorno de Ojos Antiarrugas | Anti-edad](https://images-eu.ssl-images-amazon.com/images/I/41MxRIRrumL._SL200_.jpg)](https://www.amazon.es/dp/B0748GG3GN/?tag=tolees-21)
+[![Contorno de Ojos Antiarrugas | Anti-edad](https://images-eu.ssl-images-amazon.com/images/I/41MxRIRrumL._SL400_.jpg)](https://www.amazon.es/dp/B0748GG3GN/?tag=tolees-21)
 
 🔎:
 

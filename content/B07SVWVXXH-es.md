@@ -2,7 +2,7 @@
 layout: post
 title: 'FITTOO Pantalones Cortos Capris 3/4 Legg al 50.03 % de descuento'
 date: 2020-04-16 16:30:07
-image: 'https://m.media-amazon.com/images/I/41IM3zo-XUL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41IM3zo-XUL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.99'
 
 Ahora mismo tienes [FITTOO Pantalones Cortos Capris 3/4 Leggings Mujer Mallas de Yoga Alta Cintura Elásticos y Transpirables #3 Rojo XL](https://www.amazon.es/dp/B07SVWVXXH/?tag=tolees-21) a 14.99 EUR (original: 30.0 EUR) (50.03 %  de descuento) en el siguiente enlace!
 
-[![FITTOO Pantalones Cortos Capris 3/4 Legg](https://m.media-amazon.com/images/I/41IM3zo-XUL._SL200_.jpg)](https://www.amazon.es/dp/B07SVWVXXH/?tag=tolees-21)
+[![FITTOO Pantalones Cortos Capris 3/4 Legg](https://m.media-amazon.com/images/I/41IM3zo-XUL._SL400_.jpg)](https://www.amazon.es/dp/B07SVWVXXH/?tag=tolees-21)
 
 🔎:
 

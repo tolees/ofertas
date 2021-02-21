@@ -2,7 +2,7 @@
 layout: post
 title: 'Billetero Pepe Jeans Fair Camel al 60.29 % de descuento'
 date: 2020-09-10 07:10:24
-image: 'https://m.media-amazon.com/images/I/41w-6vZTTvL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41w-6vZTTvL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.09'
 
 Ahora mismo tienes [Billetero Pepe Jeans Fair Camel](https://www.amazon.es/dp/B07YBGK17X/?tag=tolees-21) a 15.09 EUR (original: 38.0 EUR) (60.29 %  de descuento) en el siguiente enlace!
 
-[![Billetero Pepe Jeans Fair Camel](https://m.media-amazon.com/images/I/41w-6vZTTvL._SL200_.jpg)](https://www.amazon.es/dp/B07YBGK17X/?tag=tolees-21)
+[![Billetero Pepe Jeans Fair Camel](https://m.media-amazon.com/images/I/41w-6vZTTvL._SL400_.jpg)](https://www.amazon.es/dp/B07YBGK17X/?tag=tolees-21)
 
 🔎:
 

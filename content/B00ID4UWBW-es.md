@@ -2,7 +2,7 @@
 layout: post
 title: 'Limes al 27.96 % de rebaja'
 date: 2020-09-16 22:51:18
-image: 'https://m.media-amazon.com/images/I/61vtzMzl2DL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61vtzMzl2DL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.258000000000001'
 
 Tienes [Limes](https://www.amazon.es/dp/B00ID4UWBW/?tag=tolees-21) con precio final de  11.26 EUR (original: 15.63 EUR) (27.96 %  de rebaja) aqui!
 
-[![Limes](https://m.media-amazon.com/images/I/61vtzMzl2DL._SL200_.jpg)](https://www.amazon.es/dp/B00ID4UWBW/?tag=tolees-21)
+[![Limes](https://m.media-amazon.com/images/I/61vtzMzl2DL._SL400_.jpg)](https://www.amazon.es/dp/B00ID4UWBW/?tag=tolees-21)
 
 🔎:
 

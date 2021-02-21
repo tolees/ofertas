@@ -2,7 +2,7 @@
 layout: post
 title: 'Borcam 1690037 Juego de 2 bandejas de Ho al 40.11 % de descuento'
 date: 2020-06-06 21:12:18
-image: 'https://m.media-amazon.com/images/I/41ufAOIaeGL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ufAOIaeGL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.496666666666666'
 
 Está [Borcam 1690037 Juego de 2 bandejas de Horno Care Cristal Transparente  31 5 x 28 x 6 cm](https://www.amazon.es/dp/B00D91YNJG/?tag=tolees-21) con 40.11 de descuento por 12.9 EUR (original: 21.54 EUR) en el siguiente enlace!
 
-[![Borcam 1690037 Juego de 2 bandejas de Ho](https://m.media-amazon.com/images/I/41ufAOIaeGL._SL200_.jpg)](https://www.amazon.es/dp/B00D91YNJG/?tag=tolees-21)
+[![Borcam 1690037 Juego de 2 bandejas de Ho](https://m.media-amazon.com/images/I/41ufAOIaeGL._SL400_.jpg)](https://www.amazon.es/dp/B00D91YNJG/?tag=tolees-21)
 
 ℹ️:
 

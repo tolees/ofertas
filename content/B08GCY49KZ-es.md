@@ -2,7 +2,7 @@
 layout: post
 title: 'JARNING Fundas para Xiaomi Redmi 9C  Cue al 30.03 % de rebaja'
 date: 2020-10-07 18:54:46
-image: 'https://m.media-amazon.com/images/I/51DXMOuBYKL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51DXMOuBYKL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.99'
 
 Tienes [JARNING Fundas para Xiaomi Redmi 9C  Cuero Flip Leather Wallet Case Painting Cover con Ranura de Tarjeta Cierre Magnético  Mariposa melocotón ](https://www.amazon.es/dp/B08GCY49KZ/?tag=tolees-21) con precio final de  6.99 EUR (original: 9.99 EUR) (30.03 %  de rebaja) aqui!
 
-[![JARNING Fundas para Xiaomi Redmi 9C  Cue](https://m.media-amazon.com/images/I/51DXMOuBYKL._SL200_.jpg)](https://www.amazon.es/dp/B08GCY49KZ/?tag=tolees-21)
+[![JARNING Fundas para Xiaomi Redmi 9C  Cue](https://m.media-amazon.com/images/I/51DXMOuBYKL._SL400_.jpg)](https://www.amazon.es/dp/B08GCY49KZ/?tag=tolees-21)
 
 🔎:
 

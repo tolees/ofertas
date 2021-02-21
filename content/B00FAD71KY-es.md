@@ -2,7 +2,7 @@
 layout: post
 title: 'Samsung EE-V200SA - Soporte de móviles p al 60.23 % de descuento'
 date: 2020-06-29 22:17:21
-image: 'https://m.media-amazon.com/images/I/41vITpJsm7L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41vITpJsm7L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.201999999999998'
 
 Está [Samsung EE-V200SA - Soporte de móviles para coches  Diseño universal  compatible con pantallas de 4" a 5.8"   negro](https://www.amazon.es/dp/B00FAD71KY/?tag=tolees-21) con 60.23 de descuento por 11.89 EUR (original: 29.9 EUR) en el siguiente enlace!
 
-[![Samsung EE-V200SA - Soporte de móviles p](https://m.media-amazon.com/images/I/41vITpJsm7L._SL200_.jpg)](https://www.amazon.es/dp/B00FAD71KY/?tag=tolees-21)
+[![Samsung EE-V200SA - Soporte de móviles p](https://m.media-amazon.com/images/I/41vITpJsm7L._SL400_.jpg)](https://www.amazon.es/dp/B00FAD71KY/?tag=tolees-21)
 
 ℹ️:
 

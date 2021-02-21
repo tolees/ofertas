@@ -2,7 +2,7 @@
 layout: post
 title: 'Sisley Phyto Jour&Nuit Crema Hidratantee al 39.40 % de descuento'
 date: 2020-04-23 10:28:09
-image: 'https://m.media-amazon.com/images/I/410lijSh4AL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/410lijSh4AL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '81.2'
 
 Ahora mismo tienes [Sisley Phyto Jour&Nuit Crema Hidratantee ConcSombra Pot 50 ml](https://www.amazon.es/dp/B002AMUGIM/?tag=tolees-21) a 81.2 EUR (original: 134.0 EUR) (39.40 %  de descuento) en el siguiente enlace!
 
-[![Sisley Phyto Jour&Nuit Crema Hidratantee](https://m.media-amazon.com/images/I/410lijSh4AL._SL200_.jpg)](https://www.amazon.es/dp/B002AMUGIM/?tag=tolees-21)
+[![Sisley Phyto Jour&Nuit Crema Hidratantee](https://m.media-amazon.com/images/I/410lijSh4AL._SL400_.jpg)](https://www.amazon.es/dp/B002AMUGIM/?tag=tolees-21)
 
 🔎:
 

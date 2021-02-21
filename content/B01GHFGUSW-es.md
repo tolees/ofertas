@@ -2,7 +2,7 @@
 layout: post
 title: 'Adidas Superstar Crib  Zapatillas Unisex al 29.99 % de descuento'
 date: 2020-06-14 12:40:16
-image: 'https://m.media-amazon.com/images/I/41+030DDwhL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41+030DDwhL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.47'
 
 Está [Adidas Superstar Crib  Zapatillas Unisex Bebé  Multicolor  Blanco/Negro   18 EU](https://www.amazon.es/dp/B01GHFGUSW/?tag=tolees-21) con 29.99 de descuento por 24.47 EUR (original: 34.95 EUR) en el siguiente enlace!
 
-[![Adidas Superstar Crib  Zapatillas Unisex](https://m.media-amazon.com/images/I/41+030DDwhL._SL200_.jpg)](https://www.amazon.es/dp/B01GHFGUSW/?tag=tolees-21)
+[![Adidas Superstar Crib  Zapatillas Unisex](https://m.media-amazon.com/images/I/41+030DDwhL._SL400_.jpg)](https://www.amazon.es/dp/B01GHFGUSW/?tag=tolees-21)
 
 ℹ️:
 

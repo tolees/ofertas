@@ -2,7 +2,7 @@
 layout: post
 title: 'Cecotec Báscula de Baño Digital Surface  al 29.70 % de descuento'
 date: 2020-04-25 14:52:16
-image: 'https://m.media-amazon.com/images/I/31q74I8G2RL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31q74I8G2RL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.49'
 
 Ahora mismo tienes [Cecotec Báscula de Baño Digital Surface Precision 9100 Healthy. Con plataforma de Cristal Templado  Pantalla LCD invertida  Capacidad máxima 180kg  Lista para usar y con Cinta Métrica.](https://www.amazon.es/dp/B07HFGPY7P/?tag=tolees-21) a 13.99 EUR (original: 19.9 EUR) (29.70 %  de descuento) en el siguiente enlace!
 
-[![Cecotec Báscula de Baño Digital Surface ](https://m.media-amazon.com/images/I/31q74I8G2RL._SL200_.jpg)](https://www.amazon.es/dp/B07HFGPY7P/?tag=tolees-21)
+[![Cecotec Báscula de Baño Digital Surface ](https://m.media-amazon.com/images/I/31q74I8G2RL._SL400_.jpg)](https://www.amazon.es/dp/B07HFGPY7P/?tag=tolees-21)
 
 🔎:
 

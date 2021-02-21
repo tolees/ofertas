@@ -2,7 +2,7 @@
 layout: post
 title: 'Zippo Jim Beam | Emblem Lighter - Mecher al 46.59 % de rebaja'
 date: 2020-01-06 12:51:26
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51CEgCReGpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51CEgCReGpL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '34.45'
 
 Tienes [Zippo Jim Beam | Emblem Lighter - Mechero  Color Color Plateado](https://www.amazon.es/dp/B001E5FLU4/?tag=tolees-21) con precio final de  34.45 EUR (original: 64.5 EUR) (46.59 %  de rebaja) aqui!
 
-[![Zippo Jim Beam | Emblem Lighter - Mecher](https://images-eu.ssl-images-amazon.com/images/I/51CEgCReGpL._SL200_.jpg)](https://www.amazon.es/dp/B001E5FLU4/?tag=tolees-21)
+[![Zippo Jim Beam | Emblem Lighter - Mecher](https://images-eu.ssl-images-amazon.com/images/I/51CEgCReGpL._SL400_.jpg)](https://www.amazon.es/dp/B001E5FLU4/?tag=tolees-21)
 
 🔎:
 

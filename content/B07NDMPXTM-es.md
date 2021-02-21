@@ -2,7 +2,7 @@
 layout: post
 title: 'G-STAR RAW Core Round Neck suéter  Negro al 36.09 % de descuento'
 date: 2020-04-26 21:23:37
-image: 'https://m.media-amazon.com/images/I/315AnREf3iL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/315AnREf3iL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '35.8'
 
 Ahora mismo tienes [G-STAR RAW Core Round Neck suéter  Negro  Dk Black 6484   XX-Small para Hombre](https://www.amazon.es/dp/B07NDMPXTM/?tag=tolees-21) a 57.49 EUR (original: 89.95 EUR) (36.09 %  de descuento) en el siguiente enlace!
 
-[![G-STAR RAW Core Round Neck suéter  Negro](https://m.media-amazon.com/images/I/315AnREf3iL._SL200_.jpg)](https://www.amazon.es/dp/B07NDMPXTM/?tag=tolees-21)
+[![G-STAR RAW Core Round Neck suéter  Negro](https://m.media-amazon.com/images/I/315AnREf3iL._SL400_.jpg)](https://www.amazon.es/dp/B07NDMPXTM/?tag=tolees-21)
 
 🔎:
 

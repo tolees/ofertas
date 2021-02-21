@@ -2,7 +2,7 @@
 layout: post
 title: '1 par de manetas de freno de embrague de al 26.52 % de descuento'
 date: 2020-01-15 14:45:07
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41RIVZRRJmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41RIVZRRJmL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.59'
 
 Ahora mismo tienes [1 par de manetas de freno de embrague de 7/8 pulgadas  maneta de freno de tambor universal Keenso de 22 mm  rojo ](https://www.amazon.es/dp/B07WX2PW7L/?tag=tolees-21) a 8.59 EUR (original: 11.69 EUR) (26.52 %  de descuento) en el siguiente enlace!
 
-[![1 par de manetas de freno de embrague de](https://images-eu.ssl-images-amazon.com/images/I/41RIVZRRJmL._SL200_.jpg)](https://www.amazon.es/dp/B07WX2PW7L/?tag=tolees-21)
+[![1 par de manetas de freno de embrague de](https://images-eu.ssl-images-amazon.com/images/I/41RIVZRRJmL._SL400_.jpg)](https://www.amazon.es/dp/B07WX2PW7L/?tag=tolees-21)
 
 🔎:
 

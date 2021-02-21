@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 38.51 % en Kingston DT50/16GB Llave Usb  16 Gb  Ver'
 date: 2020-07-13 19:59:31
-image: 'https://m.media-amazon.com/images/I/31OztX2LJNL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31OztX2LJNL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.988571428571428'
 
 Tienes [Kingston DT50/16GB Llave Usb  16 Gb  Verde](https://www.amazon.es/dp/B01JHE50KY/?tag=tolees-21) con un 38.51 % de descuento con precio de oferta de 6.29 EUR (original: 10.23 EUR) en el siguiente enlace!
 
-[![Kingston DT50/16GB Llave Usb  16 Gb  Ver](https://m.media-amazon.com/images/I/31OztX2LJNL._SL200_.jpg)](https://www.amazon.es/dp/B01JHE50KY/?tag=tolees-21)
+[![Kingston DT50/16GB Llave Usb  16 Gb  Ver](https://m.media-amazon.com/images/I/31OztX2LJNL._SL400_.jpg)](https://www.amazon.es/dp/B01JHE50KY/?tag=tolees-21)
 
 ℹ️:
 

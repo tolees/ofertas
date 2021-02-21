@@ -2,7 +2,7 @@
 layout: post
 title: 'SRAM 89.2711.114.105 Cadena  1071  Hollo con un 34.17 % de descuento'
 date: 2020-03-28 21:15:05
-image: 'https://m.media-amazon.com/images/I/31U8d+dr6IL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31U8d+dr6IL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '26.99'
 
 En este momento está [SRAM 89.2711.114.105 Cadena  1071  Hollowpin  114 eslabones  10v  Multicolor  M](https://www.amazon.es/dp/B003VFEF8O/?tag=tolees-21) a 26.99 EUR (original: 41.0 EUR) (34.17 %  de descuento) en el siguiente enlace!
 
-[![SRAM 89.2711.114.105 Cadena  1071  Hollo](https://m.media-amazon.com/images/I/31U8d+dr6IL._SL200_.jpg)](https://www.amazon.es/dp/B003VFEF8O/?tag=tolees-21)
+[![SRAM 89.2711.114.105 Cadena  1071  Hollo](https://m.media-amazon.com/images/I/31U8d+dr6IL._SL400_.jpg)](https://www.amazon.es/dp/B003VFEF8O/?tag=tolees-21)
 
 🔎:
 

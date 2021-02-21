@@ -2,7 +2,7 @@
 layout: post
 title: 'Taurus TC 600 Exprimidor 40 W  0.7 litro al 41.73 % de descuento'
 date: 2020-08-28 12:23:27
-image: 'https://m.media-amazon.com/images/I/41-xJcAdghL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41-xJcAdghL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.565000000000001'
 
 Está [Taurus TC 600 Exprimidor 40 W  0.7 litros  0 Decibelios  PU  Naranja  Blanco](https://www.amazon.es/dp/B01CGJ1FYC/?tag=tolees-21) con 41.73 de descuento por 12.23 EUR (original: 20.99 EUR) en el siguiente enlace!
 
-[![Taurus TC 600 Exprimidor 40 W  0.7 litro](https://m.media-amazon.com/images/I/41-xJcAdghL._SL200_.jpg)](https://www.amazon.es/dp/B01CGJ1FYC/?tag=tolees-21)
+[![Taurus TC 600 Exprimidor 40 W  0.7 litro](https://m.media-amazon.com/images/I/41-xJcAdghL._SL400_.jpg)](https://www.amazon.es/dp/B01CGJ1FYC/?tag=tolees-21)
 
 ℹ️:
 

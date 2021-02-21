@@ -2,7 +2,7 @@
 layout: post
 title: 'Sonoka Lector Tarjetas de Memoria - Auel con un 31.60 % de descuento'
 date: 2020-07-01 13:02:53
-image: 'https://m.media-amazon.com/images/I/41oS9dxHVqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41oS9dxHVqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.99'
 
 En este momento está [Sonoka Lector Tarjetas de Memoria - Auelek 4 en 1 Adaptador Tarjetas USB 2.0 / Lightning/Micro USB/Tipo C Conector  Lector Tarjetas Micro SD y Adaptador OTG para iPhone  iPad  MacBook y Phone Andriod](https://www.amazon.es/dp/B07CYF94N8/?tag=tolees-21) a 12.99 EUR (original: 18.99 EUR) (31.60 %  de descuento) en el siguiente enlace!
 
-[![Sonoka Lector Tarjetas de Memoria - Auel](https://m.media-amazon.com/images/I/41oS9dxHVqL._SL200_.jpg)](https://www.amazon.es/dp/B07CYF94N8/?tag=tolees-21)
+[![Sonoka Lector Tarjetas de Memoria - Auel](https://m.media-amazon.com/images/I/41oS9dxHVqL._SL400_.jpg)](https://www.amazon.es/dp/B07CYF94N8/?tag=tolees-21)
 
 🔎:
 

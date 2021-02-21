@@ -2,7 +2,7 @@
 layout: post
 title: 'Adidas Tiro 19 Training Pnt Pantalones D con un 30.97 % de descuento'
 date: 2020-07-14 16:17:52
-image: 'https://m.media-amazon.com/images/I/31smtzRwoOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31smtzRwoOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '34.48'
 
 En este momento está [Adidas Tiro 19 Training Pnt Pantalones Deportivos  Hombre  Negro  Black/White   M](https://www.amazon.es/dp/B07JNRNPC8/?tag=tolees-21) a 34.48 EUR (original: 49.95 EUR) (30.97 %  de descuento) en el siguiente enlace!
 
-[![Adidas Tiro 19 Training Pnt Pantalones D](https://m.media-amazon.com/images/I/31smtzRwoOL._SL200_.jpg)](https://www.amazon.es/dp/B07JNRNPC8/?tag=tolees-21)
+[![Adidas Tiro 19 Training Pnt Pantalones D](https://m.media-amazon.com/images/I/31smtzRwoOL._SL400_.jpg)](https://www.amazon.es/dp/B07JNRNPC8/?tag=tolees-21)
 
 🔎:
 

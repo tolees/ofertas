@@ -2,7 +2,7 @@
 layout: post
 title: 'Adidas Active Star Gel de ducha para Hom al 35.00 % de descuento'
 date: 2020-05-25 16:23:16
-image: 'https://m.media-amazon.com/images/I/51jvcGT1saL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51jvcGT1saL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.2675'
 
 Está [Adidas Active Star Gel de ducha para Hombre  400 ml  Pack de 4](https://www.amazon.es/dp/B071JPTK1H/?tag=tolees-21) con 35.00 de descuento por 7.8 EUR (original: 12.0 EUR) en el siguiente enlace!
 
-[![Adidas Active Star Gel de ducha para Hom](https://m.media-amazon.com/images/I/51jvcGT1saL._SL200_.jpg)](https://www.amazon.es/dp/B071JPTK1H/?tag=tolees-21)
+[![Adidas Active Star Gel de ducha para Hom](https://m.media-amazon.com/images/I/51jvcGT1saL._SL400_.jpg)](https://www.amazon.es/dp/B071JPTK1H/?tag=tolees-21)
 
 ℹ️:
 

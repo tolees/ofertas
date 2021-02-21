@@ -2,7 +2,7 @@
 layout: post
 title: 'PUMA RS 9.8 Space  Zapatillas para Hombr al 57.74 % de descuento'
 date: 2020-09-10 09:17:23
-image: 'https://m.media-amazon.com/images/I/31ppD60IP0L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31ppD60IP0L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '37.83'
 
 Está [PUMA RS 9.8 Space  Zapatillas para Hombre  Pastel Parchment White  44 EU](https://www.amazon.es/dp/B07KG2W6CN/?tag=tolees-21) con 57.74 de descuento por 38.01 EUR (original: 89.95 EUR) en el siguiente enlace!
 
-[![PUMA RS 9.8 Space  Zapatillas para Hombr](https://m.media-amazon.com/images/I/31ppD60IP0L._SL200_.jpg)](https://www.amazon.es/dp/B07KG2W6CN/?tag=tolees-21)
+[![PUMA RS 9.8 Space  Zapatillas para Hombr](https://m.media-amazon.com/images/I/31ppD60IP0L._SL400_.jpg)](https://www.amazon.es/dp/B07KG2W6CN/?tag=tolees-21)
 
 ℹ️:
 

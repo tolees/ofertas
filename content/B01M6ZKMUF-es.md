@@ -2,7 +2,7 @@
 layout: post
 title: 'Hellmann s - Gran Salsa Barbacoa - 250 m al 34.21 % de descuento'
 date: 2020-03-05 08:34:08
-image: 'None._SL200_'
+image: 'None._SL400_'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.386666666666667'
 
 Está [Hellmann s - Gran Salsa Barbacoa - 250 ml - [Pack de 8]](https://www.amazon.es/dp/B01M6ZKMUF/?tag=tolees-21) con 34.21 de descuento por 8 EUR (original: 12.16 EUR) en el siguiente enlace!
 
-[![Hellmann s - Gran Salsa Barbacoa - 250 m](None._SL200_)](https://www.amazon.es/dp/B01M6ZKMUF/?tag=tolees-21)
+[![Hellmann s - Gran Salsa Barbacoa - 250 m](None._SL400_)](https://www.amazon.es/dp/B01M6ZKMUF/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'DC Figura de Vinilo Cyborg  colección Ju al 27.63 % de rebaja'
 date: 2020-02-20 12:14:00
-image: 'https://m.media-amazon.com/images/I/51RkWnMB4DL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51RkWnMB4DL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.615'
 
 Tienes [DC Figura de Vinilo Cyborg  colección Justice League  Funko 13487 ](https://www.amazon.es/dp/B0711TYQB4/?tag=tolees-21) con precio final de  7.99 EUR (original: 11.04 EUR) (27.63 %  de rebaja) aqui!
 
-[![DC Figura de Vinilo Cyborg  colección Ju](https://m.media-amazon.com/images/I/51RkWnMB4DL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B0711TYQB4/?tag=tolees-21)
+[![DC Figura de Vinilo Cyborg  colección Ju](https://m.media-amazon.com/images/I/51RkWnMB4DL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B0711TYQB4/?tag=tolees-21)
 
 🔎:
 

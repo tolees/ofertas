@@ -2,7 +2,7 @@
 layout: post
 title: 'Kitchen Emperor Cuchillo Santoku Damasco con un 59.12 % de descuento'
 date: 2020-04-15 08:21:17
-image: 'https://m.media-amazon.com/images/I/513IBJt3cAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/513IBJt3cAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '59.89'
 
 En este momento está [Kitchen Emperor Cuchillo Santoku Damasco  Cuchillo Acero Damasco  Cuchillos de Cocina Profesionales  Prima 67 Capas de Acero](https://www.amazon.es/dp/B078XTHRPY/?tag=tolees-21) a 59.89 EUR (original: 146.51 EUR) (59.12 %  de descuento) en el siguiente enlace!
 
-[![Kitchen Emperor Cuchillo Santoku Damasco](https://m.media-amazon.com/images/I/513IBJt3cAL._SL200_.jpg)](https://www.amazon.es/dp/B078XTHRPY/?tag=tolees-21)
+[![Kitchen Emperor Cuchillo Santoku Damasco](https://m.media-amazon.com/images/I/513IBJt3cAL._SL400_.jpg)](https://www.amazon.es/dp/B078XTHRPY/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'B Baosity Filtro de Aire para Cabina de  al 40.42 % de rebaja'
 date: 2020-08-08 17:18:19
-image: 'https://m.media-amazon.com/images/I/41jkRcLfyCL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41jkRcLfyCL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.57'
 
 Tienes [B Baosity Filtro de Aire para Cabina de Polen para Coche  Automóvil 28x25x8cm](https://www.amazon.es/dp/B07Z9BRBKK/?tag=tolees-21) con precio final de  16.57 EUR (original: 27.81 EUR) (40.42 %  de rebaja) aqui!
 
-[![B Baosity Filtro de Aire para Cabina de ](https://m.media-amazon.com/images/I/41jkRcLfyCL._SL200_.jpg)](https://www.amazon.es/dp/B07Z9BRBKK/?tag=tolees-21)
+[![B Baosity Filtro de Aire para Cabina de ](https://m.media-amazon.com/images/I/41jkRcLfyCL._SL400_.jpg)](https://www.amazon.es/dp/B07Z9BRBKK/?tag=tolees-21)
 
 🔎:
 

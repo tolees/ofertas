@@ -2,7 +2,7 @@
 layout: post
 title: 'Lee Scarlett Corduroy Pantalones  Rosa   con un 83.42 % de descuento'
 date: 2020-02-16 20:17:43
-image: 'https://m.media-amazon.com/images/I/31-SUcIicJL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31-SUcIicJL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.91'
 
 En este momento está [Lee Scarlett Corduroy Pantalones  Rosa  Cameo Pink 94   29W / 33L para Mujer](https://www.amazon.es/dp/B07MMVZWJ8/?tag=tolees-21) a 14.91 EUR (original: 89.95 EUR) (83.42 %  de descuento) en el siguiente enlace!
 
-[![Lee Scarlett Corduroy Pantalones  Rosa  ](https://m.media-amazon.com/images/I/31-SUcIicJL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07MMVZWJ8/?tag=tolees-21)
+[![Lee Scarlett Corduroy Pantalones  Rosa  ](https://m.media-amazon.com/images/I/31-SUcIicJL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07MMVZWJ8/?tag=tolees-21)
 
 🔎:
 

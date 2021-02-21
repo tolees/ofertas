@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 55.00 % en Asics Gel-Quantum Infinity  Zapatillas d'
 date: 2020-03-11 18:56:04
-image: 'https://m.media-amazon.com/images/I/41UOH+CBHlL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41UOH+CBHlL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '86.58'
 
 Tienes [Asics Gel-Quantum Infinity  Zapatillas de Running para Hombre  Amarillo  Sour Yuzu/Black 750   44.5 EU](https://www.amazon.es/dp/B07QPW25DN/?tag=tolees-21) con un 55.00 % de descuento con precio de oferta de 90.0 EUR (original: 200.0 EUR) en el siguiente enlace!
 
-[![Asics Gel-Quantum Infinity  Zapatillas d](https://m.media-amazon.com/images/I/41UOH+CBHlL._SL200_.jpg)](https://www.amazon.es/dp/B07QPW25DN/?tag=tolees-21)
+[![Asics Gel-Quantum Infinity  Zapatillas d](https://m.media-amazon.com/images/I/41UOH+CBHlL._SL400_.jpg)](https://www.amazon.es/dp/B07QPW25DN/?tag=tolees-21)
 
 ℹ️:
 

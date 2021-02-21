@@ -2,7 +2,7 @@
 layout: post
 title: 'Giraffe Boy. Juguete de ganchillo al 40.00 % de descuento'
 date: 2020-04-13 17:07:17
-image: 'https://m.media-amazon.com/images/I/41uHQMLET+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41uHQMLET+L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '50.4'
 
 Está [Giraffe Boy. Juguete de ganchillo](https://www.amazon.es/dp/B01N96NIYO/?tag=tolees-21) con 40.00 de descuento por 50.4 EUR (original: 84.0 EUR) en el siguiente enlace!
 
-[![Giraffe Boy. Juguete de ganchillo](https://m.media-amazon.com/images/I/41uHQMLET+L._SL200_.jpg)](https://www.amazon.es/dp/B01N96NIYO/?tag=tolees-21)
+[![Giraffe Boy. Juguete de ganchillo](https://m.media-amazon.com/images/I/41uHQMLET+L._SL400_.jpg)](https://www.amazon.es/dp/B01N96NIYO/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'ASICS Chaussures Gel Quantum 180 4 al 30.00 % de descuento'
 date: 2020-05-12 10:15:15
-image: 'https://m.media-amazon.com/images/I/31pV9j0ouuL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31pV9j0ouuL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '117.6'
 
 Está [ASICS Chaussures Gel Quantum 180 4](https://www.amazon.es/dp/B07NBR6LQD/?tag=tolees-21) con 30.00 de descuento por 117.6 EUR (original: 168.0 EUR) en el siguiente enlace!
 
-[![ASICS Chaussures Gel Quantum 180 4](https://m.media-amazon.com/images/I/31pV9j0ouuL._SL200_.jpg)](https://www.amazon.es/dp/B07NBR6LQD/?tag=tolees-21)
+[![ASICS Chaussures Gel Quantum 180 4](https://m.media-amazon.com/images/I/31pV9j0ouuL._SL400_.jpg)](https://www.amazon.es/dp/B07NBR6LQD/?tag=tolees-21)
 
 ℹ️:
 

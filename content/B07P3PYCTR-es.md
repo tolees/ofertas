@@ -2,7 +2,7 @@
 layout: post
 title: 'Goodthreads Standard-Fit Long-Sleeve Str con un 62.35 % de descuento'
 date: 2020-10-02 09:08:31
-image: 'https://m.media-amazon.com/images/I/31wSV2Ur2uL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31wSV2Ur2uL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.22'
 
 En este momento está [Goodthreads Standard-Fit Long-Sleeve Stretch Oxford Shirt  All Hours  button-down-shirts  Azul claro  Medium Tall](https://www.amazon.es/dp/B07P3PYCTR/?tag=tolees-21) a 8.22 EUR (original: 21.83 EUR) (62.35 %  de descuento) en el siguiente enlace!
 
-[![Goodthreads Standard-Fit Long-Sleeve Str](https://m.media-amazon.com/images/I/31wSV2Ur2uL._SL200_.jpg)](https://www.amazon.es/dp/B07P3PYCTR/?tag=tolees-21)
+[![Goodthreads Standard-Fit Long-Sleeve Str](https://m.media-amazon.com/images/I/31wSV2Ur2uL._SL400_.jpg)](https://www.amazon.es/dp/B07P3PYCTR/?tag=tolees-21)
 
 🔎:
 

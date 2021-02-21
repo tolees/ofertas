@@ -2,7 +2,7 @@
 layout: post
 title: 'Vichy Deo Desodorante Anti-Transpirante  al 26.27 % de descuento'
 date: 2020-01-16 10:30:55
-image: 'https://images-eu.ssl-images-amazon.com/images/I/21fnTzVWsVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/21fnTzVWsVL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.076666666666666'
 
 Ahora mismo tienes [Vichy Deo Desodorante Anti-Transpirante Pieles Sensibles Roll-On 48 H - 450 gr](https://www.amazon.es/dp/B000O7JOT2/?tag=tolees-21) a 8.7 EUR (original: 11.8 EUR) (26.27 %  de descuento) en el siguiente enlace!
 
-[![Vichy Deo Desodorante Anti-Transpirante ](https://images-eu.ssl-images-amazon.com/images/I/21fnTzVWsVL._SL200_.jpg)](https://www.amazon.es/dp/B000O7JOT2/?tag=tolees-21)
+[![Vichy Deo Desodorante Anti-Transpirante ](https://images-eu.ssl-images-amazon.com/images/I/21fnTzVWsVL._SL400_.jpg)](https://www.amazon.es/dp/B000O7JOT2/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'TONGJI Vitrina de Acrílico Compatible co al 50.00 % de descuento'
 date: 2020-04-14 00:25:34
-image: 'https://m.media-amazon.com/images/I/41p6NX7-H0L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41p6NX7-H0L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '59.99'
 
 Ahora mismo tienes [TONGJI Vitrina de Acrílico Compatible con Lego 42110 Technic - Land Rover Defender  Vitrina A Prueba De Polvo  Modelo No Incluido ](https://www.amazon.es/dp/B083TL2SKF/?tag=tolees-21) a 59.99 EUR (original: 119.98 EUR) (50.00 %  de descuento) en el siguiente enlace!
 
-[![TONGJI Vitrina de Acrílico Compatible co](https://m.media-amazon.com/images/I/41p6NX7-H0L._SL200_.jpg)](https://www.amazon.es/dp/B083TL2SKF/?tag=tolees-21)
+[![TONGJI Vitrina de Acrílico Compatible co](https://m.media-amazon.com/images/I/41p6NX7-H0L._SL400_.jpg)](https://www.amazon.es/dp/B083TL2SKF/?tag=tolees-21)
 
 🔎:
 

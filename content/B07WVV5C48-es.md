@@ -2,7 +2,7 @@
 layout: post
 title: 'Kinross Gin pink - 6 botellas x 700 ml - con un 40.78 % de descuento'
 date: 2020-05-24 07:53:26
-image: 'https://m.media-amazon.com/images/I/31qEao0YlSL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31qEao0YlSL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '38.2'
 
 En este momento está [Kinross Gin pink - 6 botellas x 700 ml - Total: 4200 ml](https://www.amazon.es/dp/B07WVV5C48/?tag=tolees-21) a 38.2 EUR (original: 64.5 EUR) (40.78 %  de descuento) en el siguiente enlace!
 
-[![Kinross Gin pink - 6 botellas x 700 ml -](https://m.media-amazon.com/images/I/31qEao0YlSL._SL200_.jpg)](https://www.amazon.es/dp/B07WVV5C48/?tag=tolees-21)
+[![Kinross Gin pink - 6 botellas x 700 ml -](https://m.media-amazon.com/images/I/31qEao0YlSL._SL400_.jpg)](https://www.amazon.es/dp/B07WVV5C48/?tag=tolees-21)
 
 🔎:
 

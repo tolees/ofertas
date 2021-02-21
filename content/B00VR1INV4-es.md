@@ -2,7 +2,7 @@
 layout: post
 title: 'Ecco Irving   Mocasines para Hombre  Neg al 45.82 % de rebaja'
 date: 2020-01-10 18:21:22
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41e19dI30XL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41e19dI30XL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '54.95'
 
 Tienes [Ecco Irving   Mocasines para Hombre  Negro  BLACK2001   44 EU](https://www.amazon.es/dp/B00VR1INV4/?tag=tolees-21) con precio final de  54.95 EUR (original: 101.42 EUR) (45.82 %  de rebaja) aqui!
 
-[![Ecco Irving   Mocasines para Hombre  Neg](https://images-eu.ssl-images-amazon.com/images/I/41e19dI30XL._SL200_.jpg)](https://www.amazon.es/dp/B00VR1INV4/?tag=tolees-21)
+[![Ecco Irving   Mocasines para Hombre  Neg](https://images-eu.ssl-images-amazon.com/images/I/41e19dI30XL._SL400_.jpg)](https://www.amazon.es/dp/B00VR1INV4/?tag=tolees-21)
 
 🔎:
 

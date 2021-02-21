@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 50.08 % en Under Armour  UNDKU Heatgear Crew Calcet'
 date: 2020-06-22 09:12:44
-image: 'https://m.media-amazon.com/images/I/41BFK+bAz4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41BFK+bAz4L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.993333333333334'
 
 Tienes [Under Armour  UNDKU Heatgear Crew Calcetines  Unisex adulto  Gris  LG](https://www.amazon.es/dp/B07R1ZQ5N5/?tag=tolees-21) con un 50.08 % de descuento con precio de oferta de 5.99 EUR (original: 12.0 EUR) en el siguiente enlace!
 
-[![Under Armour  UNDKU Heatgear Crew Calcet](https://m.media-amazon.com/images/I/41BFK+bAz4L._SL200_.jpg)](https://www.amazon.es/dp/B07R1ZQ5N5/?tag=tolees-21)
+[![Under Armour  UNDKU Heatgear Crew Calcet](https://m.media-amazon.com/images/I/41BFK+bAz4L._SL400_.jpg)](https://www.amazon.es/dp/B07R1ZQ5N5/?tag=tolees-21)
 
 ℹ️:
 

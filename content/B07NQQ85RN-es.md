@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 48.94 % en Gioteck - Cascos TX30+Farcry 5'
 date: 2020-03-11 09:48:04
-image: 'https://m.media-amazon.com/images/I/51ryQd6LRdL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51ryQd6LRdL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '42.285000000000004'
 
 Tienes [Gioteck - Cascos TX30+Farcry 5](https://www.amazon.es/dp/B07NQQ85RN/?tag=tolees-21) con un 48.94 % de descuento con precio de oferta de 20.42 EUR (original: 39.99 EUR) en el siguiente enlace!
 
-[![Gioteck - Cascos TX30+Farcry 5](https://m.media-amazon.com/images/I/51ryQd6LRdL._SL200_.jpg)](https://www.amazon.es/dp/B07NQQ85RN/?tag=tolees-21)
+[![Gioteck - Cascos TX30+Farcry 5](https://m.media-amazon.com/images/I/51ryQd6LRdL._SL400_.jpg)](https://www.amazon.es/dp/B07NQQ85RN/?tag=tolees-21)
 
 ℹ️:
 

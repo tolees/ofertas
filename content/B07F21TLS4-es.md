@@ -2,7 +2,7 @@
 layout: post
 title: 'New Balance 410v6 Trail  Zapatillas para al 55.83 % de rebaja'
 date: 2020-06-24 07:12:41
-image: 'https://m.media-amazon.com/images/I/41t6K6JN-dL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41t6K6JN-dL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '30.92'
 
 Tienes [New Balance 410v6 Trail  Zapatillas para Carreras de montaña para Hombre  Negro  Black La6   42 EU](https://www.amazon.es/dp/B07F21TLS4/?tag=tolees-21) con precio final de  30.92 EUR (original: 70.0 EUR) (55.83 %  de rebaja) aqui!
 
-[![New Balance 410v6 Trail  Zapatillas para](https://m.media-amazon.com/images/I/41t6K6JN-dL._SL200_.jpg)](https://www.amazon.es/dp/B07F21TLS4/?tag=tolees-21)
+[![New Balance 410v6 Trail  Zapatillas para](https://m.media-amazon.com/images/I/41t6K6JN-dL._SL400_.jpg)](https://www.amazon.es/dp/B07F21TLS4/?tag=tolees-21)
 
 🔎:
 

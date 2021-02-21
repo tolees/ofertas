@@ -2,7 +2,7 @@
 layout: post
 title: 'CARPISA ® Porta documentos mujer - Soya  al 49.97 % de rebaja'
 date: 2020-06-23 14:13:26
-image: 'https://m.media-amazon.com/images/I/31saAC5ue8L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31saAC5ue8L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.98'
 
 Tienes [CARPISA ® Porta documentos mujer - Soya Wallet](https://www.amazon.es/dp/B07VFBKR9K/?tag=tolees-21) con precio final de  7.98 EUR (original: 15.95 EUR) (49.97 %  de rebaja) aqui!
 
-[![CARPISA ® Porta documentos mujer - Soya ](https://m.media-amazon.com/images/I/31saAC5ue8L._SL200_.jpg)](https://www.amazon.es/dp/B07VFBKR9K/?tag=tolees-21)
+[![CARPISA ® Porta documentos mujer - Soya ](https://m.media-amazon.com/images/I/31saAC5ue8L._SL400_.jpg)](https://www.amazon.es/dp/B07VFBKR9K/?tag=tolees-21)
 
 🔎:
 

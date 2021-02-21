@@ -2,7 +2,7 @@
 layout: post
 title: 'STANLEY FATMAX FMC694M1-QW - Pack Cargad al 31.85 % de descuento'
 date: 2020-03-13 22:07:51
-image: 'https://m.media-amazon.com/images/I/41sY-OtfGuL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41sY-OtfGuL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '88.59'
 
 Está [STANLEY FATMAX FMC694M1-QW - Pack Cargador de 2Ah con 1 batería de litio 18V de 4Ah](https://www.amazon.es/dp/B01CGREXDO/?tag=tolees-21) con 31.85 de descuento por 88.59 EUR (original: 129.99 EUR) en el siguiente enlace!
 
-[![STANLEY FATMAX FMC694M1-QW - Pack Cargad](https://m.media-amazon.com/images/I/41sY-OtfGuL._SL200_.jpg)](https://www.amazon.es/dp/B01CGREXDO/?tag=tolees-21)
+[![STANLEY FATMAX FMC694M1-QW - Pack Cargad](https://m.media-amazon.com/images/I/41sY-OtfGuL._SL400_.jpg)](https://www.amazon.es/dp/B01CGREXDO/?tag=tolees-21)
 
 ℹ️:
 

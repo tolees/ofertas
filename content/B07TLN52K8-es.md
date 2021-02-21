@@ -2,7 +2,7 @@
 layout: post
 title: 'Nûby 36M+ - Taza de tritan con botón Pus con un 39.96 % de descuento'
 date: 2020-08-29 09:16:11
-image: 'https://m.media-amazon.com/images/I/41+QV7VVSbL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41+QV7VVSbL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.6'
 
 En este momento está [Nûby 36M+ - Taza de tritan con botón Push y pajita  530 ml  Rosa](https://www.amazon.es/dp/B07TLN52K8/?tag=tolees-21) a 9.6 EUR (original: 15.99 EUR) (39.96 %  de descuento) en el siguiente enlace!
 
-[![Nûby 36M+ - Taza de tritan con botón Pus](https://m.media-amazon.com/images/I/41+QV7VVSbL._SL200_.jpg)](https://www.amazon.es/dp/B07TLN52K8/?tag=tolees-21)
+[![Nûby 36M+ - Taza de tritan con botón Pus](https://m.media-amazon.com/images/I/41+QV7VVSbL._SL400_.jpg)](https://www.amazon.es/dp/B07TLN52K8/?tag=tolees-21)
 
 🔎:
 

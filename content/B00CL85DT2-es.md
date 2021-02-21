@@ -2,7 +2,7 @@
 layout: post
 title: 'Melissa & Doug-Mis Primeros Tatuajes Pro al 26.85 % de descuento'
 date: 2020-05-14 21:03:32
-image: 'https://m.media-amazon.com/images/I/51kW1UdeC9L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51kW1UdeC9L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.74'
 
 Ahora mismo tienes [Melissa & Doug-Mis Primeros Tatuajes Provisorios  Multicolor  2946 ](https://www.amazon.es/dp/B00CL85DT2/?tag=tolees-21) a 4.74 EUR (original: 6.48 EUR) (26.85 %  de descuento) en el siguiente enlace!
 
-[![Melissa & Doug-Mis Primeros Tatuajes Pro](https://m.media-amazon.com/images/I/51kW1UdeC9L._SL200_.jpg)](https://www.amazon.es/dp/B00CL85DT2/?tag=tolees-21)
+[![Melissa & Doug-Mis Primeros Tatuajes Pro](https://m.media-amazon.com/images/I/51kW1UdeC9L._SL400_.jpg)](https://www.amazon.es/dp/B00CL85DT2/?tag=tolees-21)
 
 🔎:
 

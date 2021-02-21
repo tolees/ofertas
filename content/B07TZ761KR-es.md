@@ -2,7 +2,7 @@
 layout: post
 title: 'Tecboss Encendedor Eléctrico Encendedor  al 44.20 % de descuento'
 date: 2020-03-15 18:56:36
-image: 'https://m.media-amazon.com/images/I/413nPKItSuL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/413nPKItSuL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.49'
 
 Está [Tecboss Encendedor Eléctrico Encendedor de Arco Eléctrico Con Pantalla LED de Batería USB recargable para Camping Cocina BBQs Fuegos Artificiales](https://www.amazon.es/dp/B07TZ761KR/?tag=tolees-21) con 44.20 de descuento por 8.99 EUR (original: 16.11 EUR) en el siguiente enlace!
 
-[![Tecboss Encendedor Eléctrico Encendedor ](https://m.media-amazon.com/images/I/413nPKItSuL._SL200_.jpg)](https://www.amazon.es/dp/B07TZ761KR/?tag=tolees-21)
+[![Tecboss Encendedor Eléctrico Encendedor ](https://m.media-amazon.com/images/I/413nPKItSuL._SL400_.jpg)](https://www.amazon.es/dp/B07TZ761KR/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 80.68 % en Dickies Pensacola Short  Pantalones Cort'
 date: 2020-03-24 20:33:59
-image: 'https://m.media-amazon.com/images/I/41MsuoS1WqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41MsuoS1WqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.4'
 
 Tienes [Dickies Pensacola Short  Pantalones Cortos Deportivos para Hombre  Azul  Rinsed RIN   Tamaño del Fabricante:34 ](https://www.amazon.es/dp/B0198K5LZQ/?tag=tolees-21) con un 80.68 % de descuento con precio de oferta de 11.4 EUR (original: 59.0 EUR) en el siguiente enlace!
 
-[![Dickies Pensacola Short  Pantalones Cort](https://m.media-amazon.com/images/I/41MsuoS1WqL._SL200_.jpg)](https://www.amazon.es/dp/B0198K5LZQ/?tag=tolees-21)
+[![Dickies Pensacola Short  Pantalones Cort](https://m.media-amazon.com/images/I/41MsuoS1WqL._SL400_.jpg)](https://www.amazon.es/dp/B0198K5LZQ/?tag=tolees-21)
 
 ℹ️:
 

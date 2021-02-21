@@ -2,7 +2,7 @@
 layout: post
 title: 'Fallout - Pop Sentry BOT 6" con un 32.89 % de descuento'
 date: 2020-08-18 21:37:58
-image: 'https://m.media-amazon.com/images/I/418GwLi0lnL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/418GwLi0lnL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.63'
 
 En este momento está [Fallout - Pop Sentry BOT 6"](https://www.amazon.es/dp/B07HB3LMB8/?tag=tolees-21) a 10.0 EUR (original: 14.9 EUR) (32.89 %  de descuento) en el siguiente enlace!
 
-[![Fallout - Pop Sentry BOT 6"](https://m.media-amazon.com/images/I/418GwLi0lnL._SL200_.jpg)](https://www.amazon.es/dp/B07HB3LMB8/?tag=tolees-21)
+[![Fallout - Pop Sentry BOT 6"](https://m.media-amazon.com/images/I/418GwLi0lnL._SL400_.jpg)](https://www.amazon.es/dp/B07HB3LMB8/?tag=tolees-21)
 
 🔎:
 

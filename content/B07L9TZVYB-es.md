@@ -2,7 +2,7 @@
 layout: post
 title: 'Lacoste Carnaby EVO 319 1 SMA  Zapatilla al 51.54 % de rebaja'
 date: 2020-01-07 09:11:44
-image: 'https://images-eu.ssl-images-amazon.com/images/I/310l%2ByvxtsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/310l%2ByvxtsL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '47.98'
 
 Tienes [Lacoste Carnaby EVO 319 1 SMA  Zapatillas para Hombre  Azul  Nvy/Dk Red 5a5   42.5 EU](https://www.amazon.es/dp/B07L9TZVYB/?tag=tolees-21) con precio final de  47.98 EUR (original: 99 EUR) (51.54 %  de rebaja) aqui!
 
-[![Lacoste Carnaby EVO 319 1 SMA  Zapatilla](https://images-eu.ssl-images-amazon.com/images/I/310l%2ByvxtsL._SL200_.jpg)](https://www.amazon.es/dp/B07L9TZVYB/?tag=tolees-21)
+[![Lacoste Carnaby EVO 319 1 SMA  Zapatilla](https://images-eu.ssl-images-amazon.com/images/I/310l%2ByvxtsL._SL400_.jpg)](https://www.amazon.es/dp/B07L9TZVYB/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'KRISP Zapatillas Mujer Tipo Estilo Imita con un 51.49 % de descuento'
 date: 2020-01-01 20:34:01
-image: 'https://images-eu.ssl-images-amazon.com/images/I/310a9VAlGfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/310a9VAlGfL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.49'
 
 En este momento está [KRISP Zapatillas Mujer Tipo Estilo Imitación Casuales Lona Cordones Baja Alta Puntera Goma   Negro  3795   39 EU  6 UK    3795-BLK-6](https://www.amazon.es/dp/B07WWDTJW8/?tag=tolees-21) a 16.49 EUR (original: 33.99 EUR) (51.49 %  de descuento) en el siguiente enlace!
 
-[![KRISP Zapatillas Mujer Tipo Estilo Imita](https://images-eu.ssl-images-amazon.com/images/I/310a9VAlGfL._SL200_.jpg)](https://www.amazon.es/dp/B07WWDTJW8/?tag=tolees-21)
+[![KRISP Zapatillas Mujer Tipo Estilo Imita](https://images-eu.ssl-images-amazon.com/images/I/310a9VAlGfL._SL400_.jpg)](https://www.amazon.es/dp/B07WWDTJW8/?tag=tolees-21)
 
 🔎:
 

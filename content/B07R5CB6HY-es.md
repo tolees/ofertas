@@ -2,7 +2,7 @@
 layout: post
 title: 'Belkin Thunderbolt 3 - Minibase Dock con al 40.20 % de descuento'
 date: 2020-08-21 12:45:52
-image: 'https://m.media-amazon.com/images/I/31dGqvQLX3L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31dGqvQLX3L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '119.0'
 
 Está [Belkin Thunderbolt 3 - Minibase Dock con Cable Integrado para Ordenadores Mac OS y con USB-C](https://www.amazon.es/dp/B07R5CB6HY/?tag=tolees-21) con 40.20 de descuento por 119.0 EUR (original: 199.0 EUR) en el siguiente enlace!
 
-[![Belkin Thunderbolt 3 - Minibase Dock con](https://m.media-amazon.com/images/I/31dGqvQLX3L._SL200_.jpg)](https://www.amazon.es/dp/B07R5CB6HY/?tag=tolees-21)
+[![Belkin Thunderbolt 3 - Minibase Dock con](https://m.media-amazon.com/images/I/31dGqvQLX3L._SL400_.jpg)](https://www.amazon.es/dp/B07R5CB6HY/?tag=tolees-21)
 
 ℹ️:
 

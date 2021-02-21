@@ -2,7 +2,7 @@
 layout: post
 title: 'SDINAZ Mochilas para computadora portáti al 70.01 % de rebaja'
 date: 2020-06-14 14:02:25
-image: 'https://m.media-amazon.com/images/I/316LQz7ko5L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/316LQz7ko5L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.99'
 
 Tienes [SDINAZ Mochilas para computadora portátil para con Puerto de Carga USB Impermeable School Computer Notebook Mochilas Escolares ES884 Fekete](https://www.amazon.es/dp/B089NCHLLD/?tag=tolees-21) con precio final de  29.99 EUR (original: 99.99 EUR) (70.01 %  de rebaja) aqui!
 
-[![SDINAZ Mochilas para computadora portáti](https://m.media-amazon.com/images/I/316LQz7ko5L._SL200_.jpg)](https://www.amazon.es/dp/B089NCHLLD/?tag=tolees-21)
+[![SDINAZ Mochilas para computadora portáti](https://m.media-amazon.com/images/I/316LQz7ko5L._SL400_.jpg)](https://www.amazon.es/dp/B089NCHLLD/?tag=tolees-21)
 
 🔎:
 

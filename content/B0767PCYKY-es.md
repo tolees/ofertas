@@ -2,7 +2,7 @@
 layout: post
 title: 'The Inpatient al 52.61 % de descuento'
 date: 2020-05-19 19:12:34
-image: 'https://m.media-amazon.com/images/I/51HKmlVolhL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51HKmlVolhL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.168571428571425'
 
 Ahora mismo tienes [The Inpatient](https://www.amazon.es/dp/B0767PCYKY/?tag=tolees-21) a 18.95 EUR (original: 39.99 EUR) (52.61 %  de descuento) en el siguiente enlace!
 
-[![The Inpatient](https://m.media-amazon.com/images/I/51HKmlVolhL._SL200_.jpg)](https://www.amazon.es/dp/B0767PCYKY/?tag=tolees-21)
+[![The Inpatient](https://m.media-amazon.com/images/I/51HKmlVolhL._SL400_.jpg)](https://www.amazon.es/dp/B0767PCYKY/?tag=tolees-21)
 
 🔎:
 

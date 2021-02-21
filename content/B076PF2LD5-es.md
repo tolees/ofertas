@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 44.47 % en Motorola Lifestyle 726310106001 Dash cám'
 date: 2020-03-31 10:10:55
-image: 'https://m.media-amazon.com/images/I/31K9m3WQuVL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31K9m3WQuVL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '26.509999999999998'
 
 Tienes [Motorola Lifestyle 726310106001 Dash cámara WiFi  Negro](https://www.amazon.es/dp/B076PF2LD5/?tag=tolees-21) con un 44.47 % de descuento con precio de oferta de 14.45 EUR (original: 26.02 EUR) en el siguiente enlace!
 
-[![Motorola Lifestyle 726310106001 Dash cám](https://m.media-amazon.com/images/I/31K9m3WQuVL._SL200_.jpg)](https://www.amazon.es/dp/B076PF2LD5/?tag=tolees-21)
+[![Motorola Lifestyle 726310106001 Dash cám](https://m.media-amazon.com/images/I/31K9m3WQuVL._SL400_.jpg)](https://www.amazon.es/dp/B076PF2LD5/?tag=tolees-21)
 
 ℹ️:
 

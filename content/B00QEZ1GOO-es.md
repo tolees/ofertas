@@ -2,7 +2,7 @@
 layout: post
 title: 'LEADSTAR Niños Funda para Apple iPad Air al 38.63 % de descuento'
 date: 2020-04-08 10:33:33
-image: 'https://m.media-amazon.com/images/I/51cvUc7Y-fL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51cvUc7Y-fL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.95'
 
 Está [LEADSTAR Niños Funda para Apple iPad Air 2 / iPad 6 EVA antichoque Ligera destinado a Prueba de Golpes Protección Funda Tapa  Violeta ](https://www.amazon.es/dp/B00QEZ1GOO/?tag=tolees-21) con 38.63 de descuento por 15.95 EUR (original: 25.99 EUR) en el siguiente enlace!
 
-[![LEADSTAR Niños Funda para Apple iPad Air](https://m.media-amazon.com/images/I/51cvUc7Y-fL._SL200_.jpg)](https://www.amazon.es/dp/B00QEZ1GOO/?tag=tolees-21)
+[![LEADSTAR Niños Funda para Apple iPad Air](https://m.media-amazon.com/images/I/51cvUc7Y-fL._SL400_.jpg)](https://www.amazon.es/dp/B00QEZ1GOO/?tag=tolees-21)
 
 ℹ️:
 

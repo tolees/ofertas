@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger LowCut Essential Sneaker  al 69.41 % de descuento'
 date: 2020-09-17 21:21:37
-image: 'https://m.media-amazon.com/images/I/41K0147M-dL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41K0147M-dL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '25.355'
 
 Está [Tommy Hilfiger LowCut Essential Sneaker  Zapatillas para Mujer  Negro  Black Bds   41 EU](https://www.amazon.es/dp/B07V4N4CZ1/?tag=tolees-21) con 69.41 de descuento por 22.91 EUR (original: 74.9 EUR) en el siguiente enlace!
 
-[![Tommy Hilfiger LowCut Essential Sneaker ](https://m.media-amazon.com/images/I/41K0147M-dL._SL200_.jpg)](https://www.amazon.es/dp/B07V4N4CZ1/?tag=tolees-21)
+[![Tommy Hilfiger LowCut Essential Sneaker ](https://m.media-amazon.com/images/I/41K0147M-dL._SL400_.jpg)](https://www.amazon.es/dp/B07V4N4CZ1/?tag=tolees-21)
 
 ℹ️:
 

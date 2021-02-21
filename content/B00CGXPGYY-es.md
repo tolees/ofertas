@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 27.08 % en Samsung MLT-D204L/ELS - Tóner  5000 pági'
 date: 2020-02-25 15:11:27
-image: 'https://m.media-amazon.com/images/I/41isSGxbbPL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41isSGxbbPL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '107.82'
 
 Tienes [Samsung MLT-D204L/ELS - Tóner  5000 páginas   negro](https://www.amazon.es/dp/B00CGXPGYY/?tag=tolees-21) con un 27.08 % de descuento con precio de oferta de 107.82 EUR (original: 147.87 EUR) en el siguiente enlace!
 
-[![Samsung MLT-D204L/ELS - Tóner  5000 pági](https://m.media-amazon.com/images/I/41isSGxbbPL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B00CGXPGYY/?tag=tolees-21)
+[![Samsung MLT-D204L/ELS - Tóner  5000 pági](https://m.media-amazon.com/images/I/41isSGxbbPL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B00CGXPGYY/?tag=tolees-21)
 
 ℹ️:
 

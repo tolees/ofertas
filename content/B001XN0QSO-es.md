@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 26.36 % en Vogue Olympia - Fuente redonda de servir'
 date: 2020-08-27 09:10:08
-image: 'https://m.media-amazon.com/images/I/41Mk13coAQL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Mk13coAQL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.33'
 
 Tienes [Vogue Olympia - Fuente redonda de servir  de hierro fundido con soporte de madera  22 cm](https://www.amazon.es/dp/B001XN0QSO/?tag=tolees-21) con un 26.36 % de descuento con precio de oferta de 18.33 EUR (original: 24.89 EUR) en el siguiente enlace!
 
-[![Vogue Olympia - Fuente redonda de servir](https://m.media-amazon.com/images/I/41Mk13coAQL._SL200_.jpg)](https://www.amazon.es/dp/B001XN0QSO/?tag=tolees-21)
+[![Vogue Olympia - Fuente redonda de servir](https://m.media-amazon.com/images/I/41Mk13coAQL._SL400_.jpg)](https://www.amazon.es/dp/B001XN0QSO/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 50.03 % en Cosmopolitan Rainbow Shine Hair Waver To'
 date: 2020-10-09 15:02:08
-image: 'https://m.media-amazon.com/images/I/31n70CQuXkL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31n70CQuXkL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '39.95'
 
 Tienes [Cosmopolitan Rainbow Shine Hair Waver Tong - Rizos sueltos en minutos - Pinzas para barril - Cable giratorio de 3 m y guante de protección contra el calor gratis](https://www.amazon.es/dp/B07XGC335R/?tag=tolees-21) con un 50.03 % de descuento con precio de oferta de 39.95 EUR (original: 79.95 EUR) en el siguiente enlace!
 
-[![Cosmopolitan Rainbow Shine Hair Waver To](https://m.media-amazon.com/images/I/31n70CQuXkL._SL200_.jpg)](https://www.amazon.es/dp/B07XGC335R/?tag=tolees-21)
+[![Cosmopolitan Rainbow Shine Hair Waver To](https://m.media-amazon.com/images/I/31n70CQuXkL._SL400_.jpg)](https://www.amazon.es/dp/B07XGC335R/?tag=tolees-21)
 
 ℹ️:
 

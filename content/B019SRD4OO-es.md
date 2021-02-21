@@ -2,7 +2,7 @@
 layout: post
 title: 'Kmise - Ukelele tenor  66 cm  madera mac al 37.86 % de rebaja'
 date: 2020-09-30 06:39:14
-image: 'https://m.media-amazon.com/images/I/414YxzPtZJL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/414YxzPtZJL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '33.645'
 
 Tienes [Kmise - Ukelele tenor  66 cm  madera maciza de caoba  puente de palisandro  mate](https://www.amazon.es/dp/B019SRD4OO/?tag=tolees-21) con precio final de  25.79 EUR (original: 41.5 EUR) (37.86 %  de rebaja) aqui!
 
-[![Kmise - Ukelele tenor  66 cm  madera mac](https://m.media-amazon.com/images/I/414YxzPtZJL._SL200_.jpg)](https://www.amazon.es/dp/B019SRD4OO/?tag=tolees-21)
+[![Kmise - Ukelele tenor  66 cm  madera mac](https://m.media-amazon.com/images/I/414YxzPtZJL._SL400_.jpg)](https://www.amazon.es/dp/B019SRD4OO/?tag=tolees-21)
 
 🔎:
 

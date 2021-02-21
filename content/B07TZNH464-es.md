@@ -2,7 +2,7 @@
 layout: post
 title: 'Skechers Summits  Zapatillas para Mujer  al 38.15 % de rebaja'
 date: 2020-09-20 08:23:53
-image: 'https://m.media-amazon.com/images/I/41yOdTn1WIL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41yOdTn1WIL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '32.9'
 
 Tienes [Skechers Summits  Zapatillas para Mujer  Gris  Gray Mesh/Hot Pink & Lime Trim Gyhp   39 EU](https://www.amazon.es/dp/B07TZNH464/?tag=tolees-21) con precio final de  32.9 EUR (original: 53.19 EUR) (38.15 %  de rebaja) aqui!
 
-[![Skechers Summits  Zapatillas para Mujer ](https://m.media-amazon.com/images/I/41yOdTn1WIL._SL200_.jpg)](https://www.amazon.es/dp/B07TZNH464/?tag=tolees-21)
+[![Skechers Summits  Zapatillas para Mujer ](https://m.media-amazon.com/images/I/41yOdTn1WIL._SL400_.jpg)](https://www.amazon.es/dp/B07TZNH464/?tag=tolees-21)
 
 🔎:
 

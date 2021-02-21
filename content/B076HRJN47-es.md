@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas Core18 TR SHO Y Pantalones Cortos al 38.77 % de descuento'
 date: 2020-05-29 07:49:35
-image: 'https://m.media-amazon.com/images/I/51Oj2HcycXL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Oj2HcycXL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.99'
 
 Ahora mismo tienes [adidas Core18 TR SHO Y Pantalones Cortos de Deporte  Unisex niños  Dark Blue/White  7-8Y](https://www.amazon.es/dp/B076HRJN47/?tag=tolees-21) a 10.99 EUR (original: 17.95 EUR) (38.77 %  de descuento) en el siguiente enlace!
 
-[![adidas Core18 TR SHO Y Pantalones Cortos](https://m.media-amazon.com/images/I/51Oj2HcycXL._SL200_.jpg)](https://www.amazon.es/dp/B076HRJN47/?tag=tolees-21)
+[![adidas Core18 TR SHO Y Pantalones Cortos](https://m.media-amazon.com/images/I/51Oj2HcycXL._SL400_.jpg)](https://www.amazon.es/dp/B076HRJN47/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Caterpillar Deplete WP  Botas Clasicas p al 58.46 % de rebaja'
 date: 2020-01-23 10:28:51
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41iXOXRf5jL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41iXOXRf5jL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '54.45'
 
 Tienes [Caterpillar Deplete WP  Botas Clasicas para Hombre  Negro  Black Black   40 EU](https://www.amazon.es/dp/B073C59YBN/?tag=tolees-21) con precio final de  55.49 EUR (original: 133.59 EUR) (58.46 %  de rebaja) aqui!
 
-[![Caterpillar Deplete WP  Botas Clasicas p](https://images-eu.ssl-images-amazon.com/images/I/41iXOXRf5jL._SL200_.jpg)](https://www.amazon.es/dp/B073C59YBN/?tag=tolees-21)
+[![Caterpillar Deplete WP  Botas Clasicas p](https://images-eu.ssl-images-amazon.com/images/I/41iXOXRf5jL._SL400_.jpg)](https://www.amazon.es/dp/B073C59YBN/?tag=tolees-21)
 
 🔎:
 

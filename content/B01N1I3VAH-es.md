@@ -2,7 +2,7 @@
 layout: post
 title: 'Indoor Copa con un 60.00 % de descuento'
 date: 2020-02-27 12:46:47
-image: 'https://m.media-amazon.com/images/I/41i-JBfArSL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41i-JBfArSL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.96'
 
 En este momento está [Indoor Copa](https://www.amazon.es/dp/B01N1I3VAH/?tag=tolees-21) a 19.96 EUR (original: 49.9 EUR) (60.00 %  de descuento) en el siguiente enlace!
 
-[![Indoor Copa](https://m.media-amazon.com/images/I/41i-JBfArSL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01N1I3VAH/?tag=tolees-21)
+[![Indoor Copa](https://m.media-amazon.com/images/I/41i-JBfArSL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01N1I3VAH/?tag=tolees-21)
 
 🔎:
 

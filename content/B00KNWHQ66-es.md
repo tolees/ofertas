@@ -2,7 +2,7 @@
 layout: post
 title: 'Orlane Oligo Vit-A-Min Démaquillant Vita al 46.37 % de descuento'
 date: 2020-03-15 19:31:36
-image: 'https://m.media-amazon.com/images/I/31BgvVKSgML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31BgvVKSgML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.09'
 
 Está [Orlane Oligo Vit-A-Min Démaquillant Vitalisant 250 ml](https://www.amazon.es/dp/B00KNWHQ66/?tag=tolees-21) con 46.37 de descuento por 16.09 EUR (original: 30.0 EUR) en el siguiente enlace!
 
-[![Orlane Oligo Vit-A-Min Démaquillant Vita](https://m.media-amazon.com/images/I/31BgvVKSgML._SL200_.jpg)](https://www.amazon.es/dp/B00KNWHQ66/?tag=tolees-21)
+[![Orlane Oligo Vit-A-Min Démaquillant Vita](https://m.media-amazon.com/images/I/31BgvVKSgML._SL400_.jpg)](https://www.amazon.es/dp/B00KNWHQ66/?tag=tolees-21)
 
 ℹ️:
 

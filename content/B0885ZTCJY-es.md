@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 36.95 % en Auihiay 221 piezas de plástico retráctil'
 date: 2020-09-08 11:01:35
-image: 'https://m.media-amazon.com/images/I/61uqosbiEyL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61uqosbiEyL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.35'
 
 Tienes [Auihiay 221 piezas de plástico retráctil incluye 20 hojas transparentes de papel artístico encogido  perforador y llaveros accesorios para manualidades infantiles](https://www.amazon.es/dp/B0885ZTCJY/?tag=tolees-21) con un 36.95 % de descuento con precio de oferta de 19.35 EUR (original: 30.69 EUR) en el siguiente enlace!
 
-[![Auihiay 221 piezas de plástico retráctil](https://m.media-amazon.com/images/I/61uqosbiEyL._SL200_.jpg)](https://www.amazon.es/dp/B0885ZTCJY/?tag=tolees-21)
+[![Auihiay 221 piezas de plástico retráctil](https://m.media-amazon.com/images/I/61uqosbiEyL._SL400_.jpg)](https://www.amazon.es/dp/B0885ZTCJY/?tag=tolees-21)
 
 ℹ️:
 

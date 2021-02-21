@@ -2,7 +2,7 @@
 layout: post
 title: 'Bolsa de agua caliente forrada | Mobicli al 40.44 % de descuento'
 date: 2020-02-08 19:36:04
-image: 'https://m.media-amazon.com/images/I/41X9-xAn+EL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41X9-xAn+EL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.75'
 
 Ahora mismo tienes [Bolsa de agua caliente forrada | Mobiclinic](https://www.amazon.es/dp/B00INT57DA/?tag=tolees-21) a 8.75 EUR (original: 14.69 EUR) (40.44 %  de descuento) en el siguiente enlace!
 
-[![Bolsa de agua caliente forrada | Mobicli](https://m.media-amazon.com/images/I/41X9-xAn+EL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B00INT57DA/?tag=tolees-21)
+[![Bolsa de agua caliente forrada | Mobicli](https://m.media-amazon.com/images/I/41X9-xAn+EL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B00INT57DA/?tag=tolees-21)
 
 🔎:
 

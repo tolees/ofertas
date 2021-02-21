@@ -2,7 +2,7 @@
 layout: post
 title: 'Collares Mujer Colgante Corazón Plata 92 al 41.19 % de descuento'
 date: 2020-06-23 18:56:15
-image: 'https://m.media-amazon.com/images/I/51+jVbkGBPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51+jVbkGBPL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.99'
 
 Está [Collares Mujer Colgante Corazón Plata 925 Rosa Colgante Joyeria Personalizados Mamá/Esposa Regalo Originales](https://www.amazon.es/dp/B083ZX76HJ/?tag=tolees-21) con 41.19 de descuento por 19.99 EUR (original: 33.99 EUR) en el siguiente enlace!
 
-[![Collares Mujer Colgante Corazón Plata 92](https://m.media-amazon.com/images/I/51+jVbkGBPL._SL200_.jpg)](https://www.amazon.es/dp/B083ZX76HJ/?tag=tolees-21)
+[![Collares Mujer Colgante Corazón Plata 92](https://m.media-amazon.com/images/I/51+jVbkGBPL._SL400_.jpg)](https://www.amazon.es/dp/B083ZX76HJ/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'L Oreal Paris Colorista Hair Make Up Cho al 74.97 % de descuento'
 date: 2020-02-03 09:04:29
-image: 'https://m.media-amazon.com/images/I/41I01L+lGkL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41I01L+lGkL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.745'
 
 Ahora mismo tienes [L Oreal Paris Colorista Hair Make Up Chocolate Rose](https://www.amazon.es/dp/B07BR5B62Q/?tag=tolees-21) a 1.99 EUR (original: 7.95 EUR) (74.97 %  de descuento) en el siguiente enlace!
 
-[![L Oreal Paris Colorista Hair Make Up Cho](https://m.media-amazon.com/images/I/41I01L+lGkL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07BR5B62Q/?tag=tolees-21)
+[![L Oreal Paris Colorista Hair Make Up Cho](https://m.media-amazon.com/images/I/41I01L+lGkL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07BR5B62Q/?tag=tolees-21)
 
 🔎:
 

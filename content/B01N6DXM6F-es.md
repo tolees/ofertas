@@ -2,7 +2,7 @@
 layout: post
 title: 'Spontex Universale - Set de 3 estropajos al 46.24 % de descuento'
 date: 2020-01-19 17:52:38
-image: 'https://images-eu.ssl-images-amazon.com/images/I/512ShwZr3uL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/512ShwZr3uL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.0'
 
 Está [Spontex Universale - Set de 3 estropajos salvauñas con fibra de extractos minerales  color verde - [Pack de 8]](https://www.amazon.es/dp/B01N6DXM6F/?tag=tolees-21) con 46.24 de descuento por 8 EUR (original: 14.88 EUR) en el siguiente enlace!
 
-[![Spontex Universale - Set de 3 estropajos](https://images-eu.ssl-images-amazon.com/images/I/512ShwZr3uL._SL200_.jpg)](https://www.amazon.es/dp/B01N6DXM6F/?tag=tolees-21)
+[![Spontex Universale - Set de 3 estropajos](https://images-eu.ssl-images-amazon.com/images/I/512ShwZr3uL._SL400_.jpg)](https://www.amazon.es/dp/B01N6DXM6F/?tag=tolees-21)
 
 ℹ️:
 

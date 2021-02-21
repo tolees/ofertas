@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 31.69 % en Intex 28002 - Kit de mantenimiento con m'
 date: 2020-09-22 18:48:56
-image: 'https://m.media-amazon.com/images/I/41Jix8wsXVL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Jix8wsXVL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.859999999999998'
 
 Tienes [Intex 28002 - Kit de mantenimiento con mango telescópico](https://www.amazon.es/dp/B004FEER0Q/?tag=tolees-21) con un 31.69 % de descuento con precio de oferta de 20.46 EUR (original: 29.95 EUR) en el siguiente enlace!
 
-[![Intex 28002 - Kit de mantenimiento con m](https://m.media-amazon.com/images/I/41Jix8wsXVL._SL200_.jpg)](https://www.amazon.es/dp/B004FEER0Q/?tag=tolees-21)
+[![Intex 28002 - Kit de mantenimiento con m](https://m.media-amazon.com/images/I/41Jix8wsXVL._SL400_.jpg)](https://www.amazon.es/dp/B004FEER0Q/?tag=tolees-21)
 
 ℹ️:
 

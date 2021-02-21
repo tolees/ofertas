@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 37.71 % en D-Link GO-SW-5E - Switch de Red con 5 Pu'
 date: 2020-08-27 16:02:25
-image: 'https://m.media-amazon.com/images/I/311uLF1hGNL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/311uLF1hGNL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.824375000000001'
 
 Tienes [D-Link GO-SW-5E - Switch de Red con 5 Puertos 10/100 Mps  Color Blanco](https://www.amazon.es/dp/B00D6M2PC0/?tag=tolees-21) con un 37.71 % de descuento con precio de oferta de 6.79 EUR (original: 10.9 EUR) en el siguiente enlace!
 
-[![D-Link GO-SW-5E - Switch de Red con 5 Pu](https://m.media-amazon.com/images/I/311uLF1hGNL._SL200_.jpg)](https://www.amazon.es/dp/B00D6M2PC0/?tag=tolees-21)
+[![D-Link GO-SW-5E - Switch de Red con 5 Pu](https://m.media-amazon.com/images/I/311uLF1hGNL._SL400_.jpg)](https://www.amazon.es/dp/B00D6M2PC0/?tag=tolees-21)
 
 ℹ️:
 

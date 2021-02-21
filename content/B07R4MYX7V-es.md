@@ -2,7 +2,7 @@
 layout: post
 title: 'AL OFA Vibrador Rabbit G-punto Clitoris  al 57.17 % de descuento'
 date: 2020-04-07 05:47:35
-image: 'https://m.media-amazon.com/images/I/41TaV6Ew9dL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41TaV6Ew9dL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '26.4825'
 
 Ahora mismo tienes [AL OFA Vibrador Rabbit G-punto Clitoris Vibrante Estimulador 10 Modos USB Recargable Impermeable Juguetes Sexuales  Morado](https://www.amazon.es/dp/B07R4MYX7V/?tag=tolees-21) a 29.98 EUR (original: 69.99 EUR) (57.17 %  de descuento) en el siguiente enlace!
 
-[![AL OFA Vibrador Rabbit G-punto Clitoris ](https://m.media-amazon.com/images/I/41TaV6Ew9dL._SL200_.jpg)](https://www.amazon.es/dp/B07R4MYX7V/?tag=tolees-21)
+[![AL OFA Vibrador Rabbit G-punto Clitoris ](https://m.media-amazon.com/images/I/41TaV6Ew9dL._SL400_.jpg)](https://www.amazon.es/dp/B07R4MYX7V/?tag=tolees-21)
 
 🔎:
 

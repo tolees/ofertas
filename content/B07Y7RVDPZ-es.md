@@ -2,7 +2,7 @@
 layout: post
 title: 'WOSTOO Estantería de Esquina para Baño E al 37.49 % de descuento'
 date: 2020-08-13 07:56:28
-image: 'https://m.media-amazon.com/images/I/51JMQuCwjoL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51JMQuCwjoL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.99'
 
 Ahora mismo tienes [WOSTOO Estantería de Esquina para Baño Estantería Ducha sin Perforaciones Aluminio Estanteria Baño Ducha con 2 Ganchos Accesorios de Baño y Cocina -2 piezas](https://www.amazon.es/dp/B07Y7RVDPZ/?tag=tolees-21) a 23.99 EUR (original: 38.38 EUR) (37.49 %  de descuento) en el siguiente enlace!
 
-[![WOSTOO Estantería de Esquina para Baño E](https://m.media-amazon.com/images/I/51JMQuCwjoL._SL200_.jpg)](https://www.amazon.es/dp/B07Y7RVDPZ/?tag=tolees-21)
+[![WOSTOO Estantería de Esquina para Baño E](https://m.media-amazon.com/images/I/51JMQuCwjoL._SL400_.jpg)](https://www.amazon.es/dp/B07Y7RVDPZ/?tag=tolees-21)
 
 🔎:
 

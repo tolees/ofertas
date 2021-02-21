@@ -2,7 +2,7 @@
 layout: post
 title: 'Nutribullet NB5-0628-G - Extractor de nu al 39.50 % de descuento'
 date: 2020-10-07 13:56:30
-image: 'https://m.media-amazon.com/images/I/41c1MAV8dzL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41c1MAV8dzL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '48.34'
 
 Ahora mismo tienes [Nutribullet NB5-0628-G - Extractor de nutrientes con recetario en español  base motor de alta capacidad  500 W  20.000 rpm  incluye varios accesorios  color verde](https://www.amazon.es/dp/B089KNDBY7/?tag=tolees-21) a 48.34 EUR (original: 79.9 EUR) (39.50 %  de descuento) en el siguiente enlace!
 
-[![Nutribullet NB5-0628-G - Extractor de nu](https://m.media-amazon.com/images/I/41c1MAV8dzL._SL200_.jpg)](https://www.amazon.es/dp/B089KNDBY7/?tag=tolees-21)
+[![Nutribullet NB5-0628-G - Extractor de nu](https://m.media-amazon.com/images/I/41c1MAV8dzL._SL400_.jpg)](https://www.amazon.es/dp/B089KNDBY7/?tag=tolees-21)
 
 🔎:
 

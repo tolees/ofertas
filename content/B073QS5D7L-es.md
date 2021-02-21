@@ -2,7 +2,7 @@
 layout: post
 title: 'find. 18105 camisetas  Gris  Grau   38   al 70.00 % de descuento'
 date: 2019-12-31 19:05:08
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41fDoqrczLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41fDoqrczLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.8'
 
 Ahora mismo tienes [find. 18105 camisetas  Gris  Grau   38  Talla del Fabricante: Small ](https://www.amazon.es/dp/B073QS5D7L/?tag=tolees-21) a 1.8 EUR (original: 6 EUR) (70.00 %  de descuento) en el siguiente enlace!
 
-[![find. 18105 camisetas  Gris  Grau   38  ](https://images-eu.ssl-images-amazon.com/images/I/41fDoqrczLL._SL200_.jpg)](https://www.amazon.es/dp/B073QS5D7L/?tag=tolees-21)
+[![find. 18105 camisetas  Gris  Grau   38  ](https://images-eu.ssl-images-amazon.com/images/I/41fDoqrczLL._SL400_.jpg)](https://www.amazon.es/dp/B073QS5D7L/?tag=tolees-21)
 
 🔎:
 

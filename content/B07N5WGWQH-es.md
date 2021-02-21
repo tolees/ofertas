@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 46.39 % en Pop! My Hero Academia - Figura de Vinilo'
 date: 2020-02-12 10:40:13
-image: 'https://m.media-amazon.com/images/I/41boFt9xGiL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41boFt9xGiL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.55'
 
 Tienes [Pop! My Hero Academia - Figura de Vinilo 5 Star Katsuki](https://www.amazon.es/dp/B07N5WGWQH/?tag=tolees-21) con un 46.39 % de descuento con precio de oferta de 8.55 EUR (original: 15.95 EUR) en el siguiente enlace!
 
-[![Pop! My Hero Academia - Figura de Vinilo](https://m.media-amazon.com/images/I/41boFt9xGiL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07N5WGWQH/?tag=tolees-21)
+[![Pop! My Hero Academia - Figura de Vinilo](https://m.media-amazon.com/images/I/41boFt9xGiL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07N5WGWQH/?tag=tolees-21)
 
 ℹ️:
 

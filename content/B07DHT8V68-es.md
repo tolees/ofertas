@@ -2,7 +2,7 @@
 layout: post
 title: 'Lacoste Graduate BL 1 SFA  Zapatillas pa con un 41.46 % de descuento'
 date: 2020-01-19 08:36:29
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31P0wvs%2BqZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31P0wvs%2BqZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '44.49'
 
 En este momento está [Lacoste Graduate BL 1 SFA  Zapatillas para Mujer  Blanco  White/White   37 EU](https://www.amazon.es/dp/B07DHT8V68/?tag=tolees-21) a 44.49 EUR (original: 76 EUR) (41.46 %  de descuento) en el siguiente enlace!
 
-[![Lacoste Graduate BL 1 SFA  Zapatillas pa](https://images-eu.ssl-images-amazon.com/images/I/31P0wvs%2BqZL._SL200_.jpg)](https://www.amazon.es/dp/B07DHT8V68/?tag=tolees-21)
+[![Lacoste Graduate BL 1 SFA  Zapatillas pa](https://images-eu.ssl-images-amazon.com/images/I/31P0wvs%2BqZL._SL400_.jpg)](https://www.amazon.es/dp/B07DHT8V68/?tag=tolees-21)
 
 🔎:
 

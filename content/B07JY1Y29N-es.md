@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour Men s Printed Blitzing 3.0  al 50.12 % de rebaja'
 date: 2020-04-01 02:03:20
-image: 'https://m.media-amazon.com/images/I/51Huuqz987L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Huuqz987L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.97'
 
 Tienes [Under Armour Men s Printed Blitzing 3.0 Gorra  Hombre  Gris  M/L](https://www.amazon.es/dp/B07JY1Y29N/?tag=tolees-21) con precio final de  12.97 EUR (original: 26.0 EUR) (50.12 %  de rebaja) aqui!
 
-[![Under Armour Men s Printed Blitzing 3.0 ](https://m.media-amazon.com/images/I/51Huuqz987L._SL200_.jpg)](https://www.amazon.es/dp/B07JY1Y29N/?tag=tolees-21)
+[![Under Armour Men s Printed Blitzing 3.0 ](https://m.media-amazon.com/images/I/51Huuqz987L._SL400_.jpg)](https://www.amazon.es/dp/B07JY1Y29N/?tag=tolees-21)
 
 🔎:
 

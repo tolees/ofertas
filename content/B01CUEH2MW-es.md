@@ -2,7 +2,7 @@
 layout: post
 title: 'ROC Pro Correct - Fluido Anti Arrugas  R al 44.44 % de descuento'
 date: 2020-01-30 13:51:09
-image: 'https://m.media-amazon.com/images/I/413vDq73LxL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/413vDq73LxL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.064999999999998'
 
 Ahora mismo tienes [ROC Pro Correct - Fluido Anti Arrugas  Rejuvenecedor  40 ml](https://www.amazon.es/dp/B01CUEH2MW/?tag=tolees-21) a 20.83 EUR (original: 37.49 EUR) (44.44 %  de descuento) en el siguiente enlace!
 
-[![ROC Pro Correct - Fluido Anti Arrugas  R](https://m.media-amazon.com/images/I/413vDq73LxL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01CUEH2MW/?tag=tolees-21)
+[![ROC Pro Correct - Fluido Anti Arrugas  R](https://m.media-amazon.com/images/I/413vDq73LxL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01CUEH2MW/?tag=tolees-21)
 
 🔎:
 

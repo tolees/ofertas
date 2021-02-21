@@ -2,7 +2,7 @@
 layout: post
 title: 'Helly Hansen Active Windbreaker Jacket   al 44.06 % de descuento'
 date: 2020-06-10 06:25:14
-image: 'https://m.media-amazon.com/images/I/41SC3s0TrtL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41SC3s0TrtL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '55.94'
 
 Ahora mismo tienes [Helly Hansen Active Windbreaker Jacket  Hombre  Negro  Ebony   2XL](https://www.amazon.es/dp/B07F2LX7D2/?tag=tolees-21) a 55.94 EUR (original: 100.0 EUR) (44.06 %  de descuento) en el siguiente enlace!
 
-[![Helly Hansen Active Windbreaker Jacket  ](https://m.media-amazon.com/images/I/41SC3s0TrtL._SL200_.jpg)](https://www.amazon.es/dp/B07F2LX7D2/?tag=tolees-21)
+[![Helly Hansen Active Windbreaker Jacket  ](https://m.media-amazon.com/images/I/41SC3s0TrtL._SL400_.jpg)](https://www.amazon.es/dp/B07F2LX7D2/?tag=tolees-21)
 
 🔎:
 

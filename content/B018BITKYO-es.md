@@ -2,7 +2,7 @@
 layout: post
 title: 'COMPRESSPORT Ultralight Visera  Unisex   con un 54.19 % de descuento'
 date: 2020-04-10 08:14:46
-image: 'https://m.media-amazon.com/images/I/417asWBmazL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/417asWBmazL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.48'
 
 En este momento está [COMPRESSPORT Ultralight Visera  Unisex  Blanco  Talla Única](https://www.amazon.es/dp/B018BITKYO/?tag=tolees-21) a 10.99 EUR (original: 23.99 EUR) (54.19 %  de descuento) en el siguiente enlace!
 
-[![COMPRESSPORT Ultralight Visera  Unisex  ](https://m.media-amazon.com/images/I/417asWBmazL._SL200_.jpg)](https://www.amazon.es/dp/B018BITKYO/?tag=tolees-21)
+[![COMPRESSPORT Ultralight Visera  Unisex  ](https://m.media-amazon.com/images/I/417asWBmazL._SL400_.jpg)](https://www.amazon.es/dp/B018BITKYO/?tag=tolees-21)
 
 🔎:
 

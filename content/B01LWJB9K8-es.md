@@ -2,7 +2,7 @@
 layout: post
 title: 'Edge Entertainment - Misión: Planeta roj con un 25.95 % de descuento'
 date: 2020-06-28 13:49:00
-image: 'https://m.media-amazon.com/images/I/51iZoCjkoKL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51iZoCjkoKL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '37.150000000000006'
 
 En este momento está [Edge Entertainment - Misión: Planeta rojo  juego de mesa  EDGVA93    color/modelo surtido](https://www.amazon.es/dp/B01LWJB9K8/?tag=tolees-21) a 36.99 EUR (original: 49.95 EUR) (25.95 %  de descuento) en el siguiente enlace!
 
-[![Edge Entertainment - Misión: Planeta roj](https://m.media-amazon.com/images/I/51iZoCjkoKL._SL200_.jpg)](https://www.amazon.es/dp/B01LWJB9K8/?tag=tolees-21)
+[![Edge Entertainment - Misión: Planeta roj](https://m.media-amazon.com/images/I/51iZoCjkoKL._SL400_.jpg)](https://www.amazon.es/dp/B01LWJB9K8/?tag=tolees-21)
 
 🔎:
 

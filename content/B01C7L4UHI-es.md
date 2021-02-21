@@ -2,7 +2,7 @@
 layout: post
 title: 'Capucha negra tela al 67.30 % de rebaja'
 date: 2020-09-10 01:55:31
-image: 'https://m.media-amazon.com/images/I/41ZPHm+QMZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ZPHm+QMZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.6'
 
 Tienes [Capucha negra tela](https://www.amazon.es/dp/B01C7L4UHI/?tag=tolees-21) con precio final de  2.6 EUR (original: 7.95 EUR) (67.30 %  de rebaja) aqui!
 
-[![Capucha negra tela](https://m.media-amazon.com/images/I/41ZPHm+QMZL._SL200_.jpg)](https://www.amazon.es/dp/B01C7L4UHI/?tag=tolees-21)
+[![Capucha negra tela](https://m.media-amazon.com/images/I/41ZPHm+QMZL._SL400_.jpg)](https://www.amazon.es/dp/B01C7L4UHI/?tag=tolees-21)
 
 🔎:
 

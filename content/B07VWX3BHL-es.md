@@ -2,7 +2,7 @@
 layout: post
 title: 'MARTINELLI Náutico de Piel HANS 1360 con un 40.70 % de descuento'
 date: 2020-08-23 00:17:08
-image: 'https://m.media-amazon.com/images/I/31W7nXhVi8L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31W7nXhVi8L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '53.32333333333334'
 
 En este momento está [MARTINELLI Náutico de Piel HANS 1360](https://www.amazon.es/dp/B07VWX3BHL/?tag=tolees-21) a 53.34 EUR (original: 89.95 EUR) (40.70 %  de descuento) en el siguiente enlace!
 
-[![MARTINELLI Náutico de Piel HANS 1360](https://m.media-amazon.com/images/I/31W7nXhVi8L._SL200_.jpg)](https://www.amazon.es/dp/B07VWX3BHL/?tag=tolees-21)
+[![MARTINELLI Náutico de Piel HANS 1360](https://m.media-amazon.com/images/I/31W7nXhVi8L._SL400_.jpg)](https://www.amazon.es/dp/B07VWX3BHL/?tag=tolees-21)
 
 🔎:
 

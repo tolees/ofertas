@@ -2,7 +2,7 @@
 layout: post
 title: 'LexonElec Teclado mecánico para juegos d al 40.01 % de descuento'
 date: 2020-08-07 00:33:59
-image: 'https://m.media-amazon.com/images/I/514TgOV6UyL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/514TgOV6UyL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.99'
 
 Está [LexonElec Teclado mecánico para juegos de una sola mano K109 Cableado 38 teclas Teclado mixto USB retroiluminado Multimedia Teclado ergonómico Gamer con una mano con reposamuñecas para PC portátil](https://www.amazon.es/dp/B07GKHD1PD/?tag=tolees-21) con 40.01 de descuento por 23.99 EUR (original: 39.99 EUR) en el siguiente enlace!
 
-[![LexonElec Teclado mecánico para juegos d](https://m.media-amazon.com/images/I/514TgOV6UyL._SL200_.jpg)](https://www.amazon.es/dp/B07GKHD1PD/?tag=tolees-21)
+[![LexonElec Teclado mecánico para juegos d](https://m.media-amazon.com/images/I/514TgOV6UyL._SL400_.jpg)](https://www.amazon.es/dp/B07GKHD1PD/?tag=tolees-21)
 
 ℹ️:
 

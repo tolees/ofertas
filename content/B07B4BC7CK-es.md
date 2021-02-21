@@ -2,7 +2,7 @@
 layout: post
 title: 'Paranix Loción. Tratamiento para Piojos  al 56.24 % de descuento'
 date: 2020-01-27 19:57:37
-image: 'https://m.media-amazon.com/images/I/51TLhgn4PUL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51TLhgn4PUL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.34'
 
 Ahora mismo tienes [Paranix Loción. Tratamiento para Piojos y Liendres - Incluye Lendrera - Sin insecticidas -100 ml](https://www.amazon.es/dp/B07B4BC7CK/?tag=tolees-21) a 8.73 EUR (original: 19.95 EUR) (56.24 %  de descuento) en el siguiente enlace!
 
-[![Paranix Loción. Tratamiento para Piojos ](https://m.media-amazon.com/images/I/51TLhgn4PUL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07B4BC7CK/?tag=tolees-21)
+[![Paranix Loción. Tratamiento para Piojos ](https://m.media-amazon.com/images/I/51TLhgn4PUL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07B4BC7CK/?tag=tolees-21)
 
 🔎:
 

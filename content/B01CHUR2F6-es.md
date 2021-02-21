@@ -2,7 +2,7 @@
 layout: post
 title: 'Wilkinson Sword Hydro – Maquinilla de af al 41.95 % de descuento'
 date: 2020-08-12 08:47:05
-image: 'https://m.media-amazon.com/images/I/41Z7cuyHnyL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Z7cuyHnyL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.66'
 
 Está [Wilkinson Sword Hydro – Maquinilla de afeitar con 8 recambios](https://www.amazon.es/dp/B01CHUR2F6/?tag=tolees-21) con 41.95 de descuento por 9.66 EUR (original: 16.64 EUR) en el siguiente enlace!
 
-[![Wilkinson Sword Hydro – Maquinilla de af](https://m.media-amazon.com/images/I/41Z7cuyHnyL._SL200_.jpg)](https://www.amazon.es/dp/B01CHUR2F6/?tag=tolees-21)
+[![Wilkinson Sword Hydro – Maquinilla de af](https://m.media-amazon.com/images/I/41Z7cuyHnyL._SL400_.jpg)](https://www.amazon.es/dp/B01CHUR2F6/?tag=tolees-21)
 
 ℹ️:
 

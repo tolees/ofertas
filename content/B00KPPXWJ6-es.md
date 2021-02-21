@@ -2,7 +2,7 @@
 layout: post
 title: 'MAKITA DTL061Z Herramienta  18 V al 41.16 % de descuento'
 date: 2020-04-17 16:32:51
-image: 'https://m.media-amazon.com/images/I/31esnBFog2L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31esnBFog2L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '153.82'
 
 Está [MAKITA DTL061Z Herramienta  18 V](https://www.amazon.es/dp/B00KPPXWJ6/?tag=tolees-21) con 41.16 de descuento por 153.82 EUR (original: 261.44 EUR) en el siguiente enlace!
 
-[![MAKITA DTL061Z Herramienta  18 V](https://m.media-amazon.com/images/I/31esnBFog2L._SL200_.jpg)](https://www.amazon.es/dp/B00KPPXWJ6/?tag=tolees-21)
+[![MAKITA DTL061Z Herramienta  18 V](https://m.media-amazon.com/images/I/31esnBFog2L._SL400_.jpg)](https://www.amazon.es/dp/B00KPPXWJ6/?tag=tolees-21)
 
 ℹ️:
 

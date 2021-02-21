@@ -2,7 +2,7 @@
 layout: post
 title: 'Sophie La Girafe 000004 - Mi primer set  al 26.11 % de descuento'
 date: 2020-01-14 18:22:00
-image: 'https://images-eu.ssl-images-amazon.com/images/I/518hU8nMLUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/518hU8nMLUL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.98'
 
 Ahora mismo tienes [Sophie La Girafe 000004 - Mi primer set y muselina](https://www.amazon.es/dp/B00SDTGX7Y/?tag=tolees-21) a 16.98 EUR (original: 22.98 EUR) (26.11 %  de descuento) en el siguiente enlace!
 
-[![Sophie La Girafe 000004 - Mi primer set ](https://images-eu.ssl-images-amazon.com/images/I/518hU8nMLUL._SL200_.jpg)](https://www.amazon.es/dp/B00SDTGX7Y/?tag=tolees-21)
+[![Sophie La Girafe 000004 - Mi primer set ](https://images-eu.ssl-images-amazon.com/images/I/518hU8nMLUL._SL400_.jpg)](https://www.amazon.es/dp/B00SDTGX7Y/?tag=tolees-21)
 
 🔎:
 

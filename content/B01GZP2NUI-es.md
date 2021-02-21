@@ -2,7 +2,7 @@
 layout: post
 title: '2 Pares 9450 Fibra de Carbono Reforzada  al 44.44 % de descuento'
 date: 2020-05-08 11:02:05
-image: 'https://m.media-amazon.com/images/I/41RoNYg3qOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41RoNYg3qOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.99'
 
 Ahora mismo tienes [2 Pares 9450 Fibra de Carbono Reforzada Hélices Auto-Apretado Apoyos para Phantom2](https://www.amazon.es/dp/B01GZP2NUI/?tag=tolees-21) a 16.99 EUR (original: 30.58 EUR) (44.44 %  de descuento) en el siguiente enlace!
 
-[![2 Pares 9450 Fibra de Carbono Reforzada ](https://m.media-amazon.com/images/I/41RoNYg3qOL._SL200_.jpg)](https://www.amazon.es/dp/B01GZP2NUI/?tag=tolees-21)
+[![2 Pares 9450 Fibra de Carbono Reforzada ](https://m.media-amazon.com/images/I/41RoNYg3qOL._SL400_.jpg)](https://www.amazon.es/dp/B01GZP2NUI/?tag=tolees-21)
 
 🔎:
 

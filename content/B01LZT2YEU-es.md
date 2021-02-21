@@ -2,7 +2,7 @@
 layout: post
 title: 'Intenso 6021512 4000GB Negro - Disco Dur al 34.32 % de descuento'
 date: 2020-05-27 10:10:21
-image: 'https://m.media-amazon.com/images/I/31xtSUOnp1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31xtSUOnp1L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '121.08'
 
 Ahora mismo tienes [Intenso 6021512 4000GB Negro - Disco Duro Externo  4000 GB  2.5"  USB Tipo C  3.0  3.1 Gen 1   5400 RPM  Negro ](https://www.amazon.es/dp/B01LZT2YEU/?tag=tolees-21) a 121.08 EUR (original: 184.34 EUR) (34.32 %  de descuento) en el siguiente enlace!
 
-[![Intenso 6021512 4000GB Negro - Disco Dur](https://m.media-amazon.com/images/I/31xtSUOnp1L._SL200_.jpg)](https://www.amazon.es/dp/B01LZT2YEU/?tag=tolees-21)
+[![Intenso 6021512 4000GB Negro - Disco Dur](https://m.media-amazon.com/images/I/31xtSUOnp1L._SL400_.jpg)](https://www.amazon.es/dp/B01LZT2YEU/?tag=tolees-21)
 
 🔎:
 

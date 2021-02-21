@@ -2,7 +2,7 @@
 layout: post
 title: 'Sennheiser CX 300S - Auriculares intraur al 44.09 % de descuento'
 date: 2020-10-07 06:50:22
-image: 'https://m.media-amazon.com/images/I/31a0UH5uUTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31a0UH5uUTL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '27.9'
 
 Está [Sennheiser CX 300S - Auriculares intraurales con control remoto inteligente universal  color rojo](https://www.amazon.es/dp/B07N246ZPJ/?tag=tolees-21) con 44.09 de descuento por 27.9 EUR (original: 49.9 EUR) en el siguiente enlace!
 
-[![Sennheiser CX 300S - Auriculares intraur](https://m.media-amazon.com/images/I/31a0UH5uUTL._SL200_.jpg)](https://www.amazon.es/dp/B07N246ZPJ/?tag=tolees-21)
+[![Sennheiser CX 300S - Auriculares intraur](https://m.media-amazon.com/images/I/31a0UH5uUTL._SL400_.jpg)](https://www.amazon.es/dp/B07N246ZPJ/?tag=tolees-21)
 
 ℹ️:
 

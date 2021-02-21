@@ -2,7 +2,7 @@
 layout: post
 title: 'BSN All In One Weight Gainer Polvo de Pr al 47.96 % de rebaja'
 date: 2020-01-02 01:12:45
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51I5aQTgXiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51I5aQTgXiL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '39.87'
 
 Tienes [BSN All In One Weight Gainer Polvo de Proteína de Suero con Creatina  Glutamina y Vitamina D  Fresa - 4.2 kg  25 porciones](https://www.amazon.es/dp/B07D9SKRNT/?tag=tolees-21) con precio final de  39.87 EUR (original: 76.62 EUR) (47.96 %  de rebaja) aqui!
 
-[![BSN All In One Weight Gainer Polvo de Pr](https://images-eu.ssl-images-amazon.com/images/I/51I5aQTgXiL._SL200_.jpg)](https://www.amazon.es/dp/B07D9SKRNT/?tag=tolees-21)
+[![BSN All In One Weight Gainer Polvo de Pr](https://images-eu.ssl-images-amazon.com/images/I/51I5aQTgXiL._SL400_.jpg)](https://www.amazon.es/dp/B07D9SKRNT/?tag=tolees-21)
 
 🔎:
 

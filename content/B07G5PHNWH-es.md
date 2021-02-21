@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 71.01 % en Max Factor  Base de maquillaje  Tono: 80'
 date: 2020-09-10 17:09:19
-image: 'https://m.media-amazon.com/images/I/31rojTkGjvL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31rojTkGjvL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.966666666666667'
 
 Tienes [Max Factor  Base de maquillaje  Tono: 80 Deep Bronze  Pieles Oscuras  - 115 ml.](https://www.amazon.es/dp/B07G5PHNWH/?tag=tolees-21) con un 71.01 % de descuento con precio de oferta de 4.9 EUR (original: 16.9 EUR) en el siguiente enlace!
 
-[![Max Factor  Base de maquillaje  Tono: 80](https://m.media-amazon.com/images/I/31rojTkGjvL._SL200_.jpg)](https://www.amazon.es/dp/B07G5PHNWH/?tag=tolees-21)
+[![Max Factor  Base de maquillaje  Tono: 80](https://m.media-amazon.com/images/I/31rojTkGjvL._SL400_.jpg)](https://www.amazon.es/dp/B07G5PHNWH/?tag=tolees-21)
 
 ℹ️:
 

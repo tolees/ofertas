@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 61.25 % en Columbia Backpedal Outdry  Zapatillas de'
 date: 2020-02-08 07:40:09
-image: 'https://m.media-amazon.com/images/I/41+MkF1dSgL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41+MkF1dSgL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '38.75'
 
 Tienes [Columbia Backpedal Outdry  Zapatillas de Cross para Mujer  Gris  Steam  White   43 EU](https://www.amazon.es/dp/B07DV5SPYC/?tag=tolees-21) con un 61.25 % de descuento con precio de oferta de 38.75 EUR (original: 99.99 EUR) en el siguiente enlace!
 
-[![Columbia Backpedal Outdry  Zapatillas de](https://m.media-amazon.com/images/I/41+MkF1dSgL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07DV5SPYC/?tag=tolees-21)
+[![Columbia Backpedal Outdry  Zapatillas de](https://m.media-amazon.com/images/I/41+MkF1dSgL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07DV5SPYC/?tag=tolees-21)
 
 ℹ️:
 

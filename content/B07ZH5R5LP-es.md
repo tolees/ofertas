@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 30.29 % en Blevit Plus Blevit Plus Papilla 8 Cereal'
 date: 2020-05-26 09:44:26
-image: 'https://m.media-amazon.com/images/I/51AEjsMcxtL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51AEjsMcxtL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.1'
 
 Tienes [Blevit Plus Blevit Plus Papilla 8 Cereales Y Fruta Para Biberón 600 g](https://www.amazon.es/dp/B07ZH5R5LP/?tag=tolees-21) con un 30.29 % de descuento con precio de oferta de 6.1 EUR (original: 8.75 EUR) en el siguiente enlace!
 
-[![Blevit Plus Blevit Plus Papilla 8 Cereal](https://m.media-amazon.com/images/I/51AEjsMcxtL._SL200_.jpg)](https://www.amazon.es/dp/B07ZH5R5LP/?tag=tolees-21)
+[![Blevit Plus Blevit Plus Papilla 8 Cereal](https://m.media-amazon.com/images/I/51AEjsMcxtL._SL400_.jpg)](https://www.amazon.es/dp/B07ZH5R5LP/?tag=tolees-21)
 
 ℹ️:
 

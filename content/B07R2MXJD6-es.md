@@ -2,7 +2,7 @@
 layout: post
 title: 'Amazon Essentials Plus Size Sherpa-Lined al 25.32 % de descuento'
 date: 2020-06-28 14:24:05
-image: 'https://m.media-amazon.com/images/I/419q7LDgw5L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/419q7LDgw5L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.95'
 
 Está [Amazon Essentials Plus Size Sherpa-Lined Full-Zip Hoodie Fashion  Negro  2X](https://www.amazon.es/dp/B07R2MXJD6/?tag=tolees-21) con 25.32 de descuento por 12.95 EUR (original: 17.34 EUR) en el siguiente enlace!
 
-[![Amazon Essentials Plus Size Sherpa-Lined](https://m.media-amazon.com/images/I/419q7LDgw5L._SL200_.jpg)](https://www.amazon.es/dp/B07R2MXJD6/?tag=tolees-21)
+[![Amazon Essentials Plus Size Sherpa-Lined](https://m.media-amazon.com/images/I/419q7LDgw5L._SL400_.jpg)](https://www.amazon.es/dp/B07R2MXJD6/?tag=tolees-21)
 
 ℹ️:
 

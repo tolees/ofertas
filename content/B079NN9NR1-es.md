@@ -2,7 +2,7 @@
 layout: post
 title: 'iMagicBox- Street Edition  Cife Spain 41 al 57.60 % de descuento'
 date: 2020-01-24 13:16:16
-image: 'https://m.media-amazon.com/images/I/51aHWyjOBjL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51aHWyjOBjL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.965'
 
 Está [iMagicBox- Street Edition  Cife Spain 41374 ](https://www.amazon.es/dp/B079NN9NR1/?tag=tolees-21) con 57.60 de descuento por 16.94 EUR (original: 39.95 EUR) en el siguiente enlace!
 
-[![iMagicBox- Street Edition  Cife Spain 41](https://m.media-amazon.com/images/I/51aHWyjOBjL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B079NN9NR1/?tag=tolees-21)
+[![iMagicBox- Street Edition  Cife Spain 41](https://m.media-amazon.com/images/I/51aHWyjOBjL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B079NN9NR1/?tag=tolees-21)
 
 ℹ️:
 

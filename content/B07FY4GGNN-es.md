@@ -2,7 +2,7 @@
 layout: post
 title: 'Vans Ward Canvas Zapatillas Unisex Niños al 30.00 % de rebaja'
 date: 2020-06-26 09:05:05
-image: 'https://m.media-amazon.com/images/I/41A9YiWnr0L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41A9YiWnr0L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '31.5'
 
 Tienes [Vans Ward Canvas Zapatillas Unisex Niños  Rojo   Canvas  Port Royale/White 8j7   39](https://www.amazon.es/dp/B07FY4GGNN/?tag=tolees-21) con precio final de  31.5 EUR (original: 45.0 EUR) (30.00 %  de rebaja) aqui!
 
-[![Vans Ward Canvas Zapatillas Unisex Niños](https://m.media-amazon.com/images/I/41A9YiWnr0L._SL200_.jpg)](https://www.amazon.es/dp/B07FY4GGNN/?tag=tolees-21)
+[![Vans Ward Canvas Zapatillas Unisex Niños](https://m.media-amazon.com/images/I/41A9YiWnr0L._SL400_.jpg)](https://www.amazon.es/dp/B07FY4GGNN/?tag=tolees-21)
 
 🔎:
 

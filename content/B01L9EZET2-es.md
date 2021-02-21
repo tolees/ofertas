@@ -2,7 +2,7 @@
 layout: post
 title: 'This Is Acting al 33.48 % de descuento'
 date: 2020-02-11 05:03:30
-image: 'https://m.media-amazon.com/images/I/51GC1q9TnzL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51GC1q9TnzL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.98'
 
 Ahora mismo tienes [This Is Acting](https://www.amazon.es/dp/B01L9EZET2/?tag=tolees-21) a 5.98 EUR (original: 8.99 EUR) (33.48 %  de descuento) en el siguiente enlace!
 
-[![This Is Acting](https://m.media-amazon.com/images/I/51GC1q9TnzL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01L9EZET2/?tag=tolees-21)
+[![This Is Acting](https://m.media-amazon.com/images/I/51GC1q9TnzL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01L9EZET2/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'WIWJ Funda para Samsung Galaxy A8 2018 C al 54.60 % de descuento'
 date: 2020-08-10 08:01:44
-image: 'https://m.media-amazon.com/images/I/41pHS20TMSL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41pHS20TMSL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.99'
 
 Está [WIWJ Funda para Samsung Galaxy A8 2018 Carcasa Hollow Pintado Suave Silicona Gel Cover Cristal Transparente Flexible [Ultra Fina] TPU Movil Case 360 Anti-rasguños con Tapa Protectores Verde](https://www.amazon.es/dp/B07XNR1V1N/?tag=tolees-21) con 54.60 de descuento por 4.99 EUR (original: 10.99 EUR) en el siguiente enlace!
 
-[![WIWJ Funda para Samsung Galaxy A8 2018 C](https://m.media-amazon.com/images/I/41pHS20TMSL._SL200_.jpg)](https://www.amazon.es/dp/B07XNR1V1N/?tag=tolees-21)
+[![WIWJ Funda para Samsung Galaxy A8 2018 C](https://m.media-amazon.com/images/I/41pHS20TMSL._SL400_.jpg)](https://www.amazon.es/dp/B07XNR1V1N/?tag=tolees-21)
 
 ℹ️:
 

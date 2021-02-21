@@ -2,7 +2,7 @@
 layout: post
 title: 'GOXAWEE Mini Disco Corte Diamante & Mini con un 25.03 % de descuento'
 date: 2020-08-23 14:20:00
-image: 'https://m.media-amazon.com/images/I/41tUR-VR8rL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41tUR-VR8rL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.98'
 
 En este momento está [GOXAWEE Mini Disco Corte Diamante & Mini Hoja de Sierra Circular HSS & Mini Disco de Corte de Resina （3mm Mandril）para Cortar Madera Piedra Metal - Paquete de 30 Piezas](https://www.amazon.es/dp/B075DV8ZPV/?tag=tolees-21) a 14.98 EUR (original: 19.98 EUR) (25.03 %  de descuento) en el siguiente enlace!
 
-[![GOXAWEE Mini Disco Corte Diamante & Mini](https://m.media-amazon.com/images/I/41tUR-VR8rL._SL200_.jpg)](https://www.amazon.es/dp/B075DV8ZPV/?tag=tolees-21)
+[![GOXAWEE Mini Disco Corte Diamante & Mini](https://m.media-amazon.com/images/I/41tUR-VR8rL._SL400_.jpg)](https://www.amazon.es/dp/B075DV8ZPV/?tag=tolees-21)
 
 🔎:
 

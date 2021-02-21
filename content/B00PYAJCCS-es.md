@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 42.65 % en Control Senso Preservativos - Pack de 24'
 date: 2020-09-06 18:31:21
-image: 'https://m.media-amazon.com/images/I/41NqSUkemEL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41NqSUkemEL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.502272727272727'
 
 Tienes [Control Senso Preservativos - Pack de 24 preservativos](https://www.amazon.es/dp/B00PYAJCCS/?tag=tolees-21) con un 42.65 % de descuento con precio de oferta de 8.0 EUR (original: 13.95 EUR) en el siguiente enlace!
 
-[![Control Senso Preservativos - Pack de 24](https://m.media-amazon.com/images/I/41NqSUkemEL._SL200_.jpg)](https://www.amazon.es/dp/B00PYAJCCS/?tag=tolees-21)
+[![Control Senso Preservativos - Pack de 24](https://m.media-amazon.com/images/I/41NqSUkemEL._SL400_.jpg)](https://www.amazon.es/dp/B00PYAJCCS/?tag=tolees-21)
 
 ℹ️:
 

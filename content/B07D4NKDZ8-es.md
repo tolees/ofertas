@@ -2,7 +2,7 @@
 layout: post
 title: 'La Toja Selection - Sales de Baño con Mi con un 30.04 % de descuento'
 date: 2020-01-28 07:09:23
-image: 'https://m.media-amazon.com/images/I/410RV53WQoL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/410RV53WQoL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.79'
 
 En este momento está [La Toja Selection - Sales de Baño con Minerales Termales del Manantial - 250gr](https://www.amazon.es/dp/B07D4NKDZ8/?tag=tolees-21) a 5.59 EUR (original: 7.99 EUR) (30.04 %  de descuento) en el siguiente enlace!
 
-[![La Toja Selection - Sales de Baño con Mi](https://m.media-amazon.com/images/I/410RV53WQoL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07D4NKDZ8/?tag=tolees-21)
+[![La Toja Selection - Sales de Baño con Mi](https://m.media-amazon.com/images/I/410RV53WQoL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07D4NKDZ8/?tag=tolees-21)
 
 🔎:
 

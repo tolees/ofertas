@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 74.06 % en Salomon Ellipse Freeze CS WP  Calzado de'
 date: 2020-05-08 16:43:12
-image: 'https://m.media-amazon.com/images/I/41DyUM8MP1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41DyUM8MP1L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '36.31'
 
 Tienes [Salomon Ellipse Freeze CS WP  Calzado de Invierno para Mujer  Negro  Black/Phantom/Beach Glass   42 2/3 EU](https://www.amazon.es/dp/B078SZ2T5Q/?tag=tolees-21) con un 74.06 % de descuento con precio de oferta de 36.31 EUR (original: 139.95 EUR) en el siguiente enlace!
 
-[![Salomon Ellipse Freeze CS WP  Calzado de](https://m.media-amazon.com/images/I/41DyUM8MP1L._SL200_.jpg)](https://www.amazon.es/dp/B078SZ2T5Q/?tag=tolees-21)
+[![Salomon Ellipse Freeze CS WP  Calzado de](https://m.media-amazon.com/images/I/41DyUM8MP1L._SL400_.jpg)](https://www.amazon.es/dp/B078SZ2T5Q/?tag=tolees-21)
 
 ℹ️:
 

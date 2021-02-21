@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s Graphic Sport Hoodie Capucha  Azu al 67.56 % de descuento'
 date: 2020-04-12 18:22:02
-image: 'https://m.media-amazon.com/images/I/31LbgMjECpL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31LbgMjECpL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.215'
 
 Ahora mismo tienes [Levi s Graphic Sport Hoodie Capucha  Azul  Goodie Box Taba Baby Blue 0165   L para Mujer](https://www.amazon.es/dp/B07RZLJG47/?tag=tolees-21) a 22.71 EUR (original: 70.0 EUR) (67.56 %  de descuento) en el siguiente enlace!
 
-[![Levi s Graphic Sport Hoodie Capucha  Azu](https://m.media-amazon.com/images/I/31LbgMjECpL._SL200_.jpg)](https://www.amazon.es/dp/B07RZLJG47/?tag=tolees-21)
+[![Levi s Graphic Sport Hoodie Capucha  Azu](https://m.media-amazon.com/images/I/31LbgMjECpL._SL400_.jpg)](https://www.amazon.es/dp/B07RZLJG47/?tag=tolees-21)
 
 🔎:
 

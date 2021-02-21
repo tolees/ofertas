@@ -2,7 +2,7 @@
 layout: post
 title: 'Corsair HS70 Wireless - Auriculares inal con un 27.28 % de descuento'
 date: 2020-04-30 17:39:44
-image: 'https://m.media-amazon.com/images/I/41190y8w+DL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41190y8w+DL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '86.77571428571429'
 
 En este momento está [Corsair HS70 Wireless - Auriculares inalámbricos para juegos  sonido envolvente 7.1  con micrófono desmontable  para PC/PS4   Negro](https://www.amazon.es/dp/B07CDB3BQR/?tag=tolees-21) a 79.99 EUR (original: 109.99 EUR) (27.28 %  de descuento) en el siguiente enlace!
 
-[![Corsair HS70 Wireless - Auriculares inal](https://m.media-amazon.com/images/I/41190y8w+DL._SL200_.jpg)](https://www.amazon.es/dp/B07CDB3BQR/?tag=tolees-21)
+[![Corsair HS70 Wireless - Auriculares inal](https://m.media-amazon.com/images/I/41190y8w+DL._SL400_.jpg)](https://www.amazon.es/dp/B07CDB3BQR/?tag=tolees-21)
 
 🔎:
 

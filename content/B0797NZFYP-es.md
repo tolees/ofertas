@@ -2,7 +2,7 @@
 layout: post
 title: 'Sabrent El hub USB de 10 Puertos y 60W c al 32.86 % de descuento'
 date: 2020-02-08 09:05:16
-image: 'https://m.media-amazon.com/images/I/415EsJUQGrL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/415EsJUQGrL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '46.99'
 
 Ahora mismo tienes [Sabrent El hub USB de 10 Puertos y 60W con interruptores de alimentación Individuales y LED Incluye un Adaptador de alimentación de 60W 12V / 5A  HB-BU10 ](https://www.amazon.es/dp/B0797NZFYP/?tag=tolees-21) a 46.99 EUR (original: 69.99 EUR) (32.86 %  de descuento) en el siguiente enlace!
 
-[![Sabrent El hub USB de 10 Puertos y 60W c](https://m.media-amazon.com/images/I/415EsJUQGrL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B0797NZFYP/?tag=tolees-21)
+[![Sabrent El hub USB de 10 Puertos y 60W c](https://m.media-amazon.com/images/I/415EsJUQGrL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B0797NZFYP/?tag=tolees-21)
 
 🔎:
 

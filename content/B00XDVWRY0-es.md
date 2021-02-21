@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 34.07 % en Kéranove Champú Aclarante a la Camomila '
 date: 2020-08-21 15:46:19
-image: 'https://m.media-amazon.com/images/I/41UIMIybUfL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41UIMIybUfL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.45'
 
 Tienes [Kéranove Champú Aclarante a la Camomila - 250 ml](https://www.amazon.es/dp/B00XDVWRY0/?tag=tolees-21) con un 34.07 % de descuento con precio de oferta de 4.45 EUR (original: 6.75 EUR) en el siguiente enlace!
 
-[![Kéranove Champú Aclarante a la Camomila ](https://m.media-amazon.com/images/I/41UIMIybUfL._SL200_.jpg)](https://www.amazon.es/dp/B00XDVWRY0/?tag=tolees-21)
+[![Kéranove Champú Aclarante a la Camomila ](https://m.media-amazon.com/images/I/41UIMIybUfL._SL400_.jpg)](https://www.amazon.es/dp/B00XDVWRY0/?tag=tolees-21)
 
 ℹ️:
 

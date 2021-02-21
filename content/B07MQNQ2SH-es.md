@@ -2,7 +2,7 @@
 layout: post
 title: 'Cerdá 2200003935 Toalla Polyester Batman al 41.12 % de descuento'
 date: 2020-04-06 20:02:12
-image: 'https://m.media-amazon.com/images/I/31Rn0z6D-cL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Rn0z6D-cL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.95'
 
 Ahora mismo tienes [Cerdá 2200003935 Toalla Polyester Batman  Negro  70x140cm](https://www.amazon.es/dp/B07MQNQ2SH/?tag=tolees-21) a 9.95 EUR (original: 16.9 EUR) (41.12 %  de descuento) en el siguiente enlace!
 
-[![Cerdá 2200003935 Toalla Polyester Batman](https://m.media-amazon.com/images/I/31Rn0z6D-cL._SL200_.jpg)](https://www.amazon.es/dp/B07MQNQ2SH/?tag=tolees-21)
+[![Cerdá 2200003935 Toalla Polyester Batman](https://m.media-amazon.com/images/I/31Rn0z6D-cL._SL400_.jpg)](https://www.amazon.es/dp/B07MQNQ2SH/?tag=tolees-21)
 
 🔎:
 

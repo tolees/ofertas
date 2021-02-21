@@ -2,7 +2,7 @@
 layout: post
 title: 'Leathlux Funda Xiaomi Redmi 7A + 2 x Pro al 63.09 % de descuento'
 date: 2020-01-23 15:47:52
-image: 'https://images-eu.ssl-images-amazon.com/images/I/418Yb2qafwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/418Yb2qafwL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.01'
 
 Ahora mismo tienes [Leathlux Funda Xiaomi Redmi 7A + 2 x Protector de Pantalla Xiaomi Redmi 7A Pro  Transparente TPU Silicona Funda + Cristal Vidrio Templado Protector de Pantalla y Caso Xiaomi Redmi 7A](https://www.amazon.es/dp/B00NNH97ZQ/?tag=tolees-21) a 7.01 EUR (original: 18.99 EUR) (63.09 %  de descuento) en el siguiente enlace!
 
-[![Leathlux Funda Xiaomi Redmi 7A + 2 x Pro](https://images-eu.ssl-images-amazon.com/images/I/418Yb2qafwL._SL200_.jpg)](https://www.amazon.es/dp/B00NNH97ZQ/?tag=tolees-21)
+[![Leathlux Funda Xiaomi Redmi 7A + 2 x Pro](https://images-eu.ssl-images-amazon.com/images/I/418Yb2qafwL._SL400_.jpg)](https://www.amazon.es/dp/B00NNH97ZQ/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Pop! Romeo & Juliet - Figura de Vinilo J al 27.38 % de descuento'
 date: 2020-01-25 01:45:35
-image: 'https://m.media-amazon.com/images/I/41+5Tmim0RL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41+5Tmim0RL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.55'
 
 Está [Pop! Romeo & Juliet - Figura de Vinilo Juliet](https://www.amazon.es/dp/B07H9Z1M6B/?tag=tolees-21) con 27.38 de descuento por 7.56 EUR (original: 10.41 EUR) en el siguiente enlace!
 
-[![Pop! Romeo & Juliet - Figura de Vinilo J](https://m.media-amazon.com/images/I/41+5Tmim0RL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07H9Z1M6B/?tag=tolees-21)
+[![Pop! Romeo & Juliet - Figura de Vinilo J](https://m.media-amazon.com/images/I/41+5Tmim0RL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07H9Z1M6B/?tag=tolees-21)
 
 ℹ️:
 

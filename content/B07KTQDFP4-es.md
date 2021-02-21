@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger Reloj de Pulsera 1782038 al 44.58 % de rebaja'
 date: 2020-03-01 15:49:45
-image: 'https://m.media-amazon.com/images/I/31KFUIYb31L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31KFUIYb31L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '65.95'
 
 Tienes [Tommy Hilfiger Reloj de Pulsera 1782038](https://www.amazon.es/dp/B07KTQDFP4/?tag=tolees-21) con precio final de  65.95 EUR (original: 119.0 EUR) (44.58 %  de rebaja) aqui!
 
-[![Tommy Hilfiger Reloj de Pulsera 1782038](https://m.media-amazon.com/images/I/31KFUIYb31L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07KTQDFP4/?tag=tolees-21)
+[![Tommy Hilfiger Reloj de Pulsera 1782038](https://m.media-amazon.com/images/I/31KFUIYb31L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07KTQDFP4/?tag=tolees-21)
 
 🔎:
 

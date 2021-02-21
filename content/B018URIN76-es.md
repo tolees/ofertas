@@ -2,7 +2,7 @@
 layout: post
 title: 'Shiseido Bio-Performance Glow Revival Cr al 43.38 % de descuento'
 date: 2020-09-13 10:17:36
-image: 'https://m.media-amazon.com/images/I/41B9+xHuAeL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41B9+xHuAeL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '72.48'
 
 Está [Shiseido Bio-Performance Glow Revival Crema - 50 ml  0768614119562 ](https://www.amazon.es/dp/B018URIN76/?tag=tolees-21) con 43.38 de descuento por 72.48 EUR (original: 128.0 EUR) en el siguiente enlace!
 
-[![Shiseido Bio-Performance Glow Revival Cr](https://m.media-amazon.com/images/I/41B9+xHuAeL._SL200_.jpg)](https://www.amazon.es/dp/B018URIN76/?tag=tolees-21)
+[![Shiseido Bio-Performance Glow Revival Cr](https://m.media-amazon.com/images/I/41B9+xHuAeL._SL400_.jpg)](https://www.amazon.es/dp/B018URIN76/?tag=tolees-21)
 
 ℹ️:
 

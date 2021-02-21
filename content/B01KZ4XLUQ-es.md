@@ -2,7 +2,7 @@
 layout: post
 title: 'Canon EF 24-105mm f/4L IS II USM - Objet al 27.81 % de rebaja'
 date: 2020-05-27 05:16:49
-image: 'https://m.media-amazon.com/images/I/31Pkko30MlL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Pkko30MlL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '973.494'
 
 Tienes [Canon EF 24-105mm f/4L IS II USM - Objetivo Canon EF 24-105mm f/4L IS II USM  Negro](https://www.amazon.es/dp/B01KZ4XLUQ/?tag=tolees-21) con precio final de  931.3 EUR (original: 1289.99 EUR) (27.81 %  de rebaja) aqui!
 
-[![Canon EF 24-105mm f/4L IS II USM - Objet](https://m.media-amazon.com/images/I/31Pkko30MlL._SL200_.jpg)](https://www.amazon.es/dp/B01KZ4XLUQ/?tag=tolees-21)
+[![Canon EF 24-105mm f/4L IS II USM - Objet](https://m.media-amazon.com/images/I/31Pkko30MlL._SL400_.jpg)](https://www.amazon.es/dp/B01KZ4XLUQ/?tag=tolees-21)
 
 🔎:
 

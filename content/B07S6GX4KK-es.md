@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour UA Remix 2.0  Zapatillas de al 29.33 % de rebaja'
 date: 2020-06-15 10:14:07
-image: 'https://m.media-amazon.com/images/I/41qTlUEtgeL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41qTlUEtgeL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '52.97'
 
 Tienes [Under Armour UA Remix 2.0  Zapatillas de Running  Deportivas para Hombre  Blanco  White/Versa Blue/Versa Blue  104  104   43 EU](https://www.amazon.es/dp/B07S6GX4KK/?tag=tolees-21) con precio final de  52.97 EUR (original: 74.95 EUR) (29.33 %  de rebaja) aqui!
 
-[![Under Armour UA Remix 2.0  Zapatillas de](https://m.media-amazon.com/images/I/41qTlUEtgeL._SL200_.jpg)](https://www.amazon.es/dp/B07S6GX4KK/?tag=tolees-21)
+[![Under Armour UA Remix 2.0  Zapatillas de](https://m.media-amazon.com/images/I/41qTlUEtgeL._SL400_.jpg)](https://www.amazon.es/dp/B07S6GX4KK/?tag=tolees-21)
 
 🔎:
 

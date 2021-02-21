@@ -2,7 +2,7 @@
 layout: post
 title: 'Topsale-ycld 4.3"1080P Dual Lens Car Aut al 44.70 % de rebaja'
 date: 2020-09-18 19:01:28
-image: 'https://m.media-amazon.com/images/I/51cmoKxCWCL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51cmoKxCWCL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '41.903333333333336'
 
 Tienes [Topsale-ycld 4.3"1080P Dual Lens Car Auto DVR Mirror Dash CAM Recorder + Kit de cámara de visión Trasera](https://www.amazon.es/dp/B07TBHWJJ4/?tag=tolees-21) con precio final de  25.98 EUR (original: 46.98 EUR) (44.70 %  de rebaja) aqui!
 
-[![Topsale-ycld 4.3"1080P Dual Lens Car Aut](https://m.media-amazon.com/images/I/51cmoKxCWCL._SL200_.jpg)](https://www.amazon.es/dp/B07TBHWJJ4/?tag=tolees-21)
+[![Topsale-ycld 4.3"1080P Dual Lens Car Aut](https://m.media-amazon.com/images/I/51cmoKxCWCL._SL400_.jpg)](https://www.amazon.es/dp/B07TBHWJJ4/?tag=tolees-21)
 
 🔎:
 

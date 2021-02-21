@@ -2,7 +2,7 @@
 layout: post
 title: 'My Day Protector Incontinencia Ultra Min al 41.03 % de descuento'
 date: 2020-05-14 17:37:14
-image: 'https://m.media-amazon.com/images/I/41gCEgXwA0L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41gCEgXwA0L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.15'
 
 Está [My Day Protector Incontinencia Ultra Mini Compresas - 28 Unidades](https://www.amazon.es/dp/B002ZN01MW/?tag=tolees-21) con 41.03 de descuento por 1.15 EUR (original: 1.95 EUR) en el siguiente enlace!
 
-[![My Day Protector Incontinencia Ultra Min](https://m.media-amazon.com/images/I/41gCEgXwA0L._SL200_.jpg)](https://www.amazon.es/dp/B002ZN01MW/?tag=tolees-21)
+[![My Day Protector Incontinencia Ultra Min](https://m.media-amazon.com/images/I/41gCEgXwA0L._SL400_.jpg)](https://www.amazon.es/dp/B002ZN01MW/?tag=tolees-21)
 
 ℹ️:
 

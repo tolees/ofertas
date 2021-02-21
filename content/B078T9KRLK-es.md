@@ -2,7 +2,7 @@
 layout: post
 title: 'Columbia Minx Mid III WP Omni-Heat  Bota al 70.51 % de rebaja'
 date: 2020-03-02 13:22:14
-image: 'https://m.media-amazon.com/images/I/41vg2Sv68zL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41vg2Sv68zL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '35.745000000000005'
 
 Tienes [Columbia Minx Mid III WP Omni-Heat  Botas para Niños  Gris  Stratus  Camell   38 EU](https://www.amazon.es/dp/B078T9KRLK/?tag=tolees-21) con precio final de  26.54 EUR (original: 89.99 EUR) (70.51 %  de rebaja) aqui!
 
-[![Columbia Minx Mid III WP Omni-Heat  Bota](https://m.media-amazon.com/images/I/41vg2Sv68zL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B078T9KRLK/?tag=tolees-21)
+[![Columbia Minx Mid III WP Omni-Heat  Bota](https://m.media-amazon.com/images/I/41vg2Sv68zL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B078T9KRLK/?tag=tolees-21)
 
 🔎:
 

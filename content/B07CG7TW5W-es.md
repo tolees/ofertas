@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 36.86 % en amison 8 pieza automático de riego  disp'
 date: 2020-08-11 01:52:32
-image: 'https://m.media-amazon.com/images/I/41I3pxwXK9L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41I3pxwXK9L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.723333333333333'
 
 Tienes [amison 8 pieza automático de riego  dispensador de agua para habitaciones de cerámica Planta pinchos de riego  Bonsai  plantas  flores](https://www.amazon.es/dp/B07CG7TW5W/?tag=tolees-21) con un 36.86 % de descuento con precio de oferta de 11.99 EUR (original: 18.99 EUR) en el siguiente enlace!
 
-[![amison 8 pieza automático de riego  disp](https://m.media-amazon.com/images/I/41I3pxwXK9L._SL200_.jpg)](https://www.amazon.es/dp/B07CG7TW5W/?tag=tolees-21)
+[![amison 8 pieza automático de riego  disp](https://m.media-amazon.com/images/I/41I3pxwXK9L._SL400_.jpg)](https://www.amazon.es/dp/B07CG7TW5W/?tag=tolees-21)
 
 ℹ️:
 

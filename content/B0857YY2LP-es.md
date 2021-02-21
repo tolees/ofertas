@@ -2,7 +2,7 @@
 layout: post
 title: 'Zombie Army Trilogy al 29.45 % de descuento'
 date: 2020-06-13 19:48:01
-image: 'https://m.media-amazon.com/images/I/41Jkn4XPclL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Jkn4XPclL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '34.79333333333333'
 
 Ahora mismo tienes [Zombie Army Trilogy](https://www.amazon.es/dp/B0857YY2LP/?tag=tolees-21) a 28.92 EUR (original: 40.99 EUR) (29.45 %  de descuento) en el siguiente enlace!
 
-[![Zombie Army Trilogy](https://m.media-amazon.com/images/I/41Jkn4XPclL._SL200_.jpg)](https://www.amazon.es/dp/B0857YY2LP/?tag=tolees-21)
+[![Zombie Army Trilogy](https://m.media-amazon.com/images/I/41Jkn4XPclL._SL400_.jpg)](https://www.amazon.es/dp/B0857YY2LP/?tag=tolees-21)
 
 🔎:
 

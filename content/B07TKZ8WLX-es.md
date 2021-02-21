@@ -2,7 +2,7 @@
 layout: post
 title: 'Medallero Colgador de Medallas – Porta M con un 25.01 % de descuento'
 date: 2020-04-17 18:36:53
-image: 'https://m.media-amazon.com/images/I/61hbPk7Bg8L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61hbPk7Bg8L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '30.296666666666667'
 
 En este momento está [Medallero Colgador de Medallas – Porta Medallas con Marco de Foto para Gimnasia Artística y Rítmica](https://www.amazon.es/dp/B07TKZ8WLX/?tag=tolees-21) a 29.99 EUR (original: 39.99 EUR) (25.01 %  de descuento) en el siguiente enlace!
 
-[![Medallero Colgador de Medallas – Porta M](https://m.media-amazon.com/images/I/61hbPk7Bg8L._SL200_.jpg)](https://www.amazon.es/dp/B07TKZ8WLX/?tag=tolees-21)
+[![Medallero Colgador de Medallas – Porta M](https://m.media-amazon.com/images/I/61hbPk7Bg8L._SL400_.jpg)](https://www.amazon.es/dp/B07TKZ8WLX/?tag=tolees-21)
 
 🔎:
 

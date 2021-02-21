@@ -2,7 +2,7 @@
 layout: post
 title: 'Desigual Dark Fresh Festival 100ml al 80.18 % de rebaja'
 date: 2020-06-19 16:28:01
-image: 'https://m.media-amazon.com/images/I/51UaB+w3aLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51UaB+w3aLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.133333333333333'
 
 Tienes [Desigual Dark Fresh Festival 100ml](https://www.amazon.es/dp/B07N22SV4H/?tag=tolees-21) con precio final de  8.72 EUR (original: 44.0 EUR) (80.18 %  de rebaja) aqui!
 
-[![Desigual Dark Fresh Festival 100ml](https://m.media-amazon.com/images/I/51UaB+w3aLL._SL200_.jpg)](https://www.amazon.es/dp/B07N22SV4H/?tag=tolees-21)
+[![Desigual Dark Fresh Festival 100ml](https://m.media-amazon.com/images/I/51UaB+w3aLL._SL400_.jpg)](https://www.amazon.es/dp/B07N22SV4H/?tag=tolees-21)
 
 🔎:
 

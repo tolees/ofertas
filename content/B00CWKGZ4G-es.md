@@ -2,7 +2,7 @@
 layout: post
 title: 'Salki - Pistola Ec-360 8500360 al 28.73 % de rebaja'
 date: 2020-04-12 13:08:18
-image: 'https://m.media-amazon.com/images/I/31rzjt+UDxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31rzjt+UDxL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.83'
 
 Tienes [Salki - Pistola Ec-360 8500360](https://www.amazon.es/dp/B00CWKGZ4G/?tag=tolees-21) con precio final de  5.83 EUR (original: 8.18 EUR) (28.73 %  de rebaja) aqui!
 
-[![Salki - Pistola Ec-360 8500360](https://m.media-amazon.com/images/I/31rzjt+UDxL._SL200_.jpg)](https://www.amazon.es/dp/B00CWKGZ4G/?tag=tolees-21)
+[![Salki - Pistola Ec-360 8500360](https://m.media-amazon.com/images/I/31rzjt+UDxL._SL400_.jpg)](https://www.amazon.es/dp/B00CWKGZ4G/?tag=tolees-21)
 
 🔎:
 

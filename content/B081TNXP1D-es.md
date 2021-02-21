@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas Tights Mallas  Mujer  Black  44 al 29.98 % de descuento'
 date: 2020-06-22 11:51:59
-image: 'https://m.media-amazon.com/images/I/41MvNkLTWaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41MvNkLTWaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.07'
 
 Está [adidas Tights Mallas  Mujer  Black  44](https://www.amazon.es/dp/B081TNXP1D/?tag=tolees-21) con 29.98 de descuento por 23.07 EUR (original: 32.95 EUR) en el siguiente enlace!
 
-[![adidas Tights Mallas  Mujer  Black  44](https://m.media-amazon.com/images/I/41MvNkLTWaL._SL200_.jpg)](https://www.amazon.es/dp/B081TNXP1D/?tag=tolees-21)
+[![adidas Tights Mallas  Mujer  Black  44](https://m.media-amazon.com/images/I/41MvNkLTWaL._SL400_.jpg)](https://www.amazon.es/dp/B081TNXP1D/?tag=tolees-21)
 
 ℹ️:
 

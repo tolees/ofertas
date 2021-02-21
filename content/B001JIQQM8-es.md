@@ -2,7 +2,7 @@
 layout: post
 title: 'Goobay 51824 - Cable HDMI  1080p  3D  10 con un 31.22 % de descuento'
 date: 2020-10-07 22:06:04
-image: 'https://m.media-amazon.com/images/I/31Tlg9VZaKL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Tlg9VZaKL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.56'
 
 En este momento está [Goobay 51824 - Cable HDMI  1080p  3D  10 m   negro](https://www.amazon.es/dp/B001JIQQM8/?tag=tolees-21) a 9.56 EUR (original: 13.9 EUR) (31.22 %  de descuento) en el siguiente enlace!
 
-[![Goobay 51824 - Cable HDMI  1080p  3D  10](https://m.media-amazon.com/images/I/31Tlg9VZaKL._SL200_.jpg)](https://www.amazon.es/dp/B001JIQQM8/?tag=tolees-21)
+[![Goobay 51824 - Cable HDMI  1080p  3D  10](https://m.media-amazon.com/images/I/31Tlg9VZaKL._SL400_.jpg)](https://www.amazon.es/dp/B001JIQQM8/?tag=tolees-21)
 
 🔎:
 

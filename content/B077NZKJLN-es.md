@@ -2,7 +2,7 @@
 layout: post
 title: 'Inception  4K Ultra Hd+Blu Ray  [Italia] al 60.81 % de descuento'
 date: 2020-03-05 09:21:25
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51Sc1nqGU%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Sc1nqGU%2BL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.13'
 
 Ahora mismo tienes [Inception  4K Ultra Hd+Blu Ray  [Italia] [Blu-ray]](https://www.amazon.es/dp/B077NZKJLN/?tag=tolees-21) a 11.13 EUR (original: 28.4 EUR) (60.81 %  de descuento) en el siguiente enlace!
 
-[![Inception  4K Ultra Hd+Blu Ray  [Italia]](https://images-eu.ssl-images-amazon.com/images/I/51Sc1nqGU%2BL._SL200_.jpg)](https://www.amazon.es/dp/B077NZKJLN/?tag=tolees-21)
+[![Inception  4K Ultra Hd+Blu Ray  [Italia]](https://images-eu.ssl-images-amazon.com/images/I/51Sc1nqGU%2BL._SL400_.jpg)](https://www.amazon.es/dp/B077NZKJLN/?tag=tolees-21)
 
 🔎:
 

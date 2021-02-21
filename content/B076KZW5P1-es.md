@@ -2,7 +2,7 @@
 layout: post
 title: 'find. Cazadora Bomber Mujer  Rosa  Pink  al 60.00 % de descuento'
 date: 2020-01-05 10:15:31
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51aYjkV80ZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51aYjkV80ZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.5'
 
 Está [find. Cazadora Bomber Mujer  Rosa  Pink Black Mix   36  Talla del fabricante: X-Small ](https://www.amazon.es/dp/B076KZW5P1/?tag=tolees-21) con 60.00 de descuento por 16.5 EUR (original: 41.25 EUR) en el siguiente enlace!
 
-[![find. Cazadora Bomber Mujer  Rosa  Pink ](https://images-eu.ssl-images-amazon.com/images/I/51aYjkV80ZL._SL200_.jpg)](https://www.amazon.es/dp/B076KZW5P1/?tag=tolees-21)
+[![find. Cazadora Bomber Mujer  Rosa  Pink ](https://images-eu.ssl-images-amazon.com/images/I/51aYjkV80ZL._SL400_.jpg)](https://www.amazon.es/dp/B076KZW5P1/?tag=tolees-21)
 
 ℹ️:
 

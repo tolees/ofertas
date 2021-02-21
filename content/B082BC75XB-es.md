@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 84.00 % en Icons Corner Pack 4 sillas Negra Patas N'
 date: 2020-01-13 23:37:45
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31h4nvOWmFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31h4nvOWmFL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '79.99'
 
 Tienes [Icons Corner Pack 4 sillas Negra Patas Negras IMS Modelo Eiffel](https://www.amazon.es/dp/B082BC75XB/?tag=tolees-21) con un 84.00 % de descuento con precio de oferta de 79.99 EUR (original: 499.95 EUR) en el siguiente enlace!
 
-[![Icons Corner Pack 4 sillas Negra Patas N](https://images-eu.ssl-images-amazon.com/images/I/31h4nvOWmFL._SL200_.jpg)](https://www.amazon.es/dp/B082BC75XB/?tag=tolees-21)
+[![Icons Corner Pack 4 sillas Negra Patas N](https://images-eu.ssl-images-amazon.com/images/I/31h4nvOWmFL._SL400_.jpg)](https://www.amazon.es/dp/B082BC75XB/?tag=tolees-21)
 
 ℹ️:
 

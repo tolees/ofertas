@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 27.50 % en Fila Leggings Flex 2.0 negro talla: M  M'
 date: 2020-04-27 10:31:43
-image: 'https://m.media-amazon.com/images/I/31Q9ZeV4ErL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Q9ZeV4ErL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.0'
 
 Tienes [Fila Leggings Flex 2.0 negro talla: M  Medium ](https://www.amazon.es/dp/B078HTQ5KC/?tag=tolees-21) con un 27.50 % de descuento con precio de oferta de 29.0 EUR (original: 40.0 EUR) en el siguiente enlace!
 
-[![Fila Leggings Flex 2.0 negro talla: M  M](https://m.media-amazon.com/images/I/31Q9ZeV4ErL._SL200_.jpg)](https://www.amazon.es/dp/B078HTQ5KC/?tag=tolees-21)
+[![Fila Leggings Flex 2.0 negro talla: M  M](https://m.media-amazon.com/images/I/31Q9ZeV4ErL._SL400_.jpg)](https://www.amazon.es/dp/B078HTQ5KC/?tag=tolees-21)
 
 ℹ️:
 

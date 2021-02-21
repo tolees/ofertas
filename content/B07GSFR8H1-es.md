@@ -2,7 +2,7 @@
 layout: post
 title: 'NIVEA Creme en pack de 4  4 x 400 ml   c al 27.32 % de descuento'
 date: 2020-10-04 21:00:13
-image: 'https://m.media-amazon.com/images/I/41-kcngbsyL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41-kcngbsyL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.4475'
 
 Está [NIVEA Creme en pack de 4  4 x 400 ml   crema hidratante de manos  cara y cuerpo para toda la familia  crema universal para una piel suave e hidratada  crema multiusos](https://www.amazon.es/dp/B07GSFR8H1/?tag=tolees-21) con 27.32 de descuento por 15.96 EUR (original: 21.96 EUR) en el siguiente enlace!
 
-[![NIVEA Creme en pack de 4  4 x 400 ml   c](https://m.media-amazon.com/images/I/41-kcngbsyL._SL200_.jpg)](https://www.amazon.es/dp/B07GSFR8H1/?tag=tolees-21)
+[![NIVEA Creme en pack de 4  4 x 400 ml   c](https://m.media-amazon.com/images/I/41-kcngbsyL._SL400_.jpg)](https://www.amazon.es/dp/B07GSFR8H1/?tag=tolees-21)
 
 ℹ️:
 

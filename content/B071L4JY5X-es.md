@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 30.02 % en caja del anillo LED - ALLEU caja joyero '
 date: 2020-05-29 19:57:28
-image: 'https://m.media-amazon.com/images/I/31ndu+qvPGL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31ndu+qvPGL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.99'
 
 Tienes [caja del anillo LED - ALLEU caja joyero de para compromiso y boda  negro ](https://www.amazon.es/dp/B071L4JY5X/?tag=tolees-21) con un 30.02 % de descuento con precio de oferta de 13.99 EUR (original: 19.99 EUR) en el siguiente enlace!
 
-[![caja del anillo LED - ALLEU caja joyero ](https://m.media-amazon.com/images/I/31ndu+qvPGL._SL200_.jpg)](https://www.amazon.es/dp/B071L4JY5X/?tag=tolees-21)
+[![caja del anillo LED - ALLEU caja joyero ](https://m.media-amazon.com/images/I/31ndu+qvPGL._SL400_.jpg)](https://www.amazon.es/dp/B071L4JY5X/?tag=tolees-21)
 
 ℹ️:
 

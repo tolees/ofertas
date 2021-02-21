@@ -2,7 +2,7 @@
 layout: post
 title: 'New Balance Wx624Wb4 - entrenamiento/cor al 59.09 % de rebaja'
 date: 2020-06-10 09:25:01
-image: 'https://m.media-amazon.com/images/I/31dPBXfUYeL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31dPBXfUYeL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '30.868'
 
 Tienes [New Balance Wx624Wb4 - entrenamiento/correr de cuero mujer  Blanco  White/Blue   36 EU  3.5 UK ](https://www.amazon.es/dp/B010FR4IQO/?tag=tolees-21) con precio final de  28.64 EUR (original: 70.0 EUR) (59.09 %  de rebaja) aqui!
 
-[![New Balance Wx624Wb4 - entrenamiento/cor](https://m.media-amazon.com/images/I/31dPBXfUYeL._SL200_.jpg)](https://www.amazon.es/dp/B010FR4IQO/?tag=tolees-21)
+[![New Balance Wx624Wb4 - entrenamiento/cor](https://m.media-amazon.com/images/I/31dPBXfUYeL._SL400_.jpg)](https://www.amazon.es/dp/B010FR4IQO/?tag=tolees-21)
 
 🔎:
 

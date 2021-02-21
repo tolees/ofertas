@@ -2,7 +2,7 @@
 layout: post
 title: 'Transcend StoreJet 500 - 512GB SSD Exter al 55.57 % de rebaja'
 date: 2020-05-27 19:31:29
-image: 'https://m.media-amazon.com/images/I/31qFavDcykL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31qFavDcykL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '199.19'
 
 Tienes [Transcend StoreJet 500 - 512GB SSD Externo Metálico para Mac con doble conexión: Thunderbold & USB 3.1. Gen 1](https://www.amazon.es/dp/B00NV9LSEE/?tag=tolees-21) con precio final de  203.83 EUR (original: 458.81 EUR) (55.57 %  de rebaja) aqui!
 
-[![Transcend StoreJet 500 - 512GB SSD Exter](https://m.media-amazon.com/images/I/31qFavDcykL._SL200_.jpg)](https://www.amazon.es/dp/B00NV9LSEE/?tag=tolees-21)
+[![Transcend StoreJet 500 - 512GB SSD Exter](https://m.media-amazon.com/images/I/31qFavDcykL._SL400_.jpg)](https://www.amazon.es/dp/B00NV9LSEE/?tag=tolees-21)
 
 🔎:
 

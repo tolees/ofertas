@@ -2,7 +2,7 @@
 layout: post
 title: 'Superdry Sweat Shirt Shop Duo Hood suéte con un 40.01 % de descuento'
 date: 2020-06-09 10:28:39
-image: 'https://m.media-amazon.com/images/I/414A9Ig9-WL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/414A9Ig9-WL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '47.99'
 
 En este momento está [Superdry Sweat Shirt Shop Duo Hood suéter  Gris  Ice Marl 54G   S para Hombre](https://www.amazon.es/dp/B07F8HJGFJ/?tag=tolees-21) a 47.99 EUR (original: 79.99 EUR) (40.01 %  de descuento) en el siguiente enlace!
 
-[![Superdry Sweat Shirt Shop Duo Hood suéte](https://m.media-amazon.com/images/I/414A9Ig9-WL._SL200_.jpg)](https://www.amazon.es/dp/B07F8HJGFJ/?tag=tolees-21)
+[![Superdry Sweat Shirt Shop Duo Hood suéte](https://m.media-amazon.com/images/I/414A9Ig9-WL._SL400_.jpg)](https://www.amazon.es/dp/B07F8HJGFJ/?tag=tolees-21)
 
 🔎:
 

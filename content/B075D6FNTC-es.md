@@ -2,7 +2,7 @@
 layout: post
 title: 'EIS  Lubricante Deluxe Aqua sandía  efec al 80.03 % de descuento'
 date: 2020-03-11 07:15:24
-image: 'https://m.media-amazon.com/images/I/31nmLx4dFeL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31nmLx4dFeL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.99'
 
 Está [EIS  Lubricante Deluxe Aqua sandía  efecto de larga duración acuoso  300ml](https://www.amazon.es/dp/B075D6FNTC/?tag=tolees-21) con 80.03 de descuento por 5.99 EUR (original: 30.0 EUR) en el siguiente enlace!
 
-[![EIS  Lubricante Deluxe Aqua sandía  efec](https://m.media-amazon.com/images/I/31nmLx4dFeL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B075D6FNTC/?tag=tolees-21)
+[![EIS  Lubricante Deluxe Aqua sandía  efec](https://m.media-amazon.com/images/I/31nmLx4dFeL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B075D6FNTC/?tag=tolees-21)
 
 ℹ️:
 

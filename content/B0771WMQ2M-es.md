@@ -2,7 +2,7 @@
 layout: post
 title: 'Art 1351 Memphis Pedrera  Zapatillas par al 60.65 % de descuento'
 date: 2020-01-27 23:49:41
-image: 'https://m.media-amazon.com/images/I/51VfaIGV3dL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51VfaIGV3dL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '39.33'
 
 Ahora mismo tienes [Art 1351 Memphis Pedrera  Zapatillas para Mujer  Naranja  Mandarin   39 EU](https://www.amazon.es/dp/B0771WMQ2M/?tag=tolees-21) a 39.33 EUR (original: 99.95 EUR) (60.65 %  de descuento) en el siguiente enlace!
 
-[![Art 1351 Memphis Pedrera  Zapatillas par](https://m.media-amazon.com/images/I/51VfaIGV3dL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B0771WMQ2M/?tag=tolees-21)
+[![Art 1351 Memphis Pedrera  Zapatillas par](https://m.media-amazon.com/images/I/51VfaIGV3dL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B0771WMQ2M/?tag=tolees-21)
 
 🔎:
 

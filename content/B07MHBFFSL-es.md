@@ -2,7 +2,7 @@
 layout: post
 title: 'Star vie Aquila Pro al 50.00 % de descuento'
 date: 2020-01-22 15:39:20
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51w%2B4CyTSvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51w%2B4CyTSvL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '102.5'
 
 Ahora mismo tienes [Star vie Aquila Pro](https://www.amazon.es/dp/B07MHBFFSL/?tag=tolees-21) a 102.5 EUR (original: 204.99 EUR) (50.00 %  de descuento) en el siguiente enlace!
 
-[![Star vie Aquila Pro](https://images-eu.ssl-images-amazon.com/images/I/51w%2B4CyTSvL._SL200_.jpg)](https://www.amazon.es/dp/B07MHBFFSL/?tag=tolees-21)
+[![Star vie Aquila Pro](https://images-eu.ssl-images-amazon.com/images/I/51w%2B4CyTSvL._SL400_.jpg)](https://www.amazon.es/dp/B07MHBFFSL/?tag=tolees-21)
 
 🔎:
 

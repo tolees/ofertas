@@ -2,7 +2,7 @@
 layout: post
 title: 'Cables To Go Mini Gender Changer - Cambi con un 36.63 % de descuento'
 date: 2020-06-11 19:32:14
-image: 'https://m.media-amazon.com/images/I/41MrmUC-G1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41MrmUC-G1L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.54'
 
 En este momento está [Cables To Go Mini Gender Changer - Cambiador hembra /hembra  Para Serie - Db-9  H  - Db-9  H ](https://www.amazon.es/dp/B001U3ZOVG/?tag=tolees-21) a 5.31 EUR (original: 8.38 EUR) (36.63 %  de descuento) en el siguiente enlace!
 
-[![Cables To Go Mini Gender Changer - Cambi](https://m.media-amazon.com/images/I/41MrmUC-G1L._SL200_.jpg)](https://www.amazon.es/dp/B001U3ZOVG/?tag=tolees-21)
+[![Cables To Go Mini Gender Changer - Cambi](https://m.media-amazon.com/images/I/41MrmUC-G1L._SL400_.jpg)](https://www.amazon.es/dp/B001U3ZOVG/?tag=tolees-21)
 
 🔎:
 

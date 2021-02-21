@@ -2,7 +2,7 @@
 layout: post
 title: 'Asics Gel-Pulse 9  Zapatillas de Entrena al 41.57 % de descuento'
 date: 2020-02-06 10:10:28
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51hb22VoV%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51hb22VoV%2BL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '59.89'
 
 Ahora mismo tienes [Asics Gel-Pulse 9  Zapatillas de Entrenamiento para Mujer  Azul  Porcelain Blue/White/Bleu Victoria 1401   37.5 EU](https://www.amazon.es/dp/B078MDPC2Y/?tag=tolees-21) a 59.89 EUR (original: 102.49 EUR) (41.57 %  de descuento) en el siguiente enlace!
 
-[![Asics Gel-Pulse 9  Zapatillas de Entrena](https://images-eu.ssl-images-amazon.com/images/I/51hb22VoV%2BL._SL200_.jpg)](https://www.amazon.es/dp/B078MDPC2Y/?tag=tolees-21)
+[![Asics Gel-Pulse 9  Zapatillas de Entrena](https://images-eu.ssl-images-amazon.com/images/I/51hb22VoV%2BL._SL400_.jpg)](https://www.amazon.es/dp/B078MDPC2Y/?tag=tolees-21)
 
 🔎:
 

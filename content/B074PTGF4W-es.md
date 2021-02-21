@@ -2,7 +2,7 @@
 layout: post
 title: 'Saucony Jazz O Vintage  Zapatillas de Cr al 37.83 % de rebaja'
 date: 2020-10-05 01:37:24
-image: 'https://m.media-amazon.com/images/I/51Z49yrbt1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Z49yrbt1L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '51.07'
 
 Tienes [Saucony Jazz O Vintage  Zapatillas de Cross para Hombre  Azul  Blue/Navy/ Silver 4   37 EU](https://www.amazon.es/dp/B074PTGF4W/?tag=tolees-21) con precio final de  51.07 EUR (original: 82.14 EUR) (37.83 %  de rebaja) aqui!
 
-[![Saucony Jazz O Vintage  Zapatillas de Cr](https://m.media-amazon.com/images/I/51Z49yrbt1L._SL200_.jpg)](https://www.amazon.es/dp/B074PTGF4W/?tag=tolees-21)
+[![Saucony Jazz O Vintage  Zapatillas de Cr](https://m.media-amazon.com/images/I/51Z49yrbt1L._SL400_.jpg)](https://www.amazon.es/dp/B074PTGF4W/?tag=tolees-21)
 
 🔎:
 

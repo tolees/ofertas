@@ -2,7 +2,7 @@
 layout: post
 title: 'Grohe Grohtherm SmartControl  - Termosta con un 45.14 % de descuento'
 date: 2020-04-20 13:32:01
-image: 'https://m.media-amazon.com/images/I/41gDqTc04mL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41gDqTc04mL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '331.21'
 
 En este momento está [Grohe Grohtherm SmartControl  - Termostato cuadrado para ducha y baño con instalación empotrada y dos válvulas  Cromo  Ref. 29124000 ](https://www.amazon.es/dp/B072J5B8HW/?tag=tolees-21) a 331.21 EUR (original: 603.79 EUR) (45.14 %  de descuento) en el siguiente enlace!
 
-[![Grohe Grohtherm SmartControl  - Termosta](https://m.media-amazon.com/images/I/41gDqTc04mL._SL200_.jpg)](https://www.amazon.es/dp/B072J5B8HW/?tag=tolees-21)
+[![Grohe Grohtherm SmartControl  - Termosta](https://m.media-amazon.com/images/I/41gDqTc04mL._SL400_.jpg)](https://www.amazon.es/dp/B072J5B8HW/?tag=tolees-21)
 
 🔎:
 

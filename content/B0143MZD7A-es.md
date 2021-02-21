@@ -2,7 +2,7 @@
 layout: post
 title: 'Flexible LED Brillante Luz USB Alimentad al 50.26 % de descuento'
 date: 2020-08-15 12:50:32
-image: 'https://m.media-amazon.com/images/I/41oxvme8nyL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41oxvme8nyL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.94'
 
 Ahora mismo tienes [Flexible LED Brillante Luz USB Alimentado Multi Propósito Ordenador Portátil PC Negro](https://www.amazon.es/dp/B0143MZD7A/?tag=tolees-21) a 1.94 EUR (original: 3.9 EUR) (50.26 %  de descuento) en el siguiente enlace!
 
-[![Flexible LED Brillante Luz USB Alimentad](https://m.media-amazon.com/images/I/41oxvme8nyL._SL200_.jpg)](https://www.amazon.es/dp/B0143MZD7A/?tag=tolees-21)
+[![Flexible LED Brillante Luz USB Alimentad](https://m.media-amazon.com/images/I/41oxvme8nyL._SL400_.jpg)](https://www.amazon.es/dp/B0143MZD7A/?tag=tolees-21)
 
 🔎:
 

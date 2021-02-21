@@ -2,7 +2,7 @@
 layout: post
 title: 'HAOT 10Pcs Kick Shuttlecock Colorful Fea al 44.74 % de rebaja'
 date: 2020-05-26 15:02:04
-image: 'https://m.media-amazon.com/images/I/41luWgaV4IL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41luWgaV4IL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '41.99'
 
 Tienes [HAOT 10Pcs Kick Shuttlecock Colorful Feather Jianzi Goose Rubber Foot Kicking Shuttlecock para Deportes al Aire Libre Fitness](https://www.amazon.es/dp/B087WZ6G9L/?tag=tolees-21) con precio final de  41.99 EUR (original: 75.99 EUR) (44.74 %  de rebaja) aqui!
 
-[![HAOT 10Pcs Kick Shuttlecock Colorful Fea](https://m.media-amazon.com/images/I/41luWgaV4IL._SL200_.jpg)](https://www.amazon.es/dp/B087WZ6G9L/?tag=tolees-21)
+[![HAOT 10Pcs Kick Shuttlecock Colorful Fea](https://m.media-amazon.com/images/I/41luWgaV4IL._SL400_.jpg)](https://www.amazon.es/dp/B087WZ6G9L/?tag=tolees-21)
 
 🔎:
 

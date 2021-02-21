@@ -2,7 +2,7 @@
 layout: post
 title: 'Arcilla Seca al Aire  24 Colores Arcilla con un 50.29 % de descuento'
 date: 2020-08-25 15:37:43
-image: 'https://m.media-amazon.com/images/I/51OqMHVS1aL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51OqMHVS1aL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.439999999999998'
 
 En este momento está [Arcilla Seca al Aire  24 Colores Arcilla de Modelado Ultra Ligero  arcilla mágica iFergoo DIY Creativa Modeladora de Masa con Modos de Frutas y Herramientas de Arcilla de Modelado](https://www.amazon.es/dp/B06XF5G8NN/?tag=tolees-21) a 14.35 EUR (original: 28.87 EUR) (50.29 %  de descuento) en el siguiente enlace!
 
-[![Arcilla Seca al Aire  24 Colores Arcilla](https://m.media-amazon.com/images/I/51OqMHVS1aL._SL200_.jpg)](https://www.amazon.es/dp/B06XF5G8NN/?tag=tolees-21)
+[![Arcilla Seca al Aire  24 Colores Arcilla](https://m.media-amazon.com/images/I/51OqMHVS1aL._SL400_.jpg)](https://www.amazon.es/dp/B06XF5G8NN/?tag=tolees-21)
 
 🔎:
 

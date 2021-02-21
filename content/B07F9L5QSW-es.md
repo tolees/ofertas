@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 59.21 % en adidas 3Mc  Zapatillas de Skateboard Uni'
 date: 2020-03-12 15:53:17
-image: 'https://m.media-amazon.com/images/I/31A6rkgAAKL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31A6rkgAAKL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '26.49'
 
 Tienes [adidas 3Mc  Zapatillas de Skateboard Unisex Adulto  Negro  Core Black/Core Black/FTWR White Core Black/Core Black/FTWR White   41 1/3 EU](https://www.amazon.es/dp/B07F9L5QSW/?tag=tolees-21) con un 59.21 % de descuento con precio de oferta de 26.49 EUR (original: 64.95 EUR) en el siguiente enlace!
 
-[![adidas 3Mc  Zapatillas de Skateboard Uni](https://m.media-amazon.com/images/I/31A6rkgAAKL._SL200_.jpg)](https://www.amazon.es/dp/B07F9L5QSW/?tag=tolees-21)
+[![adidas 3Mc  Zapatillas de Skateboard Uni](https://m.media-amazon.com/images/I/31A6rkgAAKL._SL400_.jpg)](https://www.amazon.es/dp/B07F9L5QSW/?tag=tolees-21)
 
 ℹ️:
 

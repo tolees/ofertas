@@ -2,7 +2,7 @@
 layout: post
 title: 'Citizen Reloj Analogico para Hombre de E al 29.96 % de rebaja'
 date: 2020-07-31 05:24:06
-image: 'https://m.media-amazon.com/images/I/51x2MA4yceL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51x2MA4yceL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '195.005'
 
 Tienes [Citizen Reloj Analogico para Hombre de Energía Solar con Correa en Acero Inoxidable BN0191-80L](https://www.amazon.es/dp/B075GN9YBT/?tag=tolees-21) con precio final de  195.41 EUR (original: 279.0 EUR) (29.96 %  de rebaja) aqui!
 
-[![Citizen Reloj Analogico para Hombre de E](https://m.media-amazon.com/images/I/51x2MA4yceL._SL200_.jpg)](https://www.amazon.es/dp/B075GN9YBT/?tag=tolees-21)
+[![Citizen Reloj Analogico para Hombre de E](https://m.media-amazon.com/images/I/51x2MA4yceL._SL400_.jpg)](https://www.amazon.es/dp/B075GN9YBT/?tag=tolees-21)
 
 🔎:
 

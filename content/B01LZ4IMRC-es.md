@@ -2,7 +2,7 @@
 layout: post
 title: 'Chiruca-MANAOS 08 GORE-TEX al 40.02 % de rebaja'
 date: 2020-02-03 07:57:45
-image: 'https://m.media-amazon.com/images/I/31xtSBz3hUL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31xtSBz3hUL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '59.95'
 
 Tienes [Chiruca-MANAOS 08 GORE-TEX](https://www.amazon.es/dp/B01LZ4IMRC/?tag=tolees-21) con precio final de  59.95 EUR (original: 99.95 EUR) (40.02 %  de rebaja) aqui!
 
-[![Chiruca-MANAOS 08 GORE-TEX](https://m.media-amazon.com/images/I/31xtSBz3hUL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01LZ4IMRC/?tag=tolees-21)
+[![Chiruca-MANAOS 08 GORE-TEX](https://m.media-amazon.com/images/I/31xtSBz3hUL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01LZ4IMRC/?tag=tolees-21)
 
 🔎:
 

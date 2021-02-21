@@ -2,7 +2,7 @@
 layout: post
 title: 'Intex 64446 - Colchón hinchable fibertec al 33.07 % de rebaja'
 date: 2020-04-29 12:20:02
-image: 'https://m.media-amazon.com/images/I/41Mooj0MXML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Mooj0MXML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '68.42500000000001'
 
 Tienes [Intex 64446 - Colchón hinchable fibertech doble capa  152x203x51 cm](https://www.amazon.es/dp/B01N7C4TFY/?tag=tolees-21) con precio final de  66.9 EUR (original: 99.95 EUR) (33.07 %  de rebaja) aqui!
 
-[![Intex 64446 - Colchón hinchable fibertec](https://m.media-amazon.com/images/I/41Mooj0MXML._SL200_.jpg)](https://www.amazon.es/dp/B01N7C4TFY/?tag=tolees-21)
+[![Intex 64446 - Colchón hinchable fibertec](https://m.media-amazon.com/images/I/41Mooj0MXML._SL400_.jpg)](https://www.amazon.es/dp/B01N7C4TFY/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 30.44 % en mondex 278Y254 - Cubo Ecobin 25L Con Tap'
 date: 2020-09-19 14:05:49
-image: 'https://m.media-amazon.com/images/I/31Av9r+fcIL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Av9r+fcIL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.75'
 
 Tienes [mondex 278Y254 - Cubo Ecobin 25L Con Tapa Azul](https://www.amazon.es/dp/B00KPPQKJA/?tag=tolees-21) con un 30.44 % de descuento con precio de oferta de 12.75 EUR (original: 18.33 EUR) en el siguiente enlace!
 
-[![mondex 278Y254 - Cubo Ecobin 25L Con Tap](https://m.media-amazon.com/images/I/31Av9r+fcIL._SL200_.jpg)](https://www.amazon.es/dp/B00KPPQKJA/?tag=tolees-21)
+[![mondex 278Y254 - Cubo Ecobin 25L Con Tap](https://m.media-amazon.com/images/I/31Av9r+fcIL._SL400_.jpg)](https://www.amazon.es/dp/B00KPPQKJA/?tag=tolees-21)
 
 ℹ️:
 

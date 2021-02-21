@@ -2,7 +2,7 @@
 layout: post
 title: 'SRJ2018 Playa Palmeras en Ocean Heaven T al 53.14 % de rebaja'
 date: 2020-07-23 16:32:32
-image: 'https://m.media-amazon.com/images/I/51q7L5HQghL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51q7L5HQghL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.49'
 
 Tienes [SRJ2018 Playa Palmeras en Ocean Heaven Tumbonas Balcón Blanco Ventanasde Madera Verano Tropical de con Azul Verde](https://www.amazon.es/dp/B07V3ZMWR4/?tag=tolees-21) con precio final de  16.49 EUR (original: 35.19 EUR) (53.14 %  de rebaja) aqui!
 
-[![SRJ2018 Playa Palmeras en Ocean Heaven T](https://m.media-amazon.com/images/I/51q7L5HQghL._SL200_.jpg)](https://www.amazon.es/dp/B07V3ZMWR4/?tag=tolees-21)
+[![SRJ2018 Playa Palmeras en Ocean Heaven T](https://m.media-amazon.com/images/I/51q7L5HQghL._SL400_.jpg)](https://www.amazon.es/dp/B07V3ZMWR4/?tag=tolees-21)
 
 🔎:
 

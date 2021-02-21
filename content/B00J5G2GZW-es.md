@@ -2,7 +2,7 @@
 layout: post
 title: 'HARTMANN - TIRITAS PLASTIC 20 UN al 94.89 % de descuento'
 date: 2020-03-02 11:29:31
-image: 'https://m.media-amazon.com/images/I/51l9yCZ4qxL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51l9yCZ4qxL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '0.47'
 
 Ahora mismo tienes [HARTMANN - TIRITAS PLASTIC 20 UN](https://www.amazon.es/dp/B00J5G2GZW/?tag=tolees-21) a 0.47 EUR (original: 9.19 EUR) (94.89 %  de descuento) en el siguiente enlace!
 
-[![HARTMANN - TIRITAS PLASTIC 20 UN](https://m.media-amazon.com/images/I/51l9yCZ4qxL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B00J5G2GZW/?tag=tolees-21)
+[![HARTMANN - TIRITAS PLASTIC 20 UN](https://m.media-amazon.com/images/I/51l9yCZ4qxL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B00J5G2GZW/?tag=tolees-21)
 
 🔎:
 

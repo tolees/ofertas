@@ -2,7 +2,7 @@
 layout: post
 title: 'Columbia Powder Lite Forro Polar  Mujer  al 39.18 % de rebaja'
 date: 2020-02-29 16:40:23
-image: 'https://m.media-amazon.com/images/I/41eqQKjIdFL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41eqQKjIdFL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '54.73'
 
 Tienes [Columbia Powder Lite Forro Polar  Mujer  Color: Azul  Nocturnal   Talla: L](https://www.amazon.es/dp/B07RCNV9DY/?tag=tolees-21) con precio final de  54.73 EUR (original: 89.99 EUR) (39.18 %  de rebaja) aqui!
 
-[![Columbia Powder Lite Forro Polar  Mujer ](https://m.media-amazon.com/images/I/41eqQKjIdFL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07RCNV9DY/?tag=tolees-21)
+[![Columbia Powder Lite Forro Polar  Mujer ](https://m.media-amazon.com/images/I/41eqQKjIdFL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07RCNV9DY/?tag=tolees-21)
 
 🔎:
 

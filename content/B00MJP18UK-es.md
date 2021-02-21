@@ -2,7 +2,7 @@
 layout: post
 title: 'Sunstech RPR4000  Radio de Sobremesa  Ma con un 28.61 % de descuento'
 date: 2020-03-18 20:17:05
-image: 'https://m.media-amazon.com/images/I/41mWiHJNEYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41mWiHJNEYL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '34.24'
 
 En este momento está [Sunstech RPR4000  Radio de Sobremesa  Madera](https://www.amazon.es/dp/B00MJP18UK/?tag=tolees-21) a 35.69 EUR (original: 49.99 EUR) (28.61 %  de descuento) en el siguiente enlace!
 
-[![Sunstech RPR4000  Radio de Sobremesa  Ma](https://m.media-amazon.com/images/I/41mWiHJNEYL._SL200_.jpg)](https://www.amazon.es/dp/B00MJP18UK/?tag=tolees-21)
+[![Sunstech RPR4000  Radio de Sobremesa  Ma](https://m.media-amazon.com/images/I/41mWiHJNEYL._SL400_.jpg)](https://www.amazon.es/dp/B00MJP18UK/?tag=tolees-21)
 
 🔎:
 

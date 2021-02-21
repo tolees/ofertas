@@ -2,7 +2,7 @@
 layout: post
 title: '100pcs / Set Hoja conductora Profesional al 34.97 % de rebaja'
 date: 2020-05-26 15:03:04
-image: 'https://m.media-amazon.com/images/I/41TKGJizHnL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41TKGJizHnL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.24'
 
 Tienes [100pcs / Set Hoja conductora Profesional 2.5x0.5CM Pestaña de Soldadura Adecuada para Celdas de batería Recargable 18650 Plata - Plata](https://www.amazon.es/dp/B084RBLGTP/?tag=tolees-21) con precio final de  4.24 EUR (original: 6.52 EUR) (34.97 %  de rebaja) aqui!
 
-[![100pcs / Set Hoja conductora Profesional](https://m.media-amazon.com/images/I/41TKGJizHnL._SL200_.jpg)](https://www.amazon.es/dp/B084RBLGTP/?tag=tolees-21)
+[![100pcs / Set Hoja conductora Profesional](https://m.media-amazon.com/images/I/41TKGJizHnL._SL400_.jpg)](https://www.amazon.es/dp/B084RBLGTP/?tag=tolees-21)
 
 🔎:
 

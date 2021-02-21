@@ -2,7 +2,7 @@
 layout: post
 title: 'Dim Invisi Fit Sujetador  New Skin  90C  con un 65.25 % de descuento'
 date: 2020-06-17 06:02:18
-image: 'https://m.media-amazon.com/images/I/41l3UU5SQbL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41l3UU5SQbL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.0'
 
 En este momento está [Dim Invisi Fit Sujetador  New Skin  90C para Mujer](https://www.amazon.es/dp/B0163EGZTQ/?tag=tolees-21) a 9.0 EUR (original: 25.9 EUR) (65.25 %  de descuento) en el siguiente enlace!
 
-[![Dim Invisi Fit Sujetador  New Skin  90C ](https://m.media-amazon.com/images/I/41l3UU5SQbL._SL200_.jpg)](https://www.amazon.es/dp/B0163EGZTQ/?tag=tolees-21)
+[![Dim Invisi Fit Sujetador  New Skin  90C ](https://m.media-amazon.com/images/I/41l3UU5SQbL._SL400_.jpg)](https://www.amazon.es/dp/B0163EGZTQ/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Columbia Trans Alps F.k.t. II  Zapatilla al 50.03 % de descuento'
 date: 2020-01-13 18:19:26
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41qyDCGRbqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41qyDCGRbqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '69.95'
 
 Está [Columbia Trans Alps F.k.t. II  Zapatillas de Running para Asfalto para Hombre  Azul  Zinc  Red Quartz 492   44 EU](https://www.amazon.es/dp/B07DVX1KLF/?tag=tolees-21) con 50.03 de descuento por 69.95 EUR (original: 139.99 EUR) en el siguiente enlace!
 
-[![Columbia Trans Alps F.k.t. II  Zapatilla](https://images-eu.ssl-images-amazon.com/images/I/41qyDCGRbqL._SL200_.jpg)](https://www.amazon.es/dp/B07DVX1KLF/?tag=tolees-21)
+[![Columbia Trans Alps F.k.t. II  Zapatilla](https://images-eu.ssl-images-amazon.com/images/I/41qyDCGRbqL._SL400_.jpg)](https://www.amazon.es/dp/B07DVX1KLF/?tag=tolees-21)
 
 ℹ️:
 

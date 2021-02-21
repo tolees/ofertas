@@ -2,7 +2,7 @@
 layout: post
 title: 'ELEGOO 32 Piezas Doble Cara Junta de PCB al 35.02 % de descuento'
 date: 2020-08-04 15:31:57
-image: 'https://m.media-amazon.com/images/I/61I5sx3eFAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61I5sx3eFAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.99'
 
 Está [ELEGOO 32 Piezas Doble Cara Junta de PCB Doble Cara Tarjeta Placa Prototipo Kit para Soldadura DIY con 5 Tamaños Compatible con los kits Arduino](https://www.amazon.es/dp/B074M46VVS/?tag=tolees-21) con 35.02 de descuento por 12.99 EUR (original: 19.99 EUR) en el siguiente enlace!
 
-[![ELEGOO 32 Piezas Doble Cara Junta de PCB](https://m.media-amazon.com/images/I/61I5sx3eFAL._SL200_.jpg)](https://www.amazon.es/dp/B074M46VVS/?tag=tolees-21)
+[![ELEGOO 32 Piezas Doble Cara Junta de PCB](https://m.media-amazon.com/images/I/61I5sx3eFAL._SL400_.jpg)](https://www.amazon.es/dp/B074M46VVS/?tag=tolees-21)
 
 ℹ️:
 

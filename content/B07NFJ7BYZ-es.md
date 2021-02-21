@@ -2,7 +2,7 @@
 layout: post
 title: 'Casio Reloj Analógico para Unisex Adulto al 45.77 % de descuento'
 date: 2020-08-02 19:32:11
-image: 'https://m.media-amazon.com/images/I/51Vr4ekN9tL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Vr4ekN9tL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.166874999999997'
 
 Ahora mismo tienes [Casio Reloj Analógico para Unisex Adultos de Cuarzo con Correa en Resina MW-240-7EVEF](https://www.amazon.es/dp/B07NFJ7BYZ/?tag=tolees-21) a 18.0 EUR (original: 33.19 EUR) (45.77 %  de descuento) en el siguiente enlace!
 
-[![Casio Reloj Analógico para Unisex Adulto](https://m.media-amazon.com/images/I/51Vr4ekN9tL._SL200_.jpg)](https://www.amazon.es/dp/B07NFJ7BYZ/?tag=tolees-21)
+[![Casio Reloj Analógico para Unisex Adulto](https://m.media-amazon.com/images/I/51Vr4ekN9tL._SL400_.jpg)](https://www.amazon.es/dp/B07NFJ7BYZ/?tag=tolees-21)
 
 🔎:
 

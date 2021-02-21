@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 43.56 % en Lámpara LED de Armario  10 LED USB Recar'
 date: 2020-02-22 09:05:08
-image: 'https://m.media-amazon.com/images/I/41KkwPELo8L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41KkwPELo8L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.59'
 
 Tienes [Lámpara LED de Armario  10 LED USB Recargable Barra de Luz Làmpara con Sensor de Movimiento Inalámbrico para Armario  Gabinete  Pasillo  Baño  Cajón [Clase de eficiencia energética A]  1pack ](https://www.amazon.es/dp/B07TVRGLM5/?tag=tolees-21) con un 43.56 % de descuento con precio de oferta de 9.59 EUR (original: 16.99 EUR) en el siguiente enlace!
 
-[![Lámpara LED de Armario  10 LED USB Recar](https://m.media-amazon.com/images/I/41KkwPELo8L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07TVRGLM5/?tag=tolees-21)
+[![Lámpara LED de Armario  10 LED USB Recar](https://m.media-amazon.com/images/I/41KkwPELo8L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07TVRGLM5/?tag=tolees-21)
 
 ℹ️:
 

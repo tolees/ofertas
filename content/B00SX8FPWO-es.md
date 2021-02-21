@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas Solid Crew  Calcetines Unisex Adu con un 38.22 % de descuento'
 date: 2020-03-27 16:34:00
-image: 'https://m.media-amazon.com/images/I/413cqc-K4XL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/413cqc-K4XL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.0'
 
 En este momento está [adidas Solid Crew  Calcetines Unisex Adulto  blanco / negro  43/46  paquete de 3](https://www.amazon.es/dp/B00SX8FPWO/?tag=tolees-21) a 8.0 EUR (original: 12.95 EUR) (38.22 %  de descuento) en el siguiente enlace!
 
-[![adidas Solid Crew  Calcetines Unisex Adu](https://m.media-amazon.com/images/I/413cqc-K4XL._SL200_.jpg)](https://www.amazon.es/dp/B00SX8FPWO/?tag=tolees-21)
+[![adidas Solid Crew  Calcetines Unisex Adu](https://m.media-amazon.com/images/I/413cqc-K4XL._SL400_.jpg)](https://www.amazon.es/dp/B00SX8FPWO/?tag=tolees-21)
 
 🔎:
 

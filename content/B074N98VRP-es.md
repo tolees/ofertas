@@ -2,7 +2,7 @@
 layout: post
 title: 'Canon 12x32 IS - Prismático  12x  diámet con un 44.73 % de descuento'
 date: 2020-03-23 18:42:58
-image: 'https://m.media-amazon.com/images/I/41eVE6y9W8L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41eVE6y9W8L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '811.95'
 
 En este momento está [Canon 12x32 IS - Prismático  12x  diámetro Efectivo de 32 mm  óptica de Prisma Porro II  estabilizador de Imagen motorizado  Negro](https://www.amazon.es/dp/B074N98VRP/?tag=tolees-21) a 811.95 EUR (original: 1469.0 EUR) (44.73 %  de descuento) en el siguiente enlace!
 
-[![Canon 12x32 IS - Prismático  12x  diámet](https://m.media-amazon.com/images/I/41eVE6y9W8L._SL200_.jpg)](https://www.amazon.es/dp/B074N98VRP/?tag=tolees-21)
+[![Canon 12x32 IS - Prismático  12x  diámet](https://m.media-amazon.com/images/I/41eVE6y9W8L._SL400_.jpg)](https://www.amazon.es/dp/B074N98VRP/?tag=tolees-21)
 
 🔎:
 

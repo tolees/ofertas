@@ -2,7 +2,7 @@
 layout: post
 title: 'Asics T722N 2301  Zapatillas de Deporte  con un 62.21 % de descuento'
 date: 2020-03-12 20:45:33
-image: 'https://m.media-amazon.com/images/I/51KoOdoovFL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51KoOdoovFL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '60.44500000000001'
 
 En este momento está [Asics T722N 2301  Zapatillas de Deporte Unisex Adulto   Royal/Black/White   41.5 EU](https://www.amazon.es/dp/B01N1H8LDS/?tag=tolees-21) a 56.63 EUR (original: 149.85 EUR) (62.21 %  de descuento) en el siguiente enlace!
 
-[![Asics T722N 2301  Zapatillas de Deporte ](https://m.media-amazon.com/images/I/51KoOdoovFL._SL200_.jpg)](https://www.amazon.es/dp/B01N1H8LDS/?tag=tolees-21)
+[![Asics T722N 2301  Zapatillas de Deporte ](https://m.media-amazon.com/images/I/51KoOdoovFL._SL400_.jpg)](https://www.amazon.es/dp/B01N1H8LDS/?tag=tolees-21)
 
 🔎:
 

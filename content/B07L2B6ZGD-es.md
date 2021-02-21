@@ -2,7 +2,7 @@
 layout: post
 title: 'Celio Jopry Pantalones  Azul  Navy Océan al 30.18 % de descuento'
 date: 2020-05-22 11:51:59
-image: 'https://m.media-amazon.com/images/I/314JZNZZ6cL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/314JZNZZ6cL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '26.05666666666667'
 
 Está [Celio Jopry Pantalones  Azul  Navy Océano Navy Océano   W32  Talla del fabricante: 40  para Hombre](https://www.amazon.es/dp/B07L2B6ZGD/?tag=tolees-21) con 30.18 de descuento por 27.92 EUR (original: 39.99 EUR) en el siguiente enlace!
 
-[![Celio Jopry Pantalones  Azul  Navy Océan](https://m.media-amazon.com/images/I/314JZNZZ6cL._SL200_.jpg)](https://www.amazon.es/dp/B07L2B6ZGD/?tag=tolees-21)
+[![Celio Jopry Pantalones  Azul  Navy Océan](https://m.media-amazon.com/images/I/314JZNZZ6cL._SL400_.jpg)](https://www.amazon.es/dp/B07L2B6ZGD/?tag=tolees-21)
 
 ℹ️:
 

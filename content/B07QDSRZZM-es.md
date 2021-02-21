@@ -2,7 +2,7 @@
 layout: post
 title: 'FREDI Cámara de vigilancia para Exterior al 54.41 % de descuento'
 date: 2020-01-15 15:46:47
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41DuvTGw04L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41DuvTGw04L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '45.59'
 
 Ahora mismo tienes [FREDI Cámara de vigilancia para Exteriores  1080P HD inalámbrica Seguridad Bullet cámara/Impermeable IP66  Visión Nocturna  Detección de Movimiento/Cámara con Audio bidireccional](https://www.amazon.es/dp/B07QDSRZZM/?tag=tolees-21) a 45.59 EUR (original: 99.99 EUR) (54.41 %  de descuento) en el siguiente enlace!
 
-[![FREDI Cámara de vigilancia para Exterior](https://images-eu.ssl-images-amazon.com/images/I/41DuvTGw04L._SL200_.jpg)](https://www.amazon.es/dp/B07QDSRZZM/?tag=tolees-21)
+[![FREDI Cámara de vigilancia para Exterior](https://images-eu.ssl-images-amazon.com/images/I/41DuvTGw04L._SL400_.jpg)](https://www.amazon.es/dp/B07QDSRZZM/?tag=tolees-21)
 
 🔎:
 

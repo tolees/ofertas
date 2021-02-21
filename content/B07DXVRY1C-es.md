@@ -2,7 +2,7 @@
 layout: post
 title: 'Camiseta/UNDER ARMOUR:FOUNTATION XL al 48.12 % de descuento'
 date: 2020-06-23 06:12:30
-image: 'https://m.media-amazon.com/images/I/31PwBW-1lJL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31PwBW-1lJL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.613333333333333'
 
 Está [Camiseta/UNDER ARMOUR:FOUNTATION XL](https://www.amazon.es/dp/B07DXVRY1C/?tag=tolees-21) con 48.12 de descuento por 13.49 EUR (original: 26.0 EUR) en el siguiente enlace!
 
-[![Camiseta/UNDER ARMOUR:FOUNTATION XL](https://m.media-amazon.com/images/I/31PwBW-1lJL._SL200_.jpg)](https://www.amazon.es/dp/B07DXVRY1C/?tag=tolees-21)
+[![Camiseta/UNDER ARMOUR:FOUNTATION XL](https://m.media-amazon.com/images/I/31PwBW-1lJL._SL400_.jpg)](https://www.amazon.es/dp/B07DXVRY1C/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Vasos para beber 4 PACK-11OZ Restaurante al 60.50 % de rebaja'
 date: 2020-09-27 16:15:00
-image: 'https://m.media-amazon.com/images/I/51ilC3SHT8L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51ilC3SHT8L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.94'
 
 Tienes [Vasos para beber 4 PACK-11OZ Restaurante de color acrílico Copas Party Bar Cerveza Jugo Irrompible Único Acampar Vaso de cumpleaños para té  café  whisky y leche  Combinación ](https://www.amazon.es/dp/B01IGX4YOA/?tag=tolees-21) con precio final de  17.94 EUR (original: 45.42 EUR) (60.50 %  de rebaja) aqui!
 
-[![Vasos para beber 4 PACK-11OZ Restaurante](https://m.media-amazon.com/images/I/51ilC3SHT8L._SL200_.jpg)](https://www.amazon.es/dp/B01IGX4YOA/?tag=tolees-21)
+[![Vasos para beber 4 PACK-11OZ Restaurante](https://m.media-amazon.com/images/I/51ilC3SHT8L._SL400_.jpg)](https://www.amazon.es/dp/B01IGX4YOA/?tag=tolees-21)
 
 🔎:
 

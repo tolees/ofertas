@@ -2,7 +2,7 @@
 layout: post
 title: 'PUMA X-Ray  Zapatillas Unisex-Adulto  Az al 52.46 % de descuento'
 date: 2020-08-03 12:13:35
-image: 'https://m.media-amazon.com/images/I/41CnPTfZ8RL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41CnPTfZ8RL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '38.01'
 
 Está [PUMA X-Ray  Zapatillas Unisex-Adulto  Azul Royal White/High Risk Red/High Rise Black  41 EU](https://www.amazon.es/dp/B07SDXZR1J/?tag=tolees-21) con 52.46 de descuento por 38.01 EUR (original: 79.95 EUR) en el siguiente enlace!
 
-[![PUMA X-Ray  Zapatillas Unisex-Adulto  Az](https://m.media-amazon.com/images/I/41CnPTfZ8RL._SL200_.jpg)](https://www.amazon.es/dp/B07SDXZR1J/?tag=tolees-21)
+[![PUMA X-Ray  Zapatillas Unisex-Adulto  Az](https://m.media-amazon.com/images/I/41CnPTfZ8RL._SL400_.jpg)](https://www.amazon.es/dp/B07SDXZR1J/?tag=tolees-21)
 
 ℹ️:
 

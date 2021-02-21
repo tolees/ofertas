@@ -2,7 +2,7 @@
 layout: post
 title: 'Michael Kors Reloj Analógico para Mujer  al 46.33 % de descuento'
 date: 2020-09-06 14:07:57
-image: 'https://m.media-amazon.com/images/I/419fOWjZeJL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/419fOWjZeJL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '144.05599999999998'
 
 Está [Michael Kors Reloj Analógico para Mujer de Cuarzo con Correa en Cuero MK2775](https://www.amazon.es/dp/B07F9LKJH1/?tag=tolees-21) con 46.33 de descuento por 133.65 EUR (original: 249.0 EUR) en el siguiente enlace!
 
-[![Michael Kors Reloj Analógico para Mujer ](https://m.media-amazon.com/images/I/419fOWjZeJL._SL200_.jpg)](https://www.amazon.es/dp/B07F9LKJH1/?tag=tolees-21)
+[![Michael Kors Reloj Analógico para Mujer ](https://m.media-amazon.com/images/I/419fOWjZeJL._SL400_.jpg)](https://www.amazon.es/dp/B07F9LKJH1/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Casio Reloj Analógico-Digital para Hombr al 39.02 % de rebaja'
 date: 2020-03-26 13:25:54
-image: 'https://m.media-amazon.com/images/I/51zFas-23aL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51zFas-23aL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '97.8'
 
 Tienes [Casio Reloj Analógico-Digital para Hombre de Cuarzo con Correa en Resina GA-2000-3AER](https://www.amazon.es/dp/B07RRR54LX/?tag=tolees-21) con precio final de  97.8 EUR (original: 160.37 EUR) (39.02 %  de rebaja) aqui!
 
-[![Casio Reloj Analógico-Digital para Hombr](https://m.media-amazon.com/images/I/51zFas-23aL._SL200_.jpg)](https://www.amazon.es/dp/B07RRR54LX/?tag=tolees-21)
+[![Casio Reloj Analógico-Digital para Hombr](https://m.media-amazon.com/images/I/51zFas-23aL._SL400_.jpg)](https://www.amazon.es/dp/B07RRR54LX/?tag=tolees-21)
 
 🔎:
 

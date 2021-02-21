@@ -2,7 +2,7 @@
 layout: post
 title: 'Dickies Gilmer Cinturón  Negro  No Aplic al 55.23 % de descuento'
 date: 2020-05-17 18:12:43
-image: 'https://m.media-amazon.com/images/I/41XswNd5+oL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41XswNd5+oL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.973333333333333'
 
 Está [Dickies Gilmer Cinturón  Negro  No Aplica  Talla del fabricante:  Unisex adulto](https://www.amazon.es/dp/B077VNZ1LM/?tag=tolees-21) con 55.23 de descuento por 15.67 EUR (original: 35.0 EUR) en el siguiente enlace!
 
-[![Dickies Gilmer Cinturón  Negro  No Aplic](https://m.media-amazon.com/images/I/41XswNd5+oL._SL200_.jpg)](https://www.amazon.es/dp/B077VNZ1LM/?tag=tolees-21)
+[![Dickies Gilmer Cinturón  Negro  No Aplic](https://m.media-amazon.com/images/I/41XswNd5+oL._SL400_.jpg)](https://www.amazon.es/dp/B077VNZ1LM/?tag=tolees-21)
 
 ℹ️:
 

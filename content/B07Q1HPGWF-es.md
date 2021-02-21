@@ -2,7 +2,7 @@
 layout: post
 title: 'JYDMIX - Cable USB C a Lightning de 3 pi al 50.03 % de descuento'
 date: 2020-08-02 07:50:21
-image: 'https://m.media-amazon.com/images/I/51cYknNxcrL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51cYknNxcrL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.323333333333334'
 
 Está [JYDMIX - Cable USB C a Lightning de 3 pies Nylon Trenzado [Apple MFi Certificado] Compatible con iPhone SE 2020/11/11Pro/X/XS/XR/XS Max/8/8 Plus soporta Power Delivery Carga rápida](https://www.amazon.es/dp/B07Q1HPGWF/?tag=tolees-21) con 50.03 de descuento por 9.99 EUR (original: 19.99 EUR) en el siguiente enlace!
 
-[![JYDMIX - Cable USB C a Lightning de 3 pi](https://m.media-amazon.com/images/I/51cYknNxcrL._SL200_.jpg)](https://www.amazon.es/dp/B07Q1HPGWF/?tag=tolees-21)
+[![JYDMIX - Cable USB C a Lightning de 3 pi](https://m.media-amazon.com/images/I/51cYknNxcrL._SL400_.jpg)](https://www.amazon.es/dp/B07Q1HPGWF/?tag=tolees-21)
 
 ℹ️:
 

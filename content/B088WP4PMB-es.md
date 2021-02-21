@@ -2,7 +2,7 @@
 layout: post
 title: 'Benkeg Generador de ozono  purificador d al 28.82 % de rebaja'
 date: 2020-06-10 09:19:29
-image: 'https://m.media-amazon.com/images/I/41iehQoVLsL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41iehQoVLsL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '27.94454545454545'
 
 Tienes [Benkeg Generador de ozono  purificador de Aire eléctrico  purificador de Aire Recargable  eliminador de olores y para el hogar  para Oficina](https://www.amazon.es/dp/B088WP4PMB/?tag=tolees-21) con precio final de  20.99 EUR (original: 29.49 EUR) (28.82 %  de rebaja) aqui!
 
-[![Benkeg Generador de ozono  purificador d](https://m.media-amazon.com/images/I/41iehQoVLsL._SL200_.jpg)](https://www.amazon.es/dp/B088WP4PMB/?tag=tolees-21)
+[![Benkeg Generador de ozono  purificador d](https://m.media-amazon.com/images/I/41iehQoVLsL._SL400_.jpg)](https://www.amazon.es/dp/B088WP4PMB/?tag=tolees-21)
 
 🔎:
 

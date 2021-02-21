@@ -2,7 +2,7 @@
 layout: post
 title: 'Salomon Agile 2 Set Mochila para Carrera al 59.39 % de descuento'
 date: 2020-04-02 09:05:56
-image: 'https://m.media-amazon.com/images/I/51MwO12DV0L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51MwO12DV0L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '38.235'
 
 Ahora mismo tienes [Salomon Agile 2 Set Mochila para Carrera de montaña  Unisex Adulto  Amarilla  Citronnelle /Amarilla  Sulphur Spring   Talla única](https://www.amazon.es/dp/B07F8JKD42/?tag=tolees-21) a 32.49 EUR (original: 80.0 EUR) (59.39 %  de descuento) en el siguiente enlace!
 
-[![Salomon Agile 2 Set Mochila para Carrera](https://m.media-amazon.com/images/I/51MwO12DV0L._SL200_.jpg)](https://www.amazon.es/dp/B07F8JKD42/?tag=tolees-21)
+[![Salomon Agile 2 Set Mochila para Carrera](https://m.media-amazon.com/images/I/51MwO12DV0L._SL400_.jpg)](https://www.amazon.es/dp/B07F8JKD42/?tag=tolees-21)
 
 🔎:
 

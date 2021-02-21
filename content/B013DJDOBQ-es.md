@@ -2,7 +2,7 @@
 layout: post
 title: 'Skylanders SuperCharges - Figura Smash H con un 53.57 % de descuento'
 date: 2020-02-18 20:45:59
-image: 'https://m.media-amazon.com/images/I/51gZA6AimIL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51gZA6AimIL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.99'
 
 En este momento está [Skylanders SuperCharges - Figura Smash Hit  Driver ](https://www.amazon.es/dp/B013DJDOBQ/?tag=tolees-21) a 5.99 EUR (original: 12.9 EUR) (53.57 %  de descuento) en el siguiente enlace!
 
-[![Skylanders SuperCharges - Figura Smash H](https://m.media-amazon.com/images/I/51gZA6AimIL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B013DJDOBQ/?tag=tolees-21)
+[![Skylanders SuperCharges - Figura Smash H](https://m.media-amazon.com/images/I/51gZA6AimIL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B013DJDOBQ/?tag=tolees-21)
 
 🔎:
 

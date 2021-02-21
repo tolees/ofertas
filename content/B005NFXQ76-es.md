@@ -2,7 +2,7 @@
 layout: post
 title: 'MANN-FILTER HU 718/1 N Original Filtro d al 66.88 % de descuento'
 date: 2020-09-17 06:26:02
-image: 'https://m.media-amazon.com/images/I/41+fllUk2vL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41+fllUk2vL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.2'
 
 Está [MANN-FILTER HU 718/1 N Original Filtro de Aceite  para automóviles](https://www.amazon.es/dp/B005NFXQ76/?tag=tolees-21) con 66.88 de descuento por 4.2 EUR (original: 12.68 EUR) en el siguiente enlace!
 
-[![MANN-FILTER HU 718/1 N Original Filtro d](https://m.media-amazon.com/images/I/41+fllUk2vL._SL200_.jpg)](https://www.amazon.es/dp/B005NFXQ76/?tag=tolees-21)
+[![MANN-FILTER HU 718/1 N Original Filtro d](https://m.media-amazon.com/images/I/41+fllUk2vL._SL400_.jpg)](https://www.amazon.es/dp/B005NFXQ76/?tag=tolees-21)
 
 ℹ️:
 

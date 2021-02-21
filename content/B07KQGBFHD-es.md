@@ -2,7 +2,7 @@
 layout: post
 title: 'Salomon ALPHACROSS GTX W  Zapatillas de  al 63.62 % de descuento'
 date: 2020-01-26 14:51:08
-image: 'https://m.media-amazon.com/images/I/41int119hLL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41int119hLL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '40.0'
 
 Ahora mismo tienes [Salomon ALPHACROSS GTX W  Zapatillas de Trail Running para Mujer  Rojo  Garnet Rose/White/Gum1a   43 1/3 EU](https://www.amazon.es/dp/B07KQGBFHD/?tag=tolees-21) a 40.0 EUR (original: 109.95 EUR) (63.62 %  de descuento) en el siguiente enlace!
 
-[![Salomon ALPHACROSS GTX W  Zapatillas de ](https://m.media-amazon.com/images/I/41int119hLL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07KQGBFHD/?tag=tolees-21)
+[![Salomon ALPHACROSS GTX W  Zapatillas de ](https://m.media-amazon.com/images/I/41int119hLL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07KQGBFHD/?tag=tolees-21)
 
 🔎:
 

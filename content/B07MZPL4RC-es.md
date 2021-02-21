@@ -2,7 +2,7 @@
 layout: post
 title: 'Pepe Jeans Kim suéter   Forest Green 682 al 43.46 % de rebaja'
 date: 2020-05-17 16:40:01
-image: 'https://m.media-amazon.com/images/I/41KgUZ+Jr2L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41KgUZ+Jr2L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '36.75'
 
 Tienes [Pepe Jeans Kim suéter   Forest Green 682   Small para Mujer](https://www.amazon.es/dp/B07MZPL4RC/?tag=tolees-21) con precio final de  36.75 EUR (original: 65.0 EUR) (43.46 %  de rebaja) aqui!
 
-[![Pepe Jeans Kim suéter   Forest Green 682](https://m.media-amazon.com/images/I/41KgUZ+Jr2L._SL200_.jpg)](https://www.amazon.es/dp/B07MZPL4RC/?tag=tolees-21)
+[![Pepe Jeans Kim suéter   Forest Green 682](https://m.media-amazon.com/images/I/41KgUZ+Jr2L._SL400_.jpg)](https://www.amazon.es/dp/B07MZPL4RC/?tag=tolees-21)
 
 🔎:
 

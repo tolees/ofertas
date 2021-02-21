@@ -2,7 +2,7 @@
 layout: post
 title: 'Ron Appleton Estate  1 x 0.7 l  con un 43.97 % de descuento'
 date: 2020-08-21 08:02:24
-image: 'https://m.media-amazon.com/images/I/41tiRP+cSPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41tiRP+cSPL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.9'
 
 En este momento está [Ron Appleton Estate  1 x 0.7 l ](https://www.amazon.es/dp/B015HWY9O8/?tag=tolees-21) a 18.9 EUR (original: 33.73 EUR) (43.97 %  de descuento) en el siguiente enlace!
 
-[![Ron Appleton Estate  1 x 0.7 l ](https://m.media-amazon.com/images/I/41tiRP+cSPL._SL200_.jpg)](https://www.amazon.es/dp/B015HWY9O8/?tag=tolees-21)
+[![Ron Appleton Estate  1 x 0.7 l ](https://m.media-amazon.com/images/I/41tiRP+cSPL._SL400_.jpg)](https://www.amazon.es/dp/B015HWY9O8/?tag=tolees-21)
 
 🔎:
 

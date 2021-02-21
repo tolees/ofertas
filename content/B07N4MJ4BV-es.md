@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s Jax  Botas Clasicas para Hombre   al 64.93 % de rebaja'
 date: 2020-04-01 07:08:56
-image: 'https://m.media-amazon.com/images/I/41tNJkHFspL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41tNJkHFspL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '41.72666666666667'
 
 Tienes [Levi s Jax  Botas Clasicas para Hombre  Amarillo  Medium Yellow 74   43 EU](https://www.amazon.es/dp/B07N4MJ4BV/?tag=tolees-21) con precio final de  35.07 EUR (original: 100.0 EUR) (64.93 %  de rebaja) aqui!
 
-[![Levi s Jax  Botas Clasicas para Hombre  ](https://m.media-amazon.com/images/I/41tNJkHFspL._SL200_.jpg)](https://www.amazon.es/dp/B07N4MJ4BV/?tag=tolees-21)
+[![Levi s Jax  Botas Clasicas para Hombre  ](https://m.media-amazon.com/images/I/41tNJkHFspL._SL400_.jpg)](https://www.amazon.es/dp/B07N4MJ4BV/?tag=tolees-21)
 
 🔎:
 

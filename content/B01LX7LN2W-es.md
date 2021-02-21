@@ -2,7 +2,7 @@
 layout: post
 title: 'Lindt Excellence Tableta de Chocolate Su al 42.31 % de descuento'
 date: 2020-04-14 12:10:49
-image: 'https://m.media-amazon.com/images/I/41WaFxm0a5L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41WaFxm0a5L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.2'
 
 Ahora mismo tienes [Lindt Excellence Tableta de Chocolate Suave 70% - 100 g](https://www.amazon.es/dp/B01LX7LN2W/?tag=tolees-21) a 1.2 EUR (original: 2.08 EUR) (42.31 %  de descuento) en el siguiente enlace!
 
-[![Lindt Excellence Tableta de Chocolate Su](https://m.media-amazon.com/images/I/41WaFxm0a5L._SL200_.jpg)](https://www.amazon.es/dp/B01LX7LN2W/?tag=tolees-21)
+[![Lindt Excellence Tableta de Chocolate Su](https://m.media-amazon.com/images/I/41WaFxm0a5L._SL400_.jpg)](https://www.amazon.es/dp/B01LX7LN2W/?tag=tolees-21)
 
 🔎:
 

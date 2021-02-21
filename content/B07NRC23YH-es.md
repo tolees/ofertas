@@ -2,7 +2,7 @@
 layout: post
 title: 'Dunlop Stage 2 Orange - Pelota de Tenis  con un 73.72 % de descuento'
 date: 2020-05-28 06:16:16
-image: 'https://m.media-amazon.com/images/I/41r4Q3-uRrL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41r4Q3-uRrL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.04'
 
 En este momento está [Dunlop Stage 2 Orange - Pelota de Tenis para Adulto  Unisex  Talla única](https://www.amazon.es/dp/B07NRC23YH/?tag=tolees-21) a 6.04 EUR (original: 22.98 EUR) (73.72 %  de descuento) en el siguiente enlace!
 
-[![Dunlop Stage 2 Orange - Pelota de Tenis ](https://m.media-amazon.com/images/I/41r4Q3-uRrL._SL200_.jpg)](https://www.amazon.es/dp/B07NRC23YH/?tag=tolees-21)
+[![Dunlop Stage 2 Orange - Pelota de Tenis ](https://m.media-amazon.com/images/I/41r4Q3-uRrL._SL400_.jpg)](https://www.amazon.es/dp/B07NRC23YH/?tag=tolees-21)
 
 🔎:
 

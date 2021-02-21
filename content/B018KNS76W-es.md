@@ -2,7 +2,7 @@
 layout: post
 title: 'Skechers Men s Equalizer-Double Play Moc al 40.03 % de descuento'
 date: 2020-09-16 04:54:52
-image: 'https://m.media-amazon.com/images/I/41S8U8hi5SL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41S8U8hi5SL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '38.95'
 
 Está [Skechers Men s Equalizer-Double Play Moccasins  Black  Black   6.5 UK  40 EU ](https://www.amazon.es/dp/B018KNS76W/?tag=tolees-21) con 40.03 de descuento por 38.95 EUR (original: 64.95 EUR) en el siguiente enlace!
 
-[![Skechers Men s Equalizer-Double Play Moc](https://m.media-amazon.com/images/I/41S8U8hi5SL._SL200_.jpg)](https://www.amazon.es/dp/B018KNS76W/?tag=tolees-21)
+[![Skechers Men s Equalizer-Double Play Moc](https://m.media-amazon.com/images/I/41S8U8hi5SL._SL400_.jpg)](https://www.amazon.es/dp/B018KNS76W/?tag=tolees-21)
 
 ℹ️:
 

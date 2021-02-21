@@ -2,7 +2,7 @@
 layout: post
 title: 'Haribo - Lampions Rojos - Geles dulces - al 33.22 % de descuento'
 date: 2020-06-19 21:47:06
-image: 'https://m.media-amazon.com/images/I/614KUrCBsyL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/614KUrCBsyL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.55'
 
 Está [Haribo - Lampions Rojos - Geles dulces - 2 kg](https://www.amazon.es/dp/B00XAP1MEA/?tag=tolees-21) con 33.22 de descuento por 9.55 EUR (original: 14.3 EUR) en el siguiente enlace!
 
-[![Haribo - Lampions Rojos - Geles dulces -](https://m.media-amazon.com/images/I/614KUrCBsyL._SL200_.jpg)](https://www.amazon.es/dp/B00XAP1MEA/?tag=tolees-21)
+[![Haribo - Lampions Rojos - Geles dulces -](https://m.media-amazon.com/images/I/614KUrCBsyL._SL400_.jpg)](https://www.amazon.es/dp/B00XAP1MEA/?tag=tolees-21)
 
 ℹ️:
 

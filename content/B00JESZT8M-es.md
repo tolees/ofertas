@@ -2,7 +2,7 @@
 layout: post
 title: 'Inversor De Corriente 300W para Coche  B con un 40.01 % de descuento'
 date: 2020-08-21 21:23:27
-image: 'https://m.media-amazon.com/images/I/51gkRvs61GL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51gkRvs61GL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '30.656666666666666'
 
 En este momento está [Inversor De Corriente 300W para Coche  BESTEK Transformador De 12v A 220v  Inversor con 1 Toma Enchufe Y 2 Puertos USB De 3 1 para iPhone  iPad Y Tableta](https://www.amazon.es/dp/B00JESZT8M/?tag=tolees-21) a 29.99 EUR (original: 49.99 EUR) (40.01 %  de descuento) en el siguiente enlace!
 
-[![Inversor De Corriente 300W para Coche  B](https://m.media-amazon.com/images/I/51gkRvs61GL._SL200_.jpg)](https://www.amazon.es/dp/B00JESZT8M/?tag=tolees-21)
+[![Inversor De Corriente 300W para Coche  B](https://m.media-amazon.com/images/I/51gkRvs61GL._SL400_.jpg)](https://www.amazon.es/dp/B00JESZT8M/?tag=tolees-21)
 
 🔎:
 

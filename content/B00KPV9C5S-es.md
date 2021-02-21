@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 39.91 % en Jovi 8412027028851 - Estuche de 20 ceras'
 date: 2020-05-28 17:13:44
-image: 'https://m.media-amazon.com/images/I/41cdDAW-qXL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41cdDAW-qXL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.46'
 
 Tienes [Jovi 8412027028851 - Estuche de 20 ceras  diseño oso mágico](https://www.amazon.es/dp/B00KPV9C5S/?tag=tolees-21) con un 39.91 % de descuento con precio de oferta de 6.46 EUR (original: 10.75 EUR) en el siguiente enlace!
 
-[![Jovi 8412027028851 - Estuche de 20 ceras](https://m.media-amazon.com/images/I/41cdDAW-qXL._SL200_.jpg)](https://www.amazon.es/dp/B00KPV9C5S/?tag=tolees-21)
+[![Jovi 8412027028851 - Estuche de 20 ceras](https://m.media-amazon.com/images/I/41cdDAW-qXL._SL400_.jpg)](https://www.amazon.es/dp/B00KPV9C5S/?tag=tolees-21)
 
 ℹ️:
 

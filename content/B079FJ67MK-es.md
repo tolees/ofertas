@@ -2,7 +2,7 @@
 layout: post
 title: 'Veramonte Carmenere Vino Chile - 750 ml al 49.96 % de descuento'
 date: 2020-04-26 13:16:17
-image: 'https://m.media-amazon.com/images/I/31vSWFppPLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31vSWFppPLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.92'
 
 Ahora mismo tienes [Veramonte Carmenere Vino Chile - 750 ml](https://www.amazon.es/dp/B079FJ67MK/?tag=tolees-21) a 5.92 EUR (original: 11.83 EUR) (49.96 %  de descuento) en el siguiente enlace!
 
-[![Veramonte Carmenere Vino Chile - 750 ml](https://m.media-amazon.com/images/I/31vSWFppPLL._SL200_.jpg)](https://www.amazon.es/dp/B079FJ67MK/?tag=tolees-21)
+[![Veramonte Carmenere Vino Chile - 750 ml](https://m.media-amazon.com/images/I/31vSWFppPLL._SL400_.jpg)](https://www.amazon.es/dp/B079FJ67MK/?tag=tolees-21)
 
 🔎:
 

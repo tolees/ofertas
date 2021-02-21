@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s 501 Short Long Pantalones Cortos  al 65.18 % de descuento'
 date: 2020-02-05 11:28:43
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41kAgSi9tEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41kAgSi9tEL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.05'
 
 Está [Levi s 501 Short Long Pantalones Cortos  Azul  Blue Clue 0006   W27  Talla del Fabricante: 27  para Mujer](https://www.amazon.es/dp/B07KF666KF/?tag=tolees-21) con 65.18 de descuento por 19.15 EUR (original: 55 EUR) en el siguiente enlace!
 
-[![Levi s 501 Short Long Pantalones Cortos ](https://images-eu.ssl-images-amazon.com/images/I/41kAgSi9tEL._SL200_.jpg)](https://www.amazon.es/dp/B07KF666KF/?tag=tolees-21)
+[![Levi s 501 Short Long Pantalones Cortos ](https://images-eu.ssl-images-amazon.com/images/I/41kAgSi9tEL._SL400_.jpg)](https://www.amazon.es/dp/B07KF666KF/?tag=tolees-21)
 
 ℹ️:
 

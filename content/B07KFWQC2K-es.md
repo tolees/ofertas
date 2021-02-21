@@ -2,7 +2,7 @@
 layout: post
 title: 'PUMA Cilia SD  Zapatillas para Mujer  Vi al 56.36 % de descuento'
 date: 2020-02-11 11:30:11
-image: 'https://m.media-amazon.com/images/I/41KEvCDwDwL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41KEvCDwDwL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '26.16'
 
 Ahora mismo tienes [PUMA Cilia SD  Zapatillas para Mujer  Vineyard Wine-Pastel Parchment Silver White  40.5 EU](https://www.amazon.es/dp/B07KFWQC2K/?tag=tolees-21) a 26.16 EUR (original: 59.95 EUR) (56.36 %  de descuento) en el siguiente enlace!
 
-[![PUMA Cilia SD  Zapatillas para Mujer  Vi](https://m.media-amazon.com/images/I/41KEvCDwDwL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07KFWQC2K/?tag=tolees-21)
+[![PUMA Cilia SD  Zapatillas para Mujer  Vi](https://m.media-amazon.com/images/I/41KEvCDwDwL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07KFWQC2K/?tag=tolees-21)
 
 🔎:
 

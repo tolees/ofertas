@@ -2,7 +2,7 @@
 layout: post
 title: 'American Tourister Disney Legends Spinne al 40.00 % de rebaja'
 date: 2020-05-17 09:31:49
-image: 'https://m.media-amazon.com/images/I/41RoexLx3cL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41RoexLx3cL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '72.67800000000001'
 
 Tienes [American Tourister Disney Legends Spinner S Equipaje de Mano Infantil  55 cm  36 L  Azul  Take Me Away Mickey London ](https://www.amazon.es/dp/B07PBZ8Z94/?tag=tolees-21) con precio final de  65.4 EUR (original: 109.0 EUR) (40.00 %  de rebaja) aqui!
 
-[![American Tourister Disney Legends Spinne](https://m.media-amazon.com/images/I/41RoexLx3cL._SL200_.jpg)](https://www.amazon.es/dp/B07PBZ8Z94/?tag=tolees-21)
+[![American Tourister Disney Legends Spinne](https://m.media-amazon.com/images/I/41RoexLx3cL._SL400_.jpg)](https://www.amazon.es/dp/B07PBZ8Z94/?tag=tolees-21)
 
 🔎:
 

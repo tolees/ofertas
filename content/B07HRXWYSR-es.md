@@ -2,7 +2,7 @@
 layout: post
 title: 'Eme Hybrid Challenger WPT al 50.27 % de descuento'
 date: 2020-01-09 09:17:01
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41pzGiMEkiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41pzGiMEkiL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '93.99'
 
 Ahora mismo tienes [Eme Hybrid Challenger WPT](https://www.amazon.es/dp/B07HRXWYSR/?tag=tolees-21) a 93.99 EUR (original: 189 EUR) (50.27 %  de descuento) en el siguiente enlace!
 
-[![Eme Hybrid Challenger WPT](https://images-eu.ssl-images-amazon.com/images/I/41pzGiMEkiL._SL200_.jpg)](https://www.amazon.es/dp/B07HRXWYSR/?tag=tolees-21)
+[![Eme Hybrid Challenger WPT](https://images-eu.ssl-images-amazon.com/images/I/41pzGiMEkiL._SL400_.jpg)](https://www.amazon.es/dp/B07HRXWYSR/?tag=tolees-21)
 
 🔎:
 

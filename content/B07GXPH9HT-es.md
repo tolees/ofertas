@@ -2,7 +2,7 @@
 layout: post
 title: 'SOLEDI Fieltro Manualidades Tela no Teji al 35.02 % de rebaja'
 date: 2020-06-17 08:16:09
-image: 'https://m.media-amazon.com/images/I/51Qez0CrDTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Qez0CrDTL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.24'
 
 Tienes [SOLEDI Fieltro Manualidades Tela no Tejido de Lana 41 Colores  Material para Costura y Artesanías de Bricolaje  20 * 30cm ](https://www.amazon.es/dp/B07GXPH9HT/?tag=tolees-21) con precio final de  12.99 EUR (original: 19.99 EUR) (35.02 %  de rebaja) aqui!
 
-[![SOLEDI Fieltro Manualidades Tela no Teji](https://m.media-amazon.com/images/I/51Qez0CrDTL._SL200_.jpg)](https://www.amazon.es/dp/B07GXPH9HT/?tag=tolees-21)
+[![SOLEDI Fieltro Manualidades Tela no Teji](https://m.media-amazon.com/images/I/51Qez0CrDTL._SL400_.jpg)](https://www.amazon.es/dp/B07GXPH9HT/?tag=tolees-21)
 
 🔎:
 

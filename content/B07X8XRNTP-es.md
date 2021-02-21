@@ -2,7 +2,7 @@
 layout: post
 title: 'Funko Pop! Marvel: Marvel Venom S3 - Ult con un 38.68 % de descuento'
 date: 2020-09-21 10:20:55
-image: 'https://m.media-amazon.com/images/I/41wPUPdgEfL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41wPUPdgEfL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.78'
 
 En este momento está [Funko Pop! Marvel: Marvel Venom S3 - Ultron  Multicolor](https://www.amazon.es/dp/B07X8XRNTP/?tag=tolees-21) a 9.78 EUR (original: 15.95 EUR) (38.68 %  de descuento) en el siguiente enlace!
 
-[![Funko Pop! Marvel: Marvel Venom S3 - Ult](https://m.media-amazon.com/images/I/41wPUPdgEfL._SL200_.jpg)](https://www.amazon.es/dp/B07X8XRNTP/?tag=tolees-21)
+[![Funko Pop! Marvel: Marvel Venom S3 - Ult](https://m.media-amazon.com/images/I/41wPUPdgEfL._SL400_.jpg)](https://www.amazon.es/dp/B07X8XRNTP/?tag=tolees-21)
 
 🔎:
 

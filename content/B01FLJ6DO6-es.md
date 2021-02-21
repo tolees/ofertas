@@ -2,7 +2,7 @@
 layout: post
 title: 'Bosch Professional 0601066E00 Nivel GCL  al 40.55 % de descuento'
 date: 2020-08-31 14:08:03
-image: 'https://m.media-amazon.com/images/I/41CrtsQXYYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41CrtsQXYYL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '106.56333333333333'
 
 Está [Bosch Professional 0601066E00 Nivel GCL 2-15 interior  con puntos de plomada  3 pilas AA  soporte giratorio RM 1  placa reflectora  estuche de protección  Láser rojo sin maletín  1.5 V  15 m](https://www.amazon.es/dp/B01FLJ6DO6/?tag=tolees-21) con 40.55 de descuento por 99.99 EUR (original: 168.19 EUR) en el siguiente enlace!
 
-[![Bosch Professional 0601066E00 Nivel GCL ](https://m.media-amazon.com/images/I/41CrtsQXYYL._SL200_.jpg)](https://www.amazon.es/dp/B01FLJ6DO6/?tag=tolees-21)
+[![Bosch Professional 0601066E00 Nivel GCL ](https://m.media-amazon.com/images/I/41CrtsQXYYL._SL400_.jpg)](https://www.amazon.es/dp/B01FLJ6DO6/?tag=tolees-21)
 
 ℹ️:
 

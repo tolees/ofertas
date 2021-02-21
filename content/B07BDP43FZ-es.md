@@ -2,7 +2,7 @@
 layout: post
 title: 'American Tourister Sunside Spinner 55/20 con un 35.00 % de descuento'
 date: 2020-05-23 17:37:07
-image: 'https://m.media-amazon.com/images/I/41ST3957PDL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ST3957PDL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '77.7625'
 
 En este momento está [American Tourister Sunside Spinner 55/20 Equipaje de Mano  55 cm  35 litros  Turquesa  Aero Turquoise ](https://www.amazon.es/dp/B07BDP43FZ/?tag=tolees-21) a 77.35 EUR (original: 119.0 EUR) (35.00 %  de descuento) en el siguiente enlace!
 
-[![American Tourister Sunside Spinner 55/20](https://m.media-amazon.com/images/I/41ST3957PDL._SL200_.jpg)](https://www.amazon.es/dp/B07BDP43FZ/?tag=tolees-21)
+[![American Tourister Sunside Spinner 55/20](https://m.media-amazon.com/images/I/41ST3957PDL._SL400_.jpg)](https://www.amazon.es/dp/B07BDP43FZ/?tag=tolees-21)
 
 🔎:
 

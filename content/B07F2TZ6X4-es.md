@@ -2,7 +2,7 @@
 layout: post
 title: 'COMLIFE Mini Ventilador USB de Mano Port al 38.48 % de rebaja'
 date: 2020-09-13 12:50:29
-image: 'https://m.media-amazon.com/images/I/517CqPdqPeL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/517CqPdqPeL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.32333333333333'
 
 Tienes [COMLIFE Mini Ventilador USB de Mano Portátil Batería Recargable para Oficina  Hogar  Viajes  Ejercicio al Aire Libre  etc.  HF318 ](https://www.amazon.es/dp/B07F2TZ6X4/?tag=tolees-21) con precio final de  15.99 EUR (original: 25.99 EUR) (38.48 %  de rebaja) aqui!
 
-[![COMLIFE Mini Ventilador USB de Mano Port](https://m.media-amazon.com/images/I/517CqPdqPeL._SL200_.jpg)](https://www.amazon.es/dp/B07F2TZ6X4/?tag=tolees-21)
+[![COMLIFE Mini Ventilador USB de Mano Port](https://m.media-amazon.com/images/I/517CqPdqPeL._SL400_.jpg)](https://www.amazon.es/dp/B07F2TZ6X4/?tag=tolees-21)
 
 🔎:
 

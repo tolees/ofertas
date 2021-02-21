@@ -2,7 +2,7 @@
 layout: post
 title: 'Carat Shop- Colgante Charm Lightning Bol al 48.02 % de descuento'
 date: 2020-05-24 09:03:43
-image: 'https://m.media-amazon.com/images/I/31n56c8ptdL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31n56c8ptdL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.11'
 
 Está [Carat Shop- Colgante Charm Lightning Bolt Harry Potter  Color Plata  HP0105 ](https://www.amazon.es/dp/B076H81DZC/?tag=tolees-21) con 48.02 de descuento por 5.11 EUR (original: 9.83 EUR) en el siguiente enlace!
 
-[![Carat Shop- Colgante Charm Lightning Bol](https://m.media-amazon.com/images/I/31n56c8ptdL._SL200_.jpg)](https://www.amazon.es/dp/B076H81DZC/?tag=tolees-21)
+[![Carat Shop- Colgante Charm Lightning Bol](https://m.media-amazon.com/images/I/31n56c8ptdL._SL400_.jpg)](https://www.amazon.es/dp/B076H81DZC/?tag=tolees-21)
 
 ℹ️:
 

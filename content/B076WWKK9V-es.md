@@ -2,7 +2,7 @@
 layout: post
 title: 'SEKONDA Reloj de Pulsera 1521E.05 al 31.90 % de rebaja'
 date: 2020-05-06 12:20:34
-image: 'https://m.media-amazon.com/images/I/41oBAb-jwkL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41oBAb-jwkL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '31.708333333333332'
 
 Tienes [SEKONDA Reloj de Pulsera 1521E.05](https://www.amazon.es/dp/B076WWKK9V/?tag=tolees-21) con precio final de  23.42 EUR (original: 34.39 EUR) (31.90 %  de rebaja) aqui!
 
-[![SEKONDA Reloj de Pulsera 1521E.05](https://m.media-amazon.com/images/I/41oBAb-jwkL._SL200_.jpg)](https://www.amazon.es/dp/B076WWKK9V/?tag=tolees-21)
+[![SEKONDA Reloj de Pulsera 1521E.05](https://m.media-amazon.com/images/I/41oBAb-jwkL._SL400_.jpg)](https://www.amazon.es/dp/B076WWKK9V/?tag=tolees-21)
 
 🔎:
 

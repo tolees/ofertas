@@ -2,7 +2,7 @@
 layout: post
 title: 'L Oréal Paris Make-up designer X Isabel  con un 27.27 % de descuento'
 date: 2020-07-02 15:42:43
-image: 'https://m.media-amazon.com/images/I/41vUPXMFZ3L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41vUPXMFZ3L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.85'
 
 En este momento está [L Oréal Paris Make-up designer X Isabel Marant "Pillage Western" Pintalabios Mate Rojo](https://www.amazon.es/dp/B07FY88JJ3/?tag=tolees-21) a 11.6 EUR (original: 15.95 EUR) (27.27 %  de descuento) en el siguiente enlace!
 
-[![L Oréal Paris Make-up designer X Isabel ](https://m.media-amazon.com/images/I/41vUPXMFZ3L._SL200_.jpg)](https://www.amazon.es/dp/B07FY88JJ3/?tag=tolees-21)
+[![L Oréal Paris Make-up designer X Isabel ](https://m.media-amazon.com/images/I/41vUPXMFZ3L._SL400_.jpg)](https://www.amazon.es/dp/B07FY88JJ3/?tag=tolees-21)
 
 🔎:
 

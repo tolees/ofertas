@@ -2,7 +2,7 @@
 layout: post
 title: 'Solaray Vitamin C 1000mg | con Escaramuj al 26.08 % de rebaja'
 date: 2020-09-14 18:25:45
-image: 'https://m.media-amazon.com/images/I/41SAtdv-lLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41SAtdv-lLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.266666666666667'
 
 Tienes [Solaray Vitamin C 1000mg | con Escaramujo y Acerola | Acción Retardada| Sin Gluten | Apto Para Veganos | 100 comprimidos](https://www.amazon.es/dp/B00DN9LHUM/?tag=tolees-21) con precio final de  15.25 EUR (original: 20.63 EUR) (26.08 %  de rebaja) aqui!
 
-[![Solaray Vitamin C 1000mg | con Escaramuj](https://m.media-amazon.com/images/I/41SAtdv-lLL._SL200_.jpg)](https://www.amazon.es/dp/B00DN9LHUM/?tag=tolees-21)
+[![Solaray Vitamin C 1000mg | con Escaramuj](https://m.media-amazon.com/images/I/41SAtdv-lLL._SL400_.jpg)](https://www.amazon.es/dp/B00DN9LHUM/?tag=tolees-21)
 
 🔎:
 

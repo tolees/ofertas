@@ -2,7 +2,7 @@
 layout: post
 title: 'PUMA King Hero FG  Zapatillas de fútbol  al 28.35 % de descuento'
 date: 2020-05-23 08:35:13
-image: 'https://m.media-amazon.com/images/I/41oxRA3uaEL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41oxRA3uaEL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '50.12'
 
 Está [PUMA King Hero FG  Zapatillas de fútbol Unisex Adulto  Negro Black White  45 EU](https://www.amazon.es/dp/B07KG1NKVF/?tag=tolees-21) con 28.35 de descuento por 50.12 EUR (original: 69.95 EUR) en el siguiente enlace!
 
-[![PUMA King Hero FG  Zapatillas de fútbol ](https://m.media-amazon.com/images/I/41oxRA3uaEL._SL200_.jpg)](https://www.amazon.es/dp/B07KG1NKVF/?tag=tolees-21)
+[![PUMA King Hero FG  Zapatillas de fútbol ](https://m.media-amazon.com/images/I/41oxRA3uaEL._SL400_.jpg)](https://www.amazon.es/dp/B07KG1NKVF/?tag=tolees-21)
 
 ℹ️:
 

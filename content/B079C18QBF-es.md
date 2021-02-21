@@ -2,7 +2,7 @@
 layout: post
 title: 'JACK & JONES Jjepaulos Polo SS Noos  Gri con un 34.97 % de descuento'
 date: 2020-03-13 11:03:28
-image: 'https://m.media-amazon.com/images/I/31e-xCmwKvL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31e-xCmwKvL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.475'
 
 En este momento está [JACK & JONES Jjepaulos Polo SS Noos  Gris  Light Grey Detail: Slim Fit-Melange   Large para Hombre](https://www.amazon.es/dp/B079C18QBF/?tag=tolees-21) a 13.0 EUR (original: 19.99 EUR) (34.97 %  de descuento) en el siguiente enlace!
 
-[![JACK & JONES Jjepaulos Polo SS Noos  Gri](https://m.media-amazon.com/images/I/31e-xCmwKvL._SL200_.jpg)](https://www.amazon.es/dp/B079C18QBF/?tag=tolees-21)
+[![JACK & JONES Jjepaulos Polo SS Noos  Gri](https://m.media-amazon.com/images/I/31e-xCmwKvL._SL400_.jpg)](https://www.amazon.es/dp/B079C18QBF/?tag=tolees-21)
 
 🔎:
 

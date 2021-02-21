@@ -2,7 +2,7 @@
 layout: post
 title: 'Wilson Roger Federer Raquetas  Unisex ni al 42.93 % de descuento'
 date: 2020-01-15 12:20:07
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51TUDBmIktL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51TUDBmIktL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '38.49666666666667'
 
 Ahora mismo tienes [Wilson Roger Federer Raquetas  Unisex niños  Rojo/Negro  25](https://www.amazon.es/dp/B01NCR657D/?tag=tolees-21) a 39.95 EUR (original: 70 EUR) (42.93 %  de descuento) en el siguiente enlace!
 
-[![Wilson Roger Federer Raquetas  Unisex ni](https://images-eu.ssl-images-amazon.com/images/I/51TUDBmIktL._SL200_.jpg)](https://www.amazon.es/dp/B01NCR657D/?tag=tolees-21)
+[![Wilson Roger Federer Raquetas  Unisex ni](https://images-eu.ssl-images-amazon.com/images/I/51TUDBmIktL._SL400_.jpg)](https://www.amazon.es/dp/B01NCR657D/?tag=tolees-21)
 
 🔎:
 

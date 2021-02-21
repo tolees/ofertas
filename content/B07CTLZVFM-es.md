@@ -2,7 +2,7 @@
 layout: post
 title: 'FIND - Full-fab Lipkit  Chubby shiny n.3 al 67.79 % de descuento'
 date: 2020-04-03 16:22:21
-image: 'https://m.media-amazon.com/images/I/314pKIIXyWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/314pKIIXyWL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.763333333333333'
 
 Ahora mismo tienes [FIND - Full-fab Lipkit  Chubby shiny n.3 + Chubby Mate n.3 ](https://www.amazon.es/dp/B07CTLZVFM/?tag=tolees-21) a 2.86 EUR (original: 8.88 EUR) (67.79 %  de descuento) en el siguiente enlace!
 
-[![FIND - Full-fab Lipkit  Chubby shiny n.3](https://m.media-amazon.com/images/I/314pKIIXyWL._SL200_.jpg)](https://www.amazon.es/dp/B07CTLZVFM/?tag=tolees-21)
+[![FIND - Full-fab Lipkit  Chubby shiny n.3](https://m.media-amazon.com/images/I/314pKIIXyWL._SL400_.jpg)](https://www.amazon.es/dp/B07CTLZVFM/?tag=tolees-21)
 
 🔎:
 

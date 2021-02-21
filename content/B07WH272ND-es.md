@@ -2,7 +2,7 @@
 layout: post
 title: 'RITUALS The Ritual of Sakura Exfoliante  al 39.80 % de descuento'
 date: 2020-08-30 08:43:04
-image: 'https://m.media-amazon.com/images/I/41J9PvbEc+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41J9PvbEc+L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.97'
 
 Ahora mismo tienes [RITUALS The Ritual of Sakura Exfoliante corporal  250 g](https://www.amazon.es/dp/B07WH272ND/?tag=tolees-21) a 8.97 EUR (original: 14.9 EUR) (39.80 %  de descuento) en el siguiente enlace!
 
-[![RITUALS The Ritual of Sakura Exfoliante ](https://m.media-amazon.com/images/I/41J9PvbEc+L._SL200_.jpg)](https://www.amazon.es/dp/B07WH272ND/?tag=tolees-21)
+[![RITUALS The Ritual of Sakura Exfoliante ](https://m.media-amazon.com/images/I/41J9PvbEc+L._SL400_.jpg)](https://www.amazon.es/dp/B07WH272ND/?tag=tolees-21)
 
 🔎:
 

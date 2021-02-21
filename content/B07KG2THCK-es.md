@@ -2,7 +2,7 @@
 layout: post
 title: 'Puma Future Runner Premium  Zapatillas U al 65.15 % de descuento'
 date: 2020-01-13 09:35:50
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41hRNcpQ7uL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41hRNcpQ7uL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '37.475'
 
 Ahora mismo tienes [Puma Future Runner Premium  Zapatillas Unisex Adulto  Blanco  Puma White-Galaxy Blue-High Risk Red 07   42 EU](https://www.amazon.es/dp/B07KG2THCK/?tag=tolees-21) a 26.12 EUR (original: 74.95 EUR) (65.15 %  de descuento) en el siguiente enlace!
 
-[![Puma Future Runner Premium  Zapatillas U](https://images-eu.ssl-images-amazon.com/images/I/41hRNcpQ7uL._SL200_.jpg)](https://www.amazon.es/dp/B07KG2THCK/?tag=tolees-21)
+[![Puma Future Runner Premium  Zapatillas U](https://images-eu.ssl-images-amazon.com/images/I/41hRNcpQ7uL._SL400_.jpg)](https://www.amazon.es/dp/B07KG2THCK/?tag=tolees-21)
 
 🔎:
 

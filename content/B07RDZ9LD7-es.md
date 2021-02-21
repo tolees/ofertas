@@ -2,7 +2,7 @@
 layout: post
 title: 'ASUS ROG Zephyrus M GU502GV-ES004T - Ord al 30.00 % de descuento'
 date: 2020-03-23 11:53:36
-image: 'https://m.media-amazon.com/images/I/41gsapw62OL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41gsapw62OL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1479.99'
 
 Ahora mismo tienes [ASUS ROG Zephyrus M GU502GV-ES004T - Ordenador portátil gaming de 15.6" FullHD  Intel Core i7-9750H  16GB RAM  512GB SSD  GeForce RTX 2060-6GB  Windows 10  metal negro - Teclado QWERTY Español](https://www.amazon.es/dp/B07RDZ9LD7/?tag=tolees-21) a 1399.99 EUR (original: 1999.99 EUR) (30.00 %  de descuento) en el siguiente enlace!
 
-[![ASUS ROG Zephyrus M GU502GV-ES004T - Ord](https://m.media-amazon.com/images/I/41gsapw62OL._SL200_.jpg)](https://www.amazon.es/dp/B07RDZ9LD7/?tag=tolees-21)
+[![ASUS ROG Zephyrus M GU502GV-ES004T - Ord](https://m.media-amazon.com/images/I/41gsapw62OL._SL400_.jpg)](https://www.amazon.es/dp/B07RDZ9LD7/?tag=tolees-21)
 
 🔎:
 

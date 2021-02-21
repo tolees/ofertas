@@ -2,7 +2,7 @@
 layout: post
 title: 'AUTLEAD C5 - Compresor Aire Coche  12V C al 50.01 % de descuento'
 date: 2020-03-26 17:32:06
-image: 'https://m.media-amazon.com/images/I/41ZXE7rH0DL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ZXE7rH0DL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.389999999999997'
 
 Está [AUTLEAD C5 - Compresor Aire Coche  12V Compresor de Aire Portátil  Compresor Ruedas Coche con Apagado Automático  Luz LED  Manómetro  4 Adaptadores de Boquilla](https://www.amazon.es/dp/B07Y1JR4M6/?tag=tolees-21) con 50.01 de descuento por 29.99 EUR (original: 59.99 EUR) en el siguiente enlace!
 
-[![AUTLEAD C5 - Compresor Aire Coche  12V C](https://m.media-amazon.com/images/I/41ZXE7rH0DL._SL200_.jpg)](https://www.amazon.es/dp/B07Y1JR4M6/?tag=tolees-21)
+[![AUTLEAD C5 - Compresor Aire Coche  12V C](https://m.media-amazon.com/images/I/41ZXE7rH0DL._SL400_.jpg)](https://www.amazon.es/dp/B07Y1JR4M6/?tag=tolees-21)
 
 ℹ️:
 

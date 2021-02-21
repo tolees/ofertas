@@ -2,7 +2,7 @@
 layout: post
 title: 'Superga 2750 COTU Classic  Zapatillas Un al 36.58 % de rebaja'
 date: 2020-02-19 18:52:40
-image: 'https://m.media-amazon.com/images/I/41A2GnlNHCL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41A2GnlNHCL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '37.42'
 
 Tienes [Superga 2750 COTU Classic  Zapatillas Unisex  Blanco  White Gum   41.5 EU](https://www.amazon.es/dp/B06XBCW4ZB/?tag=tolees-21) con precio final de  37.42 EUR (original: 59.0 EUR) (36.58 %  de rebaja) aqui!
 
-[![Superga 2750 COTU Classic  Zapatillas Un](https://m.media-amazon.com/images/I/41A2GnlNHCL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B06XBCW4ZB/?tag=tolees-21)
+[![Superga 2750 COTU Classic  Zapatillas Un](https://m.media-amazon.com/images/I/41A2GnlNHCL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B06XBCW4ZB/?tag=tolees-21)
 
 🔎:
 

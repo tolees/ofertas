@@ -2,7 +2,7 @@
 layout: post
 title: 'L Oreal Paris Magic Retouch Spray Retoca al 47.55 % de descuento'
 date: 2020-10-09 15:13:55
-image: 'https://m.media-amazon.com/images/I/41QMOCBlOzL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41QMOCBlOzL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.17'
 
 Está [L Oreal Paris Magic Retouch Spray Retoca Raíces Castaño 100 ml](https://www.amazon.es/dp/B07G2NZ66Q/?tag=tolees-21) con 47.55 de descuento por 4.17 EUR (original: 7.95 EUR) en el siguiente enlace!
 
-[![L Oreal Paris Magic Retouch Spray Retoca](https://m.media-amazon.com/images/I/41QMOCBlOzL._SL200_.jpg)](https://www.amazon.es/dp/B07G2NZ66Q/?tag=tolees-21)
+[![L Oreal Paris Magic Retouch Spray Retoca](https://m.media-amazon.com/images/I/41QMOCBlOzL._SL400_.jpg)](https://www.amazon.es/dp/B07G2NZ66Q/?tag=tolees-21)
 
 ℹ️:
 

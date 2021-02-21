@@ -2,7 +2,7 @@
 layout: post
 title: 'LeYi Funda Xiaomi Redmi Note 6 Pro Silic al 47.69 % de descuento'
 date: 2020-02-26 17:22:18
-image: 'https://m.media-amazon.com/images/I/61FR8lj5pvL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61FR8lj5pvL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.87'
 
 Está [LeYi Funda Xiaomi Redmi Note 6 Pro Silicona Purpurina Carcasa con [2-Unidades Cristal Vidrio Templado] Transparente Cristal Bumper Fundas Case Cover Para Movil Redmi Note 6 Pro ZX Purple/Blue](https://www.amazon.es/dp/B07JRGWGG6/?tag=tolees-21) con 47.69 de descuento por 9.87 EUR (original: 18.87 EUR) en el siguiente enlace!
 
-[![LeYi Funda Xiaomi Redmi Note 6 Pro Silic](https://m.media-amazon.com/images/I/61FR8lj5pvL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07JRGWGG6/?tag=tolees-21)
+[![LeYi Funda Xiaomi Redmi Note 6 Pro Silic](https://m.media-amazon.com/images/I/61FR8lj5pvL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07JRGWGG6/?tag=tolees-21)
 
 ℹ️:
 

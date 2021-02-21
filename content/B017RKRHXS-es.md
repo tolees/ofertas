@@ -2,7 +2,7 @@
 layout: post
 title: 'KS Tools 714.0187 Composición de 187 her al 29.60 % de descuento'
 date: 2020-04-07 22:16:06
-image: 'https://m.media-amazon.com/images/I/51STV-AfsuL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51STV-AfsuL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1086.76'
 
 Ahora mismo tienes [KS Tools 714.0187 Composición de 187 herramientas 5 cajones para carro](https://www.amazon.es/dp/B017RKRHXS/?tag=tolees-21) a 1086.76 EUR (original: 1543.74 EUR) (29.60 %  de descuento) en el siguiente enlace!
 
-[![KS Tools 714.0187 Composición de 187 her](https://m.media-amazon.com/images/I/51STV-AfsuL._SL200_.jpg)](https://www.amazon.es/dp/B017RKRHXS/?tag=tolees-21)
+[![KS Tools 714.0187 Composición de 187 her](https://m.media-amazon.com/images/I/51STV-AfsuL._SL400_.jpg)](https://www.amazon.es/dp/B017RKRHXS/?tag=tolees-21)
 
 🔎:
 

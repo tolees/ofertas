@@ -2,7 +2,7 @@
 layout: post
 title: 'Yakuza Kiwami 2 PS Hits con un 25.61 % de descuento'
 date: 2020-09-08 12:56:20
-image: 'https://m.media-amazon.com/images/I/51xlBfb+b3L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51xlBfb+b3L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.48'
 
 En este momento está [Yakuza Kiwami 2 PS Hits](https://www.amazon.es/dp/B089QS33HL/?tag=tolees-21) a 14.87 EUR (original: 19.99 EUR) (25.61 %  de descuento) en el siguiente enlace!
 
-[![Yakuza Kiwami 2 PS Hits](https://m.media-amazon.com/images/I/51xlBfb+b3L._SL200_.jpg)](https://www.amazon.es/dp/B089QS33HL/?tag=tolees-21)
+[![Yakuza Kiwami 2 PS Hits](https://m.media-amazon.com/images/I/51xlBfb+b3L._SL400_.jpg)](https://www.amazon.es/dp/B089QS33HL/?tag=tolees-21)
 
 🔎:
 

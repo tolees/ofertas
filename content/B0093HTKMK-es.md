@@ -2,7 +2,7 @@
 layout: post
 title: 'Skylanders 2012 - Expansion Pack con un 66.66 % de descuento'
 date: 2020-03-05 18:48:43
-image: 'https://m.media-amazon.com/images/I/61duyvQyOcL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61duyvQyOcL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.0'
 
 En este momento está [Skylanders 2012 - Expansion Pack](https://www.amazon.es/dp/B0093HTKMK/?tag=tolees-21) a 10.0 EUR (original: 29.99 EUR) (66.66 %  de descuento) en el siguiente enlace!
 
-[![Skylanders 2012 - Expansion Pack](https://m.media-amazon.com/images/I/61duyvQyOcL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B0093HTKMK/?tag=tolees-21)
+[![Skylanders 2012 - Expansion Pack](https://m.media-amazon.com/images/I/61duyvQyOcL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B0093HTKMK/?tag=tolees-21)
 
 🔎:
 

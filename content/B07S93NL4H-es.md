@@ -2,7 +2,7 @@
 layout: post
 title: 'Encendedor USB  TECCPO Encendedor Electr al 36.01 % de rebaja'
 date: 2020-01-16 11:33:49
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31cyWsSZNiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31cyWsSZNiL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.65'
 
 Tienes [Encendedor USB  TECCPO Encendedor Electrico sin Llama  Batería Interna de 280 mAh  Usos más de 9000 Veces  Carga Rápida  Resistente al Viento sin Llama  Cable USB y Caja de Regalo Incluidos  -TDEL01P](https://www.amazon.es/dp/B07S93NL4H/?tag=tolees-21) con precio final de  9.97 EUR (original: 15.58 EUR) (36.01 %  de rebaja) aqui!
 
-[![Encendedor USB  TECCPO Encendedor Electr](https://images-eu.ssl-images-amazon.com/images/I/31cyWsSZNiL._SL200_.jpg)](https://www.amazon.es/dp/B07S93NL4H/?tag=tolees-21)
+[![Encendedor USB  TECCPO Encendedor Electr](https://images-eu.ssl-images-amazon.com/images/I/31cyWsSZNiL._SL400_.jpg)](https://www.amazon.es/dp/B07S93NL4H/?tag=tolees-21)
 
 🔎:
 

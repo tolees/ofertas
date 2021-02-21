@@ -2,7 +2,7 @@
 layout: post
 title: 'Kipling KiplingDrawpackMujerBolsos totes al 49.10 % de rebaja'
 date: 2020-08-10 14:35:16
-image: 'https://m.media-amazon.com/images/I/411NOCL06sL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/411NOCL06sL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.815'
 
 Tienes [Kipling KiplingDrawpackMujerBolsos totesMulticolor  Camo Map  39x43x1 Centimeters  B x H x T ](https://www.amazon.es/dp/B07TTPCZ79/?tag=tolees-21) con precio final de  14.76 EUR (original: 29.0 EUR) (49.10 %  de rebaja) aqui!
 
-[![Kipling KiplingDrawpackMujerBolsos totes](https://m.media-amazon.com/images/I/411NOCL06sL._SL200_.jpg)](https://www.amazon.es/dp/B07TTPCZ79/?tag=tolees-21)
+[![Kipling KiplingDrawpackMujerBolsos totes](https://m.media-amazon.com/images/I/411NOCL06sL._SL400_.jpg)](https://www.amazon.es/dp/B07TTPCZ79/?tag=tolees-21)
 
 🔎:
 

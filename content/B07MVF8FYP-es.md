@@ -2,7 +2,7 @@
 layout: post
 title: 'Zapatillas/ADIDAS:Daily 2.0 46 Negro con un 51.19 % de descuento'
 date: 2020-03-25 21:00:34
-image: 'https://m.media-amazon.com/images/I/31obzrNo1vL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31obzrNo1vL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '31.25'
 
 En este momento está [Zapatillas/ADIDAS:Daily 2.0 46 Negro](https://www.amazon.es/dp/B07MVF8FYP/?tag=tolees-21) a 30.5 EUR (original: 62.49 EUR) (51.19 %  de descuento) en el siguiente enlace!
 
-[![Zapatillas/ADIDAS:Daily 2.0 46 Negro](https://m.media-amazon.com/images/I/31obzrNo1vL._SL200_.jpg)](https://www.amazon.es/dp/B07MVF8FYP/?tag=tolees-21)
+[![Zapatillas/ADIDAS:Daily 2.0 46 Negro](https://m.media-amazon.com/images/I/31obzrNo1vL._SL400_.jpg)](https://www.amazon.es/dp/B07MVF8FYP/?tag=tolees-21)
 
 🔎:
 

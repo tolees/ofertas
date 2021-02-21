@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 36.93 % en HABA- Juego de Mesa  Guisantes   Haberma'
 date: 2020-03-29 14:46:31
-image: 'https://m.media-amazon.com/images/I/516T56rP3eL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/516T56rP3eL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.95'
 
 Tienes [HABA- Juego de Mesa  Guisantes   Habermass H304278 ](https://www.amazon.es/dp/B07MZYD5SG/?tag=tolees-21) con un 36.93 % de descuento con precio de oferta de 6.95 EUR (original: 11.02 EUR) en el siguiente enlace!
 
-[![HABA- Juego de Mesa  Guisantes   Haberma](https://m.media-amazon.com/images/I/516T56rP3eL._SL200_.jpg)](https://www.amazon.es/dp/B07MZYD5SG/?tag=tolees-21)
+[![HABA- Juego de Mesa  Guisantes   Haberma](https://m.media-amazon.com/images/I/516T56rP3eL._SL400_.jpg)](https://www.amazon.es/dp/B07MZYD5SG/?tag=tolees-21)
 
 ℹ️:
 

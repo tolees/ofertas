@@ -2,7 +2,7 @@
 layout: post
 title: 'Taky Chocolate Bandas De Cera Corporales al 45.82 % de rebaja'
 date: 2020-08-07 16:34:08
-image: 'https://m.media-amazon.com/images/I/516NZqSD2-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/516NZqSD2-L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.49'
 
 Tienes [Taky Chocolate Bandas De Cera Corporales Depilatorias 12 + 8 Uds 1 Unidad 200 g](https://www.amazon.es/dp/B01I2Y4SMQ/?tag=tolees-21) con precio final de  1.49 EUR (original: 2.75 EUR) (45.82 %  de rebaja) aqui!
 
-[![Taky Chocolate Bandas De Cera Corporales](https://m.media-amazon.com/images/I/516NZqSD2-L._SL200_.jpg)](https://www.amazon.es/dp/B01I2Y4SMQ/?tag=tolees-21)
+[![Taky Chocolate Bandas De Cera Corporales](https://m.media-amazon.com/images/I/516NZqSD2-L._SL400_.jpg)](https://www.amazon.es/dp/B01I2Y4SMQ/?tag=tolees-21)
 
 🔎:
 

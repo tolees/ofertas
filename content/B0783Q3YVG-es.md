@@ -2,7 +2,7 @@
 layout: post
 title: 'PUMA ST RUNNER V2 NL  Zapatillas Unisex  con un 38.56 % de descuento'
 date: 2020-05-29 19:37:55
-image: 'https://m.media-amazon.com/images/I/31iAbDOz1EL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31iAbDOz1EL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '35.69857142857143'
 
 En este momento está [PUMA ST RUNNER V2 NL  Zapatillas Unisex adulto  Negro Black White  38.5 EU](https://www.amazon.es/dp/B0783Q3YVG/?tag=tolees-21) a 33.76 EUR (original: 54.95 EUR) (38.56 %  de descuento) en el siguiente enlace!
 
-[![PUMA ST RUNNER V2 NL  Zapatillas Unisex ](https://m.media-amazon.com/images/I/31iAbDOz1EL._SL200_.jpg)](https://www.amazon.es/dp/B0783Q3YVG/?tag=tolees-21)
+[![PUMA ST RUNNER V2 NL  Zapatillas Unisex ](https://m.media-amazon.com/images/I/31iAbDOz1EL._SL400_.jpg)](https://www.amazon.es/dp/B0783Q3YVG/?tag=tolees-21)
 
 🔎:
 

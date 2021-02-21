@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 28.64 % en Abus 1850 Cable Acero antirrobo Moto  Ne'
 date: 2020-06-08 12:27:11
-image: 'https://m.media-amazon.com/images/I/41bPoqLiMKL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41bPoqLiMKL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.309999999999999'
 
 Tienes [Abus 1850 Cable Acero antirrobo Moto  Negro  185cm](https://www.amazon.es/dp/B000P5QCHA/?tag=tolees-21) con un 28.64 % de descuento con precio de oferta de 10.99 EUR (original: 15.4 EUR) en el siguiente enlace!
 
-[![Abus 1850 Cable Acero antirrobo Moto  Ne](https://m.media-amazon.com/images/I/41bPoqLiMKL._SL200_.jpg)](https://www.amazon.es/dp/B000P5QCHA/?tag=tolees-21)
+[![Abus 1850 Cable Acero antirrobo Moto  Ne](https://m.media-amazon.com/images/I/41bPoqLiMKL._SL400_.jpg)](https://www.amazon.es/dp/B000P5QCHA/?tag=tolees-21)
 
 ℹ️:
 

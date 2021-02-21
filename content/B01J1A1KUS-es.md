@@ -2,7 +2,7 @@
 layout: post
 title: 'Rimmel London Royal Blush Colorete en cr al 34.67 % de descuento'
 date: 2020-05-29 18:33:58
-image: 'https://m.media-amazon.com/images/I/51LJdMMq7aL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51LJdMMq7aL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.123333333333333'
 
 Está [Rimmel London Royal Blush Colorete en crema Tono 3  3.5 g](https://www.amazon.es/dp/B01J1A1KUS/?tag=tolees-21) con 34.67 de descuento por 3.92 EUR (original: 6.0 EUR) en el siguiente enlace!
 
-[![Rimmel London Royal Blush Colorete en cr](https://m.media-amazon.com/images/I/51LJdMMq7aL._SL200_.jpg)](https://www.amazon.es/dp/B01J1A1KUS/?tag=tolees-21)
+[![Rimmel London Royal Blush Colorete en cr](https://m.media-amazon.com/images/I/51LJdMMq7aL._SL400_.jpg)](https://www.amazon.es/dp/B01J1A1KUS/?tag=tolees-21)
 
 ℹ️:
 

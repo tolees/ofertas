@@ -2,7 +2,7 @@
 layout: post
 title: 'Reebok Royal Glide LX  Zapatillas de Gim al 63.39 % de descuento'
 date: 2020-04-17 18:38:36
-image: 'https://m.media-amazon.com/images/I/31JIVBqXXyL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31JIVBqXXyL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '27.44'
 
 Está [Reebok Royal Glide LX  Zapatillas de Gimnasia para Hombre  Negro  Black/Shark/Gum Black/Shark/Gum   39 EU](https://www.amazon.es/dp/B071RTBVDJ/?tag=tolees-21) con 63.39 de descuento por 27.44 EUR (original: 74.95 EUR) en el siguiente enlace!
 
-[![Reebok Royal Glide LX  Zapatillas de Gim](https://m.media-amazon.com/images/I/31JIVBqXXyL._SL200_.jpg)](https://www.amazon.es/dp/B071RTBVDJ/?tag=tolees-21)
+[![Reebok Royal Glide LX  Zapatillas de Gim](https://m.media-amazon.com/images/I/31JIVBqXXyL._SL400_.jpg)](https://www.amazon.es/dp/B071RTBVDJ/?tag=tolees-21)
 
 ℹ️:
 

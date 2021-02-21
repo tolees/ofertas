@@ -2,7 +2,7 @@
 layout: post
 title: 'Max Factor Velvet Mattes Lipstick  Tono  al 46.53 % de descuento'
 date: 2020-04-02 14:44:01
-image: 'https://m.media-amazon.com/images/I/31v0kK3jGdL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31v0kK3jGdL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.35'
 
 Ahora mismo tienes [Max Factor Velvet Mattes Lipstick  Tono 065  1 unidad 40 g](https://www.amazon.es/dp/B07V2JGTJV/?tag=tolees-21) a 6.39 EUR (original: 11.95 EUR) (46.53 %  de descuento) en el siguiente enlace!
 
-[![Max Factor Velvet Mattes Lipstick  Tono ](https://m.media-amazon.com/images/I/31v0kK3jGdL._SL200_.jpg)](https://www.amazon.es/dp/B07V2JGTJV/?tag=tolees-21)
+[![Max Factor Velvet Mattes Lipstick  Tono ](https://m.media-amazon.com/images/I/31v0kK3jGdL._SL400_.jpg)](https://www.amazon.es/dp/B07V2JGTJV/?tag=tolees-21)
 
 🔎:
 

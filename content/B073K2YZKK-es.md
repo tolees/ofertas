@@ -2,7 +2,7 @@
 layout: post
 title: 'Casio Reloj Analogico para Unisex de Cua al 66.74 % de descuento'
 date: 2020-06-21 10:55:38
-image: 'https://m.media-amazon.com/images/I/41xQbLUGwcL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41xQbLUGwcL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '51.24'
 
 Ahora mismo tienes [Casio Reloj Analogico para Unisex de Cuarzo con Correa en Acero Inoxidable LTP-E140B-1AEF](https://www.amazon.es/dp/B073K2YZKK/?tag=tolees-21) a 42.49 EUR (original: 127.76 EUR) (66.74 %  de descuento) en el siguiente enlace!
 
-[![Casio Reloj Analogico para Unisex de Cua](https://m.media-amazon.com/images/I/41xQbLUGwcL._SL200_.jpg)](https://www.amazon.es/dp/B073K2YZKK/?tag=tolees-21)
+[![Casio Reloj Analogico para Unisex de Cua](https://m.media-amazon.com/images/I/41xQbLUGwcL._SL400_.jpg)](https://www.amazon.es/dp/B073K2YZKK/?tag=tolees-21)
 
 🔎:
 

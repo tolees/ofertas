@@ -2,7 +2,7 @@
 layout: post
 title: 'WELEDA Skin Food Original 75 Ml  1x 75 m al 31.90 % de descuento'
 date: 2020-04-25 12:43:16
-image: 'https://m.media-amazon.com/images/I/41EpUWA1KgL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41EpUWA1KgL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.275'
 
 Está [WELEDA Skin Food Original 75 Ml  1x 75 ml ](https://www.amazon.es/dp/B00A3M1TIW/?tag=tolees-21) con 31.90 de descuento por 7.9 EUR (original: 11.6 EUR) en el siguiente enlace!
 
-[![WELEDA Skin Food Original 75 Ml  1x 75 m](https://m.media-amazon.com/images/I/41EpUWA1KgL._SL200_.jpg)](https://www.amazon.es/dp/B00A3M1TIW/?tag=tolees-21)
+[![WELEDA Skin Food Original 75 Ml  1x 75 m](https://m.media-amazon.com/images/I/41EpUWA1KgL._SL400_.jpg)](https://www.amazon.es/dp/B00A3M1TIW/?tag=tolees-21)
 
 ℹ️:
 

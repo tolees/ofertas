@@ -2,7 +2,7 @@
 layout: post
 title: 'Clatronic HT 3393 - Secador de pelo de v al 43.90 % de rebaja'
 date: 2020-02-09 17:39:10
-image: 'https://m.media-amazon.com/images/I/41t3r+MuoQL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41t3r+MuoQL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.9'
 
 Tienes [Clatronic HT 3393 - Secador de pelo de viaje  colores surtidos](https://www.amazon.es/dp/B004PVULGI/?tag=tolees-21) con precio final de  6.9 EUR (original: 12.3 EUR) (43.90 %  de rebaja) aqui!
 
-[![Clatronic HT 3393 - Secador de pelo de v](https://m.media-amazon.com/images/I/41t3r+MuoQL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B004PVULGI/?tag=tolees-21)
+[![Clatronic HT 3393 - Secador de pelo de v](https://m.media-amazon.com/images/I/41t3r+MuoQL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B004PVULGI/?tag=tolees-21)
 
 🔎:
 

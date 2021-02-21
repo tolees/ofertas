@@ -2,7 +2,7 @@
 layout: post
 title: 'Steinbach Colector de Sol  Speed Solar E al 33.95 % de descuento'
 date: 2020-08-29 09:01:08
-image: 'https://m.media-amazon.com/images/I/41APfMNNzPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41APfMNNzPL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '142.0'
 
 Está [Steinbach Colector de Sol  Speed Solar Exclusiv  Negro  110 x 69 x 14 cm  049106](https://www.amazon.es/dp/B016XZRR56/?tag=tolees-21) con 33.95 de descuento por 142.0 EUR (original: 214.99 EUR) en el siguiente enlace!
 
-[![Steinbach Colector de Sol  Speed Solar E](https://m.media-amazon.com/images/I/41APfMNNzPL._SL200_.jpg)](https://www.amazon.es/dp/B016XZRR56/?tag=tolees-21)
+[![Steinbach Colector de Sol  Speed Solar E](https://m.media-amazon.com/images/I/41APfMNNzPL._SL400_.jpg)](https://www.amazon.es/dp/B016XZRR56/?tag=tolees-21)
 
 ℹ️:
 

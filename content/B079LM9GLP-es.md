@@ -2,7 +2,7 @@
 layout: post
 title: 'PERIO Enjuagues Bucales 1 Unidad 150 ml al 46.45 % de rebaja'
 date: 2020-03-13 13:08:38
-image: 'https://m.media-amazon.com/images/I/41Fl9vVfrPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Fl9vVfrPL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.83'
 
 Tienes [PERIO Enjuagues Bucales 1 Unidad 150 ml](https://www.amazon.es/dp/B079LM9GLP/?tag=tolees-21) con precio final de  4.83 EUR (original: 9.02 EUR) (46.45 %  de rebaja) aqui!
 
-[![PERIO Enjuagues Bucales 1 Unidad 150 ml](https://m.media-amazon.com/images/I/41Fl9vVfrPL._SL200_.jpg)](https://www.amazon.es/dp/B079LM9GLP/?tag=tolees-21)
+[![PERIO Enjuagues Bucales 1 Unidad 150 ml](https://m.media-amazon.com/images/I/41Fl9vVfrPL._SL400_.jpg)](https://www.amazon.es/dp/B079LM9GLP/?tag=tolees-21)
 
 🔎:
 

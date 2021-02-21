@@ -2,7 +2,7 @@
 layout: post
 title: 'Skechers Street Cleats 2-Fashion Trail   al 80.80 % de descuento'
 date: 2020-02-21 09:28:33
-image: 'https://m.media-amazon.com/images/I/41tRphLlhkL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41tRphLlhkL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.43'
 
 Ahora mismo tienes [Skechers Street Cleats 2-Fashion Trail  Zapatillas para Mujer  Negro  Black Suede/Duraleather Trim #Flash BBK   35 EU](https://www.amazon.es/dp/B07NW7WWGV/?tag=tolees-21) a 13.43 EUR (original: 69.95 EUR) (80.80 %  de descuento) en el siguiente enlace!
 
-[![Skechers Street Cleats 2-Fashion Trail  ](https://m.media-amazon.com/images/I/41tRphLlhkL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07NW7WWGV/?tag=tolees-21)
+[![Skechers Street Cleats 2-Fashion Trail  ](https://m.media-amazon.com/images/I/41tRphLlhkL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07NW7WWGV/?tag=tolees-21)
 
 🔎:
 

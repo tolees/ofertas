@@ -2,7 +2,7 @@
 layout: post
 title: 'Botones de Resina Botones Costura 240 Pi al 37.67 % de rebaja'
 date: 2020-04-13 00:36:48
-image: 'https://m.media-amazon.com/images/I/51uv9La0VSL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51uv9La0VSL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.59'
 
 Tienes [Botones de Resina Botones Costura 240 Piezas Colores Mezclados Botones Manualidades con Caja de Plástico para manualidades de DIY Coser Artesanía](https://www.amazon.es/dp/B084LZXNF4/?tag=tolees-21) con precio final de  10.59 EUR (original: 16.99 EUR) (37.67 %  de rebaja) aqui!
 
-[![Botones de Resina Botones Costura 240 Pi](https://m.media-amazon.com/images/I/51uv9La0VSL._SL200_.jpg)](https://www.amazon.es/dp/B084LZXNF4/?tag=tolees-21)
+[![Botones de Resina Botones Costura 240 Pi](https://m.media-amazon.com/images/I/51uv9La0VSL._SL400_.jpg)](https://www.amazon.es/dp/B084LZXNF4/?tag=tolees-21)
 
 🔎:
 

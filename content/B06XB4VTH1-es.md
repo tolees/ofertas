@@ -2,7 +2,7 @@
 layout: post
 title: 'Skechers Men Elite Flex-Hartnell Trainer al 27.83 % de descuento'
 date: 2020-08-29 23:10:42
-image: 'https://m.media-amazon.com/images/I/41mP7pd8AhL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41mP7pd8AhL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '50.48'
 
 Está [Skechers Men Elite Flex-Hartnell Trainers  Blue  Navy/Blue   47.5 EU  12 UK ](https://www.amazon.es/dp/B06XB4VTH1/?tag=tolees-21) con 27.83 de descuento por 50.48 EUR (original: 69.95 EUR) en el siguiente enlace!
 
-[![Skechers Men Elite Flex-Hartnell Trainer](https://m.media-amazon.com/images/I/41mP7pd8AhL._SL200_.jpg)](https://www.amazon.es/dp/B06XB4VTH1/?tag=tolees-21)
+[![Skechers Men Elite Flex-Hartnell Trainer](https://m.media-amazon.com/images/I/41mP7pd8AhL._SL400_.jpg)](https://www.amazon.es/dp/B06XB4VTH1/?tag=tolees-21)
 
 ℹ️:
 

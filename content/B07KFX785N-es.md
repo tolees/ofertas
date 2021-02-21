@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 32.74 % en PUMA ST Runner V2 Full L  Zapatillas Uni'
 date: 2020-10-04 12:51:27
-image: 'https://m.media-amazon.com/images/I/318nvYq717L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/318nvYq717L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '36.96'
 
 Tienes [PUMA ST Runner V2 Full L  Zapatillas Unisex Adulto  Negro Black/Castlerock White  36 EU](https://www.amazon.es/dp/B07KFX785N/?tag=tolees-21) con un 32.74 % de descuento con precio de oferta de 36.96 EUR (original: 54.95 EUR) en el siguiente enlace!
 
-[![PUMA ST Runner V2 Full L  Zapatillas Uni](https://m.media-amazon.com/images/I/318nvYq717L._SL200_.jpg)](https://www.amazon.es/dp/B07KFX785N/?tag=tolees-21)
+[![PUMA ST Runner V2 Full L  Zapatillas Uni](https://m.media-amazon.com/images/I/318nvYq717L._SL400_.jpg)](https://www.amazon.es/dp/B07KFX785N/?tag=tolees-21)
 
 ℹ️:
 

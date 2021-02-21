@@ -2,7 +2,7 @@
 layout: post
 title: 'Akileine NOK - Crema anti rozamientos An al 43.39 % de rebaja'
 date: 2020-06-28 16:16:30
-image: 'https://m.media-amazon.com/images/I/51P7GJ6NAcL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51P7GJ6NAcL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.38'
 
 Tienes [Akileine NOK - Crema anti rozamientos Anti-rozaduras  para ampollas e irritación - Pack 3 x 75ml](https://www.amazon.es/dp/B00VFXDJK4/?tag=tolees-21) con precio final de  20.38 EUR (original: 36.0 EUR) (43.39 %  de rebaja) aqui!
 
-[![Akileine NOK - Crema anti rozamientos An](https://m.media-amazon.com/images/I/51P7GJ6NAcL._SL200_.jpg)](https://www.amazon.es/dp/B00VFXDJK4/?tag=tolees-21)
+[![Akileine NOK - Crema anti rozamientos An](https://m.media-amazon.com/images/I/51P7GJ6NAcL._SL400_.jpg)](https://www.amazon.es/dp/B00VFXDJK4/?tag=tolees-21)
 
 🔎:
 

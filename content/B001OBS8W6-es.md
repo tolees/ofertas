@@ -2,7 +2,7 @@
 layout: post
 title: 'HP C4906AE 940XL Cartucho de Tinta Origi al 32.32 % de descuento'
 date: 2020-01-21 22:42:17
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41PPuN8HwvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41PPuN8HwvL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '33'
 
 Está [HP C4906AE 940XL Cartucho de Tinta Original de alto rendimiento  1 unidad  negro](https://www.amazon.es/dp/B001OBS8W6/?tag=tolees-21) con 32.32 de descuento por 33 EUR (original: 48.76 EUR) en el siguiente enlace!
 
-[![HP C4906AE 940XL Cartucho de Tinta Origi](https://images-eu.ssl-images-amazon.com/images/I/41PPuN8HwvL._SL200_.jpg)](https://www.amazon.es/dp/B001OBS8W6/?tag=tolees-21)
+[![HP C4906AE 940XL Cartucho de Tinta Origi](https://images-eu.ssl-images-amazon.com/images/I/41PPuN8HwvL._SL400_.jpg)](https://www.amazon.es/dp/B001OBS8W6/?tag=tolees-21)
 
 ℹ️:
 

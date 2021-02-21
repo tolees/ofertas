@@ -2,7 +2,7 @@
 layout: post
 title: 'Geographical Norway Polar RIAKOLO Mujer  al 30.00 % de descuento'
 date: 2020-09-22 12:03:28
-image: 'https://m.media-amazon.com/images/I/51RVNE4TlxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51RVNE4TlxL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '48.3'
 
 Ahora mismo tienes [Geographical Norway Polar RIAKOLO Mujer Gris Claro 02](https://www.amazon.es/dp/B082BCK82T/?tag=tolees-21) a 48.3 EUR (original: 69.0 EUR) (30.00 %  de descuento) en el siguiente enlace!
 
-[![Geographical Norway Polar RIAKOLO Mujer ](https://m.media-amazon.com/images/I/51RVNE4TlxL._SL200_.jpg)](https://www.amazon.es/dp/B082BCK82T/?tag=tolees-21)
+[![Geographical Norway Polar RIAKOLO Mujer ](https://m.media-amazon.com/images/I/51RVNE4TlxL._SL400_.jpg)](https://www.amazon.es/dp/B082BCK82T/?tag=tolees-21)
 
 🔎:
 

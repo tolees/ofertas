@@ -2,7 +2,7 @@
 layout: post
 title: 'Sandalia Tipo Chancla Masaje de Hombre M con un 35.73 % de descuento'
 date: 2020-08-26 14:07:23
-image: 'https://m.media-amazon.com/images/I/41e06wpzLXL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41e06wpzLXL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.99'
 
 En este momento está [Sandalia Tipo Chancla Masaje de Hombre Mujer Unisex  Tira Ancha Suela con Agujero  Zapatillas de Casa Playa para Verano Interior/Exterior  Negro  38/39 EU](https://www.amazon.es/dp/B07PHQBYH8/?tag=tolees-21) a 17.99 EUR (original: 27.99 EUR) (35.73 %  de descuento) en el siguiente enlace!
 
-[![Sandalia Tipo Chancla Masaje de Hombre M](https://m.media-amazon.com/images/I/41e06wpzLXL._SL200_.jpg)](https://www.amazon.es/dp/B07PHQBYH8/?tag=tolees-21)
+[![Sandalia Tipo Chancla Masaje de Hombre M](https://m.media-amazon.com/images/I/41e06wpzLXL._SL400_.jpg)](https://www.amazon.es/dp/B07PHQBYH8/?tag=tolees-21)
 
 🔎:
 

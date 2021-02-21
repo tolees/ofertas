@@ -2,7 +2,7 @@
 layout: post
 title: 'Bosch Professional GST 90 E - Sierra de  con un 31.13 % de descuento'
 date: 2020-09-11 12:07:53
-image: 'https://m.media-amazon.com/images/I/41nNVDdftDL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41nNVDdftDL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '114.776'
 
 En este momento está [Bosch Professional GST 90 E - Sierra de calar  650 W  500 - 3100 cpm  profundidad de corte 90 mm  en maletín ](https://www.amazon.es/dp/B0071T3MFI/?tag=tolees-21) a 125.0 EUR (original: 181.5 EUR) (31.13 %  de descuento) en el siguiente enlace!
 
-[![Bosch Professional GST 90 E - Sierra de ](https://m.media-amazon.com/images/I/41nNVDdftDL._SL200_.jpg)](https://www.amazon.es/dp/B0071T3MFI/?tag=tolees-21)
+[![Bosch Professional GST 90 E - Sierra de ](https://m.media-amazon.com/images/I/41nNVDdftDL._SL400_.jpg)](https://www.amazon.es/dp/B0071T3MFI/?tag=tolees-21)
 
 🔎:
 

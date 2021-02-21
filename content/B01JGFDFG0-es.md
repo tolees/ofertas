@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 90.00 % en Bourjois Boite Ronde Sombra de ojos Tono'
 date: 2020-07-21 18:20:00
-image: 'https://m.media-amazon.com/images/I/51qqxCEFUwL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51qqxCEFUwL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.6857142857142857'
 
 Tienes [Bourjois Boite Ronde Sombra de ojos Tono 13 Extra-vertie  - 16 gr.](https://www.amazon.es/dp/B01JGFDFG0/?tag=tolees-21) con un 90.00 % de descuento con precio de oferta de 0.9 EUR (original: 9.0 EUR) en el siguiente enlace!
 
-[![Bourjois Boite Ronde Sombra de ojos Tono](https://m.media-amazon.com/images/I/51qqxCEFUwL._SL200_.jpg)](https://www.amazon.es/dp/B01JGFDFG0/?tag=tolees-21)
+[![Bourjois Boite Ronde Sombra de ojos Tono](https://m.media-amazon.com/images/I/51qqxCEFUwL._SL400_.jpg)](https://www.amazon.es/dp/B01JGFDFG0/?tag=tolees-21)
 
 ℹ️:
 

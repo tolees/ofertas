@@ -2,7 +2,7 @@
 layout: post
 title: 'Rosendo - Mi Tiempo Señorías… 2CD+DVD  al 44.64 % de descuento'
 date: 2020-04-11 07:09:26
-image: 'https://m.media-amazon.com/images/I/41a0HEXnjiL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41a0HEXnjiL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.99'
 
 Está [Rosendo - Mi Tiempo Señorías… 2CD+DVD ](https://www.amazon.es/dp/B07ZV1WJWY/?tag=tolees-21) con 44.64 de descuento por 8.99 EUR (original: 16.24 EUR) en el siguiente enlace!
 
-[![Rosendo - Mi Tiempo Señorías… 2CD+DVD ](https://m.media-amazon.com/images/I/41a0HEXnjiL._SL200_.jpg)](https://www.amazon.es/dp/B07ZV1WJWY/?tag=tolees-21)
+[![Rosendo - Mi Tiempo Señorías… 2CD+DVD ](https://m.media-amazon.com/images/I/41a0HEXnjiL._SL400_.jpg)](https://www.amazon.es/dp/B07ZV1WJWY/?tag=tolees-21)
 
 ℹ️:
 

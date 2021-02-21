@@ -2,7 +2,7 @@
 layout: post
 title: 'Otto Koning - Dortmund- Set 42 cubiertos al 67.86 % de descuento'
 date: 2020-03-15 18:48:56
-image: 'https://m.media-amazon.com/images/I/41KReiHGfoL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41KReiHGfoL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '44.99'
 
 Está [Otto Koning - Dortmund- Set 42 cubiertos para 6 comensales  acero inoxidable 18/10 - pulido espejo- con tenedor  cuchara  cuchillo  tenedor postre  cuchara postre  cuchillo postre y cuchara moka.](https://www.amazon.es/dp/B0836CVMPY/?tag=tolees-21) con 67.86 de descuento por 44.99 EUR (original: 140.0 EUR) en el siguiente enlace!
 
-[![Otto Koning - Dortmund- Set 42 cubiertos](https://m.media-amazon.com/images/I/41KReiHGfoL._SL200_.jpg)](https://www.amazon.es/dp/B0836CVMPY/?tag=tolees-21)
+[![Otto Koning - Dortmund- Set 42 cubiertos](https://m.media-amazon.com/images/I/41KReiHGfoL._SL400_.jpg)](https://www.amazon.es/dp/B0836CVMPY/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Adidas Terrex Tracerocker  Zapatillas de al 28.57 % de descuento'
 date: 2020-03-17 11:50:38
-image: 'https://m.media-amazon.com/images/I/31xSZx76PpL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31xSZx76PpL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '39.98'
 
 Ahora mismo tienes [Adidas Terrex Tracerocker  Zapatillas de Senderismo para Hombre  Negro  Negbas/Neguti 000   42 EU](https://www.amazon.es/dp/B0725R2MYD/?tag=tolees-21) a 39.98 EUR (original: 55.97 EUR) (28.57 %  de descuento) en el siguiente enlace!
 
-[![Adidas Terrex Tracerocker  Zapatillas de](https://m.media-amazon.com/images/I/31xSZx76PpL._SL200_.jpg)](https://www.amazon.es/dp/B0725R2MYD/?tag=tolees-21)
+[![Adidas Terrex Tracerocker  Zapatillas de](https://m.media-amazon.com/images/I/31xSZx76PpL._SL400_.jpg)](https://www.amazon.es/dp/B0725R2MYD/?tag=tolees-21)
 
 🔎:
 

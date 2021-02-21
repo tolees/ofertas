@@ -2,7 +2,7 @@
 layout: post
 title: 'Jack & Jones Jjepaulos Polo SS Plus  Azu al 41.68 % de rebaja'
 date: 2020-06-21 10:28:54
-image: 'https://m.media-amazon.com/images/I/41lifRPQQDL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41lifRPQQDL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.49'
 
 Tienes [Jack & Jones Jjepaulos Polo SS Plus  Azul  Bright Cobalt Detail: PS   XXXXX-Large para Hombre](https://www.amazon.es/dp/B07CNMDL4V/?tag=tolees-21) con precio final de  17.49 EUR (original: 29.99 EUR) (41.68 %  de rebaja) aqui!
 
-[![Jack & Jones Jjepaulos Polo SS Plus  Azu](https://m.media-amazon.com/images/I/41lifRPQQDL._SL200_.jpg)](https://www.amazon.es/dp/B07CNMDL4V/?tag=tolees-21)
+[![Jack & Jones Jjepaulos Polo SS Plus  Azu](https://m.media-amazon.com/images/I/41lifRPQQDL._SL400_.jpg)](https://www.amazon.es/dp/B07CNMDL4V/?tag=tolees-21)
 
 🔎:
 

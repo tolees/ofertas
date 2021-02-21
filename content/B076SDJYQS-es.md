@@ -2,7 +2,7 @@
 layout: post
 title: 'D.Vinity Kit de Belleza Ultra Soft - 3 P al 52.26 % de descuento'
 date: 2020-01-04 21:35:24
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41YdcvipctL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41YdcvipctL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.06'
 
 Está [D.Vinity Kit de Belleza Ultra Soft - 3 Piezas](https://www.amazon.es/dp/B076SDJYQS/?tag=tolees-21) con 52.26 de descuento por 14.06 EUR (original: 29.45 EUR) en el siguiente enlace!
 
-[![D.Vinity Kit de Belleza Ultra Soft - 3 P](https://images-eu.ssl-images-amazon.com/images/I/41YdcvipctL._SL200_.jpg)](https://www.amazon.es/dp/B076SDJYQS/?tag=tolees-21)
+[![D.Vinity Kit de Belleza Ultra Soft - 3 P](https://images-eu.ssl-images-amazon.com/images/I/41YdcvipctL._SL400_.jpg)](https://www.amazon.es/dp/B076SDJYQS/?tag=tolees-21)
 
 ℹ️:
 

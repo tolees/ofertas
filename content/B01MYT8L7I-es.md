@@ -2,7 +2,7 @@
 layout: post
 title: 'Audio Pro Addon T5 - Altavoz inalámbrico al 59.80 % de descuento'
 date: 2020-03-30 07:11:04
-image: 'https://m.media-amazon.com/images/I/31xHMPYIByL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31xHMPYIByL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '80.0'
 
 Ahora mismo tienes [Audio Pro Addon T5 - Altavoz inalámbrico  Color Blanco](https://www.amazon.es/dp/B01MYT8L7I/?tag=tolees-21) a 80.0 EUR (original: 199.0 EUR) (59.80 %  de descuento) en el siguiente enlace!
 
-[![Audio Pro Addon T5 - Altavoz inalámbrico](https://m.media-amazon.com/images/I/31xHMPYIByL._SL200_.jpg)](https://www.amazon.es/dp/B01MYT8L7I/?tag=tolees-21)
+[![Audio Pro Addon T5 - Altavoz inalámbrico](https://m.media-amazon.com/images/I/31xHMPYIByL._SL400_.jpg)](https://www.amazon.es/dp/B01MYT8L7I/?tag=tolees-21)
 
 🔎:
 

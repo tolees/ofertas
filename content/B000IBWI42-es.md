@@ -2,7 +2,7 @@
 layout: post
 title: 'Coleman 3000005133 Nevera Rígida  Unisex al 36.56 % de descuento'
 date: 2020-07-07 10:10:11
-image: 'https://m.media-amazon.com/images/I/41vbVJQmvPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41vbVJQmvPL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.95'
 
 Ahora mismo tienes [Coleman 3000005133 Nevera Rígida  Unisex Adulto  Azul  4 L](https://www.amazon.es/dp/B000IBWI42/?tag=tolees-21) a 13.95 EUR (original: 21.99 EUR) (36.56 %  de descuento) en el siguiente enlace!
 
-[![Coleman 3000005133 Nevera Rígida  Unisex](https://m.media-amazon.com/images/I/41vbVJQmvPL._SL200_.jpg)](https://www.amazon.es/dp/B000IBWI42/?tag=tolees-21)
+[![Coleman 3000005133 Nevera Rígida  Unisex](https://m.media-amazon.com/images/I/41vbVJQmvPL._SL400_.jpg)](https://www.amazon.es/dp/B000IBWI42/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Colgate 360  Cepillo de dientes  Suave   al 28.73 % de descuento'
 date: 2020-09-13 19:15:34
-image: 'https://m.media-amazon.com/images/I/412kP0GvzpL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/412kP0GvzpL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.25'
 
 Ahora mismo tienes [Colgate 360  Cepillo de dientes  Suave  limpiador de lengua y mejillas - 1 ud](https://www.amazon.es/dp/B001E97CHK/?tag=tolees-21) a 3.3 EUR (original: 4.63 EUR) (28.73 %  de descuento) en el siguiente enlace!
 
-[![Colgate 360  Cepillo de dientes  Suave  ](https://m.media-amazon.com/images/I/412kP0GvzpL._SL200_.jpg)](https://www.amazon.es/dp/B001E97CHK/?tag=tolees-21)
+[![Colgate 360  Cepillo de dientes  Suave  ](https://m.media-amazon.com/images/I/412kP0GvzpL._SL400_.jpg)](https://www.amazon.es/dp/B001E97CHK/?tag=tolees-21)
 
 🔎:
 

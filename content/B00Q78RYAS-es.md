@@ -2,7 +2,7 @@
 layout: post
 title: 'MENFORSAN Champú Perros Acondicionador - con un 34.40 % de descuento'
 date: 2020-06-12 14:47:38
-image: 'https://m.media-amazon.com/images/I/411YEAFE8GL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/411YEAFE8GL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.92'
 
 En este momento está [MENFORSAN Champú Perros Acondicionador - 300 ml](https://www.amazon.es/dp/B00Q78RYAS/?tag=tolees-21) a 4.92 EUR (original: 7.5 EUR) (34.40 %  de descuento) en el siguiente enlace!
 
-[![MENFORSAN Champú Perros Acondicionador -](https://m.media-amazon.com/images/I/411YEAFE8GL._SL200_.jpg)](https://www.amazon.es/dp/B00Q78RYAS/?tag=tolees-21)
+[![MENFORSAN Champú Perros Acondicionador -](https://m.media-amazon.com/images/I/411YEAFE8GL._SL400_.jpg)](https://www.amazon.es/dp/B00Q78RYAS/?tag=tolees-21)
 
 🔎:
 

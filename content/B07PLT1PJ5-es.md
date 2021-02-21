@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 29.55 % en Don Algodon DO015  Zapatillas para Mujer'
 date: 2020-01-09 13:59:47
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31dx-e-g10L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31dx-e-g10L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '30.99'
 
 Tienes [Don Algodon DO015  Zapatillas para Mujer  Multicolor 015  38 EU](https://www.amazon.es/dp/B07PLT1PJ5/?tag=tolees-21) con un 29.55 % de descuento con precio de oferta de 30.99 EUR (original: 43.99 EUR) en el siguiente enlace!
 
-[![Don Algodon DO015  Zapatillas para Mujer](https://images-eu.ssl-images-amazon.com/images/I/31dx-e-g10L._SL200_.jpg)](https://www.amazon.es/dp/B07PLT1PJ5/?tag=tolees-21)
+[![Don Algodon DO015  Zapatillas para Mujer](https://images-eu.ssl-images-amazon.com/images/I/31dx-e-g10L._SL400_.jpg)](https://www.amazon.es/dp/B07PLT1PJ5/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Aibrou Pijamas Hombre Verano Corto de 10 al 66.01 % de descuento'
 date: 2020-08-05 12:37:28
-image: 'https://m.media-amazon.com/images/I/41mIe7YgG3L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41mIe7YgG3L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.99'
 
 Ahora mismo tienes [Aibrou Pijamas Hombre Verano Corto de 100% Algodón Conjuntos de Pijamas para Hombre Mangas Cortas](https://www.amazon.es/dp/B07RR7GCXL/?tag=tolees-21) a 16.99 EUR (original: 49.99 EUR) (66.01 %  de descuento) en el siguiente enlace!
 
-[![Aibrou Pijamas Hombre Verano Corto de 10](https://m.media-amazon.com/images/I/41mIe7YgG3L._SL200_.jpg)](https://www.amazon.es/dp/B07RR7GCXL/?tag=tolees-21)
+[![Aibrou Pijamas Hombre Verano Corto de 10](https://m.media-amazon.com/images/I/41mIe7YgG3L._SL400_.jpg)](https://www.amazon.es/dp/B07RR7GCXL/?tag=tolees-21)
 
 🔎:
 

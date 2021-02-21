@@ -2,7 +2,7 @@
 layout: post
 title: 'Scuderia Ferrari Reloj de Pulsera 830595 al 30.00 % de descuento'
 date: 2020-05-16 18:13:08
-image: 'https://m.media-amazon.com/images/I/51-NMxb1AqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51-NMxb1AqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '157.5'
 
 Ahora mismo tienes [Scuderia Ferrari Reloj de Pulsera 830595](https://www.amazon.es/dp/B07KTPDLLP/?tag=tolees-21) a 157.5 EUR (original: 225.0 EUR) (30.00 %  de descuento) en el siguiente enlace!
 
-[![Scuderia Ferrari Reloj de Pulsera 830595](https://m.media-amazon.com/images/I/51-NMxb1AqL._SL200_.jpg)](https://www.amazon.es/dp/B07KTPDLLP/?tag=tolees-21)
+[![Scuderia Ferrari Reloj de Pulsera 830595](https://m.media-amazon.com/images/I/51-NMxb1AqL._SL400_.jpg)](https://www.amazon.es/dp/B07KTPDLLP/?tag=tolees-21)
 
 🔎:
 

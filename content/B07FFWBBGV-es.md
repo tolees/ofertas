@@ -2,7 +2,7 @@
 layout: post
 title: 'Saucony Xodus ISO 3  Zapatillas de Trail al 56.28 % de descuento'
 date: 2020-07-24 11:12:11
-image: 'https://m.media-amazon.com/images/I/41EPuhBe4zL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41EPuhBe4zL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '67.51750000000001'
 
 Ahora mismo tienes [Saucony Xodus ISO 3  Zapatillas de Trail Running para Mujer  Gris Gris 3  37.5 EU](https://www.amazon.es/dp/B07FFWBBGV/?tag=tolees-21) a 69.95 EUR (original: 160.0 EUR) (56.28 %  de descuento) en el siguiente enlace!
 
-[![Saucony Xodus ISO 3  Zapatillas de Trail](https://m.media-amazon.com/images/I/41EPuhBe4zL._SL200_.jpg)](https://www.amazon.es/dp/B07FFWBBGV/?tag=tolees-21)
+[![Saucony Xodus ISO 3  Zapatillas de Trail](https://m.media-amazon.com/images/I/41EPuhBe4zL._SL400_.jpg)](https://www.amazon.es/dp/B07FFWBBGV/?tag=tolees-21)
 
 🔎:
 

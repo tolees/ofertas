@@ -2,7 +2,7 @@
 layout: post
 title: 'Fast & Furious 8 [Blu-ray] con un 33.92 % de descuento'
 date: 2020-10-04 23:40:10
-image: 'https://m.media-amazon.com/images/I/510+Ol26WWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/510+Ol26WWL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.99'
 
 En este momento está [Fast & Furious 8 [Blu-ray]](https://www.amazon.es/dp/B071R3FYRG/?tag=tolees-21) a 13.99 EUR (original: 21.17 EUR) (33.92 %  de descuento) en el siguiente enlace!
 
-[![Fast & Furious 8 [Blu-ray]](https://m.media-amazon.com/images/I/510+Ol26WWL._SL200_.jpg)](https://www.amazon.es/dp/B071R3FYRG/?tag=tolees-21)
+[![Fast & Furious 8 [Blu-ray]](https://m.media-amazon.com/images/I/510+Ol26WWL._SL400_.jpg)](https://www.amazon.es/dp/B071R3FYRG/?tag=tolees-21)
 
 🔎:
 

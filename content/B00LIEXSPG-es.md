@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 30.89 % en MAKITA UC4041A Herramienta  1800 W  240 '
 date: 2020-09-08 17:22:22
-image: 'https://m.media-amazon.com/images/I/41xXKN8Kf2L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41xXKN8Kf2L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '125.76'
 
 Tienes [MAKITA UC4041A Herramienta  1800 W  240 V  Negro  Azul  40cm](https://www.amazon.es/dp/B00LIEXSPG/?tag=tolees-21) con un 30.89 % de descuento con precio de oferta de 125.76 EUR (original: 181.97 EUR) en el siguiente enlace!
 
-[![MAKITA UC4041A Herramienta  1800 W  240 ](https://m.media-amazon.com/images/I/41xXKN8Kf2L._SL200_.jpg)](https://www.amazon.es/dp/B00LIEXSPG/?tag=tolees-21)
+[![MAKITA UC4041A Herramienta  1800 W  240 ](https://m.media-amazon.com/images/I/41xXKN8Kf2L._SL400_.jpg)](https://www.amazon.es/dp/B00LIEXSPG/?tag=tolees-21)
 
 ℹ️:
 

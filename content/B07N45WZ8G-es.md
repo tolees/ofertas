@@ -2,7 +2,7 @@
 layout: post
 title: 'Paco Rabanne 58009 Xs Pure Night Eau de  con un 52.98 % de descuento'
 date: 2020-06-22 15:23:08
-image: 'https://m.media-amazon.com/images/I/418l0Kcn1LL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/418l0Kcn1LL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '44.9'
 
 En este momento está [Paco Rabanne 58009 Xs Pure Night Eau de Parfum  100 ml](https://www.amazon.es/dp/B07N45WZ8G/?tag=tolees-21) a 44.9 EUR (original: 95.5 EUR) (52.98 %  de descuento) en el siguiente enlace!
 
-[![Paco Rabanne 58009 Xs Pure Night Eau de ](https://m.media-amazon.com/images/I/418l0Kcn1LL._SL200_.jpg)](https://www.amazon.es/dp/B07N45WZ8G/?tag=tolees-21)
+[![Paco Rabanne 58009 Xs Pure Night Eau de ](https://m.media-amazon.com/images/I/418l0Kcn1LL._SL400_.jpg)](https://www.amazon.es/dp/B07N45WZ8G/?tag=tolees-21)
 
 🔎:
 

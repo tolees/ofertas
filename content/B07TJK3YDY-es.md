@@ -2,7 +2,7 @@
 layout: post
 title: 'Clarks Alexis Shine  Sandalia con Pulser con un 54.21 % de descuento'
 date: 2020-07-16 17:39:29
-image: 'https://m.media-amazon.com/images/I/41h029EeadL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41h029EeadL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '34.205'
 
 En este momento está [Clarks Alexis Shine  Sandalia con Pulsera para Mujer  Azul  Navy Navy   36 EU](https://www.amazon.es/dp/B07TJK3YDY/?tag=tolees-21) a 32.03 EUR (original: 69.95 EUR) (54.21 %  de descuento) en el siguiente enlace!
 
-[![Clarks Alexis Shine  Sandalia con Pulser](https://m.media-amazon.com/images/I/41h029EeadL._SL200_.jpg)](https://www.amazon.es/dp/B07TJK3YDY/?tag=tolees-21)
+[![Clarks Alexis Shine  Sandalia con Pulser](https://m.media-amazon.com/images/I/41h029EeadL._SL400_.jpg)](https://www.amazon.es/dp/B07TJK3YDY/?tag=tolees-21)
 
 🔎:
 

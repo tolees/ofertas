@@ -2,7 +2,7 @@
 layout: post
 title: 'JUGUETE DE PINTURA POR NUMEROS - Flores  al 46.12 % de descuento'
 date: 2020-06-08 11:45:54
-image: 'https://m.media-amazon.com/images/I/51otJeFF7TL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51otJeFF7TL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.99'
 
 Ahora mismo tienes [JUGUETE DE PINTURA POR NUMEROS - Flores - INTERHOME©](https://www.amazon.es/dp/B017VSV2VO/?tag=tolees-21) a 9.99 EUR (original: 18.54 EUR) (46.12 %  de descuento) en el siguiente enlace!
 
-[![JUGUETE DE PINTURA POR NUMEROS - Flores ](https://m.media-amazon.com/images/I/51otJeFF7TL._SL200_.jpg)](https://www.amazon.es/dp/B017VSV2VO/?tag=tolees-21)
+[![JUGUETE DE PINTURA POR NUMEROS - Flores ](https://m.media-amazon.com/images/I/51otJeFF7TL._SL400_.jpg)](https://www.amazon.es/dp/B017VSV2VO/?tag=tolees-21)
 
 🔎:
 

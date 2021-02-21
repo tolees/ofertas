@@ -2,7 +2,7 @@
 layout: post
 title: 'American Crew Superglue Gel Fijador   Fi al 38.70 % de descuento'
 date: 2020-05-24 11:32:20
-image: 'https://m.media-amazon.com/images/I/316K45bnxmL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/316K45bnxmL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.4'
 
 Ahora mismo tienes [American Crew Superglue Gel Fijador   Fijación Extrema y Brillo Alto  100 ml](https://www.amazon.es/dp/B00BLFO2NY/?tag=tolees-21) a 6.4 EUR (original: 10.44 EUR) (38.70 %  de descuento) en el siguiente enlace!
 
-[![American Crew Superglue Gel Fijador   Fi](https://m.media-amazon.com/images/I/316K45bnxmL._SL200_.jpg)](https://www.amazon.es/dp/B00BLFO2NY/?tag=tolees-21)
+[![American Crew Superglue Gel Fijador   Fi](https://m.media-amazon.com/images/I/316K45bnxmL._SL400_.jpg)](https://www.amazon.es/dp/B00BLFO2NY/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Bergner Red Stone Plancha-asador en Alum al 26.58 % de rebaja'
 date: 2020-03-21 13:28:59
-image: 'https://m.media-amazon.com/images/I/51419CuPR1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51419CuPR1L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.49'
 
 Tienes [Bergner Red Stone Plancha-asador en Aluminio Fundido  Silicona  Negro  36 x 23 cm](https://www.amazon.es/dp/B01709DSGG/?tag=tolees-21) con precio final de  20.99 EUR (original: 28.59 EUR) (26.58 %  de rebaja) aqui!
 
-[![Bergner Red Stone Plancha-asador en Alum](https://m.media-amazon.com/images/I/51419CuPR1L._SL200_.jpg)](https://www.amazon.es/dp/B01709DSGG/?tag=tolees-21)
+[![Bergner Red Stone Plancha-asador en Alum](https://m.media-amazon.com/images/I/51419CuPR1L._SL400_.jpg)](https://www.amazon.es/dp/B01709DSGG/?tag=tolees-21)
 
 🔎:
 

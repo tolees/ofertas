@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas Fef H Mini Equipamento de Fútbol  al 27.07 % de descuento'
 date: 2020-09-25 15:11:17
-image: 'https://m.media-amazon.com/images/I/41XDkXJYgoL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41XDkXJYgoL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '33.12'
 
 Ahora mismo tienes [adidas Fef H Mini Equipamento de Fútbol  Unisex niños  Victory Red  3-4Y](https://www.amazon.es/dp/B081JSZL7V/?tag=tolees-21) a 47.37 EUR (original: 64.95 EUR) (27.07 %  de descuento) en el siguiente enlace!
 
-[![adidas Fef H Mini Equipamento de Fútbol ](https://m.media-amazon.com/images/I/41XDkXJYgoL._SL200_.jpg)](https://www.amazon.es/dp/B081JSZL7V/?tag=tolees-21)
+[![adidas Fef H Mini Equipamento de Fútbol ](https://m.media-amazon.com/images/I/41XDkXJYgoL._SL400_.jpg)](https://www.amazon.es/dp/B081JSZL7V/?tag=tolees-21)
 
 🔎:
 

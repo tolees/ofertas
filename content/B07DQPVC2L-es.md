@@ -2,7 +2,7 @@
 layout: post
 title: 'Dihope - Medias de fútbol - para hombre  al 73.28 % de descuento'
 date: 2020-05-12 15:03:48
-image: 'https://m.media-amazon.com/images/I/51ebcjE4YJL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51ebcjE4YJL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.89'
 
 Ahora mismo tienes [Dihope - Medias de fútbol - para hombre 3*noir+3blanc Talla única](https://www.amazon.es/dp/B07DQPVC2L/?tag=tolees-21) a 6.89 EUR (original: 25.79 EUR) (73.28 %  de descuento) en el siguiente enlace!
 
-[![Dihope - Medias de fútbol - para hombre ](https://m.media-amazon.com/images/I/51ebcjE4YJL._SL200_.jpg)](https://www.amazon.es/dp/B07DQPVC2L/?tag=tolees-21)
+[![Dihope - Medias de fútbol - para hombre ](https://m.media-amazon.com/images/I/51ebcjE4YJL._SL400_.jpg)](https://www.amazon.es/dp/B07DQPVC2L/?tag=tolees-21)
 
 🔎:
 

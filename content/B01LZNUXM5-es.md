@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 71.93 % en Resultado de la Mujer r121 F Soft Shell '
 date: 2020-01-20 08:44:33
-image: 'None._SL200_'
+image: 'None._SL400_'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.12'
 
 Tienes [Resultado de la Mujer r121 F Soft Shell  Liso  Mujer  Color Azure  tamaño XL](https://www.amazon.es/dp/B01LZNUXM5/?tag=tolees-21) con un 71.93 % de descuento con precio de oferta de 11.12 EUR (original: 39.61 EUR) en el siguiente enlace!
 
-[![Resultado de la Mujer r121 F Soft Shell ](None._SL200_)](https://www.amazon.es/dp/B01LZNUXM5/?tag=tolees-21)
+[![Resultado de la Mujer r121 F Soft Shell ](None._SL400_)](https://www.amazon.es/dp/B01LZNUXM5/?tag=tolees-21)
 
 ℹ️:
 

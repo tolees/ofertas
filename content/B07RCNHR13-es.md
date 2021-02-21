@@ -2,7 +2,7 @@
 layout: post
 title: 'Nike W Nk Dry Get Fit FLC HD FZ JDI Long con un 32.03 % de descuento'
 date: 2020-04-14 14:08:55
-image: 'https://m.media-amazon.com/images/I/41QAnm7b71L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41QAnm7b71L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '25.82'
 
 En este momento está [Nike W Nk Dry Get Fit FLC HD FZ JDI Long Sleeved T-Shirt  Mujer  Black/White  XS](https://www.amazon.es/dp/B07RCNHR13/?tag=tolees-21) a 25.82 EUR (original: 37.99 EUR) (32.03 %  de descuento) en el siguiente enlace!
 
-[![Nike W Nk Dry Get Fit FLC HD FZ JDI Long](https://m.media-amazon.com/images/I/41QAnm7b71L._SL200_.jpg)](https://www.amazon.es/dp/B07RCNHR13/?tag=tolees-21)
+[![Nike W Nk Dry Get Fit FLC HD FZ JDI Long](https://m.media-amazon.com/images/I/41QAnm7b71L._SL400_.jpg)](https://www.amazon.es/dp/B07RCNHR13/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'PUMA LQDCELL Optic Rave  Zapatillas de R con un 29.52 % de descuento'
 date: 2020-04-04 11:05:08
-image: 'https://m.media-amazon.com/images/I/41z9ntJohxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41z9ntJohxL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '30.3'
 
 En este momento está [PUMA LQDCELL Optic Rave  Zapatillas de Running para Hombre  Black  43 EU](https://www.amazon.es/dp/B07KG16TR3/?tag=tolees-21) a 30.3 EUR (original: 42.99 EUR) (29.52 %  de descuento) en el siguiente enlace!
 
-[![PUMA LQDCELL Optic Rave  Zapatillas de R](https://m.media-amazon.com/images/I/41z9ntJohxL._SL200_.jpg)](https://www.amazon.es/dp/B07KG16TR3/?tag=tolees-21)
+[![PUMA LQDCELL Optic Rave  Zapatillas de R](https://m.media-amazon.com/images/I/41z9ntJohxL._SL400_.jpg)](https://www.amazon.es/dp/B07KG16TR3/?tag=tolees-21)
 
 🔎:
 

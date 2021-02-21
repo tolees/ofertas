@@ -2,7 +2,7 @@
 layout: post
 title: 'Habitdesign - Estantería librería  estan al 29.71 % de descuento'
 date: 2020-04-19 13:16:14
-image: 'https://m.media-amazon.com/images/I/41BIh8Xw9eL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41BIh8Xw9eL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '105.99'
 
 Está [Habitdesign - Estantería librería  estanteria despacho  Comedor o Salon  Medidas: 192x96x25 cm de Fondo  Roble Canadian - ](https://www.amazon.es/dp/B0781VKCPX/?tag=tolees-21) con 29.71 de descuento por 105.99 EUR (original: 150.79 EUR) en el siguiente enlace!
 
-[![Habitdesign - Estantería librería  estan](https://m.media-amazon.com/images/I/41BIh8Xw9eL._SL200_.jpg)](https://www.amazon.es/dp/B0781VKCPX/?tag=tolees-21)
+[![Habitdesign - Estantería librería  estan](https://m.media-amazon.com/images/I/41BIh8Xw9eL._SL400_.jpg)](https://www.amazon.es/dp/B0781VKCPX/?tag=tolees-21)
 
 ℹ️:
 

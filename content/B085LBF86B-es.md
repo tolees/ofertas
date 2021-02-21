@@ -2,7 +2,7 @@
 layout: post
 title: '8 piezas Broca Uso Power Tuerca Conducto al 66.69 % de descuento'
 date: 2020-04-08 06:00:50
-image: 'https://m.media-amazon.com/images/I/51rRiRLhcpL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51rRiRLhcpL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.99'
 
 Está [8 piezas Broca Uso Power Tuerca Conductor Juego de puntas 1/4 hexagonal magnéticos destornillador Cruz Bits Set destornillador eléctrico](https://www.amazon.es/dp/B085LBF86B/?tag=tolees-21) con 66.69 de descuento por 9.99 EUR (original: 29.99 EUR) en el siguiente enlace!
 
-[![8 piezas Broca Uso Power Tuerca Conducto](https://m.media-amazon.com/images/I/51rRiRLhcpL._SL200_.jpg)](https://www.amazon.es/dp/B085LBF86B/?tag=tolees-21)
+[![8 piezas Broca Uso Power Tuerca Conducto](https://m.media-amazon.com/images/I/51rRiRLhcpL._SL400_.jpg)](https://www.amazon.es/dp/B085LBF86B/?tag=tolees-21)
 
 ℹ️:
 

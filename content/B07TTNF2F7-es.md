@@ -2,7 +2,7 @@
 layout: post
 title: 'BRIKSMAX Kit de Iluminación Led para Leg al 65.01 % de descuento'
 date: 2020-04-15 00:42:13
-image: 'https://m.media-amazon.com/images/I/41abc2RKv6L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41abc2RKv6L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '34.99'
 
 Ahora mismo tienes [BRIKSMAX Kit de Iluminación Led para Lego Star Wars Y-Wing Starfighter  Compatible con Ladrillos de Construcción Lego Modelo 75172  Juego de Legos no Incluido](https://www.amazon.es/dp/B07TTNF2F7/?tag=tolees-21) a 34.99 EUR (original: 99.99 EUR) (65.01 %  de descuento) en el siguiente enlace!
 
-[![BRIKSMAX Kit de Iluminación Led para Leg](https://m.media-amazon.com/images/I/41abc2RKv6L._SL200_.jpg)](https://www.amazon.es/dp/B07TTNF2F7/?tag=tolees-21)
+[![BRIKSMAX Kit de Iluminación Led para Leg](https://m.media-amazon.com/images/I/41abc2RKv6L._SL400_.jpg)](https://www.amazon.es/dp/B07TTNF2F7/?tag=tolees-21)
 
 🔎:
 

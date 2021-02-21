@@ -2,7 +2,7 @@
 layout: post
 title: 'BaByliss Multigroom 8 en 1 E835E - Corta con un 30.66 % de descuento'
 date: 2020-01-28 20:34:33
-image: 'https://m.media-amazon.com/images/I/41aiVSrWFyL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41aiVSrWFyL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '34.06666666666666'
 
 En este momento está [BaByliss Multigroom 8 en 1 E835E - Cortapelos multifunción cabello y barba  cabezal de afeitado hombre  cabezal para nariz y orejas  cuchilla de precisión  40 min autonomía](https://www.amazon.es/dp/B00BM1JBN8/?tag=tolees-21) a 34.6 EUR (original: 49.9 EUR) (30.66 %  de descuento) en el siguiente enlace!
 
-[![BaByliss Multigroom 8 en 1 E835E - Corta](https://m.media-amazon.com/images/I/41aiVSrWFyL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B00BM1JBN8/?tag=tolees-21)
+[![BaByliss Multigroom 8 en 1 E835E - Corta](https://m.media-amazon.com/images/I/41aiVSrWFyL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B00BM1JBN8/?tag=tolees-21)
 
 🔎:
 

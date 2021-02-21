@@ -2,7 +2,7 @@
 layout: post
 title: 'AEG SB9300 Batidora de Vaso de Altas Pre al 63.77 % de descuento'
 date: 2020-09-15 21:50:08
-image: 'https://m.media-amazon.com/images/I/41HInduGv2L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41HInduGv2L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '163.99285714285713'
 
 Ahora mismo tienes [AEG SB9300 Batidora de Vaso de Altas Prestaciones Gourmetpro  1200 W  2.2 litros  Acero Inoxidable  3 Velocidades  Blanco](https://www.amazon.es/dp/B012XYJSGW/?tag=tolees-21) a 129.99 EUR (original: 358.8 EUR) (63.77 %  de descuento) en el siguiente enlace!
 
-[![AEG SB9300 Batidora de Vaso de Altas Pre](https://m.media-amazon.com/images/I/41HInduGv2L._SL200_.jpg)](https://www.amazon.es/dp/B012XYJSGW/?tag=tolees-21)
+[![AEG SB9300 Batidora de Vaso de Altas Pre](https://m.media-amazon.com/images/I/41HInduGv2L._SL400_.jpg)](https://www.amazon.es/dp/B012XYJSGW/?tag=tolees-21)
 
 🔎:
 

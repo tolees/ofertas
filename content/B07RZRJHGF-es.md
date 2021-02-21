@@ -2,7 +2,7 @@
 layout: post
 title: 'Lacoste - Polo de Manga Corta para Mujer al 40.01 % de descuento'
 date: 2020-03-19 11:04:20
-image: 'https://m.media-amazon.com/images/I/41su+5yfaCL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41su+5yfaCL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '59.98'
 
 Ahora mismo tienes [Lacoste - Polo de Manga Corta para Mujer King  pq8 . 34 EU](https://www.amazon.es/dp/B07RZRJHGF/?tag=tolees-21) a 59.98 EUR (original: 99.99 EUR) (40.01 %  de descuento) en el siguiente enlace!
 
-[![Lacoste - Polo de Manga Corta para Mujer](https://m.media-amazon.com/images/I/41su+5yfaCL._SL200_.jpg)](https://www.amazon.es/dp/B07RZRJHGF/?tag=tolees-21)
+[![Lacoste - Polo de Manga Corta para Mujer](https://m.media-amazon.com/images/I/41su+5yfaCL._SL400_.jpg)](https://www.amazon.es/dp/B07RZRJHGF/?tag=tolees-21)
 
 🔎:
 

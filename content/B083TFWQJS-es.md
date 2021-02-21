@@ -2,7 +2,7 @@
 layout: post
 title: 'INTEY Ahuyentador de Animales  2 Piezas  con un 42.86 % de descuento'
 date: 2020-08-07 12:44:02
-image: 'https://m.media-amazon.com/images/I/51P9fmKpLHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51P9fmKpLHL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '39.99'
 
 En este momento está [INTEY Ahuyentador de Animales  2 Piezas  Ultrasonido Impermeable Ahuyentador del Gato Energía Solar Carga de la Batería  Utilizada en el Jardín Ahuyentador Gatos Repelente ultrasonico](https://www.amazon.es/dp/B083TFWQJS/?tag=tolees-21) a 39.99 EUR (original: 69.99 EUR) (42.86 %  de descuento) en el siguiente enlace!
 
-[![INTEY Ahuyentador de Animales  2 Piezas ](https://m.media-amazon.com/images/I/51P9fmKpLHL._SL200_.jpg)](https://www.amazon.es/dp/B083TFWQJS/?tag=tolees-21)
+[![INTEY Ahuyentador de Animales  2 Piezas ](https://m.media-amazon.com/images/I/51P9fmKpLHL._SL400_.jpg)](https://www.amazon.es/dp/B083TFWQJS/?tag=tolees-21)
 
 🔎:
 

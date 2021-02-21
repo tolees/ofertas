@@ -2,7 +2,7 @@
 layout: post
 title: 'Pala de Pádel Masai | Black Crown | Nive al 34.65 % de descuento'
 date: 2020-07-21 08:18:42
-image: 'https://m.media-amazon.com/images/I/51v27G7+XIL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51v27G7+XIL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '117.45'
 
 Está [Pala de Pádel Masai | Black Crown | Nivel: Avanzado  Competición  Profesional | Potencia 90%  Control 80%](https://www.amazon.es/dp/B07SJHHMP6/?tag=tolees-21) con 34.65 de descuento por 114.95 EUR (original: 175.89 EUR) en el siguiente enlace!
 
-[![Pala de Pádel Masai | Black Crown | Nive](https://m.media-amazon.com/images/I/51v27G7+XIL._SL200_.jpg)](https://www.amazon.es/dp/B07SJHHMP6/?tag=tolees-21)
+[![Pala de Pádel Masai | Black Crown | Nive](https://m.media-amazon.com/images/I/51v27G7+XIL._SL400_.jpg)](https://www.amazon.es/dp/B07SJHHMP6/?tag=tolees-21)
 
 ℹ️:
 

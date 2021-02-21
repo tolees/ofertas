@@ -2,7 +2,7 @@
 layout: post
 title: 'Nosaprotect  Spray triple acción Melocot con un 27.18 % de descuento'
 date: 2020-01-03 15:30:34
-image: 'https://images-eu.ssl-images-amazon.com/images/I/310pXo5iIpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/310pXo5iIpL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.5'
 
 En este momento está [Nosaprotect  Spray triple acción Melocotón. Protección contra piojos. 250 ml.](https://www.amazon.es/dp/B01FFSSUF8/?tag=tolees-21) a 7.5 EUR (original: 10.3 EUR) (27.18 %  de descuento) en el siguiente enlace!
 
-[![Nosaprotect  Spray triple acción Melocot](https://images-eu.ssl-images-amazon.com/images/I/310pXo5iIpL._SL200_.jpg)](https://www.amazon.es/dp/B01FFSSUF8/?tag=tolees-21)
+[![Nosaprotect  Spray triple acción Melocot](https://images-eu.ssl-images-amazon.com/images/I/310pXo5iIpL._SL400_.jpg)](https://www.amazon.es/dp/B01FFSSUF8/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Wolfcraft 1573000 1573000-1 Atornillador al 30.38 % de descuento'
 date: 2020-01-18 17:32:17
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41Ippz9HR3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Ippz9HR3L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.95'
 
 Ahora mismo tienes [Wolfcraft 1573000 1573000-1 Atornillador Manual con diseño Angular  380 W](https://www.amazon.es/dp/B0002YYTVU/?tag=tolees-21) a 4.95 EUR (original: 7.11 EUR) (30.38 %  de descuento) en el siguiente enlace!
 
-[![Wolfcraft 1573000 1573000-1 Atornillador](https://images-eu.ssl-images-amazon.com/images/I/41Ippz9HR3L._SL200_.jpg)](https://www.amazon.es/dp/B0002YYTVU/?tag=tolees-21)
+[![Wolfcraft 1573000 1573000-1 Atornillador](https://images-eu.ssl-images-amazon.com/images/I/41Ippz9HR3L._SL400_.jpg)](https://www.amazon.es/dp/B0002YYTVU/?tag=tolees-21)
 
 🔎:
 

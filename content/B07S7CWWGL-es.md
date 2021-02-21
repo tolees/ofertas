@@ -2,7 +2,7 @@
 layout: post
 title: 'Aluminio Pequeños joyeros Hobby Abrazade al 29.96 % de descuento'
 date: 2020-08-28 16:09:43
-image: 'https://m.media-amazon.com/images/I/41F1svsj1BL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41F1svsj1BL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.32'
 
 Ahora mismo tienes [Aluminio Pequeños joyeros Hobby Abrazadera en la mesa Banco Vise Mini herramienta Vice Muliti-Funcional Craft Mould Fixed Repair Tool-Silver-1 Tamaño](https://www.amazon.es/dp/B07S7CWWGL/?tag=tolees-21) a 3.32 EUR (original: 4.74 EUR) (29.96 %  de descuento) en el siguiente enlace!
 
-[![Aluminio Pequeños joyeros Hobby Abrazade](https://m.media-amazon.com/images/I/41F1svsj1BL._SL200_.jpg)](https://www.amazon.es/dp/B07S7CWWGL/?tag=tolees-21)
+[![Aluminio Pequeños joyeros Hobby Abrazade](https://m.media-amazon.com/images/I/41F1svsj1BL._SL400_.jpg)](https://www.amazon.es/dp/B07S7CWWGL/?tag=tolees-21)
 
 🔎:
 

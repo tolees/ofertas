@@ -2,7 +2,7 @@
 layout: post
 title: 'Batería Recargable LCD Multifuncional Ad al 33.50 % de rebaja'
 date: 2020-05-14 13:45:33
-image: 'https://m.media-amazon.com/images/I/417tfwPUc9L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/417tfwPUc9L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '30.79'
 
 Tienes [Batería Recargable LCD Multifuncional Adaptador de Carga rápida Salida Cargador de batería Herramienta de Carga de batería para AA/AAA - Blanco](https://www.amazon.es/dp/B086X8QSX9/?tag=tolees-21) con precio final de  30.79 EUR (original: 46.3 EUR) (33.50 %  de rebaja) aqui!
 
-[![Batería Recargable LCD Multifuncional Ad](https://m.media-amazon.com/images/I/417tfwPUc9L._SL200_.jpg)](https://www.amazon.es/dp/B086X8QSX9/?tag=tolees-21)
+[![Batería Recargable LCD Multifuncional Ad](https://m.media-amazon.com/images/I/417tfwPUc9L._SL400_.jpg)](https://www.amazon.es/dp/B086X8QSX9/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Young & Ming Funda para Xiaomi Redmi Not al 58.88 % de rebaja'
 date: 2020-04-22 01:03:11
-image: 'https://m.media-amazon.com/images/I/51tHFPPV-ZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51tHFPPV-ZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.22'
 
 Tienes [Young & Ming Funda para Xiaomi Redmi Note 8T   3 Pack  Transparente TPU Silicona Carcasa Delgado Antigolpes Resistente  Amor](https://www.amazon.es/dp/B0824PCCCV/?tag=tolees-21) con precio final de  8.22 EUR (original: 19.99 EUR) (58.88 %  de rebaja) aqui!
 
-[![Young & Ming Funda para Xiaomi Redmi Not](https://m.media-amazon.com/images/I/51tHFPPV-ZL._SL200_.jpg)](https://www.amazon.es/dp/B0824PCCCV/?tag=tolees-21)
+[![Young & Ming Funda para Xiaomi Redmi Not](https://m.media-amazon.com/images/I/51tHFPPV-ZL._SL400_.jpg)](https://www.amazon.es/dp/B0824PCCCV/?tag=tolees-21)
 
 🔎:
 

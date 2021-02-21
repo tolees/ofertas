@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 27.21 % en MAKITA DHR263Z Martillo Ligero 26Mm 18Vx'
 date: 2020-04-14 08:15:35
-image: 'https://m.media-amazon.com/images/I/41gyKd8ORSL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41gyKd8ORSL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '226.85'
 
 Tienes [MAKITA DHR263Z Martillo Ligero 26Mm 18Vx2  18 V  Negro  Azul](https://www.amazon.es/dp/B00JPUANAS/?tag=tolees-21) con un 27.21 % de descuento con precio de oferta de 236.0 EUR (original: 324.2 EUR) en el siguiente enlace!
 
-[![MAKITA DHR263Z Martillo Ligero 26Mm 18Vx](https://m.media-amazon.com/images/I/41gyKd8ORSL._SL200_.jpg)](https://www.amazon.es/dp/B00JPUANAS/?tag=tolees-21)
+[![MAKITA DHR263Z Martillo Ligero 26Mm 18Vx](https://m.media-amazon.com/images/I/41gyKd8ORSL._SL400_.jpg)](https://www.amazon.es/dp/B00JPUANAS/?tag=tolees-21)
 
 ℹ️:
 

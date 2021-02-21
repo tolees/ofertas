@@ -2,7 +2,7 @@
 layout: post
 title: 'gracosy Zapatillas de Running para Mujer al 53.71 % de descuento'
 date: 2020-04-11 16:58:51
-image: 'https://m.media-amazon.com/images/I/41tttiLPutL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41tttiLPutL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.99'
 
 Ahora mismo tienes [gracosy Zapatillas de Running para Mujer Zapato de Trail Verano Slip-on Malla Zapatillas Deportivas Transpirable Ligero Casual Zapato Al Aire Libre](https://www.amazon.es/dp/B07MLWPTFH/?tag=tolees-21) a 24.99 EUR (original: 53.99 EUR) (53.71 %  de descuento) en el siguiente enlace!
 
-[![gracosy Zapatillas de Running para Mujer](https://m.media-amazon.com/images/I/41tttiLPutL._SL200_.jpg)](https://www.amazon.es/dp/B07MLWPTFH/?tag=tolees-21)
+[![gracosy Zapatillas de Running para Mujer](https://m.media-amazon.com/images/I/41tttiLPutL._SL400_.jpg)](https://www.amazon.es/dp/B07MLWPTFH/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 38.85 % en Garnier Olia - Coloración Permanente sin'
 date: 2020-10-09 08:58:32
-image: 'https://m.media-amazon.com/images/I/51ipUaRMtlL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51ipUaRMtlL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.88'
 
 Tienes [Garnier Olia - Coloración Permanente sin Amoniaco  con Aceites Florales de Origen Natural - Tono 7.3 Rubio Dorado](https://www.amazon.es/dp/B01MU0VW0E/?tag=tolees-21) con un 38.85 % de descuento con precio de oferta de 4.25 EUR (original: 6.95 EUR) en el siguiente enlace!
 
-[![Garnier Olia - Coloración Permanente sin](https://m.media-amazon.com/images/I/51ipUaRMtlL._SL200_.jpg)](https://www.amazon.es/dp/B01MU0VW0E/?tag=tolees-21)
+[![Garnier Olia - Coloración Permanente sin](https://m.media-amazon.com/images/I/51ipUaRMtlL._SL400_.jpg)](https://www.amazon.es/dp/B01MU0VW0E/?tag=tolees-21)
 
 ℹ️:
 

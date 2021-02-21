@@ -2,7 +2,7 @@
 layout: post
 title: 'Funko- Pop Ride: Frozen 2-Elsa Riding No al 48.07 % de descuento'
 date: 2020-03-16 15:44:05
-image: 'https://m.media-amazon.com/images/I/316XxrZhsVL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/316XxrZhsVL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.47'
 
 Está [Funko- Pop Ride: Frozen 2-Elsa Riding Nokk Figura Coleccionable  Multicolor  46586 ](https://www.amazon.es/dp/B07XF7TVX6/?tag=tolees-21) con 48.07 de descuento por 14.95 EUR (original: 28.79 EUR) en el siguiente enlace!
 
-[![Funko- Pop Ride: Frozen 2-Elsa Riding No](https://m.media-amazon.com/images/I/316XxrZhsVL._SL200_.jpg)](https://www.amazon.es/dp/B07XF7TVX6/?tag=tolees-21)
+[![Funko- Pop Ride: Frozen 2-Elsa Riding No](https://m.media-amazon.com/images/I/316XxrZhsVL._SL400_.jpg)](https://www.amazon.es/dp/B07XF7TVX6/?tag=tolees-21)
 
 ℹ️:
 

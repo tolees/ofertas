@@ -2,7 +2,7 @@
 layout: post
 title: 'Hawaiian Tropic - Protective Dry Oil Spr al 38.37 % de descuento'
 date: 2020-08-08 20:08:13
-image: 'https://m.media-amazon.com/images/I/41vFN2GdpaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41vFN2GdpaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.101666666666667'
 
 Está [Hawaiian Tropic - Protective Dry Oil Spray - Aceite bronceador - 200 ml](https://www.amazon.es/dp/B003L1AASW/?tag=tolees-21) con 38.37 de descuento por 7.95 EUR (original: 12.9 EUR) en el siguiente enlace!
 
-[![Hawaiian Tropic - Protective Dry Oil Spr](https://m.media-amazon.com/images/I/41vFN2GdpaL._SL200_.jpg)](https://www.amazon.es/dp/B003L1AASW/?tag=tolees-21)
+[![Hawaiian Tropic - Protective Dry Oil Spr](https://m.media-amazon.com/images/I/41vFN2GdpaL._SL400_.jpg)](https://www.amazon.es/dp/B003L1AASW/?tag=tolees-21)
 
 ℹ️:
 

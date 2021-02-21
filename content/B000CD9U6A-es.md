@@ -2,7 +2,7 @@
 layout: post
 title: 'Pyrex Classic Vidrio - Fuente rectangula al 51.49 % de descuento'
 date: 2020-04-23 08:40:05
-image: 'https://m.media-amazon.com/images/I/31548ZwmZ7L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31548ZwmZ7L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.25'
 
 Está [Pyrex Classic Vidrio - Fuente rectangular  38 x 25 cm](https://www.amazon.es/dp/B000CD9U6A/?tag=tolees-21) con 51.49 de descuento por 16.25 EUR (original: 33.5 EUR) en el siguiente enlace!
 
-[![Pyrex Classic Vidrio - Fuente rectangula](https://m.media-amazon.com/images/I/31548ZwmZ7L._SL200_.jpg)](https://www.amazon.es/dp/B000CD9U6A/?tag=tolees-21)
+[![Pyrex Classic Vidrio - Fuente rectangula](https://m.media-amazon.com/images/I/31548ZwmZ7L._SL400_.jpg)](https://www.amazon.es/dp/B000CD9U6A/?tag=tolees-21)
 
 ℹ️:
 

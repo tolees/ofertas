@@ -2,7 +2,7 @@
 layout: post
 title: 'Luz LED sumergible  luces LED multicolor al 38.29 % de descuento'
 date: 2020-07-14 14:57:33
-image: 'https://m.media-amazon.com/images/I/51R4Xcr+djL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51R4Xcr+djL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.99'
 
 Ahora mismo tienes [Luz LED sumergible  luces LED multicolores con control remoto RGB  luz subacuática impermeable con batería AAA  INCLUIDA  para jarrones base  estanque  fiesta  piscina y Halloween  1 paquete](https://www.amazon.es/dp/B073M7XD7M/?tag=tolees-21) a 13.99 EUR (original: 22.67 EUR) (38.29 %  de descuento) en el siguiente enlace!
 
-[![Luz LED sumergible  luces LED multicolor](https://m.media-amazon.com/images/I/51R4Xcr+djL._SL200_.jpg)](https://www.amazon.es/dp/B073M7XD7M/?tag=tolees-21)
+[![Luz LED sumergible  luces LED multicolor](https://m.media-amazon.com/images/I/51R4Xcr+djL._SL400_.jpg)](https://www.amazon.es/dp/B073M7XD7M/?tag=tolees-21)
 
 🔎:
 

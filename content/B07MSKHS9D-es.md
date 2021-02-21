@@ -2,7 +2,7 @@
 layout: post
 title: 'Clarks Tri Solar  Zapatillas para Hombre al 65.17 % de rebaja'
 date: 2020-09-23 07:21:37
-image: 'https://m.media-amazon.com/images/I/31T+YKi7ioL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31T+YKi7ioL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '56.48'
 
 Tienes [Clarks Tri Solar  Zapatillas para Hombre  Negro  Black Leather Black Leather   39.5 EU](https://www.amazon.es/dp/B07MSKHS9D/?tag=tolees-21) con precio final de  41.8 EUR (original: 120.0 EUR) (65.17 %  de rebaja) aqui!
 
-[![Clarks Tri Solar  Zapatillas para Hombre](https://m.media-amazon.com/images/I/31T+YKi7ioL._SL200_.jpg)](https://www.amazon.es/dp/B07MSKHS9D/?tag=tolees-21)
+[![Clarks Tri Solar  Zapatillas para Hombre](https://m.media-amazon.com/images/I/31T+YKi7ioL._SL400_.jpg)](https://www.amazon.es/dp/B07MSKHS9D/?tag=tolees-21)
 
 🔎:
 

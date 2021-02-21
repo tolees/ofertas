@@ -2,7 +2,7 @@
 layout: post
 title: 'Vallejo 028011 - Espray de prelacado  40 al 31.58 % de rebaja'
 date: 2020-03-17 09:26:36
-image: 'https://m.media-amazon.com/images/I/31iLnUqN0xL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31iLnUqN0xL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.51'
 
 Tienes [Vallejo 028011 - Espray de prelacado  400 ml  Gris](https://www.amazon.es/dp/B000R9QHWY/?tag=tolees-21) con precio final de  9.51 EUR (original: 13.9 EUR) (31.58 %  de rebaja) aqui!
 
-[![Vallejo 028011 - Espray de prelacado  40](https://m.media-amazon.com/images/I/31iLnUqN0xL._SL200_.jpg)](https://www.amazon.es/dp/B000R9QHWY/?tag=tolees-21)
+[![Vallejo 028011 - Espray de prelacado  40](https://m.media-amazon.com/images/I/31iLnUqN0xL._SL400_.jpg)](https://www.amazon.es/dp/B000R9QHWY/?tag=tolees-21)
 
 🔎:
 

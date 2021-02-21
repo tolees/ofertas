@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 60.02 % en Halloween Tatuajes Temporales Halloween '
 date: 2020-01-04 09:06:54
-image: 'None._SL200_'
+image: 'None._SL400_'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.99'
 
 Tienes [Halloween Tatuajes Temporales Halloween Zombie Tattoo  3 Grande +6 Pequeño 75 Estilos Horror Cicatrices Heridas Tatuajes Pegatinas  Realista Horror Tatuaje temporal  Maquillaje Halloween Hombre Mujer](https://www.amazon.es/dp/B07V83DT5D/?tag=tolees-21) con un 60.02 % de descuento con precio de oferta de 11.99 EUR (original: 29.99 EUR) en el siguiente enlace!
 
-[![Halloween Tatuajes Temporales Halloween ](None._SL200_)](https://www.amazon.es/dp/B07V83DT5D/?tag=tolees-21)
+[![Halloween Tatuajes Temporales Halloween ](None._SL400_)](https://www.amazon.es/dp/B07V83DT5D/?tag=tolees-21)
 
 ℹ️:
 

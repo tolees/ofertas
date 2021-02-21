@@ -2,7 +2,7 @@
 layout: post
 title: 'Tesa Assa Abloy  1970908NV  Barra Antipá al 29.73 % de rebaja'
 date: 2020-03-05 17:27:45
-image: 'https://m.media-amazon.com/images/I/41Tiu1AxM6L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Tiu1AxM6L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '93.74'
 
 Tienes [Tesa Assa Abloy  1970908NV  Barra Antipánico Universal 1970 de embutir  Negro y Verde](https://www.amazon.es/dp/B00MDJ839G/?tag=tolees-21) con precio final de  93.74 EUR (original: 133.4 EUR) (29.73 %  de rebaja) aqui!
 
-[![Tesa Assa Abloy  1970908NV  Barra Antipá](https://m.media-amazon.com/images/I/41Tiu1AxM6L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B00MDJ839G/?tag=tolees-21)
+[![Tesa Assa Abloy  1970908NV  Barra Antipá](https://m.media-amazon.com/images/I/41Tiu1AxM6L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B00MDJ839G/?tag=tolees-21)
 
 🔎:
 

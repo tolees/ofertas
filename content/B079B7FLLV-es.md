@@ -2,7 +2,7 @@
 layout: post
 title: 'PUMA LIGA Shorts Pants  Hombre  Cordovan al 32.98 % de descuento'
 date: 2020-04-26 08:58:40
-image: 'https://m.media-amazon.com/images/I/31w7duTOztL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31w7duTOztL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.03'
 
 Ahora mismo tienes [PUMA LIGA Shorts Pants  Hombre  Cordovan White  XL](https://www.amazon.es/dp/B079B7FLLV/?tag=tolees-21) a 12.03 EUR (original: 17.95 EUR) (32.98 %  de descuento) en el siguiente enlace!
 
-[![PUMA LIGA Shorts Pants  Hombre  Cordovan](https://m.media-amazon.com/images/I/31w7duTOztL._SL200_.jpg)](https://www.amazon.es/dp/B079B7FLLV/?tag=tolees-21)
+[![PUMA LIGA Shorts Pants  Hombre  Cordovan](https://m.media-amazon.com/images/I/31w7duTOztL._SL400_.jpg)](https://www.amazon.es/dp/B079B7FLLV/?tag=tolees-21)
 
 🔎:
 

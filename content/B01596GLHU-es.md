@@ -2,7 +2,7 @@
 layout: post
 title: 'Suéter de Gasolina Industrias FW15-KWC28 al 45.44 % de descuento'
 date: 2020-01-12 00:21:31
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51P-oyX5h8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51P-oyX5h8L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24'
 
 Está [Suéter de Gasolina Industrias FW15-KWC283 591 PROFUNDO de la MARINA](https://www.amazon.es/dp/B01596GLHU/?tag=tolees-21) con 45.44 de descuento por 24 EUR (original: 43.99 EUR) en el siguiente enlace!
 
-[![Suéter de Gasolina Industrias FW15-KWC28](https://images-eu.ssl-images-amazon.com/images/I/51P-oyX5h8L._SL200_.jpg)](https://www.amazon.es/dp/B01596GLHU/?tag=tolees-21)
+[![Suéter de Gasolina Industrias FW15-KWC28](https://images-eu.ssl-images-amazon.com/images/I/51P-oyX5h8L._SL400_.jpg)](https://www.amazon.es/dp/B01596GLHU/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Disney Store The Lion King 14 Pumbaa Plu con un 35.61 % de descuento'
 date: 2020-08-20 10:25:37
-image: 'https://m.media-amazon.com/images/I/517CScT-0UL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/517CScT-0UL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.43'
 
 En este momento está [Disney Store The Lion King 14 Pumbaa Plush Stuffed Animal Toy by Disney](https://www.amazon.es/dp/B005IFJC38/?tag=tolees-21) a 24.43 EUR (original: 37.94 EUR) (35.61 %  de descuento) en el siguiente enlace!
 
-[![Disney Store The Lion King 14 Pumbaa Plu](https://m.media-amazon.com/images/I/517CScT-0UL._SL200_.jpg)](https://www.amazon.es/dp/B005IFJC38/?tag=tolees-21)
+[![Disney Store The Lion King 14 Pumbaa Plu](https://m.media-amazon.com/images/I/517CScT-0UL._SL400_.jpg)](https://www.amazon.es/dp/B005IFJC38/?tag=tolees-21)
 
 🔎:
 

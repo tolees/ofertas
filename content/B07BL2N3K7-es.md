@@ -2,7 +2,7 @@
 layout: post
 title: 'New Balance Fresh Foam Zante  Zapatillas al 50.78 % de descuento'
 date: 2020-01-20 18:51:26
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41PYvy2LCNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41PYvy2LCNL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '49.22'
 
 Ahora mismo tienes [New Balance Fresh Foam Zante  Zapatillas Deportivas para Interior para Mujer  Negro  Black/Orca/Sea Salt LB   41 EU](https://www.amazon.es/dp/B07BL2N3K7/?tag=tolees-21) a 49.22 EUR (original: 100 EUR) (50.78 %  de descuento) en el siguiente enlace!
 
-[![New Balance Fresh Foam Zante  Zapatillas](https://images-eu.ssl-images-amazon.com/images/I/41PYvy2LCNL._SL200_.jpg)](https://www.amazon.es/dp/B07BL2N3K7/?tag=tolees-21)
+[![New Balance Fresh Foam Zante  Zapatillas](https://images-eu.ssl-images-amazon.com/images/I/41PYvy2LCNL._SL400_.jpg)](https://www.amazon.es/dp/B07BL2N3K7/?tag=tolees-21)
 
 🔎:
 

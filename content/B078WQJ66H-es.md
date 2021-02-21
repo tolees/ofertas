@@ -2,7 +2,7 @@
 layout: post
 title: 'SD2VITA Pro - Adaptador Pro 5.0 para tar al 68.13 % de descuento'
 date: 2020-02-18 18:47:22
-image: 'https://m.media-amazon.com/images/I/41nvzkiFzrL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41nvzkiFzrL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.94'
 
 Está [SD2VITA Pro - Adaptador Pro 5.0 para tarjeta de memoria PS VITA 3.60 Henkaku Micro SD PSVITA  cobertura completa ](https://www.amazon.es/dp/B078WQJ66H/?tag=tolees-21) con 68.13 de descuento por 1.89 EUR (original: 5.93 EUR) en el siguiente enlace!
 
-[![SD2VITA Pro - Adaptador Pro 5.0 para tar](https://m.media-amazon.com/images/I/41nvzkiFzrL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B078WQJ66H/?tag=tolees-21)
+[![SD2VITA Pro - Adaptador Pro 5.0 para tar](https://m.media-amazon.com/images/I/41nvzkiFzrL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B078WQJ66H/?tag=tolees-21)
 
 ℹ️:
 

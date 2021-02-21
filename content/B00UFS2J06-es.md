@@ -2,7 +2,7 @@
 layout: post
 title: 'WELEDA Leche Corporal de Malva Blanca  1 al 59.69 % de descuento'
 date: 2020-03-07 16:56:35
-image: 'https://m.media-amazon.com/images/I/31W-xYXgEYL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31W-xYXgEYL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.52'
 
 Está [WELEDA Leche Corporal de Malva Blanca  1x 200 ml ](https://www.amazon.es/dp/B00UFS2J06/?tag=tolees-21) con 59.69 de descuento por 18.14 EUR (original: 45.0 EUR) en el siguiente enlace!
 
-[![WELEDA Leche Corporal de Malva Blanca  1](https://m.media-amazon.com/images/I/31W-xYXgEYL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B00UFS2J06/?tag=tolees-21)
+[![WELEDA Leche Corporal de Malva Blanca  1](https://m.media-amazon.com/images/I/31W-xYXgEYL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B00UFS2J06/?tag=tolees-21)
 
 ℹ️:
 

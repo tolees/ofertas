@@ -2,7 +2,7 @@
 layout: post
 title: 'Columbia IVO Trail Breeze  Zapatillas De al 36.00 % de descuento'
 date: 2020-06-17 08:51:01
-image: 'https://m.media-amazon.com/images/I/41PwReYaykL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41PwReYaykL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '63.99'
 
 Ahora mismo tienes [Columbia IVO Trail Breeze  Zapatillas Deportivas para Hombre  Azul  Carbon  Rust Red 469   44 EU](https://www.amazon.es/dp/B07RFNKHND/?tag=tolees-21) a 63.99 EUR (original: 99.99 EUR) (36.00 %  de descuento) en el siguiente enlace!
 
-[![Columbia IVO Trail Breeze  Zapatillas De](https://m.media-amazon.com/images/I/41PwReYaykL._SL200_.jpg)](https://www.amazon.es/dp/B07RFNKHND/?tag=tolees-21)
+[![Columbia IVO Trail Breeze  Zapatillas De](https://m.media-amazon.com/images/I/41PwReYaykL._SL400_.jpg)](https://www.amazon.es/dp/B07RFNKHND/?tag=tolees-21)
 
 🔎:
 

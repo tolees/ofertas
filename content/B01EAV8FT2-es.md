@@ -2,7 +2,7 @@
 layout: post
 title: 'Bica - Conjunto de jardín Nebraska de 4  al 33.95 % de descuento'
 date: 2020-09-29 11:52:15
-image: 'https://m.media-amazon.com/images/I/418lIafXF8L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/418lIafXF8L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '210.9625'
 
 Ahora mismo tienes [Bica - Conjunto de jardín Nebraska de 4 plazas  Antracita](https://www.amazon.es/dp/B01EAV8FT2/?tag=tolees-21) a 197.5 EUR (original: 299.0 EUR) (33.95 %  de descuento) en el siguiente enlace!
 
-[![Bica - Conjunto de jardín Nebraska de 4 ](https://m.media-amazon.com/images/I/418lIafXF8L._SL200_.jpg)](https://www.amazon.es/dp/B01EAV8FT2/?tag=tolees-21)
+[![Bica - Conjunto de jardín Nebraska de 4 ](https://m.media-amazon.com/images/I/418lIafXF8L._SL400_.jpg)](https://www.amazon.es/dp/B01EAV8FT2/?tag=tolees-21)
 
 🔎:
 

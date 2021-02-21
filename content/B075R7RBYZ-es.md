@@ -2,7 +2,7 @@
 layout: post
 title: 'New Balance Fresh Foam Cruz v2 Knit  Zap al 72.23 % de descuento'
 date: 2020-02-05 11:16:14
-image: 'https://m.media-amazon.com/images/I/41oGs5gJYtL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41oGs5gJYtL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.99'
 
 Ahora mismo tienes [New Balance Fresh Foam Cruz v2 Knit  Zapatillas de Running para Mujer  Azul  Wild Indigo/Deep Cosmic Sky/White Munsell Kw2   37.5 EU](https://www.amazon.es/dp/B075R7RBYZ/?tag=tolees-21) a 24.99 EUR (original: 90.0 EUR) (72.23 %  de descuento) en el siguiente enlace!
 
-[![New Balance Fresh Foam Cruz v2 Knit  Zap](https://m.media-amazon.com/images/I/41oGs5gJYtL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B075R7RBYZ/?tag=tolees-21)
+[![New Balance Fresh Foam Cruz v2 Knit  Zap](https://m.media-amazon.com/images/I/41oGs5gJYtL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B075R7RBYZ/?tag=tolees-21)
 
 🔎:
 

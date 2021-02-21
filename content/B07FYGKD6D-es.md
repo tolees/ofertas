@@ -2,7 +2,7 @@
 layout: post
 title: 'Otterbox Symmetry - Funda Anti caídas Fi al 45.76 % de descuento'
 date: 2020-06-20 18:01:59
-image: 'https://m.media-amazon.com/images/I/414dCWBEzXL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/414dCWBEzXL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.98'
 
 Está [Otterbox Symmetry - Funda Anti caídas Fina para iPhone XS  Lila](https://www.amazon.es/dp/B07FYGKD6D/?tag=tolees-21) con 45.76 de descuento por 18.98 EUR (original: 34.99 EUR) en el siguiente enlace!
 
-[![Otterbox Symmetry - Funda Anti caídas Fi](https://m.media-amazon.com/images/I/414dCWBEzXL._SL200_.jpg)](https://www.amazon.es/dp/B07FYGKD6D/?tag=tolees-21)
+[![Otterbox Symmetry - Funda Anti caídas Fi](https://m.media-amazon.com/images/I/414dCWBEzXL._SL400_.jpg)](https://www.amazon.es/dp/B07FYGKD6D/?tag=tolees-21)
 
 ℹ️:
 

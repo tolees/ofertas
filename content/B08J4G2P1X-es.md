@@ -2,7 +2,7 @@
 layout: post
 title: 'Molyflower Mini ratón óptico inalámbrico al 33.52 % de descuento'
 date: 2020-09-23 09:03:19
-image: 'https://m.media-amazon.com/images/I/41EFhmFn4GL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41EFhmFn4GL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.57'
 
 Está [Molyflower Mini ratón óptico inalámbrico para Juegos de 2.4Ghz y Receptor USB para computadora portátil Pc - Negro](https://www.amazon.es/dp/B08J4G2P1X/?tag=tolees-21) con 33.52 de descuento por 3.57 EUR (original: 5.37 EUR) en el siguiente enlace!
 
-[![Molyflower Mini ratón óptico inalámbrico](https://m.media-amazon.com/images/I/41EFhmFn4GL._SL200_.jpg)](https://www.amazon.es/dp/B08J4G2P1X/?tag=tolees-21)
+[![Molyflower Mini ratón óptico inalámbrico](https://m.media-amazon.com/images/I/41EFhmFn4GL._SL400_.jpg)](https://www.amazon.es/dp/B08J4G2P1X/?tag=tolees-21)
 
 ℹ️:
 

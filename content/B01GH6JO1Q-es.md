@@ -2,7 +2,7 @@
 layout: post
 title: 'Jata Ex296 Exprimidor Eléctrico Exprimid al 30.94 % de descuento'
 date: 2020-04-03 16:03:48
-image: 'https://m.media-amazon.com/images/I/41HS-DeAp1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41HS-DeAp1L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.25'
 
 Está [Jata Ex296 Exprimidor Eléctrico Exprimidor Sencillo De Máxima Eficacia Rotación Bidireccional Depósito Con Asa Base Antideslizante Capacidad 800 ml](https://www.amazon.es/dp/B01GH6JO1Q/?tag=tolees-21) con 30.94 de descuento por 10.98 EUR (original: 15.9 EUR) en el siguiente enlace!
 
-[![Jata Ex296 Exprimidor Eléctrico Exprimid](https://m.media-amazon.com/images/I/41HS-DeAp1L._SL200_.jpg)](https://www.amazon.es/dp/B01GH6JO1Q/?tag=tolees-21)
+[![Jata Ex296 Exprimidor Eléctrico Exprimid](https://m.media-amazon.com/images/I/41HS-DeAp1L._SL400_.jpg)](https://www.amazon.es/dp/B01GH6JO1Q/?tag=tolees-21)
 
 ℹ️:
 

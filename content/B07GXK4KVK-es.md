@@ -2,7 +2,7 @@
 layout: post
 title: 'Elerose HD 1080P Mini cámara 12MP 140 De al 40.87 % de rebaja'
 date: 2020-02-26 06:21:34
-image: 'https://m.media-amazon.com/images/I/41e+XFAb-5L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41e+XFAb-5L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.09'
 
 Tienes [Elerose HD 1080P Mini cámara 12MP 140 Degree Gran Angular Sport CAM con Infrarrojos Night Vision Motion Monitoring para el hogar  Oficina  al Aire Libre Azul ](https://www.amazon.es/dp/B07GXK4KVK/?tag=tolees-21) con precio final de  7.09 EUR (original: 11.99 EUR) (40.87 %  de rebaja) aqui!
 
-[![Elerose HD 1080P Mini cámara 12MP 140 De](https://m.media-amazon.com/images/I/41e+XFAb-5L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07GXK4KVK/?tag=tolees-21)
+[![Elerose HD 1080P Mini cámara 12MP 140 De](https://m.media-amazon.com/images/I/41e+XFAb-5L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07GXK4KVK/?tag=tolees-21)
 
 🔎:
 

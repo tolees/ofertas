@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 34.63 % en Dookey Pintura Facial  Maquillaje al Agu'
 date: 2020-03-03 09:41:08
-image: 'https://m.media-amazon.com/images/I/61eo1c0Fd3L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61eo1c0Fd3L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.99'
 
 Tienes [Dookey Pintura Facial  Maquillaje al Agua  Pinturas Cara para Halloween/Fiestas/Cosplay  con 17 Colores  2 Purpurina  24 Formas de Plantilla  ect...](https://www.amazon.es/dp/B081RJ1P5G/?tag=tolees-21) con un 34.63 % de descuento con precio de oferta de 16.99 EUR (original: 25.99 EUR) en el siguiente enlace!
 
-[![Dookey Pintura Facial  Maquillaje al Agu](https://m.media-amazon.com/images/I/61eo1c0Fd3L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B081RJ1P5G/?tag=tolees-21)
+[![Dookey Pintura Facial  Maquillaje al Agu](https://m.media-amazon.com/images/I/61eo1c0Fd3L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B081RJ1P5G/?tag=tolees-21)
 
 ℹ️:
 

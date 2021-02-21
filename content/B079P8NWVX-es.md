@@ -2,7 +2,7 @@
 layout: post
 title: 'Brabantia Organizador de Fregadero  Gris con un 35.56 % de descuento'
 date: 2020-09-29 19:19:53
-image: 'https://m.media-amazon.com/images/I/319cFWJcWTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/319cFWJcWTL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.84875'
 
 En este momento está [Brabantia Organizador de Fregadero  Gris Oscuro  8 5 x 19 x 11.5 cm](https://www.amazon.es/dp/B079P8NWVX/?tag=tolees-21) a 8.99 EUR (original: 13.95 EUR) (35.56 %  de descuento) en el siguiente enlace!
 
-[![Brabantia Organizador de Fregadero  Gris](https://m.media-amazon.com/images/I/319cFWJcWTL._SL200_.jpg)](https://www.amazon.es/dp/B079P8NWVX/?tag=tolees-21)
+[![Brabantia Organizador de Fregadero  Gris](https://m.media-amazon.com/images/I/319cFWJcWTL._SL400_.jpg)](https://www.amazon.es/dp/B079P8NWVX/?tag=tolees-21)
 
 🔎:
 

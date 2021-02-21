@@ -2,7 +2,7 @@
 layout: post
 title: 'Bausch & Lomb - Biotrue One Day Esférica al 63.24 % de descuento'
 date: 2020-01-27 07:05:15
-image: 'https://m.media-amazon.com/images/I/31Vnh3KlK-L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Vnh3KlK-L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.99'
 
 Ahora mismo tienes [Bausch & Lomb - Biotrue One Day Esféricas - Lentes de Contacto](https://www.amazon.es/dp/B00EALAYJ2/?tag=tolees-21) a 10.99 EUR (original: 29.9 EUR) (63.24 %  de descuento) en el siguiente enlace!
 
-[![Bausch & Lomb - Biotrue One Day Esférica](https://m.media-amazon.com/images/I/31Vnh3KlK-L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B00EALAYJ2/?tag=tolees-21)
+[![Bausch & Lomb - Biotrue One Day Esférica](https://m.media-amazon.com/images/I/31Vnh3KlK-L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B00EALAYJ2/?tag=tolees-21)
 
 🔎:
 

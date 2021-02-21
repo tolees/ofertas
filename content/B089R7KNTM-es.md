@@ -2,7 +2,7 @@
 layout: post
 title: 'Máquina de Hacer Burbujas de Juguete Vib al 33.50 % de descuento'
 date: 2020-06-20 16:45:33
-image: 'https://m.media-amazon.com/images/I/41tx7dVrqgL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41tx7dVrqgL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.86'
 
 Ahora mismo tienes [Máquina de Hacer Burbujas de Juguete Vibrante para baño Infantil - Multicolor](https://www.amazon.es/dp/B089R7KNTM/?tag=tolees-21) a 7.86 EUR (original: 11.82 EUR) (33.50 %  de descuento) en el siguiente enlace!
 
-[![Máquina de Hacer Burbujas de Juguete Vib](https://m.media-amazon.com/images/I/41tx7dVrqgL._SL200_.jpg)](https://www.amazon.es/dp/B089R7KNTM/?tag=tolees-21)
+[![Máquina de Hacer Burbujas de Juguete Vib](https://m.media-amazon.com/images/I/41tx7dVrqgL._SL400_.jpg)](https://www.amazon.es/dp/B089R7KNTM/?tag=tolees-21)
 
 🔎:
 

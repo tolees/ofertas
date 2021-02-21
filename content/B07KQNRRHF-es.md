@@ -2,7 +2,7 @@
 layout: post
 title: 'KESOTO 3 Piezas Barril de Cerveza Modelo al 44.45 % de descuento'
 date: 2020-01-29 11:54:39
-image: 'https://m.media-amazon.com/images/I/4147Z7-E28L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/4147Z7-E28L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.056363636363637'
 
 Ahora mismo tienes [KESOTO 3 Piezas Barril de Cerveza Modelo Accesorios de Habitación para 1/12 Casa de Muñecas en Miniatura](https://www.amazon.es/dp/B07KQNRRHF/?tag=tolees-21) a 10.66 EUR (original: 19.19 EUR) (44.45 %  de descuento) en el siguiente enlace!
 
-[![KESOTO 3 Piezas Barril de Cerveza Modelo](https://m.media-amazon.com/images/I/4147Z7-E28L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07KQNRRHF/?tag=tolees-21)
+[![KESOTO 3 Piezas Barril de Cerveza Modelo](https://m.media-amazon.com/images/I/4147Z7-E28L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07KQNRRHF/?tag=tolees-21)
 
 🔎:
 

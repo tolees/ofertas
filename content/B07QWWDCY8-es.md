@@ -2,7 +2,7 @@
 layout: post
 title: 'Alienwork Reloj Mecánico Automático Relo con un 43.73 % de descuento'
 date: 2020-04-05 09:45:49
-image: 'https://m.media-amazon.com/images/I/51HnnCbgw0L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51HnnCbgw0L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.41'
 
 En este momento está [Alienwork Reloj Mecánico Automático Relojes Automáticos Hombre Mujer Piel de Vaca Negro Analógicos Unisex Plata Impermeable Esqueleto](https://www.amazon.es/dp/B07QWWDCY8/?tag=tolees-21) a 23.41 EUR (original: 41.6 EUR) (43.73 %  de descuento) en el siguiente enlace!
 
-[![Alienwork Reloj Mecánico Automático Relo](https://m.media-amazon.com/images/I/51HnnCbgw0L._SL200_.jpg)](https://www.amazon.es/dp/B07QWWDCY8/?tag=tolees-21)
+[![Alienwork Reloj Mecánico Automático Relo](https://m.media-amazon.com/images/I/51HnnCbgw0L._SL400_.jpg)](https://www.amazon.es/dp/B07QWWDCY8/?tag=tolees-21)
 
 🔎:
 

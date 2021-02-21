@@ -2,7 +2,7 @@
 layout: post
 title: 'Hauck Autoclose N Stop 2 puerta de segur al 32.39 % de descuento'
 date: 2020-08-29 09:08:36
-image: 'https://m.media-amazon.com/images/I/41EnarYIm3L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41EnarYIm3L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '44.99'
 
 Está [Hauck Autoclose N Stop 2 puerta de segurida 75-80 cm  cierre magnético  autocierre  indicadore visual  apertura a ambos lados  ampliable hasta 122 cm sin agujeros en pared  metal blanco](https://www.amazon.es/dp/B07XGDHPF6/?tag=tolees-21) con 32.39 de descuento por 44.99 EUR (original: 66.54 EUR) en el siguiente enlace!
 
-[![Hauck Autoclose N Stop 2 puerta de segur](https://m.media-amazon.com/images/I/41EnarYIm3L._SL200_.jpg)](https://www.amazon.es/dp/B07XGDHPF6/?tag=tolees-21)
+[![Hauck Autoclose N Stop 2 puerta de segur](https://m.media-amazon.com/images/I/41EnarYIm3L._SL400_.jpg)](https://www.amazon.es/dp/B07XGDHPF6/?tag=tolees-21)
 
 ℹ️:
 

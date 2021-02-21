@@ -2,7 +2,7 @@
 layout: post
 title: 'Garmin Vivosmart HR Activity Tracker cor con un 65.03 % de descuento'
 date: 2020-08-28 18:31:30
-image: 'https://m.media-amazon.com/images/I/415uOLa+YtL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/415uOLa+YtL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.99'
 
 En este momento está [Garmin Vivosmart HR Activity Tracker correa de reloj de repuesto  accesorios correa de reloj de silicona](https://www.amazon.es/dp/B0788LCNCZ/?tag=tolees-21) a 6.99 EUR (original: 19.99 EUR) (65.03 %  de descuento) en el siguiente enlace!
 
-[![Garmin Vivosmart HR Activity Tracker cor](https://m.media-amazon.com/images/I/415uOLa+YtL._SL200_.jpg)](https://www.amazon.es/dp/B0788LCNCZ/?tag=tolees-21)
+[![Garmin Vivosmart HR Activity Tracker cor](https://m.media-amazon.com/images/I/415uOLa+YtL._SL400_.jpg)](https://www.amazon.es/dp/B0788LCNCZ/?tag=tolees-21)
 
 🔎:
 

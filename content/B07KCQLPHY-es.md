@@ -2,7 +2,7 @@
 layout: post
 title: 'MINI BOX Mini van Maped Creativ  907017  al 62.53 % de descuento'
 date: 2020-01-17 13:29:22
-image: 'https://images-eu.ssl-images-amazon.com/images/I/61B5fFpZRuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61B5fFpZRuL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.5'
 
 Ahora mismo tienes [MINI BOX Mini van Maped Creativ  907017 ](https://www.amazon.es/dp/B07KCQLPHY/?tag=tolees-21) a 5.5 EUR (original: 14.68 EUR) (62.53 %  de descuento) en el siguiente enlace!
 
-[![MINI BOX Mini van Maped Creativ  907017 ](https://images-eu.ssl-images-amazon.com/images/I/61B5fFpZRuL._SL200_.jpg)](https://www.amazon.es/dp/B07KCQLPHY/?tag=tolees-21)
+[![MINI BOX Mini van Maped Creativ  907017 ](https://images-eu.ssl-images-amazon.com/images/I/61B5fFpZRuL._SL400_.jpg)](https://www.amazon.es/dp/B07KCQLPHY/?tag=tolees-21)
 
 🔎:
 

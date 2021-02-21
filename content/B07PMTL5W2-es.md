@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour Victory Tanque  Mujer  Negr al 30.50 % de descuento'
 date: 2020-04-03 15:53:30
-image: 'https://m.media-amazon.com/images/I/41eq2XHpY1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41eq2XHpY1L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.046666666666667'
 
 Ahora mismo tienes [Under Armour Victory Tanque  Mujer  Negro  SM](https://www.amazon.es/dp/B07PMTL5W2/?tag=tolees-21) a 13.9 EUR (original: 20.0 EUR) (30.50 %  de descuento) en el siguiente enlace!
 
-[![Under Armour Victory Tanque  Mujer  Negr](https://m.media-amazon.com/images/I/41eq2XHpY1L._SL200_.jpg)](https://www.amazon.es/dp/B07PMTL5W2/?tag=tolees-21)
+[![Under Armour Victory Tanque  Mujer  Negr](https://m.media-amazon.com/images/I/41eq2XHpY1L._SL400_.jpg)](https://www.amazon.es/dp/B07PMTL5W2/?tag=tolees-21)
 
 🔎:
 

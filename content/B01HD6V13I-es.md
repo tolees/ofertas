@@ -2,7 +2,7 @@
 layout: post
 title: 'Salomon Evasion 2 Aero  Zapatillas de Se con un 28.86 % de descuento'
 date: 2020-03-08 17:21:47
-image: 'https://m.media-amazon.com/images/I/51a-kKxRERL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51a-kKxRERL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '63.64'
 
 En este momento está [Salomon Evasion 2 Aero  Zapatillas de Senderismo para Hombre  Marrón  Vintage Kaki/Bungee Cord/Honey   40 EU](https://www.amazon.es/dp/B01HD6V13I/?tag=tolees-21) a 63.99 EUR (original: 89.95 EUR) (28.86 %  de descuento) en el siguiente enlace!
 
-[![Salomon Evasion 2 Aero  Zapatillas de Se](https://m.media-amazon.com/images/I/51a-kKxRERL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01HD6V13I/?tag=tolees-21)
+[![Salomon Evasion 2 Aero  Zapatillas de Se](https://m.media-amazon.com/images/I/51a-kKxRERL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01HD6V13I/?tag=tolees-21)
 
 🔎:
 

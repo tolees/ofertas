@@ -2,7 +2,7 @@
 layout: post
 title: 'New Balance 500  Zapatillas para Mujer   con un 66.53 % de descuento'
 date: 2020-08-07 16:14:52
-image: 'https://m.media-amazon.com/images/I/41wlHwzSUaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41wlHwzSUaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '25.1'
 
 En este momento está [New Balance 500  Zapatillas para Mujer  Azul  Blue Hhf   35 EU](https://www.amazon.es/dp/B07RZJY68L/?tag=tolees-21) a 25.1 EUR (original: 75.0 EUR) (66.53 %  de descuento) en el siguiente enlace!
 
-[![New Balance 500  Zapatillas para Mujer  ](https://m.media-amazon.com/images/I/41wlHwzSUaL._SL200_.jpg)](https://www.amazon.es/dp/B07RZJY68L/?tag=tolees-21)
+[![New Balance 500  Zapatillas para Mujer  ](https://m.media-amazon.com/images/I/41wlHwzSUaL._SL400_.jpg)](https://www.amazon.es/dp/B07RZJY68L/?tag=tolees-21)
 
 🔎:
 

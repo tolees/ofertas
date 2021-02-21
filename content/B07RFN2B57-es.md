@@ -2,7 +2,7 @@
 layout: post
 title: 'Salomon RX Break 4.0 W  Zapatillas Depor al 30.86 % de descuento'
 date: 2020-07-03 14:30:38
-image: 'https://m.media-amazon.com/images/I/31yxVfKDi8L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31yxVfKDi8L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.65'
 
 Ahora mismo tienes [Salomon RX Break 4.0 W  Zapatillas Deportivas para Interior para Mujer  Azul  Meadowbrook/Icy Morn/White   36 2/3 EU](https://www.amazon.es/dp/B07RFN2B57/?tag=tolees-21) a 24.65 EUR (original: 35.65 EUR) (30.86 %  de descuento) en el siguiente enlace!
 
-[![Salomon RX Break 4.0 W  Zapatillas Depor](https://m.media-amazon.com/images/I/31yxVfKDi8L._SL200_.jpg)](https://www.amazon.es/dp/B07RFN2B57/?tag=tolees-21)
+[![Salomon RX Break 4.0 W  Zapatillas Depor](https://m.media-amazon.com/images/I/31yxVfKDi8L._SL400_.jpg)](https://www.amazon.es/dp/B07RFN2B57/?tag=tolees-21)
 
 🔎:
 

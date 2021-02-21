@@ -2,7 +2,7 @@
 layout: post
 title: 'Operación Triunfo 2017 al 46.06 % de descuento'
 date: 2020-01-17 09:09:39
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BvgB3yfIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BvgB3yfIL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '36.42'
 
 Ahora mismo tienes [Operación Triunfo 2017](https://www.amazon.es/dp/B07FM33FL2/?tag=tolees-21) a 32.9 EUR (original: 60.99 EUR) (46.06 %  de descuento) en el siguiente enlace!
 
-[![Operación Triunfo 2017](https://images-eu.ssl-images-amazon.com/images/I/41%2BvgB3yfIL._SL200_.jpg)](https://www.amazon.es/dp/B07FM33FL2/?tag=tolees-21)
+[![Operación Triunfo 2017](https://images-eu.ssl-images-amazon.com/images/I/41%2BvgB3yfIL._SL400_.jpg)](https://www.amazon.es/dp/B07FM33FL2/?tag=tolees-21)
 
 🔎:
 

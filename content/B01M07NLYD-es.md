@@ -2,7 +2,7 @@
 layout: post
 title: 'Philips bsc200/01 Cepillo de limpieza fa al 70.63 % de descuento'
 date: 2020-04-10 10:41:28
-image: 'https://m.media-amazon.com/images/I/21oEXyR9cWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21oEXyR9cWL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '36.5'
 
 Ahora mismo tienes [Philips bsc200/01 Cepillo de limpieza facial Visapure Essential  Rose de color blanco](https://www.amazon.es/dp/B01M07NLYD/?tag=tolees-21) a 29.37 EUR (original: 99.99 EUR) (70.63 %  de descuento) en el siguiente enlace!
 
-[![Philips bsc200/01 Cepillo de limpieza fa](https://m.media-amazon.com/images/I/21oEXyR9cWL._SL200_.jpg)](https://www.amazon.es/dp/B01M07NLYD/?tag=tolees-21)
+[![Philips bsc200/01 Cepillo de limpieza fa](https://m.media-amazon.com/images/I/21oEXyR9cWL._SL400_.jpg)](https://www.amazon.es/dp/B01M07NLYD/?tag=tolees-21)
 
 🔎:
 

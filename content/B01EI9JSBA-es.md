@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas Gazelle  Zapatillas de deporte Un al 30.83 % de rebaja'
 date: 2020-08-31 14:56:30
-image: 'https://m.media-amazon.com/images/I/41ub5cOTJML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ub5cOTJML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '65.518'
 
 Tienes [adidas Gazelle  Zapatillas de deporte Unisex Adulto  Varios colores  Core Black/White/Gold Metalic   42 2/3 EU](https://www.amazon.es/dp/B01EI9JSBA/?tag=tolees-21) con precio final de  68.99 EUR (original: 99.74 EUR) (30.83 %  de rebaja) aqui!
 
-[![adidas Gazelle  Zapatillas de deporte Un](https://m.media-amazon.com/images/I/41ub5cOTJML._SL200_.jpg)](https://www.amazon.es/dp/B01EI9JSBA/?tag=tolees-21)
+[![adidas Gazelle  Zapatillas de deporte Un](https://m.media-amazon.com/images/I/41ub5cOTJML._SL400_.jpg)](https://www.amazon.es/dp/B01EI9JSBA/?tag=tolees-21)
 
 🔎:
 

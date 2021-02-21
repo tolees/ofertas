@@ -2,7 +2,7 @@
 layout: post
 title: 'AXE Black - Desodorante Bodyspray para h al 44.72 % de rebaja'
 date: 2020-03-29 11:06:02
-image: 'https://m.media-amazon.com/images/I/41wyhsrY6lL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41wyhsrY6lL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.54'
 
 Tienes [AXE Black - Desodorante Bodyspray para hombre  48 horas de protección  150 ml  pack de 3](https://www.amazon.es/dp/B07NC43D4P/?tag=tolees-21) con precio final de  5.97 EUR (original: 10.8 EUR) (44.72 %  de rebaja) aqui!
 
-[![AXE Black - Desodorante Bodyspray para h](https://m.media-amazon.com/images/I/41wyhsrY6lL._SL200_.jpg)](https://www.amazon.es/dp/B07NC43D4P/?tag=tolees-21)
+[![AXE Black - Desodorante Bodyspray para h](https://m.media-amazon.com/images/I/41wyhsrY6lL._SL400_.jpg)](https://www.amazon.es/dp/B07NC43D4P/?tag=tolees-21)
 
 🔎:
 

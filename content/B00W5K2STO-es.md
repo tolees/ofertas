@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas GT SN Bra Sujetador  Mujer  Negro al 41.70 % de descuento'
 date: 2020-06-10 11:42:12
-image: 'https://m.media-amazon.com/images/I/41InO5pfwtL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41InO5pfwtL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.77'
 
 Ahora mismo tienes [adidas GT SN Bra Sujetador  Mujer  Negro  Black/Black   XS](https://www.amazon.es/dp/B00W5K2STO/?tag=tolees-21) a 24.77 EUR (original: 42.49 EUR) (41.70 %  de descuento) en el siguiente enlace!
 
-[![adidas GT SN Bra Sujetador  Mujer  Negro](https://m.media-amazon.com/images/I/41InO5pfwtL._SL200_.jpg)](https://www.amazon.es/dp/B00W5K2STO/?tag=tolees-21)
+[![adidas GT SN Bra Sujetador  Mujer  Negro](https://m.media-amazon.com/images/I/41InO5pfwtL._SL400_.jpg)](https://www.amazon.es/dp/B00W5K2STO/?tag=tolees-21)
 
 🔎:
 

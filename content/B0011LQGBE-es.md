@@ -2,7 +2,7 @@
 layout: post
 title: 'Wolfcraft 2178000 2178000-1 Juego Hobby  al 28.94 % de descuento'
 date: 2020-09-28 13:29:18
-image: 'https://m.media-amazon.com/images/I/41eoPa6J6BL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41eoPa6J6BL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.3'
 
 Está [Wolfcraft 2178000 2178000-1 Juego Hobby Metales  plástico  marmol etc. Contenido: Pasta de Pulido  Mandril de sujeción  Fieltro  Disco de Algodon](https://www.amazon.es/dp/B0011LQGBE/?tag=tolees-21) con 28.94 de descuento por 8.3 EUR (original: 11.68 EUR) en el siguiente enlace!
 
-[![Wolfcraft 2178000 2178000-1 Juego Hobby ](https://m.media-amazon.com/images/I/41eoPa6J6BL._SL200_.jpg)](https://www.amazon.es/dp/B0011LQGBE/?tag=tolees-21)
+[![Wolfcraft 2178000 2178000-1 Juego Hobby ](https://m.media-amazon.com/images/I/41eoPa6J6BL._SL400_.jpg)](https://www.amazon.es/dp/B0011LQGBE/?tag=tolees-21)
 
 ℹ️:
 

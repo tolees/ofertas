@@ -2,7 +2,7 @@
 layout: post
 title: 'Suaoki - Mini Compresor de aire portátil al 36.68 % de rebaja'
 date: 2020-05-07 14:00:41
-image: 'https://m.media-amazon.com/images/I/41sG63KmvEL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41sG63KmvEL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.515'
 
 Tienes [Suaoki - Mini Compresor de aire portátil  bomba inflador con luz LED  12V  120 PSI  3 adaptadores boquilla  4" aire manguera  3m cable con mechero  para neumáticos  objetos inflables ](https://www.amazon.es/dp/B01FDFMXH4/?tag=tolees-21) con precio final de  18.99 EUR (original: 29.99 EUR) (36.68 %  de rebaja) aqui!
 
-[![Suaoki - Mini Compresor de aire portátil](https://m.media-amazon.com/images/I/41sG63KmvEL._SL200_.jpg)](https://www.amazon.es/dp/B01FDFMXH4/?tag=tolees-21)
+[![Suaoki - Mini Compresor de aire portátil](https://m.media-amazon.com/images/I/41sG63KmvEL._SL400_.jpg)](https://www.amazon.es/dp/B01FDFMXH4/?tag=tolees-21)
 
 🔎:
 

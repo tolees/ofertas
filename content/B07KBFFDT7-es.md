@@ -2,7 +2,7 @@
 layout: post
 title: 'O NEILL PM Cali Bañador  Hombre  Multico al 41.21 % de descuento'
 date: 2020-06-04 21:50:15
-image: 'https://m.media-amazon.com/images/I/41tubsoSVbL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41tubsoSVbL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.51'
 
 Ahora mismo tienes [O NEILL PM Cali Bañador  Hombre  Multicolor  L](https://www.amazon.es/dp/B07KBFFDT7/?tag=tolees-21) a 23.51 EUR (original: 39.99 EUR) (41.21 %  de descuento) en el siguiente enlace!
 
-[![O NEILL PM Cali Bañador  Hombre  Multico](https://m.media-amazon.com/images/I/41tubsoSVbL._SL200_.jpg)](https://www.amazon.es/dp/B07KBFFDT7/?tag=tolees-21)
+[![O NEILL PM Cali Bañador  Hombre  Multico](https://m.media-amazon.com/images/I/41tubsoSVbL._SL400_.jpg)](https://www.amazon.es/dp/B07KBFFDT7/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Chinchón Seco - Anís - 1000 ml al 50.00 % de descuento'
 date: 2020-06-08 10:25:00
-image: 'https://m.media-amazon.com/images/I/31KQ2B32ffL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31KQ2B32ffL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.1'
 
 Está [Chinchón Seco - Anís - 1000 ml](https://www.amazon.es/dp/B07V29NSG6/?tag=tolees-21) con 50.00 de descuento por 6.1 EUR (original: 12.2 EUR) en el siguiente enlace!
 
-[![Chinchón Seco - Anís - 1000 ml](https://m.media-amazon.com/images/I/31KQ2B32ffL._SL200_.jpg)](https://www.amazon.es/dp/B07V29NSG6/?tag=tolees-21)
+[![Chinchón Seco - Anís - 1000 ml](https://m.media-amazon.com/images/I/31KQ2B32ffL._SL400_.jpg)](https://www.amazon.es/dp/B07V29NSG6/?tag=tolees-21)
 
 ℹ️:
 

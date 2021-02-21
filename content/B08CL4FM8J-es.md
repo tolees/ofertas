@@ -2,7 +2,7 @@
 layout: post
 title: 'VIBORA Tiger 2020 con un 39.18 % de descuento'
 date: 2020-08-08 07:28:09
-image: 'https://m.media-amazon.com/images/I/41DSjkvjpRL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41DSjkvjpRL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '114.95'
 
 En este momento está [VIBORA Tiger 2020](https://www.amazon.es/dp/B08CL4FM8J/?tag=tolees-21) a 114.95 EUR (original: 189.0 EUR) (39.18 %  de descuento) en el siguiente enlace!
 
-[![VIBORA Tiger 2020](https://m.media-amazon.com/images/I/41DSjkvjpRL._SL200_.jpg)](https://www.amazon.es/dp/B08CL4FM8J/?tag=tolees-21)
+[![VIBORA Tiger 2020](https://m.media-amazon.com/images/I/41DSjkvjpRL._SL400_.jpg)](https://www.amazon.es/dp/B08CL4FM8J/?tag=tolees-21)
 
 🔎:
 

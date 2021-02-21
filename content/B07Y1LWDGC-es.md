@@ -2,7 +2,7 @@
 layout: post
 title: 'LIGE Relojes para Hombre Impermeable Cua al 79.24 % de descuento'
 date: 2020-07-02 17:17:26
-image: 'https://m.media-amazon.com/images/I/51Dog9-bUUL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Dog9-bUUL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '26.99'
 
 Está [LIGE Relojes para Hombre Impermeable Cuarzo Analógica Reloj Negro Simple Acero Inoxidable Reloj de Pulsera](https://www.amazon.es/dp/B07Y1LWDGC/?tag=tolees-21) con 79.24 de descuento por 26.99 EUR (original: 129.99 EUR) en el siguiente enlace!
 
-[![LIGE Relojes para Hombre Impermeable Cua](https://m.media-amazon.com/images/I/51Dog9-bUUL._SL200_.jpg)](https://www.amazon.es/dp/B07Y1LWDGC/?tag=tolees-21)
+[![LIGE Relojes para Hombre Impermeable Cua](https://m.media-amazon.com/images/I/51Dog9-bUUL._SL400_.jpg)](https://www.amazon.es/dp/B07Y1LWDGC/?tag=tolees-21)
 
 ℹ️:
 

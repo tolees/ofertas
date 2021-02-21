@@ -2,7 +2,7 @@
 layout: post
 title: 'Star Wars Rogue One - Disfraz de Death T al 66.39 % de descuento'
 date: 2020-01-14 16:39:26
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41uiBpl7euL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41uiBpl7euL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.525'
 
 Está [Star Wars Rogue One - Disfraz de Death Trooper para niños  infantil 5-6 años  Rubie s 630499-M ](https://www.amazon.es/dp/B01IQZ1Y6Y/?tag=tolees-21) con 66.39 de descuento por 10.08 EUR (original: 29.99 EUR) en el siguiente enlace!
 
-[![Star Wars Rogue One - Disfraz de Death T](https://images-eu.ssl-images-amazon.com/images/I/41uiBpl7euL._SL200_.jpg)](https://www.amazon.es/dp/B01IQZ1Y6Y/?tag=tolees-21)
+[![Star Wars Rogue One - Disfraz de Death T](https://images-eu.ssl-images-amazon.com/images/I/41uiBpl7euL._SL400_.jpg)](https://www.amazon.es/dp/B01IQZ1Y6Y/?tag=tolees-21)
 
 ℹ️:
 

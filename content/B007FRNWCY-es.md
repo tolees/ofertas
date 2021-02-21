@@ -2,7 +2,7 @@
 layout: post
 title: 'L oreal paris - Sublime  loción autobron al 43.29 % de descuento'
 date: 2020-09-13 08:06:26
-image: 'https://m.media-amazon.com/images/I/41mav9CI3JL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41mav9CI3JL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.45'
 
 Ahora mismo tienes [L oreal paris - Sublime  loción autobronceadora  tono medio  200 ml](https://www.amazon.es/dp/B007FRNWCY/?tag=tolees-21) a 5.45 EUR (original: 9.61 EUR) (43.29 %  de descuento) en el siguiente enlace!
 
-[![L oreal paris - Sublime  loción autobron](https://m.media-amazon.com/images/I/41mav9CI3JL._SL200_.jpg)](https://www.amazon.es/dp/B007FRNWCY/?tag=tolees-21)
+[![L oreal paris - Sublime  loción autobron](https://m.media-amazon.com/images/I/41mav9CI3JL._SL400_.jpg)](https://www.amazon.es/dp/B007FRNWCY/?tag=tolees-21)
 
 🔎:
 

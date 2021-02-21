@@ -2,7 +2,7 @@
 layout: post
 title: 'Licor Picante de Guindilla Verde Dr Zas  al 50.00 % de descuento'
 date: 2020-09-27 16:38:49
-image: 'https://m.media-amazon.com/images/I/51C0A3zlRhL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51C0A3zlRhL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.25'
 
 Está [Licor Picante de Guindilla Verde Dr Zas - 3 botellas de 70 cl - Total: 210 cl](https://www.amazon.es/dp/B07Q4DYP1C/?tag=tolees-21) con 50.00 de descuento por 20.25 EUR (original: 40.5 EUR) en el siguiente enlace!
 
-[![Licor Picante de Guindilla Verde Dr Zas ](https://m.media-amazon.com/images/I/51C0A3zlRhL._SL200_.jpg)](https://www.amazon.es/dp/B07Q4DYP1C/?tag=tolees-21)
+[![Licor Picante de Guindilla Verde Dr Zas ](https://m.media-amazon.com/images/I/51C0A3zlRhL._SL400_.jpg)](https://www.amazon.es/dp/B07Q4DYP1C/?tag=tolees-21)
 
 ℹ️:
 

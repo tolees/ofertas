@@ -2,7 +2,7 @@
 layout: post
 title: 'TKL Teclado mecánico para juegos  interr al 32.83 % de descuento'
 date: 2020-09-12 22:47:32
-image: 'https://m.media-amazon.com/images/I/419uA+fn7tL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/419uA+fn7tL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '35.34'
 
 Está [TKL Teclado mecánico para juegos  interruptor azul Clicky Outemu con retroiluminación LED  E-Element Z-77 Panel de aluminio 87 teclas compacto  US-Layout  teclado para PC Gamer Typist](https://www.amazon.es/dp/B07Z9Z6XQF/?tag=tolees-21) con 32.83 de descuento por 35.34 EUR (original: 52.61 EUR) en el siguiente enlace!
 
-[![TKL Teclado mecánico para juegos  interr](https://m.media-amazon.com/images/I/419uA+fn7tL._SL200_.jpg)](https://www.amazon.es/dp/B07Z9Z6XQF/?tag=tolees-21)
+[![TKL Teclado mecánico para juegos  interr](https://m.media-amazon.com/images/I/419uA+fn7tL._SL400_.jpg)](https://www.amazon.es/dp/B07Z9Z6XQF/?tag=tolees-21)
 
 ℹ️:
 

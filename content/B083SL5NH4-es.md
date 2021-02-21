@@ -2,7 +2,7 @@
 layout: post
 title: 'TONGJI Vitrina de Acrílico Compatible co al 50.00 % de rebaja'
 date: 2020-04-15 00:44:07
-image: 'https://m.media-amazon.com/images/I/414nXpvLrlL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/414nXpvLrlL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '51.88583333333333'
 
 Tienes [TONGJI Vitrina de Acrílico Compatible con Lego 42083 Technic - Bugatti Chiron  Vitrina A Prueba De Polvo  Modelo No Incluido ](https://www.amazon.es/dp/B083SL5NH4/?tag=tolees-21) con precio final de  62.99 EUR (original: 125.98 EUR) (50.00 %  de rebaja) aqui!
 
-[![TONGJI Vitrina de Acrílico Compatible co](https://m.media-amazon.com/images/I/414nXpvLrlL._SL200_.jpg)](https://www.amazon.es/dp/B083SL5NH4/?tag=tolees-21)
+[![TONGJI Vitrina de Acrílico Compatible co](https://m.media-amazon.com/images/I/414nXpvLrlL._SL400_.jpg)](https://www.amazon.es/dp/B083SL5NH4/?tag=tolees-21)
 
 🔎:
 

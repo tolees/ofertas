@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 33.08 % en D-LINK Punto DE Acceso Dual Band 2.4/5GH'
 date: 2020-05-29 08:08:10
-image: 'https://m.media-amazon.com/images/I/21SKFVqdO2L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21SKFVqdO2L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '74.95'
 
 Tienes [D-LINK Punto DE Acceso Dual Band 2.4/5GHZ DAP-1665](https://www.amazon.es/dp/B00KZRTWRK/?tag=tolees-21) con un 33.08 % de descuento con precio de oferta de 74.95 EUR (original: 112.0 EUR) en el siguiente enlace!
 
-[![D-LINK Punto DE Acceso Dual Band 2.4/5GH](https://m.media-amazon.com/images/I/21SKFVqdO2L._SL200_.jpg)](https://www.amazon.es/dp/B00KZRTWRK/?tag=tolees-21)
+[![D-LINK Punto DE Acceso Dual Band 2.4/5GH](https://m.media-amazon.com/images/I/21SKFVqdO2L._SL400_.jpg)](https://www.amazon.es/dp/B00KZRTWRK/?tag=tolees-21)
 
 ℹ️:
 

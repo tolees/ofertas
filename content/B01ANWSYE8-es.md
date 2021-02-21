@@ -2,7 +2,7 @@
 layout: post
 title: 'Think Gizmos Equipo de construcción para con un 50.12 % de descuento'
 date: 2020-01-24 18:05:44
-image: 'https://m.media-amazon.com/images/I/51HxKRu+KXL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51HxKRu+KXL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.95'
 
 En este momento está [Think Gizmos Equipo de construcción para niños – Ingenious Machines a Control Remoto Kit de Construcción de Juguete  Robot Pato  Maquina de Fuego  Tren y Robot Esquiador ](https://www.amazon.es/dp/B01ANWSYE8/?tag=tolees-21) a 19.95 EUR (original: 40.0 EUR) (50.12 %  de descuento) en el siguiente enlace!
 
-[![Think Gizmos Equipo de construcción para](https://m.media-amazon.com/images/I/51HxKRu+KXL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01ANWSYE8/?tag=tolees-21)
+[![Think Gizmos Equipo de construcción para](https://m.media-amazon.com/images/I/51HxKRu+KXL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01ANWSYE8/?tag=tolees-21)
 
 🔎:
 

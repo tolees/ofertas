@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 42.71 % en DCL Drone Championship League'
 date: 2020-09-07 09:09:20
-image: 'https://m.media-amazon.com/images/I/51k6Lnlq2OL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51k6Lnlq2OL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.530000000000001'
 
 Tienes [DCL Drone Championship League](https://www.amazon.es/dp/B07XGCT365/?tag=tolees-21) con un 42.71 % de descuento con precio de oferta de 17.18 EUR (original: 29.99 EUR) en el siguiente enlace!
 
-[![DCL Drone Championship League](https://m.media-amazon.com/images/I/51k6Lnlq2OL._SL200_.jpg)](https://www.amazon.es/dp/B07XGCT365/?tag=tolees-21)
+[![DCL Drone Championship League](https://m.media-amazon.com/images/I/51k6Lnlq2OL._SL400_.jpg)](https://www.amazon.es/dp/B07XGCT365/?tag=tolees-21)
 
 ℹ️:
 

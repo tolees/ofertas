@@ -2,7 +2,7 @@
 layout: post
 title: 'Puma Liga Baselayer Short Tight Pantalon al 38.70 % de descuento'
 date: 2020-02-11 12:51:26
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41IScToexlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41IScToexlL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.36'
 
 Ahora mismo tienes [Puma Liga Baselayer Short Tight Pantalones Cortos  Hombre  Blanco White  L](https://www.amazon.es/dp/B077SSYLLS/?tag=tolees-21) a 18.36 EUR (original: 29.95 EUR) (38.70 %  de descuento) en el siguiente enlace!
 
-[![Puma Liga Baselayer Short Tight Pantalon](https://images-eu.ssl-images-amazon.com/images/I/41IScToexlL._SL200_.jpg)](https://www.amazon.es/dp/B077SSYLLS/?tag=tolees-21)
+[![Puma Liga Baselayer Short Tight Pantalon](https://images-eu.ssl-images-amazon.com/images/I/41IScToexlL._SL400_.jpg)](https://www.amazon.es/dp/B077SSYLLS/?tag=tolees-21)
 
 🔎:
 

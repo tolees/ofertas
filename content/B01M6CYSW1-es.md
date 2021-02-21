@@ -2,7 +2,7 @@
 layout: post
 title: 'POP! Vinilo - Lost: Man in Black al 53.64 % de descuento'
 date: 2020-04-05 14:35:29
-image: 'https://m.media-amazon.com/images/I/51wmZpYPAqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51wmZpYPAqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.645'
 
 Está [POP! Vinilo - Lost: Man in Black](https://www.amazon.es/dp/B01M6CYSW1/?tag=tolees-21) con 53.64 de descuento por 6.95 EUR (original: 14.99 EUR) en el siguiente enlace!
 
-[![POP! Vinilo - Lost: Man in Black](https://m.media-amazon.com/images/I/51wmZpYPAqL._SL200_.jpg)](https://www.amazon.es/dp/B01M6CYSW1/?tag=tolees-21)
+[![POP! Vinilo - Lost: Man in Black](https://m.media-amazon.com/images/I/51wmZpYPAqL._SL400_.jpg)](https://www.amazon.es/dp/B01M6CYSW1/?tag=tolees-21)
 
 ℹ️:
 

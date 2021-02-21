@@ -2,7 +2,7 @@
 layout: post
 title: 'Nilfisk - Aspiradora Hepa Basic EU - Ser al 55.23 % de descuento'
 date: 2020-01-19 13:48:39
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41S%2B7sIgSiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41S%2B7sIgSiL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '119.34'
 
 Está [Nilfisk - Aspiradora Hepa Basic EU - Serie Nilfisk VP300](https://www.amazon.es/dp/B076PQYWWC/?tag=tolees-21) con 55.23 de descuento por 119.34 EUR (original: 266.55 EUR) en el siguiente enlace!
 
-[![Nilfisk - Aspiradora Hepa Basic EU - Ser](https://images-eu.ssl-images-amazon.com/images/I/41S%2B7sIgSiL._SL200_.jpg)](https://www.amazon.es/dp/B076PQYWWC/?tag=tolees-21)
+[![Nilfisk - Aspiradora Hepa Basic EU - Ser](https://images-eu.ssl-images-amazon.com/images/I/41S%2B7sIgSiL._SL400_.jpg)](https://www.amazon.es/dp/B076PQYWWC/?tag=tolees-21)
 
 ℹ️:
 

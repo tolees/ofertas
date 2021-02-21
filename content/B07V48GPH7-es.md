@@ -2,7 +2,7 @@
 layout: post
 title: 'BOSS Identity Pants Pantalones de Deport al 58.82 % de descuento'
 date: 2020-08-07 20:26:19
-image: 'https://m.media-amazon.com/images/I/31-pkL6kMwL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31-pkL6kMwL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.69'
 
 Ahora mismo tienes [BOSS Identity Pants Pantalones de Deporte  Azul  Dark Blue 403   58  Talla del Fabricante: XX-Large  para Hombre](https://www.amazon.es/dp/B07V48GPH7/?tag=tolees-21) a 24.69 EUR (original: 59.95 EUR) (58.82 %  de descuento) en el siguiente enlace!
 
-[![BOSS Identity Pants Pantalones de Deport](https://m.media-amazon.com/images/I/31-pkL6kMwL._SL200_.jpg)](https://www.amazon.es/dp/B07V48GPH7/?tag=tolees-21)
+[![BOSS Identity Pants Pantalones de Deport](https://m.media-amazon.com/images/I/31-pkL6kMwL._SL400_.jpg)](https://www.amazon.es/dp/B07V48GPH7/?tag=tolees-21)
 
 🔎:
 

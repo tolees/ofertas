@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 34.36 % en Timex Classic T2H371 - Reloj de Cuarzo p'
 date: 2020-02-07 21:57:58
-image: 'https://m.media-amazon.com/images/I/412kvOuXgQL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/412kvOuXgQL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '44.49'
 
 Tienes [Timex Classic T2H371 - Reloj de Cuarzo para Mujeres  Correa de Acero Inoxidable  Color Plata](https://www.amazon.es/dp/B000HZTKZE/?tag=tolees-21) con un 34.36 % de descuento con precio de oferta de 38.73 EUR (original: 59.0 EUR) en el siguiente enlace!
 
-[![Timex Classic T2H371 - Reloj de Cuarzo p](https://m.media-amazon.com/images/I/412kvOuXgQL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B000HZTKZE/?tag=tolees-21)
+[![Timex Classic T2H371 - Reloj de Cuarzo p](https://m.media-amazon.com/images/I/412kvOuXgQL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B000HZTKZE/?tag=tolees-21)
 
 ℹ️:
 

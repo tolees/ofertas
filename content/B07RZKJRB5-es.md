@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 73.58 % en Destornillador Eléctrico Inalámbrico  LO'
 date: 2020-01-02 11:32:26
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51JC2m3xJpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51JC2m3xJpL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '36.99'
 
 Tienes [Destornillador Eléctrico Inalámbrico  LOMVUM LV401 4V Taladros Atornilladores  2000mAh Batería de Litio Par Máximo: 4 N.m  Cable de carga USB](https://www.amazon.es/dp/B07RZKJRB5/?tag=tolees-21) con un 73.58 % de descuento con precio de oferta de 36.99 EUR (original: 139.99 EUR) en el siguiente enlace!
 
-[![Destornillador Eléctrico Inalámbrico  LO](https://images-eu.ssl-images-amazon.com/images/I/51JC2m3xJpL._SL200_.jpg)](https://www.amazon.es/dp/B07RZKJRB5/?tag=tolees-21)
+[![Destornillador Eléctrico Inalámbrico  LO](https://images-eu.ssl-images-amazon.com/images/I/51JC2m3xJpL._SL400_.jpg)](https://www.amazon.es/dp/B07RZKJRB5/?tag=tolees-21)
 
 ℹ️:
 

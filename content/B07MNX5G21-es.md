@@ -2,7 +2,7 @@
 layout: post
 title: 'Palladium 75156 - Botas de Otra Piel Uni al 82.40 % de descuento'
 date: 2020-02-22 11:36:33
-image: 'https://m.media-amazon.com/images/I/41A8wkuFBlL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41A8wkuFBlL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.11'
 
 Está [Palladium 75156 - Botas de Otra Piel Unisex Adulto  Marrón  Marrón  Carafe B26    37 EU](https://www.amazon.es/dp/B07MNX5G21/?tag=tolees-21) con 82.40 de descuento por 21.11 EUR (original: 119.95 EUR) en el siguiente enlace!
 
-[![Palladium 75156 - Botas de Otra Piel Uni](https://m.media-amazon.com/images/I/41A8wkuFBlL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07MNX5G21/?tag=tolees-21)
+[![Palladium 75156 - Botas de Otra Piel Uni](https://m.media-amazon.com/images/I/41A8wkuFBlL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07MNX5G21/?tag=tolees-21)
 
 ℹ️:
 

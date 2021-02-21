@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour UA W Charged Rogue  Zapatil al 39.85 % de descuento'
 date: 2020-01-10 08:17:54
-image: 'https://images-eu.ssl-images-amazon.com/images/I/414lFFN7MKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/414lFFN7MKL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '39.95'
 
 Ahora mismo tienes [Under Armour UA W Charged Rogue  Zapatillas de Running para Mujer  Gris  Downpour Gray/Coral Dust/Coral Dust  401  401   36 EU](https://www.amazon.es/dp/B07HKM16G7/?tag=tolees-21) a 39.95 EUR (original: 66.42 EUR) (39.85 %  de descuento) en el siguiente enlace!
 
-[![Under Armour UA W Charged Rogue  Zapatil](https://images-eu.ssl-images-amazon.com/images/I/414lFFN7MKL._SL200_.jpg)](https://www.amazon.es/dp/B07HKM16G7/?tag=tolees-21)
+[![Under Armour UA W Charged Rogue  Zapatil](https://images-eu.ssl-images-amazon.com/images/I/414lFFN7MKL._SL400_.jpg)](https://www.amazon.es/dp/B07HKM16G7/?tag=tolees-21)
 
 🔎:
 

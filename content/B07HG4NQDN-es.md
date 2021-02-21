@@ -2,7 +2,7 @@
 layout: post
 title: 'New Balance Calzado Deportivo NM213 Tim  al 50.00 % de rebaja'
 date: 2020-05-18 18:03:49
-image: 'https://m.media-amazon.com/images/I/31qtViqqnsL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31qtViqqnsL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '35.0'
 
 Tienes [New Balance Calzado Deportivo NM213 Tim para Hombre Beige 43 EU](https://www.amazon.es/dp/B07HG4NQDN/?tag=tolees-21) con precio final de  35.0 EUR (original: 70.0 EUR) (50.00 %  de rebaja) aqui!
 
-[![New Balance Calzado Deportivo NM213 Tim ](https://m.media-amazon.com/images/I/31qtViqqnsL._SL200_.jpg)](https://www.amazon.es/dp/B07HG4NQDN/?tag=tolees-21)
+[![New Balance Calzado Deportivo NM213 Tim ](https://m.media-amazon.com/images/I/31qtViqqnsL._SL400_.jpg)](https://www.amazon.es/dp/B07HG4NQDN/?tag=tolees-21)
 
 🔎:
 

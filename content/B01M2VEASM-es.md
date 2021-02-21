@@ -2,7 +2,7 @@
 layout: post
 title: 'Lacoste DH2050 Polo  Azul  Marine   XXX- al 56.96 % de descuento'
 date: 2020-04-06 04:53:19
-image: 'https://m.media-amazon.com/images/I/31nLWMiNQvL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31nLWMiNQvL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '40.38'
 
 Ahora mismo tienes [Lacoste DH2050 Polo  Azul  Marine   XXX-Large  Talla del Fabricante: 8  para Hombre](https://www.amazon.es/dp/B01M2VEASM/?tag=tolees-21) a 38.31 EUR (original: 89.0 EUR) (56.96 %  de descuento) en el siguiente enlace!
 
-[![Lacoste DH2050 Polo  Azul  Marine   XXX-](https://m.media-amazon.com/images/I/31nLWMiNQvL._SL200_.jpg)](https://www.amazon.es/dp/B01M2VEASM/?tag=tolees-21)
+[![Lacoste DH2050 Polo  Azul  Marine   XXX-](https://m.media-amazon.com/images/I/31nLWMiNQvL._SL400_.jpg)](https://www.amazon.es/dp/B01M2VEASM/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Nixon Reloj Analógico para Unisex Adulto al 26.26 % de descuento'
 date: 2020-04-15 05:24:59
-image: 'https://m.media-amazon.com/images/I/4115uL0ubML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/4115uL0ubML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '77.22999999999999'
 
 Ahora mismo tienes [Nixon Reloj Analógico para Unisex Adultos de Cuarzo con Correa en Acero Inoxidable A045-1931-00](https://www.amazon.es/dp/B00M3IWF7S/?tag=tolees-21) a 73.0 EUR (original: 99.0 EUR) (26.26 %  de descuento) en el siguiente enlace!
 
-[![Nixon Reloj Analógico para Unisex Adulto](https://m.media-amazon.com/images/I/4115uL0ubML._SL200_.jpg)](https://www.amazon.es/dp/B00M3IWF7S/?tag=tolees-21)
+[![Nixon Reloj Analógico para Unisex Adulto](https://m.media-amazon.com/images/I/4115uL0ubML._SL400_.jpg)](https://www.amazon.es/dp/B00M3IWF7S/?tag=tolees-21)
 
 🔎:
 

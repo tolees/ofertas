@@ -2,7 +2,7 @@
 layout: post
 title: 'Buff R-Solid Gorra One Touch  Unisex Adu al 72.68 % de descuento'
 date: 2020-02-06 13:24:10
-image: 'https://m.media-amazon.com/images/I/311sHkLWa9L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/311sHkLWa9L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.55'
 
 Está [Buff R-Solid Gorra One Touch  Unisex Adulto  Black  Talla única](https://www.amazon.es/dp/B07KGGV6MG/?tag=tolees-21) con 72.68 de descuento por 9.55 EUR (original: 34.95 EUR) en el siguiente enlace!
 
-[![Buff R-Solid Gorra One Touch  Unisex Adu](https://m.media-amazon.com/images/I/311sHkLWa9L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07KGGV6MG/?tag=tolees-21)
+[![Buff R-Solid Gorra One Touch  Unisex Adu](https://m.media-amazon.com/images/I/311sHkLWa9L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07KGGV6MG/?tag=tolees-21)
 
 ℹ️:
 

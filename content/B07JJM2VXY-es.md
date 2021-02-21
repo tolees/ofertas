@@ -2,7 +2,7 @@
 layout: post
 title: 'Todeco - Household Tool Box  Home Tool K al 52.25 % de descuento'
 date: 2020-04-16 09:16:29
-image: 'https://m.media-amazon.com/images/I/51EDvG0yFEL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51EDvG0yFEL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '46.79'
 
 Ahora mismo tienes [Todeco - Household Tool Box  Home Tool Kit - Material: Acero - Peso: 4 1 kg - con estuche negro  114 herramientas](https://www.amazon.es/dp/B07JJM2VXY/?tag=tolees-21) a 46.79 EUR (original: 97.99 EUR) (52.25 %  de descuento) en el siguiente enlace!
 
-[![Todeco - Household Tool Box  Home Tool K](https://m.media-amazon.com/images/I/51EDvG0yFEL._SL200_.jpg)](https://www.amazon.es/dp/B07JJM2VXY/?tag=tolees-21)
+[![Todeco - Household Tool Box  Home Tool K](https://m.media-amazon.com/images/I/51EDvG0yFEL._SL400_.jpg)](https://www.amazon.es/dp/B07JJM2VXY/?tag=tolees-21)
 
 🔎:
 

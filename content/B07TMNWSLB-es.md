@@ -2,7 +2,7 @@
 layout: post
 title: 'Superdry VL Stitch Sequin Entry Hood Cap al 56.23 % de descuento'
 date: 2020-08-17 19:24:01
-image: 'https://m.media-amazon.com/images/I/41BnvPB1N-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41BnvPB1N-L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '31.095'
 
 Ahora mismo tienes [Superdry VL Stitch Sequin Entry Hood Capucha  Gris  Grey Marl 07q   XS  Talla del Fabricante:8  para Mujer](https://www.amazon.es/dp/B07TMNWSLB/?tag=tolees-21) a 35.01 EUR (original: 79.99 EUR) (56.23 %  de descuento) en el siguiente enlace!
 
-[![Superdry VL Stitch Sequin Entry Hood Cap](https://m.media-amazon.com/images/I/41BnvPB1N-L._SL200_.jpg)](https://www.amazon.es/dp/B07TMNWSLB/?tag=tolees-21)
+[![Superdry VL Stitch Sequin Entry Hood Cap](https://m.media-amazon.com/images/I/41BnvPB1N-L._SL400_.jpg)](https://www.amazon.es/dp/B07TMNWSLB/?tag=tolees-21)
 
 🔎:
 

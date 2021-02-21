@@ -2,7 +2,7 @@
 layout: post
 title: 'Dickies Kerman Pantalones  Marrón  Brown al 75.47 % de descuento'
 date: 2020-05-31 14:03:26
-image: 'https://m.media-amazon.com/images/I/41+ku58gUwL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41+ku58gUwL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.1275'
 
 Está [Dickies Kerman Pantalones  Marrón  Brown Duck BD    Tamaño del Fabricante:28/30  para Hombre](https://www.amazon.es/dp/B01N29LLV1/?tag=tolees-21) con 75.47 de descuento por 14.47 EUR (original: 59.0 EUR) en el siguiente enlace!
 
-[![Dickies Kerman Pantalones  Marrón  Brown](https://m.media-amazon.com/images/I/41+ku58gUwL._SL200_.jpg)](https://www.amazon.es/dp/B01N29LLV1/?tag=tolees-21)
+[![Dickies Kerman Pantalones  Marrón  Brown](https://m.media-amazon.com/images/I/41+ku58gUwL._SL400_.jpg)](https://www.amazon.es/dp/B01N29LLV1/?tag=tolees-21)
 
 ℹ️:
 

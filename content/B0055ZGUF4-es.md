@@ -2,7 +2,7 @@
 layout: post
 title: 'Jata 610 - Báscula de cocina al 45.46 % de rebaja'
 date: 2020-06-09 12:27:42
-image: 'https://m.media-amazon.com/images/I/411u5U5DDoL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/411u5U5DDoL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.49'
 
 Tienes [Jata 610 - Báscula de cocina](https://www.amazon.es/dp/B0055ZGUF4/?tag=tolees-21) con precio final de  6.49 EUR (original: 11.9 EUR) (45.46 %  de rebaja) aqui!
 
-[![Jata 610 - Báscula de cocina](https://m.media-amazon.com/images/I/411u5U5DDoL._SL200_.jpg)](https://www.amazon.es/dp/B0055ZGUF4/?tag=tolees-21)
+[![Jata 610 - Báscula de cocina](https://m.media-amazon.com/images/I/411u5U5DDoL._SL400_.jpg)](https://www.amazon.es/dp/B0055ZGUF4/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'WERNNSAI Manta de Hito de la Jungla - 15 al 43.35 % de descuento'
 date: 2020-08-25 03:23:18
-image: 'https://m.media-amazon.com/images/I/51uv1VEeLoL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51uv1VEeLoL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.99'
 
 Ahora mismo tienes [WERNNSAI Manta de Hito de la Jungla - 150 x 100 cm Franela Manta de Bebé Selva Mono Elefante Jirafa Manta de Cama Baby Shower Regalo de Cumpleaños Nacido](https://www.amazon.es/dp/B08DR2PLGQ/?tag=tolees-21) a 16.99 EUR (original: 29.99 EUR) (43.35 %  de descuento) en el siguiente enlace!
 
-[![WERNNSAI Manta de Hito de la Jungla - 15](https://m.media-amazon.com/images/I/51uv1VEeLoL._SL200_.jpg)](https://www.amazon.es/dp/B08DR2PLGQ/?tag=tolees-21)
+[![WERNNSAI Manta de Hito de la Jungla - 15](https://m.media-amazon.com/images/I/51uv1VEeLoL._SL400_.jpg)](https://www.amazon.es/dp/B08DR2PLGQ/?tag=tolees-21)
 
 🔎:
 

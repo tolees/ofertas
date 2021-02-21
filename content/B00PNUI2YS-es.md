@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas Originals Superstar  Zapatillas d al 35.14 % de descuento'
 date: 2020-06-07 14:21:21
-image: 'https://m.media-amazon.com/images/I/41iYxygtY+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41iYxygtY+L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '65.94'
 
 Ahora mismo tienes [adidas Originals Superstar  Zapatillas de deporte Unisex Adulto  Negro  Core Black/ftwr White/Core Black   42 EU](https://www.amazon.es/dp/B00PNUI2YS/?tag=tolees-21) a 64.83 EUR (original: 99.95 EUR) (35.14 %  de descuento) en el siguiente enlace!
 
-[![adidas Originals Superstar  Zapatillas d](https://m.media-amazon.com/images/I/41iYxygtY+L._SL200_.jpg)](https://www.amazon.es/dp/B00PNUI2YS/?tag=tolees-21)
+[![adidas Originals Superstar  Zapatillas d](https://m.media-amazon.com/images/I/41iYxygtY+L._SL400_.jpg)](https://www.amazon.es/dp/B00PNUI2YS/?tag=tolees-21)
 
 🔎:
 

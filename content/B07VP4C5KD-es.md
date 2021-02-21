@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 71.64 % en Tommy Hilfiger Organic Cotton Silk Crew '
 date: 2020-08-12 07:16:38
-image: 'https://m.media-amazon.com/images/I/31RZYqvpgkL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31RZYqvpgkL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '27.84'
 
 Tienes [Tommy Hilfiger Organic Cotton Silk Crew Neck Pantalones  Azul  Blue Ink C7H   Medium para Hombre](https://www.amazon.es/dp/B07VP4C5KD/?tag=tolees-21) con un 71.64 % de descuento con precio de oferta de 27.84 EUR (original: 98.16 EUR) en el siguiente enlace!
 
-[![Tommy Hilfiger Organic Cotton Silk Crew ](https://m.media-amazon.com/images/I/31RZYqvpgkL._SL200_.jpg)](https://www.amazon.es/dp/B07VP4C5KD/?tag=tolees-21)
+[![Tommy Hilfiger Organic Cotton Silk Crew ](https://m.media-amazon.com/images/I/31RZYqvpgkL._SL400_.jpg)](https://www.amazon.es/dp/B07VP4C5KD/?tag=tolees-21)
 
 ℹ️:
 

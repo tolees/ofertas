@@ -2,7 +2,7 @@
 layout: post
 title: 'Saquito Star Wars Surt 2 Capacidad 35 X  al 52.95 % de rebaja'
 date: 2020-05-19 09:02:51
-image: 'https://m.media-amazon.com/images/I/417zBbhnTsL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/417zBbhnTsL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.7'
 
 Tienes [Saquito Star Wars Surt 2 Capacidad 35 X 0 5 X 27 cms](https://www.amazon.es/dp/B01JZ8HC4E/?tag=tolees-21) con precio final de  4.7 EUR (original: 9.99 EUR) (52.95 %  de rebaja) aqui!
 
-[![Saquito Star Wars Surt 2 Capacidad 35 X ](https://m.media-amazon.com/images/I/417zBbhnTsL._SL200_.jpg)](https://www.amazon.es/dp/B01JZ8HC4E/?tag=tolees-21)
+[![Saquito Star Wars Surt 2 Capacidad 35 X ](https://m.media-amazon.com/images/I/417zBbhnTsL._SL400_.jpg)](https://www.amazon.es/dp/B01JZ8HC4E/?tag=tolees-21)
 
 🔎:
 

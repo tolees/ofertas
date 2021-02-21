@@ -2,7 +2,7 @@
 layout: post
 title: '40 protectores de ojos  máscara para los al 59.39 % de descuento'
 date: 2020-01-22 13:46:05
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41ICeewrdsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ICeewrdsL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.69'
 
 Está [40 protectores de ojos  máscara para los ojos  colágeno para máscara de ojos  antiedad con tratamiento hialurónico para los ojos  antifn hidratante  elimina bolsas  ojeras](https://www.amazon.es/dp/B07SH77P6R/?tag=tolees-21) con 59.39 de descuento por 5.69 EUR (original: 14.01 EUR) en el siguiente enlace!
 
-[![40 protectores de ojos  máscara para los](https://images-eu.ssl-images-amazon.com/images/I/41ICeewrdsL._SL200_.jpg)](https://www.amazon.es/dp/B07SH77P6R/?tag=tolees-21)
+[![40 protectores de ojos  máscara para los](https://images-eu.ssl-images-amazon.com/images/I/41ICeewrdsL._SL400_.jpg)](https://www.amazon.es/dp/B07SH77P6R/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 35.56 % en Garmin Vívofit Jr. 2 - Monitor de activi'
 date: 2020-03-14 10:13:09
-image: 'https://m.media-amazon.com/images/I/41-UALpVdgL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41-UALpVdgL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '57.99'
 
 Tienes [Garmin Vívofit Jr. 2 - Monitor de actividad para niños  Captain America  Banda elástica   Edad 6+](https://www.amazon.es/dp/B07575VMLT/?tag=tolees-21) con un 35.56 % de descuento con precio de oferta de 57.99 EUR (original: 89.99 EUR) en el siguiente enlace!
 
-[![Garmin Vívofit Jr. 2 - Monitor de activi](https://m.media-amazon.com/images/I/41-UALpVdgL._SL200_.jpg)](https://www.amazon.es/dp/B07575VMLT/?tag=tolees-21)
+[![Garmin Vívofit Jr. 2 - Monitor de activi](https://m.media-amazon.com/images/I/41-UALpVdgL._SL400_.jpg)](https://www.amazon.es/dp/B07575VMLT/?tag=tolees-21)
 
 ℹ️:
 

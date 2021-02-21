@@ -2,7 +2,7 @@
 layout: post
 title: 'Kripton Halley  Zapatillas Unisex Niños  al 84.91 % de descuento'
 date: 2020-04-24 11:33:51
-image: 'https://m.media-amazon.com/images/I/41jw-JfNCgL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41jw-JfNCgL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.52'
 
 Ahora mismo tienes [Kripton Halley  Zapatillas Unisex Niños  Azul  Marino   23 EU](https://www.amazon.es/dp/B01CR6D92U/?tag=tolees-21) a 4.52 EUR (original: 29.95 EUR) (84.91 %  de descuento) en el siguiente enlace!
 
-[![Kripton Halley  Zapatillas Unisex Niños ](https://m.media-amazon.com/images/I/41jw-JfNCgL._SL200_.jpg)](https://www.amazon.es/dp/B01CR6D92U/?tag=tolees-21)
+[![Kripton Halley  Zapatillas Unisex Niños ](https://m.media-amazon.com/images/I/41jw-JfNCgL._SL400_.jpg)](https://www.amazon.es/dp/B01CR6D92U/?tag=tolees-21)
 
 🔎:
 

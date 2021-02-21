@@ -2,7 +2,7 @@
 layout: post
 title: 'KollyKolla Botella de Agua Deporte  Bote al 26.33 % de rebaja'
 date: 2020-01-02 22:02:23
-image: 'https://images-eu.ssl-images-amazon.com/images/I/514gECRnPhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/514gECRnPhL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.99'
 
 Tienes [KollyKolla Botella de Agua Deporte  Botellas Sin BPA Tritan Plástico Reutilizables Ecológica con Filtro  Water Bottle para Niños & Adultos  Gimnasio  Yoga  Oficina  Colegio  700ml Rojo Oscuro Mate ](https://www.amazon.es/dp/B07M9NJ4SD/?tag=tolees-21) con precio final de  13.99 EUR (original: 18.99 EUR) (26.33 %  de rebaja) aqui!
 
-[![KollyKolla Botella de Agua Deporte  Bote](https://images-eu.ssl-images-amazon.com/images/I/514gECRnPhL._SL200_.jpg)](https://www.amazon.es/dp/B07M9NJ4SD/?tag=tolees-21)
+[![KollyKolla Botella de Agua Deporte  Bote](https://images-eu.ssl-images-amazon.com/images/I/514gECRnPhL._SL400_.jpg)](https://www.amazon.es/dp/B07M9NJ4SD/?tag=tolees-21)
 
 🔎:
 

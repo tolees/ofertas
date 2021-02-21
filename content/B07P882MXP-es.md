@@ -2,7 +2,7 @@
 layout: post
 title: 'deAO Conjunto Aéreo de Juguete a Fricció al 62.73 % de descuento'
 date: 2020-01-04 08:47:23
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51RoifnNOFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51RoifnNOFL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.89'
 
 Ahora mismo tienes [deAO Conjunto Aéreo de Juguete a Fricción 12 Figuras Coleccionables a Pequeña Escala Surtido de Aviones y Helicópteros Incluidos](https://www.amazon.es/dp/B07P882MXP/?tag=tolees-21) a 6.79 EUR (original: 18.22 EUR) (62.73 %  de descuento) en el siguiente enlace!
 
-[![deAO Conjunto Aéreo de Juguete a Fricció](https://images-eu.ssl-images-amazon.com/images/I/51RoifnNOFL._SL200_.jpg)](https://www.amazon.es/dp/B07P882MXP/?tag=tolees-21)
+[![deAO Conjunto Aéreo de Juguete a Fricció](https://images-eu.ssl-images-amazon.com/images/I/51RoifnNOFL._SL400_.jpg)](https://www.amazon.es/dp/B07P882MXP/?tag=tolees-21)
 
 🔎:
 

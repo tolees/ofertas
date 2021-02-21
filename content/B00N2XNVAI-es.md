@@ -2,7 +2,7 @@
 layout: post
 title: 'Maclean - Mc-628 - Montaje Soporte para  al 43.22 % de descuento'
 date: 2020-02-01 09:35:32
-image: 'https://m.media-amazon.com/images/I/31l6d+j2SKL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31l6d+j2SKL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '22.4'
 
 Ahora mismo tienes [Maclean - Mc-628 - Montaje Soporte para Monitor Pantalla LCD led TV  13"-27"  15kg  vesa 75 y 100 ](https://www.amazon.es/dp/B00N2XNVAI/?tag=tolees-21) a 22.4 EUR (original: 39.45 EUR) (43.22 %  de descuento) en el siguiente enlace!
 
-[![Maclean - Mc-628 - Montaje Soporte para ](https://m.media-amazon.com/images/I/31l6d+j2SKL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B00N2XNVAI/?tag=tolees-21)
+[![Maclean - Mc-628 - Montaje Soporte para ](https://m.media-amazon.com/images/I/31l6d+j2SKL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B00N2XNVAI/?tag=tolees-21)
 
 🔎:
 

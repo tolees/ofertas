@@ -2,7 +2,7 @@
 layout: post
 title: 'Big Boy Golden XXL Capsulas - 45 Tableta al 49.01 % de descuento'
 date: 2020-01-14 02:29:32
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41WZbuAFglL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41WZbuAFglL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.8'
 
 Ahora mismo tienes [Big Boy Golden XXL Capsulas - 45 Tabletas](https://www.amazon.es/dp/B00MRVIY7G/?tag=tolees-21) a 16.8 EUR (original: 32.95 EUR) (49.01 %  de descuento) en el siguiente enlace!
 
-[![Big Boy Golden XXL Capsulas - 45 Tableta](https://images-eu.ssl-images-amazon.com/images/I/41WZbuAFglL._SL200_.jpg)](https://www.amazon.es/dp/B00MRVIY7G/?tag=tolees-21)
+[![Big Boy Golden XXL Capsulas - 45 Tableta](https://images-eu.ssl-images-amazon.com/images/I/41WZbuAFglL._SL400_.jpg)](https://www.amazon.es/dp/B00MRVIY7G/?tag=tolees-21)
 
 🔎:
 

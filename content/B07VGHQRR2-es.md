@@ -2,7 +2,7 @@
 layout: post
 title: 'Disney Pijamas de Manga Corta para niños al 33.47 % de descuento'
 date: 2020-02-16 19:58:03
-image: 'https://m.media-amazon.com/images/I/41Jvpqk3AvL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Jvpqk3AvL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.95'
 
 Ahora mismo tienes [Disney Pijamas de Manga Corta para niños Toy Story Azul 9-10 Años](https://www.amazon.es/dp/B07VGHQRR2/?tag=tolees-21) a 7.95 EUR (original: 11.95 EUR) (33.47 %  de descuento) en el siguiente enlace!
 
-[![Disney Pijamas de Manga Corta para niños](https://m.media-amazon.com/images/I/41Jvpqk3AvL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07VGHQRR2/?tag=tolees-21)
+[![Disney Pijamas de Manga Corta para niños](https://m.media-amazon.com/images/I/41Jvpqk3AvL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07VGHQRR2/?tag=tolees-21)
 
 🔎:
 

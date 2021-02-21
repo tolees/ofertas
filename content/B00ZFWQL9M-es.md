@@ -2,7 +2,7 @@
 layout: post
 title: 'Flower 10723 Abono líquido orquídeas al 32.99 % de rebaja'
 date: 2020-09-27 08:39:55
-image: 'https://m.media-amazon.com/images/I/41emHevewAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41emHevewAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.84'
 
 Tienes [Flower 10723 Abono líquido orquídeas](https://www.amazon.es/dp/B00ZFWQL9M/?tag=tolees-21) con precio final de  4.49 EUR (original: 6.7 EUR) (32.99 %  de rebaja) aqui!
 
-[![Flower 10723 Abono líquido orquídeas](https://m.media-amazon.com/images/I/41emHevewAL._SL200_.jpg)](https://www.amazon.es/dp/B00ZFWQL9M/?tag=tolees-21)
+[![Flower 10723 Abono líquido orquídeas](https://m.media-amazon.com/images/I/41emHevewAL._SL400_.jpg)](https://www.amazon.es/dp/B00ZFWQL9M/?tag=tolees-21)
 
 🔎:
 

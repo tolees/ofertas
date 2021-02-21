@@ -2,7 +2,7 @@
 layout: post
 title: 'Ice-Watch - P. Leclercq Slate - Reloj ve al 47.74 % de descuento'
 date: 2020-04-06 00:00:28
-image: 'https://m.media-amazon.com/images/I/41PIlZ4MuGL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41PIlZ4MuGL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '86.91'
 
 Está [Ice-Watch - P. Leclercq Slate - Reloj verde para Hombre con Correa de silicona - Chrono - 014947  Large ](https://www.amazon.es/dp/B077H1KMGG/?tag=tolees-21) con 47.74 de descuento por 77.86 EUR (original: 149.0 EUR) en el siguiente enlace!
 
-[![Ice-Watch - P. Leclercq Slate - Reloj ve](https://m.media-amazon.com/images/I/41PIlZ4MuGL._SL200_.jpg)](https://www.amazon.es/dp/B077H1KMGG/?tag=tolees-21)
+[![Ice-Watch - P. Leclercq Slate - Reloj ve](https://m.media-amazon.com/images/I/41PIlZ4MuGL._SL400_.jpg)](https://www.amazon.es/dp/B077H1KMGG/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Fossil Pulsera de Mujer con Acero Inoxid al 50.00 % de rebaja'
 date: 2020-02-23 17:23:10
-image: 'https://m.media-amazon.com/images/I/41RKfgGbhkL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41RKfgGbhkL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.5'
 
 Tienes [Fossil Pulsera de Mujer con Acero Inoxidable  ágata Redonda](https://www.amazon.es/dp/B01N9UQ9BD/?tag=tolees-21) con precio final de  19.5 EUR (original: 39.0 EUR) (50.00 %  de rebaja) aqui!
 
-[![Fossil Pulsera de Mujer con Acero Inoxid](https://m.media-amazon.com/images/I/41RKfgGbhkL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01N9UQ9BD/?tag=tolees-21)
+[![Fossil Pulsera de Mujer con Acero Inoxid](https://m.media-amazon.com/images/I/41RKfgGbhkL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01N9UQ9BD/?tag=tolees-21)
 
 🔎:
 

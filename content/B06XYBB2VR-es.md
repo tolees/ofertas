@@ -2,7 +2,7 @@
 layout: post
 title: 'AUKEY Hub USB C 3 Porte USB 3.0 e Lettor al 41.20 % de descuento'
 date: 2020-04-15 08:46:34
-image: 'https://m.media-amazon.com/images/I/41cHo0sUreL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41cHo0sUreL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.489999999999998'
 
 Ahora mismo tienes [AUKEY Hub USB C 3 Porte USB 3.0 e Lettori di Scheda SD & Micro SD Adattatore USB C per MacBook Pro 2017/2016  Google Chromebook Pixel  DELL XPS 13  ASUS ZenBook e Altri dispositivi USB C](https://www.amazon.es/dp/B06XYBB2VR/?tag=tolees-21) a 9.99 EUR (original: 16.99 EUR) (41.20 %  de descuento) en el siguiente enlace!
 
-[![AUKEY Hub USB C 3 Porte USB 3.0 e Lettor](https://m.media-amazon.com/images/I/41cHo0sUreL._SL200_.jpg)](https://www.amazon.es/dp/B06XYBB2VR/?tag=tolees-21)
+[![AUKEY Hub USB C 3 Porte USB 3.0 e Lettor](https://m.media-amazon.com/images/I/41cHo0sUreL._SL400_.jpg)](https://www.amazon.es/dp/B06XYBB2VR/?tag=tolees-21)
 
 🔎:
 

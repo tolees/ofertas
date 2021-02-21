@@ -2,7 +2,7 @@
 layout: post
 title: 'Polar M200 Pulsómetro GPS  Unisex  Rojo  con un 57.22 % de descuento'
 date: 2020-04-21 16:34:19
-image: 'https://m.media-amazon.com/images/I/41ZkdyCB7-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ZkdyCB7-L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '64.13'
 
 En este momento está [Polar M200 Pulsómetro GPS  Unisex  Rojo  M/L](https://www.amazon.es/dp/B01N52JQL8/?tag=tolees-21) a 64.13 EUR (original: 149.9 EUR) (57.22 %  de descuento) en el siguiente enlace!
 
-[![Polar M200 Pulsómetro GPS  Unisex  Rojo ](https://m.media-amazon.com/images/I/41ZkdyCB7-L._SL200_.jpg)](https://www.amazon.es/dp/B01N52JQL8/?tag=tolees-21)
+[![Polar M200 Pulsómetro GPS  Unisex  Rojo ](https://m.media-amazon.com/images/I/41ZkdyCB7-L._SL400_.jpg)](https://www.amazon.es/dp/B01N52JQL8/?tag=tolees-21)
 
 🔎:
 

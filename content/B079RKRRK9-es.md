@@ -2,7 +2,7 @@
 layout: post
 title: 'Sorel Explorer Joan  Botas para Mujer  G al 30.00 % de rebaja'
 date: 2020-01-14 18:43:48
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41gFSmhwIBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41gFSmhwIBL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '105'
 
 Tienes [Sorel Explorer Joan  Botas para Mujer  Gris  Quarry/Black 052   36.5 EU](https://www.amazon.es/dp/B079RKRRK9/?tag=tolees-21) con precio final de  105 EUR (original: 149.99 EUR) (30.00 %  de rebaja) aqui!
 
-[![Sorel Explorer Joan  Botas para Mujer  G](https://images-eu.ssl-images-amazon.com/images/I/41gFSmhwIBL._SL200_.jpg)](https://www.amazon.es/dp/B079RKRRK9/?tag=tolees-21)
+[![Sorel Explorer Joan  Botas para Mujer  G](https://images-eu.ssl-images-amazon.com/images/I/41gFSmhwIBL._SL400_.jpg)](https://www.amazon.es/dp/B079RKRRK9/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'LG SJ4 Barra de sonido  Subwoofer inalám al 30.15 % de descuento'
 date: 2020-02-18 12:44:22
-image: 'https://m.media-amazon.com/images/I/21HO05-9t9L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21HO05-9t9L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '142.5'
 
 Ahora mismo tienes [LG SJ4 Barra de sonido  Subwoofer inalámbrico  Bluetooth   Negro](https://www.amazon.es/dp/B06XRX5H2Z/?tag=tolees-21) a 139.0 EUR (original: 199.0 EUR) (30.15 %  de descuento) en el siguiente enlace!
 
-[![LG SJ4 Barra de sonido  Subwoofer inalám](https://m.media-amazon.com/images/I/21HO05-9t9L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B06XRX5H2Z/?tag=tolees-21)
+[![LG SJ4 Barra de sonido  Subwoofer inalám](https://m.media-amazon.com/images/I/21HO05-9t9L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B06XRX5H2Z/?tag=tolees-21)
 
 🔎:
 

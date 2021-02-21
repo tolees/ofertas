@@ -2,7 +2,7 @@
 layout: post
 title: 'Revell Maqueta Wars Imperial Star Destro al 28.21 % de rebaja'
 date: 2020-09-08 20:30:31
-image: 'https://m.media-amazon.com/images/I/51EGNNzrSZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51EGNNzrSZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '73.49666666666667'
 
 Tienes [Revell Maqueta Wars Imperial Star Destroyer  Kit Modelo  Escala 1:2700  6719  06719   60 0 cm de Largo](https://www.amazon.es/dp/B074FZKNDF/?tag=tolees-21) con precio final de  78.25 EUR (original: 109.0 EUR) (28.21 %  de rebaja) aqui!
 
-[![Revell Maqueta Wars Imperial Star Destro](https://m.media-amazon.com/images/I/51EGNNzrSZL._SL200_.jpg)](https://www.amazon.es/dp/B074FZKNDF/?tag=tolees-21)
+[![Revell Maqueta Wars Imperial Star Destro](https://m.media-amazon.com/images/I/51EGNNzrSZL._SL400_.jpg)](https://www.amazon.es/dp/B074FZKNDF/?tag=tolees-21)
 
 🔎:
 

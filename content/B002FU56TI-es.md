@@ -2,7 +2,7 @@
 layout: post
 title: 'Rubies - Disfraz infantil de bruja  colo al 49.95 % de descuento'
 date: 2020-10-02 21:40:13
-image: 'https://m.media-amazon.com/images/I/41TqoSX3L4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41TqoSX3L4L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.0'
 
 Está [Rubies - Disfraz infantil de bruja  color púrpura  1-2 años  Rubie s Spain 11518-T ](https://www.amazon.es/dp/B002FU56TI/?tag=tolees-21) con 49.95 de descuento por 5.0 EUR (original: 9.99 EUR) en el siguiente enlace!
 
-[![Rubies - Disfraz infantil de bruja  colo](https://m.media-amazon.com/images/I/41TqoSX3L4L._SL200_.jpg)](https://www.amazon.es/dp/B002FU56TI/?tag=tolees-21)
+[![Rubies - Disfraz infantil de bruja  colo](https://m.media-amazon.com/images/I/41TqoSX3L4L._SL400_.jpg)](https://www.amazon.es/dp/B002FU56TI/?tag=tolees-21)
 
 ℹ️:
 

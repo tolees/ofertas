@@ -2,7 +2,7 @@
 layout: post
 title: 'Issey Miyake Nuit D Issey Parfum Vapo 12 al 28.27 % de descuento'
 date: 2020-05-27 11:22:36
-image: 'https://m.media-amazon.com/images/I/41lNIIR6KbL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41lNIIR6KbL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '61.455'
 
 Está [Issey Miyake Nuit D Issey Parfum Vapo 125 Ml 125 g](https://www.amazon.es/dp/B014RJCS6S/?tag=tolees-21) con 28.27 de descuento por 65.99 EUR (original: 92.0 EUR) en el siguiente enlace!
 
-[![Issey Miyake Nuit D Issey Parfum Vapo 12](https://m.media-amazon.com/images/I/41lNIIR6KbL._SL200_.jpg)](https://www.amazon.es/dp/B014RJCS6S/?tag=tolees-21)
+[![Issey Miyake Nuit D Issey Parfum Vapo 12](https://m.media-amazon.com/images/I/41lNIIR6KbL._SL400_.jpg)](https://www.amazon.es/dp/B014RJCS6S/?tag=tolees-21)
 
 ℹ️:
 

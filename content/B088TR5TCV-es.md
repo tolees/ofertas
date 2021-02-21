@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 50.00 % en Time COVER 2 Mascarillas Reutilizables c'
 date: 2020-06-13 16:54:48
-image: 'https://m.media-amazon.com/images/I/412zhP5g8jL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/412zhP5g8jL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.315'
 
 Tienes [Time COVER 2 Mascarillas Reutilizables con 10 Filtros  Mascarillas Lavable de Algodón Suave y semicara  Reutilizable  Lavable  Unisex  Negro ](https://www.amazon.es/dp/B088TR5TCV/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 4.5 EUR (original: 9.0 EUR) en el siguiente enlace!
 
-[![Time COVER 2 Mascarillas Reutilizables c](https://m.media-amazon.com/images/I/412zhP5g8jL._SL200_.jpg)](https://www.amazon.es/dp/B088TR5TCV/?tag=tolees-21)
+[![Time COVER 2 Mascarillas Reutilizables c](https://m.media-amazon.com/images/I/412zhP5g8jL._SL400_.jpg)](https://www.amazon.es/dp/B088TR5TCV/?tag=tolees-21)
 
 ℹ️:
 

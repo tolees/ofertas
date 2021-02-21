@@ -2,7 +2,7 @@
 layout: post
 title: 'Energy Sistem Box 1+ Altavoz inalámbrico al 46.75 % de rebaja'
 date: 2020-04-24 18:33:41
-image: 'https://m.media-amazon.com/images/I/4131tEPi1IL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/4131tEPi1IL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.95'
 
 Tienes [Energy Sistem Box 1+ Altavoz inalámbrico portátil con Bluetooth  5 W  microSD MP3  FM Radio  Audio-In  - Grape](https://www.amazon.es/dp/B07DX7KQ39/?tag=tolees-21) con precio final de  9.0 EUR (original: 16.9 EUR) (46.75 %  de rebaja) aqui!
 
-[![Energy Sistem Box 1+ Altavoz inalámbrico](https://m.media-amazon.com/images/I/4131tEPi1IL._SL200_.jpg)](https://www.amazon.es/dp/B07DX7KQ39/?tag=tolees-21)
+[![Energy Sistem Box 1+ Altavoz inalámbrico](https://m.media-amazon.com/images/I/4131tEPi1IL._SL400_.jpg)](https://www.amazon.es/dp/B07DX7KQ39/?tag=tolees-21)
 
 🔎:
 

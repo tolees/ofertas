@@ -2,7 +2,7 @@
 layout: post
 title: 'Nixon A045511-00 - Reloj analógico de cu con un 33.21 % de descuento'
 date: 2020-07-22 20:38:18
-image: 'https://m.media-amazon.com/images/I/51cVaJtpJXL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51cVaJtpJXL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '65.59846153846155'
 
 En este momento está [Nixon A045511-00 - Reloj analógico de cuarzo para hombre con correa de acero inoxidable  color dorado](https://www.amazon.es/dp/B00108WPFE/?tag=tolees-21) a 66.12 EUR (original: 99.0 EUR) (33.21 %  de descuento) en el siguiente enlace!
 
-[![Nixon A045511-00 - Reloj analógico de cu](https://m.media-amazon.com/images/I/51cVaJtpJXL._SL200_.jpg)](https://www.amazon.es/dp/B00108WPFE/?tag=tolees-21)
+[![Nixon A045511-00 - Reloj analógico de cu](https://m.media-amazon.com/images/I/51cVaJtpJXL._SL400_.jpg)](https://www.amazon.es/dp/B00108WPFE/?tag=tolees-21)
 
 🔎:
 

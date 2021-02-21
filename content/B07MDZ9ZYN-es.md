@@ -2,7 +2,7 @@
 layout: post
 title: 'L.O.L Surprise Squishy Pocket Plush - Mo al 52.71 % de rebaja'
 date: 2020-04-12 10:13:46
-image: 'https://m.media-amazon.com/images/I/41npc0p-pIL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41npc0p-pIL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.971499999999997'
 
 Tienes [L.O.L Surprise Squishy Pocket Plush - Modelo surtido  sorpresa  Giochi Preziosi LLD15000 ](https://www.amazon.es/dp/B07MDZ9ZYN/?tag=tolees-21) con precio final de  5.67 EUR (original: 11.99 EUR) (52.71 %  de rebaja) aqui!
 
-[![L.O.L Surprise Squishy Pocket Plush - Mo](https://m.media-amazon.com/images/I/41npc0p-pIL._SL200_.jpg)](https://www.amazon.es/dp/B07MDZ9ZYN/?tag=tolees-21)
+[![L.O.L Surprise Squishy Pocket Plush - Mo](https://m.media-amazon.com/images/I/41npc0p-pIL._SL400_.jpg)](https://www.amazon.es/dp/B07MDZ9ZYN/?tag=tolees-21)
 
 🔎:
 

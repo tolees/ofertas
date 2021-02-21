@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 53.27 % en Haribo - Cerezas con azúcar super - Cara'
 date: 2020-09-11 11:35:19
-image: 'https://m.media-amazon.com/images/I/61dAEqrJpqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61dAEqrJpqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.596000000000001'
 
 Tienes [Haribo - Cerezas con azúcar super - Caramelo de goma - 1 kg](https://www.amazon.es/dp/B00XAPCFKA/?tag=tolees-21) con un 53.27 % de descuento con precio de oferta de 4.72 EUR (original: 10.1 EUR) en el siguiente enlace!
 
-[![Haribo - Cerezas con azúcar super - Cara](https://m.media-amazon.com/images/I/61dAEqrJpqL._SL200_.jpg)](https://www.amazon.es/dp/B00XAPCFKA/?tag=tolees-21)
+[![Haribo - Cerezas con azúcar super - Cara](https://m.media-amazon.com/images/I/61dAEqrJpqL._SL400_.jpg)](https://www.amazon.es/dp/B00XAPCFKA/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Charles Wilson Paquete 5 Camisetas Cuell al 64.36 % de descuento'
 date: 2020-07-16 10:05:15
-image: 'https://m.media-amazon.com/images/I/41xv3z+cH5L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41xv3z+cH5L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.95'
 
 Ahora mismo tienes [Charles Wilson Paquete 5 Camisetas Cuello Redondo Lisas  Small  Navy Type 19 ](https://www.amazon.es/dp/B07S63XDX2/?tag=tolees-21) a 14.95 EUR (original: 41.95 EUR) (64.36 %  de descuento) en el siguiente enlace!
 
-[![Charles Wilson Paquete 5 Camisetas Cuell](https://m.media-amazon.com/images/I/41xv3z+cH5L._SL200_.jpg)](https://www.amazon.es/dp/B07S63XDX2/?tag=tolees-21)
+[![Charles Wilson Paquete 5 Camisetas Cuell](https://m.media-amazon.com/images/I/41xv3z+cH5L._SL400_.jpg)](https://www.amazon.es/dp/B07S63XDX2/?tag=tolees-21)
 
 🔎:
 

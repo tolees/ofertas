@@ -2,7 +2,7 @@
 layout: post
 title: 'JACK & JONES Jjeholmen Sweat Pants Noos  al 40.02 % de descuento'
 date: 2020-03-10 17:44:13
-image: 'https://m.media-amazon.com/images/I/41VHjiWsVjL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41VHjiWsVjL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.969999999999999'
 
 Ahora mismo tienes [JACK & JONES Jjeholmen Sweat Pants Noos Pantalones  Gris  Light Grey Melange-Comfort Fit   W33  Talla del Fabricante: Small  para Hombre](https://www.amazon.es/dp/B07C62LQTC/?tag=tolees-21) a 14.99 EUR (original: 24.99 EUR) (40.02 %  de descuento) en el siguiente enlace!
 
-[![JACK & JONES Jjeholmen Sweat Pants Noos ](https://m.media-amazon.com/images/I/41VHjiWsVjL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07C62LQTC/?tag=tolees-21)
+[![JACK & JONES Jjeholmen Sweat Pants Noos ](https://m.media-amazon.com/images/I/41VHjiWsVjL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07C62LQTC/?tag=tolees-21)
 
 🔎:
 

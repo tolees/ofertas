@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 30.83 % en Salter Báscula de Cocina Digital de Acer'
 date: 2020-10-09 20:54:07
-image: 'https://m.media-amazon.com/images/I/31mPg2IROeL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31mPg2IROeL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.529999999999998'
 
 Tienes [Salter Báscula de Cocina Digital de Acero Inoxidable  Capacidad 5kg  Función de Añadir y Pesar  Negro](https://www.amazon.es/dp/B00140VYBE/?tag=tolees-21) con un 30.83 % de descuento con precio de oferta de 19.99 EUR (original: 28.9 EUR) en el siguiente enlace!
 
-[![Salter Báscula de Cocina Digital de Acer](https://m.media-amazon.com/images/I/31mPg2IROeL._SL200_.jpg)](https://www.amazon.es/dp/B00140VYBE/?tag=tolees-21)
+[![Salter Báscula de Cocina Digital de Acer](https://m.media-amazon.com/images/I/31mPg2IROeL._SL400_.jpg)](https://www.amazon.es/dp/B00140VYBE/?tag=tolees-21)
 
 ℹ️:
 

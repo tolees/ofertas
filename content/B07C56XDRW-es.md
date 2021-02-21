@@ -2,7 +2,7 @@
 layout: post
 title: 'Candados Combinación  LEADSTAR 2 x Canda al 50.03 % de descuento'
 date: 2020-06-13 14:03:37
-image: 'https://m.media-amazon.com/images/I/41mdiOXyjPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41mdiOXyjPL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.99'
 
 Está [Candados Combinación  LEADSTAR 2 x Candado TSA Equipaje de Seguridad - Combinación De 3 Dígitos para Maletas Equipaje](https://www.amazon.es/dp/B07C56XDRW/?tag=tolees-21) con 50.03 de descuento por 7.99 EUR (original: 15.99 EUR) en el siguiente enlace!
 
-[![Candados Combinación  LEADSTAR 2 x Canda](https://m.media-amazon.com/images/I/41mdiOXyjPL._SL200_.jpg)](https://www.amazon.es/dp/B07C56XDRW/?tag=tolees-21)
+[![Candados Combinación  LEADSTAR 2 x Canda](https://m.media-amazon.com/images/I/41mdiOXyjPL._SL400_.jpg)](https://www.amazon.es/dp/B07C56XDRW/?tag=tolees-21)
 
 ℹ️:
 

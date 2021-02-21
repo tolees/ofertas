@@ -2,7 +2,7 @@
 layout: post
 title: 'Jack & Jones Jjecorp Logo Sweat Hood Noo al 27.29 % de descuento'
 date: 2020-06-10 23:54:59
-image: 'https://m.media-amazon.com/images/I/410+NHB9W8L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/410+NHB9W8L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.99'
 
 Ahora mismo tienes [Jack & Jones Jjecorp Logo Sweat Hood Noos suéter  Rio Red  L para Hombre](https://www.amazon.es/dp/B07YKNBGZ2/?tag=tolees-21) a 15.99 EUR (original: 21.99 EUR) (27.29 %  de descuento) en el siguiente enlace!
 
-[![Jack & Jones Jjecorp Logo Sweat Hood Noo](https://m.media-amazon.com/images/I/410+NHB9W8L._SL200_.jpg)](https://www.amazon.es/dp/B07YKNBGZ2/?tag=tolees-21)
+[![Jack & Jones Jjecorp Logo Sweat Hood Noo](https://m.media-amazon.com/images/I/410+NHB9W8L._SL400_.jpg)](https://www.amazon.es/dp/B07YKNBGZ2/?tag=tolees-21)
 
 🔎:
 

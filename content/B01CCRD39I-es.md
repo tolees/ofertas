@@ -2,7 +2,7 @@
 layout: post
 title: 'TABAIBA Aloe Vera Gel  Gel con Aloe Vera al 50.00 % de rebaja'
 date: 2020-04-18 13:53:15
-image: 'https://m.media-amazon.com/images/I/319wzy1LzhL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/319wzy1LzhL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.95'
 
 Tienes [TABAIBA Aloe Vera Gel  Gel con Aloe Vera  150 ml](https://www.amazon.es/dp/B01CCRD39I/?tag=tolees-21) con precio final de  6.95 EUR (original: 13.9 EUR) (50.00 %  de rebaja) aqui!
 
-[![TABAIBA Aloe Vera Gel  Gel con Aloe Vera](https://m.media-amazon.com/images/I/319wzy1LzhL._SL200_.jpg)](https://www.amazon.es/dp/B01CCRD39I/?tag=tolees-21)
+[![TABAIBA Aloe Vera Gel  Gel con Aloe Vera](https://m.media-amazon.com/images/I/319wzy1LzhL._SL400_.jpg)](https://www.amazon.es/dp/B01CCRD39I/?tag=tolees-21)
 
 🔎:
 

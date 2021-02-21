@@ -2,7 +2,7 @@
 layout: post
 title: 'Samsonite Maleta  Oro Amarillo  Amarillo al 43.41 % de rebaja'
 date: 2020-04-15 09:56:19
-image: 'https://m.media-amazon.com/images/I/41PGoQk3acL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41PGoQk3acL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '112.61'
 
 Tienes [Samsonite Maleta  Oro Amarillo  Amarillo  - 115518/1371](https://www.amazon.es/dp/B07M8NPR4H/?tag=tolees-21) con precio final de  112.61 EUR (original: 199.0 EUR) (43.41 %  de rebaja) aqui!
 
-[![Samsonite Maleta  Oro Amarillo  Amarillo](https://m.media-amazon.com/images/I/41PGoQk3acL._SL200_.jpg)](https://www.amazon.es/dp/B07M8NPR4H/?tag=tolees-21)
+[![Samsonite Maleta  Oro Amarillo  Amarillo](https://m.media-amazon.com/images/I/41PGoQk3acL._SL400_.jpg)](https://www.amazon.es/dp/B07M8NPR4H/?tag=tolees-21)
 
 🔎:
 

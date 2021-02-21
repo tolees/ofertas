@@ -2,7 +2,7 @@
 layout: post
 title: 'Carolina Herrera Good Girl Eau de Parfum al 30.36 % de descuento'
 date: 2020-09-07 07:44:21
-image: 'https://m.media-amazon.com/images/I/31uW9YDrQWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31uW9YDrQWL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '71.45666666666666'
 
 Está [Carolina Herrera Good Girl Eau de Parfum Spray 80 ml](https://www.amazon.es/dp/B01IYBVIL6/?tag=tolees-21) con 30.36 de descuento por 75.91 EUR (original: 109.0 EUR) en el siguiente enlace!
 
-[![Carolina Herrera Good Girl Eau de Parfum](https://m.media-amazon.com/images/I/31uW9YDrQWL._SL200_.jpg)](https://www.amazon.es/dp/B01IYBVIL6/?tag=tolees-21)
+[![Carolina Herrera Good Girl Eau de Parfum](https://m.media-amazon.com/images/I/31uW9YDrQWL._SL400_.jpg)](https://www.amazon.es/dp/B01IYBVIL6/?tag=tolees-21)
 
 ℹ️:
 

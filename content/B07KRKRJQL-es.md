@@ -2,7 +2,7 @@
 layout: post
 title: 'New Balance Fresh Foam Zante Pursuit  Za al 75.75 % de descuento'
 date: 2020-03-14 21:40:21
-image: 'https://m.media-amazon.com/images/I/41F4VQ2g3UL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41F4VQ2g3UL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '36.54'
 
 Ahora mismo tienes [New Balance Fresh Foam Zante Pursuit  Zapatillas de Running para Mujer  Rosa  Pink Pink   36.5 EU](https://www.amazon.es/dp/B07KRKRJQL/?tag=tolees-21) a 29.1 EUR (original: 120.0 EUR) (75.75 %  de descuento) en el siguiente enlace!
 
-[![New Balance Fresh Foam Zante Pursuit  Za](https://m.media-amazon.com/images/I/41F4VQ2g3UL._SL200_.jpg)](https://www.amazon.es/dp/B07KRKRJQL/?tag=tolees-21)
+[![New Balance Fresh Foam Zante Pursuit  Za](https://m.media-amazon.com/images/I/41F4VQ2g3UL._SL400_.jpg)](https://www.amazon.es/dp/B07KRKRJQL/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'LEEYYO 50PCS  verde  tela no tejida  lim con un 45.61 % de descuento'
 date: 2020-07-15 10:46:06
-image: 'https://m.media-amazon.com/images/I/516T-9Tc-IL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/516T-9Tc-IL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.67'
 
 En este momento está [LEEYYO 50PCS  verde  tela no tejida  limpia/al aire libre](https://www.amazon.es/dp/B088KFHTQC/?tag=tolees-21) a 8.67 EUR (original: 15.94 EUR) (45.61 %  de descuento) en el siguiente enlace!
 
-[![LEEYYO 50PCS  verde  tela no tejida  lim](https://m.media-amazon.com/images/I/516T-9Tc-IL._SL200_.jpg)](https://www.amazon.es/dp/B088KFHTQC/?tag=tolees-21)
+[![LEEYYO 50PCS  verde  tela no tejida  lim](https://m.media-amazon.com/images/I/516T-9Tc-IL._SL400_.jpg)](https://www.amazon.es/dp/B088KFHTQC/?tag=tolees-21)
 
 🔎:
 

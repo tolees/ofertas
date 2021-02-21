@@ -2,7 +2,7 @@
 layout: post
 title: 'Maped 106310 Technic Duo Borrador  1 uni al 50.08 % de descuento'
 date: 2020-03-03 06:33:29
-image: 'https://m.media-amazon.com/images/I/316Q1TyUBjL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/316Q1TyUBjL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.33'
 
 Está [Maped 106310 Technic Duo Borrador  1 unidad  colores surtidos](https://www.amazon.es/dp/B01E6YCGOI/?tag=tolees-21) con 50.08 de descuento por 2.99 EUR (original: 5.99 EUR) en el siguiente enlace!
 
-[![Maped 106310 Technic Duo Borrador  1 uni](https://m.media-amazon.com/images/I/316Q1TyUBjL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01E6YCGOI/?tag=tolees-21)
+[![Maped 106310 Technic Duo Borrador  1 uni](https://m.media-amazon.com/images/I/316Q1TyUBjL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01E6YCGOI/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Oral-B Genius 10000N CrossAction - Cepil al 65.33 % de descuento'
 date: 2020-06-12 11:23:00
-image: 'https://m.media-amazon.com/images/I/51-Kp95cbfL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51-Kp95cbfL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '142.6418181818182'
 
 Ahora mismo tienes [Oral-B Genius 10000N CrossAction - Cepillo Eléctrico  1 Negro Noche Mango Conectado  6 Modos Blanqueado  Sensible  Encías  4 Cabezales  Funda de Viaje con Puerto USB](https://www.amazon.es/dp/B07FSHNVDF/?tag=tolees-21) a 103.99 EUR (original: 299.95 EUR) (65.33 %  de descuento) en el siguiente enlace!
 
-[![Oral-B Genius 10000N CrossAction - Cepil](https://m.media-amazon.com/images/I/51-Kp95cbfL._SL200_.jpg)](https://www.amazon.es/dp/B07FSHNVDF/?tag=tolees-21)
+[![Oral-B Genius 10000N CrossAction - Cepil](https://m.media-amazon.com/images/I/51-Kp95cbfL._SL400_.jpg)](https://www.amazon.es/dp/B07FSHNVDF/?tag=tolees-21)
 
 🔎:
 

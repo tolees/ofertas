@@ -2,7 +2,7 @@
 layout: post
 title: 'N / A Pretyj Funda para ZTE Blade A3 202 con un 58.06 % de descuento'
 date: 2020-09-02 16:31:18
-image: 'https://m.media-amazon.com/images/I/41qFG1pcEaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41qFG1pcEaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.89'
 
 En este momento está [N / A Pretyj Funda para ZTE Blade A3 2020 con 3 Piezas Cristal Templado Protector de Pantalla  Suave TPU Transparente Silicona Anti-Rasguño Protectora  para ZTE Blade A3 2020 Mapas ](https://www.amazon.es/dp/B088TQT8RX/?tag=tolees-21) a 2.89 EUR (original: 6.89 EUR) (58.06 %  de descuento) en el siguiente enlace!
 
-[![N / A Pretyj Funda para ZTE Blade A3 202](https://m.media-amazon.com/images/I/41qFG1pcEaL._SL200_.jpg)](https://www.amazon.es/dp/B088TQT8RX/?tag=tolees-21)
+[![N / A Pretyj Funda para ZTE Blade A3 202](https://m.media-amazon.com/images/I/41qFG1pcEaL._SL400_.jpg)](https://www.amazon.es/dp/B088TQT8RX/?tag=tolees-21)
 
 🔎:
 

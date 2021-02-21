@@ -2,7 +2,7 @@
 layout: post
 title: 'Skechers Men s Heston-Avano Trainers  Bl al 47.81 % de descuento'
 date: 2020-05-13 17:45:16
-image: 'https://m.media-amazon.com/images/I/41CL3U3ar3L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41CL3U3ar3L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '37.75'
 
 Está [Skechers Men s Heston-Avano Trainers  Black  Black Blk   6 UK  39.5 EU ](https://www.amazon.es/dp/B07JH8DG6M/?tag=tolees-21) con 47.81 de descuento por 33.9 EUR (original: 64.95 EUR) en el siguiente enlace!
 
-[![Skechers Men s Heston-Avano Trainers  Bl](https://m.media-amazon.com/images/I/41CL3U3ar3L._SL200_.jpg)](https://www.amazon.es/dp/B07JH8DG6M/?tag=tolees-21)
+[![Skechers Men s Heston-Avano Trainers  Bl](https://m.media-amazon.com/images/I/41CL3U3ar3L._SL400_.jpg)](https://www.amazon.es/dp/B07JH8DG6M/?tag=tolees-21)
 
 ℹ️:
 

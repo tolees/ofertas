@@ -2,7 +2,7 @@
 layout: post
 title: 'Michael Kors Reloj analogico para Hombre al 30.43 % de descuento'
 date: 2020-05-08 02:01:06
-image: 'https://m.media-amazon.com/images/I/41V++gQB8-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41V++gQB8-L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '208.0'
 
 Está [Michael Kors Reloj analogico para Hombre de Cuarzo con Correa en Acero Inoxidable MK8157](https://www.amazon.es/dp/B0048CIH1A/?tag=tolees-21) con 30.43 de descuento por 208.0 EUR (original: 299.0 EUR) en el siguiente enlace!
 
-[![Michael Kors Reloj analogico para Hombre](https://m.media-amazon.com/images/I/41V++gQB8-L._SL200_.jpg)](https://www.amazon.es/dp/B0048CIH1A/?tag=tolees-21)
+[![Michael Kors Reloj analogico para Hombre](https://m.media-amazon.com/images/I/41V++gQB8-L._SL400_.jpg)](https://www.amazon.es/dp/B0048CIH1A/?tag=tolees-21)
 
 ℹ️:
 

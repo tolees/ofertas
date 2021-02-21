@@ -2,7 +2,7 @@
 layout: post
 title: 'Lebze Muselinas Manta Bebé  Algodón Bamb al 35.77 % de descuento'
 date: 2020-01-23 18:09:05
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51mo1sfDZEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51mo1sfDZEL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.9'
 
 Ahora mismo tienes [Lebze Muselinas Manta Bebé  Algodón Bambú 120x120 Muselina "Diente de Elefante" Bambú Manta Bebé Chica o Baby Boy Mantas Swaddle](https://www.amazon.es/dp/B0757HZCS2/?tag=tolees-21) a 13.9 EUR (original: 21.64 EUR) (35.77 %  de descuento) en el siguiente enlace!
 
-[![Lebze Muselinas Manta Bebé  Algodón Bamb](https://images-eu.ssl-images-amazon.com/images/I/51mo1sfDZEL._SL200_.jpg)](https://www.amazon.es/dp/B0757HZCS2/?tag=tolees-21)
+[![Lebze Muselinas Manta Bebé  Algodón Bamb](https://images-eu.ssl-images-amazon.com/images/I/51mo1sfDZEL._SL400_.jpg)](https://www.amazon.es/dp/B0757HZCS2/?tag=tolees-21)
 
 🔎:
 

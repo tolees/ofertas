@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s Original Batwing Polo  Multicolor al 40.02 % de descuento'
 date: 2020-06-29 12:56:06
-image: 'https://m.media-amazon.com/images/I/41E6yEOiO+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41E6yEOiO+L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.29'
 
 Ahora mismo tienes [Levi s Original Batwing Polo  Multicolor  Vine Stripe Skyway/Clearwater/Riverside 0006   XX-Large para Hombre](https://www.amazon.es/dp/B07TMHHDLW/?tag=tolees-21) a 29.99 EUR (original: 50.0 EUR) (40.02 %  de descuento) en el siguiente enlace!
 
-[![Levi s Original Batwing Polo  Multicolor](https://m.media-amazon.com/images/I/41E6yEOiO+L._SL200_.jpg)](https://www.amazon.es/dp/B07TMHHDLW/?tag=tolees-21)
+[![Levi s Original Batwing Polo  Multicolor](https://m.media-amazon.com/images/I/41E6yEOiO+L._SL400_.jpg)](https://www.amazon.es/dp/B07TMHHDLW/?tag=tolees-21)
 
 🔎:
 

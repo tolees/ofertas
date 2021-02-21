@@ -2,7 +2,7 @@
 layout: post
 title: 'Juego De Tronos Temporada 2 Steelbook Bl al 52.40 % de rebaja'
 date: 2020-02-01 19:49:45
-image: 'https://m.media-amazon.com/images/I/511ulEyzsnL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/511ulEyzsnL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.615'
 
 Tienes [Juego De Tronos Temporada 2 Steelbook Blu-Ray [Blu-ray]](https://www.amazon.es/dp/B0127DIL9O/?tag=tolees-21) con precio final de  24.99 EUR (original: 52.5 EUR) (52.40 %  de rebaja) aqui!
 
-[![Juego De Tronos Temporada 2 Steelbook Bl](https://m.media-amazon.com/images/I/511ulEyzsnL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B0127DIL9O/?tag=tolees-21)
+[![Juego De Tronos Temporada 2 Steelbook Bl](https://m.media-amazon.com/images/I/511ulEyzsnL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B0127DIL9O/?tag=tolees-21)
 
 🔎:
 

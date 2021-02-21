@@ -2,7 +2,7 @@
 layout: post
 title: 'Calvin Klein - Moulded Washbag  Fundas d al 57.14 % de descuento'
 date: 2020-08-05 16:53:27
-image: 'https://m.media-amazon.com/images/I/41Rf5qcofLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Rf5qcofLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.794999999999998'
 
 Ahora mismo tienes [Calvin Klein - Moulded Washbag  Fundas de carnés Hombre  Verde  Dark Olive   0.1x0.1x0.1 cm  W x H L ](https://www.amazon.es/dp/B07RMLGLW2/?tag=tolees-21) a 25.29 EUR (original: 59.0 EUR) (57.14 %  de descuento) en el siguiente enlace!
 
-[![Calvin Klein - Moulded Washbag  Fundas d](https://m.media-amazon.com/images/I/41Rf5qcofLL._SL200_.jpg)](https://www.amazon.es/dp/B07RMLGLW2/?tag=tolees-21)
+[![Calvin Klein - Moulded Washbag  Fundas d](https://m.media-amazon.com/images/I/41Rf5qcofLL._SL400_.jpg)](https://www.amazon.es/dp/B07RMLGLW2/?tag=tolees-21)
 
 🔎:
 

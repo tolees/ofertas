@@ -2,7 +2,7 @@
 layout: post
 title: 'Desodorante en barra antitranspirante Do al 29.31 % de rebaja'
 date: 2020-05-26 21:37:08
-image: 'https://m.media-amazon.com/images/I/41ssQXaQQiL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ssQXaQQiL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.39'
 
 Tienes [Desodorante en barra antitranspirante Dove Plus Care. Para hombre  modelo Clean Comfort  50 ml  Pack of 6](https://www.amazon.es/dp/B01F8IE64O/?tag=tolees-21) con precio final de  15.39 EUR (original: 21.77 EUR) (29.31 %  de rebaja) aqui!
 
-[![Desodorante en barra antitranspirante Do](https://m.media-amazon.com/images/I/41ssQXaQQiL._SL200_.jpg)](https://www.amazon.es/dp/B01F8IE64O/?tag=tolees-21)
+[![Desodorante en barra antitranspirante Do](https://m.media-amazon.com/images/I/41ssQXaQQiL._SL400_.jpg)](https://www.amazon.es/dp/B01F8IE64O/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Pekebaby 01111370000 - Saco entretiempo  al 55.38 % de descuento'
 date: 2020-04-28 09:41:19
-image: 'https://m.media-amazon.com/images/I/417IrrihV2L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/417IrrihV2L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.0'
 
 Ahora mismo tienes [Pekebaby 01111370000 - Saco entretiempo universal impermeable  niños](https://www.amazon.es/dp/B07MV7HKVV/?tag=tolees-21) a 29.0 EUR (original: 65.0 EUR) (55.38 %  de descuento) en el siguiente enlace!
 
-[![Pekebaby 01111370000 - Saco entretiempo ](https://m.media-amazon.com/images/I/417IrrihV2L._SL200_.jpg)](https://www.amazon.es/dp/B07MV7HKVV/?tag=tolees-21)
+[![Pekebaby 01111370000 - Saco entretiempo ](https://m.media-amazon.com/images/I/417IrrihV2L._SL400_.jpg)](https://www.amazon.es/dp/B07MV7HKVV/?tag=tolees-21)
 
 🔎:
 

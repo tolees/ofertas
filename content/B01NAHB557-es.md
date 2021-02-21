@@ -2,7 +2,7 @@
 layout: post
 title: '1 pieza Ungfu Mall de tambor de encendid al 26.29 % de descuento'
 date: 2020-06-12 19:55:34
-image: 'https://m.media-amazon.com/images/I/41wwKYwAewL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41wwKYwAewL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.83'
 
 Ahora mismo tienes [1 pieza Ungfu Mall de tambor de encendido con interruptor y dos llaves. Conector de 4 pines para bloque de motocicleta  ATV  mini moto  buggy con bot&oacute;n interruptor de encendido.](https://www.amazon.es/dp/B01NAHB557/?tag=tolees-21) a 8.83 EUR (original: 11.98 EUR) (26.29 %  de descuento) en el siguiente enlace!
 
-[![1 pieza Ungfu Mall de tambor de encendid](https://m.media-amazon.com/images/I/41wwKYwAewL._SL200_.jpg)](https://www.amazon.es/dp/B01NAHB557/?tag=tolees-21)
+[![1 pieza Ungfu Mall de tambor de encendid](https://m.media-amazon.com/images/I/41wwKYwAewL._SL400_.jpg)](https://www.amazon.es/dp/B01NAHB557/?tag=tolees-21)
 
 🔎:
 

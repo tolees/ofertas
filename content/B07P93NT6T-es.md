@@ -2,7 +2,7 @@
 layout: post
 title: 'COSORI Tazas de Café y Té de Acero Inoxi al 70.02 % de descuento'
 date: 2020-08-03 10:29:14
-image: 'https://m.media-amazon.com/images/I/41WVvXPPYML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41WVvXPPYML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.847142857142856'
 
 Está [COSORI Tazas de Café y Té de Acero Inoxidable de Grado Alimenticio con Tapa 500ml  Tazas con Mango Resistente al Calor  Funda Antideslizante  Combinación para Calentador de Taza  2 Pack  Negro y Azul](https://www.amazon.es/dp/B07P93NT6T/?tag=tolees-21) con 70.02 de descuento por 11.99 EUR (original: 39.99 EUR) en el siguiente enlace!
 
-[![COSORI Tazas de Café y Té de Acero Inoxi](https://m.media-amazon.com/images/I/41WVvXPPYML._SL200_.jpg)](https://www.amazon.es/dp/B07P93NT6T/?tag=tolees-21)
+[![COSORI Tazas de Café y Té de Acero Inoxi](https://m.media-amazon.com/images/I/41WVvXPPYML._SL400_.jpg)](https://www.amazon.es/dp/B07P93NT6T/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas Runfalcon  Zapatillas de Running  al 37.44 % de rebaja'
 date: 2020-01-29 16:40:08
-image: 'https://m.media-amazon.com/images/I/41nMKT7cydL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41nMKT7cydL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.645'
 
 Tienes [adidas Runfalcon  Zapatillas de Running para Hombre  Multicolor  Dark Blue/FTWR White/Core Black F36201   44 2/3 EU](https://www.amazon.es/dp/B07K369BDB/?tag=tolees-21) con precio final de  31.25 EUR (original: 49.95 EUR) (37.44 %  de rebaja) aqui!
 
-[![adidas Runfalcon  Zapatillas de Running ](https://m.media-amazon.com/images/I/41nMKT7cydL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07K369BDB/?tag=tolees-21)
+[![adidas Runfalcon  Zapatillas de Running ](https://m.media-amazon.com/images/I/41nMKT7cydL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07K369BDB/?tag=tolees-21)
 
 🔎:
 

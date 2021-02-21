@@ -2,7 +2,7 @@
 layout: post
 title: 'Guinot Hydrazone Toutes Peaux Crema hidr al 29.59 % de descuento'
 date: 2020-05-30 13:51:23
-image: 'https://m.media-amazon.com/images/I/41u2IdWEOnL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41u2IdWEOnL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '31.56'
 
 Ahora mismo tienes [Guinot Hydrazone Toutes Peaux Crema hidratante - 50 ml](https://www.amazon.es/dp/B00BXFHP2W/?tag=tolees-21) a 31.56 EUR (original: 44.82 EUR) (29.59 %  de descuento) en el siguiente enlace!
 
-[![Guinot Hydrazone Toutes Peaux Crema hidr](https://m.media-amazon.com/images/I/41u2IdWEOnL._SL200_.jpg)](https://www.amazon.es/dp/B00BXFHP2W/?tag=tolees-21)
+[![Guinot Hydrazone Toutes Peaux Crema hidr](https://m.media-amazon.com/images/I/41u2IdWEOnL._SL400_.jpg)](https://www.amazon.es/dp/B00BXFHP2W/?tag=tolees-21)
 
 🔎:
 

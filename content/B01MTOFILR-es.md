@@ -2,7 +2,7 @@
 layout: post
 title: 'Superga 2750-cotu Classic  Zapatillas de al 65.42 % de descuento'
 date: 2020-07-19 09:41:12
-image: 'https://m.media-amazon.com/images/I/41I7amNLC2L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41I7amNLC2L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '22.806666666666665'
 
 Está [Superga 2750-cotu Classic  Zapatillas de Gimnasia Unisex Adulto  Rojo  Red/White C90   47 EU](https://www.amazon.es/dp/B01MTOFILR/?tag=tolees-21) con 65.42 de descuento por 20.4 EUR (original: 59.0 EUR) en el siguiente enlace!
 
-[![Superga 2750-cotu Classic  Zapatillas de](https://m.media-amazon.com/images/I/41I7amNLC2L._SL200_.jpg)](https://www.amazon.es/dp/B01MTOFILR/?tag=tolees-21)
+[![Superga 2750-cotu Classic  Zapatillas de](https://m.media-amazon.com/images/I/41I7amNLC2L._SL400_.jpg)](https://www.amazon.es/dp/B01MTOFILR/?tag=tolees-21)
 
 ℹ️:
 

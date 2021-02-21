@@ -2,7 +2,7 @@
 layout: post
 title: 'Funda impermeable de Kayond  para ordena al 41.52 % de rebaja'
 date: 2020-09-21 08:32:33
-image: 'https://m.media-amazon.com/images/I/517IQ6C2JeL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/517IQ6C2JeL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.49'
 
 Tienes [Funda impermeable de Kayond  para ordenador portátil de 11 a 17 pulgadas Blue stripes 14-14.1 inch](https://www.amazon.es/dp/B077WR69NZ/?tag=tolees-21) con precio final de  18.49 EUR (original: 31.62 EUR) (41.52 %  de rebaja) aqui!
 
-[![Funda impermeable de Kayond  para ordena](https://m.media-amazon.com/images/I/517IQ6C2JeL._SL200_.jpg)](https://www.amazon.es/dp/B077WR69NZ/?tag=tolees-21)
+[![Funda impermeable de Kayond  para ordena](https://m.media-amazon.com/images/I/517IQ6C2JeL._SL400_.jpg)](https://www.amazon.es/dp/B077WR69NZ/?tag=tolees-21)
 
 🔎:
 

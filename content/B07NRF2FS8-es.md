@@ -2,7 +2,7 @@
 layout: post
 title: 'SYOSS - Espuma Rizos Flex - Rizos Perfec con un 33.33 % de descuento'
 date: 2020-01-29 18:04:16
-image: 'https://m.media-amazon.com/images/I/317135QjqEL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/317135QjqEL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.0'
 
 En este momento está [SYOSS - Espuma Rizos Flex - Rizos Perfectamente Definidos Sin Encrespamiento - 2uds de 250ml](https://www.amazon.es/dp/B07NRF2FS8/?tag=tolees-21) a 5.0 EUR (original: 7.5 EUR) (33.33 %  de descuento) en el siguiente enlace!
 
-[![SYOSS - Espuma Rizos Flex - Rizos Perfec](https://m.media-amazon.com/images/I/317135QjqEL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07NRF2FS8/?tag=tolees-21)
+[![SYOSS - Espuma Rizos Flex - Rizos Perfec](https://m.media-amazon.com/images/I/317135QjqEL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07NRF2FS8/?tag=tolees-21)
 
 🔎:
 

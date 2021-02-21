@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour Speed Stride Tight Legging  al 49.02 % de rebaja'
 date: 2020-06-24 20:55:39
-image: 'https://m.media-amazon.com/images/I/31n-ISMZ1RL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31n-ISMZ1RL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '27.299999999999997'
 
 Tienes [Under Armour Speed Stride Tight Legging  Mujer  Negro  XL](https://www.amazon.es/dp/B07QXL89D9/?tag=tolees-21) con precio final de  25.49 EUR (original: 50.0 EUR) (49.02 %  de rebaja) aqui!
 
-[![Under Armour Speed Stride Tight Legging ](https://m.media-amazon.com/images/I/31n-ISMZ1RL._SL200_.jpg)](https://www.amazon.es/dp/B07QXL89D9/?tag=tolees-21)
+[![Under Armour Speed Stride Tight Legging ](https://m.media-amazon.com/images/I/31n-ISMZ1RL._SL400_.jpg)](https://www.amazon.es/dp/B07QXL89D9/?tag=tolees-21)
 
 🔎:
 

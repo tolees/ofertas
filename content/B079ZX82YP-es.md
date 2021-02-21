@@ -2,7 +2,7 @@
 layout: post
 title: 'VAIRO Polo Masculino Columns  Blanco  XL al 50.19 % de descuento'
 date: 2020-04-14 04:29:25
-image: 'https://m.media-amazon.com/images/I/41hRC8XPdML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41hRC8XPdML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.9'
 
 Ahora mismo tienes [VAIRO Polo Masculino Columns  Blanco  XL ](https://www.amazon.es/dp/B079ZX82YP/?tag=tolees-21) a 19.9 EUR (original: 39.95 EUR) (50.19 %  de descuento) en el siguiente enlace!
 
-[![VAIRO Polo Masculino Columns  Blanco  XL](https://m.media-amazon.com/images/I/41hRC8XPdML._SL200_.jpg)](https://www.amazon.es/dp/B079ZX82YP/?tag=tolees-21)
+[![VAIRO Polo Masculino Columns  Blanco  XL](https://m.media-amazon.com/images/I/41hRC8XPdML._SL400_.jpg)](https://www.amazon.es/dp/B079ZX82YP/?tag=tolees-21)
 
 🔎:
 

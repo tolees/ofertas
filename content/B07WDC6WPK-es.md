@@ -2,7 +2,7 @@
 layout: post
 title: 'Medidor pH  Digital Medidor TDS de Prueb al 30.47 % de descuento'
 date: 2020-06-30 18:03:53
-image: 'https://m.media-amazon.com/images/I/51POKqFiDML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51POKqFiDML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.14'
 
 Está [Medidor pH  Digital Medidor TDS de Prueba PH Medidor TDS/PH/CE Temperatura 4 en 1 Set](https://www.amazon.es/dp/B07WDC6WPK/?tag=tolees-21) con 30.47 de descuento por 15.29 EUR (original: 21.99 EUR) en el siguiente enlace!
 
-[![Medidor pH  Digital Medidor TDS de Prueb](https://m.media-amazon.com/images/I/51POKqFiDML._SL200_.jpg)](https://www.amazon.es/dp/B07WDC6WPK/?tag=tolees-21)
+[![Medidor pH  Digital Medidor TDS de Prueb](https://m.media-amazon.com/images/I/51POKqFiDML._SL400_.jpg)](https://www.amazon.es/dp/B07WDC6WPK/?tag=tolees-21)
 
 ℹ️:
 

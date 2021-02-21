@@ -2,7 +2,7 @@
 layout: post
 title: 'HP X3000 - Ratón inalámbrico óptico  Col al 62.48 % de descuento'
 date: 2020-03-09 21:55:59
-image: 'https://m.media-amazon.com/images/I/21yTz5vEaEL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21yTz5vEaEL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.044444444444444'
 
 Ahora mismo tienes [HP X3000 - Ratón inalámbrico óptico  Color Blanco](https://www.amazon.es/dp/B0117IGAF2/?tag=tolees-21) a 7.5 EUR (original: 19.99 EUR) (62.48 %  de descuento) en el siguiente enlace!
 
-[![HP X3000 - Ratón inalámbrico óptico  Col](https://m.media-amazon.com/images/I/21yTz5vEaEL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B0117IGAF2/?tag=tolees-21)
+[![HP X3000 - Ratón inalámbrico óptico  Col](https://m.media-amazon.com/images/I/21yTz5vEaEL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B0117IGAF2/?tag=tolees-21)
 
 🔎:
 

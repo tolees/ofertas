@@ -2,7 +2,7 @@
 layout: post
 title: 'Joydivision Bioglide Lubricante Anal - 8 al 67.04 % de rebaja'
 date: 2020-06-16 19:50:47
-image: 'https://m.media-amazon.com/images/I/41nZ8Q23CKL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41nZ8Q23CKL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.56'
 
 Tienes [Joydivision Bioglide Lubricante Anal - 80 ml](https://www.amazon.es/dp/B000LLV9PI/?tag=tolees-21) con precio final de  6.56 EUR (original: 19.9 EUR) (67.04 %  de rebaja) aqui!
 
-[![Joydivision Bioglide Lubricante Anal - 8](https://m.media-amazon.com/images/I/41nZ8Q23CKL._SL200_.jpg)](https://www.amazon.es/dp/B000LLV9PI/?tag=tolees-21)
+[![Joydivision Bioglide Lubricante Anal - 8](https://m.media-amazon.com/images/I/41nZ8Q23CKL._SL400_.jpg)](https://www.amazon.es/dp/B000LLV9PI/?tag=tolees-21)
 
 🔎:
 

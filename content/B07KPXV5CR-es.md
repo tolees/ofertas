@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 85.78 % en UniqueMe Funda para Nokia 9  Ultra [Slim'
 date: 2020-04-11 18:33:51
-image: 'https://m.media-amazon.com/images/I/51Vpk4G1TFL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Vpk4G1TFL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.99'
 
 Tienes [UniqueMe Funda para Nokia 9  Ultra [Slim Thin] TPU Funda Protectora TPU de Silicona Suave - Negro](https://www.amazon.es/dp/B07KPXV5CR/?tag=tolees-21) con un 85.78 % de descuento con precio de oferta de 1.99 EUR (original: 13.99 EUR) en el siguiente enlace!
 
-[![UniqueMe Funda para Nokia 9  Ultra [Slim](https://m.media-amazon.com/images/I/51Vpk4G1TFL._SL200_.jpg)](https://www.amazon.es/dp/B07KPXV5CR/?tag=tolees-21)
+[![UniqueMe Funda para Nokia 9  Ultra [Slim](https://m.media-amazon.com/images/I/51Vpk4G1TFL._SL400_.jpg)](https://www.amazon.es/dp/B07KPXV5CR/?tag=tolees-21)
 
 ℹ️:
 

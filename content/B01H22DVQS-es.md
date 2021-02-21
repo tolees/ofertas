@@ -2,7 +2,7 @@
 layout: post
 title: 'Resident Evil 7: Biohazard al 66.68 % de descuento'
 date: 2020-05-03 16:02:49
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51BUOuWZiZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51BUOuWZiZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.99'
 
 Ahora mismo tienes [Resident Evil 7: Biohazard](https://www.amazon.es/dp/B01H22DVQS/?tag=tolees-21) a 19.99 EUR (original: 59.99 EUR) (66.68 %  de descuento) en el siguiente enlace!
 
-[![Resident Evil 7: Biohazard](https://images-eu.ssl-images-amazon.com/images/I/51BUOuWZiZL._SL200_.jpg)](https://www.amazon.es/dp/B01H22DVQS/?tag=tolees-21)
+[![Resident Evil 7: Biohazard](https://images-eu.ssl-images-amazon.com/images/I/51BUOuWZiZL._SL400_.jpg)](https://www.amazon.es/dp/B01H22DVQS/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'POP! Vinilo - DC: Power Girl con un 40.03 % de descuento'
 date: 2020-10-01 10:25:15
-image: 'https://m.media-amazon.com/images/I/41SBvIxFshL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41SBvIxFshL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.99'
 
 En este momento está [POP! Vinilo - DC: Power Girl](https://www.amazon.es/dp/B01BEXG2P8/?tag=tolees-21) a 8.99 EUR (original: 14.99 EUR) (40.03 %  de descuento) en el siguiente enlace!
 
-[![POP! Vinilo - DC: Power Girl](https://m.media-amazon.com/images/I/41SBvIxFshL._SL200_.jpg)](https://www.amazon.es/dp/B01BEXG2P8/?tag=tolees-21)
+[![POP! Vinilo - DC: Power Girl](https://m.media-amazon.com/images/I/41SBvIxFshL._SL400_.jpg)](https://www.amazon.es/dp/B01BEXG2P8/?tag=tolees-21)
 
 🔎:
 

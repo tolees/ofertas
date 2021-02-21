@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 70.01 % en Asics Gel-Hockey Neo 3 Hockey Zapatillas'
 date: 2020-04-08 05:07:33
-image: 'https://m.media-amazon.com/images/I/417rjeIXsrL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/417rjeIXsrL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '34.79'
 
 Tienes [Asics Gel-Hockey Neo 3 Hockey Zapatillas - 43.5](https://www.amazon.es/dp/B00ISWTC5G/?tag=tolees-21) con un 70.01 % de descuento con precio de oferta de 34.79 EUR (original: 115.99 EUR) en el siguiente enlace!
 
-[![Asics Gel-Hockey Neo 3 Hockey Zapatillas](https://m.media-amazon.com/images/I/417rjeIXsrL._SL200_.jpg)](https://www.amazon.es/dp/B00ISWTC5G/?tag=tolees-21)
+[![Asics Gel-Hockey Neo 3 Hockey Zapatillas](https://m.media-amazon.com/images/I/417rjeIXsrL._SL400_.jpg)](https://www.amazon.es/dp/B00ISWTC5G/?tag=tolees-21)
 
 ℹ️:
 

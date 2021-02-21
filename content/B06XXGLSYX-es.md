@@ -2,7 +2,7 @@
 layout: post
 title: 'New Balance WL574EB  Zapatillas Mujer  G al 44.61 % de descuento'
 date: 2020-05-06 19:30:59
-image: 'https://m.media-amazon.com/images/I/41wMpvlF4iL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41wMpvlF4iL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '53.45333333333333'
 
 Está [New Balance WL574EB  Zapatillas Mujer  Gris  Grey   36.5 EU](https://www.amazon.es/dp/B06XXGLSYX/?tag=tolees-21) con 44.61 de descuento por 49.85 EUR (original: 90.0 EUR) en el siguiente enlace!
 
-[![New Balance WL574EB  Zapatillas Mujer  G](https://m.media-amazon.com/images/I/41wMpvlF4iL._SL200_.jpg)](https://www.amazon.es/dp/B06XXGLSYX/?tag=tolees-21)
+[![New Balance WL574EB  Zapatillas Mujer  G](https://m.media-amazon.com/images/I/41wMpvlF4iL._SL400_.jpg)](https://www.amazon.es/dp/B06XXGLSYX/?tag=tolees-21)
 
 ℹ️:
 

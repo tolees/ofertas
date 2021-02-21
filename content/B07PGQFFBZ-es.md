@@ -2,7 +2,7 @@
 layout: post
 title: 'IKOHS Best Toast - Tostadora al 25.03 % de descuento'
 date: 2020-06-28 20:05:59
-image: 'https://m.media-amazon.com/images/I/31eG82IyZLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31eG82IyZLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.95'
 
 Ahora mismo tienes [IKOHS Best Toast - Tostadora](https://www.amazon.es/dp/B07PGQFFBZ/?tag=tolees-21) a 29.95 EUR (original: 39.95 EUR) (25.03 %  de descuento) en el siguiente enlace!
 
-[![IKOHS Best Toast - Tostadora](https://m.media-amazon.com/images/I/31eG82IyZLL._SL200_.jpg)](https://www.amazon.es/dp/B07PGQFFBZ/?tag=tolees-21)
+[![IKOHS Best Toast - Tostadora](https://m.media-amazon.com/images/I/31eG82IyZLL._SL400_.jpg)](https://www.amazon.es/dp/B07PGQFFBZ/?tag=tolees-21)
 
 🔎:
 

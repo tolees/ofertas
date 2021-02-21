@@ -2,7 +2,7 @@
 layout: post
 title: 'Skagen Reloj de Bolsillo Digital SKT5107 con un 40.00 % de descuento'
 date: 2020-02-07 06:06:48
-image: 'https://m.media-amazon.com/images/I/31x9GqzI+cL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31x9GqzI+cL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '179.4'
 
 En este momento está [Skagen Reloj de Bolsillo Digital SKT5107](https://www.amazon.es/dp/B07MH65GS8/?tag=tolees-21) a 179.4 EUR (original: 299.0 EUR) (40.00 %  de descuento) en el siguiente enlace!
 
-[![Skagen Reloj de Bolsillo Digital SKT5107](https://m.media-amazon.com/images/I/31x9GqzI+cL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07MH65GS8/?tag=tolees-21)
+[![Skagen Reloj de Bolsillo Digital SKT5107](https://m.media-amazon.com/images/I/31x9GqzI+cL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07MH65GS8/?tag=tolees-21)
 
 🔎:
 

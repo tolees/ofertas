@@ -2,7 +2,7 @@
 layout: post
 title: 'CooSpo Zwift Ant - Adaptador de Receptor al 30.63 % de descuento'
 date: 2020-06-07 19:34:49
-image: 'https://m.media-amazon.com/images/I/41pXG-GJ0OL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41pXG-GJ0OL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.3'
 
 Está [CooSpo Zwift Ant - Adaptador de Receptor USB para Garmin  Sunnto  Zwift  PerfPRO Studio  CycleOps Virtual Trainer  TrainerRoad](https://www.amazon.es/dp/B07D4J7KH6/?tag=tolees-21) con 30.63 de descuento por 18.3 EUR (original: 26.38 EUR) en el siguiente enlace!
 
-[![CooSpo Zwift Ant - Adaptador de Receptor](https://m.media-amazon.com/images/I/41pXG-GJ0OL._SL200_.jpg)](https://www.amazon.es/dp/B07D4J7KH6/?tag=tolees-21)
+[![CooSpo Zwift Ant - Adaptador de Receptor](https://m.media-amazon.com/images/I/41pXG-GJ0OL._SL400_.jpg)](https://www.amazon.es/dp/B07D4J7KH6/?tag=tolees-21)
 
 ℹ️:
 

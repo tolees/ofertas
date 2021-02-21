@@ -2,7 +2,7 @@
 layout: post
 title: 'Bourjois Contour Clubbing Delineador de  al 44.62 % de rebaja'
 date: 2020-09-12 12:17:12
-image: 'https://m.media-amazon.com/images/I/31BCSghNXPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31BCSghNXPL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.6'
 
 Tienes [Bourjois Contour Clubbing Delineador de Ojos  Tono 45 Blue remix - 1.20 gr](https://www.amazon.es/dp/B002VVX29W/?tag=tolees-21) con precio final de  3.6 EUR (original: 6.5 EUR) (44.62 %  de rebaja) aqui!
 
-[![Bourjois Contour Clubbing Delineador de ](https://m.media-amazon.com/images/I/31BCSghNXPL._SL200_.jpg)](https://www.amazon.es/dp/B002VVX29W/?tag=tolees-21)
+[![Bourjois Contour Clubbing Delineador de ](https://m.media-amazon.com/images/I/31BCSghNXPL._SL400_.jpg)](https://www.amazon.es/dp/B002VVX29W/?tag=tolees-21)
 
 🔎:
 

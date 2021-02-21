@@ -2,7 +2,7 @@
 layout: post
 title: 'FitBeast Esterilla de Yoga  Esterilla de al 33.33 % de descuento'
 date: 2020-08-15 20:08:05
-image: 'https://m.media-amazon.com/images/I/41AaiulzuuL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41AaiulzuuL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '35.99'
 
 Está [FitBeast Esterilla de Yoga  Esterilla de Yoga Antiderrapante con Grosor de 6mm  Incluye Correa– Esterilla Deporte para Pilates y Gimnasia 183x61x0.6CM  Compacto  Liviano  Portátil](https://www.amazon.es/dp/B07Y6F6DLS/?tag=tolees-21) con 33.33 de descuento por 35.99 EUR (original: 53.98 EUR) en el siguiente enlace!
 
-[![FitBeast Esterilla de Yoga  Esterilla de](https://m.media-amazon.com/images/I/41AaiulzuuL._SL200_.jpg)](https://www.amazon.es/dp/B07Y6F6DLS/?tag=tolees-21)
+[![FitBeast Esterilla de Yoga  Esterilla de](https://m.media-amazon.com/images/I/41AaiulzuuL._SL400_.jpg)](https://www.amazon.es/dp/B07Y6F6DLS/?tag=tolees-21)
 
 ℹ️:
 

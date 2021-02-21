@@ -2,7 +2,7 @@
 layout: post
 title: 'New Balance W890V7 m  Zapatillas de Runn al 62.77 % de descuento'
 date: 2020-06-23 11:35:45
-image: 'https://m.media-amazon.com/images/I/41WlOjx3k3L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41WlOjx3k3L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '44.68'
 
 Está [New Balance W890V7 m  Zapatillas de Running para Mujer  Blanco  White White   36.5 EU](https://www.amazon.es/dp/B07DVG6QSJ/?tag=tolees-21) con 62.77 de descuento por 44.68 EUR (original: 120.0 EUR) en el siguiente enlace!
 
-[![New Balance W890V7 m  Zapatillas de Runn](https://m.media-amazon.com/images/I/41WlOjx3k3L._SL200_.jpg)](https://www.amazon.es/dp/B07DVG6QSJ/?tag=tolees-21)
+[![New Balance W890V7 m  Zapatillas de Runn](https://m.media-amazon.com/images/I/41WlOjx3k3L._SL400_.jpg)](https://www.amazon.es/dp/B07DVG6QSJ/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Simpeak Funda Compatible con Xiaomi Mi 9 al 46.19 % de rebaja'
 date: 2020-05-28 17:13:41
-image: 'https://m.media-amazon.com/images/I/41gLLiabBeL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41gLLiabBeL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.99'
 
 Tienes [Simpeak Funda Compatible con Xiaomi Mi 9T / Mi 9T Pro + Cristal Vidrio Templado  Funda Compatible con Xiaomi Mi 9T TPU Silicona Ultra Fino Protector de Pantalla y Carcasa Case de Cristal  Transparente](https://www.amazon.es/dp/B07T239DQJ/?tag=tolees-21) con precio final de  6.99 EUR (original: 12.99 EUR) (46.19 %  de rebaja) aqui!
 
-[![Simpeak Funda Compatible con Xiaomi Mi 9](https://m.media-amazon.com/images/I/41gLLiabBeL._SL200_.jpg)](https://www.amazon.es/dp/B07T239DQJ/?tag=tolees-21)
+[![Simpeak Funda Compatible con Xiaomi Mi 9](https://m.media-amazon.com/images/I/41gLLiabBeL._SL400_.jpg)](https://www.amazon.es/dp/B07T239DQJ/?tag=tolees-21)
 
 🔎:
 

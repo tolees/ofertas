@@ -2,7 +2,7 @@
 layout: post
 title: 'Lacoste Riberac 119 Jr  Zapatillas Unise al 50.74 % de descuento'
 date: 2020-03-13 19:10:53
-image: 'https://m.media-amazon.com/images/I/317XsDzGtLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/317XsDzGtLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '38.105000000000004'
 
 Ahora mismo tienes [Lacoste Riberac 119 Jr  Zapatillas Unisex Niños  Blanco  White 737cuj0020wn1   37 EU](https://www.amazon.es/dp/B07N8PHQ57/?tag=tolees-21) a 36.94 EUR (original: 74.99 EUR) (50.74 %  de descuento) en el siguiente enlace!
 
-[![Lacoste Riberac 119 Jr  Zapatillas Unise](https://m.media-amazon.com/images/I/317XsDzGtLL._SL200_.jpg)](https://www.amazon.es/dp/B07N8PHQ57/?tag=tolees-21)
+[![Lacoste Riberac 119 Jr  Zapatillas Unise](https://m.media-amazon.com/images/I/317XsDzGtLL._SL400_.jpg)](https://www.amazon.es/dp/B07N8PHQ57/?tag=tolees-21)
 
 🔎:
 

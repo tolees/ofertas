@@ -2,7 +2,7 @@
 layout: post
 title: 'J.Rosée Collana Donna Argento Sterling 9 al 89.01 % de descuento'
 date: 2020-02-11 09:31:50
-image: 'https://m.media-amazon.com/images/I/41zrQ6BBJdL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41zrQ6BBJdL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.99'
 
 Ahora mismo tienes [J.Rosée Collana Donna Argento Sterling 925 Pendente Ciondolo Infinito](https://www.amazon.es/dp/B07RLPB7ZB/?tag=tolees-21) a 10.99 EUR (original: 99.99 EUR) (89.01 %  de descuento) en el siguiente enlace!
 
-[![J.Rosée Collana Donna Argento Sterling 9](https://m.media-amazon.com/images/I/41zrQ6BBJdL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07RLPB7ZB/?tag=tolees-21)
+[![J.Rosée Collana Donna Argento Sterling 9](https://m.media-amazon.com/images/I/41zrQ6BBJdL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07RLPB7ZB/?tag=tolees-21)
 
 🔎:
 

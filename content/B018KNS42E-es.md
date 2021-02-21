@@ -2,7 +2,7 @@
 layout: post
 title: 'Skechers Equalizer-Double Play  Mocasine al 40.03 % de descuento'
 date: 2020-09-11 16:20:11
-image: 'https://m.media-amazon.com/images/I/41S8U8hi5SL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41S8U8hi5SL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '38.95'
 
 Ahora mismo tienes [Skechers Equalizer-Double Play  Mocasines Hombre  Negro  Black   39 EU](https://www.amazon.es/dp/B018KNS42E/?tag=tolees-21) a 38.95 EUR (original: 64.95 EUR) (40.03 %  de descuento) en el siguiente enlace!
 
-[![Skechers Equalizer-Double Play  Mocasine](https://m.media-amazon.com/images/I/41S8U8hi5SL._SL200_.jpg)](https://www.amazon.es/dp/B018KNS42E/?tag=tolees-21)
+[![Skechers Equalizer-Double Play  Mocasine](https://m.media-amazon.com/images/I/41S8U8hi5SL._SL400_.jpg)](https://www.amazon.es/dp/B018KNS42E/?tag=tolees-21)
 
 🔎:
 

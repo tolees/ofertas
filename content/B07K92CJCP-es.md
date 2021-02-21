@@ -2,7 +2,7 @@
 layout: post
 title: 'Crocs Classic Slipper  Zapatillas Bajas  al 30.40 % de descuento'
 date: 2020-05-22 13:36:46
-image: 'https://m.media-amazon.com/images/I/21ddN+iN+FL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21ddN+iN+FL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.126666666666665'
 
 Ahora mismo tienes [Crocs Classic Slipper  Zapatillas Bajas Unisex Adulto  Rosa  Pink Lemonade/Pink Lemonade 6m3   41/42 EU](https://www.amazon.es/dp/B07K92CJCP/?tag=tolees-21) a 22.44 EUR (original: 32.24 EUR) (30.40 %  de descuento) en el siguiente enlace!
 
-[![Crocs Classic Slipper  Zapatillas Bajas ](https://m.media-amazon.com/images/I/21ddN+iN+FL._SL200_.jpg)](https://www.amazon.es/dp/B07K92CJCP/?tag=tolees-21)
+[![Crocs Classic Slipper  Zapatillas Bajas ](https://m.media-amazon.com/images/I/21ddN+iN+FL._SL400_.jpg)](https://www.amazon.es/dp/B07K92CJCP/?tag=tolees-21)
 
 🔎:
 

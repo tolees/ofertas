@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour UA Charged Intake 4  Zapati al 34.08 % de rebaja'
 date: 2020-06-24 17:28:00
-image: 'https://m.media-amazon.com/images/I/51MpoTmxqoL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51MpoTmxqoL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '65.89'
 
 Tienes [Under Armour UA Charged Intake 4  Zapatillas de Running para Hombre  Verde  Escape/Halo Gray/Black   41 EU](https://www.amazon.es/dp/B07PXV24QF/?tag=tolees-21) con precio final de  65.89 EUR (original: 99.95 EUR) (34.08 %  de rebaja) aqui!
 
-[![Under Armour UA Charged Intake 4  Zapati](https://m.media-amazon.com/images/I/51MpoTmxqoL._SL200_.jpg)](https://www.amazon.es/dp/B07PXV24QF/?tag=tolees-21)
+[![Under Armour UA Charged Intake 4  Zapati](https://m.media-amazon.com/images/I/51MpoTmxqoL._SL400_.jpg)](https://www.amazon.es/dp/B07PXV24QF/?tag=tolees-21)
 
 🔎:
 

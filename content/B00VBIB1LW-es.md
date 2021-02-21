@@ -2,7 +2,7 @@
 layout: post
 title: 'PNY Attaché 4 - Memoria USB 3.0 de 16 GB al 56.11 % de descuento'
 date: 2020-09-25 17:03:20
-image: 'https://m.media-amazon.com/images/I/31YRHAJLfCL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31YRHAJLfCL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.99'
 
 Está [PNY Attaché 4 - Memoria USB 3.0 de 16 GB](https://www.amazon.es/dp/B00VBIB1LW/?tag=tolees-21) con 56.11 de descuento por 3.99 EUR (original: 9.09 EUR) en el siguiente enlace!
 
-[![PNY Attaché 4 - Memoria USB 3.0 de 16 GB](https://m.media-amazon.com/images/I/31YRHAJLfCL._SL200_.jpg)](https://www.amazon.es/dp/B00VBIB1LW/?tag=tolees-21)
+[![PNY Attaché 4 - Memoria USB 3.0 de 16 GB](https://m.media-amazon.com/images/I/31YRHAJLfCL._SL400_.jpg)](https://www.amazon.es/dp/B00VBIB1LW/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'StillCool Aire Acondicionado Portátil  3 al 36.30 % de rebaja'
 date: 2020-08-31 17:15:38
-image: 'https://m.media-amazon.com/images/I/41Qi8Bz9KaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Qi8Bz9KaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.65'
 
 Tienes [StillCool Aire Acondicionado Portátil  3 en 1 Ventilador Aire Acondicionado  Humidificador y Purificador  Ventilador USB  3 Velocidade  90 ° oscilación  para Hogar Oficina](https://www.amazon.es/dp/B088FJMHD4/?tag=tolees-21) con precio final de  21.65 EUR (original: 33.99 EUR) (36.30 %  de rebaja) aqui!
 
-[![StillCool Aire Acondicionado Portátil  3](https://m.media-amazon.com/images/I/41Qi8Bz9KaL._SL200_.jpg)](https://www.amazon.es/dp/B088FJMHD4/?tag=tolees-21)
+[![StillCool Aire Acondicionado Portátil  3](https://m.media-amazon.com/images/I/41Qi8Bz9KaL._SL400_.jpg)](https://www.amazon.es/dp/B088FJMHD4/?tag=tolees-21)
 
 🔎:
 

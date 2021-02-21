@@ -2,7 +2,7 @@
 layout: post
 title: 'SALOMON Alphacross GTX  Zapatillas de Tr al 30.89 % de descuento'
 date: 2020-09-11 22:38:52
-image: 'https://m.media-amazon.com/images/I/31nZkssnSEL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31nZkssnSEL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '72.38199999999999'
 
 Ahora mismo tienes [SALOMON Alphacross GTX  Zapatillas de Trail Running para Hombre  Negro  Black/Ebony/Black   40 EU](https://www.amazon.es/dp/B07KQQSVFH/?tag=tolees-21) a 75.99 EUR (original: 109.95 EUR) (30.89 %  de descuento) en el siguiente enlace!
 
-[![SALOMON Alphacross GTX  Zapatillas de Tr](https://m.media-amazon.com/images/I/31nZkssnSEL._SL200_.jpg)](https://www.amazon.es/dp/B07KQQSVFH/?tag=tolees-21)
+[![SALOMON Alphacross GTX  Zapatillas de Tr](https://m.media-amazon.com/images/I/31nZkssnSEL._SL400_.jpg)](https://www.amazon.es/dp/B07KQQSVFH/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 90.81 % en Crystal Ball - Globos Giochi Preziosi 12'
 date: 2020-06-02 06:54:05
-image: 'https://m.media-amazon.com/images/I/51QXflTNyPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51QXflTNyPL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '0.5'
 
 Tienes [Crystal Ball - Globos Giochi Preziosi 12020  colores surtidos](https://www.amazon.es/dp/B00UM79F5M/?tag=tolees-21) con un 90.81 % de descuento con precio de oferta de 0.5 EUR (original: 5.44 EUR) en el siguiente enlace!
 
-[![Crystal Ball - Globos Giochi Preziosi 12](https://m.media-amazon.com/images/I/51QXflTNyPL._SL200_.jpg)](https://www.amazon.es/dp/B00UM79F5M/?tag=tolees-21)
+[![Crystal Ball - Globos Giochi Preziosi 12](https://m.media-amazon.com/images/I/51QXflTNyPL._SL400_.jpg)](https://www.amazon.es/dp/B00UM79F5M/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Yellow Cab Soldier 6 Botas militares hom al 72.49 % de rebaja'
 date: 2020-04-20 15:08:46
-image: 'https://m.media-amazon.com/images/I/516jLHvrSaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/516jLHvrSaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '50.06'
 
 Tienes [Yellow Cab Soldier 6 Botas militares hombre  Marrón  Cognac   41 EU](https://www.amazon.es/dp/B00CJ3UD9E/?tag=tolees-21) con precio final de  50.06 EUR (original: 182.0 EUR) (72.49 %  de rebaja) aqui!
 
-[![Yellow Cab Soldier 6 Botas militares hom](https://m.media-amazon.com/images/I/516jLHvrSaL._SL200_.jpg)](https://www.amazon.es/dp/B00CJ3UD9E/?tag=tolees-21)
+[![Yellow Cab Soldier 6 Botas militares hom](https://m.media-amazon.com/images/I/516jLHvrSaL._SL400_.jpg)](https://www.amazon.es/dp/B00CJ3UD9E/?tag=tolees-21)
 
 🔎:
 

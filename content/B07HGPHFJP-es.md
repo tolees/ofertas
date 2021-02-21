@@ -2,7 +2,7 @@
 layout: post
 title: 'Adidas Continental 80 J  Zapatillas de D al 37.72 % de descuento'
 date: 2020-06-17 07:32:16
-image: 'https://m.media-amazon.com/images/I/3113daopcgL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/3113daopcgL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '40.45'
 
 Ahora mismo tienes [Adidas Continental 80 J  Zapatillas de Deporte Unisex Adulto  Negro  Negbás/Escarl/Maruni 000   38 2/3 EU](https://www.amazon.es/dp/B07HGPHFJP/?tag=tolees-21) a 40.45 EUR (original: 64.95 EUR) (37.72 %  de descuento) en el siguiente enlace!
 
-[![Adidas Continental 80 J  Zapatillas de D](https://m.media-amazon.com/images/I/3113daopcgL._SL200_.jpg)](https://www.amazon.es/dp/B07HGPHFJP/?tag=tolees-21)
+[![Adidas Continental 80 J  Zapatillas de D](https://m.media-amazon.com/images/I/3113daopcgL._SL400_.jpg)](https://www.amazon.es/dp/B07HGPHFJP/?tag=tolees-21)
 
 🔎:
 

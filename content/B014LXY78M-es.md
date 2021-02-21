@@ -2,7 +2,7 @@
 layout: post
 title: 'TY - Beanie Boos Asia  Tigre  15 cm  Col con un 29.28 % de descuento'
 date: 2020-06-12 14:50:01
-image: 'https://m.media-amazon.com/images/I/51IOpq11-pL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51IOpq11-pL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.88'
 
 En este momento está [TY - Beanie Boos Asia  Tigre  15 cm  Color Blanco / Rosa  United Labels Ibérica 36180TY ](https://www.amazon.es/dp/B014LXY78M/?tag=tolees-21) a 4.88 EUR (original: 6.9 EUR) (29.28 %  de descuento) en el siguiente enlace!
 
-[![TY - Beanie Boos Asia  Tigre  15 cm  Col](https://m.media-amazon.com/images/I/51IOpq11-pL._SL200_.jpg)](https://www.amazon.es/dp/B014LXY78M/?tag=tolees-21)
+[![TY - Beanie Boos Asia  Tigre  15 cm  Col](https://m.media-amazon.com/images/I/51IOpq11-pL._SL400_.jpg)](https://www.amazon.es/dp/B014LXY78M/?tag=tolees-21)
 
 🔎:
 

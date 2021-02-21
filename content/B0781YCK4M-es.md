@@ -2,7 +2,7 @@
 layout: post
 title: 'caseable - Funda para Kindle y Kindle Pa al 37.51 % de rebaja'
 date: 2020-02-04 07:31:18
-image: 'https://m.media-amazon.com/images/I/41h5OtZfYTL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41h5OtZfYTL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.99'
 
 Tienes [caseable - Funda para Kindle y Kindle Paperwhite  Gold Dots](https://www.amazon.es/dp/B0781YCK4M/?tag=tolees-21) con precio final de  24.99 EUR (original: 39.99 EUR) (37.51 %  de rebaja) aqui!
 
-[![caseable - Funda para Kindle y Kindle Pa](https://m.media-amazon.com/images/I/41h5OtZfYTL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B0781YCK4M/?tag=tolees-21)
+[![caseable - Funda para Kindle y Kindle Pa](https://m.media-amazon.com/images/I/41h5OtZfYTL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B0781YCK4M/?tag=tolees-21)
 
 🔎:
 

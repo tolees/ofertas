@@ -2,7 +2,7 @@
 layout: post
 title: 'Black Diamond - Terminator  Color Black  al 25.66 % de descuento'
 date: 2020-03-12 10:04:12
-image: 'https://m.media-amazon.com/images/I/51UgJMpTPvL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51UgJMpTPvL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '58.84'
 
 Ahora mismo tienes [Black Diamond - Terminator  Color Black  Talla L](https://www.amazon.es/dp/B00FFHJP2M/?tag=tolees-21) a 58.84 EUR (original: 79.15 EUR) (25.66 %  de descuento) en el siguiente enlace!
 
-[![Black Diamond - Terminator  Color Black ](https://m.media-amazon.com/images/I/51UgJMpTPvL._SL200_.jpg)](https://www.amazon.es/dp/B00FFHJP2M/?tag=tolees-21)
+[![Black Diamond - Terminator  Color Black ](https://m.media-amazon.com/images/I/51UgJMpTPvL._SL400_.jpg)](https://www.amazon.es/dp/B00FFHJP2M/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Finether 4 1M Escalera Telescópica de Al al 42.50 % de descuento'
 date: 2020-01-06 10:36:12
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51hrHsQE7HL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51hrHsQE7HL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '91.99'
 
 Ahora mismo tienes [Finether 4 1M Escalera Telescópica de Aluminio  Escalera Extensible Multifuncional Portátil  Certificada por EN131  profesionales y Plegables  Carga 150kg Color Negro](https://www.amazon.es/dp/B072PZBSYJ/?tag=tolees-21) a 91.99 EUR (original: 159.99 EUR) (42.50 %  de descuento) en el siguiente enlace!
 
-[![Finether 4 1M Escalera Telescópica de Al](https://images-eu.ssl-images-amazon.com/images/I/51hrHsQE7HL._SL200_.jpg)](https://www.amazon.es/dp/B072PZBSYJ/?tag=tolees-21)
+[![Finether 4 1M Escalera Telescópica de Al](https://images-eu.ssl-images-amazon.com/images/I/51hrHsQE7HL._SL400_.jpg)](https://www.amazon.es/dp/B072PZBSYJ/?tag=tolees-21)
 
 🔎:
 

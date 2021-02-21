@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 38.06 % en BlueXP 2 Pieza Soporte de Techo Lámpara '
 date: 2020-06-06 19:34:10
-image: 'https://m.media-amazon.com/images/I/41Grz1MG+pL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Grz1MG+pL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.86'
 
 Tienes [BlueXP 2 Pieza Soporte de Techo Lámpara E27 Accesorios para Lámparas de Techo con Cable Accesorio Bricolaje para Iluminación Colgante Vintage Retro Lámparas de Araña Soporte Montaje con Base Cromo](https://www.amazon.es/dp/B07ZYFPCJ5/?tag=tolees-21) con un 38.06 % de descuento con precio de oferta de 7.86 EUR (original: 12.69 EUR) en el siguiente enlace!
 
-[![BlueXP 2 Pieza Soporte de Techo Lámpara ](https://m.media-amazon.com/images/I/41Grz1MG+pL._SL200_.jpg)](https://www.amazon.es/dp/B07ZYFPCJ5/?tag=tolees-21)
+[![BlueXP 2 Pieza Soporte de Techo Lámpara ](https://m.media-amazon.com/images/I/41Grz1MG+pL._SL400_.jpg)](https://www.amazon.es/dp/B07ZYFPCJ5/?tag=tolees-21)
 
 ℹ️:
 

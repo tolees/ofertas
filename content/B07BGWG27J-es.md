@@ -2,7 +2,7 @@
 layout: post
 title: 'Balay 3CG5172B0 Integrado -  Microondas  al 29.07 % de descuento'
 date: 2020-02-03 19:10:54
-image: 'https://m.media-amazon.com/images/I/317r4QzlTDL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/317r4QzlTDL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '210.5'
 
 Ahora mismo tienes [Balay 3CG5172B0 Integrado -  Microondas integrable / encastre con grill  800 W / 1000 W   color blanco](https://www.amazon.es/dp/B07BGWG27J/?tag=tolees-21) a 205.0 EUR (original: 289.0 EUR) (29.07 %  de descuento) en el siguiente enlace!
 
-[![Balay 3CG5172B0 Integrado -  Microondas ](https://m.media-amazon.com/images/I/317r4QzlTDL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07BGWG27J/?tag=tolees-21)
+[![Balay 3CG5172B0 Integrado -  Microondas ](https://m.media-amazon.com/images/I/317r4QzlTDL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07BGWG27J/?tag=tolees-21)
 
 🔎:
 

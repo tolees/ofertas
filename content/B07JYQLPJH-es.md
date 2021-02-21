@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger TJM Tommy Classics Solid  al 45.76 % de descuento'
 date: 2020-04-19 14:23:34
-image: 'https://m.media-amazon.com/images/I/31JOkVVHTbL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31JOkVVHTbL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '32.49'
 
 Ahora mismo tienes [Tommy Hilfiger TJM Tommy Classics Solid Polo  Gris  Lt Grey Htr 038   X-Small para Hombre](https://www.amazon.es/dp/B07JYQLPJH/?tag=tolees-21) a 32.49 EUR (original: 59.9 EUR) (45.76 %  de descuento) en el siguiente enlace!
 
-[![Tommy Hilfiger TJM Tommy Classics Solid ](https://m.media-amazon.com/images/I/31JOkVVHTbL._SL200_.jpg)](https://www.amazon.es/dp/B07JYQLPJH/?tag=tolees-21)
+[![Tommy Hilfiger TJM Tommy Classics Solid ](https://m.media-amazon.com/images/I/31JOkVVHTbL._SL400_.jpg)](https://www.amazon.es/dp/B07JYQLPJH/?tag=tolees-21)
 
 🔎:
 

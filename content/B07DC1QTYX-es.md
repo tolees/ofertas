@@ -2,7 +2,7 @@
 layout: post
 title: 'Puma Cali Nubuck  Zapatillas Deportivas  al 39.98 % de descuento'
 date: 2020-04-23 05:18:21
-image: 'https://m.media-amazon.com/images/I/317vyN4IDlL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/317vyN4IDlL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '59.99'
 
 Está [Puma Cali Nubuck  Zapatillas Deportivas para Mujer  Rosa  Peach Bud-Peach Bud   38 EU](https://www.amazon.es/dp/B07DC1QTYX/?tag=tolees-21) con 39.98 de descuento por 59.99 EUR (original: 99.95 EUR) en el siguiente enlace!
 
-[![Puma Cali Nubuck  Zapatillas Deportivas ](https://m.media-amazon.com/images/I/317vyN4IDlL._SL200_.jpg)](https://www.amazon.es/dp/B07DC1QTYX/?tag=tolees-21)
+[![Puma Cali Nubuck  Zapatillas Deportivas ](https://m.media-amazon.com/images/I/317vyN4IDlL._SL400_.jpg)](https://www.amazon.es/dp/B07DC1QTYX/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Tranjis Games - POC! - Juego de mesa  TR con un 33.11 % de descuento'
 date: 2020-08-19 19:31:10
-image: 'https://m.media-amazon.com/images/I/31Mt1GacdCL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Mt1GacdCL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.0'
 
 En este momento está [Tranjis Games - POC! - Juego de mesa  TRG-014poc ](https://www.amazon.es/dp/B07PFKDQX8/?tag=tolees-21) a 10.0 EUR (original: 14.95 EUR) (33.11 %  de descuento) en el siguiente enlace!
 
-[![Tranjis Games - POC! - Juego de mesa  TR](https://m.media-amazon.com/images/I/31Mt1GacdCL._SL200_.jpg)](https://www.amazon.es/dp/B07PFKDQX8/?tag=tolees-21)
+[![Tranjis Games - POC! - Juego de mesa  TR](https://m.media-amazon.com/images/I/31Mt1GacdCL._SL400_.jpg)](https://www.amazon.es/dp/B07PFKDQX8/?tag=tolees-21)
 
 🔎:
 

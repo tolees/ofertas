@@ -2,7 +2,7 @@
 layout: post
 title: 'Targus Click-in - Funda para el iPad Pro al 60.32 % de descuento'
 date: 2020-01-11 21:06:19
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41VIkE0be9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41VIkE0be9L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.9'
 
 Ahora mismo tienes [Targus Click-in - Funda para el iPad Pro de 10.5"  Color Gris](https://www.amazon.es/dp/B071KNK7RR/?tag=tolees-21) a 11.9 EUR (original: 29.99 EUR) (60.32 %  de descuento) en el siguiente enlace!
 
-[![Targus Click-in - Funda para el iPad Pro](https://images-eu.ssl-images-amazon.com/images/I/41VIkE0be9L._SL200_.jpg)](https://www.amazon.es/dp/B071KNK7RR/?tag=tolees-21)
+[![Targus Click-in - Funda para el iPad Pro](https://images-eu.ssl-images-amazon.com/images/I/41VIkE0be9L._SL400_.jpg)](https://www.amazon.es/dp/B071KNK7RR/?tag=tolees-21)
 
 🔎:
 

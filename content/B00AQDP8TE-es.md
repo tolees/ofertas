@@ -2,7 +2,7 @@
 layout: post
 title: 'L Oréal Paris Pintalabios 24H Permanente con un 37.45 % de descuento'
 date: 2020-02-08 14:08:46
-image: 'https://m.media-amazon.com/images/I/31gN4Ro4ERL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31gN4Ro4ERL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.25'
 
 En este momento está [L Oréal Paris Pintalabios 24H Permanente  Color Nude 111 Permanent Blush](https://www.amazon.es/dp/B00AQDP8TE/?tag=tolees-21) a 7.25 EUR (original: 11.59 EUR) (37.45 %  de descuento) en el siguiente enlace!
 
-[![L Oréal Paris Pintalabios 24H Permanente](https://m.media-amazon.com/images/I/31gN4Ro4ERL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B00AQDP8TE/?tag=tolees-21)
+[![L Oréal Paris Pintalabios 24H Permanente](https://m.media-amazon.com/images/I/31gN4Ro4ERL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B00AQDP8TE/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Magno - Gel de Ducha Black - Energizante al 45.76 % de descuento'
 date: 2020-08-09 15:14:45
-image: 'https://m.media-amazon.com/images/I/31k2HGP+2EL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31k2HGP+2EL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.791428571428572'
 
 Ahora mismo tienes [Magno - Gel de Ducha Black - Energizante con toque cítrico- 1 unidad de 550ml](https://www.amazon.es/dp/B01N6NQ7ZJ/?tag=tolees-21) a 1.6 EUR (original: 2.95 EUR) (45.76 %  de descuento) en el siguiente enlace!
 
-[![Magno - Gel de Ducha Black - Energizante](https://m.media-amazon.com/images/I/31k2HGP+2EL._SL200_.jpg)](https://www.amazon.es/dp/B01N6NQ7ZJ/?tag=tolees-21)
+[![Magno - Gel de Ducha Black - Energizante](https://m.media-amazon.com/images/I/31k2HGP+2EL._SL400_.jpg)](https://www.amazon.es/dp/B01N6NQ7ZJ/?tag=tolees-21)
 
 🔎:
 

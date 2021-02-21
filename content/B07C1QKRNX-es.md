@@ -2,7 +2,7 @@
 layout: post
 title: 'Bird - Anclaje de pared  suelo  punto de al 27.68 % de descuento'
 date: 2020-06-01 10:39:58
-image: 'https://m.media-amazon.com/images/I/51NKOkM70aL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51NKOkM70aL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.01'
 
 Está [Bird - Anclaje de pared  suelo  punto de seguridad para cadena de alta seguridad](https://www.amazon.es/dp/B07C1QKRNX/?tag=tolees-21) con 27.68 de descuento por 13.01 EUR (original: 17.99 EUR) en el siguiente enlace!
 
-[![Bird - Anclaje de pared  suelo  punto de](https://m.media-amazon.com/images/I/51NKOkM70aL._SL200_.jpg)](https://www.amazon.es/dp/B07C1QKRNX/?tag=tolees-21)
+[![Bird - Anclaje de pared  suelo  punto de](https://m.media-amazon.com/images/I/51NKOkM70aL._SL400_.jpg)](https://www.amazon.es/dp/B07C1QKRNX/?tag=tolees-21)
 
 ℹ️:
 

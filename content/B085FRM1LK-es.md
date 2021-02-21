@@ -2,7 +2,7 @@
 layout: post
 title: 'Concise Home and Insect Killer 20w/30w/4 al 70.54 % de descuento'
 date: 2020-07-29 07:30:36
-image: 'https://m.media-amazon.com/images/I/41f+zHujWRL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41f+zHujWRL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.025000000000002'
 
 Está [Concise Home and Insect Killer 20w/30w/40w luz UV atraer a Zap insectos voladores plata  con 2 tubos de regalo](https://www.amazon.es/dp/B085FRM1LK/?tag=tolees-21) con 70.54 de descuento por 24.07 EUR (original: 81.7 EUR) en el siguiente enlace!
 
-[![Concise Home and Insect Killer 20w/30w/4](https://m.media-amazon.com/images/I/41f+zHujWRL._SL200_.jpg)](https://www.amazon.es/dp/B085FRM1LK/?tag=tolees-21)
+[![Concise Home and Insect Killer 20w/30w/4](https://m.media-amazon.com/images/I/41f+zHujWRL._SL400_.jpg)](https://www.amazon.es/dp/B085FRM1LK/?tag=tolees-21)
 
 ℹ️:
 

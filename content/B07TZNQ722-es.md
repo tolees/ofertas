@@ -2,7 +2,7 @@
 layout: post
 title: 'Funko- Pop TV: Black Mirror-Doll w/Evil  al 40.10 % de descuento'
 date: 2020-10-08 08:01:59
-image: 'https://m.media-amazon.com/images/I/31QsuMyOl2L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31QsuMyOl2L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.995'
 
 Ahora mismo tienes [Funko- Pop TV: Black Mirror-Doll w/Evil Chase  Styles May Vary  Collectible Toy  Multicolor  45366 ](https://www.amazon.es/dp/B07TZNQ722/?tag=tolees-21) a 5.99 EUR (original: 10.0 EUR) (40.10 %  de descuento) en el siguiente enlace!
 
-[![Funko- Pop TV: Black Mirror-Doll w/Evil ](https://m.media-amazon.com/images/I/31QsuMyOl2L._SL200_.jpg)](https://www.amazon.es/dp/B07TZNQ722/?tag=tolees-21)
+[![Funko- Pop TV: Black Mirror-Doll w/Evil ](https://m.media-amazon.com/images/I/31QsuMyOl2L._SL400_.jpg)](https://www.amazon.es/dp/B07TZNQ722/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 43.06 % en Revlon ColorStay Maquillaje en Polvo  Me'
 date: 2020-05-12 12:21:22
-image: 'https://m.media-amazon.com/images/I/41kKTzeYSJL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41kKTzeYSJL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.95'
 
 Tienes [Revlon ColorStay Maquillaje en Polvo  Medium ](https://www.amazon.es/dp/B003HLQX00/?tag=tolees-21) con un 43.06 % de descuento con precio de oferta de 5.95 EUR (original: 10.45 EUR) en el siguiente enlace!
 
-[![Revlon ColorStay Maquillaje en Polvo  Me](https://m.media-amazon.com/images/I/41kKTzeYSJL._SL200_.jpg)](https://www.amazon.es/dp/B003HLQX00/?tag=tolees-21)
+[![Revlon ColorStay Maquillaje en Polvo  Me](https://m.media-amazon.com/images/I/41kKTzeYSJL._SL400_.jpg)](https://www.amazon.es/dp/B003HLQX00/?tag=tolees-21)
 
 ℹ️:
 

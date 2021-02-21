@@ -2,7 +2,7 @@
 layout: post
 title: 'Lékué - Recipiente hermético para transp con un 36.31 % de descuento'
 date: 2020-07-01 17:43:58
-image: 'https://m.media-amazon.com/images/I/21xRqJDlBOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21xRqJDlBOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.790000000000001'
 
 En este momento está [Lékué - Recipiente hermético para transportar alimentos  Coral  400 ml](https://www.amazon.es/dp/B07H48FRYL/?tag=tolees-21) a 9.49 EUR (original: 14.9 EUR) (36.31 %  de descuento) en el siguiente enlace!
 
-[![Lékué - Recipiente hermético para transp](https://m.media-amazon.com/images/I/21xRqJDlBOL._SL200_.jpg)](https://www.amazon.es/dp/B07H48FRYL/?tag=tolees-21)
+[![Lékué - Recipiente hermético para transp](https://m.media-amazon.com/images/I/21xRqJDlBOL._SL400_.jpg)](https://www.amazon.es/dp/B07H48FRYL/?tag=tolees-21)
 
 🔎:
 

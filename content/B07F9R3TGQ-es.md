@@ -2,7 +2,7 @@
 layout: post
 title: 'Festina Reloj de Pulsera F20361/1 con un 35.71 % de descuento'
 date: 2020-04-08 05:16:15
-image: 'https://m.media-amazon.com/images/I/41sbzrgvktL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41sbzrgvktL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '122.66'
 
 En este momento está [Festina Reloj de Pulsera F20361/1](https://www.amazon.es/dp/B07F9R3TGQ/?tag=tolees-21) a 121.98 EUR (original: 189.74 EUR) (35.71 %  de descuento) en el siguiente enlace!
 
-[![Festina Reloj de Pulsera F20361/1](https://m.media-amazon.com/images/I/41sbzrgvktL._SL200_.jpg)](https://www.amazon.es/dp/B07F9R3TGQ/?tag=tolees-21)
+[![Festina Reloj de Pulsera F20361/1](https://m.media-amazon.com/images/I/41sbzrgvktL._SL400_.jpg)](https://www.amazon.es/dp/B07F9R3TGQ/?tag=tolees-21)
 
 🔎:
 

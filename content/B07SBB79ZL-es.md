@@ -2,7 +2,7 @@
 layout: post
 title: 'Crocs Swiftwater Expedition Sandal Kids  al 49.98 % de rebaja'
 date: 2020-10-09 08:38:32
-image: 'https://m.media-amazon.com/images/I/31T2hWbap6L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31T2hWbap6L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.5'
 
 Tienes [Crocs Swiftwater Expedition Sandal Kids  Sandalia con Pulsera Unisex Niños  Negro  Black/Slate Grey 0dd   22/23 EU](https://www.amazon.es/dp/B07SBB79ZL/?tag=tolees-21) con precio final de  12.5 EUR (original: 24.99 EUR) (49.98 %  de rebaja) aqui!
 
-[![Crocs Swiftwater Expedition Sandal Kids ](https://m.media-amazon.com/images/I/31T2hWbap6L._SL200_.jpg)](https://www.amazon.es/dp/B07SBB79ZL/?tag=tolees-21)
+[![Crocs Swiftwater Expedition Sandal Kids ](https://m.media-amazon.com/images/I/31T2hWbap6L._SL400_.jpg)](https://www.amazon.es/dp/B07SBB79ZL/?tag=tolees-21)
 
 🔎:
 

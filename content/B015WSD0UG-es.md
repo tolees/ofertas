@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 77.78 % en Bourjois Boite Ronde Sombra de ojos Tono'
 date: 2020-03-09 06:11:02
-image: 'https://m.media-amazon.com/images/I/41q5Ry2-35L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41q5Ry2-35L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.0'
 
 Tienes [Bourjois Boite Ronde Sombra de ojos Tono 1 Ingénude  - 17 gr.](https://www.amazon.es/dp/B015WSD0UG/?tag=tolees-21) con un 77.78 % de descuento con precio de oferta de 2.0 EUR (original: 9.0 EUR) en el siguiente enlace!
 
-[![Bourjois Boite Ronde Sombra de ojos Tono](https://m.media-amazon.com/images/I/41q5Ry2-35L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B015WSD0UG/?tag=tolees-21)
+[![Bourjois Boite Ronde Sombra de ojos Tono](https://m.media-amazon.com/images/I/41q5Ry2-35L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B015WSD0UG/?tag=tolees-21)
 
 ℹ️:
 

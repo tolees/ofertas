@@ -2,7 +2,7 @@
 layout: post
 title: 'Converse Chuck Taylor All Star  Zapatill con un 48.71 % de descuento'
 date: 2020-03-27 17:14:01
-image: 'https://m.media-amazon.com/images/I/41skpjJgZNL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41skpjJgZNL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '44.955'
 
 En este momento está [Converse Chuck Taylor All Star  Zapatillas altas Unisex adulto  Azul  Navy   39.5](https://www.amazon.es/dp/B000QK1W3S/?tag=tolees-21) a 38.46 EUR (original: 74.99 EUR) (48.71 %  de descuento) en el siguiente enlace!
 
-[![Converse Chuck Taylor All Star  Zapatill](https://m.media-amazon.com/images/I/41skpjJgZNL._SL200_.jpg)](https://www.amazon.es/dp/B000QK1W3S/?tag=tolees-21)
+[![Converse Chuck Taylor All Star  Zapatill](https://m.media-amazon.com/images/I/41skpjJgZNL._SL400_.jpg)](https://www.amazon.es/dp/B000QK1W3S/?tag=tolees-21)
 
 🔎:
 

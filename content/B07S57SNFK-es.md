@@ -2,7 +2,7 @@
 layout: post
 title: 'Columbia Ivo Trail  Zapatillas para Homb al 61.03 % de descuento'
 date: 2020-06-23 15:54:03
-image: 'https://m.media-amazon.com/images/I/41VSplg04qL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41VSplg04qL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '38.97'
 
 Ahora mismo tienes [Columbia Ivo Trail  Zapatillas para Hombre  Gris  Monument  Golden Yellow 036   40 EU](https://www.amazon.es/dp/B07S57SNFK/?tag=tolees-21) a 38.97 EUR (original: 99.99 EUR) (61.03 %  de descuento) en el siguiente enlace!
 
-[![Columbia Ivo Trail  Zapatillas para Homb](https://m.media-amazon.com/images/I/41VSplg04qL._SL200_.jpg)](https://www.amazon.es/dp/B07S57SNFK/?tag=tolees-21)
+[![Columbia Ivo Trail  Zapatillas para Homb](https://m.media-amazon.com/images/I/41VSplg04qL._SL400_.jpg)](https://www.amazon.es/dp/B07S57SNFK/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 67.88 % en Cartera Tarjetero Hombre  Cartera Tarjet'
 date: 2020-05-04 10:34:07
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51qyJhVp2bL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51qyJhVp2bL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.49'
 
 Tienes [Cartera Tarjetero Hombre  Cartera Tarjeta de Crédito  Bloqueo RFID  Cartera de Piel Minimalista para Tarjetas y Billetes](https://www.amazon.es/dp/B07MB7YQN5/?tag=tolees-21) con un 67.88 % de descuento con precio de oferta de 8.99 EUR (original: 27.99 EUR) en el siguiente enlace!
 
-[![Cartera Tarjetero Hombre  Cartera Tarjet](https://images-eu.ssl-images-amazon.com/images/I/51qyJhVp2bL._SL200_.jpg)](https://www.amazon.es/dp/B07MB7YQN5/?tag=tolees-21)
+[![Cartera Tarjetero Hombre  Cartera Tarjet](https://images-eu.ssl-images-amazon.com/images/I/51qyJhVp2bL._SL400_.jpg)](https://www.amazon.es/dp/B07MB7YQN5/?tag=tolees-21)
 
 ℹ️:
 

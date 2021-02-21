@@ -2,7 +2,7 @@
 layout: post
 title: '10pcs Juegos de Mesa Dados de Seis Caras al 35.25 % de descuento'
 date: 2020-06-08 13:02:37
-image: 'https://m.media-amazon.com/images/I/41hZLyrgfrL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41hZLyrgfrL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.98'
 
 Está [10pcs Juegos de Mesa Dados de Seis Caras D & D TRPG - Negro](https://www.amazon.es/dp/B01LC71HFQ/?tag=tolees-21) con 35.25 de descuento por 6.98 EUR (original: 10.78 EUR) en el siguiente enlace!
 
-[![10pcs Juegos de Mesa Dados de Seis Caras](https://m.media-amazon.com/images/I/41hZLyrgfrL._SL200_.jpg)](https://www.amazon.es/dp/B01LC71HFQ/?tag=tolees-21)
+[![10pcs Juegos de Mesa Dados de Seis Caras](https://m.media-amazon.com/images/I/41hZLyrgfrL._SL400_.jpg)](https://www.amazon.es/dp/B01LC71HFQ/?tag=tolees-21)
 
 ℹ️:
 

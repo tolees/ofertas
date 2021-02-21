@@ -2,7 +2,7 @@
 layout: post
 title: 'Rage 2 Collectors Edition al 53.88 % de descuento'
 date: 2020-08-22 08:28:32
-image: 'https://m.media-amazon.com/images/I/51nDZfKNGSL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51nDZfKNGSL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '64.9875'
 
 Está [Rage 2 Collectors Edition](https://www.amazon.es/dp/B07GBJF2W6/?tag=tolees-21) con 53.88 de descuento por 59.95 EUR (original: 129.99 EUR) en el siguiente enlace!
 
-[![Rage 2 Collectors Edition](https://m.media-amazon.com/images/I/51nDZfKNGSL._SL200_.jpg)](https://www.amazon.es/dp/B07GBJF2W6/?tag=tolees-21)
+[![Rage 2 Collectors Edition](https://m.media-amazon.com/images/I/51nDZfKNGSL._SL400_.jpg)](https://www.amazon.es/dp/B07GBJF2W6/?tag=tolees-21)
 
 ℹ️:
 

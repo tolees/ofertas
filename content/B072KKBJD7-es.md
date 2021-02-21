@@ -2,7 +2,7 @@
 layout: post
 title: 'PUMA 074892 01 Bolsa Mediana  Unisex Adu al 73.26 % de descuento'
 date: 2020-06-22 22:33:03
-image: 'https://m.media-amazon.com/images/I/4133oMmqhQL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/4133oMmqhQL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.375714285714288'
 
 Ahora mismo tienes [PUMA 074892 01 Bolsa Mediana  Unisex Adulto  Negro  Talla única](https://www.amazon.es/dp/B072KKBJD7/?tag=tolees-21) a 8.01 EUR (original: 29.95 EUR) (73.26 %  de descuento) en el siguiente enlace!
 
-[![PUMA 074892 01 Bolsa Mediana  Unisex Adu](https://m.media-amazon.com/images/I/4133oMmqhQL._SL200_.jpg)](https://www.amazon.es/dp/B072KKBJD7/?tag=tolees-21)
+[![PUMA 074892 01 Bolsa Mediana  Unisex Adu](https://m.media-amazon.com/images/I/4133oMmqhQL._SL400_.jpg)](https://www.amazon.es/dp/B072KKBJD7/?tag=tolees-21)
 
 🔎:
 

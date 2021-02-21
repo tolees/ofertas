@@ -2,7 +2,7 @@
 layout: post
 title: 'Esprit 119EE1G007 Torera  Negro  Black 0 al 55.01 % de descuento'
 date: 2020-07-28 11:40:31
-image: 'https://m.media-amazon.com/images/I/41xKW-s97qL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41xKW-s97qL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.990000000000002'
 
 Ahora mismo tienes [Esprit 119EE1G007 Torera  Negro  Black 001   M para Mujer](https://www.amazon.es/dp/B07XVQLN2W/?tag=tolees-21) a 22.49 EUR (original: 49.99 EUR) (55.01 %  de descuento) en el siguiente enlace!
 
-[![Esprit 119EE1G007 Torera  Negro  Black 0](https://m.media-amazon.com/images/I/41xKW-s97qL._SL200_.jpg)](https://www.amazon.es/dp/B07XVQLN2W/?tag=tolees-21)
+[![Esprit 119EE1G007 Torera  Negro  Black 0](https://m.media-amazon.com/images/I/41xKW-s97qL._SL400_.jpg)](https://www.amazon.es/dp/B07XVQLN2W/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Nelly Espuma para Pelo - 12 Recipientes  al 47.25 % de rebaja'
 date: 2020-03-19 23:10:52
-image: 'https://m.media-amazon.com/images/I/311BxdEX4yL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/311BxdEX4yL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '27.6'
 
 Tienes [Nelly Espuma para Pelo - 12 Recipientes de 300 ml - Total: 3600 ml](https://www.amazon.es/dp/B0784QSVJS/?tag=tolees-21) con precio final de  27.6 EUR (original: 52.32 EUR) (47.25 %  de rebaja) aqui!
 
-[![Nelly Espuma para Pelo - 12 Recipientes ](https://m.media-amazon.com/images/I/311BxdEX4yL._SL200_.jpg)](https://www.amazon.es/dp/B0784QSVJS/?tag=tolees-21)
+[![Nelly Espuma para Pelo - 12 Recipientes ](https://m.media-amazon.com/images/I/311BxdEX4yL._SL400_.jpg)](https://www.amazon.es/dp/B0784QSVJS/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Micaderm Toallitas para Bebe - 72 unidad al 32.43 % de rebaja'
 date: 2020-06-24 06:08:56
-image: 'https://m.media-amazon.com/images/I/511rrMvIz5L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/511rrMvIz5L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.0025'
 
 Tienes [Micaderm Toallitas para Bebe - 72 unidades](https://www.amazon.es/dp/B01LZNWK4D/?tag=tolees-21) con precio final de  1.0 EUR (original: 1.48 EUR) (32.43 %  de rebaja) aqui!
 
-[![Micaderm Toallitas para Bebe - 72 unidad](https://m.media-amazon.com/images/I/511rrMvIz5L._SL200_.jpg)](https://www.amazon.es/dp/B01LZNWK4D/?tag=tolees-21)
+[![Micaderm Toallitas para Bebe - 72 unidad](https://m.media-amazon.com/images/I/511rrMvIz5L._SL400_.jpg)](https://www.amazon.es/dp/B01LZNWK4D/?tag=tolees-21)
 
 🔎:
 

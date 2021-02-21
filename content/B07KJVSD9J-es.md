@@ -2,7 +2,7 @@
 layout: post
 title: 'Columbia Peakfreak Venture S II Mid  Bot al 45.60 % de rebaja'
 date: 2020-04-13 15:58:27
-image: 'https://m.media-amazon.com/images/I/41ilx5mOvaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ilx5mOvaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '65.27'
 
 Tienes [Columbia Peakfreak Venture S II Mid  Botas de Senderismo para Hombre  Negro  Black  Dark Ado 010   45 EU](https://www.amazon.es/dp/B07KJVSD9J/?tag=tolees-21) con precio final de  65.27 EUR (original: 119.99 EUR) (45.60 %  de rebaja) aqui!
 
-[![Columbia Peakfreak Venture S II Mid  Bot](https://m.media-amazon.com/images/I/41ilx5mOvaL._SL200_.jpg)](https://www.amazon.es/dp/B07KJVSD9J/?tag=tolees-21)
+[![Columbia Peakfreak Venture S II Mid  Bot](https://m.media-amazon.com/images/I/41ilx5mOvaL._SL400_.jpg)](https://www.amazon.es/dp/B07KJVSD9J/?tag=tolees-21)
 
 🔎:
 

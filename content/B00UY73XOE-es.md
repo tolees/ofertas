@@ -2,7 +2,7 @@
 layout: post
 title: 'ieGeek Autoradio Bluetooth  4×60W Llamad con un 45.02 % de descuento'
 date: 2020-05-10 14:40:56
-image: 'https://m.media-amazon.com/images/I/41JB6qPZnnL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41JB6qPZnnL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '34.98'
 
 En este momento está [ieGeek Autoradio Bluetooth  4×60W Llamadas Manos Libres  Universal 1 DIN Radio de Coche  7 Colores LED  Soporta Estéreo RDS/MP3/FM/AM/SD/AUX/RST/Dual USB/Pantalla de Reloj Remote Control](https://www.amazon.es/dp/B00UY73XOE/?tag=tolees-21) a 32.98 EUR (original: 59.98 EUR) (45.02 %  de descuento) en el siguiente enlace!
 
-[![ieGeek Autoradio Bluetooth  4×60W Llamad](https://m.media-amazon.com/images/I/41JB6qPZnnL._SL200_.jpg)](https://www.amazon.es/dp/B00UY73XOE/?tag=tolees-21)
+[![ieGeek Autoradio Bluetooth  4×60W Llamad](https://m.media-amazon.com/images/I/41JB6qPZnnL._SL400_.jpg)](https://www.amazon.es/dp/B00UY73XOE/?tag=tolees-21)
 
 🔎:
 

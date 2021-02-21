@@ -2,7 +2,7 @@
 layout: post
 title: 'Elizabeth Arden Visible Difference hydra con un 27.85 % de descuento'
 date: 2020-02-24 13:08:21
-image: 'https://m.media-amazon.com/images/I/41Vbm49XTwL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Vbm49XTwL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.625'
 
 En este momento está [Elizabeth Arden Visible Difference hydrating complex cream 75ml](https://www.amazon.es/dp/B001B1QSF8/?tag=tolees-21) a 13.5 EUR (original: 18.71 EUR) (27.85 %  de descuento) en el siguiente enlace!
 
-[![Elizabeth Arden Visible Difference hydra](https://m.media-amazon.com/images/I/41Vbm49XTwL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B001B1QSF8/?tag=tolees-21)
+[![Elizabeth Arden Visible Difference hydra](https://m.media-amazon.com/images/I/41Vbm49XTwL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B001B1QSF8/?tag=tolees-21)
 
 🔎:
 

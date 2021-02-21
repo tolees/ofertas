@@ -2,7 +2,7 @@
 layout: post
 title: 'Durex Mutual Climax Preservativos 12 Uni al 32.60 % de descuento'
 date: 2020-09-03 14:00:50
-image: 'https://m.media-amazon.com/images/I/41EQZQpsMPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41EQZQpsMPL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.2'
 
 Está [Durex Mutual Climax Preservativos 12 Unidades](https://www.amazon.es/dp/B01LZ6RL1F/?tag=tolees-21) con 32.60 de descuento por 9.2 EUR (original: 13.65 EUR) en el siguiente enlace!
 
-[![Durex Mutual Climax Preservativos 12 Uni](https://m.media-amazon.com/images/I/41EQZQpsMPL._SL200_.jpg)](https://www.amazon.es/dp/B01LZ6RL1F/?tag=tolees-21)
+[![Durex Mutual Climax Preservativos 12 Uni](https://m.media-amazon.com/images/I/41EQZQpsMPL._SL400_.jpg)](https://www.amazon.es/dp/B01LZ6RL1F/?tag=tolees-21)
 
 ℹ️:
 

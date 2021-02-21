@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s 501 Short Long Pantalones Cortos  al 36.38 % de descuento'
 date: 2020-06-16 16:01:23
-image: 'https://m.media-amazon.com/images/I/418xKHdancL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/418xKHdancL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '34.99'
 
 Ahora mismo tienes [Levi s 501 Short Long Pantalones Cortos  Blanco  Beg Two Differ 0017   W26  Talla del Fabricante: 26  para Mujer](https://www.amazon.es/dp/B07TV7MVXW/?tag=tolees-21) a 34.99 EUR (original: 55.0 EUR) (36.38 %  de descuento) en el siguiente enlace!
 
-[![Levi s 501 Short Long Pantalones Cortos ](https://m.media-amazon.com/images/I/418xKHdancL._SL200_.jpg)](https://www.amazon.es/dp/B07TV7MVXW/?tag=tolees-21)
+[![Levi s 501 Short Long Pantalones Cortos ](https://m.media-amazon.com/images/I/418xKHdancL._SL400_.jpg)](https://www.amazon.es/dp/B07TV7MVXW/?tag=tolees-21)
 
 🔎:
 

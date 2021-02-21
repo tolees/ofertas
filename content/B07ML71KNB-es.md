@@ -2,7 +2,7 @@
 layout: post
 title: 'RECCI - Topper Colchón de Espuma 140x200 al 26.67 % de descuento'
 date: 2020-08-02 04:30:26
-image: 'https://m.media-amazon.com/images/I/41K9djOlH0L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41K9djOlH0L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '109.99'
 
 Está [RECCI - Topper Colchón de Espuma 140x200cm  Topper Viscoelástica con Alivio de la Presión  Sobrecolchón Hipoalergénico de Bambú - Extraíble y Lavable en Lavadora  CertiPUR-EU  140 x 200 x 6cm ](https://www.amazon.es/dp/B07ML71KNB/?tag=tolees-21) con 26.67 de descuento por 109.99 EUR (original: 149.99 EUR) en el siguiente enlace!
 
-[![RECCI - Topper Colchón de Espuma 140x200](https://m.media-amazon.com/images/I/41K9djOlH0L._SL200_.jpg)](https://www.amazon.es/dp/B07ML71KNB/?tag=tolees-21)
+[![RECCI - Topper Colchón de Espuma 140x200](https://m.media-amazon.com/images/I/41K9djOlH0L._SL400_.jpg)](https://www.amazon.es/dp/B07ML71KNB/?tag=tolees-21)
 
 ℹ️:
 

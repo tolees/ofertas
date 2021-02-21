@@ -2,7 +2,7 @@
 layout: post
 title: 'Samsung HS130 - Auriculares de botón  co al 62.90 % de descuento'
 date: 2020-09-11 14:50:47
-image: 'https://m.media-amazon.com/images/I/31ZQ4oFDjGL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31ZQ4oFDjGL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.77375'
 
 Ahora mismo tienes [Samsung HS130 - Auriculares de botón  con micrófono  control remoto integrado   azul- Versión española](https://www.amazon.es/dp/B00CUJQ7UG/?tag=tolees-21) a 6.66 EUR (original: 17.95 EUR) (62.90 %  de descuento) en el siguiente enlace!
 
-[![Samsung HS130 - Auriculares de botón  co](https://m.media-amazon.com/images/I/31ZQ4oFDjGL._SL200_.jpg)](https://www.amazon.es/dp/B00CUJQ7UG/?tag=tolees-21)
+[![Samsung HS130 - Auriculares de botón  co](https://m.media-amazon.com/images/I/31ZQ4oFDjGL._SL400_.jpg)](https://www.amazon.es/dp/B00CUJQ7UG/?tag=tolees-21)
 
 🔎:
 

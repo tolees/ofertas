@@ -2,7 +2,7 @@
 layout: post
 title: 'HengBO Barbacoa Grill Eléctrica de Mesa  al 54.96 % de rebaja'
 date: 2020-06-18 17:50:23
-image: 'https://m.media-amazon.com/images/I/51zVwvYqcfL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51zVwvYqcfL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '49.99'
 
 Tienes [HengBO Barbacoa Grill Eléctrica de Mesa  Superficie de Grill 44 x 22 cm  2000W  Negro](https://www.amazon.es/dp/B07Z1JBZ4L/?tag=tolees-21) con precio final de  49.99 EUR (original: 110.99 EUR) (54.96 %  de rebaja) aqui!
 
-[![HengBO Barbacoa Grill Eléctrica de Mesa ](https://m.media-amazon.com/images/I/51zVwvYqcfL._SL200_.jpg)](https://www.amazon.es/dp/B07Z1JBZ4L/?tag=tolees-21)
+[![HengBO Barbacoa Grill Eléctrica de Mesa ](https://m.media-amazon.com/images/I/51zVwvYqcfL._SL400_.jpg)](https://www.amazon.es/dp/B07Z1JBZ4L/?tag=tolees-21)
 
 🔎:
 

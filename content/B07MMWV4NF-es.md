@@ -2,7 +2,7 @@
 layout: post
 title: 'KangaROOS Kanga X 5000  Zapatillas Unise al 58.65 % de rebaja'
 date: 2020-01-29 13:38:07
-image: 'https://m.media-amazon.com/images/I/41jFuzsbWtL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41jFuzsbWtL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.52'
 
 Tienes [KangaROOS Kanga X 5000  Zapatillas Unisex Niños  Jet Black/White 5012  30 EU](https://www.amazon.es/dp/B07MMWV4NF/?tag=tolees-21) con precio final de  16.52 EUR (original: 39.95 EUR) (58.65 %  de rebaja) aqui!
 
-[![KangaROOS Kanga X 5000  Zapatillas Unise](https://m.media-amazon.com/images/I/41jFuzsbWtL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07MMWV4NF/?tag=tolees-21)
+[![KangaROOS Kanga X 5000  Zapatillas Unise](https://m.media-amazon.com/images/I/41jFuzsbWtL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07MMWV4NF/?tag=tolees-21)
 
 🔎:
 

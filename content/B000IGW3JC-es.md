@@ -2,7 +2,7 @@
 layout: post
 title: 'Varta ACCU - Pack de 4 pilas AAA recarga con un 34.02 % de descuento'
 date: 2020-01-22 19:10:38
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51kG8Ut0J5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51kG8Ut0J5L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.440000000000001'
 
 En este momento está [Varta ACCU - Pack de 4 pilas AAA recargables  NiMH  1000 mAh  precargadas ](https://www.amazon.es/dp/B000IGW3JC/?tag=tolees-21) a 9.89 EUR (original: 14.99 EUR) (34.02 %  de descuento) en el siguiente enlace!
 
-[![Varta ACCU - Pack de 4 pilas AAA recarga](https://images-eu.ssl-images-amazon.com/images/I/51kG8Ut0J5L._SL200_.jpg)](https://www.amazon.es/dp/B000IGW3JC/?tag=tolees-21)
+[![Varta ACCU - Pack de 4 pilas AAA recarga](https://images-eu.ssl-images-amazon.com/images/I/51kG8Ut0J5L._SL400_.jpg)](https://www.amazon.es/dp/B000IGW3JC/?tag=tolees-21)
 
 🔎:
 

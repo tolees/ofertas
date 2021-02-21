@@ -2,7 +2,7 @@
 layout: post
 title: 'Champú de manteca de karité de Shea Mois con un 33.46 % de descuento'
 date: 2020-02-22 13:02:22
-image: 'https://m.media-amazon.com/images/I/41ajXxsKPKL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ajXxsKPKL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.95'
 
 En este momento está [Champú de manteca de karité de Shea Moisture  379 ml .](https://www.amazon.es/dp/B01HOD3W8C/?tag=tolees-21) a 8.95 EUR (original: 13.45 EUR) (33.46 %  de descuento) en el siguiente enlace!
 
-[![Champú de manteca de karité de Shea Mois](https://m.media-amazon.com/images/I/41ajXxsKPKL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01HOD3W8C/?tag=tolees-21)
+[![Champú de manteca de karité de Shea Mois](https://m.media-amazon.com/images/I/41ajXxsKPKL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01HOD3W8C/?tag=tolees-21)
 
 🔎:
 

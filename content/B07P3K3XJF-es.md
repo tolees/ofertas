@@ -2,7 +2,7 @@
 layout: post
 title: 'Superdry Core Sport Graphic tee Top de D con un 34.88 % de descuento'
 date: 2020-06-01 10:15:50
-image: 'https://m.media-amazon.com/images/I/31WCNVBbOTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31WCNVBbOTL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.53'
 
 En este momento está [Superdry Core Sport Graphic tee Top de Deporte  Negro  Black 02a   XS para Hombre](https://www.amazon.es/dp/B07P3K3XJF/?tag=tolees-21) a 19.53 EUR (original: 29.99 EUR) (34.88 %  de descuento) en el siguiente enlace!
 
-[![Superdry Core Sport Graphic tee Top de D](https://m.media-amazon.com/images/I/31WCNVBbOTL._SL200_.jpg)](https://www.amazon.es/dp/B07P3K3XJF/?tag=tolees-21)
+[![Superdry Core Sport Graphic tee Top de D](https://m.media-amazon.com/images/I/31WCNVBbOTL._SL400_.jpg)](https://www.amazon.es/dp/B07P3K3XJF/?tag=tolees-21)
 
 🔎:
 

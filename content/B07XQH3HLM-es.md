@@ -2,7 +2,7 @@
 layout: post
 title: 'Montse Interiors  S.L. Cuadrante o Cojín con un 41.30 % de descuento'
 date: 2020-01-06 22:31:46
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31NAEu3XypL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31NAEu3XypL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.95'
 
 En este momento está [Montse Interiors  S.L. Cuadrante o Cojín Decoración Terciopèlo en Rayas 45x45 + Relleno  VARENNA Antracita ](https://www.amazon.es/dp/B07XQH3HLM/?tag=tolees-21) a 9.95 EUR (original: 16.95 EUR) (41.30 %  de descuento) en el siguiente enlace!
 
-[![Montse Interiors  S.L. Cuadrante o Cojín](https://images-eu.ssl-images-amazon.com/images/I/31NAEu3XypL._SL200_.jpg)](https://www.amazon.es/dp/B07XQH3HLM/?tag=tolees-21)
+[![Montse Interiors  S.L. Cuadrante o Cojín](https://images-eu.ssl-images-amazon.com/images/I/31NAEu3XypL._SL400_.jpg)](https://www.amazon.es/dp/B07XQH3HLM/?tag=tolees-21)
 
 🔎:
 

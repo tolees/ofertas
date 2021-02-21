@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour UA Charged Assert 8 LTD  Za al 46.38 % de descuento'
 date: 2020-06-25 03:16:22
-image: 'https://m.media-amazon.com/images/I/31ltNe2R4pL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31ltNe2R4pL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '41.33'
 
 Ahora mismo tienes [Under Armour UA Charged Assert 8 LTD  Zapatillas para Correr  Calzado Deportivo para Hombre  Negro  Black/White/White   42 EU](https://www.amazon.es/dp/B07RL62ZNQ/?tag=tolees-21) a 37.51 EUR (original: 69.95 EUR) (46.38 %  de descuento) en el siguiente enlace!
 
-[![Under Armour UA Charged Assert 8 LTD  Za](https://m.media-amazon.com/images/I/31ltNe2R4pL._SL200_.jpg)](https://www.amazon.es/dp/B07RL62ZNQ/?tag=tolees-21)
+[![Under Armour UA Charged Assert 8 LTD  Za](https://m.media-amazon.com/images/I/31ltNe2R4pL._SL400_.jpg)](https://www.amazon.es/dp/B07RL62ZNQ/?tag=tolees-21)
 
 🔎:
 

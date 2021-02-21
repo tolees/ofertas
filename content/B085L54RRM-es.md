@@ -2,7 +2,7 @@
 layout: post
 title: 'B Blesiya Decoración De Paisaje De Vivar al 44.44 % de rebaja'
 date: 2020-05-22 17:10:59
-image: 'https://m.media-amazon.com/images/I/4165klwL3qL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/4165klwL3qL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.99'
 
 Tienes [B Blesiya Decoración De Paisaje De Vivarium Reptil Box Holder Adorno Plantas De Hojas De Bambú Falsas - S](https://www.amazon.es/dp/B085L54RRM/?tag=tolees-21) con precio final de  8.99 EUR (original: 16.18 EUR) (44.44 %  de rebaja) aqui!
 
-[![B Blesiya Decoración De Paisaje De Vivar](https://m.media-amazon.com/images/I/4165klwL3qL._SL200_.jpg)](https://www.amazon.es/dp/B085L54RRM/?tag=tolees-21)
+[![B Blesiya Decoración De Paisaje De Vivar](https://m.media-amazon.com/images/I/4165klwL3qL._SL400_.jpg)](https://www.amazon.es/dp/B085L54RRM/?tag=tolees-21)
 
 🔎:
 

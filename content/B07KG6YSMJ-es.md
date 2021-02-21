@@ -2,7 +2,7 @@
 layout: post
 title: 'PUMA Ralph Sampson LO  Zapatillas Unisex al 46.97 % de descuento'
 date: 2020-08-14 02:15:05
-image: 'https://m.media-amazon.com/images/I/41m4f1n7huL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41m4f1n7huL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '39.699999999999996'
 
 Está [PUMA Ralph Sampson LO  Zapatillas Unisex Adulto  Blanco White Peacoat White  48.5 EU](https://www.amazon.es/dp/B07KG6YSMJ/?tag=tolees-21) con 46.97 de descuento por 42.4 EUR (original: 79.95 EUR) en el siguiente enlace!
 
-[![PUMA Ralph Sampson LO  Zapatillas Unisex](https://m.media-amazon.com/images/I/41m4f1n7huL._SL200_.jpg)](https://www.amazon.es/dp/B07KG6YSMJ/?tag=tolees-21)
+[![PUMA Ralph Sampson LO  Zapatillas Unisex](https://m.media-amazon.com/images/I/41m4f1n7huL._SL400_.jpg)](https://www.amazon.es/dp/B07KG6YSMJ/?tag=tolees-21)
 
 ℹ️:
 

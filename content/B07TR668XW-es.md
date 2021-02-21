@@ -2,7 +2,7 @@
 layout: post
 title: 'Vans Ward Suede/Canvas  Zapatillas para  con un 58.73 % de descuento'
 date: 2020-03-24 14:03:56
-image: 'https://m.media-amazon.com/images/I/411goE0DT4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/411goE0DT4L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '30.95'
 
 En este momento está [Vans Ward Suede/Canvas  Zapatillas para Hombre  Negro   Otw Scatter  Obsidian/White Sym   44 EU](https://www.amazon.es/dp/B07TR668XW/?tag=tolees-21) a 30.95 EUR (original: 75.0 EUR) (58.73 %  de descuento) en el siguiente enlace!
 
-[![Vans Ward Suede/Canvas  Zapatillas para ](https://m.media-amazon.com/images/I/411goE0DT4L._SL200_.jpg)](https://www.amazon.es/dp/B07TR668XW/?tag=tolees-21)
+[![Vans Ward Suede/Canvas  Zapatillas para ](https://m.media-amazon.com/images/I/411goE0DT4L._SL400_.jpg)](https://www.amazon.es/dp/B07TR668XW/?tag=tolees-21)
 
 🔎:
 

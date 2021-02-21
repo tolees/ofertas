@@ -2,7 +2,7 @@
 layout: post
 title: 'Perla de agua dulce genuina 925 hecho a  al 25.00 % de rebaja'
 date: 2020-01-14 09:22:54
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31uByyZ8YyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31uByyZ8YyL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.0'
 
 Tienes [Perla de agua dulce genuina 925 hecho a mano de plata esterlina sólida anillo tamaño 4 a 29 ES](https://www.amazon.es/dp/B07LD94ZBG/?tag=tolees-21) con precio final de  18 EUR (original: 24 EUR) (25.00 %  de rebaja) aqui!
 
-[![Perla de agua dulce genuina 925 hecho a ](https://images-eu.ssl-images-amazon.com/images/I/31uByyZ8YyL._SL200_.jpg)](https://www.amazon.es/dp/B07LD94ZBG/?tag=tolees-21)
+[![Perla de agua dulce genuina 925 hecho a ](https://images-eu.ssl-images-amazon.com/images/I/31uByyZ8YyL._SL400_.jpg)](https://www.amazon.es/dp/B07LD94ZBG/?tag=tolees-21)
 
 🔎:
 

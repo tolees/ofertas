@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 39.60 % en Hama Cubo Cartón 10000 Perlas'
 date: 2020-08-16 23:03:19
-image: 'https://m.media-amazon.com/images/I/51pkdksn86L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51pkdksn86L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.45'
 
 Tienes [Hama Cubo Cartón 10000 Perlas](https://www.amazon.es/dp/B00005LADI/?tag=tolees-21) con un 39.60 % de descuento con precio de oferta de 15.45 EUR (original: 25.58 EUR) en el siguiente enlace!
 
-[![Hama Cubo Cartón 10000 Perlas](https://m.media-amazon.com/images/I/51pkdksn86L._SL200_.jpg)](https://www.amazon.es/dp/B00005LADI/?tag=tolees-21)
+[![Hama Cubo Cartón 10000 Perlas](https://m.media-amazon.com/images/I/51pkdksn86L._SL400_.jpg)](https://www.amazon.es/dp/B00005LADI/?tag=tolees-21)
 
 ℹ️:
 

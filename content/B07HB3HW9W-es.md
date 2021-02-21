@@ -2,7 +2,7 @@
 layout: post
 title: 'Pop! Modern Family - Figura de Vinilo Cl al 55.92 % de rebaja'
 date: 2020-02-01 12:53:11
-image: 'https://m.media-amazon.com/images/I/41xMSsYWPSL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41xMSsYWPSL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.03'
 
 Tienes [Pop! Modern Family - Figura de Vinilo Claire](https://www.amazon.es/dp/B07HB3HW9W/?tag=tolees-21) con precio final de  7.03 EUR (original: 15.95 EUR) (55.92 %  de rebaja) aqui!
 
-[![Pop! Modern Family - Figura de Vinilo Cl](https://m.media-amazon.com/images/I/41xMSsYWPSL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07HB3HW9W/?tag=tolees-21)
+[![Pop! Modern Family - Figura de Vinilo Cl](https://m.media-amazon.com/images/I/41xMSsYWPSL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07HB3HW9W/?tag=tolees-21)
 
 🔎:
 

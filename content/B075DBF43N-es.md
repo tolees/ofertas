@@ -2,7 +2,7 @@
 layout: post
 title: 'Epson EcoTank ET-7700 - Impresora  color con un 42.41 % de descuento'
 date: 2020-08-02 15:21:29
-image: 'https://m.media-amazon.com/images/I/41L-B6V23WL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41L-B6V23WL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '367.04'
 
 En este momento está [Epson EcoTank ET-7700 - Impresora  color negro](https://www.amazon.es/dp/B075DBF43N/?tag=tolees-21) a 349.0 EUR (original: 605.99 EUR) (42.41 %  de descuento) en el siguiente enlace!
 
-[![Epson EcoTank ET-7700 - Impresora  color](https://m.media-amazon.com/images/I/41L-B6V23WL._SL200_.jpg)](https://www.amazon.es/dp/B075DBF43N/?tag=tolees-21)
+[![Epson EcoTank ET-7700 - Impresora  color](https://m.media-amazon.com/images/I/41L-B6V23WL._SL400_.jpg)](https://www.amazon.es/dp/B075DBF43N/?tag=tolees-21)
 
 🔎:
 

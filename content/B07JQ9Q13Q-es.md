@@ -2,7 +2,7 @@
 layout: post
 title: 'Precision Elite 2.0 con un 40.00 % de descuento'
 date: 2020-01-12 20:43:41
-image: 'https://images-eu.ssl-images-amazon.com/images/I/215QpBeh5qL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/215QpBeh5qL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '36.64'
 
 En este momento está [Precision Elite 2.0](https://www.amazon.es/dp/B07JQ9Q13Q/?tag=tolees-21) a 35.94 EUR (original: 59.9 EUR) (40.00 %  de descuento) en el siguiente enlace!
 
-[![Precision Elite 2.0](https://images-eu.ssl-images-amazon.com/images/I/215QpBeh5qL._SL200_.jpg)](https://www.amazon.es/dp/B07JQ9Q13Q/?tag=tolees-21)
+[![Precision Elite 2.0](https://images-eu.ssl-images-amazon.com/images/I/215QpBeh5qL._SL400_.jpg)](https://www.amazon.es/dp/B07JQ9Q13Q/?tag=tolees-21)
 
 🔎:
 

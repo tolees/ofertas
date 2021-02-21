@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 40.04 % en Bourjois Eye Primer Base de Maquielle To'
 date: 2020-03-25 12:54:49
-image: 'https://m.media-amazon.com/images/I/31-nDeX1C7L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31-nDeX1C7L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.9'
 
 Tienes [Bourjois Eye Primer Base de Maquielle Tono 1- 6ml](https://www.amazon.es/dp/B01MQX1NJ0/?tag=tolees-21) con un 40.04 % de descuento con precio de oferta de 5.9 EUR (original: 9.84 EUR) en el siguiente enlace!
 
-[![Bourjois Eye Primer Base de Maquielle To](https://m.media-amazon.com/images/I/31-nDeX1C7L._SL200_.jpg)](https://www.amazon.es/dp/B01MQX1NJ0/?tag=tolees-21)
+[![Bourjois Eye Primer Base de Maquielle To](https://m.media-amazon.com/images/I/31-nDeX1C7L._SL400_.jpg)](https://www.amazon.es/dp/B01MQX1NJ0/?tag=tolees-21)
 
 ℹ️:
 

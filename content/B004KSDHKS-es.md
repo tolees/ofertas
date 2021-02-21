@@ -2,7 +2,7 @@
 layout: post
 title: 'Seiko Reloj Analógico para Hombre de Ene al 56.09 % de rebaja'
 date: 2020-05-05 22:43:39
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51Imv006FnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Imv006FnL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '101'
 
 Tienes [Seiko Reloj Analógico para Hombre de Energía Solar con Correa en Tela SNE095P2](https://www.amazon.es/dp/B004KSDHKS/?tag=tolees-21) con precio final de  101 EUR (original: 230 EUR) (56.09 %  de rebaja) aqui!
 
-[![Seiko Reloj Analógico para Hombre de Ene](https://images-eu.ssl-images-amazon.com/images/I/51Imv006FnL._SL200_.jpg)](https://www.amazon.es/dp/B004KSDHKS/?tag=tolees-21)
+[![Seiko Reloj Analógico para Hombre de Ene](https://images-eu.ssl-images-amazon.com/images/I/51Imv006FnL._SL400_.jpg)](https://www.amazon.es/dp/B004KSDHKS/?tag=tolees-21)
 
 🔎:
 

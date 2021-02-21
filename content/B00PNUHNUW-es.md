@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 44.70 % en adidas Superstar Foundation Zapatillas  '
 date: 2020-06-02 07:20:40
-image: 'https://m.media-amazon.com/images/I/31OR+lSelhL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31OR+lSelhL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '56.135'
 
 Tienes [adidas Superstar Foundation Zapatillas   Blanco  White B27136   46 2/3 EU](https://www.amazon.es/dp/B00PNUHNUW/?tag=tolees-21) con un 44.70 % de descuento con precio de oferta de 55.27 EUR (original: 99.95 EUR) en el siguiente enlace!
 
-[![adidas Superstar Foundation Zapatillas  ](https://m.media-amazon.com/images/I/31OR+lSelhL._SL200_.jpg)](https://www.amazon.es/dp/B00PNUHNUW/?tag=tolees-21)
+[![adidas Superstar Foundation Zapatillas  ](https://m.media-amazon.com/images/I/31OR+lSelhL._SL400_.jpg)](https://www.amazon.es/dp/B00PNUHNUW/?tag=tolees-21)
 
 ℹ️:
 

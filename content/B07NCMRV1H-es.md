@@ -2,7 +2,7 @@
 layout: post
 title: 'Juego de 2 maletas rígidas 55-69 Movom T al 46.41 % de descuento'
 date: 2020-08-09 17:50:24
-image: 'https://m.media-amazon.com/images/I/41MPx7gbcaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41MPx7gbcaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '63.90666666666667'
 
 Está [Juego de 2 maletas rígidas 55-69 Movom Turbo Rojas](https://www.amazon.es/dp/B07NCMRV1H/?tag=tolees-21) con 46.41 de descuento por 63.77 EUR (original: 119.0 EUR) en el siguiente enlace!
 
-[![Juego de 2 maletas rígidas 55-69 Movom T](https://m.media-amazon.com/images/I/41MPx7gbcaL._SL200_.jpg)](https://www.amazon.es/dp/B07NCMRV1H/?tag=tolees-21)
+[![Juego de 2 maletas rígidas 55-69 Movom T](https://m.media-amazon.com/images/I/41MPx7gbcaL._SL400_.jpg)](https://www.amazon.es/dp/B07NCMRV1H/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'BRA Efficient - Plancha asador liso  45  al 26.58 % de rebaja'
 date: 2020-09-16 16:47:40
-image: 'https://m.media-amazon.com/images/I/41Ls2WECXEL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Ls2WECXEL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '51.46333333333334'
 
 Tienes [BRA Efficient - Plancha asador liso  45 cm  aluminio fundido con antiadherente Teflon Platinum Plus](https://www.amazon.es/dp/B003TOL0J4/?tag=tolees-21) con precio final de  53.39 EUR (original: 72.72 EUR) (26.58 %  de rebaja) aqui!
 
-[![BRA Efficient - Plancha asador liso  45 ](https://m.media-amazon.com/images/I/41Ls2WECXEL._SL200_.jpg)](https://www.amazon.es/dp/B003TOL0J4/?tag=tolees-21)
+[![BRA Efficient - Plancha asador liso  45 ](https://m.media-amazon.com/images/I/41Ls2WECXEL._SL400_.jpg)](https://www.amazon.es/dp/B003TOL0J4/?tag=tolees-21)
 
 🔎:
 

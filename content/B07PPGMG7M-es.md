@@ -2,7 +2,7 @@
 layout: post
 title: 'Axe Desodorante Black Pack Duplo Ahorro  al 41.81 % de descuento'
 date: 2020-05-05 11:05:18
-image: 'https://m.media-amazon.com/images/I/41SzRBZrS9L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41SzRBZrS9L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.98'
 
 Ahora mismo tienes [Axe Desodorante Black Pack Duplo Ahorro - 150 ml](https://www.amazon.es/dp/B07PPGMG7M/?tag=tolees-21) a 3.98 EUR (original: 6.84 EUR) (41.81 %  de descuento) en el siguiente enlace!
 
-[![Axe Desodorante Black Pack Duplo Ahorro ](https://m.media-amazon.com/images/I/41SzRBZrS9L._SL200_.jpg)](https://www.amazon.es/dp/B07PPGMG7M/?tag=tolees-21)
+[![Axe Desodorante Black Pack Duplo Ahorro ](https://m.media-amazon.com/images/I/41SzRBZrS9L._SL400_.jpg)](https://www.amazon.es/dp/B07PPGMG7M/?tag=tolees-21)
 
 🔎:
 

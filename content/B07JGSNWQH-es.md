@@ -2,7 +2,7 @@
 layout: post
 title: 'Pepe Jeans Alice Pl211308 Pantalones   D al 60.40 % de descuento'
 date: 2020-03-31 17:59:15
-image: 'https://m.media-amazon.com/images/I/3194GQGYEAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/3194GQGYEAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '33.66'
 
 Ahora mismo tienes [Pepe Jeans Alice Pl211308 Pantalones   Dulwich 594   W24  Talla del Fabricante: X-Small  para Mujer](https://www.amazon.es/dp/B07JGSNWQH/?tag=tolees-21) a 33.66 EUR (original: 85.0 EUR) (60.40 %  de descuento) en el siguiente enlace!
 
-[![Pepe Jeans Alice Pl211308 Pantalones   D](https://m.media-amazon.com/images/I/3194GQGYEAL._SL200_.jpg)](https://www.amazon.es/dp/B07JGSNWQH/?tag=tolees-21)
+[![Pepe Jeans Alice Pl211308 Pantalones   D](https://m.media-amazon.com/images/I/3194GQGYEAL._SL400_.jpg)](https://www.amazon.es/dp/B07JGSNWQH/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'G-STAR RAW Rovic Zip 3D Tapered  Pantalo al 49.99 % de descuento'
 date: 2020-07-29 12:33:34
-image: 'https://m.media-amazon.com/images/I/41HU+hE0i3L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41HU+hE0i3L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '49.98'
 
 Está [G-STAR RAW Rovic Zip 3D Tapered  Pantalones para Hombre  Beige  Dune 239   W32/L32](https://www.amazon.es/dp/B01BGTVWRS/?tag=tolees-21) con 49.99 de descuento por 49.98 EUR (original: 99.95 EUR) en el siguiente enlace!
 
-[![G-STAR RAW Rovic Zip 3D Tapered  Pantalo](https://m.media-amazon.com/images/I/41HU+hE0i3L._SL200_.jpg)](https://www.amazon.es/dp/B01BGTVWRS/?tag=tolees-21)
+[![G-STAR RAW Rovic Zip 3D Tapered  Pantalo](https://m.media-amazon.com/images/I/41HU+hE0i3L._SL400_.jpg)](https://www.amazon.es/dp/B01BGTVWRS/?tag=tolees-21)
 
 ℹ️:
 

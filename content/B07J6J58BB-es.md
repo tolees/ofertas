@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour UA W Breathe Lace  Zapatill con un 60.06 % de descuento'
 date: 2020-01-13 08:15:51
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31v8BPwsrWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31v8BPwsrWL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '31.95'
 
 En este momento está [Under Armour UA W Breathe Lace  Zapatillas para Mujer  Blanco  White 104   36.5 EU](https://www.amazon.es/dp/B07J6J58BB/?tag=tolees-21) a 31.95 EUR (original: 80 EUR) (60.06 %  de descuento) en el siguiente enlace!
 
-[![Under Armour UA W Breathe Lace  Zapatill](https://images-eu.ssl-images-amazon.com/images/I/31v8BPwsrWL._SL200_.jpg)](https://www.amazon.es/dp/B07J6J58BB/?tag=tolees-21)
+[![Under Armour UA W Breathe Lace  Zapatill](https://images-eu.ssl-images-amazon.com/images/I/31v8BPwsrWL._SL400_.jpg)](https://www.amazon.es/dp/B07J6J58BB/?tag=tolees-21)
 
 🔎:
 

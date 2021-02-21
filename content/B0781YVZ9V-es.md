@@ -2,7 +2,7 @@
 layout: post
 title: 'ADIDAS X PLR  Zapatillas para Hombre  Ne al 40.02 % de rebaja'
 date: 2020-05-16 20:31:41
-image: 'https://m.media-amazon.com/images/I/41tFykkCmqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41tFykkCmqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '53.95'
 
 Tienes [ADIDAS X PLR  Zapatillas para Hombre  Negro  Core Black/Footwear White/Core Black 0   40 2/3 EU](https://www.amazon.es/dp/B0781YVZ9V/?tag=tolees-21) con precio final de  53.95 EUR (original: 89.95 EUR) (40.02 %  de rebaja) aqui!
 
-[![ADIDAS X PLR  Zapatillas para Hombre  Ne](https://m.media-amazon.com/images/I/41tFykkCmqL._SL200_.jpg)](https://www.amazon.es/dp/B0781YVZ9V/?tag=tolees-21)
+[![ADIDAS X PLR  Zapatillas para Hombre  Ne](https://m.media-amazon.com/images/I/41tFykkCmqL._SL400_.jpg)](https://www.amazon.es/dp/B0781YVZ9V/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Lancome Hypnose Drama - Rímel negro 6.5  al 44.93 % de descuento'
 date: 2020-07-17 17:23:19
-image: 'https://m.media-amazon.com/images/I/3111de097TL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/3111de097TL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.5'
 
 Está [Lancome Hypnose Drama - Rímel negro 6.5 ml](https://www.amazon.es/dp/B002JTFO1A/?tag=tolees-21) con 44.93 de descuento por 9.5 EUR (original: 17.25 EUR) en el siguiente enlace!
 
-[![Lancome Hypnose Drama - Rímel negro 6.5 ](https://m.media-amazon.com/images/I/3111de097TL._SL200_.jpg)](https://www.amazon.es/dp/B002JTFO1A/?tag=tolees-21)
+[![Lancome Hypnose Drama - Rímel negro 6.5 ](https://m.media-amazon.com/images/I/3111de097TL._SL400_.jpg)](https://www.amazon.es/dp/B002JTFO1A/?tag=tolees-21)
 
 ℹ️:
 

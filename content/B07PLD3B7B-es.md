@@ -2,7 +2,7 @@
 layout: post
 title: 'Jumbo-19765 Papiro Quilling  Multicolor  al 50.45 % de descuento'
 date: 2020-08-26 18:14:45
-image: 'https://m.media-amazon.com/images/I/51XsdC2oQgL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51XsdC2oQgL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.99'
 
 Ahora mismo tienes [Jumbo-19765 Papiro Quilling  Multicolor  19765 ](https://www.amazon.es/dp/B07PLD3B7B/?tag=tolees-21) a 14.99 EUR (original: 30.25 EUR) (50.45 %  de descuento) en el siguiente enlace!
 
-[![Jumbo-19765 Papiro Quilling  Multicolor ](https://m.media-amazon.com/images/I/51XsdC2oQgL._SL200_.jpg)](https://www.amazon.es/dp/B07PLD3B7B/?tag=tolees-21)
+[![Jumbo-19765 Papiro Quilling  Multicolor ](https://m.media-amazon.com/images/I/51XsdC2oQgL._SL400_.jpg)](https://www.amazon.es/dp/B07PLD3B7B/?tag=tolees-21)
 
 🔎:
 

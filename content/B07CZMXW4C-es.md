@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour Tech 6in 2 Pack Ropa Interi al 48.60 % de rebaja'
 date: 2020-03-27 16:30:58
-image: 'https://m.media-amazon.com/images/I/41C6eDwqqIL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41C6eDwqqIL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.645'
 
 Tienes [Under Armour Tech 6in 2 Pack Ropa Interior  Hombre  Negro  Black/Black 001   S](https://www.amazon.es/dp/B07CZMXW4C/?tag=tolees-21) con precio final de  17.99 EUR (original: 35.0 EUR) (48.60 %  de rebaja) aqui!
 
-[![Under Armour Tech 6in 2 Pack Ropa Interi](https://m.media-amazon.com/images/I/41C6eDwqqIL._SL200_.jpg)](https://www.amazon.es/dp/B07CZMXW4C/?tag=tolees-21)
+[![Under Armour Tech 6in 2 Pack Ropa Interi](https://m.media-amazon.com/images/I/41C6eDwqqIL._SL400_.jpg)](https://www.amazon.es/dp/B07CZMXW4C/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Teka - Microondas Mecánico  Modelo MW 22 al 31.86 % de descuento'
 date: 2021-02-21 21:26:16
-image: 'https://m.media-amazon.com/images/I/417ms6YIb5L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/417ms6YIb5L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,14 +24,14 @@ average: '57.712'
 
 Está [Teka - Microondas Mecánico  Modelo MW 225  Grill  20 litros  5 Niveles de potencia  700 W  Color Blanco](https://www.amazon.es/dp/B011EOWGRK/?tag=tolees-21) con 31.86 de descuento por 57.92 EUR (original: 85.0 EUR) en el siguiente enlace!
 
-[![Teka - Microondas Mecánico  Modelo MW 22](https://m.media-amazon.com/images/I/417ms6YIb5L._SL200_.jpg)](https://www.amazon.es/dp/B011EOWGRK/?tag=tolees-21)
+[![Teka - Microondas Mecánico  Modelo MW 22](https://m.media-amazon.com/images/I/417ms6YIb5L._SL400_.jpg)](https://www.amazon.es/dp/B011EOWGRK/?tag=tolees-21)
 
 ℹ️:
 
-- Panel de mandos mecánico; temporizador de 0 a 35 minutos
-- Cinco niveles de potencía, 700 W salida
-- Interior pintado
-- Plato giratorio 25.5 cm
 - Dimensiones Alto x Ancho x Profundo (cm): 25.8 x 44 x 34
+- Plato giratorio 25.5 cm
+- Cinco niveles de potencía, 700 W salida
+- Panel de mandos mecánico; temporizador de 0 a 35 minutos
+- Interior pintado
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B011EOWGRK/?tag=tolees-21)

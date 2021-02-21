@@ -2,7 +2,7 @@
 layout: post
 title: 'Piccalilly Body de manga larga para bebé al 42.49 % de descuento'
 date: 2020-06-01 19:02:36
-image: 'https://m.media-amazon.com/images/I/41TWKnbkJ6L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41TWKnbkJ6L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.095'
 
 Está [Piccalilly Body de manga larga para bebé  suave  algodón orgánico  estampado de búho verde Verde verde 2 mes](https://www.amazon.es/dp/B07Z6BKTLL/?tag=tolees-21) con 42.49 de descuento por 8.96 EUR (original: 15.58 EUR) en el siguiente enlace!
 
-[![Piccalilly Body de manga larga para bebé](https://m.media-amazon.com/images/I/41TWKnbkJ6L._SL200_.jpg)](https://www.amazon.es/dp/B07Z6BKTLL/?tag=tolees-21)
+[![Piccalilly Body de manga larga para bebé](https://m.media-amazon.com/images/I/41TWKnbkJ6L._SL400_.jpg)](https://www.amazon.es/dp/B07Z6BKTLL/?tag=tolees-21)
 
 ℹ️:
 

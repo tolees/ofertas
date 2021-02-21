@@ -2,7 +2,7 @@
 layout: post
 title: 'Brother HL-L3270CDW - Impresora láser co con un 38.09 % de descuento'
 date: 2020-04-21 22:33:02
-image: 'https://m.media-amazon.com/images/I/41jp6lZUn4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41jp6lZUn4L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '177.17333333333332'
 
 En este momento está [Brother HL-L3270CDW - Impresora láser color  Wifi  USB 2.0  256 MB  800 MHz  24 ppm  430 W  blanco](https://www.amazon.es/dp/B07FXVS8ZW/?tag=tolees-21) a 169.0 EUR (original: 272.99 EUR) (38.09 %  de descuento) en el siguiente enlace!
 
-[![Brother HL-L3270CDW - Impresora láser co](https://m.media-amazon.com/images/I/41jp6lZUn4L._SL200_.jpg)](https://www.amazon.es/dp/B07FXVS8ZW/?tag=tolees-21)
+[![Brother HL-L3270CDW - Impresora láser co](https://m.media-amazon.com/images/I/41jp6lZUn4L._SL400_.jpg)](https://www.amazon.es/dp/B07FXVS8ZW/?tag=tolees-21)
 
 🔎:
 

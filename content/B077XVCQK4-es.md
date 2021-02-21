@@ -2,7 +2,7 @@
 layout: post
 title: 'Shock Absorber Ultimate Run Bra  Sujetad al 46.30 % de rebaja'
 date: 2020-01-29 09:37:29
-image: 'https://images-eu.ssl-images-amazon.com/images/I/4192pK9acuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4192pK9acuL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.14'
 
 Tienes [Shock Absorber Ultimate Run Bra  Sujetador Deportivo para Mujer  Morado  Waterfall Purple   85B  70B EU ](https://www.amazon.es/dp/B077XVCQK4/?tag=tolees-21) con precio final de  24.14 EUR (original: 44.95 EUR) (46.30 %  de rebaja) aqui!
 
-[![Shock Absorber Ultimate Run Bra  Sujetad](https://images-eu.ssl-images-amazon.com/images/I/4192pK9acuL._SL200_.jpg)](https://www.amazon.es/dp/B077XVCQK4/?tag=tolees-21)
+[![Shock Absorber Ultimate Run Bra  Sujetad](https://images-eu.ssl-images-amazon.com/images/I/4192pK9acuL._SL400_.jpg)](https://www.amazon.es/dp/B077XVCQK4/?tag=tolees-21)
 
 🔎:
 

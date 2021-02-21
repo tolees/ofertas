@@ -2,7 +2,7 @@
 layout: post
 title: 'Diset Soy Luna - Set con ovillos de lana al 50.25 % de descuento'
 date: 2020-04-07 13:29:33
-image: 'https://m.media-amazon.com/images/I/61bEIiPp35L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61bEIiPp35L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.95'
 
 Ahora mismo tienes [Diset Soy Luna - Set con ovillos de lana  aro para tejer y un ganchillo 46593](https://www.amazon.es/dp/B01I5KJR2S/?tag=tolees-21) a 4.95 EUR (original: 9.95 EUR) (50.25 %  de descuento) en el siguiente enlace!
 
-[![Diset Soy Luna - Set con ovillos de lana](https://m.media-amazon.com/images/I/61bEIiPp35L._SL200_.jpg)](https://www.amazon.es/dp/B01I5KJR2S/?tag=tolees-21)
+[![Diset Soy Luna - Set con ovillos de lana](https://m.media-amazon.com/images/I/61bEIiPp35L._SL400_.jpg)](https://www.amazon.es/dp/B01I5KJR2S/?tag=tolees-21)
 
 🔎:
 

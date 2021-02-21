@@ -2,7 +2,7 @@
 layout: post
 title: 'DC Shoes Court Graffik  Zapatillas de Sk al 38.02 % de descuento'
 date: 2020-07-03 14:45:00
-image: 'https://m.media-amazon.com/images/I/41+ojtYfLWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41+ojtYfLWL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '30.49'
 
 Ahora mismo tienes [DC Shoes Court Graffik  Zapatillas de Skateboard para Niños  Azul  Navy/Gum Ngm   34 EU](https://www.amazon.es/dp/B07VLYSBXC/?tag=tolees-21) a 30.99 EUR (original: 50.0 EUR) (38.02 %  de descuento) en el siguiente enlace!
 
-[![DC Shoes Court Graffik  Zapatillas de Sk](https://m.media-amazon.com/images/I/41+ojtYfLWL._SL200_.jpg)](https://www.amazon.es/dp/B07VLYSBXC/?tag=tolees-21)
+[![DC Shoes Court Graffik  Zapatillas de Sk](https://m.media-amazon.com/images/I/41+ojtYfLWL._SL400_.jpg)](https://www.amazon.es/dp/B07VLYSBXC/?tag=tolees-21)
 
 🔎:
 

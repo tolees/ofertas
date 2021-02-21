@@ -2,7 +2,7 @@
 layout: post
 title: 'Sigma DC - Objetivo para Nikon  17-50mm  con un 26.09 % de descuento'
 date: 2020-09-17 13:12:01
-image: 'https://m.media-amazon.com/images/I/51k7WKLNDeL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51k7WKLNDeL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '308.5627272727273'
 
 En este momento está [Sigma DC - Objetivo para Nikon  17-50mm  f/2.8  estabilizador  77 mm   Color Negro](https://www.amazon.es/dp/B003A6NU3U/?tag=tolees-21) a 294.92 EUR (original: 399.0 EUR) (26.09 %  de descuento) en el siguiente enlace!
 
-[![Sigma DC - Objetivo para Nikon  17-50mm ](https://m.media-amazon.com/images/I/51k7WKLNDeL._SL200_.jpg)](https://www.amazon.es/dp/B003A6NU3U/?tag=tolees-21)
+[![Sigma DC - Objetivo para Nikon  17-50mm ](https://m.media-amazon.com/images/I/51k7WKLNDeL._SL400_.jpg)](https://www.amazon.es/dp/B003A6NU3U/?tag=tolees-21)
 
 🔎:
 

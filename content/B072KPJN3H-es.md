@@ -2,7 +2,7 @@
 layout: post
 title: 'Salewa WS Ultra Train 2  Zapatillas de R con un 59.25 % de descuento'
 date: 2020-01-11 12:23:54
-image: 'https://images-eu.ssl-images-amazon.com/images/I/410gFckHsWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/410gFckHsWL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '61.13'
 
 En este momento está [Salewa WS Ultra Train 2  Zapatillas de Running para Asfalto para Mujer  Azul  Capri/Poseidon 3395   36.5 EU](https://www.amazon.es/dp/B072KPJN3H/?tag=tolees-21) a 61.13 EUR (original: 150 EUR) (59.25 %  de descuento) en el siguiente enlace!
 
-[![Salewa WS Ultra Train 2  Zapatillas de R](https://images-eu.ssl-images-amazon.com/images/I/410gFckHsWL._SL200_.jpg)](https://www.amazon.es/dp/B072KPJN3H/?tag=tolees-21)
+[![Salewa WS Ultra Train 2  Zapatillas de R](https://images-eu.ssl-images-amazon.com/images/I/410gFckHsWL._SL400_.jpg)](https://www.amazon.es/dp/B072KPJN3H/?tag=tolees-21)
 
 🔎:
 

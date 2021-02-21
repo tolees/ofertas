@@ -2,7 +2,7 @@
 layout: post
 title: 'Adidas 3MC  Zapatillas de Skateboarding  al 37.63 % de descuento'
 date: 2020-09-05 12:58:55
-image: 'https://m.media-amazon.com/images/I/41ldJ5SVVML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ldJ5SVVML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '40.51'
 
 Ahora mismo tienes [Adidas 3MC  Zapatillas de Skateboarding para Hombre  Azul  Maruni/Maruni/Ftwbla 000   38 2/3 EU](https://www.amazon.es/dp/B07FTXTMMN/?tag=tolees-21) a 40.51 EUR (original: 64.95 EUR) (37.63 %  de descuento) en el siguiente enlace!
 
-[![Adidas 3MC  Zapatillas de Skateboarding ](https://m.media-amazon.com/images/I/41ldJ5SVVML._SL200_.jpg)](https://www.amazon.es/dp/B07FTXTMMN/?tag=tolees-21)
+[![Adidas 3MC  Zapatillas de Skateboarding ](https://m.media-amazon.com/images/I/41ldJ5SVVML._SL400_.jpg)](https://www.amazon.es/dp/B07FTXTMMN/?tag=tolees-21)
 
 🔎:
 

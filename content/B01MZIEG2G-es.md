@@ -2,7 +2,7 @@
 layout: post
 title: 'Poster STAR WARS El Despertar De La Fuer al 42.86 % de descuento'
 date: 2020-04-08 06:10:46
-image: 'https://m.media-amazon.com/images/I/51ydcDkm4eL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51ydcDkm4eL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.0'
 
 Ahora mismo tienes [Poster STAR WARS El Despertar De La Fuerza Grafiti Hecho A Mano - Handmade Street Art - Artwork](https://www.amazon.es/dp/B01MZIEG2G/?tag=tolees-21) a 12.0 EUR (original: 21.0 EUR) (42.86 %  de descuento) en el siguiente enlace!
 
-[![Poster STAR WARS El Despertar De La Fuer](https://m.media-amazon.com/images/I/51ydcDkm4eL._SL200_.jpg)](https://www.amazon.es/dp/B01MZIEG2G/?tag=tolees-21)
+[![Poster STAR WARS El Despertar De La Fuer](https://m.media-amazon.com/images/I/51ydcDkm4eL._SL400_.jpg)](https://www.amazon.es/dp/B01MZIEG2G/?tag=tolees-21)
 
 🔎:
 

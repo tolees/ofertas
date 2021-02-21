@@ -2,7 +2,7 @@
 layout: post
 title: 'Cattier Leche desmaquilladora Caresse d  con un 54.16 % de descuento'
 date: 2020-02-24 21:36:27
-image: 'https://m.media-amazon.com/images/I/31qeFSAh1AL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31qeFSAh1AL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.726666666666667'
 
 En este momento está [Cattier Leche desmaquilladora Caresse d Herboriste - 200 ml](https://www.amazon.es/dp/B001EPO8VW/?tag=tolees-21) a 5.84 EUR (original: 12.74 EUR) (54.16 %  de descuento) en el siguiente enlace!
 
-[![Cattier Leche desmaquilladora Caresse d ](https://m.media-amazon.com/images/I/31qeFSAh1AL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B001EPO8VW/?tag=tolees-21)
+[![Cattier Leche desmaquilladora Caresse d ](https://m.media-amazon.com/images/I/31qeFSAh1AL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B001EPO8VW/?tag=tolees-21)
 
 🔎:
 

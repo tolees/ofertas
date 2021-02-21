@@ -2,7 +2,7 @@
 layout: post
 title: 'Novex Aceite de Oliva Mascarilla Capilar al 56.51 % de descuento'
 date: 2020-04-24 14:33:53
-image: 'https://m.media-amazon.com/images/I/41Z5H0pyvEL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Z5H0pyvEL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.04'
 
 Está [Novex Aceite de Oliva Mascarilla Capilar - 400g](https://www.amazon.es/dp/B071FMVJGW/?tag=tolees-21) con 56.51 de descuento por 3.04 EUR (original: 6.99 EUR) en el siguiente enlace!
 
-[![Novex Aceite de Oliva Mascarilla Capilar](https://m.media-amazon.com/images/I/41Z5H0pyvEL._SL200_.jpg)](https://www.amazon.es/dp/B071FMVJGW/?tag=tolees-21)
+[![Novex Aceite de Oliva Mascarilla Capilar](https://m.media-amazon.com/images/I/41Z5H0pyvEL._SL400_.jpg)](https://www.amazon.es/dp/B071FMVJGW/?tag=tolees-21)
 
 ℹ️:
 

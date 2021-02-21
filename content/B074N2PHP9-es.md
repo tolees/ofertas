@@ -2,7 +2,7 @@
 layout: post
 title: 'L Oréal Paris Accord Parfait  Base de ma al 54.93 % de rebaja'
 date: 2020-07-11 16:23:06
-image: 'https://m.media-amazon.com/images/I/317YFYwzp5L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/317YFYwzp5L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.77625'
 
 Tienes [L Oréal Paris Accord Parfait  Base de maquillaje acabado natural con ácido hialurónico  tono piel claro 1R  30 ml](https://www.amazon.es/dp/B074N2PHP9/?tag=tolees-21) con precio final de  6.76 EUR (original: 15.0 EUR) (54.93 %  de rebaja) aqui!
 
-[![L Oréal Paris Accord Parfait  Base de ma](https://m.media-amazon.com/images/I/317YFYwzp5L._SL200_.jpg)](https://www.amazon.es/dp/B074N2PHP9/?tag=tolees-21)
+[![L Oréal Paris Accord Parfait  Base de ma](https://m.media-amazon.com/images/I/317YFYwzp5L._SL400_.jpg)](https://www.amazon.es/dp/B074N2PHP9/?tag=tolees-21)
 
 🔎:
 

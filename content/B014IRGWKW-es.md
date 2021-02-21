@@ -2,7 +2,7 @@
 layout: post
 title: 'Emporio Armani Reloj Esqueleto para Homb al 38.78 % de rebaja'
 date: 2020-10-09 01:44:54
-image: 'https://m.media-amazon.com/images/I/51MXJyB2YtL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51MXJyB2YtL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '250.45'
 
 Tienes [Emporio Armani Reloj Esqueleto para Hombre de Automático con Correa en Cuero AR1923](https://www.amazon.es/dp/B014IRGWKW/?tag=tolees-21) con precio final de  287.13 EUR (original: 469.0 EUR) (38.78 %  de rebaja) aqui!
 
-[![Emporio Armani Reloj Esqueleto para Homb](https://m.media-amazon.com/images/I/51MXJyB2YtL._SL200_.jpg)](https://www.amazon.es/dp/B014IRGWKW/?tag=tolees-21)
+[![Emporio Armani Reloj Esqueleto para Homb](https://m.media-amazon.com/images/I/51MXJyB2YtL._SL400_.jpg)](https://www.amazon.es/dp/B014IRGWKW/?tag=tolees-21)
 
 🔎:
 

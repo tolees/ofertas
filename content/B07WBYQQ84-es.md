@@ -2,7 +2,7 @@
 layout: post
 title: 'AmazonBasics - Carreta plegable para jar al 27.02 % de rebaja'
 date: 2020-05-21 21:07:23
-image: 'https://m.media-amazon.com/images/I/41eyMt2KfcL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41eyMt2KfcL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '53.48'
 
 Tienes [AmazonBasics - Carreta plegable para jardín y aire libre con bolsa de cubierta  rojo](https://www.amazon.es/dp/B07WBYQQ84/?tag=tolees-21) con precio final de  53.48 EUR (original: 73.28 EUR) (27.02 %  de rebaja) aqui!
 
-[![AmazonBasics - Carreta plegable para jar](https://m.media-amazon.com/images/I/41eyMt2KfcL._SL200_.jpg)](https://www.amazon.es/dp/B07WBYQQ84/?tag=tolees-21)
+[![AmazonBasics - Carreta plegable para jar](https://m.media-amazon.com/images/I/41eyMt2KfcL._SL400_.jpg)](https://www.amazon.es/dp/B07WBYQQ84/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Samsung Galaxy Tab S5e Wi Fi SM-T720 64G al 27.68 % de rebaja'
 date: 2020-03-19 09:05:11
-image: 'https://m.media-amazon.com/images/I/316nQUgbJSL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/316nQUgbJSL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '320.175'
 
 Tienes [Samsung Galaxy Tab S5e Wi Fi SM-T720 64GB  plateado alemán versión](https://www.amazon.es/dp/B07NR4QM9S/?tag=tolees-21) con precio final de  267.35 EUR (original: 369.66 EUR) (27.68 %  de rebaja) aqui!
 
-[![Samsung Galaxy Tab S5e Wi Fi SM-T720 64G](https://m.media-amazon.com/images/I/316nQUgbJSL._SL200_.jpg)](https://www.amazon.es/dp/B07NR4QM9S/?tag=tolees-21)
+[![Samsung Galaxy Tab S5e Wi Fi SM-T720 64G](https://m.media-amazon.com/images/I/316nQUgbJSL._SL400_.jpg)](https://www.amazon.es/dp/B07NR4QM9S/?tag=tolees-21)
 
 🔎:
 

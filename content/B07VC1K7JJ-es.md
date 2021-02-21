@@ -2,7 +2,7 @@
 layout: post
 title: 'Jack & Jones Jcobase Sweat Hood Capucha  al 41.94 % de descuento'
 date: 2020-07-06 10:39:26
-image: 'https://m.media-amazon.com/images/I/41XklaUo1IL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41XklaUo1IL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.321428571428573'
 
 Ahora mismo tienes [Jack & Jones Jcobase Sweat Hood Capucha  Verde  Winter Moss Detail: Melange   Small para Hombre](https://www.amazon.es/dp/B07VC1K7JJ/?tag=tolees-21) a 23.22 EUR (original: 39.99 EUR) (41.94 %  de descuento) en el siguiente enlace!
 
-[![Jack & Jones Jcobase Sweat Hood Capucha ](https://m.media-amazon.com/images/I/41XklaUo1IL._SL200_.jpg)](https://www.amazon.es/dp/B07VC1K7JJ/?tag=tolees-21)
+[![Jack & Jones Jcobase Sweat Hood Capucha ](https://m.media-amazon.com/images/I/41XklaUo1IL._SL400_.jpg)](https://www.amazon.es/dp/B07VC1K7JJ/?tag=tolees-21)
 
 🔎:
 

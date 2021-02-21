@@ -2,7 +2,7 @@
 layout: post
 title: 'Revlon Ultra HD Pintalabios Mate  Kisses al 44.47 % de rebaja'
 date: 2020-10-06 17:14:49
-image: 'https://m.media-amazon.com/images/I/31aOwTjgC-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31aOwTjgC-L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.0633333333333335'
 
 Tienes [Revlon Ultra HD Pintalabios Mate  Kisses ](https://www.amazon.es/dp/B01FKL4J64/?tag=tolees-21) con precio final de  4.97 EUR (original: 8.95 EUR) (44.47 %  de rebaja) aqui!
 
-[![Revlon Ultra HD Pintalabios Mate  Kisses](https://m.media-amazon.com/images/I/31aOwTjgC-L._SL200_.jpg)](https://www.amazon.es/dp/B01FKL4J64/?tag=tolees-21)
+[![Revlon Ultra HD Pintalabios Mate  Kisses](https://m.media-amazon.com/images/I/31aOwTjgC-L._SL400_.jpg)](https://www.amazon.es/dp/B01FKL4J64/?tag=tolees-21)
 
 🔎:
 

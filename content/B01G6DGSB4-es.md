@@ -2,7 +2,7 @@
 layout: post
 title: 'Utensilios barbacoa  Blusmart Juego de u al 45.23 % de rebaja'
 date: 2020-01-13 17:22:17
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41IAG9-5YJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41IAG9-5YJL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.49'
 
 Tienes [Utensilios barbacoa  Blusmart Juego de utensilios para barbacoa de acero inoxidable kit 5 piezas](https://www.amazon.es/dp/B01G6DGSB4/?tag=tolees-21) con precio final de  11.99 EUR (original: 21.89 EUR) (45.23 %  de rebaja) aqui!
 
-[![Utensilios barbacoa  Blusmart Juego de u](https://images-eu.ssl-images-amazon.com/images/I/41IAG9-5YJL._SL200_.jpg)](https://www.amazon.es/dp/B01G6DGSB4/?tag=tolees-21)
+[![Utensilios barbacoa  Blusmart Juego de u](https://images-eu.ssl-images-amazon.com/images/I/41IAG9-5YJL._SL400_.jpg)](https://www.amazon.es/dp/B01G6DGSB4/?tag=tolees-21)
 
 🔎:
 

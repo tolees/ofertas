@@ -2,7 +2,7 @@
 layout: post
 title: 'TP-Link TL-SG1016D - Gigabit Ethernet co con un 40.13 % de descuento'
 date: 2020-04-15 21:21:27
-image: 'https://m.media-amazon.com/images/I/41MBNYmPfAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41MBNYmPfAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '51.583333333333336'
 
 En este momento está [TP-Link TL-SG1016D - Gigabit Ethernet con 16 Puertos  Conmutador no Gestionado  Plug and Play  Metal  Escritorio  montaje en bastidor  sin Ventilador  Vida Útil Limitada ](https://www.amazon.es/dp/B003UWRYBI/?tag=tolees-21) a 51.0 EUR (original: 85.19 EUR) (40.13 %  de descuento) en el siguiente enlace!
 
-[![TP-Link TL-SG1016D - Gigabit Ethernet co](https://m.media-amazon.com/images/I/41MBNYmPfAL._SL200_.jpg)](https://www.amazon.es/dp/B003UWRYBI/?tag=tolees-21)
+[![TP-Link TL-SG1016D - Gigabit Ethernet co](https://m.media-amazon.com/images/I/41MBNYmPfAL._SL400_.jpg)](https://www.amazon.es/dp/B003UWRYBI/?tag=tolees-21)
 
 🔎:
 

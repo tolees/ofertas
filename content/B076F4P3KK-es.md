@@ -2,7 +2,7 @@
 layout: post
 title: 'Safety 1st TIMBA con cojín  White/Red Li con un 30.92 % de descuento'
 date: 2020-01-14 06:38:17
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41d3jaMpVZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41d3jaMpVZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '61.48'
 
 En este momento está [Safety 1st TIMBA con cojín  White/Red Line  - Trona de madera con cojín  color blanco y rojo](https://www.amazon.es/dp/B076F4P3KK/?tag=tolees-21) a 61.48 EUR (original: 89 EUR) (30.92 %  de descuento) en el siguiente enlace!
 
-[![Safety 1st TIMBA con cojín  White/Red Li](https://images-eu.ssl-images-amazon.com/images/I/41d3jaMpVZL._SL200_.jpg)](https://www.amazon.es/dp/B076F4P3KK/?tag=tolees-21)
+[![Safety 1st TIMBA con cojín  White/Red Li](https://images-eu.ssl-images-amazon.com/images/I/41d3jaMpVZL._SL400_.jpg)](https://www.amazon.es/dp/B076F4P3KK/?tag=tolees-21)
 
 🔎:
 

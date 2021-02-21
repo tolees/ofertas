@@ -2,7 +2,7 @@
 layout: post
 title: 'Liderpapel Greening - Papel Fotocopiador al 66.85 % de descuento'
 date: 2020-08-20 15:31:13
-image: 'https://m.media-amazon.com/images/I/51vNjwbxkVL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51vNjwbxkVL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.98'
 
 Ahora mismo tienes [Liderpapel Greening - Papel Fotocopiadora  A4  80 Gramos  Paquete de 500 Hojas](https://www.amazon.es/dp/B00ZIRY2AE/?tag=tolees-21) a 2.98 EUR (original: 8.99 EUR) (66.85 %  de descuento) en el siguiente enlace!
 
-[![Liderpapel Greening - Papel Fotocopiador](https://m.media-amazon.com/images/I/51vNjwbxkVL._SL200_.jpg)](https://www.amazon.es/dp/B00ZIRY2AE/?tag=tolees-21)
+[![Liderpapel Greening - Papel Fotocopiador](https://m.media-amazon.com/images/I/51vNjwbxkVL._SL400_.jpg)](https://www.amazon.es/dp/B00ZIRY2AE/?tag=tolees-21)
 
 🔎:
 

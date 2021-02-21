@@ -2,7 +2,7 @@
 layout: post
 title: 'Cabezal de Recambio para Oral-B Cepillo  con un 35.02 % de descuento'
 date: 2020-04-08 14:38:31
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41ahljlab1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ahljlab1L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.99'
 
 En este momento está [Cabezal de Recambio para Oral-B Cepillo de Dientes Eléctrico Recargable  16Pzs Recambios para Cepillo de Dientes Compatible con Precision  Floss  Cross  Whitening](https://www.amazon.es/dp/B07R68KJSZ/?tag=tolees-21) a 12.99 EUR (original: 19.99 EUR) (35.02 %  de descuento) en el siguiente enlace!
 
-[![Cabezal de Recambio para Oral-B Cepillo ](https://images-eu.ssl-images-amazon.com/images/I/41ahljlab1L._SL200_.jpg)](https://www.amazon.es/dp/B07R68KJSZ/?tag=tolees-21)
+[![Cabezal de Recambio para Oral-B Cepillo ](https://images-eu.ssl-images-amazon.com/images/I/41ahljlab1L._SL400_.jpg)](https://www.amazon.es/dp/B07R68KJSZ/?tag=tolees-21)
 
 🔎:
 

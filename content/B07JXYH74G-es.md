@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger Formal Belt 3.5 Cinturón  al 33.75 % de rebaja'
 date: 2020-03-30 20:25:09
-image: 'https://m.media-amazon.com/images/I/31LVN6NMUEL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31LVN6NMUEL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '31.26666666666667'
 
 Tienes [Tommy Hilfiger Formal Belt 3.5 Cinturón  Beige  100  Talla del fabricante:  para Hombre](https://www.amazon.es/dp/B07JXYH74G/?tag=tolees-21) con precio final de  33.06 EUR (original: 49.9 EUR) (33.75 %  de rebaja) aqui!
 
-[![Tommy Hilfiger Formal Belt 3.5 Cinturón ](https://m.media-amazon.com/images/I/31LVN6NMUEL._SL200_.jpg)](https://www.amazon.es/dp/B07JXYH74G/?tag=tolees-21)
+[![Tommy Hilfiger Formal Belt 3.5 Cinturón ](https://m.media-amazon.com/images/I/31LVN6NMUEL._SL400_.jpg)](https://www.amazon.es/dp/B07JXYH74G/?tag=tolees-21)
 
 🔎:
 

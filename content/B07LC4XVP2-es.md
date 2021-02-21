@@ -2,7 +2,7 @@
 layout: post
 title: 'Adidas VS Set  Zapatillas de Tenis para  al 50.56 % de descuento'
 date: 2020-09-06 13:06:01
-image: 'https://m.media-amazon.com/images/I/31R0C3CKRhL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31R0C3CKRhL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '27.17'
 
 Ahora mismo tienes [Adidas VS Set  Zapatillas de Tenis para Hombre  Multicolor  Negbás/Negbás/Gris 000   42 2/3 EU](https://www.amazon.es/dp/B07LC4XVP2/?tag=tolees-21) a 27.17 EUR (original: 54.95 EUR) (50.56 %  de descuento) en el siguiente enlace!
 
-[![Adidas VS Set  Zapatillas de Tenis para ](https://m.media-amazon.com/images/I/31R0C3CKRhL._SL200_.jpg)](https://www.amazon.es/dp/B07LC4XVP2/?tag=tolees-21)
+[![Adidas VS Set  Zapatillas de Tenis para ](https://m.media-amazon.com/images/I/31R0C3CKRhL._SL400_.jpg)](https://www.amazon.es/dp/B07LC4XVP2/?tag=tolees-21)
 
 🔎:
 

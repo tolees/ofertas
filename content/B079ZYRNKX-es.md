@@ -2,7 +2,7 @@
 layout: post
 title: 'Domestos Axe Desodorante Spray 2012 Fina al 35.02 % de rebaja'
 date: 2020-05-14 09:56:42
-image: 'https://m.media-amazon.com/images/I/41FQup7lkyL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41FQup7lkyL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.129999999999999'
 
 Tienes [Domestos Axe Desodorante Spray 2012 Final Edition sin aluminio 150 ml  3 Pack  3 x 150 ml ](https://www.amazon.es/dp/B079ZYRNKX/?tag=tolees-21) con precio final de  10.8 EUR (original: 16.62 EUR) (35.02 %  de rebaja) aqui!
 
-[![Domestos Axe Desodorante Spray 2012 Fina](https://m.media-amazon.com/images/I/41FQup7lkyL._SL200_.jpg)](https://www.amazon.es/dp/B079ZYRNKX/?tag=tolees-21)
+[![Domestos Axe Desodorante Spray 2012 Fina](https://m.media-amazon.com/images/I/41FQup7lkyL._SL400_.jpg)](https://www.amazon.es/dp/B079ZYRNKX/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Beter Minnie Eyeliner Azul Océano con un 79.71 % de descuento'
 date: 2020-01-27 17:54:38
-image: 'https://m.media-amazon.com/images/I/216OShiwcyL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/216OShiwcyL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '0.71'
 
 En este momento está [Beter Minnie Eyeliner Azul Océano](https://www.amazon.es/dp/B00Y3KMJVG/?tag=tolees-21) a 0.71 EUR (original: 3.5 EUR) (79.71 %  de descuento) en el siguiente enlace!
 
-[![Beter Minnie Eyeliner Azul Océano](https://m.media-amazon.com/images/I/216OShiwcyL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B00Y3KMJVG/?tag=tolees-21)
+[![Beter Minnie Eyeliner Azul Océano](https://m.media-amazon.com/images/I/216OShiwcyL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B00Y3KMJVG/?tag=tolees-21)
 
 🔎:
 

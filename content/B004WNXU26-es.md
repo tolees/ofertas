@@ -2,7 +2,7 @@
 layout: post
 title: 'Merrell Choprock Leather Shandal  Zapati al 66.43 % de descuento'
 date: 2020-08-03 09:47:18
-image: 'https://m.media-amazon.com/images/I/31KpS3tZiWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31KpS3tZiWL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '40.28'
 
 Está [Merrell Choprock Leather Shandal  Zapatillas Impermeables para Hombre  Azul  Navy   43.5 EU](https://www.amazon.es/dp/B004WNXU26/?tag=tolees-21) con 66.43 de descuento por 40.28 EUR (original: 120.0 EUR) en el siguiente enlace!
 
-[![Merrell Choprock Leather Shandal  Zapati](https://m.media-amazon.com/images/I/31KpS3tZiWL._SL200_.jpg)](https://www.amazon.es/dp/B004WNXU26/?tag=tolees-21)
+[![Merrell Choprock Leather Shandal  Zapati](https://m.media-amazon.com/images/I/31KpS3tZiWL._SL400_.jpg)](https://www.amazon.es/dp/B004WNXU26/?tag=tolees-21)
 
 ℹ️:
 

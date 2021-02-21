@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 46.91 % en CAMPER  Peu Cami  Damen Sneakers  Grau  '
 date: 2020-10-11 18:11:16
-image: 'https://m.media-amazon.com/images/I/41JVcecMXHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41JVcecMXHL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '84.95'
 
 Tienes [CAMPER  Peu Cami  Damen Sneakers  Grau  Lt. Pastel Grey   36 EU](https://www.amazon.es/dp/B00HZSINRC/?tag=tolees-21) con un 46.91 % de descuento con precio de oferta de 84.95 EUR (original: 160.0 EUR) en el siguiente enlace!
 
-[![CAMPER  Peu Cami  Damen Sneakers  Grau  ](https://m.media-amazon.com/images/I/41JVcecMXHL._SL200_.jpg)](https://www.amazon.es/dp/B00HZSINRC/?tag=tolees-21)
+[![CAMPER  Peu Cami  Damen Sneakers  Grau  ](https://m.media-amazon.com/images/I/41JVcecMXHL._SL400_.jpg)](https://www.amazon.es/dp/B00HZSINRC/?tag=tolees-21)
 
 ℹ️:
 

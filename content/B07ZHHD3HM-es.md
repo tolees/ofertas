@@ -2,7 +2,7 @@
 layout: post
 title: 'Melissa Hilo Acrílico Ovillo de Lana Pre con un 62.10 % de descuento'
 date: 2020-04-16 09:07:18
-image: 'https://m.media-amazon.com/images/I/411-aVRnOkL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/411-aVRnOkL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.79'
 
 En este momento está [Melissa Hilo Acrílico Ovillo de Lana Premium para DIY Tejer y Ganchillo  1u * 100g   Beige 35  Mediana](https://www.amazon.es/dp/B07ZHHD3HM/?tag=tolees-21) a 3.79 EUR (original: 10.0 EUR) (62.10 %  de descuento) en el siguiente enlace!
 
-[![Melissa Hilo Acrílico Ovillo de Lana Pre](https://m.media-amazon.com/images/I/411-aVRnOkL._SL200_.jpg)](https://www.amazon.es/dp/B07ZHHD3HM/?tag=tolees-21)
+[![Melissa Hilo Acrílico Ovillo de Lana Pre](https://m.media-amazon.com/images/I/411-aVRnOkL._SL400_.jpg)](https://www.amazon.es/dp/B07ZHHD3HM/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Dainese-MANIS D1 49  Negro  Talla M al 36.84 % de descuento'
 date: 2020-06-13 14:19:09
-image: 'https://m.media-amazon.com/images/I/41QHMNCzMFL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41QHMNCzMFL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '120.325'
 
 Está [Dainese-MANIS D1 49  Negro  Talla M](https://www.amazon.es/dp/B013TV3KR6/?tag=tolees-21) con 36.84 de descuento por 113.66 EUR (original: 179.95 EUR) en el siguiente enlace!
 
-[![Dainese-MANIS D1 49  Negro  Talla M](https://m.media-amazon.com/images/I/41QHMNCzMFL._SL200_.jpg)](https://www.amazon.es/dp/B013TV3KR6/?tag=tolees-21)
+[![Dainese-MANIS D1 49  Negro  Talla M](https://m.media-amazon.com/images/I/41QHMNCzMFL._SL400_.jpg)](https://www.amazon.es/dp/B013TV3KR6/?tag=tolees-21)
 
 ℹ️:
 

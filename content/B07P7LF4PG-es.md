@@ -2,7 +2,7 @@
 layout: post
 title: 'Cómo Entrenar A Tu Dragón 3  4K UHD + BD al 51.95 % de rebaja'
 date: 2020-05-18 07:39:24
-image: 'https://m.media-amazon.com/images/I/514tkHf-qXL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/514tkHf-qXL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.0'
 
 Tienes [Cómo Entrenar A Tu Dragón 3  4K UHD + BD  [Blu-ray]](https://www.amazon.es/dp/B07P7LF4PG/?tag=tolees-21) con precio final de  15.0 EUR (original: 31.22 EUR) (51.95 %  de rebaja) aqui!
 
-[![Cómo Entrenar A Tu Dragón 3  4K UHD + BD](https://m.media-amazon.com/images/I/514tkHf-qXL._SL200_.jpg)](https://www.amazon.es/dp/B07P7LF4PG/?tag=tolees-21)
+[![Cómo Entrenar A Tu Dragón 3  4K UHD + BD](https://m.media-amazon.com/images/I/514tkHf-qXL._SL400_.jpg)](https://www.amazon.es/dp/B07P7LF4PG/?tag=tolees-21)
 
 🔎:
 

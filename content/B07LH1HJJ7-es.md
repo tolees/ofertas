@@ -2,7 +2,7 @@
 layout: post
 title: 'Salomon out Day 20+4 Mochila  Capacidad  al 31.00 % de descuento'
 date: 2020-03-30 10:44:53
-image: 'https://m.media-amazon.com/images/I/41BztNFbiaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41BztNFbiaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '69.0'
 
 Ahora mismo tienes [Salomon out Day 20+4 Mochila  Capacidad 24 L  Mujer  Gris  Lilac Grey   M/L](https://www.amazon.es/dp/B07LH1HJJ7/?tag=tolees-21) a 69.0 EUR (original: 100.0 EUR) (31.00 %  de descuento) en el siguiente enlace!
 
-[![Salomon out Day 20+4 Mochila  Capacidad ](https://m.media-amazon.com/images/I/41BztNFbiaL._SL200_.jpg)](https://www.amazon.es/dp/B07LH1HJJ7/?tag=tolees-21)
+[![Salomon out Day 20+4 Mochila  Capacidad ](https://m.media-amazon.com/images/I/41BztNFbiaL._SL400_.jpg)](https://www.amazon.es/dp/B07LH1HJJ7/?tag=tolees-21)
 
 🔎:
 

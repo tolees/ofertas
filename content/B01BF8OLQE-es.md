@@ -2,7 +2,7 @@
 layout: post
 title: 'Astor Mattitude Foundation Base de Maqui con un 39.62 % de descuento'
 date: 2020-09-03 22:40:02
-image: 'https://m.media-amazon.com/images/I/31tgKPeaGuL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31tgKPeaGuL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.8'
 
 En este momento está [Astor Mattitude Foundation Base de Maquillaje  Tono 102](https://www.amazon.es/dp/B01BF8OLQE/?tag=tolees-21) a 4.8 EUR (original: 7.95 EUR) (39.62 %  de descuento) en el siguiente enlace!
 
-[![Astor Mattitude Foundation Base de Maqui](https://m.media-amazon.com/images/I/31tgKPeaGuL._SL200_.jpg)](https://www.amazon.es/dp/B01BF8OLQE/?tag=tolees-21)
+[![Astor Mattitude Foundation Base de Maqui](https://m.media-amazon.com/images/I/31tgKPeaGuL._SL400_.jpg)](https://www.amazon.es/dp/B01BF8OLQE/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Puma LIGA Casuals Shorts  Pantalones Cor al 57.36 % de descuento'
 date: 2020-04-21 08:44:32
-image: 'https://m.media-amazon.com/images/I/41+OkSFbpAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41+OkSFbpAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.483333333333333'
 
 Está [Puma LIGA Casuals Shorts  Pantalones Cortos  Hombre  Gris  Medium Gray Heather-Puma Black   3XL](https://www.amazon.es/dp/B078TP4W6S/?tag=tolees-21) con 57.36 de descuento por 12.77 EUR (original: 29.95 EUR) en el siguiente enlace!
 
-[![Puma LIGA Casuals Shorts  Pantalones Cor](https://m.media-amazon.com/images/I/41+OkSFbpAL._SL200_.jpg)](https://www.amazon.es/dp/B078TP4W6S/?tag=tolees-21)
+[![Puma LIGA Casuals Shorts  Pantalones Cor](https://m.media-amazon.com/images/I/41+OkSFbpAL._SL400_.jpg)](https://www.amazon.es/dp/B078TP4W6S/?tag=tolees-21)
 
 ℹ️:
 

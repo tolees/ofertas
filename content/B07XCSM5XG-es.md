@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 32.34 % en FIFA 20 - Edición Estándar'
 date: 2020-05-10 20:24:20
-image: 'https://m.media-amazon.com/images/I/51slLdToUkL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51slLdToUkL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.9'
 
 Tienes [FIFA 20 - Edición Estándar](https://www.amazon.es/dp/B07XCSM5XG/?tag=tolees-21) con un 32.34 % de descuento con precio de oferta de 24.9 EUR (original: 36.8 EUR) en el siguiente enlace!
 
-[![FIFA 20 - Edición Estándar](https://m.media-amazon.com/images/I/51slLdToUkL._SL200_.jpg)](https://www.amazon.es/dp/B07XCSM5XG/?tag=tolees-21)
+[![FIFA 20 - Edición Estándar](https://m.media-amazon.com/images/I/51slLdToUkL._SL400_.jpg)](https://www.amazon.es/dp/B07XCSM5XG/?tag=tolees-21)
 
 ℹ️:
 

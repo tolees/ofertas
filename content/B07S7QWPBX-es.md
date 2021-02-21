@@ -2,7 +2,7 @@
 layout: post
 title: 'PUMA Carina L JR  Zapatillas para Niñas  al 37.70 % de descuento'
 date: 2020-06-26 10:44:47
-image: 'https://m.media-amazon.com/images/I/31FvoOiZm8L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31FvoOiZm8L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '31.12'
 
 Ahora mismo tienes [PUMA Carina L JR  Zapatillas para Niñas  Blanco White/Gulf Stream  37 EU](https://www.amazon.es/dp/B07S7QWPBX/?tag=tolees-21) a 31.12 EUR (original: 49.95 EUR) (37.70 %  de descuento) en el siguiente enlace!
 
-[![PUMA Carina L JR  Zapatillas para Niñas ](https://m.media-amazon.com/images/I/31FvoOiZm8L._SL200_.jpg)](https://www.amazon.es/dp/B07S7QWPBX/?tag=tolees-21)
+[![PUMA Carina L JR  Zapatillas para Niñas ](https://m.media-amazon.com/images/I/31FvoOiZm8L._SL400_.jpg)](https://www.amazon.es/dp/B07S7QWPBX/?tag=tolees-21)
 
 🔎:
 

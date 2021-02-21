@@ -2,7 +2,7 @@
 layout: post
 title: 'Casio Reloj Hombre de Digital con Correa al 42.53 % de descuento'
 date: 2020-08-22 07:25:43
-image: 'https://m.media-amazon.com/images/I/413kdoncstL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/413kdoncstL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '80.03'
 
 Ahora mismo tienes [Casio Reloj Hombre de Digital con Correa en Resina GBD-800UC-3ER](https://www.amazon.es/dp/B07PWCJHLY/?tag=tolees-21) a 79.0 EUR (original: 137.46 EUR) (42.53 %  de descuento) en el siguiente enlace!
 
-[![Casio Reloj Hombre de Digital con Correa](https://m.media-amazon.com/images/I/413kdoncstL._SL200_.jpg)](https://www.amazon.es/dp/B07PWCJHLY/?tag=tolees-21)
+[![Casio Reloj Hombre de Digital con Correa](https://m.media-amazon.com/images/I/413kdoncstL._SL400_.jpg)](https://www.amazon.es/dp/B07PWCJHLY/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Bourjois Volume Reveal Máscara de pestañ con un 72.86 % de descuento'
 date: 2020-07-16 22:39:17
-image: 'https://m.media-amazon.com/images/I/41h4TpV89iL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41h4TpV89iL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.2275'
 
 En este momento está [Bourjois Volume Reveal Máscara de pestañas Tono 31 Black - 40 gr.](https://www.amazon.es/dp/B06XDL8PSZ/?tag=tolees-21) a 2.7 EUR (original: 9.95 EUR) (72.86 %  de descuento) en el siguiente enlace!
 
-[![Bourjois Volume Reveal Máscara de pestañ](https://m.media-amazon.com/images/I/41h4TpV89iL._SL200_.jpg)](https://www.amazon.es/dp/B06XDL8PSZ/?tag=tolees-21)
+[![Bourjois Volume Reveal Máscara de pestañ](https://m.media-amazon.com/images/I/41h4TpV89iL._SL400_.jpg)](https://www.amazon.es/dp/B06XDL8PSZ/?tag=tolees-21)
 
 🔎:
 

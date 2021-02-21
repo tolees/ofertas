@@ -2,7 +2,7 @@
 layout: post
 title: 'Huj DIY gato forma especial pintura diam al 33.37 % de descuento'
 date: 2020-08-07 08:45:49
-image: 'https://m.media-amazon.com/images/I/510xJIypk1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/510xJIypk1L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.0'
 
 Ahora mismo tienes [Huj DIY gato forma especial pintura diamante mujer cadena bolsa cruzada bolsa de cuero](https://www.amazon.es/dp/B08CN92SSC/?tag=tolees-21) a 11.0 EUR (original: 16.51 EUR) (33.37 %  de descuento) en el siguiente enlace!
 
-[![Huj DIY gato forma especial pintura diam](https://m.media-amazon.com/images/I/510xJIypk1L._SL200_.jpg)](https://www.amazon.es/dp/B08CN92SSC/?tag=tolees-21)
+[![Huj DIY gato forma especial pintura diam](https://m.media-amazon.com/images/I/510xJIypk1L._SL400_.jpg)](https://www.amazon.es/dp/B08CN92SSC/?tag=tolees-21)
 
 🔎:
 

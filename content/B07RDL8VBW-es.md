@@ -2,7 +2,7 @@
 layout: post
 title: 'Utawarerumono: ZAN - Unmasked Edition con un 43.36 % de descuento'
 date: 2020-09-13 08:35:36
-image: 'https://m.media-amazon.com/images/I/51By08dxHlL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51By08dxHlL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '43.897999999999996'
 
 En este momento está [Utawarerumono: ZAN - Unmasked Edition](https://www.amazon.es/dp/B07RDL8VBW/?tag=tolees-21) a 35.11 EUR (original: 61.99 EUR) (43.36 %  de descuento) en el siguiente enlace!
 
-[![Utawarerumono: ZAN - Unmasked Edition](https://m.media-amazon.com/images/I/51By08dxHlL._SL200_.jpg)](https://www.amazon.es/dp/B07RDL8VBW/?tag=tolees-21)
+[![Utawarerumono: ZAN - Unmasked Edition](https://m.media-amazon.com/images/I/51By08dxHlL._SL400_.jpg)](https://www.amazon.es/dp/B07RDL8VBW/?tag=tolees-21)
 
 🔎:
 

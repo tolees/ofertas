@@ -2,7 +2,7 @@
 layout: post
 title: 'Finish Ambientador para lavavajillas fra al 38.75 % de descuento'
 date: 2020-06-08 04:15:33
-image: 'https://m.media-amazon.com/images/I/417DEhxfdEL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/417DEhxfdEL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.998'
 
 Ahora mismo tienes [Finish Ambientador para lavavajillas fragancia limón - 2 unidades - 120 lavados](https://www.amazon.es/dp/B01N4GL42J/?tag=tolees-21) a 2.75 EUR (original: 4.49 EUR) (38.75 %  de descuento) en el siguiente enlace!
 
-[![Finish Ambientador para lavavajillas fra](https://m.media-amazon.com/images/I/417DEhxfdEL._SL200_.jpg)](https://www.amazon.es/dp/B01N4GL42J/?tag=tolees-21)
+[![Finish Ambientador para lavavajillas fra](https://m.media-amazon.com/images/I/417DEhxfdEL._SL400_.jpg)](https://www.amazon.es/dp/B01N4GL42J/?tag=tolees-21)
 
 🔎:
 

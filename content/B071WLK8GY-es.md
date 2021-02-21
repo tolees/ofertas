@@ -2,7 +2,7 @@
 layout: post
 title: 'Apple Funda de piel  para el iPad Pro de con un 56.52 % de descuento'
 date: 2020-01-22 12:09:47
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31KOGA3NzML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31KOGA3NzML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '83.0'
 
 En este momento está [Apple Funda de piel  para el iPad Pro de 10 5 pulgadas  - Negro](https://www.amazon.es/dp/B071WLK8GY/?tag=tolees-21) a 64.78 EUR (original: 149 EUR) (56.52 %  de descuento) en el siguiente enlace!
 
-[![Apple Funda de piel  para el iPad Pro de](https://images-eu.ssl-images-amazon.com/images/I/31KOGA3NzML._SL200_.jpg)](https://www.amazon.es/dp/B071WLK8GY/?tag=tolees-21)
+[![Apple Funda de piel  para el iPad Pro de](https://images-eu.ssl-images-amazon.com/images/I/31KOGA3NzML._SL400_.jpg)](https://www.amazon.es/dp/B071WLK8GY/?tag=tolees-21)
 
 🔎:
 

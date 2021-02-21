@@ -2,7 +2,7 @@
 layout: post
 title: 'Superdry Classic Superstate S/s Polo  Ro al 40.01 % de descuento'
 date: 2020-07-22 21:55:58
-image: 'https://m.media-amazon.com/images/I/41Coe8MfzmL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Coe8MfzmL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '32.99'
 
 Está [Superdry Classic Superstate S/s Polo  Rojo  Rouge Red Wa7   L para Hombre](https://www.amazon.es/dp/B07TLLFZ31/?tag=tolees-21) con 40.01 de descuento por 32.99 EUR (original: 54.99 EUR) en el siguiente enlace!
 
-[![Superdry Classic Superstate S/s Polo  Ro](https://m.media-amazon.com/images/I/41Coe8MfzmL._SL200_.jpg)](https://www.amazon.es/dp/B07TLLFZ31/?tag=tolees-21)
+[![Superdry Classic Superstate S/s Polo  Ro](https://m.media-amazon.com/images/I/41Coe8MfzmL._SL400_.jpg)](https://www.amazon.es/dp/B07TLLFZ31/?tag=tolees-21)
 
 ℹ️:
 

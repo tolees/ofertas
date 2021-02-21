@@ -2,7 +2,7 @@
 layout: post
 title: 'María Barceló Sneaker Alta Piel Negro Mu al 54.67 % de rebaja'
 date: 2020-02-02 18:05:00
-image: 'https://m.media-amazon.com/images/I/31KHskWfDxL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31KHskWfDxL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '67.99'
 
 Tienes [María Barceló Sneaker Alta Piel Negro Mujer](https://www.amazon.es/dp/B07Y9XZZQH/?tag=tolees-21) con precio final de  67.99 EUR (original: 150.0 EUR) (54.67 %  de rebaja) aqui!
 
-[![María Barceló Sneaker Alta Piel Negro Mu](https://m.media-amazon.com/images/I/31KHskWfDxL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07Y9XZZQH/?tag=tolees-21)
+[![María Barceló Sneaker Alta Piel Negro Mu](https://m.media-amazon.com/images/I/31KHskWfDxL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07Y9XZZQH/?tag=tolees-21)
 
 🔎:
 

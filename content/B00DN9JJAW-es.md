@@ -2,7 +2,7 @@
 layout: post
 title: 'Soria Natural - FOST PRINT JUNIOR SABOR  al 32.20 % de rebaja'
 date: 2020-01-12 12:47:20
-image: 'https://images-eu.ssl-images-amazon.com/images/I/518DB0n2UpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/518DB0n2UpL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.79'
 
 Tienes [Soria Natural - FOST PRINT JUNIOR SABOR FRESA - Complemento alimenticio - Energía extra para niños y adolescentes en actividades deportivas y académicas  examenes  - 20 unidades - Cambios de estación](https://www.amazon.es/dp/B00DN9JJAW/?tag=tolees-21) con precio final de  13.79 EUR (original: 20.34 EUR) (32.20 %  de rebaja) aqui!
 
-[![Soria Natural - FOST PRINT JUNIOR SABOR ](https://images-eu.ssl-images-amazon.com/images/I/518DB0n2UpL._SL200_.jpg)](https://www.amazon.es/dp/B00DN9JJAW/?tag=tolees-21)
+[![Soria Natural - FOST PRINT JUNIOR SABOR ](https://images-eu.ssl-images-amazon.com/images/I/518DB0n2UpL._SL400_.jpg)](https://www.amazon.es/dp/B00DN9JJAW/?tag=tolees-21)
 
 🔎:
 

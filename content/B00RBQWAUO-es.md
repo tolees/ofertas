@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 48.95 % en Dolce & Gabbana - Pour Homme Intenso Eau'
 date: 2020-07-23 18:43:02
-image: 'https://m.media-amazon.com/images/I/41AY3BaDXyL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41AY3BaDXyL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '64.32'
 
 Tienes [Dolce & Gabbana - Pour Homme Intenso Eau De Perfume Spray  200 ml](https://www.amazon.es/dp/B00RBQWAUO/?tag=tolees-21) con un 48.95 % de descuento con precio de oferta de 64.32 EUR (original: 126.0 EUR) en el siguiente enlace!
 
-[![Dolce & Gabbana - Pour Homme Intenso Eau](https://m.media-amazon.com/images/I/41AY3BaDXyL._SL200_.jpg)](https://www.amazon.es/dp/B00RBQWAUO/?tag=tolees-21)
+[![Dolce & Gabbana - Pour Homme Intenso Eau](https://m.media-amazon.com/images/I/41AY3BaDXyL._SL400_.jpg)](https://www.amazon.es/dp/B00RBQWAUO/?tag=tolees-21)
 
 ℹ️:
 

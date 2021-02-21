@@ -2,7 +2,7 @@
 layout: post
 title: 'Bosch Professional GAM 220 - Medidor de  con un 25.95 % de descuento'
 date: 2020-06-02 06:49:16
-image: 'https://m.media-amazon.com/images/I/41eptgzRQ3L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41eptgzRQ3L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '137.99'
 
 En este momento está [Bosch Professional GAM 220 - Medidor de ángulos / goniómetro digital  0-220°  en caja ](https://www.amazon.es/dp/B013WAHFIY/?tag=tolees-21) a 137.99 EUR (original: 186.34 EUR) (25.95 %  de descuento) en el siguiente enlace!
 
-[![Bosch Professional GAM 220 - Medidor de ](https://m.media-amazon.com/images/I/41eptgzRQ3L._SL200_.jpg)](https://www.amazon.es/dp/B013WAHFIY/?tag=tolees-21)
+[![Bosch Professional GAM 220 - Medidor de ](https://m.media-amazon.com/images/I/41eptgzRQ3L._SL400_.jpg)](https://www.amazon.es/dp/B013WAHFIY/?tag=tolees-21)
 
 🔎:
 

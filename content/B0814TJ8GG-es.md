@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour Tech Wordmark Corto  Hombre con un 48.37 % de descuento'
 date: 2020-03-28 19:31:51
-image: 'https://m.media-amazon.com/images/I/41Kzit90ysL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Kzit90ysL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.49'
 
 En este momento está [Under Armour Tech Wordmark Corto  Hombre  Negro  XL](https://www.amazon.es/dp/B0814TJ8GG/?tag=tolees-21) a 15.49 EUR (original: 30.0 EUR) (48.37 %  de descuento) en el siguiente enlace!
 
-[![Under Armour Tech Wordmark Corto  Hombre](https://m.media-amazon.com/images/I/41Kzit90ysL._SL200_.jpg)](https://www.amazon.es/dp/B0814TJ8GG/?tag=tolees-21)
+[![Under Armour Tech Wordmark Corto  Hombre](https://m.media-amazon.com/images/I/41Kzit90ysL._SL400_.jpg)](https://www.amazon.es/dp/B0814TJ8GG/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour  Bolsa de Deporte One Size  con un 66.86 % de descuento'
 date: 2020-05-29 14:33:08
-image: 'https://m.media-amazon.com/images/I/41we6Q1RavL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41we6Q1RavL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.04'
 
 En este momento está [Under Armour  Bolsa de Deporte One Size  Gr](https://www.amazon.es/dp/B07DWN53LK/?tag=tolees-21) a 16.04 EUR (original: 48.4 EUR) (66.86 %  de descuento) en el siguiente enlace!
 
-[![Under Armour  Bolsa de Deporte One Size ](https://m.media-amazon.com/images/I/41we6Q1RavL._SL200_.jpg)](https://www.amazon.es/dp/B07DWN53LK/?tag=tolees-21)
+[![Under Armour  Bolsa de Deporte One Size ](https://m.media-amazon.com/images/I/41we6Q1RavL._SL400_.jpg)](https://www.amazon.es/dp/B07DWN53LK/?tag=tolees-21)
 
 🔎:
 

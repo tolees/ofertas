@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s Original Batwing  Multicolor  Hm  al 50.00 % de descuento'
 date: 2020-08-01 10:16:19
-image: 'https://m.media-amazon.com/images/I/41mJfKd4JvL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41mJfKd4JvL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '27.5'
 
 Ahora mismo tienes [Levi s Original Batwing  Multicolor  Hm Patch Polo Riverside/White/Mello 0010   X-Large para Hombre](https://www.amazon.es/dp/B07TPPPTJF/?tag=tolees-21) a 27.5 EUR (original: 55.0 EUR) (50.00 %  de descuento) en el siguiente enlace!
 
-[![Levi s Original Batwing  Multicolor  Hm ](https://m.media-amazon.com/images/I/41mJfKd4JvL._SL200_.jpg)](https://www.amazon.es/dp/B07TPPPTJF/?tag=tolees-21)
+[![Levi s Original Batwing  Multicolor  Hm ](https://m.media-amazon.com/images/I/41mJfKd4JvL._SL400_.jpg)](https://www.amazon.es/dp/B07TPPPTJF/?tag=tolees-21)
 
 🔎:
 

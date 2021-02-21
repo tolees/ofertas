@@ -2,7 +2,7 @@
 layout: post
 title: 'Le Coq Sportif COURTSTAR  Zapatillas par al 50.00 % de descuento'
 date: 2020-03-07 15:47:55
-image: 'https://m.media-amazon.com/images/I/3147Xoe3uML._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/3147Xoe3uML._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '39.0'
 
 Ahora mismo tienes [Le Coq Sportif COURTSTAR  Zapatillas para Hombre  Blanco  Optical White/Grey Denim Optical White/Grey Denim   46 EU](https://www.amazon.es/dp/B07MK82DQD/?tag=tolees-21) a 39.0 EUR (original: 78.0 EUR) (50.00 %  de descuento) en el siguiente enlace!
 
-[![Le Coq Sportif COURTSTAR  Zapatillas par](https://m.media-amazon.com/images/I/3147Xoe3uML._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07MK82DQD/?tag=tolees-21)
+[![Le Coq Sportif COURTSTAR  Zapatillas par](https://m.media-amazon.com/images/I/3147Xoe3uML._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07MK82DQD/?tag=tolees-21)
 
 🔎:
 

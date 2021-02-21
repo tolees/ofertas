@@ -2,7 +2,7 @@
 layout: post
 title: 'Aeeque - Funda de cuero para iPhone 6 6S con un 44.02 % de descuento'
 date: 2020-04-28 09:45:39
-image: 'https://m.media-amazon.com/images/I/41hWKGNksLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41hWKGNksLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.43'
 
 En este momento está [Aeeque - Funda de cuero para iPhone 6 6S Plus 5S 5 Samsung Galaxy S7 borde J5 J7 Huawei Xiaomi  de alta calidad  multifunción  con cremallera y cierre magnético  con ranura para tarjetas ](https://www.amazon.es/dp/B071KWKP63/?tag=tolees-21) a 13.99 EUR (original: 24.99 EUR) (44.02 %  de descuento) en el siguiente enlace!
 
-[![Aeeque - Funda de cuero para iPhone 6 6S](https://m.media-amazon.com/images/I/41hWKGNksLL._SL200_.jpg)](https://www.amazon.es/dp/B071KWKP63/?tag=tolees-21)
+[![Aeeque - Funda de cuero para iPhone 6 6S](https://m.media-amazon.com/images/I/41hWKGNksLL._SL400_.jpg)](https://www.amazon.es/dp/B071KWKP63/?tag=tolees-21)
 
 🔎:
 

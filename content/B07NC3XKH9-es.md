@@ -2,7 +2,7 @@
 layout: post
 title: 'AXE Adrenaline Charge Up - Desodorante a al 42.22 % de rebaja'
 date: 2020-03-29 09:33:12
-image: 'https://m.media-amazon.com/images/I/41eGvgjmluL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41eGvgjmluL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.575000000000001'
 
 Tienes [AXE Adrenaline Charge Up - Desodorante antitranspirante en Aerosol para hombre  48 horas de protección  150 ml  pack de 3](https://www.amazon.es/dp/B07NC3XKH9/?tag=tolees-21) con precio final de  6.24 EUR (original: 10.8 EUR) (42.22 %  de rebaja) aqui!
 
-[![AXE Adrenaline Charge Up - Desodorante a](https://m.media-amazon.com/images/I/41eGvgjmluL._SL200_.jpg)](https://www.amazon.es/dp/B07NC3XKH9/?tag=tolees-21)
+[![AXE Adrenaline Charge Up - Desodorante a](https://m.media-amazon.com/images/I/41eGvgjmluL._SL400_.jpg)](https://www.amazon.es/dp/B07NC3XKH9/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 29.54 % en Cooler Master XDream i117 - Ventiladores'
 date: 2020-05-07 18:07:12
-image: 'https://m.media-amazon.com/images/I/41DBoXV-k1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41DBoXV-k1L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.24'
 
 Tienes [Cooler Master XDream i117 - Ventiladores de CPU  Cross Shape Heat Dissipating Design  1800RPM +/-10%  Ventilador de 95mm  RR-X117-18FP-R1](https://www.amazon.es/dp/B005C5GNQS/?tag=tolees-21) con un 29.54 % de descuento con precio de oferta de 10.95 EUR (original: 15.54 EUR) en el siguiente enlace!
 
-[![Cooler Master XDream i117 - Ventiladores](https://m.media-amazon.com/images/I/41DBoXV-k1L._SL200_.jpg)](https://www.amazon.es/dp/B005C5GNQS/?tag=tolees-21)
+[![Cooler Master XDream i117 - Ventiladores](https://m.media-amazon.com/images/I/41DBoXV-k1L._SL400_.jpg)](https://www.amazon.es/dp/B005C5GNQS/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Polti Forzaspira MC330 Turbo  aspirador  al 60.00 % de rebaja'
 date: 2020-04-14 13:04:08
-image: 'https://m.media-amazon.com/images/I/51jVHDFrg8L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51jVHDFrg8L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '91.94'
 
 Tienes [Polti Forzaspira MC330 Turbo  aspirador multiciclónico sin bolsa  doble clase A](https://www.amazon.es/dp/B00M9COIIW/?tag=tolees-21) con precio final de  100.0 EUR (original: 250.0 EUR) (60.00 %  de rebaja) aqui!
 
-[![Polti Forzaspira MC330 Turbo  aspirador ](https://m.media-amazon.com/images/I/51jVHDFrg8L._SL200_.jpg)](https://www.amazon.es/dp/B00M9COIIW/?tag=tolees-21)
+[![Polti Forzaspira MC330 Turbo  aspirador ](https://m.media-amazon.com/images/I/51jVHDFrg8L._SL400_.jpg)](https://www.amazon.es/dp/B00M9COIIW/?tag=tolees-21)
 
 🔎:
 

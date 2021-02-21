@@ -2,7 +2,7 @@
 layout: post
 title: 'Osram 819559 Bombilla LED E27  14 W  Bla con un 40.03 % de descuento'
 date: 2020-05-07 08:12:13
-image: 'https://m.media-amazon.com/images/I/312-RzAPUqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/312-RzAPUqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.088000000000001'
 
 En este momento está [Osram 819559 Bombilla LED E27  14 W  Blanco Frío  3 Unidades](https://www.amazon.es/dp/B073QSXXCH/?tag=tolees-21) a 8.99 EUR (original: 14.99 EUR) (40.03 %  de descuento) en el siguiente enlace!
 
-[![Osram 819559 Bombilla LED E27  14 W  Bla](https://m.media-amazon.com/images/I/312-RzAPUqL._SL200_.jpg)](https://www.amazon.es/dp/B073QSXXCH/?tag=tolees-21)
+[![Osram 819559 Bombilla LED E27  14 W  Bla](https://m.media-amazon.com/images/I/312-RzAPUqL._SL400_.jpg)](https://www.amazon.es/dp/B073QSXXCH/?tag=tolees-21)
 
 🔎:
 

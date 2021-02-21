@@ -2,7 +2,7 @@
 layout: post
 title: 'JACK & JONES Jfwtrent PU Anthracite 19 N al 25.01 % de descuento'
 date: 2020-02-01 17:46:16
-image: 'https://m.media-amazon.com/images/I/31NSSB7j+WL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31NSSB7j+WL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '37.49'
 
 Ahora mismo tienes [JACK & JONES Jfwtrent PU Anthracite 19 Noos  Zapatillas para Hombre  Gris  45 EU](https://www.amazon.es/dp/B07JG5F2XM/?tag=tolees-21) a 37.49 EUR (original: 49.99 EUR) (25.01 %  de descuento) en el siguiente enlace!
 
-[![JACK & JONES Jfwtrent PU Anthracite 19 N](https://m.media-amazon.com/images/I/31NSSB7j+WL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07JG5F2XM/?tag=tolees-21)
+[![JACK & JONES Jfwtrent PU Anthracite 19 N](https://m.media-amazon.com/images/I/31NSSB7j+WL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07JG5F2XM/?tag=tolees-21)
 
 🔎:
 

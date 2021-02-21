@@ -2,7 +2,7 @@
 layout: post
 title: 'Bourjois Delice De Poudre Polvos Broncea con un 31.92 % de descuento'
 date: 2020-09-07 06:26:14
-image: 'https://m.media-amazon.com/images/I/41Hw2W6OQgL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Hw2W6OQgL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.370000000000001'
 
 En este momento está [Bourjois Delice De Poudre Polvos Bronceadores Tono 55 Highlighter + universal tan - 67 gr.](https://www.amazon.es/dp/B00LP418TM/?tag=tolees-21) a 8.85 EUR (original: 13.0 EUR) (31.92 %  de descuento) en el siguiente enlace!
 
-[![Bourjois Delice De Poudre Polvos Broncea](https://m.media-amazon.com/images/I/41Hw2W6OQgL._SL200_.jpg)](https://www.amazon.es/dp/B00LP418TM/?tag=tolees-21)
+[![Bourjois Delice De Poudre Polvos Broncea](https://m.media-amazon.com/images/I/41Hw2W6OQgL._SL400_.jpg)](https://www.amazon.es/dp/B00LP418TM/?tag=tolees-21)
 
 🔎:
 

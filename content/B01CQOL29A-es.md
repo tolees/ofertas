@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas Zx Flux  Zapatillas de Entrenamie al 50.51 % de rebaja'
 date: 2020-08-10 03:16:06
-image: 'https://m.media-amazon.com/images/I/412PcczWBQL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/412PcczWBQL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '46.99'
 
 Tienes [adidas Zx Flux  Zapatillas de Entrenamiento Hombre  Negro  Cblack/Cblack/Dkgrey   42 EU](https://www.amazon.es/dp/B01CQOL29A/?tag=tolees-21) con precio final de  46.99 EUR (original: 94.95 EUR) (50.51 %  de rebaja) aqui!
 
-[![adidas Zx Flux  Zapatillas de Entrenamie](https://m.media-amazon.com/images/I/412PcczWBQL._SL200_.jpg)](https://www.amazon.es/dp/B01CQOL29A/?tag=tolees-21)
+[![adidas Zx Flux  Zapatillas de Entrenamie](https://m.media-amazon.com/images/I/412PcczWBQL._SL400_.jpg)](https://www.amazon.es/dp/B01CQOL29A/?tag=tolees-21)
 
 🔎:
 

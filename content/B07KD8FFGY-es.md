@@ -2,7 +2,7 @@
 layout: post
 title: 'Nike M NSW Club Hoodie FZ BB Sweatshirt  con un 28.55 % de descuento'
 date: 2020-01-20 21:46:44
-image: 'https://images-eu.ssl-images-amazon.com/images/I/415CiYTC95L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/415CiYTC95L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '27.9'
 
 En este momento está [Nike M NSW Club Hoodie FZ BB Sweatshirt  Hombre  Midnight Navy/Midnight Navy/ White   L](https://www.amazon.es/dp/B07KD8FFGY/?tag=tolees-21) a 27.9 EUR (original: 39.05 EUR) (28.55 %  de descuento) en el siguiente enlace!
 
-[![Nike M NSW Club Hoodie FZ BB Sweatshirt ](https://images-eu.ssl-images-amazon.com/images/I/415CiYTC95L._SL200_.jpg)](https://www.amazon.es/dp/B07KD8FFGY/?tag=tolees-21)
+[![Nike M NSW Club Hoodie FZ BB Sweatshirt ](https://images-eu.ssl-images-amazon.com/images/I/415CiYTC95L._SL400_.jpg)](https://www.amazon.es/dp/B07KD8FFGY/?tag=tolees-21)
 
 🔎:
 

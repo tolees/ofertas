@@ -2,7 +2,7 @@
 layout: post
 title: 'Russell Hobbs Textures  -  Hervidor de A al 25.41 % de descuento'
 date: 2020-05-01 13:54:24
-image: 'https://m.media-amazon.com/images/I/41F+Ira1k9L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41F+Ira1k9L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.408749999999998'
 
 Está [Russell Hobbs Textures  -  Hervidor de Agua Eléctrico  2400 W  1.7 L  Plástico Alto Brillo  sin BPA  Negro  ref. 22591-70](https://www.amazon.es/dp/B01B0YT0E6/?tag=tolees-21) con 25.41 de descuento por 23.86 EUR (original: 31.99 EUR) en el siguiente enlace!
 
-[![Russell Hobbs Textures  -  Hervidor de A](https://m.media-amazon.com/images/I/41F+Ira1k9L._SL200_.jpg)](https://www.amazon.es/dp/B01B0YT0E6/?tag=tolees-21)
+[![Russell Hobbs Textures  -  Hervidor de A](https://m.media-amazon.com/images/I/41F+Ira1k9L._SL400_.jpg)](https://www.amazon.es/dp/B01B0YT0E6/?tag=tolees-21)
 
 ℹ️:
 

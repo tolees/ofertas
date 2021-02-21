@@ -2,7 +2,7 @@
 layout: post
 title: 'Skechers Men s STAMINA CUTBACK Trainers  al 52.07 % de descuento'
 date: 2020-08-06 08:54:21
-image: 'https://m.media-amazon.com/images/I/416FLd9Gb0L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/416FLd9Gb0L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '38.32'
 
 Ahora mismo tienes [Skechers Men s STAMINA CUTBACK Trainers  Blue  Navy & Black Leather/Charcoal Mesh Nvbk   7.5  41.5 EU ](https://www.amazon.es/dp/B00VR53UC2/?tag=tolees-21) a 38.32 EUR (original: 79.95 EUR) (52.07 %  de descuento) en el siguiente enlace!
 
-[![Skechers Men s STAMINA CUTBACK Trainers ](https://m.media-amazon.com/images/I/416FLd9Gb0L._SL200_.jpg)](https://www.amazon.es/dp/B00VR53UC2/?tag=tolees-21)
+[![Skechers Men s STAMINA CUTBACK Trainers ](https://m.media-amazon.com/images/I/416FLd9Gb0L._SL400_.jpg)](https://www.amazon.es/dp/B00VR53UC2/?tag=tolees-21)
 
 🔎:
 

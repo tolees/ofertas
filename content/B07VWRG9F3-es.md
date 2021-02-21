@@ -2,7 +2,7 @@
 layout: post
 title: 'Jack & Jones Jorbrit Crew Neck suéter  A con un 73.97 % de descuento'
 date: 2020-06-25 11:14:17
-image: 'https://m.media-amazon.com/images/I/41Jc5uYClcL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Jc5uYClcL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.445'
 
 En este momento está [Jack & Jones Jorbrit Crew Neck suéter  Azul  Navy Blazer Fit: Knit Fit   Large para Hombre](https://www.amazon.es/dp/B07VWRG9F3/?tag=tolees-21) a 10.41 EUR (original: 39.99 EUR) (73.97 %  de descuento) en el siguiente enlace!
 
-[![Jack & Jones Jorbrit Crew Neck suéter  A](https://m.media-amazon.com/images/I/41Jc5uYClcL._SL200_.jpg)](https://www.amazon.es/dp/B07VWRG9F3/?tag=tolees-21)
+[![Jack & Jones Jorbrit Crew Neck suéter  A](https://m.media-amazon.com/images/I/41Jc5uYClcL._SL400_.jpg)](https://www.amazon.es/dp/B07VWRG9F3/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Xpansy Hose Pro C2607B Manguera Extensib al 25.06 % de rebaja'
 date: 2020-05-21 12:21:43
-image: 'https://m.media-amazon.com/images/I/514YISHKiqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/514YISHKiqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.026666666666667'
 
 Tienes [Xpansy Hose Pro C2607B Manguera Extensible con la Presión del Agua  Azul  7 5 metros](https://www.amazon.es/dp/B07BYVND9C/?tag=tolees-21) con precio final de  18.09 EUR (original: 24.14 EUR) (25.06 %  de rebaja) aqui!
 
-[![Xpansy Hose Pro C2607B Manguera Extensib](https://m.media-amazon.com/images/I/514YISHKiqL._SL200_.jpg)](https://www.amazon.es/dp/B07BYVND9C/?tag=tolees-21)
+[![Xpansy Hose Pro C2607B Manguera Extensib](https://m.media-amazon.com/images/I/514YISHKiqL._SL400_.jpg)](https://www.amazon.es/dp/B07BYVND9C/?tag=tolees-21)
 
 🔎:
 

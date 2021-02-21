@@ -2,7 +2,7 @@
 layout: post
 title: 'Correas de Yoga Ajustable de 2 4 m – 2 x al 50.78 % de descuento'
 date: 2020-08-28 09:02:46
-image: 'https://m.media-amazon.com/images/I/51S-mem8xOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51S-mem8xOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.87'
 
 Está [Correas de Yoga Ajustable de 2 4 m – 2 x Pack I Incluye eBook I Correa de Estiramientos con Hebilla en D para Pilates  Gimnasio Fitness I Ideal para Estiramientos Flexibilidad  Yoga Stap](https://www.amazon.es/dp/B06XYFTVDV/?tag=tolees-21) con 50.78 de descuento por 7.87 EUR (original: 15.99 EUR) en el siguiente enlace!
 
-[![Correas de Yoga Ajustable de 2 4 m – 2 x](https://m.media-amazon.com/images/I/51S-mem8xOL._SL200_.jpg)](https://www.amazon.es/dp/B06XYFTVDV/?tag=tolees-21)
+[![Correas de Yoga Ajustable de 2 4 m – 2 x](https://m.media-amazon.com/images/I/51S-mem8xOL._SL400_.jpg)](https://www.amazon.es/dp/B06XYFTVDV/?tag=tolees-21)
 
 ℹ️:
 

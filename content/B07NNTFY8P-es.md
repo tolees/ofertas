@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour Women s Charged Impulse Lau con un 43.47 % de descuento'
 date: 2020-05-20 17:21:37
-image: 'https://m.media-amazon.com/images/I/41F1qEAnTTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41F1qEAnTTL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '39.54'
 
 En este momento está [Under Armour Women s Charged Impulse Laufschuhe  Zapatillas de Running para Mujer  Blanco  White/Halo Gray/Mod Gray  103  103   38 EU](https://www.amazon.es/dp/B07NNTFY8P/?tag=tolees-21) a 39.54 EUR (original: 69.95 EUR) (43.47 %  de descuento) en el siguiente enlace!
 
-[![Under Armour Women s Charged Impulse Lau](https://m.media-amazon.com/images/I/41F1qEAnTTL._SL200_.jpg)](https://www.amazon.es/dp/B07NNTFY8P/?tag=tolees-21)
+[![Under Armour Women s Charged Impulse Lau](https://m.media-amazon.com/images/I/41F1qEAnTTL._SL400_.jpg)](https://www.amazon.es/dp/B07NNTFY8P/?tag=tolees-21)
 
 🔎:
 

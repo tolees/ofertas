@@ -2,7 +2,7 @@
 layout: post
 title: 'SZBHS Adaptador USB C a USB 3.0 [4 unida al 33.36 % de rebaja'
 date: 2020-09-11 19:46:09
-image: 'https://m.media-amazon.com/images/I/41rMhuI5M4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41rMhuI5M4L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.99'
 
 Tienes [SZBHS Adaptador USB C a USB 3.0 [4 unidades] Adaptador USB C a Micro USB  USB Tipo C Adaptador  OTG USB Tipo C Adaptador Portátil con llave  para Huawei Mate 20  Samsung Galaxy LG  Negro ](https://www.amazon.es/dp/B07YW534HT/?tag=tolees-21) con precio final de  9.99 EUR (original: 14.99 EUR) (33.36 %  de rebaja) aqui!
 
-[![SZBHS Adaptador USB C a USB 3.0 [4 unida](https://m.media-amazon.com/images/I/41rMhuI5M4L._SL200_.jpg)](https://www.amazon.es/dp/B07YW534HT/?tag=tolees-21)
+[![SZBHS Adaptador USB C a USB 3.0 [4 unida](https://m.media-amazon.com/images/I/41rMhuI5M4L._SL400_.jpg)](https://www.amazon.es/dp/B07YW534HT/?tag=tolees-21)
 
 🔎:
 

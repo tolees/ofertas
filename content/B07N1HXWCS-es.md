@@ -2,7 +2,7 @@
 layout: post
 title: 'Clarks Sheer Flora  Botas Chelsea para M al 30.49 % de descuento'
 date: 2020-02-27 11:36:12
-image: 'https://m.media-amazon.com/images/I/31iBYdN4gaL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31iBYdN4gaL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '28.47'
 
 Está [Clarks Sheer Flora  Botas Chelsea para Mujer  Marrón Burgundy Suede  41 EU](https://www.amazon.es/dp/B07N1HXWCS/?tag=tolees-21) con 30.49 de descuento por 28.47 EUR (original: 40.96 EUR) en el siguiente enlace!
 
-[![Clarks Sheer Flora  Botas Chelsea para M](https://m.media-amazon.com/images/I/31iBYdN4gaL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07N1HXWCS/?tag=tolees-21)
+[![Clarks Sheer Flora  Botas Chelsea para M](https://m.media-amazon.com/images/I/31iBYdN4gaL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07N1HXWCS/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Maybelline New York - SuperStay 24H  Bas al 48.04 % de descuento'
 date: 2020-05-31 13:44:42
-image: 'https://m.media-amazon.com/images/I/31boXn8YK3L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31boXn8YK3L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.5'
 
 Está [Maybelline New York - SuperStay 24H  Base de Maquillaje Semi-Mate de Alta Cobertura  Tono 30 Sand](https://www.amazon.es/dp/B073VN56CZ/?tag=tolees-21) con 48.04 de descuento por 6.75 EUR (original: 12.99 EUR) en el siguiente enlace!
 
-[![Maybelline New York - SuperStay 24H  Bas](https://m.media-amazon.com/images/I/31boXn8YK3L._SL200_.jpg)](https://www.amazon.es/dp/B073VN56CZ/?tag=tolees-21)
+[![Maybelline New York - SuperStay 24H  Bas](https://m.media-amazon.com/images/I/31boXn8YK3L._SL400_.jpg)](https://www.amazon.es/dp/B073VN56CZ/?tag=tolees-21)
 
 ℹ️:
 

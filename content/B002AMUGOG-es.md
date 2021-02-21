@@ -2,7 +2,7 @@
 layout: post
 title: 'Sisley Gel Nettoyant Gommant Pour Le Vis al 39.76 % de descuento'
 date: 2020-05-09 08:35:13
-image: 'https://m.media-amazon.com/images/I/313hZlzHHPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/313hZlzHHPL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '54.52'
 
 Ahora mismo tienes [Sisley Gel Nettoyant Gommant Pour Le Visage 100 ml](https://www.amazon.es/dp/B002AMUGOG/?tag=tolees-21) a 54.52 EUR (original: 90.5 EUR) (39.76 %  de descuento) en el siguiente enlace!
 
-[![Sisley Gel Nettoyant Gommant Pour Le Vis](https://m.media-amazon.com/images/I/313hZlzHHPL._SL200_.jpg)](https://www.amazon.es/dp/B002AMUGOG/?tag=tolees-21)
+[![Sisley Gel Nettoyant Gommant Pour Le Vis](https://m.media-amazon.com/images/I/313hZlzHHPL._SL400_.jpg)](https://www.amazon.es/dp/B002AMUGOG/?tag=tolees-21)
 
 🔎:
 

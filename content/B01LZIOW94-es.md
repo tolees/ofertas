@@ -2,7 +2,7 @@
 layout: post
 title: 'Sigma 09162 Ciclocomputador  Negro  Tall al 27.46 % de rebaja'
 date: 2020-08-11 02:56:12
-image: 'https://m.media-amazon.com/images/I/41ZjTHIX4uL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ZjTHIX4uL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '25.653333333333332'
 
 Tienes [Sigma 09162 Ciclocomputador  Negro  Talla Única](https://www.amazon.es/dp/B01LZIOW94/?tag=tolees-21) con precio final de  28.98 EUR (original: 39.95 EUR) (27.46 %  de rebaja) aqui!
 
-[![Sigma 09162 Ciclocomputador  Negro  Tall](https://m.media-amazon.com/images/I/41ZjTHIX4uL._SL200_.jpg)](https://www.amazon.es/dp/B01LZIOW94/?tag=tolees-21)
+[![Sigma 09162 Ciclocomputador  Negro  Tall](https://m.media-amazon.com/images/I/41ZjTHIX4uL._SL400_.jpg)](https://www.amazon.es/dp/B01LZIOW94/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Docooler Cámara Web USB A870 Cámara Web  al 40.62 % de rebaja'
 date: 2020-06-27 05:25:51
-image: 'https://m.media-amazon.com/images/I/41Q4Up8LVnL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Q4Up8LVnL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.485'
 
 Tienes [Docooler Cámara Web USB A870 Cámara Web 1080P Sonido Incorporado Micrófono para Juegos para lecciones en línea Computadora de Escritorio Cámara](https://www.amazon.es/dp/B088H1XM4F/?tag=tolees-21) con precio final de  18.99 EUR (original: 31.98 EUR) (40.62 %  de rebaja) aqui!
 
-[![Docooler Cámara Web USB A870 Cámara Web ](https://m.media-amazon.com/images/I/41Q4Up8LVnL._SL200_.jpg)](https://www.amazon.es/dp/B088H1XM4F/?tag=tolees-21)
+[![Docooler Cámara Web USB A870 Cámara Web ](https://m.media-amazon.com/images/I/41Q4Up8LVnL._SL400_.jpg)](https://www.amazon.es/dp/B088H1XM4F/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'AmazonBasics - Bayeta de microfibra  6 u con un 44.26 % de descuento'
 date: 2020-08-29 09:02:48
-image: 'https://m.media-amazon.com/images/I/41COKmjRQdL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41COKmjRQdL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.05'
 
 En este momento está [AmazonBasics - Bayeta de microfibra  6 unidades   color blanco  azul y amarillo](https://www.amazon.es/dp/B013R7XPB8/?tag=tolees-21) a 5.05 EUR (original: 9.06 EUR) (44.26 %  de descuento) en el siguiente enlace!
 
-[![AmazonBasics - Bayeta de microfibra  6 u](https://m.media-amazon.com/images/I/41COKmjRQdL._SL200_.jpg)](https://www.amazon.es/dp/B013R7XPB8/?tag=tolees-21)
+[![AmazonBasics - Bayeta de microfibra  6 u](https://m.media-amazon.com/images/I/41COKmjRQdL._SL400_.jpg)](https://www.amazon.es/dp/B013R7XPB8/?tag=tolees-21)
 
 🔎:
 

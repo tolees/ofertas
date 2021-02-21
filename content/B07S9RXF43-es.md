@@ -2,7 +2,7 @@
 layout: post
 title: 'PUMA Nrgy Neko Retro Wns  Zapatillas de  con un 42.89 % de descuento'
 date: 2020-04-04 06:43:45
-image: 'https://m.media-amazon.com/images/I/31NaPqA1mKL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31NaPqA1mKL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '39.95'
 
 En este momento está [PUMA Nrgy Neko Retro Wns  Zapatillas de Running para Mujer  Blanco White/High Rise/Pink Rosewater 09  37 EU](https://www.amazon.es/dp/B07S9RXF43/?tag=tolees-21) a 39.95 EUR (original: 69.95 EUR) (42.89 %  de descuento) en el siguiente enlace!
 
-[![PUMA Nrgy Neko Retro Wns  Zapatillas de ](https://m.media-amazon.com/images/I/31NaPqA1mKL._SL200_.jpg)](https://www.amazon.es/dp/B07S9RXF43/?tag=tolees-21)
+[![PUMA Nrgy Neko Retro Wns  Zapatillas de ](https://m.media-amazon.com/images/I/31NaPqA1mKL._SL400_.jpg)](https://www.amazon.es/dp/B07S9RXF43/?tag=tolees-21)
 
 🔎:
 

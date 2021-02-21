@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s Twain  Zapatillas para Hombre  Ne al 33.66 % de rebaja'
 date: 2020-02-13 14:14:23
-image: 'https://m.media-amazon.com/images/I/312r-ALrBrL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/312r-ALrBrL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '31.055'
 
 Tienes [Levi s Twain  Zapatillas para Hombre  Negro  Shoes 59   42 EU](https://www.amazon.es/dp/B07N4LYR4X/?tag=tolees-21) con precio final de  29.17 EUR (original: 43.97 EUR) (33.66 %  de rebaja) aqui!
 
-[![Levi s Twain  Zapatillas para Hombre  Ne](https://m.media-amazon.com/images/I/312r-ALrBrL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07N4LYR4X/?tag=tolees-21)
+[![Levi s Twain  Zapatillas para Hombre  Ne](https://m.media-amazon.com/images/I/312r-ALrBrL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07N4LYR4X/?tag=tolees-21)
 
 🔎:
 

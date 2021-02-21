@@ -2,7 +2,7 @@
 layout: post
 title: '40g Bola de baño Tamaño pequeño Hogar Ho al 33.52 % de rebaja'
 date: 2020-08-06 12:15:56
-image: 'https://m.media-amazon.com/images/I/31AOX7d5PCL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31AOX7d5PCL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.17'
 
 Tienes [40g Bola de baño Tamaño pequeño Hogar Hotel Baño SPA Bubble Fizzer Bath Bomb - Verde](https://www.amazon.es/dp/B082WF7NT4/?tag=tolees-21) con precio final de  1.17 EUR (original: 1.76 EUR) (33.52 %  de rebaja) aqui!
 
-[![40g Bola de baño Tamaño pequeño Hogar Ho](https://m.media-amazon.com/images/I/31AOX7d5PCL._SL200_.jpg)](https://www.amazon.es/dp/B082WF7NT4/?tag=tolees-21)
+[![40g Bola de baño Tamaño pequeño Hogar Ho](https://m.media-amazon.com/images/I/31AOX7d5PCL._SL400_.jpg)](https://www.amazon.es/dp/B082WF7NT4/?tag=tolees-21)
 
 🔎:
 

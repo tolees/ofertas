@@ -2,7 +2,7 @@
 layout: post
 title: 'GALAX PRO Sierra de calar a Batería  DC- con un 25.66 % de descuento'
 date: 2020-09-08 11:00:49
-image: 'https://m.media-amazon.com/images/I/51K3AzszMHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51K3AzszMHL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.73'
 
 En este momento está [GALAX PRO Sierra de calar a Batería  DC-20V 2500SPM Herramienta de Sierra de Calar 8 Hojas de Sierra para Cortar Madera/metal Blando/PVC Sin batería Sin cargador ](https://www.amazon.es/dp/B07Z4NYQP3/?tag=tolees-21) a 29.73 EUR (original: 39.99 EUR) (25.66 %  de descuento) en el siguiente enlace!
 
-[![GALAX PRO Sierra de calar a Batería  DC-](https://m.media-amazon.com/images/I/51K3AzszMHL._SL200_.jpg)](https://www.amazon.es/dp/B07Z4NYQP3/?tag=tolees-21)
+[![GALAX PRO Sierra de calar a Batería  DC-](https://m.media-amazon.com/images/I/51K3AzszMHL._SL400_.jpg)](https://www.amazon.es/dp/B07Z4NYQP3/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'QYiD Funda para iPad 10.2 / iPad 7th Gen al 37.61 % de descuento'
 date: 2020-08-06 11:37:49
-image: 'https://m.media-amazon.com/images/I/513In8prUyL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/513In8prUyL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.59'
 
 Está [QYiD Funda para iPad 10.2 / iPad 7th Gen Plegables Soporte Protectora Cubierta con Bolsillo & Auto-Sueño/Estela para Apple iPad 10.2  2019  / A2200  A2198  A2232  Oscuro Azul ](https://www.amazon.es/dp/B081KWSRNK/?tag=tolees-21) con 37.61 de descuento por 16.59 EUR (original: 26.59 EUR) en el siguiente enlace!
 
-[![QYiD Funda para iPad 10.2 / iPad 7th Gen](https://m.media-amazon.com/images/I/513In8prUyL._SL200_.jpg)](https://www.amazon.es/dp/B081KWSRNK/?tag=tolees-21)
+[![QYiD Funda para iPad 10.2 / iPad 7th Gen](https://m.media-amazon.com/images/I/513In8prUyL._SL400_.jpg)](https://www.amazon.es/dp/B081KWSRNK/?tag=tolees-21)
 
 ℹ️:
 

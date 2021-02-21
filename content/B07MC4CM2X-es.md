@@ -2,7 +2,7 @@
 layout: post
 title: 'Hackett London Amr SS Polo   Navy/Multi  al 45.07 % de descuento'
 date: 2020-03-15 03:51:14
-image: 'https://m.media-amazon.com/images/I/411JHCdrKAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/411JHCdrKAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '54.905'
 
 Ahora mismo tienes [Hackett London Amr SS Polo   Navy/Multi 5cv   Large para Hombre](https://www.amazon.es/dp/B07MC4CM2X/?tag=tolees-21) a 65.92 EUR (original: 120.0 EUR) (45.07 %  de descuento) en el siguiente enlace!
 
-[![Hackett London Amr SS Polo   Navy/Multi ](https://m.media-amazon.com/images/I/411JHCdrKAL._SL200_.jpg)](https://www.amazon.es/dp/B07MC4CM2X/?tag=tolees-21)
+[![Hackett London Amr SS Polo   Navy/Multi ](https://m.media-amazon.com/images/I/411JHCdrKAL._SL400_.jpg)](https://www.amazon.es/dp/B07MC4CM2X/?tag=tolees-21)
 
 🔎:
 

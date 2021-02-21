@@ -2,7 +2,7 @@
 layout: post
 title: 'VAIRO Short Columns XXL al 72.72 % de descuento'
 date: 2019-12-31 19:41:31
-image: 'https://images-eu.ssl-images-amazon.com/images/I/4167AWAU%2B4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4167AWAU%2B4L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.9'
 
 Ahora mismo tienes [VAIRO Short Columns XXL](https://www.amazon.es/dp/B079ZZ2RBQ/?tag=tolees-21) a 10.9 EUR (original: 39.95 EUR) (72.72 %  de descuento) en el siguiente enlace!
 
-[![VAIRO Short Columns XXL](https://images-eu.ssl-images-amazon.com/images/I/4167AWAU%2B4L._SL200_.jpg)](https://www.amazon.es/dp/B079ZZ2RBQ/?tag=tolees-21)
+[![VAIRO Short Columns XXL](https://images-eu.ssl-images-amazon.com/images/I/4167AWAU%2B4L._SL400_.jpg)](https://www.amazon.es/dp/B079ZZ2RBQ/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'G-Star Raw 3301 Straight  Jeans Dritto U al 60.28 % de descuento'
 date: 2020-01-01 11:05:39
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41EqqVqOzML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41EqqVqOzML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '47.64'
 
 Ahora mismo tienes [G-Star Raw 3301 Straight  Jeans Dritto Uomo  Blu  medium aged 6564-071   W28/L32](https://www.amazon.es/dp/B01NBZ47JD/?tag=tolees-21) a 47.64 EUR (original: 119.95 EUR) (60.28 %  de descuento) en el siguiente enlace!
 
-[![G-Star Raw 3301 Straight  Jeans Dritto U](https://images-eu.ssl-images-amazon.com/images/I/41EqqVqOzML._SL200_.jpg)](https://www.amazon.es/dp/B01NBZ47JD/?tag=tolees-21)
+[![G-Star Raw 3301 Straight  Jeans Dritto U](https://images-eu.ssl-images-amazon.com/images/I/41EqqVqOzML._SL400_.jpg)](https://www.amazon.es/dp/B01NBZ47JD/?tag=tolees-21)
 
 🔎:
 

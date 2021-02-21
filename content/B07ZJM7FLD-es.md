@@ -2,7 +2,7 @@
 layout: post
 title: 'Tapa de WC TACKLIFE  TBTS03B Asiento de  al 60.01 % de descuento'
 date: 2020-09-05 11:21:03
-image: 'https://m.media-amazon.com/images/I/41PDOIv8kkL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41PDOIv8kkL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '31.990000000000002'
 
 Ahora mismo tienes [Tapa de WC TACKLIFE  TBTS03B Asiento de Inodoro en Forma de D con Liberación Rápida Tapa de Inodoro con Cierra Suave y Silencioso Fácil de Instalación y Limpieza](https://www.amazon.es/dp/B07ZJM7FLD/?tag=tolees-21) a 31.99 EUR (original: 79.99 EUR) (60.01 %  de descuento) en el siguiente enlace!
 
-[![Tapa de WC TACKLIFE  TBTS03B Asiento de ](https://m.media-amazon.com/images/I/41PDOIv8kkL._SL200_.jpg)](https://www.amazon.es/dp/B07ZJM7FLD/?tag=tolees-21)
+[![Tapa de WC TACKLIFE  TBTS03B Asiento de ](https://m.media-amazon.com/images/I/41PDOIv8kkL._SL400_.jpg)](https://www.amazon.es/dp/B07ZJM7FLD/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Nobleza – Alfombrilla refrescante para M al 40.02 % de descuento'
 date: 2020-09-24 14:03:55
-image: 'https://m.media-amazon.com/images/I/4159N6-qHzL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/4159N6-qHzL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.990000000000002'
 
 Está [Nobleza – Alfombrilla refrescante para Mascotas Grandes. Auto refrigerante No tóxico. Ideal para para Perros  Gatos en Verano. 90 * 50 cm  Color Azul  L](https://www.amazon.es/dp/B07DLFRQ6X/?tag=tolees-21) con 40.02 de descuento por 11.99 EUR (original: 19.99 EUR) en el siguiente enlace!
 
-[![Nobleza – Alfombrilla refrescante para M](https://m.media-amazon.com/images/I/4159N6-qHzL._SL200_.jpg)](https://www.amazon.es/dp/B07DLFRQ6X/?tag=tolees-21)
+[![Nobleza – Alfombrilla refrescante para M](https://m.media-amazon.com/images/I/4159N6-qHzL._SL400_.jpg)](https://www.amazon.es/dp/B07DLFRQ6X/?tag=tolees-21)
 
 ℹ️:
 

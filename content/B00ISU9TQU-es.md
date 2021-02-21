@@ -2,7 +2,7 @@
 layout: post
 title: 'Casio Collection TP-1154PQ-7B  Reloj Red al 50.39 % de rebaja'
 date: 2020-09-23 16:12:22
-image: 'https://m.media-amazon.com/images/I/415tyMq3sbL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/415tyMq3sbL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '22.23'
 
 Tienes [Casio Collection TP-1154PQ-7B  Reloj Redondo para Mujer  Análogo Clásico  Negro](https://www.amazon.es/dp/B00ISU9TQU/?tag=tolees-21) con precio final de  22.14 EUR (original: 44.63 EUR) (50.39 %  de rebaja) aqui!
 
-[![Casio Collection TP-1154PQ-7B  Reloj Red](https://m.media-amazon.com/images/I/415tyMq3sbL._SL200_.jpg)](https://www.amazon.es/dp/B00ISU9TQU/?tag=tolees-21)
+[![Casio Collection TP-1154PQ-7B  Reloj Red](https://m.media-amazon.com/images/I/415tyMq3sbL._SL400_.jpg)](https://www.amazon.es/dp/B00ISU9TQU/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Casio G-SHOCK Reloj Digital  Contador de con un 26.82 % de descuento'
 date: 2020-08-30 22:05:25
-image: 'https://m.media-amazon.com/images/I/41m0sCOPPOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41m0sCOPPOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '82.73714285714284'
 
 En este momento está [Casio G-SHOCK Reloj Digital  Contador de pasos  Sensor de movimiento  Aplicación de deporte gratuita para descargar  20 BAR  Negro  para Hombre  GBA-800-1AER](https://www.amazon.es/dp/B079VK9SD3/?tag=tolees-21) a 96.0 EUR (original: 131.18 EUR) (26.82 %  de descuento) en el siguiente enlace!
 
-[![Casio G-SHOCK Reloj Digital  Contador de](https://m.media-amazon.com/images/I/41m0sCOPPOL._SL200_.jpg)](https://www.amazon.es/dp/B079VK9SD3/?tag=tolees-21)
+[![Casio G-SHOCK Reloj Digital  Contador de](https://m.media-amazon.com/images/I/41m0sCOPPOL._SL400_.jpg)](https://www.amazon.es/dp/B079VK9SD3/?tag=tolees-21)
 
 🔎:
 

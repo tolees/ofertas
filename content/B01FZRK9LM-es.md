@@ -2,7 +2,7 @@
 layout: post
 title: 'Nike Air MAX 90 Leather  Zapatillas para al 62.26 % de rebaja'
 date: 2020-01-10 11:49:36
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41XHHJRV31L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41XHHJRV31L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '65.0'
 
 Tienes [Nike Air MAX 90 Leather  Zapatillas para Niños  Negro  Black 001   38 EU](https://www.amazon.es/dp/B01FZRK9LM/?tag=tolees-21) con precio final de  40 EUR (original: 106 EUR) (62.26 %  de rebaja) aqui!
 
-[![Nike Air MAX 90 Leather  Zapatillas para](https://images-eu.ssl-images-amazon.com/images/I/41XHHJRV31L._SL200_.jpg)](https://www.amazon.es/dp/B01FZRK9LM/?tag=tolees-21)
+[![Nike Air MAX 90 Leather  Zapatillas para](https://images-eu.ssl-images-amazon.com/images/I/41XHHJRV31L._SL400_.jpg)](https://www.amazon.es/dp/B01FZRK9LM/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Funko Pop Bobble Vinyle Marvel: Holiday- al 29.43 % de descuento'
 date: 2020-04-09 08:23:50
-image: 'https://m.media-amazon.com/images/I/31F9ph0c89L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31F9ph0c89L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.78'
 
 Está [Funko Pop Bobble Vinyle Marvel: Holiday-Groot Figura Coleccionable  Multicolor  43333 ](https://www.amazon.es/dp/B07QGWYL1Y/?tag=tolees-21) con 29.43 de descuento por 10.55 EUR (original: 14.95 EUR) en el siguiente enlace!
 
-[![Funko Pop Bobble Vinyle Marvel: Holiday-](https://m.media-amazon.com/images/I/31F9ph0c89L._SL200_.jpg)](https://www.amazon.es/dp/B07QGWYL1Y/?tag=tolees-21)
+[![Funko Pop Bobble Vinyle Marvel: Holiday-](https://m.media-amazon.com/images/I/31F9ph0c89L._SL400_.jpg)](https://www.amazon.es/dp/B07QGWYL1Y/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Imperial Confort Helsinki - Colchón Visc al 27.46 % de descuento'
 date: 2020-06-11 23:01:20
-image: 'https://m.media-amazon.com/images/I/516M9WrmcwL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/516M9WrmcwL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '185.04'
 
 Está [Imperial Confort Helsinki - Colchón Viscoelástico de grafeno - Doble cara  invierno/verano  - Grosor 25 cm - 150x200](https://www.amazon.es/dp/B07DKM7NQ1/?tag=tolees-21) con 27.46 de descuento por 185.04 EUR (original: 255.07 EUR) en el siguiente enlace!
 
-[![Imperial Confort Helsinki - Colchón Visc](https://m.media-amazon.com/images/I/516M9WrmcwL._SL200_.jpg)](https://www.amazon.es/dp/B07DKM7NQ1/?tag=tolees-21)
+[![Imperial Confort Helsinki - Colchón Visc](https://m.media-amazon.com/images/I/516M9WrmcwL._SL400_.jpg)](https://www.amazon.es/dp/B07DKM7NQ1/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Suhctup Funda Compatible con Xiaomi Redm al 52.73 % de rebaja'
 date: 2020-08-22 16:26:36
-image: 'https://m.media-amazon.com/images/I/51btxUm2WgL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51btxUm2WgL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.98'
 
 Tienes [Suhctup Funda Compatible con Xiaomi Redmi Note 8 Transparente Silicona TPU Gel Carcasa Dibujos Flor Crystal Suave Bumper Ultra Delgado [Soporte Carga Inalámbrica] Antigolpes Case Cover Lace 10](https://www.amazon.es/dp/B088M2PX4T/?tag=tolees-21) con precio final de  7.98 EUR (original: 16.88 EUR) (52.73 %  de rebaja) aqui!
 
-[![Suhctup Funda Compatible con Xiaomi Redm](https://m.media-amazon.com/images/I/51btxUm2WgL._SL200_.jpg)](https://www.amazon.es/dp/B088M2PX4T/?tag=tolees-21)
+[![Suhctup Funda Compatible con Xiaomi Redm](https://m.media-amazon.com/images/I/51btxUm2WgL._SL400_.jpg)](https://www.amazon.es/dp/B088M2PX4T/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Lacoste Graduate BL 1 SMA  Zapatillas pa al 29.48 % de descuento'
 date: 2020-01-21 11:29:50
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31YuXUvJMtL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31YuXUvJMtL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '65.99'
 
 Ahora mismo tienes [Lacoste Graduate BL 1 SMA  Zapatillas para Hombre  Blanco  White/White   40 EU](https://www.amazon.es/dp/B07DHQJ7QP/?tag=tolees-21) a 66.99 EUR (original: 95 EUR) (29.48 %  de descuento) en el siguiente enlace!
 
-[![Lacoste Graduate BL 1 SMA  Zapatillas pa](https://images-eu.ssl-images-amazon.com/images/I/31YuXUvJMtL._SL200_.jpg)](https://www.amazon.es/dp/B07DHQJ7QP/?tag=tolees-21)
+[![Lacoste Graduate BL 1 SMA  Zapatillas pa](https://images-eu.ssl-images-amazon.com/images/I/31YuXUvJMtL._SL400_.jpg)](https://www.amazon.es/dp/B07DHQJ7QP/?tag=tolees-21)
 
 🔎:
 

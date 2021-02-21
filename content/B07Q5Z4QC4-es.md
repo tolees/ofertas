@@ -2,7 +2,7 @@
 layout: post
 title: 'K-GOLEIRO 18 al 60.00 % de rebaja'
 date: 2020-02-01 19:39:54
-image: 'https://m.media-amazon.com/images/I/31DlZtcYnnL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31DlZtcYnnL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.5725'
 
 Tienes [K-GOLEIRO 18](https://www.amazon.es/dp/B07Q5Z4QC4/?tag=tolees-21) con precio final de  17.96 EUR (original: 44.9 EUR) (60.00 %  de rebaja) aqui!
 
-[![K-GOLEIRO 18](https://m.media-amazon.com/images/I/31DlZtcYnnL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07Q5Z4QC4/?tag=tolees-21)
+[![K-GOLEIRO 18](https://m.media-amazon.com/images/I/31DlZtcYnnL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07Q5Z4QC4/?tag=tolees-21)
 
 🔎:
 

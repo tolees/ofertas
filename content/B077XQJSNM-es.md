@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour Sujetador Deportivo para Mu al 27.93 % de descuento'
 date: 2020-03-09 14:50:34
-image: 'https://m.media-amazon.com/images/I/31Y+mNQZbRL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Y+mNQZbRL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.69'
 
 Ahora mismo tienes [Under Armour Sujetador Deportivo para Mujer Cross Back Graphic  Mujer  1317111-001  Negro/Blanco  Small](https://www.amazon.es/dp/B077XQJSNM/?tag=tolees-21) a 11.69 EUR (original: 16.22 EUR) (27.93 %  de descuento) en el siguiente enlace!
 
-[![Under Armour Sujetador Deportivo para Mu](https://m.media-amazon.com/images/I/31Y+mNQZbRL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B077XQJSNM/?tag=tolees-21)
+[![Under Armour Sujetador Deportivo para Mu](https://m.media-amazon.com/images/I/31Y+mNQZbRL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B077XQJSNM/?tag=tolees-21)
 
 🔎:
 

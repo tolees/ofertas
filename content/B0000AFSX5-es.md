@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 84.63 % en Converse Chuck Taylor All Star Season Ox'
 date: 2020-01-29 20:29:51
-image: 'https://m.media-amazon.com/images/I/31xUTF9UxhL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31xUTF9UxhL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.323333333333332'
 
 Tienes [Converse Chuck Taylor All Star Season Ox  Zapatillas de Tela Unisex Adulto  Blanco  53 EU](https://www.amazon.es/dp/B0000AFSX5/?tag=tolees-21) con un 84.63 % de descuento con precio de oferta de 9.99 EUR (original: 65.0 EUR) en el siguiente enlace!
 
-[![Converse Chuck Taylor All Star Season Ox](https://m.media-amazon.com/images/I/31xUTF9UxhL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B0000AFSX5/?tag=tolees-21)
+[![Converse Chuck Taylor All Star Season Ox](https://m.media-amazon.com/images/I/31xUTF9UxhL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B0000AFSX5/?tag=tolees-21)
 
 ℹ️:
 

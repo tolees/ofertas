@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s  Azul  Hm Patch Housemark Polo Ri con un 40.02 % de descuento'
 date: 2020-06-18 21:05:19
-image: 'https://m.media-amazon.com/images/I/41HywEwD28L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41HywEwD28L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.99'
 
 En este momento está [Levi s  Azul  Hm Patch Housemark Polo Riverside 0110   X-Small para Hombre](https://www.amazon.es/dp/B07TNLY8VV/?tag=tolees-21) a 29.99 EUR (original: 50.0 EUR) (40.02 %  de descuento) en el siguiente enlace!
 
-[![Levi s  Azul  Hm Patch Housemark Polo Ri](https://m.media-amazon.com/images/I/41HywEwD28L._SL200_.jpg)](https://www.amazon.es/dp/B07TNLY8VV/?tag=tolees-21)
+[![Levi s  Azul  Hm Patch Housemark Polo Ri](https://m.media-amazon.com/images/I/41HywEwD28L._SL400_.jpg)](https://www.amazon.es/dp/B07TNLY8VV/?tag=tolees-21)
 
 🔎:
 

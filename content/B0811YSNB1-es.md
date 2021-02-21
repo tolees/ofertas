@@ -2,7 +2,7 @@
 layout: post
 title: 'UniqueMe [3 Pack Protector de Pantalla p al 36.40 % de descuento'
 date: 2020-08-07 10:34:05
-image: 'https://m.media-amazon.com/images/I/51XA0dmU5PL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51XA0dmU5PL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.99'
 
 Está [UniqueMe [3 Pack Protector de Pantalla para Huawei Nova 5T  Vidrio Templado [ 9H Dureza ] HD Film Cristal Templado para Huawei Nova 5T](https://www.amazon.es/dp/B0811YSNB1/?tag=tolees-21) con 36.40 de descuento por 6.99 EUR (original: 10.99 EUR) en el siguiente enlace!
 
-[![UniqueMe [3 Pack Protector de Pantalla p](https://m.media-amazon.com/images/I/51XA0dmU5PL._SL200_.jpg)](https://www.amazon.es/dp/B0811YSNB1/?tag=tolees-21)
+[![UniqueMe [3 Pack Protector de Pantalla p](https://m.media-amazon.com/images/I/51XA0dmU5PL._SL400_.jpg)](https://www.amazon.es/dp/B0811YSNB1/?tag=tolees-21)
 
 ℹ️:
 

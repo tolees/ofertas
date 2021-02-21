@@ -2,7 +2,7 @@
 layout: post
 title: 'JACK & JONES Jorflash suéter  Azul  Navy con un 69.99 % de descuento'
 date: 2020-04-05 15:08:05
-image: 'https://m.media-amazon.com/images/I/41+3y-t787L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41+3y-t787L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.0'
 
 En este momento está [JACK & JONES Jorflash suéter  Azul  Navy Blazer   XX-Large para Hombre](https://www.amazon.es/dp/B07VLY2D93/?tag=tolees-21) a 9.0 EUR (original: 29.99 EUR) (69.99 %  de descuento) en el siguiente enlace!
 
-[![JACK & JONES Jorflash suéter  Azul  Navy](https://m.media-amazon.com/images/I/41+3y-t787L._SL200_.jpg)](https://www.amazon.es/dp/B07VLY2D93/?tag=tolees-21)
+[![JACK & JONES Jorflash suéter  Azul  Navy](https://m.media-amazon.com/images/I/41+3y-t787L._SL400_.jpg)](https://www.amazon.es/dp/B07VLY2D93/?tag=tolees-21)
 
 🔎:
 

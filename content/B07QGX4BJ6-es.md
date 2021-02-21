@@ -2,7 +2,7 @@
 layout: post
 title: 'DREAMWIN 38 Piezas Máscaras de Superhéro al 31.02 % de descuento'
 date: 2020-01-28 16:42:08
-image: 'https://m.media-amazon.com/images/I/61-shi8JZnL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61-shi8JZnL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.665'
 
 Está [DREAMWIN 38 Piezas Máscaras de Superhéroe  Máscaras de Cosplay de Superhéroe  Accesorio de Fiesta Infantil y Adultos  Máscaras para Niños y Adultos  Suministros de Fiesta de Superhéroes](https://www.amazon.es/dp/B07QGX4BJ6/?tag=tolees-21) con 31.02 de descuento por 10.34 EUR (original: 14.99 EUR) en el siguiente enlace!
 
-[![DREAMWIN 38 Piezas Máscaras de Superhéro](https://m.media-amazon.com/images/I/61-shi8JZnL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07QGX4BJ6/?tag=tolees-21)
+[![DREAMWIN 38 Piezas Máscaras de Superhéro](https://m.media-amazon.com/images/I/61-shi8JZnL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07QGX4BJ6/?tag=tolees-21)
 
 ℹ️:
 

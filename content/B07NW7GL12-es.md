@@ -2,7 +2,7 @@
 layout: post
 title: 'Skechers Uno- Roundabout  Zapatillas par al 30.00 % de descuento'
 date: 2020-01-18 11:22:29
-image: 'https://images-eu.ssl-images-amazon.com/images/I/417hjkA2apL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417hjkA2apL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '48.95'
 
 Ahora mismo tienes [Skechers Uno- Roundabout  Zapatillas para Mujer  White Duraleather/Suede/Mesh Trim Wht  3 EU](https://www.amazon.es/dp/B07NW7GL12/?tag=tolees-21) a 48.95 EUR (original: 69.93 EUR) (30.00 %  de descuento) en el siguiente enlace!
 
-[![Skechers Uno- Roundabout  Zapatillas par](https://images-eu.ssl-images-amazon.com/images/I/417hjkA2apL._SL200_.jpg)](https://www.amazon.es/dp/B07NW7GL12/?tag=tolees-21)
+[![Skechers Uno- Roundabout  Zapatillas par](https://images-eu.ssl-images-amazon.com/images/I/417hjkA2apL._SL400_.jpg)](https://www.amazon.es/dp/B07NW7GL12/?tag=tolees-21)
 
 🔎:
 

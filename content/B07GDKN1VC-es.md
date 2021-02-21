@@ -2,7 +2,7 @@
 layout: post
 title: 'Eyoyo Cámara Monitor E5 5 Pulgadas 4K HD al 28.57 % de descuento'
 date: 2020-02-18 10:19:55
-image: 'https://m.media-amazon.com/images/I/413LWFeJo-L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/413LWFeJo-L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '105.49'
 
 Está [Eyoyo Cámara Monitor E5 5 Pulgadas 4K HDMI 1920x1080 Mini Field Monitor DSLR Campo Video IPS Monitor para Sony A6 A7 GH4 GH5  Canon 5D Nikon Zhiyun Estabilizador Gimbals  E5 1920x1080 ](https://www.amazon.es/dp/B07GDKN1VC/?tag=tolees-21) con 28.57 de descuento por 99.99 EUR (original: 139.99 EUR) en el siguiente enlace!
 
-[![Eyoyo Cámara Monitor E5 5 Pulgadas 4K HD](https://m.media-amazon.com/images/I/413LWFeJo-L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07GDKN1VC/?tag=tolees-21)
+[![Eyoyo Cámara Monitor E5 5 Pulgadas 4K HD](https://m.media-amazon.com/images/I/413LWFeJo-L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07GDKN1VC/?tag=tolees-21)
 
 ℹ️:
 

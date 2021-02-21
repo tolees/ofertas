@@ -2,7 +2,7 @@
 layout: post
 title: 'Joma Academy Chandal Caballero  Hombre   al 32.34 % de rebaja'
 date: 2020-02-18 11:07:47
-image: 'https://m.media-amazon.com/images/I/315S5CC9LOL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/315S5CC9LOL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.6775'
 
 Tienes [Joma Academy Chandal Caballero  Hombre  Royal/Marino  2XL](https://www.amazon.es/dp/B07FKMSWX9/?tag=tolees-21) con precio final de  22.99 EUR (original: 33.98 EUR) (32.34 %  de rebaja) aqui!
 
-[![Joma Academy Chandal Caballero  Hombre  ](https://m.media-amazon.com/images/I/315S5CC9LOL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07FKMSWX9/?tag=tolees-21)
+[![Joma Academy Chandal Caballero  Hombre  ](https://m.media-amazon.com/images/I/315S5CC9LOL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07FKMSWX9/?tag=tolees-21)
 
 🔎:
 

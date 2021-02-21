@@ -2,7 +2,7 @@
 layout: post
 title: 'Marshmallow Glitter  40 cm  3 litros  Ve al 49.74 % de descuento'
 date: 2020-01-22 16:09:17
-image: 'https://images-eu.ssl-images-amazon.com/images/I/512OO%2BXwDzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/512OO%2BXwDzL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.45'
 
 Ahora mismo tienes [Marshmallow Glitter  40 cm  3 litros  Verde Agua](https://www.amazon.es/dp/B07KG9DR7L/?tag=tolees-21) a 18.45 EUR (original: 36.71 EUR) (49.74 %  de descuento) en el siguiente enlace!
 
-[![Marshmallow Glitter  40 cm  3 litros  Ve](https://images-eu.ssl-images-amazon.com/images/I/512OO%2BXwDzL._SL200_.jpg)](https://www.amazon.es/dp/B07KG9DR7L/?tag=tolees-21)
+[![Marshmallow Glitter  40 cm  3 litros  Ve](https://images-eu.ssl-images-amazon.com/images/I/512OO%2BXwDzL._SL400_.jpg)](https://www.amazon.es/dp/B07KG9DR7L/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Trespass - Tartera/mochila para la comid con un 63.76 % de descuento'
 date: 2020-07-17 16:01:51
-image: 'https://m.media-amazon.com/images/I/510KJpn35RL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/510KJpn35RL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.7'
 
 En este momento está [Trespass - Tartera/mochila para la comida Modelo Playpiece para niños niñas - Colegio/Escuela/Guardería  Talla Única   Diseño Floral ](https://www.amazon.es/dp/B0106ZSXO8/?tag=tolees-21) a 3.7 EUR (original: 10.21 EUR) (63.76 %  de descuento) en el siguiente enlace!
 
-[![Trespass - Tartera/mochila para la comid](https://m.media-amazon.com/images/I/510KJpn35RL._SL200_.jpg)](https://www.amazon.es/dp/B0106ZSXO8/?tag=tolees-21)
+[![Trespass - Tartera/mochila para la comid](https://m.media-amazon.com/images/I/510KJpn35RL._SL400_.jpg)](https://www.amazon.es/dp/B0106ZSXO8/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 69.25 % en Lacoste Carnaby EVO 319 1 SUI  Zapatilla'
 date: 2020-01-12 19:24:57
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31yR8eOj1jL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31yR8eOj1jL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.14'
 
 Tienes [Lacoste Carnaby EVO 319 1 SUI  Zapatillas Unisex Niños  Blanco  White/Green 082   24 EU](https://www.amazon.es/dp/B07L9V5ZPC/?tag=tolees-21) con un 69.25 % de descuento con precio de oferta de 18.14 EUR (original: 59 EUR) en el siguiente enlace!
 
-[![Lacoste Carnaby EVO 319 1 SUI  Zapatilla](https://images-eu.ssl-images-amazon.com/images/I/31yR8eOj1jL._SL200_.jpg)](https://www.amazon.es/dp/B07L9V5ZPC/?tag=tolees-21)
+[![Lacoste Carnaby EVO 319 1 SUI  Zapatilla](https://images-eu.ssl-images-amazon.com/images/I/31yR8eOj1jL._SL400_.jpg)](https://www.amazon.es/dp/B07L9V5ZPC/?tag=tolees-21)
 
 ℹ️:
 

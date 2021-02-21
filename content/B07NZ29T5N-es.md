@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 63.85 % en Superdry OL Elite Ziphood Capucha  Morad'
 date: 2020-04-09 09:41:58
-image: 'https://m.media-amazon.com/images/I/41sQ1YULRzL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41sQ1YULRzL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '31.35'
 
 Tienes [Superdry OL Elite Ziphood Capucha  Morado  Dusty Lilac De U   XX-Small para Mujer](https://www.amazon.es/dp/B07NZ29T5N/?tag=tolees-21) con un 63.85 % de descuento con precio de oferta de 28.92 EUR (original: 79.99 EUR) en el siguiente enlace!
 
-[![Superdry OL Elite Ziphood Capucha  Morad](https://m.media-amazon.com/images/I/41sQ1YULRzL._SL200_.jpg)](https://www.amazon.es/dp/B07NZ29T5N/?tag=tolees-21)
+[![Superdry OL Elite Ziphood Capucha  Morad](https://m.media-amazon.com/images/I/41sQ1YULRzL._SL400_.jpg)](https://www.amazon.es/dp/B07NZ29T5N/?tag=tolees-21)
 
 ℹ️:
 

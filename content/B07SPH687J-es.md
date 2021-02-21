@@ -2,7 +2,7 @@
 layout: post
 title: 'Lacoste Carnaby EVO 120 7 US SMA  Zapati al 45.57 % de descuento'
 date: 2020-07-25 20:02:37
-image: 'https://m.media-amazon.com/images/I/31k6rSvl7KL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31k6rSvl7KL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '59.33'
 
 Ahora mismo tienes [Lacoste Carnaby EVO 120 7 US SMA  Zapatillas para Hombre  Blanc Wht Grn 082  47 EU](https://www.amazon.es/dp/B07SPH687J/?tag=tolees-21) a 59.33 EUR (original: 109.0 EUR) (45.57 %  de descuento) en el siguiente enlace!
 
-[![Lacoste Carnaby EVO 120 7 US SMA  Zapati](https://m.media-amazon.com/images/I/31k6rSvl7KL._SL200_.jpg)](https://www.amazon.es/dp/B07SPH687J/?tag=tolees-21)
+[![Lacoste Carnaby EVO 120 7 US SMA  Zapati](https://m.media-amazon.com/images/I/31k6rSvl7KL._SL400_.jpg)](https://www.amazon.es/dp/B07SPH687J/?tag=tolees-21)
 
 🔎:
 

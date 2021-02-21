@@ -2,7 +2,7 @@
 layout: post
 title: 'Columbia Mojave Trail II Outdry  Zapatil al 42.70 % de descuento'
 date: 2020-05-13 06:54:30
-image: 'https://m.media-amazon.com/images/I/41Mpr+jfWmL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Mpr+jfWmL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '64.70666666666666'
 
 Ahora mismo tienes [Columbia Mojave Trail II Outdry  Zapatillas de Running para Asfalto para Mujer  Gris  Ti Grey Steel 033   42 EU](https://www.amazon.es/dp/B07JKB17ZV/?tag=tolees-21) a 74.49 EUR (original: 129.99 EUR) (42.70 %  de descuento) en el siguiente enlace!
 
-[![Columbia Mojave Trail II Outdry  Zapatil](https://m.media-amazon.com/images/I/41Mpr+jfWmL._SL200_.jpg)](https://www.amazon.es/dp/B07JKB17ZV/?tag=tolees-21)
+[![Columbia Mojave Trail II Outdry  Zapatil](https://m.media-amazon.com/images/I/41Mpr+jfWmL._SL400_.jpg)](https://www.amazon.es/dp/B07JKB17ZV/?tag=tolees-21)
 
 🔎:
 

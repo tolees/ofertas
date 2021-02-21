@@ -2,7 +2,7 @@
 layout: post
 title: 'PUMA Ralph Sampson LO  Zapatillas Deport al 61.84 % de descuento'
 date: 2020-08-04 01:47:27
-image: 'https://m.media-amazon.com/images/I/41GyBQO9VTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41GyBQO9VTL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '32.40733333333333'
 
 Ahora mismo tienes [PUMA Ralph Sampson LO  Zapatillas Deportivas Unisex-Adulto  Schwarz Black White Charcoal Gray  37 EU](https://www.amazon.es/dp/B07KFYRFYY/?tag=tolees-21) a 30.51 EUR (original: 79.95 EUR) (61.84 %  de descuento) en el siguiente enlace!
 
-[![PUMA Ralph Sampson LO  Zapatillas Deport](https://m.media-amazon.com/images/I/41GyBQO9VTL._SL200_.jpg)](https://www.amazon.es/dp/B07KFYRFYY/?tag=tolees-21)
+[![PUMA Ralph Sampson LO  Zapatillas Deport](https://m.media-amazon.com/images/I/41GyBQO9VTL._SL400_.jpg)](https://www.amazon.es/dp/B07KFYRFYY/?tag=tolees-21)
 
 🔎:
 

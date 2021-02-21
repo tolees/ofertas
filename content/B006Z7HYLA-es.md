@@ -2,7 +2,7 @@
 layout: post
 title: 'IK Multimedia IPIRIGMIXIN - Mesa de mezc al 66.00 % de descuento'
 date: 2020-04-27 15:06:31
-image: 'https://m.media-amazon.com/images/I/41BUm2wTt7L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41BUm2wTt7L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '34.0'
 
 Ahora mismo tienes [IK Multimedia IPIRIGMIXIN - Mesa de mezclas](https://www.amazon.es/dp/B006Z7HYLA/?tag=tolees-21) a 34.0 EUR (original: 99.99 EUR) (66.00 %  de descuento) en el siguiente enlace!
 
-[![IK Multimedia IPIRIGMIXIN - Mesa de mezc](https://m.media-amazon.com/images/I/41BUm2wTt7L._SL200_.jpg)](https://www.amazon.es/dp/B006Z7HYLA/?tag=tolees-21)
+[![IK Multimedia IPIRIGMIXIN - Mesa de mezc](https://m.media-amazon.com/images/I/41BUm2wTt7L._SL400_.jpg)](https://www.amazon.es/dp/B006Z7HYLA/?tag=tolees-21)
 
 🔎:
 

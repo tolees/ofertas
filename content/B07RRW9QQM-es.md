@@ -2,7 +2,7 @@
 layout: post
 title: 'find. Fletcher Zapatillas  Blanco White/ al 52.17 % de rebaja'
 date: 2020-10-03 18:13:30
-image: 'https://m.media-amazon.com/images/I/415hw3XJ0ML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/415hw3XJ0ML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.59'
 
 Tienes [find. Fletcher Zapatillas  Blanco White/Navy  43 EU](https://www.amazon.es/dp/B07RRW9QQM/?tag=tolees-21) con precio final de  8.59 EUR (original: 17.96 EUR) (52.17 %  de rebaja) aqui!
 
-[![find. Fletcher Zapatillas  Blanco White/](https://m.media-amazon.com/images/I/415hw3XJ0ML._SL200_.jpg)](https://www.amazon.es/dp/B07RRW9QQM/?tag=tolees-21)
+[![find. Fletcher Zapatillas  Blanco White/](https://m.media-amazon.com/images/I/415hw3XJ0ML._SL400_.jpg)](https://www.amazon.es/dp/B07RRW9QQM/?tag=tolees-21)
 
 🔎:
 

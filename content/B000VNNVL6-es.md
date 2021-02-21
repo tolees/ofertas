@@ -2,7 +2,7 @@
 layout: post
 title: 'Clatronic Secador de Pelo HTD 3055 Secad al 33.71 % de descuento'
 date: 2020-09-25 14:10:55
-image: 'https://m.media-amazon.com/images/I/41EXF3IowlL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41EXF3IowlL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.9'
 
 Está [Clatronic Secador de Pelo HTD 3055 Secador - 350 gr](https://www.amazon.es/dp/B000VNNVL6/?tag=tolees-21) con 33.71 de descuento por 12.9 EUR (original: 19.46 EUR) en el siguiente enlace!
 
-[![Clatronic Secador de Pelo HTD 3055 Secad](https://m.media-amazon.com/images/I/41EXF3IowlL._SL200_.jpg)](https://www.amazon.es/dp/B000VNNVL6/?tag=tolees-21)
+[![Clatronic Secador de Pelo HTD 3055 Secad](https://m.media-amazon.com/images/I/41EXF3IowlL._SL400_.jpg)](https://www.amazon.es/dp/B000VNNVL6/?tag=tolees-21)
 
 ℹ️:
 

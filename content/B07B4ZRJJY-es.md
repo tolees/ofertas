@@ -2,7 +2,7 @@
 layout: post
 title: 'JACK & JONES Jjeunion Knit Crew Neck Noo al 40.13 % de rebaja'
 date: 2020-02-16 22:12:46
-image: 'https://m.media-amazon.com/images/I/518OdXEttBL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/518OdXEttBL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.95'
 
 Tienes [JACK & JONES Jjeunion Knit Crew Neck Noos suéter  Gris  Dark Grey Melange Detail:Melange   Small para Hombre](https://www.amazon.es/dp/B07B4ZRJJY/?tag=tolees-21) con precio final de  20.95 EUR (original: 34.99 EUR) (40.13 %  de rebaja) aqui!
 
-[![JACK & JONES Jjeunion Knit Crew Neck Noo](https://m.media-amazon.com/images/I/518OdXEttBL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07B4ZRJJY/?tag=tolees-21)
+[![JACK & JONES Jjeunion Knit Crew Neck Noo](https://m.media-amazon.com/images/I/518OdXEttBL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07B4ZRJJY/?tag=tolees-21)
 
 🔎:
 

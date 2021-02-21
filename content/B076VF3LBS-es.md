@@ -2,7 +2,7 @@
 layout: post
 title: 'Smatree Estación de Carga de Baterías Mú con un 30.00 % de descuento'
 date: 2020-05-12 09:10:41
-image: 'https://m.media-amazon.com/images/I/51NgHCXJsbL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51NgHCXJsbL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '69.99'
 
 En este momento está [Smatree Estación de Carga de Baterías Múltiple para dji Spark  Carga 3 baterías simultáneamente  Equivalente a 6 dji Spark baterías](https://www.amazon.es/dp/B076VF3LBS/?tag=tolees-21) a 69.99 EUR (original: 99.99 EUR) (30.00 %  de descuento) en el siguiente enlace!
 
-[![Smatree Estación de Carga de Baterías Mú](https://m.media-amazon.com/images/I/51NgHCXJsbL._SL200_.jpg)](https://www.amazon.es/dp/B076VF3LBS/?tag=tolees-21)
+[![Smatree Estación de Carga de Baterías Mú](https://m.media-amazon.com/images/I/51NgHCXJsbL._SL400_.jpg)](https://www.amazon.es/dp/B076VF3LBS/?tag=tolees-21)
 
 🔎:
 

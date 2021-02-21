@@ -2,7 +2,7 @@
 layout: post
 title: 'PUMA Liga Shorts Core Jr Pantalones Cort al 34.44 % de descuento'
 date: 2020-06-22 17:56:57
-image: 'https://m.media-amazon.com/images/I/41VIAFHEOBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41VIAFHEOBL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.986666666666666'
 
 Ahora mismo tienes [PUMA Liga Shorts Core Jr Pantalones Cortos de Fútbol  Unisex Niños  Negro  Black/White   140](https://www.amazon.es/dp/B078WFZV47/?tag=tolees-21) a 8.49 EUR (original: 12.95 EUR) (34.44 %  de descuento) en el siguiente enlace!
 
-[![PUMA Liga Shorts Core Jr Pantalones Cort](https://m.media-amazon.com/images/I/41VIAFHEOBL._SL200_.jpg)](https://www.amazon.es/dp/B078WFZV47/?tag=tolees-21)
+[![PUMA Liga Shorts Core Jr Pantalones Cort](https://m.media-amazon.com/images/I/41VIAFHEOBL._SL400_.jpg)](https://www.amazon.es/dp/B078WFZV47/?tag=tolees-21)
 
 🔎:
 

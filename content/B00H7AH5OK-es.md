@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 29.98 % en Head - Pinzas para Pelotas de Mujer  Col'
 date: 2020-02-27 12:47:32
-image: 'https://m.media-amazon.com/images/I/51xE7EPJxEL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51xE7EPJxEL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.99'
 
 Tienes [Head - Pinzas para Pelotas de Mujer  Color Rosa y Transparente](https://www.amazon.es/dp/B00H7AH5OK/?tag=tolees-21) con un 29.98 % de descuento con precio de oferta de 8.99 EUR (original: 12.84 EUR) en el siguiente enlace!
 
-[![Head - Pinzas para Pelotas de Mujer  Col](https://m.media-amazon.com/images/I/51xE7EPJxEL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B00H7AH5OK/?tag=tolees-21)
+[![Head - Pinzas para Pelotas de Mujer  Col](https://m.media-amazon.com/images/I/51xE7EPJxEL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B00H7AH5OK/?tag=tolees-21)
 
 ℹ️:
 

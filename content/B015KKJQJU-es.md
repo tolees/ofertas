@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 26.11 % en Kappa Rocket  Zapatillas Unisex Adulto  '
 date: 2020-04-19 18:52:32
-image: 'https://m.media-amazon.com/images/I/41vGHG+W5aL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41vGHG+W5aL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '22.13'
 
 Tienes [Kappa Rocket  Zapatillas Unisex Adulto  Azul  Navy/White 6710   40 EU](https://www.amazon.es/dp/B015KKJQJU/?tag=tolees-21) con un 26.11 % de descuento con precio de oferta de 22.13 EUR (original: 29.95 EUR) en el siguiente enlace!
 
-[![Kappa Rocket  Zapatillas Unisex Adulto  ](https://m.media-amazon.com/images/I/41vGHG+W5aL._SL200_.jpg)](https://www.amazon.es/dp/B015KKJQJU/?tag=tolees-21)
+[![Kappa Rocket  Zapatillas Unisex Adulto  ](https://m.media-amazon.com/images/I/41vGHG+W5aL._SL400_.jpg)](https://www.amazon.es/dp/B015KKJQJU/?tag=tolees-21)
 
 ℹ️:
 

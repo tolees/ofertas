@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger - Classic Saffiano carter al 31.33 % de descuento'
 date: 2020-04-18 21:26:42
-image: 'https://m.media-amazon.com/images/I/31poYK84YWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31poYK84YWL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '48.0'
 
 Está [Tommy Hilfiger - Classic Saffiano cartera para mujeres  azul](https://www.amazon.es/dp/B07RS71SHN/?tag=tolees-21) con 31.33 de descuento por 48.0 EUR (original: 69.9 EUR) en el siguiente enlace!
 
-[![Tommy Hilfiger - Classic Saffiano carter](https://m.media-amazon.com/images/I/31poYK84YWL._SL200_.jpg)](https://www.amazon.es/dp/B07RS71SHN/?tag=tolees-21)
+[![Tommy Hilfiger - Classic Saffiano carter](https://m.media-amazon.com/images/I/31poYK84YWL._SL400_.jpg)](https://www.amazon.es/dp/B07RS71SHN/?tag=tolees-21)
 
 ℹ️:
 

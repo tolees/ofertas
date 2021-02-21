@@ -2,7 +2,7 @@
 layout: post
 title: 'PUMA Active Woven Shorts Pants  Mujer  P al 39.92 % de descuento'
 date: 2020-06-12 13:12:14
-image: 'https://m.media-amazon.com/images/I/31AM2hEsyBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31AM2hEsyBL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.99'
 
 Ahora mismo tienes [PUMA Active Woven Shorts Pants  Mujer  Puma Black  S](https://www.amazon.es/dp/B07DFQGQPG/?tag=tolees-21) a 14.99 EUR (original: 24.95 EUR) (39.92 %  de descuento) en el siguiente enlace!
 
-[![PUMA Active Woven Shorts Pants  Mujer  P](https://m.media-amazon.com/images/I/31AM2hEsyBL._SL200_.jpg)](https://www.amazon.es/dp/B07DFQGQPG/?tag=tolees-21)
+[![PUMA Active Woven Shorts Pants  Mujer  P](https://m.media-amazon.com/images/I/31AM2hEsyBL._SL400_.jpg)](https://www.amazon.es/dp/B07DFQGQPG/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Lee Rider Tonal Jeans  Moto Worn  31W /  al 56.13 % de descuento'
 date: 2020-07-03 15:45:14
-image: 'https://m.media-amazon.com/images/I/41Gro7rTcaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Gro7rTcaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '57.9'
 
 Ahora mismo tienes [Lee Rider Tonal Jeans  Moto Worn  31W / 30L para Hombre](https://www.amazon.es/dp/B07SCMQVYJ/?tag=tolees-21) a 43.85 EUR (original: 99.95 EUR) (56.13 %  de descuento) en el siguiente enlace!
 
-[![Lee Rider Tonal Jeans  Moto Worn  31W / ](https://m.media-amazon.com/images/I/41Gro7rTcaL._SL200_.jpg)](https://www.amazon.es/dp/B07SCMQVYJ/?tag=tolees-21)
+[![Lee Rider Tonal Jeans  Moto Worn  31W / ](https://m.media-amazon.com/images/I/41Gro7rTcaL._SL400_.jpg)](https://www.amazon.es/dp/B07SCMQVYJ/?tag=tolees-21)
 
 🔎:
 

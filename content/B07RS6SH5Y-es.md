@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 29.98 % en Tommy Hilfiger - Th Core Mini Bucket  Bo'
 date: 2020-05-06 12:12:49
-image: 'https://m.media-amazon.com/images/I/41DFtdoLqYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41DFtdoLqYL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '83.95'
 
 Tienes [Tommy Hilfiger - Th Core Mini Bucket  Bolsos bandolera Mujer  Negro  Black   10x21x20.5 cm  W x H L ](https://www.amazon.es/dp/B07RS6SH5Y/?tag=tolees-21) con un 29.98 % de descuento con precio de oferta de 83.95 EUR (original: 119.9 EUR) en el siguiente enlace!
 
-[![Tommy Hilfiger - Th Core Mini Bucket  Bo](https://m.media-amazon.com/images/I/41DFtdoLqYL._SL200_.jpg)](https://www.amazon.es/dp/B07RS6SH5Y/?tag=tolees-21)
+[![Tommy Hilfiger - Th Core Mini Bucket  Bo](https://m.media-amazon.com/images/I/41DFtdoLqYL._SL400_.jpg)](https://www.amazon.es/dp/B07RS6SH5Y/?tag=tolees-21)
 
 ℹ️:
 

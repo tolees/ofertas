@@ -2,7 +2,7 @@
 layout: post
 title: 'Rimmel London Exaggerate Automatic Eyeli con un 43.57 % de descuento'
 date: 2020-03-19 13:52:38
-image: 'https://m.media-amazon.com/images/I/315kyZHsJML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/315kyZHsJML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.7'
 
 En este momento está [Rimmel London Exaggerate Automatic Eyeliner Waterproof - Delineador de Ojos Retráctil  Tono 263- Negro  Starlit Black   0.28 gr](https://www.amazon.es/dp/B00L38KCGK/?tag=tolees-21) a 3.95 EUR (original: 7.0 EUR) (43.57 %  de descuento) en el siguiente enlace!
 
-[![Rimmel London Exaggerate Automatic Eyeli](https://m.media-amazon.com/images/I/315kyZHsJML._SL200_.jpg)](https://www.amazon.es/dp/B00L38KCGK/?tag=tolees-21)
+[![Rimmel London Exaggerate Automatic Eyeli](https://m.media-amazon.com/images/I/315kyZHsJML._SL400_.jpg)](https://www.amazon.es/dp/B00L38KCGK/?tag=tolees-21)
 
 🔎:
 

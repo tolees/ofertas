@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 33.33 % en LA Lakers - Bandera oficial  Talla Única'
 date: 2020-02-01 12:58:41
-image: 'https://m.media-amazon.com/images/I/51707uoVETL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51707uoVETL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.7'
 
 Tienes [LA Lakers - Bandera oficial  Talla Única   Azul/Naranja ](https://www.amazon.es/dp/B07B1YVL5W/?tag=tolees-21) con un 33.33 % de descuento con precio de oferta de 7.7 EUR (original: 11.55 EUR) en el siguiente enlace!
 
-[![LA Lakers - Bandera oficial  Talla Única](https://m.media-amazon.com/images/I/51707uoVETL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07B1YVL5W/?tag=tolees-21)
+[![LA Lakers - Bandera oficial  Talla Única](https://m.media-amazon.com/images/I/51707uoVETL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07B1YVL5W/?tag=tolees-21)
 
 ℹ️:
 

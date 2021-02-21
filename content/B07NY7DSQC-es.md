@@ -2,7 +2,7 @@
 layout: post
 title: 'Sotech 108 Piezas Juego de Llaves de Vas al 59.92 % de descuento'
 date: 2020-01-13 19:19:37
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BubAtBWqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BubAtBWqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '49.69'
 
 Ahora mismo tienes [Sotech 108 Piezas Juego de Llaves de Vaso  Llave de Carraca Reversible de 1/2"y 1/4"  Manija Giratoria  Barra de Extensión  Kit de Herramientas Mecánicas para el Automóvil  Profesionales  Azul](https://www.amazon.es/dp/B07NY7DSQC/?tag=tolees-21) a 49.69 EUR (original: 123.99 EUR) (59.92 %  de descuento) en el siguiente enlace!
 
-[![Sotech 108 Piezas Juego de Llaves de Vas](https://images-eu.ssl-images-amazon.com/images/I/51%2BubAtBWqL._SL200_.jpg)](https://www.amazon.es/dp/B07NY7DSQC/?tag=tolees-21)
+[![Sotech 108 Piezas Juego de Llaves de Vas](https://images-eu.ssl-images-amazon.com/images/I/51%2BubAtBWqL._SL400_.jpg)](https://www.amazon.es/dp/B07NY7DSQC/?tag=tolees-21)
 
 🔎:
 

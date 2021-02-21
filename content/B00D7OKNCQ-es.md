@@ -2,7 +2,7 @@
 layout: post
 title: 'Maybelline New York - El Borrador Instan al 29.94 % de descuento'
 date: 2020-10-12 19:53:38
-image: 'https://m.media-amazon.com/images/I/41TtSx+4nML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41TtSx+4nML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.035714285714286'
 
 Ahora mismo tienes [Maybelline New York - El Borrador Instant Anti Age  Corrector de Ojos  Tono 45 Light](https://www.amazon.es/dp/B00D7OKNCQ/?tag=tolees-21) a 5.57 EUR (original: 7.95 EUR) (29.94 %  de descuento) en el siguiente enlace!
 
-[![Maybelline New York - El Borrador Instan](https://m.media-amazon.com/images/I/41TtSx+4nML._SL200_.jpg)](https://www.amazon.es/dp/B00D7OKNCQ/?tag=tolees-21)
+[![Maybelline New York - El Borrador Instan](https://m.media-amazon.com/images/I/41TtSx+4nML._SL400_.jpg)](https://www.amazon.es/dp/B00D7OKNCQ/?tag=tolees-21)
 
 🔎:
 

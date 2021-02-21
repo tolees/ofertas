@@ -2,7 +2,7 @@
 layout: post
 title: 'POP! Vinilo - UFC: Chris Weidman al 53.37 % de descuento'
 date: 2020-08-15 13:00:14
-image: 'https://m.media-amazon.com/images/I/51HMl3oh63L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51HMl3oh63L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.99'
 
 Ahora mismo tienes [POP! Vinilo - UFC: Chris Weidman](https://www.amazon.es/dp/B01E02TDO2/?tag=tolees-21) a 6.99 EUR (original: 14.99 EUR) (53.37 %  de descuento) en el siguiente enlace!
 
-[![POP! Vinilo - UFC: Chris Weidman](https://m.media-amazon.com/images/I/51HMl3oh63L._SL200_.jpg)](https://www.amazon.es/dp/B01E02TDO2/?tag=tolees-21)
+[![POP! Vinilo - UFC: Chris Weidman](https://m.media-amazon.com/images/I/51HMl3oh63L._SL400_.jpg)](https://www.amazon.es/dp/B01E02TDO2/?tag=tolees-21)
 
 🔎:
 

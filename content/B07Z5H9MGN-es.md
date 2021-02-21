@@ -2,7 +2,7 @@
 layout: post
 title: 'Salomon Speedcross 4  Zapatillas de Trai al 30.82 % de rebaja'
 date: 2020-10-07 19:10:32
-image: 'https://m.media-amazon.com/images/I/41gb419fPiL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41gb419fPiL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '83.02'
 
 Tienes [Salomon Speedcross 4  Zapatillas de Trail Running para Hombre  Negro  Black/Goji Berry/Red Orange   43 1/3 EU](https://www.amazon.es/dp/B07Z5H9MGN/?tag=tolees-21) con precio final de  83.02 EUR (original: 120.0 EUR) (30.82 %  de rebaja) aqui!
 
-[![Salomon Speedcross 4  Zapatillas de Trai](https://m.media-amazon.com/images/I/41gb419fPiL._SL200_.jpg)](https://www.amazon.es/dp/B07Z5H9MGN/?tag=tolees-21)
+[![Salomon Speedcross 4  Zapatillas de Trai](https://m.media-amazon.com/images/I/41gb419fPiL._SL400_.jpg)](https://www.amazon.es/dp/B07Z5H9MGN/?tag=tolees-21)
 
 🔎:
 

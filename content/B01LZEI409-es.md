@@ -2,7 +2,7 @@
 layout: post
 title: 'StarTech.com HDMM2MP - Cable HDMI de 2 m al 27.65 % de rebaja'
 date: 2020-09-23 01:08:01
-image: 'https://m.media-amazon.com/images/I/41gtxc92rKL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41gtxc92rKL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.75'
 
 Tienes [StarTech.com HDMM2MP - Cable HDMI de 2 m  color negro](https://www.amazon.es/dp/B01LZEI409/?tag=tolees-21) con precio final de  15.75 EUR (original: 21.77 EUR) (27.65 %  de rebaja) aqui!
 
-[![StarTech.com HDMM2MP - Cable HDMI de 2 m](https://m.media-amazon.com/images/I/41gtxc92rKL._SL200_.jpg)](https://www.amazon.es/dp/B01LZEI409/?tag=tolees-21)
+[![StarTech.com HDMM2MP - Cable HDMI de 2 m](https://m.media-amazon.com/images/I/41gtxc92rKL._SL400_.jpg)](https://www.amazon.es/dp/B01LZEI409/?tag=tolees-21)
 
 🔎:
 

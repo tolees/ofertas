@@ -2,7 +2,7 @@
 layout: post
 title: 'W7 Smokin  - Paleta de sombras de ojos   al 34.75 % de descuento'
 date: 2020-10-07 13:34:05
-image: 'https://m.media-amazon.com/images/I/31JHahlSPUL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31JHahlSPUL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.99'
 
 Está [W7 Smokin  - Paleta de sombras de ojos  15 6 g  12 colores](https://www.amazon.es/dp/B01GHRBIIW/?tag=tolees-21) con 34.75 de descuento por 5.99 EUR (original: 9.18 EUR) en el siguiente enlace!
 
-[![W7 Smokin  - Paleta de sombras de ojos  ](https://m.media-amazon.com/images/I/31JHahlSPUL._SL200_.jpg)](https://www.amazon.es/dp/B01GHRBIIW/?tag=tolees-21)
+[![W7 Smokin  - Paleta de sombras de ojos  ](https://m.media-amazon.com/images/I/31JHahlSPUL._SL400_.jpg)](https://www.amazon.es/dp/B01GHRBIIW/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Autoleads PC5-27 - Adaptador de Antena I al 43.44 % de descuento'
 date: 2020-09-30 04:28:17
-image: 'https://m.media-amazon.com/images/I/41KzKKoe5GL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41KzKKoe5GL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.815'
 
 Ahora mismo tienes [Autoleads PC5-27 - Adaptador de Antena ISO-DIN](https://www.amazon.es/dp/B004TW7WAQ/?tag=tolees-21) a 1.81 EUR (original: 3.2 EUR) (43.44 %  de descuento) en el siguiente enlace!
 
-[![Autoleads PC5-27 - Adaptador de Antena I](https://m.media-amazon.com/images/I/41KzKKoe5GL._SL200_.jpg)](https://www.amazon.es/dp/B004TW7WAQ/?tag=tolees-21)
+[![Autoleads PC5-27 - Adaptador de Antena I](https://m.media-amazon.com/images/I/41KzKKoe5GL._SL400_.jpg)](https://www.amazon.es/dp/B004TW7WAQ/?tag=tolees-21)
 
 🔎:
 

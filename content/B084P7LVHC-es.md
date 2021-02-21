@@ -2,7 +2,7 @@
 layout: post
 title: 'USB portátil 3.1 Tipo-C Macho a USB 3.0  al 33.53 % de descuento'
 date: 2020-04-28 14:04:44
-image: 'https://m.media-amazon.com/images/I/31H76SkfX5L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31H76SkfX5L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.11'
 
 Ahora mismo tienes [USB portátil 3.1 Tipo-C Macho a USB 3.0 A Hembra Convertidor Adaptador de Cable USB Carcasa de aleación de Aluminio Duradera Ultra Ligera - Negro](https://www.amazon.es/dp/B084P7LVHC/?tag=tolees-21) a 1.11 EUR (original: 1.67 EUR) (33.53 %  de descuento) en el siguiente enlace!
 
-[![USB portátil 3.1 Tipo-C Macho a USB 3.0 ](https://m.media-amazon.com/images/I/31H76SkfX5L._SL200_.jpg)](https://www.amazon.es/dp/B084P7LVHC/?tag=tolees-21)
+[![USB portátil 3.1 Tipo-C Macho a USB 3.0 ](https://m.media-amazon.com/images/I/31H76SkfX5L._SL400_.jpg)](https://www.amazon.es/dp/B084P7LVHC/?tag=tolees-21)
 
 🔎:
 

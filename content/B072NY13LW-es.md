@@ -2,7 +2,7 @@
 layout: post
 title: 'Philips 223V7QHSB/00 - Monitor IPS de 21 con un 25.83 % de descuento'
 date: 2020-01-22 14:58:26
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41zmredpZkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41zmredpZkL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '94.0'
 
 En este momento está [Philips 223V7QHSB/00 - Monitor IPS de 21.5"  Full HD  1920x1080  Sin bordes  Flicker Free  Low Blue Mode  VESA  VGA + HDMI ](https://www.amazon.es/dp/B072NY13LW/?tag=tolees-21) a 89 EUR (original: 119.99 EUR) (25.83 %  de descuento) en el siguiente enlace!
 
-[![Philips 223V7QHSB/00 - Monitor IPS de 21](https://images-eu.ssl-images-amazon.com/images/I/41zmredpZkL._SL200_.jpg)](https://www.amazon.es/dp/B072NY13LW/?tag=tolees-21)
+[![Philips 223V7QHSB/00 - Monitor IPS de 21](https://images-eu.ssl-images-amazon.com/images/I/41zmredpZkL._SL400_.jpg)](https://www.amazon.es/dp/B072NY13LW/?tag=tolees-21)
 
 🔎:
 

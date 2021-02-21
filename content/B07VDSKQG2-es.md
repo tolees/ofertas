@@ -2,7 +2,7 @@
 layout: post
 title: 'Fila Calcetines de deporte para Hombre   al 32.73 % de descuento'
 date: 2020-02-28 15:34:53
-image: 'https://m.media-amazon.com/images/I/31psZB0KhoL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31psZB0KhoL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.265'
 
 Ahora mismo tienes [Fila Calcetines de deporte para Hombre  Negro  39/42  pack de 6 ](https://www.amazon.es/dp/B07VDSKQG2/?tag=tolees-21) a 8.22 EUR (original: 12.22 EUR) (32.73 %  de descuento) en el siguiente enlace!
 
-[![Fila Calcetines de deporte para Hombre  ](https://m.media-amazon.com/images/I/31psZB0KhoL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07VDSKQG2/?tag=tolees-21)
+[![Fila Calcetines de deporte para Hombre  ](https://m.media-amazon.com/images/I/31psZB0KhoL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07VDSKQG2/?tag=tolees-21)
 
 🔎:
 

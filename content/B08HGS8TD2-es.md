@@ -2,7 +2,7 @@
 layout: post
 title: '#N/A 2 Kits de Ropa de Baño en Miniatura al 44.43 % de descuento'
 date: 2020-09-25 17:02:07
-image: 'https://m.media-amazon.com/images/I/41srAa6uxsL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41srAa6uxsL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.99'
 
 Ahora mismo tienes [#N/A 2 Kits de Ropa de Baño en Miniatura para Muñecas Chicas Americanas 18 Inch](https://www.amazon.es/dp/B08HGS8TD2/?tag=tolees-21) a 5.99 EUR (original: 10.78 EUR) (44.43 %  de descuento) en el siguiente enlace!
 
-[![#N/A 2 Kits de Ropa de Baño en Miniatura](https://m.media-amazon.com/images/I/41srAa6uxsL._SL200_.jpg)](https://www.amazon.es/dp/B08HGS8TD2/?tag=tolees-21)
+[![#N/A 2 Kits de Ropa de Baño en Miniatura](https://m.media-amazon.com/images/I/41srAa6uxsL._SL400_.jpg)](https://www.amazon.es/dp/B08HGS8TD2/?tag=tolees-21)
 
 🔎:
 

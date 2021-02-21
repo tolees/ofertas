@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 53.77 % en GORE WEAR R3 Mallas cortas de mujer  36 '
 date: 2020-03-06 08:11:25
-image: 'https://m.media-amazon.com/images/I/41FtmeotAfL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41FtmeotAfL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.403333333333332'
 
 Tienes [GORE WEAR R3 Mallas cortas de mujer  36  Negro](https://www.amazon.es/dp/B075RFGGBC/?tag=tolees-21) con un 53.77 % de descuento con precio de oferta de 23.09 EUR (original: 49.95 EUR) en el siguiente enlace!
 
-[![GORE WEAR R3 Mallas cortas de mujer  36 ](https://m.media-amazon.com/images/I/41FtmeotAfL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B075RFGGBC/?tag=tolees-21)
+[![GORE WEAR R3 Mallas cortas de mujer  36 ](https://m.media-amazon.com/images/I/41FtmeotAfL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B075RFGGBC/?tag=tolees-21)
 
 ℹ️:
 

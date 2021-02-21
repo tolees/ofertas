@@ -2,7 +2,7 @@
 layout: post
 title: 'Merrell Terran Lattice Ii Tira de tobill al 34.13 % de rebaja'
 date: 2020-06-15 11:31:58
-image: 'https://m.media-amazon.com/images/I/41FkrhfLLFL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41FkrhfLLFL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '55.99'
 
 Tienes [Merrell Terran Lattice Ii Tira de tobillo para Mujer  Gris  Slate   38 EU](https://www.amazon.es/dp/B074N9DMH4/?tag=tolees-21) con precio final de  55.99 EUR (original: 85.0 EUR) (34.13 %  de rebaja) aqui!
 
-[![Merrell Terran Lattice Ii Tira de tobill](https://m.media-amazon.com/images/I/41FkrhfLLFL._SL200_.jpg)](https://www.amazon.es/dp/B074N9DMH4/?tag=tolees-21)
+[![Merrell Terran Lattice Ii Tira de tobill](https://m.media-amazon.com/images/I/41FkrhfLLFL._SL400_.jpg)](https://www.amazon.es/dp/B074N9DMH4/?tag=tolees-21)
 
 🔎:
 

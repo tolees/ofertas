@@ -2,7 +2,7 @@
 layout: post
 title: 'Orbeez Juego Crush Sweet Treat Studio al 25.01 % de descuento'
 date: 2020-04-11 16:11:09
-image: 'https://m.media-amazon.com/images/I/51QD9-tqZhL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51QD9-tqZhL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '34.48'
 
 Está [Orbeez Juego Crush Sweet Treat Studio](https://www.amazon.es/dp/B01KVLNF6S/?tag=tolees-21) con 25.01 de descuento por 34.48 EUR (original: 45.98 EUR) en el siguiente enlace!
 
-[![Orbeez Juego Crush Sweet Treat Studio](https://m.media-amazon.com/images/I/51QD9-tqZhL._SL200_.jpg)](https://www.amazon.es/dp/B01KVLNF6S/?tag=tolees-21)
+[![Orbeez Juego Crush Sweet Treat Studio](https://m.media-amazon.com/images/I/51QD9-tqZhL._SL400_.jpg)](https://www.amazon.es/dp/B01KVLNF6S/?tag=tolees-21)
 
 ℹ️:
 

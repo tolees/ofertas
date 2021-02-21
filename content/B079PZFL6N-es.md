@@ -2,7 +2,7 @@
 layout: post
 title: 'Fujifilm FUJ105231 - Pel?cula instant in al 32.02 % de descuento'
 date: 2020-08-27 18:35:16
-image: 'https://m.media-amazon.com/images/I/419BWHVXYuL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/419BWHVXYuL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.54'
 
 Está [Fujifilm FUJ105231 - Pel?cula instant instax mini  pink limonade frame 1  1x10 fotos  multicolor](https://www.amazon.es/dp/B079PZFL6N/?tag=tolees-21) con 32.02 de descuento por 8.09 EUR (original: 11.9 EUR) en el siguiente enlace!
 
-[![Fujifilm FUJ105231 - Pel?cula instant in](https://m.media-amazon.com/images/I/419BWHVXYuL._SL200_.jpg)](https://www.amazon.es/dp/B079PZFL6N/?tag=tolees-21)
+[![Fujifilm FUJ105231 - Pel?cula instant in](https://m.media-amazon.com/images/I/419BWHVXYuL._SL400_.jpg)](https://www.amazon.es/dp/B079PZFL6N/?tag=tolees-21)
 
 ℹ️:
 

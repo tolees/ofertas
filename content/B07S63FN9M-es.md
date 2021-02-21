@@ -2,7 +2,7 @@
 layout: post
 title: 'LuckyGirls • • Men Fashion Letter Solid  al 55.17 % de rebaja'
 date: 2020-05-27 18:04:45
-image: 'https://m.media-amazon.com/images/I/41lbJ+5PJ2L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41lbJ+5PJ2L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.37'
 
 Tienes [LuckyGirls • • Men Fashion Letter Solid Elastic Running Sport Flat Ankle Round Toe Casual Shoes](https://www.amazon.es/dp/B07S63FN9M/?tag=tolees-21) con precio final de  11.37 EUR (original: 25.36 EUR) (55.17 %  de rebaja) aqui!
 
-[![LuckyGirls • • Men Fashion Letter Solid ](https://m.media-amazon.com/images/I/41lbJ+5PJ2L._SL200_.jpg)](https://www.amazon.es/dp/B07S63FN9M/?tag=tolees-21)
+[![LuckyGirls • • Men Fashion Letter Solid ](https://m.media-amazon.com/images/I/41lbJ+5PJ2L._SL400_.jpg)](https://www.amazon.es/dp/B07S63FN9M/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'RLTech Funda Carcasa para Huawei Matepad al 70.12 % de rebaja'
 date: 2020-06-26 10:33:41
-image: 'https://m.media-amazon.com/images/I/412hiKlR-OL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/412hiKlR-OL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.95'
 
 Tienes [RLTech Funda Carcasa para Huawei Matepad 10.4 2020  Silicona TPU Flexible con Soporte Función Funda Protectora Case Cover para Huawei Matepad 10.4 2020  Naranja](https://www.amazon.es/dp/B087RL7TN4/?tag=tolees-21) con precio final de  8.95 EUR (original: 29.95 EUR) (70.12 %  de rebaja) aqui!
 
-[![RLTech Funda Carcasa para Huawei Matepad](https://m.media-amazon.com/images/I/412hiKlR-OL._SL200_.jpg)](https://www.amazon.es/dp/B087RL7TN4/?tag=tolees-21)
+[![RLTech Funda Carcasa para Huawei Matepad](https://m.media-amazon.com/images/I/412hiKlR-OL._SL400_.jpg)](https://www.amazon.es/dp/B087RL7TN4/?tag=tolees-21)
 
 🔎:
 

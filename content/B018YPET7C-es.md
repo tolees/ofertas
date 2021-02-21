@@ -2,7 +2,7 @@
 layout: post
 title: 'Bosch Professional GWS 12V-76 - Amolador al 40.62 % de descuento'
 date: 2020-08-31 09:45:40
-image: 'https://m.media-amazon.com/images/I/41CPu7UyP3L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41CPu7UyP3L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '99.972'
 
 Ahora mismo tienes [Bosch Professional GWS 12V-76 - Amoladora angular a batería 12V  19500 rpm  disco 76 mm  3 discos  sin batería  en L-BOXX](https://www.amazon.es/dp/B018YPET7C/?tag=tolees-21) a 96.99 EUR (original: 163.35 EUR) (40.62 %  de descuento) en el siguiente enlace!
 
-[![Bosch Professional GWS 12V-76 - Amolador](https://m.media-amazon.com/images/I/41CPu7UyP3L._SL200_.jpg)](https://www.amazon.es/dp/B018YPET7C/?tag=tolees-21)
+[![Bosch Professional GWS 12V-76 - Amolador](https://m.media-amazon.com/images/I/41CPu7UyP3L._SL400_.jpg)](https://www.amazon.es/dp/B018YPET7C/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour UA W TriBase Edge Trainer   al 68.29 % de rebaja'
 date: 2020-09-23 21:17:00
-image: 'https://m.media-amazon.com/images/I/31gOdzA6s4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31gOdzA6s4L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.77'
 
 Tienes [Under Armour UA W TriBase Edge Trainer  Zapatillas Deportivas para Interior para Mujer  Negro  Black/White/Halo Gray   35.5 EU](https://www.amazon.es/dp/B07PYYR89Y/?tag=tolees-21) con precio final de  23.77 EUR (original: 74.95 EUR) (68.29 %  de rebaja) aqui!
 
-[![Under Armour UA W TriBase Edge Trainer  ](https://m.media-amazon.com/images/I/31gOdzA6s4L._SL200_.jpg)](https://www.amazon.es/dp/B07PYYR89Y/?tag=tolees-21)
+[![Under Armour UA W TriBase Edge Trainer  ](https://m.media-amazon.com/images/I/31gOdzA6s4L._SL400_.jpg)](https://www.amazon.es/dp/B07PYYR89Y/?tag=tolees-21)
 
 🔎:
 

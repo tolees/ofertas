@@ -2,7 +2,7 @@
 layout: post
 title: 'Maurer 15013410 Botas Seguridad 40 al 41.98 % de descuento'
 date: 2020-01-17 12:01:45
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51BuzlZ48QL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51BuzlZ48QL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.92'
 
 Está [Maurer 15013410 Botas Seguridad 40](https://www.amazon.es/dp/B01LGSLAW6/?tag=tolees-21) con 41.98 de descuento por 15.92 EUR (original: 27.44 EUR) en el siguiente enlace!
 
-[![Maurer 15013410 Botas Seguridad 40](https://images-eu.ssl-images-amazon.com/images/I/51BuzlZ48QL._SL200_.jpg)](https://www.amazon.es/dp/B01LGSLAW6/?tag=tolees-21)
+[![Maurer 15013410 Botas Seguridad 40](https://images-eu.ssl-images-amazon.com/images/I/51BuzlZ48QL._SL400_.jpg)](https://www.amazon.es/dp/B01LGSLAW6/?tag=tolees-21)
 
 ℹ️:
 

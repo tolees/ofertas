@@ -2,7 +2,7 @@
 layout: post
 title: 'Funda Xiaomi Redmi Note 8T Carcasa Ultra al 50.03 % de descuento'
 date: 2020-09-12 07:22:38
-image: 'https://m.media-amazon.com/images/I/41MBWKj58VL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41MBWKj58VL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.99'
 
 Ahora mismo tienes [Funda Xiaomi Redmi Note 8T Carcasa Ultra Fina Shockproof Mármol Vidrio Templado Anti-Scratch Protectora Cover Funda para Xiaomi Redmi Note 8T Negro](https://www.amazon.es/dp/B085MHNJ87/?tag=tolees-21) a 9.99 EUR (original: 19.99 EUR) (50.03 %  de descuento) en el siguiente enlace!
 
-[![Funda Xiaomi Redmi Note 8T Carcasa Ultra](https://m.media-amazon.com/images/I/41MBWKj58VL._SL200_.jpg)](https://www.amazon.es/dp/B085MHNJ87/?tag=tolees-21)
+[![Funda Xiaomi Redmi Note 8T Carcasa Ultra](https://m.media-amazon.com/images/I/41MBWKj58VL._SL400_.jpg)](https://www.amazon.es/dp/B085MHNJ87/?tag=tolees-21)
 
 🔎:
 

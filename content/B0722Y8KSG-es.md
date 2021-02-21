@@ -2,7 +2,7 @@
 layout: post
 title: 'Bosch EasyDrill 1200 - Atornillador con  con un 30.84 % de descuento'
 date: 2020-09-15 07:06:10
-image: 'https://m.media-amazon.com/images/I/41f7eDUPabL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41f7eDUPabL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '69.15'
 
 En este momento está [Bosch EasyDrill 1200 - Atornillador con batería de litio 12V 1 5 Ah en maletín  con punta doble  luz de trabajo  dos velocidades 11/20 Nm y par giro 15+1 ](https://www.amazon.es/dp/B0722Y8KSG/?tag=tolees-21) a 69.15 EUR (original: 99.99 EUR) (30.84 %  de descuento) en el siguiente enlace!
 
-[![Bosch EasyDrill 1200 - Atornillador con ](https://m.media-amazon.com/images/I/41f7eDUPabL._SL200_.jpg)](https://www.amazon.es/dp/B0722Y8KSG/?tag=tolees-21)
+[![Bosch EasyDrill 1200 - Atornillador con ](https://m.media-amazon.com/images/I/41f7eDUPabL._SL400_.jpg)](https://www.amazon.es/dp/B0722Y8KSG/?tag=tolees-21)
 
 🔎:
 

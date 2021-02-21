@@ -2,7 +2,7 @@
 layout: post
 title: 'SanDisk Cruzer Fit  Memoria Flash  50  N al 29.43 % de descuento'
 date: 2020-07-21 12:02:05
-image: 'https://m.media-amazon.com/images/I/31F2H5cuB7L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31F2H5cuB7L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.99'
 
 Está [SanDisk Cruzer Fit  Memoria Flash  50  Negro/Plata](https://www.amazon.es/dp/B07MDXBTL1/?tag=tolees-21) con 29.43 de descuento por 11.99 EUR (original: 16.99 EUR) en el siguiente enlace!
 
-[![SanDisk Cruzer Fit  Memoria Flash  50  N](https://m.media-amazon.com/images/I/31F2H5cuB7L._SL200_.jpg)](https://www.amazon.es/dp/B07MDXBTL1/?tag=tolees-21)
+[![SanDisk Cruzer Fit  Memoria Flash  50  N](https://m.media-amazon.com/images/I/31F2H5cuB7L._SL400_.jpg)](https://www.amazon.es/dp/B07MDXBTL1/?tag=tolees-21)
 
 ℹ️:
 

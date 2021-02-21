@@ -2,7 +2,7 @@
 layout: post
 title: 'Suhctup Funda Transparent Compatible par al 47.15 % de rebaja'
 date: 2020-05-27 18:32:48
-image: 'https://m.media-amazon.com/images/I/31tDH6L3upL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31tDH6L3upL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.98'
 
 Tienes [Suhctup Funda Transparent Compatible para Huawei P Smart Z/Y9 Prime 2019 Carcasa Protectora [Antigolpes] Silicona TPU Bumper Cojín de Aire de Cuatro Esquinas Protector Gel para Huawei P Smart Z A2](https://www.amazon.es/dp/B087X5VG9N/?tag=tolees-21) con precio final de  8.98 EUR (original: 16.99 EUR) (47.15 %  de rebaja) aqui!
 
-[![Suhctup Funda Transparent Compatible par](https://m.media-amazon.com/images/I/31tDH6L3upL._SL200_.jpg)](https://www.amazon.es/dp/B087X5VG9N/?tag=tolees-21)
+[![Suhctup Funda Transparent Compatible par](https://m.media-amazon.com/images/I/31tDH6L3upL._SL400_.jpg)](https://www.amazon.es/dp/B087X5VG9N/?tag=tolees-21)
 
 🔎:
 

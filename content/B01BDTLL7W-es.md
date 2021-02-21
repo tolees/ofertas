@@ -2,7 +2,7 @@
 layout: post
 title: 'Eritritol 100 % natural 1 kg | Sustituto al 28.59 % de descuento'
 date: 2020-09-08 10:50:29
-image: 'https://m.media-amazon.com/images/I/51kk0Ue4y5L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51kk0Ue4y5L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.32125'
 
 Ahora mismo tienes [Eritritol 100 % natural 1 kg | Sustituto del azúcar con cero calorías](https://www.amazon.es/dp/B01BDTLL7W/?tag=tolees-21) a 9.99 EUR (original: 13.99 EUR) (28.59 %  de descuento) en el siguiente enlace!
 
-[![Eritritol 100 % natural 1 kg | Sustituto](https://m.media-amazon.com/images/I/51kk0Ue4y5L._SL200_.jpg)](https://www.amazon.es/dp/B01BDTLL7W/?tag=tolees-21)
+[![Eritritol 100 % natural 1 kg | Sustituto](https://m.media-amazon.com/images/I/51kk0Ue4y5L._SL400_.jpg)](https://www.amazon.es/dp/B01BDTLL7W/?tag=tolees-21)
 
 🔎:
 

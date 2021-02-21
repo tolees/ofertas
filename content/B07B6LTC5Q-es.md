@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 60.01 % en Marvel Avengers: Infinity War Hero Visio'
 date: 2020-05-30 09:03:19
-image: 'https://m.media-amazon.com/images/I/416Hpl7-CNL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/416Hpl7-CNL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.99'
 
 Tienes [Marvel Avengers: Infinity War Hero Vision Iron Man AR Experience](https://www.amazon.es/dp/B07B6LTC5Q/?tag=tolees-21) con un 60.01 % de descuento con precio de oferta de 19.99 EUR (original: 49.99 EUR) en el siguiente enlace!
 
-[![Marvel Avengers: Infinity War Hero Visio](https://m.media-amazon.com/images/I/416Hpl7-CNL._SL200_.jpg)](https://www.amazon.es/dp/B07B6LTC5Q/?tag=tolees-21)
+[![Marvel Avengers: Infinity War Hero Visio](https://m.media-amazon.com/images/I/416Hpl7-CNL._SL400_.jpg)](https://www.amazon.es/dp/B07B6LTC5Q/?tag=tolees-21)
 
 ℹ️:
 

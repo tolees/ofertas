@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas Originals Stan Smith  Zapatillas  con un 27.87 % de descuento'
 date: 2020-04-19 22:09:21
-image: 'https://m.media-amazon.com/images/I/31lnD5T1jTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31lnD5T1jTL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '68.49'
 
 En este momento está [adidas Originals Stan Smith  Zapatillas de Deporte Unisex Adulto  Blanco  Running White FTW/Running White/Fairway   40 EU](https://www.amazon.es/dp/B00LUIKG3M/?tag=tolees-21) a 68.49 EUR (original: 94.95 EUR) (27.87 %  de descuento) en el siguiente enlace!
 
-[![adidas Originals Stan Smith  Zapatillas ](https://m.media-amazon.com/images/I/31lnD5T1jTL._SL200_.jpg)](https://www.amazon.es/dp/B00LUIKG3M/?tag=tolees-21)
+[![adidas Originals Stan Smith  Zapatillas ](https://m.media-amazon.com/images/I/31lnD5T1jTL._SL400_.jpg)](https://www.amazon.es/dp/B00LUIKG3M/?tag=tolees-21)
 
 🔎:
 

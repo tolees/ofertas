@@ -2,7 +2,7 @@
 layout: post
 title: 'Apple iPhone XS Max  de 512GB  - Oro al 34.95 % de descuento'
 date: 2020-01-16 08:06:04
-image: 'https://images-eu.ssl-images-amazon.com/images/I/510iQaTVAhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/510iQaTVAhL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1253.6399999999999'
 
 Ahora mismo tienes [Apple iPhone XS Max  de 512GB  - Oro](https://www.amazon.es/dp/B07HWYYZVK/?tag=tolees-21) a 1014.18 EUR (original: 1559 EUR) (34.95 %  de descuento) en el siguiente enlace!
 
-[![Apple iPhone XS Max  de 512GB  - Oro](https://images-eu.ssl-images-amazon.com/images/I/510iQaTVAhL._SL200_.jpg)](https://www.amazon.es/dp/B07HWYYZVK/?tag=tolees-21)
+[![Apple iPhone XS Max  de 512GB  - Oro](https://images-eu.ssl-images-amazon.com/images/I/510iQaTVAhL._SL400_.jpg)](https://www.amazon.es/dp/B07HWYYZVK/?tag=tolees-21)
 
 🔎:
 

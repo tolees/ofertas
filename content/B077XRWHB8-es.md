@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour Seamless Longline Sujetador con un 44.31 % de descuento'
 date: 2020-03-27 16:30:57
-image: 'https://m.media-amazon.com/images/I/41sFULAKbJL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41sFULAKbJL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.49'
 
 En este momento está [Under Armour Seamless Longline Sujetador Deportivo  Mujer  Negro  Black/Black/Black 001   L](https://www.amazon.es/dp/B077XRWHB8/?tag=tolees-21) a 19.49 EUR (original: 35.0 EUR) (44.31 %  de descuento) en el siguiente enlace!
 
-[![Under Armour Seamless Longline Sujetador](https://m.media-amazon.com/images/I/41sFULAKbJL._SL200_.jpg)](https://www.amazon.es/dp/B077XRWHB8/?tag=tolees-21)
+[![Under Armour Seamless Longline Sujetador](https://m.media-amazon.com/images/I/41sFULAKbJL._SL400_.jpg)](https://www.amazon.es/dp/B077XRWHB8/?tag=tolees-21)
 
 🔎:
 

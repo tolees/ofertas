@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas Coneo Qt  Zapatillas para Mujer   con un 29.99 % de descuento'
 date: 2020-02-01 01:49:15
-image: 'https://m.media-amazon.com/images/I/41gkRWEGatL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41gkRWEGatL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '35.72'
 
 En este momento está [adidas Coneo Qt  Zapatillas para Mujer  Negro  Core Black/Footwear White/Vapour Grey Metallic 0   36 EU](https://www.amazon.es/dp/B0753GZYBT/?tag=tolees-21) a 38.47 EUR (original: 54.95 EUR) (29.99 %  de descuento) en el siguiente enlace!
 
-[![adidas Coneo Qt  Zapatillas para Mujer  ](https://m.media-amazon.com/images/I/41gkRWEGatL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B0753GZYBT/?tag=tolees-21)
+[![adidas Coneo Qt  Zapatillas para Mujer  ](https://m.media-amazon.com/images/I/41gkRWEGatL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B0753GZYBT/?tag=tolees-21)
 
 🔎:
 

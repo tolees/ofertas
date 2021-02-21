@@ -2,7 +2,7 @@
 layout: post
 title: 'Shimano CSHG318132 Cassette  Unisex  Gri al 30.28 % de descuento'
 date: 2020-01-22 07:16:07
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZcmpgB1oL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZcmpgB1oL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.9'
 
 Está [Shimano CSHG318132 Cassette  Unisex  Gris  Talla Única](https://www.amazon.es/dp/B003EQ96SE/?tag=tolees-21) con 30.28 de descuento por 9.9 EUR (original: 14.2 EUR) en el siguiente enlace!
 
-[![Shimano CSHG318132 Cassette  Unisex  Gri](https://images-eu.ssl-images-amazon.com/images/I/41ZcmpgB1oL._SL200_.jpg)](https://www.amazon.es/dp/B003EQ96SE/?tag=tolees-21)
+[![Shimano CSHG318132 Cassette  Unisex  Gri](https://images-eu.ssl-images-amazon.com/images/I/41ZcmpgB1oL._SL400_.jpg)](https://www.amazon.es/dp/B003EQ96SE/?tag=tolees-21)
 
 ℹ️:
 

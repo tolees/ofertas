@@ -2,7 +2,7 @@
 layout: post
 title: 'BLESSUME Mujer Cordón infinito católico  con un 60.02 % de descuento'
 date: 2020-07-22 17:46:31
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41QKGZw3Z6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41QKGZw3Z6L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.99'
 
 En este momento está [BLESSUME Mujer Cordón infinito católico Capilla Velo latín Masa Mantilla Cabeza Cubierta  Negro ](https://www.amazon.es/dp/B07BSBK3L8/?tag=tolees-21) a 11.99 EUR (original: 29.99 EUR) (60.02 %  de descuento) en el siguiente enlace!
 
-[![BLESSUME Mujer Cordón infinito católico ](https://images-eu.ssl-images-amazon.com/images/I/41QKGZw3Z6L._SL200_.jpg)](https://www.amazon.es/dp/B07BSBK3L8/?tag=tolees-21)
+[![BLESSUME Mujer Cordón infinito católico ](https://images-eu.ssl-images-amazon.com/images/I/41QKGZw3Z6L._SL400_.jpg)](https://www.amazon.es/dp/B07BSBK3L8/?tag=tolees-21)
 
 🔎:
 

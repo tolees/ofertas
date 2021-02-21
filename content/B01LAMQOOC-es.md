@@ -2,7 +2,7 @@
 layout: post
 title: 'Funko - Pop! Vinilo Colección The Walkin al 33.98 % de descuento'
 date: 2020-03-12 18:46:29
-image: 'https://m.media-amazon.com/images/I/41M53-n4qTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41M53-n4qTL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.155000000000001'
 
 Está [Funko - Pop! Vinilo Colección The Walking Dead - Figura Negan  11070 ](https://www.amazon.es/dp/B01LAMQOOC/?tag=tolees-21) con 33.98 de descuento por 9.89 EUR (original: 14.98 EUR) en el siguiente enlace!
 
-[![Funko - Pop! Vinilo Colección The Walkin](https://m.media-amazon.com/images/I/41M53-n4qTL._SL200_.jpg)](https://www.amazon.es/dp/B01LAMQOOC/?tag=tolees-21)
+[![Funko - Pop! Vinilo Colección The Walkin](https://m.media-amazon.com/images/I/41M53-n4qTL._SL400_.jpg)](https://www.amazon.es/dp/B01LAMQOOC/?tag=tolees-21)
 
 ℹ️:
 

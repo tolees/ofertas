@@ -2,7 +2,7 @@
 layout: post
 title: 'XP-PEN Artist15.6 IPS Monitor de Dibujo  al 50.00 % de descuento'
 date: 2020-07-23 08:55:41
-image: 'https://m.media-amazon.com/images/I/51uY99Fr+1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51uY99Fr+1L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '337.49'
 
 Ahora mismo tienes [XP-PEN Artist15.6 IPS Monitor de Dibujo 8192 Niveles de Presión con Lápiz Sin Pila NO Necesita Recargar 1920x1080 Type C 266 RPS Viene con el Último Software de Dibujo de OpenCanvas 7 o ArtRage 5](https://www.amazon.es/dp/B0784RWD7B/?tag=tolees-21) a 349.99 EUR (original: 699.98 EUR) (50.00 %  de descuento) en el siguiente enlace!
 
-[![XP-PEN Artist15.6 IPS Monitor de Dibujo ](https://m.media-amazon.com/images/I/51uY99Fr+1L._SL200_.jpg)](https://www.amazon.es/dp/B0784RWD7B/?tag=tolees-21)
+[![XP-PEN Artist15.6 IPS Monitor de Dibujo ](https://m.media-amazon.com/images/I/51uY99Fr+1L._SL400_.jpg)](https://www.amazon.es/dp/B0784RWD7B/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Puma Cell Viper Zapatillas de running Un al 45.00 % de descuento'
 date: 2020-08-08 12:40:40
-image: 'https://m.media-amazon.com/images/I/41e89HuyFtL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41e89HuyFtL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '46.5'
 
 Ahora mismo tienes [Puma Cell Viper Zapatillas de running Unisex Adulto  Blanco  Puma White-Spectra Yellow   46 EU](https://www.amazon.es/dp/B07DC7X2CZ/?tag=tolees-21) a 49.5 EUR (original: 90.0 EUR) (45.00 %  de descuento) en el siguiente enlace!
 
-[![Puma Cell Viper Zapatillas de running Un](https://m.media-amazon.com/images/I/41e89HuyFtL._SL200_.jpg)](https://www.amazon.es/dp/B07DC7X2CZ/?tag=tolees-21)
+[![Puma Cell Viper Zapatillas de running Un](https://m.media-amazon.com/images/I/41e89HuyFtL._SL400_.jpg)](https://www.amazon.es/dp/B07DC7X2CZ/?tag=tolees-21)
 
 🔎:
 

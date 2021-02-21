@@ -2,7 +2,7 @@
 layout: post
 title: 'X-Shot -Bunch O Balloons Pack Los Minion al 41.67 % de descuento'
 date: 2020-03-08 11:25:45
-image: 'https://m.media-amazon.com/images/I/510nIlR5RpL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/510nIlR5RpL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.5'
 
 Ahora mismo tienes [X-Shot -Bunch O Balloons Pack Los Minions  Pack de 100 de globos](https://www.amazon.es/dp/B06XXDZ552/?tag=tolees-21) a 3.5 EUR (original: 6.0 EUR) (41.67 %  de descuento) en el siguiente enlace!
 
-[![X-Shot -Bunch O Balloons Pack Los Minion](https://m.media-amazon.com/images/I/510nIlR5RpL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B06XXDZ552/?tag=tolees-21)
+[![X-Shot -Bunch O Balloons Pack Los Minion](https://m.media-amazon.com/images/I/510nIlR5RpL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B06XXDZ552/?tag=tolees-21)
 
 🔎:
 

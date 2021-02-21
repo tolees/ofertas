@@ -2,7 +2,7 @@
 layout: post
 title: 'Cabin Max Rio Stowaway – Bolsa de Hombro al 44.63 % de descuento'
 date: 2020-09-07 15:33:26
-image: 'https://m.media-amazon.com/images/I/41-SzyY9tbL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41-SzyY9tbL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.17'
 
 Está [Cabin Max Rio Stowaway – Bolsa de Hombro de 40x25x20cm - Maleta de Cabina Segundo Equipaje para Vuelos en Ryanair  Marino ](https://www.amazon.es/dp/B07K2ZZZ6R/?tag=tolees-21) con 44.63 de descuento por 7.17 EUR (original: 12.95 EUR) en el siguiente enlace!
 
-[![Cabin Max Rio Stowaway – Bolsa de Hombro](https://m.media-amazon.com/images/I/41-SzyY9tbL._SL200_.jpg)](https://www.amazon.es/dp/B07K2ZZZ6R/?tag=tolees-21)
+[![Cabin Max Rio Stowaway – Bolsa de Hombro](https://m.media-amazon.com/images/I/41-SzyY9tbL._SL400_.jpg)](https://www.amazon.es/dp/B07K2ZZZ6R/?tag=tolees-21)
 
 ℹ️:
 

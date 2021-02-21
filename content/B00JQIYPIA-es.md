@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 28.29 % en ENERGETICS Pesas Mancuernas Neopreno  Un'
 date: 2020-05-29 07:04:56
-image: 'https://m.media-amazon.com/images/I/31g+Xve3I0L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31g+Xve3I0L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.9'
 
 Tienes [ENERGETICS Pesas Mancuernas Neopreno  Unisex  Hantel Neopren  Rojo  Talla única](https://www.amazon.es/dp/B00JQIYPIA/?tag=tolees-21) con un 28.29 % de descuento con precio de oferta de 10.9 EUR (original: 15.2 EUR) en el siguiente enlace!
 
-[![ENERGETICS Pesas Mancuernas Neopreno  Un](https://m.media-amazon.com/images/I/31g+Xve3I0L._SL200_.jpg)](https://www.amazon.es/dp/B00JQIYPIA/?tag=tolees-21)
+[![ENERGETICS Pesas Mancuernas Neopreno  Un](https://m.media-amazon.com/images/I/31g+Xve3I0L._SL400_.jpg)](https://www.amazon.es/dp/B00JQIYPIA/?tag=tolees-21)
 
 ℹ️:
 

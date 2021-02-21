@@ -2,7 +2,7 @@
 layout: post
 title: 'Adidas Vl Court 2.0 K  Zapatillas de dep al 45.01 % de descuento'
 date: 2020-02-12 19:43:44
-image: 'https://m.media-amazon.com/images/I/51Gy8nAFCgL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Gy8nAFCgL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '25.955'
 
 Ahora mismo tienes [Adidas Vl Court 2.0 K  Zapatillas de deporte Unisex niños  Rosa  Rosa 000   38 EU](https://www.amazon.es/dp/B077LMC7FH/?tag=tolees-21) a 21.97 EUR (original: 39.95 EUR) (45.01 %  de descuento) en el siguiente enlace!
 
-[![Adidas Vl Court 2.0 K  Zapatillas de dep](https://m.media-amazon.com/images/I/51Gy8nAFCgL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B077LMC7FH/?tag=tolees-21)
+[![Adidas Vl Court 2.0 K  Zapatillas de dep](https://m.media-amazon.com/images/I/51Gy8nAFCgL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B077LMC7FH/?tag=tolees-21)
 
 🔎:
 

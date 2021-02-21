@@ -2,7 +2,7 @@
 layout: post
 title: 'Kelme - Zapatillas Triton al 30.00 % de descuento'
 date: 2020-04-08 15:59:43
-image: 'https://m.media-amazon.com/images/I/21eYxXRWiHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21eYxXRWiHL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '41.93'
 
 Ahora mismo tienes [Kelme - Zapatillas Triton](https://www.amazon.es/dp/B07C5D3FM7/?tag=tolees-21) a 41.93 EUR (original: 59.9 EUR) (30.00 %  de descuento) en el siguiente enlace!
 
-[![Kelme - Zapatillas Triton](https://m.media-amazon.com/images/I/21eYxXRWiHL._SL200_.jpg)](https://www.amazon.es/dp/B07C5D3FM7/?tag=tolees-21)
+[![Kelme - Zapatillas Triton](https://m.media-amazon.com/images/I/21eYxXRWiHL._SL400_.jpg)](https://www.amazon.es/dp/B07C5D3FM7/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Helly Hansen Traverse Beanie Gorro Sombr al 41.65 % de descuento'
 date: 2020-01-14 17:05:03
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51wETgRVl1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51wETgRVl1L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.88'
 
 Ahora mismo tienes [Helly Hansen Traverse Beanie Gorro Sombrero de Invierno  Unisex Adulto  Electric Blue  One Size](https://www.amazon.es/dp/B07LBNXRV2/?tag=tolees-21) a 14.88 EUR (original: 25.5 EUR) (41.65 %  de descuento) en el siguiente enlace!
 
-[![Helly Hansen Traverse Beanie Gorro Sombr](https://images-eu.ssl-images-amazon.com/images/I/51wETgRVl1L._SL200_.jpg)](https://www.amazon.es/dp/B07LBNXRV2/?tag=tolees-21)
+[![Helly Hansen Traverse Beanie Gorro Sombr](https://images-eu.ssl-images-amazon.com/images/I/51wETgRVl1L._SL400_.jpg)](https://www.amazon.es/dp/B07LBNXRV2/?tag=tolees-21)
 
 🔎:
 

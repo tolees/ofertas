@@ -2,7 +2,7 @@
 layout: post
 title: 'Pantene Pro-V Champú Anti-Caspa para Tod con un 50.00 % de descuento'
 date: 2020-04-25 09:27:41
-image: 'https://m.media-amazon.com/images/I/41pw094zJQL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41pw094zJQL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.16'
 
 En este momento está [Pantene Pro-V Champú Anti-Caspa para Todo Tipo de Cabellos - 270 ml](https://www.amazon.es/dp/B01K7SF8OW/?tag=tolees-21) a 1.16 EUR (original: 2.32 EUR) (50.00 %  de descuento) en el siguiente enlace!
 
-[![Pantene Pro-V Champú Anti-Caspa para Tod](https://m.media-amazon.com/images/I/41pw094zJQL._SL200_.jpg)](https://www.amazon.es/dp/B01K7SF8OW/?tag=tolees-21)
+[![Pantene Pro-V Champú Anti-Caspa para Tod](https://m.media-amazon.com/images/I/41pw094zJQL._SL400_.jpg)](https://www.amazon.es/dp/B01K7SF8OW/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas Grand Court I  Zapatillas de Esta al 29.92 % de rebaja'
 date: 2020-09-26 01:20:41
-image: 'https://m.media-amazon.com/images/I/31DzCcaoDJL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31DzCcaoDJL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.99'
 
 Tienes [adidas Grand Court I  Zapatillas de Estar por casa para Bebés  Blanco  Ftwbla/Negbás/Ftwbla 000   26 EU](https://www.amazon.es/dp/B07QD9XZFP/?tag=tolees-21) con precio final de  20.99 EUR (original: 29.95 EUR) (29.92 %  de rebaja) aqui!
 
-[![adidas Grand Court I  Zapatillas de Esta](https://m.media-amazon.com/images/I/31DzCcaoDJL._SL200_.jpg)](https://www.amazon.es/dp/B07QD9XZFP/?tag=tolees-21)
+[![adidas Grand Court I  Zapatillas de Esta](https://m.media-amazon.com/images/I/31DzCcaoDJL._SL400_.jpg)](https://www.amazon.es/dp/B07QD9XZFP/?tag=tolees-21)
 
 🔎:
 

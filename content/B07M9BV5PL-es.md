@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 50.73 % en Saucony Ride ISO 2  Zapatillas de Runnin'
 date: 2020-05-08 08:42:59
-image: 'https://m.media-amazon.com/images/I/41zLPunMS2L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41zLPunMS2L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '67.69999999999999'
 
 Tienes [Saucony Ride ISO 2  Zapatillas de Running para Hombre  Verde  Verde 37   42.5 EU](https://www.amazon.es/dp/B07M9BV5PL/?tag=tolees-21) con un 50.73 % de descuento con precio de oferta de 68.95 EUR (original: 139.95 EUR) en el siguiente enlace!
 
-[![Saucony Ride ISO 2  Zapatillas de Runnin](https://m.media-amazon.com/images/I/41zLPunMS2L._SL200_.jpg)](https://www.amazon.es/dp/B07M9BV5PL/?tag=tolees-21)
+[![Saucony Ride ISO 2  Zapatillas de Runnin](https://m.media-amazon.com/images/I/41zLPunMS2L._SL400_.jpg)](https://www.amazon.es/dp/B07M9BV5PL/?tag=tolees-21)
 
 ℹ️:
 

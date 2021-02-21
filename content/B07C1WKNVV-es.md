@@ -2,7 +2,7 @@
 layout: post
 title: 'JACK & JONES Jjipaul Jjflake AKM 542 Noo al 36.01 % de descuento'
 date: 2020-02-16 08:17:36
-image: 'https://m.media-amazon.com/images/I/31qY4RYc9WL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31qY4RYc9WL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '31.99'
 
 Está [JACK & JONES Jjipaul Jjflake AKM 542 Noos Pantalones  Negro  Black Black   W30/L32  Talla del Fabricante: 30  para Hombre](https://www.amazon.es/dp/B07C1WKNVV/?tag=tolees-21) con 36.01 de descuento por 31.99 EUR (original: 49.99 EUR) en el siguiente enlace!
 
-[![JACK & JONES Jjipaul Jjflake AKM 542 Noo](https://m.media-amazon.com/images/I/31qY4RYc9WL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07C1WKNVV/?tag=tolees-21)
+[![JACK & JONES Jjipaul Jjflake AKM 542 Noo](https://m.media-amazon.com/images/I/31qY4RYc9WL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07C1WKNVV/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Emporio Armani Smartwatch ART3030 al 29.73 % de descuento'
 date: 2020-04-08 22:24:06
-image: 'https://m.media-amazon.com/images/I/41yD6b7LZiL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41yD6b7LZiL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '231.2'
 
 Está [Emporio Armani Smartwatch ART3030](https://www.amazon.es/dp/B07FFLD441/?tag=tolees-21) con 29.73 de descuento por 231.2 EUR (original: 329.0 EUR) en el siguiente enlace!
 
-[![Emporio Armani Smartwatch ART3030](https://m.media-amazon.com/images/I/41yD6b7LZiL._SL200_.jpg)](https://www.amazon.es/dp/B07FFLD441/?tag=tolees-21)
+[![Emporio Armani Smartwatch ART3030](https://m.media-amazon.com/images/I/41yD6b7LZiL._SL400_.jpg)](https://www.amazon.es/dp/B07FFLD441/?tag=tolees-21)
 
 ℹ️:
 

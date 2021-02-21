@@ -2,7 +2,7 @@
 layout: post
 title: 'Philips Lighting 915002790302 - Aplique  al 37.05 % de descuento'
 date: 2020-07-12 12:21:00
-image: 'https://m.media-amazon.com/images/I/41++5DA+mgL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41++5DA+mgL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.729999999999999'
 
 Ahora mismo tienes [Philips Lighting 915002790302 - Aplique de exterior  empotrado  casquillo gordo E27  bombilla no incluida  resistente a la intemperie  IP44  negro  19.5 cm](https://www.amazon.es/dp/B00B45MGU2/?tag=tolees-21) a 13.85 EUR (original: 22.0 EUR) (37.05 %  de descuento) en el siguiente enlace!
 
-[![Philips Lighting 915002790302 - Aplique ](https://m.media-amazon.com/images/I/41++5DA+mgL._SL200_.jpg)](https://www.amazon.es/dp/B00B45MGU2/?tag=tolees-21)
+[![Philips Lighting 915002790302 - Aplique ](https://m.media-amazon.com/images/I/41++5DA+mgL._SL400_.jpg)](https://www.amazon.es/dp/B00B45MGU2/?tag=tolees-21)
 
 🔎:
 

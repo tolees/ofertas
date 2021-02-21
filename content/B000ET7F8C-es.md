@@ -2,7 +2,7 @@
 layout: post
 title: 'Crayola - 24 Crayolas variedad de colore con un 41.05 % de descuento'
 date: 2020-05-22 04:44:25
-image: 'https://m.media-amazon.com/images/I/51LXR+QoSEL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51LXR+QoSEL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.71'
 
 En este momento está [Crayola - 24 Crayolas variedad de colores](https://www.amazon.es/dp/B000ET7F8C/?tag=tolees-21) a 4.71 EUR (original: 7.99 EUR) (41.05 %  de descuento) en el siguiente enlace!
 
-[![Crayola - 24 Crayolas variedad de colore](https://m.media-amazon.com/images/I/51LXR+QoSEL._SL200_.jpg)](https://www.amazon.es/dp/B000ET7F8C/?tag=tolees-21)
+[![Crayola - 24 Crayolas variedad de colore](https://m.media-amazon.com/images/I/51LXR+QoSEL._SL400_.jpg)](https://www.amazon.es/dp/B000ET7F8C/?tag=tolees-21)
 
 🔎:
 

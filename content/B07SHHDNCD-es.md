@@ -2,7 +2,7 @@
 layout: post
 title: 'Baldur s Gate: Enhanced Edition Pack al 37.01 % de descuento'
 date: 2020-08-27 14:02:39
-image: 'https://m.media-amazon.com/images/I/51H4onXteqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51H4onXteqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '36.150000000000006'
 
 Ahora mismo tienes [Baldur s Gate: Enhanced Edition Pack](https://www.amazon.es/dp/B07SHHDNCD/?tag=tolees-21) a 31.49 EUR (original: 49.99 EUR) (37.01 %  de descuento) en el siguiente enlace!
 
-[![Baldur s Gate: Enhanced Edition Pack](https://m.media-amazon.com/images/I/51H4onXteqL._SL200_.jpg)](https://www.amazon.es/dp/B07SHHDNCD/?tag=tolees-21)
+[![Baldur s Gate: Enhanced Edition Pack](https://m.media-amazon.com/images/I/51H4onXteqL._SL400_.jpg)](https://www.amazon.es/dp/B07SHHDNCD/?tag=tolees-21)
 
 🔎:
 

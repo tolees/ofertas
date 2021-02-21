@@ -2,7 +2,7 @@
 layout: post
 title: 'Manija de Maleta Reemplazo Perfecto para al 44.43 % de rebaja'
 date: 2020-08-12 11:00:46
-image: 'https://m.media-amazon.com/images/I/3163z9fN8SL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/3163z9fN8SL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.99'
 
 Tienes [Manija de Maleta Reemplazo Perfecto para Viejos Rotos Fácil de Instalar Accesorios SB-218](https://www.amazon.es/dp/B07DWJ9NLJ/?tag=tolees-21) con precio final de  3.99 EUR (original: 7.18 EUR) (44.43 %  de rebaja) aqui!
 
-[![Manija de Maleta Reemplazo Perfecto para](https://m.media-amazon.com/images/I/3163z9fN8SL._SL200_.jpg)](https://www.amazon.es/dp/B07DWJ9NLJ/?tag=tolees-21)
+[![Manija de Maleta Reemplazo Perfecto para](https://m.media-amazon.com/images/I/3163z9fN8SL._SL400_.jpg)](https://www.amazon.es/dp/B07DWJ9NLJ/?tag=tolees-21)
 
 🔎:
 

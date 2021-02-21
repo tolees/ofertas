@@ -2,7 +2,7 @@
 layout: post
 title: 'Fisen ColorPower Pro - Batería portátil  al 25.00 % de rebaja'
 date: 2020-10-09 08:00:28
-image: 'https://m.media-amazon.com/images/I/311V4Ov7RqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/311V4Ov7RqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.25'
 
 Tienes [Fisen ColorPower Pro - Batería portátil  10000 mAh ](https://www.amazon.es/dp/B083G3LW9R/?tag=tolees-21) con precio final de  17.25 EUR (original: 23.0 EUR) (25.00 %  de rebaja) aqui!
 
-[![Fisen ColorPower Pro - Batería portátil ](https://m.media-amazon.com/images/I/311V4Ov7RqL._SL200_.jpg)](https://www.amazon.es/dp/B083G3LW9R/?tag=tolees-21)
+[![Fisen ColorPower Pro - Batería portátil ](https://m.media-amazon.com/images/I/311V4Ov7RqL._SL400_.jpg)](https://www.amazon.es/dp/B083G3LW9R/?tag=tolees-21)
 
 🔎:
 

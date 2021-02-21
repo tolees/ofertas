@@ -2,7 +2,7 @@
 layout: post
 title: 'Urban Classics Canvas Belt Cinturón  Cha con un 31.82 % de descuento'
 date: 2020-09-14 14:16:19
-image: 'https://m.media-amazon.com/images/I/51ibaX4bTHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51ibaX4bTHL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.826666666666668'
 
 En este momento está [Urban Classics Canvas Belt Cinturón  Charcoal  Talla Única Unisexo](https://www.amazon.es/dp/B01CCZ8PVG/?tag=tolees-21) a 11.38 EUR (original: 16.69 EUR) (31.82 %  de descuento) en el siguiente enlace!
 
-[![Urban Classics Canvas Belt Cinturón  Cha](https://m.media-amazon.com/images/I/51ibaX4bTHL._SL200_.jpg)](https://www.amazon.es/dp/B01CCZ8PVG/?tag=tolees-21)
+[![Urban Classics Canvas Belt Cinturón  Cha](https://m.media-amazon.com/images/I/51ibaX4bTHL._SL400_.jpg)](https://www.amazon.es/dp/B01CCZ8PVG/?tag=tolees-21)
 
 🔎:
 

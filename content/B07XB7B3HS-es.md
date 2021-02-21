@@ -2,7 +2,7 @@
 layout: post
 title: 'ERIK - Calendario de pared 2020 La Casa  con un 49.95 % de descuento'
 date: 2020-06-06 15:24:20
-image: 'https://m.media-amazon.com/images/I/51E+jFbT3dL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51E+jFbT3dL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.0'
 
 En este momento está [ERIK - Calendario de pared 2020 La Casa de Papel  30 x 30 cm](https://www.amazon.es/dp/B07XB7B3HS/?tag=tolees-21) a 5.0 EUR (original: 9.99 EUR) (49.95 %  de descuento) en el siguiente enlace!
 
-[![ERIK - Calendario de pared 2020 La Casa ](https://m.media-amazon.com/images/I/51E+jFbT3dL._SL200_.jpg)](https://www.amazon.es/dp/B07XB7B3HS/?tag=tolees-21)
+[![ERIK - Calendario de pared 2020 La Casa ](https://m.media-amazon.com/images/I/51E+jFbT3dL._SL400_.jpg)](https://www.amazon.es/dp/B07XB7B3HS/?tag=tolees-21)
 
 🔎:
 

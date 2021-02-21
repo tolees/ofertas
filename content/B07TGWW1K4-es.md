@@ -2,7 +2,7 @@
 layout: post
 title: 'Finocam 623531020  Agenda  Tamaño Único  al 30.00 % de rebaja'
 date: 2020-01-11 23:48:20
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41bVyLb1yiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41bVyLb1yiL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.3'
 
 Tienes [Finocam 623531020  Agenda  Tamaño Único  Multicolor](https://www.amazon.es/dp/B07TGWW1K4/?tag=tolees-21) con precio final de  6.3 EUR (original: 9 EUR) (30.00 %  de rebaja) aqui!
 
-[![Finocam 623531020  Agenda  Tamaño Único ](https://images-eu.ssl-images-amazon.com/images/I/41bVyLb1yiL._SL200_.jpg)](https://www.amazon.es/dp/B07TGWW1K4/?tag=tolees-21)
+[![Finocam 623531020  Agenda  Tamaño Único ](https://images-eu.ssl-images-amazon.com/images/I/41bVyLb1yiL._SL400_.jpg)](https://www.amazon.es/dp/B07TGWW1K4/?tag=tolees-21)
 
 🔎:
 

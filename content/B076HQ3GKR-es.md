@@ -2,7 +2,7 @@
 layout: post
 title: 'Vogel s WALL 3345 Blanco  Soporte de par con un 42.50 % de descuento'
 date: 2020-03-24 13:54:24
-image: 'https://m.media-amazon.com/images/I/318idnfaBoL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/318idnfaBoL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '115.0'
 
 En este momento está [Vogel s WALL 3345 Blanco  Soporte de pared para TV 40 - 65 Pulgadas  Inclinable y Giratorio 180º  Máx 30 kg y con sistema VESA máx. 600x400](https://www.amazon.es/dp/B076HQ3GKR/?tag=tolees-21) a 115.0 EUR (original: 199.99 EUR) (42.50 %  de descuento) en el siguiente enlace!
 
-[![Vogel s WALL 3345 Blanco  Soporte de par](https://m.media-amazon.com/images/I/318idnfaBoL._SL200_.jpg)](https://www.amazon.es/dp/B076HQ3GKR/?tag=tolees-21)
+[![Vogel s WALL 3345 Blanco  Soporte de par](https://m.media-amazon.com/images/I/318idnfaBoL._SL400_.jpg)](https://www.amazon.es/dp/B076HQ3GKR/?tag=tolees-21)
 
 🔎:
 

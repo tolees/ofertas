@@ -2,7 +2,7 @@
 layout: post
 title: 'SELECT Mundo – Balón de Balonmano  Color con un 40.80 % de descuento'
 date: 2020-09-04 14:30:44
-image: 'https://m.media-amazon.com/images/I/51NeTR82h4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51NeTR82h4L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.366666666666665'
 
 En este momento está [SELECT Mundo – Balón de Balonmano  Color Purple/Orange  tamaño 1](https://www.amazon.es/dp/B072MB8MZQ/?tag=tolees-21) a 15.09 EUR (original: 25.49 EUR) (40.80 %  de descuento) en el siguiente enlace!
 
-[![SELECT Mundo – Balón de Balonmano  Color](https://m.media-amazon.com/images/I/51NeTR82h4L._SL200_.jpg)](https://www.amazon.es/dp/B072MB8MZQ/?tag=tolees-21)
+[![SELECT Mundo – Balón de Balonmano  Color](https://m.media-amazon.com/images/I/51NeTR82h4L._SL400_.jpg)](https://www.amazon.es/dp/B072MB8MZQ/?tag=tolees-21)
 
 🔎:
 

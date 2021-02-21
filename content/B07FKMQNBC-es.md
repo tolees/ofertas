@@ -2,7 +2,7 @@
 layout: post
 title: 'Clarks Sharon Dolly Mocasines Mujer  Neg al 72.12 % de descuento'
 date: 2020-08-08 20:18:22
-image: 'https://m.media-amazon.com/images/I/31w5ryUr+fL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31w5ryUr+fL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '25.08'
 
 Ahora mismo tienes [Clarks Sharon Dolly Mocasines Mujer  Negro  Black Sde Black Sde   38 EU](https://www.amazon.es/dp/B07FKMQNBC/?tag=tolees-21) a 25.08 EUR (original: 89.95 EUR) (72.12 %  de descuento) en el siguiente enlace!
 
-[![Clarks Sharon Dolly Mocasines Mujer  Neg](https://m.media-amazon.com/images/I/31w5ryUr+fL._SL200_.jpg)](https://www.amazon.es/dp/B07FKMQNBC/?tag=tolees-21)
+[![Clarks Sharon Dolly Mocasines Mujer  Neg](https://m.media-amazon.com/images/I/31w5ryUr+fL._SL400_.jpg)](https://www.amazon.es/dp/B07FKMQNBC/?tag=tolees-21)
 
 🔎:
 

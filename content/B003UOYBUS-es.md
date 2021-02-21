@@ -2,7 +2,7 @@
 layout: post
 title: 'Mini Ventilador de Escritorio USB con un 25.12 % de descuento'
 date: 2020-02-13 15:12:44
-image: 'https://m.media-amazon.com/images/I/41XILfq5xKL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41XILfq5xKL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.779999999999999'
 
 En este momento está [Mini Ventilador de Escritorio USB](https://www.amazon.es/dp/B003UOYBUS/?tag=tolees-21) a 10.7 EUR (original: 14.29 EUR) (25.12 %  de descuento) en el siguiente enlace!
 
-[![Mini Ventilador de Escritorio USB](https://m.media-amazon.com/images/I/41XILfq5xKL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B003UOYBUS/?tag=tolees-21)
+[![Mini Ventilador de Escritorio USB](https://m.media-amazon.com/images/I/41XILfq5xKL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B003UOYBUS/?tag=tolees-21)
 
 🔎:
 

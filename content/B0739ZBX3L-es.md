@@ -2,7 +2,7 @@
 layout: post
 title: 'CampTeck U6576 3m Cuerda Saltar de Veloc con un 28.83 % de descuento'
 date: 2020-07-30 10:23:32
-image: 'https://m.media-amazon.com/images/I/513qtLTEo+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/513qtLTEo+L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.8100000000000005'
 
 En este momento está [CampTeck U6576 3m Cuerda Saltar de Velocidad Ajustable Acero Cable Jumping Rope con Rodamiento de Bolas para Fitness Ejercicio  Entrenamiento](https://www.amazon.es/dp/B0739ZBX3L/?tag=tolees-21) a 4.69 EUR (original: 6.59 EUR) (28.83 %  de descuento) en el siguiente enlace!
 
-[![CampTeck U6576 3m Cuerda Saltar de Veloc](https://m.media-amazon.com/images/I/513qtLTEo+L._SL200_.jpg)](https://www.amazon.es/dp/B0739ZBX3L/?tag=tolees-21)
+[![CampTeck U6576 3m Cuerda Saltar de Veloc](https://m.media-amazon.com/images/I/513qtLTEo+L._SL400_.jpg)](https://www.amazon.es/dp/B0739ZBX3L/?tag=tolees-21)
 
 🔎:
 

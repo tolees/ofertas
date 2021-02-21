@@ -2,7 +2,7 @@
 layout: post
 title: 'Victoria Basket Lona Plataforma Autoclav al 38.16 % de descuento'
 date: 2020-09-23 19:10:31
-image: 'https://m.media-amazon.com/images/I/318yCPXYpbL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/318yCPXYpbL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '30.3'
 
 Está [Victoria Basket Lona Plataforma Autoclave  Zapatillas para Mujer  Blanco  Blanco 20   36 EU](https://www.amazon.es/dp/B07CBPKW6S/?tag=tolees-21) con 38.16 de descuento por 30.3 EUR (original: 49.0 EUR) en el siguiente enlace!
 
-[![Victoria Basket Lona Plataforma Autoclav](https://m.media-amazon.com/images/I/318yCPXYpbL._SL200_.jpg)](https://www.amazon.es/dp/B07CBPKW6S/?tag=tolees-21)
+[![Victoria Basket Lona Plataforma Autoclav](https://m.media-amazon.com/images/I/318yCPXYpbL._SL400_.jpg)](https://www.amazon.es/dp/B07CBPKW6S/?tag=tolees-21)
 
 ℹ️:
 

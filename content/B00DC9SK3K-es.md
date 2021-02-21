@@ -2,7 +2,7 @@
 layout: post
 title: 'Metal Gear Solid V : The Phantom Pain con un 47.81 % de descuento'
 date: 2020-03-30 10:35:38
-image: 'https://m.media-amazon.com/images/I/51BTQE3qDZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51BTQE3qDZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.99'
 
 En este momento está [Metal Gear Solid V : The Phantom Pain](https://www.amazon.es/dp/B00DC9SK3K/?tag=tolees-21) a 12.99 EUR (original: 24.89 EUR) (47.81 %  de descuento) en el siguiente enlace!
 
-[![Metal Gear Solid V : The Phantom Pain](https://m.media-amazon.com/images/I/51BTQE3qDZL._SL200_.jpg)](https://www.amazon.es/dp/B00DC9SK3K/?tag=tolees-21)
+[![Metal Gear Solid V : The Phantom Pain](https://m.media-amazon.com/images/I/51BTQE3qDZL._SL400_.jpg)](https://www.amazon.es/dp/B00DC9SK3K/?tag=tolees-21)
 
 🔎:
 

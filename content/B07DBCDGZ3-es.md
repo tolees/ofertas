@@ -2,7 +2,7 @@
 layout: post
 title: 'TELLW Verano Hombre Dama casa par Interi con un 47.44 % de descuento'
 date: 2020-05-28 08:04:09
-image: 'https://m.media-amazon.com/images/I/51U9Lt74JtL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51U9Lt74JtL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.97'
 
 En este momento está [TELLW Verano Hombre Dama casa par Interior Lino Zapatillas de Cuero Suelo de Madera Casual Zapatillas](https://www.amazon.es/dp/B07DBCDGZ3/?tag=tolees-21) a 10.97 EUR (original: 20.87 EUR) (47.44 %  de descuento) en el siguiente enlace!
 
-[![TELLW Verano Hombre Dama casa par Interi](https://m.media-amazon.com/images/I/51U9Lt74JtL._SL200_.jpg)](https://www.amazon.es/dp/B07DBCDGZ3/?tag=tolees-21)
+[![TELLW Verano Hombre Dama casa par Interi](https://m.media-amazon.com/images/I/51U9Lt74JtL._SL400_.jpg)](https://www.amazon.es/dp/B07DBCDGZ3/?tag=tolees-21)
 
 🔎:
 

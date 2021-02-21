@@ -2,7 +2,7 @@
 layout: post
 title: 'Clarins - Crema Alta Exigencia día SPF20 al 36.15 % de descuento'
 date: 2020-05-14 11:07:51
-image: 'https://m.media-amazon.com/images/I/41T82aOEyiL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41T82aOEyiL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '54.25'
 
 Está [Clarins - Crema Alta Exigencia día SPF20 - Todas pieles - 50 ml](https://www.amazon.es/dp/B00IT12EP6/?tag=tolees-21) con 36.15 de descuento por 54.25 EUR (original: 84.96 EUR) en el siguiente enlace!
 
-[![Clarins - Crema Alta Exigencia día SPF20](https://m.media-amazon.com/images/I/41T82aOEyiL._SL200_.jpg)](https://www.amazon.es/dp/B00IT12EP6/?tag=tolees-21)
+[![Clarins - Crema Alta Exigencia día SPF20](https://m.media-amazon.com/images/I/41T82aOEyiL._SL400_.jpg)](https://www.amazon.es/dp/B00IT12EP6/?tag=tolees-21)
 
 ℹ️:
 

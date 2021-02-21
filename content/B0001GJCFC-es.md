@@ -2,7 +2,7 @@
 layout: post
 title: 'B+W Clear Haze SC 010 - Filtro UV de 95  al 60.46 % de descuento'
 date: 2020-08-17 00:19:05
-image: 'https://m.media-amazon.com/images/I/41GN-lUyj3L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41GN-lUyj3L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '52.449999999999996'
 
 Está [B+W Clear Haze SC 010 - Filtro UV de 95 mm](https://www.amazon.es/dp/B0001GJCFC/?tag=tolees-21) con 60.46 de descuento por 34.74 EUR (original: 87.87 EUR) en el siguiente enlace!
 
-[![B+W Clear Haze SC 010 - Filtro UV de 95 ](https://m.media-amazon.com/images/I/41GN-lUyj3L._SL200_.jpg)](https://www.amazon.es/dp/B0001GJCFC/?tag=tolees-21)
+[![B+W Clear Haze SC 010 - Filtro UV de 95 ](https://m.media-amazon.com/images/I/41GN-lUyj3L._SL400_.jpg)](https://www.amazon.es/dp/B0001GJCFC/?tag=tolees-21)
 
 ℹ️:
 

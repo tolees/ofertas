@@ -2,7 +2,7 @@
 layout: post
 title: 'Pasito a Pasito Canastilla Acolchada Ine al 37.55 % de rebaja'
 date: 2020-03-01 22:03:40
-image: 'https://m.media-amazon.com/images/I/31VS2fn7HwL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31VS2fn7HwL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '48.325'
 
 Tienes [Pasito a Pasito Canastilla Acolchada Ines - Bolsa  unisex  color gris](https://www.amazon.es/dp/B075DC3LR4/?tag=tolees-21) con precio final de  49.9 EUR (original: 79.9 EUR) (37.55 %  de rebaja) aqui!
 
-[![Pasito a Pasito Canastilla Acolchada Ine](https://m.media-amazon.com/images/I/31VS2fn7HwL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B075DC3LR4/?tag=tolees-21)
+[![Pasito a Pasito Canastilla Acolchada Ine](https://m.media-amazon.com/images/I/31VS2fn7HwL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B075DC3LR4/?tag=tolees-21)
 
 🔎:
 

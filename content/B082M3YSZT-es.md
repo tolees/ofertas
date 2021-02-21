@@ -2,7 +2,7 @@
 layout: post
 title: 'NWOUIIAY Cargador de coche de carga 6 A/ con un 54.64 % de descuento'
 date: 2020-06-05 05:55:58
-image: 'https://m.media-amazon.com/images/I/519XYMskeqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/519XYMskeqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.8'
 
 En este momento está [NWOUIIAY Cargador de coche de carga 6 A/12 V Multi protecciones de carga automática cargador inteligente cargador de coche con pantalla LCD para coche moto](https://www.amazon.es/dp/B082M3YSZT/?tag=tolees-21) a 23.8 EUR (original: 52.47 EUR) (54.64 %  de descuento) en el siguiente enlace!
 
-[![NWOUIIAY Cargador de coche de carga 6 A/](https://m.media-amazon.com/images/I/519XYMskeqL._SL200_.jpg)](https://www.amazon.es/dp/B082M3YSZT/?tag=tolees-21)
+[![NWOUIIAY Cargador de coche de carga 6 A/](https://m.media-amazon.com/images/I/519XYMskeqL._SL400_.jpg)](https://www.amazon.es/dp/B082M3YSZT/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas Stan Smith  Zapatillas Unisex beb al 77.96 % de rebaja'
 date: 2020-05-29 14:11:26
-image: 'https://m.media-amazon.com/images/I/417ZWIMyvuL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/417ZWIMyvuL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.01'
 
 Tienes [adidas Stan Smith  Zapatillas Unisex bebé  Blanco  Footwear White/Footwear White/Green 0   23 EU](https://www.amazon.es/dp/B01MT9W4K4/?tag=tolees-21) con precio final de  11.01 EUR (original: 49.95 EUR) (77.96 %  de rebaja) aqui!
 
-[![adidas Stan Smith  Zapatillas Unisex beb](https://m.media-amazon.com/images/I/417ZWIMyvuL._SL200_.jpg)](https://www.amazon.es/dp/B01MT9W4K4/?tag=tolees-21)
+[![adidas Stan Smith  Zapatillas Unisex beb](https://m.media-amazon.com/images/I/417ZWIMyvuL._SL400_.jpg)](https://www.amazon.es/dp/B01MT9W4K4/?tag=tolees-21)
 
 🔎:
 

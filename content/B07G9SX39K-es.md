@@ -2,7 +2,7 @@
 layout: post
 title: 'Joy Toy 62124 Mickey Mouse 3d taza de ce al 45.00 % de rebaja'
 date: 2020-01-19 12:25:36
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31lVWkyGRwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31lVWkyGRwL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.5'
 
 Tienes [Joy Toy 62124 Mickey Mouse 3d taza de cerámica  13 5 x 12 x 8 5 cm   color blanco](https://www.amazon.es/dp/B07G9SX39K/?tag=tolees-21) con precio final de  5.5 EUR (original: 10 EUR) (45.00 %  de rebaja) aqui!
 
-[![Joy Toy 62124 Mickey Mouse 3d taza de ce](https://images-eu.ssl-images-amazon.com/images/I/31lVWkyGRwL._SL200_.jpg)](https://www.amazon.es/dp/B07G9SX39K/?tag=tolees-21)
+[![Joy Toy 62124 Mickey Mouse 3d taza de ce](https://images-eu.ssl-images-amazon.com/images/I/31lVWkyGRwL._SL400_.jpg)](https://www.amazon.es/dp/B07G9SX39K/?tag=tolees-21)
 
 🔎:
 

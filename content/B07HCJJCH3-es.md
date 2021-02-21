@@ -2,7 +2,7 @@
 layout: post
 title: 'P Prettyia 1 Par Cuernos Tornillos de Fi con un 44.44 % de descuento'
 date: 2020-03-14 16:01:12
-image: 'https://m.media-amazon.com/images/I/31XsHVuCrlL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31XsHVuCrlL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.695'
 
 En este momento está [P Prettyia 1 Par Cuernos Tornillos de Fijación Sonido para Vehículos Accesorio de Alimentación](https://www.amazon.es/dp/B07HCJJCH3/?tag=tolees-21) a 11.04 EUR (original: 19.87 EUR) (44.44 %  de descuento) en el siguiente enlace!
 
-[![P Prettyia 1 Par Cuernos Tornillos de Fi](https://m.media-amazon.com/images/I/31XsHVuCrlL._SL200_.jpg)](https://www.amazon.es/dp/B07HCJJCH3/?tag=tolees-21)
+[![P Prettyia 1 Par Cuernos Tornillos de Fi](https://m.media-amazon.com/images/I/31XsHVuCrlL._SL400_.jpg)](https://www.amazon.es/dp/B07HCJJCH3/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Lacoste 739CMA00111B4  Zapatillas para H al 40.41 % de descuento'
 date: 2020-07-04 20:30:23
-image: 'https://m.media-amazon.com/images/I/31P64QZ-4jL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31P64QZ-4jL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '64.95'
 
 Está [Lacoste 739CMA00111B4  Zapatillas para Hombre  Negro  43 EU](https://www.amazon.es/dp/B07SPXNGV6/?tag=tolees-21) con 40.41 de descuento por 64.95 EUR (original: 109.0 EUR) en el siguiente enlace!
 
-[![Lacoste 739CMA00111B4  Zapatillas para H](https://m.media-amazon.com/images/I/31P64QZ-4jL._SL200_.jpg)](https://www.amazon.es/dp/B07SPXNGV6/?tag=tolees-21)
+[![Lacoste 739CMA00111B4  Zapatillas para H](https://m.media-amazon.com/images/I/31P64QZ-4jL._SL400_.jpg)](https://www.amazon.es/dp/B07SPXNGV6/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Nirvel Nutre Color Violeta 200ml con un 48.08 % de descuento'
 date: 2020-05-30 04:57:56
-image: 'https://m.media-amazon.com/images/I/31WmgfVJ6CL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31WmgfVJ6CL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.0'
 
 En este momento está [Nirvel Nutre Color Violeta 200ml](https://www.amazon.es/dp/B06XCKVX8K/?tag=tolees-21) a 5.0 EUR (original: 9.63 EUR) (48.08 %  de descuento) en el siguiente enlace!
 
-[![Nirvel Nutre Color Violeta 200ml](https://m.media-amazon.com/images/I/31WmgfVJ6CL._SL200_.jpg)](https://www.amazon.es/dp/B06XCKVX8K/?tag=tolees-21)
+[![Nirvel Nutre Color Violeta 200ml](https://m.media-amazon.com/images/I/31WmgfVJ6CL._SL400_.jpg)](https://www.amazon.es/dp/B06XCKVX8K/?tag=tolees-21)
 
 🔎:
 

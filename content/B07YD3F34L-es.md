@@ -2,7 +2,7 @@
 layout: post
 title: 'Alfombrilla de ratón EVA con reposamuñec al 45.66 % de rebaja'
 date: 2020-07-31 15:01:46
-image: 'https://m.media-amazon.com/images/I/31OTOy+j3JL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31OTOy+j3JL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.19'
 
 Tienes [Alfombrilla de ratón EVA con reposamuñecas para computadora portátil Alfombrilla de ratón con Teclado Resto de Manos Juego de Almohadilla de ratón con Soporte para la muñeca - Azul](https://www.amazon.es/dp/B07YD3F34L/?tag=tolees-21) con precio final de  1.19 EUR (original: 2.19 EUR) (45.66 %  de rebaja) aqui!
 
-[![Alfombrilla de ratón EVA con reposamuñec](https://m.media-amazon.com/images/I/31OTOy+j3JL._SL200_.jpg)](https://www.amazon.es/dp/B07YD3F34L/?tag=tolees-21)
+[![Alfombrilla de ratón EVA con reposamuñec](https://m.media-amazon.com/images/I/31OTOy+j3JL._SL400_.jpg)](https://www.amazon.es/dp/B07YD3F34L/?tag=tolees-21)
 
 🔎:
 

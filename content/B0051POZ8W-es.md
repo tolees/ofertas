@@ -2,7 +2,7 @@
 layout: post
 title: 'Johnson s Baby Crema Protectora de Pañal con un 53.51 % de descuento'
 date: 2020-01-27 19:01:31
-image: 'https://m.media-amazon.com/images/I/313zFyo2-oL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/313zFyo2-oL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.575'
 
 En este momento está [Johnson s Baby Crema Protectora de Pañal  ideal para la piel delicada de los bebés - 1 x 100 gr](https://www.amazon.es/dp/B0051POZ8W/?tag=tolees-21) a 3.25 EUR (original: 6.99 EUR) (53.51 %  de descuento) en el siguiente enlace!
 
-[![Johnson s Baby Crema Protectora de Pañal](https://m.media-amazon.com/images/I/313zFyo2-oL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B0051POZ8W/?tag=tolees-21)
+[![Johnson s Baby Crema Protectora de Pañal](https://m.media-amazon.com/images/I/313zFyo2-oL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B0051POZ8W/?tag=tolees-21)
 
 🔎:
 

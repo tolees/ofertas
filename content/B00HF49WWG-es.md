@@ -2,7 +2,7 @@
 layout: post
 title: 'Timex Expédition Scout - Reloj análogico al 39.24 % de rebaja'
 date: 2020-06-22 11:12:54
-image: 'https://m.media-amazon.com/images/I/412rKCttOmL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/412rKCttOmL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '51.27222222222222'
 
 Tienes [Timex Expédition Scout - Reloj análogico de cuarzo con correa de nailon para hombre  Verde  Verde/Negro ](https://www.amazon.es/dp/B00HF49WWG/?tag=tolees-21) con precio final de  48.0 EUR (original: 79.0 EUR) (39.24 %  de rebaja) aqui!
 
-[![Timex Expédition Scout - Reloj análogico](https://m.media-amazon.com/images/I/412rKCttOmL._SL200_.jpg)](https://www.amazon.es/dp/B00HF49WWG/?tag=tolees-21)
+[![Timex Expédition Scout - Reloj análogico](https://m.media-amazon.com/images/I/412rKCttOmL._SL400_.jpg)](https://www.amazon.es/dp/B00HF49WWG/?tag=tolees-21)
 
 🔎:
 

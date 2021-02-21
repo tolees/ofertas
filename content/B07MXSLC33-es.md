@@ -2,7 +2,7 @@
 layout: post
 title: 'GLOBE Encore-2  Zapatillas de Skateboard con un 75.97 % de descuento'
 date: 2020-02-21 15:08:45
-image: 'https://m.media-amazon.com/images/I/41ThOA0ftnL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ThOA0ftnL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.21'
 
 En este momento está [GLOBE Encore-2  Zapatillas de Skateboard para Hombre  Marrón  Ochre Brown 17310   41 EU](https://www.amazon.es/dp/B07MXSLC33/?tag=tolees-21) a 19.21 EUR (original: 79.95 EUR) (75.97 %  de descuento) en el siguiente enlace!
 
-[![GLOBE Encore-2  Zapatillas de Skateboard](https://m.media-amazon.com/images/I/41ThOA0ftnL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07MXSLC33/?tag=tolees-21)
+[![GLOBE Encore-2  Zapatillas de Skateboard](https://m.media-amazon.com/images/I/41ThOA0ftnL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07MXSLC33/?tag=tolees-21)
 
 🔎:
 

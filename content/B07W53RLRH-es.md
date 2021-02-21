@@ -2,7 +2,7 @@
 layout: post
 title: 'SIKAI CASE - No Necesita En Movimiento S con un 47.09 % de descuento'
 date: 2020-07-19 13:01:01
-image: 'https://m.media-amazon.com/images/I/41X1OkkbBLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41X1OkkbBLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.99'
 
 En este momento está [SIKAI CASE - No Necesita En Movimiento SIKAI Protectora Caso - Clip Cargador Compatible con Amazfit Bip/Amazfit Bip Lite Smartwatch Cable de Carga USB Pinza de Accesorios Recambios Cargade Muelle](https://www.amazon.es/dp/B07W53RLRH/?tag=tolees-21) a 8.99 EUR (original: 16.99 EUR) (47.09 %  de descuento) en el siguiente enlace!
 
-[![SIKAI CASE - No Necesita En Movimiento S](https://m.media-amazon.com/images/I/41X1OkkbBLL._SL200_.jpg)](https://www.amazon.es/dp/B07W53RLRH/?tag=tolees-21)
+[![SIKAI CASE - No Necesita En Movimiento S](https://m.media-amazon.com/images/I/41X1OkkbBLL._SL400_.jpg)](https://www.amazon.es/dp/B07W53RLRH/?tag=tolees-21)
 
 🔎:
 

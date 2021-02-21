@@ -2,7 +2,7 @@
 layout: post
 title: 'Toomax 162R Baùl  Plástico  Antracita al 28.21 % de descuento'
 date: 2020-05-28 16:33:50
-image: 'https://m.media-amazon.com/images/I/41EfwSPMWmL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41EfwSPMWmL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '91.3325'
 
 Está [Toomax 162R Baùl  Plástico  Antracita](https://www.amazon.es/dp/B00C9Z7JC6/?tag=tolees-21) con 28.21 de descuento por 92.71 EUR (original: 129.14 EUR) en el siguiente enlace!
 
-[![Toomax 162R Baùl  Plástico  Antracita](https://m.media-amazon.com/images/I/41EfwSPMWmL._SL200_.jpg)](https://www.amazon.es/dp/B00C9Z7JC6/?tag=tolees-21)
+[![Toomax 162R Baùl  Plástico  Antracita](https://m.media-amazon.com/images/I/41EfwSPMWmL._SL400_.jpg)](https://www.amazon.es/dp/B00C9Z7JC6/?tag=tolees-21)
 
 ℹ️:
 

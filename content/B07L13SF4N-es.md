@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour  UNDKU Rival Parte Superior al 52.02 % de rebaja'
 date: 2020-03-29 10:54:43
-image: 'https://m.media-amazon.com/images/I/41x+jTzSr3L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41x+jTzSr3L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.99'
 
 Tienes [Under Armour  UNDKU Rival Parte Superior del Calentamiento  Mujer  Gris  SM](https://www.amazon.es/dp/B07L13SF4N/?tag=tolees-21) con precio final de  23.99 EUR (original: 50.0 EUR) (52.02 %  de rebaja) aqui!
 
-[![Under Armour  UNDKU Rival Parte Superior](https://m.media-amazon.com/images/I/41x+jTzSr3L._SL200_.jpg)](https://www.amazon.es/dp/B07L13SF4N/?tag=tolees-21)
+[![Under Armour  UNDKU Rival Parte Superior](https://m.media-amazon.com/images/I/41x+jTzSr3L._SL400_.jpg)](https://www.amazon.es/dp/B07L13SF4N/?tag=tolees-21)
 
 🔎:
 

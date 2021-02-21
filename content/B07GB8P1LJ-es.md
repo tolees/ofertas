@@ -2,7 +2,7 @@
 layout: post
 title: 'Casio Reloj Digital para Hombre de Cuarz al 64.40 % de descuento'
 date: 2020-01-21 20:42:15
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41Fda9dAjUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Fda9dAjUL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.727142857142855'
 
 Está [Casio Reloj Digital para Hombre de Cuarzo con Correa en Resina W-800HM-7AVEF](https://www.amazon.es/dp/B07GB8P1LJ/?tag=tolees-21) con 64.40 de descuento por 20 EUR (original: 56.18 EUR) en el siguiente enlace!
 
-[![Casio Reloj Digital para Hombre de Cuarz](https://images-eu.ssl-images-amazon.com/images/I/41Fda9dAjUL._SL200_.jpg)](https://www.amazon.es/dp/B07GB8P1LJ/?tag=tolees-21)
+[![Casio Reloj Digital para Hombre de Cuarz](https://images-eu.ssl-images-amazon.com/images/I/41Fda9dAjUL._SL400_.jpg)](https://www.amazon.es/dp/B07GB8P1LJ/?tag=tolees-21)
 
 ℹ️:
 

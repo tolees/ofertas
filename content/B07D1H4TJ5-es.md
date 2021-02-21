@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 47.94 % en Disney Baby 11520 - Hamaca mecedora'
 date: 2020-04-03 14:16:04
-image: 'https://m.media-amazon.com/images/I/41ryK8TNikL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ryK8TNikL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '36.44'
 
 Tienes [Disney Baby 11520 - Hamaca mecedora](https://www.amazon.es/dp/B07D1H4TJ5/?tag=tolees-21) con un 47.94 % de descuento con precio de oferta de 36.44 EUR (original: 69.99 EUR) en el siguiente enlace!
 
-[![Disney Baby 11520 - Hamaca mecedora](https://m.media-amazon.com/images/I/41ryK8TNikL._SL200_.jpg)](https://www.amazon.es/dp/B07D1H4TJ5/?tag=tolees-21)
+[![Disney Baby 11520 - Hamaca mecedora](https://m.media-amazon.com/images/I/41ryK8TNikL._SL400_.jpg)](https://www.amazon.es/dp/B07D1H4TJ5/?tag=tolees-21)
 
 ℹ️:
 

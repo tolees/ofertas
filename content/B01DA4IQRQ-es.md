@@ -2,7 +2,7 @@
 layout: post
 title: 'Seiko Reloj Analogico para Mujer de Cuar al 65.77 % de rebaja'
 date: 2020-03-19 22:29:35
-image: 'https://m.media-amazon.com/images/I/419FVS-HcyL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/419FVS-HcyL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '95.745'
 
 Tienes [Seiko Reloj Analogico para Mujer de Cuarzo con Correa en Acero Inoxidable SUR744P1](https://www.amazon.es/dp/B01DA4IQRQ/?tag=tolees-21) con precio final de  95.49 EUR (original: 279.0 EUR) (65.77 %  de rebaja) aqui!
 
-[![Seiko Reloj Analogico para Mujer de Cuar](https://m.media-amazon.com/images/I/419FVS-HcyL._SL200_.jpg)](https://www.amazon.es/dp/B01DA4IQRQ/?tag=tolees-21)
+[![Seiko Reloj Analogico para Mujer de Cuar](https://m.media-amazon.com/images/I/419FVS-HcyL._SL400_.jpg)](https://www.amazon.es/dp/B01DA4IQRQ/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 52.05 % en Einhell 4419169 Multiherramienta TH-MG 1'
 date: 2020-02-07 17:23:19
-image: 'https://m.media-amazon.com/images/I/51DKS3cvVDL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51DKS3cvVDL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '25.45'
 
 Tienes [Einhell 4419169 Multiherramienta TH-MG 135 E con 189 accesorios  maletín  eje flexible  135 W  230 V  color rojo](https://www.amazon.es/dp/B00BLZXR5S/?tag=tolees-21) con un 52.05 % de descuento con precio de oferta de 23.95 EUR (original: 49.95 EUR) en el siguiente enlace!
 
-[![Einhell 4419169 Multiherramienta TH-MG 1](https://m.media-amazon.com/images/I/51DKS3cvVDL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B00BLZXR5S/?tag=tolees-21)
+[![Einhell 4419169 Multiherramienta TH-MG 1](https://m.media-amazon.com/images/I/51DKS3cvVDL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B00BLZXR5S/?tag=tolees-21)
 
 ℹ️:
 

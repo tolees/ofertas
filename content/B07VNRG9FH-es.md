@@ -2,7 +2,7 @@
 layout: post
 title: 'Cofemy Cápsula de café recargable  filtr al 52.42 % de rebaja'
 date: 2020-10-04 14:54:06
-image: 'https://m.media-amazon.com/images/I/41T6GAw2qSL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41T6GAw2qSL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.56'
 
 Tienes [Cofemy Cápsula de café recargable  filtro reutilizable Taza de filtro de café reutilizable hecha de acero inoxidable para K-Fairy con cepillo de limpieza de cuchara de plástico](https://www.amazon.es/dp/B07VNRG9FH/?tag=tolees-21) con precio final de  8.56 EUR (original: 17.99 EUR) (52.42 %  de rebaja) aqui!
 
-[![Cofemy Cápsula de café recargable  filtr](https://m.media-amazon.com/images/I/41T6GAw2qSL._SL200_.jpg)](https://www.amazon.es/dp/B07VNRG9FH/?tag=tolees-21)
+[![Cofemy Cápsula de café recargable  filtr](https://m.media-amazon.com/images/I/41T6GAw2qSL._SL400_.jpg)](https://www.amazon.es/dp/B07VNRG9FH/?tag=tolees-21)
 
 🔎:
 

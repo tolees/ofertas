@@ -2,7 +2,7 @@
 layout: post
 title: 'American Tourister - Bon Air - Spinner M al 42.31 % de descuento'
 date: 2020-02-20 07:46:24
-image: 'https://m.media-amazon.com/images/I/41nBblVW37L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41nBblVW37L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '75.0'
 
 Está [American Tourister - Bon Air - Spinner Maleta 66 cm  57.5 L  Azul  Midnight Navy ](https://www.amazon.es/dp/B00MXP6FHM/?tag=tolees-21) con 42.31 de descuento por 75.0 EUR (original: 130.0 EUR) en el siguiente enlace!
 
-[![American Tourister - Bon Air - Spinner M](https://m.media-amazon.com/images/I/41nBblVW37L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B00MXP6FHM/?tag=tolees-21)
+[![American Tourister - Bon Air - Spinner M](https://m.media-amazon.com/images/I/41nBblVW37L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B00MXP6FHM/?tag=tolees-21)
 
 ℹ️:
 

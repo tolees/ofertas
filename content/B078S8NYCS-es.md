@@ -2,7 +2,7 @@
 layout: post
 title: 'Chlorella Espirulina.Spirulina Potente D con un 62.33 % de descuento'
 date: 2020-03-10 15:47:02
-image: 'https://m.media-amazon.com/images/I/41SSEN-TJSL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41SSEN-TJSL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.254999999999999'
 
 En este momento está [Chlorella Espirulina.Spirulina Potente DETOX Antioxidante-Sistema Inmunitario-Proteinas Vegetales-Hierro-Elimina Metales-Probiotico-180 Capsulas Vegetal.1250mg.Certificado Vegano.N2 Natural Nutrition](https://www.amazon.es/dp/B078S8NYCS/?tag=tolees-21) a 16.95 EUR (original: 45.0 EUR) (62.33 %  de descuento) en el siguiente enlace!
 
-[![Chlorella Espirulina.Spirulina Potente D](https://m.media-amazon.com/images/I/41SSEN-TJSL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B078S8NYCS/?tag=tolees-21)
+[![Chlorella Espirulina.Spirulina Potente D](https://m.media-amazon.com/images/I/41SSEN-TJSL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B078S8NYCS/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Pocket POP! Keychain - Harry Potter: Har al 29.89 % de descuento'
 date: 2020-04-04 05:13:35
-image: 'https://m.media-amazon.com/images/I/41iJzXu6H7L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41iJzXu6H7L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.125'
 
 Ahora mismo tienes [Pocket POP! Keychain - Harry Potter: Harry Potter](https://www.amazon.es/dp/B017NQWKTW/?tag=tolees-21) a 5.09 EUR (original: 7.26 EUR) (29.89 %  de descuento) en el siguiente enlace!
 
-[![Pocket POP! Keychain - Harry Potter: Har](https://m.media-amazon.com/images/I/41iJzXu6H7L._SL200_.jpg)](https://www.amazon.es/dp/B017NQWKTW/?tag=tolees-21)
+[![Pocket POP! Keychain - Harry Potter: Har](https://m.media-amazon.com/images/I/41iJzXu6H7L._SL400_.jpg)](https://www.amazon.es/dp/B017NQWKTW/?tag=tolees-21)
 
 🔎:
 

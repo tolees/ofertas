@@ -2,7 +2,7 @@
 layout: post
 title: 'PUMA Rtg 3` Shorts Pantalones Cortos  Mu con un 30.78 % de descuento'
 date: 2020-06-08 16:47:27
-image: 'https://m.media-amazon.com/images/I/31YuEnx1hFL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31YuEnx1hFL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.99'
 
 En este momento está [PUMA Rtg 3` Shorts Pantalones Cortos  Mujer  Black  L](https://www.amazon.es/dp/B07X8PDBFQ/?tag=tolees-21) a 17.99 EUR (original: 25.99 EUR) (30.78 %  de descuento) en el siguiente enlace!
 
-[![PUMA Rtg 3` Shorts Pantalones Cortos  Mu](https://m.media-amazon.com/images/I/31YuEnx1hFL._SL200_.jpg)](https://www.amazon.es/dp/B07X8PDBFQ/?tag=tolees-21)
+[![PUMA Rtg 3` Shorts Pantalones Cortos  Mu](https://m.media-amazon.com/images/I/31YuEnx1hFL._SL400_.jpg)](https://www.amazon.es/dp/B07X8PDBFQ/?tag=tolees-21)
 
 🔎:
 

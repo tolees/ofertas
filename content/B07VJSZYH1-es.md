@@ -2,7 +2,7 @@
 layout: post
 title: 'HUGO Reloj Analógico para Mujer de Cuarz al 35.43 % de descuento'
 date: 2020-09-15 11:24:15
-image: 'https://m.media-amazon.com/images/I/415SKUeS4ZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/415SKUeS4ZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '115.58'
 
 Está [HUGO Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable 1540026](https://www.amazon.es/dp/B07VJSZYH1/?tag=tolees-21) con 35.43 de descuento por 115.58 EUR (original: 179.0 EUR) en el siguiente enlace!
 
-[![HUGO Reloj Analógico para Mujer de Cuarz](https://m.media-amazon.com/images/I/415SKUeS4ZL._SL200_.jpg)](https://www.amazon.es/dp/B07VJSZYH1/?tag=tolees-21)
+[![HUGO Reloj Analógico para Mujer de Cuarz](https://m.media-amazon.com/images/I/415SKUeS4ZL._SL400_.jpg)](https://www.amazon.es/dp/B07VJSZYH1/?tag=tolees-21)
 
 ℹ️:
 

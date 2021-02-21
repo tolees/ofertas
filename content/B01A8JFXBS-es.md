@@ -2,7 +2,7 @@
 layout: post
 title: 'OGX  Champú Hidratante de Agua de Coco   con un 25.57 % de descuento'
 date: 2020-10-09 14:29:06
-image: 'https://m.media-amazon.com/images/I/51oUVb2MgpL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51oUVb2MgpL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.87'
 
 En este momento está [OGX  Champú Hidratante de Agua de Coco  Cabellos Deshidratados  385 ml](https://www.amazon.es/dp/B01A8JFXBS/?tag=tolees-21) a 5.88 EUR (original: 7.9 EUR) (25.57 %  de descuento) en el siguiente enlace!
 
-[![OGX  Champú Hidratante de Agua de Coco  ](https://m.media-amazon.com/images/I/51oUVb2MgpL._SL200_.jpg)](https://www.amazon.es/dp/B01A8JFXBS/?tag=tolees-21)
+[![OGX  Champú Hidratante de Agua de Coco  ](https://m.media-amazon.com/images/I/51oUVb2MgpL._SL400_.jpg)](https://www.amazon.es/dp/B01A8JFXBS/?tag=tolees-21)
 
 🔎:
 

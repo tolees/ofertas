@@ -2,7 +2,7 @@
 layout: post
 title: 'DB15 Adaptador de conector de 15 pines a al 30.38 % de descuento'
 date: 2020-09-13 09:46:25
-image: 'https://m.media-amazon.com/images/I/41lB3Z4nBxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41lB3Z4nBxL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.37'
 
 Ahora mismo tienes [DB15 Adaptador de conector de 15 pines adaptador de puerto a conector de terminal módulo de señal con funda Female Connector With Nut](https://www.amazon.es/dp/B07DNBLLRB/?tag=tolees-21) a 6.37 EUR (original: 9.15 EUR) (30.38 %  de descuento) en el siguiente enlace!
 
-[![DB15 Adaptador de conector de 15 pines a](https://m.media-amazon.com/images/I/41lB3Z4nBxL._SL200_.jpg)](https://www.amazon.es/dp/B07DNBLLRB/?tag=tolees-21)
+[![DB15 Adaptador de conector de 15 pines a](https://m.media-amazon.com/images/I/41lB3Z4nBxL._SL400_.jpg)](https://www.amazon.es/dp/B07DNBLLRB/?tag=tolees-21)
 
 🔎:
 

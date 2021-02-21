@@ -2,7 +2,7 @@
 layout: post
 title: 'perfk Conector Macho 10pcs 4mm Banana Pl al 37.51 % de descuento'
 date: 2020-05-26 16:08:27
-image: 'https://m.media-amazon.com/images/I/41AtCxNZQpL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41AtCxNZQpL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.01'
 
 Ahora mismo tienes [perfk Conector Macho 10pcs 4mm Banana Plug para Audio De Altavoz De Alto Voltaje](https://www.amazon.es/dp/B07XWTRJYX/?tag=tolees-21) a 11.01 EUR (original: 17.62 EUR) (37.51 %  de descuento) en el siguiente enlace!
 
-[![perfk Conector Macho 10pcs 4mm Banana Pl](https://m.media-amazon.com/images/I/41AtCxNZQpL._SL200_.jpg)](https://www.amazon.es/dp/B07XWTRJYX/?tag=tolees-21)
+[![perfk Conector Macho 10pcs 4mm Banana Pl](https://m.media-amazon.com/images/I/41AtCxNZQpL._SL400_.jpg)](https://www.amazon.es/dp/B07XWTRJYX/?tag=tolees-21)
 
 🔎:
 

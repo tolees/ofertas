@@ -2,7 +2,7 @@
 layout: post
 title: 'PUMA Amplified Shorts 9` TR Pantalones C al 76.59 % de descuento'
 date: 2020-10-04 15:03:29
-image: 'https://m.media-amazon.com/images/I/41p4jbWTeLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41p4jbWTeLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.01'
 
 Ahora mismo tienes [PUMA Amplified Shorts 9` TR Pantalones Cortos  Hombre  Dark Denim  L](https://www.amazon.es/dp/B07XFWG2ZZ/?tag=tolees-21) a 7.01 EUR (original: 29.95 EUR) (76.59 %  de descuento) en el siguiente enlace!
 
-[![PUMA Amplified Shorts 9` TR Pantalones C](https://m.media-amazon.com/images/I/41p4jbWTeLL._SL200_.jpg)](https://www.amazon.es/dp/B07XFWG2ZZ/?tag=tolees-21)
+[![PUMA Amplified Shorts 9` TR Pantalones C](https://m.media-amazon.com/images/I/41p4jbWTeLL._SL400_.jpg)](https://www.amazon.es/dp/B07XFWG2ZZ/?tag=tolees-21)
 
 🔎:
 

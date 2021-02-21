@@ -2,7 +2,7 @@
 layout: post
 title: 'Skechers FLEX ADVANTAGE 3.0- STALLY  Men al 42.82 % de descuento'
 date: 2020-03-22 12:03:45
-image: 'https://m.media-amazon.com/images/I/41kXoWSLGJL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41kXoWSLGJL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '40.0'
 
 Está [Skechers FLEX ADVANTAGE 3.0- STALLY  Men’s Trainers  Blue  Navy Mesh/Trim Nvy   9.5   44 EU ](https://www.amazon.es/dp/B07CTRH486/?tag=tolees-21) con 42.82 de descuento por 40.0 EUR (original: 69.95 EUR) en el siguiente enlace!
 
-[![Skechers FLEX ADVANTAGE 3.0- STALLY  Men](https://m.media-amazon.com/images/I/41kXoWSLGJL._SL200_.jpg)](https://www.amazon.es/dp/B07CTRH486/?tag=tolees-21)
+[![Skechers FLEX ADVANTAGE 3.0- STALLY  Men](https://m.media-amazon.com/images/I/41kXoWSLGJL._SL400_.jpg)](https://www.amazon.es/dp/B07CTRH486/?tag=tolees-21)
 
 ℹ️:
 

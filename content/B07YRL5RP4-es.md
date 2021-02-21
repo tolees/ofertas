@@ -2,7 +2,7 @@
 layout: post
 title: 'Cincobebé Manta Swaddle/Toalla de Baño A al 60.02 % de rebaja'
 date: 2020-05-21 20:01:05
-image: 'https://m.media-amazon.com/images/I/41bCJywL8CL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41bCJywL8CL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.99'
 
 Tienes [Cincobebé Manta Swaddle/Toalla de Baño Acogedora y Suave 6 Capas de Gasa 100% Algodón 120cm x 120 cm Unisex Pack de 1 Dibujos Flamencos](https://www.amazon.es/dp/B07YRL5RP4/?tag=tolees-21) con precio final de  11.99 EUR (original: 29.99 EUR) (60.02 %  de rebaja) aqui!
 
-[![Cincobebé Manta Swaddle/Toalla de Baño A](https://m.media-amazon.com/images/I/41bCJywL8CL._SL200_.jpg)](https://www.amazon.es/dp/B07YRL5RP4/?tag=tolees-21)
+[![Cincobebé Manta Swaddle/Toalla de Baño A](https://m.media-amazon.com/images/I/41bCJywL8CL._SL400_.jpg)](https://www.amazon.es/dp/B07YRL5RP4/?tag=tolees-21)
 
 🔎:
 

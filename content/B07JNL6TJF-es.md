@@ -2,7 +2,7 @@
 layout: post
 title: 'Habitdesign 0M2314M - Mesa de Ordenador  al 28.56 % de descuento'
 date: 2020-02-08 17:02:51
-image: 'https://m.media-amazon.com/images/I/31bjAAfx5pL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31bjAAfx5pL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '45.39'
 
 Está [Habitdesign 0M2314M - Mesa de Ordenador con Bandeja Extraible Mesa Escritorio Modelo I-Joy  Medidas: 90 x 79 x 54 cm de Fondo  Fucsia ](https://www.amazon.es/dp/B07JNL6TJF/?tag=tolees-21) con 28.56 de descuento por 37.83 EUR (original: 52.95 EUR) en el siguiente enlace!
 
-[![Habitdesign 0M2314M - Mesa de Ordenador ](https://m.media-amazon.com/images/I/31bjAAfx5pL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07JNL6TJF/?tag=tolees-21)
+[![Habitdesign 0M2314M - Mesa de Ordenador ](https://m.media-amazon.com/images/I/31bjAAfx5pL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07JNL6TJF/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: '2015 PVC Pasaporte Titular Cubierta Iden al 69.67 % de descuento'
 date: 2020-09-21 15:02:52
-image: 'https://m.media-amazon.com/images/I/412ZfxFHq0L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/412ZfxFHq0L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.46'
 
 Está [2015 PVC Pasaporte Titular Cubierta Identidad ID Tarjeta de crédito Bolsas Bolsas Carpeta de documentos Viaje Pasaporte Bolsas Caso Envío gratis](https://www.amazon.es/dp/B07M8G81WM/?tag=tolees-21) con 69.67 de descuento por 2.46 EUR (original: 8.11 EUR) en el siguiente enlace!
 
-[![2015 PVC Pasaporte Titular Cubierta Iden](https://m.media-amazon.com/images/I/412ZfxFHq0L._SL200_.jpg)](https://www.amazon.es/dp/B07M8G81WM/?tag=tolees-21)
+[![2015 PVC Pasaporte Titular Cubierta Iden](https://m.media-amazon.com/images/I/412ZfxFHq0L._SL400_.jpg)](https://www.amazon.es/dp/B07M8G81WM/?tag=tolees-21)
 
 ℹ️:
 

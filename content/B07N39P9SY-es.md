@@ -2,7 +2,7 @@
 layout: post
 title: 'Belmont Plus: Maleta DE Cabina 4 Ruedas  al 53.83 % de rebaja'
 date: 2020-05-23 08:36:53
-image: 'https://m.media-amazon.com/images/I/41e1rjGHusL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41e1rjGHusL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '65.04333333333334'
 
 Tienes [Belmont Plus: Maleta DE Cabina 4 Ruedas Dobles 55 CM](https://www.amazon.es/dp/B07N39P9SY/?tag=tolees-21) con precio final de  54.94 EUR (original: 119.0 EUR) (53.83 %  de rebaja) aqui!
 
-[![Belmont Plus: Maleta DE Cabina 4 Ruedas ](https://m.media-amazon.com/images/I/41e1rjGHusL._SL200_.jpg)](https://www.amazon.es/dp/B07N39P9SY/?tag=tolees-21)
+[![Belmont Plus: Maleta DE Cabina 4 Ruedas ](https://m.media-amazon.com/images/I/41e1rjGHusL._SL400_.jpg)](https://www.amazon.es/dp/B07N39P9SY/?tag=tolees-21)
 
 🔎:
 

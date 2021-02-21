@@ -2,7 +2,7 @@
 layout: post
 title: 'G-STAR RAW Fascia Polo  Multicolor  Milk al 72.09 % de descuento'
 date: 2020-01-25 19:13:53
-image: 'https://m.media-amazon.com/images/I/41wFxjAIQHL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41wFxjAIQHL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.15'
 
 Ahora mismo tienes [G-STAR RAW Fascia Polo  Multicolor  Milk/Imperial Blue Stripe 8340   X-Small para Hombre](https://www.amazon.es/dp/B07NDP46K7/?tag=tolees-21) a 16.73 EUR (original: 59.95 EUR) (72.09 %  de descuento) en el siguiente enlace!
 
-[![G-STAR RAW Fascia Polo  Multicolor  Milk](https://m.media-amazon.com/images/I/41wFxjAIQHL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07NDP46K7/?tag=tolees-21)
+[![G-STAR RAW Fascia Polo  Multicolor  Milk](https://m.media-amazon.com/images/I/41wFxjAIQHL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07NDP46K7/?tag=tolees-21)
 
 🔎:
 

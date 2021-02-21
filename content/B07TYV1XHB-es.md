@@ -2,7 +2,7 @@
 layout: post
 title: 'Asics Japan S  Running Shoe Mens  White/ al 59.54 % de descuento'
 date: 2020-09-26 20:27:47
-image: 'https://m.media-amazon.com/images/I/31I9tCEX1AL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31I9tCEX1AL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.906666666666666'
 
 Está [Asics Japan S  Running Shoe Mens  White/Midnight  48 EU](https://www.amazon.es/dp/B07TYV1XHB/?tag=tolees-21) con 59.54 de descuento por 28.32 EUR (original: 70.0 EUR) en el siguiente enlace!
 
-[![Asics Japan S  Running Shoe Mens  White/](https://m.media-amazon.com/images/I/31I9tCEX1AL._SL200_.jpg)](https://www.amazon.es/dp/B07TYV1XHB/?tag=tolees-21)
+[![Asics Japan S  Running Shoe Mens  White/](https://m.media-amazon.com/images/I/31I9tCEX1AL._SL400_.jpg)](https://www.amazon.es/dp/B07TYV1XHB/?tag=tolees-21)
 
 ℹ️:
 

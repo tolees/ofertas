@@ -2,7 +2,7 @@
 layout: post
 title: 'coskefy 6 Pares Calcetines Deportivos pa al 30.01 % de rebaja'
 date: 2020-01-01 09:47:41
-image: 'https://images-eu.ssl-images-amazon.com/images/I/516M1UBGwaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/516M1UBGwaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.99'
 
 Tienes [coskefy 6 Pares Calcetines Deportivos para Hombre y Mujer Calcetines Altos Algodon Transpirable Calcetin Deporte Running Antideslizantes  Negro 35-38 ](https://www.amazon.es/dp/B07XP26W4F/?tag=tolees-21) con precio final de  20.99 EUR (original: 29.99 EUR) (30.01 %  de rebaja) aqui!
 
-[![coskefy 6 Pares Calcetines Deportivos pa](https://images-eu.ssl-images-amazon.com/images/I/516M1UBGwaL._SL200_.jpg)](https://www.amazon.es/dp/B07XP26W4F/?tag=tolees-21)
+[![coskefy 6 Pares Calcetines Deportivos pa](https://images-eu.ssl-images-amazon.com/images/I/516M1UBGwaL._SL400_.jpg)](https://www.amazon.es/dp/B07XP26W4F/?tag=tolees-21)
 
 🔎:
 

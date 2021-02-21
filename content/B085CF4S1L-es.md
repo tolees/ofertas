@@ -2,7 +2,7 @@
 layout: post
 title: '10pcs Mascarillas Médicas Desechables 3  al 52.21 % de descuento'
 date: 2020-03-15 19:23:08
-image: 'https://m.media-amazon.com/images/I/41EdoYKecrL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41EdoYKecrL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.59'
 
 Está [10pcs Mascarillas Médicas Desechables 3 Capas con Clip de Nariz Ajustable](https://www.amazon.es/dp/B085CF4S1L/?tag=tolees-21) con 52.21 de descuento por 3.79 EUR (original: 7.93 EUR) en el siguiente enlace!
 
-[![10pcs Mascarillas Médicas Desechables 3 ](https://m.media-amazon.com/images/I/41EdoYKecrL._SL200_.jpg)](https://www.amazon.es/dp/B085CF4S1L/?tag=tolees-21)
+[![10pcs Mascarillas Médicas Desechables 3 ](https://m.media-amazon.com/images/I/41EdoYKecrL._SL400_.jpg)](https://www.amazon.es/dp/B085CF4S1L/?tag=tolees-21)
 
 ℹ️:
 

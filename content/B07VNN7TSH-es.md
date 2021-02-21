@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger Tommy Regular Polo  Azul  al 49.05 % de descuento'
 date: 2020-08-09 19:09:05
-image: 'https://m.media-amazon.com/images/I/31x+0+Y2iVL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31x+0+Y2iVL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '33.35'
 
 Ahora mismo tienes [Tommy Hilfiger Tommy Regular Polo  Azul  Sail Blue   Small para Hombre](https://www.amazon.es/dp/B07VNN7TSH/?tag=tolees-21) a 33.35 EUR (original: 65.46 EUR) (49.05 %  de descuento) en el siguiente enlace!
 
-[![Tommy Hilfiger Tommy Regular Polo  Azul ](https://m.media-amazon.com/images/I/31x+0+Y2iVL._SL200_.jpg)](https://www.amazon.es/dp/B07VNN7TSH/?tag=tolees-21)
+[![Tommy Hilfiger Tommy Regular Polo  Azul ](https://m.media-amazon.com/images/I/31x+0+Y2iVL._SL400_.jpg)](https://www.amazon.es/dp/B07VNN7TSH/?tag=tolees-21)
 
 🔎:
 

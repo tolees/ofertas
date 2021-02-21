@@ -2,7 +2,7 @@
 layout: post
 title: 'Rimmel London Super Gel Colour Esmalte d con un 73.70 % de descuento'
 date: 2020-06-12 09:33:50
-image: 'https://m.media-amazon.com/images/I/31yYGlwa-GL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31yYGlwa-GL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.47'
 
 En este momento está [Rimmel London Super Gel Colour Esmalte de Uñas Tono 19-47 gr](https://www.amazon.es/dp/B07GSBM68L/?tag=tolees-21) a 1.52 EUR (original: 5.78 EUR) (73.70 %  de descuento) en el siguiente enlace!
 
-[![Rimmel London Super Gel Colour Esmalte d](https://m.media-amazon.com/images/I/31yYGlwa-GL._SL200_.jpg)](https://www.amazon.es/dp/B07GSBM68L/?tag=tolees-21)
+[![Rimmel London Super Gel Colour Esmalte d](https://m.media-amazon.com/images/I/31yYGlwa-GL._SL400_.jpg)](https://www.amazon.es/dp/B07GSBM68L/?tag=tolees-21)
 
 🔎:
 

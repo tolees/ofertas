@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 30.02 % en FANDINIER Cartera hombre  billeteras hom'
 date: 2020-03-15 17:05:52
-image: 'https://m.media-amazon.com/images/I/518pfsTHTlL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/518pfsTHTlL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.99'
 
 Tienes [FANDINIER Cartera hombre  billeteras hombre cartera hombre pequeña  Cartera Piel Hombre con Clip y RFID Bloqueo para Varias Tarjetas personales con Caja de Regalo  Negro y Naranja ](https://www.amazon.es/dp/B07MB5SXFX/?tag=tolees-21) con un 30.02 % de descuento con precio de oferta de 13.99 EUR (original: 19.99 EUR) en el siguiente enlace!
 
-[![FANDINIER Cartera hombre  billeteras hom](https://m.media-amazon.com/images/I/518pfsTHTlL._SL200_.jpg)](https://www.amazon.es/dp/B07MB5SXFX/?tag=tolees-21)
+[![FANDINIER Cartera hombre  billeteras hom](https://m.media-amazon.com/images/I/518pfsTHTlL._SL400_.jpg)](https://www.amazon.es/dp/B07MB5SXFX/?tag=tolees-21)
 
 ℹ️:
 

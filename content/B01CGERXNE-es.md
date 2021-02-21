@@ -2,7 +2,7 @@
 layout: post
 title: 'Esteve CORTAGRIP Spray Bucal Antivirus   al 40.90 % de descuento'
 date: 2020-08-30 19:50:00
-image: 'https://m.media-amazon.com/images/I/412NVXBtsFL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/412NVXBtsFL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.2'
 
 Está [Esteve CORTAGRIP Spray Bucal Antivirus  7 ml](https://www.amazon.es/dp/B01CGERXNE/?tag=tolees-21) con 40.90 de descuento por 6.2 EUR (original: 10.49 EUR) en el siguiente enlace!
 
-[![Esteve CORTAGRIP Spray Bucal Antivirus  ](https://m.media-amazon.com/images/I/412NVXBtsFL._SL200_.jpg)](https://www.amazon.es/dp/B01CGERXNE/?tag=tolees-21)
+[![Esteve CORTAGRIP Spray Bucal Antivirus  ](https://m.media-amazon.com/images/I/412NVXBtsFL._SL400_.jpg)](https://www.amazon.es/dp/B01CGERXNE/?tag=tolees-21)
 
 ℹ️:
 

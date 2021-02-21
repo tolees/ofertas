@@ -2,7 +2,7 @@
 layout: post
 title: 'Marvel LOKI-Carpeta Anillas al 56.30 % de rebaja'
 date: 2020-10-08 17:24:32
-image: 'https://m.media-amazon.com/images/I/41xR18TKOQL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41xR18TKOQL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.99'
 
 Tienes [Marvel LOKI-Carpeta Anillas](https://www.amazon.es/dp/B086F9VLGZ/?tag=tolees-21) con precio final de  3.99 EUR (original: 9.13 EUR) (56.30 %  de rebaja) aqui!
 
-[![Marvel LOKI-Carpeta Anillas](https://m.media-amazon.com/images/I/41xR18TKOQL._SL200_.jpg)](https://www.amazon.es/dp/B086F9VLGZ/?tag=tolees-21)
+[![Marvel LOKI-Carpeta Anillas](https://m.media-amazon.com/images/I/41xR18TKOQL._SL400_.jpg)](https://www.amazon.es/dp/B086F9VLGZ/?tag=tolees-21)
 
 🔎:
 

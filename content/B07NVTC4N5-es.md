@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 44.44 % en non-brand Caja de 300 Pcs Hisopos de Alg'
 date: 2020-05-17 08:44:06
-image: 'https://m.media-amazon.com/images/I/31+llPIDfnL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31+llPIDfnL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.99'
 
 Tienes [non-brand Caja de 300 Pcs Hisopos de Algodón Moderna Accesorio para Limpio de Oídos Maquillaje - Rosa Amarillo](https://www.amazon.es/dp/B07NVTC4N5/?tag=tolees-21) con un 44.44 % de descuento con precio de oferta de 10.99 EUR (original: 19.78 EUR) en el siguiente enlace!
 
-[![non-brand Caja de 300 Pcs Hisopos de Alg](https://m.media-amazon.com/images/I/31+llPIDfnL._SL200_.jpg)](https://www.amazon.es/dp/B07NVTC4N5/?tag=tolees-21)
+[![non-brand Caja de 300 Pcs Hisopos de Alg](https://m.media-amazon.com/images/I/31+llPIDfnL._SL400_.jpg)](https://www.amazon.es/dp/B07NVTC4N5/?tag=tolees-21)
 
 ℹ️:
 

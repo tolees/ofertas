@@ -2,7 +2,7 @@
 layout: post
 title: 'Alcachofa de ducha alta presión  Super b al 36.69 % de descuento'
 date: 2020-07-22 07:43:06
-image: 'https://m.media-amazon.com/images/I/61okd1NlqXL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61okd1NlqXL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '22.79'
 
 Ahora mismo tienes [Alcachofa de ducha alta presión  Super bajo consumo de agua Niquel pulido  latón](https://www.amazon.es/dp/B07MDPPQZH/?tag=tolees-21) a 22.79 EUR (original: 36.0 EUR) (36.69 %  de descuento) en el siguiente enlace!
 
-[![Alcachofa de ducha alta presión  Super b](https://m.media-amazon.com/images/I/61okd1NlqXL._SL200_.jpg)](https://www.amazon.es/dp/B07MDPPQZH/?tag=tolees-21)
+[![Alcachofa de ducha alta presión  Super b](https://m.media-amazon.com/images/I/61okd1NlqXL._SL400_.jpg)](https://www.amazon.es/dp/B07MDPPQZH/?tag=tolees-21)
 
 🔎:
 

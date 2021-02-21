@@ -2,7 +2,7 @@
 layout: post
 title: 'Sylvie Flirty Swimwear Bela  Traje de Ba al 88.04 % de descuento'
 date: 2020-02-14 22:04:37
-image: 'https://m.media-amazon.com/images/I/41y+T1E-wqL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41y+T1E-wqL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.56'
 
 Está [Sylvie Flirty Swimwear Bela  Traje de Baño de Una Pieza para Mujer  Negro  Black 5053   40  Talla del fabricante: 38B ](https://www.amazon.es/dp/B077YC1FRX/?tag=tolees-21) con 88.04 de descuento por 9.56 EUR (original: 79.95 EUR) en el siguiente enlace!
 
-[![Sylvie Flirty Swimwear Bela  Traje de Ba](https://m.media-amazon.com/images/I/41y+T1E-wqL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B077YC1FRX/?tag=tolees-21)
+[![Sylvie Flirty Swimwear Bela  Traje de Ba](https://m.media-amazon.com/images/I/41y+T1E-wqL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B077YC1FRX/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Control Touch And Feel Preservativos - 1 con un 44.25 % de descuento'
 date: 2020-07-08 17:48:56
-image: 'https://m.media-amazon.com/images/I/51nZnAYB16L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51nZnAYB16L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.186'
 
 En este momento está [Control Touch And Feel Preservativos - 12 Unidades](https://www.amazon.es/dp/B00NQZKK8I/?tag=tolees-21) a 4.99 EUR (original: 8.95 EUR) (44.25 %  de descuento) en el siguiente enlace!
 
-[![Control Touch And Feel Preservativos - 1](https://m.media-amazon.com/images/I/51nZnAYB16L._SL200_.jpg)](https://www.amazon.es/dp/B00NQZKK8I/?tag=tolees-21)
+[![Control Touch And Feel Preservativos - 1](https://m.media-amazon.com/images/I/51nZnAYB16L._SL400_.jpg)](https://www.amazon.es/dp/B00NQZKK8I/?tag=tolees-21)
 
 🔎:
 

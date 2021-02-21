@@ -2,7 +2,7 @@
 layout: post
 title: 'Puma Roma Basic  Zapatillas para Hombre  al 63.70 % de descuento'
 date: 2020-01-16 10:20:11
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41et83bv5bL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41et83bv5bL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.42'
 
 Ahora mismo tienes [Puma Roma Basic  Zapatillas para Hombre  Negro  Black-black 17   38 EU](https://www.amazon.es/dp/B01N42FIBF/?tag=tolees-21) a 27.21 EUR (original: 74.95 EUR) (63.70 %  de descuento) en el siguiente enlace!
 
-[![Puma Roma Basic  Zapatillas para Hombre ](https://images-eu.ssl-images-amazon.com/images/I/41et83bv5bL._SL200_.jpg)](https://www.amazon.es/dp/B01N42FIBF/?tag=tolees-21)
+[![Puma Roma Basic  Zapatillas para Hombre ](https://images-eu.ssl-images-amazon.com/images/I/41et83bv5bL._SL400_.jpg)](https://www.amazon.es/dp/B01N42FIBF/?tag=tolees-21)
 
 🔎:
 

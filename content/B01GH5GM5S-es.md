@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 51.28 % en Under Armour Tech Polo  Hombre  Blanco  '
 date: 2020-03-27 08:07:24
-image: 'https://m.media-amazon.com/images/I/41P5Ysn1JNL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41P5Ysn1JNL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.74'
 
 Tienes [Under Armour Tech Polo  Hombre  Blanco  White/Graphite/Graphite 100   M](https://www.amazon.es/dp/B01GH5GM5S/?tag=tolees-21) con un 51.28 % de descuento con precio de oferta de 19.49 EUR (original: 40.0 EUR) en el siguiente enlace!
 
-[![Under Armour Tech Polo  Hombre  Blanco  ](https://m.media-amazon.com/images/I/41P5Ysn1JNL._SL200_.jpg)](https://www.amazon.es/dp/B01GH5GM5S/?tag=tolees-21)
+[![Under Armour Tech Polo  Hombre  Blanco  ](https://m.media-amazon.com/images/I/41P5Ysn1JNL._SL400_.jpg)](https://www.amazon.es/dp/B01GH5GM5S/?tag=tolees-21)
 
 ℹ️:
 

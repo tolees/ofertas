@@ -2,7 +2,7 @@
 layout: post
 title: 'Seiko Reloj Analógico para Mujer de Cuar al 53.34 % de rebaja'
 date: 2020-04-25 18:33:26
-image: 'https://m.media-amazon.com/images/I/41cd8o6d1RL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41cd8o6d1RL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '139.17000000000002'
 
 Tienes [Seiko Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable SUT323P1](https://www.amazon.es/dp/B074T34GFN/?tag=tolees-21) con precio final de  140.22 EUR (original: 300.51 EUR) (53.34 %  de rebaja) aqui!
 
-[![Seiko Reloj Analógico para Mujer de Cuar](https://m.media-amazon.com/images/I/41cd8o6d1RL._SL200_.jpg)](https://www.amazon.es/dp/B074T34GFN/?tag=tolees-21)
+[![Seiko Reloj Analógico para Mujer de Cuar](https://m.media-amazon.com/images/I/41cd8o6d1RL._SL400_.jpg)](https://www.amazon.es/dp/B074T34GFN/?tag=tolees-21)
 
 🔎:
 

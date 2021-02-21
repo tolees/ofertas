@@ -2,7 +2,7 @@
 layout: post
 title: 'KLIMTM Esports Silla Gaming Ergonómica + con un 47.51 % de descuento'
 date: 2020-01-23 12:13:34
-image: 'None._SL200_'
+image: 'None._SL400_'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '262.43'
 
 En este momento está [KLIMTM Esports Silla Gaming Ergonómica + con Soporte Lumbar y Cervical + Reclinable + Silla de Escritorio Ajustable + Piel Sintética y Materiales Premium + Silla Gamer Negra [Nueva VERSIÓN 2020]](https://www.amazon.es/dp/B07F38CB8N/?tag=tolees-21) a 262.43 EUR (original: 500 EUR) (47.51 %  de descuento) en el siguiente enlace!
 
-[![KLIMTM Esports Silla Gaming Ergonómica +](None._SL200_)](https://www.amazon.es/dp/B07F38CB8N/?tag=tolees-21)
+[![KLIMTM Esports Silla Gaming Ergonómica +](None._SL400_)](https://www.amazon.es/dp/B07F38CB8N/?tag=tolees-21)
 
 🔎:
 

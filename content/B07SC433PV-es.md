@@ -2,7 +2,7 @@
 layout: post
 title: 'GREAT ART Foto Mural Puente de Brooklyn  con un 43.88 % de descuento'
 date: 2020-09-28 21:33:07
-image: 'https://m.media-amazon.com/images/I/61lzYLG27gL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61lzYLG27gL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '44.9'
 
 En este momento está [GREAT ART Foto Mural Puente de Brooklyn Poster Americano Nueva York 210 x 140 cm - Papel Pintado 5 Piezas incluye Pasta para pegar](https://www.amazon.es/dp/B07SC433PV/?tag=tolees-21) a 44.9 EUR (original: 80.0 EUR) (43.88 %  de descuento) en el siguiente enlace!
 
-[![GREAT ART Foto Mural Puente de Brooklyn ](https://m.media-amazon.com/images/I/61lzYLG27gL._SL200_.jpg)](https://www.amazon.es/dp/B07SC433PV/?tag=tolees-21)
+[![GREAT ART Foto Mural Puente de Brooklyn ](https://m.media-amazon.com/images/I/61lzYLG27gL._SL400_.jpg)](https://www.amazon.es/dp/B07SC433PV/?tag=tolees-21)
 
 🔎:
 

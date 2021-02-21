@@ -2,7 +2,7 @@
 layout: post
 title: 'Alienwork Navy Blue Reloj Unisex Relojes con un 28.51 % de descuento'
 date: 2020-02-23 19:33:24
-image: 'https://m.media-amazon.com/images/I/513d08aZ5vL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/513d08aZ5vL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.62'
 
 En este momento está [Alienwork Navy Blue Reloj Unisex Relojes Hombre Mujer Acero Inoxidable Banda de Malla Metálica Plata Analógicos Cuarzo Azul Impermeable Ultra-Delgada Slim](https://www.amazon.es/dp/B074J8X8CW/?tag=tolees-21) a 24.62 EUR (original: 34.44 EUR) (28.51 %  de descuento) en el siguiente enlace!
 
-[![Alienwork Navy Blue Reloj Unisex Relojes](https://m.media-amazon.com/images/I/513d08aZ5vL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B074J8X8CW/?tag=tolees-21)
+[![Alienwork Navy Blue Reloj Unisex Relojes](https://m.media-amazon.com/images/I/513d08aZ5vL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B074J8X8CW/?tag=tolees-21)
 
 🔎:
 

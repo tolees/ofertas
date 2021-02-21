@@ -2,7 +2,7 @@
 layout: post
 title: 'Head Pala de Padel Graphene Monster 2020 con un 47.39 % de descuento'
 date: 2020-07-06 07:54:09
-image: 'https://m.media-amazon.com/images/I/41WVYxhjBpL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41WVYxhjBpL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '99.95'
 
 En este momento está [Head Pala de Padel Graphene Monster 2020](https://www.amazon.es/dp/B085W3J8VG/?tag=tolees-21) a 99.95 EUR (original: 190.0 EUR) (47.39 %  de descuento) en el siguiente enlace!
 
-[![Head Pala de Padel Graphene Monster 2020](https://m.media-amazon.com/images/I/41WVYxhjBpL._SL200_.jpg)](https://www.amazon.es/dp/B085W3J8VG/?tag=tolees-21)
+[![Head Pala de Padel Graphene Monster 2020](https://m.media-amazon.com/images/I/41WVYxhjBpL._SL400_.jpg)](https://www.amazon.es/dp/B085W3J8VG/?tag=tolees-21)
 
 🔎:
 

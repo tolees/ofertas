@@ -2,7 +2,7 @@
 layout: post
 title: 'Tira LED TV 2.2M  5050 Tiras LED USB Imp al 33.36 % de descuento'
 date: 2020-09-16 17:13:40
-image: 'https://m.media-amazon.com/images/I/51cn1JyoEaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51cn1JyoEaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.49'
 
 Ahora mismo tienes [Tira LED TV 2.2M  5050 Tiras LED USB Impermeable con Control Remoto  16 RGB Colores y 4 Modos  Retroiluminacion LED de TV para Cine en Casa  HDTV/PC Monitor  40-60 Pulgada  - 2x50cm+2x60cm](https://www.amazon.es/dp/B08C7M1GG7/?tag=tolees-21) a 9.99 EUR (original: 14.99 EUR) (33.36 %  de descuento) en el siguiente enlace!
 
-[![Tira LED TV 2.2M  5050 Tiras LED USB Imp](https://m.media-amazon.com/images/I/51cn1JyoEaL._SL200_.jpg)](https://www.amazon.es/dp/B08C7M1GG7/?tag=tolees-21)
+[![Tira LED TV 2.2M  5050 Tiras LED USB Imp](https://m.media-amazon.com/images/I/51cn1JyoEaL._SL400_.jpg)](https://www.amazon.es/dp/B08C7M1GG7/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Artix Auriculares Plegables con Micrófon al 40.01 % de descuento'
 date: 2020-01-16 18:06:06
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51TSpsYE5%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51TSpsYE5%2BL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.99'
 
 Está [Artix Auriculares Plegables con Micrófono  Auriculares estéreo NRGSound CL750 compactos en la Oreja  Ideales para niños/Adolescentes/Adultos  Negro ](https://www.amazon.es/dp/B074PYS1JK/?tag=tolees-21) con 40.01 de descuento por 17.99 EUR (original: 29.99 EUR) en el siguiente enlace!
 
-[![Artix Auriculares Plegables con Micrófon](https://images-eu.ssl-images-amazon.com/images/I/51TSpsYE5%2BL._SL200_.jpg)](https://www.amazon.es/dp/B074PYS1JK/?tag=tolees-21)
+[![Artix Auriculares Plegables con Micrófon](https://images-eu.ssl-images-amazon.com/images/I/51TSpsYE5%2BL._SL400_.jpg)](https://www.amazon.es/dp/B074PYS1JK/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'King internacional acero inoxidable redo al 67.66 % de rebaja'
 date: 2020-01-22 17:31:55
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41-P2FmA4BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-P2FmA4BL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.78'
 
 Tienes [King internacional acero inoxidable redondo Rado salero y pimentero con ver a través de tapa](https://www.amazon.es/dp/B0791FFK9M/?tag=tolees-21) con precio final de  10.78 EUR (original: 33.33 EUR) (67.66 %  de rebaja) aqui!
 
-[![King internacional acero inoxidable redo](https://images-eu.ssl-images-amazon.com/images/I/41-P2FmA4BL._SL200_.jpg)](https://www.amazon.es/dp/B0791FFK9M/?tag=tolees-21)
+[![King internacional acero inoxidable redo](https://images-eu.ssl-images-amazon.com/images/I/41-P2FmA4BL._SL400_.jpg)](https://www.amazon.es/dp/B0791FFK9M/?tag=tolees-21)
 
 🔎:
 

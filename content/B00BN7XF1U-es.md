@@ -2,7 +2,7 @@
 layout: post
 title: 'Instituto Español Gel de Baño y Ducha 10 al 48.25 % de descuento'
 date: 2020-07-19 13:24:01
-image: 'https://m.media-amazon.com/images/I/41fpSE6D2wL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41fpSE6D2wL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.051428571428571'
 
 Está [Instituto Español Gel de Baño y Ducha 10% Urea para Piel Seca - 1250 ML](https://www.amazon.es/dp/B00BN7XF1U/?tag=tolees-21) con 48.25 de descuento por 2.07 EUR (original: 4.0 EUR) en el siguiente enlace!
 
-[![Instituto Español Gel de Baño y Ducha 10](https://m.media-amazon.com/images/I/41fpSE6D2wL._SL200_.jpg)](https://www.amazon.es/dp/B00BN7XF1U/?tag=tolees-21)
+[![Instituto Español Gel de Baño y Ducha 10](https://m.media-amazon.com/images/I/41fpSE6D2wL._SL400_.jpg)](https://www.amazon.es/dp/B00BN7XF1U/?tag=tolees-21)
 
 ℹ️:
 

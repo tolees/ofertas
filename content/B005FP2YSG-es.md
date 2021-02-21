@@ -2,7 +2,7 @@
 layout: post
 title: 'TFA 38.1028.10 Avisador de Cocina de Met al 51.00 % de descuento'
 date: 2020-04-29 07:11:42
-image: 'https://m.media-amazon.com/images/I/51-NFJI0MyL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51-NFJI0MyL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.37'
 
 Ahora mismo tienes [TFA 38.1028.10 Avisador de Cocina de Metal  Negro  Gris](https://www.amazon.es/dp/B005FP2YSG/?tag=tolees-21) a 6.37 EUR (original: 13.0 EUR) (51.00 %  de descuento) en el siguiente enlace!
 
-[![TFA 38.1028.10 Avisador de Cocina de Met](https://m.media-amazon.com/images/I/51-NFJI0MyL._SL200_.jpg)](https://www.amazon.es/dp/B005FP2YSG/?tag=tolees-21)
+[![TFA 38.1028.10 Avisador de Cocina de Met](https://m.media-amazon.com/images/I/51-NFJI0MyL._SL400_.jpg)](https://www.amazon.es/dp/B005FP2YSG/?tag=tolees-21)
 
 🔎:
 

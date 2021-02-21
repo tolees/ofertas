@@ -2,7 +2,7 @@
 layout: post
 title: 'Makita HP457DWE - Taladro Percutor A Bat al 33.72 % de descuento'
 date: 2020-08-08 12:16:19
-image: 'https://m.media-amazon.com/images/I/41AMxl00INL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41AMxl00INL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '152.5'
 
 Está [Makita HP457DWE - Taladro Percutor A Bateria 18V Litio-Ion 1.3 Ah](https://www.amazon.es/dp/B00GDFU56A/?tag=tolees-21) con 33.72 de descuento por 152.5 EUR (original: 230.07 EUR) en el siguiente enlace!
 
-[![Makita HP457DWE - Taladro Percutor A Bat](https://m.media-amazon.com/images/I/41AMxl00INL._SL200_.jpg)](https://www.amazon.es/dp/B00GDFU56A/?tag=tolees-21)
+[![Makita HP457DWE - Taladro Percutor A Bat](https://m.media-amazon.com/images/I/41AMxl00INL._SL400_.jpg)](https://www.amazon.es/dp/B00GDFU56A/?tag=tolees-21)
 
 ℹ️:
 

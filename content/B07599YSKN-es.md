@@ -2,7 +2,7 @@
 layout: post
 title: 'Funko Pop!- Disney Aladdin: Jafar Figura al 26.75 % de rebaja'
 date: 2020-06-08 11:16:37
-image: 'https://m.media-amazon.com/images/I/41sS8tzQLyL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41sS8tzQLyL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.218'
 
 Tienes [Funko Pop!- Disney Aladdin: Jafar Figura de Vinilo  24403 ](https://www.amazon.es/dp/B07599YSKN/?tag=tolees-21) con precio final de  10.98 EUR (original: 14.99 EUR) (26.75 %  de rebaja) aqui!
 
-[![Funko Pop!- Disney Aladdin: Jafar Figura](https://m.media-amazon.com/images/I/41sS8tzQLyL._SL200_.jpg)](https://www.amazon.es/dp/B07599YSKN/?tag=tolees-21)
+[![Funko Pop!- Disney Aladdin: Jafar Figura](https://m.media-amazon.com/images/I/41sS8tzQLyL._SL400_.jpg)](https://www.amazon.es/dp/B07599YSKN/?tag=tolees-21)
 
 🔎:
 

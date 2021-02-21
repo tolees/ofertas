@@ -2,7 +2,7 @@
 layout: post
 title: 'MOISO Plantillas ortopédicas con soporte con un 37.39 % de descuento'
 date: 2020-04-14 00:21:14
-image: 'https://m.media-amazon.com/images/I/41Av+bctjpL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Av+bctjpL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.99'
 
 En este momento está [MOISO Plantillas ortopédicas con soporte de arco  cojín de talón y masaje de gel en el antepié para aliviar el dolor de pie y la fascitis plantar](https://www.amazon.es/dp/B078J8FCXC/?tag=tolees-21) a 11.99 EUR (original: 19.15 EUR) (37.39 %  de descuento) en el siguiente enlace!
 
-[![MOISO Plantillas ortopédicas con soporte](https://m.media-amazon.com/images/I/41Av+bctjpL._SL200_.jpg)](https://www.amazon.es/dp/B078J8FCXC/?tag=tolees-21)
+[![MOISO Plantillas ortopédicas con soporte](https://m.media-amazon.com/images/I/41Av+bctjpL._SL400_.jpg)](https://www.amazon.es/dp/B078J8FCXC/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Balanza de cocina digital Laica KS1029W  al 69.86 % de rebaja'
 date: 2020-05-28 23:58:06
-image: 'https://m.media-amazon.com/images/I/41t7r+HhaSL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41t7r+HhaSL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.48'
 
 Tienes [Balanza de cocina digital Laica KS1029W con diseño de fresas  en vidrio templado peso máximo 5 Kg. Encendido y apagado automático. Función TARA.](https://www.amazon.es/dp/B01DU3IKL4/?tag=tolees-21) con precio final de  17.48 EUR (original: 57.99 EUR) (69.86 %  de rebaja) aqui!
 
-[![Balanza de cocina digital Laica KS1029W ](https://m.media-amazon.com/images/I/41t7r+HhaSL._SL200_.jpg)](https://www.amazon.es/dp/B01DU3IKL4/?tag=tolees-21)
+[![Balanza de cocina digital Laica KS1029W ](https://m.media-amazon.com/images/I/41t7r+HhaSL._SL400_.jpg)](https://www.amazon.es/dp/B01DU3IKL4/?tag=tolees-21)
 
 🔎:
 

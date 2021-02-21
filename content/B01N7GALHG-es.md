@@ -2,7 +2,7 @@
 layout: post
 title: 'Ruavieja Licor de Té con Jengibre - 700  al 40.19 % de descuento'
 date: 2020-07-17 09:38:49
-image: 'https://m.media-amazon.com/images/I/31JD4Dc26QL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31JD4Dc26QL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.864999999999999'
 
 Ahora mismo tienes [Ruavieja Licor de Té con Jengibre - 700 ml](https://www.amazon.es/dp/B01N7GALHG/?tag=tolees-21) a 6.25 EUR (original: 10.45 EUR) (40.19 %  de descuento) en el siguiente enlace!
 
-[![Ruavieja Licor de Té con Jengibre - 700 ](https://m.media-amazon.com/images/I/31JD4Dc26QL._SL200_.jpg)](https://www.amazon.es/dp/B01N7GALHG/?tag=tolees-21)
+[![Ruavieja Licor de Té con Jengibre - 700 ](https://m.media-amazon.com/images/I/31JD4Dc26QL._SL400_.jpg)](https://www.amazon.es/dp/B01N7GALHG/?tag=tolees-21)
 
 🔎:
 

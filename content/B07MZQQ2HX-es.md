@@ -2,7 +2,7 @@
 layout: post
 title: 'Esprit Maternity Dress Nursing SS AOP Ca al 32.99 % de descuento'
 date: 2020-06-12 17:57:21
-image: 'https://m.media-amazon.com/images/I/51cNUdaSoKL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51cNUdaSoKL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '33.5'
 
 Ahora mismo tienes [Esprit Maternity Dress Nursing SS AOP Camisón premamá  Negro  Black 001   44  Talla del Fabricante: X-Large  para Mujer](https://www.amazon.es/dp/B07MZQQ2HX/?tag=tolees-21) a 33.5 EUR (original: 49.99 EUR) (32.99 %  de descuento) en el siguiente enlace!
 
-[![Esprit Maternity Dress Nursing SS AOP Ca](https://m.media-amazon.com/images/I/51cNUdaSoKL._SL200_.jpg)](https://www.amazon.es/dp/B07MZQQ2HX/?tag=tolees-21)
+[![Esprit Maternity Dress Nursing SS AOP Ca](https://m.media-amazon.com/images/I/51cNUdaSoKL._SL400_.jpg)](https://www.amazon.es/dp/B07MZQQ2HX/?tag=tolees-21)
 
 🔎:
 

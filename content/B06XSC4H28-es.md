@@ -2,7 +2,7 @@
 layout: post
 title: 'Daniel Wellington Reloj Digital para Muj con un 28.16 % de descuento'
 date: 2020-06-12 18:51:54
-image: 'https://m.media-amazon.com/images/I/413IEfdrBhL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/413IEfdrBhL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '89.64'
 
 En este momento está [Daniel Wellington Reloj Digital para Mujer de Cuarzo con Correa en Acero Inoxidable DW00100163](https://www.amazon.es/dp/B06XSC4H28/?tag=tolees-21) a 80.52 EUR (original: 112.08 EUR) (28.16 %  de descuento) en el siguiente enlace!
 
-[![Daniel Wellington Reloj Digital para Muj](https://m.media-amazon.com/images/I/413IEfdrBhL._SL200_.jpg)](https://www.amazon.es/dp/B06XSC4H28/?tag=tolees-21)
+[![Daniel Wellington Reloj Digital para Muj](https://m.media-amazon.com/images/I/413IEfdrBhL._SL400_.jpg)](https://www.amazon.es/dp/B06XSC4H28/?tag=tolees-21)
 
 🔎:
 

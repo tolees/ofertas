@@ -2,7 +2,7 @@
 layout: post
 title: 'TUBBZ Spyro The Dragon Moneybags Collect con un 60.31 % de descuento'
 date: 2020-09-21 17:45:17
-image: 'https://m.media-amazon.com/images/I/316EQhYG1uL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/316EQhYG1uL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.95'
 
 En este momento está [TUBBZ Spyro The Dragon Moneybags Collectible Duck](https://www.amazon.es/dp/B07WMM8GLH/?tag=tolees-21) a 5.95 EUR (original: 14.99 EUR) (60.31 %  de descuento) en el siguiente enlace!
 
-[![TUBBZ Spyro The Dragon Moneybags Collect](https://m.media-amazon.com/images/I/316EQhYG1uL._SL200_.jpg)](https://www.amazon.es/dp/B07WMM8GLH/?tag=tolees-21)
+[![TUBBZ Spyro The Dragon Moneybags Collect](https://m.media-amazon.com/images/I/316EQhYG1uL._SL400_.jpg)](https://www.amazon.es/dp/B07WMM8GLH/?tag=tolees-21)
 
 🔎:
 

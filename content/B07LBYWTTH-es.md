@@ -2,7 +2,7 @@
 layout: post
 title: 'Etrogo Bombilla Crepuscular Led Sensor L al 35.21 % de descuento'
 date: 2020-03-31 21:43:31
-image: 'https://m.media-amazon.com/images/I/41-vyaRNc6L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41-vyaRNc6L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.99'
 
 Ahora mismo tienes [Etrogo Bombilla Crepuscular Led Sensor Luz E27 10W Equivalencia 100W Blanco Cálido 3000K Encender/Apagar Automático 806Lumens 2 Unidades [Clase de eficiencia energética A]](https://www.amazon.es/dp/B07LBYWTTH/?tag=tolees-21) a 15.99 EUR (original: 24.68 EUR) (35.21 %  de descuento) en el siguiente enlace!
 
-[![Etrogo Bombilla Crepuscular Led Sensor L](https://m.media-amazon.com/images/I/41-vyaRNc6L._SL200_.jpg)](https://www.amazon.es/dp/B07LBYWTTH/?tag=tolees-21)
+[![Etrogo Bombilla Crepuscular Led Sensor L](https://m.media-amazon.com/images/I/41-vyaRNc6L._SL400_.jpg)](https://www.amazon.es/dp/B07LBYWTTH/?tag=tolees-21)
 
 🔎:
 

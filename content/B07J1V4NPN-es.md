@@ -2,7 +2,7 @@
 layout: post
 title: 'Petusco - Judith Amarillo Piel de Vacuno al 31.03 % de rebaja'
 date: 2020-02-24 18:44:02
-image: 'https://m.media-amazon.com/images/I/413WkuYA9EL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/413WkuYA9EL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '100.0'
 
 Tienes [Petusco - Judith Amarillo Piel de Vacuno tipo grano y grabado logotipo](https://www.amazon.es/dp/B07J1V4NPN/?tag=tolees-21) con precio final de  100.0 EUR (original: 145.0 EUR) (31.03 %  de rebaja) aqui!
 
-[![Petusco - Judith Amarillo Piel de Vacuno](https://m.media-amazon.com/images/I/413WkuYA9EL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07J1V4NPN/?tag=tolees-21)
+[![Petusco - Judith Amarillo Piel de Vacuno](https://m.media-amazon.com/images/I/413WkuYA9EL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07J1V4NPN/?tag=tolees-21)
 
 🔎:
 

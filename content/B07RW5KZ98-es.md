@@ -2,7 +2,7 @@
 layout: post
 title: 'find. Faroe Zapatillas Altas  Negro Blac con un 33.75 % de descuento'
 date: 2020-09-30 11:13:58
-image: 'https://m.media-amazon.com/images/I/41HJHii2deL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41HJHii2deL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.149999999999999'
 
 En este momento está [find. Faroe Zapatillas Altas  Negro Black  45 EU](https://www.amazon.es/dp/B07RW5KZ98/?tag=tolees-21) a 8.52 EUR (original: 12.86 EUR) (33.75 %  de descuento) en el siguiente enlace!
 
-[![find. Faroe Zapatillas Altas  Negro Blac](https://m.media-amazon.com/images/I/41HJHii2deL._SL200_.jpg)](https://www.amazon.es/dp/B07RW5KZ98/?tag=tolees-21)
+[![find. Faroe Zapatillas Altas  Negro Blac](https://m.media-amazon.com/images/I/41HJHii2deL._SL400_.jpg)](https://www.amazon.es/dp/B07RW5KZ98/?tag=tolees-21)
 
 🔎:
 

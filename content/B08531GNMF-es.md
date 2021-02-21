@@ -2,7 +2,7 @@
 layout: post
 title: 'Kasimir Espejo Maquillaje con Luz LED Au al 44.46 % de descuento'
 date: 2020-08-21 16:02:47
-image: 'https://m.media-amazon.com/images/I/31myxL3sitL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31myxL3sitL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.99'
 
 Está [Kasimir Espejo Maquillaje con Luz LED Aumento 5X Espejo de Maquillaje Táctil Ultra Alta Definición Profesional Espejo Cosmético Plegable Espejos - Rotación Ajustable de 360°blanco](https://www.amazon.es/dp/B08531GNMF/?tag=tolees-21) con 44.46 de descuento por 19.99 EUR (original: 35.99 EUR) en el siguiente enlace!
 
-[![Kasimir Espejo Maquillaje con Luz LED Au](https://m.media-amazon.com/images/I/31myxL3sitL._SL200_.jpg)](https://www.amazon.es/dp/B08531GNMF/?tag=tolees-21)
+[![Kasimir Espejo Maquillaje con Luz LED Au](https://m.media-amazon.com/images/I/31myxL3sitL._SL400_.jpg)](https://www.amazon.es/dp/B08531GNMF/?tag=tolees-21)
 
 ℹ️:
 

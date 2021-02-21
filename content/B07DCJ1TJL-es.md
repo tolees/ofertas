@@ -2,7 +2,7 @@
 layout: post
 title: 'Agatha Ruiz De La Prada Happy Agatha Jue al 47.07 % de descuento'
 date: 2020-02-12 23:45:06
-image: 'https://m.media-amazon.com/images/I/51bMiBF9nKL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51bMiBF9nKL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '113.28'
 
 Está [Agatha Ruiz De La Prada Happy Agatha Juego de Maletas  66 cm  95 litros  Fucsia](https://www.amazon.es/dp/B07DCJ1TJL/?tag=tolees-21) con 47.07 de descuento por 113.28 EUR (original: 214.0 EUR) en el siguiente enlace!
 
-[![Agatha Ruiz De La Prada Happy Agatha Jue](https://m.media-amazon.com/images/I/51bMiBF9nKL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07DCJ1TJL/?tag=tolees-21)
+[![Agatha Ruiz De La Prada Happy Agatha Jue](https://m.media-amazon.com/images/I/51bMiBF9nKL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07DCJ1TJL/?tag=tolees-21)
 
 ℹ️:
 

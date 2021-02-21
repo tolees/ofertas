@@ -2,7 +2,7 @@
 layout: post
 title: 'Lacoste Rc2012 Cinturón  Azul  Blue Hori al 41.03 % de rebaja'
 date: 2020-01-13 09:44:16
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51gKad2ozBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51gKad2ozBL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '30.235'
 
 Tienes [Lacoste Rc2012 Cinturón  Azul  Blue Horizon D24   90 para Hombre](https://www.amazon.es/dp/B07MSB9GKC/?tag=tolees-21) con precio final de  23 EUR (original: 39 EUR) (41.03 %  de rebaja) aqui!
 
-[![Lacoste Rc2012 Cinturón  Azul  Blue Hori](https://images-eu.ssl-images-amazon.com/images/I/51gKad2ozBL._SL200_.jpg)](https://www.amazon.es/dp/B07MSB9GKC/?tag=tolees-21)
+[![Lacoste Rc2012 Cinturón  Azul  Blue Hori](https://images-eu.ssl-images-amazon.com/images/I/51gKad2ozBL._SL400_.jpg)](https://www.amazon.es/dp/B07MSB9GKC/?tag=tolees-21)
 
 🔎:
 

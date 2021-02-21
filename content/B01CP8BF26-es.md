@@ -2,7 +2,7 @@
 layout: post
 title: 'Chupa Chups Original  Caramelo con Palo  al 37.10 % de descuento'
 date: 2020-08-10 13:15:45
-image: 'https://m.media-amazon.com/images/I/41cUPabU4LL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41cUPabU4LL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.333333333333336'
 
 Está [Chupa Chups Original  Caramelo con Palo de Sabores a Fresa  Super Chups 20 unidades de 12 gr.  Total 240 gr. ](https://www.amazon.es/dp/B01CP8BF26/?tag=tolees-21) con 37.10 de descuento por 8.8 EUR (original: 13.99 EUR) en el siguiente enlace!
 
-[![Chupa Chups Original  Caramelo con Palo ](https://m.media-amazon.com/images/I/41cUPabU4LL._SL200_.jpg)](https://www.amazon.es/dp/B01CP8BF26/?tag=tolees-21)
+[![Chupa Chups Original  Caramelo con Palo ](https://m.media-amazon.com/images/I/41cUPabU4LL._SL400_.jpg)](https://www.amazon.es/dp/B01CP8BF26/?tag=tolees-21)
 
 ℹ️:
 

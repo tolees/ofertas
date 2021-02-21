@@ -2,7 +2,7 @@
 layout: post
 title: 'bmerch Ltd. Hermanos Star Trek: USS Ente al 34.49 % de descuento'
 date: 2020-08-29 14:19:05
-image: 'https://m.media-amazon.com/images/I/41yZCcllz7L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41yZCcllz7L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.37'
 
 Ahora mismo tienes [bmerch Ltd. Hermanos Star Trek: USS Enterprise abrebotellas](https://www.amazon.es/dp/B002CEM7QM/?tag=tolees-21) a 16.37 EUR (original: 24.99 EUR) (34.49 %  de descuento) en el siguiente enlace!
 
-[![bmerch Ltd. Hermanos Star Trek: USS Ente](https://m.media-amazon.com/images/I/41yZCcllz7L._SL200_.jpg)](https://www.amazon.es/dp/B002CEM7QM/?tag=tolees-21)
+[![bmerch Ltd. Hermanos Star Trek: USS Ente](https://m.media-amazon.com/images/I/41yZCcllz7L._SL400_.jpg)](https://www.amazon.es/dp/B002CEM7QM/?tag=tolees-21)
 
 🔎:
 

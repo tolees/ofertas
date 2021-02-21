@@ -2,7 +2,7 @@
 layout: post
 title: 'Jabón Facial Limpiador Micelar 4 en 1 -  al 55.69 % de descuento'
 date: 2020-06-26 10:46:00
-image: 'https://m.media-amazon.com/images/I/314oakctHgL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/314oakctHgL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.63'
 
 Ahora mismo tienes [Jabón Facial Limpiador Micelar 4 en 1 - UNISEX - Ingredientes Naturales Y Ecológicos por Mediterranean Spirit](https://www.amazon.es/dp/B07V2J7KNM/?tag=tolees-21) a 10.63 EUR (original: 23.99 EUR) (55.69 %  de descuento) en el siguiente enlace!
 
-[![Jabón Facial Limpiador Micelar 4 en 1 - ](https://m.media-amazon.com/images/I/314oakctHgL._SL200_.jpg)](https://www.amazon.es/dp/B07V2J7KNM/?tag=tolees-21)
+[![Jabón Facial Limpiador Micelar 4 en 1 - ](https://m.media-amazon.com/images/I/314oakctHgL._SL400_.jpg)](https://www.amazon.es/dp/B07V2J7KNM/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Guess Reloj Analógico para Mujer de Cuar al 39.55 % de rebaja'
 date: 2020-09-13 00:52:24
-image: 'https://m.media-amazon.com/images/I/41yghCM283L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41yghCM283L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '83.29333333333334'
 
 Tienes [Guess Reloj Analógico para Mujer de Cuarzo con Correa en Acero W1148L1](https://www.amazon.es/dp/B07GS5SX64/?tag=tolees-21) con precio final de  87.69 EUR (original: 145.06 EUR) (39.55 %  de rebaja) aqui!
 
-[![Guess Reloj Analógico para Mujer de Cuar](https://m.media-amazon.com/images/I/41yghCM283L._SL200_.jpg)](https://www.amazon.es/dp/B07GS5SX64/?tag=tolees-21)
+[![Guess Reloj Analógico para Mujer de Cuar](https://m.media-amazon.com/images/I/41yghCM283L._SL400_.jpg)](https://www.amazon.es/dp/B07GS5SX64/?tag=tolees-21)
 
 🔎:
 

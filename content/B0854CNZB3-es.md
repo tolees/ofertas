@@ -2,7 +2,7 @@
 layout: post
 title: 'CE-Link para Funda Xiaomi Redmi Note 8T  con un 37.55 % de descuento'
 date: 2020-05-30 06:00:39
-image: 'https://m.media-amazon.com/images/I/416i1GK-79L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/416i1GK-79L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.99'
 
 En este momento está [CE-Link para Funda Xiaomi Redmi Note 8T Carcasa Fundas 360 Grados 3 en 1 Desmontable Ultra-Delgado Anti-Arañazos Case Protectora - Rojo + Negro](https://www.amazon.es/dp/B0854CNZB3/?tag=tolees-21) a 4.99 EUR (original: 7.99 EUR) (37.55 %  de descuento) en el siguiente enlace!
 
-[![CE-Link para Funda Xiaomi Redmi Note 8T ](https://m.media-amazon.com/images/I/416i1GK-79L._SL200_.jpg)](https://www.amazon.es/dp/B0854CNZB3/?tag=tolees-21)
+[![CE-Link para Funda Xiaomi Redmi Note 8T ](https://m.media-amazon.com/images/I/416i1GK-79L._SL400_.jpg)](https://www.amazon.es/dp/B0854CNZB3/?tag=tolees-21)
 
 🔎:
 

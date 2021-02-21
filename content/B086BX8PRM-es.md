@@ -2,7 +2,7 @@
 layout: post
 title: 'Oihxse Funda Compatible con Huawei Nova  con un 27.32 % de descuento'
 date: 2020-04-30 13:02:55
-image: 'https://m.media-amazon.com/images/I/41XT7TDVtNL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41XT7TDVtNL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.98'
 
 En este momento está [Oihxse Funda Compatible con Huawei Nova 5/Nova 5 Pro  Carcasa Transparente TPU Silicona Gel Ultra Fina Suave Protección Flexible Lindo Dibujos Anti-rasguños Caso Cubierta  A9 ](https://www.amazon.es/dp/B086BX8PRM/?tag=tolees-21) a 7.98 EUR (original: 10.98 EUR) (27.32 %  de descuento) en el siguiente enlace!
 
-[![Oihxse Funda Compatible con Huawei Nova ](https://m.media-amazon.com/images/I/41XT7TDVtNL._SL200_.jpg)](https://www.amazon.es/dp/B086BX8PRM/?tag=tolees-21)
+[![Oihxse Funda Compatible con Huawei Nova ](https://m.media-amazon.com/images/I/41XT7TDVtNL._SL400_.jpg)](https://www.amazon.es/dp/B086BX8PRM/?tag=tolees-21)
 
 🔎:
 

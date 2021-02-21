@@ -2,7 +2,7 @@
 layout: post
 title: 'STANLEY 4-18-298 - Juego de 3 cinceles d al 34.71 % de rebaja'
 date: 2020-05-04 08:04:55
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41X9dmwBnBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41X9dmwBnBL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.9'
 
 Tienes [STANLEY 4-18-298 - Juego de 3 cinceles de albanil](https://www.amazon.es/dp/B000X29DSA/?tag=tolees-21) con precio final de  7.9 EUR (original: 12.1 EUR) (34.71 %  de rebaja) aqui!
 
-[![STANLEY 4-18-298 - Juego de 3 cinceles d](https://images-eu.ssl-images-amazon.com/images/I/41X9dmwBnBL._SL200_.jpg)](https://www.amazon.es/dp/B000X29DSA/?tag=tolees-21)
+[![STANLEY 4-18-298 - Juego de 3 cinceles d](https://images-eu.ssl-images-amazon.com/images/I/41X9dmwBnBL._SL400_.jpg)](https://www.amazon.es/dp/B000X29DSA/?tag=tolees-21)
 
 🔎:
 

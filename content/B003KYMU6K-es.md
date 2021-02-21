@@ -2,7 +2,7 @@
 layout: post
 title: 'Kyocera 1T02LZ0NL0 - Tóner TK 170/FS1320 al 44.23 % de descuento'
 date: 2020-03-10 05:31:59
-image: 'https://m.media-amazon.com/images/I/41Sj-ztD1YL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Sj-ztD1YL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '72.5'
 
 Está [Kyocera 1T02LZ0NL0 - Tóner TK 170/FS1320/1370  color negro](https://www.amazon.es/dp/B003KYMU6K/?tag=tolees-21) con 44.23 de descuento por 72.5 EUR (original: 130.0 EUR) en el siguiente enlace!
 
-[![Kyocera 1T02LZ0NL0 - Tóner TK 170/FS1320](https://m.media-amazon.com/images/I/41Sj-ztD1YL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B003KYMU6K/?tag=tolees-21)
+[![Kyocera 1T02LZ0NL0 - Tóner TK 170/FS1320](https://m.media-amazon.com/images/I/41Sj-ztD1YL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B003KYMU6K/?tag=tolees-21)
 
 ℹ️:
 

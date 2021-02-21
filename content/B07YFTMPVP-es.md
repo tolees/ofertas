@@ -2,7 +2,7 @@
 layout: post
 title: 'COOAU 4K Camara Deportiva cámara Web 20M al 33.34 % de descuento'
 date: 2020-05-06 11:55:23
-image: 'https://m.media-amazon.com/images/I/51iNnRjsubL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51iNnRjsubL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '55.03761904761905'
 
 Ahora mismo tienes [COOAU 4K Camara Deportiva cámara Web 20MP WiFi Underwater 40M Puede usarse como. con Control Remoto y micrófono Externo Cámara de Casco de estabilización EIS con baterías 2X1200mAh y 20 Accesorios](https://www.amazon.es/dp/B07YFTMPVP/?tag=tolees-21) a 59.99 EUR (original: 89.99 EUR) (33.34 %  de descuento) en el siguiente enlace!
 
-[![COOAU 4K Camara Deportiva cámara Web 20M](https://m.media-amazon.com/images/I/51iNnRjsubL._SL200_.jpg)](https://www.amazon.es/dp/B07YFTMPVP/?tag=tolees-21)
+[![COOAU 4K Camara Deportiva cámara Web 20M](https://m.media-amazon.com/images/I/51iNnRjsubL._SL400_.jpg)](https://www.amazon.es/dp/B07YFTMPVP/?tag=tolees-21)
 
 🔎:
 

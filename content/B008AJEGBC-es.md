@@ -2,7 +2,7 @@
 layout: post
 title: 'New Super Mario Bros 2 con un 34.79 % de descuento'
 date: 2020-09-13 09:51:24
-image: 'https://m.media-amazon.com/images/I/615Zr291F7L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/615Zr291F7L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '35.71272727272728'
 
 En este momento está [New Super Mario Bros 2](https://www.amazon.es/dp/B008AJEGBC/?tag=tolees-21) a 29.99 EUR (original: 45.99 EUR) (34.79 %  de descuento) en el siguiente enlace!
 
-[![New Super Mario Bros 2](https://m.media-amazon.com/images/I/615Zr291F7L._SL200_.jpg)](https://www.amazon.es/dp/B008AJEGBC/?tag=tolees-21)
+[![New Super Mario Bros 2](https://m.media-amazon.com/images/I/615Zr291F7L._SL400_.jpg)](https://www.amazon.es/dp/B008AJEGBC/?tag=tolees-21)
 
 🔎:
 

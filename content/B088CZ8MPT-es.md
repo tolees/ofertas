@@ -2,7 +2,7 @@
 layout: post
 title: 'LIDIWEE Web Cámara de Video de HD con Mi con un 26.68 % de descuento'
 date: 2020-06-12 02:11:02
-image: 'https://m.media-amazon.com/images/I/41gQFtZBXQL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41gQFtZBXQL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.99'
 
 En este momento está [LIDIWEE Web Cámara de Video de HD con Micrófono Incorporado Cámara de PC Giratoria de 360 Grados para Computadora Portátil O de Escritorio Cámara de Computadora para Videollamadas Y Clase de](https://www.amazon.es/dp/B088CZ8MPT/?tag=tolees-21) a 10.99 EUR (original: 14.99 EUR) (26.68 %  de descuento) en el siguiente enlace!
 
-[![LIDIWEE Web Cámara de Video de HD con Mi](https://m.media-amazon.com/images/I/41gQFtZBXQL._SL200_.jpg)](https://www.amazon.es/dp/B088CZ8MPT/?tag=tolees-21)
+[![LIDIWEE Web Cámara de Video de HD con Mi](https://m.media-amazon.com/images/I/41gQFtZBXQL._SL400_.jpg)](https://www.amazon.es/dp/B088CZ8MPT/?tag=tolees-21)
 
 🔎:
 

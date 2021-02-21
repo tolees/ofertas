@@ -2,7 +2,7 @@
 layout: post
 title: 'STANLEY FATMAX FME720-QS - Ingletadora t al 30.17 % de descuento'
 date: 2020-03-19 20:19:48
-image: 'https://m.media-amazon.com/images/I/51vEGR0XzyL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51vEGR0XzyL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '279.3'
 
 Está [STANLEY FATMAX FME720-QS - Ingletadora telescópica 2.000W  Ø disco 255mm  bisel 47°](https://www.amazon.es/dp/B0160ROO6M/?tag=tolees-21) con 30.17 de descuento por 279.3 EUR (original: 399.99 EUR) en el siguiente enlace!
 
-[![STANLEY FATMAX FME720-QS - Ingletadora t](https://m.media-amazon.com/images/I/51vEGR0XzyL._SL200_.jpg)](https://www.amazon.es/dp/B0160ROO6M/?tag=tolees-21)
+[![STANLEY FATMAX FME720-QS - Ingletadora t](https://m.media-amazon.com/images/I/51vEGR0XzyL._SL400_.jpg)](https://www.amazon.es/dp/B0160ROO6M/?tag=tolees-21)
 
 ℹ️:
 

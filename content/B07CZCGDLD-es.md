@@ -2,7 +2,7 @@
 layout: post
 title: 'ieGeek Reproductor de DVD rosso N al 26.28 % de descuento'
 date: 2020-07-13 01:26:18
-image: 'https://m.media-amazon.com/images/I/51f0Qqr63UL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51f0Qqr63UL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '58.35'
 
 Ahora mismo tienes [ieGeek Reproductor de DVD rosso N](https://www.amazon.es/dp/B07CZCGDLD/?tag=tolees-21) a 58.35 EUR (original: 79.15 EUR) (26.28 %  de descuento) en el siguiente enlace!
 
-[![ieGeek Reproductor de DVD rosso N](https://m.media-amazon.com/images/I/51f0Qqr63UL._SL200_.jpg)](https://www.amazon.es/dp/B07CZCGDLD/?tag=tolees-21)
+[![ieGeek Reproductor de DVD rosso N](https://m.media-amazon.com/images/I/51f0Qqr63UL._SL400_.jpg)](https://www.amazon.es/dp/B07CZCGDLD/?tag=tolees-21)
 
 🔎:
 

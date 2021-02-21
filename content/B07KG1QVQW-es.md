@@ -2,7 +2,7 @@
 layout: post
 title: 'PUMA Speed Orbiter  Zapatillas de Runnin al 61.63 % de descuento'
 date: 2020-01-02 18:36:58
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51844JlFY2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51844JlFY2L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '57.53'
 
 Está [PUMA Speed Orbiter  Zapatillas de Running para Hombre  High Rise-Blue Turquoise  45 EU](https://www.amazon.es/dp/B07KG1QVQW/?tag=tolees-21) con 61.63 de descuento por 57.53 EUR (original: 149.95 EUR) en el siguiente enlace!
 
-[![PUMA Speed Orbiter  Zapatillas de Runnin](https://images-eu.ssl-images-amazon.com/images/I/51844JlFY2L._SL200_.jpg)](https://www.amazon.es/dp/B07KG1QVQW/?tag=tolees-21)
+[![PUMA Speed Orbiter  Zapatillas de Runnin](https://images-eu.ssl-images-amazon.com/images/I/51844JlFY2L._SL400_.jpg)](https://www.amazon.es/dp/B07KG1QVQW/?tag=tolees-21)
 
 ℹ️:
 

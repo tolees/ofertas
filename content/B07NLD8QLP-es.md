@@ -2,7 +2,7 @@
 layout: post
 title: 'Nike Revolution 5  Zapatillas de Atletis con un 40.03 % de descuento'
 date: 2020-05-11 19:03:31
-image: 'https://m.media-amazon.com/images/I/41bB8+TFmnL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41bB8+TFmnL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '32.95'
 
 En este momento está [Nike Revolution 5  Zapatillas de Atletismo para Hombre  Azul  Midnight Navy White Dark Obsidian   40 EU](https://www.amazon.es/dp/B07NLD8QLP/?tag=tolees-21) a 32.95 EUR (original: 54.94 EUR) (40.03 %  de descuento) en el siguiente enlace!
 
-[![Nike Revolution 5  Zapatillas de Atletis](https://m.media-amazon.com/images/I/41bB8+TFmnL._SL200_.jpg)](https://www.amazon.es/dp/B07NLD8QLP/?tag=tolees-21)
+[![Nike Revolution 5  Zapatillas de Atletis](https://m.media-amazon.com/images/I/41bB8+TFmnL._SL400_.jpg)](https://www.amazon.es/dp/B07NLD8QLP/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 59.42 % en Under Armour Classic Mesh Gorra  Hombre '
 date: 2020-02-17 10:52:05
-image: 'https://m.media-amazon.com/images/I/3139eMyzlqL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/3139eMyzlqL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.55'
 
 Tienes [Under Armour Classic Mesh Gorra  Hombre  Blanco  L/XL](https://www.amazon.es/dp/B0725QTHLG/?tag=tolees-21) con un 59.42 % de descuento con precio de oferta de 10.55 EUR (original: 26.0 EUR) en el siguiente enlace!
 
-[![Under Armour Classic Mesh Gorra  Hombre ](https://m.media-amazon.com/images/I/3139eMyzlqL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B0725QTHLG/?tag=tolees-21)
+[![Under Armour Classic Mesh Gorra  Hombre ](https://m.media-amazon.com/images/I/3139eMyzlqL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B0725QTHLG/?tag=tolees-21)
 
 ℹ️:
 

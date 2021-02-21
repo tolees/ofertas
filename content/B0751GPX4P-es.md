@@ -2,7 +2,7 @@
 layout: post
 title: 'VEGAS Pro 15 al 25.00 % de rebaja'
 date: 2020-06-19 13:33:36
-image: 'https://m.media-amazon.com/images/I/41I8Es00V4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41I8Es00V4L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '59.99'
 
 Tienes [VEGAS Pro 15](https://www.amazon.es/dp/B0751GPX4P/?tag=tolees-21) con precio final de  59.99 EUR (original: 79.99 EUR) (25.00 %  de rebaja) aqui!
 
-[![VEGAS Pro 15](https://m.media-amazon.com/images/I/41I8Es00V4L._SL200_.jpg)](https://www.amazon.es/dp/B0751GPX4P/?tag=tolees-21)
+[![VEGAS Pro 15](https://m.media-amazon.com/images/I/41I8Es00V4L._SL400_.jpg)](https://www.amazon.es/dp/B0751GPX4P/?tag=tolees-21)
 
 🔎:
 

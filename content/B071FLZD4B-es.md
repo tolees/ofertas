@@ -2,7 +2,7 @@
 layout: post
 title: 'Far Cry 5 al 44.91 % de rebaja'
 date: 2020-09-05 15:40:54
-image: 'https://m.media-amazon.com/images/I/61QYxgMrHEL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61QYxgMrHEL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.777333333333335'
 
 Tienes [Far Cry 5](https://www.amazon.es/dp/B071FLZD4B/?tag=tolees-21) con precio final de  16.52 EUR (original: 29.99 EUR) (44.91 %  de rebaja) aqui!
 
-[![Far Cry 5](https://m.media-amazon.com/images/I/61QYxgMrHEL._SL200_.jpg)](https://www.amazon.es/dp/B071FLZD4B/?tag=tolees-21)
+[![Far Cry 5](https://m.media-amazon.com/images/I/61QYxgMrHEL._SL400_.jpg)](https://www.amazon.es/dp/B071FLZD4B/?tag=tolees-21)
 
 🔎:
 

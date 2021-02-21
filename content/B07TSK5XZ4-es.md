@@ -2,7 +2,7 @@
 layout: post
 title: 'Max Factor Mattitude Powder. Polvos bron al 36.70 % de rebaja'
 date: 2020-01-22 18:52:32
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31jpRavvGwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31jpRavvGwL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.95'
 
 Tienes [Max Factor Mattitude Powder. Polvos bronceadores Tono 001 - 15 gr](https://www.amazon.es/dp/B07TSK5XZ4/?tag=tolees-21) con precio final de  5.95 EUR (original: 9.4 EUR) (36.70 %  de rebaja) aqui!
 
-[![Max Factor Mattitude Powder. Polvos bron](https://images-eu.ssl-images-amazon.com/images/I/31jpRavvGwL._SL200_.jpg)](https://www.amazon.es/dp/B07TSK5XZ4/?tag=tolees-21)
+[![Max Factor Mattitude Powder. Polvos bron](https://images-eu.ssl-images-amazon.com/images/I/31jpRavvGwL._SL400_.jpg)](https://www.amazon.es/dp/B07TSK5XZ4/?tag=tolees-21)
 
 🔎:
 

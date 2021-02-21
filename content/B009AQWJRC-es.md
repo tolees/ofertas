@@ -2,7 +2,7 @@
 layout: post
 title: 'Essie Esmalte de Uñas  Tono: 009 Vanity  al 59.92 % de rebaja'
 date: 2020-08-13 13:55:25
-image: 'https://m.media-amazon.com/images/I/311mFi4gGpL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/311mFi4gGpL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.192'
 
 Tienes [Essie Esmalte de Uñas  Tono: 009 Vanity Fairest](https://www.amazon.es/dp/B009AQWJRC/?tag=tolees-21) con precio final de  4.79 EUR (original: 11.95 EUR) (59.92 %  de rebaja) aqui!
 
-[![Essie Esmalte de Uñas  Tono: 009 Vanity ](https://m.media-amazon.com/images/I/311mFi4gGpL._SL200_.jpg)](https://www.amazon.es/dp/B009AQWJRC/?tag=tolees-21)
+[![Essie Esmalte de Uñas  Tono: 009 Vanity ](https://m.media-amazon.com/images/I/311mFi4gGpL._SL400_.jpg)](https://www.amazon.es/dp/B009AQWJRC/?tag=tolees-21)
 
 🔎:
 

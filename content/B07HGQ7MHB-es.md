@@ -2,7 +2,7 @@
 layout: post
 title: 'UMI. Essentials Marco de Fotos 15 x 10 c al 34.75 % de descuento'
 date: 2020-02-25 07:05:55
-image: 'https://m.media-amazon.com/images/I/51D3HdMtyVL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51D3HdMtyVL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.79'
 
 Ahora mismo tienes [UMI. Essentials Marco de Fotos 15 x 10 cm Set de 12  Negro](https://www.amazon.es/dp/B07HGQ7MHB/?tag=tolees-21) a 24.79 EUR (original: 37.99 EUR) (34.75 %  de descuento) en el siguiente enlace!
 
-[![UMI. Essentials Marco de Fotos 15 x 10 c](https://m.media-amazon.com/images/I/51D3HdMtyVL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07HGQ7MHB/?tag=tolees-21)
+[![UMI. Essentials Marco de Fotos 15 x 10 c](https://m.media-amazon.com/images/I/51D3HdMtyVL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07HGQ7MHB/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Superdry Classic Superstate S/s Polo  Az al 40.01 % de rebaja'
 date: 2020-07-22 21:55:42
-image: 'https://m.media-amazon.com/images/I/41DrwvO521L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41DrwvO521L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '33.39'
 
 Tienes [Superdry Classic Superstate S/s Polo  Azul  Eclipse Navy 98t   L para Hombre](https://www.amazon.es/dp/B07TQTW714/?tag=tolees-21) con precio final de  32.99 EUR (original: 54.99 EUR) (40.01 %  de rebaja) aqui!
 
-[![Superdry Classic Superstate S/s Polo  Az](https://m.media-amazon.com/images/I/41DrwvO521L._SL200_.jpg)](https://www.amazon.es/dp/B07TQTW714/?tag=tolees-21)
+[![Superdry Classic Superstate S/s Polo  Az](https://m.media-amazon.com/images/I/41DrwvO521L._SL400_.jpg)](https://www.amazon.es/dp/B07TQTW714/?tag=tolees-21)
 
 🔎:
 

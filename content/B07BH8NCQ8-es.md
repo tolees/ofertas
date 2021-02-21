@@ -2,7 +2,7 @@
 layout: post
 title: 'Maizena Shaker Tortitas - 215 gr con un 49.75 % de descuento'
 date: 2020-05-22 18:38:33
-image: 'https://m.media-amazon.com/images/I/41-Dv5EQOlL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41-Dv5EQOlL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.09875'
 
 En este momento está [Maizena Shaker Tortitas - 215 gr](https://www.amazon.es/dp/B07BH8NCQ8/?tag=tolees-21) a 1.0 EUR (original: 1.99 EUR) (49.75 %  de descuento) en el siguiente enlace!
 
-[![Maizena Shaker Tortitas - 215 gr](https://m.media-amazon.com/images/I/41-Dv5EQOlL._SL200_.jpg)](https://www.amazon.es/dp/B07BH8NCQ8/?tag=tolees-21)
+[![Maizena Shaker Tortitas - 215 gr](https://m.media-amazon.com/images/I/41-Dv5EQOlL._SL400_.jpg)](https://www.amazon.es/dp/B07BH8NCQ8/?tag=tolees-21)
 
 🔎:
 

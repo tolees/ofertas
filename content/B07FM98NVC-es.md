@@ -2,7 +2,7 @@
 layout: post
 title: 'Real Betis - Temporada 2019/2020 - Kappa con un 50.17 % de descuento'
 date: 2020-08-04 13:09:04
-image: 'https://m.media-amazon.com/images/I/31ORX9n9wtL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31ORX9n9wtL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.95'
 
 En este momento está [Real Betis - Temporada 2019/2020 - Kappa - ZOSHI 3  Polo  Hombre  Neutro  L](https://www.amazon.es/dp/B07FM98NVC/?tag=tolees-21) a 14.95 EUR (original: 30.0 EUR) (50.17 %  de descuento) en el siguiente enlace!
 
-[![Real Betis - Temporada 2019/2020 - Kappa](https://m.media-amazon.com/images/I/31ORX9n9wtL._SL200_.jpg)](https://www.amazon.es/dp/B07FM98NVC/?tag=tolees-21)
+[![Real Betis - Temporada 2019/2020 - Kappa](https://m.media-amazon.com/images/I/31ORX9n9wtL._SL400_.jpg)](https://www.amazon.es/dp/B07FM98NVC/?tag=tolees-21)
 
 🔎:
 

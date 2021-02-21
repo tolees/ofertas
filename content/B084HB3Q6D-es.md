@@ -2,7 +2,7 @@
 layout: post
 title: 'Mini Enfriador de Aire Acondicionador de al 42.51 % de descuento'
 date: 2020-06-29 08:27:19
-image: 'https://m.media-amazon.com/images/I/51k8no6Rd9L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51k8no6Rd9L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '45.99'
 
 Está [Mini Enfriador de Aire Acondicionador de Aire Móviles Climatizador Evaporativo Humidificador Portátil Espacio Personal con Temporizador Silencioso 3 Velocidades 7 Colores Luz Ajustable](https://www.amazon.es/dp/B084HB3Q6D/?tag=tolees-21) con 42.51 de descuento por 45.99 EUR (original: 79.99 EUR) en el siguiente enlace!
 
-[![Mini Enfriador de Aire Acondicionador de](https://m.media-amazon.com/images/I/51k8no6Rd9L._SL200_.jpg)](https://www.amazon.es/dp/B084HB3Q6D/?tag=tolees-21)
+[![Mini Enfriador de Aire Acondicionador de](https://m.media-amazon.com/images/I/51k8no6Rd9L._SL400_.jpg)](https://www.amazon.es/dp/B084HB3Q6D/?tag=tolees-21)
 
 ℹ️:
 

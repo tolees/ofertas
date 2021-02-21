@@ -2,7 +2,7 @@
 layout: post
 title: 'Biotherm Biocils Anti-Chute Desmaquillan al 35.21 % de rebaja'
 date: 2020-02-29 20:33:16
-image: 'https://m.media-amazon.com/images/I/31tgNypQiaL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31tgNypQiaL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.19'
 
 Tienes [Biotherm Biocils Anti-Chute Desmaquillante - 100 ml](https://www.amazon.es/dp/B01BLHP4HY/?tag=tolees-21) con precio final de  14.19 EUR (original: 21.9 EUR) (35.21 %  de rebaja) aqui!
 
-[![Biotherm Biocils Anti-Chute Desmaquillan](https://m.media-amazon.com/images/I/31tgNypQiaL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01BLHP4HY/?tag=tolees-21)
+[![Biotherm Biocils Anti-Chute Desmaquillan](https://m.media-amazon.com/images/I/31tgNypQiaL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01BLHP4HY/?tag=tolees-21)
 
 🔎:
 

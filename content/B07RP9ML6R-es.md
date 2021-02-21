@@ -2,7 +2,7 @@
 layout: post
 title: 'HARRY POTTER Set Imanes  Multicolor  18  al 32.70 % de descuento'
 date: 2020-09-22 17:38:40
-image: 'https://m.media-amazon.com/images/I/51YCkPJlyLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51YCkPJlyLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.74'
 
 Está [HARRY POTTER Set Imanes  Multicolor  18 x 24 x 0  3 cm](https://www.amazon.es/dp/B07RP9ML6R/?tag=tolees-21) con 32.70 de descuento por 7.74 EUR (original: 11.5 EUR) en el siguiente enlace!
 
-[![HARRY POTTER Set Imanes  Multicolor  18 ](https://m.media-amazon.com/images/I/51YCkPJlyLL._SL200_.jpg)](https://www.amazon.es/dp/B07RP9ML6R/?tag=tolees-21)
+[![HARRY POTTER Set Imanes  Multicolor  18 ](https://m.media-amazon.com/images/I/51YCkPJlyLL._SL400_.jpg)](https://www.amazon.es/dp/B07RP9ML6R/?tag=tolees-21)
 
 ℹ️:
 

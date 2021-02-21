@@ -2,7 +2,7 @@
 layout: post
 title: 'Trueno Sala con un 34.99 % de descuento'
 date: 2020-02-20 16:32:53
-image: 'https://m.media-amazon.com/images/I/21kmKcHEYXL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21kmKcHEYXL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '28.695'
 
 En este momento está [Trueno Sala](https://www.amazon.es/dp/B07KJ8WBTX/?tag=tolees-21) a 32.44 EUR (original: 49.9 EUR) (34.99 %  de descuento) en el siguiente enlace!
 
-[![Trueno Sala](https://m.media-amazon.com/images/I/21kmKcHEYXL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07KJ8WBTX/?tag=tolees-21)
+[![Trueno Sala](https://m.media-amazon.com/images/I/21kmKcHEYXL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07KJ8WBTX/?tag=tolees-21)
 
 🔎:
 

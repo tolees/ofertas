@@ -2,7 +2,7 @@
 layout: post
 title: 'Camara de Fotos Camara Fotos Full HD 2.7 con un 26.93 % de descuento'
 date: 2020-09-02 11:21:36
-image: 'https://m.media-amazon.com/images/I/51wL0-IZ3vL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51wL0-IZ3vL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '94.99'
 
 En este momento está [Camara de Fotos Camara Fotos Full HD 2.7K C de 30MP para Youtube Camaras de Fotos Digital con Tarjeta de Memoria de 32G y 2 Baterías](https://www.amazon.es/dp/B08FCJ68TW/?tag=tolees-21) a 94.99 EUR (original: 129.99 EUR) (26.93 %  de descuento) en el siguiente enlace!
 
-[![Camara de Fotos Camara Fotos Full HD 2.7](https://m.media-amazon.com/images/I/51wL0-IZ3vL._SL200_.jpg)](https://www.amazon.es/dp/B08FCJ68TW/?tag=tolees-21)
+[![Camara de Fotos Camara Fotos Full HD 2.7](https://m.media-amazon.com/images/I/51wL0-IZ3vL._SL400_.jpg)](https://www.amazon.es/dp/B08FCJ68TW/?tag=tolees-21)
 
 🔎:
 

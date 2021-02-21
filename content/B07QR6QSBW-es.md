@@ -2,7 +2,7 @@
 layout: post
 title: 'Victoria 1915 Doble Lona  Zapatillas par al 59.51 % de descuento'
 date: 2020-03-27 11:25:58
-image: 'https://m.media-amazon.com/images/I/41s5r1KSOVL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41s5r1KSOVL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.79'
 
 Está [Victoria 1915 Doble Lona  Zapatillas para Mujer  Azul  Azul 36   42 EU](https://www.amazon.es/dp/B07QR6QSBW/?tag=tolees-21) con 59.51 de descuento por 15.79 EUR (original: 39.0 EUR) en el siguiente enlace!
 
-[![Victoria 1915 Doble Lona  Zapatillas par](https://m.media-amazon.com/images/I/41s5r1KSOVL._SL200_.jpg)](https://www.amazon.es/dp/B07QR6QSBW/?tag=tolees-21)
+[![Victoria 1915 Doble Lona  Zapatillas par](https://m.media-amazon.com/images/I/41s5r1KSOVL._SL400_.jpg)](https://www.amazon.es/dp/B07QR6QSBW/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Optimum Nutrition Gold Standard Pre Work con un 33.52 % de descuento'
 date: 2020-08-27 06:57:34
-image: 'https://m.media-amazon.com/images/I/41Ma3axfOgL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Ma3axfOgL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.185000000000002'
 
 En este momento está [Optimum Nutrition Gold Standard Pre Workout en Polvo  Bebida Energética con Creatina Monohidratada  Beta Alanina  Cafeína y Vitamina B Complex  Sandía  30 Porciones  330g  Embalaje Puede Variar](https://www.amazon.es/dp/B00TFB0YX8/?tag=tolees-21) a 16.76 EUR (original: 25.21 EUR) (33.52 %  de descuento) en el siguiente enlace!
 
-[![Optimum Nutrition Gold Standard Pre Work](https://m.media-amazon.com/images/I/41Ma3axfOgL._SL200_.jpg)](https://www.amazon.es/dp/B00TFB0YX8/?tag=tolees-21)
+[![Optimum Nutrition Gold Standard Pre Work](https://m.media-amazon.com/images/I/41Ma3axfOgL._SL400_.jpg)](https://www.amazon.es/dp/B00TFB0YX8/?tag=tolees-21)
 
 🔎:
 

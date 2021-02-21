@@ -2,7 +2,7 @@
 layout: post
 title: 'HP Spectre 700 - Ratón Recargable  Bluet con un 25.15 % de descuento'
 date: 2020-06-30 04:45:39
-image: 'https://m.media-amazon.com/images/I/31gVVjhEf2L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31gVVjhEf2L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '51.795'
 
 En este momento está [HP Spectre 700 - Ratón Recargable  Bluetooth  1600 dpi  Desplazamiento en 4 direcciones  11 semanas batería   Color Plata](https://www.amazon.es/dp/B07F94C3JL/?tag=tolees-21) a 39.99 EUR (original: 53.43 EUR) (25.15 %  de descuento) en el siguiente enlace!
 
-[![HP Spectre 700 - Ratón Recargable  Bluet](https://m.media-amazon.com/images/I/31gVVjhEf2L._SL200_.jpg)](https://www.amazon.es/dp/B07F94C3JL/?tag=tolees-21)
+[![HP Spectre 700 - Ratón Recargable  Bluet](https://m.media-amazon.com/images/I/31gVVjhEf2L._SL400_.jpg)](https://www.amazon.es/dp/B07F94C3JL/?tag=tolees-21)
 
 🔎:
 

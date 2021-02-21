@@ -2,7 +2,7 @@
 layout: post
 title: 'K&N PS-7000 filtro de aceite Coche al 36.83 % de descuento'
 date: 2020-09-29 10:17:44
-image: 'https://m.media-amazon.com/images/I/41tz0FO4y1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41tz0FO4y1L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.305'
 
 Ahora mismo tienes [K&N PS-7000 filtro de aceite Coche](https://www.amazon.es/dp/B0067ED2SK/?tag=tolees-21) a 7.34 EUR (original: 11.62 EUR) (36.83 %  de descuento) en el siguiente enlace!
 
-[![K&N PS-7000 filtro de aceite Coche](https://m.media-amazon.com/images/I/41tz0FO4y1L._SL200_.jpg)](https://www.amazon.es/dp/B0067ED2SK/?tag=tolees-21)
+[![K&N PS-7000 filtro de aceite Coche](https://m.media-amazon.com/images/I/41tz0FO4y1L._SL400_.jpg)](https://www.amazon.es/dp/B0067ED2SK/?tag=tolees-21)
 
 🔎:
 

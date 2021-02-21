@@ -2,7 +2,7 @@
 layout: post
 title: 'Familybox Aceitera Botella Antigoteo 400 al 35.02 % de descuento'
 date: 2020-10-08 09:33:13
-image: 'https://m.media-amazon.com/images/I/51QPOHVznrL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51QPOHVznrL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.015'
 
 Está [Familybox Aceitera Botella Antigoteo 400ML  Vinagre Botella de Aceite Oliva Cristal Dispensador con Pico de Acero Inoxi y Cepillo Aceite de Oliva para Cocinar Ensalada BBQ](https://www.amazon.es/dp/B07W21TGVB/?tag=tolees-21) con 35.02 de descuento por 12.99 EUR (original: 19.99 EUR) en el siguiente enlace!
 
-[![Familybox Aceitera Botella Antigoteo 400](https://m.media-amazon.com/images/I/51QPOHVznrL._SL200_.jpg)](https://www.amazon.es/dp/B07W21TGVB/?tag=tolees-21)
+[![Familybox Aceitera Botella Antigoteo 400](https://m.media-amazon.com/images/I/51QPOHVznrL._SL400_.jpg)](https://www.amazon.es/dp/B07W21TGVB/?tag=tolees-21)
 
 ℹ️:
 

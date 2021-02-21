@@ -2,7 +2,7 @@
 layout: post
 title: 'Oihxse Colorido Gradual Cristal Estilo C al 28.61 % de descuento'
 date: 2020-05-17 14:39:39
-image: 'https://m.media-amazon.com/images/I/31stcvPzgWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31stcvPzgWL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.98'
 
 Ahora mismo tienes [Oihxse Colorido Gradual Cristal Estilo Case Compatible con Huawei Y6 Pro 2019/Y6 2019/Honor 8A Funda Vidrio Templado Trasera Carcasa Borde de Silicona Suave Protectora Ultra Fino Anti-arañazos](https://www.amazon.es/dp/B082YQRXVD/?tag=tolees-21) a 9.98 EUR (original: 13.98 EUR) (28.61 %  de descuento) en el siguiente enlace!
 
-[![Oihxse Colorido Gradual Cristal Estilo C](https://m.media-amazon.com/images/I/31stcvPzgWL._SL200_.jpg)](https://www.amazon.es/dp/B082YQRXVD/?tag=tolees-21)
+[![Oihxse Colorido Gradual Cristal Estilo C](https://m.media-amazon.com/images/I/31stcvPzgWL._SL400_.jpg)](https://www.amazon.es/dp/B082YQRXVD/?tag=tolees-21)
 
 🔎:
 

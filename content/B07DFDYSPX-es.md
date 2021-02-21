@@ -2,7 +2,7 @@
 layout: post
 title: 'Funko Pop Doctor Who Figura de Vinilo Mi al 44.94 % de descuento'
 date: 2020-02-23 08:35:25
-image: 'https://m.media-amazon.com/images/I/41D272x6MkL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41D272x6MkL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.0'
 
 Ahora mismo tienes [Funko Pop Doctor Who Figura de Vinilo Missy  Multicolor  32830 ](https://www.amazon.es/dp/B07DFDYSPX/?tag=tolees-21) a 5.5 EUR (original: 9.99 EUR) (44.94 %  de descuento) en el siguiente enlace!
 
-[![Funko Pop Doctor Who Figura de Vinilo Mi](https://m.media-amazon.com/images/I/41D272x6MkL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07DFDYSPX/?tag=tolees-21)
+[![Funko Pop Doctor Who Figura de Vinilo Mi](https://m.media-amazon.com/images/I/41D272x6MkL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07DFDYSPX/?tag=tolees-21)
 
 🔎:
 

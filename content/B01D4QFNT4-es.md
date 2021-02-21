@@ -2,7 +2,7 @@
 layout: post
 title: 'Revell- Modelo Clamp Set  8   Color Negr al 42.18 % de rebaja'
 date: 2020-04-01 19:48:18
-image: 'https://m.media-amazon.com/images/I/51r1GUA5JSL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51r1GUA5JSL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.99'
 
 Tienes [Revell- Modelo Clamp Set  8   Color Negro  39070 ](https://www.amazon.es/dp/B01D4QFNT4/?tag=tolees-21) con precio final de  5.99 EUR (original: 10.36 EUR) (42.18 %  de rebaja) aqui!
 
-[![Revell- Modelo Clamp Set  8   Color Negr](https://m.media-amazon.com/images/I/51r1GUA5JSL._SL200_.jpg)](https://www.amazon.es/dp/B01D4QFNT4/?tag=tolees-21)
+[![Revell- Modelo Clamp Set  8   Color Negr](https://m.media-amazon.com/images/I/51r1GUA5JSL._SL400_.jpg)](https://www.amazon.es/dp/B01D4QFNT4/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Salomon  Xview Access  Máscara de esquí  al 28.34 % de descuento'
 date: 2020-03-18 06:33:17
-image: 'https://m.media-amazon.com/images/I/41WDJWv82GL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41WDJWv82GL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '42.99'
 
 Está [Salomon  Xview Access  Máscara de esquí unisex  Negro-Blanco/Naranja  Universal Tonic   L40518600](https://www.amazon.es/dp/B07DS1FG46/?tag=tolees-21) con 28.34 de descuento por 42.99 EUR (original: 59.99 EUR) en el siguiente enlace!
 
-[![Salomon  Xview Access  Máscara de esquí ](https://m.media-amazon.com/images/I/41WDJWv82GL._SL200_.jpg)](https://www.amazon.es/dp/B07DS1FG46/?tag=tolees-21)
+[![Salomon  Xview Access  Máscara de esquí ](https://m.media-amazon.com/images/I/41WDJWv82GL._SL400_.jpg)](https://www.amazon.es/dp/B07DS1FG46/?tag=tolees-21)
 
 ℹ️:
 

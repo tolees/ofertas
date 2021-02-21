@@ -2,7 +2,7 @@
 layout: post
 title: 'Skechers Women s Sure Track Erath - Ii L al 31.75 % de descuento'
 date: 2020-09-19 23:19:07
-image: 'https://m.media-amazon.com/images/I/31D+NEh5EEL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31D+NEh5EEL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '57.98'
 
 Está [Skechers Women s Sure Track Erath - Ii Lace-up Sneakers  White  White Leather Wht   8 UK  41 EU ](https://www.amazon.es/dp/B0794QQ1GZ/?tag=tolees-21) con 31.75 de descuento por 57.98 EUR (original: 84.95 EUR) en el siguiente enlace!
 
-[![Skechers Women s Sure Track Erath - Ii L](https://m.media-amazon.com/images/I/31D+NEh5EEL._SL200_.jpg)](https://www.amazon.es/dp/B0794QQ1GZ/?tag=tolees-21)
+[![Skechers Women s Sure Track Erath - Ii L](https://m.media-amazon.com/images/I/31D+NEh5EEL._SL400_.jpg)](https://www.amazon.es/dp/B0794QQ1GZ/?tag=tolees-21)
 
 ℹ️:
 

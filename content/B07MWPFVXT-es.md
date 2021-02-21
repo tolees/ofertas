@@ -2,7 +2,7 @@
 layout: post
 title: 'Clarks Emery Sky T  Zapatillas para Niño al 36.34 % de descuento'
 date: 2020-02-03 20:22:36
-image: 'https://m.media-amazon.com/images/I/41oDRSXfQsL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41oDRSXfQsL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '31.8'
 
 Ahora mismo tienes [Clarks Emery Sky T  Zapatillas para Niños  Azul  Navy Leather Navy Leather   24 EU](https://www.amazon.es/dp/B07MWPFVXT/?tag=tolees-21) a 31.8 EUR (original: 49.95 EUR) (36.34 %  de descuento) en el siguiente enlace!
 
-[![Clarks Emery Sky T  Zapatillas para Niño](https://m.media-amazon.com/images/I/41oDRSXfQsL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07MWPFVXT/?tag=tolees-21)
+[![Clarks Emery Sky T  Zapatillas para Niño](https://m.media-amazon.com/images/I/41oDRSXfQsL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07MWPFVXT/?tag=tolees-21)
 
 🔎:
 

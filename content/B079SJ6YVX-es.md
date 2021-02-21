@@ -2,7 +2,7 @@
 layout: post
 title: 'Stretch 06575 Elastigirl - Figura de acc al 28.56 % de descuento'
 date: 2020-07-18 18:16:07
-image: 'https://m.media-amazon.com/images/I/41tF1nVi-gL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41tF1nVi-gL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.53'
 
 Está [Stretch 06575 Elastigirl - Figura de acción](https://www.amazon.es/dp/B079SJ6YVX/?tag=tolees-21) con 28.56 de descuento por 12.53 EUR (original: 17.54 EUR) en el siguiente enlace!
 
-[![Stretch 06575 Elastigirl - Figura de acc](https://m.media-amazon.com/images/I/41tF1nVi-gL._SL200_.jpg)](https://www.amazon.es/dp/B079SJ6YVX/?tag=tolees-21)
+[![Stretch 06575 Elastigirl - Figura de acc](https://m.media-amazon.com/images/I/41tF1nVi-gL._SL400_.jpg)](https://www.amazon.es/dp/B079SJ6YVX/?tag=tolees-21)
 
 ℹ️:
 

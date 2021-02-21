@@ -2,7 +2,7 @@
 layout: post
 title: 'POP! Vinilo - Movies: Beetlejuice al 44.96 % de descuento'
 date: 2020-01-12 14:16:58
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51NmwxLvZmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51NmwxLvZmL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.233333333333333'
 
 Está [POP! Vinilo - Movies: Beetlejuice](https://www.amazon.es/dp/B004GFR4X6/?tag=tolees-21) con 44.96 de descuento por 8.25 EUR (original: 14.99 EUR) en el siguiente enlace!
 
-[![POP! Vinilo - Movies: Beetlejuice](https://images-eu.ssl-images-amazon.com/images/I/51NmwxLvZmL._SL200_.jpg)](https://www.amazon.es/dp/B004GFR4X6/?tag=tolees-21)
+[![POP! Vinilo - Movies: Beetlejuice](https://images-eu.ssl-images-amazon.com/images/I/51NmwxLvZmL._SL400_.jpg)](https://www.amazon.es/dp/B004GFR4X6/?tag=tolees-21)
 
 ℹ️:
 

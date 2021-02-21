@@ -2,7 +2,7 @@
 layout: post
 title: 'Superga 2750-cotu Classic  Zapatillas de al 48.14 % de rebaja'
 date: 2020-01-31 21:51:36
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41NMuve%2BT%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41NMuve%2BT%2BL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '30.6'
 
 Tienes [Superga 2750-cotu Classic  Zapatillas de Gimnasia Unisex Adulto  Blau  Blue MD Sapphire Q16   42 EU](https://www.amazon.es/dp/B07F834WSP/?tag=tolees-21) con precio final de  30.6 EUR (original: 59 EUR) (48.14 %  de rebaja) aqui!
 
-[![Superga 2750-cotu Classic  Zapatillas de](https://images-eu.ssl-images-amazon.com/images/I/41NMuve%2BT%2BL._SL200_.jpg)](https://www.amazon.es/dp/B07F834WSP/?tag=tolees-21)
+[![Superga 2750-cotu Classic  Zapatillas de](https://images-eu.ssl-images-amazon.com/images/I/41NMuve%2BT%2BL._SL400_.jpg)](https://www.amazon.es/dp/B07F834WSP/?tag=tolees-21)
 
 🔎:
 

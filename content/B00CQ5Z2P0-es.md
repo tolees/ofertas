@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 27.22 % en Revlon Super Lustrous Pintalabios Tono 2'
 date: 2020-03-08 10:23:24
-image: 'https://m.media-amazon.com/images/I/31MQczTC63L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31MQczTC63L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.99'
 
 Tienes [Revlon Super Lustrous Pintalabios Tono 25 Lovers Coral - 3.7 gr](https://www.amazon.es/dp/B00CQ5Z2P0/?tag=tolees-21) con un 27.22 % de descuento con precio de oferta de 5.99 EUR (original: 8.23 EUR) en el siguiente enlace!
 
-[![Revlon Super Lustrous Pintalabios Tono 2](https://m.media-amazon.com/images/I/31MQczTC63L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B00CQ5Z2P0/?tag=tolees-21)
+[![Revlon Super Lustrous Pintalabios Tono 2](https://m.media-amazon.com/images/I/31MQczTC63L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B00CQ5Z2P0/?tag=tolees-21)
 
 ℹ️:
 

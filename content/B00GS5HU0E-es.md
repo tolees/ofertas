@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 25.81 % en Adidas Terrex Swift Solo  Zapatillas de '
 date: 2020-03-10 18:02:25
-image: 'https://m.media-amazon.com/images/I/31+-EQnHMwL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31+-EQnHMwL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '74.0'
 
 Tienes [Adidas Terrex Swift Solo  Zapatillas de Deporte Exterior Unisex Adulto  Negro  Black/Black/Lead 0   47 1/3 EU](https://www.amazon.es/dp/B00GS5HU0E/?tag=tolees-21) con un 25.81 % de descuento con precio de oferta de 74.0 EUR (original: 99.74 EUR) en el siguiente enlace!
 
-[![Adidas Terrex Swift Solo  Zapatillas de ](https://m.media-amazon.com/images/I/31+-EQnHMwL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B00GS5HU0E/?tag=tolees-21)
+[![Adidas Terrex Swift Solo  Zapatillas de ](https://m.media-amazon.com/images/I/31+-EQnHMwL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B00GS5HU0E/?tag=tolees-21)
 
 ℹ️:
 

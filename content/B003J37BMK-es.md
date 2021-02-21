@@ -2,7 +2,7 @@
 layout: post
 title: 'Leatherman Style Multi-Tool CS - Black / al 39.22 % de descuento'
 date: 2020-10-09 21:38:50
-image: 'https://m.media-amazon.com/images/I/41fR6W4XHIL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41fR6W4XHIL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '34.43'
 
 Ahora mismo tienes [Leatherman Style Multi-Tool CS - Black / Steel](https://www.amazon.es/dp/B003J37BMK/?tag=tolees-21) a 20.67 EUR (original: 34.01 EUR) (39.22 %  de descuento) en el siguiente enlace!
 
-[![Leatherman Style Multi-Tool CS - Black /](https://m.media-amazon.com/images/I/41fR6W4XHIL._SL200_.jpg)](https://www.amazon.es/dp/B003J37BMK/?tag=tolees-21)
+[![Leatherman Style Multi-Tool CS - Black /](https://m.media-amazon.com/images/I/41fR6W4XHIL._SL400_.jpg)](https://www.amazon.es/dp/B003J37BMK/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'NYX Professional Makeup Pintalabios Soft al 28.26 % de rebaja'
 date: 2020-07-11 13:51:13
-image: 'https://m.media-amazon.com/images/I/31CoJIAHLZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31CoJIAHLZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.95'
 
 Tienes [NYX Professional Makeup Pintalabios Soft Matte Lip Cream  Acabado cremoso mate  Color ultrapigmentado  Larga duración  Fórmula vegana  Tono: Abu Dhabi](https://www.amazon.es/dp/B004LXJOEK/?tag=tolees-21) con precio final de  4.95 EUR (original: 6.9 EUR) (28.26 %  de rebaja) aqui!
 
-[![NYX Professional Makeup Pintalabios Soft](https://m.media-amazon.com/images/I/31CoJIAHLZL._SL200_.jpg)](https://www.amazon.es/dp/B004LXJOEK/?tag=tolees-21)
+[![NYX Professional Makeup Pintalabios Soft](https://m.media-amazon.com/images/I/31CoJIAHLZL._SL400_.jpg)](https://www.amazon.es/dp/B004LXJOEK/?tag=tolees-21)
 
 🔎:
 

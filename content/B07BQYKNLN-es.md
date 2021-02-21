@@ -2,7 +2,7 @@
 layout: post
 title: 'Zapatillas New Balance GS574 Lifestyle C al 50.00 % de descuento'
 date: 2020-03-18 20:28:25
-image: 'https://m.media-amazon.com/images/I/41PYyT4ps3L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41PYyT4ps3L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '39.0'
 
 Ahora mismo tienes [Zapatillas New Balance GS574 Lifestyle Cordon  39 ](https://www.amazon.es/dp/B07BQYKNLN/?tag=tolees-21) a 39.0 EUR (original: 78.0 EUR) (50.00 %  de descuento) en el siguiente enlace!
 
-[![Zapatillas New Balance GS574 Lifestyle C](https://m.media-amazon.com/images/I/41PYyT4ps3L._SL200_.jpg)](https://www.amazon.es/dp/B07BQYKNLN/?tag=tolees-21)
+[![Zapatillas New Balance GS574 Lifestyle C](https://m.media-amazon.com/images/I/41PYyT4ps3L._SL400_.jpg)](https://www.amazon.es/dp/B07BQYKNLN/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 33.33 % en Superligero LED Touch Design Sport Runni'
 date: 2020-07-18 14:31:58
-image: 'https://m.media-amazon.com/images/I/414+A-KfxiL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/414+A-KfxiL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.12'
 
 Tienes [Superligero LED Touch Design Sport Running Pulsera Digital Silicona Suave Smart Digital Wristaband Blanco/Negro/Rojo - Negro](https://www.amazon.es/dp/B08BZH5MXY/?tag=tolees-21) con un 33.33 % de descuento con precio de oferta de 1.12 EUR (original: 1.68 EUR) en el siguiente enlace!
 
-[![Superligero LED Touch Design Sport Runni](https://m.media-amazon.com/images/I/414+A-KfxiL._SL200_.jpg)](https://www.amazon.es/dp/B08BZH5MXY/?tag=tolees-21)
+[![Superligero LED Touch Design Sport Runni](https://m.media-amazon.com/images/I/414+A-KfxiL._SL400_.jpg)](https://www.amazon.es/dp/B08BZH5MXY/?tag=tolees-21)
 
 ℹ️:
 

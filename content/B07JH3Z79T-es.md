@@ -2,7 +2,7 @@
 layout: post
 title: 'Pepe Jeans Jose Pm701939 suéter   Sherwo al 50.00 % de rebaja'
 date: 2020-02-05 21:23:22
-image: 'https://m.media-amazon.com/images/I/41PY1-jL83L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41PY1-jL83L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '32.5'
 
 Tienes [Pepe Jeans Jose Pm701939 suéter   Sherwood 664   Large para Hombre](https://www.amazon.es/dp/B07JH3Z79T/?tag=tolees-21) con precio final de  32.5 EUR (original: 65.0 EUR) (50.00 %  de rebaja) aqui!
 
-[![Pepe Jeans Jose Pm701939 suéter   Sherwo](https://m.media-amazon.com/images/I/41PY1-jL83L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07JH3Z79T/?tag=tolees-21)
+[![Pepe Jeans Jose Pm701939 suéter   Sherwo](https://m.media-amazon.com/images/I/41PY1-jL83L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07JH3Z79T/?tag=tolees-21)
 
 🔎:
 

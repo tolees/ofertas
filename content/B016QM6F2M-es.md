@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger New ALY Belt Cinturón  Br al 37.37 % de descuento'
 date: 2020-07-06 18:11:56
-image: 'https://m.media-amazon.com/images/I/31a-4NAQ7AL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31a-4NAQ7AL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.99'
 
 Ahora mismo tienes [Tommy Hilfiger New ALY Belt Cinturón  Braun  DARK TAN 257   100 cm para Hombre](https://www.amazon.es/dp/B016QM6F2M/?tag=tolees-21) a 24.99 EUR (original: 39.9 EUR) (37.37 %  de descuento) en el siguiente enlace!
 
-[![Tommy Hilfiger New ALY Belt Cinturón  Br](https://m.media-amazon.com/images/I/31a-4NAQ7AL._SL200_.jpg)](https://www.amazon.es/dp/B016QM6F2M/?tag=tolees-21)
+[![Tommy Hilfiger New ALY Belt Cinturón  Br](https://m.media-amazon.com/images/I/31a-4NAQ7AL._SL400_.jpg)](https://www.amazon.es/dp/B016QM6F2M/?tag=tolees-21)
 
 🔎:
 

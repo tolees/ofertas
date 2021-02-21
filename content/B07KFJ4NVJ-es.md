@@ -2,7 +2,7 @@
 layout: post
 title: 'Adidas Runfalcon Zapatillas de trail run al 31.95 % de rebaja'
 date: 2020-01-29 12:18:35
-image: 'https://m.media-amazon.com/images/I/41tR9+ty6bL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41tR9+ty6bL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '33.99'
 
 Tienes [Adidas Runfalcon Zapatillas de trail running Hombre  Blanco  Ftwbla/Ftwbla/Ftwbla 000   42 2/3 EU](https://www.amazon.es/dp/B07KFJ4NVJ/?tag=tolees-21) con precio final de  33.99 EUR (original: 49.95 EUR) (31.95 %  de rebaja) aqui!
 
-[![Adidas Runfalcon Zapatillas de trail run](https://m.media-amazon.com/images/I/41tR9+ty6bL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07KFJ4NVJ/?tag=tolees-21)
+[![Adidas Runfalcon Zapatillas de trail run](https://m.media-amazon.com/images/I/41tR9+ty6bL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07KFJ4NVJ/?tag=tolees-21)
 
 🔎:
 

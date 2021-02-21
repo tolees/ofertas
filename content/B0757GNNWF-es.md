@@ -2,7 +2,7 @@
 layout: post
 title: 'URCERI Telémetro Láser 60m  Medidor Láse al 40.01 % de descuento'
 date: 2020-01-23 13:51:06
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51cMxqTKFcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51cMxqTKFcL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '22.07'
 
 Ahora mismo tienes [URCERI Telémetro Láser 60m  Medidor Láser de Distancia，precisión ±2mm  Impermeabilidad IP54  Niveles de Burbuja  Medición de Distancia  Área  Volumen  Continua  Pitágoras  Modelo Mudo  Suma/Resta](https://www.amazon.es/dp/B0757GNNWF/?tag=tolees-21) a 23.99 EUR (original: 39.99 EUR) (40.01 %  de descuento) en el siguiente enlace!
 
-[![URCERI Telémetro Láser 60m  Medidor Láse](https://images-eu.ssl-images-amazon.com/images/I/51cMxqTKFcL._SL200_.jpg)](https://www.amazon.es/dp/B0757GNNWF/?tag=tolees-21)
+[![URCERI Telémetro Láser 60m  Medidor Láse](https://images-eu.ssl-images-amazon.com/images/I/51cMxqTKFcL._SL400_.jpg)](https://www.amazon.es/dp/B0757GNNWF/?tag=tolees-21)
 
 🔎:
 

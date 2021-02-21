@@ -2,7 +2,7 @@
 layout: post
 title: 'KIWI design Oculus Quest/Oculus Rift Cor al 31.83 % de rebaja'
 date: 2020-05-14 17:03:47
-image: 'https://m.media-amazon.com/images/I/41nePeqn3+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41nePeqn3+L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.32333333333333'
 
 Tienes [KIWI design Oculus Quest/Oculus Rift Correa Ajustable para la Cabeza Head Strap para Reducir la Presión  Accesorios para Auriculares VR  Cuero de PU Cómodo  Negro ](https://www.amazon.es/dp/B081V8W4ZQ/?tag=tolees-21) con precio final de  14.99 EUR (original: 21.99 EUR) (31.83 %  de rebaja) aqui!
 
-[![KIWI design Oculus Quest/Oculus Rift Cor](https://m.media-amazon.com/images/I/41nePeqn3+L._SL200_.jpg)](https://www.amazon.es/dp/B081V8W4ZQ/?tag=tolees-21)
+[![KIWI design Oculus Quest/Oculus Rift Cor](https://m.media-amazon.com/images/I/41nePeqn3+L._SL400_.jpg)](https://www.amazon.es/dp/B081V8W4ZQ/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Kelme - Zapatillas Precision con un 42.78 % de descuento'
 date: 2020-05-04 08:34:42
-image: 'https://m.media-amazon.com/images/I/213Pfd9EOgL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/213Pfd9EOgL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.725'
 
 En este momento está [Kelme - Zapatillas Precision](https://www.amazon.es/dp/B072C5TQ3V/?tag=tolees-21) a 20.0 EUR (original: 34.95 EUR) (42.78 %  de descuento) en el siguiente enlace!
 
-[![Kelme - Zapatillas Precision](https://m.media-amazon.com/images/I/213Pfd9EOgL._SL200_.jpg)](https://www.amazon.es/dp/B072C5TQ3V/?tag=tolees-21)
+[![Kelme - Zapatillas Precision](https://m.media-amazon.com/images/I/213Pfd9EOgL._SL400_.jpg)](https://www.amazon.es/dp/B072C5TQ3V/?tag=tolees-21)
 
 🔎:
 

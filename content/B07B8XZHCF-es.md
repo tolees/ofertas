@@ -2,7 +2,7 @@
 layout: post
 title: 'Purina ProPlan Comida para Gatos Esteril con un 39.10 % de descuento'
 date: 2020-07-29 11:11:48
-image: 'https://m.media-amazon.com/images/I/51U+GcH4JeL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51U+GcH4JeL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.01'
 
 En este momento está [Purina ProPlan Comida para Gatos Esterilizados en Salsa Gato Adulto Buey 24 x 85 g](https://www.amazon.es/dp/B07B8XZHCF/?tag=tolees-21) a 12.01 EUR (original: 19.72 EUR) (39.10 %  de descuento) en el siguiente enlace!
 
-[![Purina ProPlan Comida para Gatos Esteril](https://m.media-amazon.com/images/I/51U+GcH4JeL._SL200_.jpg)](https://www.amazon.es/dp/B07B8XZHCF/?tag=tolees-21)
+[![Purina ProPlan Comida para Gatos Esteril](https://m.media-amazon.com/images/I/51U+GcH4JeL._SL400_.jpg)](https://www.amazon.es/dp/B07B8XZHCF/?tag=tolees-21)
 
 🔎:
 
