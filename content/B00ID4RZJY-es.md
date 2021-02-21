@@ -28,9 +28,9 @@ Tienes [Semillas Batlle - Semillas Hortícolas - Tomate Muchamiel - Batlle](http
 
 🔎:
 
-- Siembra: de Febrero a Mayo Cosecha: a partir de 4 / 5 meses
 - El trasplante se realiza a los 60-80 días a un marco de 100x35 cm
 - Variedad de mercado de ciclo medio y excelente productividad. Crecimiento indeterminado y vigorosas. Frutos de color rojo, cuello verde, forma globosa acostillada
 - Forma de cultivo: Cultivo al aire libre. Siembra: Según la zona y ciclo de cultivo deseado va de Diciembre a Mayo
+- Siembra: de Febrero a Mayo Cosecha: a partir de 4 / 5 meses
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00ID4RZJY/?tag=tolees-21)

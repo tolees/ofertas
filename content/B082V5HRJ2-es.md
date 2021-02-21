@@ -28,8 +28,8 @@ Ahora mismo tienes [Canadian Peak Anorak](https://www.amazon.es/dp/B082V5HRJ2/?t
 
 🔎:
 
+- Temperatura máxima 30º. Lavado y aclarado con acción mecánica y centrifugado corto.
 - 100% Poliéster
 - Otoño - Invierno Temporada 2019
-- Temperatura máxima 30º. Lavado y aclarado con acción mecánica y centrifugado corto.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B082V5HRJ2/?tag=tolees-21)

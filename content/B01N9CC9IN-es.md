@@ -28,9 +28,9 @@ Tienes [adidas Vs Pace  Zapatillas Hombre  Azul Collegiate Navy Footwear White B
 
 🔎:
 
-- Membrana GORE-TEX impermeable y transpirable.
 - Cómodo forro textil.
-- Mediasuela de EVA para una amortiguación más ligera y duradera.
+- Membrana GORE-TEX impermeable y transpirable.
 - Suela Traxion para una adherencia óptima en todas las direcciones.
+- Mediasuela de EVA para una amortiguación más ligera y duradera.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01N9CC9IN/?tag=tolees-21)
