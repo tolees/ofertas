@@ -29,9 +29,9 @@ Tienes [L Oreal Paris Dermo Expertise - L Oreal Paris Arcillas Puras y Carbón  
 ℹ️:
 
 - Mascarilla negra de 3 arcillas puras (caolín, montmorillonita y lava de marruecos) y carbón, Para una piel profundamente limpia, fresca y libre de suciedad
-- Aplica 3 veces por semana una fina capa sobre todo el rostro previamente limpio, Evita el contorno de los ojos y los labios, Deja actuar por 10 o 15 minutos y luego retírala con abundante agua tibia
 - Día tras día la piel respira y está visiblemente más bella y radiante, Efecto détox, Tono de piel más luminoso
-- Contenido: 1 x LOréal Paris Mascarilla Arcillas Puras, Color: Negro, Cantidad: 50 ml
 - Combinación de 3 arcillas que limpian intensamente y cuidan de tu piel al mismo tiempo, Apta para todo tipo de pieles, Textura cremosa que no reseca
+- Aplica 3 veces por semana una fina capa sobre todo el rostro previamente limpio, Evita el contorno de los ojos y los labios, Deja actuar por 10 o 15 minutos y luego retírala con abundante agua tibia
+- Contenido: 1 x LOréal Paris Mascarilla Arcillas Puras, Color: Negro, Cantidad: 50 ml
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01LPQ0PXY/?tag=tolees-21)

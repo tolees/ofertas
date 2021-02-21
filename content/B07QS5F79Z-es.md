@@ -28,10 +28,10 @@ Tienes [Asics Classic CT  Sneaker Hombre  Black/White  44 EU](https://www.amazon
 
 🔎:
 
-- Durable
 - Silueta minimalista
-- Plantilla Ortholite
 - Logotipo clásico
 - Piel sintética suave
+- Plantilla Ortholite
+- Durable
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07QS5F79Z/?tag=tolees-21)

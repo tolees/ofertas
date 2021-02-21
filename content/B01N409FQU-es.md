@@ -28,10 +28,10 @@ Tienes [tesa 937013 - Sello adhesivo  Multicolor](https://www.amazon.es/dp/B01N4
 
 🔎:
 
+- Ecológico y sin disolventes: la carcasa es de plástico 100% reciclado, el empaque es de cartón 80% reciclado y el pegamento no contiene disolventes
 - Contenido: 1 x tesa Sello adhesivo - Dimensiones: 10 cm x 17.9 cm x 3.4 cm - Tamaño del sello: 8.4 mm x 8.4 mm
 - Aplicación limpia: el dispensador de pegamento multiusos es perfecto para la fijación de objetos ligeros y para las manualidades con niños - Sin residuos sucios que retirar después de la aplicación
 - tesa Sello adhesivo: una innovadora y nueva forma para pegar papel, cartón, notas y fotos manera confiable y permanente
 - Manipulación rápida y sencilla en el hogar y la oficina: úselo para pegar recibos, vales y tarjetas de visita en el trabajo o para recortes, manualidades o decoración de álbumes de fotos
-- Ecológico y sin disolventes: la carcasa es de plástico 100% reciclado, el empaque es de cartón 80% reciclado y el pegamento no contiene disolventes
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01N409FQU/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Salomon XA Pro 3D V8 GTX  Zapatillas De  al 36.99 % de descuento'
-date: 2021-02-20 07:04:48
+date: 2021-02-21 09:53:08
 image: 'https://m.media-amazon.com/images/I/417qHbofHjL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Ahora mismo tienes [Salomon XA Pro 3D V8 GTX  Zapatillas De Trail Running Y Sand
 
 🔎:
 
+- Salomon
 - Color: Black/Black/Black
 - Xa PRO 3D V8 GTX
-- Salomon
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07WCPZXCH/?tag=tolees-21)
