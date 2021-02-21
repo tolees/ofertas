@@ -28,14 +28,14 @@ En este momento está [Skechers Flex Appeal 3.0-First Insight  Zapatillas Mujer 
 
 🔎:
 
-- Bajo-superior
 - Tipo de tacón: plano.
-- Suela: EVA
-- Material exterior: tela.
-- FLEX APPEAL 3.0 PRIMERA INSIGHT. Malla
-- Anchura del zapato: B (ancho estándar)
 - Cierre: Cordones.
+- Anchura del zapato: B (ancho estándar)
 - Composición del material: sintético.
+- Bajo-superior
+- Suela: EVA
+- FLEX APPEAL 3.0 PRIMERA INSIGHT. Malla
+- Material exterior: tela.
 - Para mujer.
 - Material interior: textil.
 
