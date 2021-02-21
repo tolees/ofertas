@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Electronic Arts - STAR WARS BATTLEFRONT  al 70.03 % de descuento'
-date: 2021-02-14 10:12:10
+date: 2021-02-21 13:02:46
 image: 'https://m.media-amazon.com/images/I/51GtB5GtjoL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Electronic Arts'
 buyurl: 'https://www.amazon.es/dp/B07NC6CZXQ/?tag=tolees-21'
 descuento: '70.03'
-average: '11.77125'
+average: '11.5194117647059'
 ---
 
 Está [Electronic Arts - STAR WARS BATTLEFRONT II - Standard | Código Origin para PC](https://www.amazon.es/dp/B07NC6CZXQ/?tag=tolees-21) con 70.03 de descuento por 7.49 EUR (original: 24.99 EUR) en el siguiente enlace!
