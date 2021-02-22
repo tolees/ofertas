@@ -29,7 +29,7 @@ En este momento está [UGG Female Mini Bailey Bow II Classic Boot  Chestnut  8  
 🔎:
 
 - adulto
-- leather
 - Brown
+- leather
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01E96YFD8/?tag=tolees-21)

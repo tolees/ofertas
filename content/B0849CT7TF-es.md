@@ -1,30 +1,30 @@
 ---
 layout: post
-title: 'Captain Tsubasa: Rise Of New Champions al 35.49 % de descuento'
-date: 2020-08-20 08:17:36
+title: 'BANDAI NAMCO Entertainment Iberica - Cap al 25.01 % de descuento'
+date: 2021-02-22 08:21:07
 image: 'https://m.media-amazon.com/images/I/51rQPLTh2HL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0849CT7TF-es Captain Tsubasa: Rise Of New Champions'
+slug: 'B0849CT7TF-es BANDAI NAMCO Entertainment Iberica - Captain Tsubasa: Rise...'
 sku: 'B0849CT7TF-es'
 tags: [  ]
-actualPrice: 39.99 EUR
+actualPrice: 29.99 EUR
 currency: EUR
-price: 39.99
-comparePrice: 61.99 EUR
-prodname: 'Captain Tsubasa: Rise Of New Champions'
+price: 29.99
+comparePrice: 39.99 EUR
+prodname: 'BANDAI NAMCO Entertainment Iberica - Captain Tsubasa: Rise Of New Champions'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'BANDAI NAMCO Entertainment Iberica'
 buyurl: 'https://www.amazon.es/dp/B0849CT7TF/?tag=tolees-21'
-descuento: '35.49'
-average: '50.64769230769231'
+descuento: '25.01'
+average: '47.8933333333334'
 ---
 
-Ahora mismo tienes [Captain Tsubasa: Rise Of New Champions](https://www.amazon.es/dp/B0849CT7TF/?tag=tolees-21) a 39.99 EUR (original: 61.99 EUR) (35.49 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [BANDAI NAMCO Entertainment Iberica - Captain Tsubasa: Rise Of New Champions](https://www.amazon.es/dp/B0849CT7TF/?tag=tolees-21) a 29.99 EUR (original: 39.99 EUR) (25.01 %  de descuento) en el siguiente enlace!
 
-[![Captain Tsubasa: Rise Of New Champions](https://m.media-amazon.com/images/I/51rQPLTh2HL._SL400_.jpg)](https://www.amazon.es/dp/B0849CT7TF/?tag=tolees-21)
+[![BANDAI NAMCO Entertainment Iberica - Cap](https://m.media-amazon.com/images/I/51rQPLTh2HL._SL400_.jpg)](https://www.amazon.es/dp/B0849CT7TF/?tag=tolees-21)
 
 🔎:
 
