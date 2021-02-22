@@ -1,34 +1,34 @@
 ---
 layout: post
-title: 'New Balance Hombre 574v2-core Trainers Z al 31.04 % de descuento'
-date: 2021-02-19 00:50:27
-image: 'https://m.media-amazon.com/images/I/41hH41avSxL._SL200_.jpg'
+title: 'New Balance Hombre 574v2-core Trainers Z al 30.57 % de descuento'
+date: 2021-02-22 04:06:04
+image: 'https://m.media-amazon.com/images/I/41hH41avSxL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B06XXBL1Y7-es New Balance Hombre 574v2-core Trainers Zapatillas Verde...'
 sku: 'B06XXBL1Y7-es'
 tags: [  ]
-actualPrice: 62.06 EUR
+actualPrice: 62.49 EUR
 currency: EUR
-price: 62.06
+price: 62.49
 comparePrice: 90.0 EUR
 prodname: 'New Balance Hombre 574v2-core Trainers Zapatillas  Verde  Olive Night   40.5 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'New Balance'
 buyurl: 'https://www.amazon.es/dp/B06XXBL1Y7/?tag=tolees-21'
-descuento: '31.04'
-average: '60.7024390243903'
+descuento: '30.57'
+average: '60.745'
 ---
 
-Ahora mismo tienes [New Balance Hombre 574v2-core Trainers Zapatillas  Verde  Olive Night   40.5 EU](https://www.amazon.es/dp/B06XXBL1Y7/?tag=tolees-21) a 62.06 EUR (original: 90.0 EUR) (31.04 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [New Balance Hombre 574v2-core Trainers Zapatillas  Verde  Olive Night   40.5 EU](https://www.amazon.es/dp/B06XXBL1Y7/?tag=tolees-21) a 62.49 EUR (original: 90.0 EUR) (30.57 %  de descuento) en el siguiente enlace!
 
-[![New Balance Hombre 574v2-core Trainers Z](https://m.media-amazon.com/images/I/41hH41avSxL._SL200_.jpg)](https://www.amazon.es/dp/B06XXBL1Y7/?tag=tolees-21)
+[![New Balance Hombre 574v2-core Trainers Z](https://m.media-amazon.com/images/I/41hH41avSxL._SL400_.jpg)](https://www.amazon.es/dp/B06XXBL1Y7/?tag=tolees-21)
 
 🔎:
 
-- Material exterior: Cuero
 - Revestimiento: Tela
+- Material exterior: Cuero
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B06XXBL1Y7/?tag=tolees-21)
