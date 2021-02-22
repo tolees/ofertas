@@ -28,17 +28,17 @@ En este momento está [Luminarc 7276008 Stella - Juego de 6 Copas  7 7 x 35 5 x 
 
 🔎:
 
-- Resistentes a rupturas y desportilladuras.
-- Origen: Francia.
-- <b>Tamaño</b>: 7,7 x 35,5 x 19,3 cm.
-- <b>Descripción del producto</b>: lote de 6 copas de 35 cl.
-- <b>Material</b>: cristal.
-- <b>Capacidad</b>: 0,13 L.
-- Resistentes a los golpes y a los cambios bruscos de temperatura.
 - <b>Color</b>: transparente.
-- Apto para lavavajillas.
-- 100% higiénicos.
+- Origen: Francia.
 - Apto para microondas.
+- Resistentes a los golpes y a los cambios bruscos de temperatura.
+- Apto para lavavajillas.
+- <b>Descripción del producto</b>: lote de 6 copas de 35 cl.
 - Sin bisfenol A.
+- 100% higiénicos.
+- <b>Tamaño</b>: 7,7 x 35,5 x 19,3 cm.
+- <b>Capacidad</b>: 0,13 L.
+- <b>Material</b>: cristal.
+- Resistentes a rupturas y desportilladuras.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00LO88AGS/?tag=tolees-21)

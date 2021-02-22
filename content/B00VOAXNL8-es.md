@@ -28,9 +28,9 @@ En este momento está [Croci C5055221 Flexi Design Tape  S  5M  Azul](https://ww
 
 🔎:
 
-- Longitud 5 metros
-- Con sistema de frenado
 - Talla s
 - Rodillo
+- Longitud 5 metros
+- Con sistema de frenado
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00VOAXNL8/?tag=tolees-21)

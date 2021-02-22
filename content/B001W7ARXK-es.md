@@ -28,11 +28,11 @@ Ahora mismo tienes [Wolfcraft 3051000 - 2 Sargentos para esquinas  Multicolor  1
 
 🔎:
 
-- Para uniones angulares y uniones en T, también en tablas de diferentes grosores
-- Para fijar rápida y sencillamente tablas y marcos en un ángulo de 90°, por ejemplo para construir estanterías, armarios pequeños o marcos
-- Manejo monomanual - la otra mano permanece libre para manipular la pieza de trabajo
-- Embalaje: fijado sobre cartón
-- Para grosores de tabla de 10 - 22 mm
 - Dispositivo de fijación para atornillar o encolar tablas
+- Para fijar rápida y sencillamente tablas y marcos en un ángulo de 90°, por ejemplo para construir estanterías, armarios pequeños o marcos
+- Para uniones angulares y uniones en T, también en tablas de diferentes grosores
+- Embalaje: fijado sobre cartón
+- Manejo monomanual - la otra mano permanece libre para manipular la pieza de trabajo
+- Para grosores de tabla de 10 - 22 mm
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B001W7ARXK/?tag=tolees-21)

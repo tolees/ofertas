@@ -28,10 +28,10 @@ En este momento está [Revlon Super Lustrous Pintalabios  Blushing Mauve ](https
 
 🔎:
 
-- Enriquecido con Aloe, Vitaminas A, C y E
-- Extra sedoso e hidratante
 - Acabado satinado
-- La barra de labios icono de Revlon. Tiene complejo de silicona de seda y su fórmula LiquidSilk sella el color y suaviza los labios aportando hidratación
 - Sin fragancia
+- La barra de labios icono de Revlon. Tiene complejo de silicona de seda y su fórmula LiquidSilk sella el color y suaviza los labios aportando hidratación
+- Extra sedoso e hidratante
+- Enriquecido con Aloe, Vitaminas A, C y E
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B000H3CPMG/?tag=tolees-21)

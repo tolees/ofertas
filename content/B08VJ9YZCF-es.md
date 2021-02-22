@@ -30,8 +30,8 @@ Tienes [GEMVIE Gorro de Béisbol para Bebe Niño Verano Protector del Sol Gorra 
 
 - [Size Various]: The size of the child hat from 44 cm to 50 cm (recommended 0-6 months, 1-6 years, the exact data is below)
 - [100% Algome] Made of 100% some of that hat, the wide brim can protect against the sun (UPF50+) , well breathable, soft, fired and lightweight.
-- [Adjustable elastic]:The elastic band that on the back of the baby hat can adjust its size to fit the circumference of the babys head.
 - [Sun Protection]: When you are in the water or last hours of the day on the beach, the sun visor can protect your delicate face
 - Classic style: the striped design is very classic, the hat can be folded easily and can be worn on the beach, pool, casual day, hiking, camping trip, do not take up the space of your bag
+- [Adjustable elastic]:The elastic band that on the back of the baby hat can adjust its size to fit the circumference of the babys head.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08VJ9YZCF/?tag=tolees-21)

@@ -29,10 +29,10 @@ Ahora mismo tienes [Zwilling Prime - Batería de cocina de 5 piezas  Acero Inoxi
 🔎:
 
 - Batería
-- Tapa cristal
-- Cocina
-- 5 Piezas
-- Zwilling
 - Acero inoxidable
+- Tapa cristal
+- 5 Piezas
+- Cocina
+- Zwilling
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B007NYEHI2/?tag=tolees-21)

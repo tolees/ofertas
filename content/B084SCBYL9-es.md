@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Gioseppo Aleskin  Zapatillas Mujer  Negr al 60.04 % de rebaja'
-date: 2021-02-19 16:56:32
-image: 'https://m.media-amazon.com/images/I/41G6c4zt0GL._SL200_.jpg'
+date: 2021-02-22 15:05:44
+image: 'https://m.media-amazon.com/images/I/41G6c4zt0GL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.95'
 
 Tienes [Gioseppo Aleskin  Zapatillas Mujer  Negro  37 EU](https://www.amazon.es/dp/B084SCBYL9/?tag=tolees-21) con precio final de  29.95 EUR (original: 74.95 EUR) (60.04 %  de rebaja) aqui!
 
-[![Gioseppo Aleskin  Zapatillas Mujer  Negr](https://m.media-amazon.com/images/I/41G6c4zt0GL._SL200_.jpg)](https://www.amazon.es/dp/B084SCBYL9/?tag=tolees-21)
+[![Gioseppo Aleskin  Zapatillas Mujer  Negr](https://m.media-amazon.com/images/I/41G6c4zt0GL._SL400_.jpg)](https://www.amazon.es/dp/B084SCBYL9/?tag=tolees-21)
 
 🔎:
 

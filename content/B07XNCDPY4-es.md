@@ -28,10 +28,10 @@ Tienes [Sunny Fashion - Vestido para niña Turquesa Unicornio Arco Iris Verano S
 
 🔎:
 
-- Talla: Busto: 64CM, Cintura: 60CM, Longitud: 68CM
-- mezclas de algodón, forradas completamente con 100% algodón
-- Vestido de mezclas de algodón informales de gran calidad con un lindo unicornio y un estampado de arco iris para tus niñas pequeñas y grandes. Perfecto para el uso diario y disfraces de Halloween. El siguiente tamaño significa rangos de edad para las niñas, son solo para orientación general. Para un ajuste más preciso, recomendamos verificar la medición detallada antes de la compra.
 - lavable a máquina, bajo retroceder seca
+- Talla: Busto: 64CM, Cintura: 60CM, Longitud: 68CM
+- Vestido de mezclas de algodón informales de gran calidad con un lindo unicornio y un estampado de arco iris para tus niñas pequeñas y grandes. Perfecto para el uso diario y disfraces de Halloween. El siguiente tamaño significa rangos de edad para las niñas, son solo para orientación general. Para un ajuste más preciso, recomendamos verificar la medición detallada antes de la compra.
 - hasta la rodilla. Cremallera trasera oculta
+- mezclas de algodón, forradas completamente con 100% algodón
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07XNCDPY4/?tag=tolees-21)

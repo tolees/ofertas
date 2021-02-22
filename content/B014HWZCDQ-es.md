@@ -28,10 +28,10 @@ Tienes [Babaria Tónico Facial con Aloe Vera - 300 ml](https://www.amazon.es/dp/
 
 🔎:
 
-- Formato: 300ml
-- Elimina las impurezzas más profundas
 - Para todo tipo de piel
+- Elimina las impurezzas más profundas
 - Tonifica la piel en profundidad
 - Calma e hidrata la piel
+- Formato: 300ml
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B014HWZCDQ/?tag=tolees-21)
