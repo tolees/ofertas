@@ -28,13 +28,13 @@ Está [Orbegozo HBF 90 Estufa de Butano  Triple Sistema de Seguridad  Llama Azul
 
 ℹ️:
 
-- Tecnologia "Llama Azul"
-- Triple sistema de seguridad
-- Encendido mediante pulsador
-- Estufa de gas butano
-- Potencia 4200 W
 - Medidas: ancho x alto x fondo: 400 x 700 x 320 mm
-- Consumo max. 305 gr/h
 - Asas para transporte y ruedas pivotantes
+- Tecnologia "Llama Azul"
+- Potencia 4200 W
+- Estufa de gas butano
+- Triple sistema de seguridad
+- Consumo max. 305 gr/h
+- Encendido mediante pulsador
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00FGX1BUY/?tag=tolees-21)

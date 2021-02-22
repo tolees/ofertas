@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'STANLEY STST1-70720 - Organizador SortMa al 40.92 % de descuento'
-date: 2021-02-04 19:18:13
-image: 'https://m.media-amazon.com/images/I/41oyWa-9uNL._SL200_.jpg'
+date: 2021-02-22 14:27:56
+image: 'https://m.media-amazon.com/images/I/41oyWa-9uNL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -19,12 +19,12 @@ flag: '🇪🇸'
 brand: 'Stanley'
 buyurl: 'https://www.amazon.es/dp/B00CF17IMA/?tag=tolees-21'
 descuento: '40.92'
-average: '6.802'
+average: '6.66142857142857'
 ---
 
 Ahora mismo tienes [STANLEY STST1-70720 - Organizador SortMaster  Negro  Transparente](https://www.amazon.es/dp/B00CF17IMA/?tag=tolees-21) a 6.31 EUR (original: 10.68 EUR) (40.92 %  de descuento) en el siguiente enlace!
 
-[![STANLEY STST1-70720 - Organizador SortMa](https://m.media-amazon.com/images/I/41oyWa-9uNL._SL200_.jpg)](https://www.amazon.es/dp/B00CF17IMA/?tag=tolees-21)
+[![STANLEY STST1-70720 - Organizador SortMa](https://m.media-amazon.com/images/I/41oyWa-9uNL._SL400_.jpg)](https://www.amazon.es/dp/B00CF17IMA/?tag=tolees-21)
 
 🔎:
 

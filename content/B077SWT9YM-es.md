@@ -28,8 +28,8 @@ Tienes [Nike U Nk H86 Cap Metal Swoosh Hat  Unisex Adulto  White/ Metallic Silve
 
 🔎:
 
-- Ojales bordados
 - 100% poliéster reciclado
 - Cierre ajustable
+- Ojales bordados
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B077SWT9YM/?tag=tolees-21)
