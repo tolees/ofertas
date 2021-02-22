@@ -28,9 +28,9 @@ Tienes [Funko- Pop Star Wars: Mandalorian-The Child Madalorian Figura Colecciona
 
 🔎:
 
+- De la colección Mandalorian, The Child como figura de vinilo POP de Funko
 - ¡Descúbre otras figuras de la colección Star Wars y colecciónalas todas
 - Funko POP El juguete del año 2018
 - La figura mide 9 cm y se envía en una caja ilustrada con ventana
-- De la colección Mandalorian, The Child como figura de vinilo POP de Funko
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0828JCKS9/?tag=tolees-21)

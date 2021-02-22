@@ -28,9 +28,9 @@ Está [Philips Avent SCF330/20 - Sacaleches  extractor de leche manual  con coj�
 
 ℹ️:
 
+- Fácil limpieza gracias al número reducido de piezas sueltas. Compatible con otros productos de alimentación de Philips Avent
 - Estimula suavemente la bajada natural y el flujo de leche
 - Fácil de usar, almacenar y transportar
-- Fácil limpieza gracias al número reducido de piezas sueltas. Compatible con otros productos de alimentación de Philips Avent
 - Montaje intuitivo. Facial encaje visual de las piezas
 - Postura de extracción más cómoda gracias a su exclusivo diseño
 
