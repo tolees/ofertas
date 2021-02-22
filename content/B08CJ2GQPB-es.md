@@ -28,10 +28,10 @@ Ahora mismo tienes [adidas M MHS Aero FZHD Sudadera  Hombre  Blanco  2XL](https:
 
 🔎:
 
-- Tejido AEROREADY que mantiene la piel seca
+- Tacto suave
 - Punto doble 100% poliéster
 - Corte holgado
-- Tacto suave
+- Tejido AEROREADY que mantiene la piel seca
 - Chaqueta con capucha
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08CJ2GQPB/?tag=tolees-21)

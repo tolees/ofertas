@@ -28,8 +28,8 @@ Está [MjAMjAM - Comida húmeda premium para gatos - Paquete de mezcla - Pollo  
 
 ℹ️:
 
-- ver artículos individuales
 - Pienso acuoso para gatos. Proporción extraalta de carne. Vitaminas y minerales importantes. Sin cereales
+- ver artículos individuales
 - MjAMjAM - porque es sabroso
 - Renunciamos a: Gluten y soja, Conservantes sintéticos, lactosa, azúcar
 - Para nuestras comidas, empleamos mayoritariamente ingredientes procedentes de granjas regionales; criados y cultivados con mucho amor
