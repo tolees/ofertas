@@ -28,10 +28,10 @@ Tienes [Air Wick Freshmatic - Recambios de ambientador spray automático  esenci
 
 ℹ️:
 
+- Aroma Lirio de Luna, descubre una lujosa combinación de lirios, rosas y peonias envueltas en suaves notas de vainilla
+- Elimina olores y perfuma tu hogar de forma continua hasta 70 días con un diseño elegante y portable
 - Libera automáticamente ráfagas de fragancia para un constante frescor en tu hogar
 - Descubre el resto de fragancias Air Wick Freshmatic
 - Pack de recambios para ambientadores Freshmatic Air Wick
-- Elimina olores y perfuma tu hogar de forma continua hasta 70 días con un diseño elegante y portable
-- Aroma Lirio de Luna, descubre una lujosa combinación de lirios, rosas y peonias envueltas en suaves notas de vainilla
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07J5FJWJX/?tag=tolees-21)

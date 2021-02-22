@@ -28,10 +28,10 @@ Tienes [Rimmel London Magnifeyes Palette Paleta de Sombras Jewel Rocks Edition -
 
 🔎:
 
-- Perfecto para esculpir, sombrear y definir
-- 12 sombras complementarias perfectas para hacer contouring
-- Todo en uno, sombra de ojos, delineador y iluminador
-- Fórmula ultra suave; color intenso para todos los tonos de piel
 - Aplicador duo para crear múltiples looks para un acabado preciso
+- Perfecto para esculpir, sombrear y definir
+- Todo en uno, sombra de ojos, delineador y iluminador
+- 12 sombras complementarias perfectas para hacer contouring
+- Fórmula ultra suave; color intenso para todos los tonos de piel
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07DZW6HF9/?tag=tolees-21)

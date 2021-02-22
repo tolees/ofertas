@@ -28,10 +28,10 @@ En este momento está [Lysol - Higienizante textil para la ropa  elimina olores 
 
 🔎:
 
+- En Lysol llevamos más de 130 años protegiendo los hogares de todo el mundo
+- No daña la ropa: sin lejía ni fosfatos, es adecuado para ropa blanca y de color como ropa de deporte, ropa interior, ropa de cama, toallas, entre otros
 - Añádelo en el cajetín del suavizante de tu lavadora para obtener una ropa fresca y libre de malos olores hasta 12 horas
 - Dermatológicamente testado
 - Aditivo para la lavadora, higiene refrescante: elimina los malos olores de tu ropa
-- En Lysol llevamos más de 130 años protegiendo los hogares de todo el mundo
-- No daña la ropa: sin lejía ni fosfatos, es adecuado para ropa blanca y de color como ropa de deporte, ropa interior, ropa de cama, toallas, entre otros
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08KR1P8ZS/?tag=tolees-21)
