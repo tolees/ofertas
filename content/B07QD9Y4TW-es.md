@@ -28,9 +28,9 @@ Tienes [adidas Grand Court I  Zapatillas de Estar por casa Unisex niños  Blanco
 
 🔎:
 
+- Artículo: EF0116.
+- Material: sintético.
 - Diseñador: Adidas Core
 - Temporada: otoño/invierno.
-- Material: sintético.
-- Artículo: EF0116.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07QD9Y4TW/?tag=tolees-21)

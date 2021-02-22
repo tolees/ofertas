@@ -28,10 +28,10 @@ Está [Under Armour UA HG Armour Printed Legging Leggings  Mujer  Negro  002   M
 
 ℹ️:
 
-- El tejido elástico multidireccional permite una mayor movilidad en cualquier dirección
-- El tejido absorbe el sudor y se seca rápidamente
 - El tejido HeatGear ligero ofrece una mayor protección sin añadir peso
-- Las costuras planas ergonómicas proporcionan un ajuste confortable, sin roces
+- El tejido elástico multidireccional permite una mayor movilidad en cualquier dirección
 - El ajuste firme de compresión de UA te hace sentir potente
+- El tejido absorbe el sudor y se seca rápidamente
+- Las costuras planas ergonómicas proporcionan un ajuste confortable, sin roces
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0728BKKS6/?tag=tolees-21)

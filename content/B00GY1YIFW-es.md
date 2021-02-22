@@ -28,10 +28,10 @@ Está [Multicentrum  Complemento Alimenticio con 13 Vitaminas  11 Minerales y Lu
 
 ℹ️:
 
-- Multivitamínico para adultos y adolescentes a partir de 12 años que ayuda a mantener una alimentación saludable, completando el aporte de micronutrientes y disminuyendo el cansancio y la fatiga
 - Contribuye al buen funcionamiento del sistema inmunitario, la visión y la piel, además de proteger a las células frente al daño oxidativo
-- Sin gluten, sin lactosa, sin azúcar y sin fructosa
-- Multicentrum es la marca mejor valorada por los consumidores de multivitamínicos en España (1) y el multivitamínico más estudiado (2) y más vendido del mundo (3)
 - Fórmula equilibrada con 13 vitaminas y 11 minerales, como vitaminas A, C, D, E, K, vitaminas del grupo B, biotina, ácido fólico, calcio, hierro o magnesio; además, es el único que incluye luteína
+- Multivitamínico para adultos y adolescentes a partir de 12 años que ayuda a mantener una alimentación saludable, completando el aporte de micronutrientes y disminuyendo el cansancio y la fatiga
+- Multicentrum es la marca mejor valorada por los consumidores de multivitamínicos en España (1) y el multivitamínico más estudiado (2) y más vendido del mundo (3)
+- Sin gluten, sin lactosa, sin azúcar y sin fructosa
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00GY1YIFW/?tag=tolees-21)

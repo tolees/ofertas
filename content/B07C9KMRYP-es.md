@@ -28,8 +28,8 @@ Tienes [Scottex Jumbo Papel de Cocina - 6 rollos](https://www.amazon.es/dp/B07C9
 
 🔎:
 
-- Puede con todo
 - 6 rollos
+- Puede con todo
 - Ideal para todas las tareas del hogar
 - Eficacia multiusos
 
