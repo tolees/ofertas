@@ -28,10 +28,10 @@ En este momento está [Rankie - Adaptador DisplayPort DP a VGA 1080P  Negro](htt
 
 🔎:
 
-- Conector DisplayPort con pestillos proporciona una conexión segura con un botón de liberación que debe ser presionado antes de desenchufar
 - Transmite vídeo de alta definición desde el ordenador a un monitor para el streaming de vídeo o juegos de azar; Conectar y configurar su monitor para un escritorio extendido o Muestra Mirrored
-- Conecte un DisplayPort (DP, DP ++, DisplayPort ++) portátil o de escritorio a un monitor o proyector con entrada VGA equipada; Se requiere un cable VGA (se vende por separado)
 - Conectores enchapados en oro resisten la corrosión, proporcionan durabilidad y mejorar la transmisión de la señal
+- Conecte un DisplayPort (DP, DP ++, DisplayPort ++) portátil o de escritorio a un monitor o proyector con entrada VGA equipada; Se requiere un cable VGA (se vende por separado)
 - Soporta resoluciones de vídeo de hasta 1920x1200 / 1080P (Full HD)
+- Conector DisplayPort con pestillos proporciona una conexión segura con un botón de liberación que debe ser presionado antes de desenchufar
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00Z08TZNU/?tag=tolees-21)
