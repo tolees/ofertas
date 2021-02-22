@@ -28,11 +28,11 @@ Está [AKAI Professional MPD 226 - Controlador USB MIDI ultra-portátil con 16 p
 
 ℹ️:
 
-- 4 faders asignables, 4 knobs Q-Link y 4 botones asignables con un total de 36 controles asignables a través de 3 bancos para mapear y controlar parámetros de DAW, instrumentos virtuales y efectos
-- La experiencia de la producción musical MPC - incluye el software MPC Beats que ofrece las mejores prestaciones y herramientas de producción típicas de la serie MPC de AKAI Professional
 - Controlador USB MIDI ultra portátil con 16 x 4 pads de goma sensibles a la velocidad y a la presión en estilo MPC para disparar samples y loops y también para finger drumming
 - Controles Classic MPC Note Repeat, MPC Swing, 16 Level, Full Level y Tap Tempo para interpretaciones más expresivas
-- Software incluido: Ableton Live Lite, AKAI Pro MPC Beats, SONiVOX Big Banc Cinematic Percussion y Big Bang Universal Drums
+- 4 faders asignables, 4 knobs Q-Link y 4 botones asignables con un total de 36 controles asignables a través de 3 bancos para mapear y controlar parámetros de DAW, instrumentos virtuales y efectos
 - Controla tus aplicaciones iOS y abre la posibilidad a controlar el pad usando la conexión Camera connection kit (vendido por separado)
+- Software incluido: Ableton Live Lite, AKAI Pro MPC Beats, SONiVOX Big Banc Cinematic Percussion y Big Bang Universal Drums
+- La experiencia de la producción musical MPC - incluye el software MPC Beats que ofrece las mejores prestaciones y herramientas de producción típicas de la serie MPC de AKAI Professional
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0116X1BJI/?tag=tolees-21)

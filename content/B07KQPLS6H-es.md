@@ -28,10 +28,10 @@ Está [Falomir 90 s Love The 90´S Juego de Mesa  Color Azul  27x27x6.5  1 ](htt
 
 ℹ️:
 
-- El juego de los 90 al que no pudimos jugar en los 90
 - 5 categorías: tararear, dibujar, pistas, mímica y verdadero o falso
-- Pizarra con forma de casete
+- El juego de los 90 al que no pudimos jugar en los 90
 - Demuestra que eres el que más sabe de los 90 acertando al mayor número de preguntas
+- Pizarra con forma de casete
 - Tarjetas en forma de discos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07KQPLS6H/?tag=tolees-21)
