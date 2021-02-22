@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Reloj Viceroy - Hombre 42223-35 con un 33.56 % de descuento'
-date: 2021-02-11 07:34:56
-image: 'https://m.media-amazon.com/images/I/41Z5hVksF3L._SL200_.jpg'
+date: 2021-02-22 07:46:03
+image: 'https://m.media-amazon.com/images/I/41Z5hVksF3L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -19,12 +19,12 @@ flag: '🇪🇸'
 brand: 'Viceroy'
 buyurl: 'https://www.amazon.es/dp/B01E5VOO8S/?tag=tolees-21'
 descuento: '33.56'
-average: '82.9633333333333'
+average: '89.378'
 ---
 
 En este momento está [Reloj Viceroy - Hombre 42223-35](https://www.amazon.es/dp/B01E5VOO8S/?tag=tolees-21) a 99.0 EUR (original: 149.0 EUR) (33.56 %  de descuento) en el siguiente enlace!
 
-[![Reloj Viceroy - Hombre 42223-35](https://m.media-amazon.com/images/I/41Z5hVksF3L._SL200_.jpg)](https://www.amazon.es/dp/B01E5VOO8S/?tag=tolees-21)
+[![Reloj Viceroy - Hombre 42223-35](https://m.media-amazon.com/images/I/41Z5hVksF3L._SL400_.jpg)](https://www.amazon.es/dp/B01E5VOO8S/?tag=tolees-21)
 
 🔎:
 
