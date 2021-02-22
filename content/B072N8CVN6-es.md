@@ -29,7 +29,7 @@ Está [Funko Pop! - Figura de Vinilo Erend  22606 ](https://www.amazon.es/dp/B07
 ℹ️:
 
 - Cada personaje mide alrededor de 9 cm de altura
-- Viene embalado en una caja con ventanas ilustrada
 - Material 100% vinilo
+- Viene embalado en una caja con ventanas ilustrada
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B072N8CVN6/?tag=tolees-21)

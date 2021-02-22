@@ -28,8 +28,8 @@ Tienes [Tenga Huevo Surfer  Funda Masturbadora  4.9 x 6.1 x 4.9 cm  Color Blanco
 
 🔎:
 
-- Ideal para jugar solo o en pareja
 - Funda masturbadora con relieve y texturas internas
+- Ideal para jugar solo o en pareja
 - Elastómero super elástico que se adapta a cualquier talla de pene
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B008F44EWI/?tag=tolees-21)

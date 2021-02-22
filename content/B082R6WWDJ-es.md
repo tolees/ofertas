@@ -28,8 +28,8 @@ Está [Nike Challenger OG  Zapatillas para Correr Hombre  Lt Bone Black White  4
 
 ℹ️:
 
+- Estilo de carreras de los años 90.
 - Parte superior de malla transpirable.
 - Zapatillas deportivas
-- Estilo de carreras de los años 90.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B082R6WWDJ/?tag=tolees-21)
