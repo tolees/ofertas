@@ -29,10 +29,10 @@ Ahora mismo tienes [Tristar FR-6996 Crispy XXL - Freidora sin aceite  volumen 5.
 🔎:
 
 - Gracias a la convección de aire de alta velocidad, logrará los resultados más crujientes incluso sin usar nada de aceite
-- La freidora crispy fryer XXL es ideal para toda la familia gracias a su gran capacidad de 5,2 litros
-- La convención de aire de alta velocidad permite cocinar, freír, asar y preparar a la parrilla
-- Fácil de controlar con un panel de control analógico con diales giratorios para tiempo y temperatura
 - ¡Atención! Dimensiones del producto: 33 x 33 x 36 cm, volumen 5.2 l
+- La convención de aire de alta velocidad permite cocinar, freír, asar y preparar a la parrilla
+- La freidora crispy fryer XXL es ideal para toda la familia gracias a su gran capacidad de 5,2 litros
 - Muy segura de usar gracias a la protección contra sobrecalentamiento, al asa fría al tacto y a la base antideslizante
+- Fácil de controlar con un panel de control analógico con diales giratorios para tiempo y temperatura
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0741DWT2H/?tag=tolees-21)

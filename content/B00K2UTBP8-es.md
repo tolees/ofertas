@@ -28,12 +28,12 @@ En este momento está [Severin AS 3915 Cortafiambres  180 W  Incluye 2 Cuchillas
 
 🔎:
 
-- Uso seguro: Carro de deslizamiento con protección para dedos, estabilidad óptima gracias a la base de metal y los pies con ventosas, Interruptor con luz
-- El ayudante de cocina óptimo: Práctico cortafiambres para cortar pan, queso, carne y otros alimentos, Incluye cuchilla para jamón
-- Calidad alemana, potencia 180 W, carcasa del motor, placa tope y placa base en metal robusto, fácil de limpiar gracias a las cuchillas extraíbles
 - Color: Plateado
-- Peso: 4.4 kg
-- Dimensiones (LxAnxAl): 38.2 x 25 x 27.6 cm
+- Uso seguro: Carro de deslizamiento con protección para dedos, estabilidad óptima gracias a la base de metal y los pies con ventosas, Interruptor con luz
 - Suave y uniforme: Regulación continua del espesor del corte de 0 a 15 mm, cuchillas de acero inoxidable intercambiables, resultado óptimo gracias al grado de inclinación de los elementos, práctico contenedor de residuos
+- Calidad alemana, potencia 180 W, carcasa del motor, placa tope y placa base en metal robusto, fácil de limpiar gracias a las cuchillas extraíbles
+- Dimensiones (LxAnxAl): 38.2 x 25 x 27.6 cm
+- Peso: 4.4 kg
+- El ayudante de cocina óptimo: Práctico cortafiambres para cortar pan, queso, carne y otros alimentos, Incluye cuchilla para jamón
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00K2UTBP8/?tag=tolees-21)
