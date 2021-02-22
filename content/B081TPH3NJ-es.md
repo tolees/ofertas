@@ -28,8 +28,8 @@ En este momento está [adidas 3s Knit Short Pantalones Cortos de Deporte  Mujer 
 
 🔎:
 
-- Elastic Waistband
 - Breathable fabric
+- Elastic Waistband
 - Regular fit
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B081TPH3NJ/?tag=tolees-21)

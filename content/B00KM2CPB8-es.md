@@ -28,8 +28,8 @@ En este momento está [Semillas Batlle - Semillas Ecológicas Hortícolas - Pimi
 
 🔎:
 
-- Muy dulce y apreciado por sus muchas aplicaciones culinarias
-- Sobre semillas hortícola ECO
 - Frutos de gran tamaño, rectangulares y con 3-4 cascos
+- Sobre semillas hortícola ECO
+- Muy dulce y apreciado por sus muchas aplicaciones culinarias
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00KM2CPB8/?tag=tolees-21)

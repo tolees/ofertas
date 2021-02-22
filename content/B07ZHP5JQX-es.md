@@ -28,10 +28,10 @@ Tienes [BaByliss MEN E986E Cortapelos Profesional Lithium Power  Cuchillas XL 45
 
 ℹ️:
 
-- Maletín de almacenamiento | Cepillo de limpieza | Aceite lubricante
+- Rueda ranurada 360º para ajuste de longitud de corte
 - 8 x guía de corte desde 0,6mm hasta 28mm
 - Uso con/sin cable |Batería de litio |160 minutos de autonomía | 3h de carga
-- Rueda ranurada 360º para ajuste de longitud de corte
 - Cortapelos profesional con Cuchillas de carbotitanio
+- Maletín de almacenamiento | Cepillo de limpieza | Aceite lubricante
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07ZHP5JQX/?tag=tolees-21)

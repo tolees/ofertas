@@ -29,9 +29,9 @@ Ahora mismo tienes [Logitech G432 Auriculares Gaming con Cable  Sonido 7.1 Surro
 🔎:
 
 - Use one headset for all game platforms – Your headphones work with your PC or Mac via USB DAC or 3.5-mm cable, or with gaming consoles including PlayStation 4, Xbox One, Nintendo Switch, and mobile devices via a 3.5 mm cable
-- 6 mm flip-to-mute mic and volume control – You’ll be heard loud and clear by gaming partners with the big 6 mm boom mic, volume control is at your fingertips
-- Game for hours in comfort – Everything about these headphones is about comfort: the deluxe lightweight leatherette ear cups and headband are made to keep pressure off your ears, while ear cups rotate up to 90 degrees for convenience
 - DTS Headphone: X 2.0 – Surround sound* that goes beyond 7.1 channels lets you detect enemies from all sides, giving you a positional clarity that can make the difference between victory and defeat, feel like you’re right in the middle of the action, Requires Logitech G HUB Software
 - 50 mm audio drivers – Enjoy a more immersive, cinematic gaming experience thanks to the detailed sound produced by large 50 mm drivers
+- Game for hours in comfort – Everything about these headphones is about comfort: the deluxe lightweight leatherette ear cups and headband are made to keep pressure off your ears, while ear cups rotate up to 90 degrees for convenience
+- 6 mm flip-to-mute mic and volume control – You’ll be heard loud and clear by gaming partners with the big 6 mm boom mic, volume control is at your fingertips
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07MTXLFXV/?tag=tolees-21)

@@ -28,10 +28,10 @@ Tienes [Bosch Professional Set Pick and Click con 35 unidades para taladrar y at
 
 🔎:
 
-- Sistema de un solo clic: acoplamiento seguro de los vástagos de las puntas en las ranuras de clic o una sencilla presión del pestillo de desbloqueo para retirarlas y cambiarlas
-- Las brocas multiuso HEX-9 MultiConstruction permiten taladrar casi todos los materiales como hormigón, mampostería, cerámica blanda, madera, metal.; o materiales multicapa
 - Todas las puntas tienen un vástago hexagonal exterior de ¼" y son compatibles con taladros atornilladores, taladros y atornilladores de batería
 - El set para taladrar y atornillar adaptable ofrece las herramientas correctas para el ámbito de trabajo correspondiente; se pueden sustituir las puntas según sea necesario para mezclar los sets y ajustarlos
+- Sistema de un solo clic: acoplamiento seguro de los vástagos de las puntas en las ranuras de clic o una sencilla presión del pestillo de desbloqueo para retirarlas y cambiarlas
+- Las brocas multiuso HEX-9 MultiConstruction permiten taladrar casi todos los materiales como hormigón, mampostería, cerámica blanda, madera, metal.; o materiales multicapa
 - Las puntas de impacto Impact Control son muy robustas y no se rompen, al disponer de una zona de torsión ampliada para resistir el uso con atornilladores potentes; las puntas de doble cara tienen a su vez dos cabezales que se pueden utilizar para perforar, es decir, duran el doble que las puntas convencionales
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07P6PKR4S/?tag=tolees-21)

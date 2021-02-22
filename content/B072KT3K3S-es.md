@@ -1,35 +1,35 @@
 ---
 layout: post
-title: 'NIVEA Creme crema hidratante universal t con un 61.94 % de descuento'
-date: 2021-02-09 21:30:56
-image: 'https://m.media-amazon.com/images/I/316gacRabvL._SL200_.jpg'
+title: 'NIVEA Creme crema hidratante universal t con un 65.49 % de descuento'
+date: 2021-02-22 19:49:20
+image: 'https://m.media-amazon.com/images/I/316gacRabvL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B072KT3K3S-es NIVEA Creme crema hidratante universal todo tipo de pieles...'
 sku: 'B072KT3K3S-es'
 tags: [  ]
-actualPrice: 2.04 EUR
+actualPrice: 1.85 EUR
 currency: EUR
-price: 2.04
+price: 1.85
 comparePrice: 5.36 EUR
 prodname: 'NIVEA Creme crema hidratante universal todo tipo de pieles lata 150 ml'
 country: 'es'
 flag: '🇪🇸'
 brand: 'NIVEA'
 buyurl: 'https://www.amazon.es/dp/B072KT3K3S/?tag=tolees-21'
-descuento: '61.94'
-average: '2.03555555555556'
+descuento: '65.49'
+average: '2.017'
 ---
 
-En este momento está [NIVEA Creme crema hidratante universal todo tipo de pieles lata 150 ml](https://www.amazon.es/dp/B072KT3K3S/?tag=tolees-21) a 2.04 EUR (original: 5.36 EUR) (61.94 %  de descuento) en el siguiente enlace!
+En este momento está [NIVEA Creme crema hidratante universal todo tipo de pieles lata 150 ml](https://www.amazon.es/dp/B072KT3K3S/?tag=tolees-21) a 1.85 EUR (original: 5.36 EUR) (65.49 %  de descuento) en el siguiente enlace!
 
-[![NIVEA Creme crema hidratante universal t](https://m.media-amazon.com/images/I/316gacRabvL._SL200_.jpg)](https://www.amazon.es/dp/B072KT3K3S/?tag=tolees-21)
+[![NIVEA Creme crema hidratante universal t](https://m.media-amazon.com/images/I/316gacRabvL._SL400_.jpg)](https://www.amazon.es/dp/B072KT3K3S/?tag=tolees-21)
 
 🔎:
 
-- Cosmetica para el mejor cuidado de la piel y el cabello Imprescindible en tu cuidado personal
 - Cuerpo Nivea
+- Cosmetica para el mejor cuidado de la piel y el cabello Imprescindible en tu cuidado personal
 - 4.00581E+12
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B072KT3K3S/?tag=tolees-21)

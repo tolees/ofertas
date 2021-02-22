@@ -28,9 +28,9 @@ Está [PINTYPLUS EVOLUTION 600 Pintura Spray Acrílica 520cc Matt Pure White  Bl
 
 ℹ️:
 
-- Adecuado para uso interior y exterior
 - Recomendado para pintar superficies que requieren un secado rápido
 - Se adhiere a cualquier tipo de superficie madera, metal, piedra, papel, cartón y algunos plásticos
+- Adecuado para uso interior y exterior
 - Se seca en 15 minutos
 - Proporciona protección y un acabado uniforme suave
 
