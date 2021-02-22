@@ -28,8 +28,8 @@ Está [Mr. Wonderful - Mr Wonderful Carcasa para Mac - Transparente  Diseño Fru
 
 ℹ️:
 
-- Con una textura suave y confortable
 - Funda de alta calidad fabricada con materiales muy resistentes
+- Con una textura suave y confortable
 - Ajuste perfecto que permite acceder con facilidad a todas las funcionalidades de tu teléfono.
 - Accede de forma cómoda y rápida a todas las funciones y controles de tu Smartphone
 

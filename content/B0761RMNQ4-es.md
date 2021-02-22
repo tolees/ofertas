@@ -29,9 +29,9 @@ Tienes [Ludonova- Junk Art - Juego de mesa - Español  LDNV130001    color/model
 🔎:
 
 - Deja fluir tu creatividad y convierte tus magníficas estructuras en extraordinarias obras de arte
+- Pero no eres el único artista con talento y deberás recorrer el mundo para demostrar tus habilidades y conseguir mas seguidores para tu causa
+- De 2 a 6 jugadores
 - A partir de 8 años
 - Donde unos ven basura, otros ven arte
-- De 2 a 6 jugadores
-- Pero no eres el único artista con talento y deberás recorrer el mundo para demostrar tus habilidades y conseguir mas seguidores para tu causa
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0761RMNQ4/?tag=tolees-21)
