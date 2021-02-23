@@ -28,11 +28,11 @@ Tienes [G-STAR RAW 3301 Straight Tapered Jeans  Negro  Faded Charcoal B455/A797 
 
 🔎:
 
-- Tapered
-- 99% Algodón, 1% Elastano
-- Cierre: Boton y cierre
 - Lavar a máquina - agua fría (30 ° max)
-- Normal
+- Tapered
 - Usado
+- Normal
+- Cierre: Boton y cierre
+- 99% Algodón, 1% Elastano
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07N17CL9Y/?tag=tolees-21)

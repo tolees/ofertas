@@ -28,10 +28,10 @@ En este momento está [Bloc Encolado  A5  50 Hojas  Canson Imagine  Grano Fino 2
 
 🔎:
 
-- Tamaño: A5 (50 hojas)
-- De tono blanco natural, permite obtener un excelente contraste y colores armoniosos
-- Imagine es destacable por su grano fino natural de un excepcional tacto aterciopelado
 - Adecuado tanto para las técnicas secas como húmedas cómo por ejemplo gouache o la acuarela
 - Su textura, su capacidad de absorción y su alto gramaje hacen del Imagine un soporte polivalente
+- Imagine es destacable por su grano fino natural de un excepcional tacto aterciopelado
+- De tono blanco natural, permite obtener un excelente contraste y colores armoniosos
+- Tamaño: A5 (50 hojas)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00CSLIHG8/?tag=tolees-21)

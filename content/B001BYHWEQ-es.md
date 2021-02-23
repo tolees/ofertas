@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'TRIXIE Oveja Patas Largas  Peluche  Soni al 63.12 % de descuento'
-date: 2021-02-21 08:43:59
-image: 'https://m.media-amazon.com/images/I/31RmX51ie1L._SL200_.jpg'
+date: 2021-02-23 13:29:06
+image: 'https://m.media-amazon.com/images/I/31RmX51ie1L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.99'
 
 Está [TRIXIE Oveja Patas Largas  Peluche  Sonido  30 cm  Perro](https://www.amazon.es/dp/B001BYHWEQ/?tag=tolees-21) con 63.12 de descuento por 4.99 EUR (original: 13.53 EUR) en el siguiente enlace!
 
-[![TRIXIE Oveja Patas Largas  Peluche  Soni](https://m.media-amazon.com/images/I/31RmX51ie1L._SL200_.jpg)](https://www.amazon.es/dp/B001BYHWEQ/?tag=tolees-21)
+[![TRIXIE Oveja Patas Largas  Peluche  Soni](https://m.media-amazon.com/images/I/31RmX51ie1L._SL400_.jpg)](https://www.amazon.es/dp/B001BYHWEQ/?tag=tolees-21)
 
 ℹ️:
 

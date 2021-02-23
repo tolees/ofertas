@@ -28,8 +28,8 @@ Tienes [TRIXIE Snack PREMIO Quadro-Sticks  Ave Corral-Hígado  5 × 5g  Gato](ht
 
 🔎:
 
-- Contiene un 95% de carne
 - 5 x 5 g
 - Con taurina
+- Contiene un 95% de carne
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07734PWCP/?tag=tolees-21)
