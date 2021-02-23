@@ -28,8 +28,8 @@ En este momento está [Jack & Jones Jacharry Belt Noos Cinturón  Marrón  Black
 
 🔎:
 
+- Style No. 12120697
 - Metal Buckle
 - Embossed Branding
-- Style No. 12120697
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0749NRC8F/?tag=tolees-21)

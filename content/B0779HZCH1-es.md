@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BOSS Casual Passenger 10193126 01  Polo  al 25.29 % de descuento'
-date: 2021-02-22 00:28:48
+date: 2021-02-23 20:35:55
 image: 'https://m.media-amazon.com/images/I/31xu4OtMWaL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'BOSS'
 buyurl: 'https://www.amazon.es/dp/B0779HZCH1/?tag=tolees-21'
 descuento: '25.29'
-average: '64.3257142857143'
+average: '63.75125'
 ---
 
 Está [BOSS Casual Passenger 10193126 01  Polo Hombre  Azul  Dark Blue 404   Small  Slim Fit](https://www.amazon.es/dp/B0779HZCH1/?tag=tolees-21) con 25.29 de descuento por 59.73 EUR (original: 79.95 EUR) en el siguiente enlace!
@@ -28,8 +28,8 @@ Está [BOSS Casual Passenger 10193126 01  Polo Hombre  Azul  Dark Blue 404   Sma
 
 ℹ️:
 
-- Largo estándar
 - Con puños de canalé
+- Largo estándar
 - Camiseta polo con un diseño versátil
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0779HZCH1/?tag=tolees-21)

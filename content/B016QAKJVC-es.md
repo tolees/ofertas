@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'adidas Parma 16 Intenso Pantalones Corto al 38.48 % de descuento'
-date: 2021-02-20 04:25:22
-image: 'https://m.media-amazon.com/images/I/31fnd4U5UsL._SL200_.jpg'
+date: 2021-02-23 20:13:49
+image: 'https://m.media-amazon.com/images/I/31fnd4U5UsL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -19,17 +19,17 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B016QAKJVC/?tag=tolees-21'
 descuento: '38.48'
-average: '12.9280542986423'
+average: '12.9086098654707'
 ---
 
 Está [adidas Parma 16 Intenso Pantalones Cortos para Fútbol  Hombre  Negro/Blanco  S](https://www.amazon.es/dp/B016QAKJVC/?tag=tolees-21) con 38.48 de descuento por 10.76 EUR (original: 17.49 EUR) en el siguiente enlace!
 
-[![adidas Parma 16 Intenso Pantalones Corto](https://m.media-amazon.com/images/I/31fnd4U5UsL._SL200_.jpg)](https://www.amazon.es/dp/B016QAKJVC/?tag=tolees-21)
+[![adidas Parma 16 Intenso Pantalones Corto](https://m.media-amazon.com/images/I/31fnd4U5UsL._SL400_.jpg)](https://www.amazon.es/dp/B016QAKJVC/?tag=tolees-21)
 
 ℹ️:
 
-- El tejido Climalite elimina el sudor de la piel.
 - Cordón elástico en la cintura.
+- El tejido Climalite elimina el sudor de la piel.
 - Marca Adidas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B016QAKJVC/?tag=tolees-21)
