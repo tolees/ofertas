@@ -28,10 +28,10 @@ Ahora mismo tienes [Dolphin Carrera 30 - Robot limpiafondos para piscinas  fondo
 
 🔎:
 
-- Limpieza completa de todas las superficies de la piscina: fondo, paredes y línea de flotación (con barrido lateral).
 - Ciclo de limpieza de 2 horas
-- Recomendado para piscinas hasta 12 m de largo
-- Cesta Easy-Clean de fácil acceso y limpieza para la retención de suciedad gruesa, fina y ultrafina.
 - Doble cepillado activo: delantero + trasero.
+- Cesta Easy-Clean de fácil acceso y limpieza para la retención de suciedad gruesa, fina y ultrafina.
+- Limpieza completa de todas las superficies de la piscina: fondo, paredes y línea de flotación (con barrido lateral).
+- Recomendado para piscinas hasta 12 m de largo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B06XTJSX62/?tag=tolees-21)

@@ -28,9 +28,9 @@ Tienes [LISTERINE Enjuague Bucal 1 Unidad 500 ml](https://www.amazon.es/dp/B000K
 
 ℹ️:
 
-- Previene el sarro para ayudar a mantener el blanco natural de los dientes
+- Reduce la placa y mantiene las encías sanas
 - Capacidad de 500 ml
 - Enjuague bucal con sabor a menta
-- Reduce la placa y mantiene las encías sanas
+- Previene el sarro para ayudar a mantener el blanco natural de los dientes
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000KUAKRS/?tag=tolees-21)

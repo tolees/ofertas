@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Fox - Juego De Tronos Temporada 1-8 Blu- al 43.55 % de rebaja'
-date: 2021-02-19 22:56:53
-image: 'https://m.media-amazon.com/images/I/519ZVZAfEuL._SL200_.jpg'
+date: 2021-02-23 10:16:46
+image: 'https://m.media-amazon.com/images/I/519ZVZAfEuL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -19,12 +19,12 @@ flag: '🇪🇸'
 brand: 'Fox'
 buyurl: 'https://www.amazon.es/dp/B07RY9Q94R/?tag=tolees-21'
 descuento: '43.55'
-average: '109.12320610687'
+average: '108.954015151515'
 ---
 
 Tienes [Fox - Juego De Tronos Temporada 1-8 Blu-Ray Colección Completa [Blu-ray]](https://www.amazon.es/dp/B07RY9Q94R/?tag=tolees-21) con precio final de  86.79 EUR (original: 153.75 EUR) (43.55 %  de rebaja) aqui!
 
-[![Fox - Juego De Tronos Temporada 1-8 Blu-](https://m.media-amazon.com/images/I/519ZVZAfEuL._SL200_.jpg)](https://www.amazon.es/dp/B07RY9Q94R/?tag=tolees-21)
+[![Fox - Juego De Tronos Temporada 1-8 Blu-](https://m.media-amazon.com/images/I/519ZVZAfEuL._SL400_.jpg)](https://www.amazon.es/dp/B07RY9Q94R/?tag=tolees-21)
 
 🔎:
 

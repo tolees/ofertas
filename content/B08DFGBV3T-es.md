@@ -29,9 +29,9 @@ En este momento está [Enotepad LCD Writing Tablets for Kids  Drawing Doo
 🔎:
 
 - ★【Radiation-Free for Eye Protection】 Non-radiation, Durable, Lightweight LCD digital ewriter for kids to carry easily and draw with comfort.
-- ★【One-Button Lock&Erase Function】 Lock function designed to prevent losing your creations by accident and one-button clear function for full screen removal. Easy for you to restart creating!
+- ★【Electronic Drawing Board Line Thickness Depends on Stroke Strength】ENOTEPAD electronic doodle board creates lines of different thickness based on how hard you push.
 - ★【Children Love It!】① My 3 year old kid loves it. He spends hours drawing with this. ②Great fun for practicing drawing, my daughter loves it. she likes the blue color, the built in pen holder. ③Easily erases with the touch of a button. Love that it has a lock too so can’t be erased. Definitely will be something my kid will love!"
 - ★【Great for home or Travel】Enotepad LCD Tablet contains mag strip, which can be attached to the fridge as notepad for shopping lists. Or you can use it in cars, airplanes, restaurants and wherever. Keep your child’s creative juices flowing and prevent boredom!
-- ★【Electronic Drawing Board Line Thickness Depends on Stroke Strength】ENOTEPAD electronic doodle board creates lines of different thickness based on how hard you push.
+- ★【One-Button Lock&Erase Function】 Lock function designed to prevent losing your creations by accident and one-button clear function for full screen removal. Easy for you to restart creating!
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08DFGBV3T/?tag=tolees-21)

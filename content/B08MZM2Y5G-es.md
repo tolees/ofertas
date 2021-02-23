@@ -28,10 +28,10 @@ Tienes [Lexon tech - Teclado para juegos con disposición italiana Combo Mouse T
 
 ℹ️:
 
-- 【19 teclas anti-ghosting】Permite que múltiples teclas funcionen simultáneamente a alta velocidad. Cada tecla está controlada por un interruptor independiente, te permite disfrutar de juegos de alta calidad con una respuesta rápida, ideal para jugadores, mecanógrafos, programadores, escritores, etc.
-- 【Diseño práctico y tecla multimedia】 Tapa de botón móvil de estilo gaming, con una variedad de combinaciones de teclas multimedia, cubierta de teclas de inyección de dos colores. El teclado adopta un diseño frontal impermeable y fácil de limpiar. Teclas multimedia ricas, FN más teclas de función correspondientes, funcionamiento rápido y fácil.
 - 【Retroiluminación LED arcoíris】 Increíble efecto de retroiluminación arcoíris para una experiencia visual excelente durante el funcionamiento nocturno. La retroiluminación del teclado se puede ajustar, FN + Bloqueo de deslizamiento: activar/desactiva la retroiluminación, FN + Brav: la luz se vuelve más brillante. Fn + ↓: la luz se vuelve más oscura.
-- 【Diseño italiano】 Layout italiano El teclado mecánico de 104 teclas te hace mejor en los juegos o en el trabajo. Diseño ergonómico, el teclado es muy cómodo de usar durante largas sesiones de escritura y juegos.
+- 【19 teclas anti-ghosting】Permite que múltiples teclas funcionen simultáneamente a alta velocidad. Cada tecla está controlada por un interruptor independiente, te permite disfrutar de juegos de alta calidad con una respuesta rápida, ideal para jugadores, mecanógrafos, programadores, escritores, etc.
 - 【Fantástico ratón de juego】 DPI de 3 niveles ajustable, 1200-1800-2400, fácil de controlar diferentes escenas de juego. El ratón utiliza la tecnología de vaciado del relieve, revelando la gloria. Motor de e-deporte preciso, chip de juego e-sport profesional, transmisión estable, análisis preciso, te permiten mejorar el juego o el trabajo.
+- 【Diseño práctico y tecla multimedia】 Tapa de botón móvil de estilo gaming, con una variedad de combinaciones de teclas multimedia, cubierta de teclas de inyección de dos colores. El teclado adopta un diseño frontal impermeable y fácil de limpiar. Teclas multimedia ricas, FN más teclas de función correspondientes, funcionamiento rápido y fácil.
+- 【Diseño italiano】 Layout italiano El teclado mecánico de 104 teclas te hace mejor en los juegos o en el trabajo. Diseño ergonómico, el teclado es muy cómodo de usar durante largas sesiones de escritura y juegos.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08MZM2Y5G/?tag=tolees-21)
