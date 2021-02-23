@@ -31,7 +31,7 @@ Está [Nenuco Agua de Colonia recomendado para bebés fragancia original - 600 m
 - El agua de colonia nenuco con su fragancia original de siempre cuidará de vuestro bebé y de toda la familia a diario
 - Ph neutro: el ph neutro de la colonia respetará la suavidad de su delicada piel
 - Formato de 600 ml
-- Disfrutad de esta especial fragancia que, junto con vuestros mimos que tanto le gustan, estimulará sus sentidos y creará momentos únicos
 - su fórmula ha sido clínicamente testada bajo estricto control dermatológico; nenuco garantiza la idoneidad de sus productos con estudios realizados en laboratorios independientes
+- Disfrutad de esta especial fragancia que, junto con vuestros mimos que tanto le gustan, estimulará sus sentidos y creará momentos únicos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B004XGQ1PU/?tag=tolees-21)

@@ -29,8 +29,8 @@ En este momento está [Colegiales Niña Pablosky Negro 334510 33](https://www.am
 🔎:
 
 - 1
-- Textíl, Textíl, Piel , cuero, caucho, Velcro, Derbie
 - Shoe Width : medium
+- Textíl, Textíl, Piel , cuero, caucho, Velcro, Derbie
 - País de fabricación : Ceuta y Melilla
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07QB8JS3N/?tag=tolees-21)
