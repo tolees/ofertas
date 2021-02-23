@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Einhell Pack taladro percutor y 15 pieza con un 50.04 % de descuento'
-date: 2021-02-14 11:13:25
-image: 'https://m.media-amazon.com/images/I/41kNQAsvb6L._SL200_.jpg'
+date: 2021-02-23 21:47:57
+image: 'https://m.media-amazon.com/images/I/41kNQAsvb6L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -19,20 +19,20 @@ flag: '🇪🇸'
 brand: 'Einhell'
 buyurl: 'https://www.amazon.es/dp/B01JGIF3DU/?tag=tolees-21'
 descuento: '50.04'
-average: '34.8266666666666'
+average: '34.8361538461537'
 ---
 
 En este momento está [Einhell Pack taladro percutor y 15 piezas de perforación  TC-ID 1000 Kit   1010 W  230V  color rojo y negro  ref. 4259838 ](https://www.amazon.es/dp/B01JGIF3DU/?tag=tolees-21) a 34.95 EUR (original: 69.95 EUR) (50.04 %  de descuento) en el siguiente enlace!
 
-[![Einhell Pack taladro percutor y 15 pieza](https://m.media-amazon.com/images/I/41kNQAsvb6L._SL200_.jpg)](https://www.amazon.es/dp/B01JGIF3DU/?tag=tolees-21)
+[![Einhell Pack taladro percutor y 15 pieza](https://m.media-amazon.com/images/I/41kNQAsvb6L._SL400_.jpg)](https://www.amazon.es/dp/B01JGIF3DU/?tag=tolees-21)
 
 🔎:
 
-- Gran zona de empuñadura antideslizante ergonómica para trabajo agradable
 - Unidad electrónica para regular el número de revoluciones
+- Asidero adicional fijado de forma segura mediante nervadura
 - Tope de profundidad de perforación ajustable sin escalonamiento de metal macizo
 - Función perforación / taladro de percusión
-- Asidero adicional fijado de forma segura mediante nervadura
 - Apropiado para la fijación en un soporte de perforación con cuello de sujeción de 43 mm
+- Gran zona de empuñadura antideslizante ergonómica para trabajo agradable
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01JGIF3DU/?tag=tolees-21)

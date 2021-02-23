@@ -28,11 +28,11 @@ Ahora mismo tienes [Glop Games-Elsa Musical Frozen II Muñeca  color jakks pacif
 
 🔎:
 
-- Toddler musical de 35 cm; pilas incluidas
-- Te has fijado en el detalle del peinado y los ojos? parecen de verdad
-- Canta la canción de tu película favorita, frozen ii, junto a la nueva elsa musical
 - Alucina el vestido. Se ilumina y brilla cuando elsa canta; descubre los poderes de la reina de hielo y únete a ella para defender la paz en arendelle
-- Pulsa el botón y escucha “into the unknown”, la canción oficial de la nueva aventura de frozen
 - Puedes cambiar entre los 6 idiomas disponibles
+- Pulsa el botón y escucha “into the unknown”, la canción oficial de la nueva aventura de frozen
+- Canta la canción de tu película favorita, frozen ii, junto a la nueva elsa musical
+- Te has fijado en el detalle del peinado y los ojos? parecen de verdad
+- Toddler musical de 35 cm; pilas incluidas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07KWXBF17/?tag=tolees-21)

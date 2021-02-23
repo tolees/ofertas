@@ -29,7 +29,7 @@ En este momento está [O Neill PM Sun&Sea para Hombre  Rojo  Cherry Red   XS](ht
 🔎:
 
 - Bolsillo
-- Boardshorts Elasticated
 - Regular fit
+- Boardshorts Elasticated
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07Z9PZYC8/?tag=tolees-21)

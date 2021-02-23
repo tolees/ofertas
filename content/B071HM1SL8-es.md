@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Falomir Caza Zombis  Juego de Mesa  Habi con un 50.05 % de descuento'
-date: 2021-02-19 22:28:32
-image: 'https://m.media-amazon.com/images/I/61FyZ1wSkmL._SL200_.jpg'
+date: 2021-02-23 21:47:52
+image: 'https://m.media-amazon.com/images/I/61FyZ1wSkmL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,12 +24,12 @@ average: '14.98'
 
 En este momento está [Falomir Caza Zombis  Juego de Mesa  Habilidad  27270    color/modelo surtido](https://www.amazon.es/dp/B071HM1SL8/?tag=tolees-21) a 14.98 EUR (original: 29.99 EUR) (50.05 %  de descuento) en el siguiente enlace!
 
-[![Falomir Caza Zombis  Juego de Mesa  Habi](https://m.media-amazon.com/images/I/61FyZ1wSkmL._SL200_.jpg)](https://www.amazon.es/dp/B071HM1SL8/?tag=tolees-21)
+[![Falomir Caza Zombis  Juego de Mesa  Habi](https://m.media-amazon.com/images/I/61FyZ1wSkmL._SL400_.jpg)](https://www.amazon.es/dp/B071HM1SL8/?tag=tolees-21)
 
 🔎:
 
-- Escucha los escalofriantes sonidos
 - Tendrás que apuntar bien para darles; aparecen y desaparecen, asi qué estáte atento
 - Consigue cazar a todos los zombis
+- Escucha los escalofriantes sonidos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B071HM1SL8/?tag=tolees-21)

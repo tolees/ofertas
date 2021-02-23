@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'SanDisk Ultra Tarjeta de memoria microSD con un 42.45 % de descuento'
-date: 2021-02-07 15:01:52
-image: 'https://m.media-amazon.com/images/I/414KF0pyZjL._SL200_.jpg'
+date: 2021-02-23 21:24:34
+image: 'https://m.media-amazon.com/images/I/414KF0pyZjL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -19,19 +19,19 @@ flag: '🇪🇸'
 brand: 'SanDisk'
 buyurl: 'https://www.amazon.es/dp/B073JWXGNT/?tag=tolees-21'
 descuento: '42.45'
-average: '6.64844594594594'
+average: '6.65179999999999'
 ---
 
 En este momento está [SanDisk Ultra Tarjeta de memoria microSDHC con adaptador SD  hasta 98 MB/s  rendimiento de apps A1  Clase 10  U1  32 GB](https://www.amazon.es/dp/B073JWXGNT/?tag=tolees-21) a 6.9 EUR (original: 11.99 EUR) (42.45 %  de descuento) en el siguiente enlace!
 
-[![SanDisk Ultra Tarjeta de memoria microSD](https://m.media-amazon.com/images/I/414KF0pyZjL._SL200_.jpg)](https://www.amazon.es/dp/B073JWXGNT/?tag=tolees-21)
+[![SanDisk Ultra Tarjeta de memoria microSD](https://m.media-amazon.com/images/I/414KF0pyZjL._SL400_.jpg)](https://www.amazon.es/dp/B073JWXGNT/?tag=tolees-21)
 
 🔎:
 
-- Velocidades de transferencia de hasta 98 MB/s
-- Clase 10 para la grabación y reproducción de vídeos en calidad Full HD
 - Compatible con microSDHC y microSDXC que admiten dispositivos host
-- Recomendado para smartphones y tabletas con sistema operativo Android y cámaras MIL
 - Incluye la nueva categoría A1: para un rendimiento más rápido de las aplicaciones
+- Clase 10 para la grabación y reproducción de vídeos en calidad Full HD
+- Recomendado para smartphones y tabletas con sistema operativo Android y cámaras MIL
+- Velocidades de transferencia de hasta 98 MB/s
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B073JWXGNT/?tag=tolees-21)

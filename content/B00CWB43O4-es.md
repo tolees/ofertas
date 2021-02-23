@@ -1,30 +1,30 @@
 ---
 layout: post
-title: 'VANS Atwood  Zapatillas Hombre  Negro  B al 35.40 % de rebaja'
-date: 2021-02-08 00:47:17
-image: 'https://m.media-amazon.com/images/I/31Z8DkfLj-L._SL200_.jpg'
+title: 'VANS Atwood  Zapatillas Hombre  Negro  B al 38.63 % de rebaja'
+date: 2021-02-23 21:08:18
+image: 'https://m.media-amazon.com/images/I/31Z8DkfLj-L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B00CWB43O4-es VANS Atwood Zapatillas Hombre Negro Black/White Canvas 187...'
 sku: 'B00CWB43O4-es'
 tags: [  ]
-actualPrice: 41.99 EUR
+actualPrice: 39.89 EUR
 currency: EUR
-price: 41.99
+price: 39.89
 comparePrice: 65.0 EUR
 prodname: 'VANS Atwood  Zapatillas Hombre  Negro  Black/White Canvas 187   38.5 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Vans'
 buyurl: 'https://www.amazon.es/dp/B00CWB43O4/?tag=tolees-21'
-descuento: '35.40'
-average: '39.8696969696969'
+descuento: '38.63'
+average: '39.870294117647'
 ---
 
-Tienes [VANS Atwood  Zapatillas Hombre  Negro  Black/White Canvas 187   38.5 EU](https://www.amazon.es/dp/B00CWB43O4/?tag=tolees-21) con precio final de  41.99 EUR (original: 65.0 EUR) (35.40 %  de rebaja) aqui!
+Tienes [VANS Atwood  Zapatillas Hombre  Negro  Black/White Canvas 187   38.5 EU](https://www.amazon.es/dp/B00CWB43O4/?tag=tolees-21) con precio final de  39.89 EUR (original: 65.0 EUR) (38.63 %  de rebaja) aqui!
 
-[![VANS Atwood  Zapatillas Hombre  Negro  B](https://m.media-amazon.com/images/I/31Z8DkfLj-L._SL200_.jpg)](https://www.amazon.es/dp/B00CWB43O4/?tag=tolees-21)
+[![VANS Atwood  Zapatillas Hombre  Negro  B](https://m.media-amazon.com/images/I/31Z8DkfLj-L._SL400_.jpg)](https://www.amazon.es/dp/B00CWB43O4/?tag=tolees-21)
 
 🔎:
 
