@@ -28,13 +28,13 @@ Ahora mismo tienes [PUMA ICRA Trainer SD  Zapatillas Unisex Adulto  Azul  Peacoa
 
 🔎:
 
-- Anchura del zapato: Normal
-- Altura del tacón: 2 centímetros
-- Material exterior: Cuero
-- Cierre: Cordones
 - Composición: Veloursleder, Textil
-- Tipo de tacón: Plano
+- Cierre: Cordones
+- Altura del tacón: 2 centímetros
 - Material de la suela: Goma
+- Material exterior: Cuero
+- Anchura del zapato: Normal
+- Tipo de tacón: Plano
 - Revestimiento: Sintético
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07CZGCNFQ/?tag=tolees-21)
