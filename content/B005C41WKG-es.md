@@ -28,10 +28,10 @@ Está [Pentel EnerGel-X - Bolígrafos retráctiles  12 unidades  punta de 0 7 mm
 
 ℹ️:
 
-- Secado rápido
 - Cómoda sujeción
 - Ideal para zurdos
-- Fabricado en un 84% con plástico reciclado
+- Secado rápido
 - Cuerpo, rip y clip en el color de la escritura
+- Fabricado en un 84% con plástico reciclado
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B005C41WKG/?tag=tolees-21)

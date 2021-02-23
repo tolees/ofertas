@@ -29,7 +29,7 @@ Tienes [Adidas TIRO19 TR JSYY T-Shirt  Unisex niños  Black/White  128  7/8 año
 🔎:
 
 - Climalite anti-humidity fabric
-- Slim fit
 - Adidas logo on the front
+- Slim fit
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07K6YJN9Z/?tag=tolees-21)

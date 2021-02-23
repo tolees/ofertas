@@ -28,8 +28,8 @@ Ahora mismo tienes [DeWalt - Kit de 4 herramientas sin cepillo  18 V  negro/amar
 
 🔎:
 
+- Tensión: 18 V.
 - Kit de herramientas profesional para realizar todos tus trabajos
 - 3 baterías de 5 Ah y un cargador están incluidos en este kit.
-- Tensión: 18 V.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07D38GJ2N/?tag=tolees-21)

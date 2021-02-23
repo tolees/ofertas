@@ -28,10 +28,10 @@ Tienes [Multicentrum Mujer 50+  Complemento Alimenticio con 13 Vitaminas y 11 Mi
 
 ℹ️:
 
-- Multicentrum es la marca mejor valorada por los consumidores de multivitamínicos en España (1) y el multivitamínico más estudiado (2) y más vendido del mundo (3)
-- Multivitamínico para mujeres a partir de 50 años que ayuda a mantener una alimentación saludable, completando el aporte de micronutrientes y disminuyendo el cansancio y la fatiga
-- Contribuye al buen funcionamiento del sistema inmunitario, a mantener la salud de los huesos y a hacer frente a los cambios en las necesidades nutricionales tras la postmenopausia
 - Sin gluten, sin lactosa, sin azúcar y sin fructosa
+- Contribuye al buen funcionamiento del sistema inmunitario, a mantener la salud de los huesos y a hacer frente a los cambios en las necesidades nutricionales tras la postmenopausia
+- Multivitamínico para mujeres a partir de 50 años que ayuda a mantener una alimentación saludable, completando el aporte de micronutrientes y disminuyendo el cansancio y la fatiga
 - Fórmula especialmente equilibrada con 13 vitaminas y 11 minerales, con vitaminas del grupo B, alto contenido en vitamina D y con biotina, ácido fólico, calcio, hierro o magnesio, entre otros
+- Multicentrum es la marca mejor valorada por los consumidores de multivitamínicos en España (1) y el multivitamínico más estudiado (2) y más vendido del mundo (3)
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00WEOPAF0/?tag=tolees-21)
