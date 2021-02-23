@@ -28,13 +28,13 @@ Ahora mismo tienes [Emporio Armani Reloj Analógico para Hombre de Cuarzo con Co
 
 🔎:
 
-- Carcasa de acero inoxidable muy brillante.
-- Se entrega en su caja con documentos
-- Pulsera tamaño estándar ajustable y cómodo para tu muñeca
-- Reloj para hombre a movimiento cuarzo – pulsera de cuero marrón
-- Reloj, caja de presentación, cojín, garantía
-- Esfera de color negro
 - Resistente al agua hasta 5 ATM
+- Se entrega en su caja con documentos
+- Esfera de color negro
+- Reloj para hombre a movimiento cuarzo – pulsera de cuero marrón
+- Pulsera tamaño estándar ajustable y cómodo para tu muñeca
+- Carcasa de acero inoxidable muy brillante.
+- Reloj, caja de presentación, cojín, garantía
 - Reloj tendencia Hombre
 - Emporio Armani
 

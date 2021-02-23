@@ -28,10 +28,10 @@ Está [Ufesa BS1500 Batidora de Vaso Individual Sport  300 W  Función ON/OFF  2
 
 ℹ️:
 
-- 2 tapas distintas: una para transporte y otra para guardar
 - Dos botellas de tritan 600ml (libre de bpa)
-- Potencía: 300w
-- Función on/off
 - Cuchillas desmontables de acero inoxidable
+- Función on/off
+- 2 tapas distintas: una para transporte y otra para guardar
+- Potencía: 300w
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07RC63G6B/?tag=tolees-21)

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Warner Bros Interactive Spain - Bakugan: al 50.05 % de descuento'
-date: 2021-02-12 21:19:03
-image: 'https://m.media-amazon.com/images/I/41IKECvKwfL._SL200_.jpg'
+date: 2021-02-23 17:49:58
+image: 'https://m.media-amazon.com/images/I/41IKECvKwfL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -19,12 +19,12 @@ flag: '🇪🇸'
 brand: 'Warner Bros Interactive Spain'
 buyurl: 'https://www.amazon.es/dp/B08DRZJSG7/?tag=tolees-21'
 descuento: '50.05'
-average: '27.2684615384615'
+average: '27.1028571428572'
 ---
 
 Ahora mismo tienes [Warner Bros Interactive Spain - Bakugan: Campeones de Vestroia](https://www.amazon.es/dp/B08DRZJSG7/?tag=tolees-21) a 24.95 EUR (original: 49.95 EUR) (50.05 %  de descuento) en el siguiente enlace!
 
-[![Warner Bros Interactive Spain - Bakugan:](https://m.media-amazon.com/images/I/41IKECvKwfL._SL200_.jpg)](https://www.amazon.es/dp/B08DRZJSG7/?tag=tolees-21)
+[![Warner Bros Interactive Spain - Bakugan:](https://m.media-amazon.com/images/I/41IKECvKwfL._SL400_.jpg)](https://www.amazon.es/dp/B08DRZJSG7/?tag=tolees-21)
 
 🔎:
 

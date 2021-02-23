@@ -28,9 +28,9 @@ Está [POP! Funkoverse: Battle in the Wizarding World - Harry Potter](https://ww
 
 ℹ️:
 
-- Contiene cuatro figuras de vinilo coleccionables
 - Recomendado para niños a partir de 10 años
-- Juego de estrategia de la marca Funko
+- Contiene cuatro figuras de vinilo coleccionables
 - El artículo es adecuado para todos los fanáticos de Harry Potter
+- Juego de estrategia de la marca Funko
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07V6TH6JF/?tag=tolees-21)

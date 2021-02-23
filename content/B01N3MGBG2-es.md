@@ -28,10 +28,10 @@ Ahora mismo tienes [Orbegozo FH 5028 Calefactor eléctrico con termostato ajusta
 
 🔎:
 
-- Calefactor con diseño en color negro y detalles en color gris
-- Luz indicadora de encendido
 - Control ajustable de temperatura mediante termostato
-- Protección contra sobrecalentamiento
 - Dos posiciones de calor: 1000 W y 2000 W, además de incorporar función ventilador
+- Luz indicadora de encendido
+- Calefactor con diseño en color negro y detalles en color gris
+- Protección contra sobrecalentamiento
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01N3MGBG2/?tag=tolees-21)

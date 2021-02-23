@@ -30,8 +30,8 @@ Ahora mismo tienes [Taurus PTWC-18 Vinoteca de 18 botellas  Negro](https://www.a
 
 - Puerta de vidrio templado ahumado reflejante para garantizar la oscuridad interior, y también el bloqueo de la luz solar y los dañinos rayos UV que podrían alterar el sabor del vino
 - Aislamiento especial interior para que se mantenga la humedad constante, lo que hace que el corcho no se seque y evita que el aire entre contacto con el vino
-- Vinoteca termoeléctrica, sin compresor, ideal para proteger la calidad y el sabor de sus vinos a largo y corto plazo
-- Al no vibrar permite que el vino envejezca y se asiente correctamente sin alterar sus sedimentos naturales: muy silencioso
 - Capacidad para 18 botellas y panel táctil para ajustar la temperatura. Temperatura regulable entre 8 y 18 C, puede mostrarse en C o F
+- Al no vibrar permite que el vino envejezca y se asiente correctamente sin alterar sus sedimentos naturales: muy silencioso
+- Vinoteca termoeléctrica, sin compresor, ideal para proteger la calidad y el sabor de sus vinos a largo y corto plazo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B079X8CV7F/?tag=tolees-21)
