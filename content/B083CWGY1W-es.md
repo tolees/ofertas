@@ -28,8 +28,8 @@ Está [adidas Fit Legsuit Sol Swimsuit  Mujer  Black/White  46](https://www.amaz
 
 ℹ️:
 
-- Swimsuit
 - Adidas logo
+- Swimsuit
 - Chlorine-resistant fabric
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B083CWGY1W/?tag=tolees-21)

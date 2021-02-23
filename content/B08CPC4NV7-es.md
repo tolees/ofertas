@@ -28,8 +28,8 @@ Ahora mismo tienes [adidas Real Clx SH Cl Swimsuit  Hombre  Dark Blue/Spring Pin
 
 🔎:
 
-- Chlorine-resistant fabric
 - Elastic waistband with lanyard
 - Swimsuit
+- Chlorine-resistant fabric
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08CPC4NV7/?tag=tolees-21)

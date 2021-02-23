@@ -28,8 +28,8 @@ Está [adidas BW Sol BIK Trajes de Dos Piezas  Mujer  Negro  Black   40  Talla d
 
 ℹ️:
 
+- Bikini
 - Stretch fabric
 - Adjustable lanyards
-- Bikini
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07KMPZ6LT/?tag=tolees-21)
