@@ -28,8 +28,8 @@ Está [adidas Handball Spezial  Sneaker Hombre  Collegiate Navy/Clear Sky/Gum  4
 
 ℹ️:
 
-- Cordones de zapatos
 - Corte regular
+- Cordones de zapatos
 - La parte superior de cuero de nubuck de cerdo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07K51KLMJ/?tag=tolees-21)

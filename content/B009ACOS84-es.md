@@ -29,9 +29,9 @@ Tienes [SEVERIN KG 2392 Plancha de Asar con placas intercambiables  1.800 W  col
 🔎:
 
 - Exquisita preparación de alimentos con patrón liso o de parrilla: asado sano y sin grasa gracias a las placas con revestimiento antiadherente, tostado uniforme en ambos lados gracias a la tapa abatible con placa
-- Contenido: 1 SEVERIN Plancha de asar, KG 2392, material: acero inoxidable y plástico, dimensiones (L x An x Al): 36 x 36 x 14 cm, peso: 5,683 kg, potencia: 1.800 W, color: acero inoxidable y plateado
-- Con función 180° para asar: uso simultáneo de ambas placas como barbacoa de mesa gracias a la tapa abatible, con termostato y luz piloto, Incluye bandeja recoge-grasa extraíble
-- Calidad alemana; potencia: aproximadamente 1.800 W, pintura resistente al calor, pies de goma antideslizantes, gran superficie de grill (L x An: 27 x 24 cm), fácil de limpiar con un paño húmedo
 - Plancha de asar compacta y economizadora de espacio para hacer pescado, carne y verduras a la plancha, tostar paninis y gratinar platos; incluye 2 placas lisas y 2 estriadas, intercambiables
+- Contenido: 1 SEVERIN Plancha de asar, KG 2392, material: acero inoxidable y plástico, dimensiones (L x An x Al): 36 x 36 x 14 cm, peso: 5,683 kg, potencia: 1.800 W, color: acero inoxidable y plateado
+- Calidad alemana; potencia: aproximadamente 1.800 W, pintura resistente al calor, pies de goma antideslizantes, gran superficie de grill (L x An: 27 x 24 cm), fácil de limpiar con un paño húmedo
+- Con función 180° para asar: uso simultáneo de ambas placas como barbacoa de mesa gracias a la tapa abatible, con termostato y luz piloto, Incluye bandeja recoge-grasa extraíble
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B009ACOS84/?tag=tolees-21)

@@ -29,7 +29,7 @@ Ahora mismo tienes [edc by Esprit 999cc1k802 Camisa Manga Larga  Blanco  White 1
 🔎:
 
 - Con doblez cosido en las mangas
-- Tiene escote con tira fina de canalé
 - Camiseta básica en tejido ligero de algodón
+- Tiene escote con tira fina de canalé
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07GYNSB47/?tag=tolees-21)

@@ -31,7 +31,7 @@ En este momento está [Sundis Torre A5 3 CAJONES  Negro](https://www.amazon.es/d
 - Complete la gama country
 - Lado del cajón efecto mimbre
 - Color: Negro
-- Material: Plástico
 - Hecho en Francia
+- Material: Plástico
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00MB3BJDG/?tag=tolees-21)
