@@ -28,10 +28,10 @@ Tienes [Rankie Adaptador DisplayPort a HDMI  Resolución 4K HDTV Convertidor  Ne
 
 ℹ️:
 
+- Conector DisplayPort con pestillos proporciona una conexión segura con un botón de liberación que debe ser presionado antes de desenchufar
 - Nota: para algunos dispositivos compatibles, que podría tomar unos segundos para que el video que se vea. Adaptador portátil se conecta un DisplayPort (DP, DP ++, DisplayPort ++) equipado portátil o de escritorio a un HDTV, monitor o proyector con entrada HDMI; Se requiere un cable HDMI (se vende por separado)
+- Conectores enchapados en oro resisten la corrosión, proporcionan durabilidad y mejorar la transmisión de la señal
 - Soporta resoluciones de vídeo de hasta 4K x 2K y digitales 7.1, 5.1 o 2 canales de audio sin comprimir
 - Transmite audio de alta definición y vídeo desde el ordenador a una televisión de alta definición para el streaming de vídeo o juegos de azar; Conectar y configurar su monitor para un escritorio extendido o Muestra Mirrored
-- Conector DisplayPort con pestillos proporciona una conexión segura con un botón de liberación que debe ser presionado antes de desenchufar
-- Conectores enchapados en oro resisten la corrosión, proporcionan durabilidad y mejorar la transmisión de la señal
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B010SDZZ80/?tag=tolees-21)

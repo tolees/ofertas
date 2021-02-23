@@ -28,10 +28,10 @@ En este momento está [HAOTIAN Funda para Xiaomi Poco X3 NFC y 2 Piezas Cristal 
 
 🔎:
 
-- Ajuste perfecto: Los Recortes Precisos Garantizan Un Fácil Acceso A Todas Las Funciones Y Los Labios Elevados Para Proteger La Pantalla Y La Cámara | PERFECT FIT: Precise cutouts ensure easy access to all features and raised lips to protect screen and camera.
-- Diseño compatible con el soporte magnético: en este caso, el soporte magnético para automóvil se gira libremente. El paquete incluye: 1 * Funda para teléfono Xiaomi Poco X3 NFC. 2 * vidrio a prueba de balas. 2 * paños con alcohol para limpiar la pantalla. 2 * paños de microfibra secos para pulir la pantalla. 2 * etiqueta de polvo.
+- Multifuncional: Anillo Giratorio De 360 Grados Reforzado Que Puede Agarrar Al Tomar Un Selfie. Kickstand Cómodo Para Una Experiencia De Visualización Manos Libres.
 - La doble capa híbrida de TPU y PC da tu Xiaomi Poco X3 NFC una excelente protección. Diseño clásico militar con un acabado efecto barnizado. Proceso de lijado especial, tacto fresco y delicado, sudor antideslizante antideslizante y antihuellas.
 - Silicona flexible de proceso micro-mate y estuche rígido metalizado para PC con anillo de dedo de la galjanoplastia, cubierta de función Kickstand Compatible con la serie Xiaomi Poco X3 NFC, un estuche agradable y cómodo de agarre.
-- Multifuncional: Anillo Giratorio De 360 Grados Reforzado Que Puede Agarrar Al Tomar Un Selfie. Kickstand Cómodo Para Una Experiencia De Visualización Manos Libres.
+- Diseño compatible con el soporte magnético: en este caso, el soporte magnético para automóvil se gira libremente. El paquete incluye: 1 * Funda para teléfono Xiaomi Poco X3 NFC. 2 * vidrio a prueba de balas. 2 * paños con alcohol para limpiar la pantalla. 2 * paños de microfibra secos para pulir la pantalla. 2 * etiqueta de polvo.
+- Ajuste perfecto: Los Recortes Precisos Garantizan Un Fácil Acceso A Todas Las Funciones Y Los Labios Elevados Para Proteger La Pantalla Y La Cámara | PERFECT FIT: Precise cutouts ensure easy access to all features and raised lips to protect screen and camera.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08HSHZZZY/?tag=tolees-21)

@@ -28,8 +28,8 @@ Tienes [HP UltraSlim Docking Station - Base de conexión para ordenador portáti
 
 ℹ️:
 
-- Docking station
 - Universal: Sí
+- Docking station
 - Color primario: negro
 - Por favor comprueba la lista de compatibilidad a continuación antes de comprar
 
