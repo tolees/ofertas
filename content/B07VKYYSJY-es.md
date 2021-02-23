@@ -29,7 +29,7 @@ Ahora mismo tienes [adidas Pantalones Cortos 1º equipación SL Benfica 2020-21 
 🔎:
 
 - 100% Recicled Polyester
-- Elastic waist with drawstring
 - SL Benfica crest
+- Elastic waist with drawstring
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VKYYSJY/?tag=tolees-21)
