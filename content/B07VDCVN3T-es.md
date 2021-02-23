@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Gamenote color kit de origami para niños con un 46.17 % de descuento'
-date: 2021-02-21 22:02:59
+date: 2021-02-23 04:45:46
 image: 'https://m.media-amazon.com/images/I/51ojwf1iSKL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Gamenote'
 buyurl: 'https://www.amazon.es/dp/B07VDCVN3T/?tag=tolees-21'
 descuento: '46.17'
-average: '15.9214285714286'
+average: '15.9104545454546'
 ---
 
 En este momento está [Gamenote color kit de origami para niños 118 archivo de origami vívido de doble cara 55 páginas que enseña libro de origami  adecuado para niños / clase de manualidades escolares](https://www.amazon.es/dp/B07VDCVN3T/?tag=tolees-21) a 13.99 EUR (original: 25.99 EUR) (46.17 %  de descuento) en el siguiente enlace!
