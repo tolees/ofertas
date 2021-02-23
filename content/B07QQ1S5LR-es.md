@@ -28,8 +28,8 @@ Tienes [Calvin Klein Thong  Tanga para Mujer  Gris  Grey Heather 020   X-Small](
 
 ℹ️:
 
+- Cabe algo más pequeño
 - Calvin Klein Signature - Cinturilla
 - Tanga para mujer, color gris
-- Cabe algo más pequeño
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07QQ1S5LR/?tag=tolees-21)
