@@ -28,10 +28,10 @@ Está [Licor del Polo - Enjuague Bucal Triple Acción - Antiplaca  Acción Antip
 
 ℹ️:
 
+- 3 soluciones en un solo uso
+- Para una boca fresca y limpia durante más tiempo
+- 1- anticaries 2- acción antiplaca bacteriana 3- frescor intenso.
 - Para adultos; ideal si quieres una triple acción en tu boca con el sabor original de licor del polo
 - Contiene fluor, que refuerza el esmalte de los dientes y los protege después del cepillado
-- 1- anticaries 2- acción antiplaca bacteriana 3- frescor intenso.
-- Para una boca fresca y limpia durante más tiempo
-- 3 soluciones en un solo uso
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07NRFGFV1/?tag=tolees-21)
