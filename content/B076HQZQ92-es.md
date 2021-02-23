@@ -1,37 +1,38 @@
 ---
 layout: post
-title: 'adidas CORE18 SW Top Sudadera  Hombre  R al 40.01 % de descuento'
-date: 2021-01-26 09:08:20
-image: 'https://m.media-amazon.com/images/I/41NkKbsR8hL._SL200_.jpg'
+title: 'adidas CORE18 SW Top Sudadera  Hombre  R al 30.01 % de descuento'
+date: 2021-02-23 12:34:00
+image: 'https://m.media-amazon.com/images/I/41NkKbsR8hL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B076HQZQ92-es adidas CORE18 SW Top Sudadera Hombre Rojo Rojo/Blanco L'
 sku: 'B076HQZQ92-es'
 tags: [  ]
-actualPrice: 23.99 EUR
+actualPrice: 27.99 EUR
 currency: EUR
-price: 23.99
+price: 27.99
 comparePrice: 39.99 EUR
 prodname: 'adidas CORE18 SW Top Sudadera  Hombre  Rojo  Rojo/Blanco   L'
 country: 'es'
 flag: '🇪🇸'
+brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B076HQZQ92/?tag=tolees-21'
-descuento: '40.01'
-average: '24.6566666666667'
+descuento: '30.01'
+average: '25.4900000000001'
 ---
 
-Ahora mismo tienes [adidas CORE18 SW Top Sudadera  Hombre  Rojo  Rojo/Blanco   L](https://www.amazon.es/dp/B076HQZQ92/?tag=tolees-21) a 23.99 EUR (original: 39.99 EUR) (40.01 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [adidas CORE18 SW Top Sudadera  Hombre  Rojo  Rojo/Blanco   L](https://www.amazon.es/dp/B076HQZQ92/?tag=tolees-21) a 27.99 EUR (original: 39.99 EUR) (30.01 %  de descuento) en el siguiente enlace!
 
-[![adidas CORE18 SW Top Sudadera  Hombre  R](https://m.media-amazon.com/images/I/41NkKbsR8hL._SL200_.jpg)](https://www.amazon.es/dp/B076HQZQ92/?tag=tolees-21)
+[![adidas CORE18 SW Top Sudadera  Hombre  R](https://m.media-amazon.com/images/I/41NkKbsR8hL._SL400_.jpg)](https://www.amazon.es/dp/B076HQZQ92/?tag=tolees-21)
 
 🔎:
 
 - Logotipo de adidas bordado en el pecho.
 - Cuenta con un pequeño logotipo de Adidas en el pecho
+- Puños y dobladillo de canalé.
 - Corte clásico más ancho y silueta recta.
 - Mangas con ribete en contraste.
 - Manga raglán.
-- Puños y dobladillo de canalé.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B076HQZQ92/?tag=tolees-21)

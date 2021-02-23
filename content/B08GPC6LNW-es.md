@@ -28,8 +28,8 @@ Está [Samsung Galaxy A31 - Smartphone 6.4" Super AMOLED  teléfono 4GB RAM  128
 
 ℹ️:
 
-- Consigue aún más espacio. Memoria ampliable a 512 GB con tarjeta Micro SD
 - Batería del smartphone - 5.000 mAh con carga rápida de 15kW
+- Consigue aún más espacio. Memoria ampliable a 512 GB con tarjeta Micro SD
 - Pantalla del móvil - Super AMOLED infinity-U, con 6.4 pulgadas con FHD+
 - Cámara del móvil - cámara principal de 48MP, cámara ultra gran angular de 8MP y cámara de profundidad de 5MP
 
