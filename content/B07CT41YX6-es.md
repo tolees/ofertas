@@ -30,8 +30,8 @@ Está [PDP Gaming - Mando con cable Afterglow Prismtatic Licenciado  Xbox One ](
 
 - Incluye un cable micro USB desenchufable de 3 m que permite disponer de mucho sitio para jugar con facilidad. Además, también puedes cargar fácilmente otros dispositivos con este cable.
 - Compatible con Xbox One, Series X/S y Windows.
+- Con la iluminación LED refractiva característica de Afterglow: establece tu color favorito.
 - Enchufa tus auriculares al conector de audio de 3,5 mm y disfruta de los controles de conversación y volumen ubicados directamente en el mando.
 - Mejora de la experiencia de juego con retroalimentación de vibración.
-- Con la iluminación LED refractiva característica de Afterglow: establece tu color favorito.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07CT41YX6/?tag=tolees-21)

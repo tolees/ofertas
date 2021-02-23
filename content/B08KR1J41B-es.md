@@ -28,10 +28,10 @@ Está [Lysol - Spray desinfectante y limpiador multiusos  mata virus y bacterias
 
 ℹ️:
 
-- Sin fosfatos ni colorantes, no deja químicos abrasivos en la superficie y es apto para baños, cocinas, superficies de madera y vidrio, tiradores y pomos, muebles, sillas y pavimentos
-- En Lysol llevamos más de 130 años desinfectando los hogares de todo el mundo
 - Limpia tu hogar sin lejía, elimina la suciedad y las manchas de múltiples superficies de tu hogar
-- Desinfecta: elimina el 99.9 % de bacterias como E; coli (diarrea),​ S; aureus,​ P; aeruginosa,​ E; hirae​ (Salmonella entérica), y virus como Rhinovirus (resfriado) Influenza A H1N1 (gripe)
+- En Lysol llevamos más de 130 años desinfectando los hogares de todo el mundo
 - Spray desinfectante indicado para la limpieza y desinfección de múltiples superficies del hogar, con un agradable aroma a manzana
+- Sin fosfatos ni colorantes, no deja químicos abrasivos en la superficie y es apto para baños, cocinas, superficies de madera y vidrio, tiradores y pomos, muebles, sillas y pavimentos
+- Desinfecta: elimina el 99.9 % de bacterias como E; coli (diarrea),​ S; aureus,​ P; aeruginosa,​ E; hirae​ (Salmonella entérica), y virus como Rhinovirus (resfriado) Influenza A H1N1 (gripe)
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08KR1J41B/?tag=tolees-21)

@@ -28,10 +28,10 @@ Tienes [Revlon Ultra HD Pintalabios Mate  Love ](https://www.amazon.es/dp/B017B4
 
 🔎:
 
+- Sensación hidratante y sedosa
+- 100% libre de cera
+- Con aplicador profesional
 - Agradable fragancia a vainilla
 - Color puro de alta definición con acabado mate y libre de ceras y Tecnología HD alta definición
-- Sensación hidratante y sedosa
-- Con aplicador profesional
-- 100% libre de cera
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B017B4RAPA/?tag=tolees-21)
