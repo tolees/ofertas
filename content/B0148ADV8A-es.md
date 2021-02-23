@@ -28,12 +28,12 @@ En este momento está [AEG EWA3300 Hervidor Serie 3  Temperatura hasta 100ºC  C
 
 🔎:
 
+- Función de apagado automático
 - La función de apagado automático ayuda evitar el sobrecalentamiento
-- Gracias a su base giratoria con giro de 360° el hervidor se puede colocar desde cualquier ángulo
+- El filtro antical es extraíble y lavable apto para lavavajillas
 - El botón de apertura está situado en la parte superior del asa, lo que permite abrir la tapa mientras sostienes el hervidor
 - El hervidor EWA3300 tiene una capacidad de 1.7 litros
-- El filtro antical es extraíble y lavable apto para lavavajillas
+- Gracias a su base giratoria con giro de 360° el hervidor se puede colocar desde cualquier ángulo
 - Filtro antical extraíble y lavable
-- Función de apagado automático
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0148ADV8A/?tag=tolees-21)

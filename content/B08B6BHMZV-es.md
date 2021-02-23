@@ -29,9 +29,9 @@ Está [HAWKERS Nº35 Sunglasses  ROSA/ORO  One Size Unisex-Adult](https://www.am
 ℹ️:
 
 - Montura fabricada en TR90 que dota a las gafas de gran ligereza, flexibilidad y resistencia; muy resistente a altas y bajas temperaturas
-- Producto original Hawkers; la caja incluye funda de microfibra, caja y set de pegatinas decorativas
 - Medidas: Frente: 14.2 cm, Altura: 4.4 cm, Diámetro de la lente: 5.1 cm; Puente: 1.4 cm; Varillas: 14.5 cm
-- Gafas de Sol Nº35, Unisex, rediseño de uno de los iconos de los años 50; su montura carey contrasta con sus lentes verde botella
 - Lentes verde botella, fabricada en TR18, con reducción de brillos y con gran equilibrio entre claridad y protección; lente de categoría 3 con protección UV404
+- Gafas de Sol Nº35, Unisex, rediseño de uno de los iconos de los años 50; su montura carey contrasta con sus lentes verde botella
+- Producto original Hawkers; la caja incluye funda de microfibra, caja y set de pegatinas decorativas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08B6BHMZV/?tag=tolees-21)

@@ -28,10 +28,10 @@ Tienes [VANS Atwood  Zapatillas Hombre  Gris  Canvas Pewter/White 4WV   38.5 EU]
 
 ℹ️:
 
-- Cierre: Cordones
 - Tipo de tacón: Plano
 - Tipo de talla: Talla estándar
-- Anchura del zapato: Normal
+- Cierre: Cordones
 - Composición: Textil
+- Anchura del zapato: Normal
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00M0DZUAA/?tag=tolees-21)

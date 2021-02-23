@@ -28,13 +28,13 @@ En este momento está [Polti Vaporetto Smart 30 R Limpiador a vapor  3 Bar  comp
 
 🔎:
 
-- Ojo! Accesorios como pequeños cepillos están dentro de la Vaporella
+- 12 accesorios en dotación
 - Asa confort para un fácil transporte
 - Caldera a presión con tapón de seguridad hasta 3 bar
-- Capacidad depósito 1,6 litros
-- Amplio compartimento para guardar los accesorios
 - Regulación vapor hasta 85 g/min
 - Higieniza con el vapor, sin productos químicos, diseñado para personas alérgicas, neutraliza y elimina ácaros, gérmenes y bacterias
-- 12 accesorios en dotación
+- Ojo! Accesorios como pequeños cepillos están dentro de la Vaporella
+- Amplio compartimento para guardar los accesorios
+- Capacidad depósito 1,6 litros
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B016L3IJFW/?tag=tolees-21)

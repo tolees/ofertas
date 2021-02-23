@@ -28,10 +28,10 @@ En este momento está [Kosiy Amplificador WiFi Repetidor hasta 1200 Mbit/s  Dual
 
 🔎:
 
-- 【Dos modos de trabajo】El modo AP convierte una red por cable en una red inalámbrica sin necesidad de configurar Plug and Play. El modo Booster WiFi se utiliza para extender la cobertura Wi-Fi de las redes inalámbricas existentes. Compatible con protocolos de seguridad inalámbricos WEP y WPA/WPA2.
-- 【 Repetidor WiFi de doble banda 】 Aumenta el alcance de la red WiFi gracias a la funcionalidad de doble banda integrada. 2,4 GHz es mucho más estable, mientras que los 5 GHz son más rápidos. (5 GHz, 867 Mbps + 2,4 GHz 300 Mbps). Con 2 puertos Gigabit Ethernet LAN integrados para Smart TV, teléfono, iPad, consolas de juegos, cajas de streaming, etc.
-- 【Compatibilidad universal】Compatible con dispositivos 802.11ac / a / n / g / b Trabaja con todos los dispositivos inalámbricos de red, router y Wi-Fi. Además, la señal WiFi se puede conectar a través de 10 dispositivos. Es ideal para hogares grandes con múltiples dispositivos y un uso fuerte de medios en línea.
-- 【Amplificador WLAN de alta velocidad de 1200 Mbps】Amplificador WLAN con 2 antenas para una potencia máxima de señal. Con una velocidad de hasta 1200 Mbit/s, la red inalámbrica amplía a áreas de difícil acceso, tu dormitorio, la cocina, el lavadero e incluso tu jardín.
 - Contenido del envío: 1 repetidor WiFi; 1 guía de instalación rápida (idioma español no garantizado). Ofrecemos reemplazo gratuito dentro de un año, 24 x 7 servicio al cliente.
+- 【Compatibilidad universal】Compatible con dispositivos 802.11ac / a / n / g / b Trabaja con todos los dispositivos inalámbricos de red, router y Wi-Fi. Además, la señal WiFi se puede conectar a través de 10 dispositivos. Es ideal para hogares grandes con múltiples dispositivos y un uso fuerte de medios en línea.
+- 【Dos modos de trabajo】El modo AP convierte una red por cable en una red inalámbrica sin necesidad de configurar Plug and Play. El modo Booster WiFi se utiliza para extender la cobertura Wi-Fi de las redes inalámbricas existentes. Compatible con protocolos de seguridad inalámbricos WEP y WPA/WPA2.
+- 【Amplificador WLAN de alta velocidad de 1200 Mbps】Amplificador WLAN con 2 antenas para una potencia máxima de señal. Con una velocidad de hasta 1200 Mbit/s, la red inalámbrica amplía a áreas de difícil acceso, tu dormitorio, la cocina, el lavadero e incluso tu jardín.
+- 【 Repetidor WiFi de doble banda 】 Aumenta el alcance de la red WiFi gracias a la funcionalidad de doble banda integrada. 2,4 GHz es mucho más estable, mientras que los 5 GHz son más rápidos. (5 GHz, 867 Mbps + 2,4 GHz 300 Mbps). Con 2 puertos Gigabit Ethernet LAN integrados para Smart TV, teléfono, iPad, consolas de juegos, cajas de streaming, etc.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07GBZNKD3/?tag=tolees-21)

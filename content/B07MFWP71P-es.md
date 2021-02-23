@@ -28,10 +28,10 @@ Está [Paladone Products LAMPARA Pacman Pixelated  Multicolor](https://www.amazo
 
 ℹ️:
 
-- Producto con licencia oficial
-- Alimentación por USB o tres pilas AAA (no incluidas en el producto).
-- Diseño único e inconfundible
 - Una gran idea de regalo para los verdaderos amantes del videojuego pacman
+- Diseño único e inconfundible
+- Producto con licencia oficial
 - Altura: 15 cm
+- Alimentación por USB o tres pilas AAA (no incluidas en el producto).
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07MFWP71P/?tag=tolees-21)

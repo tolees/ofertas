@@ -28,8 +28,8 @@ Tienes [Shunga Toko Orgánica Lubricante  Transparente - 165 ml](https://www.ama
 
 ℹ️:
 
-- Ideal para quienes requieren un toque de hidratación extra y busquen un producto que brinde sensaciones naturales
 - De textura sedosa y con ingredientes de certificado orgánico
+- Ideal para quienes requieren un toque de hidratación extra y busquen un producto que brinde sensaciones naturales
 - Lubricante a base de agua de larga duración que pretende emular la lubricación natural
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000V1SV0O/?tag=tolees-21)

@@ -28,8 +28,8 @@ Ahora mismo tienes [Tenda U3 Mini Adaptador Inalámbrico USB  300 Mbps Velocidad
 
 🔎:
 
-- Interfaz: WLAN
 - Interfaz de host: USB
+- Interfaz: WLAN
 - Tasa de transferencia (máx): 300Mbit/s
 - Tecnología de conectividad: Wireless
 - Interno: N
