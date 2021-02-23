@@ -28,10 +28,10 @@ En este momento está [Safescan 70 Negro - Detector UV con luz LED para verifica
 
 🔎:
 
-- Verifica las características UV, la marca de agua, la microimpresión y el hilo metálico de los billetes
-- Con tecnología de precalentamiento al arranque para triplicar la vida útil de la lámpara
 - Detector UV de billetes falsos con diseño que ocupa poco espacio
-- Sensor de encender y apagar automático
+- Verifica las características UV, la marca de agua, la microimpresión y el hilo metálico de los billetes
 - Comprueba tarjetas de crédito, pasaportes y otros documentos de identificación
+- Sensor de encender y apagar automático
+- Con tecnología de precalentamiento al arranque para triplicar la vida útil de la lámpara
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B006ZGA68E/?tag=tolees-21)

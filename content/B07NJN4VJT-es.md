@@ -28,9 +28,9 @@ Tienes [PDP - Auricular con cable](https://www.amazon.es/dp/B07NJN4VJT/?tag=tole
 
 🔎:
 
-- Diseño transpirable y ligero para largas sesiones de juego.
-- Conexión inalámbrica de hasta 12 m, con batería de larga duración de hasta 16 horas.
 - Su micrófono bidireccional con cancelación de ruido ofrece una comunicación clara.
+- Conexión inalámbrica de hasta 12 m, con batería de larga duración de hasta 16 horas.
+- Diseño transpirable y ligero para largas sesiones de juego.
 - Compatible con Playstation 4, Playstation 5
 - Silencia tu micrófono con solo subirlo en un rápido movimiento.
 

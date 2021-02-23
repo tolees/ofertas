@@ -28,10 +28,10 @@ Ahora mismo tienes [OtterBox Defender - Funda anti caídas robusta para iPhone X
 
 🔎:
 
-- Diseño sin pantalla: ofrece acceso total a tu pantalla táctil
-- Tapas protectoras para los puertos: las tapas de fácil acceso para los puertos evitan la entrada de polvo, pelusas y suciedad en tu teléfono
-- Funda - soporte para cinturón: la funda - soporte para cinturón incluida proporciona una tercera capa de protección y funciona como soporte manos libres
-- Compatible con Alpha Glass: el diseño sin pantalla significa que esta funda de la serie defender es compatible con el protector de pantalla Alpha Glass de OtterBox para una protección de 360°
 - Protección de triple capa: funda de triple capa a prueba de caídas, carcasa interior rígida, resistente cubierta deslizante exterior y funda-soporte para cinturón incluida
+- Tapas protectoras para los puertos: las tapas de fácil acceso para los puertos evitan la entrada de polvo, pelusas y suciedad en tu teléfono
+- Compatible con Alpha Glass: el diseño sin pantalla significa que esta funda de la serie defender es compatible con el protector de pantalla Alpha Glass de OtterBox para una protección de 360°
+- Funda - soporte para cinturón: la funda - soporte para cinturón incluida proporciona una tercera capa de protección y funciona como soporte manos libres
+- Diseño sin pantalla: ofrece acceso total a tu pantalla táctil
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00Z7RPYEI/?tag=tolees-21)

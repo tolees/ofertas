@@ -29,8 +29,8 @@ Ahora mismo tienes [Karcher - Kärcher Pistola pulverizadora para riego  2.645-2
 🔎:
 
 - Manija de activación con bloqueo sencillo.
+- Autodrenante.
 - Modo de pulverización de flujo de foco a cono regulable sin escalonamiento.
 - Válvula de regulación ergonómica.
-- Autodrenante.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B017XAFYLE/?tag=tolees-21)
