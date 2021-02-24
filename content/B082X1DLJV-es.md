@@ -28,8 +28,8 @@ Está [Hurley M Phtm Party Pack 18  Bañador  Hombre  Washed Pink  36](https://w
 
 ℹ️:
 
-- El tejido Phantom es de secado rápido y elástico en cuatro direcciones para máxima comodidad y movilidad
-- Ajuste normal
 - Largo de 46 cm por encima de la rodilla para mayor libertad de movimiento
+- Ajuste normal
+- El tejido Phantom es de secado rápido y elástico en cuatro direcciones para máxima comodidad y movilidad
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B082X1DLJV/?tag=tolees-21)
