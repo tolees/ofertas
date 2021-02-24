@@ -28,10 +28,10 @@ Ahora mismo tienes [Hurley - W Block Party One Piece](https://www.amazon.es/dp/B
 
 🔎:
 
-- Espalda nadadora con canalé de una pieza con inserción de rayas Block Party en todo el pecho y sujetador interior para una mejor sujeción.
-- Logotipo de Hurley impreso con calor.
-- Cobertura moderada.
 - 86 % Poliéster / 14 % Spandex.
+- Espalda nadadora con canalé de una pieza con inserción de rayas Block Party en todo el pecho y sujetador interior para una mejor sujeción.
+- Cobertura moderada.
+- Logotipo de Hurley impreso con calor.
 - Rápido secado.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VFWLCPR/?tag=tolees-21)
