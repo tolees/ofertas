@@ -28,10 +28,10 @@ Tienes [WOWOWO Taza de Acero Inoxidable de café vietnamita Herramienta de cafet
 
 ℹ️:
 
-- Filtro de café vietnamita atornillado
-- Para comenzar a hacer su propio café helado vietnamita delicioso en casa, haga clic en el botón "agregar al carrito"
-- Fabricado en VIETNAM (no China) con acero inoxidable de CALIDAD. INSERTO A TORNILLO. Fácil de limpiar.
 - Manera impresionante de preparar café. Filtro económico, portátil, reutilizable y ecológico.
+- Fabricado en VIETNAM (no China) con acero inoxidable de CALIDAD. INSERTO A TORNILLO. Fácil de limpiar.
+- Filtro de café vietnamita atornillado
 - Use el café robusta tradicional vietnamita o muela los granos de café de su elección. INSTRUCCIONES incluidas.
+- Para comenzar a hacer su propio café helado vietnamita delicioso en casa, haga clic en el botón "agregar al carrito"
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08T1ZXK5Y/?tag=tolees-21)

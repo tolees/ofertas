@@ -28,8 +28,8 @@ Está [Levi s 512 Slim Taper Vaqueros  Sage Overt Adv Tnl  31W / 34L para Hombre
 
 ℹ️:
 
+- Corte ajustado en los muslos
 - Diseño de cinco bolsillos
 - Apertura de pierna pitillo
-- Corte ajustado en los muslos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07RSFFFG6/?tag=tolees-21)
