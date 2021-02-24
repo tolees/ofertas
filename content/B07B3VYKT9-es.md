@@ -28,9 +28,9 @@ Tienes [Scuderia Ferrari Reloj Analógico para Niños de Cuarzo con Correa en Si
 
 🔎:
 
-- Caja de acero inoxidable cepillado
 - 3 ATM de resistencia al agua
 - Gran tamaño para una lectura fácil
+- Caja de acero inoxidable cepillado
 - Correa de silicona negra con diseño de pistas de carreras rojo
 - Esfera negra
 
