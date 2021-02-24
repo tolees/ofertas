@@ -28,9 +28,9 @@ Está [Bethesda - Wolfenstein II: The New Colossus](https://www.amazon.es/dp/B07
 
 ℹ️:
 
-- Descubre infinidad de secretos, mejoras de armas y habilidades, ilustraciones, coleccionables y misiones secundarias que te asegurarán muchas horas de juego
-- Sumérgete en el papel de B. J. Blazkowicz: protege a tu familia y amigos, forja nuevas alianzas y enfréntate a los fantasmas de tu pasado mientras reunes a la resistencia para acabar con la ocupación del régimen al enfrentarte a la malvada Frau Engel y su ejército
-- Vive en la segunda revolución americana: lucha en un Manhattan postnuclear, Nuevo México o los pantanos y bulevares asediados de Nueva Orleans, mientras liberas al pueblo americano del régimen
 - Equípate con un arsenal de más de 10 armas para derrotar a los enemigos que se interpongan en tu camino
+- Descubre infinidad de secretos, mejoras de armas y habilidades, ilustraciones, coleccionables y misiones secundarias que te asegurarán muchas horas de juego
+- Vive en la segunda revolución americana: lucha en un Manhattan postnuclear, Nuevo México o los pantanos y bulevares asediados de Nueva Orleans, mientras liberas al pueblo americano del régimen
+- Sumérgete en el papel de B. J. Blazkowicz: protege a tu familia y amigos, forja nuevas alianzas y enfréntate a los fantasmas de tu pasado mientras reunes a la resistencia para acabar con la ocupación del régimen al enfrentarte a la malvada Frau Engel y su ejército
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07CMH5BP1/?tag=tolees-21)

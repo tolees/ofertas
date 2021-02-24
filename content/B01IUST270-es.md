@@ -31,7 +31,7 @@ Tienes [Gullón - Galletas cereales Dibus Mini Angry Birds 250g](https://www.ama
 - Con vitaminas y hierro.
 - Mini galletas con 6 cereales, con forma de los personajes de Angry Birds.
 - Estas deliciosas galletas son una fuente de fibra, el mejor desayuno para los más pequeños.
-- No contienen lactosa ni proteínas de leche, tampoco huevo ni frutos secos.
 - Sin aceite de palma. Producto elaborado con aceite de girasol alto oleico. Fabricado por Galletas Gullón.
+- No contienen lactosa ni proteínas de leche, tampoco huevo ni frutos secos.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01IUST270/?tag=tolees-21)
