@@ -28,7 +28,7 @@ Tienes [New Balance Hombre 574v2-core Trainers Zapatillas  Verde  Olive Night   
 
 🔎:
 
-- Revestimiento: Tela
 - Material exterior: Cuero
+- Revestimiento: Tela
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B06XWYCT4W/?tag=tolees-21)

@@ -28,9 +28,9 @@ Ahora mismo tienes [goldenpoint Leggings Flare Crepé](https://www.amazon.es/dp/
 
 🔎:
 
-- Flare trousers
-- Elasticated waist
 - Available in size XS - S - M - L
+- Elasticated waist
+- Flare trousers
 - Fitted in the leg and slightly flared at the ankle
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08FCLDL7S/?tag=tolees-21)
