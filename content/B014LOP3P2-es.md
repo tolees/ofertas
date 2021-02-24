@@ -28,10 +28,10 @@ Ahora mismo tienes [Metronic 451056 - Soporte de sobremesa para Pantalla  Color 
 
 🔎:
 
-- Vesa 75, 100
-- Para pantallas / monitores LCD/LED de 13 a 23 pulgadas
 - Peso máximo soportado: 15Kg
+- Vesa 75, 100
 - Altura máxima: 370mm
 - Profundidad máxima (brazo completamente extendido): 429mm
+- Para pantallas / monitores LCD/LED de 13 a 23 pulgadas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B014LOP3P2/?tag=tolees-21)

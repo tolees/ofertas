@@ -28,9 +28,9 @@ Tienes [Philips Serie 5000 S5110/06 - Afeitadora eléctrica para hombre rotativa
 
 🔎:
 
-- Cabezales Flex de 5 direcciones para un afeitado apurado y rápido
-- 40 minutos de afeitado sin cable
 - Recortador de fácil montaje para lucir un perfilado de patillas y de bigote perfecto
+- 40 minutos de afeitado sin cable
+- Cabezales Flex de 5 direcciones para un afeitado apurado y rápido
 - La afeitadora se puede enjuagar bajo el grifo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B012W0T9HK/?tag=tolees-21)
