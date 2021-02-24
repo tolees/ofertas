@@ -28,8 +28,8 @@ Tienes [FILA Disruptor  Zapatillas Mujer  Negro  Black   39 EU](https://www.amaz
 
 ℹ️:
 
-- another material
-- adulto
 - Black
+- adulto
+- another material
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B078CY3XX5/?tag=tolees-21)
