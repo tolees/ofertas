@@ -1,32 +1,34 @@
 ---
 layout: post
-title: 'New Balance 574 Zapatillas Hombre  Verde al 40.00 % de rebaja'
-date: 2020-06-28 14:42:16
-image: 'https://m.media-amazon.com/images/I/41Pw8A6rhPL._SL400_.jpg'
+title: 'New Balance Hombre 574v2-core Trainers Z al 53.94 % de rebaja'
+date: 2021-02-24 12:45:26
+image: 'https://m.media-amazon.com/images/I/41hH41avSxL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XWYCT4W-es New Balance 574 Zapatillas Hombre Verde Olive EGO 37.5 EU...'
+slug: 'B06XWYCT4W-es New Balance Hombre 574v2-core Trainers Zapatillas Verde...'
 sku: 'B06XWYCT4W-es'
 tags: [  ]
-actualPrice: 54.0 EUR
+actualPrice: 41.45 EUR
 currency: EUR
-price: 54.0
+price: 41.45
 comparePrice: 90.0 EUR
-prodname: 'New Balance 574 Zapatillas Hombre  Verde  Olive EGO   37.5 EU  4.5 UK '
+prodname: 'New Balance Hombre 574v2-core Trainers Zapatillas  Verde  Olive Night   37.5 EU'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'New Balance'
 buyurl: 'https://www.amazon.es/dp/B06XWYCT4W/?tag=tolees-21'
-descuento: '40.00'
-average: '54.0'
+descuento: '53.94'
+average: '49.8166666666667'
 ---
 
-Tienes [New Balance 574 Zapatillas Hombre  Verde  Olive EGO   37.5 EU  4.5 UK ](https://www.amazon.es/dp/B06XWYCT4W/?tag=tolees-21) con precio final de  54.0 EUR (original: 90.0 EUR) (40.00 %  de rebaja) aqui!
+Tienes [New Balance Hombre 574v2-core Trainers Zapatillas  Verde  Olive Night   37.5 EU](https://www.amazon.es/dp/B06XWYCT4W/?tag=tolees-21) con precio final de  41.45 EUR (original: 90.0 EUR) (53.94 %  de rebaja) aqui!
 
-[![New Balance 574 Zapatillas Hombre  Verde](https://m.media-amazon.com/images/I/41Pw8A6rhPL._SL400_.jpg)](https://www.amazon.es/dp/B06XWYCT4W/?tag=tolees-21)
+[![New Balance Hombre 574v2-core Trainers Z](https://m.media-amazon.com/images/I/41hH41avSxL._SL400_.jpg)](https://www.amazon.es/dp/B06XWYCT4W/?tag=tolees-21)
 
 🔎:
 
+- Revestimiento: Tela
+- Material exterior: Cuero
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B06XWYCT4W/?tag=tolees-21)

@@ -28,9 +28,9 @@ En este momento está [Hurley W Base Crew Fleece Sudaderas  Mujer  Dark Grey htr
 
 🔎:
 
+- Manga larga
 - Mezcla de algodón suave y poliéster para ofrecer comodidad durante todo el día
 - Ajuste clásico
-- Manga larga
 - Cremallera y cierres a presión en la tapeta de la parte central delantera
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07SRYC8SS/?tag=tolees-21)

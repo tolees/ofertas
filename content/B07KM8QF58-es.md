@@ -28,8 +28,8 @@ En este momento está [NIKE Nk Elmntl Bkpk-2.0 Mochilla de Deporte  Unisex Adult
 
 🔎:
 
-- Large main Compartiment
 - Dimensions: 48, 5 cm x 30, 5 cm x 15
+- Large main Compartiment
 - Padded and adjustable shoulder straps
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07KM8QF58/?tag=tolees-21)
