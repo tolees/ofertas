@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Nike Revolution 5  Zapatillas de Atletis con un 37.84 % de descuento'
-date: 2021-01-28 12:28:34
-image: 'https://m.media-amazon.com/images/I/310WacJW3uL._SL200_.jpg'
+date: 2021-02-24 10:01:25
+image: 'https://m.media-amazon.com/images/I/310WacJW3uL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -16,14 +16,15 @@ comparePrice: 55.0 EUR
 prodname: 'Nike Revolution 5  Zapatillas de Atletismo Mujer  Multicolor  White/Wolf Grey/Pure Platinum 100   35.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: 'NIKE'
 buyurl: 'https://www.amazon.es/dp/B07Q3WPFPX/?tag=tolees-21'
 descuento: '37.84'
-average: '36.9466666666667'
+average: '36.2575000000001'
 ---
 
 En este momento está [Nike Revolution 5  Zapatillas de Atletismo Mujer  Multicolor  White/Wolf Grey/Pure Platinum 100   35.5 EU](https://www.amazon.es/dp/B07Q3WPFPX/?tag=tolees-21) a 34.19 EUR (original: 55.0 EUR) (37.84 %  de descuento) en el siguiente enlace!
 
-[![Nike Revolution 5  Zapatillas de Atletis](https://m.media-amazon.com/images/I/310WacJW3uL._SL200_.jpg)](https://www.amazon.es/dp/B07Q3WPFPX/?tag=tolees-21)
+[![Nike Revolution 5  Zapatillas de Atletis](https://m.media-amazon.com/images/I/310WacJW3uL._SL400_.jpg)](https://www.amazon.es/dp/B07Q3WPFPX/?tag=tolees-21)
 
 🔎:
 

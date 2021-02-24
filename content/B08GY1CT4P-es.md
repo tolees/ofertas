@@ -29,9 +29,9 @@ Tienes [Hurley W Allover Tie Dye Fleece Jogger](https://www.amazon.es/dp/B08GY1C
 🔎:
 
 - 27" Entrepierna.
-- Corte Clásico.
 - Logotipo de Hurley clip en cinturilla izquierda.
-- 60 % Algodón / 40 % Poliéster.
+- Corte Clásico.
 - Pantalón de jogging polar con cintura elástica y cordón de sarga, todo teñido tie dye.
+- 60 % Algodón / 40 % Poliéster.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08GY1CT4P/?tag=tolees-21)

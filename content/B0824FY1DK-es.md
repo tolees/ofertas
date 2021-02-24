@@ -28,9 +28,9 @@ Está [Wipp Express Detergente Antiolores en Cápsulas 50 Discos - Pack de 3  To
 
 ℹ️:
 
-- Con Tecnología Neutralizadora de olores para combatir los malos olores como, por ejemplo, de tabaco o humedad.
-- Ofrece una Limpieza Profunda, que penetra en las fibras para eliminar incluso las manchas más difíciles
-- Poder 4en1: Gran poder quitamanchas, Luminosidad, Frescor duradero y Protección de las fibras
 - Para todo tipo de ropa: blanca, de color, de cotón, sintética, ropa de deporte…
+- Ofrece una Limpieza Profunda, que penetra en las fibras para eliminar incluso las manchas más difíciles
+- Con Tecnología Neutralizadora de olores para combatir los malos olores como, por ejemplo, de tabaco o humedad.
+- Poder 4en1: Gran poder quitamanchas, Luminosidad, Frescor duradero y Protección de las fibras
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0824FY1DK/?tag=tolees-21)

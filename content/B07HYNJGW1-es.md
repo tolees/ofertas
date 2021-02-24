@@ -28,8 +28,8 @@ Está [soldanza Bananitos - 24 De 71 Gr; total: 1704 Gr](https://www.amazon.es/d
 
 ℹ️:
 
+- Este producto no contiene alérgeno
 - Colocar sobre tarima, en lugar fresco, seco y ventilado, mantener perfectamente cerrado
 - Los chips de banano están listos para consumo, y no requiere más cocción
-- Este producto no contiene alérgeno
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07HYNJGW1/?tag=tolees-21)

@@ -28,8 +28,8 @@ Ahora mismo tienes [adidas Continental 80  Zapatillas de Gimnasia Hombre  Blanco
 
 🔎:
 
-- Empeine de piel suave.
-- Suela de goma preformada dividida con inserto de EVA.
 - Forro interior de tela.
+- Suela de goma preformada dividida con inserto de EVA.
+- Empeine de piel suave.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07K1J7GKV/?tag=tolees-21)

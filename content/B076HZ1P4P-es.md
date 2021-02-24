@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MONRAY NGS Ginger maletín para Ordenador al 31.26 % de rebaja'
-date: 2021-02-22 15:38:49
+date: 2021-02-24 10:38:46
 image: 'https://m.media-amazon.com/images/I/415Hlgrko+L._SL400_.jpg'
 comments: true
 category: ofertas

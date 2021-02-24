@@ -28,9 +28,9 @@ Tienes [L Oreal Paris Elvive Aceite Extraordinario - 100 ml](https://www.amazon.
 
 🔎:
 
-- Cabello sedoso
-- Formulado con aceite de jojoba
-- Nutrición intensa
 - Toque luminoso
+- Cabello sedoso
+- Nutrición intensa
+- Formulado con aceite de jojoba
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00X9WJBEC/?tag=tolees-21)

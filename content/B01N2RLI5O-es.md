@@ -28,10 +28,10 @@ Tienes [Epson C13T29934022 - Cartucho de tinta](https://www.amazon.es/dp/B01N2RL
 
 ℹ️:
 
-- Número de páginas impresas: 450
-- De alto rendimiento
-- Fresa
-- Dispositivos compatibles: Expression Home XP-445
 - Rf & Am Alarma
+- Fresa
+- De alto rendimiento
+- Dispositivos compatibles: Expression Home XP-445
+- Número de páginas impresas: 450
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01N2RLI5O/?tag=tolees-21)

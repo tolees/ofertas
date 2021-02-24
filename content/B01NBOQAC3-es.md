@@ -29,9 +29,9 @@ En este momento está [Google Nest - Nest – Cámara de Seguridad Indoor](https
 🔎:
 
 - Cuida de tu casa, vigila a tus mascotas o mira qué hace tu bebé durante la noche
-- Visión día y noche en HD 1080p, gran ángulo de visión, Clear Zoom y Visión nocturna avanzada
-- Recibe alertas de movimiento y ruido en tu teléfono, correo electrónico y smartwatch (Apple y Android Wear)
-- Ve lo que ocurre en casa en directo o retrocede hasta 3 horas en el tiempo con el historial de eventos
 - Mira, habla y escucha: puedes oír lo que sucede y responder con la aplicación Nest
+- Ve lo que ocurre en casa en directo o retrocede hasta 3 horas en el tiempo con el historial de eventos
+- Recibe alertas de movimiento y ruido en tu teléfono, correo electrónico y smartwatch (Apple y Android Wear)
+- Visión día y noche en HD 1080p, gran ángulo de visión, Clear Zoom y Visión nocturna avanzada
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01NBOQAC3/?tag=tolees-21)
