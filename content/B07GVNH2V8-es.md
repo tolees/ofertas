@@ -28,11 +28,11 @@ En este momento está [TP-LINK AC2200 Deco M9 Plus  3-pack  - Amplificador wifi 
 
 🔎:
 
-- Todo en 1 - router inalámbrico + extensores de wifi + dispositivo de control parental + caja de seguridad + smart hub = deco m9 plus
-- Tp-link homecaretm - 3 años de homecare gratuito implementado por trend micro (valor 320) protege todos los dispositivos conectados a tu red de las más de 100.000 nuevas amenazas de seguridad que aparecen diariamente
 - Todo poderoso en smart home - soportan incluso wi-fi、bluetooth 4.2、zigbee ha1.2 que puede gestionar el tráfico incluso en redes muy saturadas, proporcionando conexiones sin retardo a más de 100 dispositivos
-- Cobertura completa- tres decos trabajan juntos para crear una red wifi transparente en cada habitación, ocho antenas internas por cada deco, pack de 3 cubren hasta 600²
 - Soporte técnico gratuito – tp-link españa proporciona soporte técnico local gratuito para usuarios en españa, puede encontrar información de contacto en el sitio web tp-link.es
+- Cobertura completa- tres decos trabajan juntos para crear una red wifi transparente en cada habitación, ocho antenas internas por cada deco, pack de 3 cubren hasta 600²
+- Todo en 1 - router inalámbrico + extensores de wifi + dispositivo de control parental + caja de seguridad + smart hub = deco m9 plus
 - Wi-fi sin interrupciones - todo a través de un único ssid (nombre de red); tres bandas inalámbricas separadas proporcionan conexiones rápidas y estables con velocidades de hasta 2134mbps, mientras con la tecnología de mu-mimo
+- Tp-link homecaretm - 3 años de homecare gratuito implementado por trend micro (valor 320) protege todos los dispositivos conectados a tu red de las más de 100.000 nuevas amenazas de seguridad que aparecen diariamente
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07GVNH2V8/?tag=tolees-21)

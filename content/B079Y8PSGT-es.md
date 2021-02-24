@@ -28,12 +28,12 @@ En este momento está [PUMA Liga TR JSY Camiseta de Manga Corta  Hombre  Blanco 
 
 🔎:
 
-- Bajo delantero liso
-- Tipo de fábrica: 100% Polyester
-- Corte recto
-- Logotipo del felino puma en la parte derecha del pecho
 - Tipo de deporte: Fútbol
 - Costura lateral hacia atrás
+- Corte recto
+- Bajo delantero liso
+- Logotipo del felino puma en la parte derecha del pecho
 - Panel bajo la axila
+- Tipo de fábrica: 100% Polyester
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B079Y8PSGT/?tag=tolees-21)

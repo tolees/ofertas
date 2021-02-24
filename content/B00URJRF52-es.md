@@ -28,9 +28,9 @@ Ahora mismo tienes [Bionaire BTF005X  40 W  negro mate](https://www.amazon.es/dp
 
 🔎:
 
-- Potencia 40 W. Altura 78 cm
-- Flujo de aire: 2,5 m3 / min
-- 3 velocidades
 - Oscilación
+- 3 velocidades
+- Flujo de aire: 2,5 m3 / min
+- Potencia 40 W. Altura 78 cm
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00URJRF52/?tag=tolees-21)

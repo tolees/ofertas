@@ -28,9 +28,9 @@ Tienes [Sony MDR-XB510ASL - Auriculares intraurales Extra Bass  diseño Lavable 
 
 ℹ️:
 
-- Se puede lavar tras los entrenamientos gracias a su diseño IPX5/8
+- Extra Bass para un sonido rotundo y profundo
 - Los soportes en arco mantienen los auriculares seguros en su sitio
 - Elige uno de los 4 colores que mejor se adapta a tu estilo
-- Extra Bass para un sonido rotundo y profundo
+- Se puede lavar tras los entrenamientos gracias a su diseño IPX5/8
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01N0XC30Q/?tag=tolees-21)

@@ -28,8 +28,8 @@ Está [Banpresto Naruto Shippuden Vibration Stars - Figura de Uzumaki Naruto  17
 
 ℹ️:
 
-- Producto oficial de Banpresto.
 - Fantástica figura de colección de plástico rígido con gran cuidado en los colores y detalles.
 - El producto se vende en su caja original.
+- Producto oficial de Banpresto.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08B4DLJP1/?tag=tolees-21)
