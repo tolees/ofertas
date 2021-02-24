@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Descuento del 39.51 % en Warner Bros. Entertainment España S.L. -'
-date: 2021-02-17 17:27:06
-image: 'https://m.media-amazon.com/images/I/51gwNHYYnQL._SL200_.jpg'
+date: 2021-02-24 01:27:56
+image: 'https://m.media-amazon.com/images/I/51gwNHYYnQL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -19,12 +19,12 @@ flag: '🇪🇸'
 brand: 'Warner Bros. Entertainment España S.L.'
 buyurl: 'https://www.amazon.es/dp/B0168UDQ0Q/?tag=tolees-21'
 descuento: '39.51'
-average: '33.2955555555556'
+average: '33.2909090909091'
 ---
 
 Tienes [Warner Bros. Entertainment España S.L. - Trilogia El Hobbit Extendida [DVD]](https://www.amazon.es/dp/B0168UDQ0Q/?tag=tolees-21) con un 39.51 % de descuento con precio de oferta de 33.27 EUR (original: 55.0 EUR) en el siguiente enlace!
 
-[![Warner Bros. Entertainment España S.L. -](https://m.media-amazon.com/images/I/51gwNHYYnQL._SL200_.jpg)](https://www.amazon.es/dp/B0168UDQ0Q/?tag=tolees-21)
+[![Warner Bros. Entertainment España S.L. -](https://m.media-amazon.com/images/I/51gwNHYYnQL._SL400_.jpg)](https://www.amazon.es/dp/B0168UDQ0Q/?tag=tolees-21)
 
 ℹ️:
 

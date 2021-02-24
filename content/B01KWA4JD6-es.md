@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Trilogía El Hobbit Blu-Ray [Blu-ray] al 34.74 % de descuento'
-date: 2021-02-17 17:21:26
-image: 'https://m.media-amazon.com/images/I/517De3CMgfL._SL200_.jpg'
+date: 2021-02-24 01:12:05
+image: 'https://m.media-amazon.com/images/I/517De3CMgfL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -19,12 +19,12 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B01KWA4JD6/?tag=tolees-21'
 descuento: '34.74'
-average: '24.7471428571428'
+average: '24.4455555555556'
 ---
 
 Está [Trilogía El Hobbit Blu-Ray [Blu-ray]](https://www.amazon.es/dp/B01KWA4JD6/?tag=tolees-21) con 34.74 de descuento por 23.39 EUR (original: 35.84 EUR) en el siguiente enlace!
 
-[![Trilogía El Hobbit Blu-Ray [Blu-ray]](https://m.media-amazon.com/images/I/517De3CMgfL._SL200_.jpg)](https://www.amazon.es/dp/B01KWA4JD6/?tag=tolees-21)
+[![Trilogía El Hobbit Blu-Ray [Blu-ray]](https://m.media-amazon.com/images/I/517De3CMgfL._SL400_.jpg)](https://www.amazon.es/dp/B01KWA4JD6/?tag=tolees-21)
 
 ℹ️:
 
