@@ -28,8 +28,8 @@ Está [adidas Puremotion Men  Zapatillas Hombre  Tinley/FTWBLA/INDTEC  42 2/3 EU
 
 ℹ️:
 
-- Parte superior textil
 - Zapatilla inspirada en el estilo del tenis
+- Parte superior textil
 - Horma clásica
 - Diseño ligero y transpirable
 - Cierre de cordones

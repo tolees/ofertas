@@ -28,8 +28,8 @@ Ahora mismo tienes [Salomon XA Pro 3D CSWP Zapatillas Impermeables de Deporte Un
 
 🔎:
 
-- Calzado salomon
 - Zapatillas de running running unisex infantil
 - Shoes xa pro (l40965200)
+- Calzado salomon
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07RDLQNQP/?tag=tolees-21)

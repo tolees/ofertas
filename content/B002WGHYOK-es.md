@@ -28,8 +28,8 @@ Ahora mismo tienes [Superga 2750 COTU Classic Sneakers  Zapatillas Unisex Adulto
 
 🔎:
 
-- Fully breathablecotton
 - Superga tab on side and heel
+- Fully breathablecotton
 - Superga embossed eyelets
 - Vulcanised gum sole
 

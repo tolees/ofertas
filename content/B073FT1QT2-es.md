@@ -28,9 +28,9 @@ Ahora mismo tienes [Philips - LED Gu10  3.8 W Equivalente a 50 W  345 Lumen  Reg
 
 🔎:
 
-- Temperatura del color: 2700 Kelvin
 - Clase de eficiencia energética A+
 - Durabilidad media: 15000 horas
 - Tipo de bombilla: LED
+- Temperatura del color: 2700 Kelvin
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B073FT1QT2/?tag=tolees-21)

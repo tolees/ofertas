@@ -28,8 +28,8 @@ Está [Casio Collection W-800H-1AVES  Reloj Digital Unisex  Negro](https://www.a
 
 ℹ️:
 
-- Incluye cronómetro, alarma, función de despertador y calendario automático
 - La duración de la batería es de 10 años
+- Incluye cronómetro, alarma, función de despertador y calendario automático
 - Para iluminar la esfera del reloj se usa un diodo emisor de luz LED
 - Resistente al agua hasta 10 bar / 100 metros
 - Caja y correa de resina sintética, un material resistente y flexible
