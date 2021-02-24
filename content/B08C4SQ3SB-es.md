@@ -29,9 +29,9 @@ En este momento está [Tanbaby - Luz Armario 40 LED USB Recargable Luces LED Arm
 🔎:
 
 - 💡 [4 Modos Luz del Armario] Detección de movimiento / iluminación constante / detección de movimiento 1/2 (el brillo es la mitad de la detección de movimiento), con tecnología infrarroja, puede ser detectado por el movimiento del ser humano en la oscuridad. Encendido automático dentro de 10 pies / 120 °, apagado automático después de aproximadamente 15 segundos sin movimiento detectado.
-- 💡 [Cómo contactarnos] Correo electrónico: inicie sesión en su cuenta de Amazon> seleccione "sus pedidos"> busque el número de pedido> haga clic en "contactar con el vendedor".
 - 💡 [2 Formas Fáciles de Instalación] Imán incorporado, la luz del gabinete se puede conectar directamente a la superficie de un artículo de hierro; 2. Con banda magnética de 3M. No se necesitan herramientas, tornillos o tuercas. Cuando necesite cambiar de posición, puede quitar las luces del armario en cualquier momento.
 - 💡 [Design Diseño más Grande y Brillante] Con 40 LED en cada luz, modelo de cuentas de lámpara: 2835; Vida útil de la lámpara: 100,000 horas. Produce suficiente luz para asegurarse de que nunca tropiece en la oscuridad. Mucho más brillante que otras luces de armario LED de tamaño similar en el mercado.
+- 💡 [Cómo contactarnos] Correo electrónico: inicie sesión en su cuenta de Amazon> seleccione "sus pedidos"> busque el número de pedido> haga clic en "contactar con el vendedor".
 - 💡 [USB Recargable] La luz del sensor de movimiento con batería recargable de alta capacidad de 1500 mAh incorporada, se carga fácilmente a través del cable USB (incluido) o la alimentación. Eso no requiere una batería AAA adicional, eficiente en energía y respetuosa con el medio ambiente, le ahorrará más dinero.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08C4SQ3SB/?tag=tolees-21)

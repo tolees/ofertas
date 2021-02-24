@@ -28,10 +28,10 @@ Tienes [Jamonprive Jamón Serrano Reserva Curado 6.5 - 7 Kg + Jamonero + Cuchill
 
 ℹ️:
 
-- Tiene un color característico que cambia de rosa a rojo púrpura en la parte magra, además del aspecto brillante de la grasa. También tiene un sabor delicado pero salado y un aroma agradable y característico.
 - La presentación es un jamón entero, con hueso, con piel y con pezuña. Caja de cartón para un tránsito seguro. Mantener en un lugar fresco y seco, lejos de la luz del sol. Consumir durante los 6 meses siguientes a su recepción. Una vez abierto se recomienda consumir en 1 mes.
+- Tiene un color característico que cambia de rosa a rojo púrpura en la parte magra, además del aspecto brillante de la grasa. También tiene un sabor delicado pero salado y un aroma agradable y característico.
 - Es un producto elaborado a partir de las mejores piezas de cerdo seleccionadas para producir un producto 100% natural tras el proceso de salazón y curación, consiguiendo así el mejor aroma y sabor.
-- El jamón serrano reserva Jamonprive es un jamón de cerdo serrano semi-graso de media-alta curación. Tiene una curación de al menos 14 meses.
 - Este jamón se consigue con una excelente materia prima, grandes jamones con grasa interna, un poco de sal mediterránea y un lento proceso de curación al aire libre en las altas montañas de España donde el aire fresco y seco produce una magnífica curación tradicional.
+- El jamón serrano reserva Jamonprive es un jamón de cerdo serrano semi-graso de media-alta curación. Tiene una curación de al menos 14 meses.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B088QZ5RVZ/?tag=tolees-21)

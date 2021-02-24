@@ -28,10 +28,10 @@ En este momento está [Litthing - 100Pcs Bolsas de Filtro de Té con Cordón Bol
 
 🔎:
 
-- Como la bolsa pequeña es resistente a ebullición y el material es fino, se mantiene eficazmente el sabor original para hacer el delicioso caldo.Estas bolsitas de té se fabrican con la más alta calidad. No es necesario calentarlos para sellar, simplemente tire del hilo y haga un pequeño nudo.
-- Las bolsitas de té vacías con cordón son fáciles de empacar y cerrar con cordones, compañero de té portátil para tazas de té, no se escapan hojas de té para mantener limpio el té preparado, fácil de desechar después de su uso.
-- Las bolsas de filtro de té con cordón se utilizan ampliamente para té suelto, café, especias, hierbas, té aromatizado de bricolaje, té de hierbas bricolaje, paquete de medicina herbal, paquete de baño de pies, paquete de olla caliente, paquete de sopa, también se puede usar como máscara para los ojos, etc.
-- Material de telas no tejidas en color blanco natural, producción de seguridad y medio ambiente, inodoro, autodegradable después del descarte.
 - Estas bolsas de té se utilizan para rellenar con una mezcla de 3 ~ 8 g de té o hierba o plantas secas. Alta resistencia, buena dureza y resistencia al calor.
+- Material de telas no tejidas en color blanco natural, producción de seguridad y medio ambiente, inodoro, autodegradable después del descarte.
+- Como la bolsa pequeña es resistente a ebullición y el material es fino, se mantiene eficazmente el sabor original para hacer el delicioso caldo.Estas bolsitas de té se fabrican con la más alta calidad. No es necesario calentarlos para sellar, simplemente tire del hilo y haga un pequeño nudo.
+- Las bolsas de filtro de té con cordón se utilizan ampliamente para té suelto, café, especias, hierbas, té aromatizado de bricolaje, té de hierbas bricolaje, paquete de medicina herbal, paquete de baño de pies, paquete de olla caliente, paquete de sopa, también se puede usar como máscara para los ojos, etc.
+- Las bolsitas de té vacías con cordón son fáciles de empacar y cerrar con cordones, compañero de té portátil para tazas de té, no se escapan hojas de té para mantener limpio el té preparado, fácil de desechar después de su uso.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08KVX723M/?tag=tolees-21)

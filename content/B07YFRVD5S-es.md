@@ -30,8 +30,8 @@ Tienes [Safta Star Wars Astro - Portaflautas  370x20x80mm](https://www.amazon.es
 
 - Ideal para niños, adultos y adolescentes; perfecta para el entrenamiento, trabajo o viajes
 - Safta star wars "astro" oficial portaflautas para llevar a clase de música. 2 años de garantía
+- Tirador en el cursor para fácil itar su apertura; interior acolchado; alojamiento interior para la varilla de limpieza; asa de mano en la parte lateral; borde con riebete reforzado
 - Medidas: ancho 370mm; largo 20mm; alto 80mm; capacidad 31l; peso 0,6kg
 - Confeccionada con un material de poliéster muy resistente y cremalleras suaves; fácil de lavar
-- Tirador en el cursor para fácil itar su apertura; interior acolchado; alojamiento interior para la varilla de limpieza; asa de mano en la parte lateral; borde con riebete reforzado
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07YFRVD5S/?tag=tolees-21)

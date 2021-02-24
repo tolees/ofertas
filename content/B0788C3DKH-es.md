@@ -28,11 +28,11 @@ En este momento está [Tommy Hilfiger X Bralette  Sujetador Estilo Bralette Muje
 
 🔎:
 
-- Cuello halter
+- Sin cierre
 - Sin aros
+- Algodón elástico
+- Cuello halter
 - Sin relleno
 - Tirantes cruzados con la inscripción de Tommy Hilfiger
-- Sin cierre
-- Algodón elástico
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0788C3DKH/?tag=tolees-21)

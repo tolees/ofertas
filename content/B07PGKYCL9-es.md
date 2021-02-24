@@ -28,9 +28,9 @@ Tienes [Hairdooz Muñeca Coleccionable Sorpresa  BIZAK 63248522    color/modelo 
 
 🔎:
 
-- Encuentra la muñeca exclusiva con el cambio de color del pelo
-- Tienen olor a frutas
-- Packaging en forma de bote de champú
 - Hay 24 modelos disponibles
+- Encuentra la muñeca exclusiva con el cambio de color del pelo
+- Packaging en forma de bote de champú
+- Tienen olor a frutas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07PGKYCL9/?tag=tolees-21)
