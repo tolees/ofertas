@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Sony Cyber-Shot DSC-HX90 negro - Cámara  al 38.03 % de rebaja'
-date: 2021-02-17 17:47:18
-image: 'https://m.media-amazon.com/images/I/41eDm7aZaSL._SL200_.jpg'
+date: 2021-02-24 14:02:51
+image: 'https://m.media-amazon.com/images/I/41eDm7aZaSL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -19,19 +19,19 @@ flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B00W9YMLNE/?tag=tolees-21'
 descuento: '38.03'
-average: '310.48'
+average: '308.7616'
 ---
 
 Tienes [Sony Cyber-Shot DSC-HX90 negro - Cámara compacta de 18 Mp](https://www.amazon.es/dp/B00W9YMLNE/?tag=tolees-21) con precio final de  289.0 EUR (original: 466.38 EUR) (38.03 %  de rebaja) aqui!
 
-[![Sony Cyber-Shot DSC-HX90 negro - Cámara ](https://m.media-amazon.com/images/I/41eDm7aZaSL._SL200_.jpg)](https://www.amazon.es/dp/B00W9YMLNE/?tag=tolees-21)
+[![Sony Cyber-Shot DSC-HX90 negro - Cámara ](https://m.media-amazon.com/images/I/41eDm7aZaSL._SL400_.jpg)](https://www.amazon.es/dp/B00W9YMLNE/?tag=tolees-21)
 
 🔎:
 
-- Comparte con facilidad y toma el control de la cámara distancia con las funciones WIFI / NFC
-- Visor electrónico retráctil de alto contraste OLED "Tru-Finder"
+- La cámara más pequeña del mundo (entre las cámaras digitales compactas con 30x de zoom óptico y visor)
 - Olvídate del desenfoque con estabilización de imagen inteligente de 5 ejes y análisis de fotograma
 - Captura fotos claras con alta resolución, incluso en condiciones de poca luz, gracias a la lente Zeiss Vario-Sonnar T con 30x de zoom óptico y el sensor Exmor R de 18.2 MP
-- La cámara más pequeña del mundo (entre las cámaras digitales compactas con 30x de zoom óptico y visor)
+- Visor electrónico retráctil de alto contraste OLED "Tru-Finder"
+- Comparte con facilidad y toma el control de la cámara distancia con las funciones WIFI / NFC
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00W9YMLNE/?tag=tolees-21)

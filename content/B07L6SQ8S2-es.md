@@ -28,7 +28,7 @@ Ahora mismo tienes [Jack & Jones Jjecorp Logo Sweat Hood Noos Capucha  Negro  Bl
 
 🔎:
 
-- Cotton mixture
 - Sweater with logo
+- Cotton mixture
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07L6SQ8S2/?tag=tolees-21)

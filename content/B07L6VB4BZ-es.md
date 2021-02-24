@@ -28,8 +28,8 @@ Tienes [Last Level- Pocket Llavero Pop Fortnite. Burnout  Multicolor  Funko 1 ](
 
 🔎:
 
+- Multicolor
 - Llavero pop fortnite: burnout
 - Resistente y con diseño funcional
-- Multicolor
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07L6VB4BZ/?tag=tolees-21)

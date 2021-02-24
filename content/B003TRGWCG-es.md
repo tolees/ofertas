@@ -28,10 +28,10 @@ En este momento está [Cereales Nestlé Fitness con Chocolate con leche - 1 paqu
 
 🔎:
 
-- Cereales integrales sin colorantes ni aromas artificiales y sin edulcorantes artificiales
 - Con 36% de copos de cereales integrales recubiertos de chocolate con leche
-- Cereales integrales Nestlé Fitness con copos recubiertos de chocolate con leche
+- Cereales integrales sin colorantes ni aromas artificiales y sin edulcorantes artificiales
 - Cereales Nestlé Fitness con fibra, vitaminas del grupo B, calcio y hierro
+- Cereales integrales Nestlé Fitness con copos recubiertos de chocolate con leche
 - Cereales sin aceite de palma.
 - Cereales Nestlé con avena integral que te aportan energía sostenida
 

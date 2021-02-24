@@ -28,8 +28,8 @@ Está [Tommy Hilfiger Thong Tanga  Rosa  Pale Blush 612   36  Talla del Fabrican
 
 ℹ️:
 
-- Logo de Tommy Hilfiger con diseño color block en la cintura
 - Modelo con cintura elástica
+- Logo de Tommy Hilfiger con diseño color block en la cintura
 - Microfibra elástica suave
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07D9GWQR1/?tag=tolees-21)

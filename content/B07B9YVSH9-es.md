@@ -28,10 +28,10 @@ Tienes [Bourjois Healthy Mix Bb Cream Base de Maquillaje Tono nr.02 - 30 ml](htt
 
 🔎:
 
-- BB Cream antifatiga que se funde perfectamente con el tono de la piel y cubre las imperfecciones
 - Con una fragancia fresca y afrutada
 - Enriquecida con vitaminas A, C, E y B5 que ayudan a reducir los signos de fatiga
 - Proporciona hasta 24 horas de piel hidratada
 - Fórmula ultraligera que permite que la piel respire y le da una sensación de piel desnuda
+- BB Cream antifatiga que se funde perfectamente con el tono de la piel y cubre las imperfecciones
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07B9YVSH9/?tag=tolees-21)
