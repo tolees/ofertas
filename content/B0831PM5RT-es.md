@@ -28,10 +28,10 @@ Tienes [Canadian Peak Polar Mujer UNIDA Gris Claro 01](https://www.amazon.es/dp/
 
 ℹ️:
 
-- Abertura central con cremallera
-- Cuello
-- Tejido polar
-- Bolsillos con cremallera
 - Bordados de la marca
+- Abertura central con cremallera
+- Bolsillos con cremallera
+- Tejido polar
+- Cuello
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0831PM5RT/?tag=tolees-21)

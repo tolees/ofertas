@@ -31,7 +31,7 @@ Está [Hugo BOSS Reloj Analógico para Hombre de Cuarzo con Correa en Cuero 1513
 - Esfera con chapado iónico azul oscuro
 - Grosor de la caja de 10,7mm, Diámetro de la caja: 44 mm
 - 5 ATM de resistencia al agua
-- Movimiento cronógrafo
 - Correa de piel azul
+- Movimiento cronógrafo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07VFNLK1N/?tag=tolees-21)
