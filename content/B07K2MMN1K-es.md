@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Adidas Continental 80  Zapatillas de Gim al 50.05 % de descuento'
-date: 2021-02-13 15:04:49
-image: 'https://m.media-amazon.com/images/I/31aR0HHDziL._SL200_.jpg'
+date: 2021-02-25 17:30:09
+image: 'https://m.media-amazon.com/images/I/31aR0HHDziL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '49.95'
 
 Está [Adidas Continental 80  Zapatillas de Gimnasia Unisex Adulto  Negro  Core Black/Scarlet/Collegiate Navy   44 EU](https://www.amazon.es/dp/B07K2MMN1K/?tag=tolees-21) con 50.05 de descuento por 49.95 EUR (original: 99.99 EUR) en el siguiente enlace!
 
-[![Adidas Continental 80  Zapatillas de Gim](https://m.media-amazon.com/images/I/31aR0HHDziL._SL200_.jpg)](https://www.amazon.es/dp/B07K2MMN1K/?tag=tolees-21)
+[![Adidas Continental 80  Zapatillas de Gim](https://m.media-amazon.com/images/I/31aR0HHDziL._SL400_.jpg)](https://www.amazon.es/dp/B07K2MMN1K/?tag=tolees-21)
 
 ℹ️:
 

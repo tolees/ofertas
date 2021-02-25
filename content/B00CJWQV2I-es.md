@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'VANS Atwood Canvas   Zapatillas Hombre   al 38.63 % de descuento'
-date: 2021-02-23 21:02:14
+date: 2021-02-25 18:52:37
 image: 'https://m.media-amazon.com/images/I/313Ql0dsdIL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Vans'
 buyurl: 'https://www.amazon.es/dp/B00CJWQV2I/?tag=tolees-21'
 descuento: '38.63'
-average: '42.2469565217391'
+average: '42.1805633802817'
 ---
 
 Ahora mismo tienes [VANS Atwood Canvas   Zapatillas Hombre  Rojo  Oxblood/White 8J3   41 EU](https://www.amazon.es/dp/B00CJWQV2I/?tag=tolees-21) a 39.89 EUR (original: 65.0 EUR) (38.63 %  de descuento) en el siguiente enlace!
