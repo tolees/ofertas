@@ -28,8 +28,8 @@ Ahora mismo tienes [Nike Venture Runner  Zapatillas para Correr Hombre  Photon D
 
 🔎:
 
+- Parte superior de malla transpirable
 - Amortiguación ligera
 - Zapatillas de running
-- Parte superior de malla transpirable
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0838KYS7S/?tag=tolees-21)

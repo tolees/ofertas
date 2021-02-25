@@ -29,10 +29,10 @@ Ahora mismo tienes [Corsair M55 PRO RGB - Ratón Óptico Ambidiestro para Juegos
 🔎:
 
 - Conéctelo y empiece a jugar: Podrá jugar nada más sacarlo de la caja; solo tiene que conectarlo a un puerto USB y empezar a hundir a la competencia
-- Diseño ambidiestro versátil: Juegue al máximo nivel con cualquier mano con el agarre más cómodo, ya sea la palma, los dedos o la punta de los dedos
-- Diseño duradero: El diseño duradero con conmutadores Omron con capacidad para 50 millones de clics y un cable trenzado
 - Peso de tan solo 86 g: Su diseño increíblemente ligero le permite jugar sin esfuerzo durante horas a pleno rendimiento
-- Ocho botones completamente programables: Consiga una ventaja en el juego con macros y asignaciones de botones potentes
 - Precisión para ganar: Controle su forma de jugar con un sensor óptico de 12 400 ppp para conseguir un seguimiento de gran precisión
+- Diseño duradero: El diseño duradero con conmutadores Omron con capacidad para 50 millones de clics y un cable trenzado
+- Ocho botones completamente programables: Consiga una ventaja en el juego con macros y asignaciones de botones potentes
+- Diseño ambidiestro versátil: Juegue al máximo nivel con cualquier mano con el agarre más cómodo, ya sea la palma, los dedos o la punta de los dedos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VYMF7BY/?tag=tolees-21)

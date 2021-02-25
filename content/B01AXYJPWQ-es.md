@@ -29,8 +29,8 @@ Está [Joma - Anorak Everest Negro para Hombre](https://www.amazon.es/dp/B01AXYJ
 ℹ️:
 
 - Es lavable a maquina a 40 °C
-- Funda de cama hecha de algodón
 - Cuenta con 200 hilos
+- Funda de cama hecha de algodón
 - Presenta un diseño de rayas de raso
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01AXYJPWQ/?tag=tolees-21)

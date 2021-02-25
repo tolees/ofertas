@@ -28,11 +28,11 @@ Tienes [New Balance Pc574v1 Zapatillas Unisex Niños  Negro  Black/grey   30.5 E
 
 🔎:
 
+- Tipo de tacón: Plano
+- Material de la suela: Sintético
+- Composición: Sintético
 - Cierre: Cordones
 - Revestimiento: Sintético
 - Material exterior: Cuero sintético
-- Material de la suela: Sintético
-- Tipo de tacón: Plano
-- Composición: Sintético
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B071LTCH4H/?tag=tolees-21)

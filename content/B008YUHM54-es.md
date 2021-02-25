@@ -28,9 +28,9 @@ Tienes [Pajoma 55170 Hucha de Fotos Antigua](https://www.amazon.es/dp/B008YUHM54
 
 🔎:
 
-- Esta hecha de poli resina
 - Ofrece mucho espacio para monedas
-- Hucha con diseño de cámara de fotos antigua
 - Puede servir como elemento decorativo
+- Hucha con diseño de cámara de fotos antigua
+- Esta hecha de poli resina
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B008YUHM54/?tag=tolees-21)

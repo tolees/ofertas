@@ -28,11 +28,11 @@ Tienes [Lámpara de mesa EGLO CARLTON 2  lámpara de mesa vintage con 1 bombilla
 
 ℹ️:
 
-- La forma geométrica de la lámpara de alambre trenzado se integra con los estilos vintage, retro e industrial
-- Admite cualquier bombilla con casquillo E14; voltaje máximo por casquillo de 60 W
-- La bombilla no se incluye en el contenido de la entrega y está disponible por separado con el código EGLO 11557
 - Dimensiones: alto: 30,5 cm, diámetro: 16,5 cm
-- La pantalla textil de gran calidad proporciona a su habitación una atmósfera acogedora, ya sea el salón, el dormitorio, el comedor, el pasillo o la cocina
+- La bombilla no se incluye en el contenido de la entrega y está disponible por separado con el código EGLO 11557
+- Admite cualquier bombilla con casquillo E14; voltaje máximo por casquillo de 60 W
+- La forma geométrica de la lámpara de alambre trenzado se integra con los estilos vintage, retro e industrial
 - La lámpara dispone de un interruptor en el cable para encenderla y apagarla cómodamente
+- La pantalla textil de gran calidad proporciona a su habitación una atmósfera acogedora, ya sea el salón, el dormitorio, el comedor, el pasillo o la cocina
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01J8YLR0A/?tag=tolees-21)

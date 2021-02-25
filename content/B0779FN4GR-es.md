@@ -29,7 +29,7 @@ Tienes [BOSS Casual Passenger 10193126 01  Polo Hombre  Negro  Black 1   Small  
 🔎:
 
 - Camiseta polo con un diseño versátil
-- Largo estándar
 - Con puños de canalé
+- Largo estándar
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0779FN4GR/?tag=tolees-21)

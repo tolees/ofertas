@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Descuento del 49.96 % en Lacoste Sport Carnaby EVO BL 1 SPW  Zapa'
-date: 2021-02-04 12:07:31
-image: 'https://m.media-amazon.com/images/I/31Y+HjD21QL._SL200_.jpg'
+date: 2021-02-25 19:18:56
+image: 'https://m.media-amazon.com/images/I/31Y+HjD21QL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -19,19 +19,15 @@ flag: '🇪🇸'
 brand: 'Lacoste'
 buyurl: 'https://www.amazon.es/dp/B01E5UFVEU/?tag=tolees-21'
 descuento: '49.96'
-average: '52.394'
+average: '51.7071428571428'
 ---
 
 Tienes [Lacoste Sport Carnaby EVO BL 1 SPW  Zapatillas para Mujer  Blanco  Wht   35.5 EU](https://www.amazon.es/dp/B01E5UFVEU/?tag=tolees-21) con un 49.96 % de descuento con precio de oferta de 49.99 EUR (original: 99.9 EUR) en el siguiente enlace!
 
-[![Lacoste Sport Carnaby EVO BL 1 SPW  Zapa](https://m.media-amazon.com/images/I/31Y+HjD21QL._SL200_.jpg)](https://www.amazon.es/dp/B01E5UFVEU/?tag=tolees-21)
+[![Lacoste Sport Carnaby EVO BL 1 SPW  Zapa](https://m.media-amazon.com/images/I/31Y+HjD21QL._SL400_.jpg)](https://www.amazon.es/dp/B01E5UFVEU/?tag=tolees-21)
 
 ℹ️:
 
-- Pique-inspired mesh linings
-- Contrast hits on heel counter and eye stay
-- High quality outsole with court-inspired tread
-- High quality embroidered crocodile branding
-- Premium leather uppers
+- Precio mínimo en los 30 días previos a la oferta: 76€
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01E5UFVEU/?tag=tolees-21)
