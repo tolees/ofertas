@@ -1,30 +1,30 @@
 ---
 layout: post
-title: 'SanDisk Ultra Dual m3.0 - Unidad Dual co al 30.03 % de rebaja'
-date: 2021-02-14 21:13:40
-image: 'https://m.media-amazon.com/images/I/31TsCQlX8oL._SL200_.jpg'
+title: 'SanDisk Ultra Dual m3.0 - Unidad Dual co al 40.54 % de rebaja'
+date: 2021-02-25 11:09:13
+image: 'https://m.media-amazon.com/images/I/31TsCQlX8oL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B01LXHKR4T-es SanDisk Ultra Dual m3.0 - Unidad Dual con conector micro-...'
 sku: 'B01LXHKR4T-es'
 tags: [  ]
-actualPrice: 6.99 EUR
+actualPrice: 5.94 EUR
 currency: EUR
-price: 6.99
+price: 5.94
 comparePrice: 9.99 EUR
 prodname: 'SanDisk Ultra Dual m3.0 - Unidad Dual con conector micro-USB en un extremo y un conector USB 3.0  32 GB'
 country: 'es'
 flag: '🇪🇸'
 brand: 'SanDisk'
 buyurl: 'https://www.amazon.es/dp/B01LXHKR4T/?tag=tolees-21'
-descuento: '30.03'
-average: '5.83478260869565'
+descuento: '40.54'
+average: '5.83774647887324'
 ---
 
-Tienes [SanDisk Ultra Dual m3.0 - Unidad Dual con conector micro-USB en un extremo y un conector USB 3.0  32 GB](https://www.amazon.es/dp/B01LXHKR4T/?tag=tolees-21) con precio final de  6.99 EUR (original: 9.99 EUR) (30.03 %  de rebaja) aqui!
+Tienes [SanDisk Ultra Dual m3.0 - Unidad Dual con conector micro-USB en un extremo y un conector USB 3.0  32 GB](https://www.amazon.es/dp/B01LXHKR4T/?tag=tolees-21) con precio final de  5.94 EUR (original: 9.99 EUR) (40.54 %  de rebaja) aqui!
 
-[![SanDisk Ultra Dual m3.0 - Unidad Dual co](https://m.media-amazon.com/images/I/31TsCQlX8oL._SL200_.jpg)](https://www.amazon.es/dp/B01LXHKR4T/?tag=tolees-21)
+[![SanDisk Ultra Dual m3.0 - Unidad Dual co](https://m.media-amazon.com/images/I/31TsCQlX8oL._SL400_.jpg)](https://www.amazon.es/dp/B01LXHKR4T/?tag=tolees-21)
 
 🔎:
 
