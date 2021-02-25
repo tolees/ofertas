@@ -28,7 +28,7 @@ Está [Columbia Redmond V2  Zapatillas de Senderismo Impermeables Mujer  Gris  M
 
 ℹ️:
 
-- Tipo de tejido: 80% poliéster, 20% nylon
 - Goma de tracción que no marca Omni-grip
+- Tipo de tejido: 80% poliéster, 20% nylon
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07JHLB6ZX/?tag=tolees-21)

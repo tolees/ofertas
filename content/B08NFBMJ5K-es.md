@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 28.62 % en COMPLEMENTOS PARA AVES - Anillas Tipo fe'
-date: 2021-02-23 23:07:21
+date: 2021-02-24 23:22:40
 image: 'https://m.media-amazon.com/images/I/41aCadBJbeL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'COMPLEMENTOS PARA AVES'
 buyurl: 'https://www.amazon.es/dp/B08NFBMJ5K/?tag=tolees-21'
 descuento: '28.62'
-average: '5.6530769230769'
+average: '5.60629629629627'
 ---
 
 Tienes [COMPLEMENTOS PARA AVES - Anillas Tipo federativo para Canarios 2021 Tira 25 uds 3.00 mm](https://www.amazon.es/dp/B08NFBMJ5K/?tag=tolees-21) con un 28.62 % de descuento con precio de oferta de 4.39 EUR (original: 6.15 EUR) en el siguiente enlace!

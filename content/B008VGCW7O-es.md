@@ -29,8 +29,8 @@ Ahora mismo tienes [Walimex Pro Fish-Eye II 8 mm 1:3.5 - Objetivo para cámara N
 🔎:
 
 - Con montura de bayoneta y parasol extraíble, compatible con Nikon F
-- Contiene un ángulo de visión de167° para cámaras APS-C
 - Distancia focal fija de 14 mm, con apertura f/3.5-22
 - Objetivo Macro con distancia mínima de enfoque de 0.3 m y estructura de lentes 10/7
+- Contiene un ángulo de visión de167° para cámaras APS-C
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B008VGCW7O/?tag=tolees-21)

@@ -28,10 +28,10 @@ En este momento está [TRIXIE Tabla Juegos Snacks conejos  Plástico  ø20 cm  P
 
 🔎:
 
-- tablero con 7 tapas: el conejo debe levantar las tapas para obtener los premios
-- plástico
-- entrena las habilidades
-- incluye folleto con consejos y trucos para una educación adecuada
 - ejercicio físico adecuado para la especie y la estimulación mental
+- entrena las habilidades
+- tablero con 7 tapas: el conejo debe levantar las tapas para obtener los premios
+- incluye folleto con consejos y trucos para una educación adecuada
+- plástico
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0054VEWB8/?tag=tolees-21)
