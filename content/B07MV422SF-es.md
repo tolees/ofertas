@@ -29,8 +29,8 @@ Ahora mismo tienes [safta - Moos Flamingo Turquoise Oficial Cartera Extraescolar
 🔎:
 
 - Cartera extraescolares con un único compartimento.
-- Cuenta con un asa corta y una larga para colgar tipo bandolera.
 - Producto con licencia oficial
 - Medidas: 38cm x 28cm x 6cm
+- Cuenta con un asa corta y una larga para colgar tipo bandolera.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07MV422SF/?tag=tolees-21)

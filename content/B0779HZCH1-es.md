@@ -29,7 +29,7 @@ Está [BOSS Casual Passenger 10193126 01  Polo Hombre  Azul  Dark Blue 404   Sma
 ℹ️:
 
 - Largo estándar
-- Con puños de canalé
 - Camiseta polo con un diseño versátil
+- Con puños de canalé
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0779HZCH1/?tag=tolees-21)

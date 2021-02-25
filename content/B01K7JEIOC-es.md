@@ -28,10 +28,10 @@ Ahora mismo tienes [HORI - Volante Apex  PS4/PS3/PC ](https://www.amazon.es/dp/B
 
 🔎:
 
-- Compatible con PS4/PS3/PC
-- Función de vibración de tecnología TouchSense
 - Licencia oficial de Sony
-- Dos opciones de fijación: abrazadera/ventosas
+- Función de vibración de tecnología TouchSense
 - Incluye pedales con reposapiés plegable
+- Compatible con PS4/PS3/PC
+- Dos opciones de fijación: abrazadera/ventosas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01K7JEIOC/?tag=tolees-21)

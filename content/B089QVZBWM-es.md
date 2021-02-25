@@ -29,9 +29,9 @@ Tienes [Plantronics Blackwire 3220 - Headset Black](https://www.amazon.es/dp/B08
 🔎:
 
 - Control de llamadas desde cable: descolgar/colgar
-- Auriculares con cable USB para PC/Mac
 - Diadema de metal ligera: durabilidad con ajuste
 - Protección contra picos acústicos para su seguridad
 - Versión Dúo con mayor calidad de audio
+- Auriculares con cable USB para PC/Mac
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B089QVZBWM/?tag=tolees-21)

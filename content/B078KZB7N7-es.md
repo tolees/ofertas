@@ -28,8 +28,8 @@ Ahora mismo tienes [SD Games- Zorros al Corral  SDGZORCOR01 ](https://www.amazon
 
 🔎:
 
-- Juego de mesa
 - Juego de habilidad
+- Juego de mesa
 - Juego sencillo y divertido para toda la familia
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B078KZB7N7/?tag=tolees-21)

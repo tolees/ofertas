@@ -28,8 +28,8 @@ Ahora mismo tienes [B&R - Playset Doghouse y 2 Figuras  Giochi Preziosi PUY01000
 
 🔎:
 
-- Los más pequeños podrán recrear la diversión de su serie favorita con la casa de dos plantas de bingo y rolly
 - Los más pequeños podrán recrear la diversión de su serie favorita con la casa de dos plantas de Bingo y Rolly
+- Los más pequeños podrán recrear la diversión de su serie favorita con la casa de dos plantas de bingo y rolly
 - Producto de la marca Giochi Preziosi
 - La impresionante casa presenta una serie de funciones interactivas e incluye 2 figuras exclusivas articuladas
 

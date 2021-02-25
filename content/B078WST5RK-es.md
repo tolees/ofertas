@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 36.84 % en Samsung MZ-76E1T0B/EU 860 EVO - Disco in'
-date: 2021-02-24 16:43:58
+title: 'Descuento del 36.87 % en Samsung MZ-76E1T0B/EU 860 EVO - Disco in'
+date: 2021-02-25 20:25:38
 image: 'https://m.media-amazon.com/images/I/41qn949SpcL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,30 +9,30 @@ author: ring
 slug: 'B078WST5RK-es Samsung MZ-76E1T0B/EU 860 EVO - Disco interno de estado...'
 sku: 'B078WST5RK-es'
 tags: [  ]
-actualPrice: 120.0 EUR
+actualPrice: 119.95 EUR
 currency: EUR
-price: 120.0
+price: 119.95
 comparePrice: 189.99 EUR
 prodname: 'Samsung MZ-76E1T0B/EU 860 EVO - Disco interno de estado solido SSD  1 TB  550 megabytes/s  Negro'
 country: 'es'
 flag: '🇪🇸'
 brand: 'SAMSUNG'
 buyurl: 'https://www.amazon.es/dp/B078WST5RK/?tag=tolees-21'
-descuento: '36.84'
-average: '120.830888888889'
+descuento: '36.87'
+average: '120.811739130435'
 ---
 
-Tienes [Samsung MZ-76E1T0B/EU 860 EVO - Disco interno de estado solido SSD  1 TB  550 megabytes/s  Negro](https://www.amazon.es/dp/B078WST5RK/?tag=tolees-21) con un 36.84 % de descuento con precio de oferta de 120.0 EUR (original: 189.99 EUR) en el siguiente enlace!
+Tienes [Samsung MZ-76E1T0B/EU 860 EVO - Disco interno de estado solido SSD  1 TB  550 megabytes/s  Negro](https://www.amazon.es/dp/B078WST5RK/?tag=tolees-21) con un 36.87 % de descuento con precio de oferta de 119.95 EUR (original: 189.99 EUR) en el siguiente enlace!
 
 [![Samsung MZ-76E1T0B/EU 860 EVO - Disco in](https://m.media-amazon.com/images/I/41qn949SpcL._SL400_.jpg)](https://www.amazon.es/dp/B078WST5RK/?tag=tolees-21)
 
 ℹ️:
 
-- S.M.A.R.T Compatible
-- Interfaz SATA de 6 Gb/s, compatible con interfaz SATA de 3 Gb/sy SATA de 1,5 Gb/s
 - Recorte compatible
-- Soporte de cifrado: Cifrado AES de 256 bits (Clase 0) TCG / Opal IEEE1667 (Unidad cifrada)
 - Escritura secuencial 520MB/s
+- Interfaz SATA de 6 Gb/s, compatible con interfaz SATA de 3 Gb/sy SATA de 1,5 Gb/s
+- S.M.A.R.T Compatible
+- Soporte de cifrado: Cifrado AES de 256 bits (Clase 0) TCG / Opal IEEE1667 (Unidad cifrada)
 - Lectura secuencial 550MB/s
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B078WST5RK/?tag=tolees-21)

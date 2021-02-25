@@ -28,10 +28,10 @@ En este momento está [Control Preservativos Sensual Fun Mix - Caja de condones 
 
 🔎:
 
-- Anchura nominal 54 mm
-- Material: látex de caucho natural
 - Óptima Lubricación
+- Anchura nominal 54 mm
 - Contiene: 2x Sensual Dots&Lines + 2x Finissimo Original + 2x Nature Xtra Lube
 - Perfecta adaptabilidad
+- Material: látex de caucho natural
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08433XDQT/?tag=tolees-21)
