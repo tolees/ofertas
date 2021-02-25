@@ -28,11 +28,11 @@ Ahora mismo tienes [SanDisk Ultra Tarjeta de memoria microSDXC con adaptador SD 
 
 🔎:
 
-- Recomendado para smartphones y tabletas con sistema operativo Android y cámaras MIL
-- Incluye la nueva categoría A1: para un rendimiento más rápido de las aplicaciones
-- Compatible con los dispositivos host que admiten microSDHC y microSDXC
 - La tarjeta microSD SanDisk Ultra, con clasificación A1, se perfeccionó para las aplicaciones: brinda un inicio más rápido y mejor rendimiento, lo que se traduce en una mejor experiencia de teléfono inteligente
 - Velocidades de transferencia de hasta 100 MB/S. Para los modelo de 16 GB a 512 GB] Hasta 100 MB/s de velocidad de lectura
 - Clase 10 para la grabación y reproducción de vídeos en calidad Full HD
+- Recomendado para smartphones y tabletas con sistema operativo Android y cámaras MIL
+- Incluye la nueva categoría A1: para un rendimiento más rápido de las aplicaciones
+- Compatible con los dispositivos host que admiten microSDHC y microSDXC
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B073JY5T7T/?tag=tolees-21)

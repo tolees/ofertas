@@ -28,9 +28,9 @@ Tienes [Hurley M Jammer Stripe L/S](https://www.amazon.es/dp/B08GYRJY4V/?tag=tol
 
 🔎:
 
-- 100 % Algodón.
-- Etiqueta con el logotipo de Hurley.
 - Tejido de jersey 150 g.
 - Estampado suave al tacto.
+- 100 % Algodón.
+- Etiqueta con el logotipo de Hurley.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08GYRJY4V/?tag=tolees-21)

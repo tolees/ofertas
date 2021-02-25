@@ -28,9 +28,9 @@ Ahora mismo tienes [Adidas Falcon W - Zapatillas de Deporte para Mujer  Negro  N
 
 🔎:
 
-- Material exterior: Sintético
+- Cierre: Cordones
 - Material de la suela: Goma
 - Revestimiento: Sintético
-- Cierre: Cordones
+- Material exterior: Sintético
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07K4RV7SB/?tag=tolees-21)

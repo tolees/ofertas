@@ -28,10 +28,10 @@ En este momento está [Levi s Levis Footwear and Accessories Classic Twill Red T
 
 🔎:
 
-- Ojales para asegurar una mayor transpiración
-- La estructura de la copa tiene 6 paneles
-- Etiqueta roja de Levis
-- Tira ajustable de piel en la parte trasera
 - Información sobre las tallas y medidas de la gorra: Ajustable - La tira trasera permite adaptarse a la mayoría de tallas hasta los 61 cm cómodamente.
+- La estructura de la copa tiene 6 paneles
+- Ojales para asegurar una mayor transpiración
+- Tira ajustable de piel en la parte trasera
+- Etiqueta roja de Levis
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00FOI1JF8/?tag=tolees-21)
