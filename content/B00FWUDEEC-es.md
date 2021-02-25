@@ -28,10 +28,10 @@ Tienes [Sony Alpha ILCE-7K - Cámara EVIL  sensor Full Frame de 35 mm  24.3 Mp  
 
 ℹ️:
 
-- Revestimiento y sistema antipolvo
-- Procesador BIONZ X
 - Dimensiones del producto 4,8 x 12,7 x 9,4 cm
 - Reproducción de detalles y reducción de la difracción
 - Sensor de fotograma completo de 35 mm y 24.3 MP
+- Procesador BIONZ X
+- Revestimiento y sistema antipolvo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00FWUDEEC/?tag=tolees-21)

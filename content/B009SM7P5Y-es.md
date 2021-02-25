@@ -28,10 +28,10 @@ Tienes [ISDIN Nutraisdin Crema Protectora Facial Diaria Para Bebé SPF 30](https
 
 ℹ️:
 
-- Protege de la radiación solar gracias a su SPF 30 y filtros UVA-UVB
 - Aplicar la crema fotoprotectora con un suave masaje tantas veces como sea necesario
-- Crema fotoprotectora facial de uso diario que hidrata la piel y protege de la exposición inidirecta al sol No posicionarlo como crema fotoprotectora si no crema facial hidratante que además tiene spf
+- Protege de la radiación solar gracias a su SPF 30 y filtros UVA-UVB
 - Crema con acción antioxidante que ayuda a inhibir la producción de radicales libres por su contenido en vitamina E
 - Textura crema de fácil aplicación y absorción sin pringar
+- Crema fotoprotectora facial de uso diario que hidrata la piel y protege de la exposición inidirecta al sol No posicionarlo como crema fotoprotectora si no crema facial hidratante que además tiene spf
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B009SM7P5Y/?tag=tolees-21)

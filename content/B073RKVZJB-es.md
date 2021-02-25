@@ -28,10 +28,10 @@ En este momento está [adidas Adilette Comfort  Zapatos de Playa y Piscina Hombr
 
 🔎:
 
+- Sintético superior
 - EVA único
-- adidas
 - Bajo-top
 - Cierre Deslizarse en
-- Sintético superior
+- adidas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B073RKVZJB/?tag=tolees-21)
