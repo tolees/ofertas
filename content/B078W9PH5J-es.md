@@ -28,8 +28,8 @@ Tienes [Palladium Pampa Ox Orig U  Zapatillas Unisex Adulto  Negro  Black/Black 
 
 ℹ️:
 
+- A estrenar y genuina. Somos un vendedor autorizado de Palladium.
 - Ver descripción del producto para obtener más información.
 - Palladium Negro Zapatillas de deporte originales Pampa OX
-- A estrenar y genuina. Somos un vendedor autorizado de Palladium.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B078W9PH5J/?tag=tolees-21)

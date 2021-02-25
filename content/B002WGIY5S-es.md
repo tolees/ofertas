@@ -28,7 +28,7 @@ Tienes [Superga 2750 COTU Classic  Zapatillas Mujer  Ecru 912  44 EU](https://ww
 
 ℹ️:
 
-- Plimsole Lienzo
 - Caucho Vulcanizado
+- Plimsole Lienzo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B002WGIY5S/?tag=tolees-21)
