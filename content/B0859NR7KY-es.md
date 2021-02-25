@@ -28,10 +28,10 @@ Ahora mismo tienes [SanDisk Ultra Dual Drive Go para Dispositivos con USB Type-C
 
 🔎:
 
-- Mueve el contenido sin dificultades entre tabletas, ordenadores mac y smartphones ustype-c y ordenadores ustype-a
 - Libera espacio en tu smartphone ustype-c de manera que puedas hacer más fotografías
 - Haz copias de seguridad de las fotos automáticamente utilizando la aplicación sandisk memory zone
-- La memoria flash 2 en 1 con un ustype-c reversible y un conector tradicional type-a
 - La memoria us3.1 gen 1 de alto rendimiento con velocidades de lectura de 150.mb/s te permite mover los archivos a tu ordenador rápidamente
+- Mueve el contenido sin dificultades entre tabletas, ordenadores mac y smartphones ustype-c y ordenadores ustype-a
+- La memoria flash 2 en 1 con un ustype-c reversible y un conector tradicional type-a
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0859NR7KY/?tag=tolees-21)

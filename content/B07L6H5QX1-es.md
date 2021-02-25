@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Jack & Jones Jjecorp Logo Sweat Hood Noo al 43.35 % de descuento'
-date: 2021-02-17 18:08:13
-image: 'https://m.media-amazon.com/images/I/3123bXS3IZL._SL200_.jpg'
+date: 2021-02-25 14:31:24
+image: 'https://m.media-amazon.com/images/I/3123bXS3IZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -19,12 +19,12 @@ flag: '🇪🇸'
 brand: 'Jack & Jones'
 buyurl: 'https://www.amazon.es/dp/B07L6H5QX1/?tag=tolees-21'
 descuento: '43.35'
-average: '15.7994117647059'
+average: '15.9247368421053'
 ---
 
 Está [Jack & Jones Jjecorp Logo Sweat Hood Noos Capucha  Negro  Blackschwarz   Medium para Hombre](https://www.amazon.es/dp/B07L6H5QX1/?tag=tolees-21) con 43.35 de descuento por 16.99 EUR (original: 29.99 EUR) en el siguiente enlace!
 
-[![Jack & Jones Jjecorp Logo Sweat Hood Noo](https://m.media-amazon.com/images/I/3123bXS3IZL._SL200_.jpg)](https://www.amazon.es/dp/B07L6H5QX1/?tag=tolees-21)
+[![Jack & Jones Jjecorp Logo Sweat Hood Noo](https://m.media-amazon.com/images/I/3123bXS3IZL._SL400_.jpg)](https://www.amazon.es/dp/B07L6H5QX1/?tag=tolees-21)
 
 ℹ️:
 

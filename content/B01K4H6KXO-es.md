@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'JBM 52978 Piezas con vasos hexagonales e al 32.79 % de descuento'
-date: 2021-02-19 12:12:05
-image: 'https://m.media-amazon.com/images/I/51ldAxLXOcL._SL200_.jpg'
+date: 2021-02-25 14:41:19
+image: 'https://m.media-amazon.com/images/I/51ldAxLXOcL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -19,18 +19,18 @@ flag: '🇪🇸'
 brand: 'JBM'
 buyurl: 'https://www.amazon.es/dp/B01K4H6KXO/?tag=tolees-21'
 descuento: '32.79'
-average: '63.1092307692308'
+average: '63.152'
 ---
 
 Está [JBM 52978 Piezas con vasos hexagonales en estuche  Negro  Set de 108](https://www.amazon.es/dp/B01K4H6KXO/?tag=tolees-21) con 32.79 de descuento por 63.43 EUR (original: 94.38 EUR) en el siguiente enlace!
 
-[![JBM 52978 Piezas con vasos hexagonales e](https://m.media-amazon.com/images/I/51ldAxLXOcL._SL200_.jpg)](https://www.amazon.es/dp/B01K4H6KXO/?tag=tolees-21)
+[![JBM 52978 Piezas con vasos hexagonales e](https://m.media-amazon.com/images/I/51ldAxLXOcL._SL400_.jpg)](https://www.amazon.es/dp/B01K4H6KXO/?tag=tolees-21)
 
 ℹ️:
 
-- Herramientas de 1/2" y 1/4"
+- 108 piezas
 - Cromado
 - Vasos hexagonales
-- 108 piezas
+- Herramientas de 1/2" y 1/4"
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01K4H6KXO/?tag=tolees-21)

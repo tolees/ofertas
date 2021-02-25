@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Adidas Samba OG  Zapatillas de Gimnasia  al 50.03 % de rebaja'
-date: 2021-01-29 16:44:40
-image: 'https://m.media-amazon.com/images/I/41SGWLq8p8L._SL200_.jpg'
+date: 2021-02-25 14:15:14
+image: 'https://m.media-amazon.com/images/I/41SGWLq8p8L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Adidas Samba OG  Zapatillas de Gimnasia para Hombre  Blanco  Footwear White/Core Black/Clear Granite 0   44 2/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B079YZJVPH/?tag=tolees-21'
 descuento: '50.03'
 average: '44.95'
@@ -23,14 +24,14 @@ average: '44.95'
 
 Tienes [Adidas Samba OG  Zapatillas de Gimnasia para Hombre  Blanco  Footwear White/Core Black/Clear Granite 0   44 2/3 EU](https://www.amazon.es/dp/B079YZJVPH/?tag=tolees-21) con precio final de  44.95 EUR (original: 89.95 EUR) (50.03 %  de rebaja) aqui!
 
-[![Adidas Samba OG  Zapatillas de Gimnasia ](https://m.media-amazon.com/images/I/41SGWLq8p8L._SL200_.jpg)](https://www.amazon.es/dp/B079YZJVPH/?tag=tolees-21)
+[![Adidas Samba OG  Zapatillas de Gimnasia ](https://m.media-amazon.com/images/I/41SGWLq8p8L._SL400_.jpg)](https://www.amazon.es/dp/B079YZJVPH/?tag=tolees-21)
 
 🔎:
 
-- Horma clásica
-- Forro de piel sintética; suela de goma color caramelo
-- Parte superior de piel granulada con refuerzos de ante y detalles dorados
 - Diseño auténtico: El auténtico estilo Samba
+- Parte superior de piel granulada con refuerzos de ante y detalles dorados
+- Horma clásica
 - Suela vintage: El dibujo de la suela con punto de pivote se inspira en el calzado de fútbol vintage
+- Forro de piel sintética; suela de goma color caramelo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B079YZJVPH/?tag=tolees-21)
