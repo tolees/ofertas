@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.88 % en Munich Gresca Kid 02 S  Zapatillas de De'
-date: 2021-02-23 21:24:09
+date: 2021-02-25 00:39:57
 image: 'https://m.media-amazon.com/images/I/41EnoBcTrdL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Munich'
 buyurl: 'https://www.amazon.es/dp/B01ELG45UE/?tag=tolees-21'
 descuento: '30.88'
-average: '38.736'
+average: '38.1257142857143'
 ---
 
 Tienes [Munich Gresca Kid 02 S  Zapatillas de Deporte Hombre  Negro  Negro/Amarillo 606   38 EU](https://www.amazon.es/dp/B01ELG45UE/?tag=tolees-21) con un 30.88 % de descuento con precio de oferta de 36.6 EUR (original: 52.95 EUR) en el siguiente enlace!
