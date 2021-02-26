@@ -28,9 +28,9 @@ Tienes [Meterk Lijadora Orbital  Lijadora Excentrica Eléctrica  300W 12000RPM  
 
 ℹ️:
 
-- CONTENIDO DEL PAQUETE: 1 x Meterk MKRS01 Lijadora Orbital, 12 Lijas (5 x 80 granos & 5 × 180 granos), 1x Caja de polvo, 1x Manual Usuario
-- SISTEMA DE RECOGIDA DE POLVO: Caja de recolección de polvo con filtro es fácil de desmontar; estructura interna razonable evita que se caiga durante el trabajo, es ideal para trabajo en interiores
 - DISEÑO CIENTÍFICO Y RAZONABLE: Botón de bloqueo y seguridad reduce el riesgo del peligro. Es perfecto para operación de largo tiempo; manija suave de goma proporciona una buena sensación de agarre, menos fatiga para controlar lijadora
+- SISTEMA DE RECOGIDA DE POLVO: Caja de recolección de polvo con filtro es fácil de desmontar; estructura interna razonable evita que se caiga durante el trabajo, es ideal para trabajo en interiores
+- CONTENIDO DEL PAQUETE: 1 x Meterk MKRS01 Lijadora Orbital, 12 Lijas (5 x 80 granos & 5 × 180 granos), 1x Caja de polvo, 1x Manual Usuario
 - 6 VELOCIDADES AJUSTABLES: 6 Velocidad ajustable permite controlar la velocidad exacta según los diferentes trabajos. La lijadora excéntrica (300W 12000RPM) mejorar la eficiencia de lijado
 - 12 ACCESORIOS ADICIONALES: Se incluye 12 discos de lijado, 6 piezas de 80 granos y 6 piezas de 180 granos; es muy fácil y rápido reemplazar el papel de lija por pegando el papel de lija en la lijadora, mejorando su eficiencia de trabajo
 

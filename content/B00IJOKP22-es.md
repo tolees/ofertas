@@ -28,9 +28,9 @@ Ahora mismo tienes [Russell Hobbs Classics - Panificadora  660 W  Digital  12 Fu
 
 🔎:
 
-- 12 programas: pan básico, francés, integral, bizcochos, masa para pizza, mermelada
 - Tres tamaños de pan y control ajustable de la corteza:blanca, normal, tostada
 - Temporizador de cocción de 13 horas y mantenimiento en caliente durante 1 hora
 - Función rápida para pan básico en solo 55 minutos
+- 12 programas: pan básico, francés, integral, bizcochos, masa para pizza, mermelada
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00IJOKP22/?tag=tolees-21)

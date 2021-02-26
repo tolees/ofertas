@@ -28,10 +28,10 @@ Tienes [Sony Cyber-Shot DSC-HX90 negro - Cámara compacta de 18 Mp](https://www.
 
 🔎:
 
-- La cámara más pequeña del mundo (entre las cámaras digitales compactas con 30x de zoom óptico y visor)
 - Comparte con facilidad y toma el control de la cámara distancia con las funciones WIFI / NFC
-- Captura fotos claras con alta resolución, incluso en condiciones de poca luz, gracias a la lente Zeiss Vario-Sonnar T con 30x de zoom óptico y el sensor Exmor R de 18.2 MP
 - Olvídate del desenfoque con estabilización de imagen inteligente de 5 ejes y análisis de fotograma
 - Visor electrónico retráctil de alto contraste OLED "Tru-Finder"
+- La cámara más pequeña del mundo (entre las cámaras digitales compactas con 30x de zoom óptico y visor)
+- Captura fotos claras con alta resolución, incluso en condiciones de poca luz, gracias a la lente Zeiss Vario-Sonnar T con 30x de zoom óptico y el sensor Exmor R de 18.2 MP
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00W9YMLNE/?tag=tolees-21)

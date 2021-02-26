@@ -28,10 +28,10 @@ Ahora mismo tienes [Cybex Gold 520002423  Silla de Coche para Niños Solution S 
 
 🔎:
 
-- Contenido: 1 Silla de coche Solution S i-Fix con sistema Isofix Connect (anclaje Isofix), Incl. Bocas ISOFIX, Material funda: 100% Poliéster, Dimensiones (LxPxA): 40,5 x 50 x 61 cm, Peso: 6,2 kg, Color: Deep Black
 - Reposacabezas ajustable en altura con 12 posiciones, Respaldo reclinable, Asiento extra amplio y profundo, Sistema optimizado de ventilación
-- Silla de coche de calidad duradera y diseño moderno - Para niños desde los 3 hasta los 12 años aproximativamente (15-36 kg), Cumple con la normativa UN R129/03
 - Fácil de fijar al asiento del coche con el cinturón de seguridad y con el sistema Isofix (opcional) para una mayor estabilidad, Funda lavable a máquina (30°C), Accesorios disponibles no incluidos: funda de verano, portavasos
 - Máxima seguridad - Protección integrada contra impactos laterales (Sistema L.S.P.), Reposacabezas reclinable en 3 posiciones, Estructura con alta absorción de impactos
+- Contenido: 1 Silla de coche Solution S i-Fix con sistema Isofix Connect (anclaje Isofix), Incl. Bocas ISOFIX, Material funda: 100% Poliéster, Dimensiones (LxPxA): 40,5 x 50 x 61 cm, Peso: 6,2 kg, Color: Deep Black
+- Silla de coche de calidad duradera y diseño moderno - Para niños desde los 3 hasta los 12 años aproximativamente (15-36 kg), Cumple con la normativa UN R129/03
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07XPG77N2/?tag=tolees-21)

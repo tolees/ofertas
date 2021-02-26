@@ -28,12 +28,12 @@ Tienes [Einhell TH-CD 12 Li - Taladro sin cable  1 velocidad  batería de 1.3 Ah
 
 🔎:
 
-- Mandril portabrocas de sujeción rápida + parada rápida para cambio de herramientas sencillo
-- Incluye práctico soporte magnético de tornillos en el aparato
-- Unidad electrónica de precisión para regular el número de revoluciones para trabajos delicados
-- Batería de iones de litio: sin autodescarga, pequeña, ligera, de fácil manejo
 - Motor de gran potencia y engranaje metálico para par de giro elevado
+- Incluye práctico soporte magnético de tornillos en el aparato
 - Forma constructiva esbelta con superficies ergonómicas de la empuñadura antideslizante
+- Batería de iones de litio: sin autodescarga, pequeña, ligera, de fácil manejo
+- Unidad electrónica de precisión para regular el número de revoluciones para trabajos delicados
+- Mandril portabrocas de sujeción rápida + parada rápida para cambio de herramientas sencillo
 - Acoplamiento a fricción de par contra el paso de rosca de tornillos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00LHX6LS4/?tag=tolees-21)

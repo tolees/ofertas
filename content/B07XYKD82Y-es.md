@@ -28,8 +28,8 @@ Ahora mismo tienes [Meridiem Games - Gang Beasts](https://www.amazon.es/dp/B07XY
 
 🔎:
 
-- Il regarda avec horreur et amusement des gangs de bêtes séduisantes arracher leurs ennemis de façon permanente
 - Combattez avec vos amis contre les gangs de beef city en mode jeu de gang
 - Adaptez votre personnage et combattez avec des ennemis en ligne en mode mêlée
+- Il regarda avec horreur et amusement des gangs de bêtes séduisantes arracher leurs ennemis de façon permanente
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07XYKD82Y/?tag=tolees-21)
