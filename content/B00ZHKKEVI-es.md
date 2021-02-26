@@ -29,12 +29,12 @@ Tienes [Geox JR Agata A  School Uniform Shoe  Negro  30 EU](https://www.amazon.e
 ℹ️:
 
 - Cierre: Sin cierre
-- Altura del tacón: 2 centímetros
 - Material de la suela: Caucho
-- Material exterior: Cuero
-- Tipo de talla: Los zapatos Geox son holgados
 - Anchura del zapato: Normal
 - Tipo de tacón: Bloque
+- Altura del tacón: 2 centímetros
+- Tipo de talla: Los zapatos Geox son holgados
+- Material exterior: Cuero
 - Revestimiento: Sintético
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00ZHKKEVI/?tag=tolees-21)

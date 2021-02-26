@@ -28,10 +28,10 @@ En este momento está [Arena The One Gafas de Natación  Unisex Adulto  Gris  Cl
 
 🔎:
 
-- Lentes duras con protección UV y película antivaho.
-- Cómodas gafas de natación para entrenamiento con ajuste universal y sellado suave.
-- 50% policarbonato, 30% caucho termoplástico, 20% silicona
 - También aptas para triatlón y aguas abiertas
+- Cómodas gafas de natación para entrenamiento con ajuste universal y sellado suave.
+- Lentes duras con protección UV y película antivaho.
 - Puente de nariz autoajustable, correa dividida, sin PVC
+- 50% policarbonato, 30% caucho termoplástico, 20% silicona
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07DNZG8ZY/?tag=tolees-21)

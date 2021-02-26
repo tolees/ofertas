@@ -28,9 +28,9 @@ Ahora mismo tienes [Stagg SMC6 - Cable para micrófono XLRf a XLRm  Negro  6 m](
 
 🔎:
 
-- Conector XLR macho a hembra
 - Cable audio de alimentación que proporciona una conexión clara con baja impedancia
 - Obediente RoHS
+- Conector XLR macho a hembra
 - Longitud del producto de 6 metros
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B002PZXVRM/?tag=tolees-21)

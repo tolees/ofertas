@@ -28,9 +28,9 @@ Ahora mismo tienes [Gearbox Publishing - Hello Neighbor: Hide And Seek](https://
 
 🔎:
 
-- Inteligencia artificial dinámica que aprende de tus acciones.
-- Historia inmersiva y emocional.
 - 5 mundos fantásticos por explorar.
+- Inteligencia artificial dinámica que aprende de tus acciones.
 - Ambiente interactivo.
+- Historia inmersiva y emocional.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07HSRHGHL/?tag=tolees-21)
