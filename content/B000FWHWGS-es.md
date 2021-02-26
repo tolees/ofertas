@@ -28,10 +28,10 @@ Tienes [Lavazza Crema e Aroma - Café  1 kg  Coffee-beans  Marrón ](https://www
 
 ℹ️:
 
-- Satisfacción Garantizada
-- 70% de Arabica, 30% de Robusta
 - Haba para cafeteras y portafiltros
-- Cremoso y Perfumado
+- 70% de Arabica, 30% de Robusta
 - Sabor unico y perfecto aroma
+- Cremoso y Perfumado
+- Satisfacción Garantizada
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000FWHWGS/?tag=tolees-21)

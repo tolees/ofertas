@@ -28,9 +28,9 @@ Está [Samsung S22F350FHU - Monitor LED de 21.5 pulgadas  FullHD  1000:1  200 cd
 
 ℹ️:
 
-- Tiempo de respuesta de 5 ms
-- Pantalla de 22", con una resolución de 1920 x 1080 pixeles
-- Cuentas con un ángulo de visión de 178 y tiene un brillo de pantalla de 200 cd/m²
 - Equipado con puertos de conexión VGA y HDMI
+- Pantalla de 22", con una resolución de 1920 x 1080 pixeles
+- Tiempo de respuesta de 5 ms
+- Cuentas con un ángulo de visión de 178 y tiene un brillo de pantalla de 200 cd/m²
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01BCEZWBE/?tag=tolees-21)
