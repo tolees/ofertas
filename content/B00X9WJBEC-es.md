@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'L Oreal Paris Elvive Aceite Extraordinar al 41.18 % de rebaja'
-date: 2021-02-24 09:12:42
+date: 2021-02-26 12:41:42
 image: 'https://m.media-amazon.com/images/I/41ui4dWBcQL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,8 @@ Tienes [L Oreal Paris Elvive Aceite Extraordinario - 100 ml](https://www.amazon.
 
 🔎:
 
-- Toque luminoso
-- Cabello sedoso
-- Nutrición intensa
-- Formulado con aceite de jojoba
+- Products by Elvive
+- Body oils
+- Beauty products
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00X9WJBEC/?tag=tolees-21)
