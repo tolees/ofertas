@@ -30,8 +30,8 @@ Tienes [Sony HT-MT300 - Barra de sonido compacta  2.1 canales  con Bluetooth  NF
 
 - Conectividad Bluetooth sencilla con NFC con un solo toque
 - S-Force PRO Front Surround
-- El "modo sofá" optimiza los graves para una colocación discreta del subwoofer
-- Diseño compacto para que puedas colocarla en cualquier sitio
 - Subwoofer inalámbrico de configuración flexible
+- Diseño compacto para que puedas colocarla en cualquier sitio
+- El "modo sofá" optimiza los graves para una colocación discreta del subwoofer
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01N7PAN5T/?tag=tolees-21)

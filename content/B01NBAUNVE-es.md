@@ -28,8 +28,8 @@ Está [Asics Noosa Ff  Zapatillas de deporte Mujer  Multicolor  Black/Bay/Viridi
 
 ℹ️:
 
-- Entresuela Flytefoam larga
 - IGS
+- Entresuela Flytefoam larga
 - Amortiguación
 - Puntera de goma Wet Grip
 - Neutra

@@ -28,8 +28,8 @@ Está [Samsung - Funda de silicona para Galaxy Note 9  color negro- Version espa
 
 ℹ️:
 
-- Protección contra golpes. Cuenta en su interior con un recubrimiento de microfibra para proteger tu dispositivo de golpes externos
 - Diseñada en un material de silicona, la silicona cover te permitirá proteger tu Galaxy Note 9 sin renunciar a la pantalla.
+- Protección contra golpes. Cuenta en su interior con un recubrimiento de microfibra para proteger tu dispositivo de golpes externos
 - Comodidad en tus manos gracias a la suavidad de la Silicone Cover, con un acabado mate, liso y agradable al tacto.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07F8S46HX/?tag=tolees-21)
