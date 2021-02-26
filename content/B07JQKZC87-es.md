@@ -28,8 +28,8 @@ Ahora mismo tienes [adidas Terrex AX3 GTX  Zapatillas de Marcha Nórdica Hombre 
 
 🔎:
 
+- Ligeras y robustas
 - Zapatillas de senderismo
 - Forro impermeable de Gore-Tex
-- Ligeras y robustas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07JQKZC87/?tag=tolees-21)

@@ -28,10 +28,10 @@ En este momento está [Severin MW 7825 Microondas con grill y convección incluy
 
 🔎:
 
-- Convección independiente: 2500 W
 - Carcasa pintada resistente al calor
-- Capacidad útil real: aprox. 16 litros
+- Convección independiente: 2500 W
 - Temporizador digital con señal acústica
+- Capacidad útil real: aprox. 16 litros
 - Grill independiente: 1100 W
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01EK6PZB8/?tag=tolees-21)

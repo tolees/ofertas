@@ -28,8 +28,8 @@ Está [Stor - Vaso Easy 260 ML | Super Mario](https://www.amazon.es/dp/B084MMQ6V
 
 ℹ️:
 
-- Práctico y cómodo vaso de gran capacidad ideal para los más pequeños de la casa. Fabricado en material resistente para evitar roturas en posibles caídas y decorado con sus personajes favoritos del mundo del cine y la televisión. Características: - No apto para microondas - Capacidad: 430 ML - Libre de BPA
 - Todos los productos de la marca Stor están libres de BPA y han pasado los tests requeridos en su categoría para cumplir con la normativa Europea.
 - Producto con licencia oficial, 100% original.
+- Práctico y cómodo vaso de gran capacidad ideal para los más pequeños de la casa. Fabricado en material resistente para evitar roturas en posibles caídas y decorado con sus personajes favoritos del mundo del cine y la televisión. Características: - No apto para microondas - Capacidad: 430 ML - Libre de BPA
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B084MMQ6VP/?tag=tolees-21)
