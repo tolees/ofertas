@@ -28,10 +28,10 @@ Ahora mismo tienes [Colon Total Power Gel Caps Higiene - Detergente para Lavador
 
 🔎:
 
+- Descubre el resto de productos de la marca Colon para una colada óptima
+- Limpieza activa para una ropa limpia, sin malos olores y con frescor extra
 - Detergente para la lavadora en formato cápsulas apto para ropa blanca y de color
 - Higieniza los tejidos y elimina los malos olores de la ropa gracias a sus activos higiénicos
-- Limpieza activa para una ropa limpia, sin malos olores y con frescor extra
-- Descubre el resto de productos de la marca Colon para una colada óptima
 - Cápsulas monodosis fáciles de utilizar y de rápida disolución
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07LGYKHKX/?tag=tolees-21)

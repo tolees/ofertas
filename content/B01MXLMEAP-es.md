@@ -28,10 +28,10 @@ Está [Nerf Lanzador Elite Disruptor  Hasbro B9837EU4](https://www.amazon.es/dp/
 
 ℹ️:
 
-- Tambor rotatorio de 6 dardos
 - Lanza los dardos hasta 27m
-- Lanzamiento en ráfaga
-- Incluye 6 dardos Elite
 - Lanza dardos a una distancia de hasta 27 metros
+- Incluye 6 dardos Elite
+- Lanzamiento en ráfaga
+- Tambor rotatorio de 6 dardos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01MXLMEAP/?tag=tolees-21)

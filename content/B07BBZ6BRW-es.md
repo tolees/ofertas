@@ -28,8 +28,8 @@ Está [Bontempi 525602 - BATERIA ELECTRIA Drum 4 Niveles DE Aprendizaje 7 RITMOS
 
 ℹ️:
 
-- Decorado con el electrónico, aprende a jugar
 - 7.ritmos, y a acompañar 14.canciones
+- Decorado con el electrónico, aprende a jugar
 - Tamaño de la batería montado: longitud 50.cm x anchura 50.cm x altura 68.cm
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07BBZ6BRW/?tag=tolees-21)
