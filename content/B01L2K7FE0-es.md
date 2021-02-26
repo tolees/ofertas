@@ -30,8 +30,8 @@ Tienes [BaByliss C1300E Rizador de pelo automático con 2 cabezales  100% autom�
 
 - Selector de dirección del rizo: derecha, izquierda o alterno
 - Rizador cerámico: Doble calentador cerámico: rapidez y protección
+- Rizador con función iónica: elimina la electricidad estática y aporta brillo y suavidad al cabello
 - Rizador de pelo automático con 2 cabezales intercambiables de distinto tamaño: 25 mm (rizos u ondas finas o compactas) y 35 mm (ondas gruesas o abiertas)
 - Ajuste automático de posiciones de tiempo y temperatura (reajustable manualmente)
-- Rizador con función iónica: elimina la electricidad estática y aporta brillo y suavidad al cabello
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01L2K7FE0/?tag=tolees-21)

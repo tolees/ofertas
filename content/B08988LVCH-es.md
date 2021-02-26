@@ -28,10 +28,10 @@ En este momento está [Hurley M OneOnly Crew  CW7488 ](https://www.amazon.es/dp/
 
 🔎:
 
-- Sudadera hurley oneonly
 - 80% algodón, 20% poliéster
-- Casual
 - Lavar a máquina
+- Sudadera hurley oneonly
+- Casual
 - Closure: pull on
 - Lavar a máquina
 

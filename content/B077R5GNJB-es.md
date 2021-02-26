@@ -28,8 +28,8 @@ Tienes [Reebok Royal Charm  Zapatillas de Deporte para Mujer  Blanco  43 EU](htt
 
 ℹ️:
 
-- Sports shoes
 - Innovative material S
+- Sports shoes
 - Classic style
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B077R5GNJB/?tag=tolees-21)

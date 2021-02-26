@@ -28,10 +28,10 @@ Está [Casio EDIFICE Reloj en caja sólida  10 BAR  Negro  para Hombre  con Corr
 
 ℹ️:
 
-- Indicador de fecha
-- Pantalla de neón
 - Fondo de la carcasa atornillado
-- Clasificación de resistencia al agua (10 bar)
+- Indicador de fecha
 - Material: cristal mineral
+- Clasificación de resistencia al agua (10 bar)
+- Pantalla de neón
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B079FXGDB6/?tag=tolees-21)
