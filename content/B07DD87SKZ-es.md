@@ -28,9 +28,9 @@ Ahora mismo tienes [Poopsie Slime Surprise S2 - Modelos Sorpresa  Giochi Prezios
 
 🔎:
 
+- 15 modelos para coleccionar
 - Cada capa contiene sorpresas: paquete de polvos de slime o "comida de unicornio", paquete de polvos mágicos, 1 cuchara, 1 contenedor especial para hacer tus mezclas y crear el slime, 1 llavero para guardar y llevar el slime, 1 perfume
 - multicolor
 - facil de usar
-- 15 modelos para coleccionar
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07DD87SKZ/?tag=tolees-21)

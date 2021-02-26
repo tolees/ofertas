@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ubisoft Spain - Compilation Child Of Lig al 44.21 % de rebaja'
-date: 2021-02-24 21:09:05
+date: 2021-02-26 18:52:19
 image: 'https://m.media-amazon.com/images/I/51AWX7rYpAL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Ubisoft Spain'
 buyurl: 'https://www.amazon.es/dp/B07MF3B9RY/?tag=tolees-21'
 descuento: '44.21'
-average: '28.5966666666667'
+average: '26.718'
 ---
 
 Tienes [Ubisoft Spain - Compilation Child Of Light + Valiant Heart](https://www.amazon.es/dp/B07MF3B9RY/?tag=tolees-21) con precio final de  23.9 EUR (original: 42.84 EUR) (44.21 %  de rebaja) aqui!
