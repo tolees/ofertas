@@ -29,9 +29,9 @@ Tienes [NERTHUS Jarra Térmica de Doble Pared de Acero Inoxidable e Interior de 
 🔎:
 
 - Con una Capacidad de 1 Litro tiene el tamaño perfecto, disfrutaras de 8 tazas de café aproximadamente
-- Fabricada en Acero Inoxidable de Alta Calidad, resistente al oxido. Su interior es de cristal para facilitar su limpieza.
 - Diseño de Doble Pared de Acero Inoxidable que usa la tecnología de vacío creada entre sus paredes para conservar las temperaturas calientes o frías de las bebidas en su interior
 - Higiénica, fácil y rápida de limpiar. Apta para lavavajillas.
 - Diseñada para favorecer su uso a una sola mano gracias a la ergonomía de su asa y su tapón que se abre con una ligera presión sobre la palanca
+- Fabricada en Acero Inoxidable de Alta Calidad, resistente al oxido. Su interior es de cristal para facilitar su limpieza.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08KQGZ854/?tag=tolees-21)

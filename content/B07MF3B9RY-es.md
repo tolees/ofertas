@@ -28,7 +28,7 @@ Tienes [Ubisoft Spain - Compilation Child Of Light + Valiant Heart](https://www.
 
 🔎:
 
-- Child of Light, Concebido por sus creadores como un “poema jugable”, es una reinterpretación moderna de los cuentos para niños de nuestra infancia Child of Light, ambientado en el mágico mundo de Lemuria, nos narra el viaje hacia la madurez de Aurora, una jovencita que lucha por salvar al reino y a su padre enfermo.
 - Valiant Hearts es la historia de varios destinos cruzados y de un amor roto en un mundo arrasado. Todos ellos tratarán de sobrevivir al horror de las trincheras siguiendo a su fiel compañero canino. En Valiant Hearts, las vidas de todos estos personajes avanzan juntas inextricablemente a lo largo del juego.
+- Child of Light, Concebido por sus creadores como un “poema jugable”, es una reinterpretación moderna de los cuentos para niños de nuestra infancia Child of Light, ambientado en el mágico mundo de Lemuria, nos narra el viaje hacia la madurez de Aurora, una jovencita que lucha por salvar al reino y a su padre enfermo.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07MF3B9RY/?tag=tolees-21)

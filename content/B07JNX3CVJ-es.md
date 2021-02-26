@@ -28,8 +28,8 @@ En este momento está [adidas TIRO19 AW JKT Chaqueta de Deporte  Hombre  Dark Bl
 
 🔎:
 
-- Soft fabric
 - Soccer jacket
 - Full zip
+- Soft fabric
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07JNX3CVJ/?tag=tolees-21)

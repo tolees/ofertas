@@ -28,10 +28,10 @@ Tienes [Quiksilver Colors In Stereo - Camiseta para Hombre Screen tee  Hombre  B
 
 ℹ️:
 
+- Cuello redondo y serigrafía estampada en el pecho
 - Corte normal
 - Clásico
 - Cómodo
-- Cuello redondo y serigrafía estampada en el pecho
 - Camiseta Para hombre
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0825NLSKP/?tag=tolees-21)

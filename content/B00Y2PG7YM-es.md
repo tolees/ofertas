@@ -28,10 +28,10 @@ Ahora mismo tienes [Compo Cytrhin Spray Insecticida Pulgón  para Plantas Orname
 
 🔎:
 
-- Modo de empleo: agitar antes de usar, pulverizar directamente sin diluir a distancia de 30-40 cm desde los primeros síntomas de la plaga, no mezclar con otros productos, no aplicar en horas de calor
-- Utilizar con intervalos de 10 días, máximo 2 aplicaciones por cultivo de brécol, coliflor, repollo y paratas, máximo 2 aplicaciones al año para rosales
-- Insecticida de amplio espectro listo para usar para el control de plagas de insectos como pulgones, orugas y escarabajos
-- lea detenidamente las instrucciones y recomendaciones en la etiqueta del envase antes de utilizar el producto, tóxico para los organismos acuáticos, con efectos nocivos duraderos
 - Contenido: 1 x COMPO Cytrhin Spray Insecticida Pulgón, Para plantas ornamentales, de interior, huerta y jardín, Envase pulverizador, 750 ml
+- lea detenidamente las instrucciones y recomendaciones en la etiqueta del envase antes de utilizar el producto, tóxico para los organismos acuáticos, con efectos nocivos duraderos
+- Utilizar con intervalos de 10 días, máximo 2 aplicaciones por cultivo de brécol, coliflor, repollo y paratas, máximo 2 aplicaciones al año para rosales
+- Modo de empleo: agitar antes de usar, pulverizar directamente sin diluir a distancia de 30-40 cm desde los primeros síntomas de la plaga, no mezclar con otros productos, no aplicar en horas de calor
+- Insecticida de amplio espectro listo para usar para el control de plagas de insectos como pulgones, orugas y escarabajos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00Y2PG7YM/?tag=tolees-21)

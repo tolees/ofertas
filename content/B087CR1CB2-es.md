@@ -28,10 +28,10 @@ Ahora mismo tienes [adidas Maori Rep JSY Y Camiseta  Unisex niños  Negro  152  
 
 🔎:
 
-- Cuello redondo
-- AEROREADY absorbente de humedad
-- Gráficos diseñados por artistas maoríes
 - Ajuste regular
 - Camiseta de rugby con gráficos maoríes
+- Gráficos diseñados por artistas maoríes
+- AEROREADY absorbente de humedad
+- Cuello redondo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B087CR1CB2/?tag=tolees-21)

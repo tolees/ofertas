@@ -28,8 +28,8 @@ Tienes [Tommy Hilfiger 3p Trunk Bóxer  Blanco  White/Tango Red/Peacoat 611   La
 
 ℹ️:
 
-- Cinta distintiva en la cintura
 - Cintura con la inscripción de Tommy Hilfiger
+- Cinta distintiva en la cintura
 - Ajuste cómodo y adecuado
 - Producto con diseño clásico y estilo para todos los días
 

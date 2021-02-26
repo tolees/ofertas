@@ -28,10 +28,10 @@ Ahora mismo tienes [NGS FUNKYV2 Teclado con Cable y conexión USB  104 Teclas de
 
 🔎:
 
-- Función "Plug&Play": la conexión a cualquier equipo se realizará de forma inmediata sin necesidad de software.
-- La pulsación de las 104 teclas de membrana es muy suave, cómoda y el ruido que emiten al ser pulsadas es prácticamente imperceptible.
-- NGS FunkyV2 es un teclado QWERTY para idioma español con conexión USB que cuenta con un original acabado denominado “Leather grain”, dotándolo de elegancia y personalidad.
-- Cable de 140 cm que nos permite conectarlo cómodamente sin restringir nuestros movimientos.
 - Atractivo diseño resistente a los derrames que ofrece un funcionamiento de mayor duración, de aproximadamente 10 millones de pulsaciones.
+- Cable de 140 cm que nos permite conectarlo cómodamente sin restringir nuestros movimientos.
+- NGS FunkyV2 es un teclado QWERTY para idioma español con conexión USB que cuenta con un original acabado denominado “Leather grain”, dotándolo de elegancia y personalidad.
+- La pulsación de las 104 teclas de membrana es muy suave, cómoda y el ruido que emiten al ser pulsadas es prácticamente imperceptible.
+- Función "Plug&Play": la conexión a cualquier equipo se realizará de forma inmediata sin necesidad de software.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07MVC627F/?tag=tolees-21)
