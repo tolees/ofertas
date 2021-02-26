@@ -28,10 +28,10 @@ En este momento está [Medela sacaleches Harmony. Extractor manual con embudo Fl
 
 🔎:
 
-- Discreto y silencioso: extrae con confianza en cualquier momento y en cualquier lugar
-- Embudo PersonalFit Flex: para mayor comodidad y más leche
-- Compacto, ligero y portatil: llévate el sacaleches Harmony a donde quiera que vayas
 - Fácil de usar y de limpiar: montaje y desmontaje sencillo. Harmony se desmonta y se limpia con facilidad
 - Técnología 2-Phase Expression: su palanca única te ayuda a imitar el ritmo de succión natural del bebé
+- Embudo PersonalFit Flex: para mayor comodidad y más leche
+- Discreto y silencioso: extrae con confianza en cualquier momento y en cualquier lugar
+- Compacto, ligero y portatil: llévate el sacaleches Harmony a donde quiera que vayas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08DBMQSVN/?tag=tolees-21)

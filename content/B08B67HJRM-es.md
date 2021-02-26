@@ -30,7 +30,7 @@ Ahora mismo tienes [Sanytol - Jabón de Manos de Cocina con Protección Total Co
 
 - Preserva la hidratación natural de la piel gracias a un rico complejo lipídico similar al que conforma la estructura de nuestra epidermis; Fórmula probada dermatológica y clínicamente
 - Jabón de manos de cocina con protección total contra agentes externos
-- Complejo anti malos olores de la comida (ajo, cebolla, pescado…)
 - Deja las manos limpias, suaves, nutridas y delicadamente perfumadas
+- Complejo anti malos olores de la comida (ajo, cebolla, pescado…)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08B67HJRM/?tag=tolees-21)

@@ -28,8 +28,8 @@ Ahora mismo tienes [Salomon XA Pro 3D V8 GTX  Zapatillas De Trail Running Y Sand
 
 🔎:
 
-- Salomon
-- Color: Black/Black/Black
 - Xa PRO 3D V8 GTX
+- Color: Black/Black/Black
+- Salomon
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07WCPZXCH/?tag=tolees-21)

@@ -28,10 +28,10 @@ Tienes [Orbegozo FH 5525 - Calefactor  2 niveles de potencia  función ventilado
 
 ℹ️:
 
-- Dos niveles de potencia: 1000 W y 2000 W; Incorpora función ventilador con temperatura ambiente
-- Dimensiones: 23 x 18 x 13 cm
-- Cuenta con apagado automático de seguridad y protección contra sobrecalentamiento
-- Termostato con ajuste progresivo y luz indicadora de encendido
 - Calefactor de aire Orbegozo con diseño en color blanco y rijilla azul
+- Cuenta con apagado automático de seguridad y protección contra sobrecalentamiento
+- Dos niveles de potencia: 1000 W y 2000 W; Incorpora función ventilador con temperatura ambiente
+- Termostato con ajuste progresivo y luz indicadora de encendido
+- Dimensiones: 23 x 18 x 13 cm
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00OXMSOAO/?tag=tolees-21)
