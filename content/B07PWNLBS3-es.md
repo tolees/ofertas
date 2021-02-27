@@ -28,10 +28,10 @@ En este momento está [Under Armour UA W Charged Pursuit 2  Zapatillas de Runnin
 
 🔎:
 
-- Mediasuela Charged Cushioning que utiliza espuma moldeada de compresión y aporta durabilidad y reactividad
-- Plantilla cómoda que se adapta a la forma del pie y cuenta con acolchado en el talón para ofrecer una amortiguación excelente en la zona de apoyo del talón
-- NEUTRAL: para aquellos corredores que necesitan flexibilidad, amortiguación y versatilidad
-- Parte superior de malla extremadamente ligera y transpirable, con sujeción estratégica donde más la necesitas
 - Acolchado de espuma alrededor del tobillo y bajo la lengüeta para un ajuste y una sensación increíblemente cómodos
+- Parte superior de malla extremadamente ligera y transpirable, con sujeción estratégica donde más la necesitas
+- Plantilla cómoda que se adapta a la forma del pie y cuenta con acolchado en el talón para ofrecer una amortiguación excelente en la zona de apoyo del talón
+- Mediasuela Charged Cushioning que utiliza espuma moldeada de compresión y aporta durabilidad y reactividad
+- NEUTRAL: para aquellos corredores que necesitan flexibilidad, amortiguación y versatilidad
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07PWNLBS3/?tag=tolees-21)
