@@ -28,10 +28,10 @@ Ahora mismo tienes [KUPVALON Funda para Huawei P40 IP68 Funda Impermeable Protec
 
 🔎:
 
-- 🌊3 METROS IMPERMEABLES: Nuestra carcasa impermeable tiene certificación IP68 y está completamente sellada, protegiendo bien su teléfono del agua,el polvo y la nieve.Se puede sumergir bajo el agua hasta 3 metros y durante 1 hora hasta 2 metros durante media hora.El estuche le permite tomar fotos o videos bajo el agua.(Haga una prueba de agua con un papel antes de usar la cubierta debajo del agua).
 - 💦COMPATIBILIDAD: Este estuche está especialmente diseñado para Huawei P40 y solo se puede usar con Huawei P40. Perfecto para todas las actividades al aire libre como natación, camping,surf,senderismo,ciclismo,esquí y uso diario.
 - ⛲ENTREGA: En nuestra entrega se incluyen 1*cubierta protectora,1*paño de limpieza,1*cordón,1*instrucciones de funcionamiento.Nuestro estuche tiene 24 horas de servicio.Si tiene alguna pregunta o problema,comuníquese con nuestro servicio de asistencia o escriba a huangwangchengde@outlook.com.
-- 🤽3 METROS ANTI-CAÍDA: El protector de pantalla incorporado resistente a los arañazos,TPU que absorbe los golpes en cada esquina,protege su Huawei P40 de caídas de hasta 3 metros de altura,proporcionando una protección completa incluso en los entornos más hostiles.
 - 💧ACCESIBILIDAD PRECISA: Todos los botones y puertos son de fácil acceso,fácil acceso a botones, altavoces,cámara,interfaz de carga.La superficie de la carcasa está hecha de material de PVC altamente transparente y,por lo tanto,la pantalla táctil es sensible.Las llamadas telefónicas no están bloqueadas.La calidad de imagen es tan clara como sin el estuche.
+- 🤽3 METROS ANTI-CAÍDA: El protector de pantalla incorporado resistente a los arañazos,TPU que absorbe los golpes en cada esquina,protege su Huawei P40 de caídas de hasta 3 metros de altura,proporcionando una protección completa incluso en los entornos más hostiles.
+- 🌊3 METROS IMPERMEABLES: Nuestra carcasa impermeable tiene certificación IP68 y está completamente sellada, protegiendo bien su teléfono del agua,el polvo y la nieve.Se puede sumergir bajo el agua hasta 3 metros y durante 1 hora hasta 2 metros durante media hora.El estuche le permite tomar fotos o videos bajo el agua.(Haga una prueba de agua con un papel antes de usar la cubierta debajo del agua).
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B089KKPP2V/?tag=tolees-21)

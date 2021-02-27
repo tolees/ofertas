@@ -29,9 +29,9 @@ Tienes [Pecute Juguetes para Gatos Interactivos 4 EN 1 Bolas Educativos de Pelot
 🔎:
 
 - 🐾【ENTRENAMIENTO AUTÓNOMO Y DIVERTIDO】 Al comer mientras se juega, la función de alimentación exclusiva permite que el gato obtenga snacks mediante un empujoncito, lo que animará al gato a seguir persiguiéndolo y así poder hacer ejercicio y mantener una buena salud.
-- 🐾【ALTAMENTE INTERACTIVO】 Dos bolas que giran alrededor de la pista + un divertido palo de gato atraen al gato a rascarse y a jugar, el diseño de la estructura del tambor que puede girar 180 grados en el suelo sin consumir pilas.
-- 🐾【SEGURO Y DURADERO】 Las partes superior e inferior del juguete de volteo están hechas de PP, respetuoso con el medio ambiente y fácil de limpiar; el material transparente de PC en el centro permite que el gato vea los snacks del interior y sea fácilmente captado.
 - 🐾【DISPENSADORA DE ALIMENTOS AJUSTABLE】 A diferencia de otros juguetes para gatos que hay en el mercado, se puede ajustar el tamaño de los dos orificios de dispensación de comida en función de sus necesidades para controlar la rapidez con la que come su mascota.
 - 🐾【PRECAUCIONES】 El diámetro máximo del orificio de dispensación de alimentos puede ajustarse a 2 cm, la comida que se añada debe ser más pequeña que este diámetro, o la comida puede cortarse un poco más pequeña y colocarla; por favor, ponga comida seca granulada en lugar de comida húmeda que se pueda adherir.
+- 🐾【SEGURO Y DURADERO】 Las partes superior e inferior del juguete de volteo están hechas de PP, respetuoso con el medio ambiente y fácil de limpiar; el material transparente de PC en el centro permite que el gato vea los snacks del interior y sea fácilmente captado.
+- 🐾【ALTAMENTE INTERACTIVO】 Dos bolas que giran alrededor de la pista + un divertido palo de gato atraen al gato a rascarse y a jugar, el diseño de la estructura del tambor que puede girar 180 grados en el suelo sin consumir pilas.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B086V9CQ9G/?tag=tolees-21)

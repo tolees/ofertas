@@ -28,10 +28,10 @@ En este momento está [Intex 28000 - Skimmer Deluxe filtro 3.028 litros/hora  Ea
 
 🔎:
 
-- Función: recoge las hojas y otros desechos que flotan en la superficie antes de que se depositen en el fondo de la piscina, ayudando a una mejor filtración
-- La cesta del filtro es de canasta y se extrae para una fácil limpieza
+- Medidas: 19 cm (diámetro azul exterior), 12 cm (diámetro azul interior) y 4 cm (diámetro tubo)
 - Skimmer Deluxe Intex para piscinas AGP, compatible con piscinas hinchables o metálica de Intex y con depuradoras de caudal mínimo de 3.028 litros/horas
 - Skimmer de polipropileno resistente y duradero, no se ve afectado por los productos químicos utilizados en la piscina
-- Medidas: 19 cm (diámetro azul exterior), 12 cm (diámetro azul interior) y 4 cm (diámetro tubo)
+- La cesta del filtro es de canasta y se extrae para una fácil limpieza
+- Función: recoge las hojas y otros desechos que flotan en la superficie antes de que se depositen en el fondo de la piscina, ayudando a una mejor filtración
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00178IMPO/?tag=tolees-21)
