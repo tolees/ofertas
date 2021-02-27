@@ -29,7 +29,7 @@ Tienes [NIKE M NK Dry Top LS Slim Camiseta de Manga Larga  Hombre  Negro  Black/
 ℹ️:
 
 - Side vents
-- Slim fit
 - Dri-Fit Technology
+- Slim fit
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B005XVDXQE/?tag=tolees-21)

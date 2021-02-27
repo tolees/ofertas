@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SanDisk Extreme SSD portátil 2TB - hasta con un 60.01 % de descuento'
-date: 2021-02-23 21:51:47
+date: 2021-02-27 18:54:31
 image: 'https://m.media-amazon.com/images/I/511CKblEcAL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SanDisk'
 buyurl: 'https://www.amazon.es/dp/B078T9SZ3K/?tag=tolees-21'
 descuento: '60.01'
-average: '321.8859375'
+average: '320.624923076923'
 ---
 
 En este momento está [SanDisk Extreme SSD portátil 2TB - hasta 550MB/s Velocidad de Lectura](https://www.amazon.es/dp/B078T9SZ3K/?tag=tolees-21) a 239.92 EUR (original: 599.99 EUR) (60.01 %  de descuento) en el siguiente enlace!
@@ -30,8 +30,8 @@ En este momento está [SanDisk Extreme SSD portátil 2TB - hasta 550MB/s Velocid
 
 - Las transferencias de gran velocidad de hasta 550MB/s te permiten mover rápidamente vídeos y fotografías de gran resolución
 - Para usuarios de PC y Mac
-- Núcleo de estado sólido resistente a golpes para una optima durabilidad
 - Robusta, resistente al agua y al polvo, certificación IP-55
+- Núcleo de estado sólido resistente a golpes para una optima durabilidad
 - Compacta y de bolsillo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B078T9SZ3K/?tag=tolees-21)

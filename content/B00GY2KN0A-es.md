@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'Descuento del 36.22 % en Vagisil Gel lubricante vaginal. Alivia l'
-date: 2020-06-06 18:56:51
-image: 'https://m.media-amazon.com/images/I/415lmc+rgAL._SL400_.jpg'
+title: 'Descuento del 38.38 % en VAGISIL gel hidratante vaginal tubo 30 m'
+date: 2021-02-27 18:47:08
+image: 'https://m.media-amazon.com/images/I/41Z+ybT12ZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GY2KN0A-es Vagisil Gel lubricante vaginal. Alivia la sequedad vaginal...'
+slug: 'B00GY2KN0A-es VAGISIL gel hidratante vaginal tubo 30 ml'
 sku: 'B00GY2KN0A-es'
 tags: [  ]
-actualPrice: 5.9 EUR
+actualPrice: 5.7 EUR
 currency: EUR
-price: 5.9
+price: 5.7
 comparePrice: 9.25 EUR
-prodname: 'Vagisil Gel lubricante vaginal. Alivia la sequedad vaginal  molestias e irritiaciones y facilita las relaciones sexuales. 30gr'
+prodname: 'VAGISIL gel hidratante vaginal tubo 30 ml'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'VAGISIL'
 buyurl: 'https://www.amazon.es/dp/B00GY2KN0A/?tag=tolees-21'
-descuento: '36.22'
-average: '5.9'
+descuento: '38.38'
+average: '5.8'
 ---
 
-Tienes [Vagisil Gel lubricante vaginal. Alivia la sequedad vaginal  molestias e irritiaciones y facilita las relaciones sexuales. 30gr](https://www.amazon.es/dp/B00GY2KN0A/?tag=tolees-21) con un 36.22 % de descuento con precio de oferta de 5.9 EUR (original: 9.25 EUR) en el siguiente enlace!
+Tienes [VAGISIL gel hidratante vaginal tubo 30 ml](https://www.amazon.es/dp/B00GY2KN0A/?tag=tolees-21) con un 38.38 % de descuento con precio de oferta de 5.7 EUR (original: 9.25 EUR) en el siguiente enlace!
 
-[![Vagisil Gel lubricante vaginal. Alivia l](https://m.media-amazon.com/images/I/415lmc+rgAL._SL400_.jpg)](https://www.amazon.es/dp/B00GY2KN0A/?tag=tolees-21)
+[![VAGISIL gel hidratante vaginal tubo 30 m](https://m.media-amazon.com/images/I/41Z+ybT12ZL._SL400_.jpg)](https://www.amazon.es/dp/B00GY2KN0A/?tag=tolees-21)
 
 ℹ️:
 
+- Soluble en agua y compatible con el uso de preservativos
+- Alivia y protege la zona íntima de molestias e irritaciones causadas por la sequedad
+- Sin sabor, sin olor y libre de hormonas
+- Vagisil gel lubricante facilita que las relaciones sexuales sean más cómodas
+- Su fórmula exclusiva proporciona una acción lubricante e hidratante inmediata. Imita la lubricación natural
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00GY2KN0A/?tag=tolees-21)

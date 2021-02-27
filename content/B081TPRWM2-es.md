@@ -28,8 +28,8 @@ Ahora mismo tienes [adidas Drst Torch Bra Sujetador de Deporte  Mujer  Black  XS
 
 🔎:
 
-- Gran freedom of movimiento
 - Stretch fabric
+- Gran freedom of movimiento
 - Sports Bra
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B081TPRWM2/?tag=tolees-21)

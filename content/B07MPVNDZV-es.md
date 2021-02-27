@@ -28,10 +28,10 @@ Ahora mismo tienes [Cikuso 4 Piezas Estuche Inferior Patas de Goma Almohadilla d
 
 🔎:
 
-- Tipo de radiador: OEM
 - Caliente la puntada caída con un secador de pelo, cuando esté caliente, pegue directamente sobre el pie de goma.
-- Cómo utilizar:
+- Tipo de radiador: OEM
 - Retire la carcasa inferior y limpie la puntada caída con un pa？o seco para limpiar el polvo, pero no se moje.
+- Cómo utilizar:
 - Dise？o antideslizante, útil y práctico.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07MPVNDZV/?tag=tolees-21)
