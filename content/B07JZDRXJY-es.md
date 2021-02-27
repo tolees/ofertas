@@ -28,8 +28,8 @@ Ahora mismo tienes [adidas TIRO19 Chándal  Hombre  Negro  Black/Granite/White  
 
 🔎:
 
-- Zip pockets
 - Climalite anti-humidity fabric
+- Zip pockets
 - Soccer suit
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07JZDRXJY/?tag=tolees-21)
