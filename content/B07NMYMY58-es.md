@@ -28,8 +28,8 @@ En este momento está [Nike Revolution 5  Mujer  Multicolor  Barely Rose/Mtlc Re
 
 🔎:
 
-- Brand: Nike
 - Color: Multicolor (Barely Rose/Mtlc Red Bronze/Stone Mauve 600)
+- Brand: Nike
 - Talla/Tamaño: 38 EU
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07NMYMY58/?tag=tolees-21)

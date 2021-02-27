@@ -28,9 +28,9 @@ Tienes [Wet n Wild Crease Brush - Pincel de Sombras - Punta Larga y Fina - Mando
 
 🔎:
 
-- Cómodo de manejar gracias a su largo mango ergonómico con rincón para descansar el dedo y tomar total control sobre la brocha
-- Hecho de un exclusivo complejo de polímero termoplástico que imita la consistencia de los pelos naturales para recoger cualquier maquillaje fácilmente: crema, polvo o fórmula líquida
-- Pincel de punta larga y fino diseñado para recoger las sombras fácilmente para aplicarlas en el pliegue del ojo y combinarlas
 - Libre de crueldad anima (certificado PETA): la marca Wet n Wild no prueba sus productos de maquillaje sobre los animales. Producto Vegano
+- Cómodo de manejar gracias a su largo mango ergonómico con rincón para descansar el dedo y tomar total control sobre la brocha
+- Pincel de punta larga y fino diseñado para recoger las sombras fácilmente para aplicarlas en el pliegue del ojo y combinarlas
+- Hecho de un exclusivo complejo de polímero termoplástico que imita la consistencia de los pelos naturales para recoger cualquier maquillaje fácilmente: crema, polvo o fórmula líquida
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07CZD56Q4/?tag=tolees-21)

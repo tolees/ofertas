@@ -28,10 +28,10 @@ Tienes [Reloj Calvin Klein - Mujer K8A23141](https://www.amazon.es/dp/B0752DH9RK
 
 🔎:
 
-- WR 30mt
 - Cuarzo
-- Negro y Metálico
-- Analógico en Acero inoxidable para Mujer
 - Moda
+- Analógico en Acero inoxidable para Mujer
+- Negro y Metálico
+- WR 30mt
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0752DH9RK/?tag=tolees-21)

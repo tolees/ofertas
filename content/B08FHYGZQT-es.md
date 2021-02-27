@@ -28,10 +28,10 @@ En este momento está [TiMOVO Protector Compatible con Galaxy Tab A7 10.4 2020  
 
 🔎:
 
-- Dureza 9H: resiste de manera efectiva los arañazos con llave, cuchillo y cualquier otro objeto punzante.
 - Combatibilidad : Compatible perfecta para Samsung Galaxy Tab A7 10.4 2020 Tableta.
 - Material de alta calidad : Hecho de vidrio templado de calidad, proporciona la máxima protección.
 - Recubrimiento Oleofóbico: Menos Huellas Digitales y Manchas Aceitosas. Sin burbujas.
+- Dureza 9H: resiste de manera efectiva los arañazos con llave, cuchillo y cualquier otro objeto punzante.
 - Ultradelgado: grosor de 0.33 mm para una mejor experiencia de sensibilidad táctil
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08FHYGZQT/?tag=tolees-21)

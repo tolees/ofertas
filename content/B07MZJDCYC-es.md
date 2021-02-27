@@ -29,9 +29,9 @@ Ahora mismo tienes [G-STAR RAW Graphic 8 Round Neck Camiseta  Gris  Lt Grey Htr 
 🔎:
 
 - Estilo del cuello: Cuello redondo
-- Manga corta
-- 100% Algodón
-- Lavar a máquina - caliente (mayor de 30 °)
 - Camiseta
+- 100% Algodón
+- Manga corta
+- Lavar a máquina - caliente (mayor de 30 °)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07MZJDCYC/?tag=tolees-21)

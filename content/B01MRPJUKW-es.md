@@ -28,10 +28,10 @@ Está [Maybelline NY - Maybelline Brow Micro Pencil Lápiz de Cejas  04 Deep Bro
 
 ℹ️:
 
-- Su micro punta permite dibujar finisimos trazos que imitan tu pelo natural
 - Lápiz de cejas que dibuja y peina tus cejas con máxima precisión
-- Rellena tus cejas dibujando pequeños trazos imitando a tu pelo natural; después peina para fundir el producto con tu ceja creando un acabado totalmente natural
 - El resultado: cejas delineadas y dibujadas con máxima precisión para una mirada enmarcada
+- Su micro punta permite dibujar finisimos trazos que imitan tu pelo natural
+- Rellena tus cejas dibujando pequeños trazos imitando a tu pelo natural; después peina para fundir el producto con tu ceja creando un acabado totalmente natural
 - Con su micro cepillo, peina tus cejas para un resultado uniforme y natural
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01MRPJUKW/?tag=tolees-21)

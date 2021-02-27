@@ -28,10 +28,10 @@ Ahora mismo tienes [FULL TIME SPORTS® 3 4 6 Paquete Assorted Langarm-  Kurzarm 
 
 🔎:
 
-- <li>Ronda-cuello de la camiseta; FTS mezcla única de tela, estiramiento ligero para mayor comodidad
-- <li>FTS-632-630-638-401-402-403-404-Parent
 - <li>Ajuste normal; Cuello redondo acanalado, Paquete 6 especiales
-- <li>AJUSTE ESTÁNDAR EN TODAS LAS PLATAFORMAS
+- <li>Ronda-cuello de la camiseta; FTS mezcla única de tela, estiramiento ligero para mayor comodidad
 - <li>Lavable en la lavadora; No Hierro
+- <li>FTS-632-630-638-401-402-403-404-Parent
+- <li>AJUSTE ESTÁNDAR EN TODAS LAS PLATAFORMAS
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07CRKGGQV/?tag=tolees-21)

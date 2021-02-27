@@ -29,9 +29,9 @@ Tienes [adidas CB CLX SH SL Bañador  Hombre  Blanco  XS](https://www.amazon.es/
 ℹ️:
 
 - Tejido suave de secado rápido muy resistente al desgaste
-- Sarga 100% poliéster reciclado
-- Bolsillos laterales
 - Cintura elástica con cordón interior
 - Bañador perfecto para la playa o la piscina
+- Bolsillos laterales
+- Sarga 100% poliéster reciclado
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08CNRMS55/?tag=tolees-21)
