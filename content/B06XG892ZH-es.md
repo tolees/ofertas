@@ -28,7 +28,7 @@ Ahora mismo tienes [Western Digital - WD Elements - Disco duro externo portátil
 
 🔎:
 
-- Conexión USB 3.0 y compatibilidad con versiones anteriores de dispositivos USB 2.5
 - Diseñado para ordenadores con sistema operativo Windows, formatable para Mac
+- Conexión USB 3.0 y compatibilidad con versiones anteriores de dispositivos USB 2.5
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B06XG892ZH/?tag=tolees-21)
