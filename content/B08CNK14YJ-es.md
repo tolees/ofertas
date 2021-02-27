@@ -28,10 +28,10 @@ Tienes [Starwax The Fabulous Vinagre De Limpieza 500ml - Desengrasante Multiusos
 
 🔎:
 
-- En la casa: Limpia las ventanas y elimina las manchas en moquetas y tejidos (manchas de tinta, café, óxido o vino)
-- En la cocina: Limpiador multiusos antical, limpiador de tablas de cortar y limpiador de grifos
-- En el jardín: Ideal para limpiar los maceteros del jardín y eliminar los restos de cal
 - El Vinagre Blanco de Starwax The Fabulous es la solución para la limpieza de todo tipo de superficies con poder desengrasante y antical
+- En la cocina: Limpiador multiusos antical, limpiador de tablas de cortar y limpiador de grifos
+- En la casa: Limpia las ventanas y elimina las manchas en moquetas y tejidos (manchas de tinta, café, óxido o vino)
 - En la cocina: Elimina la grasa de la vajilla dejándola brillante y desatacas tu fregadero dejándolo sin olores
+- En el jardín: Ideal para limpiar los maceteros del jardín y eliminar los restos de cal
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08CNK14YJ/?tag=tolees-21)
