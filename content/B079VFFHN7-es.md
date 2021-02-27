@@ -28,8 +28,8 @@ Ahora mismo tienes [Tommy Hilfiger Core Slim Polo  Polo Hombre  Azul  Sky Captai
 
 🔎:
 
+- Tapeta de tres botones
 - Logo de Tommy Hilfiger bordado en el pecho
 - Cinta distintiva en el interior del cuello
-- Tapeta de tres botones
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B079VFFHN7/?tag=tolees-21)
