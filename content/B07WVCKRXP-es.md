@@ -28,10 +28,10 @@ Ahora mismo tienes [Note D Espresso - Cápsulas de café "Qualità Oro" exclusiv
 
 🔎:
 
-- Dosis recomendada de agua 25 ml - 40 ml
 - Un café 100 % natural tostado en Italia
 - Exclusivamente Compatible con cafeteras Nespresso* (* No registrado en Amazon EU S.a.r.l.)
-- El delicioso sabor y aroma del café recién hecho en una pequeña cápsula de 5,6 gramos
 - Práctica caja de 100 Cápsulas de nueva generación totalmente certificadas con barrera de oxígeno (no es necesario guardarlas en bolsas, pueden permanecer afuera en la cocina sin ningún problema)
+- El delicioso sabor y aroma del café recién hecho en una pequeña cápsula de 5,6 gramos
+- Dosis recomendada de agua 25 ml - 40 ml
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07WVCKRXP/?tag=tolees-21)
