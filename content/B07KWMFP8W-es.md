@@ -28,10 +28,10 @@ En este momento está [Hugo BOSS Reloj de pulsera 1513697](https://www.amazon.es
 
 🔎:
 
+- Correa negra de piel lisa
 - 10 ATM de resistencia al agua
 - Movimiento cronógrafo
-- Correa negra de piel lisa
-- Grosor de la caja de 12,00 mm
 - Esfera negro
+- Grosor de la caja de 12,00 mm
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07KWMFP8W/?tag=tolees-21)
