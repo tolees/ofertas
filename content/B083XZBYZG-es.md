@@ -28,10 +28,10 @@ En este momento está [Emporio Armani Reloj para Hombre de Pantalla táctil ART5
 
 🔎:
 
+- Espesor de la caja: 8 mm, Tamaño de la caja: 44 mm, Ancho de banda: 20 mm, Duración de la batería: 1-2 días Según el uso
+- Resistente al agua: 5 ATM
 - Activity Tracker, Conectividad: Bluetooth Smart Enabled / 4.1 Low Energy, Wifi b / g / n, frecuencia cardíaca, notificaciones, pantalla táctil
 - El Reloj inteligente (Smartwatch) con pantalla táctil conectada es compatible con teléfonos iOS y Android , y está alimentado con Wear OS by Google y la plataforma de Reloj inteligente (Smartwatch) Qualcomm Snapdragon Wear 2100.
-- Resistente al agua: 5 ATM
 - Material de la banda: acero inoxidable en tono negro.
-- Espesor de la caja: 8 mm, Tamaño de la caja: 44 mm, Ancho de banda: 20 mm, Duración de la batería: 1-2 días Según el uso
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B083XZBYZG/?tag=tolees-21)

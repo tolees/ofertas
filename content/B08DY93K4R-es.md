@@ -28,10 +28,10 @@ Tienes [FULL TIME SPORTS® 3 4 6 Paquete Assorted Langarm-  Kurzarm Casual Top M
 
 🔎:
 
+- <li>Lavable en la lavadora; No Hierro
+- FTS-632-630-638-401-402-403-404-Parent
 - <li>AJUSTE ESTÁNDAR EN TODAS LAS PLATAFORMAS
 - <li>Ajuste normal; Cuello redondo acanalado, Paquete 6 especiales
 - <li>Ronda-cuello de la camiseta; FTS mezcla única de tela, estiramiento ligero para mayor comodidad
-- FTS-632-630-638-401-402-403-404-Parent
-- <li>Lavable en la lavadora; No Hierro
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08DY93K4R/?tag=tolees-21)

@@ -28,10 +28,10 @@ Tienes [Maybelline New York Máscara de Cejas Brow Drama  Tono Dark Blond](https
 
 🔎:
 
-- Matiza y rellena.
 - El resultado: ceja peinada, rellena y con color natural.
 - Acabado natural.
 - Fija. Su cepillo de punta redondeada peina la ceja de manera fácil.
+- Matiza y rellena.
 - Su fórmula gel no deja residuos ni pegotes y notarás una fijación flexible que se adapta a los movimientos faciales.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00F1U2NA4/?tag=tolees-21)

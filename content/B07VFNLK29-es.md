@@ -1,0 +1,37 @@
+---
+layout: post
+title: 'Hugo BOSS Reloj Analógico para Mujer de  al 30.10 % de rebaja'
+date: 2021-02-27 08:24:07
+image: 'https://m.media-amazon.com/images/I/514Unt3U+xL._SL400_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B07VFNLK29-es Hugo BOSS Reloj Analógico para Mujer de Cuarzo con Correa...'
+sku: 'B07VFNLK29-es'
+tags: [  ]
+actualPrice: 209.0 EUR
+currency: EUR
+price: 209.0
+comparePrice: 299.0 EUR
+prodname: 'Hugo BOSS Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable 1502509'
+country: 'es'
+flag: '🇪🇸'
+brand: 'Hugo Boss'
+buyurl: 'https://www.amazon.es/dp/B07VFNLK29/?tag=tolees-21'
+descuento: '30.10'
+average: '209.0'
+---
+
+Tienes [Hugo BOSS Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable 1502509](https://www.amazon.es/dp/B07VFNLK29/?tag=tolees-21) con precio final de  209.0 EUR (original: 299.0 EUR) (30.10 %  de rebaja) aqui!
+
+[![Hugo BOSS Reloj Analógico para Mujer de ](https://m.media-amazon.com/images/I/514Unt3U+xL._SL400_.jpg)](https://www.amazon.es/dp/B07VFNLK29/?tag=tolees-21)
+
+🔎:
+
+- Grosor de la caja de 9,5 mm, Diámetro de la caja: 36 mm
+- Esfera azul con detalles de oro rosado
+- Movimiento multifunción
+- Pulsera de malla con chapado iónico azul
+- 3 ATM de resistencia al agua
+
+[🛒 Comprar!!!](https://www.amazon.es/dp/B07VFNLK29/?tag=tolees-21)

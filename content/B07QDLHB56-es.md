@@ -28,10 +28,10 @@ Está [Wet n Wild - Mega Length - Máscara de Pestañas Negra Voluminizadora par
 
 ℹ️:
 
-- Mega alargada: aporta hasta un 80% de largura en las pestañas
+- Cepillo de grande precisión: captura incluso las pestañas más cortas. Crea longitud y definición a tus pestañas.
 - Libre de crueldad animall (certificado peta): la marca wet n wild no prueba sus productos de maquillaje sobre los animales
 - Wet n wild, la marca de cosméticos creada y desarrollada en los angeles (usa), conocida y distribuida en todo el mundo. únete a nuestras millones de fans
 - Mega pigmentado: pigmentos negros intensos para agrandar tu mirada.
-- Cepillo de grande precisión: captura incluso las pestañas más cortas. Crea longitud y definición a tus pestañas.
+- Mega alargada: aporta hasta un 80% de largura en las pestañas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07QDLHB56/?tag=tolees-21)

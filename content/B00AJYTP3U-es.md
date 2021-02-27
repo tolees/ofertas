@@ -28,10 +28,10 @@ En este momento está [Mann Filter Filtro de aire C 35 005  para automóviles](h
 
 🔎:
 
-- Altura [mm]: 64
 - Longitud [mm]: 377
-- Ancho [mm]: 148
 - Número de pieza equivalente OEM: FIAT:51775324
+- Altura [mm]: 64
+- Ancho [mm]: 148
 - Estilo: Ajuste específico del vehículo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00AJYTP3U/?tag=tolees-21)
