@@ -28,9 +28,9 @@ En este momento está [Funko - Pop! Vinyl: Disney: NBX: Sally](https://www.amazo
 
 🔎:
 
+- El producto se envía en una caja ilustrada con ventana
 - Recomendado para niños a partir de 3 años
 - El artículo es adecuado para todos los fanáticos de The Nightmare Before Christmas
-- El producto se envía en una caja ilustrada con ventana
 - Figura de colección de la marca Funko
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07DFB8DKB/?tag=tolees-21)

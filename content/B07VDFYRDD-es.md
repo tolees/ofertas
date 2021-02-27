@@ -31,7 +31,7 @@ Ahora mismo tienes [Desigual CAM Matera Blusa  Blanco  Blanco 1000   XX-Large pa
 - Tipologia: Donna
 - Brand: DESIGUAL
 - Colore: Fantasia
-- Articolo: Camicia
 - Modello: 20SWCW22
+- Articolo: Camicia
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VDFYRDD/?tag=tolees-21)

@@ -28,10 +28,10 @@ En este momento está [Disney Traditions  Figura de Jazmin y el tigre Raja de" A
 
 🔎:
 
-- Producto adecuado para regalar, decorar o coleccionar
 - Dimensiones del producto: 15 x 9 x 19 cm
+- Producto adecuado para regalar, decorar o coleccionar
+- Figura de Jasmine
 - Material: resina
 - Colores resistentes al agua
-- Figura de Jasmine
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07MCPR8NH/?tag=tolees-21)

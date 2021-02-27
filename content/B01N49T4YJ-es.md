@@ -28,7 +28,7 @@ Tienes [M3 MEDIATRES ESTUDIO - Hana-Bi](https://www.amazon.es/dp/B01N49T4YJ/?tag
 
 🔎:
 
-- *EXTRAS* Making of (VOSE) (15 mins) SD 4:3
 - *EXTRAS* Libreto Exclusivo con textos escritos por Mike Hostench (Sub-director del Festival de Sitges)
+- *EXTRAS* Making of (VOSE) (15 mins) SD 4:3
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01N49T4YJ/?tag=tolees-21)
