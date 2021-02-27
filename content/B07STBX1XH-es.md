@@ -1,30 +1,30 @@
 ---
 layout: post
-title: 'Proyector  YABER Mini Portátil Proyector al 25.00 % de descuento'
-date: 2021-01-30 19:14:54
-image: 'https://m.media-amazon.com/images/I/41gs2sa3P2L._SL200_.jpg'
+title: 'Proyector  YABER Mini Portátil Proyector al 27.75 % de descuento'
+date: 2021-02-27 20:01:35
+image: 'https://m.media-amazon.com/images/I/41gs2sa3P2L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07STBX1XH-es Proyector YABER Mini Portátil Proyector Cine en Casa 5500...'
 sku: 'B07STBX1XH-es'
 tags: [  ]
-actualPrice: 59.99 EUR
+actualPrice: 57.79 EUR
 currency: EUR
-price: 59.99
+price: 57.79
 comparePrice: 79.99 EUR
 prodname: 'Proyector  YABER Mini Portátil Proyector Cine en Casa 5500 Lúmenes Resolución Nativa 1280*720p  Vídeo Proyector con HiFi Altavoces Incorporados  Cubierta de Metal  Soporte HDMI/USB/VGA/AV'
 country: 'es'
 flag: '🇪🇸'
 brand: 'YABER'
 buyurl: 'https://www.amazon.es/dp/B07STBX1XH/?tag=tolees-21'
-descuento: '25.00'
-average: '77.0566666666666'
+descuento: '27.75'
+average: '76.3122222222221'
 ---
 
-Está [Proyector  YABER Mini Portátil Proyector Cine en Casa 5500 Lúmenes Resolución Nativa 1280*720p  Vídeo Proyector con HiFi Altavoces Incorporados  Cubierta de Metal  Soporte HDMI/USB/VGA/AV](https://www.amazon.es/dp/B07STBX1XH/?tag=tolees-21) con 25.00 de descuento por 59.99 EUR (original: 79.99 EUR) en el siguiente enlace!
+Está [Proyector  YABER Mini Portátil Proyector Cine en Casa 5500 Lúmenes Resolución Nativa 1280*720p  Vídeo Proyector con HiFi Altavoces Incorporados  Cubierta de Metal  Soporte HDMI/USB/VGA/AV](https://www.amazon.es/dp/B07STBX1XH/?tag=tolees-21) con 27.75 de descuento por 57.79 EUR (original: 79.99 EUR) en el siguiente enlace!
 
-[![Proyector  YABER Mini Portátil Proyector](https://m.media-amazon.com/images/I/41gs2sa3P2L._SL200_.jpg)](https://www.amazon.es/dp/B07STBX1XH/?tag=tolees-21)
+[![Proyector  YABER Mini Portátil Proyector](https://m.media-amazon.com/images/I/41gs2sa3P2L._SL400_.jpg)](https://www.amazon.es/dp/B07STBX1XH/?tag=tolees-21)
 
 ℹ️:
 

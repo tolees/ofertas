@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Colegiales Niña Pablosky Azul 334120 27 con un 27.48 % de descuento'
-date: 2021-02-26 08:32:38
+date: 2021-02-27 21:19:51
 image: 'https://m.media-amazon.com/images/I/312jl7qqW8L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Pablosky'
 buyurl: 'https://www.amazon.es/dp/B07QB8JVCH/?tag=tolees-21'
 descuento: '27.48'
-average: '35.5192307692308'
+average: '35.0535714285715'
 ---
 
 En este momento está [Colegiales Niña Pablosky Azul 334120 27](https://www.amazon.es/dp/B07QB8JVCH/?tag=tolees-21) a 29.0 EUR (original: 39.99 EUR) (27.48 %  de descuento) en el siguiente enlace!
