@@ -28,9 +28,9 @@ Está [Deep Silver - Dead By Daylight](https://www.amazon.es/dp/B07SKKSQR6/?tag=
 
 ℹ️:
 
-- Los niveles procedurales y las reacciones
 - Cada nivel está generado proceduralmente, por lo que nunca sabrás que esperar
 - Cada Asesino y Superviviente tiene su propio profundo sistema de progresión y numerosos desbloqueables que pueden ser personalizados para encajar en tu estrategia personal
+- Los niveles procedurales y las reacciones
 - Dead By Daylight se inspira en los mundos de terror en cada detalle
 - Los supervivientes podrán, tanto cooperar con los otros, como ser egoístas
 

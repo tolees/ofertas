@@ -28,10 +28,10 @@ Tienes [HOMCOM Canasta de Baloncesto Plegable Altura Ajustable 165-210cm Basket 
 
 ℹ️:
 
-- ✅Material: Tubular acero revestido en polvo, PE
-- ✅Practico con 2 ruedas
-- ✅Tablero muy estable con material de PE
-- ✅Peso: 9 kg
 - ✅Tubo de acero de alta calidad revestido en polvo (Ø 42 cm)
+- ✅Material: Tubular acero revestido en polvo, PE
+- ✅Peso: 9 kg
+- ✅Tablero muy estable con material de PE
+- ✅Practico con 2 ruedas
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00SHQIMBI/?tag=tolees-21)
