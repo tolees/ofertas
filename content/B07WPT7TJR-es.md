@@ -28,9 +28,9 @@ Ahora mismo tienes [Mr. Wonderful WOA09823ES Taza  Cerámica](https://www.amazon
 
 🔎:
 
-- Capacidad de 365 ml
 - Taza mr; wonderful de cerámica, con mensaje motivacional
 - Apta para microondas y lavavajillas
 - Diseñada en barcelona con mucho amor
+- Capacidad de 365 ml
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07WPT7TJR/?tag=tolees-21)

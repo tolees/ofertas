@@ -28,8 +28,8 @@ Ahora mismo tienes [Adidas Continental 80 CF I  Zapatillas de Gimnasio  FTWR Whi
 
 🔎:
 
-- Estilo vintage
-- Empeine de piel lisa
 - Zapatillas deportivas
+- Empeine de piel lisa
+- Estilo vintage
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B082BCLPXH/?tag=tolees-21)
