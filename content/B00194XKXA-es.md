@@ -28,9 +28,9 @@ Tienes [TP-Link Adaptador wifi USB inalámbrico Compatible con Raspberry Pi  N 3
 
 🔎:
 
-- La tecnología mimo - proporciona un mayor nivel de penetración, una cobertura inalámbrica más amplia, mejor rendimiento y más estabilidad
-- Seguridad facil - encriptación sencilla de la red inalámbrica con tal sólo pulsar el botón wps
 - Excelente velocidad inalámbrica n – hasta 300mbps, la mejor experiencia de reproducción de vídeo hd en streaming o llamadas a través de internet
 - Sistema operativo - compatible con raspberry pi, windows xp / 7 / 8 / 8.1, mac os x 10.7~10.10, linux
+- Seguridad facil - encriptación sencilla de la red inalámbrica con tal sólo pulsar el botón wps
+- La tecnología mimo - proporciona un mayor nivel de penetración, una cobertura inalámbrica más amplia, mejor rendimiento y más estabilidad
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00194XKXA/?tag=tolees-21)
