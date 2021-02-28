@@ -28,10 +28,10 @@ En este momento está [Grupo Erik - ERIK - Etiquetas adhesivas escolares Glasses
 
 🔎:
 
-- Un producto perfecto para personalizar libros, cuadernos, agendas y todo lo que quieras
-- Erik - Especializados en papelería, merchandising y póster con las licencias más actuales del mercado. Calidad y diseño es lo que nos caracteriza
-- Dale color a tus cuadernos y libros con esta originales pegatinas personalizables de Harry Potter, el mejor mago de todos
 - En el interior encontrarás 16 pegatinas de 8 x 4 cm
 - Fabricado con materiales de calidad, se caracteriza por su diseño único y de tendencia, apto para cualquier superficie
+- Dale color a tus cuadernos y libros con esta originales pegatinas personalizables de Harry Potter, el mejor mago de todos
+- Erik - Especializados en papelería, merchandising y póster con las licencias más actuales del mercado. Calidad y diseño es lo que nos caracteriza
+- Un producto perfecto para personalizar libros, cuadernos, agendas y todo lo que quieras
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B086THNWG8/?tag=tolees-21)

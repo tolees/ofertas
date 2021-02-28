@@ -28,10 +28,10 @@ Está [Canadian Peak Sudadera DE Mujer GYRELLE Rosa Llamativo 02](https://www.am
 
 ℹ️:
 
-- Capucha
-- Bordados de la marca
-- Bolsillo canguro
 - Cuello con cremallera
 - Puños ajustables
+- Bordados de la marca
+- Bolsillo canguro
+- Capucha
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0831PSZMK/?tag=tolees-21)
