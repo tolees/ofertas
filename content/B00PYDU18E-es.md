@@ -28,12 +28,12 @@ En este momento está [Nike MD Runner 2  Zapatillas Hombre  Black/White Anthraci
 
 🔎:
 
+- Material interior: sintético
+- Diseño de malla para una comodidad con ventilación
+- Revestimientos de ante para mejorar la sujeción y la durabilidad
+- Zapatillas deportivas
 - Mediasuela de espuma que aporta una amortiguación ligera
 - Suela exterior de goma con diseño tipo gofre para la máxima tracción y durabilidad
-- Material interior: sintético
-- Revestimientos de ante para mejorar la sujeción y la durabilidad
-- Diseño de malla para una comodidad con ventilación
 - Adecuado para: hombre
-- Zapatillas deportivas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00PYDU18E/?tag=tolees-21)
