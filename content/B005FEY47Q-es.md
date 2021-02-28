@@ -28,10 +28,10 @@ Ahora mismo tienes [Casio Reloj de Pulsera A159WGEA-1EF](https://www.amazon.es/d
 
 🔎:
 
-- Correa de acero inoxidable
-- Función de claendario
 - Retro
+- Correa de acero inoxidable
 - Esfera retroiluminada
 - Cronómetro
+- Función de claendario
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B005FEY47Q/?tag=tolees-21)
