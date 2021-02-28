@@ -28,10 +28,10 @@ Ahora mismo tienes [Meridiem Games - Warborn](https://www.amazon.es/dp/B084CJ2FP
 
 🔎:
 
-- Command - Choose from four commanders, each representing a different faction and bringing with them their own unique power, traits and play style
-- Battle - Engage the enemy with tactical attack options inflict status effects, plant traps and support allies using unique unit skills
-- Advance - push forward and secure your supremacy on a Battlefield of hexagonal area Tiles, formed with a variety of terrain types
 - Campaign - Set during a time of War and political uncertainty, the story of warborn unfolds from the eyes of four different commanders across a story-driven campaign featuring over 40 missions.Skirmish and multiplayer - configure your own match parameters in Skirmish mode, or take the battle online to outwit rival commanders across the world in tense one-on-one matches.Map editor - feeling creative? Make your own custom maps using the built-in map editor take your custom maps into Skirmish mode to try against the computer, or play them online with friends
+- Advance - push forward and secure your supremacy on a Battlefield of hexagonal area Tiles, formed with a variety of terrain types
+- Command - Choose from four commanders, each representing a different faction and bringing with them their own unique power, traits and play style
 - Deploy - Call in reinforcements from orbit by picking from a range of mass-produced units with differing combat roles
+- Battle - Engage the enemy with tactical attack options inflict status effects, plant traps and support allies using unique unit skills
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B084CJ2FPD/?tag=tolees-21)
