@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Artesania Cerda Largo AC/DC Conjuntos de con un 44.27 % de descuento'
-date: 2021-02-26 21:24:31
+date: 2021-02-28 03:38:25
 image: 'https://m.media-amazon.com/images/I/41tVCL0-dkL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'ARTESANIA CERDA'
 buyurl: 'https://www.amazon.es/dp/B07XFLZQ28/?tag=tolees-21'
 descuento: '44.27'
-average: '24.7385714285715'
+average: '24.2712500000001'
 ---
 
 En este momento está [Artesania Cerda Largo AC/DC Conjuntos de pijama  Negro  Negro 02   L para Hombre](https://www.amazon.es/dp/B07XFLZQ28/?tag=tolees-21) a 21.0 EUR (original: 37.68 EUR) (44.27 %  de descuento) en el siguiente enlace!
