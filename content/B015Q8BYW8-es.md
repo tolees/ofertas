@@ -28,10 +28,10 @@ En este momento está [Lotus 18208/2 - Reloj para Hombre  Cuarzo  analógico  Co
 
 🔎:
 
-- cristal mineral Hardend
-- Correa de piel con hebilla de acero inoxidable clásico
-- multifunción características
-- resistencia al agua hasta 50 metros
 - acero inoxidable caja redonda
+- resistencia al agua hasta 50 metros
+- Correa de piel con hebilla de acero inoxidable clásico
+- cristal mineral Hardend
+- multifunción características
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B015Q8BYW8/?tag=tolees-21)
