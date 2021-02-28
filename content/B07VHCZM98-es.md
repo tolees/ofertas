@@ -29,9 +29,9 @@ En este momento está [Humble Bundle - Forager](https://www.amazon.es/dp/B07VHCZ
 🔎:
 
 - Crea artículos y estructuras útiles y actualiza tu equipamiento para aventurarte en 4 mazmorras distintas para enfrentarte a poderosos jefes
-- Construye y desarrolla una base de cero; compra tierra para expandir y explorar; coloca decoraciones y crea caminos para facilitar el viaje
-- La edición física vendrá con un póster exclusivo y pegatinas
 - ¡Los animales son impresionantes! Cuídalos, aliméntalos y acarícialos, ¡y te amarán para siempre!
 - Forrajea, pesca, extrae, caza, cava, cultiva, recolecta, y administra recursos; planta y cultiva todo tipo de verduras, flores, frutas y hierbas
+- Construye y desarrolla una base de cero; compra tierra para expandir y explorar; coloca decoraciones y crea caminos para facilitar el viaje
+- La edición física vendrá con un póster exclusivo y pegatinas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07VHCZM98/?tag=tolees-21)
