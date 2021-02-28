@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kingston DataTraveler 100 G3 -DT100G3/32 al 66.91 % de descuento'
-date: 2021-02-26 08:54:35
+date: 2021-02-28 09:24:30
 image: 'https://m.media-amazon.com/images/I/31bIEDW7tgL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Kingston'
 buyurl: 'https://www.amazon.es/dp/B00C5K8E1A/?tag=tolees-21'
 descuento: '66.91'
-average: '5.79022727272727'
+average: '5.79152173913044'
 ---
 
 Está [Kingston DataTraveler 100 G3 -DT100G3/32GB  USB 3.0  Flash Drive  32 GB  Negro](https://www.amazon.es/dp/B00C5K8E1A/?tag=tolees-21) con 66.91 de descuento por 5.82 EUR (original: 17.59 EUR) en el siguiente enlace!
@@ -29,8 +29,8 @@ Está [Kingston DataTraveler 100 G3 -DT100G3/32GB  USB 3.0  Flash Drive  32 GB  
 ℹ️:
 
 - Capacidad de la memoria: 32 GB
-- Un dispositivo de almacenamiento USB 3.0
-- Tipo de memoria: DDR3 SDRAM
 - Diseño elegante en negro y tapa deslizante
+- Tipo de memoria: DDR3 SDRAM
+- Un dispositivo de almacenamiento USB 3.0
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00C5K8E1A/?tag=tolees-21)

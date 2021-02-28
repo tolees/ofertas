@@ -28,10 +28,10 @@ Tienes [Merrell Nova GTX  Zapatillas para Carreras de montaña Hombre  Gris  Mon
 
 🔎:
 
-- Membrana impermeable GORE-TEX, construcción de ajuste invisible para una protección ligera y transpirable que se adapta y se siente como un zapato sin protección.
 - Almohadillas de amortiguación en el antepié y el talón.
 - Apto para veganos.
-- 5 mm profundidad de lengüeta
 - Vibram TC5+
+- Membrana impermeable GORE-TEX, construcción de ajuste invisible para una protección ligera y transpirable que se adapta y se siente como un zapato sin protección.
+- 5 mm profundidad de lengüeta
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B082N54GMD/?tag=tolees-21)

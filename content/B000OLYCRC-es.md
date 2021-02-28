@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 45.64 % en TRIXIE Cama Suave  Cobayas  30 x 22 cm  '
-date: 2021-02-27 04:00:40
+date: 2021-02-28 08:44:18
 image: 'https://m.media-amazon.com/images/I/41pI4GQSzNL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [TRIXIE Cama Suave  Cobayas  30 x 22 cm  Gris-Verde  Pequeños Mamíferos
 
 ℹ️:
 
-- nylon/imitación borreguillo
-- relleno fibra de poliéster (en una sola pieza)
 - funda poliéster
+- relleno fibra de poliéster (en una sola pieza)
 - reversible
+- nylon/imitación borreguillo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000OLYCRC/?tag=tolees-21)
