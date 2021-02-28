@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Falomir Caza Zombis  Juego de Mesa  Habi con un 50.05 % de descuento'
-date: 2021-02-27 12:33:45
+date: 2021-02-28 13:32:10
 image: 'https://m.media-amazon.com/images/I/61FyZ1wSkmL._SL400_.jpg'
 comments: true
 category: ofertas

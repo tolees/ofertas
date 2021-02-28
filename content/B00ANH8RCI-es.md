@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Walt Disney Pictures - Pinocho [Blu-ray] con un 25.02 % de descuento'
-date: 2021-02-27 07:30:12
+date: 2021-02-28 14:07:58
 image: 'https://m.media-amazon.com/images/I/51BXy8IhvJL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Walt Disney Pictures'
 buyurl: 'https://www.amazon.es/dp/B00ANH8RCI/?tag=tolees-21'
 descuento: '25.02'
-average: '11.2676470588235'
+average: '11.2382692307692'
 ---
 
 En este momento está [Walt Disney Pictures - Pinocho [Blu-ray]](https://www.amazon.es/dp/B00ANH8RCI/?tag=tolees-21) a 9.74 EUR (original: 12.99 EUR) (25.02 %  de descuento) en el siguiente enlace!

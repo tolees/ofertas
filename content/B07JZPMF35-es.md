@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.00 % en Adidas N-5923 J Zapatillas de Gimnasia U'
-date: 2021-02-26 13:06:57
+date: 2021-02-28 14:10:16
 image: 'https://m.media-amazon.com/images/I/41TODmqiuEL._SL400_.jpg'
 comments: true
 category: ofertas

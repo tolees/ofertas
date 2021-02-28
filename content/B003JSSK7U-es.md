@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Alicia en el País de las Maravillas  Edi al 49.90 % de descuento'
-date: 2021-02-26 19:25:13
+date: 2021-02-28 14:14:43
 image: 'https://m.media-amazon.com/images/I/51J6Fwk9i2L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B003JSSK7U/?tag=tolees-21'
 descuento: '49.90'
-average: '8.42625'
+average: '8.32222222222223'
 ---
 
 Ahora mismo tienes [Alicia en el País de las Maravillas  Edición Especial  [DVD]](https://www.amazon.es/dp/B003JSSK7U/?tag=tolees-21) a 7.49 EUR (original: 14.95 EUR) (49.90 %  de descuento) en el siguiente enlace!

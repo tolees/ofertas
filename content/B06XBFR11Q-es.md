@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Compo Cuidado de Las Plantas de Interior al 50.98 % de descuento'
-date: 2021-02-27 11:04:43
+date: 2021-02-28 14:43:55
 image: 'https://m.media-amazon.com/images/I/41VBJso8u4L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Compo'
 buyurl: 'https://www.amazon.es/dp/B06XBFR11Q/?tag=tolees-21'
 descuento: '50.98'
-average: '4.475'
+average: '3.98333333333333'
 ---
 
 Está [Compo Cuidado de Las Plantas de Interior y de terraza Hierro líquido 500 ml](https://www.amazon.es/dp/B06XBFR11Q/?tag=tolees-21) con 50.98 de descuento por 3.0 EUR (original: 6.12 EUR) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [Compo Cuidado de Las Plantas de Interior y de terraza Hierro líquido 500
 
 ℹ️:
 
-- Solución de fertilizante basado en quelato de hierro (EDTA)
-- Especialmente formulado para aportar la dosis de hierro que necesitan las plantas
 - Solución de quelato de hierro de alta calidad y de eficacia inmediata
+- Solución de fertilizante basado en quelato de hierro (EDTA)
 - Marca: Compo
+- Especialmente formulado para aportar la dosis de hierro que necesitan las plantas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06XBFR11Q/?tag=tolees-21)
