@@ -28,10 +28,10 @@ Ahora mismo tienes [Scuderia Ferrari Reloj de Pulsera 830589](https://www.amazon
 
 🔎:
 
-- 5 ATM de resistencia al agua
-- Movimiento multifunción
-- Esfera negro
-- Pulsera de acero inoxidable
 - Grosor de la caja de 11,17mm
+- 5 ATM de resistencia al agua
+- Esfera negro
+- Movimiento multifunción
+- Pulsera de acero inoxidable
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07KTQDFRD/?tag=tolees-21)
