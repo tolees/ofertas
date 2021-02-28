@@ -28,9 +28,9 @@ En este momento está [San Ignacio Set 4 Cuchillos de Cocina COLECCIÓN Toledo  
 
 🔎:
 
-- Fabricados en acero inoxidable, disponen de un mango ergonómico termoplástico con pasadores, lo que le confiere seguridad, fácil idad en el agarre, y un equilibrio perfecto
 - De la colección toledo de san ignacio
 - Una colección de 4 fantásticos cuchillos de cocina, de amplia superficie y versátil filo
 - Se compone de: cuchillo chef, de 20 cm de filo; cuchillo deshuesadora de 13, 75 cm; cuchillo multiusos de 12, 5 cm; y cuchillo pelador de 7, 5 cm
+- Fabricados en acero inoxidable, disponen de un mango ergonómico termoplástico con pasadores, lo que le confiere seguridad, fácil idad en el agarre, y un equilibrio perfecto
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07SJGYD33/?tag=tolees-21)

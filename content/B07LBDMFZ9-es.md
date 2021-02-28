@@ -29,8 +29,8 @@ Tienes [JACK & JONES Jaclee Trunks 5 Pack Bóxer  Azul  Surft The Web/Estate Blu
 🔎:
 
 - Paquete Triple
+- Pretina Ancha
 - Conjunto De Calzoncillos Boxer
 - Estiramiento
-- Pretina Ancha
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07LBDMFZ9/?tag=tolees-21)
