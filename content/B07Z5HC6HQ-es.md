@@ -28,7 +28,7 @@ Está [Salomon XA COLLIDER GTX W  Zapatillas de Trail Running Mujer  Gris  Lunar
 
 ℹ️:
 
-- Número: 36
 - Xa collider GTX W Lunar Rock/Brick Dust/Alloy
+- Número: 36
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07Z5HC6HQ/?tag=tolees-21)

@@ -28,13 +28,13 @@ Ahora mismo tienes [Tommy Hilfiger - Tommy Jeans Mujer Tjw Chest Logo Windbreake
 
 🔎:
 
-- Puños elásticos
-- Dos bolsillos delanteros con cremallera
-- Puro nailon
-- Parche con el logo de Tommy Jeans en el pecho
-- Capucha fija
 - Cierre de cremallera
+- Capucha fija
 - Corte regular
 - Detalles distintivos de Tommy Jeans
+- Dos bolsillos delanteros con cremallera
+- Parche con el logo de Tommy Jeans en el pecho
+- Puro nailon
+- Puños elásticos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VYVC7DD/?tag=tolees-21)

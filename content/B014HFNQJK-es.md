@@ -28,11 +28,11 @@ Tienes [Einhell Expert 4257191 Set de herramientas TE-TK 12 Li  12 V  2 batería
 
 🔎:
 
-- Incluye 2 baterías de iones de litio de alta potencia
+- Lámpara LED a batería con 7 lámparas LED extra intensas
 - Incluye accesorios: punteras, hoja de sierra, rascador, placa de lijado, bolsillo
 - Carcasa esbelta para buena manipulación
 - Atornillador de batería con cambio de cabeza rápido
-- Lámpara LED a batería con 7 lámparas LED extra intensas
 - Bloqueo automático del husillo y parada rápida
+- Incluye 2 baterías de iones de litio de alta potencia
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B014HFNQJK/?tag=tolees-21)

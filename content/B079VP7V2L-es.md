@@ -28,8 +28,8 @@ Ahora mismo tienes [Tommy Hilfiger Core Tommy Slim Polo  Azul  Sky Captain 403  
 
 🔎:
 
-- Tapeta de tres botones
 - Cinta distintiva en el interior del cuello
+- Tapeta de tres botones
 - Logo de Tommy Hilfiger bordado en el pecho
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B079VP7V2L/?tag=tolees-21)

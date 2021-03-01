@@ -29,10 +29,10 @@ Tienes [Swiffer - Recambios secos Mopa  120 unidades](https://www.amazon.es/dp/B
 🔎:
 
 - El cabezal giratorio 360º permite limpiar incluso los lugares más difíciles, como debajo de la cama o del sofa
-- Idóneo para atrapar el pelo de las mascotas
-- Pack de 120 recambios secos para mopa Swiffer
 - Atrapan y retienen hasta 3 veces más polvo, suciedad y pelo que una escoba tradicional
-- Para todo tipo de suelos, incluso madera
+- Pack de 120 recambios secos para mopa Swiffer
 - Idóneos para complementar con los recambios húmedos"
+- Idóneo para atrapar el pelo de las mascotas
+- Para todo tipo de suelos, incluso madera
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07639RBVJ/?tag=tolees-21)

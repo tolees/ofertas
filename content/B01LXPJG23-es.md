@@ -28,10 +28,10 @@ En este momento está [tado° Cabezal Termostático Inteligente de - Accesorio p
 
 🔎:
 
-- Adicional a los Kits de Inicio de tado°: agrega Cabezales Termostáticos Inteligentes a tu casa para controlar radiadores y habitaciones independientemente
 - Kit de Inicio (V2, V3, V3+) de tado° con Bridge de Internet conforman tu configuración base
-- Es compatible con todos los radiadores con válvulas termostáticas; simplemente reemplaza el cabezal tradicional - no necesita herramientas
 - La caja contiene: Cabezal Termostático Inteligente, adaptadores varios, 2 pilas AA
+- Adicional a los Kits de Inicio de tado°: agrega Cabezales Termostáticos Inteligentes a tu casa para controlar radiadores y habitaciones independientemente
+- Es compatible con todos los radiadores con válvulas termostáticas; simplemente reemplaza el cabezal tradicional - no necesita herramientas
 - Actualiza a control de habitaciones múltiples y maximiza tu confort y ahorro energético; administra todas las zonas y ajustes desde la app de tado°
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01LXPJG23/?tag=tolees-21)

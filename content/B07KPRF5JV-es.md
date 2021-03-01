@@ -28,10 +28,10 @@ Tienes [Funko - Pop! Rides: Batman 80th: Batman  1950 ](https://www.amazon.es/dp
 
 ℹ️:
 
-- Funko pop rides
+- Juguete del año 2018
+- De la colección batman, batman (1950) como figura pop rides de funko
 - Batman (1950)
 - Heroes: batman 80th
-- De la colección batman, batman (1950) como figura pop rides de funko
-- Juguete del año 2018
+- Funko pop rides
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07KPRF5JV/?tag=tolees-21)

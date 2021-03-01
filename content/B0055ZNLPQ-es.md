@@ -28,10 +28,10 @@ Tienes [Desconocido - Haverland RC8TT | Emisor Térmico Fluido Programable | 100
 
 ℹ️:
 
-- MULTIFUNCIÓN: Este radiador dispone de una función exclusiva indicando el consumo de energía (KW), lo que te permitirá controlar tu consumo. Además, podrás seleccionar entre 3 modos de temperatura: Confort / Economía / Antihielo.
+- EN TOTAL SEGURIDAD Y FACILIDAD: el emisor RCTT dispone de un sistema de bloqueo automático del teclado y un limitador térmico para un uso en total seguridad. El aparato no solo es fácil de utilizar sino también de instalar gracias a su kit completo de instalación y accesorios. Garantía Haverland de 2 años.
 - TOTALMENTE PROGRAMMABLE: Con su programación 24h/ 7, el emisor térmico es totalmente configurable según tus necesidades. Incluye también hasta 7 programas preconfigurados que podrás seleccionar, los cuales están pensados para cualquier estancia de tu casa.
 - EFICIENTE: Emisor térmico a fluido de alta inercia térmica con elementos curvos de aluminio de inyección y un termostato digital de alta precisión (+/- 0,2ºC). Haverland RCM es excelente conductor térmico con el cual mantendrás tu casa a una temperatura agradable, homogénea y constante, al tiempo que ahorras energía gracias a su innovador diseño y tecnología de bajo consumo.
-- EN TOTAL SEGURIDAD Y FACILIDAD: el emisor RCTT dispone de un sistema de bloqueo automático del teclado y un limitador térmico para un uso en total seguridad. El aparato no solo es fácil de utilizar sino también de instalar gracias a su kit completo de instalación y accesorios. Garantía Haverland de 2 años.
 - HAVERLAND RC8TT: El modelo RC8TT (1000 W), el cual se compone de 8 elementos calefactores, es ideal para un uso medio de 1-6 horas al día y para las estancias de +/- 11-15 m².
+- MULTIFUNCIÓN: Este radiador dispone de una función exclusiva indicando el consumo de energía (KW), lo que te permitirá controlar tu consumo. Además, podrás seleccionar entre 3 modos de temperatura: Confort / Economía / Antihielo.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0055ZNLPQ/?tag=tolees-21)

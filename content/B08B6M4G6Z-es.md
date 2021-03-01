@@ -28,9 +28,9 @@ Está [Nestlé Naturnes Bio Pure Brócoli Guisantes Pavo Para Bebés Desde 6 Me
 
 ℹ️:
 
-- Elaborado con ingredientes 100% naturales
-- Sin colorantes, ni conservantes, ni aromas artificiales
 - Para bebés a partir de los seis meses
 - Puré de brócoli y guisantes con pavo para bebés
+- Elaborado con ingredientes 100% naturales
+- Sin colorantes, ni conservantes, ni aromas artificiales
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08B6M4G6Z/?tag=tolees-21)
