@@ -28,9 +28,9 @@ Ahora mismo tienes [Mr. Wonderful Llavero Squishy  5 X 21 X 3.1 Cm  Multicolor](
 
 🔎:
 
+- Cuidados e indicaciones: no exponer largo tiempo al sol para que los colores no pierdan intensidad; mantener alejado de objetos punzantes
+- Producto oficial mr; wonderful
 - Materiales: pu
 - Peso: 34 gr medidas 8, 5 x 21 x 3, 1 cm
-- Producto oficial mr; wonderful
-- Cuidados e indicaciones: no exponer largo tiempo al sol para que los colores no pierdan intensidad; mantener alejado de objetos punzantes
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07K7VLJPZ/?tag=tolees-21)

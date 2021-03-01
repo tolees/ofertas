@@ -29,9 +29,9 @@ Ahora mismo tienes [Toy Story Figura Articulada Woody con voz 40 cm  BIZAK 61234
 🔎:
 
 - No recomendado para niños menores de 4 años
-- ¡Dice 15 frases distintas de la película!
-- Altura de 40 cm
 - Woody articulado
+- ¡Dice 15 frases distintas de la película!
 - Habla en español
+- Altura de 40 cm
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07RNS7KRD/?tag=tolees-21)

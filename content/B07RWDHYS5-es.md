@@ -28,10 +28,10 @@ Tienes [Mr. Wonderful Set de Escritura para arrasar a tu Ritmo y con  Multicolor
 
 ℹ️:
 
-- Diseñado con amor en Barcelona
 - Medidas con pack: 14,5 x 21,5 x 3 cm
 - Medidas del producto: 13,8 x 1 cm
-- Materiales: Metal para los elementos de escritura, PU para el estuche y cartón y PVC para el packaging.
+- Diseñado con amor en Barcelona
 - Peso: 233 gr
+- Materiales: Metal para los elementos de escritura, PU para el estuche y cartón y PVC para el packaging.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07RWDHYS5/?tag=tolees-21)
