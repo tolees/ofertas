@@ -28,9 +28,9 @@ En este momento está [TruffleShuffle Taza con color cambiante al calor con mode
 
 🔎:
 
-- Harry Potter Taza Expecto Patronum
-- Taza que cambia el color en contacto con líquidos calientes
 - Color negro
+- Taza que cambia el color en contacto con líquidos calientes
+- Harry Potter Taza Expecto Patronum
 - Capacidad: 400 ml
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01LY8TZQW/?tag=tolees-21)

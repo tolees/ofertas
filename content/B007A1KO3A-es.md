@@ -29,10 +29,10 @@ En este momento está [Samyang F1110808101 - Objetivo fotográfico DSLR para Sam
 🔎:
 
 - Compatible con filtros de 77mm
-- Con revestimiento UMC anti-reflectante
 - Gran angular para cámaras con sensor Full Frame o APS-C
 - Enfoque manual
-- Incluye parasol extraíble
 - Montura para Samsung NX
+- Con revestimiento UMC anti-reflectante
+- Incluye parasol extraíble
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B007A1KO3A/?tag=tolees-21)

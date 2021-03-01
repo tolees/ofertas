@@ -29,9 +29,9 @@ En este momento está [Kärcher K2 Full Control - Hidrolimpiadora de alta presi�
 🔎:
 
 - Asa telescópica y ruedas para ayudan en su almacenamiento y transporte
-- Dispositivo tubular para aspirar detergente
 - Lanza pulverizadora Full Control Click Vario Power y boquilla turbo con regulación de la presión girando la lanza
-- Hidrolimpiadora refrigerada por aire, 20-110 bares de presión, 2-11 Mpa, 360 l/H de caudal de agua
 - Las sujeciones para la pistola de alta presión y el cable hace que siempre esté lista para ser utilizada
+- Dispositivo tubular para aspirar detergente
+- Hidrolimpiadora refrigerada por aire, 20-110 bares de presión, 2-11 Mpa, 360 l/H de caudal de agua
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01MU3CFHP/?tag=tolees-21)

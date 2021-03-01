@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'POP! Funkoverse: Battle in the Wizarding al 44.03 % de descuento'
-date: 2021-02-23 15:50:55
+date: 2021-03-01 07:45:47
 image: 'https://m.media-amazon.com/images/I/51kk0xdP+BL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Funko'
 buyurl: 'https://www.amazon.es/dp/B07V6TH6JF/?tag=tolees-21'
 descuento: '44.03'
-average: '31.971'
+average: '31.9203658536585'
 ---
 
 Está [POP! Funkoverse: Battle in the Wizarding World - Harry Potter](https://www.amazon.es/dp/B07V6TH6JF/?tag=tolees-21) con 44.03 de descuento por 24.9 EUR (original: 44.49 EUR) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [POP! Funkoverse: Battle in the Wizarding World - Harry Potter](https://ww
 
 ℹ️:
 
-- Recomendado para niños a partir de 10 años
 - Contiene cuatro figuras de vinilo coleccionables
 - El artículo es adecuado para todos los fanáticos de Harry Potter
 - Juego de estrategia de la marca Funko
+- Recomendado para niños a partir de 10 años
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07V6TH6JF/?tag=tolees-21)
