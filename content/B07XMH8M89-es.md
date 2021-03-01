@@ -28,9 +28,9 @@ Tienes [Tesura Games - Coffee Crisis - Special Edition](https://www.amazon.es/dp
 
 🔎:
 
+- ¡Echa a puñetazos a los alienígenas en este Neo Rogue Brawler
 - ¡Disfruta de la aventura con un amigo gracias a su Cooperativo Local
 - ¡Menea tu cabeza con esta increíble banda sonora llena de heavy metal
-- ¡Echa a puñetazos a los alienígenas en este Neo Rogue Brawler
 - ¡Encuentra modificadores aleatorios que podrían convertirte en una máquina de matar invencible o invocar un enjambre de furiosas vaqueras poseídas. ¡Nunca experimentarás la misma taza de masacre de café cósmico dos veces
 - Coffee crisis: special edition incluye juego, manual de instruciones, joystick grips personalizados, pin alienígena y banda sonora física
 

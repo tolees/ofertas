@@ -28,9 +28,9 @@ Tienes [LACTACYD Gel de Higiene Íntima Pediátrico para Niñas a Partir de 3 A�
 
 🔎:
 
-- Sin jabón y sin alcohol
-- Para niñas a partir de 3 años
-- Con activos de acción calmante e hidratante
 - Con aloe vera & extracto de melocotón
+- Con activos de acción calmante e hidratante
+- Para niñas a partir de 3 años
+- Sin jabón y sin alcohol
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07B4BC24K/?tag=tolees-21)
