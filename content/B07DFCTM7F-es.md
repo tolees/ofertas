@@ -28,8 +28,8 @@ Ahora mismo tienes [Key chain - Funko 32784 Pocket POP Keychain: Overwatch: Wins
 
 🔎:
 
+- El producto se vende en la caja original con ventana frontal.
 - Las reproducciones miden aproximadamente 4 cm.
 - Los Funko Pop son reproducciones estilizadas de personajes icónicos de películas, series de televisión, series animadas, cómics, videojuegos y mucho más.
-- El producto se vende en la caja original con ventana frontal.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07DFCTM7F/?tag=tolees-21)

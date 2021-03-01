@@ -28,8 +28,8 @@ Tienes [Joma Academy Chandal Caballero  Niños  Rojo/Marino  5XS](https://www.am
 
 ℹ️:
 
+- Chándales
 - Resto textil
 - Academy rojo-marino
-- Chándales
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07FKQJY5R/?tag=tolees-21)

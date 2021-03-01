@@ -29,9 +29,9 @@ Tienes [Rankie Cable DisplayPort DP a HDMI  4K Resolución  1 8 m  Negro](https:
 ℹ️:
 
 - Conectores enchapados en oro, conductores de cobre desnudo, y la hoja y trenza de blindaje se combinan entre sí para proporcionar tanto el rendimiento del cable superior y conectividad confiable
-- Soporta resoluciones de vídeo de hasta 4K x 2K y de audio impecable pass-thru para comprimir digitales 7.1, 5.1 ó 2 canales
 - Conexión de PC compatibles puerto DisplayPort a un HDTV, monitor o proyector con puerto HDMI
-- Transmite audio de alta definición y vídeo desde el ordenador a una televisión de alta definición para el streaming de vídeo o juegos de azar; Conectar y configurar su monitor para un escritorio extendido o Muestra Mirrored
+- Soporta resoluciones de vídeo de hasta 4K x 2K y de audio impecable pass-thru para comprimir digitales 7.1, 5.1 ó 2 canales
 - Conector DisplayPort con pestillos proporciona una conexión segura con un botón de liberación que debe ser presionado antes de desenchufar
+- Transmite audio de alta definición y vídeo desde el ordenador a una televisión de alta definición para el streaming de vídeo o juegos de azar; Conectar y configurar su monitor para un escritorio extendido o Muestra Mirrored
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00Z05JMKO/?tag=tolees-21)

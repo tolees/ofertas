@@ -28,9 +28,9 @@ En este momento está [Rimmel London - Rimmel Stay Matte Polvos compacto - 003 P
 
 🔎:
 
-- Hasta 5 horas de control de brillo natural con minerales naturales
-- Adecuado para el retoque durante el día
 - Ayuda a minimizar la apariencia de los poros
+- Adecuado para el retoque durante el día
+- Hasta 5 horas de control de brillo natural con minerales naturales
 - Libre de fragancia, aceites, parabenos y talco, no obstruirá los poros y es óptimo para todo tipo de piel
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B004M9SJ3K/?tag=tolees-21)
