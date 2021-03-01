@@ -28,10 +28,10 @@ Ahora mismo tienes [Crocs  Crocband Unisex adulto  Blanco White 01  36/37 EU](ht
 
 🔎:
 
+- Altura del tacón: 1.5 pulgadas
+- Material de la suela: Goma
+- Material exterior: Espuma
 - Revestimiento: Sintético
 - Cierre: Sin cordones
-- Material exterior: Espuma
-- Material de la suela: Goma
-- Altura del tacón: 1.5 pulgadas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B002JCSSTM/?tag=tolees-21)

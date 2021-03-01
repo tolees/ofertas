@@ -29,9 +29,9 @@ Está [Beurer HR6000 Cortabarbas con-sin cable para cuerpo  barba y cara Body Gr
 ℹ️:
 
 - Cuchilla de afeitar flexible de acero inoxidable de doble cara para cuerpo, barba y cara
-- Incluye funda, tapa protectora de la cuchilla y cepillo de limpieza
-- Función de carga rápida integrada. Autonomía 60min (batería de litio); tiempo de carga 60min
 - Con accesorio giratorio para 13 longitudes de corte diferentes; pantalla LED
 - Totalmente lavable bajo el agua IPX6
+- Función de carga rápida integrada. Autonomía 60min (batería de litio); tiempo de carga 60min
+- Incluye funda, tapa protectora de la cuchilla y cepillo de limpieza
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B089X7RLF6/?tag=tolees-21)

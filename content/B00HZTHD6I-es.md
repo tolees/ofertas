@@ -28,10 +28,10 @@ Está [SOTYA - SOTYA Magnesio 100 comprimidos 800mg](https://www.amazon.es/dp/B0
 
 ℹ️:
 
-- Ayuda a que el calcio se deposite en los huesos
-- Mejora la creación de proteínas y su absorción
 - Oligoelemento necesario para el funcionamiento óptimo de los impulsos nerviosos
+- Mejora la creación de proteínas y su absorción
 - Disminuye el cansancio
+- Ayuda a que el calcio se deposite en los huesos
 - De la marca Sotya
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00HZTHD6I/?tag=tolees-21)
