@@ -28,7 +28,7 @@ Ahora mismo tienes [Badland - Sine Mora EX](https://www.amazon.es/dp/B071LNL7KG/
 
 🔎:
 
-- Grafica, boss-fight e musiche epiche
 - Classico sparatutto e scorrimento interpretato in chiave moderna
+- Grafica, boss-fight e musiche epiche
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B071LNL7KG/?tag=tolees-21)

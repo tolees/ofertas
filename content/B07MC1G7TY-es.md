@@ -28,13 +28,13 @@ Ahora mismo tienes [AUDIO-TECHNICA ATH-SR50BT - Auriculares Inalámbricos Color 
 
 🔎:
 
-- Respuesta de frecuencia de 5 a 40,000hz
-- 28 horas de duración de la batería con una sola carga
 - Sensibilidad 100 db / mw
-- Los controles táctiles le permiten administrar música y llamadas con solo deslizar
+- Respuesta de frecuencia de 5 a 40,000hz
 - Active la función de escucha rápida con un toque
-- Elimine el ruido no deseado en el modo de reducción de ruido
-- Bluetooth versión 5.0
 - 45 mm de diámetro del conductor
+- Bluetooth versión 5.0
+- Los controles táctiles le permiten administrar música y llamadas con solo deslizar
+- Elimine el ruido no deseado en el modo de reducción de ruido
+- 28 horas de duración de la batería con una sola carga
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07MC1G7TY/?tag=tolees-21)
