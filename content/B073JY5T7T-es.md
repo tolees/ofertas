@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'SanDisk Ultra Tarjeta de memoria microSD al 46.30 % de descuento'
-date: 2021-02-26 13:40:00
+title: 'SanDisk Ultra Tarjeta de memoria microSD al 28.23 % de descuento'
+date: 2021-03-01 06:30:37
 image: 'https://m.media-amazon.com/images/I/51R6+cJSVDL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,30 +9,30 @@ author: ring
 slug: 'B073JY5T7T-es SanDisk Ultra Tarjeta de memoria microSDXC con adaptador...'
 sku: 'B073JY5T7T-es'
 tags: [  ]
-actualPrice: 28.99 EUR
+actualPrice: 38.75 EUR
 currency: EUR
-price: 28.99
+price: 38.75
 comparePrice: 53.99 EUR
 prodname: 'SanDisk Ultra Tarjeta de memoria microSDXC con adaptador SD  hasta 100 MB/s  rendimiento de apps A1  Clase 10  U1  200 GB'
 country: 'es'
 flag: '🇪🇸'
 brand: 'SanDisk'
 buyurl: 'https://www.amazon.es/dp/B073JY5T7T/?tag=tolees-21'
-descuento: '46.30'
-average: '33.6669642857142'
+descuento: '28.23'
+average: '33.8422413793103'
 ---
 
-Ahora mismo tienes [SanDisk Ultra Tarjeta de memoria microSDXC con adaptador SD  hasta 100 MB/s  rendimiento de apps A1  Clase 10  U1  200 GB](https://www.amazon.es/dp/B073JY5T7T/?tag=tolees-21) a 28.99 EUR (original: 53.99 EUR) (46.30 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [SanDisk Ultra Tarjeta de memoria microSDXC con adaptador SD  hasta 100 MB/s  rendimiento de apps A1  Clase 10  U1  200 GB](https://www.amazon.es/dp/B073JY5T7T/?tag=tolees-21) a 38.75 EUR (original: 53.99 EUR) (28.23 %  de descuento) en el siguiente enlace!
 
 [![SanDisk Ultra Tarjeta de memoria microSD](https://m.media-amazon.com/images/I/51R6+cJSVDL._SL400_.jpg)](https://www.amazon.es/dp/B073JY5T7T/?tag=tolees-21)
 
 🔎:
 
-- Up to 512 GB capacity
-- Load apps faster with A1 performance class. Operating temperature : -25ºC to 85ºC, storage temperature: -40ºC to 85ºC
-- Up to 100 MB/s transfer speeds
-- This product has been certified to meet Googles compatibility standards; Chromebook and the Works With Chromebook badge are trademarks of Google LLC
-- Compatibility - Compatible with microSDHC and microSDXC supporting host devices
-- UHS speed class U1 and speed class 10 for Full HD video recording and playback
+- La tarjeta microSD SanDisk Ultra, con clasificación A1, se perfeccionó para las aplicaciones: brinda un inicio más rápido y mejor rendimiento, lo que se traduce en una mejor experiencia de teléfono inteligente
+- Incluye la nueva categoría A1: para un rendimiento más rápido de las aplicaciones
+- Clase 10 para la grabación y reproducción de vídeos en calidad Full HD
+- Velocidades de transferencia de hasta 100 MB/S. Para los modelo de 16 GB a 512 GB] Hasta 100 MB/s de velocidad de lectura
+- Compatible con los dispositivos host que admiten microSDHC y microSDXC
+- Recomendado para smartphones y tabletas con sistema operativo Android y cámaras MIL
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B073JY5T7T/?tag=tolees-21)
