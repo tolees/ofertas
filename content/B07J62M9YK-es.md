@@ -29,8 +29,8 @@ Tienes [Funko - Pop! Bobble: Star Wars - Darth Vader Electronic Figura Coleccion
 🔎:
 
 - Presentada en una caja con ventana
-- Figura Darth Vader Electrónico de Star Wars
 - Con una medida de 9.5 cm
+- Figura Darth Vader Electrónico de Star Wars
 - Con luces y sonidos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07J62M9YK/?tag=tolees-21)
