@@ -28,12 +28,12 @@ En este momento está [Audio-Technica ANC500BT - Auriculares Inalámbricos Color
 
 🔎:
 
-- Tecnología activa de cancelación de ruido
-- Diseño ligero y giratorio
 - Controladores de 40 mm
-- Tecnología bluetooth
 - Auriculares inalámbricos con cancelación de ruido
-- 20 horas de duración de la batería
+- Tecnología activa de cancelación de ruido
 - Micrófono y controles integrados en el auricular
+- Diseño ligero y giratorio
+- 20 horas de duración de la batería
+- Tecnología bluetooth
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07N3XXWC3/?tag=tolees-21)

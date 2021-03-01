@@ -28,10 +28,10 @@ Ahora mismo tienes [Kilponen Luz Solar Exterior 【4 Paquete - 180 °Iluminació
 
 🔎:
 
-- 🔥【Fácil instalación】Es fácil fijar las lámparas solares firmemente en la pared soleada con los tornillos proporcionados. La altura de instalación ideal es de unos 2 a 3 metros.
+- 🔥【3 Modos de Iluminación Inteligentes】La luz solar con sensor de movimiento viene con 3 modos inteligentes: mode Modo de luz intensa prolongada ② Modo de sensor de luz baja ③ Modo de sensor de luz intensa. Simplemente presione el botón, puede elegir el modo según sus necesidades.El sensor de movimiento PIR actualizado detecta personas tan lejanas como 10-16 pies.
 - 🔥【Luz Solar Ultra-Brillante y Duradera】La luz solar exterior está hecha de equipos de alta calidad, 80 led-4 Pack lámparas solares son prácticos, sólidos y duraderos, gran angular de Iluminación es 180º, lo que ofrece una iluminación excelente y convierte un espacio oscuro en una zona bien iluminada. Tiene una pantlla protectora que cubre el LED, con un buen diseño para alargar su vida útil.
 - 🔥【Impermeable IP65 y Resistente al Calor】La luz solar es impermeable a IP65, resistente al calor y a la lluvia. Hecho de ABS de alta calidad estas luces son resistentes al calor; puede soportar todo tipo de condiciones climáticas severas,incluso en días de lluvia,también puede proporcionar brillo, comodidad y seguridad a su garaje, patio, sendero, piscina, etc.
-- 🔥【3 Modos de Iluminación Inteligentes】La luz solar con sensor de movimiento viene con 3 modos inteligentes: mode Modo de luz intensa prolongada ② Modo de sensor de luz baja ③ Modo de sensor de luz intensa. Simplemente presione el botón, puede elegir el modo según sus necesidades.El sensor de movimiento PIR actualizado detecta personas tan lejanas como 10-16 pies.
+- 🔥【Fácil instalación】Es fácil fijar las lámparas solares firmemente en la pared soleada con los tornillos proporcionados. La altura de instalación ideal es de unos 2 a 3 metros.
 - 🔥【Luz solar en Energía Eficiencia 2000 mAh】 Nuestras luces LED resistentes a la intemperie cuentan con un panel solar de silicio y una batería recargable de iones de litio de 2000 mAh que se recarga con energía solar de manera eficiente. Mayor eficiencia solar hasta un 20% a través del silicio monocristalino, una carga solar más rápida en la luz solar directa.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0872CZJPW/?tag=tolees-21)
