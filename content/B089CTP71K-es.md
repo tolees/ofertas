@@ -29,9 +29,9 @@ Está [eXtremeRate - Juego completo de pegatinas para placas frontales y 2 prote
 ℹ️:
 
 - Fina y resistente, protege de pequeños arañazos. Instalación fácil y sin burbujas y extracción sin burbujas.
+- Diseño personalizado para Nintendo Switch Console y controlador
 - Cubre todo el muelle (la parte superior, los lados, la parte delantera y la parte trasera), cubre la parte posterior de la consola, incluye un juego de pieles Joy-con, un juego de protectores de pantalla.
 - Compromiso de calidad: estas pegatinas de piel no pueden causar daños en la superficie o pelado.
 - Marca registrada en los Estados Unidos y de alta calidad. Visita nuestra tienda, hay algunas otras pieles personalizadas que te pueden gustar
-- Diseño personalizado para Nintendo Switch Console y controlador
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B089CTP71K/?tag=tolees-21)

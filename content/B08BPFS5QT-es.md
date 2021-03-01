@@ -28,10 +28,10 @@ Tienes [MSI Creator 15 A10SGS-062ES - Ordenador portátil de 15.6" UHD  Intel Co
 
 ℹ️:
 
-- Sistema operativo Windows10 Pro
 - Disco de 2 TB NVMe PCIe Gen3x4 SSD
+- Procesador Comet lake i7-10875H+HM470 (8 núcleos, 16 MB Cache, 2.3 GHz hasta 5.1 GHz)
+- Sistema operativo Windows10 Pro
 - Memoria RAM de 32 GB x 2 (2666 MHz)
 - Tarjeta grafica GeForce RTX 2080 Super MAX Q, GDDR6 8 GB
-- Procesador Comet lake i7-10875H+HM470 (8 núcleos, 16 MB Cache, 2.3 GHz hasta 5.1 GHz)
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08BPFS5QT/?tag=tolees-21)

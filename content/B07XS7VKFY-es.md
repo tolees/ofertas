@@ -28,15 +28,15 @@ Ahora mismo tienes [Apple Watch Series 5  GPS + Cellular  44 mm  Acero Inoxida
 
 🔎:
 
-- Detección de caídas
 - Sensores eléctricos y ópticos de frecuencia cardiaca
-- Brújula integrada
-- App ecg
-- Pantalla retina siempre activa
-- Apto para nadar
-- GPS + Cellular (Operadores compatibles: Orange, Telefonica, Vodafone)
+- Detección de caídas
 - Pantalla un 30% más grande
+- GPS + Cellular (Operadores compatibles: Orange, Telefonica, Vodafone)
+- Pantalla retina siempre activa
 - Emergencia sos con llamadas nacionales e internacionales
+- Brújula integrada
+- Apto para nadar
 - Altitud
+- App ecg
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07XS7VKFY/?tag=tolees-21)
