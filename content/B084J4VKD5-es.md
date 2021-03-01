@@ -28,12 +28,12 @@ Tienes [Samsung Galaxy S20+ 5G - Smartphone 6.7" Dynamic AMOLED  12GB RAM  128GB
 
 ℹ️:
 
-- SIM híbrida (SIM ó mSD) eSIM IP 68 Samsung Pay
 - Sensor ultrasónico de huella dactilar en pantalla reconocimiento facial Samsung Knox
-- Smartphone libre con el sistema operativo Android V10 pre-instalado
 - La batería de Galaxy S20+ 5G contiene 4 500 mAh para que puedas funcionar durante todo el día carga inalámbrica (12W) Power Sharing carga ultra rápida (25W)
-- Pantalla Infinity-O Dynamic AMOLED de 120Hz y 6 7" WQHD+ experimenta cada momento con una claridad total y de extremo a extremo
-- Teleobjetivo de 64 MP cámara frontal de 10 MP cámara gran angular de 12MP y un gran zoom espacial de 30x captura el mundo que te rodea como nunca antes
 - 12 GB de RAM procesador Exynos 990 y capacidad de 1 1 TB de almacenamiento poder para días auténticamente épicos
+- Teleobjetivo de 64 MP cámara frontal de 10 MP cámara gran angular de 12MP y un gran zoom espacial de 30x captura el mundo que te rodea como nunca antes
+- Pantalla Infinity-O Dynamic AMOLED de 120Hz y 6 7" WQHD+ experimenta cada momento con una claridad total y de extremo a extremo
+- Smartphone libre con el sistema operativo Android V10 pre-instalado
+- SIM híbrida (SIM ó mSD) eSIM IP 68 Samsung Pay
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B084J4VKD5/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Salomon XA Pro 3D CSWP Zapatillas Imperm al 30.02 % de descuento'
-date: 2021-02-28 14:15:05
+date: 2021-03-01 19:37:00
 image: 'https://m.media-amazon.com/images/I/41rCFIguvzL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SALOMON'
 buyurl: 'https://www.amazon.es/dp/B07RFNFVX6/?tag=tolees-21'
 descuento: '30.02'
-average: '78.5932812499999'
+average: '77.8019696969696'
 ---
 
 Está [Salomon XA Pro 3D CSWP Zapatillas Impermeables de Deporte Unisex Niños](https://www.amazon.es/dp/B07RFNFVX6/?tag=tolees-21) con 30.02 de descuento por 52.48 EUR (original: 74.99 EUR) en el siguiente enlace!
@@ -29,7 +29,7 @@ Está [Salomon XA Pro 3D CSWP Zapatillas Impermeables de Deporte Unisex Niños](
 ℹ️:
 
 - Shoes xa pro (l40973600)
-- Calzado salomon
 - Zapatillas de running running unisex infantil
+- Calzado salomon
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07RFNFVX6/?tag=tolees-21)

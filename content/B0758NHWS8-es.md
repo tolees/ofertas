@@ -28,10 +28,10 @@ En este momento está [SanDisk Ultra Tarjeta de memoria microSDXC con adaptador 
 
 🔎:
 
+- Velocidades de transferencia de hasta 100 MB/s
+- Clase 10 para la grabación y reproducción de vídeos en calidad Full HD
 - Recomendado para smartphones y tabletas con sistema operativo Android y cámaras MIL
 - Incluye la nueva categoría A1: para un rendimiento más rápido de las aplicaciones
-- Clase 10 para la grabación y reproducción de vídeos en calidad Full HD
 - Compatible con microSDHC y microSDXC que admiten dispositivos host
-- Velocidades de transferencia de hasta 100 MB/s
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0758NHWS8/?tag=tolees-21)

@@ -28,8 +28,8 @@ En este momento está [Falomir Caza Zombis  Juego de Mesa  Habilidad  27270    c
 
 🔎:
 
-- Escucha los escalofriantes sonidos
 - Consigue cazar a todos los zombis
+- Escucha los escalofriantes sonidos
 - Tendrás que apuntar bien para darles; aparecen y desaparecen, asi qué estáte atento
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B071HM1SL8/?tag=tolees-21)
