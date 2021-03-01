@@ -28,9 +28,9 @@ En este momento está [Mr. Wonderful Archivador de Anillas con Palanca-Lo Vas a 
 
 🔎:
 
-- Con anillas grandes y palanca para cerrar y mantener aún más seguros los papeles en su interior, cuenta con un diseño apto tanto para la oficina como para el estudio
-- Peso454 gr
 - Medidas28, 5 x 31, 5 x 7 cm
+- Con anillas grandes y palanca para cerrar y mantener aún más seguros los papeles en su interior, cuenta con un diseño apto tanto para la oficina como para el estudio
 - Materialesestucado mate de 135 gr con laminado antirrayadura
+- Peso454 gr
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07TJSQS53/?tag=tolees-21)

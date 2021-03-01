@@ -28,8 +28,8 @@ Tienes [TRIXIE Erizo de Peluche  17 cm  Perro](https://www.amazon.es/dp/B001R84N
 
 🔎:
 
-- LO MEJOR PARA EL CUIDADO DE TU MASCOTA : Producto especialmente destinado para cuidar a las mascotas.
-- felpa suave (poliéster)/algodón
 - con sonido
+- felpa suave (poliéster)/algodón
+- LO MEJOR PARA EL CUIDADO DE TU MASCOTA : Producto especialmente destinado para cuidar a las mascotas.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B001R84NMA/?tag=tolees-21)

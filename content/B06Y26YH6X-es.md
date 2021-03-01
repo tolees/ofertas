@@ -30,8 +30,8 @@ Está [Luminarc Harena N&B Vajilla de 18 Piezas  Blanco Y Negro](https://www.ama
 
 - El producto es 100% higiénica
 - Apta para microondas
-- Apta para lavavajillas
-- Material extra resistente a choques mecánicos y térmicos
 - Contiene 6 llanos negros de 25 cm, 6 hondos blancos de 23.5 cm y 6 postre negros de 19 cm
+- Material extra resistente a choques mecánicos y térmicos
+- Apta para lavavajillas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06Y26YH6X/?tag=tolees-21)
