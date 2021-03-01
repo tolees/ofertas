@@ -28,10 +28,10 @@ Tienes [Lodel RA6 - Emisor Térmico Digital Bajo Consumo  900 de Potencia  6 Ele
 
 🔎:
 
-- Emisores térmicos de diseño ultrafino y ligero con elementos rectos de aluminio de alta calidad muy rápidos a la hora de calentar cualquier estancia al tiempo que ahorras energía gracias a su tecnología de bajo consumo. Ideal para estancias de 9-11 m².
+- Recibirás un emisor térmico Lodel que combina con cualquier estancia. Junto con sus soportes de suelo, cable de alimentación y mando a distancia. Garantía Haverland.
 - Durabilidad y seguridad: Rapidez en cualquier situación, alta calidad, limitador térmico. Fácil limpieza y mantenimiento.
 - Cronotermostato digital LCD, configurable, funciones: confort / economía / antihielo y automático, ahorra sin necesidad de complicados programas.
 - Fabricado en España. Empresa líder en I+D+i, 40 años de experiencia, uno de los mejores fabricantes de Europa. Certificado bajo control de calidad europea.
-- Recibirás un emisor térmico Lodel que combina con cualquier estancia. Junto con sus soportes de suelo, cable de alimentación y mando a distancia. Garantía Haverland.
+- Emisores térmicos de diseño ultrafino y ligero con elementos rectos de aluminio de alta calidad muy rápidos a la hora de calentar cualquier estancia al tiempo que ahorras energía gracias a su tecnología de bajo consumo. Ideal para estancias de 9-11 m².
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0169EBMNO/?tag=tolees-21)

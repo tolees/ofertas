@@ -28,8 +28,8 @@ Está [Hummer HUMM12000 Arrancador de Bateria para Coche 12000mAh](https://www.a
 
 ℹ️:
 
+- Multifuncional Power Bank 12000mAh/3A
 - Arranque en frío 12V/600Amp
 - Luz LED 3 modos
-- Multifuncional Power Bank 12000mAh/3A
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00KSFZB56/?tag=tolees-21)

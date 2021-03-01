@@ -28,9 +28,9 @@ Está [Adidas CORE18 SW PNT Pantalones de Deporte  Hombre  Gris  Gris/Negro   M]
 
 ℹ️:
 
-- Tienen dos bolsillos laterales
-- Cintura elástica con cordón ajustable.
-- Bolsillos de ojal en las costuras laterales.
 - Inserción de canalé en la entrepierna.
+- Tienen dos bolsillos laterales
+- Bolsillos de ojal en las costuras laterales.
+- Cintura elástica con cordón ajustable.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B076HPYRLV/?tag=tolees-21)

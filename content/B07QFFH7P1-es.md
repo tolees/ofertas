@@ -28,7 +28,7 @@ Está [Yu me-Sombrero Seleccionador en Español Harry Potter  Color marrón  Yum
 
 ℹ️:
 
-- Saga harry potter
 - Peluche parlante sombrero seleccionador
+- Saga harry potter
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07QFFH7P1/?tag=tolees-21)

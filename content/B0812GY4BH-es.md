@@ -28,8 +28,8 @@ Tienes [Asics Gel-Kayano 5 360  Running Shoe Hombre  Negro  44.5 EU](https://www
 
 🔎:
 
+- Light and elastic midsole
 - Trusstic System technology to control torsion and rotation
 - Sports shoes
-- Light and elastic midsole
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0812GY4BH/?tag=tolees-21)
