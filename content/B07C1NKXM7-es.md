@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'Oxford School - Recambio para cuaderno   al 31.66 % de descuento'
-date: 2020-03-26 19:32:25
+title: 'Hojas cuadriculadas A4 Recambio Oxford   al 26.66 % de descuento'
+date: 2021-03-01 12:16:05
 image: 'https://m.media-amazon.com/images/I/51AZQ-QVddL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C1NKXM7-es Oxford School - Recambio para cuaderno A4 5 x 5 cm color...'
+slug: 'B07C1NKXM7-es Hojas cuadriculadas A4 Recambio Oxford School 10 Banda...'
 sku: 'B07C1NKXM7-es'
 tags: [  ]
-actualPrice: 5.46 EUR
+actualPrice: 5.86 EUR
 currency: EUR
-price: 5.46
+price: 5.86
 comparePrice: 7.99 EUR
-prodname: 'Oxford School - Recambio para cuaderno  A4  5 x 5 cm  color multicolor'
+prodname: 'Hojas cuadriculadas A4 Recambio Oxford  School  10 Banda colores  160 Hojas  Cuadrícula 5x5  Multicolor'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Oxford'
 buyurl: 'https://www.amazon.es/dp/B07C1NKXM7/?tag=tolees-21'
-descuento: '31.66'
-average: '6.165'
+descuento: '26.66'
+average: '6.0125'
 ---
 
-Ahora mismo tienes [Oxford School - Recambio para cuaderno  A4  5 x 5 cm  color multicolor](https://www.amazon.es/dp/B07C1NKXM7/?tag=tolees-21) a 5.46 EUR (original: 7.99 EUR) (31.66 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Hojas cuadriculadas A4 Recambio Oxford  School  10 Banda colores  160 Hojas  Cuadrícula 5x5  Multicolor](https://www.amazon.es/dp/B07C1NKXM7/?tag=tolees-21) a 5.86 EUR (original: 7.99 EUR) (26.66 %  de descuento) en el siguiente enlace!
 
-[![Oxford School - Recambio para cuaderno  ](https://m.media-amazon.com/images/I/51AZQ-QVddL._SL400_.jpg)](https://www.amazon.es/dp/B07C1NKXM7/?tag=tolees-21)
+[![Hojas cuadriculadas A4 Recambio Oxford  ](https://m.media-amazon.com/images/I/51AZQ-QVddL._SL400_.jpg)](https://www.amazon.es/dp/B07C1NKXM7/?tag=tolees-21)
 
 🔎:
 
+- Gramaje papel 90gr; Optik Paper
+- Cuadrícula 5mm x 5mm con margen
+- 4 Taladros
+- Formato A4
+- Recambio retractilado de 160 hojas sueltas con banda de color
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07C1NKXM7/?tag=tolees-21)

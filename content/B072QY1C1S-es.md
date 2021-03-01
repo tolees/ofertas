@@ -28,14 +28,14 @@ Está [Fossil Reloj para Mujer de Automático con Correa en Cuero FTW1202](https
 
 ℹ️:
 
-- Tamaño de la caja: 40 mm
-- Circunferencia de la correa: 190 +/- 5 mm
-- Este producto se puede enviar únicamente a los siguientes países : Reino Unido, Irlanda, Austria, Alemania, Francia, Bélgica, Países Bajos, Suiza, Dinamarca, Portugal, Italia, España, Suecia, Noruega, Polonia y Luxemburgo
-- Ancho de la correa: 16 mm
-- Se presenta en caja de regalo Fossil Q
-- Vida estimada de la pila: Hasta 6 meses* *según el uso
-- Conectividad: Bluetooth Smart Enabled / 4.1 Low Energy
-- Compatibilidad: Android OS 4.3+, Android OS 4.4+, iOS 7+ / iPhone 4s +, iOS 8+ / iPhone 5 +, iPhone 5/iOS 8.2+
 - Grosor de la caja: 11 mm
+- Conectividad: Bluetooth Smart Enabled / 4.1 Low Energy
+- Vida estimada de la pila: Hasta 6 meses* *según el uso
+- Compatibilidad: Android OS 4.3+, Android OS 4.4+, iOS 7+ / iPhone 4s +, iOS 8+ / iPhone 5 +, iPhone 5/iOS 8.2+
+- Este producto se puede enviar únicamente a los siguientes países : Reino Unido, Irlanda, Austria, Alemania, Francia, Bélgica, Países Bajos, Suiza, Dinamarca, Portugal, Italia, España, Suecia, Noruega, Polonia y Luxemburgo
+- Se presenta en caja de regalo Fossil Q
+- Circunferencia de la correa: 190 +/- 5 mm
+- Tamaño de la caja: 40 mm
+- Ancho de la correa: 16 mm
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B072QY1C1S/?tag=tolees-21)

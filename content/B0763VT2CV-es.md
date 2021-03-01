@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Funko Pop!- Horror: 8-bit Alien  24597  al 49.91 % de descuento'
-date: 2021-02-04 13:39:26
-image: 'https://m.media-amazon.com/images/I/416azDjC4oL._SL200_.jpg'
+date: 2021-03-01 12:13:49
+image: 'https://m.media-amazon.com/images/I/416azDjC4oL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -19,12 +19,12 @@ flag: '🇪🇸'
 brand: 'Funko'
 buyurl: 'https://www.amazon.es/dp/B0763VT2CV/?tag=tolees-21'
 descuento: '49.91'
-average: '8.23'
+average: '8.16142857142857'
 ---
 
 Ahora mismo tienes [Funko Pop!- Horror: 8-bit Alien  24597 ](https://www.amazon.es/dp/B0763VT2CV/?tag=tolees-21) a 7.99 EUR (original: 15.95 EUR) (49.91 %  de descuento) en el siguiente enlace!
 
-[![Funko Pop!- Horror: 8-bit Alien  24597 ](https://m.media-amazon.com/images/I/416azDjC4oL._SL200_.jpg)](https://www.amazon.es/dp/B0763VT2CV/?tag=tolees-21)
+[![Funko Pop!- Horror: 8-bit Alien  24597 ](https://m.media-amazon.com/images/I/416azDjC4oL._SL400_.jpg)](https://www.amazon.es/dp/B0763VT2CV/?tag=tolees-21)
 
 🔎:
 
