@@ -28,10 +28,10 @@ Tienes [HUDORA 76909 - Juguete  15 kg  3m  90 cm  Negro  Color Blanco ](https://
 
 ℹ️:
 
-- Listón y postes de marco cuadrado (60 x 30 mm)
 - Dimensiones de la puerta: 300 x 160 x 90 cm
-- Fijación de red con trabillas de poliéster y cuerda
-- Fácil montaje por clic de las barras etiquetadas
 - Red de polietileno impermeable
+- Listón y postes de marco cuadrado (60 x 30 mm)
+- Fácil montaje por clic de las barras etiquetadas
+- Fijación de red con trabillas de poliéster y cuerda
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00FQJQZ90/?tag=tolees-21)

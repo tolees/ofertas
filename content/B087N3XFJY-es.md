@@ -28,9 +28,9 @@ En este momento está [Funko- Pop Star Wars The Mandalorian-Child w/Bag Figura c
 
 🔎:
 
-- ¡Descúbre otras figuras de la colección Star Wars y colecciónalas todas!
-- La figura mide 9 cm y se envía en una caja ilustrada con ventana
 - De la colección The Mandalorian, Child w/ Bag como figura de vinilo POP de Funko
+- La figura mide 9 cm y se envía en una caja ilustrada con ventana
+- ¡Descúbre otras figuras de la colección Star Wars y colecciónalas todas!
 - Funko POP! El juguete del año 2018
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B087N3XFJY/?tag=tolees-21)

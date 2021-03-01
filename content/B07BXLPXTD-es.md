@@ -29,9 +29,9 @@ Ahora mismo tienes [Casio Smart Watch Armbanduhr A168WEM-1EF](https://www.amazon
 🔎:
 
 - Calendario automático
-- Cronómetro - 1/100 seg. - 1 hora
 - Indicación de hora normal de 12/24 horas
 - Cierre ajustable
+- Cronómetro - 1/100 seg. - 1 hora
 - Caja de resina
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07BXLPXTD/?tag=tolees-21)

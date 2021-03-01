@@ -28,13 +28,13 @@ Ahora mismo tienes [Navidul  Jamón de bellota ibérico + jamonero + cuchillo  8
 
 🔎:
 
-- Presencia de alérgenos: Leche y sus derivados. Hay riesgo de contaminación cruzada: Soja y productos a base de soja.
 - Cuchillo: protección de plástico en la hoja; hoja de acero inoxidable(22,5 cms) y mango de polipropileno ( 11cm); peso unitario (0,05 kgs). Jamonero: fabricado en madera de pino con acabado color cerezo y un peso unitario de 1,29 kg.
+- Regalo de jamonero y chuchillo.
+- Cada pieza es escogida una a una, por nuestros expertos, siguiendo estrictos criterios de selección por textura, conformación y cala.
+- Jamón de cerdo ibérico, sal, conservadores (E-250, E-252). Tratamiento de superficie:conservador (E-472a).
 - La pieza lleva una vitola, va envuelto en una funda y a su vez va guardado en una caja negra; manteniendo así todas las propiedades del producto y cerciorando la seguridad alimenticia del mismo.
 - España
-- Cada pieza es escogida una a una, por nuestros expertos, siguiendo estrictos criterios de selección por textura, conformación y cala.
-- Regalo de jamonero y chuchillo.
-- Jamón de cerdo ibérico, sal, conservadores (E-250, E-252). Tratamiento de superficie:conservador (E-472a).
+- Presencia de alérgenos: Leche y sus derivados. Hay riesgo de contaminación cruzada: Soja y productos a base de soja.
 - Tiempo de curación: mínimo 30 meses
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07J9N2DGM/?tag=tolees-21)

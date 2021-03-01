@@ -28,10 +28,10 @@ Ahora mismo tienes [Di4 SteamClean Power 1050W Limpiador a Vapor  3 Bares de pre
 
 🔎:
 
+- Presión 3 bares y listo en 3 minutos
 - Incluye manguera de extensión, cepillo con paño para zonas pequeñas y delicadas, punta de precisión y cepillo para durezas, accesorio limpiacristales y punta en ángulo para acceder a zonas difíciles
 - Capacidad 0, 35l y autonomía hasta 12 minutos
-- Vaso medidor y embudo
-- Presión 3 bares y listo en 3 minutos
 - Cable de 3 metros
+- Vaso medidor y embudo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07YSQDDHH/?tag=tolees-21)

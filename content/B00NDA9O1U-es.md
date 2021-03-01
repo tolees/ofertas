@@ -28,10 +28,10 @@ Está [Compex SP 6.0. - Electroestimulador  Negro  23 cm](https://www.amazon.es/
 
 ℹ️:
 
+- Incluye todas las características del modelo SP 4.0, con tecnología wireless que asegura una total libertad de movimiento. Fácil de usar, incluye una guía de colocación de electrodos
 - Tecnología Mi: Mi-Scan, Mi range en todos los canales
+- Diseñado para deportistas que practican su actividad más de 3 veces por semana. Mejora tu fuerza muscular, optimiza tu rehabilitación, relaja y recupera más rápido
 - Programas: Preparación física(10), anti-dolor (8), recuperación(5), rehabilitación (2), y fitness (5)
 - Conexión web. Guarda el historial en la unidad
-- Incluye todas las características del modelo SP 4.0, con tecnología wireless que asegura una total libertad de movimiento. Fácil de usar, incluye una guía de colocación de electrodos
-- Diseñado para deportistas que practican su actividad más de 3 veces por semana. Mejora tu fuerza muscular, optimiza tu rehabilitación, relaja y recupera más rápido
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00NDA9O1U/?tag=tolees-21)

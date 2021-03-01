@@ -28,10 +28,10 @@ Ahora mismo tienes [Hojas cuadriculadas A4 Recambio Oxford  School  10 Banda col
 
 🔎:
 
-- Gramaje papel 90gr; Optik Paper
 - Cuadrícula 5mm x 5mm con margen
-- 4 Taladros
-- Formato A4
 - Recambio retractilado de 160 hojas sueltas con banda de color
+- Gramaje papel 90gr; Optik Paper
+- Formato A4
+- 4 Taladros
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07C1NKXM7/?tag=tolees-21)

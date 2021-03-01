@@ -28,10 +28,10 @@ En este momento está [Herbal Essences bio:renew Mascarilla Hidratación  Leche 
 
 🔎:
 
-- pH equilibrado y seguro para cabellos teñidos
+- Esta mascarilla tiene un 0 % de colorantes y parafinas
+- En asociación con El Real Jardín Botánico de Kew, una autoridad mundial líder en botánica que avala los productos realmente vegetales
 - La mascarilla con leche de coco ayuda a hidratar el cabello
 - 90 % de ingredientes de origen natural* (* agua purificada y materiales con ingredientes de origen natural poco procesados)
-- En asociación con El Real Jardín Botánico de Kew, una autoridad mundial líder en botánica que avala los productos realmente vegetales
-- Esta mascarilla tiene un 0 % de colorantes y parafinas
+- pH equilibrado y seguro para cabellos teñidos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07RPY4GZ3/?tag=tolees-21)

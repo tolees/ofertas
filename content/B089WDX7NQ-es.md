@@ -29,10 +29,10 @@ Ahora mismo tienes [MSI GL65 Leopard 10SFSK-280XES - Ordenador portátil Gaming 
 🔎:
 
 - Almacenamiento 1TB NVMe PCIe SSD
-- Tarjeta gráfica Nvidia RTX 2070 Super de 8 GB GDDR6
-- Pantalla 15.6" FHD (1920*1080), IPS-Level 144Hz 45%NTSC Thin Bezel
 - Procesador Intel Core i7-10750H (6 núcleos, 12 MB Cache, 2.6 GHz hasta 5.0 GHz)
+- Pantalla 15.6" FHD (1920*1080), IPS-Level 144Hz 45%NTSC Thin Bezel
 - Sin sistema operativo
+- Tarjeta gráfica Nvidia RTX 2070 Super de 8 GB GDDR6
 - Memoria RAM de 16 GB, DDR IV 8GB*2 (2666MHz)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B089WDX7NQ/?tag=tolees-21)

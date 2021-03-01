@@ -28,8 +28,8 @@ Ahora mismo tienes [Garnier Original Remedies Delicatesse de Avena Acondicionado
 
 🔎:
 
-- En Garnier ayudamos a la conservación del medio ambiente apostando por un envase 100% reciclable
 - Acondicionador de acción suave y calmante, que protege el cuero cabelludo sensible e hidrata en profundidad todo tipo de pelo, hasta el más sensible
+- En Garnier ayudamos a la conservación del medio ambiente apostando por un envase 100% reciclable
 - Consigue, gracias a sus extractos naturales y sus activos libres de silicona, que el cabello sensible se vea más sano, protegido y nutrido, para una sensación natural
 - Formulado con una combinación de Leche de Avena y Crema de Arroz, ayuda a conseguir un cabello más sedoso y brillante gracias a sus propiedades calmantes
 - Comprometidos desde 1989 en no realizar test en animales, está dermatológicamente testado

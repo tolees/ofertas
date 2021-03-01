@@ -28,8 +28,8 @@ Ahora mismo tienes [Funko Pop!- Horror: 8-bit Alien  24597 ](https://www.amazon.
 
 🔎:
 
-- Funko POP
 - Horror
 - 8-Bit Alien
+- Funko POP
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0763VT2CV/?tag=tolees-21)
