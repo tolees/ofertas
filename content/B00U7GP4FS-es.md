@@ -29,8 +29,8 @@ Tienes [BLACK+DECKER PS7525-QS Motosierra telescópica  pértiga  800W  espada d
 🔎:
 
 - Presión sonora: 78 dB (A)
-- Alcance de hasta 2.7 metros
 - Motor de 800 w con una velocidad de cadena de 11.5 m/s
+- Alcance de hasta 2.7 metros
 - Con sistema de freno de cadena
 - Sistema de lubricación automático
 

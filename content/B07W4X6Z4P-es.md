@@ -28,9 +28,9 @@ Tienes [Nike Pico 5  TDV   Gymnastics Shoe Unisex-Baby  White/White/Pure Platinu
 
 🔎:
 
-- La suela exterior de goma garantiza una tracción duradera.
 - Espuma para amortiguar con poco peso.
 - Las correas de velcro hacen que el zapato sea fácil de poner y quitar.
+- La suela exterior de goma garantiza una tracción duradera.
 - El cuero y la imitación de cuero garantizan la durabilidad y el confort.
 - Importado
 

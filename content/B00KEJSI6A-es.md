@@ -28,10 +28,10 @@ Está [MICHELIN 009526 Verificador de Presión Digital Y Desgaste Neumáticos  A
 
 ℹ️:
 
-- Visualización de profundidad de las ranuras de los neumáticos en mm
+- Estilo: Universal
 - Visualización de la presión de los neumáticos en bar (0,35-> 7bar) con una precisión de lectura de 0,05 bar
 - Controlador de presión de nueva generación + medición de profundidad del neumático
+- Visualización de profundidad de las ranuras de los neumáticos en mm
 - Baterías suministradas (batería cr 2032 x 1)
-- Estilo: Universal
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00KEJSI6A/?tag=tolees-21)
