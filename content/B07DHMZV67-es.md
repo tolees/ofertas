@@ -28,10 +28,10 @@ Ahora mismo tienes [Oral-B Encías & Esmalte Repair Blanqueante  Pasta Dentífri
 
 🔎:
 
-- Protege los dientes de la erosión ácida y ayuda a reparar el esmalte
-- Pasta dentífrica para dientes sensibles
-- Elimina con suavidad y previene las manchas, los residuos y el sarro
-- Ayuda a rejuvenecer tus encías y a reparar el esmalte en solo 2 semanas
 - Acción protectora de las encías
+- Elimina con suavidad y previene las manchas, los residuos y el sarro
+- Pasta dentífrica para dientes sensibles
+- Protege los dientes de la erosión ácida y ayuda a reparar el esmalte
+- Ayuda a rejuvenecer tus encías y a reparar el esmalte en solo 2 semanas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07DHMZV67/?tag=tolees-21)
