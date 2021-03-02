@@ -28,10 +28,10 @@ Está [Geographical Norway Chaqueta Mujer Anson Azul Marino M](https://www.amazo
 
 ℹ️:
 
-- Puños ajustables
-- Media cremallera
 - Capucha fija
-- Bordados en la manga
+- Puños ajustables
 - Bolsillo tipo canguro en la parte delantera
+- Media cremallera
+- Bordados en la manga
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B081CK1ZQC/?tag=tolees-21)

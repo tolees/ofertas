@@ -29,7 +29,7 @@ Ahora mismo tienes [L Oreal Paris - L Oreal Majirel 6.1   Color Rubio Oscuro Cen
 🔎:
 
 - Realiza una cobertura completa de los cabellos blancos
-- Trata la totalidad de la fibra capilar
 - Cuenta con un sistema de alta tenacidad para un mejor mantenimiento del reflejo
+- Trata la totalidad de la fibra capilar
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00BY0D2QE/?tag=tolees-21)

@@ -28,10 +28,10 @@ Ahora mismo tienes [GORE WEAR C3 Chaqueta de hombre con capucha GORE-TEX  S  neg
 
 🔎:
 
-- Sección de la espalda alargada, Cintura y ancho de mangas ajustables, Adecuada para llevar con mochila, Bolsillo con cremallera en el pecho
-- Versátil chaqueta de hombre para condiciones climáticas frías
-- GORE C3 GORE-TEX Paclite Chaqueta con capucha, Talla: S, Color: negro, 100036
-- Tecnología GORE-TEX Active: Impermeable, cortaviento y extremadamente transpirable
 - Talle cómodo/Corte específico para bicicletas
+- Versátil chaqueta de hombre para condiciones climáticas frías
+- Sección de la espalda alargada, Cintura y ancho de mangas ajustables, Adecuada para llevar con mochila, Bolsillo con cremallera en el pecho
+- Tecnología GORE-TEX Active: Impermeable, cortaviento y extremadamente transpirable
+- GORE C3 GORE-TEX Paclite Chaqueta con capucha, Talla: S, Color: negro, 100036
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B075S2TBCK/?tag=tolees-21)

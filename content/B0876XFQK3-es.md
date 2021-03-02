@@ -28,9 +28,9 @@ En este momento está [GlobalCrown Cámara para niños Mini Digital Recargable C
 
 🔎:
 
+- Juguete y regalo para el crecimiento de los niños: regalo perfecto para los niños en el día de los niños, cumpleaños, Navidad y viajes de vacaciones, les permite ser creativos e imaginar.El niño puede llevarlo a donde quiera que vaya y tomar fotografías de cualquier cosa que encuentre interesante,experimentar la diversión de la naturaleza
 - Batería incorporada y cámara recargable para niños: Batería de litio recargable incorporada de 400 mAh, no se requieren baterías adicionales. La pequeña cámara es compatible con la mayoría de las computadoras, computadoras portátiles, cargadores portátiles y otros dispositivos con salida USB
 - Múltiples funciones y fácil de operar: La cámara para niños con pantalla de 2 pulgadas tiene más funciones que incluyen enfoque automático, 4 cuadros divertidos, disparos continuos, 4 filtros de color y opciones de fotografía temporizada. Fácil de operar, adecuado para niños pequeños
-- Juguete y regalo para el crecimiento de los niños: regalo perfecto para los niños en el día de los niños, cumpleaños, Navidad y viajes de vacaciones, les permite ser creativos e imaginar.El niño puede llevarlo a donde quiera que vaya y tomar fotografías de cualquier cosa que encuentre interesante,experimentar la diversión de la naturaleza
 - Silicona segura y material a prueba de golpes: Use el material ecológico de silicona suave no tóxico, carcasa protectora a prueba de golpes, duradero y seguro para los niños. Brinde a los niños una forma cómoda de tomar fotos o grabar videos con la cámara del niño
 - 8.0 mega píxeles y video HD de 1080p: La cámara de video para niños tiene 8.0 megapíxeles que puede tomar hasta 1080P Video, mantendrá el momento maravilloso y claro para los niños. La cámara viene con una tarjeta micro SD de 32 GB, se puede usar de inmediato
 

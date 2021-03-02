@@ -28,8 +28,8 @@ Tienes [Desodorante spray Sanex Dermo Invisible 24H protección antimanchas 2x20
 
 ℹ️:
 
-- Género: Mujer
 - Formato: Spray
 - Tipo de Piel: Todo Tipo de Pieles
+- Género: Mujer
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00XDRHDQQ/?tag=tolees-21)

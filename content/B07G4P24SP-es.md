@@ -28,10 +28,10 @@ Tienes [Dolce Gusto Delonghi - De Longhi Dolce Gusto Infinissima EDG260.R - Cafe
 
 🔎:
 
-- Disfruta de más de 30 creaciones de café de calidad desde el carácter de un Espresso Intenso o el cuerpo de un Lungo, hasta el espumoso Cappuccino; además del chocolate caliente o los tés aromáticos
 - Bandeja recogegotas ajustable a 3 alturas para utilizar con diferentes tamaños de taza
 - Cada cápsula de Dolce Gusto está diseñada para ajustar automáticamente la presión en función del tipo de bebida
 - Depósito extraíble de 1.2 l muy fácil de llenar
 - Cafetera manual de sistema de cápsulas de 15 bares de presión; capaz de hacer café de calidad profesional, caliente desde la primera taza gracias a su sistema Thermoblock
+- Disfruta de más de 30 creaciones de café de calidad desde el carácter de un Espresso Intenso o el cuerpo de un Lungo, hasta el espumoso Cappuccino; además del chocolate caliente o los tés aromáticos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07G4P24SP/?tag=tolees-21)
