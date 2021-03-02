@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ubiquiti Spain - Ubiquiti UAP-AC-PRO - P con un 30.63 % de descuento'
-date: 2021-03-01 01:25:33
+date: 2021-03-02 06:56:46
 image: 'https://m.media-amazon.com/images/I/310Q5lYkMXL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Ubiquiti Spain'
 buyurl: 'https://www.amazon.es/dp/B016XYQ3WK/?tag=tolees-21'
 descuento: '30.63'
-average: '140.499420289856'
+average: '140.372676056339'
 ---
 
 En este momento está [Ubiquiti Spain - Ubiquiti UAP-AC-PRO - Punto de acceso  color blanco](https://www.amazon.es/dp/B016XYQ3WK/?tag=tolees-21) a 136.0 EUR (original: 196.06 EUR) (30.63 %  de descuento) en el siguiente enlace!
@@ -29,8 +29,8 @@ En este momento está [Ubiquiti Spain - Ubiquiti UAP-AC-PRO - Punto de acceso  c
 🔎:
 
 - Ofrece doble banda simultanea 3x3 MIMO
-- Wi-Fi estándares 802.11 a / b / g / n / ac
 - Interfaz (2) puertos Ethernet 10/100/1000
+- Wi-Fi estándares 802.11 a / b / g / n / ac
 - Seguridad inalámbrica WEP, WPA-PSK, WPA-TKIP,
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B016XYQ3WK/?tag=tolees-21)
