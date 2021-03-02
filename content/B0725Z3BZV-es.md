@@ -28,10 +28,10 @@ En este momento está [ORICO Carcasa USB 3.0 para Discos Duros HDD SSD de 3.5" C
 
 🔎:
 
-- 【Velocidad】: velocidades de transferencia de USB 3.0 de hasta 5 Gbps, compatibles con USB 2.0 / 1.1.
 - 【Aplicación】: material de aluminio de alta calidad, todos los discos duros SATA (I / II / III) de 3.5 "con capacidad de hasta 2 * 8TB son compatibles.
-- 【Compatibilidad】 - Compatible con el sistema Windows / MAC 9.1 / 10.2 y superior.
 - 【Garantía】 - ORICO Technologies Co., Ltd proporciona 12 meses de garantía y soporte técnico de por vida.
+- 【Velocidad】: velocidades de transferencia de USB 3.0 de hasta 5 Gbps, compatibles con USB 2.0 / 1.1.
+- 【Compatibilidad】 - Compatible con el sistema Windows / MAC 9.1 / 10.2 y superior.
 - 【Conveniencia】 - Plug and Play y también Hot Swapping. Simplemente inserte la unidad y conéctela a su computadora, no será necesario reiniciar o necesitar controladores adicionales.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0725Z3BZV/?tag=tolees-21)

@@ -29,9 +29,9 @@ En este momento está [Todocama – Pack de 2 Unidades. Relleno de cojín con Fi
 🔎:
 
 - Tejido sin tejer hipoalergénico (TNT).
-- Pack de 2 unidades de relleno de cojín.
 - Producto fabricado en España.
-- Recomendación de lavado máximo a 40º.
 - Fibra hueca siliconada de gran volumen y recuperación, con una firmeza media/alta.
+- Pack de 2 unidades de relleno de cojín.
+- Recomendación de lavado máximo a 40º.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08FMPQNXG/?tag=tolees-21)
