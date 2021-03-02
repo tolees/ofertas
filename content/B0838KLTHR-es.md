@@ -29,8 +29,8 @@ En este momento está [Hurley M One&Only 2.0 Woven S/S Camisa  Hombre  Olive Gre
 🔎:
 
 - Producto de la marca Hurley
-- Bolsillo en la parte izquierda del pecho
-- 100% Algodón
 - Ajuste clásico
+- 100% Algodón
+- Bolsillo en la parte izquierda del pecho
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0838KLTHR/?tag=tolees-21)

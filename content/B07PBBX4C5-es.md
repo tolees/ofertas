@@ -30,8 +30,8 @@ Tienes [Funko - Pop! Harry Potter S7 - Harry Potter  Yule  Figura Coleccionable 
 
 - De la colección harry potter, harry potter (yule) como figura de vinilo pop de funko
 - Descúbre otras figuras de la colección harry potter y colecciónalas todas!
-- Funko pop! vinyl
 - Harry Potter
+- Funko pop! vinyl
 - Harry potter harry potter (yule)
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07PBBX4C5/?tag=tolees-21)
