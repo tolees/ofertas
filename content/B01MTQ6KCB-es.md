@@ -28,9 +28,9 @@ Está [Timorn reemplazo Vivienda Shell Caso Cubierta para Gameboy GB Consola  Am
 
 ℹ️:
 
-- Incluye la carcasa de la carcasa, los botones, los tornillos, El protector de pantalla y destornillador
 - Caso de Shell de la cubierta del reemplazo para Game Boy.
 - Material: Plástico.
+- Incluye la carcasa de la carcasa, los botones, los tornillos, El protector de pantalla y destornillador
 - Proteja su consola de juegos De polvo, suciedad, gotas, golpes, etc.
 - Plataforma: Game Boy.
 

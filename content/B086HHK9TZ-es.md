@@ -29,9 +29,9 @@ Tienes [Samsonite Base Boost - Upright S  Longitud: 40 cm  Equipaje de Mano  55 
 🔎:
 
 - Bolsillo frontal con capacidad de almacenamiento máxima.
-- Upright 55 (equipaje de mano: 2 días): 40 x 20 x 55 cm – 41 L – 2 kg.
-- Peso ligero: a partir de 2 kg para cabinas de tamaños
-- Bonitos detalles: logotipo de metal y bolsillos con cremallera en la parte delantera.
 - Todos los modelos con candado TSA para viajes seguros y sin estrés.
+- Upright 55 (equipaje de mano: 2 días): 40 x 20 x 55 cm – 41 L – 2 kg.
+- Bonitos detalles: logotipo de metal y bolsillos con cremallera en la parte delantera.
+- Peso ligero: a partir de 2 kg para cabinas de tamaños
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B086HHK9TZ/?tag=tolees-21)
