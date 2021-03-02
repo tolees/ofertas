@@ -28,10 +28,10 @@ Tienes [Funko Pop! TV: Umbrella Academy - Number Five w/Chase  Styles May Vary  
 
 ℹ️:
 
-- Figure stands 9cm and comes in a window display box
 - This pop. Comes with a 1 in 6 chance of receiving the rare special edition chase version
+- Funko pop. Is the 2018 toy of the year and peoples choice award winner
+- Figure stands 9cm and comes in a window display box
 - Check out the other umbrella academy figures from funko collect them all
 - From umbrella academy, number five, as a stylized pop vinyl from funko
-- Funko pop. Is the 2018 toy of the year and peoples choice award winner
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07SM895KX/?tag=tolees-21)
