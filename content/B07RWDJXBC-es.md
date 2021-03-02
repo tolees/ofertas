@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mr. Wonderful Set of Two A4 notebooks-Co al 29.93 % de descuento'
-date: 2021-03-01 14:26:04
+date: 2021-03-02 16:17:56
 image: 'https://m.media-amazon.com/images/I/41BFOvtcejL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Mr. Wonderful'
 buyurl: 'https://www.amazon.es/dp/B07RWDJXBC/?tag=tolees-21'
 descuento: '29.93'
-average: '4.865'
+average: '4.86666666666667'
 ---
 
 Ahora mismo tienes [Mr. Wonderful Set of Two A4 notebooks-Contains Friday Feeling  Multicolor  Talla única](https://www.amazon.es/dp/B07RWDJXBC/?tag=tolees-21) a 4.87 EUR (original: 6.95 EUR) (29.93 %  de descuento) en el siguiente enlace!
@@ -28,9 +28,9 @@ Ahora mismo tienes [Mr. Wonderful Set of Two A4 notebooks-Contains Friday Feelin
 
 🔎:
 
-- Diseñado con amor en barcelona
-- Medidas con pack: 21 x 29, 7 x 0, 4 cm
 - Materiales: offset blanco de 80 gr/ portada de cartulina estucada de 350 gr
 - Peso: 420 gr
+- Medidas con pack: 21 x 29, 7 x 0, 4 cm
+- Diseñado con amor en barcelona
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07RWDJXBC/?tag=tolees-21)

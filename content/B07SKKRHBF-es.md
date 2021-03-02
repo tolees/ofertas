@@ -28,8 +28,8 @@ Ahora mismo tienes [Asics Japan S  Running Shoe Hombre  Blanco  44.5 EU](https:/
 
 🔎:
 
-- Sports shoes
 - Classic style
+- Sports shoes
 - Upper in smooth leather
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SKKRHBF/?tag=tolees-21)
