@@ -29,8 +29,8 @@ Tienes [Braun Series 9 9240 s - Afeitadora eléctrica para hombre de lámina  en
 🔎:
 
 - Reduce la fricción para obtener el máximo bienestar
-- Con tecnología Wet&Dry en seco y mojado
 - 50 min de afeitado inalámbrico
+- Con tecnología Wet&Dry en seco y mojado
 - Base de carga incluida
 - Contiene un chip de procesión avanzado que reacciona de manera inteligente a las características únicas del rostro
 

@@ -29,9 +29,9 @@ En este momento está [QueDreams Basic Colchon viscoelastico desenfundable  150x
 🔎:
 
 - Altamente higiénico: desenfundable; funda lavable y transpirable cerrada por cremallera
-- Exclusivo sistema ergonómico que se adapta a tu cuerpo con efecto “masaje”
 - Altura 21 cm; firmeza media: 6/10; ni duro, ni blando: firmeza perfecta; adaptabilidad: 99%
-- Fabricado en españa con materiales de calidad excelente
 - Quêdreams; es la marca que ofrece los colchón es viscoelásticos más higiénicos del mercado; todos ellos 100% transpirables, antiácaros, antibacterianos y antialérgicos; avalado por el máximo certificado “libre de tóxicos” a nivel europeo como es el oekotex standard100 class1; además, podrás acceder a su interior retirando la funda para obtener una higiene óptima, la cual nunca se podrá conseguir desde un colchón cerrado
+- Fabricado en españa con materiales de calidad excelente
+- Exclusivo sistema ergonómico que se adapta a tu cuerpo con efecto “masaje”
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07ZY93FVG/?tag=tolees-21)
