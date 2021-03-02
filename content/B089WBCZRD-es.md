@@ -28,10 +28,10 @@ Tienes [Xiaomi Redmi 9 - Smartphone 3GB 32GB  Pantalla FHD+ de 6.53"  AI Quad C�
 
 🔎:
 
-- Más potencia para tu disfrute. Rendimiento potente y estable, multitarea fluida, audiovisual sin interrupciones y experiencia de juego.
-- Ampliar tus horizontes. La resolución 2340x1080 full HD + garantiza una experiencia visual inmersiva y ofrece una visión clara del mundo que te rodea.
+- Nueva mirada fresca. El diseño circular único alrededor del módulo de la cámara da una sensación de equilibrio y elegancia. La parte posterior presenta un diseño texturizado que evita las huellas dactilares y mantiene el dispositivo como nuevo en todo momento.
 - Con una batería del tamaño de un banco de energía y una tecnología de carga rápida de 18 vatios, ya sea que pase su tiempo mirando películas, jugando juegos o haciendo llamadas telefónicas, le proporcionará la energía que necesita.
 - AI QUAD CAMERA. Cambia libremente de un modo a otro para capturar varios tipos de escenarios con la cámara cuádruple AI.
-- Nueva mirada fresca. El diseño circular único alrededor del módulo de la cámara da una sensación de equilibrio y elegancia. La parte posterior presenta un diseño texturizado que evita las huellas dactilares y mantiene el dispositivo como nuevo en todo momento.
+- Ampliar tus horizontes. La resolución 2340x1080 full HD + garantiza una experiencia visual inmersiva y ofrece una visión clara del mundo que te rodea.
+- Más potencia para tu disfrute. Rendimiento potente y estable, multitarea fluida, audiovisual sin interrupciones y experiencia de juego.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B089WBCZRD/?tag=tolees-21)

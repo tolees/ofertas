@@ -28,8 +28,8 @@ Tienes [Lee Scarlett Jeans  Azul  Rinse 36   24W / 29L para Mujer](https://www.a
 
 🔎:
 
+- Vaqueros para mujer
 - Presentan 5 bolsillos
 - Tienen un parche de piel en la parte trasera con la marca Lee
-- Vaqueros para mujer
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07C99BDLG/?tag=tolees-21)

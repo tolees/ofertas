@@ -1,32 +1,36 @@
 ---
 layout: post
-title: 'Philips Lighting 915002790302 - Aplique  al 37.05 % de descuento'
-date: 2020-07-12 12:21:00
+title: 'Philips Lighting - Aplique de exterior   al 31.29 % de descuento'
+date: 2021-03-02 20:46:32
 image: 'https://m.media-amazon.com/images/I/41++5DA+mgL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00B45MGU2-es Philips Lighting 915002790302 - Aplique de exterior...'
+slug: 'B00B45MGU2-es Philips Lighting - Aplique de exterior empotrado casquillo...'
 sku: 'B00B45MGU2-es'
 tags: [  ]
-actualPrice: 13.85 EUR
+actualPrice: 16.49 EUR
 currency: EUR
-price: 13.85
-comparePrice: 22.0 EUR
-prodname: 'Philips Lighting 915002790302 - Aplique de exterior  empotrado  casquillo gordo E27  bombilla no incluida  resistente a la intemperie  IP44  negro  19.5 cm'
+price: 16.49
+comparePrice: 24.0 EUR
+prodname: 'Philips Lighting - Aplique de exterior  empotrado  casquillo gordo E27  bombilla no incluida  resistente a la intemperie  IP44  negro  19.5 cm'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Philips Lighting'
 buyurl: 'https://www.amazon.es/dp/B00B45MGU2/?tag=tolees-21'
-descuento: '37.05'
-average: '15.729999999999999'
+descuento: '31.29'
+average: '16.034'
 ---
 
-Ahora mismo tienes [Philips Lighting 915002790302 - Aplique de exterior  empotrado  casquillo gordo E27  bombilla no incluida  resistente a la intemperie  IP44  negro  19.5 cm](https://www.amazon.es/dp/B00B45MGU2/?tag=tolees-21) a 13.85 EUR (original: 22.0 EUR) (37.05 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Philips Lighting - Aplique de exterior  empotrado  casquillo gordo E27  bombilla no incluida  resistente a la intemperie  IP44  negro  19.5 cm](https://www.amazon.es/dp/B00B45MGU2/?tag=tolees-21) a 16.49 EUR (original: 24.0 EUR) (31.29 %  de descuento) en el siguiente enlace!
 
-[![Philips Lighting 915002790302 - Aplique ](https://m.media-amazon.com/images/I/41++5DA+mgL._SL400_.jpg)](https://www.amazon.es/dp/B00B45MGU2/?tag=tolees-21)
+[![Philips Lighting - Aplique de exterior  ](https://m.media-amazon.com/images/I/41++5DA+mgL._SL400_.jpg)](https://www.amazon.es/dp/B00B45MGU2/?tag=tolees-21)
 
 🔎:
 
+- Red eléctrica: rango 220 V - 240 V
+- Casquillo: E27
+- IP44 - apto para exteriores
+- Vatios máximos de la bombilla de repuesto: 60 W
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00B45MGU2/?tag=tolees-21)

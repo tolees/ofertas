@@ -28,10 +28,10 @@ Tienes [Lagunamoon Esmaltes de Uñas  Esmaltes de Gel Uñas UV LED  6pcs Kit de 
 
 🔎:
 
-- Esmales semipermanentes durables: Ofrece una larga duración de 10-14 días.
 - Resina no tóxica: Esmaltes de gel de alta calidad con leve olor y buena tenacidad. Colores resistentes y flexibles, el gel se adhiere a la uña de manera rápida y fuerte, con un brillo
-- Lámpara requerida: hay que secar el esmalte en gel bajo lámpara uv o led.Lámpara requerida: hay que secar el gel para uñas bajo lámpara uv o led.
 - Uso amplio: Esmaltes de uñas que mantienen las uñas impecables y flexibles, no se parten ni se escaman. Apto para uñas naturales, artificiales y acrílicas.
+- Lámpara requerida: hay que secar el esmalte en gel bajo lámpara uv o led.Lámpara requerida: hay que secar el gel para uñas bajo lámpara uv o led.
+- Esmales semipermanentes durables: Ofrece una larga duración de 10-14 días.
 - 6pcs kit de uñas de gel de Lagunamoon es ideal para los fan de la manicura, contiene 6 esmaltes de uñas de gel en una caja de regalo, cada uno de 8ml.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01KJPE4KM/?tag=tolees-21)
