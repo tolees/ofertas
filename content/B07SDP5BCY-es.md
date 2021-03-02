@@ -28,8 +28,8 @@ Tienes [adidas LIGHT ANK 3PP Socks  Unisex adulto  Black/Black/Black  L](https:/
 
 ℹ️:
 
-- Climacool technology
 - Pack of three pairs
+- Climacool technology
 - Anatomical design Formotion specific for the right and left foot
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07SDP5BCY/?tag=tolees-21)

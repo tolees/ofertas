@@ -29,8 +29,8 @@ Tienes [Smiffy s-27990S Miffy Traje Cebra  Todo en Uno con Capucha  Color Negro 
 ℹ️:
 
 - Smiffys es un proveedor líder de disfraces y una empresa familiar con una herencia de 123 años en disfraces, pelucas, maquillaje y accesorios
-- Todos los trajes para niños son probados para EN71 y Nightwear (seguridad) estándares Esto es para assegurar completamente que todos nuestros trajes de niños son seguros y adecuados para su propósito
 - Tenga en cuenta que todos nuestros productos Smiffys siempre vienen en un empaque completo con la marca Smiffys
+- Todos los trajes para niños son probados para EN71 y Nightwear (seguridad) estándares Esto es para assegurar completamente que todos nuestros trajes de niños son seguros y adecuados para su propósito
 - Incluye Traje Cebra, Todo en Uno con Capucha
 - Edad 4-6, cintura 215-225" / tórax 23-25" / altura 46-51"
 
