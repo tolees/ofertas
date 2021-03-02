@@ -29,9 +29,9 @@ Tienes [LDREAMAM - Jabón Carbón de bambú  Jabón Negro con Carbón  Limpieza 
 🔎:
 
 - Actúa perfectamente en piel con impurezas gracias a la limpieza profunda de los poros. Aplicación: tratamiento de acné, limpiador de poros. Para impurezas de la piel, limpieza profunda, reduce la pigmentación y las toxinas en la piel. Elimina la suciedad de la piel.
-- Hipoalergénico y antibacteriano. El bambú tiene por naturaleza un carácter antibacteriano y es conocido por su poder de limpieza.
-- Servicio de calidad: si por alguna razón no está satisfecho, está en orden. Póngase en contacto con nosotros inmediatamente y estará satisfecho con el servicio.
 - Para todo tipo de pieles: jabón corporal o jabón de afeitar. Para hombres, mujeres y jóvenes.
+- Hipoalergénico y antibacteriano. El bambú tiene por naturaleza un carácter antibacteriano y es conocido por su poder de limpieza.
 - 100% natural de carbón de bambú, nuestro jabón orgánico no contiene productos químicos ni conservantes. Cada jabón está hecho a mano por nuestro fabricante de jabón artesanal. Apto para todos los tipos de piel.
+- Servicio de calidad: si por alguna razón no está satisfecho, está en orden. Póngase en contacto con nosotros inmediatamente y estará satisfecho con el servicio.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07V65VQ4F/?tag=tolees-21)

@@ -30,9 +30,9 @@ Tienes [Cooper Protect SP Cooper Bacter | Aerosol Bactericida| Desinfectante par
 
 - Contenido: 200 ml.
 - Cooper Protect. Es una marca especializada en la fabricación de productos desinfectantes e higienizantes que ofrece una gama de productos destinados a conseguir una higiene completa de la casa y las manos. Ayudamos a preservar la salud del hogar y el bienestar de las personas respetando el hogar y a los que lo integran.
-- Desinfectante para Superficies Cooper Bacter, con acción bactericida. Es un aerosol desinfectante de superficies que asegura una perfecta higiene.
-- Eficaz contra bacterias, hongos y moho.
-- Deja un agradable aroma a menta.
 - Dispone de un cómodo difusor que facilita su uso.
+- Desinfectante para Superficies Cooper Bacter, con acción bactericida. Es un aerosol desinfectante de superficies que asegura una perfecta higiene.
+- Deja un agradable aroma a menta.
+- Eficaz contra bacterias, hongos y moho.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B087DC65NV/?tag=tolees-21)

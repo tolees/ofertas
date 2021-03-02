@@ -28,9 +28,9 @@ Está [Prosperplast - Zanvic Rato Jardinera Marrón ZA701](https://www.amazon.es
 
 ℹ️:
 
-- Para interior, exterior o terraza
 - Marca del producto: Prosperplast
 - Maceta de plástico inyectado de gran
 - Jardinera rectangular con acabado exterior simil ratán
+- Para interior, exterior o terraza
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00P0WCY66/?tag=tolees-21)

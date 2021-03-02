@@ -28,9 +28,9 @@ Está [Altavoz DENON Envaya DSB-150-BT/BK Color Negro Bluetooth  Resistente al A
 
 ℹ️:
 
-- Entrada analógica mini-jack de 3,5 mm.
+- Botones de control e indicador de batería.
 - Bluetooth v4.1
 - Tiempo de carga 2.5 horas.
-- Botones de control e indicador de batería.
+- Entrada analógica mini-jack de 3,5 mm.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B076HQCV36/?tag=tolees-21)

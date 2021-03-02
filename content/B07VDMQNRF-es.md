@@ -28,10 +28,10 @@ Ahora mismo tienes [Michael Kors Reloj de Bolsillo para Mujer](https://www.amazo
 
 🔎:
 
-- Actualizaciones de redes sociales; Alertas de mensajes/correo electrónico; Notificaciones de aplicaciones
 - Con tecnología Wear OS by Google
+- Resistente al agua hasta 30 m
 - Pantalla AMOLED: matriz activa de diodos orgánicos emisores de luz
 - Compatible con teléfonos iPhone and Android
-- Resistente al agua hasta 30 m
+- Actualizaciones de redes sociales; Alertas de mensajes/correo electrónico; Notificaciones de aplicaciones
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VDMQNRF/?tag=tolees-21)
