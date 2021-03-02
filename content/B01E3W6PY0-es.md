@@ -28,10 +28,10 @@ Tienes [Fjallraven - Fjällräven Kånken No 2 Laptop 15  Mochila Unisex  Verde
 
 ℹ️:
 
-- Tamaño: 40 cm x 28 cm x 16 cm
 - Refinado mochila
-- Material exterior: G-1000 Lite Eco: 65% poliéster, 35% algodón, G-1000 HeavyDuty: 65% poliéster, 35% algodón
 - Peso: 750 g
+- Material exterior: G-1000 Lite Eco: 65% poliéster, 35% algodón, G-1000 HeavyDuty: 65% poliéster, 35% algodón
+- Tamaño: 40 cm x 28 cm x 16 cm
 - Volumen: 18 L
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01E3W6PY0/?tag=tolees-21)

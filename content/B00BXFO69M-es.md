@@ -29,8 +29,8 @@ Tienes [La Roche Posay Leche Desmaquillante Fisiológica. - 200 ml](https://www.
 🔎:
 
 - Marca, La Roche Posay
-- Producto pensado para mujeres
-- Tipo de producto, Desmaquillante
 - La Roche Posay es un nombre de marca reconocido
+- Tipo de producto, Desmaquillante
+- Producto pensado para mujeres
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00BXFO69M/?tag=tolees-21)

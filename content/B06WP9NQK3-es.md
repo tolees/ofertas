@@ -28,10 +28,10 @@ En este momento está [Extensor de HDMI MiraBox con Extractor de Audio a través
 
 🔎:
 
+- ● Extractor de audio: el convertidor extractor de audio estéreo de 3,5 mm satisface la necesidad de extraer audio de la fuente HDMI. Puede extraer la señal de audio digital integrada en la fuente HDMI y convertirla a través de una salida de audio analógico de 3.5 mm.
 - ● Latencia de tiempo más baja: la capacidad de procesamiento de gran alcance mantiene una latencia de video inferior a <150 ms.
-- ● Modo de trabajo y distancia: admite el modo punto a punto hasta 150 m sobre el cable Cat 6 para HD 1080P completo.
 - ● Lo que obtienes: 1 x transmisor HDMI; 1 x receptor HDMI, 2 x DC5V / 1A adaptador de corriente, 1 x manual del usuario.Consejos:El ancho de banda de un transmisor es de aproximadamente 100 Mbps, por lo que le recomendamos que utilice un conmutador / enrutador separado. para conectar el transmisor y los receptores múltiples, o reducirán su velocidad de Internet.Y la longitud del cable CAT entre el emisor HDMI o el receptor HDMI y el conmutador / enrutador es inferior a 100 m.
 - ● Fuente de alimentación de amplio rango: Admite una fuente de alimentación de rango amplio de 5V-12V, blindaje de aleación de aluminio montable, adecuado para diversos escenarios de aplicación.
-- ● Extractor de audio: el convertidor extractor de audio estéreo de 3,5 mm satisface la necesidad de extraer audio de la fuente HDMI. Puede extraer la señal de audio digital integrada en la fuente HDMI y convertirla a través de una salida de audio analógico de 3.5 mm.
+- ● Modo de trabajo y distancia: admite el modo punto a punto hasta 150 m sobre el cable Cat 6 para HD 1080P completo.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B06WP9NQK3/?tag=tolees-21)

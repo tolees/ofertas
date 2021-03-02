@@ -28,10 +28,10 @@ Ahora mismo tienes [adidas Solid CLX SH SL Bañador  Hombre  rossen  XS](https:/
 
 🔎:
 
-- Tejido técnico 100% poliéster reciclado
 - Tejido suave de secado rápido muy resistente al desgaste
+- Tejido técnico 100% poliéster reciclado
 - Calzoncillo interior de malla
-- Cintura elástica con cordón interior
 - Bañador perfecto para la playa o la piscina
+- Cintura elástica con cordón interior
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08CBW2YTX/?tag=tolees-21)
