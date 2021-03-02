@@ -28,9 +28,9 @@ En este momento está [Farmatint Champú  96.5% ingredientes naturales  fortalec
 
 🔎:
 
+- 96,2% ingredientes naturales
 - Champú reparador del cabello: fortalece y nutre el cabello
 - Aporta volumen y brillo
-- 96,2% ingredientes naturales
 - Enriquecido con agua frutal de limón y extracto de lino
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07R48GSGP/?tag=tolees-21)

@@ -28,8 +28,8 @@ Tienes [D-Link DSP-W115 - Enchufe Inteligente WiFi  Control Desde móvil o Table
 
 ℹ️:
 
-- Se conecta por WiFi al router de su casa u oficina
 - Interactúa con otros dispositivos de la familia de productos mydlink, de forma que puede encenderse una luz cuando la cámara detecta movimiento, y acciones similares
+- Se conecta por WiFi al router de su casa u oficina
 - Encienda o apague los electrodomésticos conectados a este dispositivo, desde su teléfono inteligente o tableta, ya sea en casa o desde fuera
 - Este Smart Plug funciona con Alexa o Google Home y permite controlar cualquier enchufe con la voz, siendo compatible también con IFTTT
 - Programe el encendido de lámparas o calefactores para que se enciendan y apaguen automáticamente a la hora que decida

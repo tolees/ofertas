@@ -28,12 +28,12 @@ Está [Sony MDR-EX15AP - Auriculares in-ear  con micrófono   negro](https://www
 
 ℹ️:
 
-- Disponible en diversos colores
-- Tipo de conectividad: Alámbrico
+- Longitud del cable: 1.2
+- Diafragmas de neodimio (9 mm)
 - Rango de frecuencia 8 hz-22 khz
 - Auriculares internos ligeros con diafragma de 9 mm, 8 hz-22 khz, tapones de silicona, diversos colores
-- Longitud del cable: 1.2
 - Dispositivos compatibles: Todos los dispositivos jack 3,5 mm
-- Diafragmas de neodimio (9 mm)
+- Disponible en diversos colores
+- Tipo de conectividad: Alámbrico
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00I3LV1HE/?tag=tolees-21)
