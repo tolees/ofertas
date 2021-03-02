@@ -28,9 +28,9 @@ Tienes [adidas CORE18 JSY T-Shirt  Hombre  White/Black  L](https://www.amazon.es
 
 ℹ️:
 
+- Con tecnología Climalite que elimina el sudor
 - Ofrece libertad de movimiento
 - Camiseta de manga corta para hombre
 - Tiene el logotipo de Adidas en el pecho
-- Con tecnología Climalite que elimina el sudor
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B076HQSW45/?tag=tolees-21)

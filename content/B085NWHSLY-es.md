@@ -28,9 +28,9 @@ Tienes [SoriaNatural - Soria Natural – PROPOLEO S. XXI – Complemento aliment
 
 ℹ️:
 
+- INGREDIENTE NATURAL - El propóleo es una sustancia natural creada por las abejas
+- FÁCIL DE USAR - Vía oral. Agitar muy bien antes de tomar. Adultos: Tomar 1 ml (20 gotas) diluido en agua, zumo o infusión, 3 veces al día.
 - Tomar 1 FABRICANTE CERTIFICADO - Nuestro suplemento de propóleo de abeja se fabrica en el España.
 - PROPÓLEO DE ABEJA - El suplemento alimenticio Soria Natural, ofrece 50 ml de propóleo por envase y con la dosis diaria de 3 ml tiene una duracion de mas de 15 dias.
-- FÁCIL DE USAR - Vía oral. Agitar muy bien antes de tomar. Adultos: Tomar 1 ml (20 gotas) diluido en agua, zumo o infusión, 3 veces al día.
-- INGREDIENTE NATURAL - El propóleo es una sustancia natural creada por las abejas
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B085NWHSLY/?tag=tolees-21)

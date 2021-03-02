@@ -28,10 +28,10 @@ Está [Gearbox Publishing - Hello Neighbor](https://www.amazon.es/dp/B07GPWSRC1/
 
 ℹ️:
 
+- Te mudas a un nuevo barrio y descubres que tu vecino está escondiendo algo en el sótano. Lo más lógico es entrar en su casa y averiguar lo que está ocultando…
 - Ambiente interactivo.
+- La inteligencia artificial del vecino aprende de tus tácticas y evoluciona.
 - Juego extremadamente tenso, pero apto para familias.
 - Un thriller psicológico de sigilo y suspense que se centra en fisgonear la casa de tu vecino.
-- La inteligencia artificial del vecino aprende de tus tácticas y evoluciona.
-- Te mudas a un nuevo barrio y descubres que tu vecino está escondiendo algo en el sótano. Lo más lógico es entrar en su casa y averiguar lo que está ocultando…
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07GPWSRC1/?tag=tolees-21)

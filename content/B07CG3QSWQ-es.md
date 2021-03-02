@@ -28,7 +28,7 @@ En este momento está [Jack & Jones Jjebasic Knit Crew Neck Noos suéter  Negro 
 
 🔎:
 
-- Jersey de Jack & Jones.
 - De algodón.
+- Jersey de Jack & Jones.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07CG3QSWQ/?tag=tolees-21)

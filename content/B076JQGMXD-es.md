@@ -28,9 +28,9 @@ Está [adidas BECKENBAUER TT Sweatshirt  Hombre  Black  M](https://www.amazon.es
 
 ℹ️:
 
-- Tiene un pequeño logotipo de Adidas bordado
 - Con cuello alto y dos bolsillos frontales con cremallera
 - Chaqueta de manga larga para hombres
 - Cuenta con una cremallera frontal completa
+- Tiene un pequeño logotipo de Adidas bordado
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B076JQGMXD/?tag=tolees-21)
