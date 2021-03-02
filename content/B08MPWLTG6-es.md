@@ -28,10 +28,10 @@ Está [MHHQ Funda para Xiaomi Redmi Note 8T Cuero Carcasa Libro con Tapa Folio C
 
 ℹ️:
 
-- ❀Precisa Incisión encajar bien con su teléfono,Fácil acceso a todos los botones y funciones,controles y puertos.
-- ❀Soporte ajustable, ideal para ver videos, ver películas, escuchar música o navegar por el sitio web.
-- ❀Material:PU cuero + suave TPU
-- ❀Construir en las ranuras para tarjeta para llevar convenientemente identificación, dinero y tarjetas de crédito.
 - ❀El diseño único permite un fácil acceso a todos los botones, controles y puertos sin tener que quitar el funda,todas las conexiones quedan perfectamente accesibles y garantizan el uso.
+- ❀Precisa Incisión encajar bien con su teléfono,Fácil acceso a todos los botones y funciones,controles y puertos.
+- ❀Construir en las ranuras para tarjeta para llevar convenientemente identificación, dinero y tarjetas de crédito.
+- ❀Material:PU cuero + suave TPU
+- ❀Soporte ajustable, ideal para ver videos, ver películas, escuchar música o navegar por el sitio web.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08MPWLTG6/?tag=tolees-21)
