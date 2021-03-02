@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Levi s Otis Beanie  Gorro de punto Unise al 45.05 % de rebaja'
-date: 2021-02-11 20:11:19
-image: 'https://m.media-amazon.com/images/I/61JYDcaEVRL._SL200_.jpg'
+date: 2021-03-02 12:46:48
+image: 'https://m.media-amazon.com/images/I/61JYDcaEVRL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.99'
 
 Tienes [Levi s Otis Beanie  Gorro de punto Unisex adulto  Gris  Unidentified   Medium  Talla del fabricante: S/M ](https://www.amazon.es/dp/B00N4ZVQQK/?tag=tolees-21) con precio final de  10.99 EUR (original: 20.0 EUR) (45.05 %  de rebaja) aqui!
 
-[![Levi s Otis Beanie  Gorro de punto Unise](https://m.media-amazon.com/images/I/61JYDcaEVRL._SL200_.jpg)](https://www.amazon.es/dp/B00N4ZVQQK/?tag=tolees-21)
+[![Levi s Otis Beanie  Gorro de punto Unise](https://m.media-amazon.com/images/I/61JYDcaEVRL._SL400_.jpg)](https://www.amazon.es/dp/B00N4ZVQQK/?tag=tolees-21)
 
 🔎:
 

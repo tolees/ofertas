@@ -28,8 +28,8 @@ Tienes [adidas Power Tank W Top  Mujer  Black  XL](https://www.amazon.es/dp/B089
 
 🔎:
 
-- Regular fit
 - Breathable fabric
+- Regular fit
 - Great freedom of movement
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B089Z9JBPJ/?tag=tolees-21)
