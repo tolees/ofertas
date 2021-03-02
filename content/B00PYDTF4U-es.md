@@ -28,12 +28,12 @@ Tienes [Nike MD Runner 2  Zapatillas para Hombre  Black/White Anthracite  42.5 E
 
 🔎:
 
-- Diseño de malla para una comodidad con ventilación
-- Revestimientos de ante para mejorar la sujeción y la durabilidad
-- Suela exterior de goma con diseño tipo gofre para la máxima tracción y durabilidad
-- Mediasuela de espuma que aporta una amortiguación ligera
-- Material interior: sintético
 - Adecuado para: hombre
+- Material interior: sintético
+- Mediasuela de espuma que aporta una amortiguación ligera
+- Suela exterior de goma con diseño tipo gofre para la máxima tracción y durabilidad
+- Revestimientos de ante para mejorar la sujeción y la durabilidad
 - Zapatillas deportivas
+- Diseño de malla para una comodidad con ventilación
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00PYDTF4U/?tag=tolees-21)

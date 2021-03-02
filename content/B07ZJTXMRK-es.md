@@ -28,8 +28,8 @@ Ahora mismo tienes [Levi s The Perfect tee Camiseta  Box Tab White+  M para Muje
 
 🔎:
 
-- Modelo casual
 - Con tacto suave de forro polar
+- Modelo casual
 - Tiene estampado la marca Levis
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07ZJTXMRK/?tag=tolees-21)

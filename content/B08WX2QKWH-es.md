@@ -28,8 +28,8 @@ Ahora mismo tienes [/N El Material Impermeable de poliéster para Cortina de Duc
 
 🔎:
 
-- Inodoro, no tóxico, ecológico, mantenga su baño fresco, seco y limpio.
 - Limpieza de la cortina de la ducha: use vinagre para eliminar las burbujas de jabón de la cortina de la ducha. Elimine el óxido y la grasa. Haga que la cortina de la ducha se vea nueva.
+- Inodoro, no tóxico, ecológico, mantenga su baño fresco, seco y limpio.
 - Material de la cortina de ducha: cloruro de polivinilo (PVC), material de protección ambiental PEVA, puede tener diferentes colores y diseños de acuerdo con diferentes estilos de baño.
 - Mantenimiento de la cortina de ducha: después de la ducha, la cortina de la ducha debe abrirse para permitir la circulación del aire y evitar la humedad. La puerta de la ducha debe limpiarse regularmente con un detergente o un paño empapado en agua con vinagre para evitar la formación de incrustaciones.
 - Su satisfacción es nuestra principal prioridad. Si no está completamente satisfecho con nuestros productos después de recibir esta cortina de baño, envíenos un correo electrónico y haremos todo lo posible para ayudarlo.

@@ -28,10 +28,10 @@ En este momento está [adidas Duramo SL  Zapatillas Hombre  NEGBÁS/NEGBÁS/GRIS
 
 🔎:
 
+- Diseño ligero
 - Parte superior de malla
+- Zapatilla de running versátil
 - Cierre de cordones
 - Horma clásica
-- Zapatilla de running versátil
-- Diseño ligero
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0834BKDD8/?tag=tolees-21)
