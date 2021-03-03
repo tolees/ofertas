@@ -28,10 +28,10 @@ Está [Lékué Vaporera Verde  Silicona  24 cm](https://www.amazon.es/dp/B007F6E
 
 ℹ️:
 
-- Es resistente a temperaturas de hasta 220º C, por lo que se puede utilizar también para hornear o recalentar los alimentos preparados
 - Se adapta a todas las macetas con un diámetro de 20 a 22 cm
+- Es resistente a temperaturas de hasta 220º C, por lo que se puede utilizar también para hornear o recalentar los alimentos preparados
 - Dispone de dos niveles para la preparación simultánea de dos platos
-- Conserva la mayoría de los nutrientes de los alimentos y mejora el sabor sin añadir grasa
 - Se puede utilizar en el microondas y en el lavavajillas
+- Conserva la mayoría de los nutrientes de los alimentos y mejora el sabor sin añadir grasa
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B007F6ENBO/?tag=tolees-21)

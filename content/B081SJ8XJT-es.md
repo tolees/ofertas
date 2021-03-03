@@ -28,9 +28,9 @@ En este momento está [Nupuyai - Figura de tortuga con piedras preciosas  amulet
 
 🔎:
 
-- La tortuga es un símbolo de salud y durabilidad y tiene la espiritualidad, predecir el futuro. Puede traer mucha suerte a las personas.
-- Estatua de tortuga tallada a mano. Acabado exquisito, se siente bien en la mano. Dado que cada figura de tortuga está hecha a mano, por favor, tenga en cuenta que puede haber variaciones en color, tamaño y forma.
 - Mini figura – se puede llevar como amuleto de la suerte en su bolso contigo; en su coche, para ayudar a conducir y proteger viajes; como una hermosa decoración o decoración Feng Shui en su escritorio o encimera.
+- La tortuga es un símbolo de salud y durabilidad y tiene la espiritualidad, predecir el futuro. Puede traer mucha suerte a las personas.
 - Viene con una bonita bolsa de regalo, es un regalo ideal para cumpleaños, Navidad, Acción de Gracias, etc.
+- Estatua de tortuga tallada a mano. Acabado exquisito, se siente bien en la mano. Dado que cada figura de tortuga está hecha a mano, por favor, tenga en cuenta que puede haber variaciones en color, tamaño y forma.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B081SJ8XJT/?tag=tolees-21)

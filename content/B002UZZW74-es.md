@@ -28,8 +28,8 @@ Tienes [Collistar - LEA crema de afeitar piel sensible con brocha caja 100 ml](h
 
 🔎:
 
-- Marca : Collistar
-- Tipo de producto: crema de afeitar
 - Género : hombre
+- Tipo de producto: crema de afeitar
+- Marca : Collistar
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B002UZZW74/?tag=tolees-21)

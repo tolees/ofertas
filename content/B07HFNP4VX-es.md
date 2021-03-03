@@ -28,14 +28,14 @@ Tienes [OnePlus 6T - Smartphone 6GB+128GB  Color Negro  Mirror Black ](https://w
 
 🔎:
 
+- Corning Gorilla Glass 6 tanto en el frontal como en la parte trasera del teléfono para un acabado resistente y elegante
+- Lector de huellas en pantalla
+- Cámara dual 16mp + 20mp con estabilización óptica de imagen, modo retrato, modo noche y cámara lenta
+- Resistente al agua para uso diario
+- Oneplus fast charging proporciona un día de batería en media hora
 - Alert slider te ayuda para reducir distracciones y verlas cuando lo necesitas
 - Soporte Dual-SIM permite cambiar entre operadores con facilidad
-- Corning Gorilla Glass 6 tanto en el frontal como en la parte trasera del teléfono para un acabado resistente y elegante
-- Resistente al agua para uso diario
-- Cámara dual 16mp + 20mp con estabilización óptica de imagen, modo retrato, modo noche y cámara lenta
 - Snapdragon 845/ gpu adreno 630
-- Lector de huellas en pantalla
-- Oneplus fast charging proporciona un día de batería en media hora
 - Pantalla 19.5:9 optic amoled que proporciona nuestra experiencia más immersiva hasta la fecha
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07HFNP4VX/?tag=tolees-21)
