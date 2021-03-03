@@ -28,10 +28,10 @@ Está [Compo Tipo de Frutas y Verduras  Fertilizante líquido Natural  1 L](http
 
 ℹ️:
 
-- Calidad Compo: materias primas seleccionadas según la receta original de Compo, estrictos controles de calidad por parte de laboratorios e institutos independientes, las adecuadas condiciones para el crecimiento saludable de las plantas
-- Frutas y verduras sanas y aromáticas: abono ecológico con potasio para todo tipo de frutas y verduras, materias 100% naturales, práctico dosificador
-- Contenido: 1 x Compo fertilizante para todo tipo de frutas y verduras, fertilizante líquido natural, 1 litro
 - Crecimiento fuerte: fórmula activa natural que suministra los nutrientes necesarios desde la primera aplicación, para un desarrollo saludable de plantas y frutos aromáticos
 - Fácil de utilizar: dosificación limpia y segura según las etapas I a III marcadas en la tapa (para 1, 1.5 y 2 litros de agua), tapón lleno para 3.5 litros de agua, uso estacional 1-2 veces x semana (marzo a octubre)
+- Frutas y verduras sanas y aromáticas: abono ecológico con potasio para todo tipo de frutas y verduras, materias 100% naturales, práctico dosificador
+- Calidad Compo: materias primas seleccionadas según la receta original de Compo, estrictos controles de calidad por parte de laboratorios e institutos independientes, las adecuadas condiciones para el crecimiento saludable de las plantas
+- Contenido: 1 x Compo fertilizante para todo tipo de frutas y verduras, fertilizante líquido natural, 1 litro
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00VK1YOFA/?tag=tolees-21)

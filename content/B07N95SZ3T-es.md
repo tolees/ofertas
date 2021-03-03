@@ -28,7 +28,7 @@ En este momento está [Vero Moda VMGAVA SS Dress VMA Noos Vestido  Negro  Black 
 
 🔎:
 
-- maxi T-shirt dress
 - single-colored long dress
+- maxi T-shirt dress
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07N95SZ3T/?tag=tolees-21)

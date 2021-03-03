@@ -28,11 +28,11 @@ Tienes [Seiko Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxida
 
 🔎:
 
-- Carcasa de acero inoxidable
 - Tapa atornillada
 - Resistente al agua hasta 100 metros
 - Correa de metal con cierre desplegable
 - Cristal de zafiro
 - 40,0 x 10,0 mm
+- Carcasa de acero inoxidable
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07W7TVVL9/?tag=tolees-21)

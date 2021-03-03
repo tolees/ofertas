@@ -29,7 +29,7 @@ Ahora mismo tienes [Wow Wee - Wowwee- Nelly Mascota Interactiva  Color morado co
 🔎:
 
 - Modelo del producto 3696
-- Producto de la marca Wowwee
 - Mascota interactiva
+- Producto de la marca Wowwee
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07HGS1K87/?tag=tolees-21)
