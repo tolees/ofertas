@@ -28,8 +28,8 @@ Ahora mismo tienes [Hurley M Phtm One&Only 18  Bañador  Hombre  Orange Trance  
 
 🔎:
 
-- Nuevo tejido Phantom más elástico y duradero que nunca.
-- Tejido Phantom actualizado que se adhiere menos a la piel tras haberse mojado.
 - Dobladillo festoneado con ribete
+- Tejido Phantom actualizado que se adhiere menos a la piel tras haberse mojado.
+- Nuevo tejido Phantom más elástico y duradero que nunca.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B085LSS6X2/?tag=tolees-21)

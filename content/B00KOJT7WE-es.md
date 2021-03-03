@@ -28,9 +28,9 @@ Ahora mismo tienes [Columbia Woodburn II  Zapatillas Hombre  Negro  Black Carame
 
 🔎:
 
-- Cierre: Cordones
 - Revestimiento: Sintético
 - Material de la suela: Goma
+- Cierre: Cordones
 - Material exterior: Cuero
 - Tipo de tacón: Plano
 

@@ -28,10 +28,10 @@ Ahora mismo tienes [KKmoon Extensor de Rango Inalámbrico de 300 Mbps Repetidor 
 
 🔎:
 
-- COMPACT USB Plug Diseño: La enchufe USB para la alimentación suply lo hace flexible de usar. Es posible conectarlo a la toma, al ordenador, la televisión, la potencia móvil y otros.
 - Seguridad inalámbrica: admite estándar de cifrado WEP/WPA-PSK/WPA2-PSK a 64/128 bits para proteger tus datos importantes. Un botón para conectar WPS.
-- Velocidad de transmisión rápida: WLAN 802.11 N para un acceso inalámbrico de alta velocidad de hasta 300 Mbps, ideal para streaming vídeo, el juego en línea y la llamada a Internet.
-- Transmisión inalámbrica 802.11 N: El repetidor WiFi soporta los estándar de transmisión inalámbrica 802.11 N y es compatible con los estándar IEEE802.11b/g.
 - Ampliar la cobertura inalámbrica: especialmente diseñado para ampliar la gama WiFi y proporcionar un señal inalámbrica fiable en áreas difíciles de alcanzar en forma perfecta.
+- Velocidad de transmisión rápida: WLAN 802.11 N para un acceso inalámbrico de alta velocidad de hasta 300 Mbps, ideal para streaming vídeo, el juego en línea y la llamada a Internet.
+- COMPACT USB Plug Diseño: La enchufe USB para la alimentación suply lo hace flexible de usar. Es posible conectarlo a la toma, al ordenador, la televisión, la potencia móvil y otros.
+- Transmisión inalámbrica 802.11 N: El repetidor WiFi soporta los estándar de transmisión inalámbrica 802.11 N y es compatible con los estándar IEEE802.11b/g.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B076HWZT62/?tag=tolees-21)
