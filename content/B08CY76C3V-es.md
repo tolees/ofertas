@@ -28,10 +28,10 @@ En este momento está [Hurley M DF Universal Tiger PO](https://www.amazon.es/dp/
 
 🔎:
 
-- La tecnología Nike Dri-FIT te ayuda a mantenerte seco, cómodo y concentrado.
-- 62 % Algodón / 38 % Poliéster / 270 gsm.
 - Corte Regular.
-- Polar de mezcla de fibra natural.
+- 62 % Algodón / 38 % Poliéster / 270 gsm.
+- La tecnología Nike Dri-FIT te ayuda a mantenerte seco, cómodo y concentrado.
 - Etiqueta One & Only cosida. Logo Nike Dri-FIT impreso con calor.
+- Polar de mezcla de fibra natural.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CY76C3V/?tag=tolees-21)

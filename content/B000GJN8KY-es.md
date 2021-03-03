@@ -28,8 +28,8 @@ En este momento está [Solgar Fórmula Estética  suplemento alimenticio  paquet
 
 🔎:
 
+- Complemento alimenticio a base de MSM, Alga L. calcareum, Vitamina C, Zinc, Cobre, L-Lisina y L-Prolina
 - IMPORTANTE: Recomendamos devolver el producto si difiere del nombre y la foto mostrada
 - No contiene derivados animales y es adecuado para vegetarianos y veganos.
-- Complemento alimenticio a base de MSM, Alga L. calcareum, Vitamina C, Zinc, Cobre, L-Lisina y L-Prolina
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B000GJN8KY/?tag=tolees-21)

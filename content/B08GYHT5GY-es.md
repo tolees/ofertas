@@ -28,9 +28,9 @@ Tienes [Hurley M Jammer Stripe L/S Light Bone](https://www.amazon.es/dp/B08GYHT5
 
 ℹ️:
 
-- Tejido de jersey 150 g.
 - 100 % Algodón.
-- Etiqueta con el logotipo de Hurley.
 - Estampado suave al tacto.
+- Etiqueta con el logotipo de Hurley.
+- Tejido de jersey 150 g.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08GYHT5GY/?tag=tolees-21)
