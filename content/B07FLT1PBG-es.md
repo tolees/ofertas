@@ -30,8 +30,8 @@ Está [CYBEX Gold Capazo S Scuderia Ferrari  desde el nacimiento hasta los 6 mes
 
 - Contenido: 1 Capazo S Scuderia Ferrari, Material funda: 100% Poliéster, Dimensiones (Al x An x P): 88 x 41 x 58.5 cm, Peso: 4.4 kg, Color: Racing Red
 - Fácil limpieza: Funda fácil de quitar y apta para lavar a máquina hasta 30°C
-- Amplio y confortable capazo para recién nacidos hasta 6 meses aprox. (9 kg), Compatible con Balios S
 - Gran capota con protección UPF50+ que protegerá bebé del sol, del viento y de la lluvia; asas de transporte y sistema de clic para colocarlo en la Balios S
+- Amplio y confortable capazo para recién nacidos hasta 6 meses aprox. (9 kg), Compatible con Balios S
 - Práctico y cómodo para los padres y los bebés; instalación muy sencilla y rápida; confort óptimo para el bebé gracias a su colchón viscoelástico
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07FLT1PBG/?tag=tolees-21)

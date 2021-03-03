@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nike Revolution 5  Running Shoe  Black W con un 40.01 % de descuento'
-date: 2021-03-01 10:26:42
+date: 2021-03-03 07:45:57
 image: 'https://m.media-amazon.com/images/I/4134hXg9vkL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'NIKE'
 buyurl: 'https://www.amazon.es/dp/B07NMGL9Y8/?tag=tolees-21'
 descuento: '40.01'
-average: '24.495'
+average: '23.794'
 ---
 
 En este momento está [Nike Revolution 5  Running Shoe  Black White Anthracite  28 EU](https://www.amazon.es/dp/B07NMGL9Y8/?tag=tolees-21) a 20.99 EUR (original: 34.99 EUR) (40.01 %  de descuento) en el siguiente enlace!

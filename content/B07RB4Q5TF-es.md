@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 47.73 % en Marvel - Vengadores: Endgame [DVD]'
-date: 2021-02-27 07:26:22
+title: 'Descuento del 62.82 % en Marvel - Vengadores: Endgame [DVD]'
+date: 2021-03-03 07:30:04
 image: 'https://m.media-amazon.com/images/I/51ud1JVwWoL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: ring
 slug: 'B07RB4Q5TF-es Marvel - Vengadores: Endgame [DVD]'
 sku: 'B07RB4Q5TF-es'
 tags: [  ]
-actualPrice: 10.95 EUR
+actualPrice: 7.79 EUR
 currency: EUR
-price: 10.95
+price: 7.79
 comparePrice: 20.95 EUR
 prodname: 'Marvel - Vengadores: Endgame [DVD]'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Marvel'
 buyurl: 'https://www.amazon.es/dp/B07RB4Q5TF/?tag=tolees-21'
-descuento: '47.73'
-average: '11.4753448275862'
+descuento: '62.82'
+average: '11.4128813559322'
 ---
 
-Tienes [Marvel - Vengadores: Endgame [DVD]](https://www.amazon.es/dp/B07RB4Q5TF/?tag=tolees-21) con un 47.73 % de descuento con precio de oferta de 10.95 EUR (original: 20.95 EUR) en el siguiente enlace!
+Tienes [Marvel - Vengadores: Endgame [DVD]](https://www.amazon.es/dp/B07RB4Q5TF/?tag=tolees-21) con un 62.82 % de descuento con precio de oferta de 7.79 EUR (original: 20.95 EUR) en el siguiente enlace!
 
 [![Marvel - Vengadores: Endgame [DVD]](https://m.media-amazon.com/images/I/51ud1JVwWoL._SL400_.jpg)](https://www.amazon.es/dp/B07RB4Q5TF/?tag=tolees-21)
 

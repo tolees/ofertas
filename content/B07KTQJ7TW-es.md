@@ -29,9 +29,9 @@ Ahora mismo tienes [Hugo BOSS Reloj de pulsera 1513665](https://www.amazon.es/dp
 🔎:
 
 - Movimiento cronógrafo
+- Esfera azul
 - 5 ATM de resistencia al agua
 - Pulsera de acero inoxidable
 - Grosor de la caja de 11,15mm
-- Esfera azul
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07KTQJ7TW/?tag=tolees-21)
