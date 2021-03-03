@@ -29,8 +29,8 @@ Tienes [TRIXIE Cama Suave  Cobayas  30 x 22 cm  Gris-Verde  Pequeños Mamíferos
 ℹ️:
 
 - reversible
-- relleno fibra de poliéster (en una sola pieza)
-- nylon/imitación borreguillo
 - funda poliéster
+- nylon/imitación borreguillo
+- relleno fibra de poliéster (en una sola pieza)
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000OLYCRC/?tag=tolees-21)

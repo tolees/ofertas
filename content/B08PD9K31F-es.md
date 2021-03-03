@@ -28,10 +28,10 @@ Está [Harry Bear Mochila para Niños Juego de Azar](https://www.amazon.es/dp/B0
 
 ℹ️:
 
-- Personalice el suyo con una escritura en la etiqueta de identificación
 - ¡A Harry Bear le encanta hacer mochilas para exploradores!
-- Dimensiones aproximadas: H: 37 x W: 28 x D: 8cm
 - Correas acolchadas y ajustables para mayor comodidad
+- Personalice el suyo con una escritura en la etiqueta de identificación
+- Dimensiones aproximadas: H: 37 x W: 28 x D: 8cm
 - Con bolsillos elásticos en el compartimento principal y lateral, y un bolsillo con cremallera en la parte delantera
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08PD9K31F/?tag=tolees-21)
