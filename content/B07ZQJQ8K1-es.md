@@ -28,7 +28,7 @@ Está [Vero Moda Vmtanya Plain LS Shirt Ga Color Blusa  Negro  Black Black   Med
 
 ℹ️:
 
-- Elegant be
 - Be with cuffs
+- Elegant be
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07ZQJQ8K1/?tag=tolees-21)

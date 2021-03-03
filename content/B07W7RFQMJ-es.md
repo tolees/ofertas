@@ -28,8 +28,8 @@ Ahora mismo tienes [Lee Ivy Vaqueros  Negro  Washed Black Li   27W / 33L para Mu
 
 🔎:
 
+- Tienen un parche de piel en la parte trasera con la marca Lee
 - Vaqueros para mujer
 - Estilo 5 bolsillos
-- Tienen un parche de piel en la parte trasera con la marca Lee
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07W7RFQMJ/?tag=tolees-21)

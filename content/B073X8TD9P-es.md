@@ -28,10 +28,10 @@ Tienes [Lotus Watches Reloj Análogo clásico para Mujer de Cuarzo con Correa en
 
 🔎:
 
+- Caja Acero inoxidable, esfera Negro
 - Brazalete Plateado Acero inoxidable
+- Resistente al agua: 50m
 - Diámetro caja: 29mm
 - Movimiento Cuarzo
-- Resistente al agua: 50m
-- Caja Acero inoxidable, esfera Negro
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B073X8TD9P/?tag=tolees-21)

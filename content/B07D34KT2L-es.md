@@ -29,7 +29,7 @@ Ahora mismo tienes [Element Stark Chaquetas  Hombre  Negro  Flint Black   XS](ht
 🔎:
 
 - 3000 mm impermeable
-- Chaqueta con capucha ajustable
 - Forrado con borrego
+- Chaqueta con capucha ajustable
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07D34KT2L/?tag=tolees-21)

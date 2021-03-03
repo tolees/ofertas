@@ -28,8 +28,8 @@ Tienes [TRIXIE Bozal Lazo Nylon  Entrenamiento  L  18-30 cm  Negro  Perro](https
 
 🔎:
 
-- anilla con forma D que permite dirigir la cabeza y da mejor control
 - con acolchado de Neopreno extra suave
+- anilla con forma D que permite dirigir la cabeza y da mejor control
 - de nylon
 - tiras de cierre completamente ajustables al cuello
 - muy cómodo de llevar

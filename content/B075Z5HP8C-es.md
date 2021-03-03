@@ -28,7 +28,7 @@ En este momento está [Vero Moda Vmsophia HW Skinny Jeans Lt Bl Noos Ci Vaqueros
 
 🔎:
 
-- high-waist skinny jeans
 - elastic cotton mixture
+- high-waist skinny jeans
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B075Z5HP8C/?tag=tolees-21)
