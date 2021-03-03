@@ -28,10 +28,10 @@ En este momento está [GORE WEAR Chaqueta térmica de ciclismo para hombre  C3  
 
 🔎:
 
-- GORE-TEX INFINIUM con tecnología WINDSTOPPER: cortaviento, altamente resistente al agua y extremadamente transpirable
+- GORE C3 Chaqueta térmica GORE-TEX INFINIUM, Talla: L, Color: Amarillo neón/Negro, 100644
 - Cálida chaqueta de hombre, Ideal para condiciones climáticas frías
 - Talle recto para un ajuste ceñido y excelente movilidad/Corte específico para ciclismo
 - Bolsillo posterior de 3 compartimentos antisalpicaduras, Parte posterior alargada, Forro polar para mantener el calor
-- GORE C3 Chaqueta térmica GORE-TEX INFINIUM, Talla: L, Color: Amarillo neón/Negro, 100644
+- GORE-TEX INFINIUM con tecnología WINDSTOPPER: cortaviento, altamente resistente al agua y extremadamente transpirable
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B082YD3MDJ/?tag=tolees-21)
