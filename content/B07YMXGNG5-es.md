@@ -28,8 +28,8 @@ Tienes [Hurley M Phtm Exotic 18  Bañador  Hombre  Lotus Pink  38](https://www.a
 
 ℹ️:
 
-- El tejido Phantom es de secado rápido y elástico en cuatro direcciones para máxima comodidad y movilidad
 - Largo de 46 cm por encima de la rodilla para mayor libertad de movimiento
 - Ajuste normal
+- El tejido Phantom es de secado rápido y elástico en cuatro direcciones para máxima comodidad y movilidad
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07YMXGNG5/?tag=tolees-21)

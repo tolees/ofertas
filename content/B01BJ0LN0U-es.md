@@ -28,7 +28,7 @@ Tienes [NGS - MONRAY PASSANGER Plus - Maletín de nylon para ordenador portatil 
 
 ℹ️:
 
-- NGS
 - MONRAY PASSENGER PLUS
+- NGS
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01BJ0LN0U/?tag=tolees-21)
