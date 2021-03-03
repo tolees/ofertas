@@ -29,13 +29,13 @@ En este momento está [Hurley M OneOnly Icon L/S  Light Bone](https://www.amazon
 🔎:
 
 - Tejido de jersey 150 g
-- Closure: pull on
-- Etiqueta con el logotipo de hurley
-- Manga larga
 - 100 % algodón
-- Tipo de fábrica: 100% Algodón
-- T-shirt
-- Lavar a máquina
+- Manga larga
 - Estampado suave al tacto
+- Closure: pull on
+- T-shirt
+- Tipo de fábrica: 100% Algodón
+- Etiqueta con el logotipo de hurley
+- Lavar a máquina
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08BKLLJXM/?tag=tolees-21)

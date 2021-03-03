@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Trilogía Planeta De Los Simios Blu-Ray [ al 33.33 % de descuento'
-date: 2021-03-01 18:22:51
+date: 2021-03-03 03:25:40
 image: 'https://m.media-amazon.com/images/I/51eO-Bq5rIL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B075GMYW71/?tag=tolees-21'
 descuento: '33.33'
-average: '11.0584615384615'
+average: '11.4026666666666'
 ---
 
 Está [Trilogía Planeta De Los Simios Blu-Ray [Blu-ray]](https://www.amazon.es/dp/B075GMYW71/?tag=tolees-21) con 33.33 de descuento por 13.64 EUR (original: 20.46 EUR) en el siguiente enlace!
