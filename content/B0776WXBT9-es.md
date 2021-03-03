@@ -28,9 +28,9 @@ Tienes [Adidas Daily 2.0  Zapatillas Hombre  Gris  Grey/Footwear White/Footwear 
 
 🔎:
 
-- Ventilación Climacool.
 - Bolsillos en la costura lateral.
-- Manga corta.
 - Cuello redondo de canalé.
+- Manga corta.
+- Ventilación Climacool.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0776WXBT9/?tag=tolees-21)
