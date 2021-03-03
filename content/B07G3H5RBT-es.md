@@ -28,8 +28,8 @@ Tienes [SanDisk Extreme PRO - Tarjeta de memoria microSDXC de 128 GB con adapta
 
 ℹ️:
 
-- Fabricadas para ser usadas en condiciones difíciles y sometidas a ensayos en dichas condiciones; resistentes a temperatura, agua, golpes y rayos X
 - Categoría A2 para una carga y un rendimiento de la aplicación más rápidos
+- Fabricadas para ser usadas en condiciones difíciles y sometidas a ensayos en dichas condiciones; resistentes a temperatura, agua, golpes y rayos X
 - Hasta 170 MB/s de velocidad de lectura y 90 MB/s de velocidad de escritura para disparar y transferir rápido
 - Compatible con microSDHC, microSDXC, microSDHC UHS-I3, microSDXC UHS-I3, microSDHC UHS-II y microSDXC UHS-II que admiten cámaras de acción, cámaras con lentes intercambiables, drones, teléfonos inteligentes y dispositivos host de tableta
 

@@ -28,14 +28,14 @@ Ahora mismo tienes [BaByliss ST481E Pure Metal Plancha de pelo profesional 2 en 
 
 🔎:
 
-- Función iónica anti-encrespamiento, puntas de silicona aislantes extraíbles
-- Placas de 28mm de titanio
-- Punta de agarre frío
-- Función Curler: carcasa exterior curva se calienta hasta 110ºC para usarla como tenacilla; ondas y rizos duraderos
-- Cable giratorio profesional de 3 m
-- Placas de cerámica extra largas 28 x 120 mm con efecto TOP COAT que prolonga la duración del peinado
-- Plancha de pelo con 5 ajustes de temperatura de 150º a 230 °C
-- Sistema de calentamiento Advanced Ceramics
 - Recubrimiento Diamond Cerámica: distribución del calor homogénea
+- Placas de 28mm de titanio
+- Plancha de pelo con 5 ajustes de temperatura de 150º a 230 °C
+- Cable giratorio profesional de 3 m
+- Función Curler: carcasa exterior curva se calienta hasta 110ºC para usarla como tenacilla; ondas y rizos duraderos
+- Sistema de calentamiento Advanced Ceramics
+- Punta de agarre frío
+- Función iónica anti-encrespamiento, puntas de silicona aislantes extraíbles
+- Placas de cerámica extra largas 28 x 120 mm con efecto TOP COAT que prolonga la duración del peinado
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01L2K7SCY/?tag=tolees-21)
