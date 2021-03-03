@@ -28,8 +28,8 @@ Tienes [Under Armour Sportstyle Terry Logo Hoodie  Sudadera con Capucha Hombre  
 
 🔎:
 
-- Capucha de diseño cruzado con cordón ajustable
 - Material que capilariza el sudor y se seca rápidamente
+- Capucha de diseño cruzado con cordón ajustable
 - Bolsillo canguro delantero
 - Tejido French Terry con suave capa exterior e interior cómodo y cálido
 
