@@ -28,10 +28,10 @@ Está [Mr. Wonderful Funda de portátil-Downloading Wonderful Things  Multicolor
 
 ℹ️:
 
-- Portatodos con cierre de clic en formato cartera, ligeros, cómodos y elegantes
-- Peso: 316 gr
-- Medidas con pack: 26 x 27 x 1,5 cm
-- Dos bolsillos independientes para organizar y tener ordenados los papeles, notas e incluso la tablet
 - Materiales: pu
+- Medidas con pack: 26 x 27 x 1,5 cm
+- Peso: 316 gr
+- Dos bolsillos independientes para organizar y tener ordenados los papeles, notas e incluso la tablet
+- Portatodos con cierre de clic en formato cartera, ligeros, cómodos y elegantes
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07TN19Z1V/?tag=tolees-21)

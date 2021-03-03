@@ -28,10 +28,10 @@ Tienes [Helly Hansen HP Racing Chaqueta  Alert  M para Hombre  Alert](https://ww
 
 ℹ️:
 
-- Items delivered: 1x HP Racing Jacket for Men with pockets / For all-weather outdoor sports and maritime activitie / Jacket in Colour Alert Red and Size M
-- Full stretch construction for maximum freedom of movement
 - Helly Tech Performance - Highly waterproof and extra breathable
 - Total protection from the elements whilst being comfortable on the inside
 - Built-in lifaloft insulation for lightweight warmth and minimal bulk
+- Items delivered: 1x HP Racing Jacket for Men with pockets / For all-weather outdoor sports and maritime activitie / Jacket in Colour Alert Red and Size M
+- Full stretch construction for maximum freedom of movement
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07ZRJJGN5/?tag=tolees-21)

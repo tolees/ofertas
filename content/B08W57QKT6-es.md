@@ -28,10 +28,10 @@ Está [Nihlsfen Unidad de Memoria de Disco U de Alta Velocidad Profesional Unida
 
 ℹ️:
 
+- 4.No se requieren controladores. Bajo consumo de energía.
+- 2. Lee 12 MB / sy escribe 8 MB / s. Admite 480 Mbps de alta velocidad.
 - Como regalo, bares, cafeterías, restaurantes, bodas, fiestas y otros lugares románticos.
 - Unidad flash USB plegable de 1,4 GB.
-- 2. Lee 12 MB / sy escribe 8 MB / s. Admite 480 Mbps de alta velocidad.
 - 3.Compatible con USB 1.0 / 1.1 / 2.0, para satisfacer sus diferentes necesidades.
-- 4.No se requieren controladores. Bajo consumo de energía.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08W57QKT6/?tag=tolees-21)

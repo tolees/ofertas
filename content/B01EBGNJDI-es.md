@@ -28,10 +28,10 @@ Está [NYX Professional Makeup NYX Professional Makeup brocha de Ojos biselada P
 
 ℹ️:
 
-- Perfecta para conseguir el eyeliner deseado
-- Maquíllate como un profesional
 - Brocha de profesional con pincel biselado para eyeliner
 - Fabricado con fibras sintéticas
 - Innovador pincel eyeliner con un mango angular para un gran control y precisión
+- Perfecta para conseguir el eyeliner deseado
+- Maquíllate como un profesional
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01EBGNJDI/?tag=tolees-21)

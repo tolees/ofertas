@@ -28,9 +28,9 @@ Ahora mismo tienes [Schwarzkopf Gliss - GLISS champú liso asiático con keratin
 
 🔎:
 
-- Masajear sobre el cabello húmedo; aclarar con abundante agua; usar regularmente. *Aplicado en combinación con el Spray 3 Días Liso
 - Anti-encrespamiento
-- Cabello más liso hasta 3 días
 - Cabello rebelde o difícil de alisar
+- Cabello más liso hasta 3 días
+- Masajear sobre el cabello húmedo; aclarar con abundante agua; usar regularmente. *Aplicado en combinación con el Spray 3 Días Liso
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07J6R7ZQX/?tag=tolees-21)

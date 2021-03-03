@@ -28,10 +28,10 @@ Está [Yale 10CIHN Cerradura de Sobreponer  A Mano Izquierda Entrada 45 mm / Izd
 
 ℹ️:
 
-- Cadena retenedora. Sentido de apertura: izquierda. Yale es la misma empresa que Azbe, se unieron en 2011.
 - Cerraduras de sobreponer con sistema antipalanca.
-- Picaporte con tirador y palanca.
-- Doble cilindro.
 - Cerradura Azbe 10-c-hn/ izquierda.
+- Doble cilindro.
+- Picaporte con tirador y palanca.
+- Cadena retenedora. Sentido de apertura: izquierda. Yale es la misma empresa que Azbe, se unieron en 2011.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00OVK6IKG/?tag=tolees-21)

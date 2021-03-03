@@ -28,10 +28,10 @@ Tienes [Atlantic - The Greatest Showman  Banda Sonora Original ](https://www.ama
 
 🔎:
 
-- Hugh Jackman, Keala Settle, Zendaya, Daniel Everidge & The Greatest Showman Ensemble Come Alive
-- Hugh Jackman & Zac Efron The Other Side
 - Hugh Jackman, Michelle Williams (4) & Ziv Zaifman A Million Dreams
-- Austyn Johnson, Cameron Seely & Hugh Jackman A Million Dreams (Reprise)
+- Hugh Jackman, Keala Settle, Zendaya, Daniel Everidge & The Greatest Showman Ensemble Come Alive
 - Hugh Jackman, Keala Settle, Zac Efron, Zendaya & The Greatest Showman Ensemble The Greatest Show
+- Hugh Jackman & Zac Efron The Other Side
+- Austyn Johnson, Cameron Seely & Hugh Jackman A Million Dreams (Reprise)
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07629RLTC/?tag=tolees-21)

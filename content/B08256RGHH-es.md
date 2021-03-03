@@ -28,8 +28,8 @@ Está [adidas CON20 PRE JKT Sport Jacket  Hombre  Team Royal Blue/White  S](http
 
 ℹ️:
 
+- Regular fit
 - Bright fabric
 - Great freedom of movement
-- Regular fit
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08256RGHH/?tag=tolees-21)

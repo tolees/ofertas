@@ -28,10 +28,10 @@ Está [Festina Reloj Analógico para Mujer de Cuarzo con Correa en Cuero F20371/
 
 ℹ️:
 
+- - Material de la Carcasa: Acero inoxidable
+- - Cristal: Cristal Mineral
 - - Color de la caja: Plata
 - Carcasa
-- - Cristal: Cristal Mineral
-- - Material de la Carcasa: Acero inoxidable
 - - Forma de la Carcasa: Redondo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07DF6BJZB/?tag=tolees-21)
