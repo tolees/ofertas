@@ -28,10 +28,10 @@ En este momento está [FILA Disruptor  Zapatillas Mujer  Blanco  White   37 EU](
 
 🔎:
 
-- Tono on tone stitching
 - Embroidered logo to the side
+- Tubolar laces
 - Leather insert with embroidered logo on the heel
 - Wide leather tongue with embroidered logo
-- Tubolar laces
+- Tono on tone stitching
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B078WQF58M/?tag=tolees-21)

@@ -28,8 +28,8 @@ Tienes [Philips automotive lighting 12821LLECOB2 Bombillas Especiales  R5W](http
 
 🔎:
 
-- Alta Calidad y Resistente
 - Tipo/Base: R5W 12V BA15s B2
 - Marca: Philips
+- Alta Calidad y Resistente
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B005L9EZPG/?tag=tolees-21)
