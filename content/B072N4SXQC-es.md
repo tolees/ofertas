@@ -28,10 +28,10 @@ Tienes [Festina Reloj Cronógrafo para Hombre de Cuarzo con Correa en Caucho F20
 
 🔎:
 
-- Caja Acero inoxidable, esfera Azul
 - Brazalete Azul Silicona
+- Caja Acero inoxidable, esfera Azul
 - Resistente al agua: 100m
-- Movimiento Cuarzo
 - Diámetro caja: 47mm
+- Movimiento Cuarzo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B072N4SXQC/?tag=tolees-21)
