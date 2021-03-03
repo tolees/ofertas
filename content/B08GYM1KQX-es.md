@@ -29,8 +29,8 @@ Está [Hurley M Work Trucker Jacket  L](https://www.amazon.es/dp/B08GYM1KQX/?tag
 ℹ️:
 
 - Forro acolchado interior completo.
+- 98 % algodón / 2 % spandex.
 - Nombre de departamento: hombre
 - Etiqueta one & only cosida.
-- 98 % algodón / 2 % spandex.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08GYM1KQX/?tag=tolees-21)

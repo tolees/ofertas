@@ -28,11 +28,11 @@ Tienes [Hurley M Work Trucker Jacket Lt British Tan  L](https://www.amazon.es/dp
 
 🔎:
 
-- Cierre: cremallera
+- Etiqueta One & Only cosida
 - Forro acolchado interior completo
+- Cierre: cremallera
 - Material: 98 % algodón y 2 % spandex
 - Chaqueta
-- Etiqueta One & Only cosida
 - Lavar a mano
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08GY4ZBWJ/?tag=tolees-21)
