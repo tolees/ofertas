@@ -28,10 +28,10 @@ Tienes [Hubei - BK03XL batería del Ordenador portátil Compatible HP Pavilion P
 
 🔎:
 
-- Números de parte compatibles: 916366-421, 916366-541, 916811-855, 916812-855, BK03XL, BK03041XL, HSTNN-LB7S, HSTNN-UB7G, TPN-W125
 - Modelos compatibles para: HP Pavilion X360 Converitble PC 14, PC convertible HP Pavilion X360 14m
+- Números de parte compatibles: 916366-421, 916366-541, 916811-855, 916812-855, BK03XL, BK03041XL, HSTNN-LB7S, HSTNN-UB7G, TPN-W125
 - Garantía: ¡12 meses de garantía!
-- Condición de la batería: A estrenar
 - Tipo de batería: Li-ion; Voltaje: 11.55 V; Capacidad: 41.7 Wh
+- Condición de la batería: A estrenar
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07HQ9KXLJ/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Oral-B Pro-Expert Pasta de Dientes Sensi al 35.53 % de descuento'
-date: 2021-03-02 09:23:47
+title: 'Oral-B Pro-Expert Pasta de Dientes Sensi al 40.40 % de descuento'
+date: 2021-03-03 09:49:16
 image: 'https://m.media-amazon.com/images/I/41Fwql4lfAL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: ring
 slug: 'B00XAGF2OA-es Oral-B Pro-Expert Pasta de Dientes Sensibilidad +...'
 sku: 'B00XAGF2OA-es'
 tags: [  ]
-actualPrice: 2.25 EUR
+actualPrice: 2.08 EUR
 currency: EUR
-price: 2.25
+price: 2.08
 comparePrice: 3.49 EUR
 prodname: 'Oral-B Pro-Expert Pasta de Dientes Sensibilidad + Blanqueante 75 ml'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Oral-B'
 buyurl: 'https://www.amazon.es/dp/B00XAGF2OA/?tag=tolees-21'
-descuento: '35.53'
-average: '2.51787356321839'
+descuento: '40.40'
+average: '2.51289772727273'
 ---
 
-Ahora mismo tienes [Oral-B Pro-Expert Pasta de Dientes Sensibilidad + Blanqueante 75 ml](https://www.amazon.es/dp/B00XAGF2OA/?tag=tolees-21) a 2.25 EUR (original: 3.49 EUR) (35.53 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Oral-B Pro-Expert Pasta de Dientes Sensibilidad + Blanqueante 75 ml](https://www.amazon.es/dp/B00XAGF2OA/?tag=tolees-21) a 2.08 EUR (original: 3.49 EUR) (40.40 %  de descuento) en el siguiente enlace!
 
 [![Oral-B Pro-Expert Pasta de Dientes Sensi](https://m.media-amazon.com/images/I/41Fwql4lfAL._SL400_.jpg)](https://www.amazon.es/dp/B00XAGF2OA/?tag=tolees-21)
 

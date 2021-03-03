@@ -28,7 +28,7 @@ Tienes [Motul - Kit de limpiador lubricante para cadena C4 400 ml + cepillo de l
 
 🔎:
 
-- Formulación en base a aditivos sólidos AW / EP (anti-desgaste y extrema-presión).
 - Lubricante de color blanco desarrollado especialmente para engrasar las cadenas de las motos de competición: velocidad y resistencia
+- Formulación en base a aditivos sólidos AW / EP (anti-desgaste y extrema-presión).
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01MQUAF59/?tag=tolees-21)

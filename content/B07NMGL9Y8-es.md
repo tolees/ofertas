@@ -28,8 +28,8 @@ En este momento está [Nike Revolution 5  Running Shoe  Black White Anthracite  
 
 🔎:
 
-- Forro blando.
 - La suave suela intermedia de espuma proporciona una sensación suave y estable.
 - Plantilla blanda
+- Forro blando.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07NMGL9Y8/?tag=tolees-21)
