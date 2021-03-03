@@ -28,9 +28,9 @@ En este momento está [Johnson & Johnson - Aveeno - Loción Hidratante Diaria  2
 
 🔎:
 
-- Volumen de 200 ml
 - Crema hidratante formulada con harina de avena coloidal naturalmente activa
 - Hidrata activamente la piel seca y sensible
+- Volumen de 200 ml
 - Hidrata la piel seca durante 24 horas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00DM8KEXU/?tag=tolees-21)

@@ -28,12 +28,12 @@ Ahora mismo tienes [Bosch Home and Garden - Bosch Advanced GrassCut 36 - Cortabo
 
 🔎:
 
+- Incluye: Cortabordes a batería AdvancedGrassCut 36, 1 batería 36V, cargador, bobina de hilo
 - Sistema de corte de dos hilos para obtener cortes de calidad y eficiencia
+- Posición y ángulo de la empuñadura adicional regulables para peinar y cortar bordes cómodamente en cualquier posición de trabajo
 - La empuñadura antivibraciones Softgrip más larga permite adoptar una posición cómoda de la mano en función de la complexión del usuario
 - Avance semiautomático del hilo para trabajar sin interrupciones
-- Peso reducido para trabajar sin fatiga en los brazos
-- Posición y ángulo de la empuñadura adicional regulables para peinar y cortar bordes cómodamente en cualquier posición de trabajo
-- Incluye: Cortabordes a batería AdvancedGrassCut 36, 1 batería 36V, cargador, bobina de hilo
 - Potencia sin cables para llegar fácilmente a las malas hierbas y las amplias superficies de césped
+- Peso reducido para trabajar sin fatiga en los brazos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01N0SV92Z/?tag=tolees-21)

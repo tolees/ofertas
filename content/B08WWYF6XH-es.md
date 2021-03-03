@@ -29,9 +29,9 @@ Está [FEBT Coches RC Coche Todoterreno Militar RC Truck Coche de camión Milita
 ℹ️:
 
 - Ocultación del compartimento de la batería: el compartimento de almacenamiento en el almacén frontal es el compartimento de la batería, más conveniente para reemplazar la batería, hermoso.
-- Marco de vehículo RC de calidad, fuerte resistencia al impacto, adecuado para niños.
-- 1:16 Aspecto altamente simulado, con diferencial, lo que hace que el giro sea más suave. Faros delanteros brillantes, conducción suave de noche.
 - Adelante, atrás, giro a la izquierda, giro a la derecha, alta velocidad baja, efecto de luz.
 - La velocidad se puede controlar rápido o lento, gran potencia, buen rendimiento de escalada. Las mercancías se pueden transportar en un radio de aproximadamente 40 metros, con un fuerte sentido de simulación e interacción.
+- 1:16 Aspecto altamente simulado, con diferencial, lo que hace que el giro sea más suave. Faros delanteros brillantes, conducción suave de noche.
+- Marco de vehículo RC de calidad, fuerte resistencia al impacto, adecuado para niños.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08WWYF6XH/?tag=tolees-21)

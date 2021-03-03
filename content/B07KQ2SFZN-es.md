@@ -28,10 +28,10 @@ Ahora mismo tienes [hummel First Seamless Leggings  Hombre  Negro  XS/S](https:/
 
 🔎:
 
-- Diseño y logotipo con aspecto deportivo
-- El logo bordado y los detalles deportivos hacen de estos pantalones deportivos un verdadero clásico
-- Los leggings están hechos de un tejido suave y a la vez resistente
 - Hummel es sinónimo de ropa deportiva escandinava de alta calidad caracterizada por su diseño deportivo y sencillo con aspecto elegante disponible en colores modernos.
 - Mallas de fitness hechas de una tela suave sin consturas
+- Los leggings están hechos de un tejido suave y a la vez resistente
+- Diseño y logotipo con aspecto deportivo
+- El logo bordado y los detalles deportivos hacen de estos pantalones deportivos un verdadero clásico
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07KQ2SFZN/?tag=tolees-21)

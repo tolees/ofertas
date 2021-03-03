@@ -28,10 +28,10 @@ En este momento está [Rimmel London Lasting Radiance Concealer  Corrector de ma
 
 🔎:
 
-- Para conseguir el rostro perfecto puedes aplicarlo con la base de maquillaje Lasting Radiance
+- Textura cómoda durante el día; no reseca y se aplica uniformenmente sobre el rostro
 - Aplicación uniforme y fácil
 - Complejo hidratante con vitaminas y péptidos para iluminar el área de la mirada
-- Textura cómoda durante el día; no reseca y se aplica uniformenmente sobre el rostro
+- Para conseguir el rostro perfecto puedes aplicarlo con la base de maquillaje Lasting Radiance
 - Fórmula alta en pigmentos para camuflar imperfecciones y rojeces al instante
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07NQ393GD/?tag=tolees-21)

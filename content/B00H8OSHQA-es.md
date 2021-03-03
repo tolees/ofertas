@@ -28,10 +28,10 @@ En este momento está [Bourjois 123 Perfect Base de Maquillaje Tono 57 Light tan
 
 🔎:
 
-- Foundation 123P Foundation 57 Hale Clair - Face - Other - Foundations
 - Make-up - Make-up - Face - Other
+- Foundation - Bourjois
 - Foundation 123P Foundation 57 Hale Clair - Mujer
 - Bourjois - 0000014481
-- Foundation - Bourjois
+- Foundation 123P Foundation 57 Hale Clair - Face - Other - Foundations
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00H8OSHQA/?tag=tolees-21)

@@ -28,10 +28,10 @@ En este momento está [Paraguas Transparente Niño Azul Amarillo con Ribete Refl
 
 🔎:
 
-- TACOS FIJOS: Los tacos de varillas de los paraguas Perletti Cool Kids son seguros y fijados, a prueba de niños
+- APERTURA MANUAL: De facil apertura y de gran seguridad, gracias al sistema “salva-dedos”. Accesorio probado y seguro, conforme a las normas vigentes
+- DETALLES REFLECTANTES: Una meticulosa mezcla de transparencias y colores fluorescentes trasforman el paraguas en accessorio de moda. El ribete reflectante aseguran la máxima visibilidad incluso en los días más oscuros
 - MUY RESISTENTE Y ANTIVIENTO: Establey ligero, gracias a las nuevas varillas de fibra de vidrio, este paraguas se hace aún más flexibles y resistentes. Windproof
 - APTO PARA NIÑOS 3-6 AÑOS: 64 cm de diámetro
-- DETALLES REFLECTANTES: Una meticulosa mezcla de transparencias y colores fluorescentes trasforman el paraguas en accessorio de moda. El ribete reflectante aseguran la máxima visibilidad incluso en los días más oscuros
-- APERTURA MANUAL: De facil apertura y de gran seguridad, gracias al sistema “salva-dedos”. Accesorio probado y seguro, conforme a las normas vigentes
+- TACOS FIJOS: Los tacos de varillas de los paraguas Perletti Cool Kids son seguros y fijados, a prueba de niños
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07P7QHH8W/?tag=tolees-21)

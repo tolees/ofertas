@@ -28,10 +28,10 @@ Ahora mismo tienes [Vitamaze - amazing life - Vitamaze® Vitamina D3 Gotas Altam
 
 🔎:
 
-- ✔ ¡COMPRE HOY las gotas de vitamina D3 directamente del fabricante en línea y ahorre buen dinero! Sin riesgo: ¡devolución gratuita dentro de 30 días!
 - ✔ MEJOR BIOAVAILABILIDAD: nuestra vitamina D3 vegetariana altamente dosificada en forma líquida. Cada gota contiene 1000 UI (Unidades internacionales) = 25 mcg de vitamina D3 y colecalciferol. También para la ingesta de depósitos adecuada ya que la dosificación se puede seleccionar individualmente.
+- ✔ ¡COMPRE HOY las gotas de vitamina D3 directamente del fabricante en línea y ahorre buen dinero! Sin riesgo: ¡devolución gratuita dentro de 30 días!
+- ✔ APLICACIÓN SIMPLE: 50 ml corresponden aprox. 1750 gotas de Vitamina D3 líquida en aceite MCT de alta calidad hecho de coco para una mejor admisión. Con una práctica pipeta con caucho natural (sin BPA) en una botella de vidrio protegida contra la luz para una fácil dosificación. Puede dejar caer el producto directamente en su lengua o agregar aceite sin sabor a su comida.
 - ✔ PRODUCTO DE CALIDAD ALEMANA: Producimos solo en Alemania. Nuestra producción se basa en el concepto HACCP. Nuestros productos están completamente libres de ingredientes modificados genéticamente, aromas, pesticidas, fungicidas, fertilizantes artificiales, estearato de magnesio u otras sustancias dañinas.
 - ✔ EFECTO Y FUNCIÓN: La vitamina D contribuye al mantenimiento de los huesos y dientes normales, así como a la función muscular normal y la función inmunológica. La vitamina D también contribuye a los niveles normales de calcio en la sangre y tiene una función de división celular.
-- ✔ APLICACIÓN SIMPLE: 50 ml corresponden aprox. 1750 gotas de Vitamina D3 líquida en aceite MCT de alta calidad hecho de coco para una mejor admisión. Con una práctica pipeta con caucho natural (sin BPA) en una botella de vidrio protegida contra la luz para una fácil dosificación. Puede dejar caer el producto directamente en su lengua o agregar aceite sin sabor a su comida.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07GHGM7MN/?tag=tolees-21)

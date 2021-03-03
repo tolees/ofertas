@@ -30,8 +30,8 @@ En este momento está [Emporio Armani Reloj Cronógrafo para Hombre de Cuarzo co
 
 - Caja redonda de acero inoxidable en tono plateado, con una esfera en tonos dorados
 - Correa de piel negra
-- Caja de 43 mm, ancho de la correa de 22 mm, cristal mineral, movimiento de cuarzo con pantalla analógica con 2 agujas
 - Presentación en una caja de regalo Emporio Armani
+- Caja de 43 mm, ancho de la correa de 22 mm, cristal mineral, movimiento de cuarzo con pantalla analógica con 2 agujas
 - Resistente al agua hasta 50 m: apto para nadar en aguas poco profundas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B003YSNVAQ/?tag=tolees-21)

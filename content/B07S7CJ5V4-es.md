@@ -29,7 +29,7 @@ Tienes [adidas CUSH CRW 3PP Socks  Unisex adulto  White/White/Black  XS](https:/
 🔎:
 
 - Soft fabric
-- Targeted cushioning
 - Pack of three pairs
+- Targeted cushioning
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07S7CJ5V4/?tag=tolees-21)

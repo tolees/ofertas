@@ -29,7 +29,7 @@ Tienes [adidas Tech Bos Tank Camiseta sin Mangas  Mujer  Black/White  2XS](https
 🔎:
 
 - Gran freedom of movimiento
-- Regular fit
 - Soft fabric
+- Regular fit
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B081TTDSM9/?tag=tolees-21)
