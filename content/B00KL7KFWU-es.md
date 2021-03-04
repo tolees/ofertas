@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Orbegozo MS 4570 - Cortafiambres metálic al 26.03 % de descuento'
-date: 2021-03-03 09:39:12
+date: 2021-03-04 09:44:20
 image: 'https://m.media-amazon.com/images/I/41hifOeLIgL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Orbegozo'
 buyurl: 'https://www.amazon.es/dp/B00KL7KFWU/?tag=tolees-21'
 descuento: '26.03'
-average: '49.9464788732392'
+average: '50.0220465116277'
 ---
 
 Ahora mismo tienes [Orbegozo MS 4570 - Cortafiambres metálica con cuchilla de acero inoxidable  150 W  ajuste de grosor de corte y deslizador de seguridad extraible](https://www.amazon.es/dp/B00KL7KFWU/?tag=tolees-21) a 58.07 EUR (original: 78.5 EUR) (26.03 %  de descuento) en el siguiente enlace!

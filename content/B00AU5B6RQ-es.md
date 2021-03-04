@@ -28,10 +28,10 @@ Está [Nasalmer Adultos - Spray Congestión Nasal 100% Agua de Mar - 125 ml](htt
 
 ℹ️:
 
+- Alivia las fosas nasales inflamadas: fluidifica, limpia y elimina el exceso de moco
 - Nasalmer descongestiona, desinflama y regenera la mucosa nasal
+- 100% agua de mar natural hipertónica y estéril. Con más de 80 oligoelementos y sales minerales presentes en el agua de mar. No contiene conservantes
 - Spray 125 ml
 - Nasalmer disminuye la congestión nasal y la inflamación por su acción osmótica
-- Alivia las fosas nasales inflamadas: fluidifica, limpia y elimina el exceso de moco
-- 100% agua de mar natural hipertónica y estéril. Con más de 80 oligoelementos y sales minerales presentes en el agua de mar. No contiene conservantes
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00AU5B6RQ/?tag=tolees-21)

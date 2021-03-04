@@ -28,10 +28,10 @@ Ahora mismo tienes [Viceroy Reloj Analogico para Chicos de Cuarzo con Correa en 
 
 🔎:
 
+- Tiene visualización analógica
+- Con movimiento de cuarzo
 - Cierre con hebilla
 - Correa fabricada en nailon
 - Reloj para niños marca Viceroy
-- Con movimiento de cuarzo
-- Tiene visualización analógica
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01AI46EK2/?tag=tolees-21)
