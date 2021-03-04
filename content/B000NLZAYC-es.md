@@ -28,9 +28,9 @@ Tienes [Rapesco 0688 Carpeta portafolios A4+ horizontal  5 unidades  Colores Sur
 
 ℹ️:
 
-- Solapa con broche de color para mantener el contenido seguro
-- Soporte para bolígrafo bajo solapa
 - Colores surtidos
+- Soporte para bolígrafo bajo solapa
+- Solapa con broche de color para mantener el contenido seguro
 - Carpeta sobre broche de polipropileno de colores adecuados y translúcidas
 - Pack: 5 unidades con tamaño A4+
 
