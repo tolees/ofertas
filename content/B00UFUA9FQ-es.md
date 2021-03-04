@@ -28,10 +28,10 @@ Tienes [Maclaren Capazo - Entorno Plano Ideal para Recién Nacidos de Hasta 20 L
 
 🔎:
 
-- Transforma la silla de paseo en un entorno de descanso horizontal - recomendado por profesionales de la salud para el correcto desarrollo del bebé
-- Transforma la silla de paseo en un entorno de descanso horizontal - recomendado por profesionales de la salud para el correcto desarrollo del bebé
 - Colchón impermeable, con funda lavable a máquina
+- Transforma la silla de paseo en un entorno de descanso horizontal - recomendado por profesionales de la salud para el correcto desarrollo del bebé
 - Su posición en sentido opuesto a la marcha permite la visión directa de los padres
+- Transforma la silla de paseo en un entorno de descanso horizontal - recomendado por profesionales de la salud para el correcto desarrollo del bebé
 - Su posición en sentido opuesto a la marcha permite la visión directa de los padres
 - Colchón impermeable, con funda lavable a máquina
 

@@ -29,7 +29,7 @@ Está [Timex Expedition Shock XL - Reloj análogico para Hombre de cuarzo con co
 ℹ️:
 
 - Incluye alarma vibratoria y luz Indiglo Night
-- Resistente al agua hasta 20 bar/200 metros
 - Movimiento automático, caja de resina, correa de resina y cierre de hebilla
+- Resistente al agua hasta 20 bar/200 metros
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00CYZO6RW/?tag=tolees-21)

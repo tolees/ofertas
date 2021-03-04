@@ -28,10 +28,10 @@ Tienes [Maybelline New York - Master Contour Stick  Barra de Contouring para Pie
 
 ℹ️:
 
-- Master Contour es un stick de contouring 2 en 1 con una agradable textura cremosa
-- Debido a su textura, la aplicación es cómoda y suave; desliza sobre el rostro y difumina facilmente con el dedo
-- Marca, define e ilumina con el truco de la forma-V. Afina las mejillas, marca los pómulos y estiliza la nariz
 - Utiliza el tono claro para iluminar las zonas altas del rostro
+- Marca, define e ilumina con el truco de la forma-V. Afina las mejillas, marca los pómulos y estiliza la nariz
+- Master Contour es un stick de contouring 2 en 1 con una agradable textura cremosa
 - Con la parte más oscura, da sombras y esculpe tus facciones
+- Debido a su textura, la aplicación es cómoda y suave; desliza sobre el rostro y difumina facilmente con el dedo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01BBV0ALA/?tag=tolees-21)

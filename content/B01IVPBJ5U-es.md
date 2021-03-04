@@ -28,10 +28,10 @@ Tienes [Melatonina Epaplus Sueño Liberación prolongada 60 comprimidos](https:/
 
 ℹ️:
 
-- Su innovadora fórmula en comprimidos Retard facilita la liberación prolongada y sostenida de Melatonina durante toda la noche (8 horas) según el estudio de disolución realizado por el Instituto Universitario de Ciencia y Tecnología de Barcelona.
-- Para personas que tienen alteraciones del sueño porque trabajan con cambios de turnos.
 - Para personas que tienen jet lag. La melatonina también contribuye a aliviar la sensación subjetiva de desfase horario (jet lag).
-- Para personas que les cuesta conciliar el sueño o mantener el sueño 8h.
+- Su innovadora fórmula en comprimidos Retard facilita la liberación prolongada y sostenida de Melatonina durante toda la noche (8 horas) según el estudio de disolución realizado por el Instituto Universitario de Ciencia y Tecnología de Barcelona.
 - Complemento alimenticio con melatonina 1,98 mg que ayuda a conciliar el sueño, triptófano, magnesio y vitaminas B3 y B6.
+- Para personas que tienen alteraciones del sueño porque trabajan con cambios de turnos.
+- Para personas que les cuesta conciliar el sueño o mantener el sueño 8h.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01IVPBJ5U/?tag=tolees-21)
