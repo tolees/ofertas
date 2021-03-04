@@ -29,7 +29,7 @@ Está [TRIXIE Pelota Mentolada Denta Fun  Caucho Natural  ø5 cm  Perro](https:/
 ℹ️:
 
 - masajea las encías
-- sabor menta
 - caucho natural
+- sabor menta
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B001BYOMXA/?tag=tolees-21)
