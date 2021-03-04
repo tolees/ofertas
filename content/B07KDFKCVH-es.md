@@ -28,8 +28,8 @@ Ahora mismo tienes [adidas TIRO19 PRE JKT Chaqueta  Hombre  Azul  Bold Blue/Dark
 
 🔎:
 
-- Regular fit
 - Full zip
 - Front pockets
+- Regular fit
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07KDFKCVH/?tag=tolees-21)
