@@ -29,7 +29,7 @@ En este momento está [Lee Rider  Vaqueros Slim para Hombre  Azul  Broken Blue S
 🔎:
 
 - Tienen un parche de piel en la parte trasera con la marca Lee
-- Vaqueros para hombre
 - Estilo 5 bolsillos
+- Vaqueros para hombre
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07FTH9X3M/?tag=tolees-21)

@@ -28,7 +28,7 @@ Ahora mismo tienes [Armani Exchange Logo SS Camiseta  Blanco  Optic White 1000  
 
 🔎:
 
-- Suéter.
 - Logotipo de la marca einternalx.
+- Suéter.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07JHSCHVP/?tag=tolees-21)

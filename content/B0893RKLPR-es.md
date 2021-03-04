@@ -28,9 +28,9 @@ En este momento está [Quiksilver Comp Logo-Camiseta para Hombre  White  XS](htt
 
 🔎:
 
-- Cuello: Cuello redondo
 - Serigrafía estampada en el pecho
-- Tejido: punto jersey de algodón ligero
+- Cuello: Cuello redondo
 - Corte: Corte normal, clásico, cómodo
+- Tejido: punto jersey de algodón ligero
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0893RKLPR/?tag=tolees-21)

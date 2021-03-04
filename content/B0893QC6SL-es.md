@@ -28,10 +28,10 @@ Está [Quiksilver All Time - Licra De Manga Corta con Protección Solar UPF 50 p
 
 ℹ️:
 
-- Propiedades resistentes al cloro; propiedades para expulsar la humedad; tejido de hilo reciclado
+- Corte: Corte muy ceñido
 - Protección solar
 - Protección solar UPF 50
+- Propiedades resistentes al cloro; propiedades para expulsar la humedad; tejido de hilo reciclado
 - Tejido reciclado: Tejido protector reciclado en mezcla de poliéster
-- Corte: Corte muy ceñido
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0893QC6SL/?tag=tolees-21)

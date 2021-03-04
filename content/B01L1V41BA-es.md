@@ -28,9 +28,9 @@ Está [Nilox - Spray Aria-Gas leggeri-400ml  NXA02061-1 ](https://www.amazon.es/
 
 ℹ️:
 
-- No deja residuos
-- El bote del spray de aire comprimido tiene 400 ml
 - Se pude usar para la limpieza de equipos como portátiles, impresoras, cámaras fotográficas digitales, equipos, relojes, aparatos científicos o de precisión
 - El producto es adecuado para quitar fácilmente residuos y polvo de cualquier superficie
+- No deja residuos
+- El bote del spray de aire comprimido tiene 400 ml
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01L1V41BA/?tag=tolees-21)

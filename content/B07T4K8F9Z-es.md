@@ -28,7 +28,7 @@ Tienes [Only Onlnatalia L/s Rib Pullover Knt Noos suéter  Black  X-Large para M
 
 🔎:
 
-- Ribbed knit pullover
 - Soft Viscose fabric
+- Ribbed knit pullover
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07T4K8F9Z/?tag=tolees-21)
