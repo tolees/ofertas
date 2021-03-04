@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Columbia Tech Shade Hat Gorra  Unisex Ad con un 37.52 % de descuento'
-date: 2020-06-08 09:18:24
+title: 'Columbia Tech Shade Hat Gorra  Unisex Ad con un 41.22 % de descuento'
+date: 2021-03-03 23:23:49
 image: 'https://m.media-amazon.com/images/I/315P+TrhHVL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,24 +9,29 @@ author: ring
 slug: 'B08178RGHM-es Columbia Tech Shade Hat Gorra Unisex Adulto Azul Carbon...'
 sku: 'B08178RGHM-es'
 tags: [  ]
-actualPrice: 12.49 EUR
+actualPrice: 11.75 EUR
 currency: EUR
-price: 12.49
+price: 11.75
 comparePrice: 19.99 EUR
 prodname: 'Columbia Tech Shade Hat Gorra  Unisex Adulto  Azul  Carbon   One Size  Adjustable '
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Columbia'
 buyurl: 'https://www.amazon.es/dp/B08178RGHM/?tag=tolees-21'
-descuento: '37.52'
-average: '12.49'
+descuento: '41.22'
+average: '12.12'
 ---
 
-En este momento está [Columbia Tech Shade Hat Gorra  Unisex Adulto  Azul  Carbon   One Size  Adjustable ](https://www.amazon.es/dp/B08178RGHM/?tag=tolees-21) a 12.49 EUR (original: 19.99 EUR) (37.52 %  de descuento) en el siguiente enlace!
+En este momento está [Columbia Tech Shade Hat Gorra  Unisex Adulto  Azul  Carbon   One Size  Adjustable ](https://www.amazon.es/dp/B08178RGHM/?tag=tolees-21) a 11.75 EUR (original: 19.99 EUR) (41.22 %  de descuento) en el siguiente enlace!
 
 [![Columbia Tech Shade Hat Gorra  Unisex Ad](https://m.media-amazon.com/images/I/315P+TrhHVL._SL400_.jpg)](https://www.amazon.es/dp/B08178RGHM/?tag=tolees-21)
 
 🔎:
 
+- Cierre por detrás, regulable, para lograr un ajuste adecuado
+- Contenido: 1x Columbia Tech Shade, Gorra unisex, Fibra sintética, Color: Azul (Carbon), Talla universal (Ajustable), Art. 1539331
+- Gorro técnico para una sensación de frescura en actividades dinámicas con temperaturas cálidas
+- Paneles laterales de malla para un flujo de aire fresco constante, gestión de la humedad Omni-Wick para la transpiración
+- Protección solar Omni-Shade UPF 50 para reducir la dureza del sol
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08178RGHM/?tag=tolees-21)

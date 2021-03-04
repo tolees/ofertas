@@ -28,8 +28,8 @@ Ahora mismo tienes [adidas Cushioned Crew Calcetines  Multicolor  Negro/Gris/Bla
 
 🔎:
 
+- Targeted cushioning
 - Pack of three pairs
 - Soft fabric
-- Targeted cushioning
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07RXYVDTY/?tag=tolees-21)

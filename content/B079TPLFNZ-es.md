@@ -28,8 +28,8 @@ Tienes [Funko - Figura Super Racers Five Nights at Freddy S Cupcake](https://www
 
 🔎:
 
-- The latest run and gun platform side scrolling video game, Cuphead is taking the world by storm. Start your Cuphead toy collection with this vinyl figure!
-- Muy resistente
 - Alta calidad
+- Muy resistente
+- The latest run and gun platform side scrolling video game, Cuphead is taking the world by storm. Start your Cuphead toy collection with this vinyl figure!
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B079TPLFNZ/?tag=tolees-21)
