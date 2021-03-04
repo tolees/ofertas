@@ -28,10 +28,10 @@ Está [HTINAC Cover Cubierta Cámara  3Pcs Webcam Cover de Seguridad Diseño Ult
 
 ℹ️:
 
-- Puede ser reutilizado : Se puede despegar y volver a pegar en otro dispositivo. Despues de despegarla, desmontar la tapa corrediza y volverla a encajar que no dejará el residuo en el foco de la cámara.
-- Ultra delgada y pequeño：Plástico ABS de alta calidad duradero(3 pack), se adhiere con cinta adhesiva de doble cara 3M, queda integrada perfectamente en la pantalla. Con cuerpo pequeño de 18.5x9x0.7mm, con el tamaño de la cubierta de uñas es casi la misma.
+- No interfiere con el cierre del portátil: Si se quiere cerrarla solo tendre que mover la pestaña hacia el lado de la cámara y ya estará totalmente oculta.Nos permite asegurar la intimidad de todos.Es ideal para estar seguro.
 - Instalación rápida：Usted no tiene que aplicar pegamento ni nada, ya trae la cara interna adhesiva. Solo limpiar la pantalla, es quitar el film protector y pegar donde esta la cámara tal.Sencillo de colocar, discreto, muy funcional.
 - Ampliamente utilizado: Se aplica a la mayoría de las portátiles, computadoras de escritorios,tabletes,smartphones. La marcas Apple u otras marcas . ( iMac、Mac mini、Macbook Air、Macbook Pro、Macbook、Mac Pro、IPhone、 IPad ect...)
-- No interfiere con el cierre del portátil: Si se quiere cerrarla solo tendre que mover la pestaña hacia el lado de la cámara y ya estará totalmente oculta.Nos permite asegurar la intimidad de todos.Es ideal para estar seguro.
+- Puede ser reutilizado : Se puede despegar y volver a pegar en otro dispositivo. Despues de despegarla, desmontar la tapa corrediza y volverla a encajar que no dejará el residuo en el foco de la cámara.
+- Ultra delgada y pequeño：Plástico ABS de alta calidad duradero(3 pack), se adhiere con cinta adhesiva de doble cara 3M, queda integrada perfectamente en la pantalla. Con cuerpo pequeño de 18.5x9x0.7mm, con el tamaño de la cubierta de uñas es casi la misma.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B075LLQW16/?tag=tolees-21)
