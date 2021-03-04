@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Electronic Arts - BATTLEFIELD 1 - Revolu al 75.02 % de descuento'
-date: 2021-02-14 19:55:16
-image: 'https://m.media-amazon.com/images/I/51bkjIrn9+L._SL200_.jpg'
+date: 2021-03-04 16:45:00
+image: 'https://m.media-amazon.com/images/I/51bkjIrn9+L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.99'
 
 Está [Electronic Arts - BATTLEFIELD 1 - Revolution DLC | Código Origin para PC](https://www.amazon.es/dp/B07NC86D6F/?tag=tolees-21) con 75.02 de descuento por 9.99 EUR (original: 39.99 EUR) en el siguiente enlace!
 
-[![Electronic Arts - BATTLEFIELD 1 - Revolu](https://m.media-amazon.com/images/I/51bkjIrn9+L._SL200_.jpg)](https://www.amazon.es/dp/B07NC86D6F/?tag=tolees-21)
+[![Electronic Arts - BATTLEFIELD 1 - Revolu](https://m.media-amazon.com/images/I/51bkjIrn9+L._SL400_.jpg)](https://www.amazon.es/dp/B07NC86D6F/?tag=tolees-21)
 
 ℹ️:
 

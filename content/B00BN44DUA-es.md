@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CAMEO - Kenshin  El Guerrero Samurái [Bl al 34.02 % de rebaja'
-date: 2021-03-03 15:31:46
+date: 2021-03-04 16:47:35
 image: 'https://m.media-amazon.com/images/I/51pPvhqtM1L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'CAMEO'
 buyurl: 'https://www.amazon.es/dp/B00BN44DUA/?tag=tolees-21'
 descuento: '34.02'
-average: '6.65666666666667'
+average: '6.34571428571429'
 ---
 
 Tienes [CAMEO - Kenshin  El Guerrero Samurái [Blu-ray]](https://www.amazon.es/dp/B00BN44DUA/?tag=tolees-21) con precio final de  4.48 EUR (original: 6.79 EUR) (34.02 %  de rebaja) aqui!
