@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Fantasy Flight Games- Keyforge - Mundos  al 49.94 % de descuento'
-date: 2021-02-06 18:34:13
-image: 'https://m.media-amazon.com/images/I/61oB9BtLIWL._SL200_.jpg'
+date: 2021-03-04 12:56:17
+image: 'https://m.media-amazon.com/images/I/61oB9BtLIWL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -19,12 +19,12 @@ flag: '🇪🇸'
 brand: 'Fantasy Flight Games'
 buyurl: 'https://www.amazon.es/dp/B07ZKYHDPB/?tag=tolees-21'
 descuento: '49.94'
-average: '14.1566666666667'
+average: '13.7400000000001'
 ---
 
 Ahora mismo tienes [Fantasy Flight Games- Keyforge - Mundos en Colisión Caja de Inicio para 2 Jugadores  Color  KF07ES ](https://www.amazon.es/dp/B07ZKYHDPB/?tag=tolees-21) a 12.49 EUR (original: 24.95 EUR) (49.94 %  de descuento) en el siguiente enlace!
 
-[![Fantasy Flight Games- Keyforge - Mundos ](https://m.media-amazon.com/images/I/61oB9BtLIWL._SL200_.jpg)](https://www.amazon.es/dp/B07ZKYHDPB/?tag=tolees-21)
+[![Fantasy Flight Games- Keyforge - Mundos ](https://m.media-amazon.com/images/I/61oB9BtLIWL._SL400_.jpg)](https://www.amazon.es/dp/B07ZKYHDPB/?tag=tolees-21)
 
 🔎:
 
