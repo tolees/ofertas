@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '20th Century Fox Home Entertainment Espa al 42.93 % de rebaja'
-date: 2021-03-03 01:44:31
+date: 2021-03-04 08:11:39
 image: 'https://m.media-amazon.com/images/I/51hK9It-OML._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: '20th Century Fox Home Entertainment España, S.A.'
 buyurl: 'https://www.amazon.es/dp/B08H6MC9HD/?tag=tolees-21'
 descuento: '42.93'
-average: '20.8078571428571'
+average: '19.986875'
 ---
 
 Tienes [20th Century Fox Home Entertainment España  S.A. - Le Mans  66  UHD 4K + Blu-Ray  [Blu-ray]](https://www.amazon.es/dp/B08H6MC9HD/?tag=tolees-21) con precio final de  14.24 EUR (original: 24.95 EUR) (42.93 %  de rebaja) aqui!

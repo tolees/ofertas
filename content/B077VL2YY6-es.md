@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Disney / Pixar - Coco [DVD] al 66.81 % de descuento'
-date: 2021-03-03 01:46:47
+date: 2021-03-04 07:56:21
 image: 'https://m.media-amazon.com/images/I/61DXC22DHuL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Disney / Pixar'
 buyurl: 'https://www.amazon.es/dp/B077VL2YY6/?tag=tolees-21'
 descuento: '66.81'
-average: '9.64325'
+average: '9.61049382716049'
 ---
 
 Está [Disney / Pixar - Coco [DVD]](https://www.amazon.es/dp/B077VL2YY6/?tag=tolees-21) con 66.81 de descuento por 6.99 EUR (original: 21.06 EUR) en el siguiente enlace!

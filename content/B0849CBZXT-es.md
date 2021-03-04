@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Disney - Terminator Destino Oscuro [DVD] al 61.29 % de rebaja'
-date: 2021-03-03 01:33:36
+date: 2021-03-04 08:07:31
 image: 'https://m.media-amazon.com/images/I/519Qc8-TnEL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Disney'
 buyurl: 'https://www.amazon.es/dp/B0849CBZXT/?tag=tolees-21'
 descuento: '61.29'
-average: '11.4221428571428'
+average: '10.738125'
 ---
 
 Tienes [Disney - Terminator Destino Oscuro [DVD]](https://www.amazon.es/dp/B0849CBZXT/?tag=tolees-21) con precio final de  5.95 EUR (original: 15.37 EUR) (61.29 %  de rebaja) aqui!
