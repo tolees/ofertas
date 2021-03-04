@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Forticoll Colágeno Piel y Cabello-Comple al 35.18 % de descuento'
-date: 2021-02-09 06:01:35
-image: 'https://m.media-amazon.com/images/I/41gQCU9tOWL._SL200_.jpg'
+date: 2021-03-04 13:15:08
+image: 'https://m.media-amazon.com/images/I/41gQCU9tOWL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -19,19 +19,19 @@ flag: '🇪🇸'
 brand: 'Forticoll'
 buyurl: 'https://www.amazon.es/dp/B01H051CYU/?tag=tolees-21'
 descuento: '35.18'
-average: '11.45'
+average: '11.7722222222222'
 ---
 
 Está [Forticoll Colágeno Piel y Cabello-Complemento alimenticio en polvo- 270 gr.](https://www.amazon.es/dp/B01H051CYU/?tag=tolees-21) con 35.18 de descuento por 12.9 EUR (original: 19.9 EUR) en el siguiente enlace!
 
-[![Forticoll Colágeno Piel y Cabello-Comple](https://m.media-amazon.com/images/I/41gQCU9tOWL._SL200_.jpg)](https://www.amazon.es/dp/B01H051CYU/?tag=tolees-21)
+[![Forticoll Colágeno Piel y Cabello-Comple](https://m.media-amazon.com/images/I/41gQCU9tOWL._SL400_.jpg)](https://www.amazon.es/dp/B01H051CYU/?tag=tolees-21)
 
 ℹ️:
 
+- Sin proteína láctea
+- Sin frutos secos
 - Sin gluten
 - Sin azúcares añadidos
 - Ingredientes naturales y ecológicos
-- Sin proteína láctea
-- Sin frutos secos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01H051CYU/?tag=tolees-21)

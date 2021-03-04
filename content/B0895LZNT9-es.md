@@ -28,10 +28,10 @@ Tienes [DC Shoes Sherpa Star - Hombre](https://www.amazon.es/dp/B0895LZNT9/?tag=
 
 🔎:
 
-- Ligeros paneles de tela ripstop
+- __Corte:__ corte normal, cómodo
 - __Tejido:__Tejido en felpa gruesa cepillada
 - __Bolsillos:__ Bolsillo canguro amplio
-- __Corte:__ corte normal, cómodo
 - Cuerpo forrado de sherpa
+- Ligeros paneles de tela ripstop
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0895LZNT9/?tag=tolees-21)
