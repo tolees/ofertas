@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Compo Cuidado de Las Plantas de Interior al 50.98 % de descuento'
-date: 2021-02-28 14:43:55
+title: 'Compo Cuidado de Las Plantas de Interior al 61.29 % de descuento'
+date: 2021-03-04 19:15:10
 image: 'https://m.media-amazon.com/images/I/41VBJso8u4L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,25 +12,25 @@ tags: [  ]
 actualPrice: 3.0 EUR
 currency: EUR
 price: 3.0
-comparePrice: 6.12 EUR
+comparePrice: 7.75 EUR
 prodname: 'Compo Cuidado de Las Plantas de Interior y de terraza Hierro líquido 500 ml'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Compo'
 buyurl: 'https://www.amazon.es/dp/B06XBFR11Q/?tag=tolees-21'
-descuento: '50.98'
-average: '3.98333333333333'
+descuento: '61.29'
+average: '3.7375'
 ---
 
-Está [Compo Cuidado de Las Plantas de Interior y de terraza Hierro líquido 500 ml](https://www.amazon.es/dp/B06XBFR11Q/?tag=tolees-21) con 50.98 de descuento por 3.0 EUR (original: 6.12 EUR) en el siguiente enlace!
+Está [Compo Cuidado de Las Plantas de Interior y de terraza Hierro líquido 500 ml](https://www.amazon.es/dp/B06XBFR11Q/?tag=tolees-21) con 61.29 de descuento por 3.0 EUR (original: 7.75 EUR) en el siguiente enlace!
 
 [![Compo Cuidado de Las Plantas de Interior](https://m.media-amazon.com/images/I/41VBJso8u4L._SL400_.jpg)](https://www.amazon.es/dp/B06XBFR11Q/?tag=tolees-21)
 
 ℹ️:
 
-- Solución de quelato de hierro de alta calidad y de eficacia inmediata
 - Marca: Compo
-- Solución de fertilizante basado en quelato de hierro (EDTA)
 - Especialmente formulado para aportar la dosis de hierro que necesitan las plantas
+- Solución de fertilizante basado en quelato de hierro (EDTA)
+- Solución de quelato de hierro de alta calidad y de eficacia inmediata
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06XBFR11Q/?tag=tolees-21)

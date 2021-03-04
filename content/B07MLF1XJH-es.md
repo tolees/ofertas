@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'ATOYX AT-96 - Drone para niños al 31.43 % de descuento'
-date: 2021-03-02 19:02:46
+title: 'ATOYX AT-96 - Drone para niños al 31.52 % de descuento'
+date: 2021-03-04 19:49:53
 image: 'https://m.media-amazon.com/images/I/31tbOHaBexL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: ring
 slug: 'B07MLF1XJH-es ATOYX AT-96 - Drone para niños'
 sku: 'B07MLF1XJH-es'
 tags: [  ]
-actualPrice: 16.23 EUR
+actualPrice: 16.21 EUR
 currency: EUR
-price: 16.23
+price: 16.21
 comparePrice: 23.67 EUR
 prodname: 'ATOYX AT-96 - Drone para niños'
 country: 'es'
 flag: '🇪🇸'
 brand: 'ATOYX'
 buyurl: 'https://www.amazon.es/dp/B07MLF1XJH/?tag=tolees-21'
-descuento: '31.43'
-average: '16.1216666666666'
+descuento: '31.52'
+average: '16.1304999999999'
 ---
 
-Está [ATOYX AT-96 - Drone para niños](https://www.amazon.es/dp/B07MLF1XJH/?tag=tolees-21) con 31.43 de descuento por 16.23 EUR (original: 23.67 EUR) en el siguiente enlace!
+Está [ATOYX AT-96 - Drone para niños](https://www.amazon.es/dp/B07MLF1XJH/?tag=tolees-21) con 31.52 de descuento por 16.21 EUR (original: 23.67 EUR) en el siguiente enlace!
 
 [![ATOYX AT-96 - Drone para niños](https://m.media-amazon.com/images/I/31tbOHaBexL._SL400_.jpg)](https://www.amazon.es/dp/B07MLF1XJH/?tag=tolees-21)
 

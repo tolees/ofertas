@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.15 % en Walt Disney Pictures - El Rey León DVD  '
-date: 2021-02-28 13:57:39
+date: 2021-03-04 20:14:57
 image: 'https://m.media-amazon.com/images/I/51hwg6UK9WL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Walt Disney Pictures'
 buyurl: 'https://www.amazon.es/dp/B07VG8F95J/?tag=tolees-21'
 descuento: '40.15'
-average: '13.324765625'
+average: '13.3034615384615'
 ---
 
 Tienes [Walt Disney Pictures - El Rey León DVD  imagen real ](https://www.amazon.es/dp/B07VG8F95J/?tag=tolees-21) con un 40.15 % de descuento con precio de oferta de 11.94 EUR (original: 19.95 EUR) en el siguiente enlace!

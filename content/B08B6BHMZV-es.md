@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HAWKERS Nº35 Sunglasses  ROSA/ORO  One S al 39.99 % de descuento'
-date: 2021-02-23 21:33:23
+date: 2021-03-04 20:34:14
 image: 'https://m.media-amazon.com/images/I/310IEp61+SL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Está [HAWKERS Nº35 Sunglasses  ROSA/ORO  One Size Unisex-Adult](https://www.am
 
 ℹ️:
 
-- Gafas de Sol Nº35, Unisex, rediseño de uno de los iconos de los años 50; su montura carey contrasta con sus lentes verde botella
-- Medidas: Frente: 14.2 cm, Altura: 4.4 cm, Diámetro de la lente: 5.1 cm; Puente: 1.4 cm; Varillas: 14.5 cm
 - Producto original Hawkers; la caja incluye funda de microfibra, caja y set de pegatinas decorativas
-- Montura fabricada en TR90 que dota a las gafas de gran ligereza, flexibilidad y resistencia; muy resistente a altas y bajas temperaturas
 - Lentes verde botella, fabricada en TR18, con reducción de brillos y con gran equilibrio entre claridad y protección; lente de categoría 3 con protección UV404
+- Gafas de Sol Nº35, Unisex, rediseño de uno de los iconos de los años 50; su montura carey contrasta con sus lentes verde botella
+- Montura fabricada en TR90 que dota a las gafas de gran ligereza, flexibilidad y resistencia; muy resistente a altas y bajas temperaturas
+- Medidas: Frente: 14.2 cm, Altura: 4.4 cm, Diámetro de la lente: 5.1 cm; Puente: 1.4 cm; Varillas: 14.5 cm
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08B6BHMZV/?tag=tolees-21)
