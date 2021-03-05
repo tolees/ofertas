@@ -28,10 +28,10 @@ Tienes [Candy CMXC30DCS Horno Microondas con Grill  Capacidad 30L  Plato Girator
 
 ℹ️:
 
+- Cook in app: aplicación para smartphone / tablet que proporciona consejos, trucos, recetas & información sobre los alimentos
 - Eliminación del sonido de los pulsadores & aviso final de cocción
 - 40 programas automáticos, entre los que destacan los dedicados a baby & healthy
 - Cavidad de acero inoxidable & plato giratorio de grandes dimensiones (31,5 cm)
 - Función eco: apagado del display
-- Cook in app: aplicación para smartphone / tablet que proporciona consejos, trucos, recetas & información sobre los alimentos
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01KPR0XFE/?tag=tolees-21)

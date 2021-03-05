@@ -28,9 +28,9 @@ Tienes [Hugo BOSS Reloj Analógico para Hombre de Cuarzo con Correa en Cuero 151
 
 🔎:
 
-- Correa marrón de piel con estampado de cocodrilo
-- 3 ATM de resistencia al agua
 - Grosor de la caja de 6,0 mm
+- 3 ATM de resistencia al agua
+- Correa marrón de piel con estampado de cocodrilo
 - Esfera blanca mate
 - Con dos manecillas de cuarzo
 

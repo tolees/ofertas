@@ -28,10 +28,10 @@ Tienes [BRA PRIOR Cacerola alta con tapa de cristal y asas de silicona  24 cm](h
 
 ℹ️:
 
+- Aluminio fundido
 - Asas de silicona termorresistente desmontables incluidas
 - Fondo difusor uniforme de eficiencia (Save energy system)
 - Apta para todo tipo de cocinas, incluido inducción
 - Recubrimiento antiadherente de la calidad tricapa Teflon Classic sin PFOA
-- Aluminio fundido
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01300AKXS/?tag=tolees-21)

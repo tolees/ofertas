@@ -28,10 +28,10 @@ En este momento está [Invicta 8935 Pro Diver Reloj Unisex acero inoxidable Cuar
 
 🔎:
 
-- El Invicta 8935 tiene una caja de acier inoxydable de 37 milímetros con una esfera azul
-- 2 años de garantía Invicta
-- Resistencia a la presión de agua de 20 bares. Tipo de Corona: empujar.
-- Este modelo funciona con un movimiento de Cuarzo preciso
 - Este modelo es parte de la colección Invicta Pro Diver
+- Resistencia a la presión de agua de 20 bares. Tipo de Corona: empujar.
+- El Invicta 8935 tiene una caja de acier inoxydable de 37 milímetros con una esfera azul
+- Este modelo funciona con un movimiento de Cuarzo preciso
+- 2 años de garantía Invicta
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B000GX3IKK/?tag=tolees-21)

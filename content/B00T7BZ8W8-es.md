@@ -28,10 +28,10 @@ En este momento está [Schneider Electric PM6U-GR Essential SurgeArrest de APC  
 
 🔎:
 
-- Directiva RoHS UE: Conforme
-- Estándar de salida: Schuko CEE 7
-- Color: Blanco
 - Frecuencia de red: 50 Hz
+- Estándar de salida: Schuko CEE 7
+- Directiva RoHS UE: Conforme
+- Color: Blanco
 - Tensión de entrada: 230V
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00T7BZ8W8/?tag=tolees-21)

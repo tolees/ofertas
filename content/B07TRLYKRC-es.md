@@ -28,8 +28,8 @@ Ahora mismo tienes [Daniel Wellington Petite Dover  Reloj Blanco/Oro Rosado  28m
 
 🔎:
 
-- Diseñadas Suecia, las piezas de Daniel Wellington presentan un estilo escandinavo minimalista y son el regalo o accesorio personal óptimo para cada ocasión
 - Longitud de la correa ajustable: (Min - Max) 143-190mm
+- Diseñadas Suecia, las piezas de Daniel Wellington presentan un estilo escandinavo minimalista y son el regalo o accesorio personal óptimo para cada ocasión
 - Correa intercambiable
 - Tamaño de Esfera: 28 mm
 

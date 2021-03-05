@@ -28,10 +28,10 @@ En este momento está [Reloj de pulsera CLUSE - Mujer CL18015](https://www.amazo
 
 🔎:
 
-- Reloj de mujer CLUSE moderno con correa de piel.
-- Diámetro de la carcasa: 38 mm.
-- Grosor de sólo 7 mm aprox.
 - Fina correa de piel auténtica en color gris con hebilla.
+- Diámetro de la carcasa: 38 mm.
 - Esfera blanca con marcas de oro rosa, pulidas.
+- Grosor de sólo 7 mm aprox.
+- Reloj de mujer CLUSE moderno con correa de piel.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00VTD1VH8/?tag=tolees-21)
