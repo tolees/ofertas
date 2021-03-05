@@ -28,8 +28,8 @@ Ahora mismo tienes [adidas Speed Split W Pantalones Cortos de Deporte  Mujer  Bl
 
 🔎:
 
-- Soft fabric
 - Regular fit
 - Elastic waistband with lanyard
+- Soft fabric
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B081SHXLK7/?tag=tolees-21)

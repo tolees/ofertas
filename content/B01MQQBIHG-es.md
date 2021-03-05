@@ -29,10 +29,10 @@ Está [Real Techniques Sculpting Set - Juego de brochas para contorneado facial]
 ℹ️:
 
 - 0
-- Estas brochas se limpian fácilmente y con ellas obtendrás resultados impecables.
-- 0
 - El juego incluye brochas con las que podrás conseguir un aspecto formidable.
 - Define los contornos de tu rostro para una mayor profundidad o simplemente resalta tus pómulos con nuestro juego de brochas para contornear.
+- Estas brochas se limpian fácilmente y con ellas obtendrás resultados impecables.
+- 0
 - 0
 - 0
 

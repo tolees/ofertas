@@ -28,13 +28,13 @@ Está [SUAVINEX 307493 - Set higiene edición limitada: gel-champú syndet 500ml
 
 ℹ️:
 
-- Tu bebé siempre limpio y fresquito con nuestros productos de cosmética infantil.
-- Línea cosmética pediátrica en envases provenientes de materias primas renovables.
-- Ideal para bebés +0 meses.
 - Gel-champú Syndet, 500ml - Limpia de forma especialmente suave piel y cabello. Ideal para recién nacidos. Fórmula sin jabón. No pica en los ojos. 88% ingredientes de origen natural.
 - Apto para pieles sensibles.
-- Precioso set higiene en una bonita caja dorada perfecta para regalo.
 - Set higiene de bebé con lo necesario para su cuidado. Con gel-champú Syndet 500ml + pomada intensiva pañal 75ml.
+- Ideal para bebés +0 meses.
+- Tu bebé siempre limpio y fresquito con nuestros productos de cosmética infantil.
+- Línea cosmética pediátrica en envases provenientes de materias primas renovables.
 - Pomada intensiva, 75ml - Ayuda a calmar las irritaciones y a restaurar la barrera cutánea. Con 89% de ingredientes de origen natural.
+- Precioso set higiene en una bonita caja dorada perfecta para regalo.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08NDLF36B/?tag=tolees-21)

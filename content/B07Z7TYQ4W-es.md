@@ -29,10 +29,10 @@ Tienes [Bella Aurora Tónico Exfoliante Iluminador  Tónico Facial  Elimina Impu
 🔎:
 
 - Este tónico facial elimina de manera eficaz cualquier resto de maquillaje o impurezas, al tiempo que lleva a cabo sobre el cutis una suave exfoliación que le aporta luminosidad a la piel
-- Aplicación: aplicar sobre el rostro limpio, mañana y/o noche, con la ayuda de un algodón
 - Nombre de la fragancia: fresh
-- Conservar en un lugar fresco y seco; mantener alejado del alcance de los niños; uso externo; evitar el contacto con los ojos; en caso de contacto, aclarar con abundante agua
-- Con activos anti-manchas; unifica y aclara el tono de la piel; reestablece el pH natural de la piel; sin alcohol; indicado para todo tipo de pieles
 - Fórmula rica en antioxidantes con extracto de hibiscus y flor de jeju exfolia suavemente la piel; elimina las células muertas, minimiza la apariencia de poros y acelera el proceso de renovación celular
+- Aplicación: aplicar sobre el rostro limpio, mañana y/o noche, con la ayuda de un algodón
+- Con activos anti-manchas; unifica y aclara el tono de la piel; reestablece el pH natural de la piel; sin alcohol; indicado para todo tipo de pieles
+- Conservar en un lugar fresco y seco; mantener alejado del alcance de los niños; uso externo; evitar el contacto con los ojos; en caso de contacto, aclarar con abundante agua
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07Z7TYQ4W/?tag=tolees-21)
