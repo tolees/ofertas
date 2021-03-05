@@ -28,10 +28,10 @@ En este momento está [Fluchos | Zapato de Hombre | HERACLES 8412 Memory Negro Z
 
 🔎:
 
-- COLOR: Negro
-- MATERIALES: Piel de vacuno de primera calidad y Piso de goma personalizado
 - TACÓN: Plano
-- CUIDADO DEL PRODUCTO: Lavado con paño húmedo. Es aconsejable utilizar cremas incoloras que no modifiquen el color natural de la piel. No utilizar productos agresivos con la piel, ni betún de color, pueden ser muy perjudiciales.
+- MATERIALES: Piel de vacuno de primera calidad y Piso de goma personalizado
 - CIERRE: Cordones
+- CUIDADO DEL PRODUCTO: Lavado con paño húmedo. Es aconsejable utilizar cremas incoloras que no modifiquen el color natural de la piel. No utilizar productos agresivos con la piel, ni betún de color, pueden ser muy perjudiciales.
+- COLOR: Negro
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B072Q18WRJ/?tag=tolees-21)
