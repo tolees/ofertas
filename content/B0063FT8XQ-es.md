@@ -28,8 +28,8 @@ En este momento está [Ibiza SLAP100 - Soporte de PC  portátil  para Maleta de 
 
 🔎:
 
-- Para músicos y DJ´S
 - Para colocar un PC portátil, un lector CD, una mesa de mezclas
 - Portátil y fácil de montar
+- Para músicos y DJ´S
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0063FT8XQ/?tag=tolees-21)
