@@ -28,7 +28,7 @@ Tienes [G-STAR RAW Hybrid Fyx Biker Tracktop Jacke Chaqueta  Negro  Dk Black B69
 
 🔎:
 
-- Corte ajustado.
 - Nuestra colección de abrigos y chaquetas se compone de estilos atemporales que combinan inspiración clásica con la innovación moderna.
+- Corte ajustado.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07VRY9RQM/?tag=tolees-21)

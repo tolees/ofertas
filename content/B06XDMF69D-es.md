@@ -29,9 +29,9 @@ Tienes [Bourjois Brow Palette Kit para cejas Tono 1 Blonde - 4.5 gr](https://www
 🔎:
 
 - Aplicador de doble punta con una brocha y un cepillo
-- Paleta de cejas 3 en 1 para un diseño y definición fácil de tus cejas
 - Define y esculpe con la cera, rellena e intensifca con el polvo y amplia la mirada con el iluminador
-- Hasta 16 horas de duración sin retoques
 - El kit perfecto para unas cejas naturales
+- Hasta 16 horas de duración sin retoques
+- Paleta de cejas 3 en 1 para un diseño y definición fácil de tus cejas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B06XDMF69D/?tag=tolees-21)
