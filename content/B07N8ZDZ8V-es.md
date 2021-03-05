@@ -28,10 +28,10 @@ En este momento está [Calvin Klein Reloj Analógico-Digital para Unisex Adultos
 
 🔎:
 
-- - Cristal: Cristal Mineral
-- - Material de la Carcasa: Acero inoxidable
 - Carcasa
-- - Color de la caja: Plata
+- - Cristal: Cristal Mineral
 - - Forma de la Carcasa: Redondo
+- - Color de la caja: Plata
+- - Material de la Carcasa: Acero inoxidable
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07N8ZDZ8V/?tag=tolees-21)
