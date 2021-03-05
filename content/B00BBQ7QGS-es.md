@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Babaria - Jabón De Manos de Coco&Aloe  B al 62.50 % de descuento'
-date: 2021-03-03 21:34:26
+title: 'Babaria - Jabón De Manos de Coco&Aloe  B al 53.12 % de descuento'
+date: 2021-03-04 22:06:08
 image: 'https://m.media-amazon.com/images/I/51+y30TrpgL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,29 +9,29 @@ author: ring
 slug: 'B00BBQ7QGS-es Babaria - Jabón De Manos de Coco&Aloe Blanco 500 ml'
 sku: 'B00BBQ7QGS-es'
 tags: [  ]
-actualPrice: 1.32 EUR
+actualPrice: 1.65 EUR
 currency: EUR
-price: 1.32
+price: 1.65
 comparePrice: 3.52 EUR
 prodname: 'Babaria - Jabón De Manos de Coco&Aloe  Blanco  500 ml'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Babaria'
 buyurl: 'https://www.amazon.es/dp/B00BBQ7QGS/?tag=tolees-21'
-descuento: '62.50'
-average: '1.74068783068781'
+descuento: '53.12'
+average: '1.73973821989527'
 ---
 
-Ahora mismo tienes [Babaria - Jabón De Manos de Coco&Aloe  Blanco  500 ml](https://www.amazon.es/dp/B00BBQ7QGS/?tag=tolees-21) a 1.32 EUR (original: 3.52 EUR) (62.50 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Babaria - Jabón De Manos de Coco&Aloe  Blanco  500 ml](https://www.amazon.es/dp/B00BBQ7QGS/?tag=tolees-21) a 1.65 EUR (original: 3.52 EUR) (53.12 %  de descuento) en el siguiente enlace!
 
 [![Babaria - Jabón De Manos de Coco&Aloe  B](https://m.media-amazon.com/images/I/51+y30TrpgL._SL400_.jpg)](https://www.amazon.es/dp/B00BBQ7QGS/?tag=tolees-21)
 
 🔎:
 
-- 500 g
 - Tipo de piel: Todas
-- Este producto está indicado tanto para mujeres como para hombres
 - Número de modelo del producto: 8410412027021
 - facil de usar
+- 500 g
+- Este producto está indicado tanto para mujeres como para hombres
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00BBQ7QGS/?tag=tolees-21)
