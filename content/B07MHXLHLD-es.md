@@ -29,8 +29,8 @@ Ahora mismo tienes [Funko - POP! Vinilo: Games: Fortnite: Loot Lama](https://www
 🔎:
 
 - Collect And Display All The Fortnite Pop Vinyls.
-- Funko Pop. Is The 2018 Toy Of The Year And Peoples Choice Award Winner
 - Games: Fortnite
+- Funko Pop. Is The 2018 Toy Of The Year And Peoples Choice Award Winner
 - This Loot Lama Funko Pop Vinyl Figure Joins The Games: Fortnite Range
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07MHXLHLD/?tag=tolees-21)

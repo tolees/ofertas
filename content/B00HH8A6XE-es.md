@@ -28,9 +28,9 @@ Está [Sony DSC-W830 - Cámara compacta de 20.1 Mp  pantalla de 2.7"  zoom ópti
 
 ℹ️:
 
-- Captura imágenes panorámicas con el barrido de 360°
 - Enfoque automático y modo Fiesta integrado
-- Lente de zoom óptico de 8x y modo vídeo HD 720p
+- Captura imágenes panorámicas con el barrido de 360°
 - Camara compacta con sensor Super HAD CCD de 20.1 MP
+- Lente de zoom óptico de 8x y modo vídeo HD 720p
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00HH8A6XE/?tag=tolees-21)
