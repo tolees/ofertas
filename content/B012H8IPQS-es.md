@@ -28,9 +28,9 @@ En este momento está [Garmin HRM-Tri  Monitor de frecuencia cardíaca para tria
 
 🔎:
 
-- Almacena y envía datos de frecuencia cardiaca a Forerunner 920
 - Diseñado especialmente para trialetas
 - Monitor de frecuencia cardiaca mas pequeño y ligero
+- Almacena y envía datos de frecuencia cardiaca a Forerunner 920
 - Comoda correa de ajuste facil.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B012H8IPQS/?tag=tolees-21)

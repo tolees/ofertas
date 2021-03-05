@@ -28,10 +28,10 @@ Ahora mismo tienes [Fossil Reloj Analógico para Mujer de Cuarzo con Correa en C
 
 🔎:
 
-- Grosor de la caja: 9mm; Tamaño de la caja: 36mm
-- Ancho de la correa: 14mm; Circunferencia de la correa: 175+/- 5mm
-- Material de la correa: Piel
-- Resistente al agua: 3 ATM
 - Se presenta en lata Fossil ilustrada de coleccionista (varios diseños)
+- Ancho de la correa: 14mm; Circunferencia de la correa: 175+/- 5mm
+- Resistente al agua: 3 ATM
+- Material de la correa: Piel
+- Grosor de la caja: 9mm; Tamaño de la caja: 36mm
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B077SXDRHY/?tag=tolees-21)
