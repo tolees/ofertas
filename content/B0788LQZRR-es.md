@@ -29,7 +29,7 @@ En este momento está [Tommy Hilfiger Repeat Logo Tape Joggers Pantalones Deport
 🔎:
 
 - Dos bolsillos ribeteados delanteros
-- Logo de Tommy Hilfiger bordado en el bolsillo
 - Cintura y puños elásticos
+- Logo de Tommy Hilfiger bordado en el bolsillo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0788LQZRR/?tag=tolees-21)

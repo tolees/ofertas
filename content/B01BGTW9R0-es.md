@@ -28,8 +28,8 @@ Tienes [G-STAR RAW Rovic Zip 3D Tapered Pantalon  Negro  raven 5126-976   32W / 
 
 ℹ️:
 
+- Ver descripción del producto para obtener más información.
 - G-Star Gris Rovic Zip 3D Cargos cónicos rectos
 - A estrenar y genuina. Somos un vendedor autorizado de G-Star.
-- Ver descripción del producto para obtener más información.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01BGTW9R0/?tag=tolees-21)

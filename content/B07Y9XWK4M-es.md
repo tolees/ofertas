@@ -28,9 +28,9 @@ Tienes [Xiaomi Redmi Note 8 - Smartphone de 6.3" FHD+  Snapdragon 665 Octa Core 
 
 🔎:
 
-- Batería de 4000 mAh, 18 W, de carga rápida, USB tipo C
-- Pantalla de 6.3", 2340 x 1080p FHD+
 - Snapdragon 665 Octa Core
+- Pantalla de 6.3", 2340 x 1080p FHD+
 - Cámara trasera cuádruple 48 MP + 8 MP + 2 MP + 2 MP, cámara frontal de 13 MP
+- Batería de 4000 mAh, 18 W, de carga rápida, USB tipo C
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07Y9XWK4M/?tag=tolees-21)
