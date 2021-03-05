@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 35.51 % en Plus Office EH303A-8/FC - Fundas multita'
-date: 2021-03-04 09:35:28
+date: 2021-03-05 17:45:39
 image: 'https://m.media-amazon.com/images/I/41g+yOdMLnL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Plus Office'
 buyurl: 'https://www.amazon.es/dp/B00NXMCFK0/?tag=tolees-21'
 descuento: '35.51'
-average: '9.86373333333333'
+average: '9.84801061007958'
 ---
 
 Tienes [Plus Office EH303A-8/FC - Fundas multitaladro folio-cristal  90 micras  100 unidades  transparente](https://www.amazon.es/dp/B00NXMCFK0/?tag=tolees-21) con un 35.51 % de descuento con precio de oferta de 6.9 EUR (original: 10.7 EUR) en el siguiente enlace!

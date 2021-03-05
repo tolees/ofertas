@@ -29,7 +29,7 @@ Ahora mismo tienes [Maybelline New York Maybelline New York Superstay Matte Ink 
 🔎:
 
 - Acabado mate de larga duración; efecto tinta líquida; no reseca ni cuartea
-- Pintalabios mate de larga duración efecto tinta líquida que no transfiere  
 - Sella el mate en tus labios con el color ink saturado  
+- Pintalabios mate de larga duración efecto tinta líquida que no transfiere  
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08NVRWNP2/?tag=tolees-21)
