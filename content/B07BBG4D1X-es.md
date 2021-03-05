@@ -28,9 +28,9 @@ Está [Philips Avent Scf813/14 - Biberón Anti Cólicos con Sistema Patentado Ai
 
 ℹ️:
 
-- El sistema AirFree está diseñado para ayudar a su bebé a ingerir menos aire, para reducir los cólicos, gases y reflujo
 - Mantiene la leche dentro y el aire fuera para facilitar la alimentación en posición erguida
 - La tetina se llena de leche, no de aire
+- El sistema AirFree está diseñado para ayudar a su bebé a ingerir menos aire, para reducir los cólicos, gases y reflujo
 - Tamaño: 260 ml
 - Fácil de limpiar y montar, gracias a la pieza única del sistema AirFree
 

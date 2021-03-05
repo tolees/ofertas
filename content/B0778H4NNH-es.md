@@ -28,8 +28,8 @@ Tienes [Fischer Duotec](https://www.amazon.es/dp/B0778H4NNH/?tag=tolees-21) con 
 
 🔎:
 
-- Duotec de fischer permiten un soporte de cargas muy pesadas para tacos vuelco
 - En materiales macizos, el taco también puede utilizarse como taco de expansión.
+- Duotec de fischer permiten un soporte de cargas muy pesadas para tacos vuelco
 - El taco fischer reduce el número de fijaciones y maximiza la seguridad.
 - En aplicaciones en placas, detrás de las cuales hay un hueco, se utiliza el DUOTEC como un taco vuelco
 - Como miembro de la línea DUO, el DUOTEC se compone de dos componentes de plástico. El componente rojo y duro del manguito del taco permite la distribución uniforme de la carga, y el gris y blando impide causar daños en la superficie de la placa durante la fijación, aumentando así la carga

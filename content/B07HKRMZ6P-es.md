@@ -28,10 +28,10 @@ Está [Intex 58782EU - Colchoneta Hoja de Palmera fotorrealista](https://www.ama
 
 ℹ️:
 
-- Se recomienda para 1 persona mayor de 14 años, soporta un peso máximo de 100 kg
-- Las dimensiones de la figura son 213 x 142 cm y el grosor del vinilo es de 0,30 mm
 - Diviértete sobre esta hoja de palmera hinchable Intex con diseño fotorrealista,
+- Se recomienda para 1 persona mayor de 14 años, soporta un peso máximo de 100 kg
 - La colchoneta tiene forma de hoja y cuenta con 2 cámaras de aire
 - Contiene set de reparación con parche ante posibles poros o pinchazos en la lona
+- Las dimensiones de la figura son 213 x 142 cm y el grosor del vinilo es de 0,30 mm
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07HKRMZ6P/?tag=tolees-21)
