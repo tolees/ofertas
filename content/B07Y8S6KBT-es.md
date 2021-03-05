@@ -28,12 +28,12 @@ Está [Microsoft Surface Laptop 3 - Ordenador portátil de 13.5" táctil  Intel 
 
 ℹ️:
 
-- Teclado QWERTY español, plata Alcantara
-- Sistema operativo Windows 10 Home
-- Disco duro sólido de 256GB
-- Memoria RAM de 8GB LPDDR4X
 - Pantalla táctil de 13.5 pulgadas (2256x1504 pixels)
+- Sistema operativo Windows 10 Home
+- Memoria RAM de 8GB LPDDR4X
 - Tarjeta gráfica Intel Iris plus 950
 - Procesador Intel 10ª Gen. Core i5-1035G7 (1.2GHz Base, 3.7GHz Turbo)
+- Disco duro sólido de 256GB
+- Teclado QWERTY español, plata Alcantara
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07Y8S6KBT/?tag=tolees-21)

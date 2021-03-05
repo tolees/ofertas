@@ -28,10 +28,10 @@ En este momento está [GEMVIE Niños Sombrero Pescador de Bebé Sol Protección 
 
 🔎:
 
-- El correa de cuello ajustable se puede ajustar por la barbilla y por la cabeza,asi inteligente mantiene el sombrero en su lugar en días ventosos
-- Hecho de 100% algódon de ese gorrito,La ala ancha puede proteger contra el sol (upf50+) , bien transpirable,sueva,cocido y buenos acabados.
-- Como Usar el Gorro:Puede bajar la visera, subirla y usarla, o abrochar los botones de ambos lados,como el estilo vaquero de oeste
 - Tienes la posibilidad de subir los laterales con un botón. Cuando está en el agua o ara las últimas horas del día en la playa ,puede dejar el borde a proteger su cara delicada
+- El correa de cuello ajustable se puede ajustar por la barbilla y por la cabeza,asi inteligente mantiene el sombrero en su lugar en días ventosos
+- Como Usar el Gorro:Puede bajar la visera, subirla y usarla, o abrochar los botones de ambos lados,como el estilo vaquero de oeste
 - El estapado floral es muy moda ,el gorro puede plegar fácil perfecto que puede llevar en la playa,la piscina ,casual dia , excursión ,viaje de cámping,no ocupar el espacio de su bolsa
+- Hecho de 100% algódon de ese gorrito,La ala ancha puede proteger contra el sol (upf50+) , bien transpirable,sueva,cocido y buenos acabados.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08VJCZPZF/?tag=tolees-21)

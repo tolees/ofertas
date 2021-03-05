@@ -28,8 +28,8 @@ En este momento está [Nike Court Vision LO  Zapatillas Hombre  Blanco  White/Wh
 
 🔎:
 
-- Zapatillas de la marca Nike
 - Comodidad duradera
+- Zapatillas de la marca Nike
 - Suela exterior de goma estable
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07NN3HVKZ/?tag=tolees-21)

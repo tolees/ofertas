@@ -28,12 +28,12 @@ Está [Maybelline New York - Face Studio Primer  Primer Prebase de Maquillaje  I
 
 ℹ️:
 
-- Aplicar sobre los puntos clave de la cara: frente, pómulos y barbilla y extiéndelo por todo el rostro con los dedos
 - El primer paso para una piel perfecta; ilumina tu rostro para un maquillaje natural y duradero
 - Prebase de maquillaje con base acuosa para un acabado suave e ingredientes activos perfeccionadores
+- Aporta luz a tu rostro con esta fórmula a base de microperlas
+- Aplicar sobre los puntos clave de la cara: frente, pómulos y barbilla y extiéndelo por todo el rostro con los dedos
 - Gama 3 colores según tu necesidad
 - Proteccion solar: 0 - No Aplicable sun_protection_factor
 - Tipo de piel: Normal
-- Aporta luz a tu rostro con esta fórmula a base de microperlas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06XWRGTMB/?tag=tolees-21)
