@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Marvel - Guardianes De La Galaxia 2 [Blu con un 40.03 % de descuento'
-date: 2021-03-04 09:38:21
+date: 2021-03-05 10:48:33
 image: 'https://m.media-amazon.com/images/I/61ocDCy6BrL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Marvel'
 buyurl: 'https://www.amazon.es/dp/B071V8BP3H/?tag=tolees-21'
 descuento: '40.03'
-average: '13.4500000000001'
+average: '13.0040000000001'
 ---
 
 En este momento está [Marvel - Guardianes De La Galaxia 2 [Blu-ray]](https://www.amazon.es/dp/B071V8BP3H/?tag=tolees-21) a 8.99 EUR (original: 14.99 EUR) (40.03 %  de descuento) en el siguiente enlace!
