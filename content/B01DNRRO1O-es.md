@@ -28,12 +28,12 @@ Está [Fleck EU Termo Eléctrico BON 75 2.0 W  230 V  75 L   Fabricado para ser 
 
 ℹ️:
 
-- CAPACIDAD Y CONSUMO: la función REC Plus garantiza el máximo confort con la máxima eficiencia, ya que optimiza los recursos para mantener caliente el agua del depósito con el mínimo consumo, lo que supone un ahorro energético de hasta un 14%.
+- MULTIPOSICION: un mismo modelo puede instalarse vertical u horizontalmente
+- MAXIMA SEGURIDAD: Termostato electrónico y sonda de control ntc, sistema de protección del calderín smalt power system (sps), termostato electrónico y sonda de control ntc
 - Termo eléctrico diseñado y fabricado para ser instalado en España
 - ADAPTADO A TI: Diámetro muy reducido (dimensiones: diámetro 353 y 413 mm) para mayor aprovechamiento del espacio.
-- MAXIMA SEGURIDAD: Termostato electrónico y sonda de control ntc, sistema de protección del calderín smalt power system (sps), termostato electrónico y sonda de control ntc
 - DISEÑO FUNCIONAL: Sistema de protección del calderín smalt power system (sps)
-- MULTIPOSICION: un mismo modelo puede instalarse vertical u horizontalmente
+- CAPACIDAD Y CONSUMO: la función REC Plus garantiza el máximo confort con la máxima eficiencia, ya que optimiza los recursos para mantener caliente el agua del depósito con el mínimo consumo, lo que supone un ahorro energético de hasta un 14%.
 - Resistencia blindada sumergida
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01DNRRO1O/?tag=tolees-21)

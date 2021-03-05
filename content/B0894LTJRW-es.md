@@ -28,10 +28,10 @@ Tienes [Grupo Erik The Boys Botella de Agua Acero Inoxidable con mosquetón  500
 
 🔎:
 
-- Práctica, moderna y reutilizable. Viene con mosquetón incluido para que te la puedas colgar de manera segura mientras haces deporte o cualquier otra actividad. Te acompañará al gimnasio, a la universidad, a la oficina o al colegio manteniendo tu bebida siempre en perfecto estado
-- Erik - Especializados en papelería, merchandising y pósters con las licencias más actuales del mercado. Calidad y diseño es lo que nos caracteriza
 - Fabricada con acero inoxidable 304 de alta calidad resistente a la oxidación, tanto por fuera como por dentro, se desinfecta mucho más rápido; libre de BPA, no contiene partículas de este compuesto orgánico y es isotérmica mantiene, las bebidas calientes hasta 12 horas y frías hasta 24 horas
 - Tiene una capacidad de 500 ml y un tamaño de 25x7 cm, perfecta para llevarla a donde quieras
 - Siempre es bueno tener a mano algo para refrescarse, ya sea haciendo deporte, en la playa, en el trabajo o dando un paseo. Con esta fantástica botella no necesitarás nada más
+- Erik - Especializados en papelería, merchandising y pósters con las licencias más actuales del mercado. Calidad y diseño es lo que nos caracteriza
+- Práctica, moderna y reutilizable. Viene con mosquetón incluido para que te la puedas colgar de manera segura mientras haces deporte o cualquier otra actividad. Te acompañará al gimnasio, a la universidad, a la oficina o al colegio manteniendo tu bebida siempre en perfecto estado
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0894LTJRW/?tag=tolees-21)
