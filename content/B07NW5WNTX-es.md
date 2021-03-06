@@ -28,10 +28,10 @@ Tienes [Vernel Perlas Potenciador de Perfume  Fresh Joy – Pack de 4  Total 104
 
 ℹ️:
 
-- Con Tecnología de Micro-Perlas: Liberando gradualmente su maravillosa fragancia con cada movimiento.
-- Las perlas de Vernel se dosifican en el tambor vacío, antes de añadir la colada.
-- Suavizante con aceite de Sándalo y Jazmín: Siente el efecto relajante de una fragancia oriental y floral.
-- Potencia aún más tu fragancia favorita de Vernel con las Perlas de Perfume Suavizantes para poder disfrutar de un aroma más intenso y duradero en la ropa - hasta 20 semanas*
 - Adecuado para todas las temperaturas, colores y tejidos, incluso ropa deportiva.
+- Potencia aún más tu fragancia favorita de Vernel con las Perlas de Perfume Suavizantes para poder disfrutar de un aroma más intenso y duradero en la ropa - hasta 20 semanas*
+- Suavizante con aceite de Sándalo y Jazmín: Siente el efecto relajante de una fragancia oriental y floral.
+- Las perlas de Vernel se dosifican en el tambor vacío, antes de añadir la colada.
+- Con Tecnología de Micro-Perlas: Liberando gradualmente su maravillosa fragancia con cada movimiento.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07NW5WNTX/?tag=tolees-21)
