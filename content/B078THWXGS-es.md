@@ -29,9 +29,9 @@ En este momento está [PUMA Camiseta para Hombre Liga Jersey Core  Hombre  Jerse
 🔎:
 
 - Tiene una sola costura, sin refuerzo en la sisa
-- Con cinta en la parte posterior del cuello
-- Tiene estampado el logotipo de la marca
 - Camiseta con mangas cortas para hombres
+- Tiene estampado el logotipo de la marca
 - Tiene cuello en forma de V
+- Con cinta en la parte posterior del cuello
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B078THWXGS/?tag=tolees-21)

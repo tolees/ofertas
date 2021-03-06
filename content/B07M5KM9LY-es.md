@@ -28,9 +28,9 @@ Tienes [KARACTERMANIA - Diseny Icons Bambi-Bolso Cadena Slim](https://www.amazon
 
 🔎:
 
-- Bolso al hombro pequeño
 - Cadena al hombro de 104cm
-- Dimensiones: 19,5 x 19 x 2cm
 - Compartimento único cerrado con cremallera
+- Dimensiones: 19,5 x 19 x 2cm
+- Bolso al hombro pequeño
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07M5KM9LY/?tag=tolees-21)

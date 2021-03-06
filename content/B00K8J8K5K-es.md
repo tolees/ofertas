@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.61 % en Calvin Klein Underwear  Braguitas para M'
-date: 2021-03-04 09:40:49
+date: 2021-03-06 14:38:27
 image: 'https://m.media-amazon.com/images/I/41unfmb5FFL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Calvin Klein'
 buyurl: 'https://www.amazon.es/dp/B00K8J8K5K/?tag=tolees-21'
 descuento: '30.61'
-average: '14.4774390243903'
+average: '14.4301190476191'
 ---
 
 Tienes [Calvin Klein Underwear  Braguitas para Mujer  Negro  BLACK 001   M](https://www.amazon.es/dp/B00K8J8K5K/?tag=tolees-21) con un 30.61 % de descuento con precio de oferta de 12.49 EUR (original: 18.0 EUR) en el siguiente enlace!

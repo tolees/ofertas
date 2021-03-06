@@ -28,10 +28,10 @@ En este momento está [Pepe Jeans Lulu Suéter  Rosa  321   Large para Mujer](ht
 
 🔎:
 
-- Tejido fluido super suave
-- Detalle calados
 - Jersey cuello redondo punto fino
-- Puños y bajo elásticos
 - Fit regular
+- Detalle calados
+- Puños y bajo elásticos
+- Tejido fluido super suave
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08483VQSZ/?tag=tolees-21)

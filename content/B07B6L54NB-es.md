@@ -29,9 +29,9 @@ Tienes [NZI Zeta Casco Graphics W Vespa Turia  W-VESPA TURIA  Talla XS](https://
 🔎:
 
 - Tecnologías: carcasa realizada con nugema, cierre micrométrico, visor tratado con revestimiento anti-rayas, homologación de las naciones unidas ECE/un R.22.05
-- Muy compacto, pequeño y ligero
 - Sencillez de líneas, reminiscencias Retro simples y elegantes
-- Visor desmontable sin necesidad de utilizar herramientas, bolsa portacascos incluida en el precio, fácil de usar con guantes, tallas: XS, S, M, L, XL
 - Tapicería interior desmontable y lavable a mano
+- Muy compacto, pequeño y ligero
+- Visor desmontable sin necesidad de utilizar herramientas, bolsa portacascos incluida en el precio, fácil de usar con guantes, tallas: XS, S, M, L, XL
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07B6L54NB/?tag=tolees-21)

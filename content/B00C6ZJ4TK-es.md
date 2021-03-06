@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'APLI 12848 - Cola  40 g  color blanco al 78.00 % de rebaja'
-date: 2021-03-05 03:43:27
+date: 2021-03-06 14:34:13
 image: 'https://m.media-amazon.com/images/I/41KOL0aSZ0L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'APLI'
 buyurl: 'https://www.amazon.es/dp/B00C6ZJ4TK/?tag=tolees-21'
 descuento: '78.00'
-average: '1.05407766990289'
+average: '1.04923076923074'
 ---
 
 Tienes [APLI 12848 - Cola  40 g  color blanco](https://www.amazon.es/dp/B00C6ZJ4TK/?tag=tolees-21) con precio final de  0.55 EUR (original: 2.5 EUR) (78.00 %  de rebaja) aqui!
