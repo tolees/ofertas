@@ -29,8 +29,8 @@ Tienes [Emporio Armani ART5011 reloj inteligente Black - Relojes inteligentes  B
 ℹ️:
 
 - Conectividad: Bluetooth Smart Enabled / 4.2 Low Energy, Compatibilidad: Android 6.0+ (excluyendo la edición Go), iOS 10.0 +, Resistente al agua: 5 ATM
+- Tipo de vidrio: Cristal mineral con pantalla táctil, Funciones: seguimiento de frecuencia cardíaca, GPS, Google Pay, prueba de natación, notificaciones, personaliza tu dial, controla tu música, intercambiable, chip NFC, banda de reloj y muchos más
 - Grosor de la caja: 8 mm, Tamaño de la caja: 46 mm, Ancho de correa: 20 mm, Duración de la batería: 1-2 días Según el uso
 - Material de la correa: acero inoxidable negro, circunferencia interna de la correa: 200 +/- 5 mm, notificaciones: reloj despertador, alertas de aplicaciones, alertas de calendario, correo electrónico, zonas horarias múltiples, redes sociales, texto
-- Tipo de vidrio: Cristal mineral con pantalla táctil, Funciones: seguimiento de frecuencia cardíaca, GPS, Google Pay, prueba de natación, notificaciones, personaliza tu dial, controla tu música, intercambiable, chip NFC, banda de reloj y muchos más
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07GD8ZZ35/?tag=tolees-21)

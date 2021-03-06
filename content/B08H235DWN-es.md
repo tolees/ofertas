@@ -28,10 +28,10 @@ Tienes [WAVLINK USB 3.0 Bases de Conexión Docking Station Pantalla Dual con HDM
 
 ℹ️:
 
-- Salida HDMI y DVI incorporada con cada resolución de hasta 1920x1200 @ 60Hz, el puerto HDMI admite resoluciones de hasta 2560x1440 @ 50Hz con una sola pantalla HDMI. Se suministra un adaptador DVI a VGA para mayor flexibilidad, ideal para diferentes aplicaciones de espacios de trabajo en el hogar y la oficina
-- Se sugiere utilizar la estación de acoplamiento con software web y de productividad; no recomendado para juegos, no se puede combinar con adaptadores USB que no sean DisplayLink
-- Incorpora GPU USB 3.0 certificada por DisplayLink. El tamaño compacto, el estado de la pantalla LED, la configuración fácil, el rendimiento de operación multifunción le brindan un nuevo estilo de vida. Todos nuestros productos ofrecen una garantía limitada de 12 meses
 - Soporte del sistema: Windows 10, 8, 7 y sistemas XP heredados. la instalación del controlador a través de Windows Update. Surface RT, Mac OS / Linux no son compatibles. (Consulte el sitio web de Display Link para obtener más información sobre la compatibilidad del sistema)
 - Gigabit Ethernet RJ-45 puerto 10/100 / 1000Mbps Ethernet, le proporciona una conexión de red por cable rápida. 4 puertos USB 2.0 cumplen con todos los dispositivos USB 2.0 como teclado, mouse, impresora, etc. 2 puertos USB 3.0 para una supervelocidad de transferencia de hasta 5 Gbps y 900 mA de potencia, puede conectar sus periféricos USB o memoria USB para resolver dispositivos USB externos y transferencia de archivos de alta velocidad para trabajadores de oficina en casa
+- Se sugiere utilizar la estación de acoplamiento con software web y de productividad; no recomendado para juegos, no se puede combinar con adaptadores USB que no sean DisplayLink
+- Incorpora GPU USB 3.0 certificada por DisplayLink. El tamaño compacto, el estado de la pantalla LED, la configuración fácil, el rendimiento de operación multifunción le brindan un nuevo estilo de vida. Todos nuestros productos ofrecen una garantía limitada de 12 meses
+- Salida HDMI y DVI incorporada con cada resolución de hasta 1920x1200 @ 60Hz, el puerto HDMI admite resoluciones de hasta 2560x1440 @ 50Hz con una sola pantalla HDMI. Se suministra un adaptador DVI a VGA para mayor flexibilidad, ideal para diferentes aplicaciones de espacios de trabajo en el hogar y la oficina
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08H235DWN/?tag=tolees-21)
