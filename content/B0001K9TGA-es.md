@@ -28,9 +28,9 @@ Tienes [Draper Expert 35574 - Crimpadora de terminales mediante acción de trinq
 
 🔎:
 
-- Cuenta con acero al carbono con mandíbulas templadas y templadas
-- Adecuado para el engarzado de terminales aislados de la siguiente manera: canal rojo: 0.5 - 1.00 mm², canal azul: 1.5 - 2.5 mm² y canal amarillo: 4.0 - 6.0 mm²
-- Acabado químicamente negro con empuñaduras de PVC
 - El engarzado continuo a la tensión prefijada garantiza un engarzado preciso
+- Cuenta con acero al carbono con mandíbulas templadas y templadas
+- Acabado químicamente negro con empuñaduras de PVC
+- Adecuado para el engarzado de terminales aislados de la siguiente manera: canal rojo: 0.5 - 1.00 mm², canal azul: 1.5 - 2.5 mm² y canal amarillo: 4.0 - 6.0 mm²
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0001K9TGA/?tag=tolees-21)

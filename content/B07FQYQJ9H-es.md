@@ -29,8 +29,8 @@ Tienes [Clarks Un Aldric Step  Mocasines Hombre  Negro  Black Leather-   42.5 EU
 🔎:
 
 - Cierre: sin cierre
-- Suela: goma
-- Ancho del zapato: estrecho
 - Exterior: piel
+- Ancho del zapato: estrecho
+- Suela: goma
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07FQYQJ9H/?tag=tolees-21)

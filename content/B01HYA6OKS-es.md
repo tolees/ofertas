@@ -28,8 +28,8 @@ Está [Patrulla Canina - Mantel Skye y Everest  Design Ware 571665 ](https://www
 
 ℹ️:
 
+- Mantel
 - Patrulla Canina
 - Skye y Everest
-- Mantel
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01HYA6OKS/?tag=tolees-21)

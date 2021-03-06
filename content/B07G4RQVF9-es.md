@@ -28,10 +28,10 @@ Tienes [Hugo BOSS Reloj Cronógrafo para Hombre de Cuarzo con Correa en Cuero 15
 
 🔎:
 
-- Esfera blanca mate
-- Correa marrón de piel con estampado de cocodrilo
-- Cronógrafo de cuarzo
 - 5 ATM de resistencia al agua
 - Grosor de la caja de 12,00 mm
+- Cronógrafo de cuarzo
+- Esfera blanca mate
+- Correa marrón de piel con estampado de cocodrilo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07G4RQVF9/?tag=tolees-21)
