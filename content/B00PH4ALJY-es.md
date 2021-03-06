@@ -28,9 +28,9 @@ Tienes [BW - B+W XS-Pro HTC MRC - Filtro polarizador de 82 mm](https://www.amazo
 
 🔎:
 
-- Polarisant htc käsemann XS-pro digital, 82 mm
 - B+W es un nombre de marca reconocido
 - Producto de alta calidad
+- Polarisant htc käsemann XS-pro digital, 82 mm
 - Producto nuevo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00PH4ALJY/?tag=tolees-21)

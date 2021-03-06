@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'STANLEY STST1-80150 - Arcón para herrami al 29.95 % de descuento'
-date: 2021-03-05 03:43:29
+date: 2021-03-06 09:39:24
 image: 'https://m.media-amazon.com/images/I/41-3Otf-LyL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Stanley'
 buyurl: 'https://www.amazon.es/dp/B06XCP1XFP/?tag=tolees-21'
 descuento: '29.95'
-average: '42.4913142857142'
+average: '42.4065536723163'
 ---
 
 Está [STANLEY STST1-80150 - Arcón para herramientas con cierres metálicos  66.5 x 40.4 x 34.4 cm  capacidad 40 kg](https://www.amazon.es/dp/B06XCP1XFP/?tag=tolees-21) con 29.95 de descuento por 34.99 EUR (original: 49.95 EUR) en el siguiente enlace!
@@ -28,14 +28,14 @@ Está [STANLEY STST1-80150 - Arcón para herramientas con cierres metálicos  66
 
 ℹ️:
 
-- Bandeja extraíble para un almacenamiento organizado de herramientas y accesorios más pequeños
-- Caja de herramientas de gran capacidad de 50L
-- Ruedas de 7 "para portabilidad
-- Ideal para el almacenamiento diario
-- Mango telescópico duradero para usar con ruedas
-- Ranura en V integral para un corte conveniente de madera o tubería
-- Pestillos de metal geométricos
 - Bucle de candado para seguridad
 - Bandejas organizadoras de compartimentos integrales para piezas pequeñas y accesorios
+- Ruedas de 7 "para portabilidad
+- Ranura en V integral para un corte conveniente de madera o tubería
+- Ideal para el almacenamiento diario
+- Bandeja extraíble para un almacenamiento organizado de herramientas y accesorios más pequeños
+- Caja de herramientas de gran capacidad de 50L
+- Mango telescópico duradero para usar con ruedas
+- Pestillos de metal geométricos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06XCP1XFP/?tag=tolees-21)
