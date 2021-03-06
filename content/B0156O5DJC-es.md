@@ -29,9 +29,9 @@ Tienes [Sophie la girafe 240117 - Rollin   unisex](https://www.amazon.es/dp/B015
 ℹ️:
 
 - Rodillo para escalar, rodar, sentarse a horcajadas que permite desarrollar las habilidades motoras y el equilibrio del bebé.
-- Muy ligero, fácil de inflar y de transportar.
-- Distintas actividades para que el bebé descubra y estimule sus sentidos.
-- La estructura inflable cubierta con tela proporciona comodidad, suavidad y seguridad
 - Bolas de sonido dentro del rodillo, papel arrugado o un efecto de sonido escondido para estimular la audición
+- Muy ligero, fácil de inflar y de transportar.
+- La estructura inflable cubierta con tela proporciona comodidad, suavidad y seguridad
+- Distintas actividades para que el bebé descubra y estimule sus sentidos.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0156O5DJC/?tag=tolees-21)

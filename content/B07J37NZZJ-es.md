@@ -28,9 +28,9 @@ Ahora mismo tienes [Under Armour Coldgear Armour Mock Camisa De Manga Larga  Ni�
 
 🔎:
 
+- Material que capilariza el sudor y se seca rápidamente
+- Tejido de doble capa con interior cepillado ultracálido y un exterior suave de secado rápido
 - Confección de cuello cerrado con logotipo bordado
 - Confección con tejido elástico en 4 direcciones que permite una mayor movilidad
-- Tejido de doble capa con interior cepillado ultracálido y un exterior suave de secado rápido
-- Material que capilariza el sudor y se seca rápidamente
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07J37NZZJ/?tag=tolees-21)

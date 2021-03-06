@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'New Balance 500  Zapatillas  Azul  Navy/ al 42.24 % de descuento'
-date: 2021-02-25 17:47:15
+date: 2021-03-06 12:04:21
 image: 'https://m.media-amazon.com/images/I/41+9++FH8PL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Está [New Balance 500  Zapatillas  Azul  Navy/Blue BB   33 EU](https://www.amaz
 
 ℹ️:
 
+- Modelo: NBKV500
 - Marca: New Balance
 - Prodotto: tenis
 - Color: azul marino
-- Modelo: NBKV500
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01NBVCTWB/?tag=tolees-21)

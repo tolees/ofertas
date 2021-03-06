@@ -29,7 +29,7 @@ Ahora mismo tienes [Hurley M Phtm Exotic 18  Bañador  Hombre  Black  34](https:
 🔎:
 
 - El tejido Phantom es de secado rápido y elástico en cuatro direcciones para máxima comodidad y movilidad
-- Ajuste normal
 - Largo de 46 cm por encima de la rodilla para mayor libertad de movimiento
+- Ajuste normal
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07YMD737H/?tag=tolees-21)

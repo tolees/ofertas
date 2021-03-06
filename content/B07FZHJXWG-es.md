@@ -29,7 +29,7 @@ Ahora mismo tienes [Adidas Tiro 19 Polyester Jacke Chaqueta Deportiva  Hombre  B
 🔎:
 
 - Regular fit
-- Full zip
 - Front pockets
+- Full zip
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07FZHJXWG/?tag=tolees-21)
