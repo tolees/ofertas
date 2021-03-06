@@ -29,7 +29,7 @@ Tienes [Instituto Español Bebe Champú Extra Suave - 300 ml](https://www.amazon
 ℹ️:
 
 - Tipo de producto: Champú
-- Género: Unisex Infantil
 - Marca: Instituto Español
+- Género: Unisex Infantil
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B075HLTMJR/?tag=tolees-21)

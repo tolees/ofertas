@@ -28,8 +28,8 @@ Tienes [SIGMA C40900 - Camara compacta de 33 MP  CMOS  F1.4  ISO 100-6400  Color
 
 🔎:
 
-- La serie SD  Quattro permite a los fotógrafos a expresarse con mayor libertad y precisión. Diseñada para el artista que ama la fotografía
 - Con el sensor  de imagen de tamaño APS-C , Foveon X3 Quattro equivalente a  29 megapíxeles, esta cámara equilibra de manera óptima  una calidad de imagen excepcional con un rendimiento fundamental
 - Con visor electrónico, 9 puntos de enfoque, 12 ajustes de balance de blancos, 11 modos de color. Pantalla LCD de 3”
+- La serie SD  Quattro permite a los fotógrafos a expresarse con mayor libertad y precisión. Diseñada para el artista que ama la fotografía
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01HHR56S4/?tag=tolees-21)

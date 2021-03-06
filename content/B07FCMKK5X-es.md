@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 49.14 % en SanDisk Extreme - Tarjeta de memoria mic'
-date: 2021-03-05 11:36:06
+date: 2021-03-06 21:16:19
 image: 'https://m.media-amazon.com/images/I/41O4rjSlneL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SanDisk'
 buyurl: 'https://www.amazon.es/dp/B07FCMKK5X/?tag=tolees-21'
 descuento: '49.14'
-average: '23.3322222222222'
+average: '23.3391463414634'
 ---
 
 Tienes [SanDisk Extreme - Tarjeta de memoria microSDXC de 128 GB con adaptador SD  A2  hasta 160 MB/s  Class 10  U3 y V30](https://www.amazon.es/dp/B07FCMKK5X/?tag=tolees-21) con un 49.14 % de descuento con precio de oferta de 23.9 EUR (original: 46.99 EUR) en el siguiente enlace!
