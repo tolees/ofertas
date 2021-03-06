@@ -28,11 +28,11 @@ Está [Rayen | Tendedero con alas | Superficie de tendido de 19 m | Sistema de b
 
 ℹ️:
 
-- Fabricado en acero con revestimiento de pintura gris metalizada.
+- Ligero, se desplaza fácilmente.
+- Tendedero con alas para un secado al aire eficaz tanto en interior como en exterior.
 - Medidas del tendedero: 177 x 54,5 x 107,5 cm | Superficie de tendido: 19m
+- Fabricado en acero con revestimiento de pintura gris metalizada.
 - Plegable, ocupa muy poco espacio.
 - Con sistema de bloqueo de alas y patas antideslizantes.
-- Tendedero con alas para un secado al aire eficaz tanto en interior como en exterior.
-- Ligero, se desplaza fácilmente.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00DYX7TI6/?tag=tolees-21)

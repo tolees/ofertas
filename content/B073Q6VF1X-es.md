@@ -1,32 +1,35 @@
 ---
 layout: post
-title: 'Saucony Jazz Original Vintage  Zapatilla al 28.41 % de descuento'
-date: 2020-02-17 05:00:34
-image: 'https://m.media-amazon.com/images/I/418e5aUJ98L._AC_._SL400_.jpg'
+title: 'Saucony Jazz Original Vintage  Zapatilla al 59.82 % de descuento'
+date: 2021-03-06 16:06:47
+image: 'https://m.media-amazon.com/images/I/41MymK4cI6L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B073Q6VF1X-es Saucony Jazz Original Vintage Zapatillas de Cross Unisex...'
 sku: 'B073Q6VF1X-es'
 tags: [  ]
-actualPrice: 58.8 EUR
+actualPrice: 33.0 EUR
 currency: EUR
-price: 58.8
+price: 33.0
 comparePrice: 82.14 EUR
 prodname: 'Saucony Jazz Original Vintage  Zapatillas de Cross Unisex Adulto  Negro  Black/White   45 EU'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Saucony'
 buyurl: 'https://www.amazon.es/dp/B073Q6VF1X/?tag=tolees-21'
-descuento: '28.41'
-average: '58.8'
+descuento: '59.82'
+average: '41.6'
 ---
 
-Está [Saucony Jazz Original Vintage  Zapatillas de Cross Unisex Adulto  Negro  Black/White   45 EU](https://www.amazon.es/dp/B073Q6VF1X/?tag=tolees-21) con 28.41 de descuento por 58.8 EUR (original: 82.14 EUR) en el siguiente enlace!
+Está [Saucony Jazz Original Vintage  Zapatillas de Cross Unisex Adulto  Negro  Black/White   45 EU](https://www.amazon.es/dp/B073Q6VF1X/?tag=tolees-21) con 59.82 de descuento por 33.0 EUR (original: 82.14 EUR) en el siguiente enlace!
 
-[![Saucony Jazz Original Vintage  Zapatilla](https://m.media-amazon.com/images/I/418e5aUJ98L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B073Q6VF1X/?tag=tolees-21)
+[![Saucony Jazz Original Vintage  Zapatilla](https://m.media-amazon.com/images/I/41MymK4cI6L._SL400_.jpg)](https://www.amazon.es/dp/B073Q6VF1X/?tag=tolees-21)
 
 ℹ️:
 
+- Saucony Negro Zapatillas vintage Jazz Original
+- A estrenar y genuina. Somos un vendedor autorizado de Saucony.
+- Ver descripción del producto para obtener más información.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B073Q6VF1X/?tag=tolees-21)
