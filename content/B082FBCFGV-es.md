@@ -28,10 +28,10 @@ Ahora mismo tienes [FAGORY Termo de Café Portátil Termo Taza Frasco de Vacío 
 
 🔎:
 
-- 【DISEÑO AVANZADO】Viene con una funda de silicona extraíble y reversible y un gancho portátil. Tecnología de pintura avanzada para evitar que se desprenda la pintura. La parte inferior de la taza de café tiene una goma para evitar que deslice y vuelque.
 - 【CAPACIDAD PERFECTA】Gran capacidad de 500ml para cubrir sus necesidades. Puede disfrutar de café, té, vino o zumo. Ideal para actividades en el interior o al aire libre, y aporta una buena sensación al usar. Ofrecemos un año de garantía para esta taza de viaje.
-- 【AMPLIO USO】Nuestra taza de viaje es el compañero ideal tanto en interiores como al aire libre. Meta su taza aislada a prueba de fugas y derrames en el bolso, mochila o cartera, sin preocuparse por derrames o fugas. Es el mejor regalo para amigos, familiares, niños, hijos e hijas.
-- 【MATERIALES DE SEGURIDAD】Esta taza de café ecológica tiene un anillo de sellado de silicona hermético natural de grado alimenticio hecho de material PP ecológico. Sin BPA, evita el aumento de bacterias y mantiene la bebida sin olor.
 - 【RETENCIÓN DE TEMPERATURA】Esta taza de café reutilizable de viaje está hecha de acero inoxidable de alta calidad de doble capa que mantiene la temperatura (caliente / helado) hasta 8 horas. Vierta café o té caliente o helado en la taza de viaje y energízate para el día.
+- 【DISEÑO AVANZADO】Viene con una funda de silicona extraíble y reversible y un gancho portátil. Tecnología de pintura avanzada para evitar que se desprenda la pintura. La parte inferior de la taza de café tiene una goma para evitar que deslice y vuelque.
+- 【MATERIALES DE SEGURIDAD】Esta taza de café ecológica tiene un anillo de sellado de silicona hermético natural de grado alimenticio hecho de material PP ecológico. Sin BPA, evita el aumento de bacterias y mantiene la bebida sin olor.
+- 【AMPLIO USO】Nuestra taza de viaje es el compañero ideal tanto en interiores como al aire libre. Meta su taza aislada a prueba de fugas y derrames en el bolso, mochila o cartera, sin preocuparse por derrames o fugas. Es el mejor regalo para amigos, familiares, niños, hijos e hijas.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B082FBCFGV/?tag=tolees-21)
