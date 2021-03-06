@@ -29,9 +29,9 @@ Tienes [Casio Reloj digital STL-S100H-1AVEF](https://www.amazon.es/dp/B00IAOLCOQ
 ℹ️:
 
 - Incluye luz LED, cronómetro, temporizadores, 5 alarmas diarias y calendario automático
+- Resistente al agua hasta 10 bar / 100 metros
 - Tiene indicador de hora y fecha, indicador de carga de pila y formato de 12 y 24 horas
 - Caja y correa de resina sintética, un material flexible y resistente
 - La duración de la batería es de 3 años
-- Resistente al agua hasta 10 bar / 100 metros
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00IAOLCOQ/?tag=tolees-21)

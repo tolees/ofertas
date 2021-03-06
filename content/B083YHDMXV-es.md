@@ -28,7 +28,7 @@ En este momento está [Desigual Sport Accessories Woven Shoulder Bag  Bolso band
 
 🔎:
 
-- Azul
 - Diseño; Accesorios; Back; Shoulder Bag; Blue
+- Azul
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B083YHDMXV/?tag=tolees-21)

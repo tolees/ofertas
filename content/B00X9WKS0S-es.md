@@ -29,7 +29,7 @@ Tienes [L Oreal Paris Elnett - L Oreal Elnett Protector Calor Spray Fijador Cabe
 ℹ️:
 
 - Protege los daños del calor hasta 230 °c
-- Suaviza el pelo
 - Fórmula ligera que cubre el cabello de la raíz a las puntas
+- Suaviza el pelo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00X9WKS0S/?tag=tolees-21)

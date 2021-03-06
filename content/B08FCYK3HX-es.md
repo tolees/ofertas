@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Meridiem Games - Asterix & Obelix Xxl -  con un 42.01 % de descuento'
-date: 2021-03-04 13:28:30
+date: 2021-03-06 20:22:32
 image: 'https://m.media-amazon.com/images/I/51BH2rHljpL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Meridiem Games'
 buyurl: 'https://www.amazon.es/dp/B08FCYK3HX/?tag=tolees-21'
 descuento: '42.01'
-average: '29.7369999999999'
+average: '29.6903125'
 ---
 
 En este momento está [Meridiem Games - Asterix & Obelix Xxl - Romastered](https://www.amazon.es/dp/B08FCYK3HX/?tag=tolees-21) a 28.99 EUR (original: 49.99 EUR) (42.01 %  de descuento) en el siguiente enlace!
