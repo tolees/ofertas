@@ -28,10 +28,10 @@ En este momento está [XILOSIN 1PCS de Plata Cuadrado de Placa de Techo de Zinc 
 
 🔎:
 
-- Square base de metal de la forma de techo la suspensión de gancho de 90 mm de largo.
-- Los tornillos de montaje no están incluidos.
 - Estos gancho se puede montar en el techo por tornillo o cosas.
+- Los tornillos de montaje no están incluidos.
 - Aplicar a la linterna, soltar luz, jaula y la iluminación DIY lámparas y linternas de la asamblea.
 - Color principal: tono de plata
+- Square base de metal de la forma de techo la suspensión de gancho de 90 mm de largo.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0897JTW3C/?tag=tolees-21)

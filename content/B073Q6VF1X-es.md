@@ -28,8 +28,8 @@ Está [Saucony Jazz Original Vintage  Zapatillas de Cross Unisex Adulto  Negro  
 
 ℹ️:
 
-- Saucony Negro Zapatillas vintage Jazz Original
 - A estrenar y genuina. Somos un vendedor autorizado de Saucony.
 - Ver descripción del producto para obtener más información.
+- Saucony Negro Zapatillas vintage Jazz Original
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B073Q6VF1X/?tag=tolees-21)
