@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Warner Bros. Entertainment España S.L. - al 45.38 % de descuento'
-date: 2021-03-04 14:50:40
+date: 2021-03-06 06:04:38
 image: 'https://m.media-amazon.com/images/I/51tojpVLVsL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Warner Bros. Entertainment España S.L.'
 buyurl: 'https://www.amazon.es/dp/B00WHP0V7S/?tag=tolees-21'
 descuento: '45.38'
-average: '64.7330769230769'
+average: '64.0886666666666'
 ---
 
 Ahora mismo tienes [Warner Bros. Entertainment España S.L. - Pack The Wire Temporada 1-5 Blu-Ray [Blu-ray]](https://www.amazon.es/dp/B00WHP0V7S/?tag=tolees-21) a 59.9 EUR (original: 109.67 EUR) (45.38 %  de descuento) en el siguiente enlace!
