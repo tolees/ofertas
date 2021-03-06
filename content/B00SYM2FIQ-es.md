@@ -28,11 +28,11 @@ Ahora mismo tienes [Remington MB4850 Virtually Indestructible - Recortador de ba
 
 🔎:
 
+- Alimentación doble de litio: con o sin cable
+- Cuchilla de precisión y para barba de tres días para un acabado impecable
 - Incluye estuche protector
+- 120 minutos de autonomía
 - Totalmente lavable
 - Cuerpo de policarbonato de gran resistencia frente a golpes y caídas
-- Cuchilla de precisión y para barba de tres días para un acabado impecable
-- Alimentación doble de litio: con o sin cable
-- 120 minutos de autonomía
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00SYM2FIQ/?tag=tolees-21)

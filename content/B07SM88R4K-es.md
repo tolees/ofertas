@@ -28,9 +28,9 @@ Tienes [Funko- Pop Heroes: Birds of Prey-Harley Quinn  Roller Derby  Collectible
 
 🔎:
 
+- Funko pop; is the 2018 toy of the year and peoples choice award winner
 - Check out the other birds of prey figures from funko collect them all
 - From birds of prey, harley quinn (roller derby), as a stylized pop vinyl from funko
 - Figure stands 9cm and comes in a window display box
-- Funko pop; is the 2018 toy of the year and peoples choice award winner
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07SM88R4K/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Warner Bros Interactive Spain - Pack Fri al 39.23 % de rebaja'
-date: 2021-03-01 01:07:41
+title: 'Warner Bros Interactive Spain - Pack Fri al 43.09 % de rebaja'
+date: 2021-03-06 22:13:08
 image: 'https://m.media-amazon.com/images/I/51khmO1B4UL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: ring
 slug: 'B00FF9GVNG-es Warner Bros Interactive Spain - Pack Friends Temporada...'
 sku: 'B00FF9GVNG-es'
 tags: [  ]
-actualPrice: 59.79 EUR
+actualPrice: 55.99 EUR
 currency: EUR
-price: 59.79
+price: 55.99
 comparePrice: 98.39 EUR
 prodname: 'Warner Bros Interactive Spain - Pack Friends Temporada 1-10 Colección Completa Blu-Ray [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Warner Bros Interactive Spain'
 buyurl: 'https://www.amazon.es/dp/B00FF9GVNG/?tag=tolees-21'
-descuento: '39.23'
-average: '64.7357251908397'
+descuento: '43.09'
+average: '64.6042105263158'
 ---
 
-Tienes [Warner Bros Interactive Spain - Pack Friends Temporada 1-10 Colección Completa Blu-Ray [Blu-ray]](https://www.amazon.es/dp/B00FF9GVNG/?tag=tolees-21) con precio final de  59.79 EUR (original: 98.39 EUR) (39.23 %  de rebaja) aqui!
+Tienes [Warner Bros Interactive Spain - Pack Friends Temporada 1-10 Colección Completa Blu-Ray [Blu-ray]](https://www.amazon.es/dp/B00FF9GVNG/?tag=tolees-21) con precio final de  55.99 EUR (original: 98.39 EUR) (43.09 %  de rebaja) aqui!
 
 [![Warner Bros Interactive Spain - Pack Fri](https://m.media-amazon.com/images/I/51khmO1B4UL._SL400_.jpg)](https://www.amazon.es/dp/B00FF9GVNG/?tag=tolees-21)
 

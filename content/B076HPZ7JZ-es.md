@@ -30,9 +30,9 @@ Ahora mismo tienes [adidas CORE18 PES PNT Pantalones de Deporte  Hombre  Negro/B
 
 - Tienen un corte clásico que se adapta al cuerpo cómodamente
 - Tiene una cintura elástica con cordón y dos bolsillos frontales
-- Pantalones deportivos son adecuados para el fútbol
-- Presentan puños elásticos y unas perneras que se estrechan a la altura del tobillo para ofrecer libertad de movimiento
 - El material es compuesto de 100% poliéster
+- Presentan puños elásticos y unas perneras que se estrechan a la altura del tobillo para ofrecer libertad de movimiento
 - El logotipo es bordado en la cadera izquierda
+- Pantalones deportivos son adecuados para el fútbol
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B076HPZ7JZ/?tag=tolees-21)
