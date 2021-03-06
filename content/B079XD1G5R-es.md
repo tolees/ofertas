@@ -28,10 +28,10 @@ Tienes [Taurus Geyser Eco 3000 3000-Plancha 3000W  Elimina Virus y bacterias  20
 
 ℹ️:
 
-- Posición ECO: ahorro de agua y energía para un planchado eficiente
+- Regulador de vapor y temperatura, spray de agua, sistema antical y sistema antigoteo
 - Suela Anodizada ultradeslizante
+- Posición ECO: ahorro de agua y energía para un planchado eficiente
 - Punta de precisión para el planchado de zonas de difícil acceso
 - 3000 W de potencia
-- Regulador de vapor y temperatura, spray de agua, sistema antical y sistema antigoteo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B079XD1G5R/?tag=tolees-21)

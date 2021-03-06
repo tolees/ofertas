@@ -28,9 +28,9 @@ Tienes [Pyrex Classic - Recipiente rectangular con tapa  27 x 22 x 9 cm  4 litro
 
 🔎:
 
-- Fabricado en vidrio borosilicato
-- Recipiente de vidrio
 - Válido para usar en frigorífico y congelador
+- Recipiente de vidrio
 - Tapa de plástico
+- Fabricado en vidrio borosilicato
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0007VGT9S/?tag=tolees-21)

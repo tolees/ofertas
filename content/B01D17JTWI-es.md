@@ -28,11 +28,11 @@ Ahora mismo tienes [Samsonite Paradiver Light Borsa con Ruote Unisex  Blu  Jeans
 
 🔎:
 
-- Peso: 2.4 kg
-- Resistente poliéster de 600 x 600 denier revestido de PU
-- Asas superiores & laterales
-- Compartimiento central con cremallera, cintas
-- Dimensiones: 25 x 55 x 40 cm (incluyendo asas, ruedas, deslizadores inferiores, bolsillos laterales y otros componentes externos)
 - Asa de transporte superior para un fácil agarre y sujeción
+- Dimensiones: 25 x 55 x 40 cm (incluyendo asas, ruedas, deslizadores inferiores, bolsillos laterales y otros componentes externos)
+- Compartimiento central con cremallera, cintas
+- Peso: 2.4 kg
+- Asas superiores & laterales
+- Resistente poliéster de 600 x 600 denier revestido de PU
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01D17JTWI/?tag=tolees-21)

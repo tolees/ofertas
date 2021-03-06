@@ -28,10 +28,10 @@ En este momento está [Casio Reloj de Pulsera W59-1V](https://www.amazon.es/dp/B
 
 🔎:
 
-- Resistente al agua hasta 5 bar / 50 metros
-- Caja y correa de resina sintética, un material resistente y flexible
 - Con luz incorporada que ilumina la esfera del reloj desde un lado
+- Caja y correa de resina sintética, un material resistente y flexible
 - Incluye alarma, cronómetro, calendario automático y formato de 12/24 horas
 - La duración de la batería es de 7 años
+- Resistente al agua hasta 5 bar / 50 metros
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B000HZT48M/?tag=tolees-21)
