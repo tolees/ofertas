@@ -28,13 +28,13 @@ Tienes [Hugo BOSS Reloj Cronógrafo para Hombre de Cuarzo con Correa en Cuero 15
 
 🔎:
 
-- Color de la correa: negro
-- Pulsera de cuero
-- Color del dial: negro
+- Resistencia al agua 5 ATM
 - Material de la caja: acero inoxidable
 - Mecanismo cuarzo cronógrafo
-- Resistencia al agua 5 ATM
+- Pulsera de cuero
+- Color del dial: negro
 - Acabado esmaltado
+- Color de la correa: negro
 - Cierre con botón pulsador
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B075XLJRB4/?tag=tolees-21)

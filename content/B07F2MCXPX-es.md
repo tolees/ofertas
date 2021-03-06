@@ -28,8 +28,8 @@ Ahora mismo tienes [Vans Herren Left Chest Logo Tee T-Shirt  Schwarz  Black Whit
 
 🔎:
 
-- 100 % algodón
 - Camiseta de 185 g
 - Corte entallado
+- 100 % algodón
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07F2MCXPX/?tag=tolees-21)

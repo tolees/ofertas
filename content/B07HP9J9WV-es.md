@@ -28,7 +28,7 @@ Tienes [Skechers Status 2.0-Pexton  Zapatillas Hombre  Azul  NVY Black Canvas   
 
 🔎:
 
-- 2019
 - Hombre
+- 2019
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07HP9J9WV/?tag=tolees-21)

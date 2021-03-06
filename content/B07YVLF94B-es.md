@@ -28,10 +28,10 @@ Tienes [Pepe Jeans Arrow Tarjetero Vertical Azul 7x10x1 5 cms Piel](https://www.
 
 🔎:
 
-- De joumma bags
-- Dos ranuras para tarjetas y un espacio para guardar notas o tickets
-- Incorpora un tarjetero mecánico de aluminio que al presionar hacia abajo la palanca que tiene en parte inferior, las tarjetas se deslizan hacia fuera
 - Sistema especial de protección para las tarjetas rfid que bloquea las señales de dispositivos de escaneo no autorizados por radiofrecuencia
+- Dos ranuras para tarjetas y un espacio para guardar notas o tickets
 - Tarjetero de 7 cm x 10 cm x 1, 5 fabricado en piel
+- Incorpora un tarjetero mecánico de aluminio que al presionar hacia abajo la palanca que tiene en parte inferior, las tarjetas se deslizan hacia fuera
+- De joumma bags
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07YVLF94B/?tag=tolees-21)
