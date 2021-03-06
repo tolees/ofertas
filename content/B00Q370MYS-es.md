@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 46.44 % en TRIXIE Mono  Peluche  24 cm  Perro'
-date: 2021-03-04 21:46:27
+date: 2021-03-06 02:24:24
 image: 'https://m.media-amazon.com/images/I/51Zmv3TIUrL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Trixie'
 buyurl: 'https://www.amazon.es/dp/B00Q370MYS/?tag=tolees-21'
 descuento: '46.44'
-average: '5.668125'
+average: '5.64'
 ---
 
 Tienes [TRIXIE Mono  Peluche  24 cm  Perro](https://www.amazon.es/dp/B00Q370MYS/?tag=tolees-21) con un 46.44 % de descuento con precio de oferta de 5.19 EUR (original: 9.69 EUR) en el siguiente enlace!

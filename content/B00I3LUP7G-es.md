@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony MDR-RF811RK - Auriculares de Diadem al 34.80 % de descuento'
-date: 2021-03-04 22:00:10
+date: 2021-03-06 02:31:11
 image: 'https://m.media-amazon.com/images/I/41DDf+PPQLL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B00I3LUP7G/?tag=tolees-21'
 descuento: '34.80'
-average: '47.1238513513514'
+average: '47.1357718120806'
 ---
 
 Ahora mismo tienes [Sony MDR-RF811RK - Auriculares de Diadema Cerrados Inalámbricos  Negro](https://www.amazon.es/dp/B00I3LUP7G/?tag=tolees-21) a 48.9 EUR (original: 75.0 EUR) (34.80 %  de descuento) en el siguiente enlace!
@@ -30,9 +30,9 @@ Ahora mismo tienes [Sony MDR-RF811RK - Auriculares de Diadema Cerrados Inalámbr
 
 - Unidad de diafragma de neodimio de 40 mm
 - Transmisión inalámbrica por RF clara
+- Peso del producto: 272 g
+- Dimensiones del producto: 1 x 1 x 1 cm
 - Tiene un alcance inalámbrico de hasta 100 m
 - Auriculares domésticos inalámbricos con diafragmas de 40 mm, alcance de recepción hasta 100 m y diadema autoajustable
-- Dimensiones del producto: 1 x 1 x 1 cm
-- Peso del producto: 272 g
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00I3LUP7G/?tag=tolees-21)
