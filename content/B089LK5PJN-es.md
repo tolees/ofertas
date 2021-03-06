@@ -28,10 +28,10 @@ Tienes [WAVLINK USB 3.0 Estación de Acoplamiento Universal para computadora por
 
 ℹ️:
 
-- Se sugiere usar una estación de acoplamiento para usar con software web y de productividad; no recomendado para juegos, no se puede mezclar con adaptadores USB que no sean DisplayLink
-- Las salidas HDMI y DVI incorporadas tienen una resolución de hasta 1920x1200 @ 60Hz, el puerto HDMI admite resoluciones de hasta 2560x1440 @ 50Hz con una sola pantalla HDMI. Los adaptadores DVI a VGA se suministran para mayor flexibilidad, ideal para diferentes aplicaciones de espacio de trabajo en el hogar y la oficina
-- El puerto Gigabit Ethernet RJ-45 Ethernet 10/100 / 1000Mbps le proporciona una conexión de red por cable rápida. Los 4 puertos USB 2.0 cumplen con todos los dispositivos USB 2.0, como teclado, mouse, impresora, etc. 2 puertos USB 3.0 para una velocidad de transferencia súper de hasta 5 Gbps y 900 mA de potencia, puede conectar sus periféricos usb o memoria usb para resolver dispositivos USB externos y transferencia de archivos a alta velocidad para trabajadores de oficina en casa
 - Soporte del sistema: Windows 10, 8, 7 y sistemas XP heredados. Instalación del controlador Plug and Play a través de Windows Update. Surface RT, Mac OS / Linux no son compatibles. (Consulte el sitio web Display Link para obtener más compatibilidad del sistema)
 - Construir en USB 3.0 GPU certificado por DisplayLink. El tamaño compacto, el estado de la pantalla LED, la configuración fácil, el rendimiento de operación multifunción, le brindan un nuevo estilo de vida. Todos nuestros productos ofrecen una garantía limitada de 12 meses
+- Las salidas HDMI y DVI incorporadas tienen una resolución de hasta 1920x1200 @ 60Hz, el puerto HDMI admite resoluciones de hasta 2560x1440 @ 50Hz con una sola pantalla HDMI. Los adaptadores DVI a VGA se suministran para mayor flexibilidad, ideal para diferentes aplicaciones de espacio de trabajo en el hogar y la oficina
+- El puerto Gigabit Ethernet RJ-45 Ethernet 10/100 / 1000Mbps le proporciona una conexión de red por cable rápida. Los 4 puertos USB 2.0 cumplen con todos los dispositivos USB 2.0, como teclado, mouse, impresora, etc. 2 puertos USB 3.0 para una velocidad de transferencia súper de hasta 5 Gbps y 900 mA de potencia, puede conectar sus periféricos usb o memoria usb para resolver dispositivos USB externos y transferencia de archivos a alta velocidad para trabajadores de oficina en casa
+- Se sugiere usar una estación de acoplamiento para usar con software web y de productividad; no recomendado para juegos, no se puede mezclar con adaptadores USB que no sean DisplayLink
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B089LK5PJN/?tag=tolees-21)
