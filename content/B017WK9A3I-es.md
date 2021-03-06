@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TULIPA?N NEGRO - Tulipán Negro Gel De Ba con un 35.18 % de descuento'
-date: 2021-03-05 11:23:43
+date: 2021-03-06 18:23:55
 image: 'https://m.media-amazon.com/images/I/31KRtzfZVAL._SL400_.jpg'
 comments: true
 category: ofertas

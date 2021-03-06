@@ -28,10 +28,10 @@ Ahora mismo tienes [Pepe Jeans Lambert Carteron para Portátil Adaptable 15 6" A
 
 🔎:
 
-- Front zip pocket for smaller items
 - Possibility of carrying case type, as a shoulder strap or adapted to the suitcase with the rear strap that incorporates
 - Laptop Briefcase 42 cm x 33 cm x 11 cm made of Polyester with Faux Leather details
-- By Joumma Bags
 - Double compartment with a specific space for a computer up to 15, 6 inches and a tablet pocket
+- Front zip pocket for smaller items
+- By Joumma Bags
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VHJQ7ZM/?tag=tolees-21)

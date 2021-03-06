@@ -28,10 +28,10 @@ Tienes [Sunstech PXR3 - Tocadiscos  33 y 45 rpm  USB  FM   color marrón](https:
 
 ℹ️:
 
-- Sintonizador analógico de radio FM estéreo
-- Altavoces estéreo integrados de 1.5 W RMS x 2
-- Con 2 velocidades de reproducción para 33 y 45 rpm
-- Grabación directa desde el giradiscos/Aux-in al USB
 - Giradiscos de madera y función encoding
+- Sintonizador analógico de radio FM estéreo
+- Con 2 velocidades de reproducción para 33 y 45 rpm
+- Altavoces estéreo integrados de 1.5 W RMS x 2
+- Grabación directa desde el giradiscos/Aux-in al USB
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B009W0GFIU/?tag=tolees-21)

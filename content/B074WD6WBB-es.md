@@ -28,7 +28,7 @@ Está [PUMA Quarter Plain 3p deporte  Amarillo  Lime Punch 064   39/42  Talla de
 
 ℹ️:
 
-- Costuras planas en la puntera para evitar molestias.
 - Parte superior cómoda, no aprieta.
+- Costuras planas en la puntera para evitar molestias.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B074WD6WBB/?tag=tolees-21)

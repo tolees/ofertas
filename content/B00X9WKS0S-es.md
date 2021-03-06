@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 48.82 % en L Oreal Paris Elnett - L Oreal Elnett Pr'
-date: 2021-03-05 14:03:46
+date: 2021-03-06 18:50:27
 image: 'https://m.media-amazon.com/images/I/31FLfxc9TRL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,7 +29,7 @@ Tienes [L Oreal Paris Elnett - L Oreal Elnett Protector Calor Spray Fijador Cabe
 ℹ️:
 
 - Protege los daños del calor hasta 230 °c
-- Fórmula ligera que cubre el cabello de la raíz a las puntas
 - Suaviza el pelo
+- Fórmula ligera que cubre el cabello de la raíz a las puntas
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00X9WKS0S/?tag=tolees-21)

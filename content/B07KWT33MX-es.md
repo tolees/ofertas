@@ -28,8 +28,8 @@ En este momento está [Bosch Home and Garden - Bosch UniversalGrassCut 18-260 - 
 
 🔎:
 
-- Herramientas para jardín Universal de Bosch – versátiles y robustas para cualquier proyecto
 - Postura de trabajo ergonómica – evitando el dolor de espalda gracias a la nueva empuñadura de joystick en forma de V.
+- Herramientas para jardín Universal de Bosch – versátiles y robustas para cualquier proyecto
 - Incluye: Universal Grass Cut 18 – 260, 1 Batería de litio 18V 2.0Ah, Cargador AL 1815 CV, caja de cartón
 - Versátil, para recortar, bordear o cortar debajo de bancos de jardín con solo presionar el pedal.
 - La UniversalGrassCut 18- 260 es fácil de almacenar y transportar, gracias al sistema telescópico y la plegable asas.
