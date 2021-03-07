@@ -28,10 +28,10 @@ En este momento está [Germinate - Pareja Pijamas Mujer Elefante Algodón Blanco
 
 🔎:
 
-- La propiedad de la marca registrada es propiedad de Germinate.
-- Consulte la tabla grande antes de comprar.
-- Tejido suave y cómodo.
 - El paquete incluye: camisetas + pantalones cortos.
+- Consulte la tabla grande antes de comprar.
+- La propiedad de la marca registrada es propiedad de Germinate.
 - Lavable en la lavadora.
+- Tejido suave y cómodo.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0837R3MKQ/?tag=tolees-21)

@@ -28,10 +28,10 @@ En este momento está [Only ONLGEMMA Faux Leather Biker OTW Noos Chaqueta  Negro
 
 🔎:
 
-- Estación: SIEMPRE DISPONIBLE
-- Designer: ONLY
-- Material: Cuero de imitación
 - Artículo: 15153079 GEMMA
+- Designer: ONLY
+- Estación: SIEMPRE DISPONIBLE
 - Color: negro
+- Material: Cuero de imitación
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0769NVV8P/?tag=tolees-21)
