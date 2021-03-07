@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SanDisk Memoria Flash USB 64 GB para tu  con un 57.17 % de descuento'
-date: 2021-03-05 15:49:01
+date: 2021-03-07 13:47:17
 image: 'https://m.media-amazon.com/images/I/41cxefrrDrL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SanDisk'
 buyurl: 'https://www.amazon.es/dp/B01EZ0X3L8/?tag=tolees-21'
 descuento: '57.17'
-average: '12.8461971830987'
+average: '12.7405479452056'
 ---
 
 En este momento está [SanDisk Memoria Flash USB 64 GB para tu smartphone Android - Ultra Dual DriveType-C - USB 3.1](https://www.amazon.es/dp/B01EZ0X3L8/?tag=tolees-21) a 8.99 EUR (original: 20.99 EUR) (57.17 %  de descuento) en el siguiente enlace!

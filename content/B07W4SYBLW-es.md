@@ -28,8 +28,8 @@ Tienes [NIKE M NK Dry Park III Short NB K Sport Shorts  Hombre  Volt/Black  L](h
 
 🔎:
 
-- Regular fit
 - Nike Dry fabric
 - Elastic waistband with lanyard
+- Regular fit
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07W4SYBLW/?tag=tolees-21)

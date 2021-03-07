@@ -28,8 +28,8 @@ Tienes [Lee Twin Pack Crew Camiseta  Multicolor  2 Pack Mix Aikw   Large 2 para 
 
 ℹ️:
 
-- Camisetas para hombres
 - Fabricadas en tejido ligero que ofrece comodidad
+- Camisetas para hombres
 - Modelo clásico
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B071K5KCZY/?tag=tolees-21)

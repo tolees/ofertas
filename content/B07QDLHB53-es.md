@@ -28,10 +28,10 @@ En este momento está [Wet n Wild - Mega Volume Mascara - Máscara de Pestañas 
 
 🔎:
 
-- Mega volumen: proporciona un mayo volumen (x5) dejando un aspecto natural a tus pestañas.
-- Mega pigmentado: pigmentos negros intensos para agrandar tu mirada.
 - Cepillo de grande precisión: captura incluso las pestañas más cortas. Crea longitud y definición a tus pestañas.
 - Wet n wild, la marca de cosméticos creada y desarrollada en los angeles (usa), conocida y distribuida en todo el mundo. únete a nuestras millones de fans
+- Mega pigmentado: pigmentos negros intensos para agrandar tu mirada.
+- Mega volumen: proporciona un mayo volumen (x5) dejando un aspecto natural a tus pestañas.
 - Libre de crueldad animall (certificado peta): la marca wet n wild no prueba sus productos de maquillaje sobre los animales
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07QDLHB53/?tag=tolees-21)
