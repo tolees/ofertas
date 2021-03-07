@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Disney - Toy Story 4 [Blu-ray] al 34.68 % de descuento'
-date: 2021-03-06 08:59:41
+date: 2021-03-07 15:36:48
 image: 'https://m.media-amazon.com/images/I/51TjsDnP+YL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Disney'
 buyurl: 'https://www.amazon.es/dp/B07T6JFCV2/?tag=tolees-21'
 descuento: '34.68'
-average: '13.4357627118644'
+average: '13.4867213114754'
 ---
 
 Ahora mismo tienes [Disney - Toy Story 4 [Blu-ray]](https://www.amazon.es/dp/B07T6JFCV2/?tag=tolees-21) a 14.99 EUR (original: 22.95 EUR) (34.68 %  de descuento) en el siguiente enlace!
