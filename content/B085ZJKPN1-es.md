@@ -28,10 +28,10 @@ Está [RuiDaXiang Perro de Juguete Niños Caminando y ladrando Cachorro Giocatto
 
 ℹ️:
 
-- Asa de correa con mando a distancia.
-- Adorables"Toay" paseos, ladran y menea la cola como un verdadero cachorro.
-- Se requieren 3 pilas AA (NO incluidas). Inserte las baterías en el vientre del cachorro.
-- El amigo peludo más lindo para pasear o acurrucarse.
 - Altura del cachorro: 20cm. Longitud: 23cm
+- Adorables"Toay" paseos, ladran y menea la cola como un verdadero cachorro.
+- Asa de correa con mando a distancia.
+- El amigo peludo más lindo para pasear o acurrucarse.
+- Se requieren 3 pilas AA (NO incluidas). Inserte las baterías en el vientre del cachorro.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B085ZJKPN1/?tag=tolees-21)
