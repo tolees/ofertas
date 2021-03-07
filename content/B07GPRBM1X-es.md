@@ -28,10 +28,10 @@ Está [DJI Mavic 2 Pro Drone + Care Refresh - Drone con Cámara Hasselblad L1D-2
 
 ℹ️:
 
-- COMBO ESPECIAL: Consigue un drone Mavic 2 Pro junto con un seguro completo válido por 12 meses y activado en el sitio web de DJI dentro de las 48 horas de la activación del drone
 - VALIDEZ: Válida por 12 meses y puede ser activada en la página web del DJI; cuando pidas una sustitución, recibirás una unidad nueva o equivalente a nueva en rendimiento y fiabilidad
-- SEGURO CARE REFRESH INCLUIDO: Ofrece dos unidades de sustitución en un año por un pequeño recargo adicional y cubre accidentes como daños por agua y colisiones, lo que te da tranquilidad
+- COMBO ESPECIAL: Consigue un drone Mavic 2 Pro junto con un seguro completo válido por 12 meses y activado en el sitio web de DJI dentro de las 48 horas de la activación del drone
 - DETALLES MEJORADOS: El sensor CMOS de 1 pulgada tiene un área de detección activa 4 veces más efectiva que la del sensor del Mavic Pro original; óptimo rendimiento en entornos con escasa iluminación
 - MAVIC 2 PRO: El Mavic 2 Pro está equipado con la nueva cámara Hasselblad L1D-20c; la L1D-20c utiliza la tecnología HNCS de Hasselblad permite capturar sobrecogedoras imágenes aéreas de 20 MP
+- SEGURO CARE REFRESH INCLUIDO: Ofrece dos unidades de sustitución en un año por un pequeño recargo adicional y cubre accidentes como daños por agua y colisiones, lo que te da tranquilidad
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07GPRBM1X/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Reebok Club C 85  Zapatillas Hombre  Neg al 51.84 % de descuento'
-date: 2021-03-06 16:30:29
+date: 2021-03-07 19:07:03
 image: 'https://m.media-amazon.com/images/I/41zAtQJuUgL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Está [Reebok Club C 85  Zapatillas Hombre  Negro  Int / Black / Charcoal   42.5
 
 ℹ️:
 
+- Parte superior de cuero suave
 - Entresuela de EVA troquelada
 - Suela de goma
-- Parte superior de cuero suave
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01MXSLHCY/?tag=tolees-21)
