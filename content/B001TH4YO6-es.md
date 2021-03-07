@@ -28,10 +28,10 @@ Está [Peppa Pig - Peluche  25 cm  color rosa  TY 96230TY ](https://www.amazon.e
 
 ℹ️:
 
+- Textura blanda y suave
+- Estimula la imaginación
+- Favorece el desarrollo motriz, intelectual, sensitivo
 - El peluche mide 25 cm
 - El muñeco de Peppa Pig Buddy viene acompañado de su inseparable cachorro en color marrón
-- Favorece el desarrollo motriz, intelectual, sensitivo
-- Estimula la imaginación
-- Textura blanda y suave
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B001TH4YO6/?tag=tolees-21)

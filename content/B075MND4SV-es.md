@@ -28,8 +28,8 @@ Tienes [Orbegozo FH 5127 Calefactor eléctrico  Negro  Blanco](https://www.amazo
 
 🔎:
 
-- Control ajustable de temperatura mediante termostato
 - Calefactor con diseño en color blanco
+- Control ajustable de temperatura mediante termostato
 - Dos posiciones de calor: 1000 W y 2000 W, además de incorporar función ventilador
 - Luz indicadora de encendido
 - Protección contra sobrecalentamiento

@@ -28,10 +28,10 @@ Está [Grupo Erik - ERIK - Calendario de pared 2021 The Mandalorian Star Wars  3
 
 ℹ️:
 
-- Erik - Especializados en papelería, merchandising y póster con las licencias más actuales del mercado. Calidad y diseño es lo que nos caracteriza. Producto 100% oficial.
 - Dale la bienvenida al nuevo año con este calendario de pared y disfruta de lo que esta por llegar, Baby Yoda lo hará contigo
-- Calendario anual: Elaborado con papel certificado FSC, mide 30x30 cmcerrado y 60x30 cm abierto. Incluye una perforación en la parte superior de 5 mm para poder colgarlo fácilmente en el lugar que desee
 - Calendario pared: Ideal para planificar el 2021 a nivel mensual y tener una visión global de cada semana y mes, dando un aire distinto a la vez que decora la pared de cualquier habitación, dormitorio, cocina, salón o oficina. Y si todo eso te parece poco, está editado en 6 idiomas: español, inglés, francés, italiano, alemán y portugués
+- Calendario anual: Elaborado con papel certificado FSC, mide 30x30 cmcerrado y 60x30 cm abierto. Incluye una perforación en la parte superior de 5 mm para poder colgarlo fácilmente en el lugar que desee
 - Calendario familiar 20201: Diseñado con 12 meses, de Enero a Diciembre de 2021. Presenta 12 ilustraciones a color una por cada mes inspiradas en la nueva serie de Star Wars, además trae un póster egalo de 60x30 cm
+- Erik - Especializados en papelería, merchandising y póster con las licencias más actuales del mercado. Calidad y diseño es lo que nos caracteriza. Producto 100% oficial.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08F1P51DZ/?tag=tolees-21)

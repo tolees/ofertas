@@ -28,8 +28,8 @@ En este momento está [Lee Daren Button Fly Jeans  Azul  Light Daze ZX   38W / 3
 
 🔎:
 
-- Presentan 5 bolsillos
 - Tienen un parche de piel en la parte trasera con la marca Lee
+- Presentan 5 bolsillos
 - Vaqueros para hombre
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07CQ1YS3K/?tag=tolees-21)

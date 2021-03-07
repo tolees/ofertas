@@ -28,9 +28,9 @@ Tienes [Element Alder Jacket  Hombre  Flint Black  S](https://www.amazon.es/dp/B
 
 🔎:
 
-- Hecho en España
 - Chaqueta
-- Jacket
 - Chaqueta impermeable
+- Jacket
+- Hecho en España
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07DNL4FQX/?tag=tolees-21)

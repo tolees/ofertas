@@ -28,11 +28,11 @@ En este momento está [Tommy Hilfiger Track Top Ls Hwk  de pijama Hombre  Azul  
 
 🔎:
 
-- Felpa francesa
-- Cuello redondo
-- Cinta distintiva en el interior del cuello
 - Logo de Tommy Hilfiger bordado en el pecho
-- Cuello, puños y bajo de punto elástico
+- Cinta distintiva en el interior del cuello
 - Cinta con la inscripción de Tommy Hilfiger en mangas
+- Felpa francesa
+- Cuello, puños y bajo de punto elástico
+- Cuello redondo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0788BWQFK/?tag=tolees-21)

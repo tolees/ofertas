@@ -28,7 +28,7 @@ Tienes [Lee Elly Jeans  Sitka DE Piedra Media  24/31 para Mujer](https://www.ama
 
 🔎:
 
-- Slim
 - Nuestro nuevo LEE Elly complementará la cartera de Fit en el ámbito Slim Straig. Altura media del tronco con un corte recto estrecho La Elly destaca por su aspecto clásico que se puede llevar de forma moderna para un aspecto contemporáneo.
+- Slim
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B082VT4LQK/?tag=tolees-21)
