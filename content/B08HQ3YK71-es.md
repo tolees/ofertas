@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Warner Bros. Entertainment - El Caballer al 40.02 % de descuento'
-date: 2021-03-06 08:40:19
+date: 2021-03-07 08:45:24
 image: 'https://m.media-amazon.com/images/I/51ZinblydTL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Warner Bros. Entertainment'
 buyurl: 'https://www.amazon.es/dp/B08HQ3YK71/?tag=tolees-21'
 descuento: '40.02'
-average: '10.99'
+average: '11.3233333333333'
 ---
 
 Está [Warner Bros. Entertainment - El Caballero Oscuro: La Leyenda Renace 4k Uhd  BD  [Blu-ray]](https://www.amazon.es/dp/B08HQ3YK71/?tag=tolees-21) con 40.02 de descuento por 11.99 EUR (original: 19.99 EUR) en el siguiente enlace!

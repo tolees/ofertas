@@ -28,10 +28,10 @@ Ahora mismo tienes [Citizen Reloj Analógico para Hombre de Cuarzo con Correa en
 
 🔎:
 
-- Esfera: negra con manecillas luminosas e índices plateados
-- Material de la correa: piel negra
-- Sumergible: 3 bares
 - Diámetro de la caja: 28 mm
+- Sumergible: 3 bares
 - Material de la carcasa: acero inoxidable plateado
+- Material de la correa: piel negra
+- Esfera: negra con manecillas luminosas e índices plateados
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0117DMNTE/?tag=tolees-21)

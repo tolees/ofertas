@@ -28,9 +28,9 @@ Tienes [Wonderbra Fabulous Feel Padded Triangle Bra Wireless Sujetador  Negro  N
 
 🔎:
 
-- Tejido suave
+- Copas rellenas
 - Adornado con encaje
 - Tirantes ajustables
-- Copas rellenas
+- Tejido suave
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07CZ654MW/?tag=tolees-21)
