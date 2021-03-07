@@ -28,10 +28,10 @@ Tienes [Drasanvi Optimem Forte Complemento Alimenticio - 45 Cápsulas](https://w
 
 ℹ️:
 
-- Sin gluten
-- La fosfatidilcolina, también llamada lecitina y la fosfatidilserina , son fosfolípidos, que entran a formar parte de las bicapas lipídicas de las membranas celulares
-- Sin colorantes, edulcorantes, azúcares añadidos, ni conservantes
 - Una excelente composición de más de 20 ingredientes que contribuyen al correcto funcionamiento del sistema nervioso y además ayuda a disminuir el cansancio y la fatiga.
+- La fosfatidilcolina, también llamada lecitina y la fosfatidilserina , son fosfolípidos, que entran a formar parte de las bicapas lipídicas de las membranas celulares
+- Sin gluten
 - Consulte a su médico en caso de toma simultánea de anticoagulantes
+- Sin colorantes, edulcorantes, azúcares añadidos, ni conservantes
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00PYBVPUO/?tag=tolees-21)

@@ -28,9 +28,9 @@ Está [Compo Cuidado de Las Plantas de Interior y de terraza Hierro líquido 500
 
 ℹ️:
 
-- Especialmente formulado para aportar la dosis de hierro que necesitan las plantas
 - Solución de fertilizante basado en quelato de hierro (EDTA)
-- Marca: Compo
 - Solución de quelato de hierro de alta calidad y de eficacia inmediata
+- Marca: Compo
+- Especialmente formulado para aportar la dosis de hierro que necesitan las plantas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06XBFR11Q/?tag=tolees-21)
