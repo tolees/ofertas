@@ -29,8 +29,8 @@ Tienes [Hugo BOSS Reloj de pulsera 1513663](https://www.amazon.es/dp/B07KTQJ7T5/
 ℹ️:
 
 - Correa marrón de piel lisa
-- Esfera azul
 - 5 ATM de resistencia al agua
+- Esfera azul
 - Grosor de la caja de 11,15mm
 - Movimiento cronógrafo
 

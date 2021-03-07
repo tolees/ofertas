@@ -28,10 +28,10 @@ En este momento está [Remington Pro Air AC5913W - Secador de Pelo Profesional  
 
 🔎:
 
-- Secador profesional compacto y ligero de 2200 vatios; motor de corriente alterna de larga duración
 - Acondicionamiento iónico: 90 % más de iones para reducir el encrespamiento y potenciar el brillo
-- 3 temperaturas y 2 velocidades; caudal de aire de a 130 km/h para un secado rápido y ráfaga real de aire frío para fijar el peinado
 - Rejilla trasera desmontable para una limpieza fácil, gancho para colgar y cable profesional de 3 metros
+- 3 temperaturas y 2 velocidades; caudal de aire de a 130 km/h para un secado rápido y ráfaga real de aire frío para fijar el peinado
+- Secador profesional compacto y ligero de 2200 vatios; motor de corriente alterna de larga duración
 - Difusor y concentrador de boquilla estrecha de 7 milímetros de secado rápido.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B073ZDGYMT/?tag=tolees-21)

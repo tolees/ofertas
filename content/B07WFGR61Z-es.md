@@ -28,7 +28,7 @@ Está [Pierre Cardin Poloshirt Kn Polo  Rojo  Hot 5080   S para Hombre](https://
 
 ℹ️:
 
-- Descubre Pierre Cardin.
 - Pierre Cardin Compact Cotton Pique Modern Basic - Polo
+- Descubre Pierre Cardin.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07WFGR61Z/?tag=tolees-21)

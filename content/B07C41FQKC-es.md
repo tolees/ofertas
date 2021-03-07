@@ -28,7 +28,7 @@ Está [Vero Moda Vmsilla LS Short Dress Blck Noos Ga Vestido  Negro  Black Black
 
 ℹ️:
 
-- Jeans dress
 - Denim dress
+- Jeans dress
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07C41FQKC/?tag=tolees-21)

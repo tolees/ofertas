@@ -28,10 +28,10 @@ Está [Maison d  Hermine - Toalla de cocina suave y absorbente  100 % algodón](
 
 ℹ️:
 
-- Fabricado en la India.
 - Diseñado en Francia.
 - En esta colección se encuentran disponibles productos de cocina y mantelería más coordinados.
-- El paquete incluye: 3 paños de cocina.
 - 100% algodón y lavable a máquina.
+- Fabricado en la India.
+- El paquete incluye: 3 paños de cocina.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B087TL8X1X/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pentel PG1015 - Portaminas 0.5mm con un 50.45 % de descuento'
-date: 2021-03-06 20:28:49
+date: 2021-03-07 20:49:03
 image: 'https://m.media-amazon.com/images/I/310YL1zkCcL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Pentel'
 buyurl: 'https://www.amazon.es/dp/B001E3GUBK/?tag=tolees-21'
 descuento: '50.45'
-average: '12.7398168498168'
+average: '12.7394545454545'
 ---
 
 En este momento está [Pentel PG1015 - Portaminas 0.5mm](https://www.amazon.es/dp/B001E3GUBK/?tag=tolees-21) a 12.69 EUR (original: 25.61 EUR) (50.45 %  de descuento) en el siguiente enlace!

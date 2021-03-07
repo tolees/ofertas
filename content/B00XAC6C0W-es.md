@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 41.27 % en Sanex Zero% - Gel de ducha  600 ml'
-date: 2021-03-03 13:50:04
+date: 2021-03-07 20:10:59
 image: 'https://m.media-amazon.com/images/I/31u4KRsYjEL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [Sanex Zero% - Gel de ducha  600 ml](https://www.amazon.es/dp/B00XAC6C0W/
 
 ℹ️:
 
-- Contiene hidrantes de origen 100% natural
 - Cumple con los requisitos de biodegradabilidad
+- Contiene hidrantes de origen 100% natural
+- Tipo de piel: Normal
 - Ideal para todo topi de piel
 - Tiene una fórmula suave y biodegradable
-- Tipo de piel: Normal
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00XAC6C0W/?tag=tolees-21)

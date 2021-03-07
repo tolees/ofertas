@@ -29,7 +29,7 @@ Tienes [Eudermin Manos Crema Protectora - 75 ml](https://www.amazon.es/dp/B00BFS
 ℹ️:
 
 - Marca: Eudermin
-- Género: unisex
 - Tipo de producto: crema protectora
+- Género: unisex
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00BFSQXMU/?tag=tolees-21)

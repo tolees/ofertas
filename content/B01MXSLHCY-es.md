@@ -29,7 +29,7 @@ Está [Reebok Club C 85  Zapatillas Hombre  Negro  Int / Black / Charcoal   42.5
 ℹ️:
 
 - Parte superior de cuero suave
-- Entresuela de EVA troquelada
 - Suela de goma
+- Entresuela de EVA troquelada
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01MXSLHCY/?tag=tolees-21)

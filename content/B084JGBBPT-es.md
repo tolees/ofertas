@@ -28,7 +28,7 @@ Tienes [Head Men’s Basic Boxers  5 Pack  Calzoncillos  Negro  M  Pack de 5  pa
 
 🔎:
 
-- Cinturilla elástica cómoda.
 - Tejido suave al tacto.
+- Cinturilla elástica cómoda.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B084JGBBPT/?tag=tolees-21)

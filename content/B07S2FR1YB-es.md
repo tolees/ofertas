@@ -28,8 +28,8 @@ Está [Element E02 Shorts  Hombre  Black Dark Used  XS](https://www.amazon.es/dp
 
 ℹ️:
 
-- Logo Patch on the back
-- Refined Tailored fit and custom tone
 - Made from stretch denim to Move with Your Active LIFESTYLE, and Slim fit for Modern Lines
+- Refined Tailored fit and custom tone
+- Logo Patch on the back
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07S2FR1YB/?tag=tolees-21)
