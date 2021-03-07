@@ -28,8 +28,8 @@ En este momento está [Karactermania Mudito Monedero  11 cm  Marrón](https://ww
 
 🔎:
 
-- Poliéster
 - Portamonedas de compartimento único y cierre con cremallera
+- Poliéster
 - Dimensiones: 11 x 10 x 2cm
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07L2FS3FM/?tag=tolees-21)
