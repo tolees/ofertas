@@ -28,10 +28,10 @@ Ahora mismo tienes [Fa - Desodorante Spray Aqua 48 horas de protección - Anti M
 
 🔎:
 
-- Anti-manchas
-- 48 horas
 - Fresco
 - Fragancia acuática
+- Anti-manchas
 - Sin sales de aluminio
+- 48 horas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07PB1S57G/?tag=tolees-21)

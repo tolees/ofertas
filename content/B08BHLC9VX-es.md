@@ -28,10 +28,10 @@ Tienes [XILOSIN 1PCS cilíndrico Minerales Varita Filtro Taps PH Alcalinizante i
 
 🔎:
 
-- Los minerales son esenciales para las funciones corporales como vitaminas. Ellos forman la estructura de nuestro cuerpo y ayudan a nuestro trabajo sistemas.
-- Mantener una figura saludable de pH y el hígado de protección contra el daño que la nicotina y el alcohol podrían hacer.
-- El agua alcalina: Haga el agua potable para ser alcalina, neutraliza los bodys humanos sustancias ácidas y mantener el equilibrio del sistema del cuerpo.
-- Es un fuerte antioxidante que elimina los radicales libres, mejorar la inmunidad y mantener nosotros de envejecimiento.
 - agua del potencial negativo: El agua normal será ajustada para ser agua potencial negativo con un ORP debajo que 200mVin unos 3-5 minutos.
+- Mantener una figura saludable de pH y el hígado de protección contra el daño que la nicotina y el alcohol podrían hacer.
+- Los minerales son esenciales para las funciones corporales como vitaminas. Ellos forman la estructura de nuestro cuerpo y ayudan a nuestro trabajo sistemas.
+- Es un fuerte antioxidante que elimina los radicales libres, mejorar la inmunidad y mantener nosotros de envejecimiento.
+- El agua alcalina: Haga el agua potable para ser alcalina, neutraliza los bodys humanos sustancias ácidas y mantener el equilibrio del sistema del cuerpo.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08BHLC9VX/?tag=tolees-21)

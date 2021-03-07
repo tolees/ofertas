@@ -28,9 +28,9 @@ En este momento está [Suavinex Esterilizador de Chupetes Portátil de Luz Uv  A
 
 🔎:
 
-- Elimina el 99% de los gérmenes y microorganismos que pueden producir afecciones gastrointestinales
 - Compatible con cualquier chupete
 - Esterilizador de chupetes duccio de luz ultravioleta UV
 - Esteriliza de forma rápida, ¡en apenas 3 minutos
+- Elimina el 99% de los gérmenes y microorganismos que pueden producir afecciones gastrointestinales
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B078KF8TQ8/?tag=tolees-21)

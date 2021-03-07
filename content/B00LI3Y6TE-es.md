@@ -28,10 +28,10 @@ Está [TP-Link UH720 - USB 3.0  hub de 7 Puertos  2 Puertos de Carga exclusivos 
 
 ℹ️:
 
+- El cable USB 3.0 tiene una longitud de 1 m
 - Hub 7 Puertos USB 3.0 con 2 puertos cargadores UH720
 - Modelo de color negro
 - Guía de instalación rápida
 - Adaptador de corriente de 12 V y 4 A
-- El cable USB 3.0 tiene una longitud de 1 m
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00LI3Y6TE/?tag=tolees-21)
