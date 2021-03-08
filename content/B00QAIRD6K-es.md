@@ -28,10 +28,10 @@ Está [Jata LD85B Limador de Durezas Contiene Dos Rodillos Limadores de Rotació
 
 ℹ️:
 
-- Protegido contra proyecciones de agua (IPX4)
 - Cabezal extraíble para fácil limpieza
+- Lavable
+- Protegido contra proyecciones de agua (IPX4)
 - Interruptor de encendido
 - Rotación suave y eficaz
-- Lavable
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00QAIRD6K/?tag=tolees-21)
