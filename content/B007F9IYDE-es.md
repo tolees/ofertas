@@ -29,7 +29,7 @@ Tienes [Sera Reptil Professional Herbivor](https://www.amazon.es/dp/B007F9IYDE/?
 🔎:
 
 - Adecuado para tortugas terrestres e iguanas.
-- Alimento especial para reptiles herbívoros.
 - Contiene proteínas vegetales, grasas y vitaminas de alta calidad.
+- Alimento especial para reptiles herbívoros.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B007F9IYDE/?tag=tolees-21)

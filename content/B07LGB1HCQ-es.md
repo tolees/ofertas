@@ -29,9 +29,9 @@ Está [Lagavulin - Whisky Scotch Islay Single Malt  Edición Limitada Juego de T
 ℹ️:
 
 - ¿Su especialidad? Naranja y clavo de olor para abrir el olfato, rica compota de frutos rojos y cheesecake de vainilla para deleitar el paladar junto con un final matizado con especias de cereales
-- Envejecido por 9 años
-- Lagavulin, con más de 200 años de trayectoria, está considerada como una de las marcas más legendarias de Whisky - Su elaboración tiene lugar en la isla de Islay donde destaca la turba en Escocia
 - El regalo perfecto para los amantes del whisky y fanáticos de las series: DIAGEO y HBO lanzan la edición limitada de whiskies escoceses puros de malta inspirados en Juego de Tronos
+- Envejecido por 9 años
 - Madurado en barricas de roble ex-Bourbon de primer llenado, lo que da el color dorado claro, nariz típica Lagavulin con intenso humo dulce y un toque de sabor marítimo
+- Lagavulin, con más de 200 años de trayectoria, está considerada como una de las marcas más legendarias de Whisky - Su elaboración tiene lugar en la isla de Islay donde destaca la turba en Escocia
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07LGB1HCQ/?tag=tolees-21)

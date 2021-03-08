@@ -28,10 +28,10 @@ Ahora mismo tienes [Sport Science - Science in Sport SiS Go Gel Energía Isotón
 
 🔎:
 
-- 22 gramos de carbohidratos de absorción rápida por gel; gel de maltodextrina con sabor y edulcorante agregado
 - Adecuado para veganos
-- Formulación verdaderamente isotónica - no necesita agua; formato práctico y fácil de tomar
 - Informed Sport Registered: Nuestra gama completa de productos se desarrolla utilizando un protocolo de primer nivel para el control de sustancias prohibidas, que brinda seguridad a los atletas
+- Formulación verdaderamente isotónica - no necesita agua; formato práctico y fácil de tomar
+- 22 gramos de carbohidratos de absorción rápida por gel; gel de maltodextrina con sabor y edulcorante agregado
 - Gel de energía isotónico con sabor para una energía rápida y fácil de digerir - paquete de 15 Sabores Varios: Naranja, Tropical, Limón y Lima, Manzana, Grosella Negra, Cereza, Ensalada de frutas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07PGL4G2R/?tag=tolees-21)

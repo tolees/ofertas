@@ -28,7 +28,7 @@ Está [Jack & Jones JACLONG Knit Beanie Noos Gorro de Punto  Verde  Sea Moss Sea
 
 ℹ️:
 
-- Plain beanie hat
 - Cool cap with logo patch at front
+- Plain beanie hat
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07V5PZ61B/?tag=tolees-21)
