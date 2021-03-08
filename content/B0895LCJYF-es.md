@@ -28,7 +28,7 @@ Tienes [DC Shoes Big Star - Gorro - Hombre - One Size](https://www.amazon.es/dp/
 
 ℹ️:
 
-- Corte ajustado
 - Logotipo Jacquard en el lateral
+- Corte ajustado
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0895LCJYF/?tag=tolees-21)

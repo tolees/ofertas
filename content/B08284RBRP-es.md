@@ -28,10 +28,10 @@ Tienes [Quiksilver - Everyday 15" Short de Natación para Adulto](https://www.am
 
 🔎:
 
-- Bolsillos traseros
-- __longitud: __longitud 38 cm - más corto
 - __Bolsillos:__ bolsillos laterales
-- Slip interior de malla
+- Bolsillos traseros
 - __tejido reciclado:__ tejido reciclado Super Suede
+- __longitud: __longitud 38 cm - más corto
+- Slip interior de malla
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08284RBRP/?tag=tolees-21)
