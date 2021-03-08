@@ -29,7 +29,7 @@ Tienes [adidas SH3.RO Taper S Traje de Baño  Mujer  Black/White  34](https://ww
 🔎:
 
 - Swimsuit
-- Chlorine-resistant fabric
 - Great freedom of movement
+- Chlorine-resistant fabric
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B081TP89HC/?tag=tolees-21)

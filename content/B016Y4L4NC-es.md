@@ -28,10 +28,10 @@ Tienes [IAMS Delights Gatito y Junior con Pollo en salsa 12 x 85g](https://www.a
 
 🔎:
 
+- Alimento de gama alta 100% completo y equilibrado para gatitos
+- IAMS Delights Gatito y Junior con Pollo en salsa 12 x 85g
 - Taurina: favorece la salud cardiaca
 - Nutrición completa y sabor irresistible
 - Proteína: ayuda a conservar una musculatura fuerte y compacta
-- Alimento de gama alta 100% completo y equilibrado para gatitos
-- IAMS Delights Gatito y Junior con Pollo en salsa 12 x 85g
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B016Y4L4NC/?tag=tolees-21)
