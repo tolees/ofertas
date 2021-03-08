@@ -29,7 +29,7 @@ Tienes [Altos De Tamaron Reserva Tinto D.O. Rib. Duero Vino - Paquete de 6 x 750
 🔎:
 
 - Un vino amplio que armoniza a la perfección con todo tipo de carnes rojas, caza, guisos o quesos
-- Capacidad: 75CL
 - Intenso color rojo cereza con matices con ligeros tonos marrones. Este vino presenta aromas elegantes y potentes. El paladar es complejo, potente y envolvente. Perfectamente integrado
+- Capacidad: 75CL
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01MYMLK29/?tag=tolees-21)

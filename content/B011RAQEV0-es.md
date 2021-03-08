@@ -29,7 +29,7 @@ Tienes [Vulkan Kinesio Rodillera Rótula Abierta  Hombre  Negro  S](https://www.
 ℹ️:
 
 - Esquince
-- Rodillera de alta calidad
 - Torcedura
+- Rodillera de alta calidad
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B011RAQEV0/?tag=tolees-21)

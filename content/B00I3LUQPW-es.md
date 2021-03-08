@@ -29,10 +29,10 @@ En este momento está [Sony MDR-EX15LP Auriculares In-Ear  Negro  9 mm](https://
 🔎:
 
 - Color: negro
-- Longitud del cable: 1.2
 - Cómodos tapones de auricular de silicona de ajuste seguro
-- Diafragmas de neodimio de 9 mm para un sonido potente y equilibrado
+- Longitud del cable: 1.2
 - Disponible en diversos colores
 - Rango de frecuencia de 8 Hz hasta 22 kHz
+- Diafragmas de neodimio de 9 mm para un sonido potente y equilibrado
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00I3LUQPW/?tag=tolees-21)
