@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dunkerque [DVD] con un 41.67 % de descuento'
-date: 2021-03-04 08:11:36
+date: 2021-03-08 05:49:00
 image: 'https://m.media-amazon.com/images/I/51hQbjC6cNL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B076W4CPR3/?tag=tolees-21'
 descuento: '41.67'
-average: '4.96666666666667'
+average: '5.36'
 ---
 
 En este momento está [Dunkerque [DVD]](https://www.amazon.es/dp/B076W4CPR3/?tag=tolees-21) a 5.95 EUR (original: 10.2 EUR) (41.67 %  de descuento) en el siguiente enlace!

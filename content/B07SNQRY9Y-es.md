@@ -29,7 +29,7 @@ Tienes [Asics Gel-Nimbus 22  Zapatillas de Correr Hombre  Azul   Tuna Blue/Pure 
 🔎:
 
 - Greater Cushioning Under stress
-- Running shoes
 - Upper 360 ° Fluid SKIN
+- Running shoes
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07SNQRY9Y/?tag=tolees-21)
