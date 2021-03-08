@@ -28,8 +28,8 @@ Tienes [Castalia - Solucion Potasica  1 Litro](https://www.amazon.es/dp/B01FZTPR
 
 🔎:
 
+- Elaborado con productos naturales
 - Producto de la marca Castalia
 - El mejor producto para el cuidado y bienestar de tu cuerpo
-- Elaborado con productos naturales
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01FZTPR4O/?tag=tolees-21)
