@@ -28,10 +28,10 @@ Tienes [De Longhi AC75 Purificador de aire  3 estados de filtración  25 m²  40
 
 ℹ️:
 
-- Apto para estancias de hasta 25 m²
-- Ionizador y purificador
-- Panel de control LED
-- Con 3 estados de filtración (pre filtrado, filtro HEPA y filtro de carbón activo)
 - Temporizador 1 - 3 horas
+- Con 3 estados de filtración (pre filtrado, filtro HEPA y filtro de carbón activo)
+- Panel de control LED
+- Ionizador y purificador
+- Apto para estancias de hasta 25 m²
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B009DFZM0G/?tag=tolees-21)

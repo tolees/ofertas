@@ -28,9 +28,9 @@ Está [Nutrafin Bloque Calcio Neutralizador para Tortugas](https://www.amazon
 
 ℹ️:
 
-- Consiguen un agua libre de ácidos
-- Muy fáciles de usar
 - Especiales para tortugueras y entornos de tortugas
+- Muy fáciles de usar
+- Consiguen un agua libre de ácidos
 - Previenen el ablandamiento de los caparazones de las tortugas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0002DI1DS/?tag=tolees-21)

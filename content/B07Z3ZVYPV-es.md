@@ -28,10 +28,10 @@ En este momento está [Movom Ribbon Cartera Negro 11x8x1 cms Piel](https://www.a
 
 🔎:
 
-- Cuenta con seis ranuras para guardar las tarjetas, un compartimento para el dni y dos espacios independientes para los billetes
-- De joumma bags
 - Incorpora un monedero con cierre de clic
 - Cartera de 11 cm x 8 cm x 1 cm fabricada en piel
 - Sistema especial de protección para las tarjetas rfid que bloquea las señales de dispositivos de escaneo no autorizados por radiofrecuencia
+- Cuenta con seis ranuras para guardar las tarjetas, un compartimento para el dni y dos espacios independientes para los billetes
+- De joumma bags
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07Z3ZVYPV/?tag=tolees-21)

@@ -28,9 +28,9 @@ En este momento está [Vans Ward Canvas  Zapatillas para Hombre Azul  Dress Blue
 
 🔎:
 
-- Material exterior: Cuero
 - Cierre: Cordones
 - Tipo de tacón: Plano
+- Material exterior: Cuero
 - Revestimiento: Tela
 - Material de la suela: Goma
 

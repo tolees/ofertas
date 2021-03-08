@@ -28,10 +28,10 @@ Ahora mismo tienes [Disney Traditions  Figura de libro de "Pesadilla Antes de Na
 
 🔎:
 
-- Figurina decorativa de la colección Disney Traditions
-- Detalles precisos hechos a mano en resina
 - Está destinada para adultos, no es un juguete
 - Diseñada por Jim Shore
+- Detalles precisos hechos a mano en resina
 - Arte popular inspirado con colores vivos
+- Figurina decorativa de la colección Disney Traditions
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01N35G2FX/?tag=tolees-21)
