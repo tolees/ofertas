@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 35.10 % en Heat Blu-Ray [Blu-ray]'
-date: 2021-03-07 03:33:15
+date: 2021-03-08 09:03:55
 image: 'https://m.media-amazon.com/images/I/51+iOTuv88L._SL400_.jpg'
 comments: true
 category: ofertas

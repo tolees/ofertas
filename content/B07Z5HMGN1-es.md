@@ -28,7 +28,7 @@ Está [Salomon XA COLLIDER GTX W  Zapatillas de Trail Running Mujer  Azul  Icy M
 
 ℹ️:
 
-- Xa collider GTX W Icy Morn/Lunar Rock/North Atlantic
 - Número: 45 1/3
+- Xa collider GTX W Icy Morn/Lunar Rock/North Atlantic
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07Z5HMGN1/?tag=tolees-21)

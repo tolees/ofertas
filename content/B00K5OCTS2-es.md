@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vans Atwood  Sneaker Unisex Adulto  Rojo al 33.36 % de descuento'
-date: 2021-02-28 18:53:53
+date: 2021-03-08 09:07:02
 image: 'https://m.media-amazon.com/images/I/31vTXDf4r-L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Vans'
 buyurl: 'https://www.amazon.es/dp/B00K5OCTS2/?tag=tolees-21'
 descuento: '33.36'
-average: '24.995'
+average: '25.994'
 ---
 
 Ahora mismo tienes [Vans Atwood  Sneaker Unisex Adulto  Rojo  Canvas Oxblood/Black   39 EU](https://www.amazon.es/dp/B00K5OCTS2/?tag=tolees-21) a 29.99 EUR (original: 45.0 EUR) (33.36 %  de descuento) en el siguiente enlace!

@@ -29,8 +29,8 @@ Tienes [Samsonite Paradiver Light Bolsa de Viaje con Ruedas  S  55Cm-48 5L   Jea
 ℹ️:
 
 - Bolsa de viaje/Mochila con 2 ruedas 55 (Equipaje de mano: Viaje de dos días): 40 x 25 x 55 cm - 51 L - 2,40 kg
-- Cintas cruzadas elásticas en el compartimento principal
 - Paradiver Light: diversa combinación de artículos de viaje de gran capacidad y modelos diarios esenciales
+- Cintas cruzadas elásticas en el compartimento principal
 - Correas ergonómicas
 - Resistente a las inclemencias del tiempo: poliuretano resistente y poliéster
 

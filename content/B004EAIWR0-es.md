@@ -28,10 +28,10 @@ Tienes [Don Julio Tequila Reposado - 700 ml](https://www.amazon.es/dp/B004EAIWR0
 
 ℹ️:
 
-- Destilado en alambiques forrados de cobre y envejecido en barriles durante ocho meses
 - El tequila Don Julio más suave y rico de la colección
+- Destilado en alambiques forrados de cobre y envejecido en barriles durante ocho meses
+- Añada zumo de pomelo rosa, lima fresca y azúcar vainillado para degustar un Paloma
 - Un tequila maduro de color amarillo, con sabores particulares y un final rico y suave
 - Toques increíblemente suaves y elegantes de chocolate negro, vainilla y canela
-- Añada zumo de pomelo rosa, lima fresca y azúcar vainillado para degustar un Paloma
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B004EAIWR0/?tag=tolees-21)

@@ -28,10 +28,10 @@ En este momento está [SanDisk Ultra Luxe  Memoria flash USB 3.1 de 64GB y hasta
 
 🔎:
 
-- Elegante diseño de metal fundido
 - Usb 3.1 (gen. 1) con velocidades de hasta 150.mb/s
 - Incluye la protección con contraseña sandisk secureaccess
 - Transfiere una película a la memoria en menos de 30 segundos
+- Elegante diseño de metal fundido
 - Hasta 64GB de almacenamiento
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07SSZ8W38/?tag=tolees-21)

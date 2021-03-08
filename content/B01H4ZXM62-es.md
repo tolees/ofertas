@@ -29,9 +29,9 @@ Ahora mismo tienes [Russell Hobbs 23590-56 Plancha de vapor  2400 W  color azul 
 🔎:
 
 - Depósito de agua de 240 ml de capacidad
-- Vapor continuo de 25 g
-- 2400 w
-- Suela antiadherente
 - Golpe de vapor de 90 g
+- Suela antiadherente
+- 2400 w
+- Vapor continuo de 25 g
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01H4ZXM62/?tag=tolees-21)
