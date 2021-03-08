@@ -28,9 +28,9 @@ Tienes [adidas Continental 80  Zapatillas Hombre  Blanco  FTWR White/Scarlet/Col
 
 🔎:
 
-- Material exterior: sintético
-- Cierre: cordones
 - Forro: sintético
 - Material de la suela: goma
+- Material exterior: sintético
+- Cierre: cordones
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07K1H9JHN/?tag=tolees-21)

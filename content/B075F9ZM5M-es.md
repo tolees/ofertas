@@ -28,9 +28,9 @@ Tienes [Leyendas de Luma-¡Oh Capitán  Ludonaute LDOC0001 ](https://www.amazon.
 
 ℹ️:
 
-- Producto en castellano
 - El Intrépido lleva surcando los mares las tres últimas lunas
-- Con su mano derecha sostiene sobre las aguas la botella que contiene el misterioso mensaje que inició esta aventura
 - Recostado en la cubierta, Red otea el horizonte murmurando para sí: «condenadas medusas brillantes». 
+- Con su mano derecha sostiene sobre las aguas la botella que contiene el misterioso mensaje que inició esta aventura
+- Producto en castellano
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B075F9ZM5M/?tag=tolees-21)

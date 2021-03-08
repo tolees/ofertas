@@ -28,9 +28,9 @@ Ahora mismo tienes [Parateck - Hucha digital para niña con pantalla LCD  hucha 
 
 🔎:
 
-- ✅ Alentar a los niños grandes, también a empezar a ahorrar. Uso de las puntas: 1. Abre el compartimento de las pilas. 2. Inserta 2 pilas AAA en el compartimento de las baterías; 3. Pon monedas en la hucha infantil.
 - ✅ Función de reinicialización: cuando se alcanza el primer destino, podemos abrir la hucha sin romperla para recuperar el dinero, puedes borrar el número y reiniciar la memoria de destino siguiente. Hucha de plata alimentada por 2 pilas AAA (pilas no incluidas).
 - ✅ Hucha digita con memoria permanente: nunca tendrás que preocuparte por sus ahorros manuales ni saber cuánto estás cerca de tu situación. Apto para todas las monedas de euro.
+- ✅ Alentar a los niños grandes, también a empezar a ahorrar. Uso de las puntas: 1. Abre el compartimento de las pilas. 2. Inserta 2 pilas AAA en el compartimento de las baterías; 3. Pon monedas en la hucha infantil.
 - ✅ Hucha contadora con pantalla LCD: el ingenioso modelo cuenta cada pieza cuando se desliza en la ranura. Después, muestra digitalmente el valor facial de la habitación y la añade al total
 - ✅ Solución de problemas: mala lectura, a) colocar las monedas en la ranura en el sentido vertical; b) no recuperará las monedas cuando se inserten en la ranura; c) no presionar las monedas demasiado rápido y difícil en la ranura
 

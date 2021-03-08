@@ -28,10 +28,10 @@ Tienes [Western Digital - WD Red WD40EFAX  Disco duro interno 4TB NAS 3.5 pulgad
 
 ℹ️:
 
-- Diseñados específicamente para sistemas NAS que tienen de 1 a 8 bahías de unidades en factores de forma de 3,5 y 2,5 pulgadas
 - Las unidades WD Red con tecnología NASware 3.0 están diseñadas específicamente para equilibrar el rendimiento y la confiabilidad en entornos NAS y RAID
-- Clase de RPM: IntelliPower
 - Factor de forma 3.5 pulgadas
+- Diseñados específicamente para sistemas NAS que tienen de 1 a 8 bahías de unidades en factores de forma de 3,5 y 2,5 pulgadas
+- Clase de RPM: IntelliPower
 - Interfaz: SATA 6 Gb / s
 - Cache: 64 MB
 

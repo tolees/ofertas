@@ -28,9 +28,9 @@ Tienes [Tease And Please - MISION INTIMA CAJA AMPLIACION  ES ](https://www.amazo
 
 ℹ️:
 
+- MISION INTIMA CAJA AMPLIACION (ES)
 - ión del juego, junto con Misión íntima Edición Original , os conducirá a un viaje de descubrimientos eróticos, en el cual el placer juega el papel principal. Con esta preguntas y pruebas extras tÚ y tu pareja descubriréis nuevas posibilidades. El juego comienza con pruebas suaves, románticas, siguiendo con pruebas más íntimas y acabando con pruebas ardientes donde todo esta permitido y nada es obligado. De manera lÚdica se rompen las barreras aumentando la aproximación del uno al otro. El juego
 - SOMOS MUY DISCRETOS, ENTREGA URGENTE EN 24/48 HORAS
-- MISION INTIMA CAJA AMPLIACION (ES)
 - Misión íntima caja ampliación.Misión íntima Edición Original goza de un éxito sin precedentes tanto en Estados Unidos como en otros países. Aparece en diferentes idiomas importantes y se vende por todo el mundo en más de 30 países. A petición de miles de clientes lanza MOODZZ a la venta una caja ampliación (volumen 1). Esta caja ampliación contiene 240 pruebas y preguntas nuevas.Sólo es posible jugar con la caja ampliación en combinación con el juego Misión íntima Edición Original.Esta ampliac
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B073CP8YJ5/?tag=tolees-21)

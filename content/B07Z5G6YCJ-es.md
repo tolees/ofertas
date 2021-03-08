@@ -28,7 +28,7 @@ Está [Salomon Alphacross Blast  Zapatillas De Trail Running Cómodas Y Fuerte A
 
 ℹ️:
 
-- Alphacross Blast W India Ink/White/Black
 - Número: 36
+- Alphacross Blast W India Ink/White/Black
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07Z5G6YCJ/?tag=tolees-21)

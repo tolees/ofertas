@@ -28,10 +28,10 @@ En este momento está [Kärcher 1.633-430.0 Window Vac WV 2 Premium 10 years - L
 
 🔎:
 
-- Anchura de la raclette de 280 mm y raclette pequeños azulejos de 170 mm. Peso de 600 g.
-- 185 min tiempo de carga.
 - Diseño moderno Duración de 35 minutos Ultra silencioso (50 dB (a)) Pantalla LED con estado de carga de la batería
-- Ligero (600g) Depósito de agua sucia extraíble vaciado rápido raclette para cuadros pequeños.
+- 185 min tiempo de carga.
 - Autonomía de 35 min sea 105 m² (aproximadamente 35 ventanas), depósito de agua sucia de 100 ml.
+- Anchura de la raclette de 280 mm y raclette pequeños azulejos de 170 mm. Peso de 600 g.
+- Ligero (600g) Depósito de agua sucia extraíble vaciado rápido raclette para cuadros pequeños.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B075F78KDV/?tag=tolees-21)

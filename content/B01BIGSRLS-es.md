@@ -30,7 +30,7 @@ Está [Western Digital - WD 8TB My Cloud EX2 Ultra Almacenamiento en red](https:
 
 - Sincronización automática de archivos en todos sus ordenadores
 - Almacenamiento en red centralizado y acceso desde cualquier lugar
-- 1 GB de memoria DDR3 para poder realizar varias tareas con facilidad
 - Equipado con My Cloud OS 3
+- 1 GB de memoria DDR3 para poder realizar varias tareas con facilidad
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01BIGSRLS/?tag=tolees-21)
