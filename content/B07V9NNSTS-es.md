@@ -28,8 +28,8 @@ Tienes [Hackett London Garment Dye LN BS Camisa de Oficina  Blanco  802optic Whi
 
 🔎:
 
-- manga larga
 - Lino
 - Corte estándar
+- manga larga
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07V9NNSTS/?tag=tolees-21)

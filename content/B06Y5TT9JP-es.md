@@ -28,11 +28,11 @@ Tienes [Taurus Horizon 9 - Horno Electrico  800 W  Acero 18/10  Negro](https://w
 
 🔎:
 
-- Temporizador de 60 min
 - 3 modos de cocción: tradicional, inferior, gratinado
-- Medida exterior: 36 x 24 x 19 cm
-- Horno de 9 l de capacidad y 800 w de potencía
 - Temperatura constante 230 ºc
+- Temporizador de 60 min
+- Horno de 9 l de capacidad y 800 w de potencía
 - Selector de zona de 4 posiciones
+- Medida exterior: 36 x 24 x 19 cm
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B06Y5TT9JP/?tag=tolees-21)
