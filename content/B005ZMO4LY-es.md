@@ -28,9 +28,9 @@ Tienes [DeLonghi - De Longhi ESAM 6900.M - Máquina espresso  1350 W  1.4 L  80 
 
 🔎:
 
-- Cuenta con filtro de agua
-- Potencia: 1350 W
 - Tipo de producto: máquina espresso
+- Potencia: 1350 W
 - Dispone de sistema de apagado automático
+- Cuenta con filtro de agua
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B005ZMO4LY/?tag=tolees-21)

@@ -30,9 +30,9 @@ Tienes [Logitech Rugged Folio – Funda con teclado protectora para iPad 7a gene
 
 - Cuatro modos de uso:Cuatro modos aportan flexibilidad para usar Rugged Folio en cualquier entorno o tarea: escribir, dibujar, ver y leer
 - Escritura silenciosa:Las teclas están diseñadas para no hacer ruido y poder escribir sin distraer a nadie alrededor al trabaja en un espacio público o una oficina de planta abierta
-- Teclas resistentes a salpicaduras y suciedad:Una membrana duradera sella el teclado y lo protege de bebidas derramadas, migajas del bocadillo del almuerzo y otros contratiempos cotidianos; En caso de accidente, el teclado puede limpiarse sin temor a dañarlo
-- Fila completa de teclas de acceso directo de iOS:Ya no tienes que buscar en la pantalla o en los menús para realizar acciones sencillas
 - Smart Connector:El teclado encaja mediante un mecanismo magnético y se conecta al instante, sin necesidad de complicados emparejamientos Bluetooth, y se alimenta directamente del iPad 7.ª generación o sea que no hace falta cargarlo
+- Teclas resistentes a salpicaduras y suciedad:Una membrana duradera sella el teclado y lo protege de bebidas derramadas, migajas del bocadillo del almuerzo y otros contratiempos cotidianos; En caso de accidente, el teclado puede limpiarse sin temor a dañarlo
 - Soporte para Logitech Crayon, Apple Pencil 1a generación y otros lápices digitales:Rugged Folio ofrece un espacio dedicado al lápiz digital, para tener siempre a mano una herramienta de escritura
+- Fila completa de teclas de acceso directo de iOS:Ya no tienes que buscar en la pantalla o en los menús para realizar acciones sencillas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07W5JK4VJ/?tag=tolees-21)

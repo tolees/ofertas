@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Science4you-La Ciencia de Los Inventos J al 50.05 % de descuento'
-date: 2021-02-22 07:37:20
+date: 2021-03-08 16:36:29
 image: 'https://m.media-amazon.com/images/I/51Fvzri0hlL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Science4you'
 buyurl: 'https://www.amazon.es/dp/B07B4BSX7K/?tag=tolees-21'
 descuento: '50.05'
-average: '9.07'
+average: '8.69909090909091'
 ---
 
 Ahora mismo tienes [Science4you-La Ciencia de Los Inventos Juguete Científico y Educativo Stem para Niños +8 Años  Multicolor  única  605206 ](https://www.amazon.es/dp/B07B4BSX7K/?tag=tolees-21) a 4.99 EUR (original: 9.99 EUR) (50.05 %  de descuento) en el siguiente enlace!
@@ -28,14 +28,14 @@ Ahora mismo tienes [Science4you-La Ciencia de Los Inventos Juguete Científico y
 
 🔎:
 
-- Hacer divertidas carreras de latas y poner a levitar una serpiente
 - Crees que tienes un pequeño científico en casa
-- Aprender cómo recrear fantásticos experimentos de científicos famosos
-- 11 experimentos
-- Poner en marcha circuitos e interruptores
 - Libro educativo con 36 páginas
-- El regalo perfecto
+- Aprender cómo recrear fantásticos experimentos de científicos famosos
+- Poner en marcha circuitos e interruptores
+- Hacer divertidas carreras de latas y poner a levitar una serpiente
 - 👁 Mira cómo se divierte a aprender con science4you
 - Brain activator es el sello de carácter educativo de science4you
+- 11 experimentos
+- El regalo perfecto
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07B4BSX7K/?tag=tolees-21)

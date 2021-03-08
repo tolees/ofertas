@@ -28,7 +28,7 @@ Tienes [HP EliteDisplay E202 - Monitor  1600 x 900 Pixeles  LED  Not supported  
 
 🔎:
 
-- Tecnología: LED
 - Pantalla: 20"
+- Tecnología: LED
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01A87VQD4/?tag=tolees-21)

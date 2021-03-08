@@ -28,9 +28,9 @@ Tienes [JVC HA-L50W  Cuffie Leggere  18 - 22000 Hz  3 cm  1 5 m  Bianco](https:/
 
 🔎:
 
+- Potente imán de neodimio de 30 mm
 - Diseño plegable
 - Cable resistente y anti-enredos de 1,5 m
 - Diseño estilizado para los reproductores de MP3
-- Potente imán de neodimio de 30 mm
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B000I2J4SY/?tag=tolees-21)
