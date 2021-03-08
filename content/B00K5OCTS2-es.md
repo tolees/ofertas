@@ -28,7 +28,7 @@ Ahora mismo tienes [Vans Atwood  Sneaker Unisex Adulto  Rojo  Canvas Oxblood/Bla
 
 🔎:
 
-- adulto
 - Rojo
+- adulto
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00K5OCTS2/?tag=tolees-21)

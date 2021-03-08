@@ -28,10 +28,10 @@ En este momento está [Casio EDIFICE Reloj en caja sólida  10 BAR  Azul  para H
 
 🔎:
 
-- Cronómetro - 1/1 seg. - 30 min.
-- Caja sólida de acero inoxidable
-- Clasificación de resistencia al agua (10 bar)
 - Fondo de la carcasa atornillado
+- Cronómetro - 1/1 seg. - 30 min.
+- Clasificación de resistencia al agua (10 bar)
 - Pantalla de neón
+- Caja sólida de acero inoxidable
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07DRRV3QD/?tag=tolees-21)
