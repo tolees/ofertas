@@ -28,8 +28,8 @@ En este momento está [WOLFPACK LINEA PROFESIONAL - Wolfpack 05110500 - Caballet
 
 🔎:
 
+- Certificado de sostenibilidad pefc.
 - Resistente 2 caballetes 400kg
 - Madera de pino macizo
-- Certificado de sostenibilidad pefc.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00ITVUI18/?tag=tolees-21)

@@ -28,10 +28,10 @@ Ahora mismo tienes [Wizarding World of Harry Potter - Figura Hedwig  Multicolor 
 
 🔎:
 
-- Fabricado en resina
-- Harry Potter
-- Gran detalle
 - Licencia oficial
 - Estilo chibi
+- Fabricado en resina
+- Gran detalle
+- Harry Potter
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07NF31C2S/?tag=tolees-21)
