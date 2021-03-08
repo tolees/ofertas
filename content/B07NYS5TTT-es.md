@@ -29,9 +29,9 @@ Tienes [Altavoces de ordenador Creative Pebble Plus 2.1 potenciados por USB con 
 ℹ️:
 
 - MODO DE GANANCIA ALTA | ¡Disfrute al máximo de los altavoces Creative Pebble Plus! Simplemente apretando un botón puede acceder al Modo de Ganancia Alta para aumentar la salida de potencia para 8 W RMS para un desempeño de bajos más robusto y audio para toda la habitación — sin comprometer la calidad del audio. Es necesario un adaptador 2A USB de 5 V (no se incluye)
+- POTENCIADO POR USB PARA MAYOR COMODIDAD | Potenciado por USB y conexión a sus dispositivos a través de un cable con entrada AUX de 3.5 mm, los altavoces Pebble Plus eliminan la necesidad de una toma de corriente mientras duplican los bajos con su subwoofer externo
 - CONTROLADORES CON UNA ELEVACIÓN DE 45° | Con controladores de medio alcance de 2 pulgadas con una elevación de 45°, los altavoces Pebble Plus poseen una inclinación específica hacia el usuario, ofreciendo el mejor sonido y garantizando que el usuario es el centro de las atenciones
 - POTENTE SUBWOOFER CON SALIDA INFERIOR | Los altavoces Creative Pebble Plus incluyen un subwoofer con puertos y salida inferior de 4 pulgadas con nuevo diseño, para una potencia y profundidad notables, ofreciendo una actualización significativa del desempeño de audio en comparación con sus antecesores
 - CONTROLES DE VOLUMEN DE FÁCIL ACCESO | Los controles de volumen están convenientemente localizados en la parte frontal de los altavoces para un acceso fácil y cómodo
-- POTENCIADO POR USB PARA MAYOR COMODIDAD | Potenciado por USB y conexión a sus dispositivos a través de un cable con entrada AUX de 3.5 mm, los altavoces Pebble Plus eliminan la necesidad de una toma de corriente mientras duplican los bajos con su subwoofer externo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07NYS5TTT/?tag=tolees-21)

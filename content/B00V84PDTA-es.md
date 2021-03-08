@@ -28,9 +28,9 @@ Tienes [IMEX EL ZORRO 71624 - Parrilla para Barbacoa  Hierro  60 x 41 cm](https:
 
 🔎:
 
-- Estructura estable y durable
-- Puede utilizar le&ntilde;a y carb&oacute;n vegetal
 - Dise&ntilde;o practico
 - Montaje f&aacute;cil
+- Puede utilizar le&ntilde;a y carb&oacute;n vegetal
+- Estructura estable y durable
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00V84PDTA/?tag=tolees-21)

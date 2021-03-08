@@ -28,10 +28,10 @@ Ahora mismo tienes [Boligrafo Slytherin Harry Potter](https://www.amazon.es/dp/B
 
 🔎:
 
-- Cada pluma escribe en tinta negra
 - La pluma mide aprox. 14cm de largo
 - Elija entre un diseño de gryffindor, hufflepuff, slytherin o ravenclaw
-- Mercancía con licencia oficial del 100%
+- Cada pluma escribe en tinta negra
 - El empaque puede variar de cualquier imagen mostrada
+- Mercancía con licencia oficial del 100%
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07JM75GR2/?tag=tolees-21)

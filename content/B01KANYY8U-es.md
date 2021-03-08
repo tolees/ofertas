@@ -28,8 +28,8 @@ En este momento está [Rankie Cable DisplayPort a DVI  1080P  1 8m  Negro](https
 
 🔎:
 
-- Soporta resoluciones de video de hasta 1920x1200 / 1080p (Full HD)
 - Conector DisplayPort con cierres proporciona una conexion segura con un boton de liberacion que debe estar deprimido antes de desconectar
+- Soporta resoluciones de video de hasta 1920x1200 / 1080p (Full HD)
 - Los conectores enchapados en oro de resistir la corrosión, proporcionan durabilidad y mejorar la señal de transmisión; Foil & Braid blindaje reduce la interferencia electromagnética; mejora el rendimiento de cable conductor de cobre desnudo
 - Transmite video de alta definicion desde tu ordenador a un monitor de video streaming o Gaming; conectar y configurar su monitor para un escritorio extendido o espejo de muestra
 - 1,8m Negro. Conectar un DisplayPort (DP, DP + +, DisplayPort + +) equipado laptop o computadora de escritorio a un monitor o proyector con entrada DVI

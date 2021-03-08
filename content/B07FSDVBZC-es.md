@@ -28,10 +28,10 @@ Ahora mismo tienes [KEXIN 64GB Memoria USB Tipo C y USB 3.0 OTG Flash Drive 64 G
 
 🔎:
 
-- Fácil de Usar: Plug and play, Compatible con Samsung Galaxy S9 / S9 Plus, Lumia 950/950 XL, Google Nexus 5X y 6P, Google Pixel,Huawei,Xiaomi, Nueva Macbook Pro y más
-- Lo Que Obtiene: Multifunción tipo C y USB, garantía de po 12 meses y servicio al cliente amigable
 - Importante: El formato predeterminado de la unidad es FAT32 ya que este es el formato reconocido por los teléfonos y las tabletas.
 - Alta Velocidad: Velocidad de lectura de hasta 90MB / s; Velocidad de escritura hasta 20 MB / s
+- Fácil de Usar: Plug and play, Compatible con Samsung Galaxy S9 / S9 Plus, Lumia 950/950 XL, Google Nexus 5X y 6P, Google Pixel,Huawei,Xiaomi, Nueva Macbook Pro y más
+- Lo Que Obtiene: Multifunción tipo C y USB, garantía de po 12 meses y servicio al cliente amigable
 - Función 2 en 1: USB Type C 3.1 + USB 3.0, no solo para la interfaz USB, sino también para Tipo C [Nota: asegúrese de que sus dispositivos sean compatibles con la función OTG]
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07FSDVBZC/?tag=tolees-21)
