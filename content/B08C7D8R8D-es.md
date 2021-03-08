@@ -29,9 +29,9 @@ En este momento está [adidas Check CLX SH CL Bañador  Hombre  Negro  M](https:
 🔎:
 
 - Calzoncillo interior de malla
-- Tejido técnico 100% poliéster reciclado
-- Cintura elástica con cordón interior
-- Tejido suave de secado rápido muy resistente al desgaste
 - Cómodo bañador corto
+- Tejido técnico 100% poliéster reciclado
+- Tejido suave de secado rápido muy resistente al desgaste
+- Cintura elástica con cordón interior
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08C7D8R8D/?tag=tolees-21)

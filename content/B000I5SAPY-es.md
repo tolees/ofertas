@@ -28,9 +28,9 @@ Tienes [Rapesco 25 Single - Perforadora metálica de un agujero y 10 hojas de ca
 
 ℹ️:
 
+- Cámara pequeña para almacenamiento de confetis
 - A - 16 mm x P - 130 mm
 - Perforador de metal tipo alicate de un agujero
-- Cámara pequeña para almacenamiento de confetis
 - Capacidad para 10 hojas
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000I5SAPY/?tag=tolees-21)

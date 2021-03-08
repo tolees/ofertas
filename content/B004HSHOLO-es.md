@@ -28,10 +28,10 @@ Tienes [HELLA 8GH 007 157-121 Lámpara  H7  Standard  12V  55W  Tipo de portalá
 
 🔎:
 
-- Diseño compacto modular para una fácil instalación
-- Cuenta con bajo consumo de energía
 - Ofrece visibilidad para ver los obstáculos
 - Lámpara de descarga gaseosa
+- Diseño compacto modular para una fácil instalación
 - Fabricada en materiales duraderas
+- Cuenta con bajo consumo de energía
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B004HSHOLO/?tag=tolees-21)
