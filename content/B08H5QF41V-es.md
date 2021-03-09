@@ -29,8 +29,8 @@ Está [Nero Giardini - NeroGiardini A923731M Sneaker Kids Niño De Piel  Ante Y 
 ℹ️:
 
 - Ajuste: Cómodo
+- Material Interno: piel
 - Material Externo: Piel
 - Calidad: Made in Italy
-- Material Interno: piel
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08H5QF41V/?tag=tolees-21)

@@ -28,10 +28,10 @@ Ahora mismo tienes [Nero Giardini - NeroGiardini A909065D Sneaker Altas Mujer De
 
 🔎:
 
-- Material Interno: piel
-- Tacón: 4.5 cm
 - Calidad: Made in Italy
 - Ajuste: Cómodo
 - Material Externo: Piel
+- Tacón: 4.5 cm
+- Material Interno: piel
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07W7TZH7Q/?tag=tolees-21)

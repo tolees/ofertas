@@ -28,10 +28,10 @@ En este momento está [Nero Giardini - NeroGiardini A909061D Sneaker Mujer De Pi
 
 🔎:
 
-- Material Interno: piel
-- Tacón: 4.5 cm
-- Ajuste: Cómodo
 - Calidad: Made in Italy
+- Material Interno: piel
+- Ajuste: Cómodo
+- Tacón: 4.5 cm
 - Material Externo: Piel
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08NTQL8ZL/?tag=tolees-21)

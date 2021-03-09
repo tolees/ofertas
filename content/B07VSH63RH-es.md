@@ -28,10 +28,10 @@ En este momento está [Nero Giardini - NeroGiardini A909610D Botas Mujer De Piel
 
 🔎:
 
+- Tacón: 6.5 cm
+- Calidad: Made in Italy
 - Ajuste: Cómodo
 - Material Interno: Piel
-- Calidad: Made in Italy
 - Material Externo: Piel
-- Tacón: 6.5 cm
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07VSH63RH/?tag=tolees-21)

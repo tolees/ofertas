@@ -29,9 +29,9 @@ Ahora mismo tienes [Nero Giardini A968220D - Piel ecológica para mujer Amarena 
 🔎:
 
 - Calidad: fabricado en Italia
-- Talla 42:
 - Modelo: piel ecológica
-- Material: 100% poliéster
+- Talla 42:
 - Cómo lavar:
+- Material: 100% poliéster
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08LDFG72M/?tag=tolees-21)
