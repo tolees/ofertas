@@ -29,7 +29,7 @@ Ahora mismo tienes [Mr. Wonderful WOA09123ES - Álbum](https://www.amazon.es/dp/
 🔎:
 
 - Diseño divertido y moderno
-- Material resistente
 - Fácil de limpiar
+- Material resistente
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07CGQGVK7/?tag=tolees-21)

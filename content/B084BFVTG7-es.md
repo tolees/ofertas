@@ -28,10 +28,10 @@ Ahora mismo tienes [NORTH SAILS Sailor 2.0 Chaqueta para lluvia  Grisaille  Larg
 
 🔎:
 
+- Icónico chaleco north sails
+- Bordes de punto
+- Corte normal
 - Bolsillos con cremallera
 - Chaqueta de nailon
-- Corte normal
-- Bordes de punto
-- Icónico chaleco north sails
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B084BFVTG7/?tag=tolees-21)

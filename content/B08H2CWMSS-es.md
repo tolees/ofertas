@@ -29,9 +29,9 @@ Ahora mismo tienes [Mr. Wonderful - Calendario de sobremesa - 2021 ya está aqu�
 🔎:
 
 - Incluye 6 hojas de pegatinas encuadernadas, 2 tacos de notas adhesivas y 3 tacos de marcapáginas, cada uno de ellos con 20 hojas.
-- Estructura con peana
-- Diseñado bajo nuestro estilo más clásico
 - Papel offset 250 gr
+- Diseñado bajo nuestro estilo más clásico
 - Encuadernación en espiral
+- Estructura con peana
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08H2CWMSS/?tag=tolees-21)
