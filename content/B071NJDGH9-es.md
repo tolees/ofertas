@@ -28,9 +28,9 @@ Tienes [VIALMAN Colcha  Marino  Cama 150 : 250 CM X 270 CM](https://www.amazon.e
 
 🔎:
 
-- Esta hecha de algodón
 - Colcha para la cama
-- Es suave al tacto e ofrece calidez
 - Tiene diseño de estrellas
+- Esta hecha de algodón
+- Es suave al tacto e ofrece calidez
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B071NJDGH9/?tag=tolees-21)

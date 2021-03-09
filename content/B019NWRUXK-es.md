@@ -28,9 +28,9 @@ Tienes [Corsair CX550M - Fuente de Alimentación  semi modular  80 plus bronze  
 
 🔎:
 
-- Ventilador con control térmico: funcionamiento silencioso a media y baja carga
-- Dispositivos compatibles: PC
 - Certificación de eficiencia 80 PLUS Bronze: funcionamiento de gran eficiencia para reducir los costes operativos y la emisión del calor
 - Semimodular: facilite los ensamblajes y las actualizaciones, además de producir resultados estéticamente despejados y muy atractivos
+- Dispositivos compatibles: PC
+- Ventilador con control térmico: funcionamiento silencioso a media y baja carga
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B019NWRUXK/?tag=tolees-21)

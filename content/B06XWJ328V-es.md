@@ -28,8 +28,8 @@ En este momento está [VIALMAN Colcha  Marino  Cama 90 : 180 CM X 270 CM](https:
 
 🔎:
 
-- Esta hecha de algodón
 - Colcha para la cama
+- Esta hecha de algodón
 - Tiene diseño de estrellas
 - Es suave al tacto e ofrece calidez
 

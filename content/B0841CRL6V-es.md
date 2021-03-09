@@ -28,14 +28,14 @@ Está [Tommy Hilfiger TJM Essential Down Jacket Chaqueta  Azul Marino Crepúscul
 
 ℹ️:
 
-- Corte regular
+- Dos bolsillos laterales
+- Relleno de plumón
 - Cuello alto
 - Capucha con cordón
-- Marca Tommy Jeans
-- Relleno de plumón
-- Dos bolsillos laterales
-- Poliéster reciclado
-- Un bolsillo interior ribeteado
 - Parche de bandera Tommy Jeans en el pecho y la manga
+- Marca Tommy Jeans
+- Un bolsillo interior ribeteado
+- Corte regular
+- Poliéster reciclado
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0841CRL6V/?tag=tolees-21)

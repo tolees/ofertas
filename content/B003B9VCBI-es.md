@@ -28,9 +28,9 @@ Tienes [John Handel - John 59008 - Pelota canguro  45 - 50 cm   colores surtidos
 
 🔎:
 
-- Peso máximo indicado por el fabricante de 50 kilogramos
+- Material plástico resistente
 - Ideal para interior y exterior
 - No conviene para niños menores de 36 meses
-- Material plástico resistente
+- Peso máximo indicado por el fabricante de 50 kilogramos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B003B9VCBI/?tag=tolees-21)

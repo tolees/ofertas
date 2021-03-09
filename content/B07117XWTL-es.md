@@ -28,9 +28,9 @@ Ahora mismo tienes [VIALMAN Colcha  BEIG  Cama 150 : 250 CM X 270 CM](https://ww
 
 🔎:
 
-- Colcha para la cama
 - Esta hecha de algodón
-- Tiene diseño de estrellas
 - Es suave al tacto e ofrece calidez
+- Tiene diseño de estrellas
+- Colcha para la cama
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07117XWTL/?tag=tolees-21)

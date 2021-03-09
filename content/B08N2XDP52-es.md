@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Amazon - Echo Show 5  Blanco + Philips H al 27.33 % de descuento'
-date: 2021-03-08 22:03:53
+title: 'Amazon - Echo Show 5  Blanco + Philips H al 34.60 % de descuento'
+date: 2021-03-09 22:10:10
 image: 'https://m.media-amazon.com/images/I/313A1Vd1k4L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,31 +9,31 @@ author: ring
 slug: 'B08N2XDP52-es Amazon - Echo Show 5 Blanco + Philips Hue Bombilla...'
 sku: 'B08N2XDP52-es'
 tags: [  ]
-actualPrice: 79.89 EUR
+actualPrice: 71.9 EUR
 currency: EUR
-price: 79.89
+price: 71.9
 comparePrice: 109.94 EUR
 prodname: 'Amazon - Echo Show 5  Blanco + Philips Hue Bombilla Inteligente  E27   compatible con Alexa'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Amazon'
 buyurl: 'https://www.amazon.es/dp/B08N2XDP52/?tag=tolees-21'
-descuento: '27.33'
-average: '70.1'
+descuento: '34.60'
+average: '70.244'
 ---
 
-Ahora mismo tienes [Amazon - Echo Show 5  Blanco + Philips Hue Bombilla Inteligente  E27   compatible con Alexa](https://www.amazon.es/dp/B08N2XDP52/?tag=tolees-21) a 79.89 EUR (original: 109.94 EUR) (27.33 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Amazon - Echo Show 5  Blanco + Philips Hue Bombilla Inteligente  E27   compatible con Alexa](https://www.amazon.es/dp/B08N2XDP52/?tag=tolees-21) a 71.9 EUR (original: 109.94 EUR) (34.60 %  de descuento) en el siguiente enlace!
 
 [![Amazon - Echo Show 5  Blanco + Philips H](https://m.media-amazon.com/images/I/313A1Vd1k4L._SL400_.jpg)](https://www.amazon.es/dp/B08N2XDP52/?tag=tolees-21)
 
 🔎:
 
+- Realiza llamadas y videollamadas a amigos y familiares que tengan un dispositivo Echo compatible o la app Alexa.
+- Personalízalo con tu esfera de reloj o foto favorita. Crea rutinas y alarmas para empezar el día con buen pie.
+- Gestiona tu calendario, crea listas de tareas, entérate de la previsión del tiempo y del estado del tráfico, y cocina siguiendo recetas.
 - Pantalla inteligente compacta de 5,5" con Alexa lista para ayudarte
 - Controla dispositivos compatibles con la voz o adminístralos usando la pantalla.
-- Personalízalo con tu esfera de reloj o foto favorita. Crea rutinas y alarmas para empezar el día con buen pie.
 - Mira películas, series y noticias. Escucha canciones y emisoras de radio.
-- Gestiona tu calendario, crea listas de tareas, entérate de la previsión del tiempo y del estado del tráfico, y cocina siguiendo recetas.
-- Realiza llamadas y videollamadas a amigos y familiares que tengan un dispositivo Echo compatible o la app Alexa.
 - Controla tu privacidad con el botón para apagar la cámara y los micrófonos, y con la cubierta de la cámara integrada.
 - Este lote incluye un Echo Show 5 y un Philips Hue Bombilla Inteligente (E27): todo lo que necesitas para entrar en el mundo del Hogar digital.
 

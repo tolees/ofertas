@@ -28,8 +28,8 @@ Está [Helly Hansen Crew Insulator - Chaqueta para hombre  Negro  Ebony   S](htt
 
 ℹ️:
 
-- Ribete en otro color alrededor del cuello y en el bolsillo del pecho - Bolsillo en el pecho y para las manos con cierre de cremallera YKK - Metaluxe
 - Logotipo de Helly Hansen estampado en la parte trasera del cuello - Canesú con detalle de cinta en otro color
+- Ribete en otro color alrededor del cuello y en el bolsillo del pecho - Bolsillo en el pecho y para las manos con cierre de cremallera YKK - Metaluxe
 - Tejido impermeable y cortaviento de poliéster - Dibujo de Helly Hansen en tapeta interior - Varios logotipos de HH impresos
 - Aislamiento PrimaLoft Black de 133 g/m2 en el cuerpo Tratamiento DWR
 - Cremallera delantera YKK Metaluxe - Aislamiento PrimaLoft Black de 100 g/m2 en las mangas
