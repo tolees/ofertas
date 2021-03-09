@@ -28,10 +28,10 @@ Ahora mismo tienes [Lékué - Recipiente Hermético para Transportar Alimentos  
 
 🔎:
 
-- 100 % hermético, puedes llevarlo en cvartra, mochila sin preocuparte de que se vierta el contenido
-- Libre de bpa
-- Incluye vaso contenedor colapsable para mantener los ingredientes secos
 - Nuevos colores tendencia
 - Muy fácil de limpiar
+- Libre de bpa
+- Incluye vaso contenedor colapsable para mantener los ingredientes secos
+- 100 % hermético, puedes llevarlo en cvartra, mochila sin preocuparte de que se vierta el contenido
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07H3SY2GN/?tag=tolees-21)

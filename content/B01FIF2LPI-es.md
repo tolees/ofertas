@@ -28,9 +28,9 @@ Ahora mismo tienes [Energy Sistem Headphones DJ2 Red  Auriculares Estilo DJ  Fli
 
 🔎:
 
-- FLIP-UP EAR CUPS: Auriculares con rotación vertical de 180º que permiten colocarlos en una sola oreja.
-- DJ HEADPHONES: Auriculares de diadema estilo DJ con drivers de neodimio de 40 mm que ofrecen un sonido potente y unos graves contundentes.
-- CABLE EXTRAÍBLE: reduce el riesgo de enganches gracias a su cable extraíble de 1,2 metros que puedes poner y quitar fácilmente.
 - FOLDABLE: diseño plegable que facilita su transporte y permite guardarlos en el bolso o la mochila cómodamente.
+- DJ HEADPHONES: Auriculares de diadema estilo DJ con drivers de neodimio de 40 mm que ofrecen un sonido potente y unos graves contundentes.
+- FLIP-UP EAR CUPS: Auriculares con rotación vertical de 180º que permiten colocarlos en una sola oreja.
+- CABLE EXTRAÍBLE: reduce el riesgo de enganches gracias a su cable extraíble de 1,2 metros que puedes poner y quitar fácilmente.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01FIF2LPI/?tag=tolees-21)

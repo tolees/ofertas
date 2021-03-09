@@ -28,10 +28,10 @@ Está [PUMA At ESS Barrel Bag Bolsa Deporte  Mujer  Black/Fizzy Yellow  OSFA](ht
 
 ℹ️:
 
-- Abertura con cremallera de doble cursor para el compartimento principal
-- Bolsillo con cremallera completa en la parte delantera cubierto por una solapa
-- Correa ajustable de cincha para el hombro
 - Asas de transporte de cincha
+- Correa ajustable de cincha para el hombro
 - Bolsillo con cremallera pequeño en el interior
+- Bolsillo con cremallera completa en la parte delantera cubierto por una solapa
+- Abertura con cremallera de doble cursor para el compartimento principal
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B081RTMZNK/?tag=tolees-21)
