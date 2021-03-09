@@ -28,9 +28,9 @@ Ahora mismo tienes [tesa Powerstrips 58031-00020-00 - Gancho para colgar cuadros
 
 🔎:
 
-- 58031-00020.
-- 1 par.
-- Powerstrips de tesa.
 - Color: blanco.
+- Powerstrips de tesa.
+- 1 par.
+- 58031-00020.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B001J8I7VG/?tag=tolees-21)
