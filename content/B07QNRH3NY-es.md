@@ -29,9 +29,9 @@ En este momento está [G-Technology 0G10435-1 4 TB ArmorATD - Disco Duro Todoter
 🔎:
 
 - Lista para usar con Mac y Windows
-- Carcasa resistente a la lluvia y al polvo (ip54) con una clasificación a prueba de aplastamiento de más de 450 kg
 - Habilitada para USB-C; compatible con USB 3.0 y Thunderbolt 3
-- Resistencia a golpes de triple capa con amortiguadores internos, carcasa de aluminio sólida y paragolpes de caucho protector para una mayor durabilidad
 - Hasta 5 TB de capacidad de almacenamiento para tus fotografías y grabaciones
+- Carcasa resistente a la lluvia y al polvo (ip54) con una clasificación a prueba de aplastamiento de más de 450 kg
+- Resistencia a golpes de triple capa con amortiguadores internos, carcasa de aluminio sólida y paragolpes de caucho protector para una mayor durabilidad
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07QNRH3NY/?tag=tolees-21)
