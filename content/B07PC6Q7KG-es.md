@@ -28,9 +28,9 @@ Ahora mismo tienes [Moussel Gel Ducha Aloe Vera - Pack de 4 x 900 ml - Total: 36
 
 🔎:
 
+- Apto para el uso diario
 - Con ingredientes hidratantes y Aloe Vera
 - Ayuda a mantener la tersura natural de tu piel
 - Dermatológicamente comprobado
-- Apto para el uso diario
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07PC6Q7KG/?tag=tolees-21)

@@ -1,32 +1,33 @@
 ---
 layout: post
-title: 'UGG 1016501  Botas de Nieve Mujer  Marró con un 28.42 % de descuento'
-date: 2020-02-01 05:02:38
-image: 'https://m.media-amazon.com/images/I/51e0TAl3mDL._AC_._SL400_.jpg'
+title: 'UGG Female Mini Bailey Bow II Classic Bo con un 39.26 % de descuento'
+date: 2021-03-09 08:50:20
+image: 'https://m.media-amazon.com/images/I/41bMEJEz1tL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01E96YC3Q-es UGG 1016501 Botas de Nieve Mujer Marrón Chestnut 39 EU'
+slug: 'B01E96YC3Q-es UGG Female Mini Bailey Bow II Classic Boot Chestnut 6 UK'
 sku: 'B01E96YC3Q-es'
 tags: [  ]
-actualPrice: 130.28 EUR
+actualPrice: 98.99 EUR
 currency: EUR
-price: 130.28
-comparePrice: 182.0 EUR
-prodname: 'UGG 1016501  Botas de Nieve Mujer  Marrón  Chestnut   39 EU'
+price: 98.99
+comparePrice: 162.96 EUR
+prodname: 'UGG Female Mini Bailey Bow II Classic Boot  Chestnut  6  UK '
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'UGG'
 buyurl: 'https://www.amazon.es/dp/B01E96YC3Q/?tag=tolees-21'
-descuento: '28.42'
-average: '130.64499999999998'
+descuento: '39.26'
+average: '114.8175'
 ---
 
-En este momento está [UGG 1016501  Botas de Nieve Mujer  Marrón  Chestnut   39 EU](https://www.amazon.es/dp/B01E96YC3Q/?tag=tolees-21) a 130.28 EUR (original: 182.0 EUR) (28.42 %  de descuento) en el siguiente enlace!
+En este momento está [UGG Female Mini Bailey Bow II Classic Boot  Chestnut  6  UK ](https://www.amazon.es/dp/B01E96YC3Q/?tag=tolees-21) a 98.99 EUR (original: 162.96 EUR) (39.26 %  de descuento) en el siguiente enlace!
 
-[![UGG 1016501  Botas de Nieve Mujer  Marró](https://m.media-amazon.com/images/I/51e0TAl3mDL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01E96YC3Q/?tag=tolees-21)
+[![UGG Female Mini Bailey Bow II Classic Bo](https://m.media-amazon.com/images/I/41bMEJEz1tL._SL400_.jpg)](https://www.amazon.es/dp/B01E96YC3Q/?tag=tolees-21)
 
 🔎:
 
+- Other Leather
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01E96YC3Q/?tag=tolees-21)
