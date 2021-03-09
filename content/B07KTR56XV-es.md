@@ -28,10 +28,10 @@ Está [Hugo BOSS Reloj de pulsera 1502459](https://www.amazon.es/dp/B07KTR56XV/?
 
 ℹ️:
 
+- Grosor de la caja de 7,5 mm
 - Esfera de madreperla blanca
 - Tres manecillas
 - 5 ATM de resistencia al agua
 - Pulsera con chapado iónico color oro rosado
-- Grosor de la caja de 7,5 mm
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07KTR56XV/?tag=tolees-21)

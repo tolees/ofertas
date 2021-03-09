@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LACTACYD Gel de Higiene Íntima Pediátric al 39.82 % de rebaja'
-date: 2021-03-01 10:29:09
+date: 2021-03-09 12:45:47
 image: 'https://m.media-amazon.com/images/I/512QiseXyCL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [LACTACYD Gel de Higiene Íntima Pediátrico para Niñas a Partir de 3 A�
 
 🔎:
 
-- Con aloe vera & extracto de melocotón
-- Con activos de acción calmante e hidratante
-- Para niñas a partir de 3 años
 - Sin jabón y sin alcohol
+- Para niñas a partir de 3 años
+- Con activos de acción calmante e hidratante
+- Con aloe vera & extracto de melocotón
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07B4BC24K/?tag=tolees-21)

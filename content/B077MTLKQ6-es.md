@@ -28,11 +28,11 @@ Está [PUMA Smash Wns V2 L  Zapatillas Mujer  Negro Black Black  40 EU](https://
 
 ℹ️:
 
-- Material de la suela: Goma
-- Composición: Leder
-- Material exterior: Cuero
-- Tipo de tacón: Plano
 - Cierre: Cordones
 - Revestimiento: Sintético
+- Tipo de tacón: Plano
+- Material de la suela: Goma
+- Material exterior: Cuero
+- Composición: Leder
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B077MTLKQ6/?tag=tolees-21)
