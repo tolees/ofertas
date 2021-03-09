@@ -28,8 +28,8 @@ Ahora mismo tienes [TRIXIE Pelota Dog Activity Laberinto Snacks  ø6 cm  Perro](
 
 🔎:
 
-- laberinto integrado para mayor tiempo de diversión
 - se puede llenar con snacks de premio
+- laberinto integrado para mayor tiempo de diversión
 - caucho natural
 - rueda silenciosamente y bota irregularmente para asegurar mayor entretenimiento
 

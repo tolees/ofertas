@@ -28,9 +28,9 @@ En este momento está [Funko - POP Animation: Dragon Ball Z - Trunks](https://ww
 
 🔎:
 
-- Funko pop. Is the 2018 toy of the year and peoples choice award winner
+- Figure stands 9.5cm and comes in a window display box
 - From dragon ball z, trunks, as a stylized pop vinyl from funko
 - Check out the other dragon ball z figures from funko and collect them all
-- Figure stands 9.5cm and comes in a window display box
+- Funko pop. Is the 2018 toy of the year and peoples choice award winner
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07W7F3YGY/?tag=tolees-21)
