@@ -28,10 +28,10 @@ En este momento está [Cargador para NS Switch/Switch Lite  innoAura Adaptador d
 
 🔎:
 
-- 【Seguro y Confiable】Fabricación profesional. El cargador de CA NS Switch/Switch Lite viene con las certificaciones UL/CE/FCC/ROHS, y proporciona protección contra cortocircuitos, protección contra sobrecorriente, protección contra sobretensiones, protección contra sobrecarga, etc. Ningún daño a su Switch incluso si lo deja cargando durante la noche, puede usarlo con confianza.
+- 【Fácil de usar】Compatible con la base de NS Switch/Switch Lite y el control pro. Pequeño y portátil, liviano y cabe en su bolso o mochila cuando vaya a cualquier parte. Cable de alimentación de 6 pies, un excelente cargador de repuesto o un adaptador de CA de NS Switch/Switch Lite de respaldo para viajar.
 - 【Soporte y Garantía】¡Satisfacción 100% garantizada! Garantía de 12 meses y servicio en línea las 24 horas. No dude en contactarnos para cualquier consulta. Estaremos encantados de ayudarle. 
 - 【Carga Rápida】Adaptador de CA de carga rápida para NS Switch/Switch Lite dock pro, carga completamente en 3 horas. El adaptador de corriente del Switch viene con un cable tipo c, le permite cargar el Switch rápidamente y mantenerlo alimentado mientras juega en modo acoplado y en modo portátil.
-- 【Fácil de usar】Compatible con la base de NS Switch/Switch Lite y el control pro. Pequeño y portátil, liviano y cabe en su bolso o mochila cuando vaya a cualquier parte. Cable de alimentación de 6 pies, un excelente cargador de repuesto o un adaptador de CA de NS Switch/Switch Lite de respaldo para viajar.
+- 【Seguro y Confiable】Fabricación profesional. El cargador de CA NS Switch/Switch Lite viene con las certificaciones UL/CE/FCC/ROHS, y proporciona protección contra cortocircuitos, protección contra sobrecorriente, protección contra sobretensiones, protección contra sobrecarga, etc. Ningún daño a su Switch incluso si lo deja cargando durante la noche, puede usarlo con confianza.
 - 【Permite Modo de TV】Esta fuente de alimentación admite la base de TV y el modo de TV, le permite conectar el interruptor/Switch Lite para reproducir en la TV. Permitiendo disfrutar de una experiencia completa de consola cuando y donde quiera que vaya. Es conveniente mantener el cargador con los accesorios del Switch para usar mientras viaja y cuando no tiene disponible su base.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07X6M6V3W/?tag=tolees-21)

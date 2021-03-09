@@ -28,10 +28,10 @@ Está [Rpanle Gorro de Invierno Bluetooth 5.0  Regalos originales  con LED Faro 
 
 ℹ️:
 
-- Largas horas de trabajo: con la batería de litio integrada de 200 mAh, la tapa debe cargarse solo 2 horas, puede usarse hasta 8 horas mientras escucha música.
-- 3 Ajustes de brillo: 5 luces LED integradas e iluminan hasta 30 pies de distancia. 3 modos para el ajuste del brillo del LED (brillo medio / alto brillo / parpadeo), puede ajustar el brillo presionando el botón.
 - Elegante gorro de invierno: El gorro de deportes de invierno está hecho de un material acrílico suave y cómodo, elegante y súper transpirable. Desmontable y lavable. El gorro Bluetooth te permite disfrutar de la música mientras mantienes la cabeza caliente en los días fríos. Es lo mejor para cualquier lugar donde desee trabajar con iluminación.
 - Auriculares inalámbricos: Construido con puerto de carga USB de fácil acceso, simplemente cárguelo a través del cable USB incluido. Perfecto para acampar, hacer senderismo, esquiar, cazar, trotar, andar en bicicleta, pasear perros, reparar automóviles, etc.
 - V5.0 Bluetooth: Fabricados con la última tecnología Bluetooth V5.0+EDR,el sombrero bluetooth es muy fácil de emparejar, abra el bluetooth en su teléfono y empareje con el gorro "BT-01". Es compatible con iPhone, teléfono inteligente Andriod u otros dispositivos de música con Bluetooth. La distancia de transmisión del bluetooth es de aproximadamente 10M (30 pies).
+- Largas horas de trabajo: con la batería de litio integrada de 200 mAh, la tapa debe cargarse solo 2 horas, puede usarse hasta 8 horas mientras escucha música.
+- 3 Ajustes de brillo: 5 luces LED integradas e iluminan hasta 30 pies de distancia. 3 modos para el ajuste del brillo del LED (brillo medio / alto brillo / parpadeo), puede ajustar el brillo presionando el botón.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08P5M1MB6/?tag=tolees-21)

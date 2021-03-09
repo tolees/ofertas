@@ -28,10 +28,10 @@ Está [Bulleit Bourbon Frontier Whisky  700ml](https://www.amazon.es/dp/B00GY3I2
 
 ℹ️:
 
-- Ambar medio a la vista, sutil sabor especiado y aromas dulces de roble, paladar medio, suave, con tonos de arce, roble y nuez moscada, acabado largo, seco y satinado, con ligero sabor a toffee
-- Inspirándose en su bisabuelo, Thomas E. Bulleit realizó el sueño de su vida al revivir la vieja receta de bourbon de la familia y al fundar así la Bulleit Distilling Company en 1987
-- El whisky Bulleit Bourbon es un regalo generoso, lleno de genialidad, con un sabor complejo y un acabado cálido, hecho sólo con ingredientes de la más alta calidad
 - Contenido del envío: 1x Bulleit Bourbon Frontier Whisky, 1x caja original de presentación, 45% Vol., 700 ml
 - La sutileza y complejidad de Bulleit Bourbon proviene de su mezcla única de centeno, maíz y malta de cebada, así como de las cepas de levadura y del agua de Kentucky filtrada con agua caliza
+- El whisky Bulleit Bourbon es un regalo generoso, lleno de genialidad, con un sabor complejo y un acabado cálido, hecho sólo con ingredientes de la más alta calidad
+- Inspirándose en su bisabuelo, Thomas E. Bulleit realizó el sueño de su vida al revivir la vieja receta de bourbon de la familia y al fundar así la Bulleit Distilling Company en 1987
+- Ambar medio a la vista, sutil sabor especiado y aromas dulces de roble, paladar medio, suave, con tonos de arce, roble y nuez moscada, acabado largo, seco y satinado, con ligero sabor a toffee
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00GY3I2B6/?tag=tolees-21)

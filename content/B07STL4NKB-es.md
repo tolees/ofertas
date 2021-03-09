@@ -28,10 +28,10 @@ Tienes [Geox JR CIAK Girl I  Zapatillas Niñas  Blanco  White/Pink C0406   35 EU
 
 🔎:
 
-- Revestimiento: Tela
 - Tipo de talla: Los zapatos Geox son holgados
-- Cierre: Cordones rápidos
-- Material exterior: Lona
 - Material de la suela: Goma
+- Material exterior: Lona
+- Cierre: Cordones rápidos
+- Revestimiento: Tela
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07STL4NKB/?tag=tolees-21)
