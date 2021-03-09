@@ -28,10 +28,10 @@ En este momento está [HOTUCG USB C Hub USB C Adaptador 6 EN 1 con Puerto de Car
 
 🔎:
 
+- [Especialmente para MacBook]: USB C Concentrador con puertos duales tipo C, se adapta perfectamente a MacBook Pro 2020/2019/2018/2017/2016 13 y 15 y 16 pulgadas, Macbook Air 2020/2019/2018; El USB Cadaptador con conector Thunderbolt 3 le permite utilizar la carga y la transferencia de datos para MacBook al mismo tiempo.
+- [Salida de Video HDMI 4K]: El adaptador Macbook Pro/Air con salida de video HDMI 4K le permite duplicar o expandir la pantalla de su MacBook a dos televisores, monitores o proyectores con una resolución de hasta 4K UHD (3840x2160@30Hz) al mismo tiempo.
+- [Diseño Práctico]: El cuerpo compacto y liviano de aleación de zinc mini asegura una portabilidad superior y una mejor disipación de calor, asegura una larga vida útil, práctica y adecuada para el uso diario, ideal para oficina, conferencias, entretenimiento de cine en casa.
 - [Lector de Tarjetas USB 3.0 y SD/Micro SD]: USB 3.0 admite transferencia de datos SuperSpeed ​​de hasta 5 Gb/s, ofrece acceso rápido a cualquier archivo desde su dispositivo USB, teléfono inteligente, tarjeta SD, tarjeta micro SD, teclado, mouse, se puede cargar por teléfonos celulares, ventiladores pequeños, lámparas y otros dispositivos pequeños; La tarjeta SD y Micro SD admite la transferencia de datos hasta 104 Mb/s; (Notas: dos lectores de tarjetas no se pueden leer al mismo tiempo).
 - [6 IN 1 Macbook Hub]: USB C Hub Macbook expande tus dispositivos con puerto de carga USB-C (Thunderbolt 3), 1 * SD, 1 * lector de tarjetas Micro SD, 3 * USB 3.0, tu dispositivo se puede conectar a múltiples dispositivos, Satisface tus necesidades diarias. Admite intercambio/conexión en caliente, no se necesitan controladores, ¡solo conéctese y listo!
-- [Especialmente para MacBook]: USB C Concentrador con puertos duales tipo C, se adapta perfectamente a MacBook Pro 2020/2019/2018/2017/2016 13 y 15 y 16 pulgadas, Macbook Air 2020/2019/2018; El USB Cadaptador con conector Thunderbolt 3 le permite utilizar la carga y la transferencia de datos para MacBook al mismo tiempo.
-- [Diseño Práctico]: El cuerpo compacto y liviano de aleación de zinc mini asegura una portabilidad superior y una mejor disipación de calor, asegura una larga vida útil, práctica y adecuada para el uso diario, ideal para oficina, conferencias, entretenimiento de cine en casa.
-- [Salida de Video HDMI 4K]: El adaptador Macbook Pro/Air con salida de video HDMI 4K le permite duplicar o expandir la pantalla de su MacBook a dos televisores, monitores o proyectores con una resolución de hasta 4K UHD (3840x2160@30Hz) al mismo tiempo.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07Y9K28SR/?tag=tolees-21)
