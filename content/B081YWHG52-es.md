@@ -28,10 +28,10 @@ Ahora mismo tienes [Cecotec Patinete eléctrico Bongo Serie A. Potencia máxima 
 
 🔎:
 
-- Patinete eléctrico con una potencia máxima de 700 W, capaz de subir cuestas. Alcanza una velocidad máxima de hasta 25 km/h.
-- 3 Modos de conducción: Modo Eco manejo con ahorro de batería, modo Confort mejor rendimiento con el consumo óptimo y modo Sport máxima potencia y velocidad.
-- Ruedas tubeless de 8,5”con sistema antirreventones. Ordenador de abordo que muestra la velocidad y la batería. Además marca el estado y configuración del patinete.
 - Batería intercambiable. Autonomía de aprox. hasta 25 km. Triple sistema de frenado de seguridad con freno de disco, eléctrico y freno manual trasero añadido.
 - Sistema Mazinger de puños y estructura plegables para reducir espacio, mejora su transporte y almacenamiento.Velocidad crucero opcional. Tiempo de carga entre 4 o 5 horas.
+- 3 Modos de conducción: Modo Eco manejo con ahorro de batería, modo Confort mejor rendimiento con el consumo óptimo y modo Sport máxima potencia y velocidad.
+- Patinete eléctrico con una potencia máxima de 700 W, capaz de subir cuestas. Alcanza una velocidad máxima de hasta 25 km/h.
+- Ruedas tubeless de 8,5”con sistema antirreventones. Ordenador de abordo que muestra la velocidad y la batería. Además marca el estado y configuración del patinete.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B081YWHG52/?tag=tolees-21)

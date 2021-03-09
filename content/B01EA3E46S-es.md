@@ -28,10 +28,10 @@ Está [BaByliss AS121E - Cepillo de aire moldeador de pelo con 4 cabezales  1200
 
 ℹ️:
 
-- Moldeador de pelo con 4 cabezales
-- Cepillo alisador, para lograr un alisado óptimo desde la raíz
 - Cepillo de 25 mm, para crear rizos y ondas
-- Cepillo térmico de cerámica de 38 mm para facilitar el secado y proteger el cabello
+- Cepillo alisador, para lograr un alisado óptimo desde la raíz
 - Cepillo de cerdas de jabalí de 20 mm para moldear las puntas hacia dentro o hacia fuera
+- Moldeador de pelo con 4 cabezales
+- Cepillo térmico de cerámica de 38 mm para facilitar el secado y proteger el cabello
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01EA3E46S/?tag=tolees-21)

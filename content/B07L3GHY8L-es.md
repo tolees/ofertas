@@ -28,11 +28,11 @@ En este momento está [AUDIO TECHNICA ATH-MSR7B Auriculares Marrón y Gris  Diad
 
 🔎:
 
-- Diámetro del motor 45 mm
-- Acesorios incluidos: estuche de transporte
-- Respuesta de frecuencia 5-50.000 hz
-- Cable cable cable desmontable de 1,2 m (3,5) (mini-enchufe estéreo de 3 polos de 3,5 mm a a2dc); cable desmontable de 1,2 m (mini-enchufe balanceado de 5 polos de 4,4 mm a a2dc)
-- Auriculares de diadema inalámbricos
 - Sensibilidad 101 db/mw; impedancia 36 ohmios
+- Cable cable cable desmontable de 1,2 m (3,5) (mini-enchufe estéreo de 3 polos de 3,5 mm a a2dc); cable desmontable de 1,2 m (mini-enchufe balanceado de 5 polos de 4,4 mm a a2dc)
+- Acesorios incluidos: estuche de transporte
+- Diámetro del motor 45 mm
+- Respuesta de frecuencia 5-50.000 hz
+- Auriculares de diadema inalámbricos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07L3GHY8L/?tag=tolees-21)

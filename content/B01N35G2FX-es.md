@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Disney Traditions  Figura de libro de "P al 47.58 % de descuento'
-date: 2021-03-08 13:09:51
+date: 2021-03-09 15:26:03
 image: 'https://m.media-amazon.com/images/I/511ksee3QfL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -30,8 +30,8 @@ Ahora mismo tienes [Disney Traditions  Figura de libro de "Pesadilla Antes de Na
 
 - Está destinada para adultos, no es un juguete
 - Diseñada por Jim Shore
-- Detalles precisos hechos a mano en resina
 - Arte popular inspirado con colores vivos
+- Detalles precisos hechos a mano en resina
 - Figurina decorativa de la colección Disney Traditions
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01N35G2FX/?tag=tolees-21)

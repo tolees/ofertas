@@ -29,8 +29,8 @@ Está [Reloj de Pulsera Emporio Armani - Hombre](https://www.amazon.es/dp/B07VFR
 ℹ️:
 
 - Resistente al agua: 5 ATM
-- Tipo de vidrio: cristal mineral con esfera negra y caja de acero inoxidable de tono plateado
 - Material de la Correa: correa de acero inoxidable tono plata, Doble cierre invisible, circunferencia interior de la correa: 200 +/- 5 mm
+- Tipo de vidrio: cristal mineral con esfera negra y caja de acero inoxidable de tono plateado
 - Grosor de la caja: 12 mm, Tamaño de la caja: 40 mm, Ancho de Correa: 22 mm
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07VFR916Y/?tag=tolees-21)
