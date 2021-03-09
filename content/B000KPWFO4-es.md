@@ -28,10 +28,10 @@ Tienes [Graef Vivo V 10 - Cortafiambres  230V  50 Hz  Metal  Metálico ](https:/
 
 🔎:
 
-- Diámetro de la cuchilla 170 mm
 - Cuchilla de acero inoxidable
-- Motor con ahorro energético
 - Cuchilla dentada
+- Diámetro de la cuchilla 170 mm
+- Motor con ahorro energético
 - Diseño todo en metal
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B000KPWFO4/?tag=tolees-21)

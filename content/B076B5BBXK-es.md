@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 48.64 % en CASIO SL-310UC-BU - Calculadora  0.8 x 7'
-date: 2021-03-08 16:05:26
+date: 2021-03-09 17:51:51
 image: 'https://m.media-amazon.com/images/I/51Pr-XKbDjL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Casio'
 buyurl: 'https://www.amazon.es/dp/B076B5BBXK/?tag=tolees-21'
 descuento: '48.64'
-average: '4.77333333333333'
+average: '4.6'
 ---
 
 Tienes [CASIO SL-310UC-BU - Calculadora  0.8 x 7 x 11.8 cm  color azul](https://www.amazon.es/dp/B076B5BBXK/?tag=tolees-21) con un 48.64 % de descuento con precio de oferta de 4.34 EUR (original: 8.45 EUR) en el siguiente enlace!
@@ -28,9 +28,9 @@ Tienes [CASIO SL-310UC-BU - Calculadora  0.8 x 7 x 11.8 cm  color azul](https://
 
 ℹ️:
 
-- 8 teclas memoria y Tecla de símbolo + / -
-- Raíz Cuadrada y Cálculo de unidades de tiempo
 - Subdivisión en miles y Tecla de corrección rápida
+- Raíz Cuadrada y Cálculo de unidades de tiempo
+- 8 teclas memoria y Tecla de símbolo + / -
 - Pantalla LC extra grande de 10 dígitos
 - Calculación de impuestos y de porcentajes
 

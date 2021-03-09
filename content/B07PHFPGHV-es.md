@@ -28,10 +28,10 @@ Ahora mismo tienes [Baby Monitor  Nooie Telecamera di Sorveglianza WiFi FHD 1080
 
 🔎:
 
-- Detección de sonido con audio de dos vías: Cuando se detecta el sonido de la cámara, se enviará una notificación a tus dispositivos para avisarte. Utiliza tus dispositivos para escuchar y hablar con tu familia en cualquier momento y lugar que quieras con micrófono y altavoz incorporados.
 - Instalación fácil: compatible con la instalación WiFi de 2,4 GHz. Fácil conexión con el manual de usuario en Nooie CAM APP. Compatible con Android 4.4+, iOS 8.0+. Comparte con un clic de todos tus vídeos. No más el momento que falta.
-- Super IR Night Vision con alta definición y ángulo más amplio: Monitor en 355 ° en horizontal y 94 ° en vertical con sensor y objetivo de alta calidad para capturar una clara visión HD 1080P. El LED infrarrojo de 940 nm hace que la visión nocturna sea de hasta 10 metros en tono negro. Enciende o apaga la luz de estado en la aplicación para no afectar al sueño.
 - Seguridad de la memoria de datos: grabación continua sin espacios vacíos. Compatible con tarjetas Micro SD o almacenamiento en la nube de 7 días (suministrado por Amazon Web Services). $5 / mes para el servicio en la nube. Para más información, consulta nuestra sección de preguntas frecuentes en www.nooie.com. (support@nooie.com resuelve los problemas en un plazo de 48 horas).
+- Super IR Night Vision con alta definición y ángulo más amplio: Monitor en 355 ° en horizontal y 94 ° en vertical con sensor y objetivo de alta calidad para capturar una clara visión HD 1080P. El LED infrarrojo de 940 nm hace que la visión nocturna sea de hasta 10 metros en tono negro. Enciende o apaga la luz de estado en la aplicación para no afectar al sueño.
 - Detección y modo de seguimiento: Nooie 360 Cam ofrece la detección automática del movimiento que sigue cualquier movimiento, protege tu casa en todas las direcciones. O utiliza la aplicación para realizar la vista panorámica y la inclinación manual. Recibirás una notificación cuando se haya capturado el movimiento.
+- Detección de sonido con audio de dos vías: Cuando se detecta el sonido de la cámara, se enviará una notificación a tus dispositivos para avisarte. Utiliza tus dispositivos para escuchar y hablar con tu familia en cualquier momento y lugar que quieras con micrófono y altavoz incorporados.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07PHFPGHV/?tag=tolees-21)
