@@ -28,14 +28,14 @@ Está [Bosch Professional 2608608226 Esponja Abrasiva Fino  Amarillo  Marron  68
 
 ℹ️:
 
-- Adecuado para preparar madera, plástico o metal antes de pintar y para el lijado intermedio de barnices y pinturas también para lijar rebajes y curvas ligeras, así como para realizar un lijado fino de tapaporos
 - Lavable y reutilizable repetidamente
 - Para preparar la superficie tras remover los restos de material, antes de dar el acabado final
-- Taco de lija de grano fino para lijar superficies diversas, planas o en bordes, a mano
-- Taco cubierto por cuatro caras con grano abrasivo resistente a la rotura
-- Sin disolventes, lo que evita ensuciar la superficie
-- Dimensiones: 68 x 97 x 27 mm
-- La estructura abierta impide el embotamiento
 - Color amarillo en la espuma para identificar más fácilmente la aplicación preparar
+- Dimensiones: 68 x 97 x 27 mm
+- Sin disolventes, lo que evita ensuciar la superficie
+- Adecuado para preparar madera, plástico o metal antes de pintar y para el lijado intermedio de barnices y pinturas también para lijar rebajes y curvas ligeras, así como para realizar un lijado fino de tapaporos
+- Taco de lija de grano fino para lijar superficies diversas, planas o en bordes, a mano
+- La estructura abierta impide el embotamiento
+- Taco cubierto por cuatro caras con grano abrasivo resistente a la rotura
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0053PVDC6/?tag=tolees-21)

@@ -28,9 +28,9 @@ Está [Columbia Flashback  Chaqueta cortavientos  Hombre  Gris/Negro  City Grey/
 
 ℹ️:
 
+- Chaqueta cortavientos con capucha y tejido que absorbe el agua, adecuado para llevar de día y de noche, adecuado para el excursionismo, las actividades al aire libre y el uso cotidiano, ajuste activo
 - Chaqueta para usar todo el año: Tejido impermeable, Capucha ajustable y puños elásticos
 - 1x Columbia Flashback Chaqueta cortavientos para hombre, Fibra sintética, Gris/Negro (City Grey/Shark), L, Art. 1589325
-- Chaqueta cortavientos con capucha y tejido que absorbe el agua, adecuado para llevar de día y de noche, adecuado para el excursionismo, las actividades al aire libre y el uso cotidiano, ajuste activo
 - Práctica, Cremallera completa, 2 bolsillos laterales para mantener las manos calientes y seguras
 - Dobladillo con cordón para una comodidad adecuada, Poliéster ligero y duradero
 
