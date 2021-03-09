@@ -28,10 +28,10 @@ Tienes [Kalypso Media - Tropico 6 - PlayStation 4 [Importación inglesa]](https:
 
 🔎:
 
-- The Digital Soundtrack
 - Play on large archipelagos for the first time in the series. Manage multiple islands at the same time and adapt to various new challenges.
 - Send your agents on raids to foreign lands to steal world wonders and monuments, to add them to your collection.
-- A Digital Calendar
+- The Digital Soundtrack
 - 4 Post Cards
+- A Digital Calendar
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07C49NDRP/?tag=tolees-21)
