@@ -28,10 +28,10 @@ Está [oodji Ultra Mujer Blusa de Manga Corta con Acabado en Contraste  Beige  E
 
 ℹ️:
 
-- Longitud de espalda (talla M): 53,8cm
 - Estilo de ropa: Casual
+- Ideal para crear un look lleno de estilo
+- Longitud de espalda (talla M): 53,8cm
 - Las prendas de colección oodji Ultra tienen la talla más pequeña de lo normal, te recomendamos que elijas una talla superior a tu talla habitual o que consultes la tabla de tallas de oodji. Modelo: Talla S. Medidas: 85/65/90. Altura/peso: 175cm/52kg
 - Elegante blusa inusual de manga corta
-- Ideal para crear un look lleno de estilo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07F691PYS/?tag=tolees-21)

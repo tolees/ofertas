@@ -28,8 +28,8 @@ En este momento está [Helly Hansen Tokyo Hoodie  Hombre  White  S](https://www.
 
 🔎:
 
-- De alta calidad.
 - De la marca Helly Hansen.
+- De alta calidad.
 - Tejido principal de algodón | Bolsillos delanteros | Capucha con cordón
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07KWQ9TV8/?tag=tolees-21)

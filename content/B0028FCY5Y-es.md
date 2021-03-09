@@ -28,9 +28,9 @@ Tienes [TRIXIE Disc Dog Activity  Plástico extra Resistente  ø23 cm  Perro](ht
 
 ℹ️:
 
-- características óptimas de vuelo
-- aprobado para los torneos de AWI y UFO
 - entrena la resistencia, reflejos y la velocidad del perro
+- aprobado para los torneos de AWI y UFO
+- características óptimas de vuelo
 - antimordeduras y no se astilla
 - hecho de plástico flexible, suave y robusto
 

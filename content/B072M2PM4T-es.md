@@ -28,10 +28,10 @@ Tienes [Fluchos | Mocasín de Hombre | Luca 8499 Ave Negro | Mocasín de Piel | 
 
 🔎:
 
-- CUIDADO DEL PRODUCTO: Lavado con paño húmedo. Es aconsejable utilizar cremas incoloras que no modifiquen el color natural de la piel. No utilizar productos agresivos con la piel, ni betún de color, pueden ser muy perjudiciales.
 - MATERIALES: Piel y Piso de goma
 - TACÓN:
-- CIERRE: Elásticos
 - COLOR: Negro
+- CIERRE: Elásticos
+- CUIDADO DEL PRODUCTO: Lavado con paño húmedo. Es aconsejable utilizar cremas incoloras que no modifiquen el color natural de la piel. No utilizar productos agresivos con la piel, ni betún de color, pueden ser muy perjudiciales.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B072M2PM4T/?tag=tolees-21)
