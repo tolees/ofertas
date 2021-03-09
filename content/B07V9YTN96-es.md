@@ -28,7 +28,7 @@ Está [Hackett London Skinny Bgl Str Camisa  Azul  5arblue/White 5ar   42  Talla
 
 ℹ️:
 
-- ERROR:#REF!
 - 100% Cotton
+- ERROR:#REF!
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07V9YTN96/?tag=tolees-21)

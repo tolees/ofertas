@@ -28,10 +28,10 @@ Tienes [NIKE M NK Dry Chalng III JSY SS Camiseta de Manga Corta  Hombre  Black/B
 
 ℹ️:
 
-- Lavar a máquina
-- Regular fit
-- Maximum Comfort
-- Tipo de fábrica: 100% Polyester
 - Nike Dry Fabric
+- Lavar a máquina
+- Tipo de fábrica: 100% Polyester
+- Maximum Comfort
+- Regular fit
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07WC755WD/?tag=tolees-21)

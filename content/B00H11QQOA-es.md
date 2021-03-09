@@ -28,10 +28,10 @@ Está [Colortime - Juego de 120 tarjetas de cartulina  varios colores](https://w
 
 ℹ️:
 
-- Contenido: 120 hojas surtidas
 - Calidad reconocida de Colortime
 - Medidas del paquete (LxAxAlt): 15 x 11 x 3 cm
 - Pack con 13 colores surtidos
 - Gran selección de cartulina premium de colores
+- Contenido: 120 hojas surtidas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00H11QQOA/?tag=tolees-21)

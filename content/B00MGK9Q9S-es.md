@@ -28,10 +28,10 @@ Tienes [Rimmel London Brown This way Kit esculpidor de cejas  Tono 003 Dark Brow
 
 🔎:
 
-- Kit completo para cejas; contiene 2 cepillos profesionales
-- Duo compacto con cera para dar forma y fijar, y sombra para dar color y rellenar
+- Incluye un cepillo en ángulo con doble punta y cepillo para modelar
 - Rimmel Brow this Way es una fórmula de larga duración y cómoda de llevar
 - Define, completa y arregla tus cejas
-- Incluye un cepillo en ángulo con doble punta y cepillo para modelar
+- Duo compacto con cera para dar forma y fijar, y sombra para dar color y rellenar
+- Kit completo para cejas; contiene 2 cepillos profesionales
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00MGK9Q9S/?tag=tolees-21)

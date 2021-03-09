@@ -28,10 +28,10 @@ Tienes [Wera 05347106001 Juego de destornilladores  11 piezas](https://www.amazo
 
 ℹ️:
 
-- Para cada aplicación la herramienta correcta - el juego de destornilladores todo-uso
 - Con punta tipo Lasertip para un alojamiento más seguro en la cabeza del tornillo
+- Con indicación de la medida en el mango para encontrar y ordenar la herramienta más fácilmente
 - Mango Kraftform multicomponente para altas velocidades y un trabajo de apriete ergonómico
 - Con sistema anti-rodamiento hexagonal para evitar que la herramienta ruede
-- Con indicación de la medida en el mango para encontrar y ordenar la herramienta más fácilmente
+- Para cada aplicación la herramienta correcta - el juego de destornilladores todo-uso
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01FLB1KG0/?tag=tolees-21)
