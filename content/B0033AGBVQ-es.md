@@ -29,9 +29,9 @@ En este momento está [OMRON Healthcare - OMRON BF 511 - Báscula de análisis c
 🔎:
 
 - Memoria de usuario 1 a 4 personas, además de un invitado
-- Máximo rango de peso de 150 kg
 - Clasificación de grasa corporal / Índice de Masa Corporal (IMC)
 - Las medidas se realizan con 8 sensores en ambas manos y pies, lo que permite una medida del cuerpo entero
+- Máximo rango de peso de 150 kg
 - Utilizando el método de impedancia bioeléctrica (IB), muestra el porcentaje de grasa corporal respecto al peso corporal
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0033AGBVQ/?tag=tolees-21)

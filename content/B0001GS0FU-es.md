@@ -29,8 +29,8 @@ Tienes [Black+Decker WM301 Workmate - Banco de Trabajo  Bambú y Acero  Carga M�
 ℹ️:
 
 - Permite la sujeción de piezas de trabajo para cortar, pintar
-- Dispone de patas de goma antideslizantes
 - Se pliega para ocupar menos espacio y facilitar el transporte
 - El sistema de doble manivela mejora la fuerza de agarre y la versatilidad
+- Dispone de patas de goma antideslizantes
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0001GS0FU/?tag=tolees-21)
