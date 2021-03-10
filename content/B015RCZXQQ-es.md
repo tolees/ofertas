@@ -29,9 +29,9 @@ Tienes [Lotus 18141/1 - Reloj para Mujer  Cuarzo  analógico  Correa de Acero In
 ℹ️:
 
 - Carcasa
-- - Forma de la Carcasa: Redondo
-- - Material de la Carcasa: Acero Inoxidable (bruñido)
-- - Color de la caja: Oro Rojo
 - - Cristal: Cristal Mineral
+- - Material de la Carcasa: Acero Inoxidable (bruñido)
+- - Forma de la Carcasa: Redondo
+- - Color de la caja: Oro Rojo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B015RCZXQQ/?tag=tolees-21)
