@@ -28,10 +28,10 @@ En este momento está [moses. - Moses Libri-x - Funda para libro con marcapágin
 
 🔎:
 
-- El sobre de libro es un sustituto ideal para cada tapa de libro.
-- El sobre es adecuado para libros comunes de hasta 19,5 cm de altura. Tamaño desplegado: 35 cm x 20,5 cm.
-- Con acabado dorado brillante y 100% algodón el sobre es una protección extra bonita para la puerta favorita.
-- El precioso sobre libri-x con marcapáginas es la protección perfecta para la lectura favorita de viaje.
 - Ya sea tapa dura o libro de bolsillo, la funda protectora se adapta perfectamente a los tamaños de libro habituales.
+- El sobre es adecuado para libros comunes de hasta 19,5 cm de altura. Tamaño desplegado: 35 cm x 20,5 cm.
+- El sobre de libro es un sustituto ideal para cada tapa de libro.
+- El precioso sobre libri-x con marcapáginas es la protección perfecta para la lectura favorita de viaje.
+- Con acabado dorado brillante y 100% algodón el sobre es una protección extra bonita para la puerta favorita.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08DV3MKQF/?tag=tolees-21)
