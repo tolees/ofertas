@@ -28,11 +28,11 @@ Está [BRA A185104  Olla a presión Vitesse  Acero Inoxidable  Plata  24 cm  9L]
 
 ℹ️:
 
-- Incluye selector de dos presiones y dispositivo de despresurización
-- Capacidad: 9 litros
 - También llamada olla rápida y olla express
+- Incluye selector de dos presiones y dispositivo de despresurización
+- Apta para todo tipo de cocinas, incluido inducción
 - Triple fondo difusor
 - Fácil manejo
-- Apta para todo tipo de cocinas, incluido inducción
+- Capacidad: 9 litros
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B006FXELFQ/?tag=tolees-21)
