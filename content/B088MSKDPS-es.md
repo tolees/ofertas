@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Alvarez Gomez - Alvarez Gómez Spray higi con un 32.89 % de descuento'
-date: 2021-03-07 16:30:49
+date: 2021-03-10 20:50:15
 image: 'https://m.media-amazon.com/images/I/417FSHnNjhL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ En este momento está [Alvarez Gomez - Alvarez Gómez Spray higienizante 30ml](h
 
 🔎:
 
-- Peróxido de hidrógeno: en una pequeña proporción para desactivar las esporas bacterianas contaminantes de la disolución
-- Olor: Alcohólico y neutro
-- Perfecto para llevar en el bolso o coche, 80º Alcohol
-- Contiene Glicerina: para hidratar y minimizar la sequedad en la piel
 - Gel higienizante para el uso y cuidado personal
+- Contiene Glicerina: para hidratar y minimizar la sequedad en la piel
+- Perfecto para llevar en el bolso o coche, 80º Alcohol
+- Olor: Alcohólico y neutro
+- Peróxido de hidrógeno: en una pequeña proporción para desactivar las esporas bacterianas contaminantes de la disolución
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B088MSKDPS/?tag=tolees-21)
