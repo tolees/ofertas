@@ -28,8 +28,8 @@ Está [MTNG CAPRI Complementos de Mujer Marrón](https://www.amazon.es/dp/B086M2
 
 ℹ️:
 
-- Material del interior Textil
 - Tipo de cierre Solapa
+- Material del interior Textil
 - Material principal Sintetico
 - Altura Tacón Sin Tacón
 
