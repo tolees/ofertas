@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'TP-Link TL-WN881ND - WIFI Adaptador PCI  al 37.89 % de descuento'
-date: 2021-02-11 19:54:36
-image: 'https://m.media-amazon.com/images/I/415vrQMpdJL._SL200_.jpg'
+date: 2021-03-10 18:49:28
+image: 'https://m.media-amazon.com/images/I/415vrQMpdJL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -19,18 +19,18 @@ flag: '🇪🇸'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.es/dp/B006BSPTAQ/?tag=tolees-21'
 descuento: '37.89'
-average: '12.9747826086958'
+average: '12.9755760368667'
 ---
 
 Está [TP-Link TL-WN881ND - WIFI Adaptador PCI Express  Tarjeta de Red  300 Mbps  2.4 GHz  802.11n/g/b  2 antenas desmontables   para Raspberry Pi  PC de Sobremesa](https://www.amazon.es/dp/B006BSPTAQ/?tag=tolees-21) con 37.89 de descuento por 12.98 EUR (original: 20.9 EUR) en el siguiente enlace!
 
-[![TP-Link TL-WN881ND - WIFI Adaptador PCI ](https://m.media-amazon.com/images/I/415vrQMpdJL._SL200_.jpg)](https://www.amazon.es/dp/B006BSPTAQ/?tag=tolees-21)
+[![TP-Link TL-WN881ND - WIFI Adaptador PCI ](https://m.media-amazon.com/images/I/415vrQMpdJL._SL400_.jpg)](https://www.amazon.es/dp/B006BSPTAQ/?tag=tolees-21)
 
 ℹ️:
 
-- Velocidad inalámbrica N de hasta 300 Mbps, adecuada para la transmisión de vídeo, juegos online y llamadas a través de Internet
 - Apoyo a raspberry pi
 - Configure fácilmente una conexión de alta seguridad gracias a la función WPS (Wi-Fi Protected Setup)
+- Velocidad inalámbrica N de hasta 300 Mbps, adecuada para la transmisión de vídeo, juegos online y llamadas a través de Internet
 - La tecnología MIMO proporciona un mayor nivel de penetración, una cobertura inalámbrica más amplia, mejor rendimiento y más estabilidad
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B006BSPTAQ/?tag=tolees-21)
