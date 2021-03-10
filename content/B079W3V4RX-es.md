@@ -29,11 +29,11 @@ Tienes [Philips Plancha a vapor EasySpeed Plus  30 g/min  110 g  cerámica](http
 🔎:
 
 - Capacidad del depósito: 270 ml
-- Golpe de vapor: 110 g
 - Placa de cerámica, resistente a los arañazos y fácil de limpiar
 - Punta de triple precisión para planchar incluso los puntos más difíciles
-- Vapor continuo: 30 g/min
+- Golpe de vapor: 110 g
 - Función antigoteo
 - Sistema antical integrado Calc Clean
+- Vapor continuo: 30 g/min
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B079W3V4RX/?tag=tolees-21)

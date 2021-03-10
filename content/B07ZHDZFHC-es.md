@@ -28,10 +28,10 @@ Ahora mismo tienes [IKOHS Panificadora DEPAN 710-IK - Panificadora Automática  
 
 🔎:
 
-- Tendrás a tu disposición 17 programas completamente automáticos para preparar hogazas de pan, sabrosos bollos, bizcochos, y también mermelada y crema de avena, todo recién hecho.
+- Tiene 17 programas automáticos y selección de hasta 3 tamaños de pan: 500g, 700g y 900g. Además, gracias a sus sistema de control de horneado de la corteza, podrás elegir hasta 3 niveles de horneado, para que quede siempre como más te guste.
+- Gracias a su ventana de cristal termorresistente, podrás observar siempre que quieras la evolución del horneado de tu pan, interrumpiendo la cocción con solo apretar un botón, o dejándolo seguir hasta que esté a tu gusto.
 - Fabricada con materiales resistentes y duraderos, una opción inteligente para la alimentación diaria de toda la familia. Su estructura de Acero Inoxidable cepillado le aporta una gran resistencia y fiabilidad.
 - La Panificadora de IKOHS es un pequeño electrodoméstico de cocina muy grande en prestaciones. Ahora podrás disfrutar del sabor del pan recién hecho, incluye un dispensador automático para distribuir cereales y frutos secos sobre tu pan. "
-- Gracias a su ventana de cristal termorresistente, podrás observar siempre que quieras la evolución del horneado de tu pan, interrumpiendo la cocción con solo apretar un botón, o dejándolo seguir hasta que esté a tu gusto.
-- Tiene 17 programas automáticos y selección de hasta 3 tamaños de pan: 500g, 700g y 900g. Además, gracias a sus sistema de control de horneado de la corteza, podrás elegir hasta 3 niveles de horneado, para que quede siempre como más te guste.
+- Tendrás a tu disposición 17 programas completamente automáticos para preparar hogazas de pan, sabrosos bollos, bizcochos, y también mermelada y crema de avena, todo recién hecho.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07ZHDZFHC/?tag=tolees-21)
