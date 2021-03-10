@@ -29,7 +29,7 @@ Tienes [Tommy Hilfiger Classic BB Cap Gorra  Azul  Midnight 403   talla unica pa
 🔎:
 
 - Logo de Tommy Hilfiger bordado en la parte delantera
-- Detalle de botón y ojales en la parte superior
 - Logo de Tommy Hilfiger en la parte trasera
+- Detalle de botón y ojales en la parte superior
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B016QM6O9G/?tag=tolees-21)
