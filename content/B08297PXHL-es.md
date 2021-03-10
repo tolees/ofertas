@@ -28,10 +28,10 @@ Ahora mismo tienes [Torre de Sonido 50W NGS Sky Charm Compatible con Tecnología
 
 🔎:
 
-- Además, puedes escuchar las canciones mp3 almacenadas en tu memoria usb durante horas y disfrutar de tus playlist favoritas
+- Permite cargar la batería de tu dispositivo bluetooth mediante el puerto usb de salida del que dispone la torre
 - Equipado con radio FM y memoria de emisoras para convertirse en un reproductor multimedia super completo.
 - Conecta tu home cinema, televisión o cualquier otro dispositivo de una forma sencilla vía bluetooth
 - Conecta 2 torres en estéreo gracias al cable de audio, desde la salida de audio de la torre principal a la entrada de audio de la torre secundaria; la torre secundaria solo responderá a los controles de la principal
-- Permite cargar la batería de tu dispositivo bluetooth mediante el puerto usb de salida del que dispone la torre
+- Además, puedes escuchar las canciones mp3 almacenadas en tu memoria usb durante horas y disfrutar de tus playlist favoritas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08297PXHL/?tag=tolees-21)

@@ -29,8 +29,8 @@ Tienes [MINIONS - Juego de construcción  Construye tu megaminion  Mattel CNF59 
 🔎:
 
 - Desarrolla la motricidad fina y destreza
-- A partir de 7 años
 - Juego de imitación
 - Favorece la coordinación ojo-mano
+- A partir de 7 años
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00YADE29I/?tag=tolees-21)

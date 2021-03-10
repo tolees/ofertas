@@ -28,10 +28,10 @@ Está [ROCKSPRINT | PROTEÍNA DE SUERO DE LECHE | Con Caseína y Creatina | Whey
 
 ℹ️:
 
+- Sabores realmente increíbles
 - ¡Alcanza tus objetivos sin vacilar! Whey Prime de Rocksprint es una proteína con Caseína, Creatina, Vitaminas y Digezyme.
+- Fórmula más completa
 - 26,9 g de proteína por dosis
 - Resultados superiores
-- Fórmula más completa
-- Sabores realmente increíbles
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B086NQVLHM/?tag=tolees-21)

@@ -30,8 +30,8 @@ Ahora mismo tienes [Funko- Pop Star Wars The Rise of Skywalker-Finn Disney Figur
 
 - La figura mide 9 cm y se envía en una caja ilustrada con ventana
 - Descúbre otras figuras de la colección disney star wars y colecciónalas todas
-- De la colección star wars the rise of skywalker, finn como figura de vinilo pop de funko
 - Disney star wars
+- De la colección star wars the rise of skywalker, finn como figura de vinilo pop de funko
 - Finn
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07QTD66Q2/?tag=tolees-21)

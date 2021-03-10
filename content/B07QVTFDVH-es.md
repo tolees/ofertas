@@ -28,10 +28,10 @@ Ahora mismo tienes [Funko- Pop Star Wars The Rise of Skywalker-First Order Jet T
 
 🔎:
 
+- La figura mide 9 cm y se envía en una caja ilustrada con ventana
+- First order jet trooper
 - Disney star wars
 - Descúbre otras figuras de la colección disney star wars y colecciónalas todas
 - De la colección star wars the rise of skywalker, first order jet trooper como figura de vinilo pop de funko
-- La figura mide 9 cm y se envía en una caja ilustrada con ventana
-- First order jet trooper
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07QVTFDVH/?tag=tolees-21)
