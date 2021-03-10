@@ -28,12 +28,12 @@ Tienes [FoodSaver FSFSMA0050-060 Marinador rápido  Apto para frigorífico  1 W 
 
 🔎:
 
-- NOTA! Este producto se vende sin tubo de marinado
-- 2.1 litro capacidad
-- Marina en minutos
-- Sirve como tarro de comida envasada, ideal para llevártelo a la oficina
-- Capacidad de 2.1 litro
 - Marina minutos!
 - Sirve como tarro de comida envasada, ideal para llevártelo a la oficina
+- 2.1 litro capacidad
+- Capacidad de 2.1 litro
+- NOTA! Este producto se vende sin tubo de marinado
+- Sirve como tarro de comida envasada, ideal para llevártelo a la oficina
+- Marina en minutos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B007RYU6W4/?tag=tolees-21)

@@ -28,12 +28,12 @@ Ahora mismo tienes [TP-Link TL-MR3420 - Router Wi-Fi  300 Mbps 3G / 4G  1 puerto
 
 🔎:
 
-- Incorpora una función de conexión redundante 3G/4G/WAN que garantiza un acceso continuo a Internet
-- Requisitos del sistema: Microsoft Windows 98SE, NT, 2000, XP, Vista o Windows 7, MAC OS, NetWare, UNIX o Linux
-- Comparta vídeos en HD de forma inalámbrica a una velocidad de hasta 300 Mbps
+- Encriptación de la red inalámbrica con tan sólo pulsar el botón WPS
 - Se envía en un embalaje certificado
 - Los administradores de red pueden controlar el uso del ancho de banda y establecer qué cantidad de éste debe estar disponible para cada uno de los equipos
+- Incorpora una función de conexión redundante 3G/4G/WAN que garantiza un acceso continuo a Internet
 - Sim-unlocked, comparte con módems USB 3G LTE/HSPA+/HSUPA/HSDPA/UMTS/EVDO probados en condiciones reales
-- Encriptación de la red inalámbrica con tan sólo pulsar el botón WPS
+- Comparta vídeos en HD de forma inalámbrica a una velocidad de hasta 300 Mbps
+- Requisitos del sistema: Microsoft Windows 98SE, NT, 2000, XP, Vista o Windows 7, MAC OS, NetWare, UNIX o Linux
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B003WK62OS/?tag=tolees-21)

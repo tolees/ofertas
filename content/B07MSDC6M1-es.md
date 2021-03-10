@@ -29,9 +29,9 @@ Está [Pilas AA Recargable POWEROWL Alta Capacidad 2800mAh 1.2V Pilas Recargable
 ℹ️:
 
 - Environment Friendly: Ni-MH environmental protection material reduce heavy metal pollution
-- Note: Please charge fully before use, as we only charge the batteries to 20% for shipping safety purpose. Batteries will reach top performance after 3-5 times fully charge cycles
-- Long Service Life: It can be recharged over 1200 times and keep 70% power after non-use for 3 years
-- High Capacity: 2800mAh 1.2V 12 Pack Ni-MH AA rechargeable batteries
 - Wide application: Powerowl double a batteries are widely used in household devices like digital cameras, toys, remote controls, hand held games, 2-way radios, PDAs, flashlights, alarm-clock, LCD-TVs, Toothbrushes, Shavers and other devices that need AA battery
+- Note: Please charge fully before use, as we only charge the batteries to 20% for shipping safety purpose. Batteries will reach top performance after 3-5 times fully charge cycles
+- High Capacity: 2800mAh 1.2V 12 Pack Ni-MH AA rechargeable batteries
+- Long Service Life: It can be recharged over 1200 times and keep 70% power after non-use for 3 years
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07MSDC6M1/?tag=tolees-21)

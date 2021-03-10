@@ -28,14 +28,14 @@ Tienes [Tayg 602351 10 litros cánula  rojo  Bidón 10L](https://www.amazon.es/d
 
 ℹ️:
 
-- Cumple normativa, adr, la rigidez, imdg, iata/oaci.
-- Materiales. Hecho de polietileno.
 - Con indicador de llenado.
-- Presión hidráulica 200 kpa.
-- Apto para transporte de mercancías peligrosas clases, 3, 6.1, 8 y 9.
+- Cumple normativa, adr, la rigidez, imdg, iata/oaci.
+- Medidas. 265x200x307mm.
 - Toma de aire para vertido uniforme.
+- Materiales. Hecho de polietileno.
 - Bidón con cánula 10l.
 - Colores. Bidón rojo, con cánula y tapón negros.
-- Medidas. 265x200x307mm.
+- Apto para transporte de mercancías peligrosas clases, 3, 6.1, 8 y 9.
+- Presión hidráulica 200 kpa.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B005ZUFTJC/?tag=tolees-21)

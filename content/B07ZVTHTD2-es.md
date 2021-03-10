@@ -28,9 +28,9 @@ Ahora mismo tienes [L Oreal Paris Men Expert Deo Spray Sensitive Control R 150 m
 
 🔎:
 
+- Ayuda a reducir la irritación de la piel
 - Para regular la transpiración y combatir los malos olores
 - Cantidad: 150 ml
-- Ayuda a reducir la irritación de la piel
 - Ofrece una sensación fresca
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07ZVTHTD2/?tag=tolees-21)

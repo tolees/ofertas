@@ -28,8 +28,8 @@ Tienes [Mom Licores  700ml](https://www.amazon.es/dp/B019QPCR4Q/?tag=tolees-21) 
 
 🔎:
 
-- Recomendaciones: Servir Gin&Tonic en copa de balón, decorado con una brocheta de amarena. La amarena dota al Gin&Tonic de un tono rosa suave y natural.
 - Ginebra Premium elaborada con furtos rojos y exóticos ingredientes botánicos
 - La infusión con frutos rojos tras cuatro destilaciones le dá esa distinguida personalidad
+- Recomendaciones: Servir Gin&Tonic en copa de balón, decorado con una brocheta de amarena. La amarena dota al Gin&Tonic de un tono rosa suave y natural.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B019QPCR4Q/?tag=tolees-21)
