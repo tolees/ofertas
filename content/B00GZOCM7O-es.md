@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Disney - Frozen El Reino Del Hielo [DVD] al 29.75 % de descuento'
-date: 2021-03-09 01:19:32
+date: 2021-03-10 08:09:56
 image: 'https://m.media-amazon.com/images/I/51D8Mi6l7tL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Disney'
 buyurl: 'https://www.amazon.es/dp/B00GZOCM7O/?tag=tolees-21'
 descuento: '29.75'
-average: '9.1831034482759'
+average: '9.15818181818186'
 ---
 
 Ahora mismo tienes [Disney - Frozen El Reino Del Hielo [DVD]](https://www.amazon.es/dp/B00GZOCM7O/?tag=tolees-21) a 6.99 EUR (original: 9.95 EUR) (29.75 %  de descuento) en el siguiente enlace!

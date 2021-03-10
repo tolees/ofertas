@@ -29,9 +29,9 @@ Está [Reloj MVMT - Mujer D-FR01-RGGR](https://www.amazon.es/dp/B07V5HL1MR/?tag=
 ℹ️:
 
 - 3 ATM de resistencia al agua
-- Grosor de la caja de 10 mm / Diámetro de la caja: 36 mm
 - Movimiento de cuarzo Miyota
-- Ancho de la correa: 16 mm
 - Caja oro rosa en acero inoxidable pulida y esfera Blanca
+- Ancho de la correa: 16 mm
+- Grosor de la caja de 10 mm / Diámetro de la caja: 36 mm
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07V5HL1MR/?tag=tolees-21)

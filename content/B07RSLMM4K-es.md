@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mula 4k Uhd [Blu-ray] al 44.33 % de rebaja'
-date: 2021-03-04 20:14:44
+date: 2021-03-10 08:15:58
 image: 'https://m.media-amazon.com/images/I/41L-bq9vvPL._SL400_.jpg'
 comments: true
 category: ofertas

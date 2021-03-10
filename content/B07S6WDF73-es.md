@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Disney - Aladdín [DVD] con un 66.63 % de descuento'
-date: 2021-03-09 01:33:31
+date: 2021-03-10 08:12:53
 image: 'https://m.media-amazon.com/images/I/51s3+7Y8HGL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Disney'
 buyurl: 'https://www.amazon.es/dp/B07S6WDF73/?tag=tolees-21'
 descuento: '66.63'
-average: '9.50284482758621'
+average: '9.46025423728814'
 ---
 
 En este momento está [Disney - Aladdín [DVD]](https://www.amazon.es/dp/B07S6WDF73/?tag=tolees-21) a 6.99 EUR (original: 20.95 EUR) (66.63 %  de descuento) en el siguiente enlace!
