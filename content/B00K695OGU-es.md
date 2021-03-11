@@ -29,7 +29,7 @@ Tienes [Philips 12496SVB2 SilverVision Bombilla PY21W para Luces Traseras  2 uni
 ℹ️:
 
 - Tipo/Base: PY21W 12V21W BAU15s B2
-- Marca: Philips
 - Alta Calidad y Resistente
+- Marca: Philips
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00K695OGU/?tag=tolees-21)

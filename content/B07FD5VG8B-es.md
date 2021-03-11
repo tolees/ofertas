@@ -28,10 +28,10 @@ En este momento está [MVMT Reloj Cronógrafo para Hombre de Cuarzo con Correa e
 
 🔎:
 
-- Caja gris oscuro en acero inoxidable cepillado y esfera gris oscuro
 - Grosor de la caja de 12 mm / Diámetro de la caja: 45 mm
+- Caja gris oscuro en acero inoxidable cepillado y esfera gris oscuro
 - 5 ATM de resistencia al agua
-- Ancho de la correa: 22 mm
 - Movimiento de cuarzo Miyota
+- Ancho de la correa: 22 mm
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07FD5VG8B/?tag=tolees-21)

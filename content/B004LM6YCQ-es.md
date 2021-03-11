@@ -28,8 +28,8 @@ Está [PLAYMOBIL-1.2.3 Excavator Cargador de Rueda Colores  Miscelanea  6775 ](h
 
 ℹ️:
 
+- Con figuras y accesorios
 - Se basa en figuras y complementos con formas redondeadas, colores llamativos y piezas grandes.
 - Fomenta creatividad e imaginación
-- Con figuras y accesorios
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B004LM6YCQ/?tag=tolees-21)

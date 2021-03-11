@@ -29,8 +29,8 @@ Tienes [Philips Lighting myLiving Aplique E27  iluminación interior  15 W  gris
 ℹ️:
 
 - Flujo luminoso: 970 lm
-- Durabilidad media: 10000 horas
-- Este aplique Ecomoods de Philips emite una luz blanca cálida de bajo consumo energético
 - Clase de eficiencia energética A
+- Este aplique Ecomoods de Philips emite una luz blanca cálida de bajo consumo energético
+- Durabilidad media: 10000 horas
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00BG5BWGY/?tag=tolees-21)
