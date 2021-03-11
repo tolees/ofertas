@@ -28,10 +28,10 @@ Está [Kshzmoto Probador de Calidad del Aire Multifuncional Medidor de CO2 TVOC 
 
 ℹ️:
 
-- ℃ y ℉ conmutables, y el sonido de la alarma puede activarse o desactivarse según sus necesidades.
-- Equipado con la función de juicio de calidad ambiental, mostrará el nivel apropiado según el valor de medición.
 - Pantalla LCD grande, puede ver claramente la cantidad de electricidad, el valor de CO2, el valor de TVOC, el valor de HCHO, la temperatura y la humedad.
 - Batería de litio incorporada de 1800 mAh de capacidad, fácil de cargar con cable USB.
 - Adopta un sensor digital de temperatura y humedad, alta precisión, rendimiento estable, capacidad antiatasco, bajo consumo y puede proporcionar un tiempo de servicio prolongado.
+- Equipado con la función de juicio de calidad ambiental, mostrará el nivel apropiado según el valor de medición.
+- ℃ y ℉ conmutables, y el sonido de la alarma puede activarse o desactivarse según sus necesidades.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08RJJ6S6Z/?tag=tolees-21)

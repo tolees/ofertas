@@ -28,8 +28,8 @@ Ahora mismo tienes [FLIR ONE cámara térmica para iOS](https://www.amazon.es/dp
 
 🔎:
 
-- Encuentre problemas en la casa rápidamente, como dónde está perdiendo calor, cómo se mantiene el aislamiento, problemas eléctricos y daños por agua, todo lo cual es fácil de encontrar.
-- Vea en la oscuridad y explore el mundo natural de forma segura con FLIR ONE. Observe a los animales en su hábitat natural e incluso utilícelo para encontrar a su mascota perdida ... o lo que podrían haber dejado en el patio.
 - Detectar pequeñas variaciones en el calor significa que puede ver en la oscuridad total, crear nuevos tipos de arte y descubrir cosas nuevas sobre su mundo todos los días ... o ayudar a su hijo con su experimento de feria de ciencias.
+- Vea en la oscuridad y explore el mundo natural de forma segura con FLIR ONE. Observe a los animales en su hábitat natural e incluso utilícelo para encontrar a su mascota perdida ... o lo que podrían haber dejado en el patio.
+- Encuentre problemas en la casa rápidamente, como dónde está perdiendo calor, cómo se mantiene el aislamiento, problemas eléctricos y daños por agua, todo lo cual es fácil de encontrar.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0728C7KND/?tag=tolees-21)

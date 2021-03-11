@@ -28,9 +28,9 @@ Ahora mismo tienes [Funko - POP! Movies: Fight Club- Tyler Durden   Edición esp
 
 🔎:
 
+- La figura mide 9 cm y se envía en una caja ilustrada con ventana
 - De la colección fight club, tyler durden w/chase and buddy como figura de vinilo pop de funko
 - Funko pop. El juguete del año 2018
 - Descúbre otras figuras de la colección fight club y colecciónalas todas
-- La figura mide 9 cm y se envía en una caja ilustrada con ventana
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07YQGSTL7/?tag=tolees-21)
