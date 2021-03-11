@@ -28,10 +28,10 @@ Tienes [KEMO M103N - Interruptor y regulador de intensidad  color negro](https:/
 
 🔎:
 
-- Se pueden controlar máquinas monofásicas o trifásicas
-- Por ejemplo, en máquinas, lámparas, etc.
 - Tamaño: aprox. 67 x 65 x 37 mm
 - En la salida se pueden encender automáticamente dispositivos monofásicos
+- Se pueden controlar máquinas monofásicas o trifásicas
+- Por ejemplo, en máquinas, lámparas, etc.
 - Se enciende automáticamente una carga diferente cuando se enciende
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B004AVIHKK/?tag=tolees-21)

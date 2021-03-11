@@ -28,10 +28,10 @@ Ahora mismo tienes [Hurley M Bravo Tango Jacket  black](https://www.amazon.es/dp
 
 🔎:
 
-- Bellow pocket at chest with locker loop. Side entry pockets with self pocket bags.
-- 60% Cotton / 40% Recycled Polyester.
 - Snaps at cuffs for adjustability.
-- Ripstop fabric for durability.
 - Locker loop detail at center back.
+- Bellow pocket at chest with locker loop. Side entry pockets with self pocket bags.
+- Ripstop fabric for durability.
+- 60% Cotton / 40% Recycled Polyester.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08GYJQZ7L/?tag=tolees-21)

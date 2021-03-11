@@ -28,10 +28,10 @@ Ahora mismo tienes [Hurley M Modern Surf Poncho Blocker  Negro  L](https://www.a
 
 🔎:
 
-- Tejido de jersey 145 g.
-- Moteado 85 % Algodón / 15 % Poliéster.
-- Paneles bloqueados con puntada straddle.
-- Estampado suave al tacto One & Only.
 - Sólidos 100 % Algodón.
+- Moteado 85 % Algodón / 15 % Poliéster.
+- Tejido de jersey 145 g.
+- Estampado suave al tacto One & Only.
+- Paneles bloqueados con puntada straddle.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08CY7PRVZ/?tag=tolees-21)

@@ -28,8 +28,8 @@ En este momento está [Hugo BOSS Reloj Cronógrafo para Hombre de Cuarzo con Cor
 
 🔎:
 
-- Pulsera de acero inoxidable y oro rosa
 - Cronógrafo de cuarzo
+- Pulsera de acero inoxidable y oro rosa
 - Grosor de la caja de 12,00 mm
 - Esfera gris cepillada con efecto de rayo de sol
 - 5 ATM de resistencia al agua

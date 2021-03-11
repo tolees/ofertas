@@ -29,9 +29,9 @@ Tienes [Black+Decker BEG010-QS - Amoladora 115mm  710W  12.000 rpm](https://www.
 🔎:
 
 - Motor de 12.000 rpm con protección contra re-arranque para mayor seguridad mientras opera
-- Radial de 115 mm con potente motor de 710w
 - Facilita el corte de tubos metálicos, losas de piedra y baldosas de cerámica, así como la eliminación de óxido y pintura
-- El diámetro compacto de esta amoladora con cable permite un agarre cómodo y le permite acceder a áreas difíciles
 - Mango ajustable en dos posiciones para mayor versatilidad mientras trabajas
+- El diámetro compacto de esta amoladora con cable permite un agarre cómodo y le permite acceder a áreas difíciles
+- Radial de 115 mm con potente motor de 710w
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07N17F4BL/?tag=tolees-21)

@@ -30,8 +30,8 @@ En este momento está [POCKETCAM - Cartera de Cuero Genuino para el Hombre Ultra
 
 - GRAN CAPACIDAD - Dispone de 7 ranuras para tarjetas, 2 bolsillos para billetes y 1 ventana para documentos de identidad (permiso de conducir y tarjetas de identificación) que le permiten llevar fácilmente todas sus tarjetas importantes.
 - Billetera 100% de cuero genuino.
-- CUERO GENUINO - Nuestra cartera delgada para hombre está hecha de suave y lujoso cuero genuino 100% por dentro y por fuera, seleccionado del mejor cuero de vaca, suave y liso al tacto, robusto y duradero para un uso a largo plazo.
-- Piel de vaca especialmente procesada, con un tacto ultra suave.
 - DISEÑO DELGADO - En comparación con el diseño tradicional de la cartera, hemos diseñado una cartera delgada y ligera que puede llevar más cómodamente. Cartera de cuero genuino para el hombre ultra suave sensación de la mano de diseño delgado de la ropa, carteras.
+- Piel de vaca especialmente procesada, con un tacto ultra suave.
+- CUERO GENUINO - Nuestra cartera delgada para hombre está hecha de suave y lujoso cuero genuino 100% por dentro y por fuera, seleccionado del mejor cuero de vaca, suave y liso al tacto, robusto y duradero para un uso a largo plazo.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08NV8GLRN/?tag=tolees-21)

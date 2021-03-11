@@ -28,8 +28,8 @@ Está [Bob Esponja - Figura Stretch](https://www.amazon.es/dp/B084LHHCZ1/?tag=to
 
 ℹ️:
 
-- La figura de Bob Esponja más alucinante, capaz de estirarse más que ninguna otra
 - Se puede estirar más de 60 cm
+- La figura de Bob Esponja más alucinante, capaz de estirarse más que ninguna otra
 - Cuánto más le estires más sonidos diferentes hará
 - Más de 30 sonidos y frases diferentes
 - Con un montón de frases y sonidos diferentes

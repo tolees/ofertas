@@ -28,10 +28,10 @@ Está [Tesa Assa Abloy  TX853060N  Cilindro de Alta Seguridad  TX80  Doble Embra
 
 ℹ️:
 
-- Durabilidad (Grado 6): 100.000 ciclos del cilindro.
-- Se sirve con 5 llaves incopiables y patentadas de alpaca.
-- 8+1 pitones +2 sensores de seguridad en llave.
 - Sistemas de protección antibumping, antitaladro y antiganzúa.
+- Se sirve con 5 llaves incopiables y patentadas de alpaca.
 - Certificado según la norma EN-1303.
+- 8+1 pitones +2 sensores de seguridad en llave.
+- Durabilidad (Grado 6): 100.000 ciclos del cilindro.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01MSE1OVT/?tag=tolees-21)

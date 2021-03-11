@@ -28,9 +28,9 @@ Está [G-STAR RAW 3301 Straight Jeans Vaqueros  Worker Blue Faded A088-A888  25W
 
 ℹ️:
 
-- 98% Algodón, 2% Elastano
-- Cierre: Boton y cierre
 - Usado
 - Lavar a máquina - agua fría (30 ° max)
+- 98% Algodón, 2% Elastano
+- Cierre: Boton y cierre
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07N18B6SQ/?tag=tolees-21)
