@@ -28,10 +28,10 @@ Tienes [Varta - Vatra Energy - Pack de 24 Pilas Alcalinas AAA / LR03 / Micro](ht
 
 🔎:
 
-- Se conservan en perfecto estado durante 10 años
-- Clase de batería: lr03 / aaa de alta calidad (fabricado en alemania)
 - Capacidad nominal de 1200 mah y voltaje de 1.5 voltios
+- Clase de batería: lr03 / aaa de alta calidad (fabricado en alemania)
 - Energía básica para dispositivos como mandos de tv/música, relojes de pared, radios etc
+- Se conservan en perfecto estado durante 10 años
 - Pack de 24 pilas alcalinas aaa / lr03
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B004KRGJFO/?tag=tolees-21)

@@ -28,8 +28,8 @@ Está [Lee Daren Zip Fly Vaqueros  Verde  Lichen Green 82   31W / 34L para Hombr
 
 ℹ️:
 
+- Tienen un parche en la parte trasera con la marca Lee
 - Vaqueros para hombre
 - Presentan 5 bolsillos
-- Tienen un parche en la parte trasera con la marca Lee
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07VLP86MJ/?tag=tolees-21)
