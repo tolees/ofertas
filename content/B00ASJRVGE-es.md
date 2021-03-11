@@ -28,10 +28,10 @@ Tienes [National Geographic 20-60x60 Telescopio terrestre](https://www.amazon.es
 
 ℹ️:
 
-- aumento: 20x-60x / diámetro del objetivo: 60mm
+- campo de visión: 29m@1000m (20x) / distancia mínima de enfoque: 12m (20x)
 - dimensiones: 350x155x95mm / peso: 1 kg
 - catalejo compacto y ligero para llevar
+- aumento: 20x-60x / diámetro del objetivo: 60mm
 - suministro: telescopio terrestre, bolsa, trípode de mesa
-- campo de visión: 29m@1000m (20x) / distancia mínima de enfoque: 12m (20x)
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00ASJRVGE/?tag=tolees-21)
