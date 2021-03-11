@@ -1,32 +1,34 @@
 ---
 layout: post
-title: 'Levi s 501 High Rise Short Pantalones Co con un 25.00 % de descuento'
-date: 2020-08-24 08:17:52
+title: 'Levi s 501 High Rise Short Pantalones Co con un 70.91 % de descuento'
+date: 2021-03-11 07:44:28
 image: 'https://m.media-amazon.com/images/I/41feJPgKSeL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KF4QV73-es Levi s 501 High Rise Short Pantalones Cortos Blanco In The...'
+slug: 'B07KF4QV73-es Levi s 501 High Rise Short Pantalones Cortos In The Clouds...'
 sku: 'B07KF4QV73-es'
 tags: [  ]
-actualPrice: 41.25 EUR
+actualPrice: 16.0 EUR
 currency: EUR
-price: 41.25
+price: 16.0
 comparePrice: 55.0 EUR
-prodname: 'Levi s 501 High Rise Short Pantalones Cortos  Blanco  In The Clouds 0025   W28  Talla del Fabricante: 28  para Mujer'
+prodname: 'Levi s 501 High Rise Short Pantalones Cortos  In The Clouds  28 para Mujer'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B07KF4QV73/?tag=tolees-21'
-descuento: '25.00'
-average: '36.128181818181815'
+descuento: '70.91'
+average: '33.0315384615384'
 ---
 
-En este momento está [Levi s 501 High Rise Short Pantalones Cortos  Blanco  In The Clouds 0025   W28  Talla del Fabricante: 28  para Mujer](https://www.amazon.es/dp/B07KF4QV73/?tag=tolees-21) a 41.25 EUR (original: 55.0 EUR) (25.00 %  de descuento) en el siguiente enlace!
+En este momento está [Levi s 501 High Rise Short Pantalones Cortos  In The Clouds  28 para Mujer](https://www.amazon.es/dp/B07KF4QV73/?tag=tolees-21) a 16.0 EUR (original: 55.0 EUR) (70.91 %  de descuento) en el siguiente enlace!
 
 [![Levi s 501 High Rise Short Pantalones Co](https://m.media-amazon.com/images/I/41feJPgKSeL._SL400_.jpg)](https://www.amazon.es/dp/B07KF4QV73/?tag=tolees-21)
 
 🔎:
 
+- Lavar del revés y secar con colores similares. Se recomienda usar detergente líquido.
+- Costura interior: 6,3 cm.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07KF4QV73/?tag=tolees-21)

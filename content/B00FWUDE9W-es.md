@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony Alpha ILCE-7 - Cámara EVIL de 24.3  al 40.74 % de rebaja'
-date: 2021-03-08 16:06:51
+date: 2021-03-11 08:07:23
 image: 'https://m.media-amazon.com/images/I/513quincG2L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B00FWUDE9W/?tag=tolees-21'
 descuento: '40.74'
-average: '708.258'
+average: '708.731666666667'
 ---
 
 Tienes [Sony Alpha ILCE-7 - Cámara EVIL de 24.3 MP  Full HD  sólo cuerpo  negro](https://www.amazon.es/dp/B00FWUDE9W/?tag=tolees-21) con precio final de  711.1 EUR (original: 1200.0 EUR) (40.74 %  de rebaja) aqui!
@@ -28,10 +28,10 @@ Tienes [Sony Alpha ILCE-7 - Cámara EVIL de 24.3 MP  Full HD  sólo cuerpo  negr
 
 🔎:
 
-- Enfoque automático híbrido
-- Cuenta con enfoque automático híbrido rápido
-- Sensor CMOS Exmor de 24.3 MP
-- Sistema de objetivos intercambiables con montura tipo E
 - Procesador de imágenes BIONZ X
+- Enfoque automático híbrido
+- Sensor CMOS Exmor de 24.3 MP
+- Cuenta con enfoque automático híbrido rápido
+- Sistema de objetivos intercambiables con montura tipo E
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00FWUDE9W/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA Basket Heart Patent Wn S  Zapatilla al 76.26 % de descuento'
-date: 2021-02-24 08:41:37
+date: 2021-03-11 08:21:36
 image: 'https://m.media-amazon.com/images/I/31SvNumr6TL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PUMA'
 buyurl: 'https://www.amazon.es/dp/B01MYU91WD/?tag=tolees-21'
 descuento: '76.26'
-average: '35.7364285714285'
+average: '34.7773333333332'
 ---
 
 Está [PUMA Basket Heart Patent Wn S  Zapatillas Mujer  Blanco White White  36 EU](https://www.amazon.es/dp/B01MYU91WD/?tag=tolees-21) con 76.26 de descuento por 21.35 EUR (original: 89.95 EUR) en el siguiente enlace!
