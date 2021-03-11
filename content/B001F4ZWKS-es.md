@@ -28,10 +28,10 @@ Tienes [Sangean DT-250 - Radio  plateado](https://www.amazon.es/dp/B001F4ZWKS/?t
 
 🔎:
 
-- Pilas necesarias: 2 x 1.5V (UM-3)
-- Indicador de batería baja
 - Altavoz incorporado
-- Reloj y luz de fondo del LCD
+- Indicador de batería baja
 - Auriculares incluidos
+- Pilas necesarias: 2 x 1.5V (UM-3)
+- Reloj y luz de fondo del LCD
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B001F4ZWKS/?tag=tolees-21)
