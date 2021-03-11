@@ -28,13 +28,13 @@ Está [ECCO Offroad  Sandalias con Punta Abierta Hombre  Azul  Azul  Marine   40
 
 ℹ️:
 
+- Revestimiento: Tela
+- Cierre: Velcro
+- Tipo de tacón: Plano
+- Anchura del zapato: Normal
 - Material de la suela: Goma
 - Composición: Cuero
-- Anchura del zapato: Normal
-- Material exterior: Cuero
-- Revestimiento: Tela
 - Tipo de talla: talla estándar
-- Tipo de tacón: Plano
-- Cierre: Velcro
+- Material exterior: Cuero
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B071NJKYVG/?tag=tolees-21)
