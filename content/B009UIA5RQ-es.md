@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 52.20 % en GREAT ART Discovery Original - Barney St'
-date: 2021-03-06 11:03:04
+date: 2021-03-11 19:56:48
 image: 'https://m.media-amazon.com/images/I/51SbVuX5MSL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,6 @@ Tienes [GREAT ART Discovery Original - Barney Stinson Wall Poster - DIN A1 59 4 
 
 ℹ️:
 
-- Made in Germany ✔ Quality by GREAT ART Ideally suited as a decoration for your office, study or teenage room
-- Co-worker motivation ✔ in the cool way, as in the office of the womanizer Barney Stinson from the hit series How I met your Mother
-- Size: 23,3 x 33,1 in (59,4 x 84,1 cm) – 1 piece: HIMYM office decoration for your interior design. The motivational poster "Discovery" from the famous Barney Stinson Office Wall as a mural
-- Attention: Open the packaging carefully! It contains additional motifs - a poster of the New York Skyline (120cm x 42cm) and a world map in premium quality to cut out. Ideal as a gift or a decoration!
-- Quality printing ✔ on high-quality, sturdy paper for a brilliant colour reproduction and a perfect spatial experience
+- Tamaño: 59,4 x 84,1 cm (23,3 x 33,1 in) - 1 pieza: decoración de oficina HIMYM para su diseño interior. El póster motivador "Discovery" del famoso muro de la oficina de Barney Stinson como mural
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B009UIA5RQ/?tag=tolees-21)

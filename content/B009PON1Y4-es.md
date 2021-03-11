@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'GREAT ART Challenge Poster Original - Ba al 52.20 % de rebaja'
-date: 2021-03-06 11:04:34
+date: 2021-03-11 19:56:51
 image: 'https://m.media-amazon.com/images/I/41INdWPCzkL._SL400_.jpg'
 comments: true
 category: ofertas

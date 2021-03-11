@@ -28,8 +28,8 @@ Ahora mismo tienes [Petit Bateau 5332300 Camiseta  Blanco  Variante 1 Zga   4 a�
 
 🔎:
 
+- 100% algodón
 - Para combinar con los boxers o slips a juego
 - Se puede lavar a máquina
-- 100% algodón
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VJV8TX7/?tag=tolees-21)

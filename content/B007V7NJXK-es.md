@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'GREAT ART Asombroso póster - Original Ba al 52.20 % de descuento'
-date: 2021-03-06 11:05:06
+date: 2021-03-11 19:57:02
 image: 'https://m.media-amazon.com/images/I/41+huz7IyeL._SL400_.jpg'
 comments: true
 category: ofertas

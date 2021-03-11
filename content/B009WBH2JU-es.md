@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'GREAT ART Perseverancia póster Original  al 52.20 % de descuento'
-date: 2021-03-06 11:05:20
+date: 2021-03-11 19:56:42
 image: 'https://m.media-amazon.com/images/I/41bV2CYH1nL._SL400_.jpg'
 comments: true
 category: ofertas

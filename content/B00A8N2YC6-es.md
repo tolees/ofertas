@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'GREAT ART Cartel Azul Rojo Barney Stinso al 52.20 % de descuento'
-date: 2021-03-06 11:03:44
+date: 2021-03-11 19:56:40
 image: 'https://m.media-amazon.com/images/I/41oRniPqTQL._SL400_.jpg'
 comments: true
 category: ofertas
