@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'WiFi Videocámara UHD 26MP FamBrow Videoc con un 26.17 % de descuento'
-date: 2021-03-08 22:15:40
+date: 2021-03-11 04:17:34
 image: 'https://m.media-amazon.com/images/I/51QpH6p3bOL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'FamBrow'
 buyurl: 'https://www.amazon.es/dp/B08BJ7M6X3/?tag=tolees-21'
 descuento: '26.17'
-average: '122.36794520548'
+average: '121.83644295302'
 ---
 
 En este momento está [WiFi Videocámara UHD 26MP FamBrow Videocamara de Vlogging Youtube IR Visión Nocturna 30FPS 16X Zoom Cámara de Video Pantalla Giratoria con Micrófono Control Remoto 2 Batería](https://www.amazon.es/dp/B08BJ7M6X3/?tag=tolees-21) a 95.97 EUR (original: 129.99 EUR) (26.17 %  de descuento) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [WiFi Videocámara UHD 26MP FamBrow Videocamara de Vloggin
 
 🔎:
 
-- 【Videocámara Multifuncional】 La videocámara digital tiene múltiples funciones: Función de belleza, Detección de rostro, Detección de movimiento, Disparo continuo, Antivibración, Temporizador automático, Pausa, etc. Admite tarjetas SD / MMC (4 ~ 128GB, no incluir) y trípode (no incluir). La grabadora de video es pequeña, liviana y portátil para que la lleve consigo. Viene con dos baterías recargables, una batería completamente cargada se puede usar de manera sostenible durante 90-150 minutos.
-- 【Wifi Videocámara con Visión Nocturna por Infrarrojos】 Al descargar la App"YKJ", convertirá su teléfono en un control remoto para controlar la cámara de video WiFi para tomar fotos o videos. Puede usarlo para buscar álbumes de fotos y descargar los archivos de la cámara al teléfono móvil.Luego, puede compartirlos en Facebook, Youtube, Instagram, etc. en la oscuridad, también dispara muy bien con poca luz.
-- 【Videocámara FHP 1080P y 26MP y 30FPS】 La cámara de video es Full HD 1080P, con una resolución de imagen de 26MP, que puede proporcionarle fotos o videos nítidos y coloridos de alta calidad incluso con poca luz. proporcionan una grabación y reproducción más fluidas. La pantalla táctil ultra clara IPS de 3.0 pulgadas con rotación de 270 ° y la cámara con zoom digital 16X y la función de temporizador automático le permiten tomar fotos y videos en cualquier momento y en cualquier ángulo que desee.
-- 【Videocámara FHD con Micrófono】 El micrófono estéreo externo desmontable utiliza tecnología de captación estéreo XY para eliminar efectivamente el ruido de fondo / ruido del viento, lo que puede mejorar efectivamente la estabilidad del audio y obtener un estéreo claro y preciso. Esta cámara de youtube es ideal para blogueros de video y entusiastas de la fotografía. También es muy adecuada para grabación de reuniones, enseñanza en el aula, entrevistas de noticias, etc.
-- 【Videocámara con Cámara Web】 La videocámara se puede usar como cámara web, que conecta la videocámara a su computadora con un cable USB y selecciona el modo de cámara de PC, Entonces, puede abrir la página de Facebook, YouTube o Ins para iniciar la transmisión en vivo.O compartir hermosas imágenes y videos con sus amigos o familia. Admite conectarse a la TV con un cable HDMI y reproducir los videos que tomó en alta definición.
+- 【FHP 1080P & 26MP & 30FPS Video Camera】The video camera is full HD 1080P, with 26.0MP picture resolution,which can provide you with high-quality sharp and colorful photos or videos even in low light.30FPS and high sensitivity CMOS sensor can provide smoother recording and playback. 3.0 inch 270° rotation IPS ultra-clear touch screen and 16X digital zoom camera and self-timer function allows you to take photo and video anytime any angle you want.
+- 【FHD Camcorder with Microphone】 The detachable external stereo microphone uses XY stereo pickup technology to effectively eliminate background noise/wind noise, which can effectively improve audio stability and obtain clear and accurate stereo. This youtube camera is ideal for video bloggers and photography enthusiasts.Its also very suitable for meeting recording, classroom teaching, news interview and so on.
+- 【Wifi Video Camera with IR Night Vision】Downloading "YKJ" APP, it will turn your phone into a remote to control the WiFi video camera to take photo or video. You can use it to browse photo albums and download the files from camera to the Mobile phone.Then, you can share to Facebook,Youtube,Instagram ect...Under IR Night Vision,the camera can shoot high definition image videos,work perfectly in the darkness,also shoot great in low light.
+- 【Webcam Video Camera】The camcorder can be used as a webcam, that connects the camcorder to your computer with a USB cable and select PC Camera mode.So,you can open the Facebook, YouTube or Ins page to start the live stream.And it supports connect to TV with HDMI cable and playback the videos you took in high definition.In addition, you can connect this camcorder to your computer via a USB cable to upload, edit, and then share beautiful pictures and videos with your friends or family.
+- 【 Multifunctional Camcorders Video Camera】FamBrow digital video camera has multiple functions: Beauty Function, Face Detect, Motion Detection, Continuous Shooting, Anti-shake, Self-timer, Pause, etc. It supports SD/MMC card(4~128GB, not include) and tripod(not include). The video recorder is small, lightweight, portable for you to carry around. Comes with two rechargeable batteries, one full-charged battery can be sustainably used for 90 minutes.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08BJ7M6X3/?tag=tolees-21)

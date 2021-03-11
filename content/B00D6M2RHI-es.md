@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'D-Link GO-SW-8E - Switch de red con 8 pu al 42.01 % de descuento'
-date: 2021-03-09 15:15:34
+date: 2021-03-11 03:37:42
 image: 'https://m.media-amazon.com/images/I/31q+uif2q1L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,12 +28,12 @@ Ahora mismo tienes [D-Link GO-SW-8E - Switch de red con 8 puertos 10/100 Mps  bl
 
 🔎:
 
-- Aumenta la capacidad de tu red cableada para conectar hasta 8 equipos por cable de red Ethernet LAN de CAT5 y CAT6
-- D-Link Green: Los puertos sin conexión se desconectan automáticamente y se mide la longitud del cable para adecuar el consumo eléctrico, alcanzando un ahorro energético de hasta un 85%
-- 8 puertos con velocidad Fast Ethernet (10/100 Mbps) y full dúplex
-- No necesita configuración: enchufar, conectar y listo
-- Indicadores led del estado de conexión y actividad en cada puerto
-- Sin ventilador, funcionamiento silencioso
 - Formato sobremesa y tamaño muy reducido
+- Aumenta la capacidad de tu red cableada para conectar hasta 8 equipos por cable de red Ethernet LAN de CAT5 y CAT6
+- Sin ventilador, funcionamiento silencioso
+- 8 puertos con velocidad Fast Ethernet (10/100 Mbps) y full dúplex
+- Indicadores led del estado de conexión y actividad en cada puerto
+- No necesita configuración: enchufar, conectar y listo
+- D-Link Green: Los puertos sin conexión se desconectan automáticamente y se mide la longitud del cable para adecuar el consumo eléctrico, alcanzando un ahorro energético de hasta un 85%
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00D6M2RHI/?tag=tolees-21)

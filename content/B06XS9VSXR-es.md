@@ -30,7 +30,7 @@ Tienes [Daniel Wellington Petite Sterling  Reloj Plateado  32mm  Metálico  para
 
 - Longitud de la correa ajustable: (Min - Max) 150-205mm
 - Tamaño de Esfera: 32 mm
-- Diseñadas Suecia, las piezas de Daniel Wellington presentan un estilo escandinavo minimalista y son el regalo o accesorio personal óptimo para cada ocasión
 - Correa intercambiable
+- Diseñadas Suecia, las piezas de Daniel Wellington presentan un estilo escandinavo minimalista y son el regalo o accesorio personal óptimo para cada ocasión
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B06XS9VSXR/?tag=tolees-21)

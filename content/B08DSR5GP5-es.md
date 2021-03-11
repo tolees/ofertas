@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.02 % en Warner Home Video - El Caballero Oscuro '
-date: 2021-03-09 10:28:27
+date: 2021-03-11 04:55:50
 image: 'https://m.media-amazon.com/images/I/51sWryPLpuL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Warner Home Video'
 buyurl: 'https://www.amazon.es/dp/B08DSR5GP5/?tag=tolees-21'
 descuento: '40.02'
-average: '15.2619999999999'
+average: '14.9645454545454'
 ---
 
 Tienes [Warner Home Video - El Caballero Oscuro  UHD 4K + BD  [Blu-ray]](https://www.amazon.es/dp/B08DSR5GP5/?tag=tolees-21) con un 40.02 % de descuento con precio de oferta de 11.99 EUR (original: 19.99 EUR) en el siguiente enlace!
