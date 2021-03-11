@@ -28,10 +28,10 @@ Tienes [Superga 2750 COTU Classic  Zapatillas Hombre  Gris  Grey Seashell G04   
 
 ℹ️:
 
+- Sin talón
+- lona
+- textil
 - Cordones
 - Goma
-- lona
-- Sin talón
-- textil
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00VJAANRU/?tag=tolees-21)
