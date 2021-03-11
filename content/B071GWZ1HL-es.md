@@ -28,9 +28,9 @@ Está [TRIXIE Torre Círculo de juego  Plástico  ø25 cm/13 cm  Gato](https://w
 
 ℹ️:
 
-- las pelotas pueden extraerse
 - también pueden usarse otras pelotas, por ejemplo, ref. 4109, 4521 y 45567
 - con pelotas en diferentes alturas
 - plástico
+- las pelotas pueden extraerse
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B071GWZ1HL/?tag=tolees-21)

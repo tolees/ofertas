@@ -28,9 +28,9 @@ Ahora mismo tienes [oodji Ultra Mujer Blusa Básica de Viscosa con Bolsillos  Na
 
 🔎:
 
+- Genial tanto para la oficina como para los encuentros informales
 - Elegante camisa cómoda llena de estilo
 - El corte holgado no limita los movimientos
-- Genial tanto para la oficina como para los encuentros informales
 - Las prendas de colección oodji Ultra tienen la talla más pequeña de lo normal, te recomendamos que elijas una talla superior a tu talla habitual o que consultes la tabla de tallas de oodji. Modelo: Talla S. Medidas: 86/61/91. Altura/peso: 176cm/55kg
 - La talla que has elegido corresponde a las siguientes medidas del cuerpo: Pecho 80 cm; Cintura 59 cm; Caderas 84 cm. Longitud de espalda (talla M): 74,5 cm
 

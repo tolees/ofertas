@@ -28,14 +28,14 @@ Tienes [Chivas Regal 18 Años Whisky Escocés de Mezcla Premium  700ml](https://
 
 ℹ️:
 
+- Color: oro
 - Perfecto como un regalo
-- Acabado: larga duración, afrutado
-- Como servir: Serve at room temperature
 - Sabor: aterciopelado, floral, chocolate negro, toques de humo dulce y suave
+- Acabado: larga duración, afrutado
+- Procedencia: Scotland
+- Como servir: Serve at room temperature
+- Nariz: rica, notas de fruta seca, caramelo, chocolate negro
 - Contenido de alcohol (alc/vol): 40.0 percent by volume
 - Tipo de alcohol: Whiskey
-- Nariz: rica, notas de fruta seca, caramelo, chocolate negro
-- Color: oro
-- Procedencia: Scotland
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B001P4SF0C/?tag=tolees-21)

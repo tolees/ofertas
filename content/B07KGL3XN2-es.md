@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ideal casa - IDEALCASA Alicia en el País al 58.64 % de descuento'
-date: 2021-03-09 22:28:34
+date: 2021-03-11 04:59:58
 image: 'https://m.media-amazon.com/images/I/515ZSE-bBaL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Ahora mismo tienes [Ideal casa - IDEALCASA Alicia en el País De Las Maravillas 
 
 🔎:
 
+- Taza: 280.95 cl
+- Material: dolomita
 - Decoración: calca completa y detalles pintados a mano
 - Otras: Calcas diferentes en cada lado de la tetera
 - Producto con licencia oficial; taza: 11.5 x 8 x 11 cm; / 220 gr
-- Material: dolomita
-- Taza: 280.95 cl
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07KGL3XN2/?tag=tolees-21)

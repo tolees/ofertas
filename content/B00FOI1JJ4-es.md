@@ -28,10 +28,10 @@ Tienes [Levi s Classic Twill Red Tab  Gorra de béisbol Hombre  Negro  Black   T
 
 🔎:
 
-- Información sobre las tallas y medidas de la gorra: Ajustable - La tira trasera permite adaptarse a la mayoría de tallas hasta los 61 cm cómodamente.
 - Ojales para asegurar una mayor transpiración
+- La estructura de la copa tiene 6 paneles
 - Etiqueta roja de Levis
 - Tira ajustable de piel en la parte trasera
-- La estructura de la copa tiene 6 paneles
+- Información sobre las tallas y medidas de la gorra: Ajustable - La tira trasera permite adaptarse a la mayoría de tallas hasta los 61 cm cómodamente.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00FOI1JJ4/?tag=tolees-21)
