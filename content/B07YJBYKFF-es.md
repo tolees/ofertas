@@ -28,8 +28,8 @@ Ahora mismo tienes [Wrangler Striped High Rib Camiseta  Verde Lime Sherbet G17  
 
 🔎:
 
+- Camiseta para mujer
 - Tiene un llamativo logo en el pecho
 - Con rayas a contraste
-- Camiseta para mujer
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07YJBYKFF/?tag=tolees-21)

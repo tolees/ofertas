@@ -29,8 +29,8 @@ En este momento está [Funko - Pop Heroes: Batman 80th - Red Son Batman  2003 ](
 🔎:
 
 - Funko pop is the 2018 toy of the year and peoples choice award winner
-- Figure stands 9cm and comes in a window display box
-- Check out the other marvel figures from funko collect them all
 - From batman, red son batman, as a stylized pop vinyl from funko
+- Check out the other marvel figures from funko collect them all
+- Figure stands 9cm and comes in a window display box
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07SQY43GR/?tag=tolees-21)

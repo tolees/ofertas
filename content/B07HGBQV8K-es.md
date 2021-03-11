@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NOX XTREME PRODUCTS - Nox Infinity Neon  con un 27.18 % de descuento'
-date: 2021-03-07 19:05:42
+date: 2021-03-11 14:47:43
 image: 'https://m.media-amazon.com/images/I/312sY30JNlL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ En este momento está [NOX XTREME PRODUCTS - Nox Infinity Neon -NXINFTYNEON- Caj
 
 🔎:
 
-- Controlador luces ARGB - USB 3.0 de alta velocidad
 - Controladora integrada con capacidad de controlar hasta 4 ventiladores (3 pines). Los ventiladores adicionales se podrán conectar a la placa base o a una controladora adicional no incluida
+- Controlador luces ARGB - USB 3.0 de alta velocidad
 - Tira frontal ARGB Rainbow dinámica - Compatible con tarjetas gráficas de 370 mm
-- Panel lateral de cristal templado - Espacio para instalar hasta 6 ventiladores
 - Ventilador de 120 mm ARGB Rainbow pre-instalado
+- Panel lateral de cristal templado - Espacio para instalar hasta 6 ventiladores
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07HGBQV8K/?tag=tolees-21)

@@ -28,8 +28,8 @@ Está [New Ray - Moto KTM Factory Racing Marvin Musquin N° 25](https://www.amaz
 
 ℹ️:
 
-- Marvin Musquin, piloto francés que ganó dos títulos de campeón del mundo.
 - ganó la Monster Cup en 2017 y la Red Bull Straight Tráfico EN2014, 2016 y 2017.
+- Marvin Musquin, piloto francés que ganó dos títulos de campeón del mundo.
 - Réplica oficial en Die-casta de la moto del Team Red Bull KTM Factory Racing piloto Marvino Musquino N° 25
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B079NXV5G6/?tag=tolees-21)

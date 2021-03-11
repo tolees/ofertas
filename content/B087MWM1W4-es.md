@@ -29,8 +29,8 @@ Tienes [Funko- Pop TV How I Met Your Mother-Barney in Suit Figura coleccionable 
 🔎:
 
 - De la colección How I Met Your Mother, Barney in Suit como figura de vinilo POP de Funko
-- La figura mide 9 cm y se envía en una caja ilustrada con ventana
-- ¡Descúbre otras figuras de la colección How I Met Your Mother y colecciónalas todas!
 - Funko POP! El juguete del año 2018
+- ¡Descúbre otras figuras de la colección How I Met Your Mother y colecciónalas todas!
+- La figura mide 9 cm y se envía en una caja ilustrada con ventana
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B087MWM1W4/?tag=tolees-21)
