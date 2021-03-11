@@ -28,9 +28,9 @@ En este momento está [Hurley M Native S/S](https://www.amazon.es/dp/B08GYNDCHD/
 
 🔎:
 
-- Etiqueta con el logotipo de Hurley.
-- Estampado suave al tacto.
 - Tejido de jersey 150 g.
+- Etiqueta con el logotipo de Hurley.
 - 100 % Algodón.
+- Estampado suave al tacto.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08GYNDCHD/?tag=tolees-21)

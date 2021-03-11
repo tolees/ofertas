@@ -28,9 +28,9 @@ Ahora mismo tienes [Funko - Pop! Rocks: Motorhead - Lemmy](https://www.amazon.es
 
 🔎:
 
-- Funko pop. El juguete del año 2018
-- Descúbre otras figuras de la colección motorhead y colecciónalas todas
-- De la colección motorhead, lemmy como figura de vinilo pop de funko
 - La figura mide 9 cm y se envía en una caja ilustrada con ventana
+- Descúbre otras figuras de la colección motorhead y colecciónalas todas
+- Funko pop. El juguete del año 2018
+- De la colección motorhead, lemmy como figura de vinilo pop de funko
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07XF7PRDR/?tag=tolees-21)

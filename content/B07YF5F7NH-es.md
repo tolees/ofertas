@@ -28,9 +28,9 @@ Ahora mismo tienes [Microsoft Surface Arc - Ratón Azul](https://www.amazon.es/d
 
 🔎:
 
-- Se aplana para cerrar y cabe fácilmente en un bolsillo o bolso
 - Ultrafino y ligero
 - Se conecta de forma inalámbrica a través de Bluetooth 4.0 o superior
 - Panel de desplazamiento completo para movimientos verticales y horizontales
+- Se aplana para cerrar y cabe fácilmente en un bolsillo o bolso
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07YF5F7NH/?tag=tolees-21)

@@ -28,10 +28,10 @@ Ahora mismo tienes [CNYMANY - Ratón Gaming Programable 8 Botones Programables  
 
 🔎:
 
-- [ Ratón Gaming Duradero] El revestimiento suave le brinda un agarre cómodo y un control fácil. La elegante luz de fondo RGB y la calidad estable hacen del mouse un arma confiable para jugar. Compatibilidad con ratones para juegos de PC: Windows 10, Windows 8, Windows 7, Windows Vista o Windows XP
-- [Programable Ratón Gaming Ajustable DPI] Disponible que otros niveles de 4 DPI: 1200/1600/2400/3200. Con un software profesional para mouse RGB para juegos, puede lograr un equilibrio entre precisión y precisión configurando 7 botones programables, ajustando DPI, velocidad de la rueda, 7 RGB, etc.
 - [Diseño único, Larga Vida útil] Este mouse está diseñado ergonómicamente para prevenir la tendinitis de la muñeca. El mouse para juegos USB de diseño ergonómico es adecuado para usuarios diestros y zurdos. Los botones laterales están solo en el lado izquierdo, proporcionando una sensación de comodidad. El ratón óptico para juegos CNYMANY ha sido sometido a una serie de pruebas.
+- [Programable Ratón Gaming Ajustable DPI] Disponible que otros niveles de 4 DPI: 1200/1600/2400/3200. Con un software profesional para mouse RGB para juegos, puede lograr un equilibrio entre precisión y precisión configurando 7 botones programables, ajustando DPI, velocidad de la rueda, 7 RGB, etc.
 - [4 Pesos Móviles] El mouse para juegos le proporciona 4 pesos adicionales. Puede ajustar el peso del mouse de acuerdo con sus necesidades para que se sienta más cómodo al jugar juegos (6.0 g / 0.21 oz por pieza)
+- [ Ratón Gaming Duradero] El revestimiento suave le brinda un agarre cómodo y un control fácil. La elegante luz de fondo RGB y la calidad estable hacen del mouse un arma confiable para jugar. Compatibilidad con ratones para juegos de PC: Windows 10, Windows 8, Windows 7, Windows Vista o Windows XP
 - [8 Botones Programables] El ratón con cable tiene un botón de disparo independiente (haga clic tres veces), lo que permite a los jugadores activar rápidamente la función de disparo constante con una simple pulsación. El mouse ergonómico proporciona una experiencia extremadamente cómoda y precisa para Fortnite Games, SIMS 4, Fallout 4, World of Warcraft, PUGB y otros juegos de computadora.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08FSVXNC2/?tag=tolees-21)

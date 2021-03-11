@@ -28,10 +28,10 @@ Tienes [Grupo Erik - Álbum fotos Scrapbook 40 páginas 25x25 CM](https://www.am
 
 🔎:
 
-- Compuesto por 20.hojas blancos ideales para escribir notas cerca a las fotos para no olvidar ningún acontecimiento importante
+- Álbum estilo vintage a tema viajes, ideal para guardar las fotos más bellas de tus aventuras
 - Fantastica idea regalo para amigos o familiares; lasciali a la boca abierta con una serie de emocionantes imágenes compartidos
 - Tamaño: x cm; los hojas tienen un peso aproximado de 120.gramos, para asegurar una gran resistencia al artículo
-- Álbum estilo vintage a tema viajes, ideal para guardar las fotos más bellas de tus aventuras
 - Producto con materiales de máxima calidad con las licencias más demandas del público
+- Compuesto por 20.hojas blancos ideales para escribir notas cerca a las fotos para no olvidar ningún acontecimiento importante
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07KS9VN9W/?tag=tolees-21)
