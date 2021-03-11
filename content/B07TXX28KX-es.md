@@ -28,8 +28,8 @@ En este momento está [Wrangler 5 Pocket Short Pantalones Cortos  Azul  Game ON 
 
 🔎:
 
-- Estilo casual
 - Tienen un parche en el bolsillo trasero con la marca Wrangler
+- Estilo casual
 - Presentan 5 bolsillos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07TXX28KX/?tag=tolees-21)

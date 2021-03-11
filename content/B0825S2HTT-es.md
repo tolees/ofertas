@@ -28,11 +28,11 @@ Ahora mismo tienes [GEOX B KILWI BOY D NAVY Baby Boys  Trainers Hi-Top Trainers 
 
 🔎:
 
-- Tipo de talla: Los zapatos Geox son holgados
 - Altura del tacón: 1.5 centímetros
 - Cierre: Cremallera
+- Material exterior: Cuero
 - Revestimiento: Lona
 - Material de la suela: Caucho
-- Material exterior: Cuero
+- Tipo de talla: Los zapatos Geox son holgados
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0825S2HTT/?tag=tolees-21)

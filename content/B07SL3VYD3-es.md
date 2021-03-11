@@ -28,8 +28,8 @@ En este momento está [Vans MN Classic Crew II Sudadera  Negro  Black-White Y28 
 
 🔎:
 
+- Ver descripción del producto para obtener más información.
 - Vans Negro Sudadera clásica
 - A estrenar y genuina. Somos un vendedor autorizado de Vans.
-- Ver descripción del producto para obtener más información.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07SL3VYD3/?tag=tolees-21)

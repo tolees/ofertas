@@ -29,8 +29,8 @@ Está [Funko - POP Rides: Game of Thrones - Daenerys on Fiery Drogon](https://ww
 ℹ️:
 
 - From game of thrones, daenerys on fiery drogon, as a stylized pop rides vinyl from funko
+- Funko pop is the 2018 toy of the year and peoples choice award winner
 - Check out the other game of thrones figures from funko collect them all
 - Figure stands 16cm and comes in a window display box
-- Funko pop is the 2018 toy of the year and peoples choice award winner
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07SNR71JH/?tag=tolees-21)

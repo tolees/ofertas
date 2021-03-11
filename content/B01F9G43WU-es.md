@@ -28,9 +28,9 @@ En este momento está [SanDisk SDSSDA-240G Plus – Disco sólido interno de 240
 
 🔎:
 
+- Arranque, apagado, carga de aplicaciones y respuesta más rápidos
 - 240 GB: velocidades de lectura/escritura de hasta 535 MB/s/445 MB/s
 - Ofrece resistencia probada a golpes y vibraciones
 - Hasta 20 veces más rápida que un disco duro estándar
-- Arranque, apagado, carga de aplicaciones y respuesta más rápidos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01F9G43WU/?tag=tolees-21)

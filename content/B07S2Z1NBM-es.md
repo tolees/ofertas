@@ -28,9 +28,9 @@ Está [New Balance 373 Core  Zapatillas Hombre  Negro  Black/White Ca2   44 EU](
 
 ℹ️:
 
-- Parte superior de gamuza
-- Suela de goma
 - Entresuela de espuma EVA y talón para amortiguación
 - Sujeción suave bajo los pies
+- Parte superior de gamuza
+- Suela de goma
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07S2Z1NBM/?tag=tolees-21)
