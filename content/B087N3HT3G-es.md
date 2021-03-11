@@ -29,8 +29,8 @@ En este momento está [Funko- Pop Vinyl 1990-Leonardo Teenage Mutant Ninja Turtl
 🔎:
 
 - La figura mide 9 cm y se envía en una caja ilustrada con ventana
-- Funko POP! El juguete del año 2018
-- ¡Descúbre otras figuras de la colección Teenage Mutant Ninja Turtles 1990 y colecciónalas todas!
 - De la colección Teenage Mutant Ninja Turtles 1990, Leonardo como figura de vinilo POP de Funko
+- ¡Descúbre otras figuras de la colección Teenage Mutant Ninja Turtles 1990 y colecciónalas todas!
+- Funko POP! El juguete del año 2018
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B087N3HT3G/?tag=tolees-21)

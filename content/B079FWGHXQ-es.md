@@ -28,9 +28,9 @@ Tienes [Trust Gaming GXT 707R Resto - Silla para Gaming  Color Rojo](https://www
 
 🔎:
 
+- Cilindro elevador de gas de Clase 4 para ajustar la altura. Respaldo ajustable en 90˚
 - Duradero, ruedas dobles que giran con suavidad
 - Bastidor metálico sólido y robusto
-- Cilindro elevador de gas de Clase 4 para ajustar la altura. Respaldo ajustable en 90˚
 - Asiento reclinable con posibilidades de bloqueo. Incluye cojines extraíbles y ajustables para la zona lumbar y cervical
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B079FWGHXQ/?tag=tolees-21)

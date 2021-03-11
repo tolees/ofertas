@@ -29,9 +29,9 @@ En este momento está [NOX XTREME PRODUCTS - Nox Infinity Neon -NXINFTYNEON- Caj
 🔎:
 
 - Tira frontal ARGB Rainbow dinámica - Compatible con tarjetas gráficas de 370 mm
-- Controlador luces ARGB - USB 3.0 de alta velocidad
 - Panel lateral de cristal templado - Espacio para instalar hasta 6 ventiladores
 - Ventilador de 120 mm ARGB Rainbow pre-instalado
+- Controlador luces ARGB - USB 3.0 de alta velocidad
 - Controladora integrada con capacidad de controlar hasta 4 ventiladores (3 pines). Los ventiladores adicionales se podrán conectar a la placa base o a una controladora adicional no incluida
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07HGBQV8K/?tag=tolees-21)
