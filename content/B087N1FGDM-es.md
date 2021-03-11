@@ -28,9 +28,9 @@ Está [Funko- Pop Vinyl 1990-Donatello Teenage Mutant Ninja Turtles 1990 Donatel
 
 ℹ️:
 
-- ¡Descúbre otras figuras de la colección Teenage Mutant Ninja Turtles 1990 y colecciónalas todas!
 - Funko POP! El juguete del año 2018
-- De la colección Teenage Mutant Ninja Turtles 1990, Donatello como figura de vinilo POP de Funko
 - La figura mide 9 cm y se envía en una caja ilustrada con ventana
+- ¡Descúbre otras figuras de la colección Teenage Mutant Ninja Turtles 1990 y colecciónalas todas!
+- De la colección Teenage Mutant Ninja Turtles 1990, Donatello como figura de vinilo POP de Funko
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B087N1FGDM/?tag=tolees-21)

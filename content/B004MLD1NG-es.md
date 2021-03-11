@@ -28,12 +28,12 @@ Está [Mann Filter - MANN-FILTERW68 Filtro de Aceite](https://www.amazon.es/dp/B
 
 ℹ️:
 
+- Diám. int. 2[mm]: 62
+- Altura [mm]: 75
 - Diámetro exterior [mm]: 66
 - presión apertura válvula de desviación [bar]: 1,5
-- Altura [mm]: 75
-- Nº art. herramienta recomendada: LS 6
 - Medida de rosca: M 20 X 1.5
-- Diám. int. 2[mm]: 62
 - Diám. int. 1 [mm]: 52
+- Nº art. herramienta recomendada: LS 6
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B004MLD1NG/?tag=tolees-21)

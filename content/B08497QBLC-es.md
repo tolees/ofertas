@@ -28,10 +28,10 @@ Ahora mismo tienes [Ravensburger - Multipack Cry Babies  Ravensburger 20620 ](ht
 
 🔎:
 
-- Desarrolla habilidades de observación y memoria
-- Para niños a partir de 4 años
-- Formato caja: 19x19x5 cm
 - Un memory y 3 puzzles Ravensburger para descubrir los personajes de Cry Babies
+- Para niños a partir de 4 años
 - Un divertido set con el memory y 3 puzzle de Cry Babies
+- Desarrolla habilidades de observación y memoria
+- Formato caja: 19x19x5 cm
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08497QBLC/?tag=tolees-21)

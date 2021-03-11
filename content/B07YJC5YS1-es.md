@@ -28,8 +28,8 @@ Está [Wrangler Chino Short Bañador  Azul  Blue Graphite X15   W Talla de Fabri
 
 ℹ️:
 
-- Pantalones cortos para hombre
 - Estilo casual
 - Tienen el logo de la marca bordado en la parte trasera
+- Pantalones cortos para hombre
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07YJC5YS1/?tag=tolees-21)

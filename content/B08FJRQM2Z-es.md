@@ -28,10 +28,10 @@ Ahora mismo tienes [Meridiem Games - Tanuki Justice](https://www.amazon.es/dp/B0
 
 🔎:
 
-- Juego dinámico con configuraciones visuales que coinciden con el estado de ánimo, jugable en modo de un jugador o dos jugadores
-- Un juego que es a la vez simple y rico que permite acciones y desafíos espectaculares que desafiarán a los jugadores más hábiles
-- Ambientes variados y coloridos, música retro y dinámica, acción sostenida y original revestida de una dificultad que recuerda a los buenos juegos de arcade
 - Enfréntate a docenas de diferentes tipos de enemigos usando tus shurikens infinitos y salva al shuriken gigante para los tiempos difíciles
+- Juego dinámico con configuraciones visuales que coinciden con el estado de ánimo, jugable en modo de un jugador o dos jugadores
 - Tanuki Justice es un runn gun ultra nervioso en el que juegas como los hermanos Tanuki; te enfrentarás a cientos de enemigos en el corazón del Japón feudal
+- Ambientes variados y coloridos, música retro y dinámica, acción sostenida y original revestida de una dificultad que recuerda a los buenos juegos de arcade
+- Un juego que es a la vez simple y rico que permite acciones y desafíos espectaculares que desafiarán a los jugadores más hábiles
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08FJRQM2Z/?tag=tolees-21)

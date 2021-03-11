@@ -28,10 +28,10 @@ Tienes [Adesivi Compulsivi - Adhesivos resinados con el emblema/logotipo de Harl
 
 🔎:
 
-- Dimensiones:48 x 37 mm.
 - 100 % fabricado en Italia.
-- --
+- Dimensiones:48 x 37 mm.
 - La resina hace que el adhesivo sea más luminoso y lo protege de los arañazos y condiciones a la intemperie.
 - Material de gran calidad, resistente a los lavados.
+- --
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0767LHG4Y/?tag=tolees-21)

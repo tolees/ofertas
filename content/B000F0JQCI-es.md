@@ -28,10 +28,10 @@ Tienes [NGK BR8HS - Bujía](https://www.amazon.es/dp/B000F0JQCI/?tag=tolees-21) 
 
 ℹ️:
 
-- Wir führen hochwertige Qualitäts-Zündkerzen von NGK!
+- Zur Vermeidung von Störungen von Funkfrequenzen setzen die Hersteller sogenannte entstörte Zündkerzenstecker und ggf. entstörte Zündkerzen ein.
 - Der nach dem Wärmewert folgende Buchstabe kennzeichnet die Gewindelänge. E = Langgewinde H = Kurzgewinde
 - Die meist gebräuchlichen Zündkerzen für Zweiräder haben ein Gewinde von M14x1,25 SW 20,8 und unterscheiden sichdurch ein Langgewinde 19mm oder ein Kurzgewinde 12,7mm.
-- Zur Vermeidung von Störungen von Funkfrequenzen setzen die Hersteller sogenannte entstörte Zündkerzenstecker und ggf. entstörte Zündkerzen ein.
 - APEX Pro Shark 90
+- Wir führen hochwertige Qualitäts-Zündkerzen von NGK!
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000F0JQCI/?tag=tolees-21)

@@ -28,9 +28,9 @@ Está [PUMA ftblNXT ST Espinillera Futbol  Unisex-Adult  Shocking Orange Black W
 
 ℹ️:
 
-- TPU, PU, poliéster y elastano
 - Bolsillos en las perneras para introducir las espinilleras y proporcionar un ajuste seguro y cómodo
-- Juego de dos piezas con espinilleras y perneras de compresión
+- TPU, PU, poliéster y elastano
 - Logotipo del felino de PUMA en las perneras y las espinilleras
+- Juego de dos piezas con espinilleras y perneras de compresión
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B086NF9T1S/?tag=tolees-21)

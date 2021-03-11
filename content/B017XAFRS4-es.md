@@ -29,9 +29,9 @@ Tienes [Karcher - Kärcher Pistola pulverizadora  2.645-265.0 ](https://www.amaz
 🔎:
 
 - Adecuada para el riego de huertos florales y de plantas
-- Dispositivo sencillo de fijación de la empuñadura de disparo
-- Protección óptima contra daños causados por la congelación
 - Regulación del caudal de agua con una sola mano
+- Protección óptima contra daños causados por la congelación
 - Patrón de pulverización ajustable gradualmente desde chorro concentrado hasta chorro de cono
+- Dispositivo sencillo de fijación de la empuñadura de disparo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B017XAFRS4/?tag=tolees-21)

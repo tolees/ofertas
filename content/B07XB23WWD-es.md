@@ -28,9 +28,9 @@ En este momento está [Funko - Pop! Wonder Woman 1984: Wonder Woman  Gold Flying
 
 🔎:
 
-- La figura mide 9 cm y se envía en una caja ilustrada con ventana
+- Descúbre otras figuras de la colección wonder woman 1984 y colecciónalas todas
 - De la colección wonder woman 1984, wonder woman (gold flying pose) como figura de vinilo pode funko
 - Funko pop; el juguete del año 2018
-- Descúbre otras figuras de la colección wonder woman 1984 y colecciónalas todas
+- La figura mide 9 cm y se envía en una caja ilustrada con ventana
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07XB23WWD/?tag=tolees-21)

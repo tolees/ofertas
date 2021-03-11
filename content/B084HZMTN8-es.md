@@ -28,9 +28,9 @@ En este momento está [Funko- Pop Animation: Simpsons-Devil Flanders Figura Cole
 
 🔎:
 
-- La figura mide 9 cm y se envía en una caja ilustrada con ventana
 - De la colección simpsons, devil flanders como figura de vinilo pop de funko
 - Funko pop. El juguete del año 2018
+- La figura mide 9 cm y se envía en una caja ilustrada con ventana
 - Descúbre otras figuras de la colección simpsons y colecciónalas todas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B084HZMTN8/?tag=tolees-21)

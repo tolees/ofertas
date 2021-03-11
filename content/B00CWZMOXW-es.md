@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 36.32 % en Tayg Caja herramientas n. 500-E  500 x 2'
-date: 2021-03-10 09:20:54
+date: 2021-03-11 15:27:28
 image: 'https://m.media-amazon.com/images/I/413qM2tx7cL._SL400_.jpg'
 comments: true
 category: ofertas

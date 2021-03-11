@@ -28,9 +28,9 @@ En este momento está [Funko Pop! Marvel: Black Widow – Black Widow  White Sui
 
 🔎:
 
+- De la colección black widow, black widow (white suit) como figura de vinilo pop de funko
+- Descúbre otras figuras de la colección marvel y colecciónalas todas
 - Funko pop; el juguete del año 2018
 - La figura mide 9 cm y se envía en una caja ilustrada con ventana
-- Descúbre otras figuras de la colección marvel y colecciónalas todas
-- De la colección black widow, black widow (white suit) como figura de vinilo pop de funko
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07XD4Z73Y/?tag=tolees-21)
