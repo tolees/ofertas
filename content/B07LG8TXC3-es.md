@@ -28,9 +28,9 @@ En este momento está [Talisker Select Reserve - Whisky escocés puro de malta -
 
 🔎:
 
-- Este Talisker ofrece a la nariz un humo de pimienta seca de Sichuán y chocolate oscuro, al paladar caramelo salado con una explosión de copos de chile y un acabado largo y complejo
-- El color cobrizo dorado de este Talisker se debe al uso de antiguos barriles americanos de roble fuertemente calcinados que solían contener Bourbon
-- El regalo perfecto para los amantes del whisky y fanáticos de las series: DIAGEO y HBO lanzan la edición limitada de whiskies escoceses puros de malta inspirados en Juego de Tronos
 - Los sabores estratificados y el carácter marítimo inconfundibles del Talisker Select Reserva son el resultado de una isla azotada por el viento y las olas
+- Este Talisker ofrece a la nariz un humo de pimienta seca de Sichuán y chocolate oscuro, al paladar caramelo salado con una explosión de copos de chile y un acabado largo y complejo
+- El regalo perfecto para los amantes del whisky y fanáticos de las series: DIAGEO y HBO lanzan la edición limitada de whiskies escoceses puros de malta inspirados en Juego de Tronos
+- El color cobrizo dorado de este Talisker se debe al uso de antiguos barriles americanos de roble fuertemente calcinados que solían contener Bourbon
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07LG8TXC3/?tag=tolees-21)

@@ -28,9 +28,9 @@ Está [Zotal Parasital Blíster con 4 Pipetas de 5 ml para Perros Grandes - Tota
 
 ℹ️:
 
-- Garrapatas, pulgas, moscas e incluso el mosquito transmisor de la leishmaniasis, dejarán de ser un problema, proporcionando bienestar y tranquilidad tanto a dueños como a mascotas
-- Utilizar sobre perros y gatos no infestados, aplicando el contenido de las pipetas antiparásitos necesarias en la zona de unión entre el cuello y la espalda
 - Gracias a su composición a base de ingredientes activos naturales, actúa con eficacia contra los eternos enemigos de nuestras mascotas: los parásitos externos
 - Pipeta antiparasitaria
+- Garrapatas, pulgas, moscas e incluso el mosquito transmisor de la leishmaniasis, dejarán de ser un problema, proporcionando bienestar y tranquilidad tanto a dueños como a mascotas
+- Utilizar sobre perros y gatos no infestados, aplicando el contenido de las pipetas antiparásitos necesarias en la zona de unión entre el cuello y la espalda
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00O4B1QKE/?tag=tolees-21)

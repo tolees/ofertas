@@ -28,8 +28,8 @@ Ahora mismo tienes [Lee Extreme Motion Straight Jeans  Trip  32W / 30L para Homb
 
 🔎:
 
-- Clasico botón tipo “donut”
-- Cintura flexible
 - Tejido elástico
+- Cintura flexible
+- Clasico botón tipo “donut”
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07JW42CDR/?tag=tolees-21)

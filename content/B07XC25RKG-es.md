@@ -28,9 +28,9 @@ Tienes [Funko - Pop! Disney: Frozen 2 - Elsa  Epilogue ](https://www.amazon.es/d
 
 ℹ️:
 
-- Descúbre otras figuras de la colección disney y colecciónalas todas
-- Funko pop; el juguete del año 2018
 - La figura mide 9 cm y se envía en una caja ilustrada con ventana
+- Funko pop; el juguete del año 2018
 - De la colección frozen 2, elsa (epilogue) como figura de vinilo pode funko
+- Descúbre otras figuras de la colección disney y colecciónalas todas
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07XC25RKG/?tag=tolees-21)

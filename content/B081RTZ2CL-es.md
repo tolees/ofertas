@@ -29,9 +29,9 @@ Ahora mismo tienes [PUMA At ESS Barrel Bag Bolsa Deporte  Mujer  Foxglove Black 
 🔎:
 
 - Bolsillo con cremallera pequeño en el interior
+- Abertura con cremallera de doble cursor para el compartimento principal
 - Asas de transporte de cincha
 - Correa ajustable de cincha para el hombro
 - Bolsillo con cremallera completa en la parte delantera cubierto por una solapa
-- Abertura con cremallera de doble cursor para el compartimento principal
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B081RTZ2CL/?tag=tolees-21)
