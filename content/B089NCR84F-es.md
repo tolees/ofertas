@@ -28,10 +28,10 @@ Tienes [Anpro 160 PCS Tie Dye Kit 14 Colores Tintes Textiles Brillantes Tie Dye 
 
 🔎:
 
-- Regalo ideal: embalaje de caja de regalo, muy adecuado para artículos personales de bricolaje y entretenimiento en el hogar, también adecuado como regalo para niños o amigos.
 - 160 piezas de juego de bricolaje tie-dye: 14 tintes de colores brillantes en una botella exprimible (100 ml por botella, 5 g de polvo), 15 pares de guantes de plástico, 120 gomas, 9 bolsas ziplock, 1 mantel de plástico, 1 corbata Instrucciones para teñir.
-- Seguro y no tóxico: aprobado por ASTM y EN71, adecuado para personas de todas las edades, especialmente guantes protectores y manteles, completamente adecuado para niños y adultos.
-- Amplia gama de usos: se puede usar en algodón 100%, rayón y otros materiales, ya que pueden dar un juego completo a colores brillantes, adecuados para camisetas / faldas / bufandas / almohadas / sábanas / bolsos, etc.
 - Fácil de usar: 14 botellas de botellas de tinte altamente concentrado, fáciles de exprimir, solo agregue agua antes de teñir, agite y exprima la botella. Con etiquetas de color y nombres de colores, puede encontrar fácilmente el color que necesita, que definitivamente es adecuado para principiantes.
+- Regalo ideal: embalaje de caja de regalo, muy adecuado para artículos personales de bricolaje y entretenimiento en el hogar, también adecuado como regalo para niños o amigos.
+- Amplia gama de usos: se puede usar en algodón 100%, rayón y otros materiales, ya que pueden dar un juego completo a colores brillantes, adecuados para camisetas / faldas / bufandas / almohadas / sábanas / bolsos, etc.
+- Seguro y no tóxico: aprobado por ASTM y EN71, adecuado para personas de todas las edades, especialmente guantes protectores y manteles, completamente adecuado para niños y adultos.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B089NCR84F/?tag=tolees-21)

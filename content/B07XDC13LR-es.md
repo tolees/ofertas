@@ -28,10 +28,10 @@ En este momento está [Xiaomi Mi LED Smart Bulb White and Color Bombilla E27  10
 
 🔎:
 
-- Potencia: 220-240 V, 50/60 Hz, 0,09 A.
-- Frecuencia: 2400 MHz - 2483,5 MHz.
 - Conexión Wi-Fi: Wi-Fi IEEE 802.11 b/g/n 2,4 GHz.
-- 800 lúmenes.
+- Frecuencia: 2400 MHz - 2483,5 MHz.
 - Android 4.4 y iOS 8.0.
+- 800 lúmenes.
+- Potencia: 220-240 V, 50/60 Hz, 0,09 A.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07XDC13LR/?tag=tolees-21)

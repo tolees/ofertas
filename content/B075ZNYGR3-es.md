@@ -28,13 +28,13 @@ En este momento está [Hugo BOSS Reloj Cronógrafo para Hombre de Cuarzo con Cor
 
 🔎:
 
-- Cierre de hebilla
-- Forma del producto: redondo
-- Color del dial: beige
-- Resistencia al agua 3 ATM
-- Pulsera de cuero
-- Acabado esmaltado
 - Color de la correa: marrón
+- Acabado esmaltado
+- Resistencia al agua 3 ATM
 - Mecanismo cuarzo cronógrafo
+- Color del dial: beige
+- Pulsera de cuero
+- Forma del producto: redondo
+- Cierre de hebilla
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B075ZNYGR3/?tag=tolees-21)

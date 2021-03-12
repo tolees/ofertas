@@ -28,11 +28,11 @@ Tienes [Sony SRS-XB12  Altavoz  Inalámbrico y alámbrico  MicroUSB  Tamaño Ún
 
 🔎:
 
-- Se suministra con correa desmontable
-- Hasta 16 horas de duración de la batería
+- Diseño compacto y portátil
 - Bluetooth: Versión 4.2; Perfiles compatibles; A2DP/AVRCP/HFP/HSP; Códecs compatibles: SBC/AAC; Rango de frecuencia; 2,4 GHz
 - Resistente al agua y al polvo (calificación IP67)
-- Diseño compacto y portátil
 - Extra Bass para un sonido rotundo y profundo
+- Se suministra con correa desmontable
+- Hasta 16 horas de duración de la batería
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07MF9PRV4/?tag=tolees-21)
