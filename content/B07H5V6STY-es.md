@@ -28,10 +28,10 @@ Está [Urban Armor Gear Plyo Funda para Apple iPhone Xs Max Carcasa con estánda
 
 ℹ️:
 
-- Dispone de una excelente bolsa protectora hecha de un compuesto de policarbonato duro y un marco flexible de material repelente al polvo y antideslizante.
 - Protege de forma fiable contra golpes, caídas, arañazos y suciedad; probado según la norma militar MIL-STD-810G 516.6, en la que una bolsa con smartphone o tableta tiene que soportar varias caídas sin sufrir daños.
 - La estructura con forma de panal proporciona una carcasa extraestable y fiable de pequeñas dimensiones y peso reducido.
-- La cubierta UAG ha sido desarrollada y fabricada para iPhone Xs Max. La pantalla está protegida por un borde que sobresale ligeramente.
+- Dispone de una excelente bolsa protectora hecha de un compuesto de policarbonato duro y un marco flexible de material repelente al polvo y antideslizante.
 - Con ranuras para cámaras, conexiones y coberturas para botones ampliadas y de fácil acceso. Totalmente compatible con la función de carga Qi inalámbrica.
+- La cubierta UAG ha sido desarrollada y fabricada para iPhone Xs Max. La pantalla está protegida por un borde que sobresale ligeramente.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07H5V6STY/?tag=tolees-21)

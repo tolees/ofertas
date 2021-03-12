@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Disney & Lucasfilm Ltd. - Pack Star Wars al 39.98 % de descuento'
-date: 2021-03-08 05:46:06
+date: 2021-03-12 14:11:36
 image: 'https://m.media-amazon.com/images/I/41Ue4nDTzgL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Disney & Lucasfilm Ltd.'
 buyurl: 'https://www.amazon.es/dp/B0857Y6HFK/?tag=tolees-21'
 descuento: '39.98'
-average: '55.6579999999998'
+average: '55.5678378378377'
 ---
 
 Está [Disney & Lucasfilm Ltd. - Pack Star Wars: The Skywalker Saga DVD  9 películas ](https://www.amazon.es/dp/B0857Y6HFK/?tag=tolees-21) con 39.98 de descuento por 53.99 EUR (original: 89.95 EUR) en el siguiente enlace!

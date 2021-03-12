@@ -28,10 +28,10 @@ Está [Tommy Hilfiger TJM Chest Logo tee Camiseta  Blanco  White   Medium para H
 
 ℹ️:
 
-- Bandera de Tommy Hilfiger bordada en el pecho
-- Cinta interior del cuello
-- Cuello abotonado
-- Algodón Oxford elástico
 - Corte entallado
+- Algodón Oxford elástico
+- Cinta interior del cuello
+- Bandera de Tommy Hilfiger bordada en el pecho
+- Cuello abotonado
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07W1VSQWD/?tag=tolees-21)

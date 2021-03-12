@@ -28,9 +28,9 @@ Tienes [Funko - Pop! Vinyl: Star Wars - 2PK Han & Leia](https://www.amazon.es/dp
 
 🔎:
 
-- Las figuras miden 9 cm y se envían en una caja ilustrada con ventana
 - Descúbre otras figuras de la colección star wars y colecciónalas todas
-- Funko pop. El juguete del año 2018
 - De la colección star wars, 2pk han leia como pack de 2 figuras de vinilo pop de funko
+- Las figuras miden 9 cm y se envían en una caja ilustrada con ventana
+- Funko pop. El juguete del año 2018
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07XG5MNW4/?tag=tolees-21)

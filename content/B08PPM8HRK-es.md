@@ -28,10 +28,10 @@ En este momento está [MHHQ para Xiaomi Mi 10T Lite Funda  2in1 Armadura Combina
 
 🔎:
 
+- 3, Tecnología avanzada de la absorción de choque, con los patrones geométricos amortiguadores de choque, le dan la mejor protección, ya no tienen que preocuparse de la gota del teléfono móvil
+- 5, Aleación de pata de cabra ángulo de visión ajustable para ver video de manos libres o el chat?2 in 1 design, provides a comfortable grip with minimal volume
 - 4, Un diverso sentido del tacto, anti-sudor, anti-huella digital, anti-rasguña, nunca se descolora color, artículo estupendo
 - 1, Ajuste de 100%, diseñado específicamente para la Huawei Mate 10 Pro , todos los botones y la interfaz puede acceder fácilmente
 - 2, Caso de doble capa consiste en una capa interna suave para proteger contra golpes y caídas, y una capa exterior resistente, dura para el refuerzo y definición
-- 3, Tecnología avanzada de la absorción de choque, con los patrones geométricos amortiguadores de choque, le dan la mejor protección, ya no tienen que preocuparse de la gota del teléfono móvil
-- 5, Aleación de pata de cabra ángulo de visión ajustable para ver video de manos libres o el chat?2 in 1 design, provides a comfortable grip with minimal volume
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08PPM8HRK/?tag=tolees-21)
