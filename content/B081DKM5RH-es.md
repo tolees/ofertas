@@ -28,10 +28,10 @@ Tienes [Aurotek H10 Casco Smart Bluetooth con LED  Adultos Unisex  Negro  Medio]
 
 ℹ️:
 
-- Todos los cascos aurotek, cuentan con el sistema patentado para la protección del cerebro, sistema de protección de impacto multidireccional. 2 años de garantía; se puede utilizar con lluvia, sol, calor
 - Indicadores led de señal de giro con crontol remoto inalámbrico; tiene 3 funciones de señal de giro: par pad e o doble, giro a la izquierda y derecha
-- Luz trasera led para seguridad con 3 modos de iluminación; ayuda a las personas que están detrás a reconocer su dirección
-- El casco incorpora altavoces con tecnología de conducción ósea, que permite al conductor escuchar también el entorno; micrófono incorporado en la correa
 - Casco inteligente de última generación con bluetooth y con led
+- Luz trasera led para seguridad con 3 modos de iluminación; ayuda a las personas que están detrás a reconocer su dirección
+- Todos los cascos aurotek, cuentan con el sistema patentado para la protección del cerebro, sistema de protección de impacto multidireccional. 2 años de garantía; se puede utilizar con lluvia, sol, calor
+- El casco incorpora altavoces con tecnología de conducción ósea, que permite al conductor escuchar también el entorno; micrófono incorporado en la correa
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B081DKM5RH/?tag=tolees-21)

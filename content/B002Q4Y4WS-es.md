@@ -28,10 +28,10 @@ Tienes [Targus AKP10EU Teclado Numérico](https://www.amazon.es/dp/B002Q4Y4WS/?t
 
 🔎:
 
-- Dispositivo plug-and-play, no requiere drivers
-- Funcionalidad: teclas cóncavas de tamaño estándar, cómodas y grandes para mas precision
-- Excelente para trabajar en hojas de calculo, archivos de contabilidad y aplicaciones financieras
 - Compatibilidad: requiere un puerto USB
+- Excelente para trabajar en hojas de calculo, archivos de contabilidad y aplicaciones financieras
+- Dispositivo plug-and-play, no requiere drivers
 - Ergonomico: con una inclinación ergonómica que proporciona soporte para evitar los problemas de muñecas
+- Funcionalidad: teclas cóncavas de tamaño estándar, cómodas y grandes para mas precision
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B002Q4Y4WS/?tag=tolees-21)

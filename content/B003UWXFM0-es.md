@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 36.54 % en TP-Link 24 Puertos Gigabit Switch | Ethe'
-date: 2021-03-11 03:41:18
+date: 2021-03-12 03:51:53
 image: 'https://m.media-amazon.com/images/I/41Gz7gYWa5L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.es/dp/B003UWXFM0/?tag=tolees-21'
 descuento: '36.54'
-average: '63.6166666666667'
+average: '63.95'
 ---
 
 Tienes [TP-Link 24 Puertos Gigabit Switch | Ethernet Switch No Gestionable | Puertos blindados | Carcasa Metálica | Desktop |Sin ventilador  TL-SG1024D  Gris](https://www.amazon.es/dp/B003UWXFM0/?tag=tolees-21) con un 36.54 % de descuento con precio de oferta de 64.95 EUR (original: 102.34 EUR) en el siguiente enlace!
