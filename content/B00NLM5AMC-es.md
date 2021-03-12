@@ -30,7 +30,7 @@ Tienes [Dimple Whisky Escocés  700ml](https://www.amazon.es/dp/B00NLM5AMC/?tag=
 
 - Volumen de líquidos: 0.7 Litros
 - Proveniente de Escocia
-- Adecuado para regalar
 - Contenido alcohólico: 40% en volumen
+- Adecuado para regalar
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00NLM5AMC/?tag=tolees-21)
