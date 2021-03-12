@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips BEARDTRIMMER Series 3000 Barbero al 35.50 % de rebaja'
-date: 2021-03-11 11:49:32
+date: 2021-03-12 11:59:29
 image: 'https://m.media-amazon.com/images/I/31omwrLtaEL._SL400_.jpg'
 comments: true
 category: ofertas

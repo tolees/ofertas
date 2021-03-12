@@ -28,10 +28,10 @@ Ahora mismo tienes [Ideal casa - IDEALCASA Alicia en el País De Las Maravillas 
 
 🔎:
 
-- Otras: Calcas diferentes en cada lado de la tetera
-- Decoración: calca completa y detalles pintados a mano
-- Taza: 280.95 cl
 - Material: dolomita
+- Taza: 280.95 cl
+- Otras: Calcas diferentes en cada lado de la tetera
 - Producto con licencia oficial; taza: 11.5 x 8 x 11 cm; / 220 gr
+- Decoración: calca completa y detalles pintados a mano
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07KGL3XN2/?tag=tolees-21)
