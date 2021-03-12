@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 36.96 % en APLI 10199 - Etiquetas  25 hojas  A4'
-date: 2021-03-11 10:51:57
+date: 2021-03-12 15:36:13
 image: 'https://m.media-amazon.com/images/I/517J+ur0RBL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'APLI'
 buyurl: 'https://www.amazon.es/dp/B000KJO5OI/?tag=tolees-21'
 descuento: '36.96'
-average: '8.645'
+average: '8.75333333333333'
 ---
 
 Tienes [APLI 10199 - Etiquetas  25 hojas  A4](https://www.amazon.es/dp/B000KJO5OI/?tag=tolees-21) con un 36.96 % de descuento con precio de oferta de 8.97 EUR (original: 14.23 EUR) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [APLI 10199 - Etiquetas  25 hojas  A4](https://www.amazon.es/dp/B000KJO5O
 
 ℹ️:
 
+- Medidas: 35.6 x 16.9
+- Las etiquetas autoadhesivas blancas para impresoras Inkjet, Láser y Fotocopiadora se caracterizan por su versatilidad, flexibilidad y sencillez de uso
 - Din A4
 - Nº de hojas por pack: 25 hojas
-- Las etiquetas autoadhesivas blancas para impresoras Inkjet, Láser y Fotocopiadora se caracterizan por su versatilidad, flexibilidad y sencillez de uso
 - Cantidad de etiquetas : 2000
-- Medidas: 35.6 x 16.9
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000KJO5OI/?tag=tolees-21)

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Descuento del 34.78 % en Heat Blu-Ray [Blu-ray]'
-date: 2021-03-11 10:19:52
-image: 'https://m.media-amazon.com/images/I/51+iOTuv88L._SL400_.jpg'
+date: 2021-03-12 16:06:18
+image: 'https://m.media-amazon.com/images/I/51X6VkmK9GL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -19,12 +19,12 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MUZ270R/?tag=tolees-21'
 descuento: '34.78'
-average: '7.958'
+average: '7.96090909090909'
 ---
 
 Tienes [Heat Blu-Ray [Blu-ray]](https://www.amazon.es/dp/B01MUZ270R/?tag=tolees-21) con un 34.78 % de descuento con precio de oferta de 7.99 EUR (original: 12.25 EUR) en el siguiente enlace!
 
-[![Heat Blu-Ray [Blu-ray]](https://m.media-amazon.com/images/I/51+iOTuv88L._SL400_.jpg)](https://www.amazon.es/dp/B01MUZ270R/?tag=tolees-21)
+[![Heat Blu-Ray [Blu-ray]](https://m.media-amazon.com/images/I/51X6VkmK9GL._SL400_.jpg)](https://www.amazon.es/dp/B01MUZ270R/?tag=tolees-21)
 
 ℹ️:
 

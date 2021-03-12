@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Victure AC700 Cámara Deportiva 4K Wi-Fi  al 37.50 % de descuento'
-date: 2021-03-11 09:33:12
+date: 2021-03-12 16:11:25
 image: 'https://m.media-amazon.com/images/I/51tKy+UgvwL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Victure'
 buyurl: 'https://www.amazon.es/dp/B07KWYPV1X/?tag=tolees-21'
 descuento: '37.50'
-average: '55.5828125'
+average: '55.5394573643411'
 ---
 
 Está [Victure AC700 Cámara Deportiva 4K Wi-Fi 20MP  Cámara de Accion Acuatica de 40M con Control Remoto y Micrófono Externo Funciones EIS Anti-Vibración y Slow Motion ](https://www.amazon.es/dp/B07KWYPV1X/?tag=tolees-21) con 37.50 de descuento por 49.99 EUR (original: 79.99 EUR) en el siguiente enlace!

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 43.30 % en Kingston A400 SSD SA400S37/480G - Disco '
-date: 2021-03-11 10:21:14
+date: 2021-03-12 16:17:20
 image: 'https://m.media-amazon.com/images/I/415CwmD3g-L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Kingston'
 buyurl: 'https://www.amazon.es/dp/B01N0TQPQB/?tag=tolees-21'
 descuento: '43.30'
-average: '52.15555'
+average: '52.1836138613861'
 ---
 
 Tienes [Kingston A400 SSD SA400S37/480G - Disco duro sólido interno 2.5" SATA 480GB](https://www.amazon.es/dp/B01N0TQPQB/?tag=tolees-21) con un 43.30 % de descuento con precio de oferta de 54.99 EUR (original: 96.99 EUR) en el siguiente enlace!
@@ -28,8 +28,8 @@ Tienes [Kingston A400 SSD SA400S37/480G - Disco duro sólido interno 2.5" SATA 4
 
 ℹ️:
 
-- Capacidad de la memoria: 480 GB
 - Velocidad de grabación: 450 MB/s
+- Capacidad de la memoria: 480 GB
 - Rendimiento óptimo para la transferencia de archivos
 - Fiable y resistente
 

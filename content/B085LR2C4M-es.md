@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Munich G-3 Kid Switch 132  Zapatillas  M al 50.05 % de rebaja'
-date: 2021-02-20 15:55:42
-image: 'https://m.media-amazon.com/images/I/41V5Me7+pqL._SL200_.jpg'
+date: 2021-03-12 17:02:52
+image: 'https://m.media-amazon.com/images/I/41V5Me7+pqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '25.95'
 
 Tienes [Munich G-3 Kid Switch 132  Zapatillas  Multicolor  37 EU](https://www.amazon.es/dp/B085LR2C4M/?tag=tolees-21) con precio final de  25.95 EUR (original: 51.95 EUR) (50.05 %  de rebaja) aqui!
 
-[![Munich G-3 Kid Switch 132  Zapatillas  M](https://m.media-amazon.com/images/I/41V5Me7+pqL._SL200_.jpg)](https://www.amazon.es/dp/B085LR2C4M/?tag=tolees-21)
+[![Munich G-3 Kid Switch 132  Zapatillas  M](https://m.media-amazon.com/images/I/41V5Me7+pqL._SL400_.jpg)](https://www.amazon.es/dp/B085LR2C4M/?tag=tolees-21)
 
 🔎:
 
