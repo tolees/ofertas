@@ -29,9 +29,9 @@ Ahora mismo tienes [PUMA Ralph Sampson Lo  Zapatillas Unisex Adulto  Blanco Wht 
 🔎:
 
 - Leather upper
-- Lace closure
 - Ralph Samson signature and PUMA Formstrip at sides
 - PUMA Wordmark at tongue
+- Lace closure
 - Rubber midsole and outsole
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07RV7KWBM/?tag=tolees-21)

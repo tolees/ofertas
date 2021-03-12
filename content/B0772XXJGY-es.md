@@ -28,10 +28,10 @@ Ahora mismo tienes [Columbia Silver Ridge II Pantalones de Senderismo Convertibl
 
 🔎:
 
-- Durabilidad y confort gracias al material de nylon Ripstop transpirable y al tejido elástico, Capacidad de secado rápido gracias a la tecnología Omni-Wick
-- Pantalones de senderismo para hombres con capacidad de conversión rápida en pantalones cortos, Combinación adecuado de transpiración y elasticidad
+- Construcción parcialmente elástica en puños y cintura para una gran movilidad, Tecnología Omni-Shade con protección solar UPF 50
 - 1x Columbia Silver Ridge II, Pantalones de senderismo convertibles para hombre, Fibra sintética, Beige (Fossil), W32/L32, Art. 1794891
 - Piernas con cremallera para convertirlos en pantalones cortos de 25,4 cm, Transformación adecuado para los largos días de aventuras al aire libre en condiciones variables
-- Construcción parcialmente elástica en puños y cintura para una gran movilidad, Tecnología Omni-Shade con protección solar UPF 50
+- Pantalones de senderismo para hombres con capacidad de conversión rápida en pantalones cortos, Combinación adecuado de transpiración y elasticidad
+- Durabilidad y confort gracias al material de nylon Ripstop transpirable y al tejido elástico, Capacidad de secado rápido gracias a la tecnología Omni-Wick
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0772XXJGY/?tag=tolees-21)
