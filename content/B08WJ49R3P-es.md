@@ -28,10 +28,10 @@ En este momento está [Nihlsfen Esfera de Acero Inoxidable con Bloqueo de Especi
 
 🔎:
 
-- Material: Acero inoxidable
-- Úselo en teteras, ollas, tazas, etc.
-- Ideal para té frío o caliente
 - Prepare fácilmente el té más sabroso
+- Material: Acero inoxidable
+- Ideal para té frío o caliente
+- Úselo en teteras, ollas, tazas, etc.
 - Filtrar té, café, ingredientes de salmuera caliente y sopa
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08WJ49R3P/?tag=tolees-21)

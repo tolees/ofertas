@@ -30,8 +30,8 @@ Ahora mismo tienes [YUNMAI - Báscula de Baño Digital Bluetooth de Alta Precisi
 
 - 【CON BLUETOOTH 4.0】Monitoriza todos tus parámetros cómodamente en tu móvil o tablet gracias a su conectividad vía Bluetooth 4.0. La báscula de baño podrá transmitir los datos a tu dispositivos inteligentes y ayudarte a entender mejor los datos.
 - 【BATERÍA RECARGABLE】Dispone de una batería recargable vía USB incorporada de gran rendimiento que garantizará su funcionamiento durante varias semanas con una sola carga completa. La báscula Bluetooth te ayudará a ahorrar dinero en pilas y al mismo tiempo, proteger el medio ambiente.
-- 【CUIDA DE TU SALUD】Comienza ya a cuidar de tu salud y a entender el significado de todas las mediciones realizadas por la báscula de grasa corporal, midiendo ademas tu peso, IMC, BMR, edad corporal, masa muscular y mucho más. Te ayudará a disfrutar de la vida al máximo manteniéndote saludable.
 - 【ALTA PRECISIÓN】 Nuestra báscula inteligente dispone de sensores de última generación que le permitirán tomar tus medidas de una forma rápida y precisa, permitiendo mostrar al usuario 10 parámetros diferentes para controlar su estado físico y salud.
 - 【DISEÑO MODERNO】 Diseñada con una pantalla LED oculta, la báscula digital está fabricada con una superficie de vidrio templado y acero de gran calidad que le dan un aspecto simple y elegante que puede encajar perfectamente con la decoración de cualquier habitación.
+- 【CUIDA DE TU SALUD】Comienza ya a cuidar de tu salud y a entender el significado de todas las mediciones realizadas por la báscula de grasa corporal, midiendo ademas tu peso, IMC, BMR, edad corporal, masa muscular y mucho más. Te ayudará a disfrutar de la vida al máximo manteniéndote saludable.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0858VGHM7/?tag=tolees-21)

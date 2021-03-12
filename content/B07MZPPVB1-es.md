@@ -28,10 +28,10 @@ Está [Funko - Pop! Vinilo: Spongebob Squarepants S3: Patrick w/Board](https://w
 
 ℹ️:
 
-- Patrick w/board
-- Funko pop vinyl
 - Animation: spongebob squarepants s3
 - De la colección spongebob squarepants, patrick w/board como figura de vinilo pop de funko
+- Funko pop vinyl
 - Juguete del año 2018
+- Patrick w/board
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07MZPPVB1/?tag=tolees-21)
