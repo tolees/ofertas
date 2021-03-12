@@ -28,10 +28,10 @@ En este momento está [Scuderia Ferrari Reloj Analógico para Hombre de Cuarzo c
 
 🔎:
 
-- Esfera negra con detalles en rojo
 - Correa de silicona negra
-- 5 ATM de resistencia al agua
+- Esfera negra con detalles en rojo
 - Función de fecha
+- 5 ATM de resistencia al agua
 - 3 manecillas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07BWS6N3M/?tag=tolees-21)
