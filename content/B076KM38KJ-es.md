@@ -30,8 +30,8 @@ En este momento está [ABYstyle - MARVEL - Taza 3D - cambia color con calor - Ir
 
 - Producto oficial.
 - Capacidad: 400 ml.
-- ¡Vierte tu bebida caliente para activarla!
 - Material: cerámica.
+- ¡Vierte tu bebida caliente para activarla!
 - No apto para microondas ni lavavajillas.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B076KM38KJ/?tag=tolees-21)
