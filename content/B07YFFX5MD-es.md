@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 29.17 % en Western Digital Azul SN550 1 TB NVMe SSD'
-date: 2021-03-11 03:48:14
+date: 2021-03-12 04:50:43
 image: 'https://m.media-amazon.com/images/I/314T5qszw-L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Western Digital'
 buyurl: 'https://www.amazon.es/dp/B07YFFX5MD/?tag=tolees-21'
 descuento: '29.17'
-average: '116.053676470591'
+average: '115.858883495149'
 ---
 
 Tienes [Western Digital Azul SN550 1 TB NVMe SSD  Gen3 x4 PCIe  M.2 2280  3D NAND](https://www.amazon.es/dp/B07YFFX5MD/?tag=tolees-21) con un 29.17 % de descuento con precio de oferta de 95.99 EUR (original: 135.53 EUR) en el siguiente enlace!
