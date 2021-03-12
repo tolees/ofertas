@@ -28,8 +28,8 @@ Ahora mismo tienes [adidas Duramo SL  Sneaker Hombre  Core Black/Footwear White/
 
 🔎:
 
-- Cordones de zapatos
-- Corte regular
 - Malla superior
+- Corte regular
+- Cordones de zapatos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B082QFV2GF/?tag=tolees-21)

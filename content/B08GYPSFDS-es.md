@@ -28,14 +28,14 @@ En este momento está [Hurley M Phtm Vagabond Surplus Boonie  Black  S-M](https:
 
 🔎:
 
-- Tipo de fábrica: 100% Poliéster
-- Closure: adjustable
-- Lavar a mano
-- Perforación láser para mayor transpirabilidad
-- Banda para sudor nike dri-fit
-- Nombre de departamento: Hombre
 - Gorra
-- Protección upf 50+
+- Lavar a mano
+- Nombre de departamento: Hombre
+- Closure: adjustable
+- Banda para sudor nike dri-fit
 - Tejido hurley )( phantom
+- Protección upf 50+
+- Perforación láser para mayor transpirabilidad
+- Tipo de fábrica: 100% Poliéster
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08GYPSFDS/?tag=tolees-21)
