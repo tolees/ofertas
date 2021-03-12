@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ariete 2877/03 Hervidor vintage  2000 W  al 50.08 % de rebaja'
-date: 2021-02-24 11:19:24
+date: 2021-03-12 07:36:01
 image: 'https://m.media-amazon.com/images/I/41f1S634IhL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [Ariete 2877/03 Hervidor vintage  2000 W  1.7 litros  Acero Inoxidable  B
 
 🔎:
 
-- Filtro extraíble y lavable
-- Boquilla de precisión, indicador encendido y apagado automático
 - Potencia de 2.000 W
+- Filtro extraíble y lavable
 - Asa que facilita la sujeción y el vertido
+- Boquilla de precisión, indicador encendido y apagado automático
 - Capacidad de 1.7 L
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01ELTI3K4/?tag=tolees-21)
