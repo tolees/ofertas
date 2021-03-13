@@ -28,8 +28,8 @@ Ahora mismo tienes [Capcom - Consola Home Arcade](https://www.amazon.es/dp/B07RV
 
 🔎:
 
+- Incluye 16 de los mejores juegos de Capcom de la época dorada de los juegos árcade
 - Experiencia de juego árcade para uno o varios jugadores
 - Los dos sticks premium y la configuración de los botones permite jugar a sus juegos de la forma que fueron concebidos para ser jugados
-- Incluye 16 de los mejores juegos de Capcom de la época dorada de los juegos árcade
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07RVBHZSJ/?tag=tolees-21)
