@@ -31,7 +31,7 @@ Está [KATUMO Tablet Funda para Lenovo Tab E10 10 1 Pulgadas Funda Slim Lenovo T
 - Compatibilidad: Funda para Lenovo Tab E10 10.1 Pulgadas/ TB-X104F. (Not for Lenovo Tab P10/M10/M10HD/Tab 4)
 - Excelente Calidad: La espalda ultra delgada, ligera y dura abulta en mínimo su dispositivo sin perder protección Con precisos agujeros que proporcionan total acceso a todos los controles y características
 - Flexibilidad: Con precisos agujeros que proporcionan total acceso a todos los controles y características.
-- Soporte Función:Tiene un soporte plegable que se permite poner en múltiples ángulos, más cómoda y coveniente.
 - Protección Total:materiales exteriores de alta calidad y microfibras suaves en el interior, sin arañazos, mayor comodidad y una capa adicional de protección.
+- Soporte Función:Tiene un soporte plegable que se permite poner en múltiples ángulos, más cómoda y coveniente.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B082XWG56J/?tag=tolees-21)

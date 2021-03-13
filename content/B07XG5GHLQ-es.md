@@ -28,8 +28,8 @@ Tienes [Funko - Pop! Deluxe: Star Wars- Luke on Taun Taun Figura Coleccionable  
 
 ℹ️:
 
-- Descúbre otras figuras de la colección star wars y colecciónalas todas
 - Funko pop. El juguete del año 2018
+- Descúbre otras figuras de la colección star wars y colecciónalas todas
 - La figura mide 15 cm y se envía en una caja ilustrada con ventana
 - De la colección star wars, luke on taun taun como figura exclusiva de vinilo pop deluxe de funko
 

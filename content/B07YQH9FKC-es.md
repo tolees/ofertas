@@ -29,8 +29,8 @@ Tienes [Funko- Pop Star Wars-Han in Carbonite ESB 40th Anni Figura Coleccionable
 🔎:
 
 - De la colección star wars, han in carbonite como figura de vinilo pop de funko
-- Descúbre otras figuras de la colección star wars y colecciónalas todas
 - Funko pop. El juguete del año 2018
 - La figura mide 9 cm y se envía en una caja ilustrada con ventana
+- Descúbre otras figuras de la colección star wars y colecciónalas todas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07YQH9FKC/?tag=tolees-21)

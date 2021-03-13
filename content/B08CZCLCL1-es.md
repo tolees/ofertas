@@ -28,10 +28,10 @@ Está [San Ignacio PK2348 Set 3 sartenes  Batería 7 piezas  Utensilios de cocin
 
 ℹ️:
 
-- Completa tu set con el juego de 3 sartenes de 1PC Sartén Ø16X3.5CM / 1PC Sartén Ø20X4.5CM / 1PC Sartén Ø24X4.5CM en aluminio prensado, un material ofrece un calentamiento rápido de la pieza, con revestimiento antiadherente, y fondos de inducción.
-- Batería de 1PC cazo sin tapa Ø16x7,5cm 1.5L / 1PC cacerola con tapa Ø16x7,5cm 1.5L / 1PC cacerola con tapa Ø18x9,0cm 2.0L / 1PC cacerola con tapa Ø20x10cm 3.0L, en acero inoxidable de alta calidad, que aporta perfecta resistencia y mayor vida útil.
-- El fondo de inducción que incorporan las piezas ha sido diseñado para ofrecer un calentamiento rápido y homogéneo, ahorrando tiempo y energía. Es compatible con todas las cocinas, incluidas la de inducción.
 - Y, por supuesto, ayúdate de los mejores utensilios de cocina: Espumadera, Cuchara de cocina y Cazo para sopa, caldos, etc. San Ignacio.
 - El interior de la pieza cuenta con escala de medición para que sea mucho más sencilla la cocina y añadas las medidas exactas. Las tapas en vidrio de gran resistencia permiten ver el estado de la recetan sin necesidad de levantarla.
+- Batería de 1PC cazo sin tapa Ø16x7,5cm 1.5L / 1PC cacerola con tapa Ø16x7,5cm 1.5L / 1PC cacerola con tapa Ø18x9,0cm 2.0L / 1PC cacerola con tapa Ø20x10cm 3.0L, en acero inoxidable de alta calidad, que aporta perfecta resistencia y mayor vida útil.
+- El fondo de inducción que incorporan las piezas ha sido diseñado para ofrecer un calentamiento rápido y homogéneo, ahorrando tiempo y energía. Es compatible con todas las cocinas, incluidas la de inducción.
+- Completa tu set con el juego de 3 sartenes de 1PC Sartén Ø16X3.5CM / 1PC Sartén Ø20X4.5CM / 1PC Sartén Ø24X4.5CM en aluminio prensado, un material ofrece un calentamiento rápido de la pieza, con revestimiento antiadherente, y fondos de inducción.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08CZCLCL1/?tag=tolees-21)
