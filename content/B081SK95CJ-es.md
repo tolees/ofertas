@@ -29,9 +29,9 @@ Tienes [Apple Funda Smart Battery Case de Carga inalámbrica  para el iPhone 11 
 ℹ️:
 
 - Cuando le pongas la smart battery case a tu iphone, verás el indicador inteligente de batería en la pantalla de bloqueo y en el centro de notificaciones; así sabrás exactamente cuánta carga te queda
-- Carga el teléfono y la funda a la vez para hablar, navegar por internet, ver vídeos y escuchar música durante más tiempo
-- La funda se puede cargar incluso más rápido con cargadores compatibles con usb-pd
 - La smart battery case es compatible con cargadores con certificación qi
+- La funda se puede cargar incluso más rápido con cargadores compatibles con usb-pd
 - Cuando está cargada del todo, esta funda te da hasta un 50 % más de autonomía
+- Carga el teléfono y la funda a la vez para hablar, navegar por internet, ver vídeos y escuchar música durante más tiempo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B081SK95CJ/?tag=tolees-21)
