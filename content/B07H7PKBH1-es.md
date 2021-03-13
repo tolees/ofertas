@@ -28,12 +28,12 @@ Está [Rowenta DR8150D1 Access Steam+  Cepillo de vapor  plancha vertical 1600 W
 
 ℹ️:
 
-- Medidas compactas de 22 x 33 x 16 con un peso de 1.4 kg
-- Alisa sin tabla de planchar en todo tipo de tejidos sin riesgo de quemar o estropear las prendas; nivel Super Turbo: salida de vapor de 26 g/min para zonas más complicadas
-- Indicado para todo tipo de prendas, óptimo para retoques de última hora gracias a su sistema sin condensación y para las tareas diarias de planchado
-- 5 Accesorios incluidos: cepillo para tejidos gruesos, accesorio para prendas delicadas, gancho de puerta, pinza para hacer la raya en pantalones y chaquetas y una práctica bolsa para guardarlo todo
 - El depósito de agua extraíble de gran capacidad ofrece sesiones de planchado intensivas y se rellena fácilmente; fácil de usar gracias a su función bloqueo que mantiene la salida de vapor continua
-- El cable de 3 m permite moverlo por todo el tejido, lo que facilita el estirado vertical mediante vapor; la suela emite calor al tiempo que evita la condensación
+- Medidas compactas de 22 x 33 x 16 con un peso de 1.4 kg
 - Cepillo de vapor de mano de 1600 W, calentamiento rápido en 40 segundos con una suela de múltiples agujeros que distribuyen el vapor de una forma continua y homogénea; con depósito extraíble de 190ml
+- Alisa sin tabla de planchar en todo tipo de tejidos sin riesgo de quemar o estropear las prendas; nivel Super Turbo: salida de vapor de 26 g/min para zonas más complicadas
+- 5 Accesorios incluidos: cepillo para tejidos gruesos, accesorio para prendas delicadas, gancho de puerta, pinza para hacer la raya en pantalones y chaquetas y una práctica bolsa para guardarlo todo
+- El cable de 3 m permite moverlo por todo el tejido, lo que facilita el estirado vertical mediante vapor; la suela emite calor al tiempo que evita la condensación
+- Indicado para todo tipo de prendas, óptimo para retoques de última hora gracias a su sistema sin condensación y para las tareas diarias de planchado
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07H7PKBH1/?tag=tolees-21)

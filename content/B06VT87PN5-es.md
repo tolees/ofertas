@@ -29,8 +29,8 @@ Tienes [Aquabeads- Bead Pen Accessory  Multicolor  Epoch para Imaginar AB31338 ]
 ℹ️:
 
 - No apto para niños menores de 3 años debido a piezas pequeñas que pueden ser consumidor y/o inhalar, riesgo de asfixia
-- Para dar la inspiración creativa a tus creaciones
 - Simplemente pulverizar agua y las cuentas se stick juntos y no necesita planchado.
+- Para dar la inspiración creativa a tus creaciones
 - Adecuado para niños de 4 años a 12 años
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B06VT87PN5/?tag=tolees-21)

@@ -28,10 +28,10 @@ Tienes [HP - Hewlett Packard SU885A - Cartucho de tóner](https://www.amazon.es/
 
 🔎:
 
-- De alta calidad
-- Número de páginas impresas: 10
-- Dispositivos compatibles: M3820
 - Reemplaza a samsung
 - Negro
+- De alta calidad
+- Dispositivos compatibles: M3820
+- Número de páginas impresas: 10
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00CNHBB24/?tag=tolees-21)
