@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Warner Bros. Entertainment España S.L. - con un 48.71 % de descuento'
-date: 2021-03-08 00:37:57
+date: 2021-03-13 00:53:44
 image: 'https://m.media-amazon.com/images/I/51f8MlVOUfL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Warner Bros. Entertainment España S.L.'
 buyurl: 'https://www.amazon.es/dp/B0168UDVVU/?tag=tolees-21'
 descuento: '48.71'
-average: '22.1666666666667'
+average: '21.4975'
 ---
 
 En este momento está [Warner Bros. Entertainment España S.L. - Clint Eastwood - Pack 10 [DVD]](https://www.amazon.es/dp/B0168UDVVU/?tag=tolees-21) a 19.49 EUR (original: 38.0 EUR) (48.71 %  de descuento) en el siguiente enlace!
