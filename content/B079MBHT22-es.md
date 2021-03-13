@@ -28,8 +28,8 @@ Ahora mismo tienes [Milan 359801P - Kit de trazado](https://www.amazon.es/dp/B07
 
 🔎:
 
+- Marca: Milan
 - Diseño y funcionalidad
 - Producto de alta calidad
-- Marca: Milan
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B079MBHT22/?tag=tolees-21)

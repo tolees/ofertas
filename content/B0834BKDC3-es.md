@@ -29,7 +29,7 @@ En este momento está [adidas Duramo SL  Sneaker Hombre  Core Black/Footwear Whi
 🔎:
 
 - Cordones de zapatos
-- Malla superior
 - Corte regular
+- Malla superior
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0834BKDC3/?tag=tolees-21)
