@@ -28,9 +28,9 @@ En este momento está [Estuche Pepe Jeans Pierce con organizador](https://www.am
 
 🔎:
 
-- Interior con seis gomas elásticas, una de ellas más grande para llevar la regla o cualquier otro accesorio bien sujeto; también incorpora un bolsillo con cremallera
 - De Joumma Bags
 - Perfecto para organizar y llevar recogido el material escolar
 - Estuche de 22 cm x 5 cm x 9 cm fabricado en Poliéster
+- Interior con seis gomas elásticas, una de ellas más grande para llevar la regla o cualquier otro accesorio bien sujeto; también incorpora un bolsillo con cremallera
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B079LSX63C/?tag=tolees-21)
