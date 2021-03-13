@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HENO DE PRAVIA - Jabón natural  lote de  al 56.96 % de descuento'
-date: 2021-03-12 04:02:51
+date: 2021-03-13 10:36:36
 image: 'https://m.media-amazon.com/images/I/41M1Wk1GM4L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Heno de Pravia'
 buyurl: 'https://www.amazon.es/dp/B0085B2FJA/?tag=tolees-21'
 descuento: '56.96'
-average: '1.70666666666667'
+average: '1.70615384615385'
 ---
 
 Ahora mismo tienes [HENO DE PRAVIA - Jabón natural  lote de 3 piezas  3X115 g](https://www.amazon.es/dp/B0085B2FJA/?tag=tolees-21) a 1.7 EUR (original: 3.95 EUR) (56.96 %  de descuento) en el siguiente enlace!
@@ -28,8 +28,8 @@ Ahora mismo tienes [HENO DE PRAVIA - Jabón natural  lote de 3 piezas  3X115 g](
 
 🔎:
 
+- Marca - Heno de Pravia
 - Género - Unisex
 - Tipo de producto - Lote 3 pizas
-- Marca - Heno de Pravia
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0085B2FJA/?tag=tolees-21)
