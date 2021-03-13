@@ -28,8 +28,8 @@ Está [New Balance Ml574 D  Zapatillas Hombre  Azul Navy  44 EU](https://www.ama
 
 ℹ️:
 
+- A estrenar y genuina. Somos un vendedor autorizado de New Balance.
 - New Balance Azul 574 Entrenadores
 - Ver descripción del producto para obtener más información.
-- A estrenar y genuina. Somos un vendedor autorizado de New Balance.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07N4CV1BG/?tag=tolees-21)
