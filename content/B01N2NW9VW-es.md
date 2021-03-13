@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MEDIATRES ESTUDIO - El verano de Kikujir al 27.31 % de rebaja'
-date: 2021-03-11 22:02:22
+date: 2021-03-13 04:27:32
 image: 'https://m.media-amazon.com/images/I/41VH46FFHcL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'MEDIATRES ESTUDIO'
 buyurl: 'https://www.amazon.es/dp/B01N2NW9VW/?tag=tolees-21'
 descuento: '27.31'
-average: '9.59333333333333'
+average: '9.92846153846154'
 ---
 
 Tienes [MEDIATRES ESTUDIO - El verano de Kikujiro](https://www.amazon.es/dp/B01N2NW9VW/?tag=tolees-21) con precio final de  13.95 EUR (original: 19.19 EUR) (27.31 %  de rebaja) aqui!
