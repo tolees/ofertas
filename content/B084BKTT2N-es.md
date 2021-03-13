@@ -28,10 +28,10 @@ Ahora mismo tienes [Cerdá Falda de Tul con Tutu de Minnie Mouse Disney para Ni�
 
 🔎:
 
+- Talla idónea para niña de 2 años
 - Perfecto conjunto para niña que garantiza la comodidad de movimiento para que salte y juegue con el estilo de una bailarina profesional
 - Lavar a máquina (30º máx) no secar en secadora planchar a baja temperatura (110º máx)
-- Tu niña se sentirá como una auténtica ratita presumida con este conjunto de falda tan original
 - Falda de tul compuesta por una falda de tela interior y una parte exterior con tutu para que tu niña se sienta como una auténtica bailarina
-- Talla idónea para niña de 2 años
+- Tu niña se sentirá como una auténtica ratita presumida con este conjunto de falda tan original
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B084BKTT2N/?tag=tolees-21)

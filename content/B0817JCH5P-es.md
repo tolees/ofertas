@@ -29,9 +29,9 @@ Tienes [Columbia Triple Canyon Pantalón Corto De Senderismo  Hombre  City Grey 
 ℹ️:
 
 - Pantalones cortos para hombre, adecuadoes para piragüismo, ejercicios de orientación y otras actividades al aire libre
-- Práctico en condiciones húmedas gracias a la nueva repelencia al agua de Omni-Shield
-- Equipado con dos bolsillos para manos con cremallera y un bolsillo cargo, Especialmente cómodo gracias al cómodo tejido elástico y a la cintura parcialmente elástica
 - 1x Columbia Triple Canyon, Pantalones cortos de senderismo para hombre, Fibra sintética, Gris/Negro (City Grey/Shark), W38/L10, Art. 1711701
+- Práctico en condiciones húmedas gracias a la nueva repelencia al agua de Omni-Shield
 - Práctico en condiciones soleadas gracias a la tecnología Omni-Shade UPF 50
+- Equipado con dos bolsillos para manos con cremallera y un bolsillo cargo, Especialmente cómodo gracias al cómodo tejido elástico y a la cintura parcialmente elástica
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0817JCH5P/?tag=tolees-21)

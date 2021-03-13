@@ -29,7 +29,7 @@ Está [Neutrogena Crema De Manos Rápida Absorción - 2 Unidades x 75 ml.](https
 ℹ️:
 
 - Products by Neutrogena
-- Nail care - cuticle oils
 - Beauty products
+- Nail care - cuticle oils
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01IFGMALM/?tag=tolees-21)

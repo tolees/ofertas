@@ -29,7 +29,7 @@ Está [ATOYX AT-96 - Drone para niños](https://www.amazon.es/dp/B07MLF1XJH/?tag
 ℹ️:
 
 - Package Included: 4 x propellers, 1 x USB charging cable, 1 x screwdriver, 1 x screw.
-- Original accessory: Compatible with ATOYX AT-96 drone with camera.
 - Warranty: 12 months.
+- Original accessory: Compatible with ATOYX AT-96 drone with camera.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07MLF1XJH/?tag=tolees-21)

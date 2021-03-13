@@ -28,12 +28,12 @@ Tienes [Krups EA8150 - Cafetera Automática 15 Bares de Presión  Pantalla LCD  
 
 ℹ️:
 
-- Cafetera superautomática con pantalla LCD de fácil lectura, y menú para personalizar parámetros; permite la selección de 3 niveles de intensidad y cantidad de café ajustable 20 ml a 220 ml
-- La boquilla de vapor, fácil de limpiar para una mayor higiene, le da el toque final óptimo a una gran variedad de bebidas, permitiéndote disfrutar en casa de un cappuccino ultraespumoso
 - Programa automático de limpieza y descalcificación; incluye kit de pastillas de limpieza y descalcificador
+- El molinillo con muelas cónicas de metal, dispone de tres texturas diferentes, lo que te permite obtener unos ristrettos, espressos y cafés largos de calidad óptima
+- Cafetera superautomática con pantalla LCD de fácil lectura, y menú para personalizar parámetros; permite la selección de 3 niveles de intensidad y cantidad de café ajustable 20 ml a 220 ml
 - Función automática de vapor: para calentar agua o leche, o preparar infusiones; fácil y limpio
+- La boquilla de vapor, fácil de limpiar para una mayor higiene, le da el toque final óptimo a una gran variedad de bebidas, permitiéndote disfrutar en casa de un cappuccino ultraespumoso
 - Las cafeteras Krups se someten de manera aleatoria a estrictos controles de calidad que incluyen el llenado de agua y la preparación de café, por ello se pueden encontrar pequeños restos en la máquina
 - Molinillo integrado y placa calientatazas: café recién hecho en una taza caliente: sabor, aroma, crema quedan resaltados
-- El molinillo con muelas cónicas de metal, dispone de tres texturas diferentes, lo que te permite obtener unos ristrettos, espressos y cafés largos de calidad óptima
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00OT1CO0U/?tag=tolees-21)
