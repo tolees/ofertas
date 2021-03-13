@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko - Pop! Deluxe: Star Wars - Darth V al 37.43 % de rebaja'
-date: 2021-03-11 08:50:56
+date: 2021-03-13 08:40:59
 image: 'https://m.media-amazon.com/images/I/41SRK+vuu2L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Funko'
 buyurl: 'https://www.amazon.es/dp/B07XD4Z74V/?tag=tolees-21'
 descuento: '37.43'
-average: '24.79'
+average: '24.724'
 ---
 
 Tienes [Funko - Pop! Deluxe: Star Wars - Darth Vader in Meditation Chamber Figura Coleccionable  Multicolor  46763 ](https://www.amazon.es/dp/B07XD4Z74V/?tag=tolees-21) con precio final de  24.46 EUR (original: 39.09 EUR) (37.43 %  de rebaja) aqui!
@@ -28,9 +28,9 @@ Tienes [Funko - Pop! Deluxe: Star Wars - Darth Vader in Meditation Chamber Figur
 
 🔎:
 
+- La figura mide 15 cm y se envía en una caja ilustrada con ventana
 - Funko pop. El juguete del año 2018
 - De la colección star wars, darth vader in meditation chamber como figura exclusiva de vinilo pop deluxe de funko
-- La figura mide 15 cm y se envía en una caja ilustrada con ventana
 - Descúbre otras figuras de la colección star wars y colecciónalas todas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07XD4Z74V/?tag=tolees-21)

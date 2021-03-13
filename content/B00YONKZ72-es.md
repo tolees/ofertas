@@ -28,10 +28,10 @@ Ahora mismo tienes [Rankie Cable Mini DisplayPort  Mini DP   Thunderbolt  a HDMI
 
 🔎:
 
-- Conectores enchapados en oro resisten la corrosión, proporcionan durabilidad y mejorar la transmisión de la señal; Foil y blindaje trenzado reduce la interferencia electromagnética; Conductor de cobre desnudo mejora el rendimiento del cable
-- Conexión de Mini DisplayPort con PCs compatibles puerto Thunderbolt a un HDTV, monitor o proyector con puerto HDMI
 - Compatible con Apple MacBook, MacBook Pro/Air, iMac, Mac mini/Pro; Microsoft Surface Pro 2/3/4; Lenovo ThinkPad X1 Carbon, X230 / X240s, L430 / L440 / L530 / L540, T430 / T440 / T440s / T440p / T530 / 540p, W530 / W540, Helix; Dell XPS 13/14/15/17, Latitude E7240 / E7440, Precision M3800; Alienware 14/17/18; Acer Aspire R7 / S7 / V5 / V7; Intel NUC; Asus Zenbook; HP Envy 14/17; Google Chromebook Pixel; X6 Cyberpower Zeusbook Edge; Toshiba Satellite Pro S500, Tecra M11 / A11
+- Conexión de Mini DisplayPort con PCs compatibles puerto Thunderbolt a un HDTV, monitor o proyector con puerto HDMI
 - Conector de bajo perfil no bloquea los puertos adyacentes en el equipo, ha moldeado liberador de tensión para una larga vida, y ha peldaños para una fácil conexión y desconexión de diseño ergonómico
+- Conectores enchapados en oro resisten la corrosión, proporcionan durabilidad y mejorar la transmisión de la señal; Foil y blindaje trenzado reduce la interferencia electromagnética; Conductor de cobre desnudo mejora el rendimiento del cable
 - Transmite audio y video; Soporta resoluciones de video de hasta 4K y de audio impecable pass-thru para comprimir digitales 7.1, 5.1 ó 2 canales
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00YONKZ72/?tag=tolees-21)
