@@ -29,8 +29,8 @@ Tienes [SuperThings- Juguete  Multicolor  Magic Box PST7S112UK00 ](https://www.a
 🔎:
 
 - De la marca: SuperThings
-- todo lo que necesitas para empezar tu colección.
 - viene con un cool power jet metálico, exclusivo de este paquete de iniciación
+- todo lo que necesitas para empezar tu colección.
 - el cómic impreso tiene historias y juegos divertidos.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08NVXSV64/?tag=tolees-21)
