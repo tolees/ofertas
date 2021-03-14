@@ -28,10 +28,10 @@ Ahora mismo tienes [Reloj Viceroy - Chicos 401063-55](https://www.amazon.es/dp/B
 
 🔎:
 
-- Material de la caja: acero inoxidable
 - Movimiento del reloj: cuarzo
+- Material de la caja: acero inoxidable
 - Material de la correa: cuero
-- Diámetro de la caja: 36 milímetros
 - Tipo de cierre: hebilla
+- Diámetro de la caja: 36 milímetros
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01NBXV5V2/?tag=tolees-21)

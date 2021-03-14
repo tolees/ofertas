@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SanDisk Memoria Flash Ultra USB 3.0 de 1 al 41.95 % de rebaja'
-date: 2021-03-12 08:46:18
+date: 2021-03-14 08:45:42
 image: 'https://m.media-amazon.com/images/I/313u-coHKiL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SanDisk'
 buyurl: 'https://www.amazon.es/dp/B00P8XQPY4/?tag=tolees-21'
 descuento: '41.95'
-average: '18.6376691729322'
+average: '18.6194814814813'
 ---
 
 Tienes [SanDisk Memoria Flash Ultra USB 3.0 de 128 GB  hasta 130 MB/s velocidad de lectura](https://www.amazon.es/dp/B00P8XQPY4/?tag=tolees-21) con precio final de  17.41 EUR (original: 29.99 EUR) (41.95 %  de rebaja) aqui!

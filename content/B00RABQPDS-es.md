@@ -28,10 +28,10 @@ Tienes [Chuango PIR-910 PIR Detector de movimiento inmune a mascotas  hasta 25 k
 
 ℹ️:
 
-- Temperatura de funcionamiento: 0°C~+55°C con humedad relativa: <80% (sin condensación)
 - Distancia de transmisión: hasta 80m (área abierta)
 - Área de detección 110º / 8m
 - Detector de movimiento (PIR) inmune a mascotas para animales pequeños de hasta 25 kg
+- Temperatura de funcionamiento: 0°C~+55°C con humedad relativa: <80% (sin condensación)
 - Compatible con los kit Chuango
 - Orientación orizontal/vertical
 

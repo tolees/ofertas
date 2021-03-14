@@ -28,10 +28,10 @@ Está [mvmt cuarzo reloj Signature Gold/Black MF01 de GBL](https://www.amazon.e
 
 ℹ️:
 
+- Cristal: Mineral vidrio, material de la carcasa: Acero inoxidable, pulsera Material: Piel
 - Color de la carcasa: Oro, Color de esfera: Blanco, Color de banda: Negro, Agua densidad en Bar: 3
 - Número de artículo: mf01 de GBL
-- Dimensiones de la caja: Longitud: 4,6 cm, ancho: 3,8 cm, altura: 1,0 cm, Pulsera Dimensiones: Longitud: 14,5 cm de 19,0 cm, ancho: 1,8 cm
 - Mecanismo: cuarzo
-- Cristal: Mineral vidrio, material de la carcasa: Acero inoxidable, pulsera Material: Piel
+- Dimensiones de la caja: Longitud: 4,6 cm, ancho: 3,8 cm, altura: 1,0 cm, Pulsera Dimensiones: Longitud: 14,5 cm de 19,0 cm, ancho: 1,8 cm
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01ELMFH46/?tag=tolees-21)

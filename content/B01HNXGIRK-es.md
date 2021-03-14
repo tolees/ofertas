@@ -28,10 +28,10 @@ Está [SONGMICS OBG56L Racing - Silla de Escritorio de Oficina Ergonómica Regul
 
 ℹ️:
 
-- Diseño ergonómico - El respaldo curvo tiene la altura de 71 cm (el diseño especialmente para las personas que miden menos de 175 cm), que permite mantener una buena postura y aliviar la columna vertebral; reposacabezas acolchado para proteger el cuello; apoyabrazos recubiertos de PU para relajar los brazos
-- "Piezas de repuesto - Se aplican tornillos anti-sueltos para garantizar el uso seguro. Cada tipo de tornillos y la rueda tienen uno extra de repuesto"
 - Alta calidad - Silla cubierta de PU, robusta y fácil de limpiar; asiento con relleno de esponja extragruesa, de buena elásticidad y cómodo, resistente a la deformación; ruedas de poliuretano giratorias a 360º, apenas hacen ruido, adecuadas para suelo duro como parquet, azulejos, suelo laminado o PVC
+- "Piezas de repuesto - Se aplican tornillos anti-sueltos para garantizar el uso seguro. Cada tipo de tornillos y la rueda tienen uno extra de repuesto"
 - Mecanismo de ajuste - Silla regulable (altura total: 111-121 cm; altura del asiento: 45-55 cm), con el mecanismo de inclinación ajustable al peso corporal y se puede bloquear en la posición recta. Ideal para las personas quienes suelen pasar largo tiempo ante un escritorio
+- Diseño ergonómico - El respaldo curvo tiene la altura de 71 cm (el diseño especialmente para las personas que miden menos de 175 cm), que permite mantener una buena postura y aliviar la columna vertebral; reposacabezas acolchado para proteger el cuello; apoyabrazos recubiertos de PU para relajar los brazos
 - Estable, duradero y confiable - Las piezas principales, como los apoyabrazos, bandeja de metal, ruedas y cilíndro de gas, se han perfeccionado. La base estrella tiene un diámetro de unos 70 cm. La silla de oficina ha pasado las verificaciones de TÜV Rheinlan, cumpliendo con la Norma EN1335-2/-3, con el informe de prueba Nº50069804/SHF/01-01
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01HNXGIRK/?tag=tolees-21)
