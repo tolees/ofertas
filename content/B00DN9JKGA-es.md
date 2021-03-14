@@ -28,9 +28,9 @@ Tienes [GYNEA Complemento Alimenticio - 100 gr](https://www.amazon.es/dp/B00DN9J
 
 🔎:
 
-- Hierro (14 mg): esencial en la producción de glóbulos rojos y para ayudar a prevenir las anemias en el embarazo
-- Ácido fólico (400 µg): ayuda a prevenir defectos del tubo neural en el feto
 - Vitamina D (5µg): favorece la absorción del calcio y es necesaria para la formación y crecimiento óseo del futuro bebé
+- Ácido fólico (400 µg): ayuda a prevenir defectos del tubo neural en el feto
+- Hierro (14 mg): esencial en la producción de glóbulos rojos y para ayudar a prevenir las anemias en el embarazo
 - Yodo (150 µg): esencial para el desarrollo cognitivo y neurológico del feto
 - DHA de microalgas (160 mg): contribuye al desarrollo del cerebro y la visión del feto
 
