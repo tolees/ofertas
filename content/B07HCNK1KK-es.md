@@ -28,10 +28,10 @@ Está [Skechers Stamina-Cutback  Zapatillas Hombre  Gris  CCRD Black Leather/Gra
 
 ℹ️:
 
-- Material: piel
-- Color: gris
-- Temporada: otoño/invierno
 - Artículo: 51286
+- Temporada: otoño/invierno
+- Color: gris
 - Diseñador: Skechers
+- Material: piel
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07HCNK1KK/?tag=tolees-21)

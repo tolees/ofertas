@@ -28,10 +28,10 @@ Ahora mismo tienes [BaByliss C325E Tenacilla de pelo de 25 mm  10 ajustes de tem
 
 🔎:
 
-- 10 temperaturas (de 110° C a 180° C)
-- Rizador de pelo con Cable giratorio
 - Tenacilla de pelo de 25 mm
 - Tenacillas con punta fría de agarre
+- 10 temperaturas (de 110° C a 180° C)
 - Recubrimiento Sublim Touch
+- Rizador de pelo con Cable giratorio
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B007BJEKKE/?tag=tolees-21)

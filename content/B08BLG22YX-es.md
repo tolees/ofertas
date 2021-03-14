@@ -29,9 +29,9 @@ Ahora mismo tienes [Burton Tinder 2.0  Adultos Unisex  Barren Camo Print](https:
 🔎:
 
 - Correas de compresión laterales
-- Tirantes ergonómicos con correa ajustable para el esternón.
-- Poliéster 600D aprobado por bluesign con respaldo de PU
 - Dimensiones: 19in x 12in x 6in / 47cm x 31cm x 16cm; Peso: 1.6 libras; Volumen: 30L
 - Visite burton.elasticsuite.com para ver más detalles sobre todos nuestros productos bluesign
+- Tirantes ergonómicos con correa ajustable para el esternón.
+- Poliéster 600D aprobado por bluesign con respaldo de PU
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08BLG22YX/?tag=tolees-21)

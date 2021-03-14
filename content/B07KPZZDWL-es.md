@@ -29,7 +29,7 @@ Ahora mismo tienes [Helly Hansen Transat Polo  Hombre  Alert Red  S](https://www
 🔎:
 
 - Cómodo piqué de algodón de 230 g/m² | Tapete en delantero con botones | Puños y cuello de canalé | Aberturas laterales | Logotipo de HH bordado en la manga
-- De la marca Helly Hansen.
 - De alta calidad.
+- De la marca Helly Hansen.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07KPZZDWL/?tag=tolees-21)
