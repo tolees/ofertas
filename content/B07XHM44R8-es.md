@@ -28,9 +28,9 @@ En este momento está [Skechers DARLOW REMEGO  Zapatillas Hombre  Tela Vaquera A
 
 🔎:
 
-- Lavable a máquina.
-- Goga Mat Arco
 - Espuma viscoelástica refrigerada por aire.
 - Colección de vestidos de calle
+- Lavable a máquina.
+- Goga Mat Arco
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07XHM44R8/?tag=tolees-21)
