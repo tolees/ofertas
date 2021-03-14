@@ -28,8 +28,8 @@ Ahora mismo tienes [Juego De Tronos - Figura Funko 5 Star Tyrion Lannister 10cm]
 
 🔎:
 
-- De Game of Thrones S10, Tyrion Lannister, como un elegante vinilo de 5 estrellas de Funko
-- La figura mide 15 cm y viene en una caja de presentación para ventana
 - Echa un vistazo a las otras figuras de Juego de Tronos S10 de Funko. Colecciónalos todos
+- La figura mide 15 cm y viene en una caja de presentación para ventana
+- De Game of Thrones S10, Tyrion Lannister, como un elegante vinilo de 5 estrellas de Funko
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07MZP9MT2/?tag=tolees-21)

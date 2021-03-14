@@ -29,7 +29,7 @@ Tienes [Sveon SAC120N - Cargador de portátil  Color Negro](https://www.amazon.e
 🔎:
 
 - Compatible con portátiles de hasta 120W
-- Incluye 11 conectores de regulación automática compatibles con la mayor parte de portátiles del mercado
 - Voltaje/Amperaje de salida: 15V/16V/18.5V/19V/19.5V/20V
+- Incluye 11 conectores de regulación automática compatibles con la mayor parte de portátiles del mercado
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B079FWYNBB/?tag=tolees-21)

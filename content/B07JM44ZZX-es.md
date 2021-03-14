@@ -28,8 +28,8 @@ Tienes [Lee Luke Pants Jeans  Dark Diamond Ft  34W / 32L para Hombre](https://ww
 
 🔎:
 
-- Tienen un parche de piel en la parte trasera con la marca Lee
 - Estilo 5 bolsillos
+- Tienen un parche de piel en la parte trasera con la marca Lee
 - Vaqueros para hombre
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07JM44ZZX/?tag=tolees-21)

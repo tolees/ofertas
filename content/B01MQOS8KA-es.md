@@ -28,11 +28,11 @@ En este momento está [Ewent EW1280 - Soporte para monitor con elvación regulab
 
 🔎:
 
+- Con cajón para depositar documentos
 - Con altura ajustable de 7.2 or 10 cm
 - De color negro
-- Peso máximo de carga: 27 kg
 - Número de pantallas soportadas: 1
+- Peso máximo de carga: 27 kg
 - Hecho de material de plástico
-- Con cajón para depositar documentos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01MQOS8KA/?tag=tolees-21)

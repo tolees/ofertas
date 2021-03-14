@@ -28,10 +28,10 @@ Tienes [ROYAL SLEEP Colchón viscoelástico 90x190 de máxima Calidad  Confort  
 
 🔎:
 
-- La espuma de Royal Sleep permite libertad de movimientos sin afectar el descanso de la otra persona. Todos los productos de Royal Sleep cuentan con tratamientos higiénicos para garantizar la no proliferación de ácaros.
-- Colchón fabricado 100% en España
 - Colchón de visco y núcleo de espuma HR de alta densidad y durabilidad. +/- 19 cms de altura. Hilo de Plata en el tejido para eliminar la electricidad estática: mayor confort
-- Los laterales están fabricados con una tela stretch, que además de ser muy resistente, permite que el aire fluya y el colchón se ventile eficazmente.
 - Independencia de movimientos: está diseñado para evitar sentir los movimientos de la otra persona. Sin molestas vibraciones. Colchones con higiene total: 100% anti ácaros, anti-bacterias
+- Colchón fabricado 100% en España
+- Los laterales están fabricados con una tela stretch, que además de ser muy resistente, permite que el aire fluya y el colchón se ventile eficazmente.
+- La espuma de Royal Sleep permite libertad de movimientos sin afectar el descanso de la otra persona. Todos los productos de Royal Sleep cuentan con tratamientos higiénicos para garantizar la no proliferación de ácaros.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07L9CZHLR/?tag=tolees-21)
