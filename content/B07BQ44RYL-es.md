@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lee Luke Pants Jeans  Rinse DP  33W / 34 al 64.44 % de rebaja'
-date: 2021-03-12 18:21:44
+date: 2021-03-14 14:15:13
 image: 'https://m.media-amazon.com/images/I/41hHIyzVnsL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,7 +29,7 @@ Tienes [Lee Luke Pants Jeans  Rinse DP  33W / 34L para Hombre](https://www.amazo
 🔎:
 
 - Vaqueros para hombre
-- Estilo 5 bolsillos
 - Tienen un parche de piel en la parte trasera con la marca Lee
+- Estilo 5 bolsillos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07BQ44RYL/?tag=tolees-21)

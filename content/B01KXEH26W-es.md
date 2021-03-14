@@ -28,10 +28,10 @@ Está [Hugo BOSS Reloj para hombre 1513387](https://www.amazon.es/dp/B01KXEH26W/
 
 ℹ️:
 
-- Grey dial. Case size- 44 mm
 - 3-hand quartz with date movement
-- Brown leather strap
+- Grey dial. Case size- 44 mm
 - Ionic rose gold plated stainless steel case
 - Water resistant to 3 ATM or 30 meters
+- Brown leather strap
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01KXEH26W/?tag=tolees-21)

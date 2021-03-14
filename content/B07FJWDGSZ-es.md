@@ -28,10 +28,10 @@ Ahora mismo tienes [Beast Kingdom- Marvel Diorama Thanos  Multicolor  BKDDS-014 
 
 🔎:
 
-- Colección marvel comics
-- Licencia oficial
-- Gran detalle
 - Figura de coleccionista
+- Gran detalle
 - Caja ilustrada con ventana
+- Licencia oficial
+- Colección marvel comics
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07FJWDGSZ/?tag=tolees-21)

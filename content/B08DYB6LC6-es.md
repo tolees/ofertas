@@ -28,8 +28,8 @@ Está [New Balance 393  Zapatillas Hombre  Gris  Castlerock   41.5 EU](https://w
 
 ℹ️:
 
-- Tipo de calzado: zapatillas deportivas
 - Tamaño del calzado: 41.5
+- Tipo de calzado: zapatillas deportivas
 - Color: gris
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08DYB6LC6/?tag=tolees-21)

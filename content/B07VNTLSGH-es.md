@@ -28,8 +28,8 @@ Ahora mismo tienes [Lee Breese Pantalones para Mujer  Azul  Dark Hunter Hw   W26
 
 🔎:
 
-- Tienen un parche de piel con el logo de la marca en la parte trasera
-- Con un diseño de cinco bolsillos
 - Vaqueros evasé para mujer
+- Con un diseño de cinco bolsillos
+- Tienen un parche de piel con el logo de la marca en la parte trasera
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VNTLSGH/?tag=tolees-21)

@@ -28,8 +28,8 @@ En este momento está [Equinox Escurridor  Acero Inoxidable  Centimeters](https:
 
 🔎:
 
+- Extensible
 - Medidas 29 x 19 x 10,5 cm
 - Material inox
-- Extensible
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B008DU8DDU/?tag=tolees-21)

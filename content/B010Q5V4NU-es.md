@@ -28,10 +28,10 @@ Tienes [HP - Samsung CLT-Y404S  Tóner  color Amarillo](https://www.amazon.es/dp
 
 🔎:
 
-- Amarillo
-- Número de páginas impresas: 1000
 - Samsung
 - Dispositivos compatibles: C430/482
+- Amarillo
 - Tóner
+- Número de páginas impresas: 1000
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B010Q5V4NU/?tag=tolees-21)
