@@ -29,9 +29,9 @@ Ahora mismo tienes [Woxter Cooling Pad 1560 R – Base refrigeradora para portá
 🔎:
 
 - Cooling pad realizado en ABS de máxima calidad. Refrigera tu ordenador aportando una vida útil mucho mayor en sus componentes. Está especialmente diseñado para Gamers, mejora notablemente la refrigeración cuando el ordenador portátil se usa en tareas que exigen un alto uso de la CPU o tarjeta gráfica.
-- Dimensiones: 385x290x42 mm. Peso: 630 g. / Se conecta a través de USB / Powered by Woxter
-- COMPATIBLE CON LA MAYORÍA DE ORDENADORES PORTÁTILES. Nuestro ventilador es compatible con la mayoría de ordenadores portátiles. Puede usarse en ordenadores de 10”, 11”, 12”, 13”,14”,15”, 16”, 17”… / Soporte con altura regulable y ergonómico diseño lo que ofrece la máxima comodidad, estabilidad y productividad a la hora de utilizar su ordenador. Consigue minimizar cualquier molestia o dolor que pueda suponer el uso de un ordenador portátil para cuello, muñecas, etc.
-- Base led iluminada: Sus 5 ventiladores están iluminados mediante una agradable luz led azul ajustable creando una atmósfera gaming perfecta.
 - Integra un gran ventilador de 16 cm y 4 pequeños ventiladores periféricos / LEDs azules / Botones de control de luz y ventiladores / Velocidad del ventilador: 900-2800 rpm / Flujo máximo de aire: 74.35 CFM / Dos puertos USB HUB para poder conectar también unidades externas.
+- Base led iluminada: Sus 5 ventiladores están iluminados mediante una agradable luz led azul ajustable creando una atmósfera gaming perfecta.
+- COMPATIBLE CON LA MAYORÍA DE ORDENADORES PORTÁTILES. Nuestro ventilador es compatible con la mayoría de ordenadores portátiles. Puede usarse en ordenadores de 10”, 11”, 12”, 13”,14”,15”, 16”, 17”… / Soporte con altura regulable y ergonómico diseño lo que ofrece la máxima comodidad, estabilidad y productividad a la hora de utilizar su ordenador. Consigue minimizar cualquier molestia o dolor que pueda suponer el uso de un ordenador portátil para cuello, muñecas, etc.
+- Dimensiones: 385x290x42 mm. Peso: 630 g. / Se conecta a través de USB / Powered by Woxter
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B009PK2UPE/?tag=tolees-21)
