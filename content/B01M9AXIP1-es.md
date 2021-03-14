@@ -28,10 +28,10 @@ Está [Silla de paseo compacta iCOO Acrobat hasta 18 kg con función de tumbado 
 
 ℹ️:
 
-- PLEGADO COMPACTO: el carrito de confort se puede plegar en segundos con solo una mano. Por lo tanto, encuentra espacio en casi cualquier automóvil, lo que la convierte en la silla de paseo ideal
 - DISEÑO ALEMAN: Elegante carrito para niños con interior de cuero fino, apto desde el nacimiento y hasta 18kg (carro de 15 kg + cesta de 3 kg). Combinable con bolsa de transporte 2en1
-- PARA LA OSCURIDAD: los reflectores integrados en el marco garantizan la seguridad incluso al anochecer y en la oscuridad; simplemente presione los LEDs y listo
 - SEGURO: la silla de paseo tiene un arnés de 5 puntos y una barra frontal protectora. La silla está probada y cumple la normativa de seguridad europea EN 1888
+- PARA LA OSCURIDAD: los reflectores integrados en el marco garantizan la seguridad incluso al anochecer y en la oscuridad; simplemente presione los LEDs y listo
+- PLEGADO COMPACTO: el carrito de confort se puede plegar en segundos con solo una mano. Por lo tanto, encuentra espacio en casi cualquier automóvil, lo que la convierte en la silla de paseo ideal
 - PARA LA CIUDAD: Carrito para niños modernos fácil de conducir gracias a las ruedas de diferentes diametros. Ruedas agiles con rodamientos de bolas, caucho resistente, giratorias y bloqueables
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01M9AXIP1/?tag=tolees-21)

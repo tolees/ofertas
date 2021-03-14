@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'RECUTMS Album de Fotos Scrapbook Our Adv con un 30.45 % de descuento'
-date: 2021-03-13 16:15:26
+date: 2021-03-14 16:16:03
 image: 'https://m.media-amazon.com/images/I/61RyJVdMq0L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'RECUTMS'
 buyurl: 'https://www.amazon.es/dp/B0743DLRFQ/?tag=tolees-21'
 descuento: '30.45'
-average: '15.6899999999999'
+average: '15.7076470588234'
 ---
 
 En este momento está [RECUTMS Album de Fotos Scrapbook Our Adventure Book 80 Páginas Álbum de Fotos Hecho a Mano Diy Family Scrapbook Extensible DIY Vintage Libro de Visitas de Boda Cumpleaños Familia](https://www.amazon.es/dp/B0743DLRFQ/?tag=tolees-21) a 15.99 EUR (original: 22.99 EUR) (30.45 %  de descuento) en el siguiente enlace!

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'IAMS Delights Gatito y Junior con Pollo  al 28.69 % de rebaja'
-date: 2021-03-13 10:45:51
+date: 2021-03-14 16:24:06
 image: 'https://m.media-amazon.com/images/I/51ALxZFAzsL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [IAMS Delights Gatito y Junior con Pollo en salsa 12 x 85g](https://www.a
 
 🔎:
 
-- Alimento de gama alta 100% completo y equilibrado para gatitos
-- IAMS Delights Gatito y Junior con Pollo en salsa 12 x 85g
-- Proteína: ayuda a conservar una musculatura fuerte y compacta
 - Nutrición completa y sabor irresistible
 - Taurina: favorece la salud cardiaca
+- IAMS Delights Gatito y Junior con Pollo en salsa 12 x 85g
+- Proteína: ayuda a conservar una musculatura fuerte y compacta
+- Alimento de gama alta 100% completo y equilibrado para gatitos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B016Y4L4NC/?tag=tolees-21)
