@@ -28,9 +28,9 @@ Tienes [Garmin 010-11654-00 - Soporte](https://www.amazon.es/dp/B0055BJBCM/?tag=
 
 ℹ️:
 
-- Aprovecha la versatilidad de la unidad Montana
 - Este kit incluye un soporte con altavoz integrado y una ventosa para una sencilla instalación.
 - También incluye un cable de alimentación del vehículo.
+- Aprovecha la versatilidad de la unidad Montana
 - Coloca la unidad Montana en el salpicadero o el parabrisas del vehículo mediante el soporte con ventosa para el coche¹ y llévatela de viaje.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0055BJBCM/?tag=tolees-21)

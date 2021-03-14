@@ -28,8 +28,8 @@ Tienes [Funko Pop! - DC Bombshells Hawkgirl Figura de Vinilo 22892](https://www.
 
 🔎:
 
-- Cada personaje mide alrededor de 9 cm
 - Diseño moderno
+- Cada personaje mide alrededor de 9 cm
 - Viene embalado en una caja con ventanas ilustrada
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0759MJW4C/?tag=tolees-21)
