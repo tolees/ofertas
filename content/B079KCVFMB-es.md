@@ -28,10 +28,10 @@ Tienes [Apli- Pez Juego de Gomets en Caja Metálica  Multicolor  cuadrado  15219
 
 🔎:
 
-- El objetivo del juego es completar los dibujos de las fichas usando diferentes gomets geométricos.
-- Este juego, desarrollado con el soporte de pedagogos, contiene un alto valor didáctico: estimula la psicomotricidad fina, desarrolla el pensamiento matemático, ayuda en la concentración, trabaja el desarrollo óculo-manual y favorece la orientación espacial.
-- Recomendado para niños a partir de 3 años.
 - El juego incluye: 16 láminas para rellenar con gomets (8 diseños, 2 láminas por diseño), 10 hojas de gomets removibles de formas geométricas en distintos colores y una guía con ejemplos en color.
+- El objetivo del juego es completar los dibujos de las fichas usando diferentes gomets geométricos.
 - Producto con una original presentación y un atractivo diseño: caja metálica con diseño exclusivo APLI Kids, también útil para guardar los objetos de los niños.
+- Recomendado para niños a partir de 3 años.
+- Este juego, desarrollado con el soporte de pedagogos, contiene un alto valor didáctico: estimula la psicomotricidad fina, desarrolla el pensamiento matemático, ayuda en la concentración, trabaja el desarrollo óculo-manual y favorece la orientación espacial.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B079KCVFMB/?tag=tolees-21)
