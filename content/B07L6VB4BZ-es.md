@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Last Level- Pocket Llavero Pop Fortnite. al 64.17 % de rebaja'
-date: 2021-02-24 13:14:28
+date: 2021-03-14 21:43:24
 image: 'https://m.media-amazon.com/images/I/51c-MYa7sQL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LAST LEVEL'
 buyurl: 'https://www.amazon.es/dp/B07L6VB4BZ/?tag=tolees-21'
 descuento: '64.17'
-average: '3.17285714285715'
+average: '3.08750000000001'
 ---
 
 Tienes [Last Level- Pocket Llavero Pop Fortnite. Burnout  Multicolor  Funko 1 ](https://www.amazon.es/dp/B07L6VB4BZ/?tag=tolees-21) con precio final de  2.49 EUR (original: 6.95 EUR) (64.17 %  de rebaja) aqui!
@@ -28,8 +28,8 @@ Tienes [Last Level- Pocket Llavero Pop Fortnite. Burnout  Multicolor  Funko 1 ](
 
 🔎:
 
-- Multicolor
-- Llavero pop fortnite: burnout
 - Resistente y con diseño funcional
+- Llavero pop fortnite: burnout
+- Multicolor
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07L6VB4BZ/?tag=tolees-21)
