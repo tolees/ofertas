@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Columbia Flashback  Chaqueta cortaviento al 32.03 % de rebaja'
-date: 2021-03-13 13:14:12
+date: 2021-03-15 12:44:32
 image: 'https://m.media-amazon.com/images/I/41Iw0QDqKUL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Columbia'
 buyurl: 'https://www.amazon.es/dp/B017WHA4PY/?tag=tolees-21'
 descuento: '32.03'
-average: '32.1266666666667'
+average: '32.868'
 ---
 
 Tienes [Columbia Flashback  Chaqueta cortavientos  Hombre  Negro  Black   M](https://www.amazon.es/dp/B017WHA4PY/?tag=tolees-21) con precio final de  33.98 EUR (original: 49.99 EUR) (32.03 %  de rebaja) aqui!
@@ -28,10 +28,10 @@ Tienes [Columbia Flashback  Chaqueta cortavientos  Hombre  Negro  Black   M](htt
 
 🔎:
 
-- 1x Columbia Flashback Chaqueta cortavientos para hombre, Fibra sintética, Negro, M, Art. 1589325
-- Práctica, Cremallera completa, 2 bolsillos laterales para mantener las manos calientes y seguras
 - Dobladillo con cordón para una comodidad adecuada, Poliéster ligero y duradero
 - Chaqueta para usar todo el año: Tejido impermeable, Capucha ajustable y puños elásticos
+- Práctica, Cremallera completa, 2 bolsillos laterales para mantener las manos calientes y seguras
+- 1x Columbia Flashback Chaqueta cortavientos para hombre, Fibra sintética, Negro, M, Art. 1589325
 - Chaqueta cortavientos con capucha y tejido que absorbe el agua, adecuado para llevar de día y de noche, adecuado para el excursionismo, las actividades al aire libre y el uso cotidiano, ajuste activo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B017WHA4PY/?tag=tolees-21)

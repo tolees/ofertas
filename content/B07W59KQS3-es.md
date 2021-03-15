@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko - POP Animation: Dragon Ball Z - M con un 40.19 % de descuento'
-date: 2021-03-13 19:41:57
+date: 2021-03-15 13:12:40
 image: 'https://m.media-amazon.com/images/I/41zlV5R8OYL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Funko'
 buyurl: 'https://www.amazon.es/dp/B07W59KQS3/?tag=tolees-21'
 descuento: '40.19'
-average: '11.2'
+average: '10.9533333333333'
 ---
 
 En este momento está [Funko - POP Animation: Dragon Ball Z - Mecha Frieza](https://www.amazon.es/dp/B07W59KQS3/?tag=tolees-21) a 10.46 EUR (original: 17.49 EUR) (40.19 %  de descuento) en el siguiente enlace!
@@ -28,8 +28,8 @@ En este momento está [Funko - POP Animation: Dragon Ball Z - Mecha Frieza](http
 
 🔎:
 
-- Check out the other dragon ball z figures from funko and collect them all
 - Figure stands 9.5cm and comes in a window display box
+- Check out the other dragon ball z figures from funko and collect them all
 - From dragon ball z, mecha frieza, as a stylized pop vinyl from funko
 - Funko pop. Is the 2018 toy of the year and peoples choice award winner
 
