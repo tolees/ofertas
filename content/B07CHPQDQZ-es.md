@@ -28,9 +28,9 @@ Ahora mismo tienes [Guess Reloj Analógico para Mujer de Cuarzo con Correa en Ac
 
 🔎:
 
-- Correa Material/Color: Acero/Dorado
 - Caja Material/Color: Acero/Dorado
-- Tamaño: 28MM
+- Correa Material/Color: Acero/Dorado
 - Movimiento: Cuarzo, Display: Analógico
+- Tamaño: 28MM
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07CHPQDQZ/?tag=tolees-21)
