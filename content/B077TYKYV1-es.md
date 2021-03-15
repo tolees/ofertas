@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Black+Decker BXPW1400E Hidrolimpiadora d al 27.97 % de descuento'
-date: 2021-03-14 20:50:24
+date: 2021-03-15 22:07:41
 image: 'https://m.media-amazon.com/images/I/41fpzYn7u8L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Black+Decker'
 buyurl: 'https://www.amazon.es/dp/B077TYKYV1/?tag=tolees-21'
 descuento: '27.97'
-average: '73.0724999999999'
+average: '72.8499999999999'
 ---
 
 Está [Black+Decker BXPW1400E Hidrolimpiadora de Alta Presión  1400 W  230 V  Negro/Naranja  Única](https://www.amazon.es/dp/B077TYKYV1/?tag=tolees-21) con 27.97 de descuento por 71.96 EUR (original: 99.9 EUR) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [Black+Decker BXPW1400E Hidrolimpiadora de Alta Presión  1400 W  230 V  N
 
 ℹ️:
 
+- Hidrolimpiadora ideal para la limpieza ocasional de suciedad moderada presente en superficies exteriores, cancelas, herramientas y muebles de jardín, automóviles, motocicletas y bicicletas
 - Acompañada de seis accesorios que se pueden fijar a ganchos en la parte de atrás del aparato.
+- Conexión rápida de entrada de agua con filtro inspeccionable que retiene las impurezas y garantiza el perfecto funcionamiento de la hidrolimpiadora
 - Presión (bares) máx. 110; potencía absorbida (kw) 1, 4; caudal (l/h) máx. 390; temperatura de alimentación (°c) máx. 50
 - Asa integrada en la parte superior de la máquina para facilitar su transporte
-- Hidrolimpiadora ideal para la limpieza ocasional de suciedad moderada presente en superficies exteriores, cancelas, herramientas y muebles de jardín, automóviles, motocicletas y bicicletas
-- Conexión rápida de entrada de agua con filtro inspeccionable que retiene las impurezas y garantiza el perfecto funcionamiento de la hidrolimpiadora
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B077TYKYV1/?tag=tolees-21)

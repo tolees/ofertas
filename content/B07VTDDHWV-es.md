@@ -28,10 +28,10 @@ Ahora mismo tienes [PDP - Auricular con cable L](https://www.amazon.es/dp/B07VTD
 
 🔎:
 
-- Compatible con Nintendo Switch & Lite
-- El micrófono bidireccional con cancelación de ruido brinda una comunicación clara; además, puedes silenciar tu micrófono con solo subirlo en un rápido movimiento.
-- Escucha todas las instrucciones con sus potentes auriculares de audio de 40 mm.
 - Diseño transpirable y ligero para largas sesiones de juego.
 - Compatible con Waves Sound Sony para que puedas disfrutar del sonido espacial jugando en Nintendo Switch
+- Escucha todas las instrucciones con sus potentes auriculares de audio de 40 mm.
+- El micrófono bidireccional con cancelación de ruido brinda una comunicación clara; además, puedes silenciar tu micrófono con solo subirlo en un rápido movimiento.
+- Compatible con Nintendo Switch & Lite
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VTDDHWV/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cosmoplast Apósitos Impermeables - 20 Un al 59.18 % de rebaja'
-date: 2021-03-09 08:44:12
+date: 2021-03-15 22:10:52
 image: 'https://m.media-amazon.com/images/I/41sPdrpG9RL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'COSMOPLAST'
 buyurl: 'https://www.amazon.es/dp/B01H5VLQ9A/?tag=tolees-21'
 descuento: '59.18'
-average: '1.21818181818182'
+average: '1.18461538461538'
 ---
 
 Tienes [Cosmoplast Apósitos Impermeables - 20 Unidades](https://www.amazon.es/dp/B01H5VLQ9A/?tag=tolees-21) con precio final de  1.0 EUR (original: 2.45 EUR) (59.18 %  de rebaja) aqui!

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SanDisk Extreme PRO - Tarjeta de memoria al 35.24 % de rebaja'
-date: 2021-03-09 12:43:24
+date: 2021-03-15 22:04:48
 image: 'https://m.media-amazon.com/images/I/51sRJ2LqvkL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SanDisk'
 buyurl: 'https://www.amazon.es/dp/B07H9DVLBB/?tag=tolees-21'
 descuento: '35.24'
-average: '39.101052631579'
+average: '38.9718644067798'
 ---
 
 Tienes [SanDisk Extreme PRO - Tarjeta de memoria SDXC de 128 GB  hasta 170 MB/s  Class 10  U3 y V30](https://www.amazon.es/dp/B07H9DVLBB/?tag=tolees-21) con precio final de  35.29 EUR (original: 54.49 EUR) (35.24 %  de rebaja) aqui!
@@ -28,10 +28,10 @@ Tienes [SanDisk Extreme PRO - Tarjeta de memoria SDXC de 128 GB  hasta 170 MB/s 
 
 🔎:
 
+- Perfecta para grabar vídeos 4K UHD y para hacer fotografías secuenciales en modo ráfaga
 - Graba vídeos de forma ininterrumpida con UHS Speed Class 3 (U3) y Video Speed Class 30 (V30)
 - Temperatura de funcionamiento: de -25°C a 85°C
-- Fabricada para ser usada en condiciones extremas y sometida a ensayos en dichas condiciones; resistente a temperatura, agua, golpes y rayos X
 - Velocidad de disparo de hasta 90 MB/s y velocidades de transferencia de hasta 170 MB/s
-- Perfecta para grabar vídeos 4K UHD y para hacer fotografías secuenciales en modo ráfaga
+- Fabricada para ser usada en condiciones extremas y sometida a ensayos en dichas condiciones; resistente a temperatura, agua, golpes y rayos X
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07H9DVLBB/?tag=tolees-21)
