@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Continental 80  Zapatillas Hombre al 59.05 % de rebaja'
-date: 2021-03-14 14:57:52
+date: 2021-03-15 18:26:41
 image: 'https://m.media-amazon.com/images/I/41tq68h7FmL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [adidas Continental 80  Zapatillas Hombre  Blanco  FTWR White/Scarlet/Col
 
 🔎:
 
-- Material exterior: sintético
-- Cierre: cordones
-- Material de la suela: goma
 - Forro: sintético
+- Material de la suela: goma
+- Cierre: cordones
+- Material exterior: sintético
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07K1H9JHN/?tag=tolees-21)
