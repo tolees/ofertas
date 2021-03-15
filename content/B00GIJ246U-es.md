@@ -28,10 +28,10 @@ Está [Rimmel London Nail Nurse Base & Top Coat 5 en 1 Tratamiento para uñas To
 
 ℹ️:
 
-- Dale a tus uñas un tratamiento 5 en 1
-- Fórmula de secado rápido
 - Aplica encima de cualquier color de uñas Rimmel y verás como brilla aún más
-- Uñas más suaves, fuertes, largas, brillantes y bien hidratadas
+- Fórmula de secado rápido
+- Dale a tus uñas un tratamiento 5 en 1
 - Usálo como base antes de tus esmáltes o como Top Coat
+- Uñas más suaves, fuertes, largas, brillantes y bien hidratadas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00GIJ246U/?tag=tolees-21)

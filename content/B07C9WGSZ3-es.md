@@ -28,8 +28,8 @@ En este momento está [Lee Luke Pants Jeans  Rinse DP  29W / 34L para Hombre](ht
 
 🔎:
 
-- Estilo 5 bolsillos
-- Tienen un parche de piel en la parte trasera con la marca Lee
 - Vaqueros para hombre
+- Tienen un parche de piel en la parte trasera con la marca Lee
+- Estilo 5 bolsillos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07C9WGSZ3/?tag=tolees-21)

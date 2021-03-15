@@ -28,10 +28,10 @@ Tienes [AmazonBasics - Amazon Basics NC1506164H - Funda para ordenadores portát
 
 🔎:
 
-- Cierre con cremallera en la parte superior
-- Dimensiones externas: 33.5*24.9*2 cm
 - El diseño delgado le permite llevar el caso por sí mismo o en una bolsa
 - Dimensiones internas : 30.7*22.8*1.8 cm
+- Dimensiones externas: 33.5*24.9*2 cm
+- Cierre con cremallera en la parte superior
 - Construcción de neopreno que se ajusta al dispositivo para protegerlo
 - Comprueba las medidas del ordenador portátil para asegurarte de que cabe en la funda
 - Funda protectora compatible con ordenadores portátiles de hasta 13.3"
