@@ -29,9 +29,9 @@ Tienes [Colon Nenuco - Detergente para lavadora  adecuado para ropa blanca y de 
 ℹ️:
 
 - Ropa sin manchas, limpia, con un plus de luminosidad y fragancia Nenuco
+- Detergente para la lavadora en formato gel con fragancia Nenuco
+- Extra luminosidad en tus prendas blancas y de color
 - Descubre el resto de detergentes y limpialavadoras de Colon para una colada óptima
 - Aroma fresco y duradero Nenuco que te transportará a tu infancia y al mundo de los bebés
-- Extra luminosidad en tus prendas blancas y de color
-- Detergente para la lavadora en formato gel con fragancia Nenuco
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07VFDH5NS/?tag=tolees-21)

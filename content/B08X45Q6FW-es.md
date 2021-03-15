@@ -28,10 +28,10 @@ Está [Todiri - Humidificador de aromaterapia  300ML Difusores de aceites esenci
 
 ℹ️:
 
-- ✅ Purificar: neutraliza la estática, reduce la infección de la piel
 - ✅ Belleza: refresca la piel y se puede tomar como cuidado de la piel, mantiene la piel sana y húmeda
 - ✅ Decoración: elige la luz que te guste para que la habitación sea romántica y feliz, huela bien
-- ✅ Alivio: aromaterapia, alivia el estrés.
 - ✅ Humidificar: humedece el aire de la habitación durante el verano y el invierno, refresca la calidad del aire que respiramos.
+- ✅ Alivio: aromaterapia, alivia el estrés.
+- ✅ Purificar: neutraliza la estática, reduce la infección de la piel
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08X45Q6FW/?tag=tolees-21)

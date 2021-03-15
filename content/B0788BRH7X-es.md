@@ -28,8 +28,8 @@ Ahora mismo tienes [Tommy Hilfiger Repeat Logo Tape Joggers Pantalones Deportivo
 
 🔎:
 
-- Cintura y puños elásticos
-- Dos bolsillos ribeteados delanteros
 - Logo de Tommy Hilfiger bordado en el bolsillo
+- Dos bolsillos ribeteados delanteros
+- Cintura y puños elásticos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0788BRH7X/?tag=tolees-21)
