@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Smartwares Extintor de Polvo Seco  1 KG  al 25.21 % de descuento'
-date: 2021-02-19 09:27:54
-image: 'https://m.media-amazon.com/images/I/41CErDPmwyL._SL200_.jpg'
+date: 2021-03-15 08:16:29
+image: 'https://m.media-amazon.com/images/I/41CErDPmwyL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -19,21 +19,21 @@ flag: '🇪🇸'
 brand: 'Smartwares'
 buyurl: 'https://www.amazon.es/dp/B076ZVGZ6J/?tag=tolees-21'
 descuento: '25.21'
-average: '16.6211764705882'
+average: '16.4452631578947'
 ---
 
 Está [Smartwares Extintor de Polvo Seco  1 KG  Resistencia al Fuego ABC](https://www.amazon.es/dp/B076ZVGZ6J/?tag=tolees-21) con 25.21 de descuento por 14.95 EUR (original: 19.99 EUR) en el siguiente enlace!
 
-[![Smartwares Extintor de Polvo Seco  1 KG ](https://m.media-amazon.com/images/I/41CErDPmwyL._SL200_.jpg)](https://www.amazon.es/dp/B076ZVGZ6J/?tag=tolees-21)
+[![Smartwares Extintor de Polvo Seco  1 KG ](https://m.media-amazon.com/images/I/41CErDPmwyL._SL400_.jpg)](https://www.amazon.es/dp/B076ZVGZ6J/?tag=tolees-21)
 
 ℹ️:
 
-- Adecuado para usarlo tanto en casa como fuera
 - Incluye soporte para pared
-- Uso apto en oficinas, hogar, barcos, caravanas o coches
-- Extintor en idiomas Italiano, Portugués y Español
-- Certificado BSI
+- Adecuado para usarlo tanto en casa como fuera
 - El extintor de polvo seco tiene una fuerte capacidad de extinción e incluye materiales de montaje
 - El extintor tiene una capacidad de 1 kg con resistencia al fuego 8A, 34B, C; Resistencia al fuego ABC
+- Extintor en idiomas Italiano, Portugués y Español
+- Uso apto en oficinas, hogar, barcos, caravanas o coches
+- Certificado BSI
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B076ZVGZ6J/?tag=tolees-21)

@@ -1,32 +1,36 @@
 ---
 layout: post
-title: 'RASPBERRY Fuente DE ALIMENTACION USB-C 5 al 31.86 % de descuento'
-date: 2020-03-10 14:44:40
-image: 'https://m.media-amazon.com/images/I/31pbIPLGnbL._AC_._SL400_.jpg'
+title: 'RASPBERRY fuente de alimentacion USB-C 5 al 44.36 % de descuento'
+date: 2021-03-15 07:25:48
+image: 'https://m.media-amazon.com/images/I/31pbIPLGnbL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TZ89BT7-es RASPBERRY Fuente DE ALIMENTACION USB-C 5.1V 3A - Blanco -...'
+slug: 'B07TZ89BT7-es RASPBERRY fuente de alimentacion USB-C 5.1V 3A - blanco -...'
 sku: 'B07TZ89BT7-es'
 tags: [  ]
-actualPrice: 10.05 EUR
+actualPrice: 7.79 EUR
 currency: EUR
-price: 10.05
-comparePrice: 14.75 EUR
-prodname: 'RASPBERRY Fuente DE ALIMENTACION USB-C 5.1V 3A - Blanco - para RASPBERRY PI 4  1873421 '
+price: 7.79
+comparePrice: 14.0 EUR
+prodname: 'RASPBERRY fuente de alimentacion USB-C 5.1V 3A - blanco - para raspberry Pi 4 modelo B  1873421 '
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Raspberry'
 buyurl: 'https://www.amazon.es/dp/B07TZ89BT7/?tag=tolees-21'
-descuento: '31.86'
-average: '10.05'
+descuento: '44.36'
+average: '8.54333333333333'
 ---
 
-Ahora mismo tienes [RASPBERRY Fuente DE ALIMENTACION USB-C 5.1V 3A - Blanco - para RASPBERRY PI 4  1873421 ](https://www.amazon.es/dp/B07TZ89BT7/?tag=tolees-21) a 10.05 EUR (original: 14.75 EUR) (31.86 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [RASPBERRY fuente de alimentacion USB-C 5.1V 3A - blanco - para raspberry Pi 4 modelo B  1873421 ](https://www.amazon.es/dp/B07TZ89BT7/?tag=tolees-21) a 7.79 EUR (original: 14.0 EUR) (44.36 %  de descuento) en el siguiente enlace!
 
-[![RASPBERRY Fuente DE ALIMENTACION USB-C 5](https://m.media-amazon.com/images/I/31pbIPLGnbL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07TZ89BT7/?tag=tolees-21)
+[![RASPBERRY fuente de alimentacion USB-C 5](https://m.media-amazon.com/images/I/31pbIPLGnbL._SL400_.jpg)](https://www.amazon.es/dp/B07TZ89BT7/?tag=tolees-21)
 
 🔎:
 
+- Salida: 5.1 V
+- Rango de entrada de operación: 96-264 V
+- Protección contra cortocircuito, sobrecorriente y sobretemperatura
+- Conector de salida: USB-C
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07TZ89BT7/?tag=tolees-21)
