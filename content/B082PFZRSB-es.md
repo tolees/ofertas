@@ -28,10 +28,10 @@ Ahora mismo tienes [G-Technology G-DRIVE 14TB Enterprise Clase 7200 RPM  245MB/s
 
 🔎:
 
-- Usb 3.0 de alta velocidad para transferencias de datos a gran velocidad y universales
 - Carcasa sólida y totalmente de aluminio para proporcionar durabilidad
+- Usb 3.0 de alta velocidad para transferencias de datos a gran velocidad y universales
 - Preparada para time machine para realizar copias de seguridad de los archivos con fácil idad
-- plug-and-play» en mac; se puede reformatear fácilmente en windows
 - Capacidad de almacenamiento de hasta 14.tb para archivos multimedia pesados
+- plug-and-play» en mac; se puede reformatear fácilmente en windows
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B082PFZRSB/?tag=tolees-21)

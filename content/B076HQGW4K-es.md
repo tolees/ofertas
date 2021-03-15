@@ -28,11 +28,11 @@ Tienes [Adidas Core 18 Presentation TR Pnt Pantalones Deportivos  Hombre  Azul  
 
 🔎:
 
+- Tienen dos bolsillos laterales
+- Corte clásico que se adapta al cuerpo cómodamente.
+- 100% Poliéster.
+- Cintura elástica con cordón.
 - Logotipo de adidas en la cadera izquierda.
 - Dobladillo abierto.
-- Cintura elástica con cordón.
-- Corte clásico que se adapta al cuerpo cómodamente.
-- Tienen dos bolsillos laterales
-- 100% Poliéster.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B076HQGW4K/?tag=tolees-21)

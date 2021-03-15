@@ -29,9 +29,9 @@ Tienes [Adidas CORE18 PRE PNT Sport trousers  Hombre  Black/ White  M](https://w
 🔎:
 
 - Largo clásico.
+- Felpa 55% poliéster / 45% poliéster reciclado.
 - Forro de malla en las mangas.
 - Tienen bolsillos laterales
-- Felpa 55% poliéster / 45% poliéster reciclado.
 - Manga larga con puños de canalé.
 - Cuello alto.
 

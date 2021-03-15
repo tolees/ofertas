@@ -28,10 +28,10 @@ Ahora mismo tienes [Garnier Delial BB Sun Crema de Protección Solar con Color p
 
 🔎:
 
-- Crema BB Sun con SPF 50 para cara y escote con un color natural que ilumina y unifica el tono
-- Fórmula enriquecida con vitamina E, que tiene propiedades antioxidantes, y con un acabado hidratante 24 horas
-- Protección muy alta contra los efectos dañinos de los rayos UVA y UVB
 - Como resultado, tu piel se verá unificada, radiante y protegida
+- Fórmula enriquecida con vitamina E, que tiene propiedades antioxidantes, y con un acabado hidratante 24 horas
+- Crema BB Sun con SPF 50 para cara y escote con un color natural que ilumina y unifica el tono
 - Previene la aparición de arrugas y manchas causadas por el sol
+- Protección muy alta contra los efectos dañinos de los rayos UVA y UVB
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00X9TXQS2/?tag=tolees-21)
