@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 46.24 % en Spontex Bayeta Multifácil 2+1  Amarillo '
-date: 2021-03-09 10:57:38
+date: 2021-03-15 00:16:59
 image: 'https://m.media-amazon.com/images/I/514k4i1rHdL._SL400_.jpg'
 comments: true
 category: ofertas
