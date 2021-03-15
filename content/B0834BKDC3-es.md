@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Duramo SL  Sneaker Hombre  Core B con un 43.65 % de descuento'
-date: 2021-03-13 04:57:36
+date: 2021-03-15 04:21:30
 image: 'https://m.media-amazon.com/images/I/31nN64xe5KL._SL400_.jpg'
 comments: true
 category: ofertas

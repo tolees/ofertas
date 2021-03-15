@@ -28,11 +28,11 @@ Ahora mismo tienes [Superga 2790-COTROPEW  Zapatillas Mujer  Blanco  901 White  
 
 🔎:
 
-- Material exterior: tela.
-- Diámetro de la pantorrilla: normal.
-- Tipo de tacón: tacón de bloque.
 - Forro: tela.
-- Material de la suela: goma.
+- Material exterior: tela.
 - Cierre: con cordones.
+- Tipo de tacón: tacón de bloque.
+- Diámetro de la pantorrilla: normal.
+- Material de la suela: goma.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B018W87GFS/?tag=tolees-21)
