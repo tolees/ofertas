@@ -28,9 +28,9 @@ Está [Kärcher - Kärhcer WD 3 Premioum Battery Set Aspirador Multiusos con bat
 
 ℹ️:
 
-- Práctica función de soplado
-- Compatibilidad con la plataforma de baterías de 36 V (no incluye batería)
-- Filtro de cartucho especial
 - Para la aspiración en seco y húmedo sin cambio del filtro
+- Práctica función de soplado
+- Filtro de cartucho especial
+- Compatibilidad con la plataforma de baterías de 36 V (no incluye batería)
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B077ZL6THK/?tag=tolees-21)

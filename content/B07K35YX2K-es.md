@@ -1,32 +1,33 @@
 ---
 layout: post
-title: 'Adidas Continental 80  Zapatillas de Gim al 30.09 % de descuento'
-date: 2020-09-12 15:06:17
+title: 'Adidas Continental 80  Zapatillas de Gim al 50.05 % de descuento'
+date: 2021-03-15 14:36:04
 image: 'https://m.media-amazon.com/images/I/31aR0HHDziL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K35YX2K-es Adidas Continental 80 Zapatillas de Gimnasia para Hombre...'
+slug: 'B07K35YX2K-es Adidas Continental 80 Zapatillas de Gimnasia Unisex Adulto...'
 sku: 'B07K35YX2K-es'
 tags: [  ]
-actualPrice: 69.9 EUR
+actualPrice: 49.95 EUR
 currency: EUR
-price: 69.9
+price: 49.95
 comparePrice: 99.99 EUR
-prodname: 'Adidas Continental 80  Zapatillas de Gimnasia para Hombre  Negro  Core Black/Scarlet/Collegiate Navy   42 2/3 EU'
+prodname: 'Adidas Continental 80  Zapatillas de Gimnasia Unisex Adulto  Negro  Core Black/Scarlet/Collegiate Navy   42 2/3 EU'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B07K35YX2K/?tag=tolees-21'
-descuento: '30.09'
-average: '69.9'
+descuento: '50.05'
+average: '63.25'
 ---
 
-Ahora mismo tienes [Adidas Continental 80  Zapatillas de Gimnasia para Hombre  Negro  Core Black/Scarlet/Collegiate Navy   42 2/3 EU](https://www.amazon.es/dp/B07K35YX2K/?tag=tolees-21) a 69.9 EUR (original: 99.99 EUR) (30.09 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Adidas Continental 80  Zapatillas de Gimnasia Unisex Adulto  Negro  Core Black/Scarlet/Collegiate Navy   42 2/3 EU](https://www.amazon.es/dp/B07K35YX2K/?tag=tolees-21) a 49.95 EUR (original: 99.99 EUR) (50.05 %  de descuento) en el siguiente enlace!
 
 [![Adidas Continental 80  Zapatillas de Gim](https://m.media-amazon.com/images/I/31aR0HHDziL._SL400_.jpg)](https://www.amazon.es/dp/B07K35YX2K/?tag=tolees-21)
 
 🔎:
 
+- G27707 Continental 80
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07K35YX2K/?tag=tolees-21)

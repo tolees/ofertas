@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Soehnle 68096 Systo Monitor 300 Connect  al 61.92 % de rebaja'
-date: 2021-03-14 13:16:23
+date: 2021-03-15 14:30:57
 image: 'https://m.media-amazon.com/images/I/41inYAWtS4L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,7 +29,7 @@ Tienes [Soehnle 68096 Systo Monitor 300 Connect - Tensiómetro  Gris/Blanco  Ún
 🔎:
 
 - El sensor de movimiento avisa cuando se mueve el brazo para garantizar que las mediciones sean correctas
-- Gran pantalla LCD (4.9 x 7.3 cm) para leer cómodamente los valores medidos (sístole, diástole y pulso)
 - Conexión con la aplicación para smartphone Connect app de Soehnle: fácil de usar y control total de los datos
+- Gran pantalla LCD (4.9 x 7.3 cm) para leer cómodamente los valores medidos (sístole, diástole y pulso)
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B078PN2YK9/?tag=tolees-21)

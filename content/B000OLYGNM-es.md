@@ -28,9 +28,9 @@ Tienes [TRIXIE Pasarela Hámster Natural Living  18 peldaños  7 × 27 cm  Peque
 
 ℹ️:
 
-- madera natural
+- flexible
 - para colgar
 - Los productos Natural Living están elaborados con madera de conífera sin canales de resina. La resina es venenosa para los animales. El pegamento que usamos no es tóxico para los animales.
-- flexible
+- madera natural
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000OLYGNM/?tag=tolees-21)

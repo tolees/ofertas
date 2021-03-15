@@ -28,11 +28,11 @@ Tienes [Kärcher Aspirador VC 3  1.198-125.0 ](https://www.amazon.es/dp/B01MT60N
 
 ℹ️:
 
+- Componentes incluidos: cepillo de limpieza
 - Aspirador sin bolsa multiclónico muy potente, silencioso y con enrollador de cable automático
-- Eficiencia energética a
 - La compacta aspiradora de trineo vc 3 con tecnología multiciclónica permite aspirar sin bolsa de filtro
 - Filtro hepa 12 que absorbe hasta el 99,5 % de polvo y partículas y expulsa un aire limpio y sano
-- Componentes incluidos: cepillo de limpieza
 - Depósito extraíble y transparente para ver en todo momento cuando es necesario vaciarlo y se puede limpiar fácilmente con agua
+- Eficiencia energética a
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01MT60NRQ/?tag=tolees-21)

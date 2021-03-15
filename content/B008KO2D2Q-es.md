@@ -28,10 +28,10 @@ Ahora mismo tienes [Monix Vitro Express-Cafetera  Apta para Todo Tipo de encimer
 
 🔎:
 
-- Exterior súper resistente y diseño interior del calderín sin cantos para una limpieza más cómoda
-- Capacidad para 3 tazas de café - 150 ml
-- Apta para todo tipo de encimeras, excepto inducción. No limpiar en lavavajillas
 - Acabado aluminio efecto mate
 - Cafetera con asa de baquelita termo-resistente ergonómica para un agarre fácil y seguro
+- Capacidad para 3 tazas de café - 150 ml
+- Apta para todo tipo de encimeras, excepto inducción. No limpiar en lavavajillas
+- Exterior súper resistente y diseño interior del calderín sin cantos para una limpieza más cómoda
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B008KO2D2Q/?tag=tolees-21)
