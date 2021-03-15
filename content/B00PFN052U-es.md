@@ -28,12 +28,12 @@ Ahora mismo tienes [Orbegozo FHR 3050 Calefactor Cerámico Profesional con 2 Pot
 
 🔎:
 
-- Pies antideslizantes
 - Control ajustable de la temperatura
-- Apagado automático de seguridad
-- Sistema de protección contra sobrecalentamiento
 - 2 potencias de calor
-- Cuerpo metálico
 - Función ventilador
+- Sistema de protección contra sobrecalentamiento
+- Pies antideslizantes
+- Apagado automático de seguridad
+- Cuerpo metálico
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00PFN052U/?tag=tolees-21)

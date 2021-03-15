@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger Original Stretch Camisa   con un 32.62 % de descuento'
-date: 2021-03-14 16:00:21
+date: 2021-03-15 17:16:50
 image: 'https://m.media-amazon.com/images/I/41LjaX7UzDL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Tommy Hilfiger'
 buyurl: 'https://www.amazon.es/dp/B07773BMJY/?tag=tolees-21'
 descuento: '32.62'
-average: '48.1132061068704'
+average: '48.1009090909093'
 ---
 
 En este momento está [Tommy Hilfiger Original Stretch Camisa  Azul  Lavender Lustre 556   Large para Hombre](https://www.amazon.es/dp/B07773BMJY/?tag=tolees-21) a 46.49 EUR (original: 69.0 EUR) (32.62 %  de descuento) en el siguiente enlace!
