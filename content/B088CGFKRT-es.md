@@ -28,13 +28,13 @@ En este momento está [Dove Desodorante Roll On Sensitive 0% Aluminio 50ml Pack 
 
 🔎:
 
-- Formato Aerosol
+- Dove Desodorante Roll-on Sensitive 0%
+- Con Fragancia Neutra
 - Protección 48h
 - Sin Alcohol
-- Con Fragancia Neutra
-- Con 1/4 de crema hidratante
-- Dove Desodorante Roll-on Sensitive 0%
 - Sin sales de aluminio
 - Hipoalergénico
+- Formato Aerosol
+- Con 1/4 de crema hidratante
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B088CGFKRT/?tag=tolees-21)
