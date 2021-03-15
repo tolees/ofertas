@@ -28,9 +28,9 @@ En este momento está [Western Digital - WD Elements Desktop - Disco duro extern
 
 🔎:
 
-- Calidad wd por dentro y por fuera
 - Almacenamiento adicional de alta capacidad
-- Plug-and-play para ordenadores windows
+- Calidad wd por dentro y por fuera
 - Rápidas transferencias de datos
+- Plug-and-play para ordenadores windows
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07Y3KDVZH/?tag=tolees-21)

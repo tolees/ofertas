@@ -28,10 +28,10 @@ En este momento está [Hanbee Gamuza Microfibra Anti-Vaho 4 Piezas  Premium pañ
 
 🔎:
 
-- VERSATIL: se puede utilizar para gafas graduadas, de sol, de buceo, lentes de cámara, visores de cascos, binoculares y mucho más.
-- RECOMENDABLE: guardar en la bolsa cerrada, No lavar la gamuza, pierde el tratamiento anti vaho.
-- RECOMENDABLE: Para un efecto óptimo, limpiar con agua y jabón previamente la lente y secar completamente antes de aplicar la gamuza.
-- REUTILIZABLE: 600 veces de uso; 24 horas de efecto
 - LISTA DE PAQUETES:4 Piezas Gamuza Microfibra Anti-Vaho, sin liquidos adicionales
+- RECOMENDABLE: Para un efecto óptimo, limpiar con agua y jabón previamente la lente y secar completamente antes de aplicar la gamuza.
+- VERSATIL: se puede utilizar para gafas graduadas, de sol, de buceo, lentes de cámara, visores de cascos, binoculares y mucho más.
+- REUTILIZABLE: 600 veces de uso; 24 horas de efecto
+- RECOMENDABLE: guardar en la bolsa cerrada, No lavar la gamuza, pierde el tratamiento anti vaho.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08PB6PZ8Y/?tag=tolees-21)

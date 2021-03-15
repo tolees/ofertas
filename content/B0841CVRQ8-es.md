@@ -28,8 +28,8 @@ En este momento está [Tommy Hilfiger TJM Essential Down Jacket Chaqueta  Verde 
 
 🔎:
 
-- Tommy Jeans ropa exterior para hombre
 - Producto original y auténtico de Tommy Hilfiger/Tommy Jeans
+- Tommy Jeans ropa exterior para hombre
 - Más información sobre Tommy Hilfiger / Tommy Jeans se puede encontrar en la descripción del producto
 - Este producto se ha producido de forma sostenible
 

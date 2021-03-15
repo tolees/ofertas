@@ -28,10 +28,10 @@ Tienes [Hauck Cuna de Viaje Dream N Play  para Bebes y Niños de Nacimiento hast
 
 ℹ️:
 
-- Accesorios extras: para mayor comodidad puede combinar la cuna de viaje con nuestros colchones de espuma Hauck sleeper asi como la sábana bed me de la misma marca Hauck
 - Ventanas red: la red permite que el aire circule de forma natural, su hijo se pasara el día jugando y usted podrá controlarlo de cualquier ángulo de la habitación
-- Plegado: la cuna de viaje ligera de peso es facil de plegar ahorrando espacio vaya donde vaya, lleva incluida su propia bolsa de transporte con asas para protegerla de suicidad y de rotura
 - Incluido: la cuna de viaje lleva incluido su propio colchoncito que le servirá como base de cuna, la bolsa de transporte con asas le facilitara el transporte
 - Para los viajes: la cuna de viaje es un óptimo companero de viaje y de vacaciones en familia, proporciona movilidad y su bebe no tiene que adaptarse a camas y entornos desconocidos
+- Plegado: la cuna de viaje ligera de peso es facil de plegar ahorrando espacio vaya donde vaya, lleva incluida su propia bolsa de transporte con asas para protegerla de suicidad y de rotura
+- Accesorios extras: para mayor comodidad puede combinar la cuna de viaje con nuestros colchones de espuma Hauck sleeper asi como la sábana bed me de la misma marca Hauck
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000UCSFGO/?tag=tolees-21)

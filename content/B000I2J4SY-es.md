@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JVC HA-L50W  Cuffie Leggere  18 - 22000  al 40.59 % de rebaja'
-date: 2021-03-08 15:57:27
+date: 2021-03-15 09:14:27
 image: 'https://m.media-amazon.com/images/I/31PhMrR9fBL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,8 +29,8 @@ Tienes [JVC HA-L50W  Cuffie Leggere  18 - 22000 Hz  3 cm  1 5 m  Bianco](https:/
 🔎:
 
 - Potente imán de neodimio de 30 mm
+- Diseño estilizado para los reproductores de MP3
 - Diseño plegable
 - Cable resistente y anti-enredos de 1,5 m
-- Diseño estilizado para los reproductores de MP3
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B000I2J4SY/?tag=tolees-21)

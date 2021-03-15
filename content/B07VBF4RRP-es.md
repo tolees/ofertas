@@ -28,10 +28,10 @@ Tienes [Lacoste Reloj Analógico para Mujer de Cuarzo con Correa en Cuero 200109
 
 🔎:
 
-- Tres manecillas
 - Correa de piel negra con diseño petit piqué
 - Grosor de la caja de 9,6 mm, Diámetro de la caja: 36 mm
-- Esfera negro
+- Tres manecillas
 - 5 ATM de resistencia al agua
+- Esfera negro
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07VBF4RRP/?tag=tolees-21)

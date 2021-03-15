@@ -28,10 +28,10 @@ Está [Citizen Reloj Analógico para Hombre de Cuarzo con Correa en Titanio BM74
 
 ℹ️:
 
-- Reserva de marcha de 180 días
 - Tapa atornillada
-- Accionamiento de luz Eco-drive
-- Resistencia al agua: 10 bar
 - Indicador de fecha
+- Resistencia al agua: 10 bar
+- Reserva de marcha de 180 días
+- Accionamiento de luz Eco-drive
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07DB1JC6B/?tag=tolees-21)

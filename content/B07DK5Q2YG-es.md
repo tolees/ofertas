@@ -28,10 +28,10 @@ Ahora mismo tienes [Festina Reloj Analógico para Mujer de Cuarzo con Correa en 
 
 🔎:
 
+- - Cristal: Cristal Mineral
 - - Forma de la Carcasa: Redondo
 - - Color de la caja: Plata
-- - Material de la Carcasa: Acero inoxidable
-- - Cristal: Cristal Mineral
 - Carcasa
+- - Material de la Carcasa: Acero inoxidable
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07DK5Q2YG/?tag=tolees-21)
