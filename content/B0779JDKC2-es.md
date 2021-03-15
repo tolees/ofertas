@@ -29,7 +29,7 @@ Ahora mismo tienes [Pepe Jeans Pixie PL200025 Camiseta  Blanco  Optic White 802 
 🔎:
 
 - Tiene estampado la marca Pepe Jeans
-- Camiseta para niños
 - Fabricada en tejido ligero que ofrece comodidad
+- Camiseta para niños
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0779JDKC2/?tag=tolees-21)

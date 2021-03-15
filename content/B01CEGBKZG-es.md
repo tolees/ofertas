@@ -28,10 +28,10 @@ Está [MasterPro Click & Cook Wok  Aluminio Forjado  Gris  9 cm](https://www.ama
 
 ℹ️:
 
-- Fondo apto para inducción
-- Aluminio forjado adentro revestimiento de teflon de mármol color gris
 - Mango de acero inoxidable con silicona
 - Wok
 - Dimensiones: diámetro 28 x 8 cm
+- Aluminio forjado adentro revestimiento de teflon de mármol color gris
+- Fondo apto para inducción
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01CEGBKZG/?tag=tolees-21)

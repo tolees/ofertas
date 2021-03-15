@@ -28,8 +28,8 @@ Tienes [Soehnle 68096 Systo Monitor 300 Connect - Tensiómetro  Gris/Blanco  Ún
 
 🔎:
 
+- Gran pantalla LCD (4.9 x 7.3 cm) para leer cómodamente los valores medidos (sístole, diástole y pulso)
 - El sensor de movimiento avisa cuando se mueve el brazo para garantizar que las mediciones sean correctas
 - Conexión con la aplicación para smartphone Connect app de Soehnle: fácil de usar y control total de los datos
-- Gran pantalla LCD (4.9 x 7.3 cm) para leer cómodamente los valores medidos (sístole, diástole y pulso)
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B078PN2YK9/?tag=tolees-21)

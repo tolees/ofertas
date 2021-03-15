@@ -28,10 +28,10 @@ Está [Changhants 6-16 Años Niña Conjunto de Bikini Multicolor a Rayas Traje d
 
 ℹ️:
 
-- Apta para nadar, surfear, piscina, etc.
-- Ideal para casuales, playa de arena, surf y piscina, etc.
-- Conjunto de bikini con tiras
 - Raya multicolor
 - Kindly remark : We have not used the Amazon size chart . Please refer to the size chart we provide in detail .
+- Ideal para casuales, playa de arena, surf y piscina, etc.
+- Apta para nadar, surfear, piscina, etc.
+- Conjunto de bikini con tiras
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08B6DJW6V/?tag=tolees-21)

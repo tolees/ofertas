@@ -28,8 +28,8 @@ Ahora mismo tienes [Chanclas/ADIDAS:Adilette Aqua 38 Negro](https://www.amazon.e
 
 🔎:
 
+- Corte regular
 - Cinturón de EVA preformado de una pieza
 - Diseño del Slip-On
-- Corte regular
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07F752VWZ/?tag=tolees-21)

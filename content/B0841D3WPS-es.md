@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger - Tommy Jeans Hombre SCAN con un 50.44 % de descuento'
-date: 2021-03-13 09:52:35
+date: 2021-03-15 16:22:30
 image: 'https://m.media-amazon.com/images/I/31w7p7+e25L._SL400_.jpg'
 comments: true
 category: ofertas

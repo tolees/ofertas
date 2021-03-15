@@ -28,8 +28,8 @@ Ahora mismo tienes [adidas Galaxy 5  Sneaker Hombre  Core Black/Footwear White/F
 
 🔎:
 
+- La parte superior de la gamuza
 - Suela de goma
 - Corte regular
-- La parte superior de la gamuza
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08C78HK2S/?tag=tolees-21)
