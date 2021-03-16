@@ -28,8 +28,8 @@ En este momento está [VANS Filmore Decon  Zapatillas Hombre  Negro  Canvas  Bla
 
 🔎:
 
+- Composición: Upper: Textile / Lining: Textile / Sole: Rubber
 - Cierre: Cordones
 - Tipo de tacón: Plano
-- Composición: Upper: Textile / Lining: Textile / Sole: Rubber
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07FXKBT8W/?tag=tolees-21)

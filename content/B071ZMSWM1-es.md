@@ -29,9 +29,9 @@ Está [Fluchos | Zapato de Hombre | HERACLES 8410 Memory Negro Zapato de Vestir 
 ℹ️:
 
 - CUIDADO DEL PRODUCTO: Lavado con paño húmedo. Es aconsejable utilizar cremas incoloras que no modifiquen el color natural de la piel. No utilizar productos agresivos con la piel, ni betún de color, pueden ser muy perjudiciales.
-- COLOR: Negro
-- CIERRE: Cordones
 - TACÓN: Plano
+- CIERRE: Cordones
 - MATERIALES: Piel de vacuno de primera calidad y Piso de goma personalizado
+- COLOR: Negro
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B071ZMSWM1/?tag=tolees-21)

@@ -28,8 +28,8 @@ En este momento está [Skechers Summits  Zapatillas Deportivas Mujer  Azul Navy 
 
 🔎:
 
+- Skechers Summits Womens Trainers / Shoes
 - garantía de reembolso satisfacción
 - Skechers
-- Skechers Summits Womens Trainers / Shoes
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B076TDNR68/?tag=tolees-21)

@@ -28,10 +28,10 @@ Tienes [GYNEA Complemento Alimenticio - 100 gr](https://www.amazon.es/dp/B00DN9J
 
 🔎:
 
-- Hierro (14 mg): esencial en la producción de glóbulos rojos y para ayudar a prevenir las anemias en el embarazo
-- DHA de microalgas (160 mg): contribuye al desarrollo del cerebro y la visión del feto
 - Ácido fólico (400 µg): ayuda a prevenir defectos del tubo neural en el feto
 - Yodo (150 µg): esencial para el desarrollo cognitivo y neurológico del feto
+- Hierro (14 mg): esencial en la producción de glóbulos rojos y para ayudar a prevenir las anemias en el embarazo
 - Vitamina D (5µg): favorece la absorción del calcio y es necesaria para la formación y crecimiento óseo del futuro bebé
+- DHA de microalgas (160 mg): contribuye al desarrollo del cerebro y la visión del feto
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00DN9JKGA/?tag=tolees-21)
