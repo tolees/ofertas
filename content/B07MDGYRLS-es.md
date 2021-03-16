@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07MDGYRLS-es Nike Renew Lucent Zapatillas Hombre Negro Black/White 002...'
 sku: 'B07MDGYRLS-es'
-tags: [  ]
+tags: [ 'nike', ]
 actualPrice: 43.97 EUR
 currency: EUR
 price: 43.97
@@ -28,8 +28,8 @@ Ahora mismo tienes [Nike Renew Lucent  Zapatillas Hombre  Negro  Black/White 002
 
 🔎:
 
-- Shoe Width : medium
 - sintética, Textíl, sintética, sintética, Cordones, Zapatillas bajas
 - 1
+- Shoe Width : medium
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07MDGYRLS/?tag=tolees-21)

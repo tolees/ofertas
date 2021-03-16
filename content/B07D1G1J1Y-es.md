@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07D1G1J1Y-es MjAMjAM - Comida húmeda premium para gatos - Paquete de...'
 sku: 'B07D1G1J1Y-es'
-tags: [  ]
+tags: [ 'mjamjam', ]
 actualPrice: 9.62 EUR
 currency: EUR
 price: 9.62
@@ -28,10 +28,10 @@ Está [MjAMjAM - Comida húmeda premium para gatos - Paquete de mezcla - Pollo  
 
 ℹ️:
 
-- Pienso acuoso para gatos. Proporción extraalta de carne. Vitaminas y minerales importantes. Sin cereales
-- ver artículos individuales
 - Renunciamos a: Gluten y soja, Conservantes sintéticos, lactosa, azúcar
-- Para nuestras comidas, empleamos mayoritariamente ingredientes procedentes de granjas regionales; criados y cultivados con mucho amor
 - MjAMjAM - porque es sabroso
+- ver artículos individuales
+- Pienso acuoso para gatos. Proporción extraalta de carne. Vitaminas y minerales importantes. Sin cereales
+- Para nuestras comidas, empleamos mayoritariamente ingredientes procedentes de granjas regionales; criados y cultivados con mucho amor
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07D1G1J1Y/?tag=tolees-21)

@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07VXX9TKT-es Pepe Jeans Cash Short Jeans Azul Denim 000 40 para Hombre'
 sku: 'B07VXX9TKT-es'
-tags: [  ]
+tags: [ 'pepe jeans', ]
 actualPrice: 12.13 EUR
 currency: EUR
 price: 12.13

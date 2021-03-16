@@ -1,40 +1,40 @@
 ---
 layout: post
-title: 'Hugo BOSS Reloj para Hombre 1513473 al 67.58 % de descuento'
-date: 2021-03-13 11:56:38
+title: 'Hugo BOSS Reloj para Hombre 1513473 al 67.60 % de descuento'
+date: 2021-03-16 12:12:35
 image: 'https://m.media-amazon.com/images/I/41h84EsBpQL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B01N80UO1M-es Hugo BOSS Reloj para Hombre 1513473'
 sku: 'B01N80UO1M-es'
-tags: [  ]
-actualPrice: 161.79 EUR
+tags: [ 'hugo boss', ]
+actualPrice: 161.7 EUR
 currency: EUR
-price: 161.79
+price: 161.7
 comparePrice: 499.0 EUR
 prodname: 'Hugo BOSS Reloj para Hombre 1513473'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Hugo Boss'
 buyurl: 'https://www.amazon.es/dp/B01N80UO1M/?tag=tolees-21'
-descuento: '67.58'
-average: '178.649615384615'
+descuento: '67.60'
+average: '178.021851851851'
 ---
 
-Está [Hugo BOSS Reloj para Hombre 1513473](https://www.amazon.es/dp/B01N80UO1M/?tag=tolees-21) con 67.58 de descuento por 161.79 EUR (original: 499.0 EUR) en el siguiente enlace!
+Está [Hugo BOSS Reloj para Hombre 1513473](https://www.amazon.es/dp/B01N80UO1M/?tag=tolees-21) con 67.60 de descuento por 161.7 EUR (original: 499.0 EUR) en el siguiente enlace!
 
 [![Hugo BOSS Reloj para Hombre 1513473](https://m.media-amazon.com/images/I/41h84EsBpQL._SL400_.jpg)](https://www.amazon.es/dp/B01N80UO1M/?tag=tolees-21)
 
 ℹ️:
 
-- Cierre de broche oculto con botón de presión
-- Taquímetro integrado para medir distancias al instante en función de la velocidad
 - Esfera con efecto "rayo de sol" y detalles de color oro rosa que añade un toque de distinción
-- Este modelo deportivo e informal con un toque clásico complementa el estilo del conductor con elegancia
-- Visualización cronógrafo
-- Pulsera de dos tonos de acero inoxidable y de chapado en oro rosa
+- Taquímetro integrado para medir distancias al instante en función de la velocidad
 - Indicador de fecha en la posición de las 4
+- Este modelo deportivo e informal con un toque clásico complementa el estilo del conductor con elegancia
+- Cierre de broche oculto con botón de presión
 - Forma del producto: redondo
+- Pulsera de dos tonos de acero inoxidable y de chapado en oro rosa
+- Visualización cronógrafo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01N80UO1M/?tag=tolees-21)

@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B08L6LWLSQ-es MooSoo Aspiradora de mano ciclónica 17000Pa 2 en 1'
 sku: 'B08L6LWLSQ-es'
-tags: [  ]
+tags: [ 'moosoo', ]
 actualPrice: 61.37 EUR
 currency: EUR
 price: 61.37

@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B078SWG46R-es Timberland Perkins Row 2-Strap Youth Sandalias de Punta...'
 sku: 'B078SWG46R-es'
-tags: [  ]
+tags: [ 'timberland', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99
