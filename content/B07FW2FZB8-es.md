@@ -29,8 +29,8 @@ En este momento está [LolaPix - Llavero Amor Personalizado con Foto/Texto/Image
 🔎:
 
 - Caras imprimibles: 2
-- Área imprimible Llavero Amor: 25 x 40 mm.
-- Llavero Amor Metálico rectangular.
 - Medidas Llavero Amor: 54 x 30 mm.
+- Llavero Amor Metálico rectangular.
+- Área imprimible Llavero Amor: 25 x 40 mm.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07FW2FZB8/?tag=tolees-21)

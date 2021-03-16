@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'BRIKSMAX Kit de Iluminación Led para Leg al 40.01 % de descuento'
-date: 2021-03-15 16:13:45
+date: 2021-03-16 17:09:22
 image: 'https://m.media-amazon.com/images/I/417kyZnjprL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0878YRL6Z-es BRIKSMAX Kit de Iluminación Led para Lego Architecture...'
 sku: 'B0878YRL6Z-es'
-tags: [  ]
+tags: [ 'briksmax', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99
@@ -28,9 +28,9 @@ Está [BRIKSMAX Kit de Iluminación Led para Lego Architecture Dubai Compatible 
 
 ℹ️:
 
+- Si tienes problemas con tu producto, por favor envíanos u correo electrónico, siempre estamos listos para ayudarte.
 - Por favor, ten en cuenta que este es sólo un juego de luces LED. Los juegos LEGO que se muestran en las imágenes y videos no están incluidos.
 - Diseñado para el Lego 21052,Con este kit de iluminación, puedes iluminar tu LEGO Architecture Dubai,y darle vida.
-- Si tienes problemas con tu producto, por favor envíanos u correo electrónico, siempre estamos listos para ayudarte.
 - El paquete contiene mini-luces,tiras de luces, placas de expansión,cables de conexión, portapilas (pilas no incluidas),cuadrados adhesivos,libro de instrucciones
 - Gracias a las instrucciones paso a paso, será mucho más fácil hacer una gran mejora a tu kit de construcción favorito.
 

@@ -28,10 +28,10 @@ Ahora mismo tienes [oodji Ultra Mujer Blusa de Viscosa con Espalda Larga  Azul  
 
 🔎:
 
-- Estilo de ropa: Casual
-- Ideal para crear un sensacional estilo casual para el día a día y disfrutar de tus ratos libres con mucho estilo
-- Las prendas de colección oodji Ultra tienen la talla más pequeña de lo normal, te recomendamos que elijas una talla superior a tu talla habitual o que consultes la tabla de tallas de oodji. Modelo: Talla S. Medidas: 89/61/91. Altura/peso: 177cm/55kg
 - Elegante blusa de viscosa holgada y de gran longitud con parte de la espalda más larga que el resto de la blusa
+- Las prendas de colección oodji Ultra tienen la talla más pequeña de lo normal, te recomendamos que elijas una talla superior a tu talla habitual o que consultes la tabla de tallas de oodji. Modelo: Talla S. Medidas: 89/61/91. Altura/peso: 177cm/55kg
+- Ideal para crear un sensacional estilo casual para el día a día y disfrutar de tus ratos libres con mucho estilo
+- Estilo de ropa: Casual
 - Longitud de espalda (talla M): 85cm
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07DVYPQTS/?tag=tolees-21)

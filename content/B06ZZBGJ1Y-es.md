@@ -28,9 +28,9 @@ Está [Limpiador Multiusos de Superficies Perfumado Pulverizador para Cristales 
 
 ℹ️:
 
-- multiuso
 - Dimensiones del producto: 8 x 8 x 30 cm
 - fácil de usar
 - producto de calidad
+- multiuso
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06ZZBGJ1Y/?tag=tolees-21)

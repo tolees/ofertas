@@ -28,10 +28,10 @@ Está [oodji Ultra Mujer Blusa Estampada de Viscosa  Rojo  ES 34 / XXS](https://
 
 ℹ️:
 
-- Cómoda y ligera blusa perfecta para el el buen tiempo y el entretiempo
-- Estilo de ropa: Casual
-- Las prendas de colección oodji Ultra tienen la talla más pequeña de lo normal, te recomendamos que elijas una talla superior a tu talla habitual o que consultes la tabla de tallas de oodji. Modelo: Talla S. Medidas: 85/63/90. Altura/peso: 176cm/55kg
-- Elegante blusa con original estmapado ideal para crear un look casual
 - Longitud de espalda (talla M): 67,5cm
+- Las prendas de colección oodji Ultra tienen la talla más pequeña de lo normal, te recomendamos que elijas una talla superior a tu talla habitual o que consultes la tabla de tallas de oodji. Modelo: Talla S. Medidas: 85/63/90. Altura/peso: 176cm/55kg
+- Estilo de ropa: Casual
+- Cómoda y ligera blusa perfecta para el el buen tiempo y el entretiempo
+- Elegante blusa con original estmapado ideal para crear un look casual
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01N9ZNPN6/?tag=tolees-21)

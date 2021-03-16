@@ -28,8 +28,8 @@ Está [Casio EDIFICE Reloj en caja sólida  10 BAR  Azul  para Hombre  con Corre
 
 ℹ️:
 
-- Fondo de la carcasa atornillado
 - Material: cristal mineral
+- Fondo de la carcasa atornillado
 - Clasificación de resistencia al agua (10 bar)
 - Indicador de fecha
 - Pantalla de neón
