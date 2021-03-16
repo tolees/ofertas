@@ -28,10 +28,10 @@ Está [Black+Decker BXPW1400E Hidrolimpiadora de Alta Presión  1400 W  230 V  N
 
 ℹ️:
 
-- Hidrolimpiadora ideal para la limpieza ocasional de suciedad moderada presente en superficies exteriores, cancelas, herramientas y muebles de jardín, automóviles, motocicletas y bicicletas
 - Acompañada de seis accesorios que se pueden fijar a ganchos en la parte de atrás del aparato.
-- Conexión rápida de entrada de agua con filtro inspeccionable que retiene las impurezas y garantiza el perfecto funcionamiento de la hidrolimpiadora
 - Presión (bares) máx. 110; potencía absorbida (kw) 1, 4; caudal (l/h) máx. 390; temperatura de alimentación (°c) máx. 50
+- Hidrolimpiadora ideal para la limpieza ocasional de suciedad moderada presente en superficies exteriores, cancelas, herramientas y muebles de jardín, automóviles, motocicletas y bicicletas
 - Asa integrada en la parte superior de la máquina para facilitar su transporte
+- Conexión rápida de entrada de agua con filtro inspeccionable que retiene las impurezas y garantiza el perfecto funcionamiento de la hidrolimpiadora
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B077TYKYV1/?tag=tolees-21)

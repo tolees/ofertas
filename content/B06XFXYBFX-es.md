@@ -28,9 +28,9 @@ Está [Moleskine - Lápices de acuarela  12 colores ](https://www.amazon.es/dp/B
 
 ℹ️:
 
+- Viene en una caja de metal
+- Con una forma rectangular distintiva
 - 12 lápices de acuarela con una punta de 3 mm
 - Hecho de cedro natural
-- Con una forma rectangular distintiva
-- Viene en una caja de metal
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06XFXYBFX/?tag=tolees-21)

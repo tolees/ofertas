@@ -28,10 +28,10 @@ Tienes [Polti Vaporella Simply VS10.10 - Centro De Planchado Bomba  6.5 Bar  Aut
 
 ℹ️:
 
-- Centro de planchado a vapor con bomba de 6.5 Bar, depósito extraíble
 - Función Eco para limitar el consumo
-- Suela de cerámica para un mayor deslizamiento
 - Orificios concentrados por toda la superficie de la plancha para una erogación de vapor más uniforme
 - Autonomía ilimitada, temperatura de la plancha regulable
+- Suela de cerámica para un mayor deslizamiento
+- Centro de planchado a vapor con bomba de 6.5 Bar, depósito extraíble
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07FZK5PWQ/?tag=tolees-21)

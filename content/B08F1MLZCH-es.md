@@ -28,10 +28,10 @@ Está [PINPOXE - Kit de Tatuajes Temporales  Tinta para tatuaje  Gel Para Tatuaj
 
 ℹ️:
 
-- TENGA EN CUENTA: Jagua Ink / Gel Tattoo contiene componentes de frutas. Si cree que tiene alergia o sensibilidad a las frutas o bayas, le recomendamos que pruebe nuestro producto dibujando una pequeña mancha en su piel. Espere de 12 a 24 horas para que se desarrolle la muestra y controle su piel durante la semana siguiente para asegurarse de que no haya reacción antes de usar.
-- 2 tintas de tatuaje pequeñas, 2 plantillas de bricolaje, sin desperdicio y fáciles de usar. La punta de aguja metálica permite diseños muy detallados y una botella para presionar y verificar fácilmente.
 - DISEÑO: Botella de diseño ergonómico para fácil extrusión y control. La tinta azul oscuro para tatuajes temporales de bricolaje, como el color de los tatuajes permanentes, es segura para la piel.
-- SEGURIDAD: Todo natural, orgánico y duradero: este kit es seguro para los niños y no contiene PPD u otros productos químicos tóxicos. ¡Almacene en el refrigerador para obtener mejores resultados cuando no esté en uso! 100% orgánico Cada lote de Jagua se ha recogido recientemente a mano y se ha probado su frescura y seguridad.
+- TENGA EN CUENTA: Jagua Ink / Gel Tattoo contiene componentes de frutas. Si cree que tiene alergia o sensibilidad a las frutas o bayas, le recomendamos que pruebe nuestro producto dibujando una pequeña mancha en su piel. Espere de 12 a 24 horas para que se desarrolle la muestra y controle su piel durante la semana siguiente para asegurarse de que no haya reacción antes de usar.
 - APLICACIÓN: Siempre use guantes durante la primera operación. Este producto se mancha fácilmente. Frotar es difícil cuando toca otras partes del cuerpo. Lávese después de 1 hora y espere el resultado completo en 12-24 horas. Nota: ¡No se muestra de inmediato!
+- SEGURIDAD: Todo natural, orgánico y duradero: este kit es seguro para los niños y no contiene PPD u otros productos químicos tóxicos. ¡Almacene en el refrigerador para obtener mejores resultados cuando no esté en uso! 100% orgánico Cada lote de Jagua se ha recogido recientemente a mano y se ha probado su frescura y seguridad.
+- 2 tintas de tatuaje pequeñas, 2 plantillas de bricolaje, sin desperdicio y fáciles de usar. La punta de aguja metálica permite diseños muy detallados y una botella para presionar y verificar fácilmente.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08F1MLZCH/?tag=tolees-21)

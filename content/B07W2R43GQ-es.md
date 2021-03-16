@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger TJM Chest Logo tee Camise con un 31.07 % de descuento'
-date: 2021-03-14 16:58:03
+date: 2021-03-15 23:15:55
 image: 'https://m.media-amazon.com/images/I/41QQrhN6AqL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -30,8 +30,8 @@ En este momento está [Tommy Hilfiger TJM Chest Logo tee Camiseta  Blanco  White
 
 - Corte entallado
 - Cuello abotonado
-- Bandera de Tommy Hilfiger bordada en el pecho
 - Cinta interior del cuello
 - Algodón Oxford elástico
+- Bandera de Tommy Hilfiger bordada en el pecho
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07W2R43GQ/?tag=tolees-21)

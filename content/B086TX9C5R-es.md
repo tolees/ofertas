@@ -28,8 +28,8 @@ Tienes [PUMA String 3p Pack Tanga Bragas  White/Grey/Black  M para Mujer](https:
 
 ℹ️:
 
-- Lavar a máquina
 - Cierre: pull on
 - Tanga bragas para mujer
+- Lavar a máquina
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B086TX9C5R/?tag=tolees-21)
