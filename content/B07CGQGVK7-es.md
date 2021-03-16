@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mr. Wonderful WOA09123ES - Álbum al 30.53 % de descuento'
-date: 2021-03-15 04:09:41
+date: 2021-03-16 04:52:32
 image: 'https://m.media-amazon.com/images/I/41CYEXiiZmL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Mr. Wonderful'
 buyurl: 'https://www.amazon.es/dp/B07CGQGVK7/?tag=tolees-21'
 descuento: '30.53'
-average: '19.9366917293231'
+average: '19.8913432835819'
 ---
 
 Ahora mismo tienes [Mr. Wonderful WOA09123ES - Álbum](https://www.amazon.es/dp/B07CGQGVK7/?tag=tolees-21) a 13.86 EUR (original: 19.95 EUR) (30.53 %  de descuento) en el siguiente enlace!

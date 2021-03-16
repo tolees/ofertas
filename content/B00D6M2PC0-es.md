@@ -1,32 +1,39 @@
 ---
 layout: post
-title: 'Descuento del 37.71 % en D-Link GO-SW-5E - Switch de Red con 5 Pu'
-date: 2020-08-27 16:02:25
+title: 'Descuento del 35.96 % en D-Link GO-SW-5E - Switch de red con 5 pu'
+date: 2021-03-16 04:24:20
 image: 'https://m.media-amazon.com/images/I/311uLF1hGNL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00D6M2PC0-es D-Link GO-SW-5E - Switch de Red con 5 Puertos 10/100 Mps...'
+slug: 'B00D6M2PC0-es D-Link GO-SW-5E - Switch de red con 5 puertos 10/100 Mps...'
 sku: 'B00D6M2PC0-es'
 tags: [  ]
-actualPrice: 6.79 EUR
+actualPrice: 6.98 EUR
 currency: EUR
-price: 6.79
+price: 6.98
 comparePrice: 10.9 EUR
-prodname: 'D-Link GO-SW-5E - Switch de Red con 5 Puertos 10/100 Mps  Color Blanco'
+prodname: 'D-Link GO-SW-5E - Switch de red con 5 puertos 10/100 Mps  color blanco'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'D-Link'
 buyurl: 'https://www.amazon.es/dp/B00D6M2PC0/?tag=tolees-21'
-descuento: '37.71'
-average: '6.824375000000001'
+descuento: '35.96'
+average: '6.84166666666667'
 ---
 
-Tienes [D-Link GO-SW-5E - Switch de Red con 5 Puertos 10/100 Mps  Color Blanco](https://www.amazon.es/dp/B00D6M2PC0/?tag=tolees-21) con un 37.71 % de descuento con precio de oferta de 6.79 EUR (original: 10.9 EUR) en el siguiente enlace!
+Tienes [D-Link GO-SW-5E - Switch de red con 5 puertos 10/100 Mps  color blanco](https://www.amazon.es/dp/B00D6M2PC0/?tag=tolees-21) con un 35.96 % de descuento con precio de oferta de 6.98 EUR (original: 10.9 EUR) en el siguiente enlace!
 
-[![D-Link GO-SW-5E - Switch de Red con 5 Pu](https://m.media-amazon.com/images/I/311uLF1hGNL._SL400_.jpg)](https://www.amazon.es/dp/B00D6M2PC0/?tag=tolees-21)
+[![D-Link GO-SW-5E - Switch de red con 5 pu](https://m.media-amazon.com/images/I/311uLF1hGNL._SL400_.jpg)](https://www.amazon.es/dp/B00D6M2PC0/?tag=tolees-21)
 
 ℹ️:
 
+- 5 puertos con velocidad Fast Ethernet (10/100 Mbps) y full dúplex
+- No necesita configuración: enchufar, conectar y listo
+- Formato sobremesa y tamaño muy reducido
+- Indicadores led del estado de conexión y actividad en cada puerto
+- D-Link Green: los puertos sin conexión se desconectan automáticamente y se mide la longitud del cable para adecuar el consumo eléctrico, alcanzando un ahorro energético de hasta un 85%
+- Aumenta la capacidad de tu red cableada para conectar hasta 5 equipos por cable de red Ethernet LAN de CAT5 y CAT6
+- Sin ventilador, funcionamiento silencioso
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00D6M2PC0/?tag=tolees-21)
