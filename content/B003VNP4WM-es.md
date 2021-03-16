@@ -28,10 +28,10 @@ Tienes [OSRAM 66240 XENARC ORIGINAL - Lámpara de xenón  D2S HID  calidad de eq
 
 🔎:
 
-- OSRAM XENARC ORIGINAL D2S: lámparas HID de xenón resistentes en calidad OEM (OEM) para una luz de foco sin problemas
 - Quemador de xenón D2S en calidad OEM: excelente salida de luz y vida confiable
-- Probados millones de veces en nuevos coches de fabricantes.
-- La calidad de este producto está asegurada con una garantía del fabricante de OSRAM hasta 4 años. Se recomienda cambiar las lámparas de xenón de un profesional.
 - Bombilla de xenón que las piezas de repuesto originales: versión D2S, 85V, 35W, 3200 lm, 4300 Kelvin, P32d-2
+- La calidad de este producto está asegurada con una garantía del fabricante de OSRAM hasta 4 años. Se recomienda cambiar las lámparas de xenón de un profesional.
+- OSRAM XENARC ORIGINAL D2S: lámparas HID de xenón resistentes en calidad OEM (OEM) para una luz de foco sin problemas
+- Probados millones de veces en nuevos coches de fabricantes.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B003VNP4WM/?tag=tolees-21)

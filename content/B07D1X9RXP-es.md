@@ -28,8 +28,8 @@ Tienes [Armani Exchange 8nzf70 Polo  Negro  Black 1200   X-Small para Hombre](ht
 
 🔎:
 
-- Corte ajustado.
 - Detalle en el cuello.
+- Corte ajustado.
 - Logotipo pequeño.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07D1X9RXP/?tag=tolees-21)

@@ -28,10 +28,10 @@ Tienes [adidas QT Racer 2.0  Zapatillas Mujer  NEGBÁS/FTWBLA/Onix  40 2/3 EU](h
 
 🔎:
 
+- Cierre de cordones
+- Parte superior textil a capas
 - Zapatilla con estilo inspirado en el running
 - Diseño ligero
-- Cierre de cordones
 - Horma clásica
-- Parte superior textil a capas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0834BKDHD/?tag=tolees-21)
