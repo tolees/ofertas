@@ -30,7 +30,7 @@ Tienes [Varta LR6  - Pilas alcalinas AA  12 unidades   plata](https://www.amazon
 
 - Disponibles en varios paquetes
 - Puede retirar cada batería por separado y distinguir las nuevas de las ya usadas
-- Voltaje de 1.5 V
 - Adecuados para juguetes, equipos de audio, linternas LED y dispositivos informáticos
+- Voltaje de 1.5 V
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B008F5MRFI/?tag=tolees-21)

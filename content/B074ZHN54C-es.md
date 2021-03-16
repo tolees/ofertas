@@ -28,10 +28,10 @@ Tienes [Fossil Reloj Cronógrafo para Hombre de Cuarzo con Correa en Cuero FS538
 
 🔎:
 
-- Se presenta en lata Fossil ilustrada de coleccionista (varios diseños)
 - Fossil
-- Chronograph
 - Grosor de la caja: 12mm; Tamaño de la caja: 44mm; Ancho de la correa: 22mm; Circunferencia de la correa: 200+/- 5mm
+- Se presenta en lata Fossil ilustrada de coleccionista (varios diseños)
+- Chronograph
 - Material de la correa: Piel; Resistente al agua: 5 ATM; Movimiento: Cronógrafo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B074ZHN54C/?tag=tolees-21)

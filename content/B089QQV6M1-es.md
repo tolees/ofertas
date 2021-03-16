@@ -28,10 +28,10 @@ Está [adidas Lite Racer RBN 2.0  Zapatillas Mujer  FTWBLA/FTWBLA/Gridos  40 2/3
 
 ℹ️:
 
-- Cierre de cordones
-- Horma clásica
 - Zapatilla deportiva inspirada en el running
+- Horma clásica
 - Parte superior de malla estampada
+- Cierre de cordones
 - Diseño ligero y transpirable
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B089QQV6M1/?tag=tolees-21)
