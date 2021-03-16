@@ -28,10 +28,10 @@ Ahora mismo tienes [Vaseline Gel Reparador](https://www.amazon.es/dp/B01BIRS7SA/
 
 🔎:
 
-- Un solo gel, diferentes aplicaciones que reconstruye talones agrietados, previene las rozaduras, repara los labios agrietados, revitaliza las zonas secas de la piel, alivia quemaduras o rojeces.
 - Formato 50ml, ideal para llevar a cualquier lado
 - Clínicamente probado
-- Vaseline Gel Reparador Original, gel reparador de vaselina 100% pura
 - Ayuda a proteger, reparar e hidratar la piel seca desde 1870
+- Un solo gel, diferentes aplicaciones que reconstruye talones agrietados, previene las rozaduras, repara los labios agrietados, revitaliza las zonas secas de la piel, alivia quemaduras o rojeces.
+- Vaseline Gel Reparador Original, gel reparador de vaselina 100% pura
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01BIRS7SA/?tag=tolees-21)
