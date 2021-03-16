@@ -28,9 +28,9 @@ En este momento está [Climax 5RG](https://www.amazon.es/dp/B00HZ3XDOU/?tag=tole
 
 🔎:
 
-- modelo: M77796
+- 299 g
 - Dimensiones: 25 x 20 x 11 cm
 - blanco
-- 299 g
+- modelo: M77796
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00HZ3XDOU/?tag=tolees-21)

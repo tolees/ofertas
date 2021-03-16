@@ -28,10 +28,10 @@ Tienes [G-STAR RAW Roxic Pantalones Cortos  Mazarine Blue GD C096/B567  27W Mens
 
 🔎:
 
-- Logotipo de G-Star RAW en el bolsillo para monedas y etiqueta tejida en el bajo
-- Bajo ajustable con cinta
-- Talle medio
 - Cierre de botones y cremallera
 - Logotipo de G-Star RAW en el bolsillo para monedas y etiqueta tejida en el bajo
+- Logotipo de G-Star RAW en el bolsillo para monedas y etiqueta tejida en el bajo
+- Talle medio
+- Bajo ajustable con cinta
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07Z4BN7V9/?tag=tolees-21)
